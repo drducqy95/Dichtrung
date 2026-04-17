@@ -1,22 +1,12 @@
 # Mục lục - Hồng Hoang Lịch
 
-- Chương 0001: Vĩnh Dạ
 - Chương 0001: Cao tháp
-- Chương 0002: Biến mất
 - Chương 0002: Xuyên việt
-- Chương 0003: Hoang dã
 - Chương 0003: Hồng Hoang!
-- Chương 0004: Thợ săn
 - Chương 0004: Sinh tử bản sắc
-- Chương 0005: Mở ra
 - Chương 0005: Chủ Thần Không Gian mở ra (thượng)
-- Chương 0006: Triệu mộ
 - Chương 0006: Chủ Thần Không Gian mở ra (hạ)
-- Chương 0007: Hội ngộ
 - Chương 0007: Chủ Thần?
-- Chương 0008: Quy tắc
 - Chương 0008: Sơ đại Chủ Thần không gian
-- Chương 0009: Bộc phát
 - Chương 0009: Đổi thưởng
-- Chương 0010: Tư chất và Trúc cơ
 - Chương 0010: Tuyển chọn
