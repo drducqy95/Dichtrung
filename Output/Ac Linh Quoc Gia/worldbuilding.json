@@ -1,0 +1,746 @@
+{
+  "factions": [
+    {
+      "id": "F001",
+      "name_source": "第三冥府",
+      "name_target": "Đệ Tam Minh Phủ",
+      "name_aliases": ["Công ty", "Third Underworld"],
+      "type": "organization",
+      "description": "Tổ chức bí mật tuyển dụng người làm 'việc' siêu nhiên. Có hệ thống phân cấp nghiêm ngặt. Hoạt động với mục đích duy trì cân bằng nhân giới.",
+      "leader": null,
+      "hierarchy": [
+        { "rank": "Tổng giám", "holders": [] },
+        { "rank": "Cao cấp Kinh lý", "holders": [] },
+        { "rank": "Kinh lý", "holders": [] },
+        { "rank": "Cao cấp Chủ quản", "holders": ["C007", "C073", "C075"] },
+        { "rank": "Chủ quản", "holders": ["C001", "C010", "C006", "C074"] },
+        { "rank": "Nhân viên chính thức", "holders": ["C022", "C023", "C050"] }
+      ],
+      "members": ["C001", "C007", "C010", "C021", "C022", "C023"],
+      "event_types": [
+        {
+          "name": "Sự kiện Phổ thông (普通事件)",
+          "description": "Giải quyết quỷ vật cấp Lệ quỷ xuất hiện trong khu vực quản lý của Chủ quản. Không có phần thưởng đánh giá xếp hạng (评分), mục tiêu là duy trì trật tự địa bàn."
+        },
+        {
+          "name": "Sự kiện Ngẫu nhiên (随机事件)",
+          "description": "Do công ty chỉ định bất ngờ, có độ khó cao, có phần thưởng đánh giá xếp hạng. Có thể thực hiện chung với nhân viên từ các Minh Phủ khác."
+        },
+        {
+          "name": "Sự kiện Đoàn đội (团队事件)",
+          "description": "Sự kiện quy mô lớn do các Cao cấp Chủ quản (như Lương Nhược Vân, Lạc Trần) dẫn đội. Đòi hỏi sự phối hợp cấp cao."
+        },
+        {
+          "name": "Khảo hạch Chủ quản (主管考核)",
+          "description": "Sự kiện linh dị đặc thù xảy ra khi nhân viên thăng chức lên Chủ quản. Nhân viên phải tự mình giải quyết thử thách này để chính thức được công nhận."
+        }
+      ],
+      "redemption_system": {
+        "name": "Hệ thống Đổi (兑换)",
+        "description": "Sau khi thăng lên Chủ quản, nhân viên có thể dùng Điểm đánh giá (评分) để đổi lấy các kỹ năng/pháp thuật vĩnh viễn. Lựa chọn này là trọn đời, chỉ thăng cấp thêm khi lên Cao cấp Chủ quản.",
+        "categories": ["Thuật pháp (Spellcast)", "Quỷ vật thể chất (Ghost-bodied)"]
+      },
+      "headquarters": "Tòa nhà văn phòng Hoàng Kim (Phúc Bình)",
+      "territory": "",
+      "founding_info": {},
+      "specialties": ["Xử lý quỷ hồn", "Duy trì cân bằng âm dương"],
+      "realms_of_existence": [
+        {
+          "name": "Đệ Nhất Vực (First Domain)",
+          "description": "Cõi thực tại hiện tại mà các chức viên và Chủ quản đang hoạt động."
+        },
+        {
+          "name": "Đệ Nhị Vực (Second Domain)",
+          "description": "Cõi không gian cao hơn, mở khóa khi thăng lên Cao cấp Chủ quản. Chưa rõ thông tin chi tiết."
+        },
+        {
+          "name": "Đệ Tam Vực (Third Domain)",
+          "description": "Cõi không gian cấp cao nhất hiện tại, nơi các Kinh lý (Manager) đang thực hiện nhiệm vụ."
+        }
+      ],
+      "cleaning_area": {
+        "name": "Khu vực quét sạch (清理区域)",
+        "description": "Khu vực địa lý mà một Minh Phủ chịu trách nhiệm tiêu diệt quỷ vật. Theo Hiệp ước bất bình đẳng mới, Đệ Tam Minh Phủ bị ép nhận khu vực lớn nhất, tần suất sự kiện tăng cao (2-3 vụ/tháng), trong khi các kênh kiếm điểm vinh dự bị chèn ép xuống còn 1/4 (Ch. 320)."
+      },
+      "signature_techniques": [],
+      "allies": [],
+      "enemies": [],
+      "alignment": "Neutral / Order",
+      "notable_events": [
+        { "chapter": 41, "event": "Hạ Thiên Kì ký hợp đồng máu chính thức gia nhập Đệ Tam Minh Phủ" },
+        { "chapter": 87, "event": "Lãnh Nguyệt và Thiên Kì thảo luận về bản chất và mục đích của công ty" },
+        { "chapter": 100, "event": "Hạ Thiên Kì và Lãnh Nguyệt lên kế hoạch mở văn phòng trừ quỷ tư nhân lấy danh nghĩa kinh doanh ngoài luồng" },
+        { "chapter": 270, "event": "Hạ Thiên Kì hoàn thành sự kiện Chung cư Thanh Niên với đánh giá Hoàn Mỹ, đủ điều kiện thăng chức Chủ quản dự bị" }
+      ],
+      "first_mention_chapter": 1,
+      "status": "active",
+      "notes": ""
+    },
+    {
+      "id": "F002",
+      "name_source": "第一冥府",
+      "name_target": "Đệ Nhất Minh Phủ",
+      "type": "organization",
+      "description": "Một trong ba thế lực lớn (Công ty) thực hiện các sự kiện siêu nhiên. Được đánh giá là mạnh nhất trong ba Minh Phủ hiện tại. Có phong cách hoạt động tàn nhẫn, chuyên gài bẫy nhân viên các Minh Phủ khác để làm vật tế nâng cấp quỷ vật.",
+      "notable_events": [
+        { "chapter": 305, "event": "Lý Thu Bình lộ diện là người của Đệ Nhất Minh Phủ, gài bẫy nhóm Hạ Thiên Kì." }
+      ],
+      "status": "active"
+    },
+    {
+      "id": "F003",
+      "name_source": "第二冥府",
+      "name_target": "Đệ Nhị Minh Phủ",
+      "type": "organization",
+      "description": "Một trong ba thế lực lớn (Công ty) thực hiện các sự kiện siêu nhiên.",
+      "status": "active"
+    }
+  ],
+
+  "weapons": [
+    {
+      "id": "W001",
+      "name_source": "鬼玉",
+      "name_target": "Quỷ Ngọc",
+      "name_aliases": [],
+      "type": "artifact",
+      "rank": "unknown",
+      "description": "Viên ngọc bảo hộ do ông ngoại (Lão Ngoan Đồng) tặng cho Hạ Thiên Kì. Có khả năng phát hiện sự hiện diện siêu nhiên, bị nứt khi có quỷ ở gần.",
+      "abilities": ["Phát hiện sự hiện diện siêu nhiên", "Cảnh báo nguy hiểm (nứt vỡ)"],
+      "materials": "Ngọc",
+      "forged_by": "Ông ngoại Hạ Thiên Kì (Lão Ngoan Đồng)",
+      "current_holder": "C001",
+      "holder_history": [
+        { "holder": "C001", "from_chapter": 1, "to_chapter": null, "acquisition_method": "inherit" }
+      ],
+      "origin": "Gia truyền từ ông ngoại — Thầy âm dương",
+      "hidden_secrets": "",
+      "first_mention_chapter": 4,
+      "status": "active",
+      "notes": "Bị nứt khi có quỷ ở gần (ch.4)"
+    },
+    {
+      "id": "W002",
+      "name_source": "乾坤袋",
+      "name_target": "Túi Càn Khôn",
+      "name_aliases": [],
+      "type": "artifact",
+      "rank": "uncommon",
+      "description": "Túi chứa các loại bùa hộ mệnh và vật dụng trừ tà do mẹ Hạ Thiên Kì chuẩn bị.",
+      "abilities": ["Chứa nhiều loại bùa chú và vật dụng trừ tà"],
+      "materials": "",
+      "forged_by": "Mẹ Hạ Thiên Kì",
+      "current_holder": "C001",
+      "holder_history": [
+        { "holder": "C001", "from_chapter": 5, "to_chapter": null, "acquisition_method": "gift" }
+      ],
+      "origin": "Do mẹ gửi cho sau khi liên lạc về sự kiện siêu nhiên",
+      "hidden_secrets": "",
+      "first_mention_chapter": 5,
+      "status": "active",
+      "notes": ""
+    },
+    {
+      "id": "W003",
+      "name_source": "符咒",
+      "name_target": "Bùa chú (mua từ chùa)",
+      "name_aliases": ["Bùa hộ mệnh"],
+      "type": "talisman",
+      "rank": "common",
+      "description": "Các loại bùa chú mua từ chùa để chuẩn bị cho nhiệm vụ thử việc lần hai.",
+      "abilities": ["Xua đuổi tà khí", "Bảo hộ bản thân"],
+      "materials": "Giấy bùa",
+      "forged_by": "Mua từ chùa",
+      "current_holder": "C001",
+      "holder_history": [
+        { "holder": "C001", "from_chapter": 15, "to_chapter": null, "acquisition_method": "craft" }
+      ],
+      "origin": "Mua chuẩn bị cho nhiệm vụ lần hai",
+      "hidden_secrets": "",
+      "first_mention_chapter": 15,
+      "status": "active",
+      "notes": ""
+    },
+    {
+      "id": "W004",
+      "name_source": "桃木剑",
+      "name_target": "Đào mộc kiếm",
+      "name_aliases": ["Kiếm gỗ đào"],
+      "type": "artifact",
+      "rank": "rare",
+      "description": "Pháp khí của Lãnh Nguyệt, ban đầu chỉ là chuôi kiếm gỗ đào, có thể phát ra kiếm khí quang đỏ hoặc ngân quang khi kết hợp với bùa chú.",
+      "abilities": ["Trừ quỷ", "Phát ra kiếm khí"],
+      "current_holder": "C010",
+      "status": "active"
+    }
+  ],
+
+  "techniques": [
+    {
+      "id": "T001",
+      "name_source": "四方阵",
+      "name_target": "Tứ Phương Trận",
+      "name_aliases": ["Tứ Phương Hỏa Lung"],
+      "type": "formation",
+      "rank": "uncommon",
+      "element": "fire",
+      "known_users": ["C006"],
+      "first_mention_chapter": 11,
+      "status": "known"
+    },
+    {
+      "id": "T002",
+      "name_source": "天眼",
+      "name_target": "Thiên Nhãn",
+      "type": "passive_ability",
+      "rank": "low",
+      "description": "Kỹ năng nhìn thấu ảo giác (illusion) và phát hiện quỷ vật ẩn nấp.",
+      "known_users": ["C010"],
+      "first_mention_chapter": 84,
+      "status": "active"
+    },
+    {
+      "id": "T003",
+      "name_source": "困鬼阵",
+      "name_target": "Khốn Quỷ Trận",
+      "type": "array / formation",
+      "rank": "low",
+      "description": "Trận pháp vây khốn quỷ vật bằng cách sắp xếp đá và dán Khốn Quỷ Phù.",
+      "known_users": ["C010"],
+      "first_mention_chapter": 84,
+      "status": "active"
+    },
+    {
+      "id": "T004",
+      "name_source": "鬼化",
+      "name_target": "Quỷ hóa",
+      "name_aliases": ["Dung hợp Ác Linh"],
+      "type": "transformation / constitution_ability",
+      "rank": "medium",
+      "description": "Trạng thái dung hợp sức mạnh của Ác Linh trong cơ thể vào các bộ phân thể chất. Đòi hỏi 'Điểm dung hợp' và khả năng thao khống cao.",
+      "known_users": ["C001", "C023"],
+      "first_mention_chapter": 166,
+      "status": "active"
+    },
+    {
+      "id": "T005",
+      "name_source": "咒法师",
+      "name_target": "Chú Pháp Sư",
+      "type": "class / specialization",
+      "rank": "varies",
+      "description": "Những người chuyên tu luyện và sử dụng bùa chú, trận pháp làm phương tiện giao chiến chính. Sở hữu sát thương diện rộng và khống chế tốt nhưng thường cần thời gian ngâm xướng hoặc bày trận.",
+      "known_users": ["C010", "C062", "C064"],
+      "first_mention_chapter": 240,
+      "status": "active"
+    },
+    {
+      "id": "T006",
+      "name_source": "操纵师",
+      "name_target": "Thao Túng Sư",
+      "type": "class / specialization",
+      "rank": "varies",
+      "description": "Các thuật sư chuyên thao túng vật chất, như hình nhân giấy, bù nhìn rơm, thao khống ảo giác để tham chiến hoặc đánh lạc hướng quỷ vật.",
+      "known_users": ["C063"],
+      "first_mention_chapter": 240,
+      "status": "active"
+    },
+    {
+      "id": "T007",
+      "name_source": "符文阵",
+      "name_target": "Phù Văn Trận",
+      "type": "array / ancient_magic",
+      "rank": "high",
+      "description": "Bí thuật cổ xưa của Chú Pháp Sư, bao bọc bản thân bằng hàng chục phù văn tạo thành kiếm trận rực rỡ sắc màu, có khả năng tiêu diệt hoàn toàn Lệ quỷ.",
+      "known_users": ["C010"],
+      "first_mention_chapter": 309,
+      "status": "active"
+    },
+    {
+      "id": "T008",
+      "name_source": "冤魂体质",
+      "name_target": "Oan hồn thể chất",
+      "type": "physique",
+      "description": "Thể chất hiếm có tương đương Quỷ vương thể chất. Không có Quỷ khí nhưng có thể sử dụng Linh lực (pháp lực) để thi triển các thuật pháp cơ bản.",
+      "known_users": ["C086"],
+      "first_mention_chapter": 368,
+      "status": "active"
+    },
+    {
+      "id": "T009",
+      "name_source": "蛊术",
+      "name_target": "Cổ thuật",
+      "type": "specialization / dark_arts",
+      "rank": "varies",
+      "description": "Thuật pháp sử dụng các loại sâu độc (Cổ) để ám hại hoặc điều khiển con người. Có khả năng khống chế cơ thể nạn nhân từ xa.",
+      "known_users": ["C090"],
+      "first_mention_chapter": 377,
+      "status": "active"
+    }
+  ],
+
+  "cultivation_systems": [
+    {
+      "system_id": "CS001",
+      "name_source": "超自然力量",
+      "name_target": "Hệ thống siêu nhiên",
+      "description": "Thế giới siêu nhiên được chia làm hai mảng: Thuật (Art) và Trận (Array). Quỷ vật được chia thành Quỷ (do người chết hóa thành), Quỷ loại (sinh vật thiên địch của con người) và Quỷ Mị (Mộng Yểm, Quỷ nhập xác).",
+      "source_type": "supernatural",
+      "category": "primary",
+      "energy_name": {
+        "source": "灵力",
+        "target": "Linh lực (chưa xác nhận)"
+      },
+      "realms": [
+        {
+          "level": 1,
+          "name_source": "",
+          "name_target": "Phàm nhân",
+          "description": "Người bình thường, không có khả năng siêu nhiên. Dễ bị quỷ hồn tấn công.",
+          "sub_stages": [],
+          "abilities_unlocked": [],
+          "tribulation": null,
+          "bottleneck": null,
+          "lifespan": "Bình thường (~80 năm)",
+          "population_rarity": "phổ biến",
+          "known_characters": ["C001", "C003", "C004", "C008", "C009", "C011"]
+        },
+        {
+          "level": 2,
+          "name_source": "",
+          "name_target": "Có phép thuật cơ bản",
+          "description": "Biết sử dụng bùa chú, trận pháp cơ bản. Có thể đối phó với quỷ hồn yếu.",
+          "sub_stages": ["sơ cấp (dùng bùa)", "trung cấp (đặt trận pháp)"],
+          "abilities_unlocked": ["Sử dụng bùa chú", "Đặt trận pháp đơn giản", "Cảm nhận tà khí"],
+          "tribulation": null,
+          "bottleneck": {
+            "description": "Cần có nền tảng gia truyền hoặc sư phụ truyền dạy",
+            "required_resources": ["Bùa gốc", "Kiến thức trận pháp"],
+            "required_comprehension": "Hiểu biết cơ bản về thế giới siêu nhiên",
+            "typical_time": "Nhiều năm học tập"
+          },
+          "lifespan": "Bình thường",
+          "population_rarity": "hiếm",
+          "known_characters": ["C006", "C010"]
+        },
+        {
+          "level": 3,
+          "name_source": "",
+          "name_target": "Cao thủ",
+          "description": "Sức mạnh siêu nhiên mạnh, có thể xua đuổi ác quỷ trực tiếp. Có năng lực đặc biệt.",
+          "sub_stages": [],
+          "abilities_unlocked": ["Xua đuổi quỷ mạnh", "Năng lực siêu nhiên trực tiếp", "Kiểm soát ánh sáng"],
+          "tribulation": null,
+          "bottleneck": {
+            "description": "Chưa rõ — có thể cần trải qua nhiều nhiệm vụ nguy hiểm",
+            "required_resources": [],
+            "required_comprehension": "Chưa rõ",
+            "typical_time": "Chưa rõ"
+          },
+          "lifespan": "Chưa rõ",
+          "population_rarity": "cực hiếm",
+          "known_characters": ["C007"]
+        }
+      ],
+      "special_rules": [
+        "Ánh sáng có tác dụng yếu/xua đuổi ác quỷ",
+        "Bùa chú có thể xua đuổi tạm thời nhưng không diệt được quỷ mạnh",
+        "Quỷ hoạt động mạnh trong bóng tối, đặc biệt ban đêm",
+        "Người bình thường có thể chết nếu đối đầu trực tiếp với quỷ",
+        "Thử việc: phải tự giải quyết quỷ hồn, không có ai giúp",
+        "Sự kiện đoàn đội: Chỉ có thể kết thúc bằng cách tiêu diệt quỷ vật (Hoàn mỹ). Có giới hạn thời gian (thường 48h). Thất bại bị trừ nợ 10 lần Honor Point."
+      ],
+      "compatible_with": [],
+      "conflicts_with": [],
+      "first_mention_chapter": 1,
+      "notes": "Hệ thống này thuộc thể loại horror/supernatural hiện đại, không phải tu tiên cổ điển. Cảnh giới sẽ được bổ sung khi truyện tiết lộ thêm.",
+      "lore_entities": [
+        {
+          "name": "Mộng Yểm (Nightmare)",
+          "description": "Quỷ vật sống trong mộng cảnh, hình thành từ sự kết hợp giữa Tâm Ma (cảm xúc tiêu cực) và Du Hồn (linh hồn lang thang). Có khả năng đọc ký ức và huyễn hóa.",
+          "first_mention_chapter": 108
+        },
+        {
+          "name": "Tâm Ma (Inner Demon)",
+          "description": "Phần 'tôi' xấu xa bị lý trí và đạo đức xích chặt, tập hợp các cảm xúc tiêu cực như tham lam, tàn nhẫn.",
+          "first_mention_chapter": 109
+        },
+        {
+          "first_mention_chapter": 303
+        },
+        {
+          "name": "Quỷ Anh (Ghost Infant)",
+          "description": "Quỷ vật thiên bẩm sinh ra từ cơ thể con người. Nó xâm nhập vào cơ thể phụ nữ đang mang thai, ăn sạch phôi thai ban đầu và lớn lên trong tử cung. Quỷ Anh có khả năng lớn lên như người bình thường nhưng sở hữu sức mạnh vượt trội ngay khi mới sinh, có tiềm năng thăng cấp thành Ác Quỷ hoặc Quỷ Vương.",
+          "first_mention_chapter": 407
+        }
+      ]
+    }
+  ],
+
+  "cultivation_resources": [],
+
+  "power_ranking": {
+    "last_updated_chapter": 270,
+    "ranking": [
+      { "rank": 1, "character_id": "C007", "realm": "Giám đốc / Kinh lý", "combat_note": "Sức mạnh khôi phục và phán xử diệt diệt quỷ cấp cao dễ dàng như Lệ Quỷ Lột Da." },
+      { "rank": 2, "character_id": "C037", "realm": "Âm dương tiên sinh cấp cao", "combat_note": "Ông nội HTK, bùa hộ mệnh có thể chặn được lệ quỷ cấp cao trực diện." },
+      { "rank": 3, "character_id": "C001", "realm": "Cấp độ Lệ quỷ (厉鬼)", "combat_note": "Sau khi cường hóa Ác Linh Thể Chất và dùng điểm Vinh dự, HTK đã chính thức bước vào cấp độ Lệ quỷ, có thể áp đảo và tiêu diệt các quỷ vật cấp cao bằng sức mạnh thuần túy." },
+      { "rank": 4, "character_id": "C010", "realm": "Chú Pháp Sư mạnh", "combat_note": "Sở hữu Phù Văn Trận có thể tiêu diệt Lệ quỷ. Sức mạnh linh hồn và kiếm khí cực mạnh." }
+    ],
+    "notes": "HTK đã chính thức vượt qua Lãnh Nguyệt về thực lực thể chất sau khi đột phá cấp Lệ quỷ (Ch. 306)."
+  },
+
+  "locations": [
+    {
+      "id": "L001",
+      "name_source": "福平市",
+      "name_target": "Thành phố Phúc Bình",
+      "name_aliases": [],
+      "type": "city",
+      "description": "Thành phố nơi xảy ra câu chuyện",
+      "parent_location": null,
+      "sub_locations": ["Phố Bình An", "Hiệu sách Tân Hoa", "Học viện nữ sinh Tề Hà"],
+      "controlling_faction": null,
+      "notable_residents": ["C001"],
+      "notable_events": [],
+      "environment": "Thành phố hiện đại",
+      "dangers": "Nhiều vụ ma ám xảy ra",
+      "relative_position": "",
+      "first_mention_chapter": 1,
+      "status": "active",
+      "notes": ""
+    },
+    {
+      "id": "L018",
+      "name_source": "黄金写字楼",
+      "name_target": "Tòa nhà văn phòng Hoàng Kim",
+      "description": "Nơi đặt trụ sở của Đệ Tam Minh Phủ tại thành phố Phúc Bình. Bên trong chứa nhiều khu vực không gian dị độ, bao gồm cả tầng họp dành cho các Cao cấp Chủ quản.",
+      "first_mention_chapter": 1,
+      "notes": "Có một tầng ẩn phía trên khu văn phòng thông thường, chỉ có thể lên bằng cầu thang bộ dưới sự hướng dẫn của Cao cấp Chủ quản."
+    },
+    {
+      "id": "L002",
+      "name_source": "鑫华大书店",
+      "name_target": "Hiệu sách lớn Tân Hoa",
+      "name_aliases": ["Hiệu sách Tân Hoa"],
+      "type": "building",
+      "description": "Hiệu sách 5 tầng nơi xảy ra nhiệm vụ thử việc đầu tiên. Có nhà vệ sinh nữ bị ma ám.",
+      "parent_location": "L001",
+      "sub_locations": ["Tầng 1-5", "Nhà vệ sinh nữ (nơi quỷ trú ngụ)", "Cầu thang"],
+      "controlling_faction": "F001",
+      "notable_residents": [],
+      "notable_events": [
+        { "chapter": 1, "event": "Hạ Thiên Kì nhận việc trực đêm" },
+        { "chapter": 2, "event": "Phát hiện xác chết trong nhà vệ sinh nữ" },
+        { "chapter": 10, "event": "Phùng Vĩ tử vong" },
+        { "chapter": 12, "event": "Vương Á Chi tử vong" },
+        { "chapter": 13, "event": "Từ Thiên Hoa tử vong, Lương Nhược Vân xuất hiện cứu Hạ Thiên Kì" }
+      ],
+      "environment": "Tối tăm, u ám, nhiều xác chết",
+      "dangers": "Ác quỷ trú ngụ trong nhà vệ sinh nữ, hoạt động khi mất điện",
+      "relative_position": "Phố Bình An, TP Phúc Bình",
+      "first_mention_chapter": 1,
+      "status": "abandoned",
+      "notes": "Arc 1: The Bookstore Trial (Ch.1-13)"
+    },
+    {
+      "id": "L003",
+      "name_source": "齐河女子学院",
+      "name_target": "Học viện nữ sinh Tề Hà",
+      "name_aliases": ["Trường Tề Hà"],
+      "type": "school",
+      "description": "Trường nữ sinh nơi xảy ra nhiệm vụ thử việc lần hai. Tòa ký túc xá số 2 tầng 8 bị bỏ hoang, có quỷ xuất hiện.",
+      "parent_location": "L001",
+      "sub_locations": ["Tòa ký túc xá số 1", "Tòa ký túc xá số 2", "Tầng 8 bỏ hoang", "Phòng 703"],
+      "controlling_faction": null,
+      "notable_residents": ["C011"],
+      "notable_events": [
+        { "chapter": 14, "event": "Hạ Thiên Kì nhận nhiệm vụ thử việc lần hai tại đây" },
+        { "chapter": 16, "event": "Vụ 'tự sát' của Vương Di Nhiên cách đây 3 ngày" },
+        { "chapter": 18, "event": "Hạ Thiên Kì thám thính tầng 8, bắt gặp bóng đỏ" },
+        { "chapter": 20, "event": "Hạ Thiên Kì nhìn thấy đôi mắt đỏ rực trên tầng 8" }
+      ],
+      "environment": "Trường nữ sinh, tầng 8 bỏ hoang u ám",
+      "dangers": "Ít nhất 2 con quỷ: quỷ bóng đỏ trên tầng 8 và có thể thêm con khác",
+      "relative_position": "TP Phúc Bình, gần quán net",
+      "first_mention_chapter": 14,
+      "status": "active",
+      "notes": "Arc 2: Qihe Academy Trial (Ch.14+). Tầng 7 là tầng cao nhất có người ở, tầng 8 bỏ hoang."
+    },
+    {
+      "id": "L004",
+      "name_source": "平安街",
+      "name_target": "Phố Bình An",
+      "name_aliases": [],
+      "type": "other",
+      "description": "Con phố nơi hiệu sách Tân Hoa tọa lạc",
+      "parent_location": "L001",
+      "sub_locations": [],
+      "controlling_faction": null,
+      "notable_residents": [],
+      "notable_events": [],
+      "environment": "",
+      "dangers": "",
+      "relative_position": "TP Phúc Bình",
+      "first_mention_chapter": 1,
+      "status": "active",
+      "notes": ""
+    },
+    {
+      "id": "L005",
+      "name_source": "葫芦村",
+      "name_target": "Thôn Hồ Lô",
+      "name_aliases": ["Làng Hồ Lô"],
+      "type": "village",
+      "description": "Một ngôi làng hẻo lánh bối cảnh nhiệm vụ chính thức đầu tiên. Nằm bên cạnh sông Hồ Lô và gần Lão Phần Cương.",
+      "parent_location": "L001",
+      "sub_locations": ["Nhà Trần Lão Đại", "Nhà Hồ Đại Ngưu", "Sông Hồ Lô", "Lão Phần Cương"],
+      "controlling_faction": null,
+      "notable_residents": ["C025", "C026", "C029"],
+      "notable_events": [
+        { "chapter": 51, "event": "Tiểu Lệ tự sát tại sông Hồ Lô" },
+        { "chapter": 58, "event": "Hạ Thiên Kì và Lãnh Nguyệt tới thôn" }
+      ],
+      "environment": "Làng quê cũ kỹ, u ám, bao quanh bởi núi rừng và sông nước.",
+      "dangers": "Lệ quỷ Tiểu Lệ đang tiến hành giết chóc báo thù.",
+      "relative_position": "Khu vực Trinh Thủy Lĩnh",
+      "first_mention_chapter": 51,
+      "status": "active",
+      "notes": ""
+    },
+    {
+      "id": "L006",
+      "name_source": "老坟岗",
+      "name_target": "Lão Phần Cương",
+      "name_aliases": ["Gò Mộ Cổ"],
+      "type": "cemetery",
+      "description": "Nghĩa địa của thôn Hồ Lô, nơi chôn cất người chết. Địa hình hiểm trở, âm khí nặng nề.",
+      "parent_location": "L005",
+      "sub_locations": [],
+      "controlling_faction": null,
+      "notable_residents": [],
+      "notable_events": [
+        { "chapter": 78, "event": "Từ Xung bị chôn sống và giết hại tại đây" }
+      ],
+      "environment": "Nghĩa địa hoang vu, nhiều mồ mả.",
+      "dangers": "Nơi Từ Xung và Tiểu Lệ chết oan, âm khí cực kỳ nặng.",
+      "relative_position": "Phía sau thôn Hồ Lô",
+      "first_mention_chapter": 78,
+      "status": "active",
+      "notes": ""
+    },
+    {
+      "id": "L007",
+      "name_source": "北安市",
+      "name_target": "Thành phố Bắc An",
+      "type": "town",
+      "description": "Quê nhà của Hạ Thiên Kì, nằm ở khu vực phía Bắc.",
+      "parent_location": null,
+      "sub_locations": ["Nhà cha mẹ Hạ", "Nhà ông nội"],
+      "controlling_faction": null,
+      "notable_residents": ["C035", "C036", "C037"],
+      "notable_events": [
+        { "chapter": 89, "event": "Hạ Thiên Kì về thăm nhà và phát hiện ông nội mất tích" }
+      ],
+      "environment": "Thành phố yên tĩnh",
+      "dangers": "Chưa rõ",
+      "relative_position": "Phía Bắc",
+      "first_mention_chapter": 89,
+      "status": "active",
+      "notes": ""
+    },
+    {
+      "id": "L008",
+      "name_source": "梦境世界",
+      "name_target": "Thế Giới Mộng Cảnh",
+      "name_aliases": ["Dream World"],
+      "type": "dimension",
+      "description": "Một thế giới độc lập tồn tại song song với thế giới thực. Ý thức con người sẽ thoát xác và vào đây khi ngủ say.",
+      "notable_residents": ["Mộng Yểm", "Mộng Ma"],
+      "first_mention_chapter": 110,
+      "status": "active"
+    },
+    {
+      "id": "L009",
+      "name_source": "神秘八层",
+      "name_target": "Tầng 8 bí ẩn",
+      "name_aliases": ["Phantom 8th Floor"],
+      "type": "supernatural_space",
+      "description": "Một không gian ma quái xuất hiện phía trên tầng thượng của các tòa nhà (vốn chỉ có 7 tầng). Đây là nơi khởi nguồn của hiện tượng 'Người chết về nhà'.",
+      "first_mention_chapter": 121,
+      "status": "active"
+    },
+    {
+      "id": "L010",
+      "name_source": "福源市",
+      "name_target": "Thành phố Phúc Nguyên",
+      "type": "city",
+      "description": "Một thành phố lân cận thành phố Tây Ninh, nơi các nạn nhân thường bị phái đi 'công tác' và tử vong tại đó trước khi trở về nhà.",
+      "first_mention_chapter": 133,
+      "status": "active"
+    },
+    {
+      "id": "L011",
+      "name_source": "吴守市",
+      "name_target": "Thành phố Ngô Thủ",
+      "type": "city",
+      "description": "Nơi thực hiện 'phi vụ riêng' đầu tiên của Tiểu đội Giải Phóng.",
+      "first_mention_chapter": 150,
+      "status": "active"
+    },
+    {
+      "id": "E008",
+      "name_source": "移动鬼域",
+      "name_target": "Quỷ vực di động",
+      "type": "supernatural_entity",
+      "description": "Một phân thân hoặc cánh cổng di động của Thế giới Quỷ, có ý chí riêng và cần 'nguồn thức ăn' là sinh mệnh con người.",
+      "first_mention_chapter": 140,
+      "status": "active"
+    },
+    {
+      "id": "E009",
+      "name_source": "邪灵",
+      "name_target": "Tà Linh",
+      "type": "supernatural_entity",
+      "description": "Tập hợp các ý thức tiêu cực, không có năng lực giết người trực tiếp nhưng chuyên về hù dọa và ảo giác cực mạnh (thị giác, xúc giác).",
+      "first_mention_chapter": 157,
+      "status": "active"
+    },
+    {
+      "id": "E010",
+      "name_source": "食尸鬼",
+      "name_target": "Thực Thi Quỷ",
+      "type": "supernatural_entity",
+      "description": "Linh hồn quỷ tiến hóa bằng cách ăn xác chết, có thể đạt tới thực lực tương đương Lệ Quỷ.",
+      "first_mention_chapter": 160,
+      "status": "active"
+    },
+    {
+      "id": "E011",
+      "name_source": "养尸人",
+      "name_target": "Dưỡng Thi Nhân",
+      "name_aliases": ["Corpse Raiser", "Necromancer"],
+      "type": "human_faction_entity",
+      "description": "Những kẻ coi quỷ vật là công cụ trục lợi. Chúng thường dùng xác chết hoặc thậm chí là sinh mạng của Trừ Quỷ Sư để nuôi dưỡng ('dưỡng') quỷ vật của mình.",
+      "first_mention_chapter": 162,
+      "status": "active",
+      "notes": "Liễu Chí Thành (giả) là một Dưỡng Thi Nhân."
+    },
+    {
+      "id": "L012",
+      "name_source": "宣城市",
+      "name_target": "Thành phố Tuyên Thành",
+      "type": "city",
+      "description": "Thành phố phát triển có khu công nghệ cao, nơi xảy ra vụ án quỷ lột da liên hoàn khiến giới cảnh sát (Triệu Tĩnh Thù) phải nhờ vào thế lực bên ngoài.",
+      "first_mention_chapter": 204,
+      "status": "active"
+    },
+    {
+      "id": "L013",
+      "name_source": "青年公寓",
+      "name_target": "Chung cư Thanh Niên",
+      "type": "building",
+      "description": "Tòa chung cư 15 tầng tại thành phố Lâm Viên. Nơi này bị quỷ vật phong tỏa tạo thành không gian khép kín (nội bất xuất ngoại bất nhập), cắt đứt toàn bộ sóng liên lạc.",
+      "first_mention_chapter": 247,
+      "status": "active",
+      "notes": "Địa điểm chính của Arc 3 (Ch.247+)"
+    },
+    {
+      "id": "E012",
+      "name_source": "剥皮鬼",
+      "name_target": "Quỷ Lột Da",
+      "type": "supernatural_entity",
+      "description": "Lệ quỷ chuyên lột da nạn nhân khi họ còn sống. Bất biến định hình cơ thể, có thể ngụy trang, sở hữu năng lực tạo mộng cảnh ảo giác.",
+      "first_mention_chapter": 204,
+      "status": "dead"
+    },
+    {
+      "id": "E013",
+      "name_source": "食人鬼",
+      "name_target": "Quỷ Ăn Thịt (Chung cư Thanh Niên)",
+      "type": "supernatural_entity",
+      "description": "Quỷ vật to lớn cỡ 2m, miệng có khả năng giãn rộng như rắn để nhuốt trọn con người mà không lưu lại vết tích, chân màng như chân vịt. Hung tợn, thoắt ẩn thoắt hiện. Đã tiến hóa thành Lệ Quỷ hoàn chỉnh sau khi dung hợp.",
+      "first_mention_chapter": 250,
+      "status": "escaped"
+    },
+    {
+      "id": "L014",
+      "name_source": "吴月市",
+      "name_target": "Thành phố Ngô Nguyệt",
+      "type": "city",
+      "description": "Thành phố trung tâm, nơi tổ chức hội nghị thường niên Minh Phủ.",
+      "first_mention_chapter": 272,
+      "status": "active"
+    },
+    {
+      "id": "L015",
+      "name_source": "安然街",
+      "name_target": "Phố An Nhiên",
+      "type": "alternate_space",
+      "description": "Một dị không gian (異度空間) tọa lạc tại thành phố Ngô Nguyệt, nơi đặt tòa kiến trúc khổng lồ tổ chức hội nghị thường niên. Chỉ những người có đồng hồ danh dự mới có thể thấy và đi vào.",
+      "parent_location": "L014",
+      "first_mention_chapter": 272,
+      "status": "active"
+    },
+    {
+      "id": "L016",
+      "name_source": "赵光镇",
+      "name_target": "Trấn Triệu Quang",
+      "type": "town",
+      "description": "Một thị trấn nhỏ thuộc quản hạt của thành phố Bắc An, nơi xảy ra sự kiện linh dị mới mà Lão Lý báo tin.",
+      "parent_location": "L007",
+      "first_mention_chapter": 286,
+      "status": "active"
+    },
+    {
+      "id": "L017",
+      "name_source": "阴阳风水秘馆",
+      "name_target": "Tiệm bí mật Phong thủy Âm dương",
+      "type": "building",
+      "description": "Cơ sở của Lý Thu Bình tại trấn Triệu Quang, nơi đào tạo nhiều thầy phong thủy trong vùng. Nhìn bên ngoài là căn nhà 2 tầng cũ nát, bên trong là văn phòng bình thường.",
+      "parent_location": "L016",
+      "first_mention_chapter": 290,
+      "status": "active"
+    },
+    {
+      "id": "L018",
+      "name_source": "明日村 / 小镇",
+      "name_target": "Minh Nhật thôn / Tiểu trấn",
+      "type": "alternate_space",
+      "description": "Một dị không gian hiện đại nằm giữa Vô nhân khu, kiến trúc biệt thự cao cấp. Đây là địa điểm diễn ra cuộc đại đào vong cuối cùng của sự kiện.",
+      "first_mention_chapter": 366,
+      "status": "active"
+    }
+  ],
+
+  "world_map": {
+    "generated": false,
+    "image_path": null,
+    "readiness_score": 4,
+    "last_updated_chapter": 100,
+    "description": "Thành phố Phúc Bình, bối cảnh hiện đại TQ. Hai địa điểm nhiệm vụ chính: Hiệu sách Tân Hoa (Arc 1) và Học viện nữ sinh Tề Hà (Arc 2).",
+    "scale": "local_city"
+  },
+
+  "relationship_diagrams": {
+    "character_relationship": {
+      "generated": false,
+      "mermaid_path": null,
+      "image_path": null,
+      "last_updated_chapter": null,
+      "min_characters_to_generate": 8
+    },
+    "family_tree": {
+      "generated": false,
+      "mermaid_path": null,
+      "image_path": null,
+      "last_updated_chapter": null,
+      "families_tracked": ["Họ Hạ"]
+    },
+    "faction_relationship": {
+      "generated": false,
+      "mermaid_path": null,
+      "image_path": null,
+      "last_updated_chapter": null
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "last_updated": "2026-04-17T08:53:41+07:00",
+    "total_characters": 22,
+    "source_projects": [
+      "Chu Than Dai Dao_Co Nguyet Cu Si",
+      "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han"
+    ],
+    "description": "Tổng hợp nhân vật từ TẤT CẢ project branch trong repo Dichtrung"
+  },
+  "characters": [
+    {
+      "id": "GCHAR_0001",
+      "source_project": "Chu Than Dai Dao_Co Nguyet Cu Si",
+      "name_original": "",
+      "name_translated": "Triệu Kỳ",
+      "gender": "nam",
+      "role": "Main Character",
+      "description": "Nhân vật chính, nhận được di sản của Sáng Thế và Tạo Vật.",
+      "first_appearance": "",
+      "notes": ""
+    },
+    {
+      "id": "GCHAR_0002",
+      "source_project": "Chu Than Dai Dao_Co Nguyet Cu Si",
+      "name_original": "",
+      "name_translated": "Deneir",
+      "gender": "nam",
+      "role": "Deity (Deceased)",
+      "description": "Văn học chi thần, người để lại di sản cho Triệu Kỳ. (Tên Phương Tây)",
+      "first_appearance": "",
+      "notes": ""
+    },
+    {
+      "id": "GCHAR_0003",
+      "source_project": "Chu Than Dai Dao_Co Nguyet Cu Si",
+      "name_original": "",
+      "name_translated": "Cơ Thành",
+      "gender": "nam",
+      "role": "Major Character",
+      "description": "Người chơi tiêu biểu trong thế giới ảo của Triệu Kỳ.",
+      "first_appearance": "",
+      "notes": ""
+    },
+    {
+      "id": "GCHAR_0004",
+      "source_project": "Chu Than Dai Dao_Co Nguyet Cu Si",
+      "name_original": "",
+      "name_translated": "Yến Xích Hà",
+      "gender": "nam",
+      "role": "Virtual NPC",
+      "description": "Nhân vật trong thế giới ảo do Triệu Kỳ tạo ra.",
+      "first_appearance": "",
+      "notes": ""
+    },
+    {
+      "id": "GCHAR_0005",
+      "source_project": "Chu Than Dai Dao_Co Nguyet Cu Si",
+      "name_original": "",
+      "name_translated": "Ninh Thái Thần",
+      "gender": "nam",
+      "role": "Virtual NPC",
+      "description": "Nhân vật thư sinh trong thế giới ảo.",
+      "first_appearance": "",
+      "notes": ""
+    },
+    {
+      "id": "GCHAR_0006",
+      "source_project": "Chu Than Dai Dao_Co Nguyet Cu Si",
+      "name_original": "",
+      "name_translated": "Lăng Tường",
+      "gender": "nam",
+      "role": "Character",
+      "description": "Người chơi, thành viên Cục Quốc An, mật danh Lang Nha.",
+      "first_appearance": "",
+      "notes": ""
+    },
+    {
+      "id": "GCHAR_0007",
+      "source_project": "Chu Than Dai Dao_Co Nguyet Cu Si",
+      "name_original": "",
+      "name_translated": "Đảng Vị Quốc",
+      "gender": "nam",
+      "role": "Character",
+      "description": "Cục trưởng Cục Quốc An.",
+      "first_appearance": "",
+      "notes": ""
+    },
+    {
+      "id": "GCHAR_0008",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "name_original": "Mặc Cư Nhân",
+      "name_translated": "",
+      "gender": "male",
+      "role": "khác",
+      "description": "Người xuyên không vào thân xác Mặc đại phu. Sở hữu Huyết mạch chuyển hóa lô.",
+      "first_appearance": "",
+      "notes": "Tiên thiên võ giả (Huyết mạch hệ Mộc cấp 1 - 17%)"
+    },
+    {
+      "id": "GCHAR_0009",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "name_original": "Hàn Lập",
+      "name_translated": "",
+      "gender": "male",
+      "role": "khác",
+      "description": "Nhị lăng tử của Thất Huyền môn, nhặt được Tiểu lục bình.",
+      "first_appearance": "",
+      "notes": "{'realm': 'Luyện Khí kỳ', 'stage': 'Tầng 4', 'technique': 'Trường Xuân Công'}"
+    },
+    {
+      "id": "GCHAR_0010",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "name_original": "Dư Tử Đồng",
+      "name_translated": "",
+      "gender": "male",
+      "role": "khác",
+      "description": "Tu tiên giả bị mất thân xác, đang bám vào Mặc đại phu.",
+      "first_appearance": "",
+      "notes": ""
+    },
+    {
+      "id": "GCHAR_0011",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "name_original": "Trương Thiết",
+      "name_translated": "",
+      "gender": "male",
+      "role": "khác",
+      "description": "Đệ tử của Mặc đại phu, bị luyện thành Thiết nô (Zombie/Luyện thi). Thân như sắt thép.",
+      "first_appearance": "",
+      "notes": ""
+    },
+    {
+      "id": "GCHAR_0012",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "name_original": "罗帆",
+      "name_translated": "La Phàm",
+      "gender": "nam",
+      "role": "Chính",
+      "description": "Nhân vật chính",
+      "first_appearance": "",
+      "notes": "Đang trong quá trình tái cấu trúc nhục thân thành Đạo Thể bằng Hỗn Độn Nguyên Khí và Pháp lực. Thần hồn đã ổn định."
+    },
+    {
+      "id": "GCHAR_0013",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "name_original": "大自在天魔",
+      "name_translated": "",
+      "gender": "khác",
+      "role": "Phản diện",
+      "description": "Vực Ngoại Thiên Ma",
+      "first_appearance": "",
+      "notes": "Đã rút lui khỏi Hồng Hoang sau khi thất bại trong việc độ hóa La Phàm. Đã ghi nhớ La Phàm như một tồn tại đặc biệt mang linh hồn Bàn Cổ. | Thiên Ma"
+    },
+    {
+      "id": "GCHAR_0014",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "name_original": "鸿钧",
+      "name_translated": "Hồng Quân",
+      "gender": "nam",
+      "role": "Chính",
+      "description": "Đại nhân vật thần thoại",
+      "first_appearance": "",
+      "notes": "Xuất hiện sớm trong truyện."
+    },
+    {
+      "id": "GCHAR_0015",
+      "source_project": "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han",
+      "name_original": "Lục Ly",
+      "name_translated": "",
+      "gender": "khác",
+      "role": "khác",
+      "description": "",
+      "first_appearance": "",
+      "notes": ""
+    },
+    {
+      "id": "GCHAR_0016",
+      "source_project": "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han",
+      "name_original": "Kurosaki Ichigo",
+      "name_translated": "",
+      "gender": "khác",
+      "role": "khác",
+      "description": "",
+      "first_appearance": "",
+      "notes": ""
+    },
+    {
+      "id": "GCHAR_0017",
+      "source_project": "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han",
+      "name_original": "Kuchiki Rukia",
+      "name_translated": "",
+      "gender": "khác",
+      "role": "khác",
+      "description": "",
+      "first_appearance": "",
+      "notes": ""
+    },
+    {
+      "id": "GCHAR_0018",
+      "source_project": "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han",
+      "name_original": "Aizen Sousuke",
+      "name_translated": "",
+      "gender": "khác",
+      "role": "khác",
+      "description": "",
+      "first_appearance": "",
+      "notes": ""
+    },
+    {
+      "id": "GCHAR_0019",
+      "source_project": "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han",
+      "name_original": "Yamamoto Genryuusai",
+      "name_translated": "",
+      "gender": "khác",
+      "role": "khác",
+      "description": "",
+      "first_appearance": "",
+      "notes": ""
+    },
+    {
+      "id": "GCHAR_0020",
+      "source_project": "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han",
+      "name_original": "Zaraki Kenpachi",
+      "name_translated": "",
+      "gender": "khác",
+      "role": "khác",
+      "description": "",
+      "first_appearance": "",
+      "notes": ""
+    },
+    {
+      "id": "GCHAR_0021",
+      "source_project": "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han",
+      "name_original": "Unohana Retsu",
+      "name_translated": "",
+      "gender": "khác",
+      "role": "khác",
+      "description": "",
+      "first_appearance": "",
+      "notes": ""
+    },
+    {
+      "id": "GCHAR_0022",
+      "source_project": "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han",
+      "name_original": "Nifeier",
+      "name_translated": "",
+      "gender": "khác",
+      "role": "khác",
+      "description": "",
+      "first_appearance": "",
+      "notes": ""
+    }
+  ]
+}

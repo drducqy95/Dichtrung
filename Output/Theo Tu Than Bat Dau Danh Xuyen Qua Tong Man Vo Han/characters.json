@@ -1,0 +1,16 @@
+{
+  "characters": [
+    {"id": "lu_li", "name": "Lục Ly", "original_name": "陆离", "title": "Khám Phá Giả", "faction": "Không Gian Chung Yên", "status": "active"},
+    {"id": "ichigo", "name": "Kurosaki Ichigo", "original_name": "黑崎一護", "title": "Hắc Kỳ Nhất Hộ", "faction": "Karakura", "status": "active"},
+    {"id": "rukia", "name": "Kuchiki Rukia", "original_name": "朽木露琪亞", "title": "Hủ Mộc Lộ Kỳ Á", "faction": "Gotei 13", "status": "active"},
+    {"id": "aizen", "name": "Aizen Sousuke", "original_name": "藍染惣右介", "title": "Lam Nhiễm Tống Hữu Giới", "faction": "Gotei 13 / Hueco Mundo", "status": "active"},
+    {"id": "yamamoto", "name": "Yamamoto Genryuusai", "original_name": "山本元柳齋重國", "title": "Sơn Bản Nguyên Liễu Trai", "faction": "Gotei 13", "status": "active"},
+    {"id": "kenpachi", "name": "Zaraki Kenpachi", "original_name": "更木劍八", "title": "Canh Mộc Kiếm Bát", "faction": "Gotei 13", "status": "active"},
+    {"id": "unohana", "name": "Unohana Retsu", "original_name": "卯之花烈", "title": "Mão Chi Hoa Liệt", "faction": "Gotei 13", "status": "active"},
+    {"id": "nifeier", "name": "Nifeier", "original_name": "妮菲尔", "title": "Interrogator", "faction": "The Company", "status": "active"}
+  ],
+  "relationships": [
+    {"source": "ichigo", "target": "rukia", "type": "friend", "description": "Đồng đội chiến đấu"},
+    {"source": "lu_li", "target": "aizen", "type": "enemy/interested", "description": "Lục Ly biết về âm mưu của Aizen qua cốt truyện gốc"}
+  ]
+}

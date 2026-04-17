@@ -1,0 +1,3918 @@
+{
+  "work_title": "Ác Linh Quốc Gia",
+  "genre": "eastern_fiction",
+  "tone": "mysterious / horror",
+  "global_themes": [
+    "Supernatural survival",
+    "Secret organization",
+    "Urban legends and ghosts"
+  ],
+  "current_arc": "Hulu Village Conclusion & Tragedy in the City",
+  "chapter_summaries": [
+    {
+      "chapter": 1,
+      "title": "Công việc đầu tiên",
+      "summary": "Hạ Thiên Kì nhận việc trực đêm tại hiệu sách Tân Hoa và gặp Trương Tiểu Thuận.",
+      "key_events": [
+        "phỏng vấn",
+        "nhận_việc",
+        "gặp_Trương_Tiểu_Thuận"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_002",
+        "char_006"
+      ],
+      "mood": "mysterious",
+      "relationship_changes": []
+    },
+    {
+      "chapter": 2,
+      "title": "Xác chết",
+      "summary": "Hạ Thiên Kì phát hiện hàng loạt xác chết trong nhà vệ sinh nữ.",
+      "key_events": [
+        "phát_hiện_xác_chết",
+        "dấu_tay_máu"
+      ],
+      "active_characters": [
+        "char_001"
+      ],
+      "mood": "horror",
+      "relationship_changes": []
+    },
+    {
+      "chapter": 3,
+      "title": "Màn sương dày đặc",
+      "summary": "Hạ Thiên Kì bị bắt và được bảo lãnh bởi ông chú trung niên.",
+      "key_events": [
+        "bị_bắt",
+        "bảo_lãnh"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_006"
+      ],
+      "mood": "suspense",
+      "relationship_changes": []
+    },
+    {
+      "chapter": 4,
+      "title": "Tiếp gót mà tới",
+      "summary": "Biến cố ma quái xảy ra tại nhà riêng của Hạ Thiên Kì.",
+      "key_events": [
+        "Quỷ_Ngọc_nứt",
+        "mất_điện",
+        "bị_gõ_cửa"
+      ],
+      "active_characters": [
+        "char_001"
+      ],
+      "mood": "horror",
+      "relationship_changes": []
+    },
+    {
+      "chapter": 5,
+      "title": "Có quỷ?",
+      "summary": "Hạ Thiên Kì dùng bùa hộ mệnh đẩy lùi quỷ và liên lạc với mẹ.",
+      "key_events": [
+        "đối_đầu_quỷ",
+        "Túi_Càn_Khôn",
+        "liên_lạc_gia_đình"
+      ],
+      "active_characters": [
+        "char_001"
+      ],
+      "mood": "relief",
+      "relationship_changes": []
+    },
+    {
+      "chapter": 6,
+      "title": "Sự lựa chọn bất đắc dĩ",
+      "summary": "Hạ Thiên Kì buộc phải quay lại hiệu sách để sống sót.",
+      "key_events": [
+        "đối_chất",
+        "hợp_đồng_quỷ"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_006"
+      ],
+      "mood": "determination",
+      "relationship_changes": []
+    },
+    {
+      "chapter": 7,
+      "title": "Quay lại hiệu sách",
+      "summary": "Hạ Thiên Kì gặp ba nhân viên mới: Phùng Vĩ, Vương Á Chi, Triệu Sảng.",
+      "key_events": [
+        "gặp_đồng_nghiệp_mới",
+        "chuẩn_bị_trực"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_003",
+        "char_004",
+        "char_005"
+      ],
+      "mood": "tense",
+      "relationship_changes": []
+    },
+    {
+      "chapter": 8,
+      "title": "Bị bóng tối bao trùm",
+      "summary": "Nhóm chia ra tìm công tắc, Phùng Vĩ gặp biến cố.",
+      "key_events": [
+        "chia_nhóm",
+        "Phùng_Vĩ_la_hét"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_003",
+        "char_004",
+        "char_005"
+      ],
+      "mood": "fear",
+      "relationship_changes": []
+    },
+    {
+      "chapter": 9,
+      "title": "Chỉ có hai người?",
+      "summary": "Hạ Thiên Kì phát hiện Triệu Sảng là người thứ ba không mời mà đến.",
+      "key_events": [
+        "nghi_ngờ_Triệu_Sảng",
+        "mất_tín_hiệu"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_004",
+        "char_005"
+      ],
+      "mood": "mystery",
+      "relationship_changes": []
+    },
+    {
+      "chapter": 10,
+      "title": "Vị khách bất ngờ",
+      "summary": "Phùng Vĩ bị giết, Hạ Thiên Kì dùng bùa cứu mạng, ông chú trung niên xuất hiện.",
+      "key_events": [
+        "Phùng_Vĩ_tử_vong",
+        "áp_sát_ác_quỷ",
+        "ông_chú_xuất_hiện"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_006"
+      ],
+      "mood": "climax",
+      "relationship_changes": [
+        "Phùng_Vĩ_đã_chết"
+      ]
+    },
+    {
+      "chapter": 11,
+      "title": "Giúp một tay",
+      "summary": "Ông chú trung niên dùng Tứ Phương Trận phong ấn ác quỷ và bảo Hạ Thiên Kì đi trốn. Hạ Thiên Kì trốn trên tầng 5, bắt đầu khao khát có được sức mạnh như ông chú. Trong khi đó, Vương Á Chi đang đơn độc đối mặt với một thứ đang kéo theo xác chết về phía mình.",
+      "key_events": [
+        "ông_chú_ra_tay",
+        "Tứ_Phương_Trận",
+        "Vương_Á_Chi_nguy_khốn"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_004",
+        "char_006"
+      ],
+      "new_characters_introduced": [],
+      "mood": "action / suspense",
+      "relationship_changes": []
+    },
+    {
+      "chapter": 12,
+      "title": "Kết cục đáng sợ",
+      "summary": "Vương Á Chi bị ác quỷ giết hại trong nhà vệ sinh nữ sau khi chạm phải một khuôn mặt nhầy nhụa trong bồn cầu. Hạ Thiên Kì nghe thấy tiếng thét, đoán rằng ông chú trung niên đã thất bại. Anh quyết định đốt hiệu sách và bỏ chạy, nhưng bị ác quỷ truy đuổi gắt gao ở cầu thang và bị ngã nhào.",
+      "key_events": [
+        "Vương_Á_Chi_tử_vong",
+        "Hạ_Thiên_Kì_bỏ_chạy",
+        "ác_quỷ_truy_đuổi"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_004"
+      ],
+      "new_characters_introduced": [],
+      "mood": "terror / high_tension",
+      "relationship_changes": [
+        "Vương_Á_Chi_đã_chết"
+      ]
+    },
+    {
+      "chapter": 13,
+      "title": "Người phụ nữ kinh hoàng",
+      "summary": "Hạ Thiên Kì bị thương nặng sau khi ngã cầu thang. Một người phụ nữ bí ẩn váy đen xuất hiện, bật đèn và xua đuổi ác quỷ. Cô cho biết Từ Thiên Hoa (ông chú trung niên) đã bị giết. Cô cứu Hạ Thiên Kì và yêu cầu anh đi theo mình.",
+      "key_events": [
+        "mỹ_nhân_váy_đen_xuất_hiện",
+        "Từ_Thiên_Hoa_tử_vong",
+        "Hạ_Thiên_Kì_thoát_nạn"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_007"
+      ],
+      "new_characters_introduced": [
+        "char_007"
+      ],
+      "mood": "rescue / mystery",
+      "relationship_changes": []
+    },
+    {
+      "chapter": 14,
+      "title": "Thử việc lần hai",
+      "summary": "Hạ Thiên Kì lên xe của Lương Nhược Vân — Giám đốc cao cấp. Cô giải thích về hệ thống thử việc: phải tự mình giải quyết quỷ hồn mới được chuyển chính thức. Hạ Thiên Kì được giao nhiệm vụ thử việc lần hai tại Học viện nữ sinh Tề Hà với tư cách quản lý ký túc xá cùng 3 người mới khác.",
+      "key_events": [
+        "Lương_Nhược_Vân_giải_thích_quy_định",
+        "giao_nhiệm_vụ_thử_việc_2",
+        "Học_viện_nữ_sinh_Tề_Hà"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_007"
+      ],
+      "new_characters_introduced": [],
+      "mood": "informative / transition",
+      "relationship_changes": []
+    },
+    {
+      "chapter": 15,
+      "title": "Dò hỏi",
+      "summary": "Hạ Thiên Kì chuẩn bị cho nhiệm vụ mới bằng cách mua bùa chú và vật dụng tại chùa. Anh tìm đến quán net gần Học viện nữ sinh Tề Hà để điều tra thông tin. Tại đây, anh gặp một cô nàng nhân viên quán net cá tính và biết được thông tin về một vụ chết người kỳ lạ tại trường.",
+      "key_events": [
+        "chuẩn_bị_vật_dụng",
+        "điều_tra_quán_net",
+        "gặp_cô_nàng_phục_vụ"
+      ],
+      "active_characters": [
+        "char_001"
+      ],
+      "new_characters_introduced": [],
+      "mood": "preparation / investigation",
+      "relationship_changes": []
+    },
+    {
+      "chapter": 16,
+      "title": "Sự kiện 'tự sát'",
+      "summary": "Hạ Thiên Kì biết được thông tin về một vụ tự sát tại ký túc xá trường Tề Hà cách đây 3 ngày. Anh lấy được số điện thoại của nhân chứng là chị gái cô nhân viên quán net. Ngày hôm sau, anh đến trường báo danh và gặp gỡ 3 người mới khác (tổng cộng 2 nam, 2 nữ).",
+      "key_events": [
+        "tìm_thấy_nhân_chứng",
+        "đến_trường_Tề_Hà",
+        "gặp_gỡ_đồng_nghiệp_mới"
+      ],
+      "active_characters": [
+        "char_001"
+      ],
+      "new_characters_introduced": [],
+      "mood": "mystery / gathering",
+      "relationship_changes": []
+    },
+    {
+      "chapter": 17,
+      "title": "Quản lý ký túc xá",
+      "summary": "Hạ Thiên Kì làm quen với ba đồng nghiệp mới: Hàn Hi Nguyên, Lý Tiếu Tiếu và Lãnh Nguyệt. Họ được phân công trực tại hai tòa ký túc xá. Hạ Thiên Kì và Lãnh Nguyệt trực tòa số 2. Sau đó, Hạ Thiên Kì đóng giả cảnh sát gọi điện cho chị gái cô nhân viên quán net để điều tra sâu hơn về vụ tự sát.",
+      "key_events": [
+        "phân_công_trực_ký_túc_xá",
+        "Hạ_Thiên_Kì_đóng_giả_cảnh_sát",
+        "điều_tra_vụ_tự_sát"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_008",
+        "char_009",
+        "char_010"
+      ],
+      "new_characters_introduced": [
+        "char_008",
+        "char_009",
+        "char_010"
+      ],
+      "mood": "interaction / detective",
+      "relationship_changes": []
+    },
+    {
+      "chapter": 18,
+      "title": "Nguyên nhân",
+      "summary": "Hạ Thiên Kì được nghe kể về vụ việc Vương Di Nhiên: cô tham gia trò chơi 'Đại mạo hiểm' và sau đó bị tìm thấy đã chết tại tầng 8 tòa ký túc xá số 2 (xác một nơi, đầu một nẻo). Hạ Thiên Kì đi thám thính và bắt gặp một bóng dáng màu đỏ bí ẩn tại tầng 8 bỏ hoang. Anh bắt đầu suy ngẫm về cách mà người bình thường có thể sống sót trước quỷ hồn.",
+      "key_events": [
+        "Vương_Di_Nhiên_Đại_mạo_hiểm",
+        "thám_thính_tầng_8",
+        "bóng_đỏ_bí_ẩn"
+      ],
+      "active_characters": [
+        "char_001"
+      ],
+      "new_characters_introduced": [
+        "char_011"
+      ],
+      "mood": "exploration / suspense",
+      "relationship_changes": []
+    },
+    {
+      "chapter": 19,
+      "title": "Tình hình từ phòng 703",
+      "summary": "Mỗi người mới đều có những động thái riêng: Hàn Hi Nguyên lắp camera quay lén, Lý Tiếu Tiếu bất an, Lãnh Nguyệt đặt bùa cảnh báo. Hạ Thiên Kì tìm đến phòng 703 (phòng bạn thân của nạn nhân) và sử dụng danh tính giả cảnh sát để dò hỏi thông tin trong khi bắt quả tang nhóm nữ sinh đang hút thuốc uống rượu.",
+      "key_events": [
+        "Hàn_Hi_Nguyên_lắp_camera",
+        "Lạnh_Nguyệt_đặt_bùa",
+        "Hạ_Thiên_Kì_tra_hỏi_phòng_703"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_008",
+        "char_009",
+        "char_010"
+      ],
+      "new_characters_introduced": [],
+      "mood": "investigation / character_building",
+      "relationship_changes": []
+    },
+    {
+      "chapter": 20,
+      "title": "Gọi hồn",
+      "summary": "Nhóm nữ sinh phòng 703 kể lại trò chơi 'Gọi hồn' đêm hôm đó. Họ nghe thấy tiếng thét thảm thiết từ tầng thượng và Vương Di Nhiên đột ngột rời đi. Hạ Thiên Kì nhận ra sự bất thường về số lượng người tham gia và nghi ngờ có tới hai con quỷ. Chương kết thúc khi anh nhìn thấy đôi mắt đỏ rực trên tầng 8 ngay khi đèn tắt.",
+      "key_events": [
+        "trò_chơi_Gọi_hồn",
+        "Hạ_Thiên_Kì_suy_luận_hai_con_quỷ",
+        "đôi_mắt_đỏ_rực"
+      ],
+      "active_characters": [
+        "char_001"
+      ],
+      "new_characters_introduced": [],
+      "mood": "horror / discovery",
+      "relationship_changes": []
+    },
+    {
+      "chapter": 21,
+      "title": "Bóng Ma",
+      "summary": "Hạ Thiên Kì suýt đối mặt với quỷ bóng đỏ trên tầng 8 nhưng đã chạy thoát, phát hiện các cửa ra vào đều bị khóa. Lý Tiếu Tiếu gặp một người phụ nữ áo đỏ trên tầng 7 và bị giết hại (đứt đầu). Lãnh Nguyệt cảm ứng được nguy hiểm và xuất phát. Doãn Diễm Tịnh (phòng 703) đi vệ sinh cùng một người bạn có biểu hiện kỳ quái.",
+      "key_events": [
+        "Lý_Tiếu_Tiếu_tử_vong",
+        "quỷ_áo_đỏ_xuất_hiện",
+        "cửa_ký_túc_xá_bị_khóa",
+        "Lãnh_Nguyệt_hành_động"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_009",
+        "char_010"
+      ],
+      "new_characters_introduced": [
+        "char_012"
+      ],
+      "mood": "horror / tragic",
+      "relationship_changes": [
+        "Lý_Tiếu_Tiếu_đã_chết"
+      ]
+    },
+    {
+      "chapter": 22,
+      "title": "Không Bình Tĩnh",
+      "summary": "Doãn Diễm Tịnh bị Vương Phượng Thải dụ dỗ lên tầng 8. Tại đây, cô nhìn thấy một cái đầu người trên bệ cửa sổ và bị đôi tay trắng bệch kéo vào phòng kín. Hạ Thiên Kì ở tầng 1 trải qua sự kinh hoàng tột độ, anh định xông ra ngoài nhưng kìm lại được. Cuối chương, một tiếng bước chân dừng lại ngay trước cửa phòng trực của anh.",
+      "key_events": [
+        "Doãn_Diễm_Tịnh_tử_vong",
+        "bí_ẩn_tầng_8",
+        "Hạ_Thiên_Kì_đối_mặt_nguy_hiểm"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_012"
+      ],
+      "new_characters_introduced": [
+        "char_013"
+      ],
+      "mood": "terror / suspense",
+      "relationship_changes": [
+        "Doãn_Diễm_Tịnh_đã_chết"
+      ]
+    },
+    {
+      "chapter": 23,
+      "title": "Tiếp Cận",
+      "summary": "Hạ Thiên Kì suýt bị nữ quỷ áo đỏ giết chết trong phòng trực nhưng đã dùng mưu 'kích động sinh viên' để thoát thân. Lãnh Nguyệt phát hiện 3 thi thể trên tầng 8 (gồm Lý Tiếu Tiếu và 2 nữ sinh khác). Lãnh Nguyệt được tiết lộ là nam giới. Sáng hôm sau, cảnh sát đưa cả ba quản lý ký túc xá về đồn để điều tra.",
+      "key_events": [
+        "Lãnh_Nguyệt_tiết_lộ_giới_tính_nam",
+        "3_thi_thể_được_phát_hiện",
+        "Hạ_Thiên_Kì_thoát_hiểm",
+        "bị_cảnh_sát_áp_giải"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_010"
+      ],
+      "new_characters_introduced": [],
+      "mood": "horror / revelation / suspense",
+      "relationship_changes": [
+        "Lãnh_Nguyệt_là_nam"
+      ]
+    },
+    {
+      "chapter": 24,
+      "title": "Quay Lại",
+      "summary": "Nhóm Hạ Thiên Kì được thả khỏi đồn cảnh sát. Hạ Thiên Kì đấm Hàn Hi Nguyên vì thái độ lồi lõm. Lãnh Nguyệt chính thức tiết lộ lý do cải trang thành nữ là để tránh rắc rối khi làm việc ở ký túc xá nữ do ngoại hình quá đẹp trai. Lãnh Nguyệt hướng dẫn chuẩn bị nến, xăng và chim giấy để đối phó với Lệ Quỷ. Cả nhóm quay lại trường khi sinh viên đã được sơ tán hết.",
+      "key_events": [
+        "Hạ_Thiên_Kì_đấu_với_Hàn_Hi_Nguyên",
+        "Lãnh_Nguyệt_giải_thích_việc_cải_trang",
+        "chuẩn_bị_vật_dụng_bắt_ma",
+        "quay_về_trường_vắng"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_010",
+        "char_008"
+      ],
+      "new_characters_introduced": [],
+      "mood": "transition / preparation / suspense",
+      "relationship_changes": [
+        "Hạ_Thiên_Kì_ghét_Hàn_Hi_Nguyên",
+        "Lãnh_Nguyệt_kết_bạn_Hạ_Thiên_Kì"
+      ]
+    },
+    {
+      "chapter": 25,
+      "title": "Tách Lẻ",
+      "summary": "Hạ Thiên Kì và Lãnh Nguyệt chuẩn bị đối phó với quỷ. Hạ Thiên Kì đề xuất thử siêu độ trước khi dùng vũ lực. Hàn Hi Nguyên lấy cớ để tách nhóm, thực chất là để thu hồi các camera quay lén hắn đã đặt trong phòng tắm nữ. Hắn bước vào phòng tắm tầng 4 và thấy đầy hơi nước, nghi ngờ vẫn còn sinh viên.",
+      "key_events": [
+        "Hạ_Thiên_Kì_đề_xuất_siêu_độ",
+        "Hàn_Hi_Nguyên_tách_nhóm",
+        "Hàn_Hi_Nguyên_thu_hồi_camera",
+        "hơi_nước_bí_ẩn_trong_phòng_tắm"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_010",
+        "char_008"
+      ],
+      "new_characters_introduced": [],
+      "mood": "suspense / character_building",
+      "relationship_changes": [
+        "Hàn_Hi_Nguyên_phản_bội_nhóm"
+      ]
+    },
+    {
+      "chapter": 26,
+      "title": "Lãnh Nguyệt",
+      "summary": "Hàn Hi Nguyên bị kẹt trong làn sương mù quỷ dị tại phòng tắm tầng 4 và mất phương hướng. Lãnh Nguyệt rốt cuộc cũng hiện nguyên hình là một nam nhân cực kỳ đẹp trai, mặc đồ đen. Anh tiết lộ mình là một 'Trừ Quỷ Sư' (Ghost Exorcist) và mang theo 'Túi Khốn Pháp' để bảo vệ pháp lực của pháp khí. Lãnh Nguyệt và Hạ Thiên Kì đi tìm Hàn Hi Nguyên.",
+      "key_events": [
+        "Hàn_Hi_Nguyên_bị_vây_trong_sương",
+        "Lãnh_Nguyệt_hiện_nguyên_hình",
+        "tiết_lộ_nghề_nghiệp_Trừ_Quỷ_Sư",
+        "Túi_Khốn_Pháp_xuất_hiện"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_010",
+        "char_008"
+      ],
+      "new_characters_introduced": [],
+      "mood": "suspense / humorous / mysterious",
+      "relationship_changes": [
+        "Hạ_Thiên_Kì_ngưỡng_mộ_Lãnh_Nguyệt"
+      ]
+    },
+    {
+      "chapter": 27,
+      "title": "Tiếng Động Từ Trên Lầu",
+      "summary": "Cửa ký túc xá bị phong ấn linh dị khóa chặt. Lãnh Nguyệt dùng Phá Phong Phù nhưng thất bại, thừa nhận pháp lực bản thân còn thấp. Hạ Thiên Kì tiết lộ có 2 con quỷ khiến Lãnh Nguyệt kinh hãi. Lãnh Nguyệt thừa nhận không nắm chắc phần thắng nhưng vẫn bất chấp nguy hiểm lao lên lầu khi nghe thấy tiếng động lạ.",
+      "key_events": [
+        "Cửa_bị_phong_ấn",
+        "Phá_Phong_Phù_thất_bại",
+        "tiết_lộ_có_2_con_quỷ",
+        "Lãnh_Nguyệt_lao_lên_lầu"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_010"
+      ],
+      "new_characters_introduced": [],
+      "mood": "tense / desperate / reckless",
+      "relationship_changes": [
+        "Hạ_Thiên_Kì_mất_niềm_tin_vào_Lãnh_Nguyệt"
+      ]
+    },
+    {
+      "chapter": 28,
+      "title": "Hồng Y Quỷ!",
+      "summary": "Hạ Thiên Kì và Lãnh Nguyệt phát hiện thi thể của Hàn Hi Nguyên bị vặn vẹo nhồi nhét trong tủ đựng đồ ở phòng tắm tầng 4. Hồng y nữ quỷ (với khuôn mặt chỉ có miệng) phục kích họ. Lãnh Nguyệt dùng Nhiên Quỷ Phù tấn công nhưng chỉ làm cháy lớp áo ngoài của quỷ. Cửa phòng tắm bị phong ấn, Lãnh Nguyệt quyết định hy sinh thân mình, cầm chuôi kiếm gỗ không lưỡi để kìm chân nữ quỷ cho Hạ Thiên Kì chạy thoát.",
+      "key_events": [
+        "Phát_hiện_xác_Hàn_Hi_Nguyên",
+        "Nhiên_Quỷ_Phù_vô_hiệu",
+        "Lãnh_Nguyệt_quyết_định_hy_sinh",
+        "Phòng_tắm_bị_phong_tỏa"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_010"
+      ],
+      "new_characters_introduced": [],
+      "mood": "horror / tragic / heroic",
+      "relationship_changes": [
+        "Hàn_Hi_Nguyên_đã_chết",
+        "Hạ_Thiên_Kì_biết_ơn_Lãnh_Nguyệt"
+      ]
+    },
+    {
+      "chapter": 29,
+      "title": "Ảo Cảnh?",
+      "summary": "Lãnh Nguyệt dùng toàn bộ pháp lực để tạo ra lưỡi kiếm quang đỏ, chiến đấu kịch liệt với Hồng y nữ quỷ và bị thương nặng ở vai, bụng. Hạ Thiên Kì nhận ra mình đang kẹt trong một ảo cảnh (illusion) do con quỷ thứ hai tạo ra, khiến cảm quan bị sai lệch. Anh bắt đầu dùng xúc giác để tìm lối thoát thực sự trong khi Lãnh Nguyệt đang liều mình cầm chân ác quỷ.",
+      "key_events": [
+        "Lãnh_Nguyệt_chiến_đấu_ác_liệt",
+        "Hạ_Thiên_Kì_nhận_ra_ảo_cảnh",
+        "Tìm_kiếm_lối_thoát_bằng_xúc_giác"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_010"
+      ],
+      "new_characters_introduced": [],
+      "mood": "action / intellectual_breakthrough / high_stakes",
+      "relationship_changes": [
+        "Lãnh_Nguyệt_hy_sinh_vì_Hạ_Thiên_Kì"
+      ]
+    },
+    {
+      "chapter": 30,
+      "title": "Chạy!",
+      "summary": "Ảo cảnh tan biến, lộ ra họ vẫn luôn ở tầng 8. Hạ Thiên Kì tìm được lối ra thực sự. Lãnh Nguyệt dùng nốt pháp lực kìm chân quỷ và ngất đi. Hạ Thiên Kì cõng Lãnh Nguyệt bỏ chạy. Lãnh Nguyệt tỉnh lại trong giây lát, dùng Tứ Phương Chú đóng băng nữ quỷ để cả hai thoát thân. Hạ Thiên Kì quyết định chạy ngược lên lầu để ẩn nấp theo quy tắc 'nơi nguy hiểm nhất là nơi an toàn nhất'.",
+      "key_events": [
+        "8_tầng_lầu_là_ảo_cảnh",
+        "Lãnh_Nguyệt_ngất_xỉu",
+        "Hạ_Thiên_Kì_cõng_bạn_chạy_trốn",
+        "Tứ_Phương_Chú_đóng_băng_quỷ"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_010"
+      ],
+      "new_characters_introduced": [],
+      "mood": "adrenaline / survival / hope",
+      "relationship_changes": [
+        "Tình_nghĩa_Hạ_Thiên_Kì_và_Lãnh_Nguyệt_gắn_bó"
+      ]
+    },
+    {
+      "chapter": 41,
+      "title": "Hợp Đồng Máu",
+      "summary": "Hạ Thiên Kì ký kết hợp đồng máu với Tam Đệ Minh Phủ, chính thức trở thành nhân viên chính thức. Anh nhận được các đãi ngộ khủng nhưng cũng hiểu rõ cái giá phải trả bằng mạng sống.",
+      "key_events": [
+        "ký_hợp_đồng_máu",
+        "trở_thành_nhân_viên_chính_thức"
+      ],
+      "active_characters": [
+        "char_001"
+      ],
+      "mood": "serious / formal"
+    },
+    {
+      "chapter": 42,
+      "title": "Đồng Hồ Vinh Dự",
+      "summary": "Gặp gỡ Phó Hải Nghĩa, đại diện của Tam Đệ Minh Phủ. Hạ Thiên Kì kích hoạt Đồng hồ Vinh dự (Honor Watch), công cụ quản lý năng lực và nhiệm vụ.",
+      "key_events": [
+        "gặp_Phó_Hải_Nghĩa",
+        "kích_hoạt_Honor_Watch"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_021"
+      ],
+      "mood": "mystery"
+    },
+    {
+      "chapter": 43,
+      "title": "Ác Linh Thể Chất",
+      "summary": "Phó Hải Nghĩa tiết lộ Hạ Thiên Kì sở hữu Ác Linh Thể Chất, một loại thể chất hiếm nhưng đầy oán niệm. Kì trải qua ảo ảnh kinh hoàng về một đứa trẻ quỷ trong cơ thể mình.",
+      "key_events": [
+        "tiết_lộ_Ác_Linh_Thể_Chất",
+        "ảo_ảnh_quỷ_anh"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_021"
+      ],
+      "mood": "horror"
+    },
+    {
+      "chapter": 44,
+      "title": "Đãi Ngộ Khủng",
+      "summary": "Hạ Thiên Kì nhận xe BMW X5 và chuyển tới biệt thự cao cấp tại số 130 Đại lộ Thế Kỷ, khu vực dành cho nhân viên công ty.",
+      "key_events": [
+        "nhận_xe_BMW",
+        "chuyển_đến_biệt_thự"
+      ],
+      "active_characters": [
+        "char_001"
+      ],
+      "mood": "luxury"
+    },
+    {
+      "chapter": 45,
+      "title": "Bạn Cùng Phòng",
+      "summary": "Hạ Thiên Kì làm quen với hai bạn cùng phòng mới: Nam Cung Vân (vui vẻ, nhiệt tình) và Lưu Ngôn Mẫn (khó ưa, thô lỗ).",
+      "key_events": [
+        "gặp_Nam_Cung_Vân",
+        "gặp_Lưu_Ngôn_Mẫn"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_022",
+        "char_023"
+      ],
+      "mood": "social / comedic"
+    },
+    {
+      "chapter": 46,
+      "title": "Sinh Tồn Khắc Nghiệt",
+      "summary": "Trao đổi với các bạn cùng phòng về quy tắc sinh tồn trong công ty. Kì nhận ra các Chủ quản thường coi lính mới là công cụ và tỉ lệ tử vong cực cao.",
+      "key_events": [
+        "quy_tắc_sinh_tồn",
+        "nguy_hiểm_từ_Chủ_quản"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_022",
+        "char_023"
+      ],
+      "mood": "tense"
+    },
+    {
+      "chapter": 47,
+      "title": "Bữa Tối",
+      "summary": "Cả nhóm dùng bữa tối và thảo luận về các 'Sự kiện tổ đội'. Nhắc lại danh tiếng của Từ Thiên Hoa và sự tàn khốc của các nhiệm vụ cấp cao.",
+      "key_events": [
+        "bữa_tối_biệt_thự",
+        "thảo_luận_Sự_kiện_tổ_đội"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_022",
+        "char_023"
+      ],
+      "mood": "informative"
+    },
+    {
+      "chapter": 48,
+      "title": "Thanh Niên Tóc Trắng",
+      "summary": "Một cơn chấn động lớn xảy ra trong biệt thự. Xuất hiện một thiếu niên tóc trắng, mắt trắng dã với khí tức u ám tên Lương Nhược Phàm.",
+      "key_events": [
+        "chấn_động_biệt_thự",
+        "Lương_Nhược_Phàm_xuất_hiện"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_022",
+        "char_023",
+        "char_024"
+      ],
+      "mood": "suspense"
+    },
+    {
+      "chapter": 49,
+      "title": "Cường Hóa Không Nổi",
+      "summary": "Hạ Thiên Kì kiểm tra chức năng cường hóa trên đồng hồ và phát hiện chi phí cực kỳ đắt đỏ. Anh thử cường hóa nhưng không thấy thay đổi rõ rệt nào ở cấp độ 1.",
+      "key_events": [
+        "kiểm_tra_chi_phí_cường_hóa",
+        "thử_nghiệm_sức_mạnh"
+      ],
+      "active_characters": [
+        "char_001"
+      ],
+      "mood": "disappointment"
+    },
+    {
+      "chapter": 50,
+      "title": "Kẻ Điên Lương Nhược Phàm",
+      "summary": "Lương Nhược Phàm tấn công nhóm bằng bàn gỗ. Lương Nhược Vân xuất hiện và trấn áp em trai. Cô thể hiện sức mạnh thần kỳ khi khôi phục lại lan can bị hỏng chỉ bằng một cú chạm.",
+      "key_events": [
+        "Lương_Nhược_Phàm_tấn_công",
+        "Lương_Nhược_Vân_thể_hiện_sức_mạnh"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_007",
+        "char_024"
+      ],
+      "mood": "climax / awe"
+    },
+    {
+      "chapter": 51,
+      "title": "Người Phụ Nữ Tự Sát",
+      "summary": "Hạ Thiên Kì không liên lạc được với ông ngoại. Khung cảnh chuyển sàn ngôi làng hẻo lánh, một người phụ nữ nhảy sông tự sát cùng lời nguyền độc địa.",
+      "key_events": [
+        "liên_lạc_ông_ngoại_thất_bại",
+        "tự_sát_tại_ngôi_làng_xa"
+      ],
+      "active_characters": [
+        "char_001"
+      ],
+      "mood": "mysterious / horror"
+    },
+    {
+      "chapter": 52,
+      "title": "Lại Làm Cộng sự",
+      "summary": "Hạ Thiên Kì thăm Lãnh Nguyệt tại bệnh viện. Đồng hồ Vinh dự thông báo nhiệm vụ mới tại thôn Hồ Lô, Trinh Thủy Lĩnh. Kì và Lãnh Nguyệt cùng tham gia.",
+      "key_events": [
+        "thăm_bệnh_Lãnh_Nguyệt",
+        "nhận_nhiệm_vụ_thôn_Hồ_Lô"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_010"
+      ],
+      "mood": "comedy / tense"
+    },
+    {
+      "chapter": 53,
+      "title": "Xác Nữ Nổi Giữa Dòng Sông",
+      "summary": "Bàn luận về độ khó nhiệm vụ. Tại thôn Hồ Lô, xác con dâu Trần Lão Đại là Tiểu Lệ nổi thẳng đứng giữa sông với vẻ mặt oán độc.",
+      "key_events": [
+        "thảo_luận_độ_khó",
+        "tìm_thấy_xác_Tiểu_Lệ"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_010",
+        "char_025",
+        "char_027",
+        "char_028"
+      ],
+      "mood": "horror"
+    },
+    {
+      "chapter": 54,
+      "title": "Vớt Xác",
+      "summary": "Xác Tiểu Lệ được vớt lên trong tiếng sấm kỳ lạ. Hạ Thiên Kì chuẩn bị trang bị và biết Lãnh Nguyệt là bạn cùng phòng mới.",
+      "key_events": [
+        "vớt_xác_Tiểu_Lệ",
+        "chuẩn_bị_trang_bị",
+        "Lãnh_Nguyệt_là_roommate"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_025"
+      ],
+      "mood": "mystery / tense"
+    },
+    {
+      "chapter": 55,
+      "title": "Kỳ Lạ",
+      "summary": "Dân làng bàn tán về nỗi khổ của Tiểu Lệ khi gả vào nhà họ Trần. Triệu mồm nhanh bắt đầu cảm thấy sợ hãi.",
+      "key_events": [
+        "dân_làng_bàn_tán",
+        "nỗi_sợ_của_Triệu_mồm_nhanh"
+      ],
+      "active_characters": [
+        "char_025",
+        "char_028"
+      ],
+      "mood": "mystery"
+    },
+    {
+      "chapter": 56,
+      "title": "Trần Lão Đại",
+      "summary": "Trần Thông quấy phá đòi vợ mới. Trần Lão Đại quyết định nhốt con vào kho. Quan tài trong sân bắt đầu rỉ nước vào ban đêm.",
+      "key_events": [
+        "Trần_Thông_quấy_phá",
+        "nhốt_con_vào_kho",
+        "quan_tài_rỉ_nước"
+      ],
+      "active_characters": [
+        "char_025",
+        "char_026"
+      ],
+      "mood": "tense / horror"
+    },
+    {
+      "chapter": 57,
+      "title": "Chuẩn Bị",
+      "summary": "Hạ Thiên Kì thỉnh giáo Nam Cung Vân về kinh nghiệm làm nhiệm vụ chính thức. Nam Cung Vân nhấn mạnh việc quan sát và không tình cảm hóa.",
+      "key_events": [
+        "thỉnh_giáo_Nam_Cung_Vân",
+        "ba_điều_nhắc_nhở"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_022"
+      ],
+      "mood": "informative / serious"
+    },
+    {
+      "chapter": 58,
+      "title": "Người Phụ Nữ Hôn Mê",
+      "summary": "Kì và Lãnh Nguyệt tới thôn Hồ Lô sau hành trình gian khổ. Họ gặp một người phụ nữ ngất xỉu và cầu xin được đưa về nhà.",
+      "key_events": [
+        "hành_trình_tới_Trinh_Thủy_Lĩnh",
+        "gặp_người_phụ_nữ_bí_ẩn"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_010"
+      ],
+      "mood": "exhausting / mysterious"
+    },
+    {
+      "chapter": 59,
+      "title": "Căn Nhà Lớn",
+      "summary": "Kì thỏa hiệp cõng người phụ nữ (lạnh như băng) đi tìm 'nhà lớn'. Họ tìm thấy nhà Trần Lão Đại.",
+      "key_events": [
+        "Hạ_Thiên_Kì_cõng_quỷ",
+        "tìm_thấy_nhà_Trần_Lão_Đại"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_010"
+      ],
+      "mood": "suspense / creepy"
+    },
+    {
+      "chapter": 60,
+      "title": "Điềm Báo Hoảng Loạn",
+      "summary": "Kì kinh hoàng nhận ra Trần Lão Đại không thấy người phụ nữ trên lưng anh; cô ta là quỷ. Lãnh Nguyệt dùng ID giả để xin ở lại nhà Trần Lão Đại.",
+      "key_events": [
+        "phát_hiện_cõng_quỷ",
+        "dùng_ID_chính_phủ_giả",
+        "vào_nhà_Trần_Lão_Đại"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_010",
+        "char_025"
+      ],
+      "mood": "horror / high_tension"
+    },
+    {
+      "chapter": 61,
+      "title": "Nội bộ hòa giải",
+      "summary": "Hạ Thiên Kì và Lãnh Nguyệt vào nhà Trần Lão Đại. Lãnh Nguyệt giải thích về 'Lệ quỷ mất phương hướng' và lý do buộc phải giúp nó.",
+      "key_events": [
+        "vào_nhà_Trần_Lão_Đại",
+        "giải_thích_lệ_quỷ"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_010",
+        "char_025"
+      ],
+      "mood": "suspense"
+    },
+    {
+      "chapter": 62,
+      "title": "Nó đã ra rồi!",
+      "summary": "Cỗ quan tài giữa sân mở ra, nữ quỷ Tiểu Lệ bò ra và tiến vào phòng Trần Lão Đại. Hạ Thiên Kì trấn tĩnh bằng cách ăn lạt điều. Trần Thông bị quỷ bóp cổ.",
+      "key_events": [
+        "quan_tài_mở",
+        "nữ_quỷ_xuất_hiện",
+        "Trần_Thông_bị_tấn_công"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_010",
+        "char_026"
+      ],
+      "mood": "horror"
+    },
+    {
+      "chapter": 63,
+      "title": "Ai?",
+      "summary": "Trần Thông gào thét báo Tiểu Lệ còn sống. Vợ chồng Trần Lão Đại phát hiện con trai sũng nước nhưng lão không tin lời kể về quỷ.",
+      "key_events": [
+        "Trần_Thông_gào_thét",
+        "phát_hiện_nước_quỷ"
+      ],
+      "active_characters": [
+        "char_025",
+        "char_026",
+        "char_029"
+      ],
+      "mood": "tense"
+    },
+    {
+      "chapter": 64,
+      "title": "Khai quan",
+      "summary": "Trần Lão Đại lén mở quan tài kiểm tra, chạm phải khuôn mặt lạnh lẽo. Sáng hôm sau, Trần Thông lâm tình trạng nguy kịch.",
+      "key_events": [
+        "Trần_Lão_Đại_mở_quan_tài",
+        "Trần_Thông_nguy_kịch"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_010",
+        "char_025",
+        "char_029"
+      ],
+      "mood": "horror"
+    },
+    {
+      "chapter": 65,
+      "title": "Lời cảnh báo của nữ quỷ!",
+      "summary": "Nữ quỷ gào thét cảnh báo nhóm Hạ Thiên Kì. Trần Thông bị rút nước thành xác khô. Trần Lão Đại chuyển quan tài sang nhà Hồ Đại Ngưu.",
+      "key_events": [
+        "lời_cảnh_báo_của_quỷ",
+        "Trần_Thông_biến_thành_xác_khô",
+        "chuyển_quan_tài"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_010",
+        "char_025",
+        "char_030"
+      ],
+      "mood": "high_tension"
+    },
+    {
+      "chapter": 66,
+      "title": "Di dời (Điều tra)",
+      "summary": "Hạ Thiên Kì và Lãnh Nguyệt đóng giả nhân viên chính phủ đi điều tra dân làng. Biết được lịch sử bá đạo của Trần Lão Đại và tin đồn Tiểu Lệ bị bạo hành, có quan hệ mờ ám với bố chồng.",
+      "key_events": [
+        "điều_tra_dân_làng",
+        "thu_thập_tin_đồn"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_010"
+      ],
+      "mood": "investigation"
+    },
+    {
+      "chapter": 67,
+      "title": "Điều tra (Trùng lặp)",
+      "summary": "Nội dung chương này bị trùng lặp với chương 66 trong bản gốc, tiếp tục các thông tin về cuộc điều tra trong thôn.",
+      "key_events": [
+        "trùng_lặp_nội_dung"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_010"
+      ],
+      "mood": "investigation"
+    },
+    {
+      "chapter": 68,
+      "title": "Hồ Đại Ngưu",
+      "summary": "Hồ Đại Ngưu canh giữ quan tài đêm đầu thất. Hạ Thiên Kì và Lãnh Nguyệt rời nhà Trần Lão Đại để hành động riêng. Lão Vương lo lắng về quả báo.",
+      "key_events": [
+        "Hồ_Đại_Ngưu_canh_quan_tài",
+        "HTK_rời_nhà_họ_Trần"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_010",
+        "char_030",
+        "char_031"
+      ],
+      "mood": "suspense"
+    },
+    {
+      "chapter": 69,
+      "title": "Giết người",
+      "summary": "Thi thể Tiểu Lệ biến mất khỏi quan tài tại nhà Hồ Đại Ngưu. Nữ quỷ xuất hiện giết Hồ Đại Ngưu và truy đuổi Lão Vương về tận nhà.",
+      "key_events": [
+        "xác_chết_biến_mất",
+        "Hồ_Đại_Ngưu_tử_vong",
+        "Lão_Vương_gặp_quỷ"
+      ],
+      "active_characters": [
+        "char_030",
+        "char_031"
+      ],
+      "mood": "horror"
+    },
+    {
+      "chapter": 70,
+      "title": "Bức vấn",
+      "summary": "Hạ Thiên Kì và Lãnh Nguyệt bắt giữ Lão Vương tại hiện trường vụ án nhà Hồ Đại Ngưu, dùng xác chết để ép gã phải nói ra sự thật.",
+      "key_events": [
+        "phát_hiện_xác_Hồ_Đại_Ngưu",
+        "bắt_giữ_Lão_Vương",
+        "ép_cung"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_010",
+        "char_031"
+      ],
+      "mood": "high_tension"
+    },
+    {
+      "chapter": 71,
+      "title": "Bí mật",
+      "summary": "Hạ Thiên Kì tát lão Vương tỉnh lại và đe dọa bằng gia đình. Lão Vương khai nhận: Hồ Đại Ngưu nắm được bí mật của Tiểu Lệ và dùng nó để ép cô ngủ cùng, sau đó lôi kéo lão Vương và những người khác tham gia. 20 ngày sau, Trần Lão Đại sai họ giết một người. Lão Vương chưa kịp nói tên thì cơ thể bắt đầu rỉ nước dữ dội.",
+      "key_events": [
+        "Lão_Vương_khai_nhận",
+        "bí_mật_bị_phát_hiện",
+        "Trần_Lão_Đại_sai_giết_người"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_010",
+        "char_031"
+      ],
+      "mood": "tense / investigative"
+    },
+    {
+      "chapter": 72,
+      "title": "Trúng chiêu?",
+      "summary": "Lão Vương tan chảy thành vũng máu. Nữ quỷ xuất hiện trong quan tài tại sân, cảnh báo nhóm Kì đừng lo chuyện bao đồng. Hạ Thiên Kì bị trúng lời nguyền thoát nước nhưng nhờ Ác linh thể chất nên chỉ bị đau nhói lỗ chân lông. Lãnh Nguyệt dùng pháp thuật cứu Kì thoát khỏi sân.",
+      "key_events": [
+        "Lão_Vương_tan_chảy",
+        "nữ_quỷ_xuất_hiện_trong_quan_tài",
+        "Kì_trúng_lời_nguyền"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_010"
+      ],
+      "mood": "horror / high_tension"
+    },
+    {
+      "chapter": 73,
+      "title": "Bóng ma trước cửa sổ",
+      "summary": "Hạ Thiên Kì phân tích: Tiểu Lệ có lẽ có người yêu và bị Trần Lão Đại sai người giết chết. Giới thiệu Tề Đại Lực — một kẻ khỏe mạnh nhưng khù khờ, trung thành với bản lão. Tề Đại Lực đang trằn trọc thì thấy Tiểu Lệ đứng ngoài cửa sổ trong chớp sét.",
+      "key_events": [
+        "Hạ_Thiên_Kì_phân_tích_vụ_án",
+        "giới_thiệu_Tề_Đại_Lực",
+        "Tề_Đại_Lực_gặp_quỷ"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_010",
+        "char_032"
+      ],
+      "mood": "suspense / horror"
+    },
+    {
+      "chapter": 74,
+      "title": "Chậm một bước",
+      "summary": "Tề Đại Lực bị quỷ kéo vào thùng nước trong bếp và giết chết. Hạ Thiên Kì và Lãnh Nguyệt đến nơi thì Tề Đại Lực đang bò lết với tàn hơi, cảnh báo con quỷ vẫn còn trong nhà trước khi tan chảy thành máu tím đen.",
+      "key_events": [
+        "Tề_Đại_Lực_tử_vong",
+        "lời_cảnh_báo_cuối_cùng"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_010"
+      ],
+      "mood": "horror / climax"
+    },
+    {
+      "chapter": 75,
+      "title": "Mê hoặc",
+      "summary": "Hạ Thiên Kì và Lãnh Nguyệt bị vây hãm bởi màn chắn nước. Con quỷ xuất hiện ở cửa nhưng hóa ra chỉ là ảo ảnh. Nó để lại tối hậu thư: 'Đây là lần cuối... tha cho các ngươi'. Lãnh Nguyệt nghi ngờ quỷ chưa đủ mạnh nên mới phải giết người để tăng sức mạnh.",
+      "key_events": [
+        "bị_vây_trong_màn_chắn_nước",
+        "quỷ_tung_hỏa_mù",
+        "tối_hậu_thư_của_quỷ"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_010"
+      ],
+      "mood": "mystery / suspense"
+    },
+    {
+      "chapter": 76,
+      "title": "Lan tỏa",
+      "summary": "Trần Thông tỉnh dậy trong cơn cãi vã của cha mẹ, nôn ra hàng loạt tóc phụ nữ rồi tan chảy thành máu. Triệu mồm nhanh mơ thấy ác mộng về Tiểu Lệ bò như thạch sùng trên người mình.",
+      "key_events": [
+        "Trần_Thông_tử_vong",
+        "nôn_ra_tóc_phụ_nữ",
+        "ác_mộng_của_Triệu_mồm_nhanh"
+      ],
+      "active_characters": [
+        "char_025",
+        "char_026",
+        "char_029",
+        "char_028"
+      ],
+      "mood": "horror"
+    },
+    {
+      "chapter": 77,
+      "title": "Hắn chết trong giấc mộng!",
+      "summary": "Triệu mồm nhanh bị bóng đè và chết chìm ngay trên giường trong cơn ác mộng. Hạ Thiên Kì và Lãnh Nguyệt tìm thấy xác gã với máu rỉ ra từ tai, mũi như người chết đuối. Họ nhận ra mình liên tục chậm chân.",
+      "key_events": [
+        "Triệu_mồm_nhanh_tử_vong",
+        "chết_đuối_trên_giường"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_010",
+        "char_028"
+      ],
+      "mood": "horror / frustration"
+    },
+    {
+      "chapter": 78,
+      "title": "Sự thật và Khởi đầu của sự tàn sát",
+      "summary": "Nhóm Kì bắt giữ Trương thọt. Gã khai: gã thấy Tiểu Lệ ra khỏi nhà Từ Xung, dẫn đến việc Trần Lão Đại sai họ giết Từ Xung để giữ thể diện. Họ chôn sống Từ Xung tại Lão Phần Cương, Trần Lão Đại trực tiếp chặt đầu gã bằng xẻng.",
+      "key_events": [
+        "Trương_thọt_khai_báo",
+        "sự_thật_về_Từ_Xung",
+        "vụ_giết_người_tại_Lão_Phần_Cương"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_010",
+        "char_033"
+      ],
+      "mood": "high_tension"
+    },
+    {
+      "chapter": 79,
+      "title": "Âm mưu?",
+      "summary": "Trần Lão Đại bất ngờ xuất hiện ngoài cửa sổ, đã nghe thấy toàn bộ lời khai của Trương thọt. Lão xông vào phòng. Hạ Thiên Kì nhận ra đây là cái bẫy của nữ quỷ để hốt trọn ổ. Con quỷ bò vào nhà như nhện.",
+      "key_events": [
+        "Trần_Lão_Đại_lộ_diện",
+        "cạm_bẫy_của_lệ_quỷ",
+        "nữ_quỷ_áp_sát"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_010",
+        "char_025",
+        "char_033"
+      ],
+      "mood": "suspense / climax"
+    },
+    {
+      "chapter": 80,
+      "title": "Chạy",
+      "summary": "Nữ quỷ xâm nhập phòng. Trương thọt đổ tội cho Trần Lão Đại. Trần Lão Đại điên cuồng bóp cổ Trương thọt. Hạ Thiên Kì định dùng họ làm mồi nhử để chạy thoát qua cửa chính nhưng bị nữ quỷ phong tỏa bằng màn chắn nước.",
+      "key_events": [
+        "con_quỷ_vào_nhà",
+        "Trần_Lão_Đại_siết_cổ_Trương_thọt",
+        "bị_vây_khốn_tại_cửa"
+      ],
+      "active_characters": [
+        "char_001",
+        "char_010",
+        "char_025",
+        "char_033"
+      ],
+      "mood": "desperate / horror"
+    },
+    {
+      "chapter": 81,
+      "title": "Trãy dụa",
+      "summary": "Lãnh Nguyệt dùng bùa chú giao chiến kịch liệt. Bọn họ đốt rụi căn nhà của Hồ Đại Ngưu và quan tài nữ quỷ.",
+      "key_events": [
+        "giao_chiến",
+        "đốt_nhà"
+      ],
+      "active_characters": [
+        "C001",
+        "C010"
+      ],
+      "mood": "action"
+    },
+    {
+      "chapter": 82,
+      "title": "Quỷ dị",
+      "summary": "Cả hai trở về nhà Trần Lão Đại dưỡng sức, thảo luận về tình trạng quỷ dị của sự kiện.",
+      "key_events": [
+        "nghỉ_ngơi",
+        "suy_luận"
+      ],
+      "active_characters": [
+        "C001",
+        "C010"
+      ],
+      "mood": "mystery"
+    },
+    {
+      "chapter": 83,
+      "title": "Sự thật bị che giấu?",
+      "summary": "HTK và Lãnh Nguyệt suy luận về khả năng Từ Xung vẫn còn sống. Lãnh Nguyệt kinh ngạc trước tiềm năng khủng khiếp của Ác Linh Thể Chất.",
+      "key_events": [
+        "bàn_về_Từ_Xung",
+        "Ác_Linh_Thể_Chất"
+      ],
+      "active_characters": [
+        "C001",
+        "C010"
+      ],
+      "mood": "mystery"
+    },
+    {
+      "chapter": 84,
+      "title": "Trận",
+      "summary": "Lãnh Nguyệt mở Thiên Nhãn để tìm mục tiêu.",
+      "key_events": [
+        "mở_Thiên_Nhãn"
+      ],
+      "active_characters": [
+        "C001",
+        "C010"
+      ],
+      "mood": "preparation"
+    },
+    {
+      "chapter": 85,
+      "title": "'Tìm chết'",
+      "summary": "Lãnh Nguyệt phát hiện Từ Xung ở bãi tha ma. HTK bị truy đuổi và cố gắng né tránh màn nước bằng bản năng.",
+      "key_events": [
+        "tìm_thấy_Từ_Xung",
+        "HTK_bỏ_chạy"
+      ],
+      "active_characters": [
+        "C001",
+        "C010"
+      ],
+      "mood": "action"
+    },
+    {
+      "chapter": 86,
+      "title": "Giải quyết",
+      "summary": "HTK kéo dài đủ thời gian để Lãnh Nguyệt thu phục lệ quỷ nhưng bị ngất xỉu vì kiệt sức. Sự kiện cơ bản được giải quyết.",
+      "key_events": [
+        "HTK_kiệt_sức",
+        "Lãnh_Nguyệt_kết_thúc_trận"
+      ],
+      "active_characters": [
+        "C001",
+        "C010"
+      ],
+      "mood": "climax"
+    },
+    {
+      "chapter": 87,
+      "title": "Trở về",
+      "summary": "Tiểu Lệ được siêu thoát. HTK và Lãnh Nguyệt kết thúc nhiệm vụ, lấy được đánh giá Hoàn Mỹ và 5 điểm vinh dự, trở về thành phố.",
+      "key_events": [
+        "siêu_độ_Tiểu_Lệ",
+        "đánh_giá_Hoàn_Mỹ"
+      ],
+      "active_characters": [
+        "C001",
+        "C010",
+        "C027"
+      ],
+      "mood": "relief"
+    },
+    {
+      "chapter": 88,
+      "title": "Lãnh Nguyệt chuyển đến",
+      "summary": "Trở về biệt thự, Nam Cung Vân vô cùng nhiệt tình với HTK. Lãnh Nguyệt quyết định chuyển tới sống chung với HTK.",
+      "key_events": [
+        "trở_về_biệt_thự",
+        "tương_tác_bạn_cùng_phòng"
+      ],
+      "active_characters": [
+        "C001",
+        "C010",
+        "C022"
+      ],
+      "mood": "casual"
+    },
+    {
+      "chapter": 89,
+      "title": "Về nhà",
+      "summary": "HTK lái xe X5 về thăm nhà ở Bắc An, hồi tưởng lại tầm quan trọng của bùa chú ông nội đưa, sinh lòng nghi ngờ thân phận của ông ngoại.",
+      "key_events": [
+        "về_nhà",
+        "nghi_ngờ_ông_nội"
+      ],
+      "active_characters": [
+        "C001"
+      ],
+      "mood": "mystery"
+    },
+    {
+      "chapter": 90,
+      "title": "Đáng sợ",
+      "summary": "Qua Lãnh Nguyệt, HTK xác nhận bùa chú của ông nội cực kỳ cao cấp, dẫn dắt gã cho rằng ông nội cũng thuộc công ty và hiện đang làm nhiệm vụ.",
+      "key_events": [
+        "nhận_định_ông_nội_mạnh_mẽ"
+      ],
+      "active_characters": [
+        "C001",
+        "C010"
+      ],
+      "mood": "mystery"
+    },
+    {
+      "chapter": 91,
+      "title": "Bạn học đại học",
+      "summary": "Sáng hôm sau, HTK bị mẹ gọi dậy. Ký ức về nhóm bạn đại học được khơi dậy.",
+      "key_events": [
+        "mẹ_gọi_dậy",
+        "nhóm_bạn_đại_học"
+      ],
+      "active_characters": [
+        "C001",
+        "C035"
+      ],
+      "mood": "casual"
+    },
+    {
+      "chapter": 92,
+      "title": "Hy vọng thăng tiến",
+      "summary": "Giới thiệu Hứa Tiểu Uyển và Dương Thư Thành. HTK suy tính tìm cách kiếm điểm vinh dự ngoài lề để cường hóa.",
+      "key_events": [
+        "giới_thiệu_nhân_vật_mới",
+        "kế_hoạch_kiếm_điểm"
+      ],
+      "active_characters": [
+        "C001",
+        "C039",
+        "C041"
+      ],
+      "mood": "planning"
+    },
+    {
+      "chapter": 93,
+      "title": "Tin dữ",
+      "summary": "HTK nhận cuộc gọi khẩn từ bạn cũ Tào Kim Hải, báo tin Dương Thư Thành đã bị sát hại bởi chính Lý Xương Dã tại ký túc xá.",
+      "key_events": [
+        "nhận_tin_dữ",
+        "Dương_Thư_Thành_chết"
+      ],
+      "active_characters": [
+        "C001",
+        "C038",
+        "C039",
+        "C040"
+      ],
+      "mood": "tragic"
+    },
+    {
+      "chapter": 94,
+      "title": "Đả kích",
+      "summary": "HTK tức tốc đến đồn cảnh sát gặp Tào Kim Hải đang sụp đổ. Gã trải qua cú sốc lớn khi mất đi hai người bạn chí cốt.",
+      "key_events": [
+        "gặp_Tào_Kim_Hải",
+        "cú_sốc_tinh_thần"
+      ],
+      "active_characters": [
+        "C001",
+        "C038"
+      ],
+      "mood": "sadness"
+    },
+    {
+      "chapter": 95,
+      "title": "Nghi hoặc",
+      "summary": "HTK an ủi Tào Kim Hải và vào thăm Lý Xương Dã. Xương Dã tin rằng mình đang bị vướng vào một ác mộng quái dị chi phối.",
+      "key_events": [
+        "thăm_Lý_Xương_Dã",
+        "trấn_an"
+      ],
+      "active_characters": [
+        "C001",
+        "C038",
+        "C040"
+      ],
+      "mood": "suspense"
+    },
+    {
+      "chapter": 96,
+      "title": "Phân không rõ",
+      "summary": "Lý Xương Dã kể lại những giấc mơ kỳ quái khiến tâm trí bị bóp méo, không thể phân biệt thực và ảo.",
+      "key_events": [
+        "nghe_kể_mộng_cảnh"
+      ],
+      "active_characters": [
+        "C001",
+        "C040"
+      ],
+      "mood": "mystery"
+    },
+    {
+      "chapter": 97,
+      "title": "Trốn không thoát",
+      "summary": "Xương Dã gần như phát điên, cho rằng trong mộng bị mọi người truy sát nên mới ra tay giết Thư Thành phản kháng, nhưng hiện tại vẫn cảm giác như chưa thoát khỏi mộng.",
+      "key_events": [
+        "Lý_Xương_Dã_phát_điên"
+      ],
+      "active_characters": [
+        "C001",
+        "C040"
+      ],
+      "mood": "horror"
+    },
+    {
+      "chapter": 98,
+      "title": "Nguyên nhân",
+      "summary": "HTK suy ngẫm về nguyên nhân gây ra sự biến đổi của Xương Dã, nghi ngờ có yếu tố linh dị can thiệp.",
+      "key_events": [
+        "HTK_suy_ngẫm"
+      ],
+      "active_characters": [
+        "C001",
+        "C040"
+      ],
+      "mood": "investigation"
+    },
+    {
+      "chapter": 99,
+      "title": "Ý tưởng làm thêm",
+      "summary": "HTK rủ Lãnh Nguyệt hợp tác mở cửa tiệm diệt quỷ tư nhân để kiếm điểm vinh dự ngoài làm nhiệm vụ, Lãnh Nguyệt đồng ý ngay.",
+      "key_events": [
+        "kế_hoạch_mở_tiệm",
+        "đồng_thuận"
+      ],
+      "active_characters": [
+        "C001",
+        "C010"
+      ],
+      "mood": "planning"
+    },
+    {
+      "chapter": 100,
+      "title": "Lại truyền tin dữ",
+      "summary": "Cảnh sát báo tin Lý Xương Dã tự sát. Qua camera giám sát, Xương Dã xé nát mặt mình và mỉm cười quỷ dị trước khi chết, HTK bị kinh sợ tột độ.",
+      "key_events": [
+        "Lý_Xương_Dã_tự_sát_kinh_hoàng",
+        "xem_camera_giám_sát"
+      ],
+      "active_characters": [
+        "C001",
+        "C040"
+      ],
+      "mood": "horror"
+    },
+    {
+      "chapter": 101,
+      "title": "Cuộc gọi",
+      "summary": "HTK rời đồn cảnh sát trong u ám, cố gắng mở tiệm diệt quỷ để quên đi cái chết của bạn bè. Đột nhiên Tào Kim Hải gọi điện cầu cứu vì gia đình có 'vấn đề'. HTK lập tức tới thành phố Trấn Bắc để giúp đỡ.",
+      "key_events": [
+        "HTK_rời_đồn_cảnh_sát",
+        "chuẩn_bị_mở_tiệm",
+        "Tào_Kim_Hải_cầu_cứu"
+      ],
+      "active_characters": [
+        "C001",
+        "C041"
+      ],
+      "mood": "suspense"
+    },
+    {
+      "chapter": 102,
+      "title": "Tiếng động",
+      "summary": "Tào Kim Hải tiết lộ việc mình quên sạch lý do về nhà và kinh hoàng hơn là cậu ta vừa nói chuyện điện thoại với Dương Thư Thành và Lý Xương Dã dù họ đã chết. Cậu ta kể lại việc nghe thấy tiếng giày cao gót và giày da đáng sợ trong phòng khách khi nửa tỉnh nửa mê.",
+      "key_events": [
+        "Tào_Kim_Hải_quên_kỷ_ức",
+        "nói_chuyện_với_người_chết",
+        "tiếng_giày_quỷ_dị"
+      ],
+      "active_characters": [
+        "C001",
+        "C041"
+      ],
+      "mood": "horror"
+    },
+    {
+      "chapter": 103,
+      "title": "Ánh mắt!",
+      "summary": "Đại Hải thuật lại những cơn ác mộng lặp đi lặp lại về việc cha mẹ mài dao định giết mình. Đỉnh điểm là đêm qua khi cậu lén nhìn qua khe cửa và thấy cha mẹ cùng nhìn chằm chằm về phía mình với ánh mắt ác độc.",
+      "key_events": [
+        "cha_mẹ_mài_dao",
+        "ánh_mắt_ác_độc"
+      ],
+      "active_characters": [
+        "C041"
+      ],
+      "mood": "horror"
+    },
+    {
+      "chapter": 104,
+      "title": "Nhà Tào Kim Hải",
+      "summary": "HTK đến nhà Đại Hải, gặp cha mẹ cậu và cảm thấy không khí kỳ quái. Hắn bắt đầu nghi ngờ đây là huyễn cảnh hoặc quỷ nhập xác, nhớ lại bài học từ vụ án trước.",
+      "key_events": [
+        "đến_nhà_Đại_Hải",
+        "gặp_cha_mẹ_Đại_Hải"
+      ],
+      "active_characters": [
+        "C001",
+        "C041"
+      ],
+      "mood": "suspense"
+    },
+    {
+      "chapter": 105,
+      "title": "Tiến vào",
+      "summary": "HTK quan sát và phát hiện ánh đèn phòng khách chập chờn như hai thế giới đang hoán đổi. Hắn gọi Lãnh Nguyệt tới trợ giúp. Đêm xuống, tiếng giày cao gót vang lên và tiếng thì thầm: 'Bọn nó ngủ rồi, chúng ta vào thôi'.",
+      "key_events": [
+        "ánh_đèn_chập_chờn",
+        "tiếng_thì_thầm_đáng_sợ"
+      ],
+      "active_characters": [
+        "C001",
+        "C010"
+      ],
+      "mood": "horror"
+    },
+    {
+      "chapter": 106,
+      "title": "Ngăn cản",
+      "summary": "Cha mẹ Đại Hải cầm dao phá cửa xông vào. Đại Hải cũng bị nhập và tấn công HTK. Với Ác Linh Thể Chất, HTK đánh trả hai con quỷ nhập xác và hạ gục Đại Hải (đang bị nhập).",
+      "key_events": [
+        "đối_đầu_trực_diện",
+        "HTK_đánh_trả"
+      ],
+      "active_characters": [
+        "C001",
+        "C041"
+      ],
+      "mood": "action"
+    },
+    {
+      "chapter": 107,
+      "title": "Khủng hoảng",
+      "summary": "Đại Hải tỉnh lại sau khi bị đánh, kể về một giấc mơ 'bình thường' vừa trải qua. Lãnh Nguyệt (giả) xuất hiện định lấy máu HTK. Đột nhiên điện thoại HTK rung lên: Lãnh Nguyệt thật đang gọi tới.",
+      "key_events": [
+        "Lãnh_Nguyệt_giả_xuất_hiện",
+        "cú_điện_thoại_vạch_trần"
+      ],
+      "active_characters": [
+        "C001",
+        "C041",
+        "C010"
+      ],
+      "mood": "terror"
+    },
+    {
+      "chapter": 108,
+      "title": "Mộng Yểm",
+      "summary": "HTK lật bàn chạy thoát khỏi Lãnh Nguyệt giả và Đại Hải (giả). Hắn bị chém một nhát vào lưng. Chạy ra ngoài, hắn gặp được Lãnh Nguyệt thật. Lãnh Nguyệt xác định đây là Mộng Yểm - quỷ sống trong giấc mơ.",
+      "key_events": [
+        "HTK_thoát_hiểm",
+        "gặp_Lãnh_Nguyệt_thật",
+        "xác_định_Mộng_Yểm"
+      ],
+      "active_characters": [
+        "C001",
+        "C010"
+      ],
+      "mood": "action / suspense"
+    },
+    {
+      "chapter": 109,
+      "title": "Kinh hoàng",
+      "summary": "Lãnh Nguyệt giải thích về cơ chế của Mộng Yểm: chúng kết hợp từ Tâm Ma và Du Hồn. Hắn nghi ngờ ba con quỷ này là một gia đình muốn chiếm đoạt thân xác nhà Đại Hải để sống lại.",
+      "key_events": [
+        "giải_thích_về_Mộng_Yểm",
+        "nghi_ngờ_gia_đình_quỷ"
+      ],
+      "active_characters": [
+        "C001",
+        "C010"
+      ],
+      "mood": "informative"
+    },
+    {
+      "chapter": 110,
+      "title": "Đối phó",
+      "summary": "Lãnh Nguyệt cho biết phải vào Thế Giới Mộng Cảnh mới tiêu diệt được chúng mà không hại đến vật chủ. Cả hai quay lại căn hộ, Lãnh Nguyệt vẽ bùa trấn yểm cửa để chuẩn bị nghi thức.",
+      "key_events": [
+        "chuẩn_bị_vào_Mộng_Cảnh",
+        "vẽ_bùa_trấn_yểm"
+      ],
+      "active_characters": [
+        "C001",
+        "C010"
+      ],
+      "mood": "preparation"
+    },
+    {
+      "chapter": 111,
+      "title": "Mộng cảnh",
+      "summary": "Lãnh Nguyệt dùng bộ dụng cụ phá khóa để vào nhà Tào Kim Hải. Cả gia đình đang hôn mê. Lãnh Nguyệt giải thích Mộng Yểm đã chạy vào mộng cảnh. Hạ Thiên Kì quyết định mạo hiểm để Lãnh Nguyệt đưa ý thức mình vào mộng cảnh của Đại Hải để tiêu diệt tận gốc quỷ vật.",
+      "key_events": ["Hạ Thiên Kì thâm nhập vào Thế Giới Mộng Cảnh"],
+      "active_characters": ["C001", "C010", "C041"],
+      "mood": "tense"
+    },
+    {
+      "chapter": 112,
+      "title": "Một bản thể khác",
+      "summary": "Hạ Thiên Kì trong mộng cảnh nhận ra sự chân thực đáng sợ của nơi này. Hắn tìm thấy một chiếc điện thoại lạ có thể gọi cho những người đã chết ở thực tại (Lý Xương Dã). Một giọng nói lão già khàn đặc bắt đầu gọi tên hắn từ ngoài cửa.",
+      "key_events": ["Hạ Thiên Kì gọi điện cho Lý Xương Dã trong mộng", "Lão già mặt rắn xuất hiện"],
+      "active_characters": ["C001"],
+      "mood": "eerie"
+    },
+    {
+      "chapter": 113,
+      "title": "Mạo hiểm",
+      "summary": "Hành lang mộng cảnh đầy xác chết của cư dân. Một lão già mặt rắn tấn công Hạ Thiên Kì. HTK thoát ra ngoài bằng cách nhảy từ ban công tầng 4 xuống mái hiên tầng 2. Hắn nhận ra mộng cảnh của Tào Kim Hải chỉ gồm một tòa nhà duy nhất.",
+      "key_events": ["Hạ Thiên Kì nhảy lầu thoát thân", "Phát hiện cấu trúc mộng cảnh bị giới hạn"],
+      "active_characters": ["C001"],
+      "mood": "horror"
+    },
+    {
+      "chapter": 114,
+      "title": "Không lối thoát",
+      "summary": "Hạ Thiên Kì quay lại tòa nhà và phát hiện xác của gia đình Tào Kim Hải trên cầu thang tầng 8. Chúng đã bị lão già mặt rắn giết chết. Lão già này định thay thế chúng để nhập xác Tào Kim Hải thật. Lối ra của tòa nhà biến mất, HTK bị kẹt bên trong.",
+      "key_events": ["Phát hiện xác gia đình Tào Kim Hải trong mộng", "Lối ra biến mất"],
+      "active_characters": ["C001"],
+      "mood": "despair"
+    },
+    {
+      "chapter": 115,
+      "title": "Thoát thân",
+      "summary": "Bị dồn vào đường cùng, Hạ Thiên Kì liều mạng tự làm mình ngất xỉu bằng cách đập đầu vào tường để ý thức thoát khỏi mộng cảnh. Hắn tỉnh lại ở thực tại, cầm theo bàn tay đứt lìa của quỷ. Lãnh Nguyệt tiêu diệt thành công con quỷ đuổi theo HTK.",
+      "key_events": ["Hạ Thiên Kì tự đả thương để thoát mộng", "Bàn tay quỷ bị mang ra thực tại", "Lãnh Nguyệt diệt quỷ"],
+      "active_characters": ["C001", "C010"],
+      "mood": "intense"
+    },
+    {
+      "chapter": 116,
+      "title": "Thỏa mãn điều kiện thăng chức",
+      "summary": "Lãnh Nguyệt giải thích quỷ vật vừa rồi là Mộng Ma (cấp bậc Lệ Quỷ trong mộng). Gia đình Đại Hải đã an toàn. Trên đường về, Hạ Thiên Kì phát hiện mình nhận được 5 điểm vinh dự, tổng cộng có 11 điểm, đủ điều kiện thăng chức Chủ quản.",
+      "key_events": ["Xác định Mộng Ma", "Hạ Thiên Kì đủ điểm thăng chức Chủ quản"],
+      "active_characters": ["C001", "C010"],
+      "mood": "relief"
+    },
+    {
+      "chapter": 117,
+      "title": "Dự định",
+      "summary": "HTK phát hiện làm việc riêng vẫn được điểm vinh dự nhưng không có điểm sát hạch. Hắn mơ thấy bạn bè đã khuất và cảm thấy thanh thản hơn. HTK quyết định đi tìm Phó Hải Nghĩa để thăng chức và hỏi về ông nội Hạ Thuần.",
+      "key_events": ["Hạ Thiên Kì mơ thấy bạn cũ", "Quyết định thăng chức"],
+      "active_characters": ["C001", "C010"],
+      "mood": "hopeful"
+    },
+    {
+      "chapter": 118,
+      "title": "Thất vọng",
+      "summary": "Tại tòa nhà Hoàng Kim, HTK gặp lại Từ Thiên Hoa đã bình phục. Từ Thiên Hoa thông báo HTK dù đủ điều kiện nhưng chỉ là 'dự bị' vì không có vị trí Chủ quản trống. Vị trí chỉ trống khi có người chết.",
+      "key_events": ["Gặp lại Từ Thiên Hoa", "Bị từ chối thăng chức do thiếu vị trí trống"],
+      "active_characters": ["C001", "C021", "C006"],
+      "mood": "disappointed"
+    },
+    {
+      "chapter": 119,
+      "title": "Thông báo tạm dừng",
+      "summary": "Thông báo của tác giả về việc tạm dừng cập nhật do bị cảm nặng.",
+      "key_events": ["Tác giả nghỉ ốm"],
+      "active_characters": [],
+      "mood": "neutral"
+    },
+    {
+      "chapter": 120,
+      "title": "Công cốc trở về",
+      "summary": "HTK hỏi về ông nội nhưng Phó và Từ đều không biết. Xu tiết lộ việc thăng cấp Chủ quản cấp cao là cực kỳ nguy hiểm và bắt buộc sau nửa năm. HTK rời đi trong thất vọng nhưng ngay lập tức nhận được thông báo sự kiện mới trên đồng hồ.",
+      "key_events": ["Tiết lộ về sự nguy hiểm của Chủ quản cấp cao", "Nhận thông báo sự kiện mới"],
+      "active_characters": ["C001", "C021", "C006"],
+      "mood": "frustrated"
+    },
+    {
+      "chapter": 121,
+      "title": "Người chết về nhà",
+      "summary": "Trương Uyển Lệ và bạn trai vừa chuyển đến căn hộ mới ở tầng 7 tiểu khu Đông Dụ. Cô phát hiện một tầng 8 bí ẩn không có trong thiết kế. Nửa đêm, bạn trai cô trở về với vẻ ngoài kỳ lạ, sau đó đầu anh ta rơi xuống đất và tấn công cô.",
+      "key_events": ["Phát hiện tầng 8 bí ẩn", "Người chết về nhà lần 1"],
+      "active_characters": ["Trương Uyển Lệ", "Vương Văn Bân"],
+      "mood": "horror"
+    },
+    {
+      "chapter": 122,
+      "title": "Điều tra",
+      "summary": "Hạ Thiên Kì cùng hai tân binh đến đồn cảnh sát Đông Dụ điều tra. Họ biết được đã có 4 vụ giết người tương tự trong 8 ngày. Điểm chung là các cặp đôi đều bị phân xác, và nạn nhân nam đều chết trước nạn nhân nữ 2 ngày nhưng vẫn được thấy trở về nhà.",
+      "key_events": ["Hợp tác với cảnh sát Đông Dụ", "Phát hiện mâu thuẫn thời gian tử vong"],
+      "active_characters": ["C001", "Triệu An Quốc", "Thẩm Nhược Đồng"],
+      "mood": "serious"
+    },
+    {
+      "chapter": 123,
+      "title": "Hai người mới",
+      "summary": "HTK làm quen với Triệu An Quốc (thể chất Lệ Quỷ) và Thẩm Nhược Đồng (thuật pháp). Hắn phân tích quy luật quỷ vật: chọn tầng thượng, khu Đông Dụ và các cặp đôi mới chuyển nhà. Họ quyết định khóa chặt mục tiêu tiếp theo.",
+      "key_events": ["Phân tích quy luật quỷ vật", "Lập đội chiến đấu"],
+      "active_characters": ["C001", "Triệu An Quốc", "Thẩm Nhược Đồng"],
+      "mood": "analytical"
+    },
+    {
+      "chapter": 124,
+      "title": "Lời bộc bạch khi lên kệ",
+      "summary": "Tâm sự của tác giả Nhất Tiếu về hành trình viết lách và mong muốn đột phá phong cách với Ác Linh Quốc Gia khi truyện vào phần VIP.",
+      "key_events": ["Thông báo truyện lên VIP"],
+      "active_characters": [],
+      "mood": "sincere"
+    },
+    {
+      "chapter": 125,
+      "title": "Khóa chặt mục tiêu",
+      "summary": "HTK xác định mục tiêu là các cặp đôi mới chuyển đến tầng thượng khu Đông Dụ. Trương Hiểu Hiểu - nạn nhân tiềm năng - cảm thấy bất an trong căn nhà mới 30m2 cùng chồng là Trương Thần.",
+      "key_events": ["Khóa chặt mục tiêu Trương Hiểu Hiểu"],
+      "active_characters": ["C001", "Triệu An Quốc", "Thẩm Nhược Đồng", "Trương Hiểu Hiểu"],
+      "mood": "tense"
+    },
+    {
+      "chapter": 126,
+      "title": "Chuyến viếng thăm",
+      "summary": "Trương Hiểu Hiểu nghe thấy tiếng động từ tầng thượng (vốn không tồn tại). Cô lên kiểm tra và thấy cánh cửa đỏ bí ẩn. Nhóm HTK đóng giả cảnh sát đến viếng thăm để xác nhận tình hình.",
+      "key_events": ["Tiếp cận nạn nhân Trương Hiểu Hiểu", "Xác nhận sự tồn tại của tầng thượng ma quái"],
+      "active_characters": ["C001", "Triệu An Quốc", "Thẩm Nhược Đồng", "Trương Hiểu Hiểu"],
+      "mood": "suspense"
+    },
+    {
+      "chapter": 127,
+      "title": "Cân nhắc",
+      "summary": "HTK thẩm vấn Hiểu Hiểu và biết chồng cô chưa về. Hắn phân tích hiện tượng 'Người chết về nhà' và quyết định không mạo hiểm ở lại trực diện mà tìm cách đối phó từ bên ngoài do thiếu hụt sức mạnh.",
+      "key_events": ["Phân tích chiến thuật", "Xác nhận Trương Thần chưa về"],
+      "active_characters": ["C001", "Triệu An Quốc", "Thẩm Nhược Đồng", "Trương Hiểu Hiểu"],
+      "mood": "calculating"
+    },
+    {
+      "chapter": 128,
+      "title": "Đối sách",
+      "summary": "Nhóm HTK rời đi nhưng vẫn nấp gần đó quan sát. Thẩm Nhược Đồng bất mãn vì không bảo vệ Hiểu Hiểu nhưng sau đó hiểu cho sự thận trọng của HTK. Họ quyết định phục kích để thấy tận mắt quy luật người chết về nhà.",
+      "key_events": ["Lập trận phục kích", "Thẩm Nhược Đồng thừa nhận giới hạn thuật pháp"],
+      "active_characters": ["C001", "Triệu An Quốc", "Thẩm Nhược Đồng"],
+      "mood": "grim"
+    },
+    {
+      "chapter": 129,
+      "title": "Lìa đầu",
+      "summary": "Nửa đêm, Trương Thần trở về nhà với chiếc khăn len quấn chặt cổ. Hiểu Hiểu kéo khăn ra làm đầu anh ta rơi xuống đất. Cái đầu liên tục gào thét 'Anh chết rồi' và tấn công cô.",
+      "key_events": ["Trương Thần 'trở về'", "Cảnh tượng đầu lìa kinh hoàng"],
+      "active_characters": ["Trương Hiểu Hiểu", "Trương Thần"],
+      "mood": "horror"
+    },
+    {
+      "chapter": 130,
+      "title": "Vụ thứ năm",
+      "summary": "HTK báo cảnh sát để 'thăm dò' tình hình nhà Hiểu Hiểu. Khi xe cứu thương đến, họ vào hiện trường và thấy Hiểu Hiểu cùng chồng đã bị phân xác dã man. Đây là vụ thứ 5 trong chuỗi án mạng.",
+      "key_events": ["Hiện trường vụ án thứ 5", "Hạ Thiên Kì giáp mặt cảnh sát điều tra"],
+      "active_characters": ["C001", "Triệu An Quốc", "Thẩm Nhược Đồng", "Vương Đầu"],
+      "mood": "dark"
+    },
+    {
+      "chapter": 131,
+      "title": "Cầu thang biến mất",
+      "summary": "HTK ảo não vì không xem camera giám sát sớm hơn. SRT và ZAG bắt gặp cái cầu thang bí ẩn mọc ra từ tường rồi biến mất. HTK quyết định kiểm chứng sự tồn tại của 'Tầng 8'.",
+      "key_events": ["Bắt gặp cầu thang quỷ", "HTK hối hận vì sơ suất"],
+      "active_characters": ["C001", "Triệu An Quốc", "Thẩm Nhược Đồng"],
+      "mood": "tense"
+    },
+    {
+      "chapter": 132,
+      "title": "Quỷ dị",
+      "summary": "ZAG kể về đại ca Ngô Địch và sự ái mộ của anh ta dành cho Lương Nhược Vân. Tại đồn cảnh sát, báo cáo pháp y cho thấy mâu thuẫn thời gian tử vong giữa các cặp đôi (nam chết trước 2 ngày).",
+      "key_events": ["Giới thiệu Ngô Địch", "Xác nhận mâu thuẫn thời gian tử vong"],
+      "active_characters": ["C001", "Triệu An Quốc", "Thẩm Nhược Đồng", "Vương Đầu"],
+      "mood": "investigative"
+    },
+    {
+      "chapter": 133,
+      "title": "Phối hợp",
+      "summary": "Nhóm HTK tìm tới Vương Thiến Hoa và Hà Xung. Họ ngăn cản Hà Xung đi công tác vì nhận ra đây là thời điểm tử vong định sẵn. HTK dùng danh nghĩa cảnh sát ép họ ở lại để bảo vệ.",
+      "key_events": ["Ngăn chặn nạn nhân rời đi", "Bố trí bảo vệ"],
+      "active_characters": ["C001", "Triệu An Quốc", "Thẩm Nhược Đồng", "Vương Thiến Hoa", "Hà Xung"],
+      "mood": "suspense"
+    },
+    {
+      "chapter": 134,
+      "title": "Người chết tiếp khách",
+      "summary": "HTK gọi điện cho công ty của Hà Xung và sốc khi biết cả hai đã mất tích 5 ngày trước. Cặp đôi 'sống' họ vừa gặp thực chất đã chết. HTK đưa cả đội rút lui ngay lập tức.",
+      "key_events": ["Sự thật về cái chết của mục tiêu", "Rút lui khẩn cấp"],
+      "active_characters": ["C001", "Triệu An Quốc", "Thẩm Nhược Đồng"],
+      "mood": "horror"
+    },
+    {
+      "chapter": 135,
+      "title": "Quỷ vực di động",
+      "summary": "HTK liên lạc với Lãnh Nguyệt và biết được khái niệm 'Quỷ vực di động'. Đây là một công trình ma quái có thể di chuyển và ký sinh trên đỉnh các tòa nhà cao tầng.",
+      "key_events": ["Học về Quỷ vực di động", "Liên lạc với Lãnh Nguyệt"],
+      "active_characters": ["C001", "C002", "Triệu An Quốc", "Thẩm Nhược Đồng"],
+      "mood": "mysterious"
+    },
+    {
+      "chapter": 136,
+      "title": "Phân tích",
+      "summary": "HTK phân tích quy luật giết người: Quỷ vực di động bám vào tầng thượng, nạn nhân chết bên ngoài rồi 'trở về' qua cầu thang quỷ để giết người còn lại. Vương đầu xác nhận tìm thấy xác Hà Xung.",
+      "key_events": ["Giải mã quy luật giết người", "Cảnh sát tìm thấy thi thể thực"],
+      "active_characters": ["C001", "Triệu An Quốc", "Thẩm Nhược Đồng", "Vương Đầu"],
+      "mood": "analytical"
+    },
+    {
+      "chapter": 137,
+      "title": "Bước tiếp theo",
+      "summary": "Mọi nạn nhân tiềm năng đều đã chết. Nhóm HTK bàn bạc liệu sự kiện đã kết thúc hay sẽ mở rộng quy mô. HTK quyết định không chờ đợi mà chủ động làm mồi nhử.",
+      "key_events": ["Lập kế hoạch dọn vào tầng thượng", "Mâu thuẫn về tương lai sự kiện"],
+      "active_characters": ["C001", "Triệu An Quốc", "Thẩm Nhược Đồng"],
+      "mood": "calculating"
+    },
+    {
+      "chapter": 138,
+      "title": "Chuyển nhà",
+      "summary": "Cả đội thuê một căn hộ tầng thượng tại khu Đông Dụ và dọn vào ở ngay. Chỉ vài giờ sau khi dọn tới, HTK nghe thấy tiếng động và nhìn thấy cầu thang quỷ xuất hiện qua mắt mèo.",
+      "key_events": ["Dọn vào tầng thượng làm mồi nhử", "Cầu thang quỷ tái hiện"],
+      "active_characters": ["C001", "Triệu An Quốc", "Thẩm Nhược Đồng"],
+      "mood": "tense"
+    },
+    {
+      "chapter": 139,
+      "title": "Âm thanh",
+      "summary": "Trong đêm đầu tiên, cả đội cắt cử ca trực. Khi HTK và ZAG đang trực thì nghe thấy tiếng động uỳnh uỳnh từ bên trên. Đột nhiên Thẩm Nhược Đồng biến mất khỏi giường ngủ.",
+      "key_events": ["Bố trí trực đêm", "Thẩm Nhược Đồng mất tích bí ẩn"],
+      "active_characters": ["C001", "Triệu An Quốc", "Thẩm Nhược Đồng"],
+      "mood": "horror"
+    },
+    {
+      "chapter": 140,
+      "title": "Rốt cuộc đang ở đâu?",
+      "summary": "HTK leo lên cầu thang quỷ cứu SRT nhưng bị quỷ sơ sinh lừa cõng gánh nặng. Khi chạy về phòng, họ nhận ra đã kẹt trong một không gian giả lập của Quỷ vực di động thay vì căn phòng thực.",
+      "key_events": ["Truy kích trên tầng 8", "Lọt vào không gian giả lập", "Cầu cứu thất bại"],
+      "active_characters": ["C001", "Triệu An Quốc", "Thẩm Nhược Đồng (ảo)"],
+      "mood": "despair"
+    },
+    {
+      "chapter": 141,
+      "title": "Sát cơ không lời",
+      "summary": "HTK xác nhận sự tồn tại của 'Nhà ma' trong Quỷ vực di động. Hắn phân tích quy luật 'Hai người cùng dọn vào thì cùng vào nhà ma'. Hắn từ chối kiểm tra những tiếng động dẫn dụ từ nhà vệ sinh.",
+      "key_events": ["Phân tích quy luật bẫy nhà ma", "Xác định độc lập ý chí khỏi Lãnh Nguyệt"],
+      "active_characters": ["C001", "Triệu An Quốc"],
+      "mood": "tense"
+    },
+    {
+      "chapter": 142,
+      "title": "Ai có thể mở cửa?",
+      "summary": "ZAG mở cửa nhà vệ sinh và thấy xác SRT. HTK phát hiện 'vệt trắng' là công cụ bắt giữ của quỷ vực. Hắn ngộ ra chân lý: Cửa quỷ chỉ có thể mở bởi người chết.",
+      "key_events": ["Tìm thấy xác Thẩm Nhược Đồng", "Phát hiện vệt trắng tử thần", "Ngộ ra cơ chế mở cửa"],
+      "active_characters": ["C001", "Triệu An Quốc", "Thẩm Nhược Đồng (xác)"],
+      "mood": "horror"
+    },
+    {
+      "chapter": 143,
+      "title": "Hung tướng lộ rõ",
+      "summary": "HTK định dùng tay SRT mở cửa. Đột nhiên ZAG tấn công HTK vì bị nhập xác. Xác SRT cũng vùng dậy siết cổ HTK. Cả hai bạn đồng hành đều biến thành kẻ thù.",
+      "key_events": ["Triệu An Quốc phản bội", "Xác SRT hồi sinh", "Giáp lá cà trong phòng hẹp"],
+      "active_characters": ["C001", "Triệu An Quốc (quỷ)", "Thẩm Nhược Đồng (xác)"],
+      "mood": "desperate"
+    },
+    {
+      "chapter": 144,
+      "title": "Thoát hiểm",
+      "summary": "HTK dùng sức mạnh Ác Linh đánh bại ZAG và SRT. Hắn lấy tay tử thi mở cửa, kéo ZAG rời khỏi Quỷ vực ngay trước khi 'vệt trắng' thu lưới. HTK kiệt sức hôn mê.",
+      "key_events": ["Thoát khỏi Quỷ vực di động", "Cứu sống Triệu An Quốc"],
+      "active_characters": ["C001", "Triệu An Quốc"],
+      "mood": "intense"
+    },
+    {
+      "chapter": 145,
+      "title": "Viếng thăm",
+      "summary": "HTK tỉnh lại trong bệnh viện, nhận được 3 điểm vinh dự và đánh giá Ưu tú. Từ Thiên Hoa thông báo sự kiện đoàn đội sau 2 tháng. Lãnh Nguyệt đến thăm và giải thích thêm về Quỷ vực.",
+      "key_events": ["Nhận phần thưởng sự kiện", "Tin nhắn sự kiện đoàn đội", "Lãnh Nguyệt viếng thăm"],
+      "active_characters": ["C001", "C002"],
+      "mood": "relief"
+    },
+    {
+      "chapter": 146,
+      "title": "Trở về",
+      "summary": "Leng Yue mắng HTK yếu đuối và lười biếng. HTK quyết định dồn điểm cường hóa. Trên đường về, Leng Yue lái xe siêu chậm vì không bằng lái, HTK phải lái thay dù đang bị thương.",
+      "key_events": ["Rời viện", "Hồi kết hài hước trên đường về"],
+      "active_characters": ["C001", "C002"],
+      "mood": "lighthearted"
+    },
+    {
+      "chapter": 147,
+      "title": "Hiện thực tàn khốc",
+      "summary": "Tại biệt thự, nhóm thảo luận về sự kiện đoàn đội. Lưu Ngôn Mẫn chia sẻ góc nhìn bi quan về sự sống còn và giải thích luật chơi khắc nghiệt của sự kiện đoàn đội (trừ 10 lần điểm nếu thất bại).",
+      "key_events": ["Tiệc hồi quy", "Luật chơi sự kiện đoàn đội"],
+      "active_characters": ["C001", "C002", "C022", "C023"],
+      "mood": "grim"
+    },
+    {
+      "chapter": 148,
+      "title": "Triệu tập",
+      "summary": "HTK dùng 4 điểm vinh dự để cường hóa: Sức mạnh/Tốc độ/Phản xạ (Cấp 2) và Cảm giác/Hồi phục (Cấp 1). Sáng hôm sau hắn triệu tập cả nhóm để bàn chuyện 'nhận việc riêng'.",
+      "key_events": ["Hạ Thiên Kì cường hóa thể chất", "Triệu tập đội ngũ"],
+      "active_characters": ["C001", "C002", "C022", "C023"],
+      "mood": "determined"
+    },
+    {
+      "chapter": 149,
+      "title": "Nhập bọn",
+      "summary": "HTK thuyết phục Mẫn Mẫn và Nam Cung Vân lập đội nhận việc riêng ngoài giờ để kiếm thêm điểm vinh dự trước sự kiện đoàn đội. 'Tiểu đội Giải Phóng' chính thức thành lập.",
+      "key_events": ["Thành lập Tiểu đội Giải Phóng", "Tiết lộ kênh thông tin riêng của HTK"],
+      "active_characters": ["C001", "C002", "C022", "C023"],
+      "mood": "motivated"
+    },
+    {
+      "chapter": 150,
+      "title": "Hội kiến “khách hàng”",
+      "summary": "Nhóm đến thành phố Ngô Thủ gặp giám đốc Liễu Chí Thành. Gã nghi ngờ năng lực của nhóm. Mẫn Mẫn chuẩn bị thi triển 'Quỷ hóa một phần' để thị uy sức mạnh.",
+      "key_events": ["Gặp gỡ khách hàng đầu tiên", "Biểu diễn năng lực quỷ hóa"],
+      "active_characters": ["C001", "C002", "C022", "C023", "Liễu Chí Thành"],
+      "mood": "mysterious"
+    },
+    {
+      "chapter": 151,
+      "title": "Tụ tập",
+      "summary": "Mẫn Mẫn quỷ hóa cánh tay để thị uy với Liễu Chí Thành. HTK bắt đầu tò mò về khả năng quỷ hóa của bản thân. Liễu Chí Thành kể về buổi tụ tập bộ phận đi xem phim 'Tà Linh' và những hiện tượng lạ sau đó.",
+      "key_events": ["Mẫn Mẫn biểu diễn Quỷ hóa", "Kể về phim Tà Linh"],
+      "active_characters": ["C001", "C002", "C022", "C023", "Liễu Chí Thành"],
+      "mood": "tense"
+    },
+    {
+      "chapter": 152,
+      "title": "Bị quỷ ám toán",
+      "summary": "Liễu Chí Thành kể tiếp về phim 'Tà Linh' và cái chết của Phượng Thái. Trong đời thực, bóng quỷ bò ra từ màn hình rạp chiếu. Các đồng nghiệp lần lượt tử vong sau khi nghe thấy tiếng hét lạ qua điện thoại.",
+      "key_events": ["Cốt truyện phim Tà Linh", "Quỷ bò ra từ màn hình"],
+      "active_characters": ["Liễu Chí Thành", "C001", "C022"],
+      "mood": "horror"
+    },
+    {
+      "chapter": 153,
+      "title": "Tắc nghẽn",
+      "summary": "Liễu Chí Thành bị cảnh sát nghi ngờ. Gã phát hiện rạp phim không hề tồn tại. Trong nhà gã, máu đen chảy ra từ vòi nước và gã phát hiện một cái đầu người kẹt trong đường ống.",
+      "key_events": ["Phát hiện rạp phim không tồn tại", "Đầu người trong đường ống"],
+      "active_characters": ["Liễu Chí Thành", "C001"],
+      "mood": "visceral"
+    },
+    {
+      "chapter": 154,
+      "title": "Đầu người",
+      "summary": "Liễu Chí Thành ngủ chung với đầu người mà không biết. Đầu người liên tục xuất hiện trong tủ lạnh nhà gã. Gã tiết lộ cái đầu gã mang theo hiện tại chính là đầu của Phượng Thái - nhân vật chính trong phim.",
+      "key_events": ["Cái đầu âm hồn bất tán", "Tiết lộ đầu Phượng Thái"],
+      "active_characters": ["Liễu Chí Thành", "C001", "C023"],
+      "mood": "creepy"
+    },
+    {
+      "chapter": 155,
+      "title": "Kỳ quặc",
+      "summary": "HTK nhận ra điểm bất thường: quỷ giết người khác nhanh gọn nhưng chỉ hù dọa Liễu Chí Thành. Cả nhóm bàn bạc về khái niệm 'Lời nguyền'. Mẫn Mẫn nổ ra tranh luận với Nam Cung Vân.",
+      "key_events": ["Nghi vấn về sự 'thiên vị' của quỷ", "Tranh luận về Lời nguyền"],
+      "active_characters": ["C001", "C022", "C023"],
+      "mood": "analytical"
+    },
+    {
+      "chapter": 156,
+      "title": "Thăm dò",
+      "summary": "Lãnh Nguyệt nhận định có thể là Tà Linh tạo ảo cảnh. Cả nhóm về nhà Liễu Chí Thành. HTK thấy đầu người đông lạnh trong tủ lạnh (ảo giác). Lãnh Nguyệt chuẩn bị tiêu diệt cái đầu Phượng Thái.",
+      "key_events": ["Về nhà khách hàng", "Khám phá tủ lạnh kinh hoàng"],
+      "active_characters": ["C001", "C002", "C022", "C023", "Liễu Chí Thành"],
+      "mood": "suspenseful"
+    },
+    {
+      "chapter": 157,
+      "title": "Vẫn còn ư?",
+      "summary": "Lãnh Nguyệt dùng thuật 'Vô Nhận' tiêu diệt cái đầu Phượng Thái, vạch trần nó là Tà Linh (Wicked Spirit). Nam Cung Vân giải thích về cơ chế của Tà Linh và tài năng của Lãnh Nguyệt.",
+      "key_events": ["Thi triển Vô Nhận", "Tiêu diệt Tà Linh"],
+      "active_characters": ["C002", "C023", "Liễu Chí Thành", "C001"],
+      "mood": "action"
+    },
+    {
+      "chapter": 158,
+      "title": "Quỷ Vương Thể Chất",
+      "summary": "Nhóm triệu tập thêm các nạn nhân khác. HTK và Mẫn Mẫn trực đêm và thảo luận về 3 cấp độ quỷ thể chất: Lệ Quỷ, Ác Linh và Quỷ Vương. Mẫn Mẫn giải thích về tiềm năng tăng trưởng.",
+      "key_events": ["Phân chia chỗ ngủ hài hước", "Giải thích về 3 cấp độ thể chất"],
+      "active_characters": ["C001", "C022"],
+      "mood": "informative"
+    },
+    {
+      "chapter": 159,
+      "title": "Quỷ hóa",
+      "summary": "Mẫn Mẫn giảng giải về 3 khâu cường hóa: Áp chế, Thao khống và Cường hóa. HTK cảm thấy nguy hiểm rình rập khi đi vệ sinh, cảm giác có quỷ đứng sau lưng.",
+      "key_events": ["Giải mã hệ thống cường hóa", "Cảnh báo nguy hiểm nửa đêm"],
+      "active_characters": ["C001", "C022"],
+      "mood": "tense"
+    },
+    {
+      "chapter": 160,
+      "title": "食尸鬼 (Thực Thi Quỷ)",
+      "summary": "HTK bị tóc quỷ quấn chặt. Một con quỷ nhện mọc đầy đầu người (Thực Thi Quỷ) xuất hiện. Lãnh Nguyệt và Nam Cung Vân ra tay giải cứu. Trận chiến tiêu diệt quái vật bắt đầu.",
+      "key_events": ["Thực Thi Quỷ lộ diện", "Trận chiến phòng khách"],
+      "active_characters": ["C001", "C002", "C023", "C022"],
+      "mood": "action"
+    },
+    {
+      "chapter": 161,
+      "title": "Cơ hội",
+      "summary": "Trận chiến với Thực Thi Quỷ tiếp tục. HTK cứu Nam Cung Vân khỏi miệng khuôn mặt quỷ, chứng minh phản ứng và lòng dũng cảm. Lãnh Nguyệt tìm ra điểm yếu của con quái vật.",
+      "key_events": ["HTK cứu Nam Cung Vân", "Tìm ra điểm yếu Thực Thi Quỷ"],
+      "active_characters": ["C001", "C002", "C023", "C022"],
+      "mood": "action"
+    },
+    {
+      "chapter": 162,
+      "title": "Dưỡng Thi Nhân",
+      "summary": "Lãnh Nguyệt chém đầu Thực Thi Quỷ. Tiết lộ gây sốc: Liễu Chí Thành là một Dưỡng Thi Nhân (người nuôi xác) đã lừa nhóm vào bẫy để dùng họ làm 'thức ăn' cho quỷ.",
+      "key_events": ["Tiêu diệt Thực Thi Quỷ", "Vạch trần Liễu Chí Thành", "Dưỡng Thi Nhân lộ diện"],
+      "active_characters": ["C001", "C002", "C023", "C022"],
+      "mood": "mystery / shock"
+    },
+    {
+      "chapter": 163,
+      "title": "Những điểm vinh dự dư ra",
+      "summary": "HTK nhận được 8 điểm vinh dự bất ngờ (thay vì 5). Lãnh Nguyệt nhắc về 'Sư phụ' đã mất. Liễu Chí Thành (giả) biến mất sau khi tháo mặt nạ da người.",
+      "key_events": ["HTK nhận 8 điểm thưởng", "Quá khứ Lãnh Nguyệt", "Mặt nạ da người"],
+      "active_characters": ["C001", "C002"],
+      "mood": "mystery / bittersweet"
+    },
+    {
+      "chapter": 164,
+      "title": "Tiền thân",
+      "summary": "Xác nhận Liễu Chí Thành thật đã chết sớm. HTK xây dựng mạng lưới 'việc riêng' qua các thầy âm dương. Hắn nhận ra 3 điểm dư là 'Chiếu khấu đoàn đội' và suy ngẫm về tiền thân của sơ đồ Công ty.",
+      "key_events": ["Xây dựng mạng lưới tình báo", "Giải mã chiết khấu đoàn đội", "Triết lý về quy mô Công ty"],
+      "active_characters": ["C001", "C002", "C023", "C022"],
+      "mood": "intellectual / expansion"
+    },
+    {
+      "chapter": 165,
+      "title": "Thử nghiệm",
+      "summary": "HTK dồn 8 điểm vào Sức mạnh/Tốc độ/Phản ứng và Thao khống (đều lên cấp 4). Hắn loay hoay tìm cách Quỷ hóa. Mẫn Mẫn giải thích về 'Điểm dung hợp'.",
+      "key_events": ["HTK nâng cấp thuộc tính", "Tìm hiểu cơ chế Quỷ hóa", "Điểm dung hợp"],
+      "active_characters": ["C001", "C023"],
+      "mood": "training / informative"
+    },
+    {
+      "chapter": 166,
+      "title": "Thực hiện Quỷ hóa!",
+      "summary": "HTK thành công Quỷ hóa cả hai tay (đen kịt điểm đỏ). Sau 2 tháng luyện tập, hắn và Lãnh Nguyệt lên đường đến Tương Sơn thực hiện sự kiện đoàn đội.",
+      "key_events": ["Quỷ hóa thành công hai tay", "Bỏ qua 2 tháng huấn luyện", "Khởi hành đi Tương Sơn"],
+      "active_characters": ["C001", "C002", "C023"],
+      "mood": "growth / transition"
+    },
+    {
+      "chapter": 167,
+      "title": "Xuống xe",
+      "summary": "Hành trình trên tàu và xe buýt đến Tử Dục Thôn. HTK và Lãnh Nguyệt thảo luận về nhân tính và sự phản bội trong sự kiện đoàn đội. Lãnh Nguyệt thức trắng canh chừng cho HTK ngủ.",
+      "key_events": ["Đến chân núi Tương Sơn", "Tâm sự về sự phản bội", "Tình bạn HTK - Lãnh Nguyệt"],
+      "active_characters": ["C001", "C002"],
+      "mood": "bittersweet / camaraderie"
+    },
+    {
+      "chapter": 168,
+      "title": "Tập hợp",
+      "summary": "Nhóm đến Tử Dục Thôn, một ngôi làng ma quái im lìm. Họ hội quân cùng Từ Thiên Hoa và 16 nhân viên khác. HTK cảm nhận sát khí và sự cạnh tranh từ Từ Thiên Hoa.",
+      "key_events": ["Tới Tử Dục Thôn", "Hội quân (18 người)", "Đối đầu Từ Thiên Hoa"],
+      "active_characters": ["C001", "C002", "C006"],
+      "mood": "tense / ominous"
+    },
+    {
+      "chapter": 169,
+      "title": "Cuộc đọ sức 'giết chóc'",
+      "summary": "Từ Thiên Hoa phổ biến luật sự kiện đoàn đội: 48h, mục tiêu diệt quỷ, nợ điểm vinh dự 10 lần nếu thất bại. Mâu thuẫn nổ ra trong nhóm lính mới yếu kém.",
+      "key_events": ["Luật sự kiện đoàn đội", "Hình phạt nợ 60 điểm", "Xung đột nội bộ nhóm lính mới"],
+      "active_characters": ["C001", "C002", "C006"],
+      "mood": "grim / pressure"
+    },
+    {
+      "chapter": 170,
+      "title": "Phân phái",
+      "summary": "Từ Thiên Hoa chia nhóm. HTK và Lãnh Nguyệt bị gã chọn vào cùng nhóm để làm bia đỡ đạn cho bản thân gã. Nhóm bắt đầu sục sạo khu vực trung tâm làng lúc nửa đêm.",
+      "key_events": ["Phân chia nhóm tìm kiếm", "HTK/Lãnh Nguyệt bị dùng làm bia đỡ đạn", "Sứ mệnh trung tâm làng"],
+      "active_characters": ["C001", "C002", "C006"],
+      "mood": "suspense / danger"
+    },
+    {
+      "chapter": 171,
+      "summary": "Từ Thiên Hoa ra lệnh lục soát từng nhà với giới hạn 3 phút. Hạ Thiên Kì và Lãnh Nguyệt phát hiện một 'Tiểu quỷ' nấp trong chum nước.",
+      "key_events": ["Phát hiện tiểu quỷ trong chum nước", "Quy tắc tìm kiếm khắc nghiệt của Từ Thiên Hoa"],
+      "active_characters": ["C001", "C010", "C023"],
+      "mood": "suspense"
+    },
+    {
+      "chapter": 172,
+      "summary": "Lãnh Nguyệt tiêu diệt tiểu quỷ. Cả hai khám phá ngôi nhà chứa các xác chết bị chặt nhỏ rồi ghép lại. Một thành viên nữ ở nhóm khác biến mất.",
+      "key_events": ["Lãnh Nguyệt diệt tiểu quỷ", "Phát hiện xác chết ghép"],
+      "active_characters": ["C001", "C010", "C023"],
+      "mood": "horror"
+    },
+    {
+      "chapter": 173,
+      "summary": "Chuyển cảnh sang nhóm phía Đông của Mã Hồng Lâm. Mã Hồng Lâm thuyết phục cả nhóm chỉ đi lảng vảng bên ngoài để tránh nguy hiểm.",
+      "key_events": ["Chiến thuật sinh tồn tiêu cực của Mã Hồng Lâm", "Phân tích ưu nhược điểm của Thuật pháp và Quỷ thể chất"],
+      "active_characters": ["C025", "C026", "C027", "C028"],
+      "mood": "cynical"
+    },
+    {
+      "chapter": 174,
+      "summary": "Đại Dương (Quỷ thể chất) mất tích bí ẩn. Từ Thiên Hoa ra lệnh toàn quân tập hợp tại phía Đông. Hé lộ cái chết của Hàn Hồng.",
+      "key_events": ["Đại Dương mất tích", "Lệnh tập hợp toàn quân"],
+      "active_characters": ["C001", "C010", "C023", "C025"],
+      "mood": "urgency"
+    },
+    {
+      "chapter": 175,
+      "summary": "Các nhóm hội quân. Tổng số người sống sót còn 12. Từ Thiên Hoa xác định nhóm phía Đông đã tử nạn và quỷ vật mục tiêu ở gần đó.",
+      "key_events": ["Hội quân các tiểu tổ", "Xuất hiện thiếu niên độc miệng"],
+      "active_characters": ["C001", "C010", "C023", "C029"],
+      "mood": "tension"
+    },
+    {
+      "chapter": 176,
+      "summary": "Nhóm Hạ Thiên Kì vào lục soát một ngôi nhà trong khi Từ Thiên Hoa bỏ mặc họ để quan sát. Tiếng băm chặt vang lên từ gian bếp.",
+      "key_events": ["Lục soát ngôi nhà ma vào ban đêm", "Thái độ lạnh lùng của Từ Thiên Hoa"],
+      "active_characters": ["C001", "C010", "C023", "C030"],
+      "mood": "dread"
+    },
+    {
+      "chapter": 177,
+      "summary": "Hạ Thiên Kì bị nữ quỷ nửa thân mình bám đuổi. Anh dùng Quỷ hóa đánh bay quỷ và cửa nhà, lần đầu tiên phô diễn sức mạnh hiên ngang.",
+      "key_events": ["Hạ Thiên Kì dùng quỷ tí đánh bay nữ quỷ", "Sự kinh ngạc của Lãnh Nguyệt và Từ Thiên Hoa"],
+      "active_characters": ["C001", "C010", "C023"],
+      "mood": "action / empowering"
+    },
+    {
+      "chapter": 178,
+      "summary": "Thêm 2 người chết, quân số giảm còn 9. Cả đội tạm nghỉ và chia ca thủ đêm đầy căng thẳng.",
+      "key_events": ["Phân chia ca thủ đêm", "Giới hạn pháp lực (Mana) của thuật pháp"],
+      "active_characters": ["C001", "C010", "C023", "C031", "C032", "C033"],
+      "mood": "fatigue / survival"
+    },
+    {
+      "chapter": 179,
+      "summary": "Phương Hân Hân bị chém đầu bí ẩn ngay trước mắt Hạ Thiên Kì mà không hề có điềm báo. Quỷ vật được xác định dùng vũ khí sắc bén.",
+      "key_events": ["Cái chết kinh hoàng của Phương Hân Hân", "Sự vô hình và đáng sợ của quỷ vật nguồn cơn"],
+      "active_characters": ["C001", "C010", "C023", "C030"],
+      "mood": "shock / horror"
+    },
+    {
+      "chapter": 180,
+      "summary": "Hạ Thiên Kì thề sẽ mạnh lên. Bàn giao ca trực cho nhóm Triệu Thu Nhã. Mâu thuẫn nội bộ bùng nổ. Bóng đen xuất hiện ngoài cửa sổ.",
+      "key_events": ["Quyết tâm của Hạ Thiên Kì", "Bóng đen ngoài cửa sổ", "Quá khứ của bộ ba Vương - Triệu - Tông"],
+      "active_characters": ["C001", "C010", "C031", "C032", "C033"],
+      "mood": "suspense / character_depth"
+    },
+    {
+      "chapter": 181,
+      "summary": "Hú vía sau tiếng kêu của Tông Khánh Cương. Từ Thiên Hoa kiểm tra cửa sổ không thấy gì. Mâu thuẫn giữa Tông Khánh Cương và cặp đôi Vương - Triệu bùng nổ, tình bạn kết thúc.",
+      "active_characters": ["C001", "C010", "C032", "C033", "C034"],
+      "mood": "tension / conflict"
+    },
+    {
+      "chapter": 182,
+      "summary": "Quỷ vật tấn công vào phòng trong bóng tối. Từ Thiên Hoa diệt một nữ quỷ. Hứa Mộc phát hiện nhân số không đúng: thừa ra một người.",
+      "active_characters": ["C001", "C010", "C032", "C033", "C034", "C035", "C036"],
+      "mood": "horror / mystery"
+    },
+    {
+      "chapter": 183,
+      "summary": "Nghi vấn về kẻ trà trộn. Hứa Mộc tiết lộ nhìn thấy hai khuôn mặt giống hệt nhau. Hạ Thiên Kì đứng ra ổn định tâm lý đoàn đội và chất vấn năng lực của Từ Thiên Hoa.",
+      "active_characters": ["C001", "C010", "C032", "C033", "C034", "C035", "C036", "C037"],
+      "mood": "psychological / leadership"
+    },
+    {
+      "chapter": 184,
+      "summary": "Đoàn đội chính thức tách nhóm. Hạ Thiên Kì dẫn đầu nhóm 5 người rời đi. Hứa Mộc tiết lộ bí mật: đã nhìn thấy hai Từ Thiên Hoa.",
+      "active_characters": ["C001", "C010", "C034", "C035", "C036"],
+      "mood": "division / intrigue"
+    },
+    {
+      "chapter": 185,
+      "summary": "Nhóm Hạ Thiên Kì thảo luận về khả năng quỷ vật tạo huyễn cảnh 'nhân bản'. Một tiếng thét thảm của phụ nữ vang lên từ hướng nhóm Từ Thiên Hoa.",
+      "active_characters": ["C001", "C010", "C034", "C035", "C036"],
+      "mood": "analysis / cliffhanger"
+    },
+    {
+      "chapter": 186,
+      "summary": "Căn nhà nghỉ ngơi bị tấn công. Một xác nữ từ trần nhà rơi xuống. Lãnh Nguyệt đơn độc đuổi theo quỷ vật vào bóng tối. Hạ Thiên Kì lo lắng cho bạn đồng hành.",
+      "active_characters": ["C001", "C010", "C034", "C035", "C036"],
+      "mood": "action / suspense"
+    },
+    {
+      "chapter": 187,
+      "summary": "Hạ Thiên Kì phân tích về thực lực của Từ Thiên Hoa và khả năng có nhiều quỷ vật. Phía Từ Thiên Hoa, thứ tự thủ đêm thay đổi sau khi nhóm tách ra.",
+      "active_characters": ["C001", "C034", "C035", "C036"],
+      "mood": "strategic / transition"
+    },
+    {
+      "chapter": 188,
+      "summary": "Bầu không khí độc hại tại nhóm Từ Thiên Hoa. Triệu Thu Nhã sỉ nhục cô gái đeo kính. Vương Khải và cô gái đeo kính bắt đầu nghe thấy tiếng gọi hồn gọi tên mình.",
+      "active_characters": ["C010", "C032", "C033", "C037"],
+      "mood": "toxic / eerie"
+    },
+    {
+      "chapter": 189,
+      "summary": "Thảm kịch nội bộ: Vương Khải bạo nộ ngộ sát cô gái đeo kính bằng quỷ tí. Triệu Thu Nhã thao túng tâm lý Vương Khải. Từ Thiên Hoa thờ ơ trước cái chết của cấp dưới.",
+      "active_characters": ["C010", "C032", "C033", "C037"],
+      "mood": "tragedy / manipulation"
+    },
+    {
+      "chapter": 190,
+      "summary": "Vương Khải thiêu xác để phi tang. Trời sáng nhưng vẫn tối tăm. Thôn Tử Dục đột nhiên trở nên náo nhiệt với những 'dân làng' xách đèn lồng. Từ Thiên Hoa biến mất bí ẩn.",
+      "active_characters": ["C010", "C032", "C033"],
+      "mood": "surreal / cosmic_horror"
+    },
+    {
+      "chapter": 191,
+      "summary": "Màn đêm vĩnh cửu bao trùm. Nhóm Hạ Thiên Kì chờ đợi Lãnh Nguyệt trong lo âu. Lãnh Nguyệt trở về với vết thương trên tay, Hạ Thiên Kì dùng mẹo kiểm tra thân phận bạn đồng hành.",
+      "active_characters": ["C001", "C010", "C034", "C035", "C036"],
+      "mood": "suspense / relief"
+    },
+    {
+      "chapter": 192,
+      "summary": "Cú twist về sự quỷ quyệt của quỷ vật. Lãnh Nguyệt thật bị vây khốn ở phía Nam thôn, kẻ đang đi cùng Hạ Thiên Kì là đồ giả dạng. Vương Khải và Triệu Thu Nhã kẹt trong huyễn cảnh chợ ma vô tận.",
+      "active_characters": ["C001", "C010", "C032", "C033", "C034", "C035", "C036"],
+      "mood": "mystery / twist"
+    },
+    {
+      "chapter": 193,
+      "summary": "Sự sụp đổ của cặp đôi Vương - Triệu. Triệu Thu Nhã mắng chửi Vương Khải vô dụng và lộ ra bản chất ích kỷ. Cả hai ăn bát 'Mì tóc đen' quái dị tại sạp hàng của quỷ.",
+      "active_characters": ["C032", "C033"],
+      "mood": "toxic / grotesque"
+    },
+    {
+      "chapter": 194,
+      "summary": "Thảm kịch kinh hoàng nhất: Vương Khải trong huyễn thị đã tự tay giết chết Triệu Thu Nhã thật. Phía miếu hoang, Từ Thiên Hoa bị các bản sao đánh lén trọng thương.",
+      "active_characters": ["C010", "C032", "C033"],
+      "mood": "tragedy / horror"
+    },
+    {
+      "chapter": 195,
+      "summary": "Cái chết của Từ Thiên Hoa (phiên bản giả) và sự tuyệt vọng của đoàn đội. Hạ Thiên Kì bóc trần bộ mặt của kẻ giả dạng Lãnh Nguyệt ngay trước cửa miếu hoang.",
+      "active_characters": ["C001", "C010", "C034", "C035", "C036"],
+      "mood": "confrontation / intrigue"
+    },
+    {
+      "chapter": 196,
+      "summary": "Hạ Thiên Kì dùng bẫy tin nhắn giả vạch trần con quỷ giả dạng. Nhóm quyết định xông vào miếu hoang để kết thúc sự kiện dù không còn Chủ quản dẫn dắt.",
+      "active_characters": ["C001", "C034", "C035", "C036"],
+      "mood": "bravery / determination"
+    },
+    {
+      "chapter": 197,
+      "summary": "Bước vào miếu hoang, Tông Khánh Cương bị bắt đi. Một khuôn mặt máu (Lệ Quỷ) hiện ra từ trên tường, dồn cả nhóm vào tử lộ.",
+      "active_characters": ["C001", "C034", "C035", "C036"],
+      "mood": "terror / action"
+    },
+    {
+      "chapter": 198,
+      "summary": "Từ Thiên Hoa 'sống lại' trấn áp quỷ vật, lộ ra kế hoạch lấy nhân viên làm mồi nhử. Nhóm Hạ Thiên Kì rút lui khỏi miếu nhưng lại đụng độ con Lệ quỷ thứ hai.",
+      "active_characters": ["C001", "C010", "C034", "C035"],
+      "mood": "power_reveal / transition"
+    },
+    {
+      "chapter": 199,
+      "summary": "Sự kiện đột ngột hoàn thành. Hạ Thiên Kì tìm thấy Lãnh Nguyệt bị thương ở phía Nam thôn. Các nhân viên khác đều đã tử vong thảm khốc.",
+      "active_characters": ["C001", "C010"],
+      "mood": "aftermath / relief"
+    },
+    {
+      "chapter": 200,
+      "summary": "Sự trả thù hả dạ của Hạ Thiên Kì đối với Từ Thiên Hoa đang hôn mê. Nhóm được trực thăng cứu hộ đưa ra khỏi thôn Tử Dục. Giới thiệu thân phận thật của Triệu Tĩnh Thù.",
+      "active_characters": ["C001", "C010", "C034"],
+      "mood": "humor / conclusion"
+    },
+    {
+      "chapter": 201,
+      "title": "Chưa chết?",
+      "summary": "Hạ Thiên Kì tỉnh dậy trong một biệt thự sang trọng, ngỡ ngàng vì tưởng mình đã chết ở thôn Tử Dục. Hắn gặp lại Lãnh Nguyệt và biết mình đã được cứu thoát an toàn.",
+      "key_events": ["Hạ Thiên Kì tỉnh dậy", "Gặp lại Lãnh Nguyệt"],
+      "active_characters": ["C001", "C010"],
+      "mood": "relief"
+    },
+    {
+      "chapter": 202,
+      "title": "Gia đình",
+      "summary": "Buổi tiệc tối thịnh soạn tại biệt thự với đầy đủ thành viên: Mẫn Mẫn, Nam Cung Vân, Lãnh Nguyệt và Hạ Thiên Kì. Không khí vui vẻ giúp HTK trân trọng cuộc sống bình yên hiện tại.",
+      "key_events": ["Tiệc tối tại biệt thự", "Thắt chặt tình cảm đồng đội"],
+      "active_characters": ["C001", "C010", "C022", "C023"],
+      "mood": "warm"
+    },
+    {
+      "chapter": 203,
+      "title": "Lời mời họp lớp",
+      "summary": "HTK chăm sóc Nam Cung Vân say rượu nhưng giữ chừng mực. Hắn đau đáu về tung tích ông ngoại. Tình cờ liên lạc lại với cô bạn cũ Đổng Tuyết và nhận lời mời về quê họp lớp.",
+      "key_events": ["Chăm sóc Nam Cung Vân", "Nhận lời mời họp lớp từ Đổng Tuyết"],
+      "active_characters": ["C001", "C023", "Đổng Tuyết"],
+      "mood": "calm / contemplative"
+    },
+    {
+      "chapter": 204,
+      "title": "Khiêu khích",
+      "summary": "HTK về quê Bắc An dự họp lớp. Gặp lại Đổng Tuyết và gã bạn học cũ hống hách Đại Huy (nay là phó đồn cảnh sát). Bị Đại Huy sỉ nhục, HTK thẳng tay nện cho gã một đấm.",
+      "key_events": ["Về quê Bắc An", "Đấm Đại Huy tại buổi họp lớp"],
+      "active_characters": ["C001", "Đổng Tuyết", "Đại Huy"],
+      "mood": "conflict"
+    },
+    {
+      "chapter": 205,
+      "title": "Trả thù",
+      "summary": "Đám bạn học ngỡ ngàng trước cú đấm của HTK. Đổng Tuyết đứng ra bảo vệ HTK trước sự đe dọa từ phe cánh của Đại Huy. HTK khéo léo từ chối sự bảo vệ của cô.",
+      "key_events": ["Đổng Tuyết bảo vệ HTK", "Nhóm Đại Huy đe dọa trả thù"],
+      "active_characters": ["C001", "Đổng Tuyết", "Nhậm Học Bằng"],
+      "mood": "tense"
+    },
+    {
+      "chapter": 206,
+      "title": "Thâm độc",
+      "summary": "HTK bị nhóm đàn em Đại Huy phục kích trên đường về. Hắn dễ dàng hạ gục 10 tên. Cảnh sát ập tới theo kế hoạch của gã mặt khỉ, HTK bị áp giải về đồn.",
+      "key_events": ["HTK một mình hạ 10 tên", "Bị cảnh sát áp giải về đồn"],
+      "active_characters": ["C001", "Nhậm Học Bằng", "Gã mặt khỉ"],
+      "mood": "action / suspense"
+    },
+    {
+      "chapter": 207,
+      "title": "Thoát thân",
+      "summary": "Tại đồn, Đại Huy định dùng dùi cui điện hành hung HTK. HTK lôi thẻ công tác cấp cao ra khiến đồn trưởng kinh hãi. Đại Huy bị đuổi cổ, HTK ung dung rời đi.",
+      "key_events": ["Sử dụng thẻ công tác dọa đồn trưởng", "Đại Huy bị mất mặt"],
+      "active_characters": ["C001", "Đại Huy", "Đồn trưởng"],
+      "mood": "triumphant"
+    },
+    {
+      "chapter": 208,
+      "title": "Việc làm thêm mới",
+      "summary": "HTK bị trừ 1 điểm vinh dự do dùng thẻ sai mục đích. Hắn dùng điểm còn lại cường hóa thính giác/thị giác. Nhận được mối làm thêm từ Lão Lý về vụ án lột da ở Tuyên Thành.",
+      "key_events": ["Cường hóa thính/thị giác", "Nhận vụ án lột da ở Tuyên Thành"],
+      "active_characters": ["C001", "Lão Lý"],
+      "mood": "transition"
+    },
+    {
+      "chapter": 209,
+      "title": "Vụ án lột da",
+      "summary": "HTK gặp Lưu Chí Đào ở Tuyên Thành để trao đổi về vụ án lột da người gửi bưu kiện. Hắn tới đồn công an tìm Triệu Tĩnh Thù để thu thập thêm thông tin nghiệp vụ.",
+      "key_events": ["Trao đổi thông tin vụ án lột da", "Gặp lại Triệu Tĩnh Thù tại đồn"],
+      "active_characters": ["C001", "Lưu Chí Đào", "C034"],
+      "mood": "investigative"
+    },
+    {
+      "chapter": 210,
+      "title": "Lại gặp Triệu Tĩnh Thù",
+      "summary": "Triệu Tĩnh Thù cung cấp hồ sơ: hai nạn nhân Tả Chính Cường và Ngụy Thục Anh bị lột da hoàn mỹ. HTK tiết lộ vị trí hai tấm da người tại nhà Bàng Hải Húc.",
+      "key_events": ["Công báo hồ sơ nạn nhân", "Tiết lộ vị trí da người mất tích"],
+      "active_characters": ["C001", "C034"],
+      "mood": "tense"
+    },
+    {
+      "chapter": 211,
+      "title": "Nhập bọn",
+      "summary": "Triệu Tĩnh Thù đồng ý gia nhập đội làm thêm của Hạ Thiên Kì. Cả hai tới nhà Bàng Hải Húc, người đang sống trong sợ hãi cực độ vì bị kẻ lạ mặt quấy rối.",
+      "key_events": ["Triệu Tĩnh Thù nhập hội", "Tiếp cận Bàng Hải Húc"],
+      "active_characters": ["C001", "C034", "Bàng Hải Húc"],
+      "mood": "mysterious"
+    },
+    {
+      "chapter": 212,
+      "title": "Dòm ngó",
+      "summary": "Bàng Hải Húc kể về việc liên tục thấy bóng người trong nhà và cảm giác bị dòm ngó mãnh liệt. Hắn nghi ngờ có kẻ trốn trong tủ quần áo.",
+      "key_events": ["Bàng Hải Húc kể về kẻ đột nhập", "Cảm giác bị dòm ngó"],
+      "active_characters": ["C001", "C034", "Bàng Hải Húc"],
+      "mood": "eerie"
+    },
+    {
+      "chapter": 213,
+      "title": "Kẻ lẻn vào",
+      "summary": "Cảnh sát phớt lờ lời khai của Bàng Hải Húc. Hắn tự lắp camera thông minh và phát hiện cửa phòng tự mở khi mình đang ở ngoài.",
+      "key_events": ["Lắp camera quay lén", "Phát hiện cửa tự mở"],
+      "active_characters": ["C001", "Bàng Hải Húc"],
+      "mood": "tense"
+    },
+    {
+      "chapter": 214,
+      "title": "Đoạn ghi hình",
+      "summary": "Video ghi lại cảnh một bóng người đứng trước giường Bàng Hải Húc. Đáng sợ hơn, video cho thấy hắn đột ngột ngồi dậy nhưng thực tế hắn không hề nhớ gì.",
+      "key_events": ["Xem đoạn video kinh dị", "Bàng Hải Húc không nhớ hành động của mình"],
+      "active_characters": ["C001", "C034", "Bàng Hải Húc"],
+      "mood": "horror"
+    },
+    {
+      "chapter": 215,
+      "title": "Đôi chân dư thừa",
+      "summary": "Bàng Hải Húc phát hiện trong video mình đang mộng du và nói chuyện với 'một đôi chân lạ' ngoài cửa. Hắn thay khóa liên tục nhưng kẻ đó vẫn vào được.",
+      "key_events": ["Phát hiện đôi chân lạ", "Mộng du nói chuyện với quỷ"],
+      "active_characters": ["C001", "Bàng Hải Húc"],
+      "mood": "creepy"
+    },
+    {
+      "chapter": 216,
+      "title": "Kẻ đột nhập",
+      "summary": "Kẻ đột nhập lộ mặt: chính là người thợ thay khóa kiêm cảnh sát giả. Hắn báo cho Bàng Hải Húc biết có da người dưới đệm giường.",
+      "key_events": ["Lật tẩy gương mặt kẻ đột nhập", "Tìm thấy da người dưới đệm"],
+      "active_characters": ["C001", "Bàng Hải Húc"],
+      "mood": "shock"
+    },
+    {
+      "chapter": 217,
+      "title": "Kẻ ma quỷ trong đoạn video",
+      "summary": "Mâu thuẫn giữa hai camera (phòng khách vs phòng ngủ) cho thấy thực thực ảo ảo. HTK phát hiện hai tấm da người có xăm chữ: 'Gửi tặng Bàng Hải Húc'.",
+      "key_events": ["Phát hiện mâu thuẫn video", "Hình xăm trên da người"],
+      "active_characters": ["C001", "C034", "Bàng Hải Húc"],
+      "mood": "mystery"
+    },
+    {
+      "chapter": 218,
+      "title": "Da người là của hắn?",
+      "summary": "Nạn nhân là bạn cũ của Bàng Hải Húc. HTK phát hiện vết sẹo rạch dài và hình xăm 'Món quà thứ nhất' trên lưng Bàng Hải Húc.",
+      "key_events": ["Tìm ra danh tính nạn nhân", "Vết sẹo quái lạ trên lưng Bàng Hải Húc"],
+      "active_characters": ["C001", "C034", "Bàng Hải Húc"],
+      "mood": "grotesque"
+    },
+    {
+      "chapter": 219,
+      "title": "Trở về",
+      "summary": "Hạ Thiên Kì và Triệu Tĩnh Thù bàn về gia thế của cô. Chuyên gia y tế xác nhận Bàng Hải Húc bình thường, nhưng khi về nhà hắn lại cảm thấy bị dòm ngó ngay.",
+      "key_events": ["Tiết lộ gia thế Triệu Tĩnh Thù", "Cảm giác dòm ngó quay lại"],
+      "active_characters": ["C001", "C034", "Bàng Hải Húc"],
+      "mood": "calm / tense"
+    },
+    {
+      "chapter": 220,
+      "title": "Cảm giác dòm ngó kia là từ...",
+      "summary": "Hạ Thiên Kì tìm thấy tấm da người thứ ba. Nửa đêm, Bàng Hải Húc mộng du gào thét. HTK vạch trần: có một con mắt đang mọc trên lưng Bàng Hải Húc.",
+      "key_events": ["Tìm thấy tấm da thứ ba", "Con mắt trên lưng lộ diện"],
+      "active_characters": ["C001", "C034", "Bàng Hải Húc"],
+      "mood": "horror"
+    },
+    {
+      "chapter": 221,
+      "title": "Con mắt",
+      "summary": "Triệu Tĩnh Thù dùng bùa chú tiêu diệt con mắt trên lưng Bàng Hải Húc. Nó hóa thành mủ xanh thối rữa. Bàng Hải Húc bất tỉnh và không nhớ gì.",
+      "key_events": ["Tiêu diệt con mắt tà linh", "Bàng Hải Húc ngủ say"],
+      "active_characters": ["C001", "C050", "C051"],
+      "mood": "tense / relief"
+    },
+    {
+      "chapter": 222,
+      "title": "Tập hợp",
+      "summary": "Tiểu đội Giải Phóng tập hợp đầy đủ tại nhà Bàng Hải Húc. Lãnh Nguyệt xác định con mắt là Tà Linh Chi Nhãn, một loại quỷ vật ký sinh.",
+      "key_events": ["Nhóm Lãnh Nguyệt tới nơi", "Xác định danh tính quỷ vật"],
+      "active_characters": ["C001", "C010", "C022", "C023", "C050", "C051"],
+      "mood": "humorous / analytical"
+    },
+    {
+      "chapter": 223,
+      "title": "Phương hướng điều tra",
+      "summary": "Nhóm chia làm hai lộ: HTK và Triệu Tĩnh Thù tới đồn cảnh sát điều tra nạn nhân; Lãnh Nguyệt và những người còn lại canh giữ Bàng Hải Húc.",
+      "key_events": ["Chia nhóm điều tra", "Lên kế hoạch phối hợp với cảnh sát"],
+      "active_characters": ["C001", "C010", "C022", "C023", "C050"],
+      "mood": "strategic"
+    },
+    {
+      "chapter": 224,
+      "title": "Hành động quái dị",
+      "summary": "Nửa đêm, Bàng Hải Húc mộng du với hành vi kỳ lạ, trêu chọc nhóm HTK rồi chạy thoát ra ngoài, ngã cầu thang bất tỉnh. Không thấy Tà Linh Chi Nhãn mới.",
+      "key_events": ["Bàng Hải Húc mộng du kỳ quái", "Hiện trường cổng chung cư"],
+      "active_characters": ["C001", "C010", "C022", "C023", "C050", "C051"],
+      "mood": "horror / confusing"
+    },
+    {
+      "chapter": 225,
+      "title": "Mây mù trùng trùng",
+      "summary": "Lãnh Nguyệt thử nghiệm bùa chú giải ngải nhưng không có kết quả rõ rệt. HTK phát hiện có kẻ ẩn nấp trong cầu thang nhưng đã kịp tẩu thoát.",
+      "key_events": ["Lãnh Nguyệt kiểm tra bùa ngải", "Kẻ ẩn danh tẩu thoát"],
+      "active_characters": ["C001", "C010", "C022", "C023", "C050", "C051"],
+      "mood": "mystery / tense"
+    },
+    {
+      "chapter": 226,
+      "title": "Oan gia ngõ hẹp",
+      "summary": "HTK và Triệu Tĩnh Thù tới đồn cảnh sát Lịch Hạ, gặp lại Đại Huy (người bị HTK đánh). Đại Huy sợ hãi nên hết lòng phối hợp trích xuất camera.",
+      "key_events": ["Gặp lại Đại Huy", "Hợp tác với đồn cảnh sát Lịch Hạ"],
+      "active_characters": ["C001", "C050", "Đại Huy"],
+      "mood": "humorous / awkward"
+    },
+    {
+      "chapter": 227,
+      "title": "Đoạn phim giám sát",
+      "summary": "Dữ liệu cảnh sát cho thấy Bàng Hải Húc chưa từng gọi nhiều cuộc báo án như đã kể (cảnh sát giả). Camera ghi lại hình ảnh một gã gầy gò khả nghi.",
+      "key_events": ["Phát hiện lời dối trá của Bàng Hải Húc", "Tìm thấy kẻ khả nghi trên camera"],
+      "active_characters": ["C001", "C050", "Đại Huy"],
+      "mood": "suspense"
+    },
+    {
+      "chapter": 228,
+      "title": "Kẻ khả nghi",
+      "summary": "Kẻ khả nghi trong camera cũng từng xuất hiện tại hiện trường 2 vụ án trước. Các nạn nhân đều xin nghỉ phép ngay trước khi bị sát hại.",
+      "key_events": ["Liên kết kẻ khả nghi với các vụ án", "Manh mối về tâm lý nạn nhân"],
+      "active_characters": ["C001", "C050", "Đại Huy"],
+      "mood": "investigative"
+    },
+    {
+      "chapter": 229,
+      "title": "Mổ xẻ",
+      "summary": "HTK mổ xẻ vụ án thành 3 mảng: vụ giết người, Bàng Hải Húc, và kẻ khả nghi. Anh và Triệu Tĩnh Thù bàn luận về tính phi thực tế của kẻ khả nghi trên camera.",
+      "key_events": ["Hạ Thiên Kì phân tích vụ án", "Ăn tối cùng Triệu Tĩnh Thù"],
+      "active_characters": ["C001", "C050"],
+      "mood": "philosophical / calm"
+    },
+    {
+      "chapter": 230,
+      "title": "Thi thể thứ ba",
+      "summary": "Thi thể không da thứ 3 được phát hiện tại khu Công nghệ cao trong tình trạng 'tự sát'. Danh tính kẻ khả nghi cuối cùng cũng được xác định.",
+      "key_events": ["Phát hiện thi thể thứ ba", "Xác định danh tính kẻ khả nghi"],
+      "active_characters": ["C001", "C050"],
+      "mood": "grim / resolution"
+    },
+    {
+      "chapter": 231,
+      "title": "Đầu mâu",
+      "summary": "HTK và Triệu Tĩnh Thù tìm thấy thi thể Từ Hiến Chấn (kẻ hiềm nghi) đã chết 10 ngày. Xác nhận con quỷ đang giả dạng hắn.",
+      "key_events": ["Tìm thấy xác Từ Hiến Chấn"],
+      "active_characters": ["C001", "C050"],
+      "mood": "tense / investigative"
+    },
+    {
+      "chapter": 232,
+      "title": "Gói trong lớp da người chính là...",
+      "summary": "HTK phơi bày Trịnh Khiết giả. Dưới lớp da người là cơ thể chi chít những con mắt đáng sợ.",
+      "key_events": ["Vạch mặt Trịnh Khiết giả", "Phát hiện cơ thể quái dị"],
+      "active_characters": ["C001", "C050", "C054"],
+      "mood": "horror / discovery"
+    },
+    {
+      "chapter": 233,
+      "title": "Chân tướng",
+      "summary": "Triệu Tĩnh Thù tiêu diệt đám Tà Linh Chi Nhãn. HTK nhận ra Bàng Hải Húc cũng là quỷ giả dạng và thông báo cho Lãnh Nguyệt.",
+      "key_events": ["Tiêu diệt Tà Linh Chi Nhãn", "Thông báo cho Lãnh Nguyệt"],
+      "active_characters": ["C001", "C050", "C010", "C022", "C023", "C051"],
+      "mood": "revelation / tension"
+    },
+    {
+      "chapter": 234,
+      "title": "Là hắn...",
+      "summary": "Lãnh Nguyệt tiêu diệt Bàng Hải Húc giả. HTK nhận ra Lưu Chí Đào là kẻ luyện thi đứng sau vụ này.",
+      "key_events": ["Tiêu diệt Bàng Hải Húc giả", "Xác định kẻ chủ mưu Lưu Chí Đào"],
+      "active_characters": ["C001", "C010", "C022", "C023", "C050", "C055"],
+      "mood": "action / resolution"
+    },
+    {
+      "chapter": 235,
+      "title": "Thủ đoạn ngầm",
+      "summary": "HTK và Triệu Tĩnh Thù đối đầu với Lưu Chí Đào và Nhện đầu người khổng lồ.",
+      "key_events": ["Chiến đấu với Nhện đầu người"],
+      "active_characters": ["C001", "C050", "C055"],
+      "mood": "combat / horror"
+    },
+    {
+      "chapter": 236,
+      "title": "Nguy cơ và cuồng loạn",
+      "summary": "Lãnh Nguyệt và Mẫn Mẫn kịp thời cứu viện. Tiêu diệt thành công Nhện đầu người. Lưu Chí Đào cùng đường và tự tử để làm huyết chú.",
+      "key_events": ["Giải cứu HTK và Triệu Tĩnh Thù", "Tiêu diệt Nhện đầu người"],
+      "active_characters": ["C001", "C010", "C022", "C023", "C050", "C055"],
+      "mood": "action / climax"
+    },
+    {
+      "chapter": 237,
+      "title": "Huyết chú",
+      "summary": "Lưu Chí Đào triệu hồi Lệ quỷ phụ nữ nửa thân. Gã bị lệ quỷ giết chết. Cả nhóm tháo chạy.",
+      "key_events": ["Triệu hồi Lệ quỷ", "Cái chết của Lưu Chí Đào", "Bỏ chạy"],
+      "active_characters": ["C001", "C010", "C022", "C023", "C050"],
+      "mood": "terror / escape"
+    },
+    {
+      "chapter": 238,
+      "title": "Cái chết",
+      "summary": "Cả nhóm kẹt trong huyễn cảnh thang máy. Nam Cung Vân bị lệ quỷ sát hại. Lãnh Nguyệt ở lại ngăn chặn lệ quỷ.",
+      "key_events": ["Nam Cung Vân hy sinh", "Lãnh Nguyệt ở lại cầm chân quỷ"],
+      "active_characters": ["C001", "C010", "C022", "C023", "C050"],
+      "mood": "tragedy / sacrifice"
+    },
+    {
+      "chapter": 239,
+      "title": "Bí mật của Lãnh Nguyệt",
+      "summary": "Tiết lộ về quá khứ và bí mật về luồng sức mạnh quỷ ám trong người Lãnh Nguyệt. Anh bộc phát sức mạnh để chiến đấu.",
+      "key_events": ["Hồi tưởng của Lãnh Nguyệt", "Kích hoạt phong ấn"],
+      "active_characters": ["C010"],
+      "mood": "epic / heavy"
+    },
+    {
+      "chapter": 240,
+      "title": "Người đến bất ngờ",
+      "summary": "HTK và Triệu Tĩnh Thù thoát ra và gặp Ngô Địch, Lương Nhược Vân. Cả hai lên lầu cứu Lãnh Nguyệt.",
+      "key_events": ["Gặp Ngô Địch và Lương Nhược Vân"],
+      "active_characters": ["C001", "C050", "C023", "C052", "C011"],
+      "mood": "somber / hope"
+    },
+    {
+      "chapter": 241,
+      "title": "Vượt ngoài tầm kiểm soát",
+      "summary": "Ngô Địch và Lương Nhược Vân đối đầu với Lãnh Nguyệt đang bị sức mạnh của mảnh tàn chi Quỷ Vương chi phối. Ngô Địch dễ dàng áp chế và khống chế Lãnh Nguyệt.",
+      "key_events": ["Ngô Địch áp chế Lãnh Nguyệt"],
+      "active_characters": ["C010", "C052", "C011"],
+      "mood": "intense"
+    },
+    {
+      "chapter": 242,
+      "title": "Hậu quả",
+      "summary": "Cả nhóm nằm viện điều trị. Nam Cung Vân đã hy sinh. Bí mật về sức mạnh của Lãnh Nguyệt đã bị cấp trên của Minh Phủ nắm rõ.",
+      "key_events": ["Cả nhóm nằm viện", "Nam Cung Vân hy sinh"],
+      "active_characters": ["C001", "C010", "C050", "C023"],
+      "mood": "tragic"
+    },
+    {
+      "chapter": 243,
+      "title": "Lời cảnh báo của Lương Nhược Vân",
+      "summary": "Lương Nhược Vân cảnh báo Lãnh Nguyệt về giới hạn sử dụng sức mạnh quỷ. HTK rủ Triệu Tĩnh Thù dọn về biệt thự ở cùng.",
+      "key_events": ["Lương Nhược Vân cảnh báo Lãnh Nguyệt", "Triệu Tĩnh Thù dọn về biệt thự"],
+      "active_characters": ["C001", "C010", "C050", "C011"],
+      "mood": "transitional"
+    },
+    {
+      "chapter": 244,
+      "title": "Mộc thiếu",
+      "summary": "HTK đi bar giải sầu và vô tình gặp gỡ Mộc Tử Hi (Mộc thiếu) - một chủ quản khác của công ty. Cả hai bắt đầu có sự giao lưu đầu tiên.",
+      "key_events": ["Gặp gỡ Mộc Tử Hi tại vũ trường"],
+      "active_characters": ["C001", "C060"],
+      "mood": "urban / intriging"
+    },
+    {
+      "chapter": 245,
+      "title": "17 Điểm danh dự",
+      "summary": "HTK thăm lại trường cũ và quán nét, cảm nhận sự thay đổi của bản thân. Anh tổng kết và chuẩn bị sử dụng 17 điểm danh dự thu hoạch được.",
+      "key_events": ["HTK thăm trường cũ", "Tổng kết 17 điểm danh dự"],
+      "active_characters": ["C001"],
+      "mood": "nostalgic / progression"
+    },
+    {
+      "chapter": 246,
+      "title": "Sự kiện mới",
+      "summary": "HTK thăng cấp thể chất, đã có thể quỷ hóa cả tứ chi. Anh nhận nhiệm vụ mới tại thành phố Lâm Viên. Lore về các hệ thuật pháp được hé lộ qua lời Lãnh Nguyệt.",
+      "key_events": ["HTK thăng cấp thực lực", "Nhận nhiệm vụ mới tại Lâm Viên"],
+      "active_characters": ["C001", "C010", "C050"],
+      "mood": "progression"
+    },
+    {
+      "chapter": 247,
+      "title": "Chung cư Thanh Niên",
+      "summary": "HTK đến địa điểm nhiệm vụ và gặp 4 đồng đội mới. Anh nhận ra tòa nhà đã bị quỷ vật phong tỏa, chỉ có thể vào mà không thể ra.",
+      "key_events": ["Gặp gỡ đồng đội mới", "Tòa nhà bị phong tỏa"],
+      "active_characters": ["C001", "C061", "C062", "C063", "C064"],
+      "mood": "eerie"
+    },
+    {
+      "chapter": 248,
+      "title": "Phẫn nộ",
+      "summary": "HTK phô diễn sức mạnh áp đảo để răn đe kẻ hống hách Ngô Đại Cương, chính thức nắm quyền chủ đạo nhóm.",
+      "key_events": ["HTK đánh bại Ngô Đại Cương"],
+      "active_characters": ["C001", "C061", "C062", "C063", "C064"],
+      "mood": "intense"
+    },
+    {
+      "chapter": 249,
+      "title": "Căn hộ bị phong tỏa",
+      "summary": "Cả nhóm lên tầng 9 và chứng kiến sự hoảng loạn của cư dân. Thang máy chỉ có thể đi lên, điện thoại mất sóng hoàn toàn.",
+      "key_events": ["Hỗn loạn tại tầng 9", "Thang máy chỉ có thể đi lên"],
+      "active_characters": ["C001", "C062", "C063", "C064"],
+      "mood": "panic"
+    },
+    {
+      "chapter": 250,
+      "title": "Ý tưởng",
+      "summary": "HTK bàn bạc chiến thuật với các đồng đội. Nhiếp Phong đề xuất tìm ra quy luật giết người của quỷ vật để tìm cách đối phó.",
+      "key_events": ["Thảo luận chiến thuật nhóm"],
+      "active_characters": ["C001", "C062", "C063", "C064"],
+      "mood": "strategic"
+    },
+    {
+      "chapter": 251,
+      "title": "Khảo nghiệm",
+      "summary": "HTK ép vị trí Ngô Đại Cương ở lại để thử nghiệm và kiểm chứng quy luật di chuyển của quỷ vật, cũng như tìm cách thoát khỏi tòa nhà.",
+      "key_events": ["Sử dụng Ngô Đại Cương làm mồi nhử"],
+      "active_characters": ["C001", "C062", "C063", "C064", "C061"],
+      "mood": "tense"
+    },
+    {
+      "chapter": 252,
+      "title": "Cử động",
+      "summary": "Ngô Đại Cương hoảng loạn ở lại tìm đường sống. Cả nhóm lên các tầng để điều tra tình hình, khám phá thêm những tầng bị phong tỏa.",
+      "key_events": ["Ngô Đại Cương làm loạn", "Nhóm tiếp tục dò xét các tầng"],
+      "active_characters": ["C001", "C062", "C063", "C064", "C061"],
+      "mood": "suspense"
+    },
+    {
+      "chapter": 253,
+      "title": "Thử mồi",
+      "summary": "HTK đánh bất tỉnh Ngô Đại Cương và đặt trước cửa thang máy như một mồi nhử quỷ vật nhằm xác minh hành tung của nó.",
+      "key_events": ["Ngô Đại Cương bị đánh ngất làm mồi"],
+      "active_characters": ["C001", "C062", "C063", "C064", "C061"],
+      "mood": "strategic"
+    },
+    {
+      "chapter": 254,
+      "title": "Vết máu",
+      "summary": "Nhóm đi tìm kiếm, phát hiện lượng lớn vết máu trong các căn hộ nhưng không tìm thấy xác. Ngô Đại Cương đột nhiên biến mất khỏi vị trí làm mồi.",
+      "key_events": ["Phát hiện hiện trường đẫm máu", "Ngô Đại Cương mất tích"],
+      "active_characters": ["C001", "C062", "C063", "C064"],
+      "mood": "eerie"
+    },
+    {
+      "chapter": 255,
+      "title": "Sưu (Tìm kiếm)",
+      "summary": "Nhiếp Phong liên lạc được với Ngô Đại Cương, gã đang trốn và lớn tiếng lăng mạ mọi người. HTK phân tích gã vẫn đang an toàn ở tầng 12.",
+      "key_events": ["Liên lạc Ngô Đại Cương qua bộ đàm"],
+      "active_characters": ["C001", "C062", "C063", "C064", "C061"],
+      "mood": "investigation"
+    },
+    {
+      "chapter": 256,
+      "title": "Mười phút",
+      "summary": "HTK tìm thấy Ngô Đại Cương dùng người dân làm con tin. HTK đánh ngất gã và thả ở tầng 14, cử nhóm cứ 10 phút mở thang máy theo dõi để kiểm tra quỷ.",
+      "key_events": ["Bắt lại Ngô Đại Cương", "Chiến dịch 10 phút/lần giám sát"],
+      "active_characters": ["C001", "C062", "C063", "C064", "C061"],
+      "mood": "tense"
+    },
+    {
+      "chapter": 257,
+      "title": "Đi lên",
+      "summary": "Phát hiện Ngô Đại Cương biến mất, để lại vũng máu tươi ở tầng 14. Nhóm tiến lên tầng 15 và kiểm tra các căn hộ hiện trường không xác chết.",
+      "key_events": ["Ngô Đại Cương bị giết", "Nhóm tiến lên tầng 15"],
+      "active_characters": ["C001", "C062", "C063", "C064"],
+      "mood": "creepy"
+    },
+    {
+      "chapter": 258,
+      "title": "Ánh huyết quang khóa chặt",
+      "summary": "Tiếp tục tìm kiếm tầng 15. Trong khi đó, ở phòng bên dưới một cặp đôi cãi vã bị con quỷ nuốt chửng dã man, nó hướng ánh mắt lên tầng 15.",
+      "key_events": ["Quỷ vật tàn sát cặp đôi", "Quỷ nhắm đến nhóm ở tầng 15"],
+      "active_characters": ["C001", "C062", "C063", "C064"],
+      "mood": "horror"
+    },
+    {
+      "chapter": 259,
+      "title": "Xuất hiện rồi!",
+      "summary": "Nhóm phát hiện dấu chân hình chân vịt khổng lồ. Vừa định rút thì quỷ vật khổng lồ cao 2m đẫm máu xuất hiện chặn đường thoát ở tầng 15.",
+      "key_events": ["Chạm trán quỷ vật chính diện"],
+      "active_characters": ["C001", "C062", "C063", "C064"],
+      "mood": "panic"
+    },
+    {
+      "chapter": 260,
+      "title": "Nguy cơ",
+      "summary": "Nhóm HTK tuyệt vọng chống trả quỷ vật nhưng vô ích. Thang máy đang xuống đột ngột dừng lại và mở ra chiếc miệng đói khát của ác quỷ.",
+      "key_events": ["Chiến đấu thất bại", "Thang máy thành bẫy chết"],
+      "active_characters": ["C001", "C062", "C063", "C064"],
+      "mood": "despair"
+    },
+    {
+      "chapter": 261,
+      "title": "Một thoáng sinh tử",
+      "summary": "HTK liều mạng chặn cửa thang máy. Nhiếp Phong đẩy Hà Vũ Ảnh ra làm mồi nhử để cứu HTK. Hà Vũ Ảnh bị quỷ nuốt chửng ngay trước mắt họ.",
+      "key_events": ["Hà Vũ Ảnh tử vong", "HTK thoát chết trong tơ kẽ tóc"],
+      "active_characters": ["C001", "C062", "C063", "C064"],
+      "mood": "horror / high_tension"
+    },
+    {
+      "chapter": 262,
+      "title": "Chúc mừng năm mới",
+      "summary": "Nhóm thoát xuống tầng 10. HTK dằn vặt về sự ích kỷ của đội viên nhưng mang ơn Hà Vũ Ảnh. Họ nhận ra quỷ vật có 3 năng lực: phong tỏa, thuấn di và nuốt chửng.",
+      "key_events": ["Xác định năng lực quỷ vật", "Sự xào xáo nội bộ"],
+      "active_characters": ["C001", "C061", "C062"],
+      "mood": "reflexive / mystery"
+    },
+    {
+      "chapter": 263,
+      "title": "Thôn tính",
+      "summary": "HTK giải thích cục diện chết: muốn thoát phải giết quỷ, nhưng quỷ quá mạnh. Nhiếp Phong suy sụp. Cả nhóm kẹt tại tầng 10.",
+      "key_events": ["Cục diện chết được xác lập", "Nhiếp Phong bùng nổ cảm xúc"],
+      "active_characters": ["C001", "C061", "C062"],
+      "mood": "despair"
+    },
+    {
+      "chapter": 264,
+      "title": "Phát hiện của Hạ Thiên Kỳ",
+      "summary": "Quỷ vật sát hại cặp đôi cư dân ở tầng 13. HTK chợt nhận ra quỷ vật chỉ có thể nuốt một người một lúc và đây chính là điểm yếu duy nhất.",
+      "key_events": ["Quỷ vật giết thêm người", "HTK tìm ra điểm yếu quỷ vật"],
+      "active_characters": ["C001", "C061", "C062"],
+      "mood": "horror / hope"
+    },
+    {
+      "chapter": 265,
+      "title": "Triệu tập",
+      "summary": "HTK đề ra kế hoạch dùng cư dân làm mồi nhử để dốc sức tấn công quỷ lúc nó đang ăn. Nhiếp Phong và Vương Tang Du nảy sinh mâu thuẫn đạo đức.",
+      "key_events": ["Kế hoạch mồi nhử", "Mâu thuẫn đạo đức"],
+      "active_characters": ["C001", "C061", "C062"],
+      "mood": "tense / moral_conflict"
+    },
+    {
+      "chapter": 266,
+      "title": "Quỷ vật hiện thân",
+      "summary": "Cả nhóm tập trung hơn 40 cư dân lên tầng 12. Tin đồn cứu hộ giả tạo. Quỷ vật âm thầm áp sát đám đông.",
+      "key_events": ["Cư dân tập trung tại tầng 12", "Quỷ xuất hiện"],
+      "active_characters": ["C001", "C061", "C062"],
+      "mood": "suspense / high_tension"
+    },
+    {
+      "chapter": 267,
+      "title": "Tấn công",
+      "summary": "Quỷ vật tấn công đám đông. Cư dân chen lấn khiến thang máy kẹt. Hạ Thiên Kỳ bắt đầu phản công khi quỷ đang ăn thịt cư dân.",
+      "key_events": ["Quỷ tàn sát cư dân", "Phản công bắt đầu"],
+      "active_characters": ["C001", "C061", "C062"],
+      "mood": "action / horror"
+    },
+    {
+      "chapter": 268,
+      "title": "Kinh biến",
+      "summary": "Nhiếp Phong và Vương Tang Du dốc sức hỗ trợ. HTK đánh nát 2 trong 3 đầu của quỷ, vô tình khiến con cuối cùng tiến hóa thành Lệ Quỷ.",
+      "key_events": ["Quỷ vật lộ diện 3 đầu", "Quỷ vật tiến hóa thành Lệ Quỷ"],
+      "active_characters": ["C001", "C061", "C062"],
+      "mood": "climax / horror"
+    },
+    {
+      "chapter": 269,
+      "title": "Thoái lui không đường",
+      "summary": "BUILDING phong tỏa biến mất khi quỷ tiến hóa. HTK xô ngã cư dân để dọn đường vào thang máy. Lệ Quỷ nuốt sạch toàn bộ người ở tầng 12.",
+      "key_events": ["Phong tỏa biến mất", "Bỏ mặc cư dân thoát thân"],
+      "active_characters": ["C001", "C061", "C062"],
+      "mood": "desperate / grim"
+    },
+    {
+      "chapter": 270,
+      "title": "Thoát khỏi hiểm cảnh",
+      "summary": "Thang máy rơi xuống tầng 1. Lệ Quỷ truy sát. HTK cứu được Vương Tang Du nhưng Nhiếp Phong bị nuốt chửng. Sự kiện kết thúc với đánh giá Hoàn Mỹ.",
+      "key_events": ["Nhiếp Phong tử vong", "HTK và Vương Tang Du thoát hiểm", "Sự kiện hoàn thành"],
+      "active_characters": ["C001", "C061", "C062"],
+      "mood": "tragedy / relief"
+    },
+    {
+      "chapter": 271,
+      "title": "Hoàn Mỹ",
+      "summary": "HTK đưa Vương Tang Du đi cấp cứu. Anh nhận được đánh giá Hoàn Mỹ cho sự kiện Chung cư Thanh Niên, nhận 10 Honor Points và 1 điểm thuộc tính.",
+      "key_events": ["Đưa Vương Tang Du đi viện", "Nhận đánh giá Hoàn Mỹ"],
+      "active_characters": ["C001", "C063"],
+      "mood": "relief / progression"
+    },
+    {
+      "chapter": 272,
+      "title": "Gặp lại Ngô Địch",
+      "summary": "HTK về nhà, gặp lại Ngô Địch. Ngô Địch thông báo về Hội nghị thường niên Minh Phủ sắp tới tại thành phố Ngô Nguyệt.",
+      "key_events": ["Gặp lại Ngô Địch", "Thông tin về Hội nghị thường niên"],
+      "active_characters": ["C001", "C052"],
+      "mood": "informative"
+    },
+    {
+      "chapter": 273,
+      "title": "Hội nghị thường niên",
+      "summary": "Nhóm HTK, Lãnh Nguyệt, Triệu Tĩnh Thù và Mẫn Mẫn tụ họp ăn uống. Thảo luận về tầm quan trọng và sự khắc nghiệt của Hội nghị thường niên. HTK lo lắng về sự mất tích của ông ngoại.",
+      "key_events": ["Nhóm bạn tụ họp", "Thảo luận về Hội nghị"],
+      "active_characters": ["C001", "C010", "C050", "C023"],
+      "mood": "social / apprehensive"
+    },
+    {
+      "chapter": 274,
+      "title": "Cường hóa",
+      "summary": "HTK sử dụng điểm danh dự thăng cấp 10 cho các kỹ năng cơ bản và mở khóa Cường hóa khống chế thể chất. Sức mạnh tiệm cận Lệ Quỷ nhưng tính cách bắt đầu bị ảnh hưởng bởi sát khí.",
+      "key_events": ["Thăng cấp thực lực", "Tính cách đổi"],
+      "active_characters": ["C001"],
+      "mood": "progression / dark"
+    },
+    {
+      "chapter": 275,
+      "title": "Bạch phú mỹ",
+      "summary": "HTK về Bắc An thăm cha mẹ. Anh gặp lại bạn học cũ Đổng Tuyết - một cô nàng xinh đẹp và giàu có. Cả hai đi ăn tối cùng nhau.",
+      "key_events": ["Về thăm nhà", "Hẹn hò Đổng Tuyết"],
+      "active_characters": ["C001", "C066"],
+      "mood": "slice_of_life"
+    },
+    {
+      "chapter": 276,
+      "title": "Từ chối",
+      "summary": "Đổng Tuyết tỏ tình nhưng HTK lạnh lùng từ chối. Anh nhận ra khoảng cách giữa thế giới của mình và người bình thường quá lớn. HTK rời đi trong sự dứt khoát.",
+      "key_events": ["Đổng Tuyết tỏ tình", "HTK từ chối"],
+      "active_characters": ["C001", "C066"],
+      "mood": "somber / decisive"
+    },
+    {
+      "chapter": 277,
+      "title": "Thành phố Ngô Nguyệt",
+      "summary": "Cả nhóm đến thành phố Ngô Nguyệt. Họ tìm thấy Phố An Nhiên nằm trong một dị không gian ẩn giấu giữa thành phố hiện đại.",
+      "key_events": ["Đến Ngô Nguyệt", "Tìm thấy Phố An Nhiên"],
+      "active_characters": ["C001", "C010", "C050", "C023"],
+      "mood": "mysterious"
+    },
+    {
+      "chapter": 278,
+      "title": "Dị không gian",
+      "summary": "Nhóm tiến vào tòa kiến trúc khổng lồ trong dị không gian. HTK gặp lại Mộc Tử Hy và Ngô Địch. Bắt đầu nhận ra sự tồn tại của ba Minh Phủ khác nhau.",
+      "key_events": ["Tiến vào hội trường", "Gặp Mộc Tử Hy", "Lore về ba Minh Phủ"],
+      "active_characters": ["C001", "C060", "C052"],
+      "mood": "awe / intriguing"
+    },
+    {
+      "chapter": 279,
+      "title": "Cố nhân",
+      "summary": "Các thành viên của Đệ Nhất và Đệ Nhị Minh Phủ xuất hiện với thái độ ngạo mạn. HTK vô tình gặp lại Triệu An Quốc và Vương Tang Du (đã khỏe lại).",
+      "key_events": ["Sự xuất hiện của các Minh Phủ khác", "Gặp lại Triệu An Quốc và Vương Tang Du"],
+      "active_characters": ["C001", "C065", "C063"],
+      "mood": "tense / reunion"
+    },
+    {
+      "chapter": 280,
+      "title": "Thực lực chênh lệch",
+      "summary": "Mộc Tử Hy giải thích về hệ thống lãnh đạo công ty. Đệ Tam Minh Phủ là yếu nhất. Các Cao cấp chủ quản xuất hiện, trong đó có Lương Nhược Vân. Hội nghị chính thức bắt đầu.",
+      "key_events": ["Lore về cấp bậc lãnh đạo", "Hội nghị khai mạc"],
+      "active_characters": ["C001", "C060", "C007"],
+      "mood": "solemn / preparation"
+    },
+    {
+      "chapter": 281,
+      "title": "Khen thưởng",
+      "summary": "Lương Nhược Vân công bố các giải thưởng tại Hội nghị thường niên. HTK và Lãnh Nguyệt cùng đạt giải 'Tiến bộ nhanh nhất', nhận phần thưởng 20 điểm vinh dự.",
+      "key_events": ["HTK và Lãnh Nguyệt nhận giải Tiến bộ nhanh nhất", "Phần thưởng 20 điểm vinh dự"],
+      "active_characters": ["C001", "C010", "C007"],
+      "mood": "victory / excitement"
+    },
+    {
+      "chapter": 282,
+      "title": "Hội nghị thường niên kết thúc",
+      "summary": "Công bố các án phạt dành cho các Chủ quản có tỉ lệ sống sót thấp (Từ Thiên Hoa, Phó Hải Nghĩa). Hội nghị kết thúc, HTK nhận ra sự chênh lệch thực lực giữa các Minh Phủ.",
+      "key_events": ["Từ Thiên Hoa và Phó Hải Nghĩa bị phạt", "Hội nghị kết thúc"],
+      "active_characters": ["C001", "C052", "C007", "C021", "C022"],
+      "mood": "reflexive"
+    },
+    {
+      "chapter": 283,
+      "title": "Xung đột",
+      "summary": "Lãnh Nguyệt bị một nhóm nhân viên mới từ Đệ Nhất Minh Phủ vây đánh vì lý do vô căn cứ. HTK can thiệp kịp thời bằng bạo lực để giải vây.",
+      "key_events": ["Lãnh Nguyệt bị vây đánh", "HTK ra tay can thiệp"],
+      "active_characters": ["C001", "C010", "C050"],
+      "mood": "intense / action"
+    },
+    {
+      "chapter": 284,
+      "title": "Hội nghị Chủ quản",
+      "summary": "Tiết lộ nguyên nhân Lãnh Nguyệt bị nhắm tới là do sự ghen tuông của một Chủ quản Đệ Nhất Minh Phủ. Trong khi đó, các lãnh đạo Đệ Tam Minh Phủ đang bị o ép trong cuộc họp cấp cao.",
+      "key_events": ["HTK giáo huấn Lãnh Nguyệt về sự lương thiện", "Cuộc họp Chủ quản căng thẳng"],
+      "active_characters": ["C001", "C010", "C050", "C052", "C007"],
+      "mood": "tense"
+    },
+    {
+      "chapter": 285,
+      "title": "Thừa cơ đục nước béo cò",
+      "summary": "Đệ Nhất và Đệ Nhị Minh Phủ ép Đệ Tam Minh Phủ nhượng bộ lãnh thổ và tài nguyên. Lương Nhược Vân buộc phải chấp nhận để bảo vệ cấp dưới. Tiết lộ về việc các cấp lãnh đạo tối cao đang ở tầng không gian khác.",
+      "key_events": ["Đệ Tam Minh Phủ bị tước đoạt tài nguyên", "Lương Nhược Vân nhượng bộ"],
+      "active_characters": ["C007", "C052", "C060"],
+      "mood": "somber / grim"
+    },
+    {
+      "chapter": 286,
+      "title": "Nghi ngờ",
+      "summary": "HTK bắt đầu nghi ngờ 'Lão Lý' - người cung cấp tin báo linh dị. Nhóm quyết định nhận một vụ việc riêng tại trấn Triệu Quang nhưng với sự đề phòng cao độ.",
+      "key_events": ["Nghi ngờ về thân phận Lão Lý", "Nhận vụ việc tại trấn Triệu Quang"],
+      "active_characters": ["C001", "C010", "C023", "C050"],
+      "mood": "investigation / suspicion"
+    },
+    {
+      "chapter": 287,
+      "title": "Trở về",
+      "summary": "Cả nhóm ghé thăm nhà HTK tại Bắc An trước khi đi trấn Triệu Quang. HTK giới thiệu đồng nghiệp với mẹ mình.",
+      "key_events": ["Cả nhóm về thăm nhà HTK", "Gặp gỡ mẹ của HTK"],
+      "active_characters": ["C001", "C010", "C023", "C050", "C068"],
+      "mood": "slice_of_life"
+    },
+    {
+      "chapter": 288,
+      "title": "Sự kỳ quái ở nhà Hạ Thiên Kỳ",
+      "summary": "Lãnh Nguyệt phát hiện một trận pháp trừ quỷ cực mạnh bao phủ nhà HTK. Sự xuất hiện trở lại của con búp bê Barbie kỳ lạ mà ông nội HTK từng vứt đi.",
+      "key_events": ["Phát hiện trận pháp trong nhà HTK", "Búp bê Barbie xuất hiện trở lại"],
+      "active_characters": ["C001", "C010", "C023", "C050", "C068"],
+      "mood": "eerie / mystery"
+    },
+    {
+      "chapter": 289,
+      "title": "Che giấu",
+      "summary": "Tình cảm gia đình HTK chứa đựng nhiều bí ẩn. Bố HTK cấm mẹ anh tới nhà ông nội. Lãnh Nguyệt cảnh cáo HTK không được vứt con búp bê nhưng từ chối giải thích lý do.",
+      "key_events": ["Bố HTK bộc lộ sự kỳ lạ", "Mâu thuẫn giữa HTK và Lãnh Nguyệt"],
+      "active_characters": ["C001", "C010", "C068", "C069"],
+      "mood": "tense / mystery"
+    },
+    {
+      "chapter": 290,
+      "title": "Lý Thu Bình",
+      "summary": "Nhóm tới trấn Triệu Quang, tìm đến Âm Dương Phong Thủy Bí Quán. HTK đánh ngất đồ đệ hống hách của Lý Thu Bình và yêu cầu vào thẳng vấn đề chính.",
+      "key_events": ["Tới Tiệm bí mật Phong thủy Âm Dương", "Gặp gỡ Lý Thu Bình"],
+      "active_characters": ["C001", "C010", "C023", "C050", "C067"],
+      "mood": "action / investigation"
+    },
+    {
+      "chapter": 291,
+      "title": "Thật bi thảm~~",
+      "summary": "Thông báo ngắn của tác giả về việc tài khoản QQ bị hack và bị đóng băng 2 ngày.",
+      "key_events": ["Thông báo của tác giả"],
+      "active_characters": [],
+      "mood": "frustrated"
+    },
+    {
+      "chapter": 292,
+      "title": "Sáng mắt vì tiền",
+      "summary": "Lý Thu Bình kể về việc nhận một phi vụ tang lễ lớn cho cha của một vị 'đại nhân vật' (Hứa Thành Lâm) tại trấn Triệu Quang. Xác chết có dấu hiệu trá thi vô cùng đáng sợ.",
+      "key_events": ["Li Qiu Ping nhận việc cho nhà họ Hứa", "Phát hiện dấu hiệu trá thi"],
+      "active_characters": ["C001", "C067"],
+      "mood": "tense / storytelling"
+    },
+    {
+      "chapter": 293,
+      "title": "Trá thi",
+      "summary": "Li Qiu Ping từ chối phi vụ vì quá nguy hiểm nhưng đồ đệ của ông ta (C070) vì ham tiền nên đã nhận. Ba ngày sau, đồ đệ và hai thợ bốc vác bị giết chết, móc mất tim tại nhà tang lễ.",
+      "key_events": ["C070 nhận phi vụ 1 triệu tệ", "C070 bị hạ sát tại nhà tang lễ"],
+      "active_characters": ["C067", "C070"],
+      "mood": "horror / regret"
+    },
+    {
+      "chapter": 294,
+      "title": "Móc tim",
+      "summary": "Nghi lễ tang lễ diễn ra trong sự căng thẳng. Nhân viên hỏa táng bị sát hại ngay tại lò hỏa táng. Li Qiu Ping kinh hoàng phát hiện một đôi mắt sói xanh lè trong miệng xác cụ thân sinh nhà họ Hứa.",
+      "key_events": ["Tang lễ diễn ra", "Nhân viên hỏa táng bị giết", "Phát hiện đôi mắt trong miệng xác chết"],
+      "active_characters": ["C067"],
+      "mood": "horror / suspense"
+    },
+    {
+      "chapter": 295,
+      "title": "Tiền nhân hậu quả",
+      "summary": "Xác chết sau đó được hỏa táng thành công nhưng thảm họa chưa dừng lại. Mọi đồ đệ tham gia tang lễ đều mất tích/bị giết. Hứa Thành Lâm cũng bị sát hại với lồng ngực bị xuyên thủng.",
+      "key_events": ["Tiêu hủy xác chết", "Chuỗi án mạng móc tim tiếp diễn", "Cái chết của Hứa Thành Lâm"],
+      "active_characters": ["C067"],
+      "mood": "despair / mystery"
+    },
+    {
+      "chapter": 296,
+      "title": "Uy hiếp",
+      "summary": "HTK uy hiếp Li Qiu Ping để chắc chắn ông ta không phải trap. Nhóm lập kế hoạch điều tra tại đồn cảnh sát và tiếp cận con gái Hứa Thành Lâm.",
+      "key_events": ["HTK test thân phận Li Qiu Ping", "Lập kế hoạch điều tra"],
+      "active_characters": ["C001", "C010", "C050", "C067"],
+      "mood": "tense / strategic"
+    },
+    {
+      "chapter": 297,
+      "title": "Âm thai",
+      "summary": "Lãnh Nguyệt xác định quỷ vật là 'Âm Thai' (Ghost Fetus) - sinh ra từ sự oán hận cực độ của người bị làm cho tức chết. Nhóm chia hai đường điều tra.",
+      "key_events": ["Lore về Âm Thai (Ruan Jiang)", "Chia nhóm điều tra"],
+      "active_characters": ["C001", "C010", "C050", "C067"],
+      "mood": "analytical / lore"
+    },
+    {
+      "chapter": 298,
+      "title": "Gặp mặt",
+      "summary": "Nhóm HTK gặp Thanh Thanh (con gái Hứa Thành Lâm). Cô tiết lộ sự thật về việc ba anh em họ Hứa đã giam lỏng người cha già khiến ông uất hận mà chết.",
+      "key_events": ["Tiếp cận Thanh Thanh", "Hé lộ quá khứ gia đình họ Hứa"],
+      "active_characters": ["C001", "C060", "C067"],
+      "mood": "intriguing / dark"
+    },
+    {
+      "chapter": 299,
+      "title": "Ác ma",
+      "summary": "Thanh Thanh kể lại việc nhìn thấy một đứa trẻ sơ sinh mang khuôn mặt của ông nội. HTK tin vào câu chuyện của cô và nghi ngờ quỷ vật là kết tinh oán niệm nhắm vào huyết mạch họ Hứa.",
+      "key_events": ["Lời khai của Thanh Thanh về đứa bé mặt quỷ", "HTK phân tích mục tiêu của quỷ vật"],
+      "active_characters": ["C001", "C060", "C067"],
+      "mood": "creepy / revelation"
+    },
+    {
+      "chapter": 300,
+      "title": "Nhà chứa xác",
+      "summary": "Lãnh Nguyệt và Tĩnh Thù thám thính nhà chứa xác, phát hiện ra tất cả nạn nhân đều có liên quan đến việc giam lỏng cụ Hứa. Một huyễn cảnh đẫm máu xuất hiện và bị phá giải.",
+      "key_events": ["Khám nghiệm thi thể", "Phá giải huyễn cảnh ao máu", "Nhóm tụ họp tại nhà tang lễ"],
+      "active_characters": ["C001", "C010", "C050"],
+      "mood": "horror / action"
+    },
+    {
+      "chapter": 301,
+      "title": "Quỷ Ảnh",
+      "summary": "Cả nhóm họp tại khách sạn. HTK suy luận quỷ vật nhắm vào những kẻ hành hạ cụ Hứa và lên kế hoạch rà soát nơi hẻo lánh. Đêm khuya, HTK gặp bóng quỷ trong phòng và nghe tiếng mở cửa hành lang.",
+      "key_events": ["Họp bàn chiến thuật", "Kế hoạch tìm người mất tích", "Bóng quỷ xuất hiện trong phòng HTK"],
+      "active_characters": ["C001", "C010", "C023", "C050", "C067"],
+      "mood": "strategic / suspense"
+    },
+    {
+      "chapter": 302,
+      "title": "Cuộc gọi lúc nửa đêm",
+      "summary": "Lý Thu Bình nhận được điện thoại từ đồ đệ báo đang bị nhốt tại nhà máy bỏ hoang cạnh quốc lộ 202 sau khi suýt chạm trán Âm Thai. Cả nhóm thảo luận và nghi ngờ đây là bẫy dụ cả nhóm tới nộp mạng. Tĩnh Thù báo cảnh sát xác minh nhưng cần đợi 2 tiếng.",
+      "key_events": ["Cuộc gọi cầu cứu từ đồ đệ Lý Thu Bình", "Thảo luận về phương thức tiến hóa của Âm Thai", "Sự xác lập vai trò trụ cột của HTK trong nhóm"],
+      "active_characters": ["C001", "C010", "C023", "C050", "C067"],
+      "mood": "tense / analytical"
+    },
+    {
+      "chapter": 303,
+      "title": "Nhà máy tử thần",
+      "summary": "Nhóm HTK quyết tâm đột kích nhà máy bỏ hoang cạnh quốc lộ 202. Bên trong, các đồ đệ của Lý Thu Bình bị hành hạ tàn nhẫn. Một nạn nhân bị Âm Thai (mặt lão già) sát hại dã man ngay khi định trốn thoát. Nhóm HTK đến nơi vào lúc 1 giờ sáng.",
+      "key_events": ["Quyết định tiếp tục nhiệm vụ của nhóm", "Âm Thai mặt lão lộ diện sát hại nạn nhân", "Nhóm HTK tiếp cận hiện trường"],
+      "active_characters": ["C001", "C010", "C023", "C050", "C067"],
+      "mood": "horror / dark"
+    },
+    {
+      "chapter": 304,
+      "title": "Ngửa bài",
+      "summary": "Nhóm HTK đột kích nhà máy và chia nhóm tìm kiếm. HTK đi cùng Lý Thu Bình vào một nhà xưởng vắng lặng. Tại đây, HTK cố tình gọi ông ta là 'Lão Lý' và bắt đầu vạch trần những nghi ngờ về thân phận thật sự của Lý Thu Bình trong sự kiện Âm Thai.",
+      "key_events": ["Chia nhóm lục soát nhà máy", "HTK thử lòng Lý Thu Bình bằng tên gọi 'Lão Lý'", "HTK chất vấn Lý Thu Bình về sự liên quan của ông ta"],
+      "active_characters": ["C001", "C010", "C023", "C050", "C067"],
+      "mood": "tense / investigative"
+    },
+    {
+      "chapter": 305,
+      "title": "Cạm bẫy ngoài dự kiến",
+      "summary": "Màn ngửa bài tàn khốc giữa HTK và Lý Thu Bình. Lý Thu Bình thừa nhận là người của Đệ Nhất Minh Phủ chuyên nuôi quỷ bằng tính mạng của các nhân viên khác để thăng cấp. Ông ta tiết lộ sào huyệt này có Lệ quỷ và thách thức nhóm HTK.",
+      "key_events": ["Lý Thu Bình thừa nhận thân phận người của Đệ Nhất Minh Phủ", "Hé lộ âm mưu nuôi quỷ bằng nhân viên Minh Phủ", "Sự xuất hiện của Lệ quỷ được dự báo"],
+      "active_characters": ["C001", "C067"],
+      "mood": "tense / antagonistic"
+    },
+    {
+      "chapter": 306,
+      "title": "Hạ Thiên Kì cấp độ Lệ quỷ",
+      "summary": "HTK bộc lộ thực lực cấp độ Lệ quỷ sau khi đã dùng 20 điểm vinh dự để cường hóa. Lý Thu Bình vô cùng kinh hãi khi thấy HTK dễ dàng tiêu diệt 3 con xác thối triệu hồi. Lão Lý bỏ chạy trong tuyệt vọng.",
+      "key_events": ["HTK bộc phát thực lực cấp Lệ quỷ", "Hé lộ quá trình cường hóa sức mạnh của HTK", "Lý Thu Bình tháo chạy"],
+      "active_characters": ["C001", "C067"],
+      "mood": "action / epic"
+    },
+    {
+      "chapter": 307,
+      "title": "Hợp lực",
+      "summary": "HTK bẻ gãy cổ Lý Thu Bình và cảm nhận sự kiểm soát của dục vọng giết chóc. Anh quay lại hỗ trợ Lãnh Nguyệt vây khốn Âm Thai. Lãnh Nguyệt đề nghị HTK kìm chân con quỷ để anh dùng chiêu kết liễu nó.",
+      "key_events": ["HTK tiêu diệt Lý Thu Bình", "Sự cám dỗ của Ác Linh Thể Chất", "Phối hợp giữa HTK và Lãnh Nguyệt chống lại Âm Thai"],
+      "active_characters": ["C001", "C010", "C023", "C050"],
+      "mood": "intense / strategic action"
+    },
+    {
+      "chapter": 308,
+      "title": "Vết nứt",
+      "summary": "Trận chiến kịch tính với Âm Thai. Con quỷ sử dụng năng lực dịch chuyển tức thời và tạo vết nứt không gian để tấn công. Nó bất ngờ nhắm vào Triệu Tĩnh Thù và Mẫn Mẫn bằng một vết nứt khổng lồ ngay khi HTK đang bận Kìm chân nó.",
+      "key_events": ["Âm Thai phô diễn năng lực thao túng không gian", "Lãnh Nguyệt chuẩn bị bí thuật phù văn", "Tình huống ngàn cân treo sợi tóc của Tĩnh Thù và Mẫn Mẫn"],
+      "active_characters": ["C001", "C010", "C023", "C050"],
+      "mood": "fast-paced / suspense"
+    },
+    {
+      "chapter": 309,
+      "title": "Kết thúc",
+      "summary": "HTK hy sinh thân mình cứu Tĩnh Thù và Mẫn Mẫn, bị thương nặng. Lãnh Nguyệt hoàn thành bí thuật tiêu diệt hoàn toàn Âm Thai. HTK tỉnh lại trong bệnh viện với bộ dạng bánh chưng và bắt đầu hồi phục nhờ năng lực cường hóa thể chất.",
+      "key_events": ["HTK cứu Tĩnh Thù và Mẫn Mẫn", "Lãnh Nguyệt tiêu diệt Âm Thai", "HTK nhập viện hồi sức"],
+      "active_characters": ["C001", "C010", "C023", "C050"],
+      "mood": "climactic / relief"
+    },
+    {
+      "chapter": 310,
+      "title": "Trở lại Bắc An",
+      "summary": "Sau sự kiện Âm Thai, nhóm HTK quay về Bắc An. HTK quyết định ở lại đây vài ngày thăm gia đình. Biểu cảm kì lạ của Lãnh Nguyệt khiến HTK càng nôn nóng muốn khám phá bí mật mà Lãnh Nguyệt đang che giấu liên quan đến gia đình mình.",
+      "key_events": ["HTK hồi phục và xuất viện", "Nhóm quay về Bắc An", "HTK quyết định thăm nhà và điều tra bí mật gia đình"],
+      "active_characters": ["C001", "C010", "C023", "C050"],
+      "mood": "mystery / transitional"
+    },
+    {
+      "chapter": 311,
+      "title": "Thăng chức Chủ quản",
+      "summary": "Hạ Thiên Kì về nhà thăm bố mẹ và nhận được tin nhắn thăng chức lên Chủ quản từ Lương Nhược Vân. Anh bắt đầu nghi ngờ về thân phận của mẹ mình (Trần Thục Lan) khi phát hiện những điểm bất thường và tìm đến trường học nơi bà công tác để điều tra. Phản ứng của vị Hiệu trưởng cho thấy sự tồn tại của những bí mật lớn liên quan đến mẹ anh.",
+      "key_events": ["HTK thăng chức Chủ quản", "Nghi ngờ về quá khứ của mẹ", "Gặp Hiệu trưởng hỏi về Trần Thục Lan"],
+      "active_characters": ["C001", "C035"],
+      "mood": "mystery / progressive"
+    },
+    {
+      "chapter": 312,
+      "title": "Chân tướng",
+      "summary": "Sự thật tàn khốc được phơi bày: mẹ Hạ Thiên Kì đã qua đời từ 21 năm trước khi sinh anh. Ông nội (Lão Ngoan Đồng) đã dùng bí thuật phong ấn hồn phách của bà vào căn nhà để bà tiếp tục sống như một người bình thường và chăm sóc gia đình. HTK đau đớn nhận ra cuộc đời bấy lâu nay là một sự sắp đặt đầy tình thương nhưng cũng đầy uẩn khúc của ông nội.",
+      "key_events": ["Xác nhận mẹ đã qua đời từ Hiệu trưởng", "Bố tiết lộ bí mật về hồn phách của mẹ", "HTK thấu hiểu sự hy sinh của ông nội"],
+      "active_characters": ["C001", "C035"],
+      "mood": "tragic / emotional"
+    },
+    {
+      "chapter": 313,
+      "title": "Phối hợp",
+      "summary": "Hạ Thiên Kì chia tay bố mẹ quay về biệt thự. Anh được nhóm đồng đội tổ chức tiệc chúc mừng thăng chức Chủ quản. HTK đề xuất một chiến thuật phối hợp tác chiến nhóm chuyên sâu, tận dụng tối đa lợi thế của từng thành viên: Tĩnh Thù (buff/hỗ trợ), Lãnh Nguyệt (công kích pháp thuật), HTK và Mẫn Mẫn (cận chiến/câu giờ).",
+      "key_events": ["Tạm biệt gia đình để về biệt thự", "Nhóm đồng đội tổ chức tiệc đón gió", "Đề xuất chiến thuật phối hợp chiến đấu nhóm"],
+      "active_characters": ["C001", "C010", "C023", "C050"],
+      "mood": "warm / strategic"
+    },
+    {
+      "chapter": 314,
+      "title": "Quyền hạn Cao cấp Chủ quản",
+      "summary": "HTK chuẩn bị đi gặp Lương Nhược Vân. Anh tìm hiểu các cấp bậc và quyền hạn trong Minh Phủ qua Đồng hồ Vinh dự: chức viên phổ thông, Chủ quản (x2 điểm vinh dự), Cao cấp Chủ quản (x3 điểm vinh dự, mở Đệ Nhị Vực), Kinh lý, Tổng giám. Lưu Ngôn Mẫn bắt đầu chăm chỉ luyện tập cùng Lãnh Nguyệt để thu hẹp khoảng cách thực lực với HTK.",
+      "key_events": ["Tìm hiểu hệ thống cấp bậc Minh Phủ", "HTK chuẩn bị gặp Lương Nhược Vân", "Mẫn Mẫn bắt đầu khổ luyện"],
+      "active_characters": ["C001", "C050", "C023", "C010"],
+      "mood": "informative / transition"
+    },
+    {
+      "chapter": 315,
+      "title": "Người trên ảnh",
+      "summary": "HTK và Triệu Tĩnh Thù đi mua sắm và ăn trưa. Khi Tĩnh Thù chụp ảnh chung, một khuôn mặt quỷ dị xuất hiện đằng sau HTK. Anh nhận ra đó là Dương Thư Thành, người bạn cùng phòng đại học đã chết từ vài tháng trước. Sự kiện này mang lại cảm giác bất an cực độ ngay giữa đời thường.",
+      "key_events": ["Đi mua sắm cùng Triệu Tĩnh Thù", "Chụp ảnh chung tại quán lẩu", "Phát hiện Dương Thư Thành (người đã chết) trong ảnh"],
+      "active_characters": ["C001", "C050", "C071"],
+      "mood": "suspense / horror"
+    },
+    {
+      "chapter": 316,
+      "title": "Gặp Lương Nhược Vân",
+      "summary": "HTK xác nhận Dương Thư Thành trong ảnh là thật. Anh đến Tòa nhà văn phòng Hoàng Kim và được Lương Nhược Vân dẫn lên một tầng ẩn (không gian dị độ). Lương Nhược Vân nhấn mạnh trách nhiệm của Chủ quản là phải bảo vệ và dẫn dắt chức viên, nhưng HTK thẳng thắn khẳng định ưu tiên hàng đầu của anh vẫn là sự an toàn của chính mình.",
+      "key_events": ["HTK đến Tòa nhà Hoàng Kim", "Gặp Lương Nhược Vân tại tầng họp ẩn", "Thảo luận về trách nhiệm của Chủ quản"],
+      "active_characters": ["C001", "C007"],
+      "mood": "serious / formal"
+    },
+    {
+      "chapter": 317,
+      "title": "Trách nhiệm của Chủ quản",
+      "summary": "Lương Nhược Vân hướng dẫn HTK về 3 loại sự kiện của Chủ quản: Sự kiện Phổ thông (giải quyết Lệ quỷ trong khu vực), Sự kiện Ngẫu nhiên (do Minh Phủ chỉ định, có thể làm chung với Minh Phủ khác), và Sự kiện Đoàn đội (do Cao cấp Chủ quản dẫn dắt). Cô cũng nhắc nhở về trách nhiệm phỏng vấn người mới và hé lộ về lịch sử Minh Phủ nguyên thủy cùng các chiều không gian cao hơn (Đệ Nhị/Tam Vực). Xuất hiện cái tên Cao cấp Chủ quản Lạc Trần.",
+      "key_events": ["Tìm hiểu về 3 loại sự kiện", "Nghe về lịch sử Minh Phủ nguyên thủy", "Lương Nhược Vân nhắc nhở về nhân tính"],
+      "active_characters": ["C001", "C007"],
+      "mood": "educational / mysterious"
+    },
+    {
+      "chapter": 318,
+      "title": "Kênh bị lũng đoạn",
+      "summary": "Lương Nhược Vân tiết lộ sự thật: Đệ Nhất và Đệ Nhị Minh Phủ lũng đoạn hầu hết các sự kiện linh dị cấp thấp để kiếm thêm Điểm vinh dự. Đệ Tam Minh Phủ phải chấp nhận thỏa hiệp để bảo vệ nhân viên mới khỏi bị hai nhà kia gài bẫy giết hại. HTK phản đối kịch liệt vì cho rằng điều này làm thui chột thực lực của nhân viên. Lương Nhược Vân đau khổ gồng gánh tổ chức trong khi chờ các Kinh lý trở về từ Đệ Tam Vực (Third Domain).",
+      "key_events": ["HTK và Lương Nhược Vân tranh luận về thực lực", "Tiết lộ sự lũng đoạn của Đệ Nhất/Đệ Nhị Minh Phủ", "Biết tin các Kinh lý đang ở Đệ Tam Vực"],
+      "active_characters": ["C001", "C007"],
+      "mood": "tense / emotional"
+    },
+    {
+      "chapter": 319,
+      "title": "Khảo hạch Chủ quản",
+      "summary": "Lương Nhược Vân giới thiệu về hệ thống 'Đổi' (Exchange) mới mở khóa cho Chủ quản dùng để nâng cấp kỹ năng vĩnh viễn. Cô xác nhận vụ việc Dương Thư Thành là 'Khảo hạch Chủ quản' - thử thách linh dị thực tế khi thăng cấp. Lương Nhược Vân cũng khẳng định Minh Phủ là một thực thể siêu thoát quy luật thế tục. HTK hỏi về ông nội Hạ Thuần nhưng Lương Nhược Vân không biết, dự đoán ông có thể ở cấp bậc lãnh đạo cao nhất.",
+      "key_events": ["Tìm hiểu về hệ thống Đổi", "Xác nhận Khảo hạch Chủ quản", "Hỏi thông tin về Hạ Thuần"],
+      "active_characters": ["C001", "C007"],
+      "mood": "educational / mysterious"
+    },
+    {
+      "chapter": 320,
+      "title": "Đối mặt",
+      "summary": "HTK tìm hiểu về sự bất công trong phân chia khu vực quét sạch khiến Đệ Tam Minh Phủ ngày càng yếu thế. Lương Nhược Vân lái siêu xe đưa anh về và khích lệ anh trước kỳ khảo hạch. Tại biệt thự, nhóm bạn cùng chúc mừng Lãnh Nguyệt đã chính thức thăng chức lên Chủ quản. HTK cảm khái về sự lớn mạnh của đội ngũ nhỏ.",
+      "key_events": ["Tìm hiểu về Khu vực quét sạch bất công", "Lương Nhược Vân đưa HTK về nhà", "Lãnh Nguyệt thăng chức Chủ quản thành công"],
+      "active_characters": ["C001", "C007", "C003", "C021", "C022"],
+      "mood": "hopeful / serious"
+    },
+    {
+      "chapter": 321,
+      "title": "Dị biến kinh khởi",
+      "summary": "HTK liên lạc với Tào Kim Hải, bàng hoàng khi biết những người bạn đã chết (Dương Thư Thành, Lý Xương Dã) đang 'sống lại' trong ký túc xá. Vừa vào trường, HTK rơi vào ảo cảnh nghĩa địa và bị tước đoạt toàn bộ sức mạnh.",
+      "key_events": ["Phát hiện sự bất thường tại túc xá", "Rơi vào ảo cảnh Loạn Phần Cương", "Bị tước đoạt năng lực quỷ hóa"],
+      "active_characters": ["C001", "C038", "C010", "C050", "C023"],
+      "mood": "horror / helpless"
+    },
+    {
+      "chapter": 322,
+      "title": "Biến huyễn",
+      "summary": "HTK chật vật chống trả lũ xác sống tại nghĩa địa với cơ thể người thường. Ảo cảnh đột ngột chuyển sang bối cảnh cổ đại quái dị với lồng đèn và người hầu. HTK bị bắt giữ và bất tỉnh.",
+      "key_events": ["Chiến đấu tay không với thây ma", "Ảo cảnh chuyển sang phong cách cổ đại", "HTK bị bắt giữ"],
+      "active_characters": ["C001"],
+      "mood": "desperate / eerie"
+    },
+    {
+      "chapter": 323,
+      "title": "Huyễn dữ Huyễn",
+      "summary": "HTK tỉnh lại trong xe, tưởng là mơ nhưng nhận ra mình vẫn trong ảo cảnh lồng ảo cảnh. Anh vào ký túc xá gặp lại 3 người bạn cùng phòng, bị ép uống thứ nước kỳ quái làm mất ý thức lần nữa.",
+      "key_events": ["Nhận ra ảo cảnh lồng ảo cảnh", "Gặp lại những người bạn đã chết", "Bị ép uống nước quỷ"],
+      "active_characters": ["C001", "C038", "C039", "C040"],
+      "mood": "suspense / psychological"
+    },
+    {
+      "chapter": 324,
+      "title": "Học viện tử tịch",
+      "summary": "HTK chứng kiến cảnh tượng phân xác đẫm máu trong ký túc xá. Anh thoát khỏi tầng ảo cảnh kinh dị nhất và tỉnh lại trong xe với đồng đội, lần này đã khôi phục được liên kết với sức mạnh ác linh.",
+      "key_events": ["Chứng kiến cảnh phân xác kinh hoàng", "Thoát khỏi ảo cảnh đẫm máu", "Hồi phục khả năng quỷ hóa"],
+      "active_characters": ["C001", "C010", "C050", "C023"],
+      "mood": "horror / relief"
+    },
+    {
+      "chapter": 325,
+      "title": "Thống khổ",
+      "summary": "HTK tự đả thương mình để thoát khỏi ảo mộng lồng ảo mộng cuối cùng. Anh đối mặt với 'quái vật' Lý Xương Dã và Dương Thư Thành trong thực tế ảo. HTK phẫn nộ trước sự tàn khốc của kỳ khảo hạch Minh Phủ.",
+      "key_events": ["HTK tự phá vỡ ảo cảnh", "Đối đầu với bạn cũ biến dị", "Phát sinh thù hận với Minh Phủ"],
+      "active_characters": ["C001", "C038", "C039", "C040"],
+      "mood": "rage / tragic"
+    },
+    {
+      "chapter": 326,
+      "title": "Khảo hạch kết thúc",
+      "summary": "Thế giới ảo sụp đổ, HTK bị 'phân xác' và tỉnh lại trong văn phòng Chủ quản. Lương Nhược Vân tiết lộ bí mật 'Tá mệnh' (Mượn mạng): Mọi nhân viên đều đã chết và đang sống bằng mạng sống vay mượn từ Minh Phủ.",
+      "key_events": ["Thế giới ảo sụp đổ", "Hoàn thành khảo hạch Chủ quản", "Tiết lộ bí mật Tá mệnh"],
+      "active_characters": ["C001", "C007"],
+      "mood": "shock / cold_reality"
+    },
+    {
+      "chapter": 327,
+      "title": "Thanh công năng ẩn",
+      "summary": "HTK khám phá hệ thống 'Đoán hoán' mới. Anh đứng trước 3 lựa chọn tiến hóa: Phụ thân, Thôn thực và Dung hợp. HTK quyết định chờ tham khảo ý kiến người có kinh nghiệm trước khi quyết định.",
+      "key_events": ["Mở khóa hệ thống thăng cấp", "Tiết lộ 3 hướng tiến hóa thể chất", "Lãnh Nguyệt tìm gặp HTK"],
+      "active_characters": ["C001", "C010"],
+      "mood": "mystery / curiosity"
+    },
+    {
+      "chapter": 328,
+      "title": "Trận pháp bất ổn",
+      "summary": "Lãnh Nguyệt cảnh báo về trận pháp tại nhà HTK đang bị oán khí phản phệ sau 20 năm. Mẹ HTK có nguy cơ biến dị. HTK tuyệt vọng đấm Lãnh Nguyệt rồi hối hận vì không tìm thấy ông nội để cứu vãn.",
+      "key_events": ["Tiết lộ nguy cơ từ trận pháp tại Bắc An", "Mẹ HTK đứng trước hiểm họa biến dị", "Sự xung đột và thấu hiểu giữa HTK và Lãnh Nguyệt"],
+      "active_characters": ["C001", "C010"],
+      "mood": "despair / emotional"
+    },
+    {
+      "chapter": 329,
+      "title": "Quỷ kiểm",
+      "summary": "Lãnh Nguyệt suy đoán ông nội HTK có thể là cấp Tổng giám. Tiết lộ về Đệ Nhị/Tam Vực là chiến trường chính của Minh Phủ. HTK phát hiện các 'mặt quỷ' (Quỷ kiểm) hiện lên trong quỷ khí của bản thân sau khi hấp thụ quỷ vật.",
+      "key_events": ["Suy đoán về thân phận ông nội", "Tiết lộ về các chiều không gian cao hơn", "Phát hiện Quỷ kiểm trong linh lực"],
+      "active_characters": ["C001", "C010"],
+      "mood": "mysterious / intrigue"
+    },
+    {
+      "chapter": 331,
+      "title": "Khu vui chơi",
+      "summary": "HTK đi giải trí tại khu vui chơi lớn nhất Phúc Bình. Gặp nam phục vụ và chuẩn bị bước vào tình huống bất ngờ.",
+      "key_events": ["HTK giải trí", "Đến khu vui chơi tòa lâu đài"],
+      "active_characters": ["C001", "C010"],
+      "mood": "relaxing / transition"
+    },
+    {
+      "chapter": 332,
+      "title": "Ông chủ khu vui chơi",
+      "summary": "HTK đụng độ Sát tiên sinh và bồ nhí Lý Tâm Cơ. Tuyệt Đại (ông chủ) xuất hiện hóa giải. HTK nhận ra họ đều là cao thủ Minh Phủ.",
+      "key_events": ["Đụng độ Sát tiên sinh", "Gặp Tuyệt Đại và Lý Tâm Cơ", ""],
+      "active_characters": ["C001", "Sát", "Tuyệt Đại", "Lý Tâm Cơ"],
+      "mood": "tense / surprising"
+    },
+    {
+      "chapter": 333,
+      "title": "Sự kiện thông thường",
+      "summary": "HTK nhận nhiệm vụ từ Lương Nhược Vân tại Khu Thiên Đài số 56. Anh nâng cấp chỉ số Cường hóa thể chất (L7) và Trấn áp Ác linh (L2).",
+      "key_events": ["Nhận nhiệm vụ mới", "Nâng cấp chỉ số sức mạnh"],
+      "active_characters": ["C001", "C010"],
+      "mood": "preparatory"
+    },
+    {
+      "chapter": 334,
+      "title": "Phát điên",
+      "summary": "HTK và Lãnh Nguyệt điều tra nhà Trương Hiểu Long. Vương Oánh bắt đầu phát điên vì những lọn tóc dài xuất hiện bí ẩn.",
+      "key_events": ["Tiếp nhận vụ án Tóc người chết", "Gặp gia đình Trương Hiểu Long"],
+      "active_characters": ["C001", "C010", "Trương Hiểu Long", "Vương Oánh"],
+      "mood": "suspenseful"
+    },
+    {
+      "chapter": 335,
+      "title": "Tóc của người đàn bà",
+      "summary": "Căng thẳng giữa hai vợ chồng leo thang. Trương Hiểu Long bị đuổi ra khỏi nhà. Vương Oánh phát hiện tóc vẫn xuất hiện khi ở một mình.",
+      "key_events": ["Cãi vã gia đình", "Phát hiện hiện tượng siêu nhiên đầu tiên"],
+      "active_characters": ["Vương Oánh", "Trương Hiểu Long"],
+      "mood": "horror"
+    },
+    {
+      "chapter": 336,
+      "title": "Chuyện quái dị",
+      "summary": "Bố mẹ Trương Hiểu Long mời thầy cúng tới nhưng không hiệu quả. Hiện tượng tóc dài ngày càng nghiêm trọng.",
+      "key_events": ["Mời thầy cúng dỏm", "Nỗi sợ hãi gia tăng"],
+      "active_characters": ["Trương Hiểu Long", "Vương Oánh", "Thầy cúng"],
+      "mood": "horror / helpless"
+    },
+    {
+      "chapter": 337,
+      "title": "Trạng khách",
+      "summary": "Vương Oánh phát điên thật sự. Lãnh Nguyệt nhận định là hiện tượng Trạng khách (quỷ tạo phân thân). Nhóm HTK quyết định ở lại 3 ngày.",
+      "key_events": ["Vương Oánh nhập viện rồi về nhà", "Nhận định về Trạng khách"],
+      "active_characters": ["C001", "C010", "Vương Oánh"],
+      "mood": "analytical / dark"
+    },
+    {
+      "chapter": 338,
+      "title": "Gác đêm",
+      "summary": "HTK dùng Mê hồn hương cho gia đình ngủ say. Vương Oánh bắt đầu mộng du chải đầu trong đêm với mùi xác chết bốc ra.",
+      "key_events": ["Sử dụng Mê hồn hương", "Vương Oánh mộng du"],
+      "active_characters": ["C001", "C010", "Vương Oánh"],
+      "mood": "eerie / tense"
+    },
+    {
+      "chapter": 339,
+      "title": "Diệt",
+      "summary": "Trận chiến với Lệ quỷ tóc. Cả nhà Trương Hiểu Long bị khống chế. HTK và Lãnh Nguyệt tiêu diệt quỷ vật và thanh tẩy cho gia đình.",
+      "key_events": ["Chiến đấu với Lệ quỷ tóc", "Tiêu diệt quỷ vật", "Thanh tẩy cho gia đình nạn nhân"],
+      "active_characters": ["C001", "C010", "Vương Oánh"],
+      "mood": "action / intense"
+    },
+    {
+      "chapter": 340,
+      "title": "Buồn nôn",
+      "summary": "HTK nôn ra tóc quỷ và nhận ra sự nguy hiểm của ký sinh. Anh nhận 10 điểm vinh dự và suy ngẫm về việc hỗ trợ bạn bè cùng mạnh lên.",
+      "key_events": ["Nôn ra tóc ký sinh", "Nhận thưởng", "Suy ngẫm về trách nhiệm đội trưởng"],
+      "active_characters": ["C001", "C010"],
+      "mood": "reflective / relief"
+    },
+    {
+      "chapter": 341,
+      "title": "Hẹn Ngô Đích",
+      "summary": "Mẫn Mẫn bị thương nặng sau nhiệm vụ. HTK nhờ Mẫn Mẫn kết nối với Ngô Đích để hỏi về kinh nghiệm cường hóa Thể chất Ác linh.",
+      "key_events": ["Mẫn Mẫn nằm viện", "HTK liên lạc với Ngô Đích"],
+      "active_characters": ["C001", "C010", "C023", "Ngô Đích"],
+      "mood": "transition / humorous"
+    },
+    {
+      "chapter": 342,
+      "title": "Người quen",
+      "summary": "HTK đưa Mẫn Mẫn về Phúc Bình. Tĩnh Thù trở về an toàn. HTK đến quán cà phê gặp Ngô Đích và chứng kiến sự lập dị của anh ta.",
+      "key_events": ["Tĩnh Thù trở về", "HTK gặp Ngô Đích tại quán cà phê"],
+      "active_characters": ["C001", "C024", "C050", "Ngô Đích"],
+      "mood": "lighthearted / curious"
+    },
+    {
+      "chapter": 343,
+      "title": "Nghe lén",
+      "summary": "HTK nghe lén cuộc thoại giữa Ngô Đích và Từ Thiên Hoa. Biết được quy tắc khảo hạch cưỡng chế sau 10 tháng và sự nguy hiểm của Quỷ vương.",
+      "key_events": ["Nghe lén về khảo hạch cấp cao", "Tiết lộ cấp độ Quỷ vương"],
+      "active_characters": ["C001", "Ngô Đích", "C006"],
+      "mood": "tense / informative"
+    },
+    {
+      "chapter": 344,
+      "title": "Quyết định",
+      "summary": "Ngô Đích giảng giải 3 hướng kỹ năng: Phụ thân, Thôn thực, Dung hợp. HTK quyết định chọn Dung hợp dù tỷ lệ tử vong cực cao.",
+      "key_events": ["Giải thích về 3 loại kỹ năng Ác linh", "HTK chọn con đường Dung hợp"],
+      "active_characters": ["C001", "Ngô Đích"],
+      "mood": "serious / decisive"
+    },
+    {
+      "chapter": 345,
+      "title": "Thú nhận",
+      "summary": "HTK thú nhận với cả nhóm về khoản hoa hồng đội trưởng. Mọi người bao dung và đề xuất luân phiên làm đội trưởng để cùng mạnh lên.",
+      "key_events": ["HTK nhận lỗi", "Nhóm thống nhất luân phiên làm đội trưởng"],
+      "active_characters": ["C001", "C010", "C023", "C050"],
+      "mood": "moving / united"
+    },
+    {
+      "chapter": 346,
+      "title": "Phụ ma",
+      "summary": "Cả nhóm bắt đầu luyện tập phối hợp. HTK định hướng Tĩnh Thù làm Phụ ma sư. Lần thử nghiệm đầu tiên lên HTK thất bại do xung đột năng lượng.",
+      "key_events": ["Luyện tập phối hợp", "Thử nghiệm kỹ năng Phụ ma"],
+      "active_characters": ["C001", "C010", "C023", "C050"],
+      "mood": "energetic / experimental"
+    },
+    {
+      "chapter": 347,
+      "title": "Viễn cảnh",
+      "summary": "Phụ ma của Tĩnh Thù hoạt động tốt trên Lãnh Nguyệt (người thường) nhưng bài trừ HTK/Mẫn (quỷ). HTK định hình mô hình tác chiến mới.",
+      "key_events": ["Phụ ma thành công cho Lãnh Nguyệt", "Nhận diện sự xung đột Thể chất - Pháp lực"],
+      "active_characters": ["C001", "C010", "C023", "C050"],
+      "mood": "analytical / visionary"
+    },
+    {
+      "chapter": 348,
+      "title": "Sự kiện ngẫu nhiên",
+      "summary": "HTK nhận nhiệm vụ ngẫu nhiên tại Vô nhân khu. Hắn không thể liên lạc được với cấp trên để xin hỗ trợ. Sự kiện yêu cầu đến điểm đích để thoát ra.",
+      "key_events": ["Nhận thông báo sự kiện ngẫu nhiên", "Nguy cơ bị cô lập"],
+      "active_characters": ["C001", "C050"],
+      "mood": "mysterious / anxious"
+    },
+    {
+      "chapter": 349,
+      "title": "Vô nhân khu",
+      "summary": "HTK dồn 10 điểm vinh dự để cường hóa lên ngưỡng Lệ quỷ. Hắn bị dịch chuyển đến vùng đất thê lương Vô nhân khu và nghe thấy tiếng kêu cứu.",
+      "key_events": ["Cường hóa sức mạnh lên ngưỡng mới", "Bị dịch chuyển vào không gian sự kiện"],
+      "active_characters": ["C001"],
+      "mood": "desolate / eerie"
+    },
+    {
+      "chapter": 350,
+      "title": "Kho báu trên bản đồ",
+      "summary": "HTK nghiên cứu bản đồ sự kiện, phát hiện các điểm thưởng 'Kho báu'. Hắn nhận ra mối nguy từ các Minh Phủ khác và khu vực Thôn trang bí ẩn.",
+      "key_events": ["Phân tích chiến thuật Vô nhân khu", "Định vị các điểm thưởng và mối nguy"],
+      "active_characters": ["C001"],
+      "mood": "strategic / cautious"
+    },
+    {
+      "chapter": 351,
+      "title": "Vô nhân khu",
+      "summary": "HTK bắt đầu tham gia Sự kiện ngẫu nhiên tại Vô nhân khu. Hắn chọn con đường an toàn hơn để kiếm 3 điểm vinh dự nhưng bị một nhóm thực thể quỷ dị truy đuổi.",
+      "key_events": [
+        "bắt_đầu_sự_kiện_ngẫu_nhiên",
+        "phân_tích_bản_đồ"
+      ],
+      "active_characters": [
+        "C001"
+      ],
+      "mood": "lonely / tense"
+    },
+    {
+      "chapter": 352,
+      "title": "Quỷ giáp và Quỷ binh",
+      "summary": "HTK thể hiện khả năng mới: hóa Quỷ khí thành khôi giáp và liềm để chiến đấu với đám quỷ nô. Hắn bị con quỷ trong quan tài truy đuổi gắt gao.",
+      "key_events": [
+        "dùng_Quỷ_giáp",
+        "dùng_Quỷ_binh"
+      ],
+      "active_characters": [
+        "C001"
+      ],
+      "mood": "action"
+    },
+    {
+      "chapter": 353,
+      "title": "Điểm đến",
+      "summary": "HTK dốc toàn lực tháo chạy khỏi con quỷ có thân thể bất hoại suốt 2 tiếng đồng hồ. Cuối cùng hắn cũng đến được địa điểm đánh dấu 3 điểm vinh dự.",
+      "key_events": [
+        "đến_địa_điểm_thưởng"
+      ],
+      "active_characters": [
+        "C001"
+      ],
+      "mood": "exhausted / relief"
+    },
+    {
+      "chapter": 354,
+      "title": "Bị phát hiện",
+      "summary": "HTK thám thính khu nhà tranh và bị một đứa trẻ quỷ phát hiện. Hắn buộc phải lộ diện và nói dối là bạn của một 'người khách' đang ở trong nhà.",
+      "key_events": [
+        "bị_đứa_trẻ_phát_hiện"
+      ],
+      "active_characters": [
+        "C001"
+      ],
+      "mood": "tense"
+    },
+    {
+      "chapter": 355,
+      "title": "Hợp tác",
+      "summary": "HTK gặp Vương Phúc, một chủ quản Đệ Nhị Minh Phủ. Cả hai thỏa thuận hợp tác nhưng ngầm đề phòng lẫn nhau. Vương Phúc giải thích quy tắc lấy điểm vinh dự.",
+      "key_events": [
+        "gặp_Vương_Phúc",
+        "thỏa_thuận_hợp_tác"
+      ],
+      "active_characters": [
+        "C001",
+        "C070"
+      ],
+      "mood": "suspense"
+    },
+    {
+      "chapter": 356,
+      "title": "Ăn cơm",
+      "summary": "Bữa cơm kinh hoàng với thịt người và nội tạng sống của gia đình quỷ. HTK và Vương Phúc phải chịu đựng áp lực cực lớn để không bị lộ mình không ăn thịt người.",
+      "key_events": [
+        "bữa_cơm_xác_người"
+      ],
+      "active_characters": [
+        "C001",
+        "C070"
+      ],
+      "mood": "horror"
+    },
+    {
+      "chapter": 357,
+      "title": "Gian trá",
+      "summary": "HTK dùng Mê hồn hương đánh thuốc mê Vương Phúc, trộm sạch hành lý và đạo cụ của gã. Hắn nhận ra Vương Phúc đã lừa mình về cách thức lấy điểm thưởng.",
+      "key_events": [
+        "đánh_thuốc_mê_Vương_Phúc",
+        "trộm_đồ"
+      ],
+      "active_characters": [
+        "C001",
+        "C070"
+      ],
+      "mood": "dark_humor / treachery"
+    },
+    {
+      "chapter": 358,
+      "title": "Đắc thủ",
+      "summary": "HTK tấn công con quỷ không đầu và đoạt được 3 điểm vinh dự thành công. Hắn tháo chạy khỏi sự truy đuổi của cả gia đình quỷ suốt 3 tiếng.",
+      "key_events": [
+        "đạt_được_3_điểm_vinh_dự",
+        "thoát_khỏi_vòng_vây"
+      ],
+      "active_characters": [
+        "C001"
+      ],
+      "mood": "action / success"
+    },
+    {
+      "chapter": 359,
+      "title": "Địa động",
+      "summary": "HTK tiến tới tọa độ 5 điểm vinh dự, bước vào một hang đất sâu kỳ quái. Hắn cảm nhận được có sự hiện diện âm thầm bám theo mình trong bóng tối.",
+      "key_events": [
+        "vào_địa_động",
+        "cảm_giác_bị_theo_dõi"
+      ],
+      "active_characters": [
+        "C001"
+      ],
+      "mood": "eerie / suspense"
+    },
+    {
+      "chapter": 360,
+      "title": "Rớt xuống nước",
+      "summary": "HTK bị thủy thảo siết cổ và kéo xuống đầm nước chết ngay khi mục tiêu chuyển đỏ. Hắn bị trói chặt như đòn bánh, rơi vào tình cảnh nghìn cân treo sợi tóc.",
+      "key_events": [
+        "rơi_xuống_hồ_nước_chết",
+        "bị_thủy_thảo_trói_chặt"
+      ],
+      "active_characters": [
+        "C001"
+      ],
+      "mood": "cliffhanger / life_threatening"
+    },
+    {
+      "batch": "34-2",
+      "chapters": "361-370",
+      "summary": "Hạ Thiên Kì thoát khỏi quỷ vật mọc tóc dưới đầm nước, đoạt được 5 điểm vinh dự (tổng cộng 8 điểm). Sau đó hắn đụng độ Sở Mộng Kì (sư muội của Lãnh Nguyệt) từ Đệ Nhất Minh Phủ. Cả hai tạm thời gác lại mâu thuẫn để hợp tác vượt qua Minh Nhật thôn - một dị không gian hiện đại nằm giữa Vô nhân khu. Tại đây, họ phải đối mặt với một cuộc tháo chạy quy mô lớn khỏi sự truy sát của con Lệ quỷ có thực lực tiệm cận Ác quỷ. Sau khi nấp trong một căn biệt thự và bày Khốn quỷ trận, họ đã bị các phân thân của con quỷ phát hiện."
+    },
+    {
+      "batch": "34-3",
+      "chapters": "371-380",
+      "summary": "Hạ Thiên Kì và Sở Mộng Kì kích hoạt Khốn quỷ trận thành công, thoát khỏi Minh Nhật thôn và trở về hiện thực. HTK nhận được 14 điểm vinh dự và đánh giá Ưu tú. Sau đó, hắn đến Tuyên Thành thăm Triệu Tĩnh Thù và gặp cha cô - Triệu Khai (một đại gia kín tiếng). Tại đây, họ phát hiện Triệu Khai đang bị gã đối thủ cạnh tranh (Mắt kính nam) uy hiếp bằng Huyết Cổ do một tên Cổ sư (Sư phụ của Mắt kính nam) hạ lệnh. HTK ra tay 'diệt khẩu' gã mắt kính sau khi tra khảo ra sự thật về việc bắt cóc 7 trinh nữ để hiến tế cho Cổ sư. HTK và Tĩnh Thù thâm nhập vào căn biệt thự kinh hoàng của tên Cổ sư, phát hiện cảnh tượng dã man và chuẩn bị cho trận chiến sinh tử."
+    },
+    {
+      "batch": "34-4",
+      "chapters": "381-390",
+      "summary": "Hạ Thiên Kì đột nhập phòng thí nghiệm ngầm của Cổ sư, chứng kiến tội ác kinh hoàng với quái vật bảy đầu được nuôi bằng xác phụ nữ. Hắn tiêu diệt toàn bộ nhóm Cổ sư, giải cứu các nạn nhân và đốt trụi căn biệt thự. Sau đó, HTK trở về Bắc An và phát hiện trận pháp bảo vệ tại nhà đang suy yếu. Một con búp bê ma (Quỷ oa oa) tấn công hắn ngay trong phòng ngủ. Nhờ sự can thiệp từ xa của ông nội, HTK thoát chết nhưng nhận được lời cảnh báo nghiêm trọng: 'Đừng quay về nhà cho tới khi ông trở lại'. HTK dùng 26 điểm vinh dự để cường hóa thực lực lên Lệ quỷ cấp 5 và Áp chế ác linh cấp 4 trước khi chuẩn bị đón tiếp các tân binh mới tại Tòa nhà văn phòng Hoàng Kim."
+    },
+    {
+      "batch": "34-5",
+      "chapters": "391-400",
+      "summary": "Hạ Thiên Kì bắt đầu vai trò Chủ quản tại Bắc An, tuyển dụng và sắp xếp nhiệm vụ thử việc cho 3 tân binh tại Tòa nhà Hân Hòa. Lãnh Nguyệt đến hỗ trợ khảo sát trận pháp tại nhà HTK và phát hiện sự tồn tại của 'con tiểu quỷ' mạo danh người mẹ làm trận nhãn. Trận pháp được cảnh báo chỉ còn trụ được khoảng 6 tháng. Sau đó, một vụ án linh dị kinh hoàng xảy ra tại Trường mẫu giáo Khai Tâm ở Bắc An: bé gái Vương Mỹ Đồng mất tích bí ẩn sau khi đi vệ sinh cùng Hoàng Tư Điềm – một đứa trẻ kỳ quái. Giám đốc Trâu, người đứng đầu trường, đã nhảy lầu tự sát do áp lực và tự trách. HTK và Lãnh Nguyệt chính thức can thiệp để điều tra thực hư về Hoàng Tư Điềm và vụ mất tích này."
+    },
+    {
+      "chapter": 401,
+      "title": "Liên can",
+      "summary": "Lãnh Nguyệt muốn điều tra vụ nhảy lầu tại trường Khai Tâm vì có quen biết viện trưởng. Hạ Thiên Kì bất ngờ nhận được điện thoại của bố, tiết lộ vị viện trưởng đã chết chính là bà dì của hắn (em gái ông nội). Cả hai quyết định ở lại điều tra và bắt đầu ngày mới tại chợ sớm Bắc An.",
+      "key_events": [
+        "Lãnh_Nguyệt_đề_nghị_điều_tra",
+        "bố_HTK_gọi_điện",
+        "tiết_lộ_họ_hàng_viện_trưởng"
+      ],
+      "active_characters": [
+        "C001",
+        "C010"
+      ],
+      "mood": "mysterious / surprise"
+    },
+    {
+      "chapter": 402,
+      "title": "Điều tra",
+      "summary": "Hạ Thiên Kì và Lãnh Nguyệt đến đồn cảnh sát quận Lệ Dương để điều tra. Họ gặp đồn trưởng Trình Hải Minh và biết được vụ án mất tích bí ẩn của bé Vương Mỹ Đồng tại một nhà vệ sinh công cộng khép kín. Video giám sát cho thấy bé đi vào cùng Hoàng Tư Điềm nhưng chỉ có Hoàng Tư Điềm đi ra. Cảnh sát tìm thấy vết máu của Vương Mỹ Đồng trên tường nhà vệ sinh. HTK bắt đầu nghi ngờ sự bất thường của Hoàng Tư Điềm.",
+      "key_events": [
+        "đến_đồn_cảnh_sát_Lệ_Dương",
+        "gặp_Trình_Hải_Minh",
+        "vụ_án_Vương_Mỹ_Đồng_mất_tích",
+        "phát_hiện_vết_máu_tại_hiện_trường"
+      ],
+      "active_characters": [
+        "C001",
+        "C010"
+      ],
+      "mood": "suspense / detective"
+    },
+    {
+      "chapter": 403,
+      "title": "Bữa cơm của ta tới rồi",
+      "summary": "Trình Hải Minh tiết lộ viện trưởng trường Khai Tâm chính là mẹ mình, khiến HTK nhận ra ông ta là họ hàng. HTK và Lãnh Nguyệt âm thầm điều tra Hoàng Tư Điềm. Tại nhà Hoàng Tư Điềm, cô bé lộ diện là một con quỷ dữ tợn với đôi mắt đỏ ngầu, chuyên ăn xác người và đang uy hiếp mẹ mình. Cô giáo Lý Tú đến thăm nhà và bị Hoàng Tư Điềm dụ dỗ vào trong, báo hiệu một nguy hiểm chết người.",
+      "key_events": [
+        "Trình_Hải_Minh_tiết_lộ_thân_phận",
+        "Hoàng_Tư_Điềm_lộ_diện_quỷ_nhân",
+        "Lý_Tú_đến_nhà_Hoàng_Tư_Điềm"
+      ],
+      "active_characters": [
+        "C001",
+        "C010",
+        "C094",
+        "C095"
+      ],
+      "mood": "horror / intense"
+    },
+    {
+      "chapter": 404,
+      "title": "Ăn rồi",
+      "summary": "Lý Tú thâm nhập vào nhà Hoàng Tư Điềm để tìm hiểu sự thật. Trong phòng ngủ tối tăm, Hoàng Tư Điềm thú nhận tội ác rùng rợn: nó đã giết và ăn thịt bé Vương Mỹ Đồng trong nhà vệ sinh vì cảm thấy bị làm phiền và đói. Chương kết thúc với hình ảnh Hoàng Tư Điềm lộ đôi mắt đỏ ngầu căm ghét nhìn Lý Tú, báo hiệu cái chết của cô giáo.",
+      "key_events": [
+        "Lý_Tú_thâm_nhập_nhà_Hoàng_Tư_Điềm",
+        "Hoàng_Tư_Điềm_thú_nhận_giết_người",
+        "tiết_lộ_cảnh_tượng_ăn_thịt_bé_Mỹ_Đồng"
+      ],
+      "active_characters": [
+        "C094",
+        "C095",
+        "C096"
+      ],
+      "mood": "horror / gruesome"
+    },
+    {
+      "chapter": 405,
+      "title": "Bủa vây nghi ngờ",
+      "summary": "Hoàng Tư Điềm sát hại và ăn thịt cô giáo Lý Tú một cách dã man ngay tại phòng ngủ, trong khi mẹ nó ngồi bất lực ngoài phòng khách. Vương Thành, người đi cùng Lý Tú, lo lắng đi lên tìm cô sau một thời gian dài mất liên lạc. Tại đồn cảnh sát, HTK và Lãnh Nguyệt tra ra lý lịch của hai mẹ con Hoàng Văn và Hoàng Tư Điềm đến từ Trinh Giang, đồng thời triển khai lực lượng điều tra hàng xóm và nơi làm việc của họ.",
+      "key_events": [
+        "Hoàng_Tư_Điềm_ăn_thịt_Lý_Tú",
+        "Vương_Thành_đi_lên_tìm_Lý_Tú",
+        "HTK_tra_lý_lịch_Hoàng_Văn"
+      ],
+      "active_characters": [
+        "C001",
+        "C010",
+        "C094",
+        "C095",
+        "C096",
+        "C097"
+      ],
+      "mood": "horror / investigative"
+    },
+    {
+      "chapter": 406,
+      "title": "Vương Thành",
+      "summary": "Vương Thành xông vào nhà Hoàng Văn để tìm Lý Tú nhưng không thấy dấu vết do Hoàng Tư Điềm đã ăn sạch Lý Tú và cả điện thoại của cô. Hoàng Văn lừa được Vương Thành rời đi, nhưng Vương Thành vẫn nghi ngờ và nghe lén ngoài cửa. Hoàng Tư Điềm phát hiện và đòi giết Vương Thành. Vương Thành sau đó rời đi để đến căn hộ của Lý Tú kiểm tra.",
+      "key_events": [
+        "Vương_Thành_xông_vào_nhà_Hoàng_Văn",
+        "Hoàng_Văn_nói_dối_về_Lý_Tú",
+        "Hoàng_Tư_Điềm_ăn_điện_thoại_Lý_Tú",
+        "Hoàng_Tư_Điềm_đòi_giết_Vương_Thành"
+      ],
+      "active_characters": [
+        "C094",
+        "C096",
+        "C097"
+      ],
+      "mood": "tense / suspense"
+    },
+    {
+      "chapter": 407,
+      "title": "Quỷ Anh",
+      "summary": "Cảnh sát báo cáo về sự cô độc và năng lực làm việc mạnh mẽ của Hoàng Văn tại nơi làm việc. Hồ sơ từ Trinh Giang tiết lộ Hoàng Văn liên quan đến hàng loạt vụ mất tích quỷ dị (bảo mẫu, y tá, bác sĩ sản khoa) khi sinh hạ Hoàng Tư Điềm. Lãnh Nguyệt đưa ra khái niệm Quỷ Anh - một loại quỷ vật thiên bẩm sinh ra từ bụng người, ăn phôi thai gốc để lớn lên. HTK nhận thấy sự tương đồng rùng mình với sự ra đời của chính mình.",
+      "key_events": [
+        "Cảnh_sát_báo_cáo_kết_quả_điều_tra_về_Hoàng_Văn",
+        "Lãnh_Nguyệt_giải_thích_về_Quỷ_Anh",
+        "Tiết_lộ_lai_lịch_quỷ_dị_của_Sư_Điềm_tại_Trinh_Giang"
+      ],
+      "active_characters": [
+        "C001",
+        "C010",
+        "C092"
+      ],
+      "mood": "mysterious / investigative"
+    },
+    {
+      "chapter": 408,
+      "title": "Xác định",
+      "summary": "HTK và Lãnh Nguyệt chuẩn bị hành động bắt giữ mẹ con Hoàng Văn vào chiều tối. HTK nảy sinh băn khoăn về ký ức ra đời của mình khi nghe Lãnh Nguyệt giải thích sự khác biệt giữa Ác Linh thể chất và Quỷ Anh. Trong khi đó, Vương Thành về nhà ăn uống sau một ngày tìm kiếm Lý Tú trong vô vọng. Hoàng Tư Điềm đột ngột xuất hiện tại nhà Vương Thành, bộc lộ bộ mặt ác quỷ và cắn đứt cánh tay của anh.",
+      "key_events": [
+        "HTK_băn_khoăn_về_nguồn_gốc_bản_thân",
+        "Hoàng_Tư_Điềm_tấn_công_Vương_Thành",
+        "Vương_Thành_bị_cắn_đứt_cánh_tay"
+      ],
+      "active_characters": [
+        "C001",
+        "C010",
+        "C094",
+        "C097"
+      ],
+      "mood": "horror / mystery"
+    },
+    {
+      "chapter": 409,
+      "title": "Uy hiếp",
+      "summary": "Hoàng Tư Điềm sát hại và ăn thịt Vương Thành ngay tại nhà riêng của anh, đồng thời thừa nhận đã ăn thịt Lý Tú. Trong khi đó, HTK và Lãnh Nguyệt thâm nhập nhà Hoàng Văn bằng thẻ cảnh sát giả và đối chất trực diện. Hoàng Văn cuối cùng thừa nhận con gái mình chỉ ăn thịt người để tồn tại và cảnh báo nhóm HTK nên rời đi trước khi nó quay lại.",
+      "key_events": [
+        "Hoàng_Tư_Điềm_sát_hại_Vương_Thành",
+        "HTK_và_Lãnh_Nguyệt_đối_chất_với_Hoàng_Văn",
+        "Hoàng_Văn_thừa_nhận_con_gái_ăn_thịt_người"
+      ],
+      "active_characters": [
+        "C001",
+        "C010",
+        "C094",
+        "C096",
+        "C097"
+      ],
+      "mood": "horror / tense"
+    },
+    {
+      "chapter": 410,
+      "title": "Đản sinh",
+      "summary": "Hoàng Văn kể lại quá khứ bị hãm hại sau tiệc tốt nghiệp, dẫn đến việc mang thai ngoài ý muốn. Dù đau đớn, bà vẫn quyết định giữ lại đứa trẻ. Hoàng Tư Điềm sinh ra với đôi mắt đỏ ngầu, không bú sữa mẹ và biết nói 'Con đói' chỉ sau vài ngày chào đời, bộc lộ ác ý khiến bác sĩ kinh hãi.",
+      "key_events": [
+        "Hoàng_Văn_kể_lại_quá_khứ_bị_hãm_hại",
+        "Hoàng_Tư_Điềm_chào_đời_với_đôi_mắt_đỏ",
+        "Hoàng_Tư_Điềm_biết_nói_sau_vài_ngày_sinh"
+      ],
+      "active_characters": [
+        "C001",
+        "C010",
+        "C094",
+        "C096"
+      ],
+      "mood": "tragic / mysterious"
+    }
+  ],
+  "plot_threads": [
+    {
+      "thread_id": "PT001",
+      "name": "Hệ thống thử việc của Công ty",
+      "status": "completed",
+      "started_chapter": 1,
+      "ended_chapter": 41,
+      "involved_characters": [
+        "C001",
+        "C006",
+        "C007"
+      ],
+      "description": "Giai đoạn thử việc của Hạ Thiên Kì. Đã kết thúc khi anh chính thức chuyển sang nhân viên chính thức."
+    },
+    {
+      "thread_id": "PT002",
+      "name": "Bí ẩn cái chết Vương Di Nhiên",
+      "status": "completed",
+      "started_chapter": 16,
+      "ended_chapter": 37,
+      "involved_characters": [
+        "C001",
+        "C011"
+      ],
+      "description": "Nhiệm vụ tại Học viện Tề Hà đã hoàn thành."
+    },
+    {
+      "thread_id": "PT003",
+      "name": "Sự nghiệp tại Tam Đệ Minh Phủ",
+      "status": "active",
+      "started_chapter": 42,
+      "involved_characters": [
+        "C001",
+        "C021",
+        "C022",
+        "C023"
+      ],
+      "description": "Quá trình làm việc, cường hóa bản thân và tham gia các sự kiện của công ty với tư cách nhân viên chính thức."
+    },
+    {
+      "thread_id": "PT004",
+      "name": "Nguồn gốc gia đình Hạ Thiên Kì",
+      "status": "active",
+      "started_chapter": 5,
+      "involved_characters": [
+        "C001"
+      ],
+      "description": "Ông ngoại là Thầy âm dương (Lão Ngoan Đồng), gia đình có nền tảng siêu nhiên. Mẹ gửi Túi Càn Khôn."
+    },
+    {
+      "thread_id": "PT005",
+      "name": "Sự kiện thôn Hồ Lô",
+      "status": "completed",
+      "started_chapter": 51,
+      "involved_characters": [
+        "C001",
+        "C010",
+        "C025",
+        "C027"
+      ],
+      "description": "Nhiệm vụ chính thức đầu tiên tại một ngôi làng hẻo lánh liên quan đến cái chết của Tiểu Lệ và những sự kiện linh dị tại nhà Trần Lão Đại.",
+      "ended_chapter": 87
+    },
+    {
+      "thread_id": "PT006",
+      "name": "Cái chết của nhóm bạn đại học",
+      "status": "active",
+      "started_chapter": 91,
+      "ended_chapter": null,
+      "involved_characters": [
+        "C001",
+        "C038",
+        "C039",
+        "C040",
+        "C041"
+      ],
+      "description": "Dương Thư Thành bị Lý Xương Dã sát hại trong cơn hoang tưởng. Sau đó, Lý Xương Dã tự sát kinh hoàng ngay tại đồn cảnh sát. HTK nghi ngờ có yếu tố linh dị đứng sau."
+    },
+    {
+      "thread_id": "PT007",
+      "name": "Sự kiện Chung cư Thanh Niên",
+      "status": "completed",
+      "started_chapter": 247,
+      "ended_chapter": 270,
+      "involved_characters": [
+        "C001",
+        "C061",
+        "C062",
+        "C063",
+        "C064"
+      ],
+      "description": "Nhiệm vụ tại Chung cư Thanh Niên. Một con quỷ dung hợp 3 thực thể phong tỏa cả tòa nhà. Hạ Thiên Kỳ đã phải dùng cư dân làm mồi nhử để tìm đường sống. Kết thúc sau khi quỷ tiến hóa lên Lệ Quỷ, cả nhóm chỉ còn Vương Tang Du và HTK sống sót."
+    },
+    {
+      "thread_id": "PT008",
+      "name": "Sự kiện Biệt thự ma ám",
+      "status": "completed",
+      "started_chapter": 120,
+      "ended_chapter": 145,
+      "involved_characters": [
+        "C001",
+        "C010"
+      ],
+      "description": "Nhiệm vụ điều tra biệt thự có quỷ sơ sinh tạo ảo giác cầu thang vô tận. HTK và Lãnh Nguyệt hợp tác đối phó ảo mộng ám ảnh."
+    },
+    {
+      "thread_id": "PT009",
+      "name": "Sự kiện Thôn Tử Dục & Tính sổ Từ Thiên Hoa",
+      "status": "completed",
+      "started_chapter": 150,
+      "ended_chapter": 204,
+      "involved_characters": [
+        "C001",
+        "C010",
+        "C006",
+        "C007"
+      ],
+      "description": "Nhiệm vụ tiêu diệt Thực Thi Quỷ (Quỷ ăn xác). Từ Thiên Hoa lợi dụng sự kiện để gài bẫy Lãnh Nguyệt và HTK nhằm tiêu diệt mầm mống phản loạn. Tuy nhiên, quỷ vật quá mạnh khiến Từ bị trọng thương bất tỉnh, HTK nhân cơ hội trả đũa tàn khốc."
+    },
+    {
+      "thread_id": "PT010",
+      "name": "Sự kiện Lột da tại Tuyên Thành",
+      "status": "completed",
+      "started_chapter": 205,
+      "ended_chapter": 245,
+      "involved_characters": [
+        "C001",
+        "C050",
+        "C051"
+      ],
+      "description": "HTK và Triệu Tĩnh Thù điều tra vụ án lột da kinh hoàng liên đới nhiều nạn nhân tại Tuyên Thành do Bàng Hải Húc ủy thác. Kết thúc khi Ngô Địch và Lương Nhược Vân (lãnh đạo) đến hỗ trợ giải quyết quỷ vật cấp cao."
+    },
+    {
+      "thread_id": "PT011",
+      "name": "Hội nghị thường niên Minh Phủ",
+      "status": "active",
+      "started_chapter": 272,
+      "involved_characters": [
+        "C001",
+        "C010",
+        "C023",
+        "C050",
+        "C060",
+        "C052",
+        "C007"
+      ],
+      "description": "Sự kiện tụ họp lớn nhất năm của ba Minh Phủ. Tiết lộ về thế giới quan rộng lớn, sự cạnh tranh giữa các thế lực và những bí mật đằng sau quyền lực của các Cao cấp chủ quản."
+    }
+  ],
+  "world_building": {
+    "_note": "Chi tiết worldbuilding đã chuyển sang worldbuilding.json (v2.0)",
+    "power_system": "Siêu nhiên — quỷ hồn, bùa chú, trận pháp",
+    "setting": "Thành phố Phúc Bình, Trung Quốc hiện đại"
+  }
+}

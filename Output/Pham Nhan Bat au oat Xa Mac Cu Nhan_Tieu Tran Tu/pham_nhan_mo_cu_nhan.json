@@ -1,0 +1,21 @@
+{
+  "project_identity": {
+    "name": "Pham Nhan Bat Dau Tu Mo Cu Nhan",
+    "codename": "PHAM_NHAN_MO_CU_NHAN",
+    "version": "1.0.0",
+    "type": "translation_project",
+    "description": "Project dịch thuật đồng thời sáng tác fanfiction Phàm Nhân Tu Tiên, bắt đầu từ Mặc Cư Nhân."
+  },
+  "tech_stack": {
+    "engine": "Translation Engine v2.0",
+    "format": "Markdown",
+    "language_pair": "zh-vi",
+    "genre": "eastern_fiction",
+    "sub_genre": "xianxia"
+  },
+  "rules": [
+    "Tuân thủ triệt để Hán-Việt cho thuật ngữ tu tiên",
+    "Xưng hô linh hoạt theo cấp bậc và tình cảm (Hybrid Pronoun Mode)",
+    "Hậu kỳ Scan và Reflection bắt buộc sau mỗi chương"
+  ]
+}

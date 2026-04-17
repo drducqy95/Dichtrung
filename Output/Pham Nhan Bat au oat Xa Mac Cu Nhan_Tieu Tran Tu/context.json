@@ -1,0 +1,58 @@
+{
+  "work_title": "Pham Nhan Bat Dau Tu Mo Cu Nhan",
+  "genre": "eastern_fiction",
+  "tone": "Calculating, Fast-paced, Xianxia",
+  "global_themes": [
+    "Bloodline Transformation",
+    "Mortal Journey Fanfic",
+    "Survival"
+  ],
+  "current_arc": "Qi Xuan Men Origins",
+  "chapter_summaries": [
+    {
+      "chapter": 1,
+      "summary": "Người xuyên không nhập hồn vào Mặc đại phu. Phát hiện hệ thống Huyết mạch chuyển hóa lô từ game mobile. Quyết định không tranh đoạt Tiểu lục bình của Hàn Lập mà đi theo con đường luyện huyết."
+    },
+    {
+      "chapter": 2,
+      "summary": "Mặc Cư Nhân cùng Thiết nô đến dãy núi Bích Ngọc tìm linh dược. Chạm trán và giết chết Bích Lân Mãng (bán yêu thú). Lần đầu tiên thu thập được mẫu máu yêu thú cho hệ thống."
+    },
+    {
+      "chapter": 3,
+      "summary": "Mặc Cư Nhân thu thập xong tài liệu cự mãng, trở về Thần Thủ Cốc. Bắt đầu tính kế dùng Hàn Lập để thúc chín Thanh Ngọc Quả. Hàn Lập cảm nhận được sự thay đổi của Mặc sư khi ngũ quan đạt đến tầng 4 Trường Xuân Công."
+    },
+    {
+      "chapter": 4,
+      "summary": "Mặc Cư Nhân giả vờ rời thung lũng để Hàn Lập buông lỏng cảnh giác. Hàn Lập tìm thấy Trường Sinh Kinh (Trường Xuân Công) và đơn thuốc Thanh Linh Đan, sau đó dùng Tiểu Lục Bình thúc chín Quả Thanh Ngọc. Mặc Cư Nhân đột ngột trở về lúc nửa đêm."
+    },
+    {
+      "chapter": 5,
+      "summary": "Mặc Cư Nhân sử dụng Huyết Mạch Chuyển Hóa Lô để luyện hóa linh hồn Dư Tử Đồng. Lão cũng công khai sự thật về tu tiên giới, Trường Xuân Công và âm mưu đoạt xá của Dư Tử Đồng cho Hàn Lập biết."
+    },
+    {
+      "chapter": 6,
+      "summary": "Hàn Lập chính thức bái Mặc Cư Nhân làm sư phụ một lần nữa (đệ tử thân truyền). Mặc Cư Nhân dung hợp thành công huyết mạch Bích Lân Mãng, nắm giữ Kinh Gai Thuật và bắt đầu quá trình tẩy tủy phạt cốt. Tiết lộ về Huyết Tiễn Âm Hồn Chú."
+    }
+  ],
+  "plot_threads": [
+    {
+      "id": "pt_001",
+      "name": "Mặc Cư Nhân's Survival",
+      "description": "Mo needs to heal his body using the Bloodline Furnace."
+    },
+    {
+      "id": "pt_002",
+      "name": "Han Li's Growth",
+      "description": "Following/Subverting Han Li's growth in Qi Xuan Men."
+    }
+  ],
+  "world_building": {
+    "locations": [
+      "彩霞山 (Thái Hà sơn)",
+      "神手谷 (Thần Thủ cốc)"
+    ],
+    "sects": [
+      "七玄门 (Thất Huyền môn)"
+    ]
+  }
+}

@@ -1,0 +1,3110 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "source_language": "zh",
+    "target_language": "vi",
+    "last_updated": "2026-04-17T08:53:41+07:00",
+    "total_entries": 309,
+    "source_projects": [
+      "Ac Linh Quoc Gia",
+      "Hong Hoang Lich_Zhttty",
+      "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "Sieu Duy Thuat Si_Muc Ho",
+      "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han"
+    ],
+    "description": "Tổng hợp thuật ngữ dịch thuật từ TẤT CẢ project branch trong repo Dichtrung"
+  },
+  "entries": [
+    {
+      "id": "GTERM_0001",
+      "source_term": "鑫华大书店",
+      "target_term": "Hiệu sách lớn Tân Hoa",
+      "category": "proper_names_cn",
+      "source_project": "Ac Linh Quoc Gia",
+      "confidence": "high",
+      "notes": "Location: Large bookstore where the trial takes place",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0002",
+      "source_term": "平安街",
+      "target_term": "Phố Bình An",
+      "category": "proper_names_cn",
+      "source_project": "Ac Linh Quoc Gia",
+      "confidence": "high",
+      "notes": "Location: Street where the bookstore is located",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0003",
+      "source_term": "福平市",
+      "target_term": "Thành phố Phúc Bình",
+      "category": "proper_names_cn",
+      "source_project": "Ac Linh Quoc Gia",
+      "confidence": "high",
+      "notes": "Location: Setting of the story",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0004",
+      "source_term": "阴阳先生",
+      "target_term": "Thầy âm dương",
+      "category": "supernatural_terms",
+      "source_project": "Ac Linh Quoc Gia",
+      "confidence": "high",
+      "notes": "Folklore: A master of Yin and Yang, dealing with ghosts and rituals",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0005",
+      "source_term": "跳闸",
+      "target_term": "Nhảy cầu dao",
+      "category": "technical_terms",
+      "source_project": "Ac Linh Quoc Gia",
+      "confidence": "high",
+      "notes": "Electrical: Circuit breaker tripping",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0006",
+      "source_term": "鬼玉",
+      "target_term": "Quỷ Ngọc",
+      "category": "supernatural_terms",
+      "source_project": "Ac Linh Quoc Gia",
+      "confidence": "high",
+      "notes": "Item: A protective jade amulet given by the protagonist's grandfather",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0007",
+      "source_term": "乾坤袋",
+      "target_term": "Túi Càn Khôn",
+      "category": "supernatural_terms",
+      "source_project": "Ac Linh Quoc Gia",
+      "confidence": "high",
+      "notes": "Item: A bag containing various protective amulets and charms",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0008",
+      "source_term": "老顽童",
+      "target_term": "Lão Ngoan Đồng",
+      "category": "proper_names_cn",
+      "source_project": "Ac Linh Quoc Gia",
+      "confidence": "high",
+      "notes": "Character Nickname: protagonist's grandfather's nickname",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0009",
+      "source_term": "海公公",
+      "target_term": "Hải Công Công",
+      "category": "proper_names_cn",
+      "source_project": "Ac Linh Quoc Gia",
+      "confidence": "high",
+      "notes": "Character Nickname: protagonist's friend",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0010",
+      "source_term": "孙龙",
+      "target_term": "Tôn Long",
+      "category": "proper_names_cn",
+      "source_project": "Ac Linh Quoc Gia",
+      "confidence": "high",
+      "notes": "Character Name: protagonist's friend",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0011",
+      "source_term": "四方阵",
+      "target_term": "Tứ Phương Trận",
+      "category": "supernatural_terms",
+      "source_project": "Ac Linh Quoc Gia",
+      "confidence": "high",
+      "notes": "Supernatural Technique: A defensive/trapping array used by the recruiter",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0012",
+      "source_term": "四方火笼",
+      "target_term": "Tứ Phương Hỏa Lung",
+      "category": "supernatural_terms",
+      "source_project": "Ac Linh Quoc Gia",
+      "confidence": "high",
+      "notes": "Supernatural Technique: A fiery cage formed by the Tứ Phương Trận",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0013",
+      "source_term": "徐天华",
+      "target_term": "Từ Thiên Hoa",
+      "category": "proper_names_cn",
+      "source_project": "Ac Linh Quoc Gia",
+      "confidence": "high",
+      "notes": "Character Name: The middle-aged uncle (char_006)",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0014",
+      "source_term": "梁若芸",
+      "target_term": "Lương Nhược Vân",
+      "category": "proper_names_cn",
+      "source_project": "Ac Linh Quoc Gia",
+      "confidence": "high",
+      "notes": "Character Name: Advanced Manager of the company (char_007)",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0015",
+      "source_term": "齐河女子学院",
+      "target_term": "Học viện nữ sinh Tề Hà",
+      "category": "proper_names_cn",
+      "source_project": "Ac Linh Quoc Gia",
+      "confidence": "high",
+      "notes": "Location: Setting of the second trial",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0016",
+      "source_term": "韩熙元",
+      "target_term": "Hàn Hi Nguyên",
+      "category": "proper_names_cn",
+      "source_project": "Ac Linh Quoc Gia",
+      "confidence": "high",
+      "notes": "Character Name: Newcomer in the second trial (char_008)",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0017",
+      "source_term": "李笑笑",
+      "target_term": "Lý Tiếu Tiếu",
+      "category": "proper_names_cn",
+      "source_project": "Ac Linh Quoc Gia",
+      "confidence": "high",
+      "notes": "Character Name: Newcomer in the second trial (char_009)",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0018",
+      "source_term": "冷月",
+      "target_term": "Lãnh Nguyệt",
+      "category": "proper_names_cn",
+      "source_project": "Ac Linh Quoc Gia",
+      "confidence": "high",
+      "notes": "Character Name: Newcomer in the second trial (char_010)",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0019",
+      "source_term": "王怡然",
+      "target_term": "Vương Di Nhiên",
+      "category": "proper_names_cn",
+      "source_project": "Ac Linh Quoc Gia",
+      "confidence": "high",
+      "notes": "Character Name: Victim of the suicide incident (char_011)",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0020",
+      "source_term": "头七回魂夜",
+      "target_term": "Đêm hồi hồn đầu thất",
+      "category": "supernatural_terms",
+      "source_project": "Ac Linh Quoc Gia",
+      "confidence": "high",
+      "notes": "Folklore: The 7th day after death when the soul returns.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0021",
+      "source_term": "水鬼",
+      "target_term": "Thủy quỷ",
+      "category": "supernatural_terms",
+      "source_project": "Ac Linh Quoc Gia",
+      "confidence": "high",
+      "notes": "Entity: A water ghost that dehydrates victims.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0022",
+      "source_term": "干尸",
+      "target_term": "Xác khô",
+      "category": "supernatural_terms",
+      "source_project": "Ac Linh Quoc Gia",
+      "confidence": "high",
+      "notes": "Entity/State: A dehydrated corpse or 'human jerky'.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0023",
+      "source_term": "辣条",
+      "target_term": "Lạt điều",
+      "category": "food_terms",
+      "source_project": "Ac Linh Quoc Gia",
+      "confidence": "high",
+      "notes": "Snack: Spicy strips, a popular Chinese snack used by HTK to calm down.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0024",
+      "source_term": "老坟岗",
+      "target_term": "Lão Phần Cương",
+      "category": "proper_names_cn",
+      "source_project": "Ac Linh Quoc Gia",
+      "confidence": "high",
+      "notes": "Location: Old cemetery of Hulu Village where Xu Chong was killed.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0025",
+      "source_term": "徐冲",
+      "target_term": "Từ Xung",
+      "category": "proper_names_cn",
+      "source_project": "Ac Linh Quoc Gia",
+      "confidence": "high",
+      "notes": "Character Name: Xiao Li's lover, murdered by Chen Laoda.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0026",
+      "source_term": "陈全良",
+      "target_term": "Trần Toàn Lương",
+      "category": "proper_names_cn",
+      "source_project": "Ac Linh Quoc Gia",
+      "confidence": "high",
+      "notes": "Character Name: Real name of Trần Lão Đại (Chen Laoda).",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0027",
+      "source_term": "天眼",
+      "target_term": "Thiên Nhãn",
+      "category": "supernatural_terms",
+      "source_project": "Ac Linh Quoc Gia",
+      "confidence": "high",
+      "notes": "Ability: Heaven's Eye used by Lãnh Nguyệt to see ghosts.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0028",
+      "source_term": "困鬼阵",
+      "target_term": "Khốn Quỷ Trận",
+      "category": "supernatural_terms",
+      "source_project": "Ac Linh Quoc Gia",
+      "confidence": "high",
+      "notes": "Technique: Ghost-trapping array.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0029",
+      "source_term": "困鬼符",
+      "target_term": "Khốn Quỷ Phù",
+      "category": "supernatural_terms",
+      "source_project": "Ac Linh Quoc Gia",
+      "confidence": "high",
+      "notes": "Item: Ghost-trapping talisman.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0030",
+      "source_term": "驱鬼师",
+      "target_term": "Khu quỷ sư",
+      "category": "supernatural_terms",
+      "source_project": "Ac Linh Quoc Gia",
+      "confidence": "high",
+      "notes": "Role: Exorcist, like Lãnh Nguyệt.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0031",
+      "source_term": "恶灵体质",
+      "target_term": "Ác Linh Thể Chất",
+      "category": "supernatural_terms",
+      "source_project": "Ac Linh Quoc Gia",
+      "confidence": "high",
+      "notes": "Ability: Evil Spirit Constitution possessed by HTK.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0032",
+      "source_term": "第三冥府",
+      "target_term": "Đệ Tam Minh Phủ",
+      "category": "proper_names_cn",
+      "source_project": "Ac Linh Quoc Gia",
+      "confidence": "high",
+      "notes": "Faction: The real name of the Company HTK works for.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0033",
+      "source_term": "完美级评分",
+      "target_term": "Hoàn mỹ bình phân",
+      "category": "terminology",
+      "source_project": "Ac Linh Quoc Gia",
+      "confidence": "high",
+      "notes": "System: Perfect grade mission rating.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0034",
+      "source_term": "北安",
+      "target_term": "Bắc An",
+      "category": "proper_names_cn",
+      "source_project": "Ac Linh Quoc Gia",
+      "confidence": "high",
+      "notes": "Location: HTK's hometown.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0035",
+      "source_term": "曹金海",
+      "target_term": "Tào Kim Hải",
+      "category": "proper_names_cn",
+      "source_project": "Ac Linh Quoc Gia",
+      "confidence": "high",
+      "notes": "Character Name: HTK's college roommate",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0036",
+      "source_term": "杨书成",
+      "target_term": "Dương Thư Thành",
+      "category": "proper_names_cn",
+      "source_project": "Ac Linh Quoc Gia",
+      "confidence": "high",
+      "notes": "Character Name: HTK's college roommate",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0037",
+      "source_term": "李昌野",
+      "target_term": "Lý Xương Dã",
+      "category": "proper_names_cn",
+      "source_project": "Ac Linh Quoc Gia",
+      "confidence": "high",
+      "notes": "Character Name: HTK's college roommate",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0038",
+      "source_term": "许小婉",
+      "target_term": "Hứa Tiểu Uyển",
+      "category": "proper_names_cn",
+      "source_project": "Ac Linh Quoc Gia",
+      "confidence": "high",
+      "notes": "Character Name: Dương Thư Thành's girlfriend",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0039",
+      "source_term": "镇北市",
+      "target_term": "Thành phố Trấn Bắc",
+      "category": "proper_names_cn",
+      "source_project": "Ac Linh Quoc Gia",
+      "confidence": "high",
+      "notes": "Location: Hometown of Cao Jinhai",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0040",
+      "source_term": "万族",
+      "target_term": "Vạn tộc",
+      "category": "worldbuilding",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0041",
+      "source_term": "筑基",
+      "target_term": "Trúc cơ",
+      "category": "cultivation",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0042",
+      "source_term": "金丹期",
+      "target_term": "Kim đan kỳ",
+      "category": "cultivation",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0043",
+      "source_term": "真元力",
+      "target_term": "Chân nguyên lực",
+      "category": "cultivation",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0044",
+      "source_term": "符文",
+      "target_term": "Phù văn",
+      "category": "proper_names_cn",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0045",
+      "source_term": "奥术师",
+      "target_term": "Áo thuật sư",
+      "category": "proper_names_cn",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0046",
+      "source_term": "地精族",
+      "target_term": "Địa tinh tộc",
+      "category": "worldbuilding",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0047",
+      "source_term": "龙族",
+      "target_term": "Long tộc",
+      "category": "worldbuilding",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0048",
+      "source_term": "洪荒世界",
+      "target_term": "Hồng Hoang Thế Giới",
+      "category": "worldbuilding",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0049",
+      "source_term": "玄黄舰",
+      "target_term": "Huyền Hoàng hạm",
+      "category": "worldbuilding",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0050",
+      "source_term": "玄黄",
+      "target_term": "Huyền Hoàng",
+      "category": "worldbuilding",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0051",
+      "source_term": "高阶",
+      "target_term": "Cao giai",
+      "category": "cultivation",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0052",
+      "source_term": "昊天",
+      "target_term": "Hạo Thiên",
+      "category": "worldbuilding",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0053",
+      "source_term": "基因锁",
+      "target_term": "Gien Tỏa",
+      "category": "cultivation",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0054",
+      "source_term": "记录员",
+      "target_term": "Ký lục viên",
+      "category": "worldbuilding",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0055",
+      "source_term": "历史真文",
+      "target_term": "Lịch sử Chân văn",
+      "category": "worldbuilding",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0056",
+      "source_term": "圣位",
+      "target_term": "Thánh vị",
+      "category": "cultivation",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0057",
+      "source_term": "内宇宙",
+      "target_term": "Nội vũ trụ",
+      "category": "cultivation",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0058",
+      "source_term": "永夜",
+      "target_term": "Vĩnh Dạ",
+      "category": "event",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0059",
+      "source_term": "最初主神空间",
+      "target_term": "Tối sơ Chủ Thần Không Gian",
+      "category": "worldbuilding",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0060",
+      "source_term": "主神空间",
+      "target_term": "Chủ Thần Không Gian",
+      "category": "worldbuilding",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0061",
+      "source_term": "分则为圣，合则封神",
+      "target_term": "Phân tắc vi Thánh, hợp tắc Phong Thần",
+      "category": "quote",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0062",
+      "source_term": "魂穿",
+      "target_term": "Hồn xuyên",
+      "category": "concept",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0063",
+      "source_term": "太清学府",
+      "target_term": "Thái Thanh học phủ",
+      "category": "worldbuilding",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0064",
+      "source_term": "玉清学府",
+      "target_term": "Ngọc Thanh học phủ",
+      "category": "worldbuilding",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0065",
+      "source_term": "上清学府",
+      "target_term": "Thượng Thanh học phủ",
+      "category": "worldbuilding",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0066",
+      "source_term": "钻木取火",
+      "target_term": "Toản mộc thủ hỏa",
+      "category": "action",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0067",
+      "source_term": "基础算术",
+      "target_term": "Thuật thuật cơ sở",
+      "category": "cultivation",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0068",
+      "source_term": "算法",
+      "target_term": "Thuật thuật",
+      "category": "cultivation",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0069",
+      "source_term": "青灰色巨狼",
+      "target_term": "Thanh hôi cự lang",
+      "category": "creature",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0070",
+      "source_term": "孤狼",
+      "target_term": "Cô lang",
+      "category": "creature",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0071",
+      "source_term": "二阶基因锁",
+      "target_term": "Nhị giai Gien Tỏa",
+      "category": "cultivation",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0072",
+      "source_term": "光辉之战",
+      "target_term": "Quang Huy Chi Chiến",
+      "category": "event",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0073",
+      "source_term": "光辉阵营",
+      "target_term": "Trận doanh Quang Huy",
+      "category": "worldbuilding",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0074",
+      "source_term": "漆黑阵营",
+      "target_term": "Trận doanh Tất Hắc",
+      "category": "worldbuilding",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0075",
+      "source_term": "炽天使",
+      "target_term": "Xí Thiên Sứ",
+      "category": "creature",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0076",
+      "source_term": "召人",
+      "target_term": "Triệu nhân",
+      "category": "action",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0077",
+      "source_term": "西兰之城",
+      "target_term": "Thành phố Tây Lan",
+      "category": "location",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0078",
+      "source_term": "永嘉之乱",
+      "target_term": "Biến loạn Vĩnh Gia",
+      "category": "event",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0079",
+      "source_term": "杀晋令",
+      "target_term": "Sát Tấn lệnh",
+      "category": "event",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0080",
+      "source_term": "坞堡",
+      "target_term": "Ổ bảo",
+      "category": "location",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0081",
+      "source_term": "风鼠",
+      "target_term": "Phong Thử",
+      "category": "creature",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0082",
+      "source_term": "主神空间广场",
+      "target_term": "Quảng trường Chủ Thần Không Gian",
+      "category": "location",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0083",
+      "source_term": "上清战拳",
+      "target_term": "Thượng Thanh Chiến Quyền",
+      "category": "cultivation",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0084",
+      "source_term": "支线剧情",
+      "target_term": "Chi tuyến kịch tình",
+      "category": "action",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0085",
+      "source_term": "位面之子",
+      "target_term": "Vị diện chi tử",
+      "category": "worldbuilding",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0086",
+      "source_term": "第四天灾",
+      "target_term": "Đệ tứ thiên tai",
+      "category": "worldbuilding",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0087",
+      "source_term": "上清诛仙功",
+      "target_term": "Thượng Thanh Tru Tiên Công",
+      "category": "cultivation",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0088",
+      "source_term": "冰心功",
+      "target_term": "Băng Tâm Công",
+      "category": "cultivation",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0089",
+      "source_term": "汲取",
+      "target_term": "Hấp thụ",
+      "category": "action",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0090",
+      "source_term": "集中",
+      "target_term": "Tập trung",
+      "category": "action",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0091",
+      "source_term": "控制",
+      "target_term": "Khống chế",
+      "category": "action",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0092",
+      "source_term": "爆发",
+      "target_term": "Bộc phát",
+      "category": "action",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0093",
+      "source_term": "明犯强汉者，虽远必诛",
+      "target_term": "Kẻ nào xâm phạm cường Hán, dù xa cũng phải diệt",
+      "category": "lore",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0094",
+      "source_term": "水运诀",
+      "target_term": "Thủy Vận Quyết",
+      "category": "cultivation",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0095",
+      "source_term": "气感",
+      "target_term": "Khí cảm",
+      "category": "cultivation",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0096",
+      "source_term": "圣人",
+      "target_term": "Thánh nhân",
+      "category": "lore",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0097",
+      "source_term": "仙人",
+      "target_term": "Tiên nhân",
+      "category": "lore",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0098",
+      "source_term": "彩霞山",
+      "target_term": "Thái Hà Sơn",
+      "category": "location",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0099",
+      "source_term": "神手谷",
+      "target_term": "Thần Thủ Cốc",
+      "category": "location",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0100",
+      "source_term": "墨居仁",
+      "target_term": "Mặc Cư Nhân",
+      "category": "character",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0101",
+      "source_term": "墨大夫",
+      "target_term": "Mặc đại phu",
+      "category": "character",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0102",
+      "source_term": "余子童",
+      "target_term": "Dư Tử Đồng",
+      "category": "character",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0103",
+      "source_term": "韩立",
+      "target_term": "Hàn Lập",
+      "category": "character",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0104",
+      "source_term": "七玄门",
+      "target_term": "Thất Huyền Môn",
+      "category": "faction",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0105",
+      "source_term": "惊蛟会",
+      "target_term": "Kinh Giao Hội",
+      "category": "faction",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0106",
+      "source_term": "岚州",
+      "target_term": "Lam Châu",
+      "category": "location",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0107",
+      "source_term": "先天武者",
+      "target_term": "Tiên thiên võ giả",
+      "category": "cultivation",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0108",
+      "source_term": "血脉转化炉",
+      "target_term": "Huyết mạch chuyển hóa lô",
+      "category": "item",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0109",
+      "source_term": "未来之身",
+      "target_term": "Tương lai thân",
+      "category": "general",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0110",
+      "source_term": "青石矿",
+      "target_term": "Thanh Thạch Quáng",
+      "category": "item",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0111",
+      "source_term": "一级木属性妖魂",
+      "target_term": "Yêu hồn hệ Mộc cấp 1",
+      "category": "item",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0112",
+      "source_term": "清灵丹",
+      "target_term": "Thanh Linh Đan",
+      "category": "item",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0113",
+      "source_term": "长生经",
+      "target_term": "Trường Sinh Kinh",
+      "category": "item",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0114",
+      "source_term": "青玉果",
+      "target_term": "Thanh Ngọc Quả",
+      "category": "item",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0115",
+      "source_term": "黄髓芝",
+      "target_term": "Hoàng Tuy Chi",
+      "category": "item",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0116",
+      "source_term": "铁奴",
+      "target_term": "Thiết Nô",
+      "category": "character",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0117",
+      "source_term": "夺舍三大铁则",
+      "target_term": "Ba đại thiết luật của đoạt xá",
+      "category": "cultivation",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0118",
+      "source_term": "缠绕术",
+      "target_term": "Triền Nhiễu Thuật",
+      "category": "cultivation",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0119",
+      "source_term": "荆棘术",
+      "target_term": "Kinh Cức Thuật",
+      "category": "skill",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0120",
+      "source_term": "血箭阴魂咒",
+      "target_term": "Huyết Tiễn Âm Hồn Chú",
+      "category": "cultivation",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0121",
+      "source_term": "洗髓伐骨",
+      "target_term": "Tẩy tủy phạt cốt",
+      "category": "general",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0122",
+      "source_term": "云翅鸟",
+      "target_term": "Vân Xí Điểu",
+      "category": "item",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0123",
+      "source_term": "青牛镇",
+      "target_term": "Thanh Ngưu Trấn",
+      "category": "location",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0124",
+      "source_term": "五里沟",
+      "target_term": "Ngũ Lý Câu",
+      "category": "location",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0125",
+      "source_term": "金光上人",
+      "target_term": "Kim Quang Thượng Nhân",
+      "category": "character",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0126",
+      "source_term": "金光观",
+      "target_term": "Kim Quang Quán",
+      "category": "location",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0127",
+      "source_term": "会仙楼",
+      "target_term": "Hội Tiên Lâu",
+      "category": "location",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0128",
+      "source_term": "升仙令",
+      "target_term": "Thăng Tiên Lệnh",
+      "category": "item",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0129",
+      "source_term": "嘉元城",
+      "target_term": "Gia Nguyên Thành",
+      "category": "location",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0130",
+      "source_term": "严氏",
+      "target_term": "Nghiêm thị",
+      "category": "character",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0131",
+      "source_term": "墨彩环",
+      "target_term": "Mặc Thái Hoàn",
+      "category": "character",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0132",
+      "source_term": "越国",
+      "target_term": "Việt Quốc",
+      "category": "location",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0133",
+      "source_term": "辛州",
+      "target_term": "Tân Châu",
+      "category": "location",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0134",
+      "source_term": "王氏",
+      "target_term": "Vương thị",
+      "category": "character",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0135",
+      "source_term": "王雪贞",
+      "target_term": "Vương Tuyết Trinh",
+      "category": "character",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0136",
+      "source_term": "金氏",
+      "target_term": "Kim thị",
+      "category": "character",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0137",
+      "source_term": "墨玉珠",
+      "target_term": "Mặc Ngọc Châu",
+      "category": "character",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0138",
+      "source_term": "灵兽山",
+      "target_term": "Linh Thú Sơn",
+      "category": "faction",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0139",
+      "source_term": "御灵宗",
+      "target_term": "Ngự Linh Tông",
+      "category": "faction",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0140",
+      "source_term": "萦香丸",
+      "target_term": "Oanh Hương Hoàn",
+      "category": "item",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0141",
+      "source_term": "金光诀",
+      "target_term": "Kim Quang Quyết",
+      "category": "technique",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0142",
+      "source_term": "血卫营",
+      "target_term": "Huyết Vệ Doanh",
+      "category": "faction",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0143",
+      "source_term": "欧阳飞天",
+      "target_term": "Âu Dương Phi Thiên",
+      "category": "character",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0144",
+      "source_term": "太南山",
+      "target_term": "Thái Nam Sơn",
+      "category": "location",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0145",
+      "source_term": "升仙大会",
+      "target_term": "Thăng Tiên Đại Hội",
+      "category": "event",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0146",
+      "source_term": "紫灵",
+      "target_term": "Tử Linh",
+      "category": "character",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0147",
+      "source_term": "南宫婉",
+      "target_term": "Nam Cung Uyển",
+      "category": "character",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0148",
+      "source_term": "广贵城",
+      "target_term": "Quảng Quý Thành",
+      "category": "location",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0149",
+      "source_term": "太南谷",
+      "target_term": "Thái Nam Cốc",
+      "category": "location",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0150",
+      "source_term": "太南小会",
+      "target_term": "Thái Nam Tiểu Hội",
+      "category": "event",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0151",
+      "source_term": "灵石",
+      "target_term": "Linh thạch",
+      "category": "item",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0152",
+      "source_term": "金刚符",
+      "target_term": "Kim Cương Phù",
+      "category": "item",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0153",
+      "source_term": "定神符",
+      "target_term": "Định Thần Phù",
+      "category": "item",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0154",
+      "source_term": "符箓入门浅谈",
+      "target_term": "Phù Lục Nhập Môn Thiển Đàm",
+      "category": "book",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0155",
+      "source_term": "荆棘符",
+      "target_term": "Kinh Cức Phù",
+      "category": "item",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0156",
+      "source_term": "碧鳞蟒",
+      "target_term": "Bích Lân Mãng",
+      "category": "character",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0157",
+      "source_term": "毒刺荆棘",
+      "target_term": "Độc Thứ Kinh Cức",
+      "category": "item",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0158",
+      "source_term": "惑神术",
+      "target_term": "Hoặc Thần Thuật",
+      "category": "skill",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0159",
+      "source_term": "石甲术",
+      "target_term": "Thạch Giáp Thuật",
+      "category": "skill",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0160",
+      "source_term": "流沙术",
+      "target_term": "Lưu Sa Thuật",
+      "category": "skill",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0161",
+      "source_term": "火球术",
+      "target_term": "Hỏa Cầu Thuật",
+      "category": "skill",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0162",
+      "source_term": "冰箭术",
+      "target_term": "Băng Tiễn Thuật",
+      "category": "skill",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0163",
+      "source_term": "腐蚀术",
+      "target_term": "Hủ Thực Thuật",
+      "category": "skill",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0164",
+      "source_term": "碧眼狐",
+      "target_term": "Bích Nhãn Hồ",
+      "category": "beast",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0165",
+      "source_term": "赤焰豹",
+      "target_term": "Xích Diễm Báo",
+      "category": "beast",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0166",
+      "source_term": "岩蟒",
+      "target_term": "Nham Mãng",
+      "category": "beast",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0167",
+      "source_term": "巨力龟",
+      "target_term": "Cự Lực Quy",
+      "category": "beast",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0168",
+      "source_term": "菡云峰",
+      "target_term": "Hàn Vân Phong",
+      "category": "character",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0169",
+      "source_term": "迷心术",
+      "target_term": "Mê Tâm Thuật",
+      "category": "skill",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0170",
+      "source_term": "筑基丹",
+      "target_term": "Trúc Cơ Đan",
+      "category": "item",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0171",
+      "source_term": "修仙界概述",
+      "target_term": "Tu Tiên Giới Khái Thuật",
+      "category": "book",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0172",
+      "source_term": "青纹",
+      "target_term": "Thanh Văn",
+      "category": "character",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0173",
+      "source_term": "吴九指",
+      "target_term": "Ngô Cửu Chỉ",
+      "category": "character",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0174",
+      "source_term": "吴剑鸣",
+      "target_term": "Ngô Kiếm Minh",
+      "category": "character",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0175",
+      "source_term": "独霸山庄",
+      "target_term": "Độc Bá Sơn Trang",
+      "category": "faction",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0176",
+      "source_term": "五色门",
+      "target_term": "Ngũ Sắc Môn",
+      "category": "faction",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0177",
+      "source_term": "天霸门",
+      "target_term": "Thiên Bá Môn",
+      "category": "faction",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0178",
+      "source_term": "兄弟盟",
+      "target_term": "Huynh Đệ Minh",
+      "category": "faction",
+      "source_project": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0179",
+      "source_term": "彩霞山",
+      "target_term": "Thái Hà Sơn",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0180",
+      "source_term": "神手谷",
+      "target_term": "Thần Thủ Cốc",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0181",
+      "source_term": "墨居仁",
+      "target_term": "Mặc Cư Nhân",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0182",
+      "source_term": "墨大夫",
+      "target_term": "Mặc đại phu",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0183",
+      "source_term": "余子童",
+      "target_term": "Dư Tử Đồng",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0184",
+      "source_term": "韩立",
+      "target_term": "Hàn Lập",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0185",
+      "source_term": "七玄门",
+      "target_term": "Thất Huyền Môn",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0186",
+      "source_term": "惊蛟会",
+      "target_term": "Kinh Giao Hội",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0187",
+      "source_term": "岚州",
+      "target_term": "Lam Châu",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0188",
+      "source_term": "血脉转化炉",
+      "target_term": "Huyết mạch chuyển hóa lô",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0189",
+      "source_term": "未来之身",
+      "target_term": "Tương lai thân",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0190",
+      "source_term": "青石矿",
+      "target_term": "Thanh Thạch Quáng",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0191",
+      "source_term": "一级木属性妖魂",
+      "target_term": "Yêu hồn hệ Mộc cấp 1",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0192",
+      "source_term": "清灵丹",
+      "target_term": "Thanh Linh Đan",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0193",
+      "source_term": "长生经",
+      "target_term": "Trường Sinh Kinh",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0194",
+      "source_term": "青玉果",
+      "target_term": "Thanh Ngọc Quả",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0195",
+      "source_term": "黄髓芝",
+      "target_term": "Hoàng Tuy Chi",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0196",
+      "source_term": "铁奴",
+      "target_term": "Thiết Nô",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0197",
+      "source_term": "洗髓伐骨",
+      "target_term": "Tẩy tủy phạt cốt",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0198",
+      "source_term": "万族",
+      "target_term": "Vạn tộc",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0199",
+      "source_term": "符文",
+      "target_term": "Phù văn",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0200",
+      "source_term": "奥术师",
+      "target_term": "Áo thuật sư",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0201",
+      "source_term": "地精族",
+      "target_term": "Địa tinh tộc",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0202",
+      "source_term": "龙族",
+      "target_term": "Long tộc",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0203",
+      "source_term": "洪荒世界",
+      "target_term": "Hồng Hoang Thế Giới",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0204",
+      "source_term": "玄黄舰",
+      "target_term": "Huyền Hoàng hạm",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0205",
+      "source_term": "玄黄",
+      "target_term": "Huyền Hoàng",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0206",
+      "source_term": "昊天",
+      "target_term": "Hạo Thiên",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0207",
+      "source_term": "记录员",
+      "target_term": "Ký lục viên",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0208",
+      "source_term": "历史真文",
+      "target_term": "Lịch sử Chân văn",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0209",
+      "source_term": "永夜",
+      "target_term": "Vĩnh Dạ",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0210",
+      "source_term": "最初主神空间",
+      "target_term": "Tối sơ Chủ Thần Không Gian",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0211",
+      "source_term": "主神空间",
+      "target_term": "Chủ Thần Không Gian",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0212",
+      "source_term": "分则为圣，合则封神",
+      "target_term": "Phân tắc vi Thánh, hợp tắc Phong Thần",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0213",
+      "source_term": "魂穿",
+      "target_term": "Hồn xuyên",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0214",
+      "source_term": "太清学府",
+      "target_term": "Thái Thanh học phủ",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0215",
+      "source_term": "玉清学府",
+      "target_term": "Ngọc Thanh học phủ",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0216",
+      "source_term": "上清学府",
+      "target_term": "Thượng Thanh học phủ",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0217",
+      "source_term": "钻木取火",
+      "target_term": "Toản mộc thủ hỏa",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0218",
+      "source_term": "青灰色巨狼",
+      "target_term": "Thanh hôi cự lang",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0219",
+      "source_term": "孤狼",
+      "target_term": "Cô lang",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0220",
+      "source_term": "光辉之战",
+      "target_term": "Quang Huy Chi Chiến",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0221",
+      "source_term": "光辉阵营",
+      "target_term": "Trận doanh Quang Huy",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0222",
+      "source_term": "漆黑阵营",
+      "target_term": "Trận doanh Tất Hắc",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0223",
+      "source_term": "炽天使",
+      "target_term": "Xí Thiên Sứ",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0224",
+      "source_term": "召人",
+      "target_term": "Triệu nhân",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0225",
+      "source_term": "西兰之城",
+      "target_term": "Thành phố Tây Lan",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0226",
+      "source_term": "永嘉之乱",
+      "target_term": "Biến loạn Vĩnh Gia",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0227",
+      "source_term": "杀晋令",
+      "target_term": "Sát Tấn lệnh",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0228",
+      "source_term": "坞堡",
+      "target_term": "Ổ bảo",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0229",
+      "source_term": "风鼠",
+      "target_term": "Phong Thử",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0230",
+      "source_term": "主神空间广场",
+      "target_term": "Quảng trường Chủ Thần Không Gian",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0231",
+      "source_term": "支线剧情",
+      "target_term": "Chi tuyến kịch tình",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0232",
+      "source_term": "位面之子",
+      "target_term": "Vị diện chi tử",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0233",
+      "source_term": "第四天灾",
+      "target_term": "Đệ tứ thiên tai",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0234",
+      "source_term": "汲取",
+      "target_term": "Hấp thụ",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0235",
+      "source_term": "集中",
+      "target_term": "Tập trung",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0236",
+      "source_term": "控制",
+      "target_term": "Khống chế",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0237",
+      "source_term": "爆发",
+      "target_term": "Bộc phát",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0238",
+      "source_term": "明犯强汉者，虽远必诛",
+      "target_term": "Kẻ nào xâm phạm cường Hán, dù xa cũng phải diệt",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0239",
+      "source_term": "圣人",
+      "target_term": "Thánh nhân",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0240",
+      "source_term": "仙人",
+      "target_term": "Tiên nhân",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0241",
+      "source_term": "阴阳先生",
+      "target_term": "Thầy âm dương",
+      "category": "general",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "high",
+      "notes": "Folklore: A master of Yin and Yang, dealing with ghosts and rituals",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0242",
+      "source_term": "荣誉手表",
+      "target_term": "Đồng hồ Vinh dự",
+      "category": "general",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "Thiết bị cấp cho nhân viên để quản lý điểm và nhiệm vụ.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0243",
+      "source_term": "荣誉点",
+      "target_term": "Điểm vinh dự",
+      "category": "general",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "Tiền tệ dùng để nâng cấp hoặc mua sắm trong Minh Phủ.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0244",
+      "source_term": "经理",
+      "target_term": "Kinh lý",
+      "category": "general",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "Cấp bậc quản lý cao cấp trong Minh Phủ (trên Chủ quản).",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0245",
+      "source_term": "跳闸",
+      "target_term": "Nhảy cầu dao",
+      "category": "general",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "high",
+      "notes": "Electrical: Circuit breaker tripping",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0246",
+      "source_term": "鬼玉",
+      "target_term": "Quỷ Ngọc",
+      "category": "general",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "high",
+      "notes": "Item: A protective jade amulet given by the protagonist's grandfather",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0247",
+      "source_term": "乾坤袋",
+      "target_term": "Túi Càn Khôn",
+      "category": "general",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "high",
+      "notes": "Item: A bag containing various protective amulets and charms",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0248",
+      "source_term": "四方阵",
+      "target_term": "Tứ Phương Trận",
+      "category": "general",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "high",
+      "notes": "Supernatural Technique: A defensive/trapping array used by the recruiter",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0249",
+      "source_term": "四方火笼",
+      "target_term": "Tứ Phương Hỏa Lung",
+      "category": "general",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "high",
+      "notes": "Supernatural Technique: A fiery cage formed by the Tứ Phương Trận",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0250",
+      "source_term": "头七回魂夜",
+      "target_term": "Đêm hồi hồn đầu thất",
+      "category": "general",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "high",
+      "notes": "Folklore: The 7th day after death when the soul returns.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0251",
+      "source_term": "水鬼",
+      "target_term": "Thủy quỷ",
+      "category": "general",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "high",
+      "notes": "Entity: A water ghost that dehydrates victims.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0252",
+      "source_term": "干尸",
+      "target_term": "Xác khô",
+      "category": "general",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "high",
+      "notes": "Entity/State: A dehydrated corpse or 'human jerky'.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0253",
+      "source_term": "辣条",
+      "target_term": "Lạt điều",
+      "category": "general",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "high",
+      "notes": "Snack: Spicy strips, a popular Chinese snack used by HTK to calm down.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0254",
+      "source_term": "天眼",
+      "target_term": "Thiên Nhãn",
+      "category": "general",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "high",
+      "notes": "Ability: Heaven's Eye used by Lãnh Nguyệt to see ghosts.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0255",
+      "source_term": "困鬼阵",
+      "target_term": "Khốn Quỷ Trận",
+      "category": "general",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "high",
+      "notes": "Technique: Ghost-trapping array.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0256",
+      "source_term": "困鬼符",
+      "target_term": "Khốn Quỷ Phù",
+      "category": "general",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "high",
+      "notes": "Item: Ghost-trapping talisman.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0257",
+      "source_term": "驱鬼师",
+      "target_term": "Khu quỷ sư",
+      "category": "general",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "high",
+      "notes": "Role: Exorcist, like Lãnh Nguyệt.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0258",
+      "source_term": "恶灵体质",
+      "target_term": "Ác Linh Thể Chất",
+      "category": "general",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "high",
+      "notes": "Ability: Evil Spirit Constitution possessed by HTK.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0259",
+      "source_term": "完美级评分",
+      "target_term": "Hoàn mỹ bình phân",
+      "category": "general",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "high",
+      "notes": "System: Perfect grade mission rating.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0260",
+      "source_term": "不周山",
+      "target_term": "Bất Chu Sơn",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0261",
+      "source_term": "貔貅",
+      "target_term": "Tỳ Hưu",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0262",
+      "source_term": "天灵盖",
+      "target_term": "thiên linh cái",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0263",
+      "source_term": "识海",
+      "target_term": "thức hải",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0264",
+      "source_term": "先天元气",
+      "target_term": "tiên thiên nguyên khí",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0265",
+      "source_term": "混沌元气",
+      "target_term": "hỗn độn nguyên khí",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0266",
+      "source_term": "淮南子",
+      "target_term": "Hoài Nam Tử",
+      "category": "general",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0267",
+      "source_term": "天文训",
+      "target_term": "Thiên Văn Huấn",
+      "category": "general",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0268",
+      "source_term": "共工",
+      "target_term": "Cộng Công",
+      "category": "general",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0269",
+      "source_term": "颛顼",
+      "target_term": "Chuyên Húc",
+      "category": "general",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0270",
+      "source_term": "元会",
+      "target_term": "nguyên hội",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0271",
+      "source_term": "量劫",
+      "target_term": "lượng kiếp",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0272",
+      "source_term": "后天元气",
+      "target_term": "hậu thiên nguyên khí",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0273",
+      "source_term": "泥丸宫",
+      "target_term": "nê hoàn cung",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0274",
+      "source_term": "先天神祇",
+      "target_term": "Tiên Thiên Thần Kỳ",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0275",
+      "source_term": "灵台",
+      "target_term": "linh đài",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0276",
+      "source_term": "天道",
+      "target_term": "Thiên Đạo",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0277",
+      "source_term": "祥云",
+      "target_term": "tường vân",
+      "category": "martial_arts",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0278",
+      "source_term": "猛虎踏蟒，蟒缠满月",
+      "target_term": "Mãnh hổ đạp mãng, mãn xà triền nguyệt",
+      "category": "vision",
+      "source_project": "Sieu Duy Thuat Si_Muc Ho",
+      "confidence": "low",
+      "notes": "Huy hiệu nhà Morn: Hổ dữ đạp mãng xà, mãng xà quấn trăng tròn.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0279",
+      "source_term": "冻土之月",
+      "target_term": "Tháng Đống Thổ",
+      "category": "time",
+      "source_project": "Sieu Duy Thuat Si_Muc Ho",
+      "confidence": "low",
+      "notes": "Tháng xuất hiện trong lịch.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0280",
+      "source_term": "霜降之月",
+      "target_term": "Tháng Sương Giáng",
+      "category": "time",
+      "source_project": "Sieu Duy Thuat Si_Muc Ho",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0281",
+      "source_term": "丰收之月",
+      "target_term": "Tháng Thu Hoạch",
+      "category": "time",
+      "source_project": "Sieu Duy Thuat Si_Muc Ho",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0282",
+      "source_term": "金雀帝国",
+      "target_term": "Đế quốc Jinque",
+      "category": "location",
+      "source_project": "Sieu Duy Thuat Si_Muc Ho",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0283",
+      "source_term": "帕特庄园",
+      "target_term": "Trang viên Patte",
+      "category": "location",
+      "source_project": "Sieu Duy Thuat Si_Muc Ho",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0284",
+      "source_term": "格鲁镇",
+      "target_term": "Thị trấn Gelu",
+      "category": "location",
+      "source_project": "Sieu Duy Thuat Si_Muc Ho",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0285",
+      "source_term": "雅梅行省",
+      "target_term": "Hành tỉnh Yamei",
+      "category": "location",
+      "source_project": "Sieu Duy Thuat Si_Muc Ho",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0286",
+      "source_term": "海澜王朝",
+      "target_term": "Vương triều Hailan",
+      "category": "location",
+      "source_project": "Sieu Duy Thuat Si_Muc Ho",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0287",
+      "source_term": "学究",
+      "target_term": "Lão mọt sách",
+      "category": "general",
+      "source_project": "Sieu Duy Thuat Si_Muc Ho",
+      "confidence": "low",
+      "notes": "Chỉ những học giả già gàn dở, chỉ biết đến sách vở.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0288",
+      "source_term": "老伙伴",
+      "target_term": "Lão già/Bạn già/Ông bạn",
+      "category": "address",
+      "source_project": "Sieu Duy Thuat Si_Muc Ho",
+      "confidence": "low",
+      "notes": "Xưng hô linh hoạt tùy ngữ cảnh giữa những người bạn già.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0289",
+      "source_term": "黑崎一护",
+      "target_term": "Kurosaki Ichigo",
+      "category": "character",
+      "source_project": "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han",
+      "confidence": "low",
+      "notes": "Hắc Kỳ Nhất Hộ",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0290",
+      "source_term": "朽木露琪亚",
+      "target_term": "Kuchiki Rukia",
+      "category": "character",
+      "source_project": "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han",
+      "confidence": "low",
+      "notes": "Hủ Mộc Lộ Kỳ Á",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0291",
+      "source_term": "井上织姬",
+      "target_term": "Inoue Orihime",
+      "category": "character",
+      "source_project": "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han",
+      "confidence": "low",
+      "notes": "Tỉnh Thượng Chức Cơ",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0292",
+      "source_term": "茶渡泰虎",
+      "target_term": "Sado Yasutora",
+      "category": "character",
+      "source_project": "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han",
+      "confidence": "low",
+      "notes": "Trà Độ Thái Hổ - Chad",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0293",
+      "source_term": "石田雨龙",
+      "target_term": "Ishida Uryu",
+      "category": "character",
+      "source_project": "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han",
+      "confidence": "low",
+      "notes": "Thạch Điền Vũ Long",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0294",
+      "source_term": "蓝染惣右介",
+      "target_term": "Aizen Sousuke",
+      "category": "character",
+      "source_project": "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han",
+      "confidence": "low",
+      "notes": "Lam Nhiễm Tống Hữu Giới",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0295",
+      "source_term": "市丸银",
+      "target_term": "Ichimaru Gin",
+      "category": "character",
+      "source_project": "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han",
+      "confidence": "low",
+      "notes": "Thị Hoàn Ngân",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0296",
+      "source_term": "始解",
+      "target_term": "Shikai",
+      "category": "technique",
+      "source_project": "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han",
+      "confidence": "low",
+      "notes": "Thủy Giải",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0297",
+      "source_term": "卍解",
+      "target_term": "Bankai",
+      "category": "technique",
+      "source_project": "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han",
+      "confidence": "low",
+      "notes": "Vạn Giải",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0298",
+      "source_term": "斩魄刀",
+      "target_term": "Zanpakuto",
+      "category": "weapon",
+      "source_project": "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han",
+      "confidence": "low",
+      "notes": "Trảm Phách Đao",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0299",
+      "source_term": "浅打",
+      "target_term": "Asauchi",
+      "category": "weapon",
+      "source_project": "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han",
+      "confidence": "low",
+      "notes": "Thiển Đả",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0300",
+      "source_term": "外骨骼装甲",
+      "target_term": "Giáp trợ lực",
+      "category": "technology",
+      "source_project": "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han",
+      "confidence": "low",
+      "notes": "Exoskeleton armor",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0301",
+      "source_term": "虚圈",
+      "target_term": "Hueco Mundo",
+      "category": "location",
+      "source_project": "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han",
+      "confidence": "low",
+      "notes": "Hư Quyển",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0302",
+      "source_term": "尸魂界",
+      "target_term": "Soul Society",
+      "category": "location",
+      "source_project": "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han",
+      "confidence": "low",
+      "notes": "Thi hồn giới",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0303",
+      "source_term": "瀞灵廷",
+      "target_term": "Seireitei",
+      "category": "location",
+      "source_project": "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han",
+      "confidence": "low",
+      "notes": "Tịnh Linh Đình",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0304",
+      "source_term": "流魂街",
+      "target_term": "Rukongai",
+      "category": "location",
+      "source_project": "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han",
+      "confidence": "low",
+      "notes": "Lưu Hồn Nhai",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0305",
+      "source_term": "护庭十三队",
+      "target_term": "Gotei 13",
+      "category": "faction",
+      "source_project": "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han",
+      "confidence": "low",
+      "notes": "Hộ Đình Thập Tam Đội",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0306",
+      "source_term": "真央灵术院",
+      "target_term": "Học viện Shin'ō",
+      "category": "location",
+      "source_project": "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han",
+      "confidence": "low",
+      "notes": "Chân Ương Linh Thuật Viện",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0307",
+      "source_term": "崩玉",
+      "target_term": "Hougyoku",
+      "category": "item",
+      "source_project": "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han",
+      "confidence": "low",
+      "notes": "Băng Ngọc",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0308",
+      "source_term": "妮菲尔",
+      "target_term": "Nifeier",
+      "category": "character",
+      "source_project": "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han",
+      "confidence": "low",
+      "notes": "Interrogator",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0309",
+      "source_term": "卯之花烈",
+      "target_term": "Unohana Retsu",
+      "category": "character",
+      "source_project": "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han",
+      "confidence": "low",
+      "notes": "Mão Chi Hoa Liệt",
+      "locked": false
+    }
+  ]
+}

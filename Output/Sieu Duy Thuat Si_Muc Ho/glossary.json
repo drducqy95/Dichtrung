@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "source_language": "zh",
+    "target_language": "vi",
+    "genre": "western_fiction",
+    "last_updated": "2026-04-13T16:32:00Z"
+  },
+  "entries": [
+    {
+      "source": "猛虎踏蟒，蟒缠满月",
+      "target": "Mãnh hổ đạp mãng, mãn xà triền nguyệt",
+      "category": "vision",
+      "context": "Huy hiệu nhà Morn: Hổ dữ đạp mãng xà, mãng xà quấn trăng tròn."
+    },
+    {
+      "source": "冻土之月",
+      "target": "Tháng Đống Thổ",
+      "category": "time",
+      "context": "Tháng xuất hiện trong lịch."
+    },
+    {
+      "source": "霜降之月",
+      "target": "Tháng Sương Giáng",
+      "category": "time"
+    },
+    {
+      "source": "丰收之月",
+      "target": "Tháng Thu Hoạch",
+      "category": "time"
+    },
+    {
+      "source": "金雀帝国",
+      "target": "Đế quốc Jinque",
+      "category": "location"
+    },
+    {
+      "source": "帕特庄园",
+      "target": "Trang viên Patte",
+      "category": "location"
+    },
+    {
+      "source": "格鲁镇",
+      "target": "Thị trấn Gelu",
+      "category": "location"
+    },
+    {
+      "source": "雅梅行省",
+      "target": "Hành tỉnh Yamei",
+      "category": "location"
+    },
+    {
+      "source": "海澜王朝",
+      "target": "Vương triều Hailan",
+      "category": "location"
+    },
+    {
+      "source": "学究",
+      "target": "Lão mọt sách",
+      "category": "general",
+      "context": "Chỉ những học giả già gàn dở, chỉ biết đến sách vở."
+    },
+    {
+      "source": "老伙伴",
+      "target": "Lão già/Bạn già/Ông bạn",
+      "category": "address",
+      "context": "Xưng hô linh hoạt tùy ngữ cảnh giữa những người bạn già."
+    }
+  ]
+}

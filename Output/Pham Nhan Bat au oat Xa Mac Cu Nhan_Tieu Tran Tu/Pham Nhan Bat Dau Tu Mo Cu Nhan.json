@@ -1,0 +1,33 @@
+{
+  "project_identity": {
+    "name": "Pham Nhan Bat Dau Tu Mo Cu Nhan",
+    "description": "",
+    "version": "0.1.0",
+    "created_at": "2026-04-15T15:46:04.319682",
+    "root_path": "./src",
+    "git_repository": "https://github.com/drducqy95/dichtruyendrduc.git"
+  },
+  "tech_stack": {
+    "language": "",
+    "version": "",
+    "dependency": "",
+    "framework": "",
+    "database": "",
+    "orm": "",
+    "test_runner": ""
+  },
+  "architecture_rules": {
+    "pattern": "Clean Architecture",
+    "layers": [
+      "domain",
+      "use_cases",
+      "infrastructure",
+      "interfaces"
+    ],
+    "banned_modules": []
+  },
+  "environment_context": {
+    "sandbox_mode": "local",
+    "docker_image": ""
+  }
+}

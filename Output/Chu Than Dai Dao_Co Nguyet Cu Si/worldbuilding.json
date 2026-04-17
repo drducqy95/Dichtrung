@@ -1,0 +1,141 @@
+{
+    "factions": [
+        {
+            "name_zh": "国安局",
+            "name_vi": "Cục Quốc An",
+            "type": "Government",
+            "description": "Cơ quan chính trị của Hoa Quốc ngoài đời thực."
+        },
+        {
+            "name_zh": "少林寺",
+            "name_vi": "Thiếu Lâm Tự",
+            "type": "Sect",
+            "description": "Môn phái võ học trong thế giới ảo."
+        },
+        {
+            "name_zh": "盛世皇朝",
+            "name_vi": "Thịnh Thế Hoàng Triều",
+            "type": "Player Guild",
+            "description": "Công hội người chơi hàng đầu trong Vô Hạn Thế Giới."
+        }
+    ],
+    "weapons": [
+        {
+            "name_zh": "封神榜",
+            "name_vi": "Phong Thần Bảng",
+            "type": "Artifact",
+            "description": "Bảo vật hỗ trợ quản lý sắc phong."
+        }
+    ],
+    "techniques": [],
+    "multiverse_structure": [
+        {
+            "realm": "Địa Tinh (Earth)",
+            "description": "Thế giới thực tại, nơi bắt đầu của mọi sự kiện."
+        },
+        {
+            "realm": "Vô Hạn Thế Giới (Infinite World)",
+            "description": "Thế giới ảo do Triệu Kỳ tạo ra, bao gồm nhiều phó bản và khu vực thần thoại."
+        },
+        {
+            "realm": "Thần thoại Phương Tây",
+            "description": "Dựa trên D&D, thần thoại Hy Lạp, Bắc Âu."
+        },
+        {
+            "realm": "Thần thoại Phương Đông",
+            "description": "Tiên Tần, Tây Du, Liêu Trai, Già Thiên."
+        },
+        {
+            "realm": "Thế giới Khoa học viễn tưởng",
+            "description": "Terminator, Transformers, Matrix."
+        }
+    ],
+    "cultivation_systems": [
+        {
+            "name": "Thần vị (Western)",
+            "levels": [
+                "Bán Thần (Demigod)",
+                "Vi nhược thần lực (Quasi-deity)",
+                "Nhược đẳng thần lực (Lesser deity)",
+                "Trung đẳng thần lực (Intermediate deity)",
+                "Cường đại thần lực (Greater deity)",
+                "Vĩ đại thần lực (Overdeity)",
+                "Chí cao thần lực (Supreme deity)"
+            ]
+        },
+        {
+            "name": "Siêu phàm giai vị (General)",
+            "levels": [
+                "1-5 Giai: Phàm nhân/Siêu phàm sơ cấp",
+                "6-10 Giai: Truyền kỳ/Bán thần",
+                "11-15 Giai: Thần linh/Chí cao"
+            ]
+        }
+    ],
+    "power_ranking": {
+        "last_updated_chapter": 1603,
+        "ranking": [
+            "Triệu Kỳ (Thái Nhất Chi Chủ)",
+            "Chủ Thần (Avatar)",
+            "Thần Hủy Diệt (Avatar)",
+            "Cơ Thành",
+            "Trương Quân Phòng"
+        ],
+        "notes": "Hệ thống phân cấp dựa trên Giai (1-15)."
+    },
+    "locations": [
+        {
+            "name_zh": "地星",
+            "name_vi": "Địa Tinh",
+            "type": "Planet",
+            "description": "Hành tinh quê nhà."
+        },
+        {
+            "name_zh": "华国",
+            "name_vi": "Hoa Quốc",
+            "type": "Country",
+            "description": "Quốc gia thực tại của nhân vật chính."
+        },
+        {
+            "name_zh": "九州",
+            "name_vi": "Cửu Châu",
+            "type": "Region",
+            "description": "Từ đồng nghĩa với Hoa Quốc."
+        },
+        {
+            "name_zh": "昆仑山",
+            "name_vi": "Côn Luân Sơn",
+            "type": "Mountain",
+            "description": "Khu vực thần thoại giả lập."
+        },
+        {
+            "name_zh": "曼陀罗",
+            "name_vi": "Mạn Đà La",
+            "type": "Realm",
+            "description": "Khu vực thần thoại giả lập."
+        },
+        {
+            "name_zh": "美利坚",
+            "name_vi": "America",
+            "type": "Country",
+            "description": "Thế lực phương Tây ngoài đời thực."
+        }
+    ],
+    "world_map": {
+        "generated": false,
+        "image_path": null,
+        "readiness_score": 0,
+        "last_updated_chapter": 100,
+        "description": "",
+        "scale": "planet"
+    },
+    "relationship_diagrams": {
+        "character_relationship": {
+            "generated": false,
+            "mermaid_path": null,
+            "image_path": null,
+            "last_updated_chapter": 100,
+            "min_characters_to_generate": 8
+        }
+    }
+}

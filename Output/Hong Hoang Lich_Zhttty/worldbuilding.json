@@ -1,0 +1,86 @@
+{
+    "factions": [],
+    "weapons": [],
+    "techniques": [],
+    "cultivation_systems": [
+        {
+            "name": "Tu Chân Hệ Thống",
+            "levels": [
+                "Trúc Cơ",
+                "Kim Đan"
+            ],
+            "energy_source": "Chân Nguyên Lực"
+        },
+        {
+            "name": "Áo Thuật Hệ Thống",
+            "description": "Sử dụng Phù văn và Áo thuật sư."
+        }
+    ],
+    "cultivation_resources": [
+        {
+            "name": "Linh Thạch",
+            "type": "energy_source"
+        },
+        {
+            "name": "Linh Bảo",
+            "type": "artifact"
+        }
+    ],
+    "power_ranking": {
+        "last_updated_chapter": null,
+        "ranking": [],
+        "notes": ""
+    },
+    "locations": [
+        {
+            "name_source": "洪荒",
+            "name_target": "Hồng Hoang",
+            "type": "world"
+        },
+        {
+            "name_source": "金河",
+            "name_target": "Kim Hà",
+            "type": "region"
+        },
+        {
+            "name_source": "深渊",
+            "name_target": "Thâm Uyên",
+            "type": "realm"
+        },
+        {
+            "name_source": "临圣",
+            "name_target": "Lâm Thánh",
+            "type": "location"
+        }
+    ],
+    "world_map": {
+        "generated": false,
+        "image_path": null,
+        "readiness_score": 0,
+        "last_updated_chapter": null,
+        "description": "",
+        "scale": "unknown"
+    },
+    "relationship_diagrams": {
+        "character_relationship": {
+            "generated": false,
+            "mermaid_path": null,
+            "image_path": null,
+            "last_updated_chapter": null,
+            "min_characters_to_generate": 8
+        },
+        "family_tree": {
+            "generated": false,
+            "mermaid_path": null,
+            "image_path": null,
+            "last_updated_chapter": null,
+            "families_tracked": []
+        },
+        "faction_relationship": {
+            "generated": false,
+            "mermaid_path": null,
+            "image_path": null,
+            "last_updated_chapter": null
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "project_name": "Dichtrung",
+    "type": "translation_hub",
+    "description": "Repo tổng hợp dịch thuật — mono-repo chứa 39+ source truyện với hệ thống workflow tích hợp",
+    "tech_stack": {
+        "language": "python",
+        "workflows": [
+            "/init-branch",
+            "/translate",
+            "/translate-setup",
+            "/translate-wiki",
+            "/ebook",
+            "/sync-state"
+        ],
+        "scripts": [
+            "Tachchuong.py"
+        ],
+        "output_format": "markdown → ebook (EPUB/PDF/HTML)",
+        "translation_engine": "MATT v2.0 (Multi-Agent Translation Team)"
+    },
+    "architecture": {
+        "type": "mono-repo",
+        "git": "root level (d:\\Dichtrung)",
+        "source_location": "Source/ (bất biến, không copy)",
+        "global_state": "Global State/ (3 file: config, characters, glossary)",
+        "project_branches": "Output/[Tên Branch]/ (mỗi truyện 1 branch)"
+    },
+    "rules": {
+        "output_language": "vi",
+        "ban_cjk_output": true,
+        "single_git": true,
+        "source_immutable": true,
+        "auto_sync_global_state": true
+    },
+    "created_at": "2026-04-16T21:38:00+07:00"
+}

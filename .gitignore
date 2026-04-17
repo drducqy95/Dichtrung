@@ -1,0 +1,36 @@
+# Drafts (bản nháp tạm thời)
+**/drafts/
+
+# Logs
+**/logs/
+
+# Ephemeral assistant state
+.brain/
+**/.brain/
+
+# Legacy per-project working artifacts not part of mono-repo spec
+Output/**/artifacts/
+Output/**/docs/
+Output/**/plans/
+Output/**/scripts/
+Output/**/all_global_errors.jsonl
+Output/**/project_progress.json
+Output/**/*_temp.md
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Scan results (có thể tái tạo)
+**/scan_results.json
+**/full_scan_results.json

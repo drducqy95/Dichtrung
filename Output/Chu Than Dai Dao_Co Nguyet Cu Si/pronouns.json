@@ -1,0 +1,25 @@
+{
+    "metadata": {
+        "project_name": "Chủ Thần Đại Đạo",
+        "source_language": "zh",
+        "target_language": "vi",
+        "genre": "eastern_fiction",
+        "sub_genre": "unlimited_flow",
+        "pronoun_mode": "hybrid",
+        "last_updated": "2026-04-16T14:35:00Z"
+    },
+    "project_pronouns": [
+        {
+            "subject_zh": "我",
+            "subject_vi": "ta",
+            "context": "Triệu Kỳ xưng hô với người khác (sau khi thành thần)",
+            "priority": 1
+        },
+        {
+            "subject_zh": "我",
+            "subject_vi": "tôi",
+            "context": "Triệu Kỳ xưng hô thông thường khi còn là người",
+            "priority": 2
+        }
+    ]
+}

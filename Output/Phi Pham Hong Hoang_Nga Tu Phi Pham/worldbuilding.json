@@ -1,0 +1,59 @@
+{
+  "factions": [],
+  "weapons": [],
+  "techniques": [],
+  "cultivation_systems": [],
+  "cultivation_resources": [],
+  "power_ranking": {
+    "last_updated_chapter": null,
+    "ranking": [],
+    "notes": ""
+  },
+  "locations": [
+    {
+      "term": "洪荒",
+      "name_vi": "Hồng Hoang",
+      "description": "Thế giới chính của truyện."
+    },
+    {
+      "term": "无极",
+      "name_vi": "Vô Cực",
+      "description": "Địa điểm quan trọng xuất hiện sớm."
+    },
+    {
+      "term": "不周山",
+      "name_vi": "Bất Chu Sơn",
+      "description": "Cột chống trời Tây Bắc, xương sống của Bàn Cổ."
+    }
+  ],
+  "world_map": {
+    "generated": false,
+    "image_path": null,
+    "readiness_score": 0,
+    "last_updated_chapter": null,
+    "description": "",
+    "scale": "unknown"
+  },
+  "relationship_diagrams": {
+    "character_relationship": {
+      "generated": false,
+      "mermaid_path": null,
+      "image_path": null,
+      "last_updated_chapter": null,
+      "min_characters_to_generate": 8
+    },
+    "family_tree": {
+      "generated": false,
+      "mermaid_path": null,
+      "image_path": null,
+      "last_updated_chapter": null,
+      "families_tracked": []
+    },
+    "faction_relationship": {
+      "generated": false,
+      "mermaid_path": null,
+      "image_path": null,
+      "last_updated_chapter": null
+    }
+  }
+}

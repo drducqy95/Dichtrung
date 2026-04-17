@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "project_name": "Hong Hoang Lich",
+        "source_language": "zh",
+        "target_language": "vi",
+        "genre": "eastern_fiction",
+        "sub_genre": "xianxia",
+        "pronoun_mode": "hybrid",
+        "last_updated": "2026-04-16T15:13:10Z"
+    },
+    "project_pronouns": [
+        {
+            "id": "ancient-formal-neutral",
+            "self_form": "tại hạ",
+            "other_form": "các hạ",
+            "relationship": "neutral",
+            "contexts": [
+                "ancient",
+                "formal"
+            ]
+        },
+        {
+            "id": "ancient-peers",
+            "self_form": "ta",
+            "other_form": "ngươi",
+            "relationship": "neutral",
+            "contexts": [
+                "ancient",
+                "peers"
+            ]
+        },
+        {
+            "id": "master-disciple",
+            "self_form": "vi sư",
+            "other_form": "đồ nhi",
+            "relationship": "master_disciple",
+            "contexts": [
+                "ancient",
+                "hierarchy"
+            ]
+        },
+        {
+            "id": "modern-formal-neutral",
+            "self_form": "tôi",
+            "other_form": "anh/chị",
+            "relationship": "neutral",
+            "contexts": [
+                "modern",
+                "formal"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "project_id": "phi_pham_hong_hoang",
+    "project_name": "Phi Phàm Hồng Hoang",
+    "tech_stack": [
+        "MATT Workflow",
+        "Trinity Protocol",
+        "Markdown",
+        "JSON"
+    ],
+    "rules": [
+        "Tuân thủ xưng hô Hán-Việt cổ trang",
+        "Sử dụng hybrid naming convention",
+        "Đồng bộ hóa state liên tục sau mỗi chương"
+    ],
+    "project_rules": [
+        "Duy trì nhất quán phiên âm Hán-Việt cho danh từ riêng.",
+        "Sử dụng xưng hô 'hắn', 'ngươi', 'ta' phù hợp với ngữ cảnh thần thoại.",
+        "Khi dịch xong, LUÔN LUÔN kiểm tra lại filename output để tránh ghi đè (chapter_000X.md).",
+        "Phải dùng list_dir để lấy chính xác tên file nguồn trước khi đọc, không tự đoán tên có dấu/không dấu.",
+        "BẮT BUỘC chạy lệnh grep kiểm tra ký tự Trung Quốc: grep -P '[\\x{4e00}-\\x{9fa5}]' [file] trước khi hoàn thành."
+    ]
+}

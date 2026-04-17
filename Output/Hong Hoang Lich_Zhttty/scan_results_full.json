@@ -1,0 +1,613 @@
+{
+    "metadata": {
+        "scanned_files": 1836,
+        "source_dir": "d:\\Dichsach\\Hong Hoang Lich_Zhttty\\Source",
+        "analyzer": "jieba-posseg"
+    },
+    "top_characters": [
+        {
+            "term": "吴明",
+            "count": 12917
+        },
+        {
+            "term": "高阶",
+            "count": 3389
+        },
+        {
+            "term": "艾伊",
+            "count": 2295
+        },
+        {
+            "term": "灵宝",
+            "count": 2280
+        },
+        {
+            "term": "杨烈",
+            "count": 1886
+        },
+        {
+            "term": "维塔",
+            "count": 1725
+        },
+        {
+            "term": "张好焕",
+            "count": 1616
+        },
+        {
+            "term": "阿莫尔",
+            "count": 1407
+        },
+        {
+            "term": "子牙",
+            "count": 1372
+        },
+        {
+            "term": "玄黄",
+            "count": 1275
+        },
+        {
+            "term": "明白",
+            "count": 1140
+        },
+        {
+            "term": "文明",
+            "count": 1083
+        },
+        {
+            "term": "符文",
+            "count": 1018
+        },
+        {
+            "term": "郑吒",
+            "count": 844
+        },
+        {
+            "term": "李二",
+            "count": 816
+        },
+        {
+            "term": "修真者",
+            "count": 745
+        },
+        {
+            "term": "格鲁",
+            "count": 699
+        },
+        {
+            "term": "修罗",
+            "count": 692
+        },
+        {
+            "term": "李铭",
+            "count": 667
+        },
+        {
+            "term": "米尔",
+            "count": 666
+        },
+        {
+            "term": "玄黄舰",
+            "count": 586
+        },
+        {
+            "term": "智慧",
+            "count": 579
+        },
+        {
+            "term": "冷笑",
+            "count": 566
+        },
+        {
+            "term": "雷霆",
+            "count": 556
+        },
+        {
+            "term": "楚轩",
+            "count": 547
+        },
+        {
+            "term": "修真",
+            "count": 546
+        },
+        {
+            "term": "凤凰",
+            "count": 538
+        },
+        {
+            "term": "任凭",
+            "count": 523
+        },
+        {
+            "term": "帝俊",
+            "count": 515
+        },
+        {
+            "term": "苏醒",
+            "count": 477
+        },
+        {
+            "term": "宝塔",
+            "count": 419
+        },
+        {
+            "term": "李四",
+            "count": 410
+        },
+        {
+            "term": "孔宣",
+            "count": 403
+        },
+        {
+            "term": "徐总",
+            "count": 382
+        },
+        {
+            "term": "约莫",
+            "count": 381
+        },
+        {
+            "term": "灵石",
+            "count": 373
+        },
+        {
+            "term": "爱德华",
+            "count": 360
+        },
+        {
+            "term": "诺尔德",
+            "count": 355
+        },
+        {
+            "term": "周斌",
+            "count": 353
+        },
+        {
+            "term": "李三",
+            "count": 337
+        },
+        {
+            "term": "侏儒",
+            "count": 333
+        },
+        {
+            "term": "封印",
+            "count": 316
+        },
+        {
+            "term": "莱因哈特",
+            "count": 304
+        },
+        {
+            "term": "鸿蒙",
+            "count": 293
+        },
+        {
+            "term": "闻言",
+            "count": 289
+        },
+        {
+            "term": "金翅",
+            "count": 272
+        },
+        {
+            "term": "皮卡丘",
+            "count": 245
+        },
+        {
+            "term": "卓尔",
+            "count": 244
+        },
+        {
+            "term": "金丹",
+            "count": 242
+        },
+        {
+            "term": "洛丝",
+            "count": 241
+        }
+    ],
+    "top_locations": [
+        {
+            "term": "东西",
+            "count": 4030
+        },
+        {
+            "term": "洪荒",
+            "count": 3780
+        },
+        {
+            "term": "城市",
+            "count": 1160
+        },
+        {
+            "term": "深渊",
+            "count": 809
+        },
+        {
+            "term": "临圣",
+            "count": 670
+        },
+        {
+            "term": "路西",
+            "count": 604
+        },
+        {
+            "term": "泰坦",
+            "count": 547
+        },
+        {
+            "term": "契约",
+            "count": 401
+        },
+        {
+            "term": "盘古",
+            "count": 354
+        },
+        {
+            "term": "福地",
+            "count": 298
+        },
+        {
+            "term": "深度",
+            "count": 263
+        },
+        {
+            "term": "哥哥",
+            "count": 257
+        },
+        {
+            "term": "远超过",
+            "count": 252
+        },
+        {
+            "term": "金河",
+            "count": 239
+        },
+        {
+            "term": "莫非",
+            "count": 217
+        },
+        {
+            "term": "长河",
+            "count": 213
+        },
+        {
+            "term": "波及",
+            "count": 200
+        },
+        {
+            "term": "英雄",
+            "count": 195
+        },
+        {
+            "term": "亚龙",
+            "count": 177
+        },
+        {
+            "term": "欧里",
+            "count": 174
+        },
+        {
+            "term": "海洋",
+            "count": 173
+        },
+        {
+            "term": "奥兰",
+            "count": 170
+        },
+        {
+            "term": "太阳",
+            "count": 156
+        },
+        {
+            "term": "安阳",
+            "count": 155
+        },
+        {
+            "term": "青丘",
+            "count": 151
+        },
+        {
+            "term": "伊山",
+            "count": 149
+        },
+        {
+            "term": "子牙",
+            "count": 141
+        },
+        {
+            "term": "江东",
+            "count": 132
+        },
+        {
+            "term": "山脉",
+            "count": 131
+        },
+        {
+            "term": "平原",
+            "count": 128
+        },
+        {
+            "term": "九宫",
+            "count": 127
+        },
+        {
+            "term": "入口",
+            "count": 119
+        },
+        {
+            "term": "黑洞",
+            "count": 116
+        },
+        {
+            "term": "都市",
+            "count": 112
+        },
+        {
+            "term": "阴阳",
+            "count": 110
+        },
+        {
+            "term": "大汉",
+            "count": 99
+        },
+        {
+            "term": "中古",
+            "count": 98
+        },
+        {
+            "term": "仁凰",
+            "count": 91
+        },
+        {
+            "term": "大海",
+            "count": 87
+        },
+        {
+            "term": "高山",
+            "count": 86
+        },
+        {
+            "term": "扎古",
+            "count": 86
+        },
+        {
+            "term": "渭南",
+            "count": 86
+        },
+        {
+            "term": "城镇",
+            "count": 85
+        },
+        {
+            "term": "广域",
+            "count": 82
+        },
+        {
+            "term": "泉水",
+            "count": 80
+        },
+        {
+            "term": "美丽",
+            "count": 79
+        },
+        {
+            "term": "古都",
+            "count": 79
+        },
+        {
+            "term": "天马",
+            "count": 78
+        },
+        {
+            "term": "岚兰",
+            "count": 75
+        },
+        {
+            "term": "大威",
+            "count": 72
+        }
+    ],
+    "top_terms": [
+        {
+            "term": "万族",
+            "count": 8427
+        },
+        {
+            "term": "普通",
+            "count": 2301
+        },
+        {
+            "term": "伊露",
+            "count": 1545
+        },
+        {
+            "term": "昊天",
+            "count": 1244
+        },
+        {
+            "term": "大战",
+            "count": 881
+        },
+        {
+            "term": "升华",
+            "count": 740
+        },
+        {
+            "term": "家族",
+            "count": 495
+        },
+        {
+            "term": "龙族",
+            "count": 485
+        },
+        {
+            "term": "大罗",
+            "count": 467
+        },
+        {
+            "term": "奇特",
+            "count": 358
+        },
+        {
+            "term": "大族",
+            "count": 337
+        },
+        {
+            "term": "护卫",
+            "count": 329
+        },
+        {
+            "term": "和平",
+            "count": 286
+        },
+        {
+            "term": "天命",
+            "count": 186
+        },
+        {
+            "term": "高科技",
+            "count": 182
+        },
+        {
+            "term": "光华",
+            "count": 162
+        },
+        {
+            "term": "天皇",
+            "count": 159
+        },
+        {
+            "term": "金发",
+            "count": 134
+        },
+        {
+            "term": "精华",
+            "count": 132
+        },
+        {
+            "term": "至宝",
+            "count": 125
+        },
+        {
+            "term": "筑基",
+            "count": 120
+        },
+        {
+            "term": "三观",
+            "count": 115
+        },
+        {
+            "term": "大佬",
+            "count": 114
+        },
+        {
+            "term": "八阵图",
+            "count": 107
+        },
+        {
+            "term": "乾坤",
+            "count": 97
+        },
+        {
+            "term": "恒星",
+            "count": 96
+        },
+        {
+            "term": "世界观",
+            "count": 93
+        },
+        {
+            "term": "天网",
+            "count": 88
+        },
+        {
+            "term": "弥罗",
+            "count": 87
+        },
+        {
+            "term": "菲力",
+            "count": 86
+        },
+        {
+            "term": "中昊",
+            "count": 82
+        },
+        {
+            "term": "鹏族",
+            "count": 79
+        },
+        {
+            "term": "抗衡",
+            "count": 77
+        },
+        {
+            "term": "红龙",
+            "count": 74
+        },
+        {
+            "term": "近战",
+            "count": 73
+        },
+        {
+            "term": "天大",
+            "count": 69
+        },
+        {
+            "term": "佛教",
+            "count": 68
+        },
+        {
+            "term": "巨斧",
+            "count": 65
+        },
+        {
+            "term": "英明",
+            "count": 63
+        },
+        {
+            "term": "本命",
+            "count": 62
+        },
+        {
+            "term": "新手村",
+            "count": 62
+        },
+        {
+            "term": "聊天",
+            "count": 61
+        },
+        {
+            "term": "同族",
+            "count": 58
+        },
+        {
+            "term": "赛特",
+            "count": 57
+        },
+        {
+            "term": "三皇",
+            "count": 54
+        },
+        {
+            "term": "恒定",
+            "count": 54
+        },
+        {
+            "term": "美味",
+            "count": 54
+        },
+        {
+            "term": "大屠杀",
+            "count": 50
+        },
+        {
+            "term": "第六感",
+            "count": 49
+        },
+        {
+            "term": "无语",
+            "count": 45
+        }
+    ]
+}

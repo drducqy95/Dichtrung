@@ -1,0 +1,148 @@
+{
+    "characters": [
+        {
+            "id": "char_001",
+            "name_source": "吴明",
+            "name_target": "Ngô Minh",
+            "gender": "male",
+            "role": "protagonist",
+            "description": "Nhân vật chính của truyện.",
+            "traits": [
+                "Tu chân giả",
+                "Phù văn"
+            ],
+            "status": "active"
+        },
+        {
+            "id": "char_002",
+            "name_source": "阿莫尔",
+            "name_target": "Amor",
+            "gender": "male",
+            "role": "major",
+            "description": "Thân phận bí ẩn, có liên quan đến các yếu tố phương Tây/Arcane.",
+            "status": "active"
+        },
+        {
+            "id": "char_003",
+            "name_source": "王羽",
+            "name_target": "Vương Vũ",
+            "gender": "male",
+            "role": "supporting",
+            "status": "active"
+        },
+        {
+            "id": "char_004",
+            "name_source": "洛丝",
+            "name_target": "Rose",
+            "gender": "female",
+            "role": "supporting",
+            "status": "active"
+        },
+        {
+            "id": "char_005",
+            "name_source": "子牙",
+            "name_target": "Tử Nha",
+            "gender": "male",
+            "role": "key_figure",
+            "description": "Khương Tử Nha, một nhân vật quan trọng trong Hồng Hoang.",
+            "status": "active"
+        },
+        {
+            "id": "char_006",
+            "name_source": "艾伊",
+            "name_target": "Ai Yi",
+            "gender": "female",
+            "role": "major",
+            "description": "Nhân vật nữ chính/quan trọng, bối cảnh phương Tây.",
+            "status": "active"
+        },
+        {
+            "id": "char_007",
+            "name_source": "杨烈",
+            "name_target": "Dương Liệt",
+            "gender": "male",
+            "role": "major",
+            "status": "active"
+        },
+        {
+            "id": "char_008",
+            "name_source": "维塔",
+            "name_target": "Veta",
+            "gender": "female",
+            "role": "supporting",
+            "status": "active"
+        },
+        {
+            "id": "char_009",
+            "name_source": "张好焕",
+            "name_target": "Trương Hảo Hoán",
+            "gender": "male",
+            "role": "major",
+            "status": "active"
+        },
+        {
+            "id": "char_010",
+            "name_source": "郑吒",
+            "name_target": "Trịnh Xá",
+            "gender": "male",
+            "role": "crossover",
+            "description": "Nhân vật chính từ Vô Hạn Khủng Bố.",
+            "status": "active"
+        },
+        {
+            "id": "char_011",
+            "name_source": "楚轩",
+            "name_target": "Sở Hiên",
+            "gender": "male",
+            "role": "crossover",
+            "description": "Nhân vật từ Vô Hạn Khủng Bố.",
+            "status": "active"
+        },
+        {
+            "id": "char_012",
+            "name_source": "李铭",
+            "name_target": "Lý Minh",
+            "gender": "male",
+            "role": "major",
+            "description": "Thanh niên trẻ tuổi, sinh viên Đại học Thái Thanh, có tư chất Thời Không.",
+            "status": "active"
+        },
+        {
+            "id": "char_013",
+            "name_source": "导师",
+            "name_target": "Đạo sư",
+            "gender": "male",
+            "role": "supporting",
+            "description": "Người dẫn dắt Lý Minh đến Cao tháp Ghi chép.",
+            "status": "active"
+        },
+        {
+            "id": "char_014",
+            "name_source": "埃尔法",
+            "name_target": "Ai Nhĩ Pháp",
+            "gender": "male",
+            "role": "supporting",
+            "description": "Học đồ pháp sư Bán Tinh Linh, thành viên đầu tiên được Ngô Minh triệu hoán.",
+            "status": "active"
+        },
+        {
+            "id": "char_015",
+            "name_source": "王羽",
+            "name_target": "Vương Vũ",
+            "gender": "male",
+            "role": "supporting",
+            "description": "Chiến binh kỳ cựu ở thế giới tận thế người máy, thành viên được Ngô Minh triệu hoán.",
+            "status": "active"
+        },
+        {
+            "id": "char_016",
+            "name_source": "徐文",
+            "name_target": "Từ Văn",
+            "gender": "male",
+            "role": "supporting",
+            "description": "Thư sinh thời nhà Tấn (Vĩnh Gia chi loạn), thành viên được Ngô Minh triệu hoán.",
+            "status": "active"
+        }
+    ],
+    "relationships": []
+}

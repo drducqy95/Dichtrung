@@ -1,0 +1,41 @@
+# Walkthrough: Thiết Kế Workflow & Rules Cho Dichtrung
+
+## Tổng Quan
+
+Đã thiết kế và triển khai hoàn chỉnh kiến trúc mono-repo cho `d:\Dichtrung` — repo dịch thuật tổng hợp 39+ source truyện.
+
+## Các Thay Đổi
+
+### Files Tạo Mới (14 files)
+
+| File | Mục đích |
+|------|----------|
+| `Global State/global_config.json` | Quy tắc dịch chung (ban CJK, sync rules) |
+| `Global State/global_characters.json` | Registry nhân vật tổng hợp liên project |
+| `Global State/global_glossary.json` | Thuật ngữ tổng hợp liên project |
+| `.agents/workflows/init-branch.md` | Workflow khởi tạo project branch mới |
+| `.agents/workflows/translate.md` | Override `/translate` — path mapping, CJK scan, Global State sync |
+| `.agents/workflows/translate-setup.md` | Override `/translate-setup` — import từ Global State |
+| `.agents/workflows/translate-wiki.md` | Override `/translate-wiki` — load data từ Output/[Branch] |
+| `.agents/workflows/ebook.md` | Override `/ebook` — build từ bản dịch cuối |
+| `.agents/workflows/sync-state.md` | Workflow đồng bộ state → Global State |
+| `dichtrung.json` | Trinity Identity file |
+| `.gitignore` | Git ignore rules |
+| `README.md` | Hướng dẫn sử dụng (tiếng Việt) |
+| `project_progress.json` | Trinity Progress tracker |
+| `all_global_errors.jsonl` | Error memory |
+
+### Files Sửa (1 file)
+
+| File | Thay đổi |
+|------|----------|
+| `Script/Tachchuong.py` | Đổi paths: `D:\Dichsach` → `D:\Dichtrung`, output → `Source/Source split/` |
+
+## Xác Minh
+
+| Kiểm tra | Kết quả |
+|----------|---------|
+| JSON validation (5 files) | ✅ Tất cả hợp lệ |
+| Workflow files (6 files) | ✅ Đủ mặt |
+| Cấu trúc thư mục | ✅ Đúng spec |
+| Git init | ✅ Đã khởi tạo |

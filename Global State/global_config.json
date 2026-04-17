@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "last_updated": "2026-04-16T21:38:00+07:00",
+    "description": "Quy tắc dịch thuật toàn cục cho repo Dichtrung"
+  },
+  "default_settings": {
+    "target_language": "vi",
+    "reflection_max_iterations": 3,
+    "pronoun_mode": "hybrid",
+    "sanitization": {
+      "ban_cjk_in_output": true,
+      "description": "Output KHÔNG được chứa ký tự CJK (Trung/Nhật/Hàn). Mọi output phải hoàn toàn bằng tiếng Việt."
+    }
+  },
+  "naming_conventions": {
+    "default_name_setting": "phien_am",
+    "description": "Mặc định phiên âm Hán-Việt cho truyện phương Đông. Có thể override ở từng project branch."
+  },
+  "style_rules": {
+    "output_language": "vi",
+    "tone": "Văn chương tiếng Việt tự nhiên, mượt mà",
+    "forbidden_patterns": [
+      "Ký tự Trung Quốc/Nhật/Hàn trong output",
+      "Dịch máy thô, câu cú lủng củng",
+      "Để nguyên thuật ngữ gốc không dịch (trừ trường hợp đặc biệt có ghi chú)"
+    ],
+    "required_patterns": [
+      "Xưng hô phải nhất quán theo characters.json",
+      "Thuật ngữ phải tuân thủ glossary.json",
+      "Văn phong phù hợp thể loại (cổ phong/hiện đại)"
+    ]
+  },
+  "genre_defaults": {
+    "eastern_fiction": {
+      "sub_genres": ["xianxia", "wuxia", "xuyen_khong", "do_thi", "huyen_huyen", "kiem_hiep"],
+      "name_setting": "phien_am",
+      "tone": "Cổ phong / Hiện đại tùy sub_genre"
+    },
+    "western_fiction": {
+      "sub_genres": ["fantasy", "sci_fi", "romance", "thriller"],
+      "name_setting": "keep_original",
+      "tone": "Hiện đại, tự nhiên"
+    }
+  },
+  "sync_rules": {
+    "auto_sync_glossary": true,
+    "auto_sync_characters": true,
+    "sync_on_chapter_complete": true,
+    "description": "Mỗi khi dịch xong 1 chương, state cục bộ TỰ ĐỘNG đồng bộ sang Global State"
+  },
+  "source_rules": {
+    "source_immutable": true,
+    "source_location": "Source/Source split/[Tên Project]/",
+    "description": "Source KHÔNG BAO GIỜ được copy vào project branch. Luôn tham chiếu từ Source/"
+  }
+}

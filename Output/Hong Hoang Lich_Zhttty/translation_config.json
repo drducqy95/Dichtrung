@@ -1,0 +1,19 @@
+{
+  "project_name": "Hong Hoang Lich",
+  "source_language": "zh",
+  "target_language": "vi",
+  "genre": "eastern_fiction",
+  "sub_genre": "xianxia",
+  "name_setting": "hybrid_latin_hanviet",
+  "pronoun_mode": "hybrid",
+  "reflection_max_iterations": 3,
+  "created_at": "2026-04-16T15:13:10Z",
+  "total_chapters": 1836,
+  "notes": "Tên Trung: Hán-Việt. Tên Tây/Nhật/Hàn: Latinh.",
+  "source_ref": {
+    "full": "Source/Source full/Hồng Hoang Lịch_Zhttty.html",
+    "split": "Source/Source split/Hong Hoang Lich_Zhttty/",
+    "description": "Source nam o thu muc goc, KHONG copy vao branch"
+  },
+  "project_branch": "Hong Hoang Lich_Zhttty"
+}

@@ -1,0 +1,186 @@
+{
+  "factions": [
+    {
+      "name": "Thất Huyền môn",
+      "original_name": "七玄门",
+      "type": "Mortals Sect",
+      "leader": "Vương Tuyệt Sở?"
+    },
+    {
+      "name": "Kinh Giao hội",
+      "original_name": "惊蛟会",
+      "type": "Underground",
+      "leader": "Mặc Cư Nhân (former)"
+    },
+    {
+      "name": "Độc Bá sơn trang",
+      "original_name": "独霸山庄",
+      "type": "Giang hồ - Lam Châu",
+      "leader": "Âu Dương Phi Thiên"
+    },
+    {
+      "name": "Ngũ Sắc môn",
+      "original_name": "五色门",
+      "type": "Giang hồ - Lam Châu"
+    },
+    {
+      "name": "Linh Thú sơn",
+      "original_name": "灵兽山",
+      "type": "Tu tiên môn phái - Việt Quốc"
+    },
+    {
+      "name": "Huyết Vệ doanh",
+      "original_name": "血卫营",
+      "type": "Lực lượng tinh nhuệ - Độc Bá sơn trang"
+    },
+    {
+      "name": "Ngự Linh tông",
+      "original_name": "御灵宗",
+      "type": "Tu tiên môn phái - Ma Đạo"
+    }
+  ],
+  "weapons": [],
+  "techniques": [
+    {
+      "name": "Kim Quang quyết",
+      "original_name": "金光诀",
+      "description": "Thập tam tầng Kim thuộc tính công pháp"
+    },
+    {
+      "name": "Tượng Giáp Công",
+      "original_name": "象甲功",
+      "type": "External Martial Arts"
+    },
+    {
+      "name": "Trường Xuân Công",
+      "original_name": "长春功",
+      "type": "Cultivation (Wood)"
+    },
+    {
+      "name": "Thất Quỷ Phệ Hồn Đại Pháp",
+      "original_name": "七鬼噬魂大法",
+      "type": "Evil Technique (Possession)"
+    },
+    {
+      "name": "Triền Nhiễu Thuật",
+      "original_name": "缠绕术",
+      "type": "Talent Technique (Wood)"
+    },
+    {
+      "name": "Kinh Gai Thuật",
+      "original_name": "荆棘术",
+      "original_name_alias": "荆棘术",
+      "type": "Talent Technique (Wood)"
+    }
+  ],
+  "cultivation_systems": [
+    {
+      "name": "Luyện Khí kỳ",
+      "stages": [
+        "Tầng 1-13"
+      ]
+    }
+  ],
+  "cultivation_resources": [
+    {
+      "name": "Tiểu lục bình",
+      "original_name": "绿瓶",
+      "description": "Tạo ra linh dịch thúc chín linh dược."
+    },
+    {
+      "name": "Thanh Ngọc Quả",
+      "original_name": "青玉果",
+      "description": "Linh quả mộc hệ."
+    },
+    {
+      "name": "Hoàng Tuy Chi",
+      "original_name": "黄髓芝",
+      "description": "Linh thảo quý giá, nguyên liệu cho Thanh Linh Đan."
+    },
+    {
+      "name": "Ngũ Lý Câu",
+      "original_name": "五 Lý Câu",
+      "description": "Nơi cư ngụ của Kim Quang thượng nhân"
+    },
+    {
+      "name": "Thái Nam sơn",
+      "original_name": "太南山",
+      "description": "Nơi tổ chức Thái Nam tiểu hội"
+    },
+    {
+      "name": "Quảng Quý thành",
+      "original_name": "广贵城",
+      "description": "Thành phố cực nam của Lam Châu"
+    },
+    {
+      "name": "Thái Nam cốc",
+      "original_name": "太南谷",
+      "description": "Nơi cư ngụ và giao dịch của tu tiên giả tại Thái Nam sơn"
+    },
+    {
+      "name": "Thanh Linh Đan",
+      "original_name": "清灵丹",
+      "description": "Linh đan cao cấp mộc hệ, chủ dược là Thanh Ngọc Quả."
+    },
+    {
+      "name": "Thanh Thạch Quáng",
+      "original_name": "青石矿",
+      "description": "Khoáng thạch luyện khí."
+    },
+    {
+      "name": "Yêu hồn hệ Mộc cấp 1",
+      "original_name": "一级木属性妖魂",
+      "description": "Nguyên liệu then chốt cho Huyết mạch chuyển hóa lô."
+    },
+    {
+      "name": "Vân Xí Điểu",
+      "original_name": "云翅鸟",
+      "description": "Linh điểu tốc độ cực nhanh, có trí tuệ cao."
+    },
+    {
+      "name": "Thăng Tiên Lệnh",
+      "original_name": "升仙令",
+      "description": "Lệnh bài quý giá dùng để tham gia Thăng Tiên Đại Hội hoặc gia nhập môn phái tu tiên."
+    }
+  ],
+  "locations": [
+    {
+      "name": "Thanh Ngưu trấn",
+      "original_name": "青牛镇",
+      "type": "Thị trấn"
+    },
+    {
+      "name": "Ngũ Lý câu",
+      "original_name": "五里沟",
+      "type": "Thôn xóm"
+    },
+    {
+      "name": "Gia Nguyên thành",
+      "original_name": "嘉元城",
+      "type": "Thành thị"
+    },
+    {
+      "name": "Thái Hà sơn",
+      "original_name": "彩霞山",
+      "type": "Sơn mạch"
+    },
+    {
+      "name": "Thần Thủ cốc",
+      "original_name": "神手谷",
+      "type": "Thung lũng"
+    },
+    {
+      "name": "Bích Ngọc sơn mạch",
+      "original_name": "碧玉山脉",
+      "type": "Dãy núi"
+    }
+  ],
+  "world_map": {
+    "generated": false
+  },
+  "relationship_diagrams": {
+    "character_relationship": {
+      "generated": false
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "project_name": "Pham Nhan Bat Dau Tu Mo Cu Nhan",
+  "source_language": "zh",
+  "target_language": "vi",
+  "genre": "eastern_fiction",
+  "sub_genre": "xianxia",
+  "name_setting": "phien_am_hanviet",
+  "pronoun_mode": "hybrid",
+  "reflection_max_iterations": 3,
+  "created_at": "2026-04-14T21:22:00Z",
+  "total_chapters": 1337,
+  "notes": "Fanfiction Phàm Nhân Tu Tiên, main Mặc Cư Nhân, hệ thống huyết mạch.",
+  "styling_rules": {
+    "locations": "Hán-Việt cho danh từ riêng/tiêu đề; thuần Việt (núi, thung lũng, dãy núi) cho lời thoại và văn miêu tả. TUÂN THỦ: Không lặp nghĩa (VD: Không dùng 'núi Thái Hà Sơn' mà dùng 'núi Thái Hà' hoặc 'Thái Hà Sơn').",
+    "grammar": "Cấu trúc từ trung: Danh từ đứng sau Tính từ/Định ngữ (VD: 青石矿 -> Thanh Thạch Quáng). TRÁNH LẶP NGHĨA: Không dùng 'khoáng Thanh Thạch Quáng', dùng 'khoáng Thanh Thạch' hoặc 'Thanh Thạch Quáng'.",
+    "linh_thao_linh_qua": {
+      "van_ban_ten_rieng": "Hán Việt (VD: Thanh Ngọc Quả, Hoàng Tuy Chi)",
+      "van_noi_nhe_nhang": "Thuần Việt (VD: quả Thanh Ngọc, cỏ Hoàng Tuy)"
+    }
+  },
+  "source_ref": {
+    "full": "Source/Source full/Phàm Nhân Bắt Đầu Đoạt Xá Mặc Cư Nhân_Tiêu Trần Tử.html",
+    "split": "Source/Source split/Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu/",
+    "description": "Source nam o thu muc goc, KHONG copy vao branch"
+  },
+  "project_branch": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu"
+}

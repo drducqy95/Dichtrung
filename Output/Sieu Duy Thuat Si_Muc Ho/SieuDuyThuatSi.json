@@ -1,0 +1,14 @@
+{
+  "project_name": "Siêu Duy Thuật Sĩ",
+  "identity_vector": "translation_project",
+  "tech_stack": {
+    "engine": "Translation Engine v2.0",
+    "state_management": "Trinity Protocol",
+    "format": "Markdown"
+  },
+  "rules": [
+    "Strict name preservation for Latin names",
+    "Sino-Vietnamese for oriental names/locations",
+    "Synchronize state after every chapter"
+  ]
+}

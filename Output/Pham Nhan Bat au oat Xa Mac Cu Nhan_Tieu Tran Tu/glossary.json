@@ -1,0 +1,456 @@
+{
+  "metadata": {
+    "source_language": "zh",
+    "target_language": "vi",
+    "genre": "eastern_fiction",
+    "last_updated": "2026-04-14T21:23:00Z"
+  },
+  "entries": [
+    {
+      "source": "彩霞山",
+      "target": "Thái Hà Sơn",
+      "category": "location",
+      "note": "Setting start"
+    },
+    {
+      "source": "神手谷",
+      "target": "Thần Thủ Cốc",
+      "category": "location",
+      "note": "Setting start"
+    },
+    {
+      "source": "墨居仁",
+      "target": "Mặc Cư Nhân",
+      "category": "character",
+      "note": "Protagonist"
+    },
+    {
+      "source": "墨大夫",
+      "target": "Mặc đại phu",
+      "category": "character",
+      "note": "Alias of Mo"
+    },
+    {
+      "source": "余子童",
+      "target": "Dư Tử Đồng",
+      "category": "character",
+      "note": "Possessing spirit"
+    },
+    {
+      "source": "韩立",
+      "target": "Hàn Lập",
+      "category": "character",
+      "note": "Mortal Journey Protagonist"
+    },
+    {
+      "source": "七玄门",
+      "target": "Thất Huyền Môn",
+      "category": "faction",
+      "note": "Starting sect"
+    },
+    {
+      "source": "惊蛟会",
+      "target": "Kinh Giao Hội",
+      "category": "faction",
+      "note": "Mo's founded faction"
+    },
+    {
+      "source": "岚州",
+      "target": "Lam Châu",
+      "category": "location"
+    },
+    {
+      "source": "先天武者",
+      "target": "Tiên thiên võ giả",
+      "category": "cultivation"
+    },
+    {
+      "source": "血脉转化炉",
+      "target": "Huyết mạch chuyển hóa lô",
+      "category": "item",
+      "note": "Cheat item"
+    },
+    {
+      "source": "未来之身",
+      "target": "Tương lai thân",
+      "category": "general"
+    },
+    {
+      "source": "青石矿",
+      "target": "Thanh Thạch Quáng",
+      "category": "item"
+    },
+    {
+      "source": "一级木属性妖魂",
+      "target": "Yêu hồn hệ Mộc cấp 1",
+      "category": "item"
+    },
+    {
+      "source": "清灵丹",
+      "target": "Thanh Linh Đan",
+      "category": "item"
+    },
+    {
+      "source": "长生经",
+      "target": "Trường Sinh Kinh",
+      "category": "item"
+    },
+    {
+      "source": "青玉果",
+      "target": "Thanh Ngọc Quả",
+      "category": "item"
+    },
+    {
+      "source": "黄髓芝",
+      "target": "Hoàng Tuy Chi",
+      "category": "item"
+    },
+    {
+      "source": "铁奴",
+      "target": "Thiết Nô",
+      "category": "character"
+    },
+    {
+      "source": "夺舍三大铁则",
+      "target": "Ba đại thiết luật của đoạt xá",
+      "category": "cultivation"
+    },
+    {
+      "source": "缠绕术",
+      "target": "Triền Nhiễu Thuật",
+      "category": "cultivation"
+    },
+    {
+      "source": "荆棘术",
+      "target": "Kinh Gai Thuật",
+      "category": "cultivation"
+    },
+    {
+      "source": "血箭阴魂咒",
+      "target": "Huyết Tiễn Âm Hồn Chú",
+      "category": "cultivation"
+    },
+    {
+      "source": "洗髓伐骨",
+      "target": "Tẩy tủy phạt cốt",
+      "category": "general"
+    },
+    {
+      "source": "云翅鸟",
+      "target": "Vân Xí Điểu",
+      "category": "item",
+      "note": "Spirit bird"
+    },
+    {
+      "source": "青牛镇",
+      "target": "Thanh Ngưu Trấn",
+      "category": "location"
+    },
+    {
+      "source": "五里沟",
+      "target": "Ngũ Lý Câu",
+      "category": "location"
+    },
+    {
+      "source": "金光上人",
+      "target": "Kim Quang Thượng Nhân",
+      "category": "character"
+    },
+    {
+      "source": "金光观",
+      "target": "Kim Quang Quán",
+      "category": "location"
+    },
+    {
+      "source": "会仙楼",
+      "target": "Hội Tiên Lâu",
+      "category": "location"
+    },
+    {
+      "source": "升仙令",
+      "target": "Thăng Tiên Lệnh",
+      "category": "item"
+    },
+    {
+      "source": "嘉元城",
+      "target": "Gia Nguyên Thành",
+      "category": "location"
+    },
+    {
+      "source": "严氏",
+      "target": "Nghiêm thị",
+      "category": "character",
+      "note": "Fourth wife"
+    },
+    {
+      "source": "墨彩环",
+      "target": "Mặc Thái Hoàn",
+      "category": "character",
+      "note": "Mo's daughter"
+    },
+    {
+      "source": "越国",
+      "target": "Việt Quốc",
+      "category": "location"
+    },
+    {
+      "source": "辛州",
+      "target": "Tân Châu",
+      "category": "location"
+    },
+    {
+      "source": "王氏",
+      "target": "Vương thị",
+      "category": "character",
+      "note": "Fifth wife"
+    },
+    {
+      "source": "王雪贞",
+      "target": "Vương Tuyết Trinh",
+      "category": "character"
+    },
+    {
+      "source": "金氏",
+      "target": "Kim thị",
+      "category": "character",
+      "note": "First wife"
+    },
+    {
+      "source": "墨玉珠",
+      "target": "Mặc Ngọc Châu",
+      "category": "character",
+      "note": "Eldest daughter"
+    },
+    {
+      "source": "灵兽山",
+      "target": "Linh Thú Sơn",
+      "category": "faction"
+    },
+    {
+      "source": "御灵宗",
+      "target": "Ngự Linh Tông",
+      "category": "faction"
+    },
+    {
+      "source": "铁奴",
+      "target": "Thiết Nô",
+      "category": "character"
+    },
+    {
+      "source": "萦香丸",
+      "target": "Oanh Hương Hoàn",
+      "category": "item"
+    },
+    {
+      "source": "金光诀",
+      "target": "Kim Quang Quyết",
+      "category": "technique"
+    },
+    {
+      "source": "血卫营",
+      "target": "Huyết Vệ Doanh",
+      "category": "faction",
+      "note": "Elite force of Dộc Bá Sơn Trang"
+    },
+    {
+      "source": "欧阳飞天",
+      "target": "Âu Dương Phi Thiên",
+      "category": "character"
+    },
+    {
+      "source": "太南山",
+      "target": "Thái Nam Sơn",
+      "category": "location"
+    },
+    {
+      "source": "升仙大会",
+      "target": "Thăng Tiên Đại Hội",
+      "category": "event"
+    },
+    {
+      "source": "紫灵",
+      "target": "Tử Linh",
+      "category": "character"
+    },
+    {
+      "source": "南宫婉",
+      "target": "Nam Cung Uyển",
+      "category": "character"
+    },
+    {
+      "source": "广贵城",
+      "target": "Quảng Quý Thành",
+      "category": "location"
+    },
+    {
+      "source": "太南谷",
+      "target": "Thái Nam Cốc",
+      "category": "location"
+    },
+    {
+      "source": "太南小会",
+      "target": "Thái Nam Tiểu Hội",
+      "category": "event"
+    },
+    {
+      "source": "灵石",
+      "target": "Linh thạch",
+      "category": "item"
+    },
+    {
+      "source": "金刚符",
+      "target": "Kim Cương Phù",
+      "category": "item"
+    },
+    {
+      "source": "定神符",
+      "target": "Định Thần Phù",
+      "category": "item"
+    },
+    {
+      "source": "符箓入门浅谈",
+      "target": "Phù Lục Nhập Môn Thiển Đàm",
+      "category": "book"
+    },
+    {
+      "source": "荆棘符",
+      "target": "Kinh Cức Phù",
+      "category": "item"
+    },
+    {
+      "source": "碧鳞蟒",
+      "target": "Bích Lân Mãng",
+      "category": "character"
+    },
+    {
+      "source": "荆棘术",
+      "target": "Kinh Cức Thuật",
+      "category": "skill"
+    },
+    {
+      "source": "毒刺荆棘",
+      "target": "Độc Thứ Kinh Cức",
+      "category": "item"
+    },
+    {
+      "source": "惑神术",
+      "target": "Hoặc Thần Thuật",
+      "category": "skill"
+    },
+    {
+      "source": "石甲术",
+      "target": "Thạch Giáp Thuật",
+      "category": "skill"
+    },
+    {
+      "source": "流沙术",
+      "target": "Lưu Sa Thuật",
+      "category": "skill"
+    },
+    {
+      "source": "火球术",
+      "target": "Hỏa Cầu Thuật",
+      "category": "skill"
+    },
+    {
+      "source": "冰箭术",
+      "target": "Băng Tiễn Thuật",
+      "category": "skill"
+    },
+    {
+      "source": "腐蚀术",
+      "target": "Hủ Thực Thuật",
+      "category": "skill"
+    },
+    {
+      "source": "碧眼狐",
+      "target": "Bích Nhãn Hồ",
+      "category": "beast"
+    },
+    {
+      "source": "赤焰豹",
+      "target": "Xích Diễm Báo",
+      "category": "beast"
+    },
+    {
+      "source": "岩蟒",
+      "target": "Nham Mãng",
+      "category": "beast"
+    },
+    {
+      "source": "巨力龟",
+      "target": "Cự Lực Quy",
+      "category": "beast"
+    },
+    {
+      "source": "菡云峰",
+      "target": "Hàn Vân Phong",
+      "category": "character"
+    },
+    {
+      "source": "迷心术",
+      "target": "Mê Tâm Thuật",
+      "category": "skill"
+    },
+    {
+      "source": "升仙令",
+      "target": "Thăng Tiên Lệnh",
+      "category": "item"
+    },
+    {
+      "source": "筑基丹",
+      "target": "Trúc Cơ Đan",
+      "category": "item"
+    },
+    {
+      "source": "修仙界概述",
+      "target": "Tu Tiên Giới Khái Thuật",
+      "category": "book"
+    },
+    {
+      "source": "青纹",
+      "target": "Thanh Văn",
+      "category": "character"
+    },
+    {
+      "source": "吴九指",
+      "target": "Ngô Cửu Chỉ",
+      "category": "character"
+    },
+    {
+      "source": "吴剑鸣",
+      "target": "Ngô Kiếm Minh",
+      "category": "character"
+    },
+    {
+      "source": "独霸山庄",
+      "target": "Độc Bá Sơn Trang",
+      "category": "faction"
+    },
+    {
+      "source": "五色门",
+      "target": "Ngũ Sắc Môn",
+      "category": "faction"
+    },
+    {
+      "source": "天霸门",
+      "target": "Thiên Bá Môn",
+      "category": "faction"
+    },
+    {
+      "source": "兄弟盟",
+      "target": "Huynh Đệ Minh",
+      "category": "faction"
+    },
+    {
+      "name": "Thanh Ngưu trấn",
+      "original_name": "青牛镇",
+      "type": "Thị trấn"
+    },
+    {
+      "name": "Ngũ Lý câu",
+      "original_name": "五里沟",
+      "type": "Thôn xóm"
+    }
+  ]
+}

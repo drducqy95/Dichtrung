@@ -1,0 +1,130 @@
+{
+  "characters": [
+    {
+      "id": "char_0001",
+      "names": {
+        "original": "安格尔",
+        "latin": "Angel",
+        "pinyin": "Anger",
+        "hanviet": "An Cách Nhĩ"
+      },
+      "gender": "male",
+      "role": "protagonist",
+      "description": "Nhị thiếu gia nhà Patte, đệ tử của Jon.",
+      "status": "active"
+    },
+    {
+      "id": "char_0002",
+      "names": {
+        "original": "里昂",
+        "latin": "Leon",
+        "pinyin": "Liang",
+        "hanviet": "Lý Ngang"
+      },
+      "gender": "male",
+      "role": "supporting",
+      "description": "Đại thiếu gia nhà Patte, anh trai của Angel.",
+      "status": "active"
+    },
+    {
+      "id": "char_0003",
+      "names": {
+        "original": "乔恩",
+        "latin": "Jon",
+        "pinyin": "Qiao En",
+        "hanviet": "Kiều Ân"
+      },
+      "gender": "male",
+      "role": "mentor",
+      "description": "Thầy của Angel, người xuyên không đến từ Trái Đất.",
+      "status": "active"
+    },
+    {
+      "id": "char_0004",
+      "names": {
+        "original": "伊顿.蒙恩",
+        "latin": "Eaton Morn",
+        "pinyin": "Yidun Meng'en",
+        "hanviet": "Y Đốn Mông Ân"
+      },
+      "gender": "male",
+      "role": "supporting",
+      "description": "Bá tước gia tộc Morn, chỉ huy Tiểu đoàn tiên phong tiền tuyến.",
+      "status": "active"
+    },
+    {
+      "id": "char_0005",
+      "names": {
+        "original": "艾伦",
+        "latin": "Allen",
+        "hanviet": "Ngải Luân"
+      },
+      "gender": "male",
+      "role": "supporting",
+      "description": "Cháu nội của Bạch Ma pháp sư gia tộc Morn, có thiên phú ma pháp.",
+      "status": "active"
+    },
+    {
+      "id": "char_0006",
+      "names": {
+        "original": "艾琳",
+        "latin": "Aileen",
+        "hanviet": "Ngải Lâm"
+      },
+      "gender": "female",
+      "role": "supporting",
+      "description": "Cháu nội của Bạch Ma pháp sư gia tộc Morn, có thiên phú ma pháp.",
+      "status": "active"
+    },
+    {
+      "id": "char_0007",
+      "names": {
+        "original": "白胡子老头 (蒙恩家)",
+        "latin": "White Wizard (Morn)",
+        "hanviet": "Bạch Ma Pháp Sư (Morn)"
+      },
+      "gender": "male",
+      "role": "supporting",
+      "description": "Cha của Eaton Morn, một Bạch Ma pháp sư đến từ Lục địa Old Earth.",
+      "status": "active"
+    },
+    {
+      "id": "char_0008",
+      "names": {
+        "original": "马尔",
+        "latin": "Mar",
+        "hanviet": "Mã Nhĩ"
+      },
+      "gender": "male",
+      "role": "supporting",
+      "description": "Kỵ sĩ trưởng của Bá tước Eaton Morn.",
+      "status": "active"
+    },
+    {
+      "id": "char_0009",
+      "names": {
+        "original": "摩罗.蒙恩",
+        "latin": "Moro Morn",
+        "hanviet": "Ma La Mông Ân"
+      },
+      "gender": "male",
+      "role": "antagonist",
+      "description": "Cha của Eaton Morn, một Ma pháp sư đang tìm kiếm bí mật của Morning Dew after Rain.",
+      "status": "active"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "char_0001",
+      "target": "char_0002",
+      "type": "brother",
+      "intimacy": 80
+    },
+    {
+      "source": "char_0001",
+      "target": "char_0003",
+      "type": "disciple",
+      "intimacy": 90
+    }
+  ]
+}

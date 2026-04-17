@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "project_name": "Pham Nhan Bat Dau Tu Mo Cu Nhan",
+    "source_language": "zh",
+    "target_language": "vi",
+    "genre": "eastern_fiction",
+    "sub_genre": "xianxia",
+    "pronoun_mode": "hybrid",
+    "last_updated": "2026-04-14T21:24:00Z"
+  },
+  "project_pronouns": [
+    {
+      "id": "mo-han-early",
+      "speaker": "Mặc Cư Nhân",
+      "listener": "Hàn Lập",
+      "self_form": "vi sư",
+      "other_form": "đồ nhi",
+      "relationship": "master_disciple",
+      "priority": 100
+    },
+    {
+      "id": "han-mo-early",
+      "speaker": "Hàn Lập",
+      "listener": "Mặc Cư Nhân",
+      "self_form": "đệ tử",
+      "other_form": "sư phụ",
+      "relationship": "master_disciple",
+      "priority": 100
+    },
+    {
+      "id": "mo-yu",
+      "speaker": "Mặc Cư Nhân",
+      "listener": "Dư Tử Đồng",
+      "self_form": "ta",
+      "other_form": "ngươi",
+      "relationship": "hostile_cooperation",
+      "priority": 100
+    }
+  ]
+}

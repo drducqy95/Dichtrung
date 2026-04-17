@@ -1,0 +1,110 @@
+{
+  "project_name": "Dichtrung",
+  "current_milestone": null,
+  "milestones": [
+    {
+      "id": "M1",
+      "title": "Ác Linh Quốc Gia",
+      "branch": "Ac Linh Quoc Gia",
+      "status": "IN_PROGRESS",
+      "source_file": "Source/Source full/Ác Linh Quốc Gia_Đạn Chỉ Nhất Tiếu Gian 0.html",
+      "source_split": "Source/Source split/Ac Linh Quoc Gia/",
+      "output_dir": "Output/Ac Linh Quoc Gia/",
+      "total_chapters": 1671,
+      "completed_chapters": 409,
+      "last_processed_chapter": 410,
+      "ebook_built": false,
+      "last_updated": "2026-04-17T08:50:10+07:00"
+    },
+    {
+      "id": "M2",
+      "title": "Chủ Thần Đại Đạo",
+      "branch": "Chu Than Dai Dao_Co Nguyet Cu Si",
+      "status": "IN_PROGRESS",
+      "source_file": "Source/Source full/Chủ Thần Đại Đạo_Cổ Nguyệt Cư Sĩ.html",
+      "source_split": "Source/Source split/Chu Than Dai Dao_Co Nguyet Cu Si/",
+      "output_dir": "Output/Chu Than Dai Dao_Co Nguyet Cu Si/",
+      "total_chapters": 1603,
+      "completed_chapters": 50,
+      "last_processed_chapter": 50,
+      "ebook_built": false,
+      "last_updated": "2026-04-17T08:50:10+07:00"
+    },
+    {
+      "id": "M3",
+      "title": "Hong Hoang Lich",
+      "branch": "Hong Hoang Lich_Zhttty",
+      "status": "IN_PROGRESS",
+      "source_file": "Source/Source full/Hồng Hoang Lịch_Zhttty.html",
+      "source_split": "Source/Source split/Hong Hoang Lich_Zhttty/",
+      "output_dir": "Output/Hong Hoang Lich_Zhttty/",
+      "total_chapters": 1836,
+      "completed_chapters": 10,
+      "last_processed_chapter": 10,
+      "ebook_built": false,
+      "last_updated": "2026-04-17T08:50:10+07:00"
+    },
+    {
+      "id": "M4",
+      "title": "Pham Nhan Bat Dau Tu Mo Cu Nhan",
+      "branch": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+      "status": "IN_PROGRESS",
+      "source_file": "Source/Source full/Phàm Nhân Bắt Đầu Đoạt Xá Mặc Cư Nhân_Tiêu Trần Tử.html",
+      "source_split": "Source/Source split/Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu/",
+      "output_dir": "Output/Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu/",
+      "total_chapters": 1337,
+      "completed_chapters": 20,
+      "last_processed_chapter": 20,
+      "ebook_built": false,
+      "last_updated": "2026-04-17T08:50:10+07:00"
+    },
+    {
+      "id": "M5",
+      "title": "Phi Phàm Hồng Hoang",
+      "branch": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "status": "IN_PROGRESS",
+      "source_file": "Source/Source full/Phi Phàm Hồng Hoang_Ngã Tự Phi Phàm.html",
+      "source_split": "Source/Source split/Phi Pham Hong Hoang_Nga Tu Phi Pham/",
+      "output_dir": "Output/Phi Pham Hong Hoang_Nga Tu Phi Pham/",
+      "total_chapters": 3398,
+      "completed_chapters": 15,
+      "last_processed_chapter": 15,
+      "ebook_built": false,
+      "last_updated": "2026-04-17T08:50:10+07:00"
+    },
+    {
+      "id": "M6",
+      "title": "Siêu Duy Thuật Sĩ",
+      "branch": "Sieu Duy Thuat Si_Muc Ho",
+      "status": "IN_PROGRESS",
+      "source_file": "Source/Source full/Siêu Duy Thuật Sĩ_Mục Hồ.html",
+      "source_split": "Source/Source split/Sieu Duy Thuat Si_Muc Ho/",
+      "output_dir": "Output/Sieu Duy Thuat Si_Muc Ho/",
+      "total_chapters": 4393,
+      "completed_chapters": 20,
+      "last_processed_chapter": 20,
+      "ebook_built": false,
+      "last_updated": "2026-04-17T08:50:10+07:00"
+    },
+    {
+      "id": "M7",
+      "title": "Theo Tử Thần Bắt Đầu Ảnh Xuyên Qua Tông Mạn Vô Hạn",
+      "branch": "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han",
+      "status": "IN_PROGRESS",
+      "source_file": "Source/Source full/Theo Tử Thần Bắt Đầu Đánh Xuyên Qua Tổng Mạn Vô Hạn.html",
+      "source_split": "Source/Source split/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han/",
+      "output_dir": "Output/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han/",
+      "total_chapters": 1187,
+      "completed_chapters": 6,
+      "last_processed_chapter": 6,
+      "ebook_built": false,
+      "last_updated": "2026-04-17T08:50:10+07:00"
+    }
+  ],
+  "last_updated": "2026-04-17T08:50:10+07:00",
+  "meta": {
+    "last_updated": "2026-04-17T08:50:10+07:00",
+    "current_phase": "Project Branch Tracking",
+    "tracked_projects": 7
+  }
+}

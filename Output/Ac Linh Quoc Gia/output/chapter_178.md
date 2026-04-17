@@ -1,0 +1,38 @@
+# Chương 178: Thủ đêm
+
+Tiếp đó, dưới sự chỉ định của Từ Thiên Hoa, ba tiểu tổ còn lại cũng đều tham gia vào công tác lục soát các hộ dân ở phía Đông thôn. Nhưng trong quá trình đó, mọi chuyện chẳng hề diễn ra nhẹ nhàng như nhóm của Hạ Thiên Kì. Chỉ sau một lượt, trong ba tiểu tổ lại có thêm hai người bị giết.
+
+Tính cả tiểu tổ phụ trách phía Đông đã tử nạn toàn bộ trước đó, tính đến thời điểm hiện tại, đoàn đội vốn có 18 người giờ đã chết mất 9 người. Nói cách khác, kể từ khi sự kiện bắt đầu đến giờ chưa đầy 3 tiếng đồng hồ, họ đã tổn thất một nửa quân số. Mà điều nực cười hơn cả là họ đã phải trả một cái giá thảm trọng như vậy nhưng ngay cả cái bóng của con quỷ vật đó cũng chưa thấy đâu. Và việc suy đoán con quỷ vật đó đang ẩn nấp ở phía Đông thôn cho đến nay cũng chỉ dừng lại ở mức suy đoán mà thôi. Ngoài việc tiểu tổ mất tích không dấu vết lúc trước ra, không còn bất kỳ bằng chứng nào cho thấy con quỷ vật đáng sợ đó đang lẩn trốn ở phía bên này.
+
+Thế nhưng Từ Thiên Hoa không chịu bãi binh thu quân, bọn họ với tư cách là những nhân viên cấp dưới dĩ nhiên cũng chỉ có thể nhắm mắt đưa chân tiếp tục lục soát. Có lẽ cảm thấy họ lục soát quá chậm, cũng có lẽ cảm nhận được sự kháng cự thầm kín trong lòng mọi người, nên Từ Thiên Hoa cũng bắt đầu trực tiếp tham gia vào việc tìm kiếm. Những con tiểu quỷ nấp trong nhà đối với gã chỉ là hạng "một chiêu đoạt mạng", khiến mọi người không khỏi thầm kinh hãi.
+
+Trong quá trình này, Hạ Thiên Kì cũng âm thầm đem Lãnh Nguyệt ra so sánh với Từ Thiên Hoa, xem Lãnh Nguyệt rốt cuộc kém Từ Thiên Hoa bao nhiêu, hay nói cách khác là Lãnh Nguyệt có thực lực mạnh như Từ Thiên Hoa hay không. Nhưng vì Từ Thiên Hoa căn bản chưa xuất toàn lực, phía Lãnh Nguyệt trông cũng rất thong dong, nên hắn so sánh nửa ngày cũng chẳng ra được kết quả gì rõ rệt. Tuy nhiên nghĩ tới việc Từ Thiên Hoa đã làm Chủ quản từ lâu, dù cho căn cơ có kém Lãnh Nguyệt đi chăng nữa thì chỉ cần dùng điểm vinh dự để "đắp" lên cũng đủ để mạnh lên rồi.
+
+Mặc dù trong lòng cảm thấy thực lực của Lãnh Nguyệt có thể hơi kém Từ Thiên Hoa một chút, nhưng Hạ Thiên Kì vẫn rất công nhận năng lực của anh. Dẫu sao thì nhìn vào biểu hiện của các tiểu tổ khác khi đối diện với đám tiểu quỷ đó, không khó để nhận ra Lãnh Nguyệt về thực lực cứng đã bỏ xa họ cả một đoạn đường dài. Chỉ có một số ít người là trông không quá thảm hại, trong đó bao gồm những người để lại ấn tượng khá sâu cho hắn như Tông Đức Cương, Vương Khải, cô gái tóc ngắn kia và cậu thiếu niên gầy gò.
+
+Trong bốn người này, ngoại trừ Vương Khải có thể thực hiện quỷ hóa một cánh tay ra, những người còn lại đều là người sở hữu thuật pháp. Vì trước đó có ấn tượng về việc cậu thiếu niên gầy gò từng lên tiếng mỉa mai người đàn ông lực lưỡng, nên Hạ Thiên Kì đặc biệt quan sát biểu hiện của cậu ta khi đối mặt với tiểu quỷ. Nói không ngoa thì mức độ thong dong của cậu ta chẳng hề thua kém Lãnh Nguyệt chút nào, khiến Hạ Thiên Kì cũng phải không ngừng tặc lưỡi, thầm nghĩ đối phương quả nhiên là có vốn liếng để làm màu. Còn về người đàn ông lực lưỡng từng xung đột với hắn, chưa kịp chứng kiến cảnh này thì đã bị khử sạch trong lúc lục soát trước đó rồi, nếu không e là gã sẽ phải hối hận vì những lời hù dọa hùng hổ đã thốt ra lúc ấy.
+
+Vì sự kiện đoàn đội lần này có giới hạn thời gian, nên Từ Thiên Hoa nghiêm lệnh cho mọi người không được phép dừng lại, phải lục soát liên tục. Thời gian từng chút một trôi qua, mọi người tuy không có thêm tổn thất về nhân số nhưng trên người ai nấy đều ít nhiều mang theo thương tích.
+
+Gần 1 giờ sáng, mọi người đều lâm vào tình trạng kiệt sức cả về thể lực lẫn pháp lực, khó lòng tiếp tục tìm kiếm được nữa. Từ Thiên Hoa dẫu vẫn muốn điên cuồng đẩy nhanh tiến độ, nhưng nghĩ tới việc trong lúc họ đang tìm quỷ vật thì rất có thể quỷ vật cũng đang rình rập để đánh úp mình, nên gã đã cho phép mọi người vào nhà nghỉ ngơi, đợi sau khi khôi phục ổn thỏa mới tiếp tục lục soát.
+
+Đối với những người nắm vững thuật pháp mà nói, quan trọng nhất chính là sự tích lũy pháp lực. Hạ Thiên Kì vì là Quỷ vật thể chất nên đối với cái gọi là thuật pháp của họ không hiểu rõ cho lắm, chỉ cảm thấy nó giống như cái "thanh mana" (cột xanh) phải dùng đến mỗi khi tung chiêu cuối trong game vậy. Trữ lượng pháp lực của mỗi người một khác, như Lãnh Nguyệt, cô gái tóc ngắn và cậu thiếu niên kia mặc dù cũng tiêu hao không ít nhưng nhìn qua thì chẳng có vẻ gì là suy kiệt như mấy người khác, trông như đến sức để đứng dậy cũng không còn.
+
+Sau khi mọi người vào sân, Từ Thiên Hoa bèn tiến hành chỉ định: 9 người còn lại sẽ chia làm 3 nhóm, mỗi nhóm 3 người thay phiên nhau thực hiện công tác thủ đêm.
+- Nhóm 1: Triệu Thu Nhã, Vương Khải, Tông Đức Cương.
+- Nhóm 2: Cô gái tóc ngắn, cậu thiếu niên, và cô gái đeo kính (Mai Mai).
+- Nhóm 3: Hạ Thiên Kì, Lãnh Nguyệt, và Phương Hân Hân.
+
+Ba nhóm theo thứ tự thủ đêm: nhóm của Hạ Thiên Kì phụ trách canh gác từ 1 giờ đến 3 giờ sáng; nhóm của Triệu Thu Nhã phụ trách từ 3 giờ đến 5 giờ; cuối cùng là nhóm của cô gái tóc ngắn phụ trách từ 5 giờ đến 7 giờ sáng. Hạ Thiên Kì thực ra muốn thủ ca từ 5 giờ đến 7 giờ hơn, vì quỷ vật giết người thường chọn lúc đêm tối, mà ở đây tầm hơn 5 giờ sáng là trời đã gần sáng rồi. Nhưng Từ Thiên Hoa đã sắp xếp như vậy, bọn họ dĩ nhiên không thể thay đổi, chỉ đành ngoan ngoãn làm theo.
+
+Mọi người tuy đã tận mắt chứng kiến thực lực của Hạ Thiên Kì và Lãnh Nguyệt, nhưng để cho chắc ăn, ai nấy đều dốc hết sức mình dán đầy những lá bùa chú xung quanh căn nhà. Đối với hành động tự trấn an bản thân của họ, Hạ Thiên Kì trong lòng chỉ thấy thật ngây ngô. Nhận định quỷ vật mà họ sắp phải đối đầu là một thứ chỉ đứng sau Lệ Quỷ, nên dù có dùng cái đầu gối để nghĩ cũng biết mấy lá bùa kia đối với nó căn bản chẳng có tác dụng gì sất. Nhưng họ đã muốn dán thì hắn cũng chẳng dại gì mà nói ra làm gì cho mất vui, dẫu sao đây cũng được coi là một loại an ủi về mặt tâm lý.
+
+Tất cả mọi người đều tiến vào trong nhà, không chia phòng ra nghỉ mà tất cả chen chúc ở lối đi giữa, người nào người nấy hoặc là tựa lưng vào nhau, hoặc là vai kề vai, để nếu có tình huống gì xảy ra thì cũng có thể kịp thời tỉnh dậy ngay. Hạ Thiên Kì đối với sự sắp xếp này của Từ Thiên Hoa cũng coi như hài lòng, nếu Từ Thiên Hoa bỏ ra thêm chút sức lực thì có lẽ họ đã chẳng tổn thất nhiều người đến thế.
+
+Không khí trong phòng rất nặng nề, những người đang tụ tập lại một chỗ không ai lên tiếng nói gì. Mấy người biết hút thuốc đều lặng lẽ rít thuốc, trong phòng nhất thời khói tỏa mịt mù, không ngừng vang lên tiếng ho khù khụ của các cô gái. Mặc dù mấy cô gái bị khói thuốc ám đến ngộp thở nhưng chẳng ai dám ho he nửa lời, vì trong số những người hút thuốc đó bao gồm cả Từ Thiên Hoa.
+
+Mọi người tạm thời đều chưa có cơn buồn ngủ, nhóm Hạ Thiên Kì cũng lấy làm mừng vì điều đó, ít nhất cũng giảm bớt cho họ chút áp lực canh gác.
+
+“Chúng ta ăn chút gì đi, tôi sắp đói lả từ rồi đây.” Hạ Thiên Kì lấy đồ ăn và nước từ trong ba lô ra, vì Lãnh Nguyệt và Phương Hân Hân đều có sẵn nên hắn không quan tâm tới hai người họ mà tự mình ăn ngấu nghiến. Mãi cho đến khi thấy Hạ Thiên Kì bắt đầu ăn, mọi người mới sực nhớ ra lương thực đang gùi trên lưng mình, thế là cũng lũ lượt mở ba lô hành lý ra ăn uống lấy được.
+
+Sau khi ăn xong, cơn buồn ngủ dần ập đến cũng là lúc thời gian trôi qua khoảng một tiếng đồng hồ. Hạ Thiên Kì và Phương Hân Hân cũng ngáp ngắn ngáp dài không dứt, nhưng đều cắn môi cố gắng không để mình ngủ thiếp đi. Chỉ có Lãnh Nguyệt là hai mắt mở trừng trừng như cú mèo, dưới ánh nến lờ mờ trông sâu thẳm và sáng quắc. Cứ thế cầm cự thêm khoảng nửa tiếng đồng hồ nữa thì phía mọi người đã bắt đầu vang lên những tiếng ngáy với đủ mọi cung bậc khác nhau.

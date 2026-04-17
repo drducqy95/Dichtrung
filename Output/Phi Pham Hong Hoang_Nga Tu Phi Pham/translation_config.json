@@ -1,0 +1,19 @@
+{
+  "project_name": "Phi Phàm Hồng Hoang",
+  "source_language": "zh",
+  "target_language": "vi",
+  "genre": "eastern_fiction",
+  "sub_genre": "xianxia",
+  "name_setting": "phien_am_hanviet",
+  "pronoun_mode": "hybrid",
+  "reflection_max_iterations": 3,
+  "created_at": "2026-04-16T20:28:40Z",
+  "total_chapters": 3398,
+  "notes": "Dịch từ bản tiếng Trung, thể loại Hồng Hoang Tiên Hiệp.",
+  "source_ref": {
+    "full": "Source/Source full/Phi Phàm Hồng Hoang_Ngã Tự Phi Phàm.html",
+    "split": "Source/Source split/Phi Pham Hong Hoang_Nga Tu Phi Pham/",
+    "description": "Source nam o thu muc goc, KHONG copy vao branch"
+  },
+  "project_branch": "Phi Pham Hong Hoang_Nga Tu Phi Pham"
+}

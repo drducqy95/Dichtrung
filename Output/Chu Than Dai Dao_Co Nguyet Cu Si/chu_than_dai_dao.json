@@ -1,0 +1,19 @@
+{
+  "project_name": "Chủ Thần Đại Đạo",
+  "tech_stack": {
+    "engine": "Translation Engine v2.0",
+    "protocol": "Trinity Protocol",
+    "language": "zh-vi"
+  },
+  "roles": {
+    "manager": "Translation Project Manager",
+    "persona": "Trinity Agent"
+  },
+  "rules": [
+    "Tuân thủ glossary.json",
+    "Dùng pronouns.json cho xưng hô",
+    "Cập nhật worldbuilding.json sau mỗi chương",
+    "Ghi lỗi vào all_global_errors.jsonl",
+    "Tên bối cảnh và nhân vật phương Tây sử dụng tiếng Latinh (vd: Deneir, Eugene, America), KHÔNG dùng Hán Việt."
+  ]
+}

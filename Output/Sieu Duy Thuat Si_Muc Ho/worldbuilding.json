@@ -1,0 +1,113 @@
+{
+  "factions": [
+    {
+      "name_original": "蒙恩家族",
+      "name_vi": "Gia tộc Mông Ân",
+      "type": "Noble Family/Military",
+      "description": "Đế quốc Kim Tước chi bối cốt (Xương sống của đế quốc), gia tộc quân sự hiển hách."
+    },
+    {
+      "name_original": "帕特家族",
+      "name_vi": "Gia tộc Patte",
+      "type": "Noble Family",
+      "description": "Gia tộc của nhân vật chính, sở hữu trang viên tại trấn Cách Lỗ."
+    }
+  ],
+  "weapons": [],
+  "techniques": [],
+  "cultivation_systems": [],
+  "locations": [
+    {
+      "name_original": "格鲁镇",
+      "name_vi": "Trấn Cách Lỗ",
+      "type": "Town"
+    },
+    {
+      "name_original": "金雀帝国",
+      "name_vi": "Đế quốc Kim Tước",
+      "type": "Empire"
+    },
+    {
+      "name_original": "海澜王朝",
+      "name_vi": "Vương triều Hailan",
+      "type": "Empire"
+    },
+    {
+      "name_original": "旧土大陆",
+      "name_vi": "Lục địa Old Earth",
+      "type": "Continent",
+      "description": "Lục địa bị lãng quên, các nguyên tố ma pháp bị giam cầm."
+    }
+  ],
+  "wizardry": {
+    "sides": [
+      "Mystery Side (Thần bí trắc)",
+      "Bloodline Side (Huyết mạch trắc)"
+    ],
+    "magic_patterns": [
+      "Rolling Waves (Cuộn sóng trào)"
+    ],
+    "classes": [
+      "Bạch Ma pháp sư",
+      "Hắc Ma pháp sư"
+    ],
+    "rankings": [
+      "Học đồ Sơ cấp",
+      "Học đồ Trung cấp",
+      "Học đồ Cao cấp"
+    ],
+    "items": [
+      {
+        "term": "Bạch Lan Dược Tề",
+        "definition": ""
+      },
+      {
+        "term": "Morning Dew after Rain (Ma thực sơ cấp)",
+        "definition": ""
+      },
+      {
+        "term": "Con mắt Abylas (Cầu Thiên Phú)",
+        "definition": "Dụng cụ kiểm tra tài năng Ma pháp cổ xưa."
+      },
+      {
+        "term": "Hang Động Dã Man (Savage Caves)",
+        "definition": "Một trong những tổ chức Ma pháp sư hàng đầu ở Nam Vực."
+      },
+      {
+        "term": "Ảo Ma (Illusion Demon)",
+        "definition": "Danh hiệu của Sanders, một Ma pháp sư hùng mạnh chuyên về ảo ảnh."
+      },
+      {
+        "term": "Trao đổi đồng giá (Equivalent Exchange)",
+        "definition": "Quy tắc cốt lõi của giới Phù thủy: mọi thứ đều có giá trị và kiến thức là vô giá."
+      },
+      {
+        "term": "Tinh thần lực (Spiritual Power)",
+        "definition": "Sức mạnh linh hồn dùng để dẫn dắt ma lực và điều khiển thế giới vật chất."
+      },
+      {
+        "term": "Ma lực (Mana)",
+        "definition": "Năng lượng đặc thù sinh ra từ sự giao lưu giữa cơ thể và thế giới."
+      },
+      {
+        "term": "Phương pháp Dẫn dắt Hình tam giác (Triangle Induction Method)",
+        "definition": "Phương pháp minh tưởng cơ bản nhất của Học viện Đảo nổi San hô Trắng."
+      }
+    ]
+  },
+  "geography": {
+    "source_plane": "Nguyên Vị Diện (Nơi khởi nguồn của ma pháp)",
+    "old_earth_continent": "Lục địa Old Earth (Vùng đất bị bỏ rơi/nguyên tố bị giam cầm) - Còn gọi là Edge Island",
+    "prosperous_continent": "Lục địa Prosperous (Phồn Hoa) - Trung tâm của giới Ma pháp sư.",
+    "islands": [
+      {
+        "name": "White Coral Floating Island Academy (Học viện Đảo nổi San hô Trắng)",
+        "location": "Lục địa Prosperous"
+      }
+    ]
+  },
+  "power_ranking": {
+    "ranking": [],
+    "notes": "Hệ thống Ma pháp sư (Wizard) sẽ được cập nhật khi xuất hiện."
+  }
+}

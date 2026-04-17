@@ -1,0 +1,31 @@
+{
+  "project_name": "Ác Linh Quốc Gia",
+  "source_language": "zh",
+  "target_language": "vi",
+  "genre": "eastern_fiction",
+  "sub_genre": "horror",
+  "name_setting": "phien_am_hanviet",
+  "translation_rules": {
+    "style": "High-precision Hán-Việt, strictly Vietnamese only in main text except for Proper Names",
+    "proper_names_handling": "Keep original names (English, Japanese transliteration, etc.) and explain in 'Chú thích' section",
+    "forbidden_content": [
+      "Inline Chinese characters for non-proper names",
+      "Inline English explanations"
+    ],
+    "annotation_style": "Add a 'Chú thích' section at the end of the chapter for necessary terms and proper names",
+    "honorifics_handling": "Translate to appropriate Vietnamese social hierarchy terms",
+    "technical_terms": "Use consistent Vietnamese equivalents from glossary"
+  },
+  "pronoun_mode": "hybrid",
+  "reflection_max_iterations": 3,
+  "created_at": "2026-04-07T15:49:30Z",
+  "last_updated": "2026-04-11T14:44:00Z",
+  "total_chapters": 1671,
+  "notes": "Giữ nguyên quy tắc dịch Hán Việt. Hạn chế dịch kiểu cấu trúc Trung Quốc như Hạ Thiên Kỳ cũng không có tâm lớn (vô tư). Ruan Jiang -> Nhuyễn Cương. Soft Brown -> Nhuyễn Tông. Tà Linh Chi Nhãn phiên âm tùy chỉnh: Tà Linh Nhãn khi gọi tên item, mắt Tà Linh khi mô tả.",
+  "source_ref": {
+    "full": "Source/Source full/Ác Linh Quốc Gia_Đạn Chỉ Nhất Tiếu Gian 0.html",
+    "split": "Source/Source split/Ac Linh Quoc Gia/",
+    "description": "Source nam o thu muc goc, KHONG copy vao branch"
+  },
+  "project_branch": "Ac Linh Quoc Gia"
+}

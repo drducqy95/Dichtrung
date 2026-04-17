@@ -1,0 +1,1107 @@
+{
+  "characters": [
+    {
+      "id": "C001",
+      "name_source": "夏天骐",
+      "name_target": "Hạ Thiên Kì",
+      "name_aliases": [
+        "Kì",
+        "Thiên Kì",
+        "Đông Thiên Kì (Tên lót bị gọi sai)"
+      ],
+      "gender": "male",
+      "age_group": "young_adult",
+      "social_status": "commoner",
+      "base_archetype": "protagonist",
+      "speech_style": "casual_modern",
+      "first_appearance": {
+        "chapter": 1,
+        "context": "Đến phỏng vấn xin việc trực đêm tại hiệu sách Tân Hoa"
+      },
+      "cultivation": {
+        "primary_system": "CS001",
+        "current_realm": "Lệ Quỷ (厉鬼)",
+        "current_sub_stage": "Chủ quản (主管) - Đang khảo hạch",
+        "cultivation_method": null,
+        "realm_history": [
+          {
+            "realm": "Phàm nhân",
+            "sub_stage": "",
+            "system_id": "CS001",
+            "achieved_chapter": 1,
+            "breakthrough_event": "",
+            "tribulation_passed": false,
+            "resources_used": []
+          }
+        ],
+        "secondary_cultivations": [],
+        "special_physique": "Ác Linh Thể Chất",
+        "potential": "unknown"
+      },
+      "abilities": [
+        {
+          "name": "Trực giác nhạy bén",
+          "type": "innate",
+          "description": "Cảm nhận được nguy hiểm siêu nhiên, phản ứng nhanh trong tình huống ngặt nghèo",
+          "first_shown_chapter": 2,
+          "status": "active"
+        },
+        {
+          "name": "Sử dụng bùa chú",
+          "type": "learned",
+          "description": "Biết cách sử dụng các loại bùa hộ mệnh từ gia đình truyền lại",
+          "first_shown_chapter": 5,
+          "status": "active"
+        }
+      ],
+      "faction": {
+        "current": {
+          "faction_id": "F001",
+          "name": "Tam Đệ Minh Phủ",
+          "position": "Chủ quản",
+          "joined_chapter": 41
+        },
+        "history": [
+          {
+            "faction_id": "F001",
+            "name": "Công ty (chưa rõ tên)",
+            "position": "Nhân viên thử việc",
+            "joined_chapter": 6
+          }
+        ]
+      },
+      "achievements": [
+        {
+          "name": "Sống sót qua Hiệu sách Tân Hoa",
+          "chapter": 13,
+          "description": "Thoát khỏi nhiệm vụ thử việc đầu tiên với sự giúp đỡ của Lương Nhược Vân",
+          "significance": "major"
+        },
+        {
+          "name": "Trở thành nhân viên chính thức",
+          "chapter": 41,
+          "description": "Hoàn thành giai đoạn thử việc và ký hợp đồng máu",
+          "significance": "major"
+        },
+        {
+          "name": "Hoàn thành nhiệm vụ thôn Hồ Lô",
+          "chapter": 87,
+          "description": "Giải quyết sự kiện Từ Xung và Tiểu Lệ với đánh giá Hoàn Mỹ (Perfect)",
+          "significance": "major"
+        },
+        {
+          "name": "Đánh giá Hoàn Mỹ tại thôn Hồ Lô",
+          "chapter": 87,
+          "description": "Nhận được 5 điểm vinh dự đầu tiên sau khi hoàn thành nhiệm vụ.",
+          "significance": "major"
+        }
+      ],
+      "status": "alive",
+      "appearance": {
+        "physical": "Thanh niên cao ráo, gương mặt ưa nhìn nhưng thường mang vẻ mệt mỏi hoặc giễu cợt. Có một dấu bàn tay đen thẫm (dấu hiệu ám muội) trên vai sau các nhiệm vụ đầu tiên.",
+        "style": "Thường mặc đồ thể thao hoặc trang phục giản dị, tiện dụng."
+      },
+      "personality": {
+        "traits": [
+          "Cơ trí",
+          "Bình tĩnh khi gặp nguy",
+          "Độc mồm độc miệng",
+          "Thực tế"
+        ],
+        "speech": "Cách nói chuyện suồng sã, hay chửi thề (đù má, con mẹ nó) nhưng tư duy logic cực kỳ sắc bén."
+      },
+      "notes": "Sở hữu Đồng hồ Vinh dự (8 Vinh dự điểm sau Ch. 87). Đã tiêu tốn Điểm vinh dự để cường hóa thể chất lên cấp 1. Đang ở biệt thự 130 Đại lộ Thế Kỷ."
+    },
+    {
+      "id": "C002",
+      "name_source": "张小顺",
+      "name_target": "Trương Tiểu Thuận",
+      "gender": "male",
+      "first_appearance": {
+        "chapter": 1,
+        "context": "Nhân viên hiệu sách"
+      },
+      "status": "alive",
+      "notes": "Có hành tung bí ẩn."
+    },
+    {
+      "id": "C003",
+      "name_source": "冯伟",
+      "name_target": "Phùng Vĩ",
+      "gender": "male",
+      "status": "dead",
+      "death_info": {
+        "chapter": 10,
+        "cause": "Bị ác quỷ hiệu sách giết hại"
+      }
+    },
+    {
+      "id": "C004",
+      "name_source": "王亚芝",
+      "name_target": "Vương Á Chi",
+      "gender": "female",
+      "status": "dead",
+      "death_info": {
+        "chapter": 12,
+        "cause": "Bị ác quỷ giết trong nhà vệ sinh nữ hiệu sách"
+      }
+    },
+    {
+      "id": "C005",
+      "name_source": "赵爽",
+      "name_target": "Triệu Sảng",
+      "gender": "female",
+      "status": "alive",
+      "notes": "Nhân viên cũ có hành tung kỳ quái."
+    },
+    {
+      "id": "C006",
+      "name_source": "徐天华",
+      "name_target": "Từ Thiên Hoa",
+      "gender": "male",
+      "faction": {
+        "current": {
+          "faction_id": "F001",
+          "name": "Công ty",
+          "position": "Chủ quản"
+        }
+      },
+      "status": "dead",
+      "death_info": {
+        "chapter": 13,
+        "cause": "Bị ác quỷ giết tại hiệu sách Tân Hoa"
+      }
+    },
+    {
+      "id": "C007",
+      "name_source": "梁若芸",
+      "name_target": "Lương Nhược Vân",
+      "gender": "female",
+      "faction": {
+        "current": {
+          "faction_id": "F001",
+          "name": "Công ty",
+          "position": "Giám đốc cao cấp / Kinh lý"
+        }
+      },
+      "status": "active",
+      "notes": "Thực lực cấp bậc Kinh lý. Có khả năng khôi phục vật thể (Time/Healing magic). Chị gái của Lương Nhược Phàm. Lái xe Ferrari ENZO màu trắng."
+    },
+    {
+      "id": "C008",
+      "name_source": "韩熙元",
+      "name_target": "Hàn Hi Nguyên",
+      "gender": "male",
+      "status": "dead",
+      "death_info": {
+        "chapter": 28,
+        "cause": "Bị vặn gãy xương cốt bởi Hồng y nữ quỷ"
+      }
+    },
+    {
+      "id": "C009",
+      "name_source": "李笑笑",
+      "name_target": "Lý Tiếu Tiếu",
+      "gender": "female",
+      "status": "dead",
+      "death_info": {
+        "chapter": 21,
+        "cause": "Bị chặt đầu tại Học viện Tề Hà"
+      }
+    },
+    {
+      "id": "C010",
+      "name_source": "冷月",
+      "name_target": "Lãnh Nguyệt",
+      "gender": "male",
+      "rank": "Chủ quản",
+      "status": "active",
+      "appearance": {
+        "physical": "Vẻ đẹp phi giới tính, tóc đen dài xõa ngang lưng, gương mặt như tạc tượng, lạnh lùng nhưng thanh thoát. Dễ bị nhầm là nữ nếu nhìn từ xa.",
+        "style": "Thường mặc áo mưa đen hoặc trang phục kín đáo, phong cách như một ẩn sĩ hiện đại."
+      },
+      "personality": {
+        "traits": [
+          "Chính nghĩa",
+          "Cố chấp",
+          "Ít nói",
+          "Hy sinh"
+        ],
+        "speech": "Kiệm lời, chỉ nói những điều cần thiết, xưng hô tôn trọng nhưng xa cách."
+      },
+      "abilities": [
+        {
+          "name": "Cấm Phong Chú",
+          "type": "magic",
+          "description": "Lôi kéo quỷ hồn và phong ấn bằng bùa chú."
+        },
+        {
+          "name": "Nhiên Quỷ Phù",
+          "type": "magic",
+          "description": "Sử dụng máu đầu lưỡi làm vật dẫn để thiêu cháy ác quỷ."
+        },
+        {
+          "name": "Ngự Kiếm (Hỗn Nguyên)",
+          "type": "weapon",
+          "description": "Sử dụng chuôi kiếm gỗ phát ra kiếm khí."
+        },
+        {
+          "name": "Thiên Nhãn",
+          "type": "magic",
+          "description": "Nhìn thấu ảo giác và quỷ vật che giấu."
+        },
+        {
+          "name": "Khốn Quỷ Trận",
+          "type": "array",
+          "description": "Sử dụng đá và bùa chú để vây khốn lệ quỷ."
+        }
+      ],
+      "notes": "Chủ quản của Đệ Tam Minh Phủ (vừa được phê duyệt - Ch. 320). Nhận đánh giá Hoàn Mỹ sau sự kiện thôn Hồ Lô.",
+      "achievements": [
+        {
+          "name": "Đánh giá Hoàn Mỹ tại thôn Hồ Lô",
+          "chapter": 87,
+          "description": "Nhận được 5 điểm vinh dự đầu tiên sau khi hoàn thành nhiệm vụ.",
+          "significance": "major"
+        }
+      ]
+    },
+    {
+      "id": "C011",
+      "name_source": "王怡然",
+      "name_target": "Vương Phượng Thải",
+      "gender": "female",
+      "status": "dead"
+    },
+    {
+      "id": "C012",
+      "name_source": "尹闫静",
+      "name_target": "Doãn Diễm Tịnh",
+      "gender": "female",
+      "status": "dead"
+    },
+    {
+      "id": "C013",
+      "name_source": "王凤彩",
+      "name_target": "Vương Phượng Thải",
+      "gender": "female",
+      "status": "dead"
+    },
+    {
+      "id": "C021",
+      "name_source": "付海义",
+      "name_target": "Phó Hải Nghĩa",
+      "gender": "male",
+      "faction": {
+        "current": {
+          "faction_id": "F001",
+          "name": "Tam Đệ Minh Phủ",
+          "position": "Chủ quản"
+        }
+      },
+      "status": "dead",
+      "death_info": {
+        "chapter": 320,
+        "cause": "Bị giết trong sự kiện khảo hạch lên Cao cấp Chủ quản"
+      },
+      "notes": "Chủ quản của Hạ Thiên Kì. Đã chết."
+    },
+    {
+      "id": "C022",
+      "name_source": "南宫芸",
+      "name_target": "Nam Cung Vân",
+      "gender": "female",
+      "status": "active",
+      "notes": "Bạn cùng phòng tại biệt thự 130. Tính cách lạc quan, thích người đẹp trai (mê Lãnh Nguyệt)."
+    },
+    {
+      "id": "C023",
+      "name_source": "刘言敏",
+      "name_target": "Lưu Ngôn Mẫn",
+      "gender": "male",
+      "status": "active",
+      "notes": "Bạn cùng phòng tại biệt thự 130. Là nhân viên chính thức của Minh Phủ. Tính cách ban đầu thô lỗ, thích khoe mẽ, nhưng rất trung thành với đồng đội. Đang cảm thấy áp lực và ghen tị nhẹ khi bị HTK thăng tiến quá nhanh (Chủ quản, cấp Lệ quỷ)."
+    },
+    {
+      "id": "C024",
+      "name_source": "梁若凡",
+      "name_target": "Lương Nhược Phàm",
+      "gender": "male",
+      "appearance": {
+        "physical": "Tóc trắng, mắt trắng dã, khí tức xám"
+      },
+      "status": "active",
+      "notes": "Em trai điên của Lương Nhược Vân."
+    },
+    {
+      "id": "C025",
+      "name_source": "陈老大",
+      "name_target": "Trần Lão Đại",
+      "name_aliases": [
+        "Trần Toàn Lương"
+      ],
+      "gender": "male",
+      "social_status": "village_head",
+      "appearance": {
+        "physical": "Lão đàn ông vạm vỡ nhưng sắc mặt xanh xao, bệnh tật."
+      },
+      "personality": {
+        "traits": [
+          "Bạo chúa",
+          "Nghi ngờ",
+          "Gia trưởng",
+          "Thâm hiểm"
+        ],
+        "speech": "Giọng nói đầy vẻ không kiên nhẫn, hay gào thét."
+      },
+      "status": "dead",
+      "death_info": {
+        "chapter": 81,
+        "cause": "Bị lệ quỷ Tiểu Lệ giết bằng tóc và mất nước."
+      },
+      "notes": "Trưởng thôn thôn Hồ Lô. Kẻ chủ mưu giết Từ Xung."
+    },
+    {
+      "id": "C026",
+      "name_source": "胡大牛",
+      "name_target": "Hồ Đại Ngưu",
+      "gender": "male",
+      "status": "dead",
+      "death_info": {
+        "chapter": 69,
+        "cause": "Bị nữ quỷ Tiểu Lệ rút cạn nước (mất nước nghiêm trọng)"
+      },
+      "notes": "Thợ đóng quan tài. Kẻ chủ mưu hãm hại Tiểu Lệ."
+    },
+    {
+      "id": "C027",
+      "name_source": "小丽",
+      "name_target": "Tiểu Lệ",
+      "gender": "female",
+      "status": "released",
+      "appearance": {
+        "physical": "Mắt trợn ngược, khuôn mặt tím tái, thường xuất hiện với tư thế bò như thạch sùng hoặc nhện."
+      },
+      "notes": "Con dâu Trần Lão Đại. Đã được Lãnh Nguyệt thuyết phục và siêu thoát vào luân hồi (Ch. 87)."
+    },
+    {
+      "id": "C028",
+      "name_source": "赵快嘴",
+      "name_target": "Triệu mồm nhanh",
+      "gender": "male",
+      "status": "dead",
+      "death_info": {
+        "chapter": 77,
+        "cause": "Chết đuối ngay trên giường trong cơn bóng đè/ác mộng."
+      },
+      "notes": "Kẻ tham gia hãm hại Tiểu Lệ."
+    },
+    {
+      "id": "C030",
+      "name_source": "娟",
+      "name_target": "Quyên",
+      "gender": "female",
+      "status": "active",
+      "notes": "Vợ của Trần Lão Đại."
+    },
+    {
+      "id": "C031",
+      "name_source": "王木",
+      "name_target": "Vương Mộc",
+      "name_aliases": [
+        "Lão Vương"
+      ],
+      "gender": "male",
+      "status": "dead",
+      "death_info": {
+        "chapter": 72,
+        "cause": "Tan chảy thành vũng máu sau khi rỉ nước dữ dội."
+      },
+      "notes": "Kẻ tham gia hãm hại Tiểu Lệ."
+    },
+    {
+      "id": "C032",
+      "name_source": "齐大力",
+      "name_target": "Tề Đại Lực",
+      "gender": "male",
+      "status": "dead",
+      "death_info": {
+        "chapter": 74,
+        "cause": "Bị dìm chết trong thùng nước và tan chảy thành máu tím đen."
+      },
+      "notes": "Thân tín của Trần Lão Đại, kẻ tham gia giết Từ Xung."
+    },
+    {
+      "id": "C033",
+      "name_source": "张瘸子",
+      "name_target": "Trương thọt",
+      "gender": "male",
+      "status": "dead",
+      "death_info": {
+        "chapter": 81,
+        "cause": "Bị Trần Lão Đại siết cổ chết."
+      },
+      "notes": "Kẻ hãm hại Tiểu Lệ."
+    },
+    {
+      "id": "C034",
+      "name_source": "徐冲",
+      "name_target": "Từ Xung",
+      "gender": "male",
+      "status": "destroyed",
+      "death_info": {
+        "chapter": 86,
+        "cause": "Bị Lãnh Nguyệt tiêu diệt bằng Đào mộc kiếm."
+      },
+      "notes": "Người yêu của Tiểu Lệ. Kẻ chủ mưu thực sự đứng sau điều khiển nữ quỷ."
+    },
+    {
+      "id": "C037",
+      "name_source": "夏天骐之祖父",
+      "name_target": "Hạ lão đầu",
+      "name_aliases": [
+        "Ông nội"
+      ],
+      "gender": "male",
+      "status": "missing",
+      "notes": "Âm dương tiên sinh. Năng lực trừ quỷ cực mạnh. Đeo đồng hồ (nghi là đồng hồ vinh dự). Hiện đang mất tích."
+    },
+    {
+      "id": "C038",
+      "name_source": "曹金海",
+      "name_target": "Tào Kim Hải",
+      "gender": "male",
+      "status": "alive",
+      "notes": "Bạn cùng phòng đại học của Hạ Thiên Kì."
+    },
+    {
+      "id": "C039",
+      "name_source": "杨书成",
+      "name_target": "Dương Thư Thành",
+      "gender": "male",
+      "status": "dead",
+      "death_info": {
+        "chapter": 93,
+        "cause": "Bị Lý Xương Dã sát hại trong ký túc xá"
+      },
+      "notes": "Bạn cùng phòng đại học của Hạ Thiên Kì."
+    },
+    {
+      "id": "C040",
+      "name_source": "李昌野",
+      "name_target": "Lý Xương Dã",
+      "gender": "male",
+      "status": "dead",
+      "death_info": {
+        "chapter": 100,
+        "cause": "Tự sát bằng cách xé nát mặt và đâm đầu vào tường trong đồn cảnh sát dưới tác động của ảo giác siêu nhiên"
+      },
+      "notes": "Bạn cùng phòng đại học của Hạ Thiên Kì, bị chẩn đoán tâm thần phân liệt."
+    },
+    {
+      "id": "C041",
+      "name_source": "许小婉",
+      "name_target": "Hứa Tiểu Uyển",
+      "gender": "female",
+      "status": "alive",
+      "notes": "Bạn gái của Dương Thư Thành, sinh viên học viện Anh Tài."
+    },
+    {
+      "id": "C050",
+      "name_source": "赵静姝",
+      "name_target": "Triệu Tĩnh Thù",
+      "gender": "female",
+      "age_group": "young_adult",
+      "social_status": "police_officer",
+      "base_archetype": "companion",
+      "speech_style": "tough_but_kind",
+      "first_appearance": {
+        "chapter": 204,
+        "context": "Cảnh sát thụ lý vụ án lột da tại Tuyên Thành"
+      },
+      "abilities": [
+        {
+          "name": "Bùa chú Cơ bản",
+          "type": "magic",
+          "description": "Sử dụng các loại chú phù cơ bản để phòng thân và dò tìm quỷ vật"
+        },
+        {
+          "name": "Thiên Nhãn",
+          "type": "magic",
+          "description": "Có khả năng nhìn thấu khí tức ma quỷ"
+        }
+      ],
+      "faction": {
+        "current": {
+          "faction_id": "F001",
+          "name": "Tam Đệ Minh Phủ (Dự bị)",
+          "position": "Thành viên tiểu đội ngoài luồng",
+          "joined_chapter": 211
+        }
+      },
+      "status": "active",
+      "notes": "Con gái gia đình giàu có, bỏ kinh doanh theo nghiệp cảnh sát. Tham gia đội nhóm của Hạ Thiên Kì để kiếm thêm điểm vinh dự."
+    },
+    {
+      "id": "C051",
+      "name_source": "庞海旭",
+      "name_target": "Bàng Hải Húc",
+      "gender": "male",
+      "social_status": "designer",
+      "first_appearance": {
+        "chapter": 211,
+        "context": "Khách hàng đầu tiên của nhóm HTK-ZJZ tại Tuyên Thành"
+      },
+      "status": "alive",
+      "notes": "Một nhà thiết kế bị quấy rối bởi hiện tượng lột da. Có một con mắt mọc trên lưng và một vết sẹo dài bí ẩn. Bạn cũ của các nạn nhân vụ án lột da."
+    },
+    {
+      "id": "C062",
+      "name_source": "聂锋",
+      "name_target": "Nhiếp Phong",
+      "gender": "male",
+      "status": "dead",
+      "death_info": {
+        "chapter": 270,
+        "cause": "Bị Lệ Quỷ nuốt chửng tại tầng 1 chung cư Thanh Niên sau khi thang máy rơi"
+      },
+      "social_status": "employee",
+      "abilities": [
+        {
+          "name": "Chú pháp",
+          "type": "magic",
+          "description": "Là Chú pháp sư, thi triển chú pháp uy lực tương đối nhưng tốn thời gian chuẩn bị"
+        }
+      ],
+      "first_appearance": {
+        "chapter": 242,
+        "context": "Nhân viên công ty tham gia sự kiện thanh trừng quỷ vật tại Chung cư Thanh Niên"
+      },
+      "faction": {
+        "current": {
+          "faction_id": "F001",
+          "name": "Tam Đệ Minh Phủ",
+          "position": "Nhân viên"
+        }
+      },
+      "notes": "Cẩn trọng, hay suy tính, đeo kính, tương đối tích cực tham gia bàn bạc chiến thuật nhưng sợ hãi quỷ vật mạnh."
+    },
+    {
+      "id": "C063",
+      "name_source": "王桑榆",
+      "name_target": "Vương Tang Du",
+      "gender": "female",
+      "status": "alive",
+      "social_status": "employee",
+      "abilities": [
+        {
+          "name": "Thao túng thuật",
+          "type": "magic",
+          "description": "Là Thao túng sư, có thể điều khiển hình nhân giấy, bù nhìn rơm để phân tán sự chú ý và tấn công"
+        }
+      ],
+      "first_appearance": {
+        "chapter": 242,
+        "context": "Nhân viên tham gia sự kiện tại Chung cư Thanh Niên cùng Hạ Thiên Kì"
+      },
+      "faction": {
+        "current": {
+          "faction_id": "F001",
+          "name": "Tam Đệ Minh Phủ",
+          "position": "Nhân viên"
+        }
+      },
+      "notes": "Xinh xắn dịu dàng, thông minh, bình tĩnh, thường hay suy nghĩ kín kẽ hơn những người khác."
+    },
+    {
+      "id": "C064",
+      "name_source": "何羽影",
+      "name_target": "Hà Vũ Ảnh",
+      "gender": "female",
+      "status": "dead",
+      "death_info": {
+        "chapter": 261,
+        "cause": "Bị Nhiếp Phong đẩy làm bia đỡ đạn và bị quỷ vật ăn thịt trong thang máy"
+      },
+      "social_status": "employee",
+      "abilities": [
+        {
+          "name": "Chú pháp",
+          "type": "magic",
+          "description": "Chú pháp sư tương tự Nhiếp Phong"
+        }
+      ],
+      "first_appearance": {
+        "chapter": 242,
+        "context": "Nhân viên tham gia sự kiện tại Chung cư Thanh Niên cùng Hạ Thiên Kì"
+      },
+      "faction": {
+        "current": {
+          "faction_id": "F001",
+          "name": "Tam Đệ Minh Phủ",
+          "position": "Nhân viên"
+        }
+      },
+      "notes": "Thường biểu lộ sợ hãi, hay khóc lóc và nảy sinh tâm lý ỷ lại vào người mạnh hơn (Hạ Thiên Kì)."
+    },
+    {
+      "id": "C061",
+      "name_source": "吴大刚",
+      "name_target": "Ngô Đại Cương",
+      "gender": "male",
+      "status": "dead",
+      "death_info": {
+        "chapter": 257,
+        "cause": "Bị quỷ vật giết trên tầng 14 sau khi bị Hạ Thiên Kì vứt ở ngoài cửa thang máy"
+      },
+      "social_status": "employee",
+      "abilities": [
+        {
+          "name": "Thể chất Lệ quỷ",
+          "type": "physical",
+          "description": "Cơ thể cường hóa quỷ hóa cơ bản, có thân thủ tốt"
+        }
+      ],
+      "first_appearance": {
+        "chapter": 242,
+        "context": "Kẻ hung hãn tham gia sự kiện tại Chung cư Thanh Niên"
+      },
+      "notes": "Tính tình thô bạo, tàn ác, sẵn sàng đem người khác làm bia đỡ đạn, đắc tội với Hạ Thiên Kì và bị trả đũa quẳng ra làm mồi nhử quỷ."
+    },
+    {
+      "id": "C065",
+      "name_source": "赵安国",
+      "name_target": "Triệu An Quốc",
+      "gender": "male",
+      "status": "alive",
+      "faction": {
+        "current": {
+          "faction_id": "F001",
+          "name": "Tam Đệ Minh Phủ",
+          "position": "Nhân viên"
+        }
+      },
+      "notes": "Nhân viên cũ, được Hạ Thiên Kì cứu sống tại Chung cư Thanh Niên. Tính cách tấu hài, tôn thờ HTK như tiền bối."
+    },
+    {
+      "id": "C066",
+      "name_source": "董雪",
+      "name_target": "Đổng Tuyết",
+      "gender": "female",
+      "appearance": {
+        "physical": "Bạch phú mỹ (trắng, giàu, đẹp), dáng người nóng bỏng (size C+), gương mặt xinh đẹp vượt trội so với thời đi học."
+      },
+      "status": "alive",
+      "notes": "Bạn học cũ của Hạ Thiên Kì. Bố là đại ca có thế lực ở Bắc An. Từng tỏ tình với HTK nhưng bị từ chối (Ch. 276)."
+    },
+    {
+      "id": "C067",
+      "name_source": "李秋平",
+      "name_target": "Lý Thu Bình",
+      "gender": "male",
+      "age_group": "senior",
+      "appearance": {
+        "physical": "Lão già mặt đỏ tầm ngoài 60 tuổi."
+      },
+      "status": "dead",
+      "death_info": {
+        "chapter": 307,
+        "cause": "Bị Hạ Thiên Kì vặn gãy cổ sau khi bại lộ thân phận kẻ phản bội thuộc Đệ Nhất Minh Phủ."
+      },
+      "social_status": "Thầy phong thủy / Nuôi quỷ (Dưỡng thi nhân)",
+      "first_appearance": {
+        "chapter": 290,
+        "context": "Chủ nhân Tiệm bí mật Phong thủy Âm dương tại trấn Triệu Quang"
+      },
+      "notes": "Người quen của Lão Lý, có vẻ ngoài điềm tĩnh nhưng thực chất rất đề phòng và thận trọng."
+    },
+    {
+      "id": "C068",
+      "name_source": "陈淑兰",
+      "name_target": "Trần Thục Lan",
+      "gender": "female",
+      "status": "deceased",
+      "notes": "Mẹ của Hạ Thiên Kì. Đã qua đời 21 năm trước khi sinh anh. Hồn phách được ông nội phong ấn vào căn nhà tại Bắc An để bà tiếp tục sống như một người bình thường (Địa phược linh) mà không biết mình đã chết."
+    },
+    {
+      "id": "C069",
+      "name_source": "夏天骐爸爸",
+      "name_target": "Bố Hạ",
+      "gender": "male",
+      "status": "alive",
+      "notes": "Bố của Hạ Thiên Kì. Biết rõ bí mật về cái chết của vợ và sự sắp đặt của ông nội nhưng giấu kín suốt 21 năm để anh lớn lên bình thường. Vừa tiết lộ chân tướng cho HTK ở Ch. 312."
+    },
+    {
+      "id": "C076",
+      "name_source": "Dương Thư Thành",
+      "name_target": "Dương Thư Thành (Ảo ảnh)",
+      "gender": "male",
+      "status": "dead",
+      "notes": "Bạn cùng phòng thời đại học của Hạ Thiên Kì. Đã chết từ vài tháng trước. Đột nhiên xuất hiện một cách quỷ dị trong bức ảnh chụp chung (Ch. 315) như một phần khảo hạch Chủ quản của HTK."
+    },
+
+    {
+      "id": "C070",
+      "name_source": "李秋平徒弟",
+      "name_target": "Đồ đệ của Lý Thu Bình",
+      "gender": "male",
+      "age_group": "middle_aged",
+      "status": "active",
+      "notes": "Hống hách, kiêu ngạo, bị HTK đánh trật khớp hàm ngay lần đầu gặp mặt."
+    },
+    {
+      "id": "C071",
+      "name_source": "吴峡候",
+      "name_target": "Ngô Giáp Hầu",
+      "name_aliases": ["Hầu tử", "Khỉ"],
+      "gender": "male",
+      "faction": {
+        "current": {
+          "faction_id": "F002",
+          "name": "Đệ Nhất Minh Phủ",
+          "position": "Chủ quản"
+        }
+      },
+      "status": "active",
+      "notes": "Cấp trên của Lý Thu Bình. Có ngoại hình mỏ nhọn má khỉ (theo HTK). Là kẻ âm hiểm, độc ác."
+    },
+    {
+      "id": "C078",
+      "name_source": "软僵",
+      "name_target": "Nhuyễn Cương",
+      "name_aliases": ["Âm Thai", "Nhuyễn Tông"],
+      "gender": "male",
+      "status": "dead",
+      "death_info": {
+        "chapter": 309,
+        "cause": "Bị Lãnh Nguyệt tiêu diệt bằng Phù văn kiếm và HTK kết liễu tàn hồn."
+      },
+      "notes": "Con quỷ thai mặt người già, được Lý Thu Bình nuôi nấng bằng cách cho ăn thịt các huynh đệ đồ đệ. Có thực lực cấp Lệ quỷ."
+    },
+    {
+      "id": "C073",
+      "name_source": "吴 đích",
+      "name_target": "Ngô Đích",
+      "gender": "male",
+      "faction": {
+        "current": {
+          "faction_id": "F001",
+          "name": "Tam Đệ Minh Phủ",
+          "position": "Cao cấp Chủ quản"
+        }
+      },
+      "status": "active",
+      "notes": "Vừa được thăng cấp lên Cao cấp Chủ quản (Ch. 320)."
+    },
+    {
+      "id": "C074",
+      "name_source": "木子希",
+      "name_target": "Mộc Tử Hy",
+      "gender": "female",
+      "faction": {
+        "current": {
+          "faction_id": "F001",
+          "name": "Tam Đệ Minh Phủ",
+          "position": "Chủ quản"
+        }
+      },
+      "status": "active",
+      "notes": "Chủ quản của Đệ Tam Minh Phủ. Thường có mặt tại các hội nghị thường niên."
+    },
+    {
+      "id": "C075",
+      "name_source": "落尘",
+      "name_target": "Lạc Trần",
+      "gender": "male",
+      "faction": {
+        "current": {
+          "faction_id": "F001",
+          "name": "Tam Đệ Minh Phủ",
+          "position": "Cao cấp Chủ quản"
+        }
+      },
+      "status": "active",
+      "notes": "Cao cấp Chủ quản (Kinh lý) của Đệ Tam Minh Phủ, cùng cấp với Lương Nhược Vân. Sở hữu Quỷ vật thể chất. Có mâu thuẫn lớn với Lương Nhược Vân. Phụ trách dẫn dắt các sự kiện đoàn đội."
+    },
+    {
+      "id": "C079",
+      "name_source": "煞",
+      "name_target": "Sát",
+      "name_aliases": ["Sát tiên sinh"],
+      "gender": "male",
+      "faction": {
+        "current": {
+          "faction_id": "F001",
+          "name": "Tam Đệ Minh Phủ",
+          "position": "Kinh lý (Cao cấp Chủ quản)"
+        }
+      },
+      "status": "active",
+      "notes": "Nhân vật cấp cao có sát khí cực mạnh. Thích chơi đùa tại Khu vui chơi của Tuyệt Đại. Có quan hệ tình cảm với Lý Tâm Cơ."
+    },
+    {
+      "id": "C080",
+      "name_source": "绝代",
+      "name_target": "Tuyệt Đại",
+      "gender": "male",
+      "faction": {
+        "current": {
+          "faction_id": "F001",
+          "name": "Tam Đệ Minh Phủ",
+          "position": "Kinh lý (Cao cấp Chủ quản)"
+        }
+      },
+      "status": "active",
+      "notes": "Chủ nhân của Khu vui chơi xa hoa tại Phúc Bình. Thực lực thâm sâu khó lường."
+    },
+    {
+      "id": "C081",
+      "name_source": "李心机",
+      "name_target": "Lý Tâm Cơ",
+      "gender": "female",
+      "status": "active",
+      "notes": "Bồ nhí của Sát tiên sinh. Có vẻ ngoài xinh đẹp nhưng tính cách hống hách."
+    },
+    {
+      "id": "C082",
+      "name_source": "张晓龙",
+      "name_target": "Trương Hiểu Long",
+      "gender": "male",
+      "status": "alive",
+      "notes": "Nạn nhân trong vụ án tóc ký sinh tại Khu Thiên Đài."
+    },
+    {
+      "id": "C083",
+      "name_source": "王莹",
+      "name_target": "Vương Oánh",
+      "gender": "female",
+      "status": "alive",
+      "notes": "Vợ của Trương Hiểu Long, bị quỷ nhập dạng Trạng khách."
+    },
+    {
+      "id": "C084",
+      "name_source": "王福",
+      "name_target": "Vương Phúc",
+      "gender": "male",
+      "faction": {
+        "current": {
+          "faction_id": "F002",
+          "name": "Đệ Nhị Minh Phủ",
+          "position": "Chủ quản"
+        }
+      },
+      "status": "unconscious",
+      "notes": "Chủ quản gian trá của Đệ Nhị Minh Phủ. Bị HTK đánh thuốc mê và trộm đồ tại Vô nhân khu."
+    },
+    {
+      "id": "C085",
+      "name_source": "无头鬼",
+      "name_target": "Quỷ không đầu",
+      "gender": "male",
+      "status": "active",
+      "notes": "Thực thể mạnh mẽ tại Vô nhân khu, đóng vai người cha trong gia đình quỷ. Bị HTK tấn công vỡ sọ để đoạt 3 điểm vinh dự."
+    },
+    {
+      "id": "C086",
+      "name_source": "楚梦琪",
+      "name_target": "Sở Mộng Kì",
+      "gender": "female",
+      "faction": {
+        "current": {
+          "faction_id": "F002",
+          "name": "Đệ Nhất Minh Phủ",
+          "position": "Chủ quản"
+        }
+      },
+      "cultivation": {
+        "primary_system": "CS001",
+        "special_physique": "Oan hồn thể chất (冤魂体质)"
+      },
+      "abilities": [
+        { "name": "Thuấn di", "type": "magic" },
+        { "name": "Linh lực", "type": "magic" },
+        { "name": "Mê hồn hương", "type": "tool" }
+      ],
+      "status": "active",
+      "notes": "Sư muội của Lãnh Nguyệt. Sở hữu thể chất hiếm có cho phép sử dụng cả thuật pháp và linh lực."
+    },
+    {
+      "id": "C087",
+      "name_source": "赵汇丰",
+      "name_target": "Triệu Khai",
+      "name_aliases": ["Triệu Hối Phong"],
+      "gender": "male",
+      "social_status": "businessman / chairman",
+      "status": "active",
+      "notes": "Bố của Triệu Tĩnh Thù, Chủ tịch tập đoàn Hối Phong. Đang bị trúng Huyết Cổ và bị uy hiếp chuyển nhượng cổ phần."
+    },
+    {
+      "id": "C088",
+      "name_source": "安妮",
+      "name_target": "Annie",
+      "name_aliases": ["An Ni"],
+      "gender": "female",
+      "status": "alive",
+      "notes": "Nhân tình của gã mắt kính, bị HTK uy hiếp để tìm ra tung tích của gã."
+    },
+    {
+      "id": "C089",
+      "name_source": "眼镜男",
+      "name_target": "Mắt kính nam",
+      "gender": "male",
+      "status": "dead",
+      "death_info": {
+        "chapter": 378,
+        "cause": "Bị HTK vặn gãy cổ sau khi tra khảo."
+      },
+      "notes": "Đối thủ cạnh tranh của Triệu Khai, kẻ thuê Cổ sư để hạ độc và bắt cóc trinh nữ."
+    },
+    {
+      "id": "C090",
+      "name_source": "光头男 / 蛊师",
+      "name_target": "Cổ sư",
+      "name_aliases": ["Lão đầu trọc"],
+      "gender": "male",
+      "social_status": "Tán tu",
+      "faction": {
+        "current": {
+          "faction_id": null,
+          "name": "Tán tu",
+          "position": "Cổ sư"
+        }
+      },
+      "status": "active",
+      "notes": "Kẻ hạ Huyết Cổ cho Triệu Khai, sống tại biệt thự số 35 ngoại ô Tuyên Thành. Chuyên luyện Cổ thuật tàn ác."
+    },
+    {
+      "id": "C091",
+      "name_source": "邹园长",
+      "name_target": "Bà dì / Giám đốc Trâu",
+      "name_aliases": ["Hạ lão đầu chi muội", "Em gái ông nội Hạ Thiên Kì"],
+      "gender": "female",
+      "status": "dead",
+      "death_info": {
+        "chapter": 400,
+        "cause": "Nhảy lầu tự sát do áp lực vụ mất tích"
+      },
+      "notes": "Viện trưởng trường mẫu giáo Khai Tâm. Là em gái ông nội Hạ Thiên Kì, người thân duy nhất của HTK còn sót lại ở Bắc An (ngoài gia đình trực hệ)."
+    },
+    {
+      "id": "C092",
+      "name_source": "程海明",
+      "name_target": "Trình Hải Minh",
+      "gender": "male",
+      "social_status": "police_chief",
+      "status": "active",
+      "notes": "Đồn trưởng đồn cảnh sát quận Lệ Dương. Đang thụ lý vụ án mất tích của trẻ em tại trường Khai Tâm."
+    },
+    {
+      "id": "C093",
+      "name_source": "王美童",
+      "name_target": "Vương Mỹ Đồng",
+      "gender": "female",
+      "age_group": "child",
+      "status": "missing",
+      "notes": "Bé gái mất tích tại nhà vệ sinh công cộng. Đã tìm thấy vết máu tại hiện trường."
+    },
+    {
+      "id": "C094",
+      "name_source": "黄思甜",
+      "name_target": "Hoàng Tư Điềm",
+      "gender": "female",
+      "age_group": "child",
+      "status": "active",
+      "appearance": {
+        "physical": "Đứa trẻ kỳ lạ, là người duy nhất đi cùng Vương Mỹ Đồng vào nhà vệ sinh."
+      },
+      "notes": "Xác nhận là một Quỷ Anh (Ghost Infant) - quỷ vật sinh ra từ bụng người. Từng liên quan đến hàng loạt vụ mất tích bảo mẫu, y tá tại Trinh Giang."
+    },
+    {
+      "id": "C095",
+      "name_source": "李秀",
+      "name_target": "Lý Tú",
+      "gender": "female",
+      "social_status": "teacher",
+      "status": "dead",
+      "notes": "Giáo viên mầm non tại trường Khai Tâm. Đã bị Hoàng Tư Điềm giết hại và ăn thịt khi đến nhà tìm hiểu sự thật."
+    },
+    {
+      "id": "C096",
+      "name_source": "黄思甜妈妈",
+      "name_target": "Mẹ của Hoàng Tư Điềm",
+      "gender": "female",
+      "status": "active",
+      "notes": "Mẹ của Hoàng Tư Điềm. Hồ sơ tại Trinh Giang cho thấy bà ta liên quan đến hơn 20 vụ mất tích (y tá, bác sĩ sản khoa, bảo mẫu) nhưng luôn có bằng chứng ngoại phạm. Bị nghi ngờ bị con gái Quỷ Anh uy hiếp."
+    },
+    {
+      "id": "C097",
+      "name_source": "王成",
+      "name_target": "Vương Thành",
+      "gender": "male",
+      "status": "dead",
+      "notes": "Bảo vệ trường Khai Tâm. Bị Hoàng Tư Điềm tìm đến tận nhà riêng, cắn đứt cánh tay và sau đó là cắn đứt đầu, sát hại dã man (Ch. 409)."
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "C086",
+      "target_id": "C010",
+      "relationship_type": "sư huynh - sư muội",
+      "intimacy_score": 85
+    },
+    {
+      "source_id": "C001",
+      "target_id": "C010",
+      "relationship_type": "đồng sinh cộng tử",
+      "intimacy_score": 75
+    },
+    {
+      "source_id": "C027",
+      "target_id": "C034",
+      "relationship_type": "người yêu / bị lợi dụng",
+      "intimacy_score": 100
+    },
+    {
+      "source_id": "C025",
+      "target_id": "C027",
+      "relationship_type": "bố chồng - con dâu (có tin đồn mờ ám)",
+      "intimacy_score": 5
+    },
+    {
+      "source_id": "C001",
+      "target_id": "C035",
+      "relationship_type": "mẹ con",
+      "intimacy_score": 100
+    },
+    {
+      "source_id": "C001",
+      "target_id": "C036",
+      "relationship_type": "cha con",
+      "intimacy_score": 100
+    },
+    {
+      "source_id": "C001",
+      "target_id": "C037",
+      "relationship_type": "ông cháu",
+      "intimacy_score": 80
+    },
+    {
+      "source_id": "C001",
+      "target_id": "C091",
+      "relationship_type": "bà dì - cháu",
+      "intimacy_score": 10
+    },
+    {
+      "source_id": "C001",
+      "target_id": "C092",
+      "relationship_type": "chú cháu (họ hàng xa)",
+      "intimacy_score": 15
+    },
+    {
+      "source_id": "C097",
+      "target_id": "C095",
+      "relationship_type": "bạn trai / bảo vệ",
+      "intimacy_score": 90
+    }
+  ]
+}

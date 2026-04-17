@@ -1,0 +1,377 @@
+# Thiết Kế Workflow & Rules Cho Repo Dichtrung
+
+## Bối Cảnh
+
+**Dichtrung** (`d:\Dichtrung`) là repo tổng hợp dịch thuật với 39 source truyện HTML. Mục tiêu: xây dựng quy trình chuyên nghiệp tích hợp các workflow `/translate`, `/translate-setup`, `/translate-wiki`, `/ebook` với cấu trúc mono-repo (1 Git tổng, nhiều project branch bên trong).
+
+**Tham khảo:** Repo [Aclinhquocdo](file:///d:/Dichsach/Aclinhquocdo) đã áp dụng mô hình tương tự (`project/` chứa nhiều project). Dichtrung sẽ kế thừa và chuẩn hóa hoàn toàn.
+
+---
+
+## Sơ Đồ Kiến Trúc Tổng Thể
+
+```mermaid
+graph TD
+    subgraph "d:\Dichtrung (Git Root)"
+        A["Source/"] --> A1["Source full/ (39 file HTML gốc)"]
+        A --> A2["Source split/ (Chương tách MD, theo tên truyện)"]
+        
+        B["Global State/"] --> B1["global_characters.json"]
+        B --> B2["global_glossary.json"]
+        B --> B3["global_config.json"]
+        
+        C["Output/"] --> C1["[Tên Project Branch A]/"]
+        C --> C2["[Tên Project Branch B]/"]
+        C --> C3["..."]
+        
+        D["Script/"] --> D1["Tachchuong.py"]
+        D --> D2["sync_state.py"]
+        D --> D3["build_ebook.ps1"]
+        
+        E[".gitignore"]
+        F["README.md"]
+        G["dichtrung.json (Identity)"]
+        H["project_progress.json"]
+    end
+    
+    C1 --> P1["translation_config.json"]
+    C1 --> P2["glossary.json (cục bộ)"]
+    C1 --> P3["characters.json (cục bộ)"]
+    C1 --> P4["pronouns.json"]
+    C1 --> P5["context.json"]
+    C1 --> P6["worldbuilding.json"]
+    C1 --> P7["progress.json"]
+    C1 --> P8["drafts/"]
+    C1 --> P9["output/"]
+    C1 --> P10["logs/"]
+    C1 --> P11["ebook/ (EPUB/PDF/HTML)"]
+```
+
+---
+
+## Proposed Changes
+
+### 1. Cấu Trúc Thư Mục Chuẩn
+
+```
+d:\Dichtrung\                          ← Git root (1 repo duy nhất)
+├── .git/
+├── .gitignore
+├── .agents/workflows/                 ← Workflow rules CỤC BỘ cho repo này
+│   ├── translate.md                   ← Override /translate cho Dichtrung
+│   ├── translate-setup.md             ← Override /translate-setup cho Dichtrung  
+│   ├── translate-wiki.md              ← Override /translate-wiki cho Dichtrung
+│   ├── ebook.md                       ← Override /ebook cho Dichtrung
+│   ├── sync-state.md                  ← Workflow đồng bộ state
+│   └── init-branch.md                 ← Workflow khởi tạo project branch mới
+├── README.md
+├── dichtrung.json                     ← Trinity Identity file
+├── project_progress.json              ← Trinity Progress tracker
+├── all_global_errors.jsonl            ← Error memory
+│
+├── Source/
+│   ├── Source full/                    ← 39 file HTML gốc (KHÔNG CHỈNH SỬA)
+│   │   ├── Ác Linh Quốc Gia_Đạn Chỉ Nhất Tiếu Gian 0.html
+│   │   └── ...
+│   └── Source split/                  ← Chương đã tách (MD), mỗi truyện 1 subfolder
+│       ├── Ac Linh Quoc Gia/
+│       │   ├── 0001 - Chương 1.md
+│       │   └── ...
+│       └── ...
+│
+├── Global State/                      ← STATE TOÀN CỤC
+│   ├── global_characters.json         ← Tổng hợp nhân vật từ MỌI project branch
+│   ├── global_glossary.json           ← Tổng hợp thuật ngữ từ MỌI project branch
+│   └── global_config.json             ← Quy tắc dịch chung (tone, style, rules)
+│
+├── Output/                            ← MỖI PROJECT BRANCH = 1 subfolder ở đây
+│   ├── [Project Branch A]/            ← VD: Ac Linh Quoc Gia
+│   │   ├── translation_config.json    ← Config riêng cho branch
+│   │   ├── glossary.json              ← Glossary cục bộ
+│   │   ├── characters.json            ← Nhân vật cục bộ
+│   │   ├── pronouns.json              ← Xưng hô cục bộ
+│   │   ├── context.json               ← Ngữ cảnh chương
+│   │   ├── worldbuilding.json         ← Thế giới quan
+│   │   ├── progress.json              ← Tiến độ dịch
+│   │   ├── drafts/                    ← Bản nháp
+│   │   ├── output/                    ← Bản dịch cuối
+│   │   ├── illustrations/             ← Minh họa
+│   │   ├── logs/                      ← Log phản tỉnh
+│   │   └── ebook/                     ← Sản phẩm EPUB/PDF/HTML
+│   └── [Project Branch B]/
+│       └── ...
+│
+└── Script/
+    ├── Tachchuong.py                  ← Tool tách chương (đã có)
+    └── sync_state.py                  ← Script đồng bộ state → Global State
+```
+
+> [!IMPORTANT]
+> **Source luôn ở nguyên vị trí** (`Source/Source split/[Tên]/`). KHÔNG copy source vào project branch. Project branch chỉ chứa state + output.
+
+---
+
+### 2. Global State Files Schema
+
+#### [NEW] [global_config.json](file:///d:/Dichtrung/Global State/global_config.json)
+
+Quy tắc dịch chung, áp dụng cho TẤT CẢ project branch:
+
+```json
+{
+  "metadata": {
+    "version": "1.0",
+    "last_updated": "",
+    "description": "Quy tắc dịch thuật toàn cục cho repo Dichtrung"
+  },
+  "default_settings": {
+    "target_language": "vi",
+    "reflection_max_iterations": 3,
+    "pronoun_mode": "hybrid",
+    "sanitization": {
+      "ban_cjk_in_output": true,
+      "description": "Output KHÔNG được chứa ký tự CJK (Trung/Nhật/Hàn)"
+    }
+  },
+  "naming_conventions": {
+    "default_name_setting": "phien_am",
+    "description": "Mặc định phiên âm Hán-Việt cho truyện phương Đông"
+  },
+  "style_rules": {
+    "output_language": "vi",
+    "tone": "Văn chương tiếng Việt tự nhiên, mượt mà",
+    "forbidden_patterns": ["ký tự Trung Quốc trong output", "dịch máy thô"],
+    "required_patterns": ["Xưng hô phải nhất quán theo characters.json"]
+  },
+  "genre_defaults": {
+    "eastern_fiction": {
+      "sub_genres": ["xianxia", "wuxia", "xuyen_khong", "do_thi"],
+      "name_setting": "phien_am",
+      "tone": "Cổ phong / Hiện đại tùy sub_genre"
+    }
+  },
+  "sync_rules": {
+    "auto_sync_glossary": true,
+    "auto_sync_characters": true,
+    "sync_on_chapter_complete": true,
+    "description": "Mỗi khi dịch xong 1 chương, state cục bộ TỰ ĐỘNG đồng bộ sang Global State"
+  }
+}
+```
+
+#### [NEW] [global_characters.json](file:///d:/Dichtrung/Global State/global_characters.json)
+
+```json
+{
+  "metadata": {
+    "version": "1.0",
+    "last_updated": "",
+    "total_characters": 0,
+    "source_projects": []
+  },
+  "characters": [
+    {
+      "id": "GCHAR_001",
+      "source_project": "Tên project branch",
+      "name_original": "Tên gốc (Trung)",
+      "name_translated": "Tên dịch (Việt)",
+      "gender": "nam/nữ/khác",
+      "role": "chính/phụ/phản diện",
+      "description": "Mô tả ngắn",
+      "first_appearance": "Chương X",
+      "notes": "Ghi chú đặc biệt"
+    }
+  ]
+}
+```
+
+#### [NEW] [global_glossary.json](file:///d:/Dichtrung/Global State/global_glossary.json)
+
+```json
+{
+  "metadata": {
+    "version": "1.0",
+    "source_language": "zh",
+    "target_language": "vi",
+    "last_updated": "",
+    "total_entries": 0,
+    "source_projects": []
+  },
+  "entries": [
+    {
+      "id": "GTERM_001",
+      "source_term": "Thuật ngữ gốc",
+      "target_term": "Thuật ngữ dịch",
+      "category": "cultivation/weapon/faction/location/general",
+      "source_project": "Tên project branch",
+      "confidence": "high/medium/low",
+      "notes": "Ghi chú",
+      "locked": false
+    }
+  ]
+}
+```
+
+---
+
+### 3. Workflow Rules Cục Bộ
+
+> [!IMPORTANT]
+> Các workflow trong `.agents/workflows/` sẽ **override** workflow toàn cục khi user đang làm việc trong workspace `d:\Dichtrung`. Chúng sẽ bọc (wrap) workflow gốc + thêm logic đặc thù cho cấu trúc Dichtrung.
+
+#### [NEW] [init-branch.md](file:///d:/Dichtrung/.agents/workflows/init-branch.md)
+
+**Mục đích:** Khởi tạo project branch mới từ source đã có. Kết hợp:
+1. Chạy `Tachchuong.py` hoặc tự tách chương → `Source split/[Tên]/`
+2. Tạo folder trong `Output/[Tên Project Branch]/` với đầy đủ state files
+3. Chạy `/translate-setup` gốc nhưng trỏ source vào `Source/Source split/[Tên]/`
+4. Import glossary từ `Global State/global_glossary.json` thay vì global skill
+
+#### [NEW] [translate.md](file:///d:/Dichtrung/.agents/workflows/translate.md)
+
+**Mục đích:** Override `/translate` gốc, thêm:
+- **Bước 0:** Xác định project branch hiện tại (từ context hoặc hỏi user)
+- **Source path:** Trỏ vào `Source/Source split/[Tên]/` (KHÔNG copy)
+- **Working dir:** `Output/[Tên Project Branch]/`
+- **Bước 5.4 mở rộng:** Sau khi cập nhật state cục bộ → chạy `sync-state` để đồng bộ lên Global State
+- **Sanitization:** Quét CJK scan trên output bắt buộc (theo `global_config.json`)
+
+#### [NEW] [translate-setup.md](file:///d:/Dichtrung/.agents/workflows/translate-setup.md)
+
+**Mục đích:** Override `/translate-setup` gốc:
+- Tạo project branch trong `Output/[Tên]` thay vì tạo project riêng
+- Import từ `Global State/global_glossary.json` + `Global State/global_characters.json`
+- Source path trỏ vào `Source/Source split/[Tên]/`
+
+#### [NEW] [translate-wiki.md](file:///d:/Dichtrung/.agents/workflows/translate-wiki.md)
+
+**Mục đích:** Override `/translate-wiki` gốc:
+- Load data từ `Output/[Tên Project Branch]/` thay vì project root
+- Có thể xem wiki liên project qua Global State
+
+#### [NEW] [ebook.md](file:///d:/Dichtrung/.agents/workflows/ebook.md)
+
+**Mục đích:** Override `/ebook` gốc:
+- Source = `Output/[Tên Project Branch]/output/` (bản dịch cuối)
+- Output = `Output/[Tên Project Branch]/ebook/`
+- Auto-detect title/author từ `translation_config.json`
+- Language = `vi`
+
+#### [NEW] [sync-state.md](file:///d:/Dichtrung/.agents/workflows/sync-state.md)
+
+**Mục đích:** Quy trình đồng bộ state cục bộ → Global State:
+1. Đọc `glossary.json` cục bộ → merge entries mới vào `Global State/global_glossary.json`
+2. Đọc `characters.json` cục bộ → merge nhân vật mới vào `Global State/global_characters.json`
+3. Cross-check trùng lặp (cùng tên nhân vật từ nhiều project)
+4. Log kết quả đồng bộ
+
+---
+
+### 4. Sửa Script Tachchuong.py
+
+#### [MODIFY] [Tachchuong.py](file:///d:/Dichtrung/Script/Tachchuong.py)
+
+- Đổi `BASE_DIR` từ `D:\Dichsach` → `D:\Dichtrung`
+- Đổi output dir: `Source/Source split/[Tên an toàn]/` thay vì `D:\Dichsach\[Tên]\Source\`
+- Giữ nguyên logic tách chương
+
+---
+
+### 5. File Hệ Thống
+
+#### [NEW] [dichtrung.json](file:///d:/Dichtrung/dichtrung.json)
+
+Trinity Identity file cho repo:
+
+```json
+{
+  "project_name": "Dichtrung",
+  "type": "translation_hub",
+  "description": "Repo tổng hợp dịch thuật 39+ truyện",
+  "tech_stack": {
+    "workflows": ["/translate", "/translate-setup", "/translate-wiki", "/ebook"],
+    "scripts": ["Tachchuong.py", "sync_state.py"],
+    "output_format": "markdown → ebook"
+  },
+  "rules": {
+    "output_language": "vi",
+    "ban_cjk_output": true,
+    "single_git": true,
+    "source_immutable": true
+  },
+  "created_at": "2026-04-16"
+}
+```
+
+#### [NEW] [.gitignore](file:///d:/Dichtrung/.gitignore)
+
+```
+# Drafts (tạm thời, không cần track)
+**/drafts/
+
+# Logs
+**/logs/
+
+# Build artifacts
+**/ebook/*.epub
+**/ebook/*.pdf
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+```
+
+#### [NEW] [README.md](file:///d:/Dichtrung/README.md)
+
+Hướng dẫn sử dụng repo bằng tiếng Việt.
+
+---
+
+## Quy Trình Tổng Thể (Flow)
+
+```mermaid
+flowchart TD
+    START["Có source HTML mới"] --> SPLIT["1. Tách chương<br/>Script/Tachchuong.py"]
+    SPLIT --> SOURCE["Source/Source split/[Tên]/"]
+    SOURCE --> INIT["2. Khởi tạo project branch<br/>/init-branch [Tên]"]
+    INIT --> BRANCH["Output/[Tên Project Branch]/"]
+    BRANCH --> SETUP["3. Setup dịch thuật<br/>/translate-setup"]
+    SETUP --> TRANSLATE["4. Dịch từng chương<br/>/translate next"]
+    TRANSLATE --> SYNC["5. Đồng bộ state<br/>(tự động sau mỗi chương)"]
+    SYNC --> GLOBAL["Global State/ cập nhật"]
+    TRANSLATE --> CHECK{"Còn chương?"}
+    CHECK -->|Có| TRANSLATE
+    CHECK -->|Hết| EBOOK["6. Build ebook<br/>/ebook"]
+    EBOOK --> DONE["✅ Hoàn tất<br/>Output/[Tên]/ebook/"]
+```
+
+---
+
+## Kế Hoạch Thực Thi
+
+| # | Việc | File/Folder |
+|---|------|-------------|
+| 1 | Tạo Global State files | `Global State/global_*.json` |
+| 2 | Tạo `.agents/workflows/` | 6 workflow files |
+| 3 | Sửa `Tachchuong.py` | `Script/Tachchuong.py` |
+| 4 | Tạo files hệ thống | `dichtrung.json`, `.gitignore`, `README.md` |
+| 5 | Tạo `project_progress.json` | Root |
+| 6 | Init Git repo | `git init` + first commit |
+
+---
+
+## Kế Hoạch Xác Minh
+
+### Kiểm tra thủ công
+1. Xác nhận cấu trúc thư mục đúng spec (liệt kê `list_dir` từng folder)
+2. Xác nhận JSON hợp lệ cho tất cả state files (`python -c "import json; json.load(open(...))"`)
+3. Xác nhận workflow files có frontmatter YAML hợp lệ
+4. Xác nhận `Tachchuong.py` đã trỏ đúng path mới
+
+### Test flow end-to-end
+- Thử `/init-branch` với 1 truyện mẫu → kiểm tra folder tạo đúng trong `Output/`
+- Đây là test do user thực hiện sau khi code được triển khai

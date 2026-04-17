@@ -1,0 +1,15 @@
+{
+  "project_name": "Hong Hoang Lich",
+  "tech_stack": {
+    "engine": "Translation Engine v2.0 (MATT)",
+    "language": "zh -> vi",
+    "genre": "eastern_fiction",
+    "sub_genre": "xianxia"
+  },
+  "rules": [
+    "Strict narrative consistency",
+    "Hybrid pronoun mode",
+    "Periodic state synchronization",
+    "Naming: Chinese -> Hán-Việt, Western/Other -> Latin"
+  ]
+}

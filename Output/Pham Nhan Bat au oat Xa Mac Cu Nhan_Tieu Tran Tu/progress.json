@@ -1,0 +1,158 @@
+{
+  "meta": {
+    "overall_progress_percent": 1.75,
+    "current_phase": "Batch 3 Translation",
+    "status": "in_progress",
+    "last_updated": "2026-04-17T08:50:10+07:00"
+  },
+  "milestones": [
+    {
+      "id": "MS1",
+      "title": "Project Initialization",
+      "status": "DONE",
+      "tasks": [
+        "Scaffold structure",
+        "Initialize state files",
+        "Import glossary"
+      ]
+    },
+    {
+      "id": "MS2",
+      "title": "Chapter Translation",
+      "status": "IN_PROGRESS",
+      "tasks": [
+        "Translate Batch 1 (Ch 1-10)"
+      ]
+    }
+  ],
+  "total_chapters": 1337,
+  "completed_chapters": 20,
+  "current_chapter": 20,
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Mặc Cư Nhân và Huyết Mạch Chuyển Hóa",
+      "status": "done",
+      "completed_at": "2026-04-14T21:31:00Z"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Bán Yêu Thú và Thu Thập Huyết Mạch",
+      "status": "done",
+      "completed_at": "2026-04-14T21:42:00Z"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Mặc đại phu kỳ lạ",
+      "status": "done",
+      "completed_at": "2026-04-15T15:46:00Z"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Mưu đồ và đột nhiên trở về",
+      "status": "done",
+      "completed_at": "2026-04-15T15:58:00Z"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Chuyển hóa bắt đầu và kể lại",
+      "status": "done",
+      "completed_at": "2026-04-15T16:05:00Z"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Tái bái sư",
+      "status": "done",
+      "completed_at": "2026-04-15T16:06:00Z"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Vân Xí Điểu và Rời Đi",
+      "status": "done",
+      "completed_at": "2026-04-15T20:01:00Z"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Tống Bảo Thượng Nhân",
+      "status": "done",
+      "completed_at": "2026-04-15T20:02:00Z"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Tứ phu nhân và Mặc Thái Hoàn",
+      "status": "done",
+      "completed_at": "2026-04-15T20:03:00Z"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Mặc phủ đoàn tụ và sởn tóc gáy",
+      "status": "done",
+      "completed_at": "2026-04-15T20:05:00Z"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Cục diện và Tranh luận",
+      "status": "done",
+      "completed_at": "2026-04-15T20:09:00Z"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Thí nghiệm dung huyết và nỗi phiền muộn của Hàn Lập",
+      "status": "done",
+      "completed_at": "2026-04-15T20:12:00Z"
+    },
+    {
+      "chapter_number": 13,
+      "title": "Phản sát và Sự quan tâm",
+      "status": "done",
+      "completed_at": "2026-04-15T20:15:00Z"
+    },
+    {
+      "chapter_number": 14,
+      "title": "Suy diễn dữ liệu và Nhân duyên",
+      "status": "done",
+      "completed_at": "2026-04-15T20:18:00Z"
+    },
+    {
+      "chapter_number": 15,
+      "title": "Thái Nam Cốc và Linh Phù",
+      "status": "done",
+      "completed_at": "2026-04-15T20:21:00Z"
+    },
+    {
+      "chapter_number": 16,
+      "title": "Linh phù và Hỏa bạo",
+      "status": "done",
+      "completed_at": "2026-04-15T20:25:00Z"
+    },
+    {
+      "chapter_number": 17,
+      "title": "Cự hán và Thiếu nữ",
+      "status": "done",
+      "completed_at": "2026-04-15T20:28:00Z"
+    },
+    {
+      "chapter_number": 18,
+      "title": "Khắc ý kết giao",
+      "status": "done",
+      "completed_at": "2026-04-15T20:31:00Z"
+    },
+    {
+      "chapter_number": 19,
+      "title": "Thăng Tiên Lệnh và cái chấn động của Hàn Lập",
+      "status": "done",
+      "completed_at": "2026-04-15T20:35:00Z"
+    },
+    {
+      "chapter_number": 20,
+      "title": "Truy sát",
+      "status": "done",
+      "completed_at": "2026-04-15T20:40:00Z"
+    }
+  ],
+  "project_name": "Pham Nhan Bat Dau Tu Mo Cu Nhan",
+  "last_processed_chapter": 20,
+  "status": "in_progress",
+  "last_updated": "2026-04-17T08:50:10+07:00",
+  "output_dir": "Output/Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu/output/"
+}

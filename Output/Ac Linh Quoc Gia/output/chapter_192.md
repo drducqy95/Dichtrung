@@ -1,0 +1,39 @@
+# Chương 192: Quỷ quyệt
+
+“Lần này quỷ vật rất khó nhằn, đúng như những gì cậu đã phân tích lúc trước, quỷ vật không chỉ có một con đâu.” Khi nhắc đến chủ đề này, vẻ mặt của Lãnh Nguyệt lộ rõ sự nghiêm trọng không thốt nên lời.
+
+“Ý anh là sao khi bảo loại quỷ vật như vậy không chỉ có một con?” Tông Khánh Cương và cậu thiếu niên gầy gò nghe xong bèn ngẩn người, có chút không hiểu ý trong lời nói của Lãnh Nguyệt.
+
+“Chính là trong sự kiện đoàn đội lần này, số lượng quỷ vật mà chúng ta cần tìm kiếm và tiêu diệt không chỉ dừng lại ở con số một đâu.” Nghe xong lời giải thích của Lãnh Nguyệt, cả ba người bao gồm cô gái tóc ngắn đều phải giật mình. Có thể thấy mặc dù Hạ Thiên Kì trước đó đã từng đưa ra những phỏng đoán tương tự, nhưng lúc bấy giờ cả ba người bọn họ đều chẳng hề để tâm.
+
+“Mấy con quỷ đó lợi hại lắm sao?” Tông Khánh Cương bất an nhìn Lãnh Nguyệt, đây mới là vấn đề mà họ thực sự quan tâm. Bởi vì nếu thực lực của quỷ vật cũng chỉ yếu như mấy con tiểu quỷ mà họ đã tiêu diệt lúc trước, thì dẫu có tới một trăm con họ cũng chẳng sợ, nhưng ngược lại, chỉ một con thôi cũng đủ để quét sạch bọn họ rồi.
+
+“Đúng như Từ Thiên Hoa đã nói, chúng nằm ở cấp độ giữa Quỷ mị và Lệ quỷ. Lợi hại hơn Quỷ mị thông thường, nhưng yếu hơn Lệ quỷ một chút. Nói cho rõ thì đó đều là những con Quỷ mị có năng lực rất mạnh, không hề dễ đối phó.”
+
+“Mẹ kiếp, cái sự kiện đoàn đội gì thế này, rõ ràng là sự kiện diệt môn thì có!” Nghe lời Lãnh Nguyệt, Tông Khánh Cương lập tức rơi vào tuyệt vọng. Chỉ có cô gái tóc ngắn là đảo mắt một vòng, thình lình nhận ra điều gì đó bèn hỏi: “Không dễ đối phó, nhưng vẫn có cách để đối phó phải không?”
+
+“Đúng là vậy.” Lãnh Nguyệt hướng về phía cô gái tóc ngắn gật đầu xác nhận, sau đó ánh mắt quét qua mọi người nói: “Nhưng tôi cần mọi người giúp tôi một tay.”
+
+Tiếp đó, Lãnh Nguyệt nói cho mọi người biết về tình hình mà anh nắm được từ phía quỷ vật, cũng như đưa ra một bản phân công và chỉ thị khái quát về những việc mọi người cần làm tiếp theo. Theo lời Lãnh Nguyệt, số lượng Quỷ mị trong sự kiện lần này ít nhất cũng từ 3 con trở lên, hơn nữa năng lực đều rất mạnh. Điểm này có thể thấy rõ qua việc sắc trời ngoài kia vẫn tối sầm như mực, rõ ràng là có một con quỷ vật đã tạo ra một huyễn cảnh bóng đêm. Hơn nữa Lãnh Nguyệt còn đặc biệt nhấn mạnh rằng, những con quỷ vật mà họ sắp phải đối mặt không phải hạng Quỷ mị thông thường chỉ biết mấy trò vặt lừa người, lần này đám Quỷ mị đó thực sự có khả năng giết người.
+
+Về giả thuyết Quỷ mị có thể trực tiếp giết người, cô gái tóc ngắn nghe xong cũng rất tán đồng. Theo lời cô nói, cô từng đụng phải một con Quỷ mị tương tự như Lệ quỷ, sở hữu khả năng giết người trực tiếp. Con Quỷ mị đó không có bất kỳ năng lực đặc biệt nào, nhưng lại có sức mạnh vô song, căn bản không chịu bất kỳ tổn thương nào từ các đòn tấn công vật lý, có thể coi là một loại Quỷ mị khá khác biệt. Nếu có loại Quỷ mị này trộn lẫn bên trong, rồi lại được sự yểm trợ từ năng lực của các con Quỷ mị khác, thì chỉ đơn thuần xét về khả năng giết người, e là nó chẳng kém cạnh gì so với Lệ quỷ là bao. Và điểm này cũng chính là điều Lãnh Nguyệt luôn nhắc nhở họ phải chú ý.
+
+Còn về phần Lãnh Nguyệt cần họ làm gì thì rất đơn giản, đó là cùng tiến về hang ổ của đám Quỷ mị mà anh đã phát hiện, sau đó đánh cho chúng một trận trở tay không kịp. Bởi vì muốn đối phó với hạng Quỷ mị quỷ quyệt, không chỉ thực lực phải theo kịp mà đầu óc cũng không được thua kém quá nhiều. Nếu không sẽ bị đám Quỷ mị đó tính kế, đến cuối cùng ngay cả mình chết thế nào cũng không biết. Mặc dù việc tiến vào hang ổ của mấy con Quỷ mị là một hành động cực kỳ mạo hiểm, nhưng đây lại là một cơ hội tuyệt vời để tìm thấy chúng và tóm gọn cả mẻ. Dĩ nhiên, họ cũng không ngu ngốc tới mức tự mình ra tay, nói trắng ra thì chuyến này họ đi là để làm mồi nhử, sẵn tiện làm chân chạy vặt cho Từ Thiên Hoa.
+
+Hạ Thiên Kì sử dụng máy liên lạc báo cho Từ Thiên Hoa về địa điểm ẩn náu của đám Quỷ mị mà Lãnh Nguyệt tìm được. Từ Thiên Hoa cũng nhanh chóng hồi âm, bảo sẽ đợi họ ở phía đầu Đông của thôn. Cứ như thế, mọi người vì sợ quỷ vật lại giở trò gì mới nên không dám trì hoãn thêm nữa, cả bốn người khẩn trương lên đường tiến về phía Đông thôn. Khi cả bốn người họ tới nơi, nhóm ba người Từ Thiên Hoa đã mang gương mặt sa sầm đợi sẵn ở đó. Sau khi gặp mặt, Từ Thiên Hoa cũng không hỏi han gì thêm mà chỉ hỏi chi tiết về địa điểm ẩn náu của đám Quỷ mị, cũng như tại sao Lãnh Nguyệt lại có thể chắc chắn rằng lũ quỷ đó đang trốn ở nơi đó. Lãnh Nguyệt giải thích qua loa vài câu, Từ Thiên Hoa cũng không truy vấn thêm nữa. Thực tế thì gã cũng chẳng còn lựa chọn nào khác, dẫu sao theo thời gian 48 tiếng đang ngày một rút ngắn, có thể nói Từ Thiên Hoa chỉ còn nước thử tin tưởng vào phát hiện của mọi người.
+
+Lãnh Nguyệt và Hạ Thiên Kì đi tiên phong, bao gồm cả cô gái tóc ngắn, Vương Khải, Triệu Thu Nhã và những người khác bám theo phía sau, giữa họ không hề có bất kỳ cuộc giao lưu nào. Lãnh Nguyệt bảo địa điểm ẩn náu của mấy con Quỷ mị là ở gần phía đầu Tây của thôn, nơi đó có một ngôi miếu bỏ hoang, mấy con Quỷ mị đang trốn chui trốn nhủi trong đó. Trên đường tiến về phía Tây thôn, bầu không khí giữa mọi người có thể nói là áp bách tới cực điểm, những cơn gió lạnh lùa qua khiến Hạ Thiên Kì rợn cả tóc gáy. Vì sắc trời vẫn chưa hửng sáng nên nhóm Hạ Thiên Kì vẫn phải dùng đèn pin để soi đường, dĩ nhiên hạng như Từ Thiên Hoa và Lãnh Nguyệt thì không cần phải tốn công như vậy.
+
+Cùng lúc đó, tại phía Đông thôn.
+
+Vương Khải dẫn theo Triệu Thu Nhã không ngừng len lỏi trong dòng người đông đúc chen lấn, nhưng dẫu có đi thế nào cũng chẳng thấy điểm dừng. Hơn nữa, những tin nhắn cầu cứu gửi qua máy liên lạc cho Từ Thiên Hoa, thậm chí cả Tông Khánh Cương, đều như đá chìm đáy bể, không nhận được bất kỳ hồi âm nào. Những tin nhắn cầu cứu không người phản hồi, dòng người càng lúc càng đông đúc ép người, con đường làng dài dằng dặc tưởng như không có điểm kết... tất cả những điều đó khiến Vương Khải và Triệu Thu Nhã lâm vào cảnh tuyệt vọng khôn cùng. Họ rõ ràng biết tất cả những thứ trước mắt đều không phải là thật, thế nhưng họ lại chẳng cách nào thoát ly được. Và điều khiến bọn họ cảm thấy hoang mang nhất chính là khi họ lộ ra dáng vẻ cực kỳ hoảng loạn, thì những người qua kẻ lại xung quanh nhìn họ với ánh mắt đầy quái dị, cứ như thể so với họ thì anh và Triệu Thu Nhã mới là những kẻ không bình thường vậy.
+
+“Khải... chuyện này rốt cuộc là sao chứ... chúng ta... chúng ta có phải là đã không còn thoát ra ngoài được nữa rồi không?” Triệu Thu Nhã vừa nói vừa rơi nước mắt. Vương Khải có thể thấy rõ Triệu Thu Nhã trong lòng đã hoàn toàn tuyệt vọng rồi. Cầu cứu Từ Thiên Hoa và những người khác không thành công, bản thân họ muốn chạy lại chạy không thoát, vậy thì kết cục cuối cùng nếu không phải bị quỷ vật giết chết thì cũng là bị mài mòn cho đến chết ở nơi này.
+
+“Sẽ có cách thôi Thu Nhã... chúng ta sẽ không sao đâu... nhất định sẽ không sao đâu...” Vương Khải mặc dù ngoài miệng nói vậy, nhưng thực tế anh cũng chẳng có cách nào, hay nói cách khác, tình cảnh trước mắt cũng khiến anh cảm thấy tuyệt vọng tột cùng.
+
+Cùng lúc đó, ở một nơi khác, phía Nam thôn.
+
+Lãnh Nguyệt đang không ngừng chạy trên con đường nhỏ ở phía Nam làng, thế nhưng những con đường nhỏ này đan xen chằng chịt, dẫu có chạy thế nào cũng đều quay trở về điểm xuất phát. Không còn nghi ngờ gì nữa, anh đã bị quỷ vật vây khốn ở nơi này, hơn nữa còn bị nhốt một thời gian rồi, đến mức trên mặt anh hiếm khi để lộ ra vẻ phẫn nộ. “Đám Quỷ mị này đúng là quỷ quyệt, biết rõ không đối phó được mình nên mới muốn giam chân mình ở đây.” Bước chân đang bay nhanh của Lãnh Nguyệt thình lình dừng lại, lúc này anh chẳng biết đang nghĩ gì mà trên mặt lại lộ ra thần sắc đấu tranh.
+
+Chỉ là bất kể Lãnh Nguyệt có thoát ra được hay không, cũng khó lòng thay đổi một sự thật, đó là người đang đi bên cạnh Hạ Thiên Kì lúc này... căn bản không phải là anh.

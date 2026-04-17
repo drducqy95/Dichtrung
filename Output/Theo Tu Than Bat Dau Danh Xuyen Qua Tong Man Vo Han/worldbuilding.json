@@ -1,0 +1,60 @@
+{
+  "factions": [
+    {"name": "Gotei 13", "original_name": "护庭十三队", "leader": "Yamamoto Genryuusai", "description": "Hộ Đình Thập Tam Đội"},
+    {"name": "Espada", "original_name": "十刃", "leader": "Aizen Sousuke", "description": "Thập Nhẫn - 10 Arrancar mạnh nhất"},
+    {"name": "Wandenreich", "original_name": "无形帝国", "leader": "Yhwach", "description": "Vô Hình Đế Quốc - Quincy"}
+  ],
+  "weapons": [
+    {"name": "Zanpakuto", "original_name": "斩魄刀", "user": "Shinigami", "description": "Trảm Phách Đao"},
+    {"name": "Zangetsu", "original_name": "斩月", "user": "Kurosaki Ichigo", "description": "Trảm Nguyệt"},
+    {"name": "Ryujin Jakka", "original_name": "流刃若火", "user": "Yamamoto Genryuusai", "description": "Lưu Nhẫn Nhược Hỏa"}
+  ],
+  "techniques": [
+    {"name": "Shikai", "original_name": "始解", "description": "Thủy Giải"},
+    {"name": "Bankai", "original_name": "卍解", "description": "Vạn Giải"},
+    {"name": "Getsuga Tenshou", "original_name": "月牙天冲", "description": "Nguyệt Nha Thiên Xung"}
+  ],
+  "cultivation_systems": [],
+  "cultivation_resources": [],
+  "power_ranking": {
+    "last_updated_chapter": null,
+    "ranking": [],
+    "notes": ""
+  },
+  "locations": [
+    {"name": "Soul Society", "original_name": "尸魂界", "description": "Thi Hồn Giới"},
+    {"name": "Seireitei", "original_name": "瀞灵廷", "description": "Tịnh Linh Đình"},
+    {"name": "Rukongai", "original_name": "流魂街", "description": "Lưu Hồn Nhai"},
+    {"name": "Hueco Mundo", "original_name": "虚圈", "description": "Hư Quyển"}
+  ],
+  "world_map": {
+    "generated": false,
+    "image_path": null,
+    "readiness_score": 0,
+    "last_updated_chapter": null,
+    "description": "",
+    "scale": "unknown"
+  },
+  "relationship_diagrams": {
+    "character_relationship": {
+      "generated": false,
+      "mermaid_path": null,
+      "image_path": null,
+      "last_updated_chapter": null,
+      "min_characters_to_generate": 8
+    },
+    "family_tree": {
+      "generated": false,
+      "mermaid_path": null,
+      "image_path": null,
+      "last_updated_chapter": null,
+      "families_tracked": []
+    },
+    "faction_relationship": {
+      "generated": false,
+      "mermaid_path": null,
+      "image_path": null,
+      "last_updated_chapter": null
+    }
+  }
+}
