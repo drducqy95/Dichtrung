@@ -153,6 +153,12 @@
   "project_name": "Pham Nhan Bat Dau Tu Mo Cu Nhan",
   "last_processed_chapter": 20,
   "status": "in_progress",
-  "last_updated": "2026-04-17T08:50:10+07:00",
-  "output_dir": "Output/Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu/output/"
+  "last_updated": "2026-04-17T10:42:21+07:00",
+  "output_dir": "Output/Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu/output/",
+  "workflow_artifacts": {
+    "branch_readme": "README.md",
+    "converter_db_ready": true,
+    "ebook_toc": "ebook/toc.md",
+    "illustration_manifest": "ebook/illustration_manifest.json"
+  }
 }

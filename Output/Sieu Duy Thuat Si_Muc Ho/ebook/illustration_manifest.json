@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "project_title": "Siêu Duy Thuật Sĩ",
+    "generated_at": "2026-04-17T10:42:21+07:00"
+  },
+  "requirements": {
+    "toc_required": true,
+    "illustrations_required": true
+  },
+  "cover": {
+    "status": "prompt_ready",
+    "asset_candidates": [],
+    "prompt": "Bìa dọc 6x9, thị trấn châu Âu cổ nhỏ dưới bầu trời xám, đoàn kỵ binh giáp bạc tiến vào, lá cờ gia tộc Morn tung bay, xa xa là ánh sáng ma pháp mờ ảo."
+  },
+  "sample_chapter": {
+    "chapter_number": 1,
+    "chapter_title": "Thiếu niên Angel",
+    "prompt": "Đoàn kỵ binh giáp bạc tiến qua cổng thị trấn Gelu, dân làng kinh hãi nhìn lá cờ gia tộc Morn, trong khi Parcia và Dim phản ứng theo hai cách hoàn toàn khác nhau.",
+    "asset_candidates": []
+  },
+  "supplementary_assets": {
+    "maps": [],
+    "characters": [],
+    "diagrams": []
+  }
+}

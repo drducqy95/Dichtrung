@@ -131,6 +131,12 @@
   },
   "project_name": "Siêu Duy Thuật Sĩ",
   "last_processed_chapter": 20,
-  "last_updated": "2026-04-17T08:50:10+07:00",
-  "output_dir": "Output/Sieu Duy Thuat Si_Muc Ho/output/"
+  "last_updated": "2026-04-17T10:42:21+07:00",
+  "output_dir": "Output/Sieu Duy Thuat Si_Muc Ho/output/",
+  "workflow_artifacts": {
+    "branch_readme": "README.md",
+    "converter_db_ready": true,
+    "ebook_toc": "ebook/toc.md",
+    "illustration_manifest": "ebook/illustration_manifest.json"
+  }
 }

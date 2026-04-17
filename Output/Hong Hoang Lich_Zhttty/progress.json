@@ -3,7 +3,7 @@
   "completed_chapters": 10,
   "current_chapter": 10,
   "status": "in_progress",
-  "last_updated": "2026-04-17T08:50:10+07:00",
+  "last_updated": "2026-04-17T10:42:21+07:00",
   "chapters": [
     {
       "chapter": 1,
@@ -62,5 +62,11 @@
   },
   "project_name": "Hong Hoang Lich",
   "last_processed_chapter": 10,
-  "output_dir": "Output/Hong Hoang Lich_Zhttty/output/"
+  "output_dir": "Output/Hong Hoang Lich_Zhttty/output/",
+  "workflow_artifacts": {
+    "branch_readme": "README.md",
+    "converter_db_ready": true,
+    "ebook_toc": "ebook/toc.md",
+    "illustration_manifest": "ebook/illustration_manifest.json"
+  }
 }

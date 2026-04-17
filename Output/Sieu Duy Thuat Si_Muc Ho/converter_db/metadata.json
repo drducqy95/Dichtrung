@@ -1,0 +1,28 @@
+{
+  "branch": "Sieu Duy Thuat Si_Muc Ho",
+  "project_name": "Siêu Duy Thuật Sĩ",
+  "display_title": "Siêu Duy Thuật Sĩ",
+  "author": "Mục Hồ",
+  "genre": "western_fiction",
+  "sub_genre": "wizardry",
+  "backdrop": "Fantasy phương Tây pha huyền bí và siêu duy, mở ra từ các thị trấn hẻo lánh, gia tộc quyền lực và cánh cửa bước vào nền văn minh phù thủy.",
+  "summary": "Từ nhịp mở đầu ở thị trấn Gelu, truyện dựng bầu không khí rất mạnh: xa trung tâm nhưng luôn bị ảnh hưởng bởi các gia tộc và thế lực lớn. Đây là kiểu tác phẩm đưa người đọc từ tín hiệu quyền lực đầu tiên đến thế giới phù thủy rộng lớn hơn.",
+  "notes": "Địa điểm: [Loại] [Tên Latinh] (Đế quốc Jinque). Thời gian: Tháng [Tên Hán Việt]. Xưng hô: Phương Tây cổ đại (Anh-em, Ngươi-ta, Ngài-tôi).",
+  "source_ref": {
+    "full": "Source/Source full/Siêu Duy Thuật Sĩ_Mục Hồ.html",
+    "split": "Source/Source split/Sieu Duy Thuat Si_Muc Ho/",
+    "description": "Source nam o thu muc goc, KHONG copy vao branch"
+  },
+  "completed_chapters": 20,
+  "total_chapters": 4393,
+  "output_filename_pattern_display": "Chương {chapter:04d}: {title}.md",
+  "output_filename_pattern_filesystem": "Chương {chapter:04d} - {title}.md",
+  "output_filename_constraint_note": "Windows không cho phép ký tự ':' trong tên file, vì vậy pattern lưu trên đĩa dùng dấu gạch ngang.",
+  "style_tags": [
+    "fantasy",
+    "phù thủy",
+    "mystery",
+    "adventure"
+  ],
+  "generated_at": "2026-04-17T10:42:21+07:00"
+}

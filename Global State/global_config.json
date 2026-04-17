@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-04-16T21:38:00+07:00",
+    "last_updated": "2026-04-17T10:42:20+07:00",
     "description": "Quy tắc dịch thuật toàn cục cho repo Dichtrung"
   },
   "default_settings": {
@@ -33,12 +33,24 @@
   },
   "genre_defaults": {
     "eastern_fiction": {
-      "sub_genres": ["xianxia", "wuxia", "xuyen_khong", "do_thi", "huyen_huyen", "kiem_hiep"],
+      "sub_genres": [
+        "xianxia",
+        "wuxia",
+        "xuyen_khong",
+        "do_thi",
+        "huyen_huyen",
+        "kiem_hiep"
+      ],
       "name_setting": "phien_am",
       "tone": "Cổ phong / Hiện đại tùy sub_genre"
     },
     "western_fiction": {
-      "sub_genres": ["fantasy", "sci_fi", "romance", "thriller"],
+      "sub_genres": [
+        "fantasy",
+        "sci_fi",
+        "romance",
+        "thriller"
+      ],
       "name_setting": "keep_original",
       "tone": "Hiện đại, tự nhiên"
     }
@@ -53,5 +65,15 @@
     "source_immutable": true,
     "source_location": "Source/Source split/[Tên Project]/",
     "description": "Source KHÔNG BAO GIỜ được copy vào project branch. Luôn tham chiếu từ Source/"
+  },
+  "workflow_defaults": {
+    "require_branch_readme": true,
+    "require_converter_db": true,
+    "require_ebook_toc": true,
+    "require_ebook_illustrations": true,
+    "output_filename_pattern_display": "Chương {chapter:04d}: {title}.md",
+    "output_filename_pattern_filesystem": "Chương {chapter:04d} - {title}.md",
+    "output_filename_constraint_note": "Windows không cho phép ký tự ':' trong tên file, vì vậy pattern lưu trên đĩa dùng dấu gạch ngang.",
+    "branch_scaffold_script": "Script/branch_scaffold.py"
   }
 }

@@ -3,7 +3,7 @@
   "completed_chapters": 50,
   "current_chapter": 50,
   "status": "in_progress",
-  "last_updated": "2026-04-17T08:50:10+07:00",
+  "last_updated": "2026-04-17T10:42:21+07:00",
   "chapters": [
     {
       "chapter_number": 1,
@@ -324,5 +324,11 @@
   },
   "project_name": "Chủ Thần Đại Đạo",
   "last_processed_chapter": 50,
-  "output_dir": "Output/Chu Than Dai Dao_Co Nguyet Cu Si/output/"
+  "output_dir": "Output/Chu Than Dai Dao_Co Nguyet Cu Si/output/",
+  "workflow_artifacts": {
+    "branch_readme": "README.md",
+    "converter_db_ready": true,
+    "ebook_toc": "ebook/toc.md",
+    "illustration_manifest": "ebook/illustration_manifest.json"
+  }
 }

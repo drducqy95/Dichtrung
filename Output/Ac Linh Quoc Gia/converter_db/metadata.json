@@ -1,0 +1,28 @@
+{
+  "branch": "Ac Linh Quoc Gia",
+  "project_name": "Ác Linh Quốc Gia",
+  "display_title": "Ác Linh Quốc Gia",
+  "author": "Đạn Chỉ Nhất Tiếu Gian 0",
+  "genre": "eastern_fiction",
+  "sub_genre": "horror",
+  "backdrop": "Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.",
+  "summary": "Hạ Thiên Kì từ một sinh viên bình thường bị cuốn vào công ty bí ẩn chuyên xử lý các sự kiện quỷ dị. Càng tiến sâu, anh càng nhận ra công việc ấy là trò chơi sinh tồn được xây bằng sợ hãi, mưu tính và cái giá phải trả để còn sống.",
+  "notes": "Giữ nguyên quy tắc dịch Hán Việt. Hạn chế dịch kiểu cấu trúc Trung Quốc như Hạ Thiên Kỳ cũng không có tâm lớn (vô tư). Ruan Jiang -> Nhuyễn Cương. Soft Brown -> Nhuyễn Tông. Tà Linh Chi Nhãn phiên âm tùy chỉnh: Tà Linh Nhãn khi gọi tên item, mắt Tà Linh khi mô tả.",
+  "source_ref": {
+    "full": "Source/Source full/Ác Linh Quốc Gia_Đạn Chỉ Nhất Tiếu Gian 0.html",
+    "split": "Source/Source split/Ac Linh Quoc Gia/",
+    "description": "Source nam o thu muc goc, KHONG copy vao branch"
+  },
+  "completed_chapters": 409,
+  "total_chapters": 1671,
+  "output_filename_pattern_display": "Chương {chapter:04d}: {title}.md",
+  "output_filename_pattern_filesystem": "Chương {chapter:04d} - {title}.md",
+  "output_filename_constraint_note": "Windows không cho phép ký tự ':' trong tên file, vì vậy pattern lưu trên đĩa dùng dấu gạch ngang.",
+  "style_tags": [
+    "đô thị",
+    "kinh dị",
+    "đen hài",
+    "căng thẳng"
+  ],
+  "generated_at": "2026-04-17T10:42:21+07:00"
+}

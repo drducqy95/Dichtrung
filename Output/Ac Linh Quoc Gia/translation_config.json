@@ -19,7 +19,7 @@
   "pronoun_mode": "hybrid",
   "reflection_max_iterations": 3,
   "created_at": "2026-04-07T15:49:30Z",
-  "last_updated": "2026-04-11T14:44:00Z",
+  "last_updated": "2026-04-17T10:42:21+07:00",
   "total_chapters": 1671,
   "notes": "Giữ nguyên quy tắc dịch Hán Việt. Hạn chế dịch kiểu cấu trúc Trung Quốc như Hạ Thiên Kỳ cũng không có tâm lớn (vô tư). Ruan Jiang -> Nhuyễn Cương. Soft Brown -> Nhuyễn Tông. Tà Linh Chi Nhãn phiên âm tùy chỉnh: Tà Linh Nhãn khi gọi tên item, mắt Tà Linh khi mô tả.",
   "source_ref": {
@@ -27,5 +27,26 @@
     "split": "Source/Source split/Ac Linh Quoc Gia/",
     "description": "Source nam o thu muc goc, KHONG copy vao branch"
   },
-  "project_branch": "Ac Linh Quoc Gia"
+  "project_branch": "Ac Linh Quoc Gia",
+  "display_title": "Ác Linh Quốc Gia",
+  "display_author": "Đạn Chỉ Nhất Tiếu Gian 0",
+  "output_filename_pattern_display": "Chương {chapter:04d}: {title}.md",
+  "output_filename_pattern_filesystem": "Chương {chapter:04d} - {title}.md",
+  "output_filename_constraint_note": "Windows không cho phép ký tự ':' trong tên file, vì vậy pattern lưu trên đĩa dùng dấu gạch ngang.",
+  "database_support": {
+    "enabled": true,
+    "converter_root": "Output/Ac Linh Quoc Gia/converter_db/",
+    "metadata_file": "Output/Ac Linh Quoc Gia/converter_db/metadata.json",
+    "style_variants_index": "Output/Ac Linh Quoc Gia/converter_db/style_variants.json",
+    "style_variants_dir": "Output/Ac Linh Quoc Gia/converter_db/style_variants/",
+    "chapter_cards_dir": "Output/Ac Linh Quoc Gia/converter_db/chapter_cards/",
+    "exports_dir": "Output/Ac Linh Quoc Gia/converter_db/exports/"
+  },
+  "ebook_requirements": {
+    "toc_required": true,
+    "illustrations_required": true,
+    "toc_file": "Output/Ac Linh Quoc Gia/ebook/toc.md",
+    "illustration_manifest_file": "Output/Ac Linh Quoc Gia/ebook/illustration_manifest.json"
+  },
+  "readme_path": "Output/Ac Linh Quoc Gia/README.md"
 }

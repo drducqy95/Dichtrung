@@ -1,0 +1,28 @@
+{
+  "branch": "Hong Hoang Lich_Zhttty",
+  "project_name": "Hong Hoang Lich",
+  "display_title": "Hồng Hoang Lịch",
+  "author": "Zhttty",
+  "genre": "eastern_fiction",
+  "sub_genre": "xianxia",
+  "backdrop": "Một biên niên sử hồng hoang nơi bóng tối, sinh tồn, ma pháp, công nghệ và tu luyện cùng lúc tồn tại, khiến mỗi bước tiến cá nhân đều chạm tới vận mệnh của cả văn minh.",
+  "summary": "Tác phẩm dẫn người đọc từ cảnh sinh tồn trong hỗn loạn sang những cột mốc liên quan đến Chủ Thần, công pháp và quá trình xây dựng lực lượng. Nhịp truyện rộng, nhiều tuyến và thiên về quy mô đại cục.",
+  "notes": "Tên Trung: Hán-Việt. Tên Tây/Nhật/Hàn: Latinh.",
+  "source_ref": {
+    "full": "Source/Source full/Hồng Hoang Lịch_Zhttty.html",
+    "split": "Source/Source split/Hong Hoang Lich_Zhttty/",
+    "description": "Source nam o thu muc goc, KHONG copy vao branch"
+  },
+  "completed_chapters": 10,
+  "total_chapters": 1836,
+  "output_filename_pattern_display": "Chương {chapter:04d}: {title}.md",
+  "output_filename_pattern_filesystem": "Chương {chapter:04d} - {title}.md",
+  "output_filename_constraint_note": "Windows không cho phép ký tự ':' trong tên file, vì vậy pattern lưu trên đĩa dùng dấu gạch ngang.",
+  "style_tags": [
+    "hồng hoang",
+    "sử thi",
+    "sinh tồn",
+    "đa văn minh"
+  ],
+  "generated_at": "2026-04-17T10:42:21+07:00"
+}

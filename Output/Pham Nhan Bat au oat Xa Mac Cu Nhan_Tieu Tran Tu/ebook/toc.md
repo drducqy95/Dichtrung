@@ -1,0 +1,22 @@
+# Mục lục - Phàm Nhân Bắt Đầu Đoạt Xá Mặc Cư Nhân
+
+- Chương 0001: Mặc Cư Nhân và Huyết Mạch Chuyển Hóa
+- Chương 0002: Bán Yêu Thú và Thu Thập Huyết Mạch
+- Chương 0003: Mặc đại phu kỳ lạ
+- Chương 0004: Mưu đồ và đột nhiên trở về
+- Chương 0005: Chuyển hóa bắt đầu và kể lại
+- Chương 0006: Tái bái sư
+- Chương 0007: Vân Xí Điểu và Rời Đi
+- Chương 0008: Tống Bảo Thượng Nhân
+- Chương 0009: Tứ phu nhân và Mặc Thái Hoàn
+- Chương 0010: Mặc phủ đoàn tụ và sởn tóc gáy
+- Chương 0011: Cục diện và Tranh luận
+- Chương 0012: Thí nghiệm dung huyết và nỗi phiền muộn của Hàn Lập
+- Chương 0013: Phản sát và Sự quan tâm
+- Chương 0014: Suy diễn dữ liệu và Nhân duyên
+- Chương 0015: Thái Nam Cốc và Linh Phù
+- Chương 0016: Linh phù và Hỏa bạo
+- Chương 0017: Cự hán và Thiếu nữ
+- Chương 0018: Khắc ý kết giao
+- Chương 0019: Thăng Tiên Lệnh và cái chấn động của Hàn Lập
+- Chương 0020: Truy sát

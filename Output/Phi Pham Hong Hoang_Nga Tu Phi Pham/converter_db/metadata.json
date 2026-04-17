@@ -1,0 +1,28 @@
+{
+  "branch": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+  "project_name": "Phi Phàm Hồng Hoang",
+  "display_title": "Phi Phàm Hồng Hoang",
+  "author": "Ngã Tự Phi Phàm",
+  "genre": "eastern_fiction",
+  "sub_genre": "xianxia",
+  "backdrop": "Thiên địa sơ khai của thế giới Hồng Hoang, nơi núi chống trời, dị thú và quy luật nguyên thủy còn mạnh hơn mọi khái niệm văn minh.",
+  "summary": "La Phàm tỉnh dậy giữa một thế giới hoàn toàn không còn dấu vết Trái Đất, từ đó bước vào hành trình nhận thức lại bản thân, huyết mạch và đại đạo trong môi trường nguyên sơ nhất của hồng hoang.",
+  "notes": "Dịch từ bản tiếng Trung, thể loại Hồng Hoang Tiên Hiệp.",
+  "source_ref": {
+    "full": "Source/Source full/Phi Phàm Hồng Hoang_Ngã Tự Phi Phàm.html",
+    "split": "Source/Source split/Phi Pham Hong Hoang_Nga Tu Phi Pham/",
+    "description": "Source nam o thu muc goc, KHONG copy vao branch"
+  },
+  "completed_chapters": 15,
+  "total_chapters": 3398,
+  "output_filename_pattern_display": "Chương {chapter:04d}: {title}.md",
+  "output_filename_pattern_filesystem": "Chương {chapter:04d} - {title}.md",
+  "output_filename_constraint_note": "Windows không cho phép ký tự ':' trong tên file, vì vậy pattern lưu trên đĩa dùng dấu gạch ngang.",
+  "style_tags": [
+    "hồng hoang",
+    "khai thiên",
+    "cổ phong",
+    "đại đạo"
+  ],
+  "generated_at": "2026-04-17T10:42:21+07:00"
+}

@@ -15,5 +15,27 @@
     "split": "Source/Source split/Chu Than Dai Dao_Co Nguyet Cu Si/",
     "description": "Source nam o thu muc goc, KHONG copy vao branch"
   },
-  "project_branch": "Chu Than Dai Dao_Co Nguyet Cu Si"
+  "project_branch": "Chu Than Dai Dao_Co Nguyet Cu Si",
+  "display_title": "Chủ Thần Đại Đạo",
+  "display_author": "Cổ Nguyệt Cư Sĩ",
+  "output_filename_pattern_display": "Chương {chapter:04d}: {title}.md",
+  "output_filename_pattern_filesystem": "Chương {chapter:04d} - {title}.md",
+  "output_filename_constraint_note": "Windows không cho phép ký tự ':' trong tên file, vì vậy pattern lưu trên đĩa dùng dấu gạch ngang.",
+  "database_support": {
+    "enabled": true,
+    "converter_root": "Output/Chu Than Dai Dao_Co Nguyet Cu Si/converter_db/",
+    "metadata_file": "Output/Chu Than Dai Dao_Co Nguyet Cu Si/converter_db/metadata.json",
+    "style_variants_index": "Output/Chu Than Dai Dao_Co Nguyet Cu Si/converter_db/style_variants.json",
+    "style_variants_dir": "Output/Chu Than Dai Dao_Co Nguyet Cu Si/converter_db/style_variants/",
+    "chapter_cards_dir": "Output/Chu Than Dai Dao_Co Nguyet Cu Si/converter_db/chapter_cards/",
+    "exports_dir": "Output/Chu Than Dai Dao_Co Nguyet Cu Si/converter_db/exports/"
+  },
+  "ebook_requirements": {
+    "toc_required": true,
+    "illustrations_required": true,
+    "toc_file": "Output/Chu Than Dai Dao_Co Nguyet Cu Si/ebook/toc.md",
+    "illustration_manifest_file": "Output/Chu Than Dai Dao_Co Nguyet Cu Si/ebook/illustration_manifest.json"
+  },
+  "readme_path": "Output/Chu Than Dai Dao_Co Nguyet Cu Si/README.md",
+  "last_updated": "2026-04-17T10:42:21+07:00"
 }

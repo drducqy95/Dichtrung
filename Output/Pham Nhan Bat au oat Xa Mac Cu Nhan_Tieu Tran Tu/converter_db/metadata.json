@@ -1,0 +1,28 @@
+{
+  "branch": "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
+  "project_name": "Pham Nhan Bat Dau Tu Mo Cu Nhan",
+  "display_title": "Phàm Nhân Bắt Đầu Đoạt Xá Mặc Cư Nhân",
+  "author": "Tiêu Trần Tử",
+  "genre": "eastern_fiction",
+  "sub_genre": "xianxia",
+  "backdrop": "Fanfiction đặt trên nền Phàm Nhân Tu Tiên, nơi một linh hồn dị thế nhập vào thân xác Mặc Cư Nhân và cố viết lại vận mệnh bi kịch đã định của mình.",
+  "summary": "Từ vị trí vốn là một nhân vật bi kịch ở đầu truyện gốc, Mặc Cư Nhân nay có thêm ký ức của kẻ biết trước cốt truyện và quyết tâm thoát khỏi kết cục cũ bằng tính toán, huyết mạch và hiểu biết nguyên tác.",
+  "notes": "Fanfiction Phàm Nhân Tu Tiên, main Mặc Cư Nhân, hệ thống huyết mạch.",
+  "source_ref": {
+    "full": "Source/Source full/Phàm Nhân Bắt Đầu Đoạt Xá Mặc Cư Nhân_Tiêu Trần Tử.html",
+    "split": "Source/Source split/Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu/",
+    "description": "Source nam o thu muc goc, KHONG copy vao branch"
+  },
+  "completed_chapters": 20,
+  "total_chapters": 1337,
+  "output_filename_pattern_display": "Chương {chapter:04d}: {title}.md",
+  "output_filename_pattern_filesystem": "Chương {chapter:04d} - {title}.md",
+  "output_filename_constraint_note": "Windows không cho phép ký tự ':' trong tên file, vì vậy pattern lưu trên đĩa dùng dấu gạch ngang.",
+  "style_tags": [
+    "fanfic",
+    "tiên hiệp",
+    "đoạt xá",
+    "đổi mệnh"
+  ],
+  "generated_at": "2026-04-17T10:42:21+07:00"
+}

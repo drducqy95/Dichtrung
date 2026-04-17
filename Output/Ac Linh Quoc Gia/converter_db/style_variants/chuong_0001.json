@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "branch": "Ac Linh Quoc Gia",
+    "project_title": "Ác Linh Quốc Gia",
+    "generated_at": "2026-04-17T10:42:21+07:00"
+  },
+  "sample": {
+    "chapter_number": 1,
+    "chapter_title": "Công việc đầu tiên",
+    "source_output_file": "output/chapter_001.md",
+    "display_output_filename": "Chương 0001: Công việc đầu tiên.md",
+    "filesystem_output_filename": "Chương 0001 - Công việc đầu tiên.md",
+    "base_excerpt": "“Lương thử việc 2 vạn một tháng, còn được cấp một chiếc Audi A6...”\n\n“Lương tháng 2 vạn...”",
+    "style_tags": [
+      "đô thị",
+      "kinh dị",
+      "đen hài",
+      "căng thẳng"
+    ]
+  },
+  "variants": [
+    {
+      "style_id": "smooth_standard",
+      "style_name": "Mượt tiêu chuẩn",
+      "purpose": "Giữ nghĩa và nhịp kể tự nhiên, phù hợp làm bản chuẩn đối chiếu.",
+      "rewrite": "“Lương thử việc 2 vạn một tháng, còn được cấp một chiếc Audi A6...”\n\n“Lương tháng 2 vạn...”"
+    },
+    {
+      "style_id": "cinematic_fast",
+      "style_name": "Điện ảnh nhịp nhanh",
+      "purpose": "Ưu tiên nhịp cắt cảnh nhanh, câu ngắn và độ bật của tình huống.",
+      "rewrite": "“Lương thử việc 2 vạn một tháng, còn được cấp một chiếc Audi A6...”  “Lương tháng 2 vạn...”"
+    },
+    {
+      "style_id": "cold_interior",
+      "style_name": "Sắc lạnh nội tâm",
+      "purpose": "Kéo tiêu điểm vào cảm giác bị dồn ép hoặc nhận thức lạnh đi của nhân vật.",
+      "rewrite": "Hạ Thiên Kì không còn đứng ngoài biến cố ấy nữa. “Lương thử việc 2 vạn một tháng, còn được cấp một chiếc Audi A6...”  “Lương tháng 2 vạn...” Hạ Thiên Kì vừa ký được hợp đồng thử việc lương cao đến mức phi lý, nhưng niềm vui ấy lập tức pha lẫn bất an khi anh bị đưa thẳng đến công việc thật sự. Không khí lạnh và khép lại, đúng với tông horror công sở, bất an mà chương này cần giữ."
+    },
+    {
+      "style_id": "signature_branch",
+      "style_name": "U ám đen hài",
+      "purpose": "Giữ chút trào phúng mỏng ở bề mặt rồi lật sang cảm giác rợn người.",
+      "rewrite": "Hạ Thiên Kì vừa ký được hợp đồng thử việc lương cao đến mức phi lý, nhưng niềm vui ấy lập tức pha lẫn bất an khi anh bị đưa thẳng đến công việc thật sự. “Lương thử việc 2 vạn một tháng, còn được cấp một chiếc Audi A6...”  “Lương tháng 2 vạn...” Niềm vui trong cảnh này vì thế không hề sáng sủa; nó giống mồi câu hơn là phần thưởng."
+    }
+  ]
+}

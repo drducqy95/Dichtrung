@@ -1,0 +1,28 @@
+{
+  "branch": "Chu Than Dai Dao_Co Nguyet Cu Si",
+  "project_name": "Chủ Thần Đại Đạo",
+  "display_title": "Chủ Thần Đại Đạo",
+  "author": "Cổ Nguyệt Cư Sĩ",
+  "genre": "eastern_fiction",
+  "sub_genre": "unlimited_flow",
+  "backdrop": "Hiện đại đô thị giao cắt với con đường thành thần và vô hạn thế giới, nơi cơ duyên siêu hình có thể xé toạc nhịp sống bình thường chỉ trong một khoảnh khắc.",
+  "summary": "Triệu Kỳ từ một người bình thường bỗng chạm vào cơ duyên vượt khỏi nhận thức, từ đó bước lên hành trình thành thần, kiến tạo thế giới và can dự vào những cục diện lớn hơn rất nhiều so với đời sống phàm tục.",
+  "notes": "Main Character: Triệu Kỳ (Zhao Qi). Goal: Grow godhood via world creation.",
+  "source_ref": {
+    "full": "Source/Source full/Chủ Thần Đại Đạo_Cổ Nguyệt Cư Sĩ.html",
+    "split": "Source/Source split/Chu Than Dai Dao_Co Nguyet Cu Si/",
+    "description": "Source nam o thu muc goc, KHONG copy vao branch"
+  },
+  "completed_chapters": 50,
+  "total_chapters": 1603,
+  "output_filename_pattern_display": "Chương {chapter:04d}: {title}.md",
+  "output_filename_pattern_filesystem": "Chương {chapter:04d} - {title}.md",
+  "output_filename_constraint_note": "Windows không cho phép ký tự ':' trong tên file, vì vậy pattern lưu trên đĩa dùng dấu gạch ngang.",
+  "style_tags": [
+    "vô hạn lưu",
+    "thành thần",
+    "đại cục",
+    "huyền ảo"
+  ],
+  "generated_at": "2026-04-17T10:42:21+07:00"
+}

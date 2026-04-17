@@ -1,0 +1,36 @@
+# Style Variants - Phi Phàm Hồng Hoang
+
+Chương mẫu: `Chương 0001: Thiên Địa Mới Mở Có Tỳ Hưu.md`
+Tags nền: hồng hoang, khai thiên, cổ phong, đại đạo
+
+## Đoạn gốc đã dịch
+
+"Ta đây là ở đâu..." La Phàm từ trạng thái mê muội hỗn hỗn độn độn dần tỉnh lại, mở ra đôi mắt nặng nề như núi, trong trí óc hiện ra ý niệm này.
+
+Ánh sáng chói mắt đâm vào đôi mắt hắn, khiến hắn không nhịn được mà nhắm lại, đợi hồi lâu, sự đau nhức giảm bớt mới từ từ mở mắt ra.
+
+## Mượt tiêu chuẩn
+
+Mục đích: Giữ nghĩa và nhịp kể tự nhiên, phù hợp làm bản chuẩn đối chiếu.
+
+"Ta đây là ở đâu..." La Phàm từ trạng thái mê muội hỗn hỗn độn độn dần tỉnh lại, mở ra đôi mắt nặng nề như núi, trong trí óc hiện ra ý niệm này.
+
+Ánh sáng chói mắt đâm vào đôi mắt hắn, khiến hắn không nhịn được mà nhắm lại, đợi hồi lâu, sự đau nhức giảm bớt mới từ từ mở mắt ra.
+
+## Điện ảnh nhịp nhanh
+
+Mục đích: Ưu tiên nhịp cắt cảnh nhanh, câu ngắn và độ bật của tình huống.
+
+"Ta đây là ở đâu..." La Phàm từ trạng thái mê muội hỗn hỗn độn độn dần tỉnh lại, mở ra đôi mắt nặng nề như núi, trong trí óc hiện ra ý niệm này. Ánh sáng chói mắt đâm vào đôi mắt hắn, khiến hắn không nhịn được mà nhắm lại, đợi hồi lâu, sự đau nhức giảm bớt mới từ từ mở mắt ra.
+
+## Sắc lạnh nội tâm
+
+Mục đích: Kéo tiêu điểm vào cảm giác bị dồn ép hoặc nhận thức lạnh đi của nhân vật.
+
+La Phàm không còn đứng ngoài biến cố ấy nữa. "Ta đây là ở đâu..." La Phàm từ trạng thái mê muội hỗn hỗn độn độn dần tỉnh lại, mở ra đôi mắt nặng nề như núi, trong trí óc hiện ra ý niệm này. Ánh sáng chói mắt đâm vào đôi mắt hắn, khiến hắn không nhịn được mà nhắm lại, đợi hồi lâu, sự đau nhức giảm bớt mới từ từ mở mắt ra. Không khí lạnh và khép lại, đúng với tông sơ khai, choáng ngợp mà chương này cần giữ.
+
+## Cổ phong khai thiên
+
+Mục đích: Tăng cảm giác huyền cổ và thiên địa sơ lập của Hồng Hoang.
+
+La Phàm tỉnh lại trong thân thể và hoàn cảnh hoàn toàn xa lạ, vừa kinh ngạc trước thiên địa hồng hoang vừa phải chịu đựng dòng ký ức và thông tin khổng lồ tràn vào đầu. "Ta đây là ở đâu..." La Phàm từ trạng thái mê muội hỗn hỗn độn độn dần tỉnh lại, mở ra đôi mắt nặng nề như núi, trong trí óc hiện ra ý niệm này. Chính vì vậy cảnh mở đầu mang hơi thở của một lần khai nhãn giữa càn khôn mới dựng.
