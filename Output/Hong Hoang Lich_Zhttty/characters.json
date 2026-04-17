@@ -28,6 +28,7 @@
             "name_target": "Vương Vũ",
             "gender": "male",
             "role": "supporting",
+            "description": "Chiến binh từ tương lai mạt thế (Siêu AI thống trị), sống vì báo thù sau khi vợ con bị robot sát hại. Cư ngụ tại Xilan - thành phố cuối cùng của nhân loại.",
             "status": "active"
         },
         {
@@ -119,7 +120,7 @@
         {
             "id": "char_014",
             "name_source": "埃尔法",
-            "name_target": "Ai Nhĩ Pháp",
+            "name_target": "Elfa",
             "gender": "male",
             "role": "supporting",
             "description": "Học đồ pháp sư Bán Tinh Linh, thành viên đầu tiên được Ngô Minh triệu hoán.",
@@ -127,20 +128,11 @@
         },
         {
             "id": "char_015",
-            "name_source": "王羽",
-            "name_target": "Vương Vũ",
-            "gender": "male",
-            "role": "supporting",
-            "description": "Chiến binh kỳ cựu ở thế giới tận thế người máy, thành viên được Ngô Minh triệu hoán.",
-            "status": "active"
-        },
-        {
-            "id": "char_016",
             "name_source": "徐文",
             "name_target": "Từ Văn",
             "gender": "male",
             "role": "supporting",
-            "description": "Thư sinh thời nhà Tấn (Vĩnh Gia chi loạn), thành viên được Ngô Minh triệu hoán.",
+            "description": "Thư sinh thời Đông Tấn (loạn Vĩnh Gia), gia tộc bị tàn sát bởi lũ 'Quốc nhân'. Thành viên được Ngô Minh triệu hoán.",
             "status": "active"
         }
     ],

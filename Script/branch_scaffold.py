@@ -564,6 +564,17 @@ def scaffold_branch(branch_dir: Path) -> None:
     write_text(branch_dir / "converter_db" / "exports" / "scene_tone_exemplars.jsonl", "\n".join(tone_lines))
 
     write_text(branch_dir / "ebook" / "toc.md", build_toc(title, records))
+    
+    toc_json_payload = [
+        {
+            "chapter_number": record["chapter_number"],
+            "title": record["title"],
+            "relative_path": record["relative_path"]
+        }
+        for record in records
+    ]
+    write_json(branch_dir / "toc.json", toc_json_payload)
+    
     assets = scan_images(branch_dir)
     write_json(
         branch_dir / "ebook" / "illustration_manifest.json",

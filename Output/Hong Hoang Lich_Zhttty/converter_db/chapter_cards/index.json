@@ -1,6 +1,6 @@
 {
   "branch": "Hong Hoang Lich_Zhttty",
-  "generated_at": "2026-04-17T10:42:21+07:00",
+  "generated_at": "2026-04-17T21:49:06+07:00",
   "chapters": [
     {
       "chapter_number": 1,
@@ -11,12 +11,28 @@
       "has_content": false
     },
     {
+      "chapter_number": 1,
+      "chapter_title": "Cao tháp",
+      "source_output_file": "output/Chương 0001 - Vĩnh Dạ：Tự chương.md",
+      "display_output_filename": "Chương 0001: Cao tháp.md",
+      "filesystem_output_filename": "Chương 0001 - Cao tháp.md",
+      "has_content": true
+    },
+    {
       "chapter_number": 2,
       "chapter_title": "Biến mất",
       "source_output_file": "output/0002 - Biến mất",
       "display_output_filename": "Chương 0002: Biến mất.md",
       "filesystem_output_filename": "Chương 0002 - Biến mất.md",
       "has_content": false
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Xuyên việt",
+      "source_output_file": "output/Chương 0002 - Xuyên việt.md",
+      "display_output_filename": "Chương 0002: Xuyên việt.md",
+      "filesystem_output_filename": "Chương 0002 - Xuyên việt.md",
+      "has_content": true
     },
     {
       "chapter_number": 3,
@@ -27,12 +43,28 @@
       "has_content": false
     },
     {
+      "chapter_number": 3,
+      "chapter_title": "Hồng Hoang!",
+      "source_output_file": "output/Chương 0003 - Hồng Hoang!.md",
+      "display_output_filename": "Chương 0003: Hồng Hoang!.md",
+      "filesystem_output_filename": "Chương 0003 - Hồng Hoang!.md",
+      "has_content": true
+    },
+    {
       "chapter_number": 4,
       "chapter_title": "Thợ săn",
       "source_output_file": "output/0004 - Thợ săn",
       "display_output_filename": "Chương 0004: Thợ săn.md",
       "filesystem_output_filename": "Chương 0004 - Thợ săn.md",
       "has_content": false
+    },
+    {
+      "chapter_number": 4,
+      "chapter_title": "Sinh tử bản sắc",
+      "source_output_file": "output/Chương 0004 - Sinh tử bản sắc.md",
+      "display_output_filename": "Chương 0004: Sinh tử bản sắc.md",
+      "filesystem_output_filename": "Chương 0004 - Sinh tử bản sắc.md",
+      "has_content": true
     },
     {
       "chapter_number": 5,
@@ -43,12 +75,28 @@
       "has_content": false
     },
     {
+      "chapter_number": 5,
+      "chapter_title": "Chủ Thần Không Gian mở ra (thượng)",
+      "source_output_file": "output/Chương 0005 - Chủ Thần Không Gian mở ra (thượng).md",
+      "display_output_filename": "Chương 0005: Chủ Thần Không Gian mở ra (thượng).md",
+      "filesystem_output_filename": "Chương 0005 - Chủ Thần Không Gian mở ra (thượng).md",
+      "has_content": true
+    },
+    {
       "chapter_number": 6,
       "chapter_title": "Triệu mộ",
       "source_output_file": "output/0006 - Triệu mộ",
       "display_output_filename": "Chương 0006: Triệu mộ.md",
       "filesystem_output_filename": "Chương 0006 - Triệu mộ.md",
       "has_content": false
+    },
+    {
+      "chapter_number": 6,
+      "chapter_title": "Chủ Thần Không Gian mở ra (hạ)",
+      "source_output_file": "output/Chương 0006 - Chủ Thần Không Gian mở ra (hạ).md",
+      "display_output_filename": "Chương 0006: Chủ Thần Không Gian mở ra (hạ).md",
+      "filesystem_output_filename": "Chương 0006 - Chủ Thần Không Gian mở ra (hạ).md",
+      "has_content": true
     },
     {
       "chapter_number": 7,
@@ -59,12 +107,28 @@
       "has_content": false
     },
     {
+      "chapter_number": 7,
+      "chapter_title": "Chủ Thần?",
+      "source_output_file": "output/Chương 0007 - Chủ Thần.md",
+      "display_output_filename": "Chương 0007: Chủ Thần?.md",
+      "filesystem_output_filename": "Chương 0007 - Chủ Thần.md",
+      "has_content": true
+    },
+    {
       "chapter_number": 8,
       "chapter_title": "Quy tắc",
       "source_output_file": "output/0008 - Quy tắc",
       "display_output_filename": "Chương 0008: Quy tắc.md",
       "filesystem_output_filename": "Chương 0008 - Quy tắc.md",
       "has_content": false
+    },
+    {
+      "chapter_number": 8,
+      "chapter_title": "Sơ đại Chủ Thần không gian",
+      "source_output_file": "output/Chương 0008 - Sơ đại Chủ Thần không gian.md",
+      "display_output_filename": "Chương 0008: Sơ đại Chủ Thần không gian.md",
+      "filesystem_output_filename": "Chương 0008 - Sơ đại Chủ Thần không gian.md",
+      "has_content": true
     },
     {
       "chapter_number": 9,
@@ -75,11 +139,27 @@
       "has_content": false
     },
     {
+      "chapter_number": 9,
+      "chapter_title": "Đổi thưởng",
+      "source_output_file": "output/Chương 0009 - Đổi thưởng.md",
+      "display_output_filename": "Chương 0009: Đổi thưởng.md",
+      "filesystem_output_filename": "Chương 0009 - Đổi thưởng.md",
+      "has_content": true
+    },
+    {
       "chapter_number": 10,
       "chapter_title": "Tư chất và Trúc cơ",
       "source_output_file": "output/0010 - Tư chất và Trúc cơ.md",
       "display_output_filename": "Chương 0010: Tư chất và Trúc cơ.md",
       "filesystem_output_filename": "Chương 0010 - Tư chất và Trúc cơ.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 10,
+      "chapter_title": "Tuyển chọn",
+      "source_output_file": "output/Chương 0010 - Tuyển chọn.md",
+      "display_output_filename": "Chương 0010: Tuyển chọn.md",
+      "filesystem_output_filename": "Chương 0010 - Tuyển chọn.md",
       "has_content": true
     }
   ]
