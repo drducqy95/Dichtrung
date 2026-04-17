@@ -17,6 +17,9 @@ Output/**/all_global_errors.jsonl
 Output/**/project_progress.json
 Output/**/*_temp.md
 
+# Generated split source stays local only
+Source/Source split/
+
 # Python cache
 __pycache__/
 *.pyc
