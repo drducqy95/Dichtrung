@@ -1,10 +1,110 @@
 {
   "total_chapters": 1836,
-  "completed_chapters": 10,
-  "current_chapter": 10,
+  "completed_chapters": 44,
+  "current_chapter": 44,
   "status": "in_progress",
-  "last_updated": "2026-04-17T21:50:40+07:00",
+  "last_updated": "2026-04-18T20:51:25+07:00",
   "chapters": [
+    {
+      "chapter": 11,
+      "title": "Vết tích",
+      "status": "done"
+    },
+    {
+      "chapter": 12,
+      "title": "Dị tộc",
+      "status": "done"
+    },
+    {
+      "chapter": 13,
+      "title": "Sát ý dâng trào",
+      "status": "done"
+    },
+    {
+      "chapter": 14,
+      "title": "Tuyệt sát",
+      "status": "done"
+    },
+    {
+      "chapter": 15,
+      "title": "Hậu quả và tái tiến nhập",
+      "status": "done"
+    },
+    {
+      "chapter": 16,
+      "title": "Không gian thử luyện",
+      "status": "done"
+    },
+    {
+      "chapter": 17,
+      "title": "Thập tam",
+      "status": "done"
+    },
+    {
+      "chapter": 18,
+      "title": "Hồi quy",
+      "status": "done"
+    },
+    {
+      "chapter": 19,
+      "title": "Các tự giới diện (Thượng)",
+      "status": "done"
+    },
+    {
+      "chapter": 20,
+      "title": "Các tự giới diện (Hạ)",
+      "status": "done"
+    },
+    {
+      "chapter": 21,
+      "title": "Ý tưởng tiềm nhập và ngựa",
+      "status": "done"
+    },
+    {
+      "chapter": 22,
+      "title": "Bất tử tộc",
+      "status": "done"
+    },
+    {
+      "chapter": 23,
+      "title": "Thương nghiệp liên minh và dã tâm",
+      "status": "done"
+    },
+    {
+      "chapter": 24,
+      "title": "Không Môn",
+      "status": "done"
+    },
+    {
+      "chapter": 25,
+      "title": "Thử luyện gian nan",
+      "status": "done"
+    },
+    {
+      "chapter": 26,
+      "title": "Tân phát hiện",
+      "status": "done"
+    },
+    {
+      "chapter": 27,
+      "title": "Sơ cấp quyền hạn",
+      "status": "done"
+    },
+    {
+      "chapter": 28,
+      "title": "U hồn hóa",
+      "status": "done"
+    },
+    {
+      "chapter": 29,
+      "title": "Ngã nguyện nhập địa ngục",
+      "status": "done"
+    },
+    {
+      "chapter": 30,
+      "title": "Đại hữu khả vi",
+      "status": "done"
+    },
     {
       "chapter": 1,
       "title": "Vĩnh Dạ: Tự chương",
@@ -54,14 +154,44 @@
       "chapter": 10,
       "title": "Tư chất và Trúc cơ",
       "status": "done"
+    },
+    {
+      "chapter": 45,
+      "title": "Hợp thành Thánh vị",
+      "status": "done"
+    },
+    {
+      "chapter": 46,
+      "title": "Triệu hoán",
+      "status": "done"
+    },
+    {
+      "chapter": 47,
+      "title": "Tín nhiệm",
+      "status": "done"
+    },
+    {
+      "chapter": 48,
+      "title": "Ngươi có ước mơ gì không?",
+      "status": "done"
+    },
+    {
+      "chapter": 49,
+      "title": "Phóng đãng tu luyện",
+      "status": "done"
+    },
+    {
+      "chapter": 50,
+      "title": "Trung Ương Mậu Thổ Hậu Đức Quyết",
+      "status": "done"
     }
   ],
   "meta": {
-    "last_updated": "2026-04-17T08:50:10+07:00",
-    "current_phase": "Completion"
+    "last_updated": "2026-04-18T20:51:19.926340",
+    "current_phase": "Sanitization/Audit"
   },
   "project_name": "Hong Hoang Lich",
-  "last_processed_chapter": 10,
+  "last_processed_chapter": 45,
   "output_dir": "Output/Hong Hoang Lich_Zhttty/output/",
   "workflow_artifacts": {
     "branch_readme": "README.md",

@@ -6,7 +6,7 @@ Bọn họ là Luân hồi giả, vậy anh rốt cuộc là cái gì?
 
 Bây giờ anh rõ ràng không có nhục thân, cũng không phải hóa thân thành Chủ Thần này, mà là đang đứng phía trên Chủ Thần. Tình huống này anh đọc sạch bách các loại tiểu thuyết cũng chưa từng thấy bao giờ.
 
-Những tiểu thuyết Vô hạn lưu đó, dòng chính thống thì viết về Luân hồi giả; dòng phá cách hơn một chút thì viết về thổ著 ở các thế giới Luân hồi; phá cách hơn nữa thì viết về việc bản thân biến thành Chủ Thần. Còn việc đứng trên đầu Chủ Thần thì có nghĩa là gì? Ngô Minh nhất thời cảm thấy não bộ của mình có chút không đủ dùng.
+Những tiểu thuyết Vô hạn lưu đó, dòng chính thống thì viết về Luân hồi giả; dòng phá cách hơn một chút thì viết về thổ trước (indigenous) ở các thế giới Luân hồi; phá cách hơn nữa thì viết về việc bản thân biến thành Chủ Thần. Còn việc đứng trên đầu Chủ Thần thì có nghĩa là gì? Ngô Minh nhất thời cảm thấy não bộ của mình có chút không đủ dùng.
 
 Đúng lúc này, trong não bộ Ngô Minh bỗng nhiên xuất hiện một lượng lớn thông tin, khiến đầu óc anh đau nhức một hồi, mất ít nhất vài giây sau mới miễn cưỡng chịu đựng được.
 

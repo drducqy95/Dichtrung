@@ -10,3 +10,43 @@
 - Chương 0008: Sơ đại Chủ Thần không gian
 - Chương 0009: Đổi thưởng
 - Chương 0010: Tuyển chọn
+- Chương 0011: Vết tích
+- Chương 0012: Dị tộc
+- Chương 0013: Sát ý dâng trào
+- Chương 0014: Tuyệt sát
+- Chương 0015: Hậu quả và tái tiến nhập
+- Chương 0016: Không gian thử luyện
+- Chương 0017: Thập tam
+- Chương 0018: Hồi quy
+- Chương 0019: Các tự giới diện (Thượng)
+- Chương 0020: Các tự giới diện (Hạ)
+- Chương 0021: Ý tưởng tiềm nhập và ngựa
+- Chương 0022: Bất tử tộc
+- Chương 0023: Liên Minh Thương Nghiệp và dã tâm
+- Chương 0024: Không Môn
+- Chương 0025: Thử luyện gian nan
+- Chương 0026: Tân phát hiện
+- Chương 0027: Sơ cấp quyền hạn
+- Chương 0028: U hồn hóa
+- Chương 0029: Ngã nguyện nhập địa ngục
+- Chương 0030: Đại hữu khả vi
+- Chương 0031: Phỏng vấn
+- Chương 0032: Học đồ ma pháp
+- Chương 0033: Phân tích ấn ký
+- Chương 0034: Đền đáp và thuê nhà
+- Chương 0035: Sách vở
+- Chương 0036: Phản bội và bệnh viện
+- Chương 0037: Giải tích và phục hoạt
+- Chương 0038: Đổi thưởng và quyết tâm
+- Chương 0039: Chế tạo và đổi thưởng
+- Chương 0040: U hồn tàn bạo
+- Chương 0041: Phản pông-tư
+- Chương 0042: Nguồn gốc của Thiên đạo quyến thuộc trị
+- Chương 0043: Chuẩn bị
+- Chương 0044: Nhất giai dữ mạo hiểm
+- Chương 0045: Hợp thành Thánh vị
+- Chương 0046: Triệu hoán
+- Chương 0047: Tín nhiệm
+- Chương 0048: Ngươi có ước mơ gì không?
+- Chương 0049: Phóng đãng tu luyện
+- Chương 0050: Trung Ương Mậu Thổ Hậu Đức Quyết

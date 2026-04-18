@@ -6,133 +6,157 @@
             "name_target": "Ngô Minh",
             "gender": "male",
             "role": "protagonist",
-            "description": "Nhân vật chính của truyện.",
+            "description": "Nhân vật chính của truyện, xuyên không từ Trái Đất tới thời đại Hồng Hoang. Sở hữu Chủ Thần Không Gian đời đầu.",
             "traits": [
                 "Tu chân giả",
-                "Phù văn"
+                "Mưu lược gia",
+                "Thiên Mệnh Chi Tử"
             ],
             "status": "active"
         },
         {
             "id": "char_002",
-            "name_source": "阿莫尔",
-            "name_target": "Amor",
-            "gender": "male",
+            "name_source": "洛丝",
+            "name_target": "Los",
+            "gender": "female",
             "role": "major",
-            "description": "Thân phận bí ẩn, có liên quan đến các yếu tố phương Tây/Arcane.",
+            "description": "Một Ác ma Thâm Uyên được Ngô Minh cứu và ký khế ước. Sau tiến hóa thành Luyện Ngục Nữ Yêu.",
             "status": "active"
         },
         {
             "id": "char_003",
-            "name_source": "王羽",
-            "name_target": "Vương Vũ",
-            "gender": "male",
-            "role": "supporting",
-            "description": "Chiến binh từ tương lai mạt thế (Siêu AI thống trị), sống vì báo thù sau khi vợ con bị robot sát hại. Cư ngụ tại Xilan - thành phố cuối cùng của nhân loại.",
-            "status": "active"
-        },
-        {
-            "id": "char_004",
-            "name_source": "洛丝",
-            "name_target": "Rose",
-            "gender": "female",
-            "role": "supporting",
-            "status": "active"
-        },
-        {
-            "id": "char_005",
-            "name_source": "子牙",
-            "name_target": "Tử Nha",
-            "gender": "male",
-            "role": "key_figure",
-            "description": "Khương Tử Nha, một nhân vật quan trọng trong Hồng Hoang.",
-            "status": "active"
-        },
-        {
-            "id": "char_006",
-            "name_source": "艾伊",
-            "name_target": "Ai Yi",
-            "gender": "female",
-            "role": "major",
-            "description": "Nhân vật nữ chính/quan trọng, bối cảnh phương Tây.",
-            "status": "active"
-        },
-        {
-            "id": "char_007",
-            "name_source": "杨烈",
-            "name_target": "Dương Liệt",
-            "gender": "male",
-            "role": "major",
-            "status": "active"
-        },
-        {
-            "id": "char_008",
-            "name_source": "维塔",
-            "name_target": "Veta",
-            "gender": "female",
-            "role": "supporting",
-            "status": "active"
-        },
-        {
-            "id": "char_009",
-            "name_source": "张好焕",
-            "name_target": "Trương Hảo Hoán",
-            "gender": "male",
-            "role": "major",
-            "status": "active"
-        },
-        {
-            "id": "char_010",
-            "name_source": "郑吒",
-            "name_target": "Trịnh Xá",
-            "gender": "male",
-            "role": "crossover",
-            "description": "Nhân vật chính từ Vô Hạn Khủng Bố.",
-            "status": "active"
-        },
-        {
-            "id": "char_011",
-            "name_source": "楚轩",
-            "name_target": "Sở Hiên",
-            "gender": "male",
-            "role": "crossover",
-            "description": "Nhân vật từ Vô Hạn Khủng Bố.",
-            "status": "active"
-        },
-        {
-            "id": "char_012",
-            "name_source": "李铭",
-            "name_target": "Lý Minh",
-            "gender": "male",
-            "role": "major",
-            "description": "Thanh niên trẻ tuổi, sinh viên Đại học Thái Thanh, có tư chất Thời Không.",
-            "status": "active"
-        },
-        {
-            "id": "char_013",
-            "name_source": "导师",
-            "name_target": "Đạo sư",
-            "gender": "male",
-            "role": "supporting",
-            "description": "Người dẫn dắt Lý Minh đến Cao tháp Ghi chép.",
-            "status": "active"
-        },
-        {
-            "id": "char_014",
             "name_source": "埃尔法",
             "name_target": "Elfa",
             "gender": "male",
             "role": "supporting",
-            "description": "Học đồ pháp sư Bán Tinh Linh, thành viên đầu tiên được Ngô Minh triệu hoán.",
+            "description": "Học đồ pháp sư Bán Tinh Linh, thành viên đầu tiên được Ngô Minh triệu hoán vào Chủ Thần không gian.",
             "status": "active"
         },
         {
-            "id": "char_015",
+            "id": "char_004",
             "name_source": "徐文",
             "name_target": "Từ Văn",
             "gender": "male",
             "role": "supporting",
-            "description": "Thư sinh thời Đông Tấn (loạn Vĩnh Gia), gia tộc bị tàn sát bởi lũ 'Quốc nhân'. Thành viên được Ngô Minh triệu hoán.",
+            "description": "Thư sinh thời Đông Tấn, thành viên được Ngô Minh triệu hoán. Hy sinh tại thử luyện Bệnh viện Tuyệt cảnh.",
+            "status": "deceased"
+        },
+        {
+            "id": "char_005",
+            "name_source": "艾伊",
+            "name_target": "Ai Yi",
+            "gender": "female",
+            "role": "major",
+            "description": "Nữ pháp sư tộc Tinh Linh, có kiến thức uyên thâm về phù văn và ma pháp. Thành viên quan trọng của đội Ngô Minh.",
+            "status": "active"
+        },
+        {
+            "id": "char_006",
+            "name_source": "李铭",
+            "name_target": "Lý Minh",
+            "gender": "male",
+            "role": "key_figure",
+            "description": "Ghi chép viên của 'Lịch Sử Chân Thực'. Tình nguyện quay về thời Hồng Hoang để cứu rỗi nhân loại. Có liên kết với Tru Tiên Tứ Kiếm.",
+            "status": "active"
+        },
+        {
+            "id": "char_007",
+            "name_source": "艾比斯",
+            "name_target": "Ebis",
+            "gender": "male",
+            "identity": "Gnome (Địa tinh)",
+            "role": "Học đồ của Lorikk Mắt Vàng, đồng nghiệp của Ngô Minh tại tiệm dược phẩm. Tính tình thực dụng.",
+            "status": "active"
+        },
+        {
+            "id": "char_008",
+            "name_source": "伊比斯",
+            "name_target": "Ibis",
+            "gender": "male",
+            "identity": "Gnome (Địa tinh)",
+            "role": "Gã lùn lắm lời, họ hàng của Ebis, chủ một cửa hàng dược phẩm. Cung cấp nhiều tin đồn cho Ngô Minh.",
+            "status": "active"
+        },
+        {
+            "id": "char_009",
+            "name_source": "洛里克·金眼",
+            "name_target": "Lorikk Mắt Vàng",
+            "gender": "male",
+            "role": "supporting",
+            "identity": "Pháp sư 5 vòng (5th Ring Mage)",
+            "description": "Chủ nhân của Tòa tháp Pháp sư tại thành Kim Hà, đạo sư của Ebis và Ngô Minh.",
+            "status": "active"
+        },
+        {
+            "id": "char_010",
+            "name_source": "阿莫尔",
+            "name_target": "Amor",
+            "gender": "male",
+            "role": "major",
+            "description": "Trí giả đỉnh cao, thân phận bí ẩn, hỗ trợ Ngô Minh trong các kế hoạch lớn.",
+            "status": "active"
+        },
+        {
+            "id": "char_011",
+            "name_source": "池查",
+            "name_target": "Trì Tra",
+            "gender": "male",
+            "role": "ancient_hero",
+            "description": "Sát lục chi tử, một trong 13 người sống sót cuối cùng của nhân loại thời cổ đại. Sức mạnh thể chất kinh hồn.",
+            "status": "active"
+        },
+        {
+            "id": "char_012",
+            "name_source": "舍干",
+            "name_target": "Xa Can",
+            "gender": "male",
+            "role": "ancient_hero",
+            "description": "Trí giả thời cổ đại, người nhìn thấu âm mưu ngàn đời nhắm vào nhân loại.",
+            "status": "active"
+        },
+        {
+            "id": "char_013",
+            "name_source": "骨",
+            "name_target": "Cốt",
+            "gender": "male",
+            "role": "ancient_hero",
+            "description": "Người của 'Khứ Tử Khứ Tử Đoàn', cơ thể được cải tạo bởi công nghệ Địa Linh tộc.",
+            "status": "active"
+        },
+        {
+            "id": "char_014",
+            "name_source": "薛玉",
+            "name_target": "Tiết Ngọc",
+            "gender": "female",
+            "role": "reincarnator",
+            "description": "Học trò cũ của Ngô Minh ở Trái Đất, thành viên tiểu đội Luân hồi.",
+            "status": "active"
+        },
+        {
+            "id": "char_015",
+            "name_source": "马大哈",
+            "name_target": "Mã Đại Cáp",
+            "gender": "male",
+            "role": "reincarnator",
+            "description": "Thành viên tiểu đội Luân hồi, tính cách hào sảng, võ lực khá.",
+            "status": "active"
+        },
+        {
+            "id": "char_016",
+            "name_source": "郑吒",
+            "name_target": "Trịnh Xá",
+            "gender": "male",
+            "role": "legend",
+            "description": "Bậc thầy Khóa Gen, nhân vật huyền thoại từ Vô Hạn Khủng Bố.",
+            "status": "active"
+        },
+        {
+            "id": "char_017",
+            "name_source": "楚轩",
+            "name_target": "Sở Hiên",
+            "gender": "male",
+            "role": "legend",
+            "description": "Trí giả tối cao, nhân vật huyền thoại từ Vô Hạn Khủng Bố.",
             "status": "active"
         }
     ],

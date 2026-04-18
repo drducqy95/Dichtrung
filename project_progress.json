@@ -103,9 +103,9 @@
     {
       "id": "M8",
       "title": "Vbook Extension Dichtrung",
-      "status": "PENDING",
+      "status": "IN_PROGRESS",
       "tasks": [
-        {"id": "T8.1", "desc": "Phase 01 - Cập nhật Dichtrung Workflow (toc.json)", "status": "PENDING"},
+        {"id": "T8.1", "desc": "Phase 01 - Cập nhật Dichtrung Workflow (toc.json)", "status": "DONE"},
         {"id": "T8.2", "desc": "Phase 02 - Khởi tạo Vbook Extension Project", "status": "PENDING"},
         {"id": "T8.3", "desc": "Phase 03 - Xây dựng JS Handlers (home, detail, toc, chap)", "status": "PENDING"},
         {"id": "T8.4", "desc": "Phase 04 - Testing và Export Plugin Vbook", "status": "PENDING"}

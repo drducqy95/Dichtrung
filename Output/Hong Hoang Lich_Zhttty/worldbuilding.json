@@ -7,13 +7,16 @@
             "name": "Tu Chân Hệ Thống",
             "levels": [
                 "Trúc Cơ",
-                "Kim Đan"
+                "Kim Đan",
+                "Nguyên Anh",
+                "Phát sáng (Tâm linh chi quang)",
+                "Thánh vị (Tiên nhân/Thánh nhân)"
             ],
             "energy_source": "Chân Nguyên Lực"
         },
         {
-            "name": "Áo Thuật Hệ Thống",
-            "description": "Sử dụng Phù văn và Áo thuật sư."
+            "name": "Hệ Thống Áo Thuật",
+            "description": "Sử dụng Phù Văn và Áo Thuật Sư."
         }
     ],
     "cultivation_resources": [
@@ -24,6 +27,151 @@
         {
             "name": "Linh Bảo",
             "type": "artifact"
+        },
+        {
+            "term": "Liên Minh Thương Nghiệp",
+            "category": "Location",
+            "description": "Một vùng lãnh thổ của Vạn Tộc Hồng Hoang, có trình độ phát triển cao với kiến trúc đô thị giống thế kỷ 21, đèn đường và hệ thống giao thông sầm uất. Đây là nơi Ngô Minh thâm nhập để tìm kiếm danh tính pháp lý và cơ hội thăng tiến.",
+            "notable_features": [
+                "Kiến trúc hiện đại",
+                "Đa chủng tộc chung sống (Xác ướp, U hồn...)",
+                "Hệ thống luật pháp và thương mại phát triển",
+                "Tháp Pháp Sư: Trung tâm năng lượng và tri thức của thành phố"
+            ]
+        },
+        {
+            "term": "Lịch Sử Chân Thực",
+            "category": "Organization",
+            "description": "Một tổ chức bao gồm các học giả và thánh nhân đứng ngoài thời gian và không gian, có nhiệm vụ ghi chép và bảo vệ sự chân thực của lịch sử nhân loại trước những sự can thiệp và thay đổi từ các thực thể siêu cấp.",
+            "goals": [
+                "Ghi lại lịch sử chân thực",
+                "Giảm thiểu sự thay đổi quá khứ",
+                "Bảo vệ tồn vong của nhân loại trên dòng thời gian"
+            ]
+        },
+        {
+            "term": "Kế hoạch Vĩnh Dạ",
+            "category": "Event/Concept",
+            "description": "Một kế hoạch bí ẩn và quy mô lớn do Lý Minh khởi xướng nhằm tạo ra một vùng mù (Vĩnh Dạ) khiến các thực thể mạnh nhất không thể quan sát hay can thiệp, từ đó tạo cơ hội thay đổi vận mệnh nhân loại.",
+            "key_actors": [
+                "Lý Minh",
+                "Tổ chức Thật sự lịch sử"
+            ]
+        },
+        {
+            "term": "Tộc Logic",
+            "category": "Race",
+            "description": "Tộc đứng hạng 3 trong Hồng Hoang Vạn Tộc. Mỗi thành viên đều sở hữu song thiên phú logic và phân tích, cho phép họ thấu hiểu và sắp xếp mọi mối liên hệ của vạn vật."
+        },
+        {
+            "term": "Mệnh Vận Hành Khế",
+            "category": "Concept",
+            "description": "Loại khế ước pháp lý và ma pháp cấp cao nhất, được giám sát và bảo vệ bởi dòng Trường hà mệnh vận. Vi phạm khế ước sẽ dẫn đến hậu quả nghiêm trọng về linh hồn."
+        },
+        {
+            "term": "Thánh Vị",
+            "category": "Status",
+            "description": "Thứ bậc cao nhất trong Hồng Hoang Vạn Tộc, tương đương với thần linh hóa thân thành tinh tú. Chủng tộc có Thánh vị mới được coi là Bản Tộc (Main Tribes)."
+        },
+        {
+            "term": "Dấu Ấn Thiên Đạo",
+            "category": "Concept",
+            "description": "Ấn ký của Thiên Đạo lên Nhân loại, coi họ là nô lệ và súc vật. Dấu ấn này khiến con người không thể tu hành và dễ dàng bị phát hiện/trừng phạt bởi các tồn tại siêu phàm."
+        },
+        {
+            "term": "Cửu Cung Chi Số",
+            "category": "Cultivation",
+            "description": "Con đường tu chân chính thống thông qua việc tích lũy và phân tích vô hạn phù văn để thấu hiểu đa nguyên vũ trụ."
+        },
+        {
+            "term": "Nghịch Túc Hoàn Hỗn",
+            "category": "Cultivation",
+            "description": "Con đường tu chân cấp cao nhằm truy tìm nguồn gốc Hỗn Độn thông qua việc nghiên cứu Tiên Thiên Linh Bảo."
+        },
+        {
+            "term": "Bệnh Viện Tuyệt Cảnh",
+            "category": "Trial",
+            "description": "Thế giới thử luyện mới của nhóm Luân Hồi, dựa trên một truyền thuyết về bệnh viện ma ám. Nơi chứng kiến sự hy sinh của Từ Văn."
+        },
+        {
+            "term": "Phân cấp Khí cụ Tu chân",
+            "category": "Cultivation",
+            "description": "Siêu phàm khí cụ (Luyện Khí) -> Pháp khí (Trúc Cơ) -> Linh khí (Kim Đan) -> Bảo khí (Nguyên Anh) -> Linh bảo (Nguyên Thần)."
+        },
+        {
+            "term": "Phù Văn Diễn Sinh",
+            "category": "Cultivation",
+            "description": "Gồm 2,097,152 phù văn cấp hai, diễn sinh từ 8 phù văn cốt lõi, đại diện cho sự chi tiết hóa của vạn vật."
+        },
+        {
+            "term": "Tâm Linh Chi Quang",
+            "category": "Cultivation",
+            "description": "Dấu hiệu của bậc 4 trung cấp. Giúp sinh mệnh chuyển từ entropy tăng sang entropy giảm, là sự biến đổi bản chất lần 1."
+        },
+        {
+            "term": "Thánh Vị",
+            "category": "Cultivation",
+            "description": "Sự biến đổi bản chất lần 2. Bất tử bất diệt, có thể nắm giữ tinh tú. Gồm Tiên nhân (Tu chân) và Thánh nhân (Gen lock)."
+        },
+        {
+            "term": "Địa Linh Tộc",
+            "category": "Race",
+            "description": "Tộc chuyên về công nghệ, từng chế tạo 3 siêu vũ khí: Cự Thần Binh, Thiên Không Long, Dực Thần Long tích hợp Tiên Thiên Linh Bảo để đấu với Thánh vị."
+        },
+        {
+            "term": "Thế Lực Đông Thiên",
+            "category": "Lore",
+            "description": "Thế lực của Đông Hoàng Thái Nhất và Thiên Đế Đế Tuấn, trấn áp Hồng Hoang vạn vạn năm."
+        },
+        {
+            "term": "Yêu Nữ Luyện Ngục",
+            "category": "Lore",
+            "description": "Cấp bậc Cao đẳng Ác ma của Los sau khi tiến hóa, có khả năng kháng cự sự ăn mòn của Thâm Uyên."
+        },
+        {
+            "term": "Thiên Mệnh Chi Tử",
+            "category": "Lore",
+            "description": "Danh hiệu Chủ Thần dành cho Ngô Minh, biểu thị vận mệnh to lớn ảnh hưởng đến đa nguyên vũ trụ."
+        },
+        {
+            "term": "Hợp Thành Thánh Vị",
+            "category": "Lore",
+            "description": "Thành tựu cấm kỵ của Địa linh tộc, cho phép tạo ra quyền năng tương đương Thánh vị bằng con đường kỹ thuật/phù văn."
+        },
+        {
+            "term": "Bất Tử Quy Vân",
+            "category": "Spell",
+            "description": "Ma pháp diện rộng làm tan rã vật chất thành bụi phấn, tiệm cận bậc cao, vốn là kỹ năng của Luyện Ngục Nữ Yêu."
+        },
+        {
+            "term": "Điểm Thiên Đạo Quyến Thuộc",
+            "category": "System",
+            "description": "Điểm số nhận được khi giết các sinh vật có khí vận hoặc sức mạnh lớn, dùng để bỏ qua giới hạn tư chất hoặc che giấu hành tung khỏi Thiên đạo."
+        },
+        {
+            "term": "Nhân Hoàng",
+            "category": "Lore",
+            "description": "Danh hiệu của tồn tại thống trị đa vũ trụ, người sáng tạo ra Kỷ nhân loại hiện nay. Được coi là tổ sư của Tứ tượng, Ngũ hành, Bát quái."
+        },
+        {
+            "term": "Luyện Khí Đại Viên Mãn",
+            "category": "Cultivation",
+            "description": "Trạng thái đỉnh phong của cấp độ Luyện khí, khí hải đan điền đầy tràn, sẵn sàng tràn lên thức hải để Trúc Cơ."
+        },
+        {
+            "term": "Trúc Cơ",
+            "category": "Cultivation",
+            "description": "Giai đoạn thứ hai của tu luyện, chuyển hóa chân lực thành chân nguyên lực trong thức hải, tăng cường tính toán và logic."
+        },
+        {
+            "term": "Trung Ương Mậu Thổ Hậu Đức Quyết",
+            "category": "Cultivation",
+            "description": "Bộ công pháp tu chân tuyệt thế có 3 tiền tố đặc biệt, mang lại khả năng giải tích và chân nguyên lực cực mạnh, giá 3000 DP."
+        },
+        {
+            "term": "Tam Thanh Đạo Quyết",
+            "category": "Cultivation",
+            "description": "Nhóm công pháp tu chân chính thống hàng đầu (Thái Thanh, Ngọc Thanh, Thượng Thanh), mỗi bộ đi kèm 1 phù văn hạt nhân."
         }
     ],
     "power_ranking": {

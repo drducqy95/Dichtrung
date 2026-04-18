@@ -12,7 +12,7 @@ Dẫu không có những ghi chép chi tiết, chỉ là vài ba dòng ngắn ng
 
 Thế nhưng điều này quá khó, quá khó.
 
-Từ trên mạng, Ngô Minh biết được báo cáo số liệu dân số của chính phủ Hồng Hoang Thiên Đình: Năm đó dân số là bảy nghìn một trăm sáu mươi tám triệu triệu (triệu triệu - 兆)... Đây là một khái niệm gì? Không phải vạn, không phải ức, mà là đơn vị "triệu triệu" (兆), hơn nữa còn là bảy nghìn một trăm sáu mươi tám triệu triệu người!
+Từ trên mạng, Ngô Minh biết được báo cáo số liệu dân số của chính phủ Hồng Hoang Thiên Đình: Năm đó dân số là bảy nghìn một trăm sáu mươi tám triệu triệu... Đây là một khái niệm gì? Không phải vạn, không phải ức, mà là đơn vị "triệu triệu", hơn nữa còn là bảy nghìn một trăm sáu mươi tám triệu triệu người!
 
 Với lượng dân số khổng lồ như vậy, cộng thêm sự duy trì suốt hàng vạn năm, giữa một biển dữ liệu khổng lồ đó, số lượng Thánh nhân của chính phủ Hồng Hoang Thiên Đình ước tính cũng chỉ có trên dưới một vạn, thậm chí có thể còn chưa tới. Bởi vì số lượng cụ thể Ngô Minh không biết, trên mạng cũng không có dữ liệu chi tiết. Sở dĩ anh đoán là có một vạn Thánh nhân là vì số ghế nghị viên của chúng nghị viện Hồng Hoang Thiên Đình là một vạn tám nghìn lẻ mấy ghế. Ngô Minh không biết tất cả các nghị viên đó có phải là Thánh nhân hay không, chỉ là trên mạng có lưu truyền một chuyện là khoảng hai trăm năm trước có một người thành Thánh, người nọ lập tức trở thành nghị viên của chúng nghị viện. Cho nên Ngô Minh cứ tạm coi là vậy đi, cũng chỉ có hơn một vạn Thánh nhân mà thôi.
 

@@ -13,7 +13,7 @@
     "split": "Source/Source split/Hong Hoang Lich_Zhttty/",
     "description": "Source nam o thu muc goc, KHONG copy vao branch"
   },
-  "completed_chapters": 10,
+  "completed_chapters": 44,
   "total_chapters": 1836,
   "output_filename_pattern_display": "Chương {chapter:04d}: {title}.md",
   "output_filename_pattern_filesystem": "Chương {chapter:04d} - {title}.md",
@@ -24,5 +24,5 @@
     "sinh tồn",
     "đa văn minh"
   ],
-  "generated_at": "2026-04-17T21:50:40+07:00"
+  "generated_at": "2026-04-18T20:51:25+07:00"
 }

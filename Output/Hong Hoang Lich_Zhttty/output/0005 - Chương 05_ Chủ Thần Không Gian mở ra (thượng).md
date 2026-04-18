@@ -2,13 +2,13 @@
 
 Ngô Minh từng học qua Thượng Thanh Chiến Quyền, đây là một trong những loại Thượng Thanh võ đạo. Tuy chỉ là cấp bậc thấp nhất của Thượng Thanh võ đạo, nhưng dẫu sao nó cũng là võ đạo chính thống, mang tính chất trung chính bình hòa nhất. Kiên trì nghiền ngẫm lâu dài, chỉ cần không phải là kẻ quá đỗi ngu đần thì về cơ bản đều có thể bộc phát ra nội lực. Dĩ nhiên nếu ở thế giới vô ma thì là không thể, nhưng ít nhất cũng có thể cường thân kiện thể.
 
-Nội lực cũng là một trong những loại sức mạnh siêu phàm của nhân loại trên Đại lục Hồng Hoang, chỉ có điều giới hạn quá thấp. Dẫu có đạt tới nội lực – tức là cảnh giới Tiên thiên đại tông sư – thì so sánh ra cũng chỉ thuộc về tầng thứ Trúc cơ của Tu chân, ở Đại lục Hồng Hoang thực sự chẳng đáng là bao.
+Nội lực cũng là một trong những loại sức mạnh siêu phàm của nhân loại trên Đại lục Hồng Hoang, chỉ có điều giới hạn quá thấp. Dẫu có đạt tới nội lực – tức là cảnh giới Tiên thiên đại tông sư – thì so sánh ra cũng chỉ thuộc về tầng thứ Trúc Cơ của Tu chân, ở Đại lục Hồng Hoang thực sự chẳng đáng là bao.
 
 Có điều, trong ba loại võ đạo chủ lưu của Đại lục Hồng Hoang: Thái Thanh võ đạo có tính dưỡng sinh mạnh nhất, giỏi về tăng tiến thọ nguyên; Ngọc Thanh võ đạo luyện tâm mạnh nhất, thích hợp nhất để bình định tâm ma và lo âu; còn Thượng Thanh võ đạo tuy cũng là võ đạo chủ lưu, nhưng trong đó lại ẩn chứa một tia sát phạt chân ý, người hiểu chuyện nhìn vào đều phải kinh tâm.
 
 Ngô Minh cũng không biết tại sao nguyên thân của hắn lúc đầu lại chọn Thượng Thanh võ đạo. Thông thường các thí sinh Cao khảo đều sẽ chọn Ngọc Thanh võ đạo để xoa dịu nỗi lo âu trong lòng, người già và người trưởng thành mới chọn Thái Thanh võ đạo, còn Thượng Thanh võ đạo ngoại trừ một ít quân nhân ra thì nhìn chung thị trường ở Đại lục Hồng Hoang không lớn.
 
-Nhưng cũng chính nhờ Thượng Thanh võ đạo này mà hiện tại dẫu đã mất đi Chân lực và Gien Tỏa, khả năng khống chế cơ thể của hắn vẫn rất thành thạo. Đặc biệt là trong trạng thái điềm tĩnh đến mức lãnh khốc hiện tại, khoảnh khắc phóng từ ngọn cây xuống, ngọn mộc mâu trong tay hắn đã nhắm chuẩn xác vào vết thương trên hộp sọ của con sói khổng lồ.
+Nhưng cũng chính nhờ Thượng Thanh võ đạo này mà hiện tại dẫu đã mất đi Chân lực và Khóa Gen, khả năng khống chế cơ thể của hắn vẫn rất thành thạo. Đặc biệt là trong trạng thái điềm tĩnh đến mức lãnh khốc hiện tại, khoảnh khắc phóng từ ngọn cây xuống, ngọn mộc mâu trong tay hắn đã nhắm chuẩn xác vào vết thương trên hộp sọ của con sói khổng lồ.
 
 Cú phóng mình này diễn ra không một chút dấu hiệu báo trước, mà con sói khổng lồ lại vừa vặn đứng trong ánh lửa, một sáng một tối, cộng thêm bản thân nó đang mang thương tích, lại thêm tính bất ngờ và sự phản kích của kẻ yếu... tất cả các yếu tố khiến con sói khổng lồ này trong thoáng chốc cư nhiên chưa kịp phản ứng. Cho đến khi Ngô Minh đã gần ngay trước mắt, đôi con ngươi tràn đầy sát ý in hằn trong mắt nó, nó mới giật mình kinh nộ mà bừng tỉnh, nhưng đã không còn kịp nữa. Nó chỉ có thể trố mắt nhìn ngọn mộc mâu đâm thẳng vào vết thương trên đầu, xuôi theo cái lỗ răng cắn nát hộp sọ mà xuyên thấu vào trong.
 

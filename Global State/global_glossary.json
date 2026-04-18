@@ -3105,6 +3105,16 @@
       "confidence": "low",
       "notes": "Mão Chi Hoa Liệt",
       "locked": false
+    },
+    {
+      "id": "GTERM_0080",
+      "source_term": "赤红色蟒蛇",
+      "target_term": "Xích mãng",
+      "category": "creature",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Red python monster encountered in Ch 11",
+      "locked": false
     }
   ]
 }

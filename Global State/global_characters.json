@@ -1,13 +1,14 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-04-17T08:53:41+07:00",
-    "total_characters": 22,
+    "last_updated": "2026-04-18T22:45:00+07:00",
+    "total_characters": 32,
     "source_projects": [
       "Chu Than Dai Dao_Co Nguyet Cu Si",
       "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
       "Phi Pham Hong Hoang_Nga Tu Phi Pham",
-      "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han"
+      "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han",
+      "Hong Hoang Lich_Zhttty"
     ],
     "description": "Tổng hợp nhân vật từ TẤT CẢ project branch trong repo Dichtrung"
   },
@@ -252,6 +253,116 @@
       "role": "khác",
       "description": "",
       "first_appearance": "",
+      "notes": ""
+    },
+    {
+      "id": "GCHAR_0023",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "name_original": "吴明",
+      "name_translated": "Ngô Minh",
+      "gender": "male",
+      "role": "protagonist",
+      "description": "Nhân vật chính của truyện.",
+      "first_appearance": "Chương 2",
+      "notes": "Sở hữu Tối sơ Chủ Thần Không Gian"
+    },
+    {
+      "id": "GCHAR_0024",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "name_original": "阿莫尔",
+      "name_translated": "Amor",
+      "gender": "male",
+      "role": "major",
+      "description": "Thân phận bí ẩn, có liên quan đến các yếu tố phương Tây/Arcane.",
+      "first_appearance": "Chương 8",
+      "notes": ""
+    },
+    {
+      "id": "GCHAR_0025",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "name_original": "王羽",
+      "name_translated": "Vương Vũ",
+      "gender": "male",
+      "role": "supporting",
+      "description": "Chiến binh từ tương lai mạt thế robot.",
+      "first_appearance": "Chương 6",
+      "notes": ""
+    },
+    {
+      "id": "GCHAR_0026",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "name_original": "埃尔法",
+      "name_translated": "Elfa",
+      "gender": "male",
+      "role": "supporting",
+      "description": "Học đồ pháp sư Bán Tinh Linh.",
+      "first_appearance": "Chương 5",
+      "notes": ""
+    },
+    {
+      "id": "GCHAR_0027",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "name_original": "徐文",
+      "name_translated": "Từ Văn",
+      "gender": "male",
+      "role": "supporting",
+      "description": "Thư sinh thời Đông Tấn.",
+      "first_appearance": "Chương 6",
+      "notes": "Tài năng lãnh đạo xuất chúng, đạt hạng B trong thử luyện Mê Vụ."
+    },
+    {
+      "id": "GCHAR_0028",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "name_original": "矿骨",
+      "name_translated": "Cốt (Khoáng Cốt)",
+      "gender": "male",
+      "role": "major",
+      "description": "Cơ giới thăng hoa thể tộc Địa Linh (hạng 98).",
+      "first_appearance": "Chương 12",
+      "notes": ""
+    },
+    {
+      "id": "GCHAR_0029",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "name_original": "红龙斯诺德",
+      "name_translated": "Hồng Long Snord",
+      "gender": "male",
+      "role": "antagonist",
+      "description": "Hỏa chi Bạo quân, bị Đông Hoàng trấn áp.",
+      "first_appearance": "Chương 15",
+      "notes": ""
+    },
+    {
+      "id": "GCHAR_0030",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "name_original": "吒",
+      "name_translated": "Tra",
+      "gender": "male",
+      "role": "major",
+      "description": "Một trong 13 thành viên cốt cán nhân tộc, sức mạnh khuynh đảo.",
+      "first_appearance": "Chương 17",
+      "notes": ""
+    },
+    {
+      "id": "GCHAR_0031",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "name_original": "车干",
+      "name_translated": "Xa Can",
+      "gender": "male",
+      "role": "major",
+      "description": "Trí giả trong 13 người, sinh ra ở bộ lạc Xa.",
+      "first_appearance": "Chương 17",
+      "notes": ""
+    },
+    {
+      "id": "GCHAR_0032",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "name_original": "洛丝",
+      "name_translated": "Lạc Ti (Los)",
+      "gender": "female",
+      "role": "supporting",
+      "description": "Tiefling từ Hỏa Ngục, sủng thiếp của ác ma.",
+      "first_appearance": "Chương 16",
       "notes": ""
     }
   ]
