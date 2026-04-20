@@ -46,7 +46,7 @@ Ma pháp sư Skeleton lắc đầu, mang theo giọng điệu lạnh lùng nói:
 
 Ma pháp sư Skeleton bèn nói: "Đông Hoàng Thái Nhất, Thiên Đế Đế Tuấn. Hai vị này đăng lâm hoàng vị, kết thúc chiến loạn vạn tộc. Từ đó về sau hòa bình mới giáng lâm xuống đại lục Hồng Hoang, tính tới nay đã vạn năm trôi qua rồi."
 
-Ngô Minh nhất thời cảm thấy trong đầu một mảnh hỗn loạn. Thứ này ở chính phủ Hồng Hoang Thiên Đình tương lai không hề có chút thông tin nào, ngược lại trong thần thoại Trái Đất của anh hồi trước thì lại có, mà đa số là lời trong các tiểu thuyết mạng, thường thấy trong các hệ thống tu tiên. Anh liền nói ngay: "Tam Túc Kim Ô? Thần điểu sinh ra từ trên mặt trời? Đông Hoàng Thái Nhất? Thiên Đế Đế Tuấn?"
+Ngô Minh nhất thời cảm thấy trong đầu một mảnh hỗn loạn. Thứ này ở chính phủ Thiên Đình Hồng Hoang tương lai không hề có chút thông tin nào, ngược lại trong thần thoại Trái Đất của anh hồi trước thì lại có, mà đa số là lời trong các tiểu thuyết mạng, thường thấy trong các hệ thống tu tiên. Anh liền nói ngay: "Tam Túc Kim Ô? Thần điểu sinh ra từ trên mặt trời? Đông Hoàng Thái Nhất? Thiên Đế Đế Tuấn?"
 
 Ma pháp sư Skeleton khẳng định chắc nịch: "Đúng là tộc Tam Túc Kim Ô, nhưng có phải sinh ra từ mặt trời hay không thì không biết. Truyền thuyết quá nhiều, cũng chẳng ai dám tới chỗ hai vị Hoàng để kiểm chứng. Tiện thể nhắc tới, ta có nghe được một chuyện đại sự."
 
@@ -62,7 +62,7 @@ Ngô Minh biểu thị đã hiểu. Anh đang định cáo từ Ma pháp sư Ske
 
 Ma pháp sư Skeleton nhìn Ngô Minh hồi lâu, khiến Ngô Minh cảm thấy có khi nào mình đã phạm vào cấm kỵ gì không, lúc này Ma pháp sư Skeleton mới nói: "Những tin tức này hiện tại ngươi thực sự chưa có tư cách để biết. Trừ những chức nghiệp hệ pháp thuật trong các chủng tộc đã kiến lập đế quốc, còn các chức nghiệp giả của các tộc khác ít nhất đều phải đạt tới cảnh giới tương tự Đại ma pháp sư mới có khả năng được biết. Nhưng chuyện này thực ra cách ngươi cực xa, nói cho ngươi cũng vô phương."
 
-"Địa linh tộc bị bảy cường tộc đứng trong top 20 của Hồng Hoang vạn tộc là Tinh linh tộc (Elves), Long tộc, Côn tộc, Bằng tộc, Trùng tộc, Hỗn Độn tộc, Ác ma tộc liên thủ diệt quyệt. Thậm chí trong cuộc chiến diệt chủng này, chính Đông Hoàng bệ hạ cũng đã đích thân ra tay một lần. Bởi vì Địa linh tộc đã phạm phải một điều kỵ lớn nhất, một điều kỵ không thể tha thứ. Cũng may là Thiên Đế bệ hạ lòng dạ nhân từ, xá miễn cho các tộc phái sinh của chúng, bằng không ngay cả tộc phái sinh cũng nên bị diệt tuyệt cùng lúc. Mà điều cấm kỵ này chính là..."
+"Địa linh tộc bị bảy cường tộc đứng trong top 20 của Hồng Hoang vạn tộc là Tinh linh tộc, Long tộc, Côn tộc, Bằng tộc, Trùng tộc, Hỗn Độn tộc, Ác ma tộc liên thủ diệt quyệt. Thậm chí trong cuộc chiến diệt chủng này, chính Đông Hoàng bệ hạ cũng đã đích thân ra tay một lần. Bởi vì Địa linh tộc đã phạm phải một điều kỵ lớn nhất, một điều kỵ không thể tha thứ. Cũng may là Thiên Đế bệ hạ lòng dạ nhân từ, xá miễn cho các tộc phái sinh của chúng, bằng không ngay cả tộc phái sinh cũng nên bị diệt tuyệt cùng lúc. Mà điều cấm kỵ này chính là..."
 
 "Thánh vị, Thánh vị nhân tạo."
 

@@ -16,7 +16,7 @@ Khóe miệng Ngô Minh giật giật, cũng chẳng buồn giải thích nhiề
 
 Ibis vẫn còn đang thao thao bất tuyệt chuyện về cái U hồn kia, nghe vậy liền kêu oan: "Cái gì mà nhỏ? Cửa hàng này là đủ lớn rồi. Anh có biết giá đất ở mặt phố này bao nhiêu không? Chúng ta đâu có bán vật phẩm ma pháp, bán dược tề mà diện tích thế này còn chê nhỏ sao?"
 
-"Nếu như... bán ma pháp dược tề (Magic Potions) thì sao?" Ngô Minh nói.
+"Nếu như... bán ma pháp dược tề thì sao?" Ngô Minh nói.
 
 Ibis sững người lại, lẩm bẩm: "Nếu bán ma pháp dược tề thì đúng là cái cửa hàng này hơi nhỏ thật. Một lọ ma pháp dược tề tuy không bằng vật phẩm ma pháp, nhưng giá cả cũng gấp trăm lần dược tề thông thường. Nếu như thế... Đợi, đợi chút, anh nói là ma pháp dược tề!?"
 
@@ -26,23 +26,23 @@ Ibis nghe mà cả người run lên bần bật, gã nhìn chằm chằm Ngô M
 
 Ngô Minh nghiêm túc gật đầu: "Đương nhiên là thật. Yên tâm đi, tôi có nắm chắc. Hoặc là ông đợi tôi một ngày, ngày mai tôi sẽ chế tạo ra một lọ ma pháp dược tề cho ông xem, thấy sao?"
 
-"Được! Quyết định thế đi!" Ibis cũng là học đồ ma pháp nên gã thừa biết sử dụng ma pháp cần tinh thần lực và ma lực, đó là huyết mạch của ma pháp sư. Vì thế Ngô Minh nói ngày mai mới chế tạo xong ma pháp dược tề gã cũng thấy là bình thường. Gã lập tức nói ngay: "Chỉ cần anh chế tạo ra được, tôi sẽ mở rộng cửa hàng, đồng thời chia cho anh hai, không, ba thành cổ phần (dry shares). Khi đó mọi chi phí thảo dược, dụng cụ, tiền mặt bằng tôi sẽ lo hết, anh chỉ việc nhận ba thành lợi nhuận phân hồng, thấy thế nào?"
+"Được! Quyết định thế đi!" Ibis cũng là học đồ ma pháp nên gã thừa biết sử dụng ma pháp cần tinh thần lực và ma lực, đó là huyết mạch của ma pháp sư. Vì thế Ngô Minh nói ngày mai mới chế tạo xong ma pháp dược tề gã cũng thấy là bình thường. Gã lập tức nói ngay: "Chỉ cần anh chế tạo ra được, tôi sẽ mở rộng cửa hàng, đồng thời chia cho anh hai, không, ba thành cổ phần. Khi đó mọi chi phí thảo dược, dụng cụ, tiền mặt bằng tôi sẽ lo hết, anh chỉ việc nhận ba thành lợi nhuận phân hồng, thấy thế nào?"
 
 "Được." Ngô Minh mỉm cười gật đầu đồng ý, cũng chẳng tính toán gì thêm.
 
 Nói một cách công bằng, một ma pháp sư chế tạo vật phẩm ma pháp trong một cửa hàng nào đó, nếu cửa hàng đó là của chính ma pháp sư thì tất nhiên lợi nhuận thuộc về mình hết. Còn nếu cửa hàng là của người khác, ma pháp sư thường phải nhận ít nhất năm thành thu nhập thuần mà không cần quản lý bất cứ việc gì khác. Ba thành thu nhập thực sự là hơi ít, nhưng Ngô Minh không bận tâm. Ibis là người khá tốt, lúc trước tiến cử anh cũng coi như có ơn, những chuyện nhỏ nhặt này thực ra chưa đủ để báo đáp cái ơn đó.
 
-Chiều hôm đó, Ngô Minh lại tới tháp ma pháp, định tiếp tục nghiên cứu sách vở. Hôm nay anh định tìm hiểu về địa lý của Liên Minh Thương Nghiệp (Commercial Alliance). Anh vẫn chưa nắm rõ Liên minh cụ thể lớn nhường nào, có bao nhiêu thành phố, thế lực ra sao, sự phân bổ của dị tộc thế nào... Đây là những điểm mù về thông tin mà anh dự định sẽ bổ sung từng chút một.
+Chiều hôm đó, Ngô Minh lại tới tháp ma pháp, định tiếp tục nghiên cứu sách vở. Hôm nay anh định tìm hiểu về địa lý của Liên Minh Thương Nghiệp. Anh vẫn chưa nắm rõ Liên minh cụ thể lớn nhường nào, có bao nhiêu thành phố, thế lực ra sao, sự phân bổ của dị tộc thế nào... Đây là những điểm mù về thông tin mà anh dự định sẽ bổ sung từng chút một.
 
 Vừa bước vào tháp ma pháp, anh đã thấy Ma pháp sư bộ xương đang đứng ở đại sảnh. Ngô Minh vội vàng cúi chào. Ma pháp sư bộ xương cũng không khách sáo, trực tiếp nói: "Cho ta xem khí cụ ma pháp của ngươi một chút."
 
-Ngô Minh không chút do dự, trực tiếp cụ hiện Âm Hồn Kỳ từ trong khí hải ra. Ma pháp sư bộ xương nhận lấy Âm Hồn Kỳ, lật đi lật lại xem xét kỹ lưỡng suốt hơn mười phút, sau đó mới nói: "Quy cách chế tạo thứ này cực cao, ta cũng chỉ nhìn thấu được bảy tám phần, còn một số vị trí mấu chốt ta cũng không hiểu nổi. Xem ra đây là kiệt tác của ít nhất là một bậc Đại Ma pháp sư (Great Mage). Xét về công năng, nó có thể nuôi dưỡng chín mươi chín con âm hồn, khi sử dụng cũng tiêu hao chính ma lực của âm hồn, chỉ riêng điểm này thôi đã là rất phi thường rồi... Ta cũng không hỏi ngươi lấy nó từ đâu ra, ai mà chẳng có bí mật riêng? Ngươi là học đồ của ta, ta đương nhiên sẽ bảo vệ ngươi. Mấy ngày tới đừng rời khỏi thành Kim Hà."
+Ngô Minh không chút do dự, trực tiếp cụ hiện Âm Hồn Kỳ từ trong khí hải ra. Ma pháp sư bộ xương nhận lấy Âm Hồn Kỳ, lật đi lật lại xem xét kỹ lưỡng suốt hơn mười phút, sau đó mới nói: "Quy cách chế tạo thứ này cực cao, ta cũng chỉ nhìn thấu được bảy tám phần, còn một số vị trí mấu chốt ta cũng không hiểu nổi. Xem ra đây là kiệt tác của ít nhất là một bậc Đại Ma pháp sư. Xét về công năng, nó có thể nuôi dưỡng chín mươi chín con âm hồn, khi sử dụng cũng tiêu hao chính ma lực của âm hồn, chỉ riêng điểm này thôi đã là rất phi thường rồi... Ta cũng không hỏi ngươi lấy nó từ đâu ra, ai mà chẳng có bí mật riêng? Ngươi là học đồ của ta, ta đương nhiên sẽ bảo vệ ngươi. Mấy ngày tới đừng rời khỏi thành Kim Hà."
 
 Ngô Minh lập tức hiểu ra điều gì đó, anh nói: "Vâng, thưa đạo sư, tôi đã hiểu... Nếu có việc gì tôi có thể giúp sức, xin đạo sư cứ bảo tôi."
 
-Ma pháp sư bộ xương lắc đầu: "Mau chóng nâng cao thực lực là tốt rồi. Ngươi là học đồ của ta, ta đương nhiên sẽ che chở. Việc giết vài tên nô lệ cũng chẳng phải chuyện gì to tát, nhưng chung quy là không tốt. Kể từ sau cuộc chiến với Á Long chư tộc (Sub-Dragon races), Tử vong chư tộc chúng ta vốn đã suy yếu. Tuy đã liên minh với Địa linh diên sinh chư tộc để thành lập Liên Minh Thương Nghiệp, nhưng Bất tử chư tộc chung quy vẫn yếu thế hơn nhiều, ma pháp tử linh cũng luôn khiến chúng sinh cảm thấy kinh sợ..."
+Ma pháp sư bộ xương lắc đầu: "Mau chóng nâng cao thực lực là tốt rồi. Ngươi là học đồ của ta, ta đương nhiên sẽ che chở. Việc giết vài tên nô lệ cũng chẳng phải chuyện gì to tát, nhưng chung quy là không tốt. Kể từ sau cuộc chiến với Á Long chư tộc, Tử vong chư tộc chúng ta vốn đã suy yếu. Tuy đã liên minh với Địa linh diên sinh chư tộc để thành lập Liên Minh Thương Nghiệp, nhưng Bất tử chư tộc chung quy vẫn yếu thế hơn nhiều, ma pháp tử linh cũng luôn khiến chúng sinh cảm thấy kinh sợ..."
 
-Vừa nói, Ma pháp sư bộ xương vừa trả lại Âm Hồn Kỳ cho Ngô Minh, đồng thời lôi từ trong túi ra một viên thủy tinh cầu: "Ta biết ngươi không sử dụng nô lệ nhân loại, chỉ là hy vọng âm hồn có thể trở nên mạnh mẽ hơn. Âm hồn vốn có thể nuốt chửng lẫn nhau, tiến hóa từ Âm hồn lên Lệ hồn (Malice Ghost), từ Lệ hồn lên Thiên hồn (Heavenly Ghost). Một khi đạt tới Thiên hồn, ngay cả Ma pháp sư cấp hai cũng chỉ có thể cố gắng thoát thân. Nếu có chín mươi chín con Thiên hồn, ngươi thậm chí có thể đối kháng được cả Ma pháp sư cấp ba... Trong viên thủy tinh cầu này có ba mươi triệu linh hồn vạn tộc, đa số là linh hồn siêu phàm nhưng đã mất đi lý trí, không thể biến thành Bất tử chư tộc được nữa. Giữ lại cũng chỉ để tiêu hao trong ma pháp tử vong thôi, nên ngươi cứ cầm lấy đi. Hãy cố gắng bồi dưỡng âm hồn của mình cho tốt, trong thời gian ngắn đừng đi giết thêm nô lệ nữa."
+Vừa nói, Ma pháp sư bộ xương vừa trả lại Âm Hồn Kỳ cho Ngô Minh, đồng thời lôi từ trong túi ra một viên thủy tinh cầu: "Ta biết ngươi không sử dụng nô lệ nhân loại, chỉ là hy vọng âm hồn có thể trở nên mạnh mẽ hơn. Âm hồn vốn có thể nuốt chửng lẫn nhau, tiến hóa từ Âm hồn lên Lệ hồn, từ Lệ hồn lên Thiên hồn. Một khi đạt tới Thiên hồn, ngay cả Ma pháp sư cấp hai cũng chỉ có thể cố gắng thoát thân. Nếu có chín mươi chín con Thiên hồn, ngươi thậm chí có thể đối kháng được cả Ma pháp sư cấp ba... Trong viên thủy tinh cầu này có ba mươi triệu linh hồn vạn tộc, đa số là linh hồn siêu phàm nhưng đã mất đi lý trí, không thể biến thành Bất tử chư tộc được nữa. Giữ lại cũng chỉ để tiêu hao trong ma pháp tử vong thôi, nên ngươi cứ cầm lấy đi. Hãy cố gắng bồi dưỡng âm hồn của mình cho tốt, trong thời gian ngắn đừng đi giết thêm nô lệ nữa."
 
 Ngô Minh trong lòng dẫu thấy dở khóc dở cười vì sự hiểu lầm của đạo sư, nhưng ngoài mặt vẫn nghiêm túc nói: "Vâng, thưa đạo sư, đa tạ đạo sư."
 
@@ -66,7 +66,7 @@ Gần tới lúc rạng sáng, Ngô Minh rời khỏi tháp ma pháp trở về 
 
 Để hoàn tất quá trình thôn phệ và tiến hóa, ước chừng mất khoảng hai đến ba ngày. Sau khi hạ quyết định, Ngô Minh không bận tâm chuyện khác nữa mà bắt đầu suy nghĩ về tình hình địa lý của toàn bộ Liên Minh Thương Nghiệp.
 
-Thành Kim Hà nơi anh đang ở không lớn, là một thành phố cấp hai trong Liên Minh Thương Nghiệp. Phía trên còn có thành phố cấp một và năm đại đô thị chính (Five Main Cities). Ngoài những thành phố này, phạm vi lãnh thổ thuộc quyền kiểm soát của Liên Minh Thương Nghiệp là cực kỳ rộng lớn. Ngay gần thành Kim Hà đã có rất nhiều vùng bình nguyên trống trải, tất cả đều là lãnh địa có thể mua được từ Liên minh.
+Thành Kim Hà nơi anh đang ở không lớn, là một thành phố cấp hai trong Liên Minh Thương Nghiệp. Phía trên còn có thành phố cấp một và năm đại đô thị chính. Ngoài những thành phố này, phạm vi lãnh thổ thuộc quyền kiểm soát của Liên Minh Thương Nghiệp là cực kỳ rộng lớn. Ngay gần thành Kim Hà đã có rất nhiều vùng bình nguyên trống trải, tất cả đều là lãnh địa có thể mua được từ Liên minh.
 
 Chỉ có điều, muốn mua lãnh địa cần có một vài yêu cầu: hoặc là một trong những quý tộc của Liên minh, hoặc là đại diện cho một tộc (chủng tộc), hoặc là đạt tới bậc siêu phàm cấp hai. Tuy nhiên, ma pháp sư thì chỉ cần cấp một là đủ rồi.
 

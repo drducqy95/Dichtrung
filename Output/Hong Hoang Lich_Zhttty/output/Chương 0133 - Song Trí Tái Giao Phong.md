@@ -12,11 +12,11 @@ Ngô Minh nghĩ một hồi, vẫn gật đầu thừa nhận.
 
 Ánh mắt Amor lóe lên, trong lòng cậu thực tế còn có ý nghĩ khác. Cậu không cho rằng tầng lớp cao tầng của tộc Cao Đẳng Địa Tinh đều là lũ ngốc. Một thể chế (hệ thống) hoàn thiện, lại còn là một thể chế ổn định đã tồn tại ít nhất hàng ngàn năm trở lên, nếu ai coi cao tầng của một thể chế như vậy là lũ ngốc, thì chính kẻ đó mới là kẻ ngốc.
 
-Thế nhưng tộc Cao Đẳng Địa Tinh lại làm một chuyện ngu xuẩn nhất. Ngay cả khi lõi của tộc địa mình bị tấn công, dẫn đến cái chết của hàng chục triệu dân cư – chuyện mà đối với trái đất thế kỷ 21 có thể coi là trận chiến diệt quốc – nhưng cũng khó có khả năng dùng tới vũ khí cấp bom khinh khí (H-bomb), đặc biệt là loại cấp chiến lược, trừ phi bị tấn công bằng loại vũ khí cùng đẳng cấp, nếu không thì về cơ bản chẳng có ai lại tiên phong sử dụng nó cả.
+Thế nhưng tộc Cao Đẳng Địa Tinh lại làm một chuyện ngu xuẩn nhất. Ngay cả khi lõi của tộc địa mình bị tấn công, dẫn đến cái chết của hàng chục triệu dân cư – chuyện mà đối với trái đất thế kỷ 21 có thể coi là trận chiến diệt quốc – nhưng cũng khó có khả năng dùng tới vũ khí cấp bom khinh khí, đặc biệt là loại cấp chiến lược, trừ phi bị tấn công bằng loại vũ khí cùng đẳng cấp, nếu không thì về cơ bản chẳng có ai lại tiên phong sử dụng nó cả.
 
 Mà tộc Cao Đẳng Địa Tinh ở thế giới này, xét về công nghệ, về địa bàn, về dân số, thực tế đều nhiều hơn và mạnh hơn so với toàn bộ nhân loại trên một hành tinh ở thế giới Trái đất cộng lại. Tại sao chỉ bị tập kích một lần, lập tức như bị dồn vào đường cùng mà trực tiếp phóng tới mười bảy quả Súc Bạo Đạn? Trong chuyện này nếu không có khuất tất thì mới là lạ.
 
-Dự đoán lớn nhất của Amor là, vị huyết tộc có tên Tử Nha đó đã làm điều gì đó trong chuyện này. Mặc dù không để lại dấu vết, nhưng nhìn từ mạch lạc sự kiện thì vẫn có một số manh mối. Chẳng hạn như việc Lược Đoạt Giả Liên Minh đột nhiên tham chiến, chẳng hạn như sự trễ nải của các quân đoàn phòng thủ nội bộ Cao Đẳng Địa Tinh, hay như vấn đề thời gian, lại vừa vặn phát động vào lúc Ngô Minh đang bế quan...
+Dự đoán lớn nhất của Amor là, vị huyết tộc có tên Tử Nha đó đã làm điều gì đó trong chuyện này. Mặc dù không để lại dấu vết, nhưng nhìn từ mạch lạc sự kiện thì vẫn có một số manh mối. Chẳng hạn như việc Liên minh Lược Đoạt Giả đột nhiên tham chiến, chẳng hạn như sự trễ nải của các quân đoàn phòng thủ nội bộ Cao Đẳng Địa Tinh, hay như vấn đề thời gian, lại vừa vặn phát động vào lúc Ngô Minh đang bế quan...
 
 (Ngươi rốt cuộc định làm gì đây, Tử Nha? Việc làm của ngươi thực tế đã gây ra đe dọa đối với Ngô Minh rồi, điểm này ngươi hẳn phải biết rõ chứ. Cho dù ngươi không biết về Chủ Thần không gian, cho dù không biết Ngô Minh thực ra căn bản không cần mạo hiểm, chỉ cần thời gian tích lũy là có thể không ngừng mạnh lên, nhưng những gì ngươi đang làm thực tế đã bắt đầu đe dọa đến Luân hồi tiểu đội nơi tôi đang ở rồi. Ngô Minh và Luân hồi tiểu đội hiện tại là mối quan hệ cộng sinh cùng tồn tại, không thể để ngươi tiếp tục như vậy được... Tôi đã xuất chiêu rồi, tiếp theo, đến lượt ngươi đáp lại, để tôi xem ý nghĩ thực sự của ngươi là gì nhé.)
 
@@ -26,7 +26,7 @@ Hai mươi mốt giờ sau, Tử Vong Kỵ Sĩ đoàn cùng ba ngàn binh phụ 
 
 Ba người còn lại là Tử Vong, Cơ Hoang và Ôn Dịch đều đồng loạt nhìn về phía kẻ thấp bé đang trùm kín trong áo choàng, sắc mặt ai nấy đều không mấy tốt đẹp.
 
-Kẻ thấp bé trong áo choàng khẽ cười một tiếng, đưa tay chỉ về phía trước nói: "Vốn dĩ tôi cũng không mong chờ có thể phát động tập kích. Đợt giao chiến đầu tiên của các anh với sư đoàn Cao Đẳng Địa Tinh về cơ bản lần nào cũng áp dụng chiến pháp tập kích. Thật vậy, đối với loại quân đội lấy công nghệ làm gốc như thế này, chức nghiệp giả áp dụng chiến pháp tập kích mới là chiến pháp thượng tầng, chẳng lẽ lại đi đánh trận địa chiến (war of attrition) để tiêu hao sao? Nhưng có một điểm, bất kể là các anh hay là đại ca Ngô Minh, các anh đều đã làm sai rồi."
+Kẻ thấp bé trong áo choàng khẽ cười một tiếng, đưa tay chỉ về phía trước nói: "Vốn dĩ tôi cũng không mong chờ có thể phát động tập kích. Đợt giao chiến đầu tiên của các anh với sư đoàn Cao Đẳng Địa Tinh về cơ bản lần nào cũng áp dụng chiến pháp tập kích. Thật vậy, đối với loại quân đội lấy công nghệ làm gốc như thế này, chức nghiệp giả áp dụng chiến pháp tập kích mới là chiến pháp thượng tầng, chẳng lẽ lại đi đánh trận địa chiến để tiêu hao sao? Nhưng có một điểm, bất kể là các anh hay là đại ca Ngô Minh, các anh đều đã làm sai rồi."
 
 Sắc mặt bốn Tử Vong Kỵ Sĩ đều không mấy vui vẻ, Chiến Tranh trầm giọng hỏi: "Chỗ nào làm sai!?"
 
@@ -74,7 +74,7 @@ Trên tấm bản đồ trên tường xuất hiện hai điểm sáng. Tử Nha
 
 Sắc mặt Tử Nha khó coi đi đi lại lại vài bước, anh ta lại nhìn về phía bản đồ, lẩm bẩm: "Là... ngươi sao? Nguyên nhân là gì? Đột nhiên làm vậy, còn nữa, trước đó cuộc gọi của ta bị từ chối..."
 
-"Thử thách ta? Nguyên nhân là gì? Súc Bạo Đạn... khoảng cách vụ nổ... Cao Đẳng Địa Tinh... Lược Đoạt Giả Liên Minh... Còn gì nữa không?"
+"Thử thách ta? Nguyên nhân là gì? Súc Bạo Đạn... khoảng cách vụ nổ... Cao Đẳng Địa Tinh... Liên minh Lược Đoạt Giả... Còn gì nữa không?"
 
 Sắc mặt Tử Nha càng thêm khó coi hơn. Tay anh ta nắm chặt một món đồ trang trí, đột ngột ném mạnh món đồ đó xuống đất, gầm khẽ: "Ngu xuẩn! Ngu muội! Đều là nhân loại, vậy mà còn không biết đại thể như vậy! Hiện tại là lúc nội bộ phân tranh, nội bộ nghi ngờ hay sao? Nhân loại chúng ta không còn lại bao nhiêu nguyên khí nữa rồi, ngươi với tư cách là một trí giả hiếm hoi của nhân loại, vậy mà lại không biết đại thể như thế! Ngươi có biết việc thử thách này của ngươi rất có thể sẽ lập tức xảy ra chuyện không!! Cao Đẳng Địa Tinh tuy chức nghiệp giả truyền kỳ ít, nhưng không phải là không có!! Phái ra một người tới trảm thủ ngay tại trận, liệu chúng ta có còn một vị cứu thế chủ thứ hai không!?"
 

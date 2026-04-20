@@ -52,7 +52,7 @@ Ngô Minh cũng không trả lời, hắn đổ toàn bộ mười giọt Cửu 
 
 'Không biết ở thời đại này Hoàng Thiên Hậu Thổ đã tồn tại hay chưa, nhưng cho dù chưa có, thì Luân Hồi Bàn chắc chắn phải tồn tại. Kiện Tiên Thiên Linh Bảo đỉnh cấp này là đặc thù nhất, cai quản vòng luân hồi sinh tử của tất cả sinh linh và phi sinh linh trong Đa nguyên vũ trụ. Ta tuy không thể sử dụng hay có được nó, nhưng lấy Cửu U Tuyền Thủy làm khế ước, lấy phù văn Khôn làm thông đạo, có thể giống như cầu nguyện Hậu Thổ thị mà cầu xin một tia uy năng. Điều này đủ để phong tỏa một đoạn thời không nhỏ ở nơi này, không lo bị Thánh vị trong tương lai hồi tố thời gian để biết được tình hình.'
 
-Ngô Minh thầm nghĩ, sau đó trong đầu không ngừng niệm những bài văn khấn mà hắn còn nhớ được từ thời Hồng Hoang Thiên Đình.
+Ngô Minh thầm nghĩ, sau đó trong đầu không ngừng niệm những bài văn khấn mà hắn còn nhớ được từ thời Thiên Đình Hồng Hoang.
 
 "Hoàng Thiên vô thân, duy đức thị phụ..." (Trời cao không có người thân, chỉ giúp kẻ có đức...)
 

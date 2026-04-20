@@ -8,7 +8,7 @@ Thực tế, chủ trương của Chính thống Tu chân nằm ở Phù văn, v
 
 Theo lý mà nói, cho dù số lượng Cửu Cung là vô cùng tận, con số 2.097.152 lũy thừa 2.097.151 đã không còn ngôn từ nào của thiên văn học có thể hình dung nổi. Phải biết rằng một vị diện đại vũ trụ, về mặt không gian gần như có thể dùng từ vô tận để mô tả, nhưng tổng lượng hạt cơ bản của nó cũng chỉ xấp xỉ 10 lũy thừa 80, mà tổng lượng Phù văn Cửu Cung lại là hơn hai triệu lũy thừa hơn hai triệu, đây căn bản không cùng một cấp bậc số lượng.
 
-Nhưng dù là con số cường điệu đến thế, sau khi Chính phủ Hồng Hoang Thiên Đình thành lập, ra sức thúc đẩy Chính thống Tu chân, phổ cập giáo dục cho toàn dân, văn hóa phồn vinh hưng thịnh qua từng thế hệ, vật tư càng nhiều tới mức khoa trương, thì số lượng Chính thống Tu chân giả nối bước nhau há chẳng phải tính bằng con số triệu tỷ? Nếu mỗi người giải tích một phần Phù văn cấp ba, thì đến nay đáng lẽ phải có vô vàn Phù văn cấp ba đã hoàn thành giải tích rồi mới phải, vậy tại sao không trực tiếp ghi nhớ Phù văn của người khác?
+Nhưng dù là con số cường điệu đến thế, sau khi Chính phủ Thiên Đình Hồng Hoang thành lập, ra sức thúc đẩy Chính thống Tu chân, phổ cập giáo dục cho toàn dân, văn hóa phồn vinh hưng thịnh qua từng thế hệ, vật tư càng nhiều tới mức khoa trương, thì số lượng Chính thống Tu chân giả nối bước nhau há chẳng phải tính bằng con số triệu tỷ? Nếu mỗi người giải tích một phần Phù văn cấp ba, thì đến nay đáng lẽ phải có vô vàn Phù văn cấp ba đã hoàn thành giải tích rồi mới phải, vậy tại sao không trực tiếp ghi nhớ Phù văn của người khác?
 
 Nguyên nhân rất đơn giản, bản chất của vũ trụ là biến đổi, chứ không phải là một khuôn mẫu khắc bản bất biến.
 
@@ -16,7 +16,7 @@ Cũng giống như tính không xác định của các hạt vi mô, dùng Phù
 
 Thứ duy nhất bất biến, chỉ có tám đại Phù văn cốt lõi: Càn, Khôn, Chấn, Cấn, Khảm, Ly, Tốn, Đoài, giống như các con số từ 0 đến 9, đây là thứ cơ bản nhất, cốt lõi nhất, là công cụ khởi đầu và quan trọng nhất để "Phù văn hóa" vũ trụ.
 
-Chính vì vậy, trong công pháp tu chân, tầng Luyện Khí cũng chỉ là luyện khí, tăng thêm một chút năng lực tính toán và năng lực giải tích, v.v., chứ không liên quan đến Phù văn cốt lõi. Nhưng bắt đầu từ Trúc Cơ, nếu muốn đi theo lộ trình Chính thống Tu chân, tám đại Phù văn cốt lõi chính là cái ngưỡng vĩnh viễn không thể vòng qua, là thứ then chốt nhất, cũng là cần thiết nhất. Mà những công pháp Chính thống Tu chân cao cấp nhất, đa phần đều tự động khiến người Trúc Cơ đạt được một Phù văn cốt lõi, giảm bớt sự mệt nhọc khi giải tích, hơn nữa đối với bảy đại Phù văn cốt lõi còn lại cũng đều có sự giải thích nhất định. Đây đã là công pháp đẳng cấp nhất mà Ngô Minh biết được, hay nói cách khác, ít nhất là đẳng cấp nhất mà Chính phủ Hồng Hoang Thiên Đình công bố ra ngoài.
+Chính vì vậy, trong công pháp tu chân, tầng Luyện Khí cũng chỉ là luyện khí, tăng thêm một chút năng lực tính toán và năng lực giải tích, v.v., chứ không liên quan đến Phù văn cốt lõi. Nhưng bắt đầu từ Trúc Cơ, nếu muốn đi theo lộ trình Chính thống Tu chân, tám đại Phù văn cốt lõi chính là cái ngưỡng vĩnh viễn không thể vòng qua, là thứ then chốt nhất, cũng là cần thiết nhất. Mà những công pháp Chính thống Tu chân cao cấp nhất, đa phần đều tự động khiến người Trúc Cơ đạt được một Phù văn cốt lõi, giảm bớt sự mệt nhọc khi giải tích, hơn nữa đối với bảy đại Phù văn cốt lõi còn lại cũng đều có sự giải thích nhất định. Đây đã là công pháp đẳng cấp nhất mà Ngô Minh biết được, hay nói cách khác, ít nhất là đẳng cấp nhất mà Chính phủ Thiên Đình Hồng Hoang công bố ra ngoài.
 
 Mà bộ Trung Ương Mậu Thổ Hậu Đức Quyết này, quả nhiên không hổ danh với ba cái tiền tố của nó. Tuy tên gọi là Thổ trong Ngũ hành, nhưng trên thực tế nó đã sớm vượt xa Ngũ hành không biết bao nhiêu. Thứ khoa trương nhất của công pháp này là, từ phương diện luận thuật mà xét, nó không hề thiên lệch về một Phù văn cốt lõi nào rồi mới giải thích bảy Phù văn còn lại, mà là chú trọng vào cả tám đại Phù văn cốt lõi, toàn bộ đều chú trọng. Hơn nữa nó còn rẽ lối đi riêng, dùng Tứ tượng Ngũ hành để luận giải tám đại Phù văn Bát quái, những ý tưởng trong đó là thứ Ngô Minh trước đây căn bản chưa từng nghĩ tới.
 
@@ -32,7 +32,7 @@ Ruth lúc đầu còn hơi kinh ngạc, bởi vì khi mới vào, Ngô Minh rõ 
 
 Ngô Minh mỉm cười gật đầu, hắn suy nghĩ một chút rồi nói: "Tôi đúng là sắp trở thành Ma pháp sư bậc hai, nhưng vẫn cần một chút chuẩn bị và thời gian. Nơi này cũng không an toàn, cho nên tôi sẽ rời khỏi bãi chiến trường này, còn cô..."
 
-Ruth xua xua tay nói: "Tôi biết, tôi biết, tôi cũng sắp phải quay về Chủ Thần Không Gian rồi mà? Nhưng nhờ phúc của anh, tôi đã kiếm được một khoản khoản tiền lớn. Sau khi về tôi sẽ chuyên tâm vào các nhánh phụ của các không gian thử luyện, kiếm lấy Chi tuyến kịch tình để phục hoạt đồng đội của mình, hơn nữa còn có thể đổi rất nhiều thứ, ví dụ như Cửu U Tuyền Thủy. Tôi dự định sẽ đổi thêm mười giọt nữa, như vậy tôi mới coi là Ác ma cao cấp thực thụ. Lần sau khi anh triệu hoán tôi, tôi sẽ giúp được anh nhiều hơn. Cho nên anh phải sống tốt đấy nhé."
+Ruth xua xua tay nói: "Tôi biết, tôi biết, tôi cũng sắp phải quay về Chủ Thần Không Gian rồi mà? Nhưng nhờ phúc của anh, tôi đã kiếm được một khoản khoản tiền lớn. Sau khi về tôi sẽ chuyên tâm vào các nhánh phụ của các không gian thử luyện, kiếm lấy Cốt truyện phụ để phục hoạt đồng đội của mình, hơn nữa còn có thể đổi rất nhiều thứ, ví dụ như Cửu U Tuyền Thủy. Tôi dự định sẽ đổi thêm mười giọt nữa, như vậy tôi mới coi là Ác ma cao cấp thực thụ. Lần sau khi anh triệu hoán tôi, tôi sẽ giúp được anh nhiều hơn. Cho nên anh phải sống tốt đấy nhé."
 
 Ngô Minh cũng trịnh trọng nói: "Cô cũng vậy, chỉ nghe cô kể thôi cũng biết không gian thử luyện nguy hiểm vô cùng. Cô tuy là Ác ma cao cấp, nhưng cũng đừng có khinh suất. Còn nữa..."
 
@@ -54,15 +54,15 @@ Vương Vũ và Tiết Ngọc đưa mắt nhìn nhau, Tiết Ngọc liền nói:
 
 Giữa cuộc đối thoại, trong tay Ruth hiện ra một cái chai, Vương Vũ và Tiết Ngọc lập tức há hốc mồm. Ruth cười nói: "Tôi nói thật mà, đây là mười giọt Cửu U Tuyền Thủy, tôi vẫn còn hơn hai vạn sáu ngàn điểm thưởng, giờ thì tin rồi chứ?"
 
-Vương Vũ lập tức hỏi: "Làm sao mà kiếm được nhiều thế? Còn Chi tuyến kịch tình thì sao? Có đủ không?"
+Vương Vũ lập tức hỏi: "Làm sao mà kiếm được nhiều thế? Còn Cốt truyện phụ thì sao? Có đủ không?"
 
 Ruth bắt đầu kể về kỳ ngộ trong mười hai ngày qua, đặc biệt nhắc tới tính cách và cách đối xử của Ngô Minh, cũng như lời nhắc nhở của Chủ Thần về Thiên Mệnh chi tử. Cô không nhắc tới đại lục Hồng Hoang, bởi vì Vương Vũ và Tiết Ngọc đều đến từ thế giới vô ma, họa chăng gã pháp sư Bán Tinh Linh mới biết được đôi chút, chứ hai người này tuyệt đối không thể nào biết được. Nói ra chỉ khiến bọn họ nghĩ ngợi lung tung, nhưng chỉ riêng danh xưng Thiên Mệnh chi tử cũng đã đủ khoa trương rồi, dù chỉ là Thiên Mệnh chi tử của một vị diện bình thường thì thành tựu cũng có thể là Thần thượng Thần.
 
 Ngay lúc này, xung quanh có bảy đạo cột sáng hạ xuống. Sau khi cột sáng biến mất, trên mặt đất nằm lăn lóc bảy nam nữ, đều là nhân loại, có già có trẻ, trông có vẻ đều đến từ các thế giới vô ma bình thường.
 
-Vương Vũ hít sâu một hơi nói: "Có được kỳ ngộ này, không gian thử luyện lần này chúng ta sẽ chuyên tìm Chi tuyến kịch tình. Cô là Ác ma cao cấp, chắc hẳn sẽ có thêm một số năng lực rồi..."
+Vương Vũ hít sâu một hơi nói: "Có được kỳ ngộ này, không gian thử luyện lần này chúng ta sẽ chuyên tìm Cốt truyện phụ. Cô là Ác ma cao cấp, chắc hẳn sẽ có thêm một số năng lực rồi..."
 
-Tiết Ngọc và Ruth đều gật đầu. Họ cũng xem qua không gian thử luyện, cái tên mới xuất hiện là "Tử Tịch" (Chết Chóc Im Lìm), nghĩ chắc cũng là một thế giới cực kỳ kinh hoàng và nguy hiểm. Nhưng đúng như Vương Vũ nói, trên vai họ gánh vác mạng sống của các đồng đội, cộng thêm việc Ruth đã là Ác ma cao cấp, lần này dù thế nào họ cũng phải tìm được Chi tuyến kịch tình.
+Tiết Ngọc và Ruth đều gật đầu. Họ cũng xem qua không gian thử luyện, cái tên mới xuất hiện là "Tử Tịch" (Chết Chóc Im Lìm), nghĩ chắc cũng là một thế giới cực kỳ kinh hoàng và nguy hiểm. Nhưng đúng như Vương Vũ nói, trên vai họ gánh vác mạng sống của các đồng đội, cộng thêm việc Ruth đã là Ác ma cao cấp, lần này dù thế nào họ cũng phải tìm được Cốt truyện phụ.
 
 "Sống sót, chúng ta cùng nhau sống sót! Sau đó..."
 

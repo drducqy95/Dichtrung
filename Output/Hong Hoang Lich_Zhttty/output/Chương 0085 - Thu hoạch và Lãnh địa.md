@@ -4,7 +4,7 @@ Khi Ngô Minh tỉnh lại, thời gian đã trôi qua năm ngày năm đêm. Th
 
 "Tộc Tinh Linh chắc chắn sẽ suy tàn thôi. Nói một câu không lọt tai thì hiện tại tộc Tinh Linh đang đối mặt với không ít khủng hoảng đâu."
 
-Amor dùng giọng điệu đàm tiếu nói: "Chẳng nói đâu xa, tộc Tinh Linh xếp hạng thứ hai mươi trên lục địa Hồng Hoang, nhưng ngoài việc có một vị Cao vị Thánh vị chống lưng ra, còn điểm gì đáng để xưng tụng nữa không? Ma pháp? Ma pháp Mê tỏa (Mythal)? Đừng đùa chứ. Nếu chỉ luận về ma pháp, không tính đến chiến lực của Thánh vị, thì ma pháp của tộc Tinh Linh liệu có so được với công nghệ Ma đạo của tộc Địa linh không? Hoàn toàn là đối tượng bị nghiền nát nhé."
+Amor dùng giọng điệu đàm tiếu nói: "Chẳng nói đâu xa, tộc Tinh Linh xếp hạng thứ hai mươi trên lục địa Hồng Hoang, nhưng ngoài việc có một vị Cao vị Thánh vị chống lưng ra, còn điểm gì đáng để xưng tụng nữa không? Ma pháp? Ma pháp Mê tỏa? Đừng đùa chứ. Nếu chỉ luận về ma pháp, không tính đến chiến lực của Thánh vị, thì ma pháp của tộc Tinh Linh liệu có so được với công nghệ Ma đạo của tộc Địa linh không? Hoàn toàn là đối tượng bị nghiền nát nhé."
 
 "Mặc dù có Cao vị Thánh vị, nhưng kẻ thù của tộc Tinh Linh lại quá nhiều. Chính vì có cái gọi là ma pháp cử thế vô song như các người nói, nên mới tỏ ra kiêu ngạo như vậy. Chỉ riêng những kẻ thù mà em thấy qua trong sách vở, ít nhất cũng có các tộc của Tứ Đại Ngục (Bốn đại ngục), tộc Thú Nhân, tộc Viêm Ma... mấy tộc này chẳng có tộc nào là dễ chọc vào cả. Lại tính thêm kẻ thù bên trong, ví dụ như trong sách có nhắc tới việc tộc Tinh Linh từng vì sự tham lam của tộc Rồng mà từ chối cho tộc Rồng vào rừng rậm cư trú. Tuy rằng tộc Rồng cuối cùng đã nhượng bộ, nhưng các người nghĩ là tộc Rồng sợ sao? Không, trong tộc Rồng có người thông minh đấy, tộc Tinh Linh quả thực đang tự làm tự chịu (đang "tác")!"
 
@@ -22,9 +22,9 @@ Ngô Minh nghe ra được sự quan tâm trong lời nói lạnh nhạt của K
 
 Khô Lâu ma pháp sư lại tưởng rằng hắn đã sợ, vì sợ làm thui chột lòng tự tin của vị đệ tử thiên tài này, nó suy nghĩ một chút rồi nói: "Nhưng ngươi cũng coi như có duyên, cư nhiên có được kỳ ngộ thế này... Ngươi hãy đưa Amor rời đi trước đi, đừng để người khác phải đợi lâu."
 
-"Người... khác thực sự không nên để họ đợi." Ngô Minh định hỏi "người khác" là ai, nhưng lời đến cửa miệng đã bị hắn bẻ lái đi. Hắn gật đầu, miễn cưỡng đứng dậy, vẫn cảm thấy đầu óc choáng váng. Hắn lắc đầu liên tục mấy cái, lúc này mới cùng Amor bước ra khỏi Ma Pháp Tháp.
+"Người... khác thực sự không nên để họ đợi." Ngô Minh định hỏi "người khác" là ai, nhưng lời đến cửa miệng đã bị hắn bẻ lái đi. Hắn gật đầu, miễn cưỡng đứng dậy, vẫn cảm thấy đầu óc choáng váng. Hắn lắc đầu liên tục mấy cái, lúc này mới cùng Amor bước ra khỏi Tháp Ma Pháp.
 
-Lúc chuẩn bị ra khỏi tháp, Khô Lâu ma pháp sư nói thêm: "Ngày mai nhớ tới chỗ ta, Tổ sư muốn gặp ngươi. Hơn nữa, lãnh địa của ngươi đã được phê duyệt rồi, ngày mai ta sẽ thuận tiện đưa ngươi đi xem lãnh địa luôn." Nói xong, nó trực tiếp xoay người bước lên Ma Pháp Tháp.
+Lúc chuẩn bị ra khỏi tháp, Khô Lâu ma pháp sư nói thêm: "Ngày mai nhớ tới chỗ ta, Tổ sư muốn gặp ngươi. Hơn nữa, lãnh địa của ngươi đã được phê duyệt rồi, ngày mai ta sẽ thuận tiện đưa ngươi đi xem lãnh địa luôn." Nói xong, nó trực tiếp xoay người bước lên Tháp Ma Pháp.
 
 Ngô Minh và Amor cũng im lặng, hai người nhanh chân trở về nơi trú ngụ của Ngô Minh. Đến nơi, Amor lười biếng nằm vật xuống sàn nhà, thở hắt ra một hơi: "Ở cùng phụ nữ phiền phức thật đấy, cứ phải giả vờ ngoan ngoãn mãi. Mà này, anh Ngô Minh, lần này anh quả thực là ghê gớm rồi đấy."
 
@@ -36,11 +36,11 @@ Amor ngáp một cái đáp: "Năm ngày rồi, ừm, tròn năm ngày."
 
 Lòng Ngô Minh lập tức thắt lại. Phải biết rằng hắn triệu hoán Amor mỗi ngày tiêu tốn hơn một trăm điểm thưởng. Hắn lập tức kiểm tra phần thưởng của Chủ Thần, vừa nhìn qua cả người liền ngây dại. Không phải vì điểm thưởng đã cạn sạch, mà là nó nhiều hơn so với tưởng tượng của hắn rất nhiều!!
 
-Trước khi bố trí U Minh Địa Phủ Huyết Hải Trận, hắn còn dư hơn ba nghìn điểm thưởng, mà hiện tại hắn cư nhiên có tới hơn mười bảy nghìn điểm thưởng! Đồng thời bên cạnh còn có một chữ cái to đùng đầy thánh thiện: "Chi tuyến kịch tình cấp C" (C-level sub-plot index)!!
+Trước khi bố trí U Minh Địa Phủ Huyết Hải Trận, hắn còn dư hơn ba nghìn điểm thưởng, mà hiện tại hắn cư nhiên có tới hơn mười bảy nghìn điểm thưởng! Đồng thời bên cạnh còn có một chữ cái to đùng đầy thánh thiện: "Cốt truyện phụ cấp C"!!
 
-Nói cách khác, tổng cộng hắn đã nhận được hơn mười bốn nghìn điểm thưởng, cùng với một cái chi tuyến kịch tình cấp C!
+Nói cách khác, tổng cộng hắn đã nhận được hơn mười bốn nghìn điểm thưởng, cùng với một cái cốt truyện phụ cấp C!
 
-Đây là lần đầu tiên Ngô Minh có được chi tuyến kịch tình. Ngoài việc này ra, ước chừng chỉ khi các thành viên Luân Hồi tiểu đội trở thành Vị diện chi tử thì hắn mới có thể nhận được chi tuyến kịch tình từ Chủ Thần Không Gian thôi. Từ đó đủ thấy sự quý giá của cái chi tuyến kịch tình này.
+Đây là lần đầu tiên Ngô Minh có được cốt truyện phụ. Ngoài việc này ra, ước chừng chỉ khi các thành viên Luân Hồi tiểu đội trở thành Vị diện chi tử thì hắn mới có thể nhận được cốt truyện phụ từ Chủ Thần Không Gian thôi. Từ đó đủ thấy sự quý giá của cái cốt truyện phụ này.
 
 Amor nói tiếp: "Cái trận pháp đó của anh lợi hại thật đấy. Một tên Thân vương Huyết tộc, ba tên Công tước Huyết tộc đều chết sạch bên trong. Đây đúng thực là một món vũ khí giết chóc đại chủng loại (Đại sát khí) mà."
 
@@ -76,7 +76,7 @@ Amor khẽ vẫy vẫy tay, sau đó Ngô Minh ngắt kết nối triệu hoán.
 
 Ngô Minh ngồi trơ trọi một mình trong căn nhà. Trong hơi thở của mình, hắn cảm thấy thế giới này thật tốt đẹp biết bao. Một thế giới của những người bình thường không có kẻ trí giả, không có gì tốt hơn thế nữa.
 
-"Tiếp theo chính là Ma Pháp Tháp, sau đó là trạch cho đến khi đạt tới cảnh giới Tiên nhân. Trời đất ơi, hãy để con yên ổn mà trạch đi thôi!!"
+"Tiếp theo chính là Tháp Ma Pháp, sau đó là trạch cho đến khi đạt tới cảnh giới Tiên nhân. Trời đất ơi, hãy để con yên ổn mà trạch đi thôi!!"
 
 Cùng lúc đó, tại sân bay thành phố Kim Hà, Nobihan cùng các nhân viên điều tra chính phủ khởi hành lên máy bay định trở về thủ đô Liên minh Thương nghiệp. Trên máy bay, Nobihan lặng lẽ nhìn ra ngoài cửa sổ, trong đầu lão đột nhiên hiện lên bóng dáng của Ngô Minh.
 

@@ -4,7 +4,7 @@ Lý do khiến Ngô Minh đưa thứ này ra thực chất là một bài kiểm
 
 Thượng Thanh Tru Tiên Công tuy chỉ là một tàn thiên, nhưng lại là công pháp Tu chân thực sự. Chỉ là công pháp này có chút đặc thù nên mới gọi là tàn thiên, đó là nó có thể "học phát dùng luôn".
 
-Tu chân, tu chân, cái gọi là Tu chân mà chính phủ Hồng Hoang Thiên Đình sở hữu không phải là những thứ huyền bí viển vông trong tiểu thuyết, mà là một môn học tương tự như khoa học. Toàn bộ Tu chân được chia thành rất nhiều môn khoa học nhỏ, hơn nữa không chỉ có thể dựa vào chân nguyên lực để kích phát, mà công pháp Tu chân chính thống nhất thậm chí có thể dùng năng lượng bên ngoài để kích phát sử dụng. Ví dụ như điện năng, thậm chí là sức người, ma lực gì đó thì không cần nói nữa. Nói cách khác, công pháp này đối với bọn họ mà nói chính là "trời sinh một cặp".
+Tu chân, tu chân, cái gọi là Tu chân mà chính phủ Thiên Đình Hồng Hoang sở hữu không phải là những thứ huyền bí viển vông trong tiểu thuyết, mà là một môn học tương tự như khoa học. Toàn bộ Tu chân được chia thành rất nhiều môn khoa học nhỏ, hơn nữa không chỉ có thể dựa vào chân nguyên lực để kích phát, mà công pháp Tu chân chính thống nhất thậm chí có thể dùng năng lượng bên ngoài để kích phát sử dụng. Ví dụ như điện năng, thậm chí là sức người, ma lực gì đó thì không cần nói nữa. Nói cách khác, công pháp này đối với bọn họ mà nói chính là "trời sinh một cặp".
 
 Sau khi ba người giới thiệu xong xuôi, mỗi người đều nhìn vào hạng mục công pháp có thể đổi thưởng. Trong đó Thượng Thanh Chiến Quyền rẻ nhất, Chủ Thần định giá là ba trăm điểm thưởng; Băng Tâm Công là năm trăm điểm thưởng – đây là một bộ công pháp có thể rèn luyện ra nội lực. Và phía trên đó, dôi ra thêm một cái bản Thượng Thanh Tru Tiên Công tàn thiên, định giá là một nghìn năm trăm điểm thưởng.
 
@@ -12,7 +12,7 @@ Anh chàng thư sinh vẫn còn có chút ngơ ngác, nhưng đại hán và bá
 
 Gã đại hán vốn là một quân nhân dày dạn kinh nghiệm sa trường, chẳng biết đã chiến đấu với quân đoàn robot bao nhiêu lần. Hơn nữa thế giới anh ta ở có trình độ khoa học kỹ thuật rất cao (dẫu đã thất lạc nhiều), nhưng về cơ bản vẫn cao hơn trình độ Trái Đất thế kỷ XXI một chút, vũ khí năng lượng gì đó đều có đủ cả. Mà trong Thượng Thanh Tru Tiên Công nói cực kỳ rõ ràng: dùng năng lượng cấu thành bốn phù văn, tổ hợp lại là có thể bộc phát ra uy lực cực lớn. Còn lớn đến mức nào thì trên đó không đề cập, nhưng ít nhất đây cũng là một tia hy vọng phải không?
 
-Bán tinh linh là học đồ pháp sư, cũng từng học qua Ma pháp Phù văn học. Nhưng Ma pháp Phù văn học thường dùng để khảm nạm (enchant), còn loại dùng phù văn trực tiếp bộc phát ra uy lực lớn như thế này, hắn thực sự là nghe mà chưa từng thấy qua.
+Bán tinh linh là học đồ pháp sư, cũng từng học qua Ma pháp Phù văn học. Nhưng Ma pháp Phù văn học thường dùng để khảm nạm, còn loại dùng phù văn trực tiếp bộc phát ra uy lực lớn như thế này, hắn thực sự là nghe mà chưa từng thấy qua.
 
 Hai người xem xong liền nhìn nhau, sau đó cùng hướng mắt về phía anh chàng thư sinh kia.
 

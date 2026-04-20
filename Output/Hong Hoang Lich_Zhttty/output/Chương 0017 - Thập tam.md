@@ -12,15 +12,15 @@ Nhân loại này vóc dáng cao lớn, cơ bắp cuồn cuộn, trông không g
 
 Khi đại hán vừa bước vào đỉnh núi, lập tức đón mặt là một luồng khí tức ấm áp. Nơi này không hề có tuyết trắng, mặt đất đầy rẫy cỏ xanh. Đại hán nhìn thấy phía trước có một chiếc bàn, sau bàn có hai người đang ngồi đọc báo.
 
-Mắt đại hán sáng lên, lập tức cười lớn tiến lại gần. Hai người kia cũng không hề kinh ngạc, sau khi thấy đại hán lại gần, người lớn tuổi hơn trong hai người liền lên tiếng: "Tra (Zha), cuối cùng ngươi cũng tới."
+Mắt đại hán sáng lên, lập tức cười lớn tiến lại gần. Hai người kia cũng không hề kinh ngạc, sau khi thấy đại hán lại gần, người lớn tuổi hơn trong hai người liền lên tiếng: "Tra, cuối cùng ngươi cũng tới."
 
 Đại hán cười nói: "Thật chẳng dễ dàng gì, 'Khứ tử khứ tử đoàn' các ngươi đúng là khó tìm. Đây đã là lần thứ ba rồi, hy vọng các ngươi có thể giữ đúng lời hứa."
 
-Người lớn tuổi kia trước tiên gật đầu, sau đó lại lắc đầu nói: "Lời nói đã nói rất rõ ràng rồi. Còn nữa, chúng ta không phải 'Khứ tử khứ tử đoàn', hoặc giả nói thời đại này là một trong những mạch chính của 'Khứ tử khứ tử đoàn', nhưng tương lai rốt cuộc sẽ không phải. Chúng ta là 'Thật sự đích Lịch sử' (Real History)."
+Người lớn tuổi kia trước tiên gật đầu, sau đó lại lắc đầu nói: "Lời nói đã nói rất rõ ràng rồi. Còn nữa, chúng ta không phải 'Khứ tử khứ tử đoàn', hoặc giả nói thời đại này là một trong những mạch chính của 'Khứ tử khứ tử đoàn', nhưng tương lai rốt cuộc sẽ không phải. Chúng ta là 'Thật sự đích Lịch sử'."
 
 "Phải phải phải, 'Thật sự đích Lịch sử'." Đại hán cười ha hả, mang theo vẻ khẩn cầu nói: "Cho ta xem văn bản lịch sử một chút đi, chính là văn bản lịch sử của thời đại chúng ta. Ta ngưỡng mộ 'Thật sự đích Lịch sử' các ngươi đã lâu, các ngươi thực sự quá tuyệt vời, thật đấy, ta thề."
 
-Người lớn tuổi xoa xoa thái dương nói: "Đừng, đừng như vậy, Tra, ngươi không hợp để nịnh nọt đâu. Với lại, không phải ta không cho ngươi xem, chỉ là ngươi dù sao cũng không phải là nhân viên ghi chép lịch sử. Chưa bàn tới việc có thể cho ngươi xem hay không, mà ngay cả khi ngươi đã xem qua thì cũng vô dụng thôi. Hơn nữa, giống như mười ba người các ngươi suy đoán, thời đại này không đúng, cho nên đừng làm khó chúng ta nữa. Ngay từ đầu đã nói tốt rồi, ngươi tìm thấy chúng ta ba lần, chúng ta sẽ đáp ứng các ngươi một yêu cầu không liên quan đến lịch sử, coi như bù đắp cho nhân quả lịch sử không đúng của thời đại này. Lúc trước Cốt chẳng phải đã nhắm trúng 'Lò phản ứng cấp năng lượng dây vũ trụ siêu tần' (Over-frequency Cosmic String Energy Response Pile) sao? Ta đứng ra quyết định đưa bản thiết kế cho các ngươi, có được không?"
+Người lớn tuổi xoa xoa thái dương nói: "Đừng, đừng như vậy, Tra, ngươi không hợp để nịnh nọt đâu. Với lại, không phải ta không cho ngươi xem, chỉ là ngươi dù sao cũng không phải là nhân viên ghi chép lịch sử. Chưa bàn tới việc có thể cho ngươi xem hay không, mà ngay cả khi ngươi đã xem qua thì cũng vô dụng thôi. Hơn nữa, giống như mười ba người các ngươi suy đoán, thời đại này không đúng, cho nên đừng làm khó chúng ta nữa. Ngay từ đầu đã nói tốt rồi, ngươi tìm thấy chúng ta ba lần, chúng ta sẽ đáp ứng các ngươi một yêu cầu không liên quan đến lịch sử, coi như bù đắp cho nhân quả lịch sử không đúng của thời đại này. Lúc trước Cốt chẳng phải đã nhắm trúng 'Lò phản ứng cấp năng lượng dây vũ trụ siêu tần' sao? Ta đứng ra quyết định đưa bản thiết kế cho các ngươi, có được không?"
 
 Sắc mặt đại hán lập tức biến đổi, lớn tiếng nói: "Không đổi! Ta chỉ muốn xem lịch sử chân thực! Chẳng lẽ duy trì tính chân thực của lịch sử không phải là nhiệm vụ của các ngươi sao? Các ngươi cũng biết lịch sử không đúng, vậy tại sao không đi sửa đổi!? Tóm lại hoặc là sửa đổi lịch sử, hoặc là để ta xem văn bản lịch sử chân thực!"
 
@@ -32,9 +32,9 @@ Nhất thời cả hai người đều khổ cười. Bỗng nhiên, có một l
 
 "Ta..."
 
-Lão đầu râu trắng chăm chú nhìn Tra, ông khẽ thở dài trong lòng rồi nói: "Rời đi thôi, Tra, chuyện này chúng ta không làm được. Ta thay mặt quyết định, đưa cho các ngươi một bản thiết kế 'Lò phản ứng cấp năng lượng dây vũ trụ siêu tần', lại cho thêm các ngươi một gốc Thế Giới Thụ con (World Tree sapling)..."
+Lão đầu râu trắng chăm chú nhìn Tra, ông khẽ thở dài trong lòng rồi nói: "Rời đi thôi, Tra, chuyện này chúng ta không làm được. Ta thay mặt quyết định, đưa cho các ngươi một bản thiết kế 'Lò phản ứng cấp năng lượng dây vũ trụ siêu tần', lại cho thêm các ngươi một gốc Thế Giới Thụ con..."
 
-Bỗng nhiên đúng lúc này, không gian phía sau ba người lại có dao động thời không truyền tới. Ba người còn chưa kịp phản ứng, đã thấy một thanh niên nước mắt đầm đìa xông ra, đồng thời gào thét lớn: "Tra! Cạm bẫy nằm ngay trên chính bản thân các ngươi, cả mười ba người các ngươi đều bắt buộc phải chết! Còn nữa, hãy ghi nhớ, trong Vĩnh Dạ, duỗi tay mới không thấy năm ngón! Hãy nói cho Cửu Đầu (Jiutou)..."
+Bỗng nhiên đúng lúc này, không gian phía sau ba người lại có dao động thời không truyền tới. Ba người còn chưa kịp phản ứng, đã thấy một thanh niên nước mắt đầm đìa xông ra, đồng thời gào thét lớn: "Tra! Cạm bẫy nằm ngay trên chính bản thân các ngươi, cả mười ba người các ngươi đều bắt buộc phải chết! Còn nữa, hãy ghi nhớ, trong Vĩnh Dạ, duỗi tay mới không thấy năm ngón! Hãy nói cho Cửu Đầu..."
 
 Thanh niên vừa bắt đầu nói chuyện, hình bóng của hắn đã bắt đầu dần trở nên hư ảo. Khi nói tới hai chữ 'Cửu Đầu', hắn đã thoắt ẩn thoắt hiện, giống như tín hiệu điện tử có thể biến mất bất cứ lúc nào. Lão đầu râu trắng quát lớn mấy tiếng 'Lý Minh câm miệng', đồng thời lập tức vung tay điểm một cái. Thời không lập tức vặn xoắn biến đổi, khi Tra hoàn hồn lại thì đã thấy mình đang đứng ở rìa Thiên Đống nguyên.
 
@@ -66,7 +66,7 @@ Lúc này, Tra bèn hỏi: "Suy đoán gì? Ngươi mau nói đi, chết tiệt,
 
 Giọng nói đó đáp: "Hãy gọi ta là Xa Can. Ta sinh ra ở bộ lạc Xa, tên là Can, đừng gọi ta một chữ duy nhất. Ví dụ như bộ lạc ngươi sinh ra là Trì, ngươi nên được gọi là Trì Tra... Suy đoán này khiến người ta tuyệt vọng, nên không nói cũng được."
 
-Một số khối ánh sáng khác liền không bằng lòng, một trong số đó nói: "Tuyệt vọng đến mấy thì có tuyệt vọng hơn tình cảnh hiện tại của nhân tộc chúng ta không? Ta hiện tại đang ở vùng Hoang Vu bình nguyên, các tộc Thú nhân lại đang dấy binh giao chiến với tộc Tinh Linh, một cuộc đại tàn sát lại bắt đầu rồi. Những bộ lạc nhân loại mười phần thì bị rút đi bảy phần để làm lương thực cho quân đội, ngươi có biết là bao nhiêu người bị giết không? Trong đó tộc người Nhật (Sun tribe) đông dân nhất còn bị tuyên bố diệt tộc vì trốn chạy một chút, toàn bộ bộ lạc đều bị thảm sát, chỉ có một ít người tộc Nhật trốn vào được lãnh địa của tộc Tinh Linh, ở bên đó hy vọng tốt nhất của họ cũng chỉ là làm nô lệ... Hãy nói ra suy đoán đó đi, dù có tuyệt vọng thì ít nhất cũng để chúng ta hiểu rõ."
+Một số khối ánh sáng khác liền không bằng lòng, một trong số đó nói: "Tuyệt vọng đến mấy thì có tuyệt vọng hơn tình cảnh hiện tại của nhân tộc chúng ta không? Ta hiện tại đang ở vùng Hoang Vu bình nguyên, các tộc Thú nhân lại đang dấy binh giao chiến với tộc Tinh Linh, một cuộc đại tàn sát lại bắt đầu rồi. Những bộ lạc nhân loại mười phần thì bị rút đi bảy phần để làm lương thực cho quân đội, ngươi có biết là bao nhiêu người bị giết không? Trong đó tộc người Nhật đông dân nhất còn bị tuyên bố diệt tộc vì trốn chạy một chút, toàn bộ bộ lạc đều bị thảm sát, chỉ có một ít người tộc Nhật trốn vào được lãnh địa của tộc Tinh Linh, ở bên đó hy vọng tốt nhất của họ cũng chỉ là làm nô lệ... Hãy nói ra suy đoán đó đi, dù có tuyệt vọng thì ít nhất cũng để chúng ta hiểu rõ."
 
 Các khối ánh sáng đều trầm mặc, Xa Can cũng trầm mặc một lát, lúc này mới lên tiếng: "Trước đây ta luôn có một suy đoán mơ hồ, cho đến lần này Tra mang thông tin này về, ta mới thực sự có chút khẳng định... Nhân loại chúng ta thực ra đã thành công trỗi dậy mười ba lần. Mười ba lần chúng ta đều có thể đã thành công rồi. Hoặc là nhân loại chúng ta đã có Thánh vị bảo hộ tộc quần, hoặc là nhân loại chúng ta đã gia nhập vào Hồng Hoang vạn tộc, thậm chí có thể nhân loại chúng ta đã trở nên mạnh mẽ hơn. Mười ba lần đều thành công, nhưng cũng đều thất bại."
 
@@ -90,6 +90,6 @@ Tra bực tức nói: "Vậy có cách nào để giải quyết bàn tay đen s
 
 Xa Can trầm mặc, hồi lâu sau mới nói: "Trong Vĩnh Dạ, duỗi tay mới không thấy năm ngón sao? Có lẽ..."
 
-Đúng lúc này, Cốt bỗng nhiên lên tiếng: "Chúng ta cần một người có thể che giấu (shield) khỏi Thiên đạo. Che giấu khỏi Thiên đạo, kẻ đó ở giữa thiên địa này sẽ tương đương với việc không tồn tại. Ta không biết bàn tay đen sau màn kia dựa vào cái gì để thay đổi số phận nhân loại chúng ta, nhưng chuyện này tuyệt đối có quan hệ mật thiết với Thiên đạo. Cho nên bước đầu tiên, chúng ta cần tìm một người có thể che giấu khỏi Thiên đạo..."
+Đúng lúc này, Cốt bỗng nhiên lên tiếng: "Chúng ta cần một người có thể che giấu khỏi Thiên đạo. Che giấu khỏi Thiên đạo, kẻ đó ở giữa thiên địa này sẽ tương đương với việc không tồn tại. Ta không biết bàn tay đen sau màn kia dựa vào cái gì để thay đổi số phận nhân loại chúng ta, nhưng chuyện này tuyệt đối có quan hệ mật thiết với Thiên đạo. Cho nên bước đầu tiên, chúng ta cần tìm một người có thể che giấu khỏi Thiên đạo..."
 
 "Ta biết một người như thế!!"

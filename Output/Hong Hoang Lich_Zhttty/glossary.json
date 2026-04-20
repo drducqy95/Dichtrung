@@ -8,7 +8,7 @@
     "entries": [
         {
             "source": "恶魔小队",
-            "target": "Ác Ma tiểu đội",
+            "target": "Tiểu đội Ác Ma",
             "category": "organization",
             "source_language": "zh",
             "target_language": "vi",
@@ -16,7 +16,7 @@
         },
         {
             "source": "洪荒天庭",
-            "target": "Hồng Hoang Thiên Đình",
+            "target": "Thiên Đình Hồng Hoang",
             "category": "organization",
             "source_language": "zh",
             "target_language": "vi",
@@ -32,7 +32,7 @@
         },
         {
             "source": "心灵之光",
-            "target": "Tâm Linh Chi Quang",
+            "target": "Ánh sáng Tâm Linh",
             "category": "cultivation",
             "source_language": "zh",
             "target_language": "vi",
@@ -48,7 +48,7 @@
         },
         {
             "source": "无底深渊",
-            "target": "Vô Đáy Thâm Uyên",
+            "target": "Thâm Uyên Không Đáy",
             "category": "location",
             "source_language": "zh",
             "target_language": "vi",
@@ -88,7 +88,7 @@
         },
         {
             "source": "魔法塔",
-            "target": "Ma Pháp Tháp",
+            "target": "Tháp Ma Pháp",
             "category": "location",
             "source_language": "zh",
             "target_language": "vi",
@@ -104,7 +104,7 @@
         },
         {
             "source": "西兰",
-            "target": "Tây Lan",
+            "target": "Zion",
             "category": "location",
             "source_language": "zh",
             "target_language": "vi",
@@ -112,7 +112,7 @@
         },
         {
             "source": "大伊万",
-            "target": "Đại Y Vạn",
+            "target": "Tsar Bomba",
             "category": "weapon",
             "source_language": "zh",
             "target_language": "vi",
@@ -152,7 +152,7 @@
         },
         {
             "source": "中洲队",
-            "target": "Trung Châu đội",
+            "target": "Đội Trung Châu",
             "category": "organization",
             "source_language": "zh",
             "target_language": "vi",
@@ -176,7 +176,7 @@
         },
         {
             "source": "罗莉",
-            "target": "La Lỵ",
+            "target": "Lori",
             "category": "character",
             "source_language": "zh",
             "target_language": "vi",
@@ -184,7 +184,7 @@
         },
         {
             "source": "养殖者小队",
-            "target": "Dưỡng thực giả tiểu đội",
+            "target": "Tiểu đội Dưỡng Thực Giả",
             "category": "organization",
             "source_language": "zh",
             "target_language": "vi",
@@ -192,7 +192,7 @@
         },
         {
             "source": "人狼",
-            "target": "Nhân lang",
+            "target": "Người Sói",
             "category": "creature",
             "source_language": "zh",
             "target_language": "vi",
@@ -224,7 +224,7 @@
         },
         {
             "source": "狄拉克海",
-            "target": "Điroc hải",
+            "target": "Biển Dirac",
             "category": "science_fantasy",
             "source_language": "zh",
             "target_language": "vi",
@@ -232,7 +232,7 @@
         },
         {
             "source": "假心灵之光",
-            "target": "Giả Tâm Linh Chi Quang",
+            "target": "Ánh Sáng Tâm Linh (Giả)",
             "category": "cultivation",
             "source_language": "zh",
             "target_language": "vi",
@@ -272,7 +272,7 @@
         },
         {
             "source": "闪华七骑士",
-            "target": "Thiểm Hoa Thất Kỵ Sĩ",
+            "target": "Bảy Kỵ Sĩ Thiểm Hoa",
             "category": "organization",
             "source_language": "zh",
             "target_language": "vi",
@@ -280,7 +280,7 @@
         },
         {
             "source": "传奇战役",
-            "target": "Truyền kỳ chiến dịch",
+            "target": "Chiến dịch Truyền Kỳ",
             "category": "event",
             "source_language": "zh",
             "target_language": "vi",
@@ -330,7 +330,7 @@
         },
         {
             "source": "地精族",
-            "target": "Địa tinh tộc",
+            "target": "tộc Gnome",
             "category": "worldbuilding",
             "source_language": "zh",
             "target_language": "vi"
@@ -344,14 +344,14 @@
         },
         {
             "source": "洪荒世界",
-            "target": "Hồng Hoang Thế Giới",
+            "target": "Thế Giới Hồng Hoang",
             "category": "worldbuilding",
             "source_language": "zh",
             "target_language": "vi"
         },
         {
             "source": "玄黄舰",
-            "target": "Huyền Hoàng hạm",
+            "target": "Hạm Huyền Hoàng",
             "category": "worldbuilding",
             "source_language": "zh",
             "target_language": "vi"
@@ -449,21 +449,21 @@
         },
         {
             "source": "太清学府",
-            "target": "Thái Thanh học phủ",
+            "target": "Học phủ Thái Thanh",
             "category": "worldbuilding",
             "source_language": "zh",
             "target_language": "vi"
         },
         {
             "source": "玉清学府",
-            "target": "Ngọc Thanh học phủ",
+            "target": "Học phủ Ngọc Thanh",
             "category": "worldbuilding",
             "source_language": "zh",
             "target_language": "vi"
         },
         {
             "source": "上清学府",
-            "target": "Thượng Thanh học phủ",
+            "target": "Học phủ Thượng Thanh",
             "category": "worldbuilding",
             "source_language": "zh",
             "target_language": "vi"
@@ -491,14 +491,14 @@
         },
         {
             "source": "青灰色巨狼",
-            "target": "Thanh hôi cự lang",
+            "target": "Sói xám xanh",
             "category": "creature",
             "source_language": "zh",
             "target_language": "vi"
         },
         {
             "source": "孤狼",
-            "target": "Cô lang",
+            "target": "Sói cô độc",
             "category": "creature",
             "source_language": "zh",
             "target_language": "vi"
@@ -512,7 +512,7 @@
         },
         {
             "source": "光辉之战",
-            "target": "Quang Huy Chi Chiến",
+            "target": "Chiến dịch Quang Huy",
             "category": "event",
             "source_language": "zh",
             "target_language": "vi"
@@ -547,7 +547,7 @@
         },
         {
             "source": "西兰之城",
-            "target": "Thành phố Tây Lan",
+            "target": "Thành phố Zion",
             "category": "location",
             "source_language": "zh",
             "target_language": "vi"
@@ -596,7 +596,7 @@
         },
         {
             "source": "支线剧情",
-            "target": "Chi tuyến kịch tình",
+            "target": "Cốt truyện phụ",
             "category": "action",
             "source_language": "zh",
             "target_language": "vi"
@@ -743,7 +743,7 @@
         },
         {
             "source": "高等地精",
-            "target": "Hậu Địa Tinh",
+            "target": "Địa Tinh Cao Cấp",
             "type": "race",
             "note": "Higher Goblin"
         },
@@ -761,7 +761,7 @@
         },
         {
             "source": "炽天使长",
-            "target": "Xỉ Thiên Sứ trưởng",
+            "target": "Thiên Sứ Trưởng",
             "type": "title",
             "note": "Seraph"
         },
@@ -769,7 +769,7 @@
             "source": "捧杀",
             "target": "Bồng sát",
             "type": "idiom",
-            "note": "Pushed to kill/Tâng bốc quá mức để hại"
+            "note": "Tâng bốc quá mức để hại"
         },
         {
             "source": "子牙",
@@ -779,7 +779,7 @@
         },
         {
             "source": "血沸战士",
-            "target": "Huyết Phí chiến sĩ",
+            "target": "Chiến sĩ Huyết Phí",
             "type": "rank",
             "note": "Blood Boiling Warrior"
         },
@@ -797,7 +797,7 @@
         },
         {
             "source": "死魔法场",
-            "target": "Tử ma pháp trường",
+            "target": "Pháp trường Tử Ma",
             "type": "term",
             "note": "Dead Magic Field"
         },
@@ -839,13 +839,13 @@
         },
         {
             "source": "血族牧场",
-            "target": "Huyết tộc mục trường",
+            "target": "Trang trại Huyết tộc",
             "type": "term",
             "note": "Blood Clan Ranch"
         },
         {
             "source": "铁山城",
-            "target": "Thiết Sơn thành",
+            "target": "Thành phố Thiết Sơn",
             "type": "location",
             "note": "Iron Mountain City"
         },
@@ -863,7 +863,7 @@
         },
         {
             "source": "命运之子",
-            "target": "Mệnh vận chi tử",
+            "target": "Con của Định Mệnh",
             "type": "term",
             "note": "Son of Destiny"
         },
@@ -911,19 +911,19 @@
         },
         {
             "source": "置之死地而后生",
-            "target": "Trí chi tử địa nhi hậu sinh",
+            "target": "Đặt mình vào chỗ chết rồi mới sống",
             "type": "idiom",
-            "note": "Put oneself in a death trap to find life"
+            "note": "Đặt mình vào chỗ chết rồi mới sống"
         },
         {
             "source": "警督",
             "target": "Cảnh đốc",
             "type": "rank",
-            "note": "Police Superintendent"
+            "note": "Cảnh sát trưởng"
         },
         {
             "source": "人马族",
-            "target": "Nhân mã tộc",
+            "target": "tộc Nhân mã",
             "type": "race",
             "note": "Centaur"
         },
@@ -935,75 +935,75 @@
         },
         {
             "source": "实封领地",
-            "target": "Thực phong lãnh địa",
+            "target": "Lãnh địa thực phong",
             "type": "term",
             "note": "Full feudal territory"
         },
         {
             "source": "虚封领地",
-            "target": "Hư phong lãnh địa",
+            "target": "Lãnh địa hư phong",
             "type": "term",
             "note": "Nominal/Symbolic territory"
         },
         {
             "source": "直辖领地",
-            "target": "Trực hạt lãnh địa",
+            "target": "Lãnh địa trực hạt",
             "type": "term",
             "note": "Directly-governed territory"
         },
         {
             "source": "道韵反应堆",
-            "target": "Đạo vận phản ứng đôi",
+            "target": "Lò phản ứng Đạo vận/Đạo Vận Phản Ứng Đồ",
             "type": "item",
             "note": "Dao-rhyme Reactor"
         },
         {
             "source": "乾坤接收器",
-            "target": "Càn Khôn tiếp thụ khí",
+            "target": "Máy thu Càn Khôn/Càn Khôn Tiếp Thu Khí",
             "type": "item",
-            "note": "Qiankun Receiver"
+            "note": "Máy thu Càn Khôn"
         },
         {
             "source": "万象天引仪",
-            "target": "Vạn Tượng Thiên Dẫn nghi",
+            "target": "Máy dẫn Vạn Tượng/Vạn Tượng Thiên Dẫn Nghi",
             "type": "item",
-            "note": "Universal Heaven-Induction Instrument"
+            "note": "Máy dẫn Vạn Tượng"
         },
         {
             "source": "八卦符文固化设备",
-            "target": "Bát quái phù văn cố hóa thiết bị",
+            "target": "Thiết bị cố định Bát quái phù văn",
             "type": "item",
-            "note": "Eight Trigrams Rune Solidification Device"
+            "note": "Thiết bị cố định Bát quái phù văn"
         },
         {
             "source": "天都紫火炉",
-            "target": "Thiên Đô Tử Hỏa lô",
+            "target": "Lò Tử Hỏa Thiên Đô/Thiên Đô Tử Hỏa Lô",
             "type": "item",
-            "note": "Heavenly Purple Fire Furnace"
+            "note": "Lò Tử Hỏa Thiên Đô"
         },
         {
             "source": "玄黄青火炉",
-            "target": "Huyền Hoàng Thanh Hỏa lô",
+            "target": "Lò Thanh Hỏa Huyền Hoàng/Huyền Hoàng Thanh Hỏa Lô",
             "type": "item",
-            "note": "Xuanhuang Cyan Fire Furnace"
+            "note": "Lò Thanh Hỏa Huyền Hoàng"
         },
         {
             "source": "荒古黄火炉",
-            "target": "Hoang Cổ Hoàng Hỏa lô",
+            "target": "Lò Hoàng Hỏa Hoang Cổ/Hoang Cổ Hoàng Hỏa Lô",
             "type": "item",
-            "note": "Ancient Yellow Fire Furnace"
+            "note": "Lò Hoàng Hỏa Hoang Cổ"
         },
         {
             "source": "天地玄黄炮",
-            "target": "Pháo Thiên Địa Huyền Hoàng",
+            "target": "Pháo Thiên Địa Huyền Hoàng/Thiên Địa Huyền Hoàng Pháo",
             "type": "weapon",
-            "note": "Heaven and Earth Xuanhuang Cannon"
+            "note": "Pháo Thiên Địa Huyền Hoàng"
         },
         {
             "source": "多炮塔神教",
-            "target": "Đa Pháo Tháp Thần giáo",
+            "target": "Giáo phái Đa Pháo Tháp",
             "type": "term",
-            "note": "Multi-turret Religion/Cult"
+            "note": "Giáo phái Đa Pháo Tháp"
         },
         {
             "source": "黄巾力士",
@@ -1091,7 +1091,7 @@
         },
         {
             "zh": "基因锁",
-            "vi": "Gen Tỏa",
+            "vi": "Khóa Gen",
             "en": "Gene Lock",
             "desc": "Khái niệm then chốt trong vũ trụ Zhttty, chỉ việc phá vỡ giới hạn gen nhân loại để bộc phát sức mạnh và bản năng chiến đấu."
         },
@@ -1379,13 +1379,13 @@
         },
         {
             "zh": "地灵族",
-            "vi": "Gnome tộc / Địa Linh tộc",
+            "vi": "tộc Gnome",
             "en": "Gnome race",
             "desc": "Scientific-magical race, creators of Gnomish technology"
         },
         {
             "zh": "天蛇族",
-            "vi": "Thiên Xà tộc",
+            "vi": "tộc Thiên Xà",
             "en": "Heavenly Snake race",
             "desc": "Biotech advanced race, twins of Gnomes"
         },
@@ -1397,25 +1397,25 @@
         },
         {
             "zh": "苍白之地",
-            "vi": "Thương Bạch chi địa",
+            "vi": "Vùng đất Thương Bạch",
             "en": "White Land",
             "desc": "Metallic wasteland created by Gnomes"
         },
         {
             "zh": "不周山",
-            "vi": "Bất Chu Sơn",
+            "vi": "Bất Chu Sơn/núi Bất Chu",
             "en": "Mount Buzhou",
             "desc": "The Pillar of Heaven"
         },
         {
             "zh": "欧贝利斯克的巨神兵",
-            "vi": "Ô Bối Lợi Tư Khắc chi Cự Thần Binh",
+            "vi": "Cự Thần Binh Obelisk",
             "en": "Obelisk the Tormentor",
             "desc": "Gnomish Titan weapon"
         },
         {
             "zh": "苍白之地",
-            "vi": "Thương Bạch chi Địa",
+            "vi": "Vùng đất Thương Bạch",
             "desc": "Pale Land, where Bất Chu Sơn clues are found."
         },
         {
@@ -1460,7 +1460,7 @@
         },
         {
             "zh": "天启四骑士",
-            "vi": "Thiên Khải Tứ Kỵ Sĩ",
+            "vi": "Bốn Kỵ Sĩ Khải Huyền",
             "desc": "Four Horsemen: War, Death, Famine, Plague."
         },
         {
@@ -1505,7 +1505,7 @@
         },
         {
             "zh": "幽冥骑士",
-            "vi": "U Minh Kỵ Sĩ",
+            "vi": "Kỵ Sĩ U Minh",
             "desc": "Nether Knight."
         },
         {
@@ -1550,7 +1550,7 @@
         },
         {
             "zh": "掠夺者联盟",
-            "vi": "Lược Đoạt Giả Liên Minh",
+            "vi": "Liên minh Lược Đoạt Giả",
             "desc": "Raider Alliance (Orc/Centaur faction)."
         },
         {
@@ -1560,22 +1560,22 @@
         },
         {
             "zh": "道韵反应堆",
-            "vi": "Đạo Vận Phản Ứng Đôi",
-            "desc": "Dao Yun Reactor (Lò phản ứng Đạo vận)."
+            "vi": "(Lò phản ứng Đạo vận)",
+            "desc": "Dao Yun Reactor."
         },
         {
             "zh": "基础身体属性",
-            "vi": "Cơ bản thuộc tính",
+            "vi": "Thuộc tính cơ bản",
             "desc": "Base Attributes."
         },
         {
             "zh": "后天身体属性",
-            "vi": "Hậu thiên thuộc tính",
+            "vi": "Thuộc tính hậu thiên",
             "desc": "Post-natal Attributes."
         },
         {
             "zh": "心灵之光",
-            "vi": "Tâm Linh Chi Quang",
+            "vi": "Ánh Sáng Tâm Linh",
             "desc": "Soul Light / Light of the Soul (4th level Genetic Lock feature)."
         },
         {

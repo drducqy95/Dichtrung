@@ -1,14 +1,14 @@
 # Chương 0137 - Hóa Huyết Thần Uy
 
-Một tiếng "Đao đến", ngay lập tức có dải huyết quang dài mấy trượng bay ngang ra. Chỉ trong một thoáng, huyết quang này đã lướt qua vị trí cách thân máy (mech) một mét. Tức thì, một tầng phòng ngự hình vuông hiện ra chặn trước huyết quang. Huyết quang và tầng phòng ngự này ma sát kịch liệt, nhất thời quang hoa rực rỡ như mặt trời chói lọi.
+Một tiếng "Đao đến", ngay lập tức có dải huyết quang dài mấy trượng bay ngang ra. Chỉ trong một thoáng, huyết quang này đã lướt qua vị trí cách thân máy một mét. Tức thì, một tầng phòng ngự hình vuông hiện ra chặn trước huyết quang. Huyết quang và tầng phòng ngự này ma sát kịch liệt, nhất thời quang hoa rực rỡ như mặt trời chói lọi.
 
 Trước sau chỉ khoảng một giây, huyết quang hơi mờ đi, mà tầng phòng ngự hình vuông kia vẫn kiên cố. Huyết quang này hóa thành cầu vồng, chớp mắt đã trở lại bên cạnh Ngô Minh. Huyết quang tán đi, lộ ra một thanh trường đao màu huyết đỏ, lơ lửng xoay quanh Ngô Minh một cách chậm rãi.
 
-"Hả? AT Field? Tâm Linh Chi Quang? Không, không đúng, là Tâm Linh Chi Quang giả thôi chứ gì!?" Ngô Minh thốt lên một tiếng. Luồng dữ liệu vô tận nhấp nháy trong mắt hắn, tầng phòng hộ hình vuông cách thân mech khoảng một mét kia đã được giải (phân tích) hoàn tất.
+"Hả? AT Field? Ánh sáng Tâm Linh? Không, không đúng, là Ánh sáng Tâm Linh giả thôi chứ gì!?" Ngô Minh thốt lên một tiếng. Luồng dữ liệu vô tận nhấp nháy trong mắt hắn, tầng phòng hộ hình vuông cách thân mech khoảng một mét kia đã được giải (phân tích) hoàn tất.
 
-Đó là một loại Tâm Linh Chi Quang bán thành phẩm tồn tại dựa vào người điều khiển. Không phải là Tâm Linh Chi Quang thực thụ đạt tới cấp bậc bậc bốn trung giai mới lĩnh ngộ được, mà là thông qua một thủ pháp kết hợp giữa công nghệ và ma pháp – một loại kỹ thuật mà ngay cả khi Ngô Minh mở Đạo Vực cũng không thể giải tích ra được, ít nhất là không thể giải tích trong thời gian ngắn. Sau đó, thủ pháp này trích xuất năng lượng từ biển Dirac (Dirac Sea) kết hợp với tâm linh của chính người điều khiển, từ đó tạo ra một loại Tâm Linh Chi Quang loại hình này, hay có thể gọi là Tâm Linh Chi Quang giả.
+Đó là một loại Ánh sáng Tâm Linh bán thành phẩm tồn tại dựa vào người điều khiển. Không phải là Ánh sáng Tâm Linh thực thụ đạt tới cấp bậc bậc bốn trung giai mới lĩnh ngộ được, mà là thông qua một thủ pháp kết hợp giữa công nghệ và ma pháp – một loại kỹ thuật mà ngay cả khi Ngô Minh mở Đạo Vực cũng không thể giải tích ra được, ít nhất là không thể giải tích trong thời gian ngắn. Sau đó, thủ pháp này trích xuất năng lượng từ biển Dirac kết hợp với tâm linh của chính người điều khiển, từ đó tạo ra một loại Ánh sáng Tâm Linh loại hình này, hay có thể gọi là Ánh sáng Tâm Linh giả.
 
-Mặc dù là Tâm Linh Chi Quang giả, nhưng sự kiểm soát Đạo Vực của hắn vẫn không thể gây ảnh hưởng được. Nói cách khác, hắn không thể gây ra bất kỳ ảnh hưởng nào về mặt điện từ trường hay bất kỳ phương diện nào khác đối với nhân viên điều khiển. Thậm chí ngay cả Hóa Huyết Thần Đao cũng không thể chém đứt nó chỉ trong một đao. Đây chính là trình độ công nghệ của Cao Đẳng Địa Tinh sao?
+Mặc dù là Ánh sáng Tâm Linh giả, nhưng sự kiểm soát Đạo Vực của hắn vẫn không thể gây ảnh hưởng được. Nói cách khác, hắn không thể gây ra bất kỳ ảnh hưởng nào về mặt điện từ trường hay bất kỳ phương diện nào khác đối với nhân viên điều khiển. Thậm chí ngay cả Hóa Huyết Thần Đao cũng không thể chém đứt nó chỉ trong một đao. Đây chính là trình độ công nghệ của Cao Đẳng Địa Tinh sao?
 
 "Không đúng, đây là Ma Đạo Khoa Kỹ (Ma đạo công nghệ)! Đây là công nghệ của tộc Địa Linh!"
 
@@ -22,15 +22,15 @@ Một kỹ xảo tu chân của một nhánh trong các tu chân giả phi chín
 
 "Kiếm Khí Lôi Âm!" (Kiếm khí tiếng sấm)
 
-Trong một sát na, Hóa Huyết Thần Đao một lần nữa hóa thành huyết quang dài mấy trượng. Lấy phía chính diện Ngô Minh làm trung tâm, một tiếng sấm nổ vang lên. Mọi người còn chưa kịp nhìn ra điều gì, dao động và sức mạnh to lớn đã trực tiếp thổi bay tất cả mọi người. Ngay cả Tử Nha (Ziya) cũng bị thổi bay xa tới trăm mét, cả những binh lính Huyết tộc có mặt tại đó và đám Tử Vong Kỵ Sĩ cũng không ngoại lệ. Đợi đến khi bọn họ bò dậy từ mặt đất thì chỉ nhìn thấy một đường quỹ tích không gian vặn vẹo, lấy điểm bùng phát của Ngô Minh vừa rồi làm khởi điểm, đâm thẳng ra xa không biết bao nhiêu km. Ở nơi xa xăm đó, một luồng dao động vụ nổ đã bốc lên cao, hóa thành một đóa mây nấm khổng lồ.
+Trong một sát na, Hóa Huyết Thần Đao một lần nữa hóa thành huyết quang dài mấy trượng. Lấy phía chính diện Ngô Minh làm trung tâm, một tiếng sấm nổ vang lên. Mọi người còn chưa kịp nhìn ra điều gì, dao động và sức mạnh to lớn đã trực tiếp thổi bay tất cả mọi người. Ngay cả Tử Nha cũng bị thổi bay xa tới trăm mét, cả những binh lính Huyết tộc có mặt tại đó và đám Tử Vong Kỵ Sĩ cũng không ngoại lệ. Đợi đến khi bọn họ bò dậy từ mặt đất thì chỉ nhìn thấy một đường quỹ tích không gian vặn vẹo, lấy điểm bùng phát của Ngô Minh vừa rồi làm khởi điểm, đâm thẳng ra xa không biết bao nhiêu km. Ở nơi xa xăm đó, một luồng dao động vụ nổ đã bốc lên cao, hóa thành một đóa mây nấm khổng lồ.
 
-Trong số các tu chân phi chính thống mà Ngô Minh biết, có tới vài trăm lưu phái lớn nhỏ: Luyện Khí lưu, Phục Dược lưu, Phù Bảo lưu, Đạo Cụ lưu, Ma Đạo lưu, Luyện Thể lưu... vân vân. Thế nhưng trong chính phủ Hồng Hoang Thiên Đình, lưu phái được công nhận là đệ nhất mạnh trong số các tu chân giả phi chính thống luôn luôn là Kiếm tu tu chân giả, được mệnh danh là mạnh nhất dưới trướng phi chính thống. Nguyên nhân nằm ở chỗ Kiếm tu có ba đại kỹ xảo cấp truyền kỳ, mà ba đại kỹ xảo này ngoại trừ tu chân giả chính thống có thể dựa vào Đạo Vực để mô phỏng ra, còn lại bất kỳ lưu phái tu chân nào khác cũng đều phải cam bái hạ phong (chịu thua).
+Trong số các tu chân phi chính thống mà Ngô Minh biết, có tới vài trăm lưu phái lớn nhỏ: Luyện Khí lưu, Phục Dược lưu, Phù Bảo lưu, Đạo Cụ lưu, Ma Đạo lưu, Luyện Thể lưu... vân vân. Thế nhưng trong chính phủ Thiên Đình Hồng Hoang, lưu phái được công nhận là đệ nhất mạnh trong số các tu chân giả phi chính thống luôn luôn là Kiếm tu tu chân giả, được mệnh danh là mạnh nhất dưới trướng phi chính thống. Nguyên nhân nằm ở chỗ Kiếm tu có ba đại kỹ xảo cấp truyền kỳ, mà ba đại kỹ xảo này ngoại trừ tu chân giả chính thống có thể dựa vào Đạo Vực để mô phỏng ra, còn lại bất kỳ lưu phái tu chân nào khác cũng đều phải cam bái hạ phong (chịu thua).
 
-Kiếm Khí Lôi Âm (Sword Qi Lightning Sound), Luyện Kiếm Thành Ti (Refining Sword into Thread), và mạnh nhất là Nhất Kiếm Phá Vạn Pháp (One Sword Breaks All Laws). Ba đại kỹ xảo này đã tạo nên vị thế mạnh nhất cho Kiếm tu trong các lưu phái tu chân phi chính thống, thậm chí đạt tới mức độ mà các tu chân giả chính thống yếu một chút cũng không thể địch nổi.
+Kiếm Khí Lôi Âm, Luyện Kiếm Thành Ti, và mạnh nhất là Nhất Kiếm Phá Vạn Pháp. Ba đại kỹ xảo này đã tạo nên vị thế mạnh nhất cho Kiếm tu trong các lưu phái tu chân phi chính thống, thậm chí đạt tới mức độ mà các tu chân giả chính thống yếu một chút cũng không thể địch nổi.
 
 Kiếm Khí Lôi Âm, chính là kỹ xảo mà Ngô Minh đang sử dụng hiện tại. Không phải vì tốc độ kiếm quá nhanh dẫn đến tiếng nổ âm thanh, bởi vì vận tốc âm thanh thì có thể nhanh đến mức nào chứ?
 
-Chân tướng của kỹ xảo truyền kỳ Kiếm tu này là: đem quỹ tích ra kiếm liên quan tới không gian, hơn nữa không chỉ đơn giản là ứng dụng kỹ xảo không gian, mà biểu hiện trực tiếp của nó chính là khúc suất (curvature). Đúng vậy, làm cho đường quỹ tích của kiếm mạnh tới mức ảnh hưởng đến độ cong của không gian. Nghe nói các Kiếm tu tiên nhân mạnh nhất khi sử dụng Kiếm Khí Lôi Âm có thể bộc phát ra tốc độ vượt quá vận tốc ánh sáng gấp trăm lần, chỉ một kiếm là có thể trực tiếp nghiền nát cả một hành tinh.
+Chân tướng của kỹ xảo truyền kỳ Kiếm tu này là: đem quỹ tích ra kiếm liên quan tới không gian, hơn nữa không chỉ đơn giản là ứng dụng kỹ xảo không gian, mà biểu hiện trực tiếp của nó chính là khúc suất. Đúng vậy, làm cho đường quỹ tích của kiếm mạnh tới mức ảnh hưởng đến độ cong của không gian. Nghe nói các Kiếm tu tiên nhân mạnh nhất khi sử dụng Kiếm Khí Lôi Âm có thể bộc phát ra tốc độ vượt quá vận tốc ánh sáng gấp trăm lần, chỉ một kiếm là có thể trực tiếp nghiền nát cả một hành tinh.
 
 Ngô Minh bây giờ chắc chắn không thể làm được tới mức đó, hắn thậm chí còn không dùng ra được một chiêu Kiếm Khí Lôi Âm hoàn chỉnh. Nhưng dù chỉ là mô phỏng theo hình thức thì cũng đủ rồi. Lấy Hóa Huyết Thần Đao làm hạt nhân, một đao chém ra, chiếc mech đã bị đường thông đạo khúc suất này chém bay xa hàng trăm km. Luồng huyết quang dài mấy trượng ép chặt lên màn chắn phòng hộ hình vuông, áp chế chiếc mech đâm sầm vào một sườn núi lớn, rồi trực tiếp xuyên thấu qua sườn núi đó, đâm thẳng xuống mặt đất. Luồng huyết quang vẫn tiếp tục áp chế mech trượt dài gần mười km trên mặt đất, rồi đâm sầm vào một bức tường thành. Bề mặt tường thành bùng nổ hàng loạt quang hoa ma pháp, nhưng chỉ kháng cự được vài giây, toàn bộ tường thành lập tức sụp đổ. Chiếc mech tiếp tục bị huyết quang ép xuyên qua nửa tòa thành phố rồi nổ tung kinh hoàng tại trung tâm thành phố. Vụ nổ cực lớn bốc lên một đám mây nấm, gần một phần mười diện tích thành phố đã bị vụ nổ này xé toạc.
 
@@ -60,11 +60,11 @@ Chỉ là cứ mỗi khi huyết quang thu nhỏ lại một trượng thì trê
 
 "Không, không, không thể nào!" Lần này không còn là giọng nói tổng hợp cơ khí nữa, mà là một giọng nữ trong trẻo phát ra trực tiếp từ trong mech. Nhưng giọng nói đó vừa vang lên thì luồng huyết quang trăm trượng đã triệt để nuốt chửng chiếc mech. Lớp vỏ mech vỡ vụn từng tấc một, trước sau chỉ khoảng một hai giây, đã lộ ra một thiếu nữ Cao Đẳng Địa Tinh bên trong mech.
 
-Ngay khi huyết quang sắp ập tới, trong đầu Ngô Minh bỗng nhiên thoáng qua mảnh kim loại ăn mòn mà hắn nhận được từ quản gia trước đó, cùng với thông tin mà Ruth (Lilith) dẫn dắt đoàn mạo hiểm thu thập được...
+Ngay khi huyết quang sắp ập tới, trong đầu Ngô Minh bỗng nhiên thoáng qua mảnh kim loại ăn mòn mà hắn nhận được từ quản gia trước đó, cùng với thông tin mà Ruth dẫn dắt đoàn mạo hiểm thu thập được...
 
 "Cho ngươi ba giây, thần phục ta, ký kết linh hồn khế ước với ta, nếu không lập tức chết ngay." Ngô Minh đưa tay khống chế huyết quang, lạnh lùng nói.
 
-Thiếu nữ Cao Đẳng Địa Tinh trong mech đã sợ đến ngây người. Luồng huyết quang này không gì không chém, ngay cả màn chắn Tâm Linh Chi Quang mà cũng có thể phá vỡ. Phải biết rằng cô điều khiển chiếc mech này, sau khi mở lò phản ứng Tâm Linh Chi Quang thì đã là tồn tại đủ để quần thảo với Bán Thần rồi, vậy mà dưới luồng huyết quang này lại chỉ trụ được vỏn vẹn mấy chục giây. Điều này quả thực là không thể tin nổi. Cho nên khi nghe thấy lời Ngô Minh nói, nhất thời cô căn bản không phản ứng kịp.
+Thiếu nữ Cao Đẳng Địa Tinh trong mech đã sợ đến ngây người. Luồng huyết quang này không gì không chém, ngay cả màn chắn Ánh sáng Tâm Linh mà cũng có thể phá vỡ. Phải biết rằng cô điều khiển chiếc mech này, sau khi mở lò phản ứng Ánh sáng Tâm Linh thì đã là tồn tại đủ để quần thảo với Bán Thần rồi, vậy mà dưới luồng huyết quang này lại chỉ trụ được vỏn vẹn mấy chục giây. Điều này quả thực là không thể tin nổi. Cho nên khi nghe thấy lời Ngô Minh nói, nhất thời cô căn bản không phản ứng kịp.
 
 "Ba!"
 
@@ -84,11 +84,11 @@ Huyết quang ngưng kết lại, rồi thu nhét trở về thành một thanh 
 
 Chỉ là huyết quang này không chém qua người cô, mà lướt qua bên cạnh cô, thoáng chốc đã vượt xa vạn mét. Huyết quang hóa thành cầu vồng chém ngang qua từ phía xa. Một trận nổ rung trời xé đất vang lên, hàng loạt khu phố lại một lần nữa nổ tung sụp đổ. Khi huyết quang quay trở lại, một cái đầu đã xuất hiện trên tay Ngô Minh. Ngô Minh một lần nữa máu tươi tuôn xối xả, cột sáng kia lại hiện ra thêm một lần nữa, và rồi ngay trước sự kinh ngạc của thiếu nữ Cao Đẳng Địa Tinh, Ngô Minh một lần nữa khôi phục hoàn hảo không chút tì vết.
 
-"Alost (Alost), cường giả bậc bốn, Đấu sĩ, huyết mạch trùng thú viễn cổ... Ngươi, ngươi đã giết hắn!?" Thiếu nữ Cao Đẳng Địa Tinh thét lên.
+"Alost, cường giả bậc bốn, Đấu sĩ, huyết mạch trùng thú viễn cổ... Ngươi, ngươi đã giết hắn!?" Thiếu nữ Cao Đẳng Địa Tinh thét lên.
 
 Ngô Minh nhìn cái đầu trên tay một cái, tùy tay ném đi, huyết quang quét qua thì chẳng còn để lại bất cứ dấu vết gì. Hắn nhìn chằm chằm thiếu nữ nói: "Hắn đã nhìn thấy chiến trường, nghe thấy lời nói, lại còn định chạy trốn. Hắn không chết, chẳng lẽ để ta chết à? Hì hì, chi tiết cốt truyện cấp C một cái, điểm thưởng hơn bốn ngàn, không lỗ."
 
-Thiếu nữ không hề biết Ngô Minh đang nói cái gì, cô sợ hãi lùi lại nửa bước, lúc này mới nói: "Tôi là Quang Kỵ Sĩ trong Thiểm Hoa Thất Kỵ Sĩ của Cao Đẳng Địa Tinh, Lucifer (Lộ Tây Pháp) Ánh Bình Minh. Con người, ngươi..."
+Thiếu nữ không hề biết Ngô Minh đang nói cái gì, cô sợ hãi lùi lại nửa bước, lúc này mới nói: "Tôi là Quang Kỵ Sĩ trong Bảy Kỵ Sĩ Thiểm Hoa của Cao Đẳng Địa Tinh, Lucifer (Lộ Tây Pháp) Ánh Bình Minh. Con người, ngươi..."
 
 Huyết quang lại ập tới.
 

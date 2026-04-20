@@ -40,7 +40,7 @@ Một đạo thánh khiết thuần bạch quang mang rơi xuống, toàn bộ c
 
 Tên Cao đẳng Địa tinh cầm đầu bộc phát siêu phàm quang mang toàn thân, đồng thời lên tiếng gầm thét giận dữ.
 
-"Thành phố? Phải, đây là thành phố. Cao đẳng Địa tinh và Huyết tộc tranh đoạt thạch bản Áo thuật, từ đó dẫn đến chiến đấu. Cao đẳng Địa tinh đã phóng bom súc bạo (implosion bomb), Huyết tộc đã sử dụng ma pháp Huyết Uyên, cả thành phố theo đó bị xóa sổ." Diệp Dụ thản nhiên nói.
+"Thành phố? Phải, đây là thành phố. Cao đẳng Địa tinh và Huyết tộc tranh đoạt thạch bản Áo thuật, từ đó dẫn đến chiến đấu. Cao đẳng Địa tinh đã phóng bom súc bạo, Huyết tộc đã sử dụng ma pháp Huyết Uyên, cả thành phố theo đó bị xóa sổ." Diệp Dụ thản nhiên nói.
 
 Tên Cao đẳng Địa tinh này toàn thân đang dần dần biến mất trong thánh quang, dường như chính hắn cũng đang bị quang hóa (biến thành ánh sáng). Hắn dùng chút sức lực cuối cùng gầm lên: "Nữ thần sẽ không tha thứ cho ngươi đâu, cái đồ tặc tử đã đánh cắp quyền lợi của mạch chính liên hợp chúng ta!!"
 
@@ -72,7 +72,7 @@ Ba vị Thân vương không hẹn mà cùng nghĩ như vậy. Họ dự định
 
 Những người khác cũng đều nhìn thấy chấm đen đó. Đồng thời, là những cường giả đỉnh cấp, họ đều nảy sinh cảm giác hồi hộp đầy nguy hiểm. Mà chuyện có thể khiến họ thấy hồi hộp chắc chắn không phải là chuyện nhỏ.
 
-Sau đó họ đã nhìn rõ đó là cái gì. Đó là hơn mười quả bom súc bạo (implosion bomb), vũ khí chiến lược tối cao của tộc Cao đẳng Địa tinh, được phóng qua máy phóng quỹ đạo thứ không gian, có thể xuyên qua một phần mười diện tích lục địa Hồng Hoang. Trông thì có vẻ xa tận chân trời, nhưng đó là phương thức "gian khích phi hành" (bay xuyên không gian), gần như trong chớp mắt đã đến phía trên đầu mọi người.
+Sau đó họ đã nhìn rõ đó là cái gì. Đó là hơn mười quả bom súc bạo, vũ khí chiến lược tối cao của tộc Cao đẳng Địa tinh, được phóng qua máy phóng quỹ đạo thứ không gian, có thể xuyên qua một phần mười diện tích lục địa Hồng Hoang. Trông thì có vẻ xa tận chân trời, nhưng đó là phương thức "gian khích phi hành" (bay xuyên không gian), gần như trong chớp mắt đã đến phía trên đầu mọi người.
 
 "Không, không thể nào!! Ở đây có phong tỏa thông tin mà!!"
 

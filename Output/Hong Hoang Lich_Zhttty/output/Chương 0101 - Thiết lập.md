@@ -8,7 +8,7 @@ Mọi người đều không nói gì, nhưng cũng không phản đối thêm. 
 
 Người đàn ông mặc khải giáp lên tiếng: "Chính xác là như vậy. Điều này không chỉ do 'người ngoài' nói cho chúng ta biết, mà ngay cả các nhà tiên tri, trí giả trong chúng ta cũng như chính bản thân chúng ta đều phát hiện ra thế giới này đang bị hủ hóa. Nguồn cơn của sự hủ hóa chính là từ Tam Đại Ma Thần, và đánh bại cũng như phong ấn bọn chúng mới có thể cứu được thế giới này, đó là sự thật."
 
-Amor gật đầu, tiếp tục nói: "Đúng vậy, đó là sự thật. Và sự hủ hóa này thực chất là Thâm Uyên hóa. Tam Đại Ma Thần đến từ một nơi gọi là Vô Đáy Thâm Uyên, đó mới là quê hương của bọn chúng. Sau khi rời khỏi Vô Đáy Thâm Uyên, thực lực của bọn chúng giảm đi đáng kể, ngay cả những năng lượng cốt lõi nhất dường như cũng không thể sử dụng. Vì vậy, bọn chúng hoặc là quay trở lại Thâm Uyên, hoặc là biến nơi ở hiện tại thành Thâm Uyên. Đây chính là cách làm của bọn chúng, và thế giới này đang dần dần bị Thâm Uyên hóa."
+Amor gật đầu, tiếp tục nói: "Đúng vậy, đó là sự thật. Và sự hủ hóa này thực chất là Thâm Uyên hóa. Tam Đại Ma Thần đến từ một nơi gọi là Thâm Uyên Không Đáy, đó mới là quê hương của bọn chúng. Sau khi rời khỏi Thâm Uyên Không Đáy, thực lực của bọn chúng giảm đi đáng kể, ngay cả những năng lượng cốt lõi nhất dường như cũng không thể sử dụng. Vì vậy, bọn chúng hoặc là quay trở lại Thâm Uyên, hoặc là biến nơi ở hiện tại thành Thâm Uyên. Đây chính là cách làm của bọn chúng, và thế giới này đang dần dần bị Thâm Uyên hóa."
 
 Mấy người nhìn nhau, ánh mắt đầy sự trao đổi thông tin. Người phụ nữ mặc trường bào ma pháp lên tiếng: "Trong đám đồng đội của ngươi cũng có người đến từ Thâm Uyên đúng không? Các ngươi có cách nào đưa Tam Đại Ma Thần trở lại Thâm Uyên không?"
 
@@ -38,7 +38,7 @@ Mọi người nhìn nhau, âm thầm dùng truyền âm để trao đổi. Mộ
 
 Amor lại cười. Hắn đứng dậy đi ra ngoài phòng, vừa đi vừa nói: "Vậy chúng ta xem như là đồng minh rồi. Còn về việc người đồng minh này có đủ tư cách hay không, cứ để thời gian kiểm chứng đi. Còn bây giờ, đã đến lúc chúng ta đi hoàn thành nhiệm vụ của mình rồi. Tuy rằng sẽ lành ít dữ nhiều, nhưng đây cũng là chuyện không còn cách nào khác."
 
-Mọi người lại nhìn nhau, người rợ (Barbarian) cao lớn lên tiếng: "Nhiệm vụ của các ngươi là gì? Chúng ta có thể hỗ trợ một chút."
+Mọi người lại nhìn nhau, người rợ cao lớn lên tiếng: "Nhiệm vụ của các ngươi là gì? Chúng ta có thể hỗ trợ một chút."
 
 Amor ngoái đầu cười nói: "Phá hủy Lò luyện Địa Ngục, xưởng sản xuất binh khí của Tam Đại Ma Thần, chỉ đơn giản như vậy thôi."
 

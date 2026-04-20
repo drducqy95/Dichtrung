@@ -24,7 +24,7 @@ Sau khi xem điểm thưởng, Ngô Minh lập tức bắt đầu lướt không
 
 "Mình cần thứ có thể lập tức mạnh lên, lập tức mạnh lên, lập tức mạnh lên cơ mà!!!"
 
-Ngô Minh rền rĩ gầm gừ như kẻ điên (phong ma), hắn không ngừng lật xem Chủ Thần Không Gian. Nhưng bất kể là bất kỳ món đồ đổi thưởng nào, trừ phi là trực tiếp đổi những huyết thống cường lực kia, nếu không chẳng có khả năng nào có thể tăng cường thực lực trong nháy mắt. Mà đổi những huyết thống cường lực đó... đùa gì thế, quân bài tẩy lớn nhất của hắn chính là Chủ Thần Không Gian rồi, đổi xong thì Chủ Thần Không Gian sẽ rời bỏ hắn. Cho dù thực sự lập tức mạnh lên, vậy sau này thì sao? Trừ phi là có huyết thống của gã đầu trọc mặc áo choàng nào đó, nếu không làm sao hắn có thể đổi?
+Ngô Minh rền rĩ gầm gừ như kẻ điên, hắn không ngừng lật xem Chủ Thần Không Gian. Nhưng bất kể là bất kỳ món đồ đổi thưởng nào, trừ phi là trực tiếp đổi những huyết thống cường lực kia, nếu không chẳng có khả năng nào có thể tăng cường thực lực trong nháy mắt. Mà đổi những huyết thống cường lực đó... đùa gì thế, quân bài tẩy lớn nhất của hắn chính là Chủ Thần Không Gian rồi, đổi xong thì Chủ Thần Không Gian sẽ rời bỏ hắn. Cho dù thực sự lập tức mạnh lên, vậy sau này thì sao? Trừ phi là có huyết thống của gã đầu trọc mặc áo choàng nào đó, nếu không làm sao hắn có thể đổi?
 
 Khoảnh khắc này, biểu cảm của Ngô Minh vô cùng dữ tợn, đôi mắt đỏ ngầu một mảnh, đầy rẫy sát ý lạnh thấu xương. Đây chính là hắn, ngày thường tự nhiên là "tùng" (nhát), tự nhiên là có thể thuận thì thuận, thậm chí là thích nhất là ở nhà (trạch). Nhưng khi gặp nguy cơ sinh tử, phản ứng của hắn chính là như vậy. Điên cuồng dường như mới là bản sắc của hắn – "Bất phong ma, bất thành hoạt".
 
@@ -32,11 +32,11 @@ Sau đó, khi đang xem các món đồ có thể đổi, Ngô Minh bỗng nhiê
 
 Cường hóa thuộc tính cơ thể!!
 
-Ở chỗ Chủ Thần có thể cường hóa thuộc tính cơ thể, lần lượt là sáu loại chính: Trí lực (Intelligence), Tinh thần lực (Spirit), Sức sống tế bào (Cell Vitality), Tốc độ phản ứng thần kinh (Neural Reaction Speed), Cường độ tổ chức cơ bắp (Muscle Tissue Strength), Cường độ miễn dịch (Immunsity). Mỗi loại cường hóa đều lần lượt đại diện cho một hạng mục nào đó của cơ thể con người.
+Ở chỗ Chủ Thần có thể cường hóa thuộc tính cơ thể, lần lượt là sáu loại chính: Trí lực, Tinh thần lực, Sức sống tế bào, Tốc độ phản ứng thần kinh, Cường độ tổ chức cơ bắp, Cường độ miễn dịch. Mỗi loại cường hóa đều lần lượt đại diện cho một hạng mục nào đó của cơ thể con người.
 
 Theo giải thích của Chủ Thần, một người đàn ông trưởng thành bình thường, tất cả thuộc tính của họ nên là một trăm điểm. Tất nhiên, cơ thể và bộ não của mỗi người là khác nhau. Có người trông cơ thể cường tráng không tưởng nhưng khả năng miễn dịch lại kém v.v... cho nên mỗi người có một điểm khác nhau, nhưng 100 điểm là giá trị bình thường mà một người bình thường nên có.
 
-Chỉ nhìn vào cái này, thực ra căn bản chẳng có tác dụng quái gì. Ví dụ anh cường hóa một loại huyết thống, lấy một ví dụ đơn giản nhất: anh cường hóa huyết thống Quỷ Khổng Lồ (Troll), thì khả năng phục hồi của anh lập tức sẽ kinh người đến mức khoa trương, thậm chí chặt đứt tay chân anh, anh đều có thể phục hồi hoàn toàn trong thời gian ngắn, đến mức đứt lìa chi có thể mọc lại được. Nếu cường hóa tới cấp bậc đỉnh cao nhất của huyết thống Quỷ Khổng Lồ, thậm chí chặt đứt đầu anh vẫn có thể hồi sinh. Còn muốn cường hóa tố chất cơ thể, anh cường hóa tới một ngàn điểm thì có hiệu quả này không? Chẳng qua là tố chất cơ thể gấp mười lần một người đàn ông trưởng thành mà thôi, anh mọc lại chi tôi xem nào?
+Chỉ nhìn vào cái này, thực ra căn bản chẳng có tác dụng quái gì. Ví dụ anh cường hóa một loại huyết thống, lấy một ví dụ đơn giản nhất: anh cường hóa huyết thống Quỷ Khổng Lồ, thì khả năng phục hồi của anh lập tức sẽ kinh người đến mức khoa trương, thậm chí chặt đứt tay chân anh, anh đều có thể phục hồi hoàn toàn trong thời gian ngắn, đến mức đứt lìa chi có thể mọc lại được. Nếu cường hóa tới cấp bậc đỉnh cao nhất của huyết thống Quỷ Khổng Lồ, thậm chí chặt đứt đầu anh vẫn có thể hồi sinh. Còn muốn cường hóa tố chất cơ thể, anh cường hóa tới một ngàn điểm thì có hiệu quả này không? Chẳng qua là tố chất cơ thể gấp mười lần một người đàn ông trưởng thành mà thôi, anh mọc lại chi tôi xem nào?
 
 Ngô Minh cũng có loại phân tích và suy nghĩ này, thậm chí không chỉ có hắn, các thành viên luân hồi tiểu đội khác ai nấy cũng đều như vậy, chỉ xem qua rồi thôi, thậm chí chẳng thèm suy nghĩ sâu xa.
 
@@ -72,7 +72,7 @@ Ngô Minh đưa một bàn tay ra, liền thấy tám phù văn tự nhiên ngư
 
 "Tán."
 
-Ngô Minh ném tám phù văn lên phía trên, tám phù văn lập tức tan biến mất, hóa thành từng hạt ánh sáng. Tiếp đó, Ngô Minh lại đưa tay chỉ về phía trước một cái. Tiếng điện tích xẹt qua, lấy Ngô Minh làm trung tâm, một từ trường điện từ bao trùm đủ năm mươi mét đã được hắn tạo ra. Và trong cái từ trường này, điện lúc thì biến thành từ (magnetism), từ lúc thì chuyển hóa thành điện. Kim loại, thậm chí là từ trường đều được đảo ngược khống chế. Ngô Minh thậm chí không cần sử dụng môi chất kim loại, trực tiếp lơ lửng lên. Sau đó hắn hướng bàn tay xuống dưới ngoắc một cái, một mẩu tạo vật kim loại hóa thành mấy quả cầu tròn xuất hiện quanh người hắn từ từ xoay tròn. Vòng xoay này ngày càng nhanh, thậm chí nhanh đến mức mắt thường không thể nhìn thấy, thậm chí vì quá nhanh mà hình thành nên cuồng phong, rồi tới lốc xoáy...
+Ngô Minh ném tám phù văn lên phía trên, tám phù văn lập tức tan biến mất, hóa thành từng hạt ánh sáng. Tiếp đó, Ngô Minh lại đưa tay chỉ về phía trước một cái. Tiếng điện tích xẹt qua, lấy Ngô Minh làm trung tâm, một từ trường điện từ bao trùm đủ năm mươi mét đã được hắn tạo ra. Và trong cái từ trường này, điện lúc thì biến thành từ, từ lúc thì chuyển hóa thành điện. Kim loại, thậm chí là từ trường đều được đảo ngược khống chế. Ngô Minh thậm chí không cần sử dụng môi chất kim loại, trực tiếp lơ lửng lên. Sau đó hắn hướng bàn tay xuống dưới ngoắc một cái, một mẩu tạo vật kim loại hóa thành mấy quả cầu tròn xuất hiện quanh người hắn từ từ xoay tròn. Vòng xoay này ngày càng nhanh, thậm chí nhanh đến mức mắt thường không thể nhìn thấy, thậm chí vì quá nhanh mà hình thành nên cuồng phong, rồi tới lốc xoáy...
 
 Mắt thấy lốc xoáy sắp sửa xuất hiện, Ngô Minh khẽ vẫy vẫy tay, từ trường điện từ biến mất, các quả cầu kim loại biến trở lại thành tạo vật kim loại ban đầu, ngay cả lốc xoáy cũng trực tiếp bị đánh tan.
 
@@ -82,7 +82,7 @@ Mắt thấy lốc xoáy sắp sửa xuất hiện, Ngô Minh khẽ vẫy vẫy 
 
 "Tôi thật ngu ngốc, tôi thực sự quá ngu ngốc rồi. Đây mới chính là đại đạo, bày ngay trước mặt mình mà bấy lâu nay cứ lờ đi, đây mới chính là thứ mà những người Chính Thống Tu Chân thực thụ hằng mơ ước cơ mà!!"
 
-"Tôi thực sự quá ngu rồi, mẹ kiếp, cường hóa thuộc tính cơ thể này là cường hóa thuộc tính cơ bản mà (base attributes)!!!!"
+"Tôi thực sự quá ngu rồi, mẹ kiếp, cường hóa thuộc tính cơ thể này là cường hóa thuộc tính cơ bản mà!!!!"
 
 "Cái gì mà khoảng cách từ 100, 200 đến 700, tôi còn thực sự tưởng là bảy lần, nhưng mẹ nó chứ, đây là cường hóa thuộc tính cơ bản nha. Khả năng tính toán hiện tại của tôi ít nhất là nằm trong khoảng từ 70 đến 100 lần so với trước khi cường hóa. Tôi hiện tại..."
 

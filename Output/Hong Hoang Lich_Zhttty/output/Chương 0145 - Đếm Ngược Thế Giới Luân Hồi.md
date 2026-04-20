@@ -20,7 +20,7 @@ Cái gọi là "thân mang lợi khí, sát tâm tự khởi" (trong tay có vũ
 
 Chỉ riêng trong mười ngày này, thông tin mà các thám tử của các thế lực thám thính được đã đủ để các thủ lĩnh thế lực đó nâng tầm đánh giá về Ngô Minh lên thêm nửa bậc. Về cơ bản mọi người đã xác định được rằng, chỉ cần Ngô Minh không tử vong (vẫn lạc), thì tương lai của hắn thực sự là tiền đồ vô lượng.
 
-Thế nhưng Ngô Minh vốn chẳng hề hay biết những điều đó. Mười ngày này được coi là khoảng thời gian hắn sống thoải mái nhất dạo gần đây. Mỗi ngày phân tích phù văn một chút, thời gian còn lại phần lớn dùng vào việc điều luật Đạo Vận. Toàn bộ tầng đỉnh gần như đã được trải một mạng lưới Đạo Vận. Không chỉ có thế, hắn lại đổi thêm một tòa Địa Ngục Nung Lò (Hellforge) ra, rồi bắt đầu thử nghiệm dùng năng lực tính toán hiện tại để nâng cấp vị giai cho Hóa Huyết Thần Đao, kỳ vọng tiến cấp từ Pháp khí giai lên thành **Linh khí** giai – tức là loại dụng cụ tu chân mà chỉ có tu chân giả chính thống cấp Kim Đan mới có thể luyện chế được.
+Thế nhưng Ngô Minh vốn chẳng hề hay biết những điều đó. Mười ngày này được coi là khoảng thời gian hắn sống thoải mái nhất dạo gần đây. Mỗi ngày phân tích phù văn một chút, thời gian còn lại phần lớn dùng vào việc điều luật Đạo Vận. Toàn bộ tầng đỉnh gần như đã được trải một mạng lưới Đạo Vận. Không chỉ có thế, hắn lại đổi thêm một tòa Địa Ngục Nung Lò ra, rồi bắt đầu thử nghiệm dùng năng lực tính toán hiện tại để nâng cấp vị giai cho Hóa Huyết Thần Đao, kỳ vọng tiến cấp từ Pháp khí giai lên thành **Linh khí** giai – tức là loại dụng cụ tu chân mà chỉ có tu chân giả chính thống cấp Kim Đan mới có thể luyện chế được.
 
 Kết quả khiến Ngô Minh vô cùng kinh hỉ. Tuy hắn chưa đạt tới Kim Đan kỳ, nhưng dưới sự gia trì từ năng lực tính toán, năng lực logic và năng lực phân tích của mình, Hóa Huyết Thần Đao quả nhiên đã từng chút một bắt đầu quá trình vượt cấp về thứ bậc khí cụ. Chỉ riêng điều này thôi đã đủ để chứng minh tính đúng đắn của những lời mà các tu chân giả chính thống vẫn hằng nói: Kim Đan, Nguyên Anh, Nguyên Thần hay gì gì đó, vị giai đối với tu chân giả chính thống thực sự không mang lại nhiều ý nghĩa, không phải là vô nghĩa hoàn toàn, nhưng so với năng lực tính toán, năng lực logic và năng lực phân tích thì đúng là không đáng nhắc tới.
 
@@ -64,8 +64,8 @@ Elfa gật đầu, ý bảo đã đồng ý.
 
 Ngô Minh vẫn luôn quan sát tất cả. Hắn phát hiện Từ Văn đã coi như trở thành đội trưởng của đội ngũ này rồi. Không biết từ lúc nào, gã thư sinh đến từ thời cổ đại này đã ngày càng có trọng trách, mà lúc này trở thành đội trưởng đội ngũ dường như lại là một chuyện tự nhiên như nước chảy thành dòng vậy.
 
-Mọi người lúc bấy giờ mới nhìn về phía Chủ Thần, truy vấn Chủ Thần về không gian thử luyện tiếp theo. Mà Ngô Minh ngay từ lúc tiến vào Chủ Thần không gian đã đổi sang "Thế giới Luân hồi" (Reincarnation World), vì vậy thứ mà mọi người truy vấn được tự nhiên chính là Thế giới Luân hồi, chỉ là Thế giới Luân hồi này là cái gì thì bọn họ lại chẳng hề hay biết.
+Mọi người lúc bấy giờ mới nhìn về phía Chủ Thần, truy vấn Chủ Thần về không gian thử luyện tiếp theo. Mà Ngô Minh ngay từ lúc tiến vào Chủ Thần không gian đã đổi sang "Thế giới Luân hồi", vì vậy thứ mà mọi người truy vấn được tự nhiên chính là Thế giới Luân hồi, chỉ là Thế giới Luân hồi này là cái gì thì bọn họ lại chẳng hề hay biết.
 
 "Mở ra Thế giới Luân hồi, thời gian đếm ngược: chín mươi hai ngày mười một giờ. Thế giới Luân hồi tiếp theo...
 
-**"Giải cứu Lori."** (Saving Lori).
+**"Giải cứu Lori."**.

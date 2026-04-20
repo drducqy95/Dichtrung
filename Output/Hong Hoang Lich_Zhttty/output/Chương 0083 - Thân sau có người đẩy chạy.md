@@ -1,6 +1,6 @@
 # Chương 83: Thân sau có người đẩy chạy
 
-Lùi thời gian lại một tiếng đồng hồ trước, Ngô Minh cẩn thận tiềm phục trở về Ma Pháp Tháp. Chưa kịp bước vào tháp, hắn đã thấy Amor đang ngồi ăn trái cây. Cậu nhóc đội mũ trùm che kín khuôn mặt, ngồi thảnh thơi trên thảm cỏ ngoài Ma Pháp Tháp, chân vắt vẻo giả vờ ngủ, thỉnh thoảng lại ném một quả vào miệng.
+Lùi thời gian lại một tiếng đồng hồ trước, Ngô Minh cẩn thận tiềm phục trở về Tháp Ma Pháp. Chưa kịp bước vào tháp, hắn đã thấy Amor đang ngồi ăn trái cây. Cậu nhóc đội mũ trùm che kín khuôn mặt, ngồi thảnh thơi trên thảm cỏ ngoài Tháp Ma Pháp, chân vắt vẻo giả vờ ngủ, thỉnh thoảng lại ném một quả vào miệng.
 
 "Cái thằng nhóc này!"
 
@@ -12,7 +12,7 @@ Amor ngẩn người một chút, nhìn kỹ Ngô Minh, sau đó cười nói: "
 
 Ngô Minh cảm thấy cả người không ổn chút nào. Vừa mới thoát khỏi miệng một con quái vật, trước mắt lại là một con quái vật nhỏ cũng đáng sợ không kém. Hắn tức tối nói: "Người gửi mảnh giấy đó là một tên..."
 
-"Suỵt." Amor bỗng đưa ngón tay lên miệng ra hiệu im lặng. Cậu bảo Ngô Minh đi vào trong Ma Pháp Tháp, sau đó cười như không cười nhìn vào khoảng không vô định giữa đại sảnh.
+"Suỵt." Amor bỗng đưa ngón tay lên miệng ra hiệu im lặng. Cậu bảo Ngô Minh đi vào trong Tháp Ma Pháp, sau đó cười như không cười nhìn vào khoảng không vô định giữa đại sảnh.
 
 "Thằng nhóc kia!! Ngươi nhìn cái gì mà nhìn!?"
 
@@ -22,17 +22,17 @@ Ngô Minh cảm thấy cả người không ổn chút nào. Vừa mới thoát 
 
 "Có linh hồn người sống cũng có thể làm được." Tháp Linh tức tối nói: "Ta bảo này nhóc Ngô Minh, ngươi tìm từ đâu ra một tên nhân loại quái vật thế này hả? Nhìn thấy hắn là thấy phiền rồi. Nếu ngươi đã về rồi thì mau đem hắn đi cho khuất mắt ta."
 
-"Ờ..." Ngô Minh bắt đầu tưởng tượng xem trong lúc mình vắng mặt, Amor rốt cuộc đã làm gì trong Ma Pháp Tháp này, đến mức một Tháp Linh không có thực thể, có thể tùy ý quan sát và khống chế mọi thứ trong tháp mà cũng bị cậu nhóc xác nhận được thân phận. Cái này gọi là gì đây?
+"Ờ..." Ngô Minh bắt đầu tưởng tượng xem trong lúc mình vắng mặt, Amor rốt cuộc đã làm gì trong Tháp Ma Pháp này, đến mức một Tháp Linh không có thực thể, có thể tùy ý quan sát và khống chế mọi thứ trong tháp mà cũng bị cậu nhóc xác nhận được thân phận. Cái này gọi là gì đây?
 
-"Được rồi mà, chị Lorikk (Lomek), yên tâm đi, khi các chị muốn hoàn thành tâm nguyện lớn lao của mình, em sẽ giúp các chị nhé. Có thêm em, cơ hội thành công của các chị sẽ cao lắm đấy." Amor cười hì hì nói.
+"Được rồi mà, chị Lorikk, yên tâm đi, khi các chị muốn hoàn thành tâm nguyện lớn lao của mình, em sẽ giúp các chị nhé. Có thêm em, cơ hội thành công của các chị sẽ cao lắm đấy." Amor cười hì hì nói.
 
 "...Được rồi, muốn làm gì?" Tháp Linh có chút bất lực hỏi.
 
-"Phong tỏa mọi thông tin rò rỉ ra ngoài. Em biết Ma Pháp Tháp tầng năm có thể làm được điều đó, ngoại trừ Thánh vị ra, mọi tồn tại khác đều có thể phong tỏa, đúng không?" Amor mỉm cười nói.
+"Phong tỏa mọi thông tin rò rỉ ra ngoài. Em biết Tháp Ma Pháp tầng năm có thể làm được điều đó, ngoại trừ Thánh vị ra, mọi tồn tại khác đều có thể phong tỏa, đúng không?" Amor mỉm cười nói.
 
 Tháp Linh im lặng hồi lâu mới đáp: "Phòng đọc sách, ta sẽ dốc toàn lực phong tỏa nơi đó. Các ngươi đi đi."
 
-"Phải rồi." Amor bỗng nói thêm: "Chị Lorikk cũng không được nghe lén đâu nhé. Vẫn là điều em đã nói trước đó, nguyên lý Hộp đen thông tin (Information black box), nếu chị biết thì mọi chuyện sẽ có biến đổi, việc này có thể liên quan đến cả tính mạng em gái chị đấy."
+"Phải rồi." Amor bỗng nói thêm: "Chị Lorikk cũng không được nghe lén đâu nhé. Vẫn là điều em đã nói trước đó, nguyên lý Hộp đen thông tin, nếu chị biết thì mọi chuyện sẽ có biến đổi, việc này có thể liên quan đến cả tính mạng em gái chị đấy."
 
 "...Ta biết rồi, nhưng ta sẽ thiết lập ma pháp phán định thiện ác. Nếu có ác ý với ta và em gái ta, lúc đó ta cũng sẽ không khách khí đâu!!" Giọng nói nghiêm túc của Tháp Linh vang lên.
 
@@ -72,7 +72,7 @@ Những lời tiếp theo Amor không nói nữa. Cậu kéo Ngô Minh đi ra ng
 
 "Đi bố trí trận pháp của anh đó, vị trí nằm ở khoảng khu vực này. Anh có thể bay được không?" Amor liên tục hỏi.
 
-Ngô Minh ngơ ngác gật đầu, rồi thấy Amor kéo mình chạy tới đại sảnh Ma Pháp Tháp. Cậu bé cười vẫy vẫy tay lên không trung, sau đó kéo Ngô Minh tiếp tục chạy ra phố.
+Ngô Minh ngơ ngác gật đầu, rồi thấy Amor kéo mình chạy tới đại sảnh Tháp Ma Pháp. Cậu bé cười vẫy vẫy tay lên không trung, sau đó kéo Ngô Minh tiếp tục chạy ra phố.
 
 Hai người cứ thế chạy chừng năm phút, Amor mới thở hồng hộc dừng lại nói: "Ở đây đi, tiếp theo đưa em bay... Đúng rồi, hỏi một câu, trận pháp đó bố trí xong, nếu em ở trong trận nhãn thì có bị ảnh hưởng không?"
 

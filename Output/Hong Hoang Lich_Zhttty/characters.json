@@ -175,7 +175,7 @@
             "name_target": "Davindo",
             "gender": "male",
             "role": "supporting",
-            "identity": "Hậu Địa Tinh Huyết tộc (High Goblin Blood)",
+            "identity": "Huyết tộc Địa tinh cao cấp",
             "description": "Quản gia của Ngô Minh, do Tử Nha phái tới. Tinh thông quản trị, kế toán và công trình học.",
             "status": "active"
         },
@@ -185,7 +185,7 @@
             "name_target": "Afrey",
             "gender": "female",
             "role": "supporting",
-            "identity": "Thụ tinh Huyết tộc (Dryad Blood)",
+            "identity": "Huyết tộc Thụ Tinh cao cấp",
             "description": "Hầu nữ của Ngô Minh, tinh thông chăm sóc thực vật và linh thảo.",
             "status": "active"
         },
@@ -195,7 +195,7 @@
             "name_target": "Tiểu Lợi",
             "gender": "female",
             "role": "supporting",
-            "identity": "Miêu nhĩ Huyết tộc (Cat-ear Blood)",
+            "identity": "Huyết tộc Miêu Nhân",
             "description": "Hầu nữ của Ngô Minh, tính tình hoạt bát, hay lầm bầm.",
             "status": "active"
         },
@@ -212,7 +212,7 @@
         {
             "id": "char_023",
             "name_source": "战争",
-            "name_target": "Chiến Tranh (War)",
+            "name_target": "War",
             "gender": "male",
             "role": "supporting",
             "identity": "Thủ lĩnh Tử Vong Kỵ Sĩ (Thiên Khải)",
@@ -222,7 +222,7 @@
         {
             "id": "char_024",
             "name_source": "死亡",
-            "name_target": "Tử Vong (Death)",
+            "name_target": "Death",
             "gender": "male",
             "role": "supporting",
             "identity": "Thủ lĩnh Tử Vong Kỵ Sĩ (Thiên Khải)",
@@ -232,7 +232,7 @@
         {
             "id": "char_025",
             "name_source": "饥荒",
-            "name_target": "Cơ Hoang (Famine)",
+            "name_target": "Famine",
             "gender": "male",
             "role": "supporting",
             "identity": "Thủ lĩnh Tử Vong Kỵ Sĩ (Thiên Khải)",
@@ -242,7 +242,7 @@
         {
             "id": "char_026",
             "name_source": "瘟疫",
-            "name_target": "Ôn Dịch (Plague)",
+            "name_target": "Plague",
             "gender": "female",
             "role": "supporting",
             "identity": "Thủ lĩnh Tử Vong Kỵ Sĩ (Thiên Khải)",
@@ -290,7 +290,7 @@
         {
             "id": "char_031",
             "name_source": "子牙",
-            "name_target": "Tử Nha (Ziya)",
+            "name_target": "Tử Nha",
             "gender": "male",
             "role": "major",
             "description": "Trí giả đỉnh cấp của Huyết tộc, ban đầu là đối thủ, sau trở thành quân sư tối cao của Ngô Minh. Thiên tài về chiến lược và chính trị.",

@@ -12,25 +12,25 @@ Mà có Trí giả, tất cả những quy hoạch kế hoạch này đều khô
 
 Đến rạng sáng ngày hôm sau, khi Ngô Minh định kết thúc một ngày luyện chế ma pháp khí cụ, hắn mới bỗng nhiên sực nhớ ra mình cư nhiên quên xem các mặt hàng mới trong không gian thử luyện lần này. Ngay lập tức hắn mở giao diện đổi đồ của Chủ Thần ra, vừa nhìn một cái liền mắt sáng rực lên.
 
-Ngoại trừ các loại vũ khí vật tư thông thường của thế kỷ 21, không gian thử luyện 'Hắc y nhân' lần này cư nhiên xuất hiện lượng lớn tạo vật công nghệ cao. Ví dụ như vũ khí năng lượng cỡ nhỏ, cỡ trung, cỡ lớn, tàu du hành vũ trụ cỡ nhỏ, máy sửa đổi ký ức tập thể, thiết bị ẩn thân năng lượng... vân vân. Hàm lượng khoa học kỹ thuật của những vũ khí này tự nhiên không sánh được với chính phủ Hồng Hoang Thiên Đình, nhưng cũng mạnh hơn thế giới Trái Đất thế kỷ 21 ít nhất khoảng trăm năm, có thể coi là những vũ khí đổi đồ rất tốt, trong một số trường hợp có thể coi là có đại dụng.
+Ngoại trừ các loại vũ khí vật tư thông thường của thế kỷ 21, không gian thử luyện 'Hắc y nhân' lần này cư nhiên xuất hiện lượng lớn tạo vật công nghệ cao. Ví dụ như vũ khí năng lượng cỡ nhỏ, cỡ trung, cỡ lớn, tàu du hành vũ trụ cỡ nhỏ, máy sửa đổi ký ức tập thể, thiết bị ẩn thân năng lượng... vân vân. Hàm lượng khoa học kỹ thuật của những vũ khí này tự nhiên không sánh được với chính phủ Thiên Đình Hồng Hoang, nhưng cũng mạnh hơn thế giới Trái Đất thế kỷ 21 ít nhất khoảng trăm năm, có thể coi là những vũ khí đổi đồ rất tốt, trong một số trường hợp có thể coi là có đại dụng.
 
 Ngay khi Ngô Minh định rời khỏi không gian Chủ Thần, tâm niệm hắn bỗng động, lại lướt xem các mục đổi Huyết thống, Công pháp, Vật liệu... Trong mục Huyết thống lại xuất hiện thêm một số huyết thống kỳ quái, ví dụ như huyết thống người hành tinh Mike, huyết thống người hành tinh Miêu Vương... Mục Công pháp thì không tăng thêm cái nào, điều này cũng nằm trong dự liệu của Ngô Minh. Nhưng mục đổi Vật liệu lại khiến Ngô Minh ngay tức khắc đại kinh thất sắc, hắn nhìn thấy hai thứ.
 
-Thứ nhất là **Chưởng trung vị diện** (Palm Plane), giá đổi là tám vạn điểm thưởng và một chi tuyến kịch tình cấp C.
+Thứ nhất là **Chưởng trung vị diện**, giá đổi là tám vạn điểm thưởng và một cốt truyện phụ cấp C.
 
-Đây là lần đầu tiên Ngô Minh thấy vật phẩm yêu cầu chi tuyến kịch tình để đổi, mà hắn đến tận bây giờ vẫn chưa biết làm sao để có được chi tuyến kịch tình. Còn về tám vạn điểm thưởng... đi chết đi cho rồi!
+Đây là lần đầu tiên Ngô Minh thấy vật phẩm yêu cầu cốt truyện phụ để đổi, mà hắn đến tận bây giờ vẫn chưa biết làm sao để có được cốt truyện phụ. Còn về tám vạn điểm thưởng... đi chết đi cho rồi!
 
 Điểm thưởng của hắn toàn bộ đều là rút ra từ Thiên Đạo Quyến Thuộc Trị mà có. Từ lúc trở lại thời đại này đến nay, toàn bộ điểm thưởng của hắn cộng lại cũng không đến tám vạn. Tám vạn? Đem bán hắn đi cũng không được nhiều như vậy đâu.
 
 Nhưng dù thế nào đi nữa, Ngô Minh cũng cảm thấy cái giá này thật sự là quá hời, đây chính là Chưởng trung vị diện a!!
 
-Thứ này Ngô Minh có biết tới. Trên mạng của chính phủ Hồng Hoang Thiên Đình có một phần thông tin về thứ này.
+Thứ này Ngô Minh có biết tới. Trên mạng của chính phủ Thiên Đình Hồng Hoang có một phần thông tin về thứ này.
 
-Nghe nói, một số đại năng - ừm, đại năng mạnh cỡ nào thì Ngô Minh không rõ, nhưng hắn phỏng chừng ít nhất phải là tứ giai mới được, thậm chí tứ giai cũng không xong, phải lên đến ngũ giai mới khả thi. Tóm lại, một số đại năng thông qua việc tế luyện suốt hàng triệu năm, hàng chục triệu năm, thậm chí là cả tỷ năm, có thể đem một số vị diện yếu nhỏ có đặc tính cực kỳ phù hợp với bản thân tế luyện thành vị diện trên lòng bàn tay cá nhân. Mà đại năng có thể làm được điều này đơn giản là ít lại càng ít. Nhân vật truyền thuyết duy nhất trên mạng Hồng Hoang Thiên Đình được xác nhận sở hữu Chưởng trung vị diện là Nhiên Đăng Cổ Phật trong Phật giáo. Ông ta nắm giữ hai mươi bốn cái Chưởng trung vị diện, gọi là hai mươi bốn Vô Thượng Phật Quốc.
+Nghe nói, một số đại năng - ừm, đại năng mạnh cỡ nào thì Ngô Minh không rõ, nhưng hắn phỏng chừng ít nhất phải là tứ giai mới được, thậm chí tứ giai cũng không xong, phải lên đến ngũ giai mới khả thi. Tóm lại, một số đại năng thông qua việc tế luyện suốt hàng triệu năm, hàng chục triệu năm, thậm chí là cả tỷ năm, có thể đem một số vị diện yếu nhỏ có đặc tính cực kỳ phù hợp với bản thân tế luyện thành vị diện trên lòng bàn tay cá nhân. Mà đại năng có thể làm được điều này đơn giản là ít lại càng ít. Nhân vật truyền thuyết duy nhất trên mạng Thiên Đình Hồng Hoang được xác nhận sở hữu Chưởng trung vị diện là Nhiên Đăng Cổ Phật trong Phật giáo. Ông ta nắm giữ hai mươi bốn cái Chưởng trung vị diện, gọi là hai mươi bốn Vô Thượng Phật Quốc.
 
 Trong hai mươi bốn Vô Thượng Phật Quốc này có hàng tỷ tín đồ Phật giáo cư ngụ. Ngoài việc cung cấp lực lượng tín ngưỡng, hai mươi bốn Vô Thượng Phật Quốc này còn sở hữu uy năng và quyền bính to lớn. Cho nên có người cho rằng hai mươi bốn Chưởng trung vị diện Vô Thượng Phật Quốc này đã tương đương với một kiện Tiên Thiên Linh Bảo rồi.
 
-Từ một phương diện nào đó mà nói thì lời này cũng không sai. Thứ gọi là Chưởng trung vị diện trên mạng của chính phủ Hồng Hoang Thiên Đình đã sớm được giải tích thấu triệt rồi. Đó chính là một vị diện hoàn toàn thuộc về bạn sở hữu, bạn có thể hiệu lệnh trăng sao tinh tú trong vị diện đó, bạn ở trong vị diện giống như Sáng Thế Thần, có thể rút ra năng lượng vô lượng từ đó. Làm được bước này, khi đối địch bạn sẽ không bao giờ lo thiếu hụt năng lượng. Đồng thời, trong những năng lượng này còn có một loại năng lượng cực kỳ đặc thù, chính vì năng lượng này mới khiến người ta cho rằng Chưởng trung vị diện đã luyện hóa tương đương với một kiện Tiên Thiên Linh Bảo không hoàn chỉnh. Lúc đối địch, đặt lên trên đầu liền đứng ở vị trí bất bại.
+Từ một phương diện nào đó mà nói thì lời này cũng không sai. Thứ gọi là Chưởng trung vị diện trên mạng của chính phủ Thiên Đình Hồng Hoang đã sớm được giải tích thấu triệt rồi. Đó chính là một vị diện hoàn toàn thuộc về bạn sở hữu, bạn có thể hiệu lệnh trăng sao tinh tú trong vị diện đó, bạn ở trong vị diện giống như Sáng Thế Thần, có thể rút ra năng lượng vô lượng từ đó. Làm được bước này, khi đối địch bạn sẽ không bao giờ lo thiếu hụt năng lượng. Đồng thời, trong những năng lượng này còn có một loại năng lượng cực kỳ đặc thù, chính vì năng lượng này mới khiến người ta cho rằng Chưởng trung vị diện đã luyện hóa tương đương với một kiện Tiên Thiên Linh Bảo không hoàn chỉnh. Lúc đối địch, đặt lên trên đầu liền đứng ở vị trí bất bại.
 
 **Tiên Thiên Nhất Khí**, chính là loại năng lượng đặc thù này!!
 
@@ -42,7 +42,7 @@ Trừ phi là Tiên Thiên Linh Bảo truyền thuyết **Hỗn Độn Châu**, 
 
 Ngô Minh nhìn hạng mục đổi đồ này, nước miếng hắn cứ chảy ròng ròng. Ở thời đại này, không còn sự tồn tại nào hiểu rõ sự đáng sợ của Chưởng trung vị diện hơn hắn nữa. Khi đối địch, trực tiếp quăng ra Chưởng trung vị diện, thể tích của một châu nghiền áp xuống, dưới ngũ giai trực tiếp thành vụn thịt. Mà khi phòng ngự, đặt trên đầu, cho dù là cường giả ngũ giai cũng phải tốn không ít công sức mới có thể làm bị thương, có thể nói là vật phẩm tuyệt hảo để "du lịch tại gia, giết người phóng hỏa" a.
 
-"Đáng tiếc, tám vạn điểm thưởng, một chi tuyến kịch tình cấp C, đợi đến khi ta kiếm được những thứ này có lẽ trăm năm ngàn năm đều trôi qua rồi..."
+"Đáng tiếc, tám vạn điểm thưởng, một cốt truyện phụ cấp C, đợi đến khi ta kiếm được những thứ này có lẽ trăm năm ngàn năm đều trôi qua rồi..."
 
 Ngô Minh nỗ lực dời mắt khỏi Chưởng trung vị diện, sau đó hắn nhìn sang hạng mục đổi đồ thứ hai mới xuất hiện: **Tiên Thiên Nhất Khí**.
 
@@ -54,7 +54,7 @@ Ngô Minh rất không nói lên lời, đây đã không còn là điều may m
 
 **Cửu U tuyền thủy**, một ngàn điểm thưởng đổi được mười giọt. **U Minh Huyết Hải ngưng súc dịch**, một ngàn năm trăm điểm thưởng mười giọt. **U Minh thiết**, giá đổi một ngàn điểm thưởng ba trăm gram. Cộng thêm **Tiên Thiên Nhất Khí**, một ngàn điểm thưởng một luồng. Đây chính là toàn bộ vật liệu chính của Hóa Huyết Thần Đao, cũng là những thứ khó thu thập nhất, gần như không thể tìm thấy ở thế gian.
 
-Ngoài những thứ này, các vật liệu khác của Hóa Huyết Thần Đao đều dễ tìm. Ví dụ như máu của trăm loại sinh vật trí tuệ, ở thời đại Hồng Hoang Thiên Đình có lẽ còn khó tìm, nhưng ở thời đại Hồng Hoang Lịch này thì đơn giản hết sức. Đây cũng chính là nguyên nhân Ngô Minh khi tấn công tòa đại lâu dược phẩm đã thu lấy huyết mạch Titan. Đẳng cấp huyết mạch của trăm loại sinh vật trí tuệ càng cao thì phẩm chất ban đầu của Hóa Huyết Thần Đao càng tốt.
+Ngoài những thứ này, các vật liệu khác của Hóa Huyết Thần Đao đều dễ tìm. Ví dụ như máu của trăm loại sinh vật trí tuệ, ở thời đại Thiên Đình Hồng Hoang có lẽ còn khó tìm, nhưng ở thời đại Hồng Hoang Lịch này thì đơn giản hết sức. Đây cũng chính là nguyên nhân Ngô Minh khi tấn công tòa đại lâu dược phẩm đã thu lấy huyết mạch Titan. Đẳng cấp huyết mạch của trăm loại sinh vật trí tuệ càng cao thì phẩm chất ban đầu của Hóa Huyết Thần Đao càng tốt.
 
 Còn về những thứ khác, như thiên niên vẫn thiết (vảy sắt thiên thạch ngàn năm), thủ đồng (đồng thượng hạng), bí ngân, tinh kim, cực âm cương... những thứ này đều có thể dùng tiền mua được, cơ bản không cần tốn quá nhiều sức lực để thu thập.
 
@@ -66,4 +66,4 @@ Bao gồm linh thạch cướp được, cộng thêm linh thạch có thể vay
 
 Chỉ là công dụng của điểm thưởng chắc chắn lớn hơn linh thạch nhiều, có thể dùng linh thạch bù đắp chỗ trống thì hà tất gì phải dùng tới điểm thưởng?
 
-"Phỏng chừng còn phải làm thêm một vố nữa. Tiếp theo, chính là cái **Huyết tộc mục trường** (Blood Clan Ranch) kia đi."
+"Phỏng chừng còn phải làm thêm một vố nữa. Tiếp theo, chính là cái **Trang trại Huyết tộc** kia đi."

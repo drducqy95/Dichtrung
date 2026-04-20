@@ -8,15 +8,15 @@ Từ bao giờ mà con người lại bị coi như gia súc thế này!?
 
 Đến từ thời đại Nhân tộc lịch, Ngô Minh không thể nào thấu hiểu nổi tình cảnh này. Nhân tộc lịch - trong cái thời đại tương lai đó, con người mới là vạn vật chi linh, vạn vật chi trưởng của đa vũ trụ. Bất luận là thế giới có ma pháp hay không có ma pháp, phàm là vị diện nào mà con người không đứng ở đỉnh chuỗi thức ăn thì đều bị các đại năng hủy diệt không nương tay. Con người vốn dĩ phải là nhân vật chính của đa vũ trụ, nhân vật chính vĩnh hằng mới đúng.
 
-Đó chính là tam quan bản năng của Ngô Minh. Bất kể là ở Trái Đất không có ma pháp hay ở chính phủ Hồng Hoang Thiên Đình của thế giới siêu ma, tư tưởng của hắn chưa từng bị thay đổi. Thậm chí nhờ những thông tin có được từ chính phủ Hồng Hoang Thiên Đình, hắn càng thêm khẳng định niềm tin đó.
+Đó chính là tam quan bản năng của Ngô Minh. Bất kể là ở Trái Đất không có ma pháp hay ở chính phủ Thiên Đình Hồng Hoang của thế giới siêu ma, tư tưởng của hắn chưa từng bị thay đổi. Thậm chí nhờ những thông tin có được từ chính phủ Thiên Đình Hồng Hoang, hắn càng thêm khẳng định niềm tin đó.
 
-Chính phủ Hồng Hoang Thiên Đình không hề phong tỏa thông tin về sự tồn tại của các dị tộc. Ngược lại, chính phủ này công khai gần như mọi hành động của quân đội Thiên Đình: ví dụ như đánh chiếm vị diện dị tộc nào, thảm sát bao nhiêu dị tộc, hủy diệt bao nhiêu vị diện, xâm chiếm bao nhiêu thuộc địa...
+Chính phủ Thiên Đình Hồng Hoang không hề phong tỏa thông tin về sự tồn tại của các dị tộc. Ngược lại, chính phủ này công khai gần như mọi hành động của quân đội Thiên Đình: ví dụ như đánh chiếm vị diện dị tộc nào, thảm sát bao nhiêu dị tộc, hủy diệt bao nhiêu vị diện, xâm chiếm bao nhiêu thuộc địa...
 
 Nhìn những thông tin đó, tuy trong lòng Ngô Minh cũng có nhiều phần không nỡ, dù là dị tộc nhưng dù sao cũng đều là sinh mệnh có trí tuệ, hà tất phải đuổi cùng giết tận? Điều này khác hẳn với việc hắn thấy sư tử hổ vồ người thì muốn giết sạch lũ dã thú đó. Tuy là dị tộc nhưng đều có trí tuệ, vẫn nên có sự giao lưu.
 
 Lúc đó Ngô Minh nghĩ như vậy, sau này cũng luôn nghĩ như vậy, cho tới khi tới thời đại Hồng Hoang Lịch này. Tận mắt thấy Cẩu đầu nhân ăn thịt trẻ em loài người, suy nghĩ kia đã xuất hiện một tia nứt nẻ. Và sau khi thấy tòa nhà y dược này, suy nghĩ ấy đã chằng chịt vết rạn. Thứ duy nhất khiến nó chưa hoàn toàn vỡ nát chính là nhờ những người như lão sư nhân Lubi, mỹ nhân ngư, gã lùn Ebis, hay bộ xương pháp sư Loric Kim Nhãn.
 
-Người — không, sinh vật có trí tuệ thì phải có lý tính, có tư tưởng, như vậy mới được gọi là sinh vật có trí tuệ. Và cách đối xử với sinh vật vô trí tuệ và sinh vật có trí tuệ có thể giống nhau sao? Ngay cả chính phủ Hồng Hoang Thiên Đình ở tương lai, tuy bốn phương chinh phạt các vị diện dị tộc nhưng đa phần là đại thảm sát nhanh gọn, không hề thấy có sự ngược đãi bạo ngược công khai nào. Thậm chí khi đó còn có một bộ phận lớn con người trong chính phủ Hồng Hoang Thiên Đình lớn tiếng kêu gọi, diễu hành khắp nơi để đòi quyền sinh tồn cho những dị tộc đó.
+Người — không, sinh vật có trí tuệ thì phải có lý tính, có tư tưởng, như vậy mới được gọi là sinh vật có trí tuệ. Và cách đối xử với sinh vật vô trí tuệ và sinh vật có trí tuệ có thể giống nhau sao? Ngay cả chính phủ Thiên Đình Hồng Hoang ở tương lai, tuy bốn phương chinh phạt các vị diện dị tộc nhưng đa phần là đại thảm sát nhanh gọn, không hề thấy có sự ngược đãi bạo ngược công khai nào. Thậm chí khi đó còn có một bộ phận lớn con người trong chính phủ Thiên Đình Hồng Hoang lớn tiếng kêu gọi, diễu hành khắp nơi để đòi quyền sinh tồn cho những dị tộc đó.
 
 Vậy mà ở thời đại Hồng Hoang Lịch này, con người lại bi thảm đến nhường này!?
 

@@ -12,13 +12,13 @@ Ngô Minh bật cười: "Ta quả thực đang thiếu nhân thủ. Thế này 
 
 Ebis lập tức cảm ơn rối rít rồi hài lòng rời đi.
 
-Ngô Minh mỉm cười. Theo những gì hắn biết, trong các tộc phái sinh của Địa Linh, tộc Hậu Địa Tinh và Người Lùn (Dwarf) có cuộc sống sung túc nhất, còn Địa Tinh tộc (Goblin) và Chú lùn (Gnome) thì vất vả hơn nhiều, đa phần chỉ có thể làm lao động chân tay nặng nhọc. Nghe nói mỗi năm đều có một lượng lớn người của hai tộc này bị chết đói.
+Ngô Minh mỉm cười. Theo những gì hắn biết, trong các tộc phái sinh của Địa Linh, tộc Địa Tinh Cao Cấp và Người Lùn có cuộc sống sung túc nhất, còn Địa Tinh tộc và Chú lùn thì vất vả hơn nhiều, đa phần chỉ có thể làm lao động chân tay nặng nhọc. Nghe nói mỗi năm đều có một lượng lớn người của hai tộc này bị chết đói.
 
-Chuyện kể rằng, tộc Địa Tinh mỗi lứa sinh được bảy tám đứa, Chú lùn tuy ít hơn nhưng cũng bốn năm đứa. Dù vóc dáng nhỏ bé nhưng họ ăn rất nhiều. Hai tộc này tuy thừa kế thiên phú khoa học từ Địa Linh tộc, nhưng ở Hồng Hoang Đại Lục, nếu không có nền tảng nhất định và trình độ kỹ thuật đủ cao, thì chỉ với nền công nghệ tầm cỡ thế kỷ 20 hay 21 là không thể phát triển được. Hơn nữa, ngay cả khi phát triển được mà không có môi trường bên ngoài thuận lợi hay thực lực đủ mạnh để bảo vệ, thì sớm muộn cũng bị người khác tiêu diệt.
+Chuyện kể rằng, tộc Địa Tinh mỗi lứa sinh được bảy tám đứa, Chú lùn tuy ít hơn nhưng cũng bốn năm đứa. Dù vóc dáng nhỏ bé nhưng họ ăn rất nhiều. Hai tộc này tuy thừa kế thiên phú khoa học từ tộc Gnome, nhưng ở Hồng Hoang Đại Lục, nếu không có nền tảng nhất định và trình độ kỹ thuật đủ cao, thì chỉ với nền công nghệ tầm cỡ thế kỷ 20 hay 21 là không thể phát triển được. Hơn nữa, ngay cả khi phát triển được mà không có môi trường bên ngoài thuận lợi hay thực lực đủ mạnh để bảo vệ, thì sớm muộn cũng bị người khác tiêu diệt.
 
 Chính vì thế, tộc Địa Tinh và Chú lùn thực chất là những chủng tộc vô cùng yếu ớt, thường xuyên lâm vào cảnh không đủ ăn. Vì vậy, Ebis — một Chú lùn khi trở thành học đồ pháp sư — đã tìm mọi cách đưa người tộc của mình vào thành phố. Bây giờ thấy Ngô Minh có lãnh địa, gã cũng muốn nhồi nhét thêm vài người sang đó.
 
-Về vấn đề này, Ngô Minh cũng không phản đối, miễn là họ không xâm phạm vào khu vực cấm. Dù sao lãnh địa của hắn cũng cần người trông nom, quả thực là đang thiếu nhân lực. Nghe nói tộc Chú lùn thường giỏi về tài vụ và công nghệ hệ điện, trình độ xây dựng tuy không bằng Người Lùn nhưng cũng thuộc hàng bậc nhất. Ngược lại, nếu là Địa Tinh thì xin miễn. Khác với tộc Hậu Địa Tinh, tộc Địa Tinh thông thường và các tộc phái sinh được biết đến với thói ở bẩn và lầy lội, hơn nữa họ còn xảo quyệt, thích lừa lọc. Công nghệ mà họ thừa kế từ Địa Linh tộc cũng thiên về hướng gây nổ. Chẳng hạn như ở thành Kim Hà có vài cửa hàng công nghệ do Địa Tinh mở, Ngô Minh đã từng ghé qua xem thử và lập tức thề rằng sẽ tuyệt đối không cho phép bất kỳ tên Địa Tinh nào đến gần lãnh địa của mình.
+Về vấn đề này, Ngô Minh cũng không phản đối, miễn là họ không xâm phạm vào khu vực cấm. Dù sao lãnh địa của hắn cũng cần người trông nom, quả thực là đang thiếu nhân lực. Nghe nói tộc Chú lùn thường giỏi về tài vụ và công nghệ hệ điện, trình độ xây dựng tuy không bằng Người Lùn nhưng cũng thuộc hàng bậc nhất. Ngược lại, nếu là Địa Tinh thì xin miễn. Khác với tộc Địa Tinh Cao Cấp, tộc Địa Tinh thông thường và các tộc phái sinh được biết đến với thói ở bẩn và lầy lội, hơn nữa họ còn xảo quyệt, thích lừa lọc. Công nghệ mà họ thừa kế từ tộc Gnome cũng thiên về hướng gây nổ. Chẳng hạn như ở thành Kim Hà có vài cửa hàng công nghệ do Địa Tinh mở, Ngô Minh đã từng ghé qua xem thử và lập tức thề rằng sẽ tuyệt đối không cho phép bất kỳ tên Địa Tinh nào đến gần lãnh địa của mình.
 
 Ví dụ như "Giày Nổ Tuyệt Đối An Toàn", có thể giúp người ta di chuyển với tốc độ x100 lần. Ừ, nổ tung mà tiến về phía trước, mất đôi chân thì cũng có sao đâu nhỉ?
 
@@ -56,29 +56,29 @@ Chỉ là mọi thứ vẫn còn khá lộn xộn. Ngô Minh cũng không biết
 
 "Có lẽ mình nên tìm một công ty chuyên nghiệp? Hay phái một vài người có chuyên môn? Nhưng bí mật của mình vốn dĩ rất nhiều, việc xây dựng bên trong lãnh địa cốt lõi đến cả đám chú lùn này còn không được phép tham gia. Chẳng lẽ sau khi dùng xong phải giết người diệt khẩu?"
 
-Ngô Minh rất bất lực, nhất thời cũng không nghĩ ra cách nào hay hơn. Bất chợt tâm niệm hắn khẽ động, lập tức điểm tay vào gương soi bên cạnh giường. Tấm gương hiện ra hình ảnh con hẻm bên ngoài căn nhà hắn đang ở. Hắn thấy một gã Hậu Địa Tinh Huyết tộc đẹp trai đang đứng đó, phía sau gã còn có một nữ Huyết tộc tai mèo và một nữ Huyết tộc Thụ tinh. Cả hai nữ Huyết tộc này đều là phái nữ, ngoài phần tai và một vài điểm nhỏ khác ra thì họ đều mang vẻ ngoài chuẩn mực của mỹ nữ, trông vô cùng xinh đẹp.
+Ngô Minh rất bất lực, nhất thời cũng không nghĩ ra cách nào hay hơn. Bất chợt tâm niệm hắn khẽ động, lập tức điểm tay vào gương soi bên cạnh giường. Tấm gương hiện ra hình ảnh con hẻm bên ngoài căn nhà hắn đang ở. Hắn thấy một gã Huyết tộc Địa tinh cao cấp đẹp trai đang đứng đó, phía sau gã còn có một nữ Huyết tộc tai mèo và một nữ Huyết tộc Thụ tinh. Cả hai nữ Huyết tộc này đều là phái nữ, ngoài phần tai và một vài điểm nhỏ khác ra thì họ đều mang vẻ ngoài chuẩn mực của mỹ nữ, trông vô cùng xinh đẹp.
 
-Sự kết hợp của ba tên Huyết tộc này khiến Ngô Minh không khỏi thắc mắc. Hắn nhất thời không biết lai lịch của ba kẻ này. Dựa theo linh quang mà thấy, hai nữ Huyết tộc kia đều là người phàm, còn gã Hậu Địa Tinh Huyết tộc đẹp trai kia là chức nghiệp giả nhất giai hoặc nhị giai, hoàn toàn không có chút đe dọa nào đối với hắn.
+Sự kết hợp của ba tên Huyết tộc này khiến Ngô Minh không khỏi thắc mắc. Hắn nhất thời không biết lai lịch của ba kẻ này. Dựa theo linh quang mà thấy, hai nữ Huyết tộc kia đều là người phàm, còn gã Huyết tộc Địa tinh cao cấp đẹp trai kia là chức nghiệp giả nhất giai hoặc nhị giai, hoàn toàn không có chút đe dọa nào đối với hắn.
 
-Lúc này, gã Hậu Địa Tinh Huyết tộc kia khẽ cúi người lịch thiệp nói: "Xin hỏi tiên sinh Ngô Minh có nhà không? Chúng tôi phụng mệnh mà đến."
+Lúc này, gã Huyết tộc Địa tinh cao cấp kia khẽ cúi người lịch thiệp nói: "Xin hỏi tiên sinh Ngô Minh có nhà không? Chúng tôi phụng mệnh mà đến."
 
 Phụng mệnh? Phụng mệnh ai?
 
 Đầu Ngô Minh đầy dấu hỏi, rồi hình ảnh một gã Huyết tộc người phàm bỗng hiện lên trong tâm trí. Hắn lập tức cảm thấy một trán vạch đen, rất muốn hét lên một tiếng "Ta không có ở nhà", nhưng lại sợ gã Huyết tộc người phàm kia chỉ chờ hắn hét câu đó ra. Ngô Minh lưỡng lự hồi lâu rồi mới miễn cưỡng bước ra khỏi nhà, đi đến đầu hẻm hỏi: "Các ngươi tới làm gì?"
 
-Gã Hậu Địa Tinh Huyết tộc mỉm cười, lấy ra ba cuộn giấy da từ trong ngực và nói: "Đây là khế ước linh hồn của ba người chúng tôi. Chỉ cần tiên sinh Ngô Minh ký tên vào, chúng tôi lập tức sẽ phụng tiên sinh Ngô Minh làm chủ. Tôi là quản gia của Bá tước Ayadan, còn hai người này lần lượt đến từ phủ Hầu tước Nặc Ngữ và phủ Hầu tước Lạc Luân. Chúng tôi là phụng mệnh của vị kia mà đến."
+Gã Huyết tộc Địa tinh cao cấp mỉm cười, lấy ra ba cuộn giấy da từ trong ngực và nói: "Đây là khế ước linh hồn của ba người chúng tôi. Chỉ cần tiên sinh Ngô Minh ký tên vào, chúng tôi lập tức sẽ phụng tiên sinh Ngô Minh làm chủ. Tôi là quản gia của Bá tước Ayadan, còn hai người này lần lượt đến từ phủ Hầu tước Nặc Ngữ và phủ Hầu tước Lạc Luân. Chúng tôi là phụng mệnh của vị kia mà đến."
 
-Nghe đến ba chữ "vị kia", Ngô Minh cảm thấy sống lưng lạnh toát. Hắn ngần ngừ hồi lâu mới cầm lấy ba bản khế ước và quan sát kỹ lưỡng. Dựa trên sự phân tích, ba bản khế ước này quả nhiên kết nối với linh hồn của ba người trước mắt. Chỉ cần ký tên, họ sẽ lập tức trở thành nô lệ linh hồn của hắn, chỉ cần một ý niệm là hắn có thể khiến họ chết đi. Trừ phi họ thắp sáng tâm linh chi quang, nếu không sẽ mãi mãi không thể thoát ly.
+Nghe đến ba chữ "vị kia", Ngô Minh cảm thấy sống lưng lạnh toát. Hắn ngần ngừ hồi lâu mới cầm lấy ba bản khế ước và quan sát kỹ lưỡng. Dựa trên sự phân tích, ba bản khế ước này quả nhiên kết nối với linh hồn của ba người trước mắt. Chỉ cần ký tên, họ sẽ lập tức trở thành nô lệ linh hồn của hắn, chỉ cần một ý niệm là hắn có thể khiến họ chết đi. Trừ phi họ thắp sáng ánh sáng tâm linh, nếu không sẽ mãi mãi không thể thoát ly.
 
 "Một quản gia? Hai hầu nữ?" Ngô Minh hỏi.
 
-Gã Hậu Địa Tinh Huyết tộc cung kính và giữ lễ cúi người, trong khi hai nữ Huyết tộc kia cũng vén váy hành lễ theo. Ngô Minh quan sát ba người lần nữa, nghĩ về tình cảnh của mình. Bản khế ước này quả thực không có cạm bẫy, một khi đã ký, họ không thể bị người khác thao túng, điều này cũng đảm bảo sự trung thành. Chỉ là...
+Gã Huyết tộc Địa tinh cao cấp cung kính và giữ lễ cúi người, trong khi hai nữ Huyết tộc kia cũng vén váy hành lễ theo. Ngô Minh quan sát ba người lần nữa, nghĩ về tình cảnh của mình. Bản khế ước này quả thực không có cạm bẫy, một khi đã ký, họ không thể bị người khác thao túng, điều này cũng đảm bảo sự trung thành. Chỉ là...
 
 Hắn lại rơi vào bàn tay của gã Huyết tộc người phàm Tử Nha kia rồi!!
 
 "Ngươi am hiểu những kiến thức gì?" Ngô Minh cố gắng bắt bẻ hỏi.
 
-Gã Hậu Địa Tinh lịch thiệp đáp: "Tôi tốt nghiệp đại học chuyên ngành quản trị nhân sự và kế toán, đồng thời tinh thông công trình học và thiết kế đường sắt đô thị, thiết kế phi hành khí. Ngoài ra, tôi còn am hiểu ngôn ngữ của sáu tộc, và còn..."
+Gã Địa Tinh Cao Cấp lịch thiệp đáp: "Tôi tốt nghiệp đại học chuyên ngành quản trị nhân sự và kế toán, đồng thời tinh thông công trình học và thiết kế đường sắt đô thị, thiết kế phi hành khí. Ngoài ra, tôi còn am hiểu ngôn ngữ của sáu tộc, và còn..."
 
 "Thế còn hai người các ngươi..." Ngô Minh khó khăn chống cự hỏi tiếp.
 

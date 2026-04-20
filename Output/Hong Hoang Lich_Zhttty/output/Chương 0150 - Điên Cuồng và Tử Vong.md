@@ -26,11 +26,11 @@ Chỉ trong nháy mắt, Triệu Thuế Không lại biến mất rồi hiện r
 
 Tiếng cười của Ngô Minh vẫn tiếp tục, không hề vì đau đớn hay sợ hãi mà dừng lại. Đột nhiên, Ngô Minh ngừng cười, da thịt toàn thân hắn bắt đầu phun máu, trên mặt nổi đầy gân xanh. Chỉ trong một khoảnh khắc, tám đạo phù văn vốn ẩn vào không trung và lòng đất đều đồng loạt hiện hình.
 
-"Càn Khôn mượn lực! Thiên Quân Cấn (Thousand-Jun Mountain)!"
+"Càn Khôn mượn lực! Thiên Quân Cấn!"
 
-"Càn Khôn mượn lực! Loa Toàn Ly (Spiral Fire)!"
+"Càn Khôn mượn lực! Loa Toàn Ly!"
 
-"Càn Khôn mượn lực! Cửu Muội Viêm (Nine-Mai Flame)!"
+"Càn Khôn mượn lực! Cửu Muội Viêm!"
 
 Ba tiếng gầm lớn vang lên, chỉ thấy những luồng bạch hỏa dài vài trượng bùng cháy từ bốn phương tám hướng. Nhiệt độ của ngọn lửa này quả thực là quá mức khoa trương, ngay cả Triệu Thuế Không cũng không dám tùy tiện lại gần. Hơn nữa ngọn lửa này theo thời gian bắt đầu cháy từ ngoài vào trong, gần như chặn đứng toàn bộ đường lui của Ngô Minh và Triệu Thuế Không.
 
@@ -64,25 +64,25 @@ Triệu Thuế Không chỉ kịp thốt ra mấy từ đó, rồi trong chốc 
 
 Không chỉ có cô, nhìn Ngô Minh và Triệu Thuế Không cùng chết trận, Từ Văn, Tiết Ngọc, Elfa, Văn Trạch Đào bốn người cũng đều im lặng.
 
-Ở phía bên kia, Vương Vũ đang làm phẫu thuật liền nhỏ dược tề Thánh Quang vào trong nội tạng của La Lỵ. Amor từ cửa bước tới nói: "Không cần gấp gáp như vậy nữa rồi, Ngô Minh... đã chết."
+Ở phía bên kia, Vương Vũ đang làm phẫu thuật liền nhỏ dược tề Thánh Quang vào trong nội tạng của Lori. Amor từ cửa bước tới nói: "Không cần gấp gáp như vậy nữa rồi, Ngô Minh... đã chết."
 
 "Ừm, tôi biết." Vương Vũ vẻ mặt nghiêm nghị: "Anh ấy là vì chúng ta mà chết..."
 
-Amor nhất thời cũng lặng thinh không nói. Ở phía bên kia, Trịnh Xá nhìn thấy nội tạng của La Lỵ sau khi hấp thụ dược tề Thánh Quang, vậy mà lại bắt đầu phục hồi với tốc độ mắt thường có thể thấy được. Rất nhanh sau đó, phổi phục hồi xong, cơ hoành phục hồi xong, xương sườn phục hồi xong. Vương Vũ đã nhỏ ròng rã ba lọ dược tề Thánh Quang, trước sau chưa đầy vài phút, lồng ngực của La Lỵ đã gần như khôi phục như cũ, chỉ có máu tươi và những vết xước nhỏ mới chứng minh được rằng cô vừa đi qua một vòng quỷ môn quan.
+Amor nhất thời cũng lặng thinh không nói. Ở phía bên kia, Trịnh Xá nhìn thấy nội tạng của Lori sau khi hấp thụ dược tề Thánh Quang, vậy mà lại bắt đầu phục hồi với tốc độ mắt thường có thể thấy được. Rất nhanh sau đó, phổi phục hồi xong, cơ hoành phục hồi xong, xương sườn phục hồi xong. Vương Vũ đã nhỏ ròng rã ba lọ dược tề Thánh Quang, trước sau chưa đầy vài phút, lồng ngực của Lori đã gần như khôi phục như cũ, chỉ có máu tươi và những vết xước nhỏ mới chứng minh được rằng cô vừa đi qua một vòng quỷ môn quan.
 
 Cho đến tận lúc này, Trịnh Xá mới thở phào một cái, rồi da thịt hắn bắt đầu sụp đổ và chảy máu, cả người đau đớn đến mức gân xanh nổi đầy đầu, hắn ngã vật ra sàn nhà lăn lộn không ngừng. Cơn đau khủng khiếp khiến hắn ngay cả một tiếng rên cũng không phát ra nổi. Chưa bao giờ hắn cảm thấy mình cận kề cái chết đến thế này, mà còn là một cái chết đau đớn nhất, trực tiếp bị đau cho đến chết.
 
-Lúc này, mi mắt La Lỵ khẽ run rẩy, dường như sắp tỉnh lại. Amor trực tiếp bảo Vương Vũ và Tiết Ngọc giữ chặt Trịnh Xá, kéo hắn ra ngoài quảng trường Chủ Thần. Cho dù lúc này, quảng trường Chủ Thần vẫn còn nóng một cách đáng sợ, mọi người vẫn cố gượng bước vào. Và theo sự tỉnh lại của La Lỵ, mọi người trong nháy mắt rơi vào trong cột sáng, bao gồm cả thi thể đã chết của Ngô Minh. Tất cả những dấu vết họ mang tới lập tức biến mất sạch sẽ. Trên quảng trường Chủ Thần lại chỉ còn lại một quả cầu ánh sáng Chủ Thần lơ lửng, cứ như thể mọi chuyện vừa rồi chỉ là một giấc ảo giác vậy.
+Lúc này, mi mắt Lori khẽ run rẩy, dường như sắp tỉnh lại. Amor trực tiếp bảo Vương Vũ và Tiết Ngọc giữ chặt Trịnh Xá, kéo hắn ra ngoài quảng trường Chủ Thần. Cho dù lúc này, quảng trường Chủ Thần vẫn còn nóng một cách đáng sợ, mọi người vẫn cố gượng bước vào. Và theo sự tỉnh lại của Lori, mọi người trong nháy mắt rơi vào trong cột sáng, bao gồm cả thi thể đã chết của Ngô Minh. Tất cả những dấu vết họ mang tới lập tức biến mất sạch sẽ. Trên quảng trường Chủ Thần lại chỉ còn lại một quả cầu ánh sáng Chủ Thần lơ lửng, cứ như thể mọi chuyện vừa rồi chỉ là một giấc ảo giác vậy.
 
 Mà cơn đau của Trịnh Xá sớm đã vượt qua cực hạn, da thịt toàn thân hắn đang sụp đổ và chảy máu, cơ bắp trong người thậm chí vì quá đau, cơ thể quá co giật mà bị đứt lìa và xé rách. Hơi thở của Trịnh Xá ngày càng yếu ớt, dường như có thể tắt thở bất cứ lúc nào. Lúc này, một người khác vốn luôn ẩn nấp trong phòng bước ra, người này chính là Tom, tên da trắng tốt bụng đã nhắc nhở Trịnh Xá lúc trước.
 
-Tom nhìn Trịnh Xá đang rơi vào cảnh hấp hối trên sàn nhà, lại nghĩ tới sự bướng bỉnh và kiên trì của Trịnh Xá trước đám phân biệt chủng tộc khi mới vào Ác Ma tiểu đội, hắn thở dài một tiếng, nói với quả cầu ánh sáng trên không trung: "Chủ Thần, hãy phục hồi toàn thân cho Trịnh Xá, điểm thưởng trừ vào chỗ tôi."
+Tom nhìn Trịnh Xá đang rơi vào cảnh hấp hối trên sàn nhà, lại nghĩ tới sự bướng bỉnh và kiên trì của Trịnh Xá trước đám phân biệt chủng tộc khi mới vào Tiểu đội Ác Ma, hắn thở dài một tiếng, nói với quả cầu ánh sáng trên không trung: "Chủ Thần, hãy phục hồi toàn thân cho Trịnh Xá, điểm thưởng trừ vào chỗ tôi."
 
 Ngay lập tức, một cột sáng giáng xuống, trực tiếp bao phủ lấy Trịnh Xá đang cận kề cái chết...
 
 Ở bên kia, đám người Amor đã trở lại không gian Chủ Thần của mình, trong đầu mỗi người đều xuất hiện thông tin.
 
-"Hoàn thành nhiệm vụ, mỗi người nhận được 5000 điểm thưởng, một chi tiết cốt truyện cấp B. Cập nhật thông tin Chủ Thần, tăng thêm vật phẩm trao đổi, tăng thêm không gian thử luyện, tăng thêm thế giới luân hồi, mở ra liên kết tọa độ Ác Ma tiểu đội, cần 80 vạn điểm thưởng và hai chi tiết cốt truyện cấp SSS."
+"Hoàn thành nhiệm vụ, mỗi người nhận được 5000 điểm thưởng, một chi tiết cốt truyện cấp B. Cập nhật thông tin Chủ Thần, tăng thêm vật phẩm trao đổi, tăng thêm không gian thử luyện, tăng thêm thế giới luân hồi, mở ra liên kết tọa độ Tiểu đội Ác Ma, cần 80 vạn điểm thưởng và hai chi tiết cốt truyện cấp SSS."
 
 Thông tin trong đoạn văn này quá nhiều, đến nỗi mọi người thảy đều bàng hoàng. Một lúc lâu sau, Los bỗng nhiên nói: "Tôi muốn hồi sinh Ngô Minh!"
 
@@ -96,4 +96,4 @@ Cùng lúc đó, trong pháp sư tháp của Ngô Minh tại đại lục Hồng
 
 Điềm báo cho thấy chủ nhân điều luật những đạo vận này đã chết.
 
-Phúc địa hình (Embryo of Blessed Land) này giờ đây đã trở thành vật vô chủ.
+Phúc địa hình này giờ đây đã trở thành vật vô chủ.

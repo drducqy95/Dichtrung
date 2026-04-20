@@ -30,7 +30,7 @@ Các vị Tiên nhân thậm chí chỉ cần dựa vào năng lực giải tíc
 
 Trước sau chỉ trong vài nhịp thở, chiếc thang máy này tự động bắt đầu đi lên, từ tầng bảy hướng về tầng tám. Toàn bộ hệ thống điều khiển chiếc thang máy này đều mất hiệu lực, điều này ngay lập tức kích hoạt sự cảnh giác của bộ phận an ninh từ tầng tám trở lên. Trước khi Ngô Minh kịp tới tầng tám thì trước cửa thang máy đã có hơn hai mươi bảo an người phàm và ba tên bảo an siêu phàm chạy tới.
 
-Những bảo an người phàm cầm súng nhắm vào cửa thang máy, còn bảo an siêu phàm thì rút vũ khí của riêng mình ra. Trên người và vũ khí của bọn chúng đều tỏa ra linh quang siêu phàm, rõ ràng đó là những vũ khí phụ ma (enchanted weapons). Cho dù chỉ là vũ khí phụ ma bậc một cũng đủ để bọn chúng chấp cả trăm kẻ bình thường.
+Những bảo an người phàm cầm súng nhắm vào cửa thang máy, còn bảo an siêu phàm thì rút vũ khí của riêng mình ra. Trên người và vũ khí của bọn chúng đều tỏa ra linh quang siêu phàm, rõ ràng đó là những vũ khí phụ ma. Cho dù chỉ là vũ khí phụ ma bậc một cũng đủ để bọn chúng chấp cả trăm kẻ bình thường.
 
 Lúc này cửa thang máy mở ra, Ngô Minh bước ra ngoài. Lập tức, tất cả các bảo an đồng loạt lên đạn súng lách cách. Một tên bảo an siêu phàm trực tiếp bước ra nói: "Huyết tộc, ngươi đã xâm nhập vào lãnh địa tư nhân của công ty Công Nghệ Cao Phúc Âm. Bây giờ hãy thúc thủ chịu trói, chúng ta sẽ đưa ngươi tới cơ quan chức năng chờ xét xử. Nếu kháng cự sẽ bị giết ngay lập tức, tuyệt không..."
 
@@ -44,15 +44,15 @@ Thế nhưng đốm lửa kia dường như không chịu bất kỳ tác độn
 
 Ngô Minh cười lạnh một tiếng. Việc hắn làm thực ra vô cùng đơn giản, lượng chân nguyên lực sử dụng thậm chí còn ít hơn cả khi thi triển một cái Hỏa cầu thuật nhỏ nhất, chỉ đơn giản là tác động vào ti thể của tên võ giả siêu phàm đó, trực tiếp khiến ti thể nhận được thông tin sai lệch, rồi bộc phát tự cháy từ nội bộ ra ngoài. Hơn nữa đây là sự tự thiêu từ bên trong nên mọi cái gọi là ma kháng (kháng ma pháp) đều hoàn toàn vô dụng.
 
-Thực tế, ở chính phủ Hồng Hoang Thiên Đình, cũng có người thực hiện phân loại các con đường tu hành thành ba phương diện: Ma, Vật, Khoa. Ví dụ pháp sư là Ma, những kẻ kế thừa và khai phá huyết mạch cũng thuộc về Ma, tu chân giả phi chính thống cũng là Ma. Còn Khóa Gen (Genetic Lock) thuộc về Vật, những kẻ rèn luyện nhục thân, khí huyết thành rồng, ngưng luyện huyết khiếu, thành tựu Nhân Tiên các loại cũng thuộc về Vật. Nhưng tu chân giả, hay nói cách khác là tu chân giả chính thống, lại thuộc về Khoa.
+Thực tế, ở chính phủ Thiên Đình Hồng Hoang, cũng có người thực hiện phân loại các con đường tu hành thành ba phương diện: Ma, Vật, Khoa. Ví dụ pháp sư là Ma, những kẻ kế thừa và khai phá huyết mạch cũng thuộc về Ma, tu chân giả phi chính thống cũng là Ma. Còn Khóa Gen thuộc về Vật, những kẻ rèn luyện nhục thân, khí huyết thành rồng, ngưng luyện huyết khiếu, thành tựu Nhân Tiên các loại cũng thuộc về Vật. Nhưng tu chân giả, hay nói cách khác là tu chân giả chính thống, lại thuộc về Khoa.
 
 Cái gọi là Khoa chính là khoa học. Tất cả các tu chân giả chính thống đều phải đi học từ tiểu học. Ngoài việc dạy những kiến thức luyện khí cơ bản, phần lớn thời gian học tập tại trường cũng giống như trường học của Ngô Minh ở Trái Đất: toán học cộng trừ nhân chia, vật lý về các loại lực và hạt, hóa học về phản ứng giữa các nguyên tử phân tử, sinh học về các kiến thức sự sống... v.v.
 
-Ban đầu Ngô Minh cũng từng thắc mắc, tu chân thì chẳng phải nên là kiếm, tiên, bảo này nọ sao? Tại sao phong cách ở Hồng Hoang Thiên Đình lại biến thành học sinh đi học và các nhà khoa học làm nghiên cứu vậy?
+Ban đầu Ngô Minh cũng từng thắc mắc, tu chân thì chẳng phải nên là kiếm, tiên, bảo này nọ sao? Tại sao phong cách ở Thiên Đình Hồng Hoang lại biến thành học sinh đi học và các nhà khoa học làm nghiên cứu vậy?
 
 Cho đến khi hiểu rõ hơn về tình hình của tu chân giả chính thống, Ngô Minh mới biết tại sao họ lại được xếp vào phe khoa học thay vì phe thần bí.
 
-Phù văn hóa vũ trụ (Runized Universe) thực sự có thể mô phỏng các loại sức mạnh của phe thần bí, nhưng nếu chỉ là mô phỏng thì cũng không thể tạo nên uy danh của tu chân giả chính thống được. Cách sử dụng phù văn thực sự cơ bản không phải là mô phỏng ma pháp hay sức mạnh thần bí nào đó, nếu thế thì thà đi học ma pháp luôn cho rồi. Cách sử dụng phù văn thực sự là phải sở hữu một lượng lớn kiến thức, cũng như sự am hiểu về các quy luật vạn vật trong vũ trụ thì mới có thể thi triển ra được!!
+Phù văn hóa vũ trụ thực sự có thể mô phỏng các loại sức mạnh của phe thần bí, nhưng nếu chỉ là mô phỏng thì cũng không thể tạo nên uy danh của tu chân giả chính thống được. Cách sử dụng phù văn thực sự cơ bản không phải là mô phỏng ma pháp hay sức mạnh thần bí nào đó, nếu thế thì thà đi học ma pháp luôn cho rồi. Cách sử dụng phù văn thực sự là phải sở hữu một lượng lớn kiến thức, cũng như sự am hiểu về các quy luật vạn vật trong vũ trụ thì mới có thể thi triển ra được!!
 
 Tiếng súng nổ rền vang, hỏa lực của những khẩu súng mà đám bảo an này sử dụng không hề nhỏ. Chỉ trong vòng một hai giây, hàng trăm viên đạn đã lơ lửng dừng lại ở khoảng cách một mét trước mặt Ngô Minh, như thể bị đóng băng tại chỗ, hoàn toàn không nhích thêm được chút nào.
 

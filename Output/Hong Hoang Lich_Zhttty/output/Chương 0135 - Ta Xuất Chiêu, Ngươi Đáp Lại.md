@@ -72,7 +72,7 @@ Lại là hướng về phía sư đoàn ở giữa của Cao Đẳng Địa Tin
 
 "Vậy nên, tôi đã tới rồi, ra đây nói chuyện đôi câu đi."
 
-Tử Nha (Ziya) của Huyết tộc trực tiếp đi tới trước mặt đội ngũ Tử Vong Kỵ Sĩ. Còn ở phía sau anh ta, sư đoàn kỵ binh Huyết tộc đang phát động tấn công vào đám quân Cao Đẳng Địa Tinh bị vây khốn trong hẻm núi.
+Tử Nha của Huyết tộc trực tiếp đi tới trước mặt đội ngũ Tử Vong Kỵ Sĩ. Còn ở phía sau anh ta, sư đoàn kỵ binh Huyết tộc đang phát động tấn công vào đám quân Cao Đẳng Địa Tinh bị vây khốn trong hẻm núi.
 
 Bốn Tử Vong Kỵ Sĩ đều cảnh giác nhìn vị Huyết tộc mang hình dáng nhân loại đơn độc đi tới này. Anh ta tuy chỉ là chức nghiệp giả bậc một, nhưng từ trên người anh ta, bốn Tử Vong Kỵ Sĩ nhìn thấy gần mười đạo lạc ấn. Đó là mười đạo lạc ấn của những cường giả ít nhất là cấp Truyền Kỳ, thậm chí là cấp Bán Thần để lại, trong mắt họ chúng tỏa sáng rực rỡ chẳng khác nào những mặt trời.
 

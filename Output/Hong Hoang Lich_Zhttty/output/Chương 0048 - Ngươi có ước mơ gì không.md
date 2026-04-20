@@ -4,7 +4,7 @@ Los cảm thấy mình chắc chắn là phát điên rồi. Cô được triệ
 
 Chỉ là ánh mắt của Ngô Minh lúc mới gặp cô, cùng câu nói: "Ta không thích cách cô cười hiện tại, rất giả tạo, nhưng đôi mắt cô rất đẹp, bên trong có sự chân thật," đã khiến cô lập tức nghĩ đến Từ Văn, Vương Vũ, Pharrell và những người khác.
 
-Mị ma ở Vô Đáy Thâm Uyên chỉ là món đồ chơi, mà đã là đồ chơi thì không có tôn nghiêm. Nếu là kẻ hỗn loạn điên khùng, bản thân ý chí không tỉnh táo thì thôi, nhưng cô lại tỉnh táo biết rõ mình đang làm gì, cũng như nỗi đau khổ đó. Vì vậy, đối với kiểu tôn trọng này, sâu thẳm trong lòng cô vô cùng khát khao. Ở thế giới hiện thực không có được, lại có được ở trong Không gian Chủ Thần, điều này khiến tâm linh vốn luôn đau khổ của cô dường như có một bến đỗ bình yên.
+Mị ma ở Thâm Uyên Không Đáy chỉ là món đồ chơi, mà đã là đồ chơi thì không có tôn nghiêm. Nếu là kẻ hỗn loạn điên khùng, bản thân ý chí không tỉnh táo thì thôi, nhưng cô lại tỉnh táo biết rõ mình đang làm gì, cũng như nỗi đau khổ đó. Vì vậy, đối với kiểu tôn trọng này, sâu thẳm trong lòng cô vô cùng khát khao. Ở thế giới hiện thực không có được, lại có được ở trong Không gian Chủ Thần, điều này khiến tâm linh vốn luôn đau khổ của cô dường như có một bến đỗ bình yên.
 
 Vì vậy cô sẵn lòng tạo ra một chút thay đổi đối với tất cả những người có liên quan đến Không gian Chủ Thần, và sự tin tưởng chính là một trong số đó.
 
@@ -74,7 +74,7 @@ Cả hai đều cười, dìu dắt nhau đi về phía nơi trú ẩn địa hu
 
 Nói xong, Ngô Minh cũng hỏi: "Vậy còn ước mơ của cô? Cô có ước mơ gì không?"
 
-Los liền cười rạng rỡ nói: "Thì nhiều lắm, trước tiên trở thành một ác ma cao đẳng thực thụ, sau đó là thứ cấp lĩnh chủ, rồi tới lĩnh chủ. Nếu có thể, trở thành đại lĩnh chủ của một tầng nào đó ở Vô Đáy Thâm Uyên, hoặc là Thâm Uyên Nữ Vương? Những thứ đó ta đều muốn cả."
+Los liền cười rạng rỡ nói: "Thì nhiều lắm, trước tiên trở thành một ác ma cao đẳng thực thụ, sau đó là thứ cấp lĩnh chủ, rồi tới lĩnh chủ. Nếu có thể, trở thành đại lĩnh chủ của một tầng nào đó ở Thâm Uyên Không Đáy, hoặc là Thâm Uyên Nữ Vương? Những thứ đó ta đều muốn cả."
 
 "Còn có chính là... mẹ..."
 

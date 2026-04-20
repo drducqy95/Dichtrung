@@ -24,7 +24,7 @@ Ngô Minh không ngừng cân nhắc các khả năng và hậu quả, nhìn doa
 
 Lúc này, Vương Vũ đang chỉ huy nhân viên lái xe vận chuyển kim loại và đủ loại vật tư mà ông mang về. Đột nhiên trong đầu ông vang lên một thông báo.
 
-"Giải quyết vấn đề sau đây trong vòng ba mươi phút, nếu không sẽ bị xóa sổ (obliterate)."
+"Giải quyết vấn đề sau đây trong vòng ba mươi phút, nếu không sẽ bị xóa sổ."
 
 Vương Vũ có chút ngẩn ngơ. Trong ấn tượng của ông, Chủ Thần chưa bao giờ đưa ra phản hồi khi không ở trong không gian Chủ Thần, cũng chưa bao giờ đưa ra câu hỏi kiểu này cho thành viên tiểu đội. Nhưng ông nghĩ lại, có lẽ là do mình trải nghiệm còn quá ít, dẫu sao mới chỉ qua hai đợt thử luyện, có lẽ sau này sẽ còn những chuyện tương tự. Dù sao đó cũng là giọng nói của Chủ Thần, và lời đe dọa "xóa sổ" cũng y hệt như vậy. Thế là ông không dám chậm trễ, lập tức chạy tới bộ phận tham mưu, gào thét gọi một đám người tới, rồi vẽ lại địa hình trong đầu mình ra.
 
@@ -46,7 +46,7 @@ Nghĩ đến đây, Vương Vũ hưng phấn hẳn lên, tiếp tục quay lại
 
 Mà Ngô Minh cũng đã nhận được ba phương án này. Mỗi phương án có trọng điểm khác nhau nhưng đều có thể đạt được hiệu quả mà anh mong muốn. Lúc này lòng anh đã định, bắt đầu lên kế hoạch hành động.
 
-"Tuy là siêu phàm, nhưng chỉ là siêu phàm cấp thấp, phương diện này mình hiểu rất rõ. Siêu phàm cấp thấp tuy có nhiều năng lực đặc biệt hơn người phàm, ví dụ như cảm tri, giác quan thứ sáu hay khả năng trinh sát, nếu có chuẩn bị và thời gian thì cũng có sức mạnh siêu phàm, nhưng nhục thân thì không mạnh hơn người thường bao nhiêu. Trừ phi đạt tới cấp Trúc Cơ (Foundation Establishment), mà dù có vào Trúc Cơ thì còn phải xem chọn công pháp gì nữa. Nếu không phải dòng luyện thể thì nhục thân vẫn chẳng mạnh hơn người thường là mấy, cùng lắm là chống được đạn cỡ nhỏ chứ tuyệt đối không thể dùng thân xác đỡ pháo, đá tảng ngàn cân đè xuống vẫn cứ chết như thường."
+"Tuy là siêu phàm, nhưng chỉ là siêu phàm cấp thấp, phương diện này mình hiểu rất rõ. Siêu phàm cấp thấp tuy có nhiều năng lực đặc biệt hơn người phàm, ví dụ như cảm tri, giác quan thứ sáu hay khả năng trinh sát, nếu có chuẩn bị và thời gian thì cũng có sức mạnh siêu phàm, nhưng nhục thân thì không mạnh hơn người thường bao nhiêu. Trừ phi đạt tới cấp Trúc Cơ, mà dù có vào Trúc Cơ thì còn phải xem chọn công pháp gì nữa. Nếu không phải dòng luyện thể thì nhục thân vẫn chẳng mạnh hơn người thường là mấy, cùng lắm là chống được đạn cỡ nhỏ chứ tuyệt đối không thể dùng thân xác đỡ pháo, đá tảng ngàn cân đè xuống vẫn cứ chết như thường."
 
 Nghĩ vậy, Ngô Minh cảm thấy kế hoạch này có thể thực hiện được. Hai yêu cầu duy nhất là phải giữ bí mật hết mức có thể, thứ hai là phải một mẻ hốt gọn. Vậy nên tốt nhất là ra tay vào tầm hai ba giờ sáng, lúc này cơ bản mọi người đều đang ngủ, chỉ có vài lính tuần tra lẻ tẻ nhưng không đáng kể. Sau khi biến thành u hồn, chỉ cần anh cẩn thận né tránh mấy kẻ siêu phàm, cố gắng lặn ngụp dưới lòng đất và vách đá thì sẽ không có trở ngại gì lớn.
 
@@ -60,7 +60,7 @@ Sau đó, Ngô Minh lặng lẽ chờ đợi trên đỉnh khe núi, cũng khôn
 
 Tức thì, một chuỗi những tiếng nổ liên hoàn bắt đầu. Khắp các nơi trên sườn núi đều bùng nổ, âm thanh vang xa tít tắp trong màn đêm. Người trong hai doanh trại nhất thời còn chưa kịp hoàn hồn, thì cùng với việc các điểm nút nổ định hướng bị rạn nứt, sườn núi hai bên khe núi lập tức đổ sụp từng mảng. Những tảng đá lớn khổng lồ đổ ập xuống dưới, cảnh tượng như trời quang đất lở. Trước sau chưa đầy nửa phút, hai doanh trại đã bị vùi lấp dưới hàng vạn cân đá tảng.
 
-Về phía Ngô Minh, bảng thông báo bắt đầu nhảy số liên hồi. Một hàng dài các thông báo khiến anh vô cùng sảng khoái. Thế nhưng ngay sau đó anh phát hiện ra con số này không đúng. Một con Cẩu Đầu Nhân chỉ được có 1 điểm thưởng, đa phần Cẩu Đầu Nhân còn chẳng được điểm nào, loại Cẩu Đầu Nhân sẫm màu to khỏe thì được khoảng 1-2 điểm. Sinh vật hệ Cự Ma (Troll) được khoảng 5 điểm thưởng. Có ba kẻ được nhiều điểm nhất cũng chỉ là 30, 50 và 100 điểm, cộng lại chưa nổi 200 điểm.
+Về phía Ngô Minh, bảng thông báo bắt đầu nhảy số liên hồi. Một hàng dài các thông báo khiến anh vô cùng sảng khoái. Thế nhưng ngay sau đó anh phát hiện ra con số này không đúng. Một con Cẩu Đầu Nhân chỉ được có 1 điểm thưởng, đa phần Cẩu Đầu Nhân còn chẳng được điểm nào, loại Cẩu Đầu Nhân sẫm màu to khỏe thì được khoảng 1-2 điểm. Sinh vật hệ Cự Ma được khoảng 5 điểm thưởng. Có ba kẻ được nhiều điểm nhất cũng chỉ là 30, 50 và 100 điểm, cộng lại chưa nổi 200 điểm.
 
 Cho đến khi bảng thông báo dừng lại, Ngô Minh đếm kỹ số điểm thưởng của mình, cũng chỉ có hơn một ngàn bảy trăm điểm. Tuy rằng cũng được coi là một khoản thu nhập khá, nhưng so với suy tính vài vạn, vài chục vạn điểm thưởng của anh thì cái này chẳng khác nào đang bố thí cho ăn mày thì đúng hơn!
 
@@ -70,7 +70,7 @@ Ngô Minh tức tới mức mắng to. Nhưng lúc này cũng chẳng còn cách
 
 Ngô Minh thở ngắn than dài một hồi, sau đó mới bay về phía sâu trong khe núi. Bay vào giữa khe núi, anh thấy ở vị trí trung tâm có một quầng sáng vặn vẹo, chiếm gần như toàn bộ diện tích đất ở đó. Anh thử tiến lại gần quầng sáng, phát hiện không chịu bất kỳ tổn thương hay ảnh hưởng nào. Thế là không chút do dự, anh lao thẳng vào trong. Đến khi định thần lại, anh thấy mình đang đứng giữa một vùng ánh sáng đèn đường.
 
-"Con u hồn này, đừng có chắn đường." Một giọng nói vang lên. Ngô Minh vội vàng tránh ra, liền thấy một xác ướp (Mummy) đang cứng nhắc bước qua cạnh mình. Xung quanh người qua kẻ lại tấp nập như ở chợ, nhìn ra xa hơn là những dãy kiến trúc giống như đô thị ở thế kỷ 21. Nơi này dường như là một cửa ngõ giao thông, tương tự như trạm thu phí trên đường cao tốc vậy.
+"Con u hồn này, đừng có chắn đường." Một giọng nói vang lên. Ngô Minh vội vàng tránh ra, liền thấy một xác ướp đang cứng nhắc bước qua cạnh mình. Xung quanh người qua kẻ lại tấp nập như ở chợ, nhìn ra xa hơn là những dãy kiến trúc giống như đô thị ở thế kỷ 21. Nơi này dường như là một cửa ngõ giao thông, tương tự như trạm thu phí trên đường cao tốc vậy.
 
 Liên Minh Thương Nghiệp...
 

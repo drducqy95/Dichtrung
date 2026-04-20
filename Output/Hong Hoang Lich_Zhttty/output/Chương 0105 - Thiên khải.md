@@ -1,7 +1,5 @@
 # Chương 0105 - Thiên khải
 
-(ps: x, ta không phải đã thiết lập đăng trước sao? Tại sao không thấy cập nhật, làm ta sợ muốn chết.)
-
 Ngô Minh tiến sâu vào trong khe nứt khoảng chừng một km. Đây là sâu dưới lòng đất một km, đã là một quãng đường không ngắn rồi. Càng đi sâu vào trong lòng đất, năng lượng tiêu cực càng mãnh liệt. Trong môi trường này, thậm chí không cần thi thể hay oán niệm, chỉ riêng năng lượng tiêu cực này thôi cũng đủ để sinh ra một số sinh vật bất tử dạng năng lượng tiêu cực rồi.
 
 Nhưng điều khiến Ngô Minh kỳ lạ là, năng lượng tiêu cực ở đây mãnh liệt như vậy nhưng lại không có lấy một con sinh vật bất tử nào, sạch sẽ y như môi trường bình thường vậy. Điều này rõ ràng không thể là tự nhiên hình thành. Trong lòng Ngô Minh đã có chút suy đoán, lúc này hắn cũng không sợ hãi mà tiếp tục tiến lên. Khi đi đến cuối đường hầm, phía trước bỗng nhiên rộng mở, hiện ra một quảng trường nhỏ dưới lòng đất. Trên tường quảng trường còn có rất nhiều hang động, cũng có một số đồ vật nhân tạo, thậm chí Ngô Minh còn nhìn thấy đuốc lửa U Minh.
@@ -74,18 +72,18 @@ Nữ Tử Vong Kỵ Sĩ dường như nước miếng sắp chảy ra rồi. Nà
 
 "Đúng rồi." Ngô Minh bỗng nhiên hỏi: "Vẫn chưa thỉnh giáo danh tính của bốn vị?"
 
-Bốn tên Tử Vong Kỵ Sĩ, thực tế chính là thủ lĩnh của tộc quần Tử Vong Kỵ Sĩ này, họ nghiêm mặt lại. Tên Tử Vong Kỵ Sĩ nhân loại trung niên lên tiếng: "Tên của chúng ta từ lâu đã bị lãng quên. Để ghi nhớ cách thế gian hiểu về chúng ta, cũng để nhắc nhở bản thân rằng thế gian nhìn nhận chúng ta như thế nào, tên của ta là Chiến Tranh (War)."
+Bốn tên Tử Vong Kỵ Sĩ, thực tế chính là thủ lĩnh của tộc quần Tử Vong Kỵ Sĩ này, họ nghiêm mặt lại. Tên Tử Vong Kỵ Sĩ nhân loại trung niên lên tiếng: "Tên của chúng ta từ lâu đã bị lãng quên. Để ghi nhớ cách thế gian hiểu về chúng ta, cũng để nhắc nhở bản thân rằng thế gian nhìn nhận chúng ta như thế nào, tên của ta là Chiến Tranh."
 
-"Tên của ta là Tử Vong (Death)." Chàng Tử Vong Kỵ Sĩ trẻ tuổi tóc bạc anh tuấn nói.
+"Tên của ta là Tử Vong." Chàng Tử Vong Kỵ Sĩ trẻ tuổi tóc bạc anh tuấn nói.
 
-"Tên của ta là Cơ Hoang (Famine)." Tử Vong Kỵ Sĩ đầu dã thú nhân nói.
+"Tên của ta là Cơ Hoang." Tử Vong Kỵ Sĩ đầu dã thú nhân nói.
 
-Nữ Tử Vong Kỵ Sĩ cuối cùng lên tiếng: "Tên của ta là Ôn Dịch (Plague)."
+Nữ Tử Vong Kỵ Sĩ cuối cùng lên tiếng: "Tên của ta là Ôn Dịch."
 
 "Đây chính là tên của chúng ta." Bốn vị kỵ sĩ cuối cùng đồng thanh đáp.
 
 Sắc mặt Ngô Minh lập tức lại thay đổi. Hắn đắng chát trong miệng lẩm bẩm: "Chiến Tranh, Tử Vong, Cơ Hoang, Ôn Dịch..."
 
-(Mẹ kiếp!! Trong truyền thuyết có quan hệ hợp tác với Thánh nhân cao cấp, với "Vị Kia" ở phương Tây, là một trong số ít những dị tộc có tư cách nghị viên trong Hồng Hoang Thiên Đình, ngoài Ngưu Đầu Mã Diện, vài tộc Rồng, cùng số ít tộc có ơn đức với nhân loại ra, dường như chỉ có bốn vị kỵ sĩ này. Nghe nói đều là Thánh nhân, họ chính là...)
+(Mẹ kiếp!! Trong truyền thuyết có quan hệ hợp tác với Thánh nhân cao cấp, với "Vị Kia" ở phương Tây, là một trong số ít những dị tộc có tư cách nghị viên trong Thiên Đình Hồng Hoang, ngoài Ngưu Đầu Mã Diện, vài tộc Rồng, cùng số ít tộc có ơn đức với nhân loại ra, dường như chỉ có bốn vị kỵ sĩ này. Nghe nói đều là Thánh nhân, họ chính là...)
 
-"Thiên Khải Tứ Kỵ Sĩ a..."
+"Bốn Kỵ Sĩ Khải Huyền a..."

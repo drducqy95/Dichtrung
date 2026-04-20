@@ -74,7 +74,7 @@
 - Chương 0067: Tìm thấy và triệu hoán
 - Chương 0068: Phân tích và quyết định
 - Chương 0069: Chiến thư
-- Chương 0070: Cảnh đốc
+- Chương 0070: Cảnh sát trưởng
 - Chương 0071: Lệnh khám xét
 - Chương 0072: Ám mưu
 - Chương 0073: Dục thành kỳ sự

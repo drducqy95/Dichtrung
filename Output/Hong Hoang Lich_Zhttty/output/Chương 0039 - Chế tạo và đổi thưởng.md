@@ -48,7 +48,7 @@ Tới chợ nô lệ, Ngô Minh không chậm trễ, trực tiếp tìm nhân vi
 
 Phải biết rằng, ngoại trừ nhân loại ra, nô lệ dị tộc khác tuy là nô lệ nhưng chủ nhân mua về cũng không tùy tiện giết hại. Hoặc là làm chiến binh nô lệ, hoặc là phụ trách các công việc tạp vụ, đồng ruộng, luôn hy vọng vắt kiệt được giá trị từ trên người nô lệ. Việc giết hại tùy tiện như vậy dẫu là trong ngành nô lệ cũng gần như không thấy. Tàn bạo, khủng bố, đó là nhận thức của nhân viên chợ nô lệ về Ngô Minh.
 
-Lúc này cũng vậy, nhân viên này không dám tự quyết định, đi tìm một tên quản sự. Tên quản sự này là một con địa tinh cao khoảng một mét năm sáu, cao hơn nhiều so với địa tinh thông thường, phong thái tự nhiên, lễ độ. Rõ ràng đây là tộc Cao đẳng Địa tinh (High Goblin).
+Lúc này cũng vậy, nhân viên này không dám tự quyết định, đi tìm một tên quản sự. Tên quản sự này là một con địa tinh cao khoảng một mét năm sáu, cao hơn nhiều so với địa tinh thông thường, phong thái tự nhiên, lễ độ. Rõ ràng đây là tộc Cao đẳng Địa tinh.
 
 Tên Cao đẳng Địa tinh này quan sát Ngô Minh hồi lâu, lúc bấy giờ mới cười nói: "Khách nhân muốn mua một trăm tên nô lệ chiến sĩ khỏe mạnh nhất sao? Chỗ chúng tôi cũng có, tuy không phải một trăm tên cùng chủng tộc, nhưng các chủng tộc gộp lại thì vài trăm cũng có. Chỉ là cách khách nhân sử dụng nô lệ dường như có chút không đúng nha."
 
@@ -58,9 +58,9 @@ Sắc mặt tên Cao đẳng Địa tinh thay đổi liên tục, lại quan sá
 
 Mười lăm viên linh thạch, cái giá này đã bị đội lên hơn một nửa, nhưng Ngô Minh lúc này đang ở thời điểm mấu chốt, chỉ cười một cái rồi lôi từ túi vải ra mười lăm viên linh thạch. Tên Cao đẳng Địa tinh nhận lấy linh thạch, sau đó đi sắp xếp. Mười mấy phút sau, có nhân viên rón rén dẫn Ngô Minh tới một đại sảnh dưới lòng đất. Trong đại sảnh có một trăm tên nô lệ cao lớn khỏe mạnh đang bị xích chặt, hầu như tên nào cũng không thể cử động nổi.
 
-Trong số một trăm tên nô lệ này, Ngô Minh còn thấy ba tên Tích dịch nhân (Lizardman), chỉ là ba tên này cực kỳ khỏe mạnh, cao trên hai mét, cơ bắp cuồn cuộn. Ngoài ra còn có năm sáu tên á nhân cao ba mét thuộc tộc Á Cự nhân (Sub-Giant), mười mấy tên Nham nhân (Rockman) da dẻ đen đúa thô ráp, mười mấy con...
+Trong số một trăm tên nô lệ này, Ngô Minh còn thấy ba tên Tích dịch nhân, chỉ là ba tên này cực kỳ khỏe mạnh, cao trên hai mét, cơ bắp cuồn cuộn. Ngoài ra còn có năm sáu tên á nhân cao ba mét thuộc tộc Á Cự nhân, mười mấy tên Nham nhân da dẻ đen đúa thô ráp, mười mấy con...
 
-Quả nhiên đều là những nô lệ khỏe mạnh nhất, hơn nữa xếp hạng trong Hồng Hoang Vạn Tộc chắc cũng không thấp. Ngô Minh cũng chẳng quan tâm, cầm lấy nỏ mạnh bên cạnh, bắt đầu một trận đồ sát một trăm người này. Trong đó có những tên sức sống mạnh mẽ nhất thậm chí phải bắn nhiều phát nỏ mới giết nổi. Và điểm thưởng cũng không làm Ngô Minh thất vọng, một trăm tên dị tộc này mang lại cho anh gần 3500 điểm Thiên đạo quyến thuộc trị (Reward Points), tương đương trung bình mỗi tên được 35 điểm, con số này đã là cực kỳ tốt rồi.
+Quả nhiên đều là những nô lệ khỏe mạnh nhất, hơn nữa xếp hạng trong Hồng Hoang Vạn Tộc chắc cũng không thấp. Ngô Minh cũng chẳng quan tâm, cầm lấy nỏ mạnh bên cạnh, bắt đầu một trận đồ sát một trăm người này. Trong đó có những tên sức sống mạnh mẽ nhất thậm chí phải bắn nhiều phát nỏ mới giết nổi. Và điểm thưởng cũng không làm Ngô Minh thất vọng, một trăm tên dị tộc này mang lại cho anh gần 3500 điểm Thiên đạo quyến thuộc trị, tương đương trung bình mỗi tên được 35 điểm, con số này đã là cực kỳ tốt rồi.
 
 Vừa giết xong thu được điểm thưởng, Ngô Minh thậm chí không hề dừng lại, lập tức đổi ngay Âm Hồn Kỳ từ chỗ Chủ Thần.
 

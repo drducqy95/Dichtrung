@@ -8,7 +8,7 @@ Chính vì vậy mà ở thế giới đó hắn không cảm nhận được ch
 
 Thế nhưng loại thế giới đó thực sự có thể tồn tại sao? Hay đúng hơn là thực sự có thể xảy ra tình huống dù thế nào cũng không thể tử vong được sao?
 
-Sau khi trở về, Ngô Minh ngây người hồi lâu thật lâu, mãi lúc sau mới dần dần hồi thần lại. Tiếp đó, hắn nhìn thấy ở chỗ Chủ Thần có thêm một vật phẩm quy đổi như vậy, đây là loại vật quy đổi lần đầu tiên hắn thấy trong đời. Không chỉ vì hạng mục quy đổi đó mới xuất hiện, tên gọi là Mô nhân (Meme), mà số lần quy đổi của Mô nhân này chỉ có duy nhất một lần, quy đổi xong là mất luôn, đây là chuyện chưa từng có tiền lệ trong các mục quy đổi của Chủ Thần.
+Sau khi trở về, Ngô Minh ngây người hồi lâu thật lâu, mãi lúc sau mới dần dần hồi thần lại. Tiếp đó, hắn nhìn thấy ở chỗ Chủ Thần có thêm một vật phẩm quy đổi như vậy, đây là loại vật quy đổi lần đầu tiên hắn thấy trong đời. Không chỉ vì hạng mục quy đổi đó mới xuất hiện, tên gọi là Mô nhân, mà số lần quy đổi của Mô nhân này chỉ có duy nhất một lần, quy đổi xong là mất luôn, đây là chuyện chưa từng có tiền lệ trong các mục quy đổi của Chủ Thần.
 
 Nhìn tên hiểu nghĩa, "Mô nhân: Bất tử" này đoán chừng chính là thủ phạm gây ra tất cả nỗi kinh hoàng trong vũ trụ đó rồi. Ngô Minh hoàn toàn không nghĩ ra được thứ này quy đổi ra thì rốt cuộc có tác dụng gì, lẽ nào dùng để tự bạo sao?
 
@@ -22,7 +22,7 @@ Bất tử, nhưng không phải bất hủ. Ngô Minh không thể tưởng tư
 
 Tất nhiên, cách tốt nhất là chính hắn quy đổi nó ra, chỉ cần không dùng là được. Đằng nào cũng chỉ quy đổi được một lần, hắn quy đổi rồi thì sẽ không còn nữa, đây mới là cách tốt nhất.
 
-"Điểm thưởng nha điểm thưởng, mà chi tiết nhánh cũng không đủ. Muốn quy đổi thế giới của đám người Amor cũng cần chi tiết nhánh, quy đổi Chưởng Thượng Vị Diện (Palm-sized Plane) cũng cần chi tiết nhánh, thậm chí ngay cả quy đổi Mô nhân này cũng cần chi tiết nhánh... Xem ra chi tiết nhánh chắc chắn là vô cùng quan trọng, đừng để tới lúc Chủ Thần có thể quy đổi Tiên Thiên Linh Bảo rồi mà mình lại không đủ chi tiết nhánh thì đúng là trò cười."
+"Điểm thưởng nha điểm thưởng, mà chi tiết nhánh cũng không đủ. Muốn quy đổi thế giới của đám người Amor cũng cần chi tiết nhánh, quy đổi Chưởng Thượng Vị Diện cũng cần chi tiết nhánh, thậm chí ngay cả quy đổi Mô nhân này cũng cần chi tiết nhánh... Xem ra chi tiết nhánh chắc chắn là vô cùng quan trọng, đừng để tới lúc Chủ Thần có thể quy đổi Tiên Thiên Linh Bảo rồi mà mình lại không đủ chi tiết nhánh thì đúng là trò cười."
 
 "Tất nhiên, điểm thưởng cũng vô cùng vô cùng quan trọng, đủ điểm thưởng mới là chỗ dựa cho tất cả mọi thứ."
 
@@ -58,9 +58,9 @@ Cho nên ở Hồng Hoang đại lục, thực lực của một đạo quân đ
 
 Quân số của Ngô Minh chỉ có hơn một ngàn hai trăm người, nhưng trong đó hơn hai trăm người đều là Tử Vong Kỵ Sĩ. Tính kỷ luật tề chỉnh như cùng một hành động của một người, cùng luồng linh quang siêu phàm hiện hữu trên người hai trăm kỵ sĩ đó, chỉ riêng bấy nhiêu thôi đã đủ khiến toàn bộ các đoàn quân thuê tại hiện trường phải lu mờ. Đơn vị duy nhất có thể so sánh được đoán chừng chỉ có quân chính quy, nhưng những người siêu phàm trong quân chính quy ít nhất cũng phải cấp sĩ quan mới có. Tổng số siêu phàm nhân của cả một đạo quân chính quy cộng lại có lẽ cũng có mấy trăm người, nhưng nằm rải rác lác đác trong quân số hàng vạn người thì trông vô cùng không nổi bật.
 
-Và điều khiến các thủ lĩnh quân thuê cũng như những kẻ nắm quyền thành phố nhìn chằm chằm nhất chính là bốn tên Tử Vong Kỵ Sĩ bậc ba đang đi tiên phong của đạo quân. Bọn họ lần lượt cưỡi trên Mộng Yểm Đen (Black Nightmare), Mộng Yểm Trắng, Mộng Yểm Xám và Mộng Yểm Đỏ. Bốn tên Tử Vong Kỵ Sĩ này đều là những kẻ mang nghề nghiệp cao giai thực thụ, rất nhiều thủ lĩnh quân thuê tại hiện trường còn chưa đạt tới bậc ba đâu.
+Và điều khiến các thủ lĩnh quân thuê cũng như những kẻ nắm quyền thành phố nhìn chằm chằm nhất chính là bốn tên Tử Vong Kỵ Sĩ bậc ba đang đi tiên phong của đạo quân. Bọn họ lần lượt cưỡi trên Mộng Yểm Đen, Mộng Yểm Trắng, Mộng Yểm Xám và Mộng Yểm Đỏ. Bốn tên Tử Vong Kỵ Sĩ này đều là những kẻ mang nghề nghiệp cao giai thực thụ, rất nhiều thủ lĩnh quân thuê tại hiện trường còn chưa đạt tới bậc ba đâu.
 
-Mà Ngô Minh cưỡi trên một con ngựa chiến huyết long, đi ngay sau bốn kỵ sĩ, sự chú ý mà hắn nhận được cũng không hề ít. Bởi vì hắn đang mặc trường bào ma pháp sư, trường bào của một Ma Pháp Sư bậc hai. Mà một ma pháp sư trên chiến trường đáng sợ đến nhường nào thì đó là điều mà ai ai cũng biết. So với việc đơn đả độc đấu, nơi ma pháp sư thực sự đáng sợ luôn luôn là ở những chiến trường quy mô lớn. Một chiêu Thuật Ảo Giác quy mô lớn có lẽ có thể thay đổi kết quả của một trận tao ngộ chiến. Một chiêu Thuật Ưng Nhãn (Eagle Eye) gia trì có lẽ có thể tạo ra hàng trăm hàng ngàn xạ thủ bắn tỉa thần sầu. Nghề nghiệp hệ pháp thuật sở dĩ cao hơn hẳn các nghề nghiệp còn lại không phải chỉ vì lý do hiếm hoi đâu.
+Mà Ngô Minh cưỡi trên một con ngựa chiến huyết long, đi ngay sau bốn kỵ sĩ, sự chú ý mà hắn nhận được cũng không hề ít. Bởi vì hắn đang mặc trường bào ma pháp sư, trường bào của một Ma Pháp Sư bậc hai. Mà một ma pháp sư trên chiến trường đáng sợ đến nhường nào thì đó là điều mà ai ai cũng biết. So với việc đơn đả độc đấu, nơi ma pháp sư thực sự đáng sợ luôn luôn là ở những chiến trường quy mô lớn. Một chiêu Thuật Ảo Giác quy mô lớn có lẽ có thể thay đổi kết quả của một trận tao ngộ chiến. Một chiêu Thuật Ưng Nhãn gia trì có lẽ có thể tạo ra hàng trăm hàng ngàn xạ thủ bắn tỉa thần sầu. Nghề nghiệp hệ pháp thuật sở dĩ cao hơn hẳn các nghề nghiệp còn lại không phải chỉ vì lý do hiếm hoi đâu.
 
 "Hắn là ai?"
 

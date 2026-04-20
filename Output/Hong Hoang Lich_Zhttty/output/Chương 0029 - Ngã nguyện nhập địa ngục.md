@@ -12,7 +12,7 @@ Trong một căn phòng nghỉ nào đó trong tháp, có hàng chục người 
 
 Bóng người này mờ mịt không thực, trông giống như một hình chiếu 3D, hơn nữa còn thỉnh thoảng nhấp nháy, cứ như thể sắp mất điện mà biến mất bất cứ lúc nào vậy.
 
-Ông lão râu trắng vừa giận vừa lo, tiếp tục nói: "Cậu đúng là điếc không sợ súng. Cậu tưởng lịch sử là thứ dễ dàng can thiệp như vậy sao? Đúng thế, tất cả thành viên của tổ chức 'Thật sự lịch sử' (Real History) chúng ta quả thực đều sở hữu năng lượng để hành tẩu giữa thời gian và không gian. Nhưng hành tẩu trong đó và kiểm soát tất cả lại là hai chuyện hoàn toàn khác nhau. Từ cổ chí kim, cũng chỉ có duy nhất một tồn tại có thể làm được điều đó, ngay cả ba vị chí cao vô thượng từng tồn tại trước đây cũng có chỗ không bằng."
+Ông lão râu trắng vừa giận vừa lo, tiếp tục nói: "Cậu đúng là điếc không sợ súng. Cậu tưởng lịch sử là thứ dễ dàng can thiệp như vậy sao? Đúng thế, tất cả thành viên của tổ chức 'Thật sự lịch sử' chúng ta quả thực đều sở hữu năng lượng để hành tẩu giữa thời gian và không gian. Nhưng hành tẩu trong đó và kiểm soát tất cả lại là hai chuyện hoàn toàn khác nhau. Từ cổ chí kim, cũng chỉ có duy nhất một tồn tại có thể làm được điều đó, ngay cả ba vị chí cao vô thượng từng tồn tại trước đây cũng có chỗ không bằng."
 
 Bóng người hư ảo kia khẽ mỉm cười, đáp lời: "Chuyện này con biết. Trong Hồng Hoang Vạn Tộc, tộc đứng thứ chín là Khôn tộc có huyết mạch thời gian, tộc đứng thứ mười là Bằng tộc có huyết mạch không không gian. Thực tế, tất cả mọi người trong 'Thật sự lịch sử' đều ít nhiều có huyết mạch tàn dư của họ, phải không thưa Giáo sư?"
 

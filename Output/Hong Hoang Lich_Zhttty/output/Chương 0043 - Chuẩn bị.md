@@ -22,7 +22,7 @@ Ngô Minh không muốn đánh cược vào vận khí. Vận may của một ng
 
 "Ba, các bước và khả năng phản kích. Đầu tiên phải xác định một điểm, đối phương là Thánh vị. Tất nhiên, đây là giả thuyết xấu nhất mà mình suy đoán, chính là mình đã trích xuất Thiên Đạo quyến thuộc trị của một vị Thánh vị. Cũng có khả năng tên Tinh Linh Huyết tộc đó thiên phú dị bẩm, tương lai có thể là đại nhân vật gì đó kiểu như Vị diện chi tử hay Khí vận chi tử nên Thiên Đạo quyến thuộc trị mới cao như vậy. Nhưng lời nói có thể lừa người chứ không lừa được chính mình, lòng mình bất an, nên cứ coi như đã đụng tới Thánh vị mà xử lý. Đối phương là một Thánh vị, phải cố gắng dùng chiến lực cao nhất để đánh giá, những thủ đoạn thông thường không thể nào địch lại được."
 
-"Hiện tại có hai cách đã biết để dùng thân phận phàm nhân đánh bại Thánh nhân. Một là Tiên Thiên Linh Bảo, đây là khả năng lớn nhất. Thời đại Hồng Hoang Thiên Đình thậm chí còn đầy rẫy thông tin mạng chửi bới những kẻ có Tiên Thiên Linh Bảo hãy đi chết đi, nói rằng đó là một cái 'bug' (lỗi), lỗi của đa nguyên vũ trụ."
+"Hiện tại có hai cách đã biết để dùng thân phận phàm nhân đánh bại Thánh nhân. Một là Tiên Thiên Linh Bảo, đây là khả năng lớn nhất. Thời đại Thiên Đình Hồng Hoang thậm chí còn đầy rẫy thông tin mạng chửi bới những kẻ có Tiên Thiên Linh Bảo hãy đi chết đi, nói rằng đó là một cái 'bug' (lỗi), lỗi của đa nguyên vũ trụ."
 
 "Hai là di vật của Thổ linh tộc, Cự Thần Binh của Obelisk. Thứ này được tán tụng thần kỳ vô cùng, cứ tạm tin là nó có thể sánh ngang với vị Thánh vị yếu nhất đi."
 

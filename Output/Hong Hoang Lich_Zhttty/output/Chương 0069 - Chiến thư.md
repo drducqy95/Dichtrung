@@ -2,7 +2,7 @@
 
 "Vẫn còn đang xem tình hình giám sát của những người này sao?"
 
-Ma pháp sư hệ Huyết tam giai bất đắc dĩ nói: "Ngươi dù sao cũng phải nghỉ ngơi một chút đi chứ, hay là uống một túi máu? Ta biết ngươi tuyệt đối không uống máu người, vậy máu Địa Tinh cao cấp thì sao? Hay là máu thụ tinh (tree spirit) đồng trinh? Có mùi cỏ xanh đấy."
+Ma pháp sư hệ Huyết tam giai bất đắc dĩ nói: "Ngươi dù sao cũng phải nghỉ ngơi một chút đi chứ, hay là uống một túi máu? Ta biết ngươi tuyệt đối không uống máu người, vậy máu Địa Tinh cao cấp thì sao? Hay là máu thụ tinh đồng trinh? Có mùi cỏ xanh đấy."
 
 Nha căn bản không thèm để ý tới hắn, chỉ chăm chú nhìn vào tất cả các báo cáo cầm trên tay cùng những hình ảnh ma pháp phụ trợ. Đôi lông mày hắn nhíu chặt, dường như đang suy nghĩ điều gì đó.
 
@@ -58,7 +58,7 @@ Amor vừa chơi máy chơi game cầm tay, vừa hi hi cười nói.
 
 Ngô Minh lập tức tức giận: "Đã có dị tộc âm thầm biết về ta rồi, ngươi cư nhiên còn để ta rơi vào tình trạng nghi phạm!? Ngươi là muốn dồn ta vào đường cùng a."
 
-Amor cũng không giận, chỉ vẫn cười hi hi nói: "Ta nhớ người Trung Quốc ở Á Châu các anh có câu nói thế này: 'Trí chi tử địa nhi hậu sinh, hãm chi vong địa nhi hậu tồn' - Đặt vào chỗ chết mới có đường sống, hãm vào đất mất mới có thể tồn tại. Thực tế hiện giờ đại ca Ngô Minh chính là đang ở vào tình cảnh như vậy đó."
+Amor cũng không giận, chỉ vẫn cười hi hi nói: "Ta nhớ người Trung Quốc ở Á Châu các anh có câu nói thế này: 'Đặt mình vào chỗ chết rồi mới sống, hãm chi vong địa nhi hậu tồn' - Đặt vào chỗ chết mới có đường sống, hãm vào đất mất mới có thể tồn tại. Thực tế hiện giờ đại ca Ngô Minh chính là đang ở vào tình cảnh như vậy đó."
 
 "Bị một người biết và bị tất cả mọi người biết, đối với đại ca Ngô Minh mà nói thực ra không còn gì khác biệt cả. Khác biệt duy nhất phỏng chừng là chết bây giờ hay chết lúc sau mà thôi. Nhưng đều là chết cả, vậy tại sao không cầu sinh trong cái chết, liều mạng tìm ra một con đường sống?"
 

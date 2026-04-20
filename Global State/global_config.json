@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-04-20T10:43:49+07:00",
+    "last_updated": "2026-04-20T15:13:10+07:00",
     "description": "Quy tắc dịch thuật toàn cục cho repo Dichtrung"
   },
   "default_settings": {
@@ -23,7 +23,9 @@
     "forbidden_patterns": [
       "Ký tự Trung Quốc/Nhật/Hàn trong output",
       "Dịch máy thô, câu cú lủng củng",
-      "Để nguyên thuật ngữ gốc không dịch (trừ trường hợp đặc biệt có ghi chú)"
+      "Để nguyên thuật ngữ gốc không dịch (trừ trường hợp đặc biệt có ghi chú)",
+      "Giải thích thừa thãi, tự ý thêm chú thích hoặc bình luận của người dịch (ví dụ: (Chú thích: ...), (ps: ...))",
+      "Thêm từ tiếng Anh/Latinh vào trong ngoặc kép hoặc ngoặc đơn kế bên từ tiếng Việt để giải nghĩa (ví dụ: Tử Vong Kỵ Sĩ (Dullahan), Mị ma (Succubus), Ác Ma đội (Devil Team))"
     ],
     "required_patterns": [
       "Xưng hô phải nhất quán theo characters.json",

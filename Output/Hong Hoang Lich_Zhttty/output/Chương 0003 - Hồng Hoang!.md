@@ -16,9 +16,9 @@ Thế nhưng khi một thứ gì đó vượt qua một giới hạn về lượ
 
 Hắn nhìn thấy một ngọn núi cao lớn sừng sững, dù cách hắn cực kỳ xa, nhưng chỉ bằng mắt thường so sánh, ngọn tháp núi này dường như còn khổng lồ hơn cả một tinh tú, hơn nữa còn lớn hơn rất nhiều.
 
-"Chẳng lẽ... là Bất Chu Sơn!?" Trong đầu Ngô Minh lóe lên ý nghĩ này.
+"Chẳng lẽ... là Bất Chu Sơn/núi Bất Chu!?" Trong đầu Ngô Minh lóe lên ý nghĩ này.
 
-Cũng không trách hắn nghĩ như vậy, ngọn núi này thực sự quá đỗi khổng lồ, cao chọc tận mây xanh, không biết sâu vào bao nhiêu vạn dặm. Dù cách xa nghìn trùng, nhưng nhìn vào sự tương quan, độ lớn của nó có thể sánh ngang với tinh tú, mắt thường không thể nhìn thấy toàn cảnh. Và một ngọn núi khổng lồ như thế này, dù có nghĩ thế nào đi nữa thì cũng chỉ có Bất Chu Sơn trong thần thoại truyền thuyết mà thôi.
+Cũng không trách hắn nghĩ như vậy, ngọn núi này thực sự quá đỗi khổng lồ, cao chọc tận mây xanh, không biết sâu vào bao nhiêu vạn dặm. Dù cách xa nghìn trùng, nhưng nhìn vào sự tương quan, độ lớn của nó có thể sánh ngang với tinh tú, mắt thường không thể nhìn thấy toàn cảnh. Và một ngọn núi khổng lồ như thế này, dù có nghĩ thế nào đi nữa thì cũng chỉ có Bất Chu Sơn/núi Bất Chu trong thần thoại truyền thuyết mà thôi.
 
 Nhưng khi tầm nhìn của Ngô Minh tiếp tục mở rộng và chuyển sang xung quanh, những gì hắn thấy lại càng khiến hắn không thể tin nổi.
 
@@ -44,7 +44,7 @@ Ngô Minh tự lẩm bẩm một mình, đồng thời tập trung ý nghĩ tron
 
 Cho đến lúc này, Ngô Minh cuối cùng đã biết có điểm không ổn, vô cùng không ổn.
 
-Chính phủ Hồng Hoang Thiên Đình đã thống trị Đại lục Hồng Hoang không biết bao nhiêu vạn năm, văn minh nhân loại phồn vinh đến cực điểm. Dẫu Đại lục Hồng Hoang rộng lớn khôn cùng, nhân loại cũng đã khai phá ít nhất ba phần mười diện tích đất đai. Ngay cả những ngọn núi khổng lồ như tinh tú cũng bị nhân loại san phẳng luyện hóa. Lại có hàng chục Thần cách nhân tạo tính toán dữ liệu, mạng ảo phủ khắp toàn bộ Hồng Hoang. Tất cả con người chỉ cần một ý niệm là có thể lên mạng, không còn bất kỳ góc chết nào. Thế mà hiện tại hắn cư nhiên không thể kết nối được...
+Chính phủ Thiên Đình Hồng Hoang đã thống trị Đại lục Hồng Hoang không biết bao nhiêu vạn năm, văn minh nhân loại phồn vinh đến cực điểm. Dẫu Đại lục Hồng Hoang rộng lớn khôn cùng, nhân loại cũng đã khai phá ít nhất ba phần mười diện tích đất đai. Ngay cả những ngọn núi khổng lồ như tinh tú cũng bị nhân loại san phẳng luyện hóa. Lại có hàng chục Thần cách nhân tạo tính toán dữ liệu, mạng ảo phủ khắp toàn bộ Hồng Hoang. Tất cả con người chỉ cần một ý niệm là có thể lên mạng, không còn bất kỳ góc chết nào. Thế mà hiện tại hắn cư nhiên không thể kết nối được...
 
 "Chẳng lẽ đây không phải Đại lục Hồng Hoang?" Ngô Minh càng cảm thấy khó hiểu.
 

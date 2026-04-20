@@ -52,11 +52,11 @@ Lại qua vài chục giây, ngay cả Ruth cũng bắt đầu lo lắng thì Ti
 
 Vương Vũ và Ruth bất lực nhìn nhau. Vương Vũ vỗ vỗ vào lưng Tiết Ngọc đang khóc: "Làm tốt lắm, đừng khóc nữa, cậu đã là một chiến sĩ thực thụ rồi, chiến sĩ thì không được khóc."
 
-Tiết Ngọc vội vàng lau nước mắt muốn dừng lại, nhưng nước mắt cứ tự trào ra. Hắn nức nở nói: "Vâng, tôi là chiến sĩ rồi, chiến sĩ không được khóc... Còn nữa, tôi đã nhận được một Chi tuyến kịch tình cấp B!!"
+Tiết Ngọc vội vàng lau nước mắt muốn dừng lại, nhưng nước mắt cứ tự trào ra. Hắn nức nở nói: "Vâng, tôi là chiến sĩ rồi, chiến sĩ không được khóc... Còn nữa, tôi đã nhận được một Cốt truyện phụ cấp B!!"
 
 Vương Vũ và Ruth nghe vậy đều vừa kinh ngạc vừa vui mừng, cả hai gần như đồng thanh: "Tốt! Chúng ta có thể phục hoạt cho một đồng đội rồi!!"
 
-Cả ba đều vô cùng phấn khởi. Lựa chọn của họ quả nhiên không sai. Thực tế là giữa chừng họ đã phát hiện ra điểm kỳ lạ, chỉ cần giết chết kẻ đã ký khế ước với ác ma là có thể hoàn thành nhiệm vụ, bản thân nhiệm vụ cũng mô tả như vậy. Nhưng họ đã chọn con đường gian nan nhất, trực tiếp muốn hủy bỏ bản khế ước đưa ác ma vào thế giới đó. Và quả nhiên, tuy suýt chút nữa bị diệt đoàn nhưng kết cục lại nhận được Chi tuyến kịch tình!!
+Cả ba đều vô cùng phấn khởi. Lựa chọn của họ quả nhiên không sai. Thực tế là giữa chừng họ đã phát hiện ra điểm kỳ lạ, chỉ cần giết chết kẻ đã ký khế ước với ác ma là có thể hoàn thành nhiệm vụ, bản thân nhiệm vụ cũng mô tả như vậy. Nhưng họ đã chọn con đường gian nan nhất, trực tiếp muốn hủy bỏ bản khế ước đưa ác ma vào thế giới đó. Và quả nhiên, tuy suýt chút nữa bị diệt đoàn nhưng kết cục lại nhận được Cốt truyện phụ!!
 
 "Vậy chúng ta bắt đầu phục hoạt thôi... Phục hoạt ai đây?" Tiết Ngọc đang định chọn phục hoạt với Chủ Thần thì bỗng nhiên hỏi một câu như vậy.
 
@@ -80,6 +80,6 @@ Vương Vũ cũng ném cái nhìn xin lỗi về phía Ruth, rồi mới buông 
 
 "Các người, các người..." Tiết Ngọc chỉ tay vào hai người, nhìn họ hồi lâu, rồi mới hét lên: "Các người đều quên mất ai đã cứu mạng mình rồi sao? Các người... thật khiến tôi thất vọng!!"
 
-"Được, Chi tuyến kịch tình đưa cho các người, thích phục hoạt ai thì phục hoạt. Nhưng... không gian thử luyện tiếp theo, tôi sẽ không hành động cùng các người nữa. Tôi sẽ dựa vào sức mình để phục hoạt Từ Văn!!" Nói đoạn, hắn mạnh tay xé một mảnh gấu áo, ném cho hai người rồi quay lưng bước đi xa dần.
+"Được, Cốt truyện phụ đưa cho các người, thích phục hoạt ai thì phục hoạt. Nhưng... không gian thử luyện tiếp theo, tôi sẽ không hành động cùng các người nữa. Tôi sẽ dựa vào sức mình để phục hoạt Từ Văn!!" Nói đoạn, hắn mạnh tay xé một mảnh gấu áo, ném cho hai người rồi quay lưng bước đi xa dần.
 
 Ruth và Vương Vũ đều muốn nói gì đó, nhưng nhất thời không biết nói sao, chỉ có thể nhìn bóng dáng Tiết Ngọc xa khuất. Mà mảnh gấu áo đó, cứ thế nằm lơ lửng trước mặt họ... 

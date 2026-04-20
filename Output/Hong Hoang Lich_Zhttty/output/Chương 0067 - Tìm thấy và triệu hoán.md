@@ -46,7 +46,7 @@ Dáng vẻ Amor khi được triệu hoán ra là đang mặc bộ đồ ngủ t
 
 "Chờ chút, đừng có ngủ a! Ta triệu hoán ngươi tới đây là có việc gấp!!" Ngô Minh lập tức xốc thiếu niên lên tay và ra sức lay mạnh.
 
-Amor bất đắc dĩ ngáp một cái: "Được rồi, ngươi chính là 'Mệnh vận chi tử' (Son of Destiny) của đại lục Hồng Hoang mà chị Lạc Ty từng nhắc tới phải không? Nói đi cũng phải nói lại, chính ngươi đã tạo ra không gian Chủ Thần sao? Thôi được rồi, đừng lay nữa, giấc ngủ trưa mới ngủ được bốn tiếng đồng hồ, ta còn chưa tỉnh ngủ đâu."
+Amor bất đắc dĩ ngáp một cái: "Được rồi, ngươi chính là 'Con của Định Mệnh' của đại lục Hồng Hoang mà chị Lạc Ty từng nhắc tới phải không? Nói đi cũng phải nói lại, chính ngươi đã tạo ra không gian Chủ Thần sao? Thôi được rồi, đừng lay nữa, giấc ngủ trưa mới ngủ được bốn tiếng đồng hồ, ta còn chưa tỉnh ngủ đâu."
 
 "Cái... cái gì!?" Ngô Minh há hốc mồm hỏi.
 
@@ -56,7 +56,7 @@ Ngô Minh ngậm miệng không nói một lời. Trong lòng hắn đã xác nh
 
 Hơn nữa, không gian Chủ Thần, mà lại là không gian Chủ Thần đời đầu, thật sự không phải do hắn tạo ra! Thiên địa lương tâm có thể làm chứng!
 
-Lúc này Amor nhìn quanh căn phòng một hồi rồi mới lên tiếng: "Ta tạm thời công nhận ngươi là Mệnh vận chi tử của đại lục Hồng Hoang. Hiện tại ngươi đang ở giai đoạn sa cơ lỡ vận sao? Này, đại ca, ngươi triệu hoán ta tới đây làm gì, dù sao cũng nói một tiếng đi chứ, không nói là ta ngủ tiếp đấy."
+Lúc này Amor nhìn quanh căn phòng một hồi rồi mới lên tiếng: "Ta tạm thời công nhận ngươi là Con của Định Mệnh của đại lục Hồng Hoang. Hiện tại ngươi đang ở giai đoạn sa cơ lỡ vận sao? Này, đại ca, ngươi triệu hoán ta tới đây làm gì, dù sao cũng nói một tiếng đi chứ, không nói là ta ngủ tiếp đấy."
 
 "Thành thật, thành thật, phải thành thật." Ngô Minh lập tức tự nhủ.
 

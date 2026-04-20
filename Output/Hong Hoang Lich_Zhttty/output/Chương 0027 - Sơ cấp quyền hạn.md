@@ -4,7 +4,7 @@ Elpha trở thành thành viên tiểu đội Luân hồi sơ cấp, lập tức
 
 Nhưng đây là một quyền hạn vô cùng quan trọng. Chưa nói đến việc khác, Elpha là một pháp sư, tuy ở thế giới có ma pháp ông ta chỉ là một tân binh mới vào nghề, nhưng ở thế giới không có ma pháp, ông ta gần như là tồn tại siêu phàm duy nhất. Chỉ cần một pháp thuật thôi miên tùy tiện thôi cũng đủ để gây ra những biến động và hiệu quả khổng lồ.
 
-Thứ hai, những không gian thử luyện đã hoàn thành không phải là vùng đất bỏ hoang. Nếu có thể tiến vào lần nữa, rất có thể sẽ tìm thấy lợi ích to lớn bên trong. Chẳng nói đâu xa, trong thử luyện "Thấu Minh Nhân" (Hollow Man), việc đổi "Thuốc U hồn hóa" tốn tới ba ngàn điểm thưởng và một cốt truyện chi tiết cấp C, nhưng ở ngay trong không gian thử luyện đó, chỉ cần chấp nhận mạo hiểm một chút vào ban ngày là có thể lấy được mà không mất một xu. Đó chính là lợi ích khổng lồ.
+Thứ hai, những không gian thử luyện đã hoàn thành không phải là vùng đất bỏ hoang. Nếu có thể tiến vào lần nữa, rất có thể sẽ tìm thấy lợi ích to lớn bên trong. Chẳng nói đâu xa, trong thử luyện "Thấu Minh Nhân", việc đổi "Thuốc U hồn hóa" tốn tới ba ngàn điểm thưởng và một cốt truyện chi tiết cấp C, nhưng ở ngay trong không gian thử luyện đó, chỉ cần chấp nhận mạo hiểm một chút vào ban ngày là có thể lấy được mà không mất một xu. Đó chính là lợi ích khổng lồ.
 
 Sau khi biết được sự khác biệt của Elpha, năm người còn lại đều vây quanh ông không ngừng hỏi han. Một mặt là hỏi cách làm sao để có được sự thay đổi đó, nhưng ngay cả Elpha cũng mờ mịt, chỉ ước chừng cảm thấy có liên quan đến việc Chủ Thần nuốt chửng tồn tại thần bí kia. Nhưng những tồn tại thần bí đều vô cùng khủng bố, lần này nếu không nhờ Chủ Thần ra tay, có lẽ ông đã chết ngay tại chỗ rồi.
 
@@ -20,7 +20,7 @@ Hoặc giả Vương Vũ cầm một khẩu pháo quay nòng, tay không ngừng
 
 Tóm lại, vì vô số những khả năng đó, mọi người đều trò chuyện vô cùng hưng phấn. Mà Ngô Minh cũng kinh ngạc phát hiện ra rằng, cùng với việc Elpha trở thành thành viên tiểu đội Luân hồi sơ cấp, anh ở bên phía Chủ Thần cũng có thêm một tùy chọn: đó là một khi có thành viên tiểu đội Luân hồi đổi lấy tùy chọn đi tới thế giới của thành viên khác, thì anh cũng có thể đi theo qua đó. Tuy chỉ có thời gian ba ngày, nhưng những việc có thể làm được thì thực sự quá nhiều.
 
-Đúng lúc này, Los bỗng lên tiếng: "Pháp sư, ông có biết Khu Tà Chú (Curse Dispel) không?"
+Đúng lúc này, Los bỗng lên tiếng: "Pháp sư, ông có biết Khu Tà Chú không?"
 
 Elpha ngẩn ra một chút rồi lắc đầu: "Tôi cũng chỉ mới trở thành ma pháp sư chính thức không lâu, pháp thức của ma pháp này tôi vẫn chưa được ghi nhớ."
 

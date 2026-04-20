@@ -60,7 +60,7 @@ Công tước hơi lắc đầu nói: "Không, hắn không giống thế. Hắn
 
 Thanh niên quay đầu nhìn về phía Công tước, hồi lâu sau mới lên tiếng: "Đưa cho ta tất cả tài liệu. Còn nữa... ngươi tốt nhất hãy cầu nguyện là không có lừa gạt ta. Tin tưởng ta đi, hoặc là bây giờ giết ta, hoặc là hãy chuẩn bị sẵn sàng để nghênh đón đại tai biến của Huyết tộc đi."
 
-Công tước không hề nổi giận, ngược lại nói: "Tử Nha, tài liệu đã chuẩn bị đầy đủ rồi, ngay trên xe ngựa. Còn nữa, ngươi ước chừng phải nhanh một chút, tình cảnh hiện tại của hắn có lẽ vô cùng nguy hiểm. Đội ngũ đã sẵn sàng, ba tên Huyết Phí chiến sĩ tam giai, một tên ma pháp sư hệ Huyết tam giai. Đồng thời ta trao cho ngươi quyền điều động cao nhất, vào lúc cần thiết, ta cùng mười bảy tên Công tước khác đều sẽ ra tay vì ngươi, thậm chí Thân vương cũng sẽ tùy tình hình mà xuất thủ, cho nên ngươi..."
+Công tước không hề nổi giận, ngược lại nói: "Tử Nha, tài liệu đã chuẩn bị đầy đủ rồi, ngay trên xe ngựa. Còn nữa, ngươi ước chừng phải nhanh một chút, tình cảnh hiện tại của hắn có lẽ vô cùng nguy hiểm. Đội ngũ đã sẵn sàng, ba tên Chiến sĩ Huyết Phí tam giai, một tên ma pháp sư hệ Huyết tam giai. Đồng thời ta trao cho ngươi quyền điều động cao nhất, vào lúc cần thiết, ta cùng mười bảy tên Công tước khác đều sẽ ra tay vì ngươi, thậm chí Thân vương cũng sẽ tùy tình hình mà xuất thủ, cho nên ngươi..."
 
 "Tên ta là Nha, là một nhân loại tên Nha sinh ra trong bộ lạc tên Tử, người đã trưởng thành!!"
 

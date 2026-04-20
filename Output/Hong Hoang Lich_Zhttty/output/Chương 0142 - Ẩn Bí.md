@@ -32,7 +32,7 @@ Ngô Minh nhất thời trong lòng chỉ muốn chửi thề, chỉ có thể n
 
 "Khí vận huyết sắc của nhân loại chính là như vậy, từ trước đến nay vẫn chưa từng hiển hiện, nhưng chắc chắn sẽ có một ngày bùng phát. Còn về việc cụ thể giải quyết thế nào..." Lucifer liếc nhìn Ngô Minh một cái, cô do dự một chút rồi vẫn nói: "Hoặc là đồ sát sạch sành sanh toàn bộ nhân loại, nhưng điều đáng sợ là trong lúc đồ sát có thể khiến khí vận huyết sắc trực tiếp bùng phát luôn; hoặc là giải quyết... phía trên... Tóm lại là không còn cách nào khác."
 
-"Tiếp theo là thứ hai trong Tam Đại Tai: Cựu Thần vãng nhật (Old Gods of Yesteryear)."
+"Tiếp theo là thứ hai trong Tam Đại Tai: Cựu Thần vãng nhật."
 
 "Chờ, chờ một chút." Biểu cảm của Ngô Minh lập tức trở nên quái dị: "Không lẽ là cái gọi là Cthulhu – Great Old Ones đấy chứ?"
 
@@ -70,13 +70,13 @@ Lucifer trực tiếp đáp: "Chính là chỉ tất cả các vị diện nằm
 
 "Nguy hiểm trùng trùng? Vô cùng khủng khiếp?"
 
-Đầu Ngô Minh đầy dấu hỏi chấm. Hắn nghĩ tới thời đại Hồng Hoang Thiên Đình, khi đó việc du hành vị diện cực kỳ thịnh hành, Hồng Hoang Thiên Đình thậm chí không biết đã thực dân hóa bao nhiêu vũ trụ vị diện, đào đâu ra cái gọi là nguy hiểm trùng trùng và khủng khiếp ở đây?
+Đầu Ngô Minh đầy dấu hỏi chấm. Hắn nghĩ tới thời đại Thiên Đình Hồng Hoang, khi đó việc du hành vị diện cực kỳ thịnh hành, Thiên Đình Hồng Hoang thậm chí không biết đã thực dân hóa bao nhiêu vũ trụ vị diện, đào đâu ra cái gọi là nguy hiểm trùng trùng và khủng khiếp ở đây?
 
 Lại liên tưởng tới bốn vị Chu Tước, Huyền Vũ, Bạch Hổ, Thanh Long mà Lucifer vừa nhắc tới, đó chẳng phải là Tứ Tượng sao?
 
-Ngô Minh đều biết, trong những mô tả về ba đại công tích kinh thiên động địa của Nhân Hoàng thời đại Hồng Hoang Thiên Đình có: "Lập Tứ Tượng giữ Bát Cực, Ngộ Ngũ Hành trấn Càn Khôn, Truyền Bát Quái nhi phồn thiên hạ". Không biết bốn vị này và việc lập Tứ Tượng của Nhân Hoàng có quan hệ gì không, mà Bát Cực... lại là ở đâu?
+Ngô Minh đều biết, trong những mô tả về ba đại công tích kinh thiên động địa của Nhân Hoàng thời đại Thiên Đình Hồng Hoang có: "Lập Tứ Tượng giữ Bát Cực, Ngộ Ngũ Hành trấn Càn Khôn, Truyền Bát Quái nhi phồn thiên hạ". Không biết bốn vị này và việc lập Tứ Tượng của Nhân Hoàng có quan hệ gì không, mà Bát Cực... lại là ở đâu?
 
-Tóm lại, ẩn bí quá nhiều quá nhiều, mạng lưới của Hồng Hoang Thiên Đình thuở ban đầu lại chẳng hề nhắc tới điều gì, xem ra sau này hắn hành sự phải càng thêm cẩn thận mới được. Hèn mọn tới cùng cũng đâu phải là tội lỗi gì chứ?
+Tóm lại, ẩn bí quá nhiều quá nhiều, mạng lưới của Thiên Đình Hồng Hoang thuở ban đầu lại chẳng hề nhắc tới điều gì, xem ra sau này hắn hành sự phải càng thêm cẩn thận mới được. Hèn mọn tới cùng cũng đâu phải là tội lỗi gì chứ?
 
 "Vậy thì... chúng ta hãy bàn về một chuyện khác đi." Trong lúc Ngô Minh đang suy nghĩ, nhìn thấy vẻ mặt đắc ý của Lucifer – những thông tin ẩn bí này vốn dĩ đã đại diện cho một tầng thứ nhất định, không đạt tới tầng thứ đó hoặc không có nền tảng của đại tộc thì không thể nào biết được. Mặc dù vậy, hắn nhìn vẻ mặt của Lucifer vẫn cảm thấy không thoải mái, vì vậy liền mở miệng nói.
 

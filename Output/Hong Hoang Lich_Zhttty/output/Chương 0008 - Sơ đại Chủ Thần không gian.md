@@ -6,7 +6,7 @@ Bọn họ là Luân hồi giả, vậy anh rốt cuộc là cái gì?
 
 Bây giờ anh rõ ràng không có nhục thân, cũng không phải hóa thân thành Chủ Thần này, mà là đang đứng phía trên Chủ Thần. Tình huống này anh đọc sạch bách các loại tiểu thuyết cũng chưa từng thấy bao giờ.
 
-Những tiểu thuyết Vô hạn lưu đó, dòng chính thống thì viết về Luân hồi giả; dòng phá cách hơn một chút thì viết về thổ trước (indigenous) ở các thế giới Luân hồi; phá cách hơn nữa thì viết về việc bản thân biến thành Chủ Thần. Còn việc đứng trên đầu Chủ Thần thì có nghĩa là gì? Ngô Minh nhất thời cảm thấy não bộ của mình có chút không đủ dùng.
+Những tiểu thuyết Vô hạn lưu đó, dòng chính thống thì viết về Luân hồi giả; dòng phá cách hơn một chút thì viết về thổ trước ở các thế giới Luân hồi; phá cách hơn nữa thì viết về việc bản thân biến thành Chủ Thần. Còn việc đứng trên đầu Chủ Thần thì có nghĩa là gì? Ngô Minh nhất thời cảm thấy não bộ của mình có chút không đủ dùng.
 
 Đúng lúc này, trong não bộ Ngô Minh bỗng nhiên xuất hiện một lượng lớn thông tin, khiến đầu óc anh đau nhức một hồi, mất ít nhất vài giây sau mới miễn cưỡng chịu đựng được.
 
@@ -24,15 +24,15 @@ Chưa hết, tất cả những người có tư cách Thẩm hạch viên trở
 
 Các loại thông tin khác Ngô Minh đều đã nắm rõ, ít nhất là những thông tin hiện tại cung cấp cho anh. Sau khi tiếp nhận đống thông tin này, anh ngẩn người một hồi lâu, trong lòng lập tức trào dâng niềm hân hoan tột độ.
 
-Dẫu nhất thời vẫn chưa nghĩ thông suốt cái Sơ đại Chủ Thần không gian này rốt cuộc có ý nghĩa gì, nhưng anh biết đây chính là đại cơ duyên nha! Thậm chí là cơ duyên thuộc cấp độ lớn nhất rồi. Nói theo ngôn ngữ trên mạng chính phủ Hồng Hoang Thiên Đình thì đây chính là cơ duyên có thể so sánh với việc đạt được Tiên thiên Linh bảo nha.
+Dẫu nhất thời vẫn chưa nghĩ thông suốt cái Sơ đại Chủ Thần không gian này rốt cuộc có ý nghĩa gì, nhưng anh biết đây chính là đại cơ duyên nha! Thậm chí là cơ duyên thuộc cấp độ lớn nhất rồi. Nói theo ngôn ngữ trên mạng chính phủ Thiên Đình Hồng Hoang thì đây chính là cơ duyên có thể so sánh với việc đạt được Tiên thiên Linh bảo nha.
 
 Hơn nữa, khi nhìn thấy Thiên Đạo Quyến Thuộc Trị, Ngô Minh nảy sinh một suy đoán táo bạo. Chỉ là cái suy đoán này khiến anh cảm thấy lạnh thấu xương, nhất thời cũng không dám tin dự đoán này có đúng hay không.
 
-Thiên Đạo... Trong các ghi chép trên mạng chính phủ Hồng Hoang Thiên Đình, nhân loại trong đa vũ trụ là kể từ sau khi Bàn Cổ khai thiên lập địa, Hồng Quân hợp Thiên Đạo mới có thể tự lập. Sau đó có Nhân Hoàng trỗi dậy, lập Tứ Tượng giữ tứ cực, ngộ Ngũ Hành trấn càn khôn, truyền Bát Quái rạng danh thiên hạ, lúc này mới có sự thành lập của chính phủ Hồng Hoang Thiên Đình, nhân tộc mới có thể đại hưng. Đây là chính văn được ghi chép trong lịch sử. Ban đầu Ngô Minh còn thấy đây là thần thoại, dẫu sao Hoa tộc trên Trái Đất cũng có thần thoại tương tự. Thế nhưng khi liên tưởng đến Thiên Đạo Quyến Thuộc Trị hiện giờ, cái thần thoại này bỗng chốc hiện hữu ngay trước mắt.
+Thiên Đạo... Trong các ghi chép trên mạng chính phủ Thiên Đình Hồng Hoang, nhân loại trong đa vũ trụ là kể từ sau khi Bàn Cổ khai thiên lập địa, Hồng Quân hợp Thiên Đạo mới có thể tự lập. Sau đó có Nhân Hoàng trỗi dậy, lập Tứ Tượng giữ tứ cực, ngộ Ngũ Hành trấn càn khôn, truyền Bát Quái rạng danh thiên hạ, lúc này mới có sự thành lập của chính phủ Thiên Đình Hồng Hoang, nhân tộc mới có thể đại hưng. Đây là chính văn được ghi chép trong lịch sử. Ban đầu Ngô Minh còn thấy đây là thần thoại, dẫu sao Hoa tộc trên Trái Đất cũng có thần thoại tương tự. Thế nhưng khi liên tưởng đến Thiên Đạo Quyến Thuộc Trị hiện giờ, cái thần thoại này bỗng chốc hiện hữu ngay trước mắt.
 
-Thời kỳ chính phủ Hồng Hoang Thiên Đình mà Ngô Minh xuyên không tới, niên hiệu được ghi rõ là "Nhân Loại Lịch" (Lịch nhân loại). Đồng thời, Nhân Loại Lịch là không có Thiên Đạo, vì Thiên Đạo đã bị Hồng Quân "hợp" rồi. Hợp như thế nào, hợp thành cái gì, những điều này thì không ai biết, nhưng có thể chắc chắn một điều là thời đại Nhân Loại Lịch không có Thiên Đạo.
+Thời kỳ chính phủ Thiên Đình Hồng Hoang mà Ngô Minh xuyên không tới, niên hiệu được ghi rõ là "Nhân Loại Lịch" (Lịch nhân loại). Đồng thời, Nhân Loại Lịch là không có Thiên Đạo, vì Thiên Đạo đã bị Hồng Quân "hợp" rồi. Hợp như thế nào, hợp thành cái gì, những điều này thì không ai biết, nhưng có thể chắc chắn một điều là thời đại Nhân Loại Lịch không có Thiên Đạo.
 
-Dòng thời gian có Thiên Đạo là "Hồng Hoang Lịch" trước cả Nhân Loại Lịch. Thời đại đó mới có cái gọi là Thiên Đạo, tên là Gaia. Mà trong ghi chép của chính phủ Hồng Hoang Thiên Đình, nhân loại thời đại Hồng Hoang Lịch thậm chí còn không bằng loài sâu kiến. Nhân loại là sinh vật duy nhất trong cả đa vũ trụ không có Thiên Đạo quyến thuộc – bất kỳ sinh vật nào khác ít nhiều cũng đều có Thiên Đạo quyến thuộc, nhiều thì gọi là Hồng Hoang Vạn Tộc, ít thì là loại không vào cấp bậc. Nhân loại thời đại đó trong ghi chép lịch sử chính là đối tượng thảm hại tồn tại với tư cách là thức ăn, công cụ, nô lệ, vật thí nghiệm.
+Dòng thời gian có Thiên Đạo là "Hồng Hoang Lịch" trước cả Nhân Loại Lịch. Thời đại đó mới có cái gọi là Thiên Đạo, tên là Gaia. Mà trong ghi chép của chính phủ Thiên Đình Hồng Hoang, nhân loại thời đại Hồng Hoang Lịch thậm chí còn không bằng loài sâu kiến. Nhân loại là sinh vật duy nhất trong cả đa vũ trụ không có Thiên Đạo quyến thuộc – bất kỳ sinh vật nào khác ít nhiều cũng đều có Thiên Đạo quyến thuộc, nhiều thì gọi là Hồng Hoang Vạn Tộc, ít thì là loại không vào cấp bậc. Nhân loại thời đại đó trong ghi chép lịch sử chính là đối tượng thảm hại tồn tại với tư cách là thức ăn, công cụ, nô lệ, vật thí nghiệm.
 
 Chẳng nhẽ mình xuyên không về thời Hồng Hoang rồi sao?
 

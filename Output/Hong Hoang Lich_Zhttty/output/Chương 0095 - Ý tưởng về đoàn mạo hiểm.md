@@ -2,7 +2,7 @@
 
 Ngô Minh cầm bản đồ của Liên minh Thương nghiệp lên xem đi xem lại. Toàn bộ Liên minh Thương nghiệp có tổng cộng 172 tòa thành thị, hơn 43.000 thôn trấn, với tổng diện tích chiếm đất ước tính khoảng 980 triệu km vuông. Con số này khiến Ngô Minh không khỏi muốn chửi thề.
 
-Mặc dù hắn đã sinh sống trong sở tại của chính phủ Hồng Hoang Thiên Đình suốt vài tháng trời, nhưng bản tính hắn vốn cẩn trọng (nhát gan), nên cơ bản là "cửa đóng then cài". Tuy rằng hắn đã sục sạo khắp nơi trên mạng lưới thông tin, nhưng đối với độ rộng lớn của Hồng Hoang Đại Lục, hắn vẫn chưa hề có một khái niệm triệt để, chỉ biết rằng nó rất lớn, cực kỳ lớn, vô cùng lớn, rộng lớn đến mức không thể tin nổi.
+Mặc dù hắn đã sinh sống trong sở tại của chính phủ Thiên Đình Hồng Hoang suốt vài tháng trời, nhưng bản tính hắn vốn cẩn trọng (nhát gan), nên cơ bản là "cửa đóng then cài". Tuy rằng hắn đã sục sạo khắp nơi trên mạng lưới thông tin, nhưng đối với độ rộng lớn của Hồng Hoang Đại Lục, hắn vẫn chưa hề có một khái niệm triệt để, chỉ biết rằng nó rất lớn, cực kỳ lớn, vô cùng lớn, rộng lớn đến mức không thể tin nổi.
 
 Ngô Minh nhớ láng máng rằng, diện tích bề mặt đất liền của Trái Đất dường như chỉ vào khoảng 150 triệu km vuông, vả lại tổng diện tích bề mặt trái đất cũng chỉ tầm 500 đến 600 triệu km vuông mà thôi. Tóm lại là tuyệt đối không vượt quá con số 600 triệu km vuông.
 
@@ -34,7 +34,7 @@ Vì vậy trước đây Ngô Minh lùng sục khắp thành Kim Hà và mấy t
 
 Ngô Minh lại lấy ra một tờ giấy, bắt đầu viết viết vẽ vẽ trên đó.
 
-"Nguyên liệu chính của Hóa Huyết Thần Đao về cơ bản đã đầy đủ. Nguyên liệu phụ trợ cần một lượng lớn các loại quặng kim loại mang thuộc tính âm, không nhất thiết phải là loại nguyên liêu cụ thể nào, nhưng lượng quặng thuộc tính âm cần thiết rất lớn, ít nhất phải tính bằng tấn. Đạo vận cũng còn thiếu nhiều lắm. Cùng lúc đó, ta còn cần một lượng lớn quặng quý hiếm để rèn Thiên Đô Hoang Cổ Hoàng Hỏa lô. Chỉ dựa vào một mình ta thu thập, e rằng phúc địa xây xong rồi mà quặng vẫn chưa gom đủ một nửa."
+"Nguyên liệu chính của Hóa Huyết Thần Đao về cơ bản đã đầy đủ. Nguyên liệu phụ trợ cần một lượng lớn các loại quặng kim loại mang thuộc tính âm, không nhất thiết phải là loại nguyên liêu cụ thể nào, nhưng lượng quặng thuộc tính âm cần thiết rất lớn, ít nhất phải tính bằng tấn. Đạo vận cũng còn thiếu nhiều lắm. Cùng lúc đó, ta còn cần một lượng lớn quặng quý hiếm để rèn Thiên Đô Lò Hoàng Hỏa Hoang Cổ/Hoang Cổ Hoàng Hỏa Lô. Chỉ dựa vào một mình ta thu thập, e rằng phúc địa xây xong rồi mà quặng vẫn chưa gom đủ một nửa."
 
 "Cách tốt nhất tự nhiên là đi thám hiểm tìm kiếm ở những nơi như chiến trường cổ hoặc vùng núi non, nhưng ở đó không những quá nguy hiểm, mà hiện tại ta cũng không thích hợp để rời khỏi lãnh địa..."
 
