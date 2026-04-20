@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "version": "1.0",
+    "version": "1.0.12",
     "source_language": "zh",
     "target_language": "vi",
-    "last_updated": "2026-04-17T08:53:41+07:00",
-    "total_entries": 309,
+    "last_updated": "2026-04-20T09:36:09+07:00",
+    "total_entries": 427,
     "source_projects": [
       "Ac Linh Quoc Gia",
       "Hong Hoang Lich_Zhttty",
@@ -460,7 +460,7 @@
       "id": "GTERM_0045",
       "source_term": "奥术师",
       "target_term": "Áo thuật sư",
-      "category": "proper_names_cn",
+      "category": "profession",
       "source_project": "Hong Hoang Lich_Zhttty",
       "confidence": "low",
       "notes": "",
@@ -539,7 +539,7 @@
     {
       "id": "GTERM_0053",
       "source_term": "基因锁",
-      "target_term": "Gien Tỏa",
+      "target_term": "Khóa Gen",
       "category": "cultivation",
       "source_project": "Hong Hoang Lich_Zhttty",
       "confidence": "low",
@@ -719,7 +719,7 @@
     {
       "id": "GTERM_0071",
       "source_term": "二阶基因锁",
-      "target_term": "Nhị giai Gien Tỏa",
+      "target_term": "Nhị giai Khóa Gen",
       "category": "cultivation",
       "source_project": "Hong Hoang Lich_Zhttty",
       "confidence": "low",
@@ -759,7 +759,7 @@
     {
       "id": "GTERM_0075",
       "source_term": "炽天使",
-      "target_term": "Xí Thiên Sứ",
+      "target_term": "Sí Thiên Sứ",
       "category": "creature",
       "source_project": "Hong Hoang Lich_Zhttty",
       "confidence": "low",
@@ -808,12 +808,12 @@
     },
     {
       "id": "GTERM_0080",
-      "source_term": "坞堡",
-      "target_term": "Ổ bảo",
-      "category": "location",
+      "source_term": "赤红色蟒蛇",
+      "target_term": "Xích mãng",
+      "category": "creature",
       "source_project": "Hong Hoang Lich_Zhttty",
-      "confidence": "low",
-      "notes": "",
+      "confidence": "high",
+      "notes": "Red python monster encountered in Ch 11",
       "locked": false
     },
     {
@@ -3107,13 +3107,1182 @@
       "locked": false
     },
     {
-      "id": "GTERM_0080",
-      "source_term": "赤红色蟒蛇",
-      "target_term": "Xích mãng",
+      "id": "GTERM_0310",
+      "source_term": "搜查令",
+      "target_term": "Lệnh khám xét",
+      "category": "legal",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0311",
+      "source_term": "龙巫妖",
+      "target_term": "Long Vu Yêu",
       "category": "creature",
       "source_project": "Hong Hoang Lich_Zhttty",
       "confidence": "high",
-      "notes": "Red python monster encountered in Ch 11",
+      "notes": "Dragon Lich",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0312",
+      "source_term": "半神",
+      "target_term": "Bán thần",
+      "category": "cultivation",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Demigod",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0313",
+      "source_term": "大风吹来",
+      "target_term": "Gió lớn thổi tới",
+      "category": "clue",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Euphemism for anonymous/mysterious source of info",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0314",
+      "source_term": "解析力",
+      "target_term": "Sức mạnh giải tích",
+      "category": "cultivation",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Analytical power/force, core trait for Arcanists",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0315",
+      "source_term": "不死诸族",
+      "target_term": "Bất Tử Chư Tộc",
+      "category": "worldbuilding",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Undead Races",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0316",
+      "source_term": "东天二皇",
+      "target_term": "Đông Thiên Nhị Hoàng",
+      "category": "worldbuilding",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Two Emperors of the Eastern Sky",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0317",
+      "source_term": "四狱联军",
+      "target_term": "Liên quân Tứ Ngục",
+      "category": "worldbuilding",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Four Hell Alliance",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0318",
+      "source_term": "深渊恶魔",
+      "target_term": "Thâm Uyên Ác Ma",
+      "category": "creature",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Deep Abyss Demons",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0319",
+      "source_term": "炼狱魔鬼",
+      "target_term": "Luyện Ngục Ma Quỷ",
+      "category": "creature",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Purgatory Devils",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0320",
+      "source_term": "火狱炎魔",
+      "target_term": "Hỏa Ngục Viêm Ma",
+      "category": "creature",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Fire Hell Balrogs",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0321",
+      "source_term": "冥狱妖鬼",
+      "target_term": "Minh Ngục Yêu Quỷ",
+      "category": "creature",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Underworld Specters/Yao-ghosts",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0322",
+      "source_term": "鲲族",
+      "target_term": "Côn tộc",
+      "category": "worldbuilding",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Kun race",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0323",
+      "source_term": "鹏族",
+      "target_term": "Bằng tộc",
+      "category": "worldbuilding",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Peng race",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0324",
+      "source_term": "掠夺者联盟",
+      "target_term": "Liên Minh Kẻ Cướp",
+      "category": "faction",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Marauder Alliance / Predator Alliance",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0325",
+      "source_term": "野兽人",
+      "target_term": "Dã thú nhân",
+      "category": "creature",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Wild Beastman",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0326",
+      "source_term": "碰瓷",
+      "target_term": "Bắt vạ",
+      "category": "action",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "To stage an accident for compensation/insurance",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0327",
+      "source_term": "十大阵法",
+      "target_term": "Thập Đại Trận Pháp",
+      "category": "cultivation",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Ten Great Arrays of the Multiverse",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0328",
+      "source_term": "幽冥地府血海阵",
+      "target_term": "U Minh Địa Phủ Huyết Hải Trận",
+      "category": "cultivation",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Netherworld Purgatory Blood Sea Array",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0329",
+      "source_term": "诛仙剑阵",
+      "target_term": "Chu Tiên Kiếm Trận",
+      "category": "cultivation",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Immortal-slaying Sword Array",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0330",
+      "source_term": "太极微尘阵",
+      "target_term": "Thái Cực Vi Trần Trận",
+      "category": "cultivation",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Taiji Dust Array",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0331",
+      "source_term": "河图洛书混元阵",
+      "target_term": "Hà Đồ Lạc Thư Hỗn Nguyên Trận",
+      "category": "cultivation",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "He Tu Lo Shu Hunyuan Array",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0332",
+      "source_term": "大罗星斗鸿蒙阵",
+      "target_term": "Đại La Tinh Đẩu Hồng Mông Trận",
+      "category": "cultivation",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Daluo Starry Primordial Array",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0333",
+      "source_term": "四象五行八卦阵",
+      "target_term": "Tứ Tượng Ngũ Hành Bát Quái Trận",
+      "category": "cultivation",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Four Symbols Five Elements Eight Trigrams Array",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0334",
+      "source_term": "六道轮回阵",
+      "target_term": "Lục Đạo Luân Hồi Trận",
+      "category": "cultivation",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Six Paths of Reincarnation Array",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0335",
+      "source_term": "三十三天弥罗天网阵",
+      "target_term": "Tam Thập Tam Thiên Di La Thiên Võng Trận",
+      "category": "cultivation",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Thirty-three Heavens Mila Sky-net Array",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0336",
+      "source_term": "洪荒万兽阵",
+      "target_term": "Hồng Hoang Vạn Thú Trận",
+      "category": "cultivation",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Primordial Ten Thousand Beast Array",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0337",
+      "source_term": "十二都天神煞大阵",
+      "target_term": "Thập Nhị Đô Thiên Thần Sát Đại Trận",
+      "category": "cultivation",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Twelve Capital Gods Divine Array",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0338",
+      "source_term": "元屠",
+      "target_term": "Nguyên Tử",
+      "category": "worldbuilding",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Name of a legendary sword (Yuantu)",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0339",
+      "source_term": "阿鼻",
+      "target_term": "A Tỳ",
+      "category": "worldbuilding",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Name of a legendary sword (Avici)",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0340",
+      "source_term": "心灵之光",
+      "target_term": "Tâm Linh Chi Quang",
+      "category": "cultivation",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Light of the Mind/Soul, required for Tier 4 mid-stage",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0341",
+      "source_term": "龙巫妖",
+      "target_term": "Long Vu Yêu",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Dragon Lich, also called Long Thi Ma",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0342",
+      "source_term": "死魔法区",
+      "target_term": "Tử ma pháp khu",
+      "category": "worldbuilding",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Dead Magic Zone / Antimagic Zone",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0343",
+      "source_term": "A计划",
+      "target_term": "Kế hoạch A",
+      "category": "strategy",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Plan A",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0344",
+      "source_term": "B计划",
+      "target_term": "Kế hoạch B",
+      "category": "strategy",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Plan B",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0345",
+      "source_term": "Pháp sư sư thừa",
+      "target_term": "Sư thừa pháp sư",
+      "category": "cultivation",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Pháp sư có hệ phái, thầy trò rõ ràng",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0346",
+      "source_term": "Pháp sư dã sinh",
+      "target_term": "Dã sinh pháp sư",
+      "category": "cultivation",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Pháp sư tự học, không có hệ phái",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0347",
+      "source_term": "Siêu ma chuyên trường",
+      "target_term": "Siêu ma chuyên trường",
+      "category": "cultivation",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Kỹ năng đặc biệt tăng cường ma pháp",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0348",
+      "source_term": "Nén ma lực",
+      "target_term": "Nén ma lực",
+      "category": "cultivation",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Kỹ thuật nén năng lượng ma pháp",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0349",
+      "source_term": "Ma pháp định hướng",
+      "target_term": "Ma pháp định hướng",
+      "category": "cultivation",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Ma pháp tập trung mục tiêu",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0350",
+      "source_term": "Lorikk Kim Nhãn",
+      "target_term": "Lorikk Kim Nhãn",
+      "category": "character",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Đạo sư của Ngô Minh",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0351",
+      "source_term": "Thiên địa bất công, càn khôn hữu tư",
+      "target_term": "Thiên địa bất công, càn khôn hữu tư",
+      "category": "lore",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Triết lý về sự thiên kiến của vũ trụ đối với nhân loại",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0352",
+      "source_term": "Khắc ấn",
+      "target_term": "Khắc ấn",
+      "category": "lore",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Dấu ấn thiên địa trừng phạt nhân loại",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0353",
+      "source_term": "Tàng bản cố nguyên",
+      "target_term": "Tàng bản cố nguyên",
+      "category": "strategy",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Chiến lược tích lũy kín đáo",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0354",
+      "source_term": "Thánh vị",
+      "target_term": "Thánh vị",
+      "category": "cultivation",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Cảnh giới tối cao của vạn tộc",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0355",
+      "source_term": "Cao cấp Thánh vị",
+      "target_term": "Cao cấp Thánh vị",
+      "category": "cultivation",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Cấp bậc Thánh vị cao cấp",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0356",
+      "source_term": "Tiên thiên Thánh vị",
+      "target_term": "Tiên thiên Thánh vị",
+      "category": "cultivation",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Thánh vị bẩm sinh/nguyên thủy",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0357",
+      "source_term": "Tiên Thiên Linh Bảo",
+      "target_term": "Tiên Thiên Linh Bảo",
+      "category": "item",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Bảo vật tối cao của vũ trụ",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0358",
+      "source_term": "Linh vị",
+      "target_term": "Linh vị",
+      "category": "cultivation",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Đỉnh phong tứ giai, sát Thánh vị",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0359",
+      "source_term": "Đại Nghị trưởng",
+      "target_term": "Đại Nghị trưởng",
+      "category": "faction",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Lãnh đạo cao nhất Liên minh Thương nghiệp",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0360",
+      "source_term": "Thân vương",
+      "target_term": "Thân vương",
+      "category": "faction",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Cấp bậc cao quý nhất của Huyết tộc",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0361",
+      "source_term": "Thủ chưởng vị diện",
+      "target_term": "Thủ chưởng vị diện",
+      "category": "item",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Vị diện trong lòng bàn tay, bảo vật của chính thống tu chân",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0362",
+      "source_term": "Động thiên",
+      "target_term": "Động thiên",
+      "category": "worldbuilding",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Không gian tu luyện cao cấp",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0363",
+      "source_term": "Phúc địa",
+      "target_term": "Phúc địa",
+      "category": "worldbuilding",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Không gian tu luyện cơ bản",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0364",
+      "source_term": "Tử Nha",
+      "target_term": "Tử Nha",
+      "category": "character",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "high",
+      "notes": "Tên mới của Nha (Ya) khi hành động trong giới dị tộc",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0365",
+      "source_term": "坞堡",
+      "target_term": "Ổ bảo",
+      "category": "location",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0366",
+      "source_term": "魅魔",
+      "target_term": "Mị ma",
+      "category": "creature",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0367",
+      "source_term": "化血神刀",
+      "target_term": "Hóa Huyết Thần Đao",
+      "category": "weapon",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0368",
+      "source_term": "先天一气",
+      "target_term": "Tiên Thiên Nhất Khí",
+      "category": "cultivation",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0369",
+      "source_term": "逻辑族",
+      "target_term": "Tộc Logic",
+      "category": "race",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0370",
+      "source_term": "自启",
+      "target_term": "Tự khải",
+      "category": "action",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0371",
+      "source_term": "高等地精",
+      "target_term": "Hậu Địa Tinh",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0372",
+      "source_term": "灵位",
+      "target_term": "Linh vị",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0373",
+      "source_term": "真圣",
+      "target_term": "Chân Thánh",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0374",
+      "source_term": "炽天使长",
+      "target_term": "Xỉ Thiên Sứ trưởng",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0375",
+      "source_term": "捧杀",
+      "target_term": "Bồng sát",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0376",
+      "source_term": "子牙",
+      "target_term": "Tử Nha",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0377",
+      "source_term": "血沸战士",
+      "target_term": "Huyết Phí chiến sĩ",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0378",
+      "source_term": "始祖隐",
+      "target_term": "Thủy tổ Ẩn",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0379",
+      "source_term": "初拥",
+      "target_term": "Sơ ủng",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0380",
+      "source_term": "死魔法场",
+      "target_term": "Tử ma pháp trường",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0381",
+      "source_term": "瞑目",
+      "target_term": "Minh mục",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0382",
+      "source_term": "暗桩",
+      "target_term": "Ám trang",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0383",
+      "source_term": "智者",
+      "target_term": "Trí giả",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0384",
+      "source_term": "阿莫尔",
+      "target_term": "A Mo Nhĩ",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0385",
+      "source_term": "掌中位面",
+      "target_term": "Chưởng trung vị diện",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0386",
+      "source_term": "洞天福地",
+      "target_term": "Động thiên phúc địa",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0387",
+      "source_term": "血族牧场",
+      "target_term": "Huyết tộc mục trường",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0388",
+      "source_term": "铁山城",
+      "target_term": "Thiết Sơn thành",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0389",
+      "source_term": "高科技福音公司",
+      "target_term": "Công ty Cao khoa học Phúc âm",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0390",
+      "source_term": "洗钱",
+      "target_term": "Tẩy tiền",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0391",
+      "source_term": "命运之子",
+      "target_term": "Mệnh vận chi tử",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0392",
+      "source_term": "正统修真者",
+      "target_term": "Chính Thống Tu Chân giả",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0393",
+      "source_term": "开天辟地",
+      "target_term": "Khai thiên lập địa",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0394",
+      "source_term": "合天道",
+      "target_term": "Hợp thiên đạo",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0395",
+      "source_term": "排除法",
+      "target_term": "Phương pháp loại trừ",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0396",
+      "source_term": "捉迷藏",
+      "target_term": "Trò trốn tìm",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0397",
+      "source_term": "战书",
+      "target_term": "Chiến thư",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0398",
+      "source_term": "树精",
+      "target_term": "Thụ tinh",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0399",
+      "source_term": "置之死地而后生",
+      "target_term": "Trí chi tử địa nhi hậu sinh",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0400",
+      "source_term": "警督",
+      "target_term": "Cảnh đốc",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0401",
+      "source_term": "人马族",
+      "target_term": "Nhân mã tộc",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0402",
+      "source_term": "诺比汗",
+      "target_term": "Nobihan",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0403",
+      "source_term": "实封领地",
+      "target_term": "Thực phong lãnh địa",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0404",
+      "source_term": "虚封领地",
+      "target_term": "Hư phong lãnh địa",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0405",
+      "source_term": "直辖领地",
+      "target_term": "Trực hạt lãnh địa",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0406",
+      "source_term": "道韵反应堆",
+      "target_term": "Đạo vận phản ứng đôi",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0407",
+      "source_term": "乾坤接收器",
+      "target_term": "Càn Khôn tiếp thụ khí",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0408",
+      "source_term": "万象天引仪",
+      "target_term": "Vạn Tượng Thiên Dẫn nghi",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0409",
+      "source_term": "八卦符文固化设备",
+      "target_term": "Bát quái phù văn cố hóa thiết bị",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0410",
+      "source_term": "天都紫火炉",
+      "target_term": "Thiên Đô Tử Hỏa lô",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0411",
+      "source_term": "玄黄青火炉",
+      "target_term": "Huyền Hoàng Thanh Hỏa lô",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0412",
+      "source_term": "荒古黄火炉",
+      "target_term": "Hoang Cổ Hoàng Hỏa lô",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0413",
+      "source_term": "天地玄黄炮",
+      "target_term": "Pháo Thiên Địa Huyền Hoàng",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0414",
+      "source_term": "多炮塔神教",
+      "target_term": "Đa Pháo Tháp Thần giáo",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0415",
+      "source_term": "黄巾力士",
+      "target_term": "Hoàng Cân Lực Sĩ",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0416",
+      "source_term": "塔灵",
+      "target_term": "Tháp linh",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0417",
+      "source_term": "先天灵宝",
+      "target_term": "Tiên Thiên Linh Bảo",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0418",
+      "source_term": "天地玄黄玲珑宝塔",
+      "target_term": "Thiên Địa Huyền Hoàng Linh Lung Bảo Tháp",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0419",
+      "source_term": "太极图",
+      "target_term": "Thái Cực Đồ",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0420",
+      "source_term": "盘古幡",
+      "target_term": "Bàn Cổ Phiên",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0421",
+      "source_term": "混元金斗",
+      "target_term": "Hỗn Nguyên Kim Đấu",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0422",
+      "source_term": "金蛟剪",
+      "target_term": "Kim Giao Tiễn",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0423",
+      "source_term": "如意金箍棒",
+      "target_term": "Như Ý Kim Cô Bổng",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0424",
+      "source_term": "定海神珠",
+      "target_term": "Định Hải Thần Châu",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0425",
+      "source_term": "昊天镜",
+      "target_term": "Hạo Thiên Kính",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0426",
+      "source_term": "河图洛书",
+      "target_term": "Hà Đồ Lạc Thư",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0427",
+      "source_term": "东皇钟",
+      "target_term": "Đông Hoàng Chung",
+      "category": "general",
+      "source_project": "Hong Hoang Lich_Zhttty",
+      "confidence": "low",
+      "notes": "",
       "locked": false
     }
   ]

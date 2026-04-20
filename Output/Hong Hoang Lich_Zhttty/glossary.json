@@ -3,7 +3,7 @@
         "source_language": "zh",
         "target_language": "vi",
         "genre": "eastern_fiction",
-        "last_updated": "2026-04-16T15:13:10Z"
+        "last_updated": "2026-04-20T10:35:00Z"
     },
     "entries": [
         {
@@ -418,6 +418,790 @@
             "category": "lore",
             "source_language": "zh",
             "target_language": "vi"
+        },
+        {
+            "source": "魅魔",
+            "target": "Mị ma",
+            "category": "creature",
+            "source_language": "zh",
+            "target_language": "vi"
+        },
+        {
+            "source": "化血神刀",
+            "target": "Hóa Huyết Thần Đao",
+            "category": "weapon",
+            "source_language": "zh",
+            "target_language": "vi"
+        },
+        {
+            "source": "先天一气",
+            "target": "Tiên Thiên Nhất Khí",
+            "category": "cultivation",
+            "source_language": "zh",
+            "target_language": "vi"
+        },
+        {
+            "source": "奥术师",
+            "target": "Áo thuật sư",
+            "category": "profession",
+            "source_language": "zh",
+            "target_language": "vi"
+        },
+        {
+            "source": "逻辑族",
+            "target": "Tộc Logic",
+            "category": "race",
+            "source_language": "zh",
+            "target_language": "vi"
+        },
+        {
+            "source": "自启",
+            "target": "Tự khải",
+            "category": "action",
+            "source_language": "zh",
+            "target_language": "vi"
+        },
+        {
+            "source": "高等地精",
+            "target": "Hậu Địa Tinh",
+            "type": "race",
+            "note": "Higher Goblin"
+        },
+        {
+            "source": "灵位",
+            "target": "Linh vị",
+            "type": "rank",
+            "note": "Spiritual Position"
+        },
+        {
+            "source": "真圣",
+            "target": "Chân Thánh",
+            "type": "rank",
+            "note": "True Saint"
+        },
+        {
+            "source": "炽天使长",
+            "target": "Xỉ Thiên Sứ trưởng",
+            "type": "title",
+            "note": "Seraph"
+        },
+        {
+            "source": "捧杀",
+            "target": "Bồng sát",
+            "type": "idiom",
+            "note": "Pushed to kill/Tâng bốc quá mức để hại"
+        },
+        {
+            "source": "子牙",
+            "target": "Tử Nha",
+            "type": "character",
+            "note": "Blood Clan strategists"
+        },
+        {
+            "source": "血沸战士",
+            "target": "Huyết Phí chiến sĩ",
+            "type": "rank",
+            "note": "Blood Boiling Warrior"
+        },
+        {
+            "source": "始祖隐",
+            "target": "Thủy tổ Ẩn",
+            "type": "character",
+            "note": "Ancestor Yin"
+        },
+        {
+            "source": "初拥",
+            "target": "Sơ ủng",
+            "type": "term",
+            "note": "First Embrace"
+        },
+        {
+            "source": "死魔法场",
+            "target": "Tử ma pháp trường",
+            "type": "term",
+            "note": "Dead Magic Field"
+        },
+        {
+            "source": "瞑目",
+            "target": "Minh mục",
+            "type": "term",
+            "note": "Close eyes at death"
+        },
+        {
+            "source": "暗桩",
+            "target": "Ám trang",
+            "type": "term",
+            "note": "Undercover agents"
+        },
+        {
+            "source": "智者",
+            "target": "Trí giả",
+            "type": "rank",
+            "note": "Strategist/Thinker"
+        },
+        {
+            "source": "阿莫尔",
+            "target": "A Mo Nhĩ",
+            "type": "character",
+            "note": "Amor - Reincarnation Team Strategist"
+        },
+        {
+            "source": "掌中位面",
+            "target": "Chưởng trung vị diện",
+            "type": "item",
+            "note": "Palm Plane"
+        },
+        {
+            "source": "洞天福地",
+            "target": "Động thiên phúc địa",
+            "type": "term",
+            "note": "Grotto-heaven"
+        },
+        {
+            "source": "血族牧场",
+            "target": "Huyết tộc mục trường",
+            "type": "term",
+            "note": "Blood Clan Ranch"
+        },
+        {
+            "source": "铁山城",
+            "target": "Thiết Sơn thành",
+            "type": "location",
+            "note": "Iron Mountain City"
+        },
+        {
+            "source": "高科技福音公司",
+            "target": "Công ty Cao khoa học Phúc âm",
+            "type": "organization",
+            "note": "Hi-tech Gospel Company"
+        },
+        {
+            "source": "洗钱",
+            "target": "Tẩy tiền",
+            "type": "term",
+            "note": "Money laundering"
+        },
+        {
+            "source": "命运之子",
+            "target": "Mệnh vận chi tử",
+            "type": "term",
+            "note": "Son of Destiny"
+        },
+        {
+            "source": "正统修真者",
+            "target": "Chính Thống Tu Chân giả",
+            "type": "rank",
+            "note": "Orthodox Cultivators"
+        },
+        {
+            "source": "开天辟地",
+            "target": "Khai thiên lập địa",
+            "type": "term",
+            "note": "Creating the world"
+        },
+        {
+            "source": "合天道",
+            "target": "Hợp thiên đạo",
+            "type": "term",
+            "note": "Merging with the Heavenly Way"
+        },
+        {
+            "source": "排除法",
+            "target": "Phương pháp loại trừ",
+            "type": "term",
+            "note": "Exclusion Principle"
+        },
+        {
+            "source": "捉迷藏",
+            "target": "Trò trốn tìm",
+            "type": "term",
+            "note": "Hide and seek"
+        },
+        {
+            "source": "战书",
+            "target": "Chiến thư",
+            "type": "term",
+            "note": "Challenge Letter"
+        },
+        {
+            "source": "树精",
+            "target": "Thụ tinh",
+            "type": "race",
+            "note": "Dryad/Tree Spirit"
+        },
+        {
+            "source": "置之死地而后生",
+            "target": "Trí chi tử địa nhi hậu sinh",
+            "type": "idiom",
+            "note": "Put oneself in a death trap to find life"
+        },
+        {
+            "source": "警督",
+            "target": "Cảnh đốc",
+            "type": "rank",
+            "note": "Police Superintendent"
+        },
+        {
+            "source": "人马族",
+            "target": "Nhân mã tộc",
+            "type": "race",
+            "note": "Centaur"
+        },
+        {
+            "source": "诺比汗",
+            "target": "Nobihan",
+            "type": "character",
+            "note": "Centaur Investigator"
+        },
+        {
+            "source": "实封领地",
+            "target": "Thực phong lãnh địa",
+            "type": "term",
+            "note": "Full feudal territory"
+        },
+        {
+            "source": "虚封领地",
+            "target": "Hư phong lãnh địa",
+            "type": "term",
+            "note": "Nominal/Symbolic territory"
+        },
+        {
+            "source": "直辖领地",
+            "target": "Trực hạt lãnh địa",
+            "type": "term",
+            "note": "Directly-governed territory"
+        },
+        {
+            "source": "道韵反应堆",
+            "target": "Đạo vận phản ứng đôi",
+            "type": "item",
+            "note": "Dao-rhyme Reactor"
+        },
+        {
+            "source": "乾坤接收器",
+            "target": "Càn Khôn tiếp thụ khí",
+            "type": "item",
+            "note": "Qiankun Receiver"
+        },
+        {
+            "source": "万象天引仪",
+            "target": "Vạn Tượng Thiên Dẫn nghi",
+            "type": "item",
+            "note": "Universal Heaven-Induction Instrument"
+        },
+        {
+            "source": "八卦符文固化设备",
+            "target": "Bát quái phù văn cố hóa thiết bị",
+            "type": "item",
+            "note": "Eight Trigrams Rune Solidification Device"
+        },
+        {
+            "source": "天都紫火炉",
+            "target": "Thiên Đô Tử Hỏa lô",
+            "type": "item",
+            "note": "Heavenly Purple Fire Furnace"
+        },
+        {
+            "source": "玄黄青火炉",
+            "target": "Huyền Hoàng Thanh Hỏa lô",
+            "type": "item",
+            "note": "Xuanhuang Cyan Fire Furnace"
+        },
+        {
+            "source": "荒古黄火炉",
+            "target": "Hoang Cổ Hoàng Hỏa lô",
+            "type": "item",
+            "note": "Ancient Yellow Fire Furnace"
+        },
+        {
+            "source": "天地玄黄炮",
+            "target": "Pháo Thiên Địa Huyền Hoàng",
+            "type": "weapon",
+            "note": "Heaven and Earth Xuanhuang Cannon"
+        },
+        {
+            "source": "多炮塔神教",
+            "target": "Đa Pháo Tháp Thần giáo",
+            "type": "term",
+            "note": "Multi-turret Religion/Cult"
+        },
+        {
+            "source": "黄巾力士",
+            "target": "Hoàng Cân Lực Sĩ",
+            "type": "summon",
+            "note": "Yellow Turban Warriors"
+        },
+        {
+            "source": "塔灵",
+            "target": "Tháp linh",
+            "type": "term",
+            "note": "Tower Spirit"
+        },
+        {
+            "source": "龙巫妖",
+            "target": "Long Vu Yêu",
+            "type": "creature",
+            "note": "Dragon Lich"
+        },
+        {
+            "source": "先天灵宝",
+            "target": "Tiên Thiên Linh Bảo",
+            "type": "item",
+            "note": "Innate Spiritual Treasure"
+        },
+        {
+            "source": "天地玄黄玲珑宝塔",
+            "target": "Thiên Địa Huyền Hoàng Linh Lung Bảo Tháp",
+            "type": "item",
+            "note": "Heaven and Earth Xuanhuang Pagoda"
+        },
+        {
+            "source": "太极图",
+            "target": "Thái Cực Đồ",
+            "type": "item",
+            "note": "Taiji Diagram"
+        },
+        {
+            "source": "盘古幡",
+            "target": "Bàn Cổ Phiên",
+            "type": "item",
+            "note": "Pangu Banner"
+        },
+        {
+            "source": "混元金斗",
+            "target": "Hỗn Nguyên Kim Đấu",
+            "type": "item",
+            "note": "Primordial Golden Bucket"
+        },
+        {
+            "source": "金蛟剪",
+            "target": "Kim Giao Tiễn",
+            "type": "item",
+            "note": "Golden Dragon Scissors"
+        },
+        {
+            "source": "如意金箍棒",
+            "target": "Như Ý Kim Cô Bổng",
+            "type": "item",
+            "note": "Ruyi Jingu Bang"
+        },
+        {
+            "source": "定海神珠",
+            "target": "Định Hải Thần Châu",
+            "type": "item",
+            "note": "Sea-Fixing Pearl"
+        },
+        {
+            "source": "昊天镜",
+            "target": "Hạo Thiên Kính",
+            "type": "item",
+            "note": "Haotian Mirror"
+        },
+        {
+            "source": "河图洛书",
+            "target": "Hà Đồ Lạc Thư",
+            "type": "item",
+            "note": "Hetu Luoshu"
+        },
+        {
+            "source": "东皇钟",
+            "target": "Đông Hoàng Chung",
+            "type": "item",
+            "note": "Donghuang Bell"
+        },
+        {
+            "zh": "基因锁",
+            "vi": "Gen Tỏa",
+            "en": "Gene Lock",
+            "desc": "Khái niệm then chốt trong vũ trụ Zhttty, chỉ việc phá vỡ giới hạn gen nhân loại để bộc phát sức mạnh và bản năng chiến đấu."
+        },
+        {
+            "zh": "第一阶",
+            "vi": "Đệ nhất giai",
+            "en": "Stage 1",
+            "desc": "Giai đoạn đầu của Gen Tỏa, bộc phát bản năng chiến đấu và tinh chuẩn khống chế cơ thể."
+        },
+        {
+            "zh": "黑客帝国",
+            "vi": "Ma Trận",
+            "en": "The Matrix",
+            "desc": "Thế giới trong phim Ma Trận, bối cảnh nhiệm vụ của Vương Vũ."
+        },
+        {
+            "zh": "西兰",
+            "vi": "Tây Lan",
+            "en": "Zealand / Zion",
+            "desc": "Thành phố cuối cùng của nhân loại trong thế giới Ma Trận (phiên âm từ Zion)."
+        },
+        {
+            "zh": "大伊万",
+            "vi": "Đại Y Vạn",
+            "en": "Tsar Bomba",
+            "desc": "Bom Sa Hoàng, vũ khí hạt nhân mạnh nhất lịch sử nhân loại."
+        },
+        {
+            "zh": "气运之子",
+            "vi": "Khí vận chi tử",
+            "en": "Child of Fortune",
+            "desc": "Người có vận may lớn trong một thời kỳ."
+        },
+        {
+            "zh": "时代之子",
+            "vi": "Thời đại chi tử",
+            "en": "Child of the Era",
+            "desc": "Người dẫn dắt và thúc đẩy cả một thời đại."
+        },
+        {
+            "zh": "位面之子",
+            "vi": "Vị diện chi tử",
+            "en": "Child of the Plane",
+            "desc": "Người được cả vị diện chiếu cố, thường xuất hiện để cứu vãn thế giới."
+        },
+        {
+            "zh": "人类之子",
+            "vi": "Nhân loại chi tử",
+            "en": "Son of Humanity",
+            "desc": "Danh hiệu tối cao dành riêng cho Nhân Hoàng Phục Hy."
+        },
+        {
+            "zh": "掌上位面",
+            "vi": "Chưởng thượng vị diện",
+            "en": "Palm Plane",
+            "desc": "Một loại không gian độc lập có thể thu nhỏ trong lòng bàn tay, dùng làm nơi trú ẩn hoặc vũ khí."
+        },
+        {
+            "zh": "弗拉德三世",
+            "vi": "Phất Lạp Đức tam thế",
+            "en": "Vlad III",
+            "desc": "Đại công tước Vlad III (Dracula), nguồn gốc của văn hóa Ma cà rồng."
+        },
+        {
+            "zh": "阿雅丹",
+            "vi": "Ayadan",
+            "en": "Ayadan",
+            "desc": "Bá tước Ayadan"
+        },
+        {
+            "zh": "诺语",
+            "vi": "Nuoyu",
+            "en": "Nuoyu",
+            "desc": "Hầu tước Nuoyu"
+        },
+        {
+            "zh": "洛仑",
+            "vi": "Luolun",
+            "en": "Luolun",
+            "desc": "Hầu tước Luolun"
+        },
+        {
+            "zh": "灵魂契约",
+            "vi": "Khế ước linh hồn",
+            "en": "Soul Contract",
+            "desc": "Contract binding the soul"
+        },
+        {
+            "zh": "达芬铎",
+            "vi": "Đạt Phấn Đồ",
+            "en": "Dafenda",
+            "desc": "Ngô Minh's Butler"
+        },
+        {
+            "zh": "阿芙蕾",
+            "vi": "A Phù Lôi",
+            "en": "Afulei",
+            "desc": "Dryad Maid"
+        },
+        {
+            "zh": "小莉",
+            "vi": "Tiểu Lợi",
+            "en": "Xiao Li",
+            "desc": "Cat-ear Maid"
+        },
+        {
+            "zh": "玄黄石",
+            "vi": "Huyền Hoàng thạch",
+            "en": "Xuanhuang Stone",
+            "desc": "Essential fuel/ammo for Xuanhuang Cannon"
+        },
+        {
+            "zh": "欧贝利斯克的巨神兵",
+            "vi": "Obelisk chi Cự Thần Binh",
+            "en": "Obelisk the Tormentor",
+            "desc": "One of the Three Egyptian Gods"
+        },
+        {
+            "zh": "无尽森林",
+            "vi": "Vô Tận sâm lâm",
+            "en": "Endless Forest",
+            "desc": "A dangerous forest region"
+        },
+        {
+            "zh": "血之议会",
+            "vi": "Huyết chi nghị hội",
+            "en": "Blood Council",
+            "desc": "Governing body of the Blood Clan"
+        },
+        {
+            "zh": "大局",
+            "vi": "Đại cục",
+            "en": "Big Picture",
+            "desc": "The general situation or major interest"
+        },
+        {
+            "zh": "李铭",
+            "vi": "Lý Minh",
+            "en": "Li Ming",
+            "desc": "A human from the future with a Zhu Xian Sword"
+        },
+        {
+            "zh": "沙虫族",
+            "vi": "Sa Trùng tộc",
+            "en": "Sandworm race",
+            "desc": "A race of sandworms"
+        },
+        {
+            "zh": "盖亚",
+            "vi": "Gaia",
+            "en": "Gaia",
+            "desc": "The world consciousness"
+        },
+        {
+            "zh": "真实历史",
+            "vi": "Lịch sử Chân thực",
+            "en": "True History",
+            "desc": "An organization following true history"
+        },
+        {
+            "zh": "北海荒漠原",
+            "vi": "Bắc Hải hoang mạc nguyên",
+            "en": "North Sea Desert Plain",
+            "desc": "A desert region"
+        },
+        {
+            "zh": "诛仙剑",
+            "vi": "Tru Tiên Kiếm",
+            "en": "Zhu Xian Sword",
+            "desc": "Legendary sword"
+        },
+        {
+            "zh": "冒险团",
+            "vi": "Đoàn mạo hiểm",
+            "en": "Adventure Group",
+            "desc": "Group of adventurers"
+        },
+        {
+            "zh": "道韵",
+            "vi": "Đạo vận",
+            "en": "Dao Rhyme/Dao Rhythm",
+            "desc": "Information source for orthodox cultivation"
+        },
+        {
+            "zh": "血红玫瑰",
+            "vi": "Hoa Hồng Đỏ",
+            "en": "Blood Red Rose",
+            "desc": "Lilith's Adventure Group"
+        },
+        {
+            "zh": "莉莉丝",
+            "vi": "Lị Lị Ti",
+            "en": "Lilith",
+            "desc": "Captain of Blood Red Rose, future Saint"
+        },
+        {
+            "zh": "灵石",
+            "vi": "Linh thạch",
+            "en": "Spirit Stone",
+            "desc": "Currency/Energy resource"
+        },
+        {
+            "zh": "大复仇",
+            "vi": "Đại phục thù",
+            "en": "Great Revenge",
+            "desc": "Philosophy of seeking justice for even old wrongs"
+        },
+        {
+            "zh": "地狱熔炉",
+            "vi": "Địa ngục hỏa lò",
+            "en": "Hellforge",
+            "desc": "Special forge in Abyss/Diablo"
+        },
+        {
+            "zh": "标签",
+            "vi": "Nhãn dán",
+            "en": "Label/Tag",
+            "desc": "One's public image or persona"
+        },
+        {
+            "zh": "分身",
+            "vi": "Phân thân",
+            "en": "Clone/Avatar",
+            "desc": "A manifestation or clone of a powerful being"
+        },
+        {
+            "zh": "三魔神",
+            "vi": "Tam Đại Ma Thần",
+            "en": "Three Greater Evils",
+            "desc": "Main bosses in Diablo II trial"
+        },
+        {
+            "zh": "奈非天",
+            "vi": "Nephalem",
+            "en": "Nephalem",
+            "desc": "Hybrid race in Diablo II"
+        },
+        {
+            "zh": "地狱熔炉",
+            "vi": "Lò luyện Địa Ngục",
+            "en": "Hellforge",
+            "desc": "Demonic forge to be destroyed"
+        },
+        {
+            "zh": "修复",
+            "vi": "phục hồi",
+            "en": "repair/restore",
+            "desc": "God space restoration function"
+        },
+        {
+            "zh": "死亡骑士",
+            "vi": "Tử Vong Kỵ Sĩ",
+            "en": "Death Knight",
+            "desc": "Elite undead unit"
+        },
+        {
+            "zh": "法式本源",
+            "vi": "Bản nguyên pháp thức",
+            "en": "Magic base pattern",
+            "desc": "Core structure of a magic spell"
+        },
+        {
+            "zh": "顺推",
+            "vi": "Thuận suy",
+            "en": "Forward derivation",
+            "desc": "Traditional method of learning runes from bottom-up"
+        },
+        {
+            "zh": "逆推",
+            "vi": "Nghịch suy",
+            "en": "Reverse derivation",
+            "desc": "Advanced cultivation method deriving origin from core runes"
+        },
+        {
+            "zh": "返本还源",
+            "vi": "Phản Bản Hoàn Nguyên",
+            "en": "Return to the origin",
+            "desc": "Process of returning items/runes to their original primordial state"
+        },
+        {
+            "zh": "天启四骑士",
+            "vi": "Thiên Khải Tứ Kỵ Sĩ",
+            "en": "Four Horsemen of the Apocalypse",
+            "desc": "Legendary Saint-level figures in future history"
+        },
+        {
+            "zh": "地灵族",
+            "vi": "Gnome tộc / Địa Linh tộc",
+            "en": "Gnome race",
+            "desc": "Scientific-magical race, creators of Gnomish technology"
+        },
+        {
+            "zh": "天蛇族",
+            "vi": "Thiên Xà tộc",
+            "en": "Heavenly Snake race",
+            "desc": "Biotech advanced race, twins of Gnomes"
+        },
+        {
+            "zh": "机界升华",
+            "vi": "Cơ Giới Thăng Hoa",
+            "en": "Machine World Ascension",
+            "desc": "Gnomish catastrophic project"
+        },
+        {
+            "zh": "苍白之地",
+            "vi": "Thương Bạch chi địa",
+            "en": "White Land",
+            "desc": "Metallic wasteland created by Gnomes"
+        },
+        {
+            "zh": "不周山",
+            "vi": "Bất Chu Sơn",
+            "en": "Mount Buzhou",
+            "desc": "The Pillar of Heaven"
+        },
+        {
+            "zh": "欧贝利斯克的巨神兵",
+            "vi": "Ô Bối Lợi Tư Khắc chi Cự Thần Binh",
+            "en": "Obelisk the Tormentor",
+            "desc": "Gnomish Titan weapon"
+        },
+        {
+            "zh": "苍白之地",
+            "vi": "Thương Bạch chi Địa",
+            "desc": "Pale Land, where Bất Chu Sơn clues are found."
+        },
+        {
+            "zh": "先天至宝",
+            "vi": "Tiên Thiên Chí Bảo",
+            "desc": "Top-tier Primordial Spiritual Treasures."
+        },
+        {
+            "zh": "昊天镜",
+            "vi": "Hạo Thiên Kính",
+            "desc": "One of the four Tiên Thiên Chí Bảo."
+        },
+        {
+            "zh": "天地玄黄玲珑宝塔",
+            "vi": "Thiên Địa Huyền Hoàng Linh Lung Bảo Tháp",
+            "desc": "One of the four Tiên Thiên Chí Bảo."
+        },
+        {
+            "zh": "盘古斧",
+            "vi": "Bàn Cổ Phủ",
+            "desc": "One of the four Tiên Thiên Chí Bảo."
+        },
+        {
+            "zh": "造化玉碟",
+            "vi": "Tạo Hóa Ngọc Điệp",
+            "desc": "One of the four Tiên Thiên Chí Bảo."
+        },
+        {
+            "zh": "轮回盘",
+            "vi": "Luân Hồi Bàn",
+            "desc": "Top-tier Tiên Thiên Linh Bảo."
+        },
+        {
+            "zh": "九幽泉水",
+            "vi": "Cửu U Tuyền Thủy",
+            "desc": "Styx Water/Nine-Serenity Spring Water."
+        },
+        {
+            "zh": "后土氏",
+            "vi": "Hậu Thổ Thị",
+            "desc": "Houtu, deity/power associated with reincarnation and earth."
+        },
+        {
+            "zh": "天启四骑士",
+            "vi": "Thiên Khải Tứ Kỵ Sĩ",
+            "desc": "Four Horsemen: War, Death, Famine, Plague."
+        },
+        {
+            "zh": "亚龙平原",
+            "vi": "Bình nguyên Á Long",
+            "desc": "Yamano Plain, scene of betrayal."
+        },
+        {
+            "zh": "半神",
+            "vi": "Bán Thần",
+            "desc": "Demigod, mid-tier 4th rank."
+        },
+        {
+            "zh": "空门",
+            "vi": "Không Môn",
+            "desc": "Void Gate, unstable teleportation portals."
+        },
+        {
+            "zh": "子牙",
+            "vi": "Tử Nha",
+            "desc": "Zi-Ya, Ngô Minh's brilliant strategist."
         }
     ]
 }

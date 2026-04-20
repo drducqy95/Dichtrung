@@ -81,10 +81,20 @@
             "id": "char_009",
             "name_source": "洛里克·金眼",
             "name_target": "Lorikk Mắt Vàng",
-            "gender": "male",
+            "gender": "female",
             "role": "supporting",
             "identity": "Pháp sư 5 vòng (5th Ring Mage)",
-            "description": "Chủ nhân của Tòa tháp Pháp sư tại thành Kim Hà, đạo sư của Ebis và Ngô Minh.",
+            "description": "Chủ nhân của Tòa tháp Pháp sư tại thành Kim Hà, đạo sư của Ngô Minh. Tính cách ít nói, bí ẩn.",
+            "status": "active"
+        },
+        {
+            "id": "char_021",
+            "name_source": "洛美克",
+            "name_target": "Lomek (Lạc Mỹ Khắc)",
+            "gender": "female",
+            "role": "minor",
+            "identity": "Tháp linh (Tower Spirit)",
+            "description": "Tháp linh của tòa tháp ma pháp của Lorikk, hỗ trợ Ngô Minh khi truyền đạt tin tức.",
             "status": "active"
         },
         {
@@ -157,6 +167,86 @@
             "gender": "male",
             "role": "legend",
             "description": "Trí giả tối cao, nhân vật huyền thoại từ Vô Hạn Khủng Bố.",
+            "status": "active"
+        },
+        {
+            "id": "char_018",
+            "name_source": "达芬铎",
+            "name_target": "Đạt Phấn Đồ",
+            "gender": "male",
+            "role": "supporting",
+            "identity": "Hậu Địa Tinh Huyết tộc (High Goblin Blood)",
+            "description": "Quản gia của Ngô Minh, do Tử Nha phái tới. Tinh thông quản trị, kế toán và công trình học.",
+            "status": "active"
+        },
+        {
+            "id": "char_019",
+            "name_source": "阿芙蕾",
+            "name_target": "A Phù Lôi",
+            "gender": "female",
+            "role": "supporting",
+            "identity": "Thụ tinh Huyết tộc (Dryad Blood)",
+            "description": "Hầu nữ của Ngô Minh, tinh thông chăm sóc thực vật và linh thảo.",
+            "status": "active"
+        },
+        {
+            "id": "char_020",
+            "name_source": "小莉",
+            "name_target": "Tiểu Lợi",
+            "gender": "female",
+            "role": "supporting",
+            "identity": "Miêu nhĩ Huyết tộc (Cat-ear Blood)",
+            "description": "Hầu nữ của Ngô Minh, tính tình hoạt bát, hay lầm bầm.",
+            "status": "active"
+        },
+        {
+            "id": "char_022",
+            "name_source": "奥兰里",
+            "name_target": "Orlanly",
+            "gender": "male",
+            "role": "supporting",
+            "identity": "Pháp sư Á Long nhân bậc 3 (3rd Ring Dragonoid Mage)",
+            "description": "Pháp sư dưới trướng Ngô Minh, tinh thông kỹ xảo siêu ma. Có mối liên hệ phức tạp với các Tử Vong Kỵ Sĩ.",
+            "status": "active"
+        },
+        {
+            "id": "char_023",
+            "name_source": "战争",
+            "name_target": "Chiến Tranh (War)",
+            "gender": "male",
+            "role": "supporting",
+            "identity": "Thủ lĩnh Tử Vong Kỵ Sĩ (Thiên Khải)",
+            "description": "Nhân loại bất tử, một trong Thiên Khải Tứ Kỵ Sĩ. Cầm trọng kiếm hai tay.",
+            "status": "active"
+        },
+        {
+            "id": "char_024",
+            "name_source": "死亡",
+            "name_target": "Tử Vong (Death)",
+            "gender": "male",
+            "role": "supporting",
+            "identity": "Thủ lĩnh Tử Vong Kỵ Sĩ (Thiên Khải)",
+            "description": "Thanh niên tóc bạc anh tuấn, một trong Thiên Khải Tứ Kỵ Sĩ. Cầm trường thương.",
+            "status": "active"
+        },
+        {
+            "id": "char_025",
+            "name_source": "饥荒",
+            "name_target": "Cơ Hoang (Famine)",
+            "gender": "male",
+            "role": "supporting",
+            "identity": "Thủ lĩnh Tử Vong Kỵ Sĩ (Thiên Khải)",
+            "description": "Dã thú nhân bất tử, một trong Thiên Khải Tứ Kỵ Sĩ. Cầm đại đao khổng lồ.",
+            "status": "active"
+        },
+        {
+            "id": "char_026",
+            "name_source": "瘟疫",
+            "name_target": "Ôn Dịch (Plague)",
+            "gender": "female",
+            "role": "supporting",
+            "identity": "Thủ lĩnh Tử Vong Kỵ Sĩ (Thiên Khải)",
+            "description": "Nữ bất tử, một trong Thiên Khải Tứ Kỵ Sĩ. Cầm lưỡi liềm.",
             "status": "active"
         }
     ],

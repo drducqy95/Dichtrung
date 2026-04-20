@@ -11,10 +11,15 @@
 - Chương 0009: Đổi thưởng
 - Chương 0010: Tuyển chọn
 - Chương 0011: Vết tích
+- Chương 0011: Đoàn mạo hiểm Hoa Hồng Đỏ
 - Chương 0012: Dị tộc
+- Chương 0012: Tân chủ nhân
 - Chương 0013: Sát ý dâng trào
+- Chương 0013: Làn sóng tị nạn, đại nguy hiểm và lò luyện
 - Chương 0014: Tuyệt sát
+- Chương 0014: Vì chủ nhân
 - Chương 0015: Hậu quả và tái tiến nhập
+- Chương 0015: Nhãn dán
 - Chương 0016: Không gian thử luyện
 - Chương 0017: Thập tam
 - Chương 0018: Hồi quy
@@ -50,3 +55,58 @@
 - Chương 0048: Ngươi có ước mơ gì không?
 - Chương 0049: Phóng đãng tu luyện
 - Chương 0050: Trung Ương Mậu Thổ Hậu Đức Quyết
+- Chương 0051: Triệu hoán kết thúc
+- Chương 0052: Trúc cơ chi thời
+- Chương 0053: Phân kỳ
+- Chương 0054: Chung Trúc cơ
+- Chương 0055: Dự cảm và kế hoạch
+- Chương 0056: Nhị giai và địa ngục
+- Chương 0057: Sinh nhi vi nhân
+- Chương 0058: Chính thống tu chân chi uy
+- Chương 0059: Bát quái phù văn
+- Chương 0060: Chấn động và Huyết tộc hội nghị
+- Chương 0061: Các phương
+- Chương 0062: Huyết tộc trí giả
+- Chương 0063: Điều tra
+- Chương 0064: Kinh hỉ
+- Chương 0065: Chưởng trung vị diện và Tiên Thiên Nhất Khí
+- Chương 0066: Vẫn còn
+- Chương 0067: Tìm thấy và triệu hoán
+- Chương 0068: Phân tích và quyết định
+- Chương 0069: Chiến thư
+- Chương 0070: Cảnh đốc
+- Chương 0071: Lệnh khám xét
+- Chương 0072: Ám mưu
+- Chương 0073: Dục thành kỳ sự
+- Chương 0074: Trực câu điếu ngư
+- Chương 0075: Ngô Minh tự cứu
+- Chương 0076: Trực diện
+- Chương 0077: Ma pháp tập kích
+- Chương 0078: Bệnh viện
+- Chương 0079: Chi tiết bàn bạc
+- Chương 0080: Giới hạn thực lực
+- Chương 0081: Quyết định và giết người
+- Chương 0082: Cục thế phát triển
+- Chương 0083: Thân sau có người đẩy chạy
+- Chương 0084: U Minh Địa Phủ Huyết Hải Trận và Kẻ đổ vỏ
+- Chương 0085: Thu hoạch và Lãnh địa
+- Chương 0086: Lãnh địa thực sát
+- Chương 0087: Kế hoạch và Giấc mơ
+- Chương 0088: Thực tại? Thí luyện? Luân hồi?
+- Chương 0089: Lần đầu tiến vào
+- Chương 0090: Thiết lập
+- Chương 0091: Quản gia
+- Chương 0092: Ngẫu nhiên
+- Chương 0093: Ai mới là đại cục
+- Chương 0094: Tru Tiên
+- Chương 0095: Ý tưởng về đoàn mạo hiểm
+- Chương 0101: Thiết lập
+- Chương 0102: Ký rồi
+- Chương 0103: Thế lực dần thành hình
+- Chương 0104: Khe nứt địa để
+- Chương 0105: Thiên khải
+- Chương 0106: Phong ấn
+- Chương 0107: Manh mối và sinh tử
+- Chương 0108: Mục tiêu
+- Chương 0109: Hiểu lầm
+- Chương 0110: Kinh hỉ (Kinh hãi)

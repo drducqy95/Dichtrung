@@ -1,18 +1,196 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-04-18T22:45:00+07:00",
-    "total_characters": 32,
+    "last_updated": "2026-04-20T09:36:09+07:00",
+    "total_characters": 41,
     "source_projects": [
       "Chu Than Dai Dao_Co Nguyet Cu Si",
       "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
       "Phi Pham Hong Hoang_Nga Tu Phi Pham",
-      "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han",
-      "Hong Hoang Lich_Zhttty"
+      "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han"
     ],
     "description": "Tổng hợp nhân vật từ TẤT CẢ project branch trong repo Dichtrung"
   },
   "characters": [
+    {
+      "id": "char_001",
+      "name_source": "吴明",
+      "name_target": "Ngô Minh",
+      "gender": "male",
+      "role": "protagonist",
+      "description": "Nhân vật chính của truyện, xuyên không từ Trái Đất tới thời đại Hồng Hoang. Sở hữu Chủ Thần Không Gian đời đầu.",
+      "traits": [
+        "Tu chân giả",
+        "Mưu lược gia",
+        "Thiên Mệnh Chi Tử"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "char_002",
+      "name_source": "洛丝",
+      "name_target": "Los",
+      "gender": "female",
+      "role": "major",
+      "description": "Một Ác ma Thâm Uyên được Ngô Minh cứu và ký khế ước. Sau tiến hóa thành Luyện Ngục Nữ Yêu.",
+      "status": "active"
+    },
+    {
+      "id": "char_003",
+      "name_source": "埃尔法",
+      "name_target": "Elfa",
+      "gender": "male",
+      "role": "supporting",
+      "description": "Học đồ pháp sư Bán Tinh Linh, thành viên đầu tiên được Ngô Minh triệu hoán vào Chủ Thần không gian.",
+      "status": "active"
+    },
+    {
+      "id": "char_004",
+      "name_source": "徐文",
+      "name_target": "Từ Văn",
+      "gender": "male",
+      "role": "supporting",
+      "description": "Thư sinh thời Đông Tấn, thành viên được Ngô Minh triệu hoán. Hy sinh tại thử luyện Bệnh viện Tuyệt cảnh.",
+      "status": "deceased"
+    },
+    {
+      "id": "char_005",
+      "name_source": "艾伊",
+      "name_target": "Ai Yi",
+      "gender": "female",
+      "role": "major",
+      "description": "Nữ pháp sư tộc Tinh Linh, có kiến thức uyên thâm về phù văn và ma pháp. Thành viên quan trọng của đội Ngô Minh.",
+      "status": "active"
+    },
+    {
+      "id": "char_006",
+      "name_source": "李铭",
+      "name_target": "Lý Minh",
+      "gender": "male",
+      "role": "key_figure",
+      "description": "Ghi chép viên của 'Lịch Sử Chân Thực'. Tình nguyện quay về thời Hồng Hoang để cứu rỗi nhân loại. Có liên kết với Tru Tiên Tứ Kiếm.",
+      "status": "active"
+    },
+    {
+      "id": "char_007",
+      "name_source": "艾比斯",
+      "name_target": "Ebis",
+      "gender": "male",
+      "identity": "Gnome (Địa tinh)",
+      "role": "Học đồ của Lorikk Mắt Vàng, đồng nghiệp của Ngô Minh tại tiệm dược phẩm. Tính tình thực dụng.",
+      "status": "active"
+    },
+    {
+      "id": "char_008",
+      "name_source": "伊比斯",
+      "name_target": "Ibis",
+      "gender": "male",
+      "identity": "Gnome (Địa tinh)",
+      "role": "Gã lùn lắm lời, họ hàng của Ebis, chủ một cửa hàng dược phẩm. Cung cấp nhiều tin đồn cho Ngô Minh.",
+      "status": "active"
+    },
+    {
+      "id": "char_009",
+      "name_source": "洛里克·金眼",
+      "name_target": "Lorikk Mắt Vàng",
+      "gender": "male",
+      "role": "supporting",
+      "identity": "Pháp sư 5 vòng (5th Ring Mage)",
+      "description": "Chủ nhân của Tòa tháp Pháp sư tại thành Kim Hà, đạo sư của Ebis và Ngô Minh.",
+      "status": "active"
+    },
+    {
+      "id": "char_010",
+      "name_source": "阿莫尔",
+      "name_target": "Amor",
+      "gender": "male",
+      "role": "major",
+      "description": "Trí giả đỉnh cao, thân phận bí ẩn, hỗ trợ Ngô Minh trong các kế hoạch lớn.",
+      "status": "active"
+    },
+    {
+      "id": "char_011",
+      "name_source": "池查",
+      "name_target": "Trì Tra",
+      "gender": "male",
+      "role": "ancient_hero",
+      "description": "Sát lục chi tử, một trong 13 người sống sót cuối cùng của nhân loại thời cổ đại. Sức mạnh thể chất kinh hồn.",
+      "status": "active"
+    },
+    {
+      "id": "char_012",
+      "name_source": "舍干",
+      "name_target": "Xa Can",
+      "gender": "male",
+      "role": "ancient_hero",
+      "description": "Trí giả thời cổ đại, người nhìn thấu âm mưu ngàn đời nhắm vào nhân loại.",
+      "status": "active"
+    },
+    {
+      "id": "char_013",
+      "name_source": "骨",
+      "name_target": "Cốt",
+      "gender": "male",
+      "role": "ancient_hero",
+      "description": "Người của 'Khứ Tử Khứ Tử Đoàn', cơ thể được cải tạo bởi công nghệ Địa Linh tộc.",
+      "status": "active"
+    },
+    {
+      "id": "char_014",
+      "name_source": "薛玉",
+      "name_target": "Tiết Ngọc",
+      "gender": "female",
+      "role": "reincarnator",
+      "description": "Học trò cũ của Ngô Minh ở Trái Đất, thành viên tiểu đội Luân hồi.",
+      "status": "active"
+    },
+    {
+      "id": "char_015",
+      "name_source": "马大哈",
+      "name_target": "Mã Đại Cáp",
+      "gender": "male",
+      "role": "reincarnator",
+      "description": "Thành viên tiểu đội Luân hồi, tính cách hào sảng, võ lực khá.",
+      "status": "active"
+    },
+    {
+      "id": "char_016",
+      "name_source": "郑吒",
+      "name_target": "Trịnh Xá",
+      "gender": "male",
+      "role": "legend",
+      "description": "Bậc thầy Khóa Gen, nhân vật huyền thoại từ Vô Hạn Khủng Bố.",
+      "status": "active"
+    },
+    {
+      "id": "char_017",
+      "name_source": "楚轩",
+      "name_target": "Sở Hiên",
+      "gender": "male",
+      "role": "legend",
+      "description": "Trí giả tối cao, nhân vật huyền thoại từ Vô Hạn Khủng Bố.",
+      "status": "active"
+    },
+    {
+      "id": "char_018",
+      "name_source": "诺比汗",
+      "name_target": "Nặc Bỉ Hãn",
+      "gender": "male",
+      "identity": "Centaur (Nhân mã)",
+      "role": "supporting",
+      "description": "Cảnh đốc tài năng được điều đến Kim Hà điều tra vụ án mạng hàng loạt. Học trò của một trí giả bí ẩn.",
+      "status": "active"
+    },
+    {
+      "id": "char_019",
+      "name_source": "子牙",
+      "name_target": "Tử Nha",
+      "gender": "male",
+      "identity": "Blood族 (Huyết tộc)",
+      "role": "antagonist",
+      "description": "Trí giả của Huyết tộc, tên thật là Ziya. Tìm cách điều tra chân tướng về Ngô Minh và 'Chiến thư'.",
+      "status": "active"
+    },
     {
       "id": "GCHAR_0001",
       "source_project": "Chu Than Dai Dao_Co Nguyet Cu Si",
@@ -253,116 +431,6 @@
       "role": "khác",
       "description": "",
       "first_appearance": "",
-      "notes": ""
-    },
-    {
-      "id": "GCHAR_0023",
-      "source_project": "Hong Hoang Lich_Zhttty",
-      "name_original": "吴明",
-      "name_translated": "Ngô Minh",
-      "gender": "male",
-      "role": "protagonist",
-      "description": "Nhân vật chính của truyện.",
-      "first_appearance": "Chương 2",
-      "notes": "Sở hữu Tối sơ Chủ Thần Không Gian"
-    },
-    {
-      "id": "GCHAR_0024",
-      "source_project": "Hong Hoang Lich_Zhttty",
-      "name_original": "阿莫尔",
-      "name_translated": "Amor",
-      "gender": "male",
-      "role": "major",
-      "description": "Thân phận bí ẩn, có liên quan đến các yếu tố phương Tây/Arcane.",
-      "first_appearance": "Chương 8",
-      "notes": ""
-    },
-    {
-      "id": "GCHAR_0025",
-      "source_project": "Hong Hoang Lich_Zhttty",
-      "name_original": "王羽",
-      "name_translated": "Vương Vũ",
-      "gender": "male",
-      "role": "supporting",
-      "description": "Chiến binh từ tương lai mạt thế robot.",
-      "first_appearance": "Chương 6",
-      "notes": ""
-    },
-    {
-      "id": "GCHAR_0026",
-      "source_project": "Hong Hoang Lich_Zhttty",
-      "name_original": "埃尔法",
-      "name_translated": "Elfa",
-      "gender": "male",
-      "role": "supporting",
-      "description": "Học đồ pháp sư Bán Tinh Linh.",
-      "first_appearance": "Chương 5",
-      "notes": ""
-    },
-    {
-      "id": "GCHAR_0027",
-      "source_project": "Hong Hoang Lich_Zhttty",
-      "name_original": "徐文",
-      "name_translated": "Từ Văn",
-      "gender": "male",
-      "role": "supporting",
-      "description": "Thư sinh thời Đông Tấn.",
-      "first_appearance": "Chương 6",
-      "notes": "Tài năng lãnh đạo xuất chúng, đạt hạng B trong thử luyện Mê Vụ."
-    },
-    {
-      "id": "GCHAR_0028",
-      "source_project": "Hong Hoang Lich_Zhttty",
-      "name_original": "矿骨",
-      "name_translated": "Cốt (Khoáng Cốt)",
-      "gender": "male",
-      "role": "major",
-      "description": "Cơ giới thăng hoa thể tộc Địa Linh (hạng 98).",
-      "first_appearance": "Chương 12",
-      "notes": ""
-    },
-    {
-      "id": "GCHAR_0029",
-      "source_project": "Hong Hoang Lich_Zhttty",
-      "name_original": "红龙斯诺德",
-      "name_translated": "Hồng Long Snord",
-      "gender": "male",
-      "role": "antagonist",
-      "description": "Hỏa chi Bạo quân, bị Đông Hoàng trấn áp.",
-      "first_appearance": "Chương 15",
-      "notes": ""
-    },
-    {
-      "id": "GCHAR_0030",
-      "source_project": "Hong Hoang Lich_Zhttty",
-      "name_original": "吒",
-      "name_translated": "Tra",
-      "gender": "male",
-      "role": "major",
-      "description": "Một trong 13 thành viên cốt cán nhân tộc, sức mạnh khuynh đảo.",
-      "first_appearance": "Chương 17",
-      "notes": ""
-    },
-    {
-      "id": "GCHAR_0031",
-      "source_project": "Hong Hoang Lich_Zhttty",
-      "name_original": "车干",
-      "name_translated": "Xa Can",
-      "gender": "male",
-      "role": "major",
-      "description": "Trí giả trong 13 người, sinh ra ở bộ lạc Xa.",
-      "first_appearance": "Chương 17",
-      "notes": ""
-    },
-    {
-      "id": "GCHAR_0032",
-      "source_project": "Hong Hoang Lich_Zhttty",
-      "name_original": "洛丝",
-      "name_translated": "Lạc Ti (Los)",
-      "gender": "female",
-      "role": "supporting",
-      "description": "Tiefling từ Hỏa Ngục, sủng thiếp của ác ma.",
-      "first_appearance": "Chương 16",
       "notes": ""
     }
   ]
