@@ -52,6 +52,6 @@ Pháp sư bộ cốt nghe vậy, im lặng một lát rồi nói: "Tiền thân 
 
 "Hừ, có những ký ức sẽ được khắc sâu vào trong linh hồn đấy. Ví dụ như ngươi, Lorikke, chẳng phải ngươi vẫn luôn nhớ rõ mọi chuyện ở lãnh địa Tinh linh tộc thuở ấy đó sao? Đã gần năm trăm năm rồi, ngươi vẫn luôn chẳng thể buông bỏ, hà tất chứ? Nhìn ta này, chẳng phải ta đều đã buông bỏ hết rồi sao?" Giọng nói đó vang lên.
 
-Pháp sư bộ cốt quay người đi về phía tầng cao nhất của tòa tháp, vừa đi lão vừa nói: "Chuyện này không giống, không giống nhau chút nào... Hãy đợi ta mười năm, cũng hãy đợi hắn mười năm. Một pháp sư cấp hai sở hữu thiên phú phân tích... Đến lúc đó ta nhất định có thể cứu sống em, Lomekk (Lạc Mỹ Khắc)..."
+Pháp sư bộ cốt quay người đi về phía tầng cao nhất của tòa tháp, vừa đi lão vừa nói: "Chuyện này không giống, không giống nhau chút nào... Hãy đợi ta mười năm, cũng hãy đợi hắn mười năm. Một pháp sư cấp hai sở hữu thiên phú phân tích... Đến lúc đó ta nhất định có thể cứu sống em, Lomekk (Lomek)..."
 
 "Em gái của ta."

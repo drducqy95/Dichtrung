@@ -8,11 +8,11 @@ Tiết Ngọc tỉnh lại, hắn ngẩn ngơ hồi lâu, lúc này mới thở 
 
 Người chết rồi, quả nhiên cái gì cũng không còn nữa, loại cảm giác dần dần tan biến vào hư vô vĩnh hằng, tư tưởng, lý tưởng, giấc mơ, hết thảy đều biến mất...
 
-Tiết Ngọc ngẩn người hồi lâu, lúc này mới nhìn về phía những người có mặt tại hiện trường. Bán tinh linh Pháp Nhĩ Ai, Tiefling Lạc Ti, nhân loại Vương Vũ, một nhóc con da trắng tóc vàng... Những người khác đâu? Từ Văn đâu? Văn Trạch Đào đâu?
+Tiết Ngọc ngẩn người hồi lâu, lúc này mới nhìn về phía những người có mặt tại hiện trường. Bán tinh linh Elfa, Tiefling Ruth, nhân loại Vương Vũ, một nhóc con da trắng tóc vàng... Những người khác đâu? Từ Văn đâu? Văn Trạch Đào đâu?
 
 Tiết Ngọc không dám tin vào phỏng đoán nào đó trong lòng, vội vàng đứng dậy liên tục tìm kiếm. Không gian Chủ Thần liếc mắt là có thể nhìn thấu toàn bộ, hắn quả thật chỉ nhìn thấy bốn người bọn họ, lập tức Tiết Ngọc liền hỏi: "Bọn họ... Tại sao lại phục sinh tôi trước? Các người đang giở trò quỷ gì thế!?"
 
-Vương Vũ cười khổ một tiếng nói: "Tiết Ngọc, chúng tôi đã nói rồi, phục sinh ai trước không phải xem quan hệ với ai tốt, hay là vì cái gì khác, mà là để có thể sống sót trong không gian thí luyện. Suy nghĩ này cho đến tận bây giờ vẫn không thay đổi, đây chính là lý do trước đó chúng tôi phục sinh Pháp Nhĩ Ai trước, cũng là lý do chúng tôi phục sinh cậu lúc này. Tôi hy vọng cậu có thể hiểu những điều này, có thể vì đại cục..."
+Vương Vũ cười khổ một tiếng nói: "Tiết Ngọc, chúng tôi đã nói rồi, phục sinh ai trước không phải xem quan hệ với ai tốt, hay là vì cái gì khác, mà là để có thể sống sót trong không gian thí luyện. Suy nghĩ này cho đến tận bây giờ vẫn không thay đổi, đây chính là lý do trước đó chúng tôi phục sinh Elfa trước, cũng là lý do chúng tôi phục sinh cậu lúc này. Tôi hy vọng cậu có thể hiểu những điều này, có thể vì đại cục..."
 
 "Lại là đại cục, không thể nói cái gì khác sao?" Tiết Ngọc lạnh lùng nói.
 
@@ -20,23 +20,23 @@ Nhóc con tóc vàng kia bỗng nhiên cười hi hi nói: "Vậy phải nói th
 
 Tiết Ngọc nhìn sâu vào nhóc con tóc vàng một cái, hắn thở dài nói: "... Tôi biết rồi, chúng ta lại lập đội cùng nhau đi, mọi người cùng nhau nỗ lực. Nhưng dù thế nào đi nữa, nhất định phải phục sinh đầy đủ các đồng đội, điểm này là giới hạn cuối cùng của tôi."
 
-Vương Vũ vỗ vỗ bả vai Tiết Ngọc nhất thời không nói gì. Ngược lại Pháp Nhĩ Ai bỗng nhiên lên tiếng: "Tiết Ngọc, tôi có một vấn đề muốn hỏi cậu. Lúc trước trong không gian thí luyện, đoạn cuối khi đấu với quái vật thực vật kia, sức mạnh bỗng nhiên bùng nổ là chuyện gì vậy? Chất kích thích à? Hay là pháp thuật? Có thể đưa cho chúng tôi một ít không? Không gian thí luyện nguy hiểm chồng chất, ai cũng không biết sẽ xảy ra chuyện gì, chuẩn bị một chút luôn tốt hơn."
+Vương Vũ vỗ vỗ bả vai Tiết Ngọc nhất thời không nói gì. Ngược lại Elfa bỗng nhiên lên tiếng: "Tiết Ngọc, tôi có một vấn đề muốn hỏi cậu. Lúc trước trong không gian thí luyện, đoạn cuối khi đấu với quái vật thực vật kia, sức mạnh bỗng nhiên bùng nổ là chuyện gì vậy? Chất kích thích à? Hay là pháp thuật? Có thể đưa cho chúng tôi một ít không? Không gian thí luyện nguy hiểm chồng chất, ai cũng không biết sẽ xảy ra chuyện gì, chuẩn bị một chút luôn tốt hơn."
 
 Những người còn lại cũng đều mong chờ nhìn Tiết Ngọc, duy chỉ có nhóc con tóc vàng Amore dường như có suy nghĩ khác, vẻ mặt vẫn nhàn nhạt như cũ.
 
 Tiết Ngọc chỉ hơi trầm tư một chút, lập tức nói: "Tình huống cụ thể thực ra tôi cũng không hiểu rõ lắm, bây giờ nói ra để mọi người cùng thảo luận xem có biết đây là tình huống gì không."
 
-Thế là Tiết Ngọc đem chuyện xảy ra trên người mình nói ra. Trong cơn nguy kịch, tinh thần chấn động, sau đó bản năng biết phải chiến đấu như thế nào, thậm chí vết thương và đau đớn trên người cũng tạm thời biến mất... Mà khi đang nói, ánh mắt của Vương Vũ đã có chút thay đổi, còn Lạc Ti cùng Pháp Nhĩ Ai thì lại vẻ mặt mờ mịt.
+Thế là Tiết Ngọc đem chuyện xảy ra trên người mình nói ra. Trong cơn nguy kịch, tinh thần chấn động, sau đó bản năng biết phải chiến đấu như thế nào, thậm chí vết thương và đau đớn trên người cũng tạm thời biến mất... Mà khi đang nói, ánh mắt của Vương Vũ đã có chút thay đổi, còn Ruth cùng Elfa thì lại vẻ mặt mờ mịt.
 
 Vương Vũ nghiêm túc nhìn Tiết Ngọc hồi lâu, lúc này mới nói: "Hóa ra là cái này, cậu vậy mà sống sót được... Nhưng làm sao có thể, từng có nhà khoa học thử nghiệm trên các tình nguyện viên quân đội, không có khả năng sống sót mà..."
 
-Lạc Ti và Pháp Nhĩ Ai đều ngẩn ngơ, Vương Vũ liền giải thích: "Đây là một loại bản năng đối phó nguy hiểm của nhân loại, hay nói cách khác, khi gặp nguy hiểm lớn, cơ thể sẽ tự nhiên nảy sinh bir loại phản ứng tiến hóa tương tự. Trong não bộ nhân loại sẽ sản sinh ra nhiều loại hóa chất, có mấy loại thậm chí không thể tổng hợp được. Sau khi những hóa chất này giải phóng vào cơ thể, các cơ quan nội tạng cũng sẽ phối hợp sản sinh ra một số hóa chất cực kỳ vi lượng, trong đó đa số đều là kịch độc, nhưng sẽ khiến phản ứng của cơ thể, khả năng ứng phó nguy hiểm, thậm chí là phản ứng phớt lờ đau đớn bùng phát. Ngay cả một người bình thường không hiểu biết gì, một khi tiến vào trạng thái này, lập tức sẽ trở thành một chiến binh tinh nhuệ nhất."
+Ruth và Elfa đều ngẩn ngơ, Vương Vũ liền giải thích: "Đây là một loại bản năng đối phó nguy hiểm của nhân loại, hay nói cách khác, khi gặp nguy hiểm lớn, cơ thể sẽ tự nhiên nảy sinh bir loại phản ứng tiến hóa tương tự. Trong não bộ nhân loại sẽ sản sinh ra nhiều loại hóa chất, có mấy loại thậm chí không thể tổng hợp được. Sau khi những hóa chất này giải phóng vào cơ thể, các cơ quan nội tạng cũng sẽ phối hợp sản sinh ra một số hóa chất cực kỳ vi lượng, trong đó đa số đều là kịch độc, nhưng sẽ khiến phản ứng của cơ thể, khả năng ứng phó nguy hiểm, thậm chí là phản ứng phớt lờ đau đớn bùng phát. Ngay cả một người bình thường không hiểu biết gì, một khi tiến vào trạng thái này, lập tức sẽ trở thành một chiến binh tinh nhuệ nhất."
 
 Nói đến đây, Vương Vũ nghiêm túc nói: "Thời gian duy trì trạng thái này cực ngắn, dài thì mười mấy giây, ngắn thì chỉ có vài giây. Nhưng trong khoảng thời gian cực ngắn này, ý thức chiến đấu và bản năng chiến đấu sẽ tăng vọt. Nếu là người như tôi đối diện cách chiến với người đó, tôi có xác suất lớn sẽ bị giết chết trực tiếp trong vòng năm giây."
 
-Lúc mới nghe đoạn đầu, Lạc Ti và Pháp Nhĩ Ai còn tỏ vẻ không sao cả, nhưng nghe đến đoạn cuối, sắc mặt hai người đều thay đổi.
+Lúc mới nghe đoạn đầu, Ruth và Elfa còn tỏ vẻ không sao cả, nhưng nghe đến đoạn cuối, sắc mặt hai người đều thay đổi.
 
-Bọn họ đã cùng hợp tác với Vương Vũ qua nhiều lần không gian thí luyện, ai nấy đều hiểu rõ thực lực của Vương Vũ. Đây là một chiến binh nhân loại dày dạn kinh nghiệm chiến trường, dù không có bất kỳ năng lực siêu phàm nào, hắn cũng tinh thông hầu hết các loại khí giới quân dụng, tinh thông cận chiến, tinh thông thuốc nổ, tinh thông hầu hết các loại phương tiện vận tải. Khi đối mặt trực tiếp, hắn có thể một mình giết chết ít nhất mười thanh niên khỏe mạnh bình thường trở lên, thời gian không quá một phút. Loại chiến đấu lực này, trong thế giới của Pháp Nhĩ Ai và Lạc Ti, ít nhất cũng là trình độ chiến binh nhất giai, thậm chí nếu sơ suất, những chiến binh có siêu phàm đấu khí gì đó còn rất có thể bị Vương Vũ giết chết, kinh nghiệm của Vương Vũ thực sự quá phong phú.
+Bọn họ đã cùng hợp tác với Vương Vũ qua nhiều lần không gian thí luyện, ai nấy đều hiểu rõ thực lực của Vương Vũ. Đây là một chiến binh nhân loại dày dạn kinh nghiệm chiến trường, dù không có bất kỳ năng lực siêu phàm nào, hắn cũng tinh thông hầu hết các loại khí giới quân dụng, tinh thông cận chiến, tinh thông thuốc nổ, tinh thông hầu hết các loại phương tiện vận tải. Khi đối mặt trực tiếp, hắn có thể một mình giết chết ít nhất mười thanh niên khỏe mạnh bình thường trở lên, thời gian không quá một phút. Loại chiến đấu lực này, trong thế giới của Elfa và Ruth, ít nhất cũng là trình độ chiến binh nhất giai, thậm chí nếu sơ suất, những chiến binh có siêu phàm đấu khí gì đó còn rất có thể bị Vương Vũ giết chết, kinh nghiệm của Vương Vũ thực sự quá phong phú.
 
 Vậy mà một người bình thường chẳng hiểu gì, chỉ cần tiến vào trạng thái này, lại có thể trực tiếp giết chết Vương Vũ trong vòng năm giây, chuyện này là sao!?
 

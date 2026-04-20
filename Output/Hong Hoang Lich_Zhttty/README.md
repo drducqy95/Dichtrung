@@ -6,7 +6,7 @@ Bối cảnh: Một biên niên sử hồng hoang nơi bóng tối, sinh tồn, 
 Tóm tắt nội dung: Tác phẩm dẫn người đọc từ cảnh sinh tồn trong hỗn loạn sang những cột mốc liên quan đến Chủ Thần, công pháp và quá trình xây dựng lực lượng. Nhịp truyện rộng, nhiều tuyến và thiên về quy mô đại cục.
 
 Branch nội bộ: `Hong Hoang Lich_Zhttty`
-Tiến độ hiện tại: `110/0` chương
+Tiến độ hiện tại: `150/0` chương
 
 Quy ước output:
 - Hiển thị mong muốn: `Chương {chapter:04d}: {title}.md`

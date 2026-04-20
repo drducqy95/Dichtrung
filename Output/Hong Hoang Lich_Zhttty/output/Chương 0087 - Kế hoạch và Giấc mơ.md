@@ -50,7 +50,7 @@ Trong tình huống này, những thành phố thuộc phe thứ tư đều vô 
 
 Một khi bức màn hòa bình và trật tự bị xé bỏ, những người bình thường của Liên minh Thương nghiệp vốn hưởng thái bình bấy lâu nay mới đột nhiên kinh tỉnh nhận ra rằng, cái lục địa Hồng Hoang này, cái thế giới của Hồng Hoang Muôn Tộc này căn bản chẳng thái bình một chút nào. Chiến tranh mới là trạng thái bình thường, cái chết mới là trạng thái bình thường.
 
-Mà Ngô Minh mặc dù là một ma pháp sư nhị giai, nhưng bối cảnh sư thừa của hắn lại rất "cứng". Tổ sư là một tứ giai Long Vu Yêu (Dragon Lich), hơn nữa trong lúc Liên minh Thương nghiệp phân裂 nội loạn còn lộ diện một lần, nghe nói đã khiến cả ba phe Huyết tộc, Đại nghị trưởng, và Cao đẳng Địa tinh đều cam đoan sẽ không gây ảnh hưởng tới các thành phố thuộc phe thứ tư. Ước chừng nó đã thắp sáng Thần hỏa, trở thành Bán Thần rồi.
+Mà Ngô Minh mặc dù là một ma pháp sư nhị giai, nhưng bối cảnh sư thừa của hắn lại rất "cứng". Tổ sư là một tứ giai Long Vu Yêu (Dragon Lich), hơn nữa trong lúc Liên minh Thương nghiệp phân nội loạn còn lộ diện một lần, nghe nói đã khiến cả ba phe Huyết tộc, Đại nghị trưởng, và Cao đẳng Địa tinh đều cam đoan sẽ không gây ảnh hưởng tới các thành phố thuộc phe thứ tư. Ước chừng nó đã thắp sáng Thần hỏa, trở thành Bán Thần rồi.
 
 Nhưng chỉ trời mới biết, Ngô Minh căn bản chưa từng gặp qua cái vị gọi là Tổ sư này. Tuy nhiên đã có tấm đại kỳ này thì hắn cũng chẳng phải kẻ sĩ diện hão, lập tức ậm ừ cho qua chuyện, tiếp đó chuẩn bị chờ hai ngày sau đi tiếp nhận lãnh địa, rồi lập tức bắt đầu xây dựng Ma Pháp Tháp.
 

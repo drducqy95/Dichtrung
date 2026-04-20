@@ -73,6 +73,6 @@ Hãm Tiên bốn phía ánh hồng quang.
 Tuyệt Tiên biến hóa vô cùng diệu,
 Đại La Thần Tiên máu nhuộm thường.
 
-Chỉ thấy trên lưng kiếm có một枚 phù văn, không phải bất kỳ loại văn tự nào nhưng người nhìn thấy lập tức biết ý của nó. Thanh kiếm này tên gọi:
+Chỉ thấy trên lưng kiếm có một phù văn, không phải bất kỳ loại văn tự nào nhưng người nhìn thấy lập tức biết ý của nó. Thanh kiếm này tên gọi:
 
 "Tru!"

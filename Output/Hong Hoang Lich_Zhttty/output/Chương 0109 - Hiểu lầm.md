@@ -22,7 +22,7 @@ Cho nên xét về thực lực, Ô Bế là phục khí. Có được một lã
 
 Thứ hai là lãnh địa. Mặc dù chỉ có ba ngàn cây số vuông lãnh địa cốt lõi, nhưng cũng không phải là nhỏ. Tử Vong Kỵ Sĩ hoàn toàn có thể có được một ngôi làng trong đó để sinh sôi nảy nở, không cần phải chịu cảnh khốn đốn ở nơi này, cuộc sống vô cùng khó khăn.
 
-Cuối cùng là tài lực và sự hào phóng. Lúc Ngô Minh đi đã lấy ra một chiếc thẻ ngân hàng thủy tinh, có thể rút hai ngàn linh thạch ở bất kỳ ngân hàng nào của Liên minh Thương mại. Hai ngàn linh thạch nha, khoản tiền này đã là cực kỳ, cực kỳ nhiều rồi. Hơn nữa đây còn chưa phải là tiền thù lao của họ, thù lao được tính riêng, đây chỉ là tiền hắn đưa cho các Tử Vong Kỵ Sĩ để chi tiêu trên đường đi tới thành Kim Hà. Sự hào phóng này简直 (quả thực) là không có biên giới luôn rồi.
+Cuối cùng là tài lực và sự hào phóng. Lúc Ngô Minh đi đã lấy ra một chiếc thẻ ngân hàng thủy tinh, có thể rút hai ngàn linh thạch ở bất kỳ ngân hàng nào của Liên minh Thương mại. Hai ngàn linh thạch nha, khoản tiền này đã là cực kỳ, cực kỳ nhiều rồi. Hơn nữa đây còn chưa phải là tiền thù lao của họ, thù lao được tính riêng, đây chỉ là tiền hắn đưa cho các Tử Vong Kỵ Sĩ để chi tiêu trên đường đi tới thành Kim Hà. Sự hào phóng này (quả thực) là không có biên giới luôn rồi.
 
 Nhưng trong lòng Ô Bế vẫn thấy không vui, thật sự là rất không vui.
 
@@ -58,7 +58,7 @@ Tiếng gào của Chiến Tranh vang vọng khắp hang động. Từ lúc nào
 
 "Đi thôi, chúng ta đi theo Truyền kỳ, cũng sẽ tự tạo nên truyền kỳ của chính mình!!"
 
-Ở một bên khác, Ngô Minh đang ngồi trên máy bay với vẻ mặt đắc ý xán lạn. Vừa nghĩ tới việc sau khi có được Bất Chu Sơn mình sẽ ung dung tự tại như thế nào, làm một kẻ 'trạch' (宅) an tâm tu tiên ra sao, không còn sợ bất kỳ rắc rối nào tìm đến cửa nữa, vừa mân mê một mảnh kim loại màu bạc trắng lấy ra từ phong ấn.
+Ở một bên khác, Ngô Minh đang ngồi trên máy bay với vẻ mặt đắc ý xán lạn. Vừa nghĩ tới việc sau khi có được Bất Chu Sơn mình sẽ ung dung tự tại như thế nào, làm một kẻ 'trạch' an tâm tu tiên ra sao, không còn sợ bất kỳ rắc rối nào tìm đến cửa nữa, vừa mân mê một mảnh kim loại màu bạc trắng lấy ra từ phong ấn.
 
 Mảnh kim loại này chính là thứ lấy ra từ trong phong ấn đó. Bản thân mảnh kim loại không có gì đặc biệt, điểm thực sự kỳ lạ là nó đang không ngừng phát tán ra một lượng lớn năng lượng tiêu cực, cứ như thể nó đang kết nối với Vị diện Năng lượng tiêu cực vậy. Nhưng Ngô Minh không tìm thấy bất kỳ dấu vết ma pháp hay dấu vết phù văn nào trên mảnh kim loại này, nó cứ tự nhiên phát tán năng lượng tiêu cực như vậy, thật khiến người ta kỳ lạ.
 

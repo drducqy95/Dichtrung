@@ -70,7 +70,7 @@ Ngô Minh khẽ hạ mắt nói: "Vật thì thật sự xin lỗi rồi. Mặc 
 
 "Khảm!"
 
-Ngô Minh đứng nguyên tại chỗ không hề nhúc nhích, chỉ thấy một枚 (mảnh) phù văn trên đỉnh đầu hắn chớp sáng rực rỡ. Tiếp đó, tất cả những người có mặt đều cảm thấy cơ thể nặng nề, như thể có cự sơn đè lên người. Ngoại trừ bốn vị thủ lĩnh Tử Vong Kỵ Sĩ, những Tử Vong Kỵ Sĩ khác thậm chí còn không thể cử động nổi.
+Ngô Minh đứng nguyên tại chỗ không hề nhúc nhích, chỉ thấy một (mảnh) phù văn trên đỉnh đầu hắn chớp sáng rực rỡ. Tiếp đó, tất cả những người có mặt đều cảm thấy cơ thể nặng nề, như thể có cự sơn đè lên người. Ngoại trừ bốn vị thủ lĩnh Tử Vong Kỵ Sĩ, những Tử Vong Kỵ Sĩ khác thậm chí còn không thể cử động nổi.
 
 Ngô Minh giơ một bàn tay lên, đối diện với bốn vị Tử Vong Kỵ Sĩ đang biến sắc nói: "Ta định giải khai phong ấn sơ khởi của Đông Hoàng. Ta đoán chắc cả Hồng Hoang này cũng chẳng có mấy kẻ dưới bậc Thánh vị có thể giải được. Chuyện này liên quan đến tính mạng của ta, ta không tin được các vị, các vị cũng không tin được ta. Cho nên, hoặc là cùng ta ký kết một bản khế ước dài hạn, hoặc là ngay tại đây phân rõ sinh tử. Ta mang theo thành ý, cũng mang theo sự thẳng thắn. Ta sẽ không dùng đại nghĩa gì đó để bao biện cho hành động hiện tại của mình, hành vi này rất tiểu nhân, nhưng ta buộc phải làm thế. Chỉ một câu thôi, ta cũng chỉ muốn được sống tiếp mà thôi..."
 

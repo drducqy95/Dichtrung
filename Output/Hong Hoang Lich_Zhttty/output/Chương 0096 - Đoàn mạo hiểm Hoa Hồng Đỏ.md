@@ -38,15 +38,15 @@ Ba người còn lại cũng đều rã rời, ngồi bên cạnh Huyết tộc 
 
 Bốn người ngẩng đầu nhìn lên, thấy một Huyết tộc Địa tinh cao cấp (Greater Gnome), mặc trang phục quản gia hoa quý, đứng bên bàn một cách lễ phép, giống như đây không phải là một quán rượu hỗn loạn, mà là một lâu đài hay trang viên của quý tộc nào đó vậy.
 
-Bốn người đều hơi ngẩn ngơ. Trong mắt Huyết tộc mị ma ban đầu là mờ mịt, sau đó bỗng giật mình kinh hãi, lập tức đứng dậy cung kính nói: "Là Đạt Phấn Đồ (Dafenda) quản sự sao? Tôi là Lị Lị Ti (Lilith) đây ạ, hồi trước trong yến tiệc của chủ nhân, tôi không cẩn thận làm đổ một nồi máu bạch kim, cũng là nhờ quản gia che giấu giúp tôi, nếu không lúc đó tôi đã bị xử tử rồi."
+Bốn người đều hơi ngẩn ngơ. Trong mắt Huyết tộc mị ma ban đầu là mờ mịt, sau đó bỗng giật mình kinh hãi, lập tức đứng dậy cung kính nói: "Là Davindo (Dafenda) quản sự sao? Tôi là Lị Lị Ti (Lilith) đây ạ, hồi trước trong yến tiệc của chủ nhân, tôi không cẩn thận làm đổ một nồi máu bạch kim, cũng là nhờ quản gia che giấu giúp tôi, nếu không lúc đó tôi đã bị xử tử rồi."
 
-Đạt Phấn Đồ mỉm cười nhẹ nhàng, vẫn cung kính như cũ hỏi: "Xin hỏi bốn vị là đoàn mạo hiểm Hoa Hồng Đỏ phải không?"
+Davindo mỉm cười nhẹ nhàng, vẫn cung kính như cũ hỏi: "Xin hỏi bốn vị là đoàn mạo hiểm Hoa Hồng Đỏ phải không?"
 
-Lị Lị Ti lập tức giữ ý tứ kéo vạt váy nói: "Vâng, tôi là đoàn trưởng của đoàn mạo hiểm Hoa Hồng Đỏ, xin hỏi Đạt Phấn Đồ đại nhân có điều gì sai bảo không?"
+Lị Lị Ti lập tức giữ ý tứ kéo vạt váy nói: "Vâng, tôi là đoàn trưởng của đoàn mạo hiểm Hoa Hồng Đỏ, xin hỏi Davindo đại nhân có điều gì sai bảo không?"
 
-Đạt Phấn Đồ liền nói: "Chủ nhân của tôi muốn gặp các bạn một chút, nếu có thể, xin hãy đi theo tôi."
+Davindo liền nói: "Chủ nhân của tôi muốn gặp các bạn một chút, nếu có thể, xin hãy đi theo tôi."
 
-Bốn người đều có chút mơ màng bước lên một chiếc xe hơi kéo dài hoa lệ. Ở ghế sau, ba thành viên còn lại lập tức bắt đầu hỏi Lị Lị Ti xem cái ông Đạt Phấn Đồ này rốt cuộc là lai lịch thế nào.
+Bốn người đều có chút mơ màng bước lên một chiếc xe hơi kéo dài hoa lệ. Ở ghế sau, ba thành viên còn lại lập tức bắt đầu hỏi Lị Lị Ti xem cái ông Davindo này rốt cuộc là lai lịch thế nào.
 
 Lị Lị Ti cười khổ nói: "Dường như là quản gia của một Bá tước hay Hầu tước Huyết tộc nào đó, là một nhân vật lớn đấy. Bản thân ông ấy đã có lãnh địa rồi, lãnh địa rộng chừng bằng ba ngôi làng kia. Tuy không phải chức nghiệp giả, nhưng quyền thế của ông ấy mạnh hơn chúng ta nhiều lắm. Còn chủ nhân của ông ấy... ước chừng chính là vị Bá tước hay Hầu tước đó rồi. Trời ạ, lại có một Bá tước hay Hầu tước muốn gặp chúng ta sao!?"
 
@@ -54,13 +54,13 @@ Lị Lị Ti không hề có ký ức và ý thức của kiếp trước, từ 
 
 Bốn người vừa kinh vừa hỷ vừa sợ, cũng không biết số phận chờ đợi họ tiếp theo sẽ là gì. Không lâu sau, xe dừng lại, trước mặt họ là một biệt thự lớn. Hơn nữa đây không phải biệt thự ngoại ô, mà là biệt thự ngay trong thành Kim Hà. Nhìn theo khu phố thì đây thuộc về khu vực cực kỳ đắt đỏ, chỉ riêng bộ biệt thự này ước chừng cũng phải tốn từ một nghìn rưỡi đến hai nghìn linh thạch rồi.
 
-Bốn người đều vô cùng lúng túng, dưới sự dẫn dắt của Đạt Phấn Đồ bước vào trong biệt thự. Vừa vào đã thấy hai nữ hầu Huyết tộc cực kỳ xinh đẹp đang làm vệ sinh, bốn người cũng chẳng dám nhìn nhiều, đi theo Đạt Phấn Đồ vào thư phòng trên tầng hai. Vừa bước vào, bốn người lập tức cảm thấy toàn thân cứng đờ, một luồng bình chướng kỳ lạ khiến năng lượng trong cơ thể mỗi người họ giảm xuống ít nhất một bậc.
+Bốn người đều vô cùng lúng túng, dưới sự dẫn dắt của Davindo bước vào trong biệt thự. Vừa vào đã thấy hai nữ hầu Huyết tộc cực kỳ xinh đẹp đang làm vệ sinh, bốn người cũng chẳng dám nhìn nhiều, đi theo Davindo vào thư phòng trên tầng hai. Vừa bước vào, bốn người lập tức cảm thấy toàn thân cứng đờ, một luồng bình chướng kỳ lạ khiến năng lượng trong cơ thể mỗi người họ giảm xuống ít nhất một bậc.
 
 Bốn người đều kinh hãi thất sắc, nhưng lại không phát hiện ra bất kỳ cuộc tấn công nào. Họ thấy ở chính giữa thư phòng có một nhân loại đang ngồi, không, là một u hồn, u hồn dạng nhân loại.
 
 "Các bạn chính là đoàn mạo hiểm Hoa Hồng Đỏ sao?" U hồn nhân loại này trông không hề có vẻ quý tộc nào, tư thế ngồi cũng vẹo vẹo vọ vọ, dáng vẻ thế nào thoải mái thì ngồi thế nấy.
 
-Lị Lị Ti tuy nghi hoặc tại sao chủ nhân của Đạt Phấn Đồ không phải là quý tộc cao cấp Huyết tộc, nhưng cô vẫn lập tức nắm lấy hai bên vạt váy, cúi người cung kính nói: "Vâng, đại nhân, chúng tôi chính là bốn thành viên của đoàn mạo hiểm Hoa Hồng Đỏ."
+Lị Lị Ti tuy nghi hoặc tại sao chủ nhân của Davindo không phải là quý tộc cao cấp Huyết tộc, nhưng cô vẫn lập tức nắm lấy hai bên vạt váy, cúi người cung kính nói: "Vâng, đại nhân, chúng tôi chính là bốn thành viên của đoàn mạo hiểm Hoa Hồng Đỏ."
 
 U hồn nhân loại gật đầu, anh ta nói: "Nghe nói trong thời gian các bạn tiếp nhận nhiệm vụ của thương hội hoặc tòa thị chính, vẫn thích đi lang thang khắp nơi ngoài hoang dã để tìm kiếm các loại khoáng vật hoặc kỳ vật, do đó mà thường xuyên dẫn đến việc nhiệm vụ quá hạn, đúng không?"
 

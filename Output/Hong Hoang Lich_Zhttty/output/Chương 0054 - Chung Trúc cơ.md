@@ -1,6 +1,6 @@
 # Chương 0054 - Chung Trúc cơ
 
-Ngô Minh cũng nhìn thấy sự bất đồng và mâu thuẫn giữa ba người. Thành thật mà nói, hắn cũng tán thành với Lạc Ti và Vương Vũ. Đây là điều mà một đội ngũ trưởng thành, hay nói cách khác là những sinh mệnh trưởng thành nên cân nhắc: sinh tồn là yếu tố tiên quyết, vượt lên trên tất cả. Có lẽ có người chấp nhận đối mặt với cái chết, hy sinh bản thân vì đại nghĩa, vì lý tưởng, nhưng đó không phải là trạng thái bình thường.
+Ngô Minh cũng nhìn thấy sự bất đồng và mâu thuẫn giữa ba người. Thành thật mà nói, hắn cũng tán thành với Ruth và Vương Vũ. Đây là điều mà một đội ngũ trưởng thành, hay nói cách khác là những sinh mệnh trưởng thành nên cân nhắc: sinh tồn là yếu tố tiên quyết, vượt lên trên tất cả. Có lẽ có người chấp nhận đối mặt với cái chết, hy sinh bản thân vì đại nghĩa, vì lý tưởng, nhưng đó không phải là trạng thái bình thường.
 
 Nhưng đồng dạng, hắn cũng thấu hiểu tâm thái của Tiết Ngọc, chỉ là chưa đủ chín chắn, nhưng có thể thông cảm được, bởi không phải ai cũng có thể luôn luôn lý trí.
 

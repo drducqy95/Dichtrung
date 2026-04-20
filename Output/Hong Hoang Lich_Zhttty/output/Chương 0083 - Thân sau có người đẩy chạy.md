@@ -24,7 +24,7 @@ Ngô Minh cảm thấy cả người không ổn chút nào. Vừa mới thoát 
 
 "Ờ..." Ngô Minh bắt đầu tưởng tượng xem trong lúc mình vắng mặt, Amor rốt cuộc đã làm gì trong Ma Pháp Tháp này, đến mức một Tháp Linh không có thực thể, có thể tùy ý quan sát và khống chế mọi thứ trong tháp mà cũng bị cậu nhóc xác nhận được thân phận. Cái này gọi là gì đây?
 
-"Được rồi mà, chị Lorikk (Lạc Mỹ Khắc), yên tâm đi, khi các chị muốn hoàn thành tâm nguyện lớn lao của mình, em sẽ giúp các chị nhé. Có thêm em, cơ hội thành công của các chị sẽ cao lắm đấy." Amor cười hì hì nói.
+"Được rồi mà, chị Lorikk (Lomek), yên tâm đi, khi các chị muốn hoàn thành tâm nguyện lớn lao của mình, em sẽ giúp các chị nhé. Có thêm em, cơ hội thành công của các chị sẽ cao lắm đấy." Amor cười hì hì nói.
 
 "...Được rồi, muốn làm gì?" Tháp Linh có chút bất lực hỏi.
 

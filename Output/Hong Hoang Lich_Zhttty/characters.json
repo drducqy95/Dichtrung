@@ -17,7 +17,7 @@
         {
             "id": "char_002",
             "name_source": "洛丝",
-            "name_target": "Los",
+            "name_target": "Ruth",
             "gender": "female",
             "role": "major",
             "description": "Một Ác ma Thâm Uyên được Ngô Minh cứu và ký khế ước. Sau tiến hóa thành Luyện Ngục Nữ Yêu.",
@@ -29,7 +29,7 @@
             "name_target": "Elfa",
             "gender": "male",
             "role": "supporting",
-            "description": "Học đồ pháp sư Bán Tinh Linh, thành viên đầu tiên được Ngô Minh triệu hoán vào Chủ Thần không gian.",
+            "description": "Học đồ pháp sư Bán Tinh Linh, thành viên đầu tiên được Ngô Minh triệu hoán.",
             "status": "active"
         },
         {
@@ -90,7 +90,7 @@
         {
             "id": "char_021",
             "name_source": "洛美克",
-            "name_target": "Lomek (Lạc Mỹ Khắc)",
+            "name_target": "Lomek",
             "gender": "female",
             "role": "minor",
             "identity": "Tháp linh (Tower Spirit)",
@@ -172,7 +172,7 @@
         {
             "id": "char_018",
             "name_source": "达芬铎",
-            "name_target": "Đạt Phấn Đồ",
+            "name_target": "Davindo",
             "gender": "male",
             "role": "supporting",
             "identity": "Hậu Địa Tinh Huyết tộc (High Goblin Blood)",
@@ -182,7 +182,7 @@
         {
             "id": "char_019",
             "name_source": "阿芙蕾",
-            "name_target": "A Phù Lôi",
+            "name_target": "Afrey",
             "gender": "female",
             "role": "supporting",
             "identity": "Thụ tinh Huyết tộc (Dryad Blood)",
@@ -248,6 +248,63 @@
             "identity": "Thủ lĩnh Tử Vong Kỵ Sĩ (Thiên Khải)",
             "description": "Nữ bất tử, một trong Thiên Khải Tứ Kỵ Sĩ. Cầm lưỡi liềm.",
             "status": "active"
+        },
+        {
+            "id": "char_027",
+            "name_source": "王羽",
+            "name_target": "Vương Vũ",
+            "gender": "male",
+            "role": "supporting",
+            "description": "Thành viên tiểu đội Luân hồi, là người sống sót sau thảm họa thế giới ảo.",
+            "status": "active"
+        },
+        {
+            "id": "char_028",
+            "name_source": "爱德华·诺尔",
+            "name_target": "Edward Noel",
+            "gender": "male",
+            "role": "historical",
+            "description": "Nhà khoa học lượng tử lỗi lạc của thế giới 'Thất Lạc', người để lại di ngôn cầu cứu.",
+            "status": "deceased"
+        },
+        {
+            "id": "char_029",
+            "name_source": "路西法",
+            "name_target": "Lucifer",
+            "gender": "female",
+            "role": "supporting",
+            "identity": "Quang Kỵ Sĩ (Light Knight)",
+            "description": "Cường giả bậc bốn (Cơ giới sư) của Cao Đẳng Địa Tinh. Bị Ngô Minh đánh bại và ký linh hồn khế ước, hiện làm nữ hầu.",
+            "status": "active"
+        },
+        {
+            "id": "char_030",
+            "name_source": "阿罗斯特",
+            "name_target": "Alost",
+            "gender": "male",
+            "role": "antagonist",
+            "identity": "Cường giả bậc bốn (Đấu sĩ)",
+            "description": "Cường giả bậc bốn của Cao Đẳng Địa Tinh, sở hữu huyết mạch Trùng thú viễn cổ. Bị Ngô Minh giết chết.",
+            "status": "deceased"
+        },
+        {
+            "id": "char_031",
+            "name_source": "子牙",
+            "name_target": "Tử Nha (Ziya)",
+            "gender": "male",
+            "role": "major",
+            "description": "Trí giả đỉnh cấp của Huyết tộc, ban đầu là đối thủ, sau trở thành quân sư tối cao của Ngô Minh. Thiên tài về chiến lược và chính trị.",
+            "status": "active"
+        },
+        {
+            "id": "char_032",
+            "name_source": "莱因哈特",
+            "name_target": "Reinhardt",
+            "gender": "male",
+            "role": "antagonist",
+            "identity": "Thành viên Ác Ma tiểu đội",
+            "description": "Người sói mạnh mẽ của Ác Ma tiểu đội, bị Ngô Minh giết chết trong Thế giới Luân hồi.",
+            "status": "deceased"
         }
     ],
     "relationships": []

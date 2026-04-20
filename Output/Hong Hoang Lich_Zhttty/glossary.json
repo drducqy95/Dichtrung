@@ -3,9 +3,289 @@
         "source_language": "zh",
         "target_language": "vi",
         "genre": "eastern_fiction",
-        "last_updated": "2026-04-20T10:35:00Z"
+        "last_updated": "2026-04-20T11:45:00Z"
     },
     "entries": [
+        {
+            "source": "恶魔小队",
+            "target": "Ác Ma tiểu đội",
+            "category": "organization",
+            "source_language": "zh",
+            "target_language": "vi",
+            "note": "Devil Team"
+        },
+        {
+            "source": "洪荒天庭",
+            "target": "Hồng Hoang Thiên Đình",
+            "category": "organization",
+            "source_language": "zh",
+            "target_language": "vi",
+            "note": "Great Desolate Heavenly Court"
+        },
+        {
+            "source": "商业联盟",
+            "target": "Liên Minh Thương Nghiệp",
+            "category": "organization",
+            "source_language": "zh",
+            "target_language": "vi",
+            "note": "Commercial Alliance"
+        },
+        {
+            "source": "心灵之光",
+            "target": "Tâm Linh Chi Quang",
+            "category": "cultivation",
+            "source_language": "zh",
+            "target_language": "vi",
+            "note": "Soul Light / Light of the Soul"
+        },
+        {
+            "source": "福地",
+            "target": "Phúc Địa",
+            "category": "location",
+            "source_language": "zh",
+            "target_language": "vi",
+            "note": "Blessed Land"
+        },
+        {
+            "source": "无底深渊",
+            "target": "Vô Đáy Thâm Uyên",
+            "category": "location",
+            "source_language": "zh",
+            "target_language": "vi",
+            "note": "Bottomless Abyss"
+        },
+        {
+            "source": "九层地狱",
+            "target": "Chín Tầng Địa Ngục",
+            "category": "location",
+            "source_language": "zh",
+            "target_language": "vi",
+            "note": "Nine Hells"
+        },
+        {
+            "source": "红玫瑰冒险团",
+            "target": "Đội mạo hiểm Hoa Hồng Đỏ",
+            "category": "organization",
+            "source_language": "zh",
+            "target_language": "vi",
+            "note": "Red Rose Adventure Team"
+        },
+        {
+            "source": "先天灵宝",
+            "target": "Tiên Thiên Linh Bảo",
+            "category": "item",
+            "source_language": "zh",
+            "target_language": "vi",
+            "note": "Xiantian Spirit Treasure"
+        },
+        {
+            "source": "元婴",
+            "target": "Nguyên Anh",
+            "category": "cultivation",
+            "source_language": "zh",
+            "target_language": "vi",
+            "note": "Nascent Soul"
+        },
+        {
+            "source": "魔法塔",
+            "target": "Ma Pháp Tháp",
+            "category": "location",
+            "source_language": "zh",
+            "target_language": "vi",
+            "note": "Magic Tower"
+        },
+        {
+            "source": "黑客帝国",
+            "target": "Ma Trận",
+            "category": "worldbuilding",
+            "source_language": "zh",
+            "target_language": "vi",
+            "note": "The Matrix"
+        },
+        {
+            "source": "西兰",
+            "target": "Tây Lan",
+            "category": "location",
+            "source_language": "zh",
+            "target_language": "vi",
+            "note": "Zion"
+        },
+        {
+            "source": "大伊万",
+            "target": "Đại Y Vạn",
+            "category": "weapon",
+            "source_language": "zh",
+            "target_language": "vi",
+            "note": "Tsar Bomba"
+        },
+        {
+            "source": "东风",
+            "target": "Đông Phong",
+            "category": "weapon",
+            "source_language": "zh",
+            "target_language": "vi",
+            "note": "Dongfeng missiles"
+        },
+        {
+            "source": "六十四进制",
+            "target": "Hệ cơ số 64",
+            "category": "science_fantasy",
+            "source_language": "zh",
+            "target_language": "vi",
+            "note": "Base-64 system"
+        },
+        {
+            "source": "京观",
+            "target": "Kinh quán",
+            "category": "lore",
+            "source_language": "zh",
+            "target_language": "vi",
+            "note": "Head pyramid"
+        },
+        {
+            "source": "空门",
+            "target": "Không Môn",
+            "category": "location",
+            "source_language": "zh",
+            "target_language": "vi",
+            "note": "Void Door / Space Gate"
+        },
+        {
+            "source": "中洲队",
+            "target": "Trung Châu đội",
+            "category": "organization",
+            "source_language": "zh",
+            "target_language": "vi",
+            "note": "Zhongzhou Team"
+        },
+        {
+            "source": "赵缀空",
+            "target": "Triệu Thuế Không",
+            "category": "character",
+            "source_language": "zh",
+            "target_language": "vi",
+            "note": "Zhao Zhuikong"
+        },
+        {
+            "source": "郑吒",
+            "target": "Trịnh Xá",
+            "category": "character",
+            "source_language": "zh",
+            "target_language": "vi",
+            "note": "Zheng Zha"
+        },
+        {
+            "source": "罗莉",
+            "target": "La Lỵ",
+            "category": "character",
+            "source_language": "zh",
+            "target_language": "vi",
+            "note": "Lori"
+        },
+        {
+            "source": "养殖者小队",
+            "target": "Dưỡng thực giả tiểu đội",
+            "category": "organization",
+            "source_language": "zh",
+            "target_language": "vi",
+            "note": "Breeding Team"
+        },
+        {
+            "source": "人狼",
+            "target": "Nhân lang",
+            "category": "creature",
+            "source_language": "zh",
+            "target_language": "vi",
+            "note": "Werewolf"
+        },
+        {
+            "source": "千钧艮",
+            "target": "Thiên Quân Cấn",
+            "category": "technique",
+            "source_language": "zh",
+            "target_language": "vi",
+            "note": "Thousand-Jun Cấn"
+        },
+        {
+            "source": "螺旋离",
+            "target": "Loa Toàn Ly",
+            "category": "technique",
+            "source_language": "zh",
+            "target_language": "vi",
+            "note": "Spiral Ly"
+        },
+        {
+            "source": "九昧炎",
+            "target": "Cửu Muội Viêm",
+            "category": "technique",
+            "source_language": "zh",
+            "target_language": "vi",
+            "note": "Nine-Mai Flame"
+        },
+        {
+            "source": "狄拉克海",
+            "target": "Điroc hải",
+            "category": "science_fantasy",
+            "source_language": "zh",
+            "target_language": "vi",
+            "note": "Dirac Sea"
+        },
+        {
+            "source": "假心灵之光",
+            "target": "Giả Tâm Linh Chi Quang",
+            "category": "cultivation",
+            "source_language": "zh",
+            "target_language": "vi",
+            "note": "Fake Soul Light"
+        },
+        {
+            "source": "曲率",
+            "target": "Khúc suất",
+            "category": "science_fantasy",
+            "source_language": "zh",
+            "target_language": "vi",
+            "note": "Curvature"
+        },
+        {
+            "source": "魔导科技",
+            "target": "Ma Đạo Khoa Kỹ",
+            "category": "science_fantasy",
+            "source_language": "zh",
+            "target_language": "vi",
+            "note": "Magi-tech"
+        },
+        {
+            "source": "剑气雷音",
+            "target": "Kiếm Khí Lôi Âm",
+            "category": "cultivation",
+            "source_language": "zh",
+            "target_language": "vi",
+            "note": "Sword Qi Lightning Sound"
+        },
+        {
+            "source": "阁下",
+            "target": "Gác hạ",
+            "category": "honorific",
+            "source_language": "zh",
+            "target_language": "vi",
+            "note": "Excellency (for Tier 4)"
+        },
+        {
+            "source": "闪华七骑士",
+            "target": "Thiểm Hoa Thất Kỵ Sĩ",
+            "category": "organization",
+            "source_language": "zh",
+            "target_language": "vi",
+            "note": "Seven Luminous Knights"
+        },
+        {
+            "source": "传奇战役",
+            "target": "Truyền kỳ chiến dịch",
+            "category": "event",
+            "source_language": "zh",
+            "target_language": "vi",
+            "note": "Legendary Battle"
+        },
         {
             "source": "万族",
             "target": "Vạn tộc",
@@ -541,7 +821,7 @@
         },
         {
             "source": "阿莫尔",
-            "target": "A Mo Nhĩ",
+            "target": "Amor",
             "type": "character",
             "note": "Amor - Reincarnation Team Strategist"
         },
@@ -901,13 +1181,13 @@
         },
         {
             "zh": "达芬铎",
-            "vi": "Đạt Phấn Đồ",
+            "vi": "Davindo",
             "en": "Dafenda",
             "desc": "Ngô Minh's Butler"
         },
         {
             "zh": "阿芙蕾",
-            "vi": "A Phù Lôi",
+            "vi": "Afrey",
             "en": "Afulei",
             "desc": "Dryad Maid"
         },
@@ -1202,6 +1482,121 @@
             "zh": "子牙",
             "vi": "Tử Nha",
             "desc": "Zi-Ya, Ngô Minh's brilliant strategist."
+        },
+        {
+            "zh": "打算",
+            "vi": "Dự định",
+            "desc": "Intention/Plan."
+        },
+        {
+            "zh": "咸鱼",
+            "vi": "Cá mặn",
+            "desc": "Lazy person, 'Salted fish'."
+        },
+        {
+            "zh": "附魔术",
+            "vi": "Thuật phụ ma",
+            "desc": "Enchanting."
+        },
+        {
+            "zh": "锋锐术",
+            "vi": "Thuật Sắc Bén",
+            "desc": "Sharpness spell."
+        },
+        {
+            "zh": "幽冥骑士",
+            "vi": "U Minh Kỵ Sĩ",
+            "desc": "Nether Knight."
+        },
+        {
+            "zh": "戴森球",
+            "vi": "Quả cầu Dyson",
+            "desc": "Dyson Sphere."
+        },
+        {
+            "zh": "模因",
+            "vi": "Mô nhân",
+            "desc": "Meme (anomalous concept/pattern)."
+        },
+        {
+            "zh": "失落",
+            "vi": "Thất lạc",
+            "desc": "Lost (trial world name)."
+        },
+        {
+            "zh": "电磁炮",
+            "vi": "Pháo điện từ",
+            "desc": "Railgun."
+        },
+        {
+            "zh": "玄黄一号",
+            "vi": "Huyền Hoàng No. 1",
+            "desc": "Dao Yun Intellect (Trí não Đạo vận) managing the Blessed Land."
+        },
+        {
+            "zh": "灵魂烙印",
+            "vi": "Linh hồn lạc ấn",
+            "desc": "Soul Brand / Soul Impression."
+        },
+        {
+            "zh": "化血神刀",
+            "vi": "Hóa Huyết Thần Đao",
+            "desc": "Blood-Refining God Blade (Ngô Minh's signature weapon)."
+        },
+        {
+            "zh": "缩爆弹",
+            "vi": "Súc Bạo Đạn",
+            "desc": "Implosion Bomb (Tactical/Strategic nuke used by High Gnomes)."
+        },
+        {
+            "zh": "掠夺者联盟",
+            "vi": "Lược Đoạt Giả Liên Minh",
+            "desc": "Raider Alliance (Orc/Centaur faction)."
+        },
+        {
+            "zh": "阿比菲斯二世",
+            "vi": "Abiphys II",
+            "desc": "High Gnome Prime Minister."
+        },
+        {
+            "zh": "道韵反应堆",
+            "vi": "Đạo Vận Phản Ứng Đôi",
+            "desc": "Dao Yun Reactor (Lò phản ứng Đạo vận)."
+        },
+        {
+            "zh": "基础身体属性",
+            "vi": "Cơ bản thuộc tính",
+            "desc": "Base Attributes."
+        },
+        {
+            "zh": "后天身体属性",
+            "vi": "Hậu thiên thuộc tính",
+            "desc": "Post-natal Attributes."
+        },
+        {
+            "zh": "心灵之光",
+            "vi": "Tâm Linh Chi Quang",
+            "desc": "Soul Light / Light of the Soul (4th level Genetic Lock feature)."
+        },
+        {
+            "zh": "道域",
+            "vi": "Đạo Vực",
+            "desc": "Dao Domain (Orthodox Cultivator's ability)."
+        },
+        {
+            "zh": "九幽泉水",
+            "vi": "Cửu U Tuyền Thủy",
+            "desc": "Nine Nether Spring Water (Refining material)."
+        },
+        {
+            "zh": "幽冥血海凝缩液",
+            "vi": "U Minh Huyết Hải Ngưng Súc Dịch",
+            "desc": "Nether Blood Sea Concentrated Liquid (Refining material)."
+        },
+        {
+            "zh": "幽冥体",
+            "vi": "U Minh Thể",
+            "desc": "Nether Body (Refining material)."
         }
     ]
 }

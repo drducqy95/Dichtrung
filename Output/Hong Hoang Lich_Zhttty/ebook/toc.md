@@ -110,3 +110,43 @@
 - Chương 0108: Mục tiêu
 - Chương 0109: Hiểu lầm
 - Chương 0110: Kinh hỉ (Kinh hãi)
+- Chương 0111: Dự định
+- Chương 0112: Kế hoạch quân sự
+- Chương 0113: Cảm quan
+- Chương 0114: Yếu phát khiếp
+- Chương 0115: Tiến vào quy đổi
+- Chương 0116: Thất Lạc
+- Chương 0117: Thông tin
+- Chương 0118: Phòng thí nghiệm dưới đất
+- Chương 0119: Cái chết thất lạc sau đó
+- Chương 0120: Chiến trường
+- Chương 0121: Quân Đội Dọc Ngang
+- Chương 0122: Chiến Trường Tiếp Theo
+- Chương 0123: Ngôi Sao Mới Trỗi Dậy và Thu Hoạch Lớn
+- Chương 0124: Phúc Địa và Triệu Hoán
+- Chương 0125: Trở Về
+- Chương 0126: Phúc Địa Khai Kiến và Cái Đầu Cuối Cùng
+- Chương 0127: Hóa Huyết Tại Thủ
+- Chương 0128: Một Ngày Hòa Bình
+- Chương 0129: Bất Phong Ma Bất Thành Hoạt
+- Chương 0130: Phong Ma Tiếp Tục và Ngộ Nhận Tiếp Tục
+- Chương 0131: Khởi Đầu
+- Chương 0132: Màn Sau
+- Chương 0133: Song Trí Tái Giao Phong
+- Chương 0134: Đạo Vực
+- Chương 0135: Ta Xuất Chiêu, Ngươi Đáp Lại
+- Chương 0136: Đao Đến!
+- Chương 0137: Hóa Huyết Thần Uy
+- Chương 0138: Sau Trận Chiến
+- Chương 0139: Uy Hiếp
+- Chương 0140: Nhận Thức
+- Chương 0141: Điểm Thưởng, Ước Định và Tam Đại Tai
+- Chương 0142: Ẩn Bí
+- Chương 0143: Quy Hoạch Kiến Thiết
+- Chương 0144: Cự Thần Binh và Ước Định
+- Chương 0145: Đếm Ngược Thế Giới Luân Hồi
+- Chương 0146: Tiến Vào Thế Giới Luân Hồi
+- Chương 0147: Lừa Dối và Chiến Đấu
+- Chương 0148: Khởi Đầu Tử Chiến
+- Chương 0149: Mạnh Mẽ và Tử Chiến
+- Chương 0150: Điên Cuồng và Tử Vong
