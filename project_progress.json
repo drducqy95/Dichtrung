@@ -39,10 +39,10 @@
       "source_split": "Source/Source split/Hong Hoang Lich_Zhttty/",
       "output_dir": "Output/Hong Hoang Lich_Zhttty/",
       "total_chapters": 1836,
-      "completed_chapters": 90,
-      "last_processed_chapter": 90,
+      "completed_chapters": 200,
+      "last_processed_chapter": 200,
       "ebook_built": false,
-      "last_updated": "2026-04-20T09:15:00+07:00"
+      "last_updated": "2026-05-05T00:18:00+07:00"
     },
     {
       "id": "M4",
@@ -129,10 +129,10 @@
       "last_updated": "2026-04-17T10:45:00+07:00"
     }
   ],
-  "last_updated": "2026-04-20T15:13:08.369710",
+  "last_updated": "2026-05-05T05:19:31.791374",
   "meta": {
-    "last_updated": "2026-04-20T15:13:08.369693",
-    "current_phase": "EXECUTION",
+    "last_updated": "2026-05-05T05:19:31.791346",
+    "current_phase": "FINISHED",
     "tracked_projects": 7
   }
 }

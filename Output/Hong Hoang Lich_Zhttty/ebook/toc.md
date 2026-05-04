@@ -150,3 +150,53 @@
 - Chương 0148: Khởi Đầu Tử Chiến
 - Chương 0149: Mạnh Mẽ và Tử Chiến
 - Chương 0150: Điên Cuồng và Tử Vong
+- Chương 0151: Vẫn còn chiến được
+- Chương 0152: Người tốt
+- Chương 0153: Hội tụ tất cả các khả năng và hai tháng
+- Chương 0154: Lãnh địa phồn vinh và cùng nhau chơi xong đi
+- Chương 0155: Chuyện vặt vãnh ở lãnh địa và bắt đầu bố cục
+- Chương 0156: Kiến chế
+- Chương 0157: Siêu phàm dụ hoặc
+- Chương 0158: Ẩn bí tồn tại và yếu điểm bố cục
+- Chương 0159: Thiết kế
+- Chương 0161: Che chở
+- Chương 0162: Bóng tối
+- Chương 0163: Địa hạ
+- Chương 0164: Rõ ràng mạch lạc
+- Chương 0165: Nghi hoặc và nhập cục
+- Chương 0166: Cạm bẫy? Mồi nhử?
+- Chương 0167: Ai là ngư ông?
+- Chương 0168: Cái lòng chính nghĩa chết tiệt này
+- Chương 0169: Cứu thế chủ đang hành động
+- Chương 0170: Kết thúc tất cả những thứ này
+- Chương 0171: Thu hoạch
+- Chương 0172: Tôi là nhân loại
+- Chương 0173: Chuyến tàu về bến
+- Chương 0174: Chính bộ tẩu!
+- Chương 0175: Đại diện tộc Địa Tinh
+- Chương 0176: Tôi là nhân loại (tiếp)
+- Chương 0177: Chuyến hành trình của tôi là Liên Minh Thương Mại
+- Chương 0178: Anh hào tụ hội
+- Chương 0179: Sự khởi đầu của một thời đại mới
+- Chương 0180: Cứu thế chủ (Phiên bản Trung Nhị)
+- Chương 0181: Ngô Minh: Tôi muốn làm hoàng đế
+- Chương 0182: Người chơi giáng lâm
+- Chương 0183: Ngô Minh là một người tốt
+- Chương 0184: Nhóm người chơi đầu tiên
+- Chương 0185: Thực tế ảo phiên bản ma pháp
+- Chương 0186: Đây mới là người chơi
+- Chương 0187: Lãnh địa đầu tiên của Ngô Minh
+- Chương 0188: Ai tán thành, ai phản đối?
+- Chương 0189: Vở kịch ba hồi
+- Chương 0190: Tôi là Đại Lãnh Chúa
+- Chương 0191: Tuyệt chiêu
+- Chương 0192: Người chơi! Giáng lâm!
+- Chương 0193: Bom hạt nhân? Ngô Minh!
+- Chương 0194: Đệ Tứ Thiên Tai, giáng lâm
+- Chương 0195: Dị tộc và "Cước Nam"
+- Chương 0196: Tính người của Ngô Minh
+- Chương 0197: Nhật ký của người chơi
+- Chương 0198: Ai bảo tôi chưa từng chết?
+- Chương 0199: Dự tính của Ngô Minh
+- Chương 0200: Sự nhắm vào của các Thánh vị
+- output/Chương 0160 - Ẩn bí tồn tại

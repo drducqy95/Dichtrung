@@ -1,6 +1,6 @@
 {
   "branch": "Hong Hoang Lich_Zhttty",
-  "generated_at": "2026-04-20T15:13:16+07:00",
+  "generated_at": "2026-05-05T05:19:41+07:00",
   "chapters": [
     {
       "chapter_number": 1,
@@ -1201,6 +1201,406 @@
       "display_output_filename": "Chương 0150: Điên Cuồng và Tử Vong.md",
       "filesystem_output_filename": "Chương 0150 - Điên Cuồng và Tử Vong.md",
       "has_content": true
+    },
+    {
+      "chapter_number": 151,
+      "chapter_title": "Vẫn còn chiến được",
+      "source_output_file": "output/Chương 0151 - Vẫn còn chiến được.md",
+      "display_output_filename": "Chương 0151: Vẫn còn chiến được.md",
+      "filesystem_output_filename": "Chương 0151 - Vẫn còn chiến được.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 152,
+      "chapter_title": "Người tốt",
+      "source_output_file": "output/Chương 0152 - Người tốt.md",
+      "display_output_filename": "Chương 0152: Người tốt.md",
+      "filesystem_output_filename": "Chương 0152 - Người tốt.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 153,
+      "chapter_title": "Hội tụ tất cả các khả năng và hai tháng",
+      "source_output_file": "output/Chương 0153 - Hội tụ tất cả các khả năng và hai tháng.md",
+      "display_output_filename": "Chương 0153: Hội tụ tất cả các khả năng và hai tháng.md",
+      "filesystem_output_filename": "Chương 0153 - Hội tụ tất cả các khả năng và hai tháng.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 154,
+      "chapter_title": "Lãnh địa phồn vinh và cùng nhau chơi xong đi",
+      "source_output_file": "output/Chương 0154 - Lãnh địa phồn vinh và cùng nhau chơi xong đi.md",
+      "display_output_filename": "Chương 0154: Lãnh địa phồn vinh và cùng nhau chơi xong đi.md",
+      "filesystem_output_filename": "Chương 0154 - Lãnh địa phồn vinh và cùng nhau chơi xong đi.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 155,
+      "chapter_title": "Chuyện vặt vãnh ở lãnh địa và bắt đầu bố cục",
+      "source_output_file": "output/Chương 0155 - Chuyện vặt vãnh ở lãnh địa và bắt đầu bố cục.md",
+      "display_output_filename": "Chương 0155: Chuyện vặt vãnh ở lãnh địa và bắt đầu bố cục.md",
+      "filesystem_output_filename": "Chương 0155 - Chuyện vặt vãnh ở lãnh địa và bắt đầu bố cục.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 156,
+      "chapter_title": "Kiến chế",
+      "source_output_file": "output/Chương 0156 - Kiến chế.md",
+      "display_output_filename": "Chương 0156: Kiến chế.md",
+      "filesystem_output_filename": "Chương 0156 - Kiến chế.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 157,
+      "chapter_title": "Siêu phàm dụ hoặc",
+      "source_output_file": "output/Chương 0157 - Siêu phàm dụ hoặc.md",
+      "display_output_filename": "Chương 0157: Siêu phàm dụ hoặc.md",
+      "filesystem_output_filename": "Chương 0157 - Siêu phàm dụ hoặc.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 158,
+      "chapter_title": "Ẩn bí tồn tại và yếu điểm bố cục",
+      "source_output_file": "output/Chương 0158 - Ẩn bí tồn tại và yếu điểm bố cục.md",
+      "display_output_filename": "Chương 0158: Ẩn bí tồn tại và yếu điểm bố cục.md",
+      "filesystem_output_filename": "Chương 0158 - Ẩn bí tồn tại và yếu điểm bố cục.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 159,
+      "chapter_title": "Thiết kế",
+      "source_output_file": "output/Chương 0159 - Thiết kế.md",
+      "display_output_filename": "Chương 0159: Thiết kế.md",
+      "filesystem_output_filename": "Chương 0159 - Thiết kế.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 161,
+      "chapter_title": "Che chở",
+      "source_output_file": "output/Chương 0161 - Che chở.md",
+      "display_output_filename": "Chương 0161: Che chở.md",
+      "filesystem_output_filename": "Chương 0161 - Che chở.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 162,
+      "chapter_title": "Bóng tối",
+      "source_output_file": "output/Chương 0162 - Bóng tối.md",
+      "display_output_filename": "Chương 0162: Bóng tối.md",
+      "filesystem_output_filename": "Chương 0162 - Bóng tối.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 163,
+      "chapter_title": "Địa hạ",
+      "source_output_file": "output/Chương 0163 - Địa hạ.md",
+      "display_output_filename": "Chương 0163: Địa hạ.md",
+      "filesystem_output_filename": "Chương 0163 - Địa hạ.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 164,
+      "chapter_title": "Rõ ràng mạch lạc",
+      "source_output_file": "output/Chương 0164 - Rõ ràng mạch lạc.md",
+      "display_output_filename": "Chương 0164: Rõ ràng mạch lạc.md",
+      "filesystem_output_filename": "Chương 0164 - Rõ ràng mạch lạc.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 165,
+      "chapter_title": "Nghi hoặc và nhập cục",
+      "source_output_file": "output/Chương 0165 - Nghi hoặc và nhập cục.md",
+      "display_output_filename": "Chương 0165: Nghi hoặc và nhập cục.md",
+      "filesystem_output_filename": "Chương 0165 - Nghi hoặc và nhập cục.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 166,
+      "chapter_title": "Cạm bẫy? Mồi nhử?",
+      "source_output_file": "output/Chương 0166 - Cạm bẫy - Mồi nhử.md",
+      "display_output_filename": "Chương 0166: Cạm bẫy? Mồi nhử?.md",
+      "filesystem_output_filename": "Chương 0166 - Cạm bẫy Mồi nhử.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 167,
+      "chapter_title": "Ai là ngư ông?",
+      "source_output_file": "output/Chương 0167 - Ai là ngư ông.md",
+      "display_output_filename": "Chương 0167: Ai là ngư ông?.md",
+      "filesystem_output_filename": "Chương 0167 - Ai là ngư ông.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 168,
+      "chapter_title": "Cái lòng chính nghĩa chết tiệt này",
+      "source_output_file": "output/Chương 0168 - Cái lòng chính nghĩa chết tiệt này.md",
+      "display_output_filename": "Chương 0168: Cái lòng chính nghĩa chết tiệt này.md",
+      "filesystem_output_filename": "Chương 0168 - Cái lòng chính nghĩa chết tiệt này.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 169,
+      "chapter_title": "Cứu thế chủ đang hành động",
+      "source_output_file": "output/Chương 0169 - Cứu thế chủ đang hành động.md",
+      "display_output_filename": "Chương 0169: Cứu thế chủ đang hành động.md",
+      "filesystem_output_filename": "Chương 0169 - Cứu thế chủ đang hành động.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 170,
+      "chapter_title": "Kết thúc tất cả những thứ này",
+      "source_output_file": "output/Chương 0170 - Kết thúc tất cả những thứ này.md",
+      "display_output_filename": "Chương 0170: Kết thúc tất cả những thứ này.md",
+      "filesystem_output_filename": "Chương 0170 - Kết thúc tất cả những thứ này.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 171,
+      "chapter_title": "Thu hoạch",
+      "source_output_file": "output/Chương 0171 - Thu hoạch.md",
+      "display_output_filename": "Chương 0171: Thu hoạch.md",
+      "filesystem_output_filename": "Chương 0171 - Thu hoạch.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 172,
+      "chapter_title": "Tôi là nhân loại",
+      "source_output_file": "output/Chương 0172 - Tôi là nhân loại.md",
+      "display_output_filename": "Chương 0172: Tôi là nhân loại.md",
+      "filesystem_output_filename": "Chương 0172 - Tôi là nhân loại.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 173,
+      "chapter_title": "Chuyến tàu về bến",
+      "source_output_file": "output/Chương 0173 - Chuyến tàu về bến.md",
+      "display_output_filename": "Chương 0173: Chuyến tàu về bến.md",
+      "filesystem_output_filename": "Chương 0173 - Chuyến tàu về bến.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 174,
+      "chapter_title": "Chính bộ tẩu!",
+      "source_output_file": "output/Chương 0174 - Chính bộ tẩu!.md",
+      "display_output_filename": "Chương 0174: Chính bộ tẩu!.md",
+      "filesystem_output_filename": "Chương 0174 - Chính bộ tẩu!.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 175,
+      "chapter_title": "Đại diện tộc Địa Tinh",
+      "source_output_file": "output/Chương 0175 - Đại diện tộc Địa Tinh.md",
+      "display_output_filename": "Chương 0175: Đại diện tộc Địa Tinh.md",
+      "filesystem_output_filename": "Chương 0175 - Đại diện tộc Địa Tinh.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 176,
+      "chapter_title": "Tôi là nhân loại (tiếp)",
+      "source_output_file": "output/Chương 0176 - Tôi là nhân loại (tiếp).md",
+      "display_output_filename": "Chương 0176: Tôi là nhân loại (tiếp).md",
+      "filesystem_output_filename": "Chương 0176 - Tôi là nhân loại (tiếp).md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 177,
+      "chapter_title": "Chuyến hành trình của tôi là Liên Minh Thương Mại",
+      "source_output_file": "output/Chương 0177 - Chuyến hành trình của tôi là Liên Minh Thương Mại.md",
+      "display_output_filename": "Chương 0177: Chuyến hành trình của tôi là Liên Minh Thương Mại.md",
+      "filesystem_output_filename": "Chương 0177 - Chuyến hành trình của tôi là Liên Minh Thương Mại.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 178,
+      "chapter_title": "Anh hào tụ hội",
+      "source_output_file": "output/Chương 0178 - Anh hào tụ hội.md",
+      "display_output_filename": "Chương 0178: Anh hào tụ hội.md",
+      "filesystem_output_filename": "Chương 0178 - Anh hào tụ hội.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 179,
+      "chapter_title": "Sự khởi đầu của một thời đại mới",
+      "source_output_file": "output/Chương 0179 - Sự khởi đầu của một thời đại mới.md",
+      "display_output_filename": "Chương 0179: Sự khởi đầu của một thời đại mới.md",
+      "filesystem_output_filename": "Chương 0179 - Sự khởi đầu của một thời đại mới.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 180,
+      "chapter_title": "Cứu thế chủ (Phiên bản Trung Nhị)",
+      "source_output_file": "output/Chương 0180 - Cứu thế chủ (Phiên bản Trung Nhị).md",
+      "display_output_filename": "Chương 0180: Cứu thế chủ (Phiên bản Trung Nhị).md",
+      "filesystem_output_filename": "Chương 0180 - Cứu thế chủ (Phiên bản Trung Nhị).md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 181,
+      "chapter_title": "Ngô Minh: Tôi muốn làm hoàng đế",
+      "source_output_file": "output/Chương 0181 - Ngô Minh - Tôi muốn làm hoàng đế.md",
+      "display_output_filename": "Chương 0181: Ngô Minh: Tôi muốn làm hoàng đế.md",
+      "filesystem_output_filename": "Chương 0181 - Ngô Minh Tôi muốn làm hoàng đế.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 182,
+      "chapter_title": "Người chơi giáng lâm",
+      "source_output_file": "output/Chương 0182 - Người chơi giáng lâm.md",
+      "display_output_filename": "Chương 0182: Người chơi giáng lâm.md",
+      "filesystem_output_filename": "Chương 0182 - Người chơi giáng lâm.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 183,
+      "chapter_title": "Ngô Minh là một người tốt",
+      "source_output_file": "output/Chương 0183 - Ngô Minh là một người tốt.md",
+      "display_output_filename": "Chương 0183: Ngô Minh là một người tốt.md",
+      "filesystem_output_filename": "Chương 0183 - Ngô Minh là một người tốt.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 184,
+      "chapter_title": "Nhóm người chơi đầu tiên",
+      "source_output_file": "output/Chương 0184 - Nhóm người chơi đầu tiên.md",
+      "display_output_filename": "Chương 0184: Nhóm người chơi đầu tiên.md",
+      "filesystem_output_filename": "Chương 0184 - Nhóm người chơi đầu tiên.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 185,
+      "chapter_title": "Thực tế ảo phiên bản ma pháp",
+      "source_output_file": "output/Chương 0185 - Thực tế ảo phiên bản ma pháp.md",
+      "display_output_filename": "Chương 0185: Thực tế ảo phiên bản ma pháp.md",
+      "filesystem_output_filename": "Chương 0185 - Thực tế ảo phiên bản ma pháp.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 186,
+      "chapter_title": "Đây mới là người chơi",
+      "source_output_file": "output/Chương 0186 - Đây mới là người chơi.md",
+      "display_output_filename": "Chương 0186: Đây mới là người chơi.md",
+      "filesystem_output_filename": "Chương 0186 - Đây mới là người chơi.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 187,
+      "chapter_title": "Lãnh địa đầu tiên của Ngô Minh",
+      "source_output_file": "output/Chương 0187 - Lãnh địa đầu tiên của Ngô Minh.md",
+      "display_output_filename": "Chương 0187: Lãnh địa đầu tiên của Ngô Minh.md",
+      "filesystem_output_filename": "Chương 0187 - Lãnh địa đầu tiên của Ngô Minh.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 188,
+      "chapter_title": "Ai tán thành, ai phản đối?",
+      "source_output_file": "output/Chương 0188 - Ai tán thành, ai phản đối.md",
+      "display_output_filename": "Chương 0188: Ai tán thành, ai phản đối?.md",
+      "filesystem_output_filename": "Chương 0188 - Ai tán thành, ai phản đối.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 189,
+      "chapter_title": "Vở kịch ba hồi",
+      "source_output_file": "output/Chương 0189 - Vở kịch ba hồi.md",
+      "display_output_filename": "Chương 0189: Vở kịch ba hồi.md",
+      "filesystem_output_filename": "Chương 0189 - Vở kịch ba hồi.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 190,
+      "chapter_title": "Tôi là Đại Lãnh Chúa",
+      "source_output_file": "output/Chương 0190 - Tôi là Đại Lãnh Chúa.md",
+      "display_output_filename": "Chương 0190: Tôi là Đại Lãnh Chúa.md",
+      "filesystem_output_filename": "Chương 0190 - Tôi là Đại Lãnh Chúa.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 191,
+      "chapter_title": "Tuyệt chiêu",
+      "source_output_file": "output/Chương 0191 - Tuyệt chiêu.md",
+      "display_output_filename": "Chương 0191: Tuyệt chiêu.md",
+      "filesystem_output_filename": "Chương 0191 - Tuyệt chiêu.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 192,
+      "chapter_title": "Người chơi! Giáng lâm!",
+      "source_output_file": "output/Chương 0192 - Người chơi! Giáng lâm!.md",
+      "display_output_filename": "Chương 0192: Người chơi! Giáng lâm!.md",
+      "filesystem_output_filename": "Chương 0192 - Người chơi! Giáng lâm!.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 193,
+      "chapter_title": "Bom hạt nhân? Ngô Minh!",
+      "source_output_file": "output/Chương 0193 - Bom hạt nhân - Ngô Minh.md",
+      "display_output_filename": "Chương 0193: Bom hạt nhân? Ngô Minh!.md",
+      "filesystem_output_filename": "Chương 0193 - Bom hạt nhân Ngô Minh!.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 194,
+      "chapter_title": "Đệ Tứ Thiên Tai, giáng lâm",
+      "source_output_file": "output/Chương 0194 - Đệ Tứ Thiên Tai, giáng lâm.md",
+      "display_output_filename": "Chương 0194: Đệ Tứ Thiên Tai, giáng lâm.md",
+      "filesystem_output_filename": "Chương 0194 - Đệ Tứ Thiên Tai, giáng lâm.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 195,
+      "chapter_title": "Dị tộc và \"Cước Nam\"",
+      "source_output_file": "output/Chương 0195 - Dị tộc và Cước Nam.md",
+      "display_output_filename": "Chương 0195: Dị tộc và \"Cước Nam\".md",
+      "filesystem_output_filename": "Chương 0195 - Dị tộc và Cước Nam.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 196,
+      "chapter_title": "Tính người của Ngô Minh",
+      "source_output_file": "output/Chương 0196 - Tính người của Ngô Minh.md",
+      "display_output_filename": "Chương 0196: Tính người của Ngô Minh.md",
+      "filesystem_output_filename": "Chương 0196 - Tính người của Ngô Minh.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 197,
+      "chapter_title": "Nhật ký của người chơi",
+      "source_output_file": "output/Chương 0197 - Nhật ký của người chơi.md",
+      "display_output_filename": "Chương 0197: Nhật ký của người chơi.md",
+      "filesystem_output_filename": "Chương 0197 - Nhật ký của người chơi.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 198,
+      "chapter_title": "Ai bảo tôi chưa từng chết?",
+      "source_output_file": "output/Chương 0198 - Ai bảo tôi chưa từng chết.md",
+      "display_output_filename": "Chương 0198: Ai bảo tôi chưa từng chết?.md",
+      "filesystem_output_filename": "Chương 0198 - Ai bảo tôi chưa từng chết.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 199,
+      "chapter_title": "Dự tính của Ngô Minh",
+      "source_output_file": "output/Chương 0199 - Dự tính của Ngô Minh.md",
+      "display_output_filename": "Chương 0199: Dự tính của Ngô Minh.md",
+      "filesystem_output_filename": "Chương 0199 - Dự tính của Ngô Minh.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 200,
+      "chapter_title": "Sự nhắm vào của các Thánh vị",
+      "source_output_file": "output/Chương 0200 - Sự nhắm vào của các Thánh vị.md",
+      "display_output_filename": "Chương 0200: Sự nhắm vào của các Thánh vị.md",
+      "filesystem_output_filename": "Chương 0200 - Sự nhắm vào của các Thánh vị.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": null,
+      "chapter_title": "Chưa đặt tiêu đề",
+      "source_output_file": "output/Chương 0160 - Ẩn bí tồn tại",
+      "display_output_filename": null,
+      "filesystem_output_filename": null,
+      "has_content": false
     }
   ]
 }
