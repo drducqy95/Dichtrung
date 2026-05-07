@@ -1,302 +1,302 @@
 # Mục lục - Ta Trong Bình Vũ Trụ
 
-- Chương 0001: Chuong 1 - B nh nh n t m th n S ng Th Th n
-- Chương 0002: Chuong 2 - Cu c chi n th n tho i s thi trong c n ph ng
-- Chương 0003: Chuong 3 - C i ch t c a B n C
-- Chương 0004: Chuong 4 - S ng th di t th c th n ngo i v Chuong n pha l
-- Chương 0005: Chuong 5 - S ra i c a c
-- Chương 0006: Chuong 6 - Ng y th ng s thay i si u n ng l c c a c th
-- Chương 0007: Chuong 7 - qu c i d ng l n gi ng l m th hai c a Th n
-- Chương 0008: Chuong 8 - u tr u d ng v n c u ti n gi a Ngo i Th n v ph m nh n
-- Chương 0009: Chuong 9 - Cu c di t th th hai c a Th n
-- Chương 0010: Chuong 10 - Ph i i ti n phong th m d th gi i
-- Chương 0011: Chuong 11 - Ki m k x c ch t b n v C Long nguy n th y
-- Chương 0012: Chuong 12 - C u t ng v vi c t o ra sinh m nh
-- Chương 0013: Chuong 13 - S tr i d y c a ng i Atabia
-- Chương 0014: Chuong 14 - qu c v y qu t Quang Minh gi o h i t ph
-- Chương 0015: Chuong 15 - Ngh o n m c ph t khi p
-- Chương 0016: Chuong 16 - Ph ng th c ki m ti n
-- Chương 0017: Chuong 17 - m tr c tr n quy t chi n c a v n minh
-- Chương 0018: Chuong 18 - Th p Babel hai m i s u t ng
-- Chương 0019: Chuong 19 - Th n
-- Chương 0020: Chuong 20 - Th gi i n y kh ng c Th n
-- Chương 0021: Chuong 21 - i tho i
-- Chương 0022: Chuong 22 - Sinh m nh tr ng sinh
-- Chương 0023: Chuong 23 - Th n ph t Ng y ph n x t cu i c ng
-- Chương 0024: Chuong 24 - Th gi i m t nh t
-- Chương 0025: Chuong 25 - Tinh Linh v ng ng xu ng Th Gi i Th ra i
-- Chương 0026: Chuong 26 - K ho ch gia c th gi i
-- Chương 0027: Chuong 27 - S ng b c x th n b
-- Chương 0028: Chuong 28 - Gi ng l m
-- Chương 0029: Chuong 29 - Qu n quy n th n th
-- Chương 0030: Chuong 30 - N i s tr ng sinh Chuong ta c a t ng lai
-- Chương 0031: Chuong 31 - Quang Minh gi o o n qu c
-- Chương 0032: Chuong 32 - N t th t k thu t
-- Chương 0033: Chuong 33 - Ki m th m
-- Chương 0034: Chuong 34 - H nh th i s khai c a Chuong th n L c vi n m t
-- Chương 0035: Chuong 35 - Nguy n t i
-- Chương 0036: Chuong 36 - Th i i Chuong th nh K nguy n Tinh Linh
-- Chương 0037: Chuong 37 - Thu t luy n kim sinh m nh Th n gi ng l m
-- Chương 0038: Chuong 38 - Tham v ng c a lo i Ma th Nh n
-- Chương 0039: Chuong 39 - Tinh Linh b c ra kh i ph ng th nghi m
-- Chương 0040: Chuong 40 - Tr n o gi n n
-- Chương 0041: Chuong 41 - Nu i l p d ph ng
-- Chương 0042: Chuong 42 - M ra th i i Th n thu t
-- Chương 0043: Chuong 43 - T n v ng ng c
-- Chương 0044: Chuong 44 - L i l m b m c a T Th n
-- Chương 0045: Chuong 45 - L u Ly Th n Nh n Th i gian Th n linh
-- Chương 0046: Chuong 46 - S c m nh truy n th
-- Chương 0047: Chuong 47 - S ng t o th gi i c a ta
-- Chương 0048: Chuong 48 - Cu c phi u l u k th c a Th nh n Tinh Linh
-- Chương 0049: Chuong 49 - S m s t gi ng l m
-- Chương 0050: Chuong 50 - Va ch m
-- Chương 0051: Chuong 51 - Quy t c chi n tranh c a b n i t o v t
-- Chương 0052: Chuong 52 - Chi n tranh
-- Chương 0053: Chuong 53 - Kh i u c a th n tho i
-- Chương 0054: Chuong 54 - Th gi i Ma th kh i ngu n c a th k si u ph m
-- Chương 0055: Chuong 55 - Ngu n g c c a tr n quy t chi n
-- Chương 0056: Chuong 56 - Phong b o ti n t ch
-- Chương 0057: Chuong 57 - T m ki m ph p c u th
-- Chương 0058: Chuong 58 - Li n ti p nh p nh c nh ph nh p giai t ng sinh m nh
-- Chương 0059: Chuong 59 - Th th ch v n m nh c a th n v ng mi n s u gai nh n
-- Chương 0060: Chuong 60 - K ch h a
-- Chương 0061: Chuong 61 - Th n Long trong t b o
-- Chương 0062: Chuong 62 - C m kinh thi n ng a
-- Chương 0063: Chuong 63 - M n qu t m u c ma
-- Chương 0064: Chuong 64 - ng c nh v cu i i
-- Chương 0065: Chuong 65 - Chuy n c k nguy n th i i c a ng i v ta
-- Chương 0066: Chuong 66 - C u chuy n c a ng i Th n Chuong ki n
-- Chương 0067: Chuong 67 - Th i i chung y n
-- Chương 0068: Chuong 68 - C nh c a ch n l v ng quy n giao th
-- Chương 0069: Chuong 69 - S ng t o hai i Chuong t c si u ph m
-- Chương 0070: Chuong 70 - Ngh a a c a ng i Atabia
-- Chương 0071: Chuong 71 - Nh ng lu ng h o quang cu i c ng
-- Chương 0072: Chuong 72 - S tr i d y c a Sylph
-- Chương 0073: Chuong 73 - Suzanne l m chuy n
-- Chương 0074: Chuong 74 - Hi n th nh tr c m t ng i h nh tr nh k o
-- Chương 0075: Chuong 75 - Gia t c Chuong ta s p tr th nh si u ph m r i
-- Chương 0076: Chuong 76 - S ra i c a L i Th n
-- Chương 0077: Chuong 77 - Ph ng th nghi m i n o c a ta Th n Qu c
-- Chương 0078: Chuong 78 - Tinh kh ng ngay
-- Chương 0079: Chuong 79 - Cho c c ng i xem cho s ng
-- Chương 0080: Chuong 80 - M l i C nh c a Ch n l
-- Chương 0081: Chuong 81 - T p k ch l n ng i t n v ng
-- Chương 0082: Chuong 82 - V ho ng i n r t o b o
-- Chương 0083: Chuong 83 - K nguy n Ma v ng Th n i n tr n kh ng
-- Chương 0084: Chuong 84 - K nu i kh ng quen
-- Chương 0085: Chuong 85 - T ch l y n n t ng
-- Chương 0086: Chuong 86 - Nguy hi m ng s m i
-- Chương 0087: Chuong 87 - V ng qu c Y u tinh
-- Chương 0088: Chuong 88 - B c c
-- Chương 0089: Chuong 89 - R ng b u qu i
-- Chương 0090: Chuong 90 - C l o th nh ki m
-- Chương 0091: Chuong 91 - Th n Y u tinh Aurora
-- Chương 0092: Chuong 92 - Ma quan h y di t th gi i
-- Chương 0093: Chuong 93 - S d u d ng c a di t th
-- Chương 0094: Chuong 94 - Thi t l p quy t c v tr h v Chuong n pha l
-- Chương 0095: Chuong 95 - Th m Uy n t n th tr n chi n th n kh ng khi p
-- Chương 0096: Chuong 96 - Th i i M ki m
-- Chương 0097: Chuong 97 - Chu n b ngu n v n cho sa b n m i
-- Chương 0098: Chuong 98 - T p k ch
-- Chương 0099: Chuong 99 - Ng i cha nh n t chi u s ng con ng t ng lai
-- Chương 0100: Chuong 100 - Ph v v Chuong n pha l
-- Chương 0101: Chuong 101 - i ng i tr n v ng t a
-- Chương 0102: Chuong 102 - H n n c quan b n th n vi n c ng say
-- Chương 0103: Chuong 103 - V vua cu i c ng trong s ng m
-- Chương 0104: Chuong 104 - Chuong ta kh ng c n Ph th n n a r i
-- Chương 0105: Chuong 105 - C u Ph ch t
-- Chương 0106: Chuong 106 - Ch th n Ho ng h n th gi i si u ph m ra i
-- Chương 0107: Chuong 107 - Ph n chia c nh gi i bi n c c a Aurora
-- Chương 0108: Chuong 108 - B t ng s n si u to kh ng l c a ta
-- Chương 0109: Chuong 109 - K nguy n M a ng
-- Chương 0110: Chuong 110 - Xuy n kh ng - Gi y b o nh p h c c a h c vi n ma ph p
-- Chương 0111: Chuong 111 - Phim truy n h nh th n tho i quy m l n - S khao kh t c a Herodotus
-- Chương 0112: Chuong 112 - S bi n d c a c th
-- Chương 0113: Chuong 113 - C n s t m ng ta c ng mu n xuy n kh ng
-- Chương 0114: Chuong 114 - Nh p h c
-- Chương 0115: Chuong 115 - Cu c h nh tr nh m ng o
-- Chương 0116: Chuong 116 - Kh L u T ng Qu n ngo i i th c
-- Chương 0117: Chuong 117 - Di n to n d li u s ng t o th n ti u kh ng l
-- Chương 0118: Chuong 118 - K nguy n Ho ng Kim m i Walton b nh tr ng
-- Chương 0119: Chuong 119 - C ng p ng c
-- Chương 0120: Chuong 120 - Truy n k Vong Linh c a th i i
-- Chương 0121: Chuong 121 - Th n Di t Th t nh gi c
-- Chương 0122: Chuong 122 - Ch n ng
-- Chương 0123: Chuong 123 - Th i i o v ng m m u
-- Chương 0124: Chuong 124 - V ng chi v n l c
-- Chương 0125: Chuong 125 - Phong bia c a th i i
-- Chương 0126: Chuong 126 - Ng i xuy n kh ng c ng ch n th m th i
-- Chương 0127: Chuong 127 - Aurora th c t nh
-- Chương 0128: Ch ng 128 - Aurora
-- Chương 0129: Chuong 129 - X y d ng ng i nh c a ch nh m nh
-- Chương 0130: Chuong 130 - S tr i d y c a t i d th gi i
-- Chương 0131: Chuong 131 - Gi ng l m
-- Chương 0132: Chuong 132 - Ph gi i con ng phi th ng
-- Chương 0133: Chuong 133 - Kh t v ng t ph Truy n K
-- Chương 0134: Chuong 134 - S ng t o th gi i a t m V vua v ch
-- Chương 0135: Chuong 135 - Th ch th c gi t i hi n
-- Chương 0136: Chuong 136 - Ch c ch n l tr ng t n
-- Chương 0137: Chuong 137 - K nh t gan nh t l i n i anh th p nh t
-- Chương 0138: Chuong 138 - Truy n K xu t hi n
-- Chương 0139: Chuong 139 - Th n tho i vu s ng i m th i i ghi nh
-- Chương 0140: Chuong 140 - Th i i Ho ng Kim k t th c
-- Chương 0141: Chuong 141 - DNA Th n Long
-- Chương 0142: Chuong 142 - Th gi i sa b n ti p theo b i th nghi m v n minh
-- Chương 0143: Ch ng 143 - X y d ng
-- Chương 0144: Chuong 144 - S ng Th K c a Th n b n c i a
-- Chương 0145: Chuong 145 - T n th b ng n
-- Chương 0146: Chuong 146 - T n th b ng n
-- Chương 0147: Chuong 147 - B n n m nh n lo i di t vong
-- Chương 0148: Chuong 148 - C i t o th gi i t n th
-- Chương 0149: Chuong 149 - Kh i Nguy n Th Gi i Th c a a v tr
-- Chương 0150: Chuong 150 - To n d n chu n b chi n u ngh nh k ch t n th
-- Chương 0151: Chuong 151 - V ng t giao gi i c a lu n h i
-- Chương 0152: Chuong 152 - Nh l m phim k c u Walton
-- Chương 0153: Chuong 153 - Th gi i ch n ng to n d n s i s c
-- Chương 0154: Chuong 154 - S ti n tri n th n t c c a nh n lo i trong tuy t v ng
-- Chương 0155: Chuong 155 - Ti n b ng n
-- Chương 0156: Chuong 156 - H i t c th i kh ng
-- Chương 0157: Chuong 157 - K nguy n V ng b nh minh c a nh n lo i
-- Chương 0158: Chuong 158 - Th gi i v ch pha l s b ng n c a c ng ngh t ng lai
-- Chương 0159: Chuong 159 - V n minh l u l c bong b ng th gi i
-- Chương 0160: Chuong 160 - B i c nh k ch b n c a t n th
-- Chương 0161: Chuong 161 - Chuy n gia i n nh Walton
-- Chương 0162: Chuong 162 - K nguy n Qu H i T n Th
-- Chương 0163: Chuong 163 - K ng c a ph i di s n
-- Chương 0164: Chuong 164 - Danh t c a Ng i
-- Chương 0165: Chuong 165 - Xuy n qua nhi u th gi i v n minh v o
-- Chương 0166: Chuong 166 - y m i l th gi i t n th th c s
-- Chương 0167: Chuong 167 - K ho ch th m d M t Tr ng
-- Chương 0168: Chuong 168 - Th i i m i
-- Chương 0169: Ch ng 169 - Detroit
-- Chương 0170: Chuong 170 - Th i i chi bi n
-- Chương 0171: Chuong 171 - Cu c chi n c a si u anh h ng
-- Chương 0172: Chuong 172 - Thi n ph B n Th n
-- Chương 0173: Chuong 173 - Ai m i l ng i chi n th ng
-- Chương 0174: Chuong 174 - Fist Nocloron
-- Chương 0175: Chuong 175 - Gi ng l m
-- Chương 0176: Chuong 176 - Qu h ng Tr i t
-- Chương 0177: Chuong 177 - S l a ch n c a con ng i
-- Chương 0178: Chuong 178 - K ng sau m n th c s
-- Chương 0179: Chuong 179 - V ng lu n h i cu i c ng
-- Chương 0180: Chuong 180 - Th n ph n C u th ch hi n th cu i c ng n tung
-- Chương 0181: Chuong 181 - M t nh ba ng i th y u trung li t
-- Chương 0182: Chuong 182 - Th gi i h n lo n
-- Chương 0183: Chuong 183 - N i nh qu x a
-- Chương 0184: Chuong 184 - Ch m t qu kh
-- Chương 0185: Chuong 185 - S ph t tri n c a l c l ng th i kh ng
-- Chương 0186: Chuong 186 - Ch t o sinh m nh kh ng gian
-- Chương 0187: Chuong 187 - Th gi i H n h a
-- Chương 0188: Chuong 188 - B n Th n truy n ph p
-- Chương 0189: Chuong 189 - C u chuy n ng ng n h nh tr nh c a sinh m nh
-- Chương 0190: Chuong 190 - C u h i v c u tr l i th th ch
-- Chương 0191: Chuong 191 - S ph n chia B n Th n
-- Chương 0192: Chuong 192 - Ph n di n qu n tinh th i i gi o h i
-- Chương 0193: Chuong 193 - V cu ng
-- Chương 0194: Chuong 194 - Thi n T m Quy t v o th nh th
-- Chương 0195: Chuong 195 - V o i x ng
-- Chương 0196: Chuong 196 - T c C nh n khi u chi n V Thi n T
-- Chương 0197: Chuong 197 - V o nh th nh
-- Chương 0198: Chuong 198 - N i s h i c i ch t
-- Chương 0199: Chuong 199 - H n sao v n ch a ch t
-- Chương 0200: Chuong 200 - Ph to i h kh ng B ch nh t phi th ng
-- output/Ch ng 0223 - L Khanh
-- output/Ch ng 0288 - L Khanh
-- output/Chuong 0201 - H n tr l i
-- output/Chuong 0202 - Th gi i v o hi n i
-- output/Chuong 0203 - u s ng trong l ng
-- output/Chuong 0204 - C y Th Gi i b ng ch y t a nh th n tho i ng y c 
-- output/Chuong 0205 - nh phong va ch m
-- output/Chuong 0206 - C th bi n d c bi t
-- output/Chuong 0207 - Th i i c a c c thi u ni n thi n ki u
-- output/Chuong 0208 - Suy ngh 
-- output/Chuong 0209 - H p nh t
-- output/Chuong 0210 - K nguy n V o th i i B n gi i v c 
-- output/Chuong 0211 - i qua i
-- output/Chuong 0212 - Ma thu t r t khoa h c
-- output/Chuong 0213 - B c v o th i i Ch n Th n
-- output/Chuong 0214 - Ch n Th n xu t th 
-- output/Chuong 0215 - T ng k t u k 
-- output/Chuong 0216 - Kh ng ho ng th i i
-- output/Chuong 0217 - B n tay trong h n n
-- output/Chuong 0218 - C nh gi i Ch n Th n
-- output/Chuong 0219 - Th i i Thi n 
-- output/Chuong 0220 - Thi n T lu n v 
-- output/Chuong 0221 - Th i i h n lo n hai tr m n m t th ng v s 
-- output/Chuong 0222 - Nh t Nguy t Th n tri u th i i k qu c
-- output/Chuong 0224 - Vu o i th 
-- output/Chuong 0225 - Th n x c ph m nh n t n s t th n linh
-- output/Chuong 0226 - Th nh Long tr i d y
-- output/Chuong 0227 - c t nh c bi t c a linh kh tr i t
-- output/Chuong 0228 - Th i i v t c d ng ph 
-- output/Chuong 0229 - S l a ch n m i
-- output/Chuong 0230 - Vu Thi n Kh ch li n ti p t m t i c a
-- output/Chuong 0231 - Ng i ch nh l k ng sau m n ng kh ng
-- output/Chuong 0232 - Tr ng h p trong tr ng h p
-- output/Chuong 0233 - V l c m i l c n b n c a t t c 
-- output/Chuong 0234 - S truy n th a c a m ng c nh
-- output/Chuong 0235 - Phong c nh c a v ng h n n
-- output/Chuong 0236 - Gi i m gi c m 
-- output/Chuong 0237 - Gi c m c a M ng Y
-- output/Chuong 0238 - S tr i d y c a Chuong t c c kh 
-- output/Chuong 0239 - Kh ng gian c m ng lu n h i
-- output/Chuong 0240 - S thay i c a hi n th c
-- output/Chuong 0241 - Mu n gi t Norcron
-- output/Chuong 0242 - Sivie m bay c th i i
-- output/Chuong 0243 - th c Thi n o ra i
-- output/Chuong 0244 - Th i i ph t tri n ph i thai c a lu n h i 
-- output/Chuong 0245 - V n minh d sinh h nh v ng
-- output/Chuong 0246 - L i th m m t qu n c th i i h xu ng
-- output/Chuong 0247 - Th c y
-- output/Chuong 0248 - T Ph ng Thi n th i i Thi n o
-- output/Chuong 0249 - S k th a v ng mi n
-- output/Chuong 0250 - Di t th b t u
-- output/Chuong 0251 - Sinh m nh Th n c 
-- output/Chuong 0252 - T n s t th ng thi n 
-- output/Chuong 0253 - Th ng gi i
-- output/Chuong 0254 - Th i gian l con dao s c b n nh t
-- output/Chuong 0255 - Bi n c li n ti p
-- output/Chuong 0256 - Thi n T i u r i
-- output/Chuong 0257 - Th c th kh ng l trong h n n
-- output/Chuong 0258 - Xi ng x ch c a m ng c nh
-- output/Chuong 0259 - Ai c th ph n bi t c ta v ng i trong m ng
-- output/Chuong 0260 - Tr n chi n c a Sivie
-- output/Chuong 0261 - C y c g ng r i
-- output/Chuong 0262 - Thao t ng Thi n o
-- output/Chuong 0263 - Tr n chi n c a Thi n T 
-- output/Chuong 0264 - M t m nh n 
-- output/Chuong 0265 - S l a ch n c a c i ch t
-- output/Chuong 0266 - Thi n o th c s xu t th 
-- output/Chuong 0267 - y m i l n m m
-- output/Chuong 0268 - Atabian
-- output/Chuong 0269 - Chi u th c
-- output/Chuong 0270 - Ng i kh ng l 
-- output/Chuong 0271 - M t m nghi m t c
-- output/Chuong 0272 - i th m i l con dao s c b n nh t
-- output/Chuong 0273 - B th gi i p ra ngo i
-- output/Chuong 0274 - H y di t kh ng ph i l h y di t
-- output/Chuong 0275 - H a ho n
-- output/Chuong 0276 - Chuy n c a th i i
-- output/Chuong 0277 - Th i i a v tr suy ng m v ng c p v n minh 
-- output/Chuong 0278 - Ng i ho ch nh b n 
-- output/Chuong 0279 - Ki n t o i Thi n Th Gi i
-- output/Chuong 0280 - B nh vi n Th y n o
-- output/Chuong 0281 - Sivie nh p cu c
-- output/Chuong 0282 - V n minh m t ki m so t
-- output/Chuong 0283 - ng i
-- output/Chuong 0284 - H gi i l n u ti n g p g v n minh
-- output/Chuong 0285 - Chi n tranh ch l s k o d i c a ch nh tr 
-- output/Chuong 0286 - L y l n hi p nh c t y n o m t tr n tr c 
-- output/Chuong 0287 - Kh ng kh ng t ng o qu c gia v i
-- output/Chuong 0289 - V n minh th n b ngo i thi n kh ng
-- output/Chuong 0290 - Giao l u
-- output/Chuong 0291 - X m nh p t i
-- output/Chuong 0292 - S ng kho i b ng n qu n s 
-- output/Chuong 0293 - T p k ch Th ng gi i
-- output/Chuong 0294 - C th h n n l i p bay m t con ru i
-- output/Chuong 0295 - V b nh nh n u ti n nh p vi n
-- output/Chuong 0296 - Muon chay
-- output/Chuong 0297 - Tro choi the ky - So Nguyen
-- output/Chuong 0298 - Van minh quai di
-- output/Chuong 0299 - Chung toc ky nguyen dang thuong
-- output/Chuong 0300 - Van minh 2.5 chieu
+- Chương 0032: Nút thắt kỹ thuật
+- Chương 0033: Kiếm thêm
+- Chương 0034: Hình thái sơ khai của chúng thần, Lạc Viên đã mất
+- Chương 0035: Nguyên tội
+- Chương 0036: Thời đại Chúng Thánh, Kỷ nguyên Tinh Linh!
+- Chương 0037: Thuật luyện kim sinh mệnh, Thần giáng lâm
+- Chương 0038: Dã tâm của chủng tộc Nhện Ma thú
+- Chương 0039: Tinh Linh bước ra khỏi phòng thí nghiệm
+- Chương 0040: Trí não đơn giản
+- Chương 0041: Nuôi lốp dự phòng
+- Chương 0042: Mở ra thời đại Thần thuật
+- Chương 0043: Tân vương đăng cơ
+- Chương 0044: Lời lầm bầm của Tà Thần
+- Chương 0045: Lưu Ly Thần Nhãn, thời gian Thần Linh
+- Chương 0046: Truyền thụ sức mạnh
+- Chương 0048: Thánh nữ Tinh Linh xuyên không
+- Chương 0049: Sấm sét giáng lâm
+- Chương 0050: Va chạm
+- Chương 0051: Quy tắc chiến tranh của bốn đại tạo vật
+- Chương 0052: Chiến tranh
+- Chương 0053: Khởi đầu của thần thoại
+- Chương 0054: Thế giới Ma thú, khởi nguồn của thế kỷ siêu phàm
+- Chương 0055: Nguồn gốc của trận quyết chiến
+- Chương 0056: Trước cơn bão
+- Chương 0057: Tìm kiếm phương pháp cứu thế
+- Chương 0058: Liền kề hai cảnh, đột phá giai tầng sinh mệnh
+- Chương 0059: Thử thách vận mệnh của Thần, Vương miện Gai Sáu Mũi
+- Chương 0060: Kích hóa
+- Chương 0113: Cơn sốt mạng, ta cũng muốn xuyên không
+- Chương 0169: Detroit Become Human
+- Chương 0223: Lý Khanh: Tôi không cười nổi nữa rồi
+- output/Chương 0001 - Bệnh nhân tâm thần Sáng Thế Thần
+- output/Chương 0002 - Cuộc chiến thần thoại sử thi trong căn phòng
+- output/Chương 0003 - Cái chết của Bàn Cổ
+- output/Chương 0004 - Sáng thế, diệt thế, cự thần ngoài vách ngăn pha lê
+- output/Chương 0005 - Sự ra đời của cá
+- output/Chương 0006 - Ngày thường, sự thay đổi siêu năng lực của cơ thể
+- output/Chương 0007 - Đế quốc đại dương, lần giáng lâm thứ hai của Thần
+- output/Chương 0008 - Đấu trí đấu dũng, ván cờ đầu tiên giữa Ngoại Thần và phàm nhân
+- output/Chương 0009 - Cuộc diệt thế thứ hai của Thần
+- output/Chương 0010 - Phái đội tiên phong thăm dò thế giới
+- output/Chương 0011 - Kiểm kê xác chết, bản vẽ Cự Long nguyên thủy-
+- output/Chương 0012 - Cấu tưởng về việc tạo ra sinh mệnh
+- output/Chương 0013 - Sự trỗi dậy của người Atabia
+- output/Chương 0014 - Đế quốc vây quét, Quang Minh giáo hội đột phá
+- output/Chương 0015 - Nghèo đến mức phát khiếp
+- output/Chương 0016 - Phương thức kiếm tiền
+- output/Chương 0017 - Đêm trước trận quyết chiến của văn minh
+- output/Chương 0018 - Tháp Babel hai mươi sáu tầng
+- output/Chương 0019 - Thần!
+- output/Chương 0020 - Thế giới này không có Thần
+- output/Chương 0021 - Đối thoại
+- output/Chương 0022 - Sinh mệnh trọng sinh
+- output/Chương 0023 - Thần phạt, Ngày phán xét cuối cùng
+- output/Chương 0024 - Thế giới mạt nhật
+- output/Chương 0025 - Tinh Linh vương ngã xuống, Thế Giới Thụ ra đời
+- output/Chương 0026 - Kế hoạch gia cố thế giới
+- output/Chương 0027 - Sóng bức xạ thần bí
+- output/Chương 0028 - Giáng lâm
+- output/Chương 0029 - Quân quyền thần thụ
+- output/Chương 0030 - Nỗi sợ trường sinh, chúng ta của tương lai
+- output/Chương 0031 - Quang Minh giáo đoàn quốc- Não của chúng ta đi đâu rồi
+- output/Chương 0047 - Sáng tạo thế giới của ta- Thế giới Thâm Uyên
+- output/Chương 0061 - Thần Long trong tế bào
+- output/Chương 0062 - Cú đấm kinh thiên động địa
+- output/Chương 0063 - Món quà từ máu ác ma
+- output/Chương 0064 - Đệ ngũ cảnh và cuối đời
+- output/Chương 0065 - Chuyện cũ kỷ nguyên, thời đại của ngươi và ta
+- output/Chương 0066 - Câu chuyện của ngươi, Thần đã chứng kiến
+- output/Chương 0067 - Thời đại chung yên
+- output/Chương 0068 - Cánh cửa chân lý, vương quyền giao thế
+- output/Chương 0069 - Sáng tạo hai đại chủng tộc siêu phàm
+- output/Chương 0070 - Nghĩa địa của người Atabia
+- output/Chương 0071 - Những luồng hào quang cuối cùng
+- output/Chương 0072 - Sự trỗi dậy của Sylph
+- output/Chương 0073 - Suzanne làm chuyện
+- output/Chương 0074 - Hiển thánh trước mặt người, hành trình kỳ ảo
+- output/Chương 0075 - Gia tộc chúng ta sắp trở thành siêu phàm rồi!
+- output/Chương 0076 - Sự ra đời của Lôi Thần
+- output/Chương 0077 - Phòng thí nghiệm đại não của ta, Thần Quốc
+- output/Chương 0078 - Tinh không, ở ngay đó
+- output/Chương 0079 - Cho các ngươi xem cho sướng
+- output/Chương 0080 - Mở lại Cánh cửa Chân lý
+- output/Chương 0081 - Tập kích, lên ngôi tân vương
+- output/Chương 0082 - Vị hoàng đế điên rồ táo bạo
+- output/Chương 0083 - Kỷ nguyên Ma võng, Thần điện trên không
+- output/Chương 0084 - Kẻ nuôi không quen
+- output/Chương 0085 - Tích lũy nền tảng
+- output/Chương 0086 - Nguy hiểm đáng sợ mới
+- output/Chương 0087 - Vương quốc Yêu tinh
+- output/Chương 0088 - Bố cục
+- output/Chương 0089 - Rương báu quái
+- output/Chương 0090 - Cổ lão thánh kiếm
+- output/Chương 0091 - Thần Yêu tinh Aurora
+- output/Chương 0092 - Ma quan hủy diệt thế giới
+- output/Chương 0093 - Sự dịu dàng của diệt thế
+- output/Chương 0094 - Thiết lập quy tắc vũ trụ hệ vách ngăn pha lê!
+- output/Chương 0095 - Thâm Uyên tận thế, trận chiến thần khủng khiếp
+- output/Chương 0096 - Thời đại Mộ kiếm
+- output/Chương 0097 - Chuẩn bị, nguồn vốn cho sa bàn mới
+- output/Chương 0098 - Tập kích
+- output/Chương 0099 - Người cha nhân từ, chiếu sáng con đường tương lai
+- output/Chương 0100 - Phá vỡ vách ngăn pha lê
+- output/Chương 0101 - Đợi ngươi trên vương tọa
+- output/Chương 0102 - Hỗn độn cổ quan, bán thần viễn cổ ngủ say
+- output/Chương 0103 - Vị vua cuối cùng trong sương mù
+- output/Chương 0104 - Chúng ta, đã không cần Phụ thân nữa rồi
+- output/Chương 0105 - Cựu Phụ đã chết
+- output/Chương 0106 - Chư thần Hoàng hôn, thế giới siêu phàm ra đời
+- output/Chương 0107 - Phân chia cảnh giới, biến cố của Aurora
+- output/Chương 0108 - Bất động sản siêu to khổng lồ của ta- Ba phòng một phòng khách
+- output/Chương 0109 - Kỷ nguyên Mùa Đông
+- output/Chương 0110 - Xuyên không- Giấy báo nhập học của học viện ma pháp!
+- output/Chương 0111 - Phim truyền hình thần thoại quy mô lớn- Sự khao khát của Herodotus
+- output/Chương 0112 - Sự biến dị của cơ thể
+- output/Chương 0114 - Nhập học
+- output/Chương 0115 - Cuộc hành trình mộng ảo
+- output/Chương 0116 - Khô Lâu Tướng Quân ngoài đời thực!
+- output/Chương 0117 - Diễn toán dữ liệu, sáng tạo thần tiếu khổng lồ
+- output/Chương 0118 - Kỷ nguyên Hoàng Kim mới, Walton bành trướng
+- output/Chương 0119 - Cưỡng ép đăng cơ
+- output/Chương 0120 - Truyền kỳ Vong Linh của thời đại!
+- output/Chương 0121 - Thần Diệt Thế tỉnh giấc
+- output/Chương 0122 - Chấn động
+- output/Chương 0123 - Thời đại đào vàng đẫm máu
+- output/Chương 0124 - Vương chi vẫn lạc
+- output/Chương 0125 - Phong bia của thời đại
+- output/Chương 0126 - Người xuyên không, cũng chỉ đến thế mà thôi
+- output/Chương 0127 - Aurora thức tỉnh
+- output/Chương 0128 - Aurora - Hu hu ai có thể cứu cứu tôi
+- output/Chương 0129 - Xây dựng ngôi nhà của chính mình
+- output/Chương 0130 - Sự trỗi dậy của đề tài dị thế giới
+- output/Chương 0131 - Giáng lâm
+- output/Chương 0132 - Phá giới, con đường phi thăng!
+- output/Chương 0133 - Khát vọng đột phá Truyền Kỳ
+- output/Chương 0134 - Sáng tạo thế giới địa tâm, Vị vua vô địch
+- output/Chương 0135 - Thách thức giả tái hiện
+- output/Chương 0136 - Chỉ có chân lý trường tồn
+- output/Chương 0137 - Kẻ nhát gan nhất, lời nói đanh thép nhất
+- output/Chương 0138 - Truyền Kỳ xuất hiện
+- output/Chương 0139 - Thần thoại vu sư, người mà thời đại ghi nhớ
+- output/Chương 0140 - Thời đại Hoàng Kim kết thúc!
+- output/Chương 0141 - DNA Thần Long
+- output/Chương 0142 - Thế giới sa bàn tiếp theo, bãi thử nghiệm văn minh
+- output/Chương 0143 - Kiến tạo - Thế giới mạt nhật của Truman
+- output/Chương 0144 - Sáng Thế Ký của Thần, bàn cờ đại địa
+- output/Chương 0145 - Tận thế bùng nổ
+- output/Chương 0146 - Tận thế bùng nổ
+- output/Chương 0147 - Bốn năm, nhân loại diệt vong
+- output/Chương 0148 - Cải tạo thế giới tận thế
+- output/Chương 0149 - Khởi Nguyên Thế Giới Thụ của đa vũ trụ
+- output/Chương 0150 - Toàn dân chuẩn bị chiến đấu, nghênh kích tận thế
+- output/Chương 0151 - Vùng đất giao giới của luân hồi
+- output/Chương 0152 - Nhà làm phim kỳ cựu Walton
+- output/Chương 0153 - Thế giới chấn động, toàn dân sôi sục
+- output/Chương 0154 - Sự tiến triển thần tốc của nhân loại trong tuyệt vọng
+- output/Chương 0155 - Tiền đề bùng nổ
+- output/Chương 0156 - Hồi túc thời không
+- output/Chương 0157 - Kỷ nguyên Vàng, bình minh của nhân loại!
+- output/Chương 0158 - Thế giới vách pha lê, sự bùng nổ của công nghệ tương lai
+- output/Chương 0159 - Văn minh lưu lạc, bong bóng thế giới
+- output/Chương 0160 - Bối cảnh kịch bản của tận thế
+- output/Chương 0161 - Chuyên gia điện ảnh Walton
+- output/Chương 0162 - Kỷ nguyên Quỹ Hội Tận Thế
+- output/Chương 0163 - Kỳ ngộ của phái di sản-
+- output/Chương 0164 - Danh tự của Ngài!
+- output/Chương 0165 - Xuyên qua nhiều thế giới, văn minh võ đạo
+- output/Chương 0166 - Đây, mới là thế giới tận thế thực sự!
+- output/Chương 0167 - Kế hoạch thăm dò Mặt Trăng
+- output/Chương 0168 - Thời đại mới
+- output/Chương 0170 - Thời đại chi biến
+- output/Chương 0171 - Cuộc chiến của siêu anh hùng
+- output/Chương 0172 - Thiên phú Bán Thần
+- output/Chương 0173 - Ai mới là người chiến thắng
+- output/Chương 0174 - Fist Nocloron!
+- output/Chương 0175 - Giáng lâm
+- output/Chương 0176 - Quê hương Trái Đất
+- output/Chương 0177 - Sự lựa chọn của con người
+- output/Chương 0178 - Kẻ đứng sau màn thực sự
+- output/Chương 0179 - Vòng luân hồi cuối cùng
+- output/Chương 0180 - Thân phận Cứu thế chủ, hiện thế cuối cùng nổ tung!
+- output/Chương 0181 - Một nhà ba người, thảy đều trung liệt
+- output/Chương 0182 - Thế giới hỗn loạn
+- output/Chương 0183 - Nỗi nhớ quê xưa
+- output/Chương 0184 - Chém đứt quá khứ
+- output/Chương 0185 - Sự phát triển của lực lượng thời không
+- output/Chương 0186 - Chế tạo sinh mệnh Á không gian
+- output/Chương 0187 - Thế giới Hồn hỏa
+- output/Chương 0188 - Bán Thần truyền pháp
+- output/Chương 0189 - Câu chuyện ngụ ngôn, hành trình của sinh mệnh
+- output/Chương 0190 - Câu hỏi và câu trả lời thử thách
+- output/Chương 0191 - Sự phân chia Bán Thần
+- output/Chương 0192 - Phồn diễn quần tinh, thời đại giáo hội
+- output/Chương 0193 - Võ cuồng
+- output/Chương 0194 - Thiên Tâm Quyết, võ đạo thịnh thế
+- output/Chương 0195 - Võ đạo đại xương
+- output/Chương 0196 - Tộc Cự nhân, khiêu chiến Võ Thiên Tử
+- output/Chương 0197 - Võ đạo đỉnh thịnh
+- output/Chương 0198 - Nỗi sợ hãi cái chết
+- output/Chương 0199 - Hắn sao vẫn chưa chết
+- output/Chương 0200 - Phá toái hư không, Bạch nhật phi thăng
+- output/Chương 0201 - Hắn đã trở lại
+- output/Chương 0202 - Thế giới võ đạo hiện đại
+- output/Chương 0203 - Đều sống trong lồng
+- output/Chương 0204 - Cây Thế Giới bùng cháy, tựa như thần thoại ngày cũ
+- output/Chương 0205 - Đỉnh phong va chạm
+- output/Chương 0206 - Cá thể biến dị đặc biệt
+- output/Chương 0207 - Thời đại của các thiếu niên thiên kiêu
+- output/Chương 0208 - Suy nghĩ
+- output/Chương 0209 - Hợp nhất
+- output/Chương 0210 - Kỷ nguyên Võ đạo, thời đại Bốn giới vực!
+- output/Chương 0211 - Đại Đế qua đời
+- output/Chương 0212 - Ma thuật rất khoa học
+- output/Chương 0213 - Bước vào thời đại Chân Thần
+- output/Chương 0214 - Chân Thần xuất thế
+- output/Chương 0215 - Tương kế tựu kế
+- output/Chương 0216 - Khủng hoảng thời đại
+- output/Chương 0217 - Bàn tay trong hỗn độn
+- output/Chương 0218 - Cảnh giới Chân Thần
+- output/Chương 0219 - Thời đại Thiên Đế
+- output/Chương 0220 - Thiên Tử luận võ
+- output/Chương 0221 - Thời đại hỗn loạn, hai trăm năm tử thương vô số
+- output/Chương 0222 - Nhật Nguyệt Thần triều, thời đại kỳ quặc
+- output/Chương 0224 - Vu đạo đại thế!
+- output/Chương 0225 - Thân xác phàm nhân, tàn sát thần linh
+- output/Chương 0226 - Thánh Long trỗi dậy
+- output/Chương 0227 - Đặc tính đặc biệt của linh khí trời đất
+- output/Chương 0228 - Thời đại và tác dụng phụ
+- output/Chương 0229 - Sự lựa chọn mới
+- output/Chương 0230 - Vu Thiên Đế- Khổ chủ liên tiếp tìm tới cửa!
+- output/Chương 0231 - Ngài chính là kẻ đứng sau màn đúng không-
+- output/Chương 0232 - Trùng hợp trong trùng hợp
+- output/Chương 0233 - Vũ lực mới là căn bản của tất cả
+- output/Chương 0234 - Sự truyền thừa của mộng cảnh
+- output/Chương 0235 - Phong cảnh của vùng hỗn độn!
+- output/Chương 0236 - Giải mã giấc mơ
+- output/Chương 0237 - Giấc mơ của Mộng Y
+- output/Chương 0238 - Sự trỗi dậy của chủng tộc cơ khí
+- output/Chương 0239 - Không gian ác mộng luân hồi
+- output/Chương 0240 - Sự thay đổi của hiện thực
+- output/Chương 0241 - Muốn giết Noclon
+- output/Chương 0242 - Sivie đấm bay cả thời đại
+- output/Chương 0243 - Ý thức Thiên Đạo ra đời
+- output/Chương 0244 - Thời đại phát triển, phôi thai của luân hồi!
+- output/Chương 0245 - Văn minh dã sinh hình vòng
+- output/Chương 0246 - Lại thêm một quân cờ thời đại hạ xuống
+- output/Chương 0247 - Thúc đẩy
+- output/Chương 0248 - Tứ Phương Thiên Đế, thời đại Thiên Đạo
+- output/Chương 0249 - Sự kế thừa vương miện
+- output/Chương 0250 - Diệt thế bắt đầu
+- output/Chương 0251 - Sinh mệnh Thần cơ!
+- output/Chương 0252 - Tàn sát thương thiên!
+- output/Chương 0253 - Thượng giới
+- output/Chương 0254 - Thời gian là con dao sắc bén nhất
+- output/Chương 0255 - Biến cố liên tiếp
+- output/Chương 0256 - Thiên Tử đi đâu rồi
+- output/Chương 0257 - Thực thể khổng lồ trong hỗn độn
+- output/Chương 0258 - Xiềng xích của mộng cảnh
+- output/Chương 0259 - Ai có thể phân biệt được ta và ngươi trong mộng-
+- output/Chương 0260 - Trận chiến của Sivie
+- output/Chương 0261 - Cô ấy đã đủ cố gắng rồi
+- output/Chương 0262 - Thao túng Thiên Đạo
+- output/Chương 0263 - Trận chiến của Thiên Tử
+- output/Chương 0264 - Một đấm đánh nổ
+- output/Chương 0265 - Sự lựa chọn của cái chết
+- output/Chương 0266 - Thiên Đạo thực sự xuất thế
+- output/Chương 0267 - Đây mới là nắm đấm
+- output/Chương 0268 - Atabian
+- output/Chương 0269 - Chiêu thức
+- output/Chương 0270 - Người khổng lồ
+- output/Chương 0271 - Một đấm nghiêm túc
+- output/Chương 0272 - Đại thế mới là con dao sắc bén nhất
+- output/Chương 0273 - Bị thế giới ép ra ngoài
+- output/Chương 0274 - Hủy diệt không phải là hủy diệt
+- output/Chương 0275 - Hòa hoãn
+- output/Chương 0276 - Chuyện của thời đại
+- output/Chương 0277 - Thời đại Đa vũ trụ, suy ngẫm về đẳng cấp văn minh!
+- output/Chương 0278 - Người hoạch định bản đồ
+- output/Chương 0279 - Kiến tạo Đại Thiên Thế Giới
+- output/Chương 0280 - Bệnh viện Thùy não
+- output/Chương 0281 - Sivie nhập cuộc
+- output/Chương 0282 - Văn minh mất kiểm soát (Bốn ngàn chữ)
+- output/Chương 0283 - Ứng đối
+- output/Chương 0284 - Hạ giới, lần đầu tiên gặp gỡ văn minh
+- output/Chương 0285 - Chiến tranh chỉ là sự kéo dài của chính trị
+- output/Chương 0286 - Lấy lớn hiếp nhỏ, cứ tẩy não một trận trước đã
+- output/Chương 0287 - Không khí ngọt ngào, quốc gia vĩ đại
+- output/Chương 0288 - Lý Khanh - Tôi là một cái búa gỗ
+- output/Chương 0289 - Văn minh thần bí ngoài thiên không
+- output/Chương 0290 - Giao lưu
+- output/Chương 0291 - Xâm nhập tới
+- output/Chương 0292 - Sảng khoái bùng nổ quân số
+- output/Chương 0293 - Tập kích Thượng giới
+- output/Chương 0294 - Cự thủ hỗn độn, lại đập bay một con ruồi
+- output/Chương 0295 - Vị bệnh nhân đầu tiên nhập viện
+- output/Chương 0296 - Muốn chạy-
+- output/Chương 0297 - Trò chơi thế kỷ - Sơ Nguyên
+- output/Chương 0298 - Văn minh quái dị
+- output/Chương 0299 - Chủng tộc kỷ nguyên đáng thương
+- output/Chương 0300 - Văn minh 2.5 chiều
