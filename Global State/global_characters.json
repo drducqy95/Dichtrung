@@ -1,13 +1,14 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-04-20T09:36:09+07:00",
-    "total_characters": 41,
+    "last_updated": "2026-05-07T07:45:00+07:00",
+    "total_characters": 56,
     "source_projects": [
       "Chu Than Dai Dao_Co Nguyet Cu Si",
       "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
       "Phi Pham Hong Hoang_Nga Tu Phi Pham",
-      "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han"
+      "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han",
+      "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu"
     ],
     "description": "Tổng hợp nhân vật từ TẤT CẢ project branch trong repo Dichtrung"
   },
@@ -431,6 +432,149 @@
       "role": "khác",
       "description": "",
       "first_appearance": "",
+      "notes": ""
+    },
+    {
+      "id": "GCHAR_0023",
+      "source_project": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
+      "name_original": "李卿",
+      "name_translated": "Lý Khanh",
+      "gender": "nam",
+      "role": "Creator/Observer",
+      "description": "Nhân vật chính, người sở hữu chiếc bình vũ trụ và tạo ra các thế giới sandbox. Thân phận trong game thường là Nocloron.",
+      "first_appearance": "Chương 1",
+      "notes": ""
+    },
+    {
+      "id": "GCHAR_0024",
+      "source_project": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
+      "name_original": "武天子",
+      "name_translated": "Võ Thiên Tử",
+      "gender": "nam",
+      "role": "Major Character",
+      "description": "Hoàng đế của thế giới Võ đạo số 3, kẻ cuồng võ thuật, sau được Lý Khanh đưa vào Á không gian để thống nhất các mảnh vỡ.",
+      "first_appearance": "Chương 193",
+      "notes": "Biệt hiệu: Võ cuồng. Từng hóa thân thành Diệp Phàm."
+    },
+    {
+      "id": "GCHAR_0025",
+      "source_project": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
+      "name_original": "希薇",
+      "name_translated": "Silph",
+      "gender": "nữ",
+      "role": "Major Character",
+      "description": "Nguyên là hầu gái của Lý Khanh trong thế giới sandbox, sau trở thành Bán Thần, thi nhân lãng du và là người đồng hành cùng Lý Khanh.",
+      "first_appearance": "Thời đại Vu Sư",
+      "notes": "Còn gọi là Silph-Naga."
+    },
+    {
+      "id": "GCHAR_0026",
+      "source_project": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
+      "name_original": "米尼斯",
+      "name_translated": "Minis",
+      "gender": "nam",
+      "role": "Leader",
+      "description": "Vua của tộc Tinh Linh, một trong những Bán Thần đầu tiên của thế giới Vu Sư, trí tuệ thâm sâu và giỏi mưu lược.",
+      "first_appearance": "Thời đại Vu Sư",
+      "notes": ""
+    },
+    {
+      "id": "GCHAR_0027",
+      "source_project": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
+      "name_original": "安格列",
+      "name_translated": "Angelier",
+      "gender": "nam",
+      "role": "Major Character",
+      "description": "Vua của tộc Cự nhân trong thế giới tận thế, sau thách đấu Võ Thiên Tử và trở thành Cự Thần Tướng.",
+      "first_appearance": "Thời đại Tận thế",
+      "notes": ""
+    },
+    {
+      "id": "GCHAR_0028",
+      "source_project": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
+      "name_original": "宁国昌",
+      "name_translated": "Ninh Quốc Xương",
+      "gender": "nam",
+      "role": "Leader",
+      "description": "Người đứng đầu thế giới tận thế (Zombieland), sở hữu trí tuệ của một nhà khoa học.",
+      "first_appearance": "Thời đại Tận thế",
+      "notes": ""
+    },
+    {
+      "id": "GCHAR_0029",
+      "source_project": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
+      "name_original": "欧若拉",
+      "name_translated": "Aurora",
+      "gender": "nữ",
+      "role": "Supporting Character",
+      "description": "Một trong những huyền thoại của thế giới Vu Sư, bạn thân của Silph.",
+      "first_appearance": "Thời đại Vu Sư",
+      "notes": ""
+    },
+    {
+      "id": "GCHAR_0030",
+      "source_project": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
+      "name_original": "圣龙",
+      "name_translated": "Thánh Long",
+      "gender": "khác",
+      "role": "Legend",
+      "description": "Con rồng béo lười biếng của thế giới Vu Sư, thích ngủ để đột phá cảnh giới.",
+      "first_appearance": "Thời đại Vu Sư",
+      "notes": ""
+    },
+    {
+      "id": "GCHAR_0031",
+      "source_project": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
+      "name_original": "图卡西",
+      "name_translated": "Tucasi",
+      "gender": "nam",
+      "role": "Supporting Character",
+      "description": "Một trong ba vị đầu sỏ của thế giới Vu Sư thời kỳ Bán Thần.",
+      "first_appearance": "Chương 190",
+      "notes": ""
+    },
+    {
+      "id": "GCHAR_0032",
+      "source_project": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
+      "name_original": "叶凡",
+      "name_translated": "Diệp Phàm",
+      "gender": "nam",
+      "role": "Persona",
+      "description": "Thân phận giả của Võ Thiên Tử khi thâm nhập vào các bí cảnh để lật đổ ách thống trị của các thế gia.",
+      "first_appearance": "Chương 198",
+      "notes": ""
+    },
+    {
+      "id": "GCHAR_0034",
+      "source_project": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
+      "name_original": "爱丽丝",
+      "name_translated": "Elise",
+      "gender": "nữ",
+      "role": "Historical Figure",
+      "description": "Nữ hoàng của thế giới Thâm Uyên thời kỳ đầu, người dẫn đầu cuộc khởi nghĩa chống lại 'Cựu Phụ'.",
+      "first_appearance": "Chương 104",
+      "notes": ""
+    },
+    {
+      "id": "GCHAR_0035",
+      "source_project": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
+      "name_original": "沃尔顿",
+      "name_translated": "Walton",
+      "gender": "nam",
+      "role": "Historical Figure",
+      "description": "Vong hài Đại đế, một trong những Bán Thần thời kỳ đầu, người sở hữu bộ não giả tạo.",
+      "first_appearance": "Chương 110",
+      "notes": ""
+    },
+    {
+      "id": "GCHAR_0036",
+      "source_project": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
+      "name_original": "伊莉丝",
+      "name_translated": "Iris",
+      "gender": "nữ",
+      "role": "Supporting Character",
+      "description": "Đại ma nữ, mẹ của Aurora, người đã tạo ra Chư Thần hoàng hôn.",
+      "first_appearance": "Chương 187",
       "notes": ""
     }
   ]

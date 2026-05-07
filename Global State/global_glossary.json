@@ -3,15 +3,16 @@
     "version": "1.0.12",
     "source_language": "zh",
     "target_language": "vi",
-    "last_updated": "2026-04-20T09:36:09+07:00",
-    "total_entries": 427,
+    "last_updated": "2026-05-07T07:50:00+07:00",
+    "total_entries": 453,
     "source_projects": [
       "Ac Linh Quoc Gia",
       "Hong Hoang Lich_Zhttty",
       "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
       "Phi Pham Hong Hoang_Nga Tu Phi Pham",
       "Sieu Duy Thuat Si_Muc Ho",
-      "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han"
+      "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han",
+      "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu"
     ],
     "description": "Tổng hợp thuật ngữ dịch thuật từ TẤT CẢ project branch trong repo Dichtrung"
   },
@@ -4276,13 +4277,253 @@
       "locked": false
     },
     {
-      "id": "GTERM_0427",
-      "source_term": "东皇钟",
-      "target_term": "Đông Hoàng Chung",
-      "category": "general",
-      "source_project": "Hong Hoang Lich_Zhttty",
-      "confidence": "low",
-      "notes": "",
+      "id": "GTERM_0428",
+      "source_term": "亚空间",
+      "target_term": "Á không gian",
+      "category": "worldbuilding",
+      "source_project": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
+      "confidence": "high",
+      "notes": "Subspace fragments used for civilization experiments",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0429",
+      "source_term": "命图",
+      "target_term": "Mệnh đồ",
+      "category": "cultivation",
+      "source_project": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
+      "confidence": "high",
+      "notes": "Fate Map/Life Map: The structure of Half-God evolution",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0430",
+      "source_term": "半神",
+      "target_term": "Bán Thần",
+      "category": "cultivation",
+      "source_project": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
+      "confidence": "high",
+      "notes": "Half-God rank",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0431",
+      "source_term": "天心决",
+      "target_term": "Thiên Tâm Quyết",
+      "category": "cultivation",
+      "source_project": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
+      "confidence": "high",
+      "notes": "Tianzi's core technique for absorbing martial arts",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0432",
+      "source_term": "武道",
+      "target_term": "Võ đạo",
+      "category": "cultivation",
+      "source_project": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
+      "confidence": "high",
+      "notes": "Martial Path/Martial Arts Path",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0433",
+      "source_term": "武藏",
+      "target_term": "Võ Tạng",
+      "category": "technical_terms",
+      "source_project": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
+      "confidence": "high",
+      "notes": "Martial Repository/Canon",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0434",
+      "source_term": "圆丹",
+      "target_term": "Viên đan",
+      "category": "cultivation",
+      "source_project": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
+      "confidence": "high",
+      "notes": "Golden Dantian/Pill: Power core of the Martial Race",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0435",
+      "source_term": "神国",
+      "target_term": "Thần quốc",
+      "category": "worldbuilding",
+      "source_project": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
+      "confidence": "high",
+      "notes": "God Kingdom/Divine Kingdom",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0436",
+      "source_term": "白日飞升",
+      "target_term": "Bạch nhật phi thăng",
+      "category": "cultivation",
+      "source_project": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
+      "confidence": "high",
+      "notes": "Daytime Ascension",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0437",
+      "source_term": "破碎虚空",
+      "target_term": "Phá toái hư không",
+      "category": "cultivation",
+      "source_project": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
+      "confidence": "high",
+      "notes": "Shattering the Void/Ascension",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0438",
+      "source_term": "武神山",
+      "target_term": "Núi Võ Thần",
+      "category": "location",
+      "source_project": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
+      "confidence": "high",
+      "notes": "Martial God Mountain",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0439",
+      "source_term": "天机阁",
+      "target_term": "Thiên Cơ Các",
+      "category": "worldbuilding",
+      "source_project": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
+      "confidence": "high",
+      "notes": "Heavenly Secret Pavilion (Ranking organization)",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0440",
+      "source_term": "斗兽棋",
+      "target_term": "Đấu thú kỳ",
+      "category": "terminology",
+      "source_project": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
+      "confidence": "high",
+      "notes": "Evolution Chess/Beast Chess",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0441",
+      "source_term": "咫尺天涯",
+      "target_term": "Chỉ xích thiên nhai",
+      "category": "technical_terms",
+      "source_project": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
+      "confidence": "high",
+      "notes": "Space-shrinking technique",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0442",
+      "source_term": "道心种魔",
+      "target_term": "Đạo Tâm Chủng Ma",
+      "category": "cultivation",
+      "source_project": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
+      "confidence": "high",
+      "notes": "Dao Heart Demon Seed (Brainwashing technique)",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0444",
+      "source_term": "天子令",
+      "target_term": "Thiên Tử lệnh",
+      "category": "technical_terms",
+      "source_project": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
+      "confidence": "high",
+      "notes": "Emperor's Decree/Heavenly Mandate",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0445",
+      "source_term": "圣门",
+      "target_term": "Thánh môn",
+      "category": "worldbuilding",
+      "source_project": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
+      "confidence": "high",
+      "notes": "Saint Gate/Holy Sect",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0446",
+      "source_term": "仿生人",
+      "target_term": "Người phỏng sinh",
+      "category": "terminology",
+      "source_project": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
+      "confidence": "high",
+      "notes": "Bionic person/Android",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0447",
+      "source_term": "梦衣",
+      "target_term": "Mộng Y",
+      "category": "cultivation",
+      "source_project": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
+      "confidence": "high",
+      "notes": "Dream Raiment/Dream Shroud",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0448",
+      "source_term": "藏经阁",
+      "target_term": "Tàng Kinh Các",
+      "category": "location",
+      "source_project": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
+      "confidence": "high",
+      "notes": "Library/Scripture Repository",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0449",
+      "source_term": "焚书坑儒",
+      "target_term": "Đốt sách chôn nho",
+      "category": "terminology",
+      "source_project": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
+      "confidence": "high",
+      "notes": "Burning books and burying scholars (Historical reference)",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0450",
+      "source_term": "副本秘境",
+      "target_term": "Phó bản bí cảnh",
+      "category": "worldbuilding",
+      "source_project": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
+      "confidence": "high",
+      "notes": "Instance/Secret Realm",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0451",
+      "source_term": "铁级武学",
+      "target_term": "Võ học cấp sắt",
+      "category": "cultivation",
+      "source_project": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
+      "confidence": "high",
+      "notes": "Iron-rank martial arts",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0452",
+      "source_term": "走火入魔",
+      "target_term": "Tẩu hỏa nhập ma",
+      "category": "terminology",
+      "source_project": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
+      "confidence": "high",
+      "notes": "Qi Deviation",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0453",
+      "source_term": "一品",
+      "target_term": "Nhất phẩm",
+      "category": "terminology",
+      "source_project": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
+      "confidence": "high",
+      "notes": "First-rank (sect/grade)",
       "locked": false
     }
   ]

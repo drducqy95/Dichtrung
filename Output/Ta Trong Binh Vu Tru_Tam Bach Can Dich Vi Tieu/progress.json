@@ -1,0 +1,709 @@
+{
+  "project_name": "Ta Trong Binh Vu Tru",
+  "total_chapters": 3666,
+  "completed_chapters": 115,
+  "last_processed_chapter": 115,
+  "chapters": [
+    {
+      "id": 1,
+      "title": "Bệnh nhân tâm thần Sáng Thế Thần",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.565577"
+    },
+    {
+      "id": 2,
+      "title": "Cuộc chiến thần thoại sử thi trong căn phòng",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.565646"
+    },
+    {
+      "id": 3,
+      "title": "Cái chết của Bàn Cổ",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.565657"
+    },
+    {
+      "id": 4,
+      "title": "Sáng thế, diệt thế, cự thần ngoài vách ngăn pha lê",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.565665"
+    },
+    {
+      "id": 5,
+      "title": "Sự ra đời của cá",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.565672"
+    },
+    {
+      "id": 6,
+      "title": "Ngày thường, sự thay đổi siêu năng lực của cơ thể",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.565680"
+    },
+    {
+      "id": 7,
+      "title": "Đế quốc đại dương, lần giáng lâm thứ hai của Thần",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.565695"
+    },
+    {
+      "id": 8,
+      "title": "Đấu trí đấu dũng, ván cờ đầu tiên giữa Ngoại Thần và phàm nhân",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.565703"
+    },
+    {
+      "id": 9,
+      "title": "Cuộc diệt thế thứ hai của Thần",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.565712"
+    },
+    {
+      "id": 10,
+      "title": "Phái đội tiên phong thăm dò thế giới",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.565720"
+    },
+    {
+      "id": 100,
+      "title": "Phá vỡ vách ngăn pha lê",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.565728"
+    },
+    {
+      "id": 11,
+      "title": "Kiểm kê xác chết, bản vẽ Cự Long nguyên thủy",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.565736"
+    },
+    {
+      "id": 12,
+      "title": "Cấu tưởng về việc tạo ra sinh mệnh",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.565746"
+    },
+    {
+      "id": 13,
+      "title": "Sự trỗi dậy của người Atabia",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.565758"
+    },
+    {
+      "id": 14,
+      "title": "Đế quốc vây quét, Quang Minh giáo hội đột phá",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.565766"
+    },
+    {
+      "id": 15,
+      "title": "Nghèo đến mức phát khiếp",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.565775"
+    },
+    {
+      "id": 16,
+      "title": "Phương thức kiếm tiền",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.565783"
+    },
+    {
+      "id": 17,
+      "title": "Đêm trước trận quyết chiến của văn minh",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.565791"
+    },
+    {
+      "id": 18,
+      "title": "Tháp Babel hai mươi sáu tầng",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.565799"
+    },
+    {
+      "id": 19,
+      "title": "Thần!",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.565807"
+    },
+    {
+      "id": 20,
+      "title": "Thế giới này không có Thần",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.565815"
+    },
+    {
+      "id": 21,
+      "title": "Đối thoại",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.565823"
+    },
+    {
+      "id": 22,
+      "title": "Sinh mệnh trọng sinh",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.565831"
+    },
+    {
+      "id": 23,
+      "title": "Thần phạt, Ngày phán xét cuối cùng",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.565839"
+    },
+    {
+      "id": 24,
+      "title": "Thế giới mạt nhật",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.565848"
+    },
+    {
+      "id": 25,
+      "title": "Tinh Linh vương ngã xuống, Thế Giới Thụ ra đời",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.565859"
+    },
+    {
+      "id": 26,
+      "title": "Kế hoạch gia cố thế giới",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.565868"
+    },
+    {
+      "id": 27,
+      "title": "Sóng bức xạ thần bí",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.565879"
+    },
+    {
+      "id": 28,
+      "title": "Giáng lâm",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.565888"
+    },
+    {
+      "id": 29,
+      "title": "Quân quyền thần thụ",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.565896"
+    },
+    {
+      "id": 30,
+      "title": "Nỗi sợ trường sinh, chúng ta của tương lai",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.565904"
+    },
+    {
+      "id": 31,
+      "title": "Quang Minh giáo đoàn quốc",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.565911"
+    },
+    {
+      "id": 32,
+      "title": "Nút thắt kỹ thuật",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.565947"
+    },
+    {
+      "id": 33,
+      "title": "Kiếm thêm",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.565956"
+    },
+    {
+      "id": 34,
+      "title": "Hình thái sơ khai của chúng thần, Lạc viên đã mất",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.565964"
+    },
+    {
+      "id": 35,
+      "title": "Nguyên tội",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.565972"
+    },
+    {
+      "id": 36,
+      "title": "Thời đại chúng thánh, Kỷ nguyên Tinh Linh!",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.565980"
+    },
+    {
+      "id": 37,
+      "title": "Thuật luyện kim sinh mệnh, Thần giáng lâm",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.565989"
+    },
+    {
+      "id": 38,
+      "title": "Tham vọng của loài Ma thú Nhện",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566094"
+    },
+    {
+      "id": 39,
+      "title": "Tinh Linh bước ra khỏi phòng thí nghiệm",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566110"
+    },
+    {
+      "id": 40,
+      "title": "Trí não giản đơn",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566121"
+    },
+    {
+      "id": 41,
+      "title": "Nuôi 'lốp dự phòng'",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566129"
+    },
+    {
+      "id": 42,
+      "title": "Mở ra thời đại Thần thuật",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566137"
+    },
+    {
+      "id": 43,
+      "title": "Tân vương đăng cơ",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566160"
+    },
+    {
+      "id": 44,
+      "title": "Lời lầm bầm của Tà Thần",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566171"
+    },
+    {
+      "id": 45,
+      "title": "Lưu Ly Thần Nhãn, Thời gian Thần linh",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566179"
+    },
+    {
+      "id": 46,
+      "title": "Sức mạnh truyền thụ",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566186"
+    },
+    {
+      "id": 47,
+      "title": "Sáng tạo thế giới của ta",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566194"
+    },
+    {
+      "id": 48,
+      "title": "Cuộc phiêu lưu kỳ thú của Thánh nữ Tinh Linh",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566201"
+    },
+    {
+      "id": 49,
+      "title": "Sấm sét giáng lâm",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566209"
+    },
+    {
+      "id": 50,
+      "title": "Va chạm",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566216"
+    },
+    {
+      "id": 51,
+      "title": "Quy tắc chiến tranh của bốn đại tạo vật",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566223"
+    },
+    {
+      "id": 52,
+      "title": "Chiến tranh",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566231"
+    },
+    {
+      "id": 53,
+      "title": "Khởi đầu của thần thoại",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566239"
+    },
+    {
+      "id": 54,
+      "title": "Thế giới Ma thú, khởi nguồn của thế kỷ siêu phàm",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566247"
+    },
+    {
+      "id": 55,
+      "title": "Nguồn gốc của trận quyết chiến",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566255"
+    },
+    {
+      "id": 56,
+      "title": "Phong bão tiền tịch",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566262"
+    },
+    {
+      "id": 57,
+      "title": "Tìm kiếm pháp cứu thế",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566269"
+    },
+    {
+      "id": 58,
+      "title": "Liên tiếp nhập nhị cảnh, phá nhập giai tầng sinh mệnh",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566281"
+    },
+    {
+      "id": 59,
+      "title": "Thử thách vận mệnh của thần, vương miện sáu gai nhọn",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566288"
+    },
+    {
+      "id": 60,
+      "title": "Kích hóa",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566297"
+    },
+    {
+      "id": 61,
+      "title": "Thần Long trong tế bào",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566322"
+    },
+    {
+      "id": 62,
+      "title": "Cú đấm kinh thiên động địa",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566339"
+    },
+    {
+      "id": 63,
+      "title": "Món quà từ máu ác ma",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566349"
+    },
+    {
+      "id": 64,
+      "title": "Đệ ngũ cảnh và cuối đời",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566356"
+    },
+    {
+      "id": 65,
+      "title": "Chuyện cũ kỷ nguyên, thời đại của ngươi và ta",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566374"
+    },
+    {
+      "id": 66,
+      "title": "Câu chuyện của ngươi, Thần đã chứng kiến",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566387"
+    },
+    {
+      "id": 67,
+      "title": "Thời đại chung yên",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566395"
+    },
+    {
+      "id": 68,
+      "title": "Cánh cửa chân lý, vương quyền giao thế",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566410"
+    },
+    {
+      "id": 69,
+      "title": "Sáng tạo hai đại chủng tộc siêu phàm",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566429"
+    },
+    {
+      "id": 70,
+      "title": "Nghĩa địa của người Atabia",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566436"
+    },
+    {
+      "id": 71,
+      "title": "Những luồng hào quang cuối cùng",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566447"
+    },
+    {
+      "id": 72,
+      "title": "Sự trỗi dậy của Sylph",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566454"
+    },
+    {
+      "id": 73,
+      "title": "Suzanne làm chuyện",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566461"
+    },
+    {
+      "id": 74,
+      "title": "Hiển thánh trước mặt người, hành trình kỳ ảo",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566474"
+    },
+    {
+      "id": 75,
+      "title": "Gia tộc chúng ta sắp trở thành siêu phàm rồi!",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566481"
+    },
+    {
+      "id": 76,
+      "title": "Sự ra đời của Lôi Thần",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566487"
+    },
+    {
+      "id": 77,
+      "title": "Phòng thí nghiệm đại não của ta, Thần Quốc",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566504"
+    },
+    {
+      "id": 78,
+      "title": "Tinh không, ở ngay đó",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566510"
+    },
+    {
+      "id": 79,
+      "title": "Cho các ngươi xem cho sướng",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566517"
+    },
+    {
+      "id": 80,
+      "title": "Mở lại Cánh cửa Chân lý",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566523"
+    },
+    {
+      "id": 81,
+      "title": "Tập kích, lên ngôi tân vương",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566530"
+    },
+    {
+      "id": 82,
+      "title": "Vị hoàng đế điên rồ táo bạo",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566536"
+    },
+    {
+      "id": 83,
+      "title": "Kỷ nguyên Ma võng, Thần điện trên không",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566543"
+    },
+    {
+      "id": 84,
+      "title": "Kẻ nuôi không quen",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566552"
+    },
+    {
+      "id": 85,
+      "title": "Tích lũy nền tảng",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566559"
+    },
+    {
+      "id": 86,
+      "title": "Nguy hiểm đáng sợ mới",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566568"
+    },
+    {
+      "id": 87,
+      "title": "Vương quốc Yêu tinh",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566575"
+    },
+    {
+      "id": 88,
+      "title": "Bố cục",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566582"
+    },
+    {
+      "id": 89,
+      "title": "Rương báu quái",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566592"
+    },
+    {
+      "id": 90,
+      "title": "Cổ lão thánh kiếm",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566600"
+    },
+    {
+      "id": 91,
+      "title": "Thần Yêu tinh Aurora",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566607"
+    },
+    {
+      "id": 92,
+      "title": "Ma quan hủy diệt thế giới",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566614"
+    },
+    {
+      "id": 93,
+      "title": "Sự dịu dàng của diệt thế",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566625"
+    },
+    {
+      "id": 94,
+      "title": "Thiết lập quy tắc vũ trụ hệ vách ngăn pha lê!",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566631"
+    },
+    {
+      "id": 95,
+      "title": "Thâm Uyên tận thế, trận chiến thần khủng khiếp",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566642"
+    },
+    {
+      "id": 96,
+      "title": "Thời đại Mộ kiếm",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566648"
+    },
+    {
+      "id": 97,
+      "title": "Chuẩn bị, nguồn vốn cho sa bàn mới",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566655"
+    },
+    {
+      "id": 98,
+      "title": "Tập kích",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566662"
+    },
+    {
+      "id": 99,
+      "title": "Người cha nhân từ, chiếu sáng con đường tương lai",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566671"
+    },
+    {
+      "id": 101,
+      "title": "Đợi ngươi trên vương tọa",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566678"
+    },
+    {
+      "id": 102,
+      "title": "Hỗn độn cổ quan, bán thần viễn cổ ngủ say",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566684"
+    },
+    {
+      "id": 103,
+      "title": "Vị vua cuối cùng trong sương mù",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566691"
+    },
+    {
+      "id": 104,
+      "title": "Chúng ta, đã không cần Phụ thân nữa rồi",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566707"
+    },
+    {
+      "id": 105,
+      "title": "Cựu Phụ đã chết",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566714"
+    },
+    {
+      "id": 106,
+      "title": "Chư thần Hoàng hôn, thế giới siêu phàm ra đời",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566722"
+    },
+    {
+      "id": 107,
+      "title": "Phân chia cảnh giới, biến cố của Aurora",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566729"
+    },
+    {
+      "id": 108,
+      "title": "Bất động sản siêu to khổng lồ của ta",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566736"
+    },
+    {
+      "id": 109,
+      "title": "Kỷ nguyên Mùa Đông",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566742"
+    },
+    {
+      "id": 110,
+      "title": "Xuyên không - Giấy báo nhập học của học viện ma pháp",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566751"
+    },
+    {
+      "id": 111,
+      "title": "Phim truyền hình thần thoại quy mô lớn - Sự khao khát của Herodotus",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566758"
+    },
+    {
+      "id": 112,
+      "title": "Sự biến dị của cơ thể",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566766"
+    },
+    {
+      "id": 113,
+      "title": "Cơn sốt mạng, ta cũng muốn xuyên không",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566774"
+    },
+    {
+      "id": 114,
+      "title": "Nhập học",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566780"
+    },
+    {
+      "id": 115,
+      "title": "Cuộc hành trình mộng ảo",
+      "status": "COMPLETED",
+      "translated_at": "2026-05-07T05:54:21.566787"
+    }
+  ],
+  "last_updated": "2026-05-07T11:55:47.272845",
+  "workflow_artifacts": {
+    "branch_readme": "README.md",
+    "converter_db_ready": true,
+    "ebook_toc": "ebook/toc.md",
+    "illustration_manifest": "ebook/illustration_manifest.json"
+  },
+  "meta": {
+    "last_updated": "2026-05-07T11:55:47.272834",
+    "current_phase": "Sanitization 55-60"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "common_pronouns": {
+    "I": "ta",
+    "you": "ngươi",
+    "he": "hắn",
+    "she": "nàng",
+    "they": "chúng"
+  },
+  "specific_pronouns": {
+    "Lý Khanh": {
+      "self": "ta",
+      "to_others": "các ngươi",
+      "others_to_him": "Ngài / Thần / Ngoại Thần"
+    },
+    "Atabia": {
+      "self": "trẫm / ta",
+      "to_others": "các ngươi / ái khanh",
+      "others_to_him": "Bệ hạ / Hoàng đế"
+    },
+    "Elise": {
+      "self": "ta / bản tôn",
+      "others_to_her": "Thánh nữ / Ma vương / Nàng / Tân Phụ"
+    },
+    "Herodotus": {
+      "self": "ta / lão phu",
+      "others_to_him": "Trí giả / Bệ hạ"
+    },
+    "Suzanne": {
+      "self": "tôi / mình",
+      "others_to_her": "cô / Suzanne / nàng"
+    },
+    "Walton": {
+      "self": "tôi / ta",
+      "others_to_him": "ông / Walton / lão già"
+    },
+    "Athol": {
+      "self": "tôi / mình",
+      "others_to_him": "cậu / Athol"
+    }
+  }
+}

@@ -64,7 +64,11 @@ def process_files(filepaths, log_func):
 
             md_text = md(str(soup), heading_style="ATX")
 
-            pattern = re.compile(r'(?m)^#+\s+(.*(?:Chương|Hồi|Phần|Quyển|Tiết|Chapter|章|篇|卷|回).*)$', re.IGNORECASE)
+            # Regex tinh chỉnh:
+            # 1. Bắt đầu dòng (có thể có #)
+            # 2. Theo sau là các từ khóa Chapter/Chương... hoặc pattern 第...章
+            # 3. Tránh khớp các từ đơn lẻ như '回', '章' ở giữa câu.
+            pattern = re.compile(r'(?m)^(?:#+\s+)?((?:Chương|Hồi|Phần|Quyển|Tiết|Chapter|第\s*\d+\s*[章节回篇卷])(?:\s+.*)?)$', re.IGNORECASE)
             matches = list(pattern.finditer(md_text))
 
             if not matches:

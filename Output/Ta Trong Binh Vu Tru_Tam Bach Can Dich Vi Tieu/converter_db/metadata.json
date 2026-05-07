@@ -1,0 +1,28 @@
+{
+  "branch": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
+  "project_name": "Ta Trong Binh Vu Tru",
+  "display_title": "Ta Trong Bình Vũ Trụ",
+  "author": "Tam Bách Cân Đích Vi Tiếu",
+  "genre": "eastern_fiction",
+  "sub_genre": "evolution_scifi",
+  "backdrop": "Thế giới vi mô nằm trong một phòng thí nghiệm của 'bệnh nhân tâm thần' Lý Khanh, nơi các nền văn minh đơn bào phát triển và diệt vong dưới sự quan sát của Ngoại Thần.",
+  "summary": "Lý Khanh phát hiện mình có khả năng 'Thức tỉnh' vi sinh vật. Anh bắt đầu thí nghiệm trong một bình thủy tinh, tạo ra nền văn minh Atabia. Câu chuyện là cuộc đấu trí giữa các 'phàm nhân' kiến tí và vị 'Ngoại Thần' nắm giữ quyền sinh sát tối thượng.",
+  "notes": null,
+  "source_ref": {
+    "full": "Source/Source full/Ta Trong Bình Vũ Trụ_Tam Bách Cân Đích Vi Tiếu.txt",
+    "split": "Source/Source split/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu/",
+    "description": "Source nằm ở thư mục gốc, KHÔNG copy vào branch"
+  },
+  "completed_chapters": 115,
+  "total_chapters": 3666,
+  "output_filename_pattern_display": "Chương {chapter:04d}: {title}.md",
+  "output_filename_pattern_filesystem": "Chương {chapter:04d} - {title}.md",
+  "output_filename_constraint_note": "Windows không cho phép ký tự ':' trong tên file, vì vậy pattern lưu trên đĩa dùng dấu gạch ngang.",
+  "style_tags": [
+    "sáng thế",
+    "vi mô",
+    "sử thi",
+    "khoa học viễn tưởng"
+  ],
+  "generated_at": "2026-05-07T10:37:39+07:00"
+}
