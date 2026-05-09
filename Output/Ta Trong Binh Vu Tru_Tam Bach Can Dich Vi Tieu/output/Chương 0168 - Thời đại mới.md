@@ -14,7 +14,7 @@ Sau khi văn minh này nhận thức được sự tồn tại của linh hồn,
 Đúng là một bước tiến khổng lồ của thời đại.
 
 "Họ định dùng loại kim loại này để chế tạo vật liệu hàng không vũ trụ sao?"
-Đôi mắt anh không ngừng phóng đại, tiến vào góc nhìn của kính hiển vi:
+Đôi mắt hắn không ngừng phóng đại, tiến vào góc nhìn của kính hiển vi:
 "Tỷ lệ vàng rất lớn... quả nhiên mình xây cây hoàng kim là không sai, trước đó mình đã phát hiện ra vàng rất dễ chịu đối với linh hồn."
 
 Đây là nguyên lý ra đời tương tự như nam châm vậy.
@@ -31,11 +31,11 @@ Hồn kim có giá mà không có hàng, tinh thần niệm sư cũng là nhữn
 
 "Loại kim loại này có lẽ có rất nhiều công dụng."
 Lý Khanh quan sát kỹ lưỡng.
-Họ dùng loại kim loại này để mưu đồ chế tạo phi thuyền vũ trụ, bản thân anh muốn đưa ra biện pháp ứng phó thì nhất định phải hiểu rõ nó.
+Họ dùng loại kim loại này để mưu đồ chế tạo phi thuyền vũ trụ, bản thân hắn muốn đưa ra biện pháp ứng phó thì nhất định phải hiểu rõ nó.
 Huống hồ, đây vốn dĩ cũng là chuyện sớm muộn gì cũng phải học.
 
 Rắc!
-Tinh thần lực khổng lồ của anh dễ dàng tưới tắm cho một miếng hợp kim đặc biệt, biến nó thành một miếng hồn kim mới tinh, từ đó nảy ra một số ý tưởng kỳ diệu.
+Tinh thần lực khổng lồ của hắn dễ dàng tưới tắm cho một miếng hợp kim đặc biệt, biến nó thành một miếng hồn kim mới tinh, từ đó nảy ra một số ý tưởng kỳ diệu.
 Sinh mệnh cơ khí, hay là khí linh của pháp bảo...
 
 Đương nhiên, ý tưởng này không chỉ Lý Khanh có, mà gã tiến sĩ người biến chủng sát vách là Lục Láp cũng có.
@@ -122,7 +122,7 @@ Năm thứ 2 sau tận thế, tân nhân loại bắt đầu sinh ra lứa trẻ
 Năm thứ 3 sau tận thế, Giáo phụ kết xã bắt đầu suy thoái mạnh mẽ, dường như chỉ là một hình ảnh thu nhỏ của thời đại, một hiện tượng ngắn ngủi mang tính quá độ.
 Cùng năm đó, giáo phái cơ khí sư bắt đầu bùng nổ, tinh thần niệm sư bắt đầu thực sự phát huy sức mạnh.
 
-Năm thứ 4 sau tận thế, công ty người khổng lồ Asol xây dựng công ty người phỏng sinh ở Detroit, siêu AI hoàn toàn ra đời, đủ loại quản gia người phỏng sinh, cảnh sát phụ trợ, hầu gái, bạn đời bắt đầu bước vào tầm mắt công chúng.
+Năm thứ 4 sau tận thế, công ty người khổng lồ Athol xây dựng công ty người phỏng sinh ở Detroit, siêu AI hoàn toàn ra đời, đủ loại quản gia người phỏng sinh, cảnh sát phụ trợ, hầu gái, bạn đời bắt đầu bước vào tầm mắt công chúng.
 
 "Chúng ta đã mang tất cả tương lai trong phim ảnh tới đây!"
 Có người gào thét.

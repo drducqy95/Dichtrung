@@ -16,15 +16,15 @@ Cảm giác cũng có chút thú vị.
 
 Lý Khanh suy ngẫm một lúc, nở một nụ cười nhạt: "Đúng là đang tìm kiếm một vài khả năng thúc đẩy văn minh cho mình."
 
-Học viện pháp sư ngoài đời thực này, tương tự như học viện ma pháp Harry Potter ẩn giấu trong những khe hở của hiện thực, âm thầm kết nối với dị giới, lặng lẽ phát triển, điều này có ý nghĩa về nhiều mặt đối với anh.
+Học viện pháp sư ngoài đời thực này, tương tự như học viện ma pháp Harry Potter ẩn giấu trong những khe hở của hiện thực, âm thầm kết nối với dị giới, lặng lẽ phát triển, điều này có ý nghĩa về nhiều mặt đối với hắn.
 
 Đây là chuyện tốt.
 
 Mọi khả năng mà kích thước nhỏ ở thế giới Thâm Uyên, thế giới Tinh Linh có thể sử dụng, không có nghĩa là kích thước con người cũng có thể dùng được.
 
-Học viện này của họ, từng pháp sư bôn ba khắp nơi nghiên cứu, các đề tài môn học của họ tương đương với việc nghiên cứu phát triển công nghệ chuyển đổi "kích thước lớn" cho anh.
+Học viện này của họ, từng pháp sư bôn ba khắp nơi nghiên cứu, các đề tài môn học của họ tương đương với việc nghiên cứu phát triển công nghệ chuyển đổi "kích thước lớn" cho hắn.
 
-Dù sao, vốn dĩ anh cũng phải chinh phục công nghệ, mở rộng kích thước cơ thể.
+Dù sao, vốn dĩ hắn cũng phải chinh phục công nghệ, mở rộng kích thước cơ thể.
 
 "Sylph, cô ấy có một số công nghệ khá đặc biệt."
 
@@ -32,7 +32,7 @@ Dù sao, vốn dĩ anh cũng phải chinh phục công nghệ, mở rộng kích
 
 "Mục tiêu của cô ấy là biến Naga Cự Thần của mình thành một máy tính sinh học cấp hành tinh, chỉ cần một chiếc là có thể hỗ trợ tính toán cho cả xã hội hành tinh."
 
-Nếu không phải như vậy, cô ấy cũng không thể dễ dàng phóng to những vật liệu nhỏ bên trong theo tỉ lệ như thế. Đây không phải là sáng tạo, nhưng lại cần sức mạnh tính toán siêu khổng lồ trên nền tảng đã có.
+Nếu không phải như vậy, cô ta cũng không thể dễ dàng phóng to những vật liệu nhỏ bên trong theo tỉ lệ như thế. Đây không phải là sáng tạo, nhưng lại cần sức mạnh tính toán siêu khổng lồ trên nền tảng đã có.
 
 Các hệ số cấu trúc hỗ trợ, tái lập trình trình tự, đều cần được chỉnh sửa.
 
@@ -40,9 +40,9 @@ Các hệ số cấu trúc hỗ trợ, tái lập trình trình tự, đều c�
 
 Đây mới là chính sự!
 
-Nhìn xem Hi La Đa Đức, Minis, Elise, những vị thần sáng tạo này đều dần lệch khỏi ý định ban đầu.
+Nhìn xem Herodotus, Minis, Elise, những vị thần sáng tạo này đều dần lệch khỏi ý định ban đầu.
 
-Suốt ngày chém chém giết giết, là một vị tướng quân, một vị thần vương, một kẻ điên, nhưng hoàn toàn không phải là một vị thần sáng tạo. Họ đã không còn thuần túy như cô ấy, người luôn kiên trì giữ vững thân phận Đấng Sáng Thế ban đầu.
+Suốt ngày chém chém giết giết, là một vị tướng quân, một vị thần vương, một kẻ điên, nhưng hoàn toàn không phải là một vị thần sáng tạo. Họ đã không còn thuần túy như cô ta, người luôn kiên trì giữ vững thân phận Đấng Sáng Thế ban đầu.
 
 Và mã nguồn sinh mệnh được biên dịch dưới máy tính siêu cấp này trông có vẻ lợi hại sao?
 
@@ -90,7 +90,7 @@ Bên ngoài, trông mình có vẻ cao quý, huyền bí, đẳng cấp rất ca
 
 Nhưng nỗi đau khổ ẩn giấu bên trong chỉ có mình mình biết, thuộc loại ngậm bồ hòn làm ngọt.
 
-Cô ấy thật sự quá khó khăn.
+Cô ta thật sự quá khó khăn.
 
 "Trong thời gian qua, mình luôn nghiên cứu cách tái biên dịch, nhân bản sang thế giới loài người kia, nay cũng đã có chút thành quả."
 
@@ -120,7 +120,7 @@ Họ đều có lớp vỏ cơ giáp khổng lồ rồi, một Thế Giới Th�
 
 Chẳng lẽ không xây dựng một tháp Babel thực sự trong hiện thực, dựng lên một vị khổng lồ hùng vĩ sao??
 
-Con người trong sa bàn mới mà anh chuẩn bị cao mười centimet.
+Con người trong sa bàn mới mà hắn chuẩn bị cao mười centimet.
 
 Khoảng bằng một chiếc bút chì, theo Lý Khanh thấy đây là một tỉ lệ hoàn hảo.
 
@@ -134,7 +134,7 @@ Mục tiêu của Lý Khanh là khoảng một ngàn mét.
 
 Dù sao điều kiện hiện tại có hạn.
 
-Lớn hơn đối phương một vạn lần là đủ rồi, mặc dù anh có chút tham vọng nhưng cũng chỉ tham vọng một chút thôi, vẫn có tự biết mình.
+Lớn hơn đối phương một vạn lần là đủ rồi, mặc dù hắn có chút tham vọng nhưng cũng chỉ tham vọng một chút thôi, vẫn có tự biết mình.
 
 Thực sự muốn làm tỉ lệ hoàn chỉnh sao?
 
@@ -163,7 +163,7 @@ Xương cốt kim loại, bánh răng kim loại, không thành vấn đề.
 
 "Những sinh mệnh Trái Đất phổ biến chỉ cần được ghi lại trong cơ sở dữ liệu, ta có thể tùy ý sáng tạo và khâu vá. Nhưng vẫn không được chủ quan, sau cảnh giới thứ ba mới là con đường thực sự của sinh mệnh."
 
-Vẻ mặt anh bình tĩnh.
+Vẻ mặt hắn bình tĩnh.
 
 Ba cảnh giới đầu là sáng tạo chủng tộc.
 
@@ -173,9 +173,9 @@ Suốt chặng đường, Lý Khanh không ngừng quy hoạch, không ngừng p
 
 Từng lần đào sâu, nay đã đào đến độ dày trần nhà hơn bốn ngàn mét rồi.
 
-Anh thậm chí cảm thấy mình dứt khoát cứ thế tiếp tục đục lỗ, đào xuyên qua lớp vỏ Trái Đất ngoài cùng, xem khi nào thì tìm thấy dung nham manti, rồi xây dựng phòng khách ở đó.
+Hắn thậm chí cảm thấy mình dứt khoát cứ thế tiếp tục đục lỗ, đào xuyên qua lớp vỏ Trái Đất ngoài cùng, xem khi nào thì tìm thấy dung nham manti, rồi xây dựng phòng khách ở đó.
 
-Anh cảm thấy mình có chút liều lĩnh.
+Hắn cảm thấy mình có chút liều lĩnh.
 
 Nhưng cũng chỉ liều lĩnh một chút thôi.
 

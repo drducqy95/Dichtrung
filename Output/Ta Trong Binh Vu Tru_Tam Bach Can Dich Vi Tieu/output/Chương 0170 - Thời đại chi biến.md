@@ -28,7 +28,7 @@ Những người này, đam mê nuôi Cha, làm "phụ nhị đại" (đời th�
 Elize thì đam mê sát phụ, quản giết không quản chôn, kẻ nào ngáng đường đều chém chết hết.
 
 Nhưng hai bên đều là một cực đoan, đều cực kỳ hợp lý.
-Và Cha có thực sự chỉ người cha không, "Cha" chỉ là một danh xưng, anh có thể là Cha, hắn có thể là Cha, tôi cũng có thể là Cha.
+Và Cha có thực sự chỉ người cha không, "Cha" chỉ là một danh xưng, hắn có thể là Cha, hắn có thể là Cha, tôi cũng có thể là Cha.
 Thần trên trời chết rồi, người dưới đất liền trở thành Cha mới.
 
 Chẳng qua là, Cha đang dẫn dắt, Cha đang che chở con đường tương lai, Cha mục nát trở thành ác long nô dịch con cái, cản trở sự tiến bộ thì lật đổ ông ta.
@@ -36,10 +36,10 @@ Chẳng qua là, Cha đang dẫn dắt, Cha đang che chở con đường tươn
 Thậm chí còn có những cách hiểu sâu sắc hơn, tùy tiện bắt lấy một sinh viên ngành văn nào đó đại khái cũng có thể viết ra một loạt bài luận dài dằng dặc.
 
 "Có quy luật trong đó, nhưng tôi không muốn nghiên cứu quá nhiều."
-Anh đứng dậy mỉm cười.
+Hắn đứng dậy mỉm cười.
 Bất giác nhớ tới vị thâm uyên nữ đế Elize, người mẹ đầu tiên trên đại địa, người đã thét gào hướng tới bầu trời, dẫn tới buổi hoàng hôn của chư thần trong thế giới Vu Sư.
 
-Gương mặt anh ôn hòa, thong thả đi tới quầy thu ngân thanh toán, bước vào dòng người đông đúc, thầm nghĩ:
+Gương mặt hắn ôn hòa, thong thả đi tới quầy thu ngân thanh toán, bước vào dòng người đông đúc, thầm nghĩ:
 "Đời người khó được lúc hồ đồ."
 
 Lý Khanh về đến nhà, thấy sát vách Suzanne đang ngồi hóng mát trước cửa.

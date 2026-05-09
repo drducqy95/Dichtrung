@@ -142,7 +142,7 @@ Mà tính toán kỹ ra, bất kể là trong mơ hay trong lịch sử thực s
 "Cô ấy chưa từng thay đổi, cô ấy vẫn là chính mình."
 "Mặc dù ở vị thế đối lập, thế giới của chúng ta bị Silph làm liên lụy mà hủy diệt, thậm chí chúng sinh của chúng ta bị cô ấy dị biến thành người để dùng vào việc kéo dài nhân loại... Nhưng lòng dũng cảm và sự vĩ đại của cô ấy, đứng từ góc độ nhân loại mà nói, thực sự không có gì để chê trách."
 
-Và khi đi theo một vị thần linh nhân loại vĩ đại và vô tư như vậy, trở thành chủng tộc của cô ấy, kế thừa nhân quả của nhân loại, dường như cũng không còn bài xích đến thế nữa.
+Và khi đi theo một vị thần linh nhân loại vĩ đại và vô tư như vậy, trở thành chủng tộc của cô ta, kế thừa nhân quả của nhân loại, dường như cũng không còn bài xích đến thế nữa.
 
 Giáo sư Lý Uyển Ninh, viện sĩ Suzanne, con gái Silph của họ, thực sự là những nút thắt quan trọng trong lịch sử nhân loại, không thể chối cãi.
 
@@ -151,12 +151,12 @@ Vô số người ca ngợi gia đình Lý Uyển Ninh, nhưng cũng có ngườ
 
 "Những bộ phim của ông ấy, những lịch sử được ghi lại, chúng ta mới có thể nhận thức được tất cả mọi thứ."
 
-Cũng có người ca ngợi Asol, nhưng nhiều hơn cả là có người cảm thấy sợ hãi.
+Cũng có người ca ngợi Athol, nhưng nhiều hơn cả là có người cảm thấy sợ hãi.
 "Asol cũng quay lại rồi sao, tuy là thần hộ mệnh của nhân loại, là siêu anh hùng, nhưng xin đừng tùy tiện xuất hiện ở nơi công cộng, sợ anh ta chỉ vì nhìn tôi thêm một cái giữa đám đông mà khiến tôi lập tức phải đi nghỉ đẻ mất."
 
 "Đừng có nhìn tôi!"
 Có người nổi hết cả da gà, những hình ảnh khủng bố trong phim vẫn còn rành rành trước mắt.
-Nói anh ta là người sao? Còn quái dị hơn cả zombie.
+Nói hắn là người sao? Còn quái dị hơn cả zombie.
 
 "Xin hãy nhìn tôi đi, tôi vẫn còn là một thiếu nữ chưa từng yêu đương, anh hùng Asol của tôi ơi, xin hãy làm cho tôi mang thai đi!" Đương nhiên, những fan nữ cuồng nhiệt nhanh chóng lên tiếng.
 

@@ -1,6 +1,6 @@
 ﻿# Chương 152: Nhà làm phim kỳ cựu Walton
 
-Asol mở mắt, mồ hôi lạnh đã thấm đẫm sống lưng.
+Athol mở mắt, mồ hôi lạnh đã thấm đẫm sống lưng.
 
 Hắn tỉnh dậy trong phòng thí nghiệm đổ nát này, nhìn núi rác vẫn là đủ loại mì tôm, đồ hộp chất đống, không nhịn được mà cười lớn:
 
@@ -28,7 +28,7 @@ Chỉ là đã xảy ra sự cố, dẫn tới tận thế zombie.
 "Đây là cỗ máy thời không của cậu sao?" Walton kinh ngạc.
 
 "Vâng, đúng vậy."
-Asol chỉ có thể nói như vậy, "Chúng ta ra ngoài xem thử xem có đúng là đã quay trở lại sáu tiếng trước khi tận thế bùng nổ không."
+Athol chỉ có thể nói như vậy, "Chúng ta ra ngoài xem thử xem có đúng là đã quay trở lại sáu tiếng trước khi tận thế bùng nổ không."
 
 Walton có chút do dự và sợ hãi, sợ rằng vừa ra khỏi cửa đã gặp phải thủy triều zombie.
 Nhưng thần sắc đấu tranh một hồi, cảm thấy sớm muộn gì cũng phải chết, nên cũng đi theo ra ngoài, nói với bên cạnh: "Marco, cậu bảo vệ chúng ta!"
@@ -50,9 +50,9 @@ Cái thế giới màu xám xịt tuyệt vọng và đau khổ đó, hắn khô
 "Thời không này có một ta khác không?"
 Walton lập tức nói: "Theo mốc thời gian này, ta đang ở trên xe, tới dự một cuộc họp giữa năm."
 
-"Chắc là không có một ông khác đâu!" Asol nói, trước đó thời không này cũng không có một hắn khác.
+"Chắc là không có một ông khác đâu!" Athol nói, trước đó thời không này cũng không có một hắn khác.
 
-Walton hít sâu một hơi, lập tức gọi điện thoại, bắt đầu thao tác giống như Asol, triệu tập tất cả các quan chức cấp cao của nhân loại.
+Walton hít sâu một hơi, lập tức gọi điện thoại, bắt đầu thao tác giống như Athol, triệu tập tất cả các quan chức cấp cao của nhân loại.
 
 "Đầu tiên, chúng ta phải đưa ra các biện pháp tương tự như lần trước của cậu, để họ tăng cường phòng bị."
 
@@ -66,12 +66,12 @@ Lũ lĩnh chủ zombie đó chắc hẳn cũng đã cùng xuyên không về v�
 Walton lấy ra một chiếc USB dung lượng siêu lớn mang từ thời tận thế về.
 
 "Cái này là?"
-Asol biết chiếc USB này là gì, Kế hoạch Mồi lửa Nhân loại, ghi chép lại lịch sử tận thế của nhân loại để lại cho hậu thế.
+Athol biết chiếc USB này là gì, Kế hoạch Mồi lửa Nhân loại, ghi chép lại lịch sử tận thế của nhân loại để lại cho hậu thế.
 Ít nhất, sau khi nhân loại diệt vong cũng không đến mức hoàn toàn biến mất trong lịch sử.
 
 "Trong này ghi lại quá trình tận thế bùng nổ, cùng với đủ loại biến hóa, cắt ghép một chút, đăng tải trực tiếp lên mạng!" Walton từ tốn nói.
 
-Asol mở to mắt: "Ông điên rồi! Trong đó có cả lịch sử đen tối của ông, đám phú hào các ông chính là nguyên nhân dẫn tới tận thế bùng nổ, nếu phát sóng ra ngoài thì..."
+Athol mở to mắt: "Ông điên rồi! Trong đó có cả lịch sử đen tối của ông, đám phú hào các ông chính là nguyên nhân dẫn tới tận thế bùng nổ, nếu phát sóng ra ngoài thì..."
 
 "Hãy nhớ kỹ, người dân có tư cách được biết sự thật!" Walton nói, "Chỉ có như vậy, họ mới có thể tiến hành ứng phó hoàn mỹ."
 
@@ -107,7 +107,7 @@ Walton của thế giới song song này không chỉ cùng dẫn dắt đội n
 Trong phòng bệnh cao cấp.
 Suzanne đang ngồi bên cạnh phòng bệnh của Lý Uyển Ninh, "Cảnh giới thời chiến đặc biệt, toàn dân trú ẩn tại nhà, và yêu cầu mở tivi? Đây là cái gì, sao lại đột ngột như vậy?"
 
-Sức ảnh hưởng của Walton không phải là thứ mà một nhà khoa học như Asol có thể so sánh được.
+Sức ảnh hưởng của Walton không phải là thứ mà một nhà khoa học như Athol có thể so sánh được.
 Lần trước các quan chức cấp cao còn nửa tin nửa ngờ, chỉ có thể nói mập mờ để mọi người diễn tập quân sự khẩn cấp, bây giờ Walton vừa lên tiếng, các biện pháp đã được triển khai một cách sấm sét ngay lập tức.
 Và công bố toàn bộ sự thật.
 

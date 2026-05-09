@@ -56,7 +56,7 @@ Rất nhanh.
 
 Một trí giả đã âm thầm lôi kéo vài nhóm nhỏ, bắt đầu lén lút thực hiện những thí nghiệm sinh mệnh tà ác.
 
-Họ bí mật bắt một bình dân, cải tạo cấu trúc cho anh ta, thêm vào lượng lớn dây thần kinh cảm giác đau, biến cơ thể anh ta trở nên vô cùng nhạy cảm và "mọng nước", rồi bắt đầu không ngừng dày vò tinh thần của người bình dân này.
+Họ bí mật bắt một bình dân, cải tạo cấu trúc cho hắn, thêm vào lượng lớn dây thần kinh cảm giác đau, biến cơ thể hắn trở nên vô cùng nhạy cảm và "mọng nước", rồi bắt đầu không ngừng dày vò tinh thần của người bình dân này.
 
 Mười lăm giờ sau.
 
@@ -64,7 +64,7 @@ Người bình dân này đau đớn mà chết, linh hồn tan biến, não b�
 
 Những kỹ sư này tận mắt nhìn thấy: Sự ra đời của một quái vật thịt vụn.
 
-Xác chết đơn bào vĩnh cửu trên ghế lái này, sau khi mất đi linh hồn, bắt đầu bò lổm ngổm một cách vô thức, và thôn phệ bộ máy cơ giáp ngoại cốt sống của anh ta — chính là loài cá — rồi tự mình sinh sôi vô tổ chức. Tế bào ung thư này đang lan rộng ra toàn thân, thôn phệ các tế bào bình thường.
+Xác chết đơn bào vĩnh cửu trên ghế lái này, sau khi mất đi linh hồn, bắt đầu bò lổm ngổm một cách vô thức, và thôn phệ bộ máy cơ giáp ngoại cốt sống của hắn ta — chính là loài cá — rồi tự mình sinh sôi vô tổ chức. Tế bào ung thư này đang lan rộng ra toàn thân, thôn phệ các tế bào bình thường.
 
 Con cá này biến thành một con quái vật người cá bằng thịt vụn gớm ghiếc đầy phong cách Cthulhu, không ngừng quằn quại.
 
@@ -82,33 +82,33 @@ Vài hiền giả thuộc phái khác xông vào: "Các anh dám âm thầm làm
 
 Lý Khanh "ngày làm đêm nghỉ".
 
-Sau khi ăn xong bữa sáng, anh cũng không giống như mọi khi, định kỳ đến cửa sổ sát đất pha lê để đợi Giáo hoàng truyền tin cho mình. Thay vào đó, anh bắt đầu một phương thức quan sát văn minh mới: Ý thức nhập vào con Thánh Long đang ngủ say, ngồi trên ghế, thong thả xem xét những thông tin vừa được báo cáo gần đây.
+Sau khi ăn xong bữa sáng, hắn cũng không giống như mọi khi, định kỳ đến cửa sổ sát đất pha lê để đợi Giáo hoàng truyền tin cho mình. Thay vào đó, hắn bắt đầu một phương thức quan sát văn minh mới: Ý thức nhập vào con Thánh Long đang ngủ say, ngồi trên ghế, thong thả xem xét những thông tin vừa được báo cáo gần đây.
 
 Lý Khanh nghiền ngẫm những thông tin gần đây, cảm thấy rất thú vị.
 
 Mình bảo các người hãy dốc sức tiêu diệt tế bào ung thư, kết quả các người trực tiếp "đi chệch hướng", suy luận đến việc các người có não hay không? Không hổ là các kỹ sư, biết suy một ra ba.
 
-Anh không ngừng quan sát, khóe miệng nở một nụ cười kỳ quái: "Thật lợi hại, bắt người rồi tiến hóa ra dây thần kinh cảm giác đau, sau đó dày vò ý thức đến chết, rồi sau khi chết, chúng thực sự biến thành một loại tế bào ung thư vĩnh cửu vô thứ tự sao?"
+Hắn không ngừng quan sát, khóe miệng nở một nụ cười kỳ quái: "Thật lợi hại, bắt người rồi tiến hóa ra dây thần kinh cảm giác đau, sau đó dày vò ý thức đến chết, rồi sau khi chết, chúng thực sự biến thành một loại tế bào ung thư vĩnh cửu vô thứ tự sao?"
 
 Khả năng hành động thật mạnh mẽ.
 
-Nhưng Lý Khanh cũng không biết tiến hóa loại não nào thì tốt hơn. Anh chỉ nghĩ rằng, việc họ tranh chấp về quan điểm cũng không tệ, dù sao cứ nhớ giải quyết xong kỹ thuật chữa trị ung thư cho mình là được.
+Nhưng Lý Khanh cũng không biết tiến hóa loại não nào thì tốt hơn. Hắn chỉ nghĩ rằng, việc họ tranh chấp về quan điểm cũng không tệ, dù sao cứ nhớ giải quyết xong kỹ thuật chữa trị ung thư cho mình là được.
 
 Thậm chí.
 
 Lý Khanh không những không giải đáp thắc mắc cho người dưới đất, mà còn tăng thêm khối lượng công việc cho họ.
 
-Sau khi rời đi, anh đã giáng xuống thần dụ trong giấc mơ của Thánh Long:
+Sau khi rời đi, hắn đã giáng xuống thần dụ trong giấc mơ của Thánh Long:
 1. Bảo họ hoàn thiện kỹ thuật chữa trị ung thư.
 2. Tiện thể tối ưu hóa kỹ thuật Tháp Babel, hoàn thiện việc xây dựng một bản vẽ gen sinh mệnh cho Tinh Linh Cự Thần.
 
 Yêu cầu của Lý Khanh không cao, tầm như hoàng đế Atabia lúc bấy giờ là được. Kiểu như cơ bắp teo tóp, đi vài bước là thở dốc của bệnh nhân trọng chứng cũng không sao, chủ yếu là ngoại hình phải đẹp, phải lừa được người.
 
-Lúc đó, vừa nhìn thấy sinh vật này, anh đã thấy nó có tai nhọn, tóc xanh, vóc dáng cao ráo hoàn mỹ, đúng chuẩn sinh vật thần thoại hoàn hảo trong phim ảnh, thế là cảm thấy rất muốn sở hữu.
+Lúc đó, vừa nhìn thấy sinh vật này, hắn đã thấy nó có tai nhọn, tóc xanh, vóc dáng cao ráo hoàn mỹ, đúng chuẩn sinh vật thần thoại hoàn hảo trong phim ảnh, thế là cảm thấy rất muốn sở hữu.
 
-Anh không phải kiểu người quy củ, anh là một "mãnh nam" thích chơi mô hình (hand-painted figure). Trước đó kế hoạch tạo ra một con rồng nhỏ đã thất bại, giờ đã có kỹ thuật sẵn có rồi, chẳng lẽ lại không làm một mô hình nhân vật Tinh Linh có kích thước như người thật?
+Hắn không phải kiểu người quy củ, hắn là một "mãnh nam" thích chơi mô hình (hand-painted figure). Trước đó kế hoạch tạo ra một con rồng nhỏ đã thất bại, giờ đã có kỹ thuật sẵn có rồi, chẳng lẽ lại không làm một mô hình nhân vật Tinh Linh có kích thước như người thật?
 
-Tất nhiên cũng không phải vì thực tế cô đơn quá mà muốn tìm một con búp bê. Mà là anh muốn tạo ra một phân thân Tinh Linh có thể điều khiển từ xa, để thuận tiện ra ngoài "giả thần giả quỷ". Dù sao chuyện kiếm tiền bằng cách chữa trị ung thư này, anh không thể lộ diện bằng thân xác thật của mình được, đúng không?
+Tất nhiên cũng không phải vì thực tế cô đơn quá mà muốn tìm một con búp bê. Mà là hắn muốn tạo ra một phân thân Tinh Linh có thể điều khiển từ xa, để thuận tiện ra ngoài "giả thần giả quỷ". Dù sao chuyện kiếm tiền bằng cách chữa trị ung thư này, hắn không thể lộ diện bằng thân xác thật của mình được, đúng không?
 
 Tộc Tinh Linh trong thần thoại rất phù hợp với thần thoại bản địa. Người ta tin cái đó!
 
@@ -118,9 +118,9 @@ Nếu có thể, lại làm thêm vài cái như Huyết tộc, Long tộc, Ma t
 
 Người giàu mà. Trước sự sợ hãi của cái chết, họ tin vào thần thánh ma quỷ là chuyện thường. Dù sao phim Marvel họ cũng xem nhiều rồi, chắc chắn là có tiềm năng. Chỉ cần "chém gió" một chút, bảo là chỉ cần có đủ cấp độ cống hiến, tương lai có thể nhận được huyết thống bán Tinh Linh, trường sinh bất tử, tự nhiên họ sẽ phát cuồng thôi.
 
-Tiền là một phương diện, thế lực lại là một phương diện khác. Anh dù sao cũng sống trên hành tinh này, anh chính là "thịt Đường Tăng", nếu không muốn sau khi bị phát hiện sẽ bị đưa lên bàn giải phẫu, thì phải lo liệu trước, tìm cách bảo vệ mình, che giấu mình.
+Tiền là một phương diện, thế lực lại là một phương diện khác. Hắn dù sao cũng sống trên hành tinh này, hắn chính là "thịt Đường Tăng", nếu không muốn sau khi bị phát hiện sẽ bị đưa lên bàn giải phẫu, thì phải lo liệu trước, tìm cách bảo vệ mình, che giấu mình.
 
-Thành lập một "Công ty Y tế Umbrella", chuyên âm thầm bảo vệ cho kẻ chủ mưu là anh, phục vụ cho anh, cung cấp tài nguyên và tư liệu để sáng tạo thế giới, đó mới là điều quan trọng nhất.
+Thành lập một "Công ty Y tế Umbrella", chuyên âm thầm bảo vệ cho kẻ chủ mưu là hắn, phục vụ cho hắn, cung cấp tài nguyên và tư liệu để sáng tạo thế giới, đó mới là điều quan trọng nhất.
 
 "Nếu thế giới này không có Công ty Umbrella nghiên cứu virus zombie như Ninh Quốc Xương nói, vậy tôi sẽ tự mình xây dựng một Công ty Y tế Umbrella."
 
@@ -130,5 +130,5 @@ Thành lập một "Công ty Y tế Umbrella", chuyên âm thầm bảo vệ cho
 
 "Hạn chế duy nhất đối với họ là không được tiết lộ dù chỉ một chút nội dung ra bên ngoài, vì đã có Tam Thi Não Thần Đan."
 
-Dưới sự quy hoạch đại khái của Lý Khanh, một tổ chức bí mật phục vụ cho anh và thúc đẩy tiến trình văn minh đã dần hình thành nguyên mẫu.
+Dưới sự quy hoạch đại khái của Lý Khanh, một tổ chức bí mật phục vụ cho hắn và thúc đẩy tiến trình văn minh đã dần hình thành nguyên mẫu.
 

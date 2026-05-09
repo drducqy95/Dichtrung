@@ -2,27 +2,27 @@
 
 "Chi bằng làm một hơi, rải thêm một ít nữa, tìm những mảnh vỡ không gian xa hơn." Lý Khanh không ngừng rong ruổi, nơi tốt như thế này kẻ ngốc mới dừng lại, giới hạn trên lớn bao nhiêu thì gieo bấy nhiêu tế bào.
 
-Anh vừa đi vừa thức tỉnh, cứ đi mãi, đi mãi, bỗng nhiên thần sắc khẽ động.
-Không biết đã trôi qua bao nhiêu ngày, anh cũng đã đi một vòng tròn xung quanh.
-Anh vậy mà đã đạt đến giới hạn số lượng rồi!
+Hắn vừa đi vừa thức tỉnh, cứ đi mãi, đi mãi, bỗng nhiên thần sắc khẽ động.
+Không biết đã trôi qua bao nhiêu ngày, hắn cũng đã đi một vòng tròn xung quanh.
+Hắn vậy mà đã đạt đến giới hạn số lượng rồi!
 
-Hiện tại, số lượng mà anh có thể kiểm soát đã là một con số khổng lồ, có thể thấy trong thời gian qua anh đã thức tỉnh bao nhiêu đơn bào.
+Hiện tại, số lượng mà hắn có thể kiểm soát đã là một con số khổng lồ, có thể thấy trong thời gian qua hắn đã thức tỉnh bao nhiêu đơn bào.
 "Thôi vậy, kết thúc ở đây thôi, nhiều hơn nữa sẽ vượt quá tầm kiểm soát, có khi còn quay lại cắn ngược mình mất."
 
-Lý Khanh vốn định như vậy, nhưng bỗng nhiên nhìn thấy phía xa còn có một mảnh vỡ không gian lớn hơn nữa, anh do dự một lát.
+Lý Khanh vốn định như vậy, nhưng bỗng nhiên nhìn thấy phía xa còn có một mảnh vỡ không gian lớn hơn nữa, hắn do dự một lát.
 Nói đi cũng phải nói lại, Herodotus và Artabia có thể mạnh đến thế có lẽ không chỉ vì là "con đầu lòng", mà còn có thể là vì không bị đóng dấu (ấn ký).
 Ấn ký quyến thuộc tinh thần có lẽ đã hạn chế tiềm lực thai nghén của họ.
 Thứ này tuy rằng dễ dùng nhưng có khả năng tồn tại tác dụng phụ.
 
 "Hay là mình cứ tạo ra một lô đơn bào không bị hạn chế? Đợi đến khi chúng thực sự xuất hiện thiên tài rồi mới bắt lại, đóng dấu lên? Giống như tộc người Artabia năm xưa vậy?"
-Anh nảy ra một ý tưởng táo bạo.
+Hắn nảy ra một ý tưởng táo bạo.
 Dù sao cũng chỉ là một mảnh vỡ Á không gian, số lượng không nhiều.
 
 Hơn nữa, lối ra vào nằm ở chính căn hộ ba phòng của mình, đó là vị trí không ổn định duy nhất từng bị chấn động không gian.
 Những nơi khác không vào được.
 Mình cứ án ngữ tại điểm hiểm yếu, trấn giữ trong căn hộ ba phòng, nếu đối phương thực sự xuất hiện kẻ mạnh thì mình còn có thể thả Artabia ra — cái gã hung hãn có thể tạo ra một cự nhân để kéo đầu lâu chỉ trong vài ngày — rồi tiêu diệt hắn.
 
-Anh suy đi tính lại, vẫn chưa hạ quyết tâm, "Thôi, cứ về trước rồi tính sau."
+Hắn suy đi tính lại, vẫn chưa hạ quyết tâm, "Thôi, cứ về trước rồi tính sau."
 
 Ở một phía khác.
 Silph tiếp tục đi lại trên đại địa, thuận tay công bố các cảnh giới trong thiên hạ, không hề dây dưa kéo dài.

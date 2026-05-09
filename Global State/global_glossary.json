@@ -3,8 +3,8 @@
     "version": "1.0.12",
     "source_language": "zh",
     "target_language": "vi",
-    "last_updated": "2026-05-07T07:50:00+07:00",
-    "total_entries": 453,
+    "last_updated": "2026-05-10T03:34:12.835097",
+    "total_entries": 474,
     "source_projects": [
       "Ac Linh Quoc Gia",
       "Hong Hoang Lich_Zhttty",
@@ -2710,8 +2710,8 @@
     {
       "id": "GTERM_0270",
       "source_term": "元会",
-      "target_term": "nguyên hội",
-      "category": "martial_arts",
+      "target_term": "Nguyên Hội",
+      "category": "lore",
       "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
       "confidence": "low",
       "notes": "",
@@ -2740,8 +2740,8 @@
     {
       "id": "GTERM_0273",
       "source_term": "泥丸宫",
-      "target_term": "nê hoàn cung",
-      "category": "martial_arts",
+      "target_term": "Cung Nê Hoàn",
+      "category": "lore",
       "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
       "confidence": "low",
       "notes": "",
@@ -4524,6 +4524,236 @@
       "source_project": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
       "confidence": "high",
       "notes": "First-rank (sect/grade)",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0452",
+      "source_term": "真仙",
+      "target_term": "Chân Tiên",
+      "category": "lore",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "high",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0453",
+      "source_term": "求索洞",
+      "target_term": "Cầu Tác Động",
+      "category": "place",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "high",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0454",
+      "source_term": "力士召唤诀",
+      "target_term": "Lực Sĩ Triệu Hoán Quyết",
+      "category": "skill",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "high",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0455",
+      "source_term": "黄巾力士皇",
+      "target_term": "Hoàng Cân Lực Sĩ Hoàng",
+      "category": "lore",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "high",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0456",
+      "source_term": "阴阳无形破空十八剪",
+      "target_term": "Âm Dương Vô Hình Phá Không Thập Bát Tiễn",
+      "category": "skill",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "high",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0457",
+      "source_term": "西方庚金神风",
+      "target_term": "Tây Phương Canh Kim Thần Phong",
+      "category": "lore",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "high",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0458",
+      "source_term": "乙木真源天火",
+      "target_term": "Ất Mộc Chân Nguyên Thiên Hỏa",
+      "category": "lore",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "high",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0459",
+      "source_term": "傲来",
+      "target_term": "Ngạo Lai",
+      "category": "character",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "high",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0460",
+      "source_term": "傲音",
+      "target_term": "Ngạo Âm",
+      "category": "character",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "high",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0461",
+      "source_term": "地仙道果",
+      "target_term": "Địa Tiên Đạo Quả",
+      "category": "lore",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "high",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0462",
+      "source_term": "太乙道果",
+      "target_term": "Thái Ất Đạo Quả",
+      "category": "lore",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "high",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0463",
+      "source_term": "大罗道果",
+      "target_term": "Đại La Đạo Quả",
+      "category": "lore",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "high",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0464",
+      "source_term": "混元道果",
+      "target_term": "Hỗn Nguyên Đạo Quả",
+      "category": "lore",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "high",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0465",
+      "source_term": "散仙",
+      "target_term": "Tản Tiên",
+      "category": "lore",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "high",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0466",
+      "source_term": "金仙",
+      "target_term": "Kim Tiên",
+      "category": "lore",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "high",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0467",
+      "source_term": "先天不灭灵光",
+      "target_term": "Tiên Thiên Bất Diệt Linh Quang",
+      "category": "lore",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "high",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0468",
+      "source_term": "先天灵宝",
+      "target_term": "Tiên Thiên Linh Bảo",
+      "category": "lore",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "high",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0469",
+      "source_term": "顶天立地诀",
+      "target_term": "Đỉnh Thiên Lập Địa Quyết",
+      "category": "skill",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "high",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0470",
+      "source_term": "戊土之精",
+      "target_term": "Mậu Thổ Chi Tinh",
+      "category": "lore",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "high",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0471",
+      "source_term": "虚空无极宫殿术",
+      "target_term": "Hư Không Vô Cực Cung Điện Thuật",
+      "category": "skill",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "high",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0472",
+      "source_term": "戊土神雷",
+      "target_term": "Mậu Thổ Thần Lôi",
+      "category": "skill",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "high",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0473",
+      "source_term": "宝灵",
+      "target_term": "Bảo linh",
+      "category": "lore",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "high",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0474",
+      "source_term": "无极童子",
+      "target_term": "Vô Cực Đồng Tử",
+      "category": "character",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "confidence": "high",
+      "notes": "",
       "locked": false
     }
   ]

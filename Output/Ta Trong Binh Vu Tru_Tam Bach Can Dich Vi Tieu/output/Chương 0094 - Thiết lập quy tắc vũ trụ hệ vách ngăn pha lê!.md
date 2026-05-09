@@ -2,13 +2,13 @@
 
 "Tuy nhiên, chiếc quan tài này trái lại cũng đủ cứng."
 
-Lý Khanh khẽ cười một tiếng, nhìn trận đại chiến trong phòng thí nghiệm. Căn bản không cần đến kính hiển vi, anh cũng có thể nhìn rất rõ ràng, bởi vì giờ đây chúng đã có thể hình bình thường. Một thiếu nữ yêu tinh nửa thân trên đang vỗ cánh trên bầu trời, đại chiến với một chiếc quan tài kiêm tàu chiến trong đại dương, chúng chạy loạn khắp căn phòng, đánh đến mức kinh thiên động địa, trời long đất lở, thành phố sụp đổ, sóng thần quét qua, âm thanh vang dội khắp đất trời. Thương sinh đều nhìn thấy và nghe thấy, từ trung tâm thế giới đánh đến tận vùng biên cương hoang dã, khắp nơi trên thế giới đều có dấu chân chiến đấu của chúng, ngay cả vách ngăn pha lê cũng bị mài mòn đi chút ít...
+Lý Khanh khẽ cười một tiếng, nhìn trận đại chiến trong phòng thí nghiệm. Căn bản không cần đến kính hiển vi, hắn cũng có thể nhìn rất rõ ràng, bởi vì giờ đây chúng đã có thể hình bình thường. Một thiếu nữ yêu tinh nửa thân trên đang vỗ cánh trên bầu trời, đại chiến với một chiếc quan tài kiêm tàu chiến trong đại dương, chúng chạy loạn khắp căn phòng, đánh đến mức kinh thiên động địa, trời long đất lở, thành phố sụp đổ, sóng thần quét qua, âm thanh vang dội khắp đất trời. Thương sinh đều nhìn thấy và nghe thấy, từ trung tâm thế giới đánh đến tận vùng biên cương hoang dã, khắp nơi trên thế giới đều có dấu chân chiến đấu của chúng, ngay cả vách ngăn pha lê cũng bị mài mòn đi chút ít...
 
 "Trái lại cũng thú vị rồi đây."
 
-Anh thong thả nhấp một ngụm trà đặc, vừa xem bộ phim đại điện ảnh dị thế giới đang được truyền hình trực tiếp này, vừa mân mê một tòa tháp Babel trên bàn. Tòa tháp tám cạnh này được chế tác rất tinh xảo, cổ kính và hùng vĩ, bên trên có điêu khắc các hoa văn cửa ra vào và cửa sổ.
+Hắn thong thả nhấp một ngụm trà đặc, vừa xem bộ phim đại điện ảnh dị thế giới đang được truyền hình trực tiếp này, vừa mân mê một tòa tháp Babel trên bàn. Tòa tháp tám cạnh này được chế tác rất tinh xảo, cổ kính và hùng vĩ, bên trên có điêu khắc các hoa văn cửa ra vào và cửa sổ.
 
-*Xào xạc.* Anh xoay tòa tháp tám cạnh đó như xoay bút vậy.
+*Xào xạc.* Hắn xoay tòa tháp tám cạnh đó như xoay bút vậy.
 
 "Giờ đây, bệnh viện tâm thần mới khai trương, hiện tại có hai phòng bệnh. Nhưng bố cục tốt nhất hiện nay vẫn là mỗi phòng một bệnh nhân, chứ một phòng mà nhốt hai bệnh nhân là thế nào cũng náo loạn lên cho xem."
 
@@ -21,17 +21,17 @@ Dù sao thì bệnh nhân tâm thần mà, tinh thần thường không được
 
 Và khi bệnh tình tiến triển thêm một bước thì mọi chuyện càng trở nên tồi tệ hơn. Điên điên khùng khùng, muốn đập nát bức tường, phát điên muốn trốn khỏi bệnh viện tâm thần cũng là hiện tượng bình thường của bệnh nhân tâm thần. Chẳng hạn như Elise.
 
-"Nghĩ như vậy, mình trái lại cũng là người có chuyên môn phù hợp." Lý Khanh cảm thấy chuyên ngành mình học trước kia không hề lãng phí. Kinh nghiệm làm bác sĩ trong bệnh viện tâm thần của anh có lẽ sẽ có đất dụng võ. Lý Khanh cảm thấy trật tự thế giới của vũ trụ hệ vách ngăn pha lê này hoàn toàn có thể được xây dựng theo con đường của một bệnh viện tâm thần. Dù nghe có vẻ hơi quái dị nhưng có thể quản lý một cách hoàn hảo.
+"Nghĩ như vậy, mình trái lại cũng là người có chuyên môn phù hợp." Lý Khanh cảm thấy chuyên ngành mình học trước kia không hề lãng phí. Kinh nghiệm làm bác sĩ trong bệnh viện tâm thần của hắn có lẽ sẽ có đất dụng võ. Lý Khanh cảm thấy trật tự thế giới của vũ trụ hệ vách ngăn pha lê này hoàn toàn có thể được xây dựng theo con đường của một bệnh viện tâm thần. Dù nghe có vẻ hơi quái dị nhưng có thể quản lý một cách hoàn hảo.
 
-Cần biết rằng, một bác sĩ tâm thần luôn phải dùng đủ mọi cách để trấn an và điều tiết các cuộc nội đấu giữa các bệnh nhân. Theo lộ trình này, sau này có lẽ sẽ có đủ thứ khiến anh bận rộn. Càng về sau càng kinh hoàng. Nếu sau này cho thêm một đợt bức xạ hạt nhân, có lẽ trong một số phòng đơn sẽ phải giam giữ vài vị tà thần Cthulhu không thể gọi tên? Hay giam giữ vài con quái vật SCP? Bệnh viện tâm thần này của anh không chừng sẽ thực sự trở thành một quỹ đạo thu dung quái vật nào đó.
+Cần biết rằng, một bác sĩ tâm thần luôn phải dùng đủ mọi cách để trấn an và điều tiết các cuộc nội đấu giữa các bệnh nhân. Theo lộ trình này, sau này có lẽ sẽ có đủ thứ khiến hắn bận rộn. Càng về sau càng kinh hoàng. Nếu sau này cho thêm một đợt bức xạ hạt nhân, có lẽ trong một số phòng đơn sẽ phải giam giữ vài vị tà thần Cthulhu không thể gọi tên? Hay giam giữ vài con quái vật SCP? Bệnh viện tâm thần này của hắn không chừng sẽ thực sự trở thành một quỹ đạo thu dung quái vật nào đó.
 
 Cũng tất nhiên, nếu gặp phải vài kẻ cứng đầu, ngang ngược, bị giam mà không chịu yên phận, kiêu ngạo đến mức không chịu nổi thì người quản lý sẽ dùng đến vài "quy tắc ngầm". Sắp xếp vài tên ngục bá vào giam cùng để "thông" đối phương, dạy cho một bài học, thậm chí đánh cho bán sống bán chết để dập tắt khí thế kiêu ngạo của đối phương. Để đối phương biết được ai mới là người quản lý nơi này! Chẳng hạn như Elise.
 
 "Và cũng tất nhiên rồi, khi số lượng bệnh nhân trong từng phòng dần tăng lên, có lẽ định kỳ sẽ thả ra để hoạt động một chút? Tập hợp ăn uống? Đào hố? Làm việc?" Lý Khanh suy nghĩ mông lung. Dù sao thì đây cũng là quy tắc cũ trong nhà tù rồi.
 
-Đương nhiên, muốn thực hiện được bước này thì phải mở rộng diện tích của toàn bộ vũ trụ hệ vách ngăn pha lê, và mở rộng đến một mức độ tương đối lớn. Suy cho cùng thì vẫn là do sa bàn quá nhỏ! Tuy nhiên, Lý Khanh cũng không dám mở rộng một cách điên cuồng, tốc độ phát triển của lũ sinh vật này quá mức vô lý. Anh chỉ cho một địa bàn nhỏ như vậy, một phòng thí nghiệm kiêm phòng ở, đủ mọi điều kiện hạn chế môi trường, không cho kim loại, vậy mà giờ mới được bao lâu? Đã đáng sợ đến mức này rồi. Đã bắt đầu đập phá vách ngăn pha lê, lấy kỹ thuật quân sự của lão Mỹ để muốn tìm mình gây phiền phức rồi... Vội vàng mở rộng địa bàn một cách tham lam chắc chắn sẽ vì ăn quá nhiều mà tự làm mình sặc chết.
+Đương nhiên, muốn thực hiện được bước này thì phải mở rộng diện tích của toàn bộ vũ trụ hệ vách ngăn pha lê, và mở rộng đến một mức độ tương đối lớn. Suy cho cùng thì vẫn là do sa bàn quá nhỏ! Tuy nhiên, Lý Khanh cũng không dám mở rộng một cách điên cuồng, tốc độ phát triển của lũ sinh vật này quá mức vô lý. Hắn chỉ cho một địa bàn nhỏ như vậy, một phòng thí nghiệm kiêm phòng ở, đủ mọi điều kiện hạn chế môi trường, không cho kim loại, vậy mà giờ mới được bao lâu? Đã đáng sợ đến mức này rồi. Đã bắt đầu đập phá vách ngăn pha lê, lấy kỹ thuật quân sự của lão Mỹ để muốn tìm mình gây phiền phức rồi... Vội vàng mở rộng địa bàn một cách tham lam chắc chắn sẽ vì ăn quá nhiều mà tự làm mình sặc chết.
 
-Còn nói về chuyện vách ngăn pha lê, hiện tại anh thấy cũng tạm ổn. Lý Khanh không ngừng quan sát cuộc đại chiến Cự Thần đánh đến trời long đất lở bên trong, khẽ lẩm bẩm: "Cái quan tài hình chữ nhật này, phóng đại theo đúng tỉ lệ thì chính là một mặt vách ngăn pha lê!"
+Còn nói về chuyện vách ngăn pha lê, hiện tại hắn thấy cũng tạm ổn. Lý Khanh không ngừng quan sát cuộc đại chiến Cự Thần đánh đến trời long đất lở bên trong, khẽ lẩm bẩm: "Cái quan tài hình chữ nhật này, phóng đại theo đúng tỉ lệ thì chính là một mặt vách ngăn pha lê!"
 
 Còn thanh kiếm trong lớp kẹp của quan tài vách ngăn? Có cũng được, mà không có cũng chẳng sao. Không quan trọng. Nếu có thì chẳng qua là thêm một đoạn câu chuyện mà thôi. Chẳng hạn như có người thấy trên vách ngăn pha lê có đủ loại hóa thạch, những thanh thần khí cổ xưa khảm trên vách ngăn pha lê trong suốt, thế là họ sẽ tự não bổ ra một câu chuyện về thời cổ đại, từng có vị Cổ Thần đập vỡ vách ngăn pha lê để đi ra ngoài thế giới và ngã xuống, sau đó vũ khí còn lưu lại bên trong vách ngăn... Chuyện đó trái lại cũng không sao.
 
@@ -39,7 +39,7 @@ Và lần này, không chỉ để ngăn cản sự phát triển văn minh củ
 
 "Xem ra, loại vách ngăn pha lê này đã có thể đưa vào sử dụng rồi." Lý Khanh không ngừng quan sát. "Cũng không nhất thiết phải cứng hơn kính cường lực, chỉ cần có thể tự phục hồi là được, kính cường lực là vật chết, còn thứ này là vật sống. Theo cấu trúc quan tài này, xếp chồng thêm vài lớp, làm khoảng hai ba lớp chắn bên ngoài kính cường lực, rồi bên ngoài cùng nuốt thêm một bể cung cấp chất lỏng dinh dưỡng thì họ không thể nào phá vỡ được nữa."
 
-Năng lượng bên ngoài là vô tận, bên trong chắc chắn không thể tiêu hao lại. Như vậy, kế hoạch sơ bộ của Lý Khanh đã định xong. Trong vài ngày tới, nhiệm vụ công tác của anh rất rõ ràng: Trực tiếp phóng đại sinh mệnh vách ngăn pha lê này theo đúng tỉ lệ, sau đó tiến hành tu sửa giai đoạn cuối là hoàn thành, ước chừng là có thể đưa vào sử dụng.
+Năng lượng bên ngoài là vô tận, bên trong chắc chắn không thể tiêu hao lại. Như vậy, kế hoạch sơ bộ của Lý Khanh đã định xong. Trong vài ngày tới, nhiệm vụ công tác của hắn rất rõ ràng: Trực tiếp phóng đại sinh mệnh vách ngăn pha lê này theo đúng tỉ lệ, sau đó tiến hành tu sửa giai đoạn cuối là hoàn thành, ước chừng là có thể đưa vào sử dụng.
 
 Khi Lý Khanh sắp xếp xong mọi suy nghĩ, hình ảnh bên trong đã hình thành một trận chiến thảm khốc khi toàn bộ Thâm Uyên vây quét chiếc quan tài thủy tinh này.
 

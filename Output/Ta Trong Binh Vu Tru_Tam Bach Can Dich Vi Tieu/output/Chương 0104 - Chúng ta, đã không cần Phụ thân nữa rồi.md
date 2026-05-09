@@ -92,7 +92,7 @@ Tukasi lợi dụng phương pháp đột phá ngũ giác trong đó, bình cả
 
 "Ta cũng đã bước vào cảnh giới này..."
 
-Một bóng người nam tử trong suốt cao lớn anh vũ, dần dần ôm lấy một thanh thủy tinh thánh kiếm, mở mắt ra trong quan tài, trên trán một viên bảo thạch hoàn chỉnh tỏa ra hào quang lưu ly xuyên thấu.
+Một bóng người nam tử trong suốt cao lớn hắn vũ, dần dần ôm lấy một thanh thủy tinh thánh kiếm, mở mắt ra trong quan tài, trên trán một viên bảo thạch hoàn chỉnh tỏa ra hào quang lưu ly xuyên thấu.
 
 Nam tử trong quan tài vuốt ve viên tinh hạch hoàn chỉnh trên trán: "Nàng đã đem ngọn đuốc tinh hạch truyền lại trong tay ta, cũng giống như năm đó, Herodotus đem viên tinh hạch vỡ vụn giao cho Minis."
 

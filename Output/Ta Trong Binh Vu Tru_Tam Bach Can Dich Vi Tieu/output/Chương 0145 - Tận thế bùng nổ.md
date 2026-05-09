@@ -5,7 +5,7 @@
 【Đã sửa đổi logic thế giới quan, 10394 chỗ, hoàn mỹ không chút tỳ vết, hoàn toàn bản địa hóa hệ vách pha lê, không có lỗ hổng logic.】
 【Có nhấn nút khởi động hay không?】
 
-Âm thầm cảm nhận nền văn minh xã hội hiện đại của số 3, Lý Khanh hít sâu một hơi, có chút kích động và căng thẳng, anh thở phào một hơi rồi nói: "Khởi động."
+Âm thầm cảm nhận nền văn minh xã hội hiện đại của số 3, Lý Khanh hít sâu một hơi, có chút kích động và căng thẳng, hắn thở phào một hơi rồi nói: "Khởi động."
 
 Cạch.
 
@@ -26,8 +26,8 @@ Lý Khanh đột nhiên mở mắt, nhập vào chính bản thân mình ở th�
 
 Lý Khanh quan sát xung quanh một chút.
 Cảm giác như quay trở lại những năm tháng thực tập khổ sai vài năm trước.
-Đúng vào những ngày anh vừa tốt nghiệp, tới thực tập tại bệnh viện tâm thần Phoenix.
-Lúc này anh đang đứng trên hành lang, xung quanh là những bức tường trắng toát, cùng một số nhân viên mặc áo trắng đi tới đi lui.
+Đúng vào những ngày hắn vừa tốt nghiệp, tới thực tập tại bệnh viện tâm thần Phoenix.
+Lúc này hắn đang đứng trên hành lang, xung quanh là những bức tường trắng toát, cùng một số nhân viên mặc áo trắng đi tới đi lui.
 
 "Cậu đang ngẩn ngơ cái gì thế?"
 Cái gã trung niên béo ú quen thuộc kia thấy mình bị ngó lơ, có chút tức giận.
@@ -54,7 +54,7 @@ Tường bao rất cao, hoàn toàn có thể làm khu tị nạn.
 "Những người cố gắng sống sót chỉ có thể trốn trong phòng bệnh khóa trái cửa, kinh hãi nhìn những con zombie tuần tiễu ngoài hành lang. Lý Khanh của thế giới này, một tuần sau đó vì quá đói nên buộc phải ra ngoài tìm thức ăn, ngay lập tức 'nhận cơm hộp'."
 
 Rất bình thường.
-Bản thân anh ở thế giới này là một thành viên bình thường trong ngày tận thế. Ngày đầu tiên tận thế giáng lâm, đã có tám phần mười dân số ngay lập tức 'nhận cơm hộp', Lý Khanh cũng không ngoại lệ.
+Bản thân hắn ở thế giới này là một thành viên bình thường trong ngày tận thế. Ngày đầu tiên tận thế giáng lâm, đã có tám phần mười dân số ngay lập tức 'nhận cơm hộp', Lý Khanh cũng không ngoại lệ.
 
 Bởi vì nhân vật chính là ai?
 Một trong số đó đương nhiên là Ninh Quốc Xương.
@@ -68,7 +68,7 @@ Nếu là logic bình thường, có lẽ lúc này ai đó sẽ cười lớn m
 
 Cốt truyện của tiểu thuyết trọng sinh tận thế chính là hương vị đó.
 Đủ loại quy hoạch, mưu đồ, dòng kinh doanh.
-Thậm chí chính Lý Khanh cũng có thể làm như vậy, tuy nhiên anh từ chối.
+Thậm chí chính Lý Khanh cũng có thể làm như vậy, tuy nhiên hắn từ chối.
 
 Và lúc này.
 Bên cạnh đột nhiên có một nhóm người đang tuần hành.
@@ -104,11 +104,11 @@ Gạt chuyện này sang một bên, Lý Khanh nhớ lại cốt truyện chính
 Nghĩ như vậy, thành phố này của bang Arizona thực sự là nơi diễn ra cốt truyện chính.
 Lý Khanh vừa suy nghĩ, vừa đặt một phần thức ăn nhanh bên ngoài, sau đó tìm một tòa nhà cao tầng có thể lên được sân thượng, chặn cửa lại, bắt đầu lặng lẽ chờ đợi tận thế giáng lâm.
 
-Anh không định làm bất cứ điều gì cả.
+Hắn không định làm bất cứ điều gì cả.
 Thời gian từng phút từng giây trôi qua, cho tới khi 5 giờ 27 phút.
 
 "Bắt đầu rồi."
-Anh đột nhiên thốt ra tiếng lầm bầm, nhìn xuống đường phố và thành phố bên dưới.
+Hắn đột nhiên thốt ra tiếng lầm bầm, nhìn xuống đường phố và thành phố bên dưới.
 Cứ thế lặng lẽ chờ đợi, vừa ăn vừa quan sát.
 
 A!
@@ -161,6 +161,6 @@ Nói cách khác, zombie nhân loại, những người sống sót nhân loại
 
 "Mọi thứ coi như cũng có chút lời giải thích thông suốt rồi."
 Lý Khanh lộ ra một tia mỉm cười.
-Anh mới chỉ quan sát vụ bùng nổ zombie được vài cái mà đã nhận ra phần lớn logic tầng dưới rồi.
-Đây chính là sự chênh lệch về tầm nhìn. Hiện tại cảnh giới của anh cao, nhìn xa trông rộng, rất nhiều cảnh giới thô thiển và bí ẩn đều có thể nhìn thấu chỉ trong một cái nhìn.
+Hắn mới chỉ quan sát vụ bùng nổ zombie được vài cái mà đã nhận ra phần lớn logic tầng dưới rồi.
+Đây chính là sự chênh lệch về tầm nhìn. Hiện tại cảnh giới của hắn cao, nhìn xa trông rộng, rất nhiều cảnh giới thô thiển và bí ẩn đều có thể nhìn thấu chỉ trong một cái nhìn.
 

@@ -33,20 +33,20 @@ Hãy bám rễ ở thế giới dị giới này để âm thầm xây dựng m�
 Suzanne nghe mà mắt sáng rực.
 Ma cà rồng, người sói, Tinh Linh, người lùn, cự long.
 Mặc dù cô không đọc truyện mạng Trung Quốc, nhưng cô cũng biết đây đúng là một thiết lập kỳ ngộ khởi đầu của nhân vật chính.
-Từ nay về sau, cô sẽ giấu vị Thánh nữ Tinh Linh đẹp đến cực điểm này ở trong nhà để dưỡng thương, làm người đại diện, âm thầm giúp cô ấy xây dựng một thế lực... rồi sau đó chữa bệnh ung thư cho bạn gái mình.
+Từ nay về sau, cô sẽ giấu vị Thánh nữ Tinh Linh đẹp đến cực điểm này ở trong nhà để dưỡng thương, làm người đại diện, âm thầm giúp cô ta xây dựng một thế lực... rồi sau đó chữa bệnh ung thư cho bạn gái mình.
 Thế nhưng...
-Cô nhìn thiếu nữ Tinh Linh thuần khiết mềm mại mọng nước này, có chút thôi thúc muốn được gần gũi với cô ấy.
+Cô nhìn thiếu nữ Tinh Linh thuần khiết mềm mại mọng nước này, có chút thôi thúc muốn được gần gũi với cô ta.
 "Không được! Mình không thể làm vậy!"
 Cô cố gắng thuyết phục bản thân và chuyển chủ đề:
 "Cô cứ nghỉ ngơi trước đi, nghỉ ngơi một thời gian, học ngôn ngữ loài người, hiểu rõ thế giới này rồi hãy tính sau."
 "Ừm." Tinh Linh tiểu thư lúc này quả thực không nên cử động.
 Dù sao cũng vừa mới lắp bộ não, giống như một bệnh nhân bại liệt đã lâu vừa mới học đi, bước đi chệnh choạng.
 Còn Lý Khanh cũng không định để vị Thánh nữ Tinh Linh này làm gì cả.
-Ném cô ấy qua đó là để cho cái đứa trẻ vừa mới chào đời này thích nghi với cơ thể, học đi, học nhảy, học kiến thức và chữ viết của thế giới này.
+Ném cô ta qua đó là để cho cái đứa trẻ vừa mới chào đời này thích nghi với cơ thể, học đi, học nhảy, học kiến thức và chữ viết của thế giới này.
 Thực tế đây cũng là lựa chọn tốt nhất.
-Sau khi đánh thức cô ấy dậy, chẳng lẽ lại cứ để cô ấy học ở trong nhà mình sao?
+Sau khi đánh thức cô ta dậy, chẳng lẽ lại cứ để cô ta học ở trong nhà mình sao?
 Suzanne chính là một nhà trẻ tiện lợi!
-Còn việc sau khi vị Tinh Linh này dưỡng thương xong, học được chữ viết thế giới này, lợi dụng Suzanne một phen xong, là tiếp tục để cô ấy ở đây hay là rời đi chào tạm biệt, thì tính sau.
+Còn việc sau khi vị Tinh Linh này dưỡng thương xong, học được chữ viết thế giới này, lợi dụng Suzanne một phen xong, là tiếp tục để cô ta ở đây hay là rời đi chào tạm biệt, thì tính sau.
 Suzanne lại rất ân cần, bưng trà rót nước, điên cuồng hỏi thăm:
 "Đã là ý chỉ của Thần, vậy thì gọi là: Công ty Cây Thế Giới? Tôi có thể làm thành viên ngoại vi đầu tiên của Thần Tinh Linh không? Tôi cũng thuộc Hiệp hội Bảo vệ Động vật, là người yêu thích thực vật đây."
 Thánh nữ Tinh Linh lắc đầu: "Không, gọi trực tiếp là Công ty Cây Thế Giới thì ngạo mạn quá, Cây Thế Giới là thần thụ vĩ đại của cả thế giới, là người mẹ đã sinh ra Tinh Linh, vươn thẳng tới tận trời xanh bao la, giống như một cái ô lớn bảo vệ chúng sinh trên mặt đất, hay là cứ gọi là Công ty Umbrella đi..."
@@ -56,12 +56,12 @@ Khuôn mặt cô đầy vẻ thành kính, hơi thở lương thiện thần th�
 "Ồ ồ ồ!" Suzanne mang cháo loãng tới, bắt đầu bón cho Tinh Linh tiểu thư đang nằm trên giường: "Tôi dạy cô nhận mặt chữ nhé, trước tiên dạy cô nhận biết các chữ cái."
 "Cũng được, tạm thời cứ để cô ấy giúp mình nuôi lốp dự phòng miễn phí, dạy dỗ học chữ vậy."
 Vẻ mặt Lý Khanh bình tĩnh.
-Vốn dĩ anh cũng không định vội vàng làm gì.
-Dù sao trước mắt cô ấy quả thực quá phế.
+Vốn dĩ hắn cũng không định vội vàng làm gì.
+Dù sao trước mắt cô ta quả thực quá phế.
 Dáng vẻ thì có chút hù dọa người khác, nhưng sức chiến đấu thì dọa được ai??
-Đợi bên Tinh Linh vừa học tập, bên mình nâng cấp phiên bản, âm thầm cập nhật cấu trúc cơ thể cho cô ấy, khi sức chiến đấu tăng vọt hoàn toàn thì mình mới để cô ấy ra tay.
+Đợi bên Tinh Linh vừa học tập, bên mình nâng cấp phiên bản, âm thầm cập nhật cấu trúc cơ thể cho cô ta, khi sức chiến đấu tăng vọt hoàn toàn thì mình mới để cô ta ra tay.
 "先让苏珊妮养着玩吧，等她学会了文字，我这边生物技术，又催生了几代，换一波装备再说...先把这一个小小的棋子埋下。"
-Anh thong dong nhìn về phía cả thế giới Tinh Linh.
+Hắn thong dong nhìn về phía cả thế giới Tinh Linh.
 "Ơ, ba ngày mải nuôi Thánh nữ Tinh Linh, mà sự bùng nổ văn minh bên trong này đã đạt tới mức độ này rồi sao?"
 Thế giới Tinh Linh.
 Cả mặt đất, lòng người hoang mang.

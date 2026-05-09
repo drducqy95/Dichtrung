@@ -3,7 +3,7 @@
 Luân hồi thời gian, Lý Khanh lại quay trở về trong bệnh viện tâm thần.
 
 "Lần thứ tư rồi cơ đấy."
-Anh lộ ra vài phần cảm thán.
+Hắn lộ ra vài phần cảm thán.
 
 Các đồng nghiệp xung quanh lại đang xem phim.
 Hiện tại đã xem xong phần đầu tiên 《Nhân loại tận thế: Sự bùng nổ của công ty Umbrella》, phần thứ hai 《Nhân loại tận thế quyển 2: Người Khổng Lồ Vương Angly》.
@@ -38,8 +38,8 @@ Thực tế, nếu Lý Khanh có chút phản nhân loại, trực tiếp đem v
 Hết lần này đến lần khác tái khởi động Trái Đất.
 Cả xã hội đón chào ngày tận thế thực sự.
 
-Nhưng nghĩ lại thì thôi, cái văn minh địa tâm trước mắt này đã đủ để anh lo liệu rồi.
-Phạm vi lớn như thế mà tiến hành tẩy địa, tái khởi động, đúng là quá lãng phí thời gian, anh đúng là có vấn đề mới đi tìm việc cho mình làm như vậy.
+Nhưng nghĩ lại thì thôi, cái văn minh địa tâm trước mắt này đã đủ để hắn lo liệu rồi.
+Phạm vi lớn như thế mà tiến hành tẩy địa, tái khởi động, đúng là quá lãng phí thời gian, hắn đúng là có vấn đề mới đi tìm việc cho mình làm như vậy.
 
 Lúc này bộ phim thứ ba xuất hiện.
 Vừa mới bắt đầu đoạn dạo đầu, đã có vô số người hò hét vang trời.
@@ -108,9 +108,9 @@ Bảo vệ thành phố, thậm chí còn chịu một số ảnh hưởng từ 
 Đương nhiên, Marvel bắt đầu kiện những người này, thậm chí Disney cũng tới, bởi vì cũng đã xâm phạm một số nhân vật, lại là một màn kịch náo loạn, dây dưa kiện tụng không ngớt.
 
 Và cũng đương nhiên, dần dần xuất hiện những kẻ bắt chước trong phim, những siêu tội phạm.
-Marvel tiếp tục kiện những siêu tội phạm này, nhưng người ta đâu phải là anh hùng, làm sao mà nói lý lẽ với anh? Rất nhanh sau đó Marvel đã bị đám siêu tội phạm này làm cho sứt đầu mẻ trán, các sản phẩm dưới trướng nổ tung điên cuồng.
+Marvel tiếp tục kiện những siêu tội phạm này, nhưng người ta đâu phải là anh hùng, làm sao mà nói lý lẽ với hắn? Rất nhanh sau đó Marvel đã bị đám siêu tội phạm này làm cho sứt đầu mẻ trán, các sản phẩm dưới trướng nổ tung điên cuồng.
 
-Mà lúc này, cục thuế cũng bắt đầu thu thuế đối với những siêu tội phạm này. Anh có thể phạm tội, thậm chí là cướp bóc 0 đồng, nhưng nhất định phải nộp thuế.
+Mà lúc này, cục thuế cũng bắt đầu thu thuế đối với những siêu tội phạm này. Hắn có thể phạm tội, thậm chí là cướp bóc 0 đồng, nhưng nhất định phải nộp thuế.
 Đám siêu tội phạm làm sao mà chịu nổi cái nhục này?
 Định học theo lần trước bắt đầu phản kích, kết quả trong nháy mắt đã bị đánh cho nằm bẹp, tống vào tù. Ngay lập tức uy danh đã trấn áp cả những siêu anh hùng trong S.H.I.E.L.D, uy danh của Cục Thuế Quốc gia bắt đầu vang dội, khiến người ta nghe danh đã mất vía...
 
@@ -187,7 +187,7 @@ Lý Khanh cũng trong lúc mọi chuyện đã bụi trần lắng xuống nhìn
 Xã hội sau tận thế là một mớ hỗn độn.
 Vô số người quỳ rạp trên mặt đất khóc lóc thảm thiết, nhìn quê hương của mình.
 
-Giai đoạn này trước kia anh đứng bên ngoài quan sát, hiện tại đích thân trải nghiệm, lập tức cảm nhận được sự khủng bố của cuộc đại suy thoái kinh tế, vạn sự đợi hồi sinh.
+Giai đoạn này trước kia hắn đứng bên ngoài quan sát, hiện tại đích thân trải nghiệm, lập tức cảm nhận được sự khủng bố của cuộc đại suy thoái kinh tế, vạn sự đợi hồi sinh.
 Giá nhà bắt đầu giảm mạnh.
 
 Lý Khanh chớp lấy đợt giá nhà giảm mạnh này mà bán tháo, trực tiếp mua lại căn nhà mình từng ở trong khu ngoại ô Phoenix trước đây.

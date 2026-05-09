@@ -7,14 +7,14 @@ Bởi vì chúng mang theo sức mạnh thần bí của việc xuyên không th
 
 Lý Khanh không ngừng tổng kết kinh nghiệm.
 Đến tận ngày nay, ngay cả vị thần vương tinh linh Minis, kẻ từng bị Artabia và Herodotus chèn ép đến mức không ngóc đầu lên nổi trong thời đại đó, cũng thuộc hàng ngũ chiến sĩ hình lục giác (chiến sĩ toàn năng).
-Loại người vừa có thể nghiên cứu, vừa có thể đánh đấm này đã thuộc hàng ngũ thiên tài đỉnh cấp trong tay anh rồi.
+Loại người vừa có thể nghiên cứu, vừa có thể đánh đấm này đã thuộc hàng ngũ thiên tài đỉnh cấp trong tay hắn rồi.
 Chỉ có điều đối phương khá là thấp kém và nham hiểm mà thôi.
 
 Sau khi Herodotus qua đời, Minis đã triệt để quán triệt niềm tin vĩ đại rằng: Ta càng sống lâu thì càng có thể tiễn đưa hết thảy mọi thiên tài.
 
 "Rõ ràng là một siêu cấp thiên tài, vậy mà lại không dám tỏa sáng, cứ giả vờ làm kẻ tầm thường để ẩn mình." Lý Khanh cảm thấy vấn đề của người này rất lớn, cứ đi so bì với hai kẻ phi nhân loại như Herodotus và Artabia làm gì?
 Chỉ tổ làm tổn thương lòng tự trọng.
-Nhưng anh cũng chẳng có cách nào với hắn cả.
+Nhưng hắn cũng chẳng có cách nào với hắn cả.
 Gần đây, Minis lại còn tụ tập cùng một chỗ với con rồng béo kia rồi.
 
 "Chẳng có ai khiến mình bớt lo được cả."
@@ -32,11 +32,11 @@ Phù!
 Nửa tiếng sau, Lý Khanh mới hoàn hồn lại, "Đã đến lúc bước vào thời đại Bán Thần rồi, còn có công nghệ Á không gian cũng nên được truyền bá."
 
 Quy hoạch thế giới, phân bổ hợp lý từng nhân viên bên trong là công việc bắt buộc của một ông chủ.
-Nói đơn giản là anh định dùng công nghệ thu hoạch được từ việc chèn ép thế giới tận thế để nuôi dưỡng thế giới Vu Sư.
+Nói đơn giản là hắn định dùng công nghệ thu hoạch được từ việc chèn ép thế giới tận thế để nuôi dưỡng thế giới Vu Sư.
 Tuy nhiên, công nghệ Á không gian lại là một vấn đề...
 
 Lý Khanh bắt đầu nghiên cứu tài liệu trong não bộ của giáo sư Lý Uyển Ninh, và cố gắng xây dựng một máy va chạm năng lượng không gian.
-Ba tháng sau, anh đã hoàn toàn nắm vững mọi nền tảng công nghệ.
+Ba tháng sau, hắn đã hoàn toàn nắm vững mọi nền tảng công nghệ.
 Và bắt đầu xây dựng một máy va chạm Á không gian.
 
 Chỉ có điều, cái máy này không phải là máy móc, mà là một sinh vật sống, kinh lạc là mạch điện, máy móc kim loại là khung xương kim loại của nó...
@@ -72,11 +72,11 @@ Nhìn xuyên qua đó, phát hiện bên trong là một thế giới hư vô v�
 Nơi này chính là khe hở vũ trụ.
 
 Xoạt xoạt xoạt.
-Anh dựa theo công nghệ đặc biệt mà giáo sư Lý Uyển Ninh để lại, điều khiển những mảnh vỡ không gian đó tập hợp lại, dần dần cố gắng ngưng tụ và dung hợp.
+Hắn dựa theo công nghệ đặc biệt mà giáo sư Lý Uyển Ninh để lại, điều khiển những mảnh vỡ không gian đó tập hợp lại, dần dần cố gắng ngưng tụ và dung hợp.
 Cái gọi là xây dựng không gian lưu trữ thực tế chính là thu thập những mảnh vỡ không gian này.
 
 Phải biết rằng.
-Cự Nhân Vương Asol, anh ta có thể lưu trữ cơ thể cự nhân cùng đủ loại pháp khí chính là nhờ dựa vào công nghệ lưu trữ Á không gian được xây dựng theo cách này.
+Cự Nhân Vương Athol, hắn có thể lưu trữ cơ thể cự nhân cùng đủ loại pháp khí chính là nhờ dựa vào công nghệ lưu trữ Á không gian được xây dựng theo cách này.
 
 Lại tốn thêm vài ngày nữa, một chiếc nhẫn lưu trữ không gian đã xuất hiện.
 Lý Khanh đúc chiếc nhẫn vô cùng hoa mỹ, mang theo một loại vận vị khiến Silph yêu thích không buông tay, không ngừng nghịch ngợm trên tay.
@@ -94,7 +94,7 @@ Những mảnh vỡ không gian trôi nổi nhanh có thể một ngày bằng m
 Chậm thì có lẽ bên ngoài một ngày, bên trong chỉ trôi qua vài phút.
 
 Điều này khiến Lý Khanh cảm thấy vô cùng kinh ngạc, thậm chí cảm thấy có thể hoàn thiện thêm một loạt quy tắc nữa.
-Anh nhìn những mảnh vỡ không gian đang trôi lơ lửng này, "Mình cứ luôn muốn xây dựng đơn bào để suy diễn văn minh, tại sao lúc quay thẻ không ở trên những mảnh vỡ không gian đang trôi nổi trong khe hở không gian này thức tỉnh một đợt nhỉ?"
+Hắn nhìn những mảnh vỡ không gian đang trôi lơ lửng này, "Mình cứ luôn muốn xây dựng đơn bào để suy diễn văn minh, tại sao lúc quay thẻ không ở trên những mảnh vỡ không gian đang trôi nổi trong khe hở không gian này thức tỉnh một đợt nhỉ?"
 
 "Những mảnh vỡ này giống như từng chiếc bình không gian, xây dựng từng vũ trụ trong bình (bottle universe) ở trong đó..."
 

@@ -41,7 +41,7 @@ Mọi người đều có chút suy sụp.
 Văn minh nhân loại bắt đầu bị hủy diệt rồi sao?
 
 Đột nhiên, Lý Khanh động tâm.
-Anh chú ý tới một bệnh viện trọng điểm ở Phoenix.
+Hắn chú ý tới một bệnh viện trọng điểm ở Phoenix.
 Suzanne —— siêu nhân loại này —— khắp người đầy vết thương, rõ ràng đã trọng thương rồi, đang ôm một cô gái xanh xao trên giường bệnh, khóc rống lên:
 
 "Mất hết rồi, mất hết rồi... Tất cả đều tại cái công ty Umbrella đó!"
@@ -114,7 +114,7 @@ Cốt truyện hơi có chút khác biệt.
 Ninh Quốc Xương đã vùng lên!
 Cảnh giới Lục Giác Truyền Kỳ đã tiêu diệt được toàn bộ nhân loại...
 
-Nhưng Lý Khanh suy nghĩ kỹ một chút, anh cảm thấy cho dù có phát triển như trong lịch sử, hành động trảm thủ của nhân loại đánh bại được Ninh Quốc Xương thì cũng chỉ là kéo dài hơi tàn thêm một thời gian mà thôi.
+Nhưng Lý Khanh suy nghĩ kỹ một chút, hắn cảm thấy cho dù có phát triển như trong lịch sử, hành động trảm thủ của nhân loại đánh bại được Ninh Quốc Xương thì cũng chỉ là kéo dài hơi tàn thêm một thời gian mà thôi.
 Sớm muộn gì cũng vẫn sẽ chết.
 zombie quá biến thái.
 Rất có thể, vũ trụ song song đó đã xong đời rồi.
@@ -128,10 +128,10 @@ Cạch.
 Giây tiếp theo, sinh vật trên toàn thế giới đều ngưng trệ lại.
 Giống như bị nhấn nút tạm dừng vậy.
 
-Lý Khanh bước xuyên qua vách pha lê nhầy nhụa như xuyên qua màn nước, một người có thân hình bình thường cao hơn hai mét như anh nhìn những kiến trúc nhỏ bé mười centimet này, không ngừng dẫm đạp trong đống đổ nát để quan sát.
-Anh ngồi xổm xuống, ánh mắt đặt vào cửa sổ của các tòa nhà cao tầng, nhìn đủ loại tuyệt vọng và tiếng gào thét của những người sống sót bên trong.
+Lý Khanh bước xuyên qua vách pha lê nhầy nhụa như xuyên qua màn nước, một người có thân hình bình thường cao hơn hai mét như hắn nhìn những kiến trúc nhỏ bé mười centimet này, không ngừng dẫm đạp trong đống đổ nát để quan sát.
+Hắn ngồi xổm xuống, ánh mắt đặt vào cửa sổ của các tòa nhà cao tầng, nhìn đủ loại tuyệt vọng và tiếng gào thét của những người sống sót bên trong.
 
-Lắc đầu một cái, anh đi tới trước mặt con zombie Ninh Quốc Xương này.
+Lắc đầu một cái, hắn đi tới trước mặt con zombie Ninh Quốc Xương này.
 Chỉ cảm thấy rất buồn nôn.
 Thân hình như núi thịt béo phì ung dung, vô số con mắt to đùng đang chỉ huy vô số zombie vây thành.
 
@@ -140,7 +140,7 @@ Lý Khanh lại đi xem hơn một trăm con zombie khác, quan sát hình dáng
 "Thôi đi, khởi động lại tận thế, làm lại một lần nữa."
 "Phong ấn ký ức của hơn một trăm kẻ thắng cuộc này lại, quay trở về thời đại trước khi tận thế bùng nổ."
 
-Đừng trách Lý Khanh lật bàn, dù sao dữ liệu gốc của họ nằm ở đó, anh có thể lật bàn bất cứ lúc nào.
+Đừng trách Lý Khanh lật bàn, dù sao dữ liệu gốc của họ nằm ở đó, hắn có thể lật bàn bất cứ lúc nào.
 Thêm một điểm nữa là, sự phát triển này đối với Lý Khanh mà nói là rất không tốt.
 Cảnh giới Bán Thần chưa xuất hiện.
 zombie thống nhất thế giới, không có kẻ thù, không có cạnh tranh và giết chóc, sự phát triển của thời đại chắc chắn sẽ chậm lại.
@@ -149,7 +149,7 @@ Mà hơn một trăm kẻ thắng cuộc zombie này, giữ lại sức mạnh c
 
 "Làm lại một lần nữa, có thể hỗ trợ một số người một chút, dù sao cũng không thể thường xuyên lật bàn, làm đi làm lại nhiều lần lãng phí thời gian. Tiến trình văn minh vô hiệu thì đội ngũ công trình của mình còn phải bận rộn việc khác, không thể thường xuyên sửa chữa kiến trúc cho họ, làm thợ sửa chữa được."
 
-"Dường như là thế giới trở nên nhỏ bé, sức kháng cự của nhân loại cũng yếu đi, dù sao cũng không có vũ khí hạt nhân nên lũ zombie bên trong không sợ họ, mới bị diệt vong." Lý Khanh trong thiết lập, tận thế bùng nổ, toàn bộ vũ khí hạt nhân đều không hiểu sao mà mất hiệu lực, dù sao anh cũng không muốn nhìn thấy nhà mình bị nổ tung.
+"Dường như là thế giới trở nên nhỏ bé, sức kháng cự của nhân loại cũng yếu đi, dù sao cũng không có vũ khí hạt nhân nên lũ zombie bên trong không sợ họ, mới bị diệt vong." Lý Khanh trong thiết lập, tận thế bùng nổ, toàn bộ vũ khí hạt nhân đều không hiểu sao mà mất hiệu lực, dù sao hắn cũng không muốn nhìn thấy nhà mình bị nổ tung.
 
 Oành đoàng!
 Bầu trời vẫn có đội ngũ công trình khổng lồ xuyên qua đại địa.

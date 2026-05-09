@@ -92,13 +92,13 @@ Trong cuộc đại diệt tuyệt sinh mệnh này, ông một lần nữa đư
 
 Có chút quá nóng.
 
-Lý Khanh chiếu được năm sáu phút, cái đồ vật lớn này đã hơi quá nóng rồi. Hơn nữa chiếu lên mặt kính, anh luôn cảm thấy trên người mình cũng phải chịu một chút phản xạ, da dẻ có chút nóng rát.
+Lý Khanh chiếu được năm sáu phút, cái đồ vật lớn này đã hơi quá nóng rồi. Hơn nữa chiếu lên mặt kính, hắn luôn cảm thấy trên người mình cũng phải chịu một chút phản xạ, da dẻ có chút nóng rát.
 
 Cường độ tia cực tím cao, dễ gây ung thư.
 
-Anh không muốn bị ung thư đâu.
+Hắn không muốn bị ung thư đâu.
 
-Vì vậy cảm thấy thời gian đã hòm hòm, anh liền tắt đi.
+Vì vậy cảm thấy thời gian đã hòm hòm, hắn liền tắt đi.
 
 Nhiều người không biết rằng loại thiết bị này công suất quá cao, giống như đèn pin siêu sáng vậy, mở quá lâu sẽ bị quá nhiệt dẫn đến cháy hỏng. Phải để nó nguội đi một thời gian. Thiết bị đắt tiền như vậy được "Doraemon" bí mật mượn từ phòng thí nghiệm cho mình, nếu chơi hỏng thì cả mình và cậu ta đều xong đời, cái "Asian Buff" vẫn còn đang chồng chất ở đó mà.
 
@@ -106,13 +106,13 @@ Cuộc diệt thế ngày hôm nay kết thúc tại đây.
 
 Rào!
 
-Anh chậm rãi mở nhãn quan hiển vi ra.
+Hắn chậm rãi mở nhãn quan hiển vi ra.
 
 Khắp nơi đều là xác cá nổi kích thước cỡ mạt bụi, thành quả rực rỡ.
 
 "Cứ đánh cho chúng một trận vì chưa từng thấy tia cực tím, có điều, tia cực tím rõ ràng cũng không thể gây ra tổn thương quá lớn cho sinh vật đa bào. Sát khuẩn bằng tia cực tím, phần lớn cũng chỉ là diệt khuẩn mà thôi."
 
-Lý Khanh có chút cảm thán, nhưng anh cũng không quá hoảng hốt.
+Lý Khanh có chút cảm thán, nhưng hắn cũng không quá hoảng hốt.
 
 "Phải chuẩn bị ngay sau đó cho loại hình tiêu diệt tiếp theo rồi."
 
@@ -132,7 +132,7 @@ Nhưng mức độ đó tuyệt đối không phải là thứ có thể tạo r
 
 Nhưng Lý Khanh cũng không vì thế mà nới lỏng cảnh giác, đây gọi là về chiến lược thì xem thường kẻ địch, về chiến thuật thì coi trọng kẻ địch.
 
-Anh nhớ lại câu nói đó của Ninh Quốc Xương: "Con người chẳng qua cũng chỉ là lũ khỉ biết sử dụng công cụ, dùng nhận thức ngạo mạn của mình để đo lường các nền văn minh chưa biết khác, điều đó thật nực cười."
+Hắn nhớ lại câu nói đó của Ninh Quốc Xương: "Con người chẳng qua cũng chỉ là lũ khỉ biết sử dụng công cụ, dùng nhận thức ngạo mạn của mình để đo lường các nền văn minh chưa biết khác, điều đó thật nực cười."
 
 Ai mà biết được liệu có thứ gì nhảy ra ngoài nhận thức của mình hay không.
 

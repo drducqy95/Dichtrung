@@ -1,12 +1,12 @@
 ﻿# Chương 5: Sự ra đời của cá
 
-Lý Khanh rất tận tâm tận lực với việc hủy diệt văn minh, bởi hiện tại tia cực tím và cồn là hai biện pháp sát khuẩn thông thường và tiện lợi nhất. Còn những biện pháp khác nếu không phải là chi phí quá cao thì cũng là quá phức tạp, trong vòng vài ngày ngắn ngủi không thể kiếm được đồ, lại còn dễ bị FBI sờ gáy, dù sao anh cũng là người gốc Á.
+Lý Khanh rất tận tâm tận lực với việc hủy diệt văn minh, bởi hiện tại tia cực tím và cồn là hai biện pháp sát khuẩn thông thường và tiện lợi nhất. Còn những biện pháp khác nếu không phải là chi phí quá cao thì cũng là quá phức tạp, trong vòng vài ngày ngắn ngủi không thể kiếm được đồ, lại còn dễ bị FBI sờ gáy, dù sao hắn cũng là người gốc Á.
 
 Đợt phun cồn vừa rồi là bao nhiêu?
 
 Cả bình cồn sau lưng đều đã phun sạch sành sanh.
 
-Nếu không phải cơ thể anh đã trở nên mạnh mẽ hơn, đeo một cái bình nén thủy lực lớn như vậy để phun thuốc thì đã sớm mệt đứt hơi rồi.
+Nếu không phải cơ thể hắn đã trở nên mạnh mẽ hơn, đeo một cái bình nén thủy lực lớn như vậy để phun thuốc thì đã sớm mệt đứt hơi rồi.
 
 "Chao ôi, cuộc đời không dễ dàng gì," Lý Khanh thở dài.
 
@@ -22,9 +22,9 @@ Hơn nữa biển chết này còn không ngừng bay hơi, sương mù lúc nà
 
 Thế này mà vẫn chưa giết chết được chúng sao?
 
-Nhưng Lý Khanh là một người thận trọng, anh dự định tiếp tục tìm bạn bè kiếm một cái đèn tia cực tím loại lớn. Làm việc thì không được lôi thôi lếch thếch, nhân vật phản diện không được chết vì nói nhiều.
+Nhưng Lý Khanh là một người thận trọng, hắn dự định tiếp tục tìm bạn bè kiếm một cái đèn tia cực tím loại lớn. Làm việc thì không được lôi thôi lếch thếch, nhân vật phản diện không được chết vì nói nhiều.
 
-Ngay cả cơ hội để chúng thở anh cũng không cho, chơi là phải kích thích, đợt này nối tiếp đợt kia, dứt điểm ngay tại cửa tân thủ luôn!
+Ngay cả cơ hội để chúng thở hắn cũng không cho, chơi là phải kích thích, đợt này nối tiếp đợt kia, dứt điểm ngay tại cửa tân thủ luôn!
 
 Muốn phát triển sao?
 
@@ -34,7 +34,7 @@ Muốn phát triển sao?
 
 "Không phải, tôi không định giết người đâu, cậu xem thám tử Conan nhiều quá rồi đấy."
 
-Anh vừa bước ra khỏi nhà vừa gọi điện thoại: "Đúng rồi đúng rồi, đã nghỉ việc rồi, đợi bận xong việc này tôi sẽ về nước."
+Hắn vừa bước ra khỏi nhà vừa gọi điện thoại: "Đúng rồi đúng rồi, đã nghỉ việc rồi, đợi bận xong việc này tôi sẽ về nước."
 
 Vương quốc Atabia.
 

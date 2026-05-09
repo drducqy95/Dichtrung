@@ -1,6 +1,6 @@
 ﻿# Chương 173: Ai mới là người chiến thắng
 
-Asol không phải chiến đấu một mình, sau lưng anh là cả một đội ngũ văn minh hiện đại của nhân loại, mượn dùng đủ loại vũ khí hạng nặng được thiết kế riêng trong không gian tùy thân, anh tin rằng không ai có thể là đối thủ của mình.
+Athol không phải chiến đấu một mình, sau lưng hắn là cả một đội ngũ văn minh hiện đại của nhân loại, mượn dùng đủ loại vũ khí hạng nặng được thiết kế riêng trong không gian tùy thân, hắn tin rằng không ai có thể là đối thủ của mình.
 
 Phụt!
 Tên béo bạo quân phun ra một ngụm máu lớn.
@@ -28,7 +28,7 @@ Vừa dứt lời, máy bay, quân đội hiện đại đều xuất xưởng.
 Đủ loại cảnh sát cơ khí hiện đại hóa, đủ loại máy móc mang phong cách khoa học viễn tưởng tương lai đang xuất quân, che thiên lấp địa xông vào đống đổ nát của thành phố này.
 Họ bắt đầu bao vây tiêu diệt cự nhân.
 
-"Liên thủ rồi sao?" Sắc mặt Asol trầm xuống.
+"Liên thủ rồi sao?" Sắc mặt Athol trầm xuống.
 
 "Mục tiêu của chúng tôi là nhân loại các người." Silph không cảm xúc, cô ta là trung tâm trí tuệ của toàn bộ người phỏng sinh.
 Đối với Silph mà nói, con người mới là kẻ thù thực sự của thế giới này, giúp phe zombie kéo giảm vũ lực của nhân loại là một lựa chọn vô cùng tốt.

@@ -34,12 +34,12 @@ Tính cách của hai người trong mơ đã bị đảo ngược. Rõ ràng l�
 【Mười tuổi, Sivie và Aurora được gọi là một văn một võ, là một trong những hy vọng của thời đại.】
 【Mười hai tuổi, dựa theo thiết bị dò tìm khoa học, có văn minh ngoài hành tinh tà ác, văn minh Tam Thể sắp tới xâm lược, lần lượt là Nhật, Nguyệt, Tinh, Tam Thể. Môi trường khắc nghiệt, là những người ngoài hành tinh tà ác chỉ còn lại một cái đầu lâu.】
 【Mười lăm tuổi, Aurora được toàn nhân loại chọn làm diện bích giả (Wallfacer). Sivie với tư cách là một võ nhân, bảo vệ em gái diện bích giả của mình.】
-【Mười sáu tuổi, nhân loại đối mặt với cuộc xâm lược sắp tới, Aurora cảm thấy tuyệt vọng cho nhân loại. Chịu áp lực cực lớn, cô ấy chọn cách âm thầm tự thưởng (thủ dâm) trong phòng, nhưng lại bị Sivie đơn thuần bắt gặp. Aurora cười tà mị: Đây là một phần của kế hoạch.】
+【Mười sáu tuổi, nhân loại đối mặt với cuộc xâm lược sắp tới, Aurora cảm thấy tuyệt vọng cho nhân loại. Chịu áp lực cực lớn, cô ta chọn cách âm thầm tự thưởng (thủ dâm) trong phòng, nhưng lại bị Sivie đơn thuần bắt gặp. Aurora cười tà mị: Đây là một phần của kế hoạch.】
 【Sivie đơn thuần đem kế hoạch diện bích của em gái công bố khắp nơi, Aurora trực tiếp bị "xã hội tử vong" (social death).】
 
 ??? Lý Khanh xem mà đầy dấu hỏi chấm. Bôi đen Aurora một trận, cái này cũng được đi.
 
-【Mười bảy tuổi, Aurora quyết định đâm lao thì phải theo lao. Với tư cách là diện bích giả, cô ấy chọn nghe theo lời khuyên của một nhà khoa học bẩn thỉu ở tầng dưới là Minis: Đã không còn hy vọng thì hãy để toàn nhân loại chết trong sung sướng. Thế là thiết lập 《Kế hoạch Thất Lạc Viên》, khuyến khích toàn dân tự thưởng, thế gian chấn động mạnh.】
+【Mười bảy tuổi, Aurora quyết định đâm lao thì phải theo lao. Với tư cách là diện bích giả, cô ta chọn nghe theo lời khuyên của một nhà khoa học bẩn thỉu ở tầng dưới là Minis: Đã không còn hy vọng thì hãy để toàn nhân loại chết trong sung sướng. Thế là thiết lập 《Kế hoạch Thất Lạc Viên》, khuyến khích toàn dân tự thưởng, thế gian chấn động mạnh.】
 
 Diễn biến của giấc mơ này sao càng ngày càng phi lý thế này. Tuy nói là một giấc mơ, không theo logic, tha hồ tưởng tượng, nhưng nhìn thế nào đây cũng không phải là một giấc mơ đứng đắn. "Dù sao cũng là giấc mơ của thế hệ đầu tiên... không phù hợp logic, kỳ vọng là chuyện bình thường." Lý Khanh trầm tư. Hệ thống ngộ đạo qua mộng cảnh này là do hắn khai phá ra. Vẫn luôn là một bản thô, có đủ loại BUG, không hoàn thiện, giấc mơ đầu tiên phi lý cũng là lẽ đương nhiên.
 

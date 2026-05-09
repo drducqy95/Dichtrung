@@ -1,12 +1,12 @@
 # Chương 0036: Thời đại Chúng Thánh, Kỷ nguyên Tinh Linh!
 
 Bên ngoài thế giới, Lý Khanh sau khi tùy miệng trả lời một câu thần dụ, liền âm thầm cảm ứng nhóm sinh mệnh ý thức tập hợp mới sinh kia.
-Đợt 【Thức tỉnh】 nhân tạo lần hai này của họ, hóa ra lại giống hệt với Thánh Long 【Thức tỉnh】 tự nhiên lần hai, anh có thể nhập thân quan sát họ trong bóng tối bất cứ lúc nào, và cũng có thể giáng lâm để điều khiển họ bất cứ lúc nào.
+Đợt 【Thức tỉnh】 nhân tạo lần hai này của họ, hóa ra lại giống hệt với Thánh Long 【Thức tỉnh】 tự nhiên lần hai, hắn có thể nhập thân quan sát họ trong bóng tối bất cứ lúc nào, và cũng có thể giáng lâm để điều khiển họ bất cứ lúc nào.
 "Khả năng kiểm soát lập tức tăng vọt hoàn toàn."
 Lý Khanh cảm thấy vui mừng khôn xiết.
-Bản thân anh mất một tuần mới có thể tạo ra được một thuộc hạ thức tỉnh lần hai.
+Bản thân hắn mất một tuần mới có thể tạo ra được một thuộc hạ thức tỉnh lần hai.
 Giờ đây cùng một lúc xuất hiện tận tám nghìn cái.
-Anh thậm chí có thể âm thầm nhập thân "đứng ngoài quan sát" từng vị trí giả này, dùng họ làm mắt của mình để quan sát cả thế giới một cách thuận tiện hơn, tùy ý chuyển đổi góc nhìn của các thuộc hạ, cảm giác thật sự rất tuyệt vời.
+Hắn thậm chí có thể âm thầm nhập thân "đứng ngoài quan sát" từng vị trí giả này, dùng họ làm mắt của mình để quan sát cả thế giới một cách thuận tiện hơn, tùy ý chuyển đổi góc nhìn của các thuộc hạ, cảm giác thật sự rất tuyệt vời.
 "Có điều, dân số đã trở nên thưa thớt, để xem họ định làm gì tiếp theo."
 Ngay lúc này đây.
 Thời đại đã bắt đầu thực sự được thúc đẩy.

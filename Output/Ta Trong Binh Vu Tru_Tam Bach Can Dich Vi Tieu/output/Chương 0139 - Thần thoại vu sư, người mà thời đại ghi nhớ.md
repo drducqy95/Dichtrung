@@ -79,13 +79,13 @@ Trong cuốn hồi ký "Tôi và Tulisa".
 
 Vianna, người bạn cùng học tại học viện Misinaka, đã viết dòng chữ này trong cuốn sách:
 
-【Lúc đó cô ấy còn rất trẻ, tuổi thọ cũng có bảy tám trăm năm, tính tình nhát gan nội hướng, nhưng lại là một thiên tài. Rất nhiều vu sư nam trong trường đều theo đuổi cô ấy, cảm thấy cô ấy đáng yêu, nhưng cô ấy nhát đến mức ngay cả việc từ chối cũng là tôi giúp đỡ. Tôi cứ ngỡ chúng tôi sẽ là bạn đời của nhau, nhưng cô gái nhút nhát đó đã ra đi vào ngày hôm đó.】
+【Lúc đó cô ta còn rất trẻ, tuổi thọ cũng có bảy tám trăm năm, tính tình nhát gan nội hướng, nhưng lại là một thiên tài. Rất nhiều vu sư nam trong trường đều theo đuổi cô ta, cảm thấy cô ta đáng yêu, nhưng cô ta nhát đến mức ngay cả việc từ chối cũng là tôi giúp đỡ. Tôi cứ ngỡ chúng tôi sẽ là bạn đời của nhau, nhưng cô gái nhút nhát đó đã ra đi vào ngày hôm đó.】
 
-【Lúc đó tôi mới phát hiện ra, vị vu sư nhỏ bé nhát gan đến mức nói không nên lời đó, trong mắt có ánh sáng, có khát vọng đặc trưng theo đuổi chân lý của vu sư chúng ta. Sau đó tôi tiễn cô ấy tới hoàng thành tham gia tuyển chọn, vào một ngày đầy hoa và nắng ấm, đằng xa là tiếng còi tàu hỏa hướng về nơi xa xăm, khói bụi mịt mù.】
+【Lúc đó tôi mới phát hiện ra, vị vu sư nhỏ bé nhát gan đến mức nói không nên lời đó, trong mắt có ánh sáng, có khát vọng đặc trưng theo đuổi chân lý của vu sư chúng ta. Sau đó tôi tiễn cô ta tới hoàng thành tham gia tuyển chọn, vào một ngày đầy hoa và nắng ấm, đằng xa là tiếng còi tàu hỏa hướng về nơi xa xăm, khói bụi mịt mù.】
 
-【Tôi mãi mãi nhớ ngày hôm đó tôi hỏi cô ấy: Nhất định phải đi sao? Cô ấy xách túi hành lý nói với tôi: Tôi muốn chỉ tranh hiện tại.】
+【Tôi mãi mãi nhớ ngày hôm đó tôi hỏi cô ta: Nhất định phải đi sao? Cô ta xách túi hành lý nói với tôi: Tôi muốn chỉ tranh hiện tại.】
 
-【Khi gặp lại cô ấy, người bạn hướng nội đó đã khoác trên mình chiếc áo bào tím duy nhất trên thế giới, đeo lên chiếc huy hiệu Hiền Giả thần thánh trang nghiêm, ngồi ở vị trí rực rỡ nhất, đón chào hoàng hôn của chính mình. Bờ vai gầy nhỏ gánh vác cả một văn minh, dẫn dắt các vu sư trên khắp đại địa. Tôi trở thành thị tùng của cô ấy, vẫn chăm sóc miếng ăn giấc ngủ cho cô ấy, tiếp tục giúp cô nàng nhút nhát đó giao lưu với các vu sư khác...】
+【Khi gặp lại cô ta, người bạn hướng nội đó đã khoác trên mình chiếc áo bào tím duy nhất trên thế giới, đeo lên chiếc huy hiệu Hiền Giả thần thánh trang nghiêm, ngồi ở vị trí rực rỡ nhất, đón chào hoàng hôn của chính mình. Bờ vai gầy nhỏ gánh vác cả một văn minh, dẫn dắt các vu sư trên khắp đại địa. Tôi trở thành thị tùng của cô ta, vẫn chăm sóc miếng ăn giấc ngủ cho cô ta, tiếp tục giúp cô nàng nhút nhát đó giao lưu với các vu sư khác...】
 
 Cuối cùng, trong hiệu sách, tiểu thư Hy Bích Nhi nhìn cuốn hồi ký này, không thể kìm lòng được nữa, bắt đầu khóc nức nở...
 
@@ -93,7 +93,7 @@ Thời đại này là thời đại thuần khiết nhất, rực rỡ sắc m�
 
 Tại quầy thu ngân hiệu sách, Lý Khanh vẫn lặng lẽ ngồi bên cạnh, tiếp tục đọc sách.
 
-Anh đột nhiên ngẩng đầu nhìn bầu trời:
+Hắn đột nhiên ngẩng đầu nhìn bầu trời:
 
 "Thánh Đường Cổ Thần đã mang tới một trận mưa lớn tiễn đưa vị hiền giả trước. Còn Proeus chẳng qua chỉ là một vị quân chủ trên đại địa, dường như cũng muốn tặng cho vị hiền giả đời này của cô ấy một thứ gì đó."
 

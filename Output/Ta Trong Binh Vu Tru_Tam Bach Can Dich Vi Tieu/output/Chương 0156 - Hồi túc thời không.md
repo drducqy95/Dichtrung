@@ -16,7 +16,7 @@ Nhưng thực tế, vùng đại địa của năm mươi bang châu Mỹ là di
 
 Đào ròng rã hơn ba mươi năm rồi.
 Làm sao chỉ có căn phòng nhỏ vài ngàn, vài vạn mét vuông được?
-Đội ngũ công trình dù có rác rưởi đến đâu cũng không đến mức thảm hại như vậy, huống chi đây là đội ngũ xây dựng chuyên nghiệp của anh.
+Đội ngũ công trình dù có rác rưởi đến đâu cũng không đến mức thảm hại như vậy, huống chi đây là đội ngũ xây dựng chuyên nghiệp của hắn.
 
 Căn hộ ba phòng một phòng khách cộng lại có diện tích sánh ngang với nửa lục địa Úc, và vẫn đang tiếp tục mở rộng. Đây đã thực sự là một hố trống trong lòng đất, một nền văn minh địa tâm rồi.
 
@@ -38,7 +38,7 @@ Nếu không có lẽ thực sự sẽ xuất hiện vấn đề. Một thứ ng
 Phù!
 "Phải luôn để mắt tới bọn họ!" Lý Khanh nói.
 
-Nhóm Asol đã tỉnh lại.
+Nhóm Athol đã tỉnh lại.
 Hắn nhìn mọi thứ xung quanh, đứng dậy hét lớn: "Chúng ta lại trở về rồi."
 
 "Bắt đầu thôi!"
@@ -95,7 +95,7 @@ Cửa khoang mở ra, người đàn ông mặc bộ đồ phi hành gia màu tr
 Tiếp đó, người đàn ông bước ra khỏi cỗ máy thời gian, gặp ban quản trị của quốc gia, câu chuyện bắt đầu.
 Một dòng phụ đề hiện lên.
 
-【Tận thế giáng lâm, trong đống đổ nát tràn ngập sự tuyệt vọng, người đàn ông xuyên không về sớm sáu tiếng đồng hồ, lần này toàn diện chuẩn bị chiến đấu... Anh ta cùng chính phủ tiến hành thảo luận đưa ra quyết sách, đăng tải bộ phim 《Nhân loại tận thế: Sự bùng nổ của công ty Umbrella》, để toàn dân chuẩn bị chiến đấu.】
+【Tận thế giáng lâm, trong đống đổ nát tràn ngập sự tuyệt vọng, người đàn ông xuyên không về sớm sáu tiếng đồng hồ, lần này toàn diện chuẩn bị chiến đấu... Hắn cùng chính phủ tiến hành thảo luận đưa ra quyết sách, đăng tải bộ phim 《Nhân loại tận thế: Sự bùng nổ của công ty Umbrella》, để toàn dân chuẩn bị chiến đấu.】
 
 "???"
 Trước tivi, chàng thanh niên tên là Angly mặt đầy ngơ ngác.
@@ -133,7 +133,7 @@ Trong phim đều là thật sao?
 Tương lai mình vậy mà đã trở thành cứu thế chủ trong phim sao?
 Và bản thân mình trong tương lai đó đã chết vì bảo vệ nhân loại sao? Hóa thân thành người khổng lồ của văn minh cổ đại mà ngã xuống?
 
-Ngay lúc đầu óc anh vô cùng hỗn loạn.
+Ngay lúc đầu óc hắn vô cùng hỗn loạn.
 Mọi người cũng bắt đầu bàn tán xôn xao.
 
 "Angly, anh chính là cứu thế chủ của tương lai!"

@@ -1,7 +1,7 @@
 ﻿# Chương 188: Bán Thần truyền pháp
 
 Lý Khanh ngẩng đầu lên, nhìn thấy một vùng văn minh cổ quốc đã bắt đầu hiện hữu.
-Anh phát hiện những đơn bào mà mình tích hợp vậy mà đều đang tỏa ra Hồn hỏa, giống như một cây diêm được bao bọc trong ngọn lửa vậy.
+Hắn phát hiện những đơn bào mà mình tích hợp vậy mà đều đang tỏa ra Hồn hỏa, giống như một cây diêm được bao bọc trong ngọn lửa vậy.
 
 "Á! Ta là ai~" "Là ai ai~" "Oa u!" Từng đơn bào kỳ diệu đang bơi lội trong dịch dinh dưỡng, khiến người ta cảm thấy vô cùng kinh ngạc.
 Tỉ lệ trôi qua của thời gian ở đây không đồng nhất, có những nơi vô cùng nhanh chóng.
@@ -17,9 +17,9 @@ Theo một nghĩa nào đó, đây chính là tộc "Ultraman".
 "Phản công lại căn hộ ba phòng của mình!"
 
 Lý Khanh lại một lần nữa dấy lên những làn sóng chiến tranh cho thời đại hòa bình này.
-Đây là kỷ nguyên tiếp theo mà anh quy hoạch, thuộc về thiên số.
+Đây là kỷ nguyên tiếp theo mà hắn quy hoạch, thuộc về thiên số.
 Thời đại vốn dĩ không đến mức như vậy.
-Việc xây dựng nhẫn không gian vốn chỉ cần tìm một mảnh vỡ không gian một cách đơn giản là được, nhưng anh lại cố tình tăng thêm độ khó, bố trí thêm những kẻ canh giữ trên các mảnh vỡ không gian đó.
+Việc xây dựng nhẫn không gian vốn chỉ cần tìm một mảnh vỡ không gian một cách đơn giản là được, nhưng hắn lại cố tình tăng thêm độ khó, bố trí thêm những kẻ canh giữ trên các mảnh vỡ không gian đó.
 
 Tiểu vị diện vật tư khan hiếm, chắc chắn sẽ phải tấn công vào hiện thực.
 Mà thế giới bên ngoài muốn chế tạo trang bị lưu trữ không gian, nhẫn Á không gian, túi lưu trữ thì bắt buộc phải cướp đoạt những mảnh vỡ của các vị diện này, tấn công vào những "phó bản bí cảnh" này.
@@ -29,7 +29,7 @@ Mà thế giới bên ngoài muốn chế tạo trang bị lưu trữ không gia
 "Đây cũng là điểm giao thoa của ba thế giới, khi họ tiến vào tiểu vị diện, tự nhiên sẽ thấy sự tồn tại của các thế giới khác cũng có thể tiến vào, đủ kiểu tranh giành."
 
 Bán Thần mới chỉ là một sự khởi đầu, con đường này còn rất dài.
-Điều anh cần làm chính là dựng sẵn sân khấu, để những kẻ cầm lái thời đại lần lượt bước ra sân khấu diễn kịch.
+Điều hắn cần làm chính là dựng sẵn sân khấu, để những kẻ cầm lái thời đại lần lượt bước ra sân khấu diễn kịch.
 Mặc dù không còn là kiểu nhồi nhét ký ức một cách cực đoan nữa, dù sao cũng chẳng còn ký ức nào để mà đề hồ quán đảnh cho người ta nữa rồi.
 Nhưng kiểu dựng sân khấu này cũng sẽ thay đổi triệt để cái thế giới bất biến này, hóa thành những làn sóng không ngừng xung kích lên cảnh giới cao hơn.
 

@@ -1,6 +1,6 @@
 {
   "branch": "Hong Hoang Lich_Zhttty",
-  "generated_at": "2026-05-07T10:37:27+07:00",
+  "generated_at": "2026-05-10T04:00:50+07:00",
   "chapters": [
     {
       "chapter_number": 1,
@@ -1275,6 +1275,14 @@
       "has_content": true
     },
     {
+      "chapter_number": 160,
+      "chapter_title": "Ẩn bí tồn tại",
+      "source_output_file": "output/Chương 0160 - Ẩn bí tồn tại",
+      "display_output_filename": "Chương 0160: Ẩn bí tồn tại.md",
+      "filesystem_output_filename": "Chương 0160 - Ẩn bí tồn tại.md",
+      "has_content": false
+    },
+    {
       "chapter_number": 161,
       "chapter_title": "Che chở",
       "source_output_file": "output/Chương 0161 - Che chở.md",
@@ -1593,14 +1601,6 @@
       "display_output_filename": "Chương 0200: Sự nhắm vào của các Thánh vị.md",
       "filesystem_output_filename": "Chương 0200 - Sự nhắm vào của các Thánh vị.md",
       "has_content": true
-    },
-    {
-      "chapter_number": null,
-      "chapter_title": "Chưa đặt tiêu đề",
-      "source_output_file": "output/Chương 0160 - Ẩn bí tồn tại",
-      "display_output_filename": null,
-      "filesystem_output_filename": null,
-      "has_content": false
     }
   ]
 }

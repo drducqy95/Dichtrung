@@ -12,17 +12,17 @@ Dùng thân xác phàm nhân để sánh ngang với thần minh. Dùng một m�
 
 Trong căn phòng thứ ba.
 
-Lý Khanh thu hồi ý thức, thong thả mở mắt. Anh cảm nhận những thông tin kiến thức dồi dào kia, khóe miệng không kìm được mà nở một nụ cười dịu dàng: "Herodotus thật sự khiến ta không thể ngờ tới, đã một hơi khai phá vài cột mốc giai thềm cho thời đại, đóng góp to lớn cho thế giới của ta."
+Lý Khanh thu hồi ý thức, thong thả mở mắt. Hắn cảm nhận những thông tin kiến thức dồi dào kia, khóe miệng không kìm được mà nở một nụ cười dịu dàng: "Herodotus thật sự khiến ta không thể ngờ tới, đã một hơi khai phá vài cột mốc giai thềm cho thời đại, đóng góp to lớn cho thế giới của ta."
 
-Dẫu là anh đưa ra vương miện gai giống hệt nhau, hay là viên hồng ngọc rạn nứt bước chân vào đệ ngũ giai một nửa, không chỉ là để làm màn kết màn cho bối cảnh thế giới của Ác Ma Quân Chủ, mà còn là một loại áp lực đối với ông. Sự mạnh mẽ của kẻ thù chính là động lực để trở nên mạnh hơn.
+Dẫu là hắn đưa ra vương miện gai giống hệt nhau, hay là viên hồng ngọc rạn nứt bước chân vào đệ ngũ giai một nửa, không chỉ là để làm màn kết màn cho bối cảnh thế giới của Ác Ma Quân Chủ, mà còn là một loại áp lực đối với ông. Sự mạnh mẽ của kẻ thù chính là động lực để trở nên mạnh hơn.
 
 "Ta liên tục kích thích ông ta cũng là để cứu ông ta. Bởi vì ông ta càng mạnh, ta chuyển sang góc nhìn của ông ta, đồng bộ trạng thái của ông ta, ta có thể đột phá giai tầng tiếp theo càng nhanh. Ta có lẽ sẽ cường hóa được siêu năng lực 【Thức tỉnh】 của ánh mắt, có hy vọng..."
 
-Chính mình thăng cấp, đây là cơ hội sống sót duy nhất của Herodotus. Thực tế, anh còn quan tâm đến Herodotus hơn bất kỳ ai. Suy cho cùng, anh không ngừng mạo hiểm tính mạng, hết lần này đến lần khác quay số hàng tỷ lần là vì cái gì? Chẳng phải là vì anh hùng SSR sao? Đây đều là những nền tảng quý giá mà Đấng Sáng Thế tích lũy được!
+Chính mình thăng cấp, đây là cơ hội sống sót duy nhất của Herodotus. Thực tế, hắn còn quan tâm đến Herodotus hơn bất kỳ ai. Suy cho cùng, hắn không ngừng mạo hiểm tính mạng, hết lần này đến lần khác quay số hàng tỷ lần là vì cái gì? Chẳng phải là vì anh hùng SSR sao? Đây đều là những nền tảng quý giá mà Đấng Sáng Thế tích lũy được!
 
 Lý Khanh cảm nhận một chút trạng thái của mình. Trải qua vài tháng mới chậm chạp tăng trưởng tới bảy giây 【Thức tỉnh】. Giờ đây hệt như được kích thích, theo trạng thái ngộ đạo của Herodotus mà điên cuồng nhảy vọt, đạt tới mức 0 giây 【Thức tỉnh】, có một cảm giác sắp sửa đột phá rào cản sinh mệnh tiếp theo.
 
-Bỗng nhiên. Lý Khanh cảm nhận về Herodotus, hệt như đang đứng trên nóc một đoàn tàu cao tốc lộng gió với góc nhìn cực tốc đầy mộng ảo, đầu óc bỗng đau nhói. Sự lột xác của anh cuối cùng cũng sắp bắt đầu rồi.
+Bỗng nhiên. Lý Khanh cảm nhận về Herodotus, hệt như đang đứng trên nóc một đoàn tàu cao tốc lộng gió với góc nhìn cực tốc đầy mộng ảo, đầu óc bỗng đau nhói. Sự lột xác của hắn cuối cùng cũng sắp bắt đầu rồi.
 
 *Ầm đùng!* Cây Thế Giới rực lửa. Toàn bộ kỷ nguyên thế giới Tinh Linh đều bao phủ trong ngọn lửa hừng hực.
 

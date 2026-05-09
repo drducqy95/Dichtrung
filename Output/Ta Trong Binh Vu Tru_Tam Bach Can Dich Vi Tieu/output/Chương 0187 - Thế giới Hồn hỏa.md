@@ -1,14 +1,14 @@
 ﻿# Chương 187: Thế giới Hồn hỏa
 
 Lý Khanh luôn là một người có khả năng hành động cực kỳ mạnh mẽ.
-Anh lập tức bắt đầu thử nghiệm các khả năng trong đó, và nghiên cứu bộ phương thức thức tỉnh này.
+Hắn lập tức bắt đầu thử nghiệm các khả năng trong đó, và nghiên cứu bộ phương thức thức tỉnh này.
 
 Còn có một điểm vô cùng bảo đảm.
 Lối ra vào duy nhất chính là căn hộ ba phòng một phòng của Lý Khanh.
 Bởi vì chỉ có nơi này mới trải qua sự chấn động "bong bóng không gian" của thế giới tận thế, không gian không ổn định nên mới có thể ra vào Á không gian.
 Những nơi khác rất ổn định, không thể ra vào được.
 
-Anh dự định sẽ liên tục di chuyển trên vùng đất này, mở các lỗ không gian, thả vật tư vào các mảnh vỡ không gian bên trong: không khí, bùn đất, nước, dịch dinh dưỡng, và thức tỉnh đơn bào.
+Hắn dự định sẽ liên tục di chuyển trên vùng đất này, mở các lỗ không gian, thả vật tư vào các mảnh vỡ không gian bên trong: không khí, bùn đất, nước, dịch dinh dưỡng, và thức tỉnh đơn bào.
 Đến lúc đó, bất kể là ở vị trí nào trong ba căn phòng, khi công nghệ của họ có thể mở ra lỗ hổng không gian, họ đều sẽ nhìn thấy những mảnh vỡ không gian lớn nhỏ bên trong đã mọc đầy sự sống.
 
 Muốn cướp đoạt mảnh vỡ không gian?
@@ -26,8 +26,8 @@ Mảnh vỡ lớn có vài vạn mét, mảnh vỡ nhỏ chỉ có vài mét, nh
 
 "Biết đâu chừng, bên trong còn có lực lượng biến dị không gian quái dị, có thể khai sinh ra loại quái vật nghịch thiên cấp bậc như Herodotus."
 
-Anh cũng chẳng thèm để ý tới Silph nữa, cứ để cô tự chơi một mình.
-Anh thu thập đủ loại vật tư, bắt đầu chuẩn bị xây dựng "lớp thế giới bên trong" (Inner world) thứ hai.
+Hắn cũng chẳng thèm để ý tới Silph nữa, cứ để cô tự chơi một mình.
+Hắn thu thập đủ loại vật tư, bắt đầu chuẩn bị xây dựng "lớp thế giới bên trong" (Inner world) thứ hai.
 
 Nhưng Silph lập tức thấy lo lắng:
 "Bệ hạ, ngài định không cần tỳ nữ của mình nữa sao? Con có thể mang nhiều loại tính cách và kiểu mẫu mà, kiểu làm việc nhà, kiểu thiếu nữ thuần khiết, kiểu trưởng thành xinh đẹp, kiểu chị gái hàng xóm... Con là quản gia người phỏng sinh tốt nhất của ngài."

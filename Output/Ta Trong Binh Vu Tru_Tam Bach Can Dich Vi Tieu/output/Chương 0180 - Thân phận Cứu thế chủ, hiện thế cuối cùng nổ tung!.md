@@ -14,7 +14,7 @@ Mặc dù, nó cũng chỉ là một đóa hoa tương tự mà thôi.
 Rất nhanh, họ không ngừng nghỉ mà bắt đầu vận hành, dựa theo lộ trình của lần trước, đăng tải toàn bộ các bộ phim.
 Walton vẫn lặp lại quá trình trước đó, lần lượt đăng tải ba phần đầu.
 《Tận thế nhân loại: Sự bùng phát của công ty Umbrella》
-《Tận thế nhân loại quyển hai: Cự Nhân Vương Asol》
+《Tận thế nhân loại quyển hai: Cự Nhân Vương Athol》
 《Tận thế nhân loại phần ba: Thời đại Á không gian, phi thuyền lưu lạc》
 
 Ba phần này mỗi phần chiếm một tiếng rưỡi, cộng lại là bốn tiếng rưỡi.
@@ -23,7 +23,7 @@ Ba phần này mỗi phần chiếm một tiếng rưỡi, cộng lại là bố
 
 Như vậy, sáu tiếng đồng hồ trước tận thế hoàn toàn bị lãng phí, căn bản không cho người dân thời gian để lánh nạn.
 Nhưng hiện tại đã không còn quan trọng nữa rồi.
-Với công nghệ hiện nay của họ, chỉ cần một mình Asol ra tay là đã có thể hoàn toàn kiểm soát sự bùng phát virus zombie của "Phòng thí nghiệm Umbrella", không cần để người dân phải lánh nạn, có thể dùng phương thức hòa bình nhất để chấm dứt tận thế.
+Với công nghệ hiện nay của họ, chỉ cần một mình Athol ra tay là đã có thể hoàn toàn kiểm soát sự bùng phát virus zombie của "Phòng thí nghiệm Umbrella", không cần để người dân phải lánh nạn, có thể dùng phương thức hòa bình nhất để chấm dứt tận thế.
 
 "Lịch sử phải được ghi nhớ!"
 "Tất cả mọi thứ của chúng ta, người dân đều có quyền được biết." Walton nhấn nút đăng tải, hét lớn một tiếng: "Phim ảnh là kết thúc, cũng là sự bắt đầu thực sự!"

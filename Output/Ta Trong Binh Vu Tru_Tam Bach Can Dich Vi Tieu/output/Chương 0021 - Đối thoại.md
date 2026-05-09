@@ -34,7 +34,7 @@ Nhân loại là có giới hạn.
 
 Trong tình huống hiện tại, Lý Khanh đúng thực là có chút sợ.
 
-Nếu người ngoài nhìn thấy cảnh này, có lẽ sẽ coi anh là một tên sát nhân biến thái cuồng giam cầm trong phim ảnh, đang chơi trò giam giữ (PLAY), chắc chắn sẽ sợ đến mức tè ra quần mà báo cảnh sát, lúc đó anh có giải thích cũng chẳng xong.
+Nếu người ngoài nhìn thấy cảnh này, có lẽ sẽ coi hắn là một tên sát nhân biến thái cuồng giam cầm trong phim ảnh, đang chơi trò giam giữ (PLAY), chắc chắn sẽ sợ đến mức tè ra quần mà báo cảnh sát, lúc đó hắn có giải thích cũng chẳng xong.
 
 Còn những lo lắng khác thì tạm thời là không có.
 
@@ -110,7 +110,7 @@ Lý Khanh nhíu mày.
 
 Đây là đang nói về con người chúng ta sao?
 
-Nhưng rất nhanh anh đã nghĩ ra nguyên nhân.
+Nhưng rất nhanh hắn đã nghĩ ra nguyên nhân.
 
 Bản vẽ cấu trúc gen mà đối phương lấy được là của siêu nhân Ninh Quốc Xương, là một vị lãnh chúa zombie.
 
@@ -192,5 +192,5 @@ Kết quả là ngươi lại quay ngoắt đi mở đồ hộp trước mặt t
 
 Đồ hộp Ninh Quốc Xương để lại chắc là chưa hết hạn sử dụng đâu nhỉ.
 
-Tuy nhiên, mặc dù Lý Khanh mỉa mai như vậy, nhưng anh cũng có chút hiểu cho vị hoàng đế vui buồn thất thường này. Quả nhiên thiên tài đa số đều là những tên điên có tính cách quái gở, nếu không cũng chẳng tạo ra được cái thứ điên rồ như tháp Babel.
+Tuy nhiên, mặc dù Lý Khanh mỉa mai như vậy, nhưng hắn cũng có chút hiểu cho vị hoàng đế vui buồn thất thường này. Quả nhiên thiên tài đa số đều là những tên điên có tính cách quái gở, nếu không cũng chẳng tạo ra được cái thứ điên rồ như tháp Babel.
 

@@ -3,7 +3,7 @@
 Vụ nổ bong bóng không gian là điều bắt buộc.
 Nếu không Lý Khanh cũng sẽ không để họ bắn thử.
 
-Phải biết rằng, nổ thành thế này đã phá hủy tới bảy tám phần diện tích của toàn bộ sa bàn. Việc tu sửa lại sa bàn này đối với anh mà nói quả thực là một việc đau đầu.
+Phải biết rằng, nổ thành thế này đã phá hủy tới bảy tám phần diện tích của toàn bộ sa bàn. Việc tu sửa lại sa bàn này đối với hắn mà nói quả thực là một việc đau đầu.
 
 Mà sở dĩ phải làm vậy.
 Là vì theo suy đoán của họ, nhất định phải làm lung lay tính kiên cố của không gian một lần, thì sau này không gian xung quanh mới có thể lỏng lẻo hơn, mới có thể xây dựng được một á không gian thực sự.
@@ -12,7 +12,7 @@ Là vì theo suy đoán của họ, nhất định phải làm lung lay tính ki
 
 "Lần tẩy lễ này xong, lần sau chắc là sẽ xuất hiện kỹ thuật á không gian hoàn chỉnh rồi."
 
-Vị người khổng lồ này đi trên vùng đất đổ nát, nhìn những bức tường đổ nát trên đường phố, vùng đất cháy đen bốc mùi hôi thối, anh không kìm được mà thở dài một tiếng.
+Vị người khổng lồ này đi trên vùng đất đổ nát, nhìn những bức tường đổ nát trên đường phố, vùng đất cháy đen bốc mùi hôi thối, hắn không kìm được mà thở dài một tiếng.
 Sự phát triển của văn minh quả thực là thay đổi từng ngày!
 
 "Bắt đầu tái thiết thôi."
@@ -32,7 +32,7 @@ Chỉ còn lại hơn hai mươi vị lĩnh chủ zombie.
 Lúc này thời đại không ngừng được tái thiết.
 Lý Khanh cũng ném cả con tàu bay quay trở lại, "Đám người các người, hãy ngoan ngoãn đi kháng cự với phe zombie, mở ra lần luân hồi tiếp theo đi."
 
-Trong lòng anh suy tính một hồi, chỉ cảm thấy thu hoạch vô cùng phong phú.
+Trong lòng hắn suy tính một hồi, chỉ cảm thấy thu hoạch vô cùng phong phú.
 
 【Đang tu sửa thế giới ——】
 【Lần luân hồi này, kéo dài được tám năm sáu tháng.】
@@ -53,7 +53,7 @@ Xây dựng văn minh, thúc đẩy thời đại, tìm kiếm con đường tu 
 
 "Đuổi kịp cảnh giới của mình rồi, lần tới, thời đại chắc là phải thay đổi một chút thôi."
 
-Anh lộ ra vài phần ý cười, ngồi trên một tòa nhà đổ nát, "Thời đại trải qua giai đoạn bùng nổ như thế này, chắc là nên ổn định một thời gian."
+Hắn lộ ra vài phần ý cười, ngồi trên một tòa nhà đổ nát, "Thời đại trải qua giai đoạn bùng nổ như thế này, chắc là nên ổn định một thời gian."
 
 Đối với Lý Khanh mà nói, mấy lần luân hồi tận thế trước đó chẳng qua cũng chỉ giống như "thời kỳ sáng thế" của các thế giới khác, là sự thai nghén ban đầu của các chủng tộc, cấu trúc và trật tự thế giới.
 
@@ -68,11 +68,11 @@ Có cương có nhu mới là tư thế đúng đắn của sự phát triển.
 
 Lý Khanh nhìn vùng đất đổ nát này.
 Công tác tái thiết không hề chậm chạp.
-Đối với Lý Khanh mà nói, kỹ thuật xây dựng cây thế giới của đa vũ trụ cũng đang không ngừng đổi mới, đã là phiên bản thứ năm rồi, anh đã có kinh nghiệm phong phú trong việc "tẩy địa" cho họ.
+Đối với Lý Khanh mà nói, kỹ thuật xây dựng cây thế giới của đa vũ trụ cũng đang không ngừng đổi mới, đã là phiên bản thứ năm rồi, hắn đã có kinh nghiệm phong phú trong việc "tẩy địa" cho họ.
 
 A~~~!!
 Rất nhanh sau đó, theo một tiếng hét thảm thiết.
-Asol lại một lần nữa tiến vào vùng không gian mảnh vỡ ký ức thần bí đó.
+Athol lại một lần nữa tiến vào vùng không gian mảnh vỡ ký ức thần bí đó.
 
 Đen kịt u ám, chỉ còn lại một đống lửa trại đang bập bùng cháy.
 Bên đống lửa là một bóng hình mờ ảo đang bốc cháy, không phân biệt nam nữ, sau lưng là một vầng trăng.
@@ -87,7 +87,7 @@ Cái bóng đen thần bí đó nhìn về phía hỗn độn xa xăm bên ngoà
 "Niệm chết của Ngài ấy bao trùm lên thế giới gần nhất, đúc nên luân hồi sương xám và bất tử nhân, hình thành ác mộng vô gian trong thế giới của chúng ta..."
 
 Những lời đứt quãng bên đống lửa đó giống như ngôi mộ cổ trong hỗn độn không gian sâu thẳm.
-Asol toàn thân nổi da gà.
+Athol toàn thân nổi da gà.
 
 Hắn sắp xếp lại suy nghĩ.
 Bóng hình bao trùm vầng trăng trước mắt này là một sự tồn tại bản địa nguyên bản của thế giới họ, chẳng qua là đã gặp phải 'Hắc Khắc Thụy Tư' và một sự tồn tại đáng sợ tên là 'Quyền Đầu' chém giết lẫn nhau ở gần đó, dẫn tới sự hủy diệt của thế giới??
@@ -123,12 +123,12 @@ Vị thần linh đó khẽ nói: "Bất tử nhân trẻ tuổi kia, xin hãy p
 Cạch.
 Ác mộng đột nhiên tỉnh giấc.
 
-"Cái gì thế! Cái gì thế!" Asol hét lên thảm thiết một tiếng, nhìn mọi thứ xung quanh, há miệng thở dốc, lại một lần nữa mồ hôi nhễ nhại khắp người.
+"Cái gì thế! Cái gì thế!" Athol hét lên thảm thiết một tiếng, nhìn mọi thứ xung quanh, há miệng thở dốc, lại một lần nữa mồ hôi nhễ nhại khắp người.
 
 "Cậu hét thảm cái gì thế? Sao lại chảy nhiều mồ hôi vậy?"
-Giọng nói của Walton bên cạnh đã kéo Asol trở lại thực tại.
+Giọng nói của Walton bên cạnh đã kéo Athol trở lại thực tại.
 
-Asol mở mắt ra, nhìn môi trường xung quanh, vậy mà phát hiện mình lại trở về trong phòng thí nghiệm dưới lòng đất đó, luân hồi mới vậy mà đã bắt đầu rồi.
+Athol mở mắt ra, nhìn môi trường xung quanh, vậy mà phát hiện mình lại trở về trong phòng thí nghiệm dưới lòng đất đó, luân hồi mới vậy mà đã bắt đầu rồi.
 
 "Chúng ta vậy mà lại trở về rồi."
 Lý Uyển Ninh và những người khác không phát hiện ra sự khác thường của đối phương, chỉ nghĩ rằng hắn có chút không chịu nổi đả kích mà thôi.

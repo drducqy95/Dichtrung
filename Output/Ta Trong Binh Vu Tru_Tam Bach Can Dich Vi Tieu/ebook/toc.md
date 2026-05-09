@@ -1,5 +1,36 @@
 # Mục lục - Ta Trong Bình Vũ Trụ
 
+- Chương 0001: Bệnh nhân tâm thần Sáng Thế Thần
+- Chương 0002: Cuộc chiến thần thoại sử thi trong căn phòng
+- Chương 0003: Cái chết của Bàn Cổ
+- Chương 0004: Sáng thế, diệt thế, cự thần ngoài vách ngăn pha lê
+- Chương 0005: Sự ra đời của cá
+- Chương 0006: Ngày thường, sự thay đổi siêu năng lực của cơ thể
+- Chương 0007: Đế quốc đại dương, lần giáng lâm thứ hai của Thần
+- Chương 0008: Đấu trí đấu dũng, ván cờ đầu tiên giữa Ngoại Thần và phàm nhân
+- Chương 0009: Cuộc diệt thế thứ hai của Thần
+- Chương 0010: Phái đội tiên phong thăm dò thế giới
+- Chương 0011: Kiểm kê xác chết, bản vẽ Cự Long nguyên thủy?
+- Chương 0012: Cấu tưởng về việc tạo ra sinh mệnh
+- Chương 0013: Sự trỗi dậy của người Atabia
+- Chương 0014: Đế quốc vây quét, Quang Minh giáo hội đột phá
+- Chương 0015: Nghèo đến mức phát khiếp
+- Chương 0016: Phương thức kiếm tiền
+- Chương 0017: Đêm trước trận quyết chiến của văn minh
+- Chương 0018: Tháp Babel hai mươi sáu tầng
+- Chương 0019: Thần!
+- Chương 0020: Thế giới này không có Thần
+- Chương 0021: Đối thoại
+- Chương 0022: Sinh mệnh trọng sinh
+- Chương 0023: Thần phạt, Ngày phán xét cuối cùng
+- Chương 0024: Thế giới mạt nhật
+- Chương 0025: Tinh Linh vương ngã xuống, Thế Giới Thụ ra đời
+- Chương 0026: Kế hoạch gia cố thế giới
+- Chương 0027: Sóng bức xạ thần bí
+- Chương 0028: Giáng lâm
+- Chương 0029: Quân quyền thần thụ
+- Chương 0030: Nỗi sợ trường sinh, chúng ta của tương lai
+- Chương 0031: Quang Minh giáo đoàn quốc: Não của chúng ta đi đâu rồi
 - Chương 0032: Nút thắt kỹ thuật
 - Chương 0033: Kiếm thêm
 - Chương 0034: Hình thái sơ khai của chúng thần, Lạc Viên đã mất
@@ -15,6 +46,7 @@
 - Chương 0044: Lời lầm bầm của Tà Thần
 - Chương 0045: Lưu Ly Thần Nhãn, thời gian Thần Linh
 - Chương 0046: Truyền thụ sức mạnh
+- Chương 0047: Sáng tạo thế giới của ta: Thế giới Thâm Uyên
 - Chương 0048: Thánh nữ Tinh Linh xuyên không
 - Chương 0049: Sấm sét giáng lâm
 - Chương 0050: Va chạm
@@ -28,275 +60,243 @@
 - Chương 0058: Liền kề hai cảnh, đột phá giai tầng sinh mệnh
 - Chương 0059: Thử thách vận mệnh của Thần, Vương miện Gai Sáu Mũi
 - Chương 0060: Kích hóa
+- Chương 0061: Thần Long trong tế bào
+- Chương 0062: Cú đấm kinh thiên động địa
+- Chương 0063: Món quà từ máu ác ma
+- Chương 0064: Đệ ngũ cảnh và cuối đời
+- Chương 0065: Chuyện cũ kỷ nguyên, thời đại của ngươi và ta
+- Chương 0066: Câu chuyện của ngươi, Thần đã chứng kiến
+- Chương 0067: Thời đại chung yên
+- Chương 0068: Cánh cửa chân lý, vương quyền giao thế
+- Chương 0069: Sáng tạo hai đại chủng tộc siêu phàm
+- Chương 0070: Nghĩa địa của người Atabia
+- Chương 0071: Những luồng hào quang cuối cùng
+- Chương 0072: Sự trỗi dậy của Sylph
+- Chương 0073: Suzanne làm chuyện
+- Chương 0074: Hiển thánh trước mặt người, hành trình kỳ ảo
+- Chương 0075: Gia tộc chúng ta sắp trở thành siêu phàm rồi!
+- Chương 0076: Sự ra đời của Lôi Thần
+- Chương 0077: Phòng thí nghiệm đại não của ta, Thần Quốc
+- Chương 0078: Tinh không, ở ngay đó
+- Chương 0079: Cho các ngươi xem cho sướng
+- Chương 0080: Mở lại Cánh cửa Chân lý
+- Chương 0081: Tập kích, lên ngôi tân vương
+- Chương 0082: Vị hoàng đế điên rồ táo bạo
+- Chương 0083: Kỷ nguyên Ma võng, Thần điện trên không
+- Chương 0084: Kẻ nuôi không quen
+- Chương 0085: Tích lũy nền tảng
+- Chương 0086: Nguy hiểm đáng sợ mới
+- Chương 0087: Vương quốc Yêu tinh
+- Chương 0088: Bố cục
+- Chương 0089: Rương báu quái
+- Chương 0090: Cổ lão thánh kiếm
+- Chương 0091: Thần Yêu tinh Aurora
+- Chương 0092: Ma quan hủy diệt thế giới
+- Chương 0093: Sự dịu dàng của diệt thế
+- Chương 0094: Thiết lập quy tắc vũ trụ hệ vách ngăn pha lê!
+- Chương 0095: Thâm Uyên tận thế, trận chiến thần khủng khiếp
+- Chương 0096: Thời đại Mộ kiếm
+- Chương 0097: Chuẩn bị, nguồn vốn cho sa bàn mới
+- Chương 0098: Tập kích
+- Chương 0099: Người cha nhân từ, chiếu sáng con đường tương lai
+- Chương 0100: Phá vỡ vách ngăn pha lê
+- Chương 0101: Đợi ngươi trên vương tọa
+- Chương 0102: Hỗn độn cổ quan, bán thần viễn cổ ngủ say
+- Chương 0103: Vị vua cuối cùng trong sương mù
+- Chương 0104: Chúng ta, đã không cần Phụ thân nữa rồi
+- Chương 0105: Cựu Phụ đã chết
+- Chương 0106: Chư thần Hoàng hôn, thế giới siêu phàm ra đời
+- Chương 0107: Phân chia cảnh giới, biến cố của Aurora
+- Chương 0108: Bất động sản siêu to khổng lồ của ta: Ba phòng một phòng khách
+- Chương 0109: Kỷ nguyên Mùa Đông
+- Chương 0110: Xuyên không? Giấy báo nhập học của học viện ma pháp!
+- Chương 0111: Phim truyền hình thần thoại quy mô lớn: Sự khao khát của Herodotus
+- Chương 0112: Sự biến dị của cơ thể
 - Chương 0113: Cơn sốt mạng, ta cũng muốn xuyên không
+- Chương 0114: Nhập học
+- Chương 0115: Cuộc hành trình mộng ảo
+- Chương 0116: Khô Lâu Tướng Quân ngoài đời thực!
+- Chương 0117: Diễn toán dữ liệu, sáng tạo thần tiếu khổng lồ
+- Chương 0118: Kỷ nguyên Hoàng Kim mới, Walton bành trướng
+- Chương 0119: Cưỡng ép đăng cơ
+- Chương 0120: Truyền kỳ Vong Linh của thời đại!
+- Chương 0121: Thần Diệt Thế tỉnh giấc
+- Chương 0122: Chấn động
+- Chương 0123: Thời đại đào vàng đẫm máu
+- Chương 0124: Vương chi vẫn lạc
+- Chương 0125: Phong bia của thời đại
+- Chương 0126: Người xuyên không, cũng chỉ đến thế mà thôi
+- Chương 0127: Aurora thức tỉnh
+- Chương 0128: Aurora - Hu hu ai có thể cứu cứu tôi
+- Chương 0129: Xây dựng ngôi nhà của chính mình
+- Chương 0130: Sự trỗi dậy của đề tài dị thế giới
+- Chương 0131: Giáng lâm
+- Chương 0132: Phá giới, con đường phi thăng!
+- Chương 0133: Khát vọng đột phá Truyền Kỳ
+- Chương 0134: Sáng tạo thế giới địa tâm, Vị vua vô địch
+- Chương 0135: Thách thức giả tái hiện
+- Chương 0136: Chỉ có chân lý trường tồn
+- Chương 0137: Kẻ nhát gan nhất, lời nói đanh thép nhất
+- Chương 0138: Truyền Kỳ xuất hiện
+- Chương 0139: Thần thoại vu sư, người mà thời đại ghi nhớ
+- Chương 0140: Thời đại Hoàng Kim kết thúc!
+- Chương 0141: DNA Thần Long
+- Chương 0142: Thế giới sa bàn tiếp theo, bãi thử nghiệm văn minh
+- Chương 0143: Kiến tạo - Thế giới mạt nhật của Truman
+- Chương 0144: Sáng Thế Ký của Thần, bàn cờ đại địa
+- Chương 0145: Tận thế bùng nổ
+- Chương 0146: Tận thế bùng nổ
+- Chương 0147: Bốn năm, nhân loại diệt vong
+- Chương 0148: Cải tạo thế giới tận thế
+- Chương 0149: Khởi Nguyên Thế Giới Thụ của đa vũ trụ
+- Chương 0150: Toàn dân chuẩn bị chiến đấu, nghênh kích tận thế
+- Chương 0151: Vùng đất giao giới của luân hồi
+- Chương 0152: Nhà làm phim kỳ cựu Walton
+- Chương 0153: Thế giới chấn động, toàn dân sôi sục
+- Chương 0154: Sự tiến triển thần tốc của nhân loại trong tuyệt vọng
+- Chương 0155: Tiền đề bùng nổ
+- Chương 0156: Hồi túc thời không
+- Chương 0157: Kỷ nguyên Vàng, bình minh của nhân loại!
+- Chương 0158: Thế giới vách pha lê, sự bùng nổ của công nghệ tương lai
+- Chương 0159: Văn minh lưu lạc, bong bóng thế giới
+- Chương 0160: Bối cảnh kịch bản của tận thế
+- Chương 0161: Chuyên gia điện ảnh Walton
+- Chương 0162: Kỷ nguyên Quỹ Hội Tận Thế
+- Chương 0163: Kỳ ngộ của phái di sản?
+- Chương 0164: Danh tự của Ngài!
+- Chương 0165: Xuyên qua nhiều thế giới, văn minh võ đạo
+- Chương 0166: Đây, mới là thế giới tận thế thực sự!
+- Chương 0167: Kế hoạch thăm dò Mặt Trăng
+- Chương 0168: Thời đại mới
 - Chương 0169: Detroit Become Human
+- Chương 0170: Thời đại chi biến
+- Chương 0171: Cuộc chiến của siêu anh hùng
+- Chương 0172: Thiên phú Bán Thần
+- Chương 0173: Ai mới là người chiến thắng
+- Chương 0174: Fist Nocloron!
+- Chương 0175: Giáng lâm
+- Chương 0176: Quê hương Trái Đất
+- Chương 0177: Sự lựa chọn của con người
+- Chương 0178: Kẻ đứng sau màn thực sự
+- Chương 0179: Vòng luân hồi cuối cùng
+- Chương 0180: Thân phận Cứu thế chủ, hiện thế cuối cùng nổ tung!
+- Chương 0181: Một nhà ba người, thảy đều trung liệt
+- Chương 0182: Thế giới hỗn loạn
+- Chương 0183: Nỗi nhớ quê xưa
+- Chương 0184: Chém đứt quá khứ
+- Chương 0185: Sự phát triển của lực lượng thời không
+- Chương 0186: Chế tạo sinh mệnh Á không gian
+- Chương 0187: Thế giới Hồn hỏa
+- Chương 0188: Bán Thần truyền pháp
+- Chương 0189: Câu chuyện ngụ ngôn, hành trình của sinh mệnh
+- Chương 0190: Câu hỏi và câu trả lời thử thách
+- Chương 0191: Sự phân chia Bán Thần
+- Chương 0192: Phồn diễn quần tinh, thời đại giáo hội
+- Chương 0193: Võ cuồng
+- Chương 0194: Thiên Tâm Quyết, võ đạo thịnh thế
+- Chương 0195: Võ đạo đại xương
+- Chương 0196: Tộc Cự nhân, khiêu chiến Võ Thiên Tử
+- Chương 0197: Võ đạo đỉnh thịnh
+- Chương 0198: Nỗi sợ hãi cái chết
+- Chương 0199: Hắn sao vẫn chưa chết
+- Chương 0200: Phá toái hư không, Bạch nhật phi thăng
+- Chương 0201: Hắn đã trở lại
+- Chương 0202: Thế giới võ đạo hiện đại
+- Chương 0203: Đều sống trong lồng
+- Chương 0204: Cây Thế Giới bùng cháy, tựa như thần thoại ngày cũ
+- Chương 0205: Đỉnh phong va chạm
+- Chương 0206: Cá thể biến dị đặc biệt
+- Chương 0207: Thời đại của các thiếu niên thiên kiêu
+- Chương 0208: Suy nghĩ
+- Chương 0209: Hợp nhất
+- Chương 0210: Kỷ nguyên Võ đạo, thời đại Bốn giới vực!
+- Chương 0211: Đại Đế qua đời
+- Chương 0212: Ma thuật rất khoa học
+- Chương 0213: Bước vào thời đại Chân Thần
+- Chương 0214: Chân Thần xuất thế
+- Chương 0215: Tương kế tựu kế
+- Chương 0216: Khủng hoảng thời đại
+- Chương 0217: Bàn tay trong hỗn độn
+- Chương 0218: Cảnh giới Chân Thần
+- Chương 0219: Thời đại Thiên Đế
+- Chương 0220: Thiên Tử luận võ
+- Chương 0221: Thời đại hỗn loạn, hai trăm năm tử thương vô số
+- Chương 0222: Nhật Nguyệt Thần triều, thời đại kỳ quặc
 - Chương 0223: Lý Khanh: Tôi không cười nổi nữa rồi
-- output/Chương 0001 - Bệnh nhân tâm thần Sáng Thế Thần
-- output/Chương 0002 - Cuộc chiến thần thoại sử thi trong căn phòng
-- output/Chương 0003 - Cái chết của Bàn Cổ
-- output/Chương 0004 - Sáng thế, diệt thế, cự thần ngoài vách ngăn pha lê
-- output/Chương 0005 - Sự ra đời của cá
-- output/Chương 0006 - Ngày thường, sự thay đổi siêu năng lực của cơ thể
-- output/Chương 0007 - Đế quốc đại dương, lần giáng lâm thứ hai của Thần
-- output/Chương 0008 - Đấu trí đấu dũng, ván cờ đầu tiên giữa Ngoại Thần và phàm nhân
-- output/Chương 0009 - Cuộc diệt thế thứ hai của Thần
-- output/Chương 0010 - Phái đội tiên phong thăm dò thế giới
-- output/Chương 0011 - Kiểm kê xác chết, bản vẽ Cự Long nguyên thủy-
-- output/Chương 0012 - Cấu tưởng về việc tạo ra sinh mệnh
-- output/Chương 0013 - Sự trỗi dậy của người Atabia
-- output/Chương 0014 - Đế quốc vây quét, Quang Minh giáo hội đột phá
-- output/Chương 0015 - Nghèo đến mức phát khiếp
-- output/Chương 0016 - Phương thức kiếm tiền
-- output/Chương 0017 - Đêm trước trận quyết chiến của văn minh
-- output/Chương 0018 - Tháp Babel hai mươi sáu tầng
-- output/Chương 0019 - Thần!
-- output/Chương 0020 - Thế giới này không có Thần
-- output/Chương 0021 - Đối thoại
-- output/Chương 0022 - Sinh mệnh trọng sinh
-- output/Chương 0023 - Thần phạt, Ngày phán xét cuối cùng
-- output/Chương 0024 - Thế giới mạt nhật
-- output/Chương 0025 - Tinh Linh vương ngã xuống, Thế Giới Thụ ra đời
-- output/Chương 0026 - Kế hoạch gia cố thế giới
-- output/Chương 0027 - Sóng bức xạ thần bí
-- output/Chương 0028 - Giáng lâm
-- output/Chương 0029 - Quân quyền thần thụ
-- output/Chương 0030 - Nỗi sợ trường sinh, chúng ta của tương lai
-- output/Chương 0031 - Quang Minh giáo đoàn quốc- Não của chúng ta đi đâu rồi
-- output/Chương 0047 - Sáng tạo thế giới của ta- Thế giới Thâm Uyên
-- output/Chương 0061 - Thần Long trong tế bào
-- output/Chương 0062 - Cú đấm kinh thiên động địa
-- output/Chương 0063 - Món quà từ máu ác ma
-- output/Chương 0064 - Đệ ngũ cảnh và cuối đời
-- output/Chương 0065 - Chuyện cũ kỷ nguyên, thời đại của ngươi và ta
-- output/Chương 0066 - Câu chuyện của ngươi, Thần đã chứng kiến
-- output/Chương 0067 - Thời đại chung yên
-- output/Chương 0068 - Cánh cửa chân lý, vương quyền giao thế
-- output/Chương 0069 - Sáng tạo hai đại chủng tộc siêu phàm
-- output/Chương 0070 - Nghĩa địa của người Atabia
-- output/Chương 0071 - Những luồng hào quang cuối cùng
-- output/Chương 0072 - Sự trỗi dậy của Sylph
-- output/Chương 0073 - Suzanne làm chuyện
-- output/Chương 0074 - Hiển thánh trước mặt người, hành trình kỳ ảo
-- output/Chương 0075 - Gia tộc chúng ta sắp trở thành siêu phàm rồi!
-- output/Chương 0076 - Sự ra đời của Lôi Thần
-- output/Chương 0077 - Phòng thí nghiệm đại não của ta, Thần Quốc
-- output/Chương 0078 - Tinh không, ở ngay đó
-- output/Chương 0079 - Cho các ngươi xem cho sướng
-- output/Chương 0080 - Mở lại Cánh cửa Chân lý
-- output/Chương 0081 - Tập kích, lên ngôi tân vương
-- output/Chương 0082 - Vị hoàng đế điên rồ táo bạo
-- output/Chương 0083 - Kỷ nguyên Ma võng, Thần điện trên không
-- output/Chương 0084 - Kẻ nuôi không quen
-- output/Chương 0085 - Tích lũy nền tảng
-- output/Chương 0086 - Nguy hiểm đáng sợ mới
-- output/Chương 0087 - Vương quốc Yêu tinh
-- output/Chương 0088 - Bố cục
-- output/Chương 0089 - Rương báu quái
-- output/Chương 0090 - Cổ lão thánh kiếm
-- output/Chương 0091 - Thần Yêu tinh Aurora
-- output/Chương 0092 - Ma quan hủy diệt thế giới
-- output/Chương 0093 - Sự dịu dàng của diệt thế
-- output/Chương 0094 - Thiết lập quy tắc vũ trụ hệ vách ngăn pha lê!
-- output/Chương 0095 - Thâm Uyên tận thế, trận chiến thần khủng khiếp
-- output/Chương 0096 - Thời đại Mộ kiếm
-- output/Chương 0097 - Chuẩn bị, nguồn vốn cho sa bàn mới
-- output/Chương 0098 - Tập kích
-- output/Chương 0099 - Người cha nhân từ, chiếu sáng con đường tương lai
-- output/Chương 0100 - Phá vỡ vách ngăn pha lê
-- output/Chương 0101 - Đợi ngươi trên vương tọa
-- output/Chương 0102 - Hỗn độn cổ quan, bán thần viễn cổ ngủ say
-- output/Chương 0103 - Vị vua cuối cùng trong sương mù
-- output/Chương 0104 - Chúng ta, đã không cần Phụ thân nữa rồi
-- output/Chương 0105 - Cựu Phụ đã chết
-- output/Chương 0106 - Chư thần Hoàng hôn, thế giới siêu phàm ra đời
-- output/Chương 0107 - Phân chia cảnh giới, biến cố của Aurora
-- output/Chương 0108 - Bất động sản siêu to khổng lồ của ta- Ba phòng một phòng khách
-- output/Chương 0109 - Kỷ nguyên Mùa Đông
-- output/Chương 0110 - Xuyên không- Giấy báo nhập học của học viện ma pháp!
-- output/Chương 0111 - Phim truyền hình thần thoại quy mô lớn- Sự khao khát của Herodotus
-- output/Chương 0112 - Sự biến dị của cơ thể
-- output/Chương 0114 - Nhập học
-- output/Chương 0115 - Cuộc hành trình mộng ảo
-- output/Chương 0116 - Khô Lâu Tướng Quân ngoài đời thực!
-- output/Chương 0117 - Diễn toán dữ liệu, sáng tạo thần tiếu khổng lồ
-- output/Chương 0118 - Kỷ nguyên Hoàng Kim mới, Walton bành trướng
-- output/Chương 0119 - Cưỡng ép đăng cơ
-- output/Chương 0120 - Truyền kỳ Vong Linh của thời đại!
-- output/Chương 0121 - Thần Diệt Thế tỉnh giấc
-- output/Chương 0122 - Chấn động
-- output/Chương 0123 - Thời đại đào vàng đẫm máu
-- output/Chương 0124 - Vương chi vẫn lạc
-- output/Chương 0125 - Phong bia của thời đại
-- output/Chương 0126 - Người xuyên không, cũng chỉ đến thế mà thôi
-- output/Chương 0127 - Aurora thức tỉnh
-- output/Chương 0128 - Aurora - Hu hu ai có thể cứu cứu tôi
-- output/Chương 0129 - Xây dựng ngôi nhà của chính mình
-- output/Chương 0130 - Sự trỗi dậy của đề tài dị thế giới
-- output/Chương 0131 - Giáng lâm
-- output/Chương 0132 - Phá giới, con đường phi thăng!
-- output/Chương 0133 - Khát vọng đột phá Truyền Kỳ
-- output/Chương 0134 - Sáng tạo thế giới địa tâm, Vị vua vô địch
-- output/Chương 0135 - Thách thức giả tái hiện
-- output/Chương 0136 - Chỉ có chân lý trường tồn
-- output/Chương 0137 - Kẻ nhát gan nhất, lời nói đanh thép nhất
-- output/Chương 0138 - Truyền Kỳ xuất hiện
-- output/Chương 0139 - Thần thoại vu sư, người mà thời đại ghi nhớ
-- output/Chương 0140 - Thời đại Hoàng Kim kết thúc!
-- output/Chương 0141 - DNA Thần Long
-- output/Chương 0142 - Thế giới sa bàn tiếp theo, bãi thử nghiệm văn minh
-- output/Chương 0143 - Kiến tạo - Thế giới mạt nhật của Truman
-- output/Chương 0144 - Sáng Thế Ký của Thần, bàn cờ đại địa
-- output/Chương 0145 - Tận thế bùng nổ
-- output/Chương 0146 - Tận thế bùng nổ
-- output/Chương 0147 - Bốn năm, nhân loại diệt vong
-- output/Chương 0148 - Cải tạo thế giới tận thế
-- output/Chương 0149 - Khởi Nguyên Thế Giới Thụ của đa vũ trụ
-- output/Chương 0150 - Toàn dân chuẩn bị chiến đấu, nghênh kích tận thế
-- output/Chương 0151 - Vùng đất giao giới của luân hồi
-- output/Chương 0152 - Nhà làm phim kỳ cựu Walton
-- output/Chương 0153 - Thế giới chấn động, toàn dân sôi sục
-- output/Chương 0154 - Sự tiến triển thần tốc của nhân loại trong tuyệt vọng
-- output/Chương 0155 - Tiền đề bùng nổ
-- output/Chương 0156 - Hồi túc thời không
-- output/Chương 0157 - Kỷ nguyên Vàng, bình minh của nhân loại!
-- output/Chương 0158 - Thế giới vách pha lê, sự bùng nổ của công nghệ tương lai
-- output/Chương 0159 - Văn minh lưu lạc, bong bóng thế giới
-- output/Chương 0160 - Bối cảnh kịch bản của tận thế
-- output/Chương 0161 - Chuyên gia điện ảnh Walton
-- output/Chương 0162 - Kỷ nguyên Quỹ Hội Tận Thế
-- output/Chương 0163 - Kỳ ngộ của phái di sản-
-- output/Chương 0164 - Danh tự của Ngài!
-- output/Chương 0165 - Xuyên qua nhiều thế giới, văn minh võ đạo
-- output/Chương 0166 - Đây, mới là thế giới tận thế thực sự!
-- output/Chương 0167 - Kế hoạch thăm dò Mặt Trăng
-- output/Chương 0168 - Thời đại mới
-- output/Chương 0170 - Thời đại chi biến
-- output/Chương 0171 - Cuộc chiến của siêu anh hùng
-- output/Chương 0172 - Thiên phú Bán Thần
-- output/Chương 0173 - Ai mới là người chiến thắng
-- output/Chương 0174 - Fist Nocloron!
-- output/Chương 0175 - Giáng lâm
-- output/Chương 0176 - Quê hương Trái Đất
-- output/Chương 0177 - Sự lựa chọn của con người
-- output/Chương 0178 - Kẻ đứng sau màn thực sự
-- output/Chương 0179 - Vòng luân hồi cuối cùng
-- output/Chương 0180 - Thân phận Cứu thế chủ, hiện thế cuối cùng nổ tung!
-- output/Chương 0181 - Một nhà ba người, thảy đều trung liệt
-- output/Chương 0182 - Thế giới hỗn loạn
-- output/Chương 0183 - Nỗi nhớ quê xưa
-- output/Chương 0184 - Chém đứt quá khứ
-- output/Chương 0185 - Sự phát triển của lực lượng thời không
-- output/Chương 0186 - Chế tạo sinh mệnh Á không gian
-- output/Chương 0187 - Thế giới Hồn hỏa
-- output/Chương 0188 - Bán Thần truyền pháp
-- output/Chương 0189 - Câu chuyện ngụ ngôn, hành trình của sinh mệnh
-- output/Chương 0190 - Câu hỏi và câu trả lời thử thách
-- output/Chương 0191 - Sự phân chia Bán Thần
-- output/Chương 0192 - Phồn diễn quần tinh, thời đại giáo hội
-- output/Chương 0193 - Võ cuồng
-- output/Chương 0194 - Thiên Tâm Quyết, võ đạo thịnh thế
-- output/Chương 0195 - Võ đạo đại xương
-- output/Chương 0196 - Tộc Cự nhân, khiêu chiến Võ Thiên Tử
-- output/Chương 0197 - Võ đạo đỉnh thịnh
-- output/Chương 0198 - Nỗi sợ hãi cái chết
-- output/Chương 0199 - Hắn sao vẫn chưa chết
-- output/Chương 0200 - Phá toái hư không, Bạch nhật phi thăng
-- output/Chương 0201 - Hắn đã trở lại
-- output/Chương 0202 - Thế giới võ đạo hiện đại
-- output/Chương 0203 - Đều sống trong lồng
-- output/Chương 0204 - Cây Thế Giới bùng cháy, tựa như thần thoại ngày cũ
-- output/Chương 0205 - Đỉnh phong va chạm
-- output/Chương 0206 - Cá thể biến dị đặc biệt
-- output/Chương 0207 - Thời đại của các thiếu niên thiên kiêu
-- output/Chương 0208 - Suy nghĩ
-- output/Chương 0209 - Hợp nhất
-- output/Chương 0210 - Kỷ nguyên Võ đạo, thời đại Bốn giới vực!
-- output/Chương 0211 - Đại Đế qua đời
-- output/Chương 0212 - Ma thuật rất khoa học
-- output/Chương 0213 - Bước vào thời đại Chân Thần
-- output/Chương 0214 - Chân Thần xuất thế
-- output/Chương 0215 - Tương kế tựu kế
-- output/Chương 0216 - Khủng hoảng thời đại
-- output/Chương 0217 - Bàn tay trong hỗn độn
-- output/Chương 0218 - Cảnh giới Chân Thần
-- output/Chương 0219 - Thời đại Thiên Đế
-- output/Chương 0220 - Thiên Tử luận võ
-- output/Chương 0221 - Thời đại hỗn loạn, hai trăm năm tử thương vô số
-- output/Chương 0222 - Nhật Nguyệt Thần triều, thời đại kỳ quặc
-- output/Chương 0224 - Vu đạo đại thế!
-- output/Chương 0225 - Thân xác phàm nhân, tàn sát thần linh
-- output/Chương 0226 - Thánh Long trỗi dậy
-- output/Chương 0227 - Đặc tính đặc biệt của linh khí trời đất
-- output/Chương 0228 - Thời đại và tác dụng phụ
-- output/Chương 0229 - Sự lựa chọn mới
-- output/Chương 0230 - Vu Thiên Đế- Khổ chủ liên tiếp tìm tới cửa!
-- output/Chương 0231 - Ngài chính là kẻ đứng sau màn đúng không-
-- output/Chương 0232 - Trùng hợp trong trùng hợp
-- output/Chương 0233 - Vũ lực mới là căn bản của tất cả
-- output/Chương 0234 - Sự truyền thừa của mộng cảnh
-- output/Chương 0235 - Phong cảnh của vùng hỗn độn!
-- output/Chương 0236 - Giải mã giấc mơ
-- output/Chương 0237 - Giấc mơ của Mộng Y
-- output/Chương 0238 - Sự trỗi dậy của chủng tộc cơ khí
-- output/Chương 0239 - Không gian ác mộng luân hồi
-- output/Chương 0240 - Sự thay đổi của hiện thực
-- output/Chương 0241 - Muốn giết Noclon
-- output/Chương 0242 - Sivie đấm bay cả thời đại
-- output/Chương 0243 - Ý thức Thiên Đạo ra đời
-- output/Chương 0244 - Thời đại phát triển, phôi thai của luân hồi!
-- output/Chương 0245 - Văn minh dã sinh hình vòng
-- output/Chương 0246 - Lại thêm một quân cờ thời đại hạ xuống
-- output/Chương 0247 - Thúc đẩy
-- output/Chương 0248 - Tứ Phương Thiên Đế, thời đại Thiên Đạo
-- output/Chương 0249 - Sự kế thừa vương miện
-- output/Chương 0250 - Diệt thế bắt đầu
-- output/Chương 0251 - Sinh mệnh Thần cơ!
-- output/Chương 0252 - Tàn sát thương thiên!
-- output/Chương 0253 - Thượng giới
-- output/Chương 0254 - Thời gian là con dao sắc bén nhất
-- output/Chương 0255 - Biến cố liên tiếp
-- output/Chương 0256 - Thiên Tử đi đâu rồi
-- output/Chương 0257 - Thực thể khổng lồ trong hỗn độn
-- output/Chương 0258 - Xiềng xích của mộng cảnh
-- output/Chương 0259 - Ai có thể phân biệt được ta và ngươi trong mộng-
-- output/Chương 0260 - Trận chiến của Sivie
-- output/Chương 0261 - Cô ấy đã đủ cố gắng rồi
-- output/Chương 0262 - Thao túng Thiên Đạo
-- output/Chương 0263 - Trận chiến của Thiên Tử
-- output/Chương 0264 - Một đấm đánh nổ
-- output/Chương 0265 - Sự lựa chọn của cái chết
-- output/Chương 0266 - Thiên Đạo thực sự xuất thế
-- output/Chương 0267 - Đây mới là nắm đấm
-- output/Chương 0268 - Atabian
-- output/Chương 0269 - Chiêu thức
-- output/Chương 0270 - Người khổng lồ
-- output/Chương 0271 - Một đấm nghiêm túc
-- output/Chương 0272 - Đại thế mới là con dao sắc bén nhất
-- output/Chương 0273 - Bị thế giới ép ra ngoài
-- output/Chương 0274 - Hủy diệt không phải là hủy diệt
-- output/Chương 0275 - Hòa hoãn
-- output/Chương 0276 - Chuyện của thời đại
-- output/Chương 0277 - Thời đại Đa vũ trụ, suy ngẫm về đẳng cấp văn minh!
-- output/Chương 0278 - Người hoạch định bản đồ
-- output/Chương 0279 - Kiến tạo Đại Thiên Thế Giới
-- output/Chương 0280 - Bệnh viện Thùy não
-- output/Chương 0281 - Sivie nhập cuộc
-- output/Chương 0282 - Văn minh mất kiểm soát (Bốn ngàn chữ)
-- output/Chương 0283 - Ứng đối
-- output/Chương 0284 - Hạ giới, lần đầu tiên gặp gỡ văn minh
-- output/Chương 0285 - Chiến tranh chỉ là sự kéo dài của chính trị
-- output/Chương 0286 - Lấy lớn hiếp nhỏ, cứ tẩy não một trận trước đã
-- output/Chương 0287 - Không khí ngọt ngào, quốc gia vĩ đại
-- output/Chương 0288 - Lý Khanh - Tôi là một cái búa gỗ
-- output/Chương 0289 - Văn minh thần bí ngoài thiên không
-- output/Chương 0290 - Giao lưu
-- output/Chương 0291 - Xâm nhập tới
-- output/Chương 0292 - Sảng khoái bùng nổ quân số
-- output/Chương 0293 - Tập kích Thượng giới
-- output/Chương 0294 - Cự thủ hỗn độn, lại đập bay một con ruồi
-- output/Chương 0295 - Vị bệnh nhân đầu tiên nhập viện
-- output/Chương 0296 - Muốn chạy-
-- output/Chương 0297 - Trò chơi thế kỷ - Sơ Nguyên
-- output/Chương 0298 - Văn minh quái dị
-- output/Chương 0299 - Chủng tộc kỷ nguyên đáng thương
-- output/Chương 0300 - Văn minh 2.5 chiều
+- Chương 0224: Vu đạo đại thế!
+- Chương 0225: Thân xác phàm nhân, tàn sát thần linh
+- Chương 0226: Thánh Long trỗi dậy
+- Chương 0227: Đặc tính đặc biệt của linh khí trời đất
+- Chương 0228: Thời đại và tác dụng phụ
+- Chương 0229: Sự lựa chọn mới
+- Chương 0230: Vu Thiên Đế? Khổ chủ liên tiếp tìm tới cửa!
+- Chương 0231: Ngài chính là kẻ đứng sau màn đúng không?
+- Chương 0232: Trùng hợp trong trùng hợp
+- Chương 0233: Vũ lực mới là căn bản của tất cả
+- Chương 0234: Sự truyền thừa của mộng cảnh
+- Chương 0235: Phong cảnh của vùng hỗn độn!
+- Chương 0236: Giải mã giấc mơ
+- Chương 0237: Giấc mơ của Mộng Y
+- Chương 0238: Sự trỗi dậy của chủng tộc cơ khí
+- Chương 0239: Không gian ác mộng luân hồi
+- Chương 0240: Sự thay đổi của hiện thực
+- Chương 0241: Muốn giết Noclon
+- Chương 0242: Sivie đấm bay cả thời đại
+- Chương 0243: Ý thức Thiên Đạo ra đời
+- Chương 0244: Thời đại phát triển, phôi thai của luân hồi!
+- Chương 0245: Văn minh dã sinh hình vòng
+- Chương 0246: Lại thêm một quân cờ thời đại hạ xuống
+- Chương 0247: Thúc đẩy
+- Chương 0248: Tứ Phương Thiên Đế, thời đại Thiên Đạo
+- Chương 0249: Sự kế thừa vương miện
+- Chương 0250: Diệt thế bắt đầu
+- Chương 0251: Sinh mệnh Thần cơ!
+- Chương 0252: Tàn sát thương thiên!
+- Chương 0253: Thượng giới
+- Chương 0254: Thời gian là con dao sắc bén nhất
+- Chương 0255: Biến cố liên tiếp
+- Chương 0256: Thiên Tử đi đâu rồi
+- Chương 0257: Thực thể khổng lồ trong hỗn độn
+- Chương 0258: Xiềng xích của mộng cảnh
+- Chương 0259: Ai có thể phân biệt được ta và ngươi trong mộng?
+- Chương 0260: Trận chiến của Sivie
+- Chương 0261: Cô ta đã đủ cố gắng rồi
+- Chương 0262: Thao túng Thiên Đạo
+- Chương 0263: Trận chiến của Thiên Tử
+- Chương 0264: Một đấm đánh nổ
+- Chương 0265: Sự lựa chọn của cái chết
+- Chương 0266: Thiên Đạo thực sự xuất thế
+- Chương 0267: Đây mới là nắm đấm
+- Chương 0268: Atabian
+- Chương 0269: Chiêu thức
+- Chương 0270: Người khổng lồ
+- Chương 0271: Một đấm nghiêm túc
+- Chương 0272: Đại thế mới là con dao sắc bén nhất
+- Chương 0273: Bị thế giới ép ra ngoài
+- Chương 0274: Hủy diệt không phải là hủy diệt
+- Chương 0275: Hòa hoãn
+- Chương 0276: Chuyện của thời đại
+- Chương 0277: Thời đại Đa vũ trụ, suy ngẫm về đẳng cấp văn minh!
+- Chương 0278: Người hoạch định bản đồ
+- Chương 0279: Kiến tạo Đại Thiên Thế Giới
+- Chương 0280: Bệnh viện Thùy não
+- Chương 0281: Sivie nhập cuộc
+- Chương 0282: Văn minh mất kiểm soát (Bốn ngàn chữ)
+- Chương 0283: Ứng đối
+- Chương 0284: Hạ giới, lần đầu tiên gặp gỡ văn minh
+- Chương 0285: Chiến tranh chỉ là sự kéo dài của chính trị
+- Chương 0286: Lấy lớn hiếp nhỏ, cứ tẩy não một trận trước đã
+- Chương 0287: Không khí ngọt ngào, quốc gia vĩ đại
+- Chương 0288: Lý Khanh - Tôi là một cái búa gỗ
+- Chương 0289: Văn minh thần bí ngoài thiên không
+- Chương 0290: Giao lưu
+- Chương 0291: Xâm nhập tới
+- Chương 0292: Sảng khoái bùng nổ quân số
+- Chương 0293: Tập kích Thượng giới
+- Chương 0294: Cự thủ hỗn độn, lại đập bay một con ruồi
+- Chương 0295: Vị bệnh nhân đầu tiên nhập viện
+- Chương 0296: Muốn chạy?
+- Chương 0297: Trò chơi thế kỷ - Sơ Nguyên
+- Chương 0298: Văn minh quái dị
+- Chương 0299: Chủng tộc kỷ nguyên đáng thương
+- Chương 0300: Văn minh 2.5 chiều

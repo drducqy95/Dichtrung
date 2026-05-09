@@ -14,11 +14,11 @@ Mấy người bạn vừa uống rượu vừa hát hò, mặt mày đỏ gay.
 
 Bỗng nhiên, điện thoại của Lý Khanh vang lên.
 
-Anh đặt ly rượu xuống, bắt máy. Đó là cuộc gọi từ một bệnh nhân tâm thần đã mất liên lạc hai tháng nay: "Tôi muốn trăn trối vài lời, trước khi chết tôi có một thế giới muốn giao lại cho cậu."
+Hắn đặt ly rượu xuống, bắt máy. Đó là cuộc gọi từ một bệnh nhân tâm thần đã mất liên lạc hai tháng nay: "Tôi muốn trăn trối vài lời, trước khi chết tôi có một thế giới muốn giao lại cho cậu."
 
 Lý Khanh: "..."
 
-Người ở đầu dây bên kia anh rất quen, là bệnh nhân tâm thần mà anh từng điều trị, trước đây còn tự xưng là con zombie đầu tiên của thế giới hiện đại, giờ lại sở hữu cả một thế giới rồi sao? Xem ra bệnh tình ngày càng trầm trọng hơn.
+Người ở đầu dây bên kia hắn rất quen, là bệnh nhân tâm thần mà hắn từng điều trị, trước đây còn tự xưng là con zombie đầu tiên của thế giới hiện đại, giờ lại sở hữu cả một thế giới rồi sao? Xem ra bệnh tình ngày càng trầm trọng hơn.
 
 "Sao cậu lại đưa số điện thoại cá nhân cho bệnh nhân này? Không phải cậu đã nghỉ việc rồi sao, cậu còn định đi thăm hắn à?" Người bạn bên cạnh tò mò hỏi.
 
@@ -30,23 +30,23 @@ Lý Khanh làm xong thủ tục bàn giao cuối cùng, lái xe đến một ng�
 
 Bệnh nhân tên là Ninh Quốc Xương, du học sinh hải ngoại, thường xuyên bị những kẻ khác ở trường bắt nạt và tống tiền.
 
-Một năm trước ở trong nước, cha mẹ vất vả nuôi anh ăn học đã qua đời trong một vụ tai nạn. Dưới hàng loạt cú sốc, anh trở nên ít nói, tinh thần không ổn định.
+Một năm trước ở trong nước, cha mẹ vất vả nuôi hắn ăn học đã qua đời trong một vụ tai nạn. Dưới hàng loạt cú sốc, hắn trở nên ít nói, tinh thần không ổn định.
 
 Ninh Quốc Xương tiếp nhận điều trị tâm thần một thời gian nhưng không thuyên giảm, trái lại còn ngày càng nghiêm trọng, bắt đầu thường xuyên gặp ác mộng, nói rằng mình nhìn thấy bản thân ở một thời không khác, nơi bùng phát đại dịch zombie và mình đã trở thành một con zombie.
 
-Câu chuyện anh mô tả là một câu chuyện zombie rất bình thường.
+Câu chuyện hắn mô tả là một câu chuyện zombie rất bình thường.
 
 Một phiên bản của Resident Evil, thành phố Raccoon.
 
 Ngày tận thế bùng phát đầu tiên tại quốc gia tự do này, nơi vốn rất phù hợp với nguồn gốc của các loại phim ảnh và tiểu thuyết.
 
-Để cứu một cô gái, anh bị cắn và trở thành zombie, không ngừng ăn thịt người và dần dần khôi phục lý trí lúc sinh tiền, biến thành một con zombie điều khiển tinh thần với hai mươi tám con mắt lớn, trở thành quân chủ zombie ở vùng Phoenix, điên cuồng vây quét các khu tập trung của những người sống sót.
+Để cứu một cô gái, hắn bị cắn và trở thành zombie, không ngừng ăn thịt người và dần dần khôi phục lý trí lúc sinh tiền, biến thành một con zombie điều khiển tinh thần với hai mươi tám con mắt lớn, trở thành quân chủ zombie ở vùng Phoenix, điên cuồng vây quét các khu tập trung của những người sống sót.
 
-Anh cũng không ngừng tư vấn điều trị cho Ninh Quốc Xương, luôn đóng vai trò là người lắng nghe.
+Hắn cũng không ngừng tư vấn điều trị cho Ninh Quốc Xương, luôn đóng vai trò là người lắng nghe.
 
 Một ngày nọ, Ninh Quốc Xương đột nhiên bỏ chạy, không còn tìm thấy tung tích nữa.
 
-Địa chỉ anh gửi đến không xa.
+Địa chỉ hắn gửi đến không xa.
 
 Nửa giờ sau, bước vào cửa phòng, Lý Khanh mới cảm thấy kỳ quái.
 
@@ -56,7 +56,7 @@ Ngăn cách bởi một lớp kính lớn, Lý Khanh nhìn thấy Ninh Quốc X�
 
 Chàng thanh niên thật thà, chất phác này giờ đây gầy rộc chỉ còn da bọc xương, đeo một chiếc kính râm lớn, vùng da lộ ra ngoài trắng bệch như sơn dầu và đầy rẫy những vết nứt nẻ li ti, mỗi cử động đều toát ra một luồng khí hãi hùng.
 
-Phía sau anh ta là một chiếc kệ khổng lồ chứa đầy nước khoáng, đồ hộp và đủ loại thực phẩm, xếp kín cả phòng ngủ.
+Phía sau hắn là một chiếc kệ khổng lồ chứa đầy nước khoáng, đồ hộp và đủ loại thực phẩm, xếp kín cả phòng ngủ.
 
 "Cậu tự cách ly, nhốt mình ở đây bao lâu rồi?"
 
@@ -68,7 +68,7 @@ Ninh Quốc Xương đưa mu bàn tay ra, một viên đá quý hình thoi quái
 
 "Đây là tinh hạch zombie của tôi."
 
-Anh ta cách một lớp cửa sổ đối diện, vô cùng bình tĩnh nói: "Lúc đó tôi bỏ chạy chính là vì cái này, tôi không muốn bị các người đem đi làm thí nghiệm. Nghe nói virus zombie ở thế giới bên kia cũng bùng phát từ phòng thí nghiệm ở bang bên cạnh."
+Hắn cách một lớp cửa sổ đối diện, vô cùng bình tĩnh nói: "Lúc đó tôi bỏ chạy chính là vì cái này, tôi không muốn bị các người đem đi làm thí nghiệm. Nghe nói virus zombie ở thế giới bên kia cũng bùng phát từ phòng thí nghiệm ở bang bên cạnh."
 
 Lý Khanh lặng lẽ quan sát vài giây.
 
@@ -98,11 +98,11 @@ Lý Khanh đã gặp quá nhiều bệnh nhân tâm thần bị hoang tưởng n
 
 "Xem cái này nữa đi, niệm động lực của tôi."
 
-Anh ta thật sự lấy ra một mẩu bông nhỏ bằng con kiến, điều khiển nó bay lơ lửng giữa không trung, nhưng trông có vẻ vô cùng vất vả.
+Hắn thật sự lấy ra một mẩu bông nhỏ bằng con kiến, điều khiển nó bay lơ lửng giữa không trung, nhưng trông có vẻ vô cùng vất vả.
 
 Lý Khanh im lặng một lúc.
 
-Anh nhanh chóng lấy lại tinh thần, nói: "Nói cách khác, hiện tại cậu là lãnh chúa zombie, xưởng vô trùng này là để ngăn chặn virus zombie của cậu lây lan ra bên ngoài?"
+Hắn nhanh chóng lấy lại tinh thần, nói: "Nói cách khác, hiện tại cậu là lãnh chúa zombie, xưởng vô trùng này là để ngăn chặn virus zombie của cậu lây lan ra bên ngoài?"
 
 "Không."
 
@@ -112,7 +112,7 @@ Lý Khanh lập tức ra vẻ yên tâm, lại hỏi: "Vậy cái xưởng này 
 
 Ninh Quốc Xương đột nhiên rùng mình một cái: "Tôi làm xưởng vô trùng này là để đề phòng đôi mắt của tôi, nó có thể điều khiển vi khuẩn và nhìn thấy rất rõ ràng, rõ như kính hiển vi vậy, có thể phóng to thu nhỏ bất cứ lúc nào."
 
-Anh ta bỗng nhiên tinh thần bắt đầu không ổn định, lộ ra vẻ đau đớn.
+Hắn bỗng nhiên tinh thần bắt đầu không ổn định, lộ ra vẻ đau đớn.
 
 Giống như đa số bệnh nhân tâm thần, Ninh Quốc Xương đột nhiên bộc phát cảm xúc kích động.
 
@@ -130,11 +130,11 @@ Như thể có lũ mạt bụi kinh tởm đang bò lổm ngổm.
 
 Nhưng cũng may, người học y đều không sợ cái này, thứ kinh tởm hơn cũng thấy nhiều rồi.
 
-Tuy nhiên về lý thuyết, nếu đôi mắt của anh ta đạt đến cấp độ kính hiển vi điện tử, thì trong mắt anh ta, mình chẳng phải là một quái vật hình người lông lá bao phủ bởi đủ loại vi sinh vật hay sao?
+Tuy nhiên về lý thuyết, nếu đôi mắt của hắn ta đạt đến cấp độ kính hiển vi điện tử, thì trong mắt hắn, mình chẳng phải là một quái vật hình người lông lá bao phủ bởi đủ loại vi sinh vật hay sao?
 
 Không thể hiểu nổi độ chính xác của tầm nhìn này.
 
-Có lẽ cấu trúc mắt của hai bên đã là của hai loại sinh vật khác nhau rồi, anh ta đã hướng tới sự quái dị và thần bí.
+Có lẽ cấu trúc mắt của hai bên đã là của hai loại sinh vật khác nhau rồi, hắn đã hướng tới sự quái dị và thần bí.
 
 "Cậu biết đấy, tôi bị hội chứng sợ lỗ (trypophobia) mà! Tôi bị bệnh sạch sẽ nghiêm trọng!"
 
@@ -146,7 +146,7 @@ Ninh Quốc Xương ngồi đối diện trong xưởng vô trùng cách ly tr�
 
 "Ngay cả khi ra ngoài, tôi cũng đội mũ bảo hiểm bong bóng, mặc bộ đồ bảo hộ đặc chế! Có xem One Piece không? Tôi muốn làm Thiên Long Nhân!"
 
-Anh ta giống như một bệnh nhân rơi vào trạng thái cuồng loạn cực độ, toàn thân toát ra khí tức điên rồ, nỗi đau vô tận bén rễ sâu sắc trong những biểu cảm méo mó trên khuôn mặt.
+Hắn giống như một bệnh nhân rơi vào trạng thái cuồng loạn cực độ, toàn thân toát ra khí tức điên rồ, nỗi đau vô tận bén rễ sâu sắc trong những biểu cảm méo mó trên khuôn mặt.
 
 Nếu đến đây, Lý Khanh cũng chỉ cảm thấy đây là câu chuyện về một tân nhân loại tiến hóa có bệnh sạch sẽ mà thôi.
 
@@ -174,9 +174,9 @@ Thế nhưng, câu chuyện về bệnh sạch sẽ bắt đầu dần dần chu
 
 Ninh Quốc Xương bỗng lộ ra vẻ mặt cay đắng: "Tôi quá sợ hãi, những vi sinh vật này sau khi có trí tuệ, hiện tại thật kinh dị! Chúng phát triển văn minh, giống như loài vượn cổ chúng ta thuở xa xưa trên Trái Đất xây dựng bộ lạc vậy."
 
-Lý Khanh thử suy nghĩ theo mạch tư duy của anh ta.
+Lý Khanh thử suy nghĩ theo mạch tư duy của hắn ta.
 
-Nếu những gì anh ta nói là thật, vi sinh vật xây dựng văn minh, dù có trí tuệ thì đã sao?
+Nếu những gì hắn nói là thật, vi sinh vật xây dựng văn minh, dù có trí tuệ thì đã sao?
 
 Cấu trúc của chúng định sẵn là sinh vật cấp thấp.
 
@@ -198,7 +198,7 @@ Ninh Quốc Xương cười khổ: "Nhưng sau đó tôi mới phát hiện ra, 
 
 "Cậu có biết không?"
 
-Anh ta cách một lớp kính, nhìn vào đống quân đội vi khuẩn li ti trên bàn.
+Hắn cách một lớp kính, nhìn vào đống quân đội vi khuẩn li ti trên bàn.
 
 "Chúng không có mắt, nhưng lại có cảm nhận tinh thần lực thần bí, chăn nuôi những vi sinh vật không có trí tuệ khác làm quyến thuộc của tôi, dùng niệm động lực yếu hơn tôi để gian khổ tháo dỡ cấu trúc RNA, biên dịch, sao chép, xây dựng robot sinh học của riêng mình, từ roi xoắn, lớp vỏ, trực tiếp bước vào thời đại chăn nuôi sinh học."
 
@@ -208,9 +208,9 @@ Anh ta cách một lớp kính, nhìn vào đống quân đội vi khuẩn li ti
 
 "Những sinh vật đơn bào này đang tự diễn hóa!"
 
-Nhìn vị bệnh nhân này đang đau khổ thổ lộ muôn vàn lời nói, Lý Khanh mới nhận ra anh ta đang nói về cái gì.
+Nhìn vị bệnh nhân này đang đau khổ thổ lộ muôn vàn lời nói, Lý Khanh mới nhận ra hắn đang nói về cái gì.
 
-Bệnh nhân này, anh ta đã nhìn thấy một lịch sử tiến hóa sự sống đầy kinh hoàng.
+Bệnh nhân này, hắn đã nhìn thấy một lịch sử tiến hóa sự sống đầy kinh hoàng.
 
 Khi những vi sinh vật mà mắt thường chúng ta không nhìn thấy được sở hữu trí tuệ giống như con người, nền văn minh của chúng sẽ vượt xa nền văn minh nhân loại hiện đại của chúng ta.
 

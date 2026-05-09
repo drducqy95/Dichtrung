@@ -4,7 +4,7 @@ Lý Khanh nhất thời nghẹn lời.
 
 Dù có nói thế nào đi nữa, chuyện này cũng quá mức vô lý.
 
-Ánh mắt anh lại một lần nữa chú ý vào bên trong xưởng cách ly vô trùng này, quan sát một cách nghiêm túc.
+Ánh mắt hắn lại một lần nữa chú ý vào bên trong xưởng cách ly vô trùng này, quan sát một cách nghiêm túc.
 
 Ít nhất là trên bề mặt, không thấy có gì bất thường.
 
@@ -40,7 +40,7 @@ Ai bảo miệng của ai đó lại ghé sát mặt bàn đến vậy.
 
 "Chúng thực sự rất sùng bái cậu." Lý Khanh nói.
 
-Anh dám cá rằng, chuyện này còn kinh ngạc hơn bất kỳ câu chuyện hoang tưởng nào của bệnh nhân tâm thần mà anh từng gặp.
+Hắn dám cá rằng, chuyện này còn kinh ngạc hơn bất kỳ câu chuyện hoang tưởng nào của bệnh nhân tâm thần mà hắn từng gặp.
 
 Thậm chí, tất cả các bệnh nhân tâm thần trong lịch sử nhân loại cũng không thể mô tả nội dung nào viển vông hơn những gì được nghe hôm nay.
 
@@ -48,7 +48,7 @@ Thậm chí, tất cả các bệnh nhân tâm thần trong lịch sử nhân lo
 
 Nếu thực sự đây chỉ là hoang tưởng...
 
-"Vương quốc vi sinh vật 0.0023 gram mà tôi đang kiểm soát hiện nay đều khá sùng bái tôi." Ninh Quốc Xương lộ ra một nụ cười phức tạp, dường như đây là điều duy nhất khiến anh vui mừng kể từ sau những biến cố kinh hoàng những ngày qua.
+"Vương quốc vi sinh vật 0.0023 gram mà tôi đang kiểm soát hiện nay đều khá sùng bái tôi." Ninh Quốc Xương lộ ra một nụ cười phức tạp, dường như đây là điều duy nhất khiến hắn vui mừng kể từ sau những biến cố kinh hoàng những ngày qua.
 
 Lý Khanh hỏi: "Vậy tiếp theo, cậu định làm gì?"
 
@@ -82,13 +82,13 @@ Nhưng hóa trị tuy gây tổn thương cơ thể lớn, nhưng chỉ cần h�
 
 Ninh Quốc Xương nhìn thấu mọi chuyện, giọng nói bình thản đến lạ kỳ: "Tôi đã không còn muốn gắng gượng thêm nữa rồi."
 
-Thực tế, anh đã quá mệt mỏi rồi.
+Thực tế, hắn đã quá mệt mỏi rồi.
 
-Đối với một người mắc hội chứng sợ lỗ như anh, ngay từ đầu đây đã là một sự tra tấn tinh thần chẳng khác nào cực hình.
+Đối với một người mắc hội chứng sợ lỗ như hắn, ngay từ đầu đây đã là một sự tra tấn tinh thần chẳng khác nào cực hình.
 
-Khát vọng sống mãnh liệt khiến anh thử đấu tranh, sống trong thế giới của hội chứng sợ lỗ, nhưng khuynh hướng tự sát và trầm cảm cũng ngày càng nghiêm trọng, cho đến bây giờ tất cả vi sinh vật trong cơ thể đều đã thức tỉnh.
+Khát vọng sống mãnh liệt khiến hắn thử đấu tranh, sống trong thế giới của hội chứng sợ lỗ, nhưng khuynh hướng tự sát và trầm cảm cũng ngày càng nghiêm trọng, cho đến bây giờ tất cả vi sinh vật trong cơ thể đều đã thức tỉnh.
 
-Anh biết rõ bản thân đã vô phương cứu chữa.
+Hắn biết rõ bản thân đã vô phương cứu chữa.
 
 Khoảnh khắc này, vị bệnh nhân tâm thần ở bên kia cửa sổ, giọng nói yếu ớt đến mức không còn chút sức sống:
 
@@ -100,7 +100,7 @@ Khoảnh khắc này, vị bệnh nhân tâm thần ở bên kia cửa sổ, gi�
 
 Ninh Quốc Xương nói: "Cậu là người duy nhất tôi có thể tin tưởng, sau này hy vọng cậu giúp tôi. Sau khi tôi tự sát, hãy giúp tôi xử lý những vi sinh vật còn sót lại trong xưởng này, cũng như lo hậu sự cho tôi, chắc sẽ không quá khó khăn."
 
-Rõ ràng, anh đã sắp xếp mọi việc ổn thỏa.
+Rõ ràng, hắn đã sắp xếp mọi việc ổn thỏa.
 
 Lý Khanh nói:
 
@@ -108,7 +108,7 @@ Lý Khanh nói:
 
 Ninh Quốc Xương khẽ nhảy một cái, linh hoạt như một con nhện nhảy lên tường vài lần, rồi lại rơi xuống chỗ ngồi.
 
-Lý Khanh giật mình run lên một cái, cuối cùng trải qua vài giây đấu tranh tư tưởng, anh thở dài nói: "Tôi hiểu rồi, chuyện này đã đảo lộn toàn bộ kinh nghiệm sống của tôi từ trước đến nay, tôi thực sự không thể giúp gì được cho cậu."
+Lý Khanh giật mình run lên một cái, cuối cùng trải qua vài giây đấu tranh tư tưởng, hắn thở dài nói: "Tôi hiểu rồi, chuyện này đã đảo lộn toàn bộ kinh nghiệm sống của tôi từ trước đến nay, tôi thực sự không thể giúp gì được cho cậu."
 
 "Tôi biết." Ninh Quốc Xương ngồi trên ghế nhìn vào đốm đen trên bàn, chỉ vào chúng nói:
 
@@ -124,31 +124,31 @@ Lý Khanh không nói gì.
 
 "Người sống một cách nghiêm túc thì không phải là phế vật." Lý Khanh vẫn còn chưa hoàn hồn nhưng vẫn an ủi một câu.
 
-An ủi và làm dịu cảm xúc của bệnh nhân là công việc của anh.
+An ủi và làm dịu cảm xúc của bệnh nhân là công việc của hắn.
 
-Mặc dù những sự việc quái dị trước mắt khiến anh có chút quên mất công việc của mình.
+Mặc dù những sự việc quái dị trước mắt khiến hắn có chút quên mất công việc của mình.
 
 "Đúng vậy, đúng vậy."
 
-Vẻ mặt Ninh Quốc Xương thản nhiên, anh vừa nói vừa khôi phục lại nụ cười chất phác đặc trưng của những người nông dân quê mùa mà Lý Khanh gặp lúc đầu.
+Vẻ mặt Ninh Quốc Xương thản nhiên, hắn vừa nói vừa khôi phục lại nụ cười chất phác đặc trưng của những người nông dân quê mùa mà Lý Khanh gặp lúc đầu.
 
-Sau đó, Lý Khanh và Ninh Quốc Xương không còn thảo luận về câu chuyện vương quốc thần thoại nữa, mà trò chuyện về những việc nhà vụn vặt, về quá khứ của anh, về bi kịch của anh, về những niềm vui đơn giản thời thơ ấu.
+Sau đó, Lý Khanh và Ninh Quốc Xương không còn thảo luận về câu chuyện vương quốc thần thoại nữa, mà trò chuyện về những việc nhà vụn vặt, về quá khứ của hắn, về bi kịch của hắn, về những niềm vui đơn giản thời thơ ấu.
 
 Cuối cùng Lý Khanh cũng không biết mình rời đi bằng cách nào.
 
 Đầu óc trống rỗng.
 
-Suốt cả ngày hôm sau, anh rơi vào trạng thái ngẩn ngơ, tê liệt và hụt hẫng.
+Suốt cả ngày hôm sau, hắn rơi vào trạng thái ngẩn ngơ, tê liệt và hụt hẫng.
 
-Lúc này người bạn lại gọi điện hỏi han hồi lâu về việc về nước, anh cũng không chắc mình đã nghe lọt tai bao nhiêu.
+Lúc này người bạn lại gọi điện hỏi han hồi lâu về việc về nước, hắn cũng không chắc mình đã nghe lọt tai bao nhiêu.
 
-Ninh Quốc Xương vào khoảnh khắc cuối cùng của cuộc đời, lại chọn cách thổ lộ hết thảy cho vị bác sĩ tâm lý là anh đây.
+Ninh Quốc Xương vào khoảnh khắc cuối cùng của cuộc đời, lại chọn cách thổ lộ hết thảy cho vị bác sĩ tâm lý là hắn đây.
 
-Bởi vì, chỉ có anh là người sẵn lòng đi tìm anh ta.
+Bởi vì, chỉ có hắn là người sẵn lòng đi tìm hắn.
 
-Ở nơi đất khách quê người này, chỉ có anh coi anh ta là bạn, tôn trọng anh ta, lắng nghe anh ta nói từ đầu đến cuối một cách nghiêm túc.
+Ở nơi đất khách quê người này, chỉ có hắn coi hắn là bạn, tôn trọng hắn, lắng nghe hắn nói từ đầu đến cuối một cách nghiêm túc.
 
-Khác với câu chuyện mạo hiểm zombie, Bàn Cổ khai thiên lập địa thần thoại kia, câu chuyện bình thường này của anh ta cũng từng xảy ra với rất nhiều người.
+Khác với câu chuyện mạo hiểm zombie, Bàn Cổ khai thiên lập địa thần thoại kia, câu chuyện bình thường này của hắn ta cũng từng xảy ra với rất nhiều người.
 
 Cái quốc gia trông có vẻ tự do này, đối với một số nhân vật tầm cỡ ở tầng lớp thượng lưu thì đúng là tự do, có một cuộc đời rực rỡ , rượu sâm panh và người đẹp. Nhưng đối với những người bình thường ở quốc gia này, nó là nơi ăn thịt người.
 
@@ -158,7 +158,7 @@ Niềm vui của người giàu thì muôn màu muôn vẻ.
 
 Chỉ có nghèo mới là nguyên nhân căn bản dẫn đến hầu hết các bệnh tâm thần mắc phải sau này. Chế độ làm việc 996 của những người làm thuê hiện đại không chỉ tàn phá cơ thể, mà thực tế còn tàn phá cả tinh thần của bạn.
 
-Mà chính anh cũng chẳng phải đang gánh vác áp lực của những người dưới đáy xã hội này sao?
+Mà chính hắn cũng chẳng phải đang gánh vác áp lực của những người dưới đáy xã hội này sao?
 
 Bác sĩ tâm thần vốn dĩ đã áp lực kinh khủng rồi.
 
@@ -188,11 +188,11 @@ Thứ bên trong rất đơn giản, chỉ có một viên tinh hạch hình tho
 
 —— Đây chính là nguồn gốc của siêu năng lực.
 
-Khoảnh khắc cầm lấy tinh hạch, cả não bộ anh trống rỗng, tim đập thình thịch, anh nuốt nước bọt một cái.
+Khoảnh khắc cầm lấy tinh hạch, cả não bộ hắn trống rỗng, tim đập thình thịch, hắn nuốt nước bọt một cái.
 
 Quyền năng của quân chủ zombie đời thứ hai.
 
-Tâm trí Lý Khanh rối bời, không ngừng nhớ lại những câu chuyện huyền ảo mà Ninh Quốc Xương đã mô tả trước đây. Viên tinh hạch này dường như là cánh cửa mở ra ác quỷ, cũng có thể là cơ hội thay đổi hoàn toàn cuộc đời anh.
+Tâm trí Lý Khanh rối bời, không ngừng nhớ lại những câu chuyện huyền ảo mà Ninh Quốc Xương đã mô tả trước đây. Viên tinh hạch này dường như là cánh cửa mở ra ác quỷ, cũng có thể là cơ hội thay đổi hoàn toàn cuộc đời hắn.
 
 Sợ hãi không?
 
@@ -206,9 +206,9 @@ Là lẽ đương nhiên.
 
 Đây là kỳ ngộ để thăng tiến giai cấp, là bước ngoặt của một cuộc đời bình tầm thường!
 
-Là người xuất thân từ ngành y, anh biết rõ thứ này sở hữu tiềm năng kinh khủng đến mức nào, có thể tạo ra bao nhiêu trò hay.
+Là người xuất thân từ ngành y, hắn biết rõ thứ này sở hữu tiềm năng kinh khủng đến mức nào, có thể tạo ra bao nhiêu trò hay.
 
-Chỉ cần kiểm soát tốt, anh đủ sức leo lên đỉnh cao của nhóm người quyền lực trên thế giới!
+Chỉ cần kiểm soát tốt, hắn đủ sức leo lên đỉnh cao của nhóm người quyền lực trên thế giới!
 
 Xây dựng một thế lực khổng lồ và công ty công nghệ ngầm, thành lập phòng thí nghiệm, cũng như bí mật tạo ra nền văn minh vi mô, thúc đẩy sự ra đời của các thực thể siêu phàm.
 
@@ -218,11 +218,11 @@ Giải mã khởi nguồn sự sống, hướng tới trường sinh bất lão.
 
 Không còn nghi ngờ gì nữa, sự phát triển sinh học của nhân loại hiện đại cho đến nay vẫn vô cùng chậm chạp.
 
-Công nghệ sinh học của con người mới chỉ bắt đầu bước vào lĩnh vực vi khuẩn nano, robot nano, còn anh thì sao?
+Công nghệ sinh học của con người mới chỉ bắt đầu bước vào lĩnh vực vi khuẩn nano, robot nano, còn hắn thì sao?
 
 Tương đương với việc vừa bắt đầu đã sở hữu những robot sinh học cấp độ nano và micro.
 
 Điều này đối với bất kỳ một bác sĩ nào có ước mơ mà nói, đều là thứ không thể khước từ.
 
-Dù anh chỉ là một bác sĩ tâm thần nhỏ bé, cũng từng có một ước mơ trở thành giáo sư sinh học vĩ đại.
+Dù hắn chỉ là một bác sĩ tâm thần nhỏ bé, cũng từng có một ước mơ trở thành giáo sư sinh học vĩ đại.
 

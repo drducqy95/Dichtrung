@@ -1,40 +1,65 @@
 {
+  "global_rules": {
+    "narrator_perspective": {
+      "male_characters": "hắn / hắn ta",
+      "female_characters": "cô ta / nàng",
+      "note": "Tất cả các nhân vật dưới lời kể ngôi thứ ba sẽ dùng hắn (hắn ta) hoặc cô ta, cấm dùng từ 'anh' hoặc 'anh ta'."
+    },
+    "name_normalization": {
+      "Tô San Ni": "Suzanne",
+      "Y Lợi Ti": "Elise",
+      "Âu Nhược Lạp": "Aurora",
+      "Hi La Đa Đức": "Herodotus",
+      "Tây Nhĩ Phù": "Sylph",
+      "Oa Đốn": "Walton",
+      "Asol": "Athol",
+      "Gell-Hans": "Gerhans",
+      "Đồ Khắc Tư": "Tukasi"
+    }
+  },
   "common_pronouns": {
     "I": "ta",
     "you": "ngươi",
     "he": "hắn",
-    "she": "nàng",
-    "they": "chúng"
+    "she": "cô ta",
+    "they": "chúng / bọn hắn"
   },
   "specific_pronouns": {
     "Lý Khanh": {
       "self": "ta",
+      "narrator_to_him": "hắn",
       "to_others": "các ngươi",
       "others_to_him": "Ngài / Thần / Ngoại Thần"
     },
     "Atabia": {
       "self": "trẫm / ta",
+      "narrator_to_him": "hắn",
       "to_others": "các ngươi / ái khanh",
       "others_to_him": "Bệ hạ / Hoàng đế"
     },
     "Elise": {
       "self": "ta / bản tôn",
+      "narrator_to_her": "nàng / cô ta",
       "others_to_her": "Thánh nữ / Ma vương / Nàng / Tân Phụ"
     },
     "Herodotus": {
       "self": "ta / lão phu",
+      "narrator_to_him": "ông / hắn",
       "others_to_him": "Trí giả / Bệ hạ"
     },
     "Suzanne": {
       "self": "tôi / mình",
+      "narrator_to_her": "cô ta",
       "others_to_her": "cô / Suzanne / nàng"
     },
     "Walton": {
       "self": "tôi / ta",
+      "narrator_to_him": "lão / ông / hắn",
       "others_to_him": "ông / Walton / lão già"
     },
     "Athol": {
       "self": "tôi / mình",
+      "narrator_to_him": "hắn",
       "others_to_him": "cậu / Athol"
     }
   }

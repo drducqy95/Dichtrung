@@ -16,30 +16,30 @@ Không có bất kỳ âm thanh nào đáp lại. Rukasisni lập tức nổi gi
 
 Đêm đến. Mặt trăng trên bầu trời Thâm Uyên luôn rất mờ ảo, bởi vì lớp vách ngăn pha lê trên đỉnh đầu là loại một mặt, luôn không quá thấu quang. *Xào xạc.* Nước biển cuộn trào, con tàu cô độc hành hành trên mặt biển.
 
-Rukasisni bị một cơn buồn tiểu làm thức giấc giữa đêm. Anh ta thức dậy, dùng một con Slime để giải quyết nỗi buồn xong, bỗng nhiên luôn cảm thấy trên boong tàu bên ngoài có tiếng động gì đó.
+Rukasisni bị một cơn buồn tiểu làm thức giấc giữa đêm. Hắn thức dậy, dùng một con Slime để giải quyết nỗi buồn xong, bỗng nhiên luôn cảm thấy trên boong tàu bên ngoài có tiếng động gì đó.
 
-"Ai ở bên ngoài? Là Tom nhỏ sao?" Anh ta gọi to vài tiếng ra bên ngoài, việc người thủy thủ mất tích một cách kỳ lạ ngày hôm nay luôn khiến anh ta cảm thấy quỷ dị. Anh ta mở cửa phòng, lại phát hiện cửa của vài căn phòng bên cạnh đều khép hờ, bên trong không có một bóng người.
+"Ai ở bên ngoài? Là Tom nhỏ sao?" Hắn gọi to vài tiếng ra bên ngoài, việc người thủy thủ mất tích một cách kỳ lạ ngày hôm nay luôn khiến hắn cảm thấy quỷ dị. Hắn mở cửa phòng, lại phát hiện cửa của vài căn phòng bên cạnh đều khép hờ, bên trong không có một bóng người.
 
 "Chuyện gì thế này, giữa đêm hôm khuya khoắt, cả con tàu chỉ có mình mình đang ngủ sao?" Rukasisni cảm thấy sống lưng hơi lạnh lẽo.
 
 *Rắc! Rắc!* Từng căn phòng được đẩy ra đều không có người. Ngược lại còn cảm thấy lạnh toát sau gáy, hệt như có thứ gì đó đang nhìn mình.
 
-*Ào ào!* Anh ta bỗng nghe thấy tiếng động trên boong tàu. Anh ta cầm lấy cây gậy chống của mình, cẩn thận leo lên boong tàu, phát hiện chiếc quan cổ đó không biết từ lúc nào đã được khiêng lên boong tàu. Nắp quan tài đã mở ra. Một thanh bảo kiếm cắm trên luồng chất lỏng đặc quánh kia, mang theo một loại màu sắc lưu ly, tỏa ra ánh huỳnh quang nhạt dưới ánh trăng.
+*Ào ào!* Hắn bỗng nghe thấy tiếng động trên boong tàu. Hắn cầm lấy cây gậy chống của mình, cẩn thận leo lên boong tàu, phát hiện chiếc quan cổ đó không biết từ lúc nào đã được khiêng lên boong tàu. Nắp quan tài đã mở ra. Một thanh bảo kiếm cắm trên luồng chất lỏng đặc quánh kia, mang theo một loại màu sắc lưu ly, tỏa ra ánh huỳnh quang nhạt dưới ánh trăng.
 
 Mà bên cạnh quan tài, lại có một người đang ngồi trên boong tàu, lặng lẽ nhìn mặt biển. "Ai? Ngươi là ai?" Rukasisni cảm thấy trong lòng có chút hoảng sợ khó hiểu.
 
-Theo logic thông thường, đây rõ ràng là chuyện hiển nhiên. Thủy thủ đều biến mất vào đêm khuya, chắc chắn là cùng nhau mưu đồ thanh bảo kiếm của mình, cảnh tượng hiện tại đã đủ để nói lên vấn đề. Không biết tại sao, anh ta vẫn có chút hoảng loạn.
+Theo logic thông thường, đây rõ ràng là chuyện hiển nhiên. Thủy thủ đều biến mất vào đêm khuya, chắc chắn là cùng nhau mưu đồ thanh bảo kiếm của mình, cảnh tượng hiện tại đã đủ để nói lên vấn đề. Không biết tại sao, hắn vẫn có chút hoảng loạn.
 
 "Ngươi là ai, ngươi rốt cuộc là ai??"
 "Tom nhỏ? Jacksu? Tini?"
 
-Anh ta thấy đối phương hờ hững không nghe thấy, vẫn cứ nhìn mặt biển dưới ánh trăng. "Ma đằng!" Với tư cách là phù thủy mạnh nhất trên tàu, anh ta căng thẳng vung vẩy pháp trượng, lấy ra nguyên liệu thi pháp bên hông, một sợi dây leo nhanh chóng được thúc sinh ra, đâm về phía bóng lưng kia.
+Hắn thấy đối phương hờ hững không nghe thấy, vẫn cứ nhìn mặt biển dưới ánh trăng. "Ma đằng!" Với tư cách là phù thủy mạnh nhất trên tàu, hắn căng thẳng vung vẩy pháp trượng, lấy ra nguyên liệu thi pháp bên hông, một sợi dây leo nhanh chóng được thúc sinh ra, đâm về phía bóng lưng kia.
 
 *Phụt!* Toàn bộ bóng lưng bị xuyên thấu cơ thể, rơi xuống biển.
 
 "May mà..." Rukasisni thở phào nhẹ nhõm, thấy kẻ thù rơi xuống nước chết rồi, liền chậm rãi tiến lại gần chiếc quan cổ, định thu hồi thanh bảo kiếm.
 
-*Phụt!* Thanh bảo kiếm đột nhiên bay lên. Chất lỏng trong quan tài biến thành một bàn tay bằng chất lỏng, cầm lấy thanh bảo kiếm đâm xuyên qua đầu anh ta, cả người anh ta *uỳnh* một cái bị cuốn vào trong quan tài.
+*Phụt!* Thanh bảo kiếm đột nhiên bay lên. Chất lỏng trong quan tài biến thành một bàn tay bằng chất lỏng, cầm lấy thanh bảo kiếm đâm xuyên qua đầu hắn, cả người anh ta *uỳnh* một cái bị cuốn vào trong quan tài.
 
 *Rắc!* Quan tài đóng nắp. *Đùng! Đùng đùng đùng!!!* Bên trong điên cuồng đập phá, vùng vẫy, nhưng sức lực ngày càng nhỏ đi.
 

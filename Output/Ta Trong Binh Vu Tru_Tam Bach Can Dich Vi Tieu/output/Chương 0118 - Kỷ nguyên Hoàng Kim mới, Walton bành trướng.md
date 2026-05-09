@@ -4,7 +4,7 @@ Một tuần sau.
 
 Lý Khanh cuối cùng cũng đào được đến độ sâu tám ngàn mét dưới lòng đất. Cảm thấy bên dưới rất nóng, chắc hẳn là sắp chạm tới nham thạch rồi.
 
-Anh bắt đầu cẩn thận thăm dò địa hình xung quanh, cuối cùng cũng nắm được cấu trúc đại khái của những dòng sông nham thạch.
+Hắn bắt đầu cẩn thận thăm dò địa hình xung quanh, cuối cùng cũng nắm được cấu trúc đại khái của những dòng sông nham thạch.
 
 "Xây dựng ở đây đi."
 
@@ -14,7 +14,7 @@ Lý Khanh mở mắt ra, không ngừng sắp xếp lại suy nghĩ:
 
 "Trước tiên dùng trùng cốt thép giăng lưới, mười mấy lớp để chống đỡ cấu trúc bên trên, sau đó xây dựng cột chịu lực, đào rỗng bên dưới. Đầu tiên là xây dựng một tòa tháp Babel cao hơn trăm mét, dùng Bát Giác Bảo Tháp làm phòng làm việc chỉ huy sáng thế."
 
-Đột nhiên anh có cảm giác như đang chơi "Minecraft", thậm chí còn thuận tiện hơn. Chỉ cần động ngón tay là có các chủng tộc sinh mệnh quyến thuộc do mình tạo ra giúp mình xây dựng.
+Đột nhiên hắn có cảm giác như đang chơi "Minecraft", thậm chí còn thuận tiện hơn. Chỉ cần động ngón tay là có các chủng tộc sinh mệnh quyến thuộc do mình tạo ra giúp mình xây dựng.
 
 Đây mới thực sự là lối chơi của một Lãnh chúa zombie!
 
@@ -22,21 +22,21 @@ Hãy nhìn Ninh Quốc Xương ở vũ trụ song song kia xem, dẫn dắt hơn
 
 Làm xây dựng cơ sở hạ tầng có phải tốt hơn không, đào pháo đài dưới lòng đất có phải thoải mái hơn không.
 
-Tất nhiên, Ninh Quốc Xương có lẽ không có được độ chính xác điều khiển như anh.
+Tất nhiên, Ninh Quốc Xương có lẽ không có được độ chính xác điều khiển như hắn.
 
-Lúc này, anh đã điều khiển Lôi Thần tiến vào hang động sâu hơn tám ngàn mét bên dưới trang trại.
+Lúc này, hắn đã điều khiển Lôi Thần tiến vào hang động sâu hơn tám ngàn mét bên dưới trang trại.
 
-Trên đường đi xuống, anh còn đào được một số đường sông ngầm, hang động dưới lòng đất. Bất cứ lúc nào cũng có thể lấp đất vào, còn có thể dẫn nước sông vào sa bàn của mình, sau này nơi này sẽ không quá thiếu nước.
+Trên đường đi xuống, hắn còn đào được một số đường sông ngầm, hang động dưới lòng đất. Bất cứ lúc nào cũng có thể lấp đất vào, còn có thể dẫn nước sông vào sa bàn của mình, sau này nơi này sẽ không quá thiếu nước.
 
 Và điều rắc rối nhất là:
 
 Phải vận chuyển đợt thức ăn và các loại dưỡng chất đầu tiên xuống lòng đất.
 
-Cũng may, anh là người quản lý nông trại, việc cung cấp lượng lớn thức ăn không phải là vấn đề gì lớn, chỉ là vận chuyển xuống độ sâu tám ngàn mét thì rất phiền phức.
+Cũng may, hắn là người quản lý nông trại, việc cung cấp lượng lớn thức ăn không phải là vấn đề gì lớn, chỉ là vận chuyển xuống độ sâu tám ngàn mét thì rất phiền phức.
 
-Và khi đã có đợt thức ăn đầu tiên này, sau này anh sẽ trồng một số thực vật nham thạch đặc biệt bên cạnh dòng dung nham, tự cung tự cấp chuỗi sinh thái. Sau đó làm thêm một máy phát điện sinh học nhiệt năng cung cấp năng lượng —— Hỏa Kỳ Lân, rồi thêm một thứ gì đó như Huyết Bồ Đề...
+Và khi đã có đợt thức ăn đầu tiên này, sau này hắn sẽ trồng một số thực vật nham thạch đặc biệt bên cạnh dòng dung nham, tự cung tự cấp chuỗi sinh thái. Sau đó làm thêm một máy phát điện sinh học nhiệt năng cung cấp năng lượng —— Hỏa Kỳ Lân, rồi thêm một thứ gì đó như Huyết Bồ Đề...
 
-Nham thạch chính là kho báu năng lượng của anh.
+Nham thạch chính là kho báu năng lượng của hắn.
 
 Phát quang phát nhiệt đều dựa vào nó.
 
@@ -46,19 +46,19 @@ Không cần phải dùng đến nguồn cung cấp từ mặt đất nữa.
 
 Lý Khanh vừa nghĩ vừa cảm thấy dạo này quá bận rộn.
 
-Có lẽ anh cũng giống như Sylph, bề ngoài trông rất huyền bí, cao quý và rạng rỡ.
+Có lẽ hắn cũng giống như Sylph, bề ngoài trông rất huyền bí, cao quý và rạng rỡ.
 
 Hiển thánh trước mặt người, khổ sai sau lưng mình.
 
 Thời kỳ đầu khởi nghiệp đúng là gian nan.
 
-Cô ấy bận rộn với học viện Tinh Linh Ám Dạ của mình, bận rộn với các loại vật liệu "truyền tống".
+Cô ta bận rộn với học viện Tinh Linh Ám Dạ của mình, bận rộn với các loại vật liệu "truyền tống".
 
-Anh thì bận rộn xây dựng một vũ trụ vách ngăn pha lê mới.
+Hắn thì bận rộn xây dựng một vũ trụ vách ngăn pha lê mới.
 
 Tuy nhiên, thành quả cũng rất rực rỡ.
 
-Thời gian trước, anh còn dùng bộ phát wifi làm bối cảnh thế giới, hiện tại rõ ràng đã đổi mới công nghệ một lần, không cần phải lừa dối "người tiêu dùng" như vậy nữa.
+Thời gian trước, hắn còn dùng bộ phát wifi làm bối cảnh thế giới, hiện tại rõ ràng đã đổi mới công nghệ một lần, không cần phải lừa dối "người tiêu dùng" như vậy nữa.
 
 Thậm chí đã bắt đầu thực sự xây dựng những vị khổng lồ và sa bàn lớn.
 
@@ -74,11 +74,11 @@ Nhưng tốc độ quá nhanh, cũng thuộc dạng "vịt lùa lên chuồng", 
 
 "Cảm giác sắp xong rồi, chắc còn khoảng hai tháng nữa. Và lúc đó, sa bàn bên dưới cũng đã xây xong 'một phòng một sảnh' đầu tiên, bắt đầu đưa vào sử dụng sơ bộ."
 
-Anh không ngừng tính toán thời gian.
+Hắn không ngừng tính toán thời gian.
 
-Hai tháng, ở tốc độ gấp mười lần, đã là hai mươi tháng thời gian xây dựng. Nên biết rằng, tốc độ xây dựng của anh không hề chậm hơn tốc độ xây dựng của Hoa Hạ.
+Hai tháng, ở tốc độ gấp mười lần, đã là hai mươi tháng thời gian xây dựng. Nên biết rằng, tốc độ xây dựng của hắn không hề chậm hơn tốc độ xây dựng của Hoa Hạ.
 
-Anh lên mạng một chút.
+Hắn lên mạng một chút.
 
 Một tuần trôi qua, khu vực bình luận đã hoàn toàn bùng nổ, vẫn rất náo nhiệt.
 

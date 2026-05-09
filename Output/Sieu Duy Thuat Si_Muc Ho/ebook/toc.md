@@ -3,7 +3,7 @@
 - Chương 0001: Thiếu niên Angel
 - Chương 0002: Đạo sư Jon
 - Chương 0003: Vị khách thời không "không hợp đất đai"
-- Chương 0004: Morning Dew after Rain
+- Chương 0004: Vũ Hậu Thần Lộ
 - Chương 0005: Siêu phàm chợt hiện
 - Chương 0006: Chuyện cũ của Jon
 - Chương 0007: Tiệc trà

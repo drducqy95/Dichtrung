@@ -12,7 +12,7 @@ Phạm vi: Cho phép tiến hóa các loại côn trùng nhỏ nguyên thủy, t
 Vậy còn bể tiến hóa tam cấp thì sao?
 Tương ứng là những sinh mệnh khổng lồ và phức tạp hơn cả côn trùng.
 Trong mắt Lý Khanh, có thể đối chiếu với kỷ Trias cách đây mấy trăm triệu năm trên Trái Đất, kích thước sinh mệnh trong đó tầm cỡ chó nhỏ, mèo nhỏ.
-Và sa bàn tiến hóa sinh học tam cấp này đòi hỏi Lý Khanh không chỉ có tiền, mà còn phải xây dựng thế lực ngầm để bảo hộ. Công ty Y tế Umbrella sẽ xây dựng cho anh một phòng thí nghiệm khổng lồ, tạo ra một "không gian dị giới quy mô lớn" để chứa đựng sự tiến hóa văn minh của họ.
+Và sa bàn tiến hóa sinh học tam cấp này đòi hỏi Lý Khanh không chỉ có tiền, mà còn phải xây dựng thế lực ngầm để bảo hộ. Công ty Y tế Umbrella sẽ xây dựng cho hắn một phòng thí nghiệm khổng lồ, tạo ra một "không gian dị giới quy mô lớn" để chứa đựng sự tiến hóa văn minh của họ.
 Còn bể tiến hóa tứ cấp.
 Nằm trong quy hoạch xa xôi của Lý Khanh, cần một diện tích đất đai cực kỳ khổng lồ, đối chiếu với kỷ Jura.
 Sinh mệnh sẽ tiến hóa thành những con cự long, cự thần có kích thước siêu lớn như Lý Khanh, dẫm đạp lên núi non sông ngòi, xé toạc các thung lũng sông!

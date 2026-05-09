@@ -14,7 +14,7 @@ Mọi người đều không hề hay biết rằng mình vừa thoát khỏi m�
 
 Từ sáng sớm, Angel đã dẫn theo vài nữ hầu đến vườn trà để hái những lá trà tươi nhất. Mặc dù bên ngoài đang là Tháng Đống Thổ — mùa đông giá rét vạn vật đóng băng, nhưng nhờ vào sự cải tiến nhà kính của Jon, vườn trà vẫn ấm áp như mùa xuân.
 
-Để chuẩn bị cho buổi trà chiều tối nay, Angel căn dặn nữ hầu hái rất nhiều trà Morning Dew after Rain. Một phần dùng để pha trà vào buổi tối, phần còn lại thì giao cho Mana tiến hành sao trà. Chỉ có dùng nhiệt độ cao để "diệt men" (giết chết tế bào trà) thì lá trà mới có thể giữ được hương thơm thanh khiết nguyên bản trong thời gian dài. Sau khi sao xong, cậu định dùng số trà này làm quà gặp mặt tặng cho Bá tước Eaton.
+Để chuẩn bị cho buổi trà chiều tối nay, Angel căn dặn nữ hầu hái rất nhiều Vũ Hậu Thần Lộ. Một phần dùng để pha trà vào buổi tối, phần còn lại thì giao cho Mana tiến hành sao trà. Chỉ có dùng nhiệt độ cao để "diệt men" (giết chết tế bào trà) thì lá trà mới có thể giữ được hương thơm thanh khiết nguyên bản trong thời gian dài. Sau khi sao xong, cậu định dùng số trà này làm quà gặp mặt tặng cho Bá tước Eaton.
 
 Thấy trà đã bước vào giai đoạn diệt men, Angel mới yên tâm rời khỏi vườn trà và trở về lầu sàn.
 

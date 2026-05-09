@@ -159,6 +159,7 @@
 - Chương 0157: Siêu phàm dụ hoặc
 - Chương 0158: Ẩn bí tồn tại và yếu điểm bố cục
 - Chương 0159: Thiết kế
+- Chương 0160: Ẩn bí tồn tại
 - Chương 0161: Che chở
 - Chương 0162: Bóng tối
 - Chương 0163: Địa hạ
@@ -199,4 +200,3 @@
 - Chương 0198: Ai bảo tôi chưa từng chết?
 - Chương 0199: Dự tính của Ngô Minh
 - Chương 0200: Sự nhắm vào của các Thánh vị
-- output/Chương 0160 - Ẩn bí tồn tại

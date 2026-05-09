@@ -5,32 +5,32 @@ Căn phòng thứ nhất là thế giới Tinh Linh.
 Căn phòng thứ hai, môi trường sinh thái đã được cải tạo hoàn tất. Đây là một hồ bơi siêu sâu đặc biệt, là một dị giới chuẩn bị thông qua đường hầm.
 Lý Khanh đang ở trong căn phòng thứ ba, chính là phòng thí nghiệm này.
 Nơi đây chứa đầy các loại chai lọ, thiết bị thí nghiệm, chất đầy trên các giá hàng.
-Anh đang tiến hành mổ xẻ một tế bào sinh học.
+Hắn đang tiến hành mổ xẻ một tế bào sinh học.
 【Đang nghiên cứu và đọc trình tự gen——】
 Một âm thanh vang lên trong đầu.
-Kể từ khi anh bắt đầu khai mở trí tuệ lần thứ hai cho tất cả 80 chiếc máy tính sinh học đó, anh dần dần có được một trải nghiệm kỳ diệu.
+Kể từ khi hắn bắt đầu khai mở trí tuệ lần thứ hai cho tất cả 80 chiếc máy tính sinh học đó, hắn dần dần có được một trải nghiệm kỳ diệu.
 Huyền diệu vô cùng, giống như có thêm một bộ não vậy.
 Một số nghiên cứu khoa học chỉ ra rằng.
 Não trái thiên về lý tính và logic, phụ trách ngôn ngữ và tư duy trừu tượng; não phải thiên về cảm tính và trí tưởng tượng, không gian hình học và các chức năng khác.
-Anh hiện tại cảm thấy mình có thêm một "não giữa", phụ trách tích hợp một số thông tin dữ liệu, ví dụ như sự thay đổi nhịp tim, dữ liệu cơ thể, sóng ý thức của bản thân, thậm chí là giúp giám sát các thuộc hạ của mình...
+Hắn hiện tại cảm thấy mình có thêm một "não giữa", phụ trách tích hợp một số thông tin dữ liệu, ví dụ như sự thay đổi nhịp tim, dữ liệu cơ thể, sóng ý thức của bản thân, thậm chí là giúp giám sát các thuộc hạ của mình...
 Cái này còn lợi hại hơn đồng hồ thông minh nhiều.
 Ví dụ như lúc này.
 【Đã đọc xong, mời đặt tên.】
 "Gen cá mập trắng." Lý Khanh thầm nhủ.
-Sau khi ghi chép xong, anh phát hiện trong 【Kho gen sinh vật Trái Đất】 của mình đã có hơn một trăm loại dữ liệu mã hóa gen.
+Sau khi ghi chép xong, hắn phát hiện trong 【Kho gen sinh vật Trái Đất】 của mình đã có hơn một trăm loại dữ liệu mã hóa gen.
 Lý Khanh có một giấc mơ vĩ đại, đó là đưa toàn bộ sinh mạng trên Trái Đất vào trong đó!
 Đây là kho báu do sự tiến hóa ngẫu nhiên của Trái Đất tạo ra!
-Cũng may là anh có đôi mắt vi mô, quét một cái là có thể chụp ảnh, ghi lại. Nếu để Lý Khanh tự mình nhập từng cái một, chỉ riêng một dãy trình tự DNA dài đến kinh người đó thôi cũng đủ khiến anh nhập đến chết đi sống lại rồi.
+Cũng may là hắn có đôi mắt vi mô, quét một cái là có thể chụp ảnh, ghi lại. Nếu để Lý Khanh tự mình nhập từng cái một, chỉ riêng một dãy trình tự DNA dài đến kinh người đó thôi cũng đủ khiến hắn nhập đến chết đi sống lại rồi.
 "Rất thoải mái."
 Lý Khanh đặt ống nghiệm xuống, đeo kính lên, lòng cảm thán.
-Sau khi hoàn thành việc ghi chép cấu trúc sinh học hàng ngày, anh nhìn về phía thế giới Tinh Linh, sắc mặt bỗng chốc trở nên kỳ lạ.
+Sau khi hoàn thành việc ghi chép cấu trúc sinh học hàng ngày, hắn nhìn về phía thế giới Tinh Linh, sắc mặt bỗng chốc trở nên kỳ lạ.
 Mình dùng cách dẫn dắt chủng tộc này để diễn hóa văn minh.
 Herodotus tạo ra nhân loại trên mặt đất để diễn hóa văn minh, thậm chí còn lắp thêm cho họ một bộ gia tốc sinh học.
 "Ông ta đúng là có tinh thần tư bản tự học mà thành tài."
 Lý Khanh có chút bùi ngùi, "Trước đây là người dưới đất phản kháng thần trên trời, giờ lại là thần trên trời chăn dắt người dưới đất, kẻ diệt rồng cuối cùng cũng biến thành rồng ác."
 Hy vọng ông ta không bị lật thuyền.
 Tham khảo chuyện của chính Lý Khanh, việc chăn dắt bầy cừu không đơn giản như vậy đâu.
-Ý thức của anh khẽ động, giáng lâm lên người con nhện.
+Ý thức của hắn khẽ động, giáng lâm lên người con nhện.
 "Tiền bối, con muốn sở hữu sức mạnh có thể sánh ngang với chúng thần!" Elise vội vàng nói.
 Xem kìa, con cừu không chịu khuất phục, chẳng phải đã tới rồi sao?
 Luôn có những sinh mệnh không chịu khuất phục phát ra tiếng gầm thét, vung vẩy nhiệt huyết, muốn diệt thần, xây dựng tháp Babel mới, muốn giết thần minh. Chỉ cần là sinh mệnh kiện toàn đều thích hô lên một câu: Ta sinh ra vốn dĩ tự do, ai dám ở trên cao cao tại thượng?
@@ -40,7 +40,7 @@ Lý Khanh bỗng cười nói: "Nhóc con, Herodotus rất đặc biệt. Trong 
 Thấy cảnh này, Elise cuối cùng cũng chấp nhận sự cám dỗ của tà ma này, "Nếu là Ngài, chắc chắn có thể giúp con chiến thắng thế giới này, chiến thắng những kẻ yếu đuối trên cây tự xưng là thần kia chứ?"
 Không, thực sự là không thể.
 Lý Khanh thần sắc bình tĩnh.
-Anh vẫn có sự tự biết mình, không đánh lại được những trí giả có kỹ thuật dẫn trước hàng nghìn năm này.
+Hắn vẫn có sự tự biết mình, không đánh lại được những trí giả có kỹ thuật dẫn trước hàng nghìn năm này.
 Và tất nhiên, Lý Khanh sẽ không nói như vậy.
 Giọng nói cuồng dã từ ngoài thiên không bỗng nhiên ha ha cười lớn, lộ ra vẻ giễu cợt:
 "Nhóc con, ngươi coi thần là cái gì?"

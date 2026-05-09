@@ -19,7 +19,7 @@ Ngay lúc Lý Khanh còn đang nghiên cứu.
 Toàn thể nhân loại nhanh chóng lộ ra vẻ sợ hãi, cảm thấy tuyệt vọng đối với Ninh Quốc Xương trên bầu trời.
 
 "Tái khởi động! Chuẩn bị tái khởi động!"
-Asol hét lớn: "Khốn kiếp! Hòa bình phát triển tám năm trời, lũ zombie đó rốt cuộc cũng đã đi tới bước này, thậm chí còn trộm được cấu trúc người khổng lồ của chúng ta để biến thành người khổng lồ..."
+Athol hét lớn: "Khốn kiếp! Hòa bình phát triển tám năm trời, lũ zombie đó rốt cuộc cũng đã đi tới bước này, thậm chí còn trộm được cấu trúc người khổng lồ của chúng ta để biến thành người khổng lồ..."
 
 "Không vội, không vội!"
 Walton cũng đang hét lớn, nhìn vị người khổng lồ trên bầu trời kia: "Chúng ta cho dù có quay trở lại quá khứ thì cũng sẽ nhanh chóng bị hắn đánh bại thôi. Chúng ta phải đợi thêm chút nữa, đợi thêm chút nữa! Thu thập thêm nhiều thông tin hơn!"
@@ -55,7 +55,7 @@ Nếu thế giới này thực sự có thần, có ma, thì con quái vật tr�
 "Lây qua không khí, là lây qua không khí! Đeo mặt nạ phòng hộ vào! Mặc đồ bảo hộ vào!" Một nhà khoa học hét lớn: "Cách ly phòng thí nghiệm với bên ngoài, mở hệ thống tự tuần hoàn!"
 
 "Mau chạy đi!"
-Asol hét lớn: "Quái vật, trời đất ơi, đây chính là một con quái vật!!"
+Athol hét lớn: "Quái vật, trời đất ơi, đây chính là một con quái vật!!"
 
 "Chúng ta có tái khởi động không?" Lý Uyển Ninh hét lớn.
 
@@ -93,12 +93,12 @@ Mọi người kêu lên một tiếng, cả đường phố loạn thành một
 Mọi người đều sờ nắn cơ thể mình, phát hiện mình đã biến thành sinh vật của thế giới khác.
 Đây đúng chuẩn là người ngoài hành tinh rồi.
 
-"Quá đáng sợ, quá đáng sợ, nếu như là thế này thì chúng ta không thể tái khởi động! Quay trở lại quá khứ cũng không giải quyết được hắn đâu!" Asol hét lớn: "Chúng ta nhất định phải giết chết hắn!"
+"Quá đáng sợ, quá đáng sợ, nếu như là thế này thì chúng ta không thể tái khởi động! Quay trở lại quá khứ cũng không giải quyết được hắn đâu!" Athol hét lớn: "Chúng ta nhất định phải giết chết hắn!"
 
 "Làm sao có thể chứ? Chẳng lẽ là phải dùng tới thứ đó sao?" Một nghiên cứu viên hét lớn.
 
 "Chúng ta không còn lựa chọn nào khác!"
-Asol gầm lên:
+Athol gầm lên:
 "Thế giới của chúng ta đã không thể cư trú được nữa rồi, khởi động kế hoạch lưu lạc nhân loại, tiến vào vũ trụ, bước vào những vì sao xa xôi! Rồi sau đó kích nổ toàn bộ thế giới! Giết chết tên vua zombie đó!"
 
 Ầm ầm!
@@ -136,7 +136,7 @@ Hắn còn chưa kịp phản ứng lại đã nhìn thấy một bong bóng kh�
 
 "Này! Tên zombie chết tiệt, nếm thử một quả này xem sao?? Vũ khí diệt thế mới nhất, bom bong bóng không gian! Chúng ta ngồi trên tàu bay sóng tinh thần, cuối cùng sẽ đào vong tới nơi xa xôi."
 
-Asol nhìn thế giới sau lưng, nhưng đột nhiên lại bật khóc nức nở: "Chúng ta đã hủy diệt quê hương của mình rồi!"
+Athol nhìn thế giới sau lưng, nhưng đột nhiên lại bật khóc nức nở: "Chúng ta đã hủy diệt quê hương của mình rồi!"
 
 "Đi đi, màn pháo hoa mà ta dành cả đời để học tập." Lý Uyển Ninh nhìn cảnh tượng sau lưng: "Giang sơn thủy mặc họa, thử nghiệm thành công!"
 
@@ -174,12 +174,12 @@ Thực tế cũng chẳng còn thứ gì có thể nhúc nhích được nữa, 
 
 "Mặt Trăng cái nỗi gì, lưu lạc không gian sao? Quay trở lại cho ta."
 
-Anh đưa tay ra nắm lấy một tàu bay linh hồn.
-Nhìn nhóm người đang chuẩn bị lên Mặt Trăng này, anh vô cùng cạn lời.
+Hắn đưa tay ra nắm lấy một tàu bay linh hồn.
+Nhìn nhóm người đang chuẩn bị lên Mặt Trăng này, hắn vô cùng cạn lời.
 Mới bị zombie đánh cho khóc lóc đã muốn chạy trốn rồi sao?
 Làm sao có thể để các người đi được?
 
-Thế là anh cứ như vậy mà tóm lấy, xuyên qua vách pha lê quay trở lại bên trong, sải bước đi bộ quay trở lại trong đống đổ nát.
+Thế là hắn cứ như vậy mà tóm lấy, xuyên qua vách pha lê quay trở lại bên trong, sải bước đi bộ quay trở lại trong đống đổ nát.
 
 "Thế này thì bảo mình sửa kiểu gì đây?"
 

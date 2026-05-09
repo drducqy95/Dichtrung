@@ -1,14 +1,14 @@
 ﻿# Chương 174: Fist Nocloron!
 
 Uỳnh!
-Nắp thiên linh của Ninh Quốc Xương lật mở, giống như chiếc đèn thần Aladdin, một đoàn hồn phách hóa thành cự nhân tinh thần xuất khiếu, lao về phía Asol đang bị quân đội hiện đại vây hãm ở phía xa.
+Nắp thiên linh của Ninh Quốc Xương lật mở, giống như chiếc đèn thần Aladdin, một đoàn hồn phách hóa thành cự nhân tinh thần xuất khiếu, lao về phía Athol đang bị quân đội hiện đại vây hãm ở phía xa.
 
 Đây là cuộc va chạm giữa trận doanh nhân loại và trận doanh zombie.
 Hết lần luân hồi này đến lần luân hồi khác, chết mà không cứng (tử nhi bất cương), không một ai muốn tiếp tục như vậy mãi.
 
-"Ngươi vậy mà..." Sắc mặt Asol biến đổi dữ dội.
+"Ngươi vậy mà..." Sắc mặt Athol biến đổi dữ dội.
 
-Trong bóng tối, những quan chức cấp cao của nhân loại như Lý Uyển Ninh, Walton, Asol cũng nhìn thấy mà nổi hết da gà.
+Trong bóng tối, những quan chức cấp cao của nhân loại như Lý Uyển Ninh, Walton, Athol cũng nhìn thấy mà nổi hết da gà.
 Không ngờ Ninh Quốc Xương lại ẩn nhẫn ở phía sau, mượn tay họ để đánh trọng thương một vị Bán Thần khác, đồng thời thừa cơ thôn phệ.
 
 Họ đã không thể tưởng tượng nổi vị lĩnh chủ zombie mạnh nhất đột phá đầu tiên này hiện tại đã mạnh mẽ đến mức nào!

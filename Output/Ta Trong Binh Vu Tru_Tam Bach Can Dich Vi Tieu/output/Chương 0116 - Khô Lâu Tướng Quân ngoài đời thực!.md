@@ -62,7 +62,7 @@ Trong lòng thầm mỉa mai, ông già này đúng là phải dựa vào ngoạ
 
 Họ cùng nhau đi xuống tháp, ánh mắt không rời khỏi môi trường xung quanh dù chỉ một bước, giống như những đứa trẻ sơ sinh đang tò mò quan sát thế giới.
 
-"Vậy tìm tôi, chẳng lẽ là muốn xây dựng lò phản ứng?" Athol hỏi, dù sao anh ta cũng là chuyên gia nghiên cứu trong lĩnh vực này.
+"Vậy tìm tôi, chẳng lẽ là muốn xây dựng lò phản ứng?" Athol hỏi, dù sao hắn cũng là chuyên gia nghiên cứu trong lĩnh vực này.
 
 "Có ý tưởng đó. Thế giới Thâm Uyên quá nguy hiểm, không có chút vũ lực trấn áp là không được." Walton thành thật trả lời.
 

@@ -10,7 +10,7 @@ Quả thực là quá phi lý! Mà trớ trêu thay, giấc mơ này lại bị 
 
 "Khó chịu quá đi mất!" Cô cảm thấy chuyện này còn rắc rối hơn cả chiến đấu, nhất thời đi tới đi lui trong phòng, cuối cùng cũng không còn buồn ngủ nữa, không thực hiện giấc mộng chân thực thứ hai.
 
-"Thí nghiệm đầu tiên, tuyên bố thất bại." Lý Khanh rời khỏi phòng khách, âm thầm để cho Sivie không gian để xoa dịu, dù sao trong thí nghiệm này người ta cũng đã "xã hội tử vong" rồi. Mà còn cần tiếp tục "vặt lông cừu", suy cho cùng cũng phải quan tâm đến tâm trạng của người ta một chút chứ? Để cô ấy nghỉ ngơi một chút, lần sau lại tới. Chuyện này vốn dĩ Lý Khanh cũng có trách nhiệm, là lấy người ta làm vật thí nghiệm để tiến hành đủ loại thí nghiệm, vốn dĩ đã có rủi ro và ngoài ý muốn.
+"Thí nghiệm đầu tiên, tuyên bố thất bại." Lý Khanh rời khỏi phòng khách, âm thầm để cho Sivie không gian để xoa dịu, dù sao trong thí nghiệm này người ta cũng đã "xã hội tử vong" rồi. Mà còn cần tiếp tục "vặt lông cừu", suy cho cùng cũng phải quan tâm đến tâm trạng của người ta một chút chứ? Để cô ta nghỉ ngơi một chút, lần sau lại tới. Chuyện này vốn dĩ Lý Khanh cũng có trách nhiệm, là lấy người ta làm vật thí nghiệm để tiến hành đủ loại thí nghiệm, vốn dĩ đã có rủi ro và ngoài ý muốn.
 
 Trong sân. Màu sắc vẫn vàng rực rỡ, ánh lên ánh kim, một cây Thế Giới Thụ khổng lồ sừng sững ở đó. Những năm qua, Lý Khanh cũng không phải không làm gì. Đội ngũ công trình vẫn đang không ngừng nghỉ xây dựng từng căn phòng mới, khai phá ở những nơi xa hơn. Những căn phòng đó rất lớn, nhưng Lý Khanh cũng chỉ đơn thuần là xây dựng mà thôi, chẳng buồn nuôi dưỡng sinh mệnh.
 

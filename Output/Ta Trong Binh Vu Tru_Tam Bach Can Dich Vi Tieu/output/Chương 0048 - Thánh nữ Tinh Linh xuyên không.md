@@ -1,18 +1,18 @@
 # Chương 0048: Thánh nữ Tinh Linh xuyên không
 
 Lý Khanh vừa nghĩ đã thấy khả thi.
-Lúc anh mới 【Thức tỉnh】 60 giây, phạm vi kết nối với thuộc hạ là mười mét.
-Hiện tại anh đã 【Thức tỉnh】 8 phút rồi, phạm vi kết nối với thuộc hạ là hơn sáu mươi mét, hoàn toàn có thể kết nối được với nhà bên cạnh.
+Lúc hắn mới 【Thức tỉnh】 60 giây, phạm vi kết nối với thuộc hạ là mười mét.
+Hiện tại hắn đã 【Thức tỉnh】 8 phút rồi, phạm vi kết nối với thuộc hạ là hơn sáu mươi mét, hoàn toàn có thể kết nối được với nhà bên cạnh.
 Thế là.
 Lý Khanh nói là làm.
-Dù sao với tư cách là người đại diện của mình, cô ấy có thể nhân tiện rèn luyện một chút ở "dị giới", tích lũy nền tảng mạnh mẽ, học tập đủ loại Thần thuật, và có trí tuệ để cải tạo quá trình tiến hóa của bản thân, trở thành một Thánh nữ Tinh Linh Trái Đất theo đúng nghĩa thực sự.
+Dù sao với tư cách là người đại diện của mình, cô ta có thể nhân tiện rèn luyện một chút ở "dị giới", tích lũy nền tảng mạnh mẽ, học tập đủ loại Thần thuật, và có trí tuệ để cải tạo quá trình tiến hóa của bản thân, trở thành một Thánh nữ Tinh Linh Trái Đất theo đúng nghĩa thực sự.
 Ở phía bên kia.
 Suzanne đặt cho vị Thánh nữ Tinh Linh một cái tên Trái Đất: Sylph.
 "Ăn cơm thôi." Suzanne bưng tới một đĩa thịt.
 Gần đây cô phát hiện ra Tinh Linh thế mà cũng ăn thịt, cái gì cũng ăn, lại còn có thể quang hợp.
 Nhưng nghĩ kỹ lại thì Tinh Linh trong thần thoại tôn thờ tự nhiên, thích dùng cung tên săn bắn, ăn thịt cũng là chuyện bình thường.
 Tâm trạng Suzanne dạo này rất tốt, vì cô phát hiện vị Thánh nữ Tinh Linh này đã có thể thi triển một số Thần thuật, điều chế dược tề sinh mệnh để chữa trị ung thư.
-Chỉ có điều, điều khiến cô nuối tiếc là bệnh ung thư dạ dày của bạn gái mình đã ở giai đoạn cuối, hiện tại cô ấy đang từng chút một loại bỏ các tế bào ung thư, nhưng ước chừng vẫn phải thay một cái dạ dày mới.
+Chỉ có điều, điều khiến cô nuối tiếc là bệnh ung thư dạ dày của bạn gái mình đã ở giai đoạn cuối, hiện tại cô ta đang từng chút một loại bỏ các tế bào ung thư, nhưng ước chừng vẫn phải thay một cái dạ dày mới.
 Nhưng cô cảm thấy có hy vọng.
 "Được rồi, ăn xong tôi sẽ học tiếp môn sinh học cấp ba đó." Sylph tính tình rất dịu dàng, ngồi trên chiếc ghế sofa da thật, cảm thấy mềm mại vô cùng, đúng là đại gia biết hưởng thụ.
 Học sinh học cấp ba? Tộc Tinh Linh cũng trọng khoa học như vậy sao? Đang nghiên cứu công nghệ Trái Đất của chúng ta à?
@@ -21,7 +21,7 @@ Tuy nhiên cô cũng đã thấy những điều kỳ diệu hơn, ví dụ như
 Nó có thể hỗ trợ ghi chép một số thứ, là Sylph đưa cho cô, nói là: "Có được sự bảo hộ này sẽ khiến những đứa con cưng của Tinh Linh được Thần yêu thương sở hữu trí tuệ uyên bác, linh hồn có khả năng nhớ lâu..."
 Trong mắt Suzanne, đây chẳng khác nào một chiếc máy tính sinh học!
 Chuỗi sự việc liên tiếp này khiến trái tim cô chấn động không thôi, dường như cô đã đẩy ra cánh cửa của thế giới thần thoại kỳ ảo huyền bí, chứng kiến một thế giới ngầm thực sự.
-Nếu không phải Sylph hiện tại "thương thế quá nặng", mềm mại mọng nước, thậm chí ngay cả mình cũng đánh không lại, là một bệnh nhân tàn tật yếu ớt, thì cô đã muốn dùng cô ấy để thực hiện kế hoạch Umbrella, khôi phục lại tộc Tinh Linh trong thần thoại để xây dựng thế lực ngầm rồi.
+Nếu không phải Sylph hiện tại "thương thế quá nặng", mềm mại mọng nước, thậm chí ngay cả mình cũng đánh không lại, là một bệnh nhân tàn tật yếu ớt, thì cô đã muốn dùng cô ta để thực hiện kế hoạch Umbrella, khôi phục lại tộc Tinh Linh trong thần thoại để xây dựng thế lực ngầm rồi.
 Mấy ngày nay cô thậm chí còn luôn nằm mơ, mơ thấy một hành tinh xinh đẹp bao la vô tận, trên đó có Tinh Linh, người lùn, ác quỷ, thần minh... nơi đó thực sự quá đẹp.
 Thế nhưng cô căn bản không hề biết rằng, hành tinh dị giới bao la mà cô hằng mơ ước đó lại nằm ngay ở phòng thí nghiệm bên cạnh.
 Và lúc này, vị Thần Tinh Linh mà cô hằng mơ ước đã đang gọi điện cho Thánh nữ Tinh Linh của mình ở phòng thí nghiệm bên cạnh.

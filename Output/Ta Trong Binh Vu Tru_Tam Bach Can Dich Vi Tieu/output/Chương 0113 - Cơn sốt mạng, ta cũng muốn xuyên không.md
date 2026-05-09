@@ -2,23 +2,23 @@
 
 Mà loại dung hợp này có hai đặc điểm hiển nhiên.
 
-Một là, Lý Khanh hấp thụ cấu trúc của vi khuẩn và vi sinh vật, thoát khỏi quan hệ cộng sinh, trở thành sinh mệnh vô khuẩn, lột xác thành "Vô cấu chi thể" (thân thể không tì vết), virus, vi khuẩn không thể xâm phạm. Ngay cả dưới góc nhìn vi mô, anh cũng là một con người sạch sẽ trắng trẻo.
+Một là, Lý Khanh hấp thụ cấu trúc của vi khuẩn và vi sinh vật, thoát khỏi quan hệ cộng sinh, trở thành sinh mệnh vô khuẩn, lột xác thành "Vô cấu chi thể" (thân thể không tì vết), virus, vi khuẩn không thể xâm phạm. Ngay cả dưới góc nhìn vi mô, hắn cũng là một con người sạch sẽ trắng trẻo.
 
-Hai là, cấu trúc DNA tinh giản hoàn mỹ của Lý Khanh sau khi hấp thụ vi sinh vật cộng sinh trở nên cồng kềnh, giống như thông tin dữ liệu siêu tinh giản của cơ thể từ 1G đột ngột biến thành mười mấy G. Tuy nhiên, sau khi hấp thụ cồng kềnh, anh đã tiếp tục tự tinh giản trình tự cấu trúc và tối ưu hóa nó.
+Hai là, cấu trúc DNA tinh giản hoàn mỹ của Lý Khanh sau khi hấp thụ vi sinh vật cộng sinh trở nên cồng kềnh, giống như thông tin dữ liệu siêu tinh giản của cơ thể từ 1G đột ngột biến thành mười mấy G. Tuy nhiên, sau khi hấp thụ cồng kềnh, hắn đã tiếp tục tự tinh giản trình tự cấu trúc và tối ưu hóa nó.
 
 Lý Khanh thực tế không cần phải tu hành. Kế thừa Tang thi Lĩnh chủ, chỉ cần chống lại được tác dụng phụ là có thể liên tục khôi phục lại sức mạnh thời kỳ toàn thịnh của vị tang thi này. Nhưng nếu không chống đỡ được tác dụng phụ, khi sức mạnh mạnh lên sẽ chết, như Ninh Quốc Xương.
 
 "Theo cách phân chia cảnh giới bên trong của họ, mình hiện tại đã là lục giác, Truyền Kỳ, đặc trưng là linh hồn xuất khiếu, ý thức ngưng kết cao độ... Sự lột xác này là đang khôi phục về thất giác — Bán Thần, đặc trưng là sinh mệnh vô cấu??" Lý Khanh trầm tư.
 
-Không có vi sinh vật sao? Có lẽ một mình mình như vậy mới có thể trở thành sinh vật vũ trụ. Gạt bỏ các phi hành gia sang một bên. Một sinh mệnh, ngay cả khi mạnh mẽ đến mức thân xác có thể đi lại trong chân không, nhưng các vi sinh vật cộng sinh trên người anh ta chắc chắn không thể đi lại trong chân không. Trong chân không, vi sinh vật cộng sinh vừa chết, bản thân anh ta chắc chắn sẽ xong đời. Con người và vi sinh vật là quan hệ cộng sinh 0 và 1, đan xen lẫn nhau.
+Không có vi sinh vật sao? Có lẽ một mình mình như vậy mới có thể trở thành sinh vật vũ trụ. Gạt bỏ các phi hành gia sang một bên. Một sinh mệnh, ngay cả khi mạnh mẽ đến mức thân xác có thể đi lại trong chân không, nhưng các vi sinh vật cộng sinh trên người anh ta chắc chắn không thể đi lại trong chân không. Trong chân không, vi sinh vật cộng sinh vừa chết, bản thân hắn chắc chắn sẽ xong đời. Con người và vi sinh vật là quan hệ cộng sinh 0 và 1, đan xen lẫn nhau.
 
 "Cho nên a, sự tiến hóa của sinh mệnh chắc chắn là phải thực hiện sự độc lập." Lý Khanh trầm tư, "Ký sinh, cộng sinh, phương thức này chắc chắn phải bị đào thải theo thời đại."
 
-Anh cảm thấy đây cũng là một loại nội liễm (thu mình vào trong). Thu vi sinh vật vào trong cơ thể, hơi thở của chính mình sớm muộn gì cũng sẽ thu vào trong cơ thể. Khi đó, "Vô cấu vô lậu chi bảo thể", hơi thở không tiết ra ngoài, không còn thu hút mọi người bên ngoài nữa. Khi đó có thể yên tâm ra khỏi cửa rồi.
+Hắn cảm thấy đây cũng là một loại nội liễm (thu mình vào trong). Thu vi sinh vật vào trong cơ thể, hơi thở của chính mình sớm muộn gì cũng sẽ thu vào trong cơ thể. Khi đó, "Vô cấu vô lậu chi bảo thể", hơi thở không tiết ra ngoài, không còn thu hút mọi người bên ngoài nữa. Khi đó có thể yên tâm ra khỏi cửa rồi.
 
 *Hù!* Lý Khanh ngồi xếp bằng, từ từ mở mắt: "Cảm giác sắp khôi phục đến đỉnh rồi, thất giác chắc hẳn chính là cảnh giới của Tang thi Lĩnh chủ kiếp trước... sau này chỉ có thể dựa vào bản thân mình mày mò rồi. Cũng ổn, mình và vị Tang thi Lĩnh chủ kia là khác nhau, trải qua sự biến dị thần bí của xuyên không thời gian, mình có thể khống chế tế bào đơn, thế giới vi mô đã sớm đi ra một con đường khác rồi."
 
-Khi định thần lại, Lý Khanh phát hiện mình vậy mà đã hấp thụ vi sinh vật trên người, cố gắng bước vào vô cấu chi thể, đã trôi qua một ngày một đêm. Tu hành không có năm tháng, mở mắt nhắm mắt một ngày trôi qua, vô cùng thần kỳ. Anh cảm thấy tuổi thọ của mình chắc hẳn rất dài, nhưng cũng không nói chính xác được là bao dài... Sau khi tu luyện xong, anh lại liếc nhìn những hình ảnh và biến cố bên ngoài.
+Khi định thần lại, Lý Khanh phát hiện mình vậy mà đã hấp thụ vi sinh vật trên người, cố gắng bước vào vô cấu chi thể, đã trôi qua một ngày một đêm. Tu hành không có năm tháng, mở mắt nhắm mắt một ngày trôi qua, vô cùng thần kỳ. Hắn cảm thấy tuổi thọ của mình chắc hẳn rất dài, nhưng cũng không nói chính xác được là bao dài... Sau khi tu luyện xong, hắn lại liếc nhìn những hình ảnh và biến cố bên ngoài.
 
 Lúc này. Buổi công chiếu bắt đầu.
 

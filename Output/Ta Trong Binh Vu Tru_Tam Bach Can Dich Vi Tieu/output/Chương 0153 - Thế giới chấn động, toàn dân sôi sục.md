@@ -48,12 +48,12 @@ Nhìn thấy sự sôi sục trên mạng này, cả người lộ ra nụ cư�
 "Và bắt đầu tuần hành biểu tình, công kích công ty Umbrella hiện tại, bắt họ ngừng nghiên cứu virus?"
 
 Cũng đương nhiên rồi, chỉ là nghĩ vậy thôi.
-Chuyện này bản thân anh sẽ không làm.
+Chuyện này bản thân hắn sẽ không làm.
 
 Nhưng có lẽ cũng sẽ có một ngày như vậy.
 Bởi vì sát vách chính là thế giới Vu Sư.
 
-Bên trong có Suzanne, Walton, Asol của Học viện Tinh Linh Bóng Đêm ngoài đời thực. Khi một ngày nào đó họ có thể xuyên không tới thế giới tận thế sát vách này, chắc chắn sẽ vô cùng ngơ ngác.
+Bên trong có Suzanne, Walton, Athol của Học viện Tinh Linh Bóng Đêm ngoài đời thực. Khi một ngày nào đó họ có thể xuyên không tới thế giới tận thế sát vách này, chắc chắn sẽ vô cùng ngơ ngác.
 
 Trái Đất?
 Quốc gia của chúng ta?
@@ -66,7 +66,7 @@ Chắc là sẽ xảy ra những chuyện thú vị như vậy đấy.
 Lý Khanh có chút suy nghĩ xa xăm:
 "Dù sao thì thế giới song song quả thực là tồn tại mà... Thế giới tận thế này của mình chính là sự phục dựng lại của vũ trụ song song, Asol, Walton bên trong đều là người thật việc thật."
 
-Chỉ là không ngờ bản thân mình ở thời không đó lại là một bia đỡ đạn vừa lên sàn đã tèo, Walton ở thời không đó còn đen tối hơn, Asol ở thời không đó vậy mà lại nghiên cứu ra phản ứng nhiệt hạch, không bị chèn ép, trở thành một nhà khoa học đỉnh cao thực thụ.
+Chỉ là không ngờ bản thân mình ở thời không đó lại là một bia đỡ đạn vừa lên sàn đã tèo, Walton ở thời không đó còn đen tối hơn, Athol ở thời không đó vậy mà lại nghiên cứu ra phản ứng nhiệt hạch, không bị chèn ép, trở thành một nhà khoa học đỉnh cao thực thụ.
 
 Cặp đôi Suzanne, Lý Uyển Ninh ở thời không đó không có sự giúp đỡ của mình, cuộc sống vẫn vô cùng gian nan.
 Mỗi người đều có cuộc sống riêng.
@@ -76,7 +76,7 @@ Mỗi người đều có cuộc sống riêng.
 Thực lòng mà nói, sa bàn Trái Đất này, bản thân mình cư trú ở Phoenix này cũng rất thú vị.
 Cũng gần giống như lúc trước mình sống ẩn dật ở đây.
 
-Doraemon cùng một số người bạn vẫn còn gọi điện cho anh.
+Doraemon cùng một số người bạn vẫn còn gọi điện cho hắn.
 Chỉ có điều, họ cũng chỉ là những bia đỡ đạn mà thôi, mọi người đều là những nhân vật quần chúng nhận cơm hộp chỉ sau ba tập phim.
 
 Mà Lý Khanh cũng không có ý định giúp đỡ, "Cũng chỉ là một giấc mộng lớn thôi... Ta đã sớm siêu thoát khỏi thời đại này rồi, họ chẳng qua chỉ là những đóa hoa có vẻ ngoài tương tự, nếu ta lún sâu vào đó thì ngược lại là chấp nhất rồi."
@@ -98,7 +98,7 @@ Tiếp đó trong video, Thượng tướng Marco xuất hiện, dẫn dắt qu�
 "Tôi vô tội, trong phim đều là giả thôi..." Cô gái trẻ mặt đầy ngơ ngác, đang điên cuồng van xin, giơ cao hai tay.
 
 Phập!
-Một tay súng bắn tỉa đột nhiên bắn trúng trán cô ấy.
+Một tay súng bắn tỉa đột nhiên bắn trúng trán cô ta.
 
 Đoàng đoàng đoàng!
 Binh lính xung quanh sợ hãi nhanh chóng bắn sạch băng đạn.

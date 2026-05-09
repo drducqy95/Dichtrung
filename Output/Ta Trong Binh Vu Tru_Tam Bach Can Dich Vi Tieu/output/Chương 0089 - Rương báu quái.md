@@ -2,7 +2,7 @@
 
 Một thời gian sau.
 
-Lý Khanh lặng lẽ đi theo những con Slime này rẽ tới rẽ lui, đi tới khu ổ chuột của một thành phố mang phong cách Trung cổ phương Tây này, trong một đống hang hốc chứa đầy chất nhầy, anh thấy một đám Slime đang bò lổm ngổm.
+Lý Khanh lặng lẽ đi theo những con Slime này rẽ tới rẽ lui, đi tới khu ổ chuột của một thành phố mang phong cách Trung cổ phương Tây này, trong một đống hang hốc chứa đầy chất nhầy, hắn thấy một đám Slime đang bò lổm ngổm.
 
 Đứng ở vị trí cao nhất là một con Slime màu đỏ sẫm. Con Slime này trái lại cũng thú vị. Cơ thể nhớp nháp của nó bao bọc lấy một bộ khung xương trắng đã chết, biến thành hình người, đứng ở trên cao dõng dạc phát biểu.
 
@@ -50,7 +50,7 @@ Lý Khanh bỗng nhiên vươn tay chỉ một cái, một luồng thông tin tr
 
 Con Slime đỏ tiếp đó lộ ra một tia mỉm cười, bỗng nhiên nói: "Ngài là một trong những vị thần Thâm Uyên ở tòa tháp nào đó sao? Muốn lật đổ hoàng đế à? Có gì cần ta làm không?"
 
-"Ngươi muốn làm gì thì cứ làm cái đó." Lý Khanh khẽ cười một tiếng, quay người rời đi. Anh tin rằng lòng căm thù của kẻ này sẽ là một quân cờ tốt. Và bản bán thành phẩm của anh cũng cần một số dữ liệu thí nghiệm.
+"Ngươi muốn làm gì thì cứ làm cái đó." Lý Khanh khẽ cười một tiếng, quay người rời đi. Hắn tin rằng lòng căm thù của kẻ này sẽ là một quân cờ tốt. Và bản bán thành phẩm của hắn cũng cần một số dữ liệu thí nghiệm.
 
 "Ta..." Tukasi vừa định nói gì đó, cả người bỗng đón nhận một trận đau đớn dữ dội, cấu trúc gen toàn thân đang bị sửa đổi, nó lảo đảo đi qua vài con hẻm nhỏ, phía xa bỗng nhiên vang lên một tiếng hét lớn.
 
@@ -65,7 +65,7 @@ Vài ngày sau. Phù thủy tốt nghiệp Rukasisni đang lái một con tàu s
 "Lũ khốn đó sau lưng còn bẩn thỉu hơn cả chúng ta! Không chỉ tự mình lấy nô lệ của chúng ta đi bán mà còn đưa chúng ta lên tòa án Thâm Uyên, nếu không muốn nộp tiền thì đều cẩn thận một chút!"
 "Tom nhỏ, Jacksu, tin tôi đi, lần này chúng ta chắc chắn sẽ có được một số tiền lớn! Trở thành kẻ bề trên, tiếp tục công trình nghiên cứu của chúng ta! Tôi sẽ trở thành tử tước! Dẫn dắt các anh thành lập gia tộc của chúng ta!"
 
-Rukasisni gào thét trên boong tàu. Anh ta không giống như những kẻ ngu ngốc kia đi theo những tuyến đường hàng hải thông thường để rồi bị lũ ma cà rồng tham lam bắt giữ và đòi hối lộ nhân danh công lý. Thế nhưng không đi tuyến đường thông thường thì cực kỳ dễ gặp phải quái vật biển khổng lồ, thậm chí là những sinh vật thần thoại do các vị thần Thâm Uyên tạo ra, vô cùng nguy hiểm.
+Rukasisni gào thét trên boong tàu. Hắn không giống như những kẻ ngu ngốc kia đi theo những tuyến đường hàng hải thông thường để rồi bị lũ ma cà rồng tham lam bắt giữ và đòi hối lộ nhân danh công lý. Thế nhưng không đi tuyến đường thông thường thì cực kỳ dễ gặp phải quái vật biển khổng lồ, thậm chí là những sinh vật thần thoại do các vị thần Thâm Uyên tạo ra, vô cùng nguy hiểm.
 
 "Yên tâm đi, 'Quyền đầu' Norkron ở trên cao nhất định sẽ phù hộ cho chúng ta lần này trở về thành công." Rukasisni quỳ trước bức tượng Quân chủ Ác ma trên boong tàu này, hèn mọn và dốc sức hôn lên ngón chân của Ngài, thậm chí đã hôn đến mức sáng bóng cả lên.
 
@@ -78,7 +78,7 @@ Rukasisni gào thét trên boong tàu. Anh ta không giống như những kẻ n
 
 Ngay lập tức, mọi người trên boong tàu tiến lại gần, nhìn chiếc quan tài khổng lồ ướt sũng. Họ phấn khích lập tức lấy xà beng ra, dốc sức cạy quan tài xem. Bên trong lấp đầy chất lỏng keo dính đặc quánh, ở giữa nằm một thanh bảo kiếm bán trong suốt huyền bí, trong suốt lung linh, hệt như vô số đám mây trôi cuộn bên trong. Màu sắc trong suốt đó giống hệt như vách ngăn pha lê.
 
-Mọi người có mặt chỉ cần nhìn một cái là chắc chắn biết thanh bảo kiếm này có giá trị kinh người. "Niêm phong lại, niêm phong lại!" Rukasisni hét lớn, "Đừng nhìn nữa, đây là của ta! Đây là của ta!" Anh ta cùng vài tên tâm phúc giấu chiếc quan tài này vào kho báu.
+Mọi người có mặt chỉ cần nhìn một cái là chắc chắn biết thanh bảo kiếm này có giá trị kinh người. "Niêm phong lại, niêm phong lại!" Rukasisni hét lớn, "Đừng nhìn nữa, đây là của ta! Đây là của ta!" Hắn cùng vài tên tâm phúc giấu chiếc quan tài này vào kho báu.
 
 Lại đi thêm một thời gian nữa, một bóng người lén lút cạy cửa phòng, cẩn thận mở quan tài ra, vẻ mặt đầy say sưa nhìn thanh bảo kiếm này. "Là của ta, phải là của ta mới đúng, gã thuyền trưởng tham lam đó." Hắn cẩn thận vuốt ve bảo kiếm, định lấy bảo kiếm ra.
 

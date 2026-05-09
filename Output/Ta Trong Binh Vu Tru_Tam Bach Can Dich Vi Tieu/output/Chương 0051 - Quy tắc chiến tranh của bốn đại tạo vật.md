@@ -16,13 +16,13 @@ Nhìn qua thì cục diện rất phức tạp, chia làm ba phe thế lực:
 2. Phe thế giới Vực Thẳm: Ba đại Chúa tể.
 3. Phe thế giới Tinh Linh: Nội gián Sylph trà trộn vào Vực Thẳm.
 Nhìn thì có vẻ là một cuộc đại chiến điên cuồng sinh tử, nhưng thực chất là gì?
-Cả ba đều là quyến thuộc của anh, tính mạng nằm trong tay anh, không thể phản bội.
+Cả ba đều là quyến thuộc của hắn, tính mạng nằm trong tay hắn, không thể phản bội.
 Kẻ thù thực sự không thể kiểm soát chính là hai mươi nghìn tỷ sinh mệnh mới sinh ở tầng đáy thế giới Vực Thẳm kia, những con chốt thí đơn bào đang bị che mắt kia mà thôi.
 Lý Khanh vươn vai một cái rồi đứng dậy:
 "Lần bố cục này tốt hơn nhiều so với thời đại vương quốc Atabia... Nếu họ còn có thể tạo ra những con sóng lớn hơn cả vương quốc Atabia năm đó thì đúng là lợi hại."
 Đúng như Herodotus đã nói.
 Nỗi sợ hãi chính là cảm xúc xa cách chân lý nhất.
-Anh đã có ưu thế khổng lồ như vậy, nếu ngay cả một chút rủi ro này cũng không dám mạo hiểm thì đúng là không thể chấp nhận được.
+Hắn đã có ưu thế khổng lồ như vậy, nếu ngay cả một chút rủi ro này cũng không dám mạo hiểm thì đúng là không thể chấp nhận được.
 Thế giới Tinh Linh.
 Cả cỗ máy chiến tranh văn minh bắt đầu vận hành.
 Đường hầm to bằng ngón tay trên tường được vây chặt lớp trong lớp ngoài, các kiến trúc phòng thủ được xây dựng kiên cố, biến nơi đây thành một tiền đồn cầu đầu phong.

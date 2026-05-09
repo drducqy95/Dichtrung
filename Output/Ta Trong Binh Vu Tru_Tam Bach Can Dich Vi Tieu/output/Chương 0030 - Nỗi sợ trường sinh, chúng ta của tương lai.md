@@ -8,7 +8,7 @@ Lào xào!
 
 Bản thể của Lý Khanh ở bên ngoài vách ngăn pha lê bắt đầu mở mắt, nhìn chằm chằm vào bốn tỷ dân số của họ.
 
-Những chủng vi khuẩn hoang dã này, chỉ trong tình trạng tự nguyện mới có thể trở thành quyến thuộc của anh dưới cái nhìn chằm chằm đó.
+Những chủng vi khuẩn hoang dã này, chỉ trong tình trạng tự nguyện mới có thể trở thành quyến thuộc của hắn dưới cái nhìn chằm chằm đó.
 
 Còn con cự long do Lý Khanh điều khiển, sau khi cử hành nghi lễ cho hoàng đế, cũng thừa cơ rời khỏi đài tế lễ, không thèm để ý đến những người đang tiếp nhận tẩy lễ nữa mà tiến về phía cây Thế Giới cao chọc trời.
 
@@ -146,7 +146,7 @@ Thủ đoạn này giống như việc một bệnh nhân mắc bệnh nan y ti�
 
 Đồng thời, làm sao Lý Khanh có thể không đề phòng chiêu này chứ?
 
-Anh đã điều động toàn bộ thế lực giáo hội, tìm kiếm một lượt cây Thế Giới, thậm chí còn có một đám trí giả làm nội gián, dễ dàng khai ra bản vẽ thiết kế của tháp Babel, nhờ đó mà tìm được hạt nhân trung tâm, chính là khối hóa thạch thụ hóa của Atabia.
+Hắn đã điều động toàn bộ thế lực giáo hội, tìm kiếm một lượt cây Thế Giới, thậm chí còn có một đám trí giả làm nội gián, dễ dàng khai ra bản vẽ thiết kế của tháp Babel, nhờ đó mà tìm được hạt nhân trung tâm, chính là khối hóa thạch thụ hóa của Atabia.
 
 Đến cả thủ đoạn ngủ say cuối cùng để mưu cầu sự sống thoi thóp của ông ta cũng bị đào ra.
 
@@ -156,7 +156,7 @@ Lý Khanh nhìn ông ta một lát.
 
 Lý Khanh không nhìn ông ta nữa mà bước ra khỏi cây Thế Giới, nhìn xuống phía dưới, quan sát vô số bách tính và dân chúng trong thành phố bên dưới.
 
-Anh lại đi dạo quanh khắp nơi, đi tới những con đường của thành phố này.
+Hắn lại đi dạo quanh khắp nơi, đi tới những con đường của thành phố này.
 
 Còn giáo hoàng thì vẫn luôn lẳng lặng đi theo sau lưng.
 
@@ -168,7 +168,7 @@ Tháp Babel giống như một tạo vật ngoài hành tinh sau khi người ng
 
 "Cứ chờ mong vào tương lai vậy."
 
-Anh quay đầu lại, nhìn một lát vào ngọn núi đất kia, trên đó toàn là đá vụn, côn trùng. Ý thức trực tiếp rời khỏi con cự long, quay trở về thế giới bên ngoài bầu trời, không có ý định nán lại chút nào.
+Hắn quay đầu lại, nhìn một lát vào ngọn núi đất kia, trên đó toàn là đá vụn, côn trùng. Ý thức trực tiếp rời khỏi con cự long, quay trở về thế giới bên ngoài bầu trời, không có ý định nán lại chút nào.
 
 "Cung tiễn vị Chủ trở về!"
 

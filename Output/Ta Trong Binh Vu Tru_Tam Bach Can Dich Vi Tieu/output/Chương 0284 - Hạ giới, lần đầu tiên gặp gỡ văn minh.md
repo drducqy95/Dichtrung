@@ -56,7 +56,7 @@ Cho dù trong tương lai thực sự có thể nghiên cứu ra loại công ng
 
 Ví dụ như trước mắt có một bản tin thời sự. Một nhân viên chiến đấu bị cử đi khai hoang ở vùng sao xa xôi, vì bị nợ lương nên đã tấn công ông chủ tài phiệt của mình. Ở thế giới võ đạo, bạn thử tấn công những tông chủ cấp cao đó xem? Đánh lại được không? Ở đây theo một nghĩa nào đó mà nói là mọi người tương đối bình đẳng, ít nhất bạn có thể tìm trang bị ở chợ đen để báo thù, ám sát tài phiệt.
 
-Lý Khanh đi dạo một vòng sau đó cũng thả Sylvan ra, ném cô ấy lên một chiếc ghế dài ở hành lang bệnh viện, nằm sấp xuống nghỉ ngơi.
+Lý Khanh đi dạo một vòng sau đó cũng thả Sylvan ra, ném cô ta lên một chiếc ghế dài ở hành lang bệnh viện, nằm sấp xuống nghỉ ngơi.
 
 Xoạt xoạt xoạt. Một lát sau Sylvan mở mắt ra, nhìn mọi thứ xung quanh, "Nơi này là??" Trong đầu nhanh chóng xuất hiện thông tin do Cổ Thần để lại.
 

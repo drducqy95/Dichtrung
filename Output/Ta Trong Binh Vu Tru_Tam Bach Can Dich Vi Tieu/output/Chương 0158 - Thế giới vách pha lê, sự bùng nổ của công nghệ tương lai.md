@@ -63,13 +63,13 @@ Nhân tộc thì vẫn đang không ngừng sinh sản, và vẫn còn hàng ch�
 Thấm thoát.
 Nửa năm đã trôi qua.
 
-Vị anh hùng nhân loại Angly là hy vọng của cả vùng đại địa, vô số người vì để bảo vệ anh, di dời cơ thể anh mà đã nỗ lực hết mình.
-Hy vọng anh lại một lần nữa khôi phục lại chiến tích mạnh mẽ như trước đây.
+Vị anh hùng nhân loại Angly là hy vọng của cả vùng đại địa, vô số người vì để bảo vệ hắn, di dời cơ thể hắn mà đã nỗ lực hết mình.
+Hy vọng hắn lại một lần nữa khôi phục lại chiến tích mạnh mẽ như trước đây.
 
 Đáng tiếc, Angly này dù nghiên cứu thế nào cũng phát hiện ra sức mạnh của mình rất yếu ớt, không có thiên phú.
 
 "Khốn kiếp, khốn kiếp!"
-Angly cầm cuốn sổ tay tâm huyết của Angly đời trước, cách thao tác, tu luyện, đột phá đều vô cùng chi tiết, theo lý mà nói đáng lẽ phải nhanh hơn ít nhất gấp đôi, nhưng anh tu luyện thế nào cũng tiến triển chậm chạp.
+Angly cầm cuốn sổ tay tâm huyết của Angly đời trước, cách thao tác, tu luyện, đột phá đều vô cùng chi tiết, theo lý mà nói đáng lẽ phải nhanh hơn ít nhất gấp đôi, nhưng hắn tu luyện thế nào cũng tiến triển chậm chạp.
 
 Lý Uyển Ninh nhíu mày:
 "Angly lần này vậy mà tư chất lại không được sao?"

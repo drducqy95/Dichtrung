@@ -4,19 +4,19 @@ Lúc này, con xe hơi phun nước thủy lục không trung trên cổ —— 
 
 Cảm giác này rất kỳ lạ!
 
-Nếu thực sự phải đưa ra một sự so sánh, thì nó giống như cảm giác "mùa xuân ấm áp" khi anh 【Thức tỉnh】 họ, còn họ thì đang 【Thức tỉnh】 ngược lại anh vậy.
+Nếu thực sự phải đưa ra một sự so sánh, thì nó giống như cảm giác "mùa xuân ấm áp" khi hắn 【Thức tỉnh】 họ, còn họ thì đang 【Thức tỉnh】 ngược lại hắn vậy.
 
 "Chuyện gì thế này?"
 
 Lý Khanh lập tức cảm thấy kinh ngạc.
 
-Gần đây, mỗi ngày anh đều làm thí nghiệm với con cự long chắp vá trong thế giới chai lọ này:
+Gần đây, mỗi ngày hắn đều làm thí nghiệm với con cự long chắp vá trong thế giới chai lọ này:
 
 Mỗi ngày đều nhìn chằm chằm vào chúng.
 
-Mặc dù đã thức tỉnh rồi, nhưng anh vẫn cố gắng tiếp tục 【Thức tỉnh】 chúng, để xem khi được nuôi dưỡng đến một mức độ nhất định thì sẽ xảy ra sự biến hóa gì.
+Mặc dù đã thức tỉnh rồi, nhưng hắn vẫn cố gắng tiếp tục 【Thức tỉnh】 chúng, để xem khi được nuôi dưỡng đến một mức độ nhất định thì sẽ xảy ra sự biến hóa gì.
 
-Bảy mươi giây là đủ để thức tỉnh, nhưng mỗi ngày anh đều cưỡng ép nhìn chằm chằm suốt hai mươi phút. Và cuộc thí nghiệm này mới chỉ duy trì được một tuần, hiện tại đã xảy ra sự biến dị này.
+Bảy mươi giây là đủ để thức tỉnh, nhưng mỗi ngày hắn đều cưỡng ép nhìn chằm chằm suốt hai mươi phút. Và cuộc thí nghiệm này mới chỉ duy trì được một tuần, hiện tại đã xảy ra sự biến dị này.
 
 "Chuyện gì đang xảy ra vậy?" Lý Khanh hỏi đám quyến thuộc hộ vệ trên cổ mình.
 
@@ -32,13 +32,13 @@ Thế nhưng hiện tại bên trong ống nghiệm chỉ còn lại một giọ
 
 Bên trong chỉ còn lại một sinh mệnh duy nhất.
 
-Bởi vì đây là đội quân quyến thuộc nòng cốt của mình nên anh cũng không lo lắng chuyện mưu phản. Anh trực tiếp mở ống nghiệm, đổ cái sinh mệnh có kích thước tương đương con kiến đầu to này ra.
+Bởi vì đây là đội quân quyến thuộc nòng cốt của mình nên hắn cũng không lo lắng chuyện mưu phản. Hắn trực tiếp mở ống nghiệm, đổ cái sinh mệnh có kích thước tương đương con kiến đầu to này ra.
 
 "A? Đây là..."
 
 Giọng nói của đám nhóc đáng yêu kia đầy vẻ thắc mắc.
 
-Anh dùng cồn lau sạch bề mặt nền, đặt con kiến nằm lên đó, rồi cầm lấy một con dao móc sắc bén và tinh xảo:
+Hắn dùng cồn lau sạch bề mặt nền, đặt con kiến nằm lên đó, rồi cầm lấy một con dao móc sắc bén và tinh xảo:
 
 "Đừng cử động, để ta xem não của ngươi, xem tình hình bên trong thế nào, tại sao những phi công não bộ khác lại biến mất rồi!"
 
@@ -64,7 +64,7 @@ Trong bộ não này, các đơn bào liên kết lại thành một dải, gi�
 
 Tiếp theo, Lý Khanh bắt đầu thử nghiệm một chút.
 
-Anh phát hiện sau khi có ý thức tích hợp, chỉ số thông minh của thực thể ý thức lớn này không hề tăng vọt, không có chuyện "ba anh thợ giày gộp lại thành Gia Cát Lượng", nhưng tư duy tính toán ở một khía cạnh nào đó đã tăng vọt.
+Hắn phát hiện sau khi có ý thức tích hợp, chỉ số thông minh của thực thể ý thức lớn này không hề tăng vọt, không có chuyện "ba anh thợ giày gộp lại thành Gia Cát Lượng", nhưng tư duy tính toán ở một khía cạnh nào đó đã tăng vọt.
 
 Tốc độ suy nghĩ rất nhanh, chắc là tác dụng của ý thức tích hợp.
 
@@ -72,7 +72,7 @@ Tốc độ suy nghĩ rất nhanh, chắc là tác dụng của ý thức tích 
 
 Lý Khanh có chút mừng rỡ: "Thậm chí mình còn cảm thấy, chỉ cần nó nảy sinh cảm xúc ngưỡng mộ, sùng bái đối với mình, là có thể tỏa ra một chút tinh thần lực phản phôi (phản hồi nuôi dưỡng) ngược lại."
 
-Anh lập tức phản ứng lại được chuyện này là như thế nào rồi.
+Hắn lập tức phản ứng lại được chuyện này là như thế nào rồi.
 
 Đây chính là năng lực vốn có của lãnh chúa zombie!
 
@@ -126,11 +126,11 @@ Khoảnh khắc tiếp theo, Lý Khanh dường như đã tiến vào cơ thể 
 
 Lý Khanh phát hiện thực sự là có thể!
 
-Anh tiếp tục không ngừng điều chỉnh tỷ lệ ý thức, cuối cùng ý thức của con cự long này không còn phát hiện ra Lý Khanh đang nhìn trộm nó nữa, căn bản không nhận ra sự tồn tại của một người nào đó.
+Hắn tiếp tục không ngừng điều chỉnh tỷ lệ ý thức, cuối cùng ý thức của con cự long này không còn phát hiện ra Lý Khanh đang nhìn trộm nó nữa, căn bản không nhận ra sự tồn tại của một người nào đó.
 
 Sau này muốn nhìn trộm lúc nào thì nhìn trộm lúc đó.
 
-Anh lại bắt đầu thử nghiệm thao tác tiếp theo, nắm quyền điều khiển cơ thể.
+Hắn lại bắt đầu thử nghiệm thao tác tiếp theo, nắm quyền điều khiển cơ thể.
 
 "A... đừng... đau quá... đừng..."
 
@@ -138,7 +138,7 @@ Anh lại bắt đầu thử nghiệm thao tác tiếp theo, nắm quyền đi�
 
 Lý Khanh sau khi tiến vào ý thức đã điều khiển cơ thể này một chút, phát hiện ra nó cực kỳ thú vị.
 
-Anh giống như một đứa trẻ có được món đồ chơi mới, đang bấm điều khiển từ xa, không ngừng nghịch ngợm con xe đồ chơi này, tiến lên, lùi lại, bơi lội, phun nước.
+Hắn giống như một đứa trẻ có được món đồ chơi mới, đang bấm điều khiển từ xa, không ngừng nghịch ngợm con xe đồ chơi này, tiến lên, lùi lại, bơi lội, phun nước.
 
 Qua từng lần thử nghiệm, Lý Khanh phát hiện phạm vi điều khiển của mình còn ngắn hơn cả phạm vi của một con xe điều khiển từ xa hạng ba.
 
@@ -150,7 +150,7 @@ Tín hiệu WIFI này đúng là yếu đến mức vô lý rồi.
 
 Sau một loạt các thử nghiệm, Lý Khanh xoa xoa cằm, đưa ra kết luận: "Cái này cũng quá yếu ớt rồi."
 
-Anh nhớ lại năng lực lãnh chúa zombie mà Ninh Quốc Xương đã nói với mình lúc đó.
+Hắn nhớ lại năng lực lãnh chúa zombie mà Ninh Quốc Xương đã nói với mình lúc đó.
 
 Thứ luôn phát ra là một loại sóng tín hiệu đặc biệt, phạm vi bao phủ có thể lên tới bốn mươi dặm, sánh ngang với một trạm cơ sở mặt đất, có thể dễ dàng truyền chỉ thị cho quyến thuộc của mình, gây ra triều cường zombie!
 
@@ -172,7 +172,7 @@ Nhưng hiện tại nếu là thật...
 
 Về chuyện này Lý Khanh cũng chỉ có thể mỉm cười: "Ông ta quá an phận rồi, hèn gì bị quân đội vây quét."
 
-Anh cảm thấy Ninh Quốc Xương ở vũ trụ song song kia, với tư cách là lãnh chúa zombie, nếu như tự mình xây dựng một phòng thí nghiệm, khoác lên mình chiếc áo blouse trắng, nghiên cứu băng tần tín hiệu của chính mình, phát triển siêu năng lực, chơi trò chiến tranh thông tin với đối phương, không ngừng nâng cao bản thân, điều chỉnh, tiến hóa băng tần sóng ý thức, thì liệu có bị "ngỏm" không?
+Hắn cảm thấy Ninh Quốc Xương ở vũ trụ song song kia, với tư cách là lãnh chúa zombie, nếu như tự mình xây dựng một phòng thí nghiệm, khoác lên mình chiếc áo blouse trắng, nghiên cứu băng tần tín hiệu của chính mình, phát triển siêu năng lực, chơi trò chiến tranh thông tin với đối phương, không ngừng nâng cao bản thân, điều chỉnh, tiến hóa băng tần sóng ý thức, thì liệu có bị "ngỏm" không?
 
 Làm một thổ hào chiếm thành xưng vương, dựa vào thiên phú mà sống, không nghiên cứu sức mạnh của mình một cách nghiêm túc thì chắc chắn là "thương trọng vĩnh" (tài năng lụi tàn sớm) rồi.
 
@@ -186,5 +186,5 @@ Lý Khanh mỉa mai một hồi: "Nếu đổi lại là mình ở đây, mình 
 
 Đứng từ góc độ của người khổng lồ mà nhìn thì chắc chắn không bằng đứng từ góc nhìn của bách tính mà quan sát nền văn minh này.
 
-Nghĩ đến đây, anh sắp xếp lại toàn bộ kế hoạch, rồi tiến về phía phòng thí nghiệm bên cạnh, dự định thực hiện một chuyến thám hiểm "thế giới khác" thực sự.
+Nghĩ đến đây, hắn sắp xếp lại toàn bộ kế hoạch, rồi tiến về phía phòng thí nghiệm bên cạnh, dự định thực hiện một chuyến thám hiểm "thế giới khác" thực sự.
 

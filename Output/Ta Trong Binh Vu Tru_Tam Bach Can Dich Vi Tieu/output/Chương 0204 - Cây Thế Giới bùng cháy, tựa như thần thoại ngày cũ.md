@@ -42,7 +42,7 @@ Giờ đây, Lý Khanh dùng siêu trí não của Sylvan để liên tục di�
 
 Hắn sắp xếp thông tin của một số thiên tài, như dữ liệu của các danh tướng, và vẽ thành các thẻ thông tin:
 
-【Họ tên: Sylvan (Tây Nhĩ Phù)】
+【Họ tên: Sylvan (Sylph)】
 【Tư chất chiến đấu: 71】
 【Tư chất nghiên cứu: 96】
 【Trí tuệ mưu lược: 91】
@@ -53,7 +53,7 @@ Mục cuối cùng "Trí tuệ mưu lược" lại là mục ít quan trọng nh
 
 Tuy nhiên, Walton lại là một trường hợp đặc biệt. Tên tư bản này rất lợi hại, dường như mỗi lần một kỷ nguyên văn minh hoàng kim xuất hiện, những anh hùng nhiệt huyết hy sinh quên mình đều do hắn thúc đẩy. Tên "đạo diễn" kỳ cựu này thực sự hiểu rõ thế nào là anh hùng.
 
-【Họ tên: Tukasi (Đồ Khắc Tư)】
+【Họ tên: Tukasi (Tukasi)】
 【Tư chất chiến đấu: 95】
 【Tư chất nghiên cứu: 42】
 【Trí tuệ mưu lược: 92】

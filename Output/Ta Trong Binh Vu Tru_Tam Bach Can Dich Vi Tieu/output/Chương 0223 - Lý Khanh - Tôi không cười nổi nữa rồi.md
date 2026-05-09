@@ -3,7 +3,7 @@
 "Cười chết mất... không ngờ lại là hắn lên ngôi."
 Lý Khanh đang uống nước trong phòng khách, không nhịn được mà bật cười thành tiếng: "Cái thằng nhóc đó, vậy mà lại chơi xỏ cả hai cái tên kia một vố."
 Ở đây không có người ngoài, Lý Khanh cười đến mức đau cả bụng, hoàn toàn không còn chút hình tượng nào.
-Cái thằng nhóc này, năm xưa anh tùy ý ra tay một vố như vậy, không ngờ nó lại biến thành một chủng tộc kỳ quặc đến mức này.
+Cái thằng nhóc này, năm xưa hắn tùy ý ra tay một vố như vậy, không ngờ nó lại biến thành một chủng tộc kỳ quặc đến mức này.
 "Quả nhiên ánh mắt của mình chưa bao giờ sai, mỗi lần chọn một người trong thời đại đều là kẻ biết gây chuyện nhất."
 Đối phương là một kẻ biết nắm bắt thời cơ.
 Ai cũng muốn làm đại hậu kỳ, tiềm lực vô hạn, nhưng ngươi phát triển quá chậm, chi bằng ta trực tiếp đánh chết ngươi cho xong!
@@ -21,9 +21,9 @@ Vừa làm đầy đặn Võ Đạo, vừa không lấn át chủ thể.
 Nếu không, Lý Khanh cũng chẳng âm thầm thúc đẩy, để cho một tên nào đó gây chuyện như vậy.
 "Xuống dưới đi dạo một chút."
 Hình dáng của Lý Khanh bỗng chốc vặn vẹo.
-Anh có bản đồ gen của chủng tộc này, nên tự nhiên nhanh chóng trở thành một thành viên của tộc quyến thuộc này, biến thành một Kỵ sĩ Không đầu, ôm lấy cái đầu của mình đi ra đường phố.
+Hắn có bản đồ gen của chủng tộc này, nên tự nhiên nhanh chóng trở thành một thành viên của tộc quyến thuộc này, biến thành một Kỵ sĩ Không đầu, ôm lấy cái đầu của mình đi ra đường phố.
 "Tầm mắt của một mét bốn."
-Cái đầu của anh đặt ngang hông, cảm giác vô cùng mới mẻ.
+Cái đầu của hắn đặt ngang hông, cảm giác vô cùng mới mẻ.
 Đến với lục địa Võ Đạo hiện nay, mới chỉ trôi qua nửa ngày, nhưng bên trong đã trôi qua hơn sáu mươi năm rồi.
 Thay đổi từng ngày.
 Mặc dù vẫn còn những cư dân sót lại từ thời đại Võ Đạo, nhưng trên đường phố xuất hiện nhiều hơn là tộc Giáng Đầu Sư.
@@ -39,7 +39,7 @@ Mỗi khi có người đến mua rượu, cô ta liền há miệng ra, hóa ra
 Lý Khanh liếc nhìn một cái: "Không hổ là rượu nhai miệng, danh bất hư truyền, thời đại này rốt cuộc vẫn là dân phong thuần phác, không giống loại quảng cáo giả dối bên ngoài."
 "Soái ca, mua rượu không?"
 Mỹ tửu tây thi đầy đặn quay đầu lại, thần thái quyến rũ.
-Lý Khanh là người ham mê rượu ngon, nhưng khẩu vị này còn cần phải thích nghi một phen, nên anh trực tiếp từ chối lời mời nhiệt tình.
+Lý Khanh là người ham mê rượu ngon, nhưng khẩu vị này còn cần phải thích nghi một phen, nên hắn trực tiếp từ chối lời mời nhiệt tình.
 Bước vào tửu lầu.
 Thấy một đầu bếp đang xào mì, lửa bốc ngùn ngụt.
 Nhìn kỹ lại, vị đầu bếp này thân hình to béo, tứ chi ngắn ngủn, không có đầu, là một đầu bếp không đầu, tay cầm cái đầu to của mình để xào nấu, xẻng đảo liên tục, "vung đầu lộ mặt" điên cuồng, hơi nóng bốc lên nghi ngút, mùi thức ăn thơm lừng.

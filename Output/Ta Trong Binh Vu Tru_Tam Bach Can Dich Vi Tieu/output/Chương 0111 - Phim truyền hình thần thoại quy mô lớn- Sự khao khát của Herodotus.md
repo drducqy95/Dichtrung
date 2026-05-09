@@ -6,7 +6,7 @@ Lý Khanh nhìn mà có chút kinh ngạc, hiện tượng người kéo ngườ
 
 "Chơi còn lớn hơn cả mình." Lý Khanh kinh ngạc.
 
-Chỉ có thể nói, những phú hào lão Mỹ này quả thực phần lớn đều là những kẻ tàn nhẫn. Tuy nhiên đối với việc này anh lại không bận tâm, hiện tại anh theo việc bản thân ngày càng mạnh lên, lòng tin cũng rất đủ, thậm chí còn ôm thái độ đứng xem kịch, họ là quyến thuộc của mình, do mình quyết định sinh tử.
+Chỉ có thể nói, những phú hào lão Mỹ này quả thực phần lớn đều là những kẻ tàn nhẫn. Tuy nhiên đối với việc này hắn lại không bận tâm, hiện tại hắn theo việc bản thân ngày càng mạnh lên, lòng tin cũng rất đủ, thậm chí còn ôm thái độ đứng xem kịch, họ là quyến thuộc của mình, do mình quyết định sinh tử.
 
 Những phú hào này quyền thế ngất trời, chỉ là một ngôi trường thôi mà, chỉ cần họ có tâm, người khác không cách nào nhòm ngó, cũng không vào được. Họ nhìn thấy Chư thần Hoàng hôn, thấy đây là cơ hội duy nhất để trỗi dậy, rõ ràng là nhân cơ hội phát lực, muốn tranh đoạt thời đại tiếp theo của Thâm Uyên để làm vua.
 

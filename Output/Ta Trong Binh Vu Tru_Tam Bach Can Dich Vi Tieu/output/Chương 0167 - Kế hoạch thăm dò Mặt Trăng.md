@@ -16,7 +16,7 @@ Nhân loại, zombie, người biến chủng, tạo thành thế chân vạc.
 
 Còn về việc nói cho họ biết đây không phải là xuyên không thời gian?
 "Đó cũng là điều tất yếu thôi."
-Anh ngồi ở vị trí cạnh cửa sổ, nhìn ra đường phố qua lớp kính của cửa hàng thức ăn nhanh, "Dù sao thì sớm muộn gì họ cũng sẽ phát hiện ra manh mối thôi, thời gian là một đường thẳng mà."
+Hắn ngồi ở vị trí cạnh cửa sổ, nhìn ra đường phố qua lớp kính của cửa hàng thức ăn nhanh, "Dù sao thì sớm muộn gì họ cũng sẽ phát hiện ra manh mối thôi, thời gian là một đường thẳng mà."
 
 Đủ loại sơ hở nhỏ nhặt sớm muộn gì cũng bị họ phát hiện ra.
 Đây vốn dĩ đâu phải là xuyên không thời không thực sự.
@@ -36,11 +36,11 @@ Chỉ cần dùng đủ nhiều búp bê Nga, thì chúng sinh trong sa bàn c�
 Mà giấc mơ này lại là giấc mơ có thật, mọi thứ đều xảy ra trong thực tế, đang khởi động lại thực tế.
 
 Trong mấy ngày tiếp theo, Lý Khanh không làm quá nhiều việc.
-Anh chỉ duy trì việc tu luyện hàng ngày, đi làm, đóng vai một nhân viên văn phòng bình thường.
-Dù sao sau khi trải qua việc Thần Sáng Thế làm việc quần quật để xây dựng sa bàn, cuối cùng anh vẫn thấy làm một con "người làm thuê" là thoải mái nhất.
+Hắn chỉ duy trì việc tu luyện hàng ngày, đi làm, đóng vai một nhân viên văn phòng bình thường.
+Dù sao sau khi trải qua việc Thần Sáng Thế làm việc quần quật để xây dựng sa bàn, cuối cùng hắn vẫn thấy làm một con "người làm thuê" là thoải mái nhất.
 
-Đối với anh mà nói, sớm đã có thể nhất tâm nhị dụng rồi.
-Bản thể của anh luôn luôn tu luyện, còn việc đi làm trước mắt chỉ là một loại tiêu khiển để giết thời gian.
+Đối với hắn mà nói, sớm đã có thể nhất tâm nhị dụng rồi.
+Bản thể của hắn luôn luôn tu luyện, còn việc đi làm trước mắt chỉ là một loại tiêu khiển để giết thời gian.
 
 Đương nhiên, vì ở Phoenix nên sát vách chính là nơi thu dung Ninh Quốc Xương, bệnh viện tâm thần của Lý Khanh đã được cải tạo thành một tổ chức trực thuộc Quỹ Hội.
 Mục tiêu của họ là tìm kiếm những dấu vết mà các vị lĩnh chủ zombie để lại.
@@ -65,7 +65,7 @@ Lý Khanh nhất thời cảm thấy thú vị, xem chừng gã thợ xây mới
 "Hả? Không có tiền? Vậy tôi đợi khi nào anh có tiền."
 
 Lý Khanh cúp máy, vẻ mặt vẫn ung dung tự tại.
-Sau khi người nào đó nghỉ việc thì chỉ có thể dựa vào anh để giúp kiếm đồ thôi, những ngày qua đã kiếm một đống thiết bị thí nghiệm, đủ loại thứ linh tinh rắc rối.
+Sau khi người nào đó nghỉ việc thì chỉ có thể dựa vào hắn để giúp kiếm đồ thôi, những ngày qua đã kiếm một đống thiết bị thí nghiệm, đủ loại thứ linh tinh rắc rối.
 
 Giờ đến lượt mình làm Doraemon rồi.
 Đối phương muốn cái gì thì mình có thể giúp cái đó.
@@ -83,10 +83,10 @@ Cũng đúng thôi.
 Đối phương đã chọn con đường này thì sẽ không có quá nhiều sự giúp đỡ, sống hay chết đều là do tạo hóa.
 
 Nhưng có một điều đáng nhắc tới là.
-Asol của vòng luân hồi này vậy mà lại trỗi dậy một lần nữa.
-Tư chất không tệ, vậy mà lại một lần nữa kiểm soát người khổng lồ, trở thành lực lượng chủ chốt của các siêu anh hùng mới, Cự Nhân Vương Asol.
+Athol của vòng luân hồi này vậy mà lại trỗi dậy một lần nữa.
+Tư chất không tệ, vậy mà lại một lần nữa kiểm soát người khổng lồ, trở thành lực lượng chủ chốt của các siêu anh hùng mới, Cự Nhân Vương Athol.
 
-Gần đây hắn còn đóng phim cá nhân, trở thành ngôi sao đại chúng, tán tỉnh đủ loại nữ minh tinh, tin đồn thị phi không ngớt, thành lập nên công ty công nghệ người khổng lồ Asol.
+Gần đây hắn còn đóng phim cá nhân, trở thành ngôi sao đại chúng, tán tỉnh đủ loại nữ minh tinh, tin đồn thị phi không ngớt, thành lập nên công ty công nghệ người khổng lồ Athol.
 Chỉ có thể nói thế sự vô thường, vậy mà lại trỗi dậy một lần nữa.
 
 Sau khi cảm thán một hồi, Lý Khanh cũng bắt đầu nghiên cứu tiến độ tu hành của chính mình.

@@ -43,7 +43,7 @@ Phim của hắn, thực chất chính là đại hội thề quân xuất chinh
 Lý Khanh thầm ghi nhận hắn một lần.
 Mặc dù không có tài tình gì đặc biệt, nhưng đầu óc quả thực rất nhạy bén, là một bộ máy thúc đẩy thời đại.
 
-Anh đột nhiên khẽ cười:
+Hắn đột nhiên khẽ cười:
 "Tuy nhiên, Angly này thực sự là Angly ban đầu sao? Có lẽ họ đã phạm phải một sai lầm rồi."
 
 Họ vẫn chưa hiểu rõ rằng sau khi tái khởi động, đó chỉ là một người khác có cùng ký ức mà thôi.
@@ -93,7 +93,7 @@ Lý Khanh thong thả ngồi trên ghế, lướt thông tin trên mạng, nhìn
 
 "Ván chơi sa bàn thế giới này vừa mới lên bàn cược, họ đã huy động toàn dân, đây thuộc về cách giải tối ưu rồi... Lũ zombie sắp gặp rắc rối rồi đây."
 
-Anh thần sắc thản nhiên, uống một tách cà phê: "Lần sau lại gắt hơn lần trước, cả hai bên đều đang dốc toàn lực."
+Hắn thần sắc thản nhiên, uống một tách cà phê: "Lần sau lại gắt hơn lần trước, cả hai bên đều đang dốc toàn lực."
 
 Con người là loài động vật sống theo bầy đàn, ảnh hưởng lẫn nhau, sẽ xuất hiện sự đồng cảm.
 Mà tinh thần của một thời đại chính là thắp lên loại cảm xúc này, lan tỏa lẫn nhau, cuối cùng hình thành nên một luồng cuồng triều bách chiến bách thắng, từng vị anh hùng không quản ngại cái chết nối gót nhau xông lên.
@@ -148,9 +148,9 @@ Chỉ cần không có sự ngăn cản, mỗi một con đều có thể tiêu 
 Quân đội với hỏa lực hạng nặng hàng ngàn hàng vạn người vẫn có thể áp chế được một vị lĩnh chủ zombie, thậm chí có thể đánh nát bấy đối phương.
 Nhưng rắc rối nhất là rất khó giết chết.
 
-Hỏa lực hạng nặng của anh đánh đối phương thành đống thịt vụn, nhưng linh hồn người ta xuất khiếu, đi đoạt xá những xác chết khác, sau một thời gian khôi phục lại là thực lực toàn thắng, anh đánh kiểu gì?
+Hỏa lực hạng nặng của hắn đánh đối phương thành đống thịt vụn, nhưng linh hồn người ta xuất khiếu, đi đoạt xá những xác chết khác, sau một thời gian khôi phục lại là thực lực toàn thắng, hắn đánh kiểu gì?
 
-Người ta hết lần này đến lần khác quay lại tiêu diệt binh lính của anh, việc diệt vong chỉ là vấn đề thời gian.
+Người ta hết lần này đến lần khác quay lại tiêu diệt binh lính của hắn, việc diệt vong chỉ là vấn đề thời gian.
 
 Hiện tại, phát hiện có hai thứ có thể gây ra hiệu quả trực tiếp nhất đối với linh hồn.
 

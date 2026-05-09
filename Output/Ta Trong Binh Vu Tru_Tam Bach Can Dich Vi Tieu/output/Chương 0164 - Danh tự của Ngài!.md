@@ -22,7 +22,7 @@ Nền tảng tích lũy từ sự bùng nổ văn minh lần trước đã đư�
 
 "Một thế giới như thế này cũng tốt."
 Lý Khanh đăng nhập vào Twitter.
-Anh cảm thấy ở đây thoải mái hơn thế giới Vu Sư nhiều.
+Hắn cảm thấy ở đây thoải mái hơn thế giới Vu Sư nhiều.
 
 Môi trường quen thuộc, có mạng internet, có thể xem phim, hàng xóm vẫn là Suzanne, Lý Uyển Ninh.
 Hầu như không có gì thay đổi.

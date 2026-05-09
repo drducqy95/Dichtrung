@@ -174,6 +174,7 @@ def safe_title(title: str) -> str:
 
 
 def extract_heading(text: str) -> tuple[int | None, str | None]:
+    text = text.lstrip('\ufeff')
     for line in text.splitlines():
         stripped = line.strip()
         if not stripped:
@@ -193,6 +194,9 @@ def extract_filename_info(filename: str) -> tuple[int | None, str | None]:
     if match:
         return int(match.group(1)), match.group(2).strip()
     match = re.match(r"^(\d{1,4})\s*-\s*(.+?)(?:\.md)?$", filename, re.IGNORECASE)
+    if match:
+        return int(match.group(1)), match.group(2).strip()
+    match = re.match(r"^Chương\s*(\d{1,4})\s*-\s*(.+?)(?:\.md)?$", filename, re.IGNORECASE)
     if match:
         return int(match.group(1)), match.group(2).strip()
     return None, None

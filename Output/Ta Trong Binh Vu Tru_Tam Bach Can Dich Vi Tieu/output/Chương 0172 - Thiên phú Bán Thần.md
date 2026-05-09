@@ -5,12 +5,12 @@ Lý Khanh đang điều động dữ liệu.
 【Chủng tộc: Nhân loại Trái Đất】
 【Thiên phú Bán Thần nhân loại: ??? (Chưa có sự đột phá)】
 Nhân loại sở hữu thiên phú niệm động lực, linh hồn mạnh mẽ, trí tuệ vượt trội, thiên phú Bán Thần chắc chắn phải liên quan đến những thứ này.
-Ánh mắt anh khẽ quét qua, lướt qua dòng chữ này.
+Ánh mắt hắn khẽ quét qua, lướt qua dòng chữ này.
 
 【Chủng tộc: Cơ giới chủng】
 【Thiên phú Bán Thần cơ giới: ??? (Chưa có sự đột phá)】
 
-Lý Khanh mượn dùng siêu trí não Silph, không ngừng thu thập dữ liệu, thiết lập cơ sở dữ liệu, đối với cảnh giới Bán Thần này anh đã nắm bắt vô cùng rõ ràng.
+Lý Khanh mượn dùng siêu trí não Silph, không ngừng thu thập dữ liệu, thiết lập cơ sở dữ liệu, đối với cảnh giới Bán Thần này hắn đã nắm bắt vô cùng rõ ràng.
 Và hai chủng tộc kể trên đều không phải là nhân vật chính, nhân vật chính lúc này là hai chủng tộc dưới đây.
 
 【Chủng tộc: zombie】
@@ -35,7 +35,7 @@ Thậm chí hai vị Bán Thần đã đi tới gần điểm cuối, chỉ cầ
 Lý Khanh nhìn cuộc chiến ở trung tâm thành phố phía xa, mỉm cười đầy ẩn ý:
 "Một núi không thể có hai hổ, một chủng tộc thông thường chỉ có một vị Bán Thần... hai vị sẽ xảy ra xung đột lợi ích."
 
-Ánh mắt anh lại quét tới chủng tộc tiếp theo.
+Ánh mắt hắn lại quét tới chủng tộc tiếp theo.
 
 【Chủng tộc: Tộc Cự Nhân】
 【Đặc tính Bán Thần: Cự Nhân chủng (Bản thể là nhân loại có thể hình bình thường, nhưng có thể sinh ra 'thân khu cự nhân', thân khu cự nhân thông qua việc ăn uống để không ngừng mở rộng thể hình, hóa thân thành siêu cự nhân, bản thể có thể tiến vào bên trong để ngồi điều khiển, khi cự nhân bị vỡ nát, bản thể có thể một lần nữa sinh sản, một lần nữa thai nghén ra cự nhân mới.)】
@@ -92,13 +92,13 @@ Trong hơi thở của họ đều sẽ phun ra một số tế bào, vảy da, 
 Tên béo bạo quân cao gấp hai ba lần người bình thường kia bỗng nhiên rút ra một cái đinh ba bằng thép, chỉ vào tôn cự nhân cao hơn hắn gấp mười mấy lần kia gào thét: "Ngươi rốt cuộc là cái thứ gì thế hả? Ngươi như thế này là phạm quy quá rồi!"
 
 Chiến đấu một cách đường đường chính chính, hắn không nghĩ vị Bán Thần zombie của mình sẽ yếu.
-Thế nhưng cái gã cự nhân Asol này, tay cầm một cái túi không gian, không ngừng lôi ra đủ loại vũ khí siêu lớn tầm cỡ một tòa tháp cao, hỏa lực hạng nặng, vác lên vai bắn phá cuồng loạn.
+Thế nhưng cái gã cự nhân Athol này, tay cầm một cái túi không gian, không ngừng lôi ra đủ loại vũ khí siêu lớn tầm cỡ một tòa tháp cao, hỏa lực hạng nặng, vác lên vai bắn phá cuồng loạn.
 
 Trong mắt tên béo bạo quân, cường giả thực sự phải là cuộc giao phong đấm đá tới thịt mới đúng.
 Chứ không phải dùng cái kiểu truyền thống của đất nước này, dùng "Cư hợp kiểu Mỹ" để đối chiến chém giết.
 
 "Ta là người."
-Asol lạnh lùng nói: "Ta là hy vọng của nhân loại, là vị thần bảo hộ của nhân tộc."
+Athol lạnh lùng nói: "Ta là hy vọng của nhân loại, là vị thần bảo hộ của nhân tộc."
 
 "Ngươi chắc chắn ngươi là người không?"
 Tên béo bạo quân nhất thời cảm thấy đối phương thật là mặt dày vô liêm sỉ, chỉ vào những sinh vật hình người đang đau đớn mang thai, thậm chí đã bắt đầu trở dạ kêu la thảm thiết trên mặt đất kia.
@@ -115,9 +115,9 @@ Còn khủng bố hơn, còn kinh hoàng hơn cả tộc lĩnh chủ zombie chú
 
 Hắn rất ghét cái mật danh mà nhân loại đặt cho hắn.
 
-"Tên béo bạo quân, ngươi muốn ta đầu hàng sao?" Asol nhất thời nổi giận, nếu có thể hắn cũng không muốn làm như vậy, đáng tiếc sau khi chủng tộc này hình thành Bán Thần, đặc tính đó không phải là thứ hắn có thể kiểm soát được, tất cả đều bị dị biến thành tộc Cự Nhân rồi.
+"Tên béo bạo quân, ngươi muốn ta đầu hàng sao?" Athol nhất thời nổi giận, nếu có thể hắn cũng không muốn làm như vậy, đáng tiếc sau khi chủng tộc này hình thành Bán Thần, đặc tính đó không phải là thứ hắn có thể kiểm soát được, tất cả đều bị dị biến thành tộc Cự Nhân rồi.
 
-Asol tung một cú đá cực mạnh tới.
+Athol tung một cú đá cực mạnh tới.
 Bùm!!
 Tên béo đó bay ngược ra sau, vô số kiến trúc trong cả thành phố đổ sập.
 

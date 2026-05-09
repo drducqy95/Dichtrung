@@ -59,7 +59,7 @@ Lớp vỏ của hắn trông vẫn không hề hấn gì, nhưng thực chất 
 "Haha, Chúa tể Địa Huyệt không còn dám dựa vào khả năng phòng thủ mà đi càn quét khắp nơi nữa."
 Ngày thứ năm mươi.
 Kỹ thuật của cả hai bên ngày càng hoàn thiện, đủ loại võ thuật, Thần thuật của đôi bên bắt đầu đạo nhái và học hỏi lẫn nhau.
-Lý Khanh nhìn cảnh tượng trên mặt đất trong căn phòng thí nghiệm, khắp nơi là máu tươi, tàn tích, núi xương biển máu, dòng máu xanh đậm và đỏ tươi nhuộm đẫm cả mảnh đất. Ngay cả anh cũng không khỏi cảm thán:
+Lý Khanh nhìn cảnh tượng trên mặt đất trong căn phòng thí nghiệm, khắp nơi là máu tươi, tàn tích, núi xương biển máu, dòng máu xanh đậm và đỏ tươi nhuộm đẫm cả mảnh đất. Ngay cả hắn cũng không khỏi cảm thán:
 "Chiến tranh, cái chết quả nhiên là chất xúc tác cho văn minh. Kỹ thuật sáng tạo sinh học này, thúc đẩy sinh mệnh tạm thời để triệu hồi sinh vật tác chiến, họ đã dẫn trước Trái Đất ít nhất hàng vạn năm rồi."
 Tuy nhiên.
 Cả hai bên đều không phải hạng xoàng, vừa lên đã hận không thể giết chết đối phương trong nháy mắt.

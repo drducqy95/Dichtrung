@@ -58,7 +58,7 @@ Xét cho cùng, nàng không phải lớp vỏ giáp nặng nề, mà là một 
 
 "Là ngươi... đang khinh nhờn..." Vị bán thần kia lảo đảo bò dậy từ trong quan tài.
 
-"Bán thần tiêu biến, quan tài chôn vùi trong quá khứ, cái chết, một lần nữa trở thành thanh kiếm của ta." Hắn phát ra giọng nói cổ xưa mà thương mang, tràn đầy áp lực, thanh trọng kiếm đen ngòm kia bị bóng người cao lớn anh vũ đột ngột chĩa thẳng về phía nàng: "Vương triều Bạc Mộ, vị vua cuối cùng Hecaris."
+"Bán thần tiêu biến, quan tài chôn vùi trong quá khứ, cái chết, một lần nữa trở thành thanh kiếm của ta." Hắn phát ra giọng nói cổ xưa mà thương mang, tràn đầy áp lực, thanh trọng kiếm đen ngòm kia bị bóng người cao lớn hắn vũ đột ngột chĩa thẳng về phía nàng: "Vương triều Bạc Mộ, vị vua cuối cùng Hecaris."
 
 Mà cả hai thế giới bên trong vách ngăn pha lê đều kinh ngạc nghe thấy giọng nói từ bên ngoài hỗn độn, những cảnh tượng mờ ảo trong làn sương mù dày đặc không thể nhìn thấy rõ.
 

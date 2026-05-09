@@ -16,7 +16,7 @@ Dù sao thì phòng khách và căn phòng thứ ba cũng đã trở thành mộ
 
 "Mà thế giới bên trong, sân khấu của các đại chủng tộc tốt nhất nên xuất hiện thêm vài lần biến cách nữa, có cường giả Truyền Kỳ xuất hiện thì mới thuận tiện cho mình di chuyển sa bàn mới."
 
-Trong lòng anh đã có một số quy hoạch như vậy.
+Trong lòng hắn đã có một số quy hoạch như vậy.
 
 Kể từ khi Cự Thần thần bí Aurora trong màn sương mù hỗn độn không ngừng định kỳ gõ cửa, tấn công vách pha lê ở bên ngoài, cả thế giới Thâm Uyên và thế giới Tinh Linh ngay lập tức trở nên căng thẳng.
 
@@ -139,7 +139,7 @@ Mà một thanh niên khoác mũ trùm đầu ngồi trong quán rượu lại v
 
 Nói xong, Lý Khanh rời khỏi quán rượu.
 
-Anh đứng trên con phố của thành phố này, xung quanh náo nhiệt đông đúc, đủ loại nhà mạo hiểm, người lùn, tinh linh, thậm chí có thể thấy cả chủng tộc Thâm Uyên qua lại.
+Hắn đứng trên con phố của thành phố này, xung quanh náo nhiệt đông đúc, đủ loại nhà mạo hiểm, người lùn, tinh linh, thậm chí có thể thấy cả chủng tộc Thâm Uyên qua lại.
 
 Hai bên đã bắt đầu dịu bớt bầu không khí, thông thương buôn bán.
 

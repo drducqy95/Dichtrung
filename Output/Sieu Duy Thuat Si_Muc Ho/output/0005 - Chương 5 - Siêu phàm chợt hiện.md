@@ -1,12 +1,12 @@
 # Chương 5: Siêu phàm chợt hiện
 
-Morning Dew after Rain — ngay khi Leon nghe Eaton nhắc tới cái tên này, anh đã cảm thấy quen thuộc một cách lạ kỳ.
+Vũ Hậu Thần Lộ — ngay khi Leon nghe Eaton nhắc tới cái tên này, anh đã cảm thấy quen thuộc một cách lạ kỳ.
 
-Hóa ra đó là một loại trà... Khi chiếc hộp ký ức bị phủ bụi bấy lâu được mở ra, Leon ngay lập tức nhớ lại một chuỗi những ký ức liên quan tới Morning Dew after Rain. Trước đây anh cũng từng được uống thử. Đó là một loại trà lá xanh mà Jon khá ưa thích, nước trà sau khi pha có màu xanh nhạt, những lá trà hình kim chao liệng lên xuống trong làn nước nóng hổi, nhìn vào sắc xanh thanh khiết ấy, người ta liền có cảm giác như đang được chiêm ngưỡng một khu rừng trù phú.
+Hóa ra đó là một loại trà... Khi chiếc hộp ký ức bị phủ bụi bấy lâu được mở ra, Leon ngay lập tức nhớ lại một chuỗi những ký ức liên quan tới Vũ Hậu Thần Lộ. Trước đây anh cũng từng được uống thử. Đó là một loại trà lá xanh mà Jon khá ưa thích, nước trà sau khi pha có màu xanh nhạt, những lá trà hình kim chao liệng lên xuống trong làn nước nóng hổi, nhìn vào sắc xanh thanh khiết ấy, người ta liền có cảm giác như đang được chiêm ngưỡng một khu rừng trù phú.
 
 Còn về hương vị, Leon không còn nhớ rõ nữa. Chắc hẳn là một thứ nước mang vị đắng chát chăng? Bởi lão già Jon vốn chỉ thích uống mấy loại trà kiểu đó.
 
-"Morning Dew after Rain có điểm gì kỳ lạ sao?" Leon hỏi Jon.
+"Vũ Hậu Thần Lộ có điểm gì kỳ lạ sao?" Leon hỏi Jon.
 
 Sắc mặt Jon không hề thay đổi, chỉ có trong mắt thoáng hiện một tia nghi hoặc: "Cũng không có gì kỳ lạ cả... Chỉ là loại trà lá thông thường thôi, các con cũng đã từng uống, cha mẹ các con cũng vậy, có điều..."
 
@@ -16,9 +16,9 @@ Sắc mặt Jon không hề thay đổi, chỉ có trong mắt thoáng hiện m�
 
 Jon không trả lời ngay mà ra hiệu cho người hầu câm lui xuống trước, bấy giờ mới chậm rãi nói:
 
-"Mầm trà của Morning Dew after Rain vốn không phải là thứ thuộc về thế giới này, mà là thứ đã theo ta từ một thế giới khác đến đây."
+"Mầm trà của Vũ Hậu Thần Lộ vốn không phải là thứ thuộc về thế giới này, mà là thứ đã theo ta từ một thế giới khác đến đây."
 
-Jon còn chưa dứt lời, Leon đã trợn mắt: "Được rồi, nếu Bá tước Eaton không phải vì ông mà tới, chỉ vì Morning Dew after Rain thì lát nữa tôi sẽ gửi thư mời cho ông ta, tối mai mời ông ta đến trang viên thưởng trà."
+Jon còn chưa dứt lời, Leon đã trợn mắt: "Được rồi, nếu Bá tước Eaton không phải vì ông mà tới, chỉ vì Vũ Hậu Thần Lộ thì lát nữa tôi sẽ gửi thư mời cho ông ta, tối mai mời ông ta đến trang viên thưởng trà."
 
 Anh chẳng muốn nghe thêm bất kỳ lời "dị giới luận" sai lầm nào của Jon nữa.
 
@@ -32,13 +32,13 @@ Hơi nước nghi ngút, làn khói mỏng manh lững lờ bốc lên.
 
 Angel tì cằm trên bàn thủ công, nhìn những lá trà trong chiếc tách thủy tinh lúc nổi lúc chìm dưới sự gột rửa của nước sôi.
 
-—— Đây chính là Morning Dew after Rain. Trông nó chẳng có vẻ gì là kỳ lạ cả.
+—— Đây chính là Vũ Hậu Thần Lộ. Trông nó chẳng có vẻ gì là kỳ lạ cả.
 
 Angel vốn thích uống loại trà đậm vị sữa, uống từng ngụm lớn cho thỏa thuê, sữa tươi đặc quánh cùng với vụn trà bám lại bên khóe miệng, rồi dùng đầu lưỡi liếm nhẹ để nhấm nháp dư vị cuối cùng, cậu cảm thấy vô cùng thỏa mãn.
 
 Jon thường trêu chọc cậu rằng chỉ có trẻ con mới thích uống sữa. Vì thế, để thể hiện khía cạnh trưởng thành của mình trước mặt Jon, hằng ngày mỗi khi có người, cậu đều uống các loại trà mang đậm vị đắng và hơi thở của cỏ cây.
 
-Morning Dew after Rain cậu đã uống vô số lần, vị đắng, hậu ngọt. Uống vào chẳng có gì đặc biệt, nhưng tại sao Bá tước Eaton lại đặc biệt hỏi anh trai về cái tên Morning Dew after Rain này? Chẳng lẽ đúng như lời Đạo sư nói, họ có nghi ngờ về nguồn gốc của mầm trà này chăng?
+Vũ Hậu Thần Lộ cậu đã uống vô số lần, vị đắng, hậu ngọt. Uống vào chẳng có gì đặc biệt, nhưng tại sao Bá tước Eaton lại đặc biệt hỏi anh trai về cái tên Vũ Hậu Thần Lộ này? Chẳng lẽ đúng như lời Đạo sư nói, họ có nghi ngờ về nguồn gốc của mầm trà này chăng?
 
 Angel suy nghĩ hồi lâu mà vẫn không thể tìm ra đáp án, bèn dứt khoát không nghĩ nữa mà tiếp tục xem qua một vài tài liệu được sắp xếp trong tủ sách của Đạo sư.
 
@@ -76,11 +76,11 @@ Trong lều không có quá nhiều đồ trang trí, nhưng mỗi một món đ
 
 Bên trong quả cầu pha lê dường như có sương mù đang biến ảo, cụ già râu trắng thỉnh thoảng liếc nhìn quả cầu, rồi lại cúi đầu viết lách; Eaton nhìn về phía quả cầu pha lê nhưng chỉ cảm thấy đầu óc choáng váng, vội vàng dời mắt đi chỗ khác.
 
-"Tìm thấy Morning Dew after Rain chưa?" Một giọng nói khản đặc, trầm thấp phát ra từ miệng cụ già râu trắng.
+"Tìm thấy Vũ Hậu Thần Lộ chưa?" Một giọng nói khản đặc, trầm thấp phát ra từ miệng cụ già râu trắng.
 
 Với vẻ sợ sệt, Eaton đem cuộc đối thoại giữa mình và Leon Patte tại Trang viên Patte ngày hôm nay báo cáo lại từng chữ một.
 
-"Ồ?" Cụ già râu trắng đặt chiếc bút lông vũ xuống, thổi khô mực đỏ tươi như máu trên giấy: "Đối phương tuy không biết về Morning Dew after Rain, nhưng sắc mặt lại thoáng đổi khi nhìn thấy chiếc hộp gỗ... Chắc hẳn người chế tạo chiếc hộp này có vấn đề, hoặc nói cách khác, cũng là một kẻ thi pháp?"
+"Ồ?" Cụ già râu trắng đặt chiếc bút lông vũ xuống, thổi khô mực đỏ tươi như máu trên giấy: "Đối phương tuy không biết về Vũ Hậu Thần Lộ, nhưng sắc mặt lại thoáng đổi khi nhìn thấy chiếc hộp gỗ... Chắc hẳn người chế tạo chiếc hộp này có vấn đề, hoặc nói cách khác, cũng là một kẻ thi pháp?"
 
 Eaton lén nhìn vào hoa văn trên giấy, những đường vân đỏ như máu vẽ nên từng cuộn sóng trào, rồi ở giữa lại có những đường nét và ký hiệu kỳ quái. Chỉ mới nhìn qua một cái thôi mà Eaton đã thấy cay xè mắt.
 

@@ -91,7 +91,7 @@ Ngay khoảnh khắc này, đủ loại át chủ bài, tâm huyết của chún
 
 "Lịch sử trôi qua, thời gian thấm thoắt." Lý Khanh ngồi trên chiếc ghế nằm ở nhà, lặng lẽ nhìn sân vườn dưới ánh nắng yên bình ngoài cửa sổ, gió thu hiu hắt, lá rụng đầy đất.
 
-"Thương sinh trên đại địa lại một lần nữa xây dựng Cự Thần, lại là một thời kỳ đồ thần của tháp Babel đây..." Thần thái anh bình hòa, không nhịn được cười lên một tiếng, có chút mất hứng.
+"Thương sinh trên đại địa lại một lần nữa xây dựng Cự Thần, lại là một thời kỳ đồ thần của tháp Babel đây..." Thần thái hắn bình hòa, không nhịn được cười lên một tiếng, có chút mất hứng.
 
 Phòng thí nghiệm này, không phải các ngươi nói muốn ra là ra được đâu. Muốn đập vỡ cửa sổ, bước ra khỏi bệnh viện tâm thần của vị viện trưởng này sao? Một quân cờ nhỏ bé hạ xuống, con ốc sên quan tài này đủ để ta trì hoãn một chút thời gian, xây dựng xong vách ngăn pha lê kiểu mới... Loại người suốt ngày muốn thí phụ này, cứ ngoan ngoãn ở bên trong nằm viện, tiếp nhận điều trị đi.
 

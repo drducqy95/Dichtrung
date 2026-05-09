@@ -1,0 +1,2 @@
+"# Chương 0098 - Quảng Bồ Bái Sư, La Phù Cầu Đạo (1)\n\nQua một chốc sau, con hổ trắng ở giữa không trung vạch ra một đạo bạch tuyến, giáng xuống một cái, đã tới trước Cầu Tác Động.\n\nToàn bộ đ
+<truncated 10800 bytes>

@@ -1,8 +1,8 @@
 ﻿# Chương 4: Sáng thế, diệt thế, cự thần ngoài vách ngăn pha lê
 
-"Alo, tôi đây, đúng vậy, vẫn chưa đi đâu, không sao, hai ngày nữa tụ tập sau nhé." Lý Khanh liên lạc điện thoại với mấy người bạn ở trường, lấy được một số dụng cụ thí nghiệm đơn giản, thiết lập một phòng thí nghiệm nhỏ trong phòng. Anh làm mù mắt lũ chuột thí nghiệm để chúng khỏi nhìn lung tung, rồi cấy tinh hạch vào da thịt chúng, quan sát xem lũ chuột có bị chiếm xác (đoạt xá) hay không...
+"Alo, tôi đây, đúng vậy, vẫn chưa đi đâu, không sao, hai ngày nữa tụ tập sau nhé." Lý Khanh liên lạc điện thoại với mấy người bạn ở trường, lấy được một số dụng cụ thí nghiệm đơn giản, thiết lập một phòng thí nghiệm nhỏ trong phòng. Hắn làm mù mắt lũ chuột thí nghiệm để chúng khỏi nhìn lung tung, rồi cấy tinh hạch vào da thịt chúng, quan sát xem lũ chuột có bị chiếm xác (đoạt xá) hay không...
 
-Trong vài ngày tiếp theo, anh tiến hành hết thí nghiệm này đến thí nghiệm khác để kiểm tra các mối nguy hiểm tiềm tàng.
+Trong vài ngày tiếp theo, hắn tiến hành hết thí nghiệm này đến thí nghiệm khác để kiểm tra các mối nguy hiểm tiềm tàng.
 
 Rào rào.
 
@@ -18,15 +18,15 @@ Chỉ là không nhìn thấy đồ vật sao?
 
 Điều đó không tồn tại.
 
-Ninh Quốc Xương suốt buổi nhắm mắt giao tiếp với anh mà vẫn nhìn thấy mọi thứ, ước chừng đó là "tâm nhãn" thuộc dạng tinh thần lực.
+Ninh Quốc Xương suốt buổi nhắm mắt giao tiếp với hắn mà vẫn nhìn thấy mọi thứ, ước chừng đó là "tâm nhãn" thuộc dạng tinh thần lực.
 
 Ánh mắt Lý Khanh sáng rực, tiếp tục đặt bút viết:
 
-[Kế đến, chính là xưởng vô trùng mà anh ta để lại.]
+[Kế đến, chính là xưởng vô trùng mà hắn để lại.]
 
 [Mặc dù đã mang đi phần lớn để tự thiêu, nhưng bên trong có thể vẫn còn tàn dư của các vương quốc văn minh đã khai mở trí tuệ, nói nơi đó là một vũ trụ vi sinh vật cũng không ngoa.]
 
-[Một nền văn minh rất có thể đã được thai nghén bên trong, vương quốc Atabia? Không biết bên trong là hình thái sinh vật gì, chế độ gì... Tóm lại, Bàn Cổ khai thiên lập địa đã chết, nền văn minh mà anh ta xây dựng phải được xử lý sạch sẽ!]
+[Một nền văn minh rất có thể đã được thai nghén bên trong, vương quốc Atabia? Không biết bên trong là hình thái sinh vật gì, chế độ gì... Tóm lại, Bàn Cổ khai thiên lập địa đã chết, nền văn minh mà hắn xây dựng phải được xử lý sạch sẽ!]
 
 Lý Khanh viết đến đây, day day trán:
 
@@ -70,7 +70,7 @@ Khoảnh khắc cấy tinh hạch, một cảm giác xé rách cực lớn bùng
 
 Lại trôi qua ròng rã hơn nửa giờ đồng hồ.
 
-Ga trải giường của anh ướt đẫm mồ hôi, anh gắng gượng bò dậy, xoay xoay nhãn cầu khô khốc, đi đến trước bồn rửa mặt soi gương, không kìm được thốt lên:
+Ga trải giường của hắn ướt đẫm mồ hôi, hắn gắng gượng bò dậy, xoay xoay nhãn cầu khô khốc, đi đến trước bồn rửa mặt soi gương, không kìm được thốt lên:
 
 "Đẹp quá."
 
@@ -98,9 +98,9 @@ Nhưng không có cảm giác đau đớn kịch liệt như bị cánh cửa k�
 
 Lý Khanh ngồi lại lên giường, trấn tĩnh lại tinh thần.
 
-Anh có phàn nàn thì cũng chỉ là phàn nàn, là bác sĩ tâm lý nên tố chất tâm lý đương nhiên không thấp.
+Hắn có phàn nàn thì cũng chỉ là phàn nàn, là bác sĩ tâm lý nên tố chất tâm lý đương nhiên không thấp.
 
-Khoảnh khắc anh hạ quyết tâm, anh đã dự định không làm người nữa rồi.
+Khoảnh khắc hắn hạ quyết tâm, hắn đã dự định không làm người nữa rồi.
 
 Dù sao con người là có giới hạn, đặc biệt là loại nhân viên lao động tầng lớp thấp kém như mình, vứt đâu cũng thấy một nắm lớn.
 
@@ -126,11 +126,11 @@ Vi khuẩn bỗng nhiên giống như có trí tuệ, bắt đầu di chuyển s
 
 "Ninh Quốc Xương chỉ cần ba giây, mình hiện tại còn rất yếu, phải nhìn chằm chằm hơn bảy mươi giây mới có thể 【Thức tỉnh】 vi sinh vật sinh ra ý thức sao?"
 
-Anh thử điều khiển chúng.
+Hắn thử điều khiển chúng.
 
 Tiếp theo, Lý Khanh lại dành cả một ngày để nghiên cứu, tiến hành các thí nghiệm biến số khác nhau.
 
-Anh đã hoàn toàn hiểu rõ năng lực của mình.
+Hắn đã hoàn toàn hiểu rõ năng lực của mình.
 
 1. 【Thức tỉnh】 vi sinh vật.
 
@@ -150,11 +150,11 @@ Hai điểm trên sau khi trải qua nhiều lần kiểm tra lặp đi lặp l�
 
 Lý Khanh lại tìm ra một ống nghiệm đặc chế nhỏ cỡ ngón tay út, bên trong chứa đầy dung dịch nuôi cấy, sớm đã có một quần thể vi sinh vật đang sinh sôi nảy nở bên trong.
 
-Anh lại mở mắt ra.
+Hắn lại mở mắt ra.
 
 Bảy mươi giây.
 
-Sau khi khai mở trí tuệ cho toàn bộ vi sinh vật bên trong, anh lại nhắm mắt lại, đậy kín ống nghiệm đặc chế.
+Sau khi khai mở trí tuệ cho toàn bộ vi sinh vật bên trong, hắn lại nhắm mắt lại, đậy kín ống nghiệm đặc chế.
 
 Một vũ trụ ống nghiệm vi mô kín mít đã được hình thành như vậy.
 
@@ -174,7 +174,7 @@ Nhìn Ninh Quốc Xương xem?
 
 Đó là một ví dụ điển hình về việc sinh ra mà không dạy bảo, kết quả là nuôi ra một lũ phản đồ.
 
-Còn về sự phát triển văn minh ngoài giáo dục, anh dự định để mặc tự nhiên, quan sát sự tiến hóa của những phôi thai "đơn bào" nhỏ bé này.
+Còn về sự phát triển văn minh ngoài giáo dục, hắn dự định để mặc tự nhiên, quan sát sự tiến hóa của những phôi thai "đơn bào" nhỏ bé này.
 
 Nói thế nào nhỉ?
 
@@ -190,9 +190,9 @@ Lý Khanh cuối cùng cũng chuyển ánh mắt ra thế giới bên ngoài:
 
 Hơn mười phút sau.
 
-Anh đeo kính râm, lái xe đến ngôi nhà trước đây của Ninh Quốc Xương. Một lần nữa anh nhìn vào bên trong qua khung cửa sổ kính cường lực khổng lồ.
+Hắn đeo kính râm, lái xe đến ngôi nhà trước đây của Ninh Quốc Xương. Một lần nữa hắn nhìn vào bên trong qua khung cửa sổ kính cường lực khổng lồ.
 
-Lần này, cuối cùng anh cũng có thể nhìn thấy thế giới xưởng vô trùng trong mắt Ninh Quốc Xương rồi.
+Lần này, cuối cùng hắn cũng có thể nhìn thấy thế giới xưởng vô trùng trong mắt Ninh Quốc Xương rồi.
 
 Từng ngôi nhà nấm sinh học đặc biệt, giống như một thế giới mộng ảo trong rừng truyện cổ tích, bên trong thậm chí còn tấp nập xe cộ, tráng lệ, mênh mông, hùng vĩ... Đây là một thế giới văn minh!
 
@@ -202,9 +202,9 @@ Những nhân loại Slime bán trong suốt, dùng bốn sợi roi xoắn làm 
 
 "Chủng vi khuẩn hình người? Thật vô lý, tàn dư văn minh vương quốc vi mô của chúng lại khoa trương đến thế sao?"
 
-Anh không dám nhìn quá lâu.
+Hắn không dám nhìn quá lâu.
 
-Dù sao vượt quá 70 giây có thể lại xảy ra sự cố, anh trực tiếp cầm lấy dụng cụ điện hàn đã chuẩn bị sẵn: "Hàn một lỗ nhỏ trên cửa trước đã, mới có thể phun cồn vào trong để sát trùng khử khuẩn."
+Dù sao vượt quá 70 giây có thể lại xảy ra sự cố, hắn trực tiếp cầm lấy dụng cụ điện hàn đã chuẩn bị sẵn: "Hàn một lỗ nhỏ trên cửa trước đã, mới có thể phun cồn vào trong để sát trùng khử khuẩn."
 
 Xẹt xẹt xẹt!
 
@@ -236,15 +236,15 @@ Xẹt xẹt xẹt.
 
 Dưới sự chứng kiến của muôn vàn ánh mắt, một đội kỵ binh đang kéo đến, nhưng Lý Khanh lại làm ngơ như không thấy.
 
-Anh tiếp tục khoan một lối vào cỡ ngón tay trên cửa.
+Hắn tiếp tục khoan một lối vào cỡ ngón tay trên cửa.
 
 Đối phương hoàn toàn không thể tiếp cận, ngọn lửa hàn nhiệt độ hàng nghìn độ đủ để tiêu diệt các vi sinh vật quanh khu vực lỗ nhỏ. Sau đó Lý Khanh lắp một cái van pittông độ chính xác cao đã chuẩn bị đặc biệt vào lỗ nhỏ đó.
 
 Từ nay về sau, lỗ nhỏ này chính là lối vào duy nhất để căn phòng tiếp xúc với bên ngoài.
 
-Dù sao bản thân anh đánh chết cũng không vào trong.
+Dù sao bản thân hắn đánh chết cũng không vào trong.
 
-Sau đó, anh nối trực tiếp một ống phun cồn lớn vào lỗ nhỏ này. Anh đeo thùng cồn trên lưng, ống dẫn bắt đầu phun khí vào trong: "Các vị vi khuẩn, các vị đơn bào có trí tuệ, xin đừng sửa đổi gen để tiếp tục diễn hóa nữa, mời uống thuốc đi, hãy cùng vị tiền phu của các người đi tới hủy diệt."
+Sau đó, hắn nối trực tiếp một ống phun cồn lớn vào lỗ nhỏ này. Hắn đeo thùng cồn trên lưng, ống dẫn bắt đầu phun khí vào trong: "Các vị vi khuẩn, các vị đơn bào có trí tuệ, xin đừng sửa đổi gen để tiếp tục diễn hóa nữa, mời uống thuốc đi, hãy cùng vị tiền phu của các người đi tới hủy diệt."
 
 Ùng ục ục!
 
@@ -276,7 +276,7 @@ Tiếng kêu khóc, tiếng thét thảm, đau đớn, tuyệt vọng, bi minh, 
 
 Chúng sinh trên mặt đất bị ăn mòn thối rữa, bị trận lũ rửa trôi ra phía xa.
 
-Trước khi chết, chúng chú ý đến vị tà ác cổ thần bên ngoài vách ngăn pha lê kia, dùng đôi mắt khổng lồ như lò nung nóng rực lạnh lùng nhìn xuống toàn bộ thế giới. Anh ta chậm rãi mang theo áp lực vô song quay người rời đi, phát ra những lời nói lảm nhảm điên cuồng của tà thần mà người Atabia bọn chúng dù thế nào cũng không thể phát ra, không thể hiểu được.
+Trước khi chết, chúng chú ý đến vị tà ác cổ thần bên ngoài vách ngăn pha lê kia, dùng đôi mắt khổng lồ như lò nung nóng rực lạnh lùng nhìn xuống toàn bộ thế giới. Hắn chậm rãi mang theo áp lực vô song quay người rời đi, phát ra những lời nói lảm nhảm điên cuồng của tà thần mà người Atabia bọn chúng dù thế nào cũng không thể phát ra, không thể hiểu được.
 
 "Ngày mai, tia cực tím."
 

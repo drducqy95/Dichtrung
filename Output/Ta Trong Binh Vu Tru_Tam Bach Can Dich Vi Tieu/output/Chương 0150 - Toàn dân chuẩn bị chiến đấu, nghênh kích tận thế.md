@@ -1,6 +1,6 @@
 ﻿# Chương 150: Toàn dân chuẩn bị chiến đấu, nghênh kích tận thế
 
-Chỉ mất mười phút, Asol đã lập tức phản ứng lại được.
+Chỉ mất mười phút, Athol đã lập tức phản ứng lại được.
 
 Bản thân mình là đã mơ thấy giấc mơ tương lai?
 Không thể là mơ được!
@@ -13,7 +13,7 @@ Bản thân mình vậy mà đã xuyên không rồi!
 Và lại không phải là một người xuyên không, mà là mang theo cả khu tị nạn cùng xuyên không, quay trở lại sáu tiếng trước khi tận thế bùng nổ.
 
 "Việc này thật không thể tin nổi, nhưng nó chỉ có thể là sự thật mà thôi."
-Khuôn mặt đờ đẫn của Asol đột nhiên trở nên kích động, "Là thần linh sao, là thần linh đang bảo hộ chúng ta?"
+Khuôn mặt đờ đẫn của Athol đột nhiên trở nên kích động, "Là thần linh sao, là thần linh đang bảo hộ chúng ta?"
 
 Vẫn còn sáu tiếng nữa.
 Tận thế vẫn chưa bùng nổ, bản thân mình vẫn có cơ hội để ngăn chặn...
@@ -90,19 +90,19 @@ Walton nhìn cuộc họp trực tuyến trên chiếc xe sang trọng kéo dài
 
 "Asol, tôi không cần biết có phải trò đùa hay không, hiện tại tôi sẽ xử lý như một cuộc khủng hoảng thực sự. Nếu sau đó chỉ là một màn kịch hợm hĩnh, Asol cậu sẽ phải trả một cái giá không thể tưởng tượng nổi. Vậy bây giờ, hãy nói cho tôi biết, tương lai tôi đã chết trong phòng thí nghiệm bùng nổ đó sao?"
 
-"Không." Asol nói: "Sau đó ông đã xây dựng được căn cứ tận thế..."
+"Không." Athol nói: "Sau đó ông đã xây dựng được căn cứ tận thế..."
 
 Walton im lặng một lát.
 Ngay cả khi có được câu trả lời, hiện tại hắn cũng không dám mạo hiểm đi tới đó: "Nói cho những kẻ trong phòng thí nghiệm đó biết, đám phú hào đầu tư chúng ta sẽ không tới đó, khẩn cấp phong tỏa phòng thí nghiệm, điều thêm một đội quân an ninh tới đó, phong tỏa toàn bộ mọi người."
 
 "Ngài Walton, xin ngài nhất định phải chú ý, virus rất khủng bố, một khi xuất hiện trong không khí bên ngoài, ngay lập tức sẽ lan rộng ra toàn thế giới."
-Asol lập tức nói: "Tôi không cho rằng có thể ngăn chặn được phòng thí nghiệm, thậm chí hiện tại có lẽ đã rò rỉ rồi, đang lan rộng về phía thành phố, các vị hãy chuẩn bị sẵn sàng."
+Athol lập tức nói: "Tôi không cho rằng có thể ngăn chặn được phòng thí nghiệm, thậm chí hiện tại có lẽ đã rò rỉ rồi, đang lan rộng về phía thành phố, các vị hãy chuẩn bị sẵn sàng."
 
 Trong phòng họp, tất cả mọi người ngay lập tức biến sắc.
 Nếu là thật thì phải lập tức khởi động các biện pháp ứng phó thảm họa đặc biệt nghiêm trọng rồi.
 
 "Tiếp theo, xin hãy ra thông cáo cho người dân."
-Asol đứng dậy, cúi người bái một cái, "Vì toàn nhân loại, xin hãy lánh nạn khẩn cấp trong sáu tiếng đồng hồ, nếu không có chuyện gì xảy ra, xin hãy xử quyết tôi!"
+Athol đứng dậy, cúi người bái một cái, "Vì toàn nhân loại, xin hãy lánh nạn khẩn cấp trong sáu tiếng đồng hồ, nếu không có chuyện gì xảy ra, xin hãy xử quyết tôi!"
 
 Mọi người nhìn nhà khoa học này, im lặng trong giây lát.
 "Chúng tôi biết rồi."
@@ -131,7 +131,7 @@ Thậm chí đủ loại thuyết âm mưu nhanh chóng xuất hiện trên mạ
 Trong nhất thời, trên mạng bàn tán xôn xao, đủ loại cảm xúc bi quan lan rộng.
 Mà Lý Khanh quay trở lại bệnh viện tâm thần cũng bị cho về sớm.
 
-Anh lên mạng xem thử.
+Hắn lên mạng xem thử.
 Phát hiện đám thủy quân thuyết âm mưu đó vậy mà là do các tài phiệt lớn tung ra, nào là vệ tinh rơi, rò rỉ hạt nhân, gây ra tâm lý hoang mang lo sợ...
 Không phải đích thân họ tung ra, mà là để thủy quân tung ra.
 Như vậy, trên mặt nổi họ chỉ là một cuộc "diễn tập toàn dân", cho dù không có chuyện gì xảy ra thì cũng không liên quan tới quan phương của họ.

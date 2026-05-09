@@ -4,13 +4,13 @@ Ngay lúc nhân loại trên toàn thế giới đều đang cảm thán về c�
 
 Họ thấy vị lĩnh chủ zombie cuối cùng cũng bị dụ ra ngoài.
 Một tên zombie béo trắng hếu, tròn vo, mọc sừng ác ma, gương mặt cười gượng gạo, tay cầm đinh ba thép.
-Sức chiến đấu đủ để nghiền nát tất cả của nhân loại — Cự Nhân Vương Asol cũng đã xuất hiện, bắt đầu hoàn toàn đánh tan các vị lĩnh chủ zombie.
+Sức chiến đấu đủ để nghiền nát tất cả của nhân loại — Cự Nhân Vương Athol cũng đã xuất hiện, bắt đầu hoàn toàn đánh tan các vị lĩnh chủ zombie.
 
 "Đây là trận quyết chiến cuối cùng sao?"
 "Có thể thắng!"
 "Ha ha ha, nhìn cái tên zombie này là biết chỉ số thông minh không cao rồi!"
 
-Trước màn ảnh phim, cha mẹ của Asol cũng đột nhiên bịt chặt miệng, cố gắng không để mình phát ra tiếng hét.
+Trước màn ảnh phim, cha mẹ của Athol cũng đột nhiên bịt chặt miệng, cố gắng không để mình phát ra tiếng hét.
 Con trai của họ, vậy mà lại là sức chiến đấu lớn nhất của phe nhân loại.
 Nếu không phải vì cái tên và gương mặt quen thuộc, họ đã tưởng mình nhận nhầm người rồi.
 Trong những thời không mà mình không hề hay biết, đứa con vốn dĩ luôn bình thường của mình vậy mà đã làm được nhiều việc đến thế.
@@ -20,9 +20,9 @@ Trong những thời không mà mình không hề hay biết, đứa con vốn d
 "Ông nó à, con trai chúng ta là người có trách nhiệm! Nó đã nỗ lực và hy sinh vô số, dưới sự hỗ trợ tài nguyên của toàn xã hội nhân loại, nó đã nỗ lực điên cuồng để đạt đến cái tầm cao khủng bố không thể tin nổi này."
 
 Hình ảnh trong phim.
-Asol bắt đầu chiến đấu với đối phương.
+Athol bắt đầu chiến đấu với đối phương.
 Cả hai bên đều đang dị biến, sự đối lập giữa trung tâm thành phố dường như mỗi bên đều kéo ra một thế giới riêng.
-Asol mượn dùng đủ loại công nghệ đen của giáo sư Lý Uyển Ninh, không ngừng hóa thân thành kẻ cuồng vũ khí tấn công đối phương, tên béo "Satan" đó sắp không trụ nổi nữa rồi.
+Athol mượn dùng đủ loại công nghệ đen của giáo sư Lý Uyển Ninh, không ngừng hóa thân thành kẻ cuồng vũ khí tấn công đối phương, tên béo "Satan" đó sắp không trụ nổi nữa rồi.
 
 Bất kể là những người sống sót trong phim, hay là nhân loại đang xem phim ở thời không này, tất cả mọi người đều xem đến mức nhiệt huyết sôi trào, gào thét tạo thành những đợt sóng âm:
 

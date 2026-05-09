@@ -21,7 +21,7 @@ Nhưng trước đây đối tượng thí nghiệm đều là tạm thời. Gi�
 
 "Thế thì không cần thiết." Lý Khanh lắc đầu.
 
-Aurora thuộc loại nhân tài khai phá, đến tay hắn cũng chẳng để làm gì, quăng vào thời đại để thúc đẩy thời đại mới là con đường đúng đắn. Về tâm tính, cô ấy là người cầu đạo có tâm tính gần giống với Thiên Tử nhất. Thuần túy, đơn giản, không có tạp niệm, một lòng hướng đạo, thanh khiết như một đóa sen trong hồ: Gần bùn mà chẳng hôi tanh mùi bùn.
+Aurora thuộc loại nhân tài khai phá, đến tay hắn cũng chẳng để làm gì, quăng vào thời đại để thúc đẩy thời đại mới là con đường đúng đắn. Về tâm tính, cô ta là người cầu đạo có tâm tính gần giống với Thiên Tử nhất. Thuần túy, đơn giản, không có tạp niệm, một lòng hướng đạo, thanh khiết như một đóa sen trong hồ: Gần bùn mà chẳng hôi tanh mùi bùn.
 
 Thế nhưng hai người cũng có điểm khác biệt. Sự thuần khiết của Thiên Tử là: Biết sự đời mà không màng sự đời, trải qua sự lọc lõi mà vẫn giữ được nét ngây thơ. Còn Aurora là sự hướng nội e thẹn bẩm sinh, một tấm lòng son thuần khiết. Người mẹ phức tạp bao nhiêu thì đứa con gái này lại đơn thuần bấy nhiêu, có lẽ cũng thầm hợp với kỳ vọng mà người mẹ dành cho cô: Aurora, nghĩa là tia sáng hy vọng thuần khiết nhất.
 

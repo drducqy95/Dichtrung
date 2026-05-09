@@ -82,7 +82,7 @@ Nỗi sợ hãi vô hình bao trùm lấy Yellis, khiến nó không thể kìm 
 Giọng nói bình thản nhưng lại mang theo sự cuồng bạo vô tận, giống như vực thẳm đang nhìn chằm mằ trong cơ thể, khiến đầu óc nó tràn ngập sự kinh hoàng.
 "Thần linh vĩ đại, có thể cho con suy nghĩ một chút được không?" Yellis không nhịn được căng thẳng nói, chuyện này đối với nó tác động quá lớn.
 "Nhóc con, tín ngưỡng ta, sẽ nhận được sức mạnh của ta, sẽ dấy lên phong vân của thế giới này, thậm chí có cơ hội thách thức Vua của chúng thần, Herodotus." Lý Khanh thuận tay gây chuyện một phen, rồi trực tiếp rời đi.
-Anh cảm thấy chuyện này hơi tệ, vừa mới đội vương miện cho ai đó, quay lưng đã dụ dỗ kẻ khác tạo phản... Hy vọng con nhện nhỏ này có thể mang lại cho mình một chút bất ngờ.
+Hắn cảm thấy chuyện này hơi tệ, vừa mới đội vương miện cho ai đó, quay lưng đã dụ dỗ kẻ khác tạo phản... Hy vọng con nhện nhỏ này có thể mang lại cho mình một chút bất ngờ.
 Còn đường hầm thế giới, mở ra dị thế giới là gì?
 Tất nhiên là khoan một cái lỗ trên tường, kết nối với căn phòng bên cạnh — dị thế giới.
 Căn phòng bên cạnh là một môi trường thế giới rất thú vị.

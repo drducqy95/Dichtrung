@@ -2,9 +2,9 @@
 
 Lý Khanh càng lúc càng cảm thấy hứng thú.
 
-Anh có cảm giác mình đã giống như cái nền văn minh tế bào này, thuộc về loại người kiến tạo tự nhiên của quá trình tiến hóa sinh học. Chuỗi gen giống như những khối gạch lắp ghép (lego) trong tay trẻ con, hay những đoạn mã lập trình trong phần mềm máy tính, có thể nghiên cứu đủ loại khuôn mẫu.
+Hắn có cảm giác mình đã giống như cái nền văn minh tế bào này, thuộc về loại người kiến tạo tự nhiên của quá trình tiến hóa sinh học. Chuỗi gen giống như những khối gạch lắp ghép (lego) trong tay trẻ con, hay những đoạn mã lập trình trong phần mềm máy tính, có thể nghiên cứu đủ loại khuôn mẫu.
 
-Trước mắt, trong tay anh đang có ba khuôn mẫu gen nguyên thủy hữu dụng:
+Trước mắt, trong tay hắn đang có ba khuôn mẫu gen nguyên thủy hữu dụng:
 
 1. Xe phun nước thủy lục không.
 2. Hải Cự Nhân (Người khổng lồ biển).
@@ -14,17 +14,17 @@ Những thứ này không nghi ngờ gì là có hy vọng tiến hóa thành C�
 
 Lý Khanh bắt đầu nghiên cứu những cuốn sách mà họ viết bằng văn tự gen, đồng thời chuẩn bị một số nguyên liệu tế bào từ chim chóc, xem thử có thể phóng đại chiếc xe nhỏ này lên, tạo ra một con Cự Long thực sự kích thước bằng ngón tay hay không.
 
-Nhưng anh hì hục suốt hơn ba tiếng đồng hồ mà vẫn phát hiện ra kỹ thuật của mình không đủ.
+Nhưng hắn hì hục suốt hơn ba tiếng đồng hồ mà vẫn phát hiện ra kỹ thuật của mình không đủ.
 
 Rõ ràng là phôi thai sinh mệnh cơ bản đã có rồi, bước tiếp theo chỉ là phóng đại kích thước và đắp thêm tế bào một cách đơn giản thôi, nhưng hễ tế bào nhiều lên là cấu trúc lại không ổn định, bắt đầu sụp đổ.
 
 Thử nghiệm vài lần đều thất bại cả.
 
-Ngược lại, vì liên tục tiến hành phẫu thuật hiển vi mà đầu óc anh cũng mệt mỏi rã rời.
+Ngược lại, vì liên tục tiến hành phẫu thuật hiển vi mà đầu óc hắn cũng mệt mỏi rã rời.
 
 Những tế bào này giống như dùng gạch để xây nhà vậy. Cái bản vẽ này xây một ngôi nhà gạch một tầng thì tùy ý, nhưng dùng bản vẽ này để xây vài trăm tầng mà không có cấu trúc cốt thép thì chắc chắn sẽ sụp đổ.
 
-Anh vốn định dùng những tế bào xương nhẹ của chim chóc để đâm xuyên vào những khối thịt nhằm chống đỡ lên, giống như xiên thịt vậy, khâu khâu vá vá, thậm chí còn có thể bay, nhưng kỹ thuật lại không làm được.
+Hắn vốn định dùng những tế bào xương nhẹ của chim chóc để đâm xuyên vào những khối thịt nhằm chống đỡ lên, giống như xiên thịt vậy, khâu khâu vá vá, thậm chí còn có thể bay, nhưng kỹ thuật lại không làm được.
 
 Sau khi thử vài lần, Lý Khanh hoàn toàn hiểu ra:
 
@@ -34,7 +34,7 @@ Sau khi thử vài lần, Lý Khanh hoàn toàn hiểu ra:
 
 Giống như viết một trò chơi lớn nặng vài trăm GB, nếu không có vài trăm lập trình viên chia thành nhiều bộ phận, nghiên cứu trong vài năm, thì có thể tùy ý làm xong sao?
 
-Một mình anh chắc chắn là không giải quyết được rồi.
+Một mình hắn chắc chắn là không giải quyết được rồi.
 
 Đừng coi nghiên cứu khoa học như trò đùa. Thành quả của một nhà khoa học hàng đầu thường phải nghiên cứu trong mười mấy năm mới ra đời được.
 
@@ -54,7 +54,7 @@ Tuy nhiên, đây cũng là cái "ưu thế" tự sát.
 
 Dù sao mình có thể khống chế chúng, nhưng chỉ có thể khống chế một chút xíu trong đó thôi, số còn lại đều không nghe lời, thậm chí còn có thể mọc ra xương phản nghịch, muốn thay thế mình, cướp lấy siêu năng lực của mình. Nhân khẩu càng nhiều thì mình càng nhanh chết.
 
-Nhưng bất kể thế nào, anh lập tức không muốn tự lực cánh sinh nữa.
+Nhưng bất kể thế nào, hắn lập tức không muốn tự lực cánh sinh nữa.
 
 Đây không phải là vấn đề mình có nỗ lực hay không, mà là căn bản không nỗ lực nổi. Thôi thì cứ sao chép thành quả của người Atabia cho nhanh.
 
@@ -62,11 +62,11 @@ Còn phải nhắm vào cái nền tảng văn minh tích lũy của đối phư
 
 Lý Khanh đặt nghiên cứu về Cự Long này xuống, trực tiếp tuyên bố thất bại.
 
-Tuy nhiên anh là một người không cam lòng nhận thua, anh cảm ứng một chút về đội cận vệ tinh thần mà mình có thể khống chế.
+Tuy nhiên hắn là một người không cam lòng nhận thua, hắn cảm ứng một chút về đội cận vệ tinh thần mà mình có thể khống chế.
 
 Quả nhiên vừa mới vào đã chết một đợt người, lại có thêm chỗ trống cho hạn ngạch khống chế.
 
-Anh trực tiếp mở nhãn quan ra, nhìn thẳng vào toàn bộ con Cự Long kích thước cỡ mạt bụi kia.
+Hắn trực tiếp mở nhãn quan ra, nhìn thẳng vào toàn bộ con Cự Long kích thước cỡ mạt bụi kia.
 
 Một giây.
 
@@ -88,7 +88,7 @@ Một số luồng sóng ý thức đơn giản phát ra.
 
 Lý Khanh giới thiệu sơ qua một chút, sau đó ném những di hài của người Atabia cho chúng: "Nghiên cứu cho tốt vào, cố gắng biến mình thành Cự Long."
 
-Anh mô tả qua về năng lực của Cự Long, sau đó nhét vào trong ống nghiệm, đổ dung dịch nuôi dưỡng vào, để chúng tự lực cánh sinh.
+Hắn mô tả qua về năng lực của Cự Long, sau đó nhét vào trong ống nghiệm, đổ dung dịch nuôi dưỡng vào, để chúng tự lực cánh sinh.
 
 Mặc dù số lượng có chút ít, cấu trúc gen ước chừng xây dựng rất chậm, nhưng có còn hơn không.
 
@@ -98,11 +98,11 @@ Bận rộn xong những việc này, Lý Khanh lập tức mệt đến mức n
 
 Hai giờ chiều, Lý Khanh dứt khoát ra ngoài, tìm một phòng tập gym.
 
-Mấy ngày nay lượng ăn của anh vẫn rất lớn, cơ thể đang chậm rãi tăng trưởng, siêu năng lực cũng theo thời gian mà mạnh lên.
+Mấy ngày nay lượng ăn của hắn vẫn rất lớn, cơ thể đang chậm rãi tăng trưởng, siêu năng lực cũng theo thời gian mà mạnh lên.
 
 Nhưng tinh thần bắt nguồn từ thể xác, một cơ thể tốt chắc chắn có thể đẩy nhanh tiến trình này.
 
-Mặc dù tiền tiết kiệm không nhiều, nhưng anh vẫn đến một phòng tập gym cao cấp. Dù sao sau này ước chừng kiếm tiền không khó, chi phí trong khoảng thời gian ngắn hai ba tháng vẫn có thể chống đỡ được.
+Mặc dù tiền tiết kiệm không nhiều, nhưng hắn vẫn đến một phòng tập gym cao cấp. Dù sao sau này ước chừng kiếm tiền không khó, chi phí trong khoảng thời gian ngắn hai ba tháng vẫn có thể chống đỡ được.
 
 "Đúng, tôi muốn tìm một huấn luyện viên nam, tốt nhất là không gian riêng tư, loại có ít phụ nữ ấy." Tại quầy lễ tân phòng tập gym, Lý Khanh đưa ra yêu cầu của mình, logic rất rõ ràng.
 
@@ -120,9 +120,9 @@ Không, là vì một số phòng tập gym siêu cao cấp cơ bản đều có
 
 Lý Khanh cũng không để ý đến cái ánh nhìn thế tục quái dị đó.
 
-Rất nhanh sau đó, anh cùng một huấn luyện viên thể hình đi vào phòng.
+Rất nhanh sau đó, hắn cùng một huấn luyện viên thể hình đi vào phòng.
 
-Nhưng lúc này Susanne từ phòng bên cạnh bước ra, cũng đi cùng một nữ huấn luyện viên người da vàng xinh đẹp. Cô cũng chú ý đến Lý Khanh, và dùng ánh mắt đầy ẩn ý nhìn Lý Khanh cùng anh chàng huấn luyện viên cơ bắp vạm vỡ đi vào phòng.
+Nhưng lúc này Susanne từ phòng bên cạnh bước ra, cũng đi cùng một nữ huấn luyện viên người da vàng xinh đẹp. Cô cũng chú ý đến Lý Khanh, và dùng ánh mắt đầy ẩn ý nhìn Lý Khanh cùng hắn chàng huấn luyện viên cơ bắp vạm vỡ đi vào phòng.
 
 "Hóa ra là như vậy."
 
@@ -136,7 +136,7 @@ Tập gym đến tận hoàng hôn.
 
 Lý Khanh quay về sau khi ăn cơm xong đã là hơn bảy giờ tối.
 
-Anh vác theo đèn tia cực tím đến nơi ở cũ của Ninh Quốc Xương cách đó vài trăm mét.
+Hắn vác theo đèn tia cực tím đến nơi ở cũ của Ninh Quốc Xương cách đó vài trăm mét.
 
 Mở cửa, trước tiên đặt thiết bị tia cực tím xuống đất, đi tới xem đối phương thế nào rồi.
 
@@ -170,15 +170,15 @@ Lý Khanh không hề nương tay.
 
 Bồi thêm một đòn hàng ngày, sau đó đi về ngủ.
 
-Những ngày tiếp theo, cuộc sống của anh khá là lặp đi lặp lại.
+Những ngày tiếp theo, cuộc sống của hắn khá là lặp đi lặp lại.
 
 Diệt thế.
 
 Diệt thế.
 
-Hiện tại anh chỉ có tia cực tím và cồn, cũng không đi tìm thêm thủ đoạn diệt thế mới. Bản thân không có tiền, lại là người gốc Á, những thứ khác không dễ tìm, huống hồ tìm ra được còn có thể bị gia tốc tiến hóa.
+Hiện tại hắn chỉ có tia cực tím và cồn, cũng không đi tìm thêm thủ đoạn diệt thế mới. Bản thân không có tiền, lại là người gốc Á, những thứ khác không dễ tìm, huống hồ tìm ra được còn có thể bị gia tốc tiến hóa.
 
-Anh dự định dùng "ma pháp đánh bại ma pháp", để đội tiên phong quyến thuộc bên trong làm tan rã từ nội bộ, tiêu diệt đối phương, đoạt quyền, biến cả đế quốc thành của mình... Đó mới là cách một lần vất vả suốt đời nhàn hạ. Nếu không cứ hết lần này đến lần khác tìm thủ đoạn diệt thế mới, đối đầu với sự tiến hóa của họ, đó mới thực sự là tự tìm đường chết.
+Hắn dự định dùng "ma pháp đánh bại ma pháp", để đội tiên phong quyến thuộc bên trong làm tan rã từ nội bộ, tiêu diệt đối phương, đoạt quyền, biến cả đế quốc thành của mình... Đó mới là cách một lần vất vả suốt đời nhàn hạ. Nếu không cứ hết lần này đến lần khác tìm thủ đoạn diệt thế mới, đối đầu với sự tiến hóa của họ, đó mới thực sự là tự tìm đường chết.
 
 Được rồi, suy cho cùng thì vẫn là vì không có tiền.
 
@@ -194,11 +194,11 @@ Cô lập tức cảm thấy Lý Khanh thật kỳ lạ, quả nhiên đúng nh�
 
 Lý Khanh thầm suy tính trong lòng.
 
-Đoán chừng đây có lẽ là vì nguyên nhân cô ấy là "Lê".
+Đoán chừng đây có lẽ là vì nguyên nhân cô ta là "Lê".
 
 Nghe nói một số nghiên cứu chỉ ra rằng, loại người này không phải là biến thái tâm lý, mà là do chịu ảnh hưởng của gen dẫn đến vấn đề xu hướng tính dục dễ xuất hiện.
 
-Cô ấy rất có thể chính vì thích nữ giới, thậm chí trong gen thích chính là nữ giới, nên không chịu ảnh hưởng của người đàn ông là anh.
+Cô ta rất có thể chính vì thích nữ giới, thậm chí trong gen thích chính là nữ giới, nên không chịu ảnh hưởng của người đàn ông là hắn.
 
 Sau khi đại khái nghĩ thông suốt mạch suy nghĩ, Lý Khanh biết đối phương không phải là thú dữ, không có ý đồ với mình, cũng đã cởi mở trò chuyện với cô. Đối phương cũng mang bộ dạng cười hì hì "người nhà mình", cảm thấy có sở thích chung.
 
@@ -206,7 +206,7 @@ Thậm chí rất nhanh sau đó.
 
 Cùng nhau tập gym, người phụ nữ này chủ động làm huấn luyện viên cho Lý Khanh, trở thành những người hàng xóm và bạn bè tốt.
 
-Dù sao nhà cô ấy thực sự có tiền, hơn nữa mối quan hệ cũng khá rộng, kết giao cũng tốt, sau này chính là "phôi thai Doraemon" mới của mình, có lẽ có thể giúp mình kiếm được chút đồ.
+Dù sao nhà cô ta thực sự có tiền, hơn nữa mối quan hệ cũng khá rộng, kết giao cũng tốt, sau này chính là "phôi thai Doraemon" mới của mình, có lẽ có thể giúp mình kiếm được chút đồ.
 
 "Hôm nào đó, tôi sẽ giới thiệu bạn gái tôi cho anh quen, cô ấy là một người da vàng."
 
@@ -228,7 +228,7 @@ Xuống xe về nhà.
 
 Nay đã là ngày thứ sáu của tia cực tím.
 
-Anh đã nhìn thấy sự thay đổi nghiêng trời lệch đất.
+Hắn đã nhìn thấy sự thay đổi nghiêng trời lệch đất.
 
 Bên trong cửa sổ kính, dưới đại dương, san hô, vỏ sò, cá bơi, vô số khu rừng dưới đáy biển xanh mướt, cùng với những người Hải tộc tuấn mỹ cầm nĩa xương, tạo thành một vương quốc dưới đáy biển cổ tích tuyệt đẹp.
 

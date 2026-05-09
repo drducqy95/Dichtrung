@@ -31,7 +31,7 @@ Một đám ma thú kỳ quái đang tế bái. Và dưới sự chỉ điểm c
 
 Bản thân mình nằm ườn, để chúng thần làm việc, chúng thần nằm ườn để nhân tộc làm việc, vậy nếu nhân tộc cũng nằm ườn, chẳng lẽ để lũ lợn trong chuồng thúc đẩy tiến hóa sinh mệnh sao?? Đây là công trình thầu lại, tham ô, bớt xén từng cấp một, như vậy sao được?
 
-Nhiệm vụ của anh chính là cầm roi thúc giục con trâu già văn minh này, không cho phép lười biếng.
+Nhiệm vụ của hắn chính là cầm roi thúc giục con trâu già văn minh này, không cho phép lười biếng.
 
 Căn phòng bên cạnh chính là một bản đồ Thâm Uyên chưa được mở ra: Căn phòng đã được đào thành một cái giếng vuông thẳng đứng sâu tới hai mươi mét.
 
@@ -41,11 +41,11 @@ Căn phòng bên cạnh chính là một bản đồ Thâm Uyên chưa được 
 
 Lý Khanh bắt đầu dùng roi "quất" chúng thần rồi.
 
-Trước mắt cũng cuối cùng phải sáng tạo ra thế giới của riêng mình, bản đồ do chính mình thiết lập mở rộng. Tất nhiên là vậy. Quyến thuộc mà anh khống chế có giới hạn, khi sáng tạo diễn hóa, càng nhiều đơn bào thức tỉnh thì càng dễ mất kiểm soát, giống như những gì xảy ra với Ninh Quốc Xương trước đây.
+Trước mắt cũng cuối cùng phải sáng tạo ra thế giới của riêng mình, bản đồ do chính mình thiết lập mở rộng. Tất nhiên là vậy. Quyến thuộc mà hắn khống chế có giới hạn, khi sáng tạo diễn hóa, càng nhiều đơn bào thức tỉnh thì càng dễ mất kiểm soát, giống như những gì xảy ra với Ninh Quốc Xương trước đây.
 
 "Ước chừng lại sắp ra một đám phản đồ rồi, suốt ngày đòi giết thần." Lý Khanh xoa cằm, "Tuy nhiên, lần này, vị thần đầu tiên họ muốn lật đổ là tôi sao? Không, là chúng thần trên cây kia kìa, trời sập thì có kẻ lùn gánh trước, lần này đến lượt họ rồi."
 
-Thực tế, việc cải tạo bức tường của căn hộ ba phòng một phòng khách đương nhiên không cần tới hai tháng trời. Anh chủ yếu dành thời gian để đào hố ở căn phòng thứ hai, sâu hai mươi mét, dùng nhiều lớp thép cố định.
+Thực tế, việc cải tạo bức tường của căn hộ ba phòng một phòng khách đương nhiên không cần tới hai tháng trời. Hắn chủ yếu dành thời gian để đào hố ở căn phòng thứ hai, sâu hai mươi mét, dùng nhiều lớp thép cố định.
 
 Nơi này là ngoại ô, cũng không ai quản. Nhà của mình muốn sửa thế nào cũng được, không ít cư dân ở quốc gia này đều có thói quen đào hầm. Thậm chí Suzanne còn nói biệt thự chính của bố cô ta có một hầm trú ẩn khẩn cấp, bên trong có thực phẩm dự trữ, nghe nói còn có cả kho vũ khí, đây gần như là tiêu chuẩn của không ít phú hào có tiền có thời gian.
 
@@ -58,13 +58,13 @@ Năm mét bùn cát.
 Năm mét đá.
 Năm mét nước biển.
 Năm mét bầu trời.
-Giống như một lớp lọc vậy. Bên trong còn có đủ loại chất dinh dưỡng, anh ném vào đó không tiếc tiền. Sau vài ngày lên men, cái giếng sâu này đã phong phú chủng loại vi khuẩn không kém gì một bể phốt. Vì là nước sâu, để đảm bảo ánh sáng, trên đỉnh có một cửa sổ kính cường lực lớn, phía trước cũng có một cửa sổ kính cường lực khổng lồ, ánh sáng mặt trời mỗi ngày đều sẽ chiếu vào cái giếng sâu thẳng đứng này, từng lớp từng lớp bị pha loãng, hệt như đại dương sâu thẳm.
+Giống như một lớp lọc vậy. Bên trong còn có đủ loại chất dinh dưỡng, hắn ném vào đó không tiếc tiền. Sau vài ngày lên men, cái giếng sâu này đã phong phú chủng loại vi khuẩn không kém gì một bể phốt. Vì là nước sâu, để đảm bảo ánh sáng, trên đỉnh có một cửa sổ kính cường lực lớn, phía trước cũng có một cửa sổ kính cường lực khổng lồ, ánh sáng mặt trời mỗi ngày đều sẽ chiếu vào cái giếng sâu thẳng đứng này, từng lớp từng lớp bị pha loãng, hệt như đại dương sâu thẳm.
 
-Còn việc học theo hoàng đế Atabia đập vỡ cửa sổ kính? Lớp trên cùng toàn là nước, không có điểm tựa, anh vừa bơi vừa đập xem?
+Còn việc học theo hoàng đế Atabia đập vỡ cửa sổ kính? Lớp trên cùng toàn là nước, không có điểm tựa, hắn vừa bơi vừa đập xem?
 
 "Bây giờ đã đến lúc cho 'Thế giới Thâm Uyên' này xuất hiện một số sinh mệnh trí tuệ rồi, ba đại chúa tể Thâm Uyên."
 
-Lý Khanh lấy ra ba bộ não. Đây là ý thức tích hợp mà anh lại vừa thức tỉnh những ngày qua, anh đem ba bộ não này lần lượt nhét vào sán dây, bọ cánh cứng sắt, và tôm tít (tôm Mantis).
+Lý Khanh lấy ra ba bộ não. Đây là ý thức tích hợp mà hắn lại vừa thức tỉnh những ngày qua, hắn đem ba bộ não này lần lượt nhét vào sán dây, bọ cánh cứng sắt, và tôm tít (tôm Mantis).
 
 *Gulu gulu!!*
 "U u~~"
@@ -75,13 +75,13 @@ Lý Khanh vẻ mặt bình tĩnh, nhìn ba sinh mệnh này, bắt đầu đợt
 "Thế giới Thâm Uyên mà các ngươi đang ở, từng bị Ngoại Thần tấn công và giáng lâm, đại địa bị hủy diệt, chúng sinh lầm than."
 "Ngoại Thần đã giết chết Ác Ma Quân Chủ, ý thức tàn dư sau khi ngã xuống đã phân tách thành ba phần chính là ba người các ngươi, vừa mới có ý thức, nay trọng sinh tại thế giới Thâm Uyên, là những chúa tể mới của Thâm Uyên..."
 
-Anh nói với con sán dây đầu tiên: "Slime Quân Chủ, ngươi là một khối thịt vụn còn sót lại của Ác Ma Quân Chủ, kế thừa đặc tính bất tử bất diệt của thần..."
+Hắn nói với con sán dây đầu tiên: "Slime Quân Chủ, ngươi là một khối thịt vụn còn sót lại của Ác Ma Quân Chủ, kế thừa đặc tính bất tử bất diệt của thần..."
 
 Sán dây (Vortex worm/Planaria). Một loại sâu hình dải dài có dạng keo, là loài sinh vật có khả năng tái sinh mạnh mẽ được công nhận, thường xuyên là khách quen trong các phòng thí nghiệm của các nhà khoa học. Cắt sán dây thành 279 phần, nó có thể tái sinh thành 279 con sán dây mới.
 
 "A..." Slime truyền đến một luồng sóng ý thức đơn giản: "Tôi là... tính bất tử của Ác Ma Quân Chủ."
 
-Lý Khanh gật đầu. Anh nói với con bọ cánh cứng sắt: "Skeleton Quân Chủ (Chúa tể Xương), ngươi là một mẩu xương đen còn sót lại của Ác Ma Quân Chủ, kế thừa đặc tính cứng rắn của thần..."
+Lý Khanh gật đầu. Hắn nói với con bọ cánh cứng sắt: "Skeleton Quân Chủ (Chúa tể Xương), ngươi là một mẩu xương đen còn sót lại của Ác Ma Quân Chủ, kế thừa đặc tính cứng rắn của thần..."
 
 Bọ cánh cứng sắt (Ironclad beetle), cấu trúc vỏ ngoài sinh học cực kỳ cứng, rõ ràng không phải là lõi đặc nhưng có thể chịu được áp lực gấp 39.000 lần trọng lượng cơ thể, ô tô cán qua, lốp xe hằn vết trắng mà nó vẫn không sao.
 
@@ -108,7 +108,7 @@ Lý Khanh dịu dàng nói: "Khi ba đại chúa tể Thâm Uyên các ngươi, 
 
 Đợi họ nghiên cứu kỹ thuật, thực sự có thể tam vị nhất thể, hợp thể biến hình thành Ác Ma Quân Chủ Đại Đế, ý thức của Lý Khanh sẽ giáng lâm, điều khiển con Gundam ba trong một này, trở thành Ác Ma Quân Chủ thực sự đi lại giữa nhân gian, hóa thân thành thiên tai trên mặt đất. Thiết lập này nghe rất "ngầu".
 
-Và sinh vật này là loài quái vật Trái Đất mạnh nhất mà hiện tại anh có thể hiểu được, bao hàm mọi kỳ vọng của Lý Khanh khi sáng tạo ra thế giới này.
+Và sinh vật này là loài quái vật Trái Đất mạnh nhất mà hiện tại hắn có thể hiểu được, bao hàm mọi kỳ vọng của Lý Khanh khi sáng tạo ra thế giới này.
 
 "Khi các ngươi dung hợp, cả thế giới sẽ phải run rẩy vì các ngươi..."
 "Ác Ma Quân Chủ vừa mới ngã xuống, ngoài ba hạt nhân các ngươi ra, còn có hai mươi nghìn tỷ ý thức tàn hồn, tế bào rơi rớt khắp nơi, đang quằn quại, đang xây dựng văn minh, không ngừng tiến hóa, hãy thống trị chúng, ngăn cản chúng làm loạn."
@@ -117,11 +117,11 @@ Và sinh vật này là loài quái vật Trái Đất mạnh nhất mà hiện 
 
 Lý Khanh trực tiếp ném ba cái xác đó vào Thâm Uyên, để bộ não tích hợp bên trong chúng hút cấu trúc lớp vỏ, tự mình diễn hóa.
 
-Còn bây giờ, thức tỉnh hai mươi nghìn tỷ tế bào đó? Chưa phải lúc. Thứ đó quá nhiều, không nằm trong tầm kiểm soát của anh. Đợi đến lúc mình khoan thủng tường thế giới, thông suốt đường hầm, lúc bước ra mới thức tỉnh.
+Còn bây giờ, thức tỉnh hai mươi nghìn tỷ tế bào đó? Chưa phải lúc. Thứ đó quá nhiều, không nằm trong tầm kiểm soát của hắn. Đợi đến lúc mình khoan thủng tường thế giới, thông suốt đường hầm, lúc bước ra mới thức tỉnh.
 
 Lý Khanh thở dài: "Đáng tiếc là bọ cánh cứng sắt không phải là lý tưởng nhất, ban đầu định tìm sinh vật cứng nhất Trái Đất trong truyền thuyết: Ốc sên chân vảy." Súng lục bình thường không bắn thủng được. Sống ở miệng núi lửa sâu hơn 2000 mét dưới đáy Ấn Độ Dương, nhiệt độ nước cao tới 400 độ C, môi trường kim loại nặng vượt mức cho phép. Vỏ hợp kim, thậm chí nam châm còn hút được. Trong cơ thể sinh vật bình thường lượng sắt đều thấp, mà loại ốc sên này trực tiếp toàn bộ lớp vỏ đều là lượng lớn hợp kim sắt. Nếu dùng cấu trúc sinh mệnh này, có lẽ có thể tạo ra cả xương cốt bằng hợp kim sinh học, cái này có khác gì Gundam hình người đâu? Đáng tiếc trong thời gian ngắn không kiếm được. Cho nên mạng lưới thế lực ngầm rất quan trọng.
 
-"Tuy nhiên, bản đồ mới thứ hai này vẫn còn thiếu một chút dư vị." Lý Khanh suy ngẫm một hồi, cảm thấy có gì đó chưa đúng. Anh nghiêm túc suy nghĩ, chợt ý thức hạ xuống căn phòng bên cạnh, quan sát vị Tinh Linh này: "Dạo này cô nàng có vẻ hơi nhàn rỗi nhỉ."
+"Tuy nhiên, bản đồ mới thứ hai này vẫn còn thiếu một chút dư vị." Lý Khanh suy ngẫm một hồi, cảm thấy có gì đó chưa đúng. Hắn nghiêm túc suy nghĩ, chợt ý thức hạ xuống căn phòng bên cạnh, quan sát vị Tinh Linh này: "Dạo này cô nàng có vẻ hơi nhàn rỗi nhỉ."
 
 Vị Tinh Linh này đang học kiến thức Trái Đất. Dù sao ý thức đại não tích hợp, sinh mệnh đa luồng do mấy vạn tế bào trí tuệ tạo thành học rất nhanh, lên mạng xem video đã học được đủ loại kiến thức hóa học, vật lý cấp hai rồi.
 
@@ -129,5 +129,5 @@ Vị Tinh Linh này đang học kiến thức Trái Đất. Dù sao ý thức đ
 
 Sao tất cả đều đang "tự sướng" (fishing) thế này? Chúng thần trên cây đang tự sướng, cô ở phòng bên cạnh xem tivi, ăn đồ ăn rác? Tất cả đi làm việc cho tôi.
 
-Anh lập tức đưa ra một quyết định: "Cho cô ta một phần quyền hạn khống chế quyến thuộc, để cô ta nghịch đảo khống chế một con kiến Tinh Linh, xuyên không vào thế giới Thâm Uyên luôn cho rồi, với tư cách là Thánh nữ Tinh Linh chính nghĩa, ngăn cản sự phục sinh của Ác Ma Quân Chủ!"
+Hắn lập tức đưa ra một quyết định: "Cho cô ta một phần quyền hạn khống chế quyến thuộc, để cô ta nghịch đảo khống chế một con kiến Tinh Linh, xuyên không vào thế giới Thâm Uyên luôn cho rồi, với tư cách là Thánh nữ Tinh Linh chính nghĩa, ngăn cản sự phục sinh của Ác Ma Quân Chủ!"
 

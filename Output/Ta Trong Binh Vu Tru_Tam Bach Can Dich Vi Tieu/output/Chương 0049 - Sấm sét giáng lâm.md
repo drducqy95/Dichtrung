@@ -7,7 +7,7 @@ Trong mắt Suzanne.
 Thánh nữ Tinh Linh Sylph gần như đã mất trí nhớ, mọi pháp thuật truyền thừa đều không còn nữa, sức chiến đấu chưa tới một phần trăm, ngay cả một người bình thường như cô cũng đánh không lại, phải nhờ tới lần thứ hai anh hùng cứu mỹ nhân của mình.
 "Cô nàng này có năng lực hành động khá mạnh đấy."
 Lý Khanh khẽ liếc nhìn.
-Dù sao cũng là người từng đấu trí đấu dũng với mẹ để bảo vệ bạn gái, nếu cô ấy thực sự là một thế hệ thứ hai vô dụng, không có năng lực thì Lý Khanh cũng đã không chọn cô ấy.
+Dù sao cũng là người từng đấu trí đấu dũng với mẹ để bảo vệ bạn gái, nếu cô ta thực sự là một thế hệ thứ hai vô dụng, không có năng lực thì Lý Khanh cũng đã không chọn cô ta.
 Về phía Suzanne, công việc chuẩn bị đang diễn ra rầm rộ.
 Sự phát triển của thế giới Tinh Linh ở nhà bên cạnh cũng vô cùng kinh người.
 Xoạt xoạt!

@@ -1,10 +1,10 @@
 ﻿# Chương 82 - Vị hoàng đế điên rồ táo bạo
 
-Trong phòng thí nghiệm, Lý Khanh cảm thấy hơi đau đầu. Anh nhìn chiếc máy đang phun sương trước mặt, lại nhìn một chiếc quan tài bằng kính cường lực ở phòng khách, bên trong là gã vệ sĩ bặm trợn số 0 đang đội bộ phát wifi, nằm đóng giả thi thể của một vị bán thần thuở xưa. Lại nhìn vệ sĩ số 1 đang đóng vai phu kéo thuyền, mặc áo tơi và khoác vải liệm, trông hệt như một kẻ sát nhân.
+Trong phòng thí nghiệm, Lý Khanh cảm thấy hơi đau đầu. Hắn nhìn chiếc máy đang phun sương trước mặt, lại nhìn một chiếc quan tài bằng kính cường lực ở phòng khách, bên trong là gã vệ sĩ bặm trợn số 0 đang đội bộ phát wifi, nằm đóng giả thi thể của một vị bán thần thuở xưa. Lại nhìn vệ sĩ số 1 đang đóng vai phu kéo thuyền, mặc áo tơi và khoác vải liệm, trông hệt như một kẻ sát nhân.
 
 Giai đoạn khởi nghiệp, cũng chỉ có thể tạm bợ như vậy thôi! Nhưng mà, vừa mới chạy xong một cảnh quay, Lý Khanh đang định nghỉ ngơi, ai ngờ Elise lại có thể gây chuyện lớn như vậy ở bên trong?
 
-Tích lũy sâu dày rồi bộc phát, vừa lên đã tập kích Thâm Uyên, lại còn ám sát thành công, đột nhiên lên ngôi, rồi lại bắt đầu làm việc không ngừng nghỉ với tư cách là tín đồ của anh, triệu hồi Lôi Thần giáng lâm.
+Tích lũy sâu dày rồi bộc phát, vừa lên đã tập kích Thâm Uyên, lại còn ám sát thành công, đột nhiên lên ngôi, rồi lại bắt đầu làm việc không ngừng nghỉ với tư cách là tín đồ của hắn, triệu hồi Lôi Thần giáng lâm.
 
 Theo thiết lập của chính mình, một thế giới lần đầu tiên thần phục một vị Cổ Thần nào đó, chắc chắn sẽ có Cổ Thần đích thân giáng lâm, ban phúc lành cho thương sinh của thế giới đó. Trước đây, Giáo hội Ánh Sáng đã có được sự đãi ngộ này, giờ đây bên này đương nhiên cũng không thể bên trọng bên khinh.
 

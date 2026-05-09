@@ -15,10 +15,10 @@ Ngày hôm nay.
 Herodotus khai phá Thần thuật, trên vương tọa thần thánh, ông ta trở thành vua của chúng thần trên trời, là tồn tại quản lý thế giới, chưởng quản thiên địa, quân lâm thiên hạ.
 "Cái gì thế này?"
 Lý Khanh nhìn mà kinh ngạc.
-Herodotus rốt cuộc cũng đứng ra rồi, anh cảm thấy chuyện này rất bình thường.
+Herodotus rốt cuộc cũng đứng ra rồi, hắn cảm thấy chuyện này rất bình thường.
 But cái Thần thuật này quá ngầu.
-Anh cảm thấy có chút hiểu được, mà lại như không hiểu.
-Nhưng điều đó không ngăn cản anh học lỏm.
+Hắn cảm thấy có chút hiểu được, mà lại như không hiểu.
+Nhưng điều đó không ngăn cản hắn học lỏm.
 Bởi vì Herodotus đang dốc hết ruột gan truyền dạy, ông ta có khí phách lớn, căn bản không sợ xuất hiện đối thủ, thậm chí còn khao khát xuất hiện sự cạnh tranh.
 "Nguyên lý rất đơn giản."
 Herodotus lấy ra một vật trung gian để thi triển pháp thuật.

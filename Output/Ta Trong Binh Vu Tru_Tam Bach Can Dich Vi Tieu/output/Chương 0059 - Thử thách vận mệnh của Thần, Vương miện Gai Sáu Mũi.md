@@ -4,11 +4,11 @@ Phòng thí nghiệm.
 Căn phòng thứ ba đã được cải tạo thành phòng sách.
 Lý Khanh thực chất vẫn luôn dõi theo Herodotus, thậm chí còn để ý thức phụ thuộc trên người ông, cảm nhận thế giới mà ông nhìn thấy, trải nghiệm trạng thái ngộ đạo của ông.
 Quả thực quá đỗi kỳ diệu.
-Ông ngộ đạo, anh cũng đồng bộ ngộ đạo.
+Ông ngộ đạo, hắn cũng đồng bộ ngộ đạo.
 Cái thế giới huyền bí siêu tốc huyền ảo khó tả kia khiến Lý Khanh cũng không khỏi kinh ngạc khôn cùng.
-Anh cũng cảm thấy siêu năng lực của mình đang lột xác.
-Từ sáu giây nhảy vọt dần xuống còn năm giây, bản thân anh thế mà cũng đang mạnh lên nhanh chóng.
-Lúc này, tâm trạng Lý Khanh vô cùng tốt. Anh đặt cuốn sách trên tay xuống, nhìn vào chiếc camera đang hướng về phía phòng khách, lạnh lùng lên tiếng:
+Hắn cũng cảm thấy siêu năng lực của mình đang lột xác.
+Từ sáu giây nhảy vọt dần xuống còn năm giây, bản thân hắn thế mà cũng đang mạnh lên nhanh chóng.
+Lúc này, tâm trạng Lý Khanh vô cùng tốt. Hắn đặt cuốn sách trên tay xuống, nhìn vào chiếc camera đang hướng về phía phòng khách, lạnh lùng lên tiếng:
 "Herodotus, bên ngoài thế giới là hư không hỗn độn, không phải là nơi phàm nhân nên nhòm ngó."
 Giọng nói kia lạnh lẽo vô tình.
 Khiến Herodotus không chút nghi ngờ rằng nếu không phải mình đang dẫn dắt chúng sinh thế giới này tín phụng vị thần vĩ đại này, cũng như bản thân chẳng còn sống được bao lâu, thì có lẽ mình đã không còn nhìn thấy khoảnh khắc tiếp theo nữa.
@@ -48,12 +48,12 @@ Chẳng phải ngay từ đầu ông không ngừng diễn hóa sinh mệnh, th�
 "Chính là nó, chứa đựng tất cả những gì ta muốn!" Ông lẩm bẩm tự nhủ, đôi mắt dần hiện lên sự điên cuồng của một kẻ tuẫn đạo.
 Xoạt xoạt xoạt!
 Ông liên tục điều chỉnh tần số, lý trí dần tan biến, tín hiệu dần trở nên rõ nét theo tần số.
-Mà Lý Khanh trong lòng đầy cảm thán. Trong phòng thí nghiệm, sau khi rút phích cắm dây điện màu trắng nối với camera bên cạnh, anh cũng lặng lẽ nhìn chiếc router sáu râu trước mắt.
+Mà Lý Khanh trong lòng đầy cảm thán. Trong phòng thí nghiệm, sau khi rút phích cắm dây điện màu trắng nối với camera bên cạnh, hắn cũng lặng lẽ nhìn chiếc router sáu râu trước mắt.
 "Lịch sử là một vòng lặp kỳ diệu."
 "Luôn có những người vì tìm cầu chân lý mà lớp lớp tiến lên."
 Atabia năm xưa không thể dùng nhục thân xuyên qua thế giới vách tinh bích, mà Herodotus ngày nay lại dùng ý thức xuyên qua bức tường vật chất, thành công nhòm ngó được thế giới bên ngoài.
-Cho đến ngày hôm nay, Herodotus này đã không phụ sự kỳ vọng của anh.
-Thế mà lại đi được đến bước này, tiến hóa ra cấu trúc sinh học cảm nhận được sóng điện, thúc đẩy nền văn minh siêu phàm trong tâm trí anh thêm một bước dài!
+Cho đến ngày hôm nay, Herodotus này đã không phụ sự kỳ vọng của hắn.
+Thế mà lại đi được đến bước này, tiến hóa ra cấu trúc sinh học cảm nhận được sóng điện, thúc đẩy nền văn minh siêu phàm trong tâm trí hắn thêm một bước dài!
 Đồng tử Lý Khanh hiện lên thần thái kỳ lạ:
 "Sinh điện học, cảm nhận sức mạnh điện từ, sức mạnh này đã đưa cho ngươi tham khảo rồi. Ngươi rốt cuộc có thể lĩnh hội được loại sức mạnh như thế nào từ cấu trúc mạng thông tin trên Trái Đất đây?"
 Xoạt xoạt xoạt!

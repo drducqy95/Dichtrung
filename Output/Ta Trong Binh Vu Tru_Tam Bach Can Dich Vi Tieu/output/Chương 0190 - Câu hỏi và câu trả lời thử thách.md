@@ -45,7 +45,7 @@ Mọi người vui mừng khôn xiết, thận trọng bước vào bên trong.
 Khi bước vào căn nhà, họ nhìn thấy một cỗ sinh vật núi thịt thần bí khổng lồ chiếm trọn cả phòng khách, tỏa ra một loại khí tức quái dị.
 Mà bên khung cửa sổ cạnh đó có một người đàn ông dáng vẻ thanh mảnh, hai tay đặt trên tay vịn, lặng lẽ ngồi trên ghế nhìn phong cảnh ngoài cửa sổ.
 
-Mặc dù không tỏa ra bất kỳ khí phách nào, nhưng bất kỳ ý thức và sinh mệnh nào khi chạm tới anh đều sẽ biến mất, giống như một hố đen vô địch đang sừng sững ở đó, khiến người ta cảm thấy rợn người.
+Mặc dù không tỏa ra bất kỳ khí phách nào, nhưng bất kỳ ý thức và sinh mệnh nào khi chạm tới hắn đều sẽ biến mất, giống như một hố đen vô địch đang sừng sững ở đó, khiến người ta cảm thấy rợn người.
 Quyền Đầu, Nocloron.
 Sự tồn tại cổ xưa giáng lâm xuống thế giới này, vị bá chủ của kỷ nguyên siêu cổ đại sinh ra trước cả nền văn minh của họ, thậm chí trong vùng trung thiên thế giới này, thế giới nào cũng từng để lại dấu vết của ông ta.
 

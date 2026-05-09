@@ -1,6 +1,6 @@
 ﻿# Chương 65 - Chuyện cũ kỷ nguyên, thời đại của ngươi và ta
 
-Ý thức của Lý Khanh từ đầu đến cuối đều bám trên người Herodotus, mô phỏng theo ông. Tuy nhiên, ngay cả hướng đi sai lầm anh cũng sao chép theo, cũng sở hữu một viên tinh hạch nứt vỡ, bước vào con đường sai lầm tương tự. Điều này khiến Lý Khanh có chút cảm thán, văn minh rốt cuộc không thể một sớm một chiều mà thành công được.
+Ý thức của Lý Khanh từ đầu đến cuối đều bám trên người Herodotus, mô phỏng theo ông. Tuy nhiên, ngay cả hướng đi sai lầm hắn cũng sao chép theo, cũng sở hữu một viên tinh hạch nứt vỡ, bước vào con đường sai lầm tương tự. Điều này khiến Lý Khanh có chút cảm thán, văn minh rốt cuộc không thể một sớm một chiều mà thành công được.
 
 Lúc này đây.
 

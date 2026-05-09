@@ -1,14 +1,14 @@
 ﻿# Chương 9: Cuộc diệt thế thứ hai của Thần
 
-Lý Khanh chưa từng làm kẻ lừa đảo tôn giáo (thần côn), anh là một người vô thần triệt để, càng chưa từng học qua những lời lẽ liên quan.
+Lý Khanh chưa từng làm kẻ lừa đảo tôn giáo (thần côn), hắn là một người vô thần triệt để, càng chưa từng học qua những lời lẽ liên quan.
 
 Kế hoạch rất nhất thời, tiếng nói thần minh giáng lâm này có chút "râu ông nọ chắp cằm bà kia".
 
-Nhưng anh không hiểu thần học, trái lại rất hiểu tâm lý học!
+Nhưng hắn không hiểu thần học, trái lại rất hiểu tâm lý học!
 
 Lần giáng lâm thứ nhất, một trận đại hồng thủy không nói một lời đã tạo ra uy thế vũ lực đủ lớn đối với họ. Đến trận đại hồng thủy lần thứ hai, lòng họ chắc chắn sẽ tràn đầy sợ hãi, lo sợ sẽ lại gặp phải ngày tận thế mà nảy sinh sự khuất phục.
 
-Anh vừa đe dọa vừa dụ dỗ, xác suất họ khuất phục là rất lớn.
+Hắn vừa đe dọa vừa dụ dỗ, xác suất họ khuất phục là rất lớn.
 
 Đồng thời.
 
@@ -18,7 +18,7 @@ Thần linh xuất hiện như thế nào?
 
 Con người thời kỳ bộ lạc nguyên thủy luôn sợ hãi những sự vật mà họ không hiểu, như gió, lửa, sấm, sét. Vì không thể giải thích được nguyên lý của chúng, họ liền cho rằng đó là "Thần" và "Ma", từ đó tiến hành tế lễ, tế hà thần, sơn thần, thái dương thần, để cầu xin sự tha thứ và cứu rỗi.
 
-Và chính anh.
+Và chính hắn.
 
 Hiện tại chính là vị "Ngoại Thần" mà họ không thể hiểu nổi, họ rất có khả năng sẽ cầu xin sự tha thứ.
 
@@ -142,7 +142,7 @@ Hoàng đế Atabia dáng người thẳng tắp, đứng như cây tùng xanh, 
 
 "Đến đi, hãy đến hủy diệt chúng tôi."
 
-Đường nét khuôn mặt ông tinh tế như một bức tượng sáp của một người đàn ông anh vũ, mái tóc đen dài bay múa cuồng loạn được cấu thành từ các roi xoắn. Trên mặt ông mang theo uy nghiêm và sự trầm trọng bất khuất của một bậc đế vương.
+Đường nét khuôn mặt ông tinh tế như một bức tượng sáp của một người đàn ông hắn vũ, mái tóc đen dài bay múa cuồng loạn được cấu thành từ các roi xoắn. Trên mặt ông mang theo uy nghiêm và sự trầm trọng bất khuất của một bậc đế vương.
 
 "Ta biết rõ mục đích đến đây của Ngài. Ngài định khai mở thần thuật tiếp theo để hủy diệt chúng sinh trên mặt đất của chúng ta. Cứ việc đến đi, người Atabia chúng ta sẽ sống đến thế kỷ sau! Cuối cùng sẽ làm chủ thế giới, bước ra ngoài thế giới, sánh ngang với nền văn minh ngoài trời của các người!"
 

@@ -42,7 +42,7 @@ Ngoại ô thành phố Phoenix. Bên ngoài cửa lớn, trong sân viện. Syl
 
 Trong mắt Sylph, vô số bách tính đang khóc lóc thảm thiết, nhà tan cửa nát, thành phố bị hủy diệt, những đạo quân khổng lồ chất thành núi thây, nhưng vẫn có vô số anh hùng đứng ra, dùng tính mạng để giành lấy thời gian quý báu, yểm trợ cho quân đội rút lui. Cuộc chiến thảm khốc khiến Suzanne vốn sống trong thời hòa bình mặt mũi trắng bệch.
 
-"Không sao đâu..." Nhưng Suzanne vẫn an ủi Sylph đang căng thẳng. Mình chỉ là đồng bộ những gì cô ấy thấy, đối phương mới thực sự là người đang ở trong cuộc, chịu đựng áp lực lớn hơn mình gấp bội lần.
+"Không sao đâu..." Nhưng Suzanne vẫn an ủi Sylph đang căng thẳng. Mình chỉ là đồng bộ những gì cô ta thấy, đối phương mới thực sự là người đang ở trong cuộc, chịu đựng áp lực lớn hơn mình gấp bội lần.
 
 "Sylph, cô cứ lặng lẽ quan sát đi, tôi sẽ cùng cô chứng kiến sự kết thúc và khởi đầu mới của cả một thời đại. Bất kể ai thắng ai thua, cô là gián điệp hai mặt, họ đều sẽ không làm khó cô, đây là con đường sống mà tôi đã chuẩn bị sẵn cho cô rồi." Suzanne nhỏ giọng an ủi.
 

@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-05-07T07:45:00+07:00",
-    "total_characters": 56,
+    "last_updated": "2026-05-10T03:59:12.901940",
+    "total_characters": 62,
     "source_projects": [
       "Chu Than Dai Dao_Co Nguyet Cu Si",
       "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
@@ -322,18 +322,18 @@
       "role": "Chính",
       "description": "Nhân vật chính",
       "first_appearance": "",
-      "notes": "Đang trong quá trình tái cấu trúc nhục thân thành Đạo Thể bằng Hỗn Độn Nguyên Khí và Pháp lực. Thần hồn đã ổn định."
+      "notes": "Đã thành tựu Tiên Thiên Đạo Thể (dáng người nhân loại). Đã đột phá cảnh giới Chân Tiên sau một Nguyên Hội (129,600 năm) tu luyện tại đỉnh núi Bất Chu."
     },
     {
       "id": "GCHAR_0013",
       "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
       "name_original": "大自在天魔",
       "name_translated": "",
-      "gender": "khác",
+      "gender": "",
       "role": "Phản diện",
       "description": "Vực Ngoại Thiên Ma",
       "first_appearance": "",
-      "notes": "Đã rút lui khỏi Hồng Hoang sau khi thất bại trong việc độ hóa La Phàm. Đã ghi nhớ La Phàm như một tồn tại đặc biệt mang linh hồn Bàn Cổ. | Thiên Ma"
+      "notes": "Đã rút lui khỏi Hồng Hoang sau khi thất bại trong việc độ hóa La Phàm. Đã ghi nhớ La Phàm như một tồn tại đặc biệt mang linh hồn Bàn Cổ."
     },
     {
       "id": "GCHAR_0014",
@@ -341,10 +341,10 @@
       "name_original": "鸿钧",
       "name_translated": "Hồng Quân",
       "gender": "nam",
-      "role": "Chính",
-      "description": "Đại nhân vật thần thoại",
+      "role": "Phụ",
+      "description": "Đồ đệ đầu tiên của La Phàm",
       "first_appearance": "",
-      "notes": "Xuất hiện sớm trong truyện."
+      "notes": "Đã vượt qua Cửu Kiếp và đạt được Địa Tiên Đạo Quả. Thành lập Tử Tiêu Động tại sườn núi Bất Chu."
     },
     {
       "id": "GCHAR_0015",
@@ -576,6 +576,94 @@
       "description": "Đại ma nữ, mẹ của Aurora, người đã tạo ra Chư Thần hoàng hôn.",
       "first_appearance": "Chương 187",
       "notes": ""
+    },
+    {
+      "id": "GCHAR_0055",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "name_original": "至方童子",
+      "name_translated": "Chí Phương Đồng Tử",
+      "gender": "nam",
+      "role": "Phụ",
+      "description": "Bảo Linh của Chí Phương Ấn",
+      "first_appearance": "",
+      "notes": "Là linh thức của món pháp bảo Chí Phương Ấn do La Phàm luyện chế. Thường xuyên ở bên cạnh phục vụ và bảo vệ La Phù."
+    },
+    {
+      "id": "GCHAR_0056",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "name_original": "广菩",
+      "name_translated": "Quảng Bồ",
+      "gender": "nữ",
+      "role": "Phụ",
+      "description": "Đồ đệ thứ hai của La Phàm",
+      "first_appearance": "",
+      "notes": "Vốn là một gốc cây đại thụ (Mộc linh) tu luyện lâu năm, đã vượt qua 12 thử thách của La Phàm để bái sư. Tu luyện Thái Âm Thần Mộc Đại Pháp."
+    },
+    {
+      "id": "GCHAR_0057",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "name_original": "无极童子",
+      "name_translated": "Vô Cực Đồng Tử",
+      "gender": "nam",
+      "role": "Phụ",
+      "description": "Bảo Linh của Hư Không Vô Cực Cung",
+      "first_appearance": "",
+      "notes": "Là Bảo Linh (Treasure Spirit) được sinh ra khi Hư Không Vô Cực Cung thăng cấp thành Pháp bảo. Có ngoại hình là một tiểu đồng hồng hào đáng yêu nhưng tính cách máy móc, không có ý thức tự ngã, tuyệt đối trung thành và chưởng quản mọi cấu trúc của cung điện."
+    },
+    {
+      "id": "GCHAR_0058",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "name_original": "黄巾力士皇",
+      "name_translated": "Hoàng Cân Lực Sĩ Hoàng",
+      "gender": "nam",
+      "role": "Phụ",
+      "description": "Pháp khí (sắp thành Pháp bảo) của Hồng Quân",
+      "first_appearance": "",
+      "notes": "Là thủ lĩnh của Hoàng Cân Lực Sĩ, sở hữu 36 tầng cấm chế. Có hình dáng đại hán tráng kiện, sở hữu tư duy lý trí cực mạnh giúp Hồng Quân đẩy nhanh tốc độ tu luyện và hồi phục thương thế tức thời (Bất tử chi thân)."
+    },
+    {
+      "id": "GCHAR_0059",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "name_original": "罗浮",
+      "name_translated": "La Phù",
+      "gender": "nam",
+      "role": "Phụ",
+      "description": "Con trai của La Phàm",
+      "first_appearance": "",
+      "notes": "Sinh linh được tạo ra từ Trọng Trọc Âm Phù. Có hình hài Tiên Thiên Đạo Thể, ngây thơ, đã trưởng thành tới kích thước bình thường sau khi ở trong Thiên Ngọ Hưu Khế Thuật mấy chục năm."
+    },
+    {
+      "id": "GCHAR_0060",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "name_original": "傲来",
+      "name_translated": "Ngạo Lai",
+      "gender": "nam",
+      "role": "Phụ",
+      "description": "Hắc Giao Long (Thần Long)",
+      "first_appearance": "",
+      "notes": "Một trong hai Hộ Sơn Thần Thú của La Phàm. Tu luyện Kim Giao Hóa Long Đạo, có thể biến thành Thần Long, thiếu niên mười lăm tuổi hoặc hợp thể với Ngạo Âm thành món pháp khí Kim Giao Tiễn. Chuyên trách bảo vệ và chăm sóc La Phù."
+    },
+    {
+      "id": "GCHAR_0061",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "name_original": "傲音",
+      "name_translated": "Ngạo Âm",
+      "gender": "nữ",
+      "role": "Phụ",
+      "description": "Bạch Giao Long (Thần Long)",
+      "first_appearance": "",
+      "notes": "Một trong hai Hộ Sơn Thần Thú của La Phàm. Tu luyện Kim Giao Hóa Long Đạo, có thể biến thành Thần Long, thiếu nữ mười lăm tuổi hoặc hợp thể với Ngạo Lai thành món pháp khí Kim Giao Tiễn. Chuyên trách bảo vệ và chăm sóc La Phù."
+    },
+    {
+      "id": "GCHAR_0062",
+      "source_project": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+      "name_original": "不周山神",
+      "name_translated": "Bất Chu Sơn Thần",
+      "gender": "",
+      "role": "Phụ",
+      "description": "Linh thức (Sơn thần) cai quản đỉnh núi Bất Chu Sơn",
+      "first_appearance": "",
+      "notes": "Là linh thức sinh ra từ Bất Chu Sơn, ban đầu chưa có hình thể thực chất, tính tình thuần phác. Đã được La Phàm ban cho Thiên Thần Đại Đạo Pháp và Thiên Thần Siêu Thoát Quyết để có cơ hội hóa hình và tự do."
     }
   ]
 }

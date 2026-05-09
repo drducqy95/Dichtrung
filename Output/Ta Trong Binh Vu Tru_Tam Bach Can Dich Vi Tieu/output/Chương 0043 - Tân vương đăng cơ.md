@@ -2,23 +2,23 @@
 
 "Con người sinh ra đã khoác lên mình một tấm áo bào lộng lẫy, đầy rẫy những con rận."
 "Khi chúng ta cởi bỏ tấm áo choàng, rũ sạch những con sâu bọ bẩn thỉu đó, chúng ta mới có thể bước đi trên con đường hướng tới thần linh."
-Trong sân, Lý Khanh tắm mình dưới ánh nắng mặt trời, thong thả nằm trên chiếc ghế tựa, tận hưởng buổi sáng tươi đẹp. Cuộc sống của anh nhàn nhã giống như những ông lão đã nghỉ hưu.
+Trong sân, Lý Khanh tắm mình dưới ánh nắng mặt trời, thong thả nằm trên chiếc ghế tựa, tận hưởng buổi sáng tươi đẹp. Cuộc sống của hắn nhàn nhã giống như những ông lão đã nghỉ hưu.
 Thần thuật, quả thực là một con đường thú vị.
 Nhưng trong mắt Lý Khanh, bản vẽ cự thần mà họ xây dựng này còn thú vị hơn.
 Bởi vì bên trong thực thể sinh mệnh khổng lồ này ngay từ đầu đã không có vi sinh vật cộng sinh, những cơ quan mà họ xây dựng có lẽ sẽ thay thế cho tác dụng cộng sinh của vi sinh vật. Đó là một thực thể sinh mệnh thực sự độc lập, có lẽ đây mới chính là bước chân trên con đường của thần.
 Lý Khanh cũng đang suy nghĩ một vấn đề:
-Cái Thần thuật của họ có thích hợp để anh sử dụng không?
+Cái Thần thuật của họ có thích hợp để hắn sử dụng không?
 "等比例使用的话，我施展的神术，得是创造一个原始巨大神祇，然后，‘信仰’这个神祇，成为祂的信徒，向祂借力！"
 "Như vậy, ta mới có thể triệu hồi một cái móng tay dài hai mét của Ngài."
 "Nhưng tính thực dụng không mạnh, không chỉ cần cung cấp vật liệu thi thuật, năng lượng thi thuật, mà mức độ phòng thủ của cái Thần thuật này thậm chí còn không chặn nổi một viên đạn bình thường."
-Ánh mắt Lý Khanh lóe lên, anh chậm rãi lắc đầu.
+Ánh mắt Lý Khanh lóe lên, hắn chậm rãi lắc đầu.
 Kỹ thuật đời đầu luôn thô sơ.
 Giống như chiếc ô tô hay xe lửa đầu tiên trong lịch sử nhân loại vậy, những người ngồi trên xe ngựa đều cười nhạo nó chậm chạp đến thảm hại, nhưng sau đó thì sao?
 Chỉ có thể nói tương lai đầy hứa hẹn.
 Tiềm năng của pháp thuật này vẫn rất lớn.
-Thậm chí chỉ cần anh muốn, kỹ thuật xây dựng sinh học này còn có thể áp dụng vào Trái Đất hiện nay, tạo nên một cuộc phục hưng thần thoại.
+Thậm chí chỉ cần hắn muốn, kỹ thuật xây dựng sinh học này còn có thể áp dụng vào Trái Đất hiện nay, tạo nên một cuộc phục hưng thần thoại.
 Lấy ví dụ.
-Nếu anh thực sự xây dựng một Ultraman bay xuyên vũ trụ, những người Trái Đất ngu ngốc chỉ cần "tín ngưỡng" vị cự thần này, có được cấu trúc DNA của Ngài, nhận được Thần thuật từ Ngài để đánh thức một phần mô cơ thể.
+Nếu hắn thực sự xây dựng một Ultraman bay xuyên vũ trụ, những người Trái Đất ngu ngốc chỉ cần "tín ngưỡng" vị cự thần này, có được cấu trúc DNA của Ngài, nhận được Thần thuật từ Ngài để đánh thức một phần mô cơ thể.
 Cấu tạo ra đầu đao của Ultraman? Làn da? Đèn tín hiệu? Đem ra đối địch, có lẽ sức mạnh đó không phải dạng vừa đâu.
 Chỉ là điều đó chắc phải ở một tương lai xa xôi nào đó.
 Lúc này.
@@ -29,18 +29,18 @@ Lý Khanh cười đáp.
 Suzanne rõ ràng không có thời gian để ý tới Lý Khanh.
 Gần đây cô đang bí mật nuôi "con gái" ở nhà, dạy học chữ viết, bận rộn đủ thứ việc.
 Suzanne dạo này đến cả phòng gym cũng không đi nữa, cũng không còn tư cách để nói ai đó không đi tập gym.
-Suzanne hiện tại coi cô ấy như báu vật.
+Suzanne hiện tại coi cô ta như báu vật.
 Cô cũng bắt đầu cảm thấy việc tập gym là có giới hạn!
 Kho báu lớn hơn đang ở ngay trước mắt, làm sao có thể bỏ gốc lấy ngọn được?
 Sau buổi sáng.
 Buổi trưa sau khi ăn cơm xong, Lý Khanh thấy mình bỗng nhiên rảnh rỗi không có việc gì làm.
-Trong một hai tháng qua, anh đều bận rộn cải tạo phòng khách và hai căn phòng khác, biến bên trong căn hộ ba phòng một phòng khách thành một phòng thí nghiệm kín mít.
+Trong một hai tháng qua, hắn đều bận rộn cải tạo phòng khách và hai căn phòng khác, biến bên trong căn hộ ba phòng một phòng khách thành một phòng thí nghiệm kín mít.
 Tất nhiên rồi.
 Việc này cũng không tốn bao nhiêu tiền.
 Chủ yếu là các tấm thép hợp kim được hàn kín bên trong.
 Trên trần phòng khách còn lắp một tấm kính cường lực khổng lồ để đảm bảo đủ ánh sáng mặt trời, mà kính đặc chế bên ngoài lại không nhìn thấy được bên trong.
 "Bỏ đi, nghiên cứu Thần thuật vậy." Lý Khanh bỗng thấy có chút hứng thú.
-Anh bắt đầu học theo kỹ thuật bên trong, chẳng mấy chốc.
+Hắn bắt đầu học theo kỹ thuật bên trong, chẳng mấy chốc.
 "Mộc Độn: Thụ Giới Giáng Lâm."
 Rắc rắc.
 Một lọn tóc dây leo to bằng móng tay từng sợi một mọc ra.
@@ -82,18 +82,18 @@ Một luồng nắng gắt xuyên qua vách ngăn pha lê khổng lồ, từ ph�
 "奉您的名所求，仿神的身体，施展此术！"
 Lần đăng cơ này.
 Lý Khanh vẫn ban xuống thần dụ như mọi khi.
-Chỉ là không phải lần đăng cơ của vị hoàng đế thế hệ đầu tiên, anh cũng lười đích thân giáng lâm bên ngoài vách ngăn pha lê, mà chỉ thông qua Thánh Long giáng lâm, đội vương miện cho nhân hoàng mới và trao quyền trượng.
+Chỉ là không phải lần đăng cơ của vị hoàng đế thế hệ đầu tiên, hắn cũng lười đích thân giáng lâm bên ngoài vách ngăn pha lê, mà chỉ thông qua Thánh Long giáng lâm, đội vương miện cho nhân hoàng mới và trao quyền trượng.
 "Người trên mặt đất, Herodotus."
 Một luồng ý chí của Thần xuyên qua thế giới giáng lâm.
 Mang theo một khí thế hoàn toàn khác biệt với con linh vật lười biếng kia.
 Luồng sóng ý thức thần giáng huyền bí, bao la, dường như trở về lúc khởi nguồn của sinh mệnh, đó là một loại khí thế thượng vị tuyệt đối nghiền ép họ.
 "草必枯干，花必凋残。"
 "Duy chỉ có chân lý là vĩnh hằng trên thế gian."
-Anh ôn nhu xoa nhẹ lên trán vị quân vương trước mặt, giọng nói nghiêm nghị vang lên:
+Hắn ôn nhu xoa nhẹ lên trán vị quân vương trước mặt, giọng nói nghiêm nghị vang lên:
 "Nguyện con dẫn dắt con dân trên mặt đất có tín ngưỡng."
 "Nguyện con mang theo chúng sinh hưởng thụ tự do, ôm ấp lòng dũng cảm, bước đi trên con đường hướng về phía chúng ta."
 Hồng y giáo chủ đang ghi chép lại tất cả những điều này, hình thành nên những bức bích họa vĩnh hằng.
 Kỷ nguyên Tinh Linh, Herodotus đăng cơ trở thành vua của chúng thần, chúa tể thống trị toàn bộ thế giới văn minh.
 Và sau khi nghi lễ đăng cơ hoàn thành.
 Lý Khanh không rời đi hoàn toàn, mà hăng hái định đi dạo xem xét thế giới này một chút.
-Lần này anh không dùng cơ thể của Thánh Long vì điều đó quá gây chú ý. Anh đã phát hiện ra một món đồ chơi mới, là một con nhện nhỏ đáng yêu thế mà lại biến thành một nửa thuộc hạ của mình.
+Lần này hắn không dùng cơ thể của Thánh Long vì điều đó quá gây chú ý. Hắn đã phát hiện ra một món đồ chơi mới, là một con nhện nhỏ đáng yêu thế mà lại biến thành một nửa thuộc hạ của mình.

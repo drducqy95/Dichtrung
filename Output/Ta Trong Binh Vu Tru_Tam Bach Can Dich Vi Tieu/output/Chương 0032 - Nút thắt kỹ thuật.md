@@ -1,11 +1,11 @@
 # Chương 0032: Nút thắt kỹ thuật
 
 "Kế hoạch này thuộc về kế hoạch trung hạn, phải đợi thêm một thời gian nữa mới tính sau."
-Anh lấy ra một cái bình, bắt đầu chú tâm quan sát vào bên trong.
-Gần đây, tinh thần lực của anh ngày càng mạnh lên, thời gian quan sát để 【Thức tỉnh】 đang rút ngắn lại, số lượng đội quân thuộc hạ có thể kiểm soát cũng tăng lên.
-Hiện tại, anh đang dự định tạo ra một 【Ý thức tập hợp】 thứ hai bên trong cái bình này, ngoài con Cự Long kia ra.
+Hắn lấy ra một cái bình, bắt đầu chú tâm quan sát vào bên trong.
+Gần đây, tinh thần lực của hắn ngày càng mạnh lên, thời gian quan sát để 【Thức tỉnh】 đang rút ngắn lại, số lượng đội quân thuộc hạ có thể kiểm soát cũng tăng lên.
+Hiện tại, hắn đang dự định tạo ra một 【Ý thức tập hợp】 thứ hai bên trong cái bình này, ngoài con Cự Long kia ra.
 Không sai.
-Anh định tạo ra một ý thức cho 【Phân thân Tinh Linh】 này!
+Hắn định tạo ra một ý thức cho 【Phân thân Tinh Linh】 này!
 "Con rồng béo kia ngốn của ta mất một tuần mới thống nhất được ý thức, thuộc hạ thứ hai này của ta mỗi ngày quan sát hai mươi phút, sau một tuần chắc cũng tương đối hoàn thành rồi."
 Lý Khanh suy nghĩ: "Một tuần rút ra một thuộc hạ, chỉ là không biết lần này vận khí thế nào?"
 Việc 【Thức tỉnh】 này giống như rút thẻ vậy.
@@ -27,7 +27,7 @@ Cũng phải thôi, phần lớn sinh mệnh sinh ra đều cực kỳ tầm th�
 "Con rồng đó là vật lấy khước, đơn giản một chút cũng tốt, hàng ngày cứ nằm trong giáo đình ăn ăn ngủ ngủ, làm kẻ thay mặt Thần đi lại chốn nhân gian, nhưng hy vọng lần này sẽ khá hơn một chút."
 Đối với lần rút này, Lý Khanh cũng không ôm nhiều kỳ vọng.
 Ào ào ào!
-Anh bắt đầu hai mươi phút quan sát của ngày hôm nay.
+Hắn bắt đầu hai mươi phút quan sát của ngày hôm nay.
 Đồng thời bắt đầu thực hiện "thai giáo":
 "Ngươi là chủng tộc Tinh Linh cổ đại... Thánh nữ Tinh Linh, đến từ 【Thế giới dị giới bên trong】."
 "Vì bị Huyết tộc tấn công nên đã mất trí nhớ, năng lực gần như mất sạch, cơ thể thậm chí còn yếu hơn cả người thường, đi vài bước là thở hổn hển."
@@ -39,12 +39,12 @@ Vị Thần Ánh Sáng này của mình có thể hạ thần dụ xuống đầ
 Muốn lừa được những người kia, trước tiên phải lừa được thuộc hạ của mình, để nó thật sự thấy mình là người dị giới.
 Sự an toàn của bản thân luôn là ưu tiên hàng đầu.
 Hoàn thành công việc hai mươi phút quan sát hàng ngày, Lý Khanh cũng hiếm khi thư thả đi dạo trên phố.
-Buổi tối, anh tụ tập với mấy người bạn lưu học sinh.
+Buổi tối, hắn tụ tập với mấy người bạn lưu học sinh.
 Bạn bè đa số cũng đều học y.
-Thậm chí bác sĩ tâm thần cũng có mấy người, đó là mối quan hệ và kênh liên lạc của anh.
+Thậm chí bác sĩ tâm thần cũng có mấy người, đó là mối quan hệ và kênh liên lạc của hắn.
 Vị "Doraemon" kia cũng là một trong số đó, người ta đã được định sẵn chỗ làm từ khi còn ở trường.
-Đang làm nghiên cứu viên trong phòng thí nghiệm theo sự dẫn dắt của giáo sư hướng dẫn, sống khá tốt, tốt hơn nhiều so với việc anh thực tập ở bệnh viện tâm thần lúc trước.
-Điều đáng mừng nhất là ở đây không có cô gái nào bị ảnh hưởng bởi anh, có thể buông thả tay chân, uống rượu rất vui vẻ, trò chuyện về những chuyện linh tinh rắc rối của mọi người dạo gần đây.
+Đang làm nghiên cứu viên trong phòng thí nghiệm theo sự dẫn dắt của giáo sư hướng dẫn, sống khá tốt, tốt hơn nhiều so với việc hắn thực tập ở bệnh viện tâm thần lúc trước.
+Điều đáng mừng nhất là ở đây không có cô gái nào bị ảnh hưởng bởi hắn, có thể buông thả tay chân, uống rượu rất vui vẻ, trò chuyện về những chuyện linh tinh rắc rối của mọi người dạo gần đây.
 Những ngày tiếp theo.
 Ngoài việc liên lạc với đám bạn xấu, Lý Khanh cũng trò chuyện với Suzanne, cuộc sống trôi qua rất phong phú.
 Văn minh trong phòng thí nghiệm lại càng thay đổi từng ngày, phát triển ổn định.
@@ -64,9 +64,9 @@ Lý Khanh cảm thấy khá tốt.
 Chỉ là kỹ thuật tháp Babel khác của họ có chút tồi tệ.
 Rõ ràng có khung cơ bản sẵn có do Atabia để lại, có đủ loại dữ liệu xây dựng của các dự án, đừng nói là cải tiến đơn giản, họ thậm chí còn không thể phục chế lại, không thể tái tạo lại một tạo vật kỳ tích như tháp Babel.
 Lý Khanh thấy cũng là lẽ đương nhiên, dù sao một kẻ dũng mãnh là rất quan trọng.
-Anh đợi!
+Hắn đợi!
 Lại đợi thêm một tuần nữa.
-Kết quả là ý thức tập hợp thứ hai của anh đã ra đời.
+Kết quả là ý thức tập hợp thứ hai của hắn đã ra đời.
 "A~ đây là đâu!~ Mình nhớ mình là Thánh nữ tộc Tinh Linh, bị kẻ thù tấn công vào vết nứt thứ nguyên, bây giờ đang xuyên không rồi..."
 "Hu hu hu!~~ Thần Tinh Linh ơi~ con đang ở đâu thế này~~"
 Thôi xong.
@@ -84,16 +84,16 @@ Lý Khanh đang hoài nghi nhân sinh bắt đầu suy nghĩ một chuyện:
 "Là mình dựa theo tốc độ của Atabia nên kỳ vọng quá nhiều rồi."
 Chuyện này cũng không vội được.
 Dù sao Lý Khanh phát hiện, hiện tại mình cũng không quá nghèo nữa.
-Bởi vì sáng nay, anh mới nhận ra nửa tháng đã trôi qua.
+Bởi vì sáng nay, hắn mới nhận ra nửa tháng đã trôi qua.
 Một tháng mới lại đến.
-Đã đến lúc phát lương, anh nhận được một khoản tiền lớn từ thu nhập video.
+Đã đến lúc phát lương, hắn nhận được một khoản tiền lớn từ thu nhập video.
 Hai cái video kia đã hoàn toàn bùng nổ, lượt xem trên YouTube và Bilibili tổng cộng có khoảng hơn ba mươi triệu lượt.
-Tiền donate chiếm phần lớn, tiền thực nhận được có hơn năm mươi nghìn tệ, cộng thêm mấy vị chủ kênh hỏi anh xin ủy quyền, lặt vặt cũng có mười vạn tiền vốn.
+Tiền donate chiếm phần lớn, tiền thực nhận được có hơn năm mươi nghìn tệ, cộng thêm mấy vị chủ kênh hỏi hắn xin ủy quyền, lặt vặt cũng có mười vạn tiền vốn.
 "Cuộc sống cũng coi như khá khẩm."
 Lý Khanh ngồi trước máy tính.
 "Quả nhiên, tộc Tinh Linh của mình vẫn còn xa vời lắm, đủ loại cản trở, năng lực kỹ thuật có hạn, vẫn là cái này có thể chống đỡ được một chút."
-Anh liếc nhìn bình luận và dòng tin nhắn chạy trên màn hình.
+Hắn liếc nhìn bình luận và dòng tin nhắn chạy trên màn hình.
 【Hu hu hu! Tập ba, tập ba đâu rồi.】
 【Vạn người dùng máu viết tâm thư xin tập ba, tháp trắng bí ẩn ở R'lyeh kia đã xây được mấy tầng rồi, cột sống nhô cao, tập sau chắc là Tà Thần thức tỉnh rồi nhỉ.】
-【Nhanh lên đi, chỉ đợi anh vào mạch truyện chính thôi đấy!】
+【Nhanh lên đi, chỉ đợi hắn vào mạch truyện chính thôi đấy!】
 Lý Khanh chỉ lướt qua một chút, cân nhắc xem có nên tung tập ba ra không.

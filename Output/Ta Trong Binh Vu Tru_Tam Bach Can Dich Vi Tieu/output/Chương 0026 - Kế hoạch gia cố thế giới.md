@@ -8,19 +8,19 @@ Dù sao thì giữa họ là vấn đề về phe phái, chứ không phải đ�
 
 Lý Khanh cảm thấy mình chính là một kẻ chuyên đi hưởng di sản.
 
-Anh cũng hiểu rõ rằng, khi vị vua kia đã chết, sẽ không còn ai có thể chống lại Quang Minh giáo hội của anh nữa.
+Hắn cũng hiểu rõ rằng, khi vị vua kia đã chết, sẽ không còn ai có thể chống lại Quang Minh giáo hội của hắn nữa.
 
-Chúng sinh bên trong đó đều sẽ trở thành thần dân của anh, trở thành vương quốc do anh nắm giữ.
+Chúng sinh bên trong đó đều sẽ trở thành thần dân của hắn, trở thành vương quốc do hắn nắm giữ.
 
 Và vào lúc này đây.
 
-Trải qua hơn nửa tháng, cái đống hỗn độn mà Ninh Quốc Xương để lại cuối cùng đã được anh dọn dẹp hòm hòm rồi.
+Trải qua hơn nửa tháng, cái đống hỗn độn mà Ninh Quốc Xương để lại cuối cùng đã được hắn dọn dẹp hòm hòm rồi.
 
 "Số tàn dư còn lại chỉ cần quét sạch là được, không đáng lo ngại. Mình cũng không còn phải mất ăn mất ngủ nữa, đã đến lúc mình dùng siêu năng lực này để sáng thế rồi."
 
-Ăn cơm xong trở về nhà, Lý Khanh vẫn đang suy nghĩ về cái cây Thế Giới kia, về sự chấn động mà vị tinh linh cao lớn tuấn mỹ trước khi chết trong phòng thí nghiệm đã mang lại cho anh.
+Ăn cơm xong trở về nhà, Lý Khanh vẫn đang suy nghĩ về cái cây Thế Giới kia, về sự chấn động mà vị tinh linh cao lớn tuấn mỹ trước khi chết trong phòng thí nghiệm đã mang lại cho hắn.
 
-Anh bỗng cảm thấy, đây chính là điểm khởi đầu nảy mầm cho nền văn minh tiếp theo:
+Hắn bỗng cảm thấy, đây chính là điểm khởi đầu nảy mầm cho nền văn minh tiếp theo:
 
 "Thời đại tiếp theo, họ đã không còn khả năng phản kháng mình nữa. Mình sẽ thao túng nền văn minh ở hậu trường, có lẽ có thể thuận nước đẩy thuyền, thử để họ tạo ra một thế giới tinh linh bên trong cái cây tinh linh cổ thụ đó."
 
@@ -62,15 +62,15 @@ Lý Khanh vạch ra kế hoạch trong lòng: "Bất kể sau này muốn phát 
 
 Chín giờ tối.
 
-Lý Khanh phát hiện một con gián đang bò vào từ bệ cửa sổ, thế là trước khi ngủ anh liền nhìn chằm chằm vào con gián đó, định kỳ kiểm tra tiến độ năng lượng.
+Lý Khanh phát hiện một con gián đang bò vào từ bệ cửa sổ, thế là trước khi ngủ hắn liền nhìn chằm chằm vào con gián đó, định kỳ kiểm tra tiến độ năng lượng.
 
-Sau khi sức mạnh của anh đã ổn định, trong một tuần gần đây, về cơ bản mỗi ngày anh đều đang dần trở nên mạnh hơn.
+Sau khi sức mạnh của hắn đã ổn định, trong một tuần gần đây, về cơ bản mỗi ngày hắn đều đang dần trở nên mạnh hơn.
 
 Lúc đầu, cần 70 giây nhìn chằm chằm để 【Thức tỉnh】, hiện tại chỉ cần hơn 60 giây thôi.
 
 Chắc là vẫn đang dần mạnh lên.
 
-"Lũ vi khuẩn trên người con gián đã thức tỉnh rồi, hiện tại chỉ cần 57 giây thôi!" Anh dùng chiếc súng phun lửa luôn trang bị sẵn trong phòng thiêu con gián thành tro, sau khi xác nhận không có con vi khuẩn nào sống sót mới trở về phòng đi ngủ.
+"Lũ vi khuẩn trên người con gián đã thức tỉnh rồi, hiện tại chỉ cần 57 giây thôi!" Hắn dùng chiếc súng phun lửa luôn trang bị sẵn trong phòng thiêu con gián thành tro, sau khi xác nhận không có con vi khuẩn nào sống sót mới trở về phòng đi ngủ.
 
 Có vẻ như đã giải quyết được một vấn đề khó khăn, nhưng trước mắt cũng đang phải đối mặt với một vấn đề mới:
 
@@ -82,25 +82,25 @@ Ninh Quốc Xương chính là vào thời kỳ chỉ mất 3 giây để 【Th�
 
 Lý Khanh có dự cảm.
 
-Khi tinh hạch zombie tiến cấp, anh sẽ có thể tự do điều khiển công tắc của siêu năng lực này, có thể tùy ý mở mắt mà không cần phải lo âu sợ hãi nữa.
+Khi tinh hạch zombie tiến cấp, hắn sẽ có thể tự do điều khiển công tắc của siêu năng lực này, có thể tùy ý mở mắt mà không cần phải lo âu sợ hãi nữa.
 
 Sáng sớm hôm sau.
 
 Lý Khanh không đi tiêu diệt đám tàn dư, cứ để nền văn minh đó tự phát triển một lát.
 
-Anh tin rằng chỉ cần đối phương không ngu ngốc, sau Ngày phán xét, đám bách tính sau thảm họa đó sẽ hoàn toàn thần phục Quang Minh giáo hội, trừ khi họ còn muốn nếm mùi cuộc đại diệt tuyệt tiếp theo.
+Hắn tin rằng chỉ cần đối phương không ngu ngốc, sau Ngày phán xét, đám bách tính sau thảm họa đó sẽ hoàn toàn thần phục Quang Minh giáo hội, trừ khi họ còn muốn nếm mùi cuộc đại diệt tuyệt tiếp theo.
 
 Cứ để họ hoảng sợ một lát đã.
 
 Những người sống sót của giáo hội mình chắc chắn sẽ lại đi truyền bá tín ngưỡng cho họ. Bây giờ mà đi ngay thì lại chẳng có gì thú vị, không đạt được hiệu quả tối đa.
 
-Ăn sáng xong, vì cả người đã nhẹ nhõm hơn rất nhiều nên anh hiếm khi đi chạy bộ buổi sáng một chuyến.
+Ăn sáng xong, vì cả người đã nhẹ nhõm hơn rất nhiều nên hắn hiếm khi đi chạy bộ buổi sáng một chuyến.
 
-Nhìn những sinh mạng "thảm vi khuẩn" khổng lồ đủ mọi hình thái trên đường phố, anh lại có chút quen dần rồi.
+Nhìn những sinh mạng "thảm vi khuẩn" khổng lồ đủ mọi hình thái trên đường phố, hắn lại có chút quen dần rồi.
 
-Anh cảm thấy thêm một lát nữa ngay cả những thứ này cũng chẳng nhìn thấy được, chỉ có thể nhắm mắt lại, lúc đó áp lực tâm lý mới thực sự lớn.
+Hắn cảm thấy thêm một lát nữa ngay cả những thứ này cũng chẳng nhìn thấy được, chỉ có thể nhắm mắt lại, lúc đó áp lực tâm lý mới thực sự lớn.
 
-Sau khi chạy bộ buổi sáng xong, anh gọi điện thoại cho một người bạn.
+Sau khi chạy bộ buổi sáng xong, hắn gọi điện thoại cho một người bạn.
 
 "Đúng, tôi muốn thép hợp kim."
 
@@ -110,9 +110,9 @@ Sau khi chạy bộ buổi sáng xong, anh gọi điện thoại cho một ngư�
 
 Căn nhà ở ngoại ô mà Ninh Quốc Xương để lại là loại ba phòng một sảnh.
 
-Anh dự định trước tiên sẽ hàn một lớp thép hợp kim trực tiếp lên vách tường bên trong của cả căn nhà. Cho dù đối phương có phá vỡ được lớp phòng đầu tiên, phá vỡ được kính cường lực, thì vẫn còn lớp rào chắn phòng khách của căn nhà thứ hai.
+Hắn dự định trước tiên sẽ hàn một lớp thép hợp kim trực tiếp lên vách tường bên trong của cả căn nhà. Cho dù đối phương có phá vỡ được lớp phòng đầu tiên, phá vỡ được kính cường lực, thì vẫn còn lớp rào chắn phòng khách của căn nhà thứ hai.
 
-Còn về loại thép đắt tiền thì đúng là anh không mua nổi.
+Còn về loại thép đắt tiền thì đúng là hắn không mua nổi.
 
 Dù sao thì hiện tại chắc chắn là không thể đánh nổ được, cậu tưởng cậu là Hulk (Người khổng lồ xanh) chắc?
 
@@ -120,11 +120,11 @@ Những thứ khác cứ để sau này có tiền rồi tính tiếp.
 
 "Đúng đúng, kính cường lực cũng giúp tôi hỏi một chút, cứ hỏi trước đã, chủ yếu là không có tiền. Tôi ở đây định thay một tấm kính lớn, dù sao tôi cũng muốn loại chống đạn, loại dùng trong quân đội, cái này chất lượng phải cao, nhất định phải cao." Lý Khanh không ngừng nói.
 
-Nếu xử lý xong đối phương, Lý Khanh dự định để họ tự mình vào trong chai mà "cầu nguyện", anh sẽ tranh thủ cải tạo phòng thí nghiệm, thay cái tấm kính "Pinduoduo" của Ninh Quốc Xương ra.
+Nếu xử lý xong đối phương, Lý Khanh dự định để họ tự mình vào trong chai mà "cầu nguyện", hắn sẽ tranh thủ cải tạo phòng thí nghiệm, thay cái tấm kính "Pinduoduo" của Ninh Quốc Xương ra.
 
 Bởi vì luôn cảm thấy không an toàn, kính luôn là điểm yếu dễ bị đột phá.
 
-Thậm chí anh còn muốn có thêm nhiều tấm thép hơn để cải tạo nốt hai căn phòng bên cạnh.
+Thậm chí hắn còn muốn có thêm nhiều tấm thép hơn để cải tạo nốt hai căn phòng bên cạnh.
 
 Một căn phòng ứng với một thế giới tiến hóa đơn bào của một nền văn minh, có thể tạo ra thế giới đa nguyên tinh bích.
 
@@ -142,5 +142,5 @@ Vẫn phải tự mình ra tay thôi.
 
 May mắn là tố chất cơ thể mình phi thường, một mình vác một tấm thép hợp kim vẫn có thể làm được, làm một công nhân xây dựng cũng không quá khó khăn.
 
-"Chao ôi, vạn sự khởi đầu nan mà." Lý Khanh thở dài, sau khi đặt điện thoại xuống, anh nhìn về phía con cự long trên cổ mình, phát hiện đã có một số biến hóa mới.
+"Chao ôi, vạn sự khởi đầu nan mà." Lý Khanh thở dài, sau khi đặt điện thoại xuống, hắn nhìn về phía con cự long trên cổ mình, phát hiện đã có một số biến hóa mới.
 

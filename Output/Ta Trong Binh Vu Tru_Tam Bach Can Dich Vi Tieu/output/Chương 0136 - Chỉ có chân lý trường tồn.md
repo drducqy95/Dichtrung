@@ -149,7 +149,7 @@ Vị này mới thực sự là trí giả của thời đại, dùng chín năm
 
 Khiến thế giới vu sư củng cố hoàn toàn mọi nền móng.
 
-Bản thân anh mặc dù có cám dỗ hắn đào mộ lão già nghiện game Walton kia, bước lên con đường ngắn ngủi như hoa quỳnh này, nhưng đây là lựa chọn của hắn.
+Bản thân hắn mặc dù có cám dỗ hắn đào mộ lão già nghiện game Walton kia, bước lên con đường ngắn ngủi như hoa quỳnh này, nhưng đây là lựa chọn của hắn.
 
 Thay vì làm một kẻ thất bại, tầm thường cả đời, làm một kẻ hèn nhát suốt đời, thà làm một vị anh hùng trong khoảnh khắc, đánh bại đối thủ cả đời của mình.
 
@@ -165,19 +165,19 @@ Chữ viết ngày càng mờ đi, cẩu thả.
 
 Lý Khanh thản nhiên lên tiếng: "Ngươi đã làm rất tốt rồi... Ngươi không phải là kẻ thất bại đã thua dưới tay Proeus năm xưa, mà là một người chiến thắng của thời đại."
 
-Bản thân anh có thể cho không nhiều.
+Bản thân hắn có thể cho không nhiều.
 
 Mà tấm bia anh hùng này đặt ở đây, có thể khiến họ để lại dấu chân thúc đẩy lịch sử tại đây.
 
-Mà đối với những vị vua thời đại này, đối với những vu sư thuần túy theo đuổi chân lý vĩ đại mà nói, tiền tài, mỹ nhân, quyền thế đều có đủ cả, thứ họ theo đuổi chẳng qua chỉ là cái danh tiếng lưu truyền sử sách mà anh trao cho họ trước mắt mà thôi.
+Mà đối với những vị vua thời đại này, đối với những vu sư thuần túy theo đuổi chân lý vĩ đại mà nói, tiền tài, mỹ nhân, quyền thế đều có đủ cả, thứ họ theo đuổi chẳng qua chỉ là cái danh tiếng lưu truyền sử sách mà hắn trao cho họ trước mắt mà thôi.
 
-Dù đối với anh mà nói, điều này căn bản chẳng đáng kể gì.
+Dù đối với hắn mà nói, điều này căn bản chẳng đáng kể gì.
 
 Nhưng cũng đủ để khiến những anh hùng thời đại trong sa bàn như thiêu thân lao đầu vào lửa, vứt bỏ tính mạng.
 
 "Từng vị hào kiệt anh hùng của thời đại cố gắng phá vỡ thế giới, để lại di ngôn và bia văn của các đời trên con đường thông thế giới... Thiết lập này vẫn rất có cảm giác, đủ để khích lệ họ."
 
-Đây là quy luật mà anh thiết lập, tuần hoàn lặp đi lặp lại.
+Đây là quy luật mà hắn thiết lập, tuần hoàn lặp đi lặp lại.
 
 Lý Khanh ngồi trong hiệu sách tiếp tục đọc sách, thần thái thong dong: "Cứ tiếp tục lao tới đi, quanh quẩn dưới chân núi, ngước nhìn đỉnh núi, bởi vì ngọn núi ở ngay nơi đó."
 

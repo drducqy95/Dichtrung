@@ -6,9 +6,9 @@ Hoàng đế Atabia nghe vậy, phản ứng đầu tiên ngay giây tiếp theo
 
 Một lượng lớn máu thịt đang sinh sôi, dinh dưỡng đang được bổ sung.
 
-Lý Khanh nhìn thoáng qua cái lỗ nhỏ trên cửa, không có binh lính bảo vệ, cũng chẳng cần dùng súng phun lửa hàng nghìn độ để đốt lối vào. Anh trực tiếp mở cái lối vào niêm phong xoay tròn mà anh đã hàn lên, trông giống như khoang tàu dưới đáy biển vậy.
+Lý Khanh nhìn thoáng qua cái lỗ nhỏ trên cửa, không có binh lính bảo vệ, cũng chẳng cần dùng súng phun lửa hàng nghìn độ để đốt lối vào. Hắn trực tiếp mở cái lối vào niêm phong xoay tròn mà hắn đã hàn lên, trông giống như khoang tàu dưới đáy biển vậy.
 
-Từ trong túi lấy ra một hộp diêm, từ cái lỗ nhỏ đó, anh ném xuống một que diêm.
+Từ trong túi lấy ra một hộp diêm, từ cái lỗ nhỏ đó, hắn ném xuống một que diêm.
 
 Bùng!
 
@@ -44,7 +44,7 @@ Thứ hai là, tận dụng nguyên liệu tại chỗ.
 
 "Kết thúc rồi."
 
-Vẻ mặt Lý Khanh thoáng chút phức tạp, anh nhìn thoáng qua thành phố đang bốc cháy bên trong và bộ xương khổng lồ đã biến thành người lửa, hơi nhíu mày một chút rồi trực tiếp quay người rời đi.
+Vẻ mặt Lý Khanh thoáng chút phức tạp, hắn nhìn thoáng qua thành phố đang bốc cháy bên trong và bộ xương khổng lồ đã biến thành người lửa, hơi nhíu mày một chút rồi trực tiếp quay người rời đi.
 
 "Lại là tức thì, không cần thời gian chuẩn bị thi triển pháp thuật! Chỉ trong nháy mắt!"
 

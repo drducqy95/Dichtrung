@@ -42,7 +42,7 @@ Lúc này, Lý Khanh bước ra khỏi nhà. "Có các tập đoàn tài phiệt
 
 Sự phát triển này quá nhanh rồi. Nhưng chủ yếu cũng là vì nội gián quá đắc lực. Khi lợi nhuận đạt mức 300%, nhà tư bản sẽ bán đi sợi dây thừng dùng để treo cổ chính mình.
 
-Anh nhìn sang cửa nhà hàng xóm bên cạnh, trái lại đang đỗ một chiếc xe tải lớn của công ty chuyển nhà. Suzanne với tư cách là kẻ cầm đầu nội gián của văn minh Trái Đất, đang chỉ huy: "Đúng đúng, cái đó để tôi tự làm, đừng động vào, các anh cứ khuân cái kia đi!" Từng nhóm công nhân đi lại tấp nập, vô cùng náo nhiệt.
+Hắn nhìn sang cửa nhà hàng xóm bên cạnh, trái lại đang đỗ một chiếc xe tải lớn của công ty chuyển nhà. Suzanne với tư cách là kẻ cầm đầu nội gián của văn minh Trái Đất, đang chỉ huy: "Đúng đúng, cái đó để tôi tự làm, đừng động vào, các anh cứ khuân cái kia đi!" Từng nhóm công nhân đi lại tấp nập, vô cùng náo nhiệt.
 
 Lý Khanh có chút kinh ngạc, bước tới gần hỏi: "Sắp chuyển nhà rồi sao?"
 
@@ -54,13 +54,13 @@ Lời này nửa thật nửa giả. Việc trốn tránh cha mẹ lải nhải 
 
 "Đúng rồi, chúng ta đi ăn một bữa cơm cuối cùng đi." Suzanne gọi bạn gái Lý Uyển Ninh của mình lại, thu dọn một chút rồi ra ngoài ăn một bữa cơm.
 
-Thực lòng mà nói, Lý Khanh không muốn đi lắm. Ánh mắt Lý Uyển Ninh cứ không ngừng nhìn về phía anh, nhưng cuối cùng vẫn không lay chuyển được, anh cũng đi ăn cơm cùng, để lại số điện thoại liên lạc.
+Thực lòng mà nói, Lý Khanh không muốn đi lắm. Ánh mắt Lý Uyển Ninh cứ không ngừng nhìn về phía hắn, nhưng cuối cùng vẫn không lay chuyển được, hắn cũng đi ăn cơm cùng, để lại số điện thoại liên lạc.
 
 Đến tối khi quay về, nhà Suzanne đã trống rỗng, người đi nhà trống. "Dù sao thì sớm muộn gì cũng phải rời đi thôi." Lý Khanh không quá để ý đến sự rời đi của Sylph, dù sao ở quá gần Sylph cũng không tốt.
 
-Anh trở về nhà, đã là đêm khuya. Anh cũng không đi xem công việc của thời đại văn minh Elise nữa, tuy rằng việc đó được coi như một sự quan sát, mỗi ngày đều đi xem sa mạc đã trở thành một sở thích, nhưng cũng không thể cứ mãi như vậy. Anh dành nhiều thời gian hơn để nghiên cứu chuyện của bản thân và siêu năng lực.
+Hắn trở về nhà, đã là đêm khuya. Hắn cũng không đi xem công việc của thời đại văn minh Elise nữa, tuy rằng việc đó được coi như một sự quan sát, mỗi ngày đều đi xem sa mạc đã trở thành một sở thích, nhưng cũng không thể cứ mãi như vậy. Hắn dành nhiều thời gian hơn để nghiên cứu chuyện của bản thân và siêu năng lực.
 
-Giờ đây anh phát hiện mình lại bước vào giai đoạn lột xác tiếp theo. Trước đây là ánh mắt đang lột xác, giờ đây là linh hồn xuất khiếu đang lột xác. Trước đây xương thịt và linh hồn là dung hợp làm một, giờ đây anh cảm nhận rõ rệt sự tồn tại của linh hồn, vô cùng mạnh mẽ, còn có thể tạm thời rời khỏi cơ thể. Mà linh hồn thì ký sinh trong tinh hạch. Nhưng trung khu điều khiển cơ thể vẫn là đại não. Hệt như có hai bộ não vậy, một cái quản lý ý thức linh hồn, một cái quản lý các dây thần kinh xương thịt.
+Giờ đây hắn phát hiện mình lại bước vào giai đoạn lột xác tiếp theo. Trước đây là ánh mắt đang lột xác, giờ đây là linh hồn xuất khiếu đang lột xác. Trước đây xương thịt và linh hồn là dung hợp làm một, giờ đây hắn cảm nhận rõ rệt sự tồn tại của linh hồn, vô cùng mạnh mẽ, còn có thể tạm thời rời khỏi cơ thể. Mà linh hồn thì ký sinh trong tinh hạch. Nhưng trung khu điều khiển cơ thể vẫn là đại não. Hệt như có hai bộ não vậy, một cái quản lý ý thức linh hồn, một cái quản lý các dây thần kinh xương thịt.
 
-Dạo gần đây mỗi ngày anh đều quán tưởng, phát hiện ra đó là một cách rèn luyện kỳ lạ. Thậm chí anh còn nghiên cứu một số sách cổ về rèn luyện ý chí, xem có tìm được chút cảm hứng nào không, dù sao người xưa cũng có khá nhiều ý tưởng về việc tập trung ý chí.
+Dạo gần đây mỗi ngày hắn đều quán tưởng, phát hiện ra đó là một cách rèn luyện kỳ lạ. Thậm chí hắn còn nghiên cứu một số sách cổ về rèn luyện ý chí, xem có tìm được chút cảm hứng nào không, dù sao người xưa cũng có khá nhiều ý tưởng về việc tập trung ý chí.
 

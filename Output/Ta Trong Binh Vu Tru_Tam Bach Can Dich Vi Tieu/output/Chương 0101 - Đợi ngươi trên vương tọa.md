@@ -60,11 +60,11 @@ Những gì họ nhìn thấy hiện tại càng ngày càng đáng sợ. Ngay c
 
 "Lại thêm một kẻ gõ vách ngăn pha lê, trong cái thế giới vi mô của phòng thí nghiệm này, sao mà nhiều kẻ điên thế chứ??"
 
-Lý Khanh nhìn cảnh tượng bên vách ngăn pha lê, có chút kinh ngạc. Nhưng suy nghĩ kỹ lại, dường như cả hai kẻ điên này đều do chính anh chọn ra. Năm đó chính là "ai điên chọn kẻ đó", để bọn họ gây chuyện.
+Lý Khanh nhìn cảnh tượng bên vách ngăn pha lê, có chút kinh ngạc. Nhưng suy nghĩ kỹ lại, dường như cả hai kẻ điên này đều do chính hắn chọn ra. Năm đó chính là "ai điên chọn kẻ đó", để bọn họ gây chuyện.
 
-Đầu tiên là Elise phản bội chúng thần trên cây, mở ra đường hầm thế giới, nay đến lượt Tukasi phản bội Elise. Đây thuộc về vấn đề của bản thân anh rồi: chuyên môn tuyển chọn những kẻ tuổi thơ có bóng ma, trong lòng ẩn giấu sự điên cuồng.
+Đầu tiên là Elise phản bội chúng thần trên cây, mở ra đường hầm thế giới, nay đến lượt Tukasi phản bội Elise. Đây thuộc về vấn đề của bản thân hắn rồi: chuyên môn tuyển chọn những kẻ tuổi thơ có bóng ma, trong lòng ẩn giấu sự điên cuồng.
 
-Phải nói rằng bất luận thế giới nào cũng có vô số bi kịch, những con người trong khổ nạn đang giãy dụa trong bóng tối, bản thân anh — người đẩy thuyền sau màn — chẳng qua chỉ là giáng lâm vào văn minh, ban cho họ một chút ánh sáng rạng đông, nắm lấy sức mạnh của vận mệnh mà thôi.
+Phải nói rằng bất luận thế giới nào cũng có vô số bi kịch, những con người trong khổ nạn đang giãy dụa trong bóng tối, bản thân hắn — người đẩy thuyền sau màn — chẳng qua chỉ là giáng lâm vào văn minh, ban cho họ một chút ánh sáng rạng đông, nắm lấy sức mạnh của vận mệnh mà thôi.
 
 Mà xét cho cùng, cũng là do sa bàn thế giới quá nhỏ. Ở không thoải mái nên mới muốn ra ngoài. Nếu như sa bàn thế giới lớn hơn một chút, thế lực nhiều hơn một chút, kẻ thù tranh bá kiềm chế lẫn nhau, "một phòng ký túc xá tám người bảy cái nhóm chat", điên cuồng đấu đá lẫn nhau, vậy thì sẽ không suốt ngày rảnh rỗi nhìn chằm chằm ra ngoài cửa sổ nhà lao nữa.
 
@@ -72,23 +72,23 @@ Mà xét cho cùng, cũng là do sa bàn thế giới quá nhỏ. Ở không tho
 
 Lý Khanh thở dài một hơi, không ngừng tự phản tỉnh.
 
-Nhưng trước đó, cũng là chuyện không có cách nào khác. Căn hộ ba phòng một phòng khách này thuộc về di sản mà Ninh Quốc Xương để lại. Bản thân anh trước đó cũng chẳng có mấy đồng tiền, chỉ là một bác sĩ thực tập bình thường, trong giai đoạn khởi nghiệp, đào đâu ra phòng thí nghiệm lớn như vậy cho bọn họ?
+Nhưng trước đó, cũng là chuyện không có cách nào khác. Căn hộ ba phòng một phòng khách này thuộc về di sản mà Ninh Quốc Xương để lại. Bản thân hắn trước đó cũng chẳng có mấy đồng tiền, chỉ là một bác sĩ thực tập bình thường, trong giai đoạn khởi nghiệp, đào đâu ra phòng thí nghiệm lớn như vậy cho bọn họ?
 
 Chỉ có thể tạm bợ!
 
-Trước mắt, bản thân anh đã hoàn thiện triệt để một số cấu trúc cục diện sa bàn, đủ loại nội hàm đã tăng lên. Thế là không ngừng mượn thế lực để tạo ra sa bàn mới cho mình, hộ tống bảo vệ, bắt đầu sắp xếp phòng ở cho nhân viên mới, chuẩn bị chuyển ký túc xá cho họ.
+Trước mắt, bản thân hắn đã hoàn thiện triệt để một số cấu trúc cục diện sa bàn, đủ loại nội hàm đã tăng lên. Thế là không ngừng mượn thế lực để tạo ra sa bàn mới cho mình, hộ tống bảo vệ, bắt đầu sắp xếp phòng ở cho nhân viên mới, chuẩn bị chuyển ký túc xá cho họ.
 
-Nếu coi nền văn minh trong phòng thí nghiệm của mình như một "công ty sáng thế sa bàn", anh cũng thuộc loại ông chủ có lương tâm rồi, phúc lợi đãi ngộ tự vấn cũng không tệ. Bên ngoài còn bày biện cả bối cảnh tinh không, làm phong phú môi trường, tránh việc họ mỗi ngày nhìn phòng khách qua cửa sổ nhà lao mà thấy u uất. Bố cảnh, cải tạo trang trí công ty là để tối ưu hóa tâm trạng nhân viên.
+Nếu coi nền văn minh trong phòng thí nghiệm của mình như một "công ty sáng thế sa bàn", hắn cũng thuộc loại ông chủ có lương tâm rồi, phúc lợi đãi ngộ tự vấn cũng không tệ. Bên ngoài còn bày biện cả bối cảnh tinh không, làm phong phú môi trường, tránh việc họ mỗi ngày nhìn phòng khách qua cửa sổ nhà lao mà thấy u uất. Bố cảnh, cải tạo trang trí công ty là để tối ưu hóa tâm trạng nhân viên.
 
 "Tuy nhiên, trước mắt lại là một đợt phúc lợi ngoài ý muốn, vậy mà đã bước vào ngũ giác hoàn chỉnh, ngưng tụ ra một viên tinh hạch thực sự."
 
-Lý Khanh trầm tư. Anh là một người thực tế. Elise muốn làm gì thì làm, văn minh chết bao nhiêu người cũng không quan trọng... chỉ cần có thành quả là được.
+Lý Khanh trầm tư. Hắn là một người thực tế. Elise muốn làm gì thì làm, văn minh chết bao nhiêu người cũng không quan trọng... chỉ cần có thành quả là được.
 
-Mà bản thân anh, có lẽ chính là vị "phụ thân" mà Elise chán ghét chăng. Coi những đứa con mình tạo ra như món đồ chơi, để khai mở thời đại cho bản thân, mặc kệ sự sống chết của tạo vật, hèn chi nàng một mực giết cha, cuối cùng muốn giết tới tận đầu mình. Người này rõ ràng là muốn giết sạch tất cả những vị cha bất nghĩa trên thiên hạ.
+Mà bản thân hắn, có lẽ chính là vị "phụ thân" mà Elise chán ghét chăng. Coi những đứa con mình tạo ra như món đồ chơi, để khai mở thời đại cho bản thân, mặc kệ sự sống chết của tạo vật, hèn chi nàng một mực giết cha, cuối cùng muốn giết tới tận đầu mình. Người này rõ ràng là muốn giết sạch tất cả những vị cha bất nghĩa trên thiên hạ.
 
 "Trận doanh khác nhau thôi."
 
-Ánh mắt Lý Khanh bình hòa. Anh không hề mỹ hóa bản thân, phần lớn chiến tranh của thế giới, đủ loại đại diệt tuyệt đều do anh tạo ra, âm thầm thúc đẩy. Anh đích xác là vẫn luôn phủ khám (nhìn xuống) toàn bộ văn minh, coi thế giới như bàn cờ, chúng sinh là quân cờ.
+Ánh mắt Lý Khanh bình hòa. Hắn không hề mỹ hóa bản thân, phần lớn chiến tranh của thế giới, đủ loại đại diệt tuyệt đều do hắn tạo ra, âm thầm thúc đẩy. Hắn đích xác là vẫn luôn phủ khám (nhìn xuống) toàn bộ văn minh, coi thế giới như bàn cờ, chúng sinh là quân cờ.
 
 "Cho nên ta mới nói, muốn làm minh quân khai mở thời đại thì cứ việc làm, muốn làm bạo quân tàn hại chúng sinh thì cứ việc làm, còn nếu họ muốn vung kiếm hướng về phía bầu trời, vậy cứ tới đi."
 

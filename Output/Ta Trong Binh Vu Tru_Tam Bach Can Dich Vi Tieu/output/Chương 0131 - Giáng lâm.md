@@ -8,7 +8,7 @@ Lĩnh vực văn hóa tinh thần đang trở nên phong phú, đủ loại du k
 
 Thậm chí Lý Khanh còn nhận được một số ý tưởng khá hay về thế giới vách pha lê từ trong đó.
 
-Tất nhiên, mục đích chính của anh khi đến đây là Aurora.
+Tất nhiên, mục đích chính của hắn khi đến đây là Aurora.
 
 Ở phía bên kia, trong phòng.
 
@@ -147,7 +147,7 @@ Vậy mà tiên thiên linh hồn đã ở trong tinh hạch, linh hồn cũng c
 
 Có hy vọng bồi dưỡng thành một vị Cổ Thần tương lai đi lại trong màn hỗn độn, tức là "quản lý tuần tra" trông coi từng phòng bệnh tâm thần hệ thống vách pha lê, giống như những kẻ kéo thuyền vậy.
 
-Anh bước tới, nhìn cô bé đang chạy thục mạng này.
+Hắn bước tới, nhìn cô bé đang chạy thục mạng này.
 
 "Ngươi là ai?"
 

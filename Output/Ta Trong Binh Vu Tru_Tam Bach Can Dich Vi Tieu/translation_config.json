@@ -13,7 +13,8 @@
   },
   "settings": {
     "name_setting": "phien_am",
-    "pronoun_mode": "hybrid",
+    "pronoun_mode": "strict",
+    "pronoun_config_file": "Output/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu/pronouns.json",
     "reflection_max_iterations": 3,
     "sanitization": {
       "ban_cjk_in_output": true
@@ -41,5 +42,5 @@
     "illustration_manifest_file": "Output/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu/ebook/illustration_manifest.json"
   },
   "readme_path": "Output/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu/README.md",
-  "last_updated": "2026-05-07T11:57:32+07:00"
+  "last_updated": "2026-05-10T04:00:50+07:00"
 }

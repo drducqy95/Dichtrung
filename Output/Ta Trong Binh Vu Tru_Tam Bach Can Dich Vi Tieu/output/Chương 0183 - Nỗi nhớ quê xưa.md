@@ -27,7 +27,7 @@ Tận thế hóc búa năm xưa cũng dễ dàng bị chấm dứt.
 
 "Để đối phó với những loại virus zombie này, chỉ cần dùng virus Blacklight mạnh hơn để bao phủ là được."
 
-Cự Nhân Vương Asol sừng sững trên đại địa.
+Cự Nhân Vương Athol sừng sững trên đại địa.
 Nhìn vào trong phòng thí nghiệm, nhóm nhân viên thí nghiệm zombie đầu tiên đáng lẽ phải bị bệnh biến, cùng với đủ loại sinh vật, đều đã bị dị biến.
 Hiện tại tất cả đều đang ôm cái bụng to tướng, vô cùng khó chịu.
 
@@ -43,7 +43,7 @@ Lại là khiến chúng ta mang thai.
 "Hừ, thế này là kết thúc rồi sao?"
 Lúc này, Ninh Quốc Xương với cơ thể bình thường từ đằng xa đi tới.
 
-"Anh còn muốn đánh với tôi một trận nữa sao?" Cự Nhân Vương Asol có chút cảnh giác.
+"Anh còn muốn đánh với tôi một trận nữa sao?" Cự Nhân Vương Athol có chút cảnh giác.
 
 "Chúng ta không cần thiết phải đánh nhau nữa, những diễn viên đối thủ trên sân khấu kịch, khi xuống đài rồi cũng nên trở thành chính mình thực sự." Ninh Quốc Xương nói.
 
@@ -64,11 +64,11 @@ Nhưng sau khi trải qua chuyện này, tầm mắt đã vô tình mở rộng 
 Bây giờ nghĩ lại, đấu đá nội bộ chỉ thấy nực cười, mục tiêu của họ đặt ở bên ngoài bầu trời nhiều hơn, ở vùng thiên vũ mênh mông, cao hơn và rộng lớn hơn.
 Thế giới vô tận mới có sự đặc sắc vô tận.
 
-"Tiếp theo, anh định làm gì?" Cự Nhân Vương Asol hỏi.
+"Tiếp theo, anh định làm gì?" Cự Nhân Vương Athol hỏi.
 
 "Lây nhiễm, dị biến." Ninh Quốc Xương nói: "Trở nên mạnh mẽ hơn, chúng ta chỉ đang đứng ở điểm bắt đầu của Bán Thần mà thôi."
 
-"Anh lại còn định thế nữa sao?" Asol nhất thời có chút giận dữ.
+"Anh lại còn định thế nữa sao?" Athol nhất thời có chút giận dữ.
 
 Ninh Quốc Xương nói: "Chúng ta phải nuôi dưỡng tộc quần của mình, đây là điều không thể tránh khỏi, anh cũng phải nuôi dưỡng chủng tộc của mình...
 Đương nhiên, tôi sẽ dị biến một phần, và điều chỉnh cấu trúc, trở nên phù hợp với thẩm mỹ của nhân loại hơn, biến thành tân nhân loại.
@@ -79,17 +79,17 @@ Mà những người hâm mộ anime ở vùng đất Âu Mỹ này cũng rất 
 
 "Đương nhiên, tôi sẽ tung ra một số bộ phim, anime, những kỹ thuật dùng mắt cực ngầu, dị biến cơ thể, bắt đầu từ dị biến linh hồn trước, dùng cuộc chiến văn hóa tẩy não họ, khiến họ lấy việc chuyển đổi chủng tộc làm vinh dự."
 
-Asol chỉ có thể cười khẩy.
+Athol chỉ có thể cười khẩy.
 Cái tên này đúng là nham hiểm, không chơi trò dị biến trực diện mà lại đi đánh lén.
 Làm cuộc xâm lăng văn hóa ở đất nước này đúng là thần nhân.
 
 Ninh Quốc Xương bỗng nhiên cười: "Anh đang ghen tị với tôi đúng không? Tôi có thể làm đẹp ngoại hình, nhãn thuật có thể trở nên rất ngầu, còn anh thì chỉ có thể làm người ta mang thai thôi, không ai là không ghét cái vị siêu anh hùng như anh đâu."
 
-Asol cảm thấy cái tên hướng nội này, sau khi trải qua một đợt biến thành vệ sĩ thân cận của hoa khôi, đã trở nên tự tin hơn hẳn.
+Athol cảm thấy cái tên hướng nội này, sau khi trải qua một đợt biến thành vệ sĩ thân cận của hoa khôi, đã trở nên tự tin hơn hẳn.
 
 "Nhưng dù sao đi nữa, thời đại sau này sẽ có tộc Cự Nhân, tộc Đồng rồi. Đương nhiên nhân loại tôi sẽ chọn cách khoan dung, cho phép họ xuất hiện Bán Thần, nếu thực sự có loại thiên tài đó."
 
-Asol hít sâu một hơi, biết rằng điều này dường như là bắt buộc.
+Athol hít sâu một hơi, biết rằng điều này dường như là bắt buộc.
 
 Ở một phía khác.
 Vị tiến sĩ thần bí nhất của toàn nhân loại — Lục Láp và mấy người bạn đang uống rượu.

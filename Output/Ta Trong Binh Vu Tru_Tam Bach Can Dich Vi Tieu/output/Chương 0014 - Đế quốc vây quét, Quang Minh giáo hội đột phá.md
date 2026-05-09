@@ -148,7 +148,7 @@ Giáo chúng cảm thấy khắp người trào dâng sức mạnh vô tận, kh
 
 Một vị Thánh kỵ sĩ của giáo hội hét lớn.
 
-Anh ta bỗng cảm thấy sức mạnh khắp người vô cùng mạnh mẽ, biến thành vị kỵ sĩ hậu duệ của Thần trong truyền thuyết.
+Hắn bỗng cảm thấy sức mạnh khắp người vô cùng mạnh mẽ, biến thành vị kỵ sĩ hậu duệ của Thần trong truyền thuyết.
 
 Điều khiển lớp vỏ cự nhân ngoại cốt cách đã có trí tuệ, thân hình to lớn, vung thanh cốt kiếm chém về phía kẻ thù.
 
@@ -158,7 +158,7 @@ Xông thẳng vào những toán quân đang giết tới một lần nữa, nh�
 
 "Thần ơi! Ở cùng chúng con, ở cùng với mỗi một người trên thế gian do tay Ngài tạo ra."
 
-Giọng anh ta cuồng nhiệt, chém giết xung quanh, lớn tiếng đọc vang:
+Giọng hắn cuồng nhiệt, chém giết xung quanh, lớn tiếng đọc vang:
 
 "Vị Thần Quang Minh luôn trông nom chúng con, dẫn dắt chúng con, khiến chúng con đi trên con đường chân lý của Phụ Thần."
 
@@ -194,13 +194,13 @@ Toàn bộ khung cửa sổ kính lớn đều là phòng tuyến, phòng tuyế
 
 Lý Khanh ở bên ngoài thế giới quan sát trận đột phá này.
 
-Mặc dù anh cảm thấy như đang nhìn thấy một cuộc chiến tranh thời trung cổ.
+Mặc dù hắn cảm thấy như đang nhìn thấy một cuộc chiến tranh thời trung cổ.
 
 Những vị kỵ sĩ trọng giáp điều khiển bộ giáp dày nặng đang xông pha trận mạc, đồng thời hô vang vinh quang của Thần, vô cùng bi tráng và mang đậm tính sử thi.
 
-Bi tráng, đẫm máu, hung hãn, đó là cảm giác đầu tiên của anh.
+Bi tráng, đẫm máu, hung hãn, đó là cảm giác đầu tiên của hắn.
 
-Và cảm giác thứ hai của anh là:
+Và cảm giác thứ hai của hắn là:
 
 "Đám tín đồ này, học thuộc giáo nghĩa mình đưa cho cũng khá là trôi chảy đấy chứ."
 

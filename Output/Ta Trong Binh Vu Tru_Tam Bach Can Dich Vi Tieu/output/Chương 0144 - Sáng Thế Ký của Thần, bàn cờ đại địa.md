@@ -36,15 +36,15 @@ Và điều này hoàn toàn không phải là không thể.
 
 Nhiệt độ của nham thạch nằm trong khoảng 900-1200°C.
 
-Anh đã sớm thực hiện được cấu trúc kim loại hóa "tụ hợp kim loại sinh học trong cơ thể", chỉ cần nghiên cứu ra rễ và thân bằng siêu kim loại có điểm nóng chảy cực cao là có thể cắm rễ trong dòng sông.
+Hắn đã sớm thực hiện được cấu trúc kim loại hóa "tụ hợp kim loại sinh học trong cơ thể", chỉ cần nghiên cứu ra rễ và thân bằng siêu kim loại có điểm nóng chảy cực cao là có thể cắm rễ trong dòng sông.
 
 Đúng nghĩa là liễu rủ bên bờ sông!
 
-Thậm chí, nếu tiến thêm một bước nữa, có lẽ anh thực sự sẽ nghiên cứu ra sinh mệnh nham thạch bơi lội trong đó cũng nên.
+Thậm chí, nếu tiến thêm một bước nữa, có lẽ hắn thực sự sẽ nghiên cứu ra sinh mệnh nham thạch bơi lội trong đó cũng nên.
 
 Dòng sông này có lẽ sẽ sớm có cây, có cá.
 
-Đợi anh xây thêm vài chiếc ghế kim loại, bàn kim loại đặt ngoài sân thì đó mới gọi là thoải mái.
+Đợi hắn xây thêm vài chiếc ghế kim loại, bàn kim loại đặt ngoài sân thì đó mới gọi là thoải mái.
 
 "Lúc rảnh rỗi, đào chút vàng đi."
 
@@ -52,9 +52,9 @@ Lý Khanh ngồi ngoài sân, chợt nghĩ: "Vàng là chất dẫn điện ưu 
 
 "Cứ tạo ra một sinh mệnh hấp thụ vàng đi."
 
-Anh đột nhiên nhắm mắt lại, bắt đầu làm thí nghiệm.
+Hắn đột nhiên nhắm mắt lại, bắt đầu làm thí nghiệm.
 
-Cơ thể sinh vật hấp thụ đủ loại nguyên tố kim loại để tiến hành tổng hợp sinh học, loại nhà máy gia công kim loại sinh học này anh đã sớm quen tay hay việc.
+Cơ thể sinh vật hấp thụ đủ loại nguyên tố kim loại để tiến hành tổng hợp sinh học, loại nhà máy gia công kim loại sinh học này hắn đã sớm quen tay hay việc.
 
 Mà trong giới tự nhiên, "tác dụng tích tụ" của sinh vật vô cùng khủng bố.
 
@@ -65,7 +65,7 @@ Kỹ thuật hiện tại của Lý Khanh chưa tạo ra được sinh vật ngo
 
 "Cứ tạo ra cây ngô vàng đi!"
 
-Anh nhắm mắt lại, sắp xếp mạch suy nghĩ:
+Hắn nhắm mắt lại, sắp xếp mạch suy nghĩ:
 
 "Cấu trúc rễ và thân là cấu trúc sâu thép, rễ tỏa ra tứ phía, không chỉ có thể gia cố trần nhà, mặt đất mà còn chiết xuất vàng trong đất đá, quặng mỏ, kết ra từng bắp ngô vàng trên cây, tô điểm thêm chút màu sắc cho sân vườn của mình."
 
@@ -81,7 +81,7 @@ Thời gian bế quan của Lý Khanh trôi qua rất nhanh, bốn tháng trong 
 
 "Đã đến lúc xem thế giới trong sa bàn rồi."
 
-Anh quay lại kiểm tra tình hình bên trong phòng khách.
+Hắn quay lại kiểm tra tình hình bên trong phòng khách.
 
 Bên ngoài vách pha lê, nhìn vào các kiến trúc thành phố nhỏ bé bên trong lớp kính, quả nhiên đã xây dựng xong xuôi, khôi phục hoàn hảo theo tỉ lệ 1:1, thậm chí còn làm cũ đi rất nhiều thứ.
 
@@ -123,7 +123,7 @@ Mọi thứ thật sống động, tràn đầy sinh khí, giống như ai đó 
 
 Lý Khanh nhìn thế giới tĩnh lặng này, thần sắc bình thản.
 
-Đây chính là năng lượng mới của anh.
+Đây chính là năng lượng mới của hắn.
 
 Khống chế tuyệt đối hoàn toàn cơ thể của quyến thuộc, thôi miên một cách vô hình, thậm chí chính họ cũng không nhận ra bất kỳ vấn đề nào.
 
@@ -145,7 +145,7 @@ Lý Khanh nghe xong liền rơi vào trầm tư.
 
 Mặt trăng?? Thứ này làm thế nào bây giờ?
 
-Nhưng anh nhanh chóng nảy ra ý định.
+Nhưng hắn nhanh chóng nảy ra ý định.
 
 Sải bước đem một cây vàng nhỏ ngoài sân vào đặt trước cửa sổ của phòng khách này như một chậu cây cảnh.
 

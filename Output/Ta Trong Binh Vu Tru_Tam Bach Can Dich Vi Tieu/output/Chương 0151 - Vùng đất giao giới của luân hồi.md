@@ -19,7 +19,7 @@ Khắp nơi trên năm mươi bang, hơn một trăm vị zombie vương khủng
 "Sao có thể như vậy được?"
 "Những gã này không phải là giai đoạn sau của tận thế mới xuất hiện sao? Chẳng lẽ chúng cũng giống như mình, xuyên không về đây rồi?"
 
-Asol bắt đầu kinh ngạc.
+Athol bắt đầu kinh ngạc.
 Vốn dĩ tưởng rằng nhân lúc giai đoạn đầu của tận thế bùng nổ có thể diệt tuyệt hoàn toàn thảm họa này, không ngờ rằng kẻ xuyên không về quá khứ vậy mà không chỉ có mình hắn.
 
 "Lũ zombie vương cũng theo mình quay trở lại quá khứ rồi!"
@@ -42,7 +42,7 @@ Thủy triều zombie rầm rộ hàng chục triệu con không ngừng quét q
 Nhóm Walton lập tức kinh nghi bất định: "Rắc rối rồi! Nhân loại sắp diệt vong rồi!"
 
 Rất nhanh sau đó, thủy triều zombie lại một lần nữa ập tới.
-Asol nhìn mọi thứ lặp lại, không khỏi tuyệt vọng, chẳng lẽ bản thân mình căn bản không thể thay đổi được gì sao?
+Athol nhìn mọi thứ lặp lại, không khỏi tuyệt vọng, chẳng lẽ bản thân mình căn bản không thể thay đổi được gì sao?
 
 Nhưng khoảnh khắc tiếp theo.
 Họ nhận được một tin tức hoàn toàn mới.
@@ -51,7 +51,7 @@ Mặc dù vũ khí hạt nhân hiện tại mất hiệu lực, nhưng Khu vực
 Khi họ tới tầng hầm của Khu vực 51, họ đã nhìn thấy một vị người khổng lồ.
 "Đây là cái gì thế này??"
 
-Asol kinh ngạc, cả người có chút ngây dại.
+Athol kinh ngạc, cả người có chút ngây dại.
 Lần luân hồi trước, hắn chưa từng nhìn thấy thứ này!
 Rốt cuộc đây là cái thứ quái quỷ gì?
 Virus zombie thì cũng thôi đi, vậy mà còn có văn minh siêu cổ đại?
@@ -65,7 +65,7 @@ Căn bản không so được với những con zombie cấp bậc Truyền Kỳ
 Những người sống sót đã chế tạo pháo hỏa, đủ loại vũ khí hạng nặng cho người khổng lồ, để ông ta vác lên oanh kích kẻ thù, cũng chỉ chống đỡ được thủy triều zombie trong một thời gian ngắn mà thôi.
 
 Kéo dài được hai năm rưỡi, nhân loại sắp sửa diệt vong.
-Vào thời khắc cuối cùng, Asol nhìn những con zombie rợp trời dậy đất đó, từng vị lĩnh chủ zombie đang sát hại nhân loại, đột nhiên cười thảm nói:
+Vào thời khắc cuối cùng, Athol nhìn những con zombie rợp trời dậy đất đó, từng vị lĩnh chủ zombie đang sát hại nhân loại, đột nhiên cười thảm nói:
 
 "Cái này làm sao mà đỡ được? Căn bản không đỡ nổi mà! Siêu zombie phải năm năm sau tận thế bùng nổ mới xuất hiện, vậy mà ngay từ đầu đã theo tôi quay trở lại rồi, nhân loại chúng ta mới phát triển được bao lâu?"
 
@@ -105,7 +105,7 @@ Nhưng suy nghĩ kỹ lại, thực sự là toàn bộ đều là khuyết đi�
 
 Bản thân mình chỉ cần chọn ra nhân vật chính của cả hai bên, cùng tiến vào lần luân hồi tiếp theo thì những cường giả đỉnh cao của "Văn minh Luân hồi" này sẽ không bị thụt lùi!
 
-Ví dụ như Asol, Walton trước mắt đã là tinh hạch Ngũ giác, sức mạnh sẽ được kế thừa sang lần luân hồi tiếp theo... Mà những con zombie Lục Giác Truyền Kỳ, sức mạnh cũng sẽ được kế thừa.
+Ví dụ như Athol, Walton trước mắt đã là tinh hạch Ngũ giác, sức mạnh sẽ được kế thừa sang lần luân hồi tiếp theo... Mà những con zombie Lục Giác Truyền Kỳ, sức mạnh cũng sẽ được kế thừa.
 
 "Bàn cờ của hai bên, những quân Vua, Tượng, Xe, Mã, Pháo chủ chốt, thời gian của họ là một đường thẳng... chỉ là tưởng rằng mình xuyên không rồi, thực tế là đang tiến về phía trước, không ngừng nâng cao cảnh giới."
 
@@ -125,7 +125,7 @@ Bản thân mình thỉnh thoảng lại thức tỉnh mấy ngàn tỉ, mà là
 
 Nghĩ tới đây, Lý Khanh bỗng nhiên sáng tỏ.
 
-Anh bước vào thành phố, ngồi xổm xuống trong phòng thí nghiệm dưới lòng đất của Asol:
+Hắn bước vào thành phố, ngồi xổm xuống trong phòng thí nghiệm dưới lòng đất của Athol:
 "Vị trí này, tầng hầm này, chính là điểm khởi động lại của ngươi! Ngươi có thể mang theo một nhóm người, những thiên tài mà ngươi chọn trúng, hết lần này đến lần khác xuyên không về quá khứ..."
 
 "Mà các ngươi xuyên không, những cường giả của phe zombie cũng sẽ xuyên không, những vị zombie vương này sau một thời gian sẽ thức tỉnh ký ức."
@@ -147,12 +147,12 @@ Kẻ Kết Liễu (zombie): Sau khi ẩn nấp trong xã hội loài người m�
 
 Nghĩ tới đây, Lý Khanh đã hoàn thiện hoàn toàn sa bàn của thế giới tận thế này, "Vậy đã như vậy thì thế giới này phải thêm một chút thiết lập nữa rồi."
 
-Anh lộ ra một nụ cười đầy ý vị thâm trường: "Vẫn phải bày ra chút trò trong nền văn minh này mới được!"
+Hắn lộ ra một nụ cười đầy ý vị thâm trường: "Vẫn phải bày ra chút trò trong nền văn minh này mới được!"
 
 Cạch.
 Xung quanh đều đang khởi động lại.
 
-Mà trong sự mơ hồ, Asol dường như đã xuyên qua thời không, hắn thấp thoáng nhìn thấy Cây Trăng, cùng vầng trăng treo dưới gốc cây đó.
+Mà trong sự mơ hồ, Athol dường như đã xuyên qua thời không, hắn thấp thoáng nhìn thấy Cây Trăng, cùng vầng trăng treo dưới gốc cây đó.
 
 "Nắm đấm đã đập nát cơn ác mộng, điềm gở còn sót lại đang xâm thực thế gian... chúng sinh qua lại trong hư vô... xin hãy phá vỡ vận mệnh tận thế này..."
 
@@ -161,5 +161,5 @@ Vị thần linh đó khẽ thốt lên: "Hỡi người bất tử trẻ tuổi
 Cạch.
 Ác mộng đột nhiên tỉnh giấc.
 
-"Cái gì thế! Đó là cái gì thế!" Asol thét thảm một tiếng, nhìn mọi thứ xung quanh, há hốc miệng thở dốc, cả người mồ hôi đầm đìa.
+"Cái gì thế! Đó là cái gì thế!" Athol thét thảm một tiếng, nhìn mọi thứ xung quanh, há hốc miệng thở dốc, cả người mồ hôi đầm đìa.
 

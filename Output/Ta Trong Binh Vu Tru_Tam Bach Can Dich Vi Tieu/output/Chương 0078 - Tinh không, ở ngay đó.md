@@ -4,11 +4,11 @@ Sau khi hoàn thành mọi công việc trong phòng thí nghiệm, Lý Khanh m�
 
 Về lý thuyết, gã khổng lồ Lôi Thần này tuyệt đối có khả năng đập vỡ lớp kính cường lực. Vấn đề chủ yếu là phải tổn thương cơ bắp bao nhiêu lần, tung ra bao nhiêu cú đấm mà thôi. Thậm chí chẳng cần tới thể hình cỡ này, ước chừng chỉ cần to bằng một con chó nhỏ, không ngừng ăn uống, ngày đêm liên tục vung nắm đấm thì trong hiện thực chỉ mất hai ba ngày, kính cường lực chắc chắn sẽ vỡ.
 
-"Cánh tay ác ma tặng cho họ trước đó với thể hình kiến thì trái lại không đấm vỡ được." Anh trầm ngâm. "Nhưng họ đã phát triển tới mức này rồi, ngày đập nát vách ngăn pha lê đã không còn xa nữa."
+"Cánh tay ác ma tặng cho họ trước đó với thể hình kiến thì trái lại không đấm vỡ được." Hắn trầm ngâm. "Nhưng họ đã phát triển tới mức này rồi, ngày đập nát vách ngăn pha lê đã không còn xa nữa."
 
-Đây là một mối đe dọa chí tử đang ngày càng đến gần. Nhưng đây không phải là chuyện của căn hộ ba phòng một sảnh này. Những văn minh quái vật này tuy bị anh chèn ép về thể hình, năng lượng và môi trường trong phòng thí nghiệm, nhưng một văn minh vi mô như vậy vẫn phát triển quá nhanh. Với tốc độ này, sớm muộn gì cũng không thể giam giữ được họ. Cần biết rằng năng lực này của mình vốn đã rất nguy hiểm, nếu không thì Ninh Quốc Xương cũng đã chẳng phải chết.
+Đây là một mối đe dọa chí tử đang ngày càng đến gần. Nhưng đây không phải là chuyện của căn hộ ba phòng một sảnh này. Những văn minh quái vật này tuy bị hắn chèn ép về thể hình, năng lượng và môi trường trong phòng thí nghiệm, nhưng một văn minh vi mô như vậy vẫn phát triển quá nhanh. Với tốc độ này, sớm muộn gì cũng không thể giam giữ được họ. Cần biết rằng năng lực này của mình vốn đã rất nguy hiểm, nếu không thì Ninh Quốc Xương cũng đã chẳng phải chết.
 
-Chẳng lẽ để ngăn họ đập vỡ vách ngăn pha lê, chạy ra khỏi phòng thí nghiệm gây họa cho Trái Đất mà bây giờ lại trực tiếp diệt thế, ra tay trước để chiếm lợi thế? Không giải quyết được vấn đề thì đi giải quyết kẻ tạo ra vấn đề? Đây cũng không phải là cách trị tận gốc. Sau khi diệt thế, chỉ cần tiếp tục tạo ra văn minh thì chắc chắn sẽ lại phát triển tới giai đoạn này. Trừ phi anh dừng tay tại đây, phong ấn siêu năng lực của mình. Nhưng anh đã đi tới bước này, sự diễn hóa của văn minh, sự khao khát trường sinh, làm sao có thể dừng lại ở đây?
+Chẳng lẽ để ngăn họ đập vỡ vách ngăn pha lê, chạy ra khỏi phòng thí nghiệm gây họa cho Trái Đất mà bây giờ lại trực tiếp diệt thế, ra tay trước để chiếm lợi thế? Không giải quyết được vấn đề thì đi giải quyết kẻ tạo ra vấn đề? Đây cũng không phải là cách trị tận gốc. Sau khi diệt thế, chỉ cần tiếp tục tạo ra văn minh thì chắc chắn sẽ lại phát triển tới giai đoạn này. Trừ phi hắn dừng tay tại đây, phong ấn siêu năng lực của mình. Nhưng hắn đã đi tới bước này, sự diễn hóa của văn minh, sự khao khát trường sinh, làm sao có thể dừng lại ở đây?
 
 "Nhưng cũng không phải là không có cách." Lý Khanh thở hắt ra một hơi thật sâu. "Nếu nhân loại đã không thể ngăn cản đối phương, vậy thì hãy để họ tự đánh bại chính mình là được. Thử xem có thể tìm được loại vật liệu sinh học nào tốt hơn không."
 
@@ -16,7 +16,7 @@ Bộ xương có lẽ là một loại vật liệu sinh học rất tốt. Tố
 
 "Họ đấm từ bên trong là cần sức mạnh, nhưng sớm muộn gì năng lượng cũng sẽ cạn kiệt. Chỉ cần tốc độ tu sửa của ốc sên vách ngăn pha lê theo kịp, ta ở bên ngoài ăn uống bổ sung, năng lượng nhiều hơn trong phòng hàng trăm lần, thì việc tiêu hao chết 'kẻ phá vách' của đối phương không phải là vấn đề."
 
-Lý Khanh không ngừng suy nghĩ về các khả năng. Kính cường lực sẽ vỡ chủ yếu vì nó là vật chết, còn thứ này của anh là vật sống, có khả năng tự sửa chữa còn kinh khủng hơn cả kim loại ghi nhớ, cuộc đối đầu này chính là về năng lượng. Năng lượng bên trong của các ngươi liệu có nhiều bằng bên ngoài của ta không? Về lý thuyết, vĩnh viễn không thể thoát ra được. Dẫu vách ngăn pha lê không đủ cứng, chỉ cần tu sửa đủ nhanh là có thể giải quyết được vấn đề.
+Lý Khanh không ngừng suy nghĩ về các khả năng. Kính cường lực sẽ vỡ chủ yếu vì nó là vật chết, còn thứ này của hắn là vật sống, có khả năng tự sửa chữa còn kinh khủng hơn cả kim loại ghi nhớ, cuộc đối đầu này chính là về năng lượng. Năng lượng bên trong của các ngươi liệu có nhiều bằng bên ngoài của ta không? Về lý thuyết, vĩnh viễn không thể thoát ra được. Dẫu vách ngăn pha lê không đủ cứng, chỉ cần tu sửa đủ nhanh là có thể giải quyết được vấn đề.
 
 Sau Lôi Thần, sau sinh vật mạnh nhất mặt đất ba trong một, Lý Khanh đã định ra hình mẫu cho tác phẩm sinh mệnh thứ hai: Sinh mệnh vách ngăn pha lê.
 1. Bán trong suốt.

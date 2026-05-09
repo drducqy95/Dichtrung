@@ -40,11 +40,11 @@ Nhưng thực tế, liệu có đúng như vậy không?
 
 Lý Khanh gần đây hàng ngày đều đọc sách, trở thành một nhân viên hiệu sách do Hy Bích Nhi giàu có thuê.
 
-Nhưng thỉnh thoảng, anh cũng chú ý một chút đến bên ngoài.
+Nhưng thỉnh thoảng, hắn cũng chú ý một chút đến bên ngoài.
 
 "Đây là một sự giúp đỡ nhỏ."
 
-Ngày hôm đó, anh lặng lẽ rời đi, đưa cho Swalo đang thất bại tuyệt vọng một bản kế hoạch.
+Ngày hôm đó, hắn lặng lẽ rời đi, đưa cho Swalo đang thất bại tuyệt vọng một bản kế hoạch.
 
 "Ngươi là ai?" Hắn cảnh giác hỏi.
 
@@ -173,9 +173,9 @@ Hy Bích Nhi cũng đang nhìn vào quả cầu pha lê, đột nhiên hét lớ
 
 Lý Khanh vẫn đang đọc sách, đầu không buồn ngẩng lên.
 
-Gần đây anh liên tục cung cấp một số ý tưởng hiện đại hóa để đối phương viết sách, cuộc sống trôi qua vô cùng thoải mái.
+Gần đây hắn liên tục cung cấp một số ý tưởng hiện đại hóa để đối phương viết sách, cuộc sống trôi qua vô cùng thoải mái.
 
-Thậm chí gần đây anh còn bảo cô nghiên cứu về điện ảnh, phát triển ngành giải trí lên. Dù sao mục tiêu của anh khi tới thế giới này cũng là thúc đẩy thời đại, và hiện tại đúng là đang thúc đẩy thời đại.
+Thậm chí gần đây hắn còn bảo cô nghiên cứu về điện ảnh, phát triển ngành giải trí lên. Dù sao mục tiêu của hắn khi tới thế giới này cũng là thúc đẩy thời đại, và hiện tại đúng là đang thúc đẩy thời đại.
 
 Năm thứ 15 Thâm Uyên lịch.
 

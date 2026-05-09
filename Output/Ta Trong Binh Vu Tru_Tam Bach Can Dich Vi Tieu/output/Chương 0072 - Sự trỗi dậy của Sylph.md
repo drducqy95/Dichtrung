@@ -1,30 +1,30 @@
 ﻿# Chương 72 - Sự trỗi dậy của Sylph
 
-Lý Khanh liếc nhìn một Minis đã vẫy tay chào tạm biệt quá khứ và đang phấn chấn tinh thần, rồi cũng không để ý tới nhiều nữa. Anh soi gương tự nhìn lại bản thân sau cuộc lột xác.
+Lý Khanh liếc nhìn một Minis đã vẫy tay chào tạm biệt quá khứ và đang phấn chấn tinh thần, rồi cũng không để ý tới nhiều nữa. Hắn soi gương tự nhìn lại bản thân sau cuộc lột xác.
 
 "Mấy ngày nay không ra khỏi cửa, ngoại hình này cũng khó mà ra ngoài được."
 
 Chàng trai trong gương có chiều cao vọt lên tới 2m2, cân nặng hơn 250kg. Mái tóc đen dày xõa ngang vai, làn da trắng trẻo mịn màng, đôi mắt rực rỡ như những vì sao, hệt như những viên kim cương lộng lẫy nhất tỏa ra sắc màu lưu ly dị thường. Ban ngày đôi mắt như đá quý phản xạ ánh sáng, ban đêm thậm chí có thể phát sáng như mắt mèo. Đây thực sự đã là người ngoài hành tinh theo đúng nghĩa đen.
 
-Dưới hình thể người khổng lồ này, phần lớn những người Âu Mỹ bên ngoài đều là những kẻ lùn. Toàn thân anh săn chắc mượt mà, thậm chí không có cơ bắp cuồn cuộn, vóc dáng là một hình thể tỉ lệ vàng hoàn mỹ. Nhưng một tay anh có thể dễ dàng nhấc bổng vật nặng hơn 250kg.
+Dưới hình thể người khổng lồ này, phần lớn những người Âu Mỹ bên ngoài đều là những kẻ lùn. Toàn thân hắn săn chắc mượt mà, thậm chí không có cơ bắp cuồn cuộn, vóc dáng là một hình thể tỉ lệ vàng hoàn mỹ. Nhưng một tay hắn có thể dễ dàng nhấc bổng vật nặng hơn 250kg.
 
 "Sức mạnh của mình lại tăng lên, nhưng không có cơ bắp lộ rõ. Chắc là do các sợi cơ đã thay đổi. Nếu ví sợi cơ của con người là dây thừng bằng bông, thì sợi cơ của mình là dây thừng bằng gai, cường độ kinh khủng, chỉ cần một chút thôi đã có sức mạnh đáng sợ."
 
 "Cũng may, vị lãnh chúa thây ma này cũng chỉ cao hơn 2 mét một chút, vẫn có thể chấp nhận được. Nhưng nhìn vào là biết ngay đây không phải mắt người rồi."
 
-Anh xoa xoa mắt. "Herodotus khi ở Đệ ngũ giác đã sinh ra tinh hạch... lúc đó ông ta có thể điều chỉnh đơn giản cấu trúc các cơ quan cơ thể, ngoại hình, thậm chí mọc ra cánh. Mình có tinh hạch thây ma, nghĩa là theo cách phân chia đẳng cấp của ông ta, mình với viên tinh hạch hoàn chỉnh này ít nhất cũng là Đệ ngũ giác, thừa hưởng một phần sức mạnh của vị lãnh chúa thây ma kia. Không đúng... hiện tại mình đã tiến vào cuộc lột xác lần thứ hai, khôi phục thêm vài phần sức mạnh của lãnh chúa thây ma, đáng lẽ phải là Đệ lục giác rồi."
+Hắn xoa xoa mắt. "Herodotus khi ở Đệ ngũ giác đã sinh ra tinh hạch... lúc đó ông ta có thể điều chỉnh đơn giản cấu trúc các cơ quan cơ thể, ngoại hình, thậm chí mọc ra cánh. Mình có tinh hạch thây ma, nghĩa là theo cách phân chia đẳng cấp của ông ta, mình với viên tinh hạch hoàn chỉnh này ít nhất cũng là Đệ ngũ giác, thừa hưởng một phần sức mạnh của vị lãnh chúa thây ma kia. Không đúng... hiện tại mình đã tiến vào cuộc lột xác lần thứ hai, khôi phục thêm vài phần sức mạnh của lãnh chúa thây ma, đáng lẽ phải là Đệ lục giác rồi."
 
 Thừa hưởng tinh hạch thây ma, tuy không biết sức mạnh thời toàn thịnh của lãnh chúa thây ma đáng sợ đến mức nào, nhưng rõ ràng hiện tại vẫn chưa đạt tới giới hạn. Rất có thể sẽ ở vào khoảng cấp độ sinh mệnh siêu cấp Đệ thất thức tỉnh. Tuy nhiên, trải qua sự biến dị khi xuyên không gian thời gian, rõ ràng năng lực đã khác với vị lãnh chúa thây ma được mô tả trước kia. Người ta điều khiển thây ma, còn mình thì điều khiển vi khuẩn.
 
 "Vậy thì ít nhất mình cũng là Đệ ngũ giác rồi, cũng nên có thể điều chỉnh vi mô thể hình." Lý Khanh bắt đầu thử điều chỉnh cấu trúc cơ thể mình.
 
-Rất nhanh sau đó anh phát hiện ra, mình không thể làm được những việc khoa trương như mọc cánh hay hóa đuôi cá giống Herodotus. Chắc là do thể hình loài kiến thay đổi dễ dàng hơn, cấu trúc đơn giản, còn mức độ phức tạp sinh mệnh của anh quá cao, không thể thay đổi đến mức khoa trương như vậy.
+Rất nhanh sau đó hắn phát hiện ra, mình không thể làm được những việc khoa trương như mọc cánh hay hóa đuôi cá giống Herodotus. Chắc là do thể hình loài kiến thay đổi dễ dàng hơn, cấu trúc đơn giản, còn mức độ phức tạp sinh mệnh của hắn quá cao, không thể thay đổi đến mức khoa trương như vậy.
 
-*Rắc rắc.* Xương cốt dần co lại. Ánh mắt bỗng trở nên mờ ảo, tiêu cự đồng tử hơi điều chỉnh co giãn, dần biến thành đôi mắt tương tự như người thường, biến trở lại thành chính mình ban đầu. Nhưng có một khuyết điểm nhỏ là ánh mắt vẫn lộ ra thần thái kinh người. Anh bèn đeo thêm một cặp kính gọng đen không độ, trông mới có vẻ bình thường hơn một chút. Nhưng lại thêm một luồng khí chất thư sinh tao nhã, làn da trắng trẻo mịn màng, không có lỗ chân lông, mịn như silicon, hệt như một thư sinh bước ra từ trong thần thoại truyền thuyết.
+*Rắc rắc.* Xương cốt dần co lại. Ánh mắt bỗng trở nên mờ ảo, tiêu cự đồng tử hơi điều chỉnh co giãn, dần biến thành đôi mắt tương tự như người thường, biến trở lại thành chính mình ban đầu. Nhưng có một khuyết điểm nhỏ là ánh mắt vẫn lộ ra thần thái kinh người. Hắn bèn đeo thêm một cặp kính gọng đen không độ, trông mới có vẻ bình thường hơn một chút. Nhưng lại thêm một luồng khí chất thư sinh tao nhã, làn da trắng trẻo mịn màng, không có lỗ chân lông, mịn như silicon, hệt như một thư sinh bước ra từ trong thần thoại truyền thuyết.
 
 "Chẳng lẽ mạnh lên rồi lại càng có sức hút với phái nữ hơn sao?" Lý Khanh nhìn bản thân, bỗng có chút lo lắng: "Căn bệnh về mắt đã khỏi rồi, nhưng có lẽ mình vẫn không thể tùy tiện ra ngoài."
 
-Anh thử ra ngoài xem sao, đi dạo trên phố một chút, nhưng vừa mới ra tới phố bên ngoài...
+Hắn thử ra ngoài xem sao, đi dạo trên phố một chút, nhưng vừa mới ra tới phố bên ngoài...
 
 "Ơ? Lý!"
 
@@ -44,7 +44,7 @@ Sau khi trận chiến Thâm Uyên kết thúc, kỹ thuật hoàn toàn bùng n
 
 "Chào cô, ở nước ngoài gặp được đồng hương cũng rất khó." Lý Khanh tùy tiện trò chuyện vài câu trước xe, "Chúng ta còn cùng họ nữa."
 
-Thấy hai người này bắt đầu dùng tiếng Hoa để trò chuyện về một số việc, Suzanne luôn cảm thấy có gì đó không đúng. Dù Lý Uyển Ninh không giống như những người bạn nữ khác của cô, vừa nhìn thấy Lý Khanh ở phòng tập gym là đã vô cùng nhiệt tình, ánh mắt như muốn ăn tươi nuốt sống anh, nhưng là bạn gái đã quen nhau bao nhiêu năm rồi, sự chủ động này cô vẫn cảm thấy có chút khác lạ. Suy cho cùng bạn gái cô là người ôn hòa không thích giao tiếp, cô đã phải theo đuổi rất lâu mới vượt qua bao đối thủ để xác nhận quan hệ mà.
+Thấy hai người này bắt đầu dùng tiếng Hoa để trò chuyện về một số việc, Suzanne luôn cảm thấy có gì đó không đúng. Dù Lý Uyển Ninh không giống như những người bạn nữ khác của cô, vừa nhìn thấy Lý Khanh ở phòng tập gym là đã vô cùng nhiệt tình, ánh mắt như muốn ăn tươi nuốt sống hắn, nhưng là bạn gái đã quen nhau bao nhiêu năm rồi, sự chủ động này cô vẫn cảm thấy có chút khác lạ. Suy cho cùng bạn gái cô là người ôn hòa không thích giao tiếp, cô đã phải theo đuổi rất lâu mới vượt qua bao đối thủ để xác nhận quan hệ mà.
 
 "Hôm khác nói chuyện tiếp nhé, sức khỏe cô ấy hơi yếu." Suzanne rốt cuộc không nghĩ ngợi nhiều, kéo Lý Uyển Ninh xuống xe, hai đại mỹ nhân cùng nhau vào nhà.
 
@@ -56,7 +56,7 @@ Lý Khanh thầm trầm tư. Trên Trái Đất đã tiến hóa hàng tỷ năm
 
 Ước chừng phải đợi đến cảnh giới tiếp theo mạnh hơn nữa thì mới có thể thu liễm hoàn hảo mọi loại khí tức.
 
-Trở về phòng, Lý Khanh tâm niệm động một cái, đặt ánh mắt lên người Thánh nữ Tinh Linh — Sylph, để xem ngôi nhà bên cạnh đang làm những gì. *Vù vù.* Góc nhìn của anh lập tức xuất hiện trong cái đầu nhỏ của Sylph. Một hình người đa bào kỳ quái, trong não bộ đang bận rộn túi bụi.
+Trở về phòng, Lý Khanh tâm niệm động một cái, đặt ánh mắt lên người Thánh nữ Tinh Linh — Sylph, để xem ngôi nhà bên cạnh đang làm những gì. *Vù vù.* Góc nhìn của hắn lập tức xuất hiện trong cái đầu nhỏ của Sylph. Một hình người đa bào kỳ quái, trong não bộ đang bận rộn túi bụi.
 
 Lúc này, toàn bộ bên trong não bộ Tinh Linh, ngoại trừ một ngai vàng điều khiển nơ-ron cho lớp vỏ cơ thể, đã được Sylph cải tạo thành một phòng thí nghiệm khổng lồ. Từng lọ tế bào được sắp xếp ngăn nắp và trật tự.
 
@@ -90,7 +90,7 @@ Huống chi vị Cổ Thần Tinh Linh đến từ dị giới còn có thể lu
 
 "Trái Đất của chúng ta rất có thể cũng giống như thế giới Tinh Linh và thế giới Thâm Uyên bên trong đó, đều bị Thần quan sát, chúng ta cần phải kính sợ." Suzanne nói: "Đó chính là Cự Thần bao la."
 
-Cô thông qua hình ảnh dị giới mà Sylph đồng bộ cũng không nhìn ra được gì. Mà Sylph là quyến thuộc của Lý Khanh, anh có thể điều khiển, nhập xác bất cứ lúc nào, có quyền kiểm soát tuyệt đối đối với cơ thể cô. Cô sớm đã bị ám thị tâm lý, khiến Sylph mỗi lần xuyên không đều bỏ qua một số điểm bất hợp lý nào đó.
+Cô thông qua hình ảnh dị giới mà Sylph đồng bộ cũng không nhìn ra được gì. Mà Sylph là quyến thuộc của Lý Khanh, hắn có thể điều khiển, nhập xác bất cứ lúc nào, có quyền kiểm soát tuyệt đối đối với cơ thể cô. Cô sớm đã bị ám thị tâm lý, khiến Sylph mỗi lần xuyên không đều bỏ qua một số điểm bất hợp lý nào đó.
 
 "Chuyện khác không bàn, nhưng kéo dài tuổi thọ thì đối với người giàu mà nói là có sức sát thương rất lớn đấy." Lý Uyển Ninh xuất thân từ gia đình tri thức, nhà cũng mở công ty công nghệ, "Nghe nói dị giới này đã thực hiện được vĩnh sinh rồi sao?"
 

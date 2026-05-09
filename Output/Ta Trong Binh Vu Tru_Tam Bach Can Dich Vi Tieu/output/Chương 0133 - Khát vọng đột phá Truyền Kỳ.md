@@ -246,7 +246,7 @@ Proeus đột nhiên lẩm bẩm: "Những tiếng vang phản kháng này là d
 
 Ông là một thiên tài tu luyện, là một vị tướng quân của đế quốc.
 
-Mà vị tướng quân này không phải là loại tướng quân chỉ biết nói suông như Hi La Đa Đức, một trí giả trở tay là nghiên cứu ra đủ loại thành quả vượt thời đại.
+Mà vị tướng quân này không phải là loại tướng quân chỉ biết nói suông như Herodotus, một trí giả trở tay là nghiên cứu ra đủ loại thành quả vượt thời đại.
 
 "Chiến đấu, chiến đấu, chiến đấu, đây là thứ duy nhất ta có thể giúp đỡ thời đại."
 

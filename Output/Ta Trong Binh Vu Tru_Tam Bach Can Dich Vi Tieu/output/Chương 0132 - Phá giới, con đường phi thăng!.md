@@ -106,7 +106,7 @@ Aurora có chút kinh sợ.
 
 Lý Khanh thong thả kể lại, dịu dàng nói: "Con à, hãy tiếp tục đột phá đi!"
 
-Anh mỉm cười:
+Hắn mỉm cười:
 
 "Đi đi, mang theo sự sợ hãi, ôm lấy lòng kính sợ, điên cuồng mà sống tiếp, bước tới con đường hướng về phía chúng ta."
 
@@ -135,7 +135,7 @@ Chỉ cần họ linh hồn xuất khiếu, có thể xuyên qua phòng khách, 
 —— Phá giới, phi thăng.
 
 Thế giới vu sư, thế giới tinh linh.
-Lý Khanh suy đi tính lại, không định tiêu diệt hoàn toàn. Nơi này là hồi ức của anh, cũng nên được bảo tồn.
+Lý Khanh suy đi tính lại, không định tiêu diệt hoàn toàn. Nơi này là hồi ức của hắn, cũng nên được bảo tồn.
 
 Tiểu Thiên Thế Giới sau này sẽ rất nhỏ bé, rất chật hẹp.
 —— Cường giả cấp Hoàng Kim chính là giới hạn. Cường giả Truyền Kỳ thường sẽ xuyên qua màn sương mù hỗn độn vô tận, tìm kiếm tọa độ thế giới chính xác để phi thăng tới Trung Thiên Thế Giới cấp cao hơn.

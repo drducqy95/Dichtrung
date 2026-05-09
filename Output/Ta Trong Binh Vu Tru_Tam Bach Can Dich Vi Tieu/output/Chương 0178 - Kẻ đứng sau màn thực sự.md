@@ -90,7 +90,7 @@ Bọn người Walton đã tuyệt vọng, lộ ra ánh mắt kinh hoàng.
 
 Những người sống sót nhanh chóng tiến vào căn hầm ngầm đó.
 Lý Khanh lặng lẽ nhìn họ một cái, không ngăn cản, chỉ dừng lại một lát.
-Anh bỗng nhiên cảm ứng được điều gì đó, khi mọi hào quang tan đi, vị cự nhân đang từng bước đi ra, vòng tay ôm lấy tàn hồn của vị thần Mộng y rơi xuống từ bầu trời, đối phương đã nhắm mắt, dần dần hóa thành hư không.
+Hắn bỗng nhiên cảm ứng được điều gì đó, khi mọi hào quang tan đi, vị cự nhân đang từng bước đi ra, vòng tay ôm lấy tàn hồn của vị thần Mộng y rơi xuống từ bầu trời, đối phương đã nhắm mắt, dần dần hóa thành hư không.
 
 Mọi người cuối cùng cũng nhìn thấy gương mặt thực sự của 'Mộng y' Hekress.
 Gương mặt đó, vậy mà lại là cơ giới công chúa Silph.

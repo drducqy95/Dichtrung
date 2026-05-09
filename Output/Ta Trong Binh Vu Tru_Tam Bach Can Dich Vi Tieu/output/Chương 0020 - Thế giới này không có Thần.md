@@ -158,7 +158,7 @@ Anh hùng đế quốc Herodotus dẫn đầu tinh binh bước ra từ tầng h
 
 "Vị thánh đế dẫn dắt thời đại này chính là người Atabia trên mặt đất của chúng ta, là vị chân thần duy nhất mà chúng ta nên tin tưởng nhất!"
 
-Anh ta bỗng cười, dẫn theo đội kỵ sĩ đoàn được trang bị như kỵ sĩ của Thụ Nạn Giả giáo hội ở phía sau, ý chí chiến đấu hừng hực, lớn tiếng gầm thét:
+Hắn bỗng cười, dẫn theo đội kỵ sĩ đoàn được trang bị như kỵ sĩ của Thụ Nạn Giả giáo hội ở phía sau, ý chí chiến đấu hừng hực, lớn tiếng gầm thét:
 
 "Đến đây, hãy cùng chúng ta phản công, đoạt lại hoàng thành, đánh bại lũ tà giáo đồ này, chiến đấu vì Thụ Nạn Giả giáo hội!"
 

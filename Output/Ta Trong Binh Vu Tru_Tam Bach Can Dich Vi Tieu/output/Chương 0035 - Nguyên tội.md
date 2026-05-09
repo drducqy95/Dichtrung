@@ -2,11 +2,11 @@
 
 Vài ngày sau.
 Lý Khanh bắt đầu cải tạo phòng khách của căn hộ ba phòng một phòng khách này, thực hiện hàn xì bên ngoài.
-Anh cầm những tấm thép, lợp trần nhà, lát sàn, tường, và cả nhà vệ sinh cũng bị bịt kín lại. Dù sao anh cũng không ở đây, tóm lại là phải bịt kín.
+Hắn cầm những tấm thép, lợp trần nhà, lát sàn, tường, và cả nhà vệ sinh cũng bị bịt kín lại. Dù sao hắn cũng không ở đây, tóm lại là phải bịt kín.
 Cải tạo hoàn toàn thành một phòng thí nghiệm kín bạt.
-Cũng may, anh đã là người phi thường, cơ thể vô cùng mạnh mẽ, một mình anh làm bằng cả một đội công trình.
+Cũng may, hắn đã là người phi thường, cơ thể vô cùng mạnh mẽ, một mình hắn làm bằng cả một đội công trình.
 Một mình vác những tấm thép ra ra vào vào.
-Đồng thời anh cũng phát hiện mấy ngày qua, bên trong đã xuất hiện những thay đổi kỳ quặc.
+Đồng thời hắn cũng phát hiện mấy ngày qua, bên trong đã xuất hiện những thay đổi kỳ quặc.
 Toàn bộ vương quốc trên mặt đất trong phòng thí nghiệm đã bắt đầu mục nát.
 Đắm chìm trong lạc viên tửu trì nhục lâm để cuồng hoan.
 Sau khi nhận được sự ngầm đồng ý của hoàng đế, hai vị thủ lĩnh tàn nhẫn của "Hội Nhân Lý" và "Giáo phái Thánh Lý" đã cùng nhau hợp tác nghiên cứu sự kích thích cảm quan trong sinh mệnh máu thịt, và thêm nó vào cơ thể dân chúng.

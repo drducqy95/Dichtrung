@@ -68,24 +68,24 @@ Mặc dù những tồn tại đã sáng tạo ra họ chưa bao giờ tự xưn
 Nhưng giờ đây chúng thần lại giống như họ, đang triều bái một vị Thần cao cấp hơn.
 Tạm gác lại sự xôn xao của các bộ lạc Tinh Linh nguyên thủy.
 Bên này Lý Khanh đã chuẩn bị một bối cảnh cho buổi giảng bài.
-Những ngày qua anh không hề sống uổng phí.
-Toàn bộ phòng khách phía sau đã được anh hàn kín bằng những tấm thép.
+Những ngày qua hắn không hề sống uổng phí.
+Toàn bộ phòng khách phía sau đã được hắn hàn kín bằng những tấm thép.
 Nội thất?
 Không tồn tại đâu.
 Cả phòng khách trống trơn, bao trùm trong những bức tường thép màu bạc trắng.
 Lại xét đến việc hiện nay họ không dùng sóng niệm lực nữa, đã tiến hóa ra mắt, tai, miệng, mũi, có thể nhìn thẳng vào thân hình khổng lồ bao la của Lý Khanh, chuyện này không hề đơn giản.
 Thần thì phải huyền bí, không thể nhìn trực diện.
-Thế là anh chuẩn bị những chiếc đèn pin siêu sáng, đặt phía sau đầu, chiếu thẳng vào họ để làm lóa mắt họ, bao phủ bản thân trong một vùng thánh quang vàng óng mơ hồ.
+Thế là hắn chuẩn bị những chiếc đèn pin siêu sáng, đặt phía sau đầu, chiếu thẳng vào họ để làm lóa mắt họ, bao phủ bản thân trong một vùng thánh quang vàng óng mơ hồ.
 Nhưng hại người thì cũng hại mình.
-Để tránh cho bản thân bị lóa mắt, Lý Khanh đã đeo kính râm mà anh vẫn luôn mang theo bên mình.
-Ngay lúc này đây, anh ngồi trên chiếc ghế giám đốc màu đen, nhìn xuống bên trong cửa kính để giảng đạo cho họ.
+Để tránh cho bản thân bị lóa mắt, Lý Khanh đã đeo kính râm mà hắn vẫn luôn mang theo bên mình.
+Ngay lúc này đây, hắn ngồi trên chiếc ghế giám đốc màu đen, nhìn xuống bên trong cửa kính để giảng đạo cho họ.
 Ào ào ào!
 Cả thế giới đều được chiếu sáng.
 Mọi người chỉ thấy bên ngoài vách ngăn pha lê khổng lồ: một vị Thần đang ngồi trên ngai vàng thần thánh màu đen, phía sau phản chiếu vô số hỗn độn bạc trắng, sau đầu Ngài là luồng thánh quang vàng óng vô tận đâm xuyên qua vách ngăn pha lê, thánh khiết và huy hoàng, cả vùng rừng xanh mướt và những con sông trên mặt đất đều sáng rực rỡ.
 Đừng nói là phàm nhân trên mặt đất, ngay cả những vị thánh vị kia, dưới tác dụng kép của sự phản chiếu từ tường thép bạc và đèn pin siêu sáng, đều cảm thấy mắt như sắp mù đến nơi, không dám nhìn thẳng vào thần minh.
 Hoàng đế Minis trong hậu thế đã để lại đoạn mô tả về cảnh tượng thần thánh lúc bấy giờ của chính mình, cả đời không quên: "Trước đây, chúng ta chỉ dựa vào sóng ý thức để cảm nhận thần minh trong thế giới đen trắng, nào ngờ khi chúng ta nhìn thấy màu sắc rực rỡ của cả thế giới, mới phát hiện sự giáng lâm của Thần lại rực rỡ đến thế! Phía sau Ngài là một vầng thần hoàn vàng óng khổng lồ, tỏa ra hào quang vô tận, Thần không thể nhìn trực diện!"
 Lý Khanh nhìn họ quỳ rạp trên mặt đất, nhắm mắt triều bái và cầu nguyện.
-Trong lòng anh có chút hài lòng, chỉ cần các ngươi không dám ngẩng đầu nhìn là được, rồi anh bắt đầu sắp xếp lại suy nghĩ.
+Trong lòng hắn có chút hài lòng, chỉ cần các ngươi không dám ngẩng đầu nhìn là được, rồi hắn bắt đầu sắp xếp lại suy nghĩ.
 Những lời định nói rất ngắn gọn, chính là nguyên lý mạch cổng logic, nguyên lý phần cứng phần mềm của máy tính hiện đại, cũng như kỹ thuật nguyên lý cơ bản của máy tính DNA.
 Thế nhưng, cách diễn đạt thì không thể diễn đạt như vậy được.
 Sơ đồ mạch điện?
@@ -95,7 +95,7 @@ Thế thì không đúng chất thần học!
 Bên ngoài vách ngăn pha lê, trên tường là hào quang phản chiếu bạc trắng vô tận, vị Thần ngồi trên ngai vàng hỗn độn lên tiếng:
 "Đây là những hoa văn thần văn được phác họa tinh xảo, chứa đựng chân lý của thế giới."
 "Đây là một loại kinh văn, vẽ nên các vân lý, viết nên thần chú bố trận, mạch ma thuật, có thể tạo thành thần khí, bên trong nuôi dưỡng khí linh."
-Anh vừa nói những lời mê tín, vừa giảng một tiết học khoa học về nguyên lý máy tính, toàn tập về mạch điện.
+Hắn vừa nói những lời mê tín, vừa giảng một tiết học khoa học về nguyên lý máy tính, toàn tập về mạch điện.
 Đối với họ mà nói, thì đúng là say mê đến điên cuồng!
 Và những lời nói tiếp theo lại càng mang tính khải thị, xác định hướng nghiên cứu cho họ, trao cho họ chìa khóa để đẩy cánh cửa đó ra.
 Thần không ngừng giảng giải chân lý, và cuối cùng để lại một đoạn lời nói khiến lòng họ dao động:

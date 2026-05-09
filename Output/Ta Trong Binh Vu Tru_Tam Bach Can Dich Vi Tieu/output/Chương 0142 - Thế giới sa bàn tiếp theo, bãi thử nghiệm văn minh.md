@@ -4,25 +4,25 @@ Một ngày sau.
 
 Lý Khanh định thần lại, hoàn toàn sắp xếp rõ ràng tình trạng cơ thể của mình.
 
-Anh thậm chí còn không nghiên cứu thử nghiệm xem mình mạnh đến mức nào.
+Hắn thậm chí còn không nghiên cứu thử nghiệm xem mình mạnh đến mức nào.
 
-Bởi vì loại hình zombie Lĩnh Chủ khống chế vốn dĩ không phải là loại hình chiến đấu trực diện, ước chừng chiến đấu trực diện cũng chỉ ở mức đó thôi, anh rất có tự nhận thức.
+Bởi vì loại hình zombie Lĩnh Chủ khống chế vốn dĩ không phải là loại hình chiến đấu trực diện, ước chừng chiến đấu trực diện cũng chỉ ở mức đó thôi, hắn rất có tự nhận thức.
 
 Bản thân vốn là một triệu hồi sư tung ra một đống quyến thuộc bảo bảo để đánh hội đồng, ngồi trên vương tọa triệu hồi đàn em, làm sao có thể xắn tay áo đích thân ra trận được?
 
 Mất mặt lắm.
 
-Anh chỉ biết rằng bản thân không còn tác dụng phụ nữa, không bị người khác vây xem, dòm ngó.
+Hắn chỉ biết rằng bản thân không còn tác dụng phụ nữa, không bị người khác vây xem, dòm ngó.
 
 Mọi khí tức đều được thu liễm, một năm bế quan này cuối cùng cũng kết thúc.
 
 Có thể ra bên ngoài dạo chơi, đi dạo phố, ăn uống, tán gẫu cùng bạn bè.
 
-Anh càng hiểu rõ hơn rằng, trước kia leo lên hầm mỏ tám ngàn mét rất tốn sức, sau khi đột phá thì chỉ mất mười mấy phút là leo xong tám ngàn mét này.
+Hắn càng hiểu rõ hơn rằng, trước kia leo lên hầm mỏ tám ngàn mét rất tốn sức, sau khi đột phá thì chỉ mất mười mấy phút là leo xong tám ngàn mét này.
 
 Việc ra khỏi cửa đã trở nên thuận tiện hơn.
 
-Tất nhiên nếu để người khác biết anh đột phá Bán Thần chỉ để tăng tốc leo hầm mỏ thì chắc chắn sẽ tức đến mức không nói nên lời.
+Tất nhiên nếu để người khác biết hắn đột phá Bán Thần chỉ để tăng tốc leo hầm mỏ thì chắc chắn sẽ tức đến mức không nói nên lời.
 
 Nhưng đối với Lý Khanh mà nói, trong thời bình mình còn có thể làm gì được nữa?
 
@@ -32,19 +32,19 @@ Triệu hồi văn minh vu sư giáng lâm, tinh linh, yêu tinh, nhân tộc xu
 
 Buồn chán.
 
-Thống trị hành tinh này sẽ không mang lại cho anh lợi ích gì, anh muốn tài nguyên gì thì có công ty Umbrella là đủ rồi.
+Thống trị hành tinh này sẽ không mang lại cho hắn lợi ích gì, hắn muốn tài nguyên gì thì có công ty Umbrella là đủ rồi.
 
 Vẫn là đào hầm thoải mái hơn.
 
 Trái Đất rộng lớn như vậy, lục địa của con người chỉ chiếm ba phần, mà nơi con người sinh sống trên lục địa cũng chỉ có một phần nhỏ.
 
-Mà diện tích bề mặt bên trên chỉ là một phần cực nhỏ so với diện tích bên trong lòng đất, anh có thiếu đất không?
+Mà diện tích bề mặt bên trên chỉ là một phần cực nhỏ so với diện tích bên trong lòng đất, hắn có thiếu đất không?
 
 Trong lòng đất cứ việc tung hoành, tạo ra vài văn minh địa tâm có diện tích ngang với châu Úc cũng chỉ là chuyện trong phút mốc.
 
-Xem anh có muốn đào hay không, đào sâu bao nhiêu thôi.
+Xem hắn có muốn đào hay không, đào sâu bao nhiêu thôi.
 
-Đội ngũ công trình của anh đã được dựng lên, kỹ thuật chín muồi, sợ gì cái này?
+Đội ngũ công trình của hắn đã được dựng lên, kỹ thuật chín muồi, sợ gì cái này?
 
 Không thiếu chút địa bàn đó của họ.
 
@@ -52,9 +52,9 @@ Văn minh nhân loại trên bề mặt hiện tại ngay cả lớp vỏ Trái 
 
 "Cố gắng một năm, bây giờ cuối cùng cũng thoải mái rồi!"
 
-Trong lòng anh vui mừng, bản thân anh đột phá, văn minh dưới trướng cũng bước vào thời đại Truyền Kỳ.
+Trong lòng hắn vui mừng, bản thân hắn đột phá, văn minh dưới trướng cũng bước vào thời đại Truyền Kỳ.
 
-Anh ở dưới lòng đất nhìn về phía ba căn phòng bao la khổng lồ kia.
+Hắn ở dưới lòng đất nhìn về phía ba căn phòng bao la khổng lồ kia.
 
 Căn phòng số 1, thế giới vu sư mới.
 
@@ -88,21 +88,21 @@ Huống hồ, người ta trong thời gian ngắn sẽ không có động thái
 
 Thế giới này đã rất chín muồi rồi, sẽ tự phát triển thôi, hiện tại có thể tạm thời để đó cho nó tự vận động.
 
-Anh dời ánh mắt tới thế giới số 2 và thế giới số 3.
+Hắn dời ánh mắt tới thế giới số 2 và thế giới số 3.
 
 Vẫn chưa kịp xây dựng, cũng trống trải như vậy.
 
 "Có thể bắt đầu xây dựng thế giới mới rồi."
 
-Ánh mắt anh lấp lánh, lộ ra một chút trầm ngâm, có một cảm giác hào hùng muốn sải bước thi triển tài năng.
+Ánh mắt hắn lấp lánh, lộ ra một chút trầm ngâm, có một cảm giác hào hùng muốn sải bước thi triển tài năng.
 
-Trước đây anh không xây dựng là vì không có thực lực!
+Trước đây hắn không xây dựng là vì không có thực lực!
 
 Quá lớn rồi.
 
 Lại tạo ra hàng mấy triệu tỉ đơn bào, quỷ mới biết liệu có xuất hiện thêm vài kẻ biến thái nào nữa không, chĩa súng vào vách pha lê mà bắn tằng tằng, rồi gầm thét lên...
 
-Bây giờ đột phá rồi, số lượng quyến thuộc của anh đã tăng lên hàng chục triệu lần.
+Bây giờ đột phá rồi, số lượng quyến thuộc của hắn đã tăng lên hàng chục triệu lần.
 
 Thậm chí còn có thể khắc sâu ấn ký tinh thần, không thể phản bội, cuối cùng có thể đường đường chính chính triển khai rồi, tất cả họ đều trở thành quyến thuộc, không thể nhảy nhót được nữa.
 
@@ -116,17 +116,17 @@ Số 1, số 3 cách nhau một thế giới số 2 cũng coi như là vùng đ�
 
 Lý Khanh trầm ngâm một hồi, nhanh chóng quy hoạch phương hướng.
 
-Không phải anh không muốn xây dựng tiên hiệp, mà là hiện tại nền tảng vẫn còn quá thấp.
+Không phải hắn không muốn xây dựng tiên hiệp, mà là hiện tại nền tảng vẫn còn quá thấp.
 
 Tiên hiệp trong tâm trí có thể dùng đủ loại linh căn, thần hỏa, phát ra sóng năng lượng cấp độ đó, ước chừng đợi mình phát triển thêm một thời gian nữa, văn minh tinh tế nào đó, pháo điện từ, vũ khí hạt nhân phát quang phát nhiệt thì mới có thực lực xây dựng thời đại tiên hiệp chứ?
 
 Nhưng cái đó còn rất xa vời.
 
-Hiện tại anh coi sa bàn là một bãi thử nghiệm văn minh.
+Hiện tại hắn coi sa bàn là một bãi thử nghiệm văn minh.
 
 Thời đại rực rỡ trong tương lai: võ học, khoa học kỹ thuật, tiên đạo, vu sư, ma pháp... những văn minh này cùng tồn tại trong toàn bộ vũ trụ hệ vách pha lê.
 
-Thậm chí hiện tại anh vẫn đang xây dựng sa bàn trong lòng đất.
+Thậm chí hiện tại hắn vẫn đang xây dựng sa bàn trong lòng đất.
 
 Có lẽ lần sau tiếp tục chuyển dời, không nhất định là sẽ đi tới nơi nào.
 
@@ -134,7 +134,7 @@ Có lẽ lần sau tiếp tục chuyển dời, không nhất định là sẽ �
 
 Lý Khanh dừng lại trước khung cửa sổ kính khổng lồ của căn phòng số 3, nhìn xuống căn phòng bao la khổng lồ này, thậm chí đã không thể dùng từ "căn phòng" để miêu tả nữa.
 
-Anh nhẹ nhàng dùng lòng bàn tay khổng lồ của mình vuốt ve mặt vách pha lê này, nhìn vào bên trong:
+Hắn nhẹ nhàng dùng lòng bàn tay khổng lồ của mình vuốt ve mặt vách pha lê này, nhìn vào bên trong:
 
 "Văn minh này, vừa hay có thể dùng loại huyết mạch nhân tộc kỵ sĩ trước đó, khảm nạm các loại cấu trúc sinh mệnh của các gen như: nhanh nhẹn, sức mạnh khổng lồ, da cứng."
 
@@ -150,7 +150,7 @@ Nhưng món bán thành phẩm này bây giờ lại cung cấp cho Lý Khanh m�
 
 "Có thể cải tạo một chút để làm cơ sở mới."
 
-Anh trầm ngâm, tùy tiện cải tạo nâng cấp một chút, tạo ra một hình thái ban đầu mới.
+Hắn trầm ngâm, tùy tiện cải tạo nâng cấp một chút, tạo ra một hình thái ban đầu mới.
 
 "Chủng tộc này tu luyện võ đạo, sau này mỗi khi tu luyện một loại võ công đều là dung nhập được bí tịch của tiền nhân, cần một loại 'Võ công tinh yếu' (trang bị gen) để tu luyện."
 

@@ -58,9 +58,9 @@ Trong khoảnh khắc, một lượng lớn những chồi thịt luồn lách n
 
 "Lại thêm một vật thí nghiệm không tệ." Trên ngai vàng, Lý Khanh thầm cười trong lòng, chỉ lặng lẽ quan sát cảnh này: "Nếu nhìn thế này, nguyên lý của thể khảm thực sự có tiềm năng để chế tạo thuốc gen huyết mạch thứ hai..."
 
-Anh đến đây không phải để đánh nhau. Anh đến để thử nghiệm, đến để thu thập nền tảng và kiến thức. Thay vì lãng phí thời gian quý báu hiếm có, chi bằng để Talus đón tiếp kẻ thù này, thắng bại đều do họ tự quyết định. Còn anh sẽ tiếp tục dùng thời gian ngộ đạo quý báu có hạn để nghiên cứu kiến thức cải tạo huyết mạch tam hợp nhất này. Học hỏi kiến thức, nghiên cứu quy luật mới là việc anh nên làm, chứ không phải là một kẻ võ phu lao vào đánh đấm, chiến đấu một cách mù quáng.
+Hắn đến đây không phải để đánh nhau. Hắn đến để thử nghiệm, đến để thu thập nền tảng và kiến thức. Thay vì lãng phí thời gian quý báu hiếm có, chi bằng để Talus đón tiếp kẻ thù này, thắng bại đều do họ tự quyết định. Còn hắn sẽ tiếp tục dùng thời gian ngộ đạo quý báu có hạn để nghiên cứu kiến thức cải tạo huyết mạch tam hợp nhất này. Học hỏi kiến thức, nghiên cứu quy luật mới là việc hắn nên làm, chứ không phải là một kẻ võ phu lao vào đánh đấm, chiến đấu một cách mù quáng.
 
-Huống hồ, anh cũng chưa từng định để bản "tam hợp nhất" thực sự giáng lâm. Loại sức mạnh có khả năng phá vỡ vách ngăn pha lê này không thuộc về thời đại này, để lại một cánh tay mang chút sức mạnh là đủ rồi.
+Huống hồ, hắn cũng chưa từng định để bản "tam hợp nhất" thực sự giáng lâm. Loại sức mạnh có khả năng phá vỡ vách ngăn pha lê này không thuộc về thời đại này, để lại một cánh tay mang chút sức mạnh là đủ rồi.
 
 Talus cảm thấy đau đớn nóng rát. Hệt như bị sức mạnh nào đó từ cánh tay xâm thực toàn thân, từng mạch máu đang được khâu vá.
 
@@ -76,5 +76,5 @@ Trong chớp mắt, vị học giả gầy yếu này đã khoác lên mình m�
 
 Trận chiến bắt đầu. Một lão nhân tóc trắng Tinh Linh bao quanh bởi điện quang, một ma thần trẻ tuổi với bộ giáp ác ma dày nặng. Địa ngục trần gian chớp giật liên hồi, mặt đất vỡ nát đá bay tứ tung.
 
-Trên đế tọa, Lý Khanh chỉ nhìn lướt qua một cái. Ý thức lại một lần nữa dồn vào việc cải tạo huyết nhục đang sôi sục trong cơ thể mình. Cuộc chiến sinh tử của văn minh thế giới này dường như không liên quan gì đến vị quân vương đang ngồi trên ngai vàng như anh.
+Trên đế tọa, Lý Khanh chỉ nhìn lướt qua một cái. Ý thức lại một lần nữa dồn vào việc cải tạo huyết nhục đang sôi sục trong cơ thể mình. Cuộc chiến sinh tử của văn minh thế giới này dường như không liên quan gì đến vị quân vương đang ngồi trên ngai vàng như hắn.
 

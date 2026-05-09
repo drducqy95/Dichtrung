@@ -7,13 +7,13 @@ Walton trực tiếp hỏi: "Sao chỉ có mình cô?"
 "Suzanne bị bắt làm con tin rồi." Lý Uyển Ninh lộ ra vẻ cười khổ.
 Walton im lặng một lát, biết rằng đã lành ít dữ nhiều.
 
-Asol lập tức nói:
+Athol lập tức nói:
 "World OL hầu như đã giam cầm tất cả mọi người, chip thông minh trong não mỗi người đều tạo thành một nút mạng, xây dựng nên một mạng lưới khổng lồ chưa từng có. Về mặt thông tin, chúng ta đã trở thành những hòn đảo cô độc, bắt buộc phải cách ly mọi liên lạc tín hiệu."
 
 Đây đã là một cuộc khủng hoảng trí tuệ máy móc (trí tuệ nhân tạo phản loạn) thực thụ.
 Toàn bộ mạng lưới của thế giới đều bị bắt giữ, họ đã hoàn toàn bị tê liệt.
 
-"Nơi này là phòng thí nghiệm ẩn hình khép kín hoàn toàn, chúng ta vẫn an toàn." Asol lập tức nói.
+"Nơi này là phòng thí nghiệm ẩn hình khép kín hoàn toàn, chúng ta vẫn an toàn." Athol lập tức nói.
 
 "Kẻ kiểm soát thủ lĩnh của toàn bộ người phỏng sinh là Silph, con gái của chúng ta." Lý Uyển Ninh im lặng một lát rồi vẫn nói ra mục tiêu.
 
@@ -24,7 +24,7 @@ Nhưng qua lần trước, họ đã phát hiện ra điểm tái khởi động
 Đối phương đã bắt giữ Suzanne, rất có khả năng sẽ lấy được ký ức, đợi đến khi hắn thất bại sẽ lên Mặt Trăng để tái khởi động, cùng bọn họ quay trở về quá khứ.
 Chuyện này quả thực có chút dây dưa không dứt.
 
-"Phải làm sao bây giờ?" Asol hỏi.
+"Phải làm sao bây giờ?" Athol hỏi.
 "Đợi thêm chút nữa."
 
 Walton lập tức nói: "Trước tiên hãy quan sát đã, giả vờ yếu đuối để xem đối phương định xử lý thời đại này thế nào, xem đám lĩnh chủ zombie kia, không chừng còn có thể dụ chúng ra ngoài."
@@ -108,13 +108,13 @@ Nhưng rõ ràng hiệu quả lây nhiễm của hắn không kinh người như
 "Cuối cùng cũng xuất hiện rồi, thể hình này hóa ra chính là siêu cấp zombie mang mật danh 'Tank'."
 Trong bóng tối, Walton nhìn thấy cảnh này liền lập tức nói: "Asol, đến lượt cậu xuất hiện rồi, hắn không nhịn nổi nữa rồi, muốn tới cứu Ninh Quốc Xương."
 
-"Nhớ kỹ, nếu đánh không lại thì rút lui, cậu là hy vọng của nhân loại, ngay cả khi tất cả mọi người đều chết hết thì cậu cũng không được chết!" Asol lập tức nói.
+"Nhớ kỹ, nếu đánh không lại thì rút lui, cậu là hy vọng của nhân loại, ngay cả khi tất cả mọi người đều chết hết thì cậu cũng không được chết!" Athol lập tức nói.
 
 Lần này nếu mất thêm một trụ cột chiến lực của nhân loại nữa thì thực sự rắc rối to.
 "Theo lý mà nói thì sẽ không đánh không lại đâu." Lý Uyển Ninh hít sâu một hơi, "Chúng ta đã nghiên cứu bao nhiêu năm rồi, chiến lực chắc chắn là rất mạnh."
 
 Rắc.
-Asol gật đầu, tay cầm một thiết bị đặc biệt, khẽ vung một cái.
+Athol gật đầu, tay cầm một thiết bị đặc biệt, khẽ vung một cái.
 Rắc.
 Một bong bóng Á không gian khổng lồ xuất hiện, hắn tiến vào bên trong.
 
@@ -139,17 +139,17 @@ Vị cự nhân đột nhiên tung một cú đá tới.
 Lĩnh chủ zombie bị đá bay đi một khoảng xa, nhưng máu thịt của đối phương nhúc nhích dường như có kỹ xảo đặc biệt, chống đỡ được cú đá này, "Dùng thêm chút sức nữa đi, gã cự nhân to xác kia."
 
 "Ta chịu đủ lũ chuột nhắt các ngươi rồi."
-Asol ở giây tiếp theo vậy mà đột nhiên kéo giãn không gian, lấy ra một khẩu súng laser khổng lồ, họng súng hình thập tự nhắm thẳng vào hắn: "Vậy thì thử cái này đi! Tia sáng thập tự Cự Nhân!"
+Athol ở giây tiếp theo vậy mà đột nhiên kéo giãn không gian, lấy ra một khẩu súng laser khổng lồ, họng súng hình thập tự nhắm thẳng vào hắn: "Vậy thì thử cái này đi! Tia sáng thập tự Cự Nhân!"
 
 Sắc mặt lĩnh chủ zombie lập tức cứng đờ.
 Phụt!
 Cột sáng khủng bố bùng nổ.
 
 Từ xa, Lý Khanh ngồi trong sân nhìn hình ảnh trên bầu trời: "Thật là tráng lệ nha, đại chiến siêu anh hùng."
-"Quả thực có khí thế trong phim Marvel rồi." Anh cảm thán.
+"Quả thực có khí thế trong phim Marvel rồi." Hắn cảm thán.
 
 Mỗi một chủng tộc đều có một vị Bán Thần.
-Mà Bán Thần của nhân tộc hầu như đều đi cùng một con đường, nhưng chỉ có Asol là khác biệt, bởi vì thứ hắn kiểm soát là người khổng lồ, hắn là Thần của tộc Cự Nhân, dị biến nhân loại thành tộc Cự Nhân...
+Mà Bán Thần của nhân tộc hầu như đều đi cùng một con đường, nhưng chỉ có Athol là khác biệt, bởi vì thứ hắn kiểm soát là người khổng lồ, hắn là Thần của tộc Cự Nhân, dị biến nhân loại thành tộc Cự Nhân...
 
 Cho nên họ mới không muốn công bố, bởi vì đây không phải là Bán Thần nhân loại bình thường, thậm chí là một chủng tộc khác, tách rời khỏi nhân loại rồi... Bởi vì, vừa mới gặp mặt đã mang thai, ai mà chịu nổi chứ?
 

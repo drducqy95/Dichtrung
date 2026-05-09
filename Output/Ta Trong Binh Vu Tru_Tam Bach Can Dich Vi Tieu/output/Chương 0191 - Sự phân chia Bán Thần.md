@@ -25,7 +25,7 @@ Giới hạn trên của chủng tộc có cao có thấp, đây là điều t�
 Cự long và sâu kiến, giới hạn trên của hai Mệnh đồ này làm sao có thể cùng một cấp bậc được?
 
 Còn bản thân Lý Khanh có bao nhiêu hoàn?
-Hiện tại anh vẫn chưa nhìn thấy điểm dừng.
+Hiện tại hắn vẫn chưa nhìn thấy điểm dừng.
 
 Đồng thời, mọi chuyện cũng không đơn giản như vậy.
 Một cấu trúc nhánh chỉ cho ra một mảnh ghép, ra trùng lặp thì vô dụng.
@@ -117,7 +117,7 @@ Sự tiến bộ của văn minh nằm ở việc đứng trên vai người kh�
 Cảnh giới đã được suy diễn ra rồi mà không đưa cho văn minh mới xây dựng sử dụng, vậy thì nội hàm tích lũy vất vả trước đó chẳng phải là trò cười sao?
 
 "Những bí cảnh tuyệt chủng này, nhân cơ hội này làm chút đồ chơi nhỏ thú vị vậy."
-Anh tâm niệm động một cái.
+Hắn tâm niệm động một cái.
 
 Những sinh mệnh máu thịt đã chết của thế giới tuyệt chủng đó vậy mà lại biến thành từng mặt trời, mặt trăng bằng máu thịt, thậm chí là những bộ Thần thi (xác thần) cổ xưa.
 Những bộ Thần thi này nằm vắt ngang hư không, bên trong ghi chép các pháp môn tu luyện.
@@ -126,5 +126,5 @@ Giống như trong một thời đại cổ xưa nào đó, những xác chết 
 "Nơi này hỗn độn, các mảnh vỡ không gian chậm rãi trôi dạt."
 "Nhưng có một vị Thần linh cổ xưa đi ngang qua, lôi kéo thủy triều của các mảnh vỡ xung quanh, thổi tới một vùng phế tích văn minh rực rỡ năm xưa."
 
-Anh khuếch trương tinh hải, trong các khe hở thời không lạnh lẽo và vô tận, từng bộ Thần thi, kiến trúc cổ xưa, nhật nguyệt nằm vắt ngang nơi đây, đây là một bức tranh vô cùng chấn động.
+Hắn khuếch trương tinh hải, trong các khe hở thời không lạnh lẽo và vô tận, từng bộ Thần thi, kiến trúc cổ xưa, nhật nguyệt nằm vắt ngang nơi đây, đây là một bức tranh vô cùng chấn động.
 

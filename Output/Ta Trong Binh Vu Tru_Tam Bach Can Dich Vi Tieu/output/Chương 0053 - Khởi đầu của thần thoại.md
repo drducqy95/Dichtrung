@@ -27,7 +27,7 @@ Một vị trí giả nhìn thấy cảnh này, kích động nịnh nọt trên
 Lý Khanh nhìn mà có chút ngẩn ngơ.
 Trong thời đại vũ khí thô sơ này, đây quả thực là một loại vũ khí từ không gian giáng xuống.
 Lý Khanh chỉ cảm thấy thú vị.
-Nhưng anh không biết rằng ở hậu thế, người ta thường dùng câu chuyện thần thoại của tộc Tinh Linh viễn cổ về "Chiếc Búa của Herodotus" — chiếc búa lơ lửng trên đầu luôn có thể rơi xuống — để biểu thị sự bất an và nguy hiểm luôn hiện hữu.
+Nhưng hắn không biết rằng ở hậu thế, người ta thường dùng câu chuyện thần thoại của tộc Tinh Linh viễn cổ về "Chiếc Búa của Herodotus" — chiếc búa lơ lửng trên đầu luôn có thể rơi xuống — để biểu thị sự bất an và nguy hiểm luôn hiện hữu.
 "Thả tiếp!"
 Theo mệnh lệnh, toàn bộ quả lắc lại rơi xuống.
 Lần này đối phương đã có chuẩn bị, không nện trúng ba đại Lãnh chúa Vực Thẳm kia nhưng vẫn va trúng một lượng lớn binh sĩ bộ xương không kịp né tránh. Những chiến binh bộ xương đen làm từ chất liệu thô sơ của loài bọ cánh cứng lần lượt ngã xuống.
@@ -101,7 +101,7 @@ Những đứa trẻ sơ sinh vừa mới chào đời còn chẳng biết tại
 Lý Khanh lộ ra một tia hứng thú: "Thành quả tích lũy của các người đều bị đối phương nghiên cứu sạch sẽ."
 Tuy nhiên...
 Lý Khanh nghĩ lại, vẫn cần phải giúp đỡ một chút.
-Anh không chỉ đến đây để xem vương quốc kiến trong phòng thí nghiệm đánh nhau, cái trận đánh lệch này, nhất định phải can thiệp!
+Hắn không chỉ đến đây để xem vương quốc kiến trong phòng thí nghiệm đánh nhau, cái trận đánh lệch này, nhất định phải can thiệp!
 Hơn nữa, vòng tuần hoàn thức ăn của thế giới Tinh Linh và thế giới Vực Thẳm sát vách không tương xứng.
 Thế giới Vực Thẳm mới vừa ra đời, đủ loại chất dinh dưỡng được đổ vào không tiếc tiền, nền tảng phong phú, bên trong đã biến thành một đĩa nuôi cấy đầy đủ năng lượng.
 Còn thế giới Tinh Linh thì sao?

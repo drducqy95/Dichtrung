@@ -2,11 +2,11 @@
 
 "Sống dở chết dở thì đúng là sự thật, nhưng chết thì còn xa lắm." Lý Khanh lắc đầu.
 
-Điều khiến Lý Khanh hứng thú là văn minh võ đạo hiện nay thực sự bao hàm tất cả, là một cái khung lớn. Bất kể là huyết mạch hay chủng tộc gì đều có thể biến thành một cuốn bí tịch võ công. Tiềm lực trong đó đủ khiến Lý Khanh phải kinh ngạc. Anh có cảm giác chủng tộc này sẽ trường tồn mãi mãi, vĩnh viễn không bị đào thải theo các phiên bản, mà sẽ luôn đồng hành cùng anh tiến tới sự vĩnh hằng.
+Điều khiến Lý Khanh hứng thú là văn minh võ đạo hiện nay thực sự bao hàm tất cả, là một cái khung lớn. Bất kể là huyết mạch hay chủng tộc gì đều có thể biến thành một cuốn bí tịch võ công. Tiềm lực trong đó đủ khiến Lý Khanh phải kinh ngạc. Hắn có cảm giác chủng tộc này sẽ trường tồn mãi mãi, vĩnh viễn không bị đào thải theo các phiên bản, mà sẽ luôn đồng hành cùng hắn tiến tới sự vĩnh hằng.
 
 "Xem ra, dung nạp trăm sông về biển cũng là một xu thế phát triển của văn minh." Lý Khanh thầm tính toán. "Khi một cường tộc siêu tiềm lực nào đó có tiềm lực khổng lồ, có thể bao hàm một hệ thống vĩ đại, nó sẽ tỏa ra các thế giới xung quanh, dung nạp và hấp thụ các tộc khác!"
 
-Các vị thần tạo vật tạo ra từng chủng tộc, về bản chất vẫn là tộc lớn nuốt tộc nhỏ. Ngươi phế như vậy, vì tiền đồ, thậm chí ngươi còn chủ động để người ta tương thích với mình. Ngay cả thế giới tận thế bên cạnh cũng chủ động dấn thân vào con đường võ đạo, điều này cũng không có gì đáng ngạc nhiên. Nơi đó vốn dĩ là một sa bàn tạm thời, không có nội hàm thực sự của riêng mình. Anh dùng ký ức của Ninh Quốc Xương để "hớt váng", mọi thứ có được chỉ là lâu đài trên cát, hiện tại chọn con đường này cũng là chính xác.
+Các vị thần tạo vật tạo ra từng chủng tộc, về bản chất vẫn là tộc lớn nuốt tộc nhỏ. Ngươi phế như vậy, vì tiền đồ, thậm chí ngươi còn chủ động để người ta tương thích với mình. Ngay cả thế giới tận thế bên cạnh cũng chủ động dấn thân vào con đường võ đạo, điều này cũng không có gì đáng ngạc nhiên. Nơi đó vốn dĩ là một sa bàn tạm thời, không có nội hàm thực sự của riêng mình. Hắn dùng ký ức của Ninh Quốc Xương để "hớt váng", mọi thứ có được chỉ là lâu đài trên cát, hiện tại chọn con đường này cũng là chính xác.
 
 Còn thế giới Vu Sư thì vẫn chưa dấn thân vào thế giới võ đạo. Trông có vẻ như họ vẫn muốn tìm ra con đường tương lai của riêng mình. Tuy nhiên, hệ thống Vu Sư là phiên bản văn minh nguyên thủy thời kỳ đầu, giờ muốn cải tiến cũng không thể nhanh được.
 
@@ -15,12 +15,12 @@ Còn thế giới Vu Sư thì vẫn chưa dấn thân vào thế giới võ đ�
 "Tốt nhất là vẫn nên tạo ra một số cuộc khủng hoảng."
 "Không có khủng hoảng, không có các loại kẻ thù BOSS thì rốt cuộc vẫn là không đủ, áp lực từ bản đồ bên ngoài là phải có."
 
-Lý Khanh thầm trầm ngâm, tỉ mỉ cân nhắc chiến lược của mình. Suốt chặng đường qua, anh đều đang mở rộng bản đồ. Cho họ thấy thế giới "rộng lớn", cho họ hy vọng và cả một mức độ tuyệt vọng nhất định. Anh là người kiến tạo sa bàn, không ngừng mở ra những bản đồ cao hơn, những cuộc khủng hoảng lớn hơn.
+Lý Khanh thầm trầm ngâm, tỉ mỉ cân nhắc chiến lược của mình. Suốt chặng đường qua, hắn đều đang mở rộng bản đồ. Cho họ thấy thế giới "rộng lớn", cho họ hy vọng và cả một mức độ tuyệt vọng nhất định. Hắn là người kiến tạo sa bàn, không ngừng mở ra những bản đồ cao hơn, những cuộc khủng hoảng lớn hơn.
 
-Anh bỗng nhiên có chút mong đợi. Khi văn minh võ đạo này đạt tới đỉnh thịnh thực sự, từng vị Võ Thần sải bước trên đại địa, Phá toái hư không (phá vỡ hư không), cảnh tượng đó sẽ chấn động đến nhường nào?
+Hắn bỗng nhiên có chút mong đợi. Khi văn minh võ đạo này đạt tới đỉnh thịnh thực sự, từng vị Võ Thần sải bước trên đại địa, Phá toái hư không (phá vỡ hư không), cảnh tượng đó sẽ chấn động đến nhường nào?
 
 "Còn về thế giới Vu Sư, hy vọng các người đừng bị đào thải, rốt cuộc bị tụt hậu và biến mất trong dòng sông dài của lịch sử thì thật tiếc." Lý Khanh khẽ thì thầm.
-Văn minh có sinh có diệt. Bước lên bàn cờ, tới thế giới đa nguyên thì phải tuân thủ quy tắc. Ngay cả thế giới Vu Sư đã đồng hành cùng anh suốt chặng đường, nếu thực sự không chịu cố gắng thì anh cũng sẽ không giúp đỡ quá nhiều. Bởi vì hiện tại đã cho họ khá nhiều lợi ích rồi. Cực khổ tạo ra thế giới tận thế chẳng phải là để cho các người "hớt váng", tìm ra con đường tiến giai tiếp theo sao?
+Văn minh có sinh có diệt. Bước lên bàn cờ, tới thế giới đa nguyên thì phải tuân thủ quy tắc. Ngay cả thế giới Vu Sư đã đồng hành cùng hắn suốt chặng đường, nếu thực sự không chịu cố gắng thì hắn cũng sẽ không giúp đỡ quá nhiều. Bởi vì hiện tại đã cho họ khá nhiều lợi ích rồi. Cực khổ tạo ra thế giới tận thế chẳng phải là để cho các người "hớt váng", tìm ra con đường tiến giai tiếp theo sao?
 
 "A, tôi lại thua rồi!" Lúc này Silph bỗng nhiên hét lớn. Cô nàng này đánh cờ ngày càng thích la hét, lúc nào cũng hốt hoảng.
 

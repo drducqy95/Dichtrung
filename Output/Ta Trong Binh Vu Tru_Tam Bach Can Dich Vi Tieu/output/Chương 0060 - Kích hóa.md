@@ -74,16 +74,16 @@ Lý Khanh lặng lẽ dõi theo, trầm ngâm suy tính, lặng lẽ cảm nhậ
 Lý Khanh nghĩ vậy, bỗng nhiên lại lặng lẽ cảm nhận siêu năng lực của mình.
 5 giây.
 3 giây, đã là tốc độ thức tỉnh tương đương với Ninh Quốc Xương lúc chỉ còn thiếu một bước chân năm đó.
-Tuy nhiên vẫn chưa dừng lại, cùng với sự ngộ đạo của Herodotus, bản thân anh cũng đạt được trạng thái ngộ đạo.
+Tuy nhiên vẫn chưa dừng lại, cùng với sự ngộ đạo của Herodotus, bản thân hắn cũng đạt được trạng thái ngộ đạo.
 2 giây.
 1 giây.
 0 giây.
 Lúc này, Lý Khanh đã có thể thức tỉnh đơn bào chỉ trong không giây, nhưng dường như bị kẹt ở một ranh giới nào đó mờ mịt, chưa thể đột phá.
 Lý Khanh có một cảm giác trong cõi u minh.
-Nếu Herodotus bước vào giai đoạn tiếp theo, bản thân anh cũng sẽ từ sự đốn ngộ của ông ta mà tiến vào trên mức 0 giây, đột phá lớp màng ngăn, vượt qua giai đoạn nguy hiểm không thể kiểm soát của chiếc kính râm này, thực hiện cuộc lột xác của riêng mình!
-Siêu năng lực của anh sẽ có sự thay đổi về chất như thế nào đây?
+Nếu Herodotus bước vào giai đoạn tiếp theo, bản thân hắn cũng sẽ từ sự đốn ngộ của ông ta mà tiến vào trên mức 0 giây, đột phá lớp màng ngăn, vượt qua giai đoạn nguy hiểm không thể kiểm soát của chiếc kính râm này, thực hiện cuộc lột xác của riêng mình!
+Siêu năng lực của hắn sẽ có sự thay đổi về chất như thế nào đây?
 "Vậy thì... hãy đi xem xem sao."
-Anh cười nhạt một tiếng.
+Hắn cười nhạt một tiếng.
 "Vỏ bọc thì phải có con đường hành vi của vỏ bọc."
 "Đây là một cổ nhân mục nát, là một thực thể từng giống như họ, vung đao về phía Cổ Thần Hỗn Độn, gào thét phẫn nộ với trời xanh, có tham vọng bước ra khỏi vách tinh bích để thắp lên thần hỏa, là tiền bối của ông ta và Atabia..."
 "Đúng vậy, chính là như vậy... Hắn là Đại Đế Ác Ma Vực Thẳm trong thế giới, mưu đồ một lần nữa vung đao với các thực thể Cổ Thần trong hỗn độn."
@@ -105,7 +105,7 @@ Trên đế tọa, một giọng nói xa xăm truyền tới, tuy thanh đạm n
 Người đàn ông cao lớn ngồi trên đế tọa bỗng nhiên thở dài, lặng lẽ cảm nhận cơ thể, lẩm bẩm tự nhủ: "Tuy nhiên, cơ thể mà các ngươi dung hợp này chỉ là thức tỉnh bậc hai, không vào được bậc ba sao?"
 Thông qua góc nhìn cảm nhận mượn từ Herodotus.
 Lý Khanh cũng nhìn thấy trên người mình là một tòa nhà gen lộn xộn, ba mảnh vụn tác phẩm nổi tiếng, một bức họa AI cưỡng ép chắp vá.
-Anh bắt đầu hoàn thiện cấu trúc cơ thể của mình, không ngừng cải tiến, biến cơ thể này thành một tác phẩm nghệ thuật hoàn mỹ khác.
+Hắn bắt đầu hoàn thiện cấu trúc cơ thể của mình, không ngừng cải tiến, biến cơ thể này thành một tác phẩm nghệ thuật hoàn mỹ khác.
 Tác phẩm hoàn mỹ thứ hai trên Trái Đất.
 Nhìn vị đế vương ngồi trên vương tọa Vực Thẳm, Talus cẩn thận nói: "Thưa Cổ Đế điện hạ, có thủ lĩnh của thế giới kẻ thù đang tấn công Vực Thẳm."
 Người đàn ông trên đế tọa gật đầu, chỉ đáp lại một câu rồi lại nhắm mắt trên vương tọa:

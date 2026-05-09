@@ -6,7 +6,7 @@ Lý Khanh ngồi trong phòng, khẽ cảm thán một câu.
 
 Thời đại của chúng thần sáng tạo kết thúc, chu kỳ thời gian thay đổi ngày càng dài hơn.
 
-Tuy nhiên, trong gần hai tháng ngoài đời thực trôi qua, anh cũng đã xây dựng xong hoàn toàn thế giới sa bàn của mình. Căn phòng đơn thứ nhất đã hoàn thiện, thậm chí đã bắt đầu thực hiện căn phòng thứ hai.
+Tuy nhiên, trong gần hai tháng ngoài đời thực trôi qua, hắn cũng đã xây dựng xong hoàn toàn thế giới sa bàn của mình. Căn phòng đơn thứ nhất đã hoàn thiện, thậm chí đã bắt đầu thực hiện căn phòng thứ hai.
 
 Còn về việc xây dựng phòng khách?
 
@@ -26,13 +26,13 @@ Lý Khanh ép xương cốt và vóc dáng, giống như thuật thu cốt mà t
 
 Trải qua bóng tối.
 
-Cứ cách một khoảng cách, Lý Khanh lại dùng một thanh sắt cắm vào vách tường để giảm tốc độ, không ngừng nhảy xuống, không ngừng rơi tự do. Sau hơn nửa giờ, cuối cùng anh cũng tới được đáy đất.
+Cứ cách một khoảng cách, Lý Khanh lại dùng một thanh sắt cắm vào vách tường để giảm tốc độ, không ngừng nhảy xuống, không ngừng rơi tự do. Sau hơn nửa giờ, cuối cùng hắn cũng tới được đáy đất.
 
 Một luồng khí tức nóng bức, ngột ngạt truyền đến.
 
 Căn cứ địa tâm đã tới.
 
-Anh ngẩng đầu lên, nhìn thấy một bộ hài cốt khổng lồ bao la đến khủng bố, vẫn chưa được bao phủ hoàn toàn bởi da thịt, đâm thẳng lên chín tầng mây, bị làn sương mù do dung nham nham thạch sinh ra làm cho mờ ảo. Nó cao ròng rã một ngàn mét, sừng sững trên đại địa.
+Hắn ngẩng đầu lên, nhìn thấy một bộ hài cốt khổng lồ bao la đến khủng bố, vẫn chưa được bao phủ hoàn toàn bởi da thịt, đâm thẳng lên chín tầng mây, bị làn sương mù do dung nham nham thạch sinh ra làm cho mờ ảo. Nó cao ròng rã một ngàn mét, sừng sững trên đại địa.
 
 Xung quanh có một số giá đỡ bảo vệ, trông giống như một quả tên lửa khổng lồ.
 
@@ -40,17 +40,17 @@ Lý Khanh cũng không do dự.
 
 Từng bước leo lên cột sống của người khổng lồ.
 
-Leo suốt quãng đường, cuối cùng anh tới tầng cao nhất của tháp Babel, bước vào cung điện trong đầu lâu.
+Leo suốt quãng đường, cuối cùng hắn tới tầng cao nhất của tháp Babel, bước vào cung điện trong đầu lâu.
 
-Sau này, nơi đây sẽ là căn phòng của anh.
+Sau này, nơi đây sẽ là căn phòng của hắn.
 
-Anh đột nhiên có một cảm giác, sau này mình chính là vị vua của chủng tộc này, nơi đây chính là vương tọa, từng bước thúc đẩy văn minh, hướng tới biển sao mênh mông.
+Hắn đột nhiên có một cảm giác, sau này mình chính là vị vua của chủng tộc này, nơi đây chính là vương tọa, từng bước thúc đẩy văn minh, hướng tới biển sao mênh mông.
 
 "Cũng không tệ."
 
 Lý Khanh cảm nhận một chút, suy ngẫm: "Căn hộ ba phòng một khách mới đã gần xong rồi, sau này có thể để Lôi Thần hoàn toàn đi lại trong xã hội nhân loại, bản thể của mình sẽ ở đây."
 
-Anh vẫn có liên kết tín hiệu với mặt đất.
+Hắn vẫn có liên kết tín hiệu với mặt đất.
 
 Dùng loại thực vật truyền tấn kia làm nút thắt, suốt dọc đường liên kết với mặt đất, tự nhiên cũng thông suốt mạng lưới sóng ý thức, vẫn có thể cảm nhận được bên ngoài.
 
@@ -64,13 +64,13 @@ Mặt đất rung chuyển.
 
 "Mặt đất cũng phải nén lại lần nữa, lát gạch sàn kiểu mới, nếu không thịt da mọc ra sẽ chỉ càng nặng thêm."
 
-Anh trầm tư một lát, điều khiển người khổng lồ tới trước căn phòng số 1, đứng trước vách pha lê, quan sát diện tích căn phòng khổng lồ bên trong, nói:
+Hắn trầm tư một lát, điều khiển người khổng lồ tới trước căn phòng số 1, đứng trước vách pha lê, quan sát diện tích căn phòng khổng lồ bên trong, nói:
 
 "Nơi này chính là nơi phi thăng của các vu sư và tinh linh! Cứ đợi họ mở bản đồ mới rồi tới đây."
 
 Vách pha lê ở đây lờ mờ phát sáng, cung cấp ánh sáng.
 
-Mà nguồn năng lượng của vách pha lê là dòng sông dung nham ở phía xa. Anh xây dựng một đống rừng cây thực vật bên cạnh dòng sông dung nham đó, hấp thụ nhiệt và ánh sáng, kết trái, cung cấp dưỡng chất.
+Mà nguồn năng lượng của vách pha lê là dòng sông dung nham ở phía xa. Hắn xây dựng một đống rừng cây thực vật bên cạnh dòng sông dung nham đó, hấp thụ nhiệt và ánh sáng, kết trái, cung cấp dưỡng chất.
 
 Sau này, họ đều sẽ lần lượt chuyển tới đây.
 
@@ -82,9 +82,9 @@ Tuy nhiên, căn phòng số 1 vẫn phải nuôi dưỡng một đợt sinh v�
 
 Lý Khanh nhíu mày, không định tốn quá nhiều tâm trí ở đây.
 
-Anh đã đủ bận rộn rồi!
+Hắn đã đủ bận rộn rồi!
 
-Mà căn phòng số 1 định sẵn là một văn minh vu sư, đã vô cùng chín muồi, không cần anh phải thêm mắm thêm muối, bù đắp thêm văn minh gì nữa.
+Mà căn phòng số 1 định sẵn là một văn minh vu sư, đã vô cùng chín muồi, không cần hắn phải thêm mắm thêm muối, bù đắp thêm văn minh gì nữa.
 
 Còn về căn phòng số 2 mới thực sự là sa bàn thế giới mới!
 
@@ -110,9 +110,9 @@ Sáng tạo ra một phương thế giới khổng lồ, vốn dĩ mọi tham s�
 
 Lý Khanh hít sâu một hơi, nhìn vùng đất hoang vu của căn phòng số 2: "Tốt nhất là mình hoàn toàn đột phá cửa ải, tới cảnh giới tiếp theo rồi mới sáng thế."
 
-Anh có một dự cảm, cảnh giới Bán Thần mới là lúc khôi phục lại thời kỳ đỉnh phong của vị zombie Lĩnh Chủ trước kia.
+Hắn có một dự cảm, cảnh giới Bán Thần mới là lúc khôi phục lại thời kỳ đỉnh phong của vị zombie Lĩnh Chủ trước kia.
 
-Lúc đó, khả năng khống chế của anh đối với quyến thuộc sẽ có một sự thay đổi về chất tuyệt đối, số lượng khống chế cũng sẽ tăng gấp bội, không còn khả năng quyến thuộc phản nghịch nữa.
+Lúc đó, khả năng khống chế của hắn đối với quyến thuộc sẽ có một sự thay đổi về chất tuyệt đối, số lượng khống chế cũng sẽ tăng gấp bội, không còn khả năng quyến thuộc phản nghịch nữa.
 
 "Đợi thêm chút nữa."
 
@@ -144,7 +144,7 @@ Thiếu nữ cầm pháp trượng chạm nhẹ vào hình xăm huy hiệu trên
 
 Lý Khanh xách túi hành lý bắt đầu lên xe.
 
-Anh tới đây là định định cư lâu dài ở đây, dù sao bên ngoài quá buồn chán, lại không thể đi ra ngoài, huống hồ bản thân lại gặp phải bình cảnh, không thể tu hành để giết thời gian được nữa.
+Hắn tới đây là định định cư lâu dài ở đây, dù sao bên ngoài quá buồn chán, lại không thể đi ra ngoài, huống hồ bản thân lại gặp phải bình cảnh, không thể tu hành để giết thời gian được nữa.
 
 Xem xem thời đại này, âm thầm thúc đẩy một chút.
 

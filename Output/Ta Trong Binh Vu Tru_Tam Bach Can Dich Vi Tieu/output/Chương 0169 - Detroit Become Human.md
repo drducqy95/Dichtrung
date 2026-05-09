@@ -57,7 +57,7 @@ Detroit đã dấy lên cuộc cách mạng Android.
 Cuộc chiến không khói súng, không hổ là Lục Láp, cái tên Doraemon đó, chỉ số thông minh quả nhiên rất cao!
 Và mình chọn hắn, không chỉ vì phù hợp, mà còn vì vị này có tư chất đủ mạnh.
 "Một chủng tộc mới, dị chủng cơ khí sắp trỗi dậy rồi."
-Lý Khanh cũng không có ý định ra tay can thiệp, anh cứ đứng nhìn sự suy diễn và phát triển của thế giới này là được.
+Lý Khanh cũng không có ý định ra tay can thiệp, hắn cứ đứng nhìn sự suy diễn và phát triển của thế giới này là được.
 Dù sao kết quả xấu nhất cũng chỉ là khởi động lại sa bàn mà thôi.
 Quy tắc thiết lập của thế giới này chính là như vậy.
 Một bãi thử nghiệm văn minh lặp đi lặp lại, có vô số cơ hội, dù có làm loạn thế nào cũng có tỷ lệ sai số, tự nhiên không cần phải cẩn thận như thế giới Pháp sư.
@@ -70,10 +70,10 @@ Trong một cuộc tụ họp khác.
 Lục Láp vẫn là một Pháp sư Tinh thần bình thường, vẫn tại nhà hàng Trung Hoa đó.
 "Năm tháng trôi qua, nơi đây vẫn là khung cảnh quen thuộc nha."
 Lục Láp cảm thán một tiếng.
-Thực ra nơi này là nơi anh âm thầm giữ lại, nơi những người bạn cùng phòng năm xưa vẫn thường xuyên tụ tập ăn uống.
+Thực ra nơi này là nơi hắn âm thầm giữ lại, nơi những người bạn cùng phòng năm xưa vẫn thường xuyên tụ tập ăn uống.
 Càng gánh vác quá nhiều, lại càng khó vượt qua.
 Tám năm, ngỡ như đã trôi qua một thế kỷ.
-Anh đã vô số lần gặp phải khốn cảnh, phòng thí nghiệm tạo vật của mình xảy ra đủ loại biến cố, suýt chút nữa không giữ được mạng.
+Hắn đã vô số lần gặp phải khốn cảnh, phòng thí nghiệm tạo vật của mình xảy ra đủ loại biến cố, suýt chút nữa không giữ được mạng.
 "Cậu vậy mà lại leo lên được vị trí cao cấp trong Quỹ Hội, sau này có thể che chở cho tớ rồi." Lục Láp cười nói.
 "Tớ cũng không biết tại sao mình lại leo lên được mức độ này."
 Lý Khanh không phủ nhận, giơ cao ly rượu, "Có lẽ là có thần linh phù hộ đi, sau này tớ nhất định sẽ che chở cho cậu."

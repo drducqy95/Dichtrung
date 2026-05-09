@@ -37,7 +37,7 @@ Vị "Thần Sáng Thế" này bao nhiêu năm qua chẳng làm gì cả, chỉ 
 
 Trước mặt người ta thì hào quang rực rỡ, sau lưng lại là đội trưởng đội thầu khoán.
 
-Dù sao thì viện trưởng bệnh viện tâm thần cũng là làm công tác xây dựng, mà nhất nghệ tinh nhất thân vinh, anh đã có kinh nghiệm phong phú, tốc độ ngày càng nhanh.
+Dù sao thì viện trưởng bệnh viện tâm thần cũng là làm công tác xây dựng, mà nhất nghệ tinh nhất thân vinh, hắn đã có kinh nghiệm phong phú, tốc độ ngày càng nhanh.
 
 Chỉ cảm thấy có chút khiến người ta không nói nên lời.
 
@@ -54,22 +54,22 @@ Lần này Lý Khanh đã khôn ngoan hơn.
 Không có vũ khí hạt nhân thì sao?
 Thì tạo ra một cái vũ khí hạt nhân.
 
-Tất nhiên, không thể để họ làm nổ tung căn hộ ba phòng một phòng khách của mình, "vũ khí hạt nhân" này phải do chính anh đưa cho họ.
+Tất nhiên, không thể để họ làm nổ tung căn hộ ba phòng một phòng khách của mình, "vũ khí hạt nhân" này phải do chính hắn đưa cho họ.
 
 "Khu vực 51, có căn cứ di tích phi thuyền của người ngoài hành tinh, trong đó có người khổng lồ hóa thạch của văn minh siêu cổ đại."
 
 Đại não của Lý Khanh vận hành nhanh chóng.
 
-Đừng trách anh âm thầm giở trò.
+Đừng trách hắn âm thầm giở trò.
 Đây là vấn đề thực tế, không có vũ khí hạt nhân thì phải làm sao?
 
-Bản thân anh phải bổ sung phiên bản, tăng cường phe nhân loại, đưa họ trở lại quỹ đạo lịch sử đúng đắn.
+Bản thân hắn phải bổ sung phiên bản, tăng cường phe nhân loại, đưa họ trở lại quỹ đạo lịch sử đúng đắn.
 
 Người khổng lồ chính là phương thức phổ biến nhất!
 
-"Thế giới này mình không đưa cho họ chúng thần tạo vật, không thể sáng tạo sinh mệnh và chủng tộc, một vị người khổng lồ đối với họ mà nói đã là vô cùng quý giá rồi." Anh không ngừng sắp xếp mạch suy nghĩ.
+"Thế giới này mình không đưa cho họ chúng thần tạo vật, không thể sáng tạo sinh mệnh và chủng tộc, một vị người khổng lồ đối với họ mà nói đã là vô cùng quý giá rồi." Hắn không ngừng sắp xếp mạch suy nghĩ.
 
-Đầu tiên, vị người khổng lồ này không thể quá lớn, phải cao tương đương với bản thân anh là hơn hai mét, đi lại trong thành phố.
+Đầu tiên, vị người khổng lồ này không thể quá lớn, phải cao tương đương với bản thân hắn là hơn hai mét, đi lại trong thành phố.
 Thứ hai, phải phù hợp với thần thoại châu Mỹ.
 
 Cạch!
@@ -131,7 +131,7 @@ Từng sợi dây yoyo đang đung đưa ở độ cao 1500 mét trên không tr
 
 Lý Khanh bắt đầu rút kinh nghiệm sâu sắc từ thất bại.
 
-Phải biết rằng, đội ngũ công trình nhà anh không thể mãi làm thợ sửa chữa cho thế giới này, khởi động lại hết lần này đến lần khác được.
+Phải biết rằng, đội ngũ công trình nhà hắn không thể mãi làm thợ sửa chữa cho thế giới này, khởi động lại hết lần này đến lần khác được.
 
 Trước mắt thời đại mới phát triển được bốn năm, còn có thể lật đổ làm lại, như vậy không quá lỗ.
 Sau này thì sao?

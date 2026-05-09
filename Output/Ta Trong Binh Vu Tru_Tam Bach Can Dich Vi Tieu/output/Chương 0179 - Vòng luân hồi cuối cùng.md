@@ -102,7 +102,7 @@ Nocloron lên tiếng nói: "Họ là lần cuối cùng rồi, mong rằng họ
 Silph nhanh chóng hôn mê.
 
 Á!!
-Asol giật mình tỉnh dậy sau cơn ác mộng.
+Athol giật mình tỉnh dậy sau cơn ác mộng.
 Hắn mở mắt ra lần nữa, mồ hôi đầm đìa.
 "Vị thần Mặt Trăng trong giấc mơ đó chết rồi sao?" Trong lòng hắn chỉ còn lại sự sợ hãi.
 Đối phương đã truyền bá cho mình nhiều thông tin như vậy, rõ ràng là một thực thể cổ xưa siêu khủng bố, là thổ dân thực sự của vùng đất này...
@@ -111,7 +111,7 @@ Nhưng người đàn ông đáng sợ đó giống như thần binh thiên giá
 Mọi chuyện đến quá đột ngột.
 Nhưng cũng chính cái sự đột ngột này, vừa lên đã dọn sạch bãi chiến trường, mới khiến người ta cảm nhận được loại uy hiếp mang tầm cỡ nghiền ép, ngang ngược bá đạo, cái khí phách vô địch cả thế giới đó.
 
-"Vòng luân hồi không còn nữa, một mình ông ta đã hoàn toàn quét sạch tất cả." Asol lẩm bẩm.
+"Vòng luân hồi không còn nữa, một mình ông ta đã hoàn toàn quét sạch tất cả." Athol lẩm bẩm.
 
 "Phù!"
 Walton lập tức nói: "Quay lại rồi, đây là lần cuối cùng rồi, chúng ta không còn cơ hội nữa đâu."

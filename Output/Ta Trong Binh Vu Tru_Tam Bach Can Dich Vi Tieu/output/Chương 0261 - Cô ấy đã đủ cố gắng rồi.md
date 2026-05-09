@@ -1,4 +1,4 @@
-﻿# Chương 0261: Cô ấy đã đủ cố gắng rồi
+﻿# Chương 0261: Cô ta đã đủ cố gắng rồi
 
 Khoảnh khắc tiếp theo.
 

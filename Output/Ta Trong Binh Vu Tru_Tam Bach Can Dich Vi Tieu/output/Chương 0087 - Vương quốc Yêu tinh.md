@@ -42,9 +42,9 @@ Nhưng những người dân này không biết điều đó có nghĩa là chuy
 
 "Hàn điện? Hàn cái kính cường lực của ta?" "Đúng là cầm thú mà." Lý Khanh thở dài một tiếng, bên trong quả thực ngày càng mạnh mẽ rồi, sau khi hấp thụ nền tảng văn minh nhân loại, văn minh trong căn phòng này một ngày thay đổi bằng cả một thời đại.
 
-Anh bỗng nhiên linh hồn xuất khiếu, đi tới thế giới Thâm Uyên ở phòng bên cạnh. "Nói đi cũng phải nói lại, dường như tạo ra hai thế giới này đã lâu như vậy mà mình vẫn chưa đích thân đi dạo bên trong văn minh một chuyến." Anh bỗng mỉm cười.
+Hắn bỗng nhiên linh hồn xuất khiếu, đi tới thế giới Thâm Uyên ở phòng bên cạnh. "Nói đi cũng phải nói lại, dường như tạo ra hai thế giới này đã lâu như vậy mà mình vẫn chưa đích thân đi dạo bên trong văn minh một chuyến." Hắn bỗng mỉm cười.
 
-*Xoẹt!* Trong nháy mắt, anh đánh thức một tế bào đơn lẻ bên lề đường. Sau đó kiểm soát cơ thể nó, biên dịch cấu trúc DNA, không ngừng luồn lách nuốt chửng một lượng lớn vật chất để trưởng thành. Dường như trong tích tắc đã hoàn thành lịch sử tiến hóa từ đơn bào đến đa bào, đến loài cá, rồi bò lên bờ, cuối cùng biến thành một con quái vật hai chân giống như rong biển xanh. Nếu có ai nhìn thấy cảnh này, chắc chắn sẽ kinh hô đó là thần tích trong lịch sử tiến hóa.
+*Xoẹt!* Trong nháy mắt, hắn đánh thức một tế bào đơn lẻ bên lề đường. Sau đó kiểm soát cơ thể nó, biên dịch cấu trúc DNA, không ngừng luồn lách nuốt chửng một lượng lớn vật chất để trưởng thành. Dường như trong tích tắc đã hoàn thành lịch sử tiến hóa từ đơn bào đến đa bào, đến loài cá, rồi bò lên bờ, cuối cùng biến thành một con quái vật hai chân giống như rong biển xanh. Nếu có ai nhìn thấy cảnh này, chắc chắn sẽ kinh hô đó là thần tích trong lịch sử tiến hóa.
 
 "Thế giới này." Con quái vật hai chân là Lý Khanh tỉnh dậy trên bức tường, nhìn cảnh tượng trên mặt biển bên dưới: "Đã đi ra từ sự nguyên thủy, rực rỡ đến mức độ này rồi sao? Với nền tảng như hiện nay, quả thực giống như một dị giới thực thụ rồi."
 

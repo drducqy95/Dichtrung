@@ -12,7 +12,7 @@ Herodotus cũng thường xuyên cảm thấy kinh ngạc trước đủ loại 
 Và tất nhiên rồi.
 Cái tên Chúa tể Địa Huyệt bên này cũng là do cô đặt!
 Đó là bởi vì mỗi tối khi đi ngủ, cô đều trò chuyện với Suzanne về những chuyện xảy ra bên trong.
-Suzanne nói rằng những phong cách đặt tên này rất phù hợp với thần thoại thời đại, và cô ấy có một sự chấp niệm mãnh liệt với việc này. Mặc dù Sylph không hiểu rõ lắm, nhưng đặt tên như vậy cũng chẳng sao.
+Suzanne nói rằng những phong cách đặt tên này rất phù hợp với thần thoại thời đại, và cô ta có một sự chấp niệm mãnh liệt với việc này. Mặc dù Sylph không hiểu rõ lắm, nhưng đặt tên như vậy cũng chẳng sao.
 Xoạt!
 Thu hồi ý thức từ biển sâu, Sylph mở mắt: "Rắc rối rồi, Vực Thẳm sắp bắt đầu trận quyết chiến cuối cùng."
 Bên cạnh, Suzanne đang chuẩn bị bữa cơm.
@@ -23,7 +23,7 @@ Hơn nữa, máy dò kim loại cũng không thể phát hiện ra.
 Đây chính là máy tính huyết nhục.
 Dù Thánh nữ Tinh Linh Sylph có quay về đi chăng nữa, cô cũng cảm thấy mình có thể bứt phá trong đủ mọi lĩnh vực, không ai có thể mắng cô là loại con nhà giàu ăn bám nữa.
 "Chúng ta thực sự không ra tay sao?" Sylph nhìn Suzanne trong bếp, người đang dần trở thành một người vợ hiền dâu thảo, hỏi.
-Cô ấy bưng một đĩa thức ăn đi ra:
+Cô ta bưng một đĩa thức ăn đi ra:
 "Ra tay thế nào được, vũ lực cá nhân là sự giúp đỡ cấp thấp nhất, thông tin mới là sức mạnh cung cấp cho cả thế giới. Một binh sĩ cao cấp và một gián điệp cao cấp, ai có tác dụng lớn hơn, điều đó có thể dễ dàng nhận thấy."
 Suzanne kể từ khi hiểu được thế giới dị giới huyền ảo kia, cô cảm thấy vừa kính vừa sợ.
 Bên này mới trôi qua vỏn vẹn năm sáu ngày, nhưng ở đầu bên kia của vết nứt thế giới, nơi đó đã trôi qua tận năm sáu mươi ngày.
@@ -70,12 +70,12 @@ Lý Khanh đạp một chiếc xe đạp, thong thả tiến về phía trước
 Trong nền văn minh không có mấy ai là làm việc tử tế cả.
 Làm việc riêng là thiên tính rồi.
 Hai bên đường, lá vàng rụng đầy, cơn gió thu thổi qua má Lý Khanh.
-Đối với anh, sự bùng nổ thời đại lần này khá là thú vị.
+Đối với hắn, sự bùng nổ thời đại lần này khá là thú vị.
 "Lần đại diệt chủng thứ nhất, từ đơn bào biến thành đa bào."
 "Lần đại diệt chủng thứ hai, biến thành cá dưới đại dương."
 "Lần đại diệt chủng thứ ba, biến thành đại não tập hợp."
 "Mỗi lần đại diệt chủng sinh mệnh đều là một bước tiến hóa lớn. Họ giờ đây đã vượt trên sinh vật nhân loại, dẫn trước Trái Đất hàng nghìn năm. Vậy còn lần này trong phòng thí nghiệm thì sao?"
-Sắc mặt anh có chút mong chờ.
+Sắc mặt hắn có chút mong chờ.
 Không biết lần tới sẽ là sự thay đổi văn minh như thế nào, nhưng sinh mệnh tiến hóa được sinh ra chắc chắn sẽ là một sự thay đổi về chất mang tính vượt bậc, vượt xa nhận thức về sinh học của nhân loại Trái Đất.
 "Dẫu sao thì áp lực dành cho họ cũng đã đủ rồi."
 "Ba đại Chúa tể Vực Thẳm bắt đầu nghiên cứu tam vị nhất thể, chuẩn bị triệu hồi sự giáng lâm của Đại Đế Ác Ma thượng cổ trong chiến tranh."

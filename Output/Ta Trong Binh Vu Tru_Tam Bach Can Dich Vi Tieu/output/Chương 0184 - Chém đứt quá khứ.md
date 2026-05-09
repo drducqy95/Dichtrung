@@ -50,12 +50,12 @@ Cả thế giới vậy mà đều đang chờ đợi anh hùng trở về.
 
 Lý Khanh mỉm cười, không trả lời.
 Thất vọng thì không hẳn, bởi vì tất cả đều do chính mình tạo ra.
-Anh cũng biết những gì đối phương nói là đúng.
-Anh đã dùng ký ức của Ninh Quốc Xương tưới nhuần thế giới nhân loại Trái Đất tận thế này, "nhân cách", "ký ức", "trải nghiệm", khiến cả thế giới biến thành những con rối dây.
+Hắn cũng biết những gì đối phương nói là đúng.
+Hắn đã dùng ký ức của Ninh Quốc Xương tưới nhuần thế giới nhân loại Trái Đất tận thế này, "nhân cách", "ký ức", "trải nghiệm", khiến cả thế giới biến thành những con rối dây.
 
 Những tiếng reo hò, gào thét đó, ngược lại càng khiến người ta rợn tóc gáy.
 Bởi vì tất cả đều là những nhân vật trong lịch sử...
-Ngay cả khi do Lý Khanh tạo ra, anh vẫn cảm thán về nỗi kinh hoàng trong đó.
+Ngay cả khi do Lý Khanh tạo ra, hắn vẫn cảm thán về nỗi kinh hoàng trong đó.
 
 Dù cho vòng luân hồi đã được giải trừ, thế giới này muốn thoát khỏi hoàn toàn sự ảnh hưởng của những ký ức đó để trở thành chính mình thực sự, e là cần một khoảng thời gian không ngắn.
 
@@ -65,7 +65,7 @@ Bản thân mình hết lần này đến lần khác khởi động lại, cả
 Cô mím đôi môi đỏ mọng, có chút căng thẳng:
 "Ngài chỉ mang mình con rời khỏi thế giới giấc mơ quái dị này... không chỉ vì con là truyền nhân của người đó, mà còn vì con vẫn còn tỉnh táo. Nếu con chọn chấp nhận sự hoan nghênh của họ, trở thành nhân vật của công chúng, trở thành anh hùng, ngài có phải sẽ bỏ rơi con không?"
 
-Asol, Ninh Quốc Xương và những người khác, thực tế vẫn đang sống trong mơ, những hành động của họ đã đại diện cho việc chấp nhận vai diễn của chính mình.
+Athol, Ninh Quốc Xương và những người khác, thực tế vẫn đang sống trong mơ, những hành động của họ đã đại diện cho việc chấp nhận vai diễn của chính mình.
 Cho nên, họ không được mang đi, chỉ có cô là còn tỉnh táo.
 
 "Cuộc đối thoại giữa Ninh Quốc Xương và Asol con đã nghe thấy rồi, chiều sâu suy nghĩ của họ rất lớn, nhưng vẫn kém một bậc, không thể hoàn toàn nhảy thoát ra ngoài." Cô nghĩ như vậy.
@@ -87,11 +87,11 @@ Rắc.
 Linh hồn và tinh hạch của cô đều rơi xuống một đoạn, đoạn ký ức đó cũng tiến vào trong mảnh tinh hạch vỡ vụn.
 
 Lý Khanh đưa tay bắt lấy!
-Mảnh tinh hạch vỡ vụn đó rơi vào trong tay anh.
+Mảnh tinh hạch vỡ vụn đó rơi vào trong tay hắn.
 
 Dù phải chọn cách làm vỡ tinh hạch, trong thời gian ngắn chém đi một phần tiền đồ, cũng phải chém đứt đoạn ký ức khiến nội tâm cô hoang mang này.
 
-Lý Khanh nhét mảnh tinh hạch vỡ vụn vào trong tay, ẩn vào trong máu thịt, anh còn chưa kịp cảm thán đây là một chuyện rắc rối, đã thấy thiếu nữ đang ngơ ngác nhìn xung quanh.
+Lý Khanh nhét mảnh tinh hạch vỡ vụn vào trong tay, ẩn vào trong máu thịt, hắn còn chưa kịp cảm thán đây là một chuyện rắc rối, đã thấy thiếu nữ đang ngơ ngác nhìn xung quanh.
 
 "Ông là ai?" Thiếu nữ hỏi.
 "Bạn của mẹ cháu." Nocloron trả lời.

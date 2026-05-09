@@ -15,7 +15,7 @@ Sau khi bước chân lên vùng đất sơn thủy này, Silph lại ngoảnh �
 Sự tu hành của Bán Thần là bổ khuyết "Mệnh đồ", mặc dù bản thân cũng có thể chậm rãi tiến hóa, nhưng nếu muốn tốc độ thăng tiến nhanh thì cần phải dựa vào việc dị biến người khác để giúp chính mình tiến hóa.
 
 Nhưng trong hơn ba mươi năm qua, Lý Khanh cũng không hề lãng phí thời gian.
-Anh cũng thuận tay giúp đỡ Lôi Thần và sinh mệnh vách pha lê thăng cấp lên cảnh giới Bán Thần.
+Hắn cũng thuận tay giúp đỡ Lôi Thần và sinh mệnh vách pha lê thăng cấp lên cảnh giới Bán Thần.
 Hiện tại vách pha lê của cả ba thế giới, thậm chí là bức tường máu thịt kim loại phía sau vách pha lê, đều là một thể thống nhất, khung xương của ba căn phòng là một sinh vật sống khổng lồ.
 
 Theo thiết kế của Lý Khanh.
@@ -58,7 +58,7 @@ Cuốn sách ma pháp vừa mua vậy mà lại mọc ra một đôi môi đỏ 
 Lý Khanh cũng không nói nhiều, trực tiếp đi tới vùng ngoại ô hoang vắng gần đó.
 Hai tay vỗ một cái.
 Nhanh chóng xây dựng một căn nhà bằng gỗ, bên trong đồ đạc nội thất không thiếu thứ gì.
-Căn hộ ba phòng một phòng ở bên ngoài dạo gần đây anh rất ít khi ở, cơ bản đều là đi lại cư trú trong thế giới, ít nhất trông cũng có sức sống hơn một chút.
+Căn hộ ba phòng một phòng ở bên ngoài dạo gần đây hắn rất ít khi ở, cơ bản đều là đi lại cư trú trong thế giới, ít nhất trông cũng có sức sống hơn một chút.
 
 "Cháu tự chơi đi, đừng có làm loạn quá là được." Trong nhà truyền đến tiếng dặn dò.
 
@@ -110,40 +110,40 @@ Silph bắt đầu dùng đến sở trường của mình.
 "Khoan đã, cô làm gì thế? Sao lại cầm dao, con dao này ở đâu ra thế? Muốn giết tôi sao?" Tiếng hét thảm thiết xé lòng của cuốn sách truyền đến.
 
 Bên ngoài ồn ào náo nhiệt, Lý Khanh vẫn đang ở trong phòng sắp xếp thông tin.
-Anh ngồi trên một chiếc ghế, nghiên cứu sự phát triển trong tương lai.
+Hắn ngồi trên một chiếc ghế, nghiên cứu sự phát triển trong tương lai.
 Trên tờ giấy có viết:
 
 1. Thế giới Vu Sư.
 Nhân vật đại diện: Bộ ba vu sư, Minis, Tucasi, Silph-Naga.
 
 2. Thế giới Tận Thế.
-Nhân vật đại diện: Lý Uyển Ninh, Walton, Asol, Lục Láp, Ninh Quốc Xương.
+Nhân vật đại diện: Lý Uyển Ninh, Walton, Athol, Lục Láp, Ninh Quốc Xương.
 
 3. Thế giới Võ Đạo.
 Võ đạo hoàng đế?
 
 Lý Khanh xoa xoa huy đầu.
-Thế giới võ đạo là văn minh duy duy nhất mà anh không quản lý, cứ để mặc nó phát triển tự do, tốc độ phát triển không nhanh lắm, cảnh giới còn rất thấp, ngay cả truyền kỳ cũng chưa xuất hiện, dạo gần đây họ đang mê mẩn việc tạo ra sinh mệnh, đúc nặn thiên phú gen nhúng, đủ loại bí tịch tuyệt học võ thuật.
+Thế giới võ đạo là văn minh duy duy nhất mà hắn không quản lý, cứ để mặc nó phát triển tự do, tốc độ phát triển không nhanh lắm, cảnh giới còn rất thấp, ngay cả truyền kỳ cũng chưa xuất hiện, dạo gần đây họ đang mê mẩn việc tạo ra sinh mệnh, đúc nặn thiên phú gen nhúng, đủ loại bí tịch tuyệt học võ thuật.
 
 Kỹ thuật võ học rất đáng sợ, đi trên con đường của kỹ nghệ, nhưng cảnh giới thực tế vẫn còn rất thấp.
 Không có ngoại địch, họ liền chăm chỉ mài giũa, đặt nền móng vững chắc, nghiên cứu việc tạo ra sinh mệnh ở ba cảnh giới đầu.
 Vì vậy Lý Khanh vẫn luôn không để ý tới.
 
-Mục tiêu của anh là làm thí nghiệm đối chứng với thế giới tận thế bên cạnh, xem một bên bị áp lực điên cuồng và một bên được thả rông tự do thì giai đoạn sau sẽ như thế nào.
+Mục tiêu của hắn là làm thí nghiệm đối chứng với thế giới tận thế bên cạnh, xem một bên bị áp lực điên cuồng và một bên được thả rông tự do thì giai đoạn sau sẽ như thế nào.
 
 "Đáng tiếc, nhân tài phát triển đến bây giờ lại chẳng có mấy ai dùng được."
 Lý Khanh thở ra một luồng trọc khí.
-Theo anh thấy, nhân tài chia làm ba loại: loại nghiên cứu, loại chiến đấu và loại trí nang.
+Theo hắn thấy, nhân tài chia làm ba loại: loại nghiên cứu, loại chiến đấu và loại trí nang.
 
 Loại trí tuệ thì Walton là đại diện.
 Nhưng cũng là loại ít được coi trọng nhất, cóc ba chân khó tìm chứ cái loại trí nang hai chân này chẳng lẽ lại khó tìm sao? Tính thay thế quá cao.
 
-Nhân tài loại chiến đấu thuộc hàng ngũ Tucasi, Asol, Ninh Quốc Xương, có thể đánh, tài năng chiến đấu rất cao, nhưng cũng chỉ là biết đánh mà thôi, thực tế loại người này cũng không lọt được vào mắt Lý Khanh.
+Nhân tài loại chiến đấu thuộc hàng ngũ Tucasi, Athol, Ninh Quốc Xương, có thể đánh, tài năng chiến đấu rất cao, nhưng cũng chỉ là biết đánh mà thôi, thực tế loại người này cũng không lọt được vào mắt Lý Khanh.
 Biết đánh thì có ích gì?
 Ngươi đánh ai?
 Đánh ta sao?
 
-Mặc dù đối với một thời đại mà nói, dùng võ lực trấn áp là tất yếu, kẻ có nắm đấm lớn nhất là kẻ có lý nhất, như Asol của thế giới tận thế chính là trụ cột sức chiến đấu, không có anh ta thì nhân loại coi như xong, đóng vai trò như một chiến thần của văn minh.
+Mặc dù đối với một thời đại mà nói, dùng võ lực trấn áp là tất yếu, kẻ có nắm đấm lớn nhất là kẻ có lý nhất, như Athol của thế giới tận thế chính là trụ cột sức chiến đấu, không có hắn thì nhân loại coi như xong, đóng vai trò như một chiến thần của văn minh.
 Nhưng đối với một vị thần sáng thế như Lý Khanh mà nói, họ không bằng những nhân tài loại nghiên cứu thúc đẩy thời đại.
 
 Silph-Naga, giáo sư Lý Uyển Ninh, Silph-Mech chính là ba nhân vật đại diện, bản thân không quá giỏi đánh đấm nhưng lại là những nhân tài thuộc loại nghiên cứu.
@@ -163,6 +163,6 @@ Chẳng lẽ hắn có đặc dị công năng sao?
 Hay nói cách khác, hắn là siêu cấp Âu hoàng, một hơi ra hai thẻ SSR? Còn mình quay bấy lâu nay mà toàn ra cái loại gì đâu không, là một tên phi tử thực thụ?
 
 Về điểm này, xu hướng của Lý Khanh nghiêng về một khả năng hơn.
-Anh thầm viết xuống một dòng chữ trên giấy:
+Hắn thầm viết xuống một dòng chữ trên giấy:
 "Sự biến dị của lực lượng thời không."
 

@@ -16,11 +16,11 @@ Lộ trình tiến hóa này chính là một nền văn minh chủng tộc trí
 
 Kích thước nhỏ như vậy cũng là vì nguyên nhân phòng thí nghiệm, tài nguyên không đủ.
 
-"Không biết đội tiên phong của mình ở bên trong đó trà trộn như thế nào rồi. Đấu tranh nội bộ văn minh, đoạt quyền, mới thực sự là thủ đoạn trị tận gốc." Anh lấy điện thoại ra ngồi xổm xuống, đèn flash lóe sáng, trực tiếp chụp một tấm ảnh vào bên trong lớp kính.
+"Không biết đội tiên phong của mình ở bên trong đó trà trộn như thế nào rồi. Đấu tranh nội bộ văn minh, đoạt quyền, mới thực sự là thủ đoạn trị tận gốc." Hắn lấy điện thoại ra ngồi xổm xuống, đèn flash lóe sáng, trực tiếp chụp một tấm ảnh vào bên trong lớp kính.
 
 Tách!
 
-Sau đó anh mở album ảnh, dùng hai ngón tay phóng đại bức ảnh lên để quan sát.
+Sau đó hắn mở album ảnh, dùng hai ngón tay phóng đại bức ảnh lên để quan sát.
 
 "Vương quốc dưới đáy biển này, hiện tại đã đạt đến mức có thể dùng camera độ nét cao để quay lại cảnh tượng phim sử thi thần thoại rồi!"
 
@@ -118,7 +118,7 @@ Vị sử quan nhìn vị tà thần khổng lồ mờ ảo bên ngoài vách ng
 
 Lý Khanh: "..."
 
-Vị Thần vừa kinh ngạc vừa giận dữ hiện đang ở đâu vậy? Mặc dù lịch sử là do kẻ chiến thắng viết ra, nhưng vừa lên đã bịa đặt lịch sử một cách loạn xạ như thế này liệu có ổn không? Anh nhìn về phía nam của vương quốc, một nền tháp màu trắng kích thước cỡ ống nước máy thông thường, cao khoảng năm sáu centimet, đang sừng sững trên mặt đất.
+Vị Thần vừa kinh ngạc vừa giận dữ hiện đang ở đâu vậy? Mặc dù lịch sử là do kẻ chiến thắng viết ra, nhưng vừa lên đã bịa đặt lịch sử một cách loạn xạ như thế này liệu có ổn không? Hắn nhìn về phía nam của vương quốc, một nền tháp màu trắng kích thước cỡ ống nước máy thông thường, cao khoảng năm sáu centimet, đang sừng sững trên mặt đất.
 
 Vô số kỹ sư đang xua đuổi từng vị Hải Cự Nhân, ngày đêm xây dựng tòa cao tháp màu trắng này, tiêu tốn hết sức lực của cả đất nước.
 
@@ -158,11 +158,11 @@ Có học giả không hề sợ hãi, thẳng tắp xương sống, liều ch�
 
 Lý Khanh hơi cau mày.
 
-Anh còn chưa kịp nói gì.
+Hắn còn chưa kịp nói gì.
 
 Trên khung cửa sổ kính khổng lồ kia, ở một góc kính phía bên kia, vậy mà lại có người âm thầm đánh thủng tuyến phòng thủ biên giới của đế quốc, áp sát vào bên ngoài vách ngăn.
 
-Đó là một nhóm giáo đồ cuồng nhiệt, tỏa ra hơi thở quyến thuộc của chính mình, hét lớn về phía anh: "Thần, giáng lâm rồi. Chúng con cầu nguyện với Ngài, báo cáo cho Ngài biết những tội lỗi và nền tảng tích lũy mà người Atabia đã phạm phải trong những năm qua!"
+Đó là một nhóm giáo đồ cuồng nhiệt, tỏa ra hơi thở quyến thuộc của chính mình, hét lớn về phía hắn: "Thần, giáng lâm rồi. Chúng con cầu nguyện với Ngài, báo cáo cho Ngài biết những tội lỗi và nền tảng tích lũy mà người Atabia đã phạm phải trong những năm qua!"
 
 Được rồi, nội gián tới rồi.
 
@@ -186,7 +186,7 @@ Họ tin chắc vị ngoại thần là mình đây không thể giáng lâm xu�
 
 Đông!
 
-Anh hướng về một vị trí, dùng ngón tay gõ nhẹ vào cửa sổ kính.
+Hắn hướng về một vị trí, dùng ngón tay gõ nhẹ vào cửa sổ kính.
 
 Toàn bộ đơn vị đang leo trèo truy sát ở phía đối diện mặt kính, dường như phải chịu đựng một trận đại địa chấn cấp bảy vậy. Sự rung động mạnh mẽ của mặt kính khiến những con kiến nhỏ này trong phút chốc rơi xuống đất.
 

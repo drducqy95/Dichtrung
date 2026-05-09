@@ -48,17 +48,17 @@ Và khi nghe đến đây, trong lòng Lý Khanh khẽ nhẩm tính một chút:
 
 "Chỉ còn lại bốn mươi tỷ người sống sót, đúng là rất phù hợp với dự kiến. Dù sao thì vào thời kỳ đỉnh cao nhất, dân số cũng đã có mười bảy triệu tỷ người."
 
-Bản thân anh hiện tại đang không ngừng nâng cao siêu năng lực, hiện tại đã có thể điều khiển khoảng bốn tỷ dân số rồi, có thể khiến một phần mười dân số sống sót trở thành quyến thuộc của mình...
+Bản thân hắn hiện tại đang không ngừng nâng cao siêu năng lực, hiện tại đã có thể điều khiển khoảng bốn tỷ dân số rồi, có thể khiến một phần mười dân số sống sót trở thành quyến thuộc của mình...
 
-Bởi vì chủng vi khuẩn trí tuệ hoang dã chỉ trong tình trạng tự nguyện mới có thể một lần nữa trở thành quyến thuộc của anh.
+Bởi vì chủng vi khuẩn trí tuệ hoang dã chỉ trong tình trạng tự nguyện mới có thể một lần nữa trở thành quyến thuộc của hắn.
 
-Chỉ cần điều khiển được một phần mười tầng lớp quản lý này thì toàn bộ đất nước này sẽ rơi vào tay anh!
+Chỉ cần điều khiển được một phần mười tầng lớp quản lý này thì toàn bộ đất nước này sẽ rơi vào tay hắn!
 
 Dù sao thì những người bình thường thường chiếm tới chín mươi chín phần mười của một nền văn minh, nhưng lại không có tác dụng then chốt nào trong việc thúc đẩy văn minh cả.
 
 Lý Khanh nói là làm ngay.
 
-Anh cất lời bảo họ hãy đưa bốn tỷ người ưu tú nhất ra để ba ngày sau tiếp nhận sự tẩy lễ và chú ý của thánh quang, trở thành đợt tín đồ thành kính đầu tiên của giáo hội.
+Hắn cất lời bảo họ hãy đưa bốn tỷ người ưu tú nhất ra để ba ngày sau tiếp nhận sự tẩy lễ và chú ý của thánh quang, trở thành đợt tín đồ thành kính đầu tiên của giáo hội.
 
 "Cảm tạ Quang Minh Thần!"
 
@@ -76,9 +76,9 @@ Phải biết rằng những vị trí giả vương quốc đó đều là nh�
 
 Lý Khanh xoa xoa cằm: "Sau này có thể cứ làm như vậy."
 
-Số lượng điều khiển của anh là có hạn.
+Số lượng điều khiển của hắn là có hạn.
 
-Anh có thể một hơi tạo ra số lượng dân số cực lớn, sau đó diệt tuyệt, diệt tuyệt rồi lại diệt tuyệt, giống như nuôi cổ vậy. Đợi đến khi số lượng dân số tinh nhuệ nhất còn lại nằm trong tầm điều khiển được thì sẽ biến họ thành quyến thuộc của mình!
+Hắn có thể một hơi tạo ra số lượng dân số cực lớn, sau đó diệt tuyệt, diệt tuyệt rồi lại diệt tuyệt, giống như nuôi cổ vậy. Đợi đến khi số lượng dân số tinh nhuệ nhất còn lại nằm trong tầm điều khiển được thì sẽ biến họ thành quyến thuộc của mình!
 
 Như vậy mới có chất lượng.
 

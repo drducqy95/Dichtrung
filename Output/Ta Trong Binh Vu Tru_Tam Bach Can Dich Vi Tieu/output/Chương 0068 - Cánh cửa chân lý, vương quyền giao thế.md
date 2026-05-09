@@ -1,20 +1,20 @@
 ﻿# Chương 68 - Cánh cửa chân lý, vương quyền giao thế
 
-*Ào ào ào.* Phía bên kia, ý thức của Lý Khanh từ từ quay trở về cơ thể, anh mở mắt ra trong căn phòng thí nghiệm thứ ba.
+*Ào ào ào.* Phía bên kia, ý thức của Lý Khanh từ từ quay trở về cơ thể, hắn mở mắt ra trong căn phòng thí nghiệm thứ ba.
 
-Lý Khanh của hiện tại đã hoàn thành cuộc lột xác siêu năng lực giai đoạn thứ hai. Mức độ tăng trưởng về mọi mặt vẫn chưa được kiểm tra cụ thể, nhưng anh cảm nhận rõ rệt rằng: mình đã có thể tùy ý điều khiển việc bật mở siêu năng lực của đôi mắt. Mở mắt ra sẽ không còn nguy hiểm nữa. Anh đã có thể giống như một người bình thường.
+Lý Khanh của hiện tại đã hoàn thành cuộc lột xác siêu năng lực giai đoạn thứ hai. Mức độ tăng trưởng về mọi mặt vẫn chưa được kiểm tra cụ thể, nhưng hắn cảm nhận rõ rệt rằng: mình đã có thể tùy ý điều khiển việc bật mở siêu năng lực của đôi mắt. Mở mắt ra sẽ không còn nguy hiểm nữa. Hắn đã có thể giống như một người bình thường.
 
-Tất cả là nhờ Herodotus lần này đã giúp anh có được một kỳ ngộ, một hơi vượt qua được giai đoạn nguy hiểm này. Hoàn toàn phá kén thành bướm rồi.
+Tất cả là nhờ Herodotus lần này đã giúp hắn có được một kỳ ngộ, một hơi vượt qua được giai đoạn nguy hiểm này. Hoàn toàn phá kén thành bướm rồi.
 
-"Phải nói rằng, đây là một bất ngờ." Anh thầm nghĩ.
+"Phải nói rằng, đây là một bất ngờ." Hắn thầm nghĩ.
 
 Lúc này đây, Lý Khanh phát hiện mình không chỉ có thể cảm ứng được các luồng sóng xung quanh mà còn có thể linh hồn xuất khiếu. Sau khi linh hồn xuất khiếu, đôi mắt của linh hồn cũng sở hữu năng lực 【Thức tỉnh】 sinh mệnh.
 
 Trước đó vào khoảnh khắc cuối cùng, Lý Khanh đã linh hồn xuất khiếu, thử dùng đôi mắt của mình quan sát Herodotus để xem năng lực mới thức tỉnh của mình có thể cứu được ông hay không. Nhưng thật đáng tiếc... Ông vẫn tan biến giữa trời đất.
 
-Tuy nhiên, Lý Khanh có một cảm giác kỳ lạ. Anh vẫn mơ hồ cảm nhận được sự hiện diện của Herodotus. Khi anh chuyển sang góc nhìn của Herodotus, anh phát hiện đó là một góc nhìn từ trên cao nhìn xuống. Ý thức của Herodotus sau khi chết hệt như biến thành một cơn gió, phiêu du khắp vách ngăn pha lê. Thậm chí còn xuyên qua lớp kính, từ căn phòng Tinh Linh thứ nhất đến phòng khách, rồi tới thế giới Thâm Uyên thứ hai, và tới tận phòng thí nghiệm trước mắt này. Ông cứ phiêu du trong căn phòng thí nghiệm khép kín của anh hệt như một phược địa linh.
+Tuy nhiên, Lý Khanh có một cảm giác kỳ lạ. Hắn vẫn mơ hồ cảm nhận được sự hiện diện của Herodotus. Khi hắn chuyển sang góc nhìn của Herodotus, hắn phát hiện đó là một góc nhìn từ trên cao nhìn xuống. Ý thức của Herodotus sau khi chết hệt như biến thành một cơn gió, phiêu du khắp vách ngăn pha lê. Thậm chí còn xuyên qua lớp kính, từ căn phòng Tinh Linh thứ nhất đến phòng khách, rồi tới thế giới Thâm Uyên thứ hai, và tới tận phòng thí nghiệm trước mắt này. Ông cứ phiêu du trong căn phòng thí nghiệm khép kín của hắn hệt như một phược địa linh.
 
-Ban đầu, Lý Khanh tưởng ông đã biến thành linh hồn. Nhưng sau đó, anh dần phát hiện linh hồn này căn bản không có ý thức, chỉ là đang trôi dạt tùy ý, không có bản ngã, giống như một mớ hỗn độn rác thải ý thức linh hồn.
+Ban đầu, Lý Khanh tưởng ông đã biến thành linh hồn. Nhưng sau đó, hắn dần phát hiện linh hồn này căn bản không có ý thức, chỉ là đang trôi dạt tùy ý, không có bản ngã, giống như một mớ hỗn độn rác thải ý thức linh hồn.
 
 "Không cứu được, có lẽ vẫn là chết rồi." Lý Khanh thầm thở dài một tiếng. "Cũng phải, chuyện này vốn dĩ gần như không thể có kỳ tích, không thành công mới là lẽ đương nhiên."
 
@@ -22,19 +22,19 @@ Ban đầu, Lý Khanh tưởng ông đã biến thành linh hồn. Nhưng sau đ
 
 "Thậm chí gọi là nghĩa địa cũng không thỏa đáng, dường như đây là một con ma vật hỗn loạn không có ý thức, là tàn dư của văn minh cũ trong hư không, là sự ác độc của hỗn độn."
 
-Luồng linh hồn du hỏa tích hợp ý thức này đang phiêu du và ngưng luyện giữa không trung. Tuy không biết nguyên nhân hình thành cụ thể, nhưng có lẽ có thể thay thế vai trò của camera. Anh chỉ cần chuyển sang góc nhìn của "quyến thuộc thây ma" này là có thể biến thành cơn gió kia để quan sát đại địa. Dù sao sau khi chuyện này xảy ra, camera cũng không còn thích hợp để tiếp tục sử dụng nữa. Nhưng việc có camera hay không vốn dĩ chỉ là chuyện nhỏ, hiện tại anh có quá nhiều phương pháp để thay thế việc giám sát đại địa.
+Luồng linh hồn du hỏa tích hợp ý thức này đang phiêu du và ngưng luyện giữa không trung. Tuy không biết nguyên nhân hình thành cụ thể, nhưng có lẽ có thể thay thế vai trò của camera. Hắn chỉ cần chuyển sang góc nhìn của "quyến thuộc thây ma" này là có thể biến thành cơn gió kia để quan sát đại địa. Dù sao sau khi chuyện này xảy ra, camera cũng không còn thích hợp để tiếp tục sử dụng nữa. Nhưng việc có camera hay không vốn dĩ chỉ là chuyện nhỏ, hiện tại hắn có quá nhiều phương pháp để thay thế việc giám sát đại địa.
 
 "Chao ôi, rốt cuộc vẫn không sống sót được." Lý Khanh bỗng cảm khái.
 
-Một Atabia, xây dựng tháp Babel mưu đồ trở thành người khổng lồ, nay đang trường miên trên cây. Một Herodotus, trở thành sinh vật cứu cực mưu cầu sở hữu tinh hạch, nay đang phiêu du trên trời. Nhưng anh cũng biết, mình nên thích nghi với những điều này. Anh là người dẫn dắt, là người chứng kiến của một văn minh. Văn minh luôn có sự giao thế, anh hùng rồi cũng sẽ ra đi. Những anh hùng thời đại không thể giữ lại thì rốt cuộc cũng không giữ lại được.
+Một Atabia, xây dựng tháp Babel mưu đồ trở thành người khổng lồ, nay đang trường miên trên cây. Một Herodotus, trở thành sinh vật cứu cực mưu cầu sở hữu tinh hạch, nay đang phiêu du trên trời. Nhưng hắn cũng biết, mình nên thích nghi với những điều này. Hắn là người dẫn dắt, là người chứng kiến của một văn minh. Văn minh luôn có sự giao thế, anh hùng rồi cũng sẽ ra đi. Những anh hùng thời đại không thể giữ lại thì rốt cuộc cũng không giữ lại được.
 
-Văn minh Trái Đất với lịch sử năm ngàn năm cũng trưởng thành trong sự giao thế thay đổi của các triều đại, nuôi dưỡng văn minh của nhân loại, cũng từng xuất hiện không ít nhân kiệt biến mất trong dòng lịch sử. Mà hiện tại, đây mới chỉ là một thế giới phòng thí nghiệm mà thôi. Tương lai thì sao? Anh càng tạo ra nhiều thế giới trong các sa bàn phòng thí nghiệm, văn minh càng hưng thịnh thì những chuyện gặp phải sẽ càng nhiều hơn.
+Văn minh Trái Đất với lịch sử năm ngàn năm cũng trưởng thành trong sự giao thế thay đổi của các triều đại, nuôi dưỡng văn minh của nhân loại, cũng từng xuất hiện không ít nhân kiệt biến mất trong dòng lịch sử. Mà hiện tại, đây mới chỉ là một thế giới phòng thí nghiệm mà thôi. Tương lai thì sao? Hắn càng tạo ra nhiều thế giới trong các sa bàn phòng thí nghiệm, văn minh càng hưng thịnh thì những chuyện gặp phải sẽ càng nhiều hơn.
 
 "Cuối cùng cũng nhẹ nhõm rồi!" Lý Khanh đứng dậy, bước ra ngoài cửa.
 
-Anh bỗng cảm thấy lòng mình có chút trống trải và phóng khoáng. Quãng đời còn lại về sau rốt cuộc không cần phải nhắm mắt nữa rồi.
+Hắn bỗng cảm thấy lòng mình có chút trống trải và phóng khoáng. Quãng đời còn lại về sau rốt cuộc không cần phải nhắm mắt nữa rồi.
 
-"Thế giới này thật đẹp." Thị lực của Lý Khanh là chưa từng có tiền lệ. Nhìn những đốm sáng lấp lánh của những vì sao đêm, bầu trời đêm bao la hệt như một dải ngân hà treo lơ lửng. Trăng sáng trên cao, muôn vì sao rực rỡ. Đôi mắt của anh cuối cùng đã có thể sử dụng một cách không kiêng nể gì rồi.
+"Thế giới này thật đẹp." Thị lực của Lý Khanh là chưa từng có tiền lệ. Nhìn những đốm sáng lấp lánh của những vì sao đêm, bầu trời đêm bao la hệt như một dải ngân hà treo lơ lửng. Trăng sáng trên cao, muôn vì sao rực rỡ. Đôi mắt của hắn cuối cùng đã có thể sử dụng một cách không kiêng nể gì rồi.
 
 "Có lẽ, trạng thái đó của Herodotus — phá vỡ xiềng xích bước vào ngưỡng trên gấp ba mươi ba lần tốc độ, trong trạng thái ngộ đạo mà chết đi thần tốc — có lẽ có thể gọi là Cánh Cửa Chân Lý."
 "Thấy được chân lý, sáng nghe đạo chiều có thể chết."

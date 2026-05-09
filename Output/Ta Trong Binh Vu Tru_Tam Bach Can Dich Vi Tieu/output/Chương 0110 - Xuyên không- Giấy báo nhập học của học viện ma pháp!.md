@@ -2,21 +2,21 @@
 
 Lý Khanh vẫn đang đào hang tự động toàn diện hai mươi tư giờ mỗi ngày, dự kiến thêm một ngày nữa là có thể đào tới độ sâu hai nghìn mét.
 
-Kết quả là vào buổi tối, anh nhận được một thông tin đầy bất ngờ, là do công ty điện ảnh từ mấy tháng trước gửi tới.
+Kết quả là vào buổi tối, hắn nhận được một thông tin đầy bất ngờ, là do công ty điện ảnh từ mấy tháng trước gửi tới.
 
 "《Tiếng gọi Cthulhu》 sắp được công chiếu ở Mỹ rồi sao?"
 
-Anh đứng hình mất vài giây. Lý Khanh lên mạng tìm kiếm một chút, nhất thời có chút kinh ngạc. Bộ phim kinh phí thấp này đã trở thành một chú ngựa đen, gần đây gây ra sóng gió không nhỏ ở trong nước. Nhìn ảnh kể chuyện, các kênh truyền thông tiếp thị, doanh thu phòng vé trong nước vậy mà lên tới hơn chín mươi triệu? Hơn nữa, hiện tại họ còn cho rằng bên này phù hợp với thị hiếu hơn, trực tiếp đem sang đây công chiếu luôn?
+Hắn đứng hình mất vài giây. Lý Khanh lên mạng tìm kiếm một chút, nhất thời có chút kinh ngạc. Bộ phim kinh phí thấp này đã trở thành một chú ngựa đen, gần đây gây ra sóng gió không nhỏ ở trong nước. Nhìn ảnh kể chuyện, các kênh truyền thông tiếp thị, doanh thu phòng vé trong nước vậy mà lên tới hơn chín mươi triệu? Hơn nữa, hiện tại họ còn cho rằng bên này phù hợp với thị hiếu hơn, trực tiếp đem sang đây công chiếu luôn?
 
 "Thật xin lỗi, số tiền này anh đã bán đứt rồi..." Đối phương có chút ngại ngùng, dù sao đây cũng đã được coi là bán chạy rồi, "Tuy nhiên, tôi có thể chia thêm một ít tiền cho anh, chúng ta sẽ hợp tác tiếp ở phần sau."
 
 Họ đã bắt đầu nghĩ đến phần sau rồi. Lý Khanh không thèm để ý đến hắn: "Tiền thì tôi không cần đâu, cứ thế đi."
 
-Lý Khanh tắt máy tính, bắt đầu suy nghĩ về một vấn đề. Bộ phim sắp được công chiếu ngay tại đây, vậy chẳng phải Suzanne, Sylph và những người khác sẽ nhìn thấy sao? Trước đây anh không lo lắng lắm. Bởi vì người ta đâu phải toàn tri toàn năng, mỗi tháng trên toàn cầu có bao nhiêu bộ phim nhỏ lẻ công chiếu? Lại còn ở một quốc gia khác, nhìn thấy được mới là lạ.
+Lý Khanh tắt máy tính, bắt đầu suy nghĩ về một vấn đề. Bộ phim sắp được công chiếu ngay tại đây, vậy chẳng phải Suzanne, Sylph và những người khác sẽ nhìn thấy sao? Trước đây hắn không lo lắng lắm. Bởi vì người ta đâu phải toàn tri toàn năng, mỗi tháng trên toàn cầu có bao nhiêu bộ phim nhỏ lẻ công chiếu? Lại còn ở một quốc gia khác, nhìn thấy được mới là lạ.
 
 Đây là một đạo lý vô cùng hiển nhiên, thế giới rộng lớn như vậy, ai mà lại đi xem hết phim công chiếu hàng tháng của các nước, từ phim hay đến phim rác đều xem hết một lượt? Huống hồ, Sylph, Walton những người này bận tối mắt tối mũi, rảnh rỗi đâu mà đi xem phim nước ngoài.
 
-"Có chút rắc rối." Lý Khanh trầm tư một chút. Anh đành phải hạ một lệnh ức chế bản năng ý thức cho bọn người Sylph, Walton, tương tự như thôi miên, để họ lờ đi sự bất hợp lý của chuyện này.
+"Có chút rắc rối." Lý Khanh trầm tư một chút. Hắn đành phải hạ một lệnh ức chế bản năng ý thức cho bọn người Sylph, Walton, tương tự như thôi miên, để họ lờ đi sự bất hợp lý của chuyện này.
 
 "Ừm, cũng ổn rồi." Lý Khanh nhanh chóng không để ý đến nữa. Tiếp tục đào hố. Trở thành ông trùm bất động sản, hiện tại hai căn phòng thí nghiệm văn minh kia quá nhỏ rồi, trước tiên cứ làm một cái văn minh địa tâm cho xong đã.
 

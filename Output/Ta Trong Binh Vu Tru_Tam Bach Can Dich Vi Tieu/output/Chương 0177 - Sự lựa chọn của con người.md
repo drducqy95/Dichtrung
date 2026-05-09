@@ -2,7 +2,7 @@
 
 "...Đèn kéo quân trước khi chết của ngươi vẫn không nỡ từ bỏ quê hương trên Trái Đất sao?"
 
-Câu nói này vừa dứt, tất cả các nhà khoa học Trái Đất đứng đầu là Asol, Lý Uyển Ninh đều có thần sắc vô cùng nghiêm trọng.
+Câu nói này vừa dứt, tất cả các nhà khoa học Trái Đất đứng đầu là Athol, Lý Uyển Ninh đều có thần sắc vô cùng nghiêm trọng.
 Họ mặc áo blouse trắng, đứng trước máy chiếu, nhìn vào đống đổ nát, đội ngũ trí nang của cả văn minh đang không ngừng phân tích và nghiên cứu.
 
 Đèn kéo quân trước khi chết của một thực thể vĩ đại nào đó?
@@ -15,7 +15,7 @@ Thời đại ngày nay đã thay đổi, họ đã phát hiện ra cái gọi l
 
 "Chúng ta vẫn luôn chống lại dị biến, nhưng thực tế, chúng ta vốn dĩ lúc nào cũng đang phải chịu đựng dị biến! Chúng ta bị dị biến thành những diễn viên trong lịch sử, thành từng hình ảnh thu nhỏ, những kẻ đóng thế của thời đại."
 
-Asol bỗng nhiên nhớ lại những hình ảnh trong giấc mơ, mọi thứ hoàn toàn sáng tỏ.
+Athol bỗng nhiên nhớ lại những hình ảnh trong giấc mơ, mọi thứ hoàn toàn sáng tỏ.
 "Chúng ta, có lẽ ngay từ đầu đã không phải là con người??"
 "Chúng ta chỉ đang đóng vai tất cả mọi thứ trong lịch sử nhân loại!"
 
@@ -30,7 +30,7 @@ Ngay khi mọi người còn đang hoảng hốt bất an, người đàn ông c
 Giọng ông ta rất lạnh, uy áp như cuồng phong gào thét, như sóng dữ vỗ bờ, khiến tầm nhìn của mọi người đều mờ đi, dường như không nhìn thấy bất cứ thứ gì.
 
 "Đừng có vọng tưởng chiến đấu với ta, những sinh mệnh trong văn minh, liệu có định chiến đấu với động đất, bão tố, hay những luồng thời không hỗn loạn không?"
-Ông ta dường như đã nhìn thấy một số động tác nhỏ của Asol và Ninh Quốc Xương.
+Ông ta dường như đã nhìn thấy một số động tác nhỏ của Athol và Ninh Quốc Xương.
 Loại âm thanh đó mang theo một cảm giác bá đạo, ngang tàng vô kỵ.
 
 Chỉ cần ông ta lặng lẽ đứng đó, đã mang lại cho người ta một cảm giác: Duy ngã độc tôn, vị thần thực sự duy nhất trên trời dưới đất.
@@ -49,7 +49,7 @@ Thực thể này cũng không thèm để ý tới những kẻ mạnh nhất t
 Ông ta bỗng nhiên ngâm nga:
 "Chỉ còn lại mình ta thôi."
 
-Ninh Quốc Xương và Asol, hai kẻ thực sự đang chiến đấu, cuối cùng cũng hoàn hồn.
+Ninh Quốc Xương và Athol, hai kẻ thực sự đang chiến đấu, cuối cùng cũng hoàn hồn.
 Thực thể này sẽ mãi mãi tồn tại trong thế giới sao?
 Một thực thể cổ xưa như vậy hoàn toàn ngự trị, vậy thế giới của chúng ta sẽ biến thành cái dạng gì?
 
@@ -85,7 +85,7 @@ Nocloron lắc đầu:
 
 Cái đèn kéo quân đó đối với các ngươi mà nói, thậm chí có thể nói là một sự ban ơn của văn minh, các ngươi chỉ trong vòng chưa đầy mấy chục năm đã đi hết con đường mà các văn minh khác ít nhất phải mất hàng trăm năm, đương nhiên, cái giá phải trả là quên mất mình từng là ai."
 
-"Cái giá?" Asol lớn tiếng hỏi.
+"Cái giá?" Athol lớn tiếng hỏi.
 
 "Thế giới là cân bằng, vạn sự vạn vật, không có gì là không có cái giá của nó." Nocloron nói: "Các ngươi cũng vậy, nhận được ân huệ, tất yếu phải gánh vác điều gì đó, việc đầu tiên của sinh mệnh chính là kính sợ."
 
@@ -102,7 +102,7 @@ Nocloron nói: "Các ngươi đã nhận được truyền thừa, tự nhiên m
 
 "Không! Không muốn quan tâm đến những chuyện rắc rối đó, đây là tai họa từ trên trời rơi xuống, tôi chỉ muốn biến trở lại hoàn toàn là chính mình thôi!"
 
-Asol lúc này gào lớn: "Tính cách của tôi, ký ức của tôi, ước mơ của tôi, sự hy sinh của Asol với tư cách là anh hùng cho nhân loại trong từng vòng luân hồi đều là giả dối, tôi chẳng qua chỉ là một con rối, tôi muốn trở thành chính mình thực sự!"
+Athol lúc này gào lớn: "Tính cách của tôi, ký ức của tôi, ước mơ của tôi, sự hy sinh của Asol với tư cách là anh hùng cho nhân loại trong từng vòng luân hồi đều là giả dối, tôi chẳng qua chỉ là một con rối, tôi muốn trở thành chính mình thực sự!"
 
 "Hừ, xong việc giết lừa sao?"
 Nocloron nói: "Các ngươi có một cái Giáo phụ kết xã, ta thấy rất thú vị, cho dù không phải con đẻ nhưng cha mẹ người phỏng sinh vẫn yêu thương các ngươi, mở đường cho các ngươi, che mưa chắn gió, coi như con đẻ... Nhưng lũ trẻ khổng lồ đó cũng nói như ngươi vậy."

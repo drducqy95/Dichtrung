@@ -36,7 +36,7 @@ Kẻ thích ứng này là một chàng thanh niên tóc nâu tên là Angly.
 Có dòng máu lai Inca tương đối thuần chủng, và bản thân tư chất tu luyện vô cùng đáng kinh ngạc, trở thành đại não của người khổng lồ, đồng thời điều khiển tu luyện, dưới sự hỗ trợ của vô số nhà khoa học đã tiến bộ vượt bậc.
 
 "Kiểm tra thêm một thời gian nữa!"
-Asol hét lớn:
+Athol hét lớn:
 "Số lượng của chúng rất đông, vũ khí của chúng ta chỉ có thể miễn cưỡng áp chế, việc bị đánh chiếm sớm muộn gì cũng xảy ra. Nhưng nếu Angly có thể trỗi dậy thì..."
 
 Cùng là lục giai, thể hình của người khổng lồ vô cùng đồ sộ.
@@ -62,21 +62,21 @@ Tuy nhiên, vị nhà khoa học hiếm có Wells này, kẻ từng được g�
 "Tôi không nghiên cứu ra được bất cứ thứ gì nữa!"
 Wells ôm đầu, vô cùng đau khổ.
 
-Mà Lý Khanh nhìn thấy chỉ lắc đầu, anh biết nguyên nhân là gì, "Dù sao thì cũng chỉ là bản sao ký ức mà thôi, đâu phải là kế thừa tư chất."
+Mà Lý Khanh nhìn thấy chỉ lắc đầu, hắn biết nguyên nhân là gì, "Dù sao thì cũng chỉ là bản sao ký ức mà thôi, đâu phải là kế thừa tư chất."
 
 Chỉ là một người tương tự, kế thừa ký ức, làm sao có thể kế thừa tài tình?
-Nếu đơn giản như vậy thì bản thân anh đã không thiếu thiên tài và yêu nghiệt rồi!
+Nếu đơn giản như vậy thì bản thân hắn đã không thiếu thiên tài và yêu nghiệt rồi!
 Nếu sao chép ký ức của Herodotus mà có thể sản xuất hàng loạt một đống Herodotus thì chẳng phải là lập tức cất cánh sao?
 
 Trong thực tế, Lý Khanh cũng từng tìm kiếm Wells này, không ngờ từ nhỏ đã chết vì tai nạn xe cộ, vô cùng đáng tiếc.
 Xem ra Wells này —— vị vĩ nhân của thời đại —— mới chính là điểm rẽ của hai thế giới song song.
 
-Bởi vì Asol là học trò của vị này, dưới sự giúp đỡ của ông mới thực hiện được phản ứng nhiệt hạch, vì vậy không bị rơi vào cảnh có tài mà không có đất dụng võ, bị chèn ép trong thời không của chính mình.
+Bởi vì Athol là học trò của vị này, dưới sự giúp đỡ của ông mới thực hiện được phản ứng nhiệt hạch, vì vậy không bị rơi vào cảnh có tài mà không có đất dụng võ, bị chèn ép trong thời không của chính mình.
 
 Không có một mãnh nhân rõ ràng có thể sánh ngang với Herodotus như vậy, việc này khiến Lý Khanh có chút thất vọng, "Quả nhiên, nghiên cứu á không gian này chỉ có một đoạn, phải khai thác những thiên tài nghiên cứu về phương diện này để tiếp tục nghiên cứu của đối phương."
 
 Đồng thời.
-Asol trước mắt trông có vẻ là chuyên gia phản ứng nhiệt hạch, nhưng có thực sự như vậy không?
+Athol trước mắt trông có vẻ là chuyên gia phản ứng nhiệt hạch, nhưng có thực sự như vậy không?
 Sở dĩ hắn không bị vạch trần là vì tận thế đến, không có nơi nào cho hắn nghiên cứu phản ứng nhiệt hạch mà thôi.
 Đều là có ký ức mà không có tài tình tương ứng.
 

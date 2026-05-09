@@ -64,7 +64,7 @@ Vô số người vừa khóc vừa nghĩ.
 
 Tận thế, kéo dài được bốn năm.
 
-"Tôi sẽ còn trở lại!" Asol mang theo ánh mắt hận thù, âm thầm dẫn theo vài người sống sót bước lên phòng thí nghiệm dưới lòng đất bí mật kia.
+"Tôi sẽ còn trở lại!" Athol mang theo ánh mắt hận thù, âm thầm dẫn theo vài người sống sót bước lên phòng thí nghiệm dưới lòng đất bí mật kia.
 
 "Tới doanh trại đi, họ có lẽ đã bắt đầu khởi động cỗ máy thần bí đó rồi, hãy tìm vị trí và phương hướng cụ thể của đối phương, xem thử đó là thứ gì!"
 Mấy vị lĩnh chủ zombie đuổi theo truy sát để ngăn chặn cỗ máy thời không thần bí đó.
@@ -81,7 +81,7 @@ Ninh Quốc Xương sắc mặt trầm xuống, nhìn về phía vụ nổ lớn
 Ở phía bên kia.
 Trong phòng thí nghiệm dưới lòng đất, ở đây đang đứng mười mấy tinh anh của nhân loại, sắc mặt ai nấy đều mang vẻ tĩnh lặng, trầm mặc.
 
-Asol đột nhiên bật khóc nức nở.
+Athol đột nhiên bật khóc nức nở.
 Mà Lý Uyển Ninh mang theo Suzanne cũng đang co cụm ở đây.
 Lý Uyển Ninh im lặng một lát: "Angly, tôi quá chậm rồi... Nếu như kỹ thuật của tôi nhanh hơn một chút nữa."
 
@@ -94,7 +94,7 @@ Hắn cầm một chiếc USB, trên đó là câu chuyện đã chuẩn bị s�
 
 Mọi người lặng im hồi lâu, đứng lặng rất lâu.
 
-"Chúng ta rồi cũng sẽ có một ngày bước lên con đường đó." Asol run rẩy khẽ nói: "Chúng ta cũng sẽ trở thành lịch sử, trong một quyển thi thiên tận thế nào đó mà ông ghi chép."
+"Chúng ta rồi cũng sẽ có một ngày bước lên con đường đó." Athol run rẩy khẽ nói: "Chúng ta cũng sẽ trở thành lịch sử, trong một quyển thi thiên tận thế nào đó mà ông ghi chép."
 
 "Có lẽ vậy!" Walton vuốt ve chiếc USB trong tay, giống như vuốt ve người tình.
 Mà cho dù có khổ cực mệt mỏi đến đâu, Walton cũng không quên đi ước mơ vĩ đại của một nhà làm phim như mình.
@@ -151,7 +151,7 @@ Cũng đương nhiên rồi.
 Rất có thể cũng không phải là kém hơn, chỉ là trước đó vẫn luôn bị nhốt trong phòng riêng, thể hình quá nhỏ, hạn chế sự phát triển, một căn phòng rộng mấy chục mét vuông thì làm được gì?
 Bây giờ thả ra ngoài, có lẽ tốc độ cũng sẽ xuất hiện sự bùng nổ lớn.
 
-"Mà kỹ thuật á không gian mới thực sự là dũng mãnh, cái bán thành phẩm đó nếu có thể hoàn thiện được..." Trong lòng anh rất mong đợi.
+"Mà kỹ thuật á không gian mới thực sự là dũng mãnh, cái bán thành phẩm đó nếu có thể hoàn thiện được..." Trong lòng hắn rất mong đợi.
 
 Chỉ là việc tu sửa cái mớ hỗn độn này có chút phiền phức rồi.
 Nhưng thu hoạch khổng lồ nên Lý Khanh cũng không sợ phiền nữa.
@@ -160,7 +160,7 @@ Nhưng thu hoạch khổng lồ nên Lý Khanh cũng không sợ phiền nữa.
 Lý Khanh cúi người ngồi xuống, nhấc tấm trần của phòng thí nghiệm dưới lòng đất lên.
 Nhìn những nhân loại mô hình nhỏ bé mười centimet đang phủ phục khóc lóc, thần thái đủ kiểu, đang ở trạng thái đứng hình bên trong.
 
-Ánh mắt anh cuối cùng dừng lại trên người Walton đang cầm chiếc USB tưởng niệm, "Thời gian trôi đi, vượt qua nỗi nhớ nhung của mỗi một thời không, ước mơ làm phim của ông không bao giờ lụi tàn đúng không?"
+Ánh mắt hắn cuối cùng dừng lại trên người Walton đang cầm chiếc USB tưởng niệm, "Thời gian trôi đi, vượt qua nỗi nhớ nhung của mỗi một thời không, ước mơ làm phim của ông không bao giờ lụi tàn đúng không?"
 
 Lắc đầu một cái, cũng không ngăn cản.
 Một số lịch sử cần được ghi nhớ, đây không chỉ là để mặc niệm những anh hùng, mà còn là những bia phong đài khích lệ những người đời sau tiếp nối ngọn đuốc.

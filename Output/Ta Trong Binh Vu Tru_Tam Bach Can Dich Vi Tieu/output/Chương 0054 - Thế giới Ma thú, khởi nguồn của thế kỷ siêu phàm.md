@@ -1,6 +1,6 @@
 # Chương 0054: Thế giới Ma thú, khởi nguồn của thế kỷ siêu phàm
 
-Quá trình này, anh đã làm quen tay rồi.
+Quá trình này, hắn đã làm quen tay rồi.
 Một giờ sau, Lý Khanh xuất hiện với chiếc đèn pin trên gáy, lưng đeo một bình chứa nước tương tự như bình tưới hoa, tay cầm một ống vòi, bắt đầu bổ sung các chất dinh dưỡng vào bên trong, cảm giác hệt như định kỳ tưới nước bón phân cho khu vườn vậy.
 Đó đại khái là một loại chất lỏng sền sệt giống như thức ăn cho chó mèo hòa tan, cùng với một số thứ linh tinh khác, chứa đầy đủ các chất dinh dưỡng toàn diện.
 Oành!
@@ -16,7 +16,7 @@ Giây phút này, họ cảm thấy cực kỳ thiếu an toàn, khao khát ph�
 Lý Khanh phun xong dung dịch dinh dưỡng, sau đó hiếm hoi thực hiện một lần nhìn chằm chằm "tẩy lễ" đối với chúng thần trong thế giới vách tinh bích.
 Thần ân tẩy lễ, sự gia trì của Thần Ánh Sáng.
 Ánh nắng ấm áp tỏa xuống, nhẹ nhàng nuôi dưỡng linh hồn họ.
-Đồng thời, anh cũng để lại một câu nói để tăng thêm chút áp lực cho thế giới Tinh Linh.
+Đồng thời, hắn cũng để lại một câu nói để tăng thêm chút áp lực cho thế giới Tinh Linh.
 "Thế giới Vực Thẳm có khả năng phục sinh Đại Quân Ác Ma, đó là một thực thể từng cố gắng đột phá ra ngoài vách ngăn, mưu cầu trở thành thần như chúng ta, hãy cẩn thận."
 Sau khi nhận được lượng lớn tài nguyên, toàn bộ tộc Tinh Linh và nhân tộc trên mặt đất đều chìm trong tiếng reo hò.
 Nếu không phải vì chiến tranh đang nổ ra, có lẽ họ đã không kìm lòng được mà tổ chức những bữa tiệc náo nhiệt, ca hát nhảy múa rồi.

@@ -37,7 +37,7 @@ Toàn bộ đường hầm thế giới vừa bị Thần Lôi Đình đâm th�
 "Cuối cùng cũng hoàn thành công trình, có điều... con nhện Elis đó đúng là biết diễn thật!" Lý Khanh lắc đầu cười khổ, đặt dụng cụ trong tay xuống.
 Dù sao đó cũng là chúng thần.
 Elise do họ tạo ra, cảm thấy kích động và phấn khích là chuyện đương nhiên.
-Lý Khanh có thể nói là dụng cụ đầy đủ. Anh cầm một lò sắt, bên trong là dung dịch thủy tinh nóng chảy ở nhiệt độ cao, dùng thủy tinh nung chảy tạm thời bịt miệng lỗ lại rồi rời đi.
+Lý Khanh có thể nói là dụng cụ đầy đủ. Hắn cầm một lò sắt, bên trong là dung dịch thủy tinh nóng chảy ở nhiệt độ cao, dùng thủy tinh nung chảy tạm thời bịt miệng lỗ lại rồi rời đi.
 Đây không phải là kính cường lực, mà chỉ là thủy tinh thông thường mà thôi.
 Miệng lỗ này được bịt bằng thủy tinh, chỉ cần dùng lực đẩy một cái là cả khối trụ thủy tinh sẽ rơi xuống.
 Việc chặn lối vào là để cho thế giới Tinh Linh có thời gian thở dốc chuẩn bị chiến đấu sao?
@@ -46,10 +46,10 @@ Là để cho thế giới Vực Thẳm.
 Nếu bây giờ họ xuyên qua đây thì sẽ lập tức hiểu ra ngay, thế giới Vực Thẳm chỉ có ba thuộc hạ mà thôi, ba vị chúa tể Vực Thẳm, ngoài ra thì trống trơn không có gì cả.
 "Cơ bản đã hoàn thành."
 Lý Khanh thu dọn dụng cụ, rời khỏi căn phòng này, "Đã đến lúc tạo ra một lượng lớn sinh mệnh tầng lớp thấp của Vực Thẳm rồi."
-Đây chắc hẳn là lần cuối cùng bản thể anh tiến vào thế giới Vực Thẳm này.
-Anh đi ra ngoài phòng, hàn chết hoàn toàn cánh cửa ra vào.
-Dưới góc nhìn vi mô, sau khi hàn cửa một cách hoàn mỹ không tì vết, anh đứng trước cửa sổ kính, dùng cồn lau sạch lớp kính bên này rồi nhìn vào thế giới Vực Thẳm.
-Anh bắt đầu lần sáng thế đầu tiên của riêng mình.
+Đây chắc hẳn là lần cuối cùng bản thể hắn tiến vào thế giới Vực Thẳm này.
+Hắn đi ra ngoài phòng, hàn chết hoàn toàn cánh cửa ra vào.
+Dưới góc nhìn vi mô, sau khi hàn cửa một cách hoàn mỹ không tì vết, hắn đứng trước cửa sổ kính, dùng cồn lau sạch lớp kính bên này rồi nhìn vào thế giới Vực Thẳm.
+Hắn bắt đầu lần sáng thế đầu tiên của riêng mình.
 "Các con, hãy xuất hiện trong thế giới Vực Thẳm đi."
 Một giây.
 Hai giây.
@@ -63,8 +63,8 @@ Những sinh vật đơn bào này thực sự được sinh ra trong một đ�
 "Phòng thí nghiệm văn minh thứ hai chính thức bắt đầu."
 "Sau này có đại chiến văn minh, mình có thể ngồi ở phòng khách quan sát cuộc chiến của hai căn phòng, cuộc chiến của các vị thần xuyên qua vách ngăn pha lê."
 Lý Khanh đứng trước cửa sổ kính, mỉm cười nhìn những sinh vật đơn bào của thế giới Vực Thẳm này.
-"Đôi mắt cuối cùng cũng có thể nhìn cho sướng." Anh bỗng có một cảm giác thỏa mãn khó tả.
-Và khi anh đang quan sát kiệt tác sáng thế của mình, chúng cũng đang quan sát anh ở phía đối diện vách ngăn pha lê. Bỗng nhiên anh nhớ tới một câu nói rất đúng lúc:
+"Đôi mắt cuối cùng cũng có thể nhìn cho sướng." Hắn bỗng có một cảm giác thỏa mãn khó tả.
+Và khi hắn đang quan sát kiệt tác sáng thế của mình, chúng cũng đang quan sát hắn ở phía đối diện vách ngăn pha lê. Bỗng nhiên hắn nhớ tới một câu nói rất đúng lúc:
 "Khi bạn nhìn chằm chằm vào vực thẳm, vực thẳm cũng đang nhìn chằm chằm vào bạn."
 Chúng thần tập kết trên Cây Thế Giới.
 Trên những chiếc lá xanh đọng đầy những giọt nước khổng lồ, chúng thần đứng trước những giọt nước nhìn mình trong gương nước: "Thế giới đó chắc hẳn là một nền văn minh khác, một thực thể tương tự như chúng ta."

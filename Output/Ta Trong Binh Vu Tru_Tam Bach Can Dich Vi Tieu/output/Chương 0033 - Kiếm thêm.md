@@ -1,16 +1,16 @@
 # Chương 0033: Kiếm thêm
 
-Lý Khanh không lập tức quyết định có tung tập ba ra hay không, anh xem qua tin nhắn riêng, vẫn có không ít chủ kênh lớn hỏi xin anh ủy quyền để làm nguyên liệu video sáng tạo lần hai, và họ sẵn sàng trả tiền.
-Sau một hồi trò chuyện, anh lại kiếm thêm được hơn một vạn tệ.
-Sau khi lướt qua một đống tin nhắn riêng hỗn độn, trong đó có một tin nhắn khiến anh hơi ngạc nhiên.
+Lý Khanh không lập tức quyết định có tung tập ba ra hay không, hắn xem qua tin nhắn riêng, vẫn có không ít chủ kênh lớn hỏi xin hắn ủy quyền để làm nguyên liệu video sáng tạo lần hai, và họ sẵn sàng trả tiền.
+Sau một hồi trò chuyện, hắn lại kiếm thêm được hơn một vạn tệ.
+Sau khi lướt qua một đống tin nhắn riêng hỗn độn, trong đó có một tin nhắn khiến hắn hơi ngạc nhiên.
 【Xin chào, chúng tôi sẵn sàng hợp tác với ông, cùng nhau sản xuất bộ phim về thành phố R'lyeh này, sẵn sàng chia cho ông 60% lợi nhuận, và bất kể kết quả thế nào, phí bản quyền sẽ trả cho ông 3 triệu tệ.】
 Lý Khanh hơi giật mình.
-Anh lên mạng tra cứu một chút, phát hiện số tiền này thực ra không tính là nhiều.
+Hắn lên mạng tra cứu một chút, phát hiện số tiền này thực ra không tính là nhiều.
 Kinh phí sản xuất phim "Your Name" rơi vào khoảng 120 triệu nhân dân tệ, trong đó chi phí sản xuất hình ảnh chiếm tỷ trọng vô cùng lớn, từng khung hình đều có thể làm hình nền hoạt hình tuyệt đẹp, nên đương nhiên chi phí cao.
 Nếu mình cứ tiếp tục làm với chất lượng hình ảnh như thế này, đối phương cũng hiểu rõ chất lượng hình ảnh này có cơ hội bùng nổ rất lớn.
 Công ty nhỏ này đang đánh cược lớn rồi, họ nhường phần lớn lợi nhuận, mình chỉ chịu trách nhiệm lồng tiếng, hậu kỳ và những việc vặt vãnh này.
 Lý Khanh cân nhắc một chút, đây là muốn tiến quân vào ngành điện ảnh sao.
-Anh liên lạc với đối phương: "Hợp tác thì được, nhưng tôi không thể sản xuất hình ảnh theo kịch bản của các anh, làm thế thì không có tâm huyết! Tôi chỉ cung cấp hình ảnh cố định, các anh có thể dựa trên hình ảnh đó để xây dựng kịch bản phim và tìm người lồng tiếng."
+Hắn liên lạc với đối phương: "Hợp tác thì được, nhưng tôi không thể sản xuất hình ảnh theo kịch bản của các anh, làm thế thì không có tâm huyết! Tôi chỉ cung cấp hình ảnh cố định, các anh có thể dựa trên hình ảnh đó để xây dựng kịch bản phim và tìm người lồng tiếng."
 Phía bên kia máy tính là một người đàn ông trung niên, ngoài ba mươi tuổi, tên là Hứa Cường, mở một công ty sản xuất video nhỏ ở Thượng Hải, nhưng ai mà chẳng có ước mơ làm đạo diễn lớn, quay phim điện ảnh lớn chứ?
 Thế nhưng bây giờ ông ta hoàn toàn sững sờ.
 Vậy chẳng phải chúng ta là những kênh truyền thông kiểu nhìn hình đoán chữ sao?
@@ -56,7 +56,7 @@ Lý Khanh và đối phương trò chuyện lơ thơ vài câu, tổng cộng m�
 Gác lại chuyện này, Lý Khanh sờ sờ mũi.
 Nếu mình cứ quy củ làm bác sĩ tâm thần, bình thường mà nói, làm đến tận lúc nghỉ hưu cũng không thể nào cầm được 10 triệu tệ.
 Tiếc là không thể cứ kiếm tiền kiểu này mãi được.
-Anh dùng tài khoản đăng một đoạn thông báo:
+Hắn dùng tài khoản đăng một đoạn thông báo:
 "Chào các fan, tập ba sẽ không được phát sóng ở đây, bản quyền đã được bán cho một công ty nào đó, tin rằng mọi người sẽ sớm thấy bộ phim hoàn chỉnh, hãy cùng đón chờ nhé!"
 Lập tức.
 Trên mạng lại dậy sóng.
@@ -64,11 +64,11 @@ Trên mạng lại dậy sóng.
 【Hóng quá đi mất, hy vọng đừng làm hỏng bét nhé.】
 【Có người nói, họ có sự hỗ trợ của vẽ tranh AI nên mới có kỹ xảo cao như vậy, dù sao cũng không đổi góc máy, cùng một góc nhìn mà người đi qua đi lại, quá giống AI.】
 【GATO cái gì chứ, cho dù là AI thì cũng là công nghệ AI tiên tiến nhất ngành rồi, đợi đến khi có thể tự do đổi góc máy thì ngành điện ảnh sẽ có một cuộc đại cách mạng cho xem.】
-Anh lướt qua vài cái rồi không xem nữa.
+Hắn lướt qua vài cái rồi không xem nữa.
 Dù sao AI là con đường duy nhất mà họ có thể giải thích được, chẳng lẽ lại thật sự tin là có dị giới sao?
 Buổi tối.
 Lý Khanh xoay người đi tới bên ngoài vách ngăn pha lê.
-Anh nhìn thế giới phồn hoa bên trong, mặt đất là đại dương, hồ nước, sông ngòi, và những lục địa được bồi đắp từ bùn đất, trên đó có những thành phố tọa lạc.
+Hắn nhìn thế giới phồn hoa bên trong, mặt đất là đại dương, hồ nước, sông ngòi, và những lục địa được bồi đắp từ bùn đất, trên đó có những thành phố tọa lạc.
 Trên vách tường, lại càng có những thành phố nhô ra trông như những tổ chim.
 Cùng với lần cải tạo môi trường đó của mình, trong đất có đủ loại khoáng vật, đá vụn, kim loại, bao cao su, kẹo cao su, lá cây, túi nilon, đủ loại tài nguyên làm phong phú cả thế giới.
 Còn trong bùn đất lại càng có những sinh mệnh thiên ngoại cấp hiếm như gián, bọ hung, trứng ốc sên.

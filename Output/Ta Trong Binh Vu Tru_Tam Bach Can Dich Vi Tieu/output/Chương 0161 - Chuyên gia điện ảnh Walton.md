@@ -6,7 +6,7 @@ Walton cảm thán một tiếng, đây đã là lần luân hồi thứ ba rồ
 Giống như một cơn ác mộng vĩnh viễn không thể phá vỡ, khiến người ta vô cùng kinh hãi.
 
 Xem ra, không phải chỉ có căn phòng này mới là điểm tái lập, mà bên ngoài vách pha lê cũng vậy.
-Cỗ máy thời gian này rất thần bí, ẩn chứa bí mật lớn lao khó có thể tin nổi, mà Walton theo sự tìm tòi trong những năm qua cũng đã phát hiện ra một số lời nói dối của Asol, hắn chỉ là giả vờ không biết mà thôi.
+Cỗ máy thời gian này rất thần bí, ẩn chứa bí mật lớn lao khó có thể tin nổi, mà Walton theo sự tìm tòi trong những năm qua cũng đã phát hiện ra một số lời nói dối của Athol, hắn chỉ là giả vờ không biết mà thôi.
 
 Thế giới của mình dường như đang bị một thứ gì đó kỳ quái bao trùm, có những bí mật đáng sợ ở tầng sâu hơn.
 Virus tận thế, luân hồi thời gian, một loại hủy diệt gia tốc nào đó, giống như có một bàn tay đen ẩn hiện trong bóng tối đang âm thầm thúc đẩy tất cả, thao túng tất cả...
@@ -38,7 +38,7 @@ Và loại quái vật đáng sợ ở tầng thứ này đã tiếp cận với
 "Loại virus có tính lây nhiễm mà zombie thất giai sở hữu trở lại đó."
 Lý Uyển Ninh nói: "Tôi cho rằng loại virus này đã không còn là virus zombie truyền thống nữa rồi, có thể gọi là... Virus Hắc Quang!"
 
-"Vậy chúng ta phải đối phó thế nào đây, vị 'Quân Chủ' sở hữu Virus Hắc Quang, thủ lĩnh của lũ zombie hiện tại." Asol lẩm nhẩm mật danh của đối phương.
+"Vậy chúng ta phải đối phó thế nào đây, vị 'Quân Chủ' sở hữu Virus Hắc Quang, thủ lĩnh của lũ zombie hiện tại." Athol lẩm nhẩm mật danh của đối phương.
 
 Hiện tại họ hoàn toàn có thể lặp lại thao tác của lần trước, tiêu diệt sự lây lan virus đầu tiên, thủy triều zombie.
 Trong tương lai, thủy triều zombie đã không còn đáng ngại nữa.
@@ -49,14 +49,14 @@ Lúc này, Walton lập tức nói:
 "Thứ nhất, giáo sư Lý Uyển Ninh, cô còn không tin tưởng vào kỹ thuật của mình sao?"
 "Vụ nổ ở khoảng cách gần như vậy, cho dù không chết thì chắc chắn cũng bị trọng thương rồi. Hắn đi theo chúng ta quay trở lại, cơ bản cũng có thể xác định là đang ở trạng thái trọng thương."
 
-"Và tôi cho rằng, chúng ta có thể mượn cơ hội này để xác nhận thân phận thực sự của 'Quân Chủ'." Lúc này, Asol lập tức lên tiếng.
+"Và tôi cho rằng, chúng ta có thể mượn cơ hội này để xác nhận thân phận thực sự của 'Quân Chủ'." Lúc này, Athol lập tức lên tiếng.
 
 "Làm sao xác nhận thân phận thực sự của hắn?" Walton nhíu mày.
 
 "Theo nghiên cứu, mặc dù ký ức của hắn bị phong ấn, nhưng thực lực của hắn thì không. Vị Bán Thần đó mọi người đều đã nhìn thấy rồi."
-Asol nói: "Mỗi giây mỗi phút đều đang tiến hóa theo bản năng, hấp thu cấu trúc sinh mệnh xung quanh... Tôi tin rằng cho dù hắn có bị phong ấn ký ức thì cơ thể bị trọng thương vẫn sẽ theo bản năng mà hấp thu cấu trúc xung quanh để hồi phục vết thương."
+Athol nói: "Mỗi giây mỗi phút đều đang tiến hóa theo bản năng, hấp thu cấu trúc sinh mệnh xung quanh... Tôi tin rằng cho dù hắn có bị phong ấn ký ức thì cơ thể bị trọng thương vẫn sẽ theo bản năng mà hấp thu cấu trúc xung quanh để hồi phục vết thương."
 
-Asol chỉ chỉ vào bản đồ:
+Athol chỉ chỉ vào bản đồ:
 "'Quân Chủ' là đối tượng chúng ta cần đặc biệt quan tâm, sở hữu khả năng kiểm soát tinh thần siêu cấp, chúng ta qua mấy lần luân hồi cơ bản đã xác định được thân phận thực sự của hắn ở gần Phoenix, bang Arizona."
 
 "Dù vậy, ở đó cũng có tới mấy triệu người. Chúng ta hiện tại có thể mang theo thiết bị dò tìm, quan sát xem có sinh vật nào đang hấp thu những khuẩn quần đặc biệt hay không, là có thể tìm thấy chân thân của hắn."
@@ -64,7 +64,7 @@ Asol chỉ chỉ vào bản đồ:
 "Tìm thấy rồi thì sao?" Lý Uyển Ninh biết đó là một con quái vật, một khi chọc giận hắn, tấn công hắn, chẳng hạn như hắn sẽ nhanh chóng thức tỉnh ký ức, quân đội hiện đại trước mặt hắn đều là trò cười, nhất định sẽ bị diệt vong.
 
 "Thu dung."
-Asol nói: "Trải qua mấy lần trước, chúng ta đều đã phát hiện ra rằng, sự thức tỉnh của các lĩnh chủ zombie là do tiếp xúc với virus zombie thì mới thức tỉnh ký ức."
+Athol nói: "Trải qua mấy lần trước, chúng ta đều đã phát hiện ra rằng, sự thức tỉnh của các lĩnh chủ zombie là do tiếp xúc với virus zombie thì mới thức tỉnh ký ức."
 
 "Việc đầu tiên chúng ta cần làm chính là dùng thiết bị tìm thấy hắn, thu dung hắn, rồi sau đó không cho hắn tiếp xúc với virus zombie."
 "Thậm chí, chúng ta có thể thử tạo ra một môi trường giả tạo, làm hài lòng hắn, cố gắng không để hắn thức tỉnh."

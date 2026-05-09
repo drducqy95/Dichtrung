@@ -86,5 +86,5 @@ Dưới đình hóng mát, nhìn bầu trời đêm đầy sao rực rỡ, một
 
 "Ai cơ ạ?"
 
-Người đàn ông cao lớn anh vũ không trả lời, chỉ trìu mến xoa đầu đứa trẻ, lộ ra vài phần vẻ hoài niệm: "Lúc đó hắn vẫn còn mơ mơ màng màng, vẫn còn đang ngủ khì khì, không nhìn thấy tiếng gầm thét đau đớn của kẻ điên kia, cũng như rất nhiều, rất nhiều câu chuyện khiến hắn không khỏi bùi ngùi."
+Người đàn ông cao lớn hắn vũ không trả lời, chỉ trìu mến xoa đầu đứa trẻ, lộ ra vài phần vẻ hoài niệm: "Lúc đó hắn vẫn còn mơ mơ màng màng, vẫn còn đang ngủ khì khì, không nhìn thấy tiếng gầm thét đau đớn của kẻ điên kia, cũng như rất nhiều, rất nhiều câu chuyện khiến hắn không khỏi bùi ngùi."
 

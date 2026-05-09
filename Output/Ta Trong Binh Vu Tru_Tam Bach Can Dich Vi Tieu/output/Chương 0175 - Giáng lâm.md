@@ -64,7 +64,7 @@ Kế hoạch người biến chủng chuẩn bị suốt bảy năm rốt cuộc
 Ở đằng xa, Suzanne không nghe thấy những tiếng gào thét không lời, nhưng vẫn hét lớn: "Nói cho mẹ biết, Silph, con rốt cuộc định làm cái gì? Đứa con gái đáng yêu của mẹ đừng có rời bỏ mẹ mà!"
 
 Ngôi nhà của Lý Khanh đón tiếp một vị khách.
-Lý Khanh đã biến thành một gã béo trắng to lớn, mọc sừng, trên mặt là một nụ cười gượng gạo, anh mang Coca và đủ loại đồ ăn vặt ra tiếp đãi đối phương.
+Lý Khanh đã biến thành một gã béo trắng to lớn, mọc sừng, trên mặt là một nụ cười gượng gạo, hắn mang Coca và đủ loại đồ ăn vặt ra tiếp đãi đối phương.
 
 "Cậu không chạy sao?" Lục Láp tò mò hỏi.
 "Chạy đi đâu được?"
@@ -119,14 +119,14 @@ Một luồng áp lực minh minh khó có thể tin nổi quét qua tâm trí, 
 
 "Chuyện gì xảy ra thế? Là lũ người biến chủng đó sao?" Ninh Quốc Xương khoanh chân ngồi, từ xa điều khiển cự nhân tinh thần của mình, nhưng nhanh chóng nhíu mày.
 
-Cự Nhân Vương Asol sừng sững trên thành phố đổ nát, cảm thấy có một sự tồn tại đáng sợ nào đó đang giáng lâm.
+Cự Nhân Vương Athol sừng sững trên thành phố đổ nát, cảm thấy có một sự tồn tại đáng sợ nào đó đang giáng lâm.
 
 "Là dị biến!"
 Lý Uyển Ninh bỗng nhiên hét lớn: "Thế giới có thứ gì đó đang dị biến! Cả thế giới đang xảy ra một cuộc dị biến chưa từng có trong tiền lệ!"
 
 "Chết tiệt! Đám người đó định làm cái gì thế??"
 "Dị biến? Làm sao có thể, vị Bán Thần dị vực vô danh nào đang giáng lâm xuống thế giới này sao? Cái tổ chức người biến chủng đó rốt cuộc đang làm cái gì vậy!"
-Bọn người Walton, Asol ở trong phòng thí nghiệm nhất thời loạn thành một đoàn.
+Bọn người Walton, Athol ở trong phòng thí nghiệm nhất thời loạn thành một đoàn.
 
 Và trong thế giới tinh thần kết nối với toàn nhân loại.
 Chúng sinh của cả thế giới dường như tinh thần đã xuất hiện một số sự vặn xoắn, theo bản năng gầm thét dữ dội:

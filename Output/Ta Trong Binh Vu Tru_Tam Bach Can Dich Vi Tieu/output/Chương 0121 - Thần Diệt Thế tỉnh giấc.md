@@ -50,7 +50,7 @@ Tay cầm một cuốn Vong Linh Thịnh Điển, tinh hạch giữa lông mày 
 
 Một vị quân chủ đại đế thống trị thời đại, ngay khi còn sống mà thế nhân đã dựng bia cho ông để hậu nhân chiêm ngưỡng, chuyện này chưa từng có.
 
-Ngay cả đại địa Tinh Linh bên cạnh, cũng phải đợi đến thời đại phàm nhân này sau khi Hi La Đa Đức ra đi, trong những năm tháng Cựu Phụ đã chết mới bắt đầu dựng bia mộ.
+Ngay cả đại địa Tinh Linh bên cạnh, cũng phải đợi đến thời đại phàm nhân này sau khi Herodotus ra đi, trong những năm tháng Cựu Phụ đã chết mới bắt đầu dựng bia mộ.
 
 Thế nhưng Walton rất đặc biệt.
 
@@ -70,11 +70,11 @@ Một số pháp sư lý trí thầm cảm thấy đau đầu:
 
 "Nhánh Vong Linh Pháp Sư này quả thực là hệ thống mạnh nhất hiện nay, nhưng hoàng đế của thời đại mặt đất làm sao có thể cùng đẳng cấp với chúng thần sáng tạo tiên thiên được?"
 
-Đó là Hi La Đa Đức cơ mà, sao có thể so sánh? Họ sao dám dùng phàm nhân để so sánh?
+Đó là Herodotus cơ mà, sao có thể so sánh? Họ sao dám dùng phàm nhân để so sánh?
 
 Hung nhân khai mở Cánh Cửa Chân Lý, một hơi phá liên tiếp ba cảnh giới, ngay cả ba vị chúa tể Thâm Uyên từng đốt cháy sinh mạng của chúng sinh đại địa để mở Cửa Chân Lý như Elise cũng còn lâu mới đạt tới trình độ của ông.
 
-Lúc đó người ta mới biết, thứ mạnh không phải là Cánh Cửa Chân Lý, mà là Hi La Đa Đức.
+Lúc đó người ta mới biết, thứ mạnh không phải là Cánh Cửa Chân Lý, mà là Herodotus.
 
 Tuy nhiên, họ không muốn giao lưu với những fan cuồng này.
 

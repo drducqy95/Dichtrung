@@ -30,7 +30,7 @@ Ngay lúc Lý Khanh còn đang kinh ngạc đến thất thần, Vua Atabia đã
 
 Lý Khanh suy nghĩ một chút rồi không từ chối trả lời.
 
-Ý thức của anh mênh mông gấp hàng tỷ lần vi khuẩn, giống như một đám mây tinh vân bao la.
+Ý thức của hắn mênh mông gấp hàng tỷ lần vi khuẩn, giống như một đám mây tinh vân bao la.
 
  một luồng ý thức to lớn và uy nghiêm giáng xuống như thiên uy: "Có điều, loài cá ở thế giới này của các ngươi khá nguyên thủy, tương đương với thời kỳ đầu kỷ Cambri của nền văn minh chúng ta cách đây hơn 500 triệu năm."
 
@@ -48,11 +48,11 @@ Hoàng đế Atabia hỏi.
 
 Lý Khanh nhìn những trí giả của vương quốc đầy sức sống và khát khao cầu tri này.
 
-Anh cân nhắc một chút.
+Hắn cân nhắc một chút.
 
 Cũng không vội vàng giáng xuống đại hồng thủy một cách im hơi lặng tiếng như lần đầu, hay bật cái gọi là Tử Tiêu Thần Lôi.
 
-Bởi vì anh biết, rất có thể sẽ còn gặp lại.
+Bởi vì hắn biết, rất có thể sẽ còn gặp lại.
 
 Sau trận đại diệt tuyệt lần này, ước chừng cũng chỉ có thể tiêu diệt thêm khoảng 70% dân số, rồi họ sẽ lại tìm ra con đường kháng tia cực tím.
 
@@ -68,7 +68,7 @@ Lý Khanh và Ninh Quốc Xương ở phía đối diện nhìn nhau vậy.
 
 Lý Khanh ngồi trước cửa sổ kính lần thứ hai, nhưng người ở phía đối diện đã vật đổi sao dời.
 
-Anh giải thích đơn giản về cách tính toán của con người, đồng thời chỉ vào một khung cửa sổ áp mái khác trong phòng, thản nhiên nói: "Ánh sáng một sáng một tối luân phiên là một ngày, khoảng ba mươi ngày là một tháng, mười hai tháng là một năm..."
+Hắn giải thích đơn giản về cách tính toán của con người, đồng thời chỉ vào một khung cửa sổ áp mái khác trong phòng, thản nhiên nói: "Ánh sáng một sáng một tối luân phiên là một ngày, khoảng ba mươi ngày là một tháng, mười hai tháng là một năm..."
 
 "Vậy nên, năm trăm triệu năm là..." Sau khi nghe từng phép quy đổi, não bộ của hoàng đế Atabia lập tức bị chấn động đến cực hạn, cảm thấy thật không thể tin nổi.
 
@@ -98,7 +98,7 @@ Atabia im lặng một lát, nhanh chóng khôi phục lại sự bình tĩnh: "
 
 "Đã biết ta giết các ngươi, vậy mà ngươi lại có gan xuất hiện trước mắt." Luồng sóng ý thức của Lý Khanh mênh mông, một luồng ý niệm bao phủ tới.
 
-Lý Khanh tuy kính sợ, sợ hãi nền văn minh vương quốc vi mô trong phòng thí nghiệm này, nhưng không có nghĩa là anh ngay cả gặp cũng không dám gặp, lời cũng không dám nói.
+Lý Khanh tuy kính sợ, sợ hãi nền văn minh vương quốc vi mô trong phòng thí nghiệm này, nhưng không có nghĩa là hắn ngay cả gặp cũng không dám gặp, lời cũng không dám nói.
 
 Suy cho cùng, tại sao mình phải sợ?
 
@@ -122,7 +122,7 @@ Bên ngoài phòng thí nghiệm, mình là một người xã hội bình thư�
 
 Mặt trăng ở nước ngoài rất tròn!
 
-Với tư cách là bác sĩ tâm lý, anh khá hiểu về tâm lý chiến cảm xúc, thậm chí quyết định nảy ra ý định nhất thời, trước khi Tử Tiêu Thần Lôi diệt thế, sẽ bồi thêm một cuộc đại diệt tuyệt sinh mệnh:
+Với tư cách là bác sĩ tâm lý, hắn khá hiểu về tâm lý chiến cảm xúc, thậm chí quyết định nảy ra ý định nhất thời, trước khi Tử Tiêu Thần Lôi diệt thế, sẽ bồi thêm một cuộc đại diệt tuyệt sinh mệnh:
 
 Đại diệt tuyệt ý chí chiến đấu.
 

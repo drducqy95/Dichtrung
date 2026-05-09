@@ -57,7 +57,7 @@ Tuy nhiên, lần thứ hai mở ra Cánh cửa Chân lý, Lý Khanh cũng cảm
 
 "Tuy nhiên, Elise ẩn mình suốt một thời đại rồi cũng lên ngôi rồi. Cái kẻ điên dã tâm này chắc chắn sẽ phá vỡ nền hòa bình." Không thể phủ nhận rằng, Elise thực sự là một nhân vật xuất thân từ tầng lớp bần hàn nhất. Nàng không phải là các vị thần sinh ra đã thần thánh. Không có niệm động lực thiên bẩm hay sóng ý thức, nàng chỉ là một con nhện hoang dã do chúng thần tiện tay tạo ra, có thể thấy ở bất cứ đâu. Nhưng giờ đây ai có thể ngờ tới, con nhện này đã từng bước leo lên, ẩn mình chờ đợi, đánh cắp quyền hành của thần, dùng phàm thân mà cưỡi trên đầu chúng thần?
 
-Năm đó, cái kẻ nhỏ bé bị anh tiện tay lừa gạt nay lại leo lên đỉnh cao, không biết sẽ mang lại thay đổi gì cho toàn bộ thế giới Thâm Uyên.
+Năm đó, cái kẻ nhỏ bé bị hắn tiện tay lừa gạt nay lại leo lên đỉnh cao, không biết sẽ mang lại thay đổi gì cho toàn bộ thế giới Thâm Uyên.
 
 Kể từ sau khi Elise lên ngôi, để trấn an lòng người, nàng bắt đầu tuyên bố tổ chức lễ đăng cơ, thông cáo thiên hạ, và bắt đầu nghiên cứu những thành quả của mình. Đệ tứ giác đỉnh phong, một hơi lên tới Đệ ngũ giác, dù là tàn khuyết nhưng thu hoạch được hai viên tinh hạch vỡ nát, có thể coi là tích lũy sâu dày mà bộc phát!
 

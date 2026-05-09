@@ -56,7 +56,7 @@ Lý Uyển Ninh nói một câu ngạn ngữ:
 
 Nghe câu hỏi này, Suzanne suy nghĩ một chút: "Bán Thần nhân loại chắc chắn cũng vô lý như thế, ông ta đi tới đâu, bất kể nguyên bản là sinh vật gì cũng sẽ dị biến thành nhân loại... Văn minh ở những nơi ông ta đi qua đều là văn minh nhân loại."
 
-Mặc kệ anh là chủng tộc trí tuệ gì?
+Mặc kệ hắn là chủng tộc trí tuệ gì?
 Chỉ cần một hơi thở, trong nháy mắt sẽ dị biến thành người.
 
 "Đã là như vậy, nếu sự dị biến của hai vị Bán Thần va chạm vào nhau thì sao?" Lý Uyển Ninh hỏi.
@@ -90,10 +90,10 @@ Bản thân mình là vị Bán Thần này, rõ ràng là hệ thống ngự tr
 Ninh Quốc Xương hiện tại cũng thực sự là một cái mắt to, một vị lĩnh chủ zombie kiểm soát tinh thần thuần túy mà thôi, sớm đã không còn liên quan gì tới mình.
 Thậm chí, chủng tộc do mình tạo ra còn có thể kiểm soát tuyệt đối, đủ loại năng lực trong đó không cùng một đẳng cấp.
 
-"Mặc dù họ không ngừng tiến hóa, mục tiêu tạo thần rất rõ ràng... Thế nhưng, hơn hai mươi vị lĩnh chủ zombie kia cũng có mục tiêu rõ ràng không kém." Anh lắc đầu.
+"Mặc dù họ không ngừng tiến hóa, mục tiêu tạo thần rất rõ ràng... Thế nhưng, hơn hai mươi vị lĩnh chủ zombie kia cũng có mục tiêu rõ ràng không kém." Hắn lắc đầu.
 
 Đây là một cuộc chạy đua vũ trang.
-Anh muốn đột phá, người ta chẳng lẽ lại không muốn đột phá cảnh giới này sao? Người ta đã có sẵn một vị rồi, đã hình thành nên một con đường hoàn chỉnh, vị thứ hai cũng sẽ không còn xa.
+Hắn muốn đột phá, người ta chẳng lẽ lại không muốn đột phá cảnh giới này sao? Người ta đã có sẵn một vị rồi, đã hình thành nên một con đường hoàn chỉnh, vị thứ hai cũng sẽ không còn xa.
 Thậm chí, người ta còn muốn cứu Ninh Quốc Xương đang bị thu dung ra, đánh thức đối phương.
 
 "Chậc, mình cứ xem thôi."
@@ -105,7 +105,7 @@ Vẫn đi làm.
 
 Vị đạo sư béo kia đã bị zombie hóa và chết rồi.
 Người mới nhậm chức là một mỹ nữ nóng bỏng, trông có vẻ là thành viên của một cơ quan đặc nhiệm quốc gia, đã biến cả bệnh viện tâm thần thành một tài sản dưới trướng của Umbrella.
-Lý Khanh cũng chẳng buồn quan tâm, anh chỉ đi làm, làm việc riêng, canh giữ.
+Lý Khanh cũng chẳng buồn quan tâm, hắn chỉ đi làm, làm việc riêng, canh giữ.
 
 Mà thời đại cũng đang thay đổi thần tốc.
 Đủ loại công nghệ tương lai được cưỡng ép mang tới thời đại này, nhân loại xuất hiện đủ loại chiến binh gen, đủ loại nghề nghiệp.

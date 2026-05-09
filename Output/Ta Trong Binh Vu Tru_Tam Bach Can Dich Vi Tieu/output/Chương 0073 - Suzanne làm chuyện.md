@@ -2,7 +2,7 @@
 
 "Đúng rồi, mình đưa cậu tới phòng thí nghiệm."
 
-Suzanne hệt như đang khoe khoang, dẫn Lý Uyển Ninh xuống tầng hầm. Nơi đây đã trở thành một bãi thử nghiệm với đủ loại thiết bị. Vị thánh nữ từ dị giới xuyên không tới Trái Đất này không phải là không làm gì trong những ngày qua. Cô ấy đã trực tiếp yêu cầu Suzanne thu thập một lượng lớn cấu trúc gen của các loài sinh vật. Trong đó đã có gen của muỗi, ruồi, hổ, thậm chí đang tìm cách lấy hóa thạch của voi ma mút cổ đại, khủng long bạo chúa và khủng long trộm trứng. Phản ứng đầu tiên của cô ấy cũng giống hệt Lý Khanh: xây dựng kho gen Trái Đất.
+Suzanne hệt như đang khoe khoang, dẫn Lý Uyển Ninh xuống tầng hầm. Nơi đây đã trở thành một bãi thử nghiệm với đủ loại thiết bị. Vị thánh nữ từ dị giới xuyên không tới Trái Đất này không phải là không làm gì trong những ngày qua. Cô ta đã trực tiếp yêu cầu Suzanne thu thập một lượng lớn cấu trúc gen của các loài sinh vật. Trong đó đã có gen của muỗi, ruồi, hổ, thậm chí đang tìm cách lấy hóa thạch của voi ma mút cổ đại, khủng long bạo chúa và khủng long trộm trứng. Phản ứng đầu tiên của cô ta cũng giống hệt Lý Khanh: xây dựng kho gen Trái Đất.
 
 "Ngầu không?" Suzanne cười nói.
 
@@ -32,7 +32,7 @@ Cái gì?? Số lượng còn không ít sao?
 
 Lý Uyển Ninh cảm thấy đầu óc mình như nổ tung. Thời đại hiện nay bất kể nam hay nữ ở Hoa Hạ cơ bản đều từng xem qua tiểu thuyết mạng, cô cũng không ngoại lệ. Nhưng theo thiết lập của đủ loại tiểu thuyết mạng, phàm là những tồn tại có thể tùy ý sáng tạo ra các chủng tộc sinh mệnh, có kẻ nào không phải là cấp độ Boss giai đoạn cuối ở cảnh giới cao nhất?
 
-Nhưng suy nghĩ kỹ lại thì cũng hợp lý. Đẳng cấp của Sylph quả thực không thấp. Coi như là Chúa hay Nữ Oa của một phương thế giới đi, chỉ là những phương thế giới đó có rất nhiều, rất nhiều... là những vị thần linh cổ xưa cấp cao hơn đã ban tặng cho họ năng lực sáng tạo. Dù tính như vậy thì sức mạnh của Thánh nữ Tinh Linh Sylph vẫn rất cao! Nếu cô ấy lộ diện, chắc chắn sẽ có người coi cô ấy như Chúa hay Nữ Oa mà sùng bái, quỳ dưới đất nhìn cô ấy nặn ra đủ loại tạo vật...
+Nhưng suy nghĩ kỹ lại thì cũng hợp lý. Đẳng cấp của Sylph quả thực không thấp. Coi như là Chúa hay Nữ Oa của một phương thế giới đi, chỉ là những phương thế giới đó có rất nhiều, rất nhiều... là những vị thần linh cổ xưa cấp cao hơn đã ban tặng cho họ năng lực sáng tạo. Dù tính như vậy thì sức mạnh của Thánh nữ Tinh Linh Sylph vẫn rất cao! Nếu cô ta lộ diện, chắc chắn sẽ có người coi cô ta như Chúa hay Nữ Oa mà sùng bái, quỳ dưới đất nhìn cô ta nặn ra đủ loại tạo vật...
 
 Đồng thời, theo mô típ tiểu thuyết mạng Hoa Hạ của mình, chẳng phải mình chính là nhân vật chính sao? Rất có năng lực nhưng lại là con thứ trong nhà, không được coi trọng, cha mẹ trái lại chỉ coi trọng đứa con trưởng phá gia chi tử bất tài, mình lại còn mắc bệnh ung thư, mạng chẳng còn lâu. Bỗng nhiên, bạn gái mình nhặt được một cô gái thần sáng thế bị trọng thương, mình trực tiếp sống lại một lần nữa, kết nối với dị giới, còn âm thầm phát triển Công ty Y tế Umbrella trong hiện thực? Quay lại nắm quyền trong nhà, tát mặt các hào môn?
 

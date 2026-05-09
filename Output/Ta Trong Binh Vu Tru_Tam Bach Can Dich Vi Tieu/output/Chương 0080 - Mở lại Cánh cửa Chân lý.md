@@ -56,7 +56,7 @@ Thế giới Thâm Uyên. Khi nó tới đây, các nhà hiền triết Thâm Uy
 
 Elis âm thầm điều khiển ba người họ, lên tiếng thì thầm trong bóng tối, trong lòng mừng rỡ điên cuồng: "Ta sẽ dùng thân phận của họ để hợp thể lần nữa, điều khiển họ đột phá lên trên tầng ba mươi ba, tiến vào Cánh cửa Chân lý không thể tin nổi kia. Mà thân phận cao quý của họ, vừa vặn có thể dùng hai mươi ngàn tỷ thương sinh tích lũy trên vùng đất này, tự nguyện hiến dâng linh hồn để thúc đẩy một tương lai, để ba người họ lại ngưng tụ một tinh hạch, rồi rơi vào tay ta."
 
-Thế giới Tinh Linh có thể mở ra Cánh cửa Chân lý một lần. Thế giới Thâm Uyên tích lũy hai mươi ngàn tỷ linh hồn tương tự cũng có thể mở một Cánh cửa Chân lý. Nó chính là muốn mở ra Cánh cửa Chân lý của Thâm Uyên này. Cần biết rằng, lúc Lý Khanh đồng bộ tinh hạch đã không tiêu hao dự trữ vong linh của vùng đất này. Dù sao anh đồng bộ trạng thái của Herodotus, một lần ngộ đạo Cánh cửa Chân lý mà hai người sử dụng.
+Thế giới Tinh Linh có thể mở ra Cánh cửa Chân lý một lần. Thế giới Thâm Uyên tích lũy hai mươi ngàn tỷ linh hồn tương tự cũng có thể mở một Cánh cửa Chân lý. Nó chính là muốn mở ra Cánh cửa Chân lý của Thâm Uyên này. Cần biết rằng, lúc Lý Khanh đồng bộ tinh hạch đã không tiêu hao dự trữ vong linh của vùng đất này. Dù sao hắn đồng bộ trạng thái của Herodotus, một lần ngộ đạo Cánh cửa Chân lý mà hai người sử dụng.
 
 *Ầm ầm!* Dưới sự điều khiển của tơ nhện, ba người lại hợp làm một, bề ngoài là vị Ác Ma Quân Chủ Đại Đế viễn cổ đó giáng lâm, nhưng thực tế là nó đang điều khiển sau màn. Khoảnh khắc tiếp theo, họ bị cưỡng ép thúc đẩy lên trên tầng ba mươi ba. "A!!" Ý thức của họ bản năng xuất hiện sự giằng xé và đau đớn, muốn phản kháng nhưng vẫn không thành công.
 

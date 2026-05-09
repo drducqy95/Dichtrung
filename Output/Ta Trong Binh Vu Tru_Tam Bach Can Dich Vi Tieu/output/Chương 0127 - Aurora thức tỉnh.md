@@ -12,19 +12,19 @@ Lý Khanh tự nhiên biết đặc trưng của Truyền Kỳ là gì:
 
 Linh hồn ngưng tụ cao độ trong tinh hạch, linh hồn xuất khiếu.
 
-Chỉ là mặc dù hiện tại anh cũng đang ở cảnh giới Truyền Kỳ này, nhưng lại không biết cách tu luyện, cách đột phá như thế nào.
+Chỉ là mặc dù hiện tại hắn cũng đang ở cảnh giới Truyền Kỳ này, nhưng lại không biết cách tu luyện, cách đột phá như thế nào.
 
-Dù sao anh cũng là thừa kế tinh hạch, cứ thuận theo tự nhiên mà đạt tới cảnh giới này.
+Dù sao hắn cũng là thừa kế tinh hạch, cứ thuận theo tự nhiên mà đạt tới cảnh giới này.
 
-Vẫn phải trông chờ họ thúc đẩy thời đại, để bản thân anh suy diễn ra cảnh giới Truyền Kỳ này.
+Vẫn phải trông chờ họ thúc đẩy thời đại, để bản thân hắn suy diễn ra cảnh giới Truyền Kỳ này.
 
-Mà anh đang hình thành Vô Cấu Sinh Mệnh, lột xác hướng tới Thất Giác, chính là thời kỳ toàn thịnh của zombie Lĩnh Chủ, lúc đó sẽ thừa kế hoàn tất.
+Mà hắn đang hình thành Vô Cấu Sinh Mệnh, lột xác hướng tới Thất Giác, chính là thời kỳ toàn thịnh của zombie Lĩnh Chủ, lúc đó sẽ thừa kế hoàn tất.
 
-Theo sự phân chia của Lý Khanh, anh cảm thấy cảnh giới này là: Bán Thần.
+Theo sự phân chia của Lý Khanh, hắn cảm thấy cảnh giới này là: Bán Thần.
 
 Tất nhiên rồi...
 
-Hiện nay ba tháng trôi qua, anh cảm thấy mình cơ bản đã lột xác xong, đang ở đỉnh phong Truyền Kỳ, còn thiếu một bước cuối cùng, nhưng bước cuối này mãi mà không bước ra được.
+Hiện nay ba tháng trôi qua, hắn cảm thấy mình cơ bản đã lột xác xong, đang ở đỉnh phong Truyền Kỳ, còn thiếu một bước cuối cùng, nhưng bước cuối này mãi mà không bước ra được.
 
 Bị kẹt lại rất khó chịu.
 
@@ -32,7 +32,7 @@ Lý Khanh nhắm mắt suy tư:
 
 "Trước kia là nhờ vào trí tuệ khi Hi La Đa Đức khai mở Cánh Cửa Chân Lý mới giúp mình đột phá được giai đoạn Truyền Kỳ đó, nhưng hiện tại lại không có cơ duyên ấy nữa."
 
-Lúc trước Walton đột phá Cánh Cửa Chân Lý, anh cũng có sự đồng bộ.
+Lúc trước Walton đột phá Cánh Cửa Chân Lý, hắn cũng có sự đồng bộ.
 
 Mặc dù trong trạng thái ngộ đạo đó có lợi ích rất lớn, nhưng vẫn còn kém một chút, vẫn không thể đột phá Thất Giác.
 
@@ -42,7 +42,7 @@ Walton vẫn còn quá phế.
 
 Lý Khanh thở dài một tiếng, nhìn cảnh sắc ngoài cửa sổ, bất kỳ ai bị nghẹn như thế này đều cảm thấy có chút hoảng loạn.
 
-Cuối cùng anh vẫn thở hắt ra một hơi.
+Cuối cùng hắn vẫn thở hắt ra một hơi.
 
 "Có lẽ là mình quá nôn nóng rồi, đạt được năng lực này chưa tới một năm, làm được đến mức này đã là khá tốt rồi, cảnh giới về sau ngày càng khó, chỉ có thể ngày càng chậm lại."
 
@@ -76,15 +76,15 @@ Chưa nói đến tuổi thọ về sau nữa.
 
 Sống qua mười năm đều là chuyện đơn giản.
 
-Bản thân anh là một người trường sinh, nhất định phải đứng từ trên cao nhìn xuống cả kỷ nguyên nhân loại, ẩn cư trong thời đại.
+Bản thân hắn là một người trường sinh, nhất định phải đứng từ trên cao nhìn xuống cả kỷ nguyên nhân loại, ẩn cư trong thời đại.
 
 Đây là chuyện đã được dự liệu từ lâu.
 
 "Thang đo của nhân loại đối với văn minh siêu phàm mà nói có vẻ hơi nhỏ bé, tương lai một vị vua có lẽ hễ động một tí là thống trị vài trăm năm, thậm chí cả ngàn năm!"
 
-Anh thở dài một tiếng, ánh mắt lại rơi xuống dưới lòng đất.
+Hắn thở dài một tiếng, ánh mắt lại rơi xuống dưới lòng đất.
 
-Ba tháng này, anh không chỉ tu luyện đơn thuần, mà còn xây dựng sa bàn văn minh dưới lòng đất.
+Ba tháng này, hắn không chỉ tu luyện đơn thuần, mà còn xây dựng sa bàn văn minh dưới lòng đất.
 
 Hiện nay đã hoàn thành bước đầu.
 
@@ -94,9 +94,9 @@ Dưới lòng đất, một tòa tháp Babel hình bát giác mang phong cách c
 
 "Chậm hơn một chút so với tưởng tượng, vốn tưởng hơn hai tháng là xong rồi..."
 
-Anh điều khiển Lôi Thần đứng trên tầng cao nhất của tòa tháp bát giác cổ phong này, nhìn xuống căn phòng khổng lồ bên ngoài.
+Hắn điều khiển Lôi Thần đứng trên tầng cao nhất của tòa tháp bát giác cổ phong này, nhìn xuống căn phòng khổng lồ bên ngoài.
 
-Đây là thế giới thuộc về chính anh.
+Đây là thế giới thuộc về chính hắn.
 
 Phòng khách, tường của các phòng, vách pha lê vẫn chưa xây dựng xong.
 
@@ -108,7 +108,7 @@ Mà trên đầu lại giăng đầy những lưới trùng thép khổng lồ.
 
 Trên đầu có độ sâu tám ngàn mét, vốn dĩ tầng địa chất bị ép suốt hàng tỉ năm đã rất kiên cố, các loại mạch quặng kim loại chính là lưới chịu lực tự nhiên.
 
-Anh còn tàn nhẫn đến mức cứ cách vài trăm mét lại giăng mười mấy lớp lưới thép khổng lồ, đảm bảo sự vững chắc phía trên đầu.
+Hắn còn tàn nhẫn đến mức cứ cách vài trăm mét lại giăng mười mấy lớp lưới thép khổng lồ, đảm bảo sự vững chắc phía trên đầu.
 
 Và từ đó có thể thấy kỹ thuật sinh học thực sự có chi phí cực thấp, chỉ cần nhân bản một lượng lớn trùng cốt thép là được, giống như hắc công nghệ của chủng tộc Zerg trong StarCraft vậy.
 
@@ -118,7 +118,7 @@ Thậm chí không phải là "giống như", đối với người Trái Đất
 
 Lý Khanh bắt đầu tính toán, nhìn hang động địa để khổng lồ này.
 
-Gần đây anh có cân nhắc việc dùng vật liệu thép sinh học để thay thế cho vách tường hợp kim ban đầu.
+Gần đây hắn có cân nhắc việc dùng vật liệu thép sinh học để thay thế cho vách tường hợp kim ban đầu.
 
 Dù sao thì cái thứ vật liệu hợp kim thép này cơ bản không thể vận chuyển từ trên mặt đất xuống dưới được, vẫn phải tự mình tạo ra.
 

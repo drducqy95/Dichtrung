@@ -22,13 +22,13 @@ Hình dáng của ông ta chỉ là một sinh mệnh tượng sáp màu trắng
 
 Ánh mắt đó của Lý Khanh giống như một viên quản ngục nhìn thấy phạm nhân trong tù đang thưởng thức bữa tối cuối cùng vậy.
 
-Khi Lý Khanh biết được mục tiêu thực sự của đối phương khi xây dựng tháp Babel, anh chỉ giống như đang đứng ngoài xem một bộ phim sử thi tráng lệ về một nền văn minh: Chiến tranh, tính toán, dương mưu, âm mưu, quỷ kế... Hoàng đế Atabia đúng là một tên điên nghiên cứu khoa học vô lý. Nếu không điên, lần đầu tiên ông ta đã không liều mạng chạy tới gặp mình trong sự hưng phấn khi tia cực tím diệt thế, càng không xây dựng nên cái tạo vật điên rồ như tháp Babel để muốn trở thành thần.
+Khi Lý Khanh biết được mục tiêu thực sự của đối phương khi xây dựng tháp Babel, hắn chỉ giống như đang đứng ngoài xem một bộ phim sử thi tráng lệ về một nền văn minh: Chiến tranh, tính toán, dương mưu, âm mưu, quỷ kế... Hoàng đế Atabia đúng là một tên điên nghiên cứu khoa học vô lý. Nếu không điên, lần đầu tiên ông ta đã không liều mạng chạy tới gặp mình trong sự hưng phấn khi tia cực tím diệt thế, càng không xây dựng nên cái tạo vật điên rồ như tháp Babel để muốn trở thành thần.
 
 Nhưng Lý Khanh bỗng cảm thấy thật đáng thương.
 
-Bởi vì hoàng đế Atabia xây dựng tháp Babel chính là đang đưa cho anh thanh đao đồ tể để giết chết chính mình.
+Bởi vì hoàng đế Atabia xây dựng tháp Babel chính là đang đưa cho hắn thanh đao đồ tể để giết chết chính mình.
 
-Nếu là những sinh mệnh nhỏ bé trốn chạy khắp nơi, những kẻ đơn bào không ngừng tiến hóa để thích nghi với sự diệt tuyệt, thì anh thực sự chẳng có cách nào với họ cả. Thế nhưng giờ đây lại trở nên to lớn như vậy, hòa làm một với người khổng lồ, muốn hoàn thiện gen hết lần này đến lần khác, không ngừng tiến hóa sao?
+Nếu là những sinh mệnh nhỏ bé trốn chạy khắp nơi, những kẻ đơn bào không ngừng tiến hóa để thích nghi với sự diệt tuyệt, thì hắn thực sự chẳng có cách nào với họ cả. Thế nhưng giờ đây lại trở nên to lớn như vậy, hòa làm một với người khổng lồ, muốn hoàn thiện gen hết lần này đến lần khác, không ngừng tiến hóa sao?
 
 Đứng từ góc độ nhận thức của đối phương mà nói thì không hề sai: Nhìn xem! Thần lợi hại biết bao? Hình thể của Thần to lớn biết bao? Vì vậy hãy trực tiếp tiến hóa thành Thần trong một hơi, lấy bản mẫu máu thịt to lớn của Thần để trưởng thành trong thế giới này, cuối cùng có thể chống lại Ngoại Thần!
 
@@ -44,7 +44,7 @@ Ngược lại, tính mạng của con người còn mong manh hơn nhiều, m�
 
 Hình thể càng lớn, mục tiêu càng lớn.
 
-Trước đây, cách thức để anh tiêu diệt ông ta không có nhiều, dù sao thì vị vua này cứ trốn tránh ẩn nấp, căn bản không biết chân thân ở đâu. Nhưng bây giờ, cách thức để tiêu diệt ông ta có tới hơn trăm loại!
+Trước đây, cách thức để hắn tiêu diệt ông ta không có nhiều, dù sao thì vị vua này cứ trốn tránh ẩn nấp, căn bản không biết chân thân ở đâu. Nhưng bây giờ, cách thức để tiêu diệt ông ta có tới hơn trăm loại!
 
 Nên biết rằng đây là một đất nước tự do, thậm chí kiếm một khẩu súng để bắn nát ông ta cũng không phải chuyện khó khăn gì.
 
@@ -60,11 +60,11 @@ Lý Khanh bỗng nhớ tới một câu châm ngôn trong cuốn "Đời nhẹ k
 
 Con người vừa suy nghĩ, Thượng đế liền bật cười.
 
-Đương nhiên anh không phải muốn chế nhạo, cũng không có tư cách để cười.
+Đương nhiên hắn không phải muốn chế nhạo, cũng không có tư cách để cười.
 
 Trí tuệ và tài hoa của đối phương trong dân tộc Atabia có địa vị sánh ngang với những nhà khoa học Newton, Einstein trên Trái Đất, là những vĩ nhân dẫn dắt kỷ nguyên văn minh.
 
-Một người đặt nền móng vĩ đại cho nền văn minh như vậy, không phải là một kẻ làm thuê bình thường như anh có thể chế nhạo được.
+Một người đặt nền móng vĩ đại cho nền văn minh như vậy, không phải là một kẻ làm thuê bình thường như hắn có thể chế nhạo được.
 
 Chỉ là khi sống trong một cái chai chật hẹp, càng suy nghĩ nhiều thì có chắc chắn sẽ càng tiếp cận với chân lý không? Giống như những người cổ đại trong từng thời đại, chẳng lẽ không có ai tầm cỡ như Einstein xuất hiện sao? Không có những vị trí giả khác sao?
 
@@ -72,7 +72,7 @@ Không.
 
 Họ có thông minh đến đâu đi chăng nữa thì cũng sẽ bị hạn chế bởi nhận thức lạc hậu của thời đại mình, sống trong một cái kén thông tin, thậm chí chỉ có thể mê tín quỷ thần, tham khảo thuyết trời tròn đất vuông.
 
-Nghĩ đến đây, trong lòng Lý Khanh cảm khái muôn vàn, anh cất lời ở bên ngoài vách ngăn pha lê:
+Nghĩ đến đây, trong lòng Lý Khanh cảm khái muôn vàn, hắn cất lời ở bên ngoài vách ngăn pha lê:
 
 "Hoàng đế Atabia, với tư cách là một vị thánh nhân đầu tiên sống trên mảnh đất nguyên thủy cổ đại, có thể làm được đến bước này, ngươi đã đủ nỗ lực rồi, đủ khiến người ta kinh diễm rồi, đủ để nghịch thiên rồi."
 

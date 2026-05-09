@@ -1,0 +1,2 @@
+"# Chương 0097 - La Phù Làm Sư Huynh\n\nBất Chu Sơn cảnh sắc tráng lệ huyền diệu, điều đó tự nhiên không cần phải nói nhiều.\n\nNữ tử này mặc dù đối với vị đại thần thông giả trong lòng tràn đầ
+<truncated 10948 bytes>

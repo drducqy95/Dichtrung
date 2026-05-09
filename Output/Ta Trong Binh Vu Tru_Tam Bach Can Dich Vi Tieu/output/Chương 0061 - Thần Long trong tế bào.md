@@ -2,15 +2,15 @@
 
 "Cơ thể này quá yếu, ta cần một chút thời gian." Lý Khanh ngồi trên ngai vàng Thâm Uyên lên tiếng.
 
-Cơ thể anh đang không ngừng nảy sinh những ý cảnh, không ngừng được sửa đổi, dần dần tỏa ra luồng áp bách hệt như ma thần hồng hoang thượng cổ. Đôi vai rộng dường như nâng đỡ cả bầu trời. Thể phách mạnh mẽ và kinh hoàng này bất động, đôi mắt khẽ nhắm lại, không có ý định giao lưu nhiều với họ.
+Cơ thể hắn đang không ngừng nảy sinh những ý cảnh, không ngừng được sửa đổi, dần dần tỏa ra luồng áp bách hệt như ma thần hồng hoang thượng cổ. Đôi vai rộng dường như nâng đỡ cả bầu trời. Thể phách mạnh mẽ và kinh hoàng này bất động, đôi mắt khẽ nhắm lại, không có ý định giao lưu nhiều với họ.
 
-Mục tiêu của Lý Khanh rất rõ ràng. Đến đây, nhân lúc trạng thái ngộ đạo chưa biến mất, anh cố gắng thu nạp và tiêu hóa nhiều kiến thức nhất có thể. Anh phải không ngừng tranh thủ cảm ngộ, để sau khi thoát khỏi trạng thái này, anh vẫn có thể nhớ rõ cảm giác huyền ảo hiện tại, có thể quan sát được đủ loại sóng trong không khí, có thể nhìn thấy WIFI, nhìn thấy đủ loại tín hiệu.
+Mục tiêu của Lý Khanh rất rõ ràng. Đến đây, nhân lúc trạng thái ngộ đạo chưa biến mất, hắn cố gắng thu nạp và tiêu hóa nhiều kiến thức nhất có thể. Hắn phải không ngừng tranh thủ cảm ngộ, để sau khi thoát khỏi trạng thái này, hắn vẫn có thể nhớ rõ cảm giác huyền ảo hiện tại, có thể quan sát được đủ loại sóng trong không khí, có thể nhìn thấy WIFI, nhìn thấy đủ loại tín hiệu.
 
 Cơ thể trước mắt chính là một vật thí nghiệm có sẵn.
 
-Anh khẽ nhắm mắt, ngồi trên ngai vàng thoải mái trong cung điện và tĩnh lặng suy nghĩ: "Nói đi cũng phải nói lại, việc thúc đẩy văn minh đến nay, đây là lần đầu tiên ta thực sự bắt đầu học hỏi về nền tảng và thuật tạo vật của họ. Quả ngọt văn minh này cũng đã đến lúc phải hái rồi."
+Hắn khẽ nhắm mắt, ngồi trên ngai vàng thoải mái trong cung điện và tĩnh lặng suy nghĩ: "Nói đi cũng phải nói lại, việc thúc đẩy văn minh đến nay, đây là lần đầu tiên ta thực sự bắt đầu học hỏi về nền tảng và thuật tạo vật của họ. Quả ngọt văn minh này cũng đã đến lúc phải hái rồi."
 
-Anh đồng bộ với trạng thái ngộ đạo của Herodotus, vùng não bộ được khai phá thần tốc. Anh cảm thấy tư duy của mình như mang theo trí tuệ vô tận, trong khoảnh khắc đã thấy được hàng vạn sự biến đổi vi quan của sinh mệnh, dường như muốn đọc hết mọi thông tin của trời đất.
+Hắn đồng bộ với trạng thái ngộ đạo của Herodotus, vùng não bộ được khai phá thần tốc. Hắn cảm thấy tư duy của mình như mang theo trí tuệ vô tận, trong khoảnh khắc đã thấy được hàng vạn sự biến đổi vi quan của sinh mệnh, dường như muốn đọc hết mọi thông tin của trời đất.
 
 "Thực tế, chuyện này không hề phức tạp."
 - **Thức tỉnh lần thứ hai, Thức cảnh:** Sáng tạo đại não hoàn mỹ.
@@ -20,19 +20,19 @@ Anh đồng bộ với trạng thái ngộ đạo của Herodotus, vùng não b�
 
 Lý Khanh không ngừng tích hợp, thiết kế. Đủ loại kiến thức thông tin xa lạ u tối đều được nắm bắt một cách dễ dàng. Một lượng lớn thông tin gen vô dụng bị đào thải. Tất cả những cấu trúc hỗn loạn được sắp xếp lại. Tích hợp làm một, đủ loại thông số được điều chỉnh.
 
-Ý thức và tinh thần của anh vốn đã mạnh hơn Herodotus gấp vạn lần, cùng một trạng thái ngộ đạo, biểu hiện của anh sẽ chỉ mạnh hơn!
+Ý thức và tinh thần của hắn vốn đã mạnh hơn Herodotus gấp vạn lần, cùng một trạng thái ngộ đạo, biểu hiện của hắn sẽ chỉ mạnh hơn!
 
 *Ào ào ào!* Loại bỏ những thứ rườm rà, chiết xuất lấy chân đế. Trong đoạn trình tự gen này, dường như một con giao long chắp vá không ra hình thù gì đang hóa thành một con Thần Long xinh đẹp bao la, rong ruổi trong từng tế bào của cơ thể. Dần dần, trong mỗi một tế bào trong hàng tỷ tế bào của cơ thể đều hệt như có một con Thần Long đang bơi lội.
 
-"Thật không thể tin nổi..." Đôi mắt anh lóe lên dị quang: "Đây chính là ý cảnh của sinh mệnh tạo vật hoàn mỹ sao?"
+"Thật không thể tin nổi..." Đôi mắt hắn lóe lên dị quang: "Đây chính là ý cảnh của sinh mệnh tạo vật hoàn mỹ sao?"
 
 "Cơ thể hệt như bình gốm, gom góp tinh hoa của từng thứ, những mảnh cắt gen chắp vá đông tây trông có vẻ hoàn mỹ nhưng thực tế lại đầy rẫy vết nứt. Giờ đây, đây mới là chiếc bình gốm hoàn mỹ đúc từ huyết nhục, bóng mịn như ngọc, thần thái viên mãn, tràn đầy ý cảnh."
 
-Khắc này anh hoàn toàn đốn ngộ, thần tốc tiếp thu nền tảng và trí tuệ của thời đại này.
+Khắc này hắn hoàn toàn đốn ngộ, thần tốc tiếp thu nền tảng và trí tuệ của thời đại này.
 
 "Quá thú vị rồi! Chờ sau khi hoàn thiện gã Ác Ma Quân Chủ Thâm Uyên siêu thu nhỏ này, ta ở bên ngoài dùng kỹ thuật tháp Babel xây dựng một cái có tỉ lệ tương đương... Đó mới là chỗ dựa thực sự của ta, con bài tẩy để tự vệ. Đây chắc chắn đã là sinh mệnh mạnh nhất bề mặt, đối với nhân loại hiện đại trên Trái Đất mà nói thì đã hoàn toàn vượt xa sự tưởng tượng."
 
-*Rắc...* Anh nhắm mắt lại lần nữa, âm thầm cảm nhận mọi thứ. Toàn bộ tôm tít, sán kế, bọ cánh cứng sắt đang thực sự hòa làm một.
+*Rắc...* Hắn nhắm mắt lại lần nữa, âm thầm cảm nhận mọi thứ. Toàn bộ tôm tít, sán kế, bọ cánh cứng sắt đang thực sự hòa làm một.
 
 Thế giới Thâm Uyên tổng cộng có mười tầng. Trong thế giới giếng vuông không biên giới này, để mở rộng diện tích sinh tồn dưới đáy biển và chống lại sự tấn công của thế giới Tinh Linh, chủng tộc Thâm Uyên đã chiết xuất được cấu trúc vỏ trong suốt của mực — một loại chất liệu giống như những mảnh nhựa trong suốt — để làm các lớp ngăn cách dưới đáy biển.
 

@@ -4,7 +4,7 @@ Thấy họ đột phá vòng vây thành công, tiến vào đại dương mên
 
 Cũng may, phẩm giá của một vị Thần đã được giữ vững. Dù sao thì một vị Ngoại Thần vĩ đại, thần bí và sâu không lường được mà ngay cả tín đồ của mình cũng không bảo vệ nổi, thì còn chơi bời gì nữa.
 
-Anh tiếp tục quan sát toàn bộ thế giới.
+Hắn tiếp tục quan sát toàn bộ thế giới.
 
 Tòa tháp Babel đó rốt cuộc là thứ gì?
 
@@ -12,7 +12,7 @@ Vũ khí sát thần này muốn phá vỡ vách ngăn pha lê của thế giớ
 
 Lý Khanh bắt đầu suy nghĩ về những mối đe dọa có thể xảy ra.
 
-Anh đưa ra phỏng đoán dựa trên các sinh vật trong tự nhiên.
+Hắn đưa ra phỏng đoán dựa trên các sinh vật trong tự nhiên.
 
 Là phun ra những viên đạn nước độc tố để ăn mòn thủy tinh?
 
@@ -32,21 +32,21 @@ Thậm chí ngay cả kính thông thường, chưa chắc họ đã giải quy�
 
 Lý Khanh không cho rằng đối phương có thể làm được.
 
-Mặc dù anh cũng từng nghĩ đến những thao tác "hết nước chấm" như "mở cái lỗ nhỏ, lấy súng hơi bắn nát tháp Babel", nhưng suy nghĩ kỹ lại thì thôi bỏ đi.
+Mặc dù hắn cũng từng nghĩ đến những thao tác "hết nước chấm" như "mở cái lỗ nhỏ, lấy súng hơi bắn nát tháp Babel", nhưng suy nghĩ kỹ lại thì thôi bỏ đi.
 
 Thực tế, cách giải quyết tốt nhất là: Giết hoàng đế.
 
 Tiêu diệt hoàng đế, sau đó đưa giáo hội thân cận với Thần lên nắm quyền, đánh cắp nền tảng văn minh của họ, điều khiển nền văn minh vi mô này từ phía sau. Triệt để diệt tuyệt không phải là lựa chọn tối ưu nhất.
 
-Hơn nữa, bản thân anh cũng thực sự không tiện để triệt để diệt tuyệt.
+Hơn nữa, bản thân hắn cũng thực sự không tiện để triệt để diệt tuyệt.
 
 "Nếu không đi vào trong phòng, thủ đoạn để triệt để diệt tuyệt bên trong là rất ít! Chỉ có thể là địa ngục thiêu đốt —— xăng, hay là kỷ băng hà —— nitơ lỏng?" Lý Khanh lộ ra một vẻ lưỡng lự, "Hay là, nổ bụi (dust explosion)?"
 
-Nhưng nếu những thủ đoạn này hữu dụng, anh đã sớm dùng rồi.
+Nhưng nếu những thủ đoạn này hữu dụng, hắn đã sớm dùng rồi.
 
 Đầu tiên là nitơ lỏng.
 
-Tấm thép của phòng thí nghiệm cũng có thể chịu được, nhưng anh sợ kính cường lực chống đạn không chịu nổi!
+Tấm thép của phòng thí nghiệm cũng có thể chịu được, nhưng hắn sợ kính cường lực chống đạn không chịu nổi!
 
 Kính vẫn rất sợ việc thay đổi nhiệt độ nóng lạnh đột ngột.
 
@@ -90,9 +90,9 @@ Diệt thế có thể khiến đội cận vệ của mình cũng bị vạ lâ
 
 Mình nội ứng ngoại hợp, chẳng phải mạnh hơn nhiều so với thủ đoạn vật lý để diệt thế sao?
 
-Anh quyết định giúp Quang Minh giáo hội một tay nữa để thu phục lòng dân.
+Hắn quyết định giúp Quang Minh giáo hội một tay nữa để thu phục lòng dân.
 
-Anh đứng bên ngoài vách ngăn thế giới, trên bầu trời cao, truyền tới một luồng sóng ý thức đánh thẳng vào tâm lý của toàn bộ vương quốc trên mặt đất:
+Hắn đứng bên ngoài vách ngăn thế giới, trên bầu trời cao, truyền tới một luồng sóng ý thức đánh thẳng vào tâm lý của toàn bộ vương quốc trên mặt đất:
 
 "Vì các tín đồ, nên lần này sẽ không diệt thế."
 
@@ -112,7 +112,7 @@ Trong khu chung cư, có thể thấy một số bà cụ đang đi dạo, cũng
 
 Lý Khanh suy nghĩ một chút, vẫn là đi ra ngoài mua camera.
 
-Anh lượn một vòng, phát hiện cái thứ này loại có độ nét cao nhất thì đắt vô cùng. Sau khi "đứt từng đoạn ruột" sắm lấy hai cái, số tiền tiết kiệm của anh cũng gần như cạn kiệt.
+Hắn lượn một vòng, phát hiện cái thứ này loại có độ nét cao nhất thì đắt vô cùng. Sau khi "đứt từng đoạn ruột" sắm lấy hai cái, số tiền tiết kiệm của hắn cũng gần như cạn kiệt.
 
 Lý Khanh nhất thời cảm thấy trong lòng có chút xót xa.
 
@@ -122,7 +122,7 @@ Dù sao thì thiết bị tia cực tím cũng là mượn về.
 
 Nhưng hiệu quả cũng khiến Lý Khanh rất hài lòng. Chất lượng hình ảnh của camera này thực sự siêu nét, ngay cả con kiến trên lá cây cũng có thể chụp được, không hổ là có thể sánh ngang với máy ảnh độ nét cao. Cũng đừng bao giờ coi thường công nghệ của nhân loại, một số ống kính ở một khoảng cách nhất định, độ phân giải cao đến mức ngay cả sợi lông tơ trên chân con muỗi đậu trên lá cây cũng có thể nhìn thấy rõ mồn một.
 
-Và khi đó anh sẽ chĩa thẳng camera vào đối diện lớp kính, nhìn chằm chằm vào chúng mà quay phim.
+Và khi đó hắn sẽ chĩa thẳng camera vào đối diện lớp kính, nhìn chằm chằm vào chúng mà quay phim.
 
 "Chủ yếu là để quan sát tòa tháp Babel đó."
 
@@ -146,7 +146,7 @@ Cả thế giới đều rơi vào trạng thái hoang mang lo sợ.
 
 Thậm chí cả số người âm thầm gia nhập giáo hội, tin vào Chủ, cầu xin sự cứu rỗi và tha thứ cũng trở nên nhiều hơn.
 
-"Cứ làm quá lên." Lý Khanh lẩm bẩm một câu cũng không buồn để ý. Sau khi lắp xong camera, anh mở điện thoại ra, thấy kết nối bình thường, những sinh vật kích thước mạt bụi bên trong chụp cũng không tệ, liền trực tiếp rời đi.
+"Cứ làm quá lên." Lý Khanh lẩm bẩm một câu cũng không buồn để ý. Sau khi lắp xong camera, hắn mở điện thoại ra, thấy kết nối bình thường, những sinh vật kích thước mạt bụi bên trong chụp cũng không tệ, liền trực tiếp rời đi.
 
 Sáng sớm hôm sau.
 
@@ -160,7 +160,7 @@ Lý Khanh cuối cùng cũng bắt đầu suy tính cách kiếm tiền.
 
 "Nhưng đội quân Quang Minh giáo hội của mình đang bận ám sát hoàng đế ở bên trong, không rảnh để thực hiện nhiệm vụ ngoại phái đi tiêu diệt ma thú của vị Thần Quang Minh này."
 
-Đợi sau này thực sự giải quyết xong xuôi, người đầu tiên anh giúp sẽ là điều trị cho bạn gái bị ung thư dạ dày của Susanne, dù sao cũng là một phú bà nhỏ mà.
+Đợi sau này thực sự giải quyết xong xuôi, người đầu tiên hắn giúp sẽ là điều trị cho bạn gái bị ung thư dạ dày của Susanne, dù sao cũng là một phú bà nhỏ mà.
 
 Có điều lúc điều trị cần phải che giấu thân phận, giả làm kẻ lừa đảo tôn giáo (thần côn) một chút.
 

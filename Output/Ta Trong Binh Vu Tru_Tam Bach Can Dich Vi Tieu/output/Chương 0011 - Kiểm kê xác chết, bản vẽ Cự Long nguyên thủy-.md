@@ -32,7 +32,7 @@ Lý Khanh bình thường là một người vô thần, nhưng cũng là một 
 
 Khi cần thiết vẫn sẽ tin giáo, miễn là cái giáo đó tin mình.
 
-Thế là anh lập tức lấy điện thoại ra tra cứu, chỉnh lý lại một bộ giáo nghĩa:
+Thế là hắn lập tức lấy điện thoại ra tra cứu, chỉnh lý lại một bộ giáo nghĩa:
 
 "Thần nói phải có ánh sáng, thế là có ánh sáng."
 
@@ -44,11 +44,11 @@ Thế là anh lập tức lấy điện thoại ra tra cứu, chỉnh lý lại 
 
 "Các con hãy được gọi là Trí Tử nhé." Lý Khanh chậm rãi gật đầu.
 
-Anh muốn phong tỏa sự phát triển văn minh và tiến bộ khoa học kỹ thuật của thế giới đối phương, sau đó tạo ra một nhóm giáo đồ nghênh đón nền văn minh Ngoại Thần, tổ chức đủ loại nghi lễ để chào đón sự giáng lâm của anh!
+Hắn muốn phong tỏa sự phát triển văn minh và tiến bộ khoa học kỹ thuật của thế giới đối phương, sau đó tạo ra một nhóm giáo đồ nghênh đón nền văn minh Ngoại Thần, tổ chức đủ loại nghi lễ để chào đón sự giáng lâm của hắn!
 
 Lý Khanh mở công cụ tìm kiếm, dẫn dắt chúng học tập giáo nghĩa suốt nửa giờ đồng hồ.
 
-Nói đi cũng phải nói lại, đội quân của anh sau khi khai mở trí tuệ đã phát triển được vài ngày. Những kỹ thuật tiến hóa, xây dựng hay biên tập chính quy thì chúng chưa học được bao nhiêu, nhưng những thủ đoạn của kẻ lừa đảo tôn giáo (thần côn) thì lại học rất nhanh. Thế là anh mở cái lỗ nhỏ đó ra, thả chúng vào để phá hoại nền văn minh của đối phương.
+Nói đi cũng phải nói lại, đội quân của hắn sau khi khai mở trí tuệ đã phát triển được vài ngày. Những kỹ thuật tiến hóa, xây dựng hay biên tập chính quy thì chúng chưa học được bao nhiêu, nhưng những thủ đoạn của kẻ lừa đảo tôn giáo (thần côn) thì lại học rất nhanh. Thế là hắn mở cái lỗ nhỏ đó ra, thả chúng vào để phá hoại nền văn minh của đối phương.
 
 Lúc này.
 
@@ -60,9 +60,9 @@ Về đến nhà đã rất muộn.
 
 Lý Khanh đi ngủ ngay lập tức.
 
-Sáng hôm sau sau khi thức dậy, anh ra ngoài ăn sáng. Liên tục có những phụ nữ liếc nhìn anh, cảm thấy khí chất của anh rất kinh người, cho rằng anh là ngôi sao nào đó ra ngoài đeo kính râm, thần thần bí bí, còn lén lút bàn tán ở bàn bên cạnh.
+Sáng hôm sau sau khi thức dậy, hắn ra ngoài ăn sáng. Liên tục có những phụ nữ liếc nhìn hắn, cảm thấy khí chất của hắn rất kinh người, cho rằng hắn là ngôi sao nào đó ra ngoài đeo kính râm, thần thần bí bí, còn lén lút bàn tán ở bàn bên cạnh.
 
-Thậmên có người đến bắt chuyện, hỏi xem anh có phải là diễn viên nào không.
+Thậmên có người đến bắt chuyện, hỏi xem hắn có phải là diễn viên nào không.
 
 Lý Khanh chỉ có thể đáp: "Thực ra tôi chỉ là một nghiên cứu viên làm nghiên cứu sinh học, suốt ngày ở trong phòng thí nghiệm mà thôi."
 
@@ -74,23 +74,23 @@ Bởi vì bà ấy lái một chiếc xe hơi danh tiếng giá trị không nh�
 
 "Chào anh." Một thiếu nữ yểu điệu với làn da trắng mịn bước xuống xe, tò mò đánh giá Lý Khanh một cái.
 
-Dường như cũng bị khí chất của anh thu hút, theo bản năng cảm thấy dưới lớp khẩu trang kia chắc chắn là một dung mạo tuyệt thế dung nhan. Theo lý mà nói, kiểu đeo khẩu trang này thường là "gặp sáng là chết" (nhan sắc thật gây thất vọng), nhưng ở anh thì không giống vậy.
+Dường như cũng bị khí chất của hắn thu hút, theo bản năng cảm thấy dưới lớp khẩu trang kia chắc chắn là một dung mạo tuyệt thế dung nhan. Theo lý mà nói, kiểu đeo khẩu trang này thường là "gặp sáng là chết" (nhan sắc thật gây thất vọng), nhưng ở hắn thì không giống vậy.
 
 "Chào cô." Lý Khanh gật đầu.
 
-Dáng người trông khá ổn, rất sạch sẽ, khuẩn quần trên người khá ít, nhưng anh lại bị "mù mặt", không nhìn ra được là xinh đẹp hay không.
+Dáng người trông khá ổn, rất sạch sẽ, khuẩn quần trên người khá ít, nhưng hắn lại bị "mù mặt", không nhìn ra được là xinh đẹp hay không.
 
 Sau khi trò chuyện vài câu, Lý Khanh vốn tinh thông tâm lý học, tinh thần càng lúc càng nhạy bén, từ một số cử chỉ đã nhìn thấu Susanne đại khái là loại người nào, tám chín phần mười còn là một "Lê" (Lesbian).
 
-Nhưng bà chủ nhà cứ muốn giới thiệu con gái, sau khi trò chuyện xã giao vài câu với anh hàng xóm này thì Susanne liền đi vào nhà. Trong lòng anh thầm nghĩ một cách cạn lời:
+Nhưng bà chủ nhà cứ muốn giới thiệu con gái, sau khi trò chuyện xã giao vài câu với hắn hàng xóm này thì Susanne liền đi vào nhà. Trong lòng hắn thầm nghĩ một cách cạn lời:
 
 Bà chủ nhà đúng là không có ý tốt, hèn gì lại giới thiệu cho mình. Bà đang kỳ thị con gái mình đấy, tư tưởng của bà không tự do, đang kỳ thị xu hướng tính dục rồi.
 
-May mắn thay, sau khi chuyển nhà và nghỉ việc thì các mối quan hệ nhân xã đã đơn giản hơn rất nhiều. Môi trường này khiến anh không thể hài lòng hơn được nữa, dù sao phụ nữ có nguy cơ đe dọa xung quanh càng ít thì càng thoải mái.
+May mắn thay, sau khi chuyển nhà và nghỉ việc thì các mối quan hệ nhân xã đã đơn giản hơn rất nhiều. Môi trường này khiến hắn không thể hài lòng hơn được nữa, dù sao phụ nữ có nguy cơ đe dọa xung quanh càng ít thì càng thoải mái.
 
-Về đến nhà, anh lập tức lấy mẫu nước biển bên trong ra để nghiên cứu.
+Về đến nhà, hắn lập tức lấy mẫu nước biển bên trong ra để nghiên cứu.
 
-Anh quan sát những di hài này, đúng thật là một cuộc bùng nổ sinh học, đủ loại hình dạng bạch tuộc, hình vỏ sò hỗn loạn, nhưng anh lại nhìn thấy một tạo vật kinh ngạc —— xe thể thao chạy trên mặt nước và trên cạn.
+Hắn quan sát những di hài này, đúng thật là một cuộc bùng nổ sinh học, đủ loại hình dạng bạch tuộc, hình vỏ sò hỗn loạn, nhưng hắn lại nhìn thấy một tạo vật kinh ngạc —— xe thể thao chạy trên mặt nước và trên cạn.
 
 Đó là một chiếc xe siêu khổng lồ chỉ bằng một nửa con mạt bụi thông thường, có bốn bánh xe, xung quanh có mười hai cái roi xoắn để đẩy, thậm chí còn có cánh, nhỏ nhắn mà tinh xảo.
 
@@ -106,7 +106,7 @@ Bởi vì chiếc xe thể thao này trông thực sự rất giống một con 
 
 Lý Khanh bắt đầu tiến hành phẫu thuật hiển vi, tu bổ và khâu vá phương tiện này.
 
-Niệm động lực của Ninh Quốc Xương chỉ có thể nhấc một miếng bông nhỏ, niệm động lực của Lý Khanh còn yếu hơn, hiện tại chỉ nhấc được một sợi tơ bông, nhấc hai sợi đã mệt đến mức thở hồng hộc, giống như nâng tạ một trăm kg vậy, trực tiếp khiến anh cạn lời luôn!
+Niệm động lực của Ninh Quốc Xương chỉ có thể nhấc một miếng bông nhỏ, niệm động lực của Lý Khanh còn yếu hơn, hiện tại chỉ nhấc được một sợi tơ bông, nhấc hai sợi đã mệt đến mức thở hồng hộc, giống như nâng tạ một trăm kg vậy, trực tiếp khiến hắn cạn lời luôn!
 
 Cái này đúng là thận hư nghiêm trọng mà.
 
@@ -116,7 +116,7 @@ Nhưng niệm động lực ở mức vĩ mô dù nhỏ đến đâu, thì ở m
 
 Rất nhanh sau đó.
 
-Anh đã tu bổ xong chiếc xe này.
+Hắn đã tu bổ xong chiếc xe này.
 
 Đầu óc có chút mệt mỏi, nhưng lại phát hiện siêu năng lực của mình dường như đã được rèn luyện.
 
@@ -162,7 +162,7 @@ Lý Khanh tiếp tục quan sát.
 
 Cả người càng lúc càng ngây dại, chiếc xe hơi này chỉ là một món đồ chơi nhỏ.
 
-Dưới kính hiển vi, anh còn nhìn thấy di hài của loài cá quái dị hơn, Hải Cự Nhân, Hải Chương Ngư, so với kích thước con người thì ít nhất cũng phải cao bằng tòa nhà năm sáu tầng.
+Dưới kính hiển vi, hắn còn nhìn thấy di hài của loài cá quái dị hơn, Hải Cự Nhân, Hải Chương Ngư, so với kích thước con người thì ít nhất cũng phải cao bằng tòa nhà năm sáu tầng.
 
 Còn nhìn thấy cả một pháo đài đảo di động mọc ra vô số roi xoắn, đúng thật là đủ loại quái vật biển sâu Cthulhu.
 

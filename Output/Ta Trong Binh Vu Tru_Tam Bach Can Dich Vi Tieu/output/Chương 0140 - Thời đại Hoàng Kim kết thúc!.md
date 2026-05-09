@@ -90,7 +90,7 @@ Cả thế giới vu sư cộng lại cũng chưa bằng một phần vạn di�
 
 Bên trong trôi qua hơn ba mươi năm mới đột phá Truyền Kỳ, mà bên ngoài mới tương đương với một năm trôi qua... Lý Khanh lúc rảnh rỗi tiếp tục mở rộng thế giới địa tâm, tự nhiên ngày càng to lớn hơn.
 
-Thậm chí, anh đã xây dựng xong ba căn phòng khổng lồ và một phòng khách.
+Thậm chí, hắn đã xây dựng xong ba căn phòng khổng lồ và một phòng khách.
 
 Căn phòng có vô số cột trụ chịu lực, đều là những cột trụ kim loại sinh vật chống đỡ bầu trời.
 
@@ -164,9 +164,9 @@ Một lát sau.
 
 Họ lần lượt đột phá, bước vào cảnh giới mới.
 
-Và lúc này, Lý Khanh tâm ý tương thông, cùng với sự đột phá của tổng cộng năm quyến thuộc Truyền Kỳ, cảnh giới mà anh đã bị kẹt suốt ròng rã một năm đột nhiên lỏng lẻo, não bộ dường như vỡ ra mãnh liệt, một luồng khí tức khủng bố lan tỏa.
+Và lúc này, Lý Khanh tâm ý tương thông, cùng với sự đột phá của tổng cộng năm quyến thuộc Truyền Kỳ, cảnh giới mà hắn đã bị kẹt suốt ròng rã một năm đột nhiên lỏng lẻo, não bộ dường như vỡ ra mãnh liệt, một luồng khí tức khủng bố lan tỏa.
 
 "Cuối cùng cũng bắt đầu rồi!"
 
-Anh cảm nhận sự thay đổi của cơ thể, đang đột phá cảnh giới Bán Thần.
+Hắn cảm nhận sự thay đổi của cơ thể, đang đột phá cảnh giới Bán Thần.
 

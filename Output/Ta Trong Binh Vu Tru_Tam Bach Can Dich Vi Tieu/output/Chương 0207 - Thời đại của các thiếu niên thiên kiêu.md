@@ -43,7 +43,7 @@ Thế nhưng, họ có nỡ buông tay không? Vì người thiên hạ mà hy s
 
 Võ Đạo lịch năm 2671. Thế giới Võ Đạo ngày càng hưng thịnh theo sự luân chuyển của thời đại. Các cường giả không ngừng truyền thừa và sinh sản, thậm chí có một số đứa trẻ của các tồn tại truyền kỳ bắt đầu kế thừa thể chất tuyệt học trong gia tộc. Thánh địa họ Trương tu luyện "Cửu Thiên Huyền Đồng" bắt đầu có những đứa trẻ vừa sinh ra đã kế thừa một phần thể chất, đôi mắt bẩm sinh đã là trùng đồng, tư chất trác tuyệt, được coi là Thánh tử đương thời. Hay như ẩn sĩ họ Từ của "Hoang Cổ Đạo Diệt Pháp" đã xuất hiện một vị Hoang Cổ Bá Thể trẻ tuổi, được người đời gọi là thiếu niên Bán Thần, con đường tiến tới Bán Thần trong tương lai là một dải bằng phẳng.
 
-Đây là một thời đại thịnh trị. Những thiếu niên thiên kiêu mới lần lượt kế thừa thể chất của thế hệ cha anh, bắt đầu hành tẩu trên đại địa, vừa sinh ra đã có điểm xuất phát cực cao. Còn tám vị Bán Thần Võ Đạo kia thì ngày càng ít xuất hiện, được thế nhân gọi là Sơ Cổ Bát Tộc (Tám tộc cổ xưa đầu tiên).
+Đây là một thời đại thịnh trị. Những thiếu niên thiên kiêu mới lần lượt kế thừa thể chất của thế hệ cha hắn, bắt đầu hành tẩu trên đại địa, vừa sinh ra đã có điểm xuất phát cực cao. Còn tám vị Bán Thần Võ Đạo kia thì ngày càng ít xuất hiện, được thế nhân gọi là Sơ Cổ Bát Tộc (Tám tộc cổ xưa đầu tiên).
 
 "Lại là năm trăm năm quang âm." Một thiếu niên môi hồng răng trắng đeo hòm sách trên lưng đi trên phố, cảm thán thế gian đã thay đổi dâu bể.
 

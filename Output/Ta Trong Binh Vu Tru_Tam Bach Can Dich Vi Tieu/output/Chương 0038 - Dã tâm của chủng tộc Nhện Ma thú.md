@@ -31,17 +31,17 @@ Bang Arizona, ngoại ô thành phố Phoenix.
 "Hiện tại, không biết từ lúc nào, khi họ ở trong phòng thí nghiệm nghiên cứu những kỹ thuật luyện kim sinh học và luyện thành thần khí này, đã trôi qua tận hai tháng rồi."
 Vẻ mặt Lý Khanh bình tĩnh, có chút cảm thán, bế quan không màng thời gian, bỗng nhiên nhận ra thời tiết đã trở lạnh, đường phố vắng vẻ đìu hiu.
 "Vào thu rồi."
-Anh cảm nhận sức mạnh của mình một chút.
+Hắn cảm nhận sức mạnh của mình một chút.
 11 giây thức tỉnh.
 Hiện tại.
-Anh đã đeo kính râm thường trực, nhắm mắt lại không dám nhìn lung tung nữa.
+Hắn đã đeo kính râm thường trực, nhắm mắt lại không dám nhìn lung tung nữa.
 Dù sao vô tình nhìn chằm chằm vào một chỗ trong 11 giây là chuyện hết sức bình thường.
 "Cũng đã đến lúc để họ cống hiến thành quả cuối cùng, bản vẽ cự thần Tinh Linh rồi."
 Hiệu quả chắc chắn đã hoàn thành vượt mức mong đợi.
-Cần biết rằng có một vị Thánh nữ Tinh Linh nào đó đã bị kẹt trong khe hở thế giới hơn hai tháng rồi, đã đến lúc phải thả cô ấy ra.
+Cần biết rằng có một vị Thánh nữ Tinh Linh nào đó đã bị kẹt trong khe hở thế giới hơn hai tháng rồi, đã đến lúc phải thả cô ta ra.
 "Theo một nghĩa nào đó, họ đã là chúng thần rồi, hoàn toàn vượt xa Trái Đất."
 Lý Khanh bỗng có cảm giác như cách biệt cả một thế giới.
-Anh hoàn toàn không nghi ngờ gì về việc nếu thả họ ra, những "thiên tai" này có thể thống trị cả Trái Đất trong vòng một năm.
+Hắn hoàn toàn không nghi ngờ gì về việc nếu thả họ ra, những "thiên tai" này có thể thống trị cả Trái Đất trong vòng một năm.
 Nhân loại là bá chủ Trái Đất?
 Vũ khí hạt nhân, hợp kim cứng, súng pháo, máy bay? Vệ tinh?
 Công nghệ quả thực lợi hại.
@@ -49,8 +49,8 @@ Hiện tại họ đừng nói là kính cường lực, ngay cả một miếng
 But hướng đi của cây văn minh là khác nhau. Những sinh mệnh máu thịt như con người, trước kỹ thuật gen sinh mệnh của họ, muốn nhắm vào thì quá đơn giản!
 Và có sự hỗ trợ của nền tảng kỹ thuật này, Lý Khanh cũng dần có được tự tin và bản lĩnh, không còn rụt rè sợ hãi nữa.
 Rắc.
-Anh đẩy cửa bước vào.
-Về đến nhà, anh bắt đầu suy tính về vấn đề mở rộng phòng thí nghiệm cũng như hướng phát triển của mình, bỗng nhiên nghĩ:
+Hắn đẩy cửa bước vào.
+Về đến nhà, hắn bắt đầu suy tính về vấn đề mở rộng phòng thí nghiệm cũng như hướng phát triển của mình, bỗng nhiên nghĩ:
 "Hiện tại là thời kỳ đầu sáng thế, tám nghìn người bọn họ, mỗi người nghiên cứu một dự án chủng loài, các chủng loài trong chuỗi sinh thái văn minh về cơ bản đã được hoàn thành rồi."
 "Bắt đầu thực sự thúc đẩy sự phát triển của văn minh."
 Lúc này.

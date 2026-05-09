@@ -12,7 +12,7 @@ Về điểm này, hắn trực tiếp và đơn thuần một cách bất ngờ
 
 Thực tế, đây chỉ là thực lực nguyên bản của Lý Khanh mà thôi. Tuy ông chỉ là Bán Thần, nhưng mỗi một vòng đều là Chân Thần. Bán Thần đã là sự thống nhất của tất cả các Chân Thần rồi.
 
-'Cô ấy' đôi mắt đẹp lưu chuyển, vị mỹ nhân Thiên Đạo này dường như cảm nhận được điều gì đó, liên tục phân tích: "Hóa ra là vậy, võ đạo của người cũng là sự dung hợp. Ta cảm nhận được trên người người ít nhất có sức mạnh của hàng trăm hệ thống khác nhau, cũng là bí kíp võ công sao?"
+'Cô ta' đôi mắt đẹp lưu chuyển, vị mỹ nhân Thiên Đạo này dường như cảm nhận được điều gì đó, liên tục phân tích: "Hóa ra là vậy, võ đạo của người cũng là sự dung hợp. Ta cảm nhận được trên người người ít nhất có sức mạnh của hàng trăm hệ thống khác nhau, cũng là bí kíp võ công sao?"
 
 "Con đường Bán Thần của người quá dài."
 "Cảnh giới Bán Thần cũng có thể tàn sát Chân Thần, nhưng khí tức hiện tại đã khiến ta cảm thấy sợ hãi. Chúng ta đánh một trận đi??"

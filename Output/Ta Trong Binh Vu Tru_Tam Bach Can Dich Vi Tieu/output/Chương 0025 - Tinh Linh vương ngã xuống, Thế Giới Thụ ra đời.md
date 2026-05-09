@@ -2,9 +2,9 @@
 
 Thời gian đã là ba giờ chiều, Lý Khanh quay trở về phòng.
 
-Anh không đi tập gym vào khung giờ này như thường lệ, cũng không mở máy tính lên để xem lượt xem và bình luận của cái video thứ hai kia.
+Hắn không đi tập gym vào khung giờ này như thường lệ, cũng không mở máy tính lên để xem lượt xem và bình luận của cái video thứ hai kia.
 
-Thay vào đó, anh ở nhà, một lần nữa thông qua camera để quan sát cảnh tượng bên trong phòng thí nghiệm.
+Thay vào đó, hắn ở nhà, một lần nữa thông qua camera để quan sát cảnh tượng bên trong phòng thí nghiệm.
 
 Lúc này.
 
@@ -178,7 +178,7 @@ Trước khi chết, ông ta vẫn giữ tư thế bức tượng tuấn mỹ kh
 
 Lý Khanh đeo bịt mắt lên, nhắm mắt lại, rời khỏi căn phòng.
 
-Cuối cùng mọi chuyện cũng đã ngã ngũ, anh cũng có đủ can đảm để đi ra ngoài ăn tối rồi.
+Cuối cùng mọi chuyện cũng đã ngã ngũ, hắn cũng có đủ can đảm để đi ra ngoài ăn tối rồi.
 
 Lý Khanh thu hồi ánh mắt, gương mặt có chút cảm khái: "Atabia, ngươi đang khao khát sức mạnh của thần minh, vậy ta làm sao lại không khao khát chứ?"
 
@@ -188,7 +188,7 @@ Nền văn minh của ngươi mới chỉ đang nảy mầm, nên mới ngưỡn
 
 Tên điên Atabia này ngay cả vào giây phút cuối cùng của cuộc đời vẫn đang theo đuổi chân lý của sinh mệnh, vẫn đang thăm dò điểm tận cùng của thế giới. Điều này khiến trong lòng Lý Khanh vừa cảm khái vừa chấn động.
 
-Liệu trong tương lai, sẽ có một ngày nào đó anh cũng bước lên con đường giống như Atabia giữa vô số nền văn minh, theo đuổi chân lý và tương lai của thế giới, điểm tận cùng của sự tiến hóa sinh mệnh, là sẽ chết giữa chừng như ông ta? Hay là đi tới được điểm cuối cùng?
+Liệu trong tương lai, sẽ có một ngày nào đó hắn cũng bước lên con đường giống như Atabia giữa vô số nền văn minh, theo đuổi chân lý và tương lai của thế giới, điểm tận cùng của sự tiến hóa sinh mệnh, là sẽ chết giữa chừng như ông ta? Hay là đi tới được điểm cuối cùng?
 
 Đi ăn tối dạo bước trên đường phố, đón lấy ánh hoàng hôn buổi đêm.
 

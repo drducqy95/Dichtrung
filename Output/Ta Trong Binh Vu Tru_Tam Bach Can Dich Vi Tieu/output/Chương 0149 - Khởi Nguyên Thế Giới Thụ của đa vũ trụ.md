@@ -1,20 +1,20 @@
 ﻿# Chương 149: Khởi Nguyên Thế Giới Thụ của đa vũ trụ
 
-Lý Khanh đã bắt đầu ý thức được rằng, Thần Sáng Thế của hệ vách pha lê về bản chất chính là một thợ xây sa bàn, vì vậy anh quyết định cải tạo đội ngũ thi công xây dựng.
+Lý Khanh đã bắt đầu ý thức được rằng, Thần Sáng Thế của hệ vách pha lê về bản chất chính là một thợ xây sa bàn, vì vậy hắn quyết định cải tạo đội ngũ thi công xây dựng.
 
 Tiến hành cập nhật phiên bản cho lực lượng xây dựng nhằm đạt được mục tiêu nâng cao hiệu suất.
 
 Và làm thế nào để nâng cao hiệu suất?
-Trong lòng anh đã có câu trả lời.
+Trong lòng hắn đã có câu trả lời.
 
-Anh tiến vào phòng điều khiển của người khổng lồ, đi ra sân vườn bên ngoài phòng khách, nhìn vào từng cây vàng.
+Hắn tiến vào phòng điều khiển của người khổng lồ, đi ra sân vườn bên ngoài phòng khách, nhìn vào từng cây vàng.
 
-Anh chọn ra một cây vàng cao lớn và phát triển mạnh mẽ nhất, cao tới sáu trăm mét, che rợp cả bầu trời...
+Hắn chọn ra một cây vàng cao lớn và phát triển mạnh mẽ nhất, cao tới sáu trăm mét, che rợp cả bầu trời...
 Từng bắp ngô vàng trĩu nặng, tỏa ra hào quang rực rỡ.
 
 Cả sân vườn lúc này trở nên sáng sủa nhờ ánh sáng và nhiệt tỏa ra từ dòng nham thạch đằng xa, mà từng cái cây cổ thụ vàng óng ánh khiến cả khuôn viên như đang ở trong một quê hương vàng kim trong thần thoại.
 
-Anh điều khiển người khổng lồ, cúi người xuống.
+Hắn điều khiển người khổng lồ, cúi người xuống.
 
 "Cây non nhỏ bé ơi, sau này, ngươi chính là Thế Giới Thụ!"
 
@@ -41,7 +41,7 @@ Vũ trụ không ngừng mở rộng ra bên ngoài, mỗi phút mỗi giây đ�
 
 Lý Khanh vỗ vỗ vào cây Thế Giới trong sân này, tràn đầy kỳ vọng vào nó: "Nhóc con, hãy nỗ lực trở thành trung tâm của vũ trụ này nhé!"
 
-Chỉ có như vậy, bản thân anh mới có thể giải thoát khỏi việc chế tạo hết lần này đến lần khác.
+Chỉ có như vậy, bản thân hắn mới có thể giải thoát khỏi việc chế tạo hết lần này đến lần khác.
 
 Vì tương lai của chính mình, Lý Khanh bắt đầu nghiên cứu cấu trúc sinh mệnh mới này, hy vọng nó có tiềm năng vô hạn.
 
@@ -52,7 +52,7 @@ Nửa tháng trôi qua, thế giới bên trong cuối cùng đã xây dựng xo
 
 Lý Khanh đứng dậy, quay lại phòng khách, đứng trước cửa sổ kính khổng lồ của phòng thí nghiệm, nhìn vào những thành phố nhỏ bé bên trong đã khôi phục trở lại.
 
-"Không biết từ bao giờ, mình vậy mà đã đạt tới trình độ này... tái thiết lập sa bàn nhỏ, dễ như trở bàn tay." Anh lộ ra một tia cảm khái.
+"Không biết từ bao giờ, mình vậy mà đã đạt tới trình độ này... tái thiết lập sa bàn nhỏ, dễ như trở bàn tay." Hắn lộ ra một tia cảm khái.
 
 【Đang tiến hành hiệu chuẩn lần hai...】
 【Đang tiến hành hiệu chuẩn lần ba...】
@@ -62,14 +62,14 @@ Lý Khanh đứng dậy, quay lại phòng khách, đứng trước cửa sổ k
 
 Lỗ hổng này là do Lý Khanh cố ý để lại.
 
-Ánh mắt anh dừng lại ở một phòng thí nghiệm dưới lòng đất.
+Ánh mắt hắn dừng lại ở một phòng thí nghiệm dưới lòng đất.
 
 Toàn bộ thành phố tận thế trong đống đổ nát đang nhanh chóng được cải tạo, xây dựng lại. Những người sống sót dù trốn kỹ đến đâu, dưới sự ngưng đọng thời gian cũng đều bị cưỡng ép lôi ra, hút lên bầu trời để đưa vào lò rèn lại.
 
 Nhưng có một người ngoại lệ.
 
 Hắn không bị đưa vào thời khắc thanh toán khởi động lại.
-Trong trạng thái "ngưng đọng thời gian" ở tầng hầm, anh đặc ý bỏ qua hắn một đợt, để hắn sống tới thế giới khởi động lại tiếp theo.
+Trong trạng thái "ngưng đọng thời gian" ở tầng hầm, hắn đặc ý bỏ qua hắn một đợt, để hắn sống tới thế giới khởi động lại tiếp theo.
 
 【Đã bỏ qua lỗ hổng đó, có nhấn nút khởi động hay không?】
 
@@ -83,7 +83,7 @@ Lý Khanh lộ ra một tia mỉm cười, quay lại sân vườn, lặng lẽ 
 
 "Hãy phát triển bình thường cho ta đi, để ta xem thời đại tận thế thực sự của vũ trụ song song đó sẽ đi tới một tương lai khủng bố như thế nào."
 
-Asol Hahn là một chuyên gia nghiên cứu về phản ứng nhiệt hạch.
+Athol Hahn là một chuyên gia nghiên cứu về phản ứng nhiệt hạch.
 
 Hắn là một siêu thiên tài nổi tiếng từ khi còn trẻ, thậm chí trạm phát điện nhiệt hạch hiện nay chính là công lao của hắn.
 
@@ -111,7 +111,7 @@ Tuy nhiên, lúc này cuối cùng hắn cũng đã cạn kiệt lương thực,
 
 "Mình phải ra ngoài thôi!"
 
-Giọng nói của Asol đã trở nên khản đặc, cuối cùng hắn mở căn phòng của mình ra, "Theo dự đoán của mình, nhân loại chắc đã diệt vong rồi nhỉ?"
+Giọng nói của Athol đã trở nên khản đặc, cuối cùng hắn mở căn phòng của mình ra, "Theo dự đoán của mình, nhân loại chắc đã diệt vong rồi nhỉ?"
 
 Hắn không hề lạc quan về tương lai của nhân loại.
 Lũ zombie đó quá khủng bố.
@@ -120,7 +120,7 @@ Cạch.
 Ánh mặt trời chói chang chiếu vào.
 Hắn cảm thấy mắt hoa lên, đầu óc quay cuồng.
 
-Sau khi Asol thích nghi được, thứ hắn nhìn thấy vậy mà không phải là đống đổ nát của cả thành phố, mà là dòng người náo nhiệt qua lại, đường phố tấp nập vô cùng.
+Sau khi Athol thích nghi được, thứ hắn nhìn thấy vậy mà không phải là đống đổ nát của cả thành phố, mà là dòng người náo nhiệt qua lại, đường phố tấp nập vô cùng.
 Xe cộ trong thành phố không ngừng luân chuyển.
 
 "Chuyện gì đã xảy ra thế này??"

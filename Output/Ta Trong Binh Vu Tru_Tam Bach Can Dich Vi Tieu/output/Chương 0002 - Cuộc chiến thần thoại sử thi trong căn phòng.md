@@ -2,7 +2,7 @@
 
 Lý Khanh bắt đầu tìm cách tìm ra sơ hở trong logic của đối phương.
 
-Nhưng anh phát hiện ra rằng về mặt lý thuyết, không có vấn đề gì lớn cả.
+Nhưng hắn phát hiện ra rằng về mặt lý thuyết, không có vấn đề gì lớn cả.
 
 Hầu hết vi khuẩn đều là đơn bào, chỉ sở hữu vỏn vẹn bốn năm nghìn đoạn gen, rất dễ dàng thực hiện giải mã và tái lập trình cục bộ.
 
@@ -24,7 +24,7 @@ Ninh Quốc Xương nói: "Đúng vậy, lịch sử sự sống hàng tỷ năm
 
 "Quân đội tôi điều khiển đều là tinh nhuệ, nhưng rốt cuộc cũng chỉ có 0.0023 gram, còn chúng có ít nhất bảy trăm gram, vương quốc của tôi đã bị tiêu diệt hoàn toàn. Sau đó, may mà tôi phản ứng kịp thời, dùng cồn y tế tiêu diệt lũ mất kiểm soát đó..."
 
-Lý Khanh nghe mà kinh ngạc, nhìn chằm chằm vào chiếc bàn trước mặt anh ta trong phòng cách ly một hồi lâu mới nói: "Vậy thì đối với văn minh của chúng, đó thực sự là một trận Đại hồng thủy diệt thế."
+Lý Khanh nghe mà kinh ngạc, nhìn chằm chằm vào chiếc bàn trước mặt hắn trong phòng cách ly một hồi lâu mới nói: "Vậy thì đối với văn minh của chúng, đó thực sự là một trận Đại hồng thủy diệt thế."
 
 "Đúng vậy! Trận lụt đó kinh thiên động địa, đi đến đâu thây chất thành núi đến đó!"
 
@@ -60,7 +60,7 @@ Nhưng những điều bất thường này, cũng rất có thể không phải
 
 Nếu vậy thì chuyện này thực sự nghiêm trọng rồi.
 
-"Vậy những thứ còn lại thì sao?" Lý Khanh thuận theo mạch suy nghĩ để trấn an cảm xúc kích động của anh ta, đồng thời cố gắng tìm ra sơ hở trong logic: "Sau trận đại hồng thủy, chắc vẫn còn một số loài vi khuẩn rải rác sống sót chứ?"
+"Vậy những thứ còn lại thì sao?" Lý Khanh thuận theo mạch suy nghĩ để trấn an cảm xúc kích động của hắn ta, đồng thời cố gắng tìm ra sơ hở trong logic: "Sau trận đại hồng thủy, chắc vẫn còn một số loài vi khuẩn rải rác sống sót chứ?"
 
 "Đúng vậy, còn lại không nhiều, chúng trốn đi rồi, cũng không biết đã chạy đi đâu, nhưng không quan trọng."
 
@@ -96,11 +96,11 @@ Con người và vi sinh vật là cộng sinh.
 
 "Đúng vậy, tôi... tôi lại tạo ra những vương quốc mất kiểm soát, lần này, chúng sinh ra ngay trong cơ thể tôi."
 
-Giọng nói của Ninh Quốc Xương kéo Lý Khanh trở lại từ nỗi sợ hãi, giọng anh bình tĩnh một cách lạ thường: "Cậu có biết không? Cơ thể con người là một vương quốc sinh thái phức tạp, số lượng tế bào cơ thể ở người trưởng thành vào khoảng 60 nghìn tỷ, nhưng số lượng vi khuẩn có thể hình thành mối quan hệ cộng sinh ổn định với cơ thể con người đạt tới 1000 nghìn tỷ."
+Giọng nói của Ninh Quốc Xương kéo Lý Khanh trở lại từ nỗi sợ hãi, giọng hắn bình tĩnh một cách lạ thường: "Cậu có biết không? Cơ thể con người là một vương quốc sinh thái phức tạp, số lượng tế bào cơ thể ở người trưởng thành vào khoảng 60 nghìn tỷ, nhưng số lượng vi khuẩn có thể hình thành mối quan hệ cộng sinh ổn định với cơ thể con người đạt tới 1000 nghìn tỷ."
 
 "Một phần trong số chúng đã thức tỉnh, thẩm thấu và bò lổm ngổm khắp mọi nơi từ trong ra ngoài."
 
-Anh đưa tay ra, lặng lẽ nhìn bàn tay nứt nẻ như da rắn, trên khuôn mặt nghiêm nghị đó dường như đang đếm kỹ những vi sinh vật đang bò trên lỗ chân lông:
+Hắn đưa tay ra, lặng lẽ nhìn bàn tay nứt nẻ như da rắn, trên khuôn mặt nghiêm nghị đó dường như đang đếm kỹ những vi sinh vật đang bò trên lỗ chân lông:
 
 "Nhìn đi, chúng đang nhìn chằm chằm vào tôi, bên trong cơ thể tôi đã biến thành một vương quốc khổng lồ!"
 
@@ -124,7 +124,7 @@ Cậu không lừa tôi, cậu gọi tôi qua là vì cậu thực sự sắp ch
 
 Trong lòng Lý Khanh hoàn toàn im lặng, cảm thấy quan điểm của bản thân đã bị đảo lộn hoàn toàn.
 
-Dường như anh đang chứng kiến một bộ phim chiến tranh văn minh, người đàn ông đang ngồi trên ghế nghi là mắc chứng hoang tưởng nặng trước mắt này, chính là người khổng lồ vĩ đại đã tạo ra nền văn minh thế giới.
+Dường như hắn đang chứng kiến một bộ phim chiến tranh văn minh, người đàn ông đang ngồi trên ghế nghi là mắc chứng hoang tưởng nặng trước mắt này, chính là người khổng lồ vĩ đại đã tạo ra nền văn minh thế giới.
 
 Toàn bộ xưởng cách ly giống như một Trái Đất hoàn toàn mới, sắp diệt vong để khai mở trời đất.
 

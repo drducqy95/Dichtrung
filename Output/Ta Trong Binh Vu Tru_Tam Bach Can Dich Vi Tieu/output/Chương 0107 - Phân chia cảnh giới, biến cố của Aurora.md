@@ -32,7 +32,7 @@ Năng lượng của thế giới Thâm Uyên hiện tại đang thiếu hụt q
 
 *Gulu gulu~~* Năng lượng bắt đầu tràn đầy trở lại thế giới này.
 
-Thực tế, đây cũng là một loại cấu trúc bổ sung mà Lý Khanh đã chuẩn bị từ lâu. Sau này bên trong thế giới chắc chắn sẽ thông qua vách ngăn pha lê để bổ sung năng lượng. Bởi vì bây giờ khác hẳn với thời viễn cổ, khi đó vẫn chưa tiến hóa ra mắt và miệng, nếu thần cứ cách một thời gian lại tới quăng thức ăn thì quá mất phong thái rồi. Căn phòng thứ ba của anh làm một phòng dự trữ năng lượng lớn như vậy chính là chuyên môn dùng để duy trì vách ngăn pha lê, đồng thời bổ sung năng lượng cho văn minh bên trong.
+Thực tế, đây cũng là một loại cấu trúc bổ sung mà Lý Khanh đã chuẩn bị từ lâu. Sau này bên trong thế giới chắc chắn sẽ thông qua vách ngăn pha lê để bổ sung năng lượng. Bởi vì bây giờ khác hẳn với thời viễn cổ, khi đó vẫn chưa tiến hóa ra mắt và miệng, nếu thần cứ cách một thời gian lại tới quăng thức ăn thì quá mất phong thái rồi. Căn phòng thứ ba của hắn làm một phòng dự trữ năng lượng lớn như vậy chính là chuyên môn dùng để duy trì vách ngăn pha lê, đồng thời bổ sung năng lượng cho văn minh bên trong.
 
 "Hệ sinh thái đã tự tuần hoàn rồi." Lý Khanh đứng trước cửa sổ, nhìn gió thu hiu hắt trên phố ngoài kia, dần dần có chút xuất thần. "Cũng tốt, kỷ nguyên sáng tạo kết thúc, bước vào kỷ nguyên phát triển ổn định rồi."
 
@@ -40,7 +40,7 @@ Bãi bể nương dâu, thời đại hỗn độn nguyên thủy sáng tạo ra
 
 Tuy nhiên Elise cũng đã ngã xuống. Cũng giống như những người thống trị thời đại đã ngã xuống trong lịch sử như Atabia, Herodotus... Chiến quả trước khi chết của Elise vô cùng rực rỡ. Nàng vẫn đột phá được phòng tuyến của hai khẩu súng, chém đứt đầu của vị bán thần kia.
 
-Lý Khanh không bận tâm đến điều này. Dùng mạng đổi lấy một cái đầu mà thôi... nối lại là được, huống hồ chỉ là một hộ vệ số 0 nhỏ bé, chết rồi anh cũng lười đi phục hồi. Chỉ là, kẻ điên kia trước khi lâm chung vậy mà lại có hành động khiến anh kinh ngạc.
+Lý Khanh không bận tâm đến điều này. Dùng mạng đổi lấy một cái đầu mà thôi... nối lại là được, huống hồ chỉ là một hộ vệ số 0 nhỏ bé, chết rồi hắn cũng lười đi phục hồi. Chỉ là, kẻ điên kia trước khi lâm chung vậy mà lại có hành động khiến hắn kinh ngạc.
 
 Mộ viên của chúng thần Thâm Uyên. Nàng đã tự an táng mình ở đó. Rõ ràng là muốn đi theo con đường của Herodotus. Người ta mở ra Cánh cửa Chân lý, an táng trong mộ viên Tinh Linh, nàng mở ra Cánh cửa Chân lý, an táng trong mộ viên Thâm Uyên.
 
@@ -48,7 +48,7 @@ Mộ viên của chúng thần Thâm Uyên. Nàng đã tự an táng mình ở �
 
 "Tuy nhiên, Aurora vậy mà có chút kỳ quái." Lý Khanh trầm tư. Nhìn vào đống linh hồn vất vưởng của chúng thần Thâm Uyên và Elise trong mộ viên. Vậy mà lại bén rễ bên trong đại não của Yêu tinh chi thần Aurora, dường như đang thai nghén thành sinh mệnh mới, trở thành linh hồn mới.
 
-"Có lẽ, bên trong cự thần Aurora này, sau khi hấp thụ tư duy của tất cả chúng thần, sẽ có ý thức mới ra đời." Lý Khanh rất chắc chắn. Quyến thuộc Elise của anh đã chết, điểm này không giấu được anh, nhưng cái chết chỉ là của Elise, còn bộ giáp ngoại cốt cách cự nhân của nàng vẫn còn sống. Anh cũng có thể điều khiển đối phương giống như điều khiển Lôi Thần. Nhưng Lý Khanh cũng không định làm như vậy.
+"Có lẽ, bên trong cự thần Aurora này, sau khi hấp thụ tư duy của tất cả chúng thần, sẽ có ý thức mới ra đời." Lý Khanh rất chắc chắn. Quyến thuộc Elise của hắn đã chết, điểm này không giấu được hắn, nhưng cái chết chỉ là của Elise, còn bộ giáp ngoại cốt cách cự nhân của nàng vẫn còn sống. Hắn cũng có thể điều khiển đối phương giống như điều khiển Lôi Thần. Nhưng Lý Khanh cũng không định làm như vậy.
 
 Bởi vì dường như theo thời gian trôi qua, Aurora đang thai nghén sinh mệnh mới, thậm chí bắt đầu bản năng ăn uống để bổ sung năng lượng. Mà phương hướng ăn uống vậy mà lại là bán thần số 0, cùng với hai khẩu súng kia.
 
@@ -56,14 +56,14 @@ Bởi vì dường như theo thời gian trôi qua, Aurora đang thai nghén sin
 
 "Rõ ràng, nàng đang tiến hóa." Lý Khanh trầm tư. Cảm thấy đây là một phát hiện mới! Mộ viên này, đây là một loại đại não tế bào đơn tích hợp tương tự trước đó, một loại ý thức linh hồn tích hợp siêu khổng lồ kiểu mới rồi sao? Hấp thụ trí tuệ của chúng thần Thâm Uyên, sinh mệnh này bắt đầu bản năng tiến hóa, hoàn thiện cái xác này, và đang thai nghén ra trí tuệ mới...
 
-Đối với việc này, Lý Khanh định tiếp tục quan sát. Anh nhốt nàng và số 0 vào trong quan tài kính cường lực, cùng với hai khẩu súng kia, coi như chất dinh dưỡng cho nàng, xem thử sẽ xuất hiện thứ gì. Dù sao anh cũng có thể kiểm soát tính mạng của nàng.
+Đối với việc này, Lý Khanh định tiếp tục quan sát. Hắn nhốt nàng và số 0 vào trong quan tài kính cường lực, cùng với hai khẩu súng kia, coi như chất dinh dưỡng cho nàng, xem thử sẽ xuất hiện thứ gì. Dù sao hắn cũng có thể kiểm soát tính mạng của nàng.
 
 "Nếu mộ viên của chúng thần Thâm Uyên có tác dụng, vậy nếu nhét mộ viên của chúng thần Tinh Linh vào não của một cự thần nào đó, liệu cũng sẽ sinh ra một sinh mệnh cường đại mới?"
 "Linh hồn của những vị thần văn minh đã chết, ta còn có thể tận dụng thêm một lần nữa sao?"
 
-Lý Khanh đối với thu hoạch lần này thực sự quá hài lòng. Ngũ giác. Aurora. Chúng thần đã chết, thời đại mới ra đời. Hắc Thiết, Bạch Ngân, Hoàng Kim, Truyền Kỳ... Lý Khanh không ngừng kiểm kê thu hoạch, cảm thấy càng thêm hài lòng. Những thông tin đột phá ngũ giác giúp năng lực của anh hoàn toàn đi vào quỹ đạo. Trước đây vẫn là dùng các loại súng ống, bộ định tuyến, đồ đạc linh tinh để cưỡng ép tạo phong thái, lừa bịp nền văn minh vi mô trong phòng thí nghiệm, hiện tại, những thứ này đều có thể vứt bỏ hết rồi.
+Lý Khanh đối với thu hoạch lần này thực sự quá hài lòng. Ngũ giác. Aurora. Chúng thần đã chết, thời đại mới ra đời. Hắc Thiết, Bạch Ngân, Hoàng Kim, Truyền Kỳ... Lý Khanh không ngừng kiểm kê thu hoạch, cảm thấy càng thêm hài lòng. Những thông tin đột phá ngũ giác giúp năng lực của hắn hoàn toàn đi vào quỹ đạo. Trước đây vẫn là dùng các loại súng ống, bộ định tuyến, đồ đạc linh tinh để cưỡng ép tạo phong thái, lừa bịp nền văn minh vi mô trong phòng thí nghiệm, hiện tại, những thứ này đều có thể vứt bỏ hết rồi.
 
-Anh đã bắt đầu sở hữu nội hàm thực sự, nền tảng để tạo ra văn minh siêu phàm. Hai sa bàn thí nghiệm văn minh nhỏ bé đã xuất hiện cường giả cấp Hoàng Kim, anh có thể phóng đại theo tỉ lệ bất cứ lúc nào, triệu hoán một sinh mệnh siêu phàm cùng thể hình trong thực tế. Có thể thấy hai sa bàn nhỏ bé này đã mang lại cho anh lợi ích một vốn bốn lời.
+Hắn đã bắt đầu sở hữu nội hàm thực sự, nền tảng để tạo ra văn minh siêu phàm. Hai sa bàn thí nghiệm văn minh nhỏ bé đã xuất hiện cường giả cấp Hoàng Kim, hắn có thể phóng đại theo tỉ lệ bất cứ lúc nào, triệu hoán một sinh mệnh siêu phàm cùng thể hình trong thực tế. Có thể thấy hai sa bàn nhỏ bé này đã mang lại cho hắn lợi ích một vốn bốn lời.
 
 "Có lẽ, ta nên thử nghiệm, mở ra một sa bàn lớn trong thực tế, trong đó tạo ra những cự nhân vạn trượng thực sự theo tỉ lệ." Lý Khanh đột nhiên nảy ra ý nghĩ.
 

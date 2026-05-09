@@ -2,8 +2,8 @@
 
 "Chuyện gì cũng đều muốn kéo lên người mình."
 Lý Khanh nhìn Lục Láp đã rời đi.
-Hiện tại đã hóa thân thành gã béo ác ma mặt cười này, anh vẫn đang ở trong sân ăn uống.
-Thỉnh thoảng anh lại ngước nhìn vị Cự Nhân Vương Asol sừng sững chọc trời ở phía xa:
+Hiện tại đã hóa thân thành gã béo ác ma mặt cười này, hắn vẫn đang ở trong sân ăn uống.
+Thỉnh thoảng hắn lại ngước nhìn vị Cự Nhân Vương Athol sừng sững chọc trời ở phía xa:
 
 "Nhưng cũng là lẽ đương nhiên thôi, bối cảnh thế giới do mình thiết kế, vị tiến sĩ này làm như vậy để thoát khỏi vòng luân hồi là hợp logic nhất."
 
@@ -18,17 +18,17 @@ Sở dĩ có sự phân hóa này là vì đem cấu trúc của chính mình ch
 Nếu có Bán Thần nhân loại Trái Đất, vậy thì nhân loại mà hắn dị biến cũng nhất định sẽ chia thành người da vàng, người da trắng, người da đen, thậm chí còn có cả người Neanderthal, người tinh khôn nguyên thủy... tất cả các nhánh của nhân loại.
 
 Vậy chủng tộc phân hóa của Lý Khanh là gì?
-Đương nhiên là những chủng tộc vốn đã có dưới trướng anh!
+Đương nhiên là những chủng tộc vốn đã có dưới trướng hắn!
 Theo một ý nghĩa nào đó mà nói.
-Anh là "Toàn" (cái toàn thể), một phần cấu trúc của anh chính là quyến tộc tạo vật của mình, chính là Bán Thần nhân loại, Bán Thần cơ giới, Bán Thần zombie...
+Hắn là "Toàn" (cái toàn thể), một phần cấu trúc của hắn chính là quyến tộc tạo vật của mình, chính là Bán Thần nhân loại, Bán Thần cơ giới, Bán Thần zombie...
 
-Cho nên, con đường của anh rất, rất dài.
-Con đường Bán Thần này của anh có độ khó gấp hàng chục vạn lần so với con đường Bán Thần đơn nhất của họ!
-Tất cả các Bán Thần cộng lại, chính là anh...
+Cho nên, con đường của hắn rất, rất dài.
+Con đường Bán Thần này của hắn có độ khó gấp hàng chục vạn lần so với con đường Bán Thần đơn nhất của họ!
+Tất cả các Bán Thần cộng lại, chính là hắn...
 
-Vì vậy, anh cần phải sáng tạo ra vô số chủng tộc phân nhánh, vô tận thế giới, vô số nhân vật chính của thời đại các chủng tộc, mới có thể đi hết con đường Bán Thần này.
+Vì vậy, hắn cần phải sáng tạo ra vô số chủng tộc phân nhánh, vô tận thế giới, vô số nhân vật chính của thời đại các chủng tộc, mới có thể đi hết con đường Bán Thần này.
 
-Và trước mắt, vị Bán Thần Sáng Thế này của anh những năm qua không phải là ngồi không, bản thân không thể tu luyện nên lúc rảnh rỗi anh đã biến hộ vệ số 0 của mình là Lôi Thần thăng cấp lên Bán Thần.
+Và trước mắt, vị Bán Thần Sáng Thế này của hắn những năm qua không phải là ngồi không, bản thân không thể tu luyện nên lúc rảnh rỗi hắn đã biến hộ vệ số 0 của mình là Lôi Thần thăng cấp lên Bán Thần.
 Sở hữu cú đấm tôm tít (mantis shrimp) của nó là chuyện dễ như trở bàn tay.
 
 Uỳnh uỳnh!
@@ -64,7 +64,7 @@ Vô số tiếng gầm thét giận dữ vang dội.
 Bất kể sự tồn tại đó rốt cuộc là cái gì, nhưng việc tái cấu trúc cấu trúc cơ thể, không còn nghi ngờ gì nữa chính là khoảnh khắc yếu ớt nhất của ông ta.
 
 "Ngươi đừng có mơ!"
-Asol bỗng nhiên ngẩng đầu, sải bước chạy vọt qua, giẫm nát không ít xe hơi, biển báo, cửa hàng trên đường, tung một cú đấm tới.
+Athol bỗng nhiên ngẩng đầu, sải bước chạy vọt qua, giẫm nát không ít xe hơi, biển báo, cửa hàng trên đường, tung một cú đấm tới.
 
 "Vạn Đồng!" Ninh Quốc Xương cũng phối hợp nhịp nhàng bắt đầu phát động tấn công, từng con mắt trên mái tóc dài cùng nhìn về một hướng, tạo thành một luồng sóng ý thức ngưng tụ cao độ.
 
@@ -80,7 +80,7 @@ Cánh tay trái của ông ta đang hội tụ trước tiên, bàn tay đó đ�
 "Tấn công hắn đi!"
 "Hắn chỉ có xương cốt thôi, hiện tại mới chỉ hội tụ được một bàn tay thôi!"
 "Nhìn khí tức chẳng qua cũng chỉ là Bán Thần!"
-Bọn người Asol, giáo sư Lý Uyển Ninh đang gào thét.
+Bọn người Athol, giáo sư Lý Uyển Ninh đang gào thét.
 
 Walton đang ghi hình, thay cho văn minh nhân loại ghi lại khoảnh khắc định sẵn là mang tính lịch sử này.
 Người đàn ông toàn thân tỏa ra những luồng điện bạc nhạt, chậm rãi mở mắt.
@@ -101,7 +101,7 @@ Cả vùng đại địa châu Mỹ dường như bị một chiếc máy cắt 
 Tất cả mọi người đều đờ đẫn tại chỗ, dường như đã nhìn thấy một kỳ tích thần thánh không thể tin nổi.
 
 Lý Khanh lặng lẽ quan sát đòn tấn công này.
-Hiện tại, vị Bán Thần Quyền Đầu nửa mùa này của anh tự nhiên không làm được như vậy, anh đã âm thầm gia trì toàn bộ sức mạnh của mình, thậm chí còn có cả nguyên lý của bong bóng không gian.
+Hiện tại, vị Bán Thần Quyền Đầu nửa mùa này của hắn tự nhiên không làm được như vậy, hắn đã âm thầm gia trì toàn bộ sức mạnh của mình, thậm chí còn có cả nguyên lý của bong bóng không gian.
 Mặc dù vị trùm cuối đứng sau này đang âm thầm giúp đỡ "hack game", nhưng hiệu ứng thị giác chắc là cũng không tệ.
 
 "Một cú đấm, đây chỉ là một cú đấm hướng vào không khí thôi sao?" Walton gào lên.
@@ -167,7 +167,7 @@ Một giọng nói rộng lớn vô biên từ ngoài thế giới xuyên thấu
 " 'Mộng y' Hekress, ngươi vẫn không nỡ từ bỏ quê hương trên Trái Đất sao?"
 
 Câu nói này khiến tất cả mọi người đều kinh hãi.
-Đặc biệt là trên Trái Đất, bên trong Học viện Tinh linh Bóng đêm của Silph ở Phoenix, bọn người Walton, lão già Corben, và cả nhóm học sinh khóa hai như Asol, Kardashian, Henderson, Arsol.
+Đặc biệt là trên Trái Đất, bên trong Học viện Tinh linh Bóng đêm của Silph ở Phoenix, bọn người Walton, lão già Corben, và cả nhóm học sinh khóa hai như Athol, Kardashian, Henderson, Arsol.
 
 Đầu óc họ nhất thời trống rỗng hoàn toàn.
 Giọng nói này, loại khí tức quen thuộc này, họ đã từng nhìn thấy trong hình ảnh lịch sử ở quả cầu pha lê, trong trận chiến vực thẳm, chính là vị quân chủ cổ xưa từng mang danh 'Quyền Đầu'.

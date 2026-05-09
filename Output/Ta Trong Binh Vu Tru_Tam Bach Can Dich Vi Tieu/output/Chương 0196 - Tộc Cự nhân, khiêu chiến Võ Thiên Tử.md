@@ -13,11 +13,11 @@ Phía sau có Aurora đang chỉ điểm cho Silph đánh cờ: "Đánh vào đ�
 "Đừng chỉ điểm nữa, tôi không đánh lại nổi Bệ hạ đâu, chính vì cô mà tôi mới thua đấy, cứ ở bên cạnh dạy tôi đánh cờ dở tệ, xem cờ không nói là quân tử cô có biết không?" Silph trợn trắng mắt.
 
 Lý Khanh vừa đánh cờ vừa quan sát văn minh võ đạo ở phía bên kia, bỗng nhiên nở một nụ cười rạng rỡ.
-Vị hoàng đế đó quá đỗi phù hợp với quy hoạch của anh.
-Từng văn minh bí cảnh nhỏ của mảnh vỡ Á không gian kia vàng thau lẫn lộn, nội hàm quá ít, anh uổng công đưa cho họ phương pháp đột phá bảy cảnh giới, rốt cuộc chỉ tạo ra một sự cạnh tranh ác tính.
+Vị hoàng đế đó quá đỗi phù hợp với quy hoạch của hắn.
+Từng văn minh bí cảnh nhỏ của mảnh vỡ Á không gian kia vàng thau lẫn lộn, nội hàm quá ít, hắn uổng công đưa cho họ phương pháp đột phá bảy cảnh giới, rốt cuộc chỉ tạo ra một sự cạnh tranh ác tính.
 Toàn là một lũ chủng tộc rác rưởi có cảnh giới rỗng tuếch.
 
-Tuy nhiên, việc anh ném Võ đạo Thiên Tử vào đó đã hoàn toàn bổ khuyết nội hàm cho chủng tộc.
+Tuy nhiên, việc hắn ném Võ đạo Thiên Tử vào đó đã hoàn toàn bổ khuyết nội hàm cho chủng tộc.
 Hình thành nên một văn minh võ đạo khổng lồ và thành thục.
 Quả nhiên sự tích lũy của văn minh võ đạo trước đây đã được dùng đúng chỗ và nhận lại được báo đáp.
 

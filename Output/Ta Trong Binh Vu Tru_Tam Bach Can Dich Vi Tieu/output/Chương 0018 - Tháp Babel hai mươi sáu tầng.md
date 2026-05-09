@@ -18,7 +18,7 @@ Nửa thân người, nửa thân thú.
 
 Quân đội được huấn luyện bài bản, bước ra khỏi đại dương, giết thẳng lên đỉnh vương thành chí cao nằm ở trung tâm lục địa.
 
-Anh bắt đầu cảm thấy kinh diễm.
+Hắn bắt đầu cảm thấy kinh diễm.
 
 Trận chiến này còn thần thoại hơn cả thần thoại, sự tấn công của mấy chục triệu binh lính, mà trong đó mỗi một người đều tinh xảo đến cực điểm.
 
@@ -86,7 +86,7 @@ Họ giơ cao những Thần khí đã giác tỉnh, chém giết kẻ thù.
 
 Lý Khanh chỉ lặng lẽ dõi theo.
 
-Anh bỗng nhớ lại cảnh tượng Ninh Quốc Xương mô tả về cuộc giao tranh giữa hai đội quân khi đó.
+Hắn bỗng nhớ lại cảnh tượng Ninh Quốc Xương mô tả về cuộc giao tranh giữa hai đội quân khi đó.
 
 Ông ta nói rằng, đó là một cảnh tượng chiến tranh thảm khốc kinh hoàng, tráng lệ sánh ngang với thần thoại.
 
@@ -114,7 +114,7 @@ Lý Khanh suy nghĩ một chút.
 
 "Hiện tại đã thực hiện xong việc cổ vũ trước trận chiến, giúp quân đội kéo một đợt sĩ khí rồi, không còn việc gì của mình nữa, bây giờ đi ăn cơm cũng không muộn."
 
-Lấy điện thoại ra treo giám sát để theo dõi, tránh xảy ra bất kỳ sự cố nào, sau đó anh ra khỏi nhà.
+Lấy điện thoại ra treo giám sát để theo dõi, tránh xảy ra bất kỳ sự cố nào, sau đó hắn ra khỏi nhà.
 
 Vội vã đi ra ngoài mua bữa sáng, sau đó mang theo laptop quay về phòng khách.
 
@@ -124,7 +124,7 @@ Lúc quay về đã trôi qua nửa giờ đồng hồ, vẫn còn đang đánh 
 
 Lý Khanh lộ ra vẻ mặt "quả nhiên là vậy".
 
-Xem một lát, anh trực tiếp đứng cách xa khoảng bảy tám mét, đi vào phòng khách bắt đầu nghịch máy tính, xem qua những bình luận ngày hôm qua.
+Xem một lát, hắn trực tiếp đứng cách xa khoảng bảy tám mét, đi vào phòng khách bắt đầu nghịch máy tính, xem qua những bình luận ngày hôm qua.
 
 Dường như có các tài khoản marketing từ đủ các nền tảng dẫn luồng, vậy mà đã có tới 3,81 triệu lượt xem rồi, trở thành video có lượt xem đứng đầu toàn bộ trang video trong thời gian gần đây.
 
@@ -154,9 +154,9 @@ Nhấn upload.
 
 Đây đại khái đúng là cái video cuối cùng thật.
 
-Lý Khanh vốn chỉ định kiếm tiền nhanh, cái video tiếp theo này ước chừng thu nhập cũng không thấp, hai cái video đại khái là đủ cho chi tiêu tạm thời của anh rồi, sau này thiếu tiền thì tính sau.
+Lý Khanh vốn chỉ định kiếm tiền nhanh, cái video tiếp theo này ước chừng thu nhập cũng không thấp, hai cái video đại khái là đủ cho chi tiêu tạm thời của hắn rồi, sau này thiếu tiền thì tính sau.
 
-Anh vừa mới đăng video, rất nhanh đã có người nhấn vào xem.
+Hắn vừa mới đăng video, rất nhanh đã có người nhấn vào xem.
 
 Và rất nhanh đã có bình luận.
 
@@ -206,7 +206,7 @@ Ninh Quốc Xương đã sống ở bên trong đó lâu như vậy, họ chắc
 
 "Mình chỉ tùy tiện đăng cái video nhỏ thôi mà họ cũng đoán ra được, lợi hại thật đấy." Lý Khanh đặt máy tính xuống.
 
-Ánh mắt anh hướng về phía xa.
+Ánh mắt hắn hướng về phía xa.
 
 Phát hiện tòa tháp Babel của toàn bộ vương thành đã có hai mươi lăm tầng, dường như đốt xương sống thứ hai mươi sáu cuối cùng sắp sửa xuất hiện rồi.
 

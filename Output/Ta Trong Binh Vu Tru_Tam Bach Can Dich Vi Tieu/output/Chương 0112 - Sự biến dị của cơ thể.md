@@ -4,7 +4,7 @@ Phú hào đẳng cấp thế giới, đóng phim kiểu chơi bời.
 
 "Cũng có thể xem một chút, để giết thời gian." Lý Khanh ngồi trước máy tính vươn vai một cái, cười như không cười: "Chứng kiến từng thời đại của những người thống trị rời đi, thời không anh hùng, cựu thần ngủ say... những kẻ kia vậy mà cảm thấy mình đã đủ khả năng rồi." Chẳng qua chỉ là một nhóm thương nhân mà thôi.
 
-Anh lại liếc nhìn vào bên trong. Trong thế giới Thâm Uyên.
+Hắn lại liếc nhìn vào bên trong. Trong thế giới Thâm Uyên.
 
 Bọn người Walton — mấy lão già phú hào thế giới — đang đáng thương tội nghiệp đóng vai những kẻ lượm ve chai thời mạt nhật.
 
@@ -44,7 +44,7 @@ Họ hạ quyết tâm. Bây giờ ngày tháng trôi qua thê thảm quá. Cái
 
 Lý Khanh không hề nghi ngờ thế giới Thâm Uyên này sau khi hấp thu văn minh hiện đại của nhân loại, sẽ vượt xa mức sống trung bình của Trái Đất. Không có điện thì dùng điện sinh học. Không có dây mạng thì dùng tơ điện nhện đặc biệt, kết nối với những con ốc sên slime đặc biệt để thực hiện đàm thoại. Không có đường sắt cao tốc thì dùng tơ nhện làm đường ray, kéo xe ngựa ma pháp. Thời đại không có kim loại thì dùng vật liệu sinh học thay thế, đây chính là văn minh phù thủy Thâm Uyên.
 
-Anh chỉ liếc nhìn một cái rồi không xem nữa. Dự kiến thời đại cũng sẽ bước vào một thời kỳ đi lên chậm chạp. Bởi vì không còn là thời đại sáng thế tiến triển thần tốc nữa. Bây giờ là thời đại tu hành, chỉ có thể thành thành thật thật tu luyện, sao có thể nhanh chóng tới được cảnh giới Hoàng Kim, Truyền Kỳ?
+Hắn chỉ liếc nhìn một cái rồi không xem nữa. Dự kiến thời đại cũng sẽ bước vào một thời kỳ đi lên chậm chạp. Bởi vì không còn là thời đại sáng thế tiến triển thần tốc nữa. Bây giờ là thời đại tu hành, chỉ có thể thành thành thật thật tu luyện, sao có thể nhanh chóng tới được cảnh giới Hoàng Kim, Truyền Kỳ?
 
 Dù thể hình nhỏ, cần ít năng lượng, ước chừng cũng cần một hai tháng bên ngoài, tức là một hai năm bên trong, vượt qua cả Kỷ nguyên Mùa Đông, mới có người ngưng tụ tinh hạch, hoặc là đột phá tới cảnh giới tiếp theo chăng? Mà trong thời gian này, không chỉ phải chống lại thiên tai, mà còn phải chống lại các bộ lạc khác. Bởi vì khi một bộ lạc thiếu thốn thức ăn, chắc chắn sẽ điên cuồng phát động chiến tranh, cướp đoạt thức ăn...
 
@@ -54,13 +54,13 @@ Dù thể hình nhỏ, cần ít năng lượng, ước chừng cũng cần mộ
 
 Hiện tại, máy tính sinh học đã hoàn toàn hoàn thành. Hoàn toàn có thể áp dụng câu nói kia: một ống nghiệm 1.5 ml có thể chứa 1000 tỷ chiếc máy tính DNA, loại "máy tính lỏng" này có tốc độ tính toán đạt tới 1 tỷ lần mỗi giây. Cự thần Naga kia đã biến thành một quản gia thông minh Jarvis tương tự như của Iron Man. Sau khi không ngừng học hỏi kiến thức hacker, toàn bộ mạng internet của nhân loại hiện đại đều bắt đầu bị Sylph dễ dàng chinh phục. Vị Hải Vương Naga này đang bơi lội trong đại dương thông tin.
 
-Phải biết rằng, máy tính DNA này đã là loại máy tính xịn nhất dưới máy tính lượng tử rồi. Mà máy tính lượng tử của nhân loại cơ bản đều là cấp quốc gia, khổng lồ và cồng kềnh, kỹ thuật không chín muồi, xa xa không so bì được với Sylph. Sylph — kẻ vẫn luôn âm thầm phát triển này — quả thực đã mang lại cho anh một bất ngờ lớn.
+Phải biết rằng, máy tính DNA này đã là loại máy tính xịn nhất dưới máy tính lượng tử rồi. Mà máy tính lượng tử của nhân loại cơ bản đều là cấp quốc gia, khổng lồ và cồng kềnh, kỹ thuật không chín muồi, xa xa không so bì được với Sylph. Sylph — kẻ vẫn luôn âm thầm phát triển này — quả thực đã mang lại cho hắn một bất ngờ lớn.
 
 "Vừa vặn, khống chế Sylph dùng thủ đoạn hacker, xóa sạch những thông tin mình đã trao đổi với người phụ trách công ty kia." Lý Khanh trầm tư, "Dù sao ở thực tế cũng chưa từng thực sự gặp mặt."
 
-Mười phút sau, hoàn thành tất cả những việc này, Lý Khanh coi như đã hoàn toàn không để lại sơ hở nào từ thời kỳ trưởng thành trước đó nữa. Vẫn là vị hắc thủ sau màn không thể tra ra gốc gác. Sau đó anh bắt đầu âm thầm bế quan, cảm nhận sự lột xác của linh hồn.
+Mười phút sau, hoàn thành tất cả những việc này, Lý Khanh coi như đã hoàn toàn không để lại sơ hở nào từ thời kỳ trưởng thành trước đó nữa. Vẫn là vị hắc thủ sau màn không thể tra ra gốc gác. Sau đó hắn bắt đầu âm thầm bế quan, cảm nhận sự lột xác của linh hồn.
 
-Gần đây anh phát hiện trên người mình xuất hiện một sự thay đổi cực kỳ kinh khủng. Sức quyến rũ tỏa ra từ người anh, trước đây thu hút phụ nữ, sau đó thu hút đàn ông, sau đó nữa còn thu hút cả động vật, côn trùng, gián... Thậm chí bây giờ càng lúc càng quá đáng, đã bắt đầu thu hút cả vi sinh vật rồi!
+Gần đây hắn phát hiện trên người mình xuất hiện một sự thay đổi cực kỳ kinh khủng. Sức quyến rũ tỏa ra từ người anh, trước đây thu hút phụ nữ, sau đó thu hút đàn ông, sau đó nữa còn thu hút cả động vật, côn trùng, gián... Thậm chí bây giờ càng lúc càng quá đáng, đã bắt đầu thu hút cả vi sinh vật rồi!
 
-Hiện tại, những vi sinh vật cộng sinh trên người vậy mà đang dần dần dung hợp với anh. DNA của chúng đang bị anh hòa nhập vào cấu trúc DNA của mình, hòa làm một thể với anh.
+Hiện tại, những vi sinh vật cộng sinh trên người vậy mà đang dần dần dung hợp với hắn. DNA của chúng đang bị hắn hòa nhập vào cấu trúc DNA của mình, hòa làm một thể với hắn.
 

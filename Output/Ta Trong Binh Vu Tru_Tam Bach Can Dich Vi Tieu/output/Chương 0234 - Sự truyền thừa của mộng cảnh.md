@@ -14,7 +14,7 @@ Sivie cảm thấy như được trở về quê hương, được đi thăm l�
 
 "Đúng vậy, nơi này chính là điểm hội tụ kiến trúc." Lý Khanh đứng ở đằng xa, chỉ mỉm cười nói: "Ngươi đã kế thừa sức mạnh của cô ấy, lẽ tự nhiên cũng phải kế thừa di sản của cô ấy. Kế thừa những thứ này mới có thể giúp ngươi trở nên mạnh mẽ, bước ra con đường của riêng mình."
 
-Sivie trầm tư. Mộng Y tại sao lại mạnh mẽ? Bởi vì cô ấy là chủng tộc cơ khí, bộ tộc chip cơ khí, giỏi về việc xây dựng một mạng lưới thế giới ảo, cấy ghép ký ức, kiểm soát tất cả mọi người, đây là phần mềm. Còn phần cứng của cô ấy là đội ngũ công trình kiến trúc. Tận dụng khả năng tạo vật của mình để xây dựng các sinh mệnh kiến trúc, dùng để tạo ra đại địa, kiến trúc, đồi núi... cũng chính là cái cây trước mắt này, toàn bộ đều là các loại sinh mệnh kiến trúc mới có thể thực hiện được những thứ này.
+Sivie trầm tư. Mộng Y tại sao lại mạnh mẽ? Bởi vì cô ta là chủng tộc cơ khí, bộ tộc chip cơ khí, giỏi về việc xây dựng một mạng lưới thế giới ảo, cấy ghép ký ức, kiểm soát tất cả mọi người, đây là phần mềm. Còn phần cứng của cô ta là đội ngũ công trình kiến trúc. Tận dụng khả năng tạo vật của mình để xây dựng các sinh mệnh kiến trúc, dùng để tạo ra đại địa, kiến trúc, đồi núi... cũng chính là cái cây trước mắt này, toàn bộ đều là các loại sinh mệnh kiến trúc mới có thể thực hiện được những thứ này.
 
 "Tôi phải kế thừa nó sao?" Sivie ngẩng đầu lên, vô cùng phấn khích nói: "Năng lực thiên phú của cô ấy chính là giấc mộng chân thực! Thực hiện những giấc mộng mang tính thực tế trên thế giới thực."
 
