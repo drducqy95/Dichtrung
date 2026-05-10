@@ -100,6 +100,41 @@
 - Chương 0098: Quảng Bồ Bái Sư, La Phù Cầu Đạo (Một)
 - Chương 0099: Quảng Bồ Bái Sư, La Phù Cầu Đạo (Hai)
 - Chương 0100: Tử Đồ Hạ Sơn, La Phàm Sáng Sinh! (Một)
+- Chương 0101: Tử Đồ Hạ Sơn, La Phàm Sáng Sinh (Hai)
+- Chương 0101: Tử Đồ Hạ Sơn, La Phàm Sáng Sinh! (Hai)
+- Chương 0102: Tạo Nhân Công Thành, Cao Đẳng Võ Học (Một)
+- Chương 0103: Tạo Nhân Công Thành, Cao Đẳng Võ Học (Hai)
+- Chương 0104: Phá Toái Hư Không, Hồng Hoang Thiên Địa
+- Chương 0104: Phấn Toái Hư Không, Hồng Hoang Thiên Địa
+- Chương 0105: Cơ Duyên Sở Chí, Tiên Thiên Bất Diệt!
+- Chương 0106: Thiên Địa Đại Đạo, Chuyển Thế Luân Hồi (Một)
+- Chương 0107: Thiên Đạo Đại Đạo, Chuyển Thế Luân Hồi (Hai)
+- Chương 0108: Minh Phủ, Võ Đạo
+- Chương 0109: Khai Thiên Tích Địa Pháp
+- Chương 0110: Càn Khôn Vô Hình Diệu Pháp, Vô Lượng Hư Không Đại Pháp
+- Chương 0111: Vân Du Tứ Hải (Một)
+- Chương 0112: Vân Du Tứ Hải (Hai)
+- Chương 0113: Hỏa Diễm Sư Tử Đầu
+- Chương 0114: Cửu Đầu Sư Phần Thiên
+- Chương 0114: Cửu Đầu Sư Tử Phần Thiên
+- Chương 0115: Nguyên Thần Đại Đạo
+- Chương 0116: Ba Năm Thu Hoạch
+- Chương 0116: Tam Niên Sở Đắc
+- Chương 0117: Cương Sát Thiên Kiếp
+- Chương 0118: Lưỡng Giới Phân Cách
+- Chương 0118: Lưỡng Giới Phân Cát
+- Chương 0119: Thái Âm Chí Hàn Thiên Sát Lôi Kiếp
+- Chương 0120: Quảng Hàn Minh Nguyệt Quyết (Một)
+- Chương 0121: Quảng Hàn Minh Nguyệt Quyết (Hai)
+- Chương 0122: Thái Dương Chân Hỏa, Đại Nhật Tinh Hoa
+- Chương 0123: Linh Tính Phù Văn
+- Chương 0124: Bàn Cổ Tả Nhãn, Đạo Tâm Băng Khoái
+- Chương 0125: Hỗn Loạn Ký Ức, Thiên Vạn Tự Ngã
+- Chương 0126: Chân Hoán Vô Nhị, Đạo Tâm Trọng Tục
+- Chương 0127: Đạo Tâm Viên Mãn, Thần Hồn Dị Biến
+- Chương 0128: Bàn Cổ Thiên Đồng
+- Chương 0129: Tam Túc Kim Ô, Đại Nhật Thiên Long
+- Chương 0130: Ngộ Đạo Thiên Tâm, Đại Nhật Kim Đồng
 - output/all_global_errors.jsonl
 - output/output.json
 - output/project_progress.json
