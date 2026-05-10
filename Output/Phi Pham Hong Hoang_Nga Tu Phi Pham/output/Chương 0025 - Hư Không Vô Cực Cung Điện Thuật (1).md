@@ -1,95 +1,95 @@
-# Chương 0025 - Hư Không Vô Cực Cung Điện Thuật (1)
+# Chương 25: Hư Không Vô Cực Cung Điện Thuật (1)
 
-"Tuy nhiên, cũng may không phải là không thể cứu vãn." Vẻ mặt La Phàm không chút dao động, trong lòng lại thở phào nhẹ nhõm.
+"Tuy nhiên, may mà không phải là không thể vãn hồi." La Phàm vẻ mặt không đổi, nhưng trong lòng lại thở phào nhẹ nhõm.
 
-Nếu Hồng Quân chỉ là Tiên Thiên Thần Kỳ bình thường, giống như con Tì Hưu trước khi bị nhập xác kia, y tự nhiên không có cách nào khác, chỉ có thể luôn cấm chế Hồng Quân lại, để Hồng Quân không ngừng mài giũa đạo tâm, tăng thêm cảnh giới, cho đến khi cảnh giới đủ để chứng Đạo Quả mới mở ra cấm chế, để hắn thỏa sức hấp thu năng lượng.
+Nếu Hồng Quân chỉ là Tiên Thiên Thần Kỳ bình thường, giống như con Tỳ Hưu trước khi bị chiếm xác, hắn tự nhiên là không có cách nào khác, chỉ có thể một mực cấm chế Hồng Quân, để Hồng Quân không ngừng mài giũa đạo tâm, tăng thêm cảnh giới, cho đến khi cảnh giới đủ để chứng đạo quả mới buông lỏng cấm chế, để gã tha hồ hấp thu năng lượng.
 
-Nhưng, Hồng Quân có một điểm khác biệt rất lớn so với các Tiên Thiên Thần Kỳ khác! Đó chính là, hắn sở hữu một đạo Tiên Thiên Bất Diệt Linh Quang!
+Nhưng, Hồng Quân có một điểm rất khác biệt so với các Tiên Thiên Thần Kỳ khác! Đó chính là, gã sở hữu một đạo Tiên Thiên Bất Diệt Linh Quang!
 
-Hồng Quân đã quyết định không luyện hóa đạo Tiên Thiên Bất Diệt Linh Quang này, thay vào đó là giúp đạo Tiên Thiên Bất Diệt Linh Quang này diễn hóa Tiên Thiên Linh Bảo, cho nên không thể có được tính chất vĩnh hằng bất diệt của đạo Tiên Thiên Bất Diệt Linh Quang kia.
+Hồng Quân đã quyết định không luyện hóa đạo Tiên Thiên Bất Diệt Linh Quang này mà chuyển sang giúp đạo Tiên Thiên Bất Diệt Linh Quang này diễn hóa thành tiên thiên linh bảo, cho nên không thể đạt được đặc tính vĩnh hằng bất diệt của đạo linh quang đó.
 
-Nhưng đạo Tiên Thiên Bất Diệt Linh Quang này dù sao vẫn là Tiên Thiên Bất Diệt Linh Quang, tính chất của nó vẫn tồn tại. Trong quá trình giúp Tiên Thiên Bất Diệt Linh Quang diễn hóa, thần hồn của Hồng Quân sẽ liên hệ ngày càng chặt chẽ với Linh Quang bất diệt.
+Nhưng Tiên Thiên Bất Diệt Linh Quang dù sao vẫn là Tiên Thiên Bất Diệt Linh Quang, đặc tính của nó vẫn tồn tại. Trong quá trình giúp Tiên Thiên Bất Diệt Linh Quang diễn hóa, thần hồn của Hồng Quân sẽ liên hệ ngày càng chặt chẽ với đạo bất diệt linh quang đó.
 
-Đến khi sự liên hệ chặt chẽ đạt đến một mức độ nào đó, thần hồn của hắn sẽ nằm dưới sự che chở của Linh Quang bất diệt, tuy không sánh được với loại vĩnh hằng bất diệt, vĩnh viễn không tử vong khi luyện hóa Linh Quang, nhưng để thần hồn chịu đựng được sự xung kích của năng lượng trong cơ thể hắn thì không vấn đề gì.
+Đến khi sự liên hệ chặt chẽ tới một mức độ nào đó, thần hồn của gã sẽ nằm dưới sự bảo hộ của đạo bất diệt linh quang, tuy không bằng việc luyện hóa bất diệt linh quang để đạt đến vĩnh hằng bất diệt, vĩnh viễn không tổn hại, nhưng để thần hồn chịu đựng được sự va đập của năng lượng trong cơ thể gã thì vẫn không thành vấn đề.
 
-"Hồng Quân đồ nhi, vi sư muốn luyện một kiện pháp khí để đi lại, ngươi có thể nhân cơ hội này luyện lại Tiên Thiên Bất Diệt Linh Quang, có lẽ sẽ có thu hoạch." La Phàm định liệu xong, đạm nhiên nói với Hồng Quân.
+"Hồng Quân đồ nhi, vi sư muốn luyện một kiện pháp khí để đi lại, ngươi có thể nhân cơ hội này luyện lại Tiên Thiên Bất Diệt Linh Quang, có lẽ sẽ có thu hoạch." La Phàm đã định liệu xong, điềm nhiên nói với Hồng Quân.
 
-"Đồ nhi tuân mệnh." Hồng Quân tuy không biết pháp khí là gì, nhưng vẫn vội vàng nói.
+"Đồ nhi tuân mệnh." Hồng Quân tuy không biết pháp khí là gì nhưng vẫn vội vàng thưa.
 
-La Phàm nói xong cũng không quan tâm đến Hồng Quân nữa.
+La Phàm nói xong cũng không quản Hồng Quân nữa.
 
-Trời đất Hồng Hoang mới mở, ngay cả Hỗn Độn Nguyên Khí cũng chưa hoàn toàn diễn hóa thành Tiên Thiên Nguyên Khí, vạn sự vạn vật giữa trời đất thảy đều bao hàm một chút tính chất của hỗn độn, cho dù là cát đá tầm thường nhất đặt ở hậu thế cũng đều là bảo vật vô giá.
+Thiên địa Hồng Hoang sơ khai, ngay cả hỗn độn nguyên khí còn chưa hoàn toàn diễn hóa thành tiên thiên nguyên khí, vạn sự vạn vật giữa thiên địa đều bao hàm một chút đặc tính của hỗn độn, cho dù là những viên cát đá tầm thường nhất nếu đặt ở hậu thế cũng đều là bảo vật vô giá.
 
-Giống như vị trí La Phàm và Hồng Quân đang đứng lúc này, dưới chân tùy tay nhặt lên một hòn đá, một vốc cát bụi, đều là vật liệu cực phẩm để luyện chế pháp khí vô thượng.
+Giống như vị trí mà La Phàm và Hồng Quân đang đứng lúc này, tùy tay nhặt một hòn đá, một vốc cát dưới chân đều là vật liệu cực phẩm để luyện chế pháp khí vô thượng.
 
-Ở trời đất Hồng Hoang này luyện khí, về phương diện vật liệu, căn bản hoàn toàn không cần lo lắng.
+Luyện khí ở thiên địa Hồng Hoang này, về mặt vật liệu căn bản hoàn toàn không cần phải lo lắng.
 
-La Phàm dùng cảm tri tỉ mỉ cảm nhận xung quanh một chút, giơ tay chộp vào hư không, mặt đất ầm ầm rung chuyển, ở phía bên phải y cách mười dặm, một khối đá khổng lồ đường kính trăm dặm từ dưới lòng đất chậm rãi chui lên, rung lắc vài cái rũ sạch bùn đất cát đá trên đó, chậm rãi bay đến vị trí cách đầu y trăm trượng.
+La Phàm dùng nhận thức tỉ mỉ cảm nhận xung quanh, giơ tay chộp vào hư không, mặt đất "ầm ầm ầm" chấn động, ở vị trí cách hắn mười dặm về phía bên phải, một khối đá khổng lồ đường kính trăm dặm từ dưới lòng đất chậm rãi nhô lên, rung động vài cái hất bay đất cát bên trên, chậm rãi bay tới vị trí cách đầu hắn trăm trượng.
 
-Khối đá khổng lồ này phần trên có một phần mười ở trên mặt đất, trải qua gió thổi mưa sa, che lấp đi màu sắc vốn có của nó, lại có màu xám tro. Phần dưới chín phần mười chôn dưới mặt đất, không trải qua phong ba bão táp, vẫn giữ được màu sắc bản nguyên của nó, lúc này đang lấp lánh ánh sáng vàng đất.
+Phần trên của khối đá khổng lồ này có khoảng một phần mười nằm trên mặt đất, trải qua gió dập mưa vùi, che lấp đi màu sắc vốn có của nó, hiện ra màu nâu xám. Phần dưới chín phần mười bị vùi dưới lòng đất, không trải qua phong ba bão táp nên vẫn giữ được màu sắc bản nguyên, lúc này đang lấp lánh ánh hào quang vàng thẫm.
 
-Đây chính là một khối Mậu Thổ Chi Tinh khổng lồ. Ở hậu thế, một chút Mậu Thổ Chi Tinh bằng móng tay đã đủ để khiến một thanh phi kiếm từ cấp thấp nhất thăng cấp lên đến mức cực phẩm, mà lúc này ở đây lại có một khối lớn như vậy.
+Đây chính là một khối Mậu Thổ Chi Tinh khổng lồ. Ở hậu thế, một mẩu Mậu Thổ Chi Tinh chỉ bằng móng tay cũng đủ để nâng tầm một thanh phi kiếm từ cấp thấp nhất lên đến mức cực phẩm, mà lúc này ở đây lại có một khối lớn như vậy.
 
-La Phàm cũng không biết khối Mậu Thổ Chi Tinh này trân quý đến mức nào, kiến thức về tu hành của y đều là nhờ Bàn Cổ Nguyên Linh tiến hành chỉnh hợp vô số niệm đầu ở hậu thế của y, rồi liên hệ với cảm ngộ của Bàn Cổ và thực tế của trời đất Hồng Hoang mà thành. Những gì y biết cũng chỉ là tính chất của khối Mậu Thổ Chi Tinh này mà thôi.
+La Phàm cũng không biết khối Mậu Thổ Chi Tinh này quý giá đến mức nào, kiến thức về tu hành của hắn đều là nhờ Bàn Cổ nguyên linh tổng hợp lại từ vô số niệm đầu ở hậu thế của hắn, sau đó liên hệ với cảm ngộ của Bàn Cổ và thực tế của thiên địa Hồng Hoang mà thành. Những gì hắn biết cũng chỉ là đặc tính của khối Mậu Thổ Chi Tinh này mà thôi.
 
-"Khối Mậu Thổ Chi Tinh này ẩn chứa Địa Nguyên Lực, đủ để chịu tải 'Hư Không Vô Cực Cung Điện Thuật' rồi." La Phàm quan sát khối Mậu Thổ Chi Tinh khoa trương này thầm nghĩ.
+"Khối Mậu Thổ Chi Tinh này chứa đựng đại địa nguyên lực, đủ để chịu tải 'Hư Không Vô Cực Cung Điện Thuật' rồi." La Phàm nhìn khối Mậu Thổ Chi Tinh khoa trương này mà thầm nghĩ.
 
-Mậu Thổ Chi Tinh chính là tinh túy của đại địa, trong đó ẩn chứa vô lượng Địa Nguyên Lực, càng bao hàm một điểm linh quang lúc trời đất mới mở, vô cùng huyền diệu.
+Mậu Thổ Chi Tinh chính là tinh hoa của đại địa, bên trong chứa đựng vô lượng đại địa nguyên lực, càng bao hàm một điểm linh quang khi thiên địa sơ khai, vô cùng huyền diệu.
 
-Hư Không Vô Cực Cung Điện Thuật là một loại pháp thuật khai tịch động phủ tạm thời. Đánh nó vào một loại vật liệu nào đó, có thể khai tịch ra một không gian rộng lớn bên trong vật liệu này, có thể cung cấp cho tu sĩ cư ngụ tu luyện. Nếu tu luyện nó đến đỉnh phong, đủ để khai tịch ra một cái Tiểu Thiên Thế Giới vô ngần.
+Hư Không Vô Cực Cung Điện Thuật là một loại pháp thuật khai mở động phủ tạm thời. Đưa nó vào một loại vật liệu nào đó, có thể khai mở ra một không gian rộng lớn bên trong vật liệu đó, cung cấp nơi cư ngụ và tu luyện cho tu sĩ. Nếu tu luyện tới đỉnh cao, đủ để khai mở ra một tiểu thiên thế giới vô biên vô tận.
 
-La Phàm hơi nhíu mày, khẩu quyết tâm pháp của "Hư Không Vô Cực Cung Điện Thuật" hiện lên trong lòng, tâm thần tiến vào trạng thái cực tĩnh, pháp lực đã ngưng thành Địa Tiên Đạo Quả trong cơ thể mãnh liệt tách ra một đoàn nhỏ bằng hạt vừng, thuận theo kinh mạch xoay quanh một đạo lộ tuyến vô cùng huyền ảo bắt đầu tuần hoàn cực nhanh.
+La Phàm khẽ nhíu mày, tâm pháp khẩu quyết của "Hư Không Vô Cực Cung Điện Thuật" hiện lên trong đầu, tâm thần tiến vào trạng thái cực tĩnh, pháp lực đã ngưng thành Địa Tiên đạo quả trong cơ thể mạnh mẽ tách ra một luồng nhỏ hệt như hạt vừng, nương theo kinh mạch đi quanh một quỹ đạo vô cùng huyền ảo bắt đầu tuần hoàn cực nhanh.
 
-Mỗi một lần tuần hoàn, đoàn pháp lực nhỏ bằng hạt vừng này sẽ nảy sinh thay đổi vi diệu.
+Mỗi một vòng tuần hoàn, luồng pháp lực nhỏ bằng hạt vừng này sẽ phát sinh biến hóa tinh vi.
 
-Đợi đến khi tuần hoàn đủ chín chín tám mươi mốt lần, pháp lực này đã từ màu xám tro ban đầu biến thành màu vàng kim vô cùng thần thánh, thể tích của nó càng mở rộng gấp nghìn lần trở lên. Trong đó thậm chí còn có thể nhìn thấy vô số phù văn lập thể đang điên cuồng lóe lên, tràn đầy sự thần bí, tràn đầy bí ẩn!
+Đợi đến chín chín tám mươi mốt vòng tuần hoàn, pháp lực này đã từ màu nâu xám ban đầu biến thành màu vàng kim vô cùng thần thánh, thể tích của nó càng mở rộng ra gấp ngàn lần. Bên trong đó thậm chí còn có thể nhìn thấy vô số phù triện lập thể đang điên cuồng hiển hiện, tràn đầy thần bí, tràn đầy bí ẩn!
 
-Y nhấc tay phải chỉ về phía Mậu Thổ Chi Tinh trên không trung, đoàn ánh sáng vàng này vừa vọt ra từ ngón trỏ tay phải liền đón gió mà lớn, nháy mắt lại mở rộng vạn lần, biến thành đường kính đủ trăm mét!
+Hắn giơ tay phải chỉ về phía Mậu Thổ Chi Tinh trên không trung, luồng hào quang vàng kim này lao ra từ ngón trỏ tay phải, gặp gió liền lớn, trong nháy mắt lại mở rộng ra vạn lần, biến thành đường kính đủ trăm mét!
 
-Trong luồng ánh sáng đường kính trăm mét này, vô số phù văn đang không ngừng lóe lên, không ngừng bơi lội, cả đoàn ánh sáng giống như được dệt thành từ những sợi tơ nhỏ như sợi tóc, dày đặc, số lượng kia e rằng không dưới ức vạn.
+Bên trong luồng hào quang đường kính trăm mét này, vô số phù triện không ngừng hiển hiện, không ngừng bơi lội, cả luồng hào quang hệt như được dệt thành từ những sợi tơ nhỏ như sợi tóc, dày đặc hằng hà sa số, số lượng e rằng không dưới ức vạn.
 
-Luồng ánh sáng này vọt thẳng lên trời, không chịu bất kỳ ngăn trở nào đã lặn sâu vào trong khối Mậu Thổ Chi Tinh đường kính trăm mét kia.
+Luồng hào quang này lao thẳng lên không trung, không chịu bất kỳ sự cản trở nào mà nhập vào bên trong khối Mậu Thổ Chi Tinh đường kính trăm mét kia.
 
-Sau khi luồng ánh sáng vàng này lặn vào Mậu Thổ Chi Tinh, cả khối Mậu Thổ Chi Tinh nháy mắt bộc phát ra ánh sáng vàng chói mắt, vô số phù văn lập thể vô tận đang du đãng, xuyên thoi trên bề mặt khối Mậu Thổ Chi Tinh này.
+Sau khi hào quang vàng kim nhập vào Mậu Thổ Chi Tinh, toàn khối Mậu Thổ Chi Tinh trong phút chốc bùng phát hào quang vàng kim chói mắt, vô số phù triện lập thể lảng vảng, xuyên thấu trên bề mặt khối Mậu Thổ Chi Tinh.
 
-Cả khối Mậu Thổ Chi Tinh chậm rãi tan chảy ra.
+Toàn khối Mậu Thổ Chi Tinh chậm rãi tan chảy ra.
 
 Vô số tạp chất trong quá trình tan chảy này không ngừng bị hóa thành luồng khí đen bài trừ ra ngoài.
 
-Điều này khiến cho phía trên cả khối Mậu Thổ Chi Tinh này hình thành nên những làn khói đen dày đặc, thể tích của cả khối Mậu Thổ Chi Tinh cũng đang không ngừng nhỏ lại.
+Điều này khiến phía trên toàn bộ khối Mậu Thổ Chi Tinh hình thành một làn khói đen dày đặc, thể tích của toàn khối Mậu Thổ Chi Tinh cũng không ngừng co lại.
 
-Qua vài chục nhịp thở, kích thước của cả khối Mậu Thổ Chi Tinh đã nhỏ đi một nửa. Những làn khói đen do tạp chất hóa thành kia lại càng đã ngưng tụ thành một đám mây xám xịt rộng mười mẫu ở trên cao nghìn trượng.
+Qua mấy chục hơi thở, kích thước của toàn khối Mậu Thổ Chi Tinh đã thu nhỏ lại hẳn một nửa. Làn khói đen do tạp chất hóa thành kia sớm đã ngưng tụ thành một đám mây xám xịt rộng khoảng mười mẫu ở độ cao ngàn trượng.
 
-La Phàm ngước nhìn những phù văn vàng đang nhấp nháy, nhìn đoàn chất lỏng màu vàng đất đường kính năm mươi mét đã tan chảy kia, trong mắt lấp lánh vô số tia sáng, trong tâm thần ý niệm vang vọng khẩu quyết tâm pháp của "Hư Không Vô Cực Cung Điện Thuật" kia.
+La Phàm ngẩng đầu nhìn đống phù triện vàng kim đang nhấp nháy, nhìn luồng chất lỏng màu vàng thẫm đường kính năm mươi mét đã tan chảy kia, trong mắt lóe lên vô số hào quang, tâm thần ý niệm vang vọng khẩu quyết tâm pháp của "Hư Không Vô Cực Cung Điện Thuật".
 
 "Mở!"
 
-Bỗng nhiên, y quát khẽ một tiếng.
+Bỗng nhiên, hắn quát lớn một tiếng.
 
-Đoàn chất lỏng màu vàng đất phía trên kia mãnh liệt bộc phát ra ánh sáng vàng mạnh hơn trước gấp mười lần, ức vạn phù văn vàng kia mãnh liệt bộc phát ra sức mạnh vô tận, hư không hơi vặn vẹo, trong nháy mắt đã kéo giãn cố định đoàn chất lỏng màu vàng đất to lớn kia thành một tòa cung điện hình vuông cạnh dài trăm mét!
+Luồng chất lỏng màu vàng thẫm ở phía trên đột ngột bộc phát hào quang vàng kim mạnh mẽ gấp mười lần lúc trước, ức vạn phù triện vàng kim mạnh mẽ bùng phát sức mạnh vô tận, hư không khẽ vặn xoắn, trong nháy mắt đã kéo giãn và cố định luồng chất lỏng màu vàng thẫm to lớn kia thành một tòa cung điện hình vuông cạnh dài trăm mét!
 
-Đồng thời, những làn khói do tạp chất hóa thành ở trên cao nghìn trượng trong nháy mắt đã bị xua tan, một đoàn ánh sáng tím rộng một mẫu xé mở hư không ngưng tụ tại vị trí không gian đó.
+Đồng thời, làn khói do tạp chất hóa thành ở độ cao ngàn trượng trong phút chốc bị xua tan, một luồng hào quang màu tím rộng một mẫu xuyên qua hư không ngưng tụ tại vị trí đó.
 
-"Đến hay lắm!" La Phàm ha ha cười một tiếng.
+"Đến hay lắm!" La Phàm ha hả cười một tiếng.
 
-Giơ tay chỉ lên trên, một điểm pháp lực như hạt bụi vọt ra từ ngón trỏ tay phải, đón gió mà lớn, hóa thành một cái phù văn lập thể màu xám tro, cao một trượng, do những đường nét vô cùng phức tạp cấu thành, có hình dáng Bất Chu Sơn!
+Giơ tay chỉ lên phía trên, một điểm pháp lực như hạt bụi lao ra từ ngón trỏ tay phải của hắn, gặp gió liền lớn, hóa thành một phù triện lập thể màu nâu xám cao một trượng, cấu thành từ những đường nét vô cùng phức tạp, mang hình dáng núi Bất Chu!
 
 Đây chính là một đơn vị pháp lực của La Phàm.
 
-Cái phù văn lập thể hình Bất Chu Sơn này bay vọt lên trời, vòng qua tòa cung điện hình vuông cạnh dài trăm mét kia, đến giữa không trung cao nghìn trượng nuốt chửng sạch sẽ đoàn ánh sáng tím kia, tiếp đó rơi xuống dưới, chìm vào trong tòa cung điện hình vuông kia.
+Phù triện lập thể hình núi Bất Chu này bay vọt lên trời, vòng qua tòa cung điện hình vuông cạnh dài trăm mét kia, tới giữa không trung cao ngàn trượng nuốt chửng sạch sẽ luồng hào quang màu tím kia, sau đó hạ xuống, chìm vào bên trong tòa cung điện hình vuông.
 
-Cái phù văn lập thể màu xám tro ban đầu sau khi nuốt chửng đoàn ánh sáng tím đó đã biến thành màu tím đậm, có vẻ vô cùng tôn quý.
+Phù triện lập thể vốn có màu nâu xám sau khi nuốt chửng luồng hào quang màu tím kia đã biến thành màu tím đậm, vẻ ngoài vô cùng tôn quý.
 
-Tòa cung điện hình vuông kia ngay khoảnh khắc phù văn màu tím đậm chìm vào bên trong, ánh sáng lấp lánh, có vô số tia sét bộc phát ở sâu trong đó, nháy mắt bao bọc lấy toàn bộ cung điện, khiến tòa cung điện đó trông giống như bị vô số xích sét khóa chặt lại vậy.
+Tòa cung điện hình vuông ngay khoảnh khắc phù triện màu tím đậm chìm vào bên trong, hào quang lấp lánh, có vô số tia sét bộc phát từ sâu bên trong, trong nháy mắt bao phủ toàn bộ tòa cung điện, khiến tòa cung điện trông hệt như bị vô số xiềng xích tia sét khóa lại vậy.
 
-Những tiếng nổ lách tách mãnh liệt vang lên, Tiên Thiên Nguyên Khí xung quanh nháy mắt đã bị gạt ra, tạo thành một vùng chân không Tiên Thiên Nguyên Khí rộng mười dặm, hình thành những gợn sóng có thể nhìn thấy bằng mắt thường.
+Tiếng nổ lách tách bỗng nhiên vang lên, tiên thiên nguyên khí xung quanh ngay lập tức bị gạt ra, tạo thành một vùng chân không tiên thiên nguyên khí trong phạm vi mười dặm, hình thành những gợn sóng có thể nhìn thấy bằng mắt thường.
 
-Tiếp đó, trong làn sét vô tận kia, tòa cung điện hình vuông cực tốc nén nhỏ lại.
+Tiếp đó, bên trong vô tận tia sét kia, tòa cung điện hình vuông co rút cực nhanh.
 
-Tia sét càng ngày càng yếu, kích thước của tòa cung điện hình vuông cũng càng ngày càng nhỏ, đợi đến khi tất cả tia sét đều biến mất, tòa cung điện hình vuông đã từ cạnh dài trăm mét ban đầu nén nhỏ lại thành to bằng nắm tay.
+Tia sét ngày càng yếu đi, kích thước của tòa cung điện hình vuông cũng ngày càng nhỏ lại, đợi đến khi tất cả tia sét đều biến mất, tòa cung điện hình vuông đã từ cạnh dài trăm mét ban đầu co rút lại thành kích thước bằng nắm tay.
 
-La Phàm giơ tay vẫy một cái, tòa cung điện hình vuông to bằng nắm tay kia rơi vào trong tay y.
+La Phàm giơ tay vẫy một cái, tòa cung điện hình vuông kích thước bằng nắm tay liền rơi vào trong tay hắn.
 
-"Không ngờ cư nhiên có thể triệu hoán Mậu Thổ Thần Lôi đến để tôi luyện thêm một bước, đúng là niềm vui bất ngờ a." La Phàm xoa nắn tòa cung điện hình vuông này, trong lòng thầm mừng rỡ.
+"Không ngờ lại có thể triệu hoán được Mậu Thổ Thần Lôi đến để tôi luyện thêm một bước, đúng là niềm vui bất ngờ mà." La Phàm mân mê tòa cung điện hình vuông này, trong lòng thầm vui sướng.
 
-Thứ vừa ngưng tụ trên hư không nghìn trượng chính là Mậu Thổ Thần Lôi được triệu hoán từ tầng Cương Phong Lôi Hỏa cách đó hàng vạn dặm xuống. Có sự tôi luyện của Mậu Thổ Thần Lôi này, phẩm cấp của tòa cung điện này ít nhất có thể nâng cao hơn so với lúc trước một cấp.
+Thứ ngưng tụ trên hư không ngàn trượng lúc trước chính là Mậu Thổ Thần Lôi được triệu hoán từ tầng Cương Phong Lôi Hỏa cách đó hàng vạn dặm xuống. Có sự tôi luyện của Mậu Thổ Thần Lôi này, phẩm cấp của tòa cung điện này ít nhất cũng có thể nâng lên một bậc so với lúc trước.

@@ -1,99 +1,99 @@
-# Chương 0041 - Cửu Kiếp Lâm Đầu (2)
+# Chương 41: Cửu Kiếp Lâm Đầu (2)
 
-Vị trí mà La Phàm chọn định là một vùng rừng nguyên sinh rất hiếm thấy trên đại địa Hồng Hoang.
+Vị trí mà La Phàm lựa chọn là một khu rừng nguyên sinh rất hiếm thấy trên đại địa Hồng Hoang.
 
-Khu rừng này chiếm diện tích khoảng nghìn dặm, không tính là quá rộng lớn. Nhưng bên trong đó, những cây cổ thụ cao hàng trăm hàng nghìn trượng thì đâu đâu cũng có, phóng mắt nhìn qua thảy đều là những cây cổ thụ khổng lồ hai người ôm không xuể, cao vút chọc trời.
+Khu rừng này rộng chừng ngàn dặm, không tính là quá rộng lớn. Thế nhưng bên trong đó, những cây cổ thụ cao hàng trăm hàng ngàn trượng đâu đâu cũng có, ngước mắt nhìn lên thảy đều là những cây cổ thụ khổng lồ hai người ôm không xuể, đâm thẳng lên trời.
 
-Trong những cây cổ thụ chọc trời này tuy không có cây nào sánh được với cái cây quái dị sở hữu linh thức kia, nhưng loại kém hơn vài phần, thấp hơn vài phần thì lại có không ít. Thế nhưng, trong những cây cổ thụ chọc trời này, bất kể là to lớn thế nào, bất kể kích thước, độ cao của nó có tiếp cận với cái cây quái dị sở hữu linh thức kia đến đâu, thì thảy đều không có lấy một cây cổ thụ nào sở hữu linh thức!
+Trong số những cây cổ thụ chọc trời này, tuy không có cây nào sánh được với cái cây kỳ dị có linh thức kia, nhưng loại kém hơn vài phần, thấp hơn vài phần thì có không ít. Thế nhưng, trong số những cây cổ thụ chọc trời này, bất luận là to lớn đến đâu, bất luận là kích thước hay chiều cao của nó tiếp cận cái cây có linh thức kia tới mức nào, thì đều không có lấy một cây cổ thụ nào sở hữu linh thức!
 
 Ngay cả một tia, một hạt giống linh thức yếu ớt nhất cũng không có...
 
-La Phàm trước đó thông qua Hư Không Vô Cực Cung cảm tri vị trí này đã biết được nguyên nhân trong đó, lúc này nhìn lại nơi đây cũng không cảm thấy kinh ngạc.
+La Phàm trước đó khi thông qua Hư Không Vô Cực Cung cảm nhận vị trí này đã biết được nguyên nhân trong đó, lúc này nhìn lại nơi đây cũng không cảm thấy kinh ngạc.
 
-Sự hình thành của khu rừng này hoàn toàn khác biệt so với cái cây quái dị sở hữu linh thức mà La Phàm gặp trước đó. Cái cây quái dị kia là vì vào lúc trời đất mới mở, Hỗn Độn Nguyên Khí nảy sinh một sự biến hóa thần bí và huyền diệu nào đó, tự sinh ra một hạt giống cây, hạt giống này lại thông qua việc không ngừng hấp thu Hỗn Độn Nguyên Khí, cuối cùng mới trưởng thành tới mức độ ngày hôm nay.
+Sự hình thành của khu rừng này hoàn toàn khác biệt với cái cây có linh thức mà La Phàm gặp trước đó. Cái cây kia là do lúc thiên địa mới mở, hỗn độn nguyên khí phát sinh một loại biến hóa thần bí và huyền diệu nào đó, tự sinh ra một hạt giống cây, hạt giống này lại thông qua việc liên tục hấp thụ hỗn độn nguyên khí, cuối cùng mới trưởng thành tới mức như ngày nay.
 
-Mà khu rừng này lại khác, cả một vùng rừng nguyên sinh này thảy đều do một luồng Giáp Mộc Chi Tinh kết hợp với Tiên Thiên Nguyên Khí hóa thành!
+Mà khu rừng này lại khác, toàn bộ khu rừng nguyên sinh này đều là do một luồng Giáp Mộc chi tinh kết hợp cùng tiên thiên nguyên khí mà hóa thành!
 
-Luồng Giáp Mộc Chi Tinh đó ở độ sâu trăm dặm dưới lòng đất, thông qua vô số đường hầm nhỏ hẹp tỏa ra trên mặt đất. Trong quá trình này, Giáp Mộc Chi Tinh trong mỗi một đường hầm đều nảy sinh một sự biến hóa huyền kỳ nào đó, hấp thu một lượng lớn Tiên Thiên Nguyên Khí, chuyển hóa thành từng cây cổ thụ, từng bụi hoa cỏ, cuối cùng mới thành tựu nên vùng rừng nguyên sinh này!
+Luồng Giáp Mộc chi tinh đó ở sâu trong lòng đất trăm dặm, thông qua vô số đạo thông đạo nhỏ hẹp tỏa ra trên mặt đất. Trong quá trình này, Giáp Mộc chi tinh trong mỗi một đạo thông đạo đều phát sinh một loại biến hóa huyền kỳ nào đó, hấp thụ một lượng cực lớn tiên thiên nguyên khí, chuyển hóa thành từng cây cổ thụ, từng bụi hoa cỏ, cuối cùng mới thành tựu nên khu rừng nguyên sinh này!
 
-Thảm thực vật trên đại địa Hồng Hoang, dù là hoa cỏ hay cây cối, dù là thiên tài địa bảo quý giá đến mức nào, tuyệt đại bộ phận đều là do các loại mộc chi tinh hoa (như Giáp Mộc Chi Tinh, Ất Mộc Chi Tinh linh tinh các loại tồn tại) kết hợp với ngũ hành tinh hoa khác, rồi thông qua việc hấp thu Tiên Thiên Nguyên Khí chuyển hóa thành mà tồn tại.
+Thảm thực vật trên đại địa Hồng Hoang, bất luận là hoa cỏ hay cây cối, bất luận là thiên tài địa bảo quý giá đến mức nào, tuyệt đại bộ phận đều là do các loại mộc chi tinh hoa (như Giáp Mộc chi tinh, Ất Mộc chi tinh...) kết hợp cùng các loại ngũ hành tinh hoa khác, rồi thông qua việc hấp thụ tiên thiên nguyên khí chuyển hóa mà thành.
 
-Ví dụ như, có một số loại thực vật là do mộc chi tinh hoa và thổ chi tinh hoa (như Mậu Thổ Chi Tinh, Kỷ Thổ Chi Tinh linh tinh các loại tồn tại) kết hợp với nhau mà hình thành, có một số loại thực vật lại là do mộc chi tinh hoa và hỏa chi tinh hoa (như Bính Hỏa Chi Tinh, Đinh Hỏa Chi Tinh linh tinh các loại tồn tại) kết hợp với nhau mà hình thành, cứ tương tự như vậy, có mộc kim, mộc thủy, mộc thổ thủy, kim mộc thủy hỏa thổ vân vân các loại phương thức kết hợp, thảy thảy đều có đủ, không chỉ có vậy...
+Ví dụ như, có một số thực vật là do mộc chi tinh hoa kết hợp cùng thổ chi tinh hoa (như Mậu Thổ chi tinh, Kỷ Thổ chi tinh...) mà hình thành, có một số thực vật lại là do mộc chi tinh hoa kết hợp cùng hỏa chi tinh hoa (như Bính Hỏa chi tinh, Đinh Hỏa chi tinh...) mà hình thành, cứ tương tự như vậy, có đủ loại phương thức kết hợp như mộc kim, mộc thủy, mộc thổ thủy, kim mộc thủy hỏa thổ... vân vân, nhiều không kể xiết...
 
-Đủ loại chủng loại khác nhau, số lượng khác nhau, tỷ lệ phối hợp ngũ hành tinh hoa khác nhau kết hợp lại như vậy liền hình thành nên đợt thực vật đầu tiên của trời đất này, với hàng tỷ loại kỳ hình dị trạng, hiệu dụng khác nhau, uy năng khác nhau.
+Đủ loại ngũ hành tinh hoa với chủng loại khác nhau, số lượng khác nhau, tỷ lệ phối hợp khác nhau kết hợp lại như vậy, đã hình thành nên đợt thực vật đầu tiên của thiên địa Hồng Hoang với hàng tỷ chủng loại kỳ hình dị trạng, công hiệu khác nhau, uy năng không đồng nhất.
 
-Sau khi đợt thực vật đầu tiên của trời đất này hình thành, không ngừng sinh sôi, không ngừng mở rộng suốt mười mấy vạn năm thời gian, mới hình thành nên trời đất Hồng Hoang tràn đầy sinh cơ bừng bừng như hiện giờ.
+Sau khi đợt thực vật đầu tiên của thiên địa này hình thành, chúng liên tục sinh sôi nảy nở, liên tục mở rộng trong suốt mười mấy vạn năm thời gian, mới hình thành nên một thiên địa Hồng Hoang tràn đầy sức sống bừng bừng như ngày hôm nay.
 
-Đủ loại thực vật này, bề ngoài trông không khác gì so với thực vật tự sinh từ Hỗn Độn Nguyên Khí, nhưng lại sở hữu một nhược điểm cực lớn.
+Những loại thực vật này, ngoại hình nhìn qua thì giống hệt như những loại thực vật tự sinh ra từ hỗn độn nguyên khí, nhưng lại có một nhược điểm chí mạng.
 
-Đó chính là, loại thực vật do ngũ hành tinh hoa kết hợp hóa thành này muốn nảy sinh linh thức, độ khó của nó cao hơn gấp nghìn vạn lần so với thực vật tự sinh từ Hỗn Độn Nguyên Khí! Có thể nói, chúng nếu không phải là cơ duyên trùng hợp, nếu không phải sở hữu đại vận khí, nếu không phải sở hữu đại phúc duyên, thì tuyệt không có khả năng nảy sinh linh thức.
+Đó chính là, những loại thực vật do ngũ hành tinh hoa kết hợp hóa thành này muốn sản sinh ra linh thức, độ khó của nó cao hơn gấp hàng ngàn hàng vạn lần so với thực vật tự sinh từ hỗn độn nguyên khí! Có thể nói, nếu không phải là cơ duyên xảo hợp, không phải là có đại vận khí, không phải là có đại phúc duyên, thì tuyệt đối không thể nào sản sinh ra linh thức.
 
-Vùng rừng nguyên sinh trước mắt La Phàm là do Giáp Mộc Chi Tinh thuần túy hấp thu Tiên Thiên Nguyên Khí mà chuyển hóa ra, tự nhiên cũng thuộc về loại thực vật do ngũ hành tinh hoa hóa thành này.
+Khu rừng nguyên sinh trước mắt La Phàm được chuyển hóa từ Giáp Mộc chi tinh thuần túy hấp thụ tiên thiên nguyên khí mà thành, tự nhiên cũng thuộc về loại thực vật do ngũ hành tinh hoa hóa thành này.
 
-Do đó mới xuất hiện tình huống trong khu rừng này sở hữu nhiều cây cổ thụ có điều kiện nảy sinh linh thức như vậy mà không có lấy một cây cổ thụ nào có thể nảy sinh được linh thức.
+Cho nên mới xuất hiện tình trạng trong khu rừng này có nhiều cây cổ thụ có điều kiện để sản sinh linh thức như vậy, nhưng lại không có lấy một cây nào có thể sản sinh linh thức.
 
-Lý do La Phàm chọn tới đây mục đích lại không phải vì vùng rừng nguyên sinh này. Mà là vì luồng Giáp Mộc Chi Tinh ở độ sâu trăm dặm dưới khu rừng này.
+Lý do La Phàm chọn tới đây không phải vì khu rừng này, mà là vì luồng Giáp Mộc chi tinh ở sâu trăm dặm bên dưới khu rừng.
 
-Luồng Giáp Mộc Chi Tinh này vô cùng to lớn, từ khi khai thiên lập địa tới nay đã được mười mấy vạn năm thời gian, nhưng nó cư nhiên vẫn chưa chuyển hóa hết thành khu rừng này, vẫn còn sót lại hơn một nửa Giáp Mộc Chi Tinh ở độ sâu trăm dặm dưới lòng đất.
+Luồng Giáp Mộc chi tinh này vô cùng to lớn, từ khi khai thiên tích địa tới nay đã có mười mấy vạn năm thời gian, nhưng nó vẫn chưa chuyển hóa hết thành khu rừng này, vẫn còn sót lại phần lớn Giáp Mộc chi tinh ở sâu trăm dặm dưới lòng đất.
 
-Lượng tồn dư to lớn như vậy quả thực là khá hiếm thấy.
+Số lượng còn sót lại to lớn như thế quả thực là rất hiếm thấy.
 
-La Phàm tâm thần khẽ động, cơ thể lao thẳng xuống dưới, ngay khi sắp tiếp xúc với mặt đất, trong tâm thần ý niệm của y lướt qua một đạo tâm pháp khẩu quyết, theo sự lướt qua của đạo tâm pháp khẩu quyết này, cơ thể y hơi biến hóa, giống như hư ảnh lao thẳng vào trong lòng đất, trong toàn bộ quá trình, mặt đất không hề gây ra cho y một chút ngăn trở nào!
+La Phàm tâm thần khẽ động, cơ thể lao thẳng xuống phía dưới, ngay lúc sắp chạm đất, trong tâm thần ý niệm của hắn lướt qua một đạo tâm pháp khẩu quyết, cùng với đạo tâm pháp khẩu quyết lướt qua, cơ thể hắn hơi biến hóa, giống như một ảo ảnh lao vào trong mặt đất, trong toàn bộ quá trình, mặt đất không hề gây ra chút cản trở nào cho hắn!
 
-Loại thần thông này chính là một loại tiểu thần thông mà La Phàm đã tu luyện ra được trong hơn ba nghìn năm qua — Thổ Độn.
+Loại thần thông này chính là một loại tiểu thần thông mà La Phàm tu luyện ra được trong hơn ba ngàn năm qua —— Thổ Độn.
 
-Sử dụng thần thông Thổ Độn để hành tẩu dưới lòng đất, cảm giác đó giống như đang bơi lội trong nước vậy, vô cùng huyền kỳ, vô cùng thoải mái. Tốc độ tuy có giảm đi một chút nhưng cũng được coi là cực nhanh.
+Sử dụng thần thông Thổ Độn đi lại dưới lòng đất, cảm giác đó giống như đang bơi lội trong nước vậy, vô cùng huyền kỳ, vô cùng thoải mái. Tốc độ tuy có giảm đi một chút nhưng cũng tính là cực nhanh.
 
 Chẳng mấy chốc, thân hình La Phàm đã tới độ sâu trăm dặm dưới lòng đất.
 
-Khối Giáp Mộc Chi Tinh đó hiên ngang xuất hiện trước mặt y.
+Khối Giáp Mộc chi tinh kia hiện ra rõ mồn một trước mặt.
 
-Đây là một không gian hình cầu đường kính một trăm năm mươi trượng.
+Đây là một không gian hình cầu có đường kính một trăm năm mươi trượng.
 
-Một khối cầu màu xanh biếc lơ lửng ở chính giữa không gian hình cầu này, đường kính khoảng một trăm hai mươi trượng, sương mù xanh biếc tràn ngập, giống như một con nhím biển vậy, có từng sợi sương mù xanh biếc tỏa ra từ trong đó, đổ vào vô số đường hầm nhỏ hẹp xung quanh.
+Một khối cầu màu xanh biếc huyền phù ở giữa không gian hình cầu này, đường kính khoảng một trăm hai mươi trượng, sương mù xanh biếc bao phủ, giống như một con nhím biển, có từng sợi từng sợi sương mù xanh tỏa ra từ trong đó, rót vào vô số đạo thông đạo nhỏ hẹp xung quanh.
 
-Tâm thần khẽ động, hai đạo kim quang từ trong mắt La Phàm bắn ra, chiếu rọi lên khối cầu xanh biếc đó, trong nháy mắt, toàn bộ cấu tạo của khối cầu đã xuất hiện trong mắt La Phàm.
+Tâm thần khẽ động, hai đạo kim quang từ mắt La Phàm bắn ra, chiếu rọi lên khối cầu xanh biếc kia, trong phút chốc, toàn bộ cấu trúc của khối cầu hiện ra trong mắt La Phàm.
 
-Khối cầu xanh biếc này hoàn toàn được cấu thành từ Giáp Mộc Chi Tinh thuần túy, chính giữa nó có khối Giáp Mộc Chi Tinh đường kính trăm trượng hoàn toàn ngưng tụ thành hình thái tinh thể rắn, lớp Giáp Mộc Chi Tinh dày hai mươi trượng ở bên ngoài lại nằm giữa hình thái khí và lỏng, giống như sương khói vậy.
+Khối cầu xanh này hoàn toàn được cấu thành từ Giáp Mộc chi tinh thuần túy, ở giữa tâm có đường kính trăm trượng là Giáp Mộc chi tinh đã hoàn toàn ngưng tụ thành trạng thái kết tinh thể rắn, lớp Giáp Mộc chi tinh dày hai mươi trượng bên ngoài lại nằm giữa trạng thái khí và trạng thái lỏng, giống như khói sương.
 
-Đối chiếu với kích thước của không gian hình cầu này, La Phàm liền biết khối Giáp Mộc Chi Tinh này vốn dĩ đáng lẽ phải to bằng đường kính một trăm năm mươi trượng, và đáng lẽ đều phải là tinh thể rắn mới đúng.
+Đối chiếu một chút với kích thước của không gian hình cầu này, La Phàm liền biết khối Giáp Mộc chi tinh này ban đầu đáng lẽ phải có đường kính rộng một trăm năm mươi trượng, và đáng lẽ đều là kết tinh thể rắn mới đúng.
 
-Rõ ràng, mười mấy vạn năm bay hơi đã có gần một phần ba Giáp Mộc Chi Tinh hóa thành vùng rừng nguyên sinh ở phía trên kia.
+Rất hiển nhiên, sau mười mấy vạn năm thoát hơi, đã có gần một phần ba lượng Giáp Mộc chi tinh hóa thành khu rừng nguyên sinh phía trên.
 
 Hiểu rõ những điều này, La Phàm không khỏi thầm cảm thấy tiếc nuối.
 
-Thu hồi thần thông nhìn thấu, y nhấc tay phải chỉ về phía khối Giáp Mộc Chi Tinh đó.
+Thu lại thần thông nhìn thấu, hắn nhấc tay phải chỉ về phía khối Giáp Mộc chi tinh kia.
 
-Trong Địa Tiên Đạo Quả ở đan điền bụng dưới mãnh liệt thoát ra một đơn nguyên pháp lực, thuận theo kinh mạch lưu chuyển, từ tay phải y lao thẳng ra ngoài, bay về phía khối Giáp Mộc Chi Tinh kia, gặp gió liền trướng to, càng bay càng lớn.
+Địa Tiên đạo quả trong đan điền dưới bụng đột nhiên thoát ra một pháp lực đơn nguyên, theo kinh mạch luân chuyển, từ tay phải của hắn lao thẳng ra ngoài, bay về phía khối Giáp Mộc chi tinh, gặp gió liền lớn, càng bay càng to.
 
-Đợi đến khi tiếp cận khối Giáp Mộc Chi Tinh, đơn nguyên pháp lực nhỏ như hạt bụi này đã biến thành một đạo phù trán lập thể cao mười trượng, hình dáng như Bất Chu Sơn!
+Đợi tới khi tiếp cận khối Giáp Mộc chi tinh, pháp lực đơn nguyên nhỏ như hạt bụi này đã biến thành một đạo lập thể phù lục cao mười trượng, hình dáng giống như núi Bất Chu!
 
-Đạo phù trán lập thể này đi tới rìa khối Giáp Mộc Chi Tinh, bỗng nhiên xoay chuyển, dùng phần đáy đối chuẩn với khối Giáp Mộc Chi Tinh, đồng thời có một luồng lực hút mạnh mẽ nảy sinh.
+Đạo lập thể phù lục này tới sát rìa Giáp Mộc chi tinh, bỗng nhiên xoay chuyển, dùng phần đáy hướng về phía Giáp Mộc chi tinh, đồng thời có một luồng lực hút mạnh mẽ nảy sinh.
 
-Khối Giáp Mộc Chi Tinh khổng lồ giống như bị một bàn tay khổng lồ vô hình nén lại lôi kéo vậy, nhanh chóng di chuyển về phía đạo phù trán lập thể đó, và trong quá trình di chuyển không ngừng thu nhỏ lại.
+Khối Giáp Mộc chi tinh khổng lồ giống như bị một bàn tay vô hình khổng lồ nén lại rồi kéo đi, nhanh chóng di chuyển về phía đạo lập thể phù lục, và liên tục thu nhỏ lại trong quá trình di chuyển.
 
-Đợi tới khi tiếp xúc với đạo phù trán lập thể kia, kích thước của nó đã thu nhỏ lại chỉ to bằng một quả bóng rổ, không còn khả năng phản kháng lại luồng lực hút siêu mạnh của đạo phù trán lập thể nữa, nhẹ nhàng bay vào trong đạo phù trán lập thể.
+Đợi tới khi tiếp xúc với đạo lập thể phù lục, kích thước của nó đã thu nhỏ lại chỉ bằng một quả bóng rổ, không còn khả năng phản kháng lực hút siêu cường của đạo lập thể phù lục, nhẹ nhàng bay vào bên trong đó.
 
-Đạo phù trán lập thể sau khi thu lấy Giáp Mộc Chi Tinh, một tiếng vút, nhanh chóng thu nhỏ lại, trong chớp mắt hóa thành to như một hạt bụi, nhanh chóng lao tới, lao thẳng vào trong cơ thể La Phàm.
+Đạo lập thể phù lục sau khi thu lấy Giáp Mộc chi tinh, "vút" một tiếng, nhanh chóng thu nhỏ lại, trong chớp mắt hóa thành to chừng hạt bụi, nhanh chóng lao tới, đâm thẳng vào trong cơ thể La Phàm.
 
-Đây chính là một loại phương pháp trữ vật mà La Phàm đã nghiên cứu hồi lâu, lần này là lần thử nghiệm đầu tiên, kết quả rõ ràng là vô cùng viên mãn.
+Đây chính là một loại phương pháp chứa đồ mà La Phàm đã nghiên cứu bấy lâu nay, lần này là lần thử nghiệm đầu tiên, kết quả hiển nhiên là vô cùng viên mãn.
 
-Quay đầu nhìn quanh bốn phía, khu vực một trăm năm mươi trượng này không còn gì đặc biệt đáng chú ý nữa, La Phàm một lần nữa thi triển thần thông Thổ Độn, lặn lên trên, chẳng mấy chốc đã trở lại mặt đất.
+Quay đầu nhìn quanh, khu vực rộng một trăm năm mươi trượng này không còn thứ gì đặc biệt đáng chú ý nữa, La Phàm lại một lần nữa thi triển thần thông Thổ Độn, ngoi lên phía trên, chẳng mấy chốc đã trở lại mặt đất.
 
-Lơ lửng trên không trung cúi đầu nhìn xuống, vùng rừng nguyên sinh ở phía dưới đã có sự biến hóa vi diệu.
+Đứng lơ lửng trên không trung, cúi đầu nhìn xuống, khu rừng nguyên sinh phía dưới đã có sự biến hóa nhẹ.
 
-Vốn dĩ khu rừng này tỏa ra sinh cơ bừng bừng, lúc này lại đã trở nên già cỗi u ám, dường như đã bước vào tuổi già, đang tiến tới cái chết vậy.
+Ban đầu khu rừng này tỏa ra sức sống bừng bừng, lúc này đã trở nên trầm mặc u ám, dường như đã bước vào tuổi già, đang tiến dần tới cái chết vậy.
 
-"Xin lỗi nhé..." La Phàm trong lòng thầm than.
+"Xin lỗi nhé..." La Phàm thầm thở dài trong lòng.
 
-Y biết bản thân vừa rồi chính là đã cắt đứt cơ hội nảy sinh linh thức của khu rừng này.
+Hắn biết hành động vừa rồi của mình chính là đã cắt đứt cơ hội sản sinh linh thức của khu rừng này.
 
-Vốn dĩ nếu khối Giáp Mộc Chi Tinh này tồn tại, độ khó để cây cổ thụ trong khu rừng này muốn nảy sinh linh thức tuy cao tới mức gần như không thể, nhưng dù sao vẫn còn có một tia cơ hội. Giờ đây mất đi sự nuôi dưỡng của Giáp Mộc Chi Tinh, tia cơ hội nhỏ nhoi này đã bị cắt đứt hoàn toàn rồi.
+Vốn dĩ, nếu khối Giáp Mộc chi tinh này còn tồn tại, độ khó để những cây cổ thụ trong rừng sản sinh linh thức tuy cao tới mức gần như không thể, nhưng dù sao vẫn còn một tia hy vọng. Hiện tại mất đi sự nuôi dưỡng của Giáp Mộc chi tinh, tia hy vọng nhỏ nhoi đó đã bị chặt đứt hoàn toàn.
 
-Tuy là thầm than nhưng y không hề trì hoãn, xoay người một cái, thân hóa trường hồng, phóng vọt về phía tây bắc.
+Dù thầm thở dài, nhưng hắn không hề do dự, xoay người một cái, thân hóa trường hồng, lao vọt về hướng tây bắc.
 
-Trong chớp mắt đã trở lại nơi Hư Không Vô Cực Cung ẩn hiện, tâm thần khẽ động đã đi vào bên trong Hư Không Vô Cực Cung đang ẩn hiện giữa không trung.
+Trong phút chốc, hắn đã trở lại nơi Hư Không Vô Cực Cung ẩn nấp, tâm thần khẽ động, đã tiến vào trong Hư Không Vô Cực Cung đang ẩn mình giữa không trung.
 
-Sau khi ngồi định thần trên đài cao, y nhấc tay vẫy một cái, cái đơn nguyên pháp lực đã thu lấy Giáp Mộc Chi Tinh kia lao ra khỏi cơ thể, xoay chuyển một cái đã đem khối Giáp Mộc Chi Tinh đó phóng ra, lơ lửng trước mặt y.
+Sau khi ngồi định trên nền đài, hắn vung tay một cái, pháp lực đơn nguyên đã thu lấy Giáp Mộc chi tinh lao ra khỏi cơ thể, xoay chuyển một cái, đã thả khối Giáp Mộc chi tinh kia ra, huyền phù ở trước mặt hắn.
 
-"Khối Giáp Mộc Chi Tinh này chắc là có thể chịu đựng được ba mươi sáu tầng cấm chế. Nếu dùng nó để luyện chế Hoàng Cân Lực Sĩ chắc chắn có thể luyện chế ra Hoàng Cân Lực Sĩ cấp bậc cao nhất... Lại bố trí thêm một số thủ đoạn lên đó, đủ để đóng vai trò bảo vật vượt kiếp cho Hồng Quân rồi." La Phàm trong lòng thầm suy tính.
+"Khối Giáp Mộc chi tinh này đáng lẽ có thể chịu đựng được ba mươi sáu tầng cấm chế. Nếu dùng nó để luyện chế Hoàng Cân Lực Sĩ, nhất định có thể luyện ra loại Hoàng Cân Lực Sĩ cấp bậc cao nhất... Lại bố trí thêm một số thủ đoạn lên đó, đủ để đóng vai trò làm bảo vật vượt kiếp cho Hồng Quân rồi." La Phàm trong lòng thầm tính toán.

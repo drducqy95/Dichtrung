@@ -587,7 +587,7 @@ def scaffold_branch(branch_dir: Path) -> None:
     toc_json_payload = [
         {
             "chapter_number": record["chapter_number"],
-            "title": record["title"],
+            "title": f"Chương {record['chapter_number']}: {record['title']}",
             "relative_path": record["relative_path"]
         }
         for record in records

@@ -1,101 +1,101 @@
-# Chương 0023 - Hồng Quân Đại Pháp, Đỉnh Thiên Lập Địa (2)
+# Chương 23: Hồng Quân Đại Pháp, Đỉnh Thiên Lập Địa (2)
 
-Điểm trí tuệ linh quang kia xông thẳng vào cung Nê Hoàn của Hồng Quân, thông qua một điểm thần bí nào đó tràn vào trong thức hải của hắn.
+Điểm trí tuệ linh quang kia lao thẳng vào cung Nê Hoàn của Hồng Quân, thông qua một điểm thần bí nào đó mà tuôn trào vào trong thức hải của gã.
 
-Thức hải của Hồng Quân so với của La Phàm, quả thực là một trời một vực. Nếu nói thức hải của La Phàm là một thế giới, một thế giới vô cùng rộng lớn; thì thức hải của Hồng Quân chính là một căn phòng nhỏ, một căn phòng vô cùng chật hẹp, thậm chí chưa đầy mười mét vuông...
+Thức hải của Hồng Quân so với La Phàm mà nói, quả thực là khác biệt một trời một vực. Nếu nói thức hải của La Phàm là một thế giới, một thế giới vô cùng rộng lớn; thì thức hải của Hồng Quân chỉ là một căn phòng nhỏ, một căn phòng vô cùng chật hẹp, thậm chí còn chưa tới mười mét vuông...
 
-Ở chính giữa căn phòng nhỏ thức hải này, một con rận chiếm diện tích nửa căn phòng đang nằm bò ở đó, hai mắt nhắm nghiền, giống như đang ngủ đông vậy.
+Chính giữa căn phòng nhỏ hệt như thức hải này, một con rận chiếm cứ nửa căn phòng đang nằm bò ở đó, hai mắt nhắm nghiền, hệt như đang ngủ đông vậy.
 
-Xung quanh căn phòng nhỏ này là một loại vật chất xám xịt, giống như một bức màn che chắn bao bọc xung quanh.
+Xung quanh căn phòng nhỏ này là một loại vật chất xám xịt, giống như bình phong bao bọc lấy xung quanh.
 
-Khoảnh khắc điểm trí tuệ linh quang kia tràn vào thức hải liền vang lên một tiếng "ầm", lập tức hóa thành vô số văn tự gian sáp khó hiểu huyền ảo khôn lường cùng với hàng chục hư ảnh con rận! Chính là bộ «Đỉnh Thiên Lập Địa Quyết» đã được La Phàm cải tạo!
+Khoảnh khắc điểm trí tuệ linh quang kia tràn vào thức hải này liền "oành" một tiếng nổ tung, ngay lập tức hóa thành vô số văn tự gian sáp khó hiểu, huyền ảo khôn lường cùng với hư ảnh của mấy chục con rận! Đó chính là 《 Đỉnh Thiên Lập Địa Quyết 》 đã được La Phàm cải tạo lại!
 
-Những văn tự và hư ảnh huyền ảo khôn lường này tuy thể tích không lớn, nhưng số lượng lại nhiều, trong khoảnh khắc xuất hiện đã lấp đầy toàn bộ thức hải của Hồng Quân, khiến cho thức hải vốn dĩ chết chóc bỗng nhiên tràn ngập vô số quang hoa.
+Những văn tự huyền ảo khôn lường cùng hư ảnh kia tuy kích thước không lớn nhưng số lượng lại nhiều, trong khoảnh khắc xuất hiện đã lấp đầy toàn bộ thức hải của Hồng Quân, khiến cái thức hải vốn dĩ chết chóc này bỗng chốc tràn ngập vô số quang hoa.
 
-Tiếp đó, lượng lớn văn tự và hư ảnh kia điên cuồng xoay tròn, nhanh chóng hình thành một cái vòng xoáy quang hoa lấy con rận kia làm trung tâm, qua vài nhịp thở, vòng xoáy quang hoa này mãnh liệt co rút, tất cả văn tự trong nháy mắt đều rót sạch vào trong thần hồn của Hồng Quân đang nằm bò ở chính giữa thức hải này.
+Tiếp đó, lượng lớn văn tự cùng hư ảnh kia điên cuồng xoay tròn, nhanh chóng hình thành một vòng xoáy quang hoa lấy con rận kia làm trung tâm. Qua vài hơi thở, vòng xoáy quang hoa này bỗng nhiên co rụt lại, tất cả văn tự trong cháy mắt đều đồng loạt rót vào bên trong thần hồn đang nằm bò giữa thức hải của Hồng Quân.
 
-Theo sự rót vào của những văn tự và hư ảnh này, thần hồn vốn giống như đang ngủ đông kia bỗng nhiên vươn mình, bỗng chốc sống lại, mãnh liệt mở bừng hai mắt.
+Nương theo sự rót vào của những văn tự và hư ảnh này, thần hồn vốn đang hệt như ngủ đông kia bỗng nhiên gồng mình, đột ngột sống lại, mạnh mẽ mở choàng đôi mắt.
 
-"Công pháp này..." Hồng Quân mở mắt, trong mắt tràn đầy sự chấn động.
+"Công pháp này..." Hồng Quân mở to mắt, trong ánh mắt đầy vẻ chấn động.
 
-«Đỉnh Thiên Lập Địa Quyết» vốn là bộ công pháp hắn ngộ ra sau khi khai thức nhờ hồi tưởng lại cảnh tượng Bàn Cổ đỉnh thiên lập địa, hắn tự nhiên vô cùng quen thuộc với tâm pháp khẩu quyết và lộ tuyến hành công của bộ công pháp đó. Bộ công pháp này vừa xuất hiện, hắn liền theo bản năng đem công pháp mình ngộ ra lúc đó so sánh với bộ công pháp này, vừa so sánh, hắn chỉ cảm thấy một sự chấn động không lời nào tả xiết — một trời một vực, e rằng cũng không đủ để hình dung sự chênh lệch giữa hai bên!
+《 Đỉnh Thiên Lập Địa Quyết 》 vốn là bộ công pháp mà gã sau khi khai mở nhận thức, hồi tưởng lại cảnh tượng Bàn Cổ đỉnh thiên lập địa mà ngộ ra được, gã đương nhiên là vô cùng quen thuộc với tâm pháp khẩu quyết cũng như lộ tuyến vận công của bộ công pháp đó. Bộ công pháp này vừa xuất hiện, gã liền theo bản năng đem công pháp mình ngộ ra lúc ấy so sánh với bộ công pháp này. Sự so sánh này chỉ khiến gã cảm thấy một loại chấn động không cách nào diễn tả bằng lời - một trời một vực, e rằng cũng không đủ để hình dung khoảng cách giữa hai bên!
 
-Trong nháy mắt này, Hồng Quân cảm thấy vô cùng may mắn vì quyết định bái sư quả quyết của mình lúc trước, sinh ra sự cảm kích không lời nào tả xiết vì La Phàm có thể thu nhận mình làm đồ đệ.
+Trong khoảnh khắc này, Hồng Quân cảm thấy vô cùng may mắn vì sự quyết đoán bái sư lúc trước của mình, đồng thời nảy sinh lòng cảm kích khôn cùng vì La Phàm đã thu nhận mình làm đồ đệ.
 
-Hắn quay đầu kính cẩn nhìn La Phàm, thân hình khẽ khom, định lại một lần nữa dập đầu tạ ơn.
+Gã quay sang nhìn La Phàm với ánh mắt sùng kính, cơ thể gập lại, muốn một lần nữa dập đầu tạ ơn.
 
-La Phàm lại xua tay ngăn cản hắn, nói: "Không cần nói nhiều, mau mau dựa theo pháp quyết mà tu luyện, trước tiên đạt được Tiên Thiên Đạo Thể rồi hãy nói."
+La Phàm lại xua tay ngăn cản gã, nói: "Không cần đa lễ, mau mau tu luyện theo pháp quyết, đạt được Tiên Thiên Đạo Thể trước rồi hãy nói."
 
-Hồng Quân vội vàng gật đầu, sau khi đáp một tiếng "vâng", thân hình nằm bò trên mặt đất chấn động một cái, Tiên Thiên Đạo Thể dị hình kia liền trong nháy mắt sụp đổ tan ra.
+Hồng Quân vội vàng gật đầu, sau khi đáp một tiếng "vâng" liền nằm rạp người xuống đất chấn động một cái, Tiên Thiên Đạo Thể dị hình kia liền trong nháy mắt sụp đổ tan rã.
 
-Tiếp đó, những vật chất sụp đổ tan ra này với tốc độ cực nhanh lại một lần nữa tụ tập lại với nhau, cấu thành một con rận khổng lồ cao ba trượng, dài mười trượng! Chính là nguyên hình của Hồng Quân!
+Tiếp đó, những vật chất sụp đổ tan rã này với tốc độ cực nhanh một lần nữa tụ tập lại một chỗ, cấu thành một con rận khổng lồ cao ba trượng, dài mười trượng! Chính là nguyên hình của Hồng Quân!
 
-Con rận khi còn rất nhỏ trông không có gì, nhưng khi nó to lớn đến mức độ này, trông lại vô cùng khủng bố.
+Con rận khi còn nhỏ nhìn thì không thấy gì, nhưng khi nó to lớn đến mức này thì trông lại có vẻ khá đáng sợ.
 
-Nhưng, điều này đối với La Phàm mà nói lại không tính là gì, so với các loại môi trường khác của trời đất Hồng Hoang, hình tượng con rận này thì thấm vào đâu?
+Nhưng điều này đối với La Phàm mà nói thì chẳng thấm vào đâu, so với đủ loại môi trường khác của thiên địa Hồng Hoang, hình tượng con rận này thì có là gì?
 
 Con rận này chính là nguyên hình của Hồng Quân!
 
-Hồng Quân nằm bò ở đó, tâm pháp khẩu quyết đã được sửa đổi vang vọng trong tâm thần ý niệm của hắn, trong đan điền bụng dưới, luồng Hỗn Độn Nguyên Khí nồng đậm đến mức đã hóa đen tách ra một đạo, từ trong đan điền chảy ra, chậm rãi lưu chuyển theo lộ tuyến hành công đã được sửa đổi vốn vô cùng huyền ảo kia.
+Hồng Quân nằm bò ở đó, tâm pháp khẩu quyết đã sửa đổi vang vọng trong tâm thần ý niệm của gã, bên trong đan điền dưới bụng, một luồng hỗn độn nguyên khí nồng đậm đến mức đã hóa đen tách ra một đạo, chảy ra từ đan điền, nương theo lộ tuyến vận công sau khi sửa đổi vốn vô cùng huyền ảo mà chậm rãi luân chuyển.
 
-Dưới tác dụng chung của lộ tuyến hành công huyền ảo đó và tâm pháp khẩu quyết trong lòng, luồng Hỗn Độn Nguyên Khí này dần dần sinh ra một loại biến hóa vi diệu nào đó, thể tích của nó đang cực tốc thu nhỏ, chất lượng cũng không ngừng đề thăng, thậm chí, trong đó còn có thêm một loại đặc chất huyền chi hựu huyền nào đó!
+Dưới tác dụng chung của lộ tuyến vận công huyền ảo kia cùng với khẩu quyết tâm pháp trong lòng, những hỗn độn nguyên khí này dần dần phát sinh một loại biến hóa tinh vi nào đó, thể tích của nó đang co rút cực nhanh, chất lượng cũng không ngừng tăng lên, thậm chí bên trong còn nhiều thêm một loại đặc chất huyền chi hựu huyền (huyền diệu khôn lường)!
 
-Cơn đau kịch liệt vô tận kèm theo một luồng dị lực thần bí không thể mô tả mãnh liệt từ khắp nơi trên cơ thể truyền vào trong não bộ của Hồng Quân, va chạm với thần hồn vừa mới tỉnh táo lại của hắn, khiến thần hồn của hắn một trận hốt hoảng rung động, suýt nữa thì cứ thế tiêu tán.
+Cơn đau kịch liệt vô tận kèm theo một luồng dị lực thần bí không thể diễn tả bằng lời mạnh mẽ từ khắp nơi trên cơ thể truyền vào não bộ của Hồng Quân, va đập vào cái thần hồn vừa mới tỉnh táo của gã, khiến thần hồn của gã một trận hốt hoảng run rẩy, suýt chút nữa thì tiêu tán.
 
-Ngay khoảnh khắc thần hồn sắp sửa sụp đổ này, những văn tự gian sáp huyền ảo mà La Phàm truyền vào thức hải của hắn mãnh liệt hiện ra từ sâu trong thần hồn, nháy mắt liền giống như một cái lồng bao bọc, che chở lấy toàn bộ thần hồn của hắn, cách tuyệt cơn đau kịch liệt cùng với dị lực thần bí suýt chút nữa đã chấn cho thần hồn tiêu tán kia ra ngoài, ổn định lại thần hồn đã có dấu hiệu tiêu tán.
+Ngay khoảnh khắc thần hồn này sắp sụp đổ, những văn tự gian sáp huyền ảo mà La Phàm truyền vào thức hải của gã bỗng nhiên từ sâu trong thần hồn hiện ra, trong chớp mắt hệt như một cái chụp, bao phủ lấy toàn bộ thần hồn của gã, ngăn cách đi những cơn đau kịch liệt cùng dị lực thần bí suýt chút nữa làm thần hồn gã tiêu tan, ổn định lại thần hồn đã có dấu hiệu tan biến.
 
-Ở phía ngoài La Phàm nhìn thấy, chính là trong nháy mắt đó, toàn thân Hồng Quân mãnh liệt bộc phát ra vô số đạo quang mang huyền chi hựu huyền.
+Dưới góc nhìn của La Phàm ở bên ngoài, chính là vào khoảnh khắc ấy, toàn thân Hồng Quân bỗng nhiên bộc phát ra vô số đạo hào quang huyền chi hựu huyền.
 
-Những đạo quang mang huyền chi hựu huyền này giống như vô số lợi kiếm, từ các bộ phận trên cơ thể hắn xông ra, đâm thủng cơ thể hắn thành vô số lỗ thủng!
+Những hào quang huyền chi hựu huyền này hệt như vô số thanh lợi kiếm, từ các bộ phận trên cơ thể gã vọt ra, đâm thủng cơ thể gã thành vô số lỗ hổng!
 
-Theo sự xuất hiện của những lỗ thủng này, một luồng lực xâu xé vô cùng mãnh liệt mãnh liệt sinh ra từ hư không, đem tất cả năng lượng xung quanh xâu xé về phía cơ thể Hồng Quân, điên cuồng hấp thu tất cả năng lượng có thể hấp thu!
+Nương theo sự xuất hiện của những lỗ hổng này, một luồng sức mạnh xâu xé cực kỳ mãnh liệt bỗng nhiên sinh ra từ hư không, xâu xé tất cả năng lượng xung quanh về phía cơ thể Hồng Quân, điên cuồng hấp thu mọi năng lượng có thể hấp thu!
 
-La Phàm hơi nhíu mày, giơ tay nhẹ nhàng vẩy một cái, một cái lồng vô hình liền bao phủ phạm vi trăm dặm xung quanh.
+La Phàm khẽ nhíu mày, giơ tay nhẹ nhàng phất một cái, một cái chụp vô hình liền bao phủ phạm vi trăm dặm xung quanh.
 
-Bên trong cái lồng này, tất cả Tiên Thiên Nguyên Khí đều hoàn toàn bị cái lồng hấp thu, hoàn toàn chuyển hóa thành phòng ngự của cái lồng, chống lại sự xung kích của Tiên Thiên Nguyên Khí vô cùng vô tận bên ngoài cái lồng.
+Bên trong cái chụp này, tất cả tiên thiên nguyên khí đều hoàn toàn bị cái chụp hấp thu, chuyển hóa hoàn toàn thành phòng ngự của cái chụp, chống đỡ được sự va đập của tiên thiên nguyên khí vô cùng vô tận bên ngoài cái chụp.
 
-Trong chớp mắt, trong phạm vi trăm dặm, lại không còn bất kỳ Tiên Thiên Nguyên Khí nào tồn tại!
+Trong cháy mắt, trong phạm vi trăm dặm xung quanh lại không còn bất kỳ tiên thiên nguyên khí nào tồn tại!
 
-Không còn Tiên Thiên Nguyên Khí tồn tại, luồng lực xâu xé khủng bố kia nháy mắt vồ hụt, sau khi tìm kiếm khắp nơi không có kết quả, liền chuyển sang tác dụng luồng lực xâu xé đó lên cơ thể rận của Hồng Quân, không ngừng ép nén thân xác của hắn, khiến thân xác của hắn cực tốc nhỏ lại!
+Không có tiên thiên nguyên khí tồn tại, luồng lực xâu xé khủng khiếp kia lập tức hụt hẫng, sau khi tìm kiếm khắp nơi không có kết quả, bèn chuyển sang tác động lực xâu xé đó lên cơ thể con rận của Hồng Quân, không ngừng nén ép cơ thể gã, khiến cơ thể gã co rút cực nhanh!
 
-Cùng lúc đó, luồng quang mang huyền chi hựu huyền xông ra từ bên trong cơ thể hắn kia càng trở nên rực rỡ, càng thêm chói mắt!
+Cùng lúc đó, luồng hào quang huyền chi hựu huyền vọt ra từ bên trong cơ thể gã càng trở nên rực rỡ hơn, chói mắt hơn!
 
-Loại quang mang này và luồng lực xâu xé kia kẹp đánh thân xác hắn từ hai hướng, khiến thân xác đó trong nháy mắt đã không chịu nổi gánh nặng, vang lên một tiếng "ầm" cực lớn, nháy mắt sụp đổ thành vô số mảnh vụn!
+Loại hào quang này cùng với lực xâu xé kia từ hai phía kẹp lấy cơ thể gã, khiến cơ thể đó trong chớp mắt đã không chịu nổi gánh nặng, "Oành!" một tiếng nổ lớn, ngay lập tức sụp đổ thành vô số mảnh vụn!
 
-Những mảnh vụn nổ tung này không hề vì thế mà tản mát khắp nơi, ngược lại dưới tác dụng của luồng lực xâu xé càng ngày càng mạnh kia, không ngừng thu nhỏ lại!
+Những mảnh vụn nổ tung này không vì thế mà tản ra bốn phía, trái lại dưới tác dụng của một luồng lực xâu xé ngày càng mạnh kia mà không ngừng thu nhỏ lại!
 
-Sau một lúc, từ hình thể vốn cao ba trượng, dài mười trượng đã thu nhỏ lại thành một khối hình cầu hơi dẹt dài gần hai mét, rộng nửa mét!
+Một lúc lâu sau, từ thể hình vốn cao ba trượng, dài mười trượng đã thu nhỏ thành một khối hình bầu dục dài gần hai mét, rộng nửa mét!
 
-Luồng quang mang huyền chi hựu huyền kia tuy cũng không ngừng tăng cường theo thời gian trôi qua, nhưng so với luồng lực xâu xé kia thì vẫn còn kém một chút!
+Luồng hào quang huyền chi hựu huyền kia tuy cũng không ngừng tăng cường theo thời gian, nhưng so với luồng lực xâu xé kia thì vẫn kém hơn một chút!
 
-Trong quá trình biến hóa này, luồng quang mang bị những mảnh vụn thân xác đang không ngừng thu nhỏ hoàn toàn chặn lại.
+Trong quá trình biến hóa này, nó hoàn toàn bị che lấp bởi những mảnh vụn cơ thể đang không ngừng thu nhỏ kia.
 
-Lúc này đây, thần hồn của Hồng Quân hoàn toàn ở trong một trạng thái thần diệu không lời nào tả xiết, trong lòng chỉ có tâm pháp khẩu quyết mà La Phàm đã truyền vào não bộ lúc trước là không ngừng vang vọng.
+Ngay lúc này, thần hồn của Hồng Quân hoàn toàn chìm đắm trong một trạng thái thần diệu khôn lường, trong lòng chỉ có tâm pháp khẩu quyết mà La Phàm truyền vào não bộ lúc trước đang không ngừng vang vọng.
 
-Tất cả những gì xảy ra với cơ thể đã hoàn toàn tách rời khỏi cảm tri của hắn.
+Tất cả những gì đang xảy ra với cơ thể đã hoàn toàn tách rời khỏi cảm giác của gã.
 
-Theo thời gian trôi qua, thần hồn của hắn cũng bắt đầu chậm rãi biến hóa.
+Nương theo sự trôi qua của thời gian, thần hồn của gã cũng bắt đầu chậm rãi biến hóa.
 
-Giống như mỡ bò tan chảy vậy, thần hồn vốn chiếm nửa không gian thức hải dần dần tan chảy thành chất lỏng, mà đồng thời khi tan chảy, nó lại giống như chịu phải một luồng lực lượng cực kỳ khủng bố ép nén, ra sức thu nhỏ về phía chính giữa...
+Hệt như bơ lỏng tan chảy, cái thần hồn chiếm cứ một nửa không gian thức hải kia dần dần tan chảy thành chất lỏng, mà trong khi tan chảy, nó lại hệt như chịu tác động nén ép của một luồng lực cực kỳ khủng khiếp, dốc sức thu nhỏ về phía chính giữa...
 
-Theo sự thu nhỏ, chất liệu của thần hồn chậm rãi đề thăng, một số vật chất đen thui trong đó không ngừng bị ép ra, tràn vào một điểm thần bí nào đó, rời khỏi thức hải. Màu sắc của thần hồn theo sự biến hóa này mà trở nên càng thêm thuần túy, càng thêm ngưng tụ!
+Cùng với sự thu nhỏ, chất lượng của thần hồn chậm rãi tăng lên, một số vật chất đen thui bên trong không ngừng bị ép ra ngoài, tuôn vào một điểm thần bí nào đó rời khỏi thức hải. Màu sắc của thần hồn theo sự biến hóa này mà ngày càng trở nên thuần khiết hơn, ngày càng ngưng tụ hơn!
 
 Lại qua không biết bao lâu.
 
-"Ầm đoàng!"
+"Rắc oành!"
 
-Một tiếng vang lớn như thiên lôi mãnh liệt vang lên trong tâm thần ý niệm của Hồng Quân! Đem hắn từ trong trạng thái thần diệu không lời nào tả xiết kia làm cho bừng tỉnh lại.
+Một tiếng nổ lớn hệt như thiên lôi bỗng nhiên vang lên trong tâm thần ý niệm của Hồng Quân! Đánh thức gã khỏi trạng thái thần diệu khôn lường kia.
 
-Sau khi bừng tỉnh, Hồng Quân liền nhận ra sự biến hóa của bản thân!
+Sau khi tỉnh lại, Hồng Quân liền nhận ra sự thay đổi của bản thân!
 
-Nháy mắt, hắn lệ tuôn đầy mặt.
+Trong phút chốc, gã lệ rơi đầy mặt.
 
-"Cầu đạo mười mấy vạn năm, hôm nay rốt cuộc gặp được danh sư!" Niệm đầu này vang vọng trong tâm thần ý niệm của hắn. Chỉ trong nháy mắt, sự kính ngưỡng của hắn đối với La Phàm đã đề thăng đến một mức độ mà không ai có thể lay chuyển được!
+"Cầu đạo mười mấy vạn năm, hôm nay cuối cùng cũng gặp được danh sư!" Niệm đầu này vang vọng trong tâm thần ý niệm của gã. Chỉ trong khoảnh khắc, sự kính trọng của gã dành cho La Phàm đã tăng lên đến mức không một ai có thể lay chuyển được!
 
-Sau một phen biến hóa vừa rồi, thần hồn của hắn đã hóa thành hình thái một thanh niên gầy gò nhưng mang theo một loại kiên định.
+Sau đợt biến hóa vừa rồi, thần hồn của gã đã hóa thành hình dáng một thanh niên gầy gò nhưng mang theo một loại kiên định.
 
-Mà thân xác của hắn cũng hóa thành một thanh niên có diện mạo tương đồng.
+Mà cơ thể gã cũng hóa thành một thanh niên có cùng dáng vẻ.
 
-Chính là, trải qua sự biến hóa không biết bao lâu lúc trước, cuối cùng hắn đã đạt được Tiên Thiên Đạo Thể chân chính!
+Chính là, sau quá trình biến hóa không biết kéo dài bao lâu lúc trước, gã cuối cùng đã đạt được Tiên Thiên Đạo Thể thực sự!
 
-Nỗ lực mười mấy vạn năm đã thành công trong chớp mắt, hèn gì hắn lại kích động như vậy, vui mừng như thế...
+Nỗ lực mười mấy vạn năm nay một sớm thành công, thảo nào gã lại xúc động như thế, vui sướng như thế...

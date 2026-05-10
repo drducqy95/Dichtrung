@@ -1,97 +1,97 @@
-# Chương 0002 - Quan Bất Chu Ngộ Công Pháp
+# Chương 2: Quan Bất Chu Ngộ Công Pháp
 
-Bàn Cổ khai thiên lập địa, loại nguyên khí đầu tiên sinh ra trong thiên địa này chính là Hỗn Độn Nguyên Khí. Loại Hỗn Độn Nguyên Khí này bởi vì là loại nguyên khí đầu tiên được sinh ra khi thiên địa vừa mới hình thành, lúc hỗn độn chưa hoàn toàn phân tách, cho nên nó bao hàm hơi hơi thở của hỗn độn, sở hữu thuộc tính hỗn độn, vô cùng bạo liệt, uy năng cường hãn tới cực điểm, diệu dụng lại càng vô cùng vô tận.
+Bàn Cổ khai thiên lập địa, loại nguyên khí đầu tiên sinh ra trong thiên địa chính là Hỗn Độn nguyên khí. Loại Hỗn Độn nguyên khí này vì được sinh ra ngay khi thiên địa vừa mới hình thành, lúc hỗn độn chưa hoàn toàn phân định, nên chứa đựng hơi thở của hỗn độn, sở hữu thuộc tính hỗn độn, vô cùng bạo liệt, uy năng cường hãn chí cực, diệu dụng lại càng vô cùng vô tận.
 
-Sau khi Hỗn Độn Nguyên Khí xuất hiện, theo thời gian trôi đi, sự diễn hóa của thiên địa dần dần hoàn thiện, Hỗn Độn Nguyên Khí không còn có thể tồn tại ổn định được nữa, thế là bắt đầu không ngừng diễn hóa thành Tiên Thiên Nguyên Khí có thể nuôi dưỡng vạn vật. Quá trình này sẽ tiếp tục kéo dài cho đến khi toàn bộ thiên địa Hồng Hoang hoàn toàn ổn định, sau khi toàn bộ Hỗn Độn Nguyên Khí hoàn toàn chuyển hóa thành Tiên Thiên Nguyên Khí mới dừng lại.
+Sau khi Hỗn Độn nguyên khí xuất hiện, theo thời gian trôi qua, sự diễn hóa của thiên địa dần dần hoàn thiện, Hỗn Độn nguyên khí không còn tồn tại ổn định, thế là bắt đầu không ngừng diễn hóa thành Tiên Thiên nguyên khí có thể nuôi dưỡng vạn vật. Quá trình này sẽ tiếp tục kéo dài cho đến khi toàn bộ thiên địa Hồng Hoang hoàn toàn ổn định, sau khi tất cả Hỗn Độn nguyên khí hoàn toàn chuyển hóa thành Tiên Thiên nguyên khí mới dừng lại.
 
-Sau khi thiên địa Hồng Hoang diễn hóa hoàn toàn, liền phải bắt đầu chuyển hóa từ tiên thiên sang hậu thiên, Tiên Thiên Nguyên Khí cũng bắt đầu tiếp tục diễn biến, dần dần diễn biến thành Hậu Thiên Nguyên Khí. Loại Hậu Thiên Nguyên Khí này chính là loại Thiên Địa Nguyên Khí mà tu sĩ hậu thế vẫn nói đến.
+Sau khi thiên địa Hồng Hoang diễn hóa hoàn toàn, sẽ chuyển từ tiên thiên sang hậu thiên, Tiên Thiên nguyên khí cũng bắt đầu tiếp tục diễn biến, dần dần diễn biến thành Hậu Thiên nguyên khí. Loại Hậu Thiên nguyên khí này chính là thiên địa nguyên khí mà tu sĩ hậu thế thường nói đến.
 
-Tất nhiên, thời gian để các quá trình diễn hóa này diễn ra đều được tính bằng đơn vị nguyên hội, thậm chí là lượng kiếp. Vài ngàn năm hay vài vạn năm đối với quá trình này mà nói, nếu sơ ý một chút thậm chí có thể bỏ qua không tính.
+Tất nhiên, thời gian kéo dài của mấy quá trình diễn hóa này đều được tính bằng Nguyên Hội, thậm chí là Lượng Kiếp. Vài ngàn năm hay vài vạn năm đối với quá trình này mà nói, nếu sơ ý một chút thậm chí có thể bỏ qua không tính.
 
-Bất kể là Hỗn Độn Nguyên Khí hay Tiên Thiên Nguyên Khí, đều sở hữu đủ loại công hiệu mà Hậu Thiên Nguyên Khí không có, đối với sự diễn hóa của sinh mệnh có diệu dụng vô cùng.
+Bất kể là Hỗn Độn nguyên khí hay Tiên Thiên nguyên khí đều sở hữu đủ loại công hiệu mà Hậu Thiên nguyên khí không có, đối với sự diễn hóa của sinh mệnh có diệu dụng vô cùng.
 
-Trong quá trình Hỗn Độn Nguyên Khí đan xen diễn biến, có thể trống rỗng sinh ra đủ loại sinh mệnh mạnh mẽ, sinh ra những linh vật tiên thiên mà có, không cha không mẹ, ví dụ như đủ loại sinh linh đang du đãng trong thiên địa Hồng Hoang lúc này chính là loại sinh linh do Hỗn Độn Nguyên Khí đan xen diễn biến mà thành.
+Trong quá trình Hỗn Độn nguyên khí đan xen diễn biến, có thể bằng không sinh ra đủ loại sinh mệnh mạnh mẽ, sinh ra những sinh linh thiên sinh địa dưỡng, không cha không mẹ. Ví dụ như đủ loại sinh linh đang lang thang trong thiên địa Hồng Hoang lúc này chính là loại sinh linh được tạo thành từ sự đan xen diễn biến của Hỗn Độn nguyên khí như vậy.
 
-Còn Tiên Thiên Nguyên Khí, diệu dụng tuy kém hơn một chút so với Hỗn Độn Nguyên Khí, nhưng tràn ngập giữa thiên địa, có thể bổ sung thọ nguyên, chỉ cần luôn sống giữa Tiên Thiên Nguyên Khí, hít thở Tiên Thiên Nguyên Khí thì sẽ có thọ nguyên vô hạn, bất lão bất tử.
+Còn Tiên Thiên nguyên khí, tuy diệu dụng hơi kém hơn Hỗn Độn nguyên khí một chút, nhưng tràn ngập giữa thiên địa, có thể bổ sung thọ nguyên. Chỉ cần luôn sống trong Tiên Thiên nguyên khí, hít thở Tiên Thiên nguyên khí thì sẽ thọ nguyên vô hạn, bất lão bất tử.
 
-Chính vì như vậy, thiên địa Hồng Hoang khai tịch chưa đầy mười vạn năm, những thứ đang du đãng trong thiên địa Hồng Hoang này đều là lứa sinh linh đầu tiên của thiên địa do Hỗn Độn Nguyên Khí diễn biến mà thành.
+Chính vì vậy, thiên địa Hồng Hoang khai tịch chưa đầy mười vạn năm, những sinh linh đang lang thang trong thiên địa Hồng Hoang này đều là lứa sinh linh đầu tiên của thiên địa do Hỗn Độn nguyên khí diễn biến thành.
 
-Và rõ ràng, mẻ sinh linh đầu tiên bất lão bất tử, sức mạnh cường hãn, tuổi thọ vô tận này đều có thể được gọi là Tiên Thiên Thần Kỳ!
+Và rõ ràng, những sinh linh bất lão bất tử lứa đầu tiên này có sức mạnh cường hãn, thọ mệnh vô cùng, thảy đều có thể gọi là Tiên Thiên Thần Chỉ!
 
-Tỳ Hưu mà La Phàm hóa thân thành rõ ràng là đã bắt kịp chuyến tàu cuối cùng của nhóm Tiên Thiên Thần Kỳ này.
+Con Tỳ Hưu do La Phàm biến thành, rõ ràng là đã kịp lên chuyến tàu cuối cùng của hàng ngũ Tiên Thiên Thần Chỉ này.
 
-Chỉ là khác với những gì tưởng tượng, con Tiên Thiên Thần Kỳ này của hắn chỉ biết hấp thu Tiên Thiên Nguyên Khí theo bản năng, theo bản năng tìm kiếm Hỗn Độn Nguyên Khí để nó thấm đẫm thân xác nhằm làm cho thân thể lớn mạnh, chứ hoàn toàn không có bất kỳ công pháp tu luyện nào trong truyền thuyết cả.
+Chỉ là khác với tưởng tượng, vị Tiên Thiên Thần Chỉ như hắn chỉ biết hấp thu Tiên Thiên nguyên khí theo bản năng, tìm kiếm Hỗn Độn nguyên khí theo bản năng để nó thấm nhuần cơ thể nhằm làm mạnh bản thân, chứ không hề có bất kỳ công pháp tu luyện nào như trong truyền thuyết.
 
-Làm cho bản thân mạnh lên là bản năng của bất kỳ sinh mệnh nào. Mà là một Tiên Thiên Thần Kỳ sinh ra từ trong Hỗn Độn Nguyên Khí, muốn làm cho bản thân mạnh lên, chỉ hấp thu Tiên Thiên Nguyên Khí rõ ràng là không đủ.
+Làm mạnh bản thân là bản năng của bất kỳ sinh mệnh nào. Mà với tư cách là Tiên Thiên Thần Chỉ sinh ra từ Hỗn Độn nguyên khí, muốn làm mạnh bản thân, chỉ hấp thu Tiên Thiên nguyên khí rõ ràng là không đủ.
 
-Mặc dù La Phàm đã nằm sấp trên cái địa huyệt tỏa ra vô số Hỗn Độn Nguyên Khí này không biết bao nhiêu năm rồi, nhưng bởi vì hắn chỉ có thể dựa vào việc Hỗn Độn Nguyên Khí thấm đẫm thân xác mới có thể hấp thu được một chút xíu Hỗn Độn Nguyên Khí, cho nên Hỗn Độn Nguyên Khí do địa huyệt này tỏa ra không hề vì sự hiện diện của hắn mà tăng nhanh bao nhiêu cả.
+La Phàm tuy đã nằm trên cái địa huyệt tỏa ra vô số Hỗn Độn nguyên khí này không biết bao nhiêu năm, nhưng vì hắn chỉ có thể dựa vào việc Hỗn Độn nguyên khí thấm nhuần cơ thể mới có thể hấp thu được một chút xíu Hỗn Độn nguyên khí, cho nên Hỗn Độn nguyên khí mà địa huyệt này tỏa ra không vì sự tồn tại của hắn mà tăng nhanh bao nhiêu.
 
-Từ trong ký ức của Tỳ Hưu biết rõ lợi ích của Hỗn Độn Nguyên Khí đối với mình, La Phàm hít sâu một hơi Hỗn Độn Nguyên Khí, luồng Hỗn Độn Nguyên Khí này vô cùng thuận lợi theo lỗ mũi tiến vào trong cơ thể, chỉ là khi hắn thở ra, những Hỗn Độn Nguyên Khí này lại một lần nữa từ lỗ mũi chui ra ngoài. Trong đó cùng lắm chỉ là thiếu đi một tia cực kỳ nhỏ bé không thể nhận ra đã bị hắn hấp thu mà thôi.
+Biết được lợi ích của Hỗn Độn nguyên khí đối với mình từ ký ức của Tỳ Hưu, La Phàm hít sâu một hơi Hỗn Độn nguyên khí. Luồng Hỗn Độn nguyên khí này rất thuận lợi theo lỗ mũi tiến vào trong cơ thể, chỉ là khi hắn thở ra, những luồng Hỗn Độn nguyên khí này lại một lần nữa từ lỗ mũi chui ra ngoài. Trong đó cùng lắm chỉ là thiếu đi một tia cực nhỏ không đáng kể bị hắn hấp thu mà thôi.
 
-Đây đã được tính là cái lợi cực lớn mà hắn có được sau khi thần hồn thành hình rồi, trước khi thần hồn hắn chưa thành hình, lượng Hỗn Độn Nguyên Khí hắn hấp thu được thậm chí còn không đạt tới cái mức "một tia cực nhỏ" này.
+Đây còn được coi là lợi ích to lớn mà hắn nhận được sau khi thần hồn thành hình. Trước khi thần hồn của hắn chưa thành hình, lượng Hỗn Độn nguyên khí hắn hấp thu được thậm chí còn không đạt tới mức một tia cực nhỏ này.
 
-Cái địa huyệt này lúc nào cũng đang tỏa ra Hỗn Độn Nguyên Khí, dưới lớp sương mù xám xịt, phạm vi ba dặm quanh địa huyệt tỏ ra đặc biệt hoang vu. Mà ở bên ngoài ba dặm, đủ loại thảm thực vật lại đặc biệt tươi tốt, cổ thụ um tùm, hai bên tạo thành một sự tương phản cực lớn.
+Địa huyệt này lúc nào cũng tỏa ra Hỗn Độn nguyên khí, dưới màn sương mù xám xịt, phạm vi ba dặm quanh địa huyệt tỏ ra vô cùng hoang lương. Mà ở ngoài ba dặm, đủ loại thảm thực vật lại đặc biệt tươi tốt, cổ thụ sầm uất, hai bên tạo thành một sự tương phản cực lớn.
 
-La Phàm thử một chút, phát hiện bất kể mình nỗ lực thế nào cũng đều không có cách nào với đống Hỗn Độn Nguyên Khí này cả, không hề có bất kỳ dấu hiệu nào cho thấy sự hấp thu Hỗn Độn Nguyên Khí được đẩy nhanh hơn, trong lòng không khỏi nảy sinh sự bất lực.
+La Phàm thử một phen, phát hiện bất kể mình nỗ lực thế nào cũng không có cách nào làm gì được luồng Hỗn Độn nguyên khí này, việc hấp thu Hỗn Độn nguyên khí không có bất kỳ dấu hiệu tăng nhanh nào, trong lòng không khỏi cảm thấy bất lực.
 
-"Sự xuất hiện thần hồn của mình trước đó dường như là vì mình đang quan sát núi Bất Chu, cảm nhận hơi hơi thở tỏa ra từ ngọn núi đó. Liệu có phải nếu mình muốn hấp thu Hỗn Độn Nguyên Khí cũng phải giống như lúc trước không? Đúng rồi! Nhất định là được! Hiện tại thiên địa mới mở, vạn sự vạn vật vẫn đang trong quá trình diễn hóa, mỗi một sự vật nhất định đều bao hàm một số bí mật nào đó về sự diễn hóa của thiên địa, núi Bất Chu là do xương sống của Bàn Cổ hóa thành, bí mật thiên địa bao hàm trong đó nhất định là nhiều hơn, mình quan sát núi Bất Chu, cảm nhận hơi hơi thở tỏa ra từ đó, nhất định có thể lĩnh ngộ ra một số bí mật thiên địa, thậm chí có thể vì thế mà lĩnh ngộ ra công pháp của riêng mình cũng không biết chừng!" Đôi mắt La Phàm sáng ngời, trong lòng tràn đầy hy vọng.
+"Sự xuất hiện của thần hồn trước đó dường như là vì ta đang quan sát núi Bất Chu, cảm nhận khí tức tỏa ra từ ngọn núi đó. Liệu việc ta muốn hấp thu Hỗn Độn nguyên khí có phải cũng giống như trước đây không? Đúng rồi! Nhất định là có thể! Hiện tại thiên địa mới mở, vạn sự vạn vật vẫn đang trong quá trình diễn hóa, mỗi một sự vật nhất định đều chứa đựng một số bí ẩn về sự diễn hóa của thiên địa. Núi Bất Chu là do xương sống của Bàn Cổ hóa thành, bí ẩn thiên địa chứa đựng trong đó chắc chắn càng nhiều. Ta quan sát núi Bất Chu, cảm nhận khí tức nó tỏa ra, nhất định có thể lĩnh ngộ ra một số bí ẩn thiên địa, thậm chí có thể vì thế mà lĩnh ngộ ra công pháp của riêng mình không biết chừng!" Đôi mắt La Phàm lấp lánh ánh sáng, trong lòng tràn đầy hy vọng.
 
-Nhớ lại những cuốn tiểu thuyết từng đọc trước đây luôn nói vị tiền bối nào đó quan sát hiện tượng nào đó hoặc sự vật nào đó mà lĩnh ngộ ra công pháp nào đó, nếu họ đã có thể thì mình tới thiên địa Hồng Hoang này, lại còn là lúc thiên địa vừa khai tịch chưa được bao lâu, vẫn chưa ổn định, vẫn đang trong quá trình diễn hóa, điều kiện lĩnh ngộ còn tốt hơn, không lý nào lại không được!
+Nghĩ đến những cuốn tiểu thuyết từng đọc trước đây luôn nói tiền bối mỗ mỗ quan sát hiện tượng mỗ mỗ hoặc sự vật mỗ mỗ mà lĩnh ngộ ra công pháp mỗ mỗ. Kể cả họ có thể thì mình đã tới thiên địa Hồng Hoang này, lại còn là thiên địa Hồng Hoang vừa mới khai tịch không lâu, vẫn chưa ổn định, còn đang trong quá trình diễn hóa, điều kiện lĩnh ngộ tốt hơn nhiều, không lý nào lại không được!
 
-Có được sự tự tin này, La Phàm ngửa mặt lên trời phát ra một tiếng gầm dài, tiếng rồng ngâm giống như sấm nổ vang dậy, xua tan lớp Hỗn Độn Nguyên Khí xám xịt xung quanh.
+Có niềm tin này, La Phàm ngửa mặt lên trời phát ra một tiếng gầm dài, một tiếng rồng ngâm như sấm rền khuấy động luồng Hỗn Độn nguyên khí xám xịt xung quanh.
 
-La Phàm đã hạ quyết tâm muốn từ trong núi Bất Chu lĩnh ngộ ra công pháp tu luyện của riêng mình, tự nhiên sẽ không còn do dự nữa, cơ thể chọn lấy một tư thế thoải mái nằm sấp trên địa huyệt, đem cái địa huyệt đang tỏa ra Hỗn Độn Nguyên Khí đại khái chặn dưới thân mình, phóng tầm mắt nhìn về phía ngọn núi Bất Chu cao lớn đến mức không thể dùng ngôn ngữ diễn tả kia, tâm thần thả lỏng, hết sức cảm nhận luồng hơi hơi thở thương mang bất khuất tỏa ra từ ngọn núi đó.
+La Phàm đã hạ quyết tâm muốn từ núi Bất Chu lĩnh ngộ ra công pháp tu luyện của mình, tự nhiên sẽ không chần chừ nữa. Thân thể chọn một tư thế thoải mái nằm trên địa huyệt, chặn cái địa huyệt tỏa ra Hỗn Độn nguyên khí ở dưới thân, phóng tầm mắt nhìn về phía núi Bất Chu cao lớn đến mức không thể hình dung nổi, tâm thần thả lỏng, cố gắng hết sức cảm ứng luồng khí tức thương mang bất khuất tỏa ra từ ngọn núi đó.
 
-Ở trong phòng trồng hoa lan lâu ngày sẽ không thấy hương thơm của nó nữa.
+Ở trong phòng hoa lan lâu ngày sẽ không còn ngửi thấy hương thơm nữa.
 
-Cùng lý lẽ đó, lúc nào cũng ở trong luồng hơi hơi thở thương mang bất khuất dưới sự bao phủ của núi Bất Chu tỏa ra, lâu ngày tự nhiên cũng sẽ không cách nào nhận ra sự hiện hữu của luồng hơi hơi thở vô cùng huyền diệu này nữa.
+Cùng lý lẽ đó, lúc nào cũng ở trong luồng khí tức thương mang bất khuất của núi Bất Chu bao phủ, lâu dần tự nhiên cũng không thể cảm nhận được sự hiện diện của luồng khí tức vô cùng huyền diệu này nữa.
 
-Lúc này thả lỏng tâm thần, qua một hồi lâu, hắn mới một lần nữa cảm nhận được luồng hơi hơi thở với sự hùng vĩ không thể diễn tả bằng lời kia.
+Lúc này thả lỏng tâm thần, qua hồi lâu sau hắn mới một lần nữa cảm nhận được luồng khí tức hùng vĩ không thể diễn tả bằng lời kia.
 
-Bị luồng hơi hơi thở này bao phủ lấy toàn bộ tâm thần, một cảm giác đấu với trời, đấu với đất, vĩnh viễn không khuất phục, vĩnh viễn không từ bỏ dâng lên trong lòng hắn.
+Được luồng khí tức này bao trùm toàn bộ tâm thần, một loại cảm giác đấu với trời, đấu với đất, vĩnh viễn không khuất phục, vĩnh viễn không từ bỏ dâng lên trong lòng hắn.
 
-Hình ảnh núi Bất Chu soi bóng trong đôi mắt hắn, tâm thần hắn dần dần ngưng tụ, thị lực đôi mắt dần dần tăng cường, ngọn núi Bất Chu vốn mờ mịt kia dần dần trở nên rõ ràng hơn.
+Hình ảnh núi Bất Chu soi bóng trong đôi mắt hắn, tâm thần hắn dần dần ngưng tụ, thị lực đôi mắt dần dần tăng cường, núi Bất Chu vốn dĩ mờ mịt dần dần trở nên rõ ràng hơn.
 
-Núi Bất Chu là xương sống của Bàn Cổ, là cột chống trời Tây Bắc, công năng tự thân của nó đã quyết định rằng nó nhất định bao hàm vô tận bí mật của thiên địa, thậm chí, chỉ riêng hình dáng của ngọn núi thôi đã sở hữu một luồng uy năng không thể tưởng tượng nổi rồi!
+Núi Bất Chu là xương sống của Bàn Cổ, là Thiên trụ Tây Bắc, công dụng bản thân nó đã quyết định nó nhất định chứa đựng bí ẩn thiên địa vô tận. Thậm chí chỉ riêng hình dáng của nó thôi cũng sở hữu một loại uy năng không thể tin nổi!
 
-Trong sát na này, La Phàm bỗng nhiên cảm thấy mình đã hoàn toàn hòa nhập vào luồng hơi hơi thở thương mang bất khuất đó, bản thân dường như một lần nữa hóa thân thành cái cột chống trời mọc lên từ đất bằng sừng sững đâm xuyên tầng mây kia, vùng đại địa vô cùng rộng lớn, vô cùng vững chãi kia, bầu trời vô cùng xa xăm, vô cùng bí ẩn kia dường như đã hoàn toàn hòa làm một với hắn.
+Trong nháy mắt này, La Phàm bỗng nhiên cảm thấy mình đã hoàn toàn hòa nhập vào luồng khí tức thương mang bất khuất kia, mình dường như một lần nữa hóa thân thành cột chống trời mọc lên từ đất bằng đâm thẳng vào tầng mây. Đại địa vô cùng rộng lớn vững chãi, bầu trời vô cùng xa xăm bí ẩn dường như hoàn toàn dung hợp làm một với hắn.
 
-Cùng với sự xuất hiện của cảm giác này, cơ thể La Phàm cũng dần dần nảy sinh sự biến lọc.
+Cùng với sự xuất hiện của cảm giác này, cơ thể La Phàm cũng dần dần nảy sinh biến hóa.
 
-Những Hỗn Độn Nguyên Khí vốn dĩ đang cuộn trào xung quanh, vốn chỉ có một tia cực nhỏ không thể nhận ra có thể được La Phàm hấp thu kia đột nhiên biến thành giống như cá mập ngửi thấy mùi máu vậy, điên cuồng lao về phía cơ thể hắn.
+Luồng Hỗn Độn nguyên khí không ngừng cuộn trào xung quanh, vốn dĩ chỉ có một tia cực nhỏ có thể được La Phàm hấp thu, bỗng nhiên biến thành như cá mập ngửi thấy mùi máu, điên cuồng ùa về phía cơ thể La Phàm.
 
-Không ngừng từ các huyệt khiếu khắp cơ thể chui vào trong người La Phàm.
+Chúng không ngừng từ các huyệt khiếu trên cơ thể La Phàm xông vào trong người hắn.
 
-Những Hỗn Độn Nguyên Khí này sau khi tràn vào cơ thể liền phân thành hàng trăm đạo trong thân thể hắn, theo hàng trăm đạo lộ trình huyền diệu khó lường mà nhanh chóng tuần hoàn vận chuyển! Những Hỗn Độn Nguyên Khí này sau khi mỗi đạo trải qua một vòng tuần hoàn, tính chất đã nảy sinh đủ loại biến hóa vô cùng huyền diệu, bị trung tâm giữa hai lông mày của hắn, tức là vị trí của Nê Hoàn cung nuốt chửng sạch láng.
+Những luồng Hỗn Độn nguyên khí này sau khi tràn vào cơ thể liền chia thành hàng trăm luồng trong thân thể hắn, vận chuyển tuần hoàn nhanh chóng theo hàng trăm con đường huyền diệu khó lường! Sau khi đi qua một vòng tuần hoàn, tính chất của những luồng Hỗn Độn nguyên khí này nảy sinh đủ loại biến hóa vô cùng huyền diệu, rồi bị vị trí giữa hai lông mày — nơi Cung Nê Hoàn tọa lạc nuốt chửng sạch sẽ.
 
-Quá trình này theo trạng thái thiên nhân hợp nhất của La Phàm mà không ngừng tiếp tục diễn ra.
+Quá trình này không ngừng tiếp diễn theo trạng thái thiên địa hợp nhất của La Phàm.
 
-Tốc độ hấp thu Hỗn Độn Nguyên Khí của cơ thể La Phàm ngày càng trở nên nhanh hơn, mãnh liệt hơn.
+Tốc độ hấp thu Hỗn Độn nguyên khí của cơ thể La Phàm trở nên càng lúc càng nhanh, càng lúc càng mãnh liệt.
 
-……
+...
 
-Chớp mắt đã là ngàn năm thời gian.
+Thoắt cái đã qua ngàn năm thời gian.
 
-Hỗn Độn Nguyên Khí vốn bao phủ xung quanh địa huyệt này đã hoàn toàn bị hút vào nội bộ cơ thể hắn, sau đó trải qua tuần hoàn vận chuyển nảy sinh biến hóa huyền diệu mà được nạp vào trong Nê Hoàn cung. Xung quanh địa huyệt này trở nên vô cùng thanh minh, những thảm thực vật vốn chỉ xuất hiện ở bên ngoài ba dặm nay đã mọc đầy xung quanh địa huyệt.
+Hỗn Độn nguyên khí tràn ngập quanh địa huyệt này đã hoàn toàn bị hút vào trong cơ thể hắn, sau khi vận chuyển tuần hoàn nảy sinh biến hóa huyền diệu thì được nạp vào trong Cung Nê Hoàn. Xung quanh địa huyệt trở nên quang đãng, thảm thực vật vốn chỉ xuất hiện ở ngoài ba dặm nay đã mọc đầy quanh địa huyệt.
 
-Địa huyệt không có thay đổi gì nhiều, vẫn đang không ngừng tỏa ra Hỗn Độn Nguyên Khí, chỉ là những Hỗn Độn Nguyên Khí này đã không còn bất kỳ cơ hội nào để tản mác ra bốn phương tám hướng nữa, mà là không sót một giọt nào tràn vào trong cơ thể La Phàm.
+Địa huyệt không có thay đổi gì nhiều, vẫn đang không ngừng tỏa ra Hỗn Độn nguyên khí, chỉ là những luồng Hỗn Độn nguyên khí này đã không còn cơ hội tỏa ra bốn phương tám hướng nữa, mà bị hút sạch sẽ vào trong cơ thể La Phàm.
 
 Trải qua ngàn năm thời gian, cơ thể La Phàm đã lớn hơn gấp đôi so với ngàn năm trước.
 
-La Phàm ngàn năm trước cơ thể chỉ dài ba mét, cao hai mét, lúc này đã dài sáu mét, cao bốn mét.
+Ngàn năm trước, cơ thể La Phàm chỉ dài ba mét, cao hai mét, lúc này đã dài sáu mét, cao bốn mét.
 
-Mà trong cơ thể hắn, đạo lộ trình tuần hoàn Hỗn Độn Nguyên Khí kia đã từ hàng trăm đạo ban đầu dần dần diễn biến thành một đạo, đạo lộ trình tuần hoàn này so với hàng trăm đạo lộ trình tuần hoàn trước đó đã huyền diệu hơn gấp ngàn lần, bao hàm tất cả ưu điểm của hàng trăm loại tuần hoàn kia, luồng Hỗn Độn Nguyên Khí được tôi luyện ra đã hoàn toàn biến thành một loại năng lượng khác hoàn toàn không giống, nhưng lại vô cùng huyền ảo, điên cuồng tràn vào trong Nê Hoàn cung.
+Mà trong cơ thể hắn, con đường vận chuyển tuần hoàn của Hỗn Độn nguyên khí đã từ hàng trăm con đường lúc đầu dần dần diễn biến thành một con đường. Con đường tuần hoàn này so với hàng trăm con đường lúc trước huyền diệu hơn gấp ngàn lần, chứa đựng tất cả ưu điểm của hàng trăm loại tuần hoàn kia. Luồng Hỗn Độn nguyên khí được tôi luyện ra đã hoàn toàn biến thành một loại năng lượng hoàn toàn khác nhưng cũng vô cùng huyền ảo, điên cuồng tràn vào trong Cung Nê Hoàn.
 
-La Phàm lúc này, những gì trong đôi mắt nhìn thấy vẫn là ngọn núi Bất Chu cao lớn đến mức không thể tưởng tượng kia, hắn vẫn đang ở trong trạng thái hòa làm một với đại địa, hòa làm một với bầu trời, vẫn giống như hóa thân thành núi Bất Chu vậy.
+Lúc này La Phàm, những gì thấy được trong đôi mắt vẫn là ngọn núi Bất Chu cao lớn đến mức không thể tưởng tượng nổi. Hắn vẫn ở trong trạng thái dung hợp làm một với đại địa, với bầu trời, vẫn như thể hóa thân thành núi Bất Chu.
 
-Ngàn năm thời gian trong cảm nhận của hắn cũng chỉ giống như một cái chớp mắt mà thôi.
+Ngàn năm thời gian trong cảm giác của hắn lại chỉ như một cái chớp mắt mà thôi.
 
-Cái địa huyệt này không lớn, lượng Hỗn Độn Nguyên Khí chứa đựng trong đó cũng không nhiều. Lượng Hỗn Độn Nguyên Khí mà La Phàm hấp thu khi quan sát núi Bất Chu lĩnh ngộ công pháp đã nhanh hơn lượng tự thân nó tỏa ra ít nhất hàng ngàn lần.
+Cái địa huyệt này không lớn, lượng Hỗn Độn nguyên khí chứa đựng cũng không nhiều. Tốc độ La Phàm hấp thu Hỗn Độn nguyên khí khi quan sát núi Bất Chu lĩnh ngộ công pháp nhanh hơn ít nhất ngàn lần so với tốc độ tự tỏa ra của nó.
 
-Sự hấp thu suốt ngàn năm thời gian khiến cái địa huyệt này sớm đã không thể chịu đựng nổi nữa.
+Sự hấp thu suốt ngàn năm thời gian khiến cái địa huyệt này đã sớm không còn chịu đựng nổi.
 
-Cuối cùng, vào ngày hôm đó, mặt đất xung quanh địa huyệt xảy ra sự chấn động dữ dội, một luồng Hỗn Độn Nguyên Khí lớn vốn đã vì quá đậm đặc mà biến thành màu đen đột nhiên phun trào từ trong địa huyệt, lao thẳng về phía La Phàm!
+Cuối cùng vào ngày này, mặt đất quanh địa huyệt nảy sinh chấn động kịch liệt, một luồng Hỗn Độn nguyên khí lớn vì quá nồng đậm mà biến thành màu đen bỗng nhiên từ trong địa huyệt xông ra, bắn thẳng về phía La Phàm!
 
-“Ầm!” Một tiếng nổ lớn giống như sấm sét vang lên, luồng Hỗn Độn Nguyên Khí đó không gặp bất kỳ trở ngại nào lao thẳng vào bụng La Phàm!
+"Ầm!" Một tiếng nổ lớn như sấm sét vang lên, luồng Hỗn Độn nguyên khí đó không gặp bất kỳ trở ngại nào oanh kích trúng bụng La Phàm!
 
-La Phàm đang trong cảm giác hòa làm một với bầu trời và đại địa kia đột nhiên cảm thấy toàn thân một trận kịch liệt đau đớn không thể diễn tả bằng lời truyền vào não bộ, tâm thần trong nháy mắt thoát ly khỏi trạng thái thiên nhân hợp nhất đó!
+Đang trong cảm giác dung hợp làm một với bầu trời và đại địa, La Phàm bỗng nhiên cảm thấy toàn thân truyền tới một trận đau đớn không thể diễn tả bằng lời vào trong não bộ, tâm thần tức khắc thoát khỏi trạng thái thiên địa hợp nhất kia!

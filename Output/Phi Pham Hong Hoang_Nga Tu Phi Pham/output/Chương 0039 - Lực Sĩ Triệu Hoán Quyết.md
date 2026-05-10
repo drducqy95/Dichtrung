@@ -1,97 +1,97 @@
-# Chương 0039 - Lực Sĩ Triệu Hoán Quyết
+# Chương 39: Lực Sĩ Triệu Hoán Quyết
 
-Tiên Thiên Thần Kỳ tuy là do trời đất sinh ra nhưng cũng là sinh linh. Đã là sinh linh thì tự nhiên sẽ có phương pháp sinh sôi của riêng mình. Cái quả này chính là phương pháp sinh sôi của cái cây quái dị đó, cũng chính là phương thức sinh con đẻ cái của cái cây quái dị đó.
+Tiên Thiên Thần Kỳ tuy là do thiên địa sinh ra, nhưng cũng là sinh linh. Đã là sinh linh, tự nhiên sẽ có phương pháp sinh sôi nảy nở của riêng mình. Quả thực này chính là phương pháp sinh sôi của cái cây kỳ dị kia, cũng chính là phương thức sinh con đẻ cái của nó.
 
-Ba mươi sáu tầng cấm chế phức tạp huyền ảo sở hữu đủ loại uy năng, có thể đem Hỗn Độn Nguyên Khí trôi nổi giữa trời đất thông qua sự chuyển đổi của tầng tầng lớp lớp cấm chế này, cuối cùng biến hóa thành sự tồn tại thần bí, sinh ra một luồng linh thức ở ngay cốt lõi của cái quả này!
+Ba mươi sáu tầng cấm chế rườm rà huyền ảo sở hữu đủ loại uy năng, có thể đem hỗn độn nguyên khí trôi nổi trong thiên địa thông qua sự chuyển hóa của tầng tầng cấm chế này, cuối cùng biến hóa thành tồn tại huyền bí, sinh ra một luồng linh thức ở ngay vị trí hạt nhân của quả thực!
 
-Luồng linh thức sinh ra này chính là hậu đại của cái cây quái dị đó, kế thừa tất cả của cái cây quái dị.
+Luồng linh thức sinh ra này chính là hậu đại của cái cây kỳ dị kia, kế thừa tất cả mọi thứ của nó.
 
-Chỉ tiếc là vì bản thân cái cây quái dị đó đã sở hữu nhu cầu vô cùng mãnh liệt đối với Hỗn Độn Nguyên Khí, cho nên ba mươi sáu tầng cấm chế này tuy đã thành hình, thậm chí tất cả công năng đều hoàn chỉnh vô cùng, nhưng lại không có đủ Hỗn Độn Nguyên Khí để cho nó hấp thu! Toàn bộ cái quả này ngoại trừ cấm chế này ra cư nhiên không có bất kỳ một linh thức nhỏ bé nào được sinh ra ở chính giữa nó, quả thực là một cái vỏ không!
+Chỉ tiếc là, vì bản thân cái cây kỳ dị kia vốn đã có nhu cầu vô cùng mãnh liệt đối với hỗn độn nguyên khí, cho nên ba mươi sáu tầng cấm chế này tuy đã thành hình, thậm chí mọi chức năng đều hoàn chỉnh vô cùng, nhưng lại không có đủ hỗn độn nguyên khí để cho nó hấp thụ! Toàn bộ quả thực này, ngoại trừ cấm chế ra, căn bản không có bất kỳ linh thức nhỏ bé nào được sinh ra ở trung tâm, quả thực là một cái vỏ không!
 
-Trong Hư Không Vô Cực Cung tràn ngập một loại nguyên khí quái dị nằm giữa Hỗn Độn Nguyên Khí và Tiên Thiên Nguyên Khí. Loại nguyên khí quái dị này sau khi qua trận thế của Hư Không Vô Cực Cung tụ tập lại, đã ở trên đài cao này ngưng tụ thành Hỗn Độn Nguyên Khí. Hàm lượng Hỗn Độn Nguyên Khí tụ tập lại này tuy vô cùng thưa thớt nhưng dù sao cũng là Hỗn Độn Nguyên Khí, cũng có thể được cái quả này hấp thu lợi dụng.
+Trong Hư Không Vô Cực Cung tràn ngập một loại nguyên khí quái dị nằm giữa hỗn độn nguyên khí và tiên thiên nguyên khí. Loại nguyên khí quái dị này sau khi trải qua sự tích tụ của trận thế trong Hư Không Vô Cực Cung, đã ngưng tụ thành hỗn độn nguyên khí trên nền đài này. Hàm lượng hỗn độn nguyên khí tích tụ lại này tuy vô cùng loãng, nhưng dù sao cũng là hỗn độn nguyên khí, cũng có thể được quả thực này hấp thụ và lợi dụng.
 
-Ngay khoảnh khắc cái quả này tới đây liền bắt đầu điên cuồng hấp thu tất cả Hỗn Độn Nguyên Khí xung quanh, dốc sức muốn hấp thu những Hỗn Độn Nguyên Khí này vào chính giữa cái quả để chuyển hóa chúng thành một luồng linh thức.
+Ngay khoảnh khắc quả thực tới đây, nó liền bắt đầu điên cuồng hấp thụ tất cả hỗn độn nguyên khí xung quanh, dốc hết sức muốn hút những hỗn độn nguyên khí này vào giữa quả thực, chuyển hóa nó thành một luồng linh thức.
 
-La Phàm nhìn thấy những biến hóa của cái quả, trong lòng thầm than.
+La Phàm nhìn thấy sự biến hóa của quả thực, trong lòng thầm than.
 
-Cái quả này không thể trưởng thành quả thực là đáng tiếc...
+Quả này không thể trưởng thành, quả thực là đáng tiếc rồi...
 
-Tuy rằng hiện giờ đã có Hỗn Độn Nguyên Khí nhưng lại không còn sự dẫn dắt của cái cây quái dị kia nữa. Cho nên cho dù nó hấp thu Hỗn Độn Nguyên Khí mà nảy sinh luồng linh thức này, thì cũng chỉ là một loại linh thức tương đương với bảo linh linh tinh sở hữu trí tuệ, sở hữu cảm tri, sở hữu tư duy nhưng lại không có ý thức tự do... Căn bản không thể xưng tụng là sinh linh hoàn chỉnh.
+Tuy rằng hiện tại đã có hỗn độn nguyên khí, nhưng lại không có sự dẫn dắt của cái cây kỳ dị kia. Cho nên, dù cho nó có hấp thụ hỗn độn nguyên khí mà sản sinh ra luồng linh thức này, thì cũng chỉ là một loại linh thức tương đương như bảo linh, sở hữu trí tuệ, sở hữu cảm giác, sở hữu tư duy nhưng không có ý thức tự ngã... căn bản không thể gọi là sinh linh hoàn chỉnh.
 
-Trời đất Hồng Hoang, sinh linh nói nhiều cũng nhiều, nói ít cũng ít. Nói nhiều là ở trên tổng thể, giữa trời đất có vô số Tiên Thiên Thần Kỳ, vô số cỏ cây thực vật kia. Nói ít chính là trời đất Hồng Hoang này thực sự quá rộng lớn, bấy nhiêu Tiên Thiên Thần Kỳ, cỏ cây thực vật phân bố trong cả trời đất Hồng Hoang thì liền có vẻ vô cùng thưa thớt rồi.
+Hồng Hoang thiên địa, sinh linh nói nhiều cũng nhiều, nói ít cũng ít. Nói nhiều là ở góc độ tổng thể, thiên địa có vô số Tiên Thiên Thần Kỳ, vô số cỏ cây thực vật. Nói ít lại là vì Hồng Hoang thiên địa này thực sự quá rộng lớn, bấy nhiêu Tiên Thiên Thần Kỳ, cỏ cây thực vật phân bố trong toàn bộ Hồng Hoang thiên địa, liền có vẻ vô cùng thưa thớt.
 
-La Phàm tới nơi này đã mấy vạn năm, những sinh linh sở hữu linh thức hoàn chỉnh mà y gặp được cũng chỉ có Hồng Quân và cái cây quái dị đó là hai người (sinh mệnh ở trên tầng Cương Phong Lôi Hỏa là một dạng sinh mệnh khác, không nằm trong phạm vi thảo luận, tình hình cụ thể xin mời đợi ở phần sau), hiện giờ nhìn cái sinh linh vốn dĩ có khả năng nảy sinh một luồng linh thức hoàn chỉnh này vì thiếu điều kiện mà không thể nảy sinh, trong lòng y không khỏi cảm thấy có chút nuối tiếc.
+La Phàm tới nơi này mấy vạn năm dài, sinh linh có linh thức hoàn chỉnh mà hắn nhìn thấy được, cũng chỉ có Hồng Quân và cái cây kỳ dị kia là hai người (sinh mệnh trên tầng cương phong lôi hỏa là một loại hình thức sinh mệnh khác, không nằm trong phạm vi thảo luận, tình hình cụ thể xin hãy đón đợi phần sau), lúc này, nhìn thấy sinh linh vốn có khả năng sản sinh ra một luồng linh thức hoàn chỉnh này vì thiếu thốn điều kiện mà không thể sản sinh, trong lòng hắn không khỏi cảm thấy có chút tiếc nuối.
 
-Chỉ là tuy nuối tiếc, tuy đáng tiếc nhưng y cũng không có ý định bù đắp — để y thay thế cái cây quái dị đó "ấp" cái quả này thì luồng linh thức nảy sinh đó sẽ tương đương với con cái của y, y vẫn chưa hưởng thụ đủ, điều này trái lại tuyệt đối không bằng lòng.
+Có điều, tuy rằng tiếc nuối, tuy rằng đáng tiếc, hắn cũng không có ý định đi bù đắp —— để hắn thay thế cái cây kỳ dị kia "ấp" quả thực này, vậy luồng linh thức sản sinh ra đó liền tương đương như con cái của hắn, hắn còn chưa hưởng thụ đủ, điều này tuyệt đối không bằng lòng.
 
-Nhấc tay khẽ vẫy một cái, một luồng sức mạnh vô hình từ bên trong cái quả này ầm vang bùng nổ.
+Hắn giơ tay nhẹ nhàng vung một cái, một luồng sức mạnh vô hình từ bên trong quả thực này bùng nổ.
 
-Toàn bộ cái quả dưới tác dụng của luồng sức mạnh bùng nổ khủng bố này ầm vang tan rã, đủ mở rộng ra gấp trăm lần.
+Toàn bộ quả thực dưới tác dụng của luồng sức mạnh bùng nổ khủng khiếp này đã ầm ầm tan rã, giãn nở ra gấp trăm lần.
 
-Hóa thành một trận thế hình cầu dẹt được bao bọc bởi ba mươi sáu tầng phù trán dày đặc, rộng tới ba trăm trượng, kim quang lấp lánh, giống như một mặt trời vàng khổng lồ lơ lửng trên đỉnh đầu y.
+Nó hóa thành một trận thế hình cầu dẹt được bao bọc bởi ba mươi sáu tầng phù lục dày đặc, rộng chừng ba trăm trượng, kim quang lấp lánh, giống như một mặt trời vàng rực khổng lồ đang huyền phù trên đỉnh đầu hắn.
 
-Từng đạo phù trán phức tạp chí cực lướt qua trong mắt La Phàm, không ngừng đan xen chồng chất, cuối cùng hình thành nên từng tầng từng tầng cấm chế.
+Từng đạo phù lục rườm rà cực điểm lướt qua trong mắt La Phàm, liên tục đan xen chồng chất, cuối cùng hình thành nên từng tầng từng tầng cấm chế.
 
-Tầng cấm chế ngoài cùng được cấu thành từ mười hai vạn chín ngàn sáu trăm đạo phù trán, tầng ngay sát bên trong thể tích thu nhỏ lại một vòng nhưng số phù trán cấu thành lại tăng lên gấp đôi, đạt tới con số hai mươi lăm vạn chín ngàn hai trăm đạo, bằng gấp đôi tầng cấm chế ngoài cùng kia, tiếp tục vào bên trong tầng thứ ba, số lượng phù trán một lần nữa tăng thêm mười hai vạn chín ngàn sáu trăm đạo, đạt tới ba mươi tám vạn tám ngàn bốn trăm đạo phù trán...
+Tầng cấm chế ngoài cùng được cấu thành từ mười hai vạn chín ngàn sáu trăm đạo phù lục, tầng kế tiếp thể tích thu nhỏ lại một vòng, nhưng số lượng phù lục cấu thành lại tăng lên gấp đôi, đạt tới hai mươi lăm vạn chín ngàn hai trăm đạo, gấp đôi tầng cấm chế ngoài cùng, vào sâu thêm tầng thứ ba, số lượng phù lục lại tăng thêm mười hai vạn chín ngàn sáu trăm đạo nữa, đạt tới ba mươi tám vạn tám ngàn bốn trăm đạo phù lục...
 
-Cứ như vậy, mỗi khi vào sâu một tầng thì số phù trán cấu thành cấm chế đó lại tăng thêm mười hai vạn chín ngàn sáu trăm đạo. Đợi tới chính giữa trung tâm, tầng cấm chế đã thu nhỏ lại chỉ còn đường kính ba thước, số lượng phù trán cấu thành cư nhiên đạt tới con số khủng bố là bốn trăm sáu mươi sáu vạn năm ngàn sáu trăm đạo!
+Cứ như vậy, mỗi khi vào sâu thêm một tầng, số lượng phù lục cấu thành cấm chế lại tăng thêm mười hai vạn chín ngàn sáu trăm đạo. Đợi tới trung tâm nhất, tầng cấm chế đã thu nhỏ lại chỉ còn đường kính ba thước, số lượng phù lục cấu thành cư nhiên đạt tới con số khủng khiếp là bốn triệu sáu trăm sáu mươi lăm ngàn sáu trăm đạo!
 
-Mà ở ngay chính giữa phù trán này cư nhiên có một đoàn linh quang nhỏ bé huyền chi hựu huyền đang rung động như nhịp tim vậy.
+Mà ở ngay giữa những đạo phù lục này, lại có một luồng linh quang nhỏ bé, huyền chi hựu huyền đang rung động giống như nhịp tim vậy.
 
-Từng sợi Hỗn Độn Nguyên Khí không ngừng xuyên qua tầng tầng lớp lớp cấm chế, nảy sinh đủ loại biến hóa thần bí được đổ vào trong đó, khiến đoàn linh quang đó không ngừng nảy sinh sự tăng trưởng vi diệu không thể nhận ra.
+Từng sợi từng sợi hỗn độn nguyên khí liên tục xuyên qua tầng tầng cấm chế, phát sinh đủ loại biến hóa thần bí rồi được rót vào trong đó, khiến luồng linh quang đó liên tục tăng trưởng một cách tinh vi không thể nhận ra.
 
-Đây rõ ràng chính là tiền thân linh thức của cái quả đó...
+Đây rõ ràng chính là tiền thân linh thức của quả thực kia...
 
-La Phàm nhìn tầng tầng lớp lớp cấm chế này, trong lòng không khỏi khẽ động, ba mươi sáu tầng cấm chế đó liền từng tầng từng tầng một in vào trong tâm thần ý niệm của y, trong đó không ngừng được phân giải, tái tổ hợp.
+La Phàm nhìn tầng tầng cấm chế này, trong lòng không khỏi khẽ động, ba mươi sáu tầng cấm chế đó liền từng tầng từng tầng in vào trong tâm thần ý niệm của hắn, ở trong đó liên tục phân giải, tái tổ hợp.
 
-Sau khi đem tất cả phù trán in vào trong tâm thần ý niệm, La Phàm từ từ nhắm đôi mắt lại, toàn bộ sự chú ý đều dồn vào vô số đạo phù trán đó.
+Sau khi in tất cả phù lục vào trong tâm thần ý niệm, La Phàm chậm rãi nhắm hai mắt lại, tất cả sự chú ý đều dồn vào vô số đạo phù lục đó.
 
-Thành quả tu luyện hơn ba nghìn năm qua của y mãnh liệt lướt qua tâm trí, đan xen cùng với những phù trán này, dần dần nảy sinh một loại thăng hoa huyền diệu nào đó.
+Thành quả tu luyện trong hơn ba ngàn năm qua của hắn đột nhiên lướt qua trong tâm khảm, đan xen cùng những phù lục này, dần dần sản sinh ra một loại thăng hoa huyền diệu nào đó.
 
-Tất cả phù trán nhanh chóng tan rã tái tổ hợp lại, dần dần vô số văn tự phức tạp ròng rã mấy vạn chữ cùng với hàng nghìn bức hình vẽ xuất hiện trong tâm thần ý niệm của y, cư nhiên chính là vô số phù trán này cuối cùng đã hóa thành một bộ pháp quyết vô cùng huyền ảo, vô cùng tinh diệu!
+Tất cả phù lục nhanh chóng tan rã rồi tái tổ hợp lại, dần dần, hàng vạn văn tự rườm rà cùng hàng ngàn bức đồ án xuất hiện trong tâm thần ý niệm của hắn, đó chính là vô số đạo phù lục này cuối cùng đã hóa thành một bộ pháp quyết vô cùng huyền ảo, vô cùng tinh diệu!
 
-"Bộ pháp quyết này liền gọi là «Lực Sĩ Triệu Hoán Quyết» đi." La Phàm mở bừng đôi mắt, trong mắt có vô số văn tự hình ảnh lướt qua, miệng dùng giọng điệu vô cùng bình thản nói.
+"Bộ pháp quyết này, liền gọi là Lực Sĩ Triệu Hoán Quyết đi." La Phàm mở hai mắt ra, trong mắt có vô số văn tự đồ án lướt qua, miệng dùng giọng điệu vô cùng bình tĩnh nói.
 
-Theo lời y vừa nói ra, khối cầu phù trán vàng kim vốn đang ở trên đỉnh đầu y như mặt trời kia nhanh chóng xoay tròn, phát ra những tiếng xào xạc giòn giã từ bên trong, khối cầu dẹt vàng kim đó nhanh chóng co lại, trong chớp mắt đã co lại thành hình dáng cái quả to bằng ba trượng như ban đầu.
+Cùng với câu nói này của hắn, khối cầu phù lục màu vàng vốn ở trên đỉnh đầu hắn giống như mặt trời bắt đầu xoay tròn nhanh chóng, những tiếng sột soạt giòn giã phát ra từ bên trong, khối cầu dẹt màu vàng đó nhanh chóng co lại, trong chớp mắt đã co lại thành hình dạng quả thực to chừng ba trượng như ban đầu.
 
 Ầm...
 
-Một tiếng vang trầm đục, cái quả này ầm vang rơi xuống, rơi thẳng vào trong ao lôi, dần dần chìm xuống đáy ao.
+Một tiếng động trầm đục, quả thực này ầm ầm rơi xuống, rơi thẳng vào trong Lôi Trì, dần dần chìm xuống đáy hồ.
 
-Động tác cực lớn khuấy động ao lôi, khiến ao lôi dâng lên từng tầng sóng gió, hồi lâu mới bình lặng trở lại.
+Động tĩnh cực lớn làm xao động Lôi Trì, khiến mặt hồ nổi lên từng lớp sóng lan tỏa, hồi lâu sau mới bình lặng trở lại.
 
-"Ta trái lại không muốn sinh con, hiện giờ chỉ có thể trấn áp ngươi dưới đáy ao, hy vọng trước khi mẹ ngươi tới ngươi chưa chuyển hóa thành bảo linh vậy." La Phàm thở dài một tiếng, thong thả nói.
+"Ta không muốn sinh con, lúc này chỉ có thể trấn áp ngươi dưới đáy hồ, hy vọng trước khi mẹ ngươi tới, ngươi chưa bị chuyển hóa thành bảo linh." La Phàm thở dài một tiếng, thản nhiên nói.
 
-Sau khi «Lực Sĩ Triệu Hoán Quyết» thành hình, sự thấu hiểu của y đối với cái quả này lại sâu thêm một tầng. Điều này khiến y nghĩ thông suốt rồi, cái cây quái dị kia tương đương với mẹ của cái quả này, nếu bản thân dùng ý niệm dẫn dắt trợ giúp khiến linh thức của cái quả này trở nên hoàn chỉnh thì bản thân mình cũng sẽ thành cha của nó.
+Sau khi Lực Sĩ Triệu Hoán Quyết thành hình, sự hiểu biết của hắn đối với quả thực này lại sâu thêm một tầng. Điều này khiến hắn nghĩ thông suốt, cái cây kỳ dị kia tương đương với mẹ của quả thực này, nếu bản thân dùng ý niệm dẫn dắt giúp đỡ, khiến linh thức của quả thực này trở nên hoàn chỉnh, vậy bản thân mình cũng đã trở thành cha nó rồi.
 
-Hiểu rõ điều này, y suýt nữa toàn thân toát mồ hôi hột, cảm thấy vô cùng may mắn cho quyết định trước đó của mình...
+Hiểu ra điều này, hắn suýt chút nữa toát mồ hôi hột, cảm thấy vô cùng may mắn đối với quyết định trước đó của mình...
 
-«Lực Sĩ Triệu Hoán Quyết» có thể nói là một loại pháp quyết triệu hoán, cũng có thể nói là một loại pháp quyết luyện khí. Điểm kỳ diệu của nó chính là ở chỗ có thể luyện chế ra Hoàng Cân Lực Sĩ trong truyền thuyết để sai khiến.
+Lực Sĩ Triệu Hoán Quyết có thể nói là một loại pháp quyết triệu hoán, cũng có thể nói là một loại pháp quyết luyện khí. Điểm kỳ diệu của nó chính là nằm ở chỗ có thể luyện chế ra Hoàng Cân Lực Sĩ trong truyền thuyết để sai khiến.
 
-Tâm thần ý niệm thầm niệm tâm pháp khẩu quyết của Lực Sĩ Triệu Hoán Quyết, La Phàm nhấc tay phải chộp một cái, ngọn núi cao trăm trượng ở đằng xa giống như bị luồng sức mạnh vô hình thu nạp vậy, chấn khai lớp đất đá núi rừng kết nối với thân núi ở phía dưới, từ từ bay lên.
+Tâm thần ý niệm nhẩm niệm tâm pháp khẩu quyết của Lực Sĩ Triệu Hoán Quyết, La Phàm nhấc tay phải lên chộp một cái, một ngọn núi cao trăm trượng ở đằng xa giống như bị một luồng sức mạnh vô hình thu nạp, chấn khai lớp đất đá nối liền thân núi phía dưới, chậm rãi bay lên.
 
-Trong tiểu thiên thế giới này, La Phàm gần như không gì không thể. Việc thu nạp một ngọn núi cao như vậy y làm cư nhiên là trôi chảy vô cùng, thoải mái chí cực, thậm chí chấn khai đất đá cũng không gây ra bao nhiêu sự phá hoại đối với địa hình xung quanh, càng không tiêu hao một chút sức lực nào của y.
+Trong tiểu thiên thế giới này, La Phàm gần như vô sở bất năng. Việc thu nạp một ngọn núi cao như vậy hắn làm một cách vô cùng mượt mà, nhẹ nhàng tới cực điểm, thậm chí việc chấn khai đất đá cũng không gây ra phá hoại gì lớn cho địa hình xung quanh, càng không tiêu tốn chút sức lực nào của hắn.
 
-Tay phải thu lại, ngọn núi cao trăm trượng đó nhanh chóng lao tới, trong chớp mắt đã tới phía trên xéo y.
+Tay phải thu lại, ngọn núi cao trăm trượng kia nhanh chóng lao lên, trong chớp mắt đã tới phía trên chéo của hắn.
 
-La Phàm tâm thần khẽ động, Địa Tiên Đạo Quả khẽ chấn động một cái, một điểm đơn nguyên pháp lực từ đó thoát ra, lao ra khỏi đan điền, vận chuyển nhanh chóng theo lộ tuyến hành công của «Lực Sĩ Triệu Hoán Quyết».
+La Phàm tâm thần khẽ động, Địa Tiên đạo quả hơi rung lên, một điểm pháp lực đơn nguyên từ đó thoát ra, lao ra khỏi đan điền, vận chuyển nhanh chóng theo đường lối hành công của Lực Sĩ Triệu Hoán Quyết.
 
-Sau chín chu kỳ, điểm đơn nguyên pháp lực nhỏ bé không đáng kể đó hóa thành một luồng quang khí màu vàng.
+Sau chín vòng tuần hoàn, điểm pháp lực nhỏ nhoi không đáng kể kia đã hóa thành một luồng khí quang màu vàng.
 
-Luồng quang khí này tụ tập trong lòng bàn tay phải của y, không ngừng cổ đãng, khiến lòng bàn tay y giống như chôn giấu một trái tim vậy, không ngừng nhảy động lên.
+Luồng khí quang này tụ lại trong lòng bàn tay phải của hắn, liên tục cổ động, khiến lòng bàn tay hắn giống như đang chôn giấu một trái tim vậy, liên tục đập lên.
 
-Không hề có chút trì hoãn nào, La Phàm nhấc tay hướng về ngọn núi cao trăm trượng kia vỗ nhẹ một cái, luồng quang khí màu vàng này liền từ trong lòng bàn tay y lao ra, nháy mắt vượt qua không gian, hoàn toàn lặn vào trong ngọn núi cao trăm trượng đó.
+Không hề do dự chút nào, La Phàm giơ tay vỗ khống về phía ngọn núi cao trăm trượng kia, luồng khí quang màu vàng này từ trong lòng bàn tay hắn lao ra, trong nháy mắt vượt qua không gian, hoàn toàn nhập vào trong ngọn núi cao trăm trượng đó.
 
-Theo luồng quang khí màu vàng lặn vào trong đó, ngọn núi cao trăm trượng này kịch liệt chấn động lên, vô số vật chất trong ngọn núi bị tôi luyện loại bỏ, thể tích của nó không ngừng thu nhỏ lại.
+Cùng với việc khí quang màu vàng nhập vào, ngọn núi cao trăm trượng này rung chuyển dữ dội, vô số vật chất trong núi bị tôi luyện loại bỏ, thể tích của nó liên tục thu nhỏ lại.
 
-Toàn bộ thân núi tỏa ra ánh sáng vàng mờ ảo.
+Toàn bộ thân núi tỏa ra ánh vàng mờ mịt.
 
-Những ánh sáng vàng này ở bên ngoài thân núi ngưng thành vô số đạo phù trán huyền ảo phức tạp, bơi lội, biến ảo, dần dần hình thành nên một lớp phù trán có chút quen thuộc lại có chút lạ lẫm — tương tự như tầng cấm chế ngoài cùng của cái quả kia nhưng lại có tầng cấm chế khác biệt về căn bản!
+Những ánh vàng này ngưng tụ thành vô số đạo phù lục huyền ảo phức tạp ở bên ngoài thân núi, lướt đi, biến ảo, dần dần hình thành nên một lớp phù lục có chút quen thuộc mà cũng có chút lạ lẫm —— tương tự như tầng cấm chế ngoài cùng của quả thực kia, nhưng lại có tầng cấm chế khác biệt về bản chất!
 
-Sau khi tầng cấm chế này thành hình liền nhanh chóng thu nhỏ lại, trong khi thu nhỏ lại càng tạo ra sức mạnh vô cùng thần bí khiến thân núi đó cũng theo đó mà thu nhỏ, biến hình.
+Tầng cấm chế này sau khi thành hình liền nhanh chóng thu nhỏ lại, trong khi thu nhỏ lại càng sản sinh ra sức mạnh vô cùng thần bí, khiến thân núi cũng thu nhỏ theo, biến dạng theo.
 
-Trong chớp mắt, thân núi cao trăm trượng đó đã nén lại thành mười tên đại hán da vàng cao một trượng!
+Trong chớp mắt, thân núi cao trăm trượng đó đã nén lại thành mười đại hán da vàng cao chừng một trượng!
 
-Tầng cấm chế đó càng được chia thành mười phần, lao thẳng vào trong cơ thể mười tên đại hán đó, nháy mắt biến mất không dấu vết.
+Tầng cấm chế đó lại được chia thành mười phần, đâm thẳng vào trong cơ thể mười đại hán đó, trong nháy mắt biến mất không còn tăm hơi.
 
-"Hoàng Cân Lực Sĩ Giáp (Ất) (Bính) (Đinh) (Mậu) (Kỷ) (Canh) (Tân) (Nhâm) (Quý) khấu kiến chủ nhân!" Mười tên đại hán sau khi thành hình liền quỳ sụp xuống trên đài cao, lớn tiếng gầm lên.
+"Hoàng Cân Lực Sĩ Giáp (Ất) (Bính) (Đinh) (Mậu) (Kỷ) (Canh) (Tân) (Nhâm) (Quý) khấu kiến chủ nhân!" Mười đại hán sau khi thành hình, quỳ sụp xuống trên nền đài, gào lên thật lớn.

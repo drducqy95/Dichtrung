@@ -1,131 +1,131 @@
-# Chương 0047 - Canh Kim Lôi Hỏa Kiếp (2)
+# Chương 47: Canh Kim Lôi Hỏa Kiếp (2)
 
-Cái vòng xoáy vô hình đó sau khi xuất hiện liền cực tốc mở rộng, và trở nên ngày càng rõ rệt, ngày càng đáng sợ.
+Vòng xoáy vô hình kia sau khi xuất hiện liền cực tốc mở rộng, và trở nên ngày càng rõ rệt, ngày càng đáng sợ.
 
-Một luồng cảm giác vô cùng nguy hiểm xuất hiện trong lòng Hồng Quân, khiến thân xác hắn hầu như không nhịn được mà run rẩy lên.
+Một luồng cảm giác vô cùng nguy hiểm xuất hiện trong lòng Hồng Quân, khiến cơ thể hắn hầu như không nhịn được mà run rẩy.
 
-Ngay cả La Phàm vẫn chưa rời đi cũng cảm thấy một luồng cảm giác gió mưa sắp ập tới bao phủ lấy y, cảnh báo y, dường như y không rời đi thì liền phải chịu sự tấn công liên miên bất tuyệt vậy.
+Ngay cả La Phàm vẫn chưa rời đi cũng cảm thấy một luồng cảm giác "sơn vũ dục lai" (mưa gió sắp tới) bao trùm lấy mình, cảnh cáo hắn rằng, dường như nếu hắn không rời đi, sẽ phải chịu đựng sự tấn công vô biên vô tận vậy.
 
-Tuy đối với loại tấn công liên miên bất tuyệt này không hề để tâm, nhưng đây dù sao cũng là kiếp số của Hồng Quân, La Phàm trái lại không muốn tranh quyền làm chủ. Y tâm thần khẽ động, Hư Không Vô Cực Cung hóa thành một đạo ánh sáng màu vàng tím, cuộn một cái đã cuốn lấy thân hình y, lại lóe lên một cái đã mang y thoát khỏi phạm vi bao phủ của Thiên Kiếp.
+Mặc dù không để tâm tới sự tấn công vô biên vô tận này, nhưng đây dù sao cũng là kiếp số của Hồng Quân, La Phàm trái lại không muốn "phản khách vi chủ". Hắn tâm thần khẽ động, Hư Không Vô Cực Cung hóa thành một đạo ánh sáng màu tím vàng, cuốn một cái, bao lấy cơ thể hắn, rồi lóe lên một cái đã mang theo hắn thoát khỏi phạm vi bao phủ của thiên kiếp.
 
-Đứng giữa hư không, La Phàm trong lòng trái lại rất có hứng thú.
+Lơ lửng giữa hư không, trong lòng La Phàm lại tràn đầy hứng thú.
 
-Đây dù sao cũng là lần đầu tiên y quan sát người khác vượt kiếp, dù cho La Phàm đã nhìn thấu bộ mặt thật của Thiên Kiếp này, thậm chí đã đo lường ra được toàn bộ quá trình của Thiên Kiếp này, nhưng cũng không thể ức chế được sự hiếu kỳ trong lòng.
+Đây dù sao cũng là lần đầu tiên hắn quan sát người khác vượt kiếp, cho dù La Phàm đã nhìn thấu bộ mặt thật của thiên kiếp này, thậm chí đã tính toán ra được toàn bộ quá trình của nó, nhưng cũng không thể ức chế được sự tò mò trong lòng.
 
-La Phàm thoát ly, toàn bộ uy lực của Thiên Kiếp này thảy đều dồn lên người Hồng Quân. Luồng cảm giác đại họa lâm đầu, gió mưa sắp ập tới đáng sợ đó càng thêm mạnh mẽ, càng thêm rõ rệt.
+La Phàm rút lui, toàn bộ uy lực của thiên kiếp này đều đổ dồn lên người Hồng Quân. Luồng cảm giác đáng sợ đại họa lâm đầu, mưa gió sắp tới đó càng thêm mãnh liệt, càng thêm rõ rệt.
 
-Cái vòng xoáy đó trong chớp mắt cư nhiên đã mở rộng ra tới phạm vi trăm mẫu.
+Vòng xoáy kia trong nháy mắt đã mở rộng tới phạm vi trăm mẫu.
 
-Hầu như đã bao phủ đại bộ phận ngọn núi vào bên trong.
+Hầu như bao trùm lấy phần lớn ngọn núi.
 
-Ánh mặt trời từ trên bầu trời chiếu xuống bị cái vòng xoáy này vặn vẹo, khiến đại bộ phận thân núi có vẻ hơi hư ảo.
+Ánh mặt trời chiếu rọi từ trên trời xuống bị vòng xoáy này vặn vẹo, khiến cho phần lớn sườn núi hiện ra có chút hư ảo.
 
-Mãnh liệt, ở chính giữa trung tâm của vòng xoáy bỗng nhiên nảy sinh một điểm kim mang, điểm kim mang này sau khi xuất hiện đã mở rộng với tốc độ vô cùng nhanh chóng. Trong chớp mắt đã lấp đầy toàn bộ vòng xoáy, khiến cái vòng xoáy vốn hư ảo vô hình này hóa thành thực thể, biến thành một mảnh màu vàng!
+Đột nhiên, ngay giữa tâm của vòng xoáy nảy sinh một điểm kim mang, điểm kim mang này xuất hiện sau đó liền mở rộng với tốc độ vô cùng nhanh chóng. Trong phút chớp đã lấp đầy toàn bộ vòng xoáy, khiến vòng xoáy vốn dĩ hư ảo vô hình này hóa thành thực thể, biến thành một mảnh màu vàng kim!
 
-Luồng kim mang này vô cùng kịch liệt, vô cùng bạo ngược, điên cuồng dao động, vặn vẹo, lưu chuyển trong toàn bộ vòng xoáy.
+Luồng kim mang này vô cùng kịch liệt, vô cùng bạo ngược, điên cuồng dao động, vặn vẹo, lưu chuyển bên trong toàn bộ vòng xoáy.
 
-La Phàm ở bên cạnh nhìn một cái liền biết cái vòng xoáy này đã vặn vẹo không gian, hình thành nên một cái đứt gãy không gian vô cùng quái dị, kết nối hướng tới tầng Cương Phong Lôi Hỏa ở trên bầu trời.
+La Phàm đứng bên cạnh quan sát liền biết vòng xoáy này đã làm không gian vặn vẹo, hình thành một đoạn tầng không gian vô cùng quái dị, kết nối thẳng tới lớp Cương Phong Lôi Hỏa phía trên bầu trời.
 
-Mà luồng kim mang đó chính là Canh Kim Thần Lôi thuần túy vô cùng!
+Mà luồng kim mang kia chính là Canh Kim Thần Lôi thuần túy vô bì!
 
-"Kết nối hướng tới tầng thứ nhất của tầng Cương Phong Lôi Hỏa, quả nhiên đúng là như vậy." La Phàm thầm nghĩ trong lòng.
+"Kết nối tới tầng thứ nhất của lớp Cương Phong Lôi Hỏa, quả nhiên là như vậy." La Phàm thầm nghĩ trong lòng.
 
-Hồng Quân lúc này trái lại không có được cái vẻ nhàn nhã thoải mái như La Phàm. Ngay khoảnh khắc Canh Kim Thần Lôi xuất hiện, hắn liền cảm thụ được luồng cảm giác đại họa lâm đầu đó đã mạnh mẽ tới cực điểm, đáng sợ tới cực điểm! Điều đó khiến toàn bộ cơ thể hắn không nhịn được mà run rẩy lên.
+Hồng Quân lúc này không còn tâm trí thong dong như La Phàm nữa. Vào khoảnh khắc Canh Kim Thần Lôi xuất hiện, hắn liền cảm nhận được luồng cảm giác đại họa lâm đầu đó đã mãnh liệt tới cực điểm, đáng sợ tới cực điểm! Điều đó khiến cho toàn bộ cơ thể hắn không nhịn được mà run rẩy.
 
-Một luồng áp lực vô cùng nặng nề tác dụng lên khắp các bộ phận trên cơ thể hắn, giống như những xiềng xích vô hình vậy, khóa chặt toàn bộ thân hình hắn, khóa chặt mỗi một tế bào của hắn. Khiến hắn ngay cả việc muốn động đậy một chút cũng có cảm giác không thể nào làm nổi.
+Một luồng áp lực vô cùng nặng nề tác động lên khắp các bộ phận trên cơ thể hắn, giống như những xiềng xích vô hình vậy, khóa chặt toàn bộ thân hình hắn, khóa chặt từng tế bào của hắn. Khiến hắn ngay cả việc muốn cử động một chút cũng có cảm giác là không thể nào.
 
-"Đây chính là Thiên Kiếp... Đây chính là uy lực bằng một phần vạn của Thiên Kiếp mà sư tôn từng gặp phải... Quá mạnh mẽ rồi..." Trong tâm thần ý niệm của Hồng Quân lướt qua một ý nghĩ như vậy.
+"Đây chính là thiên kiếp... Đây chính là uy lực bằng một phần vạn so với thiên kiếp mà sư tôn từng gặp phải... Quá mạnh mẽ..." Ý niệm trong tâm thần Hồng Quân lóe lên một ý nghĩ như vậy.
 
-Tuy nhiên cũng chỉ là lướt qua mà thôi, lúc này hắn đã không còn bất kỳ một tia tâm lực dư thừa nào để mà đau xuân buồn thu nữa rồi.
+Tuy nhiên cũng chỉ là lóe lên rồi thôi, lúc này hắn đã không còn bất kỳ một chút tâm trí dư thừa nào để cảm thán hay thương cảm nữa.
 
-"Cạch uỳnh!"
+"Ầm!"
 
-Trong luồng kim mang đó sinh ra một tiếng bùng nổ cực lớn vô cùng đáng sợ, vô cùng to lớn, chấn động trời đất xung quanh.
+Bên trong luồng kim mang đó sinh ra một tiếng nổ cực lớn vô cùng khủng bố, vô cùng to lớn, làm rung chuyển trời đất xung quanh.
 
-Tiếp đó, một sợi kim tuyến to bằng ngón tay cái từ chính giữa vòng xoáy lao thẳng xuống dưới, trong chớp mắt đã vượt qua quãng đường trăm trượng, ngay khi Hồng Quân dường như vẫn chưa kịp phản ứng lại thì đã nổ oanh lên trên đầu hắn!
+Tiếp đó, một đường chỉ vàng to bằng ngón tay cái từ trung tâm vòng xoáy lao thẳng xuống dưới, trong chớp mắt vượt qua khoảng cách trăm trượng, trước khi Hồng Quân kịp phản ứng lại đã đánh thẳng lên đỉnh đầu của hắn!
 
-Canh Kim Thần Lôi, chí kiên, chí liệt, hào hùng khí thế, sắc bén kinh thiên.
+Canh Kim Thần Lôi, chí kiên, chí liệt, hào hùng mạnh mẽ, sắc bén kinh thiên.
 
-Một sợi Canh Kim Thần Lôi to bằng ngón tay cái này nổ trúng đầu, trong nháy mắt liền quét qua mỗi một vị trí, mỗi một tế bào trên khắp toàn thân Hồng Quân, hóa thành vô số những mũi kim nhọn, lưỡi kiếm sắc nhỏ xíu như hạt bụi đâm thẳng vào mỗi một tế bào.
+Đường chỉ Canh Kim Thần Lôi to bằng ngón tay cái này đánh trúng đỉnh đầu, trong phút chốc liền quét qua từng bộ phận, từng tế bào trên toàn thân Hồng Quân, hóa thành vô số những mũi kim, thanh kiếm nhỏ bé như hạt bụi đâm thẳng vào từng tế bào.
 
-Xè một tiếng vang nhỏ, từng sợi khói thuốc tỏa ra từ trên người Hồng Quân, chính là những tế bào này căn bản không thể chống đỡ được sự nổ oanh của Canh Kim Thần Lôi này, trong nháy mắt liền bị nổ vỡ, đủ loại vật chất bên trong đó hóa thành vô hình, bốc hơi lên trên.
+Một tiếng "xẹt" nhẹ vang lên, từng luồng khói đen bốc ra từ trên người Hồng Quân, đó là do những tế bào này căn bản không thể chống đỡ được sự oanh kích của Canh Kim Thần Lôi, trong phút chốc đã bị đánh tan, các loại vật chất bên trong hóa thành vô hình, bốc hơi lên cao.
 
-Cũng may là trước đó Hồng Quân đã Nhân Khí Hợp Nhất cùng với Hoàng Cân Lực Sĩ Hoàng, hợp thành một thể, luồng năng lượng sinh cơ do Hoàng Cân Lực Sĩ Hoàng hóa thành từ lâu đã bao phủ lấy mỗi một tế bào của hắn. Ngay khoảnh khắc tế bào bị nổ vỡ, những năng lượng sinh cơ bao phủ toàn thân này nháy mắt phân ra một tia, dung nhập vào trong tế bào, trong chớp mắt liền khiến tế bào khôi phục trở lại bình thường.
+May mắn thay, trước đó Hồng Quân đã đạt tới trạng thái nhân khí hợp nhất cùng Hoàng Cân Lực Sĩ Hoàng, hòa làm một thể, luồng sinh cơ năng lượng do Hoàng Cân Lực Sĩ Hoàng hóa thành đã sớm bao phủ lấy từng tế bào của hắn. Ngay khoảnh khắc tế bào bị đánh tan, luồng sinh cơ năng lượng bao phủ toàn thân này lập tức tách ra một tia, hòa nhập vào trong tế bào, chớp mắt đã khiến tế bào khôi phục lại như cũ.
 
-Hơn nữa, những tế bào khôi phục trở lại dường như so với trước kia còn mạnh mẽ hơn một tia tinh vi không thể nhận ra...
+Hơn nữa, tế bào sau khi khôi phục dường như mạnh mẽ hơn so với trước đó một tia vô cùng nhỏ nhoi...
 
-Toàn bộ quá trình vô cùng nhanh chóng, hầu như là tế bào vừa vỡ nát là liền được năng lượng sinh cơ khôi phục lại. Nhưng cái sự đau đớn do quá trình đó nảy sinh thì lại không hề giảm đi một chút nào!
+Toàn bộ quá trình vô cùng nhanh chóng, hầu như là tế bào vừa vỡ tan đã lập tức được sinh cơ năng lượng khôi phục. Thế nhưng, nỗi đau đớn do quá trình đó tạo ra lại không hề giảm bớt chút nào!
 
-Ngay khoảnh khắc Canh Kim Thần Lôi nhập thể, Hồng Quân liền cảm thấy cơ thể mình dường như nháy mắt bị nhào nát vậy, toàn bộ thần hồn đều chịu sự xung kích cực mạnh. Sự xung kích này tuy không đạt tới mức độ dẫn động Tiên Thiên Bất Diệt Linh Quang bảo hộ, nhưng cũng khiến hắn vô cùng khó chịu, hầu như không thể chịu đựng nổi.
+Vào khoảnh khắc Canh Kim Thần Lôi nhập thể, Hồng Quân liền cảm thấy cơ thể mình dường như bị bóp nát trong phút chốc, toàn bộ thần hồn đều chịu phải sự chấn động cực mạnh. Sự chấn động này tuy chưa đạt tới mức dẫn động Tiên Thiên Bất Diệt Linh Quang bảo hộ, nhưng cũng khiến hắn vô cùng khó chịu, hầu như không thể nhẫn nhịn nổi.
 
-Theo sự xuất hiện của sợi Canh Kim Thần Lôi này, tiếng cạch uỳnh cạch uỳnh liên tiếp không ngừng.
+Nương theo sự xuất hiện của đường chỉ Canh Kim Thần Lôi này, những tiếng nổ ầm ầm liên tiếp không dứt.
 
-Cái vòng xoáy vàng khổng lồ đó giống như đang đổ mưa vậy, trút xuống vô số sợi thần lôi màu vàng, giống như cái phễu vậy, nổ thẳng xuống trên cơ thể Hồng Quân, dung nhập vào trong đó, phá hoại tất cả những gì có thể phá hoại, diệt sát tất cả những gì có thể diệt sát.
+Vòng xoáy màu vàng khổng lồ kia giống như đang đổ mưa vậy, trút xuống vô số đường chỉ thần lôi màu vàng, giống như một cái phễu, lao thẳng xuống cơ thể Hồng Quân, hòa nhập vào bên trong, phá hủy tất cả những gì có thể phá hủy, diệt sát tất cả những gì có thể diệt sát.
 
-Hồng Quân ngồi xếp bằng, cũng không vận dụng sức mạnh để đề kháng, càng không tế ra pháp bảo để chống đỡ, chỉ ngẩng đầu nhìn bầu trời, dựa vào nhục thân của bản thân mà nhẫn thọ hết đợt oanh kích sấm sét này tới đợt oanh kích khác.
+Hồng Quân ngồi xếp bằng, cũng không vận dụng sức mạnh để đề kháng, càng không tế ra pháp bảo để chống đỡ, chỉ ngẩng đầu nhìn lên bầu trời, dựa vào nhục thân của mình để chịu đựng từng đợt từng đợt lôi điện oanh kích này.
 
-Mỗi một sợi sấm sét nhập thể là hắn lại tận hưởng một lần đau đớn khi cơ thể bị nhào nát rồi lại được tái tổ hợp lại.
+Mỗi một đường lôi điện nhập thể, hắn lại tận hưởng một lần nỗi đau cơ thể bị bóp nát rồi lại được tái tổ hợp lại.
 
-Mỗi một lần sấm sét nhập thể là hắn lại cảm thấy cơ thể mình có thêm một tia tăng cường.
+Mỗi một lần lôi điện nhập thể, hắn lại cảm thấy cơ thể mình có thêm một tia tăng cường.
 
-Luồng Canh Kim Thần Lôi từ trên trời nổ oanh xuống ngày càng mạnh, ngày càng ngưng tụ, uy lực đó cũng ngày càng lớn.
+Những luồng Canh Kim Thần Lôi oanh kích từ trên trời xuống càng ngày càng mạnh, càng ngày càng cô đọng, uy lực cũng càng ngày càng lớn.
 
-Qua chưa đầy một canh giờ, luồng Canh Kim Thần Lôi này đã tăng to tới mức giống như từng cây cột vậy, từ trên trời giáng xuống, bao phủ toàn bộ thân hình Hồng Quân vào bên trong.
+Trôi qua chưa tới một canh giờ, luồng Canh Kim Thần Lôi này đã tăng kích thước tới mức giống như từng cây cột vậy, từ trên trời giáng xuống, bao trùm toàn bộ thân hình Hồng Quân vào bên trong.
 
-Canh Kim Thần Lôi chí kiên chí liệt không chỉ đơn thuần có thể gây sát thương cho nhục thân, mà còn có thể xung kích thần hồn.
+Canh Kim Thần Lôi chí kiên chí liệt không chỉ có thể làm tổn thương nhục thân, mà còn có thể chấn động thần hồn.
 
-Không biết từ lúc nào, Canh Kim Thần Lôi đã phá vỡ rào cản giữa nhục thân và thần hồn, mỗi một lần đều có từng sợi từng sợi Canh Kim Thần Lôi thông qua một loại cơ chế thần bí nào đó lao thẳng vào thức hải của Hồng Quân, trong đó điên cuồng tàn phá, khuấy động, không ngừng xung kích thần hồn của hắn.
+Không biết từ lúc nào, Canh Kim Thần Lôi đã đâm xuyên qua rào cản giữa nhục thân và thần hồn, mỗi một lần đều có từng tia từng tia Canh Kim Thần Lôi thông qua một loại cơ chế thần bí nào đó, lao thẳng vào trong thức hải của Hồng Quân, điên cuồng tàn phá, khuấy động bên trong đó, liên tục oanh kích thần hồn của hắn.
 
-Thần hồn của Hồng Quân dưới sự bảo vệ của Tiên Thiên Bất Diệt Linh Quang thì không có bất kỳ lo ngại nào về việc bị tan rã, nhưng cũng chỉ dừng lại ở đó mà thôi.
+Thần hồn của Hồng Quân dưới sự hộ vệ của Tiên Thiên Bất Diệt Linh Quang thì không có bất kỳ mối lo nào về việc bị sụp đổ, nhưng cũng chỉ dừng lại ở đó mà thôi.
 
-Sự đau đớn khi Canh Kim Thần Lôi nổ oanh lên trên thần hồn thì lại không hề giảm đi lấy một tia một hào.
+Nỗi đau đớn do Canh Kim Thần Lôi oanh kích lên thần hồn không hề giảm bớt một chút nào.
 
-Ngày càng nhiều thần lôi nổ lên trên người, sự đau đớn mà thần hồn phải chịu đựng liền ngày càng rực cháy, ngày càng đáng sợ.
+Càng ngày càng có nhiều thần lôi oanh kích lên người, nỗi đau đớn mà thần hồn phải chịu đựng cũng càng ngày càng rát bỏng, càng ngày càng đáng sợ.
 
-Mãnh liệt, vòng xoáy vàng trên trời nảy sinh một sự thay đổi đột ngột.
+Đột nhiên, vòng xoáy màu vàng trên bầu trời nảy sinh một sự thay đổi đột ngột.
 
-Một điểm bạch mang sinh ra từ chính giữa vòng xoáy, dần dần khuếch tán ra, trong vài nhịp thở đã quét qua toàn bộ cái vòng xoáy rộng trăm mẫu này. Khiến toàn bộ cái vòng xoáy vốn đang lấp lánh ánh vàng nay được ánh lên sắc vàng trắng đan xen, ánh sáng chói lòa, giống như hóa thành một mảnh biển lửa vậy, trông khá là rực rỡ.
+Một điểm sáng trắng từ trung tâm vòng xoáy nảy sinh, dần dần khuếch tán ra, trong vài hơi thở đã quét qua toàn bộ vòng xoáy rộng trăm mẫu. Đem toàn bộ vòng xoáy vốn dĩ đang tỏa ánh vàng rực rỡ chiếu rọi thành một màu vàng trắng đan xen, ánh sáng chói mắt, giống như biến thành một biển lửa vậy, trông vô cùng diễm lệ.
 
-Cùng lúc đó, một luồng nhiệt lượng từ trên trời giáng xuống, bao phủ lấy Hồng Quân, thiêu đốt thân hình hắn.
+Đồng thời, một luồng nhiệt lượng từ trên trời giáng xuống, bao trùm lấy Hồng Quân, thiêu đốt cơ thể hắn.
 
-Tiếp đó, vô số đạo ánh sáng to bằng cái cột, đan xen sắc vàng trắng từ trên trời giáng xuống, nổ thẳng lên trên đầu Hồng Quân, trong nháy mắt quét qua toàn bộ thân hình hắn.
+Tiếp đó, vô số đạo ánh sáng to bằng cây cột, vàng trắng đan xen từ trên trời giáng xuống, lao thẳng lên đỉnh đầu Hồng Quân, trong phút chốc quét qua toàn bộ cơ thể hắn.
 
-"Hỏa!" Hồng Quân nhận lấy những luồng ánh sáng này, trong tâm thần ý niệm mãnh liệt lướt qua một chữ như vậy.
+"Hỏa!" Hồng Quân nhận lấy những luồng ánh sáng này, trong ý niệm tâm thần đột ngột lóe lên một chữ này.
 
-Đồng thời, một luồng cảm giác bỏng rát trào ra từ khắp nơi trên cơ thể, quét qua mỗi một tế bào trên người hắn, đem những tế bào vốn đã quen với sự nổ oanh nổ phá của Canh Kim Thần Lôi của hắn nháy mắt hóa thành than củi!
+Đồng thời, một cảm giác nóng bỏng từ khắp nơi trên cơ thể trỗi dậy, quét qua từng tế bào trên người hắn, đem những tế bào vốn dĩ đã quen với sự oanh kích nổ tung của Canh Kim Thần Lôi trong phút chốc hóa thành than củi!
 
-Một luồng sự đau đớn không thể diễn tả bằng lời từ khắp toàn thân truyền vào trong tâm thần ý niệm của hắn.
+Một luồng đau đớn không thể diễn tả bằng lời từ khắp toàn thân truyền vào trong ý niệm tâm thần của hắn.
 
-Thức hải của hắn càng là ngay khoảnh khắc đó hóa thành một mảnh biển lửa đan xen sắc vàng trắng, nóng bỏng vô cùng, nguy hiểm tới cực chí.
+Thức hải của hắn lại càng trong khoảnh khắc đó hóa thành một biển lửa vàng trắng đan xen, nóng rực vô bì, nguy hiểm tới cực điểm.
 
-Ngọn lửa hừng hực thiêu đốt cùng với luồng kim mang xung quanh dung hợp lẫn nhau, quấn quýt lấy nhau, không ngừng bùng nổ ra uy lực gấp mấy lần trước đó, oanh kích thần hồn của hắn!
+Ngọn lửa hừng hực cháy cùng với kim mang xung quanh hòa quyện vào nhau, quấn quýt lấy nhau, liên tục bùng phát ra uy lực gấp mấy lần so với trước kia, oanh kích thần hồn của hắn!
 
-Toàn bộ thần hồn của hắn trong nháy mắt đã bị ngọn lửa trắng bao bọc lấy, hóa thành một hỏa nhân màu trắng.
+Toàn bộ thần hồn của hắn trong phút chốc bị ngọn lửa màu trắng bao bọc lấy, hóa thành một người lửa màu trắng.
 
-"Canh Kim Lôi Hỏa Kiếp! Thì ra là thế!" Hồng Quân nháy mắt hiểu rõ rốt cuộc là chuyện gì đang xảy ra.
+"Canh Kim Lôi Hỏa Kiếp! Hóa ra là như vậy!" Hồng Quân trong phút chốc hiểu rõ rốt cuộc là chuyện gì xảy ra.
 
-Năng lượng tự chữa lành mà tên Hoàng Cân Lực Sĩ Hoàng mang lại cho hắn khá là kinh người, dù cho bỗng nhiên nảy sinh sự thay đổi nhanh chóng như vậy thì cũng có thể nháy mắt đưa ra phản ứng, tu bổ thân hình.
+Năng lượng tự chữa trị mà Hoàng Cân Lực Sĩ Hoàng mang lại cho hắn vô cùng kinh người, ngay cả khi đột nhiên nảy sinh sự thay đổi nhanh chóng như vậy, cũng có thể lập tức đưa ra phản ứng, tu bổ thân thể.
 
-Chỉ trong chớp mắt sau khi lôi hỏa oanh tới, các tế bào trên khắp toàn thân hắn liền đã hoàn toàn khôi phục lại bình thường.
+Chỉ trong chớp mắt sau khi lôi hỏa ập tới, toàn bộ tế bào trên người hắn đã hoàn toàn khôi phục lại bình thường.
 
-Hơn nữa, thân hình sau khi trải qua lần tu bổ này, mức độ nâng cao so với trước kia cư nhiên to lớn hơn hẳn một tia.
+Hơn nữa, cơ thể sau khi trải qua lần tu bổ này, mức độ nâng cao so với trước kia đã tăng thêm một tia đáng kể.
 
-Biển lửa trong thức hải này mạnh mẽ như vậy, rốt cuộc đã dẫn động Tiên Thiên Bất Diệt Linh Quang ở phía trên. Nói cách khác, thần hồn của Hồng Quân đã không thể chịu đựng được sự tôi luyện lôi hỏa mạnh mẽ đến nhường này nữa rồi!
+Biển lửa bên trong thức hải này mạnh mẽ như vậy, rốt cuộc đã dẫn động Tiên Thiên Bất Diệt Linh Quang ở phía trên. Nói cách khác, thần hồn của Hồng Quân đã không thể chịu đựng được sự tôi luyện lôi hỏa mãnh liệt như vậy nữa!
 
-Ngay khoảnh khắc ngọn lửa trắng và kim mang bám lên thần hồn Hồng Quân, Tiên Thiên Bất Diệt Linh Quang xoay chuyển một cái đã đem tất cả ngọn lửa bám lên thần hồn hắn thu vào bên trong, tiêu trừ vào vô hình.
+Vào khoảnh khắc ngọn lửa màu trắng cùng kim mang quấn lấy thần hồn Hồng Quân, Tiên Thiên Bất Diệt Linh Quang khẽ chuyển động, đã thu toàn bộ ngọn lửa đang quấn lấy thần hồn hắn vào bên trong, tiêu trừ sạch sành sanh.
 
-Sự biến hóa này khiến thần hồn vốn đang mọi lúc cảm nhận được sự đau đớn bỗng chốc trở nên thanh thản.
+Sự thay đổi này khiến cho thần hồn vốn dĩ luôn cảm thấy đau đớn bỗng nhiên trở nên thanh thản lạ thường.
 
-Khoảnh khắc này, Hồng Quân hiểu rõ bản thân mình không thể cứ thế không hề chống đỡ mà mượn nhờ Thiên Kiếp để tôi luyện thần hồn của mình nữa, cần phải mượn nhờ pháp khí làm suy yếu lôi hỏa thì mới có thể đạt được hiệu quả tôi luyện.
+Vào khoảnh khắc này, Hồng Quân hiểu rõ, mình không thể cứ thế mà không hề đề kháng gì mượn thiên kiếp để tôi luyện thần hồn nữa, cần phải mượn dùng pháp khí để làm suy yếu lôi hỏa mới có khả năng đạt tới hiệu quả tôi luyện.
 
-Hắn mãnh liệt tâm thần khẽ động, chiếc trường bào trên người hóa thành một vuông khăn gấm lao vọt lên trên.
+Hắn đột ngột tâm thần khẽ động, chiếc trường bào trên người hóa thành một vuông gấm vóc lao thẳng lên trên.
 
-Nháy mắt mở rộng, hóa thành to bằng trăm mẫu, giống như che trời lấp đất vậy, đem cái vòng xoáy to bằng trăm mẫu ở phía trên kia hoàn toàn bọc lấy.
+Trong phút chốc mở rộng ra, hóa thành phạm vi trăm mẫu, giống như che trời lấp đất vậy, đem vòng xoáy rộng trăm mẫu ở phía trên hoàn toàn bao bọc lấy.
 
-Tiếp đó, đây chính là vuông Cửu Linh Vân Quang Phá mà Hồng Quân đã tế luyện suốt bốn mươi chín ngày mới thành!
+Tiếp đó, đây chính là Cửu Linh Vân Quang Phách mà Hồng Quân đã tế luyện suốt bốn mươi chín ngày mà thành!
 
-Vuông khăn gấm này sau khi bọc lấy vòng xoáy bỗng nhiên biến đổi, hóa thành một mảnh hồ nước rộng trăm mẫu! Nước hồ vô tận lơ lửng giữa hư không, cuộn trào mãnh liệt, bùng nổ ra khí thế kinh thiên động địa, lao thẳng về phía cái vòng xoáy khổng lồ kia.
+Vuông gấm vóc này sau khi bao bọc lấy vòng xoáy liền đột ngột biến đổi, hóa thành một hồ nước rộng trăm mẫu! Nước hồ vô tận lơ lửng giữa hư không, cuộn trào mãnh liệt, bùng phát ra khí thế kinh thiên động địa, lao thẳng về phía vòng xoáy khổng lồ kia.
 
-Đồng thời, từng sợi tia chớp màu tím quấn quýt trên mỗi một đóa hoa sóng của mảnh hồ này, giống như thiên lôi vậy, bạo ngược xông tới đón lấy luồng Canh Kim Thần Lôi và bạch sắc thiên hỏa từ trên trời giáng xuống!
+Đồng thời, từng sợi từng sợi tia chớp màu tím quấn quanh mỗi một đóa sóng hoa trên hồ nước này, giống như thiên lôi vậy, bạo ngược vô cùng, nghênh đón luồng Canh Kim Thần Lôi và trắng xóa thiên hỏa từ trên trời giáng xuống!
 
-Trên kiện Cửu Linh Vân Quang Phá này được dung nhập chín đạo pháp quyết, sở hữu chín loại uy năng. Thứ mà Hồng Quân mượn nhờ chính là hai loại quy luật thủy hỏa tương khắc và đồng loại tương xích (cùng loại đẩy nhau) này!
+Bên trên Cửu Linh Vân Quang Phách này đã hòa nhập chín đạo pháp quyết, sở hữu chín loại uy năng. Thứ mà Hồng Quân mượn dùng chính là hai quy luật thủy hỏa tương khắc và đồng loại tương xích!

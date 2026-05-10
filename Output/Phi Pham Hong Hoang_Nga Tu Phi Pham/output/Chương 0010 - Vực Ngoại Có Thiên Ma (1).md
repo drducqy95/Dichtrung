@@ -1,103 +1,103 @@
-# Chương 0010 - Vực Ngoại Có Thiên Ma (1)
+# Chương 10: Vực Ngoại Có Thiên Ma (1)
 
-Mấy chục đóa mây sở hữu bản năng đơn giản này tại thời khắc đó đều trở nên giống như lũ ruồi không đầu vậy mà bay loạn khắp nơi, cho dù thỉnh thoảng có lướt qua thân thể La Phàm, cũng giống như La Phàm chỉ là một hư ảnh vậy, lướt qua một cái mà không hề tiến hành tấn công hắn.
+Hàng chục đám mây sở hữu bản năng đơn giản kia trong tích tắc này đều trở nên giống như lũ ruồi không đầu vậy, bay loạn khắp nơi. Dù thi thoảng lướt qua cơ thể La Phàm thì cũng hệt như La Phàm chỉ là một hư ảnh, cứ thế lướt qua mà không hề tấn công hắn.
 
-Tất thảy mọi chuyện, giống như khí tức tỏa ra trên người La Phàm khiến chúng không thể cảm nhận được sự tồn tại của hắn vậy.
+Mọi tình trạng như vậy hệt như luồng khí tức tỏa ra từ trên người La Phàm khiến chúng không thể cảm nhận được sự tồn tại của hắn vậy.
 
-La Phàm lúc này cũng không hề để ý tới sự biến hóa xung quanh cơ thể mình. Khoảnh khắc này, toàn bộ tâm thần, toàn bộ não hải, toàn bộ ý niệm của hắn đều tràn lấp tất cả những thông tin, khí tức, chi tiết liên quan đến núi Bất Chu.
+La Phàm lúc này cũng chẳng thèm để ý tới những biến hóa xung quanh. Ngay lúc này, toàn bộ tâm thần, toàn bộ não bộ, toàn bộ ý niệm của hắn đều tràn ngập mọi thông tin, khí tức và chi tiết liên quan đến núi Bất Chu.
 
-Mọi thứ liên quan đến núi Bất Chu mà hắn đã quan sát được trong suốt mấy vạn năm qua, từng mảnh nhỏ, từng chi tiết cục bộ, đều bắt đầu hiện lên trong não hải hắn, không ngừng đan xen, không ngừng tổ hợp lại với nhau.
+Tất cả những gì hắn quan sát được về núi Bất Chu suốt mấy vạn năm qua, từng mảnh ghép nhỏ nhoi, từng chi tiết cục bộ đều bắt đầu hiện ra trong não bộ, không ngừng đan xen, không ngừng tổ chức lại.
 
-Đôi mắt hắn phản chiếu ngọn núi Bất Chu sừng sững ở cách xa hàng ngàn vạn dặm kia, nơi mà chiều cao của hắn so với đỉnh núi Bất Chu vẫn còn chênh lệch tới mấy ngàn dặm.
+Thứ phản chiếu trong đôi mắt hắn chính là đỉnh núi Bất Chu cách xa ngàn vạn dặm, chênh lệch độ cao so với hắn tới vài ngàn dặm kia.
 
-Hình dáng đỉnh núi Bất Chu và thân núi Bất Chu bên dưới hoàn toàn khác biệt, sự chuyển biến đó lại đột ngột đến như vậy, điều này đối với tâm thần của La Phàm—người vốn đã quen với một thân núi Bất Chu trông không thấy đỉnh nhìn không thấy đáy suốt mấy vạn năm qua—là một sự kích thích cực lớn, đủ để khiến hắn rơi vào trạng thái thể ngộ giống như lần đầu tiên nhìn thấy núi Bất Chu vậy.
+Hình thái của đỉnh núi Bất Chu hoàn toàn khác biệt so với thân núi bên dưới, sự chuyển đổi đó lại đột ngột đến vậy. Đối với tâm thần vốn đã quen thuộc với thân núi Bất Chu dưới không thấy đáy trên chẳng thấy đỉnh suốt mấy vạn năm qua của La Phàm thì đây là một sự kích thích cực lớn, đủ để khiến hắn rơi vào trạng thái thể ngộ giống như lần đầu tiên nhìn thấy núi Bất Chu vậy.
 
-Trong não hải vô số thông tin không ngừng hiện ra, không ngừng tổ hợp lại, dần dà, tất cả những thông tin, tất cả khí tức, tất cả chi tiết mà hắn tiếp nhận được trong suốt mấy vạn năm qua đã hoàn toàn dung hợp làm một, tạo thành một ngọn núi Bất Chu hoàn chỉnh, đứng sừng sững giữa thiên địa, chống đỡ lấy màn trời!
+Vô số thông tin trong não bộ không ngừng hiện ra, không ngừng tổ chức lại. Dần dần, tất cả thông tin, khí tức và chi tiết mà hắn tiếp nhận suốt mấy vạn năm qua đã hoàn toàn dung hợp làm một, tạo thành một ngọn núi Bất Chu hoàn chỉnh sừng sững mọc lên từ mặt đất, chống đỡ tấm màn thiên!
 
-Ngọn núi Bất Chu trong não hải này vô cùng hoàn chỉnh, từ dưới lên trên, từ chân núi đất bằng cho tới màn trời trên đỉnh núi đều không hề có bất kỳ sai sót nào! Phần dưới cùng của núi Bất Chu rộng lớn vô biên, đường kính tới tận tám chín vạn dặm, theo độ cao tăng dần lên phía trên, thân núi cũng dần thu nhỏ lại, cho đến nơi đầy rẫy tinh tú cách mặt đất mười vạn dặm mới thu miệng tới đỉnh!
+Ngọn núi Bất Chu trong não bộ này vô cùng hoàn chỉnh, từ dưới lên trên, từ chân núi dưới mặt đất cho tới tấm màn thiên trên đỉnh núi đều không có bất kỳ thiếu sót nào! Phần dưới cùng của núi Bất Chu rộng lớn vô cùng, đường kính lên tới tám chín vạn dặm. Theo độ cao đi lên, thân núi cũng dần dần thu nhỏ lại, cho đến độ cao mười vạn dặm trên mặt đất nơi tràn ngập vô số tinh tú mới thu miệng chạm đỉnh!
 
-Ngọn núi Bất Chu này chậm rãi xoay chuyển trong não hải của La Phàm, toàn bộ hình thái ngày càng hoàn chỉnh, cũng ngày càng chi tiết, hình ảnh đó càng lúc càng tiệm cận với ngọn núi Bất Chu thực sự.
+Ngọn núi Bất Chu này chậm rãi xoay động trong não bộ La Phàm, toàn bộ hình thái càng lúc càng hoàn chỉnh, cũng càng lúc càng chi tiết, hình ảnh đó lại càng lúc càng tiếp cận với núi Bất Chu chân thực.
 
-Đây là lần đầu tiên La Phàm nhìn thấy một ngọn núi Bất Chu hoàn chỉnh từ dưới đáy cho tới đỉnh cao nhất!
+Đây là lần đầu tiên La Phàm nhìn thấy một ngọn núi Bất Chu hoàn chỉnh từ dưới đáy cho tới tận đỉnh!
 
-Cũng là lần đầu tiên hắn phát hiện ra rằng, hóa ra chỉ riêng một hình dáng thôi, lại có thể huyền diệu đến mức độ này!
+Cũng là lần đầu tiên hắn phát hiện ra, hóa ra chỉ riêng một cái hình dạng thôi mà cũng có thể huyền diệu tới mức này!
 
-Lúc đó mới hiểu được rằng, một hình dáng ngọn núi trông có vẻ vô cùng bình thường, hóa ra cũng có thể chứa đựng nhiều thông tin huyền ảo đến thế!
+Cũng mới hiểu ra rằng, một cái hình dạng ngọn núi trông có vẻ rất bình thường thế mà lại chứa đựng nhiều thông tin huyền ảo đến vậy!
 
-Luồng khí tức thương mang bất khuất vốn có của núi Bất Chu cũng dần dà tỏa ra từ ngọn núi Bất Chu trong não hải đó, chậm rãi thấm nhuần toàn thân hắn, đan xen cùng luồng khí tức thương mang bất khuất đã tỏa ra từ trước đó, trong nháy mắt đã thúc đẩy luồng khí tức thương mãng bất khuất tỏa ra trên người hắn tăng vọt lên gấp mười lần!
+Một luồng khí tức thương mang bất khuất chỉ núi Bất Chu mới có cũng dần dần tỏa ra từ ngọn núi Bất Chu trong não bộ đó, dần dần thấm đẫm toàn thân hắn, đan xen cùng luồng khí tức thương mang bất khuất tỏa ra từ cơ thể hắn trước đó. Trong tích tắc, nó đã đẩy luồng khí tức thương mang bất khuất tỏa ra từ người hắn lên cao thêm gấp mười lần!
 
-Cùng với luồng khí tức đề thăng, những đóa mây trắng xung quanh hắn, những đóa mây trông có vẻ đầy nghi hoặc, đang bay tứ tán tìm kiếm La Phàm giống như gặp phải chuyện gì đó vô cùng khủng khiếp vậy, chớp mắt đã bỏ chạy thật xa, khiến không vực xung quanh rèn luyện của La Phàm thình lình trống trải ra phạm vi hơn ngàn dặm!
+Theo luồng khí tức này thăng hoa, những đám mây trắng xung quanh cơ thể hắn — những đám mây vốn đang nghi hoặc bay loạn khắp nơi tìm kiếm La Phàm bỗng giống như gặp phải chuyện gì đó khiến chúng vô cùng sợ hãi, thoắt cái đã chạy ra xa tít tắp, khiến vùng không gian xung quanh cơ thể La Phàm tức khắc trống không trong phạm vi hơn ngàn dặm!
 
-"...Đỉnh thiên lập địa... Bất Chu Sơn... Xương sống của Bàn Cổ... Vĩnh viễn không khuất phục... Vĩnh viễn không từ bỏ... Ta gãy trời nghiêng... Ta đổ đất lún..." Từng chút một những lĩnh ngộ về núi Bất Chu hiện ra từ sâu trong não hải của La Phàm. Theo sự trôi đi của thời gian, những thông tin lĩnh ngộ được này ngày càng nhiều, tốc độ hiện ra cũng ngày càng nhanh!
+"... Đỉnh thiên lập địa... núi Bất Chu... xương sống của Bàn Cổ... vĩnh viễn không khuất phục... vĩnh viễn không từ bỏ... ta đứt trời nghiêng... ta đổ đất lún..." Từng luồng thể ngộ về núi Bất Chu từ từ hiện ra từ sâu trong não bộ La Phàm. Theo thời gian trôi qua, những luồng thông tin thể ngộ được này càng lúc càng nhiều, tốc độ hiện ra cũng càng lúc càng nhanh!
 
-Đến cuối cùng, thậm chí giống như lũ lụt phá đê vậy, điên cuồng phun trào ra ngoài, chớp mắt giống như thổi bóng bay vậy, khiến đầu óc La Phàm căng tràn đến mức tưởng chừng như sắp nổ tung!
+Đến cuối cùng lại hệt như nước lũ phá đê, điên cuồng tuôn trào ra ngoài. Thoắt cái đã giống như thổi bong bóng vậy, khiến đầu óc La Phàm căng phồng lên như sắp nổ tung!
 
-Theo sự trôi đi của thời gian, luồng khí tức thương mang bất khuất tỏa ra trên người hắn liên tục dung hợp cùng luồng khí tức thương mang bất khuất mà núi Bất Chu xung quanh tỏa ra.
+Theo thời gian trôi qua, luồng khí tức thương mang bất khuất tỏa ra từ trên người hắn và luồng khí tức thương mang bất khuất tỏa ra từ núi Bất Chu xung quanh không ngừng dung hợp vào nhau.
 
-Không biết đã trôi qua bao lâu, luồng khí tức tỏa ra trên người hắn và luồng khí tức tỏa ra từ núi Bất Chu đã hoàn toàn dung hợp làm một, không còn phân biệt được nữa!
+Chẳng biết đã trôi qua bao lâu, luồng khí tức tỏa ra từ người hắn và luồng khí tức tỏa ra từ núi Bất Chu đã hoàn toàn dung hợp làm một, không còn phân biệt rạch ròi nữa!
 
-Vào khoảnh khắc hai luồng khí tức này hoàn toàn dung hợp, những thông tin phun trào trong não hải La Phàm cũng đã đạt tới cực hạn, cái cảm giác đầu sắp nổ tung kia cũng đã mãnh liệt tới mức cực đoan!
+Ngay chính khoảnh khắc hai luồng khí tức này hoàn toàn dung hợp, luồng thông tin tuôn ra trong não bộ La Phàm cũng đạt tới cực hạn, cảm giác đầu óc sắp nổ tung kia cũng mãnh liệt tới cực hạn!
 
-Thốt nhiên, vô số tiếng sấm sét nổ vang liên tiếp "ầm ầm" trong não hải hắn, giống như Bàn Cổ đang khai thiên tịch địa trong não hải hắn vậy!
+Bỗng nhiên, vô số tiếng sấm sét nổ vang "ầm ầm" nối thành một dải trong não bộ hắn, hệt như Bàn Cổ đang khai thiên lập địa trong não bộ hắn vậy!
 
-Tiếp đó, càng có vô tận tia chớp lấp đầy toàn bộ ý niệm của hắn!
+Tiếp đó, lại có vô tận tia chớp tràn ngập toàn bộ ý niệm của hắn!
 
-Mọi thứ ở thế giới bên ngoài, mọi thứ ở thân thể, mọi thứ ở núi Bất Chu, mọi thứ phun trào từ sâu trong não hải, trong khoảnh khắc này đã hoàn toàn biến mất!
+Mọi thứ ở thế giới bên ngoài, mọi thứ ở cơ thể, mọi thứ ở núi Bất Chu, mọi thứ tuôn ra từ sâu trong não bộ trong sát na này hoàn toàn biến mất!
 
-Những gì mắt hắn thấy, tai hắn nghe, tư tưởng hắn nghĩ, chỉ duy nhất còn lại vô tận tia chớp ấy! Những tia chớp giống như xé rách hỗn độn, phân tách thiên địa, định đoạt âm dương vậy!
+Thứ mắt hắn nhìn thấy, tai hắn nghe thấy, tư duy hắn nghĩ tới đều duy chỉ có vô tận tia chớp kia! Những tia chớp hệt như xé toạc hỗn độn, phân chia trời đất, phân định âm dương kia!
 
-Cùng lúc đó, thần hồn trong não hải hắn cũng đã nảy sinh biến hóa to lớn!
+Cùng lúc đó, thần hồn trong não bộ hắn cũng nảy sinh biến hóa to lớn!
 
-Thần hồn vốn có hình dáng giống hệt cơ thể hắn thình lình nổ tung, hóa thành một đoàn quầng mây hỗn độn xám xịt lấp đầy hư không hình cầu có đường kính bốn trăm chín mươi dặm trong Nê Hoàn cung của hắn! Trong khi nhồi nhét đầy ắp toàn bộ hư không, nó thậm chí còn khiến cho hư không đường kính bốn trăm chín mươi dặm này không thể dung chứa nổi mà phải tiếp tục phình ra ngoài!
+Thần hồn vốn có hình dáng giống hệt cơ thể hắn bỗng chốc nổ tung, hóa thành một cụm mây hỗn độn xám xịt lấp đầy toàn bộ vùng hư không hình cầu đường kính bốn trăm chín mươi dặm trong Cung Nê Hoàn! Trong khi nhồi nhét đầy ắp toàn bộ vùng hư không đó, nó thậm chí còn khiến vùng hư không đường kính bốn trăm chín mươi dặm này không thể chứa nổi, tiếp tục phình to ra ngoài!
 
-Tiếp theo, dường như dưới tác dụng của một cơ chế thần bí nào đó, một sự chuyển hóa vô cùng huyền diệu đã xuất hiện.
+Tiếp đó, dường như dưới tác dụng của một loại cơ chế thần bí nào đó, một sự biến hóa vô cùng huyền diệu đã xuất hiện.
 
-Quầng mây hỗn độn do thần hồn nổ tung tạo thành bắt đầu chậm rãi luân chuyển theo một quỹ đạo huyền ảo khôn lường.
+Cụm mây hỗn độn do thần hồn nổ tung tạo thành bắt đầu chậm rãi lưu chuyển theo một quỹ đạo huyền ảo vô cùng.
 
-Theo sự luân chuyển huyền ảo khôn lường đó, toàn bộ quầng mây hỗn độn do thần hồn hóa thành trong chớp mắt đã biến thành hàng tỷ đạo tơ sợi vô cùng cô đọng, những sợi tơ này không hề độc lập với nhau, mà đan xen vào nhau theo một phương thức vô cùng huyền diệu! Nương theo quỹ đạo huyền ảo khôn lường đó mà không ngừng luân chuyển, không ngừng biến hóa hình thái!
+Theo sự lưu chuyển huyền ảo khó lường đó, toàn bộ cụm mây hỗn độn do thần hồn hóa thành thoắt cái đã biến thành hàng tỷ sợi tơ ngưng tụ vô cùng. Những sợi tơ này không hề độc lập với nhau, mà đan xen vào nhau theo một phương thức vô cùng huyền diệu! Nương theo quỹ đạo huyền ảo vô cùng đó không ngừng lưu chuyển, không ngừng thay đổi hình thái!
 
-Ong... si... vấn... đài...
+Oánh... Si... Vấn... Đài...
 
-Từng tiếng động huyền ảo chấn động linh hồn, chấn động thiên địa liên tục phát ra từ trong Nê Hoàn cung của La Phàm trong quá trình luân chuyển hàng tỷ đạo tơ sợi đó, làm chấn động xung quanh, thậm chí còn khiến cho hư không Hồng Hoang phải rung rinh đôi chút!
+Từng tiếng động huyền ảo chấn động linh hồn, chấn động thiên địa trong quá trình lưu chuyển của hàng tỷ sợi tơ này không ngừng tỏa ra từ Cung Nê Hoàn của La Phàm, chấn động xung quanh, thậm chí còn gây ra sự chấn động nhẹ trong hư không Hồng Hoang!
 
-Giống như có một tồn tại vô cùng mạnh mẽ nào đó đang được thai nghén bên trong Nê Hoàn cung của hắn vậy!
+Hệt như có một sự tồn tại vô cùng mạnh mẽ nào đó đang được thai nghén bên trong Cung Nê Hoàn của hắn vậy!
 
-Theo những tiếng động huyền ảo đó vang lên, hàng tỷ đạo tơ sợi vô cùng cô đọng ấy bắt đầu chậm rãi thu nhỏ lại—chậm rãi thu nhỏ về phía trung tâm của khu vực hình cầu có đường kính bốn trăm chín mươi dặm kia!
+Theo những tiếng động huyền ảo này vang lên, hàng tỷ sợi tơ ngưng tụ vô cùng kia bắt đầu chậm rãi co lại — chậm rãi co về phía trung tâm vùng hình cầu đường kính bốn trăm chín mươi dặm kia!
 
-Trong quá trình thu nhỏ, quỹ đạo thu nhỏ của mỗi sợi tơ đều độc lập, mỗi sợi tơ đều có quỹ đạo hoàn toàn khác biệt so với tất cả những sợi tơ khác, nhưng quỹ đạo của mỗi sợi tơ nhìn qua đều thần diệu vô phương, đều tràn đầy vẻ huyền ảo khiến người ta nhìn vào là thấy tâm khoáng thần sảng, tựa hồ lĩnh ngộ được điều gì đó!
+Trong quá trình co lại, quỹ đạo co lại của mỗi một sợi tơ đều là độc lập, quỹ đạo co lại của mỗi một sợi tơ đều hoàn toàn khác biệt với bất kỳ sợi tơ nào khác. Nhưng quỹ đạo co lại của mỗi một sợi tơ trông đều thần diệu vô phương như vậy, đều tràn đầy huyền ảo như vậy, khiến người ta nhìn vào mà lòng dạ thảnh thơi, dường như có điều gì đó lĩnh ngộ được!
 
-Ngay lúc này, ngay khi hàng tỷ đạo tơ sợi do thần hồn hóa thành đang liên tục thu nhỏ, cô đọng, dường như đang thai nghén điều gì đó, thì một luồng khí tức lạ lùng đột nhiên xuất hiện giữa thiên địa!
+Ngay lúc đó, ngay lúc hàng tỷ sợi tơ do thần hồn hóa thành đang không ngừng co lại, ngưng tụ, hệt như đang thai nghén điều gì đó thì một luồng khí tức lạ lùng bỗng nhiên xuất hiện giữa thiên địa!
 
-Luồng khí tức này chính là luồng khí tức lần đầu tiên xuất hiện kể từ khi thiên địa Hồng Hoang được khai tịch hơn mười vạn năm qua!
+Luồng khí tức này chính là luồng khí tức lần đầu tiên xuất hiện kể từ khi thiên địa Hồng Hoang này được khai mở suốt mười mấy vạn năm qua!
 
 Là luồng khí tức hoàn toàn chưa từng có tiền lệ trong thiên địa Hồng Hoang!
 
 Luồng khí tức này vô cùng quỷ dị, lúc ẩn lúc hiện, phiêu hốt bất định, biến ảo vô hình.
 
-Không có bất kỳ tồn tại nào biết được lai lịch của nó, cũng không có bất kỳ tồn tại nào hiểu được nó đã xuất hiện như thế nào.
+Không có bất kỳ sự tồn tại nào biết được lai lịch của nó, cũng không có bất kỳ sự tồn tại nào hiểu được nó xuất hiện như thế nào.
 
-Chỉ là đột nhiên, nó xuất hiện.
+Chỉ là bỗng nhiên, nó xuất hiện.
 
-Chỉ là đột nhiên, nó bao bọc lấy La Phàm!
+Chỉ là bỗng nhiên, nó bao bọc lấy La Phàm!
 
-Luồng khí tức thương mang bất khuất tỏa ra từ núi Bất Chu đối với luồng khí tức này mà nói, dường như hoàn toàn không tồn tại vậy.
+Luồng khí tức thương mang bất khuất tỏa ra từ núi Bất Chu đối với luồng khí tức này mà nói dường như hoàn toàn không tồn tại vậy.
 
-Ngay vào khoảnh khắc luồng khí tức này bao bọc lấy cơ thể, vô số quang ảnh, âm thanh đã xuất hiện trong ý niệm của La Phàm.
+Ngay trong khoảnh khắc luồng khí tức này bao bọc lấy cơ thể, vô số quang ảnh và âm thanh xuất hiện trong ý niệm của La Phàm.
 
-Dường như đang ở trong tiên cảnh vô cùng tuyệt diệu, sương mù lẩn khuất, tiên nhân phi hành, hạc mây tương ứng...
+Dường như đang ở giữa một tiên cảnh vô cùng tuyệt diệu, mây mù bao phủ, tiên nhân bay lượn, hạc trắng kêu vang...
 
-Chớp mắt sau, lại dường như đang ở trong ôn nhu hương, thiên nữ khỏa thân uốn éo điệu múa mê hoặc lòng người tiến về hắn, hương thơm ngào ngạt, ôn hương nhuyễn ngọc...
+Thoắt cái lại giống như đang ở chốn dịu dàng thắm thiết, thiên nữ khỏa thân uốn lượn những điệu múa vô cùng quyến rũ tiến về phía hắn, hương thơm ngào ngạt, làn da mịn màng ấm áp...
 
-Chớp mắt sau nữa, lại giống như đang ở trong cung điện tráng lệ huy hoàng, vô số người quỳ rạp xuống lớn tiếng hô vạn tuế...
+Lại thoắt cái hệt như đang ở trong đại điện vàng son lộng lẫy, vô số người cúi mình hô vang vạn tuế...
 
-Lại chớp mắt sau, lại giống như con cháu đầy đàn, con hiếu cháu hiền...
+Lại thoắt cái hệt như con cháu đầy đàn, con hiếu cháu hiền...
 
 ...
 
-Tất cả những điều này, vô số quang ảnh, âm thanh đã đem tất cả những ức tưởng, ảo tưởng, vọng tưởng từng xuất hiện trong lòng La Phàm thể hiện ra một cách sống động như thật trong ý niệm của hắn vào lúc này, hơn nữa đều là thân lâm kỳ cảnh, chân thực vô cùng!
+Phàm là đủ loại như vậy, vô tận quang ảnh và âm thanh đã đem tất cả những gì La Phàm từng nghĩ tới, từng ảo tưởng, từng vọng tưởng trong lòng đều hiện ra một cách sống động trong ý niệm của hắn vào chính thời khắc này, hơn nữa đều là thân lâm kỳ cảnh, vô cùng chân thực!
 
-Ngay lúc đó, không gian vô cùng ổn định của thiên địa Hồng Hoang xung quanh La Phàm thốt nhiên nảy sinh một chút vặn vẹo.
+Ngay lúc này, xung quanh La Phàm, vùng không gian vô cùng ổn định của thiên địa Hồng Hoang bỗng nhiên nảy sinh sự vặn vẹo nhẹ.
 
-Sau khi vặn vẹo, sương mù đen đặc thình lình xuất hiện, trong nháy mắt đã bao trùm lấy thân thể La Phàm.
+Sau khi vặn vẹo, làn sương đen nồng đậm hiện ra từ hư không, trong tích tắc đã quấn chặt lấy cơ thể La Phàm.
 
-Vô số tiếng rên rỉ, Phạn xướng, quát mắng, gầm thét, thảm thiết, khen ngợi, nũng nịu cuồn cuộn trào ra từ bên trong màn sương mù đen kịt này...
+Vô số tiếng rên rỉ kiều mị, tiếng tụng kinh, tiếng mắng chửi, tiếng gào thét căm phẫn, tiếng gào khóc thảm thiết, tiếng tán dương, tiếng nũng nịu cuộn trào tuôn ra trong làn sương đen này...

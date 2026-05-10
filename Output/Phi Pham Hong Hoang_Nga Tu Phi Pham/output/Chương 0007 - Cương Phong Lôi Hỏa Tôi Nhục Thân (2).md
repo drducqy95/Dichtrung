@@ -1,97 +1,97 @@
-# Chương 0007 - Cương Phong Lôi Hỏa Tôi Nhục Thân (2)
+# Chương 7: Cương Phong Lôi Hỏa Tôi Nhục Thân (2)
 
-Tầng Cương Phong Lôi Hỏa là một tồn tại vô cùng huyền diệu và cũng đầy thần bí.
+Tầng Cương Phong Lôi Hỏa là một nơi rất huyền diệu và vô cùng thần bí.
 
-Nguyên nhân nó được đặt tên là tầng Cương Phong Lôi Hỏa chính là do những chủng loại năng lượng đặc thù chứa đựng bên trong đó.
+Cái tên Cương Phong Lôi Hỏa được đặt như vậy chính là vì những loại năng lượng đặc thù chứa đựng bên trong đó.
 
-Cương phong, là một tên gọi chung, đại diện cho đủ loại ác phong mang các thuộc tính khác nhau như Tam Muội Thần Phong, Thiên phong, Âm phong, Quỷ phong...
+Cương Phong là một tên gọi chung, đại diện cho Tam Muội Thần Phong, Thiên Phong, Âm Phong, Quỷ Phong cùng đủ loại ác phong mang các thuộc tính khác nhau.
 
-Lôi, đại diện cho đủ loại thiên lôi, thần lôi mang các thuộc tính khác nhau như Âm lôi, Dương lôi, Ất Mộc Thần Lôi, Mậu Thổ Thần Lôi...
+Lôi đại diện cho Âm Lôi, Dương Lôi, Ất Mộc Thần Lôi, Mậu Thổ Thần Lôi cùng đủ loại Thiên Lôi, Thần Lôi mang các thuộc tính khác nhau.
 
-Hỏa, đại diện cho đủ loại thần hỏa mang các thuộc tính khác nhau, khác biệt hoàn toàn với phàm hỏa như Thiên hỏa, Địa hỏa, Thạch trung hỏa, Mộc trung hỏa...
+Hỏa đại diện cho Thiên Hỏa, Địa Hỏa, Thạch Trung Hỏa, Mộc Trung Hỏa cùng đủ loại thần hỏa mang các thuộc tính khác nhau, khác hẳn với phàm hỏa.
 
-Các loại phong, lôi, hỏa bên trong tầng Cương Phong Lôi Hỏa này có một mối liên kết vô cùng thần bí nào đó, chính vì thế mà chúng có thể ngưng tụ thành một thể thống nhất với một sự cân bằng vô cùng vi diệu trên bầu trời của thế giới Hồng Hoang.
+Đủ loại phong, lôi, hỏa trong tầng Cương Phong Lôi Hỏa này có một mối liên hệ vô cùng thần bí, nhờ đó chúng có thể ngưng kết thành một thể dựa trên một sự cân bằng tinh tế nào đó trên bầu trời của thế giới Hồng Hoang.
 
-Sự cân bằng này cực kỳ vi diệu, cực kỳ ổn định, nhưng cũng cực kỳ mong manh.
+Sự cân bằng này vô cùng tinh tế, vô cùng ổn định, nhưng cũng vô cùng mỏng manh.
 
-Lúc bình thường, khi không có bất kỳ sự kích thích nào, cho dù trải qua hàng ngàn vạn năm, tầng Cương Phong Lôi Hỏa này cũng sẽ không thay đổi dù chỉ một mảy may, sự cân bằng tuyệt đối không bị phá vỡ. Thế nhưng chỉ cần có bất kỳ tạp chất nào xâm nhập vào bên trong, sự cân bằng này sẽ ngay lập tức bị phá hủy, những luồng cương phong, lôi, hỏa vốn dĩ vô cùng tĩnh lặng kia sẽ trong nháy mắt bùng phát ra sức phá hoại không thể tưởng tượng nổi, tấn công tất cả các tạp chất xâm nhập vào đó, cho đến khi tạp chất ấy hóa thành hư vô hoặc bị trục xuất ra ngoài mới thôi!
+Lúc bình thường, khi không có bất kỳ sự kích thích nào, dù có trôi qua hàng ngàn vạn năm thì tầng Cương Phong Lôi Hỏa này cũng sẽ không thay đổi dù chỉ một chút, sự cân bằng tuyệt đối không bị phá vỡ. Nhưng chỉ cần có bất kỳ tạp chất nào tiến vào bên trong, sự cân bằng này sẽ tức khắc bị phá hoại. Những luồng cương phong, lôi, hỏa vốn đang bình lặng vô cùng kia sẽ tức khắc bộc phát ra sức phá hoại không tưởng, tấn công mọi tạp chất xâm nhập vào trong đó, cho đến khi tạp chất đó hóa thành hư vô hoặc bị trục xuất ra ngoài mới thôi!
 
-Nhìn từ bên dưới lên, tầng Cương Phong Lôi Hỏa này có màu xanh thẫm, tựa như một bức màn trời bao phủ khắp nơi, nhưng sau khi tiến vào bên trong lại giống như tiến vào một thế giới khác vậy, có vô số màu sắc phongưu vô cùng. Thậm chí chỉ cần là màu sắc có thể tìm thấy trên thế gian này, thì ở đây nhất định sẽ tìm thấy.
+Nhìn từ dưới lên, tầng Cương Phong Lôi Hỏa này có màu xanh thẳm, hệt như một tấm màn thiên che trời lấp đất. Nhưng sau khi tiến vào bên trong lại giống như bước vào một thế giới khác vậy, có vô số màu sắc phong phú. Thậm chí chỉ cần là màu sắc có thể tìm thấy trên thế gian thì ở đây chắc chắn có thể tìm thấy.
 
-Hàng tỷ loại màu sắc đan xen vào nhau, vẻ ngoài vô cùng lộng lẫy, nhưng cũng toát ra một sự nguy hiểm tột cùng.
+Hàng tỷ màu sắc đan xen vào nhau trông vô cùng rực rỡ, nhưng cũng lộ ra sự nguy hiểm khôn lường.
 
 Đối với tầng Cương Phong Lôi Hỏa này mà nói, La Phàm tự nhiên chính là một loại tạp chất.
 
-Hắn tiến vào trong đó, ngay lập tức đã phá vỡ sự cân bằng vi diệu mà mong manh của tầng Cương Phong Lôi Hỏa, trong nháy mắt đã khiến phạm vi trăm dặm xung quanh cơ thể hắn nảy sinh đại bạo động. Tất cả các loại cương phong, lôi, hỏa trong phạm vi trăm dặm này giống như lũ cá mập đánh hơi thấy mùi máu tanh vậy, điên cuồng lao về phía cơ thể hắn, đồng thời trong quá trình đó bùng phát ra sức mạnh tấn công mạnh mẽ nhất của bản thân chúng.
+Hắn tiến vào trong đó, tức khắc phá vỡ sự cân bằng tinh tế và mỏng manh của tầng Cương Phong Lôi Hỏa, ngay lập tức khiến vùng không gian trong phạm vi trăm dặm quanh cơ thể hắn nảy sinh một cuộc đại bạo động. Khiến cho đủ loại cương phong, lôi, hỏa trong phạm vi trăm dặm này hệt như cá mập ngửi thấy mùi máu mà điên cuồng ùa về phía cơ thể hắn, đồng thời trong quá trình đó bộc phát ra sức mạnh tấn công mạnh mẽ nhất của chính mình.
 
-Nhìn dáng vẻ đó, giống như toàn bộ tầng Cương Phong Lôi Hỏa đều sở hữu linh tính, muốn hoàn toàn hủy diệt rồi loại bỏ tất cả các tạp chất xâm nhập vào sâu trong cơ thể nó vậy.
+Nhìn bộ dạng đó giống như toàn bộ tầng Cương Phong Lôi Hỏa này sở hữu linh tính, muốn hủy diệt hoàn toàn mọi tạp chất xâm nhập vào bên trong cơ thể nó rồi mới thải ra ngoài vậy.
 
-Thân xác của La Phàm sau khi trải qua sự tôi luyện của Hỗn Độn nguyên khí vốn đã vô cùng cường hãn, nhưng sức phá hoại của đám cương phong, lôi, hỏa này lại càng cường hãn hơn. Dưới sự oanh kích của chúng, cơ thể hắn cũng không thể nguyên vẹn vô sự.
+Cơ thể La Phàm sau khi trải qua sự tôi luyện của Hỗn Độn nguyên khí đã vô cùng cường hãn, nhưng sức phá hoại của cương phong, lôi, hỏa này còn cường hãn hơn. Dưới sự oanh kích của chúng, cơ thể hắn cũng không thể vẹn toàn vô sự.
 
-Dưới sự oanh kích của vô số loại năng lượng bạo ngược đó, các bộ phận trên cơ thể hắn liên tục phải chịu đủ loại tổn thương kỳ quái khác nhau, càng có vô số huyết nhục dưới sự oanh kích của cương phong, lôi, hỏa liên tục bị tách rời khỏi cơ thể hắn, vô số loại thương tổn dị thường xuất hiện trên người hắn.
+Dưới sự oanh kích của vô số loại năng lượng bạo ngược đó, các bộ phận trên cơ thể hắn không ngừng chịu đủ loại tổn thương kỳ quái, vô số da thịt dưới sự oanh kích của đủ loại cương phong, lôi, hỏa không ngừng rời khỏi thân hình hắn, vô số loại thương tổn kỳ quái vô cùng xuất hiện trên người hắn.
 
-Nhưng đồng thời, luồng năng lượng huyền chi hựu huyền bên trong cơ thể hắn lại có uy năng không thể tưởng tượng nổi, sở hữu năng lượng phục hồi vô cùng mạnh mẽ đối với cơ thể.
+Nhưng đồng thời, luồng năng lượng huyền chi hựu huyền trong cơ thể hắn lại sở hữu uy năng không tưởng, có khả năng phục hồi cơ thể cực kỳ mạnh mẽ.
 
-Vào giây phút cơ thể phải chịu những tổn thương không thể tưởng tượng nổi từ cương phong, lôi, hỏa, luồng năng lượng đó có thể đưa ra phản ứng ngay tức khắc, xua tan những thương tổn ấy, khiến huyết nhục tái sinh, khiến cơ thể trở lại bình thường.
+Khi cơ thể chịu đủ loại tổn thương không tưởng của cương phong, lôi, hỏa, nó có thể nảy sinh phản ứng ngay tức khắc, loại bỏ đủ loại tổn thương đó, khiến da thịt tái sinh, khiến cơ thể khôi phục bình thường.
 
-Hơn nữa, mỗi một lần cơ thể được phục hồi, phần cơ thể bị thương đó của hắn sẽ được đề thăng cường độ lên một chút so với trước kia!
+Hơn nữa, mỗi một lần cơ thể được phục hồi, phần cơ thể bị thương đó sẽ có cường độ tăng lên một chút so với trước kia!
 
-Đám cương phong lôi hỏa này là vô cùng vô tận, thương tổn đó cũng là vô cùng vô tận, thì luồng năng lượng huyền chi hựu huyền phục hồi cơ thể tự nhiên cũng sẽ là vô cùng vô tận. Cường độ của cơ thể được đề thăng, tự nhiên cũng sẽ không có điểm dừng.
+Luồng cương phong lôi hỏa này là vô tận, sự thương tổn cũng là vô tận, và sự phục hồi cơ thể của luồng năng lượng huyền chi hựu huyền kia tự nhiên cũng là vô tận. Cường độ cơ thể được nâng cao tự nhiên cũng sẽ không có điểm dừng.
 
-Chính vì thế, những đợt oanh kích vô cùng tận của đám cương phong lôi hỏa này trái lại đã trở thành một tồn tại giúp hắn tôi luyện thân xác!
+Vì vậy, sự oanh kích vô tận của cương phong lôi hỏa này ngược lại đã trở thành một sự tồn tại giúp hắn tôi luyện cơ thể!
 
-Lúc này, các bộ phận trên cơ thể La Phàm truyền tới đủ loại cảm giác đau đớn nói được tên hoặc không nói được tên, nhưng trong lòng hắn lại vô cùng vui sướng, có thể gọi là đau đớn và khoái lạc song hành.
+Lúc này trên khắp các bộ phận của cơ thể La Phàm truyền tới đủ loại cảm giác đau đớn có tên hoặc không tên, nhưng trong lòng hắn lại vô cùng vui mừng, có thể gọi là "đau đớn và hạnh phúc".
 
-Dĩ nhiên, lúc này hắn cũng không quên quan sát núi Bất Chu ở phía trước.
+Tất nhiên, hắn cũng không quên quan sát núi Bất Chu ở phía trước.
 
-Bất Chu Sơn, là cột chống trời Tây Bắc, là xương sống của Bàn Cổ, ở trong tầng Cương Phong Lôi Hỏa này cũng vô cùng nổi bật, thậm chí còn nổi bật hơn mấy phần so với khi ở bên ngoài tầng Cương Phong Lôi Hỏa.
+Núi Bất Chu là Thiên trụ Tây Bắc, là xương sống của Bàn Cổ, trong tầng Cương Phong Lôi Hỏa này cũng vô cùng nổi bật, thậm chí so với lúc ở ngoài tầng Cương Phong Lôi Hỏa còn nổi bật hơn mấy phần.
 
-Mặc dù do sự xâm nhập của La Phàm mà khiến tầng Cương Phong Lôi Hỏa nảy sinh đủ loại dị tượng che lấp xung quanh cơ thể hắn, cản trở tầm nhìn đôi chút. Nhưng đối với thị lực siêu cường của La Phàm mà nói, sự cản trở này không phải vấn đề gì lớn, phóng tầm mắt ra xa, hắn vẫn có thể nhìn thấy núi Bất Chu ở cách xa hàng ngàn vạn dặm phía trước, càng lên cao càng thu nhỏ lại.
+Mặc dù việc La Phàm tiến vào khiến tầng Cương Phong Lôi Hỏa nảy sinh đủ loại dị tượng che lấp xung quanh cơ thể hắn, cản trở một chút tầm nhìn, nhưng đối với thị lực siêu cường của La Phàm thì sự cản trở này không phải là vấn đề gì lớn. Phóng tầm mắt nhìn ra xa, hắn vẫn có thể nhìn thấy núi Bất Chu cách xa ngàn vạn dặm đang càng lên cao càng thu nhỏ lại.
 
-Cơ thể phải chịu sự tôi luyện của vô số cương phong, lôi, hỏa, La Phàm cũng không quên mục đích ban đầu của mình, trong lúc cơ thể chịu đựng sự tôi luyện cũng vẫn không ngừng bay lên phía trên.
+Cơ thể phải chịu sự tôi luyện của vô số cương phong, lôi, hỏa, La Phàm cũng không quên ý định ban đầu của mình. Trong lúc cơ thể chịu đựng tôi luyện, hắn vẫn không ngừng bay lên trên.
 
-Theo đà cơ thể không ngừng đi lên, đám cương phong, lôi, hỏa xung quanh oanh kích cơ thể hắn cũng luân phiên tăng cường.
+Theo cơ thể hắn không ngừng đi lên, đủ loại cương phong, lôi, hỏa oanh kích quanh cơ thể hắn cũng không ngừng tăng cường.
 
-Lúc mới bắt đầu, khi hắn vừa mới tiến vào tầng Cương Phong Lôi Hỏa, tốc độ cơ thể hắn bị hư tổn kém xa tốc độ phục hồi của luồng năng lượng huyền chi hựu huyền kia, mỗi lần cơ thể hắn phải chịu tổn thương, trong chớp mắt vết thương sẽ được khôi phục, cường độ cơ thể cũng sẽ tăng thêm đôi chút.
+Lúc mới bắt đầu, khi hắn vừa mới tiến vào tầng Cương Phong Lôi Hỏa, tốc độ cơ thể bị tổn thương còn thấp hơn nhiều so với tốc độ phục hồi của luồng năng lượng huyền chi hựu huyền kia. Mỗi lần cơ thể hắn chịu tổn thương, chỉ trong tích tắc sau vết thương sẽ hồi phục, cường độ cơ thể cũng sẽ tăng lên một chút.
 
-Nhưng về sau cường độ oanh kích của tầng Cương Phong Lôi Hỏa này liên tục tăng lên, mức độ gây hại cho cơ thể tự nhiên cũng liên tục tăng cường, tốc độ phục hồi cơ thể của luồng năng lượng huyền chi hựu huyền bên trong hắn không thể tránh khỏi việc bắt đầu chậm lại.
+Nhưng về sau, cường độ oanh kích của tầng Cương Phong Lôi Hỏa không ngừng tăng lên, mức độ tổn thương đối với cơ thể tự nhiên cũng không ngừng tăng theo, tốc độ phục hồi cơ thể của luồng năng lượng huyền chi hựu huyền trong người hắn không thể tránh khỏi bắt đầu chậm lại.
 
-Dĩ nhiên, mỗi lần hắn phục hồi thương thế cho cơ thể, sự đề thăng mà cơ thể đạt được cũng liên tục tăng lên.
-
-...
-
-La Phàm cứ ngỡ tầng Cương Phong Lôi Hỏa sẽ mãi luôn có dáng vẻ như vậy, chỉ là cường độ năng lượng có thể sẽ không ngừng tăng sâu theo mức độ xâm nhập mà thôi.
-
-Nhưng đợi đến khi hắn tiến sâu vào bên trong tầng Cương Phong Lôi Hỏa hàng ngàn dặm, tình hình đã nảy sinh biến hóa.
-
-Tốc độ tiến lên của La Phàm trong tầng Cương Phong Lôi Hỏa liên tục chậm lại, đợi đến khi hắn thâm nhập vào tầng Cương Phong Lôi Hỏa được ngàn dặm, thời gian đã trôi qua được đại nửa năm.
-
-Tại vị trí sâu ngàn dặm của tầng Cương Phong Lôi Hỏa, có một ranh giới rõ ràng, ngăn cách tầng Cương Phong Lôi Hỏa dưới ngàn dặm và tầng Cương Phong Lôi Hỏa trên ngàn dặm.
-
-Mang lại cho người ta cảm giác giống như là, thế giới tầng Cương Phong Lôi Hỏa dưới ngàn dặm là một thế giới, còn tầng Cương Phong Lôi Hỏa trên ngàn dặm lại là một thế giới khác vậy.
-
-Trải qua sự tôi luyện của ngàn dặm Cương Phong Lôi Hỏa, cường độ cơ thể của La Phàm so với trước khi tiến vào đã đề thăng lên gấp đôi.
-
-Nhưng tới đây, tốc độ phục hồi cơ thể của luồng năng lượng huyền chi hựu huyền bên trong La Phàm đã đạt tới mức tương đương với cường độ oanh kích của năng lượng xung quanh.
-
-Mỗi khi cơ thể hắn bị oanh kích hư tổn, đều cần một khoảng thời gian khá dài mới có thể phục hồi, mà sau khi phục hồi, vết thương này sẽ lại một lần nữa bị hư tổn, lại tiêu tốn một khoảng thời gian để phục hồi, rồi lại hư tổn, cứ như vậy tạo thành một vòng tuần hoàn hư tổn, phục hồi, hư tổn không ngừng nghỉ.
-
-Nhìn vào tốc độ phục hồi đó, có thể tưởng tượng được rằng, cường độ oanh kích này nếu như tăng thêm chút nữa, tốc độ phục hồi của luồng năng lượng huyền chi hựu huyền bên trong hắn sẽ không theo kịp!
-
-Đến lúc đó, e rằng không phải đám cương phong lôi hỏa này đang giúp hắn tôi luyện nhục thân, mà là đang tiêu diệt hắn rồi.
-
-Nhìn ranh giới tại vị trí ngàn dặm của tầng Cương Phong Lôi Hỏa, hắn có thể tưởng tượng được rằng nếu đi tiếp lên trên, tầng Cương Phong Lôi Hỏa nhất định sẽ có một sự biến hóa về bản chất.
-
-Cân nhắc một chút, La Phàm vô cùng lý trí quyết định dừng lại ở đây trước, đợi cho đến khi cường độ cơ thể đề thăng đến mức đủ để chịu đựng tầng Cương Phong Lôi Hỏa mạnh hơn thì mới đi lên tiếp.
-
-Sau khi có quyết định này, tâm tình La Phàm bình tĩnh trở lại, cơ thể cũng không còn đi lên nữa, mà cư cứ như vậy dừng lại ở độ sâu ngàn dặm của tầng Cương Phong Lôi Hỏa, vươn vai, giẫm lên bốn đóa tường vân, lặng lẽ chịu đựng sự oanh kích của đủ loại thiên lôi, ác phong, thần hỏa xung quanh.
+Tất nhiên, mỗi lần phục hồi thương tổn thì mức độ nâng cao của cơ thể cũng không ngừng tăng lên.
 
 ...
 
-Lần dừng lại này, chính là thời gian trăm năm.
+La Phàm cứ ngỡ tầng Cương Phong Lôi Hỏa vẫn luôn có bộ dạng như vậy, chỉ là cường độ năng lượng có thể sẽ càng lúc càng sâu sắc theo mức độ đi sâu vào bên trong mà thôi.
 
-Trong một trăm năm này, cơ thể của La Phàm không hề lay động dù chỉ một mảy may, chỉ có đôi mắt là nhìn chằm chằm vào núi Bất Chu cách xa hàng ngàn vạn dặm phía trước, buông lỏng tâm thần, thể ngộ luồng khí tức thương mang bất khuất tỏa ra từ núi Bất Chu kia. Coi như là trong lúc tôi luyện thân xác, thuận tiện xem xem có cơ duyên nào lĩnh ngộ được cơ duyên đột phá từ ngọn núi Bất Chu kia hay không.
+Nhưng đợi đến khi hắn đi sâu vào trong tầng Cương Phong Lôi Hỏa được ngàn dặm, tình hình đã nảy sinh biến hóa.
 
-Mặc dù đã tiến sâu vào bên trong tầng Cương Phong Lôi Hỏa được ngàn dặm, nhưng hắn vẫn chưa chạm tới được đỉnh núi Bất Chu.
+Tốc độ tiến lên của La Phàm trong tầng Cương Phong Lôi Hỏa không ngừng chậm lại, đợi đến khi hắn đi sâu vào được ngàn dặm thì thời gian đã trôi qua hơn nửa năm.
 
-Từ đây nhìn qua, vẫn chỉ là một đoạn thân núi nhìn không thấy đáy cũng trông không thấy đỉnh mà thôi. Đối với tâm thần đã quen thuộc đến mức tê liệt của La Phàm mà nói, điều này không mang lại sự kích thích đặc biệt nào. Chính vì thế, cho dù đã trải qua thời gian trăm năm, sự tiến bộ của hắn vẫn vô cùng hữu hạn. Thậm chí nói là hoàn toàn không có tiến bộ gì cũng là có thể chấp nhận được.
+Tại vị trí sâu ngàn dặm trong tầng Cương Phong Lôi Hỏa có một khoảng cách ngăn cách rõ rệt, chia cắt tầng Cương Phong Lôi Hỏa bên dưới ngàn dặm và tầng Cương Phong Lôi Hỏa bên trên ngàn dặm.
+
+Cảm giác đem lại chính là, thế giới tầng Cương Phong Lôi Hỏa dưới ngàn dặm là một thế giới, mà tầng Cương Phong Lôi Hỏa trên ngàn dặm lại là một thế giới khác vậy.
+
+Sau khi trải qua sự tôi luyện ngàn dặm của tầng Cương Phong Lôi Hỏa, cường độ cơ thể La Phàm so với trước khi vào đã tăng lên gấp đôi.
+
+Nhưng tới đây, tốc độ phục hồi cơ thể của luồng năng lượng huyền chi hựu huyền trong người La Phàm đã đạt tới mức tương đương với cường độ oanh kích của năng lượng xung quanh.
+
+Mỗi lần cơ thể hắn bị oanh kích tổn thương đều cần một khoảng thời gian khá dài mới có thể phục hồi. Mà sau khi phục hồi xong, vết thương này lại một lần nữa bị tổn thương, rồi lại tốn một khoảng thời gian để phục hồi, rồi lại bị tổn thương. Cứ như vậy, tổn thương - phục hồi - tổn thương tạo thành một vòng tuần hoàn liên tục.
+
+Nhìn vào tốc độ phục hồi đó có thể tưởng tượng được rằng, nếu cường độ oanh kích này tăng thêm một chút nữa thì tốc độ phục hồi của luồng năng lượng huyền chi hựu huyền trong người hắn sẽ không theo kịp!
+
+Đến lúc đó, e rằng không phải tầng Cương Phong Lôi Hỏa này đang giúp hắn tôi luyện nhục thân nữa, mà là đang tiêu diệt hắn.
+
+Nhìn khoảng cách ngăn cách tại vị trí ngàn dặm của tầng Cương Phong Lôi Hỏa, hắn có thể tưởng tượng được rằng nếu đi lên phía trên nữa, tầng Cương Phong Lôi Hỏa nhất định sẽ có một sự biến hóa về bản chất.
+
+Sau khi cân nhắc một chút, La Phàm vô cùng lý trí quyết định tạm dừng lại ở đây, đợi đến khi cường độ cơ thể tăng lên đến mức đủ để chịu đựng tầng Cương Phong Lôi Hỏa mạnh hơn mới tiếp tục đi lên.
+
+Có quyết định này, tâm trạng La Phàm bình tĩnh trở lại, cơ thể cũng không đi lên nữa mà cứ thế dừng lại tại vị trí sâu ngàn dặm trong tầng Cương Phong Lôi Hỏa, vươn mình đạp trên bốn đóa tường vân, lặng lẽ chịu đựng sự oanh kích của đủ loại Thiên Lôi, ác phong và thần hỏa xung quanh.
+
+...
+
+Lần dừng lại này kéo dài suốt trăm năm.
+
+Trong suốt trăm năm này, cơ thể La Phàm không hề cử động dù chỉ một chút, chỉ có đôi mắt nhìn chằm chằm vào núi Bất Chu cách xa ngàn vạn dặm phía trước. Hắn thả lỏng tâm thần, thể ngộ luồng khí tức thương mang bất khuất tỏa ra từ ngọn núi đó. Coi như trong lúc tôi luyện cơ thể thì thuận tiện xem thử có cơ duyên nào lĩnh ngộ được khế cơ đột phá từ núi Bất Chu hay không.
+
+Mặc dù đã đi sâu vào tầng Cương Phong Lôi Hỏa ngàn dặm nhưng vẫn chưa tới được đỉnh núi Bất Chu.
+
+Từ đây nhìn qua vẫn chỉ thấy một đoạn thân núi dưới không thấy đáy trên chẳng thấy đỉnh mà thôi. Đối với tâm thần vốn đã quen thuộc đến mức tê liệt của La Phàm thì điều này không đem lại sự kích thích đặc biệt nào. Vì vậy, dù đã trôi qua trăm năm nhưng sự tiến bộ của hắn vẫn vô cùng hạn chế. Thậm chí nói là không hề tiến bộ chút nào cũng không quá lời.

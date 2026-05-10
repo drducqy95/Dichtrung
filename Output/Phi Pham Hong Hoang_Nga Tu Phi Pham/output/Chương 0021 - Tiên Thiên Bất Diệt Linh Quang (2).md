@@ -1,81 +1,81 @@
-# Chương 0021 - Tiên Thiên Bất Diệt Linh Quang (2)
+# Chương 21: Tiên Thiên Bất Diệt Linh Quang (2)
 
-La Phàm hơi khựng lại, nhưng rất nhanh đã hiểu ra. Hồng Quân lại có thể biến một Tiên Thiên Đạo Thể tốt đẹp thành ra dị hình như thế, chắc hẳn kiến thức về phương diện tu hành của hắn đã thiếu thốn tới cực điểm, thậm chí ngay cả Tiên Thiên Đạo Thể rốt cuộc là dáng vẻ thế nào cũng không biết, tự nhiên cũng sẽ không biết đến kiến thức về Tiên Thiên Linh Bảo...
+La Phàm khựng lại một chút, nhưng rất nhanh đã hiểu ra. Hồng Quân thế mà có thể khiến cho một cái Tiên Thiên Đạo Thể tốt lành hóa thành hình dạng dị hình thế này, ắt hẳn là kiến thức về phương diện tu hành nghèo nàn tới cực điểm, thậm chí ngay cả Tiên Thiên Đạo Thể cụ thể là hình dáng gì cũng không biết, tự nhiên cũng sẽ không biết được kiến thức về phương diện Tiên Thiên Linh Bảo rồi...
 
-Vì vậy, y cũng không lấy làm phiền lòng, giải thích nói: "Tiên Thiên Linh Bảo, chính là một loại vật sự do Tiên Thiên Bất Diệt Linh Quang diễn hóa mà thành, vĩnh thế trường tồn, vĩnh viễn không hư hại. Trong thiên địa, Tiên Thiên Bất Diệt Linh Quang có hạn, Tiên Thiên Linh Bảo lại càng có hạn, cho nên Tiên Thiên Linh Bảo trân quý chí cực. Các loại Tiên Thiên Linh Bảo khác nhau có uy năng khác nhau, cụ thể là tùy vào sự diễn hóa của Linh Quang mà định. Nhưng có một loại uy năng mà mỗi một kiện Tiên Thiên Linh Bảo đều có, đó chính là sau khi luyện hóa có thể dung hợp làm một với thần hồn, trao cho thần hồn sự bảo hộ vĩnh viễn không mài mòn. Hơn nữa nếu muốn chứng đắc Hỗn Nguyên Đạo Quả, Tiên Thiên Linh Bảo lại có đại dụng."
+Do đó, hắn cũng không lấy làm phiền lòng, giải thích nói: "Tiên Thiên Linh Bảo chính là một loại vật sự do Tiên Thiên Bất Diệt Linh Quang diễn hóa mà thành, trường tồn vĩnh viễn, không bao giờ hư tổn. Tiên Thiên Bất Diệt Linh Quang giữa thiên địa có hạn, Tiên Thiên Linh Bảo lại càng có hạn, thế nên Tiên Thiên Linh Bảo vô cùng trân quý. Mỗi loại Tiên Thiên Linh Bảo khác nhau lại sở hữu những uy năng khác nhau, cụ thể là tùy vào sự diễn hóa của linh quang mà định. Nhưng trong đó có một loại uy năng mà bất kỳ món Tiên Thiên Linh Bảo nào cũng sở hữu, đó chính là sau khi luyện hóa có thể dung hợp làm một với thần hồn, mang lại sự bảo hộ vĩnh viễn cho thần hồn. Hơn nữa nếu muốn chứng đắc Hỗn Nguyên đạo quả, Tiên Thiên Linh Bảo lại có đại dụng."
 
-Đôi mắt Hồng Quân phát sáng — lời nói của La Phàm giống như đã mở ra cho hắn một thế giới hoàn toàn mới, thế giới của tu hành!
+Đôi mắt Hồng Quân phát sáng — lời nói của La Phàm giống như mở ra trước mắt gã một thế giới hoàn toàn mới, thế giới của tu hành!
 
-"Dám hỏi sư tôn, thế nào là Hỗn Nguyên Đạo Quả?" Đối với những thứ mình không hiểu, Hồng Quân tuyệt đối không có ý định giả vờ hiểu, trực tiếp hỏi ra điều mình không rõ.
+"Dám hỏi sư tôn, thế nào là Hỗn Nguyên đạo quả?" Đối với những thứ không biết, Hồng Quân tuyệt đối không có ý định giả vờ hiểu, trực tiếp hỏi ra những thứ mình không minh bạch.
 
-La Phàm mỉm cười, giơ tay vỗ một đóa mây vàng đang xâm nhập vào phạm vi trăm dặm trở về bản nguyên, nói: "Thế nào là Hỗn Nguyên Đạo Quả? Điều này vi sư làm sao biết được? Vi sư hiện nay cũng chỉ mới chứng đắc Địa Tiên Đạo Quả, ngay cả Thái Ất Đạo Quả, Đại La Đạo Quả ở phía trên cũng chưa chứng đắc, làm sao hiểu được Hỗn Nguyên Đạo Quả ở trên nữa? Tu hành chưa tới, tự nhiên không thể thấu hiểu. Hơn nữa vi sư cho dù có hiểu, cũng không thể nói cho ngươi biết, Đạo Quả cần phải tự mình chứng, không thể giảng giải, lời này ngươi cần ghi tạc trong lòng, không được một khắc nào quên mất."
+La Phàm khẽ mỉm cười, giơ tay đánh tan một đóa mây vàng đang xâm nhập vào phạm vi trăm dặm xung quanh, nói: "Thế nào là Hỗn Nguyên đạo quả? Cái này vi sư làm sao biết được? Vi sư hiện giờ cũng mới chỉ chứng đắc Địa Tiên đạo quả, ngay cả Thái Ất đạo quả, Đại La đạo quả ở phía trên còn chưa chứng đắc, làm sao hiểu được Hỗn Nguyên đạo quả ở cấp bậc cao hơn nữa? Tu hành chưa tới, tự nhiên không thể thấu hiểu. Hơn nữa dù vi sư có hiểu thì cũng không thể nói cho ngươi biết, đạo quả cần phải tự chứng chứ không thể giảng, lời này ngươi cần phải ghi nhớ trong lòng, không được phép quên dù chỉ một chút."
 
-Hồng Quân nghiêm nghị, vội vàng vâng dạ.
+Hồng Quân rùng mình, vội vàng vâng dạ.
 
-La Phàm thấy Hồng Quân nghe dạy, trong lòng vô cùng hài lòng, cười nói: "Thế nào? Đã nghĩ kỹ xem nên lợi dụng đạo Tiên Thiên Bất Diệt Linh Quang này như thế nào chưa?"
+La Phàm thấy Hồng Quân nghe lời chỉ dạy, vô cùng hài lòng, cười nói: "Thế nào? Đã nghĩ kỹ xem nên sử dụng đạo Tiên Thiên Bất Diệt Linh Quang này như thế nào chưa?"
 
-Hồng Quân do dự một chút, cung kính nói: "Đồ nhi đã nghĩ kỹ, nguyện trợ đạo Linh Quang này diễn hóa Tiên Thiên Linh Bảo!"
+Hồng Quân do dự một chút, cung kính nói: "Đồ nhi đã nghĩ thông suốt, nguyện giúp đạo linh quang này diễn hóa thành Tiên Thiên Linh Bảo!"
 
-La Phàm mỉm cười, khen ngợi: "Tốt, thế này mới đúng là hành vi cầu lấy đại đạo!"
+La Phàm khẽ mỉm cười, khen ngợi nói: "Tốt lắm, đây mới là hành động cầu lấy đại đạo!"
 
-"Tạ sư tôn khen ngợi!" Hồng Quân được La Phàm khen ngợi, lại vô cùng hưng phấn.
+"Đa tạ sư tôn khen ngợi!" Hồng Quân được La Phàm khen ngợi, tỏ ra vô cùng hưng phấn.
 
-La Phàm gật đầu, tâm thần khẽ động, tường vân dưới chân chấn động một cái, kéo theo y và Hồng Quân bay về phía Bất Chu Sơn với tốc độ vừa chậm vừa nhanh, miệng nói: "Không cần do dự, có thể dựa theo khẩu quyết mà làm."
+La Phàm gật đầu, tâm thần khẽ động, đóa tường vân dưới chân rung lên một cái, chở hắn và Hồng Quân bay về phía núi Bất Chu với tốc độ nhìn thì chậm nhưng thực chất cực nhanh, miệng nói: "Không cần do dự, hãy nương theo pháp quyết mà hành sự."
 
-Hồng Quân hưng phấn đáp lời một tiếng, bắt đầu đem pháp quyết mà La Phàm truyền thụ lúc trước thi triển lên đạo Tiên Thiên Bất Diệt Linh Quang xám xịt kia.
+Hồng Quân hưng phấn đáp lời một tiếng, bắt đầu thi triển pháp quyết mà La Phàm truyền thụ lúc trước đối với đạo Tiên Thiên Bất Diệt Linh Quang xám xịt kia.
 
-Đạo Tiên Thiên Bất Diệt Linh Quang này tuy chưa được Hồng Quân luyện hóa, nhưng dù sao cũng đã ở cùng Hồng Quân không biết bao nhiêu năm rồi, đã sơ bộ có lạc ấn của Hồng Quân. Bởi vậy không cần khống chế, nó đã bám sát bên cạnh hắn, cùng hắn tiến về phía trước.
+Đạo Tiên Thiên Bất Diệt Linh Quang này tuy chưa bị Hồng Quân luyện hóa, nhưng dù sao cũng đã ở bên cạnh Hồng Quân không biết bao nhiêu năm trời rồi, đã sơ bộ mang theo lạc ấn của Hồng Quân. Do đó không cần khống chế, nó vẫn quấn quýt bên cạnh gã, cùng gã tiến về phía trước.
 
-Hồng Quân được La Phàm sắp xếp ở phía sau bên trái mình, đạo Tiên Thiên Bất Diệt Linh Quang kia ngưng thành một đoàn co duỗi bất định đặt ở trước mặt hắn, chậm rãi chìm nổi, giống như phao tiêu trên mặt biển vậy.
+Hồng Quân được La Phàm sắp xếp ở phía sau bên trái mình, đạo Tiên Thiên Bất Diệt Linh Quang ngưng tụ thành một khối co giãn bất định đặt ở trước mặt gã, chậm rãi chìm nổi hệt như một chiếc phao trên mặt biển vậy.
 
-Hồng Quân hít sâu vài hơi, há miệng, một luồng quang mang màu xám từ trong miệng hắn vọt ra, cực tốc áp súc, ngưng thành một sợi dây thừng ánh sáng màu xám. Tiếp đó, sợi dây màu xám này giống như linh xà, cực tốc vặn vẹo quấn quýt, trong chớp mắt hóa thành một cái phù văn lập thể vô cùng huyền ảo, nháy mắt ấn vào trong đoàn Tiên Thiên Bất Diệt Linh Quang co duỗi bất định kia.
+Hồng Quân hít sâu vài hơi, há miệng, một luồng hào quang màu xám vọt ra từ miệng gã, bị ép nén cực độ, ngưng tụ thành một sợi dây thừng ánh sáng màu xám. Tiếp đó, sợi dây thừng ánh sáng màu xám này hệt như linh xà, vặn vẹo quấn quýt cực nhanh, thoắt cái đã hóa thành một cái phù lục lập thể vô cùng huyền ảo, trong tích tắc ấn vào bên trong đạo Tiên Thiên Bất Diệt Linh Quang đang co giãn kia.
 
-Theo cái phù văn lập thể huyền ảo này ấn vào bên trong, đạo Tiên Thiên Bất Diệt Linh Quang này sinh ra một loại biến hóa vi diệu nào đó, bề mặt của nó càng xuất hiện hàng chục phù văn nhỏ bé, hình thành một tấm lưới phù văn thô sơ bao bọc lấy Linh Quang.
+Cùng với cái phù lục lập thể huyền ảo đó ấn vào bên trong, đạo Tiên Thiên Bất Diệt Linh Quang này đã nảy sinh một loại biến hóa tinh vi nào đó, bề mặt của nó hiện ra vài chục cái phù lục nhỏ bé, hình thành nên một lớp lưới phù lục thô sơ bao bọc lấy linh quang.
 
-Hồng Quân không dừng lại ở đó, mà há miệng phun ra hết luồng ánh sáng màu xám này đến luồng ánh sáng khác, ngưng thành từng cái phù văn lập thể vô cùng huyền ảo giữa không trung, rồi lại ấn vào trong đạo Tiên Thiên Bất Diệt Linh Quang kia.
+Hồng Quân không hề dừng tay ở đó, mà liên tiếp há miệng phun ra hết luồng hào quang màu xám này đến luồng hào quang màu xám khác, ngưng tụ thành hết cái phù lục lập thể huyền ảo này đến cái phù lục lập thể huyền ảo khác giữa không trung, rồi lần lượt ấn vào bên trong đạo Tiên Thiên Bất Diệt Linh Quang kia.
 
-Mỗi một cái phù văn lập thể ấn vào, tấm lưới phù văn trên bề mặt Linh Quang lại dày đặc thêm một chút, mà mỗi một phù văn xuất hiện, sắc mặt Hồng Quân lại trắng thêm một phần.
+Mỗi một cái phù lục lập thể ấn vào, lớp lưới phù lục trên bề mặt Tiên Thiên Bất Diệt Linh Quang lại dày đặc thêm một chút, mà mỗi một cái phù lục xuất hiện, sắc mặt Hồng Quân lại nhợt nhạt thêm một phần.
 
-Đợi đến khi phù văn thứ tám mươi mốt xuất hiện và ấn vào trong Tiên Thiên Bất Diệt Linh Quang, Hồng Quân đã mặt trắng như tờ giấy, toàn thân run rẩy, mồ hôi đầm đìa, hiển nhiên đã tiêu hao quá mức rồi.
+Đợi đến khi cái phù lục thứ tám mươi mốt xuất hiện và ấn vào bên trong Tiên Thiên Bất Diệt Linh Quang, sắc mặt Hồng Quân đã trắng bệch như tờ giấy, toàn thân run rẩy, mồ hôi đầm đìa, hiển nhiên là đã tiêu hao quá mức.
 
-Lúc này, bề mặt đạo Tiên Thiên Bất Diệt Linh Quang kia đã phủ đầy vô số phù văn huyền ảo khó lường, không ngừng bơi lội, lúc ẩn lúc hiện, giống như một tấm lụa mịn màng bao chặt lấy đạo Linh Quang này.
+Mà lúc này, bề mặt Tiên Thiên Bất Diệt Linh Quang đã phủ kín vô số phù lục huyền ảo khôn lường, không ngừng di động, lúc sáng lúc tối, hệt như một dải lụa mịn màng bao bọc chặt chẽ lấy đạo linh quang này.
 
-Hồng Quân tuy chật vật, nhưng trong mắt lại hiện ra thần thái hưng phấn, há miệng hút một cái, đạo Tiên Thiên Bất Diệt Linh Quang đã bị vô số phù văn bao phủ kia liền mãnh liệt lao tới, chui vào miệng hắn, bị hắn nuốt thẳng vào trong bụng.
+Hồng Quân tuy chật vật, nhưng trong mắt lại hiện ra thần thái hưng phấn, há miệng hút một cái, đạo Tiên Thiên Bất Diệt Linh Quang đã được vô số phù lục bao phủ kia liền mạnh mẽ vọt tới, lao vào miệng gã, bị gã nuốt thẳng vào bụng.
 
-"Đáng tiếc, nếu như có thể một lần ngưng thành ba trăm sáu mươi lăm phù văn, thì đã có thể thu đạo Tiên Thiên Bất Diệt Linh Quang này vào thức hải rồi, hiện giờ chỉ có thể thu vào đan điền." La Phàm tuy ở phía trước, nhưng cảm tri của y đã thu hết mọi hành động của Hồng Quân vào trong mắt, trong lòng thầm cảm thấy đáng tiếc.
+"Đáng tiếc, nếu có thể một lần ngưng tụ ra ba trăm sáu mươi lăm cái phù lục thì đã có thể thu đạo Tiên Thiên Bất Diệt Linh Quang này vào thức hải rồi, giờ thì chỉ có thể thu vào đan điền thôi." La Phàm tuy ở phía trước nhưng cảm quan của hắn đã thu hết mọi hành động của Hồng Quân vào mắt, trong lòng thầm thấy đáng tiếc.
 
-Đồng thời, y cũng biết được công pháp tu luyện trước kia của Hồng Quân thô sơ đến mức nào...
+Đồng thời, hắn cũng biết được bộ công pháp tu luyện trước kia của Hồng Quân thô sơ tới mức nào...
 
-Bàn Cổ Nguyên Linh căn cứ vào "cảm ngộ" trong não mình mà sáng tạo ra pháp quyết vốn dĩ chỉ cần giơ tay phát ra một luồng năng lượng, sau đó dựa theo pháp quyết là có thể đem năng lượng này ngưng thành một phù văn ấn vào trong Linh Quang. Nhưng Hồng Quân cư nhiên ngay cả việc dùng tay phát ra năng lượng cũng làm không được, chỉ có thể há miệng mượn nhờ loại cơ quan thiên sinh thông suốt trong ngoài cơ thể này mới miễn cưỡng phát ra năng lượng.
+Pháp quyết do Bàn Cổ nguyên linh căn cứ vào "thể ngộ" trong não bộ của hắn sáng tạo ra vốn dĩ chỉ cần giơ tay phát ra một luồng năng lượng, sau đó nương theo pháp quyết là có thể ngưng tụ luồng năng lượng này thành một cái phù lục ấn vào bên trong bất diệt linh quang. Nhưng Hồng Quân thế mà ngay cả việc dùng tay phát ra năng lượng cũng không làm nổi, chỉ có thể há miệng mượn nhờ vào cái bộ phận thiên sinh kết nối bên trong và bên ngoài cơ thể này mới miễn cưỡng phát ra được năng lượng.
 
-Hơn nữa, năng lượng hắn phát ra thậm chí còn chỉ là Hỗn Độn Nguyên Khí đã được tinh túy qua một chút — ngay cả loại năng lượng huyền chi hựu huyền mà La Phàm sở hữu trước khi chứng đắc Địa Tiên Đạo Quả cũng không bằng...
+Hơn nữa, luồng năng lượng mà gã phát ra thậm chí còn mới chỉ là hỗn độn nguyên khí được tinh lọc đôi chút — ngay cả loại năng lượng huyền chi hựu huyền mà La Phàm sở hữu trước khi chứng đắc Địa Tiên đạo quả cũng không bằng...
 
-"Xem ra muốn dạy bảo tốt Hồng Quân, quả là một công trình rất lớn rất lớn a..." La Phàm đối với sự vấtả sau này của mình đã có nhận thức sâu sắc hơn.
+"Xem ra muốn dạy dỗ tốt cho Hồng Quân thì đúng là một công trình cực kỳ, cực kỳ lớn đây..." La Phàm có nhận thức sâu sắc hơn về sự vất vả của mình trong tương lai.
 
-La Phàm ở đây nghĩ ngợi những thứ này, phía bên kia Hồng Quân lại đã đầy mặt kích động.
+La Phàm đang mải suy nghĩ những thứ này, thì Hồng Quân ở phía bên kia đã mặt đầy vẻ kích động.
 
-Sau một phen động tác vừa rồi, Tiên Thiên Bất Diệt Linh Quang đã đi vào trong đan điền ở bụng dưới của hắn.
+Sau một hồi hành động vừa rồi, Tiên Thiên Bất Diệt Linh Quang đã tiến vào bên trong đan điền bụng dưới của gã.
 
-Đạo Linh Quang lúc ẩn lúc hiện kia chìm nổi bên trong đan điền của hắn, xoay quanh một đoàn khí lớn màu xám xịt, gần như là màu đen, không ngừng xoay tròn, giống như hành tinh xoay quanh hằng tinh vậy.
+Đạo Tiên Thiên Bất Diệt Linh Quang lúc sáng lúc tối đó đang chìm nổi bên trong đan điền gã, xoay quanh một khối khí đoàn xám xịt, gần như có màu đen, không ngừng quay tròn hệt như hành tinh xoay quanh hằng tinh vậy.
 
-Đoàn khí lớn xám xịt gần như đen này chính là Hỗn Độn Nguyên Khí đã qua áp súc, cũng là thành quả tu hành hơn mười vạn năm qua của Hồng Quân.
+Khối khí đoàn xám xịt gần như có màu đen này chính là hỗn độn nguyên khí đã qua ép nén. Cũng là thành quả tu hành suốt mười mấy vạn năm qua của Hồng Quân.
 
-Đạo Linh Quang kia không ngừng xoay tròn, mỗi khi xoay được một vòng, liền có một tia Hỗn Độn Nguyên Khí từ trong đoàn khí đó tràn ra, dung nhập vào trong những phù văn dày đặc như tơ lụa trên bề mặt Linh Quang, khiến cho tốc độ lưu chuyển của phù văn nhanh thêm một tia...
+Đạo bất diệt linh quang kia không ngừng quay tròn, mỗi khi xoay được một vòng là lại có một sợi hỗn độn nguyên khí tràn ra từ khối khí đoàn đó, hòa nhập vào bên trong lớp phù lục dày đặc như lụa trên bề mặt linh quang, khiến tốc độ lưu chuyển của phù lục tăng nhanh thêm một chút xíu...
 
-"Hồng Quân." La Phàm đã biết trên người Hồng Quân hầu như không có gì là có thể lấy ra được, trong lòng nảy sinh ý nghĩ muốn dạy bảo hắn cho tốt, sau khi tiến lên khoảng triệu dặm, khẽ gọi một tiếng.
+"Hồng Quân." La Phàm đã biết trên người Hồng Quân gần như chẳng có thứ gì có thể lấy ra để nhìn cho được, trong lòng nảy sinh ý định muốn dạy dỗ thật tốt, tiến lên được khoảng triệu dặm, hắn khẽ gọi một tiếng.
 
-"Đồ nhi có mặt." Hồng Quân tuy đang trong lúc kích động, nhưng đối với La Phàm quả thực là kính ngưỡng như trời, vội vàng đáp lời một tiếng.
+"Đồ nhi có mặt." Hồng Quân tuy đang kích động nhưng đối với La Phàm đúng thực là kính ngưỡng hệt như trời xanh, vội vàng đáp lời một tiếng.
 
-"Ngươi hóa hình đến nay đã hơn mười vạn năm, đã từng xuống Bất Chu Sơn chưa?" La Phàm hỏi.
+"Ngươi hóa hình tới nay đã mười mấy vạn năm, đã từng xuống núi Bất Chu chưa?" La Phàm hỏi.
 
-"Chuyện này... đồ nhi hổ thẹn, quả thực chưa từng xuống Bất Chu Sơn..." Hồng Quân cúi đầu, có chút hổ thẹn nói.
+"Cái này... đồ nhi hổ thẹn, quả thực chưa từng xuống núi Bất Chu..." Hồng Quân cúi đầu, có chút hổ thẹn nói.
 
-"Thì ra là thế, xem ra lần này là lần đầu tiên ngươi rời khỏi Bất Chu Sơn rồi, cũng được, vi sư liền đưa ngươi đi xem đại địa Hồng Hoang này vậy." La Phàm quay đầu liếc nhìn Hồng Quân một cái, nói.
+"Hóa ra là vậy, xem ra lần này là lần đầu tiên ngươi rời khỏi núi Bất Chu rồi, thôi được, vi sư liền dẫn ngươi đi xem đại địa Hồng Hoang này vậy." La Phàm quay đầu liếc nhìn Hồng Quân một cái, nói.
 
-"Đa tạ sư tôn." Hồng Quân tuy không biết ý của La Phàm là gì, nhưng vẫn khom người tạ ơn.
+"Đa tạ sư tôn." Hồng Quân tuy không rõ ý của La Phàm là gì, nhưng vẫn cúi người tạ ơn.
 
-La Phàm lắc đầu, tâm thần khẽ động, đóa tường vân này liền thay đổi phương hướng, từ bay ngang chuyển sang bay chéo xuống dưới, trong chớp mắt đã xé mở rào chắn giữa tầng thứ hai và tầng thứ ba của tầng Cương Phong Lôi Hỏa, trước khi hầu hết các sinh mệnh dạng mây kịp phản ứng, đã xé mở rào chắn giữa tầng thứ nhất và tầng thứ hai, tiến vào tầng thứ nhất của tầng Cương Phong Lôi Hỏa.
+La Phàm lắc đầu, tâm thần khẽ động, đóa tường vân này liền thay đổi phương hướng, từ đi ngang chuyển sang bay chéo xuống dưới, thoắt cái đã xé toạc lớp bình chướng giữa tầng thứ hai và tầng thứ ba của Cương Phong Lôi Hỏa, trước khi gần như mọi sinh mệnh thể dạng mây kịp phản ứng đã xé toạc lớp bình chướng giữa tầng thứ nhất và tầng thứ hai, tiến vào tầng thứ nhất của Cương Phong Lôi Hỏa.
 
-Sau khi vào tầng thứ nhất, La Phàm giơ tay vẩy một cái, xung quanh tường vân này giống như hình thành một cái lồng bao bọc, cách tuyệt tất cả cương phong, lôi, hỏa, khiến nó không phải chịu bất kỳ sự công kích nào mà xông qua tầng thứ nhất, trở lại giữa trời đất Hồng Hoang.
+Sau khi tiến vào tầng thứ nhất, La Phàm giơ tay phất một cái, xung quanh đóa tường vân này hệt như hình thành một lớp lồng bao bọc, cách tuyệt tất thảy cương phong, lôi, hỏa, khiến cho nó không chịu bất kỳ sự tấn công nào mà lao qua tầng thứ nhất của Cương Phong Lôi Hỏa, quay trở lại giữa thiên địa Hồng Hoang.
 
-Bầu trời xanh thẳm, những đám mây trắng trôi bồng bềnh, đại địa vô tận đập vào mắt.
+Bầu trời xanh biếc, những đám mây trắng trôi bồng bềnh, đại địa vô tận hiện ra trong tầm mắt.

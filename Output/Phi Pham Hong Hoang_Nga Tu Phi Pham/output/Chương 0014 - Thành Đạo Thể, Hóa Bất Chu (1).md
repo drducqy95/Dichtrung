@@ -1,91 +1,73 @@
-# Chương 0014 - Thành Đạo Thể, Hóa Bất Chu (1)
+# Chương 14: Thành Đạo Thể, Hóa Bất Chu (1)
 
-Tinh không vô tận, nhưng ở phương hướng thẳng đứng lại hoàn toàn soi rọi trong ý niệm của La Phàm, được hắn cảm tri được theo một phương thức huyền diệu nào đó.
+Toàn bộ tâm thần La Phàm đang ở trong một trạng thái huyền diệu, trên, dưới, trái, phải, trước, sau, ở mọi phương hướng, trong vùng khu vực hình cầu phạm vi vạn dặm, tất thảy mọi sự vật, mọi cảnh tượng đều được soi rọi trong ý niệm của hắn, tỉ mỉ không sót một chi tiết nào, sống động như thật.
 
-Chỉ là, cũng chỉ dừng lại ở đó mà thôi. Sau khi dùng cảm tri huyền diệu bao phủ toàn bộ tinh không theo phương thẳng đứng, bất luận năng lực cảm tri của hắn tiến bộ thế nào, phạm vi cảm tri cũng không hề có thêm một chút nâng cao nào nữa, cứ thế ngưng trệ tại đó!
+Tầng Cương Phong Lôi Hỏa nằm ở độ cao từ chín vạn dặm so với mặt đất trở lên, tổng cộng chia làm chín tầng, cứ mỗi ngàn dặm chia làm một tầng, tổng cộng dày chín ngàn dặm.
 
-Ngụ ý là, cho dù Thức Hải hình vòm trời trong não hải hắn đã đạt tới độ dày ba ngàn dặm theo phương thẳng đứng, cảnh tượng có thể soi rọi trong ý niệm cũng tăng lên đến hơn ba vạn dặm, thì cảnh tượng đó cũng chỉ dừng lại ở tận cùng của bầu trời sao này. Còn phía trên đó rốt cuộc là tình hình thế nào, liệu có còn là tinh không vô tận, liệu có phải là một vùng thiên địa nào khác, hay đơn giản là một vùng hư vô, thậm chí là vô số thế giới, hắn đều hoàn toàn không hay biết.
+Vị trí hiện tại của La Phàm là ở nơi tầng Cương Phong Lôi Hỏa vừa thoát ly tầng thứ hai để tiến vào tầng thứ ba, tức là ở độ sâu hai ngàn dặm trong tầng Cương Phong Lôi Hỏa.
 
-Tình huống quái dị mà huyền diệu này mặc dù ẩn chứa bí ẩn vô cùng, nếu thực sự làm sáng tỏ, chắc chắn có thể khiến tu vi của hắn tiến bộ một bước dài, nhưng lúc này không phải lúc.
+Ở vị trí này, dùng ý niệm để soi rọi mọi phương hướng trên, dưới, trái, phải, trước, sau trong phạm vi vạn dặm, thực tế là đã bao trọn toàn bộ tầng Cương Phong Lôi Hỏa theo phương thẳng đứng!
 
-Đừng quên, hiện tại trong Nê Hoàn cung của La Phàm đang xảy ra sự biến đổi nghiêng trời lệch đất!
+Ngay vào khoảnh khắc trạng thái huyền diệu này xuất hiện, La Phàm đã có một cái nhìn vĩ mô về sự phân bố của tầng Cương Phong Lôi Hỏa.
 
-Ngọn núi Bất Chu do thần hồn hóa thành không ngừng bành trướng, liên tục đánh tan lớp vật chất xám xịt xung quanh, làm lớn mạnh Thức Hải hình vòm trời này.
+Tầng thứ nhất của Cương Phong Lôi Hỏa, tức là khoảng cách từ chín vạn dặm đến chín vạn một ngàn dặm so với mặt đất, toàn bộ tầng cấp này tràn ngập các loại cương phong, lôi, hỏa mang đủ loại đặc tính tồn tại, chứa đựng uy lực vô cùng, lại rực rỡ vô cùng, nguy hiểm khôn cùng! Những cương phong, lôi, hỏa này vốn tĩnh lặng như nước, nhưng nếu có bất kỳ vật chất ngoại lai nào tiến vào, sẽ lập tức gây ra những biến hóa giống như phản ứng hóa học, trong tích tắc trở nên bạo ngược, tạo ra sức phá hoại vô cùng, điên cuồng tấn công những vật chất ngoại lai xâm nhập này, không chết không thôi! Từ phía dưới nhìn lên, tầng Cương Phong Lôi Hỏa này và khoảng không bầu trời bên dưới cách nhau bởi một sắc xanh da trời. Đó chính là màu sắc của bầu trời khi ngước nhìn từ mặt đất.
 
-Rắc... rắc... xì xì... xì xì...
+Tầng thứ hai của Cương Phong Lôi Hỏa, toàn bộ tầng cấp tràn ngập vô số sinh mệnh thể có hình dạng đám mây, sở hữu bản năng đơn giản, được ngưng tụ từ các loại cương phong, lôi, hỏa! Loại sinh mệnh thể này sở hữu tính bài ngoại cực kỳ mãnh liệt, chỉ cần cảm ứng thấy có vật ngoại lai xâm nhập vào tầng cấp này, chúng sẽ lớp sau nối tiếp lớp trước, bất chấp tất cả mà tấn công kẻ xâm nhập, cho đến khi bản thân bị hủy diệt hoặc kẻ xâm nhập bị hủy diệt! Uy lực của chúng mạnh hơn nhiều so với cương phong, lôi, hỏa trong tầng thứ nhất. Từ phía dưới nhìn lên ranh giới giữa tầng thứ nhất và tầng cấp này lại là màu xanh đậm.
 
-Những tiếng động giòn giã ngày càng lớn truyền vào trong ý niệm của hắn, đánh nát những cảnh tượng soi rọi ngày càng rộng lớn kia thành vô số mảnh vụn, khiến hắn không thể duy trì loại cảm tri thần bí đó nữa. Toàn bộ tâm thần ý niệm dần dần bị lấp đầy bởi đủ loại âm thanh ngày càng lớn lao, ngày càng dồn dập này.
+Tầng thứ ba của Cương Phong Lôi Hỏa, toàn bộ tầng cấp tràn ngập những sinh mệnh thể dạng mây được ngưng tụ đậm đặc hơn, kích thước nhỏ hơn, bản năng phức tạp hơn so với tầng thứ hai! Đặc tính của loại sinh mệnh thể này tương tự như sinh mệnh thể tầng thứ hai, chỉ là thông minh hơn, biết cách từ bỏ hơn. Từ phía dưới nhìn lên ranh giới giữa tầng thứ hai và tầng này lại là màu đen!
 
-Toàn bộ suy nghĩ cũng vì vậy mà dần trở nên trống rỗng.
+Từ tầng thứ ba của Cương Phong Lôi Hỏa cho đến tầng thứ chín cao nhất không hề có bất kỳ lớp bình chướng hữu hình nào.
 
-Không biết đã trôi qua bao lâu, toàn bộ thiên địa dường như xảy ra một đợt chấn động dữ dội.
+Giữa các tầng cấp không có ranh giới ngăn cách có thể nhìn thấy bằng mắt thường, nhưng chúng lại không hề trộn lẫn với nhau, mà bị tách biệt dưới một loại sức mạnh vô hình nào đó. Ở các tầng cấp từ đây trở lên, cương phong, lôi, hỏa trong mỗi tầng đã ngưng tụ thành các sinh mệnh thể theo đủ loại tỉ lệ khác nhau. Từ tầng thứ tư trở lên, hình thái của những sinh mệnh thể này không còn là hình dạng đám mây nữa. Mà tùy theo tỉ lệ cấu thành, tùy theo năng lượng cấu thành mà hóa thành đủ loại hình thái sinh vật, như: đầu sói mình hổ, đầu chó mình chim, bảy tay tám chân, chín đầu mười đuôi, không mắt không tai... vân vân và vân vân, đủ loại sinh vật muôn hình vạn trạng, kỳ quái khó lường!
 
-Sự trống rỗng vô cùng tận trong suy nghĩ dần dần sụp đổ và vỡ tan dưới sự chấn động dữ dội này.
+Càng lên tầng cấp cao hơn, hình thái của các sinh mệnh thể này càng đa dạng, bản năng sinh mệnh càng thêm phức tạp, và cũng càng thêm cường hãn.
 
-After đập tan sự trống rỗng đó, hắn chỉ cảm thấy bản thân đã biến hóa thành một tồn tại vô cùng mạnh mẽ. Một luồng khí tức thương mang bất khuất cuộn trào trong sâu thẳm nội tâm, dường như chỉ cần giơ tay nhấc chân đều có thể nghiền nát thiên địa, nghiền nát hư không!
+Cho đến tầng thứ chín, những sinh mệnh thể này đã hình thành vô số chủng quần! Tấn công lẫn nhau, nuốt chửng lẫn nhau, bản năng sinh mệnh của chúng từ lâu đã tiến hóa thành trí tuệ, thậm chí đã vượt qua cả người thường, đã có thể lĩnh ngộ công pháp, cầu tiên liễu đạo! Không còn là nơi tràn ngập nguy hiểm, tràn ngập hoang vu như các tầng bên dưới, mà là một thế giới kỳ lạ rực rỡ, hùng vĩ tráng lệ!
 
-Cảm nhận kỹ lại, lòng hắn lập tức tràn đầy sự chấn kinh vô cùng.
+Có thể nói, sự biến hóa của các sinh mệnh thể trong chín tầng Cương Phong Lôi Hỏa này đã thể hiện sự diễn hóa của sinh mệnh một cách trực quan nhất!
 
-"Thì ra, công hiệu thực sự của bộ công pháp vô danh này lại là như thế này!" Trong lòng La Phàm chỉ có duy nhất một ý niệm như tiếng sét đánh cuộn trào không ngớt.
+Quan sát cấu tạo của chín tầng Cương Phong Lôi Hỏa này, La Phàm có chút sở ngộ.
 
-Bởi vì, ngay tại lúc này, hắn cảm thấy bản thân đã hóa thân thành núi Bất Chu! Không phải là cột trụ trời Tây Bắc ở thiên địa Hồng Hoang ngoài kia, mà là núi Bất Chu do thần hồn hắn hóa thành trong không gian Thức Hải!
+Lúc này, vùng hư không hình cầu được bao bọc bởi vật chất xám xịt trong Cung Nê Hoàn của hắn đã hoàn toàn biến dạng, biến thành một cái vòm trời — tức là hình dạng một cái nắp hình bán cầu!
 
-Ngọn núi Bất Chu này cứ như là cơ thể của hắn vậy, sừng sững ở chính giữa hư không Thức Hải.
+Ngọn núi Bất Chu do thần hồn hóa thành đang nằm ở ngay chính giữa vòm trời này, phía dưới sừng sững trên mặt phẳng hệt như đại địa ở đáy vòm trời, giống như lão thụ bàn căn, không ngừng lan tỏa về phía toàn bộ mặt phẳng đáy, phạm vi ảnh hưởng ngày càng rộng, đến lúc này đã chiếm hơn nửa mặt phẳng đáy, khiến toàn bộ mặt phẳng đáy trở nên nhấp nhô cao thấp, lồi lõm gập ghềnh, dần dần hình thành nên dáng dấp của một mảnh đại địa hoàn chỉnh sở hữu đủ loại địa hình.
 
-Mà hư không Thức Hải này từ lúc nào đã biến thành một thế giới, biến thành một thế giới trời tròn đất vuông có diện tích bốn vạn chín ngàn dặm vuông, độ cao đủ bốn ngàn chín trăm dặm! Hay nói cách khác là một thế giới có hình dáng như một vòm trời lớn!
+Còn phía trên, đỉnh của ngọn núi Bất Chu này chống lấy điểm cao nhất của vòm trời, theo sự phình to của nó mà không ngừng chống đỡ đi lên. Vật chất xám xịt bao phủ vùng hư không hình vòm trời này dưới sự chống đỡ mãnh liệt của núi Bất Chu, chẳng hề có chút năng lượng phản kháng hay ngăn cản nào mà cuộn trào, vỡ nát, vô số xoáy nước nảy sinh ở rìa những vật chất này, từng vùng hư không nảy sinh ở tâm các xoáy nước! Sụp đổ! Rồi lại hòa vào vùng hư không hình vòm trời bên dưới, không ngừng làm tăng thêm kích thước của vòm trời này!
 
-Trong thế giới này, thần hồn của hắn hóa thân thành hình dáng núi Bất Chu sừng sững ở chính giữa. Chân núi vững vàng bám chặt mặt đất, gắn kết chặt chẽ với từng tấc không gian của toàn bộ mặt đất.
+Và ngay vào khoảnh khắc La Phàm có chút sở ngộ, hình thái núi Bất Chu do thần hồn hóa thành dường như đã nảy sinh một chút thay đổi nhỏ.
 
-Đỉnh núi chống lấy bầu trời của thế giới này, tựa như cột trụ chống trời, trở thành sự chống đỡ cho cả thiên địa.
+Sự thay đổi này vô cùng nhỏ bé, nhỏ đến mức ngay cả bản thân La Phàm cũng căn bản không tìm thấy cụ thể chỗ nào đã thay đổi.
 
-Áp lực vô cùng vô tận từ hai hướng trên và dưới ép mạnh về phía hắn. Luồng áp lực đó mạnh đến mức giống như có vô số ngọn đại sơn từ độ cao vạn dặm thình lình rơi xuống, nặng nề đến mức không thể tưởng tượng nổi.
+Mà kết quả của sự thay đổi này chính là, toàn bộ núi Bất Chu dường như đã rõ nét thêm đôi chút so với trước kia... Sự thay đổi này vô cùng quỷ dị, nếu không có chút thay đổi này, La Phàm thậm chí còn không biết rằng ngọn núi Bất Chu do thần hồn hóa thành này thế mà vẫn có thể tiếp tục rõ nét thêm được nữa!
 
-Nhưng những thứ này lại không thể gây ra chút ảnh hưởng nào đối với hắn!
+Đồng thời, tốc độ phình to của núi Bất Chu cũng tăng nhanh thêm đôi chút!
 
-Trong tâm thần của hắn tràn ngập luồng khí tức thương mang bất khuất kia, một luồng hào hùng có kiểu 'trời sập xuống ta cũng phải chống nó trở về'!
+Thoắt cái, toàn bộ vùng hư không hình vòm trời — tức là kích thước thức hải, đã dày thêm tới độ cao hai ngàn dặm!
 
-Thứ áp lực khủng bố từ hai hướng trên dưới tấn công về phía hắn, dưới luồng khí tức thương mang bất khuất này, bên trong ý chí hào hùng chống đỡ thiên địa này, ngược lại lại trở nên vừa vặn, không khiến hắn cảm thấy có sức mà không có chỗ dùng, cũng không khiến hắn cảm thấy không thể chịu nổi!
+Vô số tiếng sấm nổ vang rền khắp não bộ La Phàm, lấp đầy ý niệm của hắn.
 
-"Bàn Cổ khai thiên, ta là xương sống, đỉnh thiên lập địa, ta là Bất Chu... Mười sáu chữ này... hóa ra là có ý nghĩa như vậy..." Sau ý niệm vừa rồi, lại có một ý niệm khác xuất hiện trong tâm thần ý niệm của hắn.
+Đi kèm theo đó là một cảm giác cực kỳ tự tin, cực kỳ thỏa mãn!
 
-Dùng tầm mắt của núi Bất Chu để quan sát toàn bộ thiên địa, hết thảy của thiên địa đều thu vào trong mắt.
+Theo sự phình to của núi Bất Chu, mỗi thời mỗi khắc hắn đều cảm thấy thần hồn của mình đang không ngừng lớn mạnh, cảm thấy tâm thần của mình đang không ngừng được gột rửa, cảm thấy ý chí của mình đang không ngừng kiên định.
 
-Mặt đất lồi lõm không bằng phẳng, nhấp nhô bất định, nhìn qua thì có vẻ hỗn loạn, nhưng lại ẩn chứa một quy luật vô cùng huyền ảo nào đó, kết hợp cùng toàn bộ núi Bất Chu, giống hệt như một mảnh đại địa chân thực.
+Đồng thời, những cảnh tượng soi rọi trong ý niệm của hắn cũng càng lúc càng rộng, từ vạn dặm ban đầu không ngừng mở rộng ra, đến khi vòm trời đó đạt tới độ cao hai ngàn dặm, phạm vi soi rọi của ý niệm này đã mở rộng tới hai vạn dặm!
 
-Bầu trời lại là một mảnh xám xịt, tựa như ở ngay trước mắt mình, cuộn trào, vỡ nát, giống như có vô số tầng mây che phủ toàn bộ bầu trời vậy.
+Vùng khu vực hình cầu phạm vi hai vạn dặm ở mọi phương hướng trên, dưới, trái, phải, trước, sau từ lâu đã bao trọn toàn bộ tầng Cương Phong Lôi Hỏa theo phương thẳng đứng, thậm chí phía dưới đã kéo dài tới dưới hàng trăm lớp mây tầng!
 
-Bầu trời như vậy, đại địa như vậy, khiến toàn bộ thiên địa hiện ra vẻ vô cùng hoang lương...
+Thế nhưng, tình hình phía trên lại nằm ngoài dự liệu của hắn.
 
-Chỉ là, sự phát triển của sự việc đã không để cho La Phàm có quá nhiều thời gian để cảm nhận cái thế giới Thức Hải hoang lương và kỳ dị như thế này.
+Chín tầng Cương Phong Lôi Hỏa tổng cộng chín ngàn dặm, đi lên phía trên nữa là một bức màn trời vô tận.
 
-Đột nhiên, ngọn núi Bất Chu do thần hồn hắn hóa thành rung động dữ dội, vô số hư ảnh từ trong ngọn núi Bất Chu này bắn vọt ra như đạn súng máy!
+Hay nói cách khác, đó là một bầu trời sao vô tận!
 
-Những hư ảnh này sau khi rời khỏi ngọn núi Bất Chu do thần hồn hóa thành liền lập tức thu nhỏ lại, từ trạng thái đỉnh thiên lập địa ban đầu chớp mắt biến thành những hạt nhỏ như hạt gạo.
+Trong bầu trời sao này lại không phải tất cả đều là tinh thần, giữa vô lượng tinh thần đó vẫn còn có hàng trăm mảnh đại địa hệt như đang lơ lửng trong bầu trời sao, nhìn thì có vẻ nhỏ bé vô cùng, nhưng thực tế lại là những mảnh đại địa rộng lớn vô cùng!
 
-Sự phun trào của hư ảnh này kéo dài rất lâu, số lượng hư ảnh phun ra vượt quá ức vạn (trăm triệu) mới dừng lại.
+Hay nói cách khác, thiên địa!
 
-Ức vạn hư ảnh này không ngừng ngưng tụ, cuối cùng hóa thành một luồng khí lưu màu nâu xám như đất đá, bên trong thế giới Thức Hải được khai tịch này giống như một sợi tơ nhỏ bé, hiện ra vẻ không đáng kể chút nào.
+Bên trong những thiên địa này, hệt như thiên địa Hồng Hoang, có đủ loại cảnh sắc muôn hình vạn trạng. Do năng lượng cảm nhận có hạn, La Phàm không cách nào nhìn rõ cảnh tượng bên trong những thiên địa này. Chỉ biết rằng những thiên địa này dường như đang chậm rãi lưu chuyển xoay quanh núi Bất Chu theo một quy luật vô cùng huyền diệu nào đó.
 
-"Phù lục!" Trong lòng La Phàm vô cùng kinh ngạc, đồng thời lại càng vui mừng khôn xiết.
+Quỷ dị ở chỗ, bầu trời sao này nhìn thì có vẻ vô tận, rộng lớn vô cùng, liếc mắt không thấy biên giới, nhưng cái cảm quan vốn chỉ có thể soi rọi phạm vi vạn dặm ở các phương hướng xung quanh của La Phàm lúc này lại cũng có thể soi rọi cả bầu trời sao rộng lớn vô cùng này theo phương thẳng đứng vào trong ý niệm...
 
-Bởi vì hắn cảm giác được, những hư ảnh núi Bất Chu này đều do từng cái phù lục lập thể phức tạp đến mức khiến người bình thường nhìn vào là tinh thần sụp đổ hóa thành. Cái hư ảnh núi Bất Chu kia chẳng qua chỉ là hình dạng của phù lục này mà thôi!
+Tình trạng đó hệt như dùng kính viễn vọng để nhìn một sự vật ở xa vậy, tuy biết rõ sự vật đó cách mình rất xa, tuy biết rằng sự vật đó lẽ ra mình không nhìn thấy được, nhưng nhờ vào kính viễn vọng, sự vật đó lại hiện ra ngay trước mắt!
 
-Mà cấu thành nên những phù lục này đều là một loại năng lượng vô cùng huyền diệu! Độ tinh thuần, độ ngưng tụ của nó so với luồng năng lượng huyền chi hựu huyền trong cơ thể La Phàm trước kia còn mạnh hơn gấp trăm lần trở lên!
-
-Luồng khí lưu do ức vạn phù lục cấu thành này du ngoạn trong thế giới Thức Hải, giống như một đạo sinh linh sống động, vô cùng linh hoạt, vô cùng phiêu dật. Hơn nữa nó hoàn toàn nằm dưới sự khống chế của La Phàm, mức độ khống chế đó thậm chí đạt đến trình độ sâu sắc tới từng cái phù lục.
-
-Cùng với sự khống chế đối với khí lưu này ngày càng sâu sắc, đột nhiên, não hải của hắn bỗng nhiên rung động, lại có một đoạn thông tin từ sâu trong não hải vọt ra. Văn tự được sử dụng vẫn là loại văn tự cực kỳ phức tạp nhưng lại ẩn chứa thông tin vô cùng tận dùng để ghi chép công pháp vô danh kia.
-
-"Đây chính là cái gọi là 'Pháp lực' sao..." Hắn ngay lập tức nảy sinh minh ngộ như vậy.
-
-Theo sự xuất hiện của minh ngộ này, luồng pháp lực kia đột nhiên rung lên, vọt vào một vị trí vô cùng thần bí trong thế giới Thức Hải, nháy mắt biến mất trong thế giới Thức Hải này.
-
-La Phàm đối với hết thảy trong thế giới Thức Hải này đều vô cùng rõ ràng, nháy mắt hiểu ra vị trí thần bí đó chính là điểm liên kết giữa Thức Hải và cơ thể. Ý niệm xông lên, cũng thuận theo vị trí thần bí đó xông ra khỏi Thức Hải, đi vào trong cơ thể hắn. Cảm giác của toàn bộ cơ thể, tình hình bên trong và bên ngoài cơ thể nháy mắt tràn ngập vào ý niệm của hắn.
-
-Luồng pháp lực kia lúc này đã vọt vào trong các kinh mạch to bằng cái bát của hắn.
-
-Luồng pháp lực này mặc dù nhỏ bé, gần như không lớn hơn sợi tóc là mấy, nhưng uy lực lại vô cùng khủng bố. Những kinh mạch to bằng cái bát này sau khi luồng pháp lực này đi vào, cư nhiên không thể chịu đựng nổi, trong nháy mắt đã vỡ vụn từng mảnh, nát bấy từng sợi!
-
-Tiếp đó, càng có một lực hút vô cùng mạnh mẽ sinh ra từ trên người hắn, xâu xé hết thảy năng lượng xung quanh, không ngừng hút những năng lượng này vào trong cơ thể hắn.
-
-Vị trí của hắn lúc này đang ở tầng thứ ba của Cương Phong Lôi Hỏa. Luồng sức mạnh xâu xé khủng bố như vậy xuất hiện, nháy mắt toàn bộ tầng Cương Phong Lôi Hỏa đã đưa ra phản ứng. Từng đầu từng đầu sinh mệnh thể hình mây khói đủ loại màu sắc giống như đã phát hiện ra mục tiêu, điên cuồng lao thẳng về phía hắn!
+La Phàm lúc này chính là ở vào tình trạng như vậy.

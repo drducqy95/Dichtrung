@@ -1,59 +1,73 @@
-# Chương 0017 - Thành Đạo Thể, Hóa Bất Chu (4)
+# Chương 17: Thành Đạo Thể, Hóa Bất Chu (4)
 
-Quá trình hủy diệt và tái sinh không ngừng lặp lại trong vòng xoáy Cương Phong Lôi Hỏa ngũ sắc rực rỡ kia.
+Chất lượng của hỗn độn nguyên khí cao hơn vô số lần so với tiên thiên nguyên khí đang tràn ngập thiên địa Hồng Hoang, nhưng lượng hỗn độn nguyên khí khổng lồ này tràn vào bên trong luồng pháp lực kia thế mà ngay cả một gợn sóng cũng không hề dấy lên, hoàn toàn hệt như giọt nước rơi vào biển cả vậy, không một tiếng động!
 
-Mỗi khi một khối huyết thịt bị đánh tan thành bụi bặm, dưới sự dẫn dắt của sợi pháp lực nhỏ bé như sợi tóc và cột hỗn độn nguyên khí tinh thuần, những hạt bụi đó lại mang theo một chút tinh hoa của Cương Phong, Sét và Lửa mà tái tổ hợp.
+Ầm ầm ầm... Rắc rắc rắc rắc... Rắc rắc... Xì xì xì xì... Phập phập phập phập...
 
-Đây là một quá trình thối luyện vô cùng tàn khốc nhưng cũng tràn đầy tạo hóa.
+Trong cái xoáy nước ngũ sắc rực rỡ này, vô số âm thanh quái dị vang lên thành một mảnh. Cương phong, lôi, hỏa bạo liệt không ngừng đánh nát những phần huyết nhục được ngưng tụ từ lớp bụi mịn của cơ thể La Phàm, loại bỏ những phần không đủ dẻo dai trong đó, chỉ để lại một phần mười triệu huyết nhục đủ dẻo dai, đủ cường hãn ngưng tụ xung quanh pháp lực, không ngừng tích lũy lại.
 
-Cương Phong Lôi Hỏa ở tầng thứ hai và thứ ba vốn mang theo sức phá hoại hủy thiên diệt địa, nhưng lúc này, dưới sự vận hành của Vô Danh Công Pháp, chúng dường như đã biến thành những chiếc búa tạ và lò lửa của một thợ rèn bậc thầy, không ngừng nện xuống và nung nấu cơ thể La Phàm.
+Thời gian chậm rãi trôi qua.
 
-Phần huyết thịt yếu ớt bị loại bỏ, phần tạp chất bị thiêu rụi. Thứ còn sót lại và ngưng kết thành hình chính là những gì tinh túy nhất, kiên cố nhất.
+Tích tiểu thành đại, góp gió thành bão. Những huyết nhục ngưng tụ quanh pháp lực tuy mỗi lần chỉ để lại một phần mười triệu, nhưng thắng ở chỗ liên miên bất tuyệt, không ngừng tăng thêm.
 
-Tâm thần của La Phàm đắm chìm trong một trạng thái vô cùng kỳ diệu. Hắn dường như có thể cảm nhận được cấu trúc vi mô nhất của sự sống, nhìn thấy sự đan xen của những đạo pháp tắc thiên địa trong từng tế bào mới được hình thành.
+Bảy ngày bảy đêm sau, những huyết nhục tích tụ từng chút từng chút một này đã hình thành nên một hình hài cơ thể máu me nhễ nhại, bao bọc xung quanh luồng pháp lực đang vận chuyển theo quỹ đạo huyền ảo khó lường kia, tạo thành một thân hình vô cùng quái dị!
 
-Cột hỗn độn nguyên khí xám xịt từ địa huyệt núi Bất Chu phóng lên vẫn không ngừng rót vào. Hỗn độn nguyên khí là mẹ của vạn vật, chứa đựng khả năng biến hóa vô cùng vô tận. Dưới sự dung hợp của nó, cơ thể La Phàm bắt đầu thoát ly khỏi hình dạng Tỳ Hưu vốn có.
+Giữa xoáy nước ngũ sắc, những cương phong, lôi, hỏa ngưng tụ cực độ, có thể khiến không gian hơi vặn vẹo kia không ngừng oanh kích lên lớp huyết nhục này, nhưng lại chỉ có thể mang theo chút bụi mịn, sự ảnh hưởng đối với lớp huyết nhục này so với thời điểm ban đầu hoàn toàn là hai thái cực.
 
-Đầu rồng, thân ngựa, chân lân... những đặc điểm thú tính ấy dần dần mờ nhạt đi, thay vào đó là một cấu trúc cơ thể hoàn toàn mới, một cấu trúc phù hợp nhất với việc cảm ngộ đại đạo và vận hành pháp lực.
+Thân hình được tích tụ chậm rãi qua bảy ngày bảy đêm này cao tầm một mét tám, thân hình thon dài, tỉ lệ ngũ thể cân đối. Tuy tổng thể máu me nhễ nhại hệt như không có da vậy, nhưng lại có thể nhìn ra, đó là một dáng vẻ mà La Phàm vô cùng quen thuộc!
 
-Đó chính là Tiên Thiên Đạo Thể!
+Một loại hình dáng sinh vật mà ở trái đất thế kỷ 21 có thể tính bằng con số hàng tỷ, nhưng ở thế giới Hồng Hoang này lại chưa từng xuất hiện bao giờ — hình dáng của nhân loại!
 
-Trong Hồng Hoang thiên địa, Tiên Thiên Đạo Thể là hình thái cơ thể gần gũi nhất với bản thể của Bàn Cổ khi khai thiên tịch địa. Nó không chỉ đơn thuần là hình dáng con người, mà là một loại kết cấu hoàn hảo nhất để chứa đựng và lưu chuyển năng lượng của trời đất.
+Mà lúc này, cột hỗn độn nguyên khí vọt lên từ địa huyệt phía dưới hệt như một cơn lốc xoáy bao trọn lấy thân hình máu me của La Phàm.
 
-Thời gian trong vòng xoáy dường như đã mất đi ý nghĩa.
+Thân hình này tỏa ra một luồng sức mạnh xâu xé vô cùng khủng khiếp, điên cuồng xâu xé tất thảy nguyên khí xung quanh! Hỗn độn nguyên khí hệt như cơn lốc dưới luồng sức mạnh xâu xé khủng khiếp này hệt như gặp phải hố đen vậy, chẳng có chút năng lượng phản kháng nào mà lao thẳng vào bên trong, không một tiếng động chìm nghỉm vào trong thân hình này.
 
-Sợi pháp lực nhỏ như sợi tóc kia sau khi hấp thụ lượng lớn hỗn độn nguyên khí và tinh hoa của Cương Phong Lôi Hỏa, bắt đầu lớn mạnh dần lên. Từ kích thước sợi tóc, nó dần dần trở nên to bằng sợi chỉ, rồi bằng sợi dây thừng nhỏ, tỏa ra ánh sáng xám mờ mịt nhưng vô cùng uy nghiêm.
+Bất kể bao nhiêu hỗn độn nguyên khí, bất kể chúng lao tới nhanh ra sao, sức xung kích lớn thế nào, sau khi tiến vào cái thân hình máu me nhễ nhại kia đều hệt như trăm sông đổ về biển lớn, không có lấy một chút hỗn độn nguyên khí nào có thể thoát ra ngoài sau khi đã lao vào trong đó!
 
-Sức mạnh bạo loạn của Cương Phong Lôi Hỏa xung quanh bắt đầu yếu dần đi. Không phải vì chúng giảm bớt uy lực, mà là vì chúng đã bị cơ thể mới của La Phàm hấp thu và thuần hóa một phần lớn.
+Huyết nhục vẫn có thể ngưng tụ lại sau khi trải qua bảy ngày bảy đêm tôi luyện trong tầng cương phong, lôi, hỏa đương nhiên là dẻo dai tới cực điểm. Dưới sự nhào nặn của một loại quy tắc huyền bí nào đó, bên trong thân hình này, xương cốt, kinh mạch, cơ bắp, nội tạng, mạch máu... vân vân và vân vân, thảy những cơ quan, bộ phận mà nhân loại sở hữu đều hiện rõ mồn một!
 
-Vòng xoáy ngũ sắc che trời lấp đất bắt đầu thu nhỏ lại, trung tâm của nó là một khối ánh sáng rực rỡ đang tỏa ra hơi thở chấn nhiếp linh hồn.
+Những xương cốt, kinh mạch, cơ bắp, nội tạng, mạch máu vân vân được hình thành dưới tác dụng của quy tắc huyền bí này nhìn thì có vẻ đơn giản, nhưng thảy đều có chút khác biệt nhỏ so với cơ thể người trước khi La Phàm xuyên không.
 
-Đột nhiên, một tiếng nổ vang rền từ sâu trong linh hồn La Phàm truyền ra.
+Bất kể là chiều dài xương cốt, hay là sự phân bố kinh mạch, hay là vị trí và kết cấu nội tạng, hay là sự phân nhánh mạch máu, phương thức liên kết cơ bắp vân vân và vân vân, gần như mọi bộ phận có thể tìm thấy trên cơ thể người đều có một chút khác biệt tinh vi. Không nhiều, thậm chí tinh vi đến mức chỉ nhìn qua là có thể bỏ qua sự khác biệt này.
 
-Mọi Cương Phong, Sét và Lửa trong phạm vi vạn dặm dường như bị một luồng sức mạnh vô hình đẩy lùi, trong chớp mắt bị dẹp yên.
+Nhưng, chính chút khác biệt tinh vi tới cực điểm này, chính loại khác biệt mà thoạt nhìn sẽ bỏ qua này đã khiến bản chất của thân hình này có một sự thăng hoa không thể tưởng tượng nổi! Khiến nhục thân này nhìn thì giống cơ thể người, nhưng lại huyền diệu hơn gấp ngàn vạn lần so với nhục thân Tỳ Hưu vốn có kết cấu còn vượt xa cơ thể người trước kia!
 
-Bầu trời trở lại vẻ thanh bình vốn có, nhưng ở trung tâm vị trí cũ, một bóng người đang lặng lẽ đứng sững giữa tầng không.
+Hơn nữa, thân hình này lại càng phù hợp với một loại Đạo huyền chi hựu huyền nào đó trong cõi u minh!
 
-Đó là một nam tử trẻ tuổi với mái tóc đen dài xõa xuống vai, gương mặt mang theo nét thanh tú nhưng vô cùng kiên định, đôi mắt sâu thẳm như chứa đựng cả tinh không bao la. Cơ thể hắn cân đối một cách hoàn mỹ, mỗi một đường nét đều toát lên vẻ huyền diệu của đạo. Làn da hắn lấp lánh một lớp ánh sáng mờ nhạt, hệt như ngọc thạch quý giá nhất.
+Huyền chi hựu huyền, diệu bất khả ngôn!
 
-La Phàm từ từ mở mắt, hai luồng thần quang phóng ra từ đồng tử, xuyên thấu tầng mây dày, nhìn thẳng xuống đại địa Hồng Hoang bên dưới.
+Đây chính là đạo thể thực thụ — Tiên Thiên Đạo Thể! Cũng chính là kết cấu cơ thể của Bàn Cổ, lại càng là khuôn mẫu khi thánh nhân tạo người ở đời sau!
 
-Hắn khẽ giơ tay lên, cảm nhận sức mạnh cuồn cuộn như đại dương đang chảy tràn trong từng mạch máu, từng thớ thịt. Khác hẳn với hình dạng Tỳ Hưu trước đây, lúc này hắn cảm thấy mình và thiên địa xung quanh đã hoàn toàn hòa làm một. Hắn có thể cảm nhận được nhịp đập của núi sông, hơi thở của mây trời một cách rõ rệt.
+Trong Tiên Thiên Đạo Thể, dù là những kinh mạch chỉ có kích thước tương đương người bình thường, so với những kinh mạch to bằng miệng bát bên trong cơ thể Tỳ Hưu trước kia nhỏ hơn hàng ngàn hàng vạn lần, nhưng cũng cường hãn hơn không biết bao nhiêu lần so với kinh mạch của Tỳ Hưu!
 
-"Đây chính là Tiên Thiên Đạo Thể sao..." La Phàm khẽ lẩm bẩm.
+Luồng pháp lực vốn đã lớn thêm một chút so với bảy ngày trước lúc này đang lưu chuyển bên trong những kinh mạch này, hệt như nước sông chảy trong lòng sông, lại hệt như đoàn tàu chạy trên đường ray vậy, lưu chuyển vô cùng vững chắc!
 
-Giọng nói của hắn không còn mang theo tiếng gầm rú của thú dữ, mà trở nên trầm ấm, mang theo một loại từ tính và uy nghiêm tự nhiên.
+Những hỗn độn nguyên khí tiến vào bên trong cơ thể thảy đều không sót một chút nào mà lao thẳng vào trong vòng tuần hoàn pháp lực này, rồi lại bị pháp lực này đánh tan, hòa nhập vào bên trong. Chút ít pháp lực tăng thêm so với bảy ngày trước kia chính là do lượng hỗn độn nguyên khí vô tận này ngưng tụ mà thành.
 
-Hắn cúi đầu nhìn về phía địa huyệt của núi Bất Chu, nơi cột hỗn độn nguyên khí vừa mới tiêu tán. Trong lòng hắn tràn đầy sự cảm khái. Mười mấy vạn năm trôi qua, cuối cùng hắn cũng đã thoát thai hoán cốt, thực sự bước lên con đường tu hành đỉnh cao của Hồng Hoang.
+Tâm thần La Phàm lúc này phụ thuộc vào bên trong pháp lực, đi theo sự lưu chuyển của pháp lực hết vòng này đến vòng khác lưu chuyển bên trong thân hình mới sinh của mình, không ngừng tôi luyện pháp lực, gột rửa thân hình.
 
-Tuy nhiên, đây mới chỉ là bước khởi đầu. Cơ thể mới thành hình, nền móng đã vững chắc, nhưng sự thấu triệt về đạo quả và thần thông vẫn còn cần hắn tiếp tục khám phá.
+Đi kèm với hết vòng lưu chuyển này đến vòng lưu chuyển khác, sự khống chế của hắn đối với pháp lực này cũng đang tăng thêm từng chút một.
 
-Hơn nữa, trong quá trình thành tựu Tiên Thiên Đạo Thể vừa rồi, hắn dường như đã chạm tới một luồng ý chí vô cùng cổ xưa và vĩ đại ẩn giấu trong ngọn núi Bất Chu này.
+Sự hiểu biết về uy năng mà pháp lực này sở hữu, về năng lượng đặc thù của pháp lực này lại càng đang đào sâu thêm từng chút một.
 
-Đó chính là Bàn Cổ Nguyên Linh.
+Mười hai vạn chín ngàn sáu trăm cái phù lục.
 
-La Phàm đứng giữa tầng không, cảm nhận luồng khí tức thương mang vẫn đang không ngừng bao phủ lấy mình. Hắn biết, vận mệnh của mình từ nay về sau đã hoàn toàn gắn liền với mảnh thiên địa Hồng Hoang này.
+Luồng pháp lực này được cấu thành từ mười hai vạn chín ngàn sáu trăm cái phù lục lập thể phức tạp tới cực điểm, nhìn qua có hình dạng hệt như núi Bất Chu.
 
-Hắn hít sâu một hơi, điều khiển cơ thể mới một cách linh hoạt, từ từ hạ xuống phía địa huyệt bên dưới. Mỗi bước đi của hắn trên hư không đều để lại một vòng gợn sóng năng lượng mờ nhạt, hệt như bước chân trên mặt nước tĩnh lặng.
+Những phù lục lập thể hình núi Bất Chu này vô cùng phức tạp, tuy cực nhỏ nhưng bên trong chúng dường như sở hữu không gian vô tận vậy. Những hỗn độn nguyên khí bị đánh tan tôi luyện khi hòa vào bên trong luồng pháp lực này chính là lao vào bên trong không gian vô tận nội tại của những phù lục này.
 
-Cuộc hành trình mới của hắn, bắt đầu từ đây.
+Bảy ngày bảy đêm hấp thụ, lượng hỗn độn nguyên khí hòa vào trong đó thậm chí còn nhiều hơn cả lượng hấp thụ trong trăm năm trước kia, nhưng lúc này hắn vẫn cảm thấy những phù lục cấu thành pháp lực kia trống rỗng đến thế, cảm thấy luồng pháp lực này dường như chỉ là cái vỏ không. Bảy ngày bảy đêm hấp thụ thế mà chỉ là chín trâu mất một sợi lông!
+
+Tất nhiên, cùng với việc luồng pháp lực này hấp thụ lượng lớn hỗn độn nguyên khí, những phù lục vốn đã thu nhỏ vô số lần kể từ khi rời khỏi thế giới thức hải kia cũng đã lớn thêm một chút xíu. Chính vì thế mới khiến toàn bộ luồng pháp lực lớn mạnh thêm một chút xíu so với lúc mới hình thành.
+
+Diện tích thức hải trong Cung Nê Hoàn rộng bốn vạn chín ngàn dặm vuông, độ cao của nó lại càng lên tới hơn bốn ngàn chín trăm dặm, đương nhiên không thể thực sự bị giới hạn trong một cái đầu nhỏ bé được. Mối liên hệ của nó với Cung Nê Hoàn huyền diệu vô cùng, thần bí vô cùng.
+
+Do đó, bảy ngày trước, toàn bộ cơ thể cùng với Cung Nê Hoàn của hắn bị vỡ nát căn bản không hề gây ra sự phá hoại nào cho thế giới thức hải của La Phàm.
+
+Vào chính khoảnh khắc này, thân hình hệt như nhân loại này của hắn ngưng tụ thành công, thế giới ý thức hải này lại một lần nữa phụ thuộc vào Cung Nê Hoàn. Tuy toàn bộ Cung Nê Hoàn nhìn từ bên ngoài đã hoàn toàn khác biệt với Cung Nê Hoàn của Tỳ Hưu trước kia, nhưng thế giới thức hải bên trong vẫn giữ nguyên dáng vẻ đó, không có lấy một chút thay đổi nào.
+
+Pháp lực trong cơ thể hắn trong quá trình lưu chuyển, mỗi một vòng tuần hoàn đại chu thiên đều sẽ lao vào từ Cung Nê Hoàn, rồi dạo chơi cực nhanh chín vòng trong thế giới ý thức hải, sau đó thông qua một vị trí vô cùng thần bí lao ra khỏi Cung Nê Hoàn, quay trở về hệ thống tuần hoàn kinh mạch của cơ thể.
+
+Mà mỗi một vòng tuần hoàn đại chu thiên cũng đều sẽ đi qua vị trí đan điền bụng dưới của hắn, sau khi dạo chơi tám mươi mốt vòng bên trong đó mới lao ra khỏi đan điền, tiếp tục lưu chuyển.
+
+Đan điền bụng dưới và Cung Nê Hoàn giữa mày đã biến thành hai điểm mút của sự lưu chuyển pháp lực, hô ứng lẫn nhau, lúc dâng lúc hạ, hệt như hai nguồn động lực vĩnh cửu không bao giờ ngừng nghỉ vậy.

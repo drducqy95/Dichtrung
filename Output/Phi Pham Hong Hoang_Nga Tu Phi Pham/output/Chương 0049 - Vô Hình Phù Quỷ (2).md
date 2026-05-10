@@ -1,99 +1,99 @@
-# Chương 0049 - Vô Hình Phù Quỷ (2)
+# Chương 49: Vô Hình Phù Quỷ (2)
 
-Đạo phù văn lập thể này có hình cầu, to bằng nắm tay, đen kịt u thâm, màu sắc so với luồng hắc vụ xung quanh còn phải đậm hơn gấp mấy lần.
+Đạo phù văn lập thể này có hình cầu, to chừng nắm tay, đen kịt sâu thẳm, màu sắc so với luồng khói đen xung quanh còn đậm hơn gấp mấy lần.
 
-Toàn bộ đạo phù văn hình cầu này do hàng trăm đường năng lượng u thâm mà dai chắc phác họa thành, trông có vẻ vô cùng súc tích nhưng lại vô cùng huyền diệu, sở hữu một loại bí ẩn khác biệt, nhanh chóng lưu chuyển, biến ảo bất định, huyền kỳ phi thường.
+Toàn bộ đạo phù văn hình cầu này được cấu thành từ hàng trăm đường nét năng lượng sâu thẳm và kiên cường, trông vô cùng giản đơn nhưng cũng vô cùng huyền diệu, sở hữu một loại bí ẩn khác biệt, cực tốc lưu chuyển, biến ảo bất định, vô cùng huyền kỳ.
 
-"Trọng Trục Âm Phù! Thì ra là thế." La Phàm nhìn đạo phù văn hình cầu này, trong lòng nảy sinh một luồng minh ngộ không tên, nháy mắt liền biết được tên gọi của đạo phù văn hình cầu này.
+"Trọng Trọc Âm Phù! Hóa ra là như vậy." La Phàm nhìn đạo phù văn hình cầu này, trong lòng nảy sinh một luồng minh ngộ không tên, trong phút chốc đã biết được tên gọi của đạo phù văn hình cầu đó.
 
-Đạo Trọng Trục Âm Phù này chính là cốt lõi của tên Vô Hình Phù Quỷ này, cũng là nơi linh thức của tên Vô Hình Phù Quỷ này tọa lạc, càng là nơi lưu trữ ký ức của nó. La Phàm soi rọi bản nguyên, trong nháy mắt liền nhìn thấu bản chất của đạo Trọng Trục Âm Phù này.
+Trọng Trọc Âm Phù này chính là cốt lõi của Vô Hình Phù Quỷ, cũng là nơi trú ngụ linh thức của Vô Hình Phù Quỷ, đồng thời là nơi lưu trữ ký ức của nó. La Phàm soi rọi bản nguyên, trong phút chốc đã nhìn thấu được bản chất của Trọng Trọc Âm Phù này.
 
-Tâm thần khẽ động, ký ức của tên Vô Hình Phù Quỷ này lướt qua trong tâm thần ý niệm của y, giống như phim ảnh vậy, được y tùy ý xem xét.
+Tâm thần khẽ động, ký ức của Vô Hình Phù Quỷ lướt qua trong tâm thần ý niệm của hắn, giống như một bộ phim vậy, mặc cho hắn tùy ý xem xét.
 
-"Thì ra lòng đất của trời đất Hồng Hoang cư nhiên sở hữu sự tồn tại huyền kỳ đến nhường này..." Lục tìm những ký ức chứa trong đạo Trọng Trục Âm Phù này, La Phàm không khỏi lấy làm chấn kinh.
+"Hóa ra dưới lòng đất của thiên địa Hồng Hoang cư nhiên sở hữu sự hiện hữu huyền kỳ đến thế..." Tra cứu những ký ức bao hàm bên trong Trọng Trọc Âm Phù này, La Phàm không khỏi cảm thấy chấn kinh.
 
-Thông qua những ký ức này y phát hiện ra ở độ sâu bốn nghìn chín trăm dặm dưới lòng đất sở hữu một đạo dòng sông khổng lồ rộng nghìn dặm. Nước sông trong dòng sông này hoàn toàn được cấu thành từ Trọng Trục Âm Cực Chi Khí ngưng tụ tinh túy mà thành, có màu vàng đục. Uốn lượn lưu chuyển, dòng nước hòa hoãn, chảy ra từ nơi không biết tên, chảy về nơi cực xa không biết chốn nào.
+Thông qua những ký ức này, hắn phát hiện ra ở vị trí sâu bốn ngàn chín trăm dặm dưới lòng đất có một dòng sông khổng lồ rộng ngàn dặm. Nước sông bên trong dòng sông này hoàn toàn được ngưng tụ tinh lọc từ Trọng Trọc Âm Cực chi khí, hiện ra màu vàng đục ngầu. Dòng sông uốn lượn lưu chuyển, dòng nước êm đềm, không biết chảy ra từ nơi nào và chảy về nơi xa xôi không rõ là chốn nào.
 
-Trong nước sông này sinh tồn vô cùng vô tận các Vô Hình Phù Quỷ. Những Vô Hình Phù Quỷ này ở trong dòng sông này tranh đấu lẫn nhau, cắn nuốt lẫn nhau, không ngừng trưởng thành, không ngừng lớn mạnh.
+Bên trong dòng nước này sinh tồn vô số Vô Hình Phù Quỷ. Những Vô Hình Phù Quỷ này ở bên trong dòng sông, tranh đấu lẫn nhau, thôn phệ lẫn nhau, liên tục trưởng thành, liên tục lớn mạnh.
 
 Hoàng Tuyền...
 
 Đây chính là Hoàng Tuyền!
 
-Thông qua ký ức của Vô Hình Phù Quỷ quan sát đạo dòng sông này, La Phàm phát hiện ra chỉ có danh từ Hoàng Tuyền này mới có thể xứng đáng với đạo dòng sông này, cũng chỉ có ý vị chứa đựng trong danh từ này mới có thể mô tả được bản chất của đạo dòng sông này!
+Thông qua ký ức của Vô Hình Phù Quỷ để quan sát dòng sông này, La Phàm phát hiện ra, chỉ có danh từ Hoàng Tuyền mới xứng đáng với dòng sông này, và cũng chỉ có ý nghĩa bao hàm trong danh từ này mới có thể miêu tả được bản chất của dòng sông này!
 
-"Vô Hình Phù Quỷ, Hoàng Tuyền, Trọng Trục Âm Cực Chi Khí... Giữa trời đất cư nhiên sở hữu kỳ vật này, cũng không biết những Vô Hình Phù Quỷ đó có phải thảy đều giống như con này hay không, chỉ biết giết chóc, không thể giao tiếp, càng không sở hữu linh thức hoàn chỉnh." Đôi mắt La Phàm lấp lánh rạng ngời, trong lòng cảm thấy vô cùng thú vị.
+"Vô Hình Phù Quỷ, Hoàng Tuyền, Trọng Trọc Âm Cực chi khí... Giữa thiên địa cư nhiên sở hữu kỳ vật như thế này, cũng không biết những Vô Hình Phù Quỷ đó có phải đều giống như con này, chỉ biết giết chóc, không thể giao tiếp, càng không có linh thức hoàn chỉnh hay không." Đôi mắt La Phàm sáng rực, trong lòng cảm thấy vô cùng hứng thú.
 
-Sau khi tới trời đất Hồng Hoang, tâm thái của La Phàm từ lâu đã thay đổi.
+Sau khi tới thiên địa Hồng Hoang, tâm thái của La Phàm sớm đã thay đổi.
 
-Hắn lúc này chỉ nguyện nhìn cho rõ tất cả mọi thứ giữa trời đất này, quan sát đủ loại diễn biến của trời đất Hồng Hoang, thông qua đủ loại quan sát này không ngừng nâng cao tu vi của bản thân, cuối cùng chứng đắc đạo quả chí cao, bước lên đỉnh cao nhất của trời đất.
+Lúc này hắn chỉ mong muốn nhìn rõ mọi thứ giữa thiên địa này, quan sát đủ loại diễn biến của thiên địa Hồng Hoang, thông qua đủ loại quan sát này để liên tục nâng cao tu vi của bản thân, cuối cùng chứng đắc đạo quả tối cao, bước lên đỉnh cao nhất của thiên địa.
 
-Lúc này phát hiện ra ở phía dưới sở hữu Hoàng Tuyền kỳ dị như vậy, sở hữu Vô Hình Phù Quỷ kỳ dị như vậy, sao y có thể không hứng thú cho được?
+Lúc này phát hiện phía dưới có Hoàng Tuyền kỳ dị như vậy, sở hữu Vô Hình Phù Quỷ kỳ dị như vậy, hắn sao có thể không hứng thú cho được?
 
-Tâm thần khẽ động, y nhấc tay phải nắm một cái, tên Vô Hình Phù Quỷ bị cấm chế trụ kia nháy mắt tan rã, vô số hắc vụ phun ra từ trong khối cầu đen kia, tiếng kêu thảm thiết thê lương vô cùng truyền ra từ bên trong đó, lao thẳng vào màng nhĩ của La Phàm.
+Tâm thần khẽ động, hắn nhấc tay phải bóp một cái, con Vô Hình Phù Quỷ đang bị cấm chế kia trong phút chốc tan vỡ, vô số khói đen phun ra từ khối cầu đen kịt kia, tiếng kêu thảm thiết thê lương vô cùng truyền ra từ bên trong đó, đâm thẳng vào màng nhĩ của La Phàm.
 
-Chẳng mấy chốc, tất cả hắc vụ tiêu tán, hiển hiện ra một đạo phù văn hình cầu súc tích mà huyền ảo. Đó chính là tên Vô Hình Phù Quỷ kia đã bị y làm cho tan rã, chỉ còn lại một đạo Trọng Trục Âm Phù như thế này, cũng chính là cốt lõi của tên Vô Hình Phù Quỷ này.
+Một lát sau, toàn bộ khói đen tan biến, hiển lộ ra một đạo phù văn hình cầu giản đơn mà huyền ảo. Đó chính là con Vô Hình Phù Quỷ đã bị hắn đánh tan, chỉ để lại một đạo Trọng Trọc Âm Phù này, cũng chính là cốt lõi của Vô Hình Phù Quỷ.
 
-La Phàm tay trái vẫy một cái, ống tay áo lớn mở ra bao phủ một cái, cư nhiên đã đem đạo Trọng Trục Âm Phù này thu vào trong hư không do Tụ Lý Càn Khôn khai tịch ra. Tư thái đó trông có vẻ tiêu sái chí cực.
+La Phàm vẫy tay trái, tay áo mở rộng, bao phủ một cái, đã đem Trọng Trọc Âm Phù này thu vào trong không gian hư không do Tụ Lý Càn Khôn khai mở ra. Tư thái đó trông vô cùng tiêu sái.
 
-Dù chưa biết đạo Trọng Trục Âm Phù này sở hữu tác dụng gì, nhưng trong lòng La Phàm lại biết rõ đạo Trọng Trục Âm Phù này tuyệt đối sẽ sở hữu tác dụng lớn, chắc chắn là trân quý dị thường. Ít nhất thì sẽ không kém hơn khối Mậu Thổ Chi Tinh mà y luyện chế Hư Không Vô Cực Cung kia... Bảo bối như vậy tự nhiên không thể bỏ qua.
+Mặc dù vẫn chưa biết Trọng Trọc Âm Phù này có tác dụng gì, nhưng La Phàm trong lòng biết rõ, Trọng Trọc Âm Phù này tuyệt đối sẽ có tác dụng lớn lao, định nhiên là vô cùng quý giá. Ít nhất cũng không kém gì món Mậu Thổ chi tinh mà hắn dùng để luyện chế Hư Không Vô Cực Cung... Bảo bối như vậy, tự nhiên không thể bỏ qua.
 
-Sau khi thu lấy đạo Trọng Trục Âm Phù này, La Phàm không hề trì hoãn, thân hình lao thẳng xuống dưới, với tốc độ cực nhanh lao về phía nơi mà y vô cùng hứng thú — chốn Hoàng Tuyền dưới độ sâu bốn nghìn chín trăm dặm dưới lòng đất kia!
+Sau khi thu lấy Trọng Trọc Âm Phù này, La Phàm không hề chậm trễ, thân hình lao thẳng xuống dưới, với tốc độ cực nhanh lao về phía nơi mà hắn đang vô cùng hứng thú —— chính là Hoàng Tuyền ở dưới lòng đất sâu bốn ngàn chín trăm dặm kia!
 
-Lòng đất của trời đất Hồng Hoang dày bao nhiêu, lúc này La Phàm không thấu hiểu được.
+Đại địa của thiên địa Hồng Hoang dày bao nhiêu, lúc này La Phàm vẫn chưa hiểu rõ.
 
-Nhưng y lại phát hiện ra lớp đất đá này quả thực là một kho báu! Hơn nữa là kho báu sở hữu những bảo bối vô cùng vô tận!
+Thế nhưng hắn lại phát hiện ra, tầng địa tầng này quả thực là một kho báu! Hơn nữa là một kho báu sở hữu vô số bảo vật vô tận!
 
-Nào là ngũ hành tinh hoa, nào là âm sát chi khí, nào là địa hỏa, nào là quặng sắt, vân vân và vân vân, thảy đều có đủ. Thậm chí trong đó còn sở hữu vô số những nguồn Hỗn Độn Nguyên Khí lớn nhỏ nằm lặng lẽ ở khắp các nơi trong lớp đất đá, đợi được phát quật, đợi được tỏa ra.
+Nào là ngũ hành tinh hoa, nào là âm sát chi khí, nào là địa hỏa, nào là quặng sắt, vân vân và vân vân, không thiếu thứ gì. Thậm chí bên trong đó còn có vô số nguồn hỗn độn nguyên khí lớn nhỏ đang nằm lặng yên khắp nơi trong địa tầng, chờ đợi được khai phá, chờ đợi được tỏa ra.
 
-Càng đi sâu xuống dưới lòng đất thì đủ loại bảo bối này lại càng nhiều hơn.
+Càng đi sâu xuống dưới lòng đất, những loại bảo vật này lại càng nhiều.
 
-Ở đoạn lớp đất đá từ mặt đất cho tới độ sâu một nghìn năm trăm dặm, đủ loại bảo bối này tuy nói là có nhưng lại không quá nhiều, phân bố cũng không phải là vô cùng dày đặc, cộng thêm việc La Phàm không có tâm trí để chú ý nên không có bao nhiêu cảm giác.
+Trong đoạn địa tầng từ mặt đất cho tới độ sâu một ngàn năm trăm dặm, những loại bảo vật này tuy rằng có nhưng không quá nhiều, phân bố cũng không mấy dày đặc, cộng thêm việc La Phàm không có tâm trí để chú ý nên không có cảm giác gì lớn lao.
 
-Nhưng đợi tới khi y lặn sâu xuống lòng đất ba nghìn dặm, hầu như cứ cách vài trăm trượng là lại có một loại vật liệu luyện khí hiếm thấy xuất hiện, liền sẽ có một loại tồn tại nếu đặt ở hậu thế tuyệt đối được xưng tụng là vô giá chi bảo bày ra trước mặt La Phàm!
+Thế nhưng khi hắn đi sâu xuống dưới lòng đất ba ngàn dặm, hầu như cứ cách vài trăm trượng là sẽ có một loại vật liệu luyện khí hiếm có xuất hiện, sẽ có một loại hiện hữu mà ở hậu thế tuyệt đối có thể gọi là vô giá chi bảo bày ra trước mặt La Phàm!
 
-La Phàm lúc đầu thì vô cùng kích động, gặp một loại liền thu một loại, phát hiện một thứ liền thu một thứ.
+Ban đầu La Phàm vô cùng kích động, gặp được một loại là thu một loại, phát hiện ra một thứ là thu lấy một thứ.
 
-Chưa đầy nghìn dặm cư nhiên đã đem vùng hư không rộng vạn trượng do Tụ Lý Càn Khôn khai tịch ra lấp đầy rồi...
+Chưa tới ngàn dặm, đã đem không gian vạn trượng do Tụ Lý Càn Khôn khai mở ra nhét đầy ních...
 
-Đợi tới khi vùng hư không bị lấp đầy y mới phát hiện ra hành vi của bản thân quả thực là thừa thãi... Y không tin ngọn núi tùy ý lựa chọn này là vị trí đặc biệt, càng không tin số lượng đủ loại bảo bối ở nơi này sẽ nhiều hơn nơi khác quá nhiều.
+Tới khi không gian hư không bị nhét đầy, hắn mới phát hiện ra, hành động của mình quả thực là thừa thãi... Hắn không tin ngọn núi mà mình tùy ý lựa chọn này là một vị trí đặc biệt, càng không tin số lượng bảo vật ở đây lại nhiều hơn hẳn so với những nơi khác.
 
-Nhìn nhận như vậy thì toàn bộ lòng đất của trời đất Hồng Hoang đại khái đều là tình huống này.
+Cứ như vậy mà nhìn, toàn bộ lòng đất của thiên địa Hồng Hoang hầu như đều là tình trạng này.
 
-Bản thân nếu lúc nào muốn dùng tới những vật liệu này, những bảo bối này thì tùy ý lựa chọn một địa phương, Thổ Độn lặn xuống lấy dùng là được, hà tất phải thu lấy vất vả như thế này? Cách làm như vậy trái lại có vẻ quá nhỏ mọn rồi...
+Bản thân nếu lúc nào muốn dùng tới những vật liệu này, những bảo vật này, chỉ cần tùy ý lựa chọn một nơi, dùng Thổ độn lặn xuống lấy dùng là được, hà tất phải thu thập vất vả như vậy? Cách làm này trái lại tỏ ra quá mức hẹp hòi...
 
-Trong lòng nghĩ như vậy, La Phàm lắc đầu, từ bỏ cách làm có phần mất thân phận này. Không thèm quan tâm tới vật liệu luyện khí xung quanh, đủ loại bảo bối xung quanh nữa, tốc độ mở hết cỡ, lao thẳng xuống lòng đất.
+Nghĩ tới đây, La Phàm lắc đầu, từ bỏ cách làm làm mất thân phận này. Không còn màng tới những vật liệu luyện khí và đủ loại bảo vật xung quanh nữa, hắn mở hết tốc độ, lao thẳng xuống dưới lòng đất.
 
-Chẳng mấy chốc cư nhiên đã tới độ sâu bốn nghìn chín trăm dặm dưới lòng đất, và cuối cùng cũng nhìn thấy đạo Hoàng Tuyền đã từng tồn tại trong ký ức của Vô Hình Phù Quỷ kia!
+Một lát sau, đã tới độ sâu bốn ngàn chín trăm dặm dưới lòng đất, và cuối cùng cũng nhìn thấy dòng sông Hoàng Tuyền vốn dĩ tồn tại trong ký ức của Vô Hình Phù Quỷ kia!
 
-Nhìn thấy đạo Hoàng Tuyền này, La Phàm hoàn toàn bị chấn động.
+Nhìn thấy Hoàng Tuyền này, La Phàm hoàn toàn bị chấn động.
 
-Một đạo dòng sông màu vàng rộng nghìn dặm, không biết dài bao nhiêu ức vạn dặm đang chảy qua trước mắt y.
+Một dòng sông màu vàng rộng ngàn dặm, không biết dài bao nhiêu ức vạn dặm đang chảy qua trước mắt hắn.
 
-Cảnh tượng sóng cuộn hùng vĩ đó lao thẳng vào tâm thần y, khiến y không thể không run rẩy vì nó.
+Khung cảnh sóng cuộn tráng lệ đó đâm thẳng vào tâm thần hắn, khiến hắn không thể không vì đó mà chấn động.
 
-Đạo Hoàng Tuyền này xung quanh sở hữu một lớp màn sáng màu vàng đất bao phủ lấy nó, đem nó hoàn toàn ngăn cách khỏi lớp đất đá xung quanh.
+Dòng sông Hoàng Tuyền này có một lớp quang trảo màu vàng đất bao phủ xung quanh, hoàn toàn ngăn cách nó với các tầng địa tầng xung quanh.
 
-Lớp màn sáng này được cấu thành từ Đại Địa Nguyên Khí thuần túy vô cùng, ngưng tụ vô cùng, dày nặng, ôn hòa, nhưng lại không mất đi sự dai chắc!
+Lớp quang trảo này được cấu thành từ Đại Địa Nguyên Khí vô cùng thuần túy, vô cùng cô đọng, dày nặng, ôn hòa, nhưng cũng không mất đi sự kiên cường!
 
-Mà lúc này, đối diện với vị trí của La Phàm, cũng chính là vị trí của lớp màn sáng nằm thẳng đứng từ ngọn núi kia xuống, dường như có chút mỏng manh, ít nhất thì mỏng manh hơn nhiều so với những nơi khác.
+Mà lúc này, đối diện với vị trí của La Phàm, cũng chính là vị trí từ ngọn núi đó thẳng đứng đi xuống, tại vị trí đó của lớp quang trảo, dường như có chút mỏng manh, ít nhất là mỏng manh hơn nhiều so với những nơi khác.
 
-Ở cái nhìn của La Phàm, có hàng vạn con Vô Hình Phù Quỷ biến hóa bất định đang điên cuồng xung kích vào cái vị trí mỏng manh đó, người trước ngã xuống người sau tiến lên, đem cái vị trí mỏng manh đó xung kích tới mức lung lay sắp đổ.
+Trong lúc La Phàm quan sát, có tới hàng vạn con Vô Hình Phù Quỷ đang điên cuồng tấn công vào vị trí mỏng manh đó, con trước ngã xuống con sau tiến lên, oanh kích khiến vị trí mỏng manh đó lung lay sắp đổ.
 
-Tâm thần khẽ động, tâm pháp khẩu quyết của Âm Dương Trắc Toán Pháp lướt qua trong lòng, La Phàm bấm ngón tay tính toán một cái, trong chớp mắt liền biết được vị trí mỏng manh này là vì chính phía trên, độ sâu bốn nghìn chín trăm dặm ở phía trên Hồng Quân đang vượt kiếp mà nảy sinh!
+Tâm thần khẽ động, khẩu quyết tâm pháp của "Âm Dương Trắc Toán Pháp" lướt qua trong lòng, La Phàm bấm ngón tay tính toán, trong phút chốc đã biết vị trí mỏng manh này là vì ngay phía trên, ở độ sâu bốn ngàn chín trăm dặm, Hồng Quân đang vượt kiếp mà tạo thành!
 
-Một loại liên hệ thần bí xuất hiện giữa đạo Hoàng Tuyền này và Hồng Quân, kết quả của sự liên hệ này nảy sinh dường như giống như sở hữu một luồng lực vô hình đang không ngừng làm suy yếu lớp màn Đại Địa Nguyên Khí này vậy.
+Một loại liên hệ thần bí xuất hiện giữa dòng sông Hoàng Tuyền này và Hồng Quân, kết quả của sự liên hệ này giống như có một luồng lực đạo vô hình đang liên tục làm suy yếu lớp trảo Đại Địa Nguyên Khí này vậy.
 
-Mãnh liệt, một tiếng vang răng rắc giòn giã.
+Bỗng nhiên, một tiếng "rắc" giòn tan vang lên.
 
-Cái vị trí mỏng manh đó mãnh liệt tan rã, nứt ra một cái lỗ nhỏ đường kính một thước.
+Vị trí mỏng manh đó đột ngột tan vỡ, lộ ra một lỗ hổng nhỏ đường kính một thước.
 
-Một con Vô Hình Phù Quỷ cạc cạc cạc cười quái dị, lao ra từ cái lỗ nhỏ đó, nhanh chóng lao về phía trên.
+Một con Vô Hình Phù Quỷ cười quái dị cạch cạch cạch, từ lỗ hổng nhỏ đó lao ra, cực tốc lao thẳng lên trên.
 
-Theo sự lao ra của con Vô Hình Phù Quỷ này, cái lỗ thủng đó nháy mắt khép lại, một lần nữa khôi phục lại độ dày như trước đó, chặn đứng các con phù quỷ khác ở phía sau đang định bám theo con Vô Hình Phù Quỷ này lao lên trên.
+Nương theo sự lao ra của con Vô Hình Phù Quỷ này, lỗ hổng đó trong phút chốc khép lại, một lần nữa khôi phục lại độ dày như trước, chặn đứng những con Phù Quỷ khác đang định đi theo con Vô Hình Phù Quỷ này lao lên trên ở phía sau.
 
-La Phàm nhìn một cái liền biết con Vô Hình Phù Quỷ bị y diệt trước đó rốt cuộc là từ đâu tới rồi.
+La Phàm nhìn qua liền biết con Vô Hình Phù Quỷ bị hắn diệt sạch trước đó rốt cuộc là từ đâu mà tới rồi.
 
-Nhìn thấy con phù quỷ này đã hóa thành hình thái diện mạo của bản thân mình, La Phàm khẽ lắc đầu, nhấc tay chộp một cái, con Vô Hình Phù Quỷ này liền nháy mắt tan rã, hắc vụ phân tán, hóa thành một đoàn Trọng Trục Âm Phù to bằng nắm tay.
+Nhìn con Phù Quỷ này chỉ trong chớp mắt đã hóa thành diện mạo và hình thái của chính mình, La Phàm khẽ lắc đầu, nhấc tay tóm một cái, con Vô Hình Phù Quỷ này liền trong phút chốc tan vỡ, khói đen tản mát, hóa thành một đoàn Trọng Trọc Âm Phù to chừng nắm tay.
 
-Tỉ mỉ xem xét một phen y liền phát hiện ra đạo Trọng Trục Âm Phù này so với đạo trước đó dường như đơn giản hơn một chút.
+Tỉ mỉ kiểm tra một phen, hắn phát hiện đạo Trọng Trọc Âm Phù này so với đạo trước đó dường như đơn giản hơn một chút.

@@ -1,115 +1,93 @@
-# Chương 0058 - Hoàng Tuyền Luyện Khí (1)
+# Chương 58: Hoàng Tuyền luyện khí (1)
 
-"Chỉ là, lãng phí mất bấy nhiêu đạo Trọng Trục Âm Phù rồi." La Phàm thầm thở dài một tiếng.
+Cảm tri đi sâu vào bên trong, khung cảnh bên trong thức hải của Hồng Quân liền xuất hiện trong tâm thần ý niệm của La Phàm.
 
-Y nhấc tay khẽ ném một cái, đạo Trọng Trục Dương Phù nặng nề dị thường trong tay liền nháy mắt lao đi, bay vọt xa mười mấy vạn dặm, lặn xuống một cái đã mất dạng trong một cái địa huyệt sâu không thấy đáy.
+Vừa nhìn thấy khung cảnh này, La Phàm liền nhíu chặt lông mày, trong lòng thầm tự mình có chút tự trách.
 
-Trọng Trục Dương Phù tuy nói là đã có sự thay đổi về chất, từ âm hóa dương, cuối cùng từ âm phù vốn có hóa thành dương phù, nhưng căn nguyên của nó dù sao vẫn là Trọng Trục Âm Cực Chi Khí, nói tương đối thì ở nơi âm khí nồng đậm đối với sự trưởng thành của nó lại càng có lợi hơn.
+Chỉ thấy thức hải này, bất kể là chiều cao hay chiều rộng, so với lần trước khi hắn nhìn thấy đều đã mở rộng hơn gấp đôi. Trông có vẻ đã khá rộng lớn.
 
-Tiểu thiên thế giới này là một cái thế giới nhỏ hoàn chỉnh, tự nhiên sở hữu đủ loại năng lượng, âm khí tự nhiên là không thiếu. Trong đó, nơi âm khí nồng đậm nhất chính là sâu thẳm dưới lòng đất của lục địa này, cũng chính là nơi La Phàm vừa mới ném đạo dương phù đó vào.
+Nhưng chính tại vị trí trung tâm của thức hải khá rộng lớn này, trên gương mặt thần hồn của Hồng Quân lại tràn đầy sự nôn nóng và phiền muộn.
 
-La Phàm không thiếu luồng sức mạnh của đạo dương phù này, cộng thêm việc cũng muốn xem thử linh thức mới trưởng thành từ đạo dương phù này sẽ trông như thế nào, do đó mới vì đạo dương phù này mà kiến tạo điều kiện trưởng thành tốt nhất.
+Từng luồng năng lượng đan xen vô số sợi tơ được sản sinh ra từ một vị trí thần bí, không ngừng ra vào bên trong cơ thể thần hồn, mỗi một lần ra vào như thế, sự nôn nóng và phiền muộn trên gương mặt thần hồn lại tăng thêm một phần, cơ thể của nó càng nảy sinh sự rung động nhẹ, dường như có dấu hiệu không vững chắc.
 
-"Bẩm chủ nhân, ở hướng Tây Nam cách đây ba mươi tám vạn bốn nghìn năm trăm hai mươi dặm, sở hữu hai luồng phản ứng linh thức." Ngay vào lúc này, giọng nói không hề có cảm xúc nào của Vô Cực đồng tử lọt vào tai La Phàm.
+Đây rõ ràng là hiện tượng Hồng Quân có cảnh giới không đủ nhưng lại muốn cưỡng ép ngưng tụ lập thể phù văn để thành tựu pháp lực!
 
-La Phàm chưa hề thu hồi mệnh lệnh để Vô Cực đồng tử chú ý tình hình xung quanh, do đó dù đã trôi qua mấy nghìn năm thời gian này nhưng Vô Cực đồng tử vẫn luôn chú ý. Lúc này chính là phát hiện ra tình hình dị thường mà La Phàm dặn nó phải lưu tâm.
+Cách làm này đối với sự tổn hại của thần hồn không nghi ngờ gì là cực kỳ to lớn.
 
-La Phàm tâm thần khẽ động, xuyên qua sự tăng phúc cảm tri của Hư Không Vô Cực Cung, trong nháy mắt liền đem cảnh tượng ở vị trí cách xa hơn ba mươi tám vạn dặm đó tái hiện lại trong tâm thần ý niệm.
+Nếu không phải Tiên Thiên bất diệt linh quang trên đỉnh đầu thần hồn của hắn đang xoay chuyển, đồng thời liên tục tỏa ra đủ loại sức mạnh huyền chi hựu huyền, và con Hoàng Cân Lực Sĩ Hoàng ở bên cạnh thần hồn luôn phát ra từng đạo hào quang màu xanh lục để tẩm bổ cho thần hồn, thì lúc này thần hồn của Hồng Quân e rằng đã chịu sự tổn thương không thể bù đắp nổi rồi.
 
-Đó là một cái thung lũng.
+Kết quả này quả thực là sai sót của La Phàm —— chính bởi vì La Phàm chưa làm tròn trách nhiệm của một người thầy, không thông báo cho Hồng Quân biết sau khi vượt kiếp sẽ gặp phải tình huống gì và nên làm như thế nào mới là chính xác, nên mới khiến Hồng Quân phạm phải sai lầm này!
 
-Một cái thung lũng trông có vẻ bình thường ở trời đất Hồng Hoang, nhưng nếu ở trên Trái Đất thì lại có vẻ cực kỳ rộng, cực kỳ lớn.
+La Phàm tâm thần khẽ động, thân hình đã xuất hiện ở bên ngoài Hư Không Vô Cực Cung, đứng ở bên cạnh Hồng Quân.
 
-Ba hướng của cái thung lũng này được bao quanh bởi năm ngọn núi cao vạn trượng, trông giống như năm ngón tay dựng ngược vậy. Chỉ còn lại hướng Tây Bắc, cũng chính là hướng La Phàm đang tọa lạc là không có sự ngăn trở.
+Nhấc tay khẽ chỉ một cái, một điểm linh quang lao thẳng vào giữa lông mày của Hồng Quân, thông qua một cơ chế thần bí tiến vào bên trong thức hải của hắn, lại lao tới một cái, trong phút chốc đã hòa nhập vào bên trong thần hồn của Hồng Quân.
 
-Hai luồng linh thức đó đang ở vị trí lòng bàn tay do năm ngón tay đó chụm lại.
+Nương theo sự hòa nhập của điểm linh quang này, tâm thần Hồng Quân trong phút chốc trở nên thanh tịnh, thoát khỏi trạng thái "đâm vào sừng trâu" trước đó. Không kịp suy nghĩ tới những điểm nghi vấn bên trong đó, hắn liền chậm rãi vận chuyển "Đỉnh Thiên Lập Địa Quyết", thu hồi toàn bộ năng lượng bên trong cơ thể vào trong đan điền dưới bụng.
 
-Trong thung lũng tràn ngập luồng Hỗn Độn Nguyên Khí xám xịt, nồng độ của nó hầu như đã ngưng kết thành dạng lỏng, che khuất tầm mắt dòm ngó từ bên ngoài.
+Tới lúc này, hắn mới có dư lực để mở bừng đôi mắt.
 
-Tất nhiên, điều này không thể ngăn trở được cảm tri của La Phàm. Y tâm thần khẽ động một cái liền đã phát hiện ra bên trong luồng Hỗn Độn Nguyên Khí này cư nhiên sở hữu hai vị Tiên Thiên Thần Kỳ!
+Chờ tới khi nhìn thấy La Phàm đang ở bên cạnh, Hồng Quân vội vàng lộ vẻ mặt xấu hổ đứng dậy hành lễ.
 
-Hay nói cách khác, là một mái một trống hai con Giao Long đen trắng quấn quýt lấy nhau!
+La Phàm gật đầu nói: "Ngươi cần ghi nhớ đạo lý dục tốc tắc bất đạt. Cảnh giới của ngươi đạt được sự tiến bộ này vốn đã là cơ duyên cực lớn rồi, không thể cưỡng ép cầu lấy sự tiến bộ lớn hơn. Chỉ cần chờ tới khi cảnh giới sau này nâng cao, mọi thứ tự nhiên sẽ nước chảy thành bùn thôi."
 
-Lúc này, hai con Giao Long này đang lượn vòng, hình thành nên một cái hình xoắn ốc đen trắng xen kẽ, đầu chạm nhau, đuôi nối nhau, vòng quanh thung lũng tạo thành một vòng tròn, hai cái đầu đang đối diện với chính giữa trung tâm thung lũng, cũng chính là nơi không ngừng phun trào ra luồng Hỗn Độn Nguyên Khí đó.
+Sự khâm phục của Hồng Quân đối với La Phàm vốn đã đạt tới mức độ sùng bái, tự nhiên sẽ không nghi ngờ lời nói của La Phàm, lộ vẻ mặt tỉnh ngộ và xấu hổ, nói: "Đa tạ sư tôn giáo huấn."
 
-"Giao Long?" La Phàm không khỏi cảm thấy rất có hứng thú.
+La Phàm gật đầu, đột nhiên tâm thần khẽ động, nhấc tay khẽ chỉ một cái, một điểm linh quang lao thẳng vào bên trong thức hải của Hồng Quân, hóa thành văn tự và đồ án bay lượn khắp trời, không sót một chút nào chui vào bên trong thần hồn của hắn, hoàn toàn hòa nhập vào bên trong đó.
 
-Những năm qua y gặp được Tiên Thiên Thần Kỳ chỉ sở hữu Hồng Quân và cái cây quái dị được y dự định thu làm đệ tử kia mà thôi, hiện giờ cư nhiên vừa xuất hiện đã là hai vị, lại còn là loài sinh vật mà y đã từng ảo tưởng nhiều lần khi còn ở Trái Đất, sao y có thể không hứng thú cho được?
+Chỉ trong phút chốc, Hồng Quân minh ngộ được rằng đây là một bộ pháp quyết luyện khí. Hơn nữa, nếu như hắn dựa theo pháp quyết này để tiến hành luyện chế lại Cửu Linh Vân Quang Phách thì ít nhất có thể nâng cao uy năng của món pháp khí này lên gấp mười lần!
 
-Hơn nữa, linh thức của hai con Giao Long này trông có vẻ so với cái cây quái dị kia còn hoàn chỉnh hơn nhiều. Dù vẫn còn mờ mịt ngây ngô nhưng lại có thêm vài phần linh động.
+"Đa tạ sư tôn ban pháp!" Hiểu rõ điểm này, Hồng Quân đại hỷ.
 
-Có ý muốn qua đó xem thử, La Phàm khẽ động niệm, trạng thái của Hồng Quân xuất hiện trong tâm thần ý niệm của y.
+Món Cửu Linh Vân Quang Phách đó vào thời điểm hắn vượt kiếp đã phát huy tác dụng cực lớn, đồng thời cũng khiến hắn cảm nhận được uy lực của món pháp khí này dường như có chút thiếu hụt, đang vô cùng khổ não. Đạo pháp quyết này của La Phàm tới quả thực là vô cùng đúng lúc.
 
-Hồng Quân lúc này cư nhiên đang nhảy vọt tiến về phía trước giữa một vùng sơn địa rộng vạn dặm. Toàn bộ con người trông không hề có một chút khí tức khói lửa nào, động tác súc tích chí cực, hầu như không lãng phí bất kỳ một tia sức mạnh nào.
+La Phàm gật đầu nói: "Ngươi hãy đem món pháp khí này tế luyện một phen rồi mới có thể tiếp tục hành trình."
 
-Tiểu thiên thế giới bên trong Hư Không Vô Cực Cung đã trôi qua nghìn năm thời gian, thời gian trôi qua ở thế giới bên ngoài cũng đã ròng rã ba năm trời.
+Hồng Quân vội vàng nói tiếng tuân mệnh, khoanh chân ngồi xuống, bộ trường bào trên người hóa thành một tấm gấm, lơ lửng trước mặt hắn.
 
-Trong ba năm này Hồng Quân vẫn sử dụng thủ pháp giống như trước kia để phong ấn năng lượng của bản thân, chỉ mượn nhờ sức mạnh của nhục thân để đi về hướng Bất Chu Sơn. Bởi vì sau khi vượt qua Canh Kim Lôi Hỏa Kiếp thì cơ thể hắn nhận được sự nâng cao cực lớn, do đó trong ba năm này tốc độ tiến lên của hắn nhanh hơn nhiều so với trước kia.
+Tiếp đó, hắn nhấc tay vẫy một cái, nguồn năng lượng đã có chút biến đổi mà trở nên ngưng tụ hơn, tinh thuần hơn bên trong cơ thể nương theo một quỹ đạo huyền ảo cực tốc lưu chuyển, cuối cùng hóa thành từng đạo phù văn được đánh vào bên trong tấm gấm này.
 
-Hiện giờ, khoảng cách giữa hắn và Bất Chu Sơn cư nhiên chỉ còn lại chưa đầy hai triệu dặm mà thôi.
+La Phàm nhìn qua liền biết Hồng Quân đã hoàn toàn hiểu thấu bộ pháp quyết luyện khí mà mình truyền thụ cho hắn, cũng lười tiếp tục quan sát, tâm thần khẽ động, cơ thể xoay chuyển một cái đã tiến vào bên trong Hư Không Vô Cực Cung.
 
-Khoảng cách này nếu so với mức độ nguy nga của Bất Chu Sơn thì hầu như là đã sát sàn sạt Bất Chu Sơn rồi. Ở khoảng cách gần như thế này, luồng khí tức thương lương bất khuất tỏa ra từ trên Bất Chu Sơn cư nhiên nồng đậm tới mức kinh người.
+Bộ pháp quyết luyện khí đó chính là thứ mà La Phàm đã ngộ ra lần trước, chính là phương pháp ngưng tụ phù văn thành từng tầng từng tầng cấm chế để đánh vào bên trong pháp khí. Lần đầu tiên hắn nhìn thấy Cửu Linh Vân Quang Phách của Hồng Quân đã phát hiện ra rằng, phương pháp Hồng Quân đánh chín loại pháp quyết ứng dụng của "Đỉnh Thiên Lập Địa Quyết" vào bên trong đó vô cùng thô thiển, căn bản không cách nào phát huy được uy năng tối cao của pháp khí. Vào lúc đó hắn đã nảy sinh ý định truyền thụ cho Hồng Quân pháp quyết luyện khí, chỉ là vì có việc làm gián đoạn nên mới trì hoãn tới lúc này.
 
-Hồng Quân trước kia tuy cư ngụ ở trên đỉnh Bất Chu Sơn, nhưng hắn mọi lúc mọi nơi đều ở dưới sự bảo vệ của Tiên Thiên Bất Diệt Linh Quang, luồng khí tức này đối với hắn hầu như không có ảnh hưởng gì.
+Nương theo việc La Phàm tiến vào bên trong Hư Không Vô Cực Cung, tòa Hư Không Vô Cực Cung xoay chuyển một cái đã ẩn giấu vào bên trong hư không. Không còn là thứ mà Hồng Quân có thể cảm tri được nữa.
 
-Hiện giờ phong ấn năng lượng của bản thân, nạp Tiên Thiên Bất Diệt Linh Quang vào trong cơ thể, hầu như mất đi tất cả sự bảo vệ, Hồng Quân mới thực sự cảm thụ được luồng khí tức mà Bất Chu Sơn tỏa ra nồng đậm đến mức nào, chấn động tâm linh đến nhường nào.
+"Vô Cực Đồng Tử ra đây nói chuyện." La Phàm khẽ quát một tiếng.
 
-Trải qua mấy năm được khí tức Bất Chu Sơn thấm nhuần, lợi ích hắn nhận được quả thực là không ít, so với quãng thời gian gần một nguyên hội ở trên đỉnh Bất Chu Sơn còn nhiều hơn không biết bao nhiêu lần. Sự thay đổi rõ rệt nhất chính là ý chí của hắn đã được thấm nhuần tới mức kiên định tinh khiết, hầu như giống như lưu ly vậy.
+Thân hình Vô Cực Đồng Tử liền trong phút chốc ngưng tụ ra trước mặt La Phàm, thần sắc lạnh lùng và bình thản, cũng không mở miệng, tĩnh lặng đứng ở đó.
 
-La Phàm trong lòng biết rõ trạng thái của Hồng Quân lúc này đã không cần mình phải ở bên cạnh trông coi nữa — dù cho có gặp phải một số đe dọa đi chăng nữa, sở hữu Hoàng Cân Lực Sĩ Hoàng và Cửu Linh Vân Quang Phá, hắn tuyệt đối có thể sải bước vượt qua.
+La Phàm tự nhiên sẽ không vì một Bảo Linh không có ý thức về cái tôi mà tức giận, quát: "Điều khiển Hư Không Vô Cực Cung đi theo sau lưng Hồng Quân, không thể rời xa khỏi phạm vi mười trượng, khi hắn có nguy hiểm tới tính mạng thì hãy trợ giúp một tay, nếu không thì không cần để ý tới."
 
-Trong nháy mắt, y liền quyết định không đi theo bên cạnh Hồng Quân lăn lộn nữa.
+"Tuân mệnh." Vô Cực Đồng Tử nói một cách không hề có cảm xúc.
 
-Trong khi tâm thần khẽ động, Hư Không Vô Cực Cung hóa thành một đạo ánh sáng màu vàng tím, mãnh liệt lao vọt về hướng Tây Nam, chỉ chốc lát sau đã tới phía trên cái thung lũng sở hữu hai con Giao Long kia.
+Vô Cực Đồng Tử tương đương với một bộ siêu máy tính, cho dù đang kiểm soát tinh vi Lôi Trì, trích xuất Trọng Trọc Âm Cực chi khí bên trong cơ thể Hữu Hình Phù Quỷ để tôi luyện thân cung thì vẫn còn rất nhiều tâm sức để làm những việc khác.
 
-Đến nơi này, đạo ánh sáng vàng tím ngưng tụ lại, ngưng tụ thành một tòa cung điện hình vuông hiện ra.
+La Phàm dặn dò xong xuôi cũng không quản tới những thứ khác nữa.
 
-Thân hình La Phàm cũng theo sự ngưng tụ này, cưỡi mây vàng xuất hiện ở phía trên cái thung lũng đó.
+Nhấc tay khẽ chỉ một cái, dải Hoàng Tuyền thiên hà trên bầu trời kia liền xoay chuyển một cái, từ trên trời rơi xuống, trong chớp mắt đã kéo dài tới trước mặt La Phàm.
 
-Sau khi xuất hiện, La Phàm nhấc tay khẽ vẫy, tòa Hư Không Vô Cực Cung đó liền lao vọt tới lặn vào trong cơ thể y, rồi thông qua cơ chế thần bí hiện ra ở trong thế giới thức hải của y.
+Ở bên trong Tiểu Thiên thế giới này, La Phàm hầu như là toàn năng, trong phút chốc liền biết được mọi chi tiết của dải Hoàng Tuyền thiên hà này.
 
-"Oanh..."
+Đem ý tưởng thiết kế của mình suy ngẫm lại một lần nữa, La Phàm cuối cùng đã hoàn toàn xác định được từng chi tiết của việc luyện chế món pháp khí này.
 
-Ngay vào lúc này, một tiếng rồng ngâm kinh thiên động địa xuất hiện từ bên dưới.
+Trong lúc tâm thần khẽ động, những đoạn tâm pháp khẩu quyết phức tạp lướt qua trong tâm thần ý niệm của hắn. Tiếp đó, bên trong Địa Tiên đạo quả của hắn có một đơn vị pháp lực tách rời ra, nương theo kinh mạch cực tốc lưu chuyển, dần dần hóa thành một luồng ánh sáng màu đỏ tươi khổng lồ, ngưng tụ tại lòng bàn tay phải của hắn.
 
-Luồng Hỗn Độn Nguyên Khí nồng đậm vô cùng hầu như ngưng kết thành dạng lỏng kia dưới tiếng rồng ngâm này không ngừng cuộn trào, nảy sinh những đợt sóng rõ rệt, nhanh chóng lưu chuyển cuộn xoáy.
+Tay trái vẫy một cái, tay phải vỗ một cái, từng đạo từng đạo Trọng Trọc Âm Phù từ bên trong Tụ Lý Càn Khôn lao ra, lao thẳng vào bên trong dải Hoàng Tuyền thiên hà trước mặt, vào cùng một thời điểm, lại càng có từng đạo từng đạo lập thể phù văn hình cầu màu đỏ tươi từ trong lòng bàn tay phải của hắn lao ra, đi sâu vào bên trong dải Hoàng Tuyền thiên hà.
 
-La Phàm chau mày.
+Số lượng Trọng Trọc Âm Phù và những lập thể phù văn màu đỏ tươi này tương ứng từng đôi một, mỗi một đạo Trọng Trọc Âm Phù lao vào bên trong Hoàng Tuyền thiên hà thì đều có một lập thể phù văn lao vào bên trong đó.
 
-Trong nháy mắt liền cảm nhận được một luồng khí tức hung tàn thô bạo vô cùng từ bên dưới lao thẳng lên.
+Hết đạo này tới đạo khác, hết lớp này tới lớp khác, liên miên không dứt giống như một dòng sông máu và một dòng sông đen từ trong đôi tay hắn lao ra, chảy vào trong Hoàng Tuyền thiên hà vậy, trông có vẻ khá kỳ dị.
 
-Một đạo tâm pháp khẩu quyết lướt qua trong tâm thần ý niệm của y, đôi mắt y bắn ra hai đạo ánh sáng vàng rực rỡ, nháy mắt liền khiến y nhìn rõ bên dưới đã nảy sinh sự thay đổi như thế nào.
+Dải Hoàng Tuyền thiên hà đó sau khi những đạo Trọng Trọc Âm Phù và phù văn màu đỏ này tiến vào bên trong đã nảy sinh sự chấn động vô cùng kịch liệt, từng thớ khói đen không ngừng khuếch tán ra từ bên trong Hoàng Tuyền thiên hà. Lại bị Lôi Trì ở phía dưới dâng lên nuốt chửng sạch sành sanh.
 
-Thì ra là hai con Giao Long đen trắng đó hầu như cùng lúc tỉnh lại, bốn con mắt vốn đang mờ mịt ngây ngô nhắm nghiền nay đã tràn đầy sát ý thô bạo, giống như bốn cái mặt trời nhỏ đang nhìn chằm chằm vào thân hình La Phàm vậy.
+Những làn khói đen này chính là tạp chất bên trong dải Hoàng Tuyền thiên hà này...
 
-Miệng há to, hướng về vị trí của La Phàm mà ngửa mặt lên trời gào thét, thân hình vùng dậy mãnh liệt nhào lên phía La Phàm.
+Nước suối Hoàng Tuyền được cấu thành từ Trọng Trọc Âm Cực chi khí, cũng có thể coi là tinh thuần rồi, nhưng so với mức độ tinh thuần mà pháp khí yêu cầu thì vẫn còn có điểm thiếu hụt. Tự nhiên là cần phải được tinh lọc kỹ lưỡng một phen mới có thể được.
 
-Thân hình của hai con Giao Long này thảy đều dài tới mấy vạn trượng, kích thước của chúng cư nhiên sở hữu đường kính tới mấy chục trượng, thực sự là kinh người chí cực.
+Sau khi những đạo phù văn màu đỏ và Trọng Trọc Âm Phù tiến vào bên trong đó, chúng liên kết lấy nhau, liên tục ngưng tụ, liên tục quấn quýt lấy nhau, dần dần hóa thành từng lớp từng lớp cấm chế, phủ khắp toàn bộ dải Hoàng Tuyền thiên hà dài vô tận.
 
-Lúc này gầm thét gào thét như thế, khí thế nhào mạnh về phía La Phàm quả thực là chấn động lòng người.
+Nương theo sự trôi qua của thời gian, dải Hoàng Tuyền thiên hà càng ngày càng ngưng tụ, càng ngày càng tinh thuần, dần dần phát ra ánh huỳnh quang màu vàng nhạt, giống như một khối hoàng ngọc vô cùng thần bí vậy.
 
-"Ăn ngươi... ăn ngươi..."
+Mà thể tích, chiều dài của nó lại càng đột ngột thu nhỏ lại tới hơn ngàn lần, trông có vẻ giống như một con suối nhỏ vậy.
 
-"Ta muốn ăn... Ta muốn ăn..."
-
-Hai giọng nói một nam một nữ theo tiếng rồng ngâm lọt vào tai La Phàm.
-
-La Phàm chau mày thật sâu. Linh thức của hai con Giao Long này xem ra còn tàn khuyết hơn nhiều so với y tưởng tượng a...
-
-Thân hình của La Phàm so với hai con Giao Long này cư nhiên liên lâu kiến cũng không sánh bằng, dường như con Giao Long này chỉ cần móng vuốt khẽ bóp một cái là có thể bóp nát y thành cám vậy!
-
-Đối mặt với hai con Giao Long hung hăng lao tới, trong lòng La Phàm không hề có một chút hoảng hốt nào, luồng khí tức vốn đang thu liễm trên người mãnh liệt tán ra. Luồng khí tức vĩnh viễn không khuất phục, vĩnh viễn không từ bỏ đó nháy mắt bao phủ toàn bộ thung lũng.
-
-Luồng khí tức này so với luồng khí tức thô bạo, hung tàn trên người hai con Giao Long này ít nhất là hùng hậu, to lớn hơn gấp mười lần trở lên!
-
-Hai con Giao Long đó trưởng thành ở trong cái thung lũng cách Bất Chu Sơn không tính là quá xa này, đối với luồng khí tức thương mang bất khuất mà Bất Chu Sơn phát ra từ lâu đã cực kỳ quen thuộc, thậm chí hoàn toàn thích ứng rồi.
-
-Khí tức này của La Phàm tuy nói là không giống với khí tức Bất Chu Sơn phát ra, nhưng về căn nguyên thì vẫn là tương đồng.
-
-Do đó khí tức của y tuy mạnh hơn hai con Giao Long này tới mười lần trở lên nhưng vẫn không thể áp đảo được ngọn lửa hung hãn của chúng, hai con Giao Long đó vẫn mặc kệ hết thảy, trương nanh múa vuốt nhào về phía La Phàm.
-
-La Phàm thở dài một tiếng.
-
-Đám mây vàng dưới chân mãnh liệt tán ra, hóa thành một kiện trường bào hoàng ngọc bao phủ toàn thân trên dưới của y...
-
-Tiếp đó, y nhấc tay hướng về phía hai con Giao Long hư không chộp một cái, luồng Hỗn Độn Nguyên Khí trong thung lũng mãnh liệt chấn động, ngưng tụ thành một bàn tay khổng lồ màu xám vô cùng ngưng thực, giống như nắm lấy dải lụa vậy, nháy mắt đã nắm chặt lấy hai con Giao Long này!
+Tới lúc này, thời gian đã trôi qua được một ngàn năm trời.

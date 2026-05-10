@@ -1,97 +1,97 @@
-# Chương 0018 - Tiên Thiên Đạo Thể, Bàn Cổ Nguyên Linh
+# Chương 18: Tiên Thiên Đạo Thể, Bàn Cổ Nguyên Linh
 
-Cơ thể vỡ vụn, len lỏi sâu vào từng tế bào, và sự vỡ vụn của mỗi một tế bào đều mang lại nỗi đau đớn như thể có người dùng dao lóc từng miếng thịt đỏ hỏn trên người hắn vậy.
+Sự tan rã của cơ thể ăn sâu vào từng tế bào, mà sự vỡ nát của mỗi tế bào đều mang theo cơn đau đớn như thể bị lóc từng miếng thịt máu me nhễ nhại trên người vậy.
 
-Trong suốt quá trình cơ thể bị phá hủy rồi tái cấu trúc, La Phàm vô cùng không may là không hề mất đi bất kỳ tri giác nào. Hắn đã phải nếm trải từng chút một nỗi đau đớn vô cùng vô tận ấy!
+Trong suốt quá trình cơ thể tan rã rồi tái tạo, La Phàm vô cùng bất hạnh khi chẳng hề mất đi bất kỳ cảm quan nào, hắn đã tận hưởng trọn vẹn từng chút một luồng đau đớn vô cùng vô tận kia!
 
-Từ một cơ thể vẹn toàn cho đến khi vỡ nát hoàn toàn thành vô số bụi bặm, rồi từ vô số bụi bặm ấy từng chút một ngưng kết thành Tiên Thiên Đạo Thể, quá trình này kéo dài ròng rã bảy ngày bảy đêm. Trong khoảng thời gian đó, nỗi đau đớn tận cùng không có lấy một khắc dừng lại, hệt như dòi đục xương, bám chặt lấy tâm thần ý niệm của hắn.
+Từ một cơ thể hoàn chỉnh đến khi vỡ nát hoàn toàn thành vô số bụi mịn, rồi từ vô số bụi mịn từng chút một ngưng tụ thành Tiên Thiên Đạo Thể, tổng cộng kéo dài bảy ngày bảy đêm. Trong khoảng thời gian này, luồng đau đớn vô cùng vô tận kia chưa từng ngừng lại lấy một khắc, hệt như dòi đục xương vậy, quấn chặt lấy tâm thần ý niệm của hắn.
 
-Nếu không phải hắn đã chuyển phần lớn sự chú ý vào việc cảm ngộ và khống chế pháp lực, e rằng lúc này trong lòng đã để lại bóng ma không thể xóa nhòa, thậm chí có thể ảnh hưởng đến sự hình thành của Tiên Thiên Đạo Thể.
+Nếu không phải hắn chuyển phần lớn sự chú ý sang việc thể ngộ pháp lực và khống chế pháp lực, lúc này e là trong lòng đã để lại bóng ma không thể xóa nhòa, thậm chí có thể ảnh hưởng tới sự hình thành của Tiên Thiên Đạo Thể.
 
-Vì sự tồn tại của luồng lực xé rách kia, trong bảy ngày bảy đêm này, Cương Phong Lôi Hỏa tụ tập về ngày càng nhiều, uy lực của chúng tự nhiên cũng theo thời gian mà không ngừng tăng cường. Đến sau bảy ngày bảy đêm, cường độ của nó đã gấp đôi so với lúc ban đầu.
+Bởi sự tồn tại của luồng sức mạnh xâu xé kia, trong bảy ngày bảy đêm qua, cương phong lôi hỏa tụ tập về đây ngày càng nhiều, uy lực của chúng tự nhiên cũng theo thời gian trôi qua mà không ngừng tăng cường. Đợi đến lúc sau bảy ngày bảy đêm, cường độ của chúng đã gấp đôi so với thời điểm bảy ngày bảy đêm trước đó.
 
-Tuy nhiên, đến thời điểm này, cường độ ấy cũng đã đạt tới đỉnh điểm.
+Tuy nhiên, đến thời điểm hiện tại sau bảy ngày bảy đêm, cường độ của chúng cũng đã đạt tới đỉnh điểm rồi.
 
-Những sinh mệnh thể cấu thành từ Cương Phong, Sét và Lửa dù sao cũng có bản năng đơn giản. Mỗi khi tiến lại gần phạm vi vạn dặm quanh thân La Phàm, chúng đều bị xoắn nát và trở về bản nguyên. Những sinh mệnh dạng mây này làm sao lại không biết sợ hãi? Đã sợ hãi, chúng sao có thể không dốc sức tránh xa phạm vi trí mạng này? Vì vậy, uy lực của Cương Phong Lôi Hỏa đương nhiên không thể tăng lên vô hạn, chắc chắn sẽ có một điểm dừng.
+Những sinh mệnh thể cấu thành từ cương phong, lôi, hỏa rốt cuộc cũng sở hữu bản năng đơn giản. Cứ mỗi khi tiến gần đến phạm vi vạn dặm quanh thân La Phàm là sẽ bị đánh tan thành cát bụi, quay về bản nguyên, làm sao những sinh mệnh thể dạng mây này lại không thấy sợ hãi cho được? Đã thấy sợ hãi, làm sao chúng lại không dốc sức né tránh cái vùng khu vực lấy mạng người này? Do đó, uy lực của cương phong, lôi, hỏa này đương nhiên cũng không thể nâng cao vô hạn, đương nhiên cũng phải có một cái đỉnh điểm tồn tại.
 
-Sau đỉnh điểm là vực sâu, lúc này, uy lực của Cương Phong Lôi Hỏa hung bạo đã bắt đầu từ từ suy giảm.
+Sau đỉnh điểm chính là thung lũng, lúc này, uy lực của những cương phong, lôi, hỏa bạo ngược đã bắt đầu chậm rãi giảm bớt.
 
-Theo sự suy giảm uy lực của chúng, lượng hỗn độn nguyên khí xuyên qua vòng xoáy không ngừng tăng lên, tốc độ sụp đổ của những hạt bụi tụ về từ bốn phương tám hướng cũng ngày càng chậm lại!
+Theo uy lực của chúng giảm bớt, lượng hỗn độn nguyên khí lao qua xoáy nước không ngừng tăng lên, tốc độ tan rã của những hạt bụi mịn tụ tập về từ bốn phương tám hướng cũng ngày càng chậm lại!
 
-Cuối cùng, vào một khoảnh khắc nào đó, sự sụp đổ không ngừng nghỉ ấy đã hoàn toàn dừng lại!
+Cuối cùng, vào một khoảnh khắc nào đó, sự tan rã không bao giờ ngừng lại này đã hoàn toàn chấm dứt!
 
-Cơ thể đỏ hỏn ban đầu trong tích tắc ấy bỗng nhiên biến đổi, trở thành cơ thể của một nam tử với làn da như ngọc, tóc dài xõa vai, lông mày kiếm sắc sảo, đôi mắt sáng tựa tinh tú, toàn thân toát ra một luồng khí tức thương mang bất khuất, kiên định không gì lay chuyển nổi!
+Cái thân hình máu me nhễ nhại ban đầu vào khoảnh khắc đó bỗng nhiên biến đổi, biến thành một cơ thể nam tử với làn da như ngọc, tóc dài ngang vai, mày kiếm vào tận thái dương, mắt sáng như sao, khắp người tỏa ra một luồng khí tức thương lương bất khuất, kiên định bất di!
 
-Tiên Thiên Đạo Thể cuối cùng đã hoàn toàn định hình vào chính thời khắc này!
+Tiên Thiên Đạo Thể cuối cùng đã hoàn toàn thành hình vào khoảnh khắc này!
 
 "Tán..."
 
-Vị nam tử ấy đứng trong sự bao bọc của hỗn độn nguyên khí, cất tiếng khẽ gọi.
+Vị nam tử kia ở bên trong lớp bao bọc của hỗn độn nguyên khí khẽ mở miệng quát một tiếng.
 
-Vòng xoáy khổng lồ bao phủ vạn dặm xung quanh liền nhẹ nhàng giải thể trong nháy mắt. Toàn bộ quá trình diễn ra một cách thong dong, hệt như việc nhẹ nhàng phủi đi lớp bụi trên người vậy.
+Cái xoáy nước khổng lồ bao phủ phạm vi vạn dặm xung quanh liền tan rã trong tích tắc một cách nhẹ nhàng, toàn bộ quá trình nhẹ tựa lông hồng, hệt như phủi đi bụi bặm trên người vậy.
 
-Luồng hỗn độn nguyên khí phóng lên như cột chống trời từ địa huyệt cách đó chín vạn dặm cũng dần dần tan đi, sau vài hơi thở đã biến mất không còn tăm tích.
+Luồng hỗn độn nguyên khí vọt lên từ địa huyệt phía dưới hơn chín vạn dặm hệt như thiên trụ cũng dần dần tan biến, sau vài nhịp thở đã hoàn toàn mất dấu vết.
 
-Tầng Cương Phong Lôi Hỏa vốn hung bạo vô cùng cũng dần trở lại vẻ "bình lặng" như lúc ban đầu.
+Mà tầng Cương Phong Lôi Hỏa vốn bạo ngược vô cùng này cũng dần dần khôi phục về trạng thái bình lặng như lúc ban đầu.
 
-Phía dưới chân hắn, tấm bình phong giữa tầng thứ hai và tầng thứ ba của Cương Phong Lôi Hỏa vốn đã bị xoắn nát ngay từ đầu, nay đang nhanh chóng khôi phục và dần định hình trở lại.
+Ở phía dưới hắn, lớp bình chướng giữa tầng thứ hai và tầng thứ ba của Cương Phong Lôi Hỏa vốn đã bị đánh tan ngay từ đầu đang nhanh chóng khôi phục, dần dần thành hình.
 
-Lượng Cương Phong Lôi Hỏa nổ tung tuy nhiều, nhưng không còn hình thành nên những sinh mệnh dạng mây nữa, mà nhanh chóng chìm xuống, từ tầng thứ ba xuống tầng thứ hai, rồi từ tầng thứ hai xuống tầng thứ nhất mới dừng lại ở đó.
+Lượng cương phong lôi hỏa nổ ra tuy đông đảo, nhưng lại không tạo thành những sinh mệnh thể dạng mây kia nữa, mà nhanh chóng chìm xuống, từ tầng thứ ba chìm vào tầng thứ hai, rồi từ tầng thứ hai chìm vào tầng thứ nhất mới dừng lại ở đó.
 
-Tốc độ sửa chữa tấm bình phong giữa tầng hai và tầng ba vô cùng nhanh chóng, lỗ hổng rộng vạn dặm kia đang thu nhỏ lại với tốc độ mắt thường có thể thấy được, chỉ trong chớp mắt đã biến đổi hoàn toàn, không lâu sau đã hoàn toàn biến mất.
+Tốc độ tu sửa lớp bình chướng giữa tầng thứ hai và tầng thứ ba vô cùng nhanh chóng, cái lỗ hổng to vạn dặm kia đang thu nhỏ lại với tốc độ có thể nhìn thấy bằng mắt thường, nháy mắt một cái là đã khác hẳn, không lâu sau đã hoàn toàn biến mất.
 
-Sau khi biến mất, trong phạm vi vạn dặm quanh người La Phàm xuất hiện một sự yên bình hiếm có.
+Sau khi biến mất, trong phạm vi vạn dặm xung quanh cơ thể La Phàm đã xuất hiện một sự bình lặng hiếm thấy.
 
-Những sinh mệnh dạng mây ở tầng thứ ba không bị ảnh hưởng cũng không vì sự biến mất của lực xé rách mà lao về phía La Phàm, mà chỉ lảng vảng bên ngoài vạn dặm, không dám tiến lại gần.
+Những sinh mệnh thể dạng mây ở tầng thứ ba không bị ảnh hưởng cũng không vì sự biến mất của luồng sức mạnh xâu xé mà lao về phía La Phàm, mà chỉ không ngừng quanh quẩn ở ngoài vạn dặm, không dám tiếp cận phạm vi vạn dặm quanh thân hắn.
 
-"Đây chẳng lẽ chính là hóa hình trong truyền thuyết sao?" La Phàm cúi đầu đánh giá cơ thể mình, vuốt ve làn da như ngọc một cách đầy lạ lẫm, cảm nhận xúc giác truyền đến từ cơ thể và đôi tay, trong lòng thoáng chút ngẩn ngơ.
+"Đây chẳng lẽ chính là hóa hình trong truyền thuyết sao?" La Phàm cúi đầu đánh giá cơ thể mình, vuốt ve làn da như ngọc một cách vô cùng gượng gạo, cảm nhận xúc cảm truyền tới từ cơ thể và đôi bàn tay, lòng có chút bàng hoàng.
 
-Thế nhưng, sự ngẩn ngơ ấy cũng chỉ kéo dài trong chốc lát.
+Tuy nhiên, bàng hoàng cũng chỉ kéo dài trong chốc lát mà thôi.
 
-Trong nháy mắt, từ sâu trong não bộ của hắn có một lượng thông tin khổng lồ bộc phát ra, ngay lập tức làm cho cái đầu mới thành hình của hắn trở nên tê dại, thậm chí có cảm giác đầu mình sắp sửa nổ tung như quả bóng bay.
+Thoắt cái, nơi sâu thẳm não bộ hắn hiện ra lượng thông tin vô tận, trong tích tắc đã khiến cái đầu vừa mới thành hình của hắn trở nên đờ đẫn, thậm chí có cảm giác cái đầu sắp sửa nổ tung hệt như quả bóng bay vậy.
 
-Cố gắng chống chọi với cảm giác nổ tung ấy, vô số khái niệm, định nghĩa và văn tự nháy mắt xuất hiện trong đầu hắn.
+Chống đỡ luồng cảm giác sắp nổ tung đó, vô số khái niệm, vô số định nghĩa, vô số văn tự trong tích tắc hiện lên trong não bộ hắn.
 
-Chỉ trong tích tắc, hắn đã hiểu rõ vô số điều mà trước đó một giây hắn vẫn còn mờ mịt — hắn hiểu rõ trạng thái hiện tại của mình, hiểu rõ lai lịch của công pháp mà mình đang tu luyện, và càng hiểu rõ tại sao trong đầu thỉnh thoảng lại bộc phát ra những thông tin mà trước đây hắn không hề hay biết!
+Chỉ trong nháy mắt, hắn đã hiểu ra vô số thứ mà một khoảnh khắc trước đó hắn vẫn chưa hiểu — hắn hiểu được trạng thái hiện tại của mình, hiểu được lai lịch của bộ công pháp mình đang tu luyện, lại càng hiểu được tại sao thỉnh thoảng trong não bộ lại hiện ra những thông tin đó cùng vô số thứ mà trước kia hắn không hiểu nổi!
 
-"Tiên Thiên Đạo Thể... Đây mới là Tiên Thiên Đạo Thể thực sự... Hóa ra Bàn Cổ sinh ra là mang hình dáng thế này... Hóa ra giữa trời đất còn có Bàn Cổ Nguyên Linh..." Đôi mắt La Phàm sáng rực lên.
+"Tiên Thiên Đạo Thể... Đây chính là Tiên Thiên Đạo Thể thực thụ... Hóa ra Bàn Cổ sinh ra đã mang dáng vẻ này... Hóa ra giữa thiên địa vẫn còn Bàn Cổ nguyên linh..." Đôi mắt La Phàm sáng lên.
 
-Tỳ Hưu chính là lứa sinh linh đầu tiên của Hồng Hoang thiên địa, cũng là lứa Tiên Thiên Thần Chỉ đầu tiên được sinh ra.
+Tỳ Hưu chính là lứa sinh linh đầu tiên nảy sinh trong thiên địa Hồng Hoang, cũng chính là lứa tiên thiên thần kỳ đầu tiên được sinh ra.
 
-Khi hắn sinh ra, Bàn Cổ vừa mới ngã xuống, nhưng nguyên linh của Ngài vẫn còn lưu lại giữa trời đất. Cùng với sự ra đời của vô số Tiên Thiên Thần Chỉ, những nguyên linh tàn lưu này hóa thành từng sợi nhỏ, tương ứng hòa nhập vào bên trong cơ thể của vô số vị thần chỉ này.
+Vào lúc nó ra đời, Bàn Cổ vừa mới ngã xuống, nhưng nguyên linh của ngài vẫn còn vương lại giữa thiên địa. Cùng với sự ra đời của vô số tiên thiên thần kỳ, những nguyên linh còn vương lại này hóa thành từng sợi từng sợi, lần lượt hòa vào bên trong cơ thể của vô số tiên thiên thần kỳ này.
 
-Những sợi nguyên linh này không chứa đựng bất kỳ ý chí nào, chỉ là một loại tồn tại tương tự như ký ức, tương tự như cảm ngộ, không có cái tôi, càng không có linh thức, chỉ giống như một chiếc máy tính ẩn giấu sâu trong cơ thể các Tiên Thiên Thần Chỉ.
+Những sợi nguyên linh này không hề chứa đựng bất kỳ ý chí nào, chỉ là một loại tồn tại tương tự như ký ức, tương tự như thể ngộ, không có bất kỳ cái tôi nào, lại càng không có linh thức nào, chỉ hệt như máy tính ẩn giấu nơi sâu thẳm bên trong cơ thể tiên thiên thần kỳ.
 
-Mỗi khi các vị thần chỉ này lĩnh ngộ được điều gì đó, họ sẽ chạm tới sợi nguyên linh ẩn giấu sâu trong cơ thể mình. Điều này làm cho những cảm ngộ trong suốt vô số năm của Bàn Cổ trào ra, hoàn thiện thêm sự lĩnh ngộ của các thần chỉ, dẫn dắt họ tu hành!
+Mỗi khi tiên thiên thần kỳ lĩnh ngộ được thứ gì đó, sẽ chạm tới sợi nguyên linh ẩn giấu nơi sâu thẳm bên trong cơ thể này. Khiến cho những thể ngộ suốt vô số năm của Bàn Cổ bên trong nguyên linh này hiện ra, hoàn thiện thể ngộ của tiên thiên thần kỳ, dẫn dắt tiên thiên thần kỳ tu hành!
 
-Sự hoàn thiện và dẫn dắt này là nhờ vào cảm ngộ tu hành suốt bao năm của Bàn Cổ, nhờ vào cảnh giới đủ để khai thiên tịch địa của Ngài, chứ không phải là sao chép nguyên xi ký ức của Bàn Cổ.
+Sự hoàn thiện, sự dẫn dắt này là mượn nhờ vào những thể ngộ tu hành suốt vô số năm của Bàn Cổ, mượn nhờ vào cảnh giới đủ để khai thiên lập địa của Bàn Cổ, nhưng lại không phải là sao chép nguyên văn ký ức của Bàn Cổ.
 
-Nói cách khác, những công pháp được hoàn thiện này hoàn toàn xuất phát từ chính bản thân vị thần chỉ đó! Về bản chất, nó vẫn là sự lĩnh ngộ của họ! Chức năng của Bàn Cổ Nguyên Linh chỉ là làm cho độ khó của sự lĩnh ngộ này trở nên đơn giản hơn, giúp họ bớt đi những đường vòng mà thôi.
+Nói cách khác, những bộ công pháp được hoàn thiện ra này hoàn toàn xuất phát từ chính bản thân tiên thiên thần kỳ! Về bản chất vẫn là sự lĩnh ngộ của tiên thiên thần kỳ! Công năng của Bàn Cổ nguyên linh chỉ là khiến độ khó của sự lĩnh ngộ này trở nên đơn giản hơn, khiến họ bớt đi đường vòng mà thôi.
 
-Vô Danh Công Pháp mà La Phàm ngộ ra khi cảm nhận núi Bất Chu chính là như vậy.
+Bộ công pháp vô danh mà La Phàm thể ngộ núi Bất Chu mà có được chính là như vậy.
 
-Chức năng của Bàn Cổ Nguyên Linh mạnh mẽ đến mức nghịch thiên, nhưng cũng chỉ dừng lại ở đó.
+Công năng của Bàn Cổ nguyên linh cường hãn đến mức nghịch thiên, nhưng cũng chỉ dừng lại ở đó mà thôi.
 
-Hồng Hoang thiên địa rộng lớn nhường này, số lượng Tiên Thiên Thần Chỉ sinh ra là con số thiên văn, Bàn Cổ Nguyên Linh dù nhiều đến đâu thì cũng là hữu hạn. Lượng nguyên linh hòa nhập vào mỗi vị thần chỉ tự nhiên cũng vô cùng ít ỏi, cuối cùng cũng sẽ dùng hết.
+Thiên địa Hồng Hoang rộng lớn đến nhường này, số lượng tiên thiên thần kỳ được sinh ra là một con số thiên văn. Nguyên linh của Bàn Cổ dù nhiều đến đâu thì cũng là hữu hạn, lượng nguyên linh hòa vào mỗi một vị tiên thiên thần kỳ đương nhiên cũng là cực kỳ cực kỳ ít ỏi, rồi cũng sẽ dùng hết mà thôi.
 
-Mà những thông tin vừa bộc phát ra từ sâu trong não bộ La Phàm chính là toàn bộ thông tin mà sợi Bàn Cổ Nguyên Linh hòa nhập vào cơ thể hắn có thể mang lại! Sợi Bàn Cổ Nguyên Linh ẩn sâu trong người hắn đã cạn kiệt mọi tiềm năng và hoàn toàn tiêu tán...
+Mà những thông tin vừa mới vọt ra từ nơi sâu thẳm não bộ La Phàm kia chính là tất thảy thông tin mà Bàn Cổ nguyên linh hòa vào cơ thể La Phàm có thể hiện ra! Bàn Cổ nguyên linh hòa vào nơi sâu thẳm bên trong cơ thể La Phàm đã tiêu hao sạch sành sanh mọi tiềm lực, hoàn toàn tan biến rồi...
 
-Từ nay về sau, cho dù La Phàm có lĩnh ngộ thế nào, tìm kiếm ra sao, cũng không thể tìm thêm được dù chỉ một chút thông tin nào từ Bàn Cổ Nguyên Linh nữa!
+Từ nay về sau, bất kể La Phàm lĩnh ngộ ra sao, bất kể La Phàm tìm kiếm thế nào, đều không thể nào từ nơi sâu thẳm não bộ tìm ra thêm dù chỉ một chút xíu thông tin do Bàn Cổ nguyên linh hiện ra nữa!
 
-Và cũng chính những thông tin này đã giúp La Phàm hiểu rõ hoàn toàn trạng thái của mình, hiểu rõ con đường tu hành trong tương lai.
+Và cũng chính những thông tin này đã khiến La Phàm hoàn toàn hiểu rõ trạng thái của mình, hiểu rõ con đường tu hành sau này.
 
-Địa Tiên Đạo Quả, Thái Ất Đạo Quả, Đại La Đạo Quả, Hỗn Nguyên Đạo Quả.
+Địa Tiên đạo quả, Thái Ất đạo quả, Đại La đạo quả, Hỗn Nguyên đạo quả.
 
 Đây chính là con đường tu hành của thế giới Hồng Hoang!
 
-Lúc này La Phàm đã đạt được Tiên Thiên Đạo Thể, coi như đã chứng được Địa Tiên Đạo Quả, đủ để tự xưng là Tản Tiên!
+La Phàm lúc này đạt được Tiên Thiên Đạo Thể, đã chứng đắc Địa Tiên đạo quả, đủ sức tự xưng là Tán Tiên!
 
-Nếu hắn tiếp tục tu hành, thực lực tăng cường, cảnh giới thăng lên một giai đoạn nữa thì có thể gọi là Chân Tiên; sau đó, nếu cảnh giới tiếp tục thăng lên sẽ là Kim Tiên. Đạt tới Kim Tiên đã là đỉnh phong của Địa Tiên Đạo Quả, từ đó mới có thể cầu chứng Thái Ất Đạo Quả!
+Hắn nếu tiếp tục tu hành, thực lực tăng cường, cảnh giới nâng lên thêm một giai đoạn nữa là có thể gọi là Chân Tiên; sau đó, nếu cảnh giới nâng cao nữa thì chính là Kim Tiên. Đạt tới Kim Tiên đã là đỉnh phong của Địa Tiên đạo quả, đến đây mới có thể cầu chứng Thái Ất đạo quả!
 
-Tản Tiên, Chân Tiên, Kim Tiên là ba cảnh giới của Địa Tiên Đạo Quả. Khoảng cách giữa mỗi hai giai đoạn là cực kỳ khổng lồ, cần tới thời gian tính bằng hàng nghìn hàng vạn Nguyên Hội tích lũy mới có thể vượt qua. Độ khó trên con đường tu hành lớn đến mức nào, có thể tưởng tượng được.
+Tán Tiên, Chân Tiên, Kim Tiên là ba cảnh giới của Địa Tiên đạo quả, khoảng cách giữa mỗi hai giai đoạn là lớn đến mức không thể tưởng tượng nổi, cần phải dùng thời gian tính bằng hàng ngàn hàng vạn nguyên hội tích lũy mới có thể vượt qua, con đường tu hành gian nan nhường nào, có thể tưởng tượng được.
 
-"Đường dài thăm thẳm xa xôi, ta sẽ quyết tâm tìm kiếm cho bằng được." La Phàm ngâm khẽ một tiếng. Cảm nhận được con đường tu hành dài đằng đẵng, luồng khí tức thương mang bất khuất trên người hắn lại trở nên sục sôi hơn bao giờ hết.
+"Đường dài thăm thẳm xa xôi quá, ta sẽ trên dưới mà cầu tìm." La Phàm ngâm khẽ một tiếng, cảm nhận con đường tu hành dài đằng đẵng, luồng khí tức thương mang bất khuất trên người hắn lại trở nên cao vút hơn bao giờ hết.
 
-Hắn quay đầu nhìn quanh, giơ tay chộp một cái. Ở phía trên nghìn dặm, trong tầng thứ tư của Cương Phong Lôi Hỏa, một đám mây màu nâu đen rộng trăm dặm bỗng phát ra một tiếng thét thê lương, co rút lại thành một đám mây nhỏ chừng ba trượng.
+Ngoảnh đầu nhìn quanh, đưa tay chộp một cái, ngoài ngàn dặm, một đóa mây màu nâu xám rộng vạn dặm trong tầng thứ tư của Cương Phong Lôi Hỏa bỗng phát ra một tiếng thảm thiết, co lại thành một cụm mây rộng ba trượng.
 
-La Phàm đưa tay kéo một cái, đám mây ấy liền lao nhanh về phía hắn. Trong quá trình đó, đám mây không ngừng biến hình và ngưng cố lại. Cuối cùng, khi nó bay tới trước mặt La Phàm, nó đã hóa thành một chiếc trường bào màu nâu xám, quấn lấy thân thể Tiên Thiên Đạo Thể trần trụi của hắn.
+La Phàm đưa tay kéo một cái, đóa mây kia liền bay xẹt về phía hắn cực nhanh. Trong quá trình bay xẹt, cụm mây này không ngừng biến hình đông đặc lại. Cuối cùng, đợi đến khi nó bay tới trước mặt La Phàm, đã hóa thành một bộ trường bào màu nâu xám, quấn một cái, che kín lấy Tiên Thiên Đạo Thể đang trần trụi của La Phàm.

@@ -1,87 +1,87 @@
-# Chương 0019 - Địa Tiên Đạo Quả, Vô Lượng Thần Thông
+# Chương 19: Địa Tiên Đạo Quả, Vô Lượng Thần Thông
 
-La Phàm lẳng lặng treo lơ lửng trên tầng thứ ba của Cương Phong Lôi Hỏa, chiếc trường bào màu nâu xám trên người phất phơ theo gió, tỏa ra một khí chất phiêu dật thoát tục.
+La Phàm lặng lẽ lơ lửng ở tầng thứ ba của Cương Phong Lôi Hỏa, bộ trường bào màu nâu xám trên người hắn bay phấp phới theo gió, một luồng khí chất phiêu dật tuôn trào từ trên người hắn.
 
-Chiếc trường bào này vốn là một đám mây cấu thành từ hai loại năng lượng Tam Muội Thần Phong và Mậu Thổ Thần Lôi. Loại cấu thành này có thể coi là đơn thuần và tinh thuần nhất trong số các sinh mệnh dạng mây ở các tầng. Khi hóa thành trường bào khoác lên người hắn, nó trông chẳng khác gì một chiếc áo được dệt từ tơ sợi thật sự.
+Đóa mây hóa thành trường bào này chỉ được cấu thành từ hai loại năng lượng là Tam Muội Thần Phong và Mậu Thổ Thần Lôi. Loại cấu thành này so với các sinh mệnh thể dạng mây ở các tầng mà nói, có thể coi là loại đơn thuần nhất, tinh thuần nhất. Khi hóa thành trường bào khoác lên người hắn, nó trông chẳng khác gì một bộ trường bào thực thụ được dệt từ tơ sợi.
 
-Lúc này, pháp lực bên trong cơ thể La Phàm đã lắng dịu lại, nhưng không trở về cung Nê Hoàn mà ngưng kết tại đan điền bụng dưới thành một khối co giãn bất định, tựa như một loại trái cây kỳ lạ.
+Lúc này, pháp lực bên trong cơ thể La Phàm đã trầm lắng lại, nhưng không phải quay về Cung Nê Hoàn, mà là ngưng tụ thành một khối co giãn bất định, hệt như một loại quả lạ ở bên trong đan điền bụng dưới của hắn.
 
-Đó chính là đạo quả! Là Địa Tiên Đạo Quả mà La Phàm vừa mới chứng đắc!
+Đây chính là đạo quả! Chính là Địa Tiên đạo quả mà La Phàm đã chứng đắc!
 
-Đạo quả này do pháp lực ngưng tụ mà thành, có thể tan có thể tụ, thần diệu vô cùng. Nó có mối liên hệ cực kỳ huyền diệu với thần hồn trong thế giới thức hải, thậm chí tần số co giãn và rung động của cả hai đều vô cùng ăn khớp, hơn nữa đều chứa đựng bản nguyên sinh mệnh của La Phàm!
+Đạo quả này do pháp lực ngưng tụ thành, có thể tan có thể tụ, thần diệu vô cùng. Nó có mối liên hệ cực kỳ huyền diệu với thần hồn bên trong thế giới thức hải, thậm chí tần suất co giãn rung động của cả hai còn vô cùng ăn khớp, hơn nữa đều chứa đựng sinh mệnh bản nguyên của La Phàm!
 
-Sau này nếu tranh đấu với người khác, chỉ cần một trong hai thứ này thoát ra được thì mạng sống của hắn sẽ không còn nguy hiểm. Hắn chỉ cần hấp thu lượng lớn nguyên khí là có thể tái tạo lại bản nguyên kia, từ đó tái tạo lại cơ thể!
+Sau này nếu tranh đấu với người khác, chỉ cần một trong hai thứ này thoát được thì tính mạng của hắn sẽ không gặp bất kỳ nguy hiểm nào, chỉ cần hấp thụ lượng lớn nguyên khí là có thể tái tạo một loại bản nguyên khác, từ đó tái tạo thân hình!
 
-Nói cách khác, sở hữu Địa Tiên Đạo Quả và thần hồn, La Phàm tương đương với việc có thêm hai mạng sống.
+Nói cách khác, La Phàm sở hữu Địa Tiên đạo quả và thần hồn tương đương với việc có thêm hai mạng nữa.
 
-Mặc dù sợi Bàn Cổ Nguyên Linh mà La Phàm nhận được chỉ là một chút ít ỏi, so với toàn bộ nguyên linh của bản thân Bàn Cổ thì chẳng khác nào muối bỏ bể.
+Lượng Bàn Cổ nguyên linh mà La Phàm nhận được tuy chỉ là một chút xíu, so với toàn bộ nguyên linh của bản thân Bàn Cổ mà nói thì chẳng khác nào dã tràng xe cát, hạt muối bỏ bể.
 
-Thế nhưng, thông qua hiệu quả đặc biệt của Bàn Cổ Nguyên Linh — khả năng hoàn thiện các công pháp và pháp quyết do bản thân cảm ngộ — những lợi ích mà La Phàm nhận được lại vượt xa so với các Tiên Thiên Thần Chỉ khác!
+Nhưng thông qua công năng đặc thù của Bàn Cổ nguyên linh, thông qua khả năng hoàn thiện các bộ công pháp, pháp quyết do bản thân cảm ngộ ra của Bàn Cổ nguyên linh, lợi ích mà La Phàm nhận được lại vượt xa so với những tiên thiên thần kỳ khác!
 
-La Phàm có một điểm khác biệt cực lớn so với những Tiên Thiên Thần Chỉ sinh trưởng tại thế giới Hồng Hoang, đó là hắn sở hữu linh hồn xuyên không từ Trái Đất, cùng với lượng ký ức khổng lồ mang theo từ đó.
+La Phàm có một điểm khác biệt cực lớn so với những tiên thiên thần kỳ sinh trưởng ở thế giới Hồng Hoang, đó là hắn sở hữu linh hồn xuyên không từ trái đất tới, cũng sở hữu lượng ký ức khổng lồ mang theo từ trái đất.
 
-Vào khoảnh khắc Bàn Cổ Nguyên Linh sắp tan biến, nó giống như một hiện tượng hồi quang phản chiếu, phát huy uy năng gấp hàng nghìn hàng vạn lần bình thường! Trong khoảnh khắc ấy, nó đã quét qua toàn bộ ký ức trong não bộ La Phàm, thậm chí cả những ký ức mà chính hắn đã lãng quên.
+Bàn Cổ nguyên linh vào lúc sắp tan biến, hệt như hồi quang phản chiếu vậy, uy năng phát huy ra gần như vượt quá ngàn vạn lần bình thường! Ngay vào khoảnh khắc đó, nó đã quét qua toàn bộ ký ức sở hữu trong não bộ La Phàm, thậm chí bao gồm cả những ký ức mà chính hắn cũng đã lãng quên.
 
-Thế kỷ hai mươi mốt là xã hội bùng nổ thông tin, chỉ cần một chiếc máy tính và một đường dây mạng là có thể tiếp cận được gần như mọi tri thức. Bất kỳ ai, chỉ cần từng lên mạng, chắc chắn sẽ tiếp nhận vô số thông tin rời rạc, kiến thức của bản thân cũng sẽ tăng lên một cách vô thức. Đương nhiên, từ đó cũng nảy sinh vô số ý tưởng.
+Thế kỷ 21 là một xã hội bùng nổ thông tin, chỉ cần có một chiếc máy tính, một sợi dây mạng là có thể đạt được gần như tất thảy kiến thức. Bất kỳ ai chỉ cần từng lên mạng nhất định sẽ tiếp nhận vô số thông tin rời rạc, kiến thức của bản thân cũng sẽ tăng trưởng một cách hữu ý hoặc vô ý. Đương nhiên, cũng sẽ nảy sinh vô số ý tưởng.
 
-Trong những ý tưởng đó, chắc chắn có không ít những ảo tưởng và cuồng tưởng.
+Trong những ý tưởng này, đương nhiên không thiếu những ảo tưởng, cuồng tưởng.
 
-Ví dụ như ngày nào đó xem một bộ tiểu thuyết, ảo tưởng mình có năng lực của nhân vật chính... xem một bộ phim, ảo tưởng mình có loại năng lực nào đó trong phim... vân vân và vân vân.
+Chẳng hạn, một ngày nào đó đọc một bộ tiểu thuyết, ảo tưởng mình sở hữu năng lực của nhân vật chính... xem một bộ phim, ảo tưởng mình sở hữu một loại năng lực nào đó trong phim... vân vân và vân vân.
 
-Những thứ này tuyệt đối không thể gọi là cảm ngộ.
+Những thứ này tuyệt đối không thể gọi là thể ngộ.
 
-Thế nhưng, vì sự hồi quang phản chiếu của Bàn Cổ Nguyên Linh, yêu cầu đối với cảm ngộ đã hạ thấp xuống vô cùng tận. Do đó, nó đã coi vô số ảo tưởng và cuồng tưởng mà La Phàm mang tới từ Trái Đất là cảm ngộ! Từ đó, nó sử dụng những cảm ngộ tích lũy suốt bao năm của Bàn Cổ để hoàn thiện những thứ vốn không được coi là cảm ngộ này, và sáng tạo ra vô số công pháp pháp quyết...
+Nhưng vì Bàn Cổ nguyên linh hồi quang phản chiếu, yêu cầu đối với thể ngộ được hạ thấp vô cùng, do đó nó đã coi tất thảy ảo tưởng, cuồng tưởng mang tới từ trái đất của La Phàm thành thể ngộ! Từ đó, lợi dụng loại thể ngộ suốt vô số năm của Bàn Cổ bên trong Bàn Cổ nguyên linh để hoàn thiện những loại thể ngộ không ra thể ngộ này, rồi sáng tạo ra vô số công pháp pháp quyết...
 
-Dĩ nhiên, Bàn Cổ Nguyên Linh suy cho cùng cũng chỉ là một sợi nhỏ, uy năng mạnh đến đâu cũng có giới hạn. Trong số những ảo tưởng và cuồng tưởng đó, những thứ quá phi lý, quá xa rời thực tế như: khiến Bàn Cổ không phải ngã xuống khi khai thiên tịch địa... hay hư không tạo vật... hay pháp quyết thay trời đổi đất... thì vẫn không thể sáng tạo ra được.
+Tất nhiên, Bàn Cổ nguyên linh rốt cuộc cũng chỉ là một chút xíu thôi, uy năng mạnh đến đâu cũng có giới hạn. Trong những ảo tưởng, cuồng tưởng đó, những thứ quá phi lý, quá rời xa thực tế, chẳng hạn như để Bàn Cổ ngã xuống là khai thiên lập địa... chẳng hạn như trống không tạo vật... chẳng hạn như các loại pháp quyết cải thiên hoán nhật vẫn là không thể sáng tạo ra được.
 
-Dù vậy, lúc này trong đầu La Phàm đã tràn ngập vô số pháp quyết. Thậm chí không cần tu luyện, hắn cũng đã sở hữu rất nhiều thần thông.
+Dù là vậy, lúc này não bộ La Phàm cũng đã chứa đầy vô tận pháp quyết. Dù không tu luyện thì cũng đã sở hữu rất nhiều thần thông.
 
-La Phàm nhẩm đọc một loại khẩu quyết gọi là "Tề Vân Giá Vũ" trong số vô vàn pháp quyết, khẽ giơ tay vẫy một cái. Một quy tắc bí ẩn nào đó trong cõi u minh khẽ chuyển động, dưới chân hắn sương mù dày đặc, trong chớp mắt xuất hiện một đóa tường vân đường kính ba mét.
+La Phàm thầm đọc khẩu quyết của một loại Đằng Vân Giá Vũ trong vô số pháp quyết, giơ tay khẽ vẫy một cái, một loại quy tắc thần bí nào đó trong cõi u minh khẽ động đậy, dưới chân hắn sương khói mịt mù, thoắt cái đã xuất hiện một đóa tường vân đường kính ba mét.
 
-Cảm giác mềm mại, thoải mái, kiên cố và đủ loại cảm giác tích cực khác truyền đến từ dưới chân.
+Mềm mại, thoải mái, dẻo dai cùng đủ loại cảm giác tích cực truyền tới từ dưới chân.
 
-Tâm thần khẽ động, đóa tường vân này nâng đỡ La Phàm lao nhanh về phía núi Bất Chu, tốc độ đó so với lúc hắn còn sử dụng cơ thể Tỳ Hưu phải nhanh hơn gấp trăm lần!
+Tâm thần khẽ động, đóa tường vân này liền chở La Phàm lao vọt về phía núi Bất Chu cực nhanh, tốc độ đó so với tốc độ khi hắn sử dụng thân hình Tỳ Hưu trước kia còn nhanh hơn gấp trăm lần trở lên!
 
-Chỉ trong nháy mắt đã đi được vạn dặm.
+Chỉ trong chớp mắt đã ra ngoài vạn dặm.
 
-Kể từ khi La Phàm thành tựu Tiên Thiên Đạo Thể, những sinh mệnh dạng mây mang bản năng đơn giản kia vẫn luôn lảng vảng bên ngoài vạn dặm. Mặc dù chúng không dám tiến lại gần phạm vi đó, nhưng điều đó không có nghĩa là bản tính của chúng đã thay đổi. Lúc này thấy La Phàm đi tới, có hàng chục đám mây cấu thành từ đủ loại năng lượng gào thét hung tợn lao về phía hắn.
+Kể từ khi La Phàm thành tựu Tiên Thiên Đạo Thể, những sinh mệnh thể dạng mây sở hữu bản năng đơn giản kia vẫn luôn quanh quẩn ở ngoài vạn dặm này. Tuy chúng không dám tiếp cận phạm vi vạn dặm đó, nhưng điều đó không có nghĩa là bản tính của chúng thay đổi. Lúc này thấy La Phàm tới, có vài chục đóa mây cấu thành từ đủ loại năng lượng hú hét quái dị lao thẳng về phía hắn.
 
-Dù tốc độ của những sinh mệnh dạng mây không bằng La Phàm, nhưng vì số lượng đông đảo, vẫn có không ít kẻ chắn trên đường tiến của hắn. Thân hình chúng phình to, chỉ chờ La Phàm lao vào cơ thể để bị chúng hủy diệt và tiêu hóa.
+Dù tốc độ của sinh mệnh thể dạng mây không bằng La Phàm, nhưng vì số lượng đông đảo nên cũng có không ít kẻ chắn trên phương hướng tiến về phía trước của La Phàm, thân hình phình to ra, chỉ chờ La Phàm lao vào trong cơ thể chúng là sẽ bị chúng hủy diệt tiêu hóa sạch.
 
-La Phàm nhìn những đám mây này với thần sắc bình thản, khẽ gạt tay một cái. Một luồng tiềm lực vô hình sinh ra từ hư không, những đám mây chắn đường phía trước liền tan vỡ từng mảnh, trở về bản nguyên, trong chớp mắt bị những đám mây chưa bị đánh tan xung quanh nuốt chửng không còn một mống...
+La Phàm nhìn những đóa mây này, thần sắc bình thản, giơ tay khẽ gạt một cái, vô hình tiềm lực từ hư không sinh ra, những đóa mây chắn đường phía trước liền tan vỡ từng đóa, quay về bản nguyên, thoắt cái đã bị những đóa mây xung quanh vẫn chưa bị đánh tan nuốt chửng sạch sành sanh...
 
-Trong quá trình đó, La Phàm đã tiến thêm vạn dặm, vượt xa sự ngăn trở của những sinh mệnh dạng mây kia, chỉ để lại những vệt sáng dài phía sau lưng.
+Mà trong quá trình này, La Phàm đã tiến lên vạn dặm, vượt xa sự ngăn trở của những sinh mệnh thể dạng mây này, chỉ để lại những vệt hào quang dài dằng dặc phía sau lưng.
 
-Hướng tiến của La Phàm đương nhiên là núi Bất Chu.
+Hướng tiến lên của La Phàm đương nhiên là núi Bất Chu kia.
 
-Toàn bộ năng lực và Địa Tiên Đạo Quả này của hắn đều có được từ núi Bất Chu. Lúc này núi Bất Chu đang ở ngay trước mắt, cách xa nghìn vạn dặm, hắn sao có thể từ bỏ ý định đặt chân lên đó?
+Toàn bộ năng lực này, Địa Tiên đạo quả này của hắn thảy đều có được từ núi Bất Chu, lúc này núi Bất Chu ngay trước mắt ngoài ngàn vạn dặm, hắn làm sao cam lòng từ bỏ ý định bước chân lên núi Bất Chu?
 
-Trên đường đi, thỉnh thoảng có những đám mây chắn lối, hắn chỉ cần tùy ý gạt tay, tự có một luồng tiềm lực vô hình sinh ra làm cho những sinh mệnh dạng mây ấy lập tức sụp đổ, trở về bản nguyên. Một số chìm xuống tầng thứ hai của Cương Phong Lôi Hỏa, nhưng phần lớn đều bị các đám mây xung quanh nuốt sạch.
+Trên đường đi, thỉnh thoảng có đóa mây chắn lối, hắn liền tùy tay gạt một cái, tự có một luồng vô hình tiềm lực sinh ra từ hư không, những sinh mệnh thể dạng mây đó liền lập tức sụp đổ, quay về bản nguyên, có kẻ chìm vào tầng thứ hai của Cương Phong Lôi Hỏa, nhưng nhiều hơn là bị những đóa mây xung quanh nuốt chửng sạch sẽ.
 
-Trong quá trình này, một cảm giác tiêu sái, không gì cản nổi tràn ngập trong lòng hắn...
+Trong quá trình này, một cảm giác phách lối, kiêu ngạo nghênh diện ập tới...
 
-Khi La Phàm tiến được khoảng chừng trăm vạn dặm, bỗng nhiên có một điểm xám như mũi tên từ đỉnh núi Bất Chu lao tới. Tốc độ đó tuy không bằng La Phàm đang cưỡi mây lướt gió, nhưng so với lúc còn là Tỳ Hưu thì nhanh hơn không chỉ gấp đôi.
+Ngay khi La Phàm tiến lên được chừng triệu dặm, bỗng nhiên có một điểm xám hệt như mũi tên xuyên thấu từ đỉnh núi Bất Chu tới, tốc độ đó tuy không bằng La Phàm đang đằng vân giá vũ lúc này, nhưng so với La Phàm khi hóa thân Tỳ Hưu thì nhanh hơn không chỉ gấp đôi.
 
-La Phàm khẽ nhíu mày, trong lòng thoáng chút cảm ứng, biết mục tiêu của điểm xám kia chắc chắn là mình.
+La Phàm khẽ nhíu mày, trong lòng hơi có cảm ứng, biết rằng mục tiêu của điểm xám kia nhất định là mình.
 
-Hắn dứt khoát dừng tường vân lại, giơ tay phất nhẹ, tiêu diệt hơn hai mươi đám mây trong phạm vi trăm dặm xung quanh, dọn ra một vùng yên tĩnh rộng lớn.
+Dứt khoát dừng tường vân lại, giơ tay gạt động, tiêu diệt hơn hai mươi đóa mây trong phạm vi trăm dặm xung quanh, dọn ra một vùng khu vực bình lặng phạm vi trăm dặm.
 
-Chỉ trong tích tắc, điểm xám kia đã tiến lại gần đến mức thị lực siêu cường của La Phàm có thể nhìn rõ.
+Chỉ vừa như thế, điểm xám kia đã tới gần đến mức thị lực siêu cường của La Phàm có thể nhìn rõ.
 
-Nhìn kỹ lại, đó là một sinh vật toàn thân bao phủ trong ánh sáng xám mờ mịt, hình dáng dị dạng, nhưng có thể lờ mờ nhận ra là mang hình người.
+Nhìn kỹ lại, đó là một sinh vật toàn thân bao bọc trong hào quang xám xịt, hình dáng kỳ hình dị dạng, nhưng có thể lờ mờ nhận ra là một sinh vật hình người.
 
 "Thiên sinh, hay là hóa hình? Sao lại trông xấu xí thế này?" La Phàm thầm nghĩ trong lòng.
 
-La Phàm điều khiển tường vân lơ lửng trong hư không, lẳng lặng chờ đợi nhân ảnh kia đi tới.
+La Phàm điều khiển tường vân lơ lửng giữa hư không, lặng lẽ đợi bóng người kia tới.
 
-Một lát sau, sinh vật mang hình người mờ nhạt kia đi tới trước mặt La Phàm, luồng ánh sáng xám bao phủ cơ thể hắn ngưng tụ thành một đám mây xám dưới chân.
+Không lâu sau, sinh vật lờ mờ nhìn ra có hình người kia tới trước mặt La Phàm, luồng hào quang xám xịt bao bọc thân hình gã ngưng tụ thành một cụm mây xám dưới chân gã.
 
-Kẻ quái dị kia đứng đó một lát rồi quỳ rạp xuống đám mây xám, "binh binh binh" dập đầu liên tục.
+Gã quái nhân đứng đó, khựng lại một chút, rồi quỳ phục xuống trên đám mây xám, dập đầu liên tiếp rầm rầm.
 
-"Cầu đại tiên thu nhận tiểu tử làm đồ đệ, tiểu tử nguyện cả đời hầu hạ đại tiên, vĩnh viễn không phản bội!"
+"Cầu đại tiên nhận tiểu tử làm đồ đệ, tiểu tử nguyện cả đời phụng sự đại tiên, vĩnh viễn không phản bội!"
 
-La Phàm ngẩn người. Hắn từng nghĩ tới rất nhiều khả năng, thậm chí cả việc kẻ này tiến lên không nói lời nào đã lao vào đánh, nhưng chưa bao giờ nghĩ tới việc kẻ này vừa đến đã quỳ xuống dập đầu xin bái sư.
+La Phàm ngẩn người, trước đó hắn đã nghĩ tới nhiều khả năng, thậm chí ngay cả việc kẻ này tiến lên mà chẳng nói chẳng rằng đã ra tay đánh nhau cũng đã nghĩ tới, duy chỉ có không ngờ tới kẻ này vừa tới là đã quỳ sụp xuống dập đầu cầu xin bái sư.
 
-"Ồ? Ngươi là ai?" Cứ đứng ngẩn ra mãi cũng không phải cách, La Phàm giơ tay ngăn kẻ đó lại, cất tiếng hỏi.
+"Ồ? Ngươi là ai?" Ngẩn người mãi cũng chẳng phải cách, La Phàm giơ tay ngăn kẻ kia lại, hỏi.
 
-"Tiểu tử Hồng Quân." Kẻ đó ngẩng đầu, nhe răng nói.
+"Tiểu tử Hồng Quân." Kẻ kia ngẩng đầu, toét miệng cười nói.

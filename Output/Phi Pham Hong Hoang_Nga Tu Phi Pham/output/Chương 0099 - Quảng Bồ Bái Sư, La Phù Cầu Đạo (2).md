@@ -1,2 +1,0 @@
-"# Chương 0099 - Quảng Bồ Bái Sư, La Phù Cầu Đạo (2)\n\n\"Không ngờ, trong lúc bất tri bất giác, Phù nhi con cũng đã khôn lớn rồi.\" La Phàm cười một hồi, có chút cảm khái nói với La Phù.\n\n\"Dạ?\" La Ph
-<truncated 11925 bytes>

@@ -1,75 +1,75 @@
-# Chương 0027 - Pháp Khí Chi Uy, Hỗn Độn Nguyên Thạch
+# Chương 27: Pháp Khí Chi Uy, Hỗn Độn Nguyên Thạch
 
-Vùng hư không tự thành của "Hư Không Vô Cực Cung Điện Thuật" này cũng có thể coi là do La Phàm khai tịch ra, cho nên La Phàm ở trong vùng hư không này chính là sự tồn tại chí cao vô thượng, thậm chí có thể so với Bàn Cổ đối với thế giới Hồng Hoang vậy. Nghĩa là trong vùng hư không này, La Phàm hầu như không gì không thể!
+Vùng hư không do "Hư Không Vô Cực Cung Điện Thuật" tự hình thành này cũng có thể coi là do La Phàm khai mở ra, vì vậy, La Phàm ở bên trong vùng hư không này chính là tồn tại chí cao vô thượng, thậm chí có thể so sánh với Bàn Cổ đối với thiên địa Hồng Hoang vậy. Nghĩa là, bên trong vùng hư không này, La Phàm gần như vô sở bất năng!
 
-Tâm thần khẽ động, không sử dụng bất kỳ thần thông nào, hư không tự động dịch chuyển, La Phàm đã xuất hiện bên rìa lôi trì, cúi người đưa tay vuốt nhẹ, một cảm giác thanh lương nhu nhuyễn truyền đến từ bàn tay, giống như thứ đang vuốt ve chính là nước sạch thực sự vậy.
+Tâm thần khẽ động, không sử dụng bất kỳ thần thông nào, hư không tự động dịch chuyển, La Phàm đã xuất hiện bên rìa lôi trì, cúi người giơ tay khẽ vuốt, một cảm giác thanh mát mềm mại truyền tới từ bàn tay, hệt như đang vuốt ve làn nước trong thực sự vậy.
 
-Chỉ là, những thứ nước lôi này dù sao cũng là do thần lôi ngưng tụ, sau khi lòng bàn tay La Phàm đi vào, liền chậm rãi thấm vào bên trong bàn tay y, khiến y nảy sinh một loại cảm giác dường như lòng bàn tay đang dần dần hòa nhập vào nước lôi, lại dường như nước lôi đang tẩy rửa bàn tay y từ trong ra ngoài vậy.
+Chỉ là, mớ lôi thủy này dù sao cũng là do thần lôi ngưng tụ, sau khi lòng bàn tay La Phàm tiến vào thì liền chậm rãi thấm vào bên trong lòng bàn tay hắn, khiến hắn nảy sinh cảm giác dường như lòng bàn tay đang dần dần hòa nhập vào lôi thủy, lại dường như là lôi thủy đang tẩy rửa lòng bàn tay hắn từ trong ra ngoài vậy.
 
-"Thì ra trung khu điều khiển đã chuyển dịch đến đây." La Phàm vuốt ve một chút, tâm thần khẽ động, đã hiểu được tầm quan trọng của lôi trì này đối với tòa Hư Không Vô Cực Cung.
+"Hóa ra đầu não điều khiển đã chuyển tới đây." La Phàm vuốt ve một chút, tâm thần khẽ động, đã hiểu rõ tầm quan trọng của cái lôi trì này đối với tòa Hư Không Vô Cực Cung.
 
-Hư Không Vô Cực Cung là một động phủ tạm thời, tự nhiên sẽ có một trung khu điều khiển, trước đó y nhìn bên trái ngó bên phải đều không phát hiện ra, lúc này hai tay tiếp xúc với nước lôi mới phát hiện sâu trong làn nước lôi này ẩn giấu một sự tồn tại huyền diệu. Bấy giờ mới biết cái trung khu này cư nhiên đã chuyển dịch tới đây, bị trấn áp dưới đáy lôi trì.
+Hư Không Vô Cực Cung là một động phủ tạm thời, tự nhiên sẽ có một đầu não điều khiển, lúc trước hắn nhìn tới nhìn lui đều không phát hiện ra, lúc này đôi tay tiếp xúc với mớ lôi thủy này mới phát hiện sâu trong lôi thủy ẩn giấu một tồn tại huyền diệu. Lúc này mới biết cái đầu não này thế mà đã chuyển tới đây, bị trấn áp sâu trong lôi trì.
 
-Giơ tay vẫy một cái, một khối hình hộp chữ nhật dài một mét, rộng nửa mét, dày hai mươi centimet từ đáy lôi trì chậm rãi nổi lên, trong chớp mắt đã đến trong tay La Phàm.
+Giơ tay vẫy một cái, một khối vật thể hình hộp chữ nhật dài một mét, rộng nửa mét, dày hai mươi xăng-ti-mét từ sâu trong lôi trì chậm rãi nổi lên, trong cháy mắt đã tới tay La Phàm.
 
-Bề mặt khối hình hộp chữ nhật này khắc ức vạn phù văn vô cùng huyền ảo, giống như dòng nước không ngừng lưu chuyển, lấp lánh ánh sáng vàng tím nhạt.
+Bề mặt khối hình hộp này khắc hàng tỷ cái phù triện vô cùng huyền ảo, hệt như dòng nước chảy không ngừng luân chuyển, tỏa ra ánh hào quang tím vàng nhạt.
 
-Tay vừa tiếp xúc với khối hình hộp chữ nhật này, một loại cảm giác vô cùng huyền diệu xuất hiện. Trong nháy mắt, y giống như biến thành tòa Hư Không Vô Cực Cung này vậy, tất cả mọi thứ trong phạm vi mười vạn dặm mãnh liệt soi rọi trong tâm thần ý niệm của y, rõ ràng đến từng chi tiết, không chút bỏ sót. Trong phạm vi soi rọi này, ngay cả hạt cát nhỏ nhất cũng hoàn toàn không thể thoát khỏi cảm tri của y, chín tầng Cương Phong Lôi Hỏa ở trên cao chín vạn dặm kia lại càng rõ ràng vô cùng.
+Tay vừa tiếp xúc với khối hình hộp này, một cảm giác vô cùng huyền diệu xuất hiện. Trong nháy mắt, hắn dường như biến thành tòa Hư Không Vô Cực Cung này vậy, tất cả mọi thứ trong phạm vi mười vạn dặm mạnh mẽ soi chiếu vào trong tâm thần ý niệm của hắn, rõ ràng đến từng chân tơ kẽ tóc, không sót thứ gì. Bên trong phạm vi soi chiếu này, cho dù là hạt cát nhỏ nhất cũng hoàn toàn không thể thoát khỏi nhận thức của hắn, chín tầng Cương Phong Lôi Hỏa ở độ cao chín vạn dặm phía trên kia lại càng rõ ràng khôn cùng.
 
-Khả năng cảm tri ban đầu của La Phàm vốn đã rất rộng lớn, đủ rộng tới phạm vi hai vạn dặm.
+Khả năng nhận thức vốn có của La Phàm vốn dĩ đã rất rộng lớn, đủ tới phạm vi hai vạn dặm xung quanh.
 
-Mà nhờ vào trung khu điều khiển của Hư Không Vô Cực Cung, khả năng cảm tri này cư nhiên mở rộng gấp năm lần!
+Mà nhờ vào đầu não điều khiển của Hư Không Vô Cực Cung, khả năng nhận thức này thế mà đã mở rộng ra gấp hẳn năm lần!
 
-"Chỉ mới là cấp bậc cực phẩm pháp khí mà đã có sự tăng phúc gấp năm lần, nếu Hư Không Vô Cực Cung thành tựu pháp bảo, thì sự tăng phúc đó chẳng phải sẽ còn lớn hơn nữa sao?!" Trong lòng La Phàm mừng rỡ khôn xiết.
+"Chỉ mới cấp bậc cực phẩm pháp khí mà đã có sự gia tăng gấp năm lần, nếu Hư Không Vô Cực Cung thành tựu pháp bảo, vậy thì sự gia tăng đó chẳng phải sẽ càng khổng lồ hơn sao?!" Trong lòng La Phàm vui sướng khôn tả.
 
-Y bỗng nhiên cảm thấy mình đang mang một bụng kho báu, cảm giác giống như nhặt được bảo vật khiến tâm tình y trở nên không thể tự kiềm chế.
+Hắn bỗng nhiên cảm thấy đầu mình chứa đầy một kho tàng báu vật, cảm giác nhặt được bảo vật khiến tâm trạng hắn không thể kiềm chế nổi.
 
-"Hư Không Vô Cực Cung Điện Thuật" này chỉ là một loại pháp quyết không tính là cao thâm trong vô số pháp quyết mà Bàn Cổ Nguyên Linh sáng tạo ra mà thôi, nhưng chỉ bấy nhiêu thôi đã huyền diệu như thế rồi, vậy những thứ cao thâm hơn trong đó chẳng phải sẽ càng không thể tin nổi sao?!
+Bộ "Hư Không Vô Cực Cung Điện Thuật" này chỉ là một loại pháp quyết không tính là cao thâm trong số vô số pháp quyết do Bàn Cổ nguyên linh sáng tạo ra mà thôi, nhưng chỉ bấy nhiêu thôi đã huyền diệu đến mức này rồi, vậy những thứ cao thâm hơn trong đó chẳng phải sẽ càng khó tin hơn sao?!
 
-Lúc này đúng lúc Hồng Quân vừa luyện xong đạo Tiên Thiên Bất Diệt Linh Quang kia, La Phàm giơ tay vẩy một cái, Hư Không Vô Cực Cung mãnh liệt mở rộng gấp trăm lần. Từ kích thước to bằng nắm tay ban đầu biến thành giống như một căn phòng nhỏ.
+Lúc này, vừa vặn cũng là lúc Hồng Quân luyện lại xong đạo Tiên Thiên Bất Diệt Linh Quang kia, La Phàm giơ tay phất một cái, Hư Không Vô Cực Cung mạnh mẽ mở rộng ra gấp trăm lần. Từ kích thước nắm tay ban đầu biến thành hệt như một căn phòng nhỏ.
 
-Tiếp đó, cửa chính của tòa cung điện này ầm vang mở ra, tạo ra một luồng lực hút vô cùng mạnh mẽ.
+Tiếp đó, cửa chính của cung điện này oành một tiếng mở ra, sinh ra một luồng lực hút cực kỳ mãnh liệt.
 
-Hồng Quân dưới tác dụng của luồng lực hút này, không có chút sức đề kháng nào mà bị hút vào cửa chính, thông qua một phương thức vô cùng thần bí mà xuất hiện bên cạnh La Phàm.
+Hồng Quân dưới tác dụng của luồng lực hút này, không có chút khả năng chống cự nào mà bị hút vào cửa chính, thông qua một phương thức cực kỳ huyền bí nào đó mà xuất hiện bên cạnh La Phàm.
 
-Mà Hư Không Vô Cực Cung sau khi nuốt Hồng Quân vào xong, lại một lần nữa thu nhỏ lại, trong chớp mắt đã biến thành dáng vẻ to bằng nắm tay như trước đó. Lơ lửng trong hư không, khẽ chìm nổi, giống như chưa từng có chuyện gì xảy ra vậy.
+Mà Hư Không Vô Cực Cung sau khi nuốt Hồng Quân vào liền một lần nữa thu nhỏ lại, trong cháy mắt đã biến thành dáng vẻ to bằng nắm tay như trước đó. Lơ lửng giữa hư không, khẽ chìm nổi, hệt như chưa từng có chuyện gì xảy ra vậy.
 
-Hồng Quân nhìn ngắm xung quanh, trong mắt đầy sự chấn kinh.
+Hồng Quân nhìn xung quanh, trong mắt đầy vẻ chấn kinh.
 
-"Không ngờ sư tôn lại mạnh mẽ đến thế, khai thiên tịch địa, đây chính là thần thông mà Bàn Cổ đại thần mới có a..." Sự chấn động trong lòng Hồng Quân khiến thần sắc hắn cũng trở nên ngây dại.
+"Không ngờ sư tôn lại mạnh mẽ đến thế, khai thiên tích địa, đây chính là thần thông mà Bàn Cổ đại thần mới có nha..." Sự chấn động trong lòng Hồng Quân khiến vẻ mặt gã trở nên ngây dại.
 
-Đối với Hồng Quân, người từng quan sát Bàn Cổ đỉnh thiên lập địa mà nói, Bàn Cổ chính là sự tồn tại mạnh mẽ nhất, sùng cao nhất mà hắn từng thấy.
+Đối với Hồng Quân - người từng quan sát Bàn Cổ đỉnh thiên lập địa mà nói, Bàn Cổ chính là tồn tại mạnh mẽ nhất, cao cả nhất mà gã từng thấy.
 
-Hư không mà La Phàm khai tịch ra tuy có sự chênh lệch không thể mô tả so với trời đất Hồng Hoang, nhưng dựa vào kiến thức của Hồng Quân thì căn bản không thể phân biệt được sự khác biệt bản chất giữa chúng. Chỉ cho rằng sự khác biệt giữa hư không này và trời đất Hồng Hoang chỉ là kích thước mà thôi... Bàn Cổ vì khai thiên tịch địa mà hy sinh thân mình, sư tôn lại nhẹ nhàng thoải mái đã khai tịch ra được một phương hư không như thế này, sự chênh lệch giữa hai người dường như không lớn lắm đâu...
+Vùng hư không mà La Phàm khai mở ra tuy có khoảng cách không thể diễn tả so với thiên địa Hồng Hoang, nhưng dựa vào kiến thức của Hồng Quân thì căn bản không cách nào phân biệt được sự khác biệt về bản chất giữa chúng. Gã chỉ cho rằng sự khác biệt giữa vùng hư không này và thiên địa Hồng Hoang chỉ là kích thước mà thôi... Bàn Cổ vì khai thiên tích địa mà hy sinh, sư tôn lại nhẹ nhàng thoải mái khai mở ra một vùng hư không như vậy, khoảng cách giữa hai người dường như không lớn lắm nhỉ...
 
-La Phàm tuy là sư tôn của Hồng Quân, mạnh hơn Hồng Quân gấp trăm nghìn lần, nhưng lại căn bản không thể biết được ý nghĩ trong lòng Hồng Quân, chỉ cho rằng Hồng Quân vì lần đầu tiên nhìn thấy vùng hư không kỳ diệu như thế này mà chấn động trong lòng, căn bản không ngờ mình chỉ trong thoáng chốc đã được Hồng Quân nâng lên độ cao ngang hàng với Bàn Cổ đại thần...
+La Phàm tuy là sư tôn của Hồng Quân, mạnh hơn Hồng Quân gấp trăm ngàn lần, nhưng lại căn bản không cách nào biết được suy nghĩ trong lòng Hồng Quân, chỉ cho rằng Hồng Quân vì lần đầu tiên nhìn thấy vùng hư không kỳ diệu như vậy nên trong lòng chấn động, hoàn toàn không ngờ tới bản thân mình trong cháy mắt đã được Hồng Quân nâng tầm lên đến độ cao của Bàn Cổ đại thần...
 
-"Sự huyền diệu của đạo Tiên Thiên Bất Diệt Linh Quang này còn vượt quá dự tính của vi sư, xem ra thần hồn của ngươi hiện giờ đã có thể chịu đựng được sự xung kích khi bổ sung đầy đủ năng lượng rồi, thế cũng tốt, vi sư trước tiên đưa ngươi đến một vị trí để hấp thu đầy đủ năng lượng cho tốt." La Phàm quan sát Hồng Quân một chút, gật đầu nói.
+"Sự huyền diệu của đạo Tiên Thiên Bất Diệt Linh Quang này còn vượt quá dự tính của vi sư, xem ra thần hồn của ngươi hiện giờ đã có thể chịu đựng được sự va đập khi bổ sung năng lượng rồi, như vậy cũng tốt, vi sư trước tiên đưa ngươi tới một vị trí để hấp thu bổ sung năng lượng cho thật tốt." La Phàm quan sát Hồng Quân một chút, gật đầu nói.
 
-Nhận thức của Hồng Quân đối với La Phàm đã có sự thay đổi bản chất, lúc này trở nên vô cùng cung kính, vô cùng dè dặt, khom người nói: "Thảy đều nghe theo sư tôn làm chủ."
+Nhận thức của Hồng Quân đối với La Phàm đã có sự thay đổi về bản chất, lúc này trở nên vô cùng cung kính, vô cùng dè dặt, cúi người nói: "Tất cả tùy sư tôn làm chủ."
 
-La Phàm hơi lấy làm lạ trước thái độ của Hồng Quân, nhưng cũng không nghĩ quá nhiều, chỉ gật đầu, tâm thần khẽ động, tòa Hư Không Vô Cực Cung này liền hóa thành một đạo cầu vồng vàng tím dài, lao thẳng về phía một nguồn Hỗn Độn Nguyên Khí cách đó tám vạn dặm.
+La Phàm hơi lấy làm kỳ quái trước thái độ của Hồng Quân, nhưng cũng không nghĩ nhiều, chỉ gật đầu, tâm thần khẽ động, tòa Hư Không Vô Cực Cung này liền hóa thành một đạo trường hồng tím vàng lao thẳng về phía một nguồn hỗn độn nguyên khí cách đó tám vạn dặm.
 
-Nguồn gốc của nguồn Hỗn Độn Nguyên Khí cách đó tám vạn dặm là ở dưới lòng đất mười dặm, xung quanh nó có hơn mười đường hầm thông với nguồn đó, thông tứ phía khiến Hỗn Độn Nguyên Khí tỏa ra phát tán theo mười mấy hướng, chảy về phía phương xa không biết bao xa, nhưng lại chỉ có cực ít cực ít Hỗn Độn Nguyên Khí có thể phát tán lên trên mặt đất.
+Nguồn của khối hỗn độn nguyên khí cách đó tám vạn dặm nằm ở độ sâu mười dặm dưới lòng đất, xung quanh nó có hơn mười đường hầm thông với nguồn đó, thông suốt bốn phương tám hướng để hỗn độn nguyên khí tỏa ra phát tán theo hơn mười hướng, chảy về phương xa không biết bao xa, nhưng lại chỉ có cực kỳ ít hỗn độn nguyên khí có thể phát tán lên mặt đất.
 
-Chính vì nguyên nhân này, cho nên tuy rằng nguồn Hỗn Độn Nguyên Khí này chứa lượng Hỗn Độn Nguyên Khí vô cùng khổng lồ, thậm chí còn nhiều hơn so với lượng Hỗn Độn Nguyên Khí của nguồn mà La Phàm ở lần trước, nhưng La Phàm ở gần như thế mà vẫn chưa phát giác ra.
+Chính vì nguyên nhân này, cho nên tuy nguồn hỗn độn nguyên khí này chứa đựng lượng hỗn độn nguyên khí vô cùng lớn, thậm chí còn nhiều hơn cả lượng hỗn độn nguyên khí của nguồn mà La Phàm từng ở lúc trước, nhưng La Phàm ở gần như vậy mà vẫn chưa phát giác ra.
 
-Nếu không phải vừa nãy y thử nghiệm tác dụng tăng phúc cảm tri của Hư Không Vô Cực Cung, tình cờ phát hiện ra nguồn Hỗn Độn Nguyên Khí này, nói không chừng đã bỏ lỡ nó rồi.
+Nếu không phải vừa nãy hắn thử nghiệm tác dụng gia tăng nhận thức của Hư Không Vô Cực Cung, tình cờ phát hiện ra nguồn hỗn độn nguyên khí này thì nói không chừng đã bỏ lỡ nó rồi.
 
-Khả năng bay của Hư Không Vô Cực Cung so với việc La Phàm cưỡi mây lướt gió thì nhanh hơn khoảng năm lần, sau mười mấy nhịp thở đã đến vị trí của nguồn Hỗn Độn Nguyên Khí này.
+Khả năng bay lượn của Hư Không Vô Cực Cung so với việc cưỡi mây đạp gió của La Phàm thì nhanh hơn xấp xỉ năm lần, qua mười mấy hơi thở đã tới vị trí của nguồn hỗn độn nguyên khí này.
 
-La Phàm giơ tay nhấn nhẹ, tòa Hư Không Vô Cực Cung này giống như hư ảnh lặn xuống phía dưới, trong chớp mắt đã chìm vào lòng đất sâu mười dặm, đến ngay phía trên nguồn Hỗn Độn Nguyên Khí đó.
+La Phàm giơ tay ấn nhẹ, tòa Hư Không Vô Cực Cung hệt như một hư ảnh chìm xuống dưới, trong cháy mắt đã chìm vào lòng đất sâu mười dặm. Tới vị trí ngay phía trên nguồn hỗn độn nguyên khí đó.
 
-Nguồn Hỗn Độn Nguyên Khí này vô cùng to lớn, ước tính sơ bộ đường kính e rằng phải trăm dặm, vì nồng độ Hỗn Độn Nguyên Khí quá lớn nên đã trở nên đen kịt như mực, thậm chí trông giống như vật chất thực sự vậy.
+Nguồn hỗn độn nguyên khí này vô cùng to lớn, ước tính sơ bộ đường kính e rằng tới trăm dặm, vì nồng độ hỗn độn nguyên khí quá lớn nên đã trở nên đen kịt như mực, thậm chí trông hệt như thực thể vậy.
 
-Có lẽ vì sự tồn tại của nguồn Hỗn Độn Nguyên Khí, ở dưới lòng đất sâu mười dặm này cư nhiên xuất hiện một không gian khổng lồ, hơn mười đường hầm kia đường kính nhỏ nhất cũng ba bốn dặm, đường kính lớn nhất thậm chí đạt tới ba bốn mươi dặm. Những đường hầm này thông với không gian khổng lồ này, trông vô cùng tráng quan.
+Có lẽ vì sự tồn tại của nguồn hỗn độn nguyên khí nên ở độ sâu mười dặm dưới lòng đất này lại xuất hiện một không gian khổng lồ, hơn mười đường hầm kia đường kính nhỏ nhất cũng tới ba bốn dặm, đường kính lớn nhất thậm chí đạt tới ba bốn chục dặm. Những đường hầm này thông với không gian khổng lồ này, trông vô cùng tráng lệ.
 
-"May mắn may mắn, cư nhiên có một khối Hỗn Độn Nguyên Thạch ở bên trong!" La Phàm điều khiển Hư Không Vô Cực Cung tiếp xúc với nguồn Hỗn Độn Nguyên Khí này, trong lòng vui mừng.
+"May mắn, may mắn, thế mà lại có một khối Hỗn Độn Nguyên Thạch ở bên trong!" La Phàm điều khiển Hư Không Vô Cực Cung tiếp xúc với nguồn hỗn độn nguyên khí này, trong lòng vui sướng.
 
-Thông qua Hư Không Vô Cực Cung, y đã cảm ứng được, chính giữa nguồn Hỗn Độn Nguyên Khí này có một khối Hỗn Độn Nguyên Thạch đường kính ba trượng, hình cầu không quy tắc!
+Thông qua Hư Không Vô Cực Cung, hắn đã cảm ứng được, ngay chính giữa nguồn hỗn độn nguyên khí này có một khối Hỗn Độn Nguyên Thạch đường kính ba trượng, hình dạng cầu không quy tắc!
 
-Hỗn Độn Nguyên Thạch là một loại đá do Hỗn Độn Nguyên Khí ngưng nén mà thành, do tác dụng huyền diệu của Hỗn Độn Nguyên Khí mà nảy sinh biến hóa thần bí nào đó, vừa sở hữu uy năng của Hỗn Độn Nguyên Khí, lại sở hữu những đặc tính mà nó không có. Trong đó đặc tính lớn nhất chính là nó ẩn chứa linh tính yếu ớt, nếu dùng để luyện khí, thì cho dù sử dụng pháp quyết luyện khí thô thiển nhất, luyện chế ra cũng tuyệt đối là sự tồn tại cấp bậc pháp bảo.
+Hỗn Độn Nguyên Thạch là một loại đá do hỗn độn nguyên khí ngưng súc mà thành, do tác dụng huyền diệu của hỗn độn nguyên khí mà nảy sinh biến hóa thần bí nào đó, vừa sở hữu uy năng của hỗn độn nguyên khí, vừa sở hữu những đặc tính mà nó không có. Trong đó, đặc tính lớn nhất chính là nó chứa đựng linh tính mờ nhạt, nếu dùng để luyện khí thì cho dù sử dụng pháp quyết luyện khí thô thiển nhất, thứ luyện chế ra cũng tuyệt đối là tồn tại cấp bậc pháp bảo.
 
-Đây đã là một loại đặc tính vô cùng ghê gớm rồi.
+Đây đã là một loại đặc tính khá ghê gớm rồi.
 
-Phải biết rằng, Hư Không Vô Cực Cung lúc này đã huyền diệu đến mức này rồi, nhưng cũng chỉ mới là cấp bậc cực phẩm pháp khí mà thôi...
+Phải biết rằng, tòa Hư Không Vô Cực Cung lúc này đã huyền diệu đến thế rồi mà cũng chỉ mới là cấp bậc cực phẩm pháp khí mà thôi...

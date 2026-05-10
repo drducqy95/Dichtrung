@@ -1,93 +1,93 @@
-# Chương 0011 - Vực Ngoại Có Thiên Ma (2)
+# Chương 11: Vực Ngoại Có Thiên Ma (2)
 
-Đầu óc của La Phàm trước đó đang rơi vào trạng thái trống rỗng hoàn toàn, năng lực tư duy tự nhiên cũng theo đó mà bị ảnh hưởng.
+Đầu óc La Phàm trước đó đang ở trạng thái trống rỗng hoàn toàn, năng lượng tư duy tự nhiên cũng bị ảnh hưởng theo.
 
-Những quang ảnh, âm thanh xuất hiện trong não hải hắn vốn vô cùng quỷ dị, nếu là bình thường, hắn tự nhiên có thể dễ dàng phát hiện ra trong đó có chút ngưng trệ, nhưng tại thời khắc này, tư duy của hắn bị đình trệ, căn bản không cách nào phân biệt thật giả.
+Những quang ảnh và âm thanh hiện ra trong não bộ này xuất hiện quỷ dị vô cùng. Nếu là bình thường, hắn tự nhiên có thể dễ dàng phát hiện ra trong đó có chút sơ hở, nhưng ngay lúc này, tư duy của hắn bị ngưng trệ, căn bản không cách nào phân biệt được thật giả.
 
-Toàn bộ tâm thần ý niệm cứ thế tự nhiên mà hoàn toàn đắm chìm vào trong đủ loại cảnh tượng do vô số quang ảnh, âm thanh kia dựng lên.
+Toàn bộ tâm thần ý niệm tự nhiên đã hoàn toàn đắm chìm vào trong đủ loại cảnh tượng do vô số quang ảnh và âm thanh kia tạo ra.
 
-Lúc thì, hắn giống như đang tu tiên liễu đạo, thành thánh làm tổ, dời non lấp bể, nắm bắt nhật nguyệt, thiên địa vũ trụ nằm trong một ý niệm, vạn cổ trường sinh nhật nguyệt phục tùng...
+Thoắt cái, hắn hệt như đang tu tiên liễu đạo, thành thánh làm tổ, dời non lấp biển, nắm bắt nhật nguyệt, thiên địa vũ trụ nằm trong một ý niệm, vạn cổ trường sinh nhật nguyệt khuất phục...
 
-Lúc thì, hắn lại giống như lạc vào ôn nhu hương, hàng trăm hàng ngàn nữ tử xinh đẹp nhất, mê hoặc nhất trong não hải hắn hiện ra với thân hình thấp thoáng bao quanh lấy hắn, ngay trong nháy mắt, ôn hương nhuyễn ngọc, khoái cảm dâng trào như sóng...
+Thoắt cái, hắn lại hệt như lạc bước vào chốn dịu dàng thắm thiết, hàng trăm hàng ngàn những nữ tử xinh đẹp nhất, quyến rũ nhất trong não bộ hắn với thân hình ẩn hiện bao vây lấy hắn. Trong tích tắc, làn da mịn màng ấm áp, khoái cảm dâng trào như sóng...
 
-Lúc thì, hắn lại giống như hóa thân thành vị hoàng giả nắm giữ càn khôn, một ý niệm dấy lên vạn dân theo sát, tâm niệm phẫn nộ thì máu nhuộm thiên địa, hưởng thụ vạn dân reo hò, tận hưởng quyền bính vô thượng...
+Thoắt cái, hắn lại hệt như hóa thân thành một vị hoàng giả tay nắm càn khôn, một ý niệm dấy lên vạn dân theo đuổi, tâm một khi giận dữ thì máu nhuộm thiên địa, tận hưởng sự reo hò của vạn dân, tận hưởng uy quyền vô thượng...
 
 ...
 
-Đủ mọi thứ như thế, chỉ trong nháy mắt, đã khiến hắn như trải qua hàng ngàn vạn kiếp nhân sinh, hưởng tận tất cả những vui sướng có thể hưởng thụ trên thế gian, đạt được tất cả những thành tựu có thể đạt được trên đời...
+Đủ loại những điều này, chỉ trong chớp mắt đã khiến hắn hệt như trải qua hàng ngàn vạn lần nhân sinh, hưởng tận mọi điều khoái lạc có thể hưởng trên thế gian, đạt được mọi thành tựu có thể đạt được trên đời...
 
-Mọi cảnh tượng như thế này, chỉ cần bắt đầu chìm đắm vào trong đó, cho dù là tâm thần thanh tỉnh, lý trí, La Phàm cũng chưa chắc đã có thể giữ vững được bản ngã để thoát ra ngoài, huống chi là trong trạng thái tư duy đình trệ như lúc này, hắn lại càng không thể thoát khỏi trạng thái chìm đắm đó.
+Phàm là đủ loại cảnh tượng này, chỉ cần bắt đầu chìm đắm vào trong đó, dù là lúc tâm thần tỉnh táo, lý trí thì La Phàm cũng chưa chắc đã có thể giữ vững cái tôi để thoát ra ngoài, huống chi là ở trạng thái tư duy ngưng trệ như lúc này, hắn lại càng không cách nào thoát khỏi trạng thái chìm đắm đó.
 
-Cứ trải qua mỗi một lần luân hồi, thần trí của hắn lại đình trệ thêm một phần.
+Cứ trải qua một lần luân hồi, thần trí của hắn lại ngưng trệ thêm một phần.
 
-Cứ trải qua mỗi một lần nhân sinh hưởng lạc, những sợi tơ đang luân chuyển thu nhỏ theo quỹ đạo huyền ảo trong Nê Hoàn cung của hắn lại chậm đi một phần.
+Cứ trải qua một lần nhân sinh hưởng lạc, những sợi tơ đang lưu chuyển co lại theo quỹ đạo huyền ảo trong Cung Nê Hoàn của hắn lại chậm lại một phần.
 
 "Cạc cạc cạc cạc..." "Hắc hắc hắc hắc..." "Hô hô hô hô..." "U u u u..." ...
 
-Những tiếng vang bên trong màn sương mù đen kịt bao bọc lấy thân thể La Phàm ngày càng rõ nét, ngày càng vang dội hơn. Sự vặn vẹo hư không xung quanh cơ thể hắn cũng càng thêm mãnh liệt, màn sương đen kia lại càng không ngừng khuếch tán ra ngoài với tốc độ cực nhanh, chớp mắt đã lấp đầy phạm vi ngàn dặm!
+Những âm thanh trong làn sương đen bao bọc cơ thể La Phàm càng trở nên rõ rệt và vang dội hơn. Sự vặn vẹo hư không xung quanh cơ thể hắn cũng càng thêm mãnh liệt, làn sương đen đó lại đang không ngừng khuếch tán ra ngoài với tốc độ cực nhanh, thoắt cái đã bao phủ phạm vi ngàn dặm!
 
-Đồng thời, càng có vô số hình dáng sinh vật quái dị ngưng tụ thành hình bên trong màn sương đen đó! Hình dáng của những tồn tại quái dị này thiên kỳ bách quái, có cái vô cùng xấu xí, có cái lại vô cùng xinh đẹp, có cái kinh người tột độ, có cái lại mê hoặc khôn cùng, có cái mạnh mẽ đến mức có thể xé rách thiên địa, có cái lại nhu nhược đến mức không chịu nổi một cơn gió nhẹ...
+Đồng thời, lại có vô số hình dáng sinh vật quái dị ngưng tụ thành hình trong làn sương đen đó! Những sự tồn tại quái dị này có hình dáng muôn hình vạn trạng, có thứ vô cùng xấu xí, có thứ vô cùng xinh đẹp, có thứ kinh người cực độ, có thứ mê hồn vô cùng, có thứ mạnh mẽ tới mức có thể xé nát thiên địa, có thứ yếu đuối tới mức không chịu nổi một cơn gió nhẹ...
 
-Biểu cảm của những hình dáng quái dị này lại càng vô cùng phong phú, hỉ, nộ, ái, ố, ái, hận... tươi cười, cuồng hống, nũng nịu, mê hoặc, thuận tùng, chán ghét... vân vân và vân vân, những gì thế gian có, đều có thể tìm thấy ở nơi này!
+Biểu cảm của những hình dáng quái dị này lại càng phong phú vô cùng, hỉ, nộ, ái, ố, ái, hận... tươi cười, gào thét, nũng nịu, dụ dỗ, phục tùng, chán ghét... vân vân và vân vân, những gì thế gian có đều có thể tìm thấy ở đây!
 
-Những thứ này, lại không phải là hư ảnh! Không phải là những tồn tại hư vô!
+Những thứ này lại không phải là hư ảnh! Không phải là những sự tồn tại hư vô!
 
-Lúc này nếu như xuyên qua màn sương đen này, sẽ có thể nhìn thấy La Phàm bị sương đen bao bọc ở trung tâm, toàn thân từ trên xuống dưới đều bị miệng của vô số sinh vật quái dị này cắn chặt lấy!
+Lúc này nếu nhìn xuyên qua làn sương đen, sẽ có thể thấy La Phàm bị làn sương đen bao bọc ở giữa đang bị miệng của vô số sinh vật quái dị này cắn chặt lấy khắp người!
 
-Thân thể La Phàm cường hãn đến mức khủng bố, hết con sinh vật quái dị này đến con sinh vật quái dị khác trong quá trình gặm nhấm bị lực phản chấn đánh nát vụn, nhưng đồng thời, lại có càng nhiều sinh vật quái dị hơn lao lên gặm nhấm. Số lượng của chúng là vô cùng vô tận, con trước ngã con sau tiến, chen lấn bài trừ lẫn nhau, điên cuồng xung kích, cắn nuốt!
+Cơ thể La Phàm cường hãn đến mức đáng sợ, hết con sinh vật quái dị này đến con khác bị lực phản chấn đánh nát trong quá trình gặm nhấm, nhưng đồng thời lại có thêm nhiều sinh vật quái dị hơn lao tới gặm nhấm. Số lượng của chúng là vô cùng vô tận, lớp sau nối tiếp lớp trước, xô đẩy lẫn nhau, điên cuồng xung kích và gặm nhấm!
 
-Mặc dù cường độ thân xác của La Phàm đã đạt tới mức độ vượt qua cả kim cương thạch, nhưng dưới sự tích tụ của số lượng vô cùng vô tận này, trong từng đợt gặm nhấm hết đợt này đến đợt khác, vẫn không cách nào chịu đựng nổi!
+Mặc dù cường độ cơ thể La Phàm đã đạt tới mức vượt qua cả kim cương, nhưng dưới sự tích lũy số lượng vô cùng vô tận này, trong từng đợt gặm nhấm hết đợt này đến đợt khác, hắn vẫn không tài nào chịu đựng nổi!
 
-Sau khi đánh tan hàng ngàn đợt gặm nhấm của các sinh vật quái dị, cuối cùng cũng có một con quái vật mang khuôn mặt người, nụ cười ôn hòa, thân mình mãng xà lần đầu tiên cắn rách được cơ thể hắn, gặm ra một miếng huyết nhục nhỏ xíu!
+Sau khi đánh nát hàng triệu đợt gặm nhấm của các sinh vật quái dị, cuối cùng cũng có một con quái vật mang khuôn mặt người, nụ cười ôn hòa nhưng thân mình mãng xà lần đầu tiên cắn rách được cơ thể hắn, gặm ra một miếng huyết nhục nhỏ xíu!
 
-Cùng với vết thương đầu tiên xuất hiện, lớp phòng ngự vốn tưởng chừng như vĩnh viễn không bị mài mòn kia thình lình sụp đổ, chớp mắt đã có hàng trăm con quái vật cắn rách cơ thể hắn, chỉ trong nháy mắt, La Phàm đã mất đi một phần trăm huyết nhục!
+Theo vết thương đầu tiên xuất hiện, lớp phòng ngự vốn tưởng như không bao giờ mài mòn kia lập tức sụp đổ. Trong chớp mắt đã có hàng trăm con quái vật cắn rách cơ thể hắn, thoắt cái La Phàm đã mất đi một phần trăm huyết nhục!
 
 ...
 
-Toàn bộ tâm thần của La Phàm chìm đắm trong hết lần hưởng lạc này đến lần hưởng lạc khác, toàn bộ tâm thần dường như vô cùng thỏa mãn, vô cùng khoái hoạt, ngoại trừ hưởng lạc ra, không hề có bất kỳ tâm niệm nào khác, ngoại trừ hưởng lạc ra, không muốn có bất kỳ tâm niệm nào xuất hiện, ý chí, dần dần trầm luân vào trong vực sâu hưởng lạc đó.
+Toàn bộ tâm thần La Phàm đắm chìm trong hết đợt hưởng lạc này đến đợt hưởng lạc khác, toàn bộ tâm thần dường như vô cùng mãn nguyện, vô cùng khoái lạc. Ngoài hưởng lạc ra thì chẳng có lấy một ý niệm nào khác, ngoài hưởng lạc ra thì chẳng muốn một ý niệm nào xuất hiện, ý chí dần dần trầm luân trong vực thẳm của sự hưởng lạc đó.
 
-Theo sự trầm luân của ý chí, cuối cùng, vào một khoảnh khắc nào đó, những sợi tơ do quầng mây hỗn độn ngưng tụ thành trong Nê Hoàn cung của hắn cuối cùng đã ngừng luân chuyển... Giống như thời gian bị tạm dừng vậy, đình trệ tại trạng thái thu nhỏ bằng một nửa thể tích hư không hình cầu đường kính bốn trăm chín mươi dặm kia.
+Theo sự trầm luân của ý chí, cuối cùng vào một khoảnh khắc nào đó, những sợi tơ do cụm mây hỗn độn ngưng tụ thành trong Cung Nê Hoàn của hắn rốt cuộc cũng ngừng lưu chuyển... hệt như thời gian tạm dừng vậy, đình trệ ở trạng thái co lại chỉ còn một nửa thể tích vùng hư không hình cầu đường kính bốn trăm chín mươi dặm.
 
-Mà lúc đó, cũng chính là lúc con quái vật đầu tiên cắn rách cơ thể hắn!
+Mà lúc đó cũng chính là lúc con quái vật đầu tiên cắn rách cơ thể hắn!
 
-Cũng là lúc nhục thân của hắn, đang bị cắn nuốt với tốc độ vô cùng nhanh chóng!
+Cũng là lúc nhục thân của hắn đang bị nuốt chửng với tốc độ cực kỳ nhanh chóng!
 
-"Giai giai giai giai..." Đột nhiên, bên trong màn sương đen, vang lên một tiếng kêu quái dị hoàn toàn khác biệt với tất cả những âm thanh quái dị ồn ào hỗn tạp khác.
+"Giai giai giai giai..." Đột nhiên, trong làn sương đen vang lên một tiếng quái khiếu hoàn toàn khác biệt với những âm thanh hỗn tạp quái dị kia.
 
-Âm thanh này chỉ cần vừa nghe qua là biết ngay nó không giống với tất cả những âm thanh khác, giữa vô số những âm thanh hỗn tạp kia, bất kỳ ai, cho dù thính lực kém đến đâu, cũng tuyệt đối có thể ngay lập tức phân biệt ra nó!
+Âm thanh này chỉ vừa nghe qua là đã biết khác hẳn với tất cả những âm thanh còn lại. Giữa vô số âm thanh hỗn tạp đó, bất kỳ ai dù thính giác có kém đến đâu cũng tuyệt đối có thể phân biệt được nó ngay từ đầu!
 
-Nhưng, nếu lắng nghe kỹ lại, muốn phân biệt xem âm thanh này rốt cuộc có điểm gì khác biệt so với các âm thanh khác thì sẽ phát hiện ra, âm thanh này hóa ra lại không có mấy điểm khác biệt với các âm thanh khác! Nếu đem âm thanh này ra, rồi lấy bất kỳ một âm thanh khác ra đối chiếu thì sẽ thấy, giữa hai bên, hóa ra căn bản không có mấy điểm khác biệt!
+Nhưng nếu nghe kỹ lại, muốn phân biệt xem âm thanh này rốt cuộc khác biệt với những âm thanh khác ở điểm nào thì sẽ phát hiện ra âm thanh này thế mà lại chẳng khác mấy so với những âm thanh khác! Nếu đem âm thanh này ra so sánh với bất kỳ một âm thanh nào khác thì sẽ thấy giữa hai bên thực sự không có bao nhiêu khác biệt!
 
-Sự mâu thuẫn quỷ dị này thật là vô cùng vô tận!
+Loại mâu thuẫn này quỷ dị đến mức không thể thêm được nữa!
 
-"Giai giai giai giai giai giai..." Âm thanh đó liên tục vang lên, dồn dập không dứt, không lúc nào ngừng! Theo sự trôi đi của thời gian, cái cảm giác hoàn toàn khác biệt với các âm thanh khác kia cũng ngày càng rõ rệt.
+"Giai giai giai giai giai giai..." Âm thanh đó không ngừng vang lên, liên miên bất tuyệt, không ngừng nghỉ một giây một phút nào! Theo thời gian trôi qua, cái cảm giác hoàn toàn khác biệt với những âm thanh khác đó càng lúc càng rõ rệt.
 
-Sau vài nhịp thở, nó đã đè bẹp tất cả các âm thanh khác xuống!
+Qua vài nhịp thở, nó đã áp đảo tất cả các âm thanh khác!
 
-Và lúc này, điểm khác biệt giữa âm thanh đó cùng các âm thanh khác, cũng không còn bất kỳ sự che giấu nào mà lộ rõ ra.
+Mà lúc này, điểm khác biệt giữa âm thanh đó và các âm thanh khác cũng không còn bất kỳ sự che giấu nào nữa mà lộ ra hoàn toàn.
 
-Đây là âm thanh của một sinh vật sống!
+Đây là âm thanh của vật sống!
 
-Những âm thanh khác bên trong màn sương đen kia trông thì có vẻ sở hữu đủ loại cảm xúc, trông thì có vẻ giống như vô số quái vật có sinh mệnh đang kêu gào, nhưng sâu trong những âm thanh đó đều có một loại cảm giác chết lặng, máy móc, giống như đang vận hành theo một chương trình định sẵn vậy. Nếu cảm tri mẫn tuệ, hoàn toàn có thể nghe ra đó không phải là âm thanh của vật sống.
+Những âm thanh khác trong làn sương đen trông thì có vẻ mang đủ loại cảm xúc, trông thì có vẻ hệt như vô số quái vật có sự sống đang kêu gào, nhưng sâu trong những âm thanh đó đều có một sự tê dại, một sự máy móc, hệt như một loại cảm giác vận hành theo chương trình vậy. Nếu cảm quan nhạy bén thì hoàn toàn có thể nghe ra đó không phải là âm thanh của vật sống.
 
-Cảm giác này vô cùng yếu ớt, nếu như không có sự đối chiếu, tự nhiên rất ít người có thể phát hiện ra. Nhưng khi đã có sự đối chiếu, có âm thanh của vật sống, cho dù cái cảm giác vật sống đó rất yếu ớt, cũng đủ để khiến cái vật sống đó trở nên nổi bật.
+Cảm giác này vô cùng yếu ớt, nếu không có sự đối chiếu thì tự nhiên rất ít người có thể phát hiện ra. Nhưng đã có sự đối chiếu, có âm thanh của vật sống thì dù cái cảm giác vật sống đó có rất yếu ớt cũng đủ để làm nổi bật âm thanh đó lên.
 
-Cũng chính vì nguyên nhân này, mới khiến cho tiếng kêu quái dị "giai giai giai giai giai giai" kia vừa xuất hiện đã có thể khiến người ta phân biệt ra ngay lập tức.
+Cũng chính vì nguyên nhân này mới khiến cho tiếng quái khiếu "giai giai giai giai giai giai" đó ngay từ lúc xuất hiện đã có thể khiến người ta phân biệt được ngay.
 
-Sự biến hóa này không ngừng tiếp diễn, theo thời gian trôi qua, âm thanh đó ngày càng rõ rệt, ngày càng mạnh mẽ, còn những âm thanh hỗn tạp khác lại ngày càng ít đi, ngày càng nhỏ dần.
+Sự biến hóa này không ngừng tiếp diễn, theo thời gian trôi qua, âm thanh đó càng lúc càng rõ rệt, càng lúc càng mạnh, mà những âm thanh hỗn tạp khác lại càng lúc càng ít đi, càng lúc càng nhỏ dần.
 
-Không biết đã trôi qua bao lâu, màn sương đen vốn vô cùng đậm đặc, chiếm phạm vi ngàn dặm kia thốt nhiên hình thành một vòng xoáy, tất cả sương đen bắt đầu nhanh chóng thu nhỏ về phía chính trung tâm!
+Chẳng biết đã trôi qua bao lâu, làn sương đen vốn nồng đậm chiếm cứ phạm vi ngàn dặm kia bỗng nhiên tạo thành một cái xoáy nước, toàn bộ sương đen bắt đầu nhanh chóng co lại về phía chính giữa!
 
-Chỉ trong vài nhịp thở, ngay phía trên cơ thể đã gần như biến thành bộ khung xương của La Phàm, ngưng tụ thành một hình bóng dài chín mét, cao sáu mét!
+Chỉ trong vài nhịp thở, ngay phía trên cơ thể vốn đã gần như biến thành bộ khung xương của La Phàm đã ngưng tụ thành một bóng hình dài chín mét, cao sáu mét!
 
-Hình bóng này đầu rồng, mình ngựa, chân lân, toàn thân đen kịt, hắc nhiên chính là hình dáng Tỳ Hưu của La Phàm!
+Bóng hình này đầu rồng, mình ngựa, chân lân, toàn thân đen kịt, chính xác là hình dáng Tỳ Hưu của La Phàm!
 
-"Thế giới Hồng Hoang... giai giai giai giai giai giai... Thế giới Hồng Hoang... giai giai giai giai giai giai..." Trên gương mặt con Tỳ Hưu đen kia hiện ra một biểu cảm dường như là vui mừng, lại dường như là bi thương, dường như là phẫn nộ, lại dường như là thù hận... vô số biểu cảm biến ảo khôn lường đan xen vào nhau, tình huống quỷ dị đến mức không thể tưởng tượng nổi!
+"Thế giới Hồng Hoang... giai giai giai giai giai giai... Thế giới Hồng Hoang... giai giai giai giai giai giai..." Trên mặt con Tỳ Hưu đen hiện ra một biểu cảm hệt như vui sướng, lại hệt như bi thương, hệt như phẫn nộ, lại hệt như thù hận vân vân và vân vân, vô số biểu cảm biến ảo khôn lường. Những biểu cảm muôn hình vạn trạng này đan xen vào nhau, tình cảnh quỷ dị đến mức không thể tưởng tượng nổi!
 
-"Thế giới Hồng Hoang... Bàn Cổ... Bàn Cổ... Thế giới Hồng Hoang..." Dưới những biểu cảm biến ảo khôn lường đó, con Tỳ Hưu đen này không ngừng lầm bầm tự nói trong miệng, ú ớ lập đi lập lại hai từ Thế giới Hồng Hoang và Bàn Cổ, thỉnh thoảng lại phát ra vài tiếng kêu "giai giai" quái dị vô nghĩa.
+"Thế giới Hồng Hoang... Bàn Cổ... Bàn Cổ... Thế giới Hồng Hoang..." Dưới biểu cảm biến ảo khôn lường đó, con Tỳ Hưu đen này không ngừng lầm bầm tự nói trong miệng, ú ớ không ngừng lặp lại hai từ thế giới Hồng Hoang, Bàn Cổ, thi thoảng lại phát ra vài tiếng quái khiếu giai giai vô nghĩa.
 
-Theo sự trôi đi của thời gian, tần suất xuất hiện của những tiếng kêu quái dị vô nghĩa đó ngày càng ít đi, hai danh từ "Thế giới Hồng Hoang" và "Bàn Cổ" ngày càng rõ ràng, ngày càng lưu loát.
+Theo thời gian trôi qua, tần suất xuất hiện của những tiếng quái khiếu vô nghĩa đó càng lúc càng ít đi, hai danh từ thế giới Hồng Hoang, Bàn Cổ càng lúc càng rõ rệt, càng lúc càng lưu loát.
 
-Thốt nhiên, hai đạo hào quang chín màu lóe lên, đôi mắt con Tỳ Hưu đen kia trong nháy mắt đã chuyển từ màu đen kịt sang màu giống như lưu ly, tỏa ra hào quang chín màu rực rỡ!
+Bỗng nhiên, hai luồng hào quang chín màu lóe lên, màu mắt của con Tỳ Hưu đen thoắt cái đã từ màu đen kịt chuyển sang giống như lưu ly, tỏa ra hào quang chín màu!
 
-"Vực ngoại hữu thiên, tha hóa tự tại! Ngô nãi, Đại Tự Tại Thiên Ma!" Theo đôi mắt biến thành màu lưu ly chín sắc đó, con Tỳ Hưu đen kia đã thốt ra một câu nói vô cùng uy nghiêm như thế.
+"Vực ngoại hữu thiên, tha hóa tự tại! Ta chính là Đại Tự Tại Thiên Ma!" Theo đôi mắt biến thành màu chín sắc giống như lưu ly, trong miệng con Tỳ Hưu đen thốt ra một câu nói vô cùng uy nghiêm như vậy.

@@ -1,109 +1,109 @@
-# Chương 0050 - Vô Hình Phù Quỷ (3)
+# Chương 50: Vô Hình Phù Quỷ (3)
 
-"Xem ra Vô Hình Phù Quỷ là dựa theo mức độ phức tạp của đạo Trọng Trục Âm Phù này để phân biệt mạnh yếu..." La Phàm trong lòng thấu hiểu.
+"Xem ra Vô Hình Phù Quỷ được phân chia mạnh yếu dựa vào mức độ phức tạp của đạo Trọng Trọc Âm Phù này..." La Phàm trong lòng thầm hiểu.
 
-Tay trái vẫy một cái, ống tay áo lớn bao phủ lấy một cái, bao phủ lấy đạo Trọng Trục Âm Phù to bằng nắm tay này, thu nó vào trong hư không do Tụ Lý Càn Khôn khai tịch ra.
+Vẫy tay trái một cái, ống tay áo rộng mở bao phủ lấy đạo Trọng Trọc Âm Phù to chừng nắm tay này, thu nó vào trong không gian hư không do Tụ Lý Càn Khôn khai mở ra.
 
-Y cũng không dừng lại, sau khi thu lấy âm phù, thân hình lóe lên một cái, lặn vào một cái đã lao vào bên trong lớp màn Đại Địa Nguyên Khí đó. Lớp màn Đại Địa Nguyên Khí đó đối với Vô Hình Phù Quỷ mà nói là dai chắc như vậy, là không thể phá vỡ như thế, nhưng đối với La Phàm mà nói thì lại giống như một lớp rèm nước vậy, hoàn toàn không thể gây ra cho y lấy một tia tác dụng ngăn trở.
+Hắn cũng không dừng lại, sau khi thu lấy Âm Phù liền thân hình lóe lên, lặn một cái đã lao thẳng vào trong lớp trảo Đại Địa Nguyên Khí kia. Lớp trảo Đại Địa Nguyên Khí đó đối với Vô Hình Phù Quỷ mà nói là kiên cường như vậy, kiên cố không thể phá vỡ như vậy, nhưng đối với La Phàm mà nói, trái lại giống như một lớp rèm nước vậy, hoàn toàn không thể tạo ra chút tác dụng ngăn trở nào đối với hắn.
 
-Đại Địa Nguyên Khí... chính là nguyên khí bản nguyên của lớp đất đá đại địa, thần thông Thổ Độn khiến y có thể tự do xuyên thoi, tự do bơi lội trong đại địa, xuyên qua lớp màn Đại Địa Nguyên Khí này thì có gì to tát đâu.
+Đại Địa Nguyên Khí... chính là bản nguyên nguyên khí của các tầng địa tầng đại địa, thần thông Thổ độn khiến hắn có thể tự do xuyên thấu, tự do bơi lội bên trong đại địa, việc đi xuyên qua lớp trảo Đại Địa Nguyên Khí này thì có gì to tát đâu.
 
-Đi vào bên trong Hoàng Tuyền, y nháy mắt liền bị nước suối Hoàng Tuyền nhấn chìm.
+Tiến vào bên trong Hoàng Tuyền, hắn trong phút chốc đã bị nước suối Hoàng Tuyền nhấn chìm.
 
-Thần thông Thổ Độn càng là hoàn toàn mất đi hiệu quả, thân xác một lần nữa hóa thành thực thể.
+Thần thông Thổ độn hoàn toàn mất đi hiệu quả, nhục thân một lần nữa hóa thành thực thể.
 
-Đồng thời càng có luồng khí tức âm lạnh, vẩn đục vô cùng bao bọc lấy y, khiến y cảm thấy vô cùng âm hàn, càng cảm thấy cơ thể dường như bị một ngọn núi lớn đè nén vậy.
+Đồng thời, lại có luồng khí tức âm hàn, vẩn đục vô tận bao bọc lấy hắn, khiến hắn cảm thấy âm hàn vô cùng, lại cảm thấy cơ thể giống như bị một ngọn núi lớn đè lên vậy.
 
-Toàn bộ đạo Hoàng Tuyền này chảy xiết thảy đều là những dòng nước suối do Trọng Trục Âm Cực Chi Khí vô tận ngưng tụ tinh túy mà thành. Loại nước suối này sở hữu tác dụng ăn mòn cực kỳ mạnh mẽ đối với nhục thân.
+Toàn bộ dòng sông Hoàng Tuyền chảy trôi đều là những nước suối được ngưng tụ tinh lọc từ Trọng Trọc Âm Cực chi khí vô tận. Loại nước suối này có tác dụng ăn mòn cực kỳ mạnh mẽ đối với nhục thân.
 
-Chỉ mới đi vào trong đó vài nhịp thở thôi, La Phàm liền cảm thấy cơ thể mình có chút tê dại, đờ đẫn, mức độ linh hoạt giảm đi nhiều.
+Chỉ mới tiến vào bên trong đó được vài hơi thở, La Phàm liền cảm thấy cơ thể mình có chút tê dại, cứng đờ, mức độ linh hoạt giảm mạnh.
 
-Điều này khiến y không khỏi thầm kinh ngạc, Địa Tiên Đạo Quả trong cơ thể chấn động một cái, lăn vài vòng, bề mặt cơ thể y liền xuất hiện một lớp màng mỏng vô hình, ngăn cách y khỏi dòng nước suối Hoàng Tuyền xung quanh.
+Điều này khiến hắn không khỏi thầm kinh ngạc trong lòng, Địa Tiên đạo quả trong cơ thể chấn động một cái, lăn lộn vài vòng, bề mặt cơ thể hắn liền xuất hiện một lớp màng mỏng vô hình, ngăn cách hắn cùng nước suối Hoàng Tuyền xung quanh.
 
-Đến đây, La Phàm mới cảm thấy cơ thể khôi phục lại bình thường.
+Tới đây, La Phàm mới cảm thấy cơ thể khôi phục lại bình thường.
 
-Số lượng những con Vô Hình Phù Quỷ đó tuy là vô cùng vô tận, nhưng so với đạo Hoàng Tuyền này thì lại vô cùng nhỏ bé. Cộng thêm việc vị trí La Phàm đi vào cách cái vị trí mỏng manh kia vài dặm xa, cho nên La Phàm đi vào trong đó một hồi lâu đều không có bất kỳ con Vô Hình Phù Quỷ nào phát hiện ra sự tồn tại của y.
+Số lượng Vô Hình Phù Quỷ kia mặc dù vô cùng vô tận, nhưng so với dòng sông Hoàng Tuyền này thì lại nhỏ bé vô cùng. Thêm vào đó, vị trí La Phàm tiến vào cách vị trí mỏng manh kia tới vài dặm, cho nên khi La Phàm tiến vào bên trong đó một lúc lâu cũng không có bất kỳ con Vô Hình Phù Quỷ nào phát hiện ra sự tồn tại của hắn.
 
-Những con Vô Hình Phù Quỷ trong phạm vi trăm dặm xung quanh thảy đều vẫn đang xung kích vào cái vị trí mỏng manh kia, dường như đang cực độ khát khao thoát khỏi đạo Hoàng Tuyền này.
+Các Vô Hình Phù Quỷ trong phạm vi trăm dặm xung quanh vẫn đang điên cuồng tấn công vào vị trí mỏng manh đó, dường như đang cực độ khát khao được thoát khỏi dòng sông Hoàng Tuyền này.
 
-"Những luồng Trọng Trục Âm Cực Chi Khí này dường như tương sinh tương khắc với Tiên Thiên Nguyên Khí, Hỗn Độn Nguyên Khí, thậm chí ngay cả Tiên Thiên Đạo Thể cũng không thể chịu đựng được, quả thực là kỳ diệu." La Phàm cảm ứng một chút tính chất của nước suối Hoàng Tuyền này, trong lòng thầm tự suy tính.
+"Những luồng Trọng Trọc Âm Cực chi khí này dường như tương sinh tương khắc cùng Tiên Thiên nguyên khí, Hỗn Độn nguyên khí, thậm chí ngay cả Tiên Thiên đạo thể cũng không thể chịu đựng được, quả thực là kỳ diệu." La Phàm cảm nhận tính chất của nước suối Hoàng Tuyền này, trong lòng thầm tự mình suy ngẫm.
 
-Ngay vào lúc này, tiếng động xung quanh bỗng khựng lại.
+Ngay vào lúc này, âm thanh xung quanh bỗng khựng lại.
 
-Trở nên im lặng đến mức khó có thể tưởng tượng nổi, duy chỉ có ở đằng xa có những tiếng cười quái dị, tiếng gầm thét, tiếng kêu thảm thiết vi tế thấp thoáng truyền tới.
+Trở nên im lặng tới mức không thể tưởng tượng nổi, chỉ có tiếng cười quái dị, tiếng gầm thét, tiếng kêu thảm thiết nhỏ bé từ phía xa âm thầm truyền tới.
 
-La Phàm kinh ngạc nhìn quanh bốn phía, lại phát hiện ra hàng vạn con Vô Hình Phù Quỷ biến hóa bất định, hầu như không có bất kỳ hình thái cố định nào đang nhìn chằm chằm vào y ở cách đó vài dặm.
+La Phàm kinh ngạc nhìn quanh bốn phía, lại phát hiện hàng vạn con Vô Hình Phù Quỷ biến hóa bất định, hầu như không có bất kỳ hình thái cố định nào đang ở cách đó vài dặm chằm chằm nhìn vào hắn.
 
 Hơn nữa, hình thái của mỗi một con Vô Hình Phù Quỷ đều đang đồng thời dần dần nảy sinh sự biến hóa.
 
-Chẳng mấy chốc liền hóa ra vô số những hình thái La Phàm được đắp bằng mặc ngọc! Hình tượng của chúng sống động như thật, những vân da, kiểu tóc vi tế nhất đều không có lấy bất kỳ sự khác biệt nào, chỉ có một điểm khác biệt, đó chính là thần sắc của chúng thảy đều vô cùng dữ tợn, vô cùng điên cuồng, lại càng có chút đờ đẫn.
+Không lâu sau, liền hóa ra vô số hình thái La Phàm được đúc từ mực ngọc! Hình tượng của chúng sống động như thật, ngay cả kết cấu da thịt nhỏ nhất, kiểu tóc cũng không có bất kỳ điểm khác biệt nào, chỉ có một điểm khác biệt duy nhất, đó chính là thần sắc của chúng đều vô cùng dữ tợn, vô cùng điên cuồng, thậm chí còn có chút ngây dại.
 
 La Phàm thở dài một tiếng.
 
-Chiến đấu với những con Vô Hình Phù Quỷ có thể biến hóa thành hình thái của bản thân mình như thế này, cảm giác thực sự là không sảng khoái chút nào a...
+Chiến đấu cùng những con Vô Hình Phù Quỷ có thể biến hóa thành hình thái của chính mình này, cảm giác thật là không thoải mái chút nào...
 
-Lúc này, những con Vô Hình Phù Quỷ đó đã thảy đều biến hóa thành hình, phát ra tiếng cười quái dị cạc cạc cạc, tụ lại thành đống nhào mạnh về phía La Phàm.
+Lúc này, những con Vô Hình Phù Quỷ đó đã hoàn toàn biến hóa thành hình, phát ra tiếng cười quái dị cạch cạch cạch, tụ tập thành bầy mãnh liệt vồ về phía La Phàm.
 
-"Thôi được, ta cũng cần nhiều Trọng Trục Âm Phù hơn để nghiên cứu một phen, đã là các ngươi tự tìm tới cửa, cũng đừng trách ta nữa." La Phàm thở dài một tiếng, nhấc tay vẫy nhẹ.
+"Cũng được, ta cũng cần nhiều Trọng Trọc Âm Phù hơn để nghiên cứu một phen, nếu các ngươi đã tự mình đưa tới cửa, cũng đừng trách ta." La Phàm thở dài một tiếng, nhấc tay vẫy nhẹ.
 
-Từng luồng sức mạnh vô hình nảy sinh, tác dụng lên trên những con Vô Hình Phù Quỷ này.
+Từng luồng sức mạnh vô hình nảy sinh, tác động lên trên người những con Vô Hình Phù Quỷ này.
 
 Bụp bụp bụp bụp...
 
-Những tiếng vang trầm đục liên miên bất tuyệt vang lên, cổ đãng dòng nước suối Hoàng Tuyền xung quanh. Tạo ra từng vòng từng vòng gợn sóng, cổ đãng từng đợt từng đợt sóng cuộn.
+Những tiếng nổ trầm đục liên miên không dứt vang lên, làm khuấy động nước suối Hoàng Tuyền xung quanh. Tạo ra từng vòng từng vòng gợn sóng, làm cuộn trào từng đợt từng đợt sóng hoa.
 
-Vô cùng vô tận hắc vụ bùng nổ ra, hết con Vô Hình Phù Quỷ này tới con khác bị luồng lực vô hình đó bóp nát hóa thành bản nguyên, phân tán khắp nơi, cuối cùng bị dòng nước suối Hoàng Tuyền xung quanh cổ đãng một cái, hút vào một cái liền dung nhập vào trong đó.
+Khói đen vô tận bùng phát ra, từng con lại từng con Vô Hình Phù Quỷ bị luồng lực đạo vô hình đó bóp nát hóa thành bản nguyên, tản mát khắp nơi, cuối cùng bị nước suối Hoàng Tuyền xung quanh khuấy động, hút một cái liền hòa nhập vào bên trong đó.
 
-La Phàm không hề sử dụng bất kỳ pháp quyết nào, chỉ đơn thuần dựa vào bản năng thần thông mà thân xác y vốn dĩ sở hữu sau khi chứng đắc Địa Tiên Đạo Quả, thành tựu Tiên Thiên Đạo Thể, là đã đủ để đối phó với những con Vô Hình Phù Quỷ này rồi — khoảng cách giữa Vô Hình Phù Quỷ và La Phàm thực sự là quá lớn quá lớn rồi...
+La Phàm không hề sử dụng bất kỳ pháp quyết nào, chỉ đơn thuần dựa vào bản năng thần thông vốn có của nhục thân sau khi chứng đắc Địa Tiên đạo quả, thành tựu Tiên Thiên đạo thể, bấy nhiêu đó đã đủ để đối phó với những con Vô Hình Phù Quỷ này rồi —— khoảng cách giữa Vô Hình Phù Quỷ và La Phàm quả thực là quá lớn, quá lớn...
 
-Theo đợt động tác này, vô số tiếng kêu thảm thiết thê lương vô cùng phát ra từ nơi những con Vô Hình Phù Quỷ đó, lao thẳng vào màng nhĩ của La Phàm.
+Nương theo những động tác này, vô số tiếng kêu thảm thiết vô cùng thê lương phát ra từ nơi những con Vô Hình Phù Quỷ kia, đâm thẳng vào màng nhĩ của La Phàm.
 
-Nghe thấy tiếng kêu thảm thiết thê lương này, La Phàm lại không hề có lấy một tia động dung, thần sắc vẫn bình tĩnh như ban đầu, động tác trong tay cũng không có lấy một tia trì hoãn.
+Nghe thấy tiếng kêu thảm thiết thê lương này, La Phàm lại không hề có chút động dung nào, thần sắc vẫn bình tĩnh như lúc đầu, động tác trong tay cũng không hề có chút chậm trễ nào.
 
-Những con Vô Hình Phù Quỷ này chỉ biết giết chóc, chỉ biết cắn nuốt lẫn nhau, tuy được xưng tụng là sinh linh nhưng không sở hữu linh thức hoàn chỉnh, thậm chí ngay cả Hoàng Cân Lực Sĩ chỉ tế luyện một tầng cấm chế cũng không sánh được, diệt sát chúng y không hề có một chút áp lực tâm lý nào.
+Những con Vô Hình Phù Quỷ này chỉ biết giết chóc, chỉ biết thôn phệ lẫn nhau, tuy có thể gọi là sinh linh nhưng lại không có linh thức hoàn chỉnh, thậm chí ngay cả Hoàng Cân Lực Sĩ chỉ được tế luyện một tầng cấm chế cũng không bằng, diệt sát chúng, hắn không hề có chút áp lực tâm lý nào.
 
-Màu sắc của Vô Hình Phù Quỷ tuy là màu đen, nhưng bản chất của nó lại cũng là Trọng Trục Âm Cực Chi Khí.
+Mặc dù màu sắc của Vô Hình Phù Quỷ là màu đen, nhưng bản chất của nó cũng chính là Trọng Trọc Âm Cực chi khí.
 
-Chỉ là trải qua một loại thay đổi kỳ diệu nào đó, qua phương thức nén ép, tinh túy đặc biệt nên mới có vẻ hình thái khác biệt so với dòng nước suối xung quanh mà thôi. Lúc này bị La Phàm nổ phá ra, thân hình của nó tự động quy về bản nguyên, tự nhiên dung nhập vào trong nước suối.
+Chỉ là trải qua một loại cải biến kỳ diệu nào đó, trải qua phương thức nén lại, tinh lọc đặc thù, mới hiện ra hình thái khác biệt so với nước suối xung quanh mà thôi. Lúc này bị La Phàm làm cho nổ tung, cơ thể nó tự động quy về bản nguyên, tự nhiên hòa nhập vào trong nước suối.
 
-Qua một hồi lâu, hàng vạn con phù quỷ nhào tới đó đã hoàn toàn biến mất, biến thành hàng vạn đạo Trọng Trục Âm Phù ở lại tại chỗ, lặng lẽ lơ lửng ở đó.
+Qua một lát sau, hàng vạn con Phù Quỷ lao tới kia đã hoàn toàn biến mất, trở thành hàng vạn đạo Trọng Trọc Âm Phù để lại tại chỗ, lặng lẽ lơ lửng ở đó.
 
-La Phàm nhìn một chút, phát hiện không có con cá lọt lưới nào, tay trái vẫy một cái, ống tay áo lớn mở ra bao phủ một cái, cư nhiên đã đem hàng vạn đạo Trọng Trục Âm Phù này thu vào trong hư không do Tụ Lý Càn Khôn khai tịch ra.
+La Phàm nhìn qua một chút, phát hiện không có con cá nào lọt lưới, tay trái vẫy một cái, tay áo mở rộng bao phủ lấy, liền đem hàng vạn đạo Trọng Trọc Âm Phù này thu vào trong không gian hư không do Tụ Lý Càn Khôn khai mở ra.
 
-Dù nói rằng rất nhiều vật liệu luyện khí y thu lấy dọc đường đã lấp đầy vùng hư không đó, nhưng giữa các loại vật liệu thảy đều có một số kẽ hở, dùng để chứa hàng vạn đạo Trọng Trục Âm Phù to bằng nắm tay này thì trái lại đã dư xả rồi.
+Mặc dù rất nhiều vật liệu luyện khí mà hắn thu thập trên đường đi đã nhét đầy không gian hư không đó, nhưng giữa các loại vật liệu vẫn có những khe hở nhất định, dùng để chứa hàng vạn đạo Trọng Trọc Âm Phù to chừng nắm tay này thì đã đủ rồi.
 
-Theo sự dọn dẹp sạch sẽ các con Vô Hình Phù Quỷ xung quanh, phạm vi hơn trăm dặm xung quanh trở nên vô cùng thanh tịnh, không còn bất kỳ con Vô Hình Phù Quỷ nào tồn tại nữa.
+Nương theo việc các Vô Hình Phù Quỷ xung quanh bị quét sạch, phạm vi hơn trăm dặm xung quanh trở nên vô cùng thanh tĩnh, không còn bất kỳ con Vô Hình Phù Quỷ nào tồn tại nữa.
 
-Chỉ có ở ngoài phạm vi hơn trăm dặm mới có thể nhìn thấy thưa thớt cực kỳ ít ỏi những con Vô Hình Phù Quỷ đang xuyên thoi một cách vô thức, giết chóc lẫn nhau...
+Chỉ ở bên ngoài phạm vi hơn trăm dặm, mới có thể nhìn thấy lưa thưa một số ít Vô Hình Phù Quỷ đang vô thức xuyên thấu, giết chóc...
 
-"Tụ Lý Càn Khôn vẫn là quá nhỏ, hiện giờ chứa Trọng Trục Âm Phù đều có chút miễn cưỡng rồi... Ừm, trước đó đã thu lấy nhiều vật liệu như vậy, trái lại có thể tế luyện một phen lần nữa để mở rộng hư không lên gấp mấy lần." La Phàm tâm thần khẽ động, thầm nghĩ trong lòng.
+"Tụ Lý Càn Khôn vẫn là quá nhỏ, hiện tại chứa Trọng Trọc Âm Phù cũng có chút gượng ép... Ừm, trước đó đã thu thập được nhiều vật liệu như vậy, trái lại có thể tế luyện thêm một lần nữa, mở rộng không gian hư không thêm vài lần." La Phàm tâm thần khẽ động, thầm tự mình suy nghĩ.
 
-Nghĩ đoạn, pháp lực trong cơ thể y chấn động một cái, một luồng lực vô hình mãnh liệt bùng nổ ra từ trong cơ thể y, đẩy dòng nước suối Hoàng Tuyền xung quanh ra xa, hình thành nên một vùng chân không hình cầu rộng mười trượng ở xung quanh cơ thể y.
+Vừa nghĩ, pháp lực trong cơ thể hắn chấn động một cái, một luồng lực đạo vô hình đột ngột bùng phát ra từ trong cơ thể hắn, ép nước suối Hoàng Tuyền xung quanh ra xa, hình thành một vùng chân không hình cầu rộng chừng mười trượng xung quanh cơ thể hắn.
 
-Dù nói rằng trong khi bị nước suối nhấn chìm cũng có thể tế luyện, nhưng dù sao cũng không thoải mái bằng ở thế giới bên ngoài.
+Mặc dù trong lúc bị nước suối nhấn chìm cũng có thể tế luyện, nhưng dù sao cũng không nhẹ nhàng bằng lúc ở bên ngoài.
 
-Tâm thần khẽ động, trong hư không của Tụ Lý Càn Khôn, một khối Sóc Phong Nguyên Thạch màu xanh nâu đường kính năm thước mãnh liệt chấn động một cái, thoát khỏi hư không hiện ra trước mặt La Phàm.
+Tâm thần khẽ động, bên trong không gian hư không của Tụ Lý Càn Khôn, một khối Sóc Phong Nguyên Thạch màu xanh nâu đường kính năm thước đột ngột chấn động một cái, thoát khỏi hư không hiện ra trước mặt La Phàm.
 
-Lần trước La Phàm tế luyện Tụ Lý Càn Khôn này sử dụng vật liệu là Canh Kim Thần Lôi cũng như Ất Mộc Thiên Hỏa, thảy đều là vật liệu tinh túy thu lấy từ trong tầng Cương Phong Lôi Hỏa. Tuy rằng nhìn nhận từ trời đất Hồng Hoang thì là thứ có thể lấy được ở mọi nơi, nhưng cũng vô cùng trân quý.
+Lần trước La Phàm tế luyện Tụ Lý Càn Khôn này, vật liệu sử dụng là Canh Kim Thần Lôi và Ất Mộc Thiên Hỏa, đó đều là những vật liệu tinh túy thu thập được từ lớp Cương Phong Lôi Hỏa. Mặc dù trong mắt thiên địa Hồng Hoang thì đó là thứ có thể kiếm được ở khắp mọi nơi, nhưng cũng vô cùng quý giá.
 
-Gió trợ thế lửa, lửa mượn thế gió, lôi hỏa tương tế, phong lôi tương sinh. Muốn sử dụng vật liệu mới để mở rộng hư không, thứ phù hợp nhất chính là gió. Cho nên, sử dụng khối Sóc Phong Nguyên Thạch này để tế luyện Tụ Lý Càn Khôn trái lại mới có thể đạt được hiệu quả tốt nhất.
+Gió trợ thế lửa, lửa mượn thế gió, lôi hỏa tương tế, phong lôi tương sinh. Muốn sử dụng vật liệu mới để mở rộng không gian hư không, thứ phù hợp nhất chính là gió. Vì vậy, sử dụng khối Sóc Phong Nguyên Thạch này để tế luyện Tụ Lý Càn Khôn mới có thể đạt được hiệu quả tốt nhất.
 
-Trong lòng định thần xong, tâm pháp khẩu quyết của Tụ Lý Càn Khôn lướt qua trong lòng y.
+Trong lòng đã định, khẩu quyết tâm pháp của Tụ Lý Càn Khôn lướt qua trong lòng hắn.
 
-Tiếp đó, ống tay áo bên trái của y liền nháy mắt chấn động một cái nổ tung một cái, hóa thành một đoàn mây lớn màu xám đen, vô số đạo phù trán lấp lánh xuyên thoi trong đoàn mây này.
+Tiếp đó, ống tay áo bên trái của hắn trong phút chốc chấn động một cái rồi tan vỡ, hóa thành một đoàn vân khí màu đen nâu to lớn, vô số đạo phù lục lóe lên xuyên thấu bên trong đoàn vân khí này.
 
-Ngay vào khoảnh khắc này, từng tiếng cười quái dị ngày càng lớn truyền vào tai La Phàm.
+Chính ngay vào khoảnh khắc này, từng tiếng cười quái dị càng lúc càng to truyền vào tai La Phàm.
 
-La Phàm tâm thần khẽ động, nhìn ra bên ngoài thì thấy những con Vô Hình Phù Quỷ ở cách xa trăm dặm giống như được uống thuốc kích thích vậy, điên cuồng lao về phía vị trí La Phàm đang tọa lạc.
+La Phàm tâm thần khẽ động, nhìn ra bên ngoài, chỉ thấy các Vô Hình Phù Quỷ ở phía xa ngoài trăm dặm giống như vừa cắn thuốc kích thích vậy, điên cuồng lao về phía vị trí của La Phàm.
 
-Nhìn cái khí thế đó quả thực còn điên cuồng hơn so với lúc trước những con Vô Hình Phù Quỷ đó xung kích vào lớp màn Đại Địa Nguyên Khí.
+Nhìn cái thế trận đó, quả thực còn điên cuồng hơn nhiều so với đám Vô Hình Phù Quỷ tấn công lớp trảo Đại Địa Nguyên Khí trước đó.
 
-Trong tâm thần ý niệm của La Phàm lướt qua vô số ý nghĩ.
+Trong tâm thần ý niệm của La Phàm xẹt qua vô số ý nghĩ.
 
-Cuối cùng lại chỉ biết cười khổ bất đắc dĩ: "Thì ra, những con Vô Hình Phù Quỷ này là bị Canh Kim Thần Lôi thu hút tới đây..."
+Cuối cùng lại đành phải cười khổ một tiếng: "Hóa ra, những con Vô Hình Phù Quỷ này là bị Canh Kim Thần Lôi thu hút tới..."
 
-Dù vẫn chưa biết được vì sao những con Vô Hình Phù Quỷ này lại khát khao Canh Kim Thần Lôi đến nhường này, nhưng lúc này không phải là lúc tìm hiểu kỹ, y tay trái vẫy một cái, đoàn mây màu xám đen đang lấp lánh vô số phù trán kia liền mãnh liệt bao phủ lên phía trước một cái, nháy mắt đã nuốt chửng khối Sóc Phong Nguyên Thạch đó.
+Mặc dù vẫn không biết tại sao những con Vô Hình Phù Quỷ này lại khao khát Canh Kim Thần Lôi tới mức đó, nhưng lúc này không phải là lúc để đi sâu tìm hiểu, tay trái hắn vẫy một cái, đoàn vân khí màu xám nâu đang lóe lên vô số phù lục kia liền đột ngột bao phủ về phía trước, trong phút chốc nuốt chửng khối Sóc Phong Nguyên Thạch.
 
-Răng rắc răng rắc...
+Rắc rắc rắc...
 
-Từng tiếng vang giòn giã vang lên, khói đen không ngừng từ bên trong đó bốc lên nghi ngút, lao vào trong dòng nước suối Hoàng Tuyền ở phía trên, bị nước suối tẩy rửa, cuối cùng hóa thành từng đoàn cát đá nhỏ xíu, nước suối xối xả một cái liền chìm xuống đáy suối rồi.
+Từng tiếng nổ giòn vang lên, khói đen liên tục bốc lên từ bên trong đó, lao thẳng vào trong nước suối Hoàng Tuyền phía trên, bị nước suối tẩy rửa, cuối cùng hóa thành từng đám cát sỏi nhỏ xíu, nước suối vừa dội vừa xao động, liền chìm xuống đáy suối.

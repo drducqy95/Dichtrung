@@ -35,12 +35,9 @@
 - Chương 0033: Pháp Bảo Chi Năng (6)
 - Chương 0034: Nhục Thân Hành Tẩu
 - Chương 0035: Ba Ngàn Sáu Trăm Năm Mươi Năm
-- Chương 0036: Thiên Sinh Phù Triện (1)
-- Chương 0036: Thiên Sinh Phù Trán (1)
-- Chương 0037: Thiên Sinh Phù Triện (2)
-- Chương 0037: Thiên Sinh Phù Trán (2)
-- Chương 0038: Thiên Sinh Phù Triện (3)
-- Chương 0038: Thiên Sinh Phù Trán (3)
+- Chương 0036: Thiên Sinh Phù Lục (1)
+- Chương 0037: Thiên Sinh Phù Lục (2)
+- Chương 0038: Thiên Sinh Phù Lục (3)
 - Chương 0039: Lực Sĩ Triệu Hoán Quyết
 - Chương 0040: Cửu Kiếp Lâm Đầu (1)
 - Chương 0041: Cửu Kiếp Lâm Đầu (2)
@@ -54,94 +51,55 @@
 - Chương 0049: Vô Hình Phù Quỷ (2)
 - Chương 0050: Vô Hình Phù Quỷ (3)
 - Chương 0051: Trọng Trọc Âm Phù (1)
-- Chương 0051: Trọng Trục Âm Phù (1)
 - Chương 0052: Trọng Trọc Âm Phù (2)
-- Chương 0052: Trọng Trục Âm Phù (2)
 - Chương 0053: Hữu Hình Phù Quỷ! (1)
 - Chương 0054: Hữu Hình Phù Quỷ! (2)
 - Chương 0055: Hữu Hình Phù Quỷ! (3)
-- Chương 0056: Pháp Bảo Hiển Uy (1)
-- Chương 0056: Pháp Bảo Hiện Uy (1)
-- Chương 0057: Pháp Bảo Hiển Uy (2)
-- Chương 0057: Pháp Bảo Hiện Uy (2)
-- Chương 0058: Hoàng Tuyền Luyện Khí (1)
-- Chương 0059: Hoàng Tuyền Luyện Khí (2)
+- Chương 0056: Pháp bảo hiển uy (1)
+- Chương 0057: Pháp bảo hiển uy (2)
+- Chương 0058: Hoàng Tuyền luyện khí (1)
+- Chương 0059: Hoàng Tuyền luyện khí (2)
 - Chương 0060: Âm Dương Giao Long (1)
 - Chương 0061: Âm Dương Giao Long (2)
-- Chương 0062: Cuối Cùng Có Nơi Chốn Liền Bất Diệt!
-- Chương 0062: Cuối Cùng Cũng Có Bất Diệt!
-- Chương 0063: Hồng Quân Đạo Chúc (1)
+- Chương 0062: Cuối Cùng Có Được Bất Diệt!
 - Chương 0063: Hồng Quân Đảo Chúc (1)
-- Chương 0064: Hồng Quân Đạo Chúc (2)
 - Chương 0064: Hồng Quân Đảo Chúc (2)
-- Chương 0065: Bước Chân Tới Bất Chu, Cảm Ngộ Không Tên
-- Chương 0065: Bước Tới Bất Chu, Cảm Ngộ Mạc Danh
+- Chương 0065: Táp Túc Bất Chu, Mạc Danh Cảm Ngộ
 - Chương 0066: Tạo Hóa Ngọc Điệp Quyết (1)
-- Chương 0066: Tạo Hóa Ngọc Điệp Quyệt (1)
 - Chương 0067: Tạo Hóa Ngọc Điệp Quyết (2)
-- Chương 0067: Tạo Hóa Ngọc Điệp Quyệt (2)
-- Chương 0068: Bất Chu Chi Thượng Hữu Thần Linh
-- Chương 0068: Trên Bất Chu Có Thần Linh
+- Chương 0068: Bất Chu Trên Núi Có Thần Linh
 - Chương 0069: Đại Đạo Pháp, Siêu Thoát Quyết
-- Chương 0069: Đại Đạo Pháp, Siêu Thoát Quyệt
 - Chương 0070: Đạo Hỏa Linh Phù
-- Chương 0071: Có Đứa Con Như Thế
-- Chương 0071: Cũng Có Địa Khuyển Như Thế
-- Chương 0072: Ba Mươi Sáu Nghìn Năm Túc Mệnh
+- Chương 0071: Có con như thế
 - Chương 0072: Kim Giao Hóa Long Đạo (1)
-- Chương 0073: Ba Mươi Sáu Vạn Sáu Nghìn Sáu Trăm Sáu Mươi Sáu Tầng Cấm Chế!
 - Chương 0073: Kim Giao Hóa Long Đạo (2)
-- Chương 0074: Cửu Cửu Chuyển Hoàn, Viên Mãn Mà Sinh
 - Chương 0074: Kim Giao Hóa Long Đạo (3)
-- Chương 0075: Vô Tận Tinh Không (1)
-- Chương 0075: Vô Tận Tinh Không (1)
-- Chương 0076: Vô Tận Tinh Không (2)
-- Chương 0077: Khai Biệt Động Phủ, Thái Âm Chi Tinh
-- Chương 0077: Đỉnh Núi Bất Chu Có Động Phủ
+- Chương 0075: Vô tận tinh không (1)
+- Chương 0076: Vô tận tinh không (2)
+- Chương 0077: Đỉnh Bất Chu Sơn có động phủ
 - Chương 0078: Kim Giao Tiễn (1)
-- Chương 0078: Thái Âm Linh Thức
 - Chương 0079: Kim Giao Tiễn (2)
-- Chương 0079: Mười Hai Nghìn Năm
-- Chương 0080: Mười Hai Vạn Chín Ngàn Sáu Trăm Năm (1)
-- Chương 0080: Rời Đi, Xuất Hành!
-- Chương 0081: Mười Hai Vạn Chín Nghìn Sáu Trăm Năm (2)
-- Chương 0081: Mười Hai Vạn Chín Ngàn Sáu Trăm Năm (2)
-- Chương 0082: Cuối Cùng Rời Bất Chu
-- Chương 0082: Mười Hai Vạn Chín Ngàn Sáu Trăm Năm (3)
-- Chương 0083: Mười Hai Vạn Chín Ngàn Sáu Trăm Năm (4)
-- Chương 0083: Sinh Linh Vô Danh
-- Chương 0084: Cái Gọi Là "Chủ Giác"
-- Chương 0084: Linh Quang Có Linh, Minh Sát Ý Ta
-- Chương 0085: Chân Võ Hóa Thần Pháp (1)
-- Chương 0085: Chân Vũ Hóa Thần Pháp (1)
-- Chương 0086: Chân Võ Hóa Thần Pháp (2)
-- Chương 0086: Chân Vũ Hóa Thần Pháp (2)
-- Chương 0087: Chân Võ Hóa Thần Pháp (3)
-- Chương 0087: Mười Hai Đạo Pháp Quyết, Mười Hai Tầng Thử Thách
-- Chương 0088: Chân Võ Hóa Thần Pháp (4)
+- Chương 0080: Mười hai vạn chín ngàn sáu trăm năm (1)
+- Chương 0081: Mười Hai Vạn Chín Ngàn Sáu Trăm Năm (Hai)
+- Chương 0082: Mười Hai Vạn Chín Ngàn Sáu Trăm Năm (Ba)
+- Chương 0083: Mười Hai Vạn Chín Ngàn Sáu Trăm Năm (Bốn)
+- Chương 0084: Linh Quang Có Linh, Hiểu Thấu Ý Ta
+- Chương 0085: Chân Võ Hóa Thần Pháp (Một)
+- Chương 0086: Chân Võ Hóa Thần Pháp (Hai)
+- Chương 0087: Mười Hai Đạo Pháp Quyết, Mười Hai Trọng Thử Thách
 - Chương 0088: Luyện Bảo Chí Phương Ấn
 - Chương 0089: Ma La Bái Mẫu Xuất Thế
-- Chương 0089: Một Đường Sát Phạt
-- Chương 0090: Chí Phương Đồng Tử Xuất
-- Chương 0091: Hoàng Tuyền Chi Chủ
-- Chương 0091: La Phàm Giảng Đại Đạo, Sơn Thần Dục Bái Sư
-- Chương 0092: Hồng Quân Cửu Kiếp, Chí Phương Thiết Trận (1)
-- Chương 0092: Hỗn Nguyên Chi Tranh
-- Chương 0093: Hồng Quân Cửu Kiếp, Chí Phương Thiết Trận (2)
-- Chương 0093: Pháp Bảo Chi Uy, Không Gian Na Di
-- Chương 0094: Bất Chu Sơn Thần
+- Chương 0090: Chí Phương Đồng Tử Ra Đời
+- Chương 0091: La Phàm Giảng Đại Đạo, Sơn Thần Muốn Bái Sư
+- Chương 0092: Hồng Quân Cửu Kiếp, Chí Phương Thiết Trận (Một)
+- Chương 0093: Hồng Quân Cửu Kiếp, Chí Phương Thiết Trận (Hai)
 - Chương 0094: Cánh Cửa Trường Sinh
-- Chương 0095: Nhất Nhãn Vạn Niên
 - Chương 0095: Tự Lập Môn Hộ Tử Tiêu Động
 - Chương 0096: Chỉ Xích Thiên Nhai
-- Chương 0096: Kiến Nhi Tri Chi, Cầu Thủ Nhân Quả
 - Chương 0097: La Phù Vi Huynh
-- Chương 0097: Nhân Quả Chi Loạn
-- Chương 0098: Quảng Bồ Bái Sư, La Phù Cầu Đạo (1)
-- Chương 0098: Đại Đạo Chân Ngôn, Trấn Áp Vạn Vật
-- Chương 0099: Quảng Bồ Bái Sư, La Phù Cầu Đạo (2)
-- Chương 0099: Quảng Bồ Bái Sư, La Phù Cầu Đạo
-- Chương 0100: Con Trẻ Xuống Núi, La Phàm Sáng Tạo Sự Sống! (1)
+- Chương 0098: Quảng Bồ Bái Sư, La Phù Cầu Đạo (Một)
+- Chương 0099: Quảng Bồ Bái Sư, La Phù Cầu Đạo (Hai)
+- Chương 0100: Tử Đồ Hạ Sơn, La Phàm Sáng Sinh! (Một)
 - output/all_global_errors.jsonl
 - output/output.json
 - output/project_progress.json
