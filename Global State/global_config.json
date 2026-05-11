@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-05-10T11:30:19+07:00",
+    "last_updated": "2026-05-11T10:08:26+07:00",
     "description": "Quy tắc dịch thuật toàn cục cho repo Dichtrung"
   },
   "default_settings": {
@@ -54,7 +54,12 @@
         "thriller"
       ],
       "name_setting": "keep_original",
-      "tone": "Hiện đại, tự nhiên"
+      "tone": "Hiện đại, tự nhiên",
+      "specialized_rules": {
+        "term_handling": "latin_for_specialized",
+        "note_style": "end_of_chapter",
+        "description": "Dùng từ Latinh cho chức danh/nghề nghiệp đặc thù phương Tây. Chú thích dồn xuống cuối chương."
+      }
     }
   },
   "sync_rules": {

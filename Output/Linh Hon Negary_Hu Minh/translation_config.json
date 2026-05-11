@@ -1,0 +1,62 @@
+{
+  "project_name": "Linh Hồn Negary",
+  "author": "Hư Minh",
+  "source_language": "zh",
+  "target_language": "vi",
+  "genre": "western_fiction",
+  "sub_genre": "fantasy",
+  "name_setting": "keep_original",
+  "pronoun_mode": "western",
+  "note_style": "end_of_chapter",
+  "term_handling": "mixed_latin_han_viet",
+  "term_rules": {
+    "core_concepts": "han_viet",
+    "western_professions": "latin",
+    "specialized_terms": {
+      "mode": "vietnamese_concise",
+      "latin_on_skill_context": true,
+      "mappings": {
+        "Perception field": "Trường cảm giác",
+        "Interference force": "Lực can thiệp",
+        "Psychokinesis": "Niệm động lực",
+        "Rhythm": "Rhythm",
+        "Heart Rhythm": "Heart Rhythm",
+        "Deep Rhythm": "Deep Rhythm",
+        "Rhythm Stripping": "Rhythm Stripping",
+        "Metal Rhythm": "Metal Rhythm"
+      }
+    },
+    "notes": "Chân Ngôn, Khí Vận, Tuyệt Vận, Đa Nguyên Vũ Trụ, Dương Khí, Âm Khí, Lưu Pháp (Tân Lưu, Quang Lưu) dùng Hán Việt. Luật động và kỹ năng liên quan dùng Latinh (Rhythm). Witch doctor, Low Magic dùng Latinh. Khí trắng, Khí mát mẻ, Trường cảm giác, Lực can thiệp, Niệm động lực dùng thuần Việt ngắn gọn."
+  },
+  "context_note": "Bối cảnh kỳ huyễn phương Tây cổ đại (Western Ancient Fantasy). Ký chủ Vương Uyên (Trung Quốc) xuyên không sang thế giới da trắng.",
+  "sanitization": {
+    "ban_cjk_in_output": true
+  },
+  "source_ref": {
+    "full": "Source/Source full/Linh Hồn Negary_Hư Minh.txt",
+    "split": "Source/Source split/Linh Hon Negary_Hu Minh/",
+    "description": "Source nằm ở thư mục gốc, KHÔNG copy vào branch"
+  },
+  "output_filename_pattern_display": "Chương {chapter:04d}: {title}.md",
+  "output_filename_pattern_filesystem": "Chương {chapter:04d} - {title}.md",
+  "last_updated": "2026-05-11T10:08:26+07:00",
+  "display_title": "Linh Hồn Negary",
+  "display_author": "Hư Minh",
+  "output_filename_constraint_note": "Windows không cho phép ký tự ':' trong tên file, vì vậy pattern lưu trên đĩa dùng dấu gạch ngang.",
+  "database_support": {
+    "enabled": true,
+    "converter_root": "Output/Linh Hon Negary_Hu Minh/converter_db/",
+    "metadata_file": "Output/Linh Hon Negary_Hu Minh/converter_db/metadata.json",
+    "style_variants_index": "Output/Linh Hon Negary_Hu Minh/converter_db/style_variants.json",
+    "style_variants_dir": "Output/Linh Hon Negary_Hu Minh/converter_db/style_variants/",
+    "chapter_cards_dir": "Output/Linh Hon Negary_Hu Minh/converter_db/chapter_cards/",
+    "exports_dir": "Output/Linh Hon Negary_Hu Minh/converter_db/exports/"
+  },
+  "ebook_requirements": {
+    "toc_required": true,
+    "illustrations_required": true,
+    "toc_file": "Output/Linh Hon Negary_Hu Minh/ebook/toc.md",
+    "illustration_manifest_file": "Output/Linh Hon Negary_Hu Minh/ebook/illustration_manifest.json"
+  },
+  "readme_path": "Output/Linh Hon Negary_Hu Minh/README.md"
+}

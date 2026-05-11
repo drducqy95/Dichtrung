@@ -1,0 +1,50 @@
+# Mục lục - Linh Hồn Negary
+
+- Chương 0001: Khởi đầu của tất cả
+- Chương 0002: Tàn hồn
+- Chương 0003: Negary
+- Chương 0004: Phương thức thăng cấp chính xác
+- Chương 0005: Truyền bá
+- Chương 0006: Kẻ chi phối
+- Chương 0007: Trung kế
+- Chương 0008: Khiếm khuyết tính cách
+- Chương 0009: Đến nơi
+- Chương 0010: Trực tiếp cắn chết
+- Chương 0011: Thần Ân và Tà Linh
+- Chương 0012: Sự anh dũng vô úy của ngươi, ta xin nhận lấy!
+- Chương 0013: Đối tượng thí nghiệm phù hợp
+- Chương 0014: Đặt tên và phát triển
+- Chương 0015: "Nghĩa nhân" Noah
+- Chương 0016: Người Kent
+- Chương 0017: Ở vào vị thế của kẻ yếu, thì chính là kẻ bị chi phối!
+- Chương 0019: Khối thịt Black Crow
+- Chương 0020: Những thứ đã mất
+- Chương 0021: Tân sinh không thuộc về mình
+- Chương 0022: Mười năm sau
+- Chương 0023: Du hiệp truyền kỳ Chris Modo
+- Chương 0024: Long Huyết
+- Chương 0025: Lời tiên tri
+- Chương 0026: Lời thì thầm cuối cùng (Thượng)
+- Chương 0027: Lời thì thầm cuối cùng (Trung)
+- Chương 0028: Lời thì thầm cuối cùng (Hạ)
+- Chương 0029: Gặp mặt
+- Chương 0030: Lời bình cuối cùng
+- Chương 0032: Ta chính là Negary
+- Chương 0033: Crow Men (Thượng)
+- Chương 0034: Crow Men (Trung)
+- Chương 0035: Crow Men (Hạ)
+- Chương 0036: Cục diện
+- Chương 0037: Cơ hội
+- Chương 0038: Sự vĩ đại của con người
+- Chương 0039: Dị Lân Giả (Thượng)
+- Chương 0040: Dị Lân Giả (Hạ)
+- Chương 0041: Thần Ân giáo
+- Chương 0042: Hô hấp pháp
+- Chương 0043: Liên minh
+- Chương 0044: Chuẩn bị
+- Chương 0045: Mười lăm người (Một)
+- Chương 0046: Mười bốn người (Hai)
+- Chương 0047: Mười hai người (Ba)
+- Chương 0048: Mười hai người (Bốn)
+- Chương 0049: Mười một người (Năm)
+- Chương 0050: Mười người (Hoàn)

@@ -2,7 +2,7 @@
   "metadata": {
     "version": "1.0",
     "last_updated": "2026-05-10T04:01:57.519804",
-    "total_characters": 62,
+    "total_characters": 64,
     "source_projects": [
       "Chu Than Dai Dao_Co Nguyet Cu Si",
       "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
@@ -664,6 +664,26 @@
       "description": "Linh thức (Sơn thần) cai quản đỉnh núi Bất Chu Sơn",
       "first_appearance": "",
       "notes": "Là linh thức sinh ra từ Bất Chu Sơn, ban đầu chưa có hình thể thực chất, tính tình thuần phác. Đã được La Phàm ban cho Thiên Thần Đại Đạo Pháp và Thiên Thần Siêu Thoát Quyết để có cơ hội hóa hình và tự do."
+    },
+    {
+      "id": "GCHAR_0063",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "name_original": "王渊",
+      "name_translated": "Vương Uyên",
+      "gender": "nam",
+      "role": "Chính",
+      "description": "Nhân vật chính, xuyên không và bị hệ thống hãm hại trở thành tàn hồn.",
+      "notes": "Bị tước đoạt Hào Quang Nhân Vật Chính ngay từ chương 1."
+    },
+    {
+      "id": "GCHAR_0064",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "name_original": "YD2335",
+      "name_translated": "YD2335",
+      "gender": "neutral",
+      "role": "Phản diện",
+      "description": "Người thu thập hào quang (Halo Collector), thực thể đứng sau Chư Thiên Hệ Thống.",
+      "notes": "Thu thập Hào Quang Nhân Vật Chính từ các thế giới."
     }
   ]
 }

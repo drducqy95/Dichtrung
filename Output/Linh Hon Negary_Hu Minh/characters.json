@@ -1,0 +1,227 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "project": "Linh Hồn Negary",
+    "last_updated": "2026-05-11T08:28:00+07:00"
+  },
+  "characters": [
+    {
+      "id": "char_001",
+      "name_source": "王渊",
+      "name_target": "Vương Uyên",
+      "gender": "male",
+      "role": "protagonist",
+      "description": "Nhân vật chính, xuyên không và bị hệ thống hãm hại trở thành tàn hồn.",
+      "status": "active"
+    },
+    {
+      "id": "char_002",
+      "name_source": "奈格里",
+      "name_target": "Negary",
+      "gender": "neutral",
+      "role": "identity",
+      "description": "Danh hiệu/Thần danh mà Vương Uyên sử dụng sau khi trở thành tàn hồn.",
+      "status": "active"
+    },
+    {
+      "name_original": "达克思",
+      "name_translated": "Dacus",
+      "gender": "nam",
+      "role": "Phụ",
+      "description": "Thợ săn râu rậm người Cosi.",
+      "notes": "Trưởng bối của Komodo."
+    },
+    {
+      "name_original": "科摩罗",
+      "name_translated": "Komoro",
+      "gender": "nam",
+      "role": "Phụ",
+      "description": "Thợ săn trẻ tuổi người Cosi.",
+      "notes": ""
+    },
+    {
+      "name_original": "梅纳斯",
+      "name_translated": "Menas",
+      "gender": "nữ",
+      "role": "Thần linh",
+      "description": "Nữ thần Vận Rủi (Goddess of Misfortune) của người Cosi.",
+      "notes": ""
+    },
+    {
+      "name_original": "奈克",
+      "name_translated": "Naik",
+      "gender": "nam",
+      "role": "Phụ",
+      "description": "Thành viên đội săn người Cosi, người đầu tiên bị Negary giết.",
+      "notes": ""
+    },
+    {
+      "name_original": "瑞尔斯",
+      "name_translated": "Riels",
+      "gender": "nữ",
+      "role": "Thần linh",
+      "description": "Nữ thần May Mắn (Goddess of Luck) của người Cosi.",
+      "notes": ""
+    },
+    {
+      "name_original": "赫尔罗",
+      "name_translated": "Herro",
+      "gender": "nam",
+      "role": "Thần linh",
+      "description": "Vị thần Sức Mạnh (God of Strength) của người Cosi.",
+      "notes": ""
+    },
+    {
+      "name_original": "嫩枝女神",
+      "name_translated": "Men",
+      "gender": "nữ",
+      "role": "Thần linh",
+      "description": "Nữ thần Mầm Non (Goddess of New Life/Buds) của người Cosi.",
+      "notes": ""
+    },
+    {
+      "name_original": "布雷德",
+      "name_translated": "Brad",
+      "gender": "nam",
+      "role": "Phụ",
+      "description": "Thành viên đội săn người Cosi, hy sinh bản thân để bẫy lũ quạ của Negary.",
+      "notes": "",
+      "pending_sync": true
+    },
+    {
+      "name_original": "雅克",
+      "name_translated": "Jacques Dacusmi",
+      "gender": "nam",
+      "role": "Thứ chính",
+      "description": "Đội trưởng đội hộ vệ làng người Cosi, bạn thân của Dacus.",
+      "notes": "Đã bị tế phẩm.",
+      "pending_sync": true
+    },
+    {
+      "name_original": "村长",
+      "name_translated": "Trưởng làng",
+      "gender": "nam",
+      "role": "Phụ",
+      "description": "Trưởng làng người Cosi, bị Vương Uyên ám hại bằng chuột biến dị để lập uy.",
+      "notes": "Đã chết.",
+      "pending_sync": true
+    },
+    {
+      "name_original": "伊莎贝拉",
+      "name_translated": "Isabella",
+      "gender": "nữ",
+      "role": "Phụ",
+      "description": "Vợ của Jacques, người gia tộc Tagore, tín đồ Thần Ân giáo.",
+      "notes": "",
+      "pending_sync": true
+    },
+    {
+      "name_original": "娜拉",
+      "name_translated": "Nala",
+      "gender": "nữ",
+      "role": "Thứ chính",
+      "description": "Con gái chưa chào đời của Jacques và Isabella.",
+      "notes": "",
+      "pending_sync": true
+    },
+    {
+      "name_original": "村长的孙女",
+      "name_translated": "Cháu gái trưởng làng",
+      "gender": "nữ",
+      "role": "Phụ",
+      "description": "Bị Nal-beast cắn và bị Vương Uyên giết chết để trừ hậu họa.",
+      "notes": "Đã chết.",
+      "pending_sync": true
+    },
+    {
+      "name_original": "森",
+      "name_translated": "Sen",
+      "gender": "nam",
+      "role": "Phụ",
+      "description": "Thành viên đội hộ vệ đột kích, bạn thuở nhỏ của Komodo, từng làm bị thương một con quạ.",
+      "notes": "",
+      "pending_sync": true
+    },
+    {
+      "id": "char_003",
+      "name_original": "奥斯古丁",
+      "name_translated": "Osgood",
+      "gender": "nam",
+      "role": "Thứ chính",
+      "description": "Giám mục Thần Ân giáo, người ủy thác và bạn của Chris Modo.",
+      "status": "active"
+    },
+    {
+      "id": "char_004",
+      "name_original": "革洛斯克",
+      "name_translated": "Groske",
+      "gender": "nam",
+      "role": "Phụ",
+      "description": "Đại diện thương nhân Intercam, hỗ trợ hậu cần cho liên minh.",
+      "status": "active"
+    },
+    {
+      "id": "char_005",
+      "name_original": "杰森·托德",
+      "name_translated": "Jason Todd",
+      "gender": "nam",
+      "role": "Phụ",
+      "description": "Lính đánh thuê tàn bạo, báo thù cho gia đình bị hải tặc giết hại.",
+      "status": "active"
+    },
+    {
+      "id": "char_006",
+      "name_original": "路恩·多纳",
+      "name_translated": "Luen Dona",
+      "gender": "nam",
+      "role": "Phụ",
+      "description": "Đệ tử của Osgood, mục sư có tham vọng cải tổ Thần Ân giáo.",
+      "status": "active"
+    },
+    {
+      "id": "char_007",
+      "name_original": "迈尔森",
+      "name_translated": "Myson",
+      "gender": "nam",
+      "role": "Phụ",
+      "description": "Thần Ân kỵ sĩ trẻ tuổi, xuất thân từ khu ổ chuột.",
+      "status": "active"
+    },
+    {
+      "id": "char_008",
+      "name_original": "斯米克·兰彻",
+      "name_translated": "Smik Lancher",
+      "gender": "nam",
+      "role": "Thứ chính",
+      "description": "Cao thủ vương quốc Royas, kế thừa Quang chi lưu pháp.",
+      "status": "active"
+    },
+    {
+      "id": "char_009",
+      "name_original": "艾尔德里奇",
+      "name_translated": "Eldridge",
+      "gender": "nam",
+      "role": "Thứ chính",
+      "description": "Quốc vương vĩ đại của Royas, một vị minh quân độc tài đầy tham vọng.",
+      "status": "active"
+    },
+    {
+      "id": "char_010",
+      "name_original": "里弗斯",
+      "name_translated": "Rivers",
+      "gender": "nam",
+      "role": "Phụ",
+      "description": "Thần Ân kỵ sĩ sử dụng Hy sinh ân tứ trong trận chiến cấm địa.",
+      "status": "active"
+    },
+    {
+      "id": "char_011",
+      "name_original": "德莎",
+      "name_translated": "Desha",
+      "gender": "nữ",
+      "role": "Phản diện",
+      "description": "Nữ Crow Men thực dụng, coi mình là bậc thang của Negary.",
+      "status": "active"
+    }
+  ]
+}

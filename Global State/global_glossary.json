@@ -4,7 +4,7 @@
     "source_language": "zh",
     "target_language": "vi",
     "last_updated": "2026-05-10T03:34:12.835097",
-    "total_entries": 474,
+    "total_entries": 477,
     "source_projects": [
       "Ac Linh Quoc Gia",
       "Hong Hoang Lich_Zhttty",
@@ -4755,6 +4755,33 @@
       "confidence": "high",
       "notes": "",
       "locked": false
+    },
+    {
+      "id": "GTERM_0475",
+      "source_term": "绝运",
+      "target_term": "Tuyệt Vận",
+      "category": "concept",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "high",
+      "notes": "World trait: Absolute Misfortune / Anti-luck"
+    },
+    {
+      "id": "GTERM_0476",
+      "source_term": "气运",
+      "target_term": "Khí Vận",
+      "category": "concept",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "high",
+      "notes": "Luck / Fortune / Providence"
+    },
+    {
+      "id": "GTERM_0477",
+      "source_term": "真言",
+      "target_term": "Chân Ngôn",
+      "category": "concept",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "high",
+      "notes": "True Word / Logia"
     }
   ]
 }

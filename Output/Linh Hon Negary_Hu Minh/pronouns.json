@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "version": "1.1",
+    "project": "Linh Hồn Negary",
+    "style": "western_fantasy"
+  },
+  "pronouns": [
+    {
+      "id": "western-neutral",
+      "self_form": "ta",
+      "other_form": "ngươi",
+      "note": "Default for Western Fantasy dialogues"
+    },
+    {
+      "id": "western-formal",
+      "self_form": "tôi",
+      "other_form": "ngài",
+      "note": "Polite/Subordinate to superior"
+    },
+    {
+      "id": "system-host",
+      "self_form": "bản hệ thống",
+      "other_form": "ký chủ",
+      "note": "System interaction"
+    }
+  ]
+}

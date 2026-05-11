@@ -1,0 +1,422 @@
+{
+  "metadata": {
+    "version": "1.6",
+    "project": "Linh Hồn Negary",
+    "last_updated": "2026-05-11T10:08:25.755729"
+  },
+  "entries": [
+    {
+      "source": "真言",
+      "target": "Chân Ngôn",
+      "note": "Logia"
+    },
+    {
+      "source": "气运",
+      "target": "Khí Vận",
+      "note": "Fortune"
+    },
+    {
+      "source": "绝运",
+      "target": "Tuyệt Vận",
+      "note": "Absolute Misfortune"
+    },
+    {
+      "source": "多元宇宙",
+      "target": "Đa Nguyên Vũ Trụ",
+      "note": "Multiverse"
+    },
+    {
+      "source": "主角光环",
+      "target": "Hào Quang Nhân Vật Chính",
+      "note": "Protagonist Halo"
+    },
+    {
+      "source": "巫医",
+      "target": "Witch doctor",
+      "note": "Latin for profession"
+    },
+    {
+      "source": "低魔世界",
+      "target": "Low Magic",
+      "note": "Latin for setting term"
+    },
+    {
+      "source": "感知场",
+      "target": "Trường cảm giác",
+      "note": "Perception field"
+    },
+    {
+      "source": "干涉力",
+      "target": "Lực can thiệp",
+      "note": "Interference force"
+    },
+    {
+      "source": "念动力",
+      "target": "Niệm động lực",
+      "note": "Psychokinesis"
+    },
+    {
+      "source": "死域",
+      "target": "Tử vực",
+      "note": ""
+    },
+    {
+      "source": "白气",
+      "target": "Sinh khí",
+      "note": ""
+    },
+    {
+      "source": "清凉气息",
+      "target": "Hồn khí",
+      "note": ""
+    },
+    {
+      "source": "阳气",
+      "target": "Dương khí",
+      "note": "Metaphysical - Hán Việt"
+    },
+    {
+      "source": "阴气",
+      "target": "Âm khí",
+      "note": "Metaphysical - Hán Việt"
+    },
+    {
+      "source": "厉鬼",
+      "target": "Lệ quỷ",
+      "note": ""
+    },
+    {
+      "source": "塔克里",
+      "target": "Takli",
+      "note": "A monster/beast in the wild",
+      "pending_sync": false
+    },
+    {
+      "source": "塔克岭",
+      "target": "Lĩnh Tak",
+      "note": "Tak Ridge",
+      "pending_sync": false
+    },
+    {
+      "source": "西丽河",
+      "target": "Sông Sili",
+      "note": "Sili River",
+      "pending_sync": false
+    },
+    {
+      "source": "神恩教",
+      "target": "Thần Ân giáo",
+      "note": "God's Grace Church",
+      "pending_sync": false
+    },
+    {
+      "source": "邪灵",
+      "target": "Tà Linh",
+      "note": "Evil Spirit",
+      "pending_sync": false
+    },
+    {
+      "source": "龙之子",
+      "target": "Long chi tử",
+      "note": "Sons of the Dragon",
+      "pending_sync": false
+    },
+    {
+      "source": "因特卡密王国",
+      "target": "Vương quốc Intercam",
+      "note": "Intercam Kingdom",
+      "pending_sync": false
+    },
+    {
+      "source": "德根人",
+      "target": "Người Degen",
+      "note": "Degen people",
+      "pending_sync": false
+    },
+    {
+      "source": "特里兰西亚",
+      "target": "Trilansia",
+      "note": "Ancient Cosi country",
+      "pending_sync": false
+    },
+    {
+      "source": "肯特人",
+      "target": "Người Kent",
+      "note": "Kent people",
+      "pending_sync": false
+    },
+    {
+      "source": "神名",
+      "target": "Thần danh",
+      "note": "Divine Name",
+      "pending_sync": false
+    },
+    {
+      "source": "始祖病菌",
+      "target": "Mầm bệnh Ancestor",
+      "note": "Ancestor Germs",
+      "pending_sync": false
+    },
+    {
+      "source": "黑鸦病菌",
+      "target": "Mầm bệnh Black Crow",
+      "note": "Black Crow Germs",
+      "pending_sync": false
+    },
+    {
+      "source": "支配病菌",
+      "target": "Mầm bệnh Domination",
+      "note": "Domination Germs",
+      "pending_sync": false
+    },
+    {
+      "source": "义人病菌",
+      "target": "Mầm bệnh Righteous Man",
+      "note": "Righteous Man Germs",
+      "pending_sync": false
+    },
+    {
+      "source": "咕撒",
+      "target": "Gusa",
+      "note": "Chân ngã, Căn nguyên linh hồn",
+      "pending_sync": false
+    },
+    {
+      "source": "咕塔数",
+      "target": "Chỉ số Guta",
+      "note": "Đánh giá tiềm năng linh hồn",
+      "pending_sync": false
+    },
+    {
+      "source": "雷亚斯特米亚",
+      "target": "Reyastemia",
+      "note": "Nơi được sự vĩ đại chú ý",
+      "pending_sync": false
+    },
+    {
+      "source": "鸦人",
+      "target": "Crow Men",
+      "note": "Tổ chức duy trì trật tự",
+      "pending_sync": false
+    },
+    {
+      "source": "克里斯·摩多",
+      "target": "Chris Modo",
+      "note": "Du hiệp truyền kỳ",
+      "pending_sync": false
+    },
+    {
+      "source": "托利卡王国",
+      "target": "Torika",
+      "note": "Vương quốc Torika",
+      "pending_sync": false
+    },
+    {
+      "source": "龙之子",
+      "target": "Long Chi Tử",
+      "note": "Huyết mạch vương thất Intercam",
+      "pending_sync": false
+    },
+    {
+      "source": "瑟斯一世",
+      "target": "Seth I",
+      "note": "Quốc vương Intercam",
+      "pending_sync": false
+    },
+    {
+      "source": "呼吸法",
+      "target": "Hô Hấp Pháp",
+      "note": "Breathing Technique",
+      "pending_sync": false
+    },
+    {
+      "source": "弥漫",
+      "target": "Mễ Mạn",
+      "note": "Pervasive Germs",
+      "pending_sync": false
+    },
+    {
+      "source": "巫灵术士",
+      "target": "Vu Linh thuật sĩ",
+      "note": "Spirit Warlock",
+      "pending_sync": false
+    },
+    {
+      "source": "祖灵甲胄",
+      "target": "Tổ Linh giáp trụ",
+      "note": "Ancestral Spirit Armor",
+      "pending_sync": false
+    },
+    {
+      "source": "布吉特尔",
+      "target": "Bugitier",
+      "note": "Truyền giáo sĩ Thần Ân giáo",
+      "pending_sync": false
+    },
+    {
+      "source": "少年帮",
+      "target": "Thiếu niên bang",
+      "note": "Tổ chức thiếu niên người Cosi",
+      "pending_sync": false
+    },
+    {
+      "source": "救世圣女",
+      "target": "Thánh nữ cứu thế",
+      "note": "Savior Saintess",
+      "pending_sync": false
+    },
+    {
+      "source": "誓言戒指",
+      "target": "Nhẫn Thệ Ngôn",
+      "note": "Vow Ring",
+      "pending_sync": false
+    },
+    {
+      "source": "心之律动",
+      "target": "Heart Rhythm",
+      "note": "Heart Rhythm"
+    },
+    {
+      "source": "律动",
+      "target": "Rhythm",
+      "note": "Rhythm",
+      "pending_sync": false
+    },
+    {
+      "source": "萨米拉",
+      "target": "Samira",
+      "note": "Thần cuồng phong người Cosi",
+      "pending_sync": false
+    },
+    {
+      "source": "纽瑞拉",
+      "target": "Neurila",
+      "note": "Nữ thần chồi non người Cosi",
+      "pending_sync": false
+    },
+    {
+      "source": "神恩圣经",
+      "target": "Thần Ân Thánh Kinh",
+      "note": "Bible of God's Grace",
+      "pending_sync": false
+    },
+    {
+      "source": "特里兰西亚帝国",
+      "target": "Đế quốc Trilandcia",
+      "note": "Đế quốc cổ đại của người Cosi",
+      "pending_sync": false
+    },
+    {
+      "source": "赫尔罗",
+      "target": "Herro",
+      "note": "Thần cường tráng người Cosi",
+      "pending_sync": false
+    },
+    {
+      "source": "斯特米兰罗",
+      "target": "Stmiranlo",
+      "note": "Thần kiên bích người Cosi",
+      "pending_sync": false
+    },
+    {
+      "source": "神恩战士",
+      "target": "Thần Ân chiến sĩ",
+      "note": "God's Grace Warrior",
+      "pending_sync": false
+    },
+    {
+      "source": "最后的呢喃",
+      "target": "Lời thì thầm cuối cùng",
+      "note": "Last Whispers",
+      "pending_sync": false
+    },
+    {
+      "source": "科摩罗",
+      "target": "Komoro",
+      "note": "Thủ lĩnh Crow Men",
+      "pending_sync": false
+    },
+    {
+      "source": "诺扎德斯",
+      "target": "Nozardes",
+      "note": "Thành viên cao cấp Crow Men",
+      "pending_sync": false
+    },
+    {
+      "source": "亚德雷",
+      "target": "Adrey",
+      "note": "Thành viên cao cấp Crow Men",
+      "pending_sync": false
+    },
+    {
+      "source": "烟结草",
+      "target": "Yên Kết Thảo",
+      "note": "Smoke Grass"
+    },
+    {
+      "source": "真知印记",
+      "target": "Chân Tri Ấn Ký",
+      "note": "True Knowledge Mark"
+    },
+    {
+      "source": "真知恩赐",
+      "target": "Chân Tri Ân Tứ",
+      "note": "True Knowledge Grace"
+    },
+    {
+      "source": "守护恩赐",
+      "target": "Thủ Hộ Ân Tứ",
+      "note": "Guardian Grace"
+    },
+    {
+      "source": "牺牲恩赐",
+      "target": "Hy Sinh Ân Tứ",
+      "note": "Sacrifice Grace"
+    },
+    {
+      "source": "拯救恩赐",
+      "target": "Thế Độ Ân Tứ",
+      "note": "Saving Grace"
+    },
+    {
+      "source": "薪之流法",
+      "target": "Tân Lưu",
+      "note": "Cinder Flow"
+    },
+    {
+      "source": "光之流法",
+      "target": "Quang Lưu",
+      "note": "Light Flow"
+    },
+    {
+      "source": "流法",
+      "target": "Lưu Pháp",
+      "note": "Flow Style"
+    },
+    {
+      "source": "异鳞者",
+      "target": "Dị Lân Giả",
+      "note": "Strange Scaled One"
+    },
+    {
+      "source": "深乱律动",
+      "target": "Deep Rhythm",
+      "note": "Deep Chaotic Rhythm"
+    },
+    {
+      "source": "律动剥离",
+      "target": "Rhythm Stripping",
+      "note": "Rhythm Stripping"
+    },
+    {
+      "source": "律动之金",
+      "target": "Metal Rhythm",
+      "note": "Metal Rhythm"
+    },
+    {
+      "source": "龙粉末",
+      "target": "Long phấn",
+      "note": "Dragon Powder"
+    }
+  ]
+}

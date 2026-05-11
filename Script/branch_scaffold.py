@@ -138,6 +138,21 @@ BRANCH_OVERRIDES: dict[str, dict[str, Any]] = {
         "signature_style_purpose": "Tạo exemplar sci-fi noir với chất kim loại lạnh và dữ liệu bao quanh.",
         "signature_style_tail": "Công nghệ trong cảnh này vận hành trơn tru, nhưng bầu không khí lại sắc lạnh như kim loại mới mài.",
     },
+    "Linh Hon Negary_Hu Minh": {
+        "backdrop": "Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.",
+        "summary": "Vương Uyên xuyên không trở thành một linh hồn tàn khuyết mang tên Negary. Trong thế giới đầy rẫy sự lừa dối và nguy hiểm của Thần Ân giáo và các vương quốc, hắn từng bước thôn phệ, tiến hóa và trở thành nỗi khiếp sợ thực sự - kẻ chi phối vạn vật từ trong bóng tối.",
+        "style_tags": ["dark fantasy", "linh hồn", "tiến hóa", "mưu lược"],
+        "cover_prompt": "Bìa dọc 6x9, một ngai vàng xương trắng lơ lửng trong không gian hư vô, một thực thể linh hồn mờ ảo màu xanh xám (Negary) ngồi trên đó, xung quanh là vô số sợi tơ mầm bệnh đen kịt, phong cách gothic dark fantasy.",
+        "sample_chapter": 42,
+        "sample_summary": "Chris Modo truyền thụ Hô hấp pháp cho Nala, phát hiện thiên phú kinh người của cô bé, đồng thời chuẩn bị cho cuộc tấn công cuối cùng vào cấm địa của Negary.",
+        "sample_characters": ["Chris Modo", "Nala"],
+        "sample_entities": ["Hô hấp pháp", "Rhythm", "Thần Ân giáo"],
+        "sample_tone_tags": ["kỳ bí", "hy vọng", "chuẩn bị"],
+        "sample_illustration": "Chris Modo đặt tay lên vai Nala, ánh sáng vàng rực rỡ lóe lên trong mắt cô bé khi nhịp thở (Rhythm) của hai người đồng bộ hoàn hảo.",
+        "signature_style_name": "Kỳ huyễn u ám",
+        "signature_style_purpose": "Giữ vững bầu không khí căng thẳng, bí ẩn của thế giới Negary.",
+        "signature_style_tail": "Sức mạnh của linh hồn trong cảnh này không chỉ là năng lượng, mà còn là sự rung cảm lạnh lẽo của định mệnh.",
+    },
 }
 
 
