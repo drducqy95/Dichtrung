@@ -1,0 +1,4 @@
+interface:
+  display_name: "VBook Extension"
+  short_description: "Write and debug vBook extensions"
+  default_prompt: "Use $vbook-extension-authoring to build or debug a vBook extension."

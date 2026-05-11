@@ -2,7 +2,7 @@
   "project_name": "Linh Hồn Negary",
   "status": "IN_PROGRESS",
   "total_chapters": 754,
-  "completed_chapters": 50,
+  "completed_chapters": 70,
   "chapters": [
     {
       "chapter_number": 1,
@@ -303,6 +303,12 @@
       "title": "Mười người (Hoàn)",
       "status": "DONE",
       "last_updated": "2026-05-11T11:35:00+07:00"
+    },
+    {
+      "chapter_number": 51,
+      "title": "Negary (Một)",
+      "status": "DONE",
+      "last_updated": "2026-05-11T20:29:00+07:00"
     }
   ],
   "milestones": [
@@ -329,5 +335,5 @@
     "ebook_toc": "ebook/toc.md",
     "illustration_manifest": "ebook/illustration_manifest.json"
   },
-  "last_updated": "2026-05-11T11:40:34+07:00"
+  "last_updated": "2026-05-11T21:10:59+07:00"
 }

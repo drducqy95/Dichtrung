@@ -48,3 +48,23 @@
 - Chương 0048: Mười hai người (Bốn)
 - Chương 0049: Mười một người (Năm)
 - Chương 0050: Mười người (Hoàn)
+- Chương 0051: Negary (Một)
+- Chương 0052: Negary (Hai)
+- Chương 0053: Negary (Ba)
+- Chương 0054: Negary (Bốn)
+- Chương 0055: Negary (Năm)
+- Chương 0056: Negary (Sáu)
+- Chương 0057: Negary (Bảy)
+- Chương 0058: Negary (Tám)
+- Chương 0059: Negary (Chín)
+- Chương 0060: Negary (Hoàn)
+- Chương 0061: Quỷ Nhân và Người nhiễm bệnh
+- Chương 0062: Jack House
+- Chương 0063: Hậu quả
+- Chương 0064: Danh sách nhân vật
+- Chương 0065: Bảy năm chiến tranh
+- Chương 0066: Bà lão Sie
+- Chương 0067: Seth
+- Chương 0068: Vương nữ
+- Chương 0069: Les Laval
+- Chương 0070: Thiếu nữ cầm kiếm

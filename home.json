@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-11T11:40:41+07:00",
+    "generated_at": "2026-05-11T21:11:07+07:00",
     "total_books": 9,
     "source": "Dichtrung/Output"
   },
@@ -105,11 +105,11 @@
         "Output/Chu Than Dai Dao_Co Nguyet Cu Si/illustrations/cover/cover.webp",
         "Output/Chu Than Dai Dao_Co Nguyet Cu Si/illustrations/cover/cover.jpeg"
       ],
-      "cover_prompt": "Bìa dọc 6x9, thanh niên đứng giữa phố hiện đại nhưng sau lưng mở ra nhiều vòng sáng như cổng thế giới chồng lớp, tông vàng lam, cảm giác thần tính giáng lâm.",
+      "cover_prompt": "Vertical book cover ratio 6:9. Cinematic composition, hyper-detailed, 8k resolution. [BỐ CỤC CHỮ]: The title 'Chủ Thần Đại Đạo' is written in LARGE, massive typography perfectly centered. The author name 'Cổ Nguyệt Cư Sĩ' is written in smaller, elegant text neatly placed near the title. Typography style: Modern bold serif font with glowing golden outlines and white inner glow. [NHÂN VẬT & ĐIỂM NHẤN]: Centered focus on a young, calm man (Triệu Kỳ) with a divine aura, his eyes glowing with wisdom, holding a radiant crystalline seed (The Seed) that emits pulses of light. [BỐ CẢNH NỀN]: The background is a juxtaposition of a modern city street at dusk and multiple overlapping mystical realms, including floating jade palaces and gothic cathedrals, appearing through circular portals. [NGÔN NGỮ NỀN]: Subtly integrated into the air are floating golden Hán tự (Ancient Chinese characters) and translucent blue digital UI hologram codes. [SẮC THÁI]: Mood is divine, epic, and awe-inspiring, lighting is brilliant golden rays piercing through the twilight city clouds.",
       "cover_relative_path": "illustrations/cover/Chu Than Dai Dao_Co Nguyet Cu Si.png",
       "readme_path": "Output/Chu Than Dai Dao_Co Nguyet Cu Si/README.md",
       "toc_path": "Output/Chu Than Dai Dao_Co Nguyet Cu Si/toc.json",
-      "updated_at": "2026-05-11T11:40:31+07:00"
+      "updated_at": "2026-05-11T21:10:57+07:00"
     },
     {
       "branch": "Hong Hoang Lich_Zhttty",
@@ -174,11 +174,11 @@
         "Output/Hong Hoang Lich_Zhttty/illustrations/cover/cover.webp",
         "Output/Hong Hoang Lich_Zhttty/illustrations/cover/cover.jpeg"
       ],
-      "cover_prompt": "Bìa dọc 6x9, vùng đất hồng hoang nửa là đêm bất tận nửa là quang mang linh lực, phía xa có thành trì, robot cháy dở và tháp ma pháp cùng xuất hiện trong một đường chân trời.",
+      "cover_prompt": "Vertical book cover ratio 6:9. Cinematic composition, hyper-detailed, 8k resolution. [BỐ CỤC CHỮ]: The title 'Hồng Hoang Lịch' is written in LARGE, massive typography perfectly centered. The author name 'Zhttty' is written in smaller, elegant text neatly placed near the title. Typography style: Ancient calligraphic brush font in cinnabar red and golden ink, weathered and powerful. [NHÂN VẬT & ĐIỂM NHẤN]: Centered focus on a young scholar-mage (Ngô Minh) in flowing taoist robes integrated with subtle mechanical armor, eyes focused, holding a floating silver orb (Master God Space) that radiates immense power. [BỐ CẢNH NỀN]: The background features a vast primordial valley with giant prehistoric beasts in the distance, overshadowed by a massive, high-tech floating fortress (Huyền Hoàng Battleship) and a glowing Magic Tower. [NGÔN NGỮ NỀN]: Subtly integrated into the sky and floating around the battleship are carved golden Ancient Chinese characters and complex geometric magic circles. [SẮC THÁI]: Mood is epic, historical, and grand, lighting is dramatic sunset rays with high contrast between deep shadows and bright magical glows.",
       "cover_relative_path": "illustrations/cover/Hong Hoang Lich_Zhttty.png",
       "readme_path": "Output/Hong Hoang Lich_Zhttty/README.md",
       "toc_path": "Output/Hong Hoang Lich_Zhttty/toc.json",
-      "updated_at": "2026-05-11T11:40:34+07:00"
+      "updated_at": "2026-05-11T21:10:59+07:00"
     },
     {
       "branch": "Linh Hon Negary_Hu Minh",
@@ -187,13 +187,13 @@
       "summary": "Vương Uyên xuyên không trở thành một linh hồn tàn khuyết mang tên Negary. Trong thế giới đầy rẫy sự lừa dối và nguy hiểm của Thần Ân giáo và các vương quốc, hắn từng bước thôn phệ, tiến hóa và trở thành nỗi khiếp sợ thực sự - kẻ chi phối vạn vật từ trong bóng tối.",
       "backdrop": "Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.",
       "description": "Vương Uyên xuyên không trở thành một linh hồn tàn khuyết mang tên Negary. Trong thế giới đầy rẫy sự lừa dối và nguy hiểm của Thần Ân giáo và các vương quốc, hắn từng bước thôn phệ, tiến hóa và trở thành nỗi khiếp sợ thực sự - kẻ chi phối vạn vật từ trong bóng tối.",
-      "detail": "Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng. | Tiến độ: 50/754 chương | Mới nhất: Chương 50: Mười người (Hoàn)",
+      "detail": "Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng. | Tiến độ: 70/754 chương | Mới nhất: Chương 70: Thiếu nữ cầm kiếm",
       "status": "in_progress",
       "status_label": "Đang ra",
       "ongoing": true,
-      "completed_chapters": 50,
+      "completed_chapters": 70,
       "total_chapters": 754,
-      "latest_chapter": "Chương 50: Mười người (Hoàn)",
+      "latest_chapter": "Chương 70: Thiếu nữ cầm kiếm",
       "genre": "western_fiction",
       "sub_genre": "fantasy",
       "style_tags": [
@@ -243,11 +243,11 @@
         "Output/Linh Hon Negary_Hu Minh/illustrations/cover/cover.webp",
         "Output/Linh Hon Negary_Hu Minh/illustrations/cover/cover.jpeg"
       ],
-      "cover_prompt": "Bìa dọc 6x9, một ngai vàng xương trắng lơ lửng trong không gian hư vô, một thực thể linh hồn mờ ảo màu xanh xám (Negary) ngồi trên đó, xung quanh là vô số sợi tơ mầm bệnh đen kịt, phong cách gothic dark fantasy.",
+      "cover_prompt": "Vertical book cover ratio 6:9. Cinematic composition, hyper-detailed, 8k resolution. [BỐ CỤC CHỮ]: The title 'Linh Hồn Negary' is written in LARGE, sharp Gothic-style typography perfectly centered. The author name 'Hư Minh' is written in smaller, elegant bone-white text neatly placed near the title. Typography style: Dark Gothic font with silver stroke and a subtle greenish necrotic glow. [NHÂN VẬT & ĐIỂM NHẤN]: Centered focus on a majestic, ethereal being made of grey-blue soul mist (Negary) sitting on a massive throne made of white dragon bones. His eyes are hollow but emit a piercing light, and his hands are covered in black 'Crows' and 'Germs' (Black Crow and Germs) that flow like silk threads. [BỐ CẢNH NỀN]: The background is a dark, infinite void (The Void) with distant, decaying medieval castle silhouettes and a swarm of black crows flying around the throne. [NGÔN NGỮ NỀN]: Subtly integrated into the soul mist and the crows are glowing ancient Latin runes and necrotic symbols. [SẮC THÁI]: Mood is dark, oppressive, and majestic Gothic fantasy, lighting is a mix of eerie cold blue soul light and deep, pitch-black shadows.",
       "cover_relative_path": "illustrations/cover/Linh Hon Negary_Hu Minh.png",
       "readme_path": "Output/Linh Hon Negary_Hu Minh/README.md",
       "toc_path": "Output/Linh Hon Negary_Hu Minh/toc.json",
-      "updated_at": "2026-05-11T11:40:34+07:00"
+      "updated_at": "2026-05-11T21:10:59+07:00"
     },
     {
       "branch": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
@@ -312,11 +312,11 @@
         "Output/Phi Pham Hong Hoang_Nga Tu Phi Pham/illustrations/cover/cover.webp",
         "Output/Phi Pham Hong Hoang_Nga Tu Phi Pham/illustrations/cover/cover.jpeg"
       ],
-      "cover_prompt": "Bìa dọc 6x9, dị thú khổng lồ nhìn về ngọn núi chống trời xuyên mây trong buổi sơ khai, tông đất đỏ, vàng cổ và lam nhạt, cảm giác thiên địa mới mở.",
+      "cover_prompt": "Vertical book cover ratio 6:9. Cinematic composition, hyper-detailed, 8k resolution. [BỐ CỤC CHỮ]: The title 'Phi Phàm Hồng Hoang' is written in LARGE, massive typography perfectly centered. The author name 'Ngã Tự Phi Phàm' is written in smaller, elegant text neatly placed near the title. Typography style: Ancient Seal-script calligraphy in solid gold and emerald jade texture, appearing to be carved into stone. [NHÂN VẬT & ĐIỂM NHẤN]: Centered focus on a tall, long-haired immortal (La Phàm) sitting in meditation on a flat rock at the very edge of a sky-piercing mountain peak, surrounded by a faint, eternal golden aura (Immortal Light). [BỐ CẢNH NỀN]: The background features the massive pillar of Mount Buzhou (Bất Chu Sơn) disappearing into the swirling primordial chaos and thick white clouds below, with a giant silver moon and a distant red sun shining simultaneously in the sky. [NGÔN NGỮ NỀN]: Subtly integrated into the rock textures and the clouds are glowing ancient seals and primordial runes of the creation era. [SẮC THÁI]: Mood is eternal, solitary, and transcendent, lighting is a serene blend of cool moonbeams and warm primordial dawn.",
       "cover_relative_path": "illustrations/cover/Phi Pham Hong Hoang_Nga Tu Phi Pham.png",
       "readme_path": "Output/Phi Pham Hong Hoang_Nga Tu Phi Pham/README.md",
       "toc_path": "Output/Phi Pham Hong Hoang_Nga Tu Phi Pham/toc.json",
-      "updated_at": "2026-05-11T11:40:36+07:00"
+      "updated_at": "2026-05-11T21:11:01+07:00"
     },
     {
       "branch": "Pham Nhan Bat Dau Doat Xa Mac Cu Nhan_Tieu Tran Tu",
@@ -376,11 +376,11 @@
         "Output/Pham Nhan Bat Dau Doat Xa Mac Cu Nhan_Tieu Tran Tu/illustrations/cover/cover.webp",
         "Output/Pham Nhan Bat Dau Doat Xa Mac Cu Nhan_Tieu Tran Tu/illustrations/cover/cover.jpeg"
       ],
-      "cover_prompt": "Bìa dọc 6x9, một lão y sư áo xanh đứng giữa Thần Thủ cốc, nửa gương mặt già nua nửa là bóng linh hồn trẻ hơn phản chiếu, tông xanh ngọc và nâu trầm, tiên hiệp nhưng hiểm ác.",
+      "cover_prompt": "Vertical book cover ratio 6:9. Cinematic composition, hyper-detailed, 8k resolution. [BỐ CỤC CHỮ]: The title 'Phàm Nhân Bắt Đầu Đoạt Xá Mặc Cư Nhân' is written in LARGE, sharp, elegant typography perfectly centered. The author name 'Tiêu Trần Tử' is written in smaller, refined text neatly placed near the title. Typography style: Classic serif with sharp edges, deep emerald green color with a dark shadow effect. [NHÂN VẬT & ĐIỂM NHẤN]: Centered focus on an older, dignified man with a sharp, calculating gaze (Mặc Cư Nhân), dressed in dark scholarly robes, sitting before a heavy, ancient bronze furnace (Bloodline Furnace) that emits a subtle green glow. A faint, ghostly green python (Bích Lân Mãng) is coiled around the furnace. [BỐ CẢNH NỀN]: The background is a misty, secluded valley (Thần Thủ Cốc) at dusk, with ancient pine trees and wooden shelves filled with glass vials and dried herbs. [NGÔN NGỮ NỀN]: Subtly integrated into the background mist and the furnace texture are faint diagrams of meridians and traditional Chinese herbal names. [SẮC THÁI]: Mood is dark, mysterious, and intellectual, lighting is dominated by the eerie green glow from the furnace contrasting with the deep blue twilight of the valley.",
       "cover_relative_path": "illustrations/cover/Pham Nhan Bat Dau Doat Xa Mac Cu Nhan_Tieu Tran Tu.png",
       "readme_path": "Output/Pham Nhan Bat Dau Doat Xa Mac Cu Nhan_Tieu Tran Tu/README.md",
       "toc_path": "Output/Pham Nhan Bat Dau Doat Xa Mac Cu Nhan_Tieu Tran Tu/toc.json",
-      "updated_at": "2026-05-11T11:40:34+07:00"
+      "updated_at": "2026-05-11T21:11:00+07:00"
     },
     {
       "branch": "Sieu Duy Thuat Si_Muc Ho",
@@ -440,11 +440,11 @@
         "Output/Sieu Duy Thuat Si_Muc Ho/illustrations/cover/cover.webp",
         "Output/Sieu Duy Thuat Si_Muc Ho/illustrations/cover/cover.jpeg"
       ],
-      "cover_prompt": "Bìa dọc 6x9, thị trấn châu Âu cổ nhỏ dưới bầu trời xám, đoàn kỵ binh giáp bạc tiến vào, lá cờ gia tộc Morn tung bay, xa xa là ánh sáng ma pháp mờ ảo.",
+      "cover_prompt": "Vertical book cover ratio 6:9. Cinematic composition, hyper-detailed, 8k resolution. [BỐ CỤC CHỮ]: The title 'Siêu Duy Thuật Sĩ' is written in LARGE, premium gold-leaf typography perfectly centered. The author name 'Mục Hồ' is written in smaller, elegant white text neatly placed near the title. Typography style: Modern classical Latin-style serif with intricate filigree details. [NHÂN VẬT & ĐIỂM NHẤN]: Centered focus on a refined young man (Anger) with golden hair and intelligent eyes, wearing a dark blue noble coat with silver embroidery, holding a translucent, glowing blue geometric magic pattern (Rolling Waves) that rotates between his fingers. [BỐ CẢNH NỀN]: The background is a grand, high-ceilinged wizard library with floating books and glowing crystals, with a large arched window showing a night sky filled with multiple moons and a distant floating island (White Coral Island). [NGÔN NGỮ NỀN]: Subtly etched into the wooden shelves and floating in the air are glowing Latin-style magic runes and mathematical diagrams. [SẮC THÁI]: Mood is academic, mysterious, and high-fantasy, lighting is a warm study glow contrasted with cool, brilliant magical blue light.",
       "cover_relative_path": "illustrations/cover/Sieu Duy Thuat Si_Muc Ho.png",
       "readme_path": "Output/Sieu Duy Thuat Si_Muc Ho/README.md",
       "toc_path": "Output/Sieu Duy Thuat Si_Muc Ho/toc.json",
-      "updated_at": "2026-05-11T11:40:36+07:00"
+      "updated_at": "2026-05-11T21:11:01+07:00"
     },
     {
       "branch": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
@@ -509,11 +509,11 @@
         "Output/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu/illustrations/cover/cover.webp",
         "Output/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu/illustrations/cover/cover.jpeg"
       ],
-      "cover_prompt": "Bìa dọc 6x9, một bàn tay khổng lồ (Lý Khanh) đang lơ lửng trên một bình thủy tinh sáng rực rỡ, bên trong bình là tòa tháp Babel tí hon và cây Thế Giới, phong cách huyền ảo, cinematic.",
+      "cover_prompt": "Vertical book cover ratio 6:9. Cinematic composition, hyper-detailed, 8k resolution. [BỐ CỤC CHỮ]: The title 'Ta Trong Bình Vũ Trụ' is written in LARGE, futurist neon-blue typography perfectly centered. The author name 'Tam Bách Cân Đích Vi Tiếu' is written in smaller, sleek white text neatly placed near the title. Typography style: Bold sans-serif font with a glowing digital glitches and cybernetic patterns. [NHÂN VẬT & ĐIỂM NHẤN]: Centered focus on a young, calm man in a modern white doctor's coat (Lý Khanh), holding a glowing glass bottle that contains a miniature, rotating galaxy and tiny, intricate cities. His eyes reflect a vast cosmic wisdom. [BỐ CẢNH NỀN]: The background is a fusion of a dark modern laboratory and a deep space nebula, with translucent DNA helixes and binary code strings (0101) floating like stardust. [NGÔN NGỮ NỀN]: Subtly integrated into the cosmic clouds are glowing DNA sequences (A, T, C, G) and microscopic cell diagrams. [SẮC THÁI]: Mood is surreal, scientific, and awe-inspiring, lighting is a contrast between sharp laboratory white and the deep violet and blue of a distant nebula.",
       "cover_relative_path": "illustrations/cover/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu.png",
       "readme_path": "Output/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu/README.md",
       "toc_path": "Output/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu/toc.json",
-      "updated_at": "2026-05-11T11:40:41+07:00"
+      "updated_at": "2026-05-11T21:11:06+07:00"
     },
     {
       "branch": "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han",
@@ -573,11 +573,11 @@
         "Output/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han/illustrations/cover/cover.webp",
         "Output/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han/illustrations/cover/cover.jpeg"
       ],
-      "cover_prompt": "Bìa dọc 6x9, phòng thẩm vấn tương lai với màn hình hologram xanh tím, nam chính bị trói trong áo cưỡng chế nhìn thẳng về phía trước, phía sau là những cánh cổng thế giới chồng lớp, sci-fi noir.",
+      "cover_prompt": "Vertical book cover ratio 6:9. Cinematic composition, hyper-detailed, 8k resolution. [BỐ CỤC CHỮ]: The title 'Theo Tử Thần Bắt Đầu Đánh Xuyên Qua Tổng Mạn Vô Hạn' is written in LARGE, sharp Anime-style typography perfectly centered. The author name 'Khuyết danh' is written in smaller, bold text neatly placed near the title. Typography style: Aggressive brush-stroke font with white inner color and thick black outlines, resembling classic Shonen manga titles. [NHÂN VẬT & ĐIỂM NHẤN]: Centered focus on a young man in a black Shinigami kimono (Shihakusho), holding a long, black katana (Zanpakuto) that emits spiritual blue energy. He has a determined expression, eyes glowing with power. [BỐ CẢNH NỀN]: The background is a chaotic dimensional rift with floating shards of glass reflecting iconic anime landscapes: a Japanese pagoda, a modern cityscape, and a desert. [NGÔN NGỮ NỀN]: Subtly integrated into the energy waves and dimensional shards are floating white Japanese Kanji and Katakana characters (e.g., 卍, 死神). [SẮC THÁI]: Mood is action-packed and epic, lighting is dominated by brilliant blue energy sparks and high-contrast dramatic shadows.",
       "cover_relative_path": "illustrations/cover/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han.png",
       "readme_path": "Output/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han/README.md",
       "toc_path": "Output/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han/toc.json",
-      "updated_at": "2026-05-11T11:40:41+07:00"
+      "updated_at": "2026-05-11T21:11:07+07:00"
     },
     {
       "branch": "Ac Linh Quoc Gia",
@@ -637,11 +637,11 @@
         "Output/Ac Linh Quoc Gia/illustrations/cover/cover.webp",
         "Output/Ac Linh Quoc Gia/illustrations/cover/cover.jpeg"
       ],
-      "cover_prompt": "Bìa dọc 6x9, đô thị mưa đêm xanh chì, tòa nhà văn phòng tối om, nam chính trẻ đứng cạnh sedan hạng sang nhưng bóng đổ sau lưng méo mó như ác linh, cinematic horror, chi tiết cao.",
+      "cover_prompt": "Vertical book cover ratio 6:9. Cinematic composition, hyper-detailed, 8k resolution. [BỐ CỤC CHỮ]: The title 'Ác Linh Quốc Gia' is written in LARGE, distorted, and blood-stained typography perfectly centered. The author name 'Đạn Chỉ Nhất Tiếu Gian 0' is written in smaller, weathered bone-white text neatly placed near the title. Typography style: Gothic horror serif with dripping blood effects and cracks. [NHÂN VẬT & ĐIỂM NHẤN]: Centered focus on a pale young man (Hạ Thiên Kỳ) with one eye glowing a terrifying demonic red (Tà Linh Nhãn), holding a modern smartphone that displays a cursed red eye icon. His expression is one of cold terror. [BỐ CẢNH NỀN]: The background is a long, dark, and decaying apartment corridor with peeling wallpaper and flickering overhead lights, where shadowy, distorted ghost hands reach out from the walls. [NGÔN NGỮ NỀN]: Subtly integrated into the shadows and the walls are glowing red Ancient Chinese spirit-warding charms and digital glitch characters. [SẮC THÁI]: Mood is dread-filled and terrifying, lighting is a mix of clinical flickering white and a deep, bloody red glow from the protagonist's eye.",
       "cover_relative_path": "illustrations/cover/Ac Linh Quoc Gia.png",
       "readme_path": "Output/Ac Linh Quoc Gia/README.md",
       "toc_path": "Output/Ac Linh Quoc Gia/toc.json",
-      "updated_at": "2026-05-11T11:40:31+07:00"
+      "updated_at": "2026-05-11T21:10:56+07:00"
     }
   ]
 }
