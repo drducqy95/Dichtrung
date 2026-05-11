@@ -1,15 +1,24 @@
 {
   "metadata": {
     "project_title": "Hồng Hoang Lịch",
-    "generated_at": "2026-05-10T11:30:20+07:00"
+    "generated_at": "2026-05-11T11:40:34+07:00"
   },
   "requirements": {
     "toc_required": true,
     "illustrations_required": true
   },
   "cover": {
-    "status": "prompt_ready",
-    "asset_candidates": [],
+    "status": "asset_ready",
+    "asset_candidates": [
+      "illustrations/cover/Hong Hoang Lich_Zhttty.png"
+    ],
+    "slot_paths": [
+      "Output/Hong Hoang Lich_Zhttty/illustrations/cover/cover.jpg",
+      "Output/Hong Hoang Lich_Zhttty/illustrations/cover/cover.png",
+      "Output/Hong Hoang Lich_Zhttty/illustrations/cover/cover.webp",
+      "Output/Hong Hoang Lich_Zhttty/illustrations/cover/cover.jpeg"
+    ],
+    "preferred_slot": "Output/Hong Hoang Lich_Zhttty/illustrations/cover/cover.jpg",
     "prompt": "Bìa dọc 6x9, vùng đất hồng hoang nửa là đêm bất tận nửa là quang mang linh lực, phía xa có thành trì, robot cháy dở và tháp ma pháp cùng xuất hiện trong một đường chân trời."
   },
   "sample_chapter": {

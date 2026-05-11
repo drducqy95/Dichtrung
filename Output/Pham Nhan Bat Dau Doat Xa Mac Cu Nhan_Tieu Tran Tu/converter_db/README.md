@@ -8,4 +8,4 @@ Thành phần chính:
 - `chapter_cards/`: thẻ chương dùng cho continuity và entity tracking.
 - `exports/`: các file JSONL để đưa sang converter hoặc pipeline downstream.
 
-Branch nguồn: `Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu`
+Branch nguồn: `Pham Nhan Bat Dau Doat Xa Mac Cu Nhan_Tieu Tran Tu`

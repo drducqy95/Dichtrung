@@ -1,15 +1,24 @@
 {
   "metadata": {
     "project_title": "Phàm Nhân Bắt Đầu Đoạt Xá Mặc Cư Nhân",
-    "generated_at": "2026-05-07T11:57:32+07:00"
+    "generated_at": "2026-05-11T11:40:34+07:00"
   },
   "requirements": {
     "toc_required": true,
     "illustrations_required": true
   },
   "cover": {
-    "status": "prompt_ready",
-    "asset_candidates": [],
+    "status": "asset_ready",
+    "asset_candidates": [
+      "illustrations/cover/Pham Nhan Bat Dau Doat Xa Mac Cu Nhan_Tieu Tran Tu.png"
+    ],
+    "slot_paths": [
+      "Output/Pham Nhan Bat Dau Doat Xa Mac Cu Nhan_Tieu Tran Tu/illustrations/cover/cover.jpg",
+      "Output/Pham Nhan Bat Dau Doat Xa Mac Cu Nhan_Tieu Tran Tu/illustrations/cover/cover.png",
+      "Output/Pham Nhan Bat Dau Doat Xa Mac Cu Nhan_Tieu Tran Tu/illustrations/cover/cover.webp",
+      "Output/Pham Nhan Bat Dau Doat Xa Mac Cu Nhan_Tieu Tran Tu/illustrations/cover/cover.jpeg"
+    ],
+    "preferred_slot": "Output/Pham Nhan Bat Dau Doat Xa Mac Cu Nhan_Tieu Tran Tu/illustrations/cover/cover.jpg",
     "prompt": "Bìa dọc 6x9, một lão y sư áo xanh đứng giữa Thần Thủ cốc, nửa gương mặt già nua nửa là bóng linh hồn trẻ hơn phản chiếu, tông xanh ngọc và nâu trầm, tiên hiệp nhưng hiểm ác."
   },
   "sample_chapter": {

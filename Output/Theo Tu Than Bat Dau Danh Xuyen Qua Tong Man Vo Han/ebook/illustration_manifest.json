@@ -1,15 +1,24 @@
 {
   "metadata": {
     "project_title": "Theo Tử Thần Bắt Đầu Đánh Xuyên Qua Tổng Mạn Vô Hạn",
-    "generated_at": "2026-05-10T11:30:20+07:00"
+    "generated_at": "2026-05-11T11:40:41+07:00"
   },
   "requirements": {
     "toc_required": true,
     "illustrations_required": true
   },
   "cover": {
-    "status": "prompt_ready",
-    "asset_candidates": [],
+    "status": "asset_ready",
+    "asset_candidates": [
+      "illustrations/cover/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han.png"
+    ],
+    "slot_paths": [
+      "Output/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han/illustrations/cover/cover.jpg",
+      "Output/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han/illustrations/cover/cover.png",
+      "Output/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han/illustrations/cover/cover.webp",
+      "Output/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han/illustrations/cover/cover.jpeg"
+    ],
+    "preferred_slot": "Output/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han/illustrations/cover/cover.jpg",
     "prompt": "Bìa dọc 6x9, phòng thẩm vấn tương lai với màn hình hologram xanh tím, nam chính bị trói trong áo cưỡng chế nhìn thẳng về phía trước, phía sau là những cánh cổng thế giới chồng lớp, sci-fi noir."
   },
   "sample_chapter": {

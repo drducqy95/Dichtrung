@@ -3,6 +3,8 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import sys
+import unicodedata
 from datetime import datetime
 from pathlib import Path
 from typing import Any
@@ -11,11 +13,30 @@ from typing import Any
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT_ROOT = ROOT / "Output"
 GLOBAL_CONFIG_PATH = ROOT / "Global State" / "global_config.json"
+HOME_CATALOG_PATH = ROOT / "home.json"
+
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")
+if hasattr(sys.stderr, "reconfigure"):
+    sys.stderr.reconfigure(encoding="utf-8")
 
 DISPLAY_FILENAME_PATTERN = "Chương {chapter:04d}: {title}.md"
 FILESYSTEM_FILENAME_PATTERN = "Chương {chapter:04d} - {title}.md"
 FILESYSTEM_NOTE = "Windows không cho phép ký tự ':' trong tên file, vì vậy pattern lưu trên đĩa dùng dấu gạch ngang."
 IMAGE_SUFFIXES = {".png", ".jpg", ".jpeg", ".webp", ".gif"}
+GENRE_LABELS = {
+    "eastern_fiction": "Đông phương",
+    "western_fiction": "Tây phương",
+    "xianxia": "Tiên hiệp",
+    "wizardry": "Phù thủy",
+    "fantasy": "Fantasy",
+    "horror": "Kinh dị",
+    "unlimited_flow": "Vô hạn lưu",
+    "evolution_scifi": "Tiến hóa khoa huyễn",
+    "fanfic": "Fanfic",
+    "system": "Hệ thống",
+    "infinite_worlds": "Đa thế giới",
+}
 
 BRANCH_OVERRIDES: dict[str, dict[str, Any]] = {
     "Ac Linh Quoc Gia": {
@@ -63,7 +84,7 @@ BRANCH_OVERRIDES: dict[str, dict[str, Any]] = {
         "signature_style_purpose": "Làm nổi bật cảm giác đại thế đang chuyển động trên quy mô nhiều văn minh.",
         "signature_style_tail": "Từ những cảnh tưởng như rời rạc, nhịp điệu của một thời đại mới bắt đầu ghép lại thành sử thi chung.",
     },
-    "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu": {
+    "Pham Nhan Bat Dau Doat Xa Mac Cu Nhan_Tieu Tran Tu": {
         "backdrop": "Fanfiction đặt trên nền Phàm Nhân Tu Tiên, nơi một linh hồn dị thế nhập vào thân xác Mặc Cư Nhân và cố viết lại vận mệnh bi kịch đã định của mình.",
         "summary": "Từ vị trí vốn là một nhân vật bi kịch ở đầu truyện gốc, Mặc Cư Nhân nay có thêm ký ức của kẻ biết trước cốt truyện và quyết tâm thoát khỏi kết cục cũ bằng tính toán, huyết mạch và hiểu biết nguyên tác.",
         "style_tags": ["fanfic", "tiên hiệp", "đoạt xá", "đổi mệnh"],
@@ -161,7 +182,7 @@ def now_iso() -> str:
 
 
 def read_json(path: Path) -> dict[str, Any]:
-    return json.loads(path.read_text(encoding="utf-8"))
+    return json.loads(path.read_text(encoding="utf-8-sig"))
 
 
 def write_json(path: Path, payload: Any) -> None:
@@ -294,6 +315,383 @@ def scan_images(branch_dir: Path) -> dict[str, list[str]]:
                     assets.append(path.relative_to(branch_dir).as_posix())
         buckets[folder] = assets
     return buckets
+
+
+def is_project_branch(branch_dir: Path) -> bool:
+    return (
+        branch_dir.is_dir()
+        and (branch_dir / "translation_config.json").exists()
+        and (branch_dir / "progress.json").exists()
+    )
+
+
+def first_text(*values: Any) -> str:
+    for value in values:
+        if value is None:
+            continue
+        text = str(value).strip()
+        if text:
+            return text
+    return ""
+
+
+def unique_list(values: list[str]) -> list[str]:
+    seen: set[str] = set()
+    results: list[str] = []
+    for value in values:
+        text = str(value or "").strip()
+        if not text:
+            continue
+        key = text.casefold()
+        if key in seen:
+            continue
+        seen.add(key)
+        results.append(text)
+    return results
+
+
+def normalize_text_list(values: Any) -> list[str]:
+    if values is None:
+        return []
+    if isinstance(values, (list, tuple, set)):
+        items = values
+    else:
+        items = re.split(r"[,;/|]+", str(values))
+    return unique_list([str(item).strip() for item in items if str(item).strip()])
+
+
+def compact_text(text: str, limit: int = 420) -> str:
+    normalized = re.sub(r"\s+", " ", str(text or "")).strip()
+    if len(normalized) <= limit:
+        return normalized
+    clipped = normalized[: limit - 3].rsplit(" ", 1)[0].strip()
+    return f"{clipped or normalized[: limit - 3]}..."
+
+
+def humanize_tag(value: Any) -> str:
+    token = str(value or "").strip()
+    if not token:
+        return ""
+    if token in GENRE_LABELS:
+        return GENRE_LABELS[token]
+    token = token.replace("_", " ").replace("-", " ")
+    return token[:1].upper() + token[1:] if token else ""
+
+
+def parse_branch_readme(path: Path) -> dict[str, str]:
+    if not path.exists():
+        return {}
+    fields: dict[str, str] = {}
+    for raw_line in path.read_text(encoding="utf-8").splitlines():
+        line = raw_line.strip()
+        if not line or line.startswith("#"):
+            continue
+        if line.startswith(("Branch nội bộ:", "Quy ước output:", "Ebook:", "Converter DB:")):
+            break
+        if ":" not in line:
+            continue
+        key, value = line.split(":", 1)
+        fields[key.strip()] = value.strip().strip("`")
+    return {
+        "name": fields.get("Tên Truyện", ""),
+        "author": fields.get("Tác Giả", ""),
+        "backdrop": fields.get("Bối cảnh", ""),
+        "summary": fields.get("Tóm tắt nội dung", ""),
+    }
+
+
+def infer_style_tags(cfg: dict[str, Any]) -> list[str]:
+    tags: list[str] = []
+    for value in [cfg.get("genre"), *normalize_text_list(cfg.get("sub_genre"))]:
+        label = humanize_tag(value).strip().lower()
+        if label:
+            tags.append(label)
+    notes = str(cfg.get("notes") or "")
+    if re.search(r"\bfanfic|fanfiction\b", notes, re.IGNORECASE):
+        tags.append("fanfic")
+    return unique_list(tags)[:4] or ["dịch thuật"]
+
+
+def infer_backdrop(title: str, cfg: dict[str, Any], style_tags: list[str]) -> str:
+    notes = first_text(cfg.get("notes"))
+    if notes:
+        return compact_text(notes, limit=280)
+    genre = humanize_tag(cfg.get("genre")).lower()
+    tone = ", ".join(unique_list(style_tags)[:3])
+    if genre and tone:
+        return f"Tác phẩm {genre} mang màu sắc {tone}, đang được chuẩn hóa dữ liệu dịch và ebook trong repo Dichtrung."
+    if tone:
+        return f"Tác phẩm mang màu sắc {tone}, đang được chuẩn hóa dữ liệu dịch và ebook trong repo Dichtrung."
+    return f"Tác phẩm {title} đang được chuẩn hóa dữ liệu dịch và ebook trong repo Dichtrung."
+
+
+def infer_summary(title: str, cfg: dict[str, Any], sample: dict[str, Any] | None) -> str:
+    excerpt = compact_text((sample or {}).get("excerpt", ""), limit=360)
+    if excerpt:
+        return excerpt
+    notes = compact_text(cfg.get("notes", ""), limit=280)
+    if notes:
+        return notes
+    return f"{title} đang được tiếp tục hoàn thiện metadata, mục lục và ebook từ dữ liệu dịch hiện có."
+
+
+def resolve_branch_profile(
+    branch_dir: Path,
+    cfg: dict[str, Any],
+    records: list[dict[str, Any]],
+    title: str,
+    author: str,
+    readme: dict[str, str],
+) -> dict[str, Any]:
+    branch = branch_dir.name
+    override = BRANCH_OVERRIDES.get(branch, {})
+    preferred_chapter = override.get("sample_chapter")
+    if not isinstance(preferred_chapter, int) or preferred_chapter <= 0:
+        preferred_chapter = 1
+    sample = sample_record(records, preferred_chapter)
+    style_tags = normalize_text_list(override.get("style_tags")) or infer_style_tags(cfg)
+    backdrop = first_text(
+        override.get("backdrop"),
+        readme.get("backdrop"),
+        infer_backdrop(title, cfg, style_tags),
+    )
+    summary = first_text(
+        override.get("summary"),
+        readme.get("summary"),
+        infer_summary(title, cfg, sample),
+    )
+    sample_chapter = override.get("sample_chapter")
+    if not isinstance(sample_chapter, int) or sample_chapter <= 0:
+        sample_chapter = (sample or {}).get("chapter_number") or 1
+    return {
+        "backdrop": backdrop,
+        "summary": summary,
+        "style_tags": style_tags or ["dịch thuật"],
+        "cover_prompt": first_text(
+            override.get("cover_prompt"),
+            f"Bìa dọc 6x9 cho truyện {title} của {author}, ưu tiên sắc thái {', '.join(style_tags[:3] or ['dịch thuật'])}. Bối cảnh: {backdrop}",
+        ),
+        "sample_chapter": sample_chapter,
+        "sample_summary": first_text(
+            override.get("sample_summary"),
+            compact_text((sample or {}).get("excerpt", ""), limit=320),
+            summary,
+        ),
+        "sample_characters": normalize_text_list(override.get("sample_characters")) or ["nhân vật chính"],
+        "sample_entities": normalize_text_list(override.get("sample_entities")) or [
+            title,
+            humanize_tag(cfg.get("sub_genre")) or humanize_tag(cfg.get("genre")) or "mạch truyện",
+        ],
+        "sample_tone_tags": normalize_text_list(override.get("sample_tone_tags")) or style_tags or ["dịch thuật"],
+        "sample_illustration": first_text(
+            override.get("sample_illustration"),
+            f"Cảnh minh họa đại diện cho {title}, bám theo bối cảnh: {backdrop}",
+        ),
+        "signature_style_name": first_text(override.get("signature_style_name"), "Giọng chuẩn hóa"),
+        "signature_style_purpose": first_text(
+            override.get("signature_style_purpose"),
+            "Giữ giọng kể ổn định và bám sát metadata của branch.",
+        ),
+        "signature_style_tail": first_text(
+            override.get("signature_style_tail"),
+            "Đoạn văn nên giữ nhịp rõ ràng và thống nhất với dữ liệu branch.",
+        ),
+    }
+
+
+def slugify(value: Any) -> str:
+    normalized = unicodedata.normalize("NFKD", str(value or ""))
+    ascii_text = normalized.encode("ascii", "ignore").decode("ascii")
+    slug = re.sub(r"[^a-zA-Z0-9]+", "-", ascii_text).strip("-").lower()
+    return slug or "misc"
+
+
+def int_or_none(value: Any) -> int | None:
+    if value is None or value == "":
+        return None
+    try:
+        return int(value)
+    except (TypeError, ValueError):
+        return None
+
+
+def build_cover_slots(branch: str) -> list[str]:
+    base = f"Output/{branch}/illustrations/cover"
+    return [
+        f"{base}/cover.jpg",
+        f"{base}/cover.png",
+        f"{base}/cover.webp",
+        f"{base}/cover.jpeg",
+    ]
+
+
+def format_progress(completed: int | None, total: int | None) -> str:
+    if completed is None and total is None:
+        return ""
+    if total:
+        return f"{completed or 0}/{total} chương"
+    return f"{completed or 0} chương"
+
+
+def normalize_status(value: Any) -> str:
+    status = str(value or "").strip().lower()
+    if status in {"done", "complete", "completed", "finished"}:
+        return "completed"
+    if status in {"paused", "on_hold", "hold"}:
+        return "paused"
+    return "in_progress"
+
+
+def status_label(value: Any) -> str:
+    mapping = {
+        "completed": "Hoàn thành",
+        "paused": "Tạm dừng",
+        "in_progress": "Đang ra",
+    }
+    return mapping[normalize_status(value)]
+
+
+def read_optional_json(path: Path) -> dict[str, Any] | list[Any] | None:
+    if not path.exists():
+        return None
+    return json.loads(path.read_text(encoding="utf-8-sig"))
+
+
+def category_entry(prefix: str, token: Any, title: str | None = None) -> dict[str, str] | None:
+    raw_token = str(token or "").strip()
+    label = first_text(title, humanize_tag(raw_token))
+    if not raw_token or not label:
+        return None
+    key_token = label if prefix == "tag" else raw_token
+    return {
+        "key": f"{prefix}:{slugify(key_token)}",
+        "token": raw_token,
+        "title": label,
+    }
+
+
+def build_book_categories(metadata: dict[str, Any]) -> list[dict[str, str]]:
+    categories: list[dict[str, str]] = []
+    genre_entry = category_entry("genre", metadata.get("genre"))
+    if genre_entry:
+        categories.append(genre_entry)
+
+    for token in normalize_text_list(metadata.get("sub_genre")):
+        entry = category_entry("tag", token)
+        if entry:
+            categories.append(entry)
+
+    for token in normalize_text_list(metadata.get("style_tags"))[:4]:
+        entry = category_entry("tag", token)
+        if entry:
+            categories.append(entry)
+
+    unique: dict[str, dict[str, str]] = {}
+    for entry in categories:
+        unique.setdefault(entry["key"], entry)
+    return list(unique.values())
+
+
+def build_catalog_tabs(books: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    counts: dict[str, dict[str, Any]] = {
+        "all": {"key": "all", "title": "Tất cả", "count": len(books), "priority": 0}
+    }
+    for book in books:
+        for entry in book.get("categories", []):
+            item = counts.setdefault(
+                entry["key"],
+                {
+                    "key": entry["key"],
+                    "title": entry["title"],
+                    "count": 0,
+                    "priority": 1 if entry["key"].startswith("genre:") else 2,
+                },
+            )
+            item["count"] += 1
+
+    tabs = list(counts.values())
+    tabs.sort(key=lambda item: (item["priority"], -item["count"], item["title"].casefold()))
+    trimmed = [tabs[0]]
+    trimmed.extend(item for item in tabs[1:] if item["count"] > 1 or item["priority"] == 1)
+    return [{"key": item["key"], "title": item["title"], "count": item["count"]} for item in trimmed[:10]]
+
+
+def build_book_catalog_entry(branch_dir: Path) -> dict[str, Any]:
+    branch = branch_dir.name
+    metadata = read_json(branch_dir / "converter_db" / "metadata.json")
+    progress = read_json(branch_dir / "progress.json")
+    readme = parse_branch_readme(branch_dir / "README.md")
+    manifest = read_optional_json(branch_dir / "ebook" / "illustration_manifest.json") or {}
+    toc = read_optional_json(branch_dir / "toc.json") or []
+
+    completed = int_or_none(progress.get("completed_chapters"))
+    if completed is None:
+        completed = int_or_none(metadata.get("completed_chapters"))
+    total = int_or_none(progress.get("total_chapters"))
+    if total is None:
+        total = int_or_none(metadata.get("total_chapters"))
+    latest_chapter = ""
+    if isinstance(toc, list) and toc:
+        latest_chapter = str((toc[-1] or {}).get("title") or "").strip()
+
+    cover_data = manifest.get("cover", {}) if isinstance(manifest, dict) else {}
+    cover_candidates = [
+        str(item).strip()
+        for item in cover_data.get("asset_candidates", [])
+        if str(item).strip()
+    ]
+    cover_slots = build_cover_slots(branch)
+    categories = build_book_categories(metadata)
+    status = normalize_status(
+        first_text(progress.get("status"), (progress.get("meta") or {}).get("status"))
+    )
+    progress_text = format_progress(completed, total)
+    detail_bits = [
+        first_text(readme.get("backdrop"), metadata.get("backdrop")),
+        f"Tiến độ: {progress_text}" if progress_text else "",
+        f"Mới nhất: {latest_chapter}" if latest_chapter else "",
+    ]
+
+    return {
+        "branch": branch,
+        "title": first_text(readme.get("name"), metadata.get("display_title"), metadata.get("project_name"), branch),
+        "author": first_text(readme.get("author"), metadata.get("author"), "Khuyết danh"),
+        "summary": first_text(readme.get("summary"), metadata.get("summary")),
+        "backdrop": first_text(readme.get("backdrop"), metadata.get("backdrop")),
+        "description": first_text(readme.get("summary"), metadata.get("summary")),
+        "detail": " | ".join(bit for bit in detail_bits if bit),
+        "status": status,
+        "status_label": status_label(status),
+        "ongoing": status != "completed",
+        "completed_chapters": completed,
+        "total_chapters": total,
+        "latest_chapter": latest_chapter,
+        "genre": metadata.get("genre"),
+        "sub_genre": metadata.get("sub_genre"),
+        "style_tags": metadata.get("style_tags") or [],
+        "categories": categories,
+        "cover_candidates": cover_candidates,
+        "cover_slots": cover_slots,
+        "cover_prompt": first_text(cover_data.get("prompt")),
+        "cover_relative_path": cover_candidates[0] if cover_candidates else "",
+        "readme_path": f"Output/{branch}/README.md",
+        "toc_path": f"Output/{branch}/toc.json",
+        "updated_at": first_text(progress.get("last_updated"), metadata.get("generated_at")),
+    }
+
+
+def build_home_payload(branch_dirs: list[Path]) -> dict[str, Any]:
+    books = [build_book_catalog_entry(branch_dir) for branch_dir in branch_dirs if is_project_branch(branch_dir)]
+    books.sort(key=lambda item: item["title"].casefold())
+    return {
+        "metadata": {
+            "generated_at": now_iso(),
+            "total_books": len(books),
+            "source": "Dichtrung/Output",
+        },
+        "tabs": build_catalog_tabs(books),
+        "books": books,
+    }
 
 
 def split_sentences(text: str) -> list[str]:
@@ -451,15 +849,24 @@ def update_global_config() -> None:
 
 def scaffold_branch(branch_dir: Path) -> None:
     branch = branch_dir.name
-    override = BRANCH_OVERRIDES[branch]
     cfg_path = branch_dir / "translation_config.json"
     progress_path = branch_dir / "progress.json"
     cfg = read_json(cfg_path)
     progress = read_json(progress_path)
-    title, author = title_from_source((cfg.get("source_ref") or {}).get("full"), cfg.get("project_name", branch))
     records = output_records(branch_dir, progress)
+    readme = parse_branch_readme(branch_dir / "README.md")
+    title, author = title_from_source(
+        (cfg.get("source_ref") or {}).get("full"),
+        cfg.get("display_title") or cfg.get("project_name", branch),
+    )
+    title = first_text(readme.get("name"), cfg.get("display_title"), title, cfg.get("project_name"), branch)
+    author = first_text(readme.get("author"), cfg.get("display_author"), author)
+    override = resolve_branch_profile(branch_dir, cfg, records, title, author, readme)
     sample = sample_record(records, override["sample_chapter"])
-    variants = generate_style_variants(sample or {"excerpt": override["sample_summary"], "display_name": None, "relative_path": None}, override)
+    variants = generate_style_variants(
+        sample or {"excerpt": override["sample_summary"], "display_name": None, "relative_path": None},
+        override,
+    )
 
     for path in [
         branch_dir / "converter_db",
@@ -475,6 +882,9 @@ def scaffold_branch(branch_dir: Path) -> None:
     ]:
         path.mkdir(parents=True, exist_ok=True)
 
+    cfg.setdefault("source_ref", {})
+    cfg["project_branch"] = branch
+    cfg["source_ref"]["split"] = f"Source/Source split/{branch}/"
     cfg["display_title"] = title
     cfg["display_author"] = author
     cfg["output_filename_pattern_display"] = DISPLAY_FILENAME_PATTERN
@@ -615,7 +1025,13 @@ def scaffold_branch(branch_dir: Path) -> None:
         {
             "metadata": {"project_title": title, "generated_at": now_iso()},
             "requirements": {"toc_required": True, "illustrations_required": True},
-            "cover": {"status": "asset_ready" if assets["cover"] else "prompt_ready", "asset_candidates": assets["cover"], "prompt": override["cover_prompt"]},
+            "cover": {
+                "status": "asset_ready" if assets["cover"] else "prompt_ready",
+                "asset_candidates": assets["cover"],
+                "slot_paths": build_cover_slots(branch),
+                "preferred_slot": build_cover_slots(branch)[0],
+                "prompt": override["cover_prompt"],
+            },
             "sample_chapter": {"chapter_number": sample_payload["sample"]["chapter_number"], "chapter_title": sample_payload["sample"]["chapter_title"], "prompt": override["sample_illustration"], "asset_candidates": assets["chapters"]},
             "supplementary_assets": {"maps": assets["maps"], "characters": assets["characters"], "diagrams": assets["diagrams"]},
         },
@@ -634,12 +1050,20 @@ def main() -> int:
     if not args.branch and not args.all:
         raise SystemExit("Cần truyền --branch [Tên] hoặc --all")
     update_global_config()
-    branches = [path for path in sorted(OUTPUT_ROOT.iterdir()) if path.is_dir()] if args.all else [OUTPUT_ROOT / args.branch]
+    all_project_branches = [path for path in sorted(OUTPUT_ROOT.iterdir()) if is_project_branch(path)]
+    branches = (
+        [path for path in sorted(OUTPUT_ROOT.iterdir()) if is_project_branch(path)]
+        if args.all
+        else [OUTPUT_ROOT / args.branch]
+    )
     for branch_dir in branches:
-        if not branch_dir.exists() or branch_dir.name not in BRANCH_OVERRIDES:
+        if not is_project_branch(branch_dir):
+            print(f"[SKIP] {branch_dir.name}: thiếu translation_config.json hoặc progress.json")
             continue
         scaffold_branch(branch_dir)
         print(f"[OK] {branch_dir.name}")
+    write_json(HOME_CATALOG_PATH, build_home_payload(all_project_branches))
+    print(f"[OK] {HOME_CATALOG_PATH.name}")
     return 0
 
 

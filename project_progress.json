@@ -39,10 +39,10 @@
       "source_split": "Source/Source split/Hong Hoang Lich_Zhttty/",
       "output_dir": "Output/Hong Hoang Lich_Zhttty/",
       "total_chapters": 1836,
-      "completed_chapters": 200,
-      "last_processed_chapter": 200,
+      "completed_chapters": 150,
+      "last_processed_chapter": 150,
       "ebook_built": false,
-      "last_updated": "2026-05-05T00:18:00+07:00"
+      "last_updated": "2026-05-11T11:24:00+07:00"
     },
     {
       "id": "M4",
@@ -67,10 +67,10 @@
       "source_split": "Source/Source split/Phi Pham Hong Hoang_Nga Tu Phi Pham/",
       "output_dir": "Output/Phi Pham Hong Hoang_Nga Tu Phi Pham/",
       "total_chapters": 3398,
-      "completed_chapters": 30,
-      "last_processed_chapter": 30,
+      "completed_chapters": 80,
+      "last_processed_chapter": 80,
       "ebook_built": false,
-      "last_updated": "2026-05-09T18:50:00Z"
+      "last_updated": "2026-05-11T11:24:00+07:00"
     },
     {
       "id": "M6",
@@ -137,10 +137,10 @@
       "source_split": "Source/Source split/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu/",
       "output_dir": "Output/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu/",
       "total_chapters": 3666,
-      "completed_chapters": 270,
-      "last_processed_chapter": 270,
+      "completed_chapters": 115,
+      "last_processed_chapter": 115,
       "ebook_built": false,
-      "last_updated": "2026-05-07T08:50:00+07:00"
+      "last_updated": "2026-05-11T11:24:00+07:00"
     },
     {
       "id": "M10",
@@ -151,16 +151,16 @@
       "source_split": "Source/Source split/Linh Hon Negary_Hu Minh/",
       "output_dir": "Output/Linh Hon Negary_Hu Minh/",
       "total_chapters": 754,
-      "completed_chapters": 5,
-      "last_processed_chapter": 5,
+      "completed_chapters": 50,
+      "last_processed_chapter": 50,
       "ebook_built": false,
-      "last_updated": "2026-05-11T08:48:00+07:00"
+      "last_updated": "2026-05-11T11:24:00+07:00"
     }
   ],
-  "last_updated": "2026-05-10T11:30:10.263120",
+  "last_updated": "2026-05-11T11:40:16.507198",
   "meta": {
-    "last_updated": "2026-05-10T11:30:10.263107",
-    "current_phase": "Execution",
+    "last_updated": "2026-05-11T11:40:16.507179",
+    "current_phase": "Finalization",
     "tracked_projects": 7
   },
   "current_chapter": 270,

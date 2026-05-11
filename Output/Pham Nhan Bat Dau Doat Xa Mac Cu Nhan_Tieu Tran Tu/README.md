@@ -5,7 +5,7 @@ Tác Giả: Tiêu Trần Tử
 Bối cảnh: Fanfiction đặt trên nền Phàm Nhân Tu Tiên, nơi một linh hồn dị thế nhập vào thân xác Mặc Cư Nhân và cố viết lại vận mệnh bi kịch đã định của mình.
 Tóm tắt nội dung: Từ vị trí vốn là một nhân vật bi kịch ở đầu truyện gốc, Mặc Cư Nhân nay có thêm ký ức của kẻ biết trước cốt truyện và quyết tâm thoát khỏi kết cục cũ bằng tính toán, huyết mạch và hiểu biết nguyên tác.
 
-Branch nội bộ: `Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu`
+Branch nội bộ: `Pham Nhan Bat Dau Doat Xa Mac Cu Nhan_Tieu Tran Tu`
 Tiến độ hiện tại: `20/1337` chương
 
 Quy ước output:

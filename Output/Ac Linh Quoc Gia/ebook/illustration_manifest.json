@@ -1,15 +1,24 @@
 {
   "metadata": {
     "project_title": "Ác Linh Quốc Gia",
-    "generated_at": "2026-05-10T11:30:20+07:00"
+    "generated_at": "2026-05-11T11:40:31+07:00"
   },
   "requirements": {
     "toc_required": true,
     "illustrations_required": true
   },
   "cover": {
-    "status": "prompt_ready",
-    "asset_candidates": [],
+    "status": "asset_ready",
+    "asset_candidates": [
+      "illustrations/cover/Ac Linh Quoc Gia.png"
+    ],
+    "slot_paths": [
+      "Output/Ac Linh Quoc Gia/illustrations/cover/cover.jpg",
+      "Output/Ac Linh Quoc Gia/illustrations/cover/cover.png",
+      "Output/Ac Linh Quoc Gia/illustrations/cover/cover.webp",
+      "Output/Ac Linh Quoc Gia/illustrations/cover/cover.jpeg"
+    ],
+    "preferred_slot": "Output/Ac Linh Quoc Gia/illustrations/cover/cover.jpg",
     "prompt": "Bìa dọc 6x9, đô thị mưa đêm xanh chì, tòa nhà văn phòng tối om, nam chính trẻ đứng cạnh sedan hạng sang nhưng bóng đổ sau lưng méo mó như ác linh, cinematic horror, chi tiết cao."
   },
   "sample_chapter": {

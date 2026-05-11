@@ -1,15 +1,24 @@
 {
   "metadata": {
     "project_title": "Chủ Thần Đại Đạo",
-    "generated_at": "2026-05-10T11:30:20+07:00"
+    "generated_at": "2026-05-11T11:40:31+07:00"
   },
   "requirements": {
     "toc_required": true,
     "illustrations_required": true
   },
   "cover": {
-    "status": "prompt_ready",
-    "asset_candidates": [],
+    "status": "asset_ready",
+    "asset_candidates": [
+      "illustrations/cover/Chu Than Dai Dao_Co Nguyet Cu Si.png"
+    ],
+    "slot_paths": [
+      "Output/Chu Than Dai Dao_Co Nguyet Cu Si/illustrations/cover/cover.jpg",
+      "Output/Chu Than Dai Dao_Co Nguyet Cu Si/illustrations/cover/cover.png",
+      "Output/Chu Than Dai Dao_Co Nguyet Cu Si/illustrations/cover/cover.webp",
+      "Output/Chu Than Dai Dao_Co Nguyet Cu Si/illustrations/cover/cover.jpeg"
+    ],
+    "preferred_slot": "Output/Chu Than Dai Dao_Co Nguyet Cu Si/illustrations/cover/cover.jpg",
     "prompt": "Bìa dọc 6x9, thanh niên đứng giữa phố hiện đại nhưng sau lưng mở ra nhiều vòng sáng như cổng thế giới chồng lớp, tông vàng lam, cảm giác thần tính giáng lâm."
   },
   "sample_chapter": {

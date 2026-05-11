@@ -1,15 +1,24 @@
 {
   "metadata": {
     "project_title": "Linh Hồn Negary",
-    "generated_at": "2026-05-11T10:08:26+07:00"
+    "generated_at": "2026-05-11T11:40:34+07:00"
   },
   "requirements": {
     "toc_required": true,
     "illustrations_required": true
   },
   "cover": {
-    "status": "prompt_ready",
-    "asset_candidates": [],
+    "status": "asset_ready",
+    "asset_candidates": [
+      "illustrations/cover/Linh Hon Negary_Hu Minh.png"
+    ],
+    "slot_paths": [
+      "Output/Linh Hon Negary_Hu Minh/illustrations/cover/cover.jpg",
+      "Output/Linh Hon Negary_Hu Minh/illustrations/cover/cover.png",
+      "Output/Linh Hon Negary_Hu Minh/illustrations/cover/cover.webp",
+      "Output/Linh Hon Negary_Hu Minh/illustrations/cover/cover.jpeg"
+    ],
+    "preferred_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/cover/cover.jpg",
     "prompt": "Bìa dọc 6x9, một ngai vàng xương trắng lơ lửng trong không gian hư vô, một thực thể linh hồn mờ ảo màu xanh xám (Negary) ngồi trên đó, xung quanh là vô số sợi tơ mầm bệnh đen kịt, phong cách gothic dark fantasy."
   },
   "sample_chapter": {

@@ -1,15 +1,24 @@
 {
   "metadata": {
     "project_title": "Ta Trong Bình Vũ Trụ",
-    "generated_at": "2026-05-10T11:30:20+07:00"
+    "generated_at": "2026-05-11T11:40:41+07:00"
   },
   "requirements": {
     "toc_required": true,
     "illustrations_required": true
   },
   "cover": {
-    "status": "prompt_ready",
-    "asset_candidates": [],
+    "status": "asset_ready",
+    "asset_candidates": [
+      "illustrations/cover/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu.png"
+    ],
+    "slot_paths": [
+      "Output/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu/illustrations/cover/cover.jpg",
+      "Output/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu/illustrations/cover/cover.png",
+      "Output/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu/illustrations/cover/cover.webp",
+      "Output/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu/illustrations/cover/cover.jpeg"
+    ],
+    "preferred_slot": "Output/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu/illustrations/cover/cover.jpg",
     "prompt": "Bìa dọc 6x9, một bàn tay khổng lồ (Lý Khanh) đang lơ lửng trên một bình thủy tinh sáng rực rỡ, bên trong bình là tòa tháp Babel tí hon và cây Thế Giới, phong cách huyền ảo, cinematic."
   },
   "sample_chapter": {
