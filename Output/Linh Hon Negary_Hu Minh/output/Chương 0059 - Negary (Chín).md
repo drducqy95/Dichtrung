@@ -1,24 +1,24 @@
 # Chương 0059 - Negary (Chín)
 
-Thi thể không còn chút hơi thở sự sống nào của Osgood ngã gục trên đống xương trắng. Đứng sau lưng ông ta, Negary cả người cháy sạm, gần như biến thành than củi.
+Thi thể không còn chút hơi thở sự sống nào của Osgoodin ngã gục trên đống xương trắng. Đứng sau lưng ông ta, Negary cả người cháy sạm, gần như biến thành than củi.
 
 "Chết chưa?" Jason tay cầm cung tiễn nhắm thẳng vào đống than hỏi.
 
-"Chắc là chưa đâu." Chris nén lại nỗi đau thương trong lòng, nghiêm túc nói. Từ cái nhịp Rhythm cuối cùng của Bugitier có thể biết được, cơ thể của Negary được cấu tạo thành từng tầng. Tuy chiêu "Hy Sinh Ân Tứ" của Osgood uy lực khổng lồ, nhưng nhiều nhất cũng chỉ giết được Negary một lần mà thôi.
+"Chắc là chưa đâu." Chris nén lại nỗi đau thương trong lòng, nghiêm túc nói. Từ cái nhịp Rhythm cuối cùng của Bugitier có thể biết được, cơ thể của Negary được cấu tạo thành từng tầng. Tuy chiêu "Tế Hiến Ân Tứ" của Osgoodin uy lực khổng lồ, nhưng nhiều nhất cũng chỉ giết được Negary một lần mà thôi.
 
-Trên bề mặt đống than xuất hiện từng vết rạn nứt, một đoàn thịt đen kịt lao ra từ bên trong, rơi xuống đống hài cốt. Đoàn thịt đen đó trực tiếp lao về phía thi thể của Osgood, chui vào từ vết thương trên ngực, thay thế cho trái tim đã bị móc ra.
+Trên bề mặt đống than xuất hiện từng vết rạn nứt, một đoàn thịt đen kịt lao ra từ bên trong, rơi xuống đống hài cốt. Đoàn thịt đen đó trực tiếp lao về phía thi thể của Osgoodin, chui vào từ vết thương trên ngực, thay thế cho trái tim đã bị móc ra.
 
-Những xúc tu đen kịt từ đoàn thịt vươn ra, lan tỏa bên trong cơ thể Osgood. Dưới lớp da có thể thấy rõ mồn một những đường vân đen bằng mắt thường. Osgood giãy giụa đứng dậy, dưới lớp da vốn dĩ trơn nhẵn giờ đây chằng chịt những đường vân đen nổi cộm khắp toàn thân.
+Những xúc tu đen kịt từ đoàn thịt vươn ra, lan tỏa bên trong cơ thể Osgoodin. Dưới lớp da có thể thấy rõ mồn một những đường vân đen bằng mắt thường. Osgoodin giãy giụa đứng dậy, dưới lớp da vốn dĩ trơn nhẵn giờ đây chằng chịt những đường vân đen nổi cộm khắp toàn thân.
 
-"Đúng là không thể xem thường các ngươi nha." Osgood, hay đúng hơn là Negary lại một lần nữa lên tiếng. Hắn dường như không mấy phẫn nộ vì cơ thể bị phá hủy, trái lại còn cảm thấy vui mừng hơn.
+"Đúng là không thể xem thường các ngươi nha." Osgoodin, hay đúng hơn là Negary lại một lần nữa lên tiếng. Hắn dường như không mấy phẫn nộ vì cơ thể bị phá hủy, trái lại còn cảm thấy vui mừng hơn.
 
 "Negary, không có cơ thể hỗ trợ, ngươi đã không còn mạnh mẽ nữa rồi, cục diện thất bại của ngươi đã định sẵn rồi!" Chris hít sâu một hơi, ánh mắt nghiêm nghị nói: "Ngươi quá tự đại rồi!"
 
 Chris đau đớn nói, thân hình đã lao tới trước mặt Negary, tung đòn Vô Thanh chi quyền đánh vào lồng ngực đối phương.
 
-"Chris, ngươi không chiến thắng được ta đâu. Ngươi tưởng chiến đấu với các ngươi lâu như vậy mà ta không làm gì sao?" Negary mỉm cười nói: "Bất kể là Smik hay là ngươi, khi giao thủ với các ngươi, ta đều cố ý nương tay."
+"Chris, ngươi không chiến thắng được ta đâu. Ngươi tưởng chiến đấu với các ngươi lâu như vậy mà ta không làm gì sao?" Negary mỉm cười nói: "Bất kể là Smic hay là ngươi, khi giao thủ với các ngươi, ta đều cố ý nương tay."
 
-"Ngay cả Hy Sinh Ân Tứ của Osgood, ta đều là nửa chủ động gánh chịu." Nhịp thở của Negary bắt đầu thay đổi, sự tồn tại của hắn bắt đầu điều hòa thống nhất với Rhythm xung quanh. Một lượng lớn mầm bệnh trong không khí hội tụ về phía Negary, bao bọc lấy cơ thể của Osgood.
+"Ngay cả Tế Hiến Ân Tứ của Osgoodin, ta đều là nửa chủ động gánh chịu." Nhịp thở của Negary bắt đầu thay đổi, sự tồn tại của hắn bắt đầu điều hòa thống nhất với Rhythm xung quanh. Một lượng lớn mầm bệnh trong không khí hội tụ về phía Negary, bao bọc lấy cơ thể của Osgoodin.
 
 "Đó chính là vì Hô Hấp Pháp đấy!" Negary vui vẻ cười lớn: "Khả năng khống chế mầm bệnh của ta từ lâu đã đạt tới cực hạn. Hô Hấp Pháp - thứ công cụ phù hợp với Rhythm này, chính là chìa khóa để ta phá cục."
 
@@ -56,7 +56,8 @@ Sacri mang theo những món đồ lưu niệm phiêu lưu của Chris rời kh�
 
 Năm này qua năm khác, suốt bấy lâu nay Sacri đã hoàn toàn trở thành Chris. Cái truyền thuyết bất bại này không biết đã khích lệ bao nhiêu người lựa chọn trở thành du hiệp, ví như Crow Man Nozardes năm đó. Hắn quả thực đã mang lại hy vọng cho rất nhiều người.
 
-"Cái tên Chris sẽ trở thành một niềm tin lưu truyền vĩnh viễn, ta không hề hối hận!" Nhớ lại những quân bài đã chuẩn bị từ trước, trên khuôn mặt đầy sẹo của Chris lộ ra một nụ cười vô cùng khó coi nhưng cũng vô cùng đẹp đẽ: "Tân Lưu, bí pháp cuối cùng: Tân tận hỏa truyền!"
+"Cái tên Chris sẽ trở thành một niềm tin lưu truyền vĩnh viễn, ta không hề hối hận!" Nhớ lại những quân bài đã chuẩn bị từ trước, trên khuôn mặt đầy sẹo của Chris lộ ra một nụ cười vô cùng khó coi nhưng cũng vô cùng đẹp đẽ: "Tân Lưu Hô Hấp Pháp, bí pháp cuối cùng: Tân tận hỏa truyền!
+"
 
 Rhythm của Chris tuôn trào, cưỡng ép tràn vào cơ thể Negary, bắt đầu thay đổi Rhythm của hắn. Ý niệm của các đời người tu luyện Tân Lưu cũng bắt đầu tràn vào cơ thể Negary. Trong đó ngoài kỹ thuật Hô Hấp Pháp, còn có đủ loại ý niệm hào hùng về hy vọng, chính nghĩa... mưu toan cải tạo tính cách của Negary.
 

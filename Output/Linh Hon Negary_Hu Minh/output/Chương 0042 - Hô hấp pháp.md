@@ -1,16 +1,16 @@
-# Chương 0042: Hô hấp pháp
+# Chương 0042: Hô Hấp Pháp
 
 "Cảm tri của tôi đối với Rhythm không hề sai lầm, Negary vì lý do chưa biết mà rơi vào suy yếu, hiện tại đang trốn ở đâu đó để tiến hành hưu miên." Trong căn phòng ở tầng hai của cái sân, Chris khẳng định nói: "Hiện tại chính là cơ hội tốt nhất để tiêu diệt Negary."
 
-"Tôi biết rồi, tôi đồng ý việc nhổ cỏ tận gốc Negary ngay lúc này. Tà Linh đều là những vật chết không chủ, là những thứ bất nghĩa, tuyệt đối không thể ngồi nhìn chúng lớn mạnh thêm." Osgood đứng bên cửa sổ, nhìn xuống phía dưới. Đội chấp pháp phụ tá cho Crow Men quản lý trật tự đang vây quanh cái sân này, giám sát nơi đây một cách công khai.
+"Tôi biết rồi, tôi đồng ý việc nhổ cỏ tận gốc Negary ngay lúc này. Tà Linh đều là những vật chết không chủ, là những thứ bất nghĩa, tuyệt đối không thể ngồi nhìn chúng lớn mạnh thêm." Osgoodin đứng bên cửa sổ, nhìn xuống phía dưới. Đội chấp pháp phụ tá cho Crow Men quản lý trật tự đang vây quanh cái sân này, giám sát nơi đây một cách công khai.
 
 Lời nói của anh ta khiến Groske đứng bên cạnh hơi có chút lúng túng. Cũng chính vì sự tràn vào của những thương nhân như họ mà Reya mới lớn mạnh đến mức độ như hiện tại.
 
-"Cho nên vấn đề hiện tại là, đưa mẹ con Isabella đi trước, hay để họ ở lại cùng chúng ta." Osgood dừng lại một lúc rồi mới tiếp tục nói.
+"Cho nên vấn đề hiện tại là, đưa mẹ con Isabella đi trước, hay để họ ở lại cùng chúng ta." Osgoodin dừng lại một lúc rồi mới tiếp tục nói.
 
-Nghe thấy lời của Osgood, Chris đưa mắt nhìn mẹ con Isabella đang ăn đồ ăn ở phòng khách dưới lầu.
+Nghe thấy lời của Osgoodin, Chris đưa mắt nhìn mẹ con Isabella đang ăn đồ ăn ở phòng khách dưới lầu.
 
-Đây quả thực là một vấn đề. Nếu phái người hộ tống mẹ con Isabella trở về, một mặt là làm suy yếu lực lượng của họ ở đây, tỉ lệ thắng khi tiêu diệt Negary lại thấp đi một chút. Mặt khác, để tiêu diệt Negary, Osgood chắc chắn phải ở lại, không có Giám mục Osgood và những người khác đi cùng, với sự đố kỵ của Sers I, có thể dự đoán được con đường trở về của Isabella sẽ không hề an toàn.
+Đây quả thực là một vấn đề. Nếu phái người hộ tống mẹ con Isabella trở về, một mặt là làm suy yếu lực lượng của họ ở đây, tỉ lệ thắng khi tiêu diệt Negary lại thấp đi một chút. Mặt khác, để tiêu diệt Negary, Osgoodin chắc chắn phải ở lại, không có Giám mục Osgoodin và những người khác đi cùng, với sự đố kỵ của Sers I, có thể dự đoán được con đường trở về của Isabella sẽ không hề an toàn.
 
 Còn nếu để mẹ con Isabella ở lại, thì có khả năng sẽ mất hết tất cả. Đến lúc đó không chỉ không thể tiêu diệt được Negary, mà ngược lại mẹ con Isabella cũng không mang được về Intercam.
 
@@ -18,7 +18,7 @@ Chủ yếu nhất là, nơi này ở Reya cũng không tính là an toàn. Nh�
 
 "Tạm thời ở lại Reya trái lại đối với mẹ con Isabella còn an toàn hơn một chút." Chris im lặng hồi lâu rồi nói: "Tuy rằng ở đây cũng có kẻ thù, nhưng tương đối mà nói, người của Negary vì Long huyết cũng sẽ bảo vệ mẹ con Isabella."
 
-"Long chi nữ, Thánh nữ cứu thế sao?" Ấn ký Chân tri trên trán Osgood lóe lên, quan sát Nala ở dưới lầu.
+"Long chi nữ, Thánh nữ cứu thế sao?" Ấn ký Chân tri trên trán Osgoodin lóe lên, quan sát Nala ở dưới lầu.
 
 "Những đồ ăn này cháu thực sự có thể ăn tùy thích ạ?" Nala ngẩng đầu lên, mở to đôi mắt to tròn long lanh, hỏi một nữ mục sư khác. Vì thể chất phù hợp với Ân tứ của Thần không nhiều, nên ở Intercam, phụ nữ cũng có thể trở thành mục sư và Thần Ân kỵ sĩ.
 
@@ -30,15 +30,15 @@ Chủ yếu nhất là, nơi này ở Reya cũng không tính là an toàn. Nh�
 
 "Ngon quá, mẹ cũng ăn đi." Miệng Nala bị nhét đầy căng, trông giống như một cái bánh bao lớn, nói năng lúng búng, khiến Isabella ở bên cạnh không cầm được nước mắt, cảm thấy như bấy lâu nay đã để con gái chịu đói vậy.
 
-"Chỉ là một cô bé tham ăn thôi mà." Osgood xoa trán nói, nhưng trong bóng tối lại cùng Chris nhìn nhau một cái, thoáng qua một tia trầm trọng: "Đặc tính của Rồng bắt đầu thức tỉnh rồi sao?"
+"Chỉ là một cô bé tham ăn thôi mà." Osgoodin xoa trán nói, nhưng trong bóng tối lại cùng Chris nhìn nhau một cái, thoáng qua một tia trầm trọng: "Đặc tính của Rồng bắt đầu thức tỉnh rồi sao?"
 
 "Hiện tại chính là vấn đề chiến thắng Negary. Muốn chiến thắng Negary, e rằng với lực lượng hiện tại của chúng ta, rất khó để làm được." Chris nói ra những tình báo thu thập được trong thời gian qua: "Bọn Negary đang kiểm soát bốn con Dị Lân Giả, thậm chí còn nhiều hơn. Loại quái vật này cực kỳ mạnh mẽ, cộng thêm số lượng Crow Men không rõ, còn có vị Vu Linh thuật sĩ thiếu niên kia, và cả chính bản thân Negary nữa. Muốn tiêu diệt Negary, chúng ta cần thêm nhiều lực lượng hơn."
 
-"Groske, ông kinh doanh ở đây đã lâu, có cao thủ nào chúng ta có thể thuê và đáng tin cậy không?" Osgood quay sang hỏi vị thương nhân bên cạnh.
+"Groske, ông kinh doanh ở đây đã lâu, có cao thủ nào chúng ta có thể thuê và đáng tin cậy không?" Osgoodin quay sang hỏi vị thương nhân bên cạnh.
 
 "Tôi biết có hai người, chỉ là không biết các vị có thể thuyết phục được họ ra tay hay không." Groske suy nghĩ một chút rồi nói: "Hai người đó đều có những bản lĩnh khác nhau, nhưng tính cách khá kỳ quái, cũng không biết hiện tại có ở Reya hay không."
 
-"Vậy thì dẫn chúng tôi đi gặp hai người đó đi, Chris ngài cứ ở đây tu dưỡng một chút, cơ thể ngài nếu còn tiếp tục giày vò thêm nữa, e rằng sẽ sớm hỏng bét thôi." Osgood càu nhàu nói. Lúc mới vào, anh ta đã sử dụng Thế độ ân tứ cho Chris, cũng nhờ vậy mà hiểu được cơ thể của Chris đã tệ đến mức độ nào.
+"Vậy thì dẫn chúng tôi đi gặp hai người đó đi, Chris ngài cứ ở đây tu dưỡng một chút, cơ thể ngài nếu còn tiếp tục giày vò thêm nữa, e rằng sẽ sớm hỏng bét thôi." Osgoodin càu nhàu nói. Lúc mới vào, anh ta đã sử dụng Thế độ ân tứ cho Chris, cũng nhờ vậy mà hiểu được cơ thể của Chris đã tệ đến mức độ nào.
 
 "Tôi biết rồi." Chris thản nhiên nói. Cơ thể của ông ông tự hiểu rõ, thứ ông sợ không phải là cái chết, có lẽ cái chết đối với ông còn là một loại giải thoát hơn. Dường như nghĩ tới điều gì đó, Chris đứng dậy.
 
@@ -60,15 +60,15 @@ Cô bé tóc vàng quay người lại, ngơ ngác nhìn Chris đang đứng tr�
 
 Hiện tại Nala vẫn còn quá nhỏ, có nhiều thứ vẫn chưa hiểu, có lẽ đợi đến khi cô bé hiểu được những điều đó, cô bé sẽ trưởng thành thành vị Thánh nữ cứu thế kia.
 
-"Thứ mà ta truyền thụ cho cháu, tên là Hô hấp pháp!" Tay Chris đặt trên vai Nala, bắt đầu hít thở với một tần số kỳ lạ. Rhythm thuận theo tay Chris tràn vào trong cơ thể Nala, dẫn dắt cô bé bắt đầu hít thở.
+"Thứ mà ta truyền thụ cho cháu, tên là Hô Hấp Pháp!" Tay Chris đặt trên vai Nala, bắt đầu hít thở với một tần số kỳ lạ. Rhythm thuận theo tay Chris tràn vào trong cơ thể Nala, dẫn dắt cô bé bắt đầu hít thở.
 
 Ánh vàng trong mắt Nala lóe lên rồi biến mất. Chris chấn kinh nhìn Nala, nhịp thở của cô bé gần như trong nháy mắt đã hoàn thành sự đồng bộ với ông, tự nhiên nhi nhiên khế hợp với Rhythm xung quanh.
 
 ---
 **Ghi chú cuối chương:**
-* **Hô hấp pháp (Breathing Technique):** Kỹ thuật nền tảng của Chris Modo, giúp hòa hợp với nhịp điệu thế giới.
+* **Hô Hấp Pháp (Breathing Technique):** Kỹ thuật nền tảng của Chris Modo, giúp hòa hợp với nhịp điệu thế giới.
 * **Sers I (Sers đệ nhất):** Quốc vương vương quốc Intercam, được mô tả là người hay đố kỵ.
 * **Thế độ ân tứ (Saving Grace):** Ân tứ dùng để chữa trị thương thế và bệnh tật.
 * **Thánh nữ cứu thế (Savior Saint):** Danh hiệu trong tiên tri dành cho Nala.
-* **Ấn ký Chân tri (True Knowledge Mark):** Khả năng quan sát bản chất sự vật của Giám mục Osgood.
-* **Chris / Osgood / Isabella / Nala / Groske:** Các thuật ngữ đã thống nhất.
+* **Ấn ký Chân tri (True Knowledge Mark):** Khả năng quan sát bản chất sự vật của Giám mục Osgoodin.
+* **Chris / Osgoodin / Isabella / Nala / Groske:** Các thuật ngữ đã thống nhất.

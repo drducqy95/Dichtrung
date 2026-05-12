@@ -6,7 +6,7 @@ Nếu không có Chris ở bên cạnh, tôi nghĩ mình đã phát điên rồi
 
 Chris tỏ ra vô cùng thản nhiên. Ông ấy nói với tôi rằng, nhịp thở của tôi đã trở nên hỗn loạn vì sợ hãi, giống như Rhythm sinh mệnh của tôi vậy, cần phải giữ nhịp thở ổn định mới có thể sống sót.
 
-Hô hấp pháp thực sự rất thần kỳ, nó giúp tôi bình tĩnh lại. Chris thành thật thừa nhận rằng, lần này ông ấy cũng không có nắm chắc sẽ sống sót, ông ấy bảo tôi hãy chuẩn bị sẵn sàng.
+Hô Hấp Pháp thực sự rất thần kỳ, nó giúp tôi bình tĩnh lại. Chris thành thật thừa nhận rằng, lần này ông ấy cũng không có nắm chắc sẽ sống sót, ông ấy bảo tôi hãy chuẩn bị sẵn sàng.
 
 Chuẩn bị sẵn sàng cho cái chết sao?"
 
@@ -48,7 +48,7 @@ Garan cũng là một thành viên trong tổ chức Crow Men. Lựa chọn củ
 
 Cho nên bình thường, hắn đều ngụy trang thành những người khác nhau đi tới các khu vực khác để thu thập đủ loại tình báo.
 
-"Tin tức mới nhất, Giám mục Osgood của Thần Ân giáo đã dẫn theo một đội Thần Ân kỵ sĩ tới một nơi không xa Reya." Giọng nói của Garan rất không có đặc điểm, giống như ngoại hình của hắn vậy, không gây chú ý.
+"Tin tức mới nhất, Giám mục Osgoodin của Thần Ân giáo đã dẫn theo một đội Thần Ân kỵ sĩ tới một nơi không xa Reya." Giọng nói của Garan rất không có đặc điểm, giống như ngoại hình của hắn vậy, không gây chú ý.
 
 "Viện trợ sao?" Adrey gật đầu, biểu thị đã biết thông tin này.
 
@@ -74,7 +74,7 @@ Cho nên bình thường, hắn đều ngụy trang thành những người khá
 **Ghi chú cuối chương:**
 * **Hành Trình Núi Tuyết:** Cuốn tiểu thuyết nổi tiếng về Chris Modo do Sacri viết.
 * **Garan:** Crow Men chuyên về tình báo và ngụy trang.
-* **Osgood (Ostgutin):** Giám mục cao cấp của Thần Ân giáo.
+* **Osgoodin (Ostgutin):** Giám mục cao cấp của Thần Ân giáo.
 * **Vương quốc Royas:** Một cường quốc lân cận đang dòm ngó Reyastemia.
 * **Dị Lân Giả (Strange Scaled One):** Những sinh vật dị biến có vảy kỳ lạ, công cụ chiến đấu bí mật của Negary.
 * **Kỳ hưu miên (Dormancy period):** Trạng thái ngủ đông để tiến hóa hoặc hồi phục của Negary.

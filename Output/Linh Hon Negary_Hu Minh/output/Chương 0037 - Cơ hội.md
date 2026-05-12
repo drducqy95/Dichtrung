@@ -26,7 +26,7 @@ Còn có lớp mầm bệnh dạng chất nhầy màu trắng cấu thành làn 
 
 Ngoài ra hồn thể của Negary cư ngụ bên trong đó, Lực can thiệp và Trường cảm giác sẽ không bị hạn chế, việc điều khiển lũ quạ cũng sẽ không bị ngăn cản. Chủ yếu nhất là, lớp cơ thể này đã giảm bớt sự tiêu hao Sinh khí xuống mức cực thấp, bị ánh nắng chiếu vào cũng sẽ không gia tốc sự tiêu hao Sinh khí. Đây chính là lớp bảo vệ mà Negary tạo ra cho hồn thể của bản thân.
 
-Tiếc là hiện tại vẫn chưa tính là quá thành công, việc kiểm soát lực đạo không quá ổn định, thỉnh thoảng sẽ xuất hiện vấn đề như sức mạnh của chính mình vô tình làm bản thân bị thương. Có lẽ đạt được Hô hấp pháp sẽ giải quyết được vấn đề này.
+Tiếc là hiện tại vẫn chưa tính là quá thành công, việc kiểm soát lực đạo không quá ổn định, thỉnh thoảng sẽ xuất hiện vấn đề như sức mạnh của chính mình vô tình làm bản thân bị thương. Có lẽ đạt được Hô Hấp Pháp sẽ giải quyết được vấn đề này.
 
 "Nozardes vẫn thử nghiệm ra được không ít bài tẩy của Chris." Negary sau khi hấp thụ mầm bệnh Black Crow của Nozardes, thong thả nói. Trước kia hắn chỉ có thể hấp thụ Sinh khí và Hồn khí của sinh mệnh thể ngay khi vừa chết.
 
@@ -52,7 +52,7 @@ Vị trí Desha và Chris giao thủ đã đổi sang một con phố khác, Chr
 
 Đoản kiếm của đối phương cực kỳ chuẩn xác, cộng thêm tốc độ ra kiếm phi nhân kia, khiến Chris phải dốc toàn lực để đối phó với đòn tấn công của đối phương. Ngay cả như vậy trên người ông cũng xuất hiện vài vết thương, máu không ngừng chảy.
 
-"Hộc hộc hộc..." Desha thở dốc. Đối phương không hổ là Du hiệp truyền kỳ, lấy Hô hấp pháp làm căn bản, thực lực vô cùng toàn diện. Cô ta lợi dụng tố chất cơ thể cũng như ưu thế vũ khí, không ngừng tấn công dồn dập, cũng chỉ đem lại cho đối phương vài vết thương không đáng kể. Cứ thế này, cô ta rất có khả năng sẽ thua.
+"Hộc hộc hộc..." Desha thở dốc. Đối phương không hổ là Du hiệp truyền kỳ, lấy Hô Hấp Pháp làm căn bản, thực lực vô cùng toàn diện. Cô ta lợi dụng tố chất cơ thể cũng như ưu thế vũ khí, không ngừng tấn công dồn dập, cũng chỉ đem lại cho đối phương vài vết thương không đáng kể. Cứ thế này, cô ta rất có khả năng sẽ thua.
 
 "Đây là chuyện tuyệt đối không được phép xảy ra!" Desha dừng tấn công, há miệng cắn thẳng vào mu bàn tay phải của mình. Máu tươi cùng mầm bệnh Black Crow màu đen cùng lúc tuôn ra, vấy lên thanh đoản kiếm.
 

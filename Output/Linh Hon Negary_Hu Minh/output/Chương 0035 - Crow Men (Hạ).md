@@ -1,6 +1,6 @@
 # Chương 0035: Crow Men (Hạ)
 
-Deep Rhythm của Chris là một loại vận dụng cao cấp của Hô hấp pháp. Các sinh mệnh thể và Rhythm của riêng họ có mối liên hệ cực kỳ chặt chẽ. Vấn đề của cơ thể sẽ được thể hiện thông qua Rhythm, và nếu Rhythm bị nhiễu loạn, cũng sẽ gây ảnh hưởng đến cơ thể con người.
+Deep Rhythm của Chris là một loại vận dụng cao cấp của Hô Hấp Pháp. Các sinh mệnh thể và Rhythm của riêng họ có mối liên hệ cực kỳ chặt chẽ. Vấn đề của cơ thể sẽ được thể hiện thông qua Rhythm, và nếu Rhythm bị nhiễu loạn, cũng sẽ gây ảnh hưởng đến cơ thể con người.
 
 Deep Rhythm của Chris chính là thông qua hít thở sâu, cấy một số nhịp điệu vào sâu trong cơ thể đối phương, sau đó thông qua Rhythm của hơi thở ra để dẫn động những nhịp điệu đã cấy vào đó. Trong nháy mắt nhiễu loạn Rhythm của đối phương, khiến sự vận hành cơ thể của kẻ thù xuất hiện sự không điều hòa.
 
@@ -58,7 +58,7 @@ Nhưng Rhythm mà loại ý chí đó mang lại đã gây chấn động sâu s
 
 Ông đương nhiên hiểu rõ trạng thái cơ thể của mình. Cuộc đời phiêu lưu không hề tươi đẹp như tưởng tượng. Mặc dù trong những cuộc phiêu lưu đó, thực sự có thể khiến con người ta được thăng hoa, nhưng sự tổn hại đối với cơ thể cũng là không thể tránh khỏi.
 
-Những năm phiêu lưu này, cơ thể ông nếu không phải nhờ Hô hấp pháp điều dưỡng thì đã sớm sụp đổ từ lâu rồi. Ông tuy là Du hiệp truyền kỳ, nhưng Du hiệp truyền kỳ cũng là người, cho nên Du hiệp truyền kỳ cũng sẽ tử vong.
+Những năm phiêu lưu này, cơ thể ông nếu không phải nhờ Hô Hấp Pháp điều dưỡng thì đã sớm sụp đổ từ lâu rồi. Ông tuy là Du hiệp truyền kỳ, nhưng Du hiệp truyền kỳ cũng là người, cho nên Du hiệp truyền kỳ cũng sẽ tử vong.
 
 Chris từ lâu đã có giác ngộ hiến dâng sinh mạng, giống như người năm đó vậy.
 

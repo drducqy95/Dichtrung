@@ -2,7 +2,7 @@
 
 Trong miệng Negary thốt ra hai chữ "nhân loại", nghe qua cứ như đang nhắc tới một lát bánh mì vậy, điều này khiến toàn đội người vương quốc Royas cảm thấy lạnh lẽo thấu xương.
 
-"Ra tay!" Smik hét lớn một tiếng, thân hình hắn vặn vẹo một trận rồi biến mất khỏi tầm mắt. Những người còn lại đều rút kỵ sĩ kiếm ra, đồng loạt xông về phía Negary.
+"Ra tay!" Smic hét lớn một tiếng, thân hình hắn vặn vẹo một trận rồi biến mất khỏi tầm mắt. Những người còn lại đều rút kỵ sĩ kiếm ra, đồng loạt xông về phía Negary.
 
 Trên thắt lông của bộ đồng phục Royas này có treo một hàng chai nhỏ cỡ ngón tay cái, bên trong chứa các loại chất lỏng màu sắc khác nhau.
 
@@ -68,6 +68,6 @@ Lại một cây đuốc nữa từ từ bốc cháy. Negary bắt đầu cảm 
 
 "Aldrich, ước chừng sẽ là một trái cây cực kỳ mỹ vị." Negary đang nghĩ ngợi, đột nhiên giơ tay lên, một đoạn đoản đao hiện ra giữa hư không, bị cầm chân ngay giữa chừng.
 
-"Ngươi tưởng ta không phát hiện ra ngươi sao? Nhân loại?" Búng tay một cái, thân hình Smik buộc phải hiện ra, trực tiếp bay ngược ra ngoài.
+"Ngươi tưởng ta không phát hiện ra ngươi sao? Nhân loại?" Búng tay một cái, thân hình Smic buộc phải hiện ra, trực tiếp bay ngược ra ngoài.
 
 "Các ngươi còn muốn phản kháng sao?" Negary đứng dậy khỏi vương tọa, ngữ khí bình thản nhưng lại mang theo một loại sức mạnh không thể khước từ: "Quỳ xuống đi, chư vị."

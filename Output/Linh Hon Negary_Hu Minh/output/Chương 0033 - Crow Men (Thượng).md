@@ -50,13 +50,13 @@ Chris tĩnh tâm lại, gượng chống chọi với sức mạnh của Nozarde
 
 Mỗi một quyền đều đánh vào những vị trí khiến Nozardes khó chịu, nhưng lần nào Nozardes cũng có thể chặn đứng đòn tấn công của Chris. Điều kỳ lạ là Nozardes chưa từng thực hiện một lần phản kích nào, dù cho có ưu thế về lực lượng cũng không chủ động tấn công Chris.
 
-"Hơi có chút thất vọng đấy tiền bối, vốn dĩ tưởng rằng ngài còn có thể mạnh hơn một chút nữa." Nozardes một lần nữa đỡ lấy nắm đấm của Chris, đột ngột lên tiếng: "Hô hấp pháp quả thực giúp ngài có được kỹ xảo đánh thẳng vào điểm yếu của người khác, nhưng có được ân tứ của Ngài Negary, tôi đã vượt qua nhân loại rồi!!"
+"Hơi có chút thất vọng đấy tiền bối, vốn dĩ tưởng rằng ngài còn có thể mạnh hơn một chút nữa." Nozardes một lần nữa đỡ lấy nắm đấm của Chris, đột ngột lên tiếng: "Hô Hấp Pháp quả thực giúp ngài có được kỹ xảo đánh thẳng vào điểm yếu của người khác, nhưng có được ân tứ của Ngài Negary, tôi đã vượt qua nhân loại rồi!!"
 
-Nozardes đột nhiên thay đổi sách lược phòng thủ thụ động trước đó, chủ động vung quyền tấn công Chris. Điều khiến Chris chấn kinh là quyền pháp của Nozardes chính là Rhythm Fists của ông. Loại quyền lộ đánh vào điểm yếu Rhythm của con người này, nếu không biết Hô hấp pháp thì không thể đánh ra loại quyền pháp này được!
+Nozardes đột nhiên thay đổi sách lược phòng thủ thụ động trước đó, chủ động vung quyền tấn công Chris. Điều khiến Chris chấn kinh là quyền pháp của Nozardes chính là Rhythm Fists của ông. Loại quyền lộ đánh vào điểm yếu Rhythm của con người này, nếu không biết Hô Hấp Pháp thì không thể đánh ra loại quyền pháp này được!
 
 Chris có chút chật vật né tránh nắm đấm của Nozardes, một lần nữa chú ý đến hô hấp của đối phương.
 
-"Không đúng, hô hấp của hắn hoàn toàn không phù hợp với quy luật của Hô hấp pháp." Chris nhíu mày, hít sâu thêm một hơi, Rhythm của bản thân trong nháy mắt cực kỳ khế hợp với môi trường xung quanh, một quyền nhanh đến không thể tin nổi đánh về phía Nozardes.
+"Không đúng, hô hấp của hắn hoàn toàn không phù hợp với quy luật của Hô Hấp Pháp." Chris nhíu mày, hít sâu thêm một hơi, Rhythm của bản thân trong nháy mắt cực kỳ khế hợp với môi trường xung quanh, một quyền nhanh đến không thể tin nổi đánh về phía Nozardes.
 
 Nếu nói Rhythm Fists là tấn công vào điểm yếu Rhythm của đối thủ, thì quyền pháp Chris đang dùng hiện tại chính là khiến Rhythm của bản thân khế hợp với môi trường xung quanh, đánh ra Vô thanh chi quyền.
 
@@ -71,6 +71,6 @@ Nozardes một lần nữa dừng nhịp độ tấn công, trên mặt lộ ra 
 * **Rhythm:** Nhịp điệu và sự vận động của vạn vật trong tự nhiên.
 * **Rhythm Fists:** Quyền pháp dựa trên việc thấu hiểu nhịp điệu của đối thủ để tấn công.
 * **Vô thanh chi quyền:** Quyền pháp triệt tiêu tiếng động và lực cản bằng cách hòa hợp với môi trường.
-* **Hô hấp pháp (Breathing Technique):** Kỹ thuật điều hòa nhịp thở để cường hóa cơ thể và cảm giác.
+* **Hô Hấp Pháp (Breathing Technique):** Kỹ thuật điều hòa nhịp thở để cường hóa cơ thể và cảm giác.
 * **Á long (Sub-dragon):** Một sinh vật có huyết mạch của rồng nhưng cấp bậc thấp hơn.
 * **Crow Men / Reyastemia / Komoro / Chris Modo / Nozardes:** Các thuật ngữ đã thống nhất.

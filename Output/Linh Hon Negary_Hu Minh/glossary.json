@@ -2,7 +2,7 @@
   "metadata": {
     "version": "1.6",
     "project": "Linh Hồn Negary",
-    "last_updated": "2026-05-11T10:08:25.755729"
+    "last_updated": "2026-05-12T07:59:16.708991"
   },
   "entries": [
     {
@@ -136,7 +136,7 @@
     {
       "source": "特里兰西亚",
       "target": "Trilansia",
-      "note": "Ancient Cosi country",
+      "note": "Ancient Cauchy country",
       "pending_sync": false
     },
     {
@@ -226,8 +226,7 @@
     {
       "source": "呼吸法",
       "target": "Hô Hấp Pháp",
-      "note": "Breathing Technique",
-      "pending_sync": false
+      "note": "Breathing Technique"
     },
     {
       "source": "弥漫",
@@ -256,7 +255,7 @@
     {
       "source": "少年帮",
       "target": "Thiếu niên bang",
-      "note": "Tổ chức thiếu niên người Cosi",
+      "note": "Tổ chức thiếu niên người Cauchy",
       "pending_sync": false
     },
     {
@@ -285,13 +284,13 @@
     {
       "source": "萨米拉",
       "target": "Samira",
-      "note": "Thần cuồng phong người Cosi",
+      "note": "Thần cuồng phong người Cauchy",
       "pending_sync": false
     },
     {
       "source": "纽瑞拉",
       "target": "Neurila",
-      "note": "Nữ thần chồi non người Cosi",
+      "note": "Nữ thần chồi non người Cauchy",
       "pending_sync": false
     },
     {
@@ -303,19 +302,19 @@
     {
       "source": "特里兰西亚帝国",
       "target": "Đế quốc Trilandcia",
-      "note": "Đế quốc cổ đại của người Cosi",
+      "note": "Đế quốc cổ đại của người Cauchy",
       "pending_sync": false
     },
     {
       "source": "赫尔罗",
       "target": "Herro",
-      "note": "Thần cường tráng người Cosi",
+      "note": "Thần cường tráng người Cauchy",
       "pending_sync": false
     },
     {
       "source": "斯特米兰罗",
       "target": "Stmiranlo",
-      "note": "Thần kiên bích người Cosi",
+      "note": "Thần kiên bích người Cauchy",
       "pending_sync": false
     },
     {
@@ -350,7 +349,7 @@
     },
     {
       "source": "烟结草",
-      "target": "Yên Kết Thảo",
+      "target": "Cỏ Yên Kết",
       "note": "Smoke Grass"
     },
     {
@@ -365,27 +364,27 @@
     },
     {
       "source": "守护恩赐",
-      "target": "Thủ Hộ Ân Tứ",
+      "target": "Hộ Vệ Ân Tứ",
       "note": "Guardian Grace"
     },
     {
       "source": "牺牲恩赐",
-      "target": "Hy Sinh Ân Tứ",
+      "target": "Tế Hiến Ân Tứ",
       "note": "Sacrifice Grace"
     },
     {
       "source": "拯救恩赐",
-      "target": "Thế Độ Ân Tứ",
+      "target": "Cứu Thế Ân Tứ",
       "note": "Saving Grace"
     },
     {
       "source": "薪之流法",
-      "target": "Tân Lưu",
+      "target": "Tân Lưu Hô Hấp Pháp",
       "note": "Cinder Flow"
     },
     {
       "source": "光之流法",
-      "target": "Quang Lưu",
+      "target": "Quang Lưu Hô Hấp Pháp",
       "note": "Light Flow"
     },
     {
@@ -415,8 +414,260 @@
     },
     {
       "source": "龙粉末",
-      "target": "Long phấn",
+      "target": "Bột rồng",
       "note": "Dragon Powder"
+    },
+    {
+      "source": "黑尔斯",
+      "target": "Heals",
+      "note": "Tổ chức tín phụng Hắc Uyên",
+      "pending_sync": false
+    },
+    {
+      "source": "黑渊",
+      "target": "Hắc Uyên",
+      "note": "Black Abyss",
+      "pending_sync": false
+    },
+    {
+      "source": "神之四面",
+      "target": "Bốn mặt của thần",
+      "note": "God's Four Faces",
+      "pending_sync": false
+    },
+    {
+      "source": "刺眼者",
+      "target": "Thứ Nhãn giả",
+      "note": "Biệt danh của thần - Thứ Nhãn giả (Latinh khi trang trọng: The Eye-Piercing One)",
+      "pending_sync": false
+    },
+    {
+      "source": "割舌者",
+      "target": "Cát Thiệt giả",
+      "note": "Biệt danh của thần - Cát Thiệt giả (Latinh khi trang trọng: The Tongue-Cutter)",
+      "pending_sync": false
+    },
+    {
+      "source": "剁手者",
+      "target": "Đoạt Thủ giả",
+      "note": "Biệt danh của thần - Đoạt Thủ giả (Latinh khi trang trọng: The Hand-Chopper)",
+      "pending_sync": false
+    },
+    {
+      "source": "断头者",
+      "target": "Đoạn Đầu giả",
+      "note": "Biệt danh của thần - Đoạn Đầu giả (Latinh khi trang trọng: The Head-Breaker)",
+      "pending_sync": false
+    },
+    {
+      "source": "黑渊之石",
+      "target": "Đá Hắc Uyên",
+      "note": "Stone of the Black Abyss",
+      "pending_sync": false
+    },
+    {
+      "source": "去火仪式",
+      "target": "Nghi lễ khử hỏa",
+      "note": "Fire-removing ritual",
+      "pending_sync": false
+    },
+    {
+      "source": "仪式之刃",
+      "target": "Dao tế lễ",
+      "note": "Ritual Blade",
+      "pending_sync": false
+    },
+    {
+      "source": "无忧乡",
+      "target": "Xứ sở vô ưu",
+      "note": "Land of no worries",
+      "pending_sync": false
+    },
+    {
+      "source": "恶意之火",
+      "target": "Ngọn lửa ác ý",
+      "note": "Fire of Malice",
+      "pending_sync": false
+    },
+    {
+      "source": "伤害反存",
+      "target": "Tích trữ phản đòn sát thương",
+      "note": "Damage reflection accumulation",
+      "pending_sync": false
+    },
+    {
+      "source": "杀意支配",
+      "target": "Thôn phệ sát ý",
+      "note": "Killing Intent Domination",
+      "pending_sync": false
+    },
+    {
+      "source": "初火",
+      "target": "Ngọn lửa đầu tiên",
+      "note": "First Fire",
+      "pending_sync": false
+    },
+    {
+      "source": "初始三神",
+      "target": "Tam thần khởi nguyên",
+      "note": "Initial Three Gods",
+      "pending_sync": false
+    },
+    {
+      "source": "龙语",
+      "target": "Ngôn ngữ rồng",
+      "note": "Dragon Language",
+      "pending_sync": false
+    },
+    {
+      "source": "科洛米耶",
+      "target": "Colomier",
+      "note": "Địa danh",
+      "pending_sync": false
+    },
+    {
+      "source": "斯科罗",
+      "target": "Scoro",
+      "note": "Địa danh/Tên họ",
+      "pending_sync": false
+    },
+    {
+      "source": "钢之流法",
+      "target": "Cương Lưu Hô Hấp Pháp",
+      "note": "Steel Flow",
+      "pending_sync": false
+    },
+    {
+      "source": "英雄之证",
+      "target": "Chứng nhận anh hùng",
+      "note": "Hero's Proof",
+      "pending_sync": false
+    },
+    {
+      "source": "骑士",
+      "target": "Hiệp sĩ",
+      "note": "Thuật ngữ phương Tây đại trà",
+      "pending_sync": false
+    },
+    {
+      "source": "牧师",
+      "target": "Mục sư",
+      "note": "Thuật ngữ phương Tây đại trà",
+      "pending_sync": false
+    },
+    {
+      "source": "主教",
+      "target": "Giám mục",
+      "note": "Thuật ngữ phương Tây đại trà",
+      "pending_sync": false
+    },
+    {
+      "source": "雇佣兵",
+      "target": "Lính đánh thuê",
+      "note": "Thuật ngữ phương Tây đại trà",
+      "pending_sync": false
+    },
+    {
+      "source": "海盗",
+      "target": "Hải tặc",
+      "note": "Thuật ngữ phương Tây đại trà",
+      "pending_sync": false
+    },
+    {
+      "source": "元帅",
+      "target": "Nguyên soái",
+      "note": "Thuật ngữ phương Tây đại trà",
+      "pending_sync": false
+    },
+    {
+      "source": "公爵",
+      "target": "Công tước",
+      "note": "Thuật ngữ phương Tây đại trà",
+      "pending_sync": false
+    },
+    {
+      "source": "侯爵",
+      "target": "Hầu tước",
+      "note": "Thuật ngữ phương Tây đại trà",
+      "pending_sync": false
+    },
+    {
+      "source": "伯爵",
+      "target": "Bá tước",
+      "note": "Thuật ngữ phương Tây đại trà",
+      "pending_sync": false
+    },
+    {
+      "source": "男爵",
+      "target": "Nam tước",
+      "note": "Thuật ngữ phương Tây đại trà",
+      "pending_sync": false
+    },
+    {
+      "source": "王子",
+      "target": "Hoàng tử",
+      "note": "Thuật ngữ phương Tây đại trà",
+      "pending_sync": false
+    },
+    {
+      "source": "王女",
+      "target": "Công chúa",
+      "note": "Thuật ngữ phương Tây đại trà",
+      "pending_sync": false
+    },
+    {
+      "source": "国王",
+      "target": "Quốc vương",
+      "note": "Thuật ngữ phương Tây đại trà",
+      "pending_sync": false
+    },
+    {
+      "source": "女王",
+      "target": "Nữ hoàng",
+      "note": "Thuật ngữ phương Tây đại trà",
+      "pending_sync": false
+    },
+    {
+      "source": "巫师",
+      "target": "Phù thủy",
+      "note": "Thuật ngữ phương Tây đại trà",
+      "pending_sync": false
+    },
+    {
+      "source": "术士",
+      "target": "Thuật sĩ",
+      "note": "Thuật ngữ phương Tây đại trà",
+      "pending_sync": false
+    },
+    {
+      "source": "卫兵",
+      "target": "Vệ binh",
+      "note": "Thuật ngữ phương Tây đại trà",
+      "pending_sync": false
+    },
+    {
+      "source": "猎人",
+      "target": "Thợ săn",
+      "note": "Thuật ngữ phương Tây đại trà",
+      "pending_sync": false
+    },
+    {
+      "source": "骑士剑",
+      "target": "Knight sword",
+      "note": "Trang bị - Latinh",
+      "pending_sync": false
+    },
+    {
+      "source": "仪式之刃",
+      "target": "Ritual Blade",
+      "note": "Trang bị - Latinh",
+      "pending_sync": false
+    },
+    {
+      "source": "黑渊之石",
+      "target": "Black Abyss Stone",
+      "note": "Trang bị - Latinh",
+      "pending_sync": false
     }
   ]
 }

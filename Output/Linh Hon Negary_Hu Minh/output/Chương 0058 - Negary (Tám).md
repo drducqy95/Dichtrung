@@ -2,9 +2,9 @@
 
 "Vẫn còn quá yếu nha." Negary thong thả đứng giữa đống hài cốt. Cho tới tận bây giờ hắn vẫn còn đang đè nén thực lực, những người này còn lâu mới khiến hắn cảm thấy áp lực.
 
-Hiện tại đối thủ của hắn chỉ còn lại sáu người: du hiệp truyền kỳ Chris Modo, giám mục Thần Ân giáo Osgood, đệ tử mục sư Luen Dona, Thần Ân chiến sĩ Myerson, thành viên đội quân Mạt Thần của Royas Smik Lancher và kẻ phục thù Jason Todd.
+Hiện tại đối thủ của hắn chỉ còn lại sáu người: du hiệp truyền kỳ Chris Modo, giám mục Thần Ân giáo Osgoodin, đệ tử mục sư Luen Donna, Thần Ân chiến sĩ Mylson, thành viên đội quân Mạt Thần của Royas Smic Lancher và kẻ phục thù Jason Todd.
 
-Sáu người này mỗi người đều có ưu điểm riêng, đều có thể coi là những nhân kiệt trong nhân loại, có chăng Luen và Myerson hơi non nớt một chút.
+Sáu người này mỗi người đều có ưu điểm riêng, đều có thể coi là những nhân kiệt trong nhân loại, có chăng Luen và Mylson hơi non nớt một chút.
 
 "Giác ngộ của các ngươi vẫn chưa đủ." Negary dần dần cảm thán. Trình độ đỉnh cao của nhân loại ở thế giới này đại khái cũng chỉ tương đương với bọn họ. Theo những tình báo đã biết, kẻ có thể đứng trên bọn họ chỉ có vị Aldrich kia của Royas.
 
@@ -26,34 +26,34 @@ Sáu người này mỗi người đều có ưu điểm riêng, đều có th�
 
 "Hãy thu lại những lời mê hoặc lòng người đó đi." Chris sững sờ một lát, trầm mặc hồi lâu mới lên tiếng: "Người chết vì bệnh tật là một chuyện rất đáng tiếc, nhưng dùng tế phẩm để hy sinh tuyệt đối là hành vi tà ác. Dùng việc tà ác để tạo ra kết quả chính nghĩa, có lẽ trông rất tốt đẹp, nhưng ta tin rằng đó là một sai lầm. Đã là sai lầm thì ta sẽ không chấp nhận."
 
-"Không chấp nhận cũng không sao, vậy thì hãy bộc phát toàn bộ tiềm năng đi, để ta thấy được giác ngộ của các ngươi." Negary cười lớn, dời tầm mắt khỏi Myerson. Hắn biết thiếu niên kia đã khó lòng thoát khỏi tấm lưới bủa vây.
+"Không chấp nhận cũng không sao, vậy thì hãy bộc phát toàn bộ tiềm năng đi, để ta thấy được giác ngộ của các ngươi." Negary cười lớn, dời tầm mắt khỏi Mylson. Hắn biết thiếu niên kia đã khó lòng thoát khỏi tấm lưới bủa vây.
 
 Nếu chỉ nhìn vào những gì Negary nói, quả thực có vài phần đạo lý: dùng cái giá nhỏ hơn để loại bỏ tệ đoan của hầu hết các loại bệnh tật. Nhưng khi đó Negary cũng sẽ nắm giữ quyền lực lớn hơn, có lẽ bệnh tật thực sự được loại bỏ, nhưng những tệ đoan mang lại có thể còn nhiều hơn thế.
 
-Nhưng Myerson không phải là Chris, những chuyện hắn trải qua vẫn chưa nhiều đến thế. Hơn nữa điều gây chấn động nhất cho hắn từ nhỏ chính là những người nghèo trong khu ổ chuột luôn bị bệnh tật hành hạ. Cộng thêm việc vừa xuống tay với thi thể đồng đội khiến tinh thần hắn xuất hiện sơ hở, hắn đột nhiên cảm thấy bản thân mình và những người khác phản kháng Negary vốn dĩ đã là một sai lầm.
+Nhưng Mylson không phải là Chris, những chuyện hắn trải qua vẫn chưa nhiều đến thế. Hơn nữa điều gây chấn động nhất cho hắn từ nhỏ chính là những người nghèo trong khu ổ chuột luôn bị bệnh tật hành hạ. Cộng thêm việc vừa xuống tay với thi thể đồng đội khiến tinh thần hắn xuất hiện sơ hở, hắn đột nhiên cảm thấy bản thân mình và những người khác phản kháng Negary vốn dĩ đã là một sai lầm.
 
-"Có sai lầm thì phải làm sao? Vậy thì hãy bù đắp nó đi, đứa trẻ." Một giọng nói dường như vang lên từ tận đáy lòng, ánh mắt Myerson dao động: "Nhìn xem, ngươi đang khổ chiến với thi thể mà không thấy giám mục giúp đỡ, nhưng Luen gặp nguy hiểm, Osgood lại có thể kịp thời cứu giúp. Đó chính là sự khác biệt giữa dân nghèo và quý tộc."
+"Có sai lầm thì phải làm sao? Vậy thì hãy bù đắp nó đi, đứa trẻ." Một giọng nói dường như vang lên từ tận đáy lòng, ánh mắt Mylson dao động: "Nhìn xem, ngươi đang khổ chiến với thi thể mà không thấy giám mục giúp đỡ, nhưng Luen gặp nguy hiểm, Osgoodin lại có thể kịp thời cứu giúp. Đó chính là sự khác biệt giữa dân nghèo và quý tộc."
 
-"Vì xuất thân nên Luen có thể trở thành đệ tử của giám mục Osgood, còn ta dù có nỗ lực thế nào đi chăng nữa cũng không thể thực hiện được ước mơ của mình. Hiện tại ta đã nhìn thấy một con đường khác."
+"Vì xuất thân nên Luen có thể trở thành đệ tử của giám mục Osgoodin, còn ta dù có nỗ lực thế nào đi chăng nữa cũng không thể thực hiện được ước mơ của mình. Hiện tại ta đã nhìn thấy một con đường khác."
 
-"Có lẽ trong mắt người khác, con đường này là sai lầm, nhưng đối với ta, đây chính là đúng đắn." Trong lòng Myerson liên tục xuất hiện những suy nghĩ hỗn loạn như vậy.
+"Có lẽ trong mắt người khác, con đường này là sai lầm, nhưng đối với ta, đây chính là đúng đắn." Trong lòng Mylson liên tục xuất hiện những suy nghĩ hỗn loạn như vậy.
 
-Mặc dù xuất thân bần hàn khiến tâm tư Myerson có chút thâm trầm, nhưng không thể phủ nhận hắn vốn dĩ là một thiếu niên không tồi. Chỉ tiếc là gặp phải Negary, dưới sự dẫn dụ không ngừng của sức mạnh tinh thần, những cảm xúc vốn dĩ nhỏ nhặt đã bị phóng đại không ngừng, trở thành sợi rơm cuối cùng đè bẹp nội tâm của Myerson.
+Mặc dù xuất thân bần hàn khiến tâm tư Mylson có chút thâm trầm, nhưng không thể phủ nhận hắn vốn dĩ là một thiếu niên không tồi. Chỉ tiếc là gặp phải Negary, dưới sự dẫn dụ không ngừng của sức mạnh tinh thần, những cảm xúc vốn dĩ nhỏ nhặt đã bị phóng đại không ngừng, trở thành sợi rơm cuối cùng đè bẹp nội tâm của Mylson.
 
-Myerson giơ kỵ sĩ kiếm lên, định kích hoạt ân tứ, lại phát hiện tất cả ân tứ đều ảm đạm vô quang. Hắn nhếch môi nở một nụ cười trào phúng: "Ngay cả Thần cũng bỏ rơi ta rồi sao?"
+Mylson giơ kỵ sĩ kiếm lên, định kích hoạt ân tứ, lại phát hiện tất cả ân tứ đều ảm đạm vô quang. Hắn nhếch môi nở một nụ cười trào phúng: "Ngay cả Thần cũng bỏ rơi ta rồi sao?"
 
-"Myerson, đang nghĩ gì thế, mau lên đi!" Luen thở dốc nói, cố chịu đựng cơn đau đầu để một lần nữa sử dụng ân tứ nhằm thanh lọc những mầm bệnh đó. Hắn là trưởng tử của gia tộc Dona, quý tộc tương lai, thậm chí là cấp cao của Thần Ân giáo, vậy mà lại bị một Tà Linh dọa tới mức không thể cử động, nỗi nhục nhã này chỉ có đánh bại hắn mới có thể bù đắp được.
+"Mylson, đang nghĩ gì thế, mau lên đi!" Luen thở dốc nói, cố chịu đựng cơn đau đầu để một lần nữa sử dụng ân tứ nhằm thanh lọc những mầm bệnh đó. Hắn là trưởng tử của gia tộc Donna, quý tộc tương lai, thậm chí là cấp cao của Thần Ân giáo, vậy mà lại bị một Tà Linh dọa tới mức không thể cử động, nỗi nhục nhã này chỉ có đánh bại hắn mới có thể bù đắp được.
 
-Nhìn Luen, Myerson giơ kỵ sĩ kiếm lên, mầm bệnh trong không khí từ từ hội tụ về phía hắn.
+Nhìn Luen, Mylson giơ kỵ sĩ kiếm lên, mầm bệnh trong không khí từ từ hội tụ về phía hắn.
 
-Osgood vẫn luôn duy trì Chân Tri Ân Tứ, đột nhiên một cảm giác bất tường trào dâng trong lòng. Thực ra trước đó ông đã lờ mờ có cảm giác này rồi, nhưng vì sự hiện diện của Negary quá mạnh mẽ đã quấy nhiễu dự cảm đó.
+Osgoodin vẫn luôn duy trì Chân Tri Ân Tứ, đột nhiên một cảm giác bất tường trào dâng trong lòng. Thực ra trước đó ông đã lờ mờ có cảm giác này rồi, nhưng vì sự hiện diện của Negary quá mạnh mẽ đã quấy nhiễu dự cảm đó.
 
-Cho tới lúc này, Osgood mới cảm nhận rõ ràng sự bất tường đó đến từ đâu. Quay người lại, ông liền thấy Myerson cả người hơi ám đen, giơ kỵ sĩ kiếm chĩa thẳng vào cổ của Luen.
+Cho tới lúc này, Osgoodin mới cảm nhận rõ ràng sự bất tường đó đến từ đâu. Quay người lại, ông liền thấy Mylson cả người hơi ám đen, giơ kỵ sĩ kiếm chĩa thẳng vào cổ của Luen.
 
-Trong ánh mắt Myerson thoáng qua một tia giằng xé, nhưng mầm bệnh xâm nhập vào cơ thể hắn ngày càng nhiều. Negary thông qua mầm bệnh không ngừng truyền đạt ý chí, khiến Myerson càng dấn sâu vào bóng tối. Còn Luen vì sử dụng ân tứ quá độ nên tinh thần uể oải, vẫn chưa nhận ra nguy hiểm đến từ sau lưng.
+Trong ánh mắt Mylson thoáng qua một tia giằng xé, nhưng mầm bệnh xâm nhập vào cơ thể hắn ngày càng nhiều. Negary thông qua mầm bệnh không ngừng truyền đạt ý chí, khiến Mylson càng dấn sâu vào bóng tối. Còn Luen vì sử dụng ân tứ quá độ nên tinh thần uể oải, vẫn chưa nhận ra nguy hiểm đến từ sau lưng.
 
-"Tiết Chế Ân Tứ!" Osgood một lần nữa tung ra Tiết Chế Ân Tứ để hạn chế hành động của Myerson, rồi ngay sau đó ông cảm thấy lồng ngực đau nhói. Một bàn tay đâm xuyên qua ngực ông, thứ bàn tay đó đang nắm chặt chính là trái tim đang đập phập phồng của ông.
+"Tiết Chế Ân Tứ!" Osgoodin một lần nữa tung ra Tiết Chế Ân Tứ để hạn chế hành động của Mylson, rồi ngay sau đó ông cảm thấy lồng ngực đau nhói. Một bàn tay đâm xuyên qua ngực ông, thứ bàn tay đó đang nắm chặt chính là trái tim đang đập phập phồng của ông.
 
-"Quan tâm sẽ bị loạn, ngươi cũng chỉ có thế mà thôi, giám mục Osgood." Negary thất vọng nói. Cho dù tín ngưỡng của ông có thành kính đến đâu thì ông vẫn là một con người, vẫn mang đủ loại nhược điểm.
+"Quan tâm sẽ bị loạn, ngươi cũng chỉ có thế mà thôi, giám mục Osgoodin." Negary thất vọng nói. Cho dù tín ngưỡng của ông có thành kính đến đâu thì ông vẫn là một con người, vẫn mang đủ loại nhược điểm.
 
-"Chủ nhân... hy sinh..." Osgood đứt quãng thốt ra vài chữ, khoảnh khắc tiếp theo hào quang chói mắt tỏa ra rực rỡ.
+"Chủ nhân... hy sinh..." Osgoodin đứt quãng thốt ra vài chữ, khoảnh khắc tiếp theo hào quang chói mắt tỏa ra rực rỡ.

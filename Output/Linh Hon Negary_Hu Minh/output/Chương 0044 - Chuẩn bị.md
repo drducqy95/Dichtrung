@@ -40,15 +40,15 @@ Còn Sers I vì để lên ngôi đã mượn quá nhiều sức mạnh của qu
 
 Điều này cũng tạo nên cục diện khác nhau của hai vương quốc. Hiện tại Sers chỉ muốn giữ lấy vương vị của mình, bị gọi là "Người hoàng hôn" của vương quốc. Còn Eldridge lại được gọi là vị quốc vương vĩ đại nhất nghìn năm qua của Royas, vô số thanh niên vương quốc Royas cam nguyện thần phục dưới ngai vàng của vị Bệ hạ này, vì ông mà vào sinh ra tử.
 
-"Trên tư cách là một thành viên quý tộc Royas, tôi cảm thấy kinh hãi trước sự mạnh mẽ của Eldridge. Nhưng trên tư cách là một thành viên của vương quốc Royas, có được một vị quốc vương như vậy, tôi cảm thấy vô cùng tự hào." Smik nói với vẻ mặt phức tạp.
+"Trên tư cách là một thành viên quý tộc Royas, tôi cảm thấy kinh hãi trước sự mạnh mẽ của Eldridge. Nhưng trên tư cách là một thành viên của vương quốc Royas, có được một vị quốc vương như vậy, tôi cảm thấy vô cùng tự hào." Smic nói với vẻ mặt phức tạp.
 
-"Kết thúc chủ đề này đi, tôi sẽ không ra tay với cô bé đó. Ngoài ra tôi có thể ước thúc thủ hạ của mình, trước khi giải quyết xong Negary sẽ không ra tay." Smik chính sắc nói: "Hiện tại cho dù là với thân phận quý tộc, hay là với thân phận một quốc dân vương quốc Royas, Negary đều là một trở ngại."
+"Kết thúc chủ đề này đi, tôi sẽ không ra tay với cô bé đó. Ngoài ra tôi có thể ước thúc thủ hạ của mình, trước khi giải quyết xong Negary sẽ không ra tay." Smic chính sắc nói: "Hiện tại cho dù là với thân phận quý tộc, hay là với thân phận một quốc dân vương quốc Royas, Negary đều là một trở ngại."
 
-"Thời gian định vào mười hai giờ đêm nay, không vấn đề gì chứ. Để tránh xung đột, chúng tôi sẽ tấn công từ phía đông của cấm địa." Smik nói tiếp.
+"Thời gian định vào mười hai giờ đêm nay, không vấn đề gì chứ. Để tránh xung đột, chúng tôi sẽ tấn công từ phía đông của cấm địa." Smic nói tiếp.
 
-"Không vấn đề gì, chúng tôi sẽ tấn công từ phía nam." Chris gật đầu. Sau đó hai bên trao đổi một số mật hiệu liên lạc, ánh sáng trên bề mặt cơ thể Smik vặn vẹo một trận, thân hình hoàn toàn ẩn đi, rời đi không tiếng động.
+"Không vấn đề gì, chúng tôi sẽ tấn công từ phía nam." Chris gật đầu. Sau đó hai bên trao đổi một số mật hiệu liên lạc, ánh sáng trên bề mặt cơ thể Smic vặn vẹo một trận, thân hình hoàn toàn ẩn đi, rời đi không tiếng động.
 
-"Quang Lưu sao?" Chris thở dài. Eldridge đã đại khái hoàn thành sự thống trị độc tài, đối với điều này người nên phản đối nhất chính là quý tộc trong vương quốc Royas. Thế nhưng hiện tại khi Smik nhắc tới Eldridge, đều không nhịn được mà lộ ra ngữ khí sùng bái, có thể thấy hiện tại vương quốc Royas mạnh đến mức nào.
+"Quang Lưu sao?" Chris thở dài. Eldridge đã đại khái hoàn thành sự thống trị độc tài, đối với điều này người nên phản đối nhất chính là quý tộc trong vương quốc Royas. Thế nhưng hiện tại khi Smic nhắc tới Eldridge, đều không nhịn được mà lộ ra ngữ khí sùng bái, có thể thấy hiện tại vương quốc Royas mạnh đến mức nào.
 
 "Thôi đi, đây cũng là chuyện mà Sers I và Thần Ân giáo nên đau đầu." Trong đầu Chris không nhịn được mà thoáng qua khuôn mặt nhỏ nhắn của Nala, đột nhiên có chút không muốn cô bé trở thành cái gọi là Thánh nữ cứu thế kia nữa, vì điều đó có nghĩa là những thứ cô bé phải gánh vác sẽ rất nặng nề.
 
@@ -69,6 +69,6 @@ Trong cấm địa, Negary ngồi trên ngai vàng xương trắng, nhắm mắt
 * **Eldridge (Eldridge Andre):** Quốc vương vương quốc Royas, một vị minh quân độc tài và đầy tham vọng.
 * **Người hoàng hôn (Sunsetter):** Biệt danh châm chọc dành cho Sers I của Intercam.
 * **Vương tộc Andre:** Gia tộc thống trị vương quốc Royas.
-* **Quang Lưu:** Kỹ thuật Hô hấp pháp cho phép ẩn mình bằng cách bẻ cong ánh sáng.
+* **Quang Lưu:** Kỹ thuật Hô Hấp Pháp cho phép ẩn mình bằng cách bẻ cong ánh sáng.
 * **Kỳ hưu miên (Dormancy period):** Trạng thái nghỉ ngơi mà Negary cố ý để lộ ra để thu hút kẻ thù.
-* **Chris / Adrey / Smik / Negary:** Các thuật ngữ đã thống nhất.
+* **Chris / Adrey / Smic / Negary:** Các thuật ngữ đã thống nhất.

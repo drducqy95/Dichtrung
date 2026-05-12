@@ -12,13 +12,13 @@ Long huyết đang dần thức tỉnh trong cơ thể Nala có những đặc �
 
 Thứ nhất, Long huyết sẽ tăng cường tố chất cơ thể của vật chủ, giúp người mang Long huyết có sức sống trở nên đặc biệt ngoan cường.
 
-Thứ hai, bên trong Long huyết mang theo thông tin kế thừa được gọi là "truyền thừa" cùng một luồng năng lượng tinh thần được đặt tên là "Long uy". Người thức tỉnh Long huyết sẽ dần hiểu được Long ngữ và phát triển theo hướng của loài rồng.
+Thứ hai, bên trong Long huyết mang theo thông tin kế thừa được gọi là "truyền thừa" cùng một luồng năng lượng tinh thần được đặt tên là "Long uy". Người thức tỉnh Long huyết sẽ dần hiểu được Ngôn ngữ rồng và phát triển theo hướng của loài rồng.
 
 Vương Uyên đã tra cứu tư liệu về những người thức tỉnh Long huyết qua các đời của vương quốc Intercam. Họ không ngoại lệ đều trở nên cực kỳ có đặc điểm riêng: mạnh mẽ, tùy tính, bạo thực, tham lam, ngủ nhiều, nhưng tất thảy đều cực kỳ có sức hút cá nhân, có rất nhiều người sẵn lòng theo đuổi và chết vì họ.
 
 Điều khiến Vương Uyên bất ngờ là, trong toàn bộ vương quốc Intercam, những gia tộc có Long huyết chưa từng có tiền lệ phụ nữ thức tỉnh. Có lẽ là do mầm bệnh mà Vương Uyên tiêm vào năm đó đã gây ra dị biến, khiến Nala thức tỉnh Long huyết. Tóm lại những năm qua, Nala cũng xuất hiện một số đặc điểm thuộc về Long chi tử.
 
-Điều khiến Vương Uyên nuối tiếc là, hắn dù sao cũng không phải là người kế thừa Long huyết. Tuy rằng thông tin truyền thừa của Long huyết hắn cũng đã đạt được, nhưng đối với Long ngữ thì hắn thực sự xem không hiểu. Hắn cũng từng phái người tìm kiếm những người hiểu Long ngữ, tiếc là vẫn luôn không tìm thấy.
+Điều khiến Vương Uyên nuối tiếc là, hắn dù sao cũng không phải là người kế thừa Long huyết. Tuy rằng thông tin truyền thừa của Long huyết hắn cũng đã đạt được, nhưng đối với Ngôn ngữ rồng thì hắn thực sự xem không hiểu. Hắn cũng từng phái người tìm kiếm những người hiểu Ngôn ngữ rồng, tiếc là vẫn luôn không tìm thấy.
 
 Thứ ba, giữa các dòng Long huyết có mối liên hệ không thể tách rời. Ngay cả Long huyết đã được trích xuất ra ngoài vẫn có mối liên hệ chặt chẽ với Nala.
 

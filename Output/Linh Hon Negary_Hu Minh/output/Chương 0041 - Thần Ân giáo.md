@@ -2,15 +2,15 @@
 
 Người tới mặc một chiếc bào trắng với những hoa văn giản dị, khuôn mặt tinh tế hơi có nét trung tính, cộng thêm mái tóc vàng ngắn cực kỳ gọn gàng, khiến người ta vừa nhìn thấy đã nảy sinh thiện cảm.
 
-"Osgood, cuối cùng cậu cũng tới rồi." Chris thở phào nhẹ nhõm.
+"Osgoodin, cuối cùng cậu cũng tới rồi." Chris thở phào nhẹ nhõm.
 
-Người tới chính là người bạn tốt của Chris ở Thần Ân giáo, cũng chính là người ủy thác cho chuyến đi này của ông, Giám mục Thần Ân giáo — Osgood.
+Người tới chính là người bạn tốt của Chris ở Thần Ân giáo, cũng chính là người ủy thác cho chuyến đi này của ông, Giám mục Thần Ân giáo — Osgoodin.
 
 Đi phía sau anh ta là hai mục sư, cùng với ba vị Thần Ân kỵ sĩ mặc giáp trụ, tay cầm kỵ sĩ kiếm. Mỗi người đều đã trải qua huấn luyện kỵ sĩ chuyên nghiệp, và mỗi người đều sở hữu Ân tứ của Thần, có thể phát huy ra sức mạnh vượt xa phàm nhân.
 
 "Thần Ân giáo, các người định che chở cho tên tội đồ đã giết chết thủ lĩnh Komoro sao?" Adrey lạnh lùng nói.
 
-"Cái gọi là tội danh chẳng qua là do các người tự định ra, tình hình cụ thể thế nào vẫn chưa ai rõ ràng, như vậy không thể khiến người ta tâm phục khẩu phục được đâu, anh thấy đúng không, Groske." Osgood mỉm cười, nói một cách cực kỳ tự nhiên.
+"Cái gọi là tội danh chẳng qua là do các người tự định ra, tình hình cụ thể thế nào vẫn chưa ai rõ ràng, như vậy không thể khiến người ta tâm phục khẩu phục được đâu, anh thấy đúng không, Groske." Osgoodin mỉm cười, nói một cách cực kỳ tự nhiên.
 
 "Đúng vậy, ngài Adrey, tôi cũng nghĩ như thế." Một người đàn ông trung niên hơi mập mạp từ một bên bước ra, lộ ra nụ cười khổ xen lẫn vẻ thẹn thùng: "Chuyện như thế này sẽ khiến chúng tôi cảm thấy rất thiếu an toàn."
 
@@ -30,7 +30,7 @@ Những thương nhân thương mại biên cảnh này, hay còn gọi là thư
 
 "Vậy thì xin mời ngài ở lại trong cái sân này. Nếu ra ngoài mà không được phép, sẽ coi như ngài tự nhận tội, những người thực thi luật pháp của Reya có thể lập tức xử tử ngài." Adrey nhốt Chris vào một cái sân. Không phải hắn không nghĩ tới việc trực tiếp bắt giữ và hạn chế đối phương, nhưng dưới sự ủng hộ của Thần Ân giáo và các thương nhân Intercam, Adrey khó lòng toại nguyện.
 
-"Hy vọng quý phương có thể sớm bắt được hung thủ thực sự." Osgood đứng một bên, trên mặt mang theo nụ cười dịu dàng: "Nguyện thủ lĩnh Komoro được yên nghỉ."
+"Hy vọng quý phương có thể sớm bắt được hung thủ thực sự." Osgoodin đứng một bên, trên mặt mang theo nụ cười dịu dàng: "Nguyện thủ lĩnh Komoro được yên nghỉ."
 
 Một lát sau, một kỵ sĩ của Thần Ân giáo dẫn theo mẹ con Isabella tới cái sân nhỏ này. Vị kỵ sĩ trẻ tuổi nhìn con phố đằng xa đã nhanh chóng khôi phục lại cảnh tượng phồn hoa, trong ánh mắt thoáng qua sự mờ mịt.
 
@@ -38,7 +38,7 @@ Ngay cả ở quốc đô của vương quốc Intercam, vẫn có không ít ng
 
 Điều khiến vị kỵ sĩ tò mò là, khi anh ta đi đón mẹ con Isabella, anh ta đã dạo một vòng quanh Reya nhưng lại không phát hiện ra nơi này có đa số người đều khỏe mạnh, giống như nơi này không hề tồn tại bệnh tật vậy.
 
-"Myson, đang nghĩ gì vậy?" Một giọng nói làm vị kỵ sĩ trẻ tuổi giật mình tỉnh lại, anh ta quay người lại thì thấy một mục sư trong đội, cũng chính là đệ tử của Osgood — Luen Dona.
+"Myson, đang nghĩ gì vậy?" Một giọng nói làm vị kỵ sĩ trẻ tuổi giật mình tỉnh lại, anh ta quay người lại thì thấy một mục sư trong đội, cũng chính là đệ tử của Osgoodin — Luen Donna.
 
 "Là Luen sao, cảm ơn anh đã cùng tôi đi chữa trị cho những gia đình nghèo khổ đó." Myson chân thành cảm ơn. Anh ta sinh ra trong khu ổ chuột của vương đô, vì được kiểm tra thấy có thể chất phù hợp với ân tứ nên mới rời khỏi khu ổ chuột.
 
@@ -50,19 +50,19 @@ Lúc đó Myson cũng đang đứng bên bờ vực cái chết. Để ức ch�
 
 Anh ta cũng sẽ mời những mục sư có Thế độ ân tứ tới khu ổ chuột để chữa trị miễn phí, nhưng phần lớn mọi người đều không muốn lãng phí thời gian đó. Chữa trị cho những quý tộc kia còn có thể nhận được lượng lớn tiền bạc, còn khu ổ chuột thì vừa bẩn vừa loạn, mùi hôi thối nồng nặc, khắp nơi đều thấy phân tiểu thậm chí là thi thể, những mục sư tự xưng là tầng lớp thượng lưu sao có thể nguyện ý tới đó.
 
-"Đó là việc tôi nên làm, hào quang của Chủ nhân không nên chỉ giới hạn trên người quý tộc và phú thương." Luen Dona mỉm cười trả lời. Khác với Myson, anh ta sinh ra trong một gia đình quý tộc, được giáo dục cao cấp, đối với Chủ nhân cũng cực kỳ thành kính. Chỉ thấy anh ta với nụ cười cực kỳ tự tin và tràn đầy tham vọng nói: "Nếu sau này tôi có thể đắc cử vào tầng lớp cao tầng của Thần Ân giáo, tôi nhất định sẽ đặt ra quy tắc, đưa mục mục chữa trị nghĩa vụ này vào danh sách những việc mục sư nên làm."
+"Đó là việc tôi nên làm, hào quang của Chủ nhân không nên chỉ giới hạn trên người quý tộc và phú thương." Luen Donna mỉm cười trả lời. Khác với Myson, anh ta sinh ra trong một gia đình quý tộc, được giáo dục cao cấp, đối với Chủ nhân cũng cực kỳ thành kính. Chỉ thấy anh ta với nụ cười cực kỳ tự tin và tràn đầy tham vọng nói: "Nếu sau này tôi có thể đắc cử vào tầng lớp cao tầng của Thần Ân giáo, tôi nhất định sẽ đặt ra quy tắc, đưa mục mục chữa trị nghĩa vụ này vào danh sách những việc mục sư nên làm."
 
 So với Myson, Luen vì sinh ra trong gia đình quý tộc nên có vẻ nhiệt tình với quyền thế hơn, nhưng Myson cũng có thể cảm nhận được, Luen thực sự muốn đem hào quang của Chủ nhân rải khắp cho mọi người.
 
-"Vậy thì Luen anh phải cố gắng lên, tôi rất mong chờ đấy." Myson cực kỳ nghiêm túc nói. Vì có bối cảnh gia đình tốt, lại là đệ tử của Giám mục Osgood, bản thân năng lực cũng không kém, không ít người đều lạc quan rằng sau này anh ta có thể trở thành nhân viên cấp cao của Thần Ân giáo.
+"Vậy thì Luen anh phải cố gắng lên, tôi rất mong chờ đấy." Myson cực kỳ nghiêm túc nói. Vì có bối cảnh gia đình tốt, lại là đệ tử của Giám mục Osgoodin, bản thân năng lực cũng không kém, không ít người đều lạc quan rằng sau này anh ta có thể trở thành nhân viên cấp cao của Thần Ân giáo.
 
 Sau khi chia tay Luen, Myson hơi có chút chột dạ. Anh ta nhìn con phố phồn hoa ở đằng xa, hơi có chút mờ mịt: "Tà Linh dị đoan kiểm soát bệnh tật, Negary sao?"
 
 ---
 **Ghi chú cuối chương:**
-* **Osgood (Ostgutin):** Giám mục Thần Ân giáo, người ủy thác của Chris.
+* **Osgoodin (Ostgutin):** Giám mục Thần Ân giáo, người ủy thác của Chris.
 * **Thần Ân kỵ sĩ (God's Grace Knight):** Những chiến binh sở hữu sức mạnh từ Ân tứ của Thần.
 * **Ân tứ (Grace):** Sức mạnh đặc thù được ban ban phát (Chiến đấu ân tứ, Thế độ ân tứ...).
 * **Groske:** Đại diện thương nhân Intercam tại Reyastemia.
 * **Vương quốc Intercam / Vương quốc Royas:** Hai cường quốc láng giềng.
-* **Luen Dona / Myson:** Các nhân vật thuộc Thần Ân giáo.
+* **Luen Donna / Myson:** Các nhân vật thuộc Thần Ân giáo.

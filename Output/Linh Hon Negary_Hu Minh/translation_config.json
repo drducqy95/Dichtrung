@@ -11,10 +11,11 @@
   "term_handling": "mixed_latin_han_viet",
   "term_rules": {
     "core_concepts": "han_viet",
-    "western_professions": "latin",
+    "western_professions": "vietnamese",
     "specialized_terms": {
       "mode": "vietnamese_concise",
-      "latin_on_skill_context": true,
+      "latin_on_formal_context": true,
+      "equipment_mode": "latin",
       "mappings": {
         "Perception field": "Trường cảm giác",
         "Interference force": "Lực can thiệp",
@@ -26,7 +27,7 @@
         "Metal Rhythm": "Metal Rhythm"
       }
     },
-    "notes": "Chân Ngôn, Khí Vận, Tuyệt Vận, Đa Nguyên Vũ Trụ, Dương Khí, Âm Khí, Lưu Pháp (Tân Lưu, Quang Lưu) dùng Hán Việt. Luật động và kỹ năng liên quan dùng Latinh (Rhythm). Witch doctor, Low Magic dùng Latinh. Khí trắng, Khí mát mẻ, Trường cảm giác, Lực can thiệp, Niệm động lực dùng thuần Việt ngắn gọn."
+    "notes": "Công chúa, Hoàng đế, Vương tọa, Hiệp sĩ, Mục sư dùng tiếng Việt. Chỉ khi là chức danh đặc thù hoặc trong bối cảnh trang trọng mới dùng Latinh. Tên các vị thần và biệt danh (Cát Thiệt Giả, Đoạt Thủ Giả...) dùng tiếng Việt. Tên trang bị (vũ khí, đạo cụ) dùng Latinh (Knight sword, Ritual Blade). Luật động vẫn giữ Latinh (Rhythm). Các khái niệm siêu hình như Chân Ngôn, Khí Vận dùng Hán Việt. TUYỆT ĐỐI: Chỉ chú thích ở cuối chương, không mở ngoặc giải nghĩa trong văn bản. Thuật ngữ Hô Hấp Pháp giữ nguyên, kết hợp với tên lưu phái (Ví dụ: Tân Lưu Hô Hấp Pháp)."
   },
   "context_note": "Bối cảnh kỳ huyễn phương Tây cổ đại (Western Ancient Fantasy). Ký chủ Vương Uyên (Trung Quốc) xuyên không sang thế giới da trắng.",
   "sanitization": {
@@ -39,7 +40,7 @@
   },
   "output_filename_pattern_display": "Chương {chapter:04d}: {title}.md",
   "output_filename_pattern_filesystem": "Chương {chapter:04d} - {title}.md",
-  "last_updated": "2026-05-11T21:10:59+07:00",
+  "last_updated": "2026-05-12T08:06:37+07:00",
   "display_title": "Linh Hồn Negary",
   "display_author": "Hư Minh",
   "output_filename_constraint_note": "Windows không cho phép ký tự ':' trong tên file, vì vậy pattern lưu trên đĩa dùng dấu gạch ngang.",

@@ -8,7 +8,7 @@
 
 Chris ngẩng đầu lên, chỉ thấy ở trán của ông đã bị đập ra vết thương, máu tươi không ngừng chảy trên mặt. Mà những mầm bệnh Black Crow đó đang men theo máu nhu động về phía vết thương ở trán, để lộ ra cái miệng của Chris.
 
-"Xin lỗi nhé, Rhythm Stripping." Tay Chris nắm lấy mầm bệnh Black Crow đang bám trên máu, dùng tới một loại vận dụng cao cấp của Hô hấp pháp. Vạn vật đều có Rhythm của riêng mình, khế hợp với Rhythm vạn vật có thể đạt được cảm tri thậm chí là sức mạnh, ví dụ như Metal Rhythm. Còn nếu thay đổi Rhythm của bản thân thành bài xích với nó, sẽ đẩy sự vật ra ngoài. Lúc trước ông lợi dụng Hô hấp pháp để bài xuất mầm bệnh hít vào cơ thể ra ngoài, chính là dùng tới kỹ xảo này.
+"Xin lỗi nhé, Rhythm Stripping." Tay Chris nắm lấy mầm bệnh Black Crow đang bám trên máu, dùng tới một loại vận dụng cao cấp của Hô Hấp Pháp. Vạn vật đều có Rhythm của riêng mình, khế hợp với Rhythm vạn vật có thể đạt được cảm tri thậm chí là sức mạnh, ví dụ như Metal Rhythm. Còn nếu thay đổi Rhythm của bản thân thành bài xích với nó, sẽ đẩy sự vật ra ngoài. Lúc trước ông lợi dụng Hô Hấp Pháp để bài xuất mầm bệnh hít vào cơ thể ra ngoài, chính là dùng tới kỹ xảo này.
 
 Chỉ thấy máu tươi trên mặt Chris rung lên một cái, Chris nắm lấy mầm bệnh trên mặt hất mạnh một cái, hất lên người tên cầm rìu vừa ngã xuống.
 
@@ -32,9 +32,9 @@ Bất kể có đối địch hay không, cũng bất kể đối phương ôm g
 
 "Kẻ thù mới." Chris không ngừng hô hấp, điều chỉnh trạng thái của bản thân. Hai trận chiến liên tiếp đã khiến ông tiêu hao một lượng lớn thể lực. Kẻ thù mới xuất hiện này, chỉ riêng về Rhythm mà nói đã mạnh mẽ hơn nhiều.
 
-"Thật sự là khó chịu mà, trạng thái cơ thể của mình càng lúc càng tệ rồi." Chris nheo mắt lại. Hô hấp pháp là một loại thủ đoạn thần kỳ, nếu đơn thuần tu tập nó, có thể điều hòa Rhythm của bản thân, có công hiệu cường thân kiện thể kéo dài tuổi thọ.
+"Thật sự là khó chịu mà, trạng thái cơ thể của mình càng lúc càng tệ rồi." Chris nheo mắt lại. Hô Hấp Pháp là một loại thủ đoạn thần kỳ, nếu đơn thuần tu tập nó, có thể điều hòa Rhythm của bản thân, có công hiệu cường thân kiện thể kéo dài tuổi thọ.
 
-Nhưng Chris không ngừng mạo hiểm, không ngừng sử dụng đủ loại Hô hấp pháp để vận hành chiến đấu, trái lại khiến cơ thể mỗi ngày một sa sút. Ví dụ như Metal Rhythm, lấy cơ thể nhân loại để khế hợp với Rhythm của kim loại, mỗi lần sử dụng đều sẽ nhiễu loạn Rhythm của bản thân, khiến Rhythm của chính mình không điều hòa.
+Nhưng Chris không ngừng mạo hiểm, không ngừng sử dụng đủ loại Hô Hấp Pháp để vận hành chiến đấu, trái lại khiến cơ thể mỗi ngày một sa sút. Ví dụ như Metal Rhythm, lấy cơ thể nhân loại để khế hợp với Rhythm của kim loại, mỗi lần sử dụng đều sẽ nhiễu loạn Rhythm của bản thân, khiến Rhythm của chính mình không điều hòa.
 
 Sự tích lũy lâu dài khiến sự không điều hòa Rhythm này đã hình thành nên ám thương. Một khi bộc phát, Chris e rằng sẽ tử vong ngay tại chỗ.
 
@@ -52,7 +52,7 @@ Máu tươi bắn tung tóe, Chris ngã sang một bên. Ở eo phải của ôn
 
 "Thứ đó là cái gì? Động vật sao?" Trong lúc hoảng hốt Chris chỉ nhìn thấy một số lớp vảy màu vàng xỉn: "Còn có loại Rhythm cực kỳ không điều hòa đến cực điểm đó, khiến ta nhớ tới thủ lĩnh Komoro của Reya. Không, thứ đó còn không điều hòa hơn cả Komoro!"
 
-"Tiếp tục!" Giọng nói lạnh lẽo quái dị của Adrey truyền tới, khiến Chris vội vàng gượng dậy. Ông sợ nhất là phải đối mặt với loại đối thủ có tốc độ hoặc sức mạnh vượt trội quá nhiều như thế này, khi đó đủ loại kỹ xảo của Hô hấp pháp cực kỳ khó phát huy tác dụng.
+"Tiếp tục!" Giọng nói lạnh lẽo quái dị của Adrey truyền tới, khiến Chris vội vàng gượng dậy. Ông sợ nhất là phải đối mặt với loại đối thủ có tốc độ hoặc sức mạnh vượt trội quá nhiều như thế này, khi đó đủ loại kỹ xảo của Hô Hấp Pháp cực kỳ khó phát huy tác dụng.
 
 Chris vội vàng nhảy vọt vào trong một con hẻm nhỏ. Đại lộ quá mức trống trải, đối mặt với kẻ có tốc độ cực nhanh như thế này thì không có bất kỳ vật cản nào. Chỉ có tiến vào những con hẻm nhỏ với địa hình phức tạp, ông mới có cơ hội hạn chế thứ đó và chiến thắng nó.
 
@@ -66,5 +66,5 @@ Chris vội vàng nhảy vọt vào trong một con hẻm nhỏ. Đại lộ qu�
 **Ghi chú cuối chương:**
 * **Rhythm Stripping:** Kỹ thuật bài trừ các vật chất ngoại lai bằng cách tạo ra nhịp điệu bài xích.
 * **Dị Lân Giả (Strange Scaled One):** Một loại quái vật hình người mang vảy rồng dị biến.
-* **Ám thương:** Những tổn thương tích tụ do lạm dụng Hô hấp pháp trong chiến đấu.
+* **Ám thương:** Những tổn thương tích tụ do lạm dụng Hô Hấp Pháp trong chiến đấu.
 * **Adrey / Chris / Desha / Crow Men / Negary:** Các thuật ngữ đã thống nhất.

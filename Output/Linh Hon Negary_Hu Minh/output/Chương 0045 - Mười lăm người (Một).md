@@ -14,7 +14,7 @@ Mà phương pháp duy nhất có thể khiến họ an lòng, chính là thần
 
 Chris ngẩng đầu lên nhìn ra ngoài cửa sổ. Những đám mây đen dày đặc che khuất ánh trăng, để lộ ra vài phần ý vị bất tường. Nhưng tên đã trên dây không thể không bắn, nếu hôm nay còn không ra tay, nói không chừng Negary sẽ khôi phục lại.
 
-Quay người lại liền thấy lực lượng tập kết của họ. Thần Ân giáo có Giám mục Osgood, hai vị mục sư, ba vị Thánh kỵ sĩ, tổng cộng sáu người. Ngoài ra thương nhân Groske cũng mang theo ba hộ vệ, đều là thân tín của ông ta.
+Quay người lại liền thấy lực lượng tập kết của họ. Thần Ân giáo có Giám mục Osgoodin, hai vị mục sư, ba vị Thánh kỵ sĩ, tổng cộng sáu người. Ngoài ra thương nhân Groske cũng mang theo ba hộ vệ, đều là thân tín của ông ta.
 
 Ngoài ra còn có Jason Todd được chiêu mộ tới để báo thù cho gia đình, cùng với bốn người giấu đầu hở đuôi gặp được trên đường. Trang phục của họ khác nhau, xem chừng là một số người ở khu vực Reya muốn phản kháng Negary nhưng lại không dám thực sự đứng ra, tất nhiên cũng không loại trừ khả năng bên trong có gián điệp.
 
@@ -56,15 +56,15 @@ Chuyển sang ban đêm, tuy rằng tầm nhìn bị ảnh hưởng nhưng hành
 
 Ở ngoại vi cấm địa có dựng tường bao và trạm gác, bên trên còn có không ít người tuần tra.
 
-"Tấn công qua đó sao?" Osgood hỏi. Chris đang chuẩn bị gật đầu.
+"Tấn công qua đó sao?" Osgoodin hỏi. Chris đang chuẩn bị gật đầu.
 
 Trong đội ngũ, một người đeo mặt nạ sắt, khoác cung tên, chân hơi có chút thọt bước ra hạ thấp giọng nói: "Đi theo tôi, có người sẽ mở một cánh cửa cho chúng ta, hãy tranh thủ thời gian."
 
-Nói xong người này liền dẫn đầu đi về một phía của tường bao. Chris và Osgood nhìn nhau một cái, Osgood gật đầu, mấy người liền đi theo người mặt nạ sắt này về phía đó. Dù sao đã chuẩn bị xông thẳng vào rồi, tình hình cũng sẽ không tệ thêm được nữa.
+Nói xong người này liền dẫn đầu đi về một phía của tường bao. Chris và Osgoodin nhìn nhau một cái, Osgoodin gật đầu, mấy người liền đi theo người mặt nạ sắt này về phía đó. Dù sao đã chuẩn bị xông thẳng vào rồi, tình hình cũng sẽ không tệ thêm được nữa.
 
 ---
 **Ghi chú cuối chương:**
 * **Yên Kết Thảo (Smoke Grass):** Loại cỏ khô dùng để tạo khói xua đuổi chim chóc.
 * **Người mặt nạ sắt:** Một nhân vật bí ẩn dẫn đường cho liên minh.
 * **Thánh kỵ sĩ (Holy Knight):** Cấp bậc chiến binh cao cấp của Thần Ân giáo.
-* **Chris / Osgood / Groske / Negary / Crow Men:** Các thuật ngữ đã thống nhất.
+* **Chris / Osgoodin / Groske / Negary / Crow Men:** Các thuật ngữ đã thống nhất.

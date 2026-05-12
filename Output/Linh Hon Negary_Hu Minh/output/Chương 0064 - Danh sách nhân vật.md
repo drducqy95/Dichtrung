@@ -1,60 +1,59 @@
 # Chương 0064 - Danh sách nhân vật
 
-Vì tên gọi theo phong cách Tây phương cổ đại hơi khó nhớ, nên đặc biệt mở chương này để giới thiệu lại các nhân vật.
+Vì tên Tây phương hơi khó nhớ nên ta đặc biệt mở một chương riêng để giới thiệu.
 
-**Negary**: Nhân vật chính, Ôn dịch và Bất tường chi thần. Hiện tại đã tiến hóa thành Linh hồn bệnh khuẩn, mượn nhờ Hồn chi huyết để bắt đầu gieo rắc.
+**Negary**: Nhân vật chính, vị thần của ôn dịch và điềm gở, hiện đã tiến hóa thành mầm bệnh linh hồn, bắt đầu phát tán nhờ vào Hồn chi huyết.
 
-**Noah**: Nghĩa nhân đã lập ước định với Negary. Bản thân đã được cấy Hồn chi huyết, đồng thời thức tỉnh năng lực Phù Thủy Thuật Sĩ của người Cosi, có thể hô vang thần danh để nhận lấy sức mạnh. Có thể coi là người đứng đầu dưới trướng Negary.
+**Noah**: Nghĩa nhân đã lập ước định với Negary, bản thân được cấy ghép Hồn chi huyết, đồng thời thức tỉnh năng lực Vu Linh thuật sĩ của người Cauchy, có thể hô vang thần danh để nhận lấy sức mạnh, có thể gọi là người đứng đầu dưới trướng Negary.
 
-**Chris Modo (Sacri)**: Người kế thừa Tân Lưu của Hô Hấp Pháp, du hiệp truyền kỳ. Tên thật là Sacri, đã kế thừa cái tên Chris tại đại tuyết sơn. Quê hương ở Tarroy, tác giả cuốn "Chuyến phiêu lưu tuyết sơn". Đã hy sinh trong trận chiến khi sử dụng Tân tận hỏa truyền để kìm chân phân hồn của Negary. Tàn hồn đã được Myerson dung hợp.
+**Chris Modo (Sakri)**: Người kế thừa Tân Lưu Hô Hấp Pháp, Truyền kỳ Du hiệp. Tên thật là Sakri, kế thừa cái tên Chris tại Đại Tuyết Sơn. Quê hương là Tarroy, tác giả cuốn "Hành trình tuyết sơn". Đã hy sinh trong trận chiến khi sử dụng "Tân tận hỏa truyền" để kiềm chế phân hồn của Negary, tàn hồn bị Mylson dung hợp.
 
-**Smik Lancher**: Quý tộc của vương quốc Royas, đồng thời là đội trưởng đội quân Mạt Thần. Người kế thừa Quang Lưu của Hô Hấp Pháp. Hiện tại đã bị lây nhiễm Hồn chi huyết và sở hữu một thanh đoản đao Nghi thức chi nhận.
+**Smic Lancher**: Quý tộc của Vương quốc Royas, đồng thời là đội trưởng của tiểu đội Mạt Thần, người kế thừa Quang Lưu Hô Hấp Pháp. Hiện tại đã bị Hồn chi huyết lây nhiễm và sở hữu một thanh Ritual Blade dạng Scimitar.
 
-**Jason Todd**: Thuở nhỏ sống ở bến cảng, gia đình chết trong một lần hải tặc lên bờ cướp bóc. Vì báo thù đã phiêu bạt khắp đại lục suốt 7 năm. Từng học tập chiến đấu tại tổ chức sát thủ Thánh Cốc. Hiện tại đã bị thanh đoản đao của Smik chuyển hóa thành Hoạt tử nhân, đang chuẩn bị tiếp nhận một loại cải tạo nào đó.
+**Jason Todd**: Thuở nhỏ sống ở bến cảng, gia đình bị sát hại trong một lần hải tặc lên bờ cướp bóc. Để báo thù, anh đã phiêu bạt trên đại lục suốt 7 năm, từng học chiến đấu tại tổ chức thích khách Thánh Cốc. Hiện tại bị thanh Scimitar của Smic chuyển hóa thành xác sống, chuẩn bị tiếp nhận một cuộc cải tạo nào đó.
 
-**Osgood**: Giám mục Thần Ân giáo. Sở hữu năm loại ân tứ: Cứu Thế, Tiết Chế, Chân Tri, Hy Sinh và Dũng Cảm. Đã bị Negary giết chết khi cố cứu đệ tử.
+**Osgoodin**: Giám mục Thần Ân giáo, sở hữu năm loại ân tứ: Cứu thế, Tiết chế, Chân tri, Hy sinh, Dũng cảm. Vì cứu đệ tử mà bị Negary giết chết.
 
-**Bugitier**: Truyền giáo sĩ Thần Ân giáo, được mệnh danh là một trong những chiến sĩ mạnh nhất của giáo hội. Sở hữu năm loại ân tứ: Cứu Thế, Bảo Hộ, Chính Nghĩa, Chân Tri và Sinh Mệnh. Đã bị Negary giết chết. Trước khi chết đã dùng bí pháp ghi lại thông tin về Negary, nhưng đáng tiếc không phát huy được tác dụng gì.
+**Bugitier**: Truyền giáo sĩ Thần Ân giáo, được mệnh danh là một trong những chiến sĩ mạnh nhất của giáo hội, sở hữu năm loại ân tứ: Cứu thế, Bảo hộ, Chính nghĩa, Chân tri, Sinh mệnh. Bị Negary giết chết, trước khi chết đã dùng bí pháp ghi lại thông tin về Negary, đáng tiếc không mang lại tác dụng gì.
 
-**Luen Dona**: Đệ tử của Osgood, xuất thân quý tộc Intercam. Sở hữu ba loại ân tứ: Cứu Thế, Chân Tri và Tiết Chế. Là kẻ có dã tâm khá mạnh, mục tiêu là trở thành Giáo tông Thần Ân giáo, dẫn dắt giáo hội mở rộng ra khỏi Intercam.
+**Luen Donna**: Đệ tử của Osgoodin, xuất thân quý tộc Intercam, sở hữu ba loại ân tứ: Cứu thế, Chân tri, Tiết chế. Có dã tâm khá lớn, mục tiêu là trở thành Giáo hoàng Thần Ân giáo, dẫn dắt giáo hội mở rộng ra khỏi Intercam.
 
-**Myerson**: Nguyên là kỵ sĩ Thần Ân giáo, xuất thân khu ổ chuột. Đã tận mắt chứng kiến nỗi thống khổ của nhân dân lao động dưới bệnh tật, từ đó phản bội giáo hội, thần phục Negary, trở thành thủ lĩnh Quỷ Nhân. Phụ hồn là Chris.
+**Mylson**: Nguyên Hiệp sĩ Thần Ân giáo, xuất thân từ khu ổ chuột, từng chứng kiến nỗi đau của người nghèo dưới bệnh tật. Vì thế đã phản bội giáo hội, thần phục Negary, trở thành thủ lĩnh Quỷ Nhân, phụ hồn là Chris.
 
-**Rivers**: Nguyên là kỵ sĩ Thần Ân giáo. Vì để giết Crow Man đã sử dụng Hy Sinh Ân Tứ, dưới tác dụng phụ nên không thể tiếp tục chiến đấu, hiện đang bắt đầu dạy dỗ Nara chiến đấu.
+**Reavers**: Nguyên Hiệp sĩ Thần Ân giáo, để giết chết Crow Men đã sử dụng ân tứ Hy sinh, dưới tác dụng phụ không thể tiếp tục chiến đấu, hiện bắt đầu dạy Nara chiến đấu.
 
-**Isabella Dakmi**: Tên thật là Isabella Tagore, quý tộc Intercam, thuộc một nhánh của vương thất. Vì vương thất Intercam nội loạn nên chạy trốn tới làng người Cosi, kết hôn với Jacques Dakmi và sinh ra Nara Dakmi.
+**Isabella Darkmy**: Tên thật là Isabella Tagule, quý tộc Intercam, thuộc một nhánh của vương thất. Vì vương thất Intercam nội loạn nên trốn đến ngôi làng người Cauchy, kết hôn với Jacques Darkmy, sinh hạ Nara Darkmy.
 
-**Nara Dakmi**: Chịu ảnh hưởng từ Negary, huyết mạch Rồng thuộc gia tộc Tagore bắt đầu thức tỉnh. Là Thánh nữ cứu thế, Long chi nữ trong lời tiên tri của Intercam. Vì tính tương thông giữa Hồn chi huyết và Long chi huyết, trong cơ thể cô có nhân cách thuộc về Negary, đồng thời đã tiếp nhận truyền thừa Hô Hấp Pháp của Chris.
+**Nara Darkmy**: Chịu ảnh hưởng của Negary, huyết mạch Rồng thuộc gia tộc Tagule bắt đầu thức tỉnh. Là Thánh nữ cứu thế, Long chi nữ trong lời tiên tri. Vì tính tương đồng giữa Hồn chi huyết và Long chi huyết, trong cơ thể cô có nhân cách thuộc về Negary, và đã tiếp nhận truyền thừa Hô Hấp Pháp từ Chris.
 
-**Gelosk**: Người đứng đầu đám thương nhân buôn lậu của Intercam, chịu sự khống chế của quý tộc Intercam. Hiện tại đã đầu hàng Negary.
+**Grosk**: Người đứng đầu nhóm thương nhân buôn lậu Intercam, bị quý tộc Intercam khống chế, hiện tại đã đầu hàng Negary.
 
-**Yadre**: Nguyên thủ lĩnh tổ chức Crow Men, Crow Man đời đầu. Đã thất bại trong trận chiến với Chris, trái tim bị đánh nát và được thay thế bằng trái tim của Dị Lân Giả, hiện đã xuất hiện hiện tượng nhiễm Long huyết.
+**Yadrei**: Nguyên thủ lĩnh tổ chức Crow Men, Crow Men thế hệ đầu tiên. Thất bại trong trận chiến với Chris, trái tim bị đập nát và được thay thế bằng trái tim của Người Dị Lân, hiện đã xuất hiện hiện tượng nhiễm máu rồng.
 
-**Kadis Moreg**: Quỷ Nhân, vốn là hải tặc, kẻ thủ ác đã sát hại gia đình Jason Todd. Sau khi lên bờ đã chọn đầu quân cho Negary, đồng thời lôi kéo đồng bọn tới cùng.
+**Kadis Moreg**: Quỷ Nhân, vốn là hải tặc, kẻ thủ ác đã giết hại gia đình Jason Todd. Sau khi lên bờ chọn đầu quân cho Negary, đồng thời đưa các đồng bạn của mình tới.
 
-**Connor Kenway**: Đồng bọn của Kadis Moreg, nhận lời mời của Kadis để cùng thần phục Negary, được cải tạo thành Quỷ Nhân.
+**Connor Kenway**: Đồng bạn của Kadis Moreg, nhận lời mời của Kadis Moreg cùng thần phục Negary, được cải tạo thành Quỷ Nhân.
 
-**Sát thủ Jack**: Một trong các Quỷ Nhân. Dường như đã xảy ra sự cố trong quá trình dung hợp phụ hồn dẫn đến ngôn hành vô cùng quái đản.
+**Sát thủ Jack**: Một trong các Quỷ Nhân, có vẻ như trong quá trình dung hợp phụ hồn đã xảy ra sự cố khiến ngôn hành vô cùng quái dị.
 
-**Komoro**: Người đầu tiên bị Negary mê hoặc, anh trai của Noah.
+**Comoro**: Người đầu tiên bị Negary mê hoặc, anh trai của Noah.
 
-**Mặt Nạ Sắt**: Cha của Komoro và Noah, bị Negary giết chết.
+**Mặt nạ sắt**: Cha của Comoro và Noah, bị Negary giết chết.
 
-**Seth I**: Người khơi mào nội loạn vương thất vương quốc Intercam.
+**Seth I**: Người khơi mào nội loạn vương thất Vương quốc Intercam.
 
-**Eldridge**: Quốc vương của vương quốc Royas, sở hữu năng lực thống trị mạnh mẽ, dường như đang nghiên cứu một loại sức mạnh đặc biệt nào đó.
+**Eldritch Andre**: Quốc vương của Vương quốc Royas, có năng lực thống trị mạnh mẽ, có vẻ đang nghiên cứu một loại sức mạnh đặc thù nào đó.
 
-**Garnan**: Crow Man, sở hữu năng lực biến đổi làn da. Ám sát thất bại và bị Jason giết chết.
+**Garnan**: Crow Men, sở hữu năng lực biến đổi da, ám sát thất bại và bị Jason giết chết.
 
-**Nozardes**: Crow Man, thất bại khi chiến đấu với Chris, tự nguyện chiến tử.
+**Nozardes**: Crow Men, thất bại trong trận chiến với Chris, tự nguyện tử trận.
 
-**Desa**: Crow Man, thất bại khi chiến đấu với Chris, sau đó không xuất hiện lại.
+**Desha**: Crow Men, thất bại trong trận chiến với Chris, sau đó không xuất hiện lại nữa.
 
-**Jacques Dakmi**: Người Cosi, chồng của Isabella, bị "Đại nghĩa" giết chết.
+**Jacques Darkmy**: Người Cauchy, chồng của Isabella, bị giết vì đại nghĩa.
 
-**Blade**: Thợ săn, dùng lưới bắt con quạ ban đầu của Negary.
+**Brad**: Thợ săn, dùng lưới vây bắt con quạ ban đầu của Negary.
 
-**Dacus**: Thợ săn, giết chết phần lớn lũ quạ ban đầu của Negary.
+**Dax**: Thợ săn, giết chết phần lớn quạ ban đầu của Negary.
 
-**Quỷ nhân Sát thủ Jack**: Một trong các Quỷ nhân. Dường như đã xảy ra sự cố trong quá trình dung hợp phụ hồn dẫn đến ngôn hành vô cùng quái đản.
-
+Về cơ bản là vậy, sau này sẽ dần bổ sung thêm.

@@ -8,17 +8,17 @@
 
 "Đi thôi, đi giết con ác quỷ đã hủy hoại con trai tôi." Người mặt nạ sắt cầm đuốc bước vào cửa, quay người nhìn bọn Chris. Dưới ánh lửa bập bùng, ông ta hiện lên vẻ vô cùng phong sương.
 
-"Đây chính là mục đích của chúng tôi." Osgood thấp giọng nói, ngữ khí vô cùng nghiêm trang.
+"Đây chính là mục đích của chúng tôi." Osgoodin thấp giọng nói, ngữ khí vô cùng nghiêm trang.
 
-Chris không nói gì thêm, bước một bước vào trong cửa. Theo sự hít thở của Hô hấp pháp, Rhythm của bản thân và môi trường xung quanh đạt đến sự khế hợp chưa từng có. Những luồng Rhythm xung quanh xoay chuyển từng chút một, vẻ mặt Chris hơi cứng lại, sau đó khôi phục lại bình thường.
+Chris không nói gì thêm, bước một bước vào trong cửa. Theo sự hít thở của Hô Hấp Pháp, Rhythm của bản thân và môi trường xung quanh đạt đến sự khế hợp chưa từng có. Những luồng Rhythm xung quanh xoay chuyển từng chút một, vẻ mặt Chris hơi cứng lại, sau đó khôi phục lại bình thường.
 
-"Sao vậy?" Osgood bước vào theo rồi hỏi.
+"Sao vậy?" Osgoodin bước vào theo rồi hỏi.
 
 "Không có gì, chỉ là Rhythm xung quanh nơi này hiện ra vẻ vô cùng bất tường, trên mảnh đất này không biết đã chôn vùi bao nhiêu sinh linh rồi." Chris trầm giọng nói. Chỉ dựa vào Rhythm để quan sát xung quanh, dường như khắp nơi đều là tiếng rên rỉ của sinh mạng trước khi chết.
 
-"Quả thực vậy, đâu đâu cũng là oán niệm." Ấn ký trên trán Osgood lóe lên, hơi có chút quái dị nhìn Chris một cái. Thông qua Ân tứ Chân tri, anh ta cảm thấy lời nói của Chris có chút vấn đề, nhưng lại không phải là nói dối.
+"Quả thực vậy, đâu đâu cũng là oán niệm." Ấn ký trên trán Osgoodin lóe lên, hơi có chút quái dị nhìn Chris một cái. Thông qua Ân tứ Chân tri, anh ta cảm thấy lời nói của Chris có chút vấn đề, nhưng lại không phải là nói dối.
 
-"Tiến về phía mục tiêu thôi, thời gian của chúng ta không còn nhiều nữa." Chris không nhìn Osgood, tiếp tục nói: "Hai người một đội, tản ra một khoảng cách nhất định, cẩn thận tiến lên. Phát hiện kẻ thù thì dùng mật hiệu liên lạc, tôi thì sẽ tiến lên một mình."
+"Tiến về phía mục tiêu thôi, thời gian của chúng ta không còn nhiều nữa." Chris không nhìn Osgoodin, tiếp tục nói: "Hai người một đội, tản ra một khoảng cách nhất định, cẩn thận tiến lên. Phát hiện kẻ thù thì dùng mật hiệu liên lạc, tôi thì sẽ tiến lên một mình."
 
 "Bột Long phấn của mỗi người đều phải cầm cho chắc. Khi gặp phải Dị Lân Giả, những bột Long phấn đó mới là cơ hội chiến thắng của chúng ta." Bột Long phấn mà Chris nói tới là một trong những vật tư chi viện của vương quốc Intercam.
 
@@ -28,7 +28,7 @@ Mặc dù những thứ liên quan đến Rồng ngày càng ít đi, nhưng vư
 
 Những bột Long phấn này chính là do Groske quyên góp một số vảy rồng xương rồng mà làm thành. Tuy rằng đa số là Á long nhưng đối phó với Dị Lân Giả đã là đủ rồi.
 
-"Ngài cẩn thận một chút." Osgood không nói gì thêm, rất nhanh đã theo kế hoạch bàn bạc từ trước, phân chia đội ngũ, cứ hai người một nhóm tản ra một khoảng cách nhất định mà tiến lên.
+"Ngài cẩn thận một chút." Osgoodin không nói gì thêm, rất nhanh đã theo kế hoạch bàn bạc từ trước, phân chia đội ngũ, cứ hai người một nhóm tản ra một khoảng cách nhất định mà tiến lên.
 
 Đây cũng là để đề phòng sự tấn công của Dị Lân Giả. Một đám người đứng cùng một chỗ, Dị Lân Giả với tốc độ cực nhanh phát động đột kích, họ thực sự khó lòng né tránh, rất dễ xuất hiện thương vong.
 
@@ -58,9 +58,9 @@ Một nữ mục sư và một Thần Ân kỵ sĩ đi cùng nhau. Họ được
 
 Bản chất của sự vật sẽ hiện ra màu sắc trong màu xám xịt đó, giúp người được ban ơn có được sức mạnh xuyên qua bóng tối và khói mù, nhìn thấy nhiều thứ mà mắt thường không thể thấy được.
 
-Việc sử dụng ân tứ còn có thể khai phá ra những năng lực cao cấp hơn, ví dụ như Osgood, anh ta thông qua Ân tứ Chân tri đã có thể đạt tới mức độ phân biệt được thiện ác của con người. Mỗi một ý niệm thoáng qua của người khác trước mặt anh ta đều sẽ lóe lên màu sắc trong tầm nhìn của anh ta, có thể dựa vào đó để phân biệt địch ta.
+Việc sử dụng ân tứ còn có thể khai phá ra những năng lực cao cấp hơn, ví dụ như Osgoodin, anh ta thông qua Ân tứ Chân tri đã có thể đạt tới mức độ phân biệt được thiện ác của con người. Mỗi một ý niệm thoáng qua của người khác trước mặt anh ta đều sẽ lóe lên màu sắc trong tầm nhìn của anh ta, có thể dựa vào đó để phân biệt địch ta.
 
-Cho nên khi người mặt nạ sắt dẫn đường, Chris mới nhìn về phía Osgood như để hỏi ý kiến vì sợ người mặt nạ sắt muốn đưa họ vào bẫy. Sau khi nhận được câu trả lời đáng tin cậy mới dẫn tất cả mọi người đi theo ông ta.
+Cho nên khi người mặt nạ sắt dẫn đường, Chris mới nhìn về phía Osgoodin như để hỏi ý kiến vì sợ người mặt nạ sắt muốn đưa họ vào bẫy. Sau khi nhận được câu trả lời đáng tin cậy mới dẫn tất cả mọi người đi theo ông ta.
 
 "Hiểu rồi." Giọng nói trầm đục của vị Thần Ân kỵ sĩ truyền ra từ dưới lớp mũ giáp. Anh ta rút kỵ sĩ kiếm ra một nửa, cảnh giác với động tĩnh xung quanh, túi hương Long phấn treo trên người hơi rung động, tỏa ra mùi của Rồng để phòng ngừa việc bị Dị Lân Giả giết chết trong nháy mắt.
 
@@ -78,4 +78,4 @@ Thần Ân kỵ sĩ không chút do dự rút kỵ sĩ kiếm ra, cảnh giác v
 * **Ân tứ Chân tri (True Knowledge Grace):** Khả năng nhìn xuyên thấu bản chất và bóng tối.
 * **Người Cosi:** Bộ tộc bản địa tại Reyastemia.
 * **Thần Ân kỵ sĩ / Nữ mục sư:** Các thành viên trong liên minh.
-* **Chris / Osgood / Negary / Crow Men:** Các thuật ngữ đã thống nhất.
+* **Chris / Osgoodin / Negary / Crow Men:** Các thuật ngữ đã thống nhất.

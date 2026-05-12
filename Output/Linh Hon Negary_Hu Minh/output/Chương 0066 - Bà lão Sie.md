@@ -1,77 +1,77 @@
-# Chương 0066 - Bà lão Sie
+# Chương 0066 - Bà Lão Sie
 
-Bà lão Sie, người đi theo bên cạnh Negary, là người đã chủ động tìm đến Reya để đầu quân từ sáu năm trước.
+Bà lão Sie, người đi theo bên cạnh Negary này, là người đã chủ động tìm đến Reya để đầu quân từ sáu năm trước.
 
-Nghề nghiệp của mụ là Phù thủy, chính là những mụ phù thủy trong truyền thuyết mà người đời thường nhắc tới.
+Nghề nghiệp của bà là Phù thủy, chính là nhân vật nữ phù thủy thường thấy trong những lời đồn đại.
 
-Xét riêng về diện mạo thì mụ rất phù hợp với hình tượng đó: khuôn mặt già nua quái dị, dáng người khòm lưng, tiếng cười quái đản. Nếu trong truyện cổ tích thì hình ảnh này đích thị là một mụ phù thủy tà ác.
+Chỉ xét về ngoại hình thì bà rất phù hợp: khuôn mặt già nua quái dị, thân hình còng xuống, tiếng cười kỳ lạ. Nếu ở trong truyện cổ tích, hình tượng này chính là một mụ phù thủy độc ác điển hình.
 
-Lời tiên tri về Thánh nữ cứu thế cũng là do bà lão Sie đề ra đầu tiên. Sau khi đưa ra lời tiên tri đó, mụ biến mất tăm, và khi xuất hiện trở lại, mụ đã chủ động dâng lên vầng trán của mình để thần phục Negary.
+Lời tiên tri về Thánh nữ cứu thế chính là do bà lão Sie đưa ra đầu tiên. Sau khi đưa ra lời tiên tri đó, bà biến mất không tăm hơi, cho đến khi xuất hiện trở lại, bà đã chủ động dâng lên lòng trung thành với Negary.
 
-Trách nhiệm chính hiện tại của bà lão Sie là giảng dạy cho Negary về huyền học, cũng như ngôn ngữ Rồng (Long ngữ) trong truyền thuyết.
+Trách nhiệm chính hiện tại của bà lão Sie là nghiên cứu thần bí học cho Negary, cùng với Ngôn ngữ rồng trong truyền thuyết.
 
-Từ rất sớm, Negary đã từ Long chi huyết giải mã được thông tin truyền thừa ẩn giấu bên trong, nhưng những thông tin đó được viết bằng Long ngữ, nên chúng gần như chẳng có tác dụng gì.
+Từ rất lâu trước đây, Negary đã từ Long chi huyết giải mã được thông tin kế thừa ẩn giấu bên trong. Tuy nhiên, những thông tin đó được viết bằng Ngôn ngữ rồng, nên chúng gần như không có tác dụng gì.
 
-Tuy bà lão Sie không quá am hiểu về Long ngữ, nhưng việc giúp Negary giải mã từng chút một thông tin trong truyền thừa thì cũng không gặp mấy khó khăn.
+Dù bà lão Sie không quá am hiểu về Ngôn ngữ rồng, nhưng việc giúp Negary giải mã từng chút một thông tin trong truyền thừa thì vẫn không thành vấn đề lớn.
 
-Negary đứng dậy khỏi ngai vàng. Cơ thể này khác biệt rất lớn với Germ Body trước kia, tỏ ra vô cùng cường tráng. Từng luồng uy áp tỏa ra từ cơ thể, từng mảnh vảy xuất hiện trên thân hình, sau đó thân hình cường tráng này bắt đầu xuất hiện từng vết rạn nứt, Hoàng kim huyết tuôn trào ra ngoài.
+Negary đứng dậy khỏi vương tọa. Cơ thể này khác xa với cơ thể virus trước đây, nó vô cùng cường tráng, từng luồng uy áp tỏa ra từ cơ thể. Những lớp vảy lốm đốm xuất hiện trên thân hình của ngài, sau đó cơ thể cường kiện này bắt đầu xuất hiện từng vết nứt, những dòng máu vàng kim tràn ra ngoài.
 
-Ngay sau đó, thân hình trực tiếp sụp đổ, hóa thành một vũng máu vàng kim. Hồn thể của Negary bước ra khỏi cơ thể, nhìn vũng chất lỏng vàng kim đó rồi lắc đầu: "Vẫn thất bại. Ta đã đứng ở đỉnh cao sức mạnh của thế giới này rồi."
+Sau đó, cơ thể trực tiếp sụp đổ, hóa thành một vũng máu vàng kim. Hồn thể của Negary bước ra từ đống đổ nát, nhìn vũng chất lỏng vàng kim kia rồi lắc đầu: "Vẫn thất bại. Ta đã đứng ở đỉnh cao sức mạnh của thế giới này rồi."
 
-"Đó cũng là chuyện không còn cách nào khác. Đối với Negary đại nhân mà nói, thế giới này quá đỗi yếu ớt." Bà lão Sie đứng bên cạnh thở dài nói: "Nhưng không cần nôn nóng, bóng tối cuối cùng sẽ đến, vào lúc đó thế giới cũng không thể ngăn cản được Negary đại nhân."
+"Đó cũng là chuyện không thể tránh khỏi. Đối với ngài Negary mà nói, thế giới này quá đỗi nhỏ bé." Bà lão Sie đứng một bên thở dài nói: "Nhưng không cần vội vã, bóng tối cuối cùng sẽ đến. Đến lúc đó, cả thế giới cũng không thể ngăn cản được ngài."
 
-Negary không đáp lời, cầm lấy một cuốn sách bên cạnh bắt đầu xem.
+Negary không đáp lời, cầm một cuốn sách bên cạnh lên bắt đầu đọc.
 
-Mụ nói không sai, nếu chỉ luận về thực lực, hắn đã đứng ở đỉnh cao của thế giới này, đạt tới mức không thể thăng tiến thêm được nữa, và hắn cũng cảm nhận được tiềm năng của mình đã hoàn toàn cạn kiệt.
+Ngài không hề nói sai. Chỉ luận về thực lực, ngài đã đứng ở đỉnh cao của thế giới này, đạt đến mức độ thăng vô khả thăng, hơn nữa ngài cũng cảm nhận được tiềm năng của mình đã hoàn toàn cạn kiệt.
 
-Hắn dù sao cũng không có Chân Linh. Tuy mượn Hồn chi huyết để trở thành Linh hồn bệnh khuẩn giúp thực lực tăng thêm lần nữa, nhưng hiện tại bất kể là đại môi trường thế giới hay là vấn đề của bản thân hắn đều đang hạn chế hắn.
+Dù sao ngài cũng không có chân linh. Mặc dù mượn nhờ Hồn chi huyết để trở thành mầm bệnh linh hồn giúp thực lực tăng thêm một bậc, nhưng hiện tại cả môi trường thế giới lẫn vấn đề của bản thân ngài đều đang hạn chế ngài.
 
-"Căn nguyên là con đường chủ yếu nhất để nâng cao thực lực cá nhân." Bà lão Sie ở một bên thuyết giảng: "Từng bước giải phóng Căn nguyên sẽ thúc đẩy linh hồn bản thân đạt được sự thăng hoa về chất, nhận được đủ loại siêu phàm chi lực."
+"Căn nguyên là con đường chính yếu nhất để nâng cao thực lực cá nhân." Bà lão Sie đứng bên cạnh thuyết giảng: "Từng bước giải phóng căn nguyên, thúc đẩy linh hồn đạt được sự thăng hoa về chất, sở hữu đủ loại sức mạnh siêu phàm."
 
-"Negary đại nhân không có Chân Linh, nên chỉ có thể thông qua các phương pháp khác để nâng cao chất lượng hồn thể của bản thân. Trong cái môi trường mà ngay cả việc giải phóng Căn nguyên lần đầu tiên cũng khó lòng thực hiện được này, Negary đại nhân nâng cao chất lượng linh hồn tới mức độ này đã là cực hạn rồi."
+"Ngài Negary không có chân linh, nên chỉ có thể thông qua các phương pháp khác để nâng cao chất lượng hồn thể. Trong môi trường mà ngay cả việc giải phóng căn nguyên lần đầu tiên cũng khó lòng thực hiện được này, việc ngài nâng cao chất lượng linh hồn đến mức này đã là giới hạn rồi."
 
-"Cho dù lão thân đã giải phóng Căn nguyên lần đầu tiên, sức mạnh linh hồn của lão thân vẫn yếu hơn Negary đại nhân. Đây chính là điểm khiến ta sùng bái ngài nhất." Bà lão Sie tràn đầy kính trọng nói.
+"Dù lão thân đã giải phóng căn nguyên lần thứ nhất, nhưng sức mạnh linh hồn của lão thân vẫn yếu hơn ngài. Đây chính là điểm khiến lão thân sùng bái ngài nhất." Bà lão Sie đầy vẻ thành kính nói.
 
-"Vẫn chưa đủ. Đối với ta, như vậy vẫn còn xa mới đủ." Negary nhìn cuốn sách trong tay chậm rãi nói.
+"Vẫn chưa đủ. Đối với ta, vẫn còn xa mới đủ." Negary nhìn cuốn sách trong tay, chậm rãi nói.
 
-Thứ Negary đang xem là những cuốn sách lịch sử do hắn thu thập được, ngoài ra còn có đủ loại du ký và thần thoại truyền thuyết.
+Thứ Negary đang đọc là những cuốn sách lịch sử ngài thu thập được, ngoài ra còn có đủ loại du ký và thần thoại truyền thuyết.
 
-Lịch sử thế giới này còn khá cổ xưa. Trước đế quốc Trilansia của người Cauchy, có ghi chép về tổng cộng ba đế quốc, lần lượt là: đế quốc Lomihit, đế quốc Reit và đế quốc Moy.
+Lịch sử thế giới này còn khá cổ xưa. Trước Đế quốc Triliansia của người Cauchy, có tổng cộng ba đế quốc được ghi chép lại: Đế quốc Lomihite, Đế quốc Raite và Đế quốc Moi.
 
-Tên của ba đế quốc này trong ngôn ngữ người Cauchy lần lượt có nghĩa là: Sinh Mệnh, Vinh Quang và Thủ Hộ. Còn ý nghĩa của Trilansia thuộc về người Cauchy chính là Hy Vọng.
+Tên của ba đế quốc này trong ngôn ngữ của người Cauchy lần lượt có nghĩa là Sinh mệnh, Vinh quang và Thủ hộ. Còn ý nghĩa của Triliansia của người Cauchy chính là Hy vọng.
 
-Thần thoại truyền thuyết truyền lại từ ba quốc gia có đôi chút khác biệt, nhưng đều có thể tìm thấy một vài điểm chung.
+Thần thoại truyền thuyết truyền lại từ ba quốc gia này có đôi chút khác biệt, nhưng đều có thể tìm thấy một số điểm chung.
 
 Ví dụ như về sự khởi đầu của thế giới, mô tả của họ đều là một luồng ánh sáng trắng xóa.
 
-Cách nói của người Cauchy là: luồng ánh sáng đó đã giết chết Thủy tổ vạn vật, cơ thể Thủy tổ đã sinh ra tất cả. Cách nói của Lomihit là: luồng ánh sáng đó khiến Thần giới vỡ mất một góc, góc đó rơi rụng xuống hóa thành thế giới này.
+Cách nói của người Cauchy là: luồng ánh sáng đó đã giết chết Thủy tổ vạn vật, cơ thể Thủy tổ sinh ra tất cả. Cách nói của Lomihite là: luồng ánh sáng đó khiến Thần giới vỡ mất một góc, góc đó rơi xuống và hóa thành thế giới này.
 
-Sau luồng ánh sáng đó, thế giới mới thực sự xuất hiện. Vào thời đại đế quốc thứ nhất Lomihit, khi đó tầng thứ sức mạnh rõ ràng cao hơn hiện tại nhiều, lúc ấy thực sự có thần linh dạo bước nhân gian.
+Sau luồng ánh sáng đó, thế giới mới thực sự xuất hiện. Vào thời Đế quốc thứ nhất Lomihite, cấp độ sức mạnh rõ ràng cao hơn hiện tại rất nhiều, lúc đó thực sự có thần linh bước đi trên nhân gian.
 
-Hô Hấp Pháp cũng là từ thời đại đó truyền lại. Đến nay, những người kế thừa Hô Hấp Pháp vẫn còn giữ một ước định cổ xưa, dường như Hô Hấp Pháp có liên quan tới một chuyện vô cùng quan trọng nào đó.
+Hô Hấp Pháp cũng được truyền lại từ thời kỳ đó. Cho đến nay, những người kế thừa Hô Hấp Pháp vẫn còn giữ những ước định cổ xưa, dường như Hô Hấp Pháp có liên quan đến một việc cực kỳ quan trọng nào đó.
 
-Nói cũng lạ, Hô Hấp Pháp suy cho cùng chỉ là một phương thức cảm tri Rhythm, nhưng phương pháp này lại có điểm kỳ quái: nó chỉ có thể do nhân loại thi triển. Mặc dù Negary am hiểu tường tận Hô Hấp Pháp nhưng nếu hắn không nắm quyền điều khiển cơ thể nhân loại thì không thể thi triển được.
+Nói cũng lạ, Hô Hấp Pháp suy cho cùng chỉ là một phương thức cảm nhận Rhythm, nhưng phương pháp này lại có điểm kỳ quái: nó chỉ có thể do nhân loại thi triển. Dù Negary am tường Hô Hấp Pháp, nhưng nếu ngài không nắm giữ cơ thể nhân loại thì cũng không thể thi triển được.
 
-Tên Aldrich kia dường như đã có được thứ gì đó từ đế quốc thứ nhất, từ đó mới tạo ra đội quân Mạt Thần.
+Eldritch, gã kia dường như đã có được thứ gì đó từ Đế quốc thứ nhất, vì thế mới tạo ra quân đoàn Mạt Thần.
 
-Sự diệt vong của đế quốc thứ nhất có chút không minh bạch, đến nay vẫn là một bí ẩn. Ngoài ra, vào thời đế quốc thứ nhất, nghe nói không hề có thứ gọi là Tà Linh.
+Sự diệt vong của Đế quốc thứ nhất có phần không rõ ràng, đến nay vẫn là một ẩn số. Ngoài ra, nghe nói vào thời Đế quốc thứ nhất không hề có thứ gọi là Tà Linh.
 
-Trải qua một thời gian dài hỗn loạn, đế quốc thứ hai Reit mới thành lập. Sự xuất hiện lần đầu tiên của Tà Linh cũng là ở đế quốc thứ hai, và Thần Ân giáo cũng dựa trên một thứ gì đó truyền lại từ đế quốc thứ hai mà thành lập nên.
+Sau khi trải qua một thời kỳ hỗn loạn dài lâu, Đế quốc thứ hai Raite mới được thành lập. Sự xuất hiện đầu tiên của Tà Linh cũng là vào thời Đế quốc thứ hai, và Thần Ân giáo cũng được xây dựng dựa trên một thứ gì đó truyền lại từ thời kỳ này.
 
-Sự diệt vong của đế quốc thứ hai thì có vẻ bình thường hơn. Khi đó vương thất nắm giữ quyền lực tuyệt đối, áp bức lâu dài các chủng tộc khác, cuối cùng đủ loại khởi nghĩa bùng nổ, đế quốc thứ hai diệt vong, đế quốc thứ ba nhanh chóng được thành lập.
+Sự diệt vong của Đế quốc thứ hai thì có vẻ bình thường hơn. Khi đó, những người nắm quyền vương thất nắm giữ quyền lực tuyệt đối, áp bức lâu dài các chủng tộc khác, cuối cùng hàng loạt cuộc khởi nghĩa nổ ra khiến Đế quốc thứ hai diệt vong. Đế quốc thứ ba nhanh chóng được thành lập sau đó.
 
-Đế quốc thứ ba - đế quốc Moy, thời gian tồn tại rất ngắn. Dường như sau khi lập quốc, họ đã chiến đấu một trận với một thế lực không xác định, vương thất và phần lớn quân đội diệt vong một cách không hiểu thấu. Điều này mới tạo cơ hội cho người Cauchy thành lập nên đế quốc thứ tư Trilansia.
+Đế quốc thứ ba Moi tồn tại trong thời gian rất ngắn. Dường như sau khi lập quốc không lâu, họ đã chiến đấu với một thế lực ẩn danh một lần. Vương thất và phần lớn quân đội diệt vong một cách bí ẩn, chính điều này đã tạo cơ hội cho người Cauchy thành lập Đế quốc thứ tư Triliansia.
 
-Đáng tiếc Trilansia cũng bị phân rã dưới sự phá hoại của một Tà Linh có trí tuệ nào đó. Cuối cùng cục diện biến thành hình thái như hiện tại: người Cauchy rải rác khắp nơi, vài vương quốc đồng thời tồn tại, ngoài ra còn có nhiều quốc gia nhỏ lẻ, một đế quốc thống nhất đại lục không bao giờ xuất hiện nữa.
+Đáng tiếc là Triliansia cũng tan rã dưới sự phá hoại của một Tà Linh có trí tuệ. Cuối cùng cục diện biến thành hình dạng như hiện tại: người Cauchy tản lạc khắp nơi, vài vương quốc đồng thời tồn tại, ngoài ra còn có nhiều quốc gia nhỏ. Một đế quốc thống nhất đại lục không bao giờ xuất hiện lại nữa.
 
-Trong Thần Ân giáo gọi Tà Linh là Họa loạn chi nguyên, là một loại sai lầm. Cùng với sự trôi qua của thời gian, Tà Linh càng nhiều thì sẽ dẫn tới sự cận kề của một loại tai họa nào đó.
+Trong Thần Ân giáo, họ gọi Tà Linh là Họa loạn chi nguyên, là một sự sai lầm. Theo thời gian trôi qua, Tà Linh càng nhiều thì sẽ dẫn đến sự cận kề của một thảm họa nào đó.
 
-Thế giới này dường như đang ẩn chứa bí mật gì đó, có mối quan hệ không tầm thường với Hô Hấp Pháp, Thần Ân giáo và Tà Linh, còn cả thuộc tính Tuyệt Vận của thế giới này nữa.
+Thế giới này dường như ẩn giấu bí mật gì đó, có mối quan hệ không bình thường với Hô Hấp Pháp, Thần Ân giáo và Tà Linh, cùng với thuộc tính Tuyệt Vận của thế giới này.
 
-Bà lão Sie thông qua tu hành phù thủy đã giải phóng Căn nguyên của bản thân một lần, cũng chính là Chân Linh. Mụ nhận được một loại năng lực tương tự như dự tri, mụ tìm tới Negary, thuật lại tương lai mà mụ nhìn thấy.
+Bà lão Sie thông qua tu hành vu thuật đã giải phóng căn nguyên của bản thân một lần, tức là chân linh. Bà có được một năng lực tương tự như tiên tri. Bà đã tìm đến Negary và kể về tương lai mà bà nhìn thấy.
 
-Trong tương lai, một bóng tối tuyệt vọng sẽ giáng lâm, và đi theo Negary chính là lối thoát duy nhất trong kỷ nguyên bóng tối đó.
+Trong tương lai, bóng tối tuyệt vọng sẽ giáng xuống, và đi theo Negary chính là lối thoát duy nhất trong kỷ nguyên bóng tối.
 
-Trong những lời này thật giả khó phân, nhưng vì bà lão Sie đã dâng lên vầng trán cho hắn, lại tinh thông phù thủy và có hiểu biết về Long ngữ, có giá trị không nhỏ, nên Negary tự nhiên đã chấp nhận sự trung thành của mụ.
+Trong những lời nói này không phân biệt được thật giả, nhưng vì bà lão Sie đã dâng lên lòng trung thành, lại tinh thông vu thuật và am hiểu Ngôn ngữ rồng, có giá trị không nhỏ, nên Negary tự nhiên chấp nhận sự trung thành của bà.
 
-Cũng chính nhờ sự giúp đỡ của mụ, Negary mới có thể nhanh chóng bước tới đỉnh cao sức mạnh của thế giới này như vậy. Xét thấy mụ đã dạy cho hắn không ít kiến thức, giá trị bản thân không thấp, nên Negary cũng dành cho mụ một sự tôn trọng, gọi mụ là bà lão Sie.
+Cũng chính nhờ sự giúp đỡ của bà mà Negary mới có thể nhanh chóng bước tới đỉnh cao sức mạnh của thế giới này. Xét thấy bà đã dạy ngài không ít kiến thức, bản thân bà cũng có giá trị không thấp, nên Negary cũng dành cho bà một sự tôn trọng, gọi bà là bà lão Sie.

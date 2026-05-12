@@ -1,79 +1,79 @@
-# Chương 0063 - Hậu quả
+# Chương 0063 - Diễn biến tiếp theo
 
-"Vậy Jason, ngươi định đi đâu?" Smik Lancher thấp giọng hỏi.
+"Vậy Jason, anh định đi đâu?" Smic Lancher khẽ hỏi.
 
-Ở phía đối diện, Jason Todd đang khoác trên mình một bộ trường bào, trầm mặc không nói.
+Ở đối diện anh ta, Jason Todd đang khoác một chiếc áo bào dài, giữ im lặng không nói lời nào.
 
-Nghe lời của Smik, Jason đưa tay ra. Nhát đao đó của Smik, xét theo nghĩa hẹp thì đã cứu sống hắn, nhưng cũng đồng thời đẩy hắn vào một vực thẳm nào đó.
+Nghe lời của Smic, Jason đưa tay ra. Nhát đao đó của Smic, xét về mặt nghiêm túc thì đã cứu sống anh ta, nhưng cũng đồng thời đẩy anh ta vào một vực thẳm nào đó.
 
-Chỉ thấy trên tay Jason đã xuất hiện những vết tử thi, hắn có thể cảm nhận được nhục thân của mình đang chết dần, đang chậm rãi thối rữa.
+Chỉ thấy trên tay Jason đã xuất hiện những vết tử thi, anh ta có thể cảm nhận được cơ thể mình đang chết đi, đang từ từ thối rữa.
 
-Hơi thở của hắn đã ngừng, trái tim cũng không còn đập, nhưng hắn vẫn còn sống.
+Hơi thở của anh ta đã ngừng, trái tim cũng không còn đập, nhưng anh ta vẫn còn sống.
 
-"Nơi này đã không còn an toàn nữa. Tay chân của Negary đang lùng sục tung tích của chúng ta khắp nơi. Lần này chúng ta đã hoàn toàn thất bại." Thần sắc Smik có chút hốt hoảng. Mặc dù thua một cách có chút không hiểu thấu, nhưng thua chính là thua.
+"Ở đây đã không còn an toàn nữa, tay sai của Negary đang lùng sục tung tích của chúng ta khắp nơi. Lần này chúng ta đã hoàn toàn thất bại." Smic thần sắc có chút thẫn thờ, mặc dù thua một cách có phần mơ hồ, nhưng thua vẫn là thua.
 
-"Hay là ngươi đi cùng ta về đi. Ngươi muốn báo thù, và cả trạng thái hiện tại của ngươi nữa, ta tin rằng vương quốc Royas đều có cách giải quyết." Smik tiếp tục nói.
+"Hay là anh theo tôi về đi, anh muốn báo thù, còn tình trạng hiện tại của anh nữa, tôi tin rằng Vương quốc Royas đều có cách giải quyết." Smic tiếp tục nói.
 
-"Không cần đâu, ta vốn dĩ là một kẻ chỉ tồn tại vì mục đích báo thù, đối với trạng thái hiện tại cũng không có gì không hài lòng." Jason rốt cuộc cũng lên tiếng. Hắn đứng dậy, cơ thể hơi lảo đảo: "Ta cần tới một nơi để tìm kiếm sức mạnh báo thù."
+"Không, vốn dĩ tôi chỉ là một kẻ tồn tại vì mục đích báo thù, đối với tình trạng hiện tại cũng không có gì bất mãn." Cuối cùng Jason cũng lên tiếng, anh ta đứng dậy, cơ thể hơi lảo đảo: "Tôi cần phải đi tới một nơi để tìm kiếm sức mạnh báo thù."
 
-Lần này bị kẻ địch nghiền ép, trong trận chiến với Negary cũng căn bản không phát huy được bất kỳ tác dụng hiệu quả nào, Jason đã nhận thức sâu sắc được sự yếu kém của bản thân. Hắn cần phải trở nên mạnh mẽ hơn.
+Lần này bị kẻ thù nghiền nát, trong cuộc đối đầu với Negary cũng hoàn toàn không đóng được vai trò hiệu quả nào, Jason đã nhận thức sâu sắc về sự yếu kém của bản thân, anh ta cần phải trở nên mạnh mẽ hơn.
 
-Vài năm trước, hắn đã từ bỏ cơ hội đó vì tỷ lệ thành công của thứ đó không đủ, không thành công chính là cái chết. Vì muốn báo thù, hắn đã chọn từ bỏ, còn hiện tại hắn muốn một lần nữa theo đuổi thứ đó, cũng là vì báo thù.
+Vài năm trước, anh ta đã từ bỏ cơ hội đó vì tỷ lệ thành công không cao, không thành công nghĩa là chết. Vì báo thù, anh ta đã chọn từ bỏ, còn bây giờ anh ta lại đi theo đuổi thứ đó một lần nữa, cũng là vì báo thù.
 
-"Làm ơn hãy sắp xếp cho ta một con Hào Tư thú, ta cần phải tới nơi đó trước khi cơ thể hoàn toàn thối rữa." Jason nghiêm túc nói.
+"Làm ơn sắp xếp cho tôi một con thú House, tôi cần phải tới đó trước khi cơ thể hoàn toàn thối rữa." Jason nghiêm túc nói.
 
-"Không vấn đề gì." Smik nói. Nhìn Jason biến thành bộ dạng hiện tại, trong lòng hắn cũng ẩn hiện một tia áy náy. Nhìn thanh đoản đao trong tay, trong mắt hắn vô tình thoáng qua một tia sáng vàng kim.
+"Không thành vấn đề." Smic nói. Đối với việc Jason trở nên như hiện tại, trong lòng anh ta cũng thoáng qua một tia áy náy. Nhìn thanh Scimitar trong tay, trong mắt anh ta vô tình lướt qua một tia sáng kim sắc.
 
-Ở một phía khác, Luen Dona cũng tìm được Rivers đã hơi hồi phục, thông báo cho ông tin tức bi thảm này: Myerson phản bội, giám mục Osgood cùng những người khác đều đã hy sinh, lực lượng chi viện của Thần Ân giáo chỉ còn lại bọn họ.
+Ở phía bên kia, Luen Donna cũng tìm thấy Reavers vừa mới hồi phục đôi chút, thông báo cho ông tin tức bi thảm này: Mylson phản bội, Giám mục Osgoodin cùng những người khác đều đã hy sinh, lực lượng chi viện của Thần Ân giáo chỉ còn lại hai người bọn họ.
 
-"Tìm mẹ con Isabella, chúng ta cần nhanh chóng quay về Intercam. Negary, tên Tà Linh này nhất định phải tìm cách hạn chế!" Luen thần sắc bi thương, trải nghiệm lần này ước chừng sẽ ảnh hưởng tới hắn cả đời: "Gelosk đâu?"
+"Tìm mẹ con Isabella, chúng ta cần nhanh chóng quay về Intercam. Negary - Tà Linh này nhất định phải tìm cách kiềm chế!" Luen thần sắc bi thương, trải nghiệm lần này ước chừng sẽ ảnh hưởng đến anh ta cả đời: "Grosk đâu?"
 
-"Không rõ lắm, lúc ta tỉnh lại đã ở đây rồi." Rivers trầm giọng nói.
+"Không rõ lắm, lúc tôi tỉnh lại thì đã ở đây rồi." Reavers trầm giọng nói.
 
-"Làm ơn hãy đi theo tôi. Thuộc hạ của Negary đang mượn danh nghĩa tìm kiếm tội phạm đào tẩu để thanh trừng các thế lực khác nhau, nếu không đi ngay chúng ta thật sự sẽ không đi nổi nữa." Gelosk kịp thời chạy tới nói: "Mẹ con Isabella đang ở chỗ của tôi."
+"Làm ơn đi theo tôi, thuộc hạ của Negary đang mượn danh nghĩa tìm kiếm tội phạm để thanh trừng các thế lực, không đi ngay thì chúng ta thực sự không đi nổi nữa đâu." Grosk kịp thời chạy tới nói: "Mẹ con Isabella đang ở chỗ tôi."
 
-Gelosk đưa hai người tới nơi cư trú bí mật. Ở đây đã chuẩn bị sẵn xe ngựa, mẹ con Isabella cũng đang ở trên xe. Dặn dò hộ vệ đưa họ rời khỏi Reya, Gelosk chọn một mình ở lại, nói là còn có việc cần xử lý.
+Grosk đưa hai người đến nơi ở bí mật, ở đây đã chuẩn bị sẵn xe ngựa, mẹ con Isabella cũng đang ở trên xe. Dặn dò hộ vệ đưa họ rời khỏi Reya, Grosk chọn ở lại một mình, nói là còn việc cần xử lý.
 
-Nhìn xe ngựa dần đi xa, Gelosk thở dài một tiếng. Ở một bên, Yadre với khuôn mặt mọc vảy bước ra, nở một nụ cười khó coi nói: "Rất tốt, Gelosk, ngươi đã đưa ra lựa chọn đúng đắn."
+Nhìn chiếc xe ngựa dần đi xa, Grosk thở dài một tiếng. Ở một bên, Yadrei với những lớp vảy mọc trên mặt bước ra, nặn ra một nụ cười khó coi nói: "Tốt lắm, Grosk, ông đã đưa ra lựa chọn chính xác."
 
-"Xúc tu bám rễ nơi tim ngươi thì cứ để nó ở đó đi. Yên tâm đi, thứ đó không lấy mạng ngươi đâu, chỉ cần ngươi giữ kín cái miệng của mình là được." Yadre nói, nhìn chiếc xe ngựa đã biến mất tăm, trong mắt thoáng qua một tia suy tư.
+"Những xúc tu bám rễ ở tim ông cứ để đó đi. Yên tâm, nó không lấy mạng ông đâu, miễn là ông giữ kín cái miệng của mình." Yadrei nói, nhìn theo chiếc xe ngựa đã biến mất, trong mắt thoáng qua một tia suy tư.
 
-Vốn dĩ Negary đại nhân nắm chặt lấy Nara trong tay, vậy mà lần này lại chủ động để người của Thần Ân giáo đưa Nara đi, hẳn là Thần Ân giáo sau này sẽ chẳng bao giờ có được ngày bình yên nữa rồi. Yadre cười một tiếng, ngay cả chính hắn cũng không nhận ra trong mắt mình thoáng qua một tia sắc vàng.
+Vốn dĩ ngài Negary nắm chặt Nara trong tay, vậy mà lần này lại chủ động để người của Thần Ân giáo đưa Nara đi, chắc hẳn sau này Thần Ân giáo sẽ không còn ngày nào bình yên nữa. Yadrei cười một tiếng, ngay cả bản thân anh ta cũng không nhận ra trong mắt mình lướt qua một tia kim sắc.
 
-Nara ngồi trên xe ngựa, trong mắt một tia sáng vàng kim lướt qua.
+Nara ngồi trên xe ngựa, trong mắt tia sáng vàng kim lướt qua trong chớp mắt.
 
-Mọi thứ dường như đã ngã ngũ, trận chiến này Negary đã hoàn toàn thắng lợi. Chỉ có điều sau trận chiến này, số người từng thấy Negary ngày càng ít đi. Các thế lực ở Reyastemia bị đội quân Quỷ Nhân quét sạch.
+Mọi thứ dường như đã ngã ngũ, trận chiến này Negary đã thắng hoàn toàn. Chỉ có điều sau trận chiến này, số người nhìn thấy Negary ngày càng ít đi, các thế lực tại Reyastemia bị quân đoàn Quỷ Nhân tiến hành đại thanh trừng.
 
-Một lượng lớn thế lực bị thu phục hoặc đánh tan, vùng Reya vốn dĩ dần thoát khỏi tầm kiểm soát giờ đây một lần nữa quay về trong tay người Cauchy, chính xác mà nói là quay về trong tay Negary.
+Lượng lớn thế lực bị thu phục hoặc đánh tan, Reya vốn đang dần thoát khỏi tầm kiểm soát một lần nữa quay lại tay người Cauchy, chính xác mà nói là quay lại tay Negary.
 
-Smik đã thuận lợi quay về vương quốc Royas. Hành động nhắm vào Reya lần này thất bại khiến hắn chịu sự xử phạt. Trong gia tộc Lancher, về đề nghị hắn trở thành tộc trưởng dường như cũng có người đưa ra ý kiến phản đối.
+Smic đã thuận lợi quay về Vương quốc Royas. Hành động lần này nhắm vào Reya thất bại khiến anh ta bị xử phạt. Trong gia tộc Lancher, đề nghị về việc anh ta trở thành tộc trưởng dường như cũng có người đưa ra ý kiến phản đối.
 
-Smik ngồi trong thư phòng, bên hông đang treo thanh đoản đao đó. Hắn thở dài một tiếng, để giữ lấy vị trí tộc trưởng tương lai, cha hắn đã sắp xếp cho hắn một cuộc hôn nhân chính trị. Tương lai của hắn có lẽ phần nhiều sẽ là tước sĩ Lancher chứ không thể là quân nhân Smik được nữa.
+Smic ngồi trong thư phòng, bên hông treo thanh Scimitar, thở dài một tiếng. Để giữ vững vị trí tộc trưởng tương lai, cha anh ta đã sắp xếp cho anh ta một cuộc hôn nhân chính trị, tương lai của anh ta có lẽ sẽ là một Ngài Lancher nhiều hơn là quân nhân Smic.
 
-Điều khiến hắn lo lắng hơn cả là cơ thể đã vượt qua giới hạn của nhân loại này. Hắn nhìn thanh đoản đao bên hông, tự nhiên biết rõ nguyên nhân vì sao. Tuy rằng ý chí tà ác đó chưa từng xuất hiện thêm một lần nào nữa, nhưng hắn vẫn có một cảm giác bất tường.
+Điều khiến anh ta lo lắng hơn là cơ thể đã vượt quá giới hạn nhân loại của mình. Anh ta nhìn thanh Scimitar bên hông, tự nhiên biết tại sao lại như vậy. Mặc dù ý chí tà ác đó chưa từng xuất hiện thêm lần nào, nhưng anh ta vẫn luôn có một cảm giác điềm gở.
 
-Ở một phía khác, Jason cả người bọc trong áo bào, tỏa ra một mùi hôi thối khó ngửi. Động tác của hắn trở nên vô cùng chậm chạp khi bước vào một hẻm núi, nơi này là trụ sở của tổ chức Thánh Cốc.
+Ở một nơi khác, Jason quấn mình trong chiếc áo bào, tỏa ra mùi hôi thối khó ngửi, động tác của anh ta trở nên cực kỳ chậm chạp, bước vào một hẻm núi. Đây là tổng bộ của tổ chức Thánh Cốc.
 
-Cái gọi là tổ chức Thánh Cốc là một nhóm tổ chức sát thủ huyền bí. Vì một lý tưởng nào đó, họ rèn luyện kỹ năng giết người, đi khắp thế giới tìm kiếm một thứ gì đó, và Jason từng học tập tại đây.
+Cái gọi là tổ chức Thánh Cốc là một nhóm sát thủ bí ẩn. Vì lý tưởng nào đó, họ rèn luyện kỹ năng giết người, đi khắp thế giới tìm kiếm một thứ gì đó. Và Jason từng học tập tại đây.
 
-"Vì sao ngươi quay lại?" Trong cốc một giọng nói không ngừng vang vọng.
+"Tại sao ngươi quay lại?" Trong cốc một giọng nói liên tục vang vọng.
 
-Jason cởi bỏ áo bào, lộ ra cơ thể đã thối rữa đến mức không còn nhìn rõ diện mục, dùng giọng khàn khàn nói: "Vì báo thù, ta không còn lựa chọn nào khác."
+Jason cởi bỏ áo bào, lộ ra cơ thể đã thối rữa đến mức biến dạng, dùng chất giọng khàn khàn nói: "Vì báo thù, tôi không còn lựa chọn nào khác."
 
-"Nguyện sinh mệnh che chở cho ta!"
+"Nguyện sinh mệnh che chở tôi!"
 
-...
+............
 
-"Chính cục có biến, sự tồn tại của cháu tốt nhất vẫn là đừng để cho người khác biết." Vì tác dụng phụ của Hy Sinh Ân Tứ, Rivers đã không còn khả năng chiến đấu nữa, vì vậy ông đã rút khỏi vị trí Thần Ân chiến sĩ.
+"Chính cục có biến, sự tồn tại của cháu tốt nhất vẫn không nên để ai biết." Vì tác dụng phụ của sự ân tứ hy sinh, Reavers đã không còn khả năng chiến đấu, vì thế ông đã rút khỏi vị trí Thần Ân hiệp sĩ.
 
-Chỉ thấy ông mang một bộ đồ nam giới tới trước mặt Nara, nghiêm túc nói: "Tuổi của cháu vẫn còn nhỏ, có thể tạm thời cải trang thành con trai. Ta sẽ dạy cháu chiến đấu, tuy rằng thể chất của cháu không thích hợp với ân tứ của Chủ nhưng có Hô Hấp Pháp của Chris, cháu nhất định có thể trở thành một chiến sĩ mạnh mẽ."
+Chỉ thấy ông mang một bộ đồ nam giới đến trước mặt Nara, thần sắc nghiêm túc nói: "Tuổi của cháu còn nhỏ, có thể giả trang thành con trai trước. Ta sẽ dạy cháu chiến đấu. Mặc dù thể chất của cháu không thích hợp với sự ân tứ của Chủ nhân, nhưng có Hô Hấp Pháp của Chris, cháu nhất định có thể trở thành một chiến binh mạnh mẽ."
 
-"Cháu hiểu rồi, thưa chú Rivers. Cháu sẽ tập luyện chăm chỉ." Nara gật cái đầu nhỏ nói.
+"Cháu hiểu rồi, thưa chú Reavers, cháu sẽ luyện tập chăm chỉ." Nara gật cái đầu nhỏ nói.
 
-"Ngoài ra vài ngày tới, ta còn phải đi tới Tarroy một chuyến." Rivers thở dài nói. Tarroy là một tiểu quốc nằm ở hướng khác của Intercam.
+"Ngoài ra vài ngày tới, ta còn phải đi Tarroy một chuyến." Reavers thở dài nói. Tarroy là một quốc gia nhỏ nằm ở hướng khác của Intercam.
 
-"Hửm?" Nara nghi vấn nhìn Rivers.
+"Dạ?" Nara nghi vấn nhìn Reavers.
 
-Chỉ thấy Rivers xách một chiếc hòm, bên trong có nhiều món đồ lặt vặt hỗn độn: có huân chương, có khúc xương của loại dã thú nào đó, đều là những món đồ có ý nghĩa kỷ niệm. Rivers nói: "Đây là đồ đạc của ngài Chris, Tarroy là quê hương của ngài ấy. Ngài ấy còn có một đứa con trai chừng tuổi như cháu, ta cần phải giao những thứ này lại cho nó."
+Chỉ thấy Reavers xách một chiếc hộp, bên trong có rất nhiều đồ vật hỗn tạp, có huân chương, có xương cốt của loài dã thú nào đó, đều là những vật kỷ niệm. Reavers nói: "Đây là đồ vật của ngài Chris. Tarroy là quê hương của ngài Chris, ông ấy còn có một người con trai trạc tuổi cháu, ta cần phải giao những thứ này cho cậu bé."
 
-Cũng không lâu sau đó, cuộc chiến giữa Royas và Intercam cuối cùng cũng bùng nổ.
+Cũng không lâu sau đó, cuộc chiến giữa Royas và Intercam cuối cùng đã bùng nổ.

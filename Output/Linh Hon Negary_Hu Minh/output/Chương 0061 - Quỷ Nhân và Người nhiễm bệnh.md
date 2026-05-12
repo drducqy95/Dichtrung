@@ -1,75 +1,75 @@
-# Chương 0061 - Quỷ Nhân và Người nhiễm bệnh
+# Chương 0061 - Quỷ Nhân và Người Nhiễm Bệnh
 
-"Nara, đói chưa?" Isabella nhỏ giọng hỏi.
+"Nara, đói chưa?" Isabella khẽ hỏi.
 
-Vị trí hiện tại của họ là một căn nhà bí mật của Gelosk. Với tư cách là thương nhân buôn lậu, tay chân đương nhiên không sạch sẽ gì cho cam. Để đảm bảo an toàn cho bản thân, lão ta đã xây dựng không ít căn nhà bí mật để làm nơi trú ẩn an toàn.
+Vị trí hiện tại của họ là căn nhà bí mật của Grosk. Là một thương nhân buôn lậu, tay chân tự nhiên chẳng mấy sạch sẽ, để đảm bảo an toàn cho bản thân, ông ta đã xây dựng không ít nhà bí mật làm nơi ẩn náu.
 
-"Để ta đi chuẩn bị thức ăn cho hai người." Gelosk an ủi nói: "Ước chừng không bao lâu nữa sẽ có tin tốt truyền tới thôi, không cần quá lo lắng."
+"Tôi đi chuẩn bị thức ăn cho hai người nhé." Grosk trấn an: "Ước chừng không bao lâu nữa sẽ có tin tốt truyền tới, không cần quá lo lắng đâu."
 
-"Cảm ơn ngài!" Isabella nhỏ giọng cảm tạ. Không hiểu sao cô luôn có một cảm giác bất tường, chỉ hy vọng là bản thân nghĩ quá nhiều mà thôi.
+"Cảm ơn ông!" Isabella khẽ khàng cảm ơn. Không hiểu sao cô luôn có một cảm giác bất an, chỉ mong là mình nghĩ quá nhiều.
 
-Nara Dakmi nhìn Gelosk đứng dậy rời đi, sâu trong đôi đồng tử đen kịt thoáng qua một tia sắc vàng, khí chất cũng bắt đầu từng chút một thay đổi.
+Nara Darkmy nhìn Grosk đứng dậy rời đi, trong con ngươi đen kịt thoáng qua một tia kim sắc, khí chất cũng bắt đầu từng chút một thay đổi.
 
-Gelosk bước ra khỏi căn nhà bí mật, thần sắc bắt đầu trở nên không đúng lắm, trên mặt thoáng qua một tia áy náy. Lão không hề đi chuẩn bị thức ăn mà trực tiếp rời khỏi nơi này.
+Grosk bước ra khỏi căn nhà bí mật, thần sắc bắt đầu trở nên không ổn, trên mặt thoáng qua một tia áy náy. Ông ta không đi chuẩn bị thức ăn mà trực tiếp rời khỏi nơi này.
 
-Sau khi Gelosk rời đi, một đội người mặt không cảm xúc tiến về phía căn nhà nhỏ. Họ đến từ Mật Lệnh của vương quốc Intercam, một tổ chức sát thủ trực thuộc Seth I, chuyên môn thay Seth I hoàn thành những việc không thể đưa ra ánh sáng. Và mục tiêu lần này chính là giết chết Nara - Thánh nữ cứu thế trong lời tiên tri.
+Sau khi Grosk rời đi, một đội ngũ với khuôn mặt vô cảm tiến về phía căn nhà nhỏ. Họ mang theo mật lệnh từ Vương quốc Intercam, thuộc tổ chức sát thủ trực thuộc Seth I, chuyên đi thực hiện những việc không thể đưa ra ánh sáng cho ông ta. Và mục tiêu lần này chính là giết chết Nara - Thánh nữ cứu thế trong lời tiên tri.
 
-Cuộc đấu tranh quyền lực của một quốc gia luôn biến ảo khôn lường. Gelosk dù sao cũng chỉ là một thương nhân buôn lậu, hành vi của lão bị giới quý tộc Intercam khống chế.
+Cuộc đấu tranh quyền lực của quốc gia luôn biến ảo khôn lường. Grosk dù sao cũng chỉ là một thương nhân buôn lậu, hành vi của ông ta bị các quý tộc của Intercam khống chế.
 
-Isabella không biết vì sao đột nhiên cảm thấy đầu váng mắt hoa. Khi nhận ra có điều bất thường thì đã không còn chút sức lực nào, trực tiếp ngất đi. Nara, không, hiện tại nên gọi là Negary, đang mở đôi mắt vàng kim nhìn chằm chằm ra cửa.
+Isabella đột nhiên cảm thấy chóng mặt không rõ lý do. Khi nhận ra có điều bất thường thì đã không còn chút sức lực nào, trực tiếp ngất đi. Nara - không, bây giờ nên gọi là Negary - mở đôi mắt vàng kim nhìn ra cửa.
 
-Nguyên liệu của Hồn chi huyết là Long chi huyết lấy từ Nara. Hồn chi huyết và Long chi huyết có thể coi là hai mặt của một vấn đề. Trong khoảng thời gian này, các tạp chất trong linh hồn của Nara liên tục bị hấp thu, hình thành nên Đệ nhị nhân cách Negary thuộc về Nara, còn Nara thì càng trở nên thuần khiết hơn.
+Nguyên liệu của Hồn chi huyết là Long chi huyết lấy từ Nara. Hồn chi huyết và Long chi huyết có thể coi là hai mặt của một vấn đề. Thời gian qua, tạp chất linh hồn của Nara liên tục bị hấp thụ, hình thành nhân cách thứ hai mang tên Negary thuộc về Nara, còn Nara cũng trở nên thuần khiết hơn.
 
-Bên trong cơ thể Nara là Long chi huyết chứ không phải Hồn chi huyết. Negary ở trong cơ thể cô thuộc về phe khách, nếu không phải nhờ vào tạo hóa về linh hồn của Negary vượt xa cô rất nhiều thì lần này cũng khó lòng ra ngoài nắm quyền điều khiển cơ thể.
+Bên trong cơ thể Nara là Long chi huyết, không phải Hồn chi huyết. Negary ở trong cơ thể cô thuộc về phe khách, nếu không nhờ vào trình độ về linh hồn vượt xa cô thì lần này Negary cũng khó lòng hiện thân nắm giữ cơ thể.
 
-Đội Mật Lệnh không hề nói lời nào, trực tiếp phá cửa xông vào, giơ vũ khí chém về phía mục tiêu. Mặc dù mục tiêu là một thiếu nữ vô cùng đáng yêu nhưng những kẻ trong tổ chức Mật Lệnh này sẽ không có chút cảm xúc thương hại nào.
+Đội mật lệnh không nói một lời, trực tiếp phá cửa xông vào, giơ vũ khí chém về phía mục tiêu. Mặc dù mục tiêu là một thiếu nữ vô cùng đáng yêu, nhưng những kẻ trong tổ chức mật lệnh này sẽ không có chút lòng thương hại nào.
 
-Dù là người già, trẻ nhỏ, phụ nữ hay học giả, chỉ cần là mục tiêu thì nhất định phải giết chết.
+Dù là người già, trẻ nhỏ, phụ nữ hay học giả, chỉ cần là mục tiêu thì phải giết chết.
 
-Chỉ là khoảnh khắc tiếp theo, thiếu nữ đó bỗng mỉm cười. Một nỗi sợ hãi đến từ linh hồn ngay lập tức tràn ngập trong lòng gã sát thủ Mật Lệnh này. Cho dù đã trải qua biết bao đợt đặc huấn tàn nhẫn vô nhân đạo, tình cảm đã đạm bạc tới cực điểm, chỉ còn lại nhiệm vụ, nhưng gã sát thủ vẫn bị nỗi sợ hãi nguồn gốc từ linh hồn này dọa sợ.
+Thế nhưng khắc sau thiếu nữ đó lại nở nụ cười. Một nỗi sợ hãi từ sâu trong linh hồn ngay lập tức tràn ngập tâm trí tên sát thủ mật lệnh này. Dù đã trải qua bao nhiêu đợt huấn luyện đặc biệt tàn nhẫn, tình cảm đã nhạt nhẽo đến cực điểm, chỉ còn biết tới nhiệm vụ, nhưng tên sát thủ vẫn bị nỗi sợ hãi nguồn gốc từ linh hồn này dọa sợ.
 
-Trong nháy mắt đó, gã theo bản năng dừng lại mọi động tác, nhưng vẫn là muộn rồi.
+Trong giây lát đó, hắn bản năng dừng mọi động tác, nhưng vẫn đã muộn.
 
-"Thứ thức ăn có tình cảm đạm bạc này chẳng có nửa điểm giá trị sử dụng. Đã như vậy thì tất cả đi chết hết đi." Negary hít thở, thân hình nháy mắt biến mất trong căn phòng. Chiến đấu với Smik lâu như vậy, dù chỉ là một phân hồn mang nhiều ý chí chiến đấu, Negary cũng có tổng cộng mười tám cơ hội để giết chết Smik. Sở dĩ để hắn sống sót tự nhiên là vì thuật Quang Lưu của hắn.
+"Thứ thức ăn nhạt nhẽo tình cảm, chẳng có chút giá trị sử dụng nào. Nếu đã vậy thì tất cả đi chết đi." Negary hít thở, thân hình lập tức biến mất trong căn phòng. Chiến đấu với Smic lâu như vậy, dù chỉ là một phân hồn thiên về chiến ý, Negary cũng có tổng cộng mười tám cơ hội để giết chết Smic. Sở dĩ để anh ta sống tự nhiên là vì Quang Lưu Hô Hấp Pháp của anh ta.
 
-Bên trong Trường cảm giác của Negary, bí ẩn của Quang Lưu đã bị phân tích sạch sành sanh. Bàn tay nhỏ trắng muốt trực tiếp đâm xuyên vào cổ gã sát thủ Mật Lệnh, không hề dừng lại, mang theo máu tươi bay tán loạn. Negary tiến tới trước mặt những sát thủ Mật Lệnh khác, không chút do dự giết chết bọn họ.
+Trong trường cảm giác của Negary, bí mật của Quang Lưu Hô Hấp Pháp đã bị phân tích sạch sẽ. Đôi bàn tay nhỏ bé trắng trẻo trực tiếp cắm vào cổ tên sát thủ mật lệnh, không hề dừng lại, kéo theo máu tươi bắn tung tóe. Negary tiến đến trước mặt những tên sát thủ mật lệnh khác, không chút do dự giết chết bọn chúng.
 
-Chỉ trong vài phút ngắn ngủi, toàn bộ đám sát thủ Mật Lệnh này đều đã tử vong. Đối với Negary mà nói thì chính là như vậy, hắn không có nhiều cảm xúc vô vị. Có ích thì Negary ngay cả phân hồn cũng có thể tống táng cho bọn họ, còn không có ích thì cứ đi chết đi.
+Chỉ trong vài phút, toàn bộ đám sát thủ mật lệnh này đều tử vong. Đối với Negary là vậy, ngài không có quá nhiều cảm xúc vô nghĩa. Nếu có giá trị, Negary thậm chí có thể hy sinh cả phân hồn cho họ; còn không có giá trị thì hãy đi chết đi.
 
-Trên trời quạ kêu râm ran, mang những thi thể này bay lên không trung. Negary lau sạch vết máu trên tay, chậm rãi chìm sâu vào trong huyết mạch. Mặc dù Hồn chi huyết đã hoàn thành nhưng Nara vẫn là vật thí nghiệm quan trọng, nếu không Negary cũng chẳng muốn ra ngoài chi phối cơ thể vào lúc này.
+Trên bầu trời quạ kêu thảm thiết, mang những thi thể này bay lên không trung. Negary lau sạch vết máu trên tay, chậm rãi chìm sâu vào huyết mạch. Mặc dù Hồn chi huyết đã hoàn thành, nhưng Nara vẫn là vật thí nghiệm quan trọng, nếu không Negary cũng không muốn lúc này ra ngoài chi phối cơ thể.
 
-...
+............
 
-Smik mang theo Jason cùng Luen bỏ chạy. Smik đã bị lây nhiễm Hồn chi huyết, thuộc về mục tiêu tốt nhất nên được thả đi. Luen mang phẩm chất của loại thức ăn đỉnh cấp, giờ giết thì còn quá sớm, hơn nữa còn cần hắn đưa Nara quay về Intercam.
+Smic đã dẫn Jason cùng Luen chạy trốn. Smic đã bị Hồn chi huyết lây nhiễm, thuộc về mục tiêu tốt nhất để tha cho. Luen có phẩm chất để trở thành thức ăn đỉnh cấp, giờ giết thì còn quá sớm, hơn nữa còn cần anh ta đưa Nara về Intercam.
 
-Về phần Jason, hắn bị mảnh xương sọ do Quỷ Nhân Connor Kenway ném trúng, nội tạng đã vỡ nát, ước chừng không trụ được bao lâu nữa sẽ chết. Nếu có thể sống sót thì hắn sẽ có tư chất trở thành thực phẩm đỉnh cấp, còn nếu không thì chết ở Reya, Tàn hồn của hắn cũng không chạy thoát được.
+Còn về Jason, anh ta bị mảnh xương sọ do Quỷ Nhân Connor Kenway ném trúng, nội tạng đã vỡ nát, ước chừng không trụ được bao lâu nữa sẽ chết. Nếu có thể sống sót thì anh ta sẽ có tư chất trở thành thực phẩm đỉnh cấp; còn nếu không, chết ở Reya thì tàn hồn của anh ta cũng không thoát nổi.
 
-Noah nâng niu Tàn hồn của Chris, tiến về phía Myerson đang quỳ trên mặt đất. Lúc này Myerson đã hoàn toàn hắc hóa, kẻ đã gián tiếp hại chết Osgood như hắn đã không còn đường lui, chỉ có thể đâm lao phải theo lao.
+Noah bưng tàn hồn của Chris, tiến về phía Mylson đang quỳ rạp dưới đất. Lúc này Mylson đã hoàn toàn hắc hóa. Gián tiếp hại chết Osgoodin, anh ta đã không còn đường lui, chỉ có thể đi một con đường đến cùng.
 
-"Negary đại nhân đã có sắp xếp cho ngươi rồi." Noah đứng trước mặt Myerson, chậm rãi nói: "Tiếp nhận Tàn hồn của Chris, trở thành thủ lĩnh đội quân Quỷ Nhân."
+"Ngài Negary đã có sự sắp xếp cho ngươi rồi." Noah đến trước mặt Mylson, chậm rãi nói: "Tiếp nhận tàn hồn của Chris, trở thành thủ lĩnh của quân đoàn Quỷ Nhân."
 
 "Quỷ Nhân?"
 
-"Đúng vậy. Crow Men là những người được cấy mầm bệnh Black Crow, vì dừng chân không tiến nên trong trận chiến lần này coi như đã bị xóa sổ. Không lâu nữa đội quân Crow Men sẽ được cải tổ." Noah giới thiệu: "Còn Quỷ Nhân là đội quân mới thành lập, khác biệt hoàn toàn với Crow Men."
+"Đúng vậy, Crow Men là những người được cấy ghép mầm bệnh Black Crow. Vì dậm chân tại chỗ nên trong trận chiến này coi như đã bị tiêu diệt. Không lâu sau quân đoàn Crow Men sẽ được cải tổ." Noah giới thiệu: "Còn Quỷ Nhân là quân đoàn mới được thành lập, khác biệt hoàn toàn với Crow Men."
 
 "Hiện tại thành viên thực sự chỉ có ba người, ngươi là người thứ tư, cũng là thủ lĩnh sắp nhậm chức."
 
-"Cái gọi là Quỷ Nhân chính là cấy ghép Phụ hồn." Noah đặt Tàn hồn của Chris trước mặt Myerson và nói: "Phụ hồn định sẵn cho ngươi chính là Tàn hồn của Chris, ngươi sẽ nhận được năng lực của ông ta. Tất nhiên để có thể cấy ghép thành công Tàn hồn, ngươi cần phải được cải tạo thành Hoạt tử nhân trước đã."
+"Cái gọi là Quỷ Nhân, chính là cấy ghép phụ hồn." Noah đặt tàn hồn của Chris trước mặt Mylson nói: "Phụ hồn dự định cho ngươi chính là tàn hồn của Chris. Ngươi sẽ nhận được năng lực của ông ta. Tất nhiên để có thể cấy ghép thành công tàn hồn, ngươi cần phải được cải tạo thành xác sống trước."
 
-"Cơ thể của ngươi sẽ được cải tạo toàn diện. Những điểm yếu như tim, hầu họng, đầu não sẽ bị loại bỏ. Ngươi không cần hô hấp, không cần ăn uống nữa." Noah lạnh lùng nói: "Tất nhiên ngươi cũng sẽ nhận được năng lực mà ngươi hằng mong ước, năng lực có nguồn gốc từ bệnh tật."
+"Cơ thể của ngươi sẽ trải qua một cuộc cải tạo toàn diện. Các điểm yếu như tim, họng, đầu của ngươi sẽ bị loại bỏ. Ngươi không cần hít thở, không cần ăn uống." Noah lạnh lùng nói: "Tất nhiên ngươi cũng sẽ nhận được năng lực mà ngươi hằng mơ ước, năng lực có nguồn gốc từ bệnh tật."
 
-"Cảm tạ ân tứ của ngài, Negary đại nhân!" Myerson đón lấy Tàn hồn của Chris, trầm giọng nói.
+"Cảm ơn sự ân tứ của ngài, thưa ngài Negary!" Mylson nhận lấy tàn hồn của Chris, trầm giọng nói.
 
-Smik cõng Jason tới một cứ điểm của vương quốc Royas ở Reya. Jason đã hôn mê bất tỉnh, Rhythm sinh mệnh yếu tới cực điểm, có thể tử vong bất cứ lúc nào.
+Smic cõng Jason đến một căn cứ của Vương quốc Royas ở Reya. Jason đã hôn mê, Rhythm sinh mệnh yếu đến cực điểm, có thể tử vong bất cứ lúc nào.
 
-Luen không biết đã rời đi từ lúc nào. Hắn đi tìm Thần Ân chiến sĩ Rivers, sau đó muốn đưa mẹ con Isabella nhanh chóng rời khỏi Reya.
+Luen không biết đã rời đi từ lúc nào. Anh ta đi tìm Thần Ân hiệp sĩ Reavers, sau đó muốn đưa mẹ con Isabella nhanh chóng rời khỏi Reya.
 
-Smik nhìn Jason, thở dài một tiếng. Dù sao cũng đã cùng nhau chiến đấu, nếu có thể hắn cũng không muốn Jason cứ thế mà chết đi.
+Smic nhìn Jason, thở dài một tiếng. Dù sao cũng đã cùng chiến đấu, nếu có thể anh ta cũng không muốn Jason cứ thế mà chết đi.
 
-Nhìn thanh đoản đao đang lưu chuyển hào quang kỳ lạ trong tay, một ý nghĩ đột nhiên hiện ra trong đầu Smik. Thanh đao này có thể cứu hắn.
+Nhìn thanh Scimitar trong tay đang tỏa ra ánh sáng kỳ lạ, một ý nghĩ đột nhiên xuất hiện trong đầu Smic: thanh đao này có thể cứu Jason.
 
-Ôm đầu mình, Smik liên tục hít thở, kiểm tra Rhythm của bản thân nhưng không phát hiện ra ý chí tà ác bất tường tới cực điểm của Negary. Trái lại, cơ thể hắn ngày càng cường tráng, thậm chí đột phá giới hạn trong quá khứ.
+Che lấy đầu mình, Smic liên tục hít thở, kiểm tra Rhythm của bản thân, nhưng không phát hiện ra ý chí tà ác điềm gở đến cực điểm của Negary. Ngược lại, cơ thể anh ta ngày càng mạnh mẽ, thậm chí đột phá giới hạn trong quá khứ.
 
-Trong mắt Smik một tia sáng vàng kim lóe lên rồi biến mất. Hắn cầm đoản đao nhắm thẳng vào trái tim Jason đâm xuống.
+Trong mắt Smic thoáng qua tia sáng kim sắc, anh ta nhấc thanh Scimitar đâm thẳng vào tim Jason.
 
-Jason trợn to mắt, tỉnh lại từ trong cơn hôn mê. Hắn có thể cảm nhận được, có thứ gì đó bên trong mình đã trở nên khác biệt.
+Jason trợn trừng mắt, tỉnh lại từ cơn hôn mê. Anh ta có thể cảm nhận được, bản thân mình có thứ gì đó đã trở nên khác biệt.

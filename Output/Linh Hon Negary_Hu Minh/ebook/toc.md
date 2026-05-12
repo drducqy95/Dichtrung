@@ -39,7 +39,7 @@
 - Chương 0039: Dị Lân Giả (Thượng)
 - Chương 0040: Dị Lân Giả (Hạ)
 - Chương 0041: Thần Ân giáo
-- Chương 0042: Hô hấp pháp
+- Chương 0042: Hô Hấp Pháp
 - Chương 0043: Liên minh
 - Chương 0044: Chuẩn bị
 - Chương 0045: Mười lăm người (Một)
@@ -58,13 +58,23 @@
 - Chương 0058: Negary (Tám)
 - Chương 0059: Negary (Chín)
 - Chương 0060: Negary (Hoàn)
-- Chương 0061: Quỷ Nhân và Người nhiễm bệnh
+- Chương 0061: Quỷ Nhân và Người Nhiễm Bệnh
 - Chương 0062: Jack House
-- Chương 0063: Hậu quả
+- Chương 0063: Diễn biến tiếp theo
 - Chương 0064: Danh sách nhân vật
-- Chương 0065: Bảy năm chiến tranh
-- Chương 0066: Bà lão Sie
+- Chương 0065: Bảy Năm Chiến Tranh
+- Chương 0066: Bà Lão Sie
 - Chương 0067: Seth
-- Chương 0068: Vương nữ
+- Chương 0068: Công Chúa
 - Chương 0069: Les Laval
 - Chương 0070: Thiếu nữ cầm kiếm
+- Chương 0071: Cuốn Sách Quái Vật
+- Chương 0072: Heals - Kẻ Cầu Nguyện Trở Về Hắc Uyên
+- Chương 0073: Nghi Thức
+- Chương 0074: Đáp Lễ
+- Chương 0075: Căn Bản Không Có Hy Vọng Và Hơi Ấm
+- Chương 0076: Morlis Bất Khả Trắc
+- Chương 0077: Giáng Lâm
+- Chương 0078: Long Ngữ
+- Chương 0079: Ba Vị Thần Bước Ra Từ Sơ Hỏa
+- Chương 0080: Anh Hùng Chi Long

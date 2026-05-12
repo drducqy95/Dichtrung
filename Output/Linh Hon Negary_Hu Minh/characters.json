@@ -2,7 +2,7 @@
   "metadata": {
     "version": "1.0",
     "project": "Linh Hồn Negary",
-    "last_updated": "2026-05-11T08:28:00+07:00"
+    "last_updated": "2026-05-11T21:47:11.446205"
   },
   "characters": [
     {
@@ -86,7 +86,7 @@
       "role": "Phụ",
       "description": "Thành viên đội săn người Cosi, hy sinh bản thân để bẫy lũ quạ của Negary.",
       "notes": "",
-      "pending_sync": true
+      "pending_sync": false
     },
     {
       "name_original": "雅克",
@@ -95,7 +95,7 @@
       "role": "Thứ chính",
       "description": "Đội trưởng đội hộ vệ làng người Cosi, bạn thân của Dacus.",
       "notes": "Đã bị tế phẩm.",
-      "pending_sync": true
+      "pending_sync": false
     },
     {
       "name_original": "村长",
@@ -104,7 +104,7 @@
       "role": "Phụ",
       "description": "Trưởng làng người Cosi, bị Vương Uyên ám hại bằng chuột biến dị để lập uy.",
       "notes": "Đã chết.",
-      "pending_sync": true
+      "pending_sync": false
     },
     {
       "name_original": "伊莎贝拉",
@@ -113,16 +113,16 @@
       "role": "Phụ",
       "description": "Vợ của Jacques, người gia tộc Tagore, tín đồ Thần Ân giáo.",
       "notes": "",
-      "pending_sync": true
+      "pending_sync": false
     },
     {
       "name_original": "娜拉",
-      "name_translated": "Nala",
+      "name_translated": "Nara",
       "gender": "nữ",
       "role": "Thứ chính",
-      "description": "Con gái chưa chào đời của Jacques và Isabella.",
-      "notes": "",
-      "pending_sync": true
+      "description": "Con gái của Jacques và Isabella, Thánh nữ cứu thế, Long chi nữ.",
+      "notes": "Huyết mạch Tagore.",
+      "pending_sync": false
     },
     {
       "name_original": "村长的孙女",
@@ -131,7 +131,7 @@
       "role": "Phụ",
       "description": "Bị Nal-beast cắn và bị Vương Uyên giết chết để trừ hậu họa.",
       "notes": "Đã chết.",
-      "pending_sync": true
+      "pending_sync": false
     },
     {
       "name_original": "森",
@@ -140,7 +140,7 @@
       "role": "Phụ",
       "description": "Thành viên đội hộ vệ đột kích, bạn thuở nhỏ của Komodo, từng làm bị thương một con quạ.",
       "notes": "",
-      "pending_sync": true
+      "pending_sync": false
     },
     {
       "id": "char_003",
@@ -222,6 +222,60 @@
       "role": "Phản diện",
       "description": "Nữ Crow Men thực dụng, coi mình là bậc thang của Negary.",
       "status": "active"
+    },
+    {
+      "name_original": "莱斯·拉瓦尔",
+      "name_translated": "Les Laval",
+      "gender": "nam",
+      "role": "Thứ chính",
+      "description": "Quý tộc sa sút, người hỗ trợ Nara, có tài mưu lược.",
+      "notes": "Được Negary chú ý.",
+      "pending_sync": false
+    },
+    {
+      "name_original": "谟尔莉斯",
+      "name_translated": "Mollis",
+      "gender": "nữ",
+      "role": "Phản diện",
+      "description": "Tiểu thư quý tộc lãnh địa Scoro, bị Heals biến thành Tà Linh Đoạt Thủ giả.",
+      "notes": "Mollis Bất Khả Trắc.",
+      "pending_sync": false
+    },
+    {
+      "name_original": "艾米",
+      "name_translated": "Amy",
+      "gender": "nữ",
+      "role": "Phụ",
+      "description": "Thị nữ của Mollis, bị Heals giết để làm tế phẩm.",
+      "notes": "Đã chết.",
+      "pending_sync": false
+    },
+    {
+      "name_original": "艾伦·威尔斯",
+      "name_translated": "Alan Wells",
+      "gender": "nam",
+      "role": "Phụ",
+      "description": "Nguyên soái quân đội Intercam, trấn thủ Colomier.",
+      "notes": "",
+      "pending_sync": false
+    },
+    {
+      "name_original": "卡达",
+      "name_translated": "Kada",
+      "gender": "nam",
+      "role": "Phản diện",
+      "description": "Quý tộc Royas, chỉ huy quân vây hãm Colomier.",
+      "notes": "",
+      "pending_sync": false
+    },
+    {
+      "name_original": "阿尔克斯·鲁伊",
+      "name_translated": "Arks Rui",
+      "gender": "nam",
+      "role": "Phụ",
+      "description": "Hiệp sĩ Intercam, người kế thừa Cương Lưu Pháp, thần phục Nara.",
+      "notes": "",
+      "pending_sync": false
     }
   ]
 }

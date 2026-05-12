@@ -56,7 +56,7 @@ Những kẻ bị nhiễm Long huyết này, tinh thần của họ đã bị Lo
 
 Hai hộ vệ thân tín của thương nhân đều là những chiến binh mạnh mẽ, những năm đầu cũng là những lính đánh thuê lừng lẫy, có kinh nghiệm chiến đấu phong phú. Groske vẫn luôn mang họ theo bên mình để bảo vệ an toàn cho bản thân. Hiện tại phái họ ra ngoài cũng đã đưa ra lời hứa, bất kể họ có thể trở về hay không cũng sẽ ban cho phần thưởng cực lớn.
 
-Trong đó thứ khiến họ động tâm nhất chính là tiến cử họ tới Học viện Hoàng gia Kỵ sĩ của Intercam để tu nghiệp. Ở đó có khả năng học được Hô hấp pháp.
+Trong đó thứ khiến họ động tâm nhất chính là tiến cử họ tới Học viện Hoàng gia Kỵ sĩ của Intercam để tu nghiệp. Ở đó có khả năng học được Hô Hấp Pháp.
 
 Còn nếu họ không thể trở về, thì gia đình họ cũng sẽ nhận được bồi thường, suất đi học tại Học viện Hoàng gia Kỵ sĩ đó cũng có thể giao cho con cái của họ.
 

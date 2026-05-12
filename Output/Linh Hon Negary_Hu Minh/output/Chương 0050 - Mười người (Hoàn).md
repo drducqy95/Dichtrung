@@ -2,9 +2,9 @@
 
 "Tình hình thế nào rồi?" Người hỏi câu này là một hộ vệ khác dưới trướng Groske. Đi cùng đội với anh ta là một Thần Ân kỵ sĩ khác. Vẻ mặt vị hộ vệ hiện lên vô cùng trầm trọng, rõ ràng đã biết tin hai hộ vệ khác đã tử vong.
 
-"Tôi đã lợi dụng Hô hấp pháp để điều tiết lại Rhythm cho anh ta, tính mạng coi như giữ được rồi. Tuy nhiên vẫn cần phải điều trị sớm, nếu không anh ta có thể sẽ cả đời không tỉnh lại được." Chris đứng dậy.
+"Tôi đã lợi dụng Hô Hấp Pháp để điều tiết lại Rhythm cho anh ta, tính mạng coi như giữ được rồi. Tuy nhiên vẫn cần phải điều trị sớm, nếu không anh ta có thể sẽ cả đời không tỉnh lại được." Chris đứng dậy.
 
-Cơ thể của Rivers tựa vào căn nhà, nhắm nghiền mắt đã hôn mê bất tỉnh. Hy sinh ân tứ đã khiến anh ta thấu chi quá nhiều. Nếu không phải Chris kịp thời chạy tới lợi dụng Hô hấp pháp để xoa dịu di chứng cho anh ta, ước tính hiện tại anh ta đã là một cái xác rồi.
+Cơ thể của Rivers tựa vào căn nhà, nhắm nghiền mắt đã hôn mê bất tỉnh. Tế Hiến Ân Tứ đã khiến anh ta thấu chi quá nhiều. Nếu không phải Chris kịp thời chạy tới lợi dụng Hô Hấp Pháp để xoa dịu di chứng cho anh ta, ước tính hiện tại anh ta đã là một cái xác rồi.
 
 Ở phía bên kia, vị Thần Ân kỵ sĩ đang lăm lăm kỵ sĩ kiếm để phòng ngừa tên Crow Men bị bắt làm tù binh chạy trốn, nhân tiện chuẩn bị hỏi han tình báo. Dù sao những Crow Men trước đó đều mang dáng vẻ có thể vì Negary mà xả thân quên mình, vậy mà hiện tại tên Crow Men này lại ngồi xổm ở đó, nhận thấy Chris đang nhìn mình còn nặn ra một nụ cười đẹp đẽ với Chris.
 
@@ -64,7 +64,7 @@ Trên ngai vàng xương trắng, Negary một tay chống cằm, trên mặt ma
 
 ---
 **Ghi chú cuối chương:**
-* **Khao khát sống sót (Desire for survival):** Một loại "đặc chất" mà Negary thu hoạch từ Crow Men.
+* **Khao khát sống sót:** Một loại "đặc chất" mà Negary thu hoạch từ Crow Men.
 * **Bổ khuyết bản thân:** Mục đích của Negary khi tạo ra Crow Men là để thu thập các đặc điểm tinh thần đa dạng của nhân loại.
 * **Người hoàng hôn / Sers I:** Các thuật ngữ đã thống nhất.
 * **Chris / Rivers / Negary / Crow Men / Dị Lân Giả:** Các thuật ngữ đã thống nhất.
