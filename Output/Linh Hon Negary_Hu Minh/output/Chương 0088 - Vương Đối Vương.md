@@ -46,11 +46,11 @@ Trước khi Aldrich đưa ra dược tễ Mạt Thần, Tổ linh giáp trụ c
 
 Thực tế thì loại Tổ linh này ở một mức độ nào đó khá giống với phó hồn của Negary. Tuy nhiên khác biệt ở chỗ phó hồn của Negary đã tiến hành Thứ cấp căn nguyên giác tỉnh, mặc dù thoát ly khỏi chân linh căn nguyên nhưng lại đạt được một loại siêu năng lực.
 
-Còn Tổ linh thì khác, họ từ bỏ giác tỉnh thứ cấp, từ bỏ cảm giác trường, từ bỏ cái tôi để đạt được một Can thiệp lực cực mạnh.
+Còn Tổ linh thì khác, họ từ bỏ giác tỉnh thứ cấp, từ bỏ Trường cảm giác, từ bỏ cái tôi để đạt được một Lực can thiệp cực mạnh.
 
-Royas gắn chúng lên giáp trụ, tìm kiếm những người có sự khế hợp với loại Tổ linh này để họ khoác lên bộ giáp, từ đó nhận được sự gia trì của Can thiệp lực. Sau khi trải qua huấn luyện nhất định, đó chính là những chiến binh "bách nhân địch" thực thụ.
+Royas gắn chúng lên giáp trụ, tìm kiếm những người có sự khế hợp với loại Tổ linh này để họ khoác lên bộ giáp, từ đó nhận được sự gia trì của Lực can thiệp. Sau khi trải qua huấn luyện nhất định, đó chính là những chiến binh "bách nhân địch" thực thụ.
 
-"Gia trì Can thiệp lực lên kiếm, cho nên mới không bị phá hủy sao?" Negary thầm nghĩ.
+"Gia trì Lực can thiệp lên kiếm, cho nên mới không bị phá hủy sao?" Negary thầm nghĩ.
 
 Mấy vị kỵ sĩ không hề dừng lại, giơ Knight sword xông thẳng về phía Negary. Negary không hề né tránh mà ném thanh Scimitar trong tay về phía Aldrich vẫn đang đứng dưới pho tượng.
 
@@ -64,21 +64,21 @@ Aldrich còn chưa kịp thở dài, một luồng sức mạnh khổng lồ t�
 
 Nếu phản ứng của Aldrich chậm đi một chút, bàn tay này sẽ cắm thẳng vào hốc mắt, sau đó trực tiếp lột phăng nắp hộp sọ, khuấy nát toàn bộ não bộ bên trong.
 
-Can thiệp lực khổng lồ tuôn trào như sóng vỗ, khiến chủ nhân của bàn tay này chỉ có thể lộn ngược ra sau, lộ ra hình dáng thật sự.
+Lực can thiệp khổng lồ tuôn trào như sóng vỗ, khiến chủ nhân của bàn tay này chỉ có thể lộn ngược ra sau, lộ ra hình dáng thật sự.
 
 "Negary!" Aldrich lẩm nhẩm cái tên của đối phương. Thông qua việc giáng lâm vào cơ thể Smic để thu hút sự chú ý, bản thân lại ẩn nấp trong bóng tối, chớp lấy thời cơ thực hiện một đòn chí mạng. Sát thủ đỉnh cao nhất lục địa e là cũng chỉ đến trình độ này mà thôi.
 
-"*jliost*!" Những ngôn từ kỳ quái phối hợp với Long uy, sức mạnh hủy diệt đánh tan Can thiệp lực của Aldrich trong không khí. Không hề có ý định giao đàm, Negary trực tiếp tung một đấm vào đầu Aldrich.
+"*jliost*!" Những ngôn từ kỳ quái phối hợp với Long uy, sức mạnh hủy diệt đánh tan Lực can thiệp của Aldrich trong không khí. Không hề có ý định giao đàm, Negary trực tiếp tung một đấm vào đầu Aldrich.
 
 Thứ đỏ trắng văng tung tóe lên pho tượng đá phía sau. Long nhãn của Negary xoay chuyển, không hề lơi lỏng cảnh giác. Thi thể không đầu của Aldrich dưới chân từ từ tan biến, lộ ra bản chất hư ảo của nó.
 
-"Quả nhiên không thể xem thường được mà." Uy áp trên người Negary ngày càng nặng nề. Aldrich đã lợi dụng khoảnh khắc hắn bị Can thiệp lực đẩy lùi để tạo ra ảo ảnh, né tránh đòn tất sát tiếp theo của Negary.
+"Quả nhiên không thể xem thường được mà." Uy áp trên người Negary ngày càng nặng nề. Aldrich đã lợi dụng khoảnh khắc hắn bị Lực can thiệp đẩy lùi để tạo ra ảo ảnh, né tránh đòn tất sát tiếp theo của Negary.
 
 ***
 
 **Chú thích:**
 - **Tổ linh giáp trụ (Ancestral Spirit Armor):** Loại giáp chứa tàn hồn của các chiến binh vĩ đại, mang lại sức mạnh khổng lồ cho người mặc.
-- **Can thiệp lực (Interference Force):** Sức mạnh ý chí có khả năng tác động trực tiếp lên vật chất và quy luật.
+- **Lực can thiệp (Interference Force):** Sức mạnh ý chí có khả năng tác động trực tiếp lên vật chất và quy luật.
 - **Thứ cấp căn nguyên giác tỉnh (Secondary Root Awakening):** Một trạng thái tiến hóa linh hồn của Negary, thoát ly khỏi sự ràng buộc của thế giới.
 - **jliost:** Một từ trong Long ngữ, mang hàm nghĩa hủy diệt hoặc vỡ vụn.
 - **Hồn chi huyết (Soul Blood):** Máu của Negary chứa đựng ý chí và sự ô nhiễm linh hồn.

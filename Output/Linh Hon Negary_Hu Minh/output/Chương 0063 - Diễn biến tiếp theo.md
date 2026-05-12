@@ -24,17 +24,17 @@ Vài năm trước, anh ta đã từ bỏ cơ hội đó vì tỷ lệ thành c�
 
 "Không thành vấn đề." Smic nói. Đối với việc Jason trở nên như hiện tại, trong lòng anh ta cũng thoáng qua một tia áy náy. Nhìn thanh Scimitar trong tay, trong mắt anh ta vô tình lướt qua một tia sáng kim sắc.
 
-Ở phía bên kia, Luen Donna cũng tìm thấy Reavers vừa mới hồi phục đôi chút, thông báo cho ông tin tức bi thảm này: Mylson phản bội, Giám mục Osgoodin cùng những người khác đều đã hy sinh, lực lượng chi viện của Thần Ân giáo chỉ còn lại hai người bọn họ.
+Ở phía bên kia, Luen Donna cũng tìm thấy Rivers vừa mới hồi phục đôi chút, thông báo cho ông tin tức bi thảm này: Mylson phản bội, Giám mục Osgoodin cùng những người khác đều đã hy sinh, lực lượng chi viện của Thần Ân giáo chỉ còn lại hai người bọn họ.
 
-"Tìm mẹ con Isabella, chúng ta cần nhanh chóng quay về Intercam. Negary - Tà Linh này nhất định phải tìm cách kiềm chế!" Luen thần sắc bi thương, trải nghiệm lần này ước chừng sẽ ảnh hưởng đến anh ta cả đời: "Grosk đâu?"
+"Tìm mẹ con Isabella, chúng ta cần nhanh chóng quay về Intercam. Negary - Tà Linh này nhất định phải tìm cách kiềm chế!" Luen thần sắc bi thương, trải nghiệm lần này ước chừng sẽ ảnh hưởng đến anh ta cả đời: "Groske đâu?"
 
-"Không rõ lắm, lúc tôi tỉnh lại thì đã ở đây rồi." Reavers trầm giọng nói.
+"Không rõ lắm, lúc tôi tỉnh lại thì đã ở đây rồi." Rivers trầm giọng nói.
 
-"Làm ơn đi theo tôi, thuộc hạ của Negary đang mượn danh nghĩa tìm kiếm tội phạm để thanh trừng các thế lực, không đi ngay thì chúng ta thực sự không đi nổi nữa đâu." Grosk kịp thời chạy tới nói: "Mẹ con Isabella đang ở chỗ tôi."
+"Làm ơn đi theo tôi, thuộc hạ của Negary đang mượn danh nghĩa tìm kiếm tội phạm để thanh trừng các thế lực, không đi ngay thì chúng ta thực sự không đi nổi nữa đâu." Groske kịp thời chạy tới nói: "Mẹ con Isabella đang ở chỗ tôi."
 
-Grosk đưa hai người đến nơi ở bí mật, ở đây đã chuẩn bị sẵn xe ngựa, mẹ con Isabella cũng đang ở trên xe. Dặn dò hộ vệ đưa họ rời khỏi Reya, Grosk chọn ở lại một mình, nói là còn việc cần xử lý.
+Groske đưa hai người đến nơi ở bí mật, ở đây đã chuẩn bị sẵn xe ngựa, mẹ con Isabella cũng đang ở trên xe. Dặn dò hộ vệ đưa họ rời khỏi Reya, Groske chọn ở lại một mình, nói là còn việc cần xử lý.
 
-Nhìn chiếc xe ngựa dần đi xa, Grosk thở dài một tiếng. Ở một bên, Yadrei với những lớp vảy mọc trên mặt bước ra, nặn ra một nụ cười khó coi nói: "Tốt lắm, Grosk, ông đã đưa ra lựa chọn chính xác."
+Nhìn chiếc xe ngựa dần đi xa, Groske thở dài một tiếng. Ở một bên, Yadrei với những lớp vảy mọc trên mặt bước ra, nặn ra một nụ cười khó coi nói: "Tốt lắm, Groske, ông đã đưa ra lựa chọn chính xác."
 
 "Những xúc tu bám rễ ở tim ông cứ để đó đi. Yên tâm, nó không lấy mạng ông đâu, miễn là ông giữ kín cái miệng của mình." Yadrei nói, nhìn theo chiếc xe ngựa đã biến mất, trong mắt thoáng qua một tia suy tư.
 
@@ -44,7 +44,7 @@ Nara ngồi trên xe ngựa, trong mắt tia sáng vàng kim lướt qua trong c
 
 Mọi thứ dường như đã ngã ngũ, trận chiến này Negary đã thắng hoàn toàn. Chỉ có điều sau trận chiến này, số người nhìn thấy Negary ngày càng ít đi, các thế lực tại Reyastemia bị quân đoàn Quỷ Nhân tiến hành đại thanh trừng.
 
-Lượng lớn thế lực bị thu phục hoặc đánh tan, Reya vốn đang dần thoát khỏi tầm kiểm soát một lần nữa quay lại tay người Cauchy, chính xác mà nói là quay lại tay Negary.
+Lượng lớn thế lực bị thu phục hoặc đánh tan, Reya vốn đang dần thoát khỏi tầm kiểm soát một lần nữa quay lại tay người Cosi, chính xác mà nói là quay lại tay Negary.
 
 Smic đã thuận lợi quay về Vương quốc Royas. Hành động lần này nhắm vào Reya thất bại khiến anh ta bị xử phạt. Trong gia tộc Lancher, đề nghị về việc anh ta trở thành tộc trưởng dường như cũng có người đưa ra ý kiến phản đối.
 
@@ -64,16 +64,16 @@ Jason cởi bỏ áo bào, lộ ra cơ thể đã thối rữa đến mức bi�
 
 ............
 
-"Chính cục có biến, sự tồn tại của cháu tốt nhất vẫn không nên để ai biết." Vì tác dụng phụ của sự ân tứ hy sinh, Reavers đã không còn khả năng chiến đấu, vì thế ông đã rút khỏi vị trí Thần Ân hiệp sĩ.
+"Chính cục có biến, sự tồn tại của cháu tốt nhất vẫn không nên để ai biết." Vì tác dụng phụ của sự ân tứ hy sinh, Rivers đã không còn khả năng chiến đấu, vì thế ông đã rút khỏi vị trí Thần Ân hiệp sĩ.
 
 Chỉ thấy ông mang một bộ đồ nam giới đến trước mặt Nara, thần sắc nghiêm túc nói: "Tuổi của cháu còn nhỏ, có thể giả trang thành con trai trước. Ta sẽ dạy cháu chiến đấu. Mặc dù thể chất của cháu không thích hợp với sự ân tứ của Chủ nhân, nhưng có Hô Hấp Pháp của Chris, cháu nhất định có thể trở thành một chiến binh mạnh mẽ."
 
-"Cháu hiểu rồi, thưa chú Reavers, cháu sẽ luyện tập chăm chỉ." Nara gật cái đầu nhỏ nói.
+"Cháu hiểu rồi, thưa chú Rivers, cháu sẽ luyện tập chăm chỉ." Nara gật cái đầu nhỏ nói.
 
-"Ngoài ra vài ngày tới, ta còn phải đi Tarroy một chuyến." Reavers thở dài nói. Tarroy là một quốc gia nhỏ nằm ở hướng khác của Intercam.
+"Ngoài ra vài ngày tới, ta còn phải đi Tarroy một chuyến." Rivers thở dài nói. Tarroy là một quốc gia nhỏ nằm ở hướng khác của Intercam.
 
-"Dạ?" Nara nghi vấn nhìn Reavers.
+"Dạ?" Nara nghi vấn nhìn Rivers.
 
-Chỉ thấy Reavers xách một chiếc hộp, bên trong có rất nhiều đồ vật hỗn tạp, có huân chương, có xương cốt của loài dã thú nào đó, đều là những vật kỷ niệm. Reavers nói: "Đây là đồ vật của ngài Chris. Tarroy là quê hương của ngài Chris, ông ấy còn có một người con trai trạc tuổi cháu, ta cần phải giao những thứ này cho cậu bé."
+Chỉ thấy Rivers xách một chiếc hộp, bên trong có rất nhiều đồ vật hỗn tạp, có huân chương, có xương cốt của loài dã thú nào đó, đều là những vật kỷ niệm. Rivers nói: "Đây là đồ vật của ngài Chris. Tarroy là quê hương của ngài Chris, ông ấy còn có một người con trai trạc tuổi cháu, ta cần phải giao những thứ này cho cậu bé."
 
 Cũng không lâu sau đó, cuộc chiến giữa Royas và Intercam cuối cùng đã bùng nổ.

@@ -16,7 +16,7 @@
 
 "Quả là một tổ chức tồi tệ." Nara tiếp nhận tài liệu. Trong đây có những thứ do Aldrich đưa, có thứ cô lấy được thông qua Thần Ân giáo, và có thứ là do một số quý tộc sưu tầm.
 
-Khi biết Nara chuẩn bị tới Thánh Cốc để ngăn chặn Hắc Uyên giáng lâm, Seith I suýt chút nữa thì cười rách cả miệng. Ông ta đã giao toàn bộ tài liệu về Thánh Cốc và Hắc Uyên mà Intercam sưu tầm được cho Nara.
+Khi biết Nara chuẩn bị tới Thánh Cốc để ngăn chặn Hắc Uyên giáng lâm, Seth I suýt chút nữa thì cười rách cả miệng. Ông ta đã giao toàn bộ tài liệu về Thánh Cốc và Hắc Uyên mà Intercam sưu tầm được cho Nara.
 
 Theo lời tự thuật của Thánh Cốc, họ là tôi tớ của Đấng Vĩ Đại, nắm giữ Suối Sinh Mệnh, và tất cả những gì họ làm là vì hòa bình của thế giới này.
 

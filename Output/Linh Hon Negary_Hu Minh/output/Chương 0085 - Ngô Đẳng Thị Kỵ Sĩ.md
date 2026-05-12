@@ -22,7 +22,7 @@ Hành vi của những quý tộc này ngày càng trở nên mâu thuẫn. Mộ
 
 Bởi nếu cô đồng ý, điều đó chứng minh Nara cũng chỉ đến thế mà thôi, cái gọi là Thánh nữ cứu thế chỉ là một danh hiệu hư ảo, cô không hề cao quý. Như vậy hành vi của họ sẽ không còn vẻ hèn hạ nữa. Nếu được như vậy thì thật tốt biết bao.
 
-So với những người khác, Seith I chắc chắn là đồng ý. Ông ta chỉ mong Nara chết đi, có như vậy ngai vàng mới chỉ thuộc về mình ông ta.
+So với những người khác, Seth I chắc chắn là đồng ý. Ông ta chỉ mong Nara chết đi, có như vậy ngai vàng mới chỉ thuộc về mình ông ta.
 
 Đa số quý tộc vì lợi ích đã phá vỡ cái lằn ranh mỏng manh đến tội nghiệp kia, đồng ý để Nara đi ký kết hiệp định.
 
@@ -69,7 +69,7 @@ Nhưng tất cả đã muộn màng. Cùng với sự đồng ý của Nara, cu�
 ***
 
 **Chú thích:**
-- **Ngô đẳng thị kỵ sĩ, tuyệt bất cụ phó tử (吾等是骑士，绝不惧赴死):** Chúng ta là kỵ sĩ, tuyệt đối không sợ chết.
+- **Ngô đẳng thị kỵ sĩ, tuyệt bất cụ phó tử:** Chúng ta là kỵ sĩ, tuyệt đối không sợ chết.
 - **Cương Lưu Hô Hấp Pháp (Steel Flow):** Một lưu phái Hô Hấp Pháp thiên về sức mạnh và sự cứng cáp.
 - **Knight sword:** Thanh kiếm kỵ sĩ.
 - **Jacques:** Cha của Nara, người đã hy sinh vì dân làng.

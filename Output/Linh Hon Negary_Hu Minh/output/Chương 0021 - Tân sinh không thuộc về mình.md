@@ -70,9 +70,9 @@ Isabella rên rỉ đau đớn, nhưng vẫn cố gắng bò vào trong nhà mì
 
 Không biết qua bao lâu, cùng với tiếng khóc chào đời của trẻ sơ sinh, một đứa bé nhăn nheo xuất hiện trong tay Isabella. Đó là một bé gái. Nhìn sinh mạng mới chào đời này, Isabella - người mẹ kiên cường - đã bật khóc nức nở.
 
-Tuân theo tâm nguyện của Jacques khi còn sống, cô đặt tên cho đứa con gái này là **Nala**, Nala Dacusmi*.
+Tuân theo tâm nguyện của Jacques khi còn sống, cô đặt tên cho đứa con gái này là **Nara**, Nara Dacusmi*.
 
-Vương Uyên trôi nổi cách đó không xa, nhìn sinh mạng mới mang tên Nala này, sắc mặt trở nên nghiêm trọng. Bởi lẽ Vương Uyên có thể cảm nhận được mầm bệnh trong cơ thể đối phương, nhưng lại không thể chi phối những mầm bệnh đó.
+Vương Uyên trôi nổi cách đó không xa, nhìn sinh mạng mới mang tên Nara này, sắc mặt trở nên nghiêm trọng. Bởi lẽ Vương Uyên có thể cảm nhận được mầm bệnh trong cơ thể đối phương, nhưng lại không thể chi phối những mầm bệnh đó.
 
 Những mầm bệnh đó đã hòa làm một với thứ gì đó trong cơ thể cô bé. Mặc dù Vương Uyên vẫn cảm nhận được, nhưng chúng đã trở thành thứ của riêng cô bé rồi.
 
@@ -82,4 +82,4 @@ Những mầm bệnh đó đã hòa làm một với thứ gì đó trong cơ th
 * **Chân Linh (True Spirit):** Căn nguyên nguyên thủy nhất của linh hồn.
 * **Chỉ số Guta (Guta score):** Cách đánh giá tiềm năng linh hồn.
 * **Hồn xuyên / Sinh khí / Hồn khí / Tà Linh / Thần Ân giáo:** Các thuật ngữ đã thống nhất.
-* **Nala Dacusmi:** Con gái của Jacques và Isabella.
+* **Nara Dacusmi:** Con gái của Jacques và Isabella.

@@ -26,7 +26,7 @@ Bất đắc dĩ, vị Thần Ân kỵ sĩ này đã đề xuất ý kiến ở 
 
 "Chủ quân hứa cho ta quyền được hy sinh, Thần ở cùng ta!" Trên người vị Thần Ân kỵ sĩ rực lên ánh trắng chói lọi, ánh sáng của Ân tứ Hy Sinh đã thắp sáng.
 
-Phải thừa nhận rằng, mặc dù Thần của Thần Ân Giáo chỉ là đồ giả tạo, nhưng để khế hợp với Ân tứ mà nó ban xuống, những Thần Ân giả này đều sở hữu đặc chất ở một phương diện nào đó. Nhìn chung, Thần Ân giả thường có những điểm đáng được ca ngợi.
+Phải thừa nhận rằng, mặc dù Thần của Thần Ân giáo chỉ là đồ giả tạo, nhưng để khế hợp với Ân tứ mà nó ban xuống, những Thần Ân giả này đều sở hữu đặc chất ở một phương diện nào đó. Nhìn chung, Thần Ân giả thường có những điểm đáng được ca ngợi.
 
 Vị Thần Ân kỵ sĩ tay cầm Knight sword xông về phía quái vật. Ánh mắt Nara dao động, cô quay người hét lớn: "Toàn quân rút lui, đừng để sự hy sinh của anh ấy trở nên vô ích."
 
@@ -54,7 +54,7 @@ Vẫn là câu nói đó, mỗi người đều có sự kiên trì của riêng
 
 Vô số đàn quạ đưa Negary bay về phía Thánh Cốc. Mặc dù sử dụng Long ngữ cũng có thể bay, nhưng duy trì Long ngữ cần tiêu hao tinh lực mọi lúc mọi nơi, vào thời điểm then chốt này, tốt hơn là nên tiết kiệm chút tinh lực.
 
-Trên bầu trời, Negary gấp cuốn sách trong tay lại. Trên đường tới đây, Negary đã xem hết những điển tịch thực sự hữu dụng của Thần Ân Giáo, học hỏi những kiến thức có ích trong đó. Suy cho cùng một tổ chức tồn tại bao nhiêu năm không đổ, luôn có những ưu điểm nhất định.
+Trên bầu trời, Negary gấp cuốn sách trong tay lại. Trên đường tới đây, Negary đã xem hết những điển tịch thực sự hữu dụng của Thần Ân giáo, học hỏi những kiến thức có ích trong đó. Suy cho cùng một tổ chức tồn tại bao nhiêu năm không đổ, luôn có những ưu điểm nhất định.
 
 Dừng lại trên không trung thung lũng, Negary tay cầm Khởi Thủy Tà Linh, trên trán xuất hiện một phù văn, chính là Ân tứ Chân Tri. Quan sát nơi mang tên Thánh Cốc này, thung lũng vốn bình thường trong mắt Negary đã phát sinh thay đổi.
 

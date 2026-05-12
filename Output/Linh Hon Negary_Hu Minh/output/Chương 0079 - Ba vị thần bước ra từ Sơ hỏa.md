@@ -48,11 +48,11 @@ Về hai vị thần Hắc Uyên bị biến đổi tính chất trong Sơ hỏa
 
 Cuối cùng là Người khổng lồ. Theo truyền thuyết, vị người khổng lồ đầu tiên đã cắt thịt của chính mình, thịt rơi xuống nước biến thành cá, ném lên trời biến thành chim, rơi xuống đất biến thành đủ loại động vật.
 
-Cuối cùng thịt của người khổng lồ không còn nhiều, ông bèn dựa theo dáng vẻ của chính mình để tạo ra loại sinh vật cuối cùng - nhân loại. Nếu không lầm thì Thủy tổ vạn vật trong thần thoại của người Cauchy chính là chỉ Người khổng lồ.
+Cuối cùng thịt của người khổng lồ không còn nhiều, ông bèn dựa theo dáng vẻ của chính mình để tạo ra loại sinh vật cuối cùng - nhân loại. Nếu không lầm thì Thủy tổ vạn vật trong thần thoại của người Cosi chính là chỉ Người khổng lồ.
 
-Dù sao thì người Cauchy đã là Đệ tứ Đế quốc, những chuyện thời viễn cổ đã dần bị thay đổi dáng vẻ. Người Cauchy cũng có ý tự tâng bốc mình nên đã gọi Người khổng lồ là Thủy tổ vạn vật, còn người Cauchy là tinh thần của người khổng lồ, mang ý nghĩa là những nhà lãnh đạo bẩm sinh.
+Dù sao thì người Cosi đã là Đệ tứ Đế quốc, những chuyện thời viễn cổ đã dần bị thay đổi dáng vẻ. Người Cosi cũng có ý tự tâng bốc mình nên đã gọi Người khổng lồ là Thủy tổ vạn vật, còn người Cosi là tinh thần của người khổng lồ, mang ý nghĩa là những nhà lãnh đạo bẩm sinh.
 
-Tất nhiên, kết cục cuối cùng của Người khổng lồ có rất nhiều cách nói. Trong thần thoại của người Cauchy, Người khổng lồ hay Thủy tổ vạn vật sau khi phân hóa vạn vật đã tử vong. Dù sao thì họ tự xưng là tinh thần của Thủy tổ vạn vật, nhưng nếu thực sự có một thủy tổ xuất hiện thì người không vui nhất chính là người Cauchy.
+Tất nhiên, kết cục cuối cùng của Người khổng lồ có rất nhiều cách nói. Trong thần thoại của người Cosi, Người khổng lồ hay Thủy tổ vạn vật sau khi phân hóa vạn vật đã tử vong. Dù sao thì họ tự xưng là tinh thần của Thủy tổ vạn vật, nhưng nếu thực sự có một thủy tổ xuất hiện thì người không vui nhất chính là người Cosi.
 
 Còn trong một số cuốn truyện ký thần thoại lại có một cách nói khác: Người khổng lồ chỉ còn lại bộ xương khô đã đi tới một nơi chưa biết để nắm giữ cái chết của vạn vật. Lại có cách nói khác rằng Người khổng lồ không hề rời bỏ Sơ hỏa do ánh sáng mang lại mà ở đó canh giữ ngọn lửa.
 

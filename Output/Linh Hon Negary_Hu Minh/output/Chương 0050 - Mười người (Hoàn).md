@@ -66,5 +66,5 @@ Trên ngai vàng xương trắng, Negary một tay chống cằm, trên mặt ma
 **Ghi chú cuối chương:**
 * **Khao khát sống sót:** Một loại "đặc chất" mà Negary thu hoạch từ Crow Men.
 * **Bổ khuyết bản thân:** Mục đích của Negary khi tạo ra Crow Men là để thu thập các đặc điểm tinh thần đa dạng của nhân loại.
-* **Người hoàng hôn / Sers I:** Các thuật ngữ đã thống nhất.
+* **Người hoàng hôn / Seth I:** Các thuật ngữ đã thống nhất.
 * **Chris / Rivers / Negary / Crow Men / Dị Lân Giả:** Các thuật ngữ đã thống nhất.

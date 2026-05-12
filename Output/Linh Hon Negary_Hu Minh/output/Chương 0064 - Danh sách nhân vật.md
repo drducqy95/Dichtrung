@@ -4,7 +4,7 @@ Vì tên Tây phương hơi khó nhớ nên ta đặc biệt mở một chương
 
 **Negary**: Nhân vật chính, vị thần của ôn dịch và điềm gở, hiện đã tiến hóa thành mầm bệnh linh hồn, bắt đầu phát tán nhờ vào Hồn chi huyết.
 
-**Noah**: Nghĩa nhân đã lập ước định với Negary, bản thân được cấy ghép Hồn chi huyết, đồng thời thức tỉnh năng lực Vu Linh thuật sĩ của người Cauchy, có thể hô vang thần danh để nhận lấy sức mạnh, có thể gọi là người đứng đầu dưới trướng Negary.
+**Noah**: Nghĩa nhân đã lập ước định với Negary, bản thân được cấy ghép Hồn chi huyết, đồng thời thức tỉnh năng lực Vu Linh thuật sĩ của người Cosi, có thể hô vang thần danh để nhận lấy sức mạnh, có thể gọi là người đứng đầu dưới trướng Negary.
 
 **Chris Modo (Sakri)**: Người kế thừa Tân Lưu Hô Hấp Pháp, Truyền kỳ Du hiệp. Tên thật là Sakri, kế thừa cái tên Chris tại Đại Tuyết Sơn. Quê hương là Tarroy, tác giả cuốn "Hành trình tuyết sơn". Đã hy sinh trong trận chiến khi sử dụng "Tân tận hỏa truyền" để kiềm chế phân hồn của Negary, tàn hồn bị Mylson dung hợp.
 
@@ -16,17 +16,17 @@ Vì tên Tây phương hơi khó nhớ nên ta đặc biệt mở một chương
 
 **Bugitier**: Truyền giáo sĩ Thần Ân giáo, được mệnh danh là một trong những chiến sĩ mạnh nhất của giáo hội, sở hữu năm loại ân tứ: Cứu thế, Bảo hộ, Chính nghĩa, Chân tri, Sinh mệnh. Bị Negary giết chết, trước khi chết đã dùng bí pháp ghi lại thông tin về Negary, đáng tiếc không mang lại tác dụng gì.
 
-**Luen Donna**: Đệ tử của Osgoodin, xuất thân quý tộc Intercam, sở hữu ba loại ân tứ: Cứu thế, Chân tri, Tiết chế. Có dã tâm khá lớn, mục tiêu là trở thành Giáo hoàng Thần Ân giáo, dẫn dắt giáo hội mở rộng ra khỏi Intercam.
+**Luen Donna**: Đệ tử của Osgoodin, xuất thân quý tộc Intercam, sở hữu ba loại ân tứ: Cứu thế, Chân tri, Tiết chế. Có dã tâm khá lớn, mục tiêu là trở thành Giáo tông của Thần Ân giáo, dẫn dắt giáo hội mở rộng ra khỏi Intercam.
 
 **Mylson**: Nguyên Hiệp sĩ Thần Ân giáo, xuất thân từ khu ổ chuột, từng chứng kiến nỗi đau của người nghèo dưới bệnh tật. Vì thế đã phản bội giáo hội, thần phục Negary, trở thành thủ lĩnh Quỷ Nhân, phụ hồn là Chris.
 
-**Reavers**: Nguyên Hiệp sĩ Thần Ân giáo, để giết chết Crow Men đã sử dụng ân tứ Hy sinh, dưới tác dụng phụ không thể tiếp tục chiến đấu, hiện bắt đầu dạy Nara chiến đấu.
+**Rivers**: Nguyên Hiệp sĩ Thần Ân giáo, để giết chết Crow Men đã sử dụng ân tứ Hy sinh, dưới tác dụng phụ không thể tiếp tục chiến đấu, hiện bắt đầu dạy Nara chiến đấu.
 
-**Isabella Darkmy**: Tên thật là Isabella Tagule, quý tộc Intercam, thuộc một nhánh của vương thất. Vì vương thất Intercam nội loạn nên trốn đến ngôi làng người Cauchy, kết hôn với Jacques Darkmy, sinh hạ Nara Darkmy.
+**Isabella Dacusmi**: Tên thật là Isabella Tagore, quý tộc Intercam, thuộc một nhánh của vương thất. Vì vương thất Intercam nội loạn nên trốn đến ngôi làng người Cosi, kết hôn với Jacques Dacusmi, sinh hạ Nara Dacusmi.
 
-**Nara Darkmy**: Chịu ảnh hưởng của Negary, huyết mạch Rồng thuộc gia tộc Tagule bắt đầu thức tỉnh. Là Thánh nữ cứu thế, Long chi nữ trong lời tiên tri. Vì tính tương đồng giữa Hồn chi huyết và Long chi huyết, trong cơ thể cô có nhân cách thuộc về Negary, và đã tiếp nhận truyền thừa Hô Hấp Pháp từ Chris.
+**Nara Dacusmi**: Chịu ảnh hưởng của Negary, huyết mạch Rồng thuộc gia tộc Tagore bắt đầu thức tỉnh. Là Thánh nữ cứu thế, Long chi nữ trong lời tiên tri. Vì tính tương đồng giữa Hồn chi huyết và Long chi huyết, trong cơ thể cô có nhân cách thuộc về Negary, và đã tiếp nhận truyền thừa Hô Hấp Pháp từ Chris.
 
-**Grosk**: Người đứng đầu nhóm thương nhân buôn lậu Intercam, bị quý tộc Intercam khống chế, hiện tại đã đầu hàng Negary.
+**Groske**: Người đứng đầu nhóm thương nhân buôn lậu Intercam, bị quý tộc Intercam khống chế, hiện tại đã đầu hàng Negary.
 
 **Yadrei**: Nguyên thủ lĩnh tổ chức Crow Men, Crow Men thế hệ đầu tiên. Thất bại trong trận chiến với Chris, trái tim bị đập nát và được thay thế bằng trái tim của Người Dị Lân, hiện đã xuất hiện hiện tượng nhiễm máu rồng.
 
@@ -36,13 +36,13 @@ Vì tên Tây phương hơi khó nhớ nên ta đặc biệt mở một chương
 
 **Sát thủ Jack**: Một trong các Quỷ Nhân, có vẻ như trong quá trình dung hợp phụ hồn đã xảy ra sự cố khiến ngôn hành vô cùng quái dị.
 
-**Comoro**: Người đầu tiên bị Negary mê hoặc, anh trai của Noah.
+**Komoro**: Người đầu tiên bị Negary mê hoặc, anh trai của Noah.
 
-**Mặt nạ sắt**: Cha của Comoro và Noah, bị Negary giết chết.
+**Mặt nạ sắt**: Cha của Komoro và Noah, bị Negary giết chết.
 
 **Seth I**: Người khơi mào nội loạn vương thất Vương quốc Intercam.
 
-**Eldritch Andre**: Quốc vương của Vương quốc Royas, có năng lực thống trị mạnh mẽ, có vẻ đang nghiên cứu một loại sức mạnh đặc thù nào đó.
+**Aldrich Andre**: Quốc vương của Vương quốc Royas, có năng lực thống trị mạnh mẽ, có vẻ đang nghiên cứu một loại sức mạnh đặc thù nào đó.
 
 **Garnan**: Crow Men, sở hữu năng lực biến đổi da, ám sát thất bại và bị Jason giết chết.
 
@@ -50,7 +50,7 @@ Vì tên Tây phương hơi khó nhớ nên ta đặc biệt mở một chương
 
 **Desha**: Crow Men, thất bại trong trận chiến với Chris, sau đó không xuất hiện lại nữa.
 
-**Jacques Darkmy**: Người Cauchy, chồng của Isabella, bị giết vì đại nghĩa.
+**Jacques Dacusmi**: Người Cosi, chồng của Isabella, bị giết vì đại nghĩa.
 
 **Brad**: Thợ săn, dùng lưới vây bắt con quạ ban đầu của Negary.
 

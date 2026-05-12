@@ -1,10 +1,10 @@
 # Chương 0089 - Đế Quốc Chi Chương
 
-"Can thiệp lực, ta gọi loại sức mạnh này là như vậy, các người chắc hẳn gọi nó là Tâm niệm lực hoặc thứ gì đó đại loại thế." Những đặc điểm của loài Rồng trên người Negary dần thu hồi, trở lại hình dáng của con người.
+"Lực can thiệp, ta gọi loại sức mạnh này là như vậy, các người chắc hẳn gọi nó là Tâm niệm lực hoặc thứ gì đó đại loại thế." Những đặc điểm của loài Rồng trên người Negary dần thu hồi, trở lại hình dáng của con người.
 
-"Nói chung, đây là sức mạnh mà chỉ tàn hồn mới có thể nắm giữ." Negary tiếp tục thuyết giảng, ánh mắt tùy ý quét qua xung quanh: "Suy cho cùng Căn nguyên làm chủ tể của linh hồn. Chừng nào Căn nguyên còn đó, linh hồn sẽ luôn giữ được sự ổn định, cơ bản rất khó nảy sinh ra Can thiệp lực."
+"Nói chung, đây là sức mạnh mà chỉ tàn hồn mới có thể nắm giữ." Negary tiếp tục thuyết giảng, ánh mắt tùy ý quét qua xung quanh: "Suy cho cùng Căn nguyên làm chủ tể của linh hồn. Chừng nào Căn nguyên còn đó, linh hồn sẽ luôn giữ được sự ổn định, cơ bản rất khó nảy sinh ra Lực can thiệp."
 
-"Thế nhưng Can thiệp lực của ông thậm chí còn vượt xa cả một tà linh như ta." Negary khẳng định: "Đây chính là năng lực ông nhận được từ Mạt Thần đúng không."
+"Thế nhưng Lực can thiệp của ông thậm chí còn vượt xa cả một tà linh như ta." Negary khẳng định: "Đây chính là năng lực ông nhận được từ Mạt Thần đúng không."
 
 "Để ta đoán xem, lúc trước ông nói cương vực mà Mạt Thần nắm giữ càng rộng thì ông ta càng mạnh, cộng thêm việc ông cực kỳ bài xích Thần Ân giáo, vậy thì có thể đưa ra kết luận rồi." Negary phân tích: "Thứ ông cần cũng là một loại tương tự như tín ngưỡng."
 
@@ -18,7 +18,7 @@ Lời nói của Negary mang theo sự dẫn dụ tinh thần. Dù không chắc
 
 Đối với những kẻ chẳng khác gì món ăn, Negary tự nhiên có thể không ngừng kích thích bọn họ, ép ra tiềm năng của họ để khiến hồn khí trở nên ngon miệng hơn. Nhưng đối với Aldrich, Negary cũng phải thừa nhận rằng đối phương là tồn tại đứng cùng đẳng cấp với mình. Negary sẽ không tự mình tìm chết như vậy, đương nhiên phải vận dụng đủ mọi thủ đoạn.
 
-Cục diện dường như rơi vào trạng thái giằng co. Aldrich ẩn náu trong bóng tối, thỉnh thoảng sử dụng Can thiệp lực để tấn công nhằm đánh lén Negary, nhưng lại không dám gây ra động tĩnh lớn vì sợ Negary phát hiện ra vị trí của mình.
+Cục diện dường như rơi vào trạng thái giằng co. Aldrich ẩn náu trong bóng tối, thỉnh thoảng sử dụng Lực can thiệp để tấn công nhằm đánh lén Negary, nhưng lại không dám gây ra động tĩnh lớn vì sợ Negary phát hiện ra vị trí của mình.
 
 Đúng như Negary đã nói, sức mạnh của ông bắt nguồn từ tín ngưỡng. Tỉ lệ người dân ủng hộ bản thân càng cao, ông càng nhận được nhiều sự gia trì tâm niệm của họ, có được Tâm niệm lực khổng lồ. Nhưng cuộc chiến với Intercam thất bại, Tâm niệm lực ông nắm giữ đã tụt dốc xuống một mức cực thấp. Hiện tại nếu xét về thực lực tuyệt đối, ông chắc chắn không bằng Negary.
 
@@ -48,9 +48,9 @@ Bốn loại Long ngữ này trông thì đơn giản, nhưng mỗi loại đề
 
 "Xem ra ngươi đã quyết định chắc chắn là phải giết ta rồi." Sắc mặt Aldrich có chút âm trầm. Ông không hỏi nguyên nhân Negary nhất định phải giết mình, ý đồ của đối phương đã lộ rõ, vậy thì tự nhiên không cần phải do dự nữa.
 
-"Mở ra đi! Đế Quốc Chi Chương!" Can thiệp lực khổng lồ lan tỏa ra xung quanh, môi trường xung quanh bắt đầu thay đổi từng chút một.
+"Mở ra đi! Đế Quốc Chi Chương!" Lực can thiệp khổng lồ lan tỏa ra xung quanh, môi trường xung quanh bắt đầu thay đổi từng chút một.
 
-Nói chung, Tâm niệm lực - tức là Can thiệp lực - tác động lên môi trường xung quanh thường chỉ biểu hiện dưới dạng lực đẩy, nhưng Aldrich đã thể hiện một cách sử dụng khác của Can thiệp lực.
+Nói chung, Tâm niệm lực - tức là Lực can thiệp - tác động lên môi trường xung quanh thường chỉ biểu hiện dưới dạng lực đẩy, nhưng Aldrich đã thể hiện một cách sử dụng khác của Lực can thiệp.
 
 "Nhân dân của ta tin tưởng ta, họ tin rằng ta có thể dẫn dắt họ xây dựng một đế quốc khổng lồ, một đế quốc thuộc về người Royas!!!" Khung cảnh xung quanh Aldrich bắt đầu thay đổi, những bậc thang ban đầu biến thành một quảng trường, từng người mặc đồng phục thống nhất xuất hiện trên quảng trường đó.
 
@@ -63,7 +63,7 @@ Negary cảm nhận được sự kiểm soát của Long uy đối với xung q
 ***
 
 **Chú thích:**
-- **Can thiệp lực (Interference Force):** Hay còn gọi là Tâm niệm lực, sức mạnh của ý chí tác động lên thực tại.
+- **Lực can thiệp (Interference Force):** Hay còn gọi là Tâm niệm lực, sức mạnh của ý chí tác động lên thực tại.
 - **Tâm niệm lực (Heart-thought Force):** Sức mạnh hình thành từ suy nghĩ và niềm tin.
 - **Căn nguyên (Root):** Bản chất gốc rễ giữ cho linh hồn ổn định.
 - **Lý tưởng chi quốc (Ideal Nation):** Cõi không gian hình thành từ lý tưởng và niềm tin của người dân dành cho quốc vương.

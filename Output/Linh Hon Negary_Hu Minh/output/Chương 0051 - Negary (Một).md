@@ -30,7 +30,7 @@ Hắn cấy Mầm bệnh Black Crow vào da đầu, đem toàn bộ tóc đổi 
 
 Một luồng hỏa diễm vàng rực phun trào, trong nháy mắt thiêu cháy mái tóc Black Crow. Những sợi tóc hóa thành tro bụi tầng tầng lớp lớp bay tán loạn, Noah bước ra từ tàn dư hỏa diễm, không mảy may thương tổn.
 
-Mekmisi, nữ thần lửa của người Cauchy. Tất nhiên, hình tượng xuất hiện trong thần thoại của bà là một con cự long phun lửa.
+Mekmisi, nữ thần lửa của người Cosi. Tất nhiên, hình tượng xuất hiện trong thần thoại của bà là một con cự long phun lửa.
 
 Sau khi Noah cấy ghép Hồn chi huyết, đối với Chân Ngôn hỏa diễm đã có thêm vài phần cảm ứng. Miệng hô Thần danh hỏa diễm, ngọn lửa phun ra không chỉ uy lực lớn hơn không ít mà màu sắc cũng biến thành màu vàng kim.
 

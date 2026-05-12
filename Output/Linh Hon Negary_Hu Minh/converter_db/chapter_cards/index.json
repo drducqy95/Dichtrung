@@ -1,6 +1,6 @@
 {
   "branch": "Linh Hon Negary_Hu Minh",
-  "generated_at": "2026-05-12T08:06:37+07:00",
+  "generated_at": "2026-05-12T20:36:21+07:00",
   "chapters": [
     {
       "chapter_number": 1,
@@ -485,7 +485,7 @@
     {
       "chapter_number": 63,
       "chapter_title": "Diễn biến tiếp theo",
-      "source_output_file": "output/Chương 0063 - Hậu quả.md",
+      "source_output_file": "output/Chương 0063 - Diễn biến tiếp theo.md",
       "display_output_filename": "Chương 0063: Diễn biến tiếp theo.md",
       "filesystem_output_filename": "Chương 0063 - Diễn biến tiếp theo.md",
       "has_content": true
@@ -525,7 +525,7 @@
     {
       "chapter_number": 68,
       "chapter_title": "Công Chúa",
-      "source_output_file": "output/Chương 0068 - Vương nữ.md",
+      "source_output_file": "output/Chương 0068 - Công Chúa.md",
       "display_output_filename": "Chương 0068: Công Chúa.md",
       "filesystem_output_filename": "Chương 0068 - Công Chúa.md",
       "has_content": true
@@ -624,6 +624,158 @@
       "source_output_file": "output/Chương 0080 - Anh Hùng Chi Long.md",
       "display_output_filename": "Chương 0080: Anh Hùng Chi Long.md",
       "filesystem_output_filename": "Chương 0080 - Anh Hùng Chi Long.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 81,
+      "chapter_title": "Phù Thi Trùng",
+      "source_output_file": "output/Chương 0081 - Phù Thi Trùng.md",
+      "display_output_filename": "Chương 0081: Phù Thi Trùng.md",
+      "filesystem_output_filename": "Chương 0081 - Phù Thi Trùng.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 82,
+      "chapter_title": "Kiếm",
+      "source_output_file": "output/Chương 0082 - Kiếm.md",
+      "display_output_filename": "Chương 0082: Kiếm.md",
+      "filesystem_output_filename": "Chương 0082 - Kiếm.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 83,
+      "chapter_title": "Tam Niên Chiến Tranh",
+      "source_output_file": "output/Chương 0083 - Tam Niên Chiến Tranh.md",
+      "display_output_filename": "Chương 0083: Tam Niên Chiến Tranh.md",
+      "filesystem_output_filename": "Chương 0083 - Tam Niên Chiến Tranh.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 84,
+      "chapter_title": "Thoái Túc và Đàm Phán",
+      "source_output_file": "output/Chương 0084 - Thoái Túc và Đàm Phán.md",
+      "display_output_filename": "Chương 0084: Thoái Túc và Đàm Phán.md",
+      "filesystem_output_filename": "Chương 0084 - Thoái Túc và Đàm Phán.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 85,
+      "chapter_title": "Ngô Đẳng Thị Kỵ Sĩ",
+      "source_output_file": "output/Chương 0085 - Ngô Đẳng Thị Kỵ Sĩ.md",
+      "display_output_filename": "Chương 0085: Ngô Đẳng Thị Kỵ Sĩ.md",
+      "filesystem_output_filename": "Chương 0085 - Ngô Đẳng Thị Kỵ Sĩ.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 86,
+      "chapter_title": "Một Số Người Không Xứng Đáng Được Cứu Giúp",
+      "source_output_file": "output/Chương 0086 - Một Số Người Không Xứng Đáng Được Cứu Giúp.md",
+      "display_output_filename": "Chương 0086: Một Số Người Không Xứng Đáng Được Cứu Giúp.md",
+      "filesystem_output_filename": "Chương 0086 - Một Số Người Không Xứng Đáng Được Cứu Giúp.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 87,
+      "chapter_title": "Bước Trên Con Đường Đúng Đắn",
+      "source_output_file": "output/Chương 0087 - Bước Trên Con Đường Đúng Đắn.md",
+      "display_output_filename": "Chương 0087: Bước Trên Con Đường Đúng Đắn.md",
+      "filesystem_output_filename": "Chương 0087 - Bước Trên Con Đường Đúng Đắn.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 88,
+      "chapter_title": "Vương Đối Vương",
+      "source_output_file": "output/Chương 0088 - Vương Đối Vương.md",
+      "display_output_filename": "Chương 0088: Vương Đối Vương.md",
+      "filesystem_output_filename": "Chương 0088 - Vương Đối Vương.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 89,
+      "chapter_title": "Đế Quốc Chi Chương",
+      "source_output_file": "output/Chương 0089 - Đế Quốc Chi Chương.md",
+      "display_output_filename": "Chương 0089: Đế Quốc Chi Chương.md",
+      "filesystem_output_filename": "Chương 0089 - Đế Quốc Chi Chương.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 90,
+      "chapter_title": "Ta Là Vua!",
+      "source_output_file": "output/Chương 0090 - Ta Là Vua!.md",
+      "display_output_filename": "Chương 0090: Ta Là Vua!.md",
+      "filesystem_output_filename": "Chương 0090 - Ta Là Vua!.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 91,
+      "chapter_title": "'Thủ Thi Quỷ' Thánh Cốc",
+      "source_output_file": "output/Chương 0091 - 'Thủ Thi Quỷ' Thánh Cốc.md",
+      "display_output_filename": "Chương 0091: 'Thủ Thi Quỷ' Thánh Cốc.md",
+      "filesystem_output_filename": "Chương 0091 - 'Thủ Thi Quỷ' Thánh Cốc.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 92,
+      "chapter_title": "Nguyện Vinh Quang Của Chủ Quân Luôn Ở Bên Tôi",
+      "source_output_file": "output/Chương 0092 - Nguyện Vinh Quang Của Chủ Quân Luôn Ở Bên Tôi.md",
+      "display_output_filename": "Chương 0092: Nguyện Vinh Quang Của Chủ Quân Luôn Ở Bên Tôi.md",
+      "filesystem_output_filename": "Chương 0092 - Nguyện Vinh Quang Của Chủ Quân Luôn Ở Bên Tôi.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 93,
+      "chapter_title": "Thần Ân giáo Được Thần Che Chở",
+      "source_output_file": "output/Chương 0093 - Thần Ân Giáo Được Thần Che Chở.md",
+      "display_output_filename": "Chương 0093: Thần Ân giáo Được Thần Che Chở.md",
+      "filesystem_output_filename": "Chương 0093 - Thần Ân giáo Được Thần Che Chở.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 94,
+      "chapter_title": "Thần Ái Thế Nhân",
+      "source_output_file": "output/Chương 0094 - Thần Ái Thế Nhân.md",
+      "display_output_filename": "Chương 0094: Thần Ái Thế Nhân.md",
+      "filesystem_output_filename": "Chương 0094 - Thần Ái Thế Nhân.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 95,
+      "chapter_title": "Thần Ân Diệt Vong",
+      "source_output_file": "output/Chương 0095 - Thần Ân Diệt Vong.md",
+      "display_output_filename": "Chương 0095: Thần Ân Diệt Vong.md",
+      "filesystem_output_filename": "Chương 0095 - Thần Ân Diệt Vong.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 96,
+      "chapter_title": "Cự Nhân Di Cốt",
+      "source_output_file": "output/Chương 0096 - Cự Nhân Di Cốt.md",
+      "display_output_filename": "Chương 0096: Cự Nhân Di Cốt.md",
+      "filesystem_output_filename": "Chương 0096 - Cự Nhân Di Cốt.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 98,
+      "chapter_title": "Sơ Hỏa (1)",
+      "source_output_file": "output/Chương 0098 - Sơ Hỏa (1).md",
+      "display_output_filename": "Chương 0098: Sơ Hỏa (1).md",
+      "filesystem_output_filename": "Chương 0098 - Sơ Hỏa (1).md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 99,
+      "chapter_title": "Sơ Hỏa (2)",
+      "source_output_file": "output/Chương 0099 - Sơ Hỏa (2).md",
+      "display_output_filename": "Chương 0099: Sơ Hỏa (2).md",
+      "filesystem_output_filename": "Chương 0099 - Sơ Hỏa (2).md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 100,
+      "chapter_title": "Sơ Hỏa (3)",
+      "source_output_file": "output/Chương 0100 - Sơ Hỏa (3).md",
+      "display_output_filename": "Chương 0100: Sơ Hỏa (3).md",
+      "filesystem_output_filename": "Chương 0100 - Sơ Hỏa (3).md",
       "has_content": true
     }
   ]

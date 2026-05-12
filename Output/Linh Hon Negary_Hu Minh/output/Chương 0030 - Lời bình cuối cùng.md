@@ -18,7 +18,7 @@ May mắn gặp được người bạn đời có thể nương tựa lẫn nha
 
 Nếu không phải vì Isabella có tính cách kiên cường, nếu không phải vì cô còn có con gái cần chăm sóc, nếu không phải vì Jacques* trước khi chết dặn cô phải sống tốt, người phụ nữ này e rằng đã phát điên từ lâu rồi.
 
-"Mẹ ơi đừng khóc, mọi chuyện rồi sẽ qua thôi." Nala* ôm lấy mẹ an ủi.
+"Mẹ ơi đừng khóc, mọi chuyện rồi sẽ qua thôi." Nara* ôm lấy mẹ an ủi.
 
 Phía xa, hai người mặc bào đen đang nhìn mẹ con Isabella qua cửa sổ với ánh mắt lạnh lẽo.
 
@@ -34,7 +34,7 @@ Komoro* một lần nữa tiến hành cầu nguyện. Cậu hoàn toàn không 
 
 Mặc dù cho đến tận bây giờ cơ thể vẫn thuộc về cậu, nhưng cậu hiểu rõ, ngày tháng của mình không còn nhiều nữa.
 
-Một tiếng bước chân từ xa tới gần. Cơ thể Komoro cứng đờ, rồi lập tức thả lỏng. Cậu đứng dậy, nhìn thiếu niên tuấn tú đang bước tới trước mặt mình. Dung mạo đối phương có vài phần tương đồng với cậu, huyết mạch của đối phương dường như khiến Komoro tỉnh táo hơn một chút.
+A tiếng bước chân từ xa tới gần. Cơ thể Komoro cứng đờ, rồi lập tức thả lỏng. Cậu đứng dậy, nhìn thiếu niên tuấn tú đang bước tới trước mặt mình. Dung mạo đối phương có vài phần tương đồng với cậu, huyết mạch của đối phương dường như khiến Komoro tỉnh táo hơn một chút.
 
 "Không ngờ lại là em." Komoro dường như đã hoàn toàn buông xuôi, trên mặt nở một nụ cười có phần vỡ vụn: "Đây là thú vui ác độc của Ne... của vị đại nhân đó sao?"
 
@@ -75,4 +75,4 @@ Lưỡi kiếm sắc bén đâm xuyên qua tim. Noah mặt không cảm xúc đ�
 * **Komoro:** Anh trai của Noah, người đã đưa Negary về làng 10 năm trước.
 * **Máu vàng ròng:** Huyết mạch đặc thù thu thập từ trái tim Komoro.
 * **Lời bình cuối cùng (Final Evaluation):** Đánh giá của Negary về sự hy sinh của Komoro.
-* **Isabella / Nala / Noah / Jacques / Dax / Chris / Bugitier / Negary / Người Cosi / Người Kent / Crow Men / Hiến dâng vầng trán:** Các thuật ngữ đã thống nhất.
+* **Isabella / Nara / Noah / Jacques / Dax / Chris / Bugitier / Negary / Người Cosi / Người Kent / Crow Men / Hiến dâng vầng trán:** Các thuật ngữ đã thống nhất.

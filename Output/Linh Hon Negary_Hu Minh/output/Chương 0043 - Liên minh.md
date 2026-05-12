@@ -54,15 +54,15 @@ Mặc một chiếc áo ba lỗ màu đen, Jason với mái tóc ngắn màu b�
 
 "Rất tốt." Osgoodin gật đầu.
 
-Cùng lúc đó, Chris tiễn Nala xuống lầu tiếp tục ăn đại tiệc, ánh mắt phức tạp. Năm đó ông học Hô Hấp Pháp cũng có một vị tiền bối dẫn dắt, nhưng cũng phải mất hơn một ngày mới miễn cưỡng học được.
+Cùng lúc đó, Chris tiễn Nara xuống lầu tiếp tục ăn đại tiệc, ánh mắt phức tạp. Năm đó ông học Hô Hấp Pháp cũng có một vị tiền bối dẫn dắt, nhưng cũng phải mất hơn một ngày mới miễn cưỡng học được.
 
-Thế nhưng Nala chỉ mất có một buổi chiều đã học được hòm hòm rồi. Còn về những kỹ xảo Hô Hấp Pháp cao cấp hơn, Chris không giáo huấn, những kỹ xảo đó là tùy vào sự lĩnh ngộ của mỗi người. Học được năng lực cơ bản rồi, kỹ xảo cao cấp chỉ cần lĩnh ngộ được là có thể học thành.
+Thế nhưng Nara chỉ mất có một buổi chiều đã học được hòm hòm rồi. Còn về những kỹ xảo Hô Hấp Pháp cao cấp hơn, Chris không giáo huấn, những kỹ xảo đó là tùy vào sự lĩnh ngộ của mỗi người. Học được năng lực cơ bản rồi, kỹ xảo cao cấp chỉ cần lĩnh ngộ được là có thể học thành.
 
 Hô Hấp Pháp vẫn là Hô Hấp Pháp đó, nhưng mỗi một cao thủ sử dụng Hô Hấp Pháp đều không giống nhau hoàn toàn. Tất nhiên Hô Hấp Pháp gia truyền của quý tộc sẽ có những bí pháp khác đi kèm, những thứ đó chỉ dựa vào lĩnh ngộ là khó lòng hoàn thành, đó là kết tinh trí tuệ của mấy thế hệ.
 
-Bí pháp của Chris thì có một cái, nhưng không thích hợp truyền cho Nala, có lẽ phải đợi đến sau này mới có cơ hội.
+Bí pháp của Chris thì có một cái, nhưng không thích hợp truyền cho Nara, có lẽ phải đợi đến sau này mới có cơ hội.
 
-Tiễn Nala đi rồi, Chris dường như thở phào nhẹ nhõm, dù sao cũng là Thánh nữ cứu thế trong dự ngôn, học được Hô Hấp Pháp thì ít nhất đã có khả năng tự bảo vệ mình.
+Tiễn Nara đi rồi, Chris dường như thở phào nhẹ nhõm, dù sao cũng là Thánh nữ cứu thế trong dự ngôn, học được Hô Hấp Pháp thì ít nhất đã có khả năng tự bảo vệ mình.
 
 "Ra đi, nghe lâu như vậy rồi, có kiến giải gì không?" Sắc mặt Chris trở nên nghiêm nghị, nói vọng về phía khoảng không ở bên kia căn phòng.
 
@@ -74,7 +74,7 @@ Tiễn Nala đi rồi, Chris dường như thở phào nhẹ nhõm, dù sao cũn
 
 "Thế lực của hắn ngày càng lớn mạnh, không có lợi cho vương quốc." Smic gật đầu: "Liên minh, đây là điều không cần bàn cãi."
 
-"Vậy còn các người đối với Nala?" Chris chậm rãi nói.
+"Vậy còn các người đối với Nara?" Chris chậm rãi nói.
 
 "Tuân theo ước định cổ xưa, Rhythm tuyệt đối không đi dập tắt một luồng Rhythm khác. Tôi sẽ không ra tay với cô bé đó, đây cũng là lý do ngài biết rõ tôi ở đây mà vẫn truyền thụ Hô Hấp Pháp cho cô bé đúng không." Smic nghiêm túc nói: "Cái gọi là Thánh nữ cứu thế thì đã sao, dưới sự dẫn dắt của Bệ hạ, ngay cả vận mệnh cũng sẽ bị giẫm đạp, huống hồ chỉ là một lời tiên tri."
 

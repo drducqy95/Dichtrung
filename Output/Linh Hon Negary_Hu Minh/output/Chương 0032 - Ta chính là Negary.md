@@ -2,13 +2,13 @@
 
 Noah bưng một cái hộp, bước vào một căn mật thất. Bên trong chiếc hộp đó là dòng máu hoàng kim được lấy ra từ tim của Komoro — cũng chính là anh trai của cậu.
 
-Mười năm trước, vào lúc Nala chào đời, Vương Uyên đã bắt đầu nghiên cứu Long huyết đang thức tỉnh bên trong cơ thể cô bé.
+Mười năm trước, vào lúc Nara chào đời, Vương Uyên đã bắt đầu nghiên cứu Long huyết đang thức tỉnh bên trong cơ thể cô bé.
 
 Trong mười năm này, đối với những dòng Long huyết đó, Vương Uyên vẫn luôn không ngừng nghiên cứu. Hiện tại, thứ được ứng dụng rộng rãi nhất chính là mầm bệnh "Spreading" đã phủ khắp toàn bộ Reyastemia và đang dần lan rộng ra xung quanh.
 
 Ngoài ra, nghiên cứu mà Vương Uyên coi trọng nhất, ngay từ ba năm trước đã có một hình hài sơ khai.
 
-Long huyết đang dần thức tỉnh trong cơ thể Nala có những đặc điểm sau:
+Long huyết đang dần thức tỉnh trong cơ thể Nara có những đặc điểm sau:
 
 Thứ nhất, Long huyết sẽ tăng cường tố chất cơ thể của vật chủ, giúp người mang Long huyết có sức sống trở nên đặc biệt ngoan cường.
 
@@ -16,13 +16,13 @@ Thứ hai, bên trong Long huyết mang theo thông tin kế thừa được g�
 
 Vương Uyên đã tra cứu tư liệu về những người thức tỉnh Long huyết qua các đời của vương quốc Intercam. Họ không ngoại lệ đều trở nên cực kỳ có đặc điểm riêng: mạnh mẽ, tùy tính, bạo thực, tham lam, ngủ nhiều, nhưng tất thảy đều cực kỳ có sức hút cá nhân, có rất nhiều người sẵn lòng theo đuổi và chết vì họ.
 
-Điều khiến Vương Uyên bất ngờ là, trong toàn bộ vương quốc Intercam, những gia tộc có Long huyết chưa từng có tiền lệ phụ nữ thức tỉnh. Có lẽ là do mầm bệnh mà Vương Uyên tiêm vào năm đó đã gây ra dị biến, khiến Nala thức tỉnh Long huyết. Tóm lại những năm qua, Nala cũng xuất hiện một số đặc điểm thuộc về Long chi tử.
+Điều khiến Vương Uyên bất ngờ là, trong toàn bộ vương quốc Intercam, những gia tộc có Long huyết chưa từng có tiền lệ phụ nữ thức tỉnh. Có lẽ là do mầm bệnh mà Vương Uyên tiêm vào năm đó đã gây ra dị biến, khiến Nara thức tỉnh Long huyết. Tóm lại những năm qua, Nara cũng xuất hiện một số đặc điểm thuộc về Long chi tử.
 
 Điều khiến Vương Uyên nuối tiếc là, hắn dù sao cũng không phải là người kế thừa Long huyết. Tuy rằng thông tin truyền thừa của Long huyết hắn cũng đã đạt được, nhưng đối với Ngôn ngữ rồng thì hắn thực sự xem không hiểu. Hắn cũng từng phái người tìm kiếm những người hiểu Ngôn ngữ rồng, tiếc là vẫn luôn không tìm thấy.
 
-Thứ ba, giữa các dòng Long huyết có mối liên hệ không thể tách rời. Ngay cả Long huyết đã được trích xuất ra ngoài vẫn có mối liên hệ chặt chẽ với Nala.
+Thứ ba, giữa các dòng Long huyết có mối liên hệ không thể tách rời. Ngay cả Long huyết đã được trích xuất ra ngoài vẫn có mối liên hệ chặt chẽ với Nara.
 
-Máu hoàng kim trong tim Komoro chính là Long huyết mà Vương Uyên thông qua mầm bệnh từng bước trích xuất từ cơ thể Nala. Những Long huyết này được Vương Uyên cải tạo, học tập và cấy ghép những thứ của bản thân vào, cuối cùng lại cấy vào cơ thể của một người phù hợp để không ngừng nuôi dưỡng.
+Máu hoàng kim trong tim Komoro chính là Long huyết mà Vương Uyên thông qua mầm bệnh từng bước trích xuất từ cơ thể Nara. Những Long huyết này được Vương Uyên cải tạo, học tập và cấy ghép những thứ của bản thân vào, cuối cùng lại cấy vào cơ thể của một người phù hợp để không ngừng nuôi dưỡng.
 
 Cái gọi là "người phù hợp", chính là người có thể kế thừa Long huyết. Không biết có phải do Long huyết đã xảy ra dị biến hay không, nên muốn trở thành người phù hợp trước tiên cần ba điều kiện: Một là cơ thể mang mầm bệnh của Vương Uyên và bị lây nhiễm rất triệt để.
 
@@ -48,7 +48,7 @@ Rút dao găm ra, lại không có bất kỳ dòng máu nào bắn ra ngoài. C
 
 Noah có thể cảm nhận được một số thứ của bản thân đang bị trích xuất, có thứ gì đó đang bắt đầu thai nghén. Chàng thiếu niên vốn không có biểu cảm này, lần đầu tiên lộ ra vẻ mặt vui mừng. Cậu cảm nhận được rồi, cậu đang trở thành một phần của Negary vĩ đại, cậu và vị thần của mình đang tiếp cận nhau hơn bao giờ hết.
 
-Cùng lúc đó, Nala đang cùng mẹ đi trên đường về nhà đột nhiên ôm lấy ngực mình. Một cảm giác hồi hộp vô cớ dâng lên, nhưng ngay sau đó cảm giác này liền biến mất không chút tăm hơi. Ánh mắt của cô bé cũng càng thêm thuần khiết, thuần khiết đến mức không giống con người.
+Cùng lúc đó, Nara đang cùng mẹ đi trên đường về nhà đột nhiên ôm lấy ngực mình. Một cảm giác hồi hộp vô cớ dâng lên, nhưng ngay sau đó cảm giác này liền biến mất không chút tăm hơi. Ánh mắt của cô bé cũng càng thêm thuần khiết, thuần khiết đến mức không giống con người.
 
 Dưới gốc đại thụ của cấm địa Reya, Vương Uyên nhặt lên một chiếc lá rụng. Hắn có thể cảm nhận được hồn thể của mình đang bắt đầu viên mãn với tốc độ chưa từng có, những chỗ khiếm khuyết đang từng chút một được bù đắp.
 
@@ -76,4 +76,4 @@ Tàn hồn chém đứt quá khứ, chống đỡ hồn thể đang sụp đổ,
 * **Mầm bệnh Spreading:** Mầm bệnh lan tỏa dùng để giám sát và thao túng môi trường.
 * **Long uy (Dragon Awe):** Áp lực tinh thần đặc thù từ huyết mạch của loài rồng.
 * **Chân linh (True Soul):** Bản chất cốt lõi nhất của linh hồn một sinh mệnh.
-* **Negary / Komoro / Nala / Noah / Intercam:** Các thuật ngữ đã thống nhất.
+* **Negary / Komoro / Nara / Noah / Intercam:** Các thuật ngữ đã thống nhất.

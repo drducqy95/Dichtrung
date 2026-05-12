@@ -38,7 +38,7 @@ Biểu cảm của Noah không có vấn đề gì, nhưng những thiếu niên
 
 Rõ ràng là Chris đã cố ý để lộ tài sản để thu hút sự chú ý của đám móc túi, sau đó theo dõi về tận sào huyệt. Hẳn là ông ta có việc gì đó cần sự giúp đỡ của đám móc túi này, chứ không đơn thuần chỉ là tìm người.
 
-"Quả nhiên không thể xem thường được mà." Chris ném hòn đá trong tay sang một bên, giọng nói trở nên nghiêm túc: "Tôi tự nhiên đã tra được Isabella đang ở đâu, cũng biết cô ấy có một đứa con gái tên là Nala. Nhưng muốn đưa cô ấy đi không hề dễ dàng, có người đang giám sát tôi, gặp mặt đường đột chỉ khiến mục tiêu bị lộ."
+"Quả nhiên không thể xem thường được mà." Chris ném hòn đá trong tay sang một bên, giọng nói trở nên nghiêm túc: "Tôi tự nhiên đã tra được Isabella đang ở đâu, cũng biết cô ấy có một đứa con gái tên là Nara. Nhưng muốn đưa cô ấy đi không hề dễ dàng, có người đang giám sát tôi, gặp mặt đường đột chỉ khiến mục tiêu bị lộ."
 
 Chris nheo mắt, những vết sẹo trên mặt khiến người ta không nhìn rõ biểu cảm: "Vì vậy tôi muốn các cậu giúp tôi gặp cô ấy một cách bí mật, có một nơi đang cần cô ấy."
 
@@ -78,4 +78,4 @@ Chỉ là trong chuyện này vẫn có những điểm chưa rõ ràng. Isabell
 * **Gia tộc Tagore (Tháp Cổ Lặc):** Một nhánh của vương thất Intercam.
 * **Long Chi Tử (Dragon Son):** Huyết mạch đặc thù của vương thất Intercam.
 * **Seth I (Sese I):** Quốc vương hiện tại của Intercam.
-* **Nala / Isabella / Noah / Jacques / Reyastemia / Negary:** Các thuật ngữ đã thống nhất.
+* **Nara / Isabella / Noah / Jacques / Reyastemia / Negary:** Các thuật ngữ đã thống nhất.

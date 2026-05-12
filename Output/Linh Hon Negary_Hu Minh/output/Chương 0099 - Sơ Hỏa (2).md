@@ -10,7 +10,7 @@ Nara đang tay cầm Long lân kiếm, giao chiến với vài Quỷ Nhân. Uy �
 
 Bà ta dẫn theo đội quân Long Nhân, đang đứng trước một cánh cửa bằng xương trắng, bên cạnh là một vũng nước suối, chính là Suối Sinh Mệnh mà các sát thủ Thánh Cốc nắm giữ.
 
-Các Quỷ Nhân chiến đấu với Nara tổng cộng có ba người, lần lượt là: Mylson - kẻ phản bội Thần Ân Giáo, đội trưởng đội Quỷ Nhân đã được cấy ghép tàn hồn của Chris; Connor Kenway - gã béo có khả năng phản chấn sát thương; và một Quỷ Nhân mới mang tàn hồn của Morlis.
+Các Quỷ Nhân chiến đấu với Nara tổng cộng có ba người, lần lượt là: Mylson - kẻ phản bội Thần Ân giáo, đội trưởng đội Quỷ Nhân đã được cấy ghép tàn hồn của Chris; Connor Kenway - gã béo có khả năng phản chấn sát thương; và một Quỷ Nhân mới mang tàn hồn của Morlis.
 
 Ngoài ra, ở một phía khác còn có vài chiến trường. Kẻ phục thù Jason Todd đuổi tới nơi, đối đầu với ác nhân thuần túy Kadis Moreg. Đây là trận chiến phục thù mà Jason đã mong chờ suốt mười bảy năm qua.
 

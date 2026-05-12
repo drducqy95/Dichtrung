@@ -18,7 +18,7 @@ Override workflow `/translate` toàn cục cho cấu trúc mono-repo Dichtrung.
    - Nếu không: kiểm tra context → hỏi user chọn branch
 3. **Working dir:** `d:\Dichtrung\Output\[Tên Project Branch]\`
 4. **Source dir:** `d:\Dichtrung\Source\Source split\[Tên]\`
-5. Load state files TỪ working dir: `translation_config.json`, `glossary.json`, `pronouns.json`, `characters.json`, `context.json`, `worldbuilding.json`, `progress.json`
+5. Load state files TỪ working dir: `translation_config.json`, `glossary.json`, `pronouns.json`, `characters.json`, `context.json`, `worldbuilding.json`, `progress.json`, `Story-TimeLine.jsonl`
 6. Load global resources: `global_skills/skills/translation/SKILL.md`, `~/.gemini/antigravity/translation/global_pronouns.json`
 
 ---
@@ -59,9 +59,22 @@ Sau khi hoàn thành GĐ 5 (Output & State Update) của workflow gốc, **BẮT
      - Nếu nhân vật đã tồn tại (cùng `name_original` + `source_project`) → cập nhật
      - Nếu nhân vật mới → thêm vào, gắn `source_project: "[Tên Branch]"`
 
-3. **Log kết quả:**
+6. **Log kết quả:**
    ```
    "🔄 GLOBAL SYNC: +[X] thuật ngữ, +[Y] nhân vật → Global State"
+   ```
+
+### 5.9: Update Story-TimeLine
+
+1. **Extraction:** Dựa trên nội dung vừa dịch, trích xuất:
+   - Tóm tắt ngắn gọn diễn biến chương.
+   - Nhân vật mới xuất hiện hoặc thay đổi quan hệ.
+   - Vật phẩm, thuật ngữ, kỹ năng mới xuất hiện.
+   - Các plot points quan trọng.
+2. **Append:** Ghi thêm 1 dòng JSON vào `Output/[Branch]/Story-TimeLine.jsonl` theo schema quy định.
+3. **Log kết quả:**
+   ```
+   "📖 TIMELINE: Đã cập nhật tóm tắt chương {chapter}"
    ```
 
 ---

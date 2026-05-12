@@ -38,25 +38,25 @@ Ngay cả ở quốc đô của vương quốc Intercam, vẫn có không ít ng
 
 Điều khiến vị kỵ sĩ tò mò là, khi anh ta đi đón mẹ con Isabella, anh ta đã dạo một vòng quanh Reya nhưng lại không phát hiện ra nơi này có đa số người đều khỏe mạnh, giống như nơi này không hề tồn tại bệnh tật vậy.
 
-"Myson, đang nghĩ gì vậy?" Một giọng nói làm vị kỵ sĩ trẻ tuổi giật mình tỉnh lại, anh ta quay người lại thì thấy một mục sư trong đội, cũng chính là đệ tử của Osgoodin — Luen Donna.
+"Mylson, đang nghĩ gì vậy?" Một giọng nói làm vị kỵ sĩ trẻ tuổi giật mình tỉnh lại, anh ta quay người lại thì thấy một mục sư trong đội, cũng chính là đệ tử của Osgoodin — Luen Donna.
 
-"Là Luen sao, cảm ơn anh đã cùng tôi đi chữa trị cho những gia đình nghèo khổ đó." Myson chân thành cảm ơn. Anh ta sinh ra trong khu ổ chuột của vương đô, vì được kiểm tra thấy có thể chất phù hợp với ân tứ nên mới rời khỏi khu ổ chuột.
+"Là Luen sao, cảm ơn anh đã cùng tôi đi chữa trị cho những gia đình nghèo khổ đó." Mylson chân thành cảm ơn. Anh ta sinh ra trong khu ổ chuột của vương đô, vì được kiểm tra thấy có thể chất phù hợp với ân tứ nên mới rời khỏi khu ổ chuột.
 
 Nhưng cho đến tận bây giờ, anh ta vẫn còn nhớ những chuyện đã xảy ra trong khoảng thời gian đó. Năm ấy vương đô xảy ra dịch bệnh, nơi dịch bệnh nghiêm trọng nhất chính là khu ổ chuột, mỗi ngày đều có người vì thế mà chết đi, khắp nơi đều là những xác chết thối rữa.
 
-Lúc đó Myson cũng đang đứng bên bờ vực cái chết. Để ức chế dịch bệnh, đoàn mục sư của Thần Ân giáo đã tiến vào khu ổ chuột để dọn dẹp, Myson cũng chính là lúc đó sau khi được cứu sống đã phát hiện ra tố chất để trở thành Thần Ân kỵ sĩ.
+Lúc đó Mylson cũng đang đứng bên bờ vực cái chết. Để ức chế dịch bệnh, đoàn mục sư của Thần Ân giáo đã tiến vào khu ổ chuột để dọn dẹp, Mylson cũng chính là lúc đó sau khi được cứu sống đã phát hiện ra tố chất để trở thành Thần Ân kỵ sĩ.
 
-Đáng tiếc là anh ta phù hợp với Chiến đấu ân tứ, không thể thích ứng với Thế độ ân tứ, chỉ có thể trở thành Thần Ân kỵ sĩ. Sau khi học thành tài, có thời gian Myson đều sẽ quay lại khu ổ chuột, giúp đỡ những người không có năng lực.
+Đáng tiếc là anh ta phù hợp với Chiến đấu ân tứ, không thể thích ứng với Thế độ ân tứ, chỉ có thể trở thành Thần Ân kỵ sĩ. Sau khi học thành tài, có thời gian Mylson đều sẽ quay lại khu ổ chuột, giúp đỡ những người không có năng lực.
 
 Anh ta cũng sẽ mời những mục sư có Thế độ ân tứ tới khu ổ chuột để chữa trị miễn phí, nhưng phần lớn mọi người đều không muốn lãng phí thời gian đó. Chữa trị cho những quý tộc kia còn có thể nhận được lượng lớn tiền bạc, còn khu ổ chuột thì vừa bẩn vừa loạn, mùi hôi thối nồng nặc, khắp nơi đều thấy phân tiểu thậm chí là thi thể, những mục sư tự xưng là tầng lớp thượng lưu sao có thể nguyện ý tới đó.
 
-"Đó là việc tôi nên làm, hào quang của Chủ nhân không nên chỉ giới hạn trên người quý tộc và phú thương." Luen Donna mỉm cười trả lời. Khác với Myson, anh ta sinh ra trong một gia đình quý tộc, được giáo dục cao cấp, đối với Chủ nhân cũng cực kỳ thành kính. Chỉ thấy anh ta với nụ cười cực kỳ tự tin và tràn đầy tham vọng nói: "Nếu sau này tôi có thể đắc cử vào tầng lớp cao tầng của Thần Ân giáo, tôi nhất định sẽ đặt ra quy tắc, đưa mục mục chữa trị nghĩa vụ này vào danh sách những việc mục sư nên làm."
+"Đó là việc tôi nên làm, hào quang của Chủ nhân không nên chỉ giới hạn trên người quý tộc và phú thương." Luen Donna mỉm cười trả lời. Khác với Mylson, anh ta sinh ra trong một gia đình quý tộc, được giáo dục cao cấp, đối với Chủ nhân cũng cực kỳ thành kính. Chỉ thấy anh ta với nụ cười cực kỳ tự tin và tràn đầy tham vọng nói: "Nếu sau này tôi có thể đắc cử vào tầng lớp cao tầng của Thần Ân giáo, tôi nhất định sẽ đặt ra quy tắc, đưa mục mục chữa trị nghĩa vụ này vào danh sách những việc mục sư nên làm."
 
-So với Myson, Luen vì sinh ra trong gia đình quý tộc nên có vẻ nhiệt tình với quyền thế hơn, nhưng Myson cũng có thể cảm nhận được, Luen thực sự muốn đem hào quang của Chủ nhân rải khắp cho mọi người.
+So với Mylson, Luen vì sinh ra trong gia đình quý tộc nên có vẻ nhiệt tình với quyền thế hơn, nhưng Mylson cũng có thể cảm nhận được, Luen thực sự muốn đem hào quang của Chủ nhân rải khắp cho mọi người.
 
-"Vậy thì Luen anh phải cố gắng lên, tôi rất mong chờ đấy." Myson cực kỳ nghiêm túc nói. Vì có bối cảnh gia đình tốt, lại là đệ tử của Giám mục Osgoodin, bản thân năng lực cũng không kém, không ít người đều lạc quan rằng sau này anh ta có thể trở thành nhân viên cấp cao của Thần Ân giáo.
+"Vậy thì Luen anh phải cố gắng lên, tôi rất mong chờ đấy." Mylson cực kỳ nghiêm túc nói. Vì có bối cảnh gia đình tốt, lại là đệ tử của Giám mục Osgoodin, bản thân năng lực cũng không kém, không ít người đều lạc quan rằng sau này anh ta có thể trở thành nhân viên cấp cao của Thần Ân giáo.
 
-Sau khi chia tay Luen, Myson hơi có chút chột dạ. Anh ta nhìn con phố phồn hoa ở đằng xa, hơi có chút mờ mịt: "Tà Linh dị đoan kiểm soát bệnh tật, Negary sao?"
+Sau khi chia tay Luen, Mylson hơi có chút chột dạ. Anh ta nhìn con phố phồn hoa ở đằng xa, hơi có chút mờ mịt: "Tà Linh dị đoan kiểm soát bệnh tật, Negary sao?"
 
 ---
 **Ghi chú cuối chương:**
@@ -65,4 +65,4 @@ Sau khi chia tay Luen, Myson hơi có chút chột dạ. Anh ta nhìn con phố 
 * **Ân tứ (Grace):** Sức mạnh đặc thù được ban ban phát (Chiến đấu ân tứ, Thế độ ân tứ...).
 * **Groske:** Đại diện thương nhân Intercam tại Reyastemia.
 * **Vương quốc Intercam / Vương quốc Royas:** Hai cường quốc láng giềng.
-* **Luen Donna / Myson:** Các nhân vật thuộc Thần Ân giáo.
+* **Luen Donna / Mylson:** Các nhân vật thuộc Thần Ân giáo.

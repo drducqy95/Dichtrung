@@ -22,7 +22,7 @@ Hiện tại nếu phân hóa cấp độ sức mạnh của toàn thế giới,
 
 Đội ngũ thứ nhất chính là sự tồn tại của đám người Negary. Hiện tại được biết chỉ có ba người rưỡi. Một trong số đó tự nhiên là Negary, tàn hồn nhận được giải phóng thứ cấp, sau đó thông qua Hồn chi huyết thăng hoa khiến chất lượng hồn thể bản thân đạt đến mức giải phóng căn nguyên lần thứ hai.
 
-Người thứ hai là Eldridge, vị Quốc vương Bệ hạ của Vương quốc Royas. Thông qua di sản của Đệ nhất Đế quốc, vị Bệ hạ này cũng nhận được sức mạnh vượt qua giải phóng căn nguyên tầng thứ nhất.
+Người thứ hai là Aldrich, vị Quốc vương Bệ hạ của Vương quốc Royas. Thông qua di sản của Đệ nhất Đế quốc, vị Bệ hạ này cũng nhận được sức mạnh vượt qua giải phóng căn nguyên tầng thứ nhất.
 
 Người thứ ba chính là vị Bốn mặt của thần đã về vị trí của Heals - Cát Thiệt Giả bất khả thuật.
 

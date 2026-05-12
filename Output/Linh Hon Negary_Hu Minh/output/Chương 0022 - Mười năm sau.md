@@ -58,15 +58,15 @@ Còn nếu đối phương thuộc loại không quyền không thế, càng kh�
 
 "Không phải ạ, người đó đã bắt giữ vài người anh em của chúng ta, hy vọng nhận được sự giúp đỡ của chúng ta, dường như là để tìm người." Vẻ mặt cô bé vô cùng kỳ quái: "Hắn ta dường như đến để tìm gia đình 'con nhóc điên'."
 
-Noah dừng bước. "Con nhóc điên" trong miệng cô bé tên là Nala, là một trong số ít thiếu niên người Cosi không chịu phục tùng cậu. Tất nhiên ngay cả khi đối phương chọn phục tùng, Noah cũng sẽ không chấp nhận, dù sao đó cũng là hậu duệ của tội nhân.
+Noah dừng bước. "Con nhóc điên" trong miệng cô bé tên là Nara, là một trong số ít thiếu niên người Cosi không chịu phục tùng cậu. Tất nhiên ngay cả khi đối phương chọn phục tùng, Noah cũng sẽ không chấp nhận, dù sao đó cũng là hậu duệ của tội nhân.
 
 "Đi gặp kẻ độc hành đó trước đã." Noah tiến về phía sào huyệt của đám móc túi.
 
 Trong khi đó, trên một cây đại thụ sâu trong Reyastemia, Vương Uyên mở mắt. Cái cây đột ngột bùng lên một mảng lớn màu đen, hàng trăm hàng nghìn con quạ từ trên cây bay ra, hình thành một bầy quạ khổng lồ.
 
-"Người tìm kiếm Nala và Isabella sao?" Noah là Nghĩa nhân* của Vương Uyên, những gì cậu biết thì Vương Uyên đều có thể biết.
+"Người tìm kiếm Nara và Isabella sao?" Noah là Nghĩa nhân* của Vương Uyên, những gì cậu biết thì Vương Uyên đều có thể biết.
 
-"Lại không phải là người của vương thất Intercam, mà là một lính đánh thuê." Vương Uyên cảm thấy hơi kỳ lạ, tất nhiên cũng chỉ là một chút kỳ lạ mà thôi. Việc nghiên cứu về Nala vẫn đang ở giai đoạn then chốt, Vương Uyên không định để bất kỳ ai mang Nala đi, ít nhất là lúc này không được.
+"Lại không phải là người của vương thất Intercam, mà là một lính đánh thuê." Vương Uyên cảm thấy hơi kỳ lạ, tất nhiên cũng chỉ là một chút kỳ lạ mà thôi. Việc nghiên cứu về Nara vẫn đang ở giai đoạn then chốt, Vương Uyên không định để bất kỳ ai mang Nara đi, ít nhất là lúc này không được.
 
 Vì vậy những năm qua, dù Isabella đã nhiều lần dùng đủ mọi thủ đoạn hòng rời khỏi Reyastemia, đều bị Vương Uyên ngăn cản.
 
@@ -77,5 +77,5 @@ Vì vậy những năm qua, dù Isabella đã nhiều lần dùng đủ mọi th
 * **Reyastemia (Lôi Á Tư Đặc Mễ Á):** Nghĩa là "Nơi được sự vĩ đại chú ý".
 * **Crow Men (Quạ Nhân):** Tổ chức duy trì trật tự tại Reyastemia.
 * **Nghĩa nhân / Negary / Người Cosi / Người Kent / Royas / Intercam:** Các thuật ngữ đã thống nhất.
-* **Nala / Isabella / Noah:** Các nhân vật chính của arc này.
+* **Nara / Isabella / Noah:** Các nhân vật chính của arc này.
 * **Lars:** Một thiếu niên trong tổ chức móc túi.

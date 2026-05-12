@@ -12,7 +12,7 @@ Hiện tại quân đội Royas đã đánh tới phòng tuyến cuối cùng Co
 
 Intercam không phải không có tiền, chỉ có điều tiền bạc đều thu hết vào các trang trang viên của quý tộc và túi tiền của thương nhân, dẫn đến việc hiện tại Intercam thậm chí không có bao nhiêu quân phí. Theo lý mà nói, nếu tất cả sức mạnh của Intercam tập hợp lại thì không phải là không có sức chiến đấu, vấn đề là nếu đạo lý có thể giảng thông thì trên thế giới đã không có nhiều mâu thuẫn đến vậy.
 
-Ban đêm, Ingmalo vẫn đèn hoa rực rỡ, các buổi tiệc rượu quý tộc diễn ra tấp nập, trông còn có phần phồn vinh hơn cả thường ngày.
+Ban đêm, Ingmaro vẫn đèn hoa rực rỡ, các buổi tiệc rượu quý tộc diễn ra tấp nập, trông còn có phần phồn vinh hơn cả thường ngày.
 
 Seth I đứng trên ban công cung điện của mình, nhìn xuống thành phố đang phồn vinh một cách bất thường phía dưới, ông khẽ cười khổ.
 
@@ -38,19 +38,19 @@ Thế nhưng những thứ đã cho đi thì không thể đòi lại được. 
 
 Ý đồ của Thần Ân giáo Seth I rất rõ ràng. Nếu đổi lại là một quốc gia khác không phải Vương quốc Royas tấn công Intercam, hoặc nói là hơn mười năm trước chuyến sứ giả của Thần Ân giáo đến Royas thành công, thì lập trường của Thần Ân giáo ngày hôm nay tuyệt đối sẽ là trung lập.
 
-Về bản chất, người của Thần Ân giáo đã không còn được coi là người của Intercam nữa. Họ đại diện cho một giai cấp khác - giai cấp thần quyền. Nếu không phải vì thái độ khinh thị thần linh của Eldritch, Thần Ân giáo căn bản không thể nào ủng hộ ông.
+Về bản chất, người của Thần Ân giáo đã không còn được coi là người của Intercam nữa. Họ đại diện cho một giai cấp khác - giai cấp thần quyền. Nếu không phải vì thái độ khinh thị thần linh của Aldrich, Thần Ân giáo căn bản không thể nào ủng hộ ông.
 
 "Nghe nói là vì... Thánh nữ cứu thế." Vị đại thần do dự một chút mới nói. Ông ta tự nhiên biết năm xưa vì lời tiên tri này, Seth I đã điên cuồng đến mức nào. Ông đã phái ra các thế lực ngầm, tiêu diệt hàng loạt các bé gái thuộc các nhánh vương thất có khả năng trở thành Thánh nữ cứu thế, đắc tội với một nhóm lớn quý tộc, đây cũng là một trong những lý do khiến đám quý tộc hiện tại không muốn giúp đỡ ông.
 
 Vị đại thần vốn tưởng rằng Seth I sẽ nổi trận lôi đình, nhưng vượt ngoài dự kiến của ông ta, Seth lại tỏ ra vô cùng bình thản.
 
-Trong thoáng chốc, vị đại thần dường như nhìn thấy Seth I lúc còn trẻ. Seth lúc đó tuyệt đối có thể coi là một người có hùng tài đại lược. Ông từng bước ép sát, dồn vương thất cũ từng chút một vào đường cùng, thực hiện các kế sách liên minh để có được sự ủng hộ của phần lớn các lực lượng trong nước. Nếu không có Eldritch, Seth trong số các đời quốc vương của Intercam có thể được gọi là một vị hùng chủ.
+Trong thoáng chốc, vị đại thần dường như nhìn thấy Seth I lúc còn trẻ. Seth lúc đó tuyệt đối có thể coi là một người có hùng tài đại lược. Ông từng bước ép sát, dồn vương thất cũ từng chút một vào đường cùng, thực hiện các kế sách liên minh để có được sự ủng hộ của phần lớn các lực lượng trong nước. Nếu không có Aldrich, Seth trong số các đời quốc vương của Intercam có thể được gọi là một vị hùng chủ.
 
-Thậm chí vào lúc ban đầu, Seth và Eldritch còn không phân rõ mạnh yếu, thậm chí Seth còn đáng được khen ngợi hơn một chút, bởi vì Eldritch vốn dĩ là vương tử kế vị của Royas, còn Seth chỉ là một quý tộc nhỏ thuộc một nhánh vương thất.
+Thậm chí vào lúc ban đầu, Seth và Aldrich còn không phân rõ mạnh yếu, thậm chí Seth còn đáng được khen ngợi hơn một chút, bởi vì Aldrich vốn dĩ là vương tử kế vị của Royas, còn Seth chỉ là một quý tộc nhỏ thuộc một nhánh vương thất.
 
-Sai một ly đi một dặm, sự nỗ lực của Seth chung quy vẫn không bì được với xuất thân của Eldritch. Sau khi bước lên vương tọa, Seth vốn tưởng rằng có thể dựa vào năng lực của bản thân để từng bước thống nhất Intercam, nhưng ông đã thất bại.
+Sai một ly đi một dặm, sự nỗ lực của Seth chung quy vẫn không bì được với xuất thân của Aldrich. Sau khi bước lên vương tọa, Seth vốn tưởng rằng có thể dựa vào năng lực của bản thân để từng bước thống nhất Intercam, nhưng ông đã thất bại.
 
-Khi ông dừng chân tại chỗ thì Eldritch không hề dừng bước. Vì vậy Eldritch hiện tại đã trở thành người nắm giữ ưu thế tuyệt đối, bỏ xa Seth - kẻ từng ngang tài ngang sức, thậm chí còn nhỉnh hơn một chút năm xưa.
+Khi ông dừng chân tại chỗ thì Aldrich không hề dừng bước. Vì vậy Aldrich hiện tại đã trở thành người nắm giữ ưu thế tuyệt đối, bỏ xa Seth - kẻ từng ngang tài ngang sức, thậm chí còn nhỉnh hơn một chút năm xưa.
 
 "Ta đã không còn đường lui nữa rồi." Seth I nói như vậy. Tất nhiên ông cũng có thể chọn từ bỏ vương vị, với lực lượng nắm giữ, từ bỏ vương vị ông vẫn có thể trở thành một thế lực không nhỏ. Thế nhưng Seth thà chết chứ không muốn làm vậy, bởi vì đó là sự kiêu ngạo của một vị vua.
 

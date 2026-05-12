@@ -4,7 +4,7 @@
 
 Nhưng nếu nhìn kỹ khuôn mặt cô bé, sẽ phát hiện ra nét tinh tế không giống người phàm, dường như thừa hưởng hết những ưu điểm của cha mẹ. Cô bé bẩm sinh đã mang một loại khí chất khiến người khác nể phục.
 
-Cô bé trông giống như thằng nhóc này chính là con gái của Isabella và Jacques*, Nala Dacusmi.
+Cô bé trông giống như thằng nhóc này chính là con gái của Isabella và Jacques*, Nara Dacusmi.
 
 Chris đang đứng từ xa quan sát hai mẹ con, ông đội mũ, khuôn mặt đầy sẹo được che kín bởi chiếc khăn quàng cổ, đồng thời khoác một chiếc áo choàng dày để che đi những huân chương trên người.
 
@@ -48,27 +48,27 @@ Trong tư liệu của Vương Uyên, phù thủy có thể dùng đủ loại n
 
 Nhưng cũng có một số biểu hiện rõ ràng là sức mạnh siêu phàm. Vương Uyên từng có được hình ảnh về việc phù thủy thi triển pháp thuật từ ký ức của một lính đánh thuê: gã phù thủy đó rắc thứ gì đó ra, biến một người sống sờ sờ thành một con cóc ghẻ.
 
-Toàn thế giới còn rất nhiều tư liệu về sức mạnh siêu phàm, nhưng một phần trong đó là do tưởng tượng mà ra, một phần đã lâu không xuất hiện, có lẽ đã bị đứt quãng truyền thừa.
+Thế giới còn rất nhiều tư liệu về sức mạnh siêu phàm, nhưng một phần trong đó là do tưởng tượng mà ra, một phần đã lâu không xuất hiện, có lẽ đã bị đứt quãng truyền thừa.
 
 "Cái Hô Hấp Pháp này nhất định phải đoạt lấy." Vương Uyên nghĩ thầm. Hô Hấp Pháp là cảm nhận và lợi dụng nhịp điệu vận động, không liên quan nhiều đến Chân Linh* căn nguyên. Dù hắn không thể trực tiếp sử dụng Hô Hấp Pháp nhưng cũng có thể thu được kiến thức từ đó, tạo nền tảng vững chắc để mạnh lên sau này.
 
-"Việc nghiên cứu Nala cũng cần phải tăng tốc." Đây là đề tài nghiên cứu chính của Vương Uyên trong những năm qua.
+"Việc nghiên cứu Nara cũng cần phải tăng tốc." Đây là đề tài nghiên cứu chính của Vương Uyên trong những năm qua.
 
-Mẹ của Nala đến từ gia tộc Tagore* mang huyết mạch **Long Chi Tử**, nghe nói có thể thức tỉnh huyết mạch Cự Long. Có lẽ vì sự kích thích từ mầm bệnh của Vương Uyên, hoặc cũng có thể là do sự dung hợp huyết mạch giữa người Cosi và Tagore đã tạo ra hiệu ứng nào đó, khiến huyết mạch Cự Long vốn không được thức tỉnh suốt nhiều đời của gia tộc Tagore đang dần thức tỉnh trong cơ thể cô bé này.
+Mẹ của Nara đến từ gia tộc Tagore* mang huyết mạch **Long Chi Tử**, nghe nói có thể thức tỉnh huyết mạch Cự Long. Có lẽ vì sự kích thích từ mầm bệnh của Vương Uyên, hoặc cũng có thể là do sự dung hợp huyết mạch giữa người Cosi và Tagore đã tạo ra hiệu ứng nào đó, khiến huyết mạch Cự Long vốn không được thức tỉnh suốt nhiều đời của gia tộc Tagore đang dần thức tỉnh trong cơ thể cô bé này.
 
 Mà huyết mạch Cự Long đó ngay từ giai đoạn thai nhi đã hoàn thành quá trình bán dung hợp với mầm bệnh lây nhiễm qua người mẹ Isabella, dẫn đến việc Vương Uyên không thể khống chế những mầm bệnh đó.
 
-Nhưng cũng chính vì vậy, Vương Uyên có thể thông qua mầm bệnh để cảm nhận và nghiên cứu huyết mạch Cự Long trong cơ thể Nala.
+Nhưng cũng chính vì vậy, Vương Uyên có thể thông qua mầm bệnh để cảm nhận và nghiên cứu huyết mạch Cự Long trong cơ thể Nara.
 
 Những năm qua, việc giải mã huyết mạch Cự Long của Vương Uyên đã đạt được thành quả không nhỏ. Ví dụ như mầm bệnh Mễ Mạn chính là một biến chủng mầm bệnh mà Vương Uyên cố ý điều khiển để biến dị theo cấu trúc đó.
 
-So với ý tưởng thực sự của Vương Uyên, cái gọi là mầm bệnh Mễ Mạn chỉ là một sản phẩm phụ ngoài ý muốn mà thôi. Loại mầm bệnh lý tưởng trong lòng hắn vẫn chưa thực sự được nuôi cấy thành công, và Nala - cô bé mang trong mình huyết mạch Cự Long bán dung hợp với mầm bệnh - chính là đĩa nuôi cấy tốt nhất.
+So với ý tưởng thực sự của Vương Uyên, cái gọi là mầm bệnh Mễ Mạn chỉ là một sản phẩm phụ ngoài ý muốn mà thôi. Loại mầm bệnh lý tưởng trong lòng hắn vẫn chưa thực sự được nuôi cấy thành công, và Nara - cô bé mang trong mình huyết mạch Cự Long bán dung hợp với mầm bệnh - chính là đĩa nuôi cấy tốt nhất.
 
-"Mẹ ơi, hôm nay con lại bán được không ít vải, con giỏi không nè?" Cô bé Nala nhỏ nhắn đang ngước đầu nũng nịu với Isabella, sâu trong con ngươi có một tia sắc vàng thoáng hiện rồi biến mất.
+"Mẹ ơi, hôm nay con lại bán được không ít vải, con giỏi không nè?" Cô bé Nara nhỏ nhắn đang ngước đầu nũng nịu với Isabella, sâu trong con ngươi có một tia sắc vàng thoáng hiện rồi biến mất.
 
 ---
 **Chú thích cuối chương:**
-* **Long Huyết (Dragon Blood):** Huyết mạch Cự Long đang thức tỉnh trong người Nala.
+* **Long Huyết (Dragon Blood):** Huyết mạch Cự Long đang thức tỉnh trong người Nara.
 * **Hô Hấp Pháp (Breathing Technique):** Phương pháp tu luyện hòa hợp với nhịp điệu vạn vật.
 * **Mầm bệnh Mễ Mạn (Pervasive Germs):** Chủng mầm bệnh có tính bám dính cực cao, cộng sinh với vật chủ.
 * **Osgoodin:** Một nhân vật bí ẩn được Chris nhắc tới.

@@ -18,7 +18,7 @@ Sau khi Dị Lân Giả đáp đất, cơ thể nó lóe lên hóa thành ánh s
 
 Con Á long bị ông dùng Deep Rhythm đánh bại kia, tuy rằng màu sắc không quá giống nhau, nhưng kết hợp Rhythm thì có thể phát hiện lớp vảy vàng xỉn trên người đối phương chính là vảy rồng.
 
-"Rồng, đáng chết, đây chính là lý do Negary muốn giữ Nala lại sao?" Chris trong khoảnh khắc đã hiểu ra rất nhiều chuyện. Negary từ lâu đã phát hiện ra bí mật Nala là Long chi nữ, những năm qua cưỡng ép giữ mẹ con Isabella lại Reya là để nghiên cứu bí mật của Long huyết. Hiện tại xem ra nghiên cứu của Negary đã có thành quả nhất định, Dị Lân Giả chính là một phần thành quả trong đó.
+"Rồng, đáng chết, đây chính là lý do Negary muốn giữ Nara lại sao?" Chris trong khoảnh khắc đã hiểu ra rất nhiều chuyện. Negary từ lâu đã phát hiện ra bí mật Nara là Long chi nữ, những năm qua cưỡng ép giữ mẹ con Isabella lại Reya là để nghiên cứu bí mật của Long huyết. Hiện tại xem ra nghiên cứu của Negary đã có thành quả nhất định, Dị Lân Giả chính là một phần thành quả trong đó.
 
 Chris đoán không sai. Dị Lân Giả chính là sản vật từ nghiên cứu Hồn chi huyết của Negary trong những năm qua. Những người lai Cosi đó tiếp nhận việc cấy ghép Long huyết, nhưng linh hồn của họ không chịu đựng được Long uy bên trong Long huyết. Dưới sự áp bức của Long uy, những người được cấy ghép này càng lúc càng điên cuồng, cuối cùng không chỉ trở nên mất hết lý trí, cơ thể cũng sẽ dưới tác dụng của Long huyết mà xảy ra dị biến.
 

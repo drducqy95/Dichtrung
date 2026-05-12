@@ -38,7 +38,7 @@ Bên ngoài cấm địa có người đứng ở trên cao chuyên môn quan s�
 
 "Chư vị, lũ quạ đã rời khỏi cấm địa rồi. Yên Kết Thảo ở vùng này đều đã bị chúng tôi thu mua, có thể cháy trong ba tiếng đồng hồ, cộng thêm thời gian khói mù lưu lại, đại khái có thể chống đỡ được sáu tiếng, tức là đến lúc mặt trời mọc."
 
-"Lát nữa tôi sẽ đưa Isabella và Nala tới trốn ở một nơi an toàn." Groske nói: "Vậy thì nguyện hào quang của Chủ nhân chiếu rọi chư vị."
+"Lát nữa tôi sẽ đưa Isabella và Nara tới trốn ở một nơi an toàn." Groske nói: "Vậy thì nguyện hào quang của Chủ nhân chiếu rọi chư vị."
 
 Mọi người nhìn nhau một cái rồi bước ra khỏi cái sân. Đội chấp pháp canh giữ bên ngoài chú ý tới động tĩnh, vội vàng vây quanh lại, cầm trường mâu nghiêm giọng hỏi: "Chris Modo, ông muốn vi phạm lệnh cấm, thừa nhận tội danh ám sát thủ lĩnh Komoro của mình sao?"
 

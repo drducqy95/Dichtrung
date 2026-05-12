@@ -24,7 +24,7 @@ Negary không nhanh không chậm đi xuống dưới. Nghe ý tứ của giọn
 
 Aidan, một trong số ít những Nhiên Huyết Giả còn lại của Thánh Cốc, toàn thân rực cháy ngọn lửa sinh mệnh đỏ rực, chiếu sáng không gian xung quanh.
 
-Cách đó không xa có vài điểm sáng trắng, anh biết đó là các Thần Ân giả của Thần Ân Giáo đang dốc toàn lực phát huy Ân tứ.
+Cách đó không xa có vài điểm sáng trắng, anh biết đó là các Thần Ân giả của Thần Ân giáo đang dốc toàn lực phát huy Ân tứ.
 
 Nghĩ lại cũng chỉ có thể nói thế sự vô thường. Cách đây không lâu, hai nhóm người của họ còn đang cầm kiếm đối lập, nhưng hiện tại lại đứng trên cùng một chiến tuyến để chống lại cùng một kẻ thù.
 
@@ -66,7 +66,7 @@ Sức mạnh hiện tại của hắn chẳng qua là do Heals dùng tài nguyê
 
 Ánh trắng rực rỡ lóe lên từ bàn tay trái của Negary, ánh sáng đó ngày càng mạnh mẽ, mọi thứ xung quanh đều bị bài trừ ra xa. Dù là bóng tối, bậc thang dưới chân, hay không khí trong không trung, tất cả đều bị bài xích dưới ánh trắng.
 
-Ân tứ "Chính Nghĩa", theo mô tả của Thần Ân Giáo, có thể bài trừ những tồn tại mà bản thân cho là sai trái. Bản chất của nó chính là chuyển hóa ý chí thành lực bài xích, xua đuổi tất cả những gì bản thân coi là không đúng.
+Ân tứ "Chính Nghĩa", theo mô tả của Thần Ân giáo, có thể bài trừ những tồn tại mà bản thân cho là sai trái. Bản chất của nó chính là chuyển hóa ý chí thành lực bài xích, xua đuổi tất cả những gì bản thân coi là không đúng.
 
 Mà ý chí của Negary mạnh đến mức nào thì không ai biết được. Mảng bóng tối đó thực sự mạnh mẽ, nhưng ý chí của chủ nhân nó thì chẳng đáng nhắc tới.
 

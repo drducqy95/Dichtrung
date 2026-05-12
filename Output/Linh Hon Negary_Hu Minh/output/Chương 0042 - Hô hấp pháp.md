@@ -10,25 +10,25 @@ Lời nói của anh ta khiến Groske đứng bên cạnh hơi có chút lúng 
 
 Nghe thấy lời của Osgoodin, Chris đưa mắt nhìn mẹ con Isabella đang ăn đồ ăn ở phòng khách dưới lầu.
 
-Đây quả thực là một vấn đề. Nếu phái người hộ tống mẹ con Isabella trở về, một mặt là làm suy yếu lực lượng của họ ở đây, tỉ lệ thắng khi tiêu diệt Negary lại thấp đi một chút. Mặt khác, để tiêu diệt Negary, Osgoodin chắc chắn phải ở lại, không có Giám mục Osgoodin và những người khác đi cùng, với sự đố kỵ của Sers I, có thể dự đoán được con đường trở về của Isabella sẽ không hề an toàn.
+Đây quả thực là một vấn đề. Nếu phái người hộ tống mẹ con Isabella trở về, một mặt là làm suy yếu lực lượng của họ ở đây, tỉ lệ thắng khi tiêu diệt Negary lại thấp đi một chút. Mặt khác, để tiêu diệt Negary, Osgoodin chắc chắn phải ở lại, không có Giám mục Osgoodin và những người khác đi cùng, với sự đố kỵ của Seth I, có thể dự đoán được con đường trở về của Isabella sẽ không hề an toàn.
 
 Còn nếu để mẹ con Isabella ở lại, thì có khả năng sẽ mất hết tất cả. Đến lúc đó không chỉ không thể tiêu diệt được Negary, mà ngược lại mẹ con Isabella cũng không mang được về Intercam.
 
-Chủ yếu nhất là, nơi này ở Reya cũng không tính là an toàn. Những sát thủ do Sers I phái tới, và cả những người của vương quốc Royas cũng không có ý tốt đối với cái gọi là Thánh nữ cứu thế.
+Chủ yếu nhất là, nơi này ở Reya cũng không tính là an toàn. Những sát thủ do Seth I phái tới, và cả những người của vương quốc Royas cũng không có ý tốt đối với cái gọi là Thánh nữ cứu thế.
 
 "Tạm thời ở lại Reya trái lại đối với mẹ con Isabella còn an toàn hơn một chút." Chris im lặng hồi lâu rồi nói: "Tuy rằng ở đây cũng có kẻ thù, nhưng tương đối mà nói, người của Negary vì Long huyết cũng sẽ bảo vệ mẹ con Isabella."
 
-"Long chi nữ, Thánh nữ cứu thế sao?" Ấn ký Chân tri trên trán Osgoodin lóe lên, quan sát Nala ở dưới lầu.
+"Long chi nữ, Thánh nữ cứu thế sao?" Ấn ký Chân tri trên trán Osgoodin lóe lên, quan sát Nara ở dưới lầu.
 
-"Những đồ ăn này cháu thực sự có thể ăn tùy thích ạ?" Nala ngẩng đầu lên, mở to đôi mắt to tròn long lanh, hỏi một nữ mục sư khác. Vì thể chất phù hợp với Ân tứ của Thần không nhiều, nên ở Intercam, phụ nữ cũng có thể trở thành mục sư và Thần Ân kỵ sĩ.
+"Những đồ ăn này cháu thực sự có thể ăn tùy thích ạ?" Nara ngẩng đầu lên, mở to đôi mắt to tròn long lanh, hỏi một nữ mục sư khác. Vì thể chất phù hợp với Ân tứ của Thần không nhiều, nên ở Intercam, phụ nữ cũng có thể trở thành mục sư và Thần Ân kỵ sĩ.
 
-"Tất nhiên là không vấn đề gì rồi, những thứ này đều chuẩn bị cho mẹ con cháu mà, không đủ thì lát nữa cô đi lấy thêm." Nữ mục sư nhìn Nala đáng thương, trong nháy mắt tình mẫu tử bùng nổ, trìu mến nói.
+"Tất nhiên là không vấn đề gì rồi, những thứ này đều chuẩn bị cho mẹ con cháu mà, không đủ thì lát nữa cô đi lấy thêm." Nữ mục sư nhìn Nara đáng thương, trong nháy mắt tình mẫu tử bùng nổ, trìu mến nói.
 
-"Thật ạ?" Nala trợn to đôi mắt đáng yêu nói. Không biết có phải ảo giác hay không, khoảnh khắc đó nữ mục sư dường như thấy trong mắt Nala có ánh vàng lóe lên.
+"Thật ạ?" Nara trợn to đôi mắt đáng yêu nói. Không biết có phải ảo giác hay không, khoảnh khắc đó nữ mục sư dường như thấy trong mắt Nara có ánh vàng lóe lên.
 
-"Tất nhiên là thậ..." Nữ mục sư còn chưa nói xong, đã thấy Nala reo hò một tiếng nhào tới trước bàn, đôi tay nhỏ bé vung vẩy cực nhanh, nhanh chóng nhét những món đồ ăn có thể chạm tới vào miệng mình.
+"Tất nhiên là thậ..." Nữ mục sư còn chưa nói xong, đã thấy Nara reo hò một tiếng nhào tới trước bàn, đôi tay nhỏ bé vung vẩy cực nhanh, nhanh chóng nhét những món đồ ăn có thể chạm tới vào miệng mình.
 
-"Ngon quá, mẹ cũng ăn đi." Miệng Nala bị nhét đầy căng, trông giống như một cái bánh bao lớn, nói năng lúng búng, khiến Isabella ở bên cạnh không cầm được nước mắt, cảm thấy như bấy lâu nay đã để con gái chịu đói vậy.
+"Ngon quá, mẹ cũng ăn đi." Miệng Nara bị nhét đầy căng, trông giống như một cái bánh bao lớn, nói năng lúng búng, khiến Isabella ở bên cạnh không cầm được nước mắt, cảm thấy như bấy lâu nay đã để con gái chịu đói vậy.
 
 "Chỉ là một cô bé tham ăn thôi mà." Osgoodin xoa trán nói, nhưng trong bóng tối lại cùng Chris nhìn nhau một cái, thoáng qua một tia trầm trọng: "Đặc tính của Rồng bắt đầu thức tỉnh rồi sao?"
 
@@ -42,33 +42,33 @@ Chủ yếu nhất là, nơi này ở Reya cũng không tính là an toàn. Nh�
 
 "Tôi biết rồi." Chris thản nhiên nói. Cơ thể của ông ông tự hiểu rõ, thứ ông sợ không phải là cái chết, có lẽ cái chết đối với ông còn là một loại giải thoát hơn. Dường như nghĩ tới điều gì đó, Chris đứng dậy.
 
-Nala vẫn đang vung vẩy đôi tay trên bàn ăn ở phòng khách bỗng nhiên nghe thấy trên lầu có người gọi mình. Miệng cô bé đầy ắp, ngậm một cái đùi gà, tay còn dùng nĩa đâm một miếng bít tết.
+Nara vẫn đang vung vẩy đôi tay trên bàn ăn ở phòng khách bỗng nhiên nghe thấy trên lầu có người gọi mình. Miệng cô bé đầy ắp, ngậm một cái đùi gà, tay còn dùng nĩa đâm một miếng bít tết.
 
 Cô bé tóc vàng quay người lại, ngơ ngác nhìn Chris đang đứng trên cầu thang, dường như vẫn chưa kịp phản ứng lại.
 
-"Nala, ngài Chris đang gọi con kìa." Isabella ở bên cạnh vừa xót con vừa trách móc: "Còn nữa, con ăn uống cũng phải chú ý lễ nghi, con thế này thô lỗ quá, không giống một thục nữ chút nào."
+"Nara, ngài Chris đang gọi con kìa." Isabella ở bên cạnh vừa xót con vừa trách móc: "Còn nữa, con ăn uống cũng phải chú ý lễ nghi, con thế này thô lỗ quá, không giống một thục nữ chút nào."
 
-"Con biết rồi mẹ." Chỉ trong hai ba nháy mắt đã ăn xong cái đùi gà trong miệng, Nala lưu luyến nhìn miếng bít tết trong tay, đặt nó vào đĩa, dùng khăn ăn lau sạch tay và miệng, cứ đi một bước lại ngoái đầu nhìn đồ ăn trên bàn ba lần, đi về phía Chris.
+"Con biết rồi mẹ." Chỉ trong hai ba nháy mắt đã ăn xong cái đùi gà trong miệng, Nara lưu luyến nhìn miếng bít tết trong tay, đặt nó vào đĩa, dùng khăn ăn lau sạch tay và miệng, cứ đi một bước lại ngoái đầu nhìn đồ ăn trên bàn ba lần, đi về phía Chris.
 
-"Ngài Chris, có chuyện gì vậy ạ?" Nala mở to mắt nhìn Chris, thỉnh thoảng còn lén quay đầu lại, rõ ràng vẫn còn đang nhớ nhung đồ ăn trên bàn.
+"Ngài Chris, có chuyện gì vậy ạ?" Nara mở to mắt nhìn Chris, thỉnh thoảng còn lén quay đầu lại, rõ ràng vẫn còn đang nhớ nhung đồ ăn trên bàn.
 
-"Nala à, cháu muốn bảo vệ mẹ mình không?" Chris đặt một tay lên vai Nala, không ngừng cảm nhận Rhythm của cô bé. Cảm nhận thấy Rhythm của đối phương không có gì bất thường, ông mới yên tâm nói.
+"Nara à, cháu muốn bảo vệ mẹ mình không?" Chris đặt một tay lên vai Nara, không ngừng cảm nhận Rhythm của cô bé. Cảm nhận thấy Rhythm của đối phương không có gì bất thường, ông mới yên tâm nói.
 
-"Tất nhiên rồi ạ, Nala sẽ luôn bảo vệ mẹ." Nala gật đầu nghiêm túc nói.
+"Tất nhiên rồi ạ, Nara sẽ luôn bảo vệ mẹ." Nara gật đầu nghiêm túc nói.
 
-"Tiếp theo ta sẽ truyền thụ cho cháu một số thứ. Cháu học được rồi mới có thể bảo vệ mẹ và bảo vệ bản thân tốt hơn. Cháu phải chăm chỉ học, được không?" Chris nghiêm túc nói, nhìn ánh mắt ngây thơ của Nala, giống như thấy lại chính mình lang thang không biết vì sao năm xưa.
+"Tiếp theo ta sẽ truyền thụ cho cháu một số thứ. Cháu học được rồi mới có thể bảo vệ mẹ và bảo vệ bản thân tốt hơn. Cháu phải chăm chỉ học, được không?" Chris nghiêm túc nói, nhìn ánh mắt ngây thơ của Nara, giống như thấy lại chính mình lang thang không biết vì sao năm xưa.
 
-Hiện tại Nala vẫn còn quá nhỏ, có nhiều thứ vẫn chưa hiểu, có lẽ đợi đến khi cô bé hiểu được những điều đó, cô bé sẽ trưởng thành thành vị Thánh nữ cứu thế kia.
+Hiện tại Nara vẫn còn quá nhỏ, có nhiều thứ vẫn chưa hiểu, có lẽ đợi đến khi cô bé hiểu được những điều đó, cô bé sẽ trưởng thành thành vị Thánh nữ cứu thế kia.
 
-"Thứ mà ta truyền thụ cho cháu, tên là Hô Hấp Pháp!" Tay Chris đặt trên vai Nala, bắt đầu hít thở với một tần số kỳ lạ. Rhythm thuận theo tay Chris tràn vào trong cơ thể Nala, dẫn dắt cô bé bắt đầu hít thở.
+"Thứ mà ta truyền thụ cho cháu, tên là Hô Hấp Pháp!" Tay Chris đặt trên vai Nara, bắt đầu hít thở với một tần số kỳ lạ. Rhythm thuận theo tay Chris tràn vào trong cơ thể Nara, dẫn dắt cô bé bắt đầu hít thở.
 
-Ánh vàng trong mắt Nala lóe lên rồi biến mất. Chris chấn kinh nhìn Nala, nhịp thở của cô bé gần như trong nháy mắt đã hoàn thành sự đồng bộ với ông, tự nhiên nhi nhiên khế hợp với Rhythm xung quanh.
+Ánh vàng trong mắt Nara lóe lên rồi biến mất. Chris chấn kinh nhìn Nara, nhịp thở của cô bé gần như trong nháy mắt đã hoàn thành sự đồng bộ với ông, tự nhiên nhi nhiên khế hợp với Rhythm xung quanh.
 
 ---
 **Ghi chú cuối chương:**
 * **Hô Hấp Pháp (Breathing Technique):** Kỹ thuật nền tảng của Chris Modo, giúp hòa hợp với nhịp điệu thế giới.
-* **Sers I (Sers đệ nhất):** Quốc vương vương quốc Intercam, được mô tả là người hay đố kỵ.
+* **Seth I (Sers đệ nhất):** Quốc vương vương quốc Intercam, được mô tả là người hay đố kỵ.
 * **Thế độ ân tứ (Saving Grace):** Ân tứ dùng để chữa trị thương thế và bệnh tật.
-* **Thánh nữ cứu thế (Savior Saint):** Danh hiệu trong tiên tri dành cho Nala.
+* **Thánh nữ cứu thế (Savior Saint):** Danh hiệu trong tiên tri dành cho Nara.
 * **Ấn ký Chân tri (True Knowledge Mark):** Khả năng quan sát bản chất sự vật của Giám mục Osgoodin.
-* **Chris / Osgoodin / Isabella / Nala / Groske:** Các thuật ngữ đã thống nhất.
+* **Chris / Osgoodin / Isabella / Nara / Groske:** Các thuật ngữ đã thống nhất.

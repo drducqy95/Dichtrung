@@ -62,7 +62,7 @@ Tạo đầy đủ cấu trúc state files + thư mục con (y hệt workflow g�
       "description": "Source nằm ở thư mục gốc, KHÔNG copy vào branch"
     }
   }
-  ```
+6. **Initialize Story-TimeLine:** Tạo file `Story-TimeLine.jsonl` trống để bắt đầu theo dõi cốt truyện.
 
 ### Bước 3: Import Từ Global State
 
@@ -81,6 +81,7 @@ Giống workflow gốc + thêm:
 📂 Source: Source/Source split/[Tên]/ (THAM CHIẾU, không copy)
 📂 Branch: Output/[Tên Project Branch]/
 🔄 Global Import: [X] thuật ngữ, [Y] nhân vật
+📖 Timeline: Đã khởi tạo Story-TimeLine.jsonl
 ```
 
 ---

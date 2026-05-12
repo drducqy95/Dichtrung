@@ -1,10 +1,10 @@
 ---
-description: Dịch lại các đoạn lỗi trong bản dịch Dichtrung (override /restranslate gốc)
+description: Dịch lại các đoạn lỗi trong bản dịch Dichtrung (override /retranslate gốc)
 ---
 
-# WORKFLOW: /restranslate — Dichtrung Patch Translation v1.0
+# WORKFLOW: /retranslate — Dichtrung Patch Translation v1.0
 
-Override workflow `/restranslate` toàn cục cho cấu trúc mono-repo Dichtrung.
+Override workflow `/retranslate` toàn cục cho cấu trúc mono-repo Dichtrung.
 
 ---
 
@@ -14,7 +14,7 @@ Override workflow `/restranslate` toàn cục cho cấu trúc mono-repo Dichtrun
 
 1. Đọc `d:\Dichtrung\Global State\global_config.json` → lấy quy tắc dịch toàn cục
 2. Xác định project branch hiện tại:
-   - Nếu user chỉ định: `/restranslate [tên branch] [chapter_range] [yêu cầu]`
+   - Nếu user chỉ định: `/retranslate [tên branch] [chapter_range] [yêu cầu]`
    - Nếu không: kiểm tra context → hỏi user chọn branch
 3. **Working dir:** `d:\Dichtrung\Output\[Tên Project Branch]\`
 4. **Source dir:** `d:\Dichtrung\Source\Source split\[Tên]\`
@@ -24,6 +24,7 @@ Override workflow `/restranslate` toàn cục cho cấu trúc mono-repo Dichtrun
    - `characters.json` → tên nhân vật, xưng hô
    - `pronouns.json` → quy tắc xưng hô
    - `progress.json` → biết chương nào đã dịch
+   - `Story-TimeLine.jsonl` → diễn biến cốt truyện để duy trì sự nhất quán
 6. Đọc yêu cầu cụ thể của user → **QUYỀN ƯU TIÊN CAO NHẤT**
 
 ---
@@ -91,6 +92,7 @@ Tất cả các bước quét lỗi và sửa lỗi PHẢI thực hiện bằng:
 
 1. **Đọc glossary** → Build danh sách thuật ngữ cần kiểm tra (trong bộ nhớ)
 2. **Đọc characters** → Build danh sách tên nhân vật cần kiểm tra
+3. **Đọc Story-TimeLine** → Nắm bắt diễn biến và các chi tiết cốt truyện quan trọng để đảm bảo việc sửa lỗi không làm sai lệch logic truyện.
 3. **Đọc từng file output** bằng `view_file`
 4. **So sánh thủ công** từng dòng với bảng quy tắc
 5. **Dùng `grep_search`** khi cần tìm pattern cụ thể trong nhiều file

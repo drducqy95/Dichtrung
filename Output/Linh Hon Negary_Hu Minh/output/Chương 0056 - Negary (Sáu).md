@@ -12,9 +12,9 @@ Mỗi một Tà Linh đã phát triển hoàn thiện đều là một thiên ta
 
 Và điều khiến Osgoodin thậm chí là toàn bộ Thần Ân giáo cảm thấy lo sợ bất an chính là tần suất xuất hiện của Tà Linh ngày càng cao. Điều này khiến người ta không thể không tin vào những thảm họa được ghi chép trong Thần Ân Bí Điển liệu có thực sự xảy ra hay không, nhất là lần này còn xuất hiện một Tà Linh có lý trí như Negary.
 
-Trong sử sách của Thần Ân giáo ghi chép rằng, người Cauchy từng là chủng tộc mạnh nhất trên đại lục, họ đã xây dựng nên một đế quốc khổng lồ: Trilandcia.
+Trong sử sách của Thần Ân giáo ghi chép rằng, người Cosi từng là chủng tộc mạnh nhất trên đại lục, họ đã xây dựng nên một đế quốc khổng lồ: Trilansia.
 
-Mà đế quốc đã diệt vong hơn hai trăm năm trước này, lý do chủ yếu nhất khiến nó lụi tàn chính là lúc đó ở Trilandcia đã xuất hiện một Tà Linh có lý trí. Tà Linh đó mang sức mạnh khống chế lòng người, hắn đã dấy lên nội loạn trong đế quốc Trilandcia, khiến đế quốc khổng lồ này từng bước đi tới diệt vong.
+Mà đế quốc đã diệt vong hơn hai trăm năm trước này, lý do chủ yếu nhất khiến nó lụi tàn chính là lúc đó ở Trilansia đã xuất hiện một Tà Linh có lý trí. Tà Linh đó mang sức mạnh khống chế lòng người, hắn đã dấy lên nội loạn trong đế quốc Trilansia, khiến đế quốc khổng lồ này từng bước đi tới diệt vong.
 
 "Tà Linh là nguồn gốc của họa loạn, chúng là kết quả của sự sai lầm. Sự xuất hiện của chúng sẽ dẫn tới những thảm họa lớn hơn, vì vậy Tà Linh phải bị thanh tẩy!" Đây là sự đồng thuận chung từ trên xuống dưới của Thần Ân giáo.
 

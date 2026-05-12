@@ -2,7 +2,7 @@
   "metadata": {
     "version": "1.0",
     "project": "Linh Hồn Negary",
-    "last_updated": "2026-05-11T21:47:11.446205"
+    "last_updated": "2026-05-12T17:58:29.9643200+07:00"
   },
   "characters": [
     {
@@ -29,7 +29,7 @@
       "gender": "nam",
       "role": "Phụ",
       "description": "Thợ săn râu rậm người Cosi.",
-      "notes": "Trưởng bối của Komodo."
+      "notes": "Trưởng bối của Komoro."
     },
     {
       "name_original": "科摩罗",
@@ -138,14 +138,17 @@
       "name_translated": "Sen",
       "gender": "nam",
       "role": "Phụ",
-      "description": "Thành viên đội hộ vệ đột kích, bạn thuở nhỏ của Komodo, từng làm bị thương một con quạ.",
+      "description": "Thành viên đội hộ vệ đột kích, bạn thuở nhỏ của Komoro, từng làm bị thương một con quạ.",
       "notes": "",
       "pending_sync": false
     },
     {
       "id": "char_003",
       "name_original": "奥斯古丁",
-      "name_translated": "Osgood",
+      "name_translated": "Osgoodin",
+      "aliases": [
+        "Osgood"
+      ],
       "gender": "nam",
       "role": "Thứ chính",
       "description": "Giám mục Thần Ân giáo, người ủy thác và bạn của Chris Modo.",
@@ -172,16 +175,22 @@
     {
       "id": "char_006",
       "name_original": "路恩·多纳",
-      "name_translated": "Luen Dona",
+      "name_translated": "Luen Donna",
+      "aliases": [
+        "Luen Dona"
+      ],
       "gender": "nam",
       "role": "Phụ",
-      "description": "Đệ tử của Osgood, mục sư có tham vọng cải tổ Thần Ân giáo.",
+      "description": "Đệ tử của Osgoodin, mục sư có tham vọng cải tổ Thần Ân giáo.",
       "status": "active"
     },
     {
       "id": "char_007",
       "name_original": "迈尔森",
-      "name_translated": "Myson",
+      "name_translated": "Mylson",
+      "aliases": [
+        "Myson"
+      ],
       "gender": "nam",
       "role": "Phụ",
       "description": "Thần Ân kỵ sĩ trẻ tuổi, xuất thân từ khu ổ chuột.",
@@ -190,7 +199,10 @@
     {
       "id": "char_008",
       "name_original": "斯米克·兰彻",
-      "name_translated": "Smik Lancher",
+      "name_translated": "Smic Lancher",
+      "aliases": [
+        "Smik Lancher"
+      ],
       "gender": "nam",
       "role": "Thứ chính",
       "description": "Cao thủ vương quốc Royas, kế thừa Quang chi lưu pháp.",
@@ -199,7 +211,11 @@
     {
       "id": "char_009",
       "name_original": "艾尔德里奇",
-      "name_translated": "Eldridge",
+      "name_translated": "Aldrich",
+      "aliases": [
+        "Eldridge",
+        "Eldritch"
+      ],
       "gender": "nam",
       "role": "Thứ chính",
       "description": "Quốc vương vĩ đại của Royas, một vị minh quân độc tài đầy tham vọng.",
@@ -209,6 +225,9 @@
       "id": "char_010",
       "name_original": "里弗斯",
       "name_translated": "Rivers",
+      "aliases": [
+        "Reavers"
+      ],
       "gender": "nam",
       "role": "Phụ",
       "description": "Thần Ân kỵ sĩ sử dụng Hy sinh ân tứ trong trận chiến cấm địa.",
@@ -224,6 +243,20 @@
       "status": "active"
     },
     {
+      "id": "char_012",
+      "name_original": "瑟斯一世",
+      "name_translated": "Seth I",
+      "aliases": [
+        "Sers I",
+        "Seth đệ nhất",
+        "Sese I"
+      ],
+      "gender": "nam",
+      "role": "Thứ chính",
+      "description": "Quốc vương Intercam, người khơi mào nội loạn vương thất.",
+      "status": "active"
+    },
+    {
       "name_original": "莱斯·拉瓦尔",
       "name_translated": "Les Laval",
       "gender": "nam",
@@ -234,11 +267,14 @@
     },
     {
       "name_original": "谟尔莉斯",
-      "name_translated": "Mollis",
+      "name_translated": "Morlis",
+      "aliases": [
+        "Mollis"
+      ],
       "gender": "nữ",
       "role": "Phản diện",
       "description": "Tiểu thư quý tộc lãnh địa Scoro, bị Heals biến thành Tà Linh Đoạt Thủ giả.",
-      "notes": "Mollis Bất Khả Trắc.",
+      "notes": "Morlis Bất Khả Trắc.",
       "pending_sync": false
     },
     {
@@ -246,7 +282,7 @@
       "name_translated": "Amy",
       "gender": "nữ",
       "role": "Phụ",
-      "description": "Thị nữ của Mollis, bị Heals giết để làm tế phẩm.",
+      "description": "Thị nữ của Morlis, bị Heals giết để làm tế phẩm.",
       "notes": "Đã chết.",
       "pending_sync": false
     },
@@ -261,7 +297,10 @@
     },
     {
       "name_original": "卡达",
-      "name_translated": "Kada",
+      "name_translated": "Cada",
+      "aliases": [
+        "Kada"
+      ],
       "gender": "nam",
       "role": "Phản diện",
       "description": "Quý tộc Royas, chỉ huy quân vây hãm Colomier.",
@@ -270,7 +309,10 @@
     },
     {
       "name_original": "阿尔克斯·鲁伊",
-      "name_translated": "Arks Rui",
+      "name_translated": "Alkes Rui",
+      "aliases": [
+        "Arks Rui"
+      ],
       "gender": "nam",
       "role": "Phụ",
       "description": "Hiệp sĩ Intercam, người kế thừa Cương Lưu Pháp, thần phục Nara.",

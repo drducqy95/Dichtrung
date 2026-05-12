@@ -1,8 +1,8 @@
 # Chương 0025: Lời tiên tri
 
-"Nala của mẹ là giỏi nhất." Isabella véo nhẹ vào đôi má bầu bĩnh của con gái, lên tiếng khen ngợi.
+"Nara của mẹ là giỏi nhất." Isabella véo nhẹ vào đôi má bầu bĩnh của con gái, lên tiếng khen ngợi.
 
-Vì thân phận là vợ con của Jacques* - kẻ tội nhân bị đóng đinh năm xưa, Isabella và Nala luôn bị những người khác bài xích, cuộc sống tại đây vô cùng gian nan.
+Vì thân phận là vợ con của Jacques* - kẻ tội nhân bị đóng đinh năm xưa, Isabella và Nara luôn bị những người khác bài xích, cuộc sống tại đây vô cùng gian nan.
 
 Cô đã từng muốn rời khỏi nơi này từ rất lâu rồi, nhưng lần nào cũng kết thúc bằng thất bại.
 
@@ -22,7 +22,7 @@ Ví dụ như một loại bánh trái của vương quốc Intercam* luôn đư
 
 Do đó, việc buôn lậu các loại mặt hàng như vậy trở nên vô cùng đắt khách. Chỉ là một món điểm tâm thôi mà có thể bán được với giá vàng ròng, thương nhân vì lợi ích mà có thể trở nên cực kỳ điên cuồng.
 
-Chris nhìn sự phồn vinh nơi đây, cũng nhìn thấy những dòng chảy ngầm ẩn giấu phía sau. Quan trọng hơn là một số kẻ đang lẩn khuất trong đám đông, Chris hiểu rõ họ đến đây vì lý do gì.
+Chris nhìn sự phồn vinh nơi đây, cũng nhìn thấy những dòng chảy ngầm ẩn giấu phía sau. Quan trọng hơn là một số kẻ đang lẩn khất trong đám đông, Chris hiểu rõ họ đến đây vì lý do gì.
 
 Nửa năm trước, có người đã đến hỏi một nữ phù thủy về tương lai của vương quốc Intercam đang dần suy yếu.
 
@@ -34,7 +34,7 @@ Sau nửa năm tìm kiếm, mọi người đã đổ dồn ánh mắt vào chi 
 
 Lời tiên tri này khiến mọi người tự nhiên nghĩ đến huyết mạch của vương thất. Vì chuyện này, đã có vài quý cô mang huyết mạch vương thất chết một cách không minh bạch. Vị Seth I* kia vốn không phải là hạng người dễ dàng buông bỏ quyền lực.
 
-Mặc dù truyền giáo sĩ của Thần Ân giáo năm xưa không thành công đưa Isabella và Nala đi, nhưng cũng đã kịp truyền tin tức về sự tồn tại của cô đến Giám mục Osgoodin* trong giáo hội. Thế là một bộ phận những người tin vào lời tiên tri trong vương quốc Intercam đã chủ trương cứu hai mẹ con này ra.
+Mặc dù truyền giáo sĩ của Thần Ân giáo năm xưa không thành công đưa Isabella và Nara đi, nhưng cũng đã kịp truyền tin tức về sự tồn tại của cô đến Giám mục Osgoodin* trong giáo hội. Thế là một bộ phận những người tin vào lời tiên tri trong vương quốc Intercam đã chủ trương cứu hai mẹ con này ra.
 
 Lực lượng chính quy của Intercam không tiện ra mặt, bởi lẽ trên danh nghĩa quốc vương của Intercam hiện tại vẫn là Seth I, nếu ông ta muốn hãm hại Isabella một cách công khai thì cũng vô cùng đơn giản.
 
@@ -76,4 +76,4 @@ Vẻ mặt Chris nghiêm nghị, ông dừng lại trong một con hẻm nhỏ, 
 * **Osgoodin:** Giám mục Thần Ân giáo, bạn của Chris.
 * **Bugitier:** Truyền giáo sĩ đã chết tại Reyastemia.
 * **Thiếu niên bang (Youth Gang):** Tổ chức thiếu niên người Cosi tại Reyastemia.
-* **Negary / Tà Linh / Người Cosi / Reyastemia / Thần Ân giáo / Hô Hấp Pháp / Long Chi Tử / Seth I / Jacques / Isabella / Nala:** Các thuật ngữ đã thống nhất.
+* **Negary / Tà Linh / Người Cosi / Reyastemia / Thần Ân giáo / Hô Hấp Pháp / Long Chi Tử / Seth I / Jacques / Isabella / Nara:** Các thuật ngữ đã thống nhất.

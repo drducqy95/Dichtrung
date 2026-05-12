@@ -10,7 +10,7 @@ Sức chiến đấu trực diện của Mylson không hề yếu hơn cô bao n
 
 Chỉ thấy lúc này trên người Mylson cũng xuất hiện những triệu chứng tương tự, thậm chí còn nghiêm trọng hơn cả Nara.
 
-Sở dĩ hắn phản bội Thần Ân Giáo để thần phục Negary cũng chính vì căn bệnh - thứ phiền toái đang dày vò thế nhân này. Và sau khi được cấy ghép phụ hồn của Chris, hắn cũng đạt được năng lực lý tưởng của mình.
+Sở dĩ hắn phản bội Thần Ân giáo để thần phục Negary cũng chính vì căn bệnh - thứ phiền toái đang dày vò thế nhân này. Và sau khi được cấy ghép phụ hồn của Chris, hắn cũng đạt được năng lực lý tưởng của mình.
 
 Tật bệnh đồng điều — tác dụng là thông qua năng lực để hoàn thành sự cộng hưởng với người mắc bệnh, khiến bản thân xuất hiện căn bệnh tương tự, sau đó bên trong cơ thể hắn sẽ sản sinh ra vắc-xin chữa trị căn bệnh đó. Hơn nữa loại vắc-xin này có thể dần dần lan rộng, hòa nhập vào môi trường xung quanh. Điều này đồng nghĩa với việc mỗi khi một loại vắc-xin được hoàn thiện, thế gian sẽ bớt đi một loại bệnh tật.
 
@@ -60,13 +60,13 @@ Vậy nên Nara khi kết hợp Long uy và hô hấp pháp, vào khoảnh khắ
 
 "Hô hấp pháp có lẽ chính là phương pháp mà Cự Nhân phát minh ra để duy trì ngọn lửa, và chỉ giới hạn cho nhân loại sử dụng hô hấp pháp là để ngăn chặn sức mạnh này bị Hắc Uyên chiếm lấy." Noah thông qua hiện tượng này đã phát hiện ra bản chất của hô hấp pháp.
 
-Sau đó anh lại nhớ tới thông tin thu được về các thuật sĩ Vu linh của người Cauchy mà anh đã điều tra những năm qua.
+Sau đó anh lại nhớ tới thông tin thu được về các thuật sĩ Vu linh của người Cosi mà anh đã điều tra những năm qua.
 
-Người Cauchy mặc dù tự xưng là chủng tộc do tinh thần của Thủy tổ vạn vật hóa thành, nhưng sau nhiều năm điều tra không ngừng, anh đã phát hiện ra chân tướng sự thật. Nói đúng hơn, người Cauchy không phải là hậu duệ của Cự Nhân, mà là chủng tộc xuất hiện do sự lai tạp giữa người và thần.
+Người Cosi mặc dù tự xưng là chủng tộc do tinh thần của Thủy tổ vạn vật hóa thành, nhưng sau nhiều năm điều tra không ngừng, anh đã phát hiện ra chân tướng sự thật. Nói đúng hơn, người Cosi không phải là hậu duệ của Cự Nhân, mà là chủng tộc xuất hiện do sự lai tạp giữa người và thần.
 
 Tên của các vị thần mà thuật sĩ Vu linh kêu gọi, thông qua trí nhớ của Mạt Thần, Negary đã phát hiện phần lớn đều là tên của các thành viên Thần tộc năm xưa, bao gồm cả cái tên Negary này cũng là tên của một thành viên Thần tộc thời thượng cổ.
 
-Chẳng qua là vào thời kỳ Đệ Nhất Đế quốc, Tân Thần dẫn theo Thần tộc bỏ chạy. Để che giấu sự thật không mấy vẻ vang này, sau khi người Cauchy thiết lập đế quốc đã hủy diệt một lượng lớn tư liệu về Thần tộc, đồng thời sửa đổi thần thoại sáng thế, nâng tầm Cự Nhân thành Thủy tổ vạn vật và tự xưng là do tinh thần của ông hóa thành.
+Chẳng qua là vào thời kỳ Đệ Nhất Đế quốc, Tân Thần dẫn theo Thần tộc bỏ chạy. Để che giấu sự thật không mấy vẻ vang này, sau khi người Cosi thiết lập đế quốc đã hủy diệt một lượng lớn tư liệu về Thần tộc, đồng thời sửa đổi thần thoại sáng thế, nâng tầm Cự Nhân thành Thủy tổ vạn vật và tự xưng là do tinh thần của ông hóa thành.
 
 Nghĩ đến đây, Noah nhìn về phía cô gái vẫn thuần khiết như thuở ban đầu kia và mỉm cười.
 
@@ -75,6 +75,6 @@ Nghĩ đến đây, Noah nhìn về phía cô gái vẫn thuần khiết như th
 **Chú thích:**
 - **Tật bệnh đồng điều (Disease Synchronization):** Năng lực của Mylson cho phép hắn đồng bộ hóa mầm bệnh giữa bản thân và mục tiêu. Hắn vừa là kẻ gieo rắc bệnh tật, vừa là người tạo ra vắc-xin cứu người bằng chính cơ thể mình.
 - **Luật động (Rhythm):** Tần số dao động cơ bản của vạn vật trong thế giới được tạo ra bởi Sơ hỏa.
-- **Người Cauchy (Cauchy):** Chủng tộc được cho là lai giữa nhân loại và Thần tộc, nắm giữ bí mật về các Vu linh.
+- **Người Cosi (Cosi):** Chủng tộc được cho là lai giữa nhân loại và Thần tộc, nắm giữ bí mật về các Vu linh.
 - **Thần tộc (God Race):** Những thực thể mạnh mẽ bước ra từ Sơ hỏa, đã rời bỏ thế giới này từ lâu.
 - **Negary:** Thực chất là tên của một vị thần thời thượng cổ trong ký ức của Mạt Thần.

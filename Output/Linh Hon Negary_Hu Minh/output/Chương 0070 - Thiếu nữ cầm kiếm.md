@@ -22,7 +22,7 @@ Chỉ khi xác định rõ được niềm tin của bản thân, có thể vì 
 
 "Phải làm gì đó để họ sống lại mới được." Nara quay người, nhìn ngọn lửa đang nhảy múa, nhưng đầu óc cô trống rỗng. Về việc làm thế nào để cổ vũ sĩ khí, cô chẳng qua cũng chỉ là một cô gái thôn quê, làm sao biết được nhiều đến thế.
 
-Thuở nhỏ cô lớn lên ở Reyastemia, lúc đó phần lớn người dân Reya đều bài xích cô, cô rất ít tiếp xúc với người khác. Đến Intercam, để không bị lộ dưới mắt Seth I, quanh năm cô đều ở trong nông trang. Reavers cũng chỉ dạy cô chiến đấu, còn làm thế nào để cổ vũ người khác thì chính Reavers cũng chẳng biết.
+Thuở nhỏ cô lớn lên ở Reyastemia, lúc đó phần lớn người dân Reya đều bài xích cô, cô rất ít tiếp xúc với người khác. Đến Intercam, để không bị lộ dưới mắt Seth I, quanh năm cô đều ở trong nông trang. Rivers cũng chỉ dạy cô chiến đấu, còn làm thế nào để cổ vũ người khác thì chính Rivers cũng chẳng biết.
 
 "Quả nhiên cầm quân đánh trận là khó khăn nhất." Nara phồng má nghĩ thầm. Hiện tại cô chỉ muốn ăn một bữa thật no, đáng tiếc quân lương không mấy dư dả. Một gánh nặng đè lên vai cô, khiến cô cảm thấy vô cùng phiền não.
 

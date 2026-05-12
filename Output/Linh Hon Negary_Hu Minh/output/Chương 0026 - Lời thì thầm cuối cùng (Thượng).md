@@ -14,7 +14,7 @@ Bugitier cũng thông qua chiếc nhẫn này để liên lạc với Osgoodin* 
 
 "Hù hù hù! Cẩn thận một chút, lũ quạ đó sẽ không hành động quy mô lớn ở những nơi đông người, nhưng cũng phải đề phòng đối phương chó cùng rứt giậu." Bugitier ôm vết thương trên vai, gấp gáp nói.
 
-Ở phía bên kia, Isabella ôm chặt Nala đang say ngủ, khuôn mặt đầy vẻ sợ hãi: "Ngài Bugitier, ngài đừng quản chúng tôi nữa, chúng tôi không thoát khỏi đây được đâu. Con ác quỷ đó, hắn sẽ không tha cho tôi đâu!!"
+Ở phía bên kia, Isabella ôm chặt Nara đang say ngủ, khuôn mặt đầy vẻ sợ hãi: "Ngài Bugitier, ngài đừng quản chúng tôi nữa, chúng tôi không thoát khỏi đây được đâu. Con ác quỷ đó, hắn sẽ không tha cho tôi đâu!!"
 
 "Đừng sợ hãi, Chủ nhân sẽ che chở chúng ta." Trong tay Bugitier lóe lên ánh sáng trắng, ông ấn vào vết thương của mình, máu đen trực tiếp bắn ra ngoài.
 
@@ -44,7 +44,7 @@ Bugitier đưa Isabella thuê một cỗ xe ngựa, phi nước đại về hư�
 
 Neurila, trong thần thoại truyền thuyết của người Cosi, là vị nữ thần chồi non tượng trưng cho lá xanh tân sinh. Đống mảnh gỗ vỡ nát của xe ngựa đã mọc ra những mầm xanh bên cạnh.
 
-Bugitier bán đôn (nửa quỳ) sang một bên, trên người lóe lên ánh sáng trắng, hộ vệ Isabella và Nala ở phía sau. Ông biết không thể trì hoãn thêm được nữa, né tránh không ứng chiến chỉ khiến tình hình ngày càng tồi tệ. Cách duy nhất hiện giờ là tìm ra kẻ đang ẩn nấp trong bóng tối và đánh bại hắn thì mới có thể đưa mẹ con Isabella đi.
+Bugitier bán đôn (nửa quỳ) sang một bên, trên người lóe lên ánh sáng trắng, hộ vệ Isabella và Nara ở phía sau. Ông biết không thể trì hoãn thêm được nữa, né tránh không ứng chiến chỉ khiến tình hình ngày càng tồi tệ. Cách duy nhất hiện giờ là tìm ra kẻ đang ẩn nấp trong bóng tối và đánh bại hắn thì mới có thể đưa mẹ con Isabella đi.
 
 "Giám mục Osgoodin, xin hãy nghe cho kỹ. Reyastemia còn có một người nghi là Vu Linh thuật sĩ đang phục vụ cho Negary. Hắn hiện đang truy kích tôi, bây giờ tôi buộc phải quyết chiến với hắn, xin hãy chờ tin tốt của tôi."
 
@@ -72,4 +72,4 @@ Năm đó đế quốc Trilandcia sụp đổ, người Cosi ly tán, truyền t
 * **Neurila:** Nữ thần chồi non tượng trưng cho sự sinh trưởng.
 * **Đế quốc Trilandcia (Trilandcia Empire):** Đế quốc cổ đại vĩ đại của người Cosi.
 * **Thần Ân Thánh Kinh:** Sách thánh của Thần Ân giáo.
-* **Bugitier / Osgoodin / Noah / Negary / Isabella / Nala / Reyastemia / Vu Linh thuật sĩ / Thần Ân giáo / Chris Modo:** Các thuật ngữ đã thống nhất.
+* **Bugitier / Osgoodin / Noah / Negary / Isabella / Nara / Reyastemia / Vu Linh thuật sĩ / Thần Ân giáo / Chris Modo:** Các thuật ngữ đã thống nhất.

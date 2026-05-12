@@ -36,15 +36,15 @@ Dù sao ngài cũng không có chân linh. Mặc dù mượn nhờ Hồn chi huy
 
 Thứ Negary đang đọc là những cuốn sách lịch sử ngài thu thập được, ngoài ra còn có đủ loại du ký và thần thoại truyền thuyết.
 
-Lịch sử thế giới này còn khá cổ xưa. Trước Đế quốc Triliansia của người Cauchy, có tổng cộng ba đế quốc được ghi chép lại: Đế quốc Lomihite, Đế quốc Raite và Đế quốc Moi.
+Lịch sử thế giới này còn khá cổ xưa. Trước Đế quốc Triliansia của người Cosi, có tổng cộng ba đế quốc được ghi chép lại: Đế quốc Lomihite, Đế quốc Raite và Đế quốc Moi.
 
-Tên của ba đế quốc này trong ngôn ngữ của người Cauchy lần lượt có nghĩa là Sinh mệnh, Vinh quang và Thủ hộ. Còn ý nghĩa của Triliansia của người Cauchy chính là Hy vọng.
+Tên của ba đế quốc này trong ngôn ngữ của người Cosi lần lượt có nghĩa là Sinh mệnh, Vinh quang và Thủ hộ. Còn ý nghĩa của Triliansia của người Cosi chính là Hy vọng.
 
 Thần thoại truyền thuyết truyền lại từ ba quốc gia này có đôi chút khác biệt, nhưng đều có thể tìm thấy một số điểm chung.
 
 Ví dụ như về sự khởi đầu của thế giới, mô tả của họ đều là một luồng ánh sáng trắng xóa.
 
-Cách nói của người Cauchy là: luồng ánh sáng đó đã giết chết Thủy tổ vạn vật, cơ thể Thủy tổ sinh ra tất cả. Cách nói của Lomihite là: luồng ánh sáng đó khiến Thần giới vỡ mất một góc, góc đó rơi xuống và hóa thành thế giới này.
+Cách nói của người Cosi là: luồng ánh sáng đó đã giết chết Thủy tổ vạn vật, cơ thể Thủy tổ sinh ra tất cả. Cách nói của Lomihite là: luồng ánh sáng đó khiến Thần giới vỡ mất một góc, góc đó rơi xuống và hóa thành thế giới này.
 
 Sau luồng ánh sáng đó, thế giới mới thực sự xuất hiện. Vào thời Đế quốc thứ nhất Lomihite, cấp độ sức mạnh rõ ràng cao hơn hiện tại rất nhiều, lúc đó thực sự có thần linh bước đi trên nhân gian.
 
@@ -52,7 +52,7 @@ Hô Hấp Pháp cũng được truyền lại từ thời kỳ đó. Cho đến 
 
 Nói cũng lạ, Hô Hấp Pháp suy cho cùng chỉ là một phương thức cảm nhận Rhythm, nhưng phương pháp này lại có điểm kỳ quái: nó chỉ có thể do nhân loại thi triển. Dù Negary am tường Hô Hấp Pháp, nhưng nếu ngài không nắm giữ cơ thể nhân loại thì cũng không thể thi triển được.
 
-Eldritch, gã kia dường như đã có được thứ gì đó từ Đế quốc thứ nhất, vì thế mới tạo ra quân đoàn Mạt Thần.
+Aldrich, gã kia dường như đã có được thứ gì đó từ Đế quốc thứ nhất, vì thế mới tạo ra quân đoàn Mạt Thần.
 
 Sự diệt vong của Đế quốc thứ nhất có phần không rõ ràng, đến nay vẫn là một ẩn số. Ngoài ra, nghe nói vào thời Đế quốc thứ nhất không hề có thứ gọi là Tà Linh.
 
@@ -60,9 +60,9 @@ Sau khi trải qua một thời kỳ hỗn loạn dài lâu, Đế quốc thứ 
 
 Sự diệt vong của Đế quốc thứ hai thì có vẻ bình thường hơn. Khi đó, những người nắm quyền vương thất nắm giữ quyền lực tuyệt đối, áp bức lâu dài các chủng tộc khác, cuối cùng hàng loạt cuộc khởi nghĩa nổ ra khiến Đế quốc thứ hai diệt vong. Đế quốc thứ ba nhanh chóng được thành lập sau đó.
 
-Đế quốc thứ ba Moi tồn tại trong thời gian rất ngắn. Dường như sau khi lập quốc không lâu, họ đã chiến đấu với một thế lực ẩn danh một lần. Vương thất và phần lớn quân đội diệt vong một cách bí ẩn, chính điều này đã tạo cơ hội cho người Cauchy thành lập Đế quốc thứ tư Triliansia.
+Đế quốc thứ ba Moi tồn tại trong thời gian rất ngắn. Dường như sau khi lập quốc không lâu, họ đã chiến đấu với một thế lực ẩn danh một lần. Vương thất và phần lớn quân đội diệt vong một cách bí ẩn, chính điều này đã tạo cơ hội cho người Cosi thành lập Đế quốc thứ tư Triliansia.
 
-Đáng tiếc là Triliansia cũng tan rã dưới sự phá hoại của một Tà Linh có trí tuệ. Cuối cùng cục diện biến thành hình dạng như hiện tại: người Cauchy tản lạc khắp nơi, vài vương quốc đồng thời tồn tại, ngoài ra còn có nhiều quốc gia nhỏ. Một đế quốc thống nhất đại lục không bao giờ xuất hiện lại nữa.
+Đáng tiếc là Triliansia cũng tan rã dưới sự phá hoại của một Tà Linh có trí tuệ. Cuối cùng cục diện biến thành hình dạng như hiện tại: người Cosi tản lạc khắp nơi, vài vương quốc đồng thời tồn tại, ngoài ra còn có nhiều quốc gia nhỏ. Một đế quốc thống nhất đại lục không bao giờ xuất hiện lại nữa.
 
 Trong Thần Ân giáo, họ gọi Tà Linh là Họa loạn chi nguyên, là một sự sai lầm. Theo thời gian trôi qua, Tà Linh càng nhiều thì sẽ dẫn đến sự cận kề của một thảm họa nào đó.
 

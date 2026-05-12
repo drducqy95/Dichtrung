@@ -32,7 +32,7 @@ Thần sắc của Chris không đổi, không chút do dự vung nắm đấm v
 
 "Quả nhiên là mấy con sâu bọ đáng ghét mà." Adrey thu lòng bàn tay từ trên xác chết về. Ở cổ tay hắn, một số vật chất màu đen đang từ từ thoái lui vào trong cơ thể. Cái xác ngã xuống với khuôn mặt ngơ ngác, dường như vẫn còn chưa biết mình đã chết.
 
-Đám người này phục kích trên con đường trở về nhà của mẹ con Isabella, muốn giết chết Isabella và Nala. Thế nhưng rất đáng tiếc là, dưới sự thủ hộ của đội Crow Men, họ không những không thể hoàn thành mục tiêu, mà còn mất mạng.
+Đám người này phục kích trên con đường trở về nhà của mẹ con Isabella, muốn giết chết Isabella và Nara. Thế nhưng rất đáng tiếc là, dưới sự thủ hộ của đội Crow Men, họ không những không thể hoàn thành mục tiêu, mà còn mất mạng.
 
 Mà mẹ con Isabella dường như cũng hoàn toàn không biết gì về chuyện bị phục kích, đang bước đi trên đường về nhà với thần tình đầy biến hóa.
 

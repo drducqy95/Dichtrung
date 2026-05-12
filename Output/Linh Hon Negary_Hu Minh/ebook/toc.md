@@ -78,3 +78,22 @@
 - Chương 0078: Long Ngữ
 - Chương 0079: Ba Vị Thần Bước Ra Từ Sơ Hỏa
 - Chương 0080: Anh Hùng Chi Long
+- Chương 0081: Phù Thi Trùng
+- Chương 0082: Kiếm
+- Chương 0083: Tam Niên Chiến Tranh
+- Chương 0084: Thoái Túc và Đàm Phán
+- Chương 0085: Ngô Đẳng Thị Kỵ Sĩ
+- Chương 0086: Một Số Người Không Xứng Đáng Được Cứu Giúp
+- Chương 0087: Bước Trên Con Đường Đúng Đắn
+- Chương 0088: Vương Đối Vương
+- Chương 0089: Đế Quốc Chi Chương
+- Chương 0090: Ta Là Vua!
+- Chương 0091: 'Thủ Thi Quỷ' Thánh Cốc
+- Chương 0092: Nguyện Vinh Quang Của Chủ Quân Luôn Ở Bên Tôi
+- Chương 0093: Thần Ân giáo Được Thần Che Chở
+- Chương 0094: Thần Ái Thế Nhân
+- Chương 0095: Thần Ân Diệt Vong
+- Chương 0096: Cự Nhân Di Cốt
+- Chương 0098: Sơ Hỏa (1)
+- Chương 0099: Sơ Hỏa (2)
+- Chương 0100: Sơ Hỏa (3)

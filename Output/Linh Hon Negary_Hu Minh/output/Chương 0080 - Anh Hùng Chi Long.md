@@ -2,9 +2,9 @@
 
 Những thắng lợi liên tiếp của Royas đã khiến họ có phần bị mê muội.
 
-Nói cho cùng thì đó vẫn là do chính sách của Eldridge. Ông ta không ngừng áp bức giới quý tộc trong nước, nuôi dưỡng họ thành những con sói đói. Vào giai đoạn đầu của cuộc chiến, những quý tộc Royas như lũ sói đói này có tâm lý hiếu chiến vô cùng mãnh liệt.
+Nói cho cùng thì đó vẫn là do chính sách của Aldrich. Ông ta không ngừng áp bức giới quý tộc trong nước, nuôi dưỡng họ thành những con sói đói. Vào giai đoạn đầu của cuộc chiến, những quý tộc Royas như lũ sói đói này có tâm lý hiếu chiến vô cùng mãnh liệt.
 
-Dù sao thì họ đã bị tước đoạt quá đủ rồi, muốn thay đổi hiện trạng trừ phi lật đổ sự thống trị của Eldridge, nếu không thì chỉ có thể tìm kiếm từ trong chiến tranh.
+Dù sao thì họ đã bị tước đoạt quá đủ rồi, muốn thay đổi hiện trạng trừ phi lật đổ sự thống trị của Aldrich, nếu không thì chỉ có thể tìm kiếm từ trong chiến tranh.
 
 Vì vậy trong chiến tranh, các quý tộc Royas tỏ ra vô cùng dũng mãnh, đánh bại quân đội Intercam liên tiếp. Những thắng lợi dồn dập đã khiến các quý tộc Royas này ngày càng trở nên tham lam.
 
@@ -26,7 +26,7 @@ Sau khi có được thắng lợi đầu tiên, dường như nó đã tiếp t
 
 Hiện tại bên trong pháo đài Colomier, tầng lớp chỉ huy của Intercam đang bàn bạc kế hoạch tác chiến.
 
-Mặc dù vì chỉ thị của Seth đệ nhất mà quyền chỉ huy đã rơi vào tay Nara, nhưng tố chất quân sự của Nara thực sự không tính là quá cao, nên vào lúc này cô giống như một linh vật hơn.
+Mặc dù vì chỉ thị của Seth I mà quyền chỉ huy đã rơi vào tay Nara, nhưng tố chất quân sự của Nara thực sự không tính là quá cao, nên vào lúc này cô giống như một linh vật hơn.
 
 Người thực sự vạch ra kế hoạch tác chiến vẫn là Thống chế quân đội Alan Wells cùng các hiệp sĩ quý tộc. Trong đó, Les Laval - người có không ít điểm sáng trong trận chiến - cũng đã giành được một vị thế nhất định.
 

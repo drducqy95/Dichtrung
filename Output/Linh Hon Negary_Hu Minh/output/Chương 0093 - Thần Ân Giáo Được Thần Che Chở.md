@@ -1,4 +1,4 @@
-# Chương 0093 - Thần Ân Giáo Được Thần Che Chở
+# Chương 0093 - Thần Ân giáo Được Thần Che Chở
 
 "Làm ơn hãy chăm sóc anh ta, đây là thù lao." Jason đặt một túi tiền vào tay người dân làng, chỉ vào Alkes đang nằm trong nhà với những vết bỏng khắp người nói.
 
@@ -32,7 +32,7 @@ Nghe lời của bà lão Sie, Negary đưa tay xoa nhẹ lồng ngực mình, s
 
 Trước mặt Negary, có hai người mặc giáp trụ kỵ sĩ tiến tới. Cả hai đều nắm tay vào chuôi Knight sword, một người lớn tiếng quát hỏi: "Các hạ là ai? Tại sao lại đứng trước Đại giáo đường?"
 
-Đúng vậy, vị trí hiện tại của Negary chính là thủ đô Ingmaro của Intercam. Kiến trúc hoa lệ trước mặt chính là Đại giáo đường của Thần Ân Giáo, có thể coi là tổng bộ của giáo hội. Các Thần Ân kỵ sĩ và mục sư đều phải nhận Ân tứ của Thần tại nơi này.
+Đúng vậy, vị trí hiện tại của Negary chính là thủ đô Ingmaro của Intercam. Kiến trúc hoa lệ trước mặt chính là Đại giáo đường của Thần Ân giáo, có thể coi là tổng bộ của giáo hội. Các Thần Ân kỵ sĩ và mục sư đều phải nhận Ân tứ của Thần tại nơi này.
 
 Thông thường, các tín đồ phải thực hiện nghi thức tẩy trần tại cửa phụ mới được vào trong triều bái. Cửa chính chỉ mở khi tổ chức các nghi thức long trọng.
 
@@ -44,7 +44,7 @@ Ngay sau lưng anh ta, một vị Thần Ân kỵ sĩ khác cũng rút Knight sw
 
 "Cung nghênh đại nhân Negary!" Đôi mắt vị Thần Ân kỵ sĩ này tràn ngập ánh sáng cuồng nhiệt.
 
-"Ừm, thông báo cho tất cả những kẻ ẩn nấp, không tiếc bất cứ giá nào giúp ta giữ chân người của Thần Ân Giáo." Negary bước tới phía trước, Can thiệp lực tuôn trào va đập vào cánh cổng, cánh cổng đá hoa lệ vỡ vụn bay tứ tung.
+"Ừm, thông báo cho tất cả những kẻ ẩn nấp, không tiếc bất cứ giá nào giúp ta giữ chân người của Thần Ân giáo." Negary bước tới phía trước, Lực can thiệp tuôn trào va đập vào cánh cổng, cánh cổng đá hoa lệ vỡ vụn bay tứ tung.
 
 Động tĩnh ở đây khiến không ít Thần Ân kỵ sĩ và mục sư hành động, nhưng một số đồng đội vốn đang thân thiết với họ đột nhiên thần sắc trở nên cực kỳ cuồng nhiệt, trực tiếp đánh lén từ sau lưng, gây ra không ít tổn thất.
 
@@ -75,8 +75,8 @@ Bước chân của Negary không dừng lại, tiếp tục tiến về phía t
 ***
 
 **Chú thích:**
-- **Ân tứ (Grace/Blessing):** Sức mạnh thần thánh mà các thành viên Thần Ân Giáo nhận được từ Thần của họ.
-- **Đại giáo đường (Great Cathedral):** Trung tâm quyền lực và tôn giáo của Thần Ân Giáo tại thủ đô Ingmaro.
+- **Ân tứ (Grace/Blessing):** Sức mạnh thần thánh mà các thành viên Thần Ân giáo nhận được từ Thần của họ.
+- **Đại giáo đường (Great Cathedral):** Trung tâm quyền lực và tôn giáo của Thần Ân giáo tại thủ đô Ingmaro.
 - **Thần Ân kỵ sĩ (God's Grace Knights):** Lực lượng vũ trang tinh nhuệ của giáo hội, sở hữu sức mạnh từ Ân tứ.
 - **Quỷ Nhân (Ghostman):** Đội quân xác sống được cải tạo của Negary, sở hữu sức mạnh từ tàn hồn và mầm bệnh.
 - **Hồn chi huyết (Soul Blood):** Máu của Negary chứa đựng ý chí và sức mạnh của hắn.

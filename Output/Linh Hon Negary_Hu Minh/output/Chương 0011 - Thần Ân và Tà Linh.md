@@ -20,7 +20,7 @@ Mọi chuyện diễn ra quá bất ngờ, họ không có bất kỳ sự chu�
 
 "Hôm nay anh về sớm thế." Trong nhà, một người phụ nữ tóc vàng với cái bụng bầu đã khá lớn dịu dàng nói: "Em vừa nghe thấy bên ngoài có tiếng ồn ào, đã xảy ra chuyện gì sao?"
 
-"Ừm, thực sự là có một chút vấn đề, nhưng em yên tâm, anh sẽ xử lý ổn thỏa." Jacques cười nói, giọng điệu đầy vẻ tự tin. Anh chậm rãi tiến đến trước mặt vợ, từ từ ngồi thụp xuống, thận trọng áp tai vào bụng cô, mỉm cười: "Nala*, cha về rồi đây, có nhớ cha không nào?"
+"Ừm, thực sự là có một chút vấn đề, nhưng em yên tâm, anh sẽ xử lý ổn thỏa." Jacques cười nói, giọng điệu đầy vẻ tự tin. Anh chậm rãi tiến đến trước mặt vợ, từ từ ngồi thụp xuống, thận trọng áp tai vào bụng cô, mỉm cười: "Nara*, cha về rồi đây, có nhớ cha không nào?"
 
 "Chuyện đó không đơn giản như vậy đúng không?" Người phụ nữ có giác quan nhạy bén đã nhận ra vẻ không tự nhiên của Jacques, cô dịu dàng bảo: "Em không sao đâu, anh đừng vì lo lắng cho em mà giấu giếm. Em là người của gia tộc Tagore* đấy."
 
@@ -70,7 +70,7 @@ Vương Uyên cũng trôi nổi gần thiếu nữ đó. Cô đang ôm lấy v�
 **Chú thích cuối chương:**
 * **Thần Ân giáo (God's Grace Church):** Một tôn giáo lớn nắm giữ sức mạnh siêu nhiên trong thế giới này.
 * **Tà Linh (Evil Spirit):** Những thực thể linh hồn sở hữu ma lực, thường được coi là điềm gở hoặc ma quỷ.
-* **Isabella / Nala / Gia tộc Tagore:** Các nhân vật và thế lực mới xuất hiện.
+* **Isabella / Nara / Gia tộc Tagore:** Các nhân vật và thế lực mới xuất hiện.
 * **Thần sứ / Hiến dâng vầng trán / Lực can thiệp / Sinh khí:** Các thuật ngữ đặc thù (Đã giải thích ở các chương trước).
 
 ---

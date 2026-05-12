@@ -8,7 +8,7 @@ Sau khi tiếp quản Nara hoàn thành cuộc phản công, danh tiếng Thốn
 
 "Những người này, thật chẳng đáng được cứu giúp." Les nhớ lại những gì họ đã làm trong những ngày qua, đột nhiên cảm thấy dù mình đạt được danh tiếng, địa vị, và quyền lực, nhưng anh chưa bao giờ nhận được sự cứu rỗi, anh vẫn luôn bước đi trong bóng tối.
 
-Nếu anh lựa chọn chìm đắm trong bóng tối, có thể dự đoán rằng trong vài thập kỷ tới, bất kể Seith có thể ngồi vững ngai vàng hay không, Thần Ân giáo có thể truyền giáo sang Royas hay không, anh đều có thể nhận được những thứ mà người khác cả đời khó lòng có được. Anh sẽ trở thành một trong những trung tâm quyền lực của Intercam, tiền tài, tước vị, danh dự, phụ nữ, anh sẽ không thiếu thứ gì.
+Nếu anh lựa chọn chìm đắm trong bóng tối, có thể dự đoán rằng trong vài thập kỷ tới, bất kể Seth có thể ngồi vững ngai vàng hay không, Thần Ân giáo có thể truyền giáo sang Royas hay không, anh đều có thể nhận được những thứ mà người khác cả đời khó lòng có được. Anh sẽ trở thành một trong những trung tâm quyền lực của Intercam, tiền tài, tước vị, danh dự, phụ nữ, anh sẽ không thiếu thứ gì.
 
 "Đáng tiếc thay, Nara vẫn còn quá đơn thuần." Les lấy cuốn sách quái vật kia ra, lật mở nó: "Không có sự giúp đỡ của tôi, cô ấy cũng chỉ là một cô bé mà thôi. Tôi bước đi trong bóng tối, nhưng thứ tôi theo đuổi lại là ánh sáng thuần khiết kia."
 

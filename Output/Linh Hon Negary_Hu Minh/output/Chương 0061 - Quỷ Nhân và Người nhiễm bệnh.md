@@ -2,19 +2,19 @@
 
 "Nara, đói chưa?" Isabella khẽ hỏi.
 
-Vị trí hiện tại của họ là căn nhà bí mật của Grosk. Là một thương nhân buôn lậu, tay chân tự nhiên chẳng mấy sạch sẽ, để đảm bảo an toàn cho bản thân, ông ta đã xây dựng không ít nhà bí mật làm nơi ẩn náu.
+Vị trí hiện tại của họ là căn nhà bí mật của Groske. Là một thương nhân buôn lậu, tay chân tự nhiên chẳng mấy sạch sẽ, để đảm bảo an toàn cho bản thân, ông ta đã xây dựng không ít nhà bí mật làm nơi ẩn náu.
 
-"Tôi đi chuẩn bị thức ăn cho hai người nhé." Grosk trấn an: "Ước chừng không bao lâu nữa sẽ có tin tốt truyền tới, không cần quá lo lắng đâu."
+"Tôi đi chuẩn bị thức ăn cho hai người nhé." Groske trấn an: "Ước chừng không bao lâu nữa sẽ có tin tốt truyền tới, không cần quá lo lắng đâu."
 
 "Cảm ơn ông!" Isabella khẽ khàng cảm ơn. Không hiểu sao cô luôn có một cảm giác bất an, chỉ mong là mình nghĩ quá nhiều.
 
-Nara Darkmy nhìn Grosk đứng dậy rời đi, trong con ngươi đen kịt thoáng qua một tia kim sắc, khí chất cũng bắt đầu từng chút một thay đổi.
+Nara Dacusmi nhìn Groske đứng dậy rời đi, trong con ngươi đen kịt thoáng qua một tia kim sắc, khí chất cũng bắt đầu từng chút một thay đổi.
 
-Grosk bước ra khỏi căn nhà bí mật, thần sắc bắt đầu trở nên không ổn, trên mặt thoáng qua một tia áy náy. Ông ta không đi chuẩn bị thức ăn mà trực tiếp rời khỏi nơi này.
+Groske bước ra khỏi căn nhà bí mật, thần sắc bắt đầu trở nên không ổn, trên mặt thoáng qua một tia áy náy. Ông ta không đi chuẩn bị thức ăn mà trực tiếp rời khỏi nơi này.
 
-Sau khi Grosk rời đi, một đội ngũ với khuôn mặt vô cảm tiến về phía căn nhà nhỏ. Họ mang theo mật lệnh từ Vương quốc Intercam, thuộc tổ chức sát thủ trực thuộc Seth I, chuyên đi thực hiện những việc không thể đưa ra ánh sáng cho ông ta. Và mục tiêu lần này chính là giết chết Nara - Thánh nữ cứu thế trong lời tiên tri.
+Sau khi Groske rời đi, một đội ngũ với khuôn mặt vô cảm tiến về phía căn nhà nhỏ. Họ mang theo mật lệnh từ Vương quốc Intercam, thuộc tổ chức sát thủ trực thuộc Seth I, chuyên đi thực hiện những việc không thể đưa ra ánh sáng cho ông ta. Và mục tiêu lần này chính là giết chết Nara - Thánh nữ cứu thế trong lời tiên tri.
 
-Cuộc đấu tranh quyền lực của quốc gia luôn biến ảo khôn lường. Grosk dù sao cũng chỉ là một thương nhân buôn lậu, hành vi của ông ta bị các quý tộc của Intercam khống chế.
+Cuộc đấu tranh quyền lực của quốc gia luôn biến ảo khôn lường. Groske dù sao cũng chỉ là một thương nhân buôn lậu, hành vi của ông ta bị các quý tộc của Intercam khống chế.
 
 Isabella đột nhiên cảm thấy chóng mặt không rõ lý do. Khi nhận ra có điều bất thường thì đã không còn chút sức lực nào, trực tiếp ngất đi. Nara - không, bây giờ nên gọi là Negary - mở đôi mắt vàng kim nhìn ra cửa.
 
@@ -62,7 +62,7 @@ Noah bưng tàn hồn của Chris, tiến về phía Mylson đang quỳ rạp d�
 
 Smic cõng Jason đến một căn cứ của Vương quốc Royas ở Reya. Jason đã hôn mê, Rhythm sinh mệnh yếu đến cực điểm, có thể tử vong bất cứ lúc nào.
 
-Luen không biết đã rời đi từ lúc nào. Anh ta đi tìm Thần Ân hiệp sĩ Reavers, sau đó muốn đưa mẹ con Isabella nhanh chóng rời khỏi Reya.
+Luen không biết đã rời đi từ lúc nào. Anh ta đi tìm Thần Ân hiệp sĩ Rivers, sau đó muốn đưa mẹ con Isabella nhanh chóng rời khỏi Reya.
 
 Smic nhìn Jason, thở dài một tiếng. Dù sao cũng đã cùng chiến đấu, nếu có thể anh ta cũng không muốn Jason cứ thế mà chết đi.
 

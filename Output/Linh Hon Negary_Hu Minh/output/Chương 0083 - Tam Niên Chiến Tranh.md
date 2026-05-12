@@ -40,7 +40,7 @@ Kẻ đã gây ra vô số rắc rối cho mình là Negary kia, hắn có lẽ 
 
 "Kẻ dẫn quân là ai?" Aldrich hỏi.
 
-"Nara Tagule." Hai thuộc hạ trầm giọng trả lời.
+"Nara Tagore." Hai thuộc hạ trầm giọng trả lời.
 
 "Ta biết rồi, các ngươi lui xuống đi." Aldrich gật đầu, sau đó tiếp tục đăm đăm nhìn pho tượng.
 
@@ -62,7 +62,7 @@ Cô đưa mắt nhìn quanh một vòng. Những quý tộc và kỵ sĩ vốn �
 
 Les không bị quyền chỉ huy làm cho mờ mắt. Anh hiểu rất rõ tình hình hiện tại là gì. Chẳng qua chỉ là tranh đấu quyền lực mà thôi. Hiện nay đất đai bị mất của Intercam đã thu hồi gần hết, chỉ còn lại một hai trận chiến cuối cùng.
 
-Với tư cách là Thánh nữ cứu thế đã giải cứu Intercam, danh tiếng của Nara đã cao đến mức đáng sợ, cao đến mức khiến không ít người ăn không ngon ngủ không yên. Những người này không chỉ có Seith I, mà còn có cả các quý tộc.
+Với tư cách là Thánh nữ cứu thế đã giải cứu Intercam, danh tiếng của Nara đã cao đến mức đáng sợ, cao đến mức khiến không ít người ăn không ngon ngủ không yên. Những người này không chỉ có Seth I, mà còn có cả các quý tộc.
 
 Chẳng phải Aldrich chính là nhờ uy vọng cực lớn mới có thể hoàn thành việc áp bức trong nước sao? Mà Nara hiện tại, uy vọng của cô thậm chí đã vượt xa mức độ của Aldrich tại Vương quốc Royas trước kia.
 
@@ -76,7 +76,7 @@ Mặc dù Les không muốn thừa nhận, nhưng anh cũng là một thành vi�
 
 Nara tuy đơn thuần nhưng không hề ngốc. Mệnh lệnh này là quyết định chung của đa số những người nắm quyền trong nước, cô không thể phản kháng, cũng không có tâm tư phản kháng.
 
-"Hãy cẩn thận với Seith I. Các quý tộc trong nước hiện giờ vẫn hy vọng cô lên ngôi, nhưng Seith chắc chắn sẽ có hành động." Les tiếp nhận quyền chỉ huy, trở thành tân Thống chế, khẽ dặn dò Nara. Còn điều anh có thể làm lúc này chỉ là giúp Nara nắm giữ thật tốt quân quyền.
+"Hãy cẩn thận với Seth I. Các quý tộc trong nước hiện giờ vẫn hy vọng cô lên ngôi, nhưng Seth chắc chắn sẽ có hành động." Les tiếp nhận quyền chỉ huy, trở thành tân Thống chế, khẽ dặn dò Nara. Còn điều anh có thể làm lúc này chỉ là giúp Nara nắm giữ thật tốt quân quyền.
 
 ***
 

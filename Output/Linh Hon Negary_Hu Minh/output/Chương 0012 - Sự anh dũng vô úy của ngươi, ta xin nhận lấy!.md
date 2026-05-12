@@ -89,6 +89,6 @@ Một luồng khí trắng và khí mát mẻ khổng lồ tràn về phía Vư�
 * **Jacques Dacusmi:** Tên đầy đủ của đội trưởng hộ vệ Jacques.
 * **Thần Ân giáo (God's Grace Church):** Vương Uyên gọi là "giáo đình dị đoan" theo quan điểm của Negary.
 * **Anh dũng vô úy:** Dũng cảm và không sợ hãi.
-* **Komoro / Negary / Isabella / Nala / Thần sứ / Tế phẩm / Sinh khí / Hồn khí:** Các thuật ngữ đã thống nhất.
+* **Komoro / Negary / Isabella / Nara / Thần sứ / Tế phẩm / Sinh khí / Hồn khí:** Các thuật ngữ đã thống nhất.
 
 ---

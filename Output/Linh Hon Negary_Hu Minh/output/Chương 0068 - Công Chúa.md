@@ -2,7 +2,7 @@
 
 "Bệ hạ, có lời tôi xin nói thẳng." Luen Donna thần sắc không mấy tốt đẹp, đối với Seth I anh ta cũng chẳng có bao nhiêu sự tôn kính: "Vương quốc Intercam đã tới thời khắc nguy cấp nhất rồi."
 
-"Một khi Ingmalo thất thủ, Vương quốc Intercam cũng sẽ không còn tồn tại. Đây là điều bệ hạ không thể chấp nhận được, và Thần Ân giáo cũng không thể chấp nhận được." Luen thẳng thắn nói: "Hiện tại cách duy nhất chính là tập hợp lực lượng, giữ vững Ingmalo."
+"Một khi Ingmaro thất thủ, Vương quốc Intercam cũng sẽ không còn tồn tại. Đây là điều bệ hạ không thể chấp nhận được, và Thần Ân giáo cũng không thể chấp nhận được." Luen thẳng thắn nói: "Hiện tại cách duy nhất chính là tập hợp lực lượng, giữ vững Ingmaro."
 
 "Mà hiện tại người có thể tập hợp tất cả lực lượng chỉ có Nara." Luen nói: "Huyết mạch Rồng của cô ấy đã thức tỉnh, cộng thêm lời tiên tri, điều này mang lại cho cô ấy ưu thế vô song tại Intercam."
 
@@ -28,15 +28,15 @@ Nếu có thể, Seth I rất muốn tiêu diệt toàn bộ đám quý tộc n�
 
 Quý tộc là một phần không thể thiếu của quốc gia, nhưng cũng là khối u của quốc gia. Vấn đề quý tộc, bất luận ở vương quốc nào cũng đều là một vấn đề lớn.
 
-Vương quốc Royas tại sao mạnh? Đó là vì Eldritch đã chinh phục được phần lớn quý tộc trong nước. Quyền lực của quý tộc tại Royas đã bị nén tới mức cực hạn, vì thế Royas bắt buộc phải khai chiến. Nếu không mở cuộc chiến tranh đối ngoại thì nội chiến sẽ bùng nổ.
+Vương quốc Royas tại sao mạnh? Đó là vì Aldrich đã chinh phục được phần lớn quý tộc trong nước. Quyền lực của quý tộc tại Royas đã bị nén tới mức cực hạn, vì thế Royas bắt buộc phải khai chiến. Nếu không mở cuộc chiến tranh đối ngoại thì nội chiến sẽ bùng nổ.
 
-Có thể nói Eldritch cũng đã đi một nước cờ mạo hiểm. Dựa vào năng lực của bản thân, ông đã hợp nhất tất cả, nuôi dưỡng đám quý tộc trong nước Royas thành một đàn sói đói. Nếu cuộc viễn chinh Intercam bị cản trở, đàn sói đói này sẽ quay lại cắn chính ông.
+Có thể nói Aldrich cũng đã đi một nước cờ mạo hiểm. Dựa vào năng lực của bản thân, ông đã hợp nhất tất cả, nuôi dưỡng đám quý tộc trong nước Royas thành một đàn sói đói. Nếu cuộc viễn chinh Intercam bị cản trở, đàn sói đói này sẽ quay lại cắn chính ông.
 
-Cũng may là Intercam căn bản không đưa ra được sự phản kháng ra hồn, để Royas như chẻ tre đánh chiếm quá nửa lãnh thổ, nếu không Eldritch cũng sẽ tổn thất nặng nề.
+Cũng may là Intercam căn bản không đưa ra được sự phản kháng ra hồn, để Royas như chẻ tre đánh chiếm quá nửa lãnh thổ, nếu không Aldrich cũng sẽ tổn thất nặng nề.
 
 Thực tế, nếu không phải Negary vì lời tiên tri của bà lão Sie mà chọn giúp đỡ Intercam, kiềm chế một số lực lượng ngầm trong nước Royas, thì Intercam đã diệt vong nhanh hơn nhiều.
 
-"Thưa các vị, hôm nay mời mọi người tới đây là để chúc mừng sự trở lại của gia tộc Tagule." Seth I mỉm cười, cầm ly rượu vang ra hiệu cho Isabella trong đám đông và nói: "Năm xưa trong nước có chút biến động nhỏ khiến Nữ quý tộc Isabella phải rời khỏi đất nước. Hiện tại thành viên vương thất thưa thớt, đây thực sự là một chuyện đáng mừng."
+"Thưa các vị, hôm nay mời mọi người tới đây là để chúc mừng sự trở lại của gia tộc Tagore." Seth I mỉm cười, cầm ly rượu vang ra hiệu cho Isabella trong đám đông và nói: "Năm xưa trong nước có chút biến động nhỏ khiến Nữ quý tộc Isabella phải rời khỏi đất nước. Hiện tại thành viên vương thất thưa thớt, đây thực sự là một chuyện đáng mừng."
 
 Lời này nói ra, cuộc biến động năm xưa chẳng phải do Seth gây ra sao? Thành viên vương thất thưa thớt chẳng phải vì ông sợ người khác đe dọa vương tọa của mình sao? Thành viên vương thất ít thì ít đi, dù sao Intercam cũng sắp diệt vong rồi.
 
@@ -44,7 +44,7 @@ Nhưng đám quý tộc này không một ai nói ra, bởi vì làm vậy là t
 
 Nhiều quý tộc gật đầu chào hỏi Isabella, Isabella theo lễ nghi đáp lễ từng người một. Người phụ nữ này tỏ ra có chút căng thẳng, bà đã làm nông dân hơn mười năm, quay lại Intercam lại ở thêm bảy năm, đây là lần đầu tiên tham gia loại yến tiệc quý tộc này.
 
-"Gia tộc Tagule trở lại hàng ngũ vương thất, thật đáng mừng. Một chuyện khác nữa là Nara Tagule đã thức tỉnh huyết mạch Rồng của vương thất, theo truyền thừa vương thất, có thể liệt Nara Tagule làm Công chúa." Seth mỉm cười nói: "Ta định để Nara thay mặt ta, dẫn dắt quân đội của ta tiến ra tiền tuyến Colomier, chiến đấu vì Vương quốc Intercam!"
+"Gia tộc Tagore trở lại hàng ngũ vương thất, thật đáng mừng. Một chuyện khác nữa là Nara Tagore đã thức tỉnh huyết mạch Rồng của vương thất, theo truyền thừa vương thất, có thể liệt Nara Tagore làm Công chúa." Seth mỉm cười nói: "Ta định để Nara thay mặt ta, dẫn dắt quân đội của ta tiến ra tiền tuyến Colomier, chiến đấu vì Vương quốc Intercam!"
 
 Seth giơ ly rượu vang, định chỉ ra Nara, thì thấy Nara đang mặc một bộ lễ phục màu đen, đứng trước bàn ăn nhanh chóng tiêu diệt thức ăn, cứ như thể có mối thù không đội trời chung với đống thức ăn trên bàn vậy.
 

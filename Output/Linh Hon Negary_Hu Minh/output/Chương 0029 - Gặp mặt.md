@@ -56,13 +56,13 @@ Mà hiện tại nhịp điệu trên người Komoro lại tỏ ra vô cùng k�
 
 "Mẹ con Isabella hiện đang ở hậu sảnh, ngài có thể đi gặp họ rồi. Còn họ có bằng lòng đi cùng ngài hay không thì đó là chuyện của ngài." Komoro bình thản nói: "Còn một điểm nữa là đừng làm xáo trộn trật tự của Reya."
 
-Chris gật đầu, đi vòng qua Komoro bước vào hậu sảnh, liền thấy Isabella đang ngồi trên ghế với vẻ lúng túng bất an, cùng Nala* đang tò mò đánh giá xung quanh.
+Chris gật đầu, đi vòng qua Komoro bước vào hậu sảnh, liền thấy Isabella đang ngồi trên ghế với vẻ lúng túng bất an, cùng Nara* đang tò mò đánh giá xung quanh.
 
 "Chào bà, Isabella." Chris tiến tới gần hai mẹ con, thông qua Hô Hấp Pháp liên tục cảm nhận nhịp điệu của cả hai. Nhịp điệu của Isabella bình thường, ngoài việc sống lâu năm ở Reya khiến cơ thể chứa lượng lớn mầm bệnh Mễ Mạn* ra thì chỉ có chút bệnh nhỏ.
 
-Điều thực sự khiến Chris chấn động chính là Nala. Nhịp điệu của cô bé này thậm chí không yếu hơn Chris, thậm chí trong nhịp điệu của cô bé còn vang lên từng tiếng gầm gừ của Cự Long, ngay cả mầm bệnh Mễ Mạn cũng không xuất hiện trên người cô bé.
+Điều thực sự khiến Chris chấn động chính là Nara. Nhịp điệu của cô bé này thậm chí không yếu hơn Chris, thậm chí trong nhịp điệu của cô bé còn vang lên từng tiếng gầm gừ của Cự Long, ngay cả mầm bệnh Mễ Mạn cũng không xuất hiện trên người cô bé.
 
-"Huyết thống Long Chi Tử* đã được kích hoạt sao? Nala chính là Thánh nữ cứu thế* trong lời tiên tri?" Chris nhìn sắc vàng thoáng hiện qua đôi mắt thuần khiết của Nala, trong lòng cuối cùng cũng tin vào lời tiên tri của phù thủy.
+"Huyết thống Long Chi Tử* đã được kích hoạt sao? Nara chính là Thánh nữ cứu thế* trong lời tiên tri?" Chris nhìn sắc vàng thoáng hiện qua đôi mắt thuần khiết của Nara, trong lòng cuối cùng cũng tin vào lời tiên tri của phù thủy.
 
 "Mục đích tôi đến đây chắc bà cũng đã đoán được. Xin bà hãy chuẩn bị sẵn sàng, không lâu nữa sẽ có người đưa bà về nước." Chris nhìn Isabella đang có vẻ mặt phức tạp ở bên cạnh nói.
 
@@ -76,4 +76,4 @@ Môi Isabella mấp máy hai cái, cuối cùng lên tiếng:
 * **Nozardes:** Một thành viên cao cấp của tổ chức Crow Men.
 * **Crow Men (Quạ Nhân):** Tổ chức duy trì trật tự của người Cosi tại Reyastemia.
 * **Huyết thống Long Chi Tử (Dragon Son Bloodline):** Huyết mạch Cự Long cổ đại của vương thất Intercam.
-* **Nala / Isabella / Chris / Negary / Bugitier / Osgoodin / Reyastemia / Vu Linh thuật sĩ / Hô Hấp Pháp / Thánh nữ cứu thế / Mầm bệnh Mễ Mạn:** Các thuật ngữ đã thống nhất.
+* **Nara / Isabella / Chris / Negary / Bugitier / Osgoodin / Reyastemia / Vu Linh thuật sĩ / Hô Hấp Pháp / Thánh nữ cứu thế / Mầm bệnh Mễ Mạn:** Các thuật ngữ đã thống nhất.

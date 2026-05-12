@@ -26,11 +26,11 @@ Mặc dù vẫn còn một số thương nhân buôn lậu liều mạng, nhưng
 
 Nara đang ngồi trên vị trí phụ tại chính điện, với thân phận Vương nữ.
 
-Bên cạnh cô chính là Seith I với nụ cười giả tạo trên môi. Vài năm trôi qua, vóc dáng của ông ta hơi phát tướng, trông có vẻ vô cùng hiền lành.
+Bên cạnh cô chính là Seth I với nụ cười giả tạo trên môi. Vài năm trôi qua, vóc dáng của ông ta hơi phát tướng, trông có vẻ vô cùng hiền lành.
 
 Nara có chút không thoải mái cử động cánh tay, bộ váy thục nữ chết tiệt này đã hạn chế phạm vi hoạt động của cô, chỉ cần dùng lực một chút là quần áo sẽ bung ra, thật không hiểu loại trang phục này dùng để làm gì.
 
-"Thưa các vị, cuộc phản công rốt cuộc cũng kết thúc rồi. Thống chế Les sẽ sớm mang theo chiến thắng cùng sứ giả của Royas trở về. Sau khi hoàn thành đàm phán hậu chiến với Royas, tất cả những ai lập được công lao đều sẽ nhận được phong thưởng xứng đáng." Seith I vẫn mỉm cười nâng ly rượu, nói ra tin tức phấn khởi này với các đại thần quý tộc đang tụ tập xung quanh.
+"Thưa các vị, cuộc phản công rốt cuộc cũng kết thúc rồi. Thống chế Les sẽ sớm mang theo chiến thắng cùng sứ giả của Royas trở về. Sau khi hoàn thành đàm phán hậu chiến với Royas, tất cả những ai lập được công lao đều sẽ nhận được phong thưởng xứng đáng." Seth I vẫn mỉm cười nâng ly rượu, nói ra tin tức phấn khởi này với các đại thần quý tộc đang tụ tập xung quanh.
 
 Chiến tranh quả thực không thể tiếp tục đánh nữa. Thứ nhất là vấn đề nhân khẩu, chiến tranh suy cho cùng là cuộc chơi của những con số về người. Những năm chiến tranh nổ ra, một lượng lớn thanh niên trai tráng bị điều động vào quân đội, nếu còn đánh tiếp thì quốc gia sẽ tan nát.
 
@@ -46,7 +46,7 @@ Mặt khác chính là nguyên nhân chiến tranh. Chiến tranh thực sự l�
 
 Cộng thêm thân phận quý tộc, hắn có thể điều hòa tốt hơn mối quan hệ giữa Thần Ân giáo và giới quý tộc. Cuối cùng cộng thêm một chút "vận may", rốt cuộc hắn đã hiện thực hóa được dã tâm của mình, trở thành Giáo tông của Thần Ân giáo.
 
-"Tiếp theo, chính là nhân cơ hội này mở rộng Thần Ân giáo." Luen liếc nhìn Nara và Seith I ở phía bên kia. Sở dĩ trước đó Thần Ân giáo đồng ý triệu hồi Nara trở về là vì hắn đã đạt được thỏa thuận với Seith và giới quý tộc trong nước.
+"Tiếp theo, chính là nhân cơ hội này mở rộng Thần Ân giáo." Luen liếc nhìn Nara và Seth I ở phía bên kia. Sở dĩ trước đó Thần Ân giáo đồng ý triệu hồi Nara trở về là vì hắn đã đạt được thỏa thuận với Seth và giới quý tộc trong nước.
 
 Trong cuộc đàm phán hòa bình với Royas, họ sẽ hiệp lực gây áp lực lên sứ giả Royas, buộc Royas phải đồng ý cho Thần Ân giáo được truyền giáo trong các điều khoản của hiệp ước bại trận.
 
@@ -60,7 +60,7 @@ Trong ghi chép của Thần Ân giáo, ánh sáng của Thần đã xé toạc 
 
 Đệ Nhất Đế quốc sụp đổ vì ngụy thần và cự long đã phản bội Thần mà rời đi, khiến Hắc Uyên một lần nữa trỗi dậy. Vào thời kỳ Đệ Nhị Đế quốc, con người chính nhờ cầu xin sự chú ý của Thần một lần nữa mới có thể bình định được Hắc Uyên.
 
-Chỉ là góc này thực sự quá nhỏ bé, vì vậy Thần sớm đã không còn chú ý tới nữa. Cùng với sự diệt vong của Đệ Nhị Đế quốc, tín ngưỡng đối với Thần cũng dần biến mất. Vào thời kỳ Đệ Tứ Đế quốc, thậm chí còn bị đám người Cauchy đó thay đổi thành tín ngưỡng đối với Chúng Linh.
+Chỉ là góc này thực sự quá nhỏ bé, vì vậy Thần sớm đã không còn chú ý tới nữa. Cùng với sự diệt vong của Đệ Nhị Đế quốc, tín ngưỡng đối với Thần cũng dần biến mất. Vào thời kỳ Đệ Tứ Đế quốc, thậm chí còn bị đám người Cosi đó thay đổi thành tín ngưỡng đối với Chúng Linh.
 
 Cũng may, sau khi Đệ Tứ Đế quốc sụp đổ, vị Giáo tông đầu tiên đã tìm thấy ân tứ khởi nguyên của Thần từ tàn tích của Đệ Nhị Đế quốc. Chỉ có ánh sáng của Thần chiếu rọi đại địa mới có thể triệt để tịnh hóa Hắc Uyên, khiến thế giới này trở nên bình thường.
 
@@ -75,7 +75,7 @@ Và rất nhanh sau đó, Les đã dẫn theo đông đảo quý tộc kỵ sĩ 
 **Chú thích:**
 - **Thoái túc:** Lùi bước, rút lui khỏi trách nhiệm.
 - **Giáo tông (Pope):** Người đứng đầu Thần Ân giáo.
-- **Đệ Tứ Đế quốc:** Đế quốc của người Cauchy.
+- **Đệ Tứ Đế quốc:** Đế quốc của người Cosi.
 - **Chúng Linh:** Tín ngưỡng thờ phụng muôn loài linh hồn, thay thế cho Thần ân.
 - **Hắc Uyên (Black Abyss):** Nguồn gốc của mọi tai họa và sự sụp đổ.
 - **Quạ Nhân, Quỷ Nhân, Long Nhân:** Ba chủng tộc dưới trướng Negary.

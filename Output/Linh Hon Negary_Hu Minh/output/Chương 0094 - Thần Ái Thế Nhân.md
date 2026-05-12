@@ -22,17 +22,17 @@ Tất nhiên, nếu họ thích nghi được với trạng thái này thì vi�
 
 Từng vị kỵ sĩ cứ thế chết ngay trên không trung rồi ngã xuống mặt đất. Sau khi sinh mệnh thể tử vong, sức mạnh phù không của Long ngữ tác động lên người họ sẽ biến mất. Trong tình huống này, họ thậm chí còn không có cơ hội để giả chết.
 
-"Đủ rồi, Negary, đây là Thần Ân Giáo, là nơi cư ngụ của Thần!!" Tân giáo hoàng của chúng ta, Luen Donna, tay cầm quyền trượng bước ra từ Thánh đường Thần tích của Đại giáo đường Thần Ân, gương mặt ông tràn đầy sự phẫn nộ.
+"Đủ rồi, Negary, đây là Thần Ân giáo, là nơi cư ngụ của Thần!!" Tân Giáo tông của chúng ta, Luen Donna, tay cầm quyền trượng bước ra từ Thánh đường Thần tích của Đại giáo đường Thần Ân, gương mặt ông tràn đầy sự phẫn nộ.
 
-Đối với ông ta mà nói, khó khăn lắm mới trở thành giáo hoàng của Thần Ân Giáo. Mặc dù vị Vương nữ do họ đề cử không kế thừa vương vị, nhưng họ cũng đã vươn vòi bạch tuộc của Thần Ân Giáo vào trong Vương quốc Royas.
+Đối với ông ta mà nói, khó khăn lắm mới trở thành Giáo tông của Thần Ân giáo. Mặc dù vị Vương nữ do họ đề cử không kế thừa vương vị, nhưng họ cũng đã vươn vòi bạch tuộc của Thần Ân giáo vào trong Vương quốc Royas.
 
-Hiện nay trên lục địa, các vương quốc khác đều chỉ mang tính chất góp mặt cho đủ số. Hai vương quốc mạnh nhất chính là Royas và Intercam. Chỉ cần Thần Ân Giáo lan rộng tới hai vương quốc này, thì dần dần các vương quốc khác cũng khó lòng chống đỡ được Thần Ân Giáo.
+Hiện nay trên lục địa, các vương quốc khác đều chỉ mang tính chất góp mặt cho đủ số. Hai vương quốc mạnh nhất chính là Royas và Intercam. Chỉ cần Thần Ân giáo lan rộng tới hai vương quốc này, thì dần dần các vương quốc khác cũng khó lòng chống đỡ được Thần Ân giáo.
 
-Cuối cùng Thần Ân Giáo sẽ trở thành tín ngưỡng của cả lục địa, tên tuổi của Luen Donna sẽ được ghi vào sử sách, trở thành đối tượng kính ngưỡng của vô số người. Ông ta sẽ được tắm mình trong ánh sáng của Thần, trở thành vị giáo hoàng vĩ đại nhất trong lịch sử Thần Ân Giáo.
+Cuối cùng Thần Ân giáo sẽ trở thành tín ngưỡng của cả lục địa, tên tuổi của Luen Donna sẽ được ghi vào sử sách, trở thành đối tượng kính ngưỡng của vô số người. Ông ta sẽ được tắm mình trong ánh sáng của Thần, trở thành vị Giáo tông vĩ đại nhất trong lịch sử Thần Ân giáo.
 
-Thế nhưng tại sao, tại sao Negary lại cứ phải đến phá đám vào lúc này, thậm chí còn dễ dàng công hãm hơn nửa Đại giáo đường Thần Ân, điều này khiến thể diện của Thần Ân Giáo đặt ở đâu?
+Thế nhưng tại sao, tại sao Negary lại cứ phải đến phá đám vào lúc này, thậm chí còn dễ dàng công hãm hơn nửa Đại giáo đường Thần Ân, điều này khiến thể diện của Thần Ân giáo đặt ở đâu?
 
-"Chỉ là đồ giả tạo mà thôi." Negary khẽ cười nói. Từ chỗ Aldrich, Negary đã biết được chân diện mục của vị thần mà Thần Ân Giáo tôn thờ.
+"Chỉ là đồ giả tạo mà thôi." Negary khẽ cười nói. Từ chỗ Aldrich, Negary đã biết được chân diện mục của vị thần mà Thần Ân giáo tôn thờ.
 
 Vị thần này thậm chí còn không cùng chủng tộc với Tân Thần hay Mạt Thần. Bản chất của nó chỉ là do khi Mạt Thần duy trì Sơ hỏa, cơ thể đã nuốt chửng quá nhiều cường giả của các chủng tộc khác, linh hồn của những cường giả này không hề bị thiêu rụi hoàn toàn.
 
@@ -42,15 +42,15 @@ Tuy nhiên cái đống tàn dư này cũng có chút bản lĩnh. Vì tập h�
 
 Càng bi thảm hơn là, do là hỗn hợp của nhiều chủng tộc, lại bị lửa thiêu rụi, sau khi Đệ Nhị Đế quốc diệt vong, nó đã bị phong tỏa trong phế tích. Sau ngần ấy năm, nó đã hoàn toàn từ bỏ việc suy nghĩ.
 
-Vị giáo hoàng đầu tiên của Thần Ân Giáo đã tìm thấy Khởi Thủy Tà Linh từ trong phế tích và thần thánh hóa nó. Thực tế, vị thần này chỉ là một "bộ máy phát ban Ân tứ" chỉ còn lại bản năng. Kẻ thực sự nắm quyền điều hành Thần Ân Giáo là Mật Thần Nghị Hội.
+Vị Giáo tông đầu tiên của Thần Ân giáo đã tìm thấy Khởi Thủy Tà Linh từ trong phế tích và thần thánh hóa nó. Thực tế, vị thần này chỉ là một "bộ máy phát ban Ân tứ" chỉ còn lại bản năng. Kẻ thực sự nắm quyền điều hành Thần Ân giáo là Mật Thần Nghị Hội.
 
-Luen, vị giáo hoàng này, thực tế cũng chỉ biết lờ mờ về vị thần của họ. Chỉ sau khi làm giáo hoàng đủ lâu, dần dần nhận ra chân tướng của Thần, ông ta mới được Mật Thần Nghị Hội mời gia nhập. Nếu không đồng ý, ông ta chỉ có thể bị xử lý bí mật, rồi thông báo rằng Thần nhớ giáo hoàng nên đã triệu hồi giáo hoàng về trời.
+Luen, vị Giáo tông này, thực tế cũng chỉ biết lờ mờ về vị thần của họ. Chỉ sau khi làm Giáo tông đủ lâu, dần dần nhận ra chân tướng của Thần, ông ta mới được Mật Thần Nghị Hội mời gia nhập. Nếu không đồng ý, ông ta chỉ có thể bị xử lý bí mật, rồi thông báo rằng Thần nhớ Giáo tông nên đã triệu hồi Giáo tông về trời.
 
 Negary tiếp tục bước tới phía trước. Khí thế vô địch này cộng với sự giải phóng Long uy đã va đập mạnh vào tâm trí họ. Vào lúc này, ngay cả những Thần Ân kỵ sĩ đã được gia trì Ân tứ Vô Úy cũng không nhịn được mà lùi lại phía sau.
 
-"Negary, Thần Ân Giáo không phải nơi để ngươi muốn làm gì thì làm. Thần yêu thương thế nhân!" Luen lạnh giọng nói, quyền trượng trong tay tỏa sáng rực rỡ, bao phủ lên tất cả mọi người có mặt tại đó. Hiệu quả của đủ loại Ân tứ xuất hiện trên người họ.
+"Negary, Thần Ân giáo không phải nơi để ngươi muốn làm gì thì làm. Thần yêu thương thế nhân!" Luen lạnh giọng nói, quyền trượng trong tay tỏa sáng rực rỡ, bao phủ lên tất cả mọi người có mặt tại đó. Hiệu quả của đủ loại Ân tứ xuất hiện trên người họ.
 
-Đây chính là tác dụng của Truyền Thừa Quyền Trượng của giáo hoàng, tạm thời ban toàn bộ Ân tứ cho tất cả mọi người.
+Đây chính là tác dụng của Truyền Thừa Quyền Trượng của Giáo tông, tạm thời ban toàn bộ Ân tứ cho tất cả mọi người.
 
 Cứu Rỗi, Chân Tri, Sinh Mệnh, Chính Nghĩa, Thủ Hộ, Hy Sinh, Tiết Chế, Vô Úy, Kiên Cường — tổng cộng chín loại Ân tứ. Tất cả mọi người đều tỏa ra ánh trắng rực rỡ như những thiên thần hạ thế, mỗi người đều cảm nhận được ân điển của Thần.
 
@@ -74,9 +74,9 @@ Một mảng đen kịt.
 
 **Chú thích:**
 - **9 loại Ân tứ (9 Blessings):** Cứu Rỗi, Chân Tri, Sinh Mệnh, Chính Nghĩa, Thủ Hộ, Hy Sinh, Tiết Chế, Vô Úy, Kiên Cường.
-- **Truyền Thừa Quyền Trượng (Scepter of Succession):** Bí bảo của giáo hoàng cho phép ban cùng lúc nhiều loại Ân tứ.
-- **Khởi Thủy Tà Linh (Initial Evil Spirit):** Bản chất thực sự của vị thần Thần Ân Giáo, một khối tàn hồn vô tri.
-- **Mật Thần Nghị Hội (Secret God Council):** Nhóm quyền lực thực sự đứng sau điều hành Thần Ân Giáo.
+- **Truyền Thừa Quyền Trượng (Scepter of Succession):** Bí bảo của Giáo tông cho phép ban cùng lúc nhiều loại Ân tứ.
+- **Khởi Thủy Tà Linh (Initial Evil Spirit):** Bản chất thực sự của vị thần Thần Ân giáo, một khối tàn hồn vô tri.
+- **Mật Thần Nghị Hội (Secret God Council):** Nhóm quyền lực thực sự đứng sau điều hành Thần Ân giáo.
 - **cioul:** Long ngữ mang sức mạnh phù không (bay lơ lửng).
 - **kielit:** Long ngữ mang sức mạnh truyền dẫn và bộc phát lực lượng.
 - **jliost:** Long ngữ mang sức mạnh băng diệt không thể kháng cự.
