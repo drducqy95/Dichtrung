@@ -97,3 +97,13 @@
 - Chương 0098: Sơ Hỏa (1)
 - Chương 0099: Sơ Hỏa (2)
 - Chương 0100: Sơ Hỏa (3)
+- Chương 0101: Sơ Hỏa (4)
+- Chương 0102: Sơ Hỏa (5)
+- Chương 0103: Sơ Hỏa (6)
+- Chương 0104: Sơ Hỏa (7)
+- Chương 0105: Sơ Hỏa (8)
+- Chương 0106: Sơ Hỏa (9)
+- Chương 0107: Tai Ách Quyền Bính
+- Chương 0108: Tai Vương
+- Chương 0109: Tinh Vân
+- Chương 0110: Chủ Giác
