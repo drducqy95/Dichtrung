@@ -195,8 +195,8 @@
     },
     {
       "source": "鸦人",
-      "target": "Crow Men",
-      "note": "Tổ chức duy trì trật tự",
+      "target": "Quạ Nhân",
+      "note": "Crow Men",
       "pending_sync": false
     },
     {
@@ -503,8 +503,32 @@
     },
     {
       "source": "初火",
-      "target": "Ngọn lửa đầu tiên",
-      "note": "First Fire",
+      "target": "Sơ Hỏa",
+      "note": "Initial Fire",
+      "pending_sync": false
+    },
+    {
+      "source": "鬼人",
+      "target": "Quỷ Nhân",
+      "note": "Ghostman",
+      "pending_sync": false
+    },
+    {
+      "source": "龙人",
+      "target": "Long Nhân",
+      "note": "Dragonman",
+      "pending_sync": false
+    },
+    {
+      "source": "始龙",
+      "target": "Sơ Long",
+      "note": "Primal Dragon",
+      "pending_sync": false
+    },
+    {
+      "source": "疾病同调",
+      "target": "Tật bệnh đồng điều",
+      "note": "Disease Synchronization",
       "pending_sync": false
     },
     {
