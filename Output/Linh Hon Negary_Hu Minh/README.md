@@ -6,7 +6,7 @@ Bối cảnh: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh v�
 Tóm tắt nội dung: Vương Uyên xuyên không trở thành một linh hồn tàn khuyết mang tên Negary. Trong thế giới đầy rẫy sự lừa dối và nguy hiểm của Thần Ân giáo và các vương quốc, hắn từng bước thôn phệ, tiến hóa và trở thành nỗi khiếp sợ thực sự - kẻ chi phối vạn vật từ trong bóng tối.
 
 Branch nội bộ: `Linh Hon Negary_Hu Minh`
-Tiến độ hiện tại: `80/754` chương
+Tiến độ hiện tại: `100/754` chương
 
 Quy ước output:
 - Hiển thị mong muốn: `Chương {chapter:04d}: {title}.md`
