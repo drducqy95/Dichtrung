@@ -2,7 +2,7 @@
   "project_name": "Linh Hồn Negary",
   "status": "IN_PROGRESS",
   "total_chapters": 754,
-  "completed_chapters": 175,
+  "completed_chapters": 180,
   "chapters": [
     {
       "chapter_number": 1,
@@ -879,6 +879,36 @@
       "title": "Giấc Mộng Đẹp Xây Dựng Trên Những Lời Dối Trá",
       "status": "DONE",
       "last_updated": "2026-05-13T23:55:00+07:00"
+    },
+    {
+      "chapter_number": 176,
+      "title": "Lý Tưởng Chi Cảnh Đã Sơ Bộ Đạt Thành",
+      "status": "DONE",
+      "last_updated": "2026-05-14T00:05:00+07:00"
+    },
+    {
+      "chapter_number": 177,
+      "title": "Bộc Chủng",
+      "status": "DONE",
+      "last_updated": "2026-05-14T00:15:00+07:00"
+    },
+    {
+      "chapter_number": 178,
+      "title": "Tiếp Nhị Liên Tam",
+      "status": "DONE",
+      "last_updated": "2026-05-14T00:25:00+07:00"
+    },
+    {
+      "chapter_number": 179,
+      "title": "Cùng Lên Đi",
+      "status": "DONE",
+      "last_updated": "2026-05-14T00:35:00+07:00"
+    },
+    {
+      "chapter_number": 180,
+      "title": "Băng Chi Lưu Pháp",
+      "status": "DONE",
+      "last_updated": "2026-05-14T00:45:00+07:00"
     }
   ],
   "milestones": [
@@ -917,5 +947,5 @@
     "ebook_toc": "ebook/toc.md",
     "illustration_manifest": "ebook/illustration_manifest.json"
   },
-  "last_updated": "2026-05-13T21:19:58+07:00"
+  "last_updated": "2026-05-13T21:50:37+07:00"
 }

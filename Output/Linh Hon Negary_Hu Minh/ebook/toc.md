@@ -172,3 +172,8 @@
 - Chương 0173: Lũ Chuột Nhắt Kiệt Sức Suy Nhược
 - Chương 0174: Đối Mặt Với Khát Khao Sâu Thẳm Trong Lòng
 - Chương 0175: Giấc Mộng Đẹp Xây Dựng Trên Những Lời Dối Trá
+- Chương 0176: Lý Tưởng Chi Cảnh Đã Sơ Bộ Đạt Thành
+- Chương 0177: Bộc Chủng
+- Chương 0178: Tiếp Nhị Liên Tam
+- Chương 0179: Cùng Lên Đi
+- Chương 0180: Băng Chi Lưu Pháp
