@@ -2,7 +2,7 @@
   "metadata": {
     "version": "1.0",
     "project": "Linh Hồn Negary",
-    "last_updated": "2026-05-12T17:58:29.9643200+07:00"
+    "last_updated": "2026-05-13T08:37:00+07:00"
   },
   "characters": [
     {
@@ -318,6 +318,303 @@
       "description": "Hiệp sĩ Intercam, người kế thừa Cương Lưu Pháp, thần phục Nara.",
       "notes": "",
       "pending_sync": false
+    },
+    {
+      "name_original": "左宇肖",
+      "name_translated": "Tả Vũ Tiếu",
+      "gender": "nam",
+      "role": "Phụ",
+      "description": "Người bị nhiễm mầm bệnh, bị Khoa Đối ứng truy nã.",
+      "notes": "",
+      "pending_sync": true
+    },
+    {
+      "name_original": "杰克 / 杀手J",
+      "name_translated": "Jack / Sát Thủ J",
+      "gender": "nam",
+      "role": "Thứ chính",
+      "description": "Cấu trúc linh hồn được tạo từ Jack và phó hồn của Negary, hành động bất khả dự trắc.",
+      "notes": "Đệ nhất thiên tài Đội quân Quỷ Nhân.",
+      "pending_sync": true
+    },
+    {
+      "name_original": "王昭",
+      "name_translated": "Vương Chiêu",
+      "gender": "nam",
+      "role": "Phản diện",
+      "description": "Kẻ sở hữu Quyền Bính Tội Ác Chi Tai, đang bị Khoa Đối ứng truy nã.",
+      "notes": "",
+      "pending_sync": true
+    },
+    {
+      "name_original": "万恒阳",
+      "name_translated": "Vạn Hằng Dương",
+      "gender": "nam",
+      "role": "Phụ",
+      "description": "Người cha đau khổ tìm công lý cho con gái trong 19 năm, bắt đầu thức tỉnh Tai Ách chi lực.",
+      "notes": "",
+      "pending_sync": true
+    },
+    {
+      "name_original": "赵世昌",
+      "name_translated": "Triệu Thế Xương",
+      "gender": "nam",
+      "role": "Phản diện",
+      "description": "Bác sĩ nắm giữ Quyền Bính Sự Cố Y Tế, kẻ gây ra cái chết cho con gái Vạn Hằng Dương.",
+      "notes": "Được giới quyền quý bảo hộ.",
+      "pending_sync": true
+    },
+    {
+      "name_original": "方泽",
+      "name_translated": "Phương Trạch",
+      "gender": "nam",
+      "role": "Thứ chính",
+      "description": "Tân Tai Vương mới thức tỉnh, là một học sinh trung học.",
+      "notes": "Mục tiêu của Vạn Hằng Dương.",
+      "pending_sync": true
+    },
+    {
+      "name_original": "小琳",
+      "name_translated": "Tiểu Lâm",
+      "gender": "nữ",
+      "role": "Phụ",
+      "description": "Con gái đã khuất của Vạn Hằng Dương.",
+      "notes": "Đã chết.",
+      "pending_sync": true
+    },
+    {
+      "name_original": "流矢",
+      "name_translated": "Lưu Thỉ",
+      "gender": "nữ",
+      "role": "Thứ chính",
+      "description": "Thành viên Khoa Đối ứng, người bảo hộ Phương Trạch, nắm giữ Quyền Bính Lưu Thỉ.",
+      "notes": "",
+      "pending_sync": true
+    },
+    {
+      "name_original": "巧姐",
+      "name_translated": "Chị Xảo",
+      "gender": "nữ",
+      "role": "Phụ",
+      "description": "Hàng xóm của Phương Trạch, thường giúp đỡ cậu.",
+      "notes": "",
+      "pending_sync": true
+    },
+    {
+      "name_original": "流刃",
+      "name_translated": "Lưu Nhận",
+      "gender": "nam",
+      "role": "Phụ",
+      "description": "Thành viên Khoa Đối ứng, đàn anh của Lưu Thỉ, nắm giữ Quyền Bính Lợi Nhận Chi Thương.",
+      "notes": "Kiếm thuật cực kỳ khủng khiếp.",
+      "pending_sync": true
+    },
+    {
+      "name_original": "常部长",
+      "name_translated": "Thường Bộ Trưởng",
+      "gender": "nam",
+      "role": "Phản diện",
+      "description": "Người đứng đầu cấp cao của chính phủ, chủ mưu đứng sau kế hoạch thử thách Tai Vương.",
+      "notes": "",
+      "pending_sync": true
+    },
+    {
+      "name_original": "肖跋傅",
+      "name_translated": "Tiêu Bạt Phó",
+      "gender": "nam",
+      "role": "Phụ",
+      "description": "Nhân viên Khoa Đối ứng, người tham gia bắt giữ Negary.",
+      "notes": "",
+      "pending_sync": true
+    },
+    {
+      "name_original": "张子杰",
+      "name_translated": "Trương Tử Kiệt",
+      "gender": "nam",
+      "role": "Phụ",
+      "description": "Nhân viên Khoa Đối ứng, đồng nghiệp của Tiêu Bạt Phó.",
+      "notes": "",
+      "pending_sync": true
+    },
+    {
+      "name_original": "梁亮",
+      "name_translated": "Lương Lượng",
+      "gender": "nam",
+      "role": "Phụ",
+      "description": "Một người đàn ông quyền quý 70 tuổi, sử dụng dược tề Hắc Nha của Negary để kéo dài tuổi thọ và giữ vẻ trẻ trung.",
+      "notes": "",
+      "pending_sync": true
+    },
+    {
+      "name_original": "李常",
+      "name_translated": "Lý Thường",
+      "gender": "nam",
+      "role": "Phụ",
+      "description": "Thiếu niên tham gia thí nghiệm cảm ứng Tai Ách chi lực của Negary.",
+      "notes": "",
+      "pending_sync": true
+    },
+    {
+      "name_original": "何巧",
+      "name_translated": "Hà Xảo",
+      "gender": "nữ",
+      "role": "Phụ",
+      "description": "Hàng xóm và là người chị thân thiết của Phương Trạch, thường được gọi là Chị Xảo.",
+      "notes": "Mục tiêu trong âm mưu của Negary.",
+      "pending_sync": true
+    },
+    {
+      "name_original": "张雨露",
+      "name_translated": "Trương Vũ Lộ",
+      "gender": "nữ",
+      "role": "Phụ",
+      "description": "Bạn của Hà Xảo, con gái của người phụ nữ có ngoại hình giống mẹ Phương Trạch.",
+      "notes": "Bị Negary chi phối để lôi kéo Hà Xảo.",
+      "pending_sync": true
+    },
+    {
+      "name_original": "张伟",
+      "name_translated": "Trương Vĩ",
+      "gender": "nam",
+      "role": "Phụ",
+      "description": "Bạn thuở nhỏ của Phương Trạch, sở hữu quyền bính Ác Hóa giúp ngăn chặn thương thế chuyển biến xấu.",
+      "notes": "",
+      "pending_sync": true
+    },
+    {
+      "name_original": "叶空",
+      "name_translated": "Diệp Không",
+      "gender": "nam",
+      "role": "Phản diện",
+      "description": "Cựu nhân viên Khoa Đối ứng, sở hữu quyền bính Phòng Ốc Đổ Sập. Kẻ gây ra các vụ sập nhà hàng loạt tại Khu vực 5.",
+      "notes": "",
+      "pending_sync": true
+    },
+    {
+      "name_original": "秦颍",
+      "name_translated": "Tần Dĩnh",
+      "gender": "nữ",
+      "role": "Phụ",
+      "description": "Nhân viên Khoa Đối ứng, đồng đội cũ của Diệp Không.",
+      "notes": "",
+      "pending_sync": true
+    },
+    {
+      "name_original": "李宣烨",
+      "name_translated": "Lý Tuyên Diệp",
+      "gender": "nam",
+      "role": "Phụ",
+      "description": "Cựu nhân viên Khoa Đối ứng, bị Diệp Không giết chết.",
+      "notes": "",
+      "pending_sync": true
+    },
+    {
+      "name_original": "高燕",
+      "name_translated": "Cao Yến",
+      "gender": "nữ",
+      "role": "Phụ",
+      "description": "Cựu nhân viên Khoa Đối ứng, đã qua đời.",
+      "notes": "",
+      "pending_sync": true
+    },
+    {
+      "name_original": "肖跋傅",
+      "name_translated": "Tiêu Bạt Phụ",
+      "gender": "nam",
+      "role": "Phụ",
+      "description": "Nhân viên Khoa Đối ứng, sở hữu quyền bính Cốt Chiết.",
+      "notes": "",
+      "pending_sync": true
+    },
+    {
+      "name_original": "张子杰",
+      "name_translated": "Trương Tử Kiệt",
+      "gender": "nam",
+      "role": "Phụ",
+      "description": "Nhân viên Khoa Đối ứng, sở hữu quyền bính Địa Hãm.",
+      "notes": "",
+      "pending_sync": true
+    },
+    {
+      "name_original": "夜枭",
+      "name_translated": "Dạ Kiêu",
+      "gender": "nam",
+      "role": "Phụ",
+      "description": "Xạ thủ bắn tỉa của Khoa Đối ứng, hỗ trợ Phương Trạch tiêu diệt Diệp Không.",
+      "notes": "",
+      "pending_sync": true
+    },
+    {
+      "name_original": "李静语",
+      "name_translated": "Lý Tĩnh Ngữ",
+      "gender": "nữ",
+      "role": "Phản diện",
+      "description": "Người nắm giữ Quyền Bính Bạo Lực Dư Luận, thuộc tổ chức Kẻ Sống Sót.",
+      "notes": "Bị Sát thủ J giết chết.",
+      "pending_sync": true
+    },
+    {
+      "name_original": "余光明",
+      "name_translated": "Dư Quang Minh",
+      "gender": "nam",
+      "role": "Phản diện (Lịch sử)",
+      "description": "Người nắm giữ Quyền Bính Động Đất, gây ra Trận động đất lớn Nguyệt Bố 16 năm trước.",
+      "notes": "Đã bị ngăn chặn (chết hoặc mất tích).",
+      "pending_sync": true
+    },
+    {
+      "name_original": "托尔",
+      "name_translated": "Thor",
+      "gender": "nam (chó)",
+      "role": "Phụ",
+      "description": "Con chó Corgi của Sát thủ J, bạn diễn trong các màn diễn sâu.",
+      "notes": "Tên được đặt theo Thần Sấm.",
+      "pending_sync": true
+    },
+    {
+      "name_original": "罗平",
+      "name_translated": "La Bình",
+      "gender": "nam",
+      "role": "Phụ",
+      "description": "Thành viên tiểu đội Tai Ách Khoa Đối ứng Vực thứ bảy, người bản địa Nguyệt Bố.",
+      "notes": "Bị Negary nghi ngờ có liên quan đến tổ chức Kẻ Sống Sót.",
+      "pending_sync": true
+    },
+    {
+      "name_original": "李科长",
+      "name_translated": "Lý khoa trưởng",
+      "gender": "nam",
+      "role": "Phụ",
+      "description": "Trưởng khoa tại Khoa Đối ứng Vực thứ bảy. Bị thành viên Kẻ Sống Sót giết chết.",
+      "status": "Đã chết",
+      "pending_sync": true
+    },
+    {
+      "name_original": "王昭",
+      "name_translated": "Vương Chiêu",
+      "gender": "nam",
+      "role": "Phản diện",
+      "description": "Người nắm giữ Quyền bính Tội Ác Chi Tai. Đặc vụ quan phủ biến chất.",
+      "notes": "Có bom cấy trong tim, thích cảm giác lan truyền tội ác.",
+      "pending_sync": true
+    },
+    {
+      "name_original": "流刃",
+      "name_translated": "Lưu Nhận",
+      "gender": "nam",
+      "role": "Phản diện",
+      "description": "Sư huynh của Lưu Thỉ, người nắm giữ Quyền bính Lợi Nhận Chi Thương.",
+      "notes": "Quân cờ ngầm của Kẻ Sống Sót cài cắm vào quan phủ từ nhỏ.",
+      "pending_sync": true
+    },
+    {
+      "name_original": "陈迪希",
+      "name_translated": "Trần Địch Hy",
+      "gender": "nam",
+      "role": "Phụ",
+      "description": "Một người sống sót có khả năng thích ứng cao, được Negary ban cho kỹ thuật Sinh Vật Thực Trang.",
+      "notes": "Được Negary đánh giá là có tiềm năng và dã tâm lớn.",
+      "pending_sync": true
     }
   ]
 }

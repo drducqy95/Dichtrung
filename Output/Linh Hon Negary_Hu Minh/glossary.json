@@ -692,6 +692,393 @@
       "target": "Black Abyss Stone",
       "note": "Trang bị - Latinh",
       "pending_sync": false
+    },
+    {
+      "source": "灾厄",
+      "target": "Tai Ách",
+      "note": "Calamity",
+      "pending_sync": true
+    },
+    {
+      "source": "权柄",
+      "target": "Quyền Bính",
+      "note": "Authority",
+      "pending_sync": true
+    },
+    {
+      "source": "灾厄权柄",
+      "target": "Tai Ách Quyền Bính",
+      "note": "Calamity Authority",
+      "pending_sync": true
+    },
+    {
+      "source": "Tai Ách chi lực",
+      "target": "Tai Ách chi lực",
+      "note": "Calamity Energy",
+      "pending_sync": true
+    },
+    {
+      "source": "灾王",
+      "target": "Tai Vương",
+      "note": "Calamity King",
+      "pending_sync": true
+    },
+    {
+      "source": "灾厄应急响应科",
+      "target": "Khoa Đối ứng Khẩn cấp Tai Ách",
+      "note": "Calamity Emergency Response Department (CERD)",
+      "pending_sync": true
+    },
+    {
+      "source": "域",
+      "target": "Vực",
+      "note": "Sector/Region",
+      "pending_sync": true
+    },
+    {
+      "source": "区",
+      "target": "Khu",
+      "note": "Area/Zone",
+      "pending_sync": true
+    },
+    {
+      "source": "罪恶之灾",
+      "target": "Tội Ác Chi Tai",
+      "note": "Calamity of Sin",
+      "pending_sync": true
+    },
+    {
+      "source": "医疗事故",
+      "target": "Sự Cố Y Tế",
+      "note": "Medical Malpractice",
+      "pending_sync": true
+    },
+    {
+      "source": "孤寡",
+      "target": "Cô Quả",
+      "note": "Loneliness/Solitude",
+      "pending_sync": true
+    },
+    {
+      "source": "流矢",
+      "target": "Lưu Thỉ",
+      "note": "Stray Arrow",
+      "pending_sync": true
+    },
+    {
+      "source": "震天雷",
+      "target": "Chấn Thiên Lôi",
+      "note": "Heaven-Shaking Thunder",
+      "pending_sync": true
+    },
+    {
+      "source": "交通瘫痪",
+      "target": "Tê Liệt Giao Thông",
+      "note": "Traffic Paralysis (Authority)",
+      "pending_sync": true
+    },
+    {
+      "source": "灾之力反应收束器",
+      "target": "Thiết bị thu thúc Tai Ách chi lực",
+      "note": "Calamity Force Reaction Restrictor",
+      "pending_sync": true
+    },
+    {
+      "source": "利刃之伤",
+      "target": "Lợi Nhận Chi Thương",
+      "note": "Sharp Blade Wound (Authority)",
+      "pending_sync": true
+    },
+    {
+      "source": "月布大地震",
+      "target": "Trận động đất lớn Nguyệt Bố",
+      "note": "Yuebu Earthquake",
+      "pending_sync": true
+    },
+    {
+      "source": "末日石碑",
+      "target": "Bia Đá Mạt Nhật",
+      "note": "Doomsday Stele",
+      "pending_sync": true
+    },
+    {
+      "source": "赤红之星",
+      "target": "Xích Hồng Chi Tinh",
+      "note": "Red Star",
+      "pending_sync": true
+    },
+    {
+      "source": "异界的乌鸦",
+      "target": "Dị Giới Ô Nha",
+      "note": "Otherworld Crows",
+      "pending_sync": true
+    },
+    {
+      "source": "奈格里制药",
+      "target": "Dược phẩm Negary",
+      "note": "Negary Pharmaceuticals",
+      "pending_sync": true
+    },
+    {
+      "source": "灾厄管理法庭",
+      "target": "Tòa án Quản lý Tai Ách",
+      "note": "Calamity Management Court",
+      "pending_sync": true
+    },
+    {
+      "source": "舛讹",
+      "target": "Chuyển Ngoa",
+      "note": "Deviance/Error (Term from Doomsday Stele)",
+      "pending_sync": true
+    },
+    {
+      "source": "根源二次解放",
+      "target": "Giải phóng Căn Nguyên cấp 2",
+      "note": "Secondary Root Liberation",
+      "pending_sync": true
+    },
+    {
+      "source": "修炼功法",
+      "target": "Công pháp tu luyện",
+      "note": "Cultivation Method",
+      "pending_sync": true
+    },
+    {
+      "source": "巫师刺激法",
+      "target": "Vu Sư Kích Thích Pháp",
+      "note": "Wizard Stimulation Method",
+      "pending_sync": true
+    },
+    {
+      "source": "启灵药剂",
+      "target": "Dược tề Khải Linh",
+      "note": "Awakening Potion",
+      "pending_sync": true
+    },
+    {
+      "source": "灾之力波动感应技术",
+      "target": "Công nghệ cảm ứng dao động Tai Ách chi lực",
+      "note": "Calamity Force Wave Sensing Technology",
+      "pending_sync": true
+    },
+    {
+      "source": "灾之力材料制造技术",
+      "target": "Công nghệ chế tạo vật liệu Tai Ách chi lực",
+      "note": "Calamity Force Material Manufacturing Technology",
+      "pending_sync": true
+    },
+    {
+      "source": "灾之力稳定技术",
+      "target": "Công nghệ ổn định Tai Ách chi lực",
+      "note": "Calamity Force Stabilization Technology",
+      "pending_sync": true
+    },
+    {
+      "source": "灵魂武器制造方法",
+      "target": "Phương pháp chế tạo linh hồn vũ khí",
+      "note": "Soul Weapon Forging/Manufacturing Method",
+      "pending_sync": true
+    },
+    {
+      "source": "恶化",
+      "target": "Ác Hóa",
+      "note": "Deterioration (Authority)",
+      "pending_sync": true
+    },
+    {
+      "source": "赤红之章",
+      "target": "Xích Hồng Chi Chương",
+      "note": "Red Chapter (Prophecy term for Fang Ze)",
+      "pending_sync": true
+    },
+    {
+      "source": "房屋倒塌",
+      "target": "Phòng Ốc Đổ Sập",
+      "note": "House Collapsing (Authority)",
+      "pending_sync": true
+    },
+    {
+      "source": "神言具现",
+      "target": "Thần Ngôn Cụ Hiện",
+      "note": "God's Word Incarnate / Divine Words Manifestation (Noah's ability)",
+      "pending_sync": true
+    },
+    {
+      "source": "维特效应",
+      "target": "Hiệu ứng Werther",
+      "note": "Werther Effect (Psychological term)",
+      "pending_sync": true
+    },
+    {
+      "source": "个人现实",
+      "target": "Hiện thực cá nhân",
+      "note": "Personal Reality (Supernatural concept)",
+      "pending_sync": true
+    },
+    {
+      "source": "秩序崩溃",
+      "target": "Trật Tự Băng Hoại",
+      "note": "Order Collapse (Authority Evolution of House Collapsing)",
+      "pending_sync": true
+    },
+    {
+      "source": "骨折",
+      "target": "Cốt Chiết",
+      "note": "Bone Fracture (Authority)",
+      "pending_sync": true
+    },
+    {
+      "source": "地陷",
+      "target": "Địa Hãm",
+      "note": "Ground Subsidence (Authority)",
+      "pending_sync": true
+    },
+    {
+      "source": "交通瘫痪",
+      "target": "Giao Thông Tê Liệt",
+      "note": "Traffic Paralysis (Authority)",
+      "pending_sync": true
+    },
+    {
+      "source": "本质苏醒",
+      "target": "Bản Chất Tô Tỉnh",
+      "note": "Nature Awakening / Essence Awakening (Root Liberation)",
+      "pending_sync": true
+    },
+    {
+      "source": "启灵法",
+      "target": "Khải Linh Pháp",
+      "note": "Enlightenment Method - Phương pháp tu luyện linh hồn của Negary"
+    },
+    {
+      "source": "共生武器",
+      "target": "Vũ khí cộng sinh",
+      "note": "Symbiotic Weapon - Vũ khí rèn luyện cùng linh hồn"
+    },
+    {
+      "source": "金属多面体",
+      "target": "Đa diện thể kim loại",
+      "note": "Metallic Polyhedron - Hạt nhân của quái vật Căn Nguyên hóa"
+    },
+    {
+      "source": "幸存者",
+      "target": "Kẻ Sống Sót",
+      "note": "Survivors - Tổ chức tại Nguyệt Bố"
+    },
+    {
+      "source": "月布大地震",
+      "target": "Trận động đất lớn Nguyệt Bố",
+      "note": "Yuebu Earthquake - Thảm họa 16 năm trước"
+    },
+    {
+      "source": "思想钢印",
+      "target": "Tư tưởng cương ấn",
+      "note": "Mental Stamp / Thought Steel Seal - Cơ chế bảo vệ tinh thần của tổ chức Kẻ Sống Sót"
+    },
+    {
+      "source": "十灾",
+      "target": "Thập Tai",
+      "note": "Ten Calamities - Mười thảm họa mạt thế"
+    },
+    {
+      "source": "天倾",
+      "target": "Thiên Khuynh",
+      "note": "Sky Collapse - Một trong Thập Tai"
+    },
+    {
+      "source": "太阳风暴",
+      "target": "Thái Dương Phong Bạo",
+      "note": "Solar Storm - Một trong Thập Tai"
+    },
+    {
+      "source": "地心移极",
+      "target": "Địa Tâm Di Cực",
+      "note": "Geomagnetic Reversal / Pole Shift - Một trong Thập Tai"
+    },
+    {
+      "source": "大洪水",
+      "target": "Đại Hồng Thủy",
+      "note": "Great Flood - Một trong Thập Tai"
+    },
+    {
+      "source": "行星撞击",
+      "target": "Hành Tinh Tràng Kích",
+      "note": "Asteroid Impact - Một trong Thập Tai"
+    },
+    {
+      "source": "超级瘟疫",
+      "target": "Siêu Cấp Ôn Dịch",
+      "note": "Super Plague - Một trong Thập Tai"
+    },
+    {
+      "source": "时间混乱",
+      "target": "Thời Gian Hỗn Loạn",
+      "note": "Time Confusion - Một trong Thập Tai"
+    },
+    {
+      "source": "众生之王",
+      "target": "Chúng Sinh Chi Vương",
+      "note": "King of Commoners - Danh hiệu của Phương Trạch trong Bia Đá Mạt Nhật"
+    },
+    {
+      "source": "灾之力储存器",
+      "target": "Thiết bị lưu trữ Tai Ách chi lực",
+      "note": "Disaster Power Storage Device - Công nghệ mới của Khoa Đối ứng"
+    },
+    {
+      "source": "源池",
+      "target": "Nguyên Trì",
+      "note": "Source Pool - Nguồn bể năng lượng/thông tin mấu chốt trong âm mưu của Kẻ Sống Sót"
+    },
+    {
+      "source": "灾之力护盾",
+      "target": "Hộ thuẫn Tai Ách chi lực",
+      "note": "Disaster Power Shield - Lớp bảo vệ tạo ra từ thiết bị công nghệ"
+    },
+    {
+      "source": "崇高目标",
+      "target": "Sùng Cao Mục Tiêu",
+      "note": "Sublime Goal - Năng lực bản chất của thủ lĩnh Kẻ Sống Sót, tạo ra tư tưởng cương ấn"
+    },
+    {
+      "source": "罪恶之灾",
+      "target": "Tội Ác Chi Tai",
+      "note": "Sin Calamity - Quyền bính của Vương Chiêu"
+    },
+    {
+      "source": "利刃之伤",
+      "target": "Lợi Nhận Chi Thương",
+      "note": "Sharp Blade Wound - Quyền bính của Lưu Nhận"
+    },
+    {
+      "source": "三翼恶龙",
+      "target": "Tam Dực Ác Long",
+      "note": "Three-Winged Evil Dragon - Hình thái của Negary sau khi biến đổi bệnh khuẩn"
+    },
+    {
+      "source": "龙语",
+      "target": "Long Ngữ",
+      "note": "Dragon Language - Ngôn ngữ cổ xưa mang sức mạnh can thiệp"
+    },
+    {
+      "source": "jliost",
+      "target": "Jliost",
+      "note": "Dragon Tongue: Unstoppable Force - Sức mạnh không thể kháng cự"
+    },
+    {
+      "source": "灾王",
+      "target": "Tai Vương",
+      "note": "Disaster King - Cấp độ cao nhất của người nắm giữ quyền bính"
+    },
+    {
+      "source": "生物殖装",
+      "target": "Sinh Vật Thực Trang",
+      "note": "Bio-Armor / Biological Colonization - Bộ giáp sinh học chế tạo từ vi khuẩn thây ma"
+    },
+    {
+      "source": "趴地鬼",
+      "target": "Pháp địa quỷ",
+      "note": "Crawling ghost - Thây ma bò dưới đất, tiền thân của các quái vật ngụy trang"
     }
   ]
 }

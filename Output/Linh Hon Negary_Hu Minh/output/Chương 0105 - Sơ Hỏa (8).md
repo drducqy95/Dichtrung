@@ -16,7 +16,7 @@ Aldrich hiện tại hoàn toàn dựa vào khối u được Negary tách ra nu
 
 Thiếu nữ không đầu giơ cao trường kiếm, sức mạnh Hắc Uyên tụ tập lại. Bản thân Negary bị vây khốn bởi đống bùn loãng do sức mạnh Hắc Uyên hóa thành, sức mạnh trói buộc Nara ngày càng yếu đi.
 
-"Nara, cô vẫn còn đang行走 (hành tẩu) trên con đường chính xác chứ?" Negary đột nhiên thốt ra một câu như vậy.
+"Nara, cô vẫn còn đang hành tẩu trên con đường chính xác chứ?" Negary đột nhiên thốt ra một câu như vậy.
 
 Nara đang chuẩn bị vung kiếm giết chết Aldrich bỗng nhiên khựng lại. Negary thừa cơ dùng hết toàn lực, kéo Nara lùi lại vài bước.
 

@@ -107,3 +107,50 @@
 - Chương 0108: Tai Vương
 - Chương 0109: Tinh Vân
 - Chương 0110: Chủ Giác
+- Chương 0111: Dị Giới Xâm Nhập
+- Chương 0112: Trọng Tố
+- Chương 0113: Trợ Thủ
+- Chương 0114: Kẻ Đeo Xiềng Xích
+- Chương 0115: Mật Danh J
+- Chương 0116: Kẻ Đã Hoàn Toàn Điên Cuồng
+- Chương 0117: Công Lý Chưa Đến
+- Chương 0118: Cô Quả Và Lưu Thỉ
+- Chương 0119: Tấn Công
+- Chương 0120: Bị Hy Sinh
+- Chương 0121: Bị Lợi Dụng
+- Chương 0122: Bia Đá Mạt Nhật
+- Chương 0123: Quân Bài
+- Chương 0124: Phẫu Thuật "Phục Sinh"
+- Chương 0125: Tôi Yêu Học Tập, Học Tập Khiến Tôi Vui Vẻ
+- Chương 0126: Chưa Đội Vương Miện
+- Chương 0127: Con Đường
+- Chương 0128: Bản Sơ Thảo Công Pháp Tu Luyện Tai Ách Chi Lực
+- Chương 0129: Âm Mưu
+- Chương 0130: Gây Chuyện
+- Chương 0131: Áp Đảo Hoàn Toàn
+- Chương 0132: Thất Cách Chi Vương
+- Chương 0133: Phòng Ốc Đổ Sập
+- Chương 0134: Tai Ách Thăng Cấp
+- Chương 0135: Tiết Lộ Thông Tin
+- Chương 0136: Con Người Luôn Phải Cảm Thấy Sợ Hãi Mới Có Thể Nhìn Rõ Bản Thân
+- Chương 0137: Thần Ngôn Cụ Hiện
+- Chương 0138: Trật Tự Băng Hoại
+- Chương 0139: Tai Ách Giác Tỉnh Giả
+- Chương 0140: Vật Liệu Tai Ách Chi Lực
+- Chương 0141: Tai Ách Thần Mảnh Vỡ
+- Chương 0142: Vũ khí cộng sinh
+- Chương 0143: Bí mật lớn
+- Chương 0144: Vấn đề về phí quảng cáo
+- Chương 0145: Vực thứ bảy Nguyệt Bố
+- Chương 0146: Negary đang trên đường tới
+- Chương 0147: Người bản địa Nguyệt Bố
+- Chương 0148: Nguyên chỉ
+- Chương 0149: Xuất kích
+- Chương 0150: Không đúng
+- Chương 0151: Thập Tai
+- Chương 0152: Nguyên Trì
+- Chương 0153: Sùng Cao Mục Tiêu
+- Chương 0154: Không cần cố kỵ
+- Chương 0155: Đại Tai Biến
+- Chương 0156: Tai Vương
+- Chương 0157: Báo Thù

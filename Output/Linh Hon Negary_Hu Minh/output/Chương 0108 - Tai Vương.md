@@ -10,7 +10,7 @@ Negary vỗ cánh, không ngừng thay đổi vị trí của mình. Anh không 
 
 "Đã có Tai Ách Quyền Bính về 'Dị Giới Xâm Nhập', vậy thì cực kỳ có khả năng cũng sở hữu những Tai Ách Quyền Bính khác." Tư duy của Negary xoay chuyển: "Việc cấp bách lúc này là ẩn giấu bản thân, khôi phục hồn thể, sau đó mới từng chút một tìm hiểu thế giới này."
 
-"Chỉ là, còn cần tránh tạo ra sự phá hoại. Hành vi phá hoại của ta đều có thể sinh ra Tai Ách chi lực, tuy rằng có thể nhanh chóng thu thúc nó lại, nhưng cũng có khả năng để lộ vị trí của ta." Negary降 (hàng) lạc trên một cái cây lớn, quan sát cuộc sống của những người xung quanh.
+"Chỉ là, còn cần tránh tạo ra sự phá hoại. Hành vi phá hoại của ta đều có thể sinh ra Tai Ách chi lực, tuy rằng có thể nhanh chóng thu thúc nó lại, nhưng cũng có khả năng để lộ vị trí của ta." Negary giáng lạc trên một cái cây lớn, quan sát cuộc sống của những người xung quanh.
 
 Trông có vẻ như những người này rất giống với thế giới của Vương Uyên, nhưng sai biệt vẫn là có. Đầu tiên là ngôn ngữ tuy tương đồng nhưng không giống hệt, thứ hai là cấu trúc xã hội của thế giới này cũng có vấn đề nhất định.
 

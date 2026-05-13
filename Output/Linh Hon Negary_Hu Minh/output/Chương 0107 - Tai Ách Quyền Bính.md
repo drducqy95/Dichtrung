@@ -36,7 +36,7 @@ Theo sự phát triển bình thường, đáng lẽ anh nên đoạt xá gã t�
 
 Vả mặt bạn gái cũ, du ngoạn đô thị, sau đó là hoa khôi học đường, chị em sinh đôi, nữ y tá thanh thuần, nữ giáo viên gợi cảm, thiên kim đại tiểu thư, từng người một nối gót kéo đến, sống một cuộc đời Ma vương đô thị nhàn nhã... Nghĩ thôi dường như cũng thấy có chút kích thích nhỏ.
 
-"Hấp thụ cái linh hồn tử tr宅 (trạch) phế vật cơ bản không có bất kỳ ưu điểm nào này chỉ làm ô nhiễm hồn thể của ta, lại còn phải đi thay hắn hoàn thành cái gọi là chấp niệm, thật là vô vị." Negary điều khiển những bệnh khuẩn còn sót lại của mình, xâm thực chuyển hóa nhục thể của Từ Minh.
+"Hấp thụ cái linh hồn tử trạch phế vật cơ bản không có bất kỳ ưu điểm nào này chỉ làm ô nhiễm hồn thể của ta, lại còn phải đi thay hắn hoàn thành cái gọi là chấp niệm, thật là vô vị." Negary điều khiển những bệnh khuẩn còn sót lại của mình, xâm thực chuyển hóa nhục thể của Từ Minh.
 
 "Từ khi ta xuất hiện, đã có một luồng sức mạnh luôn vây quanh ta, và không ngừng phát ra một loại dao động ra xung quanh. Xem ra thế giới này vẫn sở hữu sức mạnh siêu phàm, loại dao động mà sức mạnh này phát ra có lẽ sẽ thu hút sự chú ý của những kẻ khác."
 

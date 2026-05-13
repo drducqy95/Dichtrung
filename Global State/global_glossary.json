@@ -3,16 +3,17 @@
     "version": "1.0.12",
     "source_language": "zh",
     "target_language": "vi",
-    "last_updated": "2026-05-10T03:34:12.835097",
-    "total_entries": 477,
+    "last_updated": "2026-05-13T15:19:50+07:00",
+    "total_entries": 632,
     "source_projects": [
       "Ac Linh Quoc Gia",
       "Hong Hoang Lich_Zhttty",
+      "Linh Hon Negary_Hu Minh",
       "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
       "Phi Pham Hong Hoang_Nga Tu Phi Pham",
       "Sieu Duy Thuat Si_Muc Ho",
-      "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han",
-      "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu"
+      "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
+      "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han"
     ],
     "description": "Tổng hợp thuật ngữ dịch thuật từ TẤT CẢ project branch trong repo Dichtrung"
   },
@@ -4760,28 +4761,1581 @@
       "id": "GTERM_0475",
       "source_term": "绝运",
       "target_term": "Tuyệt Vận",
-      "category": "concept",
+      "category": "general",
       "source_project": "Linh Hon Negary_Hu Minh",
       "confidence": "high",
-      "notes": "World trait: Absolute Misfortune / Anti-luck"
+      "notes": "World trait: Absolute Misfortune / Anti-luck",
+      "locked": false
     },
     {
       "id": "GTERM_0476",
       "source_term": "气运",
       "target_term": "Khí Vận",
-      "category": "concept",
+      "category": "general",
       "source_project": "Linh Hon Negary_Hu Minh",
       "confidence": "high",
-      "notes": "Luck / Fortune / Providence"
+      "notes": "Luck / Fortune / Providence",
+      "locked": false
     },
     {
       "id": "GTERM_0477",
       "source_term": "真言",
       "target_term": "Chân Ngôn",
-      "category": "concept",
+      "category": "general",
       "source_project": "Linh Hon Negary_Hu Minh",
       "confidence": "high",
-      "notes": "True Word / Logia"
+      "notes": "True Word / Logia",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0427",
+      "source_term": "多元宇宙",
+      "target_term": "Đa Nguyên Vũ Trụ",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0443",
+      "source_term": "主角光环",
+      "target_term": "Hào Quang Nhân Vật Chính",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0478",
+      "source_term": "巫医",
+      "target_term": "Witch doctor",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0479",
+      "source_term": "低魔世界",
+      "target_term": "Low Magic",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0480",
+      "source_term": "感知场",
+      "target_term": "Trường cảm giác",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0481",
+      "source_term": "干涉力",
+      "target_term": "Lực can thiệp",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0482",
+      "source_term": "念动力",
+      "target_term": "Niệm động lực",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0483",
+      "source_term": "死域",
+      "target_term": "Tử vực",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0484",
+      "source_term": "白气",
+      "target_term": "Sinh khí",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0485",
+      "source_term": "清凉气息",
+      "target_term": "Hồn khí",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0486",
+      "source_term": "阳气",
+      "target_term": "Dương khí",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0487",
+      "source_term": "阴气",
+      "target_term": "Âm khí",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0488",
+      "source_term": "厉鬼",
+      "target_term": "Lệ quỷ",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0489",
+      "source_term": "塔克里",
+      "target_term": "Takli",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0490",
+      "source_term": "塔克岭",
+      "target_term": "Lĩnh Tak",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0491",
+      "source_term": "西丽河",
+      "target_term": "Sông Sili",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0492",
+      "source_term": "神恩教",
+      "target_term": "Thần Ân giáo",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0493",
+      "source_term": "邪灵",
+      "target_term": "Tà Linh",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0494",
+      "source_term": "龙之子",
+      "target_term": "Long Chi Tử",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0495",
+      "source_term": "因特卡密王国",
+      "target_term": "Vương quốc Intercam",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0496",
+      "source_term": "德根人",
+      "target_term": "Người Degen",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0497",
+      "source_term": "特里兰西亚",
+      "target_term": "Trilansia",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0498",
+      "source_term": "肯特人",
+      "target_term": "Người Kent",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0499",
+      "source_term": "神名",
+      "target_term": "Thần danh",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0500",
+      "source_term": "始祖病菌",
+      "target_term": "Mầm bệnh Ancestor",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0501",
+      "source_term": "黑鸦病菌",
+      "target_term": "Mầm bệnh Black Crow",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0502",
+      "source_term": "支配病菌",
+      "target_term": "Mầm bệnh Domination",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0503",
+      "source_term": "义人病菌",
+      "target_term": "Mầm bệnh Righteous Man",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0504",
+      "source_term": "咕撒",
+      "target_term": "Gusa",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0505",
+      "source_term": "咕塔数",
+      "target_term": "Chỉ số Guta",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0506",
+      "source_term": "雷亚斯特米亚",
+      "target_term": "Reyastemia",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0507",
+      "source_term": "鸦人",
+      "target_term": "Quạ Nhân",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0508",
+      "source_term": "克里斯·摩多",
+      "target_term": "Chris Modo",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0509",
+      "source_term": "托利卡王国",
+      "target_term": "Torika",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0510",
+      "source_term": "瑟斯一世",
+      "target_term": "Seth I",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0511",
+      "source_term": "呼吸法",
+      "target_term": "Hô Hấp Pháp",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0512",
+      "source_term": "弥漫",
+      "target_term": "Mễ Mạn",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0513",
+      "source_term": "巫灵术士",
+      "target_term": "Vu Linh thuật sĩ",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0514",
+      "source_term": "祖灵甲胄",
+      "target_term": "Tổ Linh giáp trụ",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0515",
+      "source_term": "布吉特尔",
+      "target_term": "Bugitier",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0516",
+      "source_term": "少年帮",
+      "target_term": "Thiếu niên bang",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0517",
+      "source_term": "救世圣女",
+      "target_term": "Thánh nữ cứu thế",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0518",
+      "source_term": "誓言戒指",
+      "target_term": "Nhẫn Thệ Ngôn",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0519",
+      "source_term": "心之律动",
+      "target_term": "Heart Rhythm",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0520",
+      "source_term": "律动",
+      "target_term": "Rhythm",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0521",
+      "source_term": "萨米拉",
+      "target_term": "Samira",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0522",
+      "source_term": "纽瑞拉",
+      "target_term": "Neurila",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0523",
+      "source_term": "神恩圣经",
+      "target_term": "Thần Ân Thánh Kinh",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0524",
+      "source_term": "特里兰西亚帝国",
+      "target_term": "Đế quốc Trilandcia",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0525",
+      "source_term": "赫尔罗",
+      "target_term": "Herro",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0526",
+      "source_term": "斯特米兰罗",
+      "target_term": "Stmiranlo",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0527",
+      "source_term": "神恩战士",
+      "target_term": "Thần Ân chiến sĩ",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0528",
+      "source_term": "最后的呢喃",
+      "target_term": "Lời thì thầm cuối cùng",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0529",
+      "source_term": "科摩罗",
+      "target_term": "Komoro",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0530",
+      "source_term": "诺扎德斯",
+      "target_term": "Nozardes",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0531",
+      "source_term": "亚德雷",
+      "target_term": "Adrey",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0532",
+      "source_term": "烟结草",
+      "target_term": "Cỏ Yên Kết",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0533",
+      "source_term": "真知印记",
+      "target_term": "Chân Tri Ấn Ký",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0534",
+      "source_term": "真知恩赐",
+      "target_term": "Chân Tri Ân Tứ",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0535",
+      "source_term": "守护恩赐",
+      "target_term": "Hộ Vệ Ân Tứ",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0536",
+      "source_term": "牺牲恩赐",
+      "target_term": "Tế Hiến Ân Tứ",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0537",
+      "source_term": "拯救恩赐",
+      "target_term": "Cứu Thế Ân Tứ",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0538",
+      "source_term": "薪之流法",
+      "target_term": "Tân Lưu Hô Hấp Pháp",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0539",
+      "source_term": "光之流法",
+      "target_term": "Quang Lưu Hô Hấp Pháp",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0540",
+      "source_term": "流法",
+      "target_term": "Lưu Pháp",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0541",
+      "source_term": "异鳞者",
+      "target_term": "Dị Lân Giả",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0542",
+      "source_term": "深乱律动",
+      "target_term": "Deep Rhythm",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0543",
+      "source_term": "律动剥离",
+      "target_term": "Rhythm Stripping",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0544",
+      "source_term": "律动之金",
+      "target_term": "Metal Rhythm",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0545",
+      "source_term": "龙粉末",
+      "target_term": "Bột rồng",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0546",
+      "source_term": "黑尔斯",
+      "target_term": "Heals",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0547",
+      "source_term": "黑渊",
+      "target_term": "Hắc Uyên",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0548",
+      "source_term": "神之四面",
+      "target_term": "Bốn mặt của thần",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0549",
+      "source_term": "刺眼者",
+      "target_term": "Thứ Nhãn giả",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0550",
+      "source_term": "割舌者",
+      "target_term": "Cát Thiệt giả",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0551",
+      "source_term": "剁手者",
+      "target_term": "Đoạt Thủ giả",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0552",
+      "source_term": "断头者",
+      "target_term": "Đoạn Đầu giả",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0553",
+      "source_term": "黑渊之石",
+      "target_term": "Black Abyss Stone",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0554",
+      "source_term": "去火仪式",
+      "target_term": "Nghi lễ khử hỏa",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0555",
+      "source_term": "仪式之刃",
+      "target_term": "Ritual Blade",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0556",
+      "source_term": "无忧乡",
+      "target_term": "Xứ sở vô ưu",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0557",
+      "source_term": "恶意之火",
+      "target_term": "Ngọn lửa ác ý",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0558",
+      "source_term": "伤害反存",
+      "target_term": "Tích trữ phản đòn sát thương",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0559",
+      "source_term": "杀意支配",
+      "target_term": "Thôn phệ sát ý",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0560",
+      "source_term": "初火",
+      "target_term": "Sơ Hỏa",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0561",
+      "source_term": "鬼人",
+      "target_term": "Quỷ Nhân",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0562",
+      "source_term": "龙人",
+      "target_term": "Long Nhân",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0563",
+      "source_term": "始龙",
+      "target_term": "Sơ Long",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0564",
+      "source_term": "疾病同调",
+      "target_term": "Tật bệnh đồng điều",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0565",
+      "source_term": "初始三神",
+      "target_term": "Tam thần khởi nguyên",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0566",
+      "source_term": "龙语",
+      "target_term": "Ngôn ngữ rồng",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0567",
+      "source_term": "科洛米耶",
+      "target_term": "Colomier",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0568",
+      "source_term": "斯科罗",
+      "target_term": "Scoro",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0569",
+      "source_term": "钢之流法",
+      "target_term": "Cương Lưu Hô Hấp Pháp",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0570",
+      "source_term": "英雄之证",
+      "target_term": "Chứng nhận anh hùng",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0571",
+      "source_term": "骑士",
+      "target_term": "Hiệp sĩ",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0572",
+      "source_term": "牧师",
+      "target_term": "Mục sư",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0573",
+      "source_term": "主教",
+      "target_term": "Giám mục",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0574",
+      "source_term": "雇佣兵",
+      "target_term": "Lính đánh thuê",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0575",
+      "source_term": "海盗",
+      "target_term": "Hải tặc",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0576",
+      "source_term": "元帅",
+      "target_term": "Nguyên soái",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0577",
+      "source_term": "公爵",
+      "target_term": "Công tước",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0578",
+      "source_term": "侯爵",
+      "target_term": "Hầu tước",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0579",
+      "source_term": "伯爵",
+      "target_term": "Bá tước",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0580",
+      "source_term": "男爵",
+      "target_term": "Nam tước",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0581",
+      "source_term": "王子",
+      "target_term": "Hoàng tử",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0582",
+      "source_term": "王女",
+      "target_term": "Công chúa",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0583",
+      "source_term": "国王",
+      "target_term": "Quốc vương",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0584",
+      "source_term": "女王",
+      "target_term": "Nữ hoàng",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0585",
+      "source_term": "巫师",
+      "target_term": "Phù thủy",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0586",
+      "source_term": "术士",
+      "target_term": "Thuật sĩ",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0587",
+      "source_term": "卫兵",
+      "target_term": "Vệ binh",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0588",
+      "source_term": "猎人",
+      "target_term": "Thợ săn",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0589",
+      "source_term": "骑士剑",
+      "target_term": "Knight sword",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0590",
+      "source_term": "灾厄",
+      "target_term": "Tai Ách",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0591",
+      "source_term": "权柄",
+      "target_term": "Quyền Bính",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0592",
+      "source_term": "灾厄权柄",
+      "target_term": "Tai Ách Quyền Bính",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0593",
+      "source_term": "Tai Ách chi lực",
+      "target_term": "Tai Ách chi lực",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0594",
+      "source_term": "灾王",
+      "target_term": "Tai Vương",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0595",
+      "source_term": "灾厄应急响应科",
+      "target_term": "Khoa Đối ứng Khẩn cấp Tai Ách",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0596",
+      "source_term": "域",
+      "target_term": "Vực",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0597",
+      "source_term": "区",
+      "target_term": "Khu",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0598",
+      "source_term": "罪恶之灾",
+      "target_term": "Tội Ác Chi Tai",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0599",
+      "source_term": "医疗事故",
+      "target_term": "Sự Cố Y Tế",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0600",
+      "source_term": "孤寡",
+      "target_term": "Cô Quả",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0601",
+      "source_term": "流矢",
+      "target_term": "Lưu Thỉ",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0602",
+      "source_term": "震天雷",
+      "target_term": "Chấn Thiên Lôi",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0603",
+      "source_term": "交通瘫痪",
+      "target_term": "Giao Thông Tê Liệt",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0604",
+      "source_term": "灾之力反应收束器",
+      "target_term": "Thiết bị thu thúc Tai Ách chi lực",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0605",
+      "source_term": "利刃之伤",
+      "target_term": "Lợi Nhận Chi Thương",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0606",
+      "source_term": "月布大地震",
+      "target_term": "Trận động đất lớn Nguyệt Bố",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0607",
+      "source_term": "末日石碑",
+      "target_term": "Bia Đá Mạt Nhật",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0608",
+      "source_term": "赤红之星",
+      "target_term": "Xích Hồng Chi Tinh",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0609",
+      "source_term": "异界的乌鸦",
+      "target_term": "Dị Giới Ô Nha",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0610",
+      "source_term": "奈格里制药",
+      "target_term": "Dược phẩm Negary",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0611",
+      "source_term": "灾厄管理法庭",
+      "target_term": "Tòa án Quản lý Tai Ách",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0612",
+      "source_term": "舛讹",
+      "target_term": "Chuyển Ngoa",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0613",
+      "source_term": "根源二次解放",
+      "target_term": "Giải phóng Căn Nguyên cấp 2",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0614",
+      "source_term": "修炼功法",
+      "target_term": "Công pháp tu luyện",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0615",
+      "source_term": "巫师刺激法",
+      "target_term": "Vu Sư Kích Thích Pháp",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0616",
+      "source_term": "启灵药剂",
+      "target_term": "Dược tề Khải Linh",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0617",
+      "source_term": "灾之力波动感应技术",
+      "target_term": "Công nghệ cảm ứng dao động Tai Ách chi lực",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0618",
+      "source_term": "灾之力材料制造技术",
+      "target_term": "Công nghệ chế tạo vật liệu Tai Ách chi lực",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0619",
+      "source_term": "灾之力稳定技术",
+      "target_term": "Công nghệ ổn định Tai Ách chi lực",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0620",
+      "source_term": "灵魂武器制造方法",
+      "target_term": "Phương pháp chế tạo linh hồn vũ khí",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0621",
+      "source_term": "恶化",
+      "target_term": "Ác Hóa",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0622",
+      "source_term": "赤红之章",
+      "target_term": "Xích Hồng Chi Chương",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0623",
+      "source_term": "房屋倒塌",
+      "target_term": "Phòng Ốc Đổ Sập",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0624",
+      "source_term": "神言具现",
+      "target_term": "Thần Ngôn Cụ Hiện",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0625",
+      "source_term": "维特效应",
+      "target_term": "Hiệu ứng Werther",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0626",
+      "source_term": "个人现实",
+      "target_term": "Hiện thực cá nhân",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0627",
+      "source_term": "秩序崩溃",
+      "target_term": "Trật Tự Băng Hoại",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0628",
+      "source_term": "骨折",
+      "target_term": "Cốt Chiết",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0629",
+      "source_term": "地陷",
+      "target_term": "Địa Hãm",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0630",
+      "source_term": "本质苏醒",
+      "target_term": "Bản Chất Tô Tỉnh",
+      "category": "general",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "low",
+      "notes": "",
+      "locked": false
     }
   ]
 }

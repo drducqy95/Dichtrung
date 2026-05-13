@@ -36,7 +36,7 @@ Alks biết rõ sự thay đổi này, nhưng hắn không hề dừng lại mà
 
 Tại nơi Sơ Hỏa, trên người Negary bùng cháy ngọn lửa. Ở trung tâm ngọn lửa, Nara đã hóa thân thành một bức tượng đá gần giống như Mạt Thần.
 
-Cô đứng đó, thần sắc điềm tĩnh, trong ánh mắt không có chút mê mang hay do dự nào. Nara — kẻ luôn行走 (hành tẩu) trên con đường chính xác, thực sự xứng đáng được khen ngợi.
+Cô đứng đó, thần sắc điềm tĩnh, trong ánh mắt không có chút mê mang hay do dự nào. Nara — kẻ luôn hành tẩu trên con đường chính xác, thực sự xứng đáng được khen ngợi.
 
 Sơ Hỏa thiêu đốt thân xác của anh, thậm chí là cả linh hồn của anh. Nhìn ngọn lửa trên người, Negary không hề hoảng loạn, bởi vì lối thoát trong Sơ Hỏa — lối thoát để rời khỏi thế giới này — đã được mở ra.
 

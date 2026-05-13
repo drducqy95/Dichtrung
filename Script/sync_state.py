@@ -179,9 +179,16 @@ def iter_characters(project_dir: Path, project_title: str) -> list[dict[str, Any
         if not isinstance(raw, dict):
             continue
 
-        name_original = raw.get("name_original") or raw.get("term") or raw.get("name") or raw.get("original_name")
+        name_original = (
+            raw.get("name_original")
+            or raw.get("name_source")
+            or raw.get("term")
+            or raw.get("name")
+            or raw.get("original_name")
+        )
         name_translated = (
             raw.get("name_translated")
+            or raw.get("name_target")
             or raw.get("name_vi")
             or raw.get("translated_name")
             or raw.get("display_name")
@@ -290,11 +297,20 @@ def merge_characters(
     existing_ids = {entry.get("id") for entry in characters if entry.get("id")}
     by_key = {
         (
-            entry.get("name_original") or entry.get("name_translated"),
+            entry.get("name_original")
+            or entry.get("name_source")
+            or entry.get("name_translated")
+            or entry.get("name_target"),
             entry.get("source_project"),
         ): entry
         for entry in characters
-        if (entry.get("name_original") or entry.get("name_translated")) and entry.get("source_project")
+        if (
+            entry.get("name_original")
+            or entry.get("name_source")
+            or entry.get("name_translated")
+            or entry.get("name_target")
+        )
+        and entry.get("source_project")
     }
 
     added = 0

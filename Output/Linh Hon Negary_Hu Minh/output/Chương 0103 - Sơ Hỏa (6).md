@@ -38,7 +38,7 @@ Chỉ riêng việc nhìn thấy sinh vật này lúc này thôi cũng đủ khi
 
 Sức mạnh vận mệnh mà bà lão Sie thi triển lên người Negary bị loại sai lầm này can nhiễu, giúp Negary đột phá được sự phong tỏa của vận mệnh.
 
-Đội quân Long nhân vốn không mấy nổi bật kia, dưới ảnh hưởng của Negary, cơ thể cũng phát sinh những biến hóa畸 hình sai lệch. Trong đó biến hóa lớn nhất là Adrey — đội trưởng đội Quạ Nhân trước kia. Thân thể họ biến thành hình thái Long nhân畸 hình, đại khái là hướng về phía hình dạng của Negary mà tiến hóa.
+Đội quân Long nhân vốn không mấy nổi bật kia, dưới ảnh hưởng của Negary, cơ thể cũng phát sinh những biến hóa dị hình sai lệch. Trong đó biến hóa lớn nhất là Adrey — đội trưởng đội Quạ Nhân trước kia. Thân thể họ biến thành hình thái Long nhân dị hình, đại khái là hướng về phía hình dạng của Negary mà tiến hóa.
 
 Ý tưởng về Vĩnh Tội Chi Long ban đầu bắt nguồn từ chính Adrey này. Anh ta bị Chris đánh nát trái tim, bất đắc dĩ phải thay tim của Dị Lân Giả cho chính mình, bị máu rồng làm cho ô nhiễm, dần dần phát sinh dị biến.
 

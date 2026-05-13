@@ -2,7 +2,7 @@
 
 Negary phát ra tiếng gầm thét vang dội, hai móng rồng quét ngang.
 
-Nara không đầu thân thủ nhanh nhẹn né tránh đòn tấn công của Negary, vung lên một kiếm. Thân thể Vĩnh Tội Chi Long bị chém ra một vết cắt khổng lồ, nhưng cơ thể畸 hình sai lệch kia không ngừng tăng sinh, vết thương trong nháy mắt đã khôi phục lại trạng thái ban đầu.
+Nara không đầu thân thủ nhanh nhẹn né tránh đòn tấn công của Negary, vung lên một kiếm. Thân thể Vĩnh Tội Chi Long bị chém ra một vết cắt khổng lồ, nhưng cơ thể dị hình sai lệch kia không ngừng tăng sinh, vết thương trong nháy mắt đã khôi phục lại trạng thái ban đầu.
 
 Trong dự kiến của Sie, Nara tập hợp quyền bính của Tam thần tương ứng với Thứ Nhãn giả, Đoạt Thủ giả và Cát Thiệt giả trong Bốn mặt của thần của Heals.
 
