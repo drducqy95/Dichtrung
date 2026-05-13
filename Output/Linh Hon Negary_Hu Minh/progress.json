@@ -2,7 +2,7 @@
   "project_name": "Linh Hồn Negary",
   "status": "IN_PROGRESS",
   "total_chapters": 754,
-  "completed_chapters": 170,
+  "completed_chapters": 175,
   "chapters": [
     {
       "chapter_number": 1,
@@ -849,6 +849,36 @@
       "title": "Dây Leo Tím",
       "status": "DONE",
       "last_updated": "2026-05-13T23:05:00+07:00"
+    },
+    {
+      "chapter_number": 171,
+      "title": "Sự Sai Lệch Mở Rộng",
+      "status": "DONE",
+      "last_updated": "2026-05-13T23:15:00+07:00"
+    },
+    {
+      "chapter_number": 172,
+      "title": "Chiêm Ngưỡng Đôi Mắt Tà Ác Của Ta",
+      "status": "DONE",
+      "last_updated": "2026-05-13T23:25:00+07:00"
+    },
+    {
+      "chapter_number": 173,
+      "title": "Lũ Chuột Nhắt Kiệt Sức Suy Nhược, Hãy Phủ Phục Dưới Chân Ta",
+      "status": "DONE",
+      "last_updated": "2026-05-13T23:35:00+07:00"
+    },
+    {
+      "chapter_number": 174,
+      "title": "Đối Mặt Với Khát Khao Sâu Thẳm Trong Lòng",
+      "status": "DONE",
+      "last_updated": "2026-05-13T23:45:00+07:00"
+    },
+    {
+      "chapter_number": 175,
+      "title": "Giấc Mộng Đẹp Xây Dựng Trên Những Lời Dối Trá",
+      "status": "DONE",
+      "last_updated": "2026-05-13T23:55:00+07:00"
     }
   ],
   "milestones": [
@@ -887,5 +917,5 @@
     "ebook_toc": "ebook/toc.md",
     "illustration_manifest": "ebook/illustration_manifest.json"
   },
-  "last_updated": "2026-05-13T19:56:47+07:00"
+  "last_updated": "2026-05-13T21:19:58+07:00"
 }

@@ -167,3 +167,8 @@
 - Chương 0168: Sắp Đến
 - Chương 0169: Sợ Hãi
 - Chương 0170: Dây Leo Tím
+- Chương 0171: Sự Sai Lệch Mở Rộng
+- Chương 0172: Chiêm Ngưỡng Đôi Mắt Tà Ác Của Ta
+- Chương 0173: Lũ Chuột Nhắt Kiệt Sức Suy Nhược
+- Chương 0174: Đối Mặt Với Khát Khao Sâu Thẳm Trong Lòng
+- Chương 0175: Giấc Mộng Đẹp Xây Dựng Trên Những Lời Dối Trá
