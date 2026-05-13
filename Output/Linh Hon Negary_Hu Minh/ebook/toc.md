@@ -154,3 +154,11 @@
 - Chương 0155: Đại Tai Biến
 - Chương 0156: Tai Vương
 - Chương 0157: Báo Thù
+- Chương 0158: Loạn Nhập
+- Chương 0159: Sinh Vật Thực Trang
+- Chương 0160: Ánh Sáng Nở Rộ
+- Chương 0161: Gà Mờ Đối Đầu
+- Chương 0162: Tai Vương Ra Đời
+- Chương 0163: Kéo Dài Thời Gian
+- Chương 0164: Đợi Ngươi Lâu Rồi
+- Chương 0165: Cuộc Giao Thủ Thứ Hai

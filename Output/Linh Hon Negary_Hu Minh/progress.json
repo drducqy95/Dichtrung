@@ -2,7 +2,7 @@
   "project_name": "Linh Hồn Negary",
   "status": "IN_PROGRESS",
   "total_chapters": 754,
-  "completed_chapters": 157,
+  "completed_chapters": 165,
   "chapters": [
     {
       "chapter_number": 1,
@@ -771,6 +771,54 @@
       "title": "Báo Thù",
       "status": "DONE",
       "last_updated": "2026-05-13T20:55:00+07:00"
+    },
+    {
+      "chapter_number": 158,
+      "title": "Loạn Nhập",
+      "status": "DONE",
+      "last_updated": "2026-05-13T21:05:00+07:00"
+    },
+    {
+      "chapter_number": 159,
+      "title": "Sinh Vật Thực Trang",
+      "status": "DONE",
+      "last_updated": "2026-05-13T21:15:00+07:00"
+    },
+    {
+      "chapter_number": 160,
+      "title": "Ánh Sáng Nở Rộ",
+      "status": "DONE",
+      "last_updated": "2026-05-13T21:25:00+07:00"
+    },
+    {
+      "chapter_number": 161,
+      "title": "Gà Mờ Đối Đầu",
+      "status": "DONE",
+      "last_updated": "2026-05-13T21:35:00+07:00"
+    },
+    {
+      "chapter_number": 162,
+      "title": "Tai Vương Ra Đời",
+      "status": "DONE",
+      "last_updated": "2026-05-13T21:45:00+07:00"
+    },
+    {
+      "chapter_number": 163,
+      "title": "Kéo Dài Thời Gian",
+      "status": "DONE",
+      "last_updated": "2026-05-13T21:55:00+07:00"
+    },
+    {
+      "chapter_number": 164,
+      "title": "Đợi Ngươi Lâu Rồi",
+      "status": "DONE",
+      "last_updated": "2026-05-13T22:05:00+07:00"
+    },
+    {
+      "chapter_number": 165,
+      "title": "Cuộc Giao Thủ Thứ Hai",
+      "status": "DONE",
+      "last_updated": "2026-05-13T22:15:00+07:00"
     }
   ],
   "milestones": [
@@ -809,5 +857,5 @@
     "ebook_toc": "ebook/toc.md",
     "illustration_manifest": "ebook/illustration_manifest.json"
   },
-  "last_updated": "2026-05-13T19:26:40+07:00"
+  "last_updated": "2026-05-13T19:45:35+07:00"
 }
