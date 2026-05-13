@@ -2,7 +2,7 @@
   "project_name": "Linh Hồn Negary",
   "status": "IN_PROGRESS",
   "total_chapters": 754,
-  "completed_chapters": 165,
+  "completed_chapters": 170,
   "chapters": [
     {
       "chapter_number": 1,
@@ -819,6 +819,36 @@
       "title": "Cuộc Giao Thủ Thứ Hai",
       "status": "DONE",
       "last_updated": "2026-05-13T22:15:00+07:00"
+    },
+    {
+      "chapter_number": 166,
+      "title": "Như Ngươi Thấy Đóa Hoa Kia, Như Ta Thấy Ngươi",
+      "status": "DONE",
+      "last_updated": "2026-05-13T22:25:00+07:00"
+    },
+    {
+      "chapter_number": 167,
+      "title": "Quá Độ",
+      "status": "DONE",
+      "last_updated": "2026-05-13T22:35:00+07:00"
+    },
+    {
+      "chapter_number": 168,
+      "title": "Sắp Đến",
+      "status": "DONE",
+      "last_updated": "2026-05-13T22:45:00+07:00"
+    },
+    {
+      "chapter_number": 169,
+      "title": "Sợ Hãi",
+      "status": "DONE",
+      "last_updated": "2026-05-13T22:55:00+07:00"
+    },
+    {
+      "chapter_number": 170,
+      "title": "Dây Leo Tím",
+      "status": "DONE",
+      "last_updated": "2026-05-13T23:05:00+07:00"
     }
   ],
   "milestones": [
@@ -857,5 +887,5 @@
     "ebook_toc": "ebook/toc.md",
     "illustration_manifest": "ebook/illustration_manifest.json"
   },
-  "last_updated": "2026-05-13T19:45:35+07:00"
+  "last_updated": "2026-05-13T19:56:47+07:00"
 }
