@@ -2,13 +2,13 @@
 
 "Trí não, hãy tính toán xem ta còn lại bao nhiêu thần lực." Triệu Kỳ vân vê viên bảo châu trong tay, ánh mắt lấp lánh thần quang không định, không rõ đang suy tính điều gì.
 
-"Chủ nhân, thần lực của ngài hiện chỉ còn lại 3.611 điểm."
+"Chủ nhân, thần lực của ngài hiện chỉ còn lại 3,611 điểm."
 
 "Ra là vậy."
 
 Triệu Kỳ khẽ nhắm mắt, tâm thần trong nháy mắt đã tiến vào bên trong bảo châu. Những luồng sương mù xám xịt lơ lửng quanh anh, tùy ý theo tâm niệm mà biến hóa thành vô số cảnh tượng và sinh vật, sẵn sàng tuôn trào ra ngoài để tạo thành ảo ảnh mê hoặc kẻ thù. Có điều, những ảo ảnh này thực sự chẳng có chút sát thương nào, bất kỳ ai cũng có thể dễ dàng phớt lờ chúng.
 
-Trong cuốn 'Toàn Dân Đại Xuyên Không', nhân vật chính ban đầu dựa vào việc lắp đặt một hệ thống năng lượng cho viên bảo châu, giúp nó chuyển hóa năng lượng thu thập được thành năng lượng cần thiết cho việc tôi luyện. Sau khi bước vào một vòng lặp tích cực, anh ta phải dựa vào sự mài giũa bền bỉ và sự tôi luyện của hàng trăm tỷ người Trái Đất trong gần ba trăm năm mới có thể biến nó thành một món thần khí tối cao trấn áp vạn giới.
+Trong cuốn 'Toàn Dân Đại Xuyên Việt', nhân vật chính ban đầu dựa vào việc lắp đặt một hệ thống năng lượng cho viên bảo châu, giúp nó chuyển hóa năng lượng thu thập được thành năng lượng cần thiết cho việc tôi luyện. Sau khi bước vào một vòng lặp tích cực, anh ta phải dựa vào sự mài giũa bền bỉ và sự tôi luyện của hàng trăm tỷ người Trái Đất trong gần ba trăm năm mới có thể biến nó thành một món thần khí tối cao trấn áp vạn giới.
 
 Triệu Kỳ thì không cần làm như vậy. Bởi lẽ, dù hệ thống năng lượng có lợi hại đến đâu, liệu có so được với 'nhịp thở' của cả một thế giới? Hơn nữa, anh đâu có ý định chỉ khai phá một thế giới bên trong này; giấc mơ của anh là biến nó thành một đa vũ trụ thực thụ cơ mà!!!
 

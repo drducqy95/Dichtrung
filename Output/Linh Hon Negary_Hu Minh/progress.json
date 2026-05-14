@@ -2,7 +2,7 @@
   "project_name": "Linh Hồn Negary",
   "status": "IN_PROGRESS",
   "total_chapters": 754,
-  "completed_chapters": 180,
+  "completed_chapters": 200,
   "chapters": [
     {
       "chapter_number": 1,
@@ -909,6 +909,126 @@
       "title": "Băng Chi Lưu Pháp",
       "status": "DONE",
       "last_updated": "2026-05-14T00:45:00+07:00"
+    },
+    {
+      "chapter_number": 181,
+      "title": "Vương Chi Quế Quán",
+      "status": "DONE",
+      "last_updated": "2026-05-14T00:55:00+07:00"
+    },
+    {
+      "chapter_number": 182,
+      "title": "Truyền Nhiễm Hào Quang Nhân Vật Chính",
+      "status": "DONE",
+      "last_updated": "2026-05-14T01:05:00+07:00"
+    },
+    {
+      "chapter_number": 183,
+      "title": "Kẻ Địch Chưa Tới",
+      "status": "DONE",
+      "last_updated": "2026-05-14T01:15:00+07:00"
+    },
+    {
+      "chapter_number": 184,
+      "title": "Chu Mục Thứ Tư",
+      "status": "DONE",
+      "last_updated": "2026-05-14T01:25:00+07:00"
+    },
+    {
+      "chapter_number": 185,
+      "title": "Kế Hoạch Tai Ách Quyền Bính",
+      "status": "DONE",
+      "last_updated": "2026-05-14T01:35:00+07:00"
+    },
+    {
+      "chapter_number": 186,
+      "title": "Truân Ngoa Chi Đạo",
+      "status": "DONE",
+      "last_updated": "2026-05-14T04:44:00+07:00"
+    },
+    {
+      "chapter_number": 187,
+      "title": "Nhàn Nhã",
+      "status": "DONE",
+      "last_updated": "2026-05-14T04:47:00+07:00"
+    },
+    {
+      "chapter_number": 188,
+      "title": "Tiền Tấu",
+      "status": "DONE",
+      "last_updated": "2026-05-14T04:48:00+07:00"
+    },
+    {
+      "chapter_number": 189,
+      "title": "Bản Nguyên Ôn Dịch",
+      "status": "DONE",
+      "last_updated": "2026-05-14T04:50:00+07:00"
+    },
+    {
+      "chapter_number": 190,
+      "title": "Xâm Nhập Bắt Đầu",
+      "status": "DONE",
+      "last_updated": "2026-05-14T04:52:00+07:00"
+    },
+    {
+      "chapter_number": 191,
+      "title": "Đang Xâm Nhập",
+      "status": "DONE",
+      "last_updated": "2026-05-14T04:54:00+07:00"
+    },
+    {
+      "chapter_number": 192,
+      "title": "Đang Tai Ách",
+      "status": "DONE",
+      "last_updated": "2026-05-14T05:37:00+07:00"
+    },
+    {
+      "chapter_number": 193,
+      "title": "Đang Săn Lùng",
+      "status": "DONE",
+      "last_updated": "2026-05-14T05:39:00+07:00"
+    },
+    {
+      "chapter_number": 194,
+      "title": "Tên Của Ngươi Có Chút Ngứa Mắt Rồi",
+      "status": "DONE",
+      "last_updated": "2026-05-14T05:41:00+07:00"
+    },
+    {
+      "chapter_number": 195,
+      "title": "Sùng Bái Bất Khiết",
+      "status": "DONE",
+      "last_updated": "2026-05-14T05:43:00+07:00"
+    },
+    {
+      "chapter_number": 196,
+      "title": "Hấp Thụ Sức Mạnh Từ Bất Khiết",
+      "status": "DONE",
+      "last_updated": "2026-05-14T21:59:00+07:00"
+    },
+    {
+      "chapter_number": 197,
+      "title": "Thắng Giả Vi Chân",
+      "status": "DONE",
+      "last_updated": "2026-05-14T22:30:00+07:00"
+    },
+    {
+      "chapter_number": 198,
+      "title": "Ngu Xuẩn",
+      "status": "DONE",
+      "last_updated": "2026-05-14T22:32:00+07:00"
+    },
+    {
+      "chapter_number": 199,
+      "title": "Tác Chiến Thống Nhất Tuyến Thời Gian",
+      "status": "DONE",
+      "last_updated": "2026-05-14T22:34:00+07:00"
+    },
+    {
+      "chapter_number": 200,
+      "title": "Cầu Nối",
+      "status": "DONE",
+      "last_updated": "2026-05-14T22:36:00+07:00"
     }
   ],
   "milestones": [
@@ -947,5 +1067,5 @@
     "ebook_toc": "ebook/toc.md",
     "illustration_manifest": "ebook/illustration_manifest.json"
   },
-  "last_updated": "2026-05-13T21:50:37+07:00"
+  "last_updated": "2026-05-14T22:42:54+07:00"
 }

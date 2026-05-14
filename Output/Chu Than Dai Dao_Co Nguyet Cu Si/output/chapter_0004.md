@@ -26,7 +26,7 @@ Dòng suy nghĩ đó lướt qua não bộ của Triệu Kỳ một lượt rồ
 
 Triệu Kỳ thầm tán thưởng. Deneir dù chỉ là một vị thần có thần lực mức độ yếu, nhưng dẫu sao cũng đã làm Thần Văn học suốt hàng vạn năm. Chỉ riêng việc tích lũy theo thời gian thôi cũng đủ để tạo nên một kho tàng khiến cả một đế quốc phải thèm khát rồi.
 
-Chỉ tiếc là mọi thứ bỗng chốc tan thành mây khói, người chết thần diệt, ngay cả thần quốc cũng chẳng còn lại một mảnh ngói, đến tận 'Metatext' (Di sản cuối cùng) sau này cũng chẳng biết sẽ làm lợi cho vị thần nào, thật là bi thảm đến tột cùng.
+Chỉ tiếc là mọi thứ bỗng chốc tan thành mây khói, người chết thần diệt, ngay cả thần quốc cũng chẳng còn lại một mảnh ngói, đến tận Tối Chung Văn Quyển sau này cũng chẳng biết sẽ làm lợi cho vị thần nào, thật là bi thảm đến tột cùng.
 
 "Trí não, ngươi thử suy luận xem, ta có thể truyền thừa nghề nghiệp Pháp sư không?" Mặc lên mình bộ pháp bào huyền bí, nắm giữ bốn yếu tố Địa, Hỏa, Phong, Thủy, tùy tay tung ra một ma pháp truyền thuyết là có thể hủy diệt cả một thành phố, tái tạo càn khôn. Phong cách này đúng là quá tuyệt vời.
 
@@ -46,7 +46,7 @@ Chẳng lẽ sau này anh chỉ có thể dựa vào thần cách Sáng Thế đ
 
 "Ra là vậy." Triệu Kỳ vuốt cằm, hỏi: "Trí não, hiện tại ta còn bao nhiêu thần lực?"
 
-"Chủ nhân hiện có 31.6 điểm thần lực."
+"Chủ nhân hiện có 31,6 điểm thần lực."
 
 "Vậy ngươi hãy tính toán xem, nếu ta kiến tạo ra công pháp của hệ phái Nhân Tiên trong thế giới 'Dương Thần' thì cần bao nhiêu thần lực."
 
@@ -56,7 +56,7 @@ Và điều tuyệt vời nhất là võ giả ở đó không cần hấp thu l
 
 "Chủ nhân, theo tính toán, để kiến tạo ra công pháp Nhân Tiên hệ phái hoàn chỉnh nhất cần 230 điểm thần lực. Nếu trực tiếp tạo ra sức chiến đấu cấp Nhân Tiên thì cần tới 11.320 điểm thần lực."
 
-"Nhiều thế cơ à?" Triệu Kỳ nhận được câu trả lời nhưng không quá ngạc nhiên. Dẫu sao cấp độ sức mạnh của 'Dương Thần' đã rành rành ra đó, một Nhân Tiên trong thế giới của chư thần chí ít cũng tương đương với một vị thần có thần lực mức độ cực nhỏ, chưa kể đến hàng loạt cảnh giới đỉnh cao ở phía trên như Nhất Khiếu Thông Bách Khiếu, Tái Sinh Từ Giọt Máu, Thiên Biến Vạn Hóa, Phấn Toái Hư Không, Siêu Thoát Bỉ Ngạn... và vân vân!
+"Nhiều thế cơ à?" Triệu Kỳ nhận được câu trả lời nhưng không quá ngạc nhiên. Dẫu sao cấp độ sức mạnh của 'Dương Thần' đã rành rành ra đó, một Nhân Tiên trong thế giới của chư thần chí ít cũng tương đương với một vị thần có thần lực mức độ cực nhỏ, chưa kể đến hàng loạt cảnh giới đỉnh cao ở phía trên như Nhất Khiếu Thông Bách Khiếu, Tích Huyết Trùng Sinh, Thiên Biến Vạn Hóa, Phá Toái Hư Không, Siêu Thoát Bỉ Ngạn... và vân vân!
 
 "Vậy không cần công pháp Nhân Tiên hoàn chỉnh, chỉ cần đạt tới cấp Võ Thánh thì cần bao nhiêu thần lực?"
 

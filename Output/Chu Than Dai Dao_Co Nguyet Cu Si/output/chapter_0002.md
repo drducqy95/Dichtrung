@@ -51,11 +51,11 @@ Triệu Kỳ dám cá rằng chỉ cần anh dám tạo ra những kỳ vật t�
 
 Trí não dừng lại một chút, rồi tiếp tục phát ra giọng nói máy móc vang vọng trong đầu Triệu Kỳ: "Chủ nhân, theo tính toán, nếu ngài muốn sáng thế, ít nhất ngài cần tiêu tốn hơn 10.000 điểm thần lực mới có thể tạo ra một tiểu thế giới. Hiện tại ngài chỉ có 17 điểm thần lực, đừng nói là sáng thế, ngay cả việc tạo ra một tảng đá hơi lớn một chút cũng đã khó khăn rồi."
 
-"Haha, ngươi cũng coi thường 'não động' của người Trái Đất bọn ta quá rồi đấy, đúng là trí tuệ của phàm nhân mà." Triệu Kỳ làm một động tác như đẩy kính lên cao: "Phân tích, hợp nhất, kiến tạo. Hãy xuất hiện đi, hạt giống thế giới ảo — 【theseed】!"
+"Haha, ngươi cũng coi thường 'não động' của người Trái Đất bọn ta quá rồi đấy, đúng là trí tuệ của phàm nhân mà." Triệu Kỳ làm một động tác như đẩy kính lên cao: "Phân tích, hợp nhất, kiến tạo. Hãy xuất hiện đi, hạt giống thế giới ảo — 【The Seed】!"
 
-【theseed】 vốn có nguồn gốc từ 'Sword Art Online', là một phần mềm miễn phí dùng để sản xuất và quản lý các VRMMO quy mô nhỏ. Hơn nữa, những thế giới ảo được phát triển bằng 【theseed】 đều có khả năng kết nối với nhau, cho phép cùng một nhân vật có thể du hành giữa vô số VRMMO. Nói một cách đơn giản, 【theseed】 của Kayaba Akihiko chính là một công cụ lập trình game, là gói dữ liệu cơ sở cho việc phát triển trò chơi. Nó giống như việc bạn muốn chơi các bản 'private server' biến tấu đủ kiểu của một game online nào đó, thì trước tiên bạn phải có bộ cài đặt gốc của game đó vậy.
+【The Seed】 vốn có nguồn gốc từ 'Sword Art Online', là một phần mềm miễn phí dùng để sản xuất và quản lý các VRMMO quy mô nhỏ. Hơn nữa, những thế giới ảo được phát triển bằng 【The Seed】 đều có khả năng kết nối với nhau, cho phép cùng một nhân vật có thể du hành giữa vô số VRMMO. Nói một cách đơn giản, 【The Seed】 của Kayaba Akihiko chính là một công cụ lập trình game, là gói dữ liệu cơ sở cho việc phát triển trò chơi. Nó giống như việc bạn muốn chơi các bản 'private server' biến tấu đủ kiểu của một game online nào đó, thì trước tiên bạn phải có bộ cài đặt gốc của game đó vậy.
 
-"Trí não, chuẩn bị tiếp nhận 【theseed】."
+"Trí não, chuẩn bị tiếp nhận 【The Seed】."
 
 "Rõ, phát hiện chương trình chưa xác định, đang phân tích... đang phân tích... đang phân tích... Phân tích hoàn tất."
 
@@ -67,7 +67,7 @@ Trí não dừng lại một chút, rồi tiếp tục phát ra giọng nói má
 
 Một viên châu thủy tinh trông cực kỳ bình thường lơ lửng lặng lẽ trước mắt Triệu Kỳ.
 
-Alaya — một trong ba vị thần minh nhân tạo của Trái Đất, có nguồn gốc từ cuốn sách 'Toàn Dân Đại Xuyên Không'. Ban đầu, chức năng của nó rất đơn giản, chẳng qua là câu hồn đoạt phách, tạo ra ảo thuật để mê hoặc lòng người, không có bất kỳ khả năng sát thương trực tiếp nào, chức năng cực kỳ yếu ớt. Nhưng chất liệu của nó lại vô cùng kỳ dị, thậm chí có thể nói là vĩnh viễn không bị hủy diệt. Khi rơi vào tay nhân loại, người ta kinh ngạc nhận thấy rằng chất liệu của viên châu này cứng đến mức không thể dùng bất kỳ phương pháp nào đã biết để phá hủy được. Về sau, qua quá trình nghiên cứu và phát triển từng bước, họ phát hiện ra rằng vì nó không thể bị phá hủy, nên có thể được tôi luyện vô hạn, uy lực gia tăng gần như không có giới hạn. Tất nhiên, uy lực tăng lên đó chỉ giới hạn trong các loại ảo thuật.
+Alaya — một trong ba vị thần minh nhân tạo của Trái Đất, có nguồn gốc từ cuốn sách 'Toàn Dân Đại Xuyên Việt'. Ban đầu, chức năng của nó rất đơn giản, chẳng qua là câu hồn đoạt phách, tạo ra ảo thuật để mê hoặc lòng người, không có bất kỳ khả năng sát thương trực tiếp nào, chức năng cực kỳ yếu ớt. Nhưng chất liệu của nó lại vô cùng kỳ dị, thậm chí có thể nói là vĩnh viễn không bị hủy diệt. Khi rơi vào tay nhân loại, người ta kinh ngạc nhận thấy rằng chất liệu của viên châu này cứng đến mức không thể dùng bất kỳ phương pháp nào đã biết để phá hủy được. Về sau, qua quá trình nghiên cứu và phát triển từng bước, họ phát hiện ra rằng vì nó không thể bị phá hủy, nên có thể được tôi luyện vô hạn, uy lực gia tăng gần như không có giới hạn. Tất nhiên, uy lực tăng lên đó chỉ giới hạn trong các loại ảo thuật.
 
 Ngay sau đó, có một nhà khoa học với ý tưởng rất độc đáo, đã dựa theo đặc tính của viên châu này mà chế tạo ra thiết bị không gian ảo đầu tiên trong lịch sử nhân loại. Thiết bị này có thể dẫn dắt một sợi tâm thần của con người tiến vào không gian ảo thuật bên trong viên châu, giống hệt như công nghệ thực tế ảo trong các cuốn tiểu thuyết, thậm chí còn vượt xa hơn. Ở bên trong đó, người ta có thể biến hóa vạn phương theo ý muốn, tự tay tạo vật, và từ đó, mọi thứ hoàn toàn bùng nổ không thể ngăn lại được.
 

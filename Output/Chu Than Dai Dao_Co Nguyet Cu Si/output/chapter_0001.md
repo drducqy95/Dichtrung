@@ -52,25 +52,25 @@ Giọng nói trong đầu dần mờ nhạt đi, nhưng Triệu Kỳ biết tấ
 
 "Thần Sáng Thế, Đấng Tạo Vật, không ngờ mình lại có được hai ngôi vị tối cao của thế giới khác." Ánh mắt hắn không ngừng lấp lóe.
 
-Deneir (Deneir), vị Thần Văn Học, chính là người đã mang đến cho Triệu Kỳ hai ngôi vị tối cao này.
+Deneir, vị Thần Văn Học, chính là người đã mang đến cho Triệu Kỳ hai ngôi vị tối cao này.
 
 "Ông ta đúng là một kẻ xui xẻo." Nghĩ đến những hành động tự tìm đường chết của vị thần đó, Triệu Kỳ không khỏi cảm thán.
 
-Deneir và các tín đồ của mình cả đời đều tìm kiếm "Tối Chung Văn Quyển" (Metatext) – ông ta và các tín đồ tin chắc rằng cuộn văn kiện này chứa đựng mọi bí mật của đa vũ trụ, có thể giúp bất kỳ sinh mạng nào đọc được nó đạt tới thần tính tối hậu.
+Deneir và các tín đồ của mình cả đời đều tìm kiếm "Tối Chung Văn Quyển" ông ta và các tín đồ tin chắc rằng cuộn văn kiện này chứa đựng mọi bí mật của đa vũ trụ, có thể giúp bất kỳ sinh mạng nào đọc được nó đạt tới thần tính tối hậu.
 
 Trong thần thoại của giáo hội, Deneir – người hầu của Oghma – chính là nhờ nhìn thấy một phần nhỏ của "Tối Chung Văn Quyển" mà có được thần tính, từ đó về sau tìm kiếm và đọc toàn bộ cuộn văn kiện này trở thành mục tiêu phấn đấu của ông ta.
 
-Deneir tin rằng: mỗi một mẩu văn bản từng tồn tại trong Vật Chất Giới đều có thể chứa đựng những mảnh vụn rời rạc của "Tối Chung Văn Quyển" – một từ đơn, một nhóm từ, thậm chí trong một cuốn sách vĩ đại nào đó có thể ẩn giấu cả một câu hoàn chỉnh.
+Deneir tin rằng: mỗi một mẩu văn bản từng tồn tại trong Vật Chất Giới đều có thể chứa đựng những mảnh vụn rời rạc của "Tối Chung Văn Quyển" một từ đơn, một nhóm từ, thậm chí trong một cuốn sách vĩ đại nào đó có thể ẩn giấu cả một câu hoàn chỉnh.
 
 Với tư cách là vị thần bảo hộ cho các nghệ sĩ, người khai sáng, người vẽ bản đồ và các thư lại, Vị Vua Của Chữ Viết Và Hình Ảnh đã không ngừng xem xét mọi ghi chép và sáng tác để tìm kiếm lý tưởng xa vời đó của mình.
 
-Tìm kiếm không biết qua bao nhiêu năm tháng, hầu hết các vị thần đều mất niềm tin vào "Tối Chung Văn Quyển" (Metatext), thậm chí không ít vị thần mạnh mẽ còn cho rằng Deneir bị những lời lẽ điên khùng của các học giả điên rồ mê hoặc, chỉ đang tìm kiếm giấc mơ huyền ảo trong lòng mình, hoàn toàn là phát điên mà thôi.
+Tìm kiếm không biết qua bao nhiêu năm tháng, hầu hết các vị thần đều mất niềm tin vào "Tối Chung Văn Quyển" , thậm chí không ít vị thần mạnh mẽ còn cho rằng Deneir bị những lời lẽ điên khùng của các học giả điên rồ mê hoặc, chỉ đang tìm kiếm giấc mơ huyền ảo trong lòng mình, hoàn toàn là phát điên mà thôi.
 
-Nhưng cuối cùng Deneir thực sự đã tìm ra "Tối Chung Văn Quyển" (Metatext)!
+Nhưng cuối cùng Deneir thực sự đã tìm ra "Tối Chung Văn Quyển"!
 
-"Đúng là tự mình hại mình, món bảo vật như 'Tối Chung Văn Quyển' (Metatext) làm sao kẻ có Thần lực yếu kém như ông có thể chạm vào được? Chẳng trách cuối cùng Chủ thần Oghma (Oghma) của ông cùng với mấy chục vị thần mạnh mẽ, thậm chí là những vị thần vĩ đại đã đánh ông đến mức hồn bay phách tán, ngay cả mảnh vỡ Thần cách cũng chẳng còn!"
+"Đúng là tự mình hại mình, món bảo vật như 'Tối Chung Văn Quyển' làm sao kẻ có Thần lực yếu kém như ông có thể chạm vào được? Chẳng trách cuối cùng Chủ thần Oghma của ông cùng với mấy chục vị thần mạnh mẽ, thậm chí là những vị thần vĩ đại đã đánh ông đến mức hồn bay phách tán, ngay cả mảnh vỡ Thần cách cũng chẳng còn!"
 
-Triệu Kỳ thầm mỉa mai trong lòng: "'Tối Chung Văn Quyển' (Metatext) loại này trong thế giới Hồng Hoang chính là Tạo Hóa Ngọc Điệp, trong thế giới Marvel chính là Găng Tay Vô Cực phiên bản hoàn chỉnh, trong thế giới Vô Hạn Khủng Bố ít nhất cũng phải cỡ quả cầu ánh sáng của Chủ Thần!! Thứ đó nghĩ thế nào cũng không phải là thứ ông có thể giữ được. Ông tìm thấy nó thì cũng phải lén lút chứ, đằng này lại làm cho cả thế giới thần linh đều biết, ông không chết thì ai chết? Chẳng lẽ lại để Chủ thần Oghma chết thay ông chắc?"
+Triệu Kỳ thầm mỉa mai trong lòng: "'Tối Chung Văn Quyển' loại này trong thế giới Hồng Hoang chính là Tạo Hóa Ngọc Điệp, trong thế giới Marvel chính là Găng Tay Vô Cực phiên bản hoàn chỉnh, trong thế giới Vô Hạn Khủng Bố ít nhất cũng phải cỡ quả cầu ánh sáng của Chủ Thần!! Thứ đó nghĩ thế nào cũng không phải là thứ ông có thể giữ được. Ông tìm thấy nó thì cũng phải lén lút chứ, đằng này lại làm cho cả thế giới thần linh đều biết, ông không chết thì ai chết? Chẳng lẽ lại để Chủ thần Oghma chết thay ông chắc?"
 
 Nhưng Deneir cũng thật lợi hại, trong khoảng thời gian bị vây công đó, ông ta đã cứng rắn từ trong "Tối Chung Văn Quyển" rút ra được hai Thần cách nguyên thủy: Sáng Thế và Tạo Vật.
 

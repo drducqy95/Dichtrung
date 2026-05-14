@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-05-13T15:19:50+07:00",
+    "last_updated": "2026-05-14T22:41:49.879872",
     "total_characters": 117,
     "source_projects": [
       "Chu Than Dai Dao_Co Nguyet Cu Si",
@@ -726,7 +726,7 @@
       "name_translated": "Menas",
       "gender": "nữ",
       "role": "Thần linh",
-      "description": "Nữ thần Vận Rủi (Goddess of Misfortune) của người Cosi.",
+      "description": "Nữ thần Ách Vận ở thế giới Hỏa Diễm.",
       "first_appearance": "",
       "notes": ""
     },
@@ -759,7 +759,7 @@
       "name_translated": "Herro",
       "gender": "nam",
       "role": "Thần linh",
-      "description": "Vị thần Sức Mạnh (God of Strength) của người Cosi.",
+      "description": "Kiện Tráng Chi Thần từ thế giới Hỏa Diễm.",
       "first_appearance": "",
       "notes": ""
     },
@@ -1056,7 +1056,7 @@
       "name_translated": "Vương Chiêu",
       "gender": "nam",
       "role": "Phản diện",
-      "description": "Kẻ sở hữu Quyền Bính Tội Ác Chi Tai, đang bị Khoa Đối ứng truy nã.",
+      "description": "Người nắm giữ Quyền bính Tội Ác Chi Tai. Đặc vụ quan phủ biến chất.",
       "first_appearance": "",
       "notes": ""
     },
@@ -1111,7 +1111,7 @@
       "name_translated": "Lưu Thỉ",
       "gender": "nữ",
       "role": "Thứ chính",
-      "description": "Thành viên Khoa Đối ứng, người bảo hộ Phương Trạch, nắm giữ Quyền Bính Lưu Thỉ.",
+      "description": "Đồng đội của Phương Trạch, đang bị thương nặng.",
       "first_appearance": "",
       "notes": ""
     },
@@ -1133,7 +1133,7 @@
       "name_translated": "Lưu Nhận",
       "gender": "nam",
       "role": "Phụ",
-      "description": "Thành viên Khoa Đối ứng, đàn anh của Lưu Thỉ, nắm giữ Quyền Bính Lợi Nhận Chi Thương.",
+      "description": "Sư huynh của Lưu Thỉ, người nắm giữ Quyền bính Lợi Nhận Chi Thương.",
       "first_appearance": "",
       "notes": "Kiếm thuật cực kỳ khủng khiếp."
     },
@@ -1199,7 +1199,7 @@
       "name_translated": "Hà Xảo",
       "gender": "nữ",
       "role": "Phụ",
-      "description": "Hàng xóm và là người chị thân thiết của Phương Trạch, thường được gọi là Chị Xảo.",
+      "description": "Đồng đội của Phương Trạch, có hành động mờ ám.",
       "first_appearance": "",
       "notes": "Mục tiêu trong âm mưu của Negary."
     },
@@ -1243,7 +1243,7 @@
       "name_translated": "Tần Dĩnh",
       "gender": "nữ",
       "role": "Phụ",
-      "description": "Nhân viên Khoa Đối ứng, đồng đội cũ của Diệp Không.",
+      "description": "Tai Vương Trật Tự Băng Hoại, đồng nghiệp cũ của Diệp Không.",
       "first_appearance": "",
       "notes": ""
     },
@@ -1268,6 +1268,237 @@
       "description": "Cựu nhân viên Khoa Đối ứng, đã qua đời.",
       "first_appearance": "",
       "notes": ""
+    },
+    {
+      "id": "GCHAR_0142",
+      "name_original": "夜枭",
+      "name_translated": "Dạ Kiêu",
+      "gender": "nam",
+      "role": "Phụ",
+      "description": "Xạ thủ bắn tỉa của Khoa Đối ứng, hỗ trợ Phương Trạch tiêu diệt Diệp Không.",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "first_appearance": "",
+      "notes": ""
+    },
+    {
+      "id": "GCHAR_0144",
+      "name_original": "李静语",
+      "name_translated": "Lý Tĩnh Ngữ",
+      "gender": "nữ",
+      "role": "Phản diện",
+      "description": "Người nắm giữ Quyền Bính Bạo Lực Dư Luận, thuộc tổ chức Kẻ Sống Sót.",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "first_appearance": "",
+      "notes": "Bị Sát thủ J giết chết."
+    },
+    {
+      "id": "GCHAR_0146",
+      "name_original": "余光明",
+      "name_translated": "Dư Quang Minh",
+      "gender": "nam",
+      "role": "Phản diện (Lịch sử)",
+      "description": "Cựu Tai Vương chu mục trước.",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "first_appearance": "",
+      "notes": "Đã bị ngăn chặn (chết hoặc mất tích)."
+    },
+    {
+      "id": "GCHAR_0148",
+      "name_original": "托尔",
+      "name_translated": "Thor",
+      "gender": "nam (chó)",
+      "role": "Phụ",
+      "description": "Con chó Corgi của Sát thủ J, bạn diễn trong các màn diễn sâu.",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "first_appearance": "",
+      "notes": "Tên được đặt theo Thần Sấm."
+    },
+    {
+      "id": "GCHAR_0150",
+      "name_original": "罗平",
+      "name_translated": "La Bình",
+      "gender": "nam",
+      "role": "Phụ",
+      "description": "Thành viên tiểu đội Tai Ách Khoa Đối ứng Vực thứ bảy, người bản địa Nguyệt Bố.",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "first_appearance": "",
+      "notes": "Bị Negary nghi ngờ có liên quan đến tổ chức Kẻ Sống Sót."
+    },
+    {
+      "id": "GCHAR_0152",
+      "name_original": "李科长",
+      "name_translated": "Lý khoa trưởng",
+      "gender": "nam",
+      "role": "Phụ",
+      "description": "Trưởng khoa tại Khoa Đối ứng Vực thứ bảy. Bị thành viên Kẻ Sống Sót giết chết.",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "first_appearance": "",
+      "notes": ""
+    },
+    {
+      "id": "GCHAR_0156",
+      "name_original": "陈迪希",
+      "name_translated": "Trần Địch Hy",
+      "gender": "nam",
+      "role": "Phụ",
+      "description": "Một người sống sót có khả năng thích ứng cao, được Negary ban cho kỹ thuật Sinh Vật Thực Trang.",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "first_appearance": "",
+      "notes": "Được Negary đánh giá là có tiềm năng và dã tâm lớn."
+    },
+    {
+      "id": "GCHAR_0158",
+      "name_original": "亚克托斯",
+      "name_translated": "Arctos",
+      "gender": "nam",
+      "role": "Thứ chính",
+      "description": "Tai Vương Địa Tâm Di Cực, người già nhất trong các Tai Vương tham gia đàm phán.",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "first_appearance": "",
+      "notes": "Sinh ra sau chiến tranh."
+    },
+    {
+      "id": "GCHAR_0160",
+      "name_original": "方书南",
+      "name_translated": "Phương Thư Nam",
+      "gender": "nam",
+      "role": "Thứ chính",
+      "description": "Tai Vương Đại Hồng Thủy, cựu quân nhân chống lụt.",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "first_appearance": "",
+      "notes": "Lấy thân mình làm đê ngăn nước lũ."
+    },
+    {
+      "id": "GCHAR_0162",
+      "name_original": "雪心云",
+      "name_translated": "Tuyết Tâm Vân",
+      "gender": "nữ",
+      "role": "Thứ chính",
+      "description": "Tai Vương Thái Dương Phong Bạo đời thứ hai.",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "first_appearance": "",
+      "notes": "Kế thừa quyền bính sau khi tiền nhiệm bị ám sát năm 2012."
+    },
+    {
+      "id": "GCHAR_0128",
+      "name_original": "杨永兴",
+      "name_translated": "Dương Vĩnh Hưng",
+      "gender": "nam",
+      "role": "Phụ",
+      "description": "Thủ lĩnh căn cứ lân cận, sử dụng Lôi Điện Chi Nhận để tẩy não.",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "first_appearance": "",
+      "notes": "Bị Trần Địch Hy chém đầu và biến dị."
+    },
+    {
+      "id": "GCHAR_0130",
+      "name_original": "小马",
+      "name_translated": "Tiểu Mã",
+      "gender": "nam",
+      "role": "Phụ",
+      "description": "Kẻ phản bội từ căn cứ của Trần Địch Hy.",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "first_appearance": "",
+      "notes": "Quân cờ của Dương Vĩnh Hưng."
+    },
+    {
+      "id": "GCHAR_0130",
+      "name_original": "萨米拉",
+      "name_translated": "Samila",
+      "gender": "nam",
+      "role": "Thần linh",
+      "description": "Cuồng Phong Chi Thần, một trong những thần linh xâm lược.",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "first_appearance": "",
+      "notes": "Xâm nhập vào Tai Ách thế giới qua vết nứt không gian."
+    },
+    {
+      "id": "GCHAR_0132",
+      "name_original": "神族奈格里",
+      "name_translated": "Thần tộc Negary",
+      "gender": "nam",
+      "role": "Thần linh",
+      "description": "Bất Tường Dữ Tật Bệnh Chi Thần từ thế giới Hỏa Diễm.",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "first_appearance": "",
+      "notes": "Phiên bản thần linh của Negary, sở hữu quyền trượng và quạ đen."
+    },
+    {
+      "id": "GCHAR_0134",
+      "name_original": "考斯特",
+      "name_translated": "Koster",
+      "gender": "nam",
+      "role": "Phụ",
+      "description": "Thiên tài siêu năng lực phản bội thế giới ở chu mục thứ hai.",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "first_appearance": "",
+      "notes": "Đầu quân cho liên quân Tân Thần và Sơ Long."
+    },
+    {
+      "id": "GCHAR_0133",
+      "name_original": "阿尔克曼",
+      "name_translated": "Arkman",
+      "gender": "nam",
+      "role": "Thứ chính",
+      "description": "Tai Vương Chiến Tranh.",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "first_appearance": "",
+      "notes": "Lão giả cuồng chiến."
+    },
+    {
+      "id": "GCHAR_0135",
+      "name_original": "常夏",
+      "name_translated": "Thường Hạ",
+      "gender": "nam",
+      "role": "Thứ chính",
+      "description": "Thành viên Cục Đối Sách, người giết Dư Quang Minh.",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "first_appearance": "",
+      "notes": "Có di chứng đau đầu bí ẩn."
+    },
+    {
+      "id": "GCHAR_0137",
+      "name_original": "天倾灾王",
+      "name_translated": "Thiên Khuynh Tai Vương",
+      "gender": "không rõ",
+      "role": "Thứ chính",
+      "description": "Vị Tai Vương thứ mười, sinh ra từ sự xâm lược.",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "first_appearance": "",
+      "notes": "Đại diện cho sự sụp đổ của bầu trời."
+    },
+    {
+      "id": "GCHAR_0136",
+      "name_original": "凡尔西斯",
+      "name_translated": "Versis",
+      "gender": "nam",
+      "role": "Thần linh",
+      "description": "Con cự long thuần huyết cuối cùng ở thế giới Hỏa Diễm.",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "first_appearance": "",
+      "notes": "Yêu một con người và không rời đi cùng Thủy Tổ."
+    },
+    {
+      "id": "GCHAR_0137",
+      "name_original": "艾达恩",
+      "name_translated": "Aidan",
+      "gender": "nam",
+      "role": "Phụ",
+      "description": "Cự long xâm lược bị Negary săn lùng.",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "first_appearance": "",
+      "notes": "Sử dụng năng lực huyết dịch để đào thoát nhưng bị Negary cấy bệnh khuẩn linh hồn."
+    },
+    {
+      "id": "GCHAR_0139",
+      "name_original": "阿柒",
+      "name_translated": "A Thất",
+      "gender": "nữ",
+      "role": "Phụ",
+      "description": "Người thân/người quan trọng của Thường Hạ.",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "first_appearance": "",
+      "notes": "Được Thường Hạ thầm xin lỗi trước khi hy sinh."
     }
   ]
 }
