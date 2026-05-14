@@ -2,7 +2,7 @@
   "project_name": "Linh Hồn Negary",
   "status": "IN_PROGRESS",
   "total_chapters": 754,
-  "completed_chapters": 200,
+  "completed_chapters": 210,
   "chapters": [
     {
       "chapter_number": 1,
@@ -1029,6 +1029,66 @@
       "title": "Cầu Nối",
       "status": "DONE",
       "last_updated": "2026-05-14T22:36:00+07:00"
+    },
+    {
+      "chapter_number": 201,
+      "title": "Thị Giả",
+      "status": "DONE",
+      "last_updated": "2026-05-14T23:25:00+07:00"
+    },
+    {
+      "chapter_number": 202,
+      "title": "Công Khuy Nhất Quỹ",
+      "status": "DONE",
+      "last_updated": "2026-05-14T23:28:00+07:00"
+    },
+    {
+      "chapter_number": 203,
+      "title": "Ta Mệt Rồi",
+      "status": "DONE",
+      "last_updated": "2026-05-14T23:30:00+07:00"
+    },
+    {
+      "chapter_number": 204,
+      "title": "Rời Đi Và Dự Báo",
+      "status": "DONE",
+      "last_updated": "2026-05-14T23:32:00+07:00"
+    },
+    {
+      "chapter_number": 205,
+      "title": "Tật Bệnh",
+      "status": "DONE",
+      "last_updated": "2026-05-14T23:35:00+07:00"
+    },
+    {
+      "chapter_number": 206,
+      "title": "Huyết Mạch Tội Lỗi",
+      "status": "DONE",
+      "last_updated": "2026-05-14T23:38:00+07:00"
+    },
+    {
+      "chapter_number": 207,
+      "title": "Ngày Tắm Thần",
+      "status": "DONE",
+      "last_updated": "2026-05-14T23:41:00+07:00"
+    },
+    {
+      "chapter_number": 208,
+      "title": "Bảo Bối",
+      "status": "DONE",
+      "last_updated": "2026-05-14T23:44:00+07:00"
+    },
+    {
+      "chapter_number": 209,
+      "title": "Chính Thần Và Thủ Dạ Giả",
+      "status": "DONE",
+      "last_updated": "2026-05-14T23:47:00+07:00"
+    },
+    {
+      "chapter_number": 210,
+      "title": "Nguyện Mặt Trời Hằng Chiếu",
+      "status": "DONE",
+      "last_updated": "2026-05-14T23:50:00+07:00"
     }
   ],
   "milestones": [
@@ -1067,5 +1127,5 @@
     "ebook_toc": "ebook/toc.md",
     "illustration_manifest": "ebook/illustration_manifest.json"
   },
-  "last_updated": "2026-05-14T22:42:54+07:00"
+  "last_updated": "2026-05-14T23:42:25+07:00"
 }

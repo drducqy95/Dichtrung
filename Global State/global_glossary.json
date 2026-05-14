@@ -3,8 +3,8 @@
     "version": "1.0.12",
     "source_language": "zh",
     "target_language": "vi",
-    "last_updated": "2026-05-14T22:41:49.828412",
-    "total_entries": 658,
+    "last_updated": "2026-05-14T23:28:45.924717",
+    "total_entries": 662,
     "source_projects": [
       "Ac Linh Quoc Gia",
       "Hong Hoang Lich_Zhttty",
@@ -4800,11 +4800,11 @@
     {
       "id": "GTERM_0443",
       "source_term": "主角光环",
-      "target_term": "Hào Quang Nhân Vật Chính",
+      "target_term": "Hào quang nhân vật chính",
       "category": "general",
       "source_project": "Linh Hon Negary_Hu Minh",
       "confidence": "low",
-      "notes": "",
+      "notes": "Protagonist's Aura/Plot Armor",
       "locked": false
     },
     {
@@ -6595,6 +6595,46 @@
       "source_project": "Linh Hon Negary_Hu Minh",
       "confidence": "high",
       "notes": "Burning Half-Dragon - Demon species created by New God and Progenitor Dragon",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0659",
+      "source_term": "侍者",
+      "target_term": "Thị Giả",
+      "category": "terminology",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "high",
+      "notes": "Servant/Attendant - Artificial souls created by Negary",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0661",
+      "source_term": "灵魂建模",
+      "target_term": "Kiến mô linh hồn",
+      "category": "terminology",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "high",
+      "notes": "Soul Modeling - Technique to create artificial souls",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0663",
+      "source_term": "功亏一篑",
+      "target_term": "Công Khuy Nhất Quỹ",
+      "category": "terminology",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "high",
+      "notes": "Failure at the final step - Idiom used as chapter title",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0666",
+      "source_term": "心念之力",
+      "target_term": "Tâm niệm chi lực",
+      "category": "terminology",
+      "source_project": "Linh Hon Negary_Hu Minh",
+      "confidence": "high",
+      "notes": "Mind/Heart power used by Fang Ze",
       "locked": false
     }
   ]
