@@ -58,7 +58,7 @@ Hàng ngàn cây búa khổng lồ đồng loạt nện xuống đất, khiến 
 
 Kế tiếp, Lý Diệu kinh ngạc phát hiện ra bản thân mình cũng đã biến thành một đại hán vạm vỡ cao tới chín thước, ngay cả diện mạo cũng thay đổi hoàn toàn. Lấy tay sờ lên cằm, râu ria lởm chởm cứng như kim châm!
 
-Trên tay cậu cũng đang nắm một cây búa sắt lớn như cái thúng, phần dây quấn ở tay cầm của búa đã bị thấm đẫm bởi máu rỉ ra từ lòng bàn tay rách nát của cậu.
+Trên tay hắn cũng đang nắm một cây búa sắt lớn như cái thúng, phần dây quấn ở tay cầm của búa đã bị thấm đẫm bởi máu rỉ ra từ lòng bàn tay rách nát của hắn.
 
 Phía trước quảng trường, một gã "Cự Linh Thần" có thân hình khổng lồ hơn hẳn tất cả những gã tráng sĩ kia, trông hoàn toàn không giống con người, đang trợn tròn đôi mắt to như chuông đồng, gầm lên như sấm sét: "Ba ngàn năm trăm hai mươi bảy đứa phế vật các ngươi nghe cho rõ đây! Các ngươi đã chính thức bái vào môn hạ 'Bách Luyện Tông', trở thành tạp dịch cấp thấp của tông môn. Đây là nhờ tổ tiên các ngươi tích đức, phúc phận ba đời mới có được! Bách Luyện Tông chúng ta là tông phái luyện khí mạnh nhất trong 'Hồng Hoang Đại Thế Giới', môn quy cực kỳ nghiêm ngặt. Cho dù chỉ là một tên tạp dịch cấp thấp thì cũng phải liều mạng tu luyện!"
 
@@ -68,8 +68,8 @@ Phía trước quảng trường, một gã "Cự Linh Thần" có thân hình k
 
 "Luyện! Luyện! Tất cả liều mạng luyện cho ta! Âu Dã Minh, ngươi đứng ngây ra đó làm cái gì, sao không luyện?"
 
-Lý Diệu còn chưa hiểu rõ chuyện gì xảy ra thì đã phát hiện ra tất cả các đại hán xung quanh đều nhìn mình bằng ánh mắt vô cùng thương hại. Trong lòng cậu lập tức lạnh toát. Trước mặt có một luồng cuồng phong ập tới, gã Cự Linh Thần đang đứng cách đó cả trăm trượng chỉ trong nháy mắt đã áp sát ngay trước mặt cậu, nhìn xuống với ánh mắt vô cùng hung tợn.
+Lý Diệu còn chưa hiểu rõ chuyện gì xảy ra thì đã phát hiện ra tất cả các đại hán xung quanh đều nhìn mình bằng ánh mắt vô cùng thương hại. Trong lòng hắn lập tức lạnh toát. Trước mặt có một luồng cuồng phong ập tới, gã Cự Linh Thần đang đứng cách đó cả trăm trượng chỉ trong nháy mắt đã áp sát ngay trước mặt hắn, nhìn xuống với ánh mắt vô cùng hung tợn.
 
 "Âu Dã Minh, hôm qua lúc ăn cơm đứa nào nói năng huênh hoang, tự xưng tương lai nhất định phải trở thành 'Tông chủ Bách Luyện Tông' hả? Sao thế, có phải ngươi cảm thấy môn 《Phách Phong Loạn Chùy Pháp》 này quá thấp kém, không xứng để một 'Tông chủ tương lai' như ngươi luyện tập đúng không? Được, hôm nay ta sẽ cho ngươi mở mắt ra nhìn xem sự lợi hại của Một trăm lẻ tám thức Phách Phong Loạn Chùy Pháp, chém sạch!"
 
-Gã Cự Linh Thần dang hai tay ra, luồng hắc khí trên tay ngưng tụ, hóa ra một cây búa khổng lồ to hơn cả đầu Lý Diệu, vung lên tạo ra tiếng gió rít gầm rú, đập thẳng xuống đầu cậu. Lý Diệu còn chưa kịp phản ứng thì đã thấy mình như mọc thêm hai cánh bay bổng lên không trung, đầu óc quay cuồng phình to gấp mười lần, trong lòng không ngừng gào khóc thảm thiết: "Mẹ kiếp, cái chuyện quái quỷ gì đang diễn ra thế này!"
+Gã Cự Linh Thần dang hai tay ra, luồng hắc khí trên tay ngưng tụ, hóa ra một cây búa khổng lồ to hơn cả đầu Lý Diệu, vung lên tạo ra tiếng gió rít gầm rú, đập thẳng xuống đầu hắn. Lý Diệu còn chưa kịp phản ứng thì đã thấy mình như mọc thêm hai cánh bay bổng lên không trung, đầu óc quay cuồng phình to gấp mười lần, trong lòng không ngừng gào khóc thảm thiết: "Mẹ kiếp, cái chuyện quái quỷ gì đang diễn ra thế này!"

@@ -1,6 +1,6 @@
 {
   "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
-  "generated_at": "2026-05-30T04:57:34+07:00",
+  "generated_at": "2026-05-30T06:04:32+07:00",
   "chapters": [
     {
       "chapter_number": 1,
@@ -8,14 +8,6 @@
       "source_output_file": "output/Chương 0001 - Nghĩa địa Pháp Bảo.md",
       "display_output_filename": "Chương 0001: Nghĩa địa Pháp Bảo.md",
       "filesystem_output_filename": "Chương 0001 - Nghĩa địa Pháp Bảo.md",
-      "has_content": true
-    },
-    {
-      "chapter_number": 1,
-      "chapter_title": "Chương 1: Nghĩa địa Pháp Bảo",
-      "source_output_file": "output/tmp6v3cq373.tmp",
-      "display_output_filename": "Chương 0001: Chương 1: Nghĩa địa Pháp Bảo.md",
-      "filesystem_output_filename": "Chương 0001 - Chương 1 Nghĩa địa Pháp Bảo.md",
       "has_content": true
     },
     {
@@ -88,6 +80,102 @@
       "source_output_file": "output/Chương 0010 - Âm Hồn Nhập Thể.md",
       "display_output_filename": "Chương 0010: Âm Hồn Nhập Thể.md",
       "filesystem_output_filename": "Chương 0010 - Âm Hồn Nhập Thể.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 11,
+      "chapter_title": "Tựa Như Ảo Mộng",
+      "source_output_file": "output/Chương 0011 - Tựa Như Ảo Mộng.md",
+      "display_output_filename": "Chương 0011: Tựa Như Ảo Mộng.md",
+      "filesystem_output_filename": "Chương 0011 - Tựa Như Ảo Mộng.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 12,
+      "chapter_title": "Sướng Đến Bay Lên",
+      "source_output_file": "output/Chương 0012 - Sướng Đến Bay Lên.md",
+      "display_output_filename": "Chương 0012: Sướng Đến Bay Lên.md",
+      "filesystem_output_filename": "Chương 0012 - Sướng Đến Bay Lên.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 13,
+      "chapter_title": "Ngạ Quỷ Đầu Thai",
+      "source_output_file": "output/Chương 0013 - Ngạ Quỷ Đầu Thai.md",
+      "display_output_filename": "Chương 0013: Ngạ Quỷ Đầu Thai.md",
+      "filesystem_output_filename": "Chương 0013 - Ngạ Quỷ Đầu Thai.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 14,
+      "chapter_title": "Ẩn Hồ Tiểu Cảnh",
+      "source_output_file": "output/Chương 0014 - Ẩn Hồ Tiểu Cảnh.md",
+      "display_output_filename": "Chương 0014: Ẩn Hồ Tiểu Cảnh.md",
+      "filesystem_output_filename": "Chương 0014 - Ẩn Hồ Tiểu Cảnh.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 15,
+      "chapter_title": "Không Biết Sống Chết",
+      "source_output_file": "output/Chương 0015 - Không Biết Sống Chết.md",
+      "display_output_filename": "Chương 0015: Không Biết Sống Chết.md",
+      "filesystem_output_filename": "Chương 0015 - Không Biết Sống Chết.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 16,
+      "chapter_title": "Một Con Hải Sâm",
+      "source_output_file": "output/Chương 0016 - Một Con Hải Sâm.md",
+      "display_output_filename": "Chương 0016: Một Con Hải Sâm.md",
+      "filesystem_output_filename": "Chương 0016 - Một Con Hải Sâm.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 17,
+      "chapter_title": "Bà Chị Chợ Quỷ",
+      "source_output_file": "output/Chương 0017 - Bà Chị Chợ Quỷ.md",
+      "display_output_filename": "Chương 0017: Bà Chị Chợ Quỷ.md",
+      "filesystem_output_filename": "Chương 0017 - Bà Chị Chợ Quỷ.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 18,
+      "chapter_title": "Thuốc Tăng Cường",
+      "source_output_file": "output/Chương 0018 - Thuốc Tăng Cường.md",
+      "display_output_filename": "Chương 0018: Thuốc Tăng Cường.md",
+      "filesystem_output_filename": "Chương 0018 - Thuốc Tăng Cường.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 19,
+      "chapter_title": "Quân Đạo Sát Lang",
+      "source_output_file": "output/Chương 0019 - Quân Đạo Sát Lang.md",
+      "display_output_filename": "Chương 0019: Quân Đạo Sát Lang.md",
+      "filesystem_output_filename": "Chương 0019 - Quân Đạo Sát Lang.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 20,
+      "chapter_title": "Nam Sinh Tập Thể Dục",
+      "source_output_file": "output/Chương 0020 - Nam Sinh Tập Thể Dục.md",
+      "display_output_filename": "Chương 0020: Nam Sinh Tập Thể Dục.md",
+      "filesystem_output_filename": "Chương 0020 - Nam Sinh Tập Thể Dục.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 21,
+      "chapter_title": "Bốn Phần Trăm",
+      "source_output_file": "output/Chương 0021 - Bốn Phần Trăm.md",
+      "display_output_filename": "Chương 0021: Bốn Phần Trăm.md",
+      "filesystem_output_filename": "Chương 0021 - Bốn Phần Trăm.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 22,
+      "chapter_title": "Hãy Cho Cậu Ta Ăn No",
+      "source_output_file": "output/Chương 0022 - Hãy Cho Cậu Ta Ăn No.md",
+      "display_output_filename": "Chương 0022: Hãy Cho Cậu Ta Ăn No.md",
+      "filesystem_output_filename": "Chương 0022 - Hãy Cho Cậu Ta Ăn No.md",
       "has_content": true
     }
   ]

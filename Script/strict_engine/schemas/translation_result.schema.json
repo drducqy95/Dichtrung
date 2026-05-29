@@ -47,6 +47,55 @@
     "refusal": {
       "type": "string",
       "description": "If the model refuses to translate (e.g. due to safety or prompt injection), output the reason here. Otherwise leave empty."
+    },
+    "worldbuilding_updates": {
+      "type": "object",
+      "description": "New worldbuilding elements discovered in this chapter",
+      "properties": {
+        "factions": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name_source": { "type": "string" },
+              "name_target": { "type": "string" },
+              "type": { "type": "string" },
+              "description": { "type": "string" }
+            }
+          }
+        },
+        "locations": { "type": "array" },
+        "techniques": { "type": "array" },
+        "items": { "type": "array" },
+        "cultivation_resources": { "type": "array" }
+      }
+    },
+    "timeline_entry": {
+      "type": "object",
+      "description": "Story timeline entry for this chapter",
+      "properties": {
+        "chapter": { "type": "integer" },
+        "title": { "type": "string" },
+        "summary": { "type": "string", "description": "2-3 câu tóm tắt diễn biến chính" },
+        "characters": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name": { "type": "string" },
+              "interaction": { "type": "string" },
+              "is_new": { "type": "boolean" }
+            }
+          }
+        },
+        "items": { "type": "array" },
+        "plot_points": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "timestamp": { "type": "string" }
+      },
+      "required": ["chapter", "title", "summary", "characters", "plot_points"]
     }
   },
   "required": [
@@ -54,7 +103,9 @@
     "translated_text",
     "new_terms_discovered",
     "new_characters_discovered",
-    "chapter_summary"
+    "chapter_summary",
+    "worldbuilding_updates",
+    "timeline_entry"
   ],
   "additionalProperties": false
 }

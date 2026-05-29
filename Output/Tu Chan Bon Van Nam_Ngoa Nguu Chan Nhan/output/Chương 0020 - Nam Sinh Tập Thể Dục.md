@@ -1,0 +1,87 @@
+# Chương 0020: Nam Sinh Tập Thể Dục
+
+"Có chút thú vị đấy, trong số các võ giả bình thường thì khả năng chịu đòn thế này cũng coi như hạng nhất rồi, mạnh hơn đám gà rù trong võ quán của chú gấp mười lần." Bành Hải cũng đứng dậy, chậm rãi khởi động các khớp xương, từng bó cơ bắp hệt như hàng vạn con rắn độc luồn lách bên dưới làn da trắng trẻo như ngọc, vô cùng linh hoạt.
+
+"Đương nhiên rồi, người ta là dân chuyên nghiệp mà! Cậu mau vào phòng cách đấu chuẩn bị trước đi, đừng quên dùng 'Văn Diện Phù', đừng để người ta phát hiện ra thân phận thật của cậu." Gã đầu trọc xăm trổ vừa nói, vừa đẩy cửa đi vào trong phòng tập tạ.
+
+Gã tráng hán đang đấm bao cát nói với ông ta: "Triệu quán chủ, vị tiên sinh này tìm chú."
+
+Gã đầu trọc xăm trổ gật gật đầu, liếc nhìn lớp hoa văn mạng nhện trên mặt Lý Diệu, cười nói: "Đến rồi à? Giá cả các thứ đều đã nắm rõ cả rồi chứ, không có vấn đề gì chứ?"
+
+"Đều rõ cả rồi, không có vấn đề gì, chúng ta giao dịch luôn đi." Lý Diệu lạnh lùng nói, cố làm ra vẻ một kẻ giang hồ lõi đời dày dặn kinh nghiệm.
+
+"Vậy thì tốt, đi theo tôi." Gã đầu trọc xăm trổ dẫn đường đi phía trước, đi dọc theo một hành lang, đưa Lý Diệu tới một căn phòng cách đấu rộng chừng hơn một trăm mét vuông.
+
+Môi trường trong phòng cách đấu khá tồi tàn, trên bốn bức tường xung quanh treo đầy những tấm đệm rơm dày cộp để làm lớp đệm giảm chấn, mặt sàn thì chỉ là nền xi măng thô ráp. Chắc là do sử dụng đã lâu nên mặt sàn lồi lõm, chi chít những vết nứt đan xen dọc ngang.
+
+Gã đầu trọc xăm trổ ôm ra từ trong góc một bộ quần áo bảo hộ được khâu từ chín lớp da bò cùng với trọn bộ đồ phòng hộ, ra hiệu cho Lý Diệu mặc vào.
+
+"Mọi người đều là người trong nghề, cũng không cần tôi phải dài dòng thêm nữa. Dù sao thì chỉ cần cậu cầm cự được qua ba phút, là có thể nhận được một vạn khối. Thế nhưng nếu như không trụ nổi ba phút, thì một nửa cắc cũng không có —— Thiên ca nói cậu từng làm ở không ít võ quán rồi, là kim bài bồi luyện, những thứ này đều là luật bất thành văn trong nghề, không có vấn đề gì chứ?"
+
+"Ba phút? Kim bài bồi luyện?" Lý Diệu chớp chớp mắt, lập tức ý thức được đối phương đã nhận nhầm người.
+
+Hoa văn do Văn Diện Phù tạo ra không phải là ngẫu nhiên, tổng cộng có hơn một ngàn ba trăm kiểu dáng khác nhau. Thỉnh thoảng cũng sẽ xuất hiện trường hợp hai người có hoa văn trên mặt giống hệt nhau, được gọi là "đụng hàng".
+
+Ông chủ này chắc hẳn là đang đợi một tên "kim bài bồi luyện" khác trên mặt cũng vẽ hoa văn mạng nhện, kết quả lại nhận nhầm cậu thành đối phương.
+
+"Ngại quá——" Lý Diệu theo bản năng vừa định giải thích, trong lòng bỗng nhiên khẽ động.
+
+Vị đại thúc đầu trọc này vừa mới nói cái gì cơ? Trụ qua ba phút, là có thể lấy được một vạn tệ? Làm người bồi luyện vậy mà lại kiếm được nhiều tiền như thế sao?
+
+Lý Diệu bắt đầu thấy thèm thuồng.
+
+Cậu liều sống liều chết nhặt nhạnh trong Bãi Rác Pháp Bảo, vất vả cực nhọc cả tháng trời cũng chỉ kiếm được chừng một vạn tám ngàn. Mặc dù lần này đã chém đẹp Tiêu Giai Tuyết một nhát kiếm được mười vạn, thế nhưng loại cừu béo như thế này đâu phải tùy tiện lúc nào cũng có thể gặp được. Hiện tại chỉ cần mất ba phút là có thể kiếm thêm một vạn nữa, dư sức mua được mười mấy ống thuốc tăng cường, cớ sao lại không làm chứ?
+
+Cơ thể của bản thân vừa mới trải qua dị biến, so với quá khứ, khả năng chịu đòn đã được nâng cao đáng kể, hoàn toàn có thể xưng là da thô thịt dày!
+
+Mà những hội viên tới tập luyện ở cái võ quán tồi tàn cỡ này phần lớn đều là dân nghiệp dư. Nói không chừng vừa mới tan ca xong, lát nữa còn phải đi mua đồ ăn nữa cơ, thì có thể có bao nhiêu sức lực chứ?
+
+Nghĩ tới đây, Lý Diệu đưa mắt nhìn sang phía đối diện, suýt chút nữa thì phì cười ra tiếng.
+
+Trong góc phòng cách đấu có một người đàn ông dáng người cao gầy đang đứng. Nửa thân trên để trần không có mấy lạng cơ bắp, làn da cũng có vẻ nhợt nhạt tái nhợt. Trên mặt người này cũng sử dụng "Văn Diện Phù", những đường hoa văn màu đỏ và đen đan xen lại với nhau tạo thành một khuôn mặt chú hề đang tươi cười.
+
+Cảm giác mà tên này mang lại, chính là một người hết sức bình thường, nhạt nhẽo vô vị, không hề có nửa điểm khí thế của cao thủ.
+
+Điều khiến Lý Diệu nhịn không được cười chính là lúc cậu đi vào, người này đang khởi động vô cùng nghiêm túc, thế nhưng bài tập mà hắn đang tập lại chính là "Bài thể dục nhịp điệu số năm" cơ bản nhất của Liên bang!
+
+Bài thể dục nhịp điệu này là do các chuyên gia tu luyện của Liên bang nghiên cứu phát triển dành cho người bình thường tập thể dục, thư giãn. Tất cả mọi công dân Liên bang đều bắt đầu học nó từ hồi mẫu giáo. Căn bản không thể coi đây là công pháp võ kỹ gì cả, mà chỉ đơn giản là vận động tay chân, giãn gân giãn cốt mà thôi.
+
+Ngày nay, trải qua vô số lần nâng cấp, người ta đã phát triển ra "Bài thể dục nhịp điệu số chín" với các động tác phức tạp, mang hơi hướm của các bài quyền võ thuật, còn "Bài thể dục nhịp điệu số năm" cực kỳ đơn giản này, chỉ có học sinh tiểu học mới lấy ra tập làm bài tập giữa giờ.
+
+Rõ ràng là bài tập giữa giờ của học sinh tiểu học, thế nhưng tên hề mặt cười này lại tập luyện vô cùng nề nếp cẩn thận, từng chút một không hề sai sót. Từng động tác đều được vươn dài tới cực hạn, giống như đang tu luyện một môn cái thế thần công kinh thiên động địa nào đó vậy.
+
+"Một vạn khối này quả thực giống như lượm được không vậy, nếu như không nhặt, e là ông trời cũng sẽ giáng sấm sét chẻ chết tôi mất!" Lý Diệu gào thét điên cuồng trong lòng.
+
+Gã đầu trọc xăm trổ khoác trọn bộ đồ bảo hộ bằng da bò lên người cậu, nhíu mày hỏi: "Có vấn đề gì sao?"
+
+"Ờ——" Lý Diệu trầm ngâm một lát, hỏi, "Tôi chỉ có thể đứng chịu đòn sao? Có được đánh trả không?"
+
+Gã đầu trọc xăm trổ sững người, vẻ mặt cười như không cười, phảng phất như vừa nghe thấy câu chuyện hài hước nhất trên đời. Ông ta lại lấy ra từ trong một chiếc rương đựng dụng cụ ở góc phòng một đống lớn các tấm lót bằng sắt và các miếng đệm gốm cường hóa, nhét vào trong những chiếc túi đặc biệt được thiết kế trên bề mặt bộ đồ bảo hộ bằng da bò.
+
+Thế này thì, trên người Lý Diệu đã có ba lớp bảo vệ —— tấm đệm gốm cường hóa, tấm lót bằng sắt và chín lớp da bò.
+
+Gã đầu trọc xăm trổ nói: "Chỉ cần cậu thích, cứ việc đánh trả thoải mái, thế nhưng tôi khuyên cậu trước tiên hãy dốc toàn lực đỡ được đòn tấn công của cậu ta rồi hãy nói sau. Được rồi, hai người từ từ mà chơi, ba phút sau tôi sẽ quay lại, hy vọng——"
+
+Ông ta ngừng lời, dùng ánh mắt "tất cả không cần nói cũng hiểu" nhìn Lý Diệu một cái, vỗ không nặng không nhẹ lên vai cậu một cái, lùi ra khỏi phòng cách đấu, đóng cửa lại.
+
+"Đúng là võ quán đẳng cấp nghiệp dư, chẳng qua chỉ là tập luyện đối kháng có ba phút thôi mà, có cần thiết phải mặc kín bưng kín bít thế này không?" Lý Diệu thử nhảy lên nhảy xuống hai cái, lại vung vẩy múa may loạn xạ mấy đường quyền Vương Bát, cảm nhận mức độ ảnh hưởng của bộ đồ bảo hộ tới cơ thể.
+
+Cậu phát hiện bộ đồ bảo hộ này được chế tác vô cùng tinh xảo. Mặc dù sau khi gắn thêm các tấm thép và đệm gốm cường hóa nó nặng tới mấy chục cân, thế nhưng lại không hề ảnh hưởng đến hoạt động của tứ chi, ngoài việc làm tốc độ của cậu giảm đi đôi chút ra, thì hoàn toàn không hề ảnh hưởng đến khả năng tấn công và phòng thủ.
+
+Trong khi đó đối thủ của cậu vẫn đang từ từ chậm rãi khởi động, vừa mới tập xong động tác "Vươn vai" ở nhịp thứ tư chuyển sang động tác "Ưỡn ngực" ở nhịp thứ sáu. Nếu như Lý Diệu nhớ không lầm, đằng sau vẫn còn tới năm nhịp nữa!
+
+"Vị đại ca này, từ lúc tôi đi vào là anh đã bắt đầu khởi động rồi, lẽ nào bắt buộc phải tập xong toàn bộ bài thể dục nhịp điệu sao? Có cần thiết phải nghiêm túc thế không?" Lý Diệu nhịn không được hỏi.
+
+Tên hề mặt cười vẫn đang giữ nguyên tư thế dang rộng hai chân như giương cung, lồng ngực mở rộng, nghe thấy lời này liền ngừng động tác lại, chậm rãi nói: "Cậu không cần khởi động một chút sao?"
+
+"Không cần, trên chiến trường thực sự, lấy đâu ra nhiều thời gian cho anh khởi động như vậy!" Lý Diệu có chút mất kiên nhẫn nói. Cậu giãy giụa cầu sinh trong Bãi Rác Pháp Bảo, trước nay luôn là nói đánh là đánh, nói chạy là chạy, những thằng khốn kiếp như Phì Long, Sói Hoang... có đứa nào chừa thời gian cho cậu khởi động chứ?
+
+Tên hề mặt cười nghiêng đầu, khẽ "ồ" lên một tiếng, tựa hồ không ngờ Lý Diệu lại có thể nói ra một câu triết lý đến vậy. Trầm ngâm giây lát, anh ta gật đầu nói: "Cậu nói đúng, chuẩn bị xong rồi, ba phút —— bắt đầu tính giờ!"
+
+"Vèo!"
+
+Gần như ngay khi hai chữ "bắt đầu" còn chưa kịp truyền tới tai Lý Diệu, một tiếng xé gió chói tai đã xuyên thủng màng nhĩ của cậu. Một giây trước tên hề mặt cười vẫn còn đang đứng dang rộng chân làm động tác ưỡn ngực ở cách xa hơn mười mét, một giây sau lại hoàn toàn biến mất!
+
+Lý Diệu căn bản là không có cách nào nhìn thấu được quỹ đạo di chuyển của tên hề mặt cười, chỉ cảm thấy toàn bộ vùng ngực truyền tới một cơn đau nhói như kim đâm, phảng phất như có một bàn tay vô hình trong nháy mắt đã xuyên thủng ba lớp phòng ngự, cắm thẳng vào lồng ngực, hung hăng siết chặt lấy trái tim cậu!
+
+"——Cái quái gì thế này!"

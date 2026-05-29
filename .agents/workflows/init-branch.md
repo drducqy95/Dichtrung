@@ -100,8 +100,19 @@ Thêm milestone mới vào `d:\Dichtrung\project_progress.json`:
 
 ---
 
-## Bước 6: Báo Cáo
+## Bước 6: Khởi tạo Home Metadata & Sinh Bìa
 
+Để đảm bảo hệ thống nhận diện branch và có metadata (bao gồm prompt ảnh bìa):
+1. Chạy lệnh cập nhật cấu trúc và sinh `home.json`:
+   ```powershell // turbo
+   python "d:\Dichtrung\Script\branch_scaffold.py" --branch "[Tên Project Branch]"
+   ```
+2. Gọi workflow tự sinh ảnh bìa từ metadata đã tạo:
+   `/generate-cover [Tên Project Branch]`
+
+---
+
+## Bước 7: Báo Cáo
 ```
 "✅ PROJECT BRANCH ĐÃ KHỞI TẠO!
 

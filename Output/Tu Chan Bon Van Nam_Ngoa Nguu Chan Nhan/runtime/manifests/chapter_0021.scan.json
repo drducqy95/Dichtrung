@@ -1,0 +1,172 @@
+{
+  "schema_version": "1.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 21,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan\\0021 - 21.第21章 百分之四.md",
+  "source_char_count": 3649,
+  "characters": [
+    {
+      "source": "万块",
+      "entity_type": "person",
+      "count": 3,
+      "confidence": 0.7,
+      "evidence": [
+        "他打三分钟就能赚到一万块！”李耀大脑一片空白",
+        "钟，一万块”！\n\n一万块，可以买十几支强化药",
+        "去的可能！\n\n“这一万块，我拿定了！”李耀咬"
+      ]
+    },
+    {
+      "source": "路线",
+      "entity_type": "person",
+      "count": 3,
+      "confidence": 0.7,
+      "evidence": [
+        "，一定要看穿他的攻击路线！”\n\n李耀觉得自己",
+        "秒，就看穿了我的攻击路线？地下鬼市真是藏龙卧",
+        "同样捕捉到了他的攻击路线，诡异的是，笑脸小丑"
+      ]
+    },
+    {
+      "source": "余光",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "，就尽量偏过头去，用余光看，余光能比正眼捕捉",
+        "清晰的画面！”\n\n用余光？\n\n李耀心思电转，"
+      ]
+    },
+    {
+      "source": "米开外",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.82,
+      "evidence": [
+        "笑脸小丑静静地站在十米开外，有些意外，皱眉道：",
+        "中，瞬间闪身到了七八米开外，似笑非笑地看着他，"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "source": "一名脸上绘制着蜘蛛花纹的男子忽然敲门",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "四六的军旅小调。\n\n一名脸上绘制着蜘蛛花纹的男子忽然敲门，随后走了进来。\n\n"
+      ]
+    },
+    {
+      "source": "一把拧开大门",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "两步跨到格斗室门前，一把拧开大门。\n\n“阿海，快住手"
+      ]
+    },
+    {
+      "source": "直捣笑脸小丑的面门",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "的拳头如呼啸的铁锤，直捣笑脸小丑的面门！\n\n“披风乱锤法，"
+      ]
+    },
+    {
+      "source": "笑脸小丑整个人都蜷缩成一团",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "。\n\n他看到了！\n\n笑脸小丑整个人都蜷缩成一团，像是一头慵懒的花猫"
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "source": "阿海",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "一把拧开大门。\n\n“阿海，快住手！”\n\n“三"
+      ]
+    }
+  ],
+  "realms": [],
+  "techniques": [
+    "一名曾经",
+    "三两步",
+    "不由得向前跨了半步",
+    "他的拳",
+    "六百五十二拳",
+    "却始终无法",
+    "可就算只是揍上一拳",
+    "右小腿就像是折叠刀",
+    "如果你用正眼无法",
+    "尽管每挨上一拳",
+    "快想办法",
+    "把左拳",
+    "披风乱锤法",
+    "揉身进步",
+    "时间已经",
+    "更何况他感觉对方经",
+    "李耀却是已经",
+    "李耀的拳",
+    "百零八手披风乱锤法",
+    "眼球根本无法",
+    "究竟是用了什么方法",
+    "连究竟是拳"
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "法宝坟墓",
+      "target": "Nghĩa địa Pháp Bảo"
+    },
+    {
+      "source": "地下鬼市",
+      "target": "chợ quỷ ngầm"
+    },
+    {
+      "source": "超高速晶轨列车",
+      "target": "tàu tốc hành tinh quỹ siêu tốc"
+    },
+    {
+      "source": "百炼宗",
+      "target": "Bách Luyện Tông"
+    },
+    {
+      "source": "一百零八手披风乱锤法",
+      "target": "Một trăm lẻ tám thức Phách Phong Loạn Chùy Pháp"
+    },
+    {
+      "source": "星空巨兽",
+      "target": "Tinh Không Cự Thú"
+    },
+    {
+      "source": "巨灵神",
+      "target": "Cự Linh Thần"
+    },
+    {
+      "source": "隐湖小境",
+      "target": "Ẩn Hồ Tiểu Cảnh"
+    },
+    {
+      "source": "彭海",
+      "target": "Bành Hải"
+    },
+    {
+      "source": "妖刀",
+      "target": "Yêu Đao"
+    },
+    {
+      "source": "铁龟",
+      "target": "Thiết Quy"
+    }
+  ],
+  "generated_at": "2026-05-30T05:41:24.139094+07:00"
+}

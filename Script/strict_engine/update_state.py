@@ -202,6 +202,97 @@ def update_progress(branch_dir: Path, chapter: int, title: str) -> None:
     LOGGER.info("Updated progress.json: Chapter %d marked as DONE.", chapter)
 
 
+def update_worldbuilding(branch_dir: Path, updates: dict) -> None:
+    """Merge new worldbuilding entries into worldbuilding.json."""
+    if not updates:
+        return
+    wb_path = branch_dir / "worldbuilding.json"
+    wb = load_json(wb_path, default={}) or {}
+    
+    sections = ["factions", "locations", "techniques", "items", "cultivation_resources"]
+    added_count = 0
+    
+    for section in sections:
+        if section not in wb:
+            wb[section] = []
+        existing_sources = {str(item.get("name_source") or "").strip().lower() for item in wb[section]}
+        
+        for item in updates.get(section, []):
+            src = str(item.get("name_source") or "").strip()
+            if not src or src.lower() in existing_sources:
+                continue
+            wb[section].append(item)
+            existing_sources.add(src.lower())
+            added_count += 1
+            
+    if added_count > 0:
+        save_json_atomic(wb_path, wb)
+        LOGGER.info("Added %d new worldbuilding entries.", added_count)
+
+
+def update_context(branch_dir: Path, chapter: int, summary: str) -> None:
+    """Append chapter_summary to context.json."""
+    if not summary:
+        return
+    ctx_path = branch_dir / "context.json"
+    ctx = load_json(ctx_path, default={}) or {}
+    
+    summaries = ctx.get("chapter_summaries", [])
+    
+    # Check if this chapter already has a summary
+    for entry in summaries:
+        if entry.get("chapter") == chapter:
+            entry["summary"] = summary
+            break
+    else:
+        summaries.append({"chapter": chapter, "summary": summary})
+        
+    summaries.sort(key=lambda x: x.get("chapter", 0))
+    ctx["chapter_summaries"] = summaries
+    
+    if "current_state" not in ctx:
+        ctx["current_state"] = {}
+    ctx["current_state"]["last_major_event"] = summary[:100] + "..." if len(summary) > 100 else summary
+    
+    save_json_atomic(ctx_path, ctx)
+    LOGGER.info("Updated context.json for chapter %d.", chapter)
+
+
+def update_timeline(branch_dir: Path, timeline_entry: dict) -> None:
+    """Append entry to Story-TimeLine.jsonl."""
+    if not timeline_entry or not timeline_entry.get("summary"):
+        return
+        
+    tl_path = branch_dir / "Story-TimeLine.jsonl"
+    
+    import json
+    # Read existing entries to prevent duplication
+    existing_chapters = set()
+    if tl_path.exists():
+        with open(tl_path, "r", encoding="utf-8") as f:
+            for line in f:
+                if not line.strip(): continue
+                try:
+                    data = json.loads(line)
+                    if "chapter" in data:
+                        existing_chapters.add(data["chapter"])
+                except json.JSONDecodeError:
+                    pass
+                    
+    chapter = timeline_entry.get("chapter")
+    if chapter in existing_chapters:
+        LOGGER.info("Timeline entry for chapter %d already exists, skipping.", chapter)
+        return
+        
+    if "timestamp" not in timeline_entry:
+        timeline_entry["timestamp"] = now_iso()
+        
+    # Append
+    with open(tl_path, "a", encoding="utf-8") as f:
+        f.write(json.dumps(timeline_entry, ensure_ascii=False) + "\n")
+    LOGGER.info("Appended timeline entry for chapter %d.", chapter)
+
+
 def update_state(branch_name: str, chapter: int) -> bool:
     """Execute state update based on translation result."""
     branch_dir = resolve_branch_dir(branch_name)
@@ -259,6 +350,31 @@ def update_state(branch_name: str, chapter: int) -> bool:
     
     # 4. Update Progress
     update_progress(branch_dir, chapter, translated_title)
+    
+    # 5. Update Worldbuilding
+    update_worldbuilding(branch_dir, result.get("worldbuilding_updates", {}))
+    
+    # 6. Update Context
+    update_context(branch_dir, chapter, result.get("chapter_summary", ""))
+    
+    # 7. Update Timeline
+    update_timeline(branch_dir, result.get("timeline_entry", {}))
+    
+    # 8. Re-run branch scaffold to update home.json and ebook metadata
+    import subprocess
+    try:
+        LOGGER.info("Triggering branch_scaffold to update home.json...")
+        scaffold_script = ROOT.parent / "branch_scaffold.py"
+        subprocess.run(
+            [sys.executable, str(scaffold_script), "--branch", branch_name],
+            cwd=str(ROOT.parent.parent),
+            check=True,
+            capture_output=True,
+            text=True
+        )
+        LOGGER.info("branch_scaffold executed successfully.")
+    except Exception as e:
+        LOGGER.warning("branch_scaffold execution failed: %s", e)
     
     LOGGER.info("State update completed successfully for chapter %d.", chapter)
     return True

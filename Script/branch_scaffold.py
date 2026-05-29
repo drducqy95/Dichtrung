@@ -470,7 +470,7 @@ def resolve_branch_profile(
         "style_tags": style_tags or ["dịch thuật"],
         "cover_prompt": first_text(
             override.get("cover_prompt"),
-            f"Bìa dọc 6x9 cho truyện {title} của {author}, ưu tiên sắc thái {', '.join(style_tags[:3] or ['dịch thuật'])}. Bối cảnh: {backdrop}",
+            f"Vertical book cover ratio 6:9. Cinematic composition, hyper-detailed, 8k resolution. [BỐ CỤC CHỮ]: The title '{title}' is written in LARGE, massive typography perfectly centered. The author name '{author}' is written in smaller, elegant text neatly placed near the title. Typography style: Epic and modern font. [SẮC THÁI]: {', '.join(style_tags[:3] or ['kỳ huyễn', 'hành động'])}. [BỐ CẢNH]: {backdrop}",
         ),
         "sample_chapter": sample_chapter,
         "sample_summary": first_text(

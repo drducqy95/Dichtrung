@@ -1,7 +1,6 @@
 # Mục lục - Tu Chân Bốn Vạn Năm
 
 - Chương 0001: Nghĩa địa Pháp Bảo
-- Chương 0001: Chương 1: Nghĩa địa Pháp Bảo
 - Chương 0002: Quang Mạc Nghi
 - Chương 0003: Dị Mộng
 - Chương 0004: Yêu Đao Bành Hải
@@ -11,3 +10,15 @@
 - Chương 0008: Sửa Chữa Tinh Não
 - Chương 0009: Cá Mặn Và Đôi Giày
 - Chương 0010: Âm Hồn Nhập Thể
+- Chương 0011: Tựa Như Ảo Mộng
+- Chương 0012: Sướng Đến Bay Lên
+- Chương 0013: Ngạ Quỷ Đầu Thai
+- Chương 0014: Ẩn Hồ Tiểu Cảnh
+- Chương 0015: Không Biết Sống Chết
+- Chương 0016: Một Con Hải Sâm
+- Chương 0017: Bà Chị Chợ Quỷ
+- Chương 0018: Thuốc Tăng Cường
+- Chương 0019: Quân Đạo Sát Lang
+- Chương 0020: Nam Sinh Tập Thể Dục
+- Chương 0021: Bốn Phần Trăm
+- Chương 0022: Hãy Cho Cậu Ta Ăn No

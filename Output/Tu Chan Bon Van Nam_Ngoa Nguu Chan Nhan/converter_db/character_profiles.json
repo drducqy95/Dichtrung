@@ -2,8 +2,8 @@
   "metadata": {
     "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
     "book_title": "Tu Chân Bốn Vạn Năm",
-    "generated_at": "2026-05-30T04:57:34+07:00",
-    "total_characters": 18,
+    "generated_at": "2026-05-30T06:04:32+07:00",
+    "total_characters": 23,
     "style_tags": [
       "đông phương",
       "sci fi"
@@ -12,19 +12,39 @@
   },
   "characters": [
     {
-      "id": "",
+      "id": "protagonist_ly_dieu",
+      "name_original": "李耀",
+      "name_translated": "Lý Diệu",
+      "gender": "male",
+      "role": "protagonist",
+      "status": "active",
+      "first_appearance": "{'chapter': 1, 'context': 'Xuất hiện nhặt rác tại Nghĩa địa Pháp Bảo'}",
+      "description_vi": "Thiếu niên 17 tuổi gầy gò, khỏe khoắn, da ngăm đen do dầm mưa dãi nắng ở nghĩa địa pháp bảo, đôi mắt sáng ngời sắc bén như chim ưng.",
+      "personality": "Kiên trì, Thực tế, Thích tiền, Bền bỉ, Mưu mẹo",
+      "abilities": "Kỹ năng đua xe Trái Đất, Chế tạo cơ khí thủ công, Sửa chữa pháp bảo phế thải",
+      "illustration": {
+        "portrait_prompt": "Portrait of Lý Diệu, a man character from 'Tu Chân Bốn Vạn Năm'. Role: heroic aura, determined expression, center of frame. Visual traits: sáng eyes, thin gaunt figure, youthful appearance. Character context: Thiếu niên 17 tuổi gầy gò, khỏe khoắn, da ngăm đen do dầm mưa dãi nắng ở nghĩa địa pháp bảo, đôi mắt sáng ngời sắc bén như chim ưng.. Personality expressed in pose: Kiên trì, Thực tế, Thích tiền, Bền bỉ, Mưu mẹo. Composition: bust portrait, 3/4 angle, expressive face. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Lý Diệu (man) from 'Tu Chân Bốn Vạn Năm'. Role: heroic aura, determined expression, center of frame. Visual: sáng eyes, thin gaunt figure, youthful appearance. Description: Thiếu niên 17 tuổi gầy gò, khỏe khoắn, da ngăm đen do dầm mưa dãi nắng ở nghĩa địa pháp bảo, đôi mắt sáng ngời sắc bén như chim ưng.. Manifesting power: Kỹ năng đua xe Trái Đất, Chế tạo cơ khí thủ công, Sửa chữa pháp bảo phế thải. Setting: Tu chân cơ giáp vũ trụ thế giới khoa học kỹ thuật hiện đại.. First appears in {'chapter': 1, 'context': 'Xuất hiện nhặt rác tại Nghĩa địa Pháp Bảo'}. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/characters/l_di_u_portrait.png",
+        "scene_slot": "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/characters/l_di_u_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "ally_banh_hai",
       "name_original": "彭海",
       "name_translated": "Bành Hải",
       "gender": "male",
-      "role": "secondary",
+      "role": "mentor",
       "status": "active",
-      "first_appearance": "{'chapter': 0, 'context': ''}",
-      "description_vi": "Biệt hiệu 'Yêu Đao', cựu học sinh xuất sắc của Xích Tiêu Nhị Trung, cựu quân nhân Liên bang, hiện là tu chân giả Trúc Cơ Kỳ và quản lý của Tập đoàn Vận tải Xích Tiêu.",
+      "first_appearance": "{'chapter': 2, 'context': 'Xuất hiện trên bản tin quang mạc, sau đó đến trường đặc huấn ch.4'}",
+      "description_vi": "Thân hình cao lớn, thẳng tắp như một thanh kiếm báu, tỏa ra ánh mắt sắc bén lẫm liệt.",
       "personality": "",
-      "abilities": "",
+      "abilities": "Yêu Đao Kiếm Pháp, Ngự kiếm phi hành",
       "illustration": {
-        "portrait_prompt": "Portrait of Bành Hải, a man character from 'Tu Chân Bốn Vạn Năm'. Role: supporting character, distinct silhouette. Character context: Biệt hiệu 'Yêu Đao', cựu học sinh xuất sắc của Xích Tiêu Nhị Trung, cựu quân nhân Liên bang, hiện là tu chân giả Trúc Cơ Kỳ và quản lý của Tập đoàn Vận tải Xích Tiêu.. Composition: bust portrait, 3/4 angle, expressive face. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. High detail, professional illustration, no text or watermarks.",
-        "scene_prompt": "Full-body scene illustration of Bành Hải (man) from 'Tu Chân Bốn Vạn Năm'. Role: supporting character, distinct silhouette. Description: Biệt hiệu 'Yêu Đao', cựu học sinh xuất sắc của Xích Tiêu Nhị Trung, cựu quân nhân Liên bang, hiện là tu chân giả Trúc Cơ Kỳ và quản lý của Tập đoàn Vận tải Xích Tiêu.. Setting: Tu chân cơ giáp vũ trụ thế giới khoa học kỹ thuật hiện đại.. First appears in {'chapter': 0, 'context': ''}. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_prompt": "Portrait of Bành Hải, a man character from 'Tu Chân Bốn Vạn Năm'. Role: distinctive character. Visual traits: sắc eyes. Character context: Thân hình cao lớn, thẳng tắp như một thanh kiếm báu, tỏa ra ánh mắt sắc bén lẫm liệt.. Composition: bust portrait, 3/4 angle, expressive face. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Bành Hải (man) from 'Tu Chân Bốn Vạn Năm'. Role: distinctive character. Visual: sắc eyes. Description: Thân hình cao lớn, thẳng tắp như một thanh kiếm báu, tỏa ra ánh mắt sắc bén lẫm liệt.. Manifesting power: Yêu Đao Kiếm Pháp, Ngự kiếm phi hành. Setting: Tu chân cơ giáp vũ trụ thế giới khoa học kỹ thuật hiện đại.. First appears in {'chapter': 2, 'context': 'Xuất hiện trên bản tin quang mạc, sau đó đến trường đặc huấn ch.4'}. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
         "portrait_slot": "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/characters/b_nh_h_i_portrait.png",
         "scene_slot": "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/characters/b_nh_h_i_scene.png",
         "asset_candidates": [],
@@ -52,19 +72,19 @@
       }
     },
     {
-      "id": "",
+      "id": "rival_hach_lien_liet",
       "name_original": "赫连烈",
       "name_translated": "Hách Liên Liệt",
       "gender": "male",
-      "role": "secondary",
+      "role": "rival",
       "status": "active",
-      "first_appearance": "{'chapter': 0, 'context': ''}",
-      "description_vi": "Thiếu gia nhà giàu, học sinh xuất sắc lớp trọng điểm có độ khai phát linh căn 72%, kiêu ngạo và hiếu thắng, có tình cảm với Tiêu Giai Tuyết.",
+      "first_appearance": "{'chapter': 7, 'context': 'Đứng hạng nhất khối thi thử cùng Tiêu Giai Tuyết, ch.9 chặn đường Lý Diệu'}",
+      "description_vi": "Thân hình cao to vạm vỡ, mặt mũi góc cạnh nhưng mang vẻ tàn nhẫn độc đoán.",
       "personality": "",
-      "abilities": "",
+      "abilities": "Thiết Quyền Công, Chiến đấu giáp lá cà",
       "illustration": {
-        "portrait_prompt": "Portrait of Hách Liên Liệt, a man character from 'Tu Chân Bốn Vạn Năm'. Role: supporting character, distinct silhouette. Character context: Thiếu gia nhà giàu, học sinh xuất sắc lớp trọng điểm có độ khai phát linh căn 72%, kiêu ngạo và hiếu thắng, có tình cảm với Tiêu Giai Tuyết.. Composition: bust portrait, 3/4 angle, expressive face. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. High detail, professional illustration, no text or watermarks.",
-        "scene_prompt": "Full-body scene illustration of Hách Liên Liệt (man) from 'Tu Chân Bốn Vạn Năm'. Role: supporting character, distinct silhouette. Description: Thiếu gia nhà giàu, học sinh xuất sắc lớp trọng điểm có độ khai phát linh căn 72%, kiêu ngạo và hiếu thắng, có tình cảm với Tiêu Giai Tuyết.. Setting: Tu chân cơ giáp vũ trụ thế giới khoa học kỹ thuật hiện đại.. First appears in {'chapter': 0, 'context': ''}. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_prompt": "Portrait of Hách Liên Liệt, a man character from 'Tu Chân Bốn Vạn Năm'. Role: distinctive character. Visual traits: muscular imposing build. Character context: Thân hình cao to vạm vỡ, mặt mũi góc cạnh nhưng mang vẻ tàn nhẫn độc đoán.. Composition: bust portrait, 3/4 angle, expressive face. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Hách Liên Liệt (man) from 'Tu Chân Bốn Vạn Năm'. Role: distinctive character. Visual: muscular imposing build. Description: Thân hình cao to vạm vỡ, mặt mũi góc cạnh nhưng mang vẻ tàn nhẫn độc đoán.. Manifesting power: Thiết Quyền Công, Chiến đấu giáp lá cà. Setting: Tu chân cơ giáp vũ trụ thế giới khoa học kỹ thuật hiện đại.. First appears in {'chapter': 7, 'context': 'Đứng hạng nhất khối thi thử cùng Tiêu Giai Tuyết, ch.9 chặn đường Lý Diệu'}. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
         "portrait_slot": "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/characters/h_ch_li_n_li_t_portrait.png",
         "scene_slot": "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/characters/h_ch_li_n_li_t_scene.png",
         "asset_candidates": [],
@@ -92,19 +112,19 @@
       }
     },
     {
-      "id": "",
+      "id": "npc_lao_vuong",
       "name_original": "老王",
       "name_translated": "Lão Vương",
       "gender": "male",
-      "role": "secondary",
+      "role": "mentor",
       "status": "active",
-      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "first_appearance": "{'chapter': 3, 'context': 'Lý Diệu đến bán quang mạc nghi cải tiến tại cửa hàng đồ cũ'}",
       "description_vi": "Chủ cửa hàng đồ cũ Lão Vương, cựu đại sư cải tạo pháp bảo ẩn dật, đối xử rất tốt và thường xuyên giúp đỡ Lý Diệu.",
       "personality": "",
-      "abilities": "",
+      "abilities": "Kinh nghiệm tu chân phong phú, Đánh giá bảo vật, Chế tạo pháp bảo",
       "illustration": {
-        "portrait_prompt": "Portrait of Lão Vương, a man character from 'Tu Chân Bốn Vạn Năm'. Role: supporting character, distinct silhouette. Character context: Chủ cửa hàng đồ cũ Lão Vương, cựu đại sư cải tạo pháp bảo ẩn dật, đối xử rất tốt và thường xuyên giúp đỡ Lý Diệu.. Composition: bust portrait, 3/4 angle, expressive face. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. High detail, professional illustration, no text or watermarks.",
-        "scene_prompt": "Full-body scene illustration of Lão Vương (man) from 'Tu Chân Bốn Vạn Năm'. Role: supporting character, distinct silhouette. Description: Chủ cửa hàng đồ cũ Lão Vương, cựu đại sư cải tạo pháp bảo ẩn dật, đối xử rất tốt và thường xuyên giúp đỡ Lý Diệu.. Setting: Tu chân cơ giáp vũ trụ thế giới khoa học kỹ thuật hiện đại.. First appears in {'chapter': 0, 'context': ''}. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_prompt": "Portrait of Lão Vương, a man character from 'Tu Chân Bốn Vạn Năm'. Role: distinctive character. Character context: Chủ cửa hàng đồ cũ Lão Vương, cựu đại sư cải tạo pháp bảo ẩn dật, đối xử rất tốt và thường xuyên giúp đỡ Lý Diệu.. Composition: bust portrait, 3/4 angle, expressive face. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Lão Vương (man) from 'Tu Chân Bốn Vạn Năm'. Role: distinctive character. Description: Chủ cửa hàng đồ cũ Lão Vương, cựu đại sư cải tạo pháp bảo ẩn dật, đối xử rất tốt và thường xuyên giúp đỡ Lý Diệu.. Manifesting power: Kinh nghiệm tu chân phong phú, Đánh giá bảo vật, Chế tạo pháp bảo. Setting: Tu chân cơ giáp vũ trụ thế giới khoa học kỹ thuật hiện đại.. First appears in {'chapter': 3, 'context': 'Lý Diệu đến bán quang mạc nghi cải tiến tại cửa hàng đồ cũ'}. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
         "portrait_slot": "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/characters/l_o_v_ng_portrait.png",
         "scene_slot": "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/characters/l_o_v_ng_scene.png",
         "asset_candidates": [],
@@ -153,26 +173,6 @@
     },
     {
       "id": "",
-      "name_original": "李耀",
-      "name_translated": "Lý Diệu",
-      "gender": "male",
-      "role": "secondary",
-      "status": "active",
-      "first_appearance": "{'chapter': 0, 'context': ''}",
-      "description_vi": "Nhân vật chính, học sinh Trường trung học số hai trực thuộc Xích Tiêu Phái, biệt hiệu 'Thốc Thứu' (Kền Kền), giỏi nhặt và sửa chữa pháp bảo phế thải.",
-      "personality": "",
-      "abilities": "",
-      "illustration": {
-        "portrait_prompt": "Portrait of Lý Diệu, a man character from 'Tu Chân Bốn Vạn Năm'. Role: supporting character, distinct silhouette. Character context: Nhân vật chính, học sinh Trường trung học số hai trực thuộc Xích Tiêu Phái, biệt hiệu 'Thốc Thứu' (Kền Kền), giỏi nhặt và sửa chữa pháp bảo phế thải.. Composition: bust portrait, 3/4 angle, expressive face. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. High detail, professional illustration, no text or watermarks.",
-        "scene_prompt": "Full-body scene illustration of Lý Diệu (man) from 'Tu Chân Bốn Vạn Năm'. Role: supporting character, distinct silhouette. Description: Nhân vật chính, học sinh Trường trung học số hai trực thuộc Xích Tiêu Phái, biệt hiệu 'Thốc Thứu' (Kền Kền), giỏi nhặt và sửa chữa pháp bảo phế thải.. Setting: Tu chân cơ giáp vũ trụ thế giới khoa học kỹ thuật hiện đại.. First appears in {'chapter': 0, 'context': ''}. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
-        "portrait_slot": "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/characters/l_di_u_portrait.png",
-        "scene_slot": "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/characters/l_di_u_scene.png",
-        "asset_candidates": [],
-        "status": "prompt_ready"
-      }
-    },
-    {
-      "id": "",
       "name_original": "陆音希",
       "name_translated": "Lục Âm Hi",
       "gender": "female",
@@ -192,21 +192,41 @@
       }
     },
     {
-      "id": "",
+      "id": "ally_manh_giang",
       "name_original": "孟江",
       "name_translated": "Mạnh Giang",
+      "gender": "male",
+      "role": "ally",
+      "status": "active",
+      "first_appearance": "{'chapter': 4, 'context': 'Ngồi cạnh Lý Diệu nói chuyện về Bành Hải'}",
+      "description_vi": "Bạn học thân thiết của Lý Diệu thuộc lớp thường tại trường Xích Tiêu Nhị Trung.",
+      "personality": "",
+      "abilities": "Lý thuyết tu chân cơ bản",
+      "illustration": {
+        "portrait_prompt": "Portrait of Mạnh Giang, a man character from 'Tu Chân Bốn Vạn Năm'. Role: loyal bearing, trustworthy expression, supportive posture. Character context: Bạn học thân thiết của Lý Diệu thuộc lớp thường tại trường Xích Tiêu Nhị Trung.. Composition: bust portrait, 3/4 angle, expressive face. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Mạnh Giang (man) from 'Tu Chân Bốn Vạn Năm'. Role: loyal bearing, trustworthy expression, supportive posture. Description: Bạn học thân thiết của Lý Diệu thuộc lớp thường tại trường Xích Tiêu Nhị Trung.. Manifesting power: Lý thuyết tu chân cơ bản. Setting: Tu chân cơ giáp vũ trụ thế giới khoa học kỹ thuật hiện đại.. First appears in {'chapter': 4, 'context': 'Ngồi cạnh Lý Diệu nói chuyện về Bành Hải'}. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/characters/m_nh_giang_portrait.png",
+        "scene_slot": "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/characters/m_nh_giang_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "",
+      "name_original": "鱼肠道人",
+      "name_translated": "Ngư Trường đạo nhân",
       "gender": "male",
       "role": "secondary",
       "status": "active",
       "first_appearance": "{'chapter': 0, 'context': ''}",
-      "description_vi": "Bạn học thân thiết của Lý Diệu thuộc lớp thường tại trường Xích Tiêu Nhị Trung.",
+      "description_vi": "Trưởng lão của Bách Luyện Tông, sư phụ truyền dạy pháp thuật cho Âu Dã Minh.",
       "personality": "",
       "abilities": "",
       "illustration": {
-        "portrait_prompt": "Portrait of Mạnh Giang, a man character from 'Tu Chân Bốn Vạn Năm'. Role: supporting character, distinct silhouette. Character context: Bạn học thân thiết của Lý Diệu thuộc lớp thường tại trường Xích Tiêu Nhị Trung.. Composition: bust portrait, 3/4 angle, expressive face. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. High detail, professional illustration, no text or watermarks.",
-        "scene_prompt": "Full-body scene illustration of Mạnh Giang (man) from 'Tu Chân Bốn Vạn Năm'. Role: supporting character, distinct silhouette. Description: Bạn học thân thiết của Lý Diệu thuộc lớp thường tại trường Xích Tiêu Nhị Trung.. Setting: Tu chân cơ giáp vũ trụ thế giới khoa học kỹ thuật hiện đại.. First appears in {'chapter': 0, 'context': ''}. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
-        "portrait_slot": "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/characters/m_nh_giang_portrait.png",
-        "scene_slot": "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/characters/m_nh_giang_scene.png",
+        "portrait_prompt": "Portrait of Ngư Trường đạo nhân, a man character from 'Tu Chân Bốn Vạn Năm'. Role: supporting character, distinct silhouette. Character context: Trưởng lão của Bách Luyện Tông, sư phụ truyền dạy pháp thuật cho Âu Dã Minh.. Composition: bust portrait, 3/4 angle, expressive face. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Ngư Trường đạo nhân (man) from 'Tu Chân Bốn Vạn Năm'. Role: supporting character, distinct silhouette. Description: Trưởng lão của Bách Luyện Tông, sư phụ truyền dạy pháp thuật cho Âu Dã Minh.. Setting: Tu chân cơ giáp vũ trụ thế giới khoa học kỹ thuật hiện đại.. First appears in {'chapter': 0, 'context': ''}. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/characters/ng_tr_ng_o_nh_n_portrait.png",
+        "scene_slot": "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/characters/ng_tr_ng_o_nh_n_scene.png",
         "asset_candidates": [],
         "status": "prompt_ready"
       }
@@ -253,18 +273,38 @@
     },
     {
       "id": "",
-      "name_original": "司佳雪",
-      "name_translated": "Tiêu Giai Tuyết",
-      "gender": "female",
+      "name_original": "太阿上人",
+      "name_translated": "Thái A thượng nhân",
+      "gender": "male",
       "role": "secondary",
       "status": "active",
       "first_appearance": "{'chapter': 0, 'context': ''}",
-      "description_vi": "Nữ thần học đường tại Xích Tiêu Nhị Trung, học sinh lớp trọng điểm có gia cảnh hiển hách, độ khai phát linh căn 71%, xếp thứ nhất khối.",
+      "description_vi": "Tông chủ đời thứ 35 của Bách Luyện Tông, nhạc phụ của Âu Dã Minh.",
       "personality": "",
       "abilities": "",
       "illustration": {
-        "portrait_prompt": "Portrait of Tiêu Giai Tuyết, a woman character from 'Tu Chân Bốn Vạn Năm'. Role: supporting character, distinct silhouette. Character context: Nữ thần học đường tại Xích Tiêu Nhị Trung, học sinh lớp trọng điểm có gia cảnh hiển hách, độ khai phát linh căn 71%, xếp thứ nhất khối.. Composition: bust portrait, 3/4 angle, expressive face. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. High detail, professional illustration, no text or watermarks.",
-        "scene_prompt": "Full-body scene illustration of Tiêu Giai Tuyết (woman) from 'Tu Chân Bốn Vạn Năm'. Role: supporting character, distinct silhouette. Description: Nữ thần học đường tại Xích Tiêu Nhị Trung, học sinh lớp trọng điểm có gia cảnh hiển hách, độ khai phát linh căn 71%, xếp thứ nhất khối.. Setting: Tu chân cơ giáp vũ trụ thế giới khoa học kỹ thuật hiện đại.. First appears in {'chapter': 0, 'context': ''}. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_prompt": "Portrait of Thái A thượng nhân, a man character from 'Tu Chân Bốn Vạn Năm'. Role: supporting character, distinct silhouette. Character context: Tông chủ đời thứ 35 của Bách Luyện Tông, nhạc phụ của Âu Dã Minh.. Composition: bust portrait, 3/4 angle, expressive face. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Thái A thượng nhân (man) from 'Tu Chân Bốn Vạn Năm'. Role: supporting character, distinct silhouette. Description: Tông chủ đời thứ 35 của Bách Luyện Tông, nhạc phụ của Âu Dã Minh.. Setting: Tu chân cơ giáp vũ trụ thế giới khoa học kỹ thuật hiện đại.. First appears in {'chapter': 0, 'context': ''}. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/characters/th_i_a_th_ng_nh_n_portrait.png",
+        "scene_slot": "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/characters/th_i_a_th_ng_nh_n_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "npc_tieu_giai_tuyet",
+      "name_original": "司佳雪",
+      "name_translated": "Tiêu Giai Tuyết",
+      "gender": "female",
+      "role": "quest_giver",
+      "status": "active",
+      "first_appearance": "{'chapter': 7, 'context': 'Đạt đồng hạng nhất khối thi thử và gặp Lý Diệu ở nhà kho cũ'}",
+      "description_vi": "Xinh đẹp như hoa, làn da trắng ngần, phong thái thanh tao quý phái.",
+      "personality": "",
+      "abilities": "Luyện khí thuật cơ bản, Tinh não Quảng Lăng số 7",
+      "illustration": {
+        "portrait_prompt": "Portrait of Tiêu Giai Tuyết, a woman character from 'Tu Chân Bốn Vạn Năm'. Role: distinctive character. Visual traits: beautiful striking features. Character context: Xinh đẹp như hoa, làn da trắng ngần, phong thái thanh tao quý phái.. Composition: bust portrait, 3/4 angle, expressive face. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Tiêu Giai Tuyết (woman) from 'Tu Chân Bốn Vạn Năm'. Role: distinctive character. Visual: beautiful striking features. Description: Xinh đẹp như hoa, làn da trắng ngần, phong thái thanh tao quý phái.. Manifesting power: Luyện khí thuật cơ bản, Tinh não Quảng Lăng số 7. Setting: Tu chân cơ giáp vũ trụ thế giới khoa học kỹ thuật hiện đại.. First appears in {'chapter': 7, 'context': 'Đạt đồng hạng nhất khối thi thử và gặp Lý Diệu ở nhà kho cũ'}. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
         "portrait_slot": "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/characters/ti_u_giai_tuy_t_portrait.png",
         "scene_slot": "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/characters/ti_u_giai_tuy_t_scene.png",
         "asset_candidates": [],
@@ -307,6 +347,46 @@
         "scene_prompt": "Full-body scene illustration of Triệu Thụ Đức (man) from 'Tu Chân Bốn Vạn Năm'. Role: supporting character, distinct silhouette. Description: Hiệu trưởng trường Xích Tiêu Nhị Trung, đệ tử cốt lõi của Xích Tiêu Phái, tu vi Luyện Khí Kỳ cao giai, học sinh hay gọi lén là 'Triệu đầu hói'.. Setting: Tu chân cơ giáp vũ trụ thế giới khoa học kỹ thuật hiện đại.. First appears in {'chapter': 0, 'context': ''}. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
         "portrait_slot": "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/characters/tri_u_th_c_portrait.png",
         "scene_slot": "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/characters/tri_u_th_c_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "",
+      "name_original": "赵馆长",
+      "name_translated": "Triệu quán chủ",
+      "gender": "male",
+      "role": "secondary",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Thường gọi là \"Lão giáo quan\", trạc độ 40-50 tuổi, cựu chiến binh của Đoàn Sói. Từng đạt Luyện Khí Kỳ tầng 13 nhưng bị mất cánh tay trái và vỡ tim 70% trong Chiến dịch Hắc Nhẫn để cứu Bành Hải, hiện dùng cánh tay máy linh năng và điều hành võ quán.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Triệu quán chủ, a man character from 'Tu Chân Bốn Vạn Năm'. Role: supporting character, distinct silhouette. Character context: Thường gọi là \"Lão giáo quan\", trạc độ 40-50 tuổi, cựu chiến binh của Đoàn Sói. Từng đạt Luyện Khí Kỳ tầng 13 nhưng bị mất cánh tay trái và vỡ tim 70% trong Chiến dịch Hắc Nhẫn để . Composition: bust portrait, 3/4 angle, expressive face. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Triệu quán chủ (man) from 'Tu Chân Bốn Vạn Năm'. Role: supporting character, distinct silhouette. Description: Thường gọi là \"Lão giáo quan\", trạc độ 40-50 tuổi, cựu chiến binh của Đoàn Sói. Từng đạt Luyện Khí Kỳ tầng 13 nhưng bị mất cánh tay trái và vỡ tim 70% trong Chiến dịch Hắc Nhẫn để cứu Bành Hải, hiện d. Setting: Tu chân cơ giáp vũ trụ thế giới khoa học kỹ thuật hiện đại.. First appears in {'chapter': 0, 'context': ''}. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/characters/tri_u_qu_n_ch_portrait.png",
+        "scene_slot": "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/characters/tri_u_qu_n_ch_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "",
+      "name_original": "郑东明",
+      "name_translated": "Trịnh Đông Minh",
+      "gender": "male",
+      "role": "secondary",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Đích tôn đời thứ ba của nhà họ Trịnh, độ khai phát linh căn 74%, là học sinh ưu tú và ứng cử viên Thủ khoa, có bối cảnh mạnh mẽ và thực lực cao hơn Hách Liên Liệt. Có bọng mắt sưng tấy và đôi mắt như mắt mèo.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Trịnh Đông Minh, a man character from 'Tu Chân Bốn Vạn Năm'. Role: supporting character, distinct silhouette. Visual traits: sưng eyes. Character context: Đích tôn đời thứ ba của nhà họ Trịnh, độ khai phát linh căn 74%, là học sinh ưu tú và ứng cử viên Thủ khoa, có bối cảnh mạnh mẽ và thực lực cao hơn Hách Liên Liệt. Có bọng mắt sưng. Composition: bust portrait, 3/4 angle, expressive face. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Trịnh Đông Minh (man) from 'Tu Chân Bốn Vạn Năm'. Role: supporting character, distinct silhouette. Visual: sưng eyes. Description: Đích tôn đời thứ ba của nhà họ Trịnh, độ khai phát linh căn 74%, là học sinh ưu tú và ứng cử viên Thủ khoa, có bối cảnh mạnh mẽ và thực lực cao hơn Hách Liên Liệt. Có bọng mắt sưng tấy và đôi mắt như . Setting: Tu chân cơ giáp vũ trụ thế giới khoa học kỹ thuật hiện đại.. First appears in {'chapter': 0, 'context': ''}. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/characters/tr_nh_ng_minh_portrait.png",
+        "scene_slot": "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/characters/tr_nh_ng_minh_scene.png",
         "asset_candidates": [],
         "status": "prompt_ready"
       }
@@ -367,6 +447,26 @@
         "scene_prompt": "Full-body scene illustration of Đế Hoàng (man) from 'Tu Chân Bốn Vạn Năm'. Role: supporting character, distinct silhouette. Visual: shadow energy, darkness aura. Description: Vị thủ lĩnh tối cao huyền thoại dẫn dắt nhân loại lật đổ ách thống trị của Yêu tộc ở cuối Đại Hắc Ám Thời Đại.. Setting: Tu chân cơ giáp vũ trụ thế giới khoa học kỹ thuật hiện đại.. First appears in {'chapter': 0, 'context': ''}. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
         "portrait_slot": "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/characters/ho_ng_portrait.png",
         "scene_slot": "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/characters/ho_ng_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "",
+      "name_original": "毒龙真君",
+      "name_translated": "Độc Long chân nhân",
+      "gender": "male",
+      "role": "secondary",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Ma đạo cự kiêu bị Âu Dã Minh trảm sát bằng bí kiếm Thâm Thiểm.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Độc Long chân nhân, a man character from 'Tu Chân Bốn Vạn Năm'. Role: supporting character, distinct silhouette. Character context: Ma đạo cự kiêu bị Âu Dã Minh trảm sát bằng bí kiếm Thâm Thiểm.. Composition: bust portrait, 3/4 angle, expressive face. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Độc Long chân nhân (man) from 'Tu Chân Bốn Vạn Năm'. Role: supporting character, distinct silhouette. Description: Ma đạo cự kiêu bị Âu Dã Minh trảm sát bằng bí kiếm Thâm Thiểm.. Setting: Tu chân cơ giáp vũ trụ thế giới khoa học kỹ thuật hiện đại.. First appears in {'chapter': 0, 'context': ''}. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/characters/c_long_ch_n_nh_n_portrait.png",
+        "scene_slot": "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/characters/c_long_ch_n_nh_n_scene.png",
         "asset_candidates": [],
         "status": "prompt_ready"
       }

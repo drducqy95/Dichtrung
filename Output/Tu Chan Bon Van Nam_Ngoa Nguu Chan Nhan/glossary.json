@@ -3,8 +3,8 @@
     "version": "2.0",
     "schema": "gold",
     "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
-    "last_updated": "2026-05-30T04:57:22.185570+07:00",
-    "total_entries": 99
+    "last_updated": "2026-05-30T05:46:32.448271+07:00",
+    "total_entries": 139
   },
   "entries": [
     {
@@ -995,6 +995,406 @@
       "context": "",
       "confidence": "medium",
       "notes": "Cấp bậc tạp dịch cao hơn tạp dịch cấp thấp trong Bách Luyện Tông.",
+      "locked": false
+    },
+    {
+      "source": "金石木",
+      "source_language": "zh",
+      "target": "Kim Thạch Mộc",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Loại gỗ cứng như vàng đá ở Bách Luyện Tông",
+      "locked": false
+    },
+    {
+      "source": "锻天锤",
+      "source_language": "zh",
+      "target": "Đoán Thiên Chùy",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Chiếc búa lớn của tạp dịch Bách Luyện Tông",
+      "locked": false
+    },
+    {
+      "source": "鱼肠道人",
+      "source_language": "zh",
+      "target": "Ngư Trường đạo nhân",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Trưởng lão Bách Luyện Tông, sư phụ của Âu Dã Minh",
+      "locked": false
+    },
+    {
+      "source": "太阿上人",
+      "source_language": "zh",
+      "target": "Thái A thượng nhân",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tông chủ đời thứ 35 của Bách Luyện Tông",
+      "locked": false
+    },
+    {
+      "source": "深闪",
+      "source_language": "zh",
+      "target": "Thâm Thiểm",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Bí kiếm do Âu Dã Minh chế tạo",
+      "locked": false
+    },
+    {
+      "source": "毒龙真君",
+      "source_language": "zh",
+      "target": "Độc Long chân nhân",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Ma đạo cự kiêu bị Âu Dã Minh chém giết",
+      "locked": false
+    },
+    {
+      "source": "百里吞龙",
+      "source_language": "zh",
+      "target": "Bách Lý Thôn Long",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Cự kiếm bá đạo của Âu Dã Minh",
+      "locked": false
+    },
+    {
+      "source": "万剑古冢",
+      "source_language": "zh",
+      "target": "Vạn Kiếm Cổ Mộ",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thánh địa của Bách Luyện Tông",
+      "locked": false
+    },
+    {
+      "source": "光阴大阵",
+      "source_language": "zh",
+      "target": "Quang Âm đại trận",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Trận pháp truyền tống xuyên việt thời gian của Âu Dã Tử",
+      "locked": false
+    },
+    {
+      "source": "万象搜索",
+      "source_language": "zh",
+      "target": "Vạn Tượng Tìm Kiếm",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Trang tìm kiếm thông tin linh năng",
+      "locked": false
+    },
+    {
+      "source": "万象派",
+      "source_language": "zh",
+      "target": "Vạn Tượng Phái",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Môn phái phát triển trò chơi tu chân",
+      "locked": false
+    },
+    {
+      "source": "夺舍",
+      "source_language": "zh",
+      "target": "đoạt xá",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Hành vi cướp đoạt thể xác của tu sĩ khác bằng thần hồn",
+      "locked": false
+    },
+    {
+      "source": "特别税",
+      "source_language": "zh",
+      "target": "thuế đặc biệt",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Loại thuế đánh trên thu nhập tu chân",
+      "locked": false
+    },
+    {
+      "source": "星空巨兽",
+      "source_language": "zh",
+      "target": "Tinh Không Cự Thú",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Loại thịt hộp giá rẻ làm từ sinh vật lai",
+      "locked": false
+    },
+    {
+      "source": "鲸吞大法",
+      "source_language": "zh",
+      "target": "Kình Thôn Đại Pháp",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Kỹ thuật ăn uống hấp thụ linh năng",
+      "locked": false
+    },
+    {
+      "source": "巨灵神",
+      "source_language": "zh",
+      "target": "Cự Linh Thần",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tổng giáo đầu tạp dịch của Bách Luyện Tông",
+      "locked": false
+    },
+    {
+      "source": "司佳雪",
+      "source_language": "zh",
+      "target": "Tiêu Giai Tuyết",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Nữ sinh cùng trường",
+      "locked": false
+    },
+    {
+      "source": "隐冬湖",
+      "source_language": "zh",
+      "target": "Hồ Ẩn Đông",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một trong bảy hồ nhân tạo tại khu Thượng Đông",
+      "locked": false
+    },
+    {
+      "source": "隐湖小境",
+      "source_language": "zh",
+      "target": "Ẩn Hồ Tiểu Cảnh",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Nhà hàng buffet cao cấp",
+      "locked": false
+    },
+    {
+      "source": "不记名金灵通卡",
+      "source_language": "zh",
+      "target": "Thẻ Vàng Linh Thông vô danh",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thẻ tiền tệ không ghi danh",
+      "locked": false
+    },
+    {
+      "source": "郑东明",
+      "source_language": "zh",
+      "target": "Trịnh Đông Minh",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Trịnh thiếu, đích tôn nhà họ Trịnh",
+      "locked": false
+    },
+    {
+      "source": "凤山门附属第二高中",
+      "source_language": "zh",
+      "target": "Trường trung học phổ thông trực thuộc số hai Phụng Sơn Môn",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Trường đối thủ của Xích Tiêu Nhị Trung",
+      "locked": false
+    },
+    {
+      "source": "浮戈城娱乐日刊",
+      "source_language": "zh",
+      "target": "Phù Qua Thành Giải Trí Nhật San",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một tờ báo giải trí ở Phù Qua Thành",
+      "locked": false
+    },
+    {
+      "source": "第五十九号区域",
+      "source_language": "zh",
+      "target": "Khu 59",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Khu phố ẩm thực tại chợ quỷ ngầm Phù Qua Thành",
+      "locked": false
+    },
+    {
+      "source": "鬼饮食",
+      "source_language": "zh",
+      "target": "Quỷ ẩm thực",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Các món ăn đường phố chế biến từ nguyên liệu không rõ nguồn gốc tại chợ quỷ ngầm",
+      "locked": false
+    },
+    {
+      "source": "虬龙山寨",
+      "source_language": "zh",
+      "target": "Cù Long Sơn Trại",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thành phố hỗn loạn nhất ở biên giới phía nam, nơi khởi nguồn của các loại hàng nhái (sơn trại)",
+      "locked": false
+    },
+    {
+      "source": "天骄之路",
+      "source_language": "zh",
+      "target": "Con Đường Thiên Kiêu",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một loại thuốc tăng cường chuyên dùng cho thi đại học",
+      "locked": false
+    },
+    {
+      "source": "纹面符",
+      "source_language": "zh",
+      "target": "Văn Diện Phù",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một loại linh phù mặt nạ dùng để tạo hoa văn thay đổi diện mạo",
+      "locked": false
+    },
+    {
+      "source": "第六十三区",
+      "source_language": "zh",
+      "target": "Khu 63",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Khu vực cung cấp linh năng của chợ quỷ ngầm",
+      "locked": false
+    },
+    {
+      "source": "军道杀狼",
+      "source_language": "zh",
+      "target": "Quân Đạo Sát Lang",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một võ quán tu luyện nằm sâu trong Khu 63",
+      "locked": false
+    },
+    {
+      "source": "彭海",
+      "source_language": "zh",
+      "target": "Bành Hải",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Yêu Đao Bành Hải, tu sĩ Trúc Cơ Kỳ, thần tượng giới trẻ",
+      "locked": false
+    },
+    {
+      "source": "老教官",
+      "source_language": "zh",
+      "target": "Lão giáo quan",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Triệu quán chủ, quản lý võ quán Quân Đạo Sát Lang",
+      "locked": false
+    },
+    {
+      "source": "妖刀",
+      "source_language": "zh",
+      "target": "Yêu Đao",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Biệt danh của Bành Hải",
+      "locked": false
+    },
+    {
+      "source": "黑刃行动",
+      "source_language": "zh",
+      "target": "Chiến dịch Hắc Nhẫn",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một chiến dịch quân sự trong quá khứ",
+      "locked": false
+    },
+    {
+      "source": "狼团",
+      "source_language": "zh",
+      "target": "Đoàn Sói",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một đơn vị quân đội liên bang",
+      "locked": false
+    },
+    {
+      "source": "结丹",
+      "source_language": "zh",
+      "target": "Kết Đan",
+      "category": "level",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Cảnh giới tu chân sau Trúc Cơ",
+      "locked": false
+    },
+    {
+      "source": "铁龟",
+      "source_language": "zh",
+      "target": "Thiết Quy",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Rùa Sắt, biệt danh của một kim bài bồi luyện ẩn danh",
+      "locked": false
+    },
+    {
+      "source": "第五套健身体操",
+      "source_language": "zh",
+      "target": "Bài thể dục nhịp điệu số năm",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Bài thể dục cơ bản của Liên bang",
+      "locked": false
+    },
+    {
+      "source": "第九套健身体操",
+      "source_language": "zh",
+      "target": "Bài thể dục nhịp điệu số chín",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Bài thể dục của Liên bang",
+      "locked": false
+    },
+    {
+      "source": "旋风捶杀",
+      "source_language": "zh",
+      "target": "Toàn Phong Chùy Sát",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thức thứ 94 trong Phách Phong Loạn Chùy Pháp",
       "locked": false
     }
   ]

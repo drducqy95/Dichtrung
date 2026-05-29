@@ -222,6 +222,11 @@ def build_context_pack(
         "Tuân thủ locked glossary",
         "Tuân thủ relationship_graph",
         "Giữ ngữ pháp tiếng Việt tự nhiên",
+        "PHẢI điền worldbuilding_updates (factions, locations, techniques, items mới)",
+        "PHẢI viết chapter_summary tóm tắt 2-3 câu",
+        "PHẢI viết timeline_entry với summary, characters, plot_points",
+        "new_characters_discovered PHẢI có đầy đủ: gender, age_group, description chi tiết",
+        "Tuân thủ narrator_pronoun_guide khi chọn đại từ ngôi 3",
     ]
 
     # Add config-specific constraints
@@ -272,6 +277,7 @@ def build_context_pack(
         "relationship_graph": resolve_pronouns(
             source_text, pronouns, active_characters
         ),
+        "narrator_pronoun_guide": config.get("narrator_pronoun_guide", {}),
         "worldbuilding_notes": filter_worldbuilding(source_text, worldbuilding),
         "hard_constraints": hard_constraints,
         "built_at": now_iso(),

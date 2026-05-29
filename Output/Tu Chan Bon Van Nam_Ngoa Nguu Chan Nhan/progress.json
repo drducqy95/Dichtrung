@@ -1,5 +1,5 @@
 {
-  "completed_chapters": 10,
+  "completed_chapters": 22,
   "chapters": [
     {
       "chapter_number": 1,
@@ -60,9 +60,81 @@
       "title": "Âm Hồn Nhập Thể",
       "status": "DONE",
       "last_updated": "2026-05-30T04:57:22.211402+07:00"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Tựa Như Ảo Mộng",
+      "status": "DONE",
+      "last_updated": "2026-05-30T05:22:14.101260+07:00"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Sướng Đến Bay Lên",
+      "status": "DONE",
+      "last_updated": "2026-05-30T05:22:48.981269+07:00"
+    },
+    {
+      "chapter_number": 13,
+      "title": "Ngạ Quỷ Đầu Thai",
+      "status": "DONE",
+      "last_updated": "2026-05-30T05:28:31.109875+07:00"
+    },
+    {
+      "chapter_number": 14,
+      "title": "Ẩn Hồ Tiểu Cảnh",
+      "status": "DONE",
+      "last_updated": "2026-05-30T05:32:05.649993+07:00"
+    },
+    {
+      "chapter_number": 15,
+      "title": "Không Biết Sống Chết",
+      "status": "DONE",
+      "last_updated": "2026-05-30T05:33:16.442608+07:00"
+    },
+    {
+      "chapter_number": 16,
+      "title": "Một Con Hải Sâm",
+      "status": "DONE",
+      "last_updated": "2026-05-30T05:35:13.525708+07:00"
+    },
+    {
+      "chapter_number": 17,
+      "title": "Bà Chị Chợ Quỷ",
+      "status": "DONE",
+      "last_updated": "2026-05-30T05:36:27.205998+07:00"
+    },
+    {
+      "chapter_number": 18,
+      "title": "Thuốc Tăng Cường",
+      "status": "DONE",
+      "last_updated": "2026-05-30T05:38:11.930369+07:00"
+    },
+    {
+      "chapter_number": 19,
+      "title": "Quân Đạo Sát Lang",
+      "status": "DONE",
+      "last_updated": "2026-05-30T05:40:08.488417+07:00"
+    },
+    {
+      "chapter_number": 20,
+      "title": "Nam Sinh Tập Thể Dục",
+      "status": "DONE",
+      "last_updated": "2026-05-30T05:41:18.776692+07:00"
+    },
+    {
+      "chapter_number": 21,
+      "title": "Bốn Phần Trăm",
+      "status": "DONE",
+      "last_updated": "2026-05-30T05:46:32.456375+07:00"
+    },
+    {
+      "chapter_number": 22,
+      "title": "Hãy Cho Cậu Ta Ăn No",
+      "status": "DONE",
+      "last_updated": "2026-05-30T05:52:59.919484+07:00"
     }
   ],
-  "last_updated": "2026-05-30T04:57:34+07:00",
+  "last_updated": "2026-05-30T06:04:32+07:00",
   "workflow_artifacts": {
     "branch_readme": "README.md",
     "converter_db_ready": true,

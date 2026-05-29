@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 13,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan\\0013 - 13.第13章 饿鬼投胎.md",
+  "source_char_count": 2708,
+  "characters": [
+    {
+      "source": "能量",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "塞，吸收食物中蕴藏的能量！”\n\n“修炼到极致",
+        "分解，转化成最基础的能量，源源不断供给到干涸"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "source": "可是这门",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "，尚有一丝补救余地，可是这门《鲸吞大法》要是练不"
+      ]
+    },
+    {
+      "source": "学会",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "，就是一个‘吃’字，学会‘吃饭’，是成为修真"
+      ]
+    },
+    {
+      "source": "直接吞噬天地灵能——那是高阶修士才能运用的玄妙法门",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "吸星吞月，辟谷修真，直接吞噬天地灵能——那是高阶修士才能运用的玄妙法门，不是你们这些废物能"
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "source": "到时候我就金山银海",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "大师，都是易如反掌！到时候我就金山银海，香车美女，受万人敬"
+      ]
+    }
+  ],
+  "realms": [],
+  "techniques": [
+    "上不轻不重锤了两拳",
+    "你们怎么吃饭的功法",
+    "冲黑翼剑",
+    "发出拳",
+    "士才能运用的玄妙法",
+    "如果有办法",
+    "成为修真者的第一步",
+    "扭着剑",
+    "拍着地板让黑翼剑",
+    "握紧拳",
+    "李耀攥紧拳",
+    "百零八手披风乱锤法",
+    "这门百炼宗镇山秘法",
+    "都是易如反掌",
+    "随意刺出七八拳",
+    "鲸吞大法",
+    "黑翼剑",
+    "黑翼剑一阵"
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "晶脑",
+      "target": "Tinh não"
+    },
+    {
+      "source": "小黑",
+      "target": "Tiểu Hắc"
+    },
+    {
+      "source": "黑翼",
+      "target": "Hắc Dực"
+    },
+    {
+      "source": "百炼宗",
+      "target": "Bách Luyện Tông"
+    },
+    {
+      "source": "一百零八手披风乱锤法",
+      "target": "Một trăm lẻ tám thức Phách Phong Loạn Chùy Pháp"
+    }
+  ],
+  "generated_at": "2026-05-30T05:27:02.555950+07:00"
+}

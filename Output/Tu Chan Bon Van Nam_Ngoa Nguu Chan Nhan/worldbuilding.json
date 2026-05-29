@@ -1,11 +1,249 @@
 {
-  "factions": [],
-  "weapons": [],
-  "techniques": [],
-  "cultivation_systems": [],
-  "cultivation_resources": [],
-  "power_ranking": [],
-  "locations": [],
+  "factions": [
+    {
+      "name_source": "百炼宗",
+      "name_target": "Bách Luyện Tông",
+      "type": "Tông môn cổ đại",
+      "description": "Tông phái luyện khí cổ đại cực kỳ hùng mạnh trong Hồng Hoang Đại Thế Giới, nổi tiếng với kỹ thuật rèn luyện thủ công thâm sâu và quy củ khắc nghiệt."
+    },
+    {
+      "name_source": "赤霄派",
+      "name_target": "Xích Tiêu Phái",
+      "type": "Tông môn hiện đại",
+      "description": "Tông môn tu chân có tầm ảnh hưởng lớn tại Phù Qua Thành, quản lý và tài trợ cho trường trung học Xích Tiêu Nhị Trung."
+    },
+    {
+      "name_source": "天琴门",
+      "name_target": "Thiên Cầm Môn",
+      "type": "Tông môn cổ đại",
+      "description": "Môn phái cổ xưa chuyên chế tạo các pháp bảo cơ cấu và nhạc khí lượng tử linh năng, nổi tiếng với dòng tinh não cổ 'Quảng Lăng'."
+    },
+    {
+      "name_source": "魔道",
+      "name_target": "Ma đạo",
+      "type": "Tông môn đối lập",
+      "description": "Các tông phái tu luyện ma công tàn bạo, đối đầu sinh tử với Bách Luyện Tông và chính đạo thế giới cổ đại."
+    },
+    {
+      "name_source": "万象派",
+      "name_target": "Vạn Tượng Phái",
+      "type": "Môn phái giải trí",
+      "description": "Môn phái nổi tiếng với các sản phẩm giải trí và trò chơi ảo thần niệm tại Tinh Diệu Liên Bang."
+    },
+    {
+      "name_source": "凤山门附属第二高中",
+      "name_target": "Trường trung học phổ thông trực thuộc số hai Phụng Sơn Môn",
+      "type": "Trường học",
+      "description": "Một trường trung học phổ thông uy tín ở Phù Qua Thành, đối thủ cạnh tranh của Xích Tiêu Nhị Trung, nơi Trịnh Đông Minh đang theo học."
+    },
+    {
+      "name_source": "浮戈城娱乐日刊",
+      "name_target": "Phù Qua Thành Giải Trí Nhật San",
+      "type": "Cơ quan báo chí",
+      "description": "Một tòa soạn báo chuyên đưa tin tức giải trí, giật gân ở Phù Qua Thành."
+    },
+    {
+      "name_source": "军道杀狼",
+      "name_target": "Quân Đạo Sát Lang",
+      "type": "Võ quán",
+      "description": "Một cơ sở tu luyện nằm lẩn khuất ở khu vực 63 tồi tàn của chợ quỷ ngầm."
+    },
+    {
+      "name_source": "狼团",
+      "name_target": "Đoàn Sói",
+      "type": "Quân đội",
+      "description": "Một đơn vị quân đội dũng mãnh của Tinh Diệu Liên bang, từng tham gia các chiến dịch sinh tử ở vùng hoang dã yêu thú."
+    }
+  ],
+  "weapons": [
+    {
+      "name_source": "小黑",
+      "name_target": "Tiểu Hắc",
+      "type": "Phi kiếm / Tinh khí phế thải",
+      "description": "Thanh phi kiếm rách nát, nhỏ bé Lý Diệu nhặt được và coi như thú cưng/người bạn trò chuyện. Sau này lộ ra là di vật 'Hắc Dực' cực kỳ tinh xảo mà Lão cha để lại."
+    }
+  ],
+  "techniques": [
+    {
+      "name_source": "一百零八式劈风乱锤法",
+      "name_target": "Một trăm lẻ tám thức Phách Phong Loạn Chùy Pháp",
+      "type": "Công pháp cơ bản / Quyền pháp rèn",
+      "description": "Môn chùy pháp cơ bản dùng để rèn luyện sức mạnh, độ bền bỉ cơ bắp cho các tạp dịch Bách Luyện Tông. Mỗi ngày yêu cầu vung búa đủ một vạn lần."
+    },
+    {
+      "name_source": "灵蛇身法",
+      "name_target": "Linh Xà Thân Pháp",
+      "type": "Thân pháp cơ bản",
+      "description": "Thân pháp giả lập hoạt động của loài rắn để di chuyển, luồn lách và tránh né đòn tấn công trong bối cảnh thực chiến học đường."
+    },
+    {
+      "name_source": "劈风乱锤法 (189手)",
+      "name_target": "Phách Phong Loạn Chùy Pháp (189 thức)",
+      "type": "Kỹ thuật rèn luyện tiến hóa",
+      "description": "Phiên bản nâng cấp tiến hóa của Phách Phong Loạn Chùy Pháp do Âu Dã Minh tự mình hoàn thiện nâng cấp."
+    },
+    {
+      "name_source": "联邦冥修术",
+      "name_target": "Minh tưởng thuật Liên bang",
+      "type": "Kỹ thuật minh tưởng",
+      "description": "Kỹ thuật minh tưởng đưa ý thức vào trạng thái thời gian chậm để tôi luyện linh hồn và nâng cao độ khai phát linh căn."
+    },
+    {
+      "name_source": "鲸吞大法",
+      "name_target": "Kình Thôn Đại Pháp",
+      "type": "Kỹ pháp tu chân",
+      "description": "Bí pháp trấn sơn của Bách Luyện Tông chuyên dùng cho tạp dịch cấp thấp để hấp thụ nhanh chóng và triệt để linh năng từ thức ăn."
+    },
+    {
+      "name_source": "第五套健身体操",
+      "name_target": "Bài thể dục nhịp điệu số năm",
+      "type": "Thể dục",
+      "description": "Bài tập thể dục cơ bản nhất do các chuyên gia tu luyện của Tinh Diệu Liên bang thiết kế, được dạy cho học sinh tiểu học để giãn gân cốt."
+    },
+    {
+      "name_source": "一百零八手披风乱锤法",
+      "name_target": "Một trăm lẻ tám thức Phách Phong Loạn Chùy Pháp",
+      "type": "Võ kỹ / Luyện khí",
+      "description": "Một loại võ kỹ dùng búa tạ vừa để chiến đấu vừa để rèn đúc của Bách Luyện Tông, Lý Diệu học được từ ký ức của Cự Linh Thần."
+    }
+  ],
+  "cultivation_systems": [
+    {
+      "name": "Khai phát Linh Căn (灵根开发度)",
+      "description": "Chỉ số biểu thị độ hoạt hóa của linh căn trong cơ thể. Đạt 100% sẽ thức tỉnh hoàn toàn để bước chân vào Luyện Khí Kỳ."
+    },
+    {
+      "name": "Luyện Khí Kỳ (炼气期)",
+      "description": "Cảnh giới đầu tiên của Tu Chân Giả, bắt đầu hấp thu linh khí thiên địa vào cơ thể để ngưng tụ linh năng."
+    },
+    {
+      "name": "Trúc Cơ Kỳ (筑基期)",
+      "description": "Cảnh giới thứ hai, thắp sáng đạo cơ linh lực, thân thể hóa phàm vi tiên, thực lực tăng vọt so với Luyện Khí Kỳ."
+    }
+  ],
+  "cultivation_resources": [
+    {
+      "name_source": "强化药剂",
+      "name_target": "Dược chất cường hóa Linh Căn",
+      "type": "Linh dược",
+      "description": "Dược chất hóa học kết hợp linh thảo để kích thích đại não thức tỉnh linh căn. Thuốc lậu chợ đen có giá rẻ hơn nhưng mang lại tác dụng phụ cực kỳ đau đớn và nguy hiểm."
+    },
+    {
+      "name_source": "天骄之路",
+      "name_target": "Con Đường Thiên Kiêu",
+      "type": "Linh dược",
+      "description": "Tên một loại thuốc tăng cường linh căn nổi tiếng dành cho thanh thiếu niên ôn thi đại học."
+    }
+  ],
+  "power_ranking": [
+    "Học sinh trung học (Chưa khai phá / Phàm nhân)",
+    "Bán Tu Chân Giả (Linh căn khai phát cao nhưng chưa thức tỉnh)",
+    "Luyện Khí Kỳ (Sơ cấp, Trung cấp, Cao cấp, Đỉnh phong)",
+    "Trúc Cơ Kỳ (Huyền thoại như Bành Hải)",
+    "Kim Đan Kỳ",
+    "Nguyên Anh Kỳ",
+    "Hóa Thần Kỳ"
+  ],
+  "locations": [
+    {
+      "name_source": "法宝坟墓",
+      "name_target": "Nghĩa địa Pháp Bảo",
+      "type": "Khu vực phế thải",
+      "description": "Bãi rác pháp bảo khổng lồ ở ngoại ô Phù Qua Thành, nơi chứa hàng triệu tấn linh kiện cơ khí tu chân hỏng hóc và các thùng rác linh năng."
+    },
+    {
+      "name_source": "浮戈城",
+      "name_target": "Phù Qua Thành",
+      "type": "Đô thị tu chân",
+      "description": "Một trong những đại đô thị tu chân hiện đại tại Thiên Nguyên Giới, nổi bật với hệ thống tinh quỹ chạy trên không trung và các quảng trường thương mại linh năng."
+    },
+    {
+      "name_source": "朝阳新村",
+      "name_target": "Triêu Dương Tân Thôn",
+      "type": "Khu ổ chuột",
+      "description": "Khu nhà ổ chuột tồi tàn nằm sát Nghĩa địa Pháp Bảo, nơi tập trung dân nghèo, thợ rác và những kẻ vật lộn ở đáy xã hội."
+    },
+    {
+      "name_source": "百炼宗 (洪荒世界)",
+      "name_target": "Bách Luyện Tông (Hồng Hoang Đại Thế Giới)",
+      "type": "Không gian dị giới / Cổ tu",
+      "description": "Vùng đất huyền thoại nơi ngọn núi lơ lửng trên biển đen Vô Uyên Hải, bối cảnh cổ đại Lý Diệu đi vào qua giấc mơ sau khi bị âm hồn nhập thể."
+    },
+    {
+      "name_source": "万剑古冢",
+      "name_target": "Vạn Kiếm Cổ Mộ",
+      "type": "Thánh địa tông môn",
+      "description": "Khu mộ cổ cất giữ vạn kiếm và là thánh địa của Bách Luyện Tông."
+    },
+    {
+      "name_source": "隐冬湖",
+      "name_target": "Hồ Ẩn Đông",
+      "type": "Hồ nhân tạo",
+      "description": "Hồ nhân tạo lớn nằm ở khu Thượng Đông của Phù Qua Thành, xung quanh có nhiều dịch vụ cao cấp."
+    },
+    {
+      "name_source": "隐湖小境",
+      "name_target": "Ẩn Hồ Tiểu Cảnh",
+      "type": "Nhà hàng",
+      "description": "Nhà hàng buffet cao cấp nằm bên bờ Hồ Ẩn Đông, được thiết kế với phong cảnh rừng trúc và trận pháp tạo tuyết rơi quanh năm."
+    },
+    {
+      "name_source": "第五十九号区域",
+      "name_target": "Khu 59",
+      "type": "Khu thương mại",
+      "description": "Một khu phố ẩm thực nổi tiếng sầm uất nằm trong hệ thống hầm ngầm chợ quỷ của Phù Qua Thành."
+    },
+    {
+      "name_source": "虬龙山寨",
+      "name_target": "Cù Long Sơn Trại",
+      "type": "Thành thị",
+      "description": "Thành phố hỗn loạn đệ nhất Liên bang nằm ở biên giới phía nam, nơi nổi tiếng với các sản phẩm làm nhái (hàng sơn trại)."
+    },
+    {
+      "name_source": "第六十三区",
+      "name_target": "Khu 63",
+      "type": "Khu công nghiệp",
+      "description": "Khu vực cung cấp linh năng trung tâm của chợ quỷ ngầm Phù Qua Thành, nơi tập trung nhiều đường ống rỉ sét và tối tăm."
+    }
+  ],
   "world_map": {},
-  "relationship_diagrams": []
+  "relationship_diagrams": [],
+  "items": [
+    {
+      "name_source": "光阴大阵",
+      "name_target": "Quang Âm đại trận",
+      "type": "Trận pháp truyền tống cổ",
+      "description": "Trận pháp xuyên việt thời gian tối thượng do Âu Dã Tử chế tạo, hấp thu linh năng bạo liệt và dẫn tới tai nạn phát nổ."
+    },
+    {
+      "name_source": "万象搜索",
+      "name_target": "Vạn Tượng Tìm Kiếm",
+      "type": "Cơ cấu mạng tìm kiếm",
+      "description": "Mạng lưới tìm kiếm thông tin và cơ sở dữ liệu phổ biến tại Tinh Diệu Liên Bang."
+    },
+    {
+      "name_source": "星空巨兽肉罐头",
+      "name_target": "Thịt hộp Tinh Không Cự Thú",
+      "type": "Thực phẩm",
+      "description": "Loại thịt hộp giá rẻ, làm từ động vật lai phát triển nhanh, nhiều dầu mỡ và vị tệ nhưng cung cấp năng lượng rất lớn cho dân nghèo."
+    },
+    {
+      "name_source": "不记名金灵通卡",
+      "name_target": "Thẻ Vàng Linh Thông vô danh",
+      "type": "Vật phẩm tiền tệ",
+      "description": "Thẻ ngân hàng ẩn danh có thể nạp rút tiền bằng tinh não hoặc quẹt trực tiếp tại các cửa tiệm tu chân."
+    },
+    {
+      "name_source": "鬼饮食",
+      "name_target": "Quỷ ẩm thực",
+      "type": "Thực phẩm",
+      "description": "Món ăn lề đường ở chợ quỷ ngầm, được chế biến thơm ngon bằng nguyên liệu đáng ngờ và cách thức kì dị, có sức hấp dẫn đặc biệt với cả tu chân giả."
+    },
+    {
+      "name_source": "纹面符",
+      "name_target": "Văn Diện Phù",
+      "type": "Linh phù",
+      "description": "Một loại bùa chú dạng mặt nạ dính lên mặt, tạo ra các hoa văn kỳ dị giúp người dùng ẩn giấu thân phận trong khoảng 10 tiếng đồng hồ, phổ biến ở chợ đen."
+    }
+  ]
 }

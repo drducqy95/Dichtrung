@@ -1,0 +1,144 @@
+{
+  "schema_version": "1.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 12,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan\\0012 - 12.第12章 爽到飞起.md",
+  "source_char_count": 3047,
+  "characters": [
+    {
+      "source": "云散",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "，短短十几年间就烟消云散，彻底灭亡。”\n\n“",
+        "神魂却没那么容易烟消云散，正好遇上我从桥下路"
+      ]
+    },
+    {
+      "source": "宗派",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "世界’曾经鼎盛一时的宗派，以擅长炼器、铸剑、",
+        "炼宗是真实存在的古老宗派，欧冶子也是天纵英才"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "source": "器宗",
+      "entity_type": "organization",
+      "count": 2,
+      "confidence": 0.78,
+      "evidence": [
+        "代宗主欧冶子，号称‘器宗’，是名动一方的炼器"
+      ]
+    },
+    {
+      "source": "百炼宗",
+      "entity_type": "organization",
+      "count": 2,
+      "confidence": 0.78,
+      "evidence": [
+        "面，在搜索框中输入“百炼宗”三个字，轻轻按下“"
+      ]
+    },
+    {
+      "source": "万象派",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "”\n\n“附：在我们‘万象派’开发的最新游戏《古"
+      ]
+    },
+    {
+      "source": "曾经鼎盛一时的宗派",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "域’的‘洪荒大世界’曾经鼎盛一时的宗派，以擅长炼器、铸剑、"
+      ]
+    },
+    {
+      "source": "百炼宗是真实存在的古老宗派",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "案。\n\n“原来如此，百炼宗是真实存在的古老宗派，欧冶子也是天纵英才"
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "source": "中州域",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "典修真时代中期，在‘中州域’的‘洪荒大世界’曾"
+      ]
+    }
+  ],
+  "realms": [],
+  "techniques": [
+    "之而来的是一种无法",
+    "传来阵阵",
+    "军旅诗人的生平和经",
+    "冥修课的老师曾经",
+    "古修世界剑",
+    "号曾经",
+    "在一阵",
+    "够穿梭时光的传送阵",
+    "想都想不到的神奇法",
+    "打造法",
+    "这样的现代大型法"
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "晶脑",
+      "target": "Tinh não"
+    },
+    {
+      "source": "重点班",
+      "target": "lớp trọng điểm"
+    },
+    {
+      "source": "联邦军",
+      "target": "Quân đội Liên bang"
+    },
+    {
+      "source": "灵根",
+      "target": "Linh căn"
+    },
+    {
+      "source": "松果体",
+      "target": "tuyến tùng"
+    },
+    {
+      "source": "灵根开发度",
+      "target": "độ khai phát linh căn"
+    },
+    {
+      "source": "超高速晶轨列车",
+      "target": "tàu tốc hành tinh quỹ siêu tốc"
+    },
+    {
+      "source": "百炼宗",
+      "target": "Bách Luyện Tông"
+    },
+    {
+      "source": "洪荒大世界",
+      "target": "Hồng Hoang Đại Thế Giới"
+    },
+    {
+      "source": "太阿上人",
+      "target": "Thái A thượng nhân"
+    }
+  ],
+  "generated_at": "2026-05-30T05:22:29.561225+07:00"
+}

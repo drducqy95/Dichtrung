@@ -1,7 +1,7 @@
 {
   "metadata": {
     "project_title": "Tu Chân Bốn Vạn Năm",
-    "generated_at": "2026-05-30T04:57:34+07:00"
+    "generated_at": "2026-05-30T06:04:32+07:00"
   },
   "requirements": {
     "toc_required": true,
@@ -17,7 +17,7 @@
       "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/cover/cover.jpeg"
     ],
     "preferred_slot": "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/cover/cover.jpg",
-    "prompt": "Bìa dọc 6x9 cho truyện Tu Chân Bốn Vạn Năm của Ngọa Ngưu Chân Nhân, ưu tiên sắc thái đông phương, sci fi. Bối cảnh: Tu chân cơ giáp vũ trụ thế giới khoa học kỹ thuật hiện đại."
+    "prompt": "Vertical book cover ratio 6:9. Cinematic composition, hyper-detailed, 8k resolution. [BỐ CỤC CHỮ]: The title 'Tu Chân Bốn Vạn Năm' is written in LARGE, massive typography perfectly centered. The author name 'Ngọa Ngưu Chân Nhân' is written in smaller, elegant text neatly placed near the title. Typography style: Epic and modern font. [SẮC THÁI]: đông phương, sci fi. [BỐ CẢNH]: Tu chân cơ giáp vũ trụ thế giới khoa học kỹ thuật hiện đại."
   },
   "sample_chapter": {
     "chapter_number": 1,
@@ -32,7 +32,7 @@
   },
   "character_manifest": {
     "path": "ebook/character_manifest.json",
-    "status": "pending",
-    "total_characters": 0
+    "status": "generated",
+    "total_characters": 23
   }
 }

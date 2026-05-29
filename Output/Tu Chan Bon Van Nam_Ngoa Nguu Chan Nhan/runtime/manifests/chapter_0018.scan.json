@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 18,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan\\0018 - 18.第18章 强化药剂.md",
+  "source_char_count": 2327,
+  "characters": [
+    {
+      "source": "花纹",
+      "entity_type": "person",
+      "count": 3,
+      "confidence": 0.7,
+      "evidence": [
+        "下，交织成一束瑰丽的花纹。\n\n将面膜贴在脸上",
+        "上布满了蜘蛛般的诡异花纹，就算死党孟江站在眼",
+        "”，在脸上催生出独特花纹，根据使用环境不同，"
+      ]
+    },
+    {
+      "source": "后面",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "隔间，果然在隔间大门后面，发现了密密麻麻的几",
+        "详情。”\n\n这条信息后面，印着一个由银丝组成"
+      ]
+    },
+    {
+      "source": "龙混杂",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.82,
+      "evidence": [
+        "食一条街人来人往，鱼龙混杂，厕所的环境十分恶劣",
+        "神圣。\n\n地下鬼城鱼龙混杂，李耀还是第一次和这"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "source": "半开着一扇狭窄的铁门",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "。\n\n在甬道最深处，半开着一扇狭窄的铁门，门上烙印着一头张牙"
+      ]
+    },
+    {
+      "source": "如果真有肥羊上门",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "鹤号码，心里盘算着，如果真有肥羊上门，可以让老王来扮演“"
+      ]
+    },
+    {
+      "source": "山寨派",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "出名号，干脆标注为“山寨派”出品！\n\n随着虬龙"
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "source": "和美食街隔了四个区域",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "\n\n店主留下的地址，和美食街隔了四个区域，大约五里路，李耀加"
+      ]
+    },
+    {
+      "source": "的小镇",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "一座名叫“虬龙山寨”的小镇，终于出现了第一种仿"
+      ]
+    },
+    {
+      "source": "第六十三区是地下鬼市的灵能供应区",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "板会起什么疑心。\n\n第六十三区是地下鬼市的灵能供应区，负责为整座地下要塞"
+      ]
+    },
+    {
+      "source": "自由交流区",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "浮戈城本地论坛中，“自由交流区”的一个帖子。\n\n这"
+      ]
+    }
+  ],
+  "realms": [
+    "炼气"
+  ],
+  "techniques": [
+    "专修各类飞剑",
+    "伴随着一阵",
+    "副作用以及服用方法",
+    "多是在小作坊里非法",
+    "据原料以及炼制方法",
+    "李耀加快脚步",
+    "狠狠宰上一刀",
+    "美女剑",
+    "耀感觉面部肌肉一阵",
+    "门上烙印"
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "浮戈城",
+      "target": "Phù Qua Thành"
+    },
+    {
+      "source": "晶脑",
+      "target": "Tinh não"
+    },
+    {
+      "source": "灵根",
+      "target": "Linh căn"
+    },
+    {
+      "source": "灵根开发度",
+      "target": "độ khai phát linh căn"
+    },
+    {
+      "source": "地下鬼市",
+      "target": "chợ quỷ ngầm"
+    },
+    {
+      "source": "万象搜索",
+      "target": "Vạn Tượng Tìm Kiếm"
+    }
+  ],
+  "generated_at": "2026-05-30T05:36:37.699479+07:00"
+}
