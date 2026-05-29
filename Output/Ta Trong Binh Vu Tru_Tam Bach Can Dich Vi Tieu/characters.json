@@ -1,68 +1,466 @@
-[
-  {
-    "name": "Lý Khanh",
-    "aliases": ["Bác sĩ Lý", "Ngoại Thần", "Tà Thần", "Ác Thần", "Đấng Sáng Thế"],
-    "role": "Nhân vật chính, bác sĩ tâm lý, sở hữu tinh hạch của Ninh Quốc Xương. Chủ nhân của các sa bàn văn minh. Đã đạt tới cảnh giới Thất giác - Bán thần (Vô cấu chi thể).",
-    "first_appearance": "Chương 1"
+{
+  "metadata": {
+    "version": "2.0",
+    "schema": "gold",
+    "branch": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
+    "last_updated": "2026-05-30T04:48:09+07:00",
+    "total_characters": 11,
+    "previous_schema": "legacy"
   },
-  {
-    "name": "Ninh Quốc Xương",
-    "aliases": ["Quân chủ tang thi", "Bàn Cổ", "Thần Sáng Thế"],
-    "role": "Bệnh nhân tâm thần, người đầu tiên thức tỉnh vi sinh vật, đã tự sát. Tinh hạch của ông là khởi nguồn cho sức mạnh của Lý Khanh.",
-    "first_appearance": "Chương 1"
-  },
-  {
-    "name": "Atabia",
-    "aliases": ["Vua Atabia", "Hoàng đế Atabia", "Artabia"],
-    "role": "Thủ lĩnh vương quốc Atabia, kỹ sư vĩ đại nhất, người tiên phong trong việc tiến hóa từ đơn bào lên đa bào.",
-    "first_appearance": "Chương 4"
-  },
-  {
-    "name": "Gerhans",
-    "aliases": ["Gell-Hans"],
-    "role": "Anh hùng vương quốc Atabia, người đã dũng cảm đối mặt với 'Đại hồng thủy cồn'.",
-    "first_appearance": "Chương 4"
-  },
-  {
-    "name": "Suzanne",
-    "aliases": ["Tô San Ni"],
-    "role": "Cô gái hiện đại, hàng xóm của Lý Khanh, tiểu thư nhà giàu, sau này trở thành vật chứa cho Tinh Linh Thánh Nữ.",
-    "first_appearance": "Chương 47"
-  },
-  {
-    "name": "Elise",
-    "aliases": ["Y Lợi Ti", "Aurora", "Âu Nhược Lạp", "Thánh nữ Thâm Uyên", "Ma vương", "Tân Phụ"],
-    "role": "Thánh nữ Thâm Uyên, sau này là Nữ thần Tinh Linh Aurora. Một trong những quyến thuộc mạnh nhất dưới trướng Lý Khanh. Đã hy sinh để giết Cựu Phụ và trở thành 'Tân Phụ' (Mẹ của giới tính).",
-    "first_appearance": "Chương 47"
-  },
-  {
-    "name": "Herodotus",
-    "aliases": ["Hi La Đa Đức"],
-    "role": "Trí giả của Atabia, sau này trở thành vị vua kế nhiệm, người dẫn dắt văn minh Atabia phát triển rực rỡ.",
-    "first_appearance": "Chương 17"
-  },
-  {
-    "name": "Sylph",
-    "aliases": ["Tây Nhĩ Phù"],
-    "role": "Vua của tộc Tinh Linh, người lãnh đạo Tinh Linh quốc. Hiện là Viện trưởng học viện Tinh Linh Ám Dạ, sở hữu Cự thần Naga (siêu máy tính DNA).",
-    "first_appearance": "Chương 72"
-  },
-  {
-    "name": "Tukasi",
-    "aliases": ["Đồ Khắc Tư"],
-    "role": "Cổ lão Ma vương, chúa tể Thâm Uyên đời đầu. Hiện là vị vua ngủ say trong sương mù.",
-    "first_appearance": "Chương 91"
-  },
-  {
-    "name": "Walton",
-    "aliases": ["Oa Đốn"],
-    "role": "Tài phiệt người Mỹ, học trò của Sylph, người đứng đầu nhóm phú hào khám phá Thâm Uyên.",
-    "first_appearance": "Chương 75"
-  },
-  {
-    "name": "Athol",
-    "aliases": ["Asol", "Athol Hahn"],
-    "role": "Siêu cấp thiên tài nghiên cứu nhiệt hạch, học viên khóa 2 của học viện Tinh Linh Ám Dạ.",
-    "first_appearance": "Chương 113"
-  }
-]
+  "characters": [
+    {
+      "id": "C0001",
+      "name_source": "",
+      "name_target": "Lý Khanh",
+      "name_aliases": [
+        "Bác sĩ Lý",
+        "Ngoại Thần",
+        "Tà Thần",
+        "Ác Thần",
+        "Đấng Sáng Thế"
+      ],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "nhân vật chính, bác sĩ tâm lý, sở hữu tinh hạch của ninh quốc xương. chủ nhân của các sa bàn văn minh. đã đạt tới cảnh giới thất giác - bán thần (vô cấu chi thể).",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 1,
+        "context": "Chương 1"
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "C0002",
+      "name_source": "",
+      "name_target": "Ninh Quốc Xương",
+      "name_aliases": [
+        "Quân chủ tang thi",
+        "Bàn Cổ",
+        "Thần Sáng Thế"
+      ],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "bệnh nhân tâm thần, người đầu tiên thức tỉnh vi sinh vật, đã tự sát. tinh hạch của ông là khởi nguồn cho sức mạnh của lý khanh.",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 1,
+        "context": "Chương 1"
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "C0003",
+      "name_source": "",
+      "name_target": "Atabia",
+      "name_aliases": [
+        "Vua Atabia",
+        "Hoàng đế Atabia",
+        "Artabia"
+      ],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "thủ lĩnh vương quốc atabia, kỹ sư vĩ đại nhất, người tiên phong trong việc tiến hóa từ đơn bào lên đa bào.",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 4,
+        "context": "Chương 4"
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "C0004",
+      "name_source": "",
+      "name_target": "Gerhans",
+      "name_aliases": [
+        "Gell-Hans"
+      ],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "anh hùng vương quốc atabia, người đã dũng cảm đối mặt với 'đại hồng thủy cồn'.",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 4,
+        "context": "Chương 4"
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "C0005",
+      "name_source": "",
+      "name_target": "Suzanne",
+      "name_aliases": [
+        "Tô San Ni"
+      ],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "cô gái hiện đại, hàng xóm của lý khanh, tiểu thư nhà giàu, sau này trở thành vật chứa cho tinh linh thánh nữ.",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 47,
+        "context": "Chương 47"
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "C0006",
+      "name_source": "",
+      "name_target": "Elise",
+      "name_aliases": [
+        "Y Lợi Ti",
+        "Aurora",
+        "Âu Nhược Lạp",
+        "Thánh nữ Thâm Uyên",
+        "Ma vương",
+        "Tân Phụ"
+      ],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "thánh nữ thâm uyên, sau này là nữ thần tinh linh aurora. một trong những quyến thuộc mạnh nhất dưới trướng lý khanh. đã hy sinh để giết cựu phụ và trở thành 'tân phụ' (mẹ của giới tính).",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 47,
+        "context": "Chương 47"
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "C0007",
+      "name_source": "",
+      "name_target": "Herodotus",
+      "name_aliases": [
+        "Hi La Đa Đức"
+      ],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "trí giả của atabia, sau này trở thành vị vua kế nhiệm, người dẫn dắt văn minh atabia phát triển rực rỡ.",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 17,
+        "context": "Chương 17"
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "C0008",
+      "name_source": "",
+      "name_target": "Sylph",
+      "name_aliases": [
+        "Tây Nhĩ Phù"
+      ],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "vua của tộc tinh linh, người lãnh đạo tinh linh quốc. hiện là viện trưởng học viện tinh linh ám dạ, sở hữu cự thần naga (siêu máy tính dna).",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 72,
+        "context": "Chương 72"
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "C0009",
+      "name_source": "",
+      "name_target": "Tukasi",
+      "name_aliases": [
+        "Đồ Khắc Tư"
+      ],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "cổ lão ma vương, chúa tể thâm uyên đời đầu. hiện là vị vua ngủ say trong sương mù.",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 91,
+        "context": "Chương 91"
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "C0010",
+      "name_source": "",
+      "name_target": "Walton",
+      "name_aliases": [
+        "Oa Đốn"
+      ],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "tài phiệt người mỹ, học trò của sylph, người đứng đầu nhóm phú hào khám phá thâm uyên.",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 75,
+        "context": "Chương 75"
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "C0011",
+      "name_source": "",
+      "name_target": "Athol",
+      "name_aliases": [
+        "Asol",
+        "Athol Hahn"
+      ],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "siêu cấp thiên tài nghiên cứu nhiệt hạch, học viên khóa 2 của học viện tinh linh ám dạ.",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 113,
+        "context": "Chương 113"
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    }
+  ]
+}

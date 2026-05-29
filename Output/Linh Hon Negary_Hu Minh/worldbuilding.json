@@ -1,6 +1,26 @@
 {
   "factions": [],
-  "power_system": "Linh hồn, Bệnh khuẩn, Ôn dịch",
+  "weapons": [],
+  "techniques": [],
+  "cultivation_systems": "Linh hồn, Bệnh khuẩn, Ôn dịch",
+  "cultivation_resources": [],
+  "power_ranking": {
+    "last_updated_chapter": 0,
+    "notes": "",
+    "ranking": []
+  },
   "locations": [],
-  "artifacts": []
+  "world_map": {
+    "description": "",
+    "generated": false,
+    "image_path": "",
+    "last_updated_chapter": 0,
+    "readiness_score": 0,
+    "scale": ""
+  },
+  "relationship_diagrams": {
+    "character_relationship": [],
+    "faction_relationship": [],
+    "family_tree": []
+  }
 }

@@ -1,87 +1,182 @@
-[
-  {
-    "term": "Vương quốc Atabia",
-    "definition": "Nền văn minh vi sinh vật đầu tiên, được đặt tên theo vương quốc do hoàng đế Atabia lãnh đạo.",
-    "context": "Văn minh vi mô"
+{
+  "metadata": {
+    "version": "2.0",
+    "schema": "gold",
+    "branch": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
+    "last_updated": "2026-05-30T04:48:09+07:00",
+    "total_entries": 17,
+    "previous_schema": "legacy"
   },
-  {
-    "term": "Lục địa Mu",
-    "definition": "Lục địa khổng lồ được xây dựng từ xác các sinh vật đa bào (hình cá), là trung tâm của văn minh Atabia.",
-    "context": "Địa lý"
-  },
-  {
-    "term": "Vách ngăn pha lê",
-    "definition": "Tên gọi của người tí hon dành cho lớp kính ngăn cách thế giới của họ (phòng thí nghiệm) với thế giới bên ngoài.",
-    "context": "Thế giới quan"
-  },
-  {
-    "term": "Tử Tiêu Thần Lôi",
-    "definition": "Tia cực tím (UV) do Lý Khanh giáng xuống, có sức hủy diệt kinh khủng đối với vi sinh vật.",
-    "context": "Thần thuật"
-  },
-  {
-    "term": "Thần chi thổ tức",
-    "definition": "Hơi thở của Thần, thực chất là luồng khí cồn do Lý Khanh xịt vào để sát khuẩn.",
-    "context": "Thần thoại"
-  },
-  {
-    "term": "Cây Thế Giới",
-    "definition": "Một cấu trúc sinh học khổng lồ (World Tree) được xây dựng để gia cố thế giới và là nơi ở của chúng thần.",
-    "context": "Thần thoại"
-  },
-  {
-    "term": "Thâm Uyên",
-    "definition": "Vùng đất tối tăm, nơi ngụ trị của ma thú và các ác thần, thực chất là khu vực chứa chất thải sinh học.",
-    "context": "Địa lý / Thần thoại"
-  },
-  {
-    "term": "Thần cách",
-    "definition": "Hạt nhân sức mạnh (Godhead), thực chất là các bộ não tích hợp hoặc chip sinh học cho phép người tí hon điều khiển các cấu trúc phức tạp.",
-    "context": "Công nghệ / Sức mạnh"
-  },
-  {
-    "term": "Tháp Babel",
-    "definition": "Công trình kiến trúc vĩ đại của người Atabia nhằm vươn tới vách ngăn pha lê và chạm vào thần linh.",
-    "context": "Lịch sử"
-  },
-  {
-    "term": "Cánh cửa Chân lý",
-    "definition": "Cổng kết nối giữa thế giới vi mô và kiến thức thần bí, thường xuất hiện khi một nền văn minh đạt đến đỉnh cao kỹ thuật.",
-    "context": "Thế giới quan"
-  },
-  {
-    "term": "Tinh Linh Cự Thần",
-    "definition": "Cấu trúc sinh học khổng lồ có hình dáng tinh linh, được thiết kế để làm vật chứa cho các vị thần giáng lâm.",
-    "context": "Sinh học / Thần thoại"
-  },
-  {
-    "term": "Lạc viên đã mất",
-    "definition": "Vùng đất khởi đầu của người Atabia, nơi họ từng sống dưới sự che chở trực tiếp của Thần trước khi bị trục xuất.",
-    "context": "Thần thoại"
-  },
-  {
-    "term": "Ma pháp Cơ giới",
-    "definition": "Hệ thống kỹ thuật kết hợp giữa ma pháp và cấu trúc sinh học (piston, xi-lanh, bánh răng) để thay thế máy móc hiện đại.",
-    "context": "Công nghệ"
-  },
-  {
-    "term": "Vô cấu chi thể",
-    "definition": "Thân thể không tì vết, sạch bóng vi sinh vật cộng sinh, đặc trưng của cảnh giới Thất giác - Bán thần.",
-    "context": "Tu luyện"
-  },
-  {
-    "term": "Kỷ nguyên Mùa Đông",
-    "definition": "Thời kỳ băng giá kéo dài trong thế giới vi mô do Lý Khanh hạ nhiệt độ môi trường.",
-    "context": "Thế giới quan"
-  },
-  {
-    "term": "Học viện Tinh Linh Ám Dạ",
-    "definition": "Cơ sở đào tạo phù thủy do Sylph thành lập tại thế giới thực (Số 26 phố cũ Michna).",
-    "context": "Tổ chức"
-  },
-  {
-    "term": "Cái chậu tụ bảo",
-    "definition": "Máy in 3D sinh học khổng lồ dùng để nhân bản các vật phẩm từ thế giới vi mô sang thế giới thực.",
-    "context": "Công nghệ"
-  }
-]
+  "entries": [
+    {
+      "source": "Vương quốc Atabia",
+      "source_language": "zh",
+      "target": "Nền văn minh vi sinh vật đầu tiên, được đặt tên theo vương quốc do hoàng đế Atabia lãnh đạo.",
+      "category": "Văn minh vi mô",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "Lục địa Mu",
+      "source_language": "zh",
+      "target": "Lục địa khổng lồ được xây dựng từ xác các sinh vật đa bào (hình cá), là trung tâm của văn minh Atabia.",
+      "category": "Địa lý",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "Vách ngăn pha lê",
+      "source_language": "zh",
+      "target": "Tên gọi của người tí hon dành cho lớp kính ngăn cách thế giới của họ (phòng thí nghiệm) với thế giới bên ngoài.",
+      "category": "Thế giới quan",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "Tử Tiêu Thần Lôi",
+      "source_language": "zh",
+      "target": "Tia cực tím (UV) do Lý Khanh giáng xuống, có sức hủy diệt kinh khủng đối với vi sinh vật.",
+      "category": "Thần thuật",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "Thần chi thổ tức",
+      "source_language": "zh",
+      "target": "Hơi thở của Thần, thực chất là luồng khí cồn do Lý Khanh xịt vào để sát khuẩn.",
+      "category": "Thần thoại",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "Cây Thế Giới",
+      "source_language": "zh",
+      "target": "Một cấu trúc sinh học khổng lồ (World Tree) được xây dựng để gia cố thế giới và là nơi ở của chúng thần.",
+      "category": "Thần thoại",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "Thâm Uyên",
+      "source_language": "zh",
+      "target": "Vùng đất tối tăm, nơi ngụ trị của ma thú và các ác thần, thực chất là khu vực chứa chất thải sinh học.",
+      "category": "Địa lý / Thần thoại",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "Thần cách",
+      "source_language": "zh",
+      "target": "Hạt nhân sức mạnh (Godhead), thực chất là các bộ não tích hợp hoặc chip sinh học cho phép người tí hon điều khiển các cấu trúc phức tạp.",
+      "category": "Công nghệ / Sức mạnh",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "Tháp Babel",
+      "source_language": "zh",
+      "target": "Công trình kiến trúc vĩ đại của người Atabia nhằm vươn tới vách ngăn pha lê và chạm vào thần linh.",
+      "category": "Lịch sử",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "Cánh cửa Chân lý",
+      "source_language": "zh",
+      "target": "Cổng kết nối giữa thế giới vi mô và kiến thức thần bí, thường xuất hiện khi một nền văn minh đạt đến đỉnh cao kỹ thuật.",
+      "category": "Thế giới quan",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "Tinh Linh Cự Thần",
+      "source_language": "zh",
+      "target": "Cấu trúc sinh học khổng lồ có hình dáng tinh linh, được thiết kế để làm vật chứa cho các vị thần giáng lâm.",
+      "category": "Sinh học / Thần thoại",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "Lạc viên đã mất",
+      "source_language": "zh",
+      "target": "Vùng đất khởi đầu của người Atabia, nơi họ từng sống dưới sự che chở trực tiếp của Thần trước khi bị trục xuất.",
+      "category": "Thần thoại",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "Ma pháp Cơ giới",
+      "source_language": "zh",
+      "target": "Hệ thống kỹ thuật kết hợp giữa ma pháp và cấu trúc sinh học (piston, xi-lanh, bánh răng) để thay thế máy móc hiện đại.",
+      "category": "Công nghệ",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "Vô cấu chi thể",
+      "source_language": "zh",
+      "target": "Thân thể không tì vết, sạch bóng vi sinh vật cộng sinh, đặc trưng của cảnh giới Thất giác - Bán thần.",
+      "category": "Tu luyện",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "Kỷ nguyên Mùa Đông",
+      "source_language": "zh",
+      "target": "Thời kỳ băng giá kéo dài trong thế giới vi mô do Lý Khanh hạ nhiệt độ môi trường.",
+      "category": "Thế giới quan",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "Học viện Tinh Linh Ám Dạ",
+      "source_language": "zh",
+      "target": "Cơ sở đào tạo phù thủy do Sylph thành lập tại thế giới thực (Số 26 phố cũ Michna).",
+      "category": "Tổ chức",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "Cái chậu tụ bảo",
+      "source_language": "zh",
+      "target": "Máy in 3D sinh học khổng lồ dùng để nhân bản các vật phẩm từ thế giới vi mô sang thế giới thực.",
+      "category": "Công nghệ",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    }
+  ]
+}

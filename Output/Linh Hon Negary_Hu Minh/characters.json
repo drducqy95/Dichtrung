@@ -1,818 +1,3189 @@
 {
   "metadata": {
-    "version": "1.0",
-    "project": "Linh Hồn Negary",
-    "last_updated": "2026-05-13T08:37:00+07:00"
+    "version": "2.0",
+    "schema": "gold",
+    "branch": "Linh Hon Negary_Hu Minh",
+    "last_updated": "2026-05-30T04:48:09+07:00",
+    "total_characters": 83,
+    "previous_schema": "legacy"
   },
   "characters": [
     {
       "id": "char_001",
       "name_source": "王渊",
       "name_target": "Vương Uyên",
+      "name_aliases": [],
       "gender": "male",
-      "role": "protagonist",
-      "description": "Nhân vật chính, xuyên không và bị hệ thống hãm hại trở thành tàn hồn.",
-      "status": "active"
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "protagonist",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Nhân vật chính, xuyên không và bị hệ thống hãm hại trở thành tàn hồn.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Nhân vật chính, xuyên không và bị hệ thống hãm hại trở thành tàn hồn."
     },
     {
       "id": "char_002",
       "name_source": "奈格里",
       "name_target": "Negary",
+      "name_aliases": [],
       "gender": "neutral",
-      "role": "identity",
-      "description": "Danh hiệu/Thần danh mà Vương Uyên sử dụng sau khi trở thành tàn hồn.",
-      "status": "active"
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "identity",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Danh hiệu/Thần danh mà Vương Uyên sử dụng sau khi trở thành tàn hồn.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Danh hiệu/Thần danh mà Vương Uyên sử dụng sau khi trở thành tàn hồn."
     },
     {
-      "name_original": "达克思",
-      "name_translated": "Dacus",
-      "gender": "nam",
-      "role": "Phụ",
-      "description": "Thợ săn râu rậm người Cosi.",
-      "notes": "Trưởng bối của Komoro."
+      "id": "C0003",
+      "name_source": "达克思",
+      "name_target": "Dacus",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Thợ săn râu rậm người Cosi.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Thợ săn râu rậm người Cosi. | Trưởng bối của Komoro."
     },
     {
-      "name_original": "科摩罗",
-      "name_translated": "Komoro",
-      "gender": "nam",
-      "role": "Phụ",
-      "description": "Thợ săn trẻ tuổi người Cosi.",
-      "notes": ""
+      "id": "C0004",
+      "name_source": "科摩罗",
+      "name_target": "Komoro",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Thợ săn trẻ tuổi người Cosi.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Thợ săn trẻ tuổi người Cosi."
     },
     {
-      "name_original": "梅纳斯",
-      "name_translated": "Menas",
-      "gender": "nữ",
-      "role": "Thần linh",
-      "description": "Nữ thần Vận Rủi (Goddess of Misfortune) của người Cosi.",
-      "notes": ""
+      "id": "C0005",
+      "name_source": "梅纳斯",
+      "name_target": "Menas",
+      "name_aliases": [],
+      "gender": "female",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "thần linh",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Nữ thần Vận Rủi (Goddess of Misfortune) của người Cosi.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Nữ thần Vận Rủi (Goddess of Misfortune) của người Cosi."
     },
     {
-      "name_original": "奈克",
-      "name_translated": "Naik",
-      "gender": "nam",
-      "role": "Phụ",
-      "description": "Thành viên đội săn người Cosi, người đầu tiên bị Negary giết.",
-      "notes": ""
+      "id": "C0006",
+      "name_source": "奈克",
+      "name_target": "Naik",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Thành viên đội săn người Cosi, người đầu tiên bị Negary giết.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Thành viên đội săn người Cosi, người đầu tiên bị Negary giết."
     },
     {
-      "name_original": "瑞尔斯",
-      "name_translated": "Riels",
-      "gender": "nữ",
-      "role": "Thần linh",
-      "description": "Nữ thần May Mắn (Goddess of Luck) của người Cosi.",
-      "notes": ""
+      "id": "C0007",
+      "name_source": "瑞尔斯",
+      "name_target": "Riels",
+      "name_aliases": [],
+      "gender": "female",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "thần linh",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Nữ thần May Mắn (Goddess of Luck) của người Cosi.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Nữ thần May Mắn (Goddess of Luck) của người Cosi."
     },
     {
-      "name_original": "赫尔罗",
-      "name_translated": "Herro",
-      "gender": "nam",
-      "role": "Thần linh",
-      "description": "Vị thần Sức Mạnh (God of Strength) của người Cosi.",
-      "notes": ""
+      "id": "C0008",
+      "name_source": "赫尔罗",
+      "name_target": "Herro",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "thần linh",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Vị thần Sức Mạnh (God of Strength) của người Cosi.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Vị thần Sức Mạnh (God of Strength) của người Cosi."
     },
     {
-      "name_original": "嫩枝女神",
-      "name_translated": "Men",
-      "gender": "nữ",
-      "role": "Thần linh",
-      "description": "Nữ thần Mầm Non (Goddess of New Life/Buds) của người Cosi.",
-      "notes": ""
+      "id": "C0009",
+      "name_source": "嫩枝女神",
+      "name_target": "Men",
+      "name_aliases": [],
+      "gender": "female",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "thần linh",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Nữ thần Mầm Non (Goddess of New Life/Buds) của người Cosi.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Nữ thần Mầm Non (Goddess of New Life/Buds) của người Cosi."
     },
     {
-      "name_original": "布雷德",
-      "name_translated": "Brad",
-      "gender": "nam",
-      "role": "Phụ",
-      "description": "Thành viên đội săn người Cosi, hy sinh bản thân để bẫy lũ quạ của Negary.",
-      "notes": "",
-      "pending_sync": false
+      "id": "C0010",
+      "name_source": "布雷德",
+      "name_target": "Brad",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Thành viên đội săn người Cosi, hy sinh bản thân để bẫy lũ quạ của Negary.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Thành viên đội săn người Cosi, hy sinh bản thân để bẫy lũ quạ của Negary."
     },
     {
-      "name_original": "雅克",
-      "name_translated": "Jacques Dacusmi",
-      "gender": "nam",
-      "role": "Thứ chính",
-      "description": "Đội trưởng đội hộ vệ làng người Cosi, bạn thân của Dacus.",
-      "notes": "Đã bị tế phẩm.",
-      "pending_sync": false
+      "id": "C0011",
+      "name_source": "雅克",
+      "name_target": "Jacques Dacusmi",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "thứ chính",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Đội trưởng đội hộ vệ làng người Cosi, bạn thân của Dacus.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Đội trưởng đội hộ vệ làng người Cosi, bạn thân của Dacus. | Đã bị tế phẩm."
     },
     {
-      "name_original": "村长",
-      "name_translated": "Trưởng làng",
-      "gender": "nam",
-      "role": "Phụ",
-      "description": "Trưởng làng người Cosi, bị Vương Uyên ám hại bằng chuột biến dị để lập uy.",
-      "notes": "Đã chết.",
-      "pending_sync": false
+      "id": "C0012",
+      "name_source": "村长",
+      "name_target": "Trưởng làng",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Trưởng làng người Cosi, bị Vương Uyên ám hại bằng chuột biến dị để lập uy.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Trưởng làng người Cosi, bị Vương Uyên ám hại bằng chuột biến dị để lập uy. | Đã chết."
     },
     {
-      "name_original": "伊莎贝拉",
-      "name_translated": "Isabella",
-      "gender": "nữ",
-      "role": "Phụ",
-      "description": "Vợ của Jacques, người gia tộc Tagore, tín đồ Thần Ân giáo.",
-      "notes": "",
-      "pending_sync": false
+      "id": "C0013",
+      "name_source": "伊莎贝拉",
+      "name_target": "Isabella",
+      "name_aliases": [],
+      "gender": "female",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Vợ của Jacques, người gia tộc Tagore, tín đồ Thần Ân giáo.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Vợ của Jacques, người gia tộc Tagore, tín đồ Thần Ân giáo."
     },
     {
-      "name_original": "娜拉",
-      "name_translated": "Nara",
-      "gender": "nữ",
-      "role": "Thứ chính",
-      "description": "Con gái của Jacques và Isabella, Thánh nữ cứu thế, Long chi nữ.",
-      "notes": "Huyết mạch Tagore.",
-      "pending_sync": false
+      "id": "C0014",
+      "name_source": "娜拉",
+      "name_target": "Nara",
+      "name_aliases": [],
+      "gender": "female",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "thứ chính",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Con gái của Jacques và Isabella, Thánh nữ cứu thế, Long chi nữ.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Con gái của Jacques và Isabella, Thánh nữ cứu thế, Long chi nữ. | Huyết mạch Tagore."
     },
     {
-      "name_original": "村长的孙女",
-      "name_translated": "Cháu gái trưởng làng",
-      "gender": "nữ",
-      "role": "Phụ",
-      "description": "Bị Nal-beast cắn và bị Vương Uyên giết chết để trừ hậu họa.",
-      "notes": "Đã chết.",
-      "pending_sync": false
+      "id": "C0015",
+      "name_source": "村长的孙女",
+      "name_target": "Cháu gái trưởng làng",
+      "name_aliases": [],
+      "gender": "female",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Bị Nal-beast cắn và bị Vương Uyên giết chết để trừ hậu họa.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Bị Nal-beast cắn và bị Vương Uyên giết chết để trừ hậu họa. | Đã chết."
     },
     {
-      "name_original": "森",
-      "name_translated": "Sen",
-      "gender": "nam",
-      "role": "Phụ",
-      "description": "Thành viên đội hộ vệ đột kích, bạn thuở nhỏ của Komoro, từng làm bị thương một con quạ.",
-      "notes": "",
-      "pending_sync": false
+      "id": "C0016",
+      "name_source": "森",
+      "name_target": "Sen",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Thành viên đội hộ vệ đột kích, bạn thuở nhỏ của Komoro, từng làm bị thương một con quạ.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Thành viên đội hộ vệ đột kích, bạn thuở nhỏ của Komoro, từng làm bị thương một con quạ."
     },
     {
       "id": "char_003",
-      "name_original": "奥斯古丁",
-      "name_translated": "Osgoodin",
-      "aliases": [
+      "name_source": "奥斯古丁",
+      "name_target": "Osgoodin",
+      "name_aliases": [
         "Osgood"
       ],
-      "gender": "nam",
-      "role": "Thứ chính",
-      "description": "Giám mục Thần Ân giáo, người ủy thác và bạn của Chris Modo.",
-      "status": "active"
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "thứ chính",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Giám mục Thần Ân giáo, người ủy thác và bạn của Chris Modo.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Giám mục Thần Ân giáo, người ủy thác và bạn của Chris Modo."
     },
     {
       "id": "char_004",
-      "name_original": "革洛斯克",
-      "name_translated": "Groske",
-      "gender": "nam",
-      "role": "Phụ",
-      "description": "Đại diện thương nhân Intercam, hỗ trợ hậu cần cho liên minh.",
-      "status": "active"
+      "name_source": "革洛斯克",
+      "name_target": "Groske",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Đại diện thương nhân Intercam, hỗ trợ hậu cần cho liên minh.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Đại diện thương nhân Intercam, hỗ trợ hậu cần cho liên minh."
     },
     {
       "id": "char_005",
-      "name_original": "杰森·托德",
-      "name_translated": "Jason Todd",
-      "gender": "nam",
-      "role": "Phụ",
-      "description": "Lính đánh thuê tàn bạo, báo thù cho gia đình bị hải tặc giết hại.",
-      "status": "active"
+      "name_source": "杰森·托德",
+      "name_target": "Jason Todd",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Lính đánh thuê tàn bạo, báo thù cho gia đình bị hải tặc giết hại.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Lính đánh thuê tàn bạo, báo thù cho gia đình bị hải tặc giết hại."
     },
     {
       "id": "char_006",
-      "name_original": "路恩·多纳",
-      "name_translated": "Luen Donna",
-      "aliases": [
+      "name_source": "路恩·多纳",
+      "name_target": "Luen Donna",
+      "name_aliases": [
         "Luen Dona"
       ],
-      "gender": "nam",
-      "role": "Phụ",
-      "description": "Đệ tử của Osgoodin, mục sư có tham vọng cải tổ Thần Ân giáo.",
-      "status": "active"
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Đệ tử của Osgoodin, mục sư có tham vọng cải tổ Thần Ân giáo.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Đệ tử của Osgoodin, mục sư có tham vọng cải tổ Thần Ân giáo."
     },
     {
       "id": "char_007",
-      "name_original": "迈尔森",
-      "name_translated": "Mylson",
-      "aliases": [
+      "name_source": "迈尔森",
+      "name_target": "Mylson",
+      "name_aliases": [
         "Myson"
       ],
-      "gender": "nam",
-      "role": "Phụ",
-      "description": "Thần Ân kỵ sĩ trẻ tuổi, xuất thân từ khu ổ chuột.",
-      "status": "active"
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Thần Ân kỵ sĩ trẻ tuổi, xuất thân từ khu ổ chuột.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Thần Ân kỵ sĩ trẻ tuổi, xuất thân từ khu ổ chuột."
     },
     {
       "id": "char_008",
-      "name_original": "斯米克·兰彻",
-      "name_translated": "Smic Lancher",
-      "aliases": [
+      "name_source": "斯米克·兰彻",
+      "name_target": "Smic Lancher",
+      "name_aliases": [
         "Smik Lancher"
       ],
-      "gender": "nam",
-      "role": "Thứ chính",
-      "description": "Cao thủ vương quốc Royas, kế thừa Quang chi lưu pháp.",
-      "status": "active"
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "thứ chính",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Cao thủ vương quốc Royas, kế thừa Quang chi lưu pháp.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Cao thủ vương quốc Royas, kế thừa Quang chi lưu pháp."
     },
     {
       "id": "char_009",
-      "name_original": "艾尔德里奇",
-      "name_translated": "Aldrich",
-      "aliases": [
+      "name_source": "艾尔德里奇",
+      "name_target": "Aldrich",
+      "name_aliases": [
         "Eldridge",
         "Eldritch"
       ],
-      "gender": "nam",
-      "role": "Thứ chính",
-      "description": "Quốc vương vĩ đại của Royas, một vị minh quân độc tài đầy tham vọng.",
-      "status": "active"
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "thứ chính",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Quốc vương vĩ đại của Royas, một vị minh quân độc tài đầy tham vọng.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Quốc vương vĩ đại của Royas, một vị minh quân độc tài đầy tham vọng."
     },
     {
       "id": "char_010",
-      "name_original": "里弗斯",
-      "name_translated": "Rivers",
-      "aliases": [
+      "name_source": "里弗斯",
+      "name_target": "Rivers",
+      "name_aliases": [
         "Reavers"
       ],
-      "gender": "nam",
-      "role": "Phụ",
-      "description": "Thần Ân kỵ sĩ sử dụng Hy sinh ân tứ trong trận chiến cấm địa.",
-      "status": "active"
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Thần Ân kỵ sĩ sử dụng Hy sinh ân tứ trong trận chiến cấm địa.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Thần Ân kỵ sĩ sử dụng Hy sinh ân tứ trong trận chiến cấm địa."
     },
     {
       "id": "char_011",
-      "name_original": "德莎",
-      "name_translated": "Desha",
-      "gender": "nữ",
-      "role": "Phản diện",
-      "description": "Nữ Crow Men thực dụng, coi mình là bậc thang của Negary.",
-      "status": "active"
+      "name_source": "德莎",
+      "name_target": "Desha",
+      "name_aliases": [],
+      "gender": "female",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phản diện",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Nữ Crow Men thực dụng, coi mình là bậc thang của Negary.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Nữ Crow Men thực dụng, coi mình là bậc thang của Negary."
     },
     {
       "id": "char_012",
-      "name_original": "瑟斯一世",
-      "name_translated": "Seth I",
-      "aliases": [
+      "name_source": "瑟斯一世",
+      "name_target": "Seth I",
+      "name_aliases": [
         "Sers I",
         "Seth đệ nhất",
         "Sese I"
       ],
-      "gender": "nam",
-      "role": "Thứ chính",
-      "description": "Quốc vương Intercam, người khơi mào nội loạn vương thất.",
-      "status": "active"
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "thứ chính",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Quốc vương Intercam, người khơi mào nội loạn vương thất.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Quốc vương Intercam, người khơi mào nội loạn vương thất."
     },
     {
-      "name_original": "莱斯·拉瓦尔",
-      "name_translated": "Les Laval",
-      "gender": "nam",
-      "role": "Thứ chính",
-      "description": "Quý tộc sa sút, người hỗ trợ Nara, có tài mưu lược.",
-      "notes": "Được Negary chú ý.",
-      "pending_sync": false
+      "id": "C0027",
+      "name_source": "莱斯·拉瓦尔",
+      "name_target": "Les Laval",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "thứ chính",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Quý tộc sa sút, người hỗ trợ Nara, có tài mưu lược.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Quý tộc sa sút, người hỗ trợ Nara, có tài mưu lược. | Được Negary chú ý."
     },
     {
-      "name_original": "谟尔莉斯",
-      "name_translated": "Morlis",
-      "aliases": [
+      "id": "C0028",
+      "name_source": "谟尔莉斯",
+      "name_target": "Morlis",
+      "name_aliases": [
         "Mollis"
       ],
-      "gender": "nữ",
-      "role": "Phản diện",
-      "description": "Tiểu thư quý tộc lãnh địa Scoro, bị Heals biến thành Tà Linh Đoạt Thủ giả.",
-      "notes": "Morlis Bất Khả Trắc.",
-      "pending_sync": false
+      "gender": "female",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phản diện",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Tiểu thư quý tộc lãnh địa Scoro, bị Heals biến thành Tà Linh Đoạt Thủ giả.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Tiểu thư quý tộc lãnh địa Scoro, bị Heals biến thành Tà Linh Đoạt Thủ giả. | Morlis Bất Khả Trắc."
     },
     {
-      "name_original": "艾米",
-      "name_translated": "Amy",
-      "gender": "nữ",
-      "role": "Phụ",
-      "description": "Thị nữ của Morlis, bị Heals giết để làm tế phẩm.",
-      "notes": "Đã chết.",
-      "pending_sync": false
+      "id": "C0029",
+      "name_source": "艾米",
+      "name_target": "Amy",
+      "name_aliases": [],
+      "gender": "female",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Thị nữ của Morlis, bị Heals giết để làm tế phẩm.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Thị nữ của Morlis, bị Heals giết để làm tế phẩm. | Đã chết."
     },
     {
-      "name_original": "艾伦·威尔斯",
-      "name_translated": "Alan Wells",
-      "gender": "nam",
-      "role": "Phụ",
-      "description": "Nguyên soái quân đội Intercam, trấn thủ Colomier.",
-      "notes": "",
-      "pending_sync": false
+      "id": "C0030",
+      "name_source": "艾伦·威尔斯",
+      "name_target": "Alan Wells",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Nguyên soái quân đội Intercam, trấn thủ Colomier.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Nguyên soái quân đội Intercam, trấn thủ Colomier."
     },
     {
-      "name_original": "卡达",
-      "name_translated": "Cada",
-      "aliases": [
+      "id": "C0031",
+      "name_source": "卡达",
+      "name_target": "Cada",
+      "name_aliases": [
         "Kada"
       ],
-      "gender": "nam",
-      "role": "Phản diện",
-      "description": "Quý tộc Royas, chỉ huy quân vây hãm Colomier.",
-      "notes": "",
-      "pending_sync": false
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phản diện",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Quý tộc Royas, chỉ huy quân vây hãm Colomier.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Quý tộc Royas, chỉ huy quân vây hãm Colomier."
     },
     {
-      "name_original": "阿尔克斯·鲁伊",
-      "name_translated": "Alkes Rui",
-      "aliases": [
+      "id": "C0032",
+      "name_source": "阿尔克斯·鲁伊",
+      "name_target": "Alkes Rui",
+      "name_aliases": [
         "Arks Rui"
       ],
-      "gender": "nam",
-      "role": "Phụ",
-      "description": "Hiệp sĩ Intercam, người kế thừa Cương Lưu Pháp, thần phục Nara.",
-      "notes": "",
-      "pending_sync": false
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Hiệp sĩ Intercam, người kế thừa Cương Lưu Pháp, thần phục Nara.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Hiệp sĩ Intercam, người kế thừa Cương Lưu Pháp, thần phục Nara."
     },
     {
-      "name_original": "左宇肖",
-      "name_translated": "Tả Vũ Tiếu",
-      "gender": "nam",
-      "role": "Phụ",
-      "description": "Người bị nhiễm mầm bệnh, bị Khoa Đối ứng truy nã.",
-      "notes": "",
-      "pending_sync": false
+      "id": "C0033",
+      "name_source": "左宇肖",
+      "name_target": "Tả Vũ Tiếu",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Người bị nhiễm mầm bệnh, bị Khoa Đối ứng truy nã.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Người bị nhiễm mầm bệnh, bị Khoa Đối ứng truy nã."
     },
     {
-      "name_original": "杰克 / 杀手J",
-      "name_translated": "Jack / Sát Thủ J",
-      "gender": "nam",
-      "role": "Thứ chính",
-      "description": "Cấu trúc linh hồn được tạo từ Jack và phó hồn của Negary, hành động bất khả dự trắc.",
-      "notes": "Đệ nhất thiên tài Đội quân Quỷ Nhân.",
-      "pending_sync": false
+      "id": "C0034",
+      "name_source": "杰克 / 杀手J",
+      "name_target": "Jack / Sát Thủ J",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "thứ chính",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Cấu trúc linh hồn được tạo từ Jack và phó hồn của Negary, hành động bất khả dự trắc.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Cấu trúc linh hồn được tạo từ Jack và phó hồn của Negary, hành động bất khả dự trắc. | Đệ nhất thiên tài Đội quân Quỷ Nhân."
     },
     {
-      "name_original": "王昭",
-      "name_translated": "Vương Chiêu",
-      "gender": "nam",
-      "role": "Phản diện",
-      "description": "Kẻ sở hữu Quyền Bính Tội Ác Chi Tai, đang bị Khoa Đối ứng truy nã.",
-      "notes": "",
-      "pending_sync": false
+      "id": "C0035",
+      "name_source": "王昭",
+      "name_target": "Vương Chiêu",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phản diện",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Kẻ sở hữu Quyền Bính Tội Ác Chi Tai, đang bị Khoa Đối ứng truy nã.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Kẻ sở hữu Quyền Bính Tội Ác Chi Tai, đang bị Khoa Đối ứng truy nã."
     },
     {
-      "name_original": "万恒阳",
-      "name_translated": "Vạn Hằng Dương",
-      "gender": "nam",
-      "role": "Phụ",
-      "description": "Người cha đau khổ tìm công lý cho con gái trong 19 năm, bắt đầu thức tỉnh Tai Ách chi lực.",
-      "notes": "",
-      "pending_sync": false
+      "id": "C0036",
+      "name_source": "万恒阳",
+      "name_target": "Vạn Hằng Dương",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Người cha đau khổ tìm công lý cho con gái trong 19 năm, bắt đầu thức tỉnh Tai Ách chi lực.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Người cha đau khổ tìm công lý cho con gái trong 19 năm, bắt đầu thức tỉnh Tai Ách chi lực."
     },
     {
-      "name_original": "赵世昌",
-      "name_translated": "Triệu Thế Xương",
-      "gender": "nam",
-      "role": "Phản diện",
-      "description": "Bác sĩ nắm giữ Quyền Bính Sự Cố Y Tế, kẻ gây ra cái chết cho con gái Vạn Hằng Dương.",
-      "notes": "Được giới quyền quý bảo hộ.",
-      "pending_sync": false
+      "id": "C0037",
+      "name_source": "赵世昌",
+      "name_target": "Triệu Thế Xương",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phản diện",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Bác sĩ nắm giữ Quyền Bính Sự Cố Y Tế, kẻ gây ra cái chết cho con gái Vạn Hằng Dương.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Bác sĩ nắm giữ Quyền Bính Sự Cố Y Tế, kẻ gây ra cái chết cho con gái Vạn Hằng Dương. | Được giới quyền quý bảo hộ."
     },
     {
-      "name_original": "方泽",
-      "name_translated": "Phương Trạch",
-      "gender": "nam",
-      "role": "Thứ chính",
-      "description": "Tân Tai Vương mới thức tỉnh, là một học sinh trung học.",
-      "notes": "Mục tiêu của Vạn Hằng Dương.",
-      "pending_sync": false
+      "id": "C0038",
+      "name_source": "方泽",
+      "name_target": "Phương Trạch",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "thứ chính",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Tân Tai Vương mới thức tỉnh, là một học sinh trung học.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Tân Tai Vương mới thức tỉnh, là một học sinh trung học. | Mục tiêu của Vạn Hằng Dương."
     },
     {
-      "name_original": "小琳",
-      "name_translated": "Tiểu Lâm",
-      "gender": "nữ",
-      "role": "Phụ",
-      "description": "Con gái đã khuất của Vạn Hằng Dương.",
-      "notes": "Đã chết.",
-      "pending_sync": false
+      "id": "C0039",
+      "name_source": "小琳",
+      "name_target": "Tiểu Lâm",
+      "name_aliases": [],
+      "gender": "female",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Con gái đã khuất của Vạn Hằng Dương.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Con gái đã khuất của Vạn Hằng Dương. | Đã chết."
     },
     {
-      "name_original": "流矢",
-      "name_translated": "Lưu Thỉ",
-      "gender": "nữ",
-      "role": "Thứ chính",
-      "description": "Thành viên Khoa Đối ứng, người bảo hộ Phương Trạch, nắm giữ Quyền Bính Lưu Thỉ.",
-      "notes": "",
-      "pending_sync": false
+      "id": "C0040",
+      "name_source": "流矢",
+      "name_target": "Lưu Thỉ",
+      "name_aliases": [],
+      "gender": "female",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "thứ chính",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Thành viên Khoa Đối ứng, người bảo hộ Phương Trạch, nắm giữ Quyền Bính Lưu Thỉ.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Thành viên Khoa Đối ứng, người bảo hộ Phương Trạch, nắm giữ Quyền Bính Lưu Thỉ."
     },
     {
-      "name_original": "巧姐",
-      "name_translated": "Chị Xảo",
-      "gender": "nữ",
-      "role": "Phụ",
-      "description": "Hàng xóm của Phương Trạch, thường giúp đỡ cậu.",
-      "notes": "",
-      "pending_sync": false
+      "id": "C0041",
+      "name_source": "巧姐",
+      "name_target": "Chị Xảo",
+      "name_aliases": [],
+      "gender": "female",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Hàng xóm của Phương Trạch, thường giúp đỡ cậu.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Hàng xóm của Phương Trạch, thường giúp đỡ cậu."
     },
     {
-      "name_original": "流刃",
-      "name_translated": "Lưu Nhận",
-      "gender": "nam",
-      "role": "Phụ",
-      "description": "Thành viên Khoa Đối ứng, đàn anh của Lưu Thỉ, nắm giữ Quyền Bính Lợi Nhận Chi Thương.",
-      "notes": "Kiếm thuật cực kỳ khủng khiếp.",
-      "pending_sync": false
+      "id": "C0042",
+      "name_source": "流刃",
+      "name_target": "Lưu Nhận",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Thành viên Khoa Đối ứng, đàn anh của Lưu Thỉ, nắm giữ Quyền Bính Lợi Nhận Chi Thương.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Thành viên Khoa Đối ứng, đàn anh của Lưu Thỉ, nắm giữ Quyền Bính Lợi Nhận Chi Thương. | Kiếm thuật cực kỳ khủng khiếp."
     },
     {
-      "name_original": "常部长",
-      "name_translated": "Thường Bộ Trưởng",
-      "gender": "nam",
-      "role": "Phản diện",
-      "description": "Người đứng đầu cấp cao của chính phủ, chủ mưu đứng sau kế hoạch thử thách Tai Vương.",
-      "notes": "",
-      "pending_sync": false
+      "id": "C0043",
+      "name_source": "常部长",
+      "name_target": "Thường Bộ Trưởng",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phản diện",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Người đứng đầu cấp cao của chính phủ, chủ mưu đứng sau kế hoạch thử thách Tai Vương.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Người đứng đầu cấp cao của chính phủ, chủ mưu đứng sau kế hoạch thử thách Tai Vương."
     },
     {
-      "name_original": "肖跋傅",
-      "name_translated": "Tiêu Bạt Phó",
-      "gender": "nam",
-      "role": "Phụ",
-      "description": "Nhân viên Khoa Đối ứng, người tham gia bắt giữ Negary.",
-      "notes": "",
-      "pending_sync": false
+      "id": "C0044",
+      "name_source": "肖跋傅",
+      "name_target": "Tiêu Bạt Phó",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Nhân viên Khoa Đối ứng, người tham gia bắt giữ Negary.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Nhân viên Khoa Đối ứng, người tham gia bắt giữ Negary."
     },
     {
-      "name_original": "张子杰",
-      "name_translated": "Trương Tử Kiệt",
-      "gender": "nam",
-      "role": "Phụ",
-      "description": "Nhân viên Khoa Đối ứng, đồng nghiệp của Tiêu Bạt Phó.",
-      "notes": "",
-      "pending_sync": false
+      "id": "C0045",
+      "name_source": "张子杰",
+      "name_target": "Trương Tử Kiệt",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Nhân viên Khoa Đối ứng, đồng nghiệp của Tiêu Bạt Phó.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Nhân viên Khoa Đối ứng, đồng nghiệp của Tiêu Bạt Phó."
     },
     {
-      "name_original": "梁亮",
-      "name_translated": "Lương Lượng",
-      "gender": "nam",
-      "role": "Phụ",
-      "description": "Một người đàn ông quyền quý 70 tuổi, sử dụng dược tề Hắc Nha của Negary để kéo dài tuổi thọ và giữ vẻ trẻ trung.",
-      "notes": "",
-      "pending_sync": false
+      "id": "C0046",
+      "name_source": "梁亮",
+      "name_target": "Lương Lượng",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Một người đàn ông quyền quý 70 tuổi, sử dụng dược tề Hắc Nha của Negary để kéo dài tuổi thọ và giữ vẻ trẻ trung.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Một người đàn ông quyền quý 70 tuổi, sử dụng dược tề Hắc Nha của Negary để kéo dài tuổi thọ và giữ vẻ trẻ trung."
     },
     {
-      "name_original": "李常",
-      "name_translated": "Lý Thường",
-      "gender": "nam",
-      "role": "Phụ",
-      "description": "Thiếu niên tham gia thí nghiệm cảm ứng Tai Ách chi lực của Negary.",
-      "notes": "",
-      "pending_sync": false
+      "id": "C0047",
+      "name_source": "李常",
+      "name_target": "Lý Thường",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Thiếu niên tham gia thí nghiệm cảm ứng Tai Ách chi lực của Negary.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Thiếu niên tham gia thí nghiệm cảm ứng Tai Ách chi lực của Negary."
     },
     {
-      "name_original": "何巧",
-      "name_translated": "Hà Xảo",
-      "gender": "nữ",
-      "role": "Phụ",
-      "description": "Hàng xóm và là người chị thân thiết của Phương Trạch, thường được gọi là Chị Xảo.",
-      "notes": "Mục tiêu trong âm mưu của Negary.",
-      "pending_sync": false
+      "id": "C0048",
+      "name_source": "何巧",
+      "name_target": "Hà Xảo",
+      "name_aliases": [],
+      "gender": "female",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Hàng xóm và là người chị thân thiết của Phương Trạch, thường được gọi là Chị Xảo.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Hàng xóm và là người chị thân thiết của Phương Trạch, thường được gọi là Chị Xảo. | Mục tiêu trong âm mưu của Negary."
     },
     {
-      "name_original": "张雨露",
-      "name_translated": "Trương Vũ Lộ",
-      "gender": "nữ",
-      "role": "Phụ",
-      "description": "Bạn của Hà Xảo, con gái của người phụ nữ có ngoại hình giống mẹ Phương Trạch.",
-      "notes": "Bị Negary chi phối để lôi kéo Hà Xảo.",
-      "pending_sync": false
+      "id": "C0049",
+      "name_source": "张雨露",
+      "name_target": "Trương Vũ Lộ",
+      "name_aliases": [],
+      "gender": "female",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Bạn của Hà Xảo, con gái của người phụ nữ có ngoại hình giống mẹ Phương Trạch.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Bạn của Hà Xảo, con gái của người phụ nữ có ngoại hình giống mẹ Phương Trạch. | Bị Negary chi phối để lôi kéo Hà Xảo."
     },
     {
-      "name_original": "张伟",
-      "name_translated": "Trương Vĩ",
-      "gender": "nam",
-      "role": "Phụ",
-      "description": "Bạn thuở nhỏ của Phương Trạch, sở hữu quyền bính Ác Hóa giúp ngăn chặn thương thế chuyển biến xấu.",
-      "notes": "",
-      "pending_sync": false
+      "id": "C0050",
+      "name_source": "张伟",
+      "name_target": "Trương Vĩ",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Bạn thuở nhỏ của Phương Trạch, sở hữu quyền bính Ác Hóa giúp ngăn chặn thương thế chuyển biến xấu.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Bạn thuở nhỏ của Phương Trạch, sở hữu quyền bính Ác Hóa giúp ngăn chặn thương thế chuyển biến xấu."
     },
     {
-      "name_original": "叶空",
-      "name_translated": "Diệp Không",
-      "gender": "nam",
-      "role": "Phản diện",
-      "description": "Cựu nhân viên Khoa Đối ứng, sở hữu quyền bính Phòng Ốc Đổ Sập. Kẻ gây ra các vụ sập nhà hàng loạt tại Khu vực 5.",
-      "notes": "",
-      "pending_sync": false
+      "id": "C0051",
+      "name_source": "叶空",
+      "name_target": "Diệp Không",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phản diện",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Cựu nhân viên Khoa Đối ứng, sở hữu quyền bính Phòng Ốc Đổ Sập. Kẻ gây ra các vụ sập nhà hàng loạt tại Khu vực 5.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Cựu nhân viên Khoa Đối ứng, sở hữu quyền bính Phòng Ốc Đổ Sập. Kẻ gây ra các vụ sập nhà hàng loạt tại Khu vực 5."
     },
     {
-      "name_original": "秦颍",
-      "name_translated": "Tần Dĩnh",
-      "gender": "nữ",
-      "role": "Phụ",
-      "description": "Nhân viên Khoa Đối ứng, đồng đội cũ của Diệp Không.",
-      "notes": "",
-      "pending_sync": false
+      "id": "C0052",
+      "name_source": "秦颍",
+      "name_target": "Tần Dĩnh",
+      "name_aliases": [],
+      "gender": "female",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Nhân viên Khoa Đối ứng, đồng đội cũ của Diệp Không.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Nhân viên Khoa Đối ứng, đồng đội cũ của Diệp Không."
     },
     {
-      "name_original": "李宣烨",
-      "name_translated": "Lý Tuyên Diệp",
-      "gender": "nam",
-      "role": "Phụ",
-      "description": "Cựu nhân viên Khoa Đối ứng, bị Diệp Không giết chết.",
-      "notes": "",
-      "pending_sync": false
+      "id": "C0053",
+      "name_source": "李宣烨",
+      "name_target": "Lý Tuyên Diệp",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Cựu nhân viên Khoa Đối ứng, bị Diệp Không giết chết.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Cựu nhân viên Khoa Đối ứng, bị Diệp Không giết chết."
     },
     {
-      "name_original": "高燕",
-      "name_translated": "Cao Yến",
-      "gender": "nữ",
-      "role": "Phụ",
-      "description": "Cựu nhân viên Khoa Đối ứng, đã qua đời.",
-      "notes": "",
-      "pending_sync": false
+      "id": "C0054",
+      "name_source": "高燕",
+      "name_target": "Cao Yến",
+      "name_aliases": [],
+      "gender": "female",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Cựu nhân viên Khoa Đối ứng, đã qua đời.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Cựu nhân viên Khoa Đối ứng, đã qua đời."
     },
     {
-      "name_original": "肖跋傅",
-      "name_translated": "Tiêu Bạt Phụ",
-      "gender": "nam",
-      "role": "Phụ",
-      "description": "Nhân viên Khoa Đối ứng, sở hữu quyền bính Cốt Chiết.",
-      "notes": "",
-      "pending_sync": false
+      "id": "C0055",
+      "name_source": "夜枭",
+      "name_target": "Dạ Kiêu",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Xạ thủ bắn tỉa của Khoa Đối ứng, hỗ trợ Phương Trạch tiêu diệt Diệp Không.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Xạ thủ bắn tỉa của Khoa Đối ứng, hỗ trợ Phương Trạch tiêu diệt Diệp Không."
     },
     {
-      "name_original": "张子杰",
-      "name_translated": "Trương Tử Kiệt",
-      "gender": "nam",
-      "role": "Phụ",
-      "description": "Nhân viên Khoa Đối ứng, sở hữu quyền bính Địa Hãm.",
-      "notes": "",
-      "pending_sync": false
+      "id": "C0056",
+      "name_source": "李静语",
+      "name_target": "Lý Tĩnh Ngữ",
+      "name_aliases": [],
+      "gender": "female",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phản diện",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Người nắm giữ Quyền Bính Bạo Lực Dư Luận, thuộc tổ chức Kẻ Sống Sót.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Người nắm giữ Quyền Bính Bạo Lực Dư Luận, thuộc tổ chức Kẻ Sống Sót. | Bị Sát thủ J giết chết."
     },
     {
-      "name_original": "夜枭",
-      "name_translated": "Dạ Kiêu",
-      "gender": "nam",
-      "role": "Phụ",
-      "description": "Xạ thủ bắn tỉa của Khoa Đối ứng, hỗ trợ Phương Trạch tiêu diệt Diệp Không.",
-      "notes": "",
-      "pending_sync": false
+      "id": "C0057",
+      "name_source": "余光明",
+      "name_target": "Dư Quang Minh",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phản diện (lịch sử)",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Người nắm giữ Quyền Bính Động Đất, gây ra Trận động đất lớn Nguyệt Bố 16 năm trước.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Người nắm giữ Quyền Bính Động Đất, gây ra Trận động đất lớn Nguyệt Bố 16 năm trước. | Đã bị ngăn chặn (chết hoặc mất tích)."
     },
     {
-      "name_original": "李静语",
-      "name_translated": "Lý Tĩnh Ngữ",
-      "gender": "nữ",
-      "role": "Phản diện",
-      "description": "Người nắm giữ Quyền Bính Bạo Lực Dư Luận, thuộc tổ chức Kẻ Sống Sót.",
-      "notes": "Bị Sát thủ J giết chết.",
-      "pending_sync": false
-    },
-    {
-      "name_original": "余光明",
-      "name_translated": "Dư Quang Minh",
-      "gender": "nam",
-      "role": "Phản diện (Lịch sử)",
-      "description": "Người nắm giữ Quyền Bính Động Đất, gây ra Trận động đất lớn Nguyệt Bố 16 năm trước.",
-      "notes": "Đã bị ngăn chặn (chết hoặc mất tích).",
-      "pending_sync": false
-    },
-    {
-      "name_original": "托尔",
-      "name_translated": "Thor",
+      "id": "C0058",
+      "name_source": "托尔",
+      "name_target": "Thor",
+      "name_aliases": [],
       "gender": "nam (chó)",
-      "role": "Phụ",
-      "description": "Con chó Corgi của Sát thủ J, bạn diễn trong các màn diễn sâu.",
-      "notes": "Tên được đặt theo Thần Sấm.",
-      "pending_sync": false
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Con chó Corgi của Sát thủ J, bạn diễn trong các màn diễn sâu.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Con chó Corgi của Sát thủ J, bạn diễn trong các màn diễn sâu. | Tên được đặt theo Thần Sấm."
     },
     {
-      "name_original": "罗平",
-      "name_translated": "La Bình",
-      "gender": "nam",
-      "role": "Phụ",
-      "description": "Thành viên tiểu đội Tai Ách Khoa Đối ứng Vực thứ bảy, người bản địa Nguyệt Bố.",
-      "notes": "Bị Negary nghi ngờ có liên quan đến tổ chức Kẻ Sống Sót.",
-      "pending_sync": false
+      "id": "C0059",
+      "name_source": "罗平",
+      "name_target": "La Bình",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Thành viên tiểu đội Tai Ách Khoa Đối ứng Vực thứ bảy, người bản địa Nguyệt Bố.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Thành viên tiểu đội Tai Ách Khoa Đối ứng Vực thứ bảy, người bản địa Nguyệt Bố. | Bị Negary nghi ngờ có liên quan đến tổ chức Kẻ Sống Sót."
     },
     {
-      "name_original": "李科长",
-      "name_translated": "Lý khoa trưởng",
-      "gender": "nam",
-      "role": "Phụ",
-      "description": "Trưởng khoa tại Khoa Đối ứng Vực thứ bảy. Bị thành viên Kẻ Sống Sót giết chết.",
-      "status": "Đã chết",
-      "pending_sync": false
+      "id": "C0060",
+      "name_source": "李科长",
+      "name_target": "Lý khoa trưởng",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "đã chết",
+      "appearance": {
+        "physical": "Trưởng khoa tại Khoa Đối ứng Vực thứ bảy. Bị thành viên Kẻ Sống Sót giết chết.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Trưởng khoa tại Khoa Đối ứng Vực thứ bảy. Bị thành viên Kẻ Sống Sót giết chết."
     },
     {
-      "name_original": "王昭",
-      "name_translated": "Vương Chiêu",
-      "gender": "nam",
-      "role": "Phản diện",
-      "description": "Người nắm giữ Quyền bính Tội Ác Chi Tai. Đặc vụ quan phủ biến chất.",
-      "notes": "Có bom cấy trong tim, thích cảm giác lan truyền tội ác.",
-      "pending_sync": false
+      "id": "C0061",
+      "name_source": "陈迪希",
+      "name_target": "Trần Địch Hy",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Một người sống sót có khả năng thích ứng cao, được Negary ban cho kỹ thuật Sinh Vật Thực Trang.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Một người sống sót có khả năng thích ứng cao, được Negary ban cho kỹ thuật Sinh Vật Thực Trang. | Được Negary đánh giá là có tiềm năng và dã tâm lớn."
     },
     {
-      "name_original": "流刃",
-      "name_translated": "Lưu Nhận",
-      "gender": "nam",
-      "role": "Phản diện",
-      "description": "Sư huynh của Lưu Thỉ, người nắm giữ Quyền bính Lợi Nhận Chi Thương.",
-      "notes": "Quân cờ ngầm của Kẻ Sống Sót cài cắm vào quan phủ từ nhỏ.",
-      "pending_sync": false
+      "id": "C0062",
+      "name_source": "亚克托斯",
+      "name_target": "Arctos",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "thứ chính",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Tai Vương Địa Tâm Di Cực, người già nhất trong các Tai Vương tham gia đàm phán.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Tai Vương Địa Tâm Di Cực, người già nhất trong các Tai Vương tham gia đàm phán. | Sinh ra sau chiến tranh."
     },
     {
-      "name_original": "陈迪希",
-      "name_translated": "Trần Địch Hy",
-      "gender": "nam",
-      "role": "Phụ",
-      "description": "Một người sống sót có khả năng thích ứng cao, được Negary ban cho kỹ thuật Sinh Vật Thực Trang.",
-      "notes": "Được Negary đánh giá là có tiềm năng và dã tâm lớn.",
-      "pending_sync": false
+      "id": "C0063",
+      "name_source": "方书南",
+      "name_target": "Phương Thư Nam",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "thứ chính",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Tai Vương Đại Hồng Thủy, cựu quân nhân chống lụt.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Tai Vương Đại Hồng Thủy, cựu quân nhân chống lụt. | Lấy thân mình làm đê ngăn nước lũ."
     },
     {
-      "name_original": "亚克托斯",
-      "name_translated": "Arctos",
-      "gender": "nam",
-      "role": "Thứ chính",
-      "description": "Tai Vương Địa Tâm Di Cực, người già nhất trong các Tai Vương tham gia đàm phán.",
-      "notes": "Sinh ra sau chiến tranh.",
-      "pending_sync": false
+      "id": "C0064",
+      "name_source": "雪心云",
+      "name_target": "Tuyết Tâm Vân",
+      "name_aliases": [],
+      "gender": "female",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "thứ chính",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Tai Vương Thái Dương Phong Bạo đời thứ hai.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Tai Vương Thái Dương Phong Bạo đời thứ hai. | Kế thừa quyền bính sau khi tiền nhiệm bị ám sát năm 2012."
     },
     {
-      "name_original": "方书南",
-      "name_translated": "Phương Thư Nam",
-      "gender": "nam",
-      "role": "Thứ chính",
-      "description": "Tai Vương Đại Hồng Thủy, cựu quân nhân chống lụt.",
-      "notes": "Lấy thân mình làm đê ngăn nước lũ.",
-      "pending_sync": false
+      "id": "C0065",
+      "name_source": "杨永兴",
+      "name_target": "Dương Vĩnh Hưng",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Thủ lĩnh căn cứ lân cận, sử dụng Lôi Điện Chi Nhận để tẩy não.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Thủ lĩnh căn cứ lân cận, sử dụng Lôi Điện Chi Nhận để tẩy não. | Bị Trần Địch Hy chém đầu và biến dị."
     },
     {
-      "name_original": "雪心云",
-      "name_translated": "Tuyết Tâm Vân",
-      "gender": "nữ",
-      "role": "Thứ chính",
-      "description": "Tai Vương Thái Dương Phong Bạo đời thứ hai.",
-      "notes": "Kế thừa quyền bính sau khi tiền nhiệm bị ám sát năm 2012.",
-      "pending_sync": false
+      "id": "C0066",
+      "name_source": "小马",
+      "name_target": "Tiểu Mã",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Kẻ phản bội từ căn cứ của Trần Địch Hy.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Kẻ phản bội từ căn cứ của Trần Địch Hy. | Quân cờ của Dương Vĩnh Hưng."
     },
     {
-      "name_original": "流矢",
-      "name_translated": "Lưu Thỉ",
-      "gender": "nữ",
-      "role": "Phụ",
-      "description": "Đồng đội của Phương Trạch, đang bị thương nặng.",
-      "notes": "Nằm viện trong tình trạng hôn mê.",
-      "pending_sync": false
+      "id": "C0067",
+      "name_source": "萨米拉",
+      "name_target": "Samila",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "thần linh",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Cuồng Phong Chi Thần từ thế giới Hỏa Diễm (thế giới đầu tiên).",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Cuồng Phong Chi Thần từ thế giới Hỏa Diễm (thế giới đầu tiên). | Xâm nhập vào Tai Ách thế giới qua vết nứt không gian."
     },
     {
-      "name_original": "何巧",
-      "name_translated": "Hà Xảo",
-      "gender": "nữ",
-      "role": "Phụ",
-      "description": "Đồng đội của Phương Trạch, có hành động mờ ám.",
-      "notes": "Chú ý tới sự biến đổi của Phương Trạch.",
-      "pending_sync": false
+      "id": "C0068",
+      "name_source": "神族奈格里",
+      "name_target": "Thần tộc Negary",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "thần linh",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Bất Tường Dữ Tật Bệnh Chi Thần từ thế giới Hỏa Diễm.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Bất Tường Dữ Tật Bệnh Chi Thần từ thế giới Hỏa Diễm. | Phiên bản thần linh của Negary, sở hữu quyền trượng và quạ đen."
     },
     {
-      "name_original": "杨永兴",
-      "name_translated": "Dương Vĩnh Hưng",
-      "gender": "nam",
-      "role": "Phụ",
-      "description": "Thủ lĩnh căn cứ lân cận, sử dụng Lôi Điện Chi Nhận để tẩy não.",
-      "notes": "Bị Trần Địch Hy chém đầu và biến dị.",
-      "pending_sync": false
+      "id": "C0069",
+      "name_source": "考斯特",
+      "name_target": "Koster",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Thiên tài siêu năng lực phản bội thế giới ở chu mục thứ hai.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Thiên tài siêu năng lực phản bội thế giới ở chu mục thứ hai. | Đầu quân cho liên quân Tân Thần và Sơ Long."
     },
     {
-      "name_original": "小马",
-      "name_translated": "Tiểu Mã",
-      "gender": "nam",
-      "role": "Phụ",
-      "description": "Kẻ phản bội từ căn cứ của Trần Địch Hy.",
-      "notes": "Quân cờ của Dương Vĩnh Hưng.",
-      "pending_sync": false
+      "id": "C0070",
+      "name_source": "阿尔克曼",
+      "name_target": "Arkman",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "thứ chính",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Tai Vương Chiến Tranh.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Tai Vương Chiến Tranh. | Lão giả cuồng chiến."
     },
     {
-      "name_original": "萨米拉",
-      "name_translated": "Samila",
-      "gender": "nam",
-      "role": "Thần linh",
-      "description": "Cuồng Phong Chi Thần từ thế giới Hỏa Diễm (thế giới đầu tiên).",
-      "notes": "Xâm nhập vào Tai Ách thế giới qua vết nứt không gian.",
-      "pending_sync": false
+      "id": "C0071",
+      "name_source": "常夏",
+      "name_target": "Thường Hạ",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "thứ chính",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Thành viên Cục Đối Sách, người giết Dư Quang Minh.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Thành viên Cục Đối Sách, người giết Dư Quang Minh. | Có di chứng đau đầu bí ẩn."
     },
     {
-      "name_original": "赫尔罗",
-      "name_translated": "Herro",
-      "gender": "nam",
-      "role": "Thần linh",
-      "description": "Kiện Tráng Chi Thần từ thế giới Hỏa Diễm.",
-      "notes": "Sở hữu sức mạnh cường tráng tuyệt mỹ.",
-      "pending_sync": false
-    },
-    {
-      "name_original": "神族奈格里",
-      "name_translated": "Thần tộc Negary",
-      "gender": "nam",
-      "role": "Thần linh",
-      "description": "Bất Tường Dữ Tật Bệnh Chi Thần từ thế giới Hỏa Diễm.",
-      "notes": "Phiên bản thần linh của Negary, sở hữu quyền trượng và quạ đen.",
-      "pending_sync": false
-    },
-    {
-      "name_original": "考斯特",
-      "name_translated": "Koster",
-      "gender": "nam",
-      "role": "Phụ",
-      "description": "Thiên tài siêu năng lực phản bội thế giới ở chu mục thứ hai.",
-      "notes": "Đầu quân cho liên quân Tân Thần và Sơ Long.",
-      "pending_sync": false
-    },
-    {
-      "name_original": "阿尔克曼",
-      "name_translated": "Arkman",
-      "gender": "nam",
-      "role": "Thứ chính",
-      "description": "Tai Vương Chiến Tranh.",
-      "notes": "Lão giả cuồng chiến.",
-      "pending_sync": false
-    },
-    {
-      "name_original": "常夏",
-      "name_translated": "Thường Hạ",
-      "gender": "nam",
-      "role": "Thứ chính",
-      "description": "Thành viên Cục Đối Sách, người giết Dư Quang Minh.",
-      "notes": "Có di chứng đau đầu bí ẩn.",
-      "pending_sync": false
-    },
-    {
-      "name_original": "天倾灾王",
-      "name_translated": "Thiên Khuynh Tai Vương",
+      "id": "C0072",
+      "name_source": "天倾灾王",
+      "name_target": "Thiên Khuynh Tai Vương",
+      "name_aliases": [],
       "gender": "không rõ",
-      "role": "Thứ chính",
-      "description": "Vị Tai Vương thứ mười, sinh ra từ sự xâm lược.",
-      "notes": "Đại diện cho sự sụp đổ của bầu trời.",
-      "pending_sync": false
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "thứ chính",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Vị Tai Vương thứ mười, sinh ra từ sự xâm lược.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Vị Tai Vương thứ mười, sinh ra từ sự xâm lược. | Đại diện cho sự sụp đổ của bầu trời."
     },
     {
-      "name_original": "秦颍",
-      "name_translated": "Tần Dĩnh",
-      "gender": "nữ",
-      "role": "Thứ chính",
-      "description": "Tai Vương Trật Tự Băng Hoại, đồng nghiệp cũ của Diệp Không.",
-      "notes": "Kế thừa quyền bính của Diệp Không sau khi bị gã bắn trọng thương.",
-      "pending_sync": false
+      "id": "C0073",
+      "name_source": "凡尔西斯",
+      "name_target": "Versis",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "thần linh",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Con cự long thuần huyết cuối cùng ở thế giới Hỏa Diễm.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Con cự long thuần huyết cuối cùng ở thế giới Hỏa Diễm. | Yêu một con người và không rời đi cùng Thủy Tổ."
     },
     {
-      "name_original": "凡尔西斯",
-      "name_translated": "Versis",
-      "gender": "nam",
-      "role": "Thần linh",
-      "description": "Con cự long thuần huyết cuối cùng ở thế giới Hỏa Diễm.",
-      "notes": "Yêu một con người và không rời đi cùng Thủy Tổ.",
-      "pending_sync": false
+      "id": "C0074",
+      "name_source": "艾达恩",
+      "name_target": "Aidan",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Cự long xâm lược bị Negary săn lùng.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Cự long xâm lược bị Negary săn lùng. | Sử dụng năng lực huyết dịch để đào thoát nhưng bị Negary cấy bệnh khuẩn linh hồn."
     },
     {
-      "name_original": "艾达恩",
-      "name_translated": "Aidan",
-      "gender": "nam",
-      "role": "Phụ",
-      "description": "Cự long xâm lược bị Negary săn lùng.",
-      "notes": "Sử dụng năng lực huyết dịch để đào thoát nhưng bị Negary cấy bệnh khuẩn linh hồn.",
-      "pending_sync": false
+      "id": "C0075",
+      "name_source": "阿柒",
+      "name_target": "A Thất",
+      "name_aliases": [],
+      "gender": "female",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Người thân/người quan trọng của Thường Hạ.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Người thân/người quan trọng của Thường Hạ. | Được Thường Hạ thầm xin lỗi trước khi hy sinh."
     },
     {
-      "name_original": "梅纳斯",
-      "name_translated": "Menas",
-      "gender": "nữ",
-      "role": "Thần linh",
-      "description": "Nữ thần Ách Vận ở thế giới Hỏa Diễm.",
-      "notes": "Được nhắc tới như một thần linh phổ biến hơn Thần Nại.",
-      "pending_sync": false
+      "id": "C0076",
+      "name_source": "克罗米",
+      "name_target": "Cromie",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Con trai út của gia tộc Vernard, phó câu lạc bộ kiếm thuật của học viện.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Con trai út của gia tộc Vernard, phó câu lạc bộ kiếm thuật của học viện."
     },
     {
-      "name_original": "萨米拉",
-      "name_translated": "Samila",
-      "gender": "nam",
-      "role": "Thần linh",
-      "description": "Cuồng Phong Chi Thần, một trong những thần linh xâm lược.",
-      "notes": "Bị Sát Thủ J gọi là O-rác-rưởi.",
-      "pending_sync": false
+      "id": "C0077",
+      "name_source": "奥莉",
+      "name_target": "Oly",
+      "name_aliases": [],
+      "gender": "female",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Bạn học của Cromie ở học viện.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Bạn học của Cromie ở học viện."
     },
     {
-      "name_original": "余光明",
-      "name_translated": "Dư Quang Minh",
-      "gender": "nam",
-      "role": "Phụ",
-      "description": "Cựu Tai Vương chu mục trước.",
-      "notes": "Linh hồn bị giam cầm trên Bia Đá Mạt Nhật.",
-      "pending_sync": false
+      "id": "C0078",
+      "name_source": "比罗修斯",
+      "name_target": "Peroxis",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Quản gia của gia đình Vernard, đồng thời là tên sát nhân hàng loạt ở trấn Lor.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Quản gia của gia đình Vernard, đồng thời là tên sát nhân hàng loạt ở trấn Lor."
     },
     {
-      "name_original": "阿柒",
-      "name_translated": "A Thất",
-      "gender": "nữ",
-      "role": "Phụ",
-      "description": "Người thân/người quan trọng của Thường Hạ.",
-      "notes": "Được Thường Hạ thầm xin lỗi trước khi hy sinh.",
-      "pending_sync": false
+      "id": "C0079",
+      "name_source": "凯瑟琳·沃登",
+      "name_target": "Catherine Warden",
+      "name_aliases": [],
+      "gender": "female",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Thành viên của Hiệp Hội Ẩn Tu Bất Khiết, một tiểu thư nhà giàu cuồng nhiệt huyền học.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Thành viên của Hiệp Hội Ẩn Tu Bất Khiết, một tiểu thư nhà giàu cuồng nhiệt huyền học."
     },
     {
-      "name_original": "亚克托斯",
-      "name_translated": "Arkutos",
-      "gender": "nam",
-      "role": "Tai Vương",
-      "description": "Vị Tai Vương già nua, một trong những người sống sót sau thảm họa.",
-      "notes": "Đề nghị Phương Trạch làm Hội trưởng Hội Cấp Cứu Sau Tai Nạn.",
-      "pending_sync": false
+      "id": "C0080",
+      "name_source": "神奈",
+      "name_target": "Kanai",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Kẻ sở hữu sức mạnh Bất Khiết thế hệ trước.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Kẻ sở hữu sức mạnh Bất Khiết thế hệ trước."
+    },
+    {
+      "id": "C0081",
+      "name_source": "霍顿·克罗",
+      "name_target": "Horton Crow",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Người đứng đầu đội thi công xây dựng lớn nhất trấn Lor, đã phản bội Ẩn Tu Hội để đầu quân cho Giáo hội Vô Thanh.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Người đứng đầu đội thi công xây dựng lớn nhất trấn Lor, đã phản bội Ẩn Tu Hội để đầu quân cho Giáo hội Vô Thanh."
+    },
+    {
+      "id": "C0082",
+      "name_source": "阑珊",
+      "name_target": "Lan San",
+      "name_aliases": [],
+      "gender": "female",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Một thực thể ở thế giới cũ sở hữu Căn Nguyên Ôn Dịch.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Một thực thể ở thế giới cũ sở hữu Căn Nguyên Ôn Dịch."
+    },
+    {
+      "id": "C0083",
+      "name_source": "库尼尔·多拉格尼尔",
+      "name_target": "Kuniel Dragneel",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Hiệp sĩ hoàn mỹ nhất của Giáo hội Nhật Ảnh hiện nay, có mối quan hệ thân thiện với Cromie.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Hiệp sĩ hoàn mỹ nhất của Giáo hội Nhật Ảnh hiện nay, có mối quan hệ thân thiện với Cromie."
     }
   ]
 }

@@ -1,31 +1,222 @@
 {
   "metadata": {
-    "source_language": "zh",
-    "target_language": "vi",
-    "genre": "eastern_fiction",
-    "last_updated": "2026-04-14T07:48:00Z"
+    "version": "2.0",
+    "schema": "gold",
+    "branch": "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han",
+    "last_updated": "2026-05-30T04:48:09+07:00",
+    "total_entries": 21,
+    "previous_schema": "legacy"
   },
   "entries": [
-    {"source": "黑崎一护", "target": "Kurosaki Ichigo", "category": "character", "context": "Hắc Kỳ Nhất Hộ"},
-    {"source": "朽木露琪亚", "target": "Kuchiki Rukia", "category": "character", "context": "Hủ Mộc Lộ Kỳ Á"},
-    {"source": "井上织姬", "target": "Inoue Orihime", "category": "character", "context": "Tỉnh Thượng Chức Cơ"},
-    {"source": "茶渡泰虎", "target": "Sado Yasutora", "category": "character", "context": "Trà Độ Thái Hổ - Chad"},
-    {"source": "石田雨龙", "target": "Ishida Uryu", "category": "character", "context": "Thạch Điền Vũ Long"},
-    {"source": "蓝染惣右介", "target": "Aizen Sousuke", "category": "character", "context": "Lam Nhiễm Tống Hữu Giới"},
-    {"source": "市丸银", "target": "Ichimaru Gin", "category": "character", "context": "Thị Hoàn Ngân"},
-    {"source": "始解", "target": "Shikai", "category": "technique", "context": "Thủy Giải"},
-    {"source": "卍解", "target": "Bankai", "category": "technique", "context": "Vạn Giải"},
-    {"source": "斩魄刀", "target": "Zanpakuto", "category": "weapon", "context": "Trảm Phách Đao"},
-    {"source": "浅打", "target": "Asauchi", "category": "weapon", "context": "Thiển Đả"},
-    {"source": "外骨骼装甲", "target": "Giáp trợ lực", "category": "technology", "context": "Exoskeleton armor"},
-    {"source": "虚圈", "target": "Hueco Mundo", "category": "location", "context": "Hư Quyển"},
-    {"source": "尸魂界", "target": "Soul Society", "category": "location", "context": "Thi hồn giới"},
-    {"source": "瀞灵廷", "target": "Seireitei", "category": "location", "context": "Tịnh Linh Đình"},
-    {"source": "流魂街", "target": "Rukongai", "category": "location", "context": "Lưu Hồn Nhai"},
-    {"source": "护庭十三队", "target": "Gotei 13", "category": "faction", "context": "Hộ Đình Thập Tam Đội"},
-    {"source": "真央灵术院", "target": "Học viện Shin'ō", "category": "location", "context": "Chân Ương Linh Thuật Viện"},
-    {"source": "崩玉", "target": "Hougyoku", "category": "item", "context": "Băng Ngọc"},
-    {"source": "妮菲尔", "target": "Nifeier", "category": "character", "context": "Interrogator"},
-    {"source": "卯之花烈", "target": "Unohana Retsu", "category": "character", "context": "Mão Chi Hoa Liệt"}
+    {
+      "source": "黑崎一护",
+      "source_language": "zh",
+      "target": "Kurosaki Ichigo",
+      "category": "character",
+      "context": "Hắc Kỳ Nhất Hộ",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "朽木露琪亚",
+      "source_language": "zh",
+      "target": "Kuchiki Rukia",
+      "category": "character",
+      "context": "Hủ Mộc Lộ Kỳ Á",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "井上织姬",
+      "source_language": "zh",
+      "target": "Inoue Orihime",
+      "category": "character",
+      "context": "Tỉnh Thượng Chức Cơ",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "茶渡泰虎",
+      "source_language": "zh",
+      "target": "Sado Yasutora",
+      "category": "character",
+      "context": "Trà Độ Thái Hổ - Chad",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "石田雨龙",
+      "source_language": "zh",
+      "target": "Ishida Uryu",
+      "category": "character",
+      "context": "Thạch Điền Vũ Long",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "蓝染惣右介",
+      "source_language": "zh",
+      "target": "Aizen Sousuke",
+      "category": "character",
+      "context": "Lam Nhiễm Tống Hữu Giới",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "市丸银",
+      "source_language": "zh",
+      "target": "Ichimaru Gin",
+      "category": "character",
+      "context": "Thị Hoàn Ngân",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "始解",
+      "source_language": "zh",
+      "target": "Shikai",
+      "category": "technique",
+      "context": "Thủy Giải",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "卍解",
+      "source_language": "zh",
+      "target": "Bankai",
+      "category": "technique",
+      "context": "Vạn Giải",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "斩魄刀",
+      "source_language": "zh",
+      "target": "Zanpakuto",
+      "category": "weapon",
+      "context": "Trảm Phách Đao",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "浅打",
+      "source_language": "zh",
+      "target": "Asauchi",
+      "category": "weapon",
+      "context": "Thiển Đả",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "外骨骼装甲",
+      "source_language": "zh",
+      "target": "Giáp trợ lực",
+      "category": "technology",
+      "context": "Exoskeleton armor",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "虚圈",
+      "source_language": "zh",
+      "target": "Hueco Mundo",
+      "category": "location",
+      "context": "Hư Quyển",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "尸魂界",
+      "source_language": "zh",
+      "target": "Soul Society",
+      "category": "location",
+      "context": "Thi hồn giới",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "瀞灵廷",
+      "source_language": "zh",
+      "target": "Seireitei",
+      "category": "location",
+      "context": "Tịnh Linh Đình",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "流魂街",
+      "source_language": "zh",
+      "target": "Rukongai",
+      "category": "location",
+      "context": "Lưu Hồn Nhai",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "护庭十三队",
+      "source_language": "zh",
+      "target": "Gotei 13",
+      "category": "faction",
+      "context": "Hộ Đình Thập Tam Đội",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "真央灵术院",
+      "source_language": "zh",
+      "target": "Học viện Shin'ō",
+      "category": "location",
+      "context": "Chân Ương Linh Thuật Viện",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "崩玉",
+      "source_language": "zh",
+      "target": "Hougyoku",
+      "category": "item",
+      "context": "Băng Ngọc",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "妮菲尔",
+      "source_language": "zh",
+      "target": "Nifeier",
+      "category": "character",
+      "context": "Interrogator",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "卯之花烈",
+      "source_language": "zh",
+      "target": "Unohana Retsu",
+      "category": "character",
+      "context": "Mão Chi Hoa Liệt",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    }
   ]
 }

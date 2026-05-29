@@ -1,19 +1,19 @@
 {
   "metadata": {
-    "generated_at": "2026-05-14T23:42:29+07:00",
-    "total_books": 9,
+    "generated_at": "2026-05-30T04:52:00+07:00",
+    "total_books": 10,
     "source": "Dichtrung/Output"
   },
   "tabs": [
     {
       "key": "all",
       "title": "Tất cả",
-      "count": 9
+      "count": 10
     },
     {
       "key": "genre:eastern-fiction",
       "title": "Đông phương",
-      "count": 7
+      "count": 8
     },
     {
       "key": "genre:western-fiction",
@@ -38,6 +38,11 @@
     {
       "key": "tag:hong-hoang",
       "title": "Hồng hoang",
+      "count": 2
+    },
+    {
+      "key": "tag:sci-fi",
+      "title": "Sci fi",
       "count": 2
     },
     {
@@ -109,7 +114,7 @@
       "cover_relative_path": "illustrations/cover/Chu Than Dai Dao_Co Nguyet Cu Si.png",
       "readme_path": "Output/Chu Than Dai Dao_Co Nguyet Cu Si/README.md",
       "toc_path": "Output/Chu Than Dai Dao_Co Nguyet Cu Si/toc.json",
-      "updated_at": "2026-05-14T23:42:24+07:00"
+      "updated_at": "2026-05-30T04:51:58+07:00"
     },
     {
       "branch": "Hong Hoang Lich_Zhttty",
@@ -118,11 +123,11 @@
       "summary": "Tác phẩm dẫn người đọc từ cảnh sinh tồn trong hỗn loạn sang những cột mốc liên quan đến Chủ Thần, công pháp và quá trình xây dựng lực lượng. Nhịp truyện rộng, nhiều tuyến và thiên về quy mô đại cục.",
       "backdrop": "Một biên niên sử hồng hoang nơi bóng tối, sinh tồn, ma pháp, công nghệ và tu luyện cùng lúc tồn tại, khiến mỗi bước tiến cá nhân đều chạm tới vận mệnh của cả văn minh.",
       "description": "Tác phẩm dẫn người đọc từ cảnh sinh tồn trong hỗn loạn sang những cột mốc liên quan đến Chủ Thần, công pháp và quá trình xây dựng lực lượng. Nhịp truyện rộng, nhiều tuyến và thiên về quy mô đại cục.",
-      "detail": "Một biên niên sử hồng hoang nơi bóng tối, sinh tồn, ma pháp, công nghệ và tu luyện cùng lúc tồn tại, khiến mỗi bước tiến cá nhân đều chạm tới vận mệnh của cả văn minh. | Tiến độ: 150 chương | Mới nhất: Chương 200: Sự nhắm vào của các Thánh vị",
+      "detail": "Một biên niên sử hồng hoang nơi bóng tối, sinh tồn, ma pháp, công nghệ và tu luyện cùng lúc tồn tại, khiến mỗi bước tiến cá nhân đều chạm tới vận mệnh của cả văn minh. | Tiến độ: 199 chương | Mới nhất: Chương 200: Sự nhắm vào của các Thánh vị",
       "status": "in_progress",
       "status_label": "Đang ra",
       "ongoing": true,
-      "completed_chapters": 150,
+      "completed_chapters": 199,
       "total_chapters": null,
       "latest_chapter": "Chương 200: Sự nhắm vào của các Thánh vị",
       "genre": "eastern_fiction",
@@ -178,7 +183,7 @@
       "cover_relative_path": "illustrations/cover/Hong Hoang Lich_Zhttty.png",
       "readme_path": "Output/Hong Hoang Lich_Zhttty/README.md",
       "toc_path": "Output/Hong Hoang Lich_Zhttty/toc.json",
-      "updated_at": "2026-05-14T23:42:24+07:00"
+      "updated_at": "2026-05-30T04:51:58+07:00"
     },
     {
       "branch": "Linh Hon Negary_Hu Minh",
@@ -187,13 +192,13 @@
       "summary": "Vương Uyên xuyên không trở thành một linh hồn tàn khuyết mang tên Negary. Trong thế giới đầy rẫy sự lừa dối và nguy hiểm của Thần Ân giáo và các vương quốc, hắn từng bước thôn phệ, tiến hóa và trở thành nỗi khiếp sợ thực sự - kẻ chi phối vạn vật từ trong bóng tối.",
       "backdrop": "Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.",
       "description": "Vương Uyên xuyên không trở thành một linh hồn tàn khuyết mang tên Negary. Trong thế giới đầy rẫy sự lừa dối và nguy hiểm của Thần Ân giáo và các vương quốc, hắn từng bước thôn phệ, tiến hóa và trở thành nỗi khiếp sợ thực sự - kẻ chi phối vạn vật từ trong bóng tối.",
-      "detail": "Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng. | Tiến độ: 210/754 chương | Mới nhất: Chương 210: Nguyện Mặt Trời Hằng Chiếu",
+      "detail": "Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng. | Tiến độ: 229/754 chương | Mới nhất: Chương 232: Ta Nhìn Thấy Chân Lý",
       "status": "in_progress",
       "status_label": "Đang ra",
       "ongoing": true,
-      "completed_chapters": 210,
+      "completed_chapters": 229,
       "total_chapters": 754,
-      "latest_chapter": "Chương 210: Nguyện Mặt Trời Hằng Chiếu",
+      "latest_chapter": "Chương 232: Ta Nhìn Thấy Chân Lý",
       "genre": "western_fiction",
       "sub_genre": "fantasy",
       "style_tags": [
@@ -247,7 +252,7 @@
       "cover_relative_path": "illustrations/cover/Linh Hon Negary_Hu Minh.png",
       "readme_path": "Output/Linh Hon Negary_Hu Minh/README.md",
       "toc_path": "Output/Linh Hon Negary_Hu Minh/toc.json",
-      "updated_at": "2026-05-14T23:42:25+07:00"
+      "updated_at": "2026-05-30T04:51:59+07:00"
     },
     {
       "branch": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
@@ -256,11 +261,11 @@
       "summary": "La Phàm tỉnh dậy giữa một thế giới hoàn toàn không còn dấu vết Trái Đất, từ đó bước vào hành trình nhận thức lại bản thân, huyết mạch và đại đạo trong môi trường nguyên sơ nhất của hồng hoang.",
       "backdrop": "Thiên địa sơ khai của thế giới Hồng Hoang, nơi núi chống trời, dị thú và quy luật nguyên thủy còn mạnh hơn mọi khái niệm văn minh.",
       "description": "La Phàm tỉnh dậy giữa một thế giới hoàn toàn không còn dấu vết Trái Đất, từ đó bước vào hành trình nhận thức lại bản thân, huyết mạch và đại đạo trong môi trường nguyên sơ nhất của hồng hoang.",
-      "detail": "Thiên địa sơ khai của thế giới Hồng Hoang, nơi núi chống trời, dị thú và quy luật nguyên thủy còn mạnh hơn mọi khái niệm văn minh. | Tiến độ: 80/3398 chương | Mới nhất: Chương None: Chưa đặt tiêu đề",
+      "detail": "Thiên địa sơ khai của thế giới Hồng Hoang, nơi núi chống trời, dị thú và quy luật nguyên thủy còn mạnh hơn mọi khái niệm văn minh. | Tiến độ: 130/3398 chương | Mới nhất: Chương None: Chưa đặt tiêu đề",
       "status": "in_progress",
       "status_label": "Đang ra",
       "ongoing": true,
-      "completed_chapters": 80,
+      "completed_chapters": 130,
       "total_chapters": 3398,
       "latest_chapter": "Chương None: Chưa đặt tiêu đề",
       "genre": "eastern_fiction",
@@ -316,7 +321,7 @@
       "cover_relative_path": "illustrations/cover/Phi Pham Hong Hoang_Nga Tu Phi Pham.png",
       "readme_path": "Output/Phi Pham Hong Hoang_Nga Tu Phi Pham/README.md",
       "toc_path": "Output/Phi Pham Hong Hoang_Nga Tu Phi Pham/toc.json",
-      "updated_at": "2026-05-14T23:42:26+07:00"
+      "updated_at": "2026-05-30T04:51:59+07:00"
     },
     {
       "branch": "Pham Nhan Bat Dau Doat Xa Mac Cu Nhan_Tieu Tran Tu",
@@ -380,7 +385,7 @@
       "cover_relative_path": "illustrations/cover/Pham Nhan Bat Dau Doat Xa Mac Cu Nhan_Tieu Tran Tu.png",
       "readme_path": "Output/Pham Nhan Bat Dau Doat Xa Mac Cu Nhan_Tieu Tran Tu/README.md",
       "toc_path": "Output/Pham Nhan Bat Dau Doat Xa Mac Cu Nhan_Tieu Tran Tu/toc.json",
-      "updated_at": "2026-05-14T23:42:25+07:00"
+      "updated_at": "2026-05-30T04:51:59+07:00"
     },
     {
       "branch": "Sieu Duy Thuat Si_Muc Ho",
@@ -444,7 +449,7 @@
       "cover_relative_path": "illustrations/cover/Sieu Duy Thuat Si_Muc Ho.png",
       "readme_path": "Output/Sieu Duy Thuat Si_Muc Ho/README.md",
       "toc_path": "Output/Sieu Duy Thuat Si_Muc Ho/toc.json",
-      "updated_at": "2026-05-14T23:42:26+07:00"
+      "updated_at": "2026-05-30T04:51:59+07:00"
     },
     {
       "branch": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
@@ -453,11 +458,11 @@
       "summary": "Lý Khanh phát hiện mình có khả năng 'Thức tỉnh' vi sinh vật. Anh bắt đầu thí nghiệm trong một bình thủy tinh, tạo ra nền văn minh Atabia. Câu chuyện là cuộc đấu trí giữa các 'phàm nhân' kiến tí và vị 'Ngoại Thần' nắm giữ quyền sinh sát tối thượng.",
       "backdrop": "Thế giới vi mô nằm trong một phòng thí nghiệm của 'bệnh nhân tâm thần' Lý Khanh, nơi các nền văn minh đơn bào phát triển và diệt vong dưới sự quan sát của Ngoại Thần.",
       "description": "Lý Khanh phát hiện mình có khả năng 'Thức tỉnh' vi sinh vật. Anh bắt đầu thí nghiệm trong một bình thủy tinh, tạo ra nền văn minh Atabia. Câu chuyện là cuộc đấu trí giữa các 'phàm nhân' kiến tí và vị 'Ngoại Thần' nắm giữ quyền sinh sát tối thượng.",
-      "detail": "Thế giới vi mô nằm trong một phòng thí nghiệm của 'bệnh nhân tâm thần' Lý Khanh, nơi các nền văn minh đơn bào phát triển và diệt vong dưới sự quan sát của Ngoại Thần. | Tiến độ: 115/3666 chương | Mới nhất: Chương 300: Văn minh 2.5 chiều",
+      "detail": "Thế giới vi mô nằm trong một phòng thí nghiệm của 'bệnh nhân tâm thần' Lý Khanh, nơi các nền văn minh đơn bào phát triển và diệt vong dưới sự quan sát của Ngoại Thần. | Tiến độ: 300/3666 chương | Mới nhất: Chương 300: Văn minh 2.5 chiều",
       "status": "in_progress",
       "status_label": "Đang ra",
       "ongoing": true,
-      "completed_chapters": 115,
+      "completed_chapters": 300,
       "total_chapters": 3666,
       "latest_chapter": "Chương 300: Văn minh 2.5 chiều",
       "genre": "eastern_fiction",
@@ -513,7 +518,7 @@
       "cover_relative_path": "illustrations/cover/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu.png",
       "readme_path": "Output/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu/README.md",
       "toc_path": "Output/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu/toc.json",
-      "updated_at": "2026-05-14T23:42:27+07:00"
+      "updated_at": "2026-05-30T04:51:59+07:00"
     },
     {
       "branch": "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han",
@@ -522,11 +527,11 @@
       "summary": "Lục Ly bước vào truyện từ thế cực kỳ bị động: bị giam, chờ tử hình và bị thẩm vấn. Từ trạng thái ấy, câu chuyện dần lật mở quá khứ, năng lực và các tầng thế giới mà anh sẽ đi qua.",
       "backdrop": "Fanfic đa thế giới khởi đầu bằng bối cảnh giam cầm kiểu sci-fi, rồi mở rộng sang nhiều thế giới quen thuộc với hệ thống, xuyên qua và chiến đấu liên chuỗi IP.",
       "description": "Lục Ly bước vào truyện từ thế cực kỳ bị động: bị giam, chờ tử hình và bị thẩm vấn. Từ trạng thái ấy, câu chuyện dần lật mở quá khứ, năng lực và các tầng thế giới mà anh sẽ đi qua.",
-      "detail": "Fanfic đa thế giới khởi đầu bằng bối cảnh giam cầm kiểu sci-fi, rồi mở rộng sang nhiều thế giới quen thuộc với hệ thống, xuyên qua và chiến đấu liên chuỗi IP. | Tiến độ: 6/1187 chương | Mới nhất: Chương 6: Kiểm tra nhập học",
+      "detail": "Fanfic đa thế giới khởi đầu bằng bối cảnh giam cầm kiểu sci-fi, rồi mở rộng sang nhiều thế giới quen thuộc với hệ thống, xuyên qua và chiến đấu liên chuỗi IP. | Tiến độ: 0/1187 chương | Mới nhất: Chương 6: Kiểm tra nhập học",
       "status": "in_progress",
       "status_label": "Đang ra",
       "ongoing": true,
-      "completed_chapters": 6,
+      "completed_chapters": 0,
       "total_chapters": 1187,
       "latest_chapter": "Chương 6: Kiểm tra nhập học",
       "genre": "eastern_fiction",
@@ -577,7 +582,57 @@
       "cover_relative_path": "illustrations/cover/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han.png",
       "readme_path": "Output/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han/README.md",
       "toc_path": "Output/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han/toc.json",
-      "updated_at": "2026-05-14T23:42:27+07:00"
+      "updated_at": "2026-05-30T04:51:59+07:00"
+    },
+    {
+      "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "title": "Tu Chân Bốn Vạn Năm",
+      "author": "Ngọa Ngưu Chân Nhân",
+      "summary": "Lý Diệu, một học sinh phổ thông xuất thân từ bãi phế thải pháp bảo, tình cờ nhận được truyền thừa cổ đại và bắt đầu hành trình nghịch thiên cải mệnh, đi theo con đường luyện khí sư và giáp sĩ chiến đấu trong tinh không bao la.",
+      "backdrop": "Tu chân cơ giáp vũ trụ thế giới khoa học kỹ thuật hiện đại.",
+      "description": "Lý Diệu, một học sinh phổ thông xuất thân từ bãi phế thải pháp bảo, tình cờ nhận được truyền thừa cổ đại và bắt đầu hành trình nghịch thiên cải mệnh, đi theo con đường luyện khí sư và giáp sĩ chiến đấu trong tinh không bao la.",
+      "detail": "Tu chân cơ giáp vũ trụ thế giới khoa học kỹ thuật hiện đại. | Tiến độ: 0 chương",
+      "status": "in_progress",
+      "status_label": "Đang ra",
+      "ongoing": true,
+      "completed_chapters": 0,
+      "total_chapters": null,
+      "latest_chapter": "",
+      "genre": "eastern_fiction",
+      "sub_genre": "sci_fi",
+      "style_tags": [
+        "đông phương",
+        "sci fi"
+      ],
+      "categories": [
+        {
+          "key": "genre:eastern-fiction",
+          "token": "eastern_fiction",
+          "title": "Đông phương"
+        },
+        {
+          "key": "tag:sci-fi",
+          "token": "sci_fi",
+          "title": "Sci fi"
+        },
+        {
+          "key": "tag:ong-phuong",
+          "token": "đông phương",
+          "title": "Đông phương"
+        }
+      ],
+      "cover_candidates": [],
+      "cover_slots": [
+        "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/cover/cover.jpg",
+        "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/cover/cover.png",
+        "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/cover/cover.webp",
+        "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/cover/cover.jpeg"
+      ],
+      "cover_prompt": "Bìa dọc 6x9 cho truyện Tu Chân Bốn Vạn Năm của Ngọa Ngưu Chân Nhân, ưu tiên sắc thái đông phương, sci fi. Bối cảnh: Tu chân cơ giáp vũ trụ thế giới khoa học kỹ thuật hiện đại.",
+      "cover_relative_path": "",
+      "readme_path": "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/README.md",
+      "toc_path": "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/toc.json",
+      "updated_at": "2026-05-30T04:51:59+07:00"
     },
     {
       "branch": "Ac Linh Quoc Gia",
@@ -641,7 +696,7 @@
       "cover_relative_path": "illustrations/cover/Ac Linh Quoc Gia.png",
       "readme_path": "Output/Ac Linh Quoc Gia/README.md",
       "toc_path": "Output/Ac Linh Quoc Gia/toc.json",
-      "updated_at": "2026-05-14T23:42:23+07:00"
+      "updated_at": "2026-05-30T04:51:58+07:00"
     }
   ]
 }

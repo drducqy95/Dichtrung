@@ -1,77 +1,168 @@
 {
+  "metadata": {
+    "version": "2.0",
+    "schema": "gold",
+    "branch": "Pham Nhan Bat Dau Doat Xa Mac Cu Nhan_Tieu Tran Tu",
+    "last_updated": "2026-05-30T04:48:09+07:00",
+    "total_characters": 4,
+    "previous_schema": "legacy"
+  },
   "characters": [
     {
       "id": "char_001",
-      "name": "Mặc Cư Nhân",
-      "original_name": "墨居仁",
-      "aliases": [
+      "name_source": "墨居仁",
+      "name_target": "Mặc Cư Nhân",
+      "name_aliases": [
         "Mặc đại phu"
       ],
       "gender": "male",
-      "roles": [
-        "Protagonist",
-        "Mentor"
-      ],
-      "cultivation": "Tiên thiên võ giả (Huyết mạch hệ Mộc cấp 1 - 17%)",
-      "bloodline": "Bích Lân Mãng (17%)",
-      "description": "Người xuyên không vào thân xác Mặc đại phu. Sở hữu Huyết mạch chuyển hóa lô."
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "protagonist",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": "Tiên thiên võ giả (Huyết mạch hệ Mộc cấp 1 - 17%)"
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Người xuyên không vào thân xác Mặc đại phu. Sở hữu Huyết mạch chuyển hóa lô.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Người xuyên không vào thân xác Mặc đại phu. Sở hữu Huyết mạch chuyển hóa lô."
     },
     {
       "id": "char_002",
-      "name": "Hàn Lập",
-      "original_name": "韩立",
+      "name_source": "韩立",
+      "name_target": "Hàn Lập",
+      "name_aliases": [],
       "gender": "male",
-      "cultivation": {
-        "realm": "Luyện Khí kỳ",
-        "stage": "Tầng 4",
-        "technique": "Trường Xuân Công"
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
       },
-      "description": "Nhị lăng tử của Thất Huyền môn, nhặt được Tiểu lục bình."
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "Luyện Khí kỳ",
+        "current_sub_stage": "Tầng 4",
+        "notes": "Trường Xuân Công"
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Nhị lăng tử của Thất Huyền môn, nhặt được Tiểu lục bình.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Nhị lăng tử của Thất Huyền môn, nhặt được Tiểu lục bình."
     },
     {
       "id": "char_003",
-      "name": "Dư Tử Đồng",
-      "original_name": "余子童",
+      "name_source": "余子童",
+      "name_target": "Dư Tử Đồng",
+      "name_aliases": [],
       "gender": "male",
-      "roles": [
-        "Antagonist",
-        "Spirit Assistant"
-      ],
-      "description": "Tu tiên giả bị mất thân xác, đang bám vào Mặc đại phu."
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "antagonist",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Tu tiên giả bị mất thân xác, đang bám vào Mặc đại phu.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Tu tiên giả bị mất thân xác, đang bám vào Mặc đại phu."
     },
     {
       "id": "char_004",
-      "name": "Trương Thiết",
-      "original_name": "张铁",
-      "aliases": [
+      "name_source": "张铁",
+      "name_target": "Trương Thiết",
+      "name_aliases": [
         "Thiết nô"
       ],
       "gender": "male",
-      "roles": [
-        "Disciple (former)",
-        "Iron Slave"
-      ],
-      "description": "Đệ tử của Mặc đại phu, bị luyện thành Thiết nô (Zombie/Luyện thi). Thân như sắt thép."
-    }
-  ],
-  "relationships": [
-    {
-      "source": "char_001",
-      "target": "char_002",
-      "type": "master_disciple",
-      "status": "active"
-    },
-    {
-      "source": "char_001",
-      "target": "char_003",
-      "type": "hostile_cooperation",
-      "status": "forced"
-    },
-    {
-      "source": "char_001",
-      "target": "char_004",
-      "type": "master_slave",
-      "status": "controlled"
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "disciple (former)",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Đệ tử của Mặc đại phu, bị luyện thành Thiết nô (Zombie/Luyện thi). Thân như sắt thép.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Đệ tử của Mặc đại phu, bị luyện thành Thiết nô (Zombie/Luyện thi). Thân như sắt thép."
     }
   ]
 }

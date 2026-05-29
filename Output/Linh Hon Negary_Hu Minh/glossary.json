@@ -1,1352 +1,2392 @@
 {
   "metadata": {
-    "version": "1.6",
-    "project": "Linh Hồn Negary",
-    "last_updated": "2026-05-12T07:59:16.708991"
+    "version": "2.0",
+    "schema": "gold",
+    "branch": "Linh Hon Negary_Hu Minh",
+    "last_updated": "2026-05-30T04:48:09+07:00",
+    "total_entries": 238,
+    "previous_schema": "legacy"
   },
   "entries": [
     {
       "source": "真言",
+      "source_language": "zh",
       "target": "Chân Ngôn",
-      "note": "Logia"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Logia",
+      "locked": false
     },
     {
       "source": "气运",
+      "source_language": "zh",
       "target": "Khí Vận",
-      "note": "Fortune"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Fortune",
+      "locked": false
     },
     {
       "source": "绝运",
+      "source_language": "zh",
       "target": "Tuyệt Vận",
-      "note": "Absolute Misfortune"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Absolute Misfortune",
+      "locked": false
     },
     {
       "source": "多元宇宙",
+      "source_language": "zh",
       "target": "Đa Nguyên Vũ Trụ",
-      "note": "Multiverse"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Multiverse",
+      "locked": false
     },
     {
       "source": "主角光环",
+      "source_language": "zh",
       "target": "Hào Quang Nhân Vật Chính",
-      "note": "Protagonist Halo"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Protagonist Halo",
+      "locked": false
     },
     {
       "source": "巫医",
+      "source_language": "zh",
       "target": "Witch doctor",
-      "note": "Latin for profession"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Latin for profession",
+      "locked": false
     },
     {
       "source": "低魔世界",
+      "source_language": "zh",
       "target": "Low Magic",
-      "note": "Latin for setting term"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Latin for setting term",
+      "locked": false
     },
     {
       "source": "感知场",
+      "source_language": "zh",
       "target": "Trường cảm giác",
-      "note": "Perception field"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Perception field",
+      "locked": false
     },
     {
       "source": "干涉力",
+      "source_language": "zh",
       "target": "Lực can thiệp",
-      "note": "Interference force"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Interference force",
+      "locked": false
     },
     {
       "source": "念动力",
+      "source_language": "zh",
       "target": "Niệm động lực",
-      "note": "Psychokinesis"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Psychokinesis",
+      "locked": false
     },
     {
       "source": "死域",
+      "source_language": "zh",
       "target": "Tử vực",
-      "note": ""
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "白气",
+      "source_language": "zh",
       "target": "Sinh khí",
-      "note": ""
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "清凉气息",
+      "source_language": "zh",
       "target": "Hồn khí",
-      "note": ""
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "阳气",
+      "source_language": "zh",
       "target": "Dương khí",
-      "note": "Metaphysical - Hán Việt"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Metaphysical - Hán Việt",
+      "locked": false
     },
     {
       "source": "阴气",
+      "source_language": "zh",
       "target": "Âm khí",
-      "note": "Metaphysical - Hán Việt"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Metaphysical - Hán Việt",
+      "locked": false
     },
     {
       "source": "厉鬼",
+      "source_language": "zh",
       "target": "Lệ quỷ",
-      "note": ""
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "塔克里",
+      "source_language": "zh",
       "target": "Takli",
-      "note": "A monster/beast in the wild",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "A monster/beast in the wild",
+      "locked": false
     },
     {
       "source": "塔克岭",
+      "source_language": "zh",
       "target": "Lĩnh Tak",
-      "note": "Tak Ridge",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tak Ridge",
+      "locked": false
     },
     {
       "source": "西丽河",
+      "source_language": "zh",
       "target": "Sông Sili",
-      "note": "Sili River",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Sili River",
+      "locked": false
     },
     {
       "source": "神恩教",
+      "source_language": "zh",
       "target": "Thần Ân giáo",
-      "note": "God's Grace Church",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "God's Grace Church",
+      "locked": false
     },
     {
       "source": "邪灵",
+      "source_language": "zh",
       "target": "Tà Linh",
-      "note": "Evil Spirit",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Evil Spirit",
+      "locked": false
     },
     {
       "source": "龙之子",
+      "source_language": "zh",
       "target": "Long chi tử",
-      "note": "Sons of the Dragon",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Sons of the Dragon",
+      "locked": false
     },
     {
       "source": "因特卡密王国",
+      "source_language": "zh",
       "target": "Vương quốc Intercam",
-      "note": "Intercam Kingdom",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Intercam Kingdom",
+      "locked": false
     },
     {
       "source": "德根人",
+      "source_language": "zh",
       "target": "Người Degen",
-      "note": "Degen people",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Degen people",
+      "locked": false
     },
     {
       "source": "特里兰西亚",
+      "source_language": "zh",
       "target": "Trilansia",
-      "note": "Ancient Cauchy country",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Ancient Cauchy country",
+      "locked": false
     },
     {
       "source": "肯特人",
+      "source_language": "zh",
       "target": "Người Kent",
-      "note": "Kent people",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Kent people",
+      "locked": false
     },
     {
       "source": "神名",
+      "source_language": "zh",
       "target": "Thần danh",
-      "note": "Divine Name",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Divine Name",
+      "locked": false
     },
     {
       "source": "始祖病菌",
+      "source_language": "zh",
       "target": "Mầm bệnh Ancestor",
-      "note": "Ancestor Germs",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Ancestor Germs",
+      "locked": false
     },
     {
       "source": "黑鸦病菌",
+      "source_language": "zh",
       "target": "Mầm bệnh Black Crow",
-      "note": "Black Crow Germs",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Black Crow Germs",
+      "locked": false
     },
     {
       "source": "支配病菌",
+      "source_language": "zh",
       "target": "Mầm bệnh Domination",
-      "note": "Domination Germs",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Domination Germs",
+      "locked": false
     },
     {
       "source": "义人病菌",
+      "source_language": "zh",
       "target": "Mầm bệnh Righteous Man",
-      "note": "Righteous Man Germs",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Righteous Man Germs",
+      "locked": false
     },
     {
       "source": "咕撒",
+      "source_language": "zh",
       "target": "Gusa",
-      "note": "Chân ngã, Căn nguyên linh hồn",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Chân ngã, Căn nguyên linh hồn",
+      "locked": false
     },
     {
       "source": "咕塔数",
+      "source_language": "zh",
       "target": "Chỉ số Guta",
-      "note": "Đánh giá tiềm năng linh hồn",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Đánh giá tiềm năng linh hồn",
+      "locked": false
     },
     {
       "source": "雷亚斯特米亚",
+      "source_language": "zh",
       "target": "Reyastemia",
-      "note": "Nơi được sự vĩ đại chú ý",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Nơi được sự vĩ đại chú ý",
+      "locked": false
     },
     {
       "source": "鸦人",
+      "source_language": "zh",
       "target": "Quạ Nhân",
-      "note": "Crow Men",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Crow Men",
+      "locked": false
     },
     {
       "source": "克里斯·摩多",
+      "source_language": "zh",
       "target": "Chris Modo",
-      "note": "Du hiệp truyền kỳ",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Du hiệp truyền kỳ",
+      "locked": false
     },
     {
       "source": "托利卡王国",
+      "source_language": "zh",
       "target": "Torika",
-      "note": "Vương quốc Torika",
-      "pending_sync": false
-    },
-    {
-      "source": "龙之子",
-      "target": "Long Chi Tử",
-      "note": "Huyết mạch vương thất Intercam",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Vương quốc Torika",
+      "locked": false
     },
     {
       "source": "瑟斯一世",
+      "source_language": "zh",
       "target": "Seth I",
-      "note": "Quốc vương Intercam",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Quốc vương Intercam",
+      "locked": false
     },
     {
       "source": "呼吸法",
+      "source_language": "zh",
       "target": "Hô Hấp Pháp",
-      "note": "Breathing Technique"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Breathing Technique",
+      "locked": false
     },
     {
       "source": "弥漫",
+      "source_language": "zh",
       "target": "Mễ Mạn",
-      "note": "Pervasive Germs",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Pervasive Germs",
+      "locked": false
     },
     {
       "source": "巫灵术士",
+      "source_language": "zh",
       "target": "Vu Linh thuật sĩ",
-      "note": "Spirit Warlock",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Spirit Warlock",
+      "locked": false
     },
     {
       "source": "祖灵甲胄",
+      "source_language": "zh",
       "target": "Tổ Linh giáp trụ",
-      "note": "Ancestral Spirit Armor",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Ancestral Spirit Armor",
+      "locked": false
     },
     {
       "source": "布吉特尔",
+      "source_language": "zh",
       "target": "Bugitier",
-      "note": "Truyền giáo sĩ Thần Ân giáo",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Truyền giáo sĩ Thần Ân giáo",
+      "locked": false
     },
     {
       "source": "少年帮",
+      "source_language": "zh",
       "target": "Thiếu niên bang",
-      "note": "Tổ chức thiếu niên người Cauchy",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tổ chức thiếu niên người Cauchy",
+      "locked": false
     },
     {
       "source": "救世圣女",
+      "source_language": "zh",
       "target": "Thánh nữ cứu thế",
-      "note": "Savior Saintess",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Savior Saintess",
+      "locked": false
     },
     {
       "source": "誓言戒指",
+      "source_language": "zh",
       "target": "Nhẫn Thệ Ngôn",
-      "note": "Vow Ring",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Vow Ring",
+      "locked": false
     },
     {
       "source": "心之律动",
+      "source_language": "zh",
       "target": "Heart Rhythm",
-      "note": "Heart Rhythm"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Heart Rhythm",
+      "locked": false
     },
     {
       "source": "律动",
+      "source_language": "zh",
       "target": "Rhythm",
-      "note": "Rhythm",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Rhythm",
+      "locked": false
     },
     {
       "source": "萨米拉",
+      "source_language": "zh",
       "target": "Samira",
-      "note": "Thần cuồng phong người Cauchy",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thần cuồng phong người Cauchy",
+      "locked": false
     },
     {
       "source": "纽瑞拉",
+      "source_language": "zh",
       "target": "Neurila",
-      "note": "Nữ thần chồi non người Cauchy",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Nữ thần chồi non người Cauchy",
+      "locked": false
     },
     {
       "source": "神恩圣经",
+      "source_language": "zh",
       "target": "Thần Ân Thánh Kinh",
-      "note": "Bible of God's Grace",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Bible of God's Grace",
+      "locked": false
     },
     {
       "source": "特里兰西亚帝国",
+      "source_language": "zh",
       "target": "Đế quốc Trilandcia",
-      "note": "Đế quốc cổ đại của người Cauchy",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Đế quốc cổ đại của người Cauchy",
+      "locked": false
     },
     {
       "source": "赫尔罗",
+      "source_language": "zh",
       "target": "Herro",
-      "note": "Thần cường tráng người Cauchy",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thần cường tráng người Cauchy",
+      "locked": false
     },
     {
       "source": "斯特米兰罗",
+      "source_language": "zh",
       "target": "Stmiranlo",
-      "note": "Thần kiên bích người Cauchy",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thần kiên bích người Cauchy",
+      "locked": false
     },
     {
       "source": "神恩战士",
+      "source_language": "zh",
       "target": "Thần Ân chiến sĩ",
-      "note": "God's Grace Warrior",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "God's Grace Warrior",
+      "locked": false
     },
     {
       "source": "最后的呢喃",
+      "source_language": "zh",
       "target": "Lời thì thầm cuối cùng",
-      "note": "Last Whispers",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Last Whispers",
+      "locked": false
     },
     {
       "source": "科摩罗",
+      "source_language": "zh",
       "target": "Komoro",
-      "note": "Thủ lĩnh Crow Men",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thủ lĩnh Crow Men",
+      "locked": false
     },
     {
       "source": "诺扎德斯",
+      "source_language": "zh",
       "target": "Nozardes",
-      "note": "Thành viên cao cấp Crow Men",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thành viên cao cấp Crow Men",
+      "locked": false
     },
     {
       "source": "亚德雷",
+      "source_language": "zh",
       "target": "Adrey",
-      "note": "Thành viên cao cấp Crow Men",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thành viên cao cấp Crow Men",
+      "locked": false
     },
     {
       "source": "烟结草",
+      "source_language": "zh",
       "target": "Cỏ Yên Kết",
-      "note": "Smoke Grass"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Smoke Grass",
+      "locked": false
     },
     {
       "source": "真知印记",
+      "source_language": "zh",
       "target": "Chân Tri Ấn Ký",
-      "note": "True Knowledge Mark"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "True Knowledge Mark",
+      "locked": false
     },
     {
       "source": "真知恩赐",
+      "source_language": "zh",
       "target": "Chân Tri Ân Tứ",
-      "note": "True Knowledge Grace"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "True Knowledge Grace",
+      "locked": false
     },
     {
       "source": "守护恩赐",
+      "source_language": "zh",
       "target": "Hộ Vệ Ân Tứ",
-      "note": "Guardian Grace"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Guardian Grace",
+      "locked": false
     },
     {
       "source": "牺牲恩赐",
+      "source_language": "zh",
       "target": "Tế Hiến Ân Tứ",
-      "note": "Sacrifice Grace"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Sacrifice Grace",
+      "locked": false
     },
     {
       "source": "拯救恩赐",
+      "source_language": "zh",
       "target": "Cứu Thế Ân Tứ",
-      "note": "Saving Grace"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Saving Grace",
+      "locked": false
     },
     {
       "source": "薪之流法",
+      "source_language": "zh",
       "target": "Tân Lưu Hô Hấp Pháp",
-      "note": "Cinder Flow"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Cinder Flow",
+      "locked": false
     },
     {
       "source": "光之流法",
+      "source_language": "zh",
       "target": "Quang Lưu Hô Hấp Pháp",
-      "note": "Light Flow"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Light Flow",
+      "locked": false
     },
     {
       "source": "流法",
+      "source_language": "zh",
       "target": "Lưu Pháp",
-      "note": "Flow Style"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Flow Style",
+      "locked": false
     },
     {
       "source": "异鳞者",
+      "source_language": "zh",
       "target": "Dị Lân Giả",
-      "note": "Strange Scaled One"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Strange Scaled One",
+      "locked": false
     },
     {
       "source": "深乱律动",
+      "source_language": "zh",
       "target": "Deep Rhythm",
-      "note": "Deep Chaotic Rhythm"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Deep Chaotic Rhythm",
+      "locked": false
     },
     {
       "source": "律动剥离",
+      "source_language": "zh",
       "target": "Rhythm Stripping",
-      "note": "Rhythm Stripping"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Rhythm Stripping",
+      "locked": false
     },
     {
       "source": "律动之金",
+      "source_language": "zh",
       "target": "Metal Rhythm",
-      "note": "Metal Rhythm"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Metal Rhythm",
+      "locked": false
     },
     {
       "source": "龙粉末",
+      "source_language": "zh",
       "target": "Bột rồng",
-      "note": "Dragon Powder"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Dragon Powder",
+      "locked": false
     },
     {
       "source": "黑尔斯",
+      "source_language": "zh",
       "target": "Heals",
-      "note": "Tổ chức tín phụng Hắc Uyên",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tổ chức tín phụng Hắc Uyên",
+      "locked": false
     },
     {
       "source": "黑渊",
+      "source_language": "zh",
       "target": "Hắc Uyên",
-      "note": "Black Abyss",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Black Abyss",
+      "locked": false
     },
     {
       "source": "神之四面",
+      "source_language": "zh",
       "target": "Bốn mặt của thần",
-      "note": "God's Four Faces",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "God's Four Faces",
+      "locked": false
     },
     {
       "source": "刺眼者",
+      "source_language": "zh",
       "target": "Thứ Nhãn giả",
-      "note": "Biệt danh của thần - Thứ Nhãn giả (Latinh khi trang trọng: The Eye-Piercing One)",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Biệt danh của thần - Thứ Nhãn giả (Latinh khi trang trọng: The Eye-Piercing One)",
+      "locked": false
     },
     {
       "source": "割舌者",
+      "source_language": "zh",
       "target": "Cát Thiệt giả",
-      "note": "Biệt danh của thần - Cát Thiệt giả (Latinh khi trang trọng: The Tongue-Cutter)",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Biệt danh của thần - Cát Thiệt giả (Latinh khi trang trọng: The Tongue-Cutter)",
+      "locked": false
     },
     {
       "source": "剁手者",
+      "source_language": "zh",
       "target": "Đoạt Thủ giả",
-      "note": "Biệt danh của thần - Đoạt Thủ giả (Latinh khi trang trọng: The Hand-Chopper)",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Biệt danh của thần - Đoạt Thủ giả (Latinh khi trang trọng: The Hand-Chopper)",
+      "locked": false
     },
     {
       "source": "断头者",
+      "source_language": "zh",
       "target": "Đoạn Đầu giả",
-      "note": "Biệt danh của thần - Đoạn Đầu giả (Latinh khi trang trọng: The Head-Breaker)",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Biệt danh của thần - Đoạn Đầu giả (Latinh khi trang trọng: The Head-Breaker)",
+      "locked": false
     },
     {
       "source": "黑渊之石",
+      "source_language": "zh",
       "target": "Đá Hắc Uyên",
-      "note": "Stone of the Black Abyss",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Stone of the Black Abyss",
+      "locked": false
     },
     {
       "source": "去火仪式",
+      "source_language": "zh",
       "target": "Nghi lễ khử hỏa",
-      "note": "Fire-removing ritual",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Fire-removing ritual",
+      "locked": false
     },
     {
       "source": "仪式之刃",
+      "source_language": "zh",
       "target": "Dao tế lễ",
-      "note": "Ritual Blade",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Ritual Blade",
+      "locked": false
     },
     {
       "source": "无忧乡",
+      "source_language": "zh",
       "target": "Xứ sở vô ưu",
-      "note": "Land of no worries",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Land of no worries",
+      "locked": false
     },
     {
       "source": "恶意之火",
+      "source_language": "zh",
       "target": "Ngọn lửa ác ý",
-      "note": "Fire of Malice",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Fire of Malice",
+      "locked": false
     },
     {
       "source": "伤害反存",
+      "source_language": "zh",
       "target": "Tích trữ phản đòn sát thương",
-      "note": "Damage reflection accumulation",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Damage reflection accumulation",
+      "locked": false
     },
     {
       "source": "杀意支配",
+      "source_language": "zh",
       "target": "Thôn phệ sát ý",
-      "note": "Killing Intent Domination",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Killing Intent Domination",
+      "locked": false
     },
     {
       "source": "初火",
+      "source_language": "zh",
       "target": "Sơ Hỏa",
-      "note": "Initial Fire",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Initial Fire",
+      "locked": false
     },
     {
       "source": "鬼人",
+      "source_language": "zh",
       "target": "Quỷ Nhân",
-      "note": "Ghostman",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Ghostman",
+      "locked": false
     },
     {
       "source": "龙人",
+      "source_language": "zh",
       "target": "Long Nhân",
-      "note": "Dragonman",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Dragonman",
+      "locked": false
     },
     {
       "source": "始龙",
+      "source_language": "zh",
       "target": "Sơ Long",
-      "note": "Primal Dragon",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Primal Dragon",
+      "locked": false
     },
     {
       "source": "疾病同调",
+      "source_language": "zh",
       "target": "Tật bệnh đồng điều",
-      "note": "Disease Synchronization",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Disease Synchronization",
+      "locked": false
     },
     {
       "source": "初始三神",
+      "source_language": "zh",
       "target": "Tam thần khởi nguyên",
-      "note": "Initial Three Gods",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Initial Three Gods",
+      "locked": false
     },
     {
       "source": "龙语",
+      "source_language": "zh",
       "target": "Ngôn ngữ rồng",
-      "note": "Dragon Language",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Dragon Language",
+      "locked": false
     },
     {
       "source": "科洛米耶",
+      "source_language": "zh",
       "target": "Colomier",
-      "note": "Địa danh",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Địa danh",
+      "locked": false
     },
     {
       "source": "斯科罗",
+      "source_language": "zh",
       "target": "Scoro",
-      "note": "Địa danh/Tên họ",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Địa danh/Tên họ",
+      "locked": false
     },
     {
       "source": "钢之流法",
+      "source_language": "zh",
       "target": "Cương Lưu Hô Hấp Pháp",
-      "note": "Steel Flow",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Steel Flow",
+      "locked": false
     },
     {
       "source": "英雄之证",
+      "source_language": "zh",
       "target": "Chứng nhận anh hùng",
-      "note": "Hero's Proof",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Hero's Proof",
+      "locked": false
     },
     {
       "source": "骑士",
+      "source_language": "zh",
       "target": "Hiệp sĩ",
-      "note": "Thuật ngữ phương Tây đại trà",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thuật ngữ phương Tây đại trà",
+      "locked": false
     },
     {
       "source": "牧师",
+      "source_language": "zh",
       "target": "Mục sư",
-      "note": "Thuật ngữ phương Tây đại trà",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thuật ngữ phương Tây đại trà",
+      "locked": false
     },
     {
       "source": "主教",
+      "source_language": "zh",
       "target": "Giám mục",
-      "note": "Thuật ngữ phương Tây đại trà",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thuật ngữ phương Tây đại trà",
+      "locked": false
     },
     {
       "source": "雇佣兵",
+      "source_language": "zh",
       "target": "Lính đánh thuê",
-      "note": "Thuật ngữ phương Tây đại trà",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thuật ngữ phương Tây đại trà",
+      "locked": false
     },
     {
       "source": "海盗",
+      "source_language": "zh",
       "target": "Hải tặc",
-      "note": "Thuật ngữ phương Tây đại trà",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thuật ngữ phương Tây đại trà",
+      "locked": false
     },
     {
       "source": "元帅",
+      "source_language": "zh",
       "target": "Nguyên soái",
-      "note": "Thuật ngữ phương Tây đại trà",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thuật ngữ phương Tây đại trà",
+      "locked": false
     },
     {
       "source": "公爵",
+      "source_language": "zh",
       "target": "Công tước",
-      "note": "Thuật ngữ phương Tây đại trà",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thuật ngữ phương Tây đại trà",
+      "locked": false
     },
     {
       "source": "侯爵",
+      "source_language": "zh",
       "target": "Hầu tước",
-      "note": "Thuật ngữ phương Tây đại trà",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thuật ngữ phương Tây đại trà",
+      "locked": false
     },
     {
       "source": "伯爵",
+      "source_language": "zh",
       "target": "Bá tước",
-      "note": "Thuật ngữ phương Tây đại trà",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thuật ngữ phương Tây đại trà",
+      "locked": false
     },
     {
       "source": "男爵",
+      "source_language": "zh",
       "target": "Nam tước",
-      "note": "Thuật ngữ phương Tây đại trà",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thuật ngữ phương Tây đại trà",
+      "locked": false
     },
     {
       "source": "王子",
+      "source_language": "zh",
       "target": "Hoàng tử",
-      "note": "Thuật ngữ phương Tây đại trà",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thuật ngữ phương Tây đại trà",
+      "locked": false
     },
     {
       "source": "王女",
+      "source_language": "zh",
       "target": "Công chúa",
-      "note": "Thuật ngữ phương Tây đại trà",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thuật ngữ phương Tây đại trà",
+      "locked": false
     },
     {
       "source": "国王",
+      "source_language": "zh",
       "target": "Quốc vương",
-      "note": "Thuật ngữ phương Tây đại trà",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thuật ngữ phương Tây đại trà",
+      "locked": false
     },
     {
       "source": "女王",
+      "source_language": "zh",
       "target": "Nữ hoàng",
-      "note": "Thuật ngữ phương Tây đại trà",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thuật ngữ phương Tây đại trà",
+      "locked": false
     },
     {
       "source": "巫师",
+      "source_language": "zh",
       "target": "Phù thủy",
-      "note": "Thuật ngữ phương Tây đại trà",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thuật ngữ phương Tây đại trà",
+      "locked": false
     },
     {
       "source": "术士",
+      "source_language": "zh",
       "target": "Thuật sĩ",
-      "note": "Thuật ngữ phương Tây đại trà",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thuật ngữ phương Tây đại trà",
+      "locked": false
     },
     {
       "source": "卫兵",
+      "source_language": "zh",
       "target": "Vệ binh",
-      "note": "Thuật ngữ phương Tây đại trà",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thuật ngữ phương Tây đại trà",
+      "locked": false
     },
     {
       "source": "猎人",
+      "source_language": "zh",
       "target": "Thợ săn",
-      "note": "Thuật ngữ phương Tây đại trà",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thuật ngữ phương Tây đại trà",
+      "locked": false
     },
     {
       "source": "骑士剑",
+      "source_language": "zh",
       "target": "Knight sword",
-      "note": "Trang bị - Latinh",
-      "pending_sync": false
-    },
-    {
-      "source": "仪式之刃",
-      "target": "Ritual Blade",
-      "note": "Trang bị - Latinh",
-      "pending_sync": false
-    },
-    {
-      "source": "黑渊之石",
-      "target": "Black Abyss Stone",
-      "note": "Trang bị - Latinh",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Trang bị - Latinh",
+      "locked": false
     },
     {
       "source": "灾厄",
+      "source_language": "zh",
       "target": "Tai Ách",
-      "note": "Calamity",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Calamity",
+      "locked": false
     },
     {
       "source": "权柄",
+      "source_language": "zh",
       "target": "Quyền Bính",
-      "note": "Authority",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Authority",
+      "locked": false
     },
     {
       "source": "灾厄权柄",
+      "source_language": "zh",
       "target": "Tai Ách Quyền Bính",
-      "note": "Calamity Authority",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Calamity Authority",
+      "locked": false
     },
     {
       "source": "Tai Ách chi lực",
+      "source_language": "zh",
       "target": "Tai Ách chi lực",
-      "note": "Calamity Energy",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Calamity Energy",
+      "locked": false
     },
     {
       "source": "灾王",
+      "source_language": "zh",
       "target": "Tai Vương",
-      "note": "Calamity King",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Calamity King",
+      "locked": false
     },
     {
       "source": "灾厄应急响应科",
+      "source_language": "zh",
       "target": "Khoa Đối ứng Khẩn cấp Tai Ách",
-      "note": "Calamity Emergency Response Department (CERD)",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Calamity Emergency Response Department (CERD)",
+      "locked": false
     },
     {
       "source": "域",
+      "source_language": "zh",
       "target": "Vực",
-      "note": "Sector/Region",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Sector/Region",
+      "locked": false
     },
     {
       "source": "区",
+      "source_language": "zh",
       "target": "Khu",
-      "note": "Area/Zone",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Area/Zone",
+      "locked": false
     },
     {
       "source": "罪恶之灾",
+      "source_language": "zh",
       "target": "Tội Ác Chi Tai",
-      "note": "Calamity of Sin",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Calamity of Sin",
+      "locked": false
     },
     {
       "source": "医疗事故",
+      "source_language": "zh",
       "target": "Sự Cố Y Tế",
-      "note": "Medical Malpractice",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Medical Malpractice",
+      "locked": false
     },
     {
       "source": "孤寡",
+      "source_language": "zh",
       "target": "Cô Quả",
-      "note": "Loneliness/Solitude",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Loneliness/Solitude",
+      "locked": false
     },
     {
       "source": "流矢",
+      "source_language": "zh",
       "target": "Lưu Thỉ",
-      "note": "Stray Arrow",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Stray Arrow",
+      "locked": false
     },
     {
       "source": "震天雷",
+      "source_language": "zh",
       "target": "Chấn Thiên Lôi",
-      "note": "Heaven-Shaking Thunder",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Heaven-Shaking Thunder",
+      "locked": false
     },
     {
       "source": "交通瘫痪",
+      "source_language": "zh",
       "target": "Tê Liệt Giao Thông",
-      "note": "Traffic Paralysis (Authority)",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Traffic Paralysis (Authority)",
+      "locked": false
     },
     {
       "source": "灾之力反应收束器",
+      "source_language": "zh",
       "target": "Thiết bị thu thúc Tai Ách chi lực",
-      "note": "Calamity Force Reaction Restrictor",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Calamity Force Reaction Restrictor",
+      "locked": false
     },
     {
       "source": "利刃之伤",
+      "source_language": "zh",
       "target": "Lợi Nhận Chi Thương",
-      "note": "Sharp Blade Wound (Authority)",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Sharp Blade Wound (Authority)",
+      "locked": false
     },
     {
       "source": "月布大地震",
+      "source_language": "zh",
       "target": "Trận động đất lớn Nguyệt Bố",
-      "note": "Yuebu Earthquake",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Yuebu Earthquake",
+      "locked": false
     },
     {
       "source": "末日石碑",
+      "source_language": "zh",
       "target": "Bia Đá Mạt Nhật",
-      "note": "Doomsday Stele",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Doomsday Stele",
+      "locked": false
     },
     {
       "source": "赤红之星",
+      "source_language": "zh",
       "target": "Xích Hồng Chi Tinh",
-      "note": "Red Star",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Red Star",
+      "locked": false
     },
     {
       "source": "异界的乌鸦",
+      "source_language": "zh",
       "target": "Dị Giới Ô Nha",
-      "note": "Otherworld Crows",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Otherworld Crows",
+      "locked": false
     },
     {
       "source": "奈格里制药",
+      "source_language": "zh",
       "target": "Dược phẩm Negary",
-      "note": "Negary Pharmaceuticals",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Negary Pharmaceuticals",
+      "locked": false
     },
     {
       "source": "灾厄管理法庭",
+      "source_language": "zh",
       "target": "Tòa án Quản lý Tai Ách",
-      "note": "Calamity Management Court",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Calamity Management Court",
+      "locked": false
     },
     {
       "source": "舛讹",
+      "source_language": "zh",
       "target": "Chuyển Ngoa",
-      "note": "Deviance/Error (Term from Doomsday Stele)",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Deviance/Error (Term from Doomsday Stele)",
+      "locked": false
     },
     {
       "source": "根源二次解放",
+      "source_language": "zh",
       "target": "Giải phóng Căn Nguyên cấp 2",
-      "note": "Secondary Root Liberation",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Secondary Root Liberation",
+      "locked": false
     },
     {
       "source": "修炼功法",
+      "source_language": "zh",
       "target": "Công pháp tu luyện",
-      "note": "Cultivation Method",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Cultivation Method",
+      "locked": false
     },
     {
       "source": "巫师刺激法",
+      "source_language": "zh",
       "target": "Vu Sư Kích Thích Pháp",
-      "note": "Wizard Stimulation Method",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Wizard Stimulation Method",
+      "locked": false
     },
     {
       "source": "启灵药剂",
+      "source_language": "zh",
       "target": "Dược tề Khải Linh",
-      "note": "Awakening Potion",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Awakening Potion",
+      "locked": false
     },
     {
       "source": "灾之力波动感应技术",
+      "source_language": "zh",
       "target": "Công nghệ cảm ứng dao động Tai Ách chi lực",
-      "note": "Calamity Force Wave Sensing Technology",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Calamity Force Wave Sensing Technology",
+      "locked": false
     },
     {
       "source": "灾之力材料制造技术",
+      "source_language": "zh",
       "target": "Công nghệ chế tạo vật liệu Tai Ách chi lực",
-      "note": "Calamity Force Material Manufacturing Technology",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Calamity Force Material Manufacturing Technology",
+      "locked": false
     },
     {
       "source": "灾之力稳定技术",
+      "source_language": "zh",
       "target": "Công nghệ ổn định Tai Ách chi lực",
-      "note": "Calamity Force Stabilization Technology",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Calamity Force Stabilization Technology",
+      "locked": false
     },
     {
       "source": "灵魂武器制造方法",
+      "source_language": "zh",
       "target": "Phương pháp chế tạo linh hồn vũ khí",
-      "note": "Soul Weapon Forging/Manufacturing Method",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Soul Weapon Forging/Manufacturing Method",
+      "locked": false
     },
     {
       "source": "恶化",
+      "source_language": "zh",
       "target": "Ác Hóa",
-      "note": "Deterioration (Authority)",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Deterioration (Authority)",
+      "locked": false
     },
     {
       "source": "赤红之章",
+      "source_language": "zh",
       "target": "Xích Hồng Chi Chương",
-      "note": "Red Chapter (Prophecy term for Fang Ze)",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Red Chapter (Prophecy term for Fang Ze)",
+      "locked": false
     },
     {
       "source": "房屋倒塌",
+      "source_language": "zh",
       "target": "Phòng Ốc Đổ Sập",
-      "note": "House Collapsing (Authority)",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "House Collapsing (Authority)",
+      "locked": false
     },
     {
       "source": "神言具现",
+      "source_language": "zh",
       "target": "Thần Ngôn Cụ Hiện",
-      "note": "God's Word Incarnate / Divine Words Manifestation (Noah's ability)",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "God's Word Incarnate / Divine Words Manifestation (Noah's ability)",
+      "locked": false
     },
     {
       "source": "维特效应",
+      "source_language": "zh",
       "target": "Hiệu ứng Werther",
-      "note": "Werther Effect (Psychological term)",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Werther Effect (Psychological term)",
+      "locked": false
     },
     {
       "source": "个人现实",
+      "source_language": "zh",
       "target": "Hiện thực cá nhân",
-      "note": "Personal Reality (Supernatural concept)",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Personal Reality (Supernatural concept)",
+      "locked": false
     },
     {
       "source": "秩序崩溃",
+      "source_language": "zh",
       "target": "Trật Tự Băng Hoại",
-      "note": "Order Collapse (Authority Evolution of House Collapsing)",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Order Collapse (Authority Evolution of House Collapsing)",
+      "locked": false
     },
     {
       "source": "骨折",
+      "source_language": "zh",
       "target": "Cốt Chiết",
-      "note": "Bone Fracture (Authority)",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Bone Fracture (Authority)",
+      "locked": false
     },
     {
       "source": "地陷",
+      "source_language": "zh",
       "target": "Địa Hãm",
-      "note": "Ground Subsidence (Authority)",
-      "pending_sync": false
-    },
-    {
-      "source": "交通瘫痪",
-      "target": "Giao Thông Tê Liệt",
-      "note": "Traffic Paralysis (Authority)",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Ground Subsidence (Authority)",
+      "locked": false
     },
     {
       "source": "本质苏醒",
+      "source_language": "zh",
       "target": "Bản Chất Tô Tỉnh",
-      "note": "Nature Awakening / Essence Awakening (Root Liberation)",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Nature Awakening / Essence Awakening (Root Liberation)",
+      "locked": false
     },
     {
       "source": "启灵法",
+      "source_language": "zh",
       "target": "Khải Linh Pháp",
-      "note": "Enlightenment Method - Phương pháp tu luyện linh hồn của Negary"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Enlightenment Method - Phương pháp tu luyện linh hồn của Negary",
+      "locked": false
     },
     {
       "source": "共生武器",
+      "source_language": "zh",
       "target": "Vũ khí cộng sinh",
-      "note": "Symbiotic Weapon - Vũ khí rèn luyện cùng linh hồn"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Symbiotic Weapon - Vũ khí rèn luyện cùng linh hồn",
+      "locked": false
     },
     {
       "source": "金属多面体",
+      "source_language": "zh",
       "target": "Đa diện thể kim loại",
-      "note": "Metallic Polyhedron - Hạt nhân của quái vật Căn Nguyên hóa"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Metallic Polyhedron - Hạt nhân của quái vật Căn Nguyên hóa",
+      "locked": false
     },
     {
       "source": "幸存者",
+      "source_language": "zh",
       "target": "Kẻ Sống Sót",
-      "note": "Survivors - Tổ chức tại Nguyệt Bố"
-    },
-    {
-      "source": "月布大地震",
-      "target": "Trận động đất lớn Nguyệt Bố",
-      "note": "Yuebu Earthquake - Thảm họa 16 năm trước"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Survivors - Tổ chức tại Nguyệt Bố",
+      "locked": false
     },
     {
       "source": "思想钢印",
+      "source_language": "zh",
       "target": "Tư tưởng cương ấn",
-      "note": "Mental Stamp / Thought Steel Seal - Cơ chế bảo vệ tinh thần của tổ chức Kẻ Sống Sót"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Mental Stamp / Thought Steel Seal - Cơ chế bảo vệ tinh thần của tổ chức Kẻ Sống Sót",
+      "locked": false
     },
     {
       "source": "十灾",
+      "source_language": "zh",
       "target": "Thập Tai",
-      "note": "Ten Calamities - Mười thảm họa mạt thế"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Ten Calamities - Mười thảm họa mạt thế",
+      "locked": false
     },
     {
       "source": "天倾",
+      "source_language": "zh",
       "target": "Thiên Khuynh",
-      "note": "Sky Collapse - Một trong Thập Tai"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Sky Collapse - Một trong Thập Tai",
+      "locked": false
     },
     {
       "source": "太阳风暴",
+      "source_language": "zh",
       "target": "Thái Dương Phong Bạo",
-      "note": "Solar Storm - Một trong Thập Tai"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Solar Storm - Một trong Thập Tai",
+      "locked": false
     },
     {
       "source": "地心移极",
+      "source_language": "zh",
       "target": "Địa Tâm Di Cực",
-      "note": "Geomagnetic Reversal / Pole Shift - Một trong Thập Tai"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Geomagnetic Reversal / Pole Shift - Một trong Thập Tai",
+      "locked": false
     },
     {
       "source": "大洪水",
+      "source_language": "zh",
       "target": "Đại Hồng Thủy",
-      "note": "Great Flood - Một trong Thập Tai"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Great Flood - Một trong Thập Tai",
+      "locked": false
     },
     {
       "source": "行星撞击",
+      "source_language": "zh",
       "target": "Hành Tinh Tràng Kích",
-      "note": "Asteroid Impact - Một trong Thập Tai"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Asteroid Impact - Một trong Thập Tai",
+      "locked": false
     },
     {
       "source": "超级瘟疫",
+      "source_language": "zh",
       "target": "Siêu Cấp Ôn Dịch",
-      "note": "Super Plague - Một trong Thập Tai"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Super Plague - Một trong Thập Tai",
+      "locked": false
     },
     {
       "source": "时间混乱",
+      "source_language": "zh",
       "target": "Thời Gian Hỗn Loạn",
-      "note": "Time Confusion - Một trong Thập Tai"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Time Confusion - Một trong Thập Tai",
+      "locked": false
     },
     {
       "source": "众生之王",
+      "source_language": "zh",
       "target": "Chúng Sinh Chi Vương",
-      "note": "King of Commoners - Danh hiệu của Phương Trạch trong Bia Đá Mạt Nhật"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "King of Commoners - Danh hiệu của Phương Trạch trong Bia Đá Mạt Nhật",
+      "locked": false
     },
     {
       "source": "灾之力储存器",
+      "source_language": "zh",
       "target": "Thiết bị lưu trữ Tai Ách chi lực",
-      "note": "Disaster Power Storage Device - Công nghệ mới của Khoa Đối ứng"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Disaster Power Storage Device - Công nghệ mới của Khoa Đối ứng",
+      "locked": false
     },
     {
       "source": "源池",
+      "source_language": "zh",
       "target": "Nguyên Trì",
-      "note": "Source Pool - Nguồn bể năng lượng/thông tin mấu chốt trong âm mưu của Kẻ Sống Sót"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Source Pool - Nguồn bể năng lượng/thông tin mấu chốt trong âm mưu của Kẻ Sống Sót",
+      "locked": false
     },
     {
       "source": "灾之力护盾",
+      "source_language": "zh",
       "target": "Hộ thuẫn Tai Ách chi lực",
-      "note": "Disaster Power Shield - Lớp bảo vệ tạo ra từ thiết bị công nghệ"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Disaster Power Shield - Lớp bảo vệ tạo ra từ thiết bị công nghệ",
+      "locked": false
     },
     {
       "source": "崇高目标",
+      "source_language": "zh",
       "target": "Sùng Cao Mục Tiêu",
-      "note": "Sublime Goal - Năng lực bản chất của thủ lĩnh Kẻ Sống Sót, tạo ra tư tưởng cương ấn"
-    },
-    {
-      "source": "罪恶之灾",
-      "target": "Tội Ác Chi Tai",
-      "note": "Sin Calamity - Quyền bính của Vương Chiêu"
-    },
-    {
-      "source": "利刃之伤",
-      "target": "Lợi Nhận Chi Thương",
-      "note": "Sharp Blade Wound - Quyền bính của Lưu Nhận"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Sublime Goal - Năng lực bản chất của thủ lĩnh Kẻ Sống Sót, tạo ra tư tưởng cương ấn",
+      "locked": false
     },
     {
       "source": "三翼恶龙",
+      "source_language": "zh",
       "target": "Tam Dực Ác Long",
-      "note": "Three-Winged Evil Dragon - Hình thái của Negary sau khi biến đổi bệnh khuẩn"
-    },
-    {
-      "source": "龙语",
-      "target": "Long Ngữ",
-      "note": "Dragon Language - Ngôn ngữ cổ xưa mang sức mạnh can thiệp"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Three-Winged Evil Dragon - Hình thái của Negary sau khi biến đổi bệnh khuẩn",
+      "locked": false
     },
     {
       "source": "jliost",
+      "source_language": "zh",
       "target": "Jliost",
-      "note": "Dragon Tongue: Unstoppable Force - Sức mạnh không thể kháng cự"
-    },
-    {
-      "source": "灾王",
-      "target": "Tai Vương",
-      "note": "Disaster King - Cấp độ cao nhất của người nắm giữ quyền bính"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Dragon Tongue: Unstoppable Force - Sức mạnh không thể kháng cự",
+      "locked": false
     },
     {
       "source": "生物殖装",
+      "source_language": "zh",
       "target": "Sinh Vật Thực Trang",
-      "note": "Bio-Armor / Biological Colonization - Bộ giáp sinh học chế tạo từ vi khuẩn thây ma"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Bio-Armor / Biological Colonization - Bộ giáp sinh học chế tạo từ vi khuẩn thây ma",
+      "locked": false
     },
     {
       "source": "趴地鬼",
+      "source_language": "zh",
       "target": "Pháp địa quỷ",
-      "note": "Crawling ghost - Thây ma bò dưới đất, tiền thân của các quái vật ngụy trang"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Crawling ghost - Thây ma bò dưới đất, tiền thân của các quái vật ngụy trang",
+      "locked": false
     },
     {
       "source": "亡者之灾",
+      "source_language": "zh",
       "target": "Vong Giả Chi Tai",
-      "note": "Undead Calamity - Tên gọi thảm họa thây ma do Negary gây ra"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Undead Calamity - Tên gọi thảm họa thây ma do Negary gây ra",
+      "locked": false
     },
     {
       "source": "星辰之力",
+      "source_language": "zh",
       "target": "Tinh Thần Chi Lực",
-      "note": "Star Power - Năng lực căn nguyên của Phương Trạch, vay mượn sức mạnh từ niềm tin của chúng sinh"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Star Power - Năng lực căn nguyên của Phương Trạch, vay mượn sức mạnh từ niềm tin của chúng sinh",
+      "locked": false
     },
     {
       "source": "守护之刃",
+      "source_language": "zh",
       "target": "Thủ Hộ Chi Nhận",
-      "note": "Guardian Blade - Năng lực của người cha, tạo lớp bảo vệ tự động phản công"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Guardian Blade - Năng lực của người cha, tạo lớp bảo vệ tự động phản công",
+      "locked": false
     },
     {
       "source": "黑死灾王",
+      "source_language": "zh",
       "target": "Hắc Tử Tai Vương",
-      "note": "Black Death Disaster King - Danh hiệu của Tai Vương Siêu Cấp Ôn Dịch"
-    },
-    {
-      "source": "交通瘫痪",
-      "target": "Giao Thông Tê Liệt",
-      "note": "Traffic Paralysis - Quyền bính liên quan đến việc điều khiển lộ trình và phương tiện giao thông"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Black Death Disaster King - Danh hiệu của Tai Vương Siêu Cấp Ôn Dịch",
+      "locked": false
     },
     {
       "source": "舛讹之主",
+      "source_language": "zh",
       "target": "Truân Ngoa Chi Chủ",
-      "note": "Master of Errors - Danh hiệu của Negary trong tiên tri mạt thế"
-    },
-    {
-      "source": "末日石碑",
-      "target": "Bia đá mạt thế",
-      "note": "Doom Stele - Tấm bia ghi lại quỹ đạo của tai họa mạt thế"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Master of Errors - Danh hiệu của Negary trong tiên tri mạt thế",
+      "locked": false
     },
     {
       "source": "灵魂之刃",
+      "source_language": "zh",
       "target": "Linh Hồn Chi Nhận",
-      "note": "Soul Blade - Năng lực bản nguyên của Trần Địch Hy, có thể cắt linh hồn"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Soul Blade - Năng lực bản nguyên của Trần Địch Hy, có thể cắt linh hồn",
+      "locked": false
     },
     {
       "source": "魂之血",
+      "source_language": "zh",
       "target": "Hồn Chi Huyết",
-      "note": "Blood of the Soul - Loại vi khuẩn chứa đựng ký ức và thông tin của Negary"
-    },
-    {
-      "source": "干涉力",
-      "target": "Can thiệp lực",
-      "note": "Interference Force - Năng lực gốc rễ phái sinh từ linh hồn, là bản chất của Tai Ách chi lực và tinh thần lực"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Blood of the Soul - Loại vi khuẩn chứa đựng ký ức và thông tin của Negary",
+      "locked": false
     },
     {
       "source": "心像攻击",
+      "source_language": "zh",
       "target": "Tâm Tượng Công Kích",
-      "note": "Heart Image Attack - Chiêu thức tấn công bằng ý thức để sửa chữa hoặc thanh tẩy tâm trí đối phương"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Heart Image Attack - Chiêu thức tấn công bằng ý thức để sửa chữa hoặc thanh tẩy tâm trí đối phương",
+      "locked": false
     },
     {
       "source": "森罗万象之眼",
+      "source_language": "zh",
       "target": "Sâm La Vạn Tượng Chi Nhãn",
-      "note": "All-Encompassing Eye - Con mắt khổng lồ ngưng tụ can thiệp lực và hồn khí"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "All-Encompassing Eye - Con mắt khổng lồ ngưng tụ can thiệp lực và hồn khí",
+      "locked": false
     },
     {
       "source": "魂气",
+      "source_language": "zh",
       "target": "Hồn khí",
-      "note": "Soul Breath - Khí của linh hồn, bao gồm ký ức, cảm xúc và thông tin"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Soul Breath - Khí của linh hồn, bao gồm ký ức, cảm xúc và thông tin",
+      "locked": false
     },
     {
       "source": "荒诞幻术领域",
+      "source_language": "zh",
       "target": "Lĩnh vực ảo thuật hoang đường",
-      "note": "Absurd Illusion Domain - Lĩnh vực ảo giác được tạo ra từ những thông tin hồn khí hỗn loạn"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Absurd Illusion Domain - Lĩnh vực ảo giác được tạo ra từ những thông tin hồn khí hỗn loạn",
+      "locked": false
     },
     {
       "source": "舛讹之道",
+      "source_language": "zh",
       "target": "Truân Ngoa Chi Đạo",
-      "note": "Calamity defense formation based on Negary's error attribute",
-      "pending_sync": false
-    },
-    {
-      "source": "地心移极",
-      "target": "Địa Tâm Di Cực",
-      "note": "Geomagnetic Reversal - Calamity King Arctos",
-      "pending_sync": false
-    },
-    {
-      "source": "大洪水",
-      "target": "Đại Hồng Thủy",
-      "note": "Great Flood - Calamity King Fang Shunan",
-      "pending_sync": false
-    },
-    {
-      "source": "太阳风暴",
-      "target": "Thái Dương Phong Bạo",
-      "note": "Solar Storm - Calamity King Xue Xinyun",
-      "pending_sync": false
-    },
-    {
-      "source": "天倾",
-      "target": "Thiên Khuynh",
-      "note": "Sky Collapse - The ultimate doomsday calamity",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Calamity defense formation based on Negary's error attribute",
+      "locked": false
     },
     {
       "source": "映照技术",
+      "source_language": "zh",
       "target": "Kỹ thuật Ánh Chiếu",
-      "note": "Reflection/Mirroring technology - Preserve memories across timelines",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Reflection/Mirroring technology - Preserve memories across timelines",
+      "locked": false
     },
     {
       "source": "真灵",
+      "source_language": "zh",
       "target": "Chân Linh",
-      "note": "True Spirit - The core of the soul",
-      "pending_sync": false
-    },
-    {
-      "source": "魂之血",
-      "target": "Hồn Chi Huyết",
-      "note": "Soul Blood - Negary's medium for infection and control",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "True Spirit - The core of the soul",
+      "locked": false
     },
     {
       "source": "恶灵气",
+      "source_language": "zh",
       "target": "Ác Linh Khí",
-      "note": "Evil Spirit Aura - Chen Dixi's soul-striking technique",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Evil Spirit Aura - Chen Dixi's soul-striking technique",
+      "locked": false
     },
     {
       "source": "本源瘟疫",
+      "source_language": "zh",
       "target": "Bản Nguyên Ôn Dịch",
-      "note": "Origin Plague - New God and Progenitor Dragon's invasive power",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Origin Plague - New God and Progenitor Dragon's invasive power",
+      "locked": false
     },
     {
       "source": "根源化",
+      "source_language": "zh",
       "target": "Căn Nguyên Hóa",
-      "note": "Source-fication - Loss of control over one's Source",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Source-fication - Loss of control over one's Source",
+      "locked": false
     },
     {
       "source": "狂风之神",
+      "source_language": "zh",
       "target": "Cuồng Phong Chi Thần",
-      "note": "God of Storms - Samila",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "God of Storms - Samila",
+      "locked": false
     },
     {
       "source": "燃烧的远征",
+      "source_language": "zh",
       "target": "Nhiên Thiêu Viễn Chinh",
-      "note": "Burning Crusade - New God and Progenitor Dragon's conquest",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Burning Crusade - New God and Progenitor Dragon's conquest",
+      "locked": false
     },
     {
       "source": "魔金",
+      "source_language": "zh",
       "target": "Ma Kim",
-      "note": "Magic Gold - Golden blood of the God race",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Magic Gold - Golden blood of the God race",
+      "locked": false
     },
     {
       "source": "神尸",
+      "source_language": "zh",
       "target": "Thần Thi",
-      "note": "God Corpse - Remains of the God race",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "God Corpse - Remains of the God race",
+      "locked": false
     },
     {
       "source": "薪材",
+      "source_language": "zh",
       "target": "Tân Tài",
-      "note": "Firewood/Fuel - Worlds consumed by the Burning Crusade",
-      "pending_sync": false
-    },
-    {
-      "source": "末日石碑",
-      "target": "Bia Đá Mạt Nhật",
-      "note": "Doomsday Stele - Mysterious stone tablet",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Firewood/Fuel - Worlds consumed by the Burning Crusade",
+      "locked": false
     },
     {
       "source": "半龙人",
+      "source_language": "zh",
       "target": "Bán Long nhân",
-      "note": "Half-dragon human - Traitors infused with New God and Progenitor Dragon power",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Half-dragon human - Traitors infused with New God and Progenitor Dragon power",
+      "locked": false
     },
     {
       "source": "罪孽",
+      "source_language": "zh",
       "target": "Tội Nghiệt",
-      "note": "Sin - An attribute of the Eternal Sin Dragon used to counter the Dragon race",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Sin - An attribute of the Eternal Sin Dragon used to counter the Dragon race",
+      "locked": false
     },
     {
       "source": "龙语魔法",
+      "source_language": "zh",
       "target": "Long ngữ ma pháp",
-      "note": "Dragon Speech Magic - Improved version of Dragon Speech for use in other worlds",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Dragon Speech Magic - Improved version of Dragon Speech for use in other worlds",
+      "locked": false
     },
     {
       "source": "虚拟灵装",
+      "source_language": "zh",
       "target": "Linh trang ảo",
-      "note": "Virtual Spirit Gear - A soul clone technique for distraction",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Virtual Spirit Gear - A soul clone technique for distraction",
+      "locked": false
     },
     {
       "source": "不洁崇拜",
+      "source_language": "zh",
       "target": "Sùng Bái Bất Khiết",
-      "note": "Unclean Worship - The origin power of God Negary",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Unclean Worship - The origin power of God Negary",
+      "locked": false
     },
     {
       "source": "不洁之灵",
+      "source_language": "zh",
       "target": "Bất Khiết Chi Linh",
-      "note": "Unclean Spirit - Spirits that worship filth to achieve immortality",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Unclean Spirit - Spirits that worship filth to achieve immortality",
+      "locked": false
     },
     {
       "source": "不洁之言",
+      "source_language": "zh",
       "target": "Bất Khiết Chi Ngôn",
-      "note": "Unclean Words - Doctrine used for assimilation into filth",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Unclean Words - Doctrine used for assimilation into filth",
+      "locked": false
     },
     {
       "source": "能力建模",
+      "source_language": "zh",
       "target": "Kiến mô năng lực",
-      "note": "Ability Modeling - Technique to analyze and replicate powers",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Ability Modeling - Technique to analyze and replicate powers",
+      "locked": false
     },
     {
       "source": "杀气匕首",
+      "source_language": "zh",
       "target": "Sát khí thủ chủy",
-      "note": "Murderous Dagger - J's weapon infused with killing intent",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Murderous Dagger - J's weapon infused with killing intent",
+      "locked": false
     },
     {
       "source": "燃烧半龙人",
+      "source_language": "zh",
       "target": "Bán Long nhân Nhiên Thiêu",
-      "note": "Burning Half-Dragon - Demon species created by New God and Progenitor Dragon",
-      "pending_sync": false
-    },
-    {
-      "source": "末日石碑",
-      "target": "Bia Đá Mạt Nhật",
-      "note": "Doomsday Stele - Device to connect timelines",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Burning Half-Dragon - Demon species created by New God and Progenitor Dragon",
+      "locked": false
     },
     {
       "source": "侍者",
+      "source_language": "zh",
       "target": "Thị Giả",
-      "note": "Servant/Attendant - Artificial souls created by Negary",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Servant/Attendant - Artificial souls created by Negary",
+      "locked": false
     },
     {
       "source": "灵魂建模",
+      "source_language": "zh",
       "target": "Kiến mô linh hồn",
-      "note": "Soul Modeling - Technique to create artificial souls",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Soul Modeling - Technique to create artificial souls",
+      "locked": false
     },
     {
       "source": "功亏一篑",
+      "source_language": "zh",
       "target": "Công Khuy Nhất Quỹ",
-      "note": "Failure at the final step - Idiom used as chapter title",
-      "pending_sync": false
-    },
-    {
-      "source": "主角光环",
-      "target": "Hào quang nhân vật chính",
-      "note": "Protagonist's Aura/Plot Armor",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Failure at the final step - Idiom used as chapter title",
+      "locked": false
     },
     {
       "source": "心念之力",
+      "source_language": "zh",
       "target": "Tâm niệm chi lực",
-      "note": "Mind/Heart power used by Fang Ze",
-      "pending_sync": false
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Mind/Heart power used by Fang Ze",
+      "locked": false
+    },
+    {
+      "source": "比罗修斯",
+      "source_language": "zh",
+      "target": "Peroxis",
+      "category": "other",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Peroxis - Quản gia của gia tộc Vernard",
+      "locked": false
+    },
+    {
+      "source": "奥莉",
+      "source_language": "zh",
+      "target": "Oly",
+      "category": "other",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Oly - Bạn học của Cromie",
+      "locked": false
+    },
+    {
+      "source": "不洁隐修会",
+      "source_language": "zh",
+      "target": "Hiệp Hội Ẩn Tu Bất Khiết",
+      "category": "other",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Hiệp Hội Ẩn Tu Bất Khiết",
+      "locked": false
+    },
+    {
+      "source": "凯瑟琳·沃登",
+      "source_language": "zh",
+      "target": "Catherine Warden",
+      "category": "other",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Catherine Warden - Thành viên Hiệp Hội Ẩn Tu Bất Khiết",
+      "locked": false
+    },
+    {
+      "source": "黑鸦之血",
+      "source_language": "zh",
+      "target": "Huyết Hắc Nha",
+      "category": "other",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Huyết Hắc Nha (mầm bệnh)",
+      "locked": false
+    },
+    {
+      "source": "同轨仪式",
+      "source_language": "zh",
+      "target": "Nghi Lễ Đồng Quỹ",
+      "category": "other",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Nghi lễ ma thuật liên kết quỹ đạo",
+      "locked": false
+    },
+    {
+      "source": "寂静宝石",
+      "source_language": "zh",
+      "target": "Đá Tịch Tĩnh",
+      "category": "other",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Silent Gem / Gem of Silence",
+      "locked": false
+    },
+    {
+      "source": "食尸教",
+      "source_language": "zh",
+      "target": "Thực Thi Giáo",
+      "category": "other",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Corpse-eating Sect",
+      "locked": false
+    },
+    {
+      "source": "龙之崇拜教会",
+      "source_language": "zh",
+      "target": "Giáo hội Sùng Bái Rồng",
+      "category": "other",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Dragon Worship Church",
+      "locked": false
+    },
+    {
+      "source": "寂静之神",
+      "source_language": "zh",
+      "target": "Thần Tịch Tĩnh",
+      "category": "other",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Silent God",
+      "locked": false
+    },
+    {
+      "source": "无声者",
+      "source_language": "zh",
+      "target": "Vô Thanh Giả",
+      "category": "other",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Silent Ones / those who can perceive the silent realm",
+      "locked": false
+    },
+    {
+      "source": "月树",
+      "source_language": "zh",
+      "target": "Nguyệt Thư",
+      "category": "other",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Moon Tree",
+      "locked": false
+    },
+    {
+      "source": "精灵主神",
+      "source_language": "zh",
+      "target": "Yêu tinh Chủ thần",
+      "category": "other",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Elf Lord Gods / Elf Creator Gods",
+      "locked": false
+    },
+    {
+      "source": "神之血",
+      "source_language": "zh",
+      "target": "Huyết Thần",
+      "category": "other",
+      "context": "",
+      "confidence": "medium",
+      "notes": "God's Blood",
+      "locked": false
+    },
+    {
+      "source": "神的国度",
+      "source_language": "zh",
+      "target": "Quốc độ của Thần",
+      "category": "other",
+      "context": "",
+      "confidence": "medium",
+      "notes": "God's Kingdom / Realm of God",
+      "locked": false
+    },
+    {
+      "source": "静谧结界",
+      "source_language": "zh",
+      "target": "Kết Giới Tĩnh Mịch",
+      "category": "other",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Silent Barrier",
+      "locked": false
+    },
+    {
+      "source": "献祭之章",
+      "source_language": "zh",
+      "target": "Chương Hiến Tế",
+      "category": "other",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Chapter of Sacrifice",
+      "locked": false
+    },
+    {
+      "source": "香之献祭",
+      "source_language": "zh",
+      "target": "Hương Chi Hiến Tế",
+      "category": "other",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Sacrifice of Scent",
+      "locked": false
+    },
+    {
+      "source": "红日骑士",
+      "source_language": "zh",
+      "target": "Hiệp sĩ Hồng Nhật",
+      "category": "other",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Red Sun Knight",
+      "locked": false
+    },
+    {
+      "source": "雷斯特魔道书",
+      "source_language": "zh",
+      "target": "Sách Ma Đạo Lester",
+      "category": "other",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Lester Grimoire / Magic Book",
+      "locked": false
+    },
+    {
+      "source": "祭神日",
+      "source_language": "zh",
+      "target": "Ngày Tế Thần",
+      "category": "other",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Day of Sacrificing to God / Harvest Day",
+      "locked": false
+    },
+    {
+      "source": "荣光骑士",
+      "source_language": "zh",
+      "target": "Hiệp sĩ Vinh Quang",
+      "category": "other",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Glory Knight / Honor Knight",
+      "locked": false
     }
   ]
 }

@@ -48,7 +48,11 @@ Giống workflow gốc, hỏi user:
 
 **Thư mục:** `d:\Dichtrung\Output\[Tên Project Branch]\`
 
-Tạo đầy đủ cấu trúc state files + thư mục con (y hệt workflow gốc).
+Tạo đầy đủ cấu trúc state files + thư mục con (y hệt workflow gốc). Bắt buộc phải tạo thêm hệ thống thư mục của **Strict Translation Engine**:
+- `runtime/context_packs/`
+- `runtime/gates/`
+- `runtime/locks/`
+- `runtime/manifests/`
 
 **KHÁC BIỆT:**
 - KHÔNG tạo `source/` trong project branch
@@ -70,9 +74,13 @@ Tạo đầy đủ cấu trúc state files + thư mục con (y hệt workflow g�
 2. **Characters:** Import nhân vật đã biết từ `Global State/global_characters.json` (nếu cùng source)
 3. **Pronouns:** Import từ `~/.gemini/antigravity/translation/global_pronouns.json`
 
-### Bước 4: Pre-Scan Source
+### Bước 4: Khởi tạo Strict Translation Engine
 
-Giống workflow gốc — quét `Source/Source split/[Tên]/` bằng `source_analyzer.py`.
+1. Quét thử chương đầu tiên bằng lệnh:
+   ```bash
+   python "Script/strict_engine/source_analyzer.py" --branch "[Tên Project Branch]" --chapter 1
+   ```
+2. Đảm bảo cấu trúc file JSON và Runtime directory đã sẵn sàng cho lệnh `/translate`.
 
 ### Bước 5: Báo Cáo
 

@@ -1,0 +1,74 @@
+{
+  "schema_version": "1.0",
+  "branch": "Linh Hon Negary_Hu Minh",
+  "chapter": 222,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Linh Hon Negary_Hu Minh\\0222 - 第222章 克罗米.md",
+  "source_char_count": 2222,
+  "characters": [],
+  "organizations": [
+    {
+      "source": "一边是邪教",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "他们一个是连环杀手，一边是邪教，你一个普通人能够起"
+      ]
+    },
+    {
+      "source": "不洁隐修会会有一个内部聚会",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "息。\n“另外过几天，不洁隐修会会有一个内部聚会，到时会有着人引导你"
+      ]
+    },
+    {
+      "source": "无声教会",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "\n事情涉及罪恶之血、无声教会、自杀以及连环杀手种"
+      ]
+    },
+    {
+      "source": "还是无声教会",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "：“无论是比罗修斯，还是无声教会，我都要他们付出代价"
+      ]
+    }
+  ],
+  "locations": [],
+  "realms": [],
+  "techniques": [
+    "他已经",
+    "但是克罗米知道法",
+    "别忘了我可是学院剑",
+    "对于家里的印",
+    "尽管他的嫌疑已经",
+    "当然除了剑",
+    "很快停在了法",
+    "我的剑",
+    "父亲的梦想是将法",
+    "象征着他的嫌疑已经",
+    "这个主角的下场已经",
+    "这是我初步",
+    "这里已经"
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "主角光环",
+      "target": "Hào Quang Nhân Vật Chính"
+    },
+    {
+      "source": "区",
+      "target": "Khu"
+    }
+  ],
+  "generated_at": "2026-05-30T04:18:59.155496+07:00"
+}

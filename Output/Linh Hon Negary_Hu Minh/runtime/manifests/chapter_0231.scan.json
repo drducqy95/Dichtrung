@@ -1,0 +1,74 @@
+{
+  "schema_version": "1.0",
+  "branch": "Linh Hon Negary_Hu Minh",
+  "chapter": 231,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Linh Hon Negary_Hu Minh\\0231 - 第231章 人生就是一次次抉择.md",
+  "source_char_count": 2126,
+  "characters": [
+    {
+      "source": "能力",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "话，可以通过他的灵视能力，从残魂之中获得足够",
+        "还要熟悉他现在的灵视能力，于是在卷轴之中指明"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "source": "密修会",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "，着实令人恐惧。\n“密修会，就是我之前购买情报"
+      ]
+    },
+    {
+      "source": "推开门",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "完，奈格里就离开了，推开门，天空之中那诡异的月"
+      ]
+    }
+  ],
+  "locations": [],
+  "realms": [],
+  "techniques": [
+    "一些辅助性质的魔法",
+    "一类就是魅惑类的法",
+    "书本身也是一种魔法",
+    "但是和献祭魔法",
+    "你就会发现魔法",
+    "具体的位置已经",
+    "天已经",
+    "奈格里将上面的魔法",
+    "就自认为掌",
+    "当于一个小型的魔法",
+    "拥有者在打消了魔法",
+    "滥用里面的各种魔法",
+    "的能量可以加强魔法",
+    "着翻阅着手中的魔法",
+    "虽然上面的魔法",
+    "让人挥发欲望的魔法",
+    "让人释放欲望的魔法",
+    "越来越习惯使用魔法",
+    "这本魔法",
+    "进一步"
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "奥莉",
+      "target": "Oly"
+    },
+    {
+      "source": "不洁隐修会",
+      "target": "Hiệp Hội Ẩn Tu Bất Khiết"
+    }
+  ],
+  "generated_at": "2026-05-30T04:23:24.976868+07:00"
+}

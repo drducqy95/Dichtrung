@@ -1,0 +1,11 @@
+{
+  "schema_version": "1.0",
+  "branch": "Linh Hon Negary_Hu Minh",
+  "chapter": 228,
+  "passed": true,
+  "errors": [],
+  "warnings": [
+    "Locked term violation: '域' is in source, but target 'Vực' not found in translation."
+  ],
+  "generated_at": "2026-05-30T04:22:40.396630+07:00"
+}

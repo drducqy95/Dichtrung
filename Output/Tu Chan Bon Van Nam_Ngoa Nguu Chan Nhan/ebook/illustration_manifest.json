@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "project_title": "Tu Chân Bốn Vạn Năm",
+    "generated_at": "2026-05-30T04:51:59+07:00"
+  },
+  "requirements": {
+    "toc_required": true,
+    "illustrations_required": true
+  },
+  "cover": {
+    "status": "prompt_ready",
+    "asset_candidates": [],
+    "slot_paths": [
+      "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/cover/cover.jpg",
+      "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/cover/cover.png",
+      "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/cover/cover.webp",
+      "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/cover/cover.jpeg"
+    ],
+    "preferred_slot": "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/cover/cover.jpg",
+    "prompt": "Bìa dọc 6x9 cho truyện Tu Chân Bốn Vạn Năm của Ngọa Ngưu Chân Nhân, ưu tiên sắc thái đông phương, sci fi. Bối cảnh: Tu chân cơ giáp vũ trụ thế giới khoa học kỹ thuật hiện đại."
+  },
+  "sample_chapter": {
+    "chapter_number": null,
+    "chapter_title": null,
+    "prompt": "Cảnh minh họa đại diện cho Tu Chân Bốn Vạn Năm, bám theo bối cảnh: Tu chân cơ giáp vũ trụ thế giới khoa học kỹ thuật hiện đại.",
+    "asset_candidates": []
+  },
+  "supplementary_assets": {
+    "maps": [],
+    "characters": [],
+    "diagrams": []
+  },
+  "character_manifest": {
+    "path": "ebook/character_manifest.json",
+    "status": "pending",
+    "total_characters": 0
+  }
+}

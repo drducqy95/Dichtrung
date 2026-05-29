@@ -1,0 +1,31 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Audit Result",
+  "description": "Structured output when the AI acts as an auditor to check for critical rule violations.",
+  "type": "object",
+  "properties": {
+    "audit_passed": {
+      "type": "boolean",
+      "description": "True if the translation passes all strict audit rules."
+    },
+    "violations": {
+      "type": "array",
+      "description": "List of strict rule violations found (e.g., CJK characters, missed locked terms, formatting errors).",
+      "items": {
+        "type": "string"
+      }
+    },
+    "score": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 100,
+      "description": "Quality score from 0 to 100."
+    }
+  },
+  "required": [
+    "audit_passed",
+    "violations",
+    "score"
+  ],
+  "additionalProperties": false
+}

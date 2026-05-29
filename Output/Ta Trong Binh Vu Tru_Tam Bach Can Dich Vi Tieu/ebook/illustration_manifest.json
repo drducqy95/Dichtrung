@@ -1,7 +1,7 @@
 {
   "metadata": {
     "project_title": "Ta Trong Bình Vũ Trụ",
-    "generated_at": "2026-05-14T23:42:27+07:00"
+    "generated_at": "2026-05-30T04:51:59+07:00"
   },
   "requirements": {
     "toc_required": true,
@@ -31,5 +31,10 @@
     "maps": [],
     "characters": [],
     "diagrams": []
+  },
+  "character_manifest": {
+    "path": "ebook/character_manifest.json",
+    "status": "generated",
+    "total_characters": 11
   }
 }

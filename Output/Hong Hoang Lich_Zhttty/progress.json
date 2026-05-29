@@ -2,8 +2,8 @@
   "project_name": "Hong Hoang Lich",
   "translation_team": "Dichtrung",
   "version": "1.0",
-  "completed_chapters": 150,
-  "last_updated": "2026-05-14T23:42:24+07:00",
+  "completed_chapters": 199,
+  "last_updated": "2026-05-30T04:51:58+07:00",
   "status": "in_progress",
   "naming_convention": "Chương XXXX - [Vietnamese Title].md",
   "workflow_artifacts": {
@@ -11,5 +11,1400 @@
     "converter_db_ready": true,
     "ebook_toc": "ebook/toc.md",
     "illustration_manifest": "ebook/illustration_manifest.json"
-  }
+  },
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Cao tháp",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Xuyên việt",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Hồng Hoang!",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Sinh tử bản sắc",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Chủ Thần Không Gian mở ra (thượng)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Chủ Thần Không Gian mở ra (hạ)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Chủ Thần?",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Sơ đại Chủ Thần không gian",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Đổi thưởng",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Tuyển chọn",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Vết tích",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Dị tộc",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 13,
+      "title": "Sát ý dâng trào",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 14,
+      "title": "Tuyệt sát",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 15,
+      "title": "Hậu quả và tái tiến nhập",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 16,
+      "title": "Không gian thử luyện",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 17,
+      "title": "Thập tam",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 18,
+      "title": "Hồi quy",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 19,
+      "title": "Các tự giới diện (Thượng)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 20,
+      "title": "Các tự giới diện (Hạ)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 21,
+      "title": "Ý tưởng tiềm nhập và ngựa",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 22,
+      "title": "Bất tử tộc",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 23,
+      "title": "Liên Minh Thương Nghiệp và dã tâm",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 24,
+      "title": "Không Môn",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 25,
+      "title": "Thử luyện gian nan",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 26,
+      "title": "Tân phát hiện",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 27,
+      "title": "Sơ cấp quyền hạn",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 28,
+      "title": "U hồn hóa",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 29,
+      "title": "Ngã nguyện nhập địa ngục",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 30,
+      "title": "Đại hữu khả vi",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 31,
+      "title": "Phỏng vấn",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 32,
+      "title": "Học đồ ma pháp",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 33,
+      "title": "Phân tích ấn ký",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 34,
+      "title": "Đền đáp và thuê nhà",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 35,
+      "title": "Sách vở",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 36,
+      "title": "Phản bội và bệnh viện",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 37,
+      "title": "Giải tích và phục hoạt",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 38,
+      "title": "Đổi thưởng và quyết tâm",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 39,
+      "title": "Chế tạo và đổi thưởng",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 40,
+      "title": "U hồn tàn bạo",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 41,
+      "title": "Phản pông-tư",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 42,
+      "title": "Nguồn gốc của Thiên đạo quyến thuộc trị",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 43,
+      "title": "Chuẩn bị",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 44,
+      "title": "Nhất giai dữ mạo hiểm",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 45,
+      "title": "Hợp thành Thánh vị",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 46,
+      "title": "Triệu hoán",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 47,
+      "title": "Tín nhiệm",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 48,
+      "title": "Ngươi có ước mơ gì không?",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 49,
+      "title": "Phóng đãng tu luyện",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 50,
+      "title": "Trung Ương Mậu Thổ Hậu Đức Quyết",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 51,
+      "title": "Triệu hoán kết thúc",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 52,
+      "title": "Trúc cơ chi thời",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 53,
+      "title": "Phân kỳ",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 54,
+      "title": "Chung Trúc cơ",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 55,
+      "title": "Dự cảm và kế hoạch",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 56,
+      "title": "Nhị giai và địa ngục",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 57,
+      "title": "Sinh nhi vi nhân",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 58,
+      "title": "Chính thống tu chân chi uy",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 59,
+      "title": "Bát quái phù văn",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 60,
+      "title": "Chấn động và Huyết tộc hội nghị",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 61,
+      "title": "Các phương",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 62,
+      "title": "Huyết tộc trí giả",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 63,
+      "title": "Điều tra",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 64,
+      "title": "Kinh hỉ",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 65,
+      "title": "Chưởng trung vị diện và Tiên Thiên Nhất Khí",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 66,
+      "title": "Vẫn còn",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 67,
+      "title": "Tìm thấy và triệu hoán",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 68,
+      "title": "Phân tích và quyết định",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 69,
+      "title": "Chiến thư",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 70,
+      "title": "Cảnh sát trưởng",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 71,
+      "title": "Lệnh khám xét",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 72,
+      "title": "Ám mưu",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 73,
+      "title": "Dục thành kỳ sự",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 74,
+      "title": "Trực câu điếu ngư",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 75,
+      "title": "Ngô Minh tự cứu",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 76,
+      "title": "Trực diện",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 77,
+      "title": "Ma pháp tập kích",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 78,
+      "title": "Bệnh viện",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 79,
+      "title": "Chi tiết bàn bạc",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 80,
+      "title": "Giới hạn thực lực",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 81,
+      "title": "Quyết định và giết người",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 82,
+      "title": "Cục thế phát triển",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 83,
+      "title": "Thân sau có người đẩy chạy",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 84,
+      "title": "U Minh Địa Phủ Huyết Hải Trận và Kẻ đổ vỏ",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 85,
+      "title": "Thu hoạch và Lãnh địa",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 86,
+      "title": "Lãnh địa thực sát",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 87,
+      "title": "Kế hoạch và Giấc mơ",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 88,
+      "title": "Thực tại? Thí luyện? Luân hồi?",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 89,
+      "title": "Lần đầu tiến vào",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 90,
+      "title": "Thiết lập",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 91,
+      "title": "Quản gia",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 92,
+      "title": "Ngẫu nhiên",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 93,
+      "title": "Ai mới là đại cục",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 94,
+      "title": "Tru Tiên",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 95,
+      "title": "Ý tưởng về đoàn mạo hiểm",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 96,
+      "title": "Đoàn mạo hiểm Hoa Hồng Đỏ",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 97,
+      "title": "Tân chủ nhân",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 98,
+      "title": "Làn sóng tị nạn, đại nguy hiểm và lò luyện",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 99,
+      "title": "Vì chủ nhân",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 100,
+      "title": "Nhãn dán",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 101,
+      "title": "Thiết lập",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 102,
+      "title": "Ký rồi",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 103,
+      "title": "Thế lực dần thành hình",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 104,
+      "title": "Khe nứt địa để",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 105,
+      "title": "Thiên khải",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 106,
+      "title": "Phong ấn",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 107,
+      "title": "Manh mối và sinh tử",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 108,
+      "title": "Mục tiêu",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 109,
+      "title": "Hiểu lầm",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 110,
+      "title": "Kinh hỉ (Kinh hãi)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 111,
+      "title": "Dự định",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 112,
+      "title": "Kế hoạch quân sự",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 113,
+      "title": "Cảm quan",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 114,
+      "title": "Yếu phát khiếp",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 115,
+      "title": "Tiến vào quy đổi",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 116,
+      "title": "Thất Lạc",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 117,
+      "title": "Thông tin",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 118,
+      "title": "Phòng thí nghiệm dưới đất",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 119,
+      "title": "Cái chết thất lạc sau đó",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 120,
+      "title": "Chiến trường",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 121,
+      "title": "Quân Đội Dọc Ngang",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 122,
+      "title": "Chiến Trường Tiếp Theo",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 123,
+      "title": "Ngôi Sao Mới Trỗi Dậy và Thu Hoạch Lớn",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 124,
+      "title": "Phúc Địa và Triệu Hoán",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 125,
+      "title": "Trở Về",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 126,
+      "title": "Phúc Địa Khai Kiến và Cái Đầu Cuối Cùng",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 127,
+      "title": "Hóa Huyết Tại Thủ",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 128,
+      "title": "Một Ngày Hòa Bình",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 129,
+      "title": "Bất Phong Ma Bất Thành Hoạt",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 130,
+      "title": "Phong Ma Tiếp Tục và Ngộ Nhận Tiếp Tục",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 131,
+      "title": "Khởi Đầu",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 132,
+      "title": "Màn Sau",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 133,
+      "title": "Song Trí Tái Giao Phong",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 134,
+      "title": "Đạo Vực",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 135,
+      "title": "Ta Xuất Chiêu, Ngươi Đáp Lại",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 136,
+      "title": "Đao Đến!",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 137,
+      "title": "Hóa Huyết Thần Uy",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 138,
+      "title": "Sau Trận Chiến",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 139,
+      "title": "Uy Hiếp",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 140,
+      "title": "Nhận Thức",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 141,
+      "title": "Điểm Thưởng, Ước Định và Tam Đại Tai",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 142,
+      "title": "Ẩn Bí",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 143,
+      "title": "Quy Hoạch Kiến Thiết",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 144,
+      "title": "Cự Thần Binh và Ước Định",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 145,
+      "title": "Đếm Ngược Thế Giới Luân Hồi",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 146,
+      "title": "Tiến Vào Thế Giới Luân Hồi",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 147,
+      "title": "Lừa Dối và Chiến Đấu",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 148,
+      "title": "Khởi Đầu Tử Chiến",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 149,
+      "title": "Mạnh Mẽ và Tử Chiến",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 150,
+      "title": "Điên Cuồng và Tử Vong",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 151,
+      "title": "Vẫn còn chiến được",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 152,
+      "title": "Người tốt",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 153,
+      "title": "Hội tụ tất cả các khả năng và hai tháng",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 154,
+      "title": "Lãnh địa phồn vinh và cùng nhau chơi xong đi",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 155,
+      "title": "Chuyện vặt vãnh ở lãnh địa và bắt đầu bố cục",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 156,
+      "title": "Kiến chế",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 157,
+      "title": "Siêu phàm dụ hoặc",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 158,
+      "title": "Ẩn bí tồn tại và yếu điểm bố cục",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 159,
+      "title": "Thiết kế",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 161,
+      "title": "Che chở",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 162,
+      "title": "Bóng tối",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 163,
+      "title": "Địa hạ",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 164,
+      "title": "Rõ ràng mạch lạc",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 165,
+      "title": "Nghi hoặc và nhập cục",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 166,
+      "title": "Cạm bẫy? Mồi nhử?",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 167,
+      "title": "Ai là ngư ông?",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 168,
+      "title": "Cái lòng chính nghĩa chết tiệt này",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 169,
+      "title": "Cứu thế chủ đang hành động",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 170,
+      "title": "Kết thúc tất cả những thứ này",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 171,
+      "title": "Thu hoạch",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 172,
+      "title": "Tôi là nhân loại",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 173,
+      "title": "Chuyến tàu về bến",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 174,
+      "title": "Chính bộ tẩu!",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 175,
+      "title": "Đại diện tộc Địa Tinh",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 176,
+      "title": "Tôi là nhân loại (tiếp)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 177,
+      "title": "Chuyến hành trình của tôi là Liên Minh Thương Mại",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 178,
+      "title": "Anh hào tụ hội",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 179,
+      "title": "Sự khởi đầu của một thời đại mới",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 180,
+      "title": "Cứu thế chủ (Phiên bản Trung Nhị)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 181,
+      "title": "Ngô Minh: Tôi muốn làm hoàng đế",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 182,
+      "title": "Người chơi giáng lâm",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 183,
+      "title": "Ngô Minh là một người tốt",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 184,
+      "title": "Nhóm người chơi đầu tiên",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 185,
+      "title": "Thực tế ảo phiên bản ma pháp",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 186,
+      "title": "Đây mới là người chơi",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 187,
+      "title": "Lãnh địa đầu tiên của Ngô Minh",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 188,
+      "title": "Ai tán thành, ai phản đối?",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 189,
+      "title": "Vở kịch ba hồi",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 190,
+      "title": "Tôi là Đại Lãnh Chúa",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 191,
+      "title": "Tuyệt chiêu",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 192,
+      "title": "Người chơi! Giáng lâm!",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 193,
+      "title": "Bom hạt nhân? Ngô Minh!",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 194,
+      "title": "Đệ Tứ Thiên Tai, giáng lâm",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 195,
+      "title": "Dị tộc và \"Cước Nam\"",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 196,
+      "title": "Tính người của Ngô Minh",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 197,
+      "title": "Nhật ký của người chơi",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 198,
+      "title": "Ai bảo tôi chưa từng chết?",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 199,
+      "title": "Dự tính của Ngô Minh",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 200,
+      "title": "Sự nhắm vào của các Thánh vị",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:31+07:00",
+      "note": "backfilled by branch_scaffold"
+    }
+  ]
 }

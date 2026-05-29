@@ -1,11 +1,11 @@
 {
   "total_chapters": 3398,
-  "completed_chapters": 80,
+  "completed_chapters": 130,
   "current_chapter": 80,
   "status": "in_progress",
   "project_name": "Phi Phàm Hồng Hoang",
   "last_processed_chapter": 80,
-  "last_updated": "2026-05-14T23:42:26+07:00",
+  "last_updated": "2026-05-30T04:51:59+07:00",
   "output_dir": "Output/Phi Pham Hong Hoang_Nga Tu Phi Pham/output/",
   "meta": {
     "last_updated": "2026-05-10T15:28:39.335171",
@@ -16,5 +16,917 @@
     "converter_db_ready": true,
     "ebook_toc": "ebook/toc.md",
     "illustration_manifest": "ebook/illustration_manifest.json"
-  }
+  },
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Thiên Địa Mới Mở Có Tỳ Hưu",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Quan Bất Chu Ngộ Công Pháp",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Vô Danh Công Pháp Thành",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Ba Năm Đường Trường",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Ba Vạn Năm Vội Vàng Trôi Qua",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Cương Phong Lôi Hỏa Tôi Nhục Thân (1)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Cương Phong Lôi Hỏa Tôi Nhục Thân (2)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Cương Phong Lôi Hỏa Tôi Nhục Thân (3)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Đỉnh Thiên Lập Địa Bất Chu Sơn",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Vực Ngoại Có Thiên Ma (1)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Vực Ngoại Có Thiên Ma (2)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Vực Ngoại Có Thiên Ma (3)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 13,
+      "title": "Cương Phong Lôi Hỏa Chia Chín Tầng, Tinh Không Vô Tận Có Thiên Địa",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 14,
+      "title": "Thành Đạo Thể, Hóa Bất Chu (1)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 15,
+      "title": "Thành Đạo Thể, Hóa Bất Chu (2)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 16,
+      "title": "Thành Đạo Thể, Hóa Bất Chu (3)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 17,
+      "title": "Thành Đạo Thể, Hóa Bất Chu (4)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 18,
+      "title": "Tiên Thiên Đạo Thể, Bàn Cổ Nguyên Linh",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 19,
+      "title": "Địa Tiên Đạo Quả, Vô Lượng Thần Thông",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 20,
+      "title": "Tiên Thiên Bất Diệt Linh Quang (1)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 21,
+      "title": "Tiên Thiên Bất Diệt Linh Quang (2)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 22,
+      "title": "Hồng Quân Đại Pháp, Đỉnh Thiên Lập Địa (1)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 23,
+      "title": "Hồng Quân Đại Pháp, Đỉnh Thiên Lập Địa (2)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 24,
+      "title": "Hồng Quân Đại Pháp, Đỉnh Thiên Lập Địa (3)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 25,
+      "title": "Hư Không Vô Cực Cung Điện Thuật (1)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 26,
+      "title": "Hư Không Vô Cực Cung Điện Thuật (2)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 27,
+      "title": "Pháp Khí Chi Uy, Hỗn Độn Nguyên Thạch",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 28,
+      "title": "Pháp Bảo Chi Năng (1)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 29,
+      "title": "Pháp Bảo Chi Năng (2)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 30,
+      "title": "Pháp Bảo Chi Năng (3)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 31,
+      "title": "Pháp Bảo Chi Năng (4)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 32,
+      "title": "Pháp Bảo Chi Năng (5)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 33,
+      "title": "Pháp Bảo Chi Năng (6)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 34,
+      "title": "Nhục Thân Hành Tẩu",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 35,
+      "title": "Ba Ngàn Sáu Trăm Năm Mươi Năm",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 36,
+      "title": "Thiên Sinh Phù Lục (1)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 37,
+      "title": "Thiên Sinh Phù Lục (2)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 38,
+      "title": "Thiên Sinh Phù Lục (3)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 39,
+      "title": "Lực Sĩ Triệu Hoán Quyết",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 40,
+      "title": "Cửu Kiếp Lâm Đầu (1)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 41,
+      "title": "Cửu Kiếp Lâm Đầu (2)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 42,
+      "title": "Cửu Kiếp Lâm Đầu (3)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 43,
+      "title": "Cửu Kiếp Lâm Đầu (4)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 44,
+      "title": "Cửu Kiếp Lâm Đầu (5)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 45,
+      "title": "Cửu Kiếp Lâm Đầu (6)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 46,
+      "title": "Canh Kim Lôi Hỏa Kiếp (1)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 47,
+      "title": "Canh Kim Lôi Hỏa Kiếp (2)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 48,
+      "title": "Vô Hình Phù Quỷ (1)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 49,
+      "title": "Vô Hình Phù Quỷ (2)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 50,
+      "title": "Vô Hình Phù Quỷ (3)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 51,
+      "title": "Trọng Trọc Âm Phù (1)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 52,
+      "title": "Trọng Trọc Âm Phù (2)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 53,
+      "title": "Hữu Hình Phù Quỷ! (1)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 54,
+      "title": "Hữu Hình Phù Quỷ! (2)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 55,
+      "title": "Hữu Hình Phù Quỷ! (3)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 56,
+      "title": "Pháp bảo hiển uy (1)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 57,
+      "title": "Pháp bảo hiển uy (2)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 58,
+      "title": "Hoàng Tuyền luyện khí (1)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 59,
+      "title": "Hoàng Tuyền luyện khí (2)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 60,
+      "title": "Âm Dương Giao Long (1)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 61,
+      "title": "Âm Dương Giao Long (2)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 62,
+      "title": "Cuối Cùng Có Được Bất Diệt!",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 63,
+      "title": "Hồng Quân Đảo Chúc (1)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 64,
+      "title": "Hồng Quân Đảo Chúc (2)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 65,
+      "title": "Táp Túc Bất Chu, Mạc Danh Cảm Ngộ",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 66,
+      "title": "Tạo Hóa Ngọc Điệp Quyết (1)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 67,
+      "title": "Tạo Hóa Ngọc Điệp Quyết (2)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 68,
+      "title": "Bất Chu Trên Núi Có Thần Linh",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 69,
+      "title": "Đại Đạo Pháp, Siêu Thoát Quyết",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 70,
+      "title": "Đạo Hỏa Linh Phù",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 71,
+      "title": "Có con như thế",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 72,
+      "title": "Kim Giao Hóa Long Đạo (1)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 73,
+      "title": "Kim Giao Hóa Long Đạo (2)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 74,
+      "title": "Kim Giao Hóa Long Đạo (3)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 75,
+      "title": "Vô tận tinh không (1)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 76,
+      "title": "Vô tận tinh không (2)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 77,
+      "title": "Đỉnh Bất Chu Sơn có động phủ",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 78,
+      "title": "Kim Giao Tiễn (1)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 79,
+      "title": "Kim Giao Tiễn (2)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 80,
+      "title": "Mười hai vạn chín ngàn sáu trăm năm (1)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 81,
+      "title": "Mười Hai Vạn Chín Ngàn Sáu Trăm Năm (Hai)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 82,
+      "title": "Mười Hai Vạn Chín Ngàn Sáu Trăm Năm (Ba)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 83,
+      "title": "Mười Hai Vạn Chín Ngàn Sáu Trăm Năm (Bốn)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 84,
+      "title": "Linh Quang Có Linh, Hiểu Thấu Ý Ta",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 85,
+      "title": "Chân Võ Hóa Thần Pháp (Một)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 86,
+      "title": "Chân Võ Hóa Thần Pháp (Hai)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 87,
+      "title": "Mười Hai Đạo Pháp Quyết, Mười Hai Trọng Thử Thách",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 88,
+      "title": "Luyện Bảo Chí Phương Ấn",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 89,
+      "title": "Ma La Bái Mẫu Xuất Thế",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 90,
+      "title": "Chí Phương Đồng Tử Ra Đời",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 91,
+      "title": "La Phàm Giảng Đại Đạo, Sơn Thần Muốn Bái Sư",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 92,
+      "title": "Hồng Quân Cửu Kiếp, Chí Phương Thiết Trận (Một)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 93,
+      "title": "Hồng Quân Cửu Kiếp, Chí Phương Thiết Trận (Hai)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 94,
+      "title": "Cánh Cửa Trường Sinh",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 95,
+      "title": "Tự Lập Môn Hộ Tử Tiêu Động",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 96,
+      "title": "Chỉ Xích Thiên Nhai",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 97,
+      "title": "La Phù Vi Huynh",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 98,
+      "title": "Quảng Bồ Bái Sư, La Phù Cầu Đạo (Một)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 99,
+      "title": "Quảng Bồ Bái Sư, La Phù Cầu Đạo (Hai)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 100,
+      "title": "Tử Đồ Hạ Sơn, La Phàm Sáng Sinh! (Một)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 101,
+      "title": "Tử Đồ Hạ Sơn, La Phàm Sáng Sinh (Hai)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 102,
+      "title": "Tạo Nhân Công Thành, Cao Đẳng Võ Học (Một)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 103,
+      "title": "Tạo Nhân Công Thành, Cao Đẳng Võ Học (Hai)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 104,
+      "title": "Phá Toái Hư Không, Hồng Hoang Thiên Địa",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 105,
+      "title": "Cơ Duyên Sở Chí, Tiên Thiên Bất Diệt!",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 106,
+      "title": "Thiên Địa Đại Đạo, Chuyển Thế Luân Hồi (Một)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 107,
+      "title": "Thiên Đạo Đại Đạo, Chuyển Thế Luân Hồi (Hai)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 108,
+      "title": "Minh Phủ, Võ Đạo",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 109,
+      "title": "Khai Thiên Tích Địa Pháp",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 110,
+      "title": "Càn Khôn Vô Hình Diệu Pháp, Vô Lượng Hư Không Đại Pháp",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 111,
+      "title": "Vân Du Tứ Hải (Một)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 112,
+      "title": "Vân Du Tứ Hải (Hai)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 113,
+      "title": "Hỏa Diễm Sư Tử Đầu",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 114,
+      "title": "Cửu Đầu Sư Phần Thiên",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 115,
+      "title": "Nguyên Thần Đại Đạo",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 116,
+      "title": "Ba Năm Thu Hoạch",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 117,
+      "title": "Cương Sát Thiên Kiếp",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 118,
+      "title": "Lưỡng Giới Phân Cách",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 119,
+      "title": "Thái Âm Chí Hàn Thiên Sát Lôi Kiếp",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 120,
+      "title": "Quảng Hàn Minh Nguyệt Quyết (Một)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 121,
+      "title": "Quảng Hàn Minh Nguyệt Quyết (Hai)",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 122,
+      "title": "Thái Dương Chân Hỏa, Đại Nhật Tinh Hoa",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 123,
+      "title": "Linh Tính Phù Văn",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 124,
+      "title": "Bàn Cổ Tả Nhãn, Đạo Tâm Băng Khoái",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 125,
+      "title": "Hỗn Loạn Ký Ức, Thiên Vạn Tự Ngã",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 126,
+      "title": "Chân Hoán Vô Nhị, Đạo Tâm Trọng Tục",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 127,
+      "title": "Đạo Tâm Viên Mãn, Thần Hồn Dị Biến",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 128,
+      "title": "Bàn Cổ Thiên Đồng",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 129,
+      "title": "Tam Túc Kim Ô, Đại Nhật Thiên Long",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 130,
+      "title": "Ngộ Đạo Thiên Tâm, Đại Nhật Kim Đồng",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    }
+  ]
 }

@@ -6,7 +6,7 @@ Bối cảnh: Fanfic đa thế giới khởi đầu bằng bối cảnh giam c�
 Tóm tắt nội dung: Lục Ly bước vào truyện từ thế cực kỳ bị động: bị giam, chờ tử hình và bị thẩm vấn. Từ trạng thái ấy, câu chuyện dần lật mở quá khứ, năng lực và các tầng thế giới mà anh sẽ đi qua.
 
 Branch nội bộ: `Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han`
-Tiến độ hiện tại: `6/1187` chương
+Tiến độ hiện tại: `0/1187` chương
 
 Quy ước output:
 - Hiển thị mong muốn: `Chương {chapter:04d}: {title}.md`

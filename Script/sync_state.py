@@ -31,15 +31,14 @@ def now_iso() -> str:
     return datetime.now().astimezone().replace(microsecond=0).isoformat()
 
 
-def load_json(path: Path, default: dict[str, Any]) -> dict[str, Any]:
+def load_json(path: Path, default: Any) -> Any:
     if not path.exists():
         return json.loads(json.dumps(default))
-
     with path.open("r", encoding="utf-8-sig") as handle:
         return json.load(handle)
 
 
-def dump_json(path: Path, data: dict[str, Any]) -> None:
+def dump_json(path: Path, data: Any) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("w", encoding="utf-8") as handle:
         json.dump(data, handle, ensure_ascii=False, indent=2)
@@ -75,12 +74,10 @@ def read_project_title(project_dir: Path) -> str:
     config_path = project_dir / "translation_config.json"
     if not config_path.exists():
         return project_dir.name
-
     try:
         config = load_json(config_path, {})
     except json.JSONDecodeError:
         return project_dir.name
-
     return str(config.get("project_name") or project_dir.name)
 
 
@@ -129,20 +126,42 @@ def iter_glossary_entries(project_dir: Path, project_title: str) -> list[dict[st
         return []
 
     data = load_json(glossary_path, {"entries": []})
+
+    # Normalise root format:
+    # - Legacy branches store glossary as a raw JSON array (list).
+    # - Current branches store {"entries": [...]} dict.
+    if isinstance(data, list):
+        raw_entries = data
+    elif isinstance(data, dict):
+        raw_entries = data.get("entries", [])
+    else:
+        return []
+
     deduped: dict[str, dict[str, Any]] = {}
-    for raw in data.get("entries", []):
+    for raw in raw_entries:
         if not isinstance(raw, dict):
             continue
 
-        source_term = raw.get("source_term") or raw.get("source") or raw.get("term")
-        target_term = raw.get("target_term") or raw.get("target") or raw.get("name_vi")
+        # Support both legacy key names (term/definition/context) and current
+        # schema (source_term/target_term) and intermediate (source/target).
+        source_term = (
+            raw.get("source_term")
+            or raw.get("source")
+            or raw.get("term")
+        )
+        target_term = (
+            raw.get("target_term")
+            or raw.get("target")
+            or raw.get("name_vi")
+            or raw.get("definition")   # legacy: definition = Vietnamese meaning
+        )
         if not source_term or not target_term:
             continue
 
         normalized = {
             "source_term": str(source_term).strip(),
             "target_term": str(target_term).strip(),
-            "category": str(raw.get("category") or "general").strip(),
+            "category": str(raw.get("category") or raw.get("context") or "general").strip(),
             "source_project": project_dir.name,
             "project_title": project_title,
             "confidence": normalize_confidence(raw.get("confidence")),
@@ -174,8 +193,17 @@ def iter_characters(project_dir: Path, project_title: str) -> list[dict[str, Any
         return []
 
     data = load_json(characters_path, {"characters": []})
+
+    # Normalise root format — same dual-shape support as glossary.
+    if isinstance(data, list):
+        raw_characters = data
+    elif isinstance(data, dict):
+        raw_characters = data.get("characters", [])
+    else:
+        return []
+
     results: list[dict[str, Any]] = []
-    for raw in data.get("characters", []):
+    for raw in raw_characters:
         if not isinstance(raw, dict):
             continue
 
@@ -213,6 +241,7 @@ def iter_characters(project_dir: Path, project_title: str) -> list[dict[str, Any
             }
         )
     return results
+
 
 
 def merge_glossary(

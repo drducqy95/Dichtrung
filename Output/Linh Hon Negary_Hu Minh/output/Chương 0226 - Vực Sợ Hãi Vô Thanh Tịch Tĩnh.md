@@ -1,0 +1,79 @@
+# Chương 0226: Vực Sợ Hãi Vô Thanh Tịch Tĩnh
+
+Trong sự tĩnh lặng ấy, mọi thứ xung quanh bắt đầu thay đổi.
+
+Nhận thức của con người về thế giới được thiết lập dựa trên sự tổng hợp của nhiều loại giác quan.
+
+Thị giác, thính giác, khứu giác, xúc giác, vị giác, cùng một số giác quan khác không quá rõ ràng. Một số ít người còn sở hữu những giác quan khác, chẳng hạn như Trường cảm giác của Negary, hay vài người thiên phú dị bẩm có linh giác cực cao.
+
+Rất nhiều cảm giác giúp chúng ta có nhận thức về thế giới, nhưng một khi thiếu đi loại giác quan nào đó, nhận thức này sẽ xuất hiện sai lệch.
+
+Một số thứ chúng ta chưa từng chú ý đến, không có nghĩa là chúng không tồn tại.
+
+Chỉ là có khả năng chúng ta đang sống trong những môi trường khác nhau, nên rất khó tiếp xúc với nhau.
+
+Và khi bạn có thể dùng một loại cảm nhận đặc biệt nào đó để phát hiện ra họ, điều đó cũng đồng nghĩa với việc thế giới của các bạn đã xích lại gần nhau.
+
+Thần Tịch Tĩnh mà Giáo hội Vô Thanh tín phụng chính là một tồn tại thuộc về một kiểu môi trường khác trên thế giới.
+
+Một số Vô Thanh Giả, bẩm sinh họ đã sở hữu giác quan này, thế là họ tiếp xúc được với thế giới đó.
+
+Thế giới này vượt ra ngoài trí tưởng tượng của con người, vì vậy họ cho rằng nơi đây là lĩnh vực của Thần.
+
+Lĩnh vực của Thần rất nguy hiểm. Các Vô Thanh Giả truyền thừa từ đời này sang đời khác, cộng thêm việc tìm được một số tư liệu, nên họ càng hiểu biết nhiều hơn về lĩnh vực Tịch Tĩnh của Thần.
+
+Họ có thể sống sót tương đối an toàn ở thế giới này, đồng thời thông qua một số sức mạnh của thế giới này để làm được nhiều việc mà nhân loại không thể làm được.
+
+Nói tóm lại, Giáo hội Vô Thanh phát triển từ đó. Nhờ vào đặc tính quỷ dị của mình, giáo hội này đã trở thành tổ chức tà giáo lớn nhất trấn Lor.
+
+Negary nhìn thế giới cực kỳ không hài hòa trước mắt, ngón tay khẽ cử động.
+
+Sau khi ba thành viên Giáo hội Vô Thanh thi triển năng lực, mọi âm thanh xung quanh đều quy về tĩnh lặng. Mặc dù vẫn có thể tạo ra chấn động, nhưng tuyệt nhiên không thể phát ra tiếng động nào, và ba người kia cũng biến mất tăm chỉ trong tích tắc.
+
+“Dường như ở đây, khái niệm âm thanh đã bị loại bỏ hoàn toàn, con người cho dù cảm nhận được chấn động cũng không cách nào nghe thấy.” Negary đứng dậy. Ngài xác định hệ thống phát thanh của mình hoạt động bình thường, nhưng ngay cả tiếng tự lẩm bẩm của bản thân cũng không nghe thấy được. Môi trường xung quanh đang từ từ vặn vẹo, mọi thứ dường như đã thay đổi, nhưng lại như chưa từng thay đổi gì.
+
+“Mặt bên kia của thế giới với những quy tắc khác biệt sao?” Negary không nói thêm nữa mà chuyển sang suy nghĩ trong lòng, đồng thời quan sát mặt bên kia của thế giới này. Dường như vì mất đi thính giác, các giác quan khác của ngài nhạy cảm hơn bao giờ hết.
+
+Đủ loại màu sắc trở nên rực rỡ vô cùng. Những bông hoa ngoài cửa sổ đỏ rực như muốn nhỏ máu, và ngay sau đó, chúng thực sự nhỏ máu ra.
+
+Một lượng máu lớn chảy ra từ giữa các cánh hoa, sắc đỏ ấy đặc biệt nhìn mà giật mình.
+
+“Hoa là cơ quan sinh dục của thực vật, vậy đây là những bông hoa đến 'ngày ấy' mỗi tháng sao?” Negary không bận tâm đến những đóa hoa đang chảy máu kia mà bước ra khỏi phòng.
+
+Tấm thảm lót sàn vốn có đột nhiên nhu động, cuốn ngược lên bọc lấy Negary và kéo ngài vào sâu trong căn phòng.
+
+Lưỡi dao sắc bén vươn ra từ cánh tay, dễ dàng chém rách tấm thảm. Vô số máu tươi bắn ra từ trong tấm thảm, có điều những vũng máu này có chút quái dị, nó không phải chất lỏng mà là chất rắn dạng hạt.
+
+Những hạt máu này rất đều đặn, to bằng ngón tay út, hình tròn dẹt, trông giống như tiểu cầu vậy.
+
+Toàn bộ căn nhà cũng bắt đầu rung chuyển. Negary nhìn những tiểu cầu đã ngập ngụa lối ra vào, ngài nhảy từ cửa sổ ra ngoài, đáp xuống khu vườn nhỏ phía ngoại thất. Những đóa hoa một bên vẫn đang điên cuồng chảy máu, số lượng khá lớn.
+
+Căn nhà đằng kia đã động đậy. Hai cánh cửa sổ như hai con mắt khổng lồ, cửa chính là miệng, tấm thảm kia tựa như chiếc lưỡi. Nó quay đầu lại nhìn Negary một cách vô cùng nhân hóa, cửa chính há to, vô số máu thể rắn tràn ngập quét về phía Negary.
+
+Đồng thời, cành lá rễ cây của những đóa hoa kia đều bò loang lổ tới, từng cánh hoa nhu động, giải phóng ra một luồng hương hoa nồng nặc và kỳ lạ.
+
+Trong thế giới mất đi thính giác này, mùi hương này đặc biệt chí mạng. Nó có thể khơi dậy ham muốn sâu kín trong lòng mỗi người, khiến người ta cảm thấy thể xác và tinh thần vui vẻ, cảm thấy đóa hoa kia thật tuyệt vời làm sao.
+
+Hơn nữa trên hoa còn có mật hoa rỉ ra, trong suốt như pha lê, nhìn qua là biết cực kỳ ngon ngọt, tỏa ra lực hấp dẫn mãnh liệt.
+
+“Đây được tính là yêu cầu giao phối sao?” Thanh kiếm trong tay Negary vung lên, toàn bộ hoa lá cùng dây leo quấn tới đều bị chém đứt. Negary có thể nhìn thấy rõ ràng cánh hoa sung huyết run rẩy, kiều diễm ướt át, sau đó từ sâu trong cánh hoa phun ra lượng lớn phấn hoa.
+
+Negary không hề do dự, lập tức lui lại, không đi thưởng thức cảnh tượng phấn hoa tung bay rực rỡ khắp trời kia. Dù sao xét trên phương diện sinh học, phấn hoa là tế bào sinh dục của thực vật, tương đương với sản phẩm sau khi con đực của loài người thủ dâm.
+
+Phấn hoa rơi xuống đất, xúc giác được nâng cao vượt bậc của Negary cũng cảm nhận được những chấn động dày đặc từ mặt đất.
+
+Phấn hoa đi vào lòng đất hoặc cơ thể của những sự vật khác, nhiều nhất là hòa vào những hạt máu thể rắn do căn nhà nôn ra, sau đó nhanh chóng kết hợp lại, giống như một phôi thai đang phát triển với tốc độ chóng mặt.
+
+Nếu vừa rồi Negary không lùi lại để phấn hoa rơi đầy người, ngài sẽ cảm nhận được phấn hoa xâm nhập vào cơ thể, kế đó khắp người sẽ bám đầy những phôi thai mới sinh. Ở thế giới mà xúc giác bị phóng đại vô hạn này, người ta có thể cảm nhận rõ ràng vô số nhịp thai động.
+
+Thế giới này cũng khiến cảm nhận trên mặt tinh thần bị dị hóa và phóng đại. Bởi thế khi những phôi thai kia phát triển đến một mức độ nhất định, bạn còn có thể cảm nhận được cảm xúc của thế hệ sau truyền đến cho mình.
+
+Người bình thường nếu bị phấn hoa đó ký sinh, tinh thần của họ sẽ không ngừng bị dày vò. Giác quan của người bình thường không thể thích nghi với tình huống đó. Do đó có thể dự đoán không lâu sau, lý trí của người ấy sẽ hoàn toàn sụp đổ, dưới ảnh hưởng của hàng chục triệu phôi thai, họ sẽ triệt để biến thành công cụ ấp trứng phôi thai phấn hoa. Đây đại khái là sự đáng sợ của những đóa hoa kia chăng.
+
+Những phôi thai sinh ra từ phấn hoa kết hợp với máu của căn nhà trên mặt đất phát triển cực nhanh, loáng cái đã to bằng đầu người. Đó là những sản vật quái thai dị dạng, nửa giống thực vật nửa giống đất đá, khó có thể gọi tên, khiến người ta vô cùng khó chịu. Sự tồn tại của chúng chính là đang thách thức lý trí của nhân loại. Chúng giữ cùng một tần số, nhảy nhót tưng tưng trên mặt đất, quỷ dị khôn tả.
+
+Negary hứng thú quan sát một lát rồi rảo bước đi ra ngoài.
+
+Một lát sau, Negary phát hiện mình dường như bị vây khốn trong một khu vực nhỏ lấy ngôi nhà làm trung tâm, hệt như gặp phải ma đưa lối, vĩnh viễn chỉ nhìn thấy những cảnh tượng này.
+
+Thi thoảng Negary cũng nhìn thấy một vài khung người trong suốt đi lại trên phố rồi biến mất nhanh chóng. Từ vóc dáng của họ, Negary có thể nhận ra họ là hàng xóm của mình, nhưng hiện tại đôi bên giống như ở hai thế giới khác nhau, không cách nào tiếp xúc.

@@ -1,0 +1,1377 @@
+{
+  "metadata": {
+    "branch": "Ac Linh Quoc Gia",
+    "book_title": "Ác Linh Quốc Gia",
+    "generated_at": "2026-05-30T04:51:58+07:00",
+    "total_characters": 68,
+    "style_tags": [
+      "đô thị",
+      "kinh dị",
+      "đen hài",
+      "căng thẳng"
+    ],
+    "backdrop": "Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử."
+  },
+  "characters": [
+    {
+      "id": "C001",
+      "name_original": "夏天骐",
+      "name_translated": "Hạ Thiên Kì",
+      "gender": "male",
+      "role": "protagonist",
+      "status": "alive",
+      "first_appearance": "{'chapter': 1, 'context': 'Đến phỏng vấn xin việc trực đêm tại hiệu sách Tân Hoa'}",
+      "description_vi": "Thanh niên cao ráo, gương mặt ưa nhìn nhưng thường mang vẻ mệt mỏi hoặc giễu cợt. Có một dấu bàn tay đen thẫm (dấu hiệu ám muội) trên vai sau các nhiệm vụ đầu tiên.",
+      "personality": "Cơ trí, Bình tĩnh khi gặp nguy, Độc mồm độc miệng, Thực tế",
+      "abilities": "Trực giác nhạy bén, Sử dụng bùa chú",
+      "illustration": {
+        "portrait_prompt": "Portrait of Hạ Thiên Kì, a man character from 'Ác Linh Quốc Gia'. Role: heroic aura, determined expression, center of frame. Visual traits: tall slender build. Character context: Thanh niên cao ráo, gương mặt ưa nhìn nhưng thường mang vẻ mệt mỏi hoặc giễu cợt. Có một dấu bàn tay đen thẫm (dấu hiệu ám muội) trên vai sau các nhiệm vụ đầu tiên.. Personality expressed in pose: Cơ trí, Bình tĩnh khi gặp nguy, Độc mồm độc miệng, Thực tế. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Hạ Thiên Kì (man) from 'Ác Linh Quốc Gia'. Role: heroic aura, determined expression, center of frame. Visual: tall slender build. Description: Thanh niên cao ráo, gương mặt ưa nhìn nhưng thường mang vẻ mệt mỏi hoặc giễu cợt. Có một dấu bàn tay đen thẫm (dấu hiệu ám muội) trên vai sau các nhiệm vụ đầu tiên.. Manifesting power: Trực giác nhạy bén, Sử dụng bùa chú. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 1, 'context': 'Đến phỏng vấn xin việc trực đêm tại hiệu sách Tân Hoa'}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/h_thi_n_k_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/h_thi_n_k_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C088",
+      "name_original": "安妮",
+      "name_translated": "Annie",
+      "gender": "female",
+      "role": "",
+      "status": "alive",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Annie, a woman character from 'Ác Linh Quốc Gia'. Role: distinctive character. Visual traits: kính eyes. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Annie (woman) from 'Ác Linh Quốc Gia'. Role: distinctive character. Visual: kính eyes. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/annie_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/annie_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C091",
+      "name_original": "邹园长",
+      "name_translated": "Bà dì / Giám đốc Trâu",
+      "gender": "female",
+      "role": "",
+      "status": "dead",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Bà dì / Giám đốc Trâu, a woman character from 'Ác Linh Quốc Gia'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Bà dì / Giám đốc Trâu (woman) from 'Ác Linh Quốc Gia'. Role: distinctive character. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/b_d_gi_m_c_tr_u_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/b_d_gi_m_c_tr_u_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C051",
+      "name_original": "庞海旭",
+      "name_translated": "Bàng Hải Húc",
+      "gender": "male",
+      "role": "",
+      "status": "alive",
+      "first_appearance": "{'chapter': 211, 'context': 'Khách hàng đầu tiên của nhóm HTK-ZJZ tại Tuyên Thành'}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Bàng Hải Húc, a man character from 'Ác Linh Quốc Gia'. Role: distinctive character. Visual traits: mọc eyes, scarred face. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Bàng Hải Húc (man) from 'Ác Linh Quốc Gia'. Role: distinctive character. Visual: mọc eyes, scarred face. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 211, 'context': 'Khách hàng đầu tiên của nhóm HTK-ZJZ tại Tuyên Thành'}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/b_ng_h_i_h_c_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/b_ng_h_i_h_c_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C069",
+      "name_original": "夏天骐爸爸",
+      "name_translated": "Bố Hạ",
+      "gender": "male",
+      "role": "",
+      "status": "alive",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Bố Hạ, a man character from 'Ác Linh Quốc Gia'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Bố Hạ (man) from 'Ác Linh Quốc Gia'. Role: distinctive character. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/b_h_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/b_h_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C090",
+      "name_original": "光头男 / 蛊师",
+      "name_translated": "Cổ sư",
+      "gender": "male",
+      "role": "",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Cổ sư, a man character from 'Ác Linh Quốc Gia'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Cổ sư (man) from 'Ác Linh Quốc Gia'. Role: distinctive character. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/c_s_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/c_s_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C012",
+      "name_original": "尹闫静",
+      "name_translated": "Doãn Diễm Tịnh",
+      "gender": "female",
+      "role": "",
+      "status": "dead",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Doãn Diễm Tịnh, a woman character from 'Ác Linh Quốc Gia'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Doãn Diễm Tịnh (woman) from 'Ác Linh Quốc Gia'. Role: distinctive character. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/do_n_di_m_t_nh_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/do_n_di_m_t_nh_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C039",
+      "name_original": "杨书成",
+      "name_translated": "Dương Thư Thành",
+      "gender": "male",
+      "role": "",
+      "status": "dead",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Dương Thư Thành, a man character from 'Ác Linh Quốc Gia'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Dương Thư Thành (man) from 'Ác Linh Quốc Gia'. Role: distinctive character. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/d_ng_th_th_nh_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/d_ng_th_th_nh_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C076",
+      "name_original": "Dương Thư Thành",
+      "name_translated": "Dương Thư Thành (Ảo ảnh)",
+      "gender": "male",
+      "role": "",
+      "status": "dead",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Dương Thư Thành (Ảo ảnh), a man character from 'Ác Linh Quốc Gia'. Role: distinctive character. Visual traits: demonic corrupted appearance, dark aura. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Dương Thư Thành (Ảo ảnh) (man) from 'Ác Linh Quốc Gia'. Role: distinctive character. Visual: demonic corrupted appearance, dark aura. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/d_ng_th_th_nh_o_nh_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/d_ng_th_th_nh_o_nh_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C094",
+      "name_original": "黄思甜",
+      "name_translated": "Hoàng Tư Điềm",
+      "gender": "female",
+      "role": "",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Đứa trẻ kỳ lạ, là người duy nhất đi cùng Vương Mỹ Đồng vào nhà vệ sinh.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Hoàng Tư Điềm, a woman character from 'Ác Linh Quốc Gia'. Role: distinctive character. Visual traits: demonic corrupted appearance, dark aura. Character context: Đứa trẻ kỳ lạ, là người duy nhất đi cùng Vương Mỹ Đồng vào nhà vệ sinh.. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Hoàng Tư Điềm (woman) from 'Ác Linh Quốc Gia'. Role: distinctive character. Visual: demonic corrupted appearance, dark aura. Description: Đứa trẻ kỳ lạ, là người duy nhất đi cùng Vương Mỹ Đồng vào nhà vệ sinh.. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/ho_ng_t_i_m_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/ho_ng_t_i_m_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C064",
+      "name_original": "何羽影",
+      "name_translated": "Hà Vũ Ảnh",
+      "gender": "female",
+      "role": "",
+      "status": "dead",
+      "first_appearance": "{'chapter': 242, 'context': 'Nhân viên tham gia sự kiện tại Chung cư Thanh Niên cùng Hạ Thiên Kì'}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "Chú pháp",
+      "illustration": {
+        "portrait_prompt": "Portrait of Hà Vũ Ảnh, a woman character from 'Ác Linh Quốc Gia'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Hà Vũ Ảnh (woman) from 'Ác Linh Quốc Gia'. Role: distinctive character. Manifesting power: Chú pháp. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 242, 'context': 'Nhân viên tham gia sự kiện tại Chung cư Thanh Niên cùng Hạ Thiên Kì'}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/h_v_nh_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/h_v_nh_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C008",
+      "name_original": "韩熙元",
+      "name_translated": "Hàn Hi Nguyên",
+      "gender": "male",
+      "role": "",
+      "status": "dead",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Hàn Hi Nguyên, a man character from 'Ác Linh Quốc Gia'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Hàn Hi Nguyên (man) from 'Ác Linh Quốc Gia'. Role: distinctive character. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/h_n_hi_nguy_n_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/h_n_hi_nguy_n_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C037",
+      "name_original": "夏天骐之祖父",
+      "name_translated": "Hạ lão đầu",
+      "gender": "male",
+      "role": "",
+      "status": "missing",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Hạ lão đầu, a man character from 'Ác Linh Quốc Gia'. Role: distinctive character. Visual traits: demonic corrupted appearance, dark aura. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Hạ lão đầu (man) from 'Ác Linh Quốc Gia'. Role: distinctive character. Visual: demonic corrupted appearance, dark aura. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/h_l_o_u_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/h_l_o_u_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C026",
+      "name_original": "胡大牛",
+      "name_translated": "Hồ Đại Ngưu",
+      "gender": "male",
+      "role": "",
+      "status": "dead",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Hồ Đại Ngưu, a man character from 'Ác Linh Quốc Gia'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Hồ Đại Ngưu (man) from 'Ác Linh Quốc Gia'. Role: distinctive character. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/h_i_ng_u_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/h_i_ng_u_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C041",
+      "name_original": "许小婉",
+      "name_translated": "Hứa Tiểu Uyển",
+      "gender": "female",
+      "role": "",
+      "status": "alive",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Hứa Tiểu Uyển, a woman character from 'Ác Linh Quốc Gia'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Hứa Tiểu Uyển (woman) from 'Ác Linh Quốc Gia'. Role: distinctive character. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/h_a_ti_u_uy_n_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/h_a_ti_u_uy_n_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C010",
+      "name_original": "冷月",
+      "name_translated": "Lãnh Nguyệt",
+      "gender": "male",
+      "role": "",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Vẻ đẹp phi giới tính, tóc đen dài xõa ngang lưng, gương mặt như tạc tượng, lạnh lùng nhưng thanh thoát. Dễ bị nhầm là nữ nếu nhìn từ xa.",
+      "personality": "Chính nghĩa, Cố chấp, Ít nói, Hy sinh",
+      "abilities": "Cấm Phong Chú, Nhiên Quỷ Phù, Ngự Kiếm (Hỗn Nguyên)",
+      "illustration": {
+        "portrait_prompt": "Portrait of Lãnh Nguyệt, a man character from 'Ác Linh Quốc Gia'. Role: distinctive character. Visual traits: hair đen. Character context: Vẻ đẹp phi giới tính, tóc đen dài xõa ngang lưng, gương mặt như tạc tượng, lạnh lùng nhưng thanh thoát. Dễ bị nhầm là nữ nếu nhìn từ xa.. Personality expressed in pose: Chính nghĩa, Cố chấp, Ít nói, Hy sinh. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Lãnh Nguyệt (man) from 'Ác Linh Quốc Gia'. Role: distinctive character. Visual: hair đen, demonic corrupted appearance, dark aura. Description: Vẻ đẹp phi giới tính, tóc đen dài xõa ngang lưng, gương mặt như tạc tượng, lạnh lùng nhưng thanh thoát. Dễ bị nhầm là nữ nếu nhìn từ xa.. Manifesting power: Cấm Phong Chú, Nhiên Quỷ Phù, Ngự Kiếm (Hỗn Nguyên). Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/l_nh_nguy_t_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/l_nh_nguy_t_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C067",
+      "name_original": "李秋平",
+      "name_translated": "Lý Thu Bình",
+      "gender": "male",
+      "role": "",
+      "status": "dead",
+      "first_appearance": "{'chapter': 290, 'context': 'Chủ nhân Tiệm bí mật Phong thủy Âm dương tại trấn Triệu Quang'}",
+      "description_vi": "Lão già mặt đỏ tầm ngoài 60 tuổi.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Lý Thu Bình, a man character from 'Ác Linh Quốc Gia'. Role: distinctive character. Visual traits: elderly aged features. Character context: Lão già mặt đỏ tầm ngoài 60 tuổi.. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Lý Thu Bình (man) from 'Ác Linh Quốc Gia'. Role: distinctive character. Visual: elderly aged features. Description: Lão già mặt đỏ tầm ngoài 60 tuổi.. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 290, 'context': 'Chủ nhân Tiệm bí mật Phong thủy Âm dương tại trấn Triệu Quang'}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/l_thu_b_nh_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/l_thu_b_nh_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C009",
+      "name_original": "李笑笑",
+      "name_translated": "Lý Tiếu Tiếu",
+      "gender": "female",
+      "role": "",
+      "status": "dead",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Lý Tiếu Tiếu, a woman character from 'Ác Linh Quốc Gia'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Lý Tiếu Tiếu (woman) from 'Ác Linh Quốc Gia'. Role: distinctive character. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/l_ti_u_ti_u_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/l_ti_u_ti_u_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C081",
+      "name_original": "李心机",
+      "name_translated": "Lý Tâm Cơ",
+      "gender": "female",
+      "role": "",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Lý Tâm Cơ, a woman character from 'Ác Linh Quốc Gia'. Role: distinctive character. Visual traits: beautiful striking features. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Lý Tâm Cơ (woman) from 'Ác Linh Quốc Gia'. Role: distinctive character. Visual: beautiful striking features. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/l_t_m_c_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/l_t_m_c_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C095",
+      "name_original": "李秀",
+      "name_translated": "Lý Tú",
+      "gender": "female",
+      "role": "",
+      "status": "dead",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Lý Tú, a woman character from 'Ác Linh Quốc Gia'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Lý Tú (woman) from 'Ác Linh Quốc Gia'. Role: distinctive character. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/l_t_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/l_t_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C040",
+      "name_original": "李昌野",
+      "name_translated": "Lý Xương Dã",
+      "gender": "male",
+      "role": "",
+      "status": "dead",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Lý Xương Dã, a man character from 'Ác Linh Quốc Gia'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Lý Xương Dã (man) from 'Ác Linh Quốc Gia'. Role: distinctive character. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/l_x_ng_d_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/l_x_ng_d_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C023",
+      "name_original": "刘言敏",
+      "name_translated": "Lưu Ngôn Mẫn",
+      "gender": "male",
+      "role": "",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Lưu Ngôn Mẫn, a man character from 'Ác Linh Quốc Gia'. Role: distinctive character. Visual traits: demonic corrupted appearance, dark aura. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Lưu Ngôn Mẫn (man) from 'Ác Linh Quốc Gia'. Role: distinctive character. Visual: demonic corrupted appearance, dark aura. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/l_u_ng_n_m_n_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/l_u_ng_n_m_n_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C024",
+      "name_original": "梁若凡",
+      "name_translated": "Lương Nhược Phàm",
+      "gender": "male",
+      "role": "",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Tóc trắng, mắt trắng dã, khí tức xám",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Lương Nhược Phàm, a man character from 'Ác Linh Quốc Gia'. Role: distinctive character. Visual traits: hair trắng, trắng eyes. Character context: Tóc trắng, mắt trắng dã, khí tức xám. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Lương Nhược Phàm (man) from 'Ác Linh Quốc Gia'. Role: distinctive character. Visual: hair trắng, trắng eyes. Description: Tóc trắng, mắt trắng dã, khí tức xám. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/l_ng_nh_c_ph_m_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/l_ng_nh_c_ph_m_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C007",
+      "name_original": "梁若芸",
+      "name_translated": "Lương Nhược Vân",
+      "gender": "female",
+      "role": "",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Lương Nhược Vân, a woman character from 'Ác Linh Quốc Gia'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Lương Nhược Vân (woman) from 'Ác Linh Quốc Gia'. Role: distinctive character. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/l_ng_nh_c_v_n_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/l_ng_nh_c_v_n_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C075",
+      "name_original": "落尘",
+      "name_translated": "Lạc Trần",
+      "gender": "male",
+      "role": "",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Lạc Trần, a man character from 'Ác Linh Quốc Gia'. Role: distinctive character. Visual traits: demonic corrupted appearance, dark aura. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Lạc Trần (man) from 'Ác Linh Quốc Gia'. Role: distinctive character. Visual: demonic corrupted appearance, dark aura. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/l_c_tr_n_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/l_c_tr_n_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C089",
+      "name_original": "眼镜男",
+      "name_translated": "Mắt kính nam",
+      "gender": "male",
+      "role": "",
+      "status": "dead",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Mắt kính nam, a man character from 'Ác Linh Quốc Gia'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Mắt kính nam (man) from 'Ác Linh Quốc Gia'. Role: distinctive character. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/m_t_k_nh_nam_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/m_t_k_nh_nam_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C096",
+      "name_original": "黄思甜妈妈",
+      "name_translated": "Mẹ của Hoàng Tư Điềm",
+      "gender": "female",
+      "role": "",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Mẹ của Hoàng Tư Điềm, a woman character from 'Ác Linh Quốc Gia'. Role: distinctive character. Visual traits: demonic corrupted appearance, dark aura. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Mẹ của Hoàng Tư Điềm (woman) from 'Ác Linh Quốc Gia'. Role: distinctive character. Visual: demonic corrupted appearance, dark aura. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/m_c_a_ho_ng_t_i_m_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/m_c_a_ho_ng_t_i_m_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C074",
+      "name_original": "木子希",
+      "name_translated": "Mộc Tử Hy",
+      "gender": "female",
+      "role": "",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Mộc Tử Hy, a woman character from 'Ác Linh Quốc Gia'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Mộc Tử Hy (woman) from 'Ác Linh Quốc Gia'. Role: distinctive character. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/m_c_t_hy_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/m_c_t_hy_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C022",
+      "name_original": "南宫芸",
+      "name_translated": "Nam Cung Vân",
+      "gender": "female",
+      "role": "",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Nam Cung Vân, a woman character from 'Ác Linh Quốc Gia'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Nam Cung Vân (woman) from 'Ác Linh Quốc Gia'. Role: distinctive character. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/nam_cung_v_n_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/nam_cung_v_n_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C071",
+      "name_original": "吴峡候",
+      "name_translated": "Ngô Giáp Hầu",
+      "gender": "male",
+      "role": "",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Ngô Giáp Hầu, a man character from 'Ác Linh Quốc Gia'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Ngô Giáp Hầu (man) from 'Ác Linh Quốc Gia'. Role: distinctive character. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/ng_gi_p_h_u_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/ng_gi_p_h_u_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C073",
+      "name_original": "吴 đích",
+      "name_translated": "Ngô Đích",
+      "gender": "male",
+      "role": "",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Ngô Đích, a man character from 'Ác Linh Quốc Gia'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Ngô Đích (man) from 'Ác Linh Quốc Gia'. Role: distinctive character. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/ng_ch_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/ng_ch_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C061",
+      "name_original": "吴大刚",
+      "name_translated": "Ngô Đại Cương",
+      "gender": "male",
+      "role": "",
+      "status": "dead",
+      "first_appearance": "{'chapter': 242, 'context': 'Kẻ hung hãn tham gia sự kiện tại Chung cư Thanh Niên'}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "Thể chất Lệ quỷ",
+      "illustration": {
+        "portrait_prompt": "Portrait of Ngô Đại Cương, a man character from 'Ác Linh Quốc Gia'. Role: distinctive character. Visual traits: demonic corrupted appearance, dark aura. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Ngô Đại Cương (man) from 'Ác Linh Quốc Gia'. Role: distinctive character. Visual: demonic corrupted appearance, dark aura. Manifesting power: Thể chất Lệ quỷ. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 242, 'context': 'Kẻ hung hãn tham gia sự kiện tại Chung cư Thanh Niên'}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/ng_i_c_ng_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/ng_i_c_ng_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C062",
+      "name_original": "聂锋",
+      "name_translated": "Nhiếp Phong",
+      "gender": "male",
+      "role": "",
+      "status": "dead",
+      "first_appearance": "{'chapter': 242, 'context': 'Nhân viên công ty tham gia sự kiện thanh trừng quỷ vật tại Chung cư Thanh Niên'}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "Chú pháp",
+      "illustration": {
+        "portrait_prompt": "Portrait of Nhiếp Phong, a man character from 'Ác Linh Quốc Gia'. Role: distinctive character. Visual traits: demonic corrupted appearance, dark aura. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Nhiếp Phong (man) from 'Ác Linh Quốc Gia'. Role: distinctive character. Visual: demonic corrupted appearance, dark aura. Manifesting power: Chú pháp. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 242, 'context': 'Nhân viên công ty tham gia sự kiện thanh trừng quỷ vật tại Chung cư Thanh Niên'}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/nhi_p_phong_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/nhi_p_phong_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C078",
+      "name_original": "软僵",
+      "name_translated": "Nhuyễn Cương",
+      "gender": "male",
+      "role": "",
+      "status": "dead",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Nhuyễn Cương, a man character from 'Ác Linh Quốc Gia'. Role: distinctive character. Visual traits: demonic corrupted appearance, dark aura. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Nhuyễn Cương (man) from 'Ác Linh Quốc Gia'. Role: distinctive character. Visual: demonic corrupted appearance, dark aura. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/nhuy_n_c_ng_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/nhuy_n_c_ng_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C021",
+      "name_original": "付海义",
+      "name_translated": "Phó Hải Nghĩa",
+      "gender": "male",
+      "role": "",
+      "status": "dead",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Phó Hải Nghĩa, a man character from 'Ác Linh Quốc Gia'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Phó Hải Nghĩa (man) from 'Ác Linh Quốc Gia'. Role: distinctive character. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/ph_h_i_ngh_a_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/ph_h_i_ngh_a_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C003",
+      "name_original": "冯伟",
+      "name_translated": "Phùng Vĩ",
+      "gender": "male",
+      "role": "",
+      "status": "dead",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Phùng Vĩ, a man character from 'Ác Linh Quốc Gia'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Phùng Vĩ (man) from 'Ác Linh Quốc Gia'. Role: distinctive character. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/ph_ng_v_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/ph_ng_v_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C030",
+      "name_original": "娟",
+      "name_translated": "Quyên",
+      "gender": "female",
+      "role": "",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Quyên, a woman character from 'Ác Linh Quốc Gia'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Quyên (woman) from 'Ác Linh Quốc Gia'. Role: distinctive character. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/quy_n_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/quy_n_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C085",
+      "name_original": "无头鬼",
+      "name_translated": "Quỷ không đầu",
+      "gender": "male",
+      "role": "",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Quỷ không đầu, a man character from 'Ác Linh Quốc Gia'. Role: distinctive character. Visual traits: demonic corrupted appearance, dark aura. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Quỷ không đầu (man) from 'Ác Linh Quốc Gia'. Role: distinctive character. Visual: demonic corrupted appearance, dark aura. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/qu_kh_ng_u_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/qu_kh_ng_u_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C079",
+      "name_original": "煞",
+      "name_translated": "Sát",
+      "gender": "male",
+      "role": "",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Sát, a man character from 'Ác Linh Quốc Gia'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Sát (man) from 'Ác Linh Quốc Gia'. Role: distinctive character. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/s_t_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/s_t_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C086",
+      "name_original": "楚梦琪",
+      "name_translated": "Sở Mộng Kì",
+      "gender": "female",
+      "role": "",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "Thuấn di, Linh lực, Mê hồn hương",
+      "illustration": {
+        "portrait_prompt": "Portrait of Sở Mộng Kì, a woman character from 'Ác Linh Quốc Gia'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Sở Mộng Kì (woman) from 'Ác Linh Quốc Gia'. Role: distinctive character. Manifesting power: Thuấn di, Linh lực, Mê hồn hương. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/s_m_ng_k_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/s_m_ng_k_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C027",
+      "name_original": "小丽",
+      "name_translated": "Tiểu Lệ",
+      "gender": "female",
+      "role": "",
+      "status": "released",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Mắt trợn ngược, khuôn mặt tím tái, thường xuất hiện với tư thế bò như thạch sùng hoặc nhện.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Tiểu Lệ, a woman character from 'Ác Linh Quốc Gia'. Role: distinctive character. Visual traits: trợn eyes. Character context: Mắt trợn ngược, khuôn mặt tím tái, thường xuất hiện với tư thế bò như thạch sùng hoặc nhện.. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Tiểu Lệ (woman) from 'Ác Linh Quốc Gia'. Role: distinctive character. Visual: trợn eyes. Description: Mắt trợn ngược, khuôn mặt tím tái, thường xuất hiện với tư thế bò như thạch sùng hoặc nhện.. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/ti_u_l_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/ti_u_l_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C065",
+      "name_original": "赵安国",
+      "name_translated": "Triệu An Quốc",
+      "gender": "male",
+      "role": "",
+      "status": "alive",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Triệu An Quốc, a man character from 'Ác Linh Quốc Gia'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Triệu An Quốc (man) from 'Ác Linh Quốc Gia'. Role: distinctive character. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/tri_u_an_qu_c_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/tri_u_an_qu_c_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C087",
+      "name_original": "赵汇丰",
+      "name_translated": "Triệu Khai",
+      "gender": "male",
+      "role": "",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Triệu Khai, a man character from 'Ác Linh Quốc Gia'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Triệu Khai (man) from 'Ác Linh Quốc Gia'. Role: distinctive character. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/tri_u_khai_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/tri_u_khai_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C005",
+      "name_original": "赵爽",
+      "name_translated": "Triệu Sảng",
+      "gender": "female",
+      "role": "",
+      "status": "alive",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Triệu Sảng, a woman character from 'Ác Linh Quốc Gia'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Triệu Sảng (woman) from 'Ác Linh Quốc Gia'. Role: distinctive character. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/tri_u_s_ng_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/tri_u_s_ng_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C050",
+      "name_original": "赵静姝",
+      "name_translated": "Triệu Tĩnh Thù",
+      "gender": "female",
+      "role": "companion",
+      "status": "active",
+      "first_appearance": "{'chapter': 204, 'context': 'Cảnh sát thụ lý vụ án lột da tại Tuyên Thành'}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "Bùa chú Cơ bản, Thiên Nhãn",
+      "illustration": {
+        "portrait_prompt": "Portrait of Triệu Tĩnh Thù, a woman character from 'Ác Linh Quốc Gia'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Triệu Tĩnh Thù (woman) from 'Ác Linh Quốc Gia'. Role: distinctive character. Manifesting power: Bùa chú Cơ bản, Thiên Nhãn. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 204, 'context': 'Cảnh sát thụ lý vụ án lột da tại Tuyên Thành'}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/tri_u_t_nh_th_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/tri_u_t_nh_th_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C028",
+      "name_original": "赵快嘴",
+      "name_translated": "Triệu mồm nhanh",
+      "gender": "male",
+      "role": "",
+      "status": "dead",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Triệu mồm nhanh, a man character from 'Ác Linh Quốc Gia'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Triệu mồm nhanh (man) from 'Ác Linh Quốc Gia'. Role: distinctive character. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/tri_u_m_m_nhanh_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/tri_u_m_m_nhanh_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C092",
+      "name_original": "程海明",
+      "name_translated": "Trình Hải Minh",
+      "gender": "male",
+      "role": "",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Trình Hải Minh, a man character from 'Ác Linh Quốc Gia'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Trình Hải Minh (man) from 'Ác Linh Quốc Gia'. Role: distinctive character. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/tr_nh_h_i_minh_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/tr_nh_h_i_minh_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C082",
+      "name_original": "张晓龙",
+      "name_translated": "Trương Hiểu Long",
+      "gender": "male",
+      "role": "",
+      "status": "alive",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Trương Hiểu Long, a man character from 'Ác Linh Quốc Gia'. Role: distinctive character. Visual traits: hair ký. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Trương Hiểu Long (man) from 'Ác Linh Quốc Gia'. Role: distinctive character. Visual: hair ký. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/tr_ng_hi_u_long_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/tr_ng_hi_u_long_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C002",
+      "name_original": "张小顺",
+      "name_translated": "Trương Tiểu Thuận",
+      "gender": "male",
+      "role": "",
+      "status": "alive",
+      "first_appearance": "{'chapter': 1, 'context': 'Nhân viên hiệu sách'}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Trương Tiểu Thuận, a man character from 'Ác Linh Quốc Gia'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Trương Tiểu Thuận (man) from 'Ác Linh Quốc Gia'. Role: distinctive character. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 1, 'context': 'Nhân viên hiệu sách'}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/tr_ng_ti_u_thu_n_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/tr_ng_ti_u_thu_n_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C033",
+      "name_original": "张瘸子",
+      "name_translated": "Trương thọt",
+      "gender": "male",
+      "role": "",
+      "status": "dead",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Trương thọt, a man character from 'Ác Linh Quốc Gia'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Trương thọt (man) from 'Ác Linh Quốc Gia'. Role: distinctive character. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/tr_ng_th_t_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/tr_ng_th_t_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C025",
+      "name_original": "陈老大",
+      "name_translated": "Trần Lão Đại",
+      "gender": "male",
+      "role": "",
+      "status": "dead",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Lão đàn ông vạm vỡ nhưng sắc mặt xanh xao, bệnh tật.",
+      "personality": "Bạo chúa, Nghi ngờ, Gia trưởng, Thâm hiểm",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Trần Lão Đại, a man character from 'Ác Linh Quốc Gia'. Role: distinctive character. Visual traits: muscular imposing build. Character context: Lão đàn ông vạm vỡ nhưng sắc mặt xanh xao, bệnh tật.. Personality expressed in pose: Bạo chúa, Nghi ngờ, Gia trưởng, Thâm hiểm. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Trần Lão Đại (man) from 'Ác Linh Quốc Gia'. Role: distinctive character. Visual: muscular imposing build. Description: Lão đàn ông vạm vỡ nhưng sắc mặt xanh xao, bệnh tật.. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/tr_n_l_o_i_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/tr_n_l_o_i_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C068",
+      "name_original": "陈淑兰",
+      "name_translated": "Trần Thục Lan",
+      "gender": "female",
+      "role": "",
+      "status": "deceased",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Trần Thục Lan, a woman character from 'Ác Linh Quốc Gia'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Trần Thục Lan (woman) from 'Ác Linh Quốc Gia'. Role: distinctive character. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/tr_n_th_c_lan_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/tr_n_th_c_lan_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C080",
+      "name_original": "绝代",
+      "name_translated": "Tuyệt Đại",
+      "gender": "male",
+      "role": "",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Tuyệt Đại, a man character from 'Ác Linh Quốc Gia'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Tuyệt Đại (man) from 'Ác Linh Quốc Gia'. Role: distinctive character. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/tuy_t_i_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/tuy_t_i_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C038",
+      "name_original": "曹金海",
+      "name_translated": "Tào Kim Hải",
+      "gender": "male",
+      "role": "",
+      "status": "alive",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Tào Kim Hải, a man character from 'Ác Linh Quốc Gia'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Tào Kim Hải (man) from 'Ác Linh Quốc Gia'. Role: distinctive character. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/t_o_kim_h_i_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/t_o_kim_h_i_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C032",
+      "name_original": "齐大力",
+      "name_translated": "Tề Đại Lực",
+      "gender": "male",
+      "role": "",
+      "status": "dead",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Tề Đại Lực, a man character from 'Ác Linh Quốc Gia'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Tề Đại Lực (man) from 'Ác Linh Quốc Gia'. Role: distinctive character. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/t_i_l_c_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/t_i_l_c_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C006",
+      "name_original": "徐天华",
+      "name_translated": "Từ Thiên Hoa",
+      "gender": "male",
+      "role": "",
+      "status": "dead",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Từ Thiên Hoa, a man character from 'Ác Linh Quốc Gia'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Từ Thiên Hoa (man) from 'Ác Linh Quốc Gia'. Role: distinctive character. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/t_thi_n_hoa_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/t_thi_n_hoa_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C034",
+      "name_original": "徐冲",
+      "name_translated": "Từ Xung",
+      "gender": "male",
+      "role": "",
+      "status": "destroyed",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Từ Xung, a man character from 'Ác Linh Quốc Gia'. Role: distinctive character. Visual traits: demonic corrupted appearance, dark aura. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Từ Xung (man) from 'Ác Linh Quốc Gia'. Role: distinctive character. Visual: demonic corrupted appearance, dark aura. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/t_xung_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/t_xung_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C031",
+      "name_original": "王木",
+      "name_translated": "Vương Mộc",
+      "gender": "male",
+      "role": "",
+      "status": "dead",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Vương Mộc, a man character from 'Ác Linh Quốc Gia'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Vương Mộc (man) from 'Ác Linh Quốc Gia'. Role: distinctive character. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/v_ng_m_c_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/v_ng_m_c_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C093",
+      "name_original": "王美童",
+      "name_translated": "Vương Mỹ Đồng",
+      "gender": "female",
+      "role": "",
+      "status": "missing",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Vương Mỹ Đồng, a woman character from 'Ác Linh Quốc Gia'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Vương Mỹ Đồng (woman) from 'Ác Linh Quốc Gia'. Role: distinctive character. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/v_ng_m_ng_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/v_ng_m_ng_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C083",
+      "name_original": "王莹",
+      "name_translated": "Vương Oánh",
+      "gender": "female",
+      "role": "",
+      "status": "alive",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Vương Oánh, a woman character from 'Ác Linh Quốc Gia'. Role: distinctive character. Visual traits: demonic corrupted appearance, dark aura. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Vương Oánh (woman) from 'Ác Linh Quốc Gia'. Role: distinctive character. Visual: demonic corrupted appearance, dark aura. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/v_ng_o_nh_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/v_ng_o_nh_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C084",
+      "name_original": "王福",
+      "name_translated": "Vương Phúc",
+      "gender": "male",
+      "role": "",
+      "status": "unconscious",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Vương Phúc, a man character from 'Ác Linh Quốc Gia'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Vương Phúc (man) from 'Ác Linh Quốc Gia'. Role: distinctive character. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/v_ng_ph_c_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/v_ng_ph_c_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C011",
+      "name_original": "王怡然",
+      "name_translated": "Vương Phượng Thải",
+      "gender": "female",
+      "role": "",
+      "status": "dead",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Vương Phượng Thải, a woman character from 'Ác Linh Quốc Gia'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Vương Phượng Thải (woman) from 'Ác Linh Quốc Gia'. Role: distinctive character. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/v_ng_ph_ng_th_i_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/v_ng_ph_ng_th_i_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C013",
+      "name_original": "王凤彩",
+      "name_translated": "Vương Phượng Thải",
+      "gender": "female",
+      "role": "",
+      "status": "dead",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Vương Phượng Thải, a woman character from 'Ác Linh Quốc Gia'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Vương Phượng Thải (woman) from 'Ác Linh Quốc Gia'. Role: distinctive character. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/v_ng_ph_ng_th_i_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/v_ng_ph_ng_th_i_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C063",
+      "name_original": "王桑榆",
+      "name_translated": "Vương Tang Du",
+      "gender": "female",
+      "role": "",
+      "status": "alive",
+      "first_appearance": "{'chapter': 242, 'context': 'Nhân viên tham gia sự kiện tại Chung cư Thanh Niên cùng Hạ Thiên Kì'}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "Thao túng thuật",
+      "illustration": {
+        "portrait_prompt": "Portrait of Vương Tang Du, a woman character from 'Ác Linh Quốc Gia'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Vương Tang Du (woman) from 'Ác Linh Quốc Gia'. Role: distinctive character. Manifesting power: Thao túng thuật. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 242, 'context': 'Nhân viên tham gia sự kiện tại Chung cư Thanh Niên cùng Hạ Thiên Kì'}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/v_ng_tang_du_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/v_ng_tang_du_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C097",
+      "name_original": "王成",
+      "name_translated": "Vương Thành",
+      "gender": "male",
+      "role": "",
+      "status": "dead",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Vương Thành, a man character from 'Ác Linh Quốc Gia'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Vương Thành (man) from 'Ác Linh Quốc Gia'. Role: distinctive character. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/v_ng_th_nh_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/v_ng_th_nh_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C004",
+      "name_original": "王亚芝",
+      "name_translated": "Vương Á Chi",
+      "gender": "female",
+      "role": "",
+      "status": "dead",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Vương Á Chi, a woman character from 'Ác Linh Quốc Gia'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Vương Á Chi (woman) from 'Ác Linh Quốc Gia'. Role: distinctive character. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/v_ng_chi_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/v_ng_chi_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C070",
+      "name_original": "李秋平徒弟",
+      "name_translated": "Đồ đệ của Lý Thu Bình",
+      "gender": "male",
+      "role": "",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Đồ đệ của Lý Thu Bình, a man character from 'Ác Linh Quốc Gia'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Đồ đệ của Lý Thu Bình (man) from 'Ác Linh Quốc Gia'. Role: distinctive character. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/c_a_l_thu_b_nh_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/c_a_l_thu_b_nh_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C066",
+      "name_original": "董雪",
+      "name_translated": "Đổng Tuyết",
+      "gender": "female",
+      "role": "",
+      "status": "alive",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Bạch phú mỹ (trắng, giàu, đẹp), dáng người nóng bỏng (size C+), gương mặt xinh đẹp vượt trội so với thời đi học.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Đổng Tuyết, a woman character from 'Ác Linh Quốc Gia'. Role: distinctive character. Visual traits: beautiful striking features. Character context: Bạch phú mỹ (trắng, giàu, đẹp), dáng người nóng bỏng (size C+), gương mặt xinh đẹp vượt trội so với thời đi học.. Composition: bust portrait, 3/4 angle, expressive face. Art style: modern urban setting, realistic lighting, cinematic photography style. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Đổng Tuyết (woman) from 'Ác Linh Quốc Gia'. Role: distinctive character. Visual: beautiful striking features. Description: Bạch phú mỹ (trắng, giàu, đẹp), dáng người nóng bỏng (size C+), gương mặt xinh đẹp vượt trội so với thời đi học.. Setting: Đô thị hiện đại bị xâm thực bởi các sự kiện siêu nhiên, nơi hợp đồng việc làm lương cao thực chất là cánh cửa dẫn vào chuỗi nhiệm vụ linh dị và sinh tử.. First appears in {'chapter': 0, 'context': ''}. Art style: modern urban setting, realistic lighting, cinematic photography style. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/ng_tuy_t_portrait.png",
+        "scene_slot": "Output/Ac Linh Quoc Gia/illustrations/characters/ng_tuy_t_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    }
+  ]
+}

@@ -1,244 +1,402 @@
 {
   "metadata": {
-    "source_language": "zh",
-    "target_language": "vi",
-    "genre": "eastern_fiction",
-    "last_updated": "2026-05-10T15:28:00Z"
+    "version": "2.0",
+    "schema": "gold",
+    "branch": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+    "last_updated": "2026-05-30T04:48:09+07:00",
+    "total_entries": 39,
+    "previous_schema": "legacy"
   },
   "entries": [
     {
       "source": "罗帆",
+      "source_language": "zh",
       "target": "La Phàm",
       "category": "character",
-      "pending_sync": false
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "鸿钧",
+      "source_language": "zh",
       "target": "Hồng Quân",
       "category": "character",
-      "pending_sync": false
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "不周山",
+      "source_language": "zh",
       "target": "Bất Chu Sơn",
       "category": "location",
-      "pending_sync": false
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "地仙",
+      "source_language": "zh",
       "target": "Địa Tiên",
       "category": "lore",
-      "pending_sync": false
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "真仙",
+      "source_language": "zh",
       "target": "Chân Tiên",
       "category": "lore",
-      "pending_sync": false
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "元会",
+      "source_language": "zh",
       "target": "Nguyên hội",
       "category": "lore",
-      "pending_sync": false
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "求索洞",
+      "source_language": "zh",
       "target": "Cầu Tác Động",
       "category": "location",
-      "pending_sync": false
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "紫霄洞",
+      "source_language": "zh",
       "target": "Tử Tiêu Động",
       "category": "location",
-      "pending_sync": false
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "造化玉牒诀",
+      "source_language": "zh",
       "target": "Tạo Hóa Ngọc Điệp Quyết",
       "category": "lore",
-      "pending_sync": false
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "金蛟化龙道",
+      "source_language": "zh",
       "target": "Kim Giao Hóa Long Đạo",
       "category": "lore",
-      "pending_sync": false
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "金蛟剪",
+      "source_language": "zh",
       "target": "Kim Giao Tiễn",
       "category": "lore",
-      "pending_sync": false
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "不灭灵光",
+      "source_language": "zh",
       "target": "Bất Diệt Linh Quang",
       "category": "lore",
-      "pending_sync": false
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "癸水天木劫",
+      "source_language": "zh",
       "target": "Quý Thủy Thiên Mộc Kiếp",
       "category": "lore",
-      "pending_sync": false
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "天神大道法",
+      "source_language": "zh",
       "target": "Thiên Thần Đại Đạo Pháp",
       "category": "lore",
-      "pending_sync": false
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "天神超脱诀",
+      "source_language": "zh",
       "target": "Thiên Thần Siêu Thoát Quyết",
       "category": "lore",
-      "pending_sync": false
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "阴阳无形破空十八箭",
+      "source_language": "zh",
       "target": "Âm Dương Vô Hình Phá Không Thập Bát Tiễn",
       "category": "lore",
-      "pending_sync": false
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "黄巾力士",
+      "source_language": "zh",
       "target": "Hoàng Cân Lực Sĩ",
       "category": "lore",
-      "pending_sync": false
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "混沌元气",
+      "source_language": "zh",
       "target": "Hỗn Độn nguyên khí",
       "category": "lore",
-      "pending_sync": false
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "先天道体",
+      "source_language": "zh",
       "target": "Tiên Thiên Đạo Thể",
       "category": "lore",
-      "pending_sync": false
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "虚空无极宫",
+      "source_language": "zh",
       "target": "Hư Không Vô Cực Cung",
       "category": "location",
-      "pending_sync": false
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "至方印",
+      "source_language": "zh",
       "target": "Chí Phương Ấn",
       "category": "lore",
-      "pending_sync": false
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "真武化神法",
+      "source_language": "zh",
       "target": "Chân Võ Hóa Thần Pháp",
       "category": "lore",
-      "pending_sync": false
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "黄泉",
+      "source_language": "zh",
       "target": "Hoàng Tuyền",
       "category": "location",
-      "pending_sync": false
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "有形符鬼",
+      "source_language": "zh",
       "target": "Hữu hình phù quỷ",
       "category": "lore",
-      "pending_sync": false
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "无形符鬼",
+      "source_language": "zh",
       "target": "Vô hình phù quỷ",
       "category": "lore",
-      "pending_sync": false
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "创生大道",
+      "source_language": "zh",
       "target": "Sáng Sinh Đại Đạo",
       "category": "lore",
-      "pending_sync": false
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "天武神章",
+      "source_language": "zh",
       "target": "Thiên Võ Thần Chương",
       "category": "lore",
-      "pending_sync": false
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "天武玄光如意神爪",
+      "source_language": "zh",
       "target": "Thiên Võ Huyền Quang Như Ý Thần Trảo",
       "category": "lore",
-      "pending_sync": false
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "林家堡",
+      "source_language": "zh",
       "target": "Lâm Gia Bảo",
       "category": "location",
-      "pending_sync": false
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "凡境",
+      "source_language": "zh",
       "target": "Phàm Cảnh",
       "category": "lore",
-      "pending_sync": false
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "圣境",
+      "source_language": "zh",
       "target": "Thánh Cảnh",
       "category": "lore",
-      "pending_sync": false
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "化境",
+      "source_language": "zh",
       "target": "Hóa Cảnh",
       "category": "lore",
-      "pending_sync": false
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "破碎虚空",
+      "source_language": "zh",
       "target": "Phá Toái Hư Không",
       "category": "lore",
-      "pending_sync": false
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "太阳真火",
+      "source_language": "zh",
       "target": "Thái Dương Chân Hỏa",
       "category": "lore",
-      "pending_sync": false
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "大日精华",
+      "source_language": "zh",
       "target": "Đại Nhật Tinh Hoa",
       "category": "lore",
-      "pending_sync": false
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "盘古天瞳",
+      "source_language": "zh",
       "target": "Bàn Cổ Thiên Đồng",
       "category": "lore",
-      "pending_sync": false
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "广寒明月诀",
+      "source_language": "zh",
       "target": "Quảng Hàn Minh Nguyệt Quyết",
       "category": "lore",
-      "pending_sync": false
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "阴阳和合法",
+      "source_language": "zh",
       "target": "Âm Dương Hòa Hợp Pháp",
       "category": "lore",
-      "pending_sync": false
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "大日金瞳",
+      "source_language": "zh",
       "target": "Đại Nhật Kim Đồng",
       "category": "lore",
-      "pending_sync": false
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     }
   ]
 }

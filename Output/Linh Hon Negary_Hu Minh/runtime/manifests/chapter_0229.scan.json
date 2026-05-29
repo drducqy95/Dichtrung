@@ -1,0 +1,122 @@
+{
+  "schema_version": "1.0",
+  "branch": "Linh Hon Negary_Hu Minh",
+  "chapter": 229,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Linh Hon Negary_Hu Minh\\0229 - 第229章在奈格里的居住的地方，几个角落都被埋入了蓝宝石。.md",
+  "source_char_count": 2131,
+  "characters": [
+    {
+      "source": "能力",
+      "entity_type": "person",
+      "count": 5,
+      "confidence": 0.7,
+      "evidence": [
+        "士，不论是从品格还是能力，甚至就连外貌上来说",
+        "徒的东西，是因为他的能力。\n他在学院之都的时",
+        "觉进行献祭，随后获得能力，能够对物品上的味道"
+      ]
+    },
+    {
+      "source": "罗米",
+      "entity_type": "person",
+      "count": 4,
+      "confidence": 0.7,
+      "evidence": [
+        "库尼尔他并不会歧视克罗米，对于一些不保密的信",
+        "了不错的友谊。\n“克罗米，我觉得你应该缓一缓",
+        "给我么？”\n“抱歉克罗米，事关无声教会，这些"
+      ]
+    },
+    {
+      "source": "东西",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "身上带有了无声教会的东西，并且无声教会的人也",
+        "库尼尔讨要无声教徒的东西，是因为他的能力。\n"
+      ]
+    },
+    {
+      "source": "时候",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "力。\n他在学院之都的时候，获得了一本魔法书籍",
+        "了解。”于是在傍晚的时候，克罗米又一个人来到"
+      ]
+    },
+    {
+      "source": "蓝宝石",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.82,
+      "evidence": [
+        "，几个角落都被埋入了蓝宝石。\n着就是无声教会常",
+        "能看着教会的人将那些蓝宝石，和无声教徒的尸体抬"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "source": "事关无声教会",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "？”\n“抱歉克罗米，事关无声教会，这些东西都受到严格"
+      ]
+    },
+    {
+      "source": "报仇并不是人生的全部",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "我觉得你应该缓一缓，报仇并不是人生的全部。”库尼尔看了眼奥莉"
+      ]
+    },
+    {
+      "source": "霍顿投靠了无声教会",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "一下事情的经过。\n“霍顿投靠了无声教会，企图对居住在这里的"
+      ]
+    }
+  ],
+  "locations": [],
+  "realms": [],
+  "techniques": [
+    "不过因为其中的魔法",
+    "他也无法",
+    "尽管老法",
+    "我的人生已经",
+    "洗刷法",
+    "给予劝慰已经",
+    "获得了一本魔法",
+    "还原了一下事情的经",
+    "都会被干扰无法"
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "骑士",
+      "target": "Hiệp sĩ"
+    },
+    {
+      "source": "域",
+      "target": "Vực"
+    },
+    {
+      "source": "比罗修斯",
+      "target": "Peroxis"
+    },
+    {
+      "source": "奥莉",
+      "target": "Oly"
+    }
+  ],
+  "generated_at": "2026-05-30T04:22:42.823706+07:00"
+}

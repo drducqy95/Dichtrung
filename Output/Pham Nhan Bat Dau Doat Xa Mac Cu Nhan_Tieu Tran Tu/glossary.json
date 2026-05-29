@@ -1,456 +1,822 @@
 {
   "metadata": {
-    "source_language": "zh",
-    "target_language": "vi",
-    "genre": "eastern_fiction",
-    "last_updated": "2026-04-14T21:23:00Z"
+    "version": "2.0",
+    "schema": "gold",
+    "branch": "Pham Nhan Bat Dau Doat Xa Mac Cu Nhan_Tieu Tran Tu",
+    "last_updated": "2026-05-30T04:48:09+07:00",
+    "total_entries": 81,
+    "previous_schema": "legacy"
   },
   "entries": [
     {
       "source": "彩霞山",
+      "source_language": "zh",
       "target": "Thái Hà Sơn",
       "category": "location",
-      "note": "Setting start"
+      "context": "",
+      "confidence": "medium",
+      "notes": "Setting start",
+      "locked": false
     },
     {
       "source": "神手谷",
+      "source_language": "zh",
       "target": "Thần Thủ Cốc",
       "category": "location",
-      "note": "Setting start"
+      "context": "",
+      "confidence": "medium",
+      "notes": "Setting start",
+      "locked": false
     },
     {
       "source": "墨居仁",
+      "source_language": "zh",
       "target": "Mặc Cư Nhân",
       "category": "character",
-      "note": "Protagonist"
+      "context": "",
+      "confidence": "medium",
+      "notes": "Protagonist",
+      "locked": false
     },
     {
       "source": "墨大夫",
+      "source_language": "zh",
       "target": "Mặc đại phu",
       "category": "character",
-      "note": "Alias of Mo"
+      "context": "",
+      "confidence": "medium",
+      "notes": "Alias of Mo",
+      "locked": false
     },
     {
       "source": "余子童",
+      "source_language": "zh",
       "target": "Dư Tử Đồng",
       "category": "character",
-      "note": "Possessing spirit"
+      "context": "",
+      "confidence": "medium",
+      "notes": "Possessing spirit",
+      "locked": false
     },
     {
       "source": "韩立",
+      "source_language": "zh",
       "target": "Hàn Lập",
       "category": "character",
-      "note": "Mortal Journey Protagonist"
+      "context": "",
+      "confidence": "medium",
+      "notes": "Mortal Journey Protagonist",
+      "locked": false
     },
     {
       "source": "七玄门",
+      "source_language": "zh",
       "target": "Thất Huyền Môn",
       "category": "faction",
-      "note": "Starting sect"
+      "context": "",
+      "confidence": "medium",
+      "notes": "Starting sect",
+      "locked": false
     },
     {
       "source": "惊蛟会",
+      "source_language": "zh",
       "target": "Kinh Giao Hội",
       "category": "faction",
-      "note": "Mo's founded faction"
+      "context": "",
+      "confidence": "medium",
+      "notes": "Mo's founded faction",
+      "locked": false
     },
     {
       "source": "岚州",
+      "source_language": "zh",
       "target": "Lam Châu",
-      "category": "location"
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "先天武者",
+      "source_language": "zh",
       "target": "Tiên thiên võ giả",
-      "category": "cultivation"
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "血脉转化炉",
+      "source_language": "zh",
       "target": "Huyết mạch chuyển hóa lô",
       "category": "item",
-      "note": "Cheat item"
+      "context": "",
+      "confidence": "medium",
+      "notes": "Cheat item",
+      "locked": false
     },
     {
       "source": "未来之身",
+      "source_language": "zh",
       "target": "Tương lai thân",
-      "category": "general"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "青石矿",
+      "source_language": "zh",
       "target": "Thanh Thạch Quáng",
-      "category": "item"
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "一级木属性妖魂",
+      "source_language": "zh",
       "target": "Yêu hồn hệ Mộc cấp 1",
-      "category": "item"
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "清灵丹",
+      "source_language": "zh",
       "target": "Thanh Linh Đan",
-      "category": "item"
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "长生经",
+      "source_language": "zh",
       "target": "Trường Sinh Kinh",
-      "category": "item"
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "青玉果",
+      "source_language": "zh",
       "target": "Thanh Ngọc Quả",
-      "category": "item"
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "黄髓芝",
+      "source_language": "zh",
       "target": "Hoàng Tuy Chi",
-      "category": "item"
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "铁奴",
+      "source_language": "zh",
       "target": "Thiết Nô",
-      "category": "character"
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "夺舍三大铁则",
+      "source_language": "zh",
       "target": "Ba đại thiết luật của đoạt xá",
-      "category": "cultivation"
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "缠绕术",
+      "source_language": "zh",
       "target": "Triền Nhiễu Thuật",
-      "category": "cultivation"
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "荆棘术",
+      "source_language": "zh",
       "target": "Kinh Gai Thuật",
-      "category": "cultivation"
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "血箭阴魂咒",
+      "source_language": "zh",
       "target": "Huyết Tiễn Âm Hồn Chú",
-      "category": "cultivation"
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "洗髓伐骨",
+      "source_language": "zh",
       "target": "Tẩy tủy phạt cốt",
-      "category": "general"
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "云翅鸟",
+      "source_language": "zh",
       "target": "Vân Xí Điểu",
       "category": "item",
-      "note": "Spirit bird"
+      "context": "",
+      "confidence": "medium",
+      "notes": "Spirit bird",
+      "locked": false
     },
     {
       "source": "青牛镇",
+      "source_language": "zh",
       "target": "Thanh Ngưu Trấn",
-      "category": "location"
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "五里沟",
+      "source_language": "zh",
       "target": "Ngũ Lý Câu",
-      "category": "location"
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "金光上人",
+      "source_language": "zh",
       "target": "Kim Quang Thượng Nhân",
-      "category": "character"
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "金光观",
+      "source_language": "zh",
       "target": "Kim Quang Quán",
-      "category": "location"
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "会仙楼",
+      "source_language": "zh",
       "target": "Hội Tiên Lâu",
-      "category": "location"
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "升仙令",
+      "source_language": "zh",
       "target": "Thăng Tiên Lệnh",
-      "category": "item"
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "嘉元城",
+      "source_language": "zh",
       "target": "Gia Nguyên Thành",
-      "category": "location"
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "严氏",
+      "source_language": "zh",
       "target": "Nghiêm thị",
       "category": "character",
-      "note": "Fourth wife"
+      "context": "",
+      "confidence": "medium",
+      "notes": "Fourth wife",
+      "locked": false
     },
     {
       "source": "墨彩环",
+      "source_language": "zh",
       "target": "Mặc Thái Hoàn",
       "category": "character",
-      "note": "Mo's daughter"
+      "context": "",
+      "confidence": "medium",
+      "notes": "Mo's daughter",
+      "locked": false
     },
     {
       "source": "越国",
+      "source_language": "zh",
       "target": "Việt Quốc",
-      "category": "location"
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "辛州",
+      "source_language": "zh",
       "target": "Tân Châu",
-      "category": "location"
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "王氏",
+      "source_language": "zh",
       "target": "Vương thị",
       "category": "character",
-      "note": "Fifth wife"
+      "context": "",
+      "confidence": "medium",
+      "notes": "Fifth wife",
+      "locked": false
     },
     {
       "source": "王雪贞",
+      "source_language": "zh",
       "target": "Vương Tuyết Trinh",
-      "category": "character"
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "金氏",
+      "source_language": "zh",
       "target": "Kim thị",
       "category": "character",
-      "note": "First wife"
+      "context": "",
+      "confidence": "medium",
+      "notes": "First wife",
+      "locked": false
     },
     {
       "source": "墨玉珠",
+      "source_language": "zh",
       "target": "Mặc Ngọc Châu",
       "category": "character",
-      "note": "Eldest daughter"
+      "context": "",
+      "confidence": "medium",
+      "notes": "Eldest daughter",
+      "locked": false
     },
     {
       "source": "灵兽山",
+      "source_language": "zh",
       "target": "Linh Thú Sơn",
-      "category": "faction"
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "御灵宗",
+      "source_language": "zh",
       "target": "Ngự Linh Tông",
-      "category": "faction"
-    },
-    {
-      "source": "铁奴",
-      "target": "Thiết Nô",
-      "category": "character"
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "萦香丸",
+      "source_language": "zh",
       "target": "Oanh Hương Hoàn",
-      "category": "item"
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "金光诀",
+      "source_language": "zh",
       "target": "Kim Quang Quyết",
-      "category": "technique"
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "血卫营",
+      "source_language": "zh",
       "target": "Huyết Vệ Doanh",
       "category": "faction",
-      "note": "Elite force of Dộc Bá Sơn Trang"
+      "context": "",
+      "confidence": "medium",
+      "notes": "Elite force of Dộc Bá Sơn Trang",
+      "locked": false
     },
     {
       "source": "欧阳飞天",
+      "source_language": "zh",
       "target": "Âu Dương Phi Thiên",
-      "category": "character"
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "太南山",
+      "source_language": "zh",
       "target": "Thái Nam Sơn",
-      "category": "location"
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "升仙大会",
+      "source_language": "zh",
       "target": "Thăng Tiên Đại Hội",
-      "category": "event"
+      "category": "event",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "紫灵",
+      "source_language": "zh",
       "target": "Tử Linh",
-      "category": "character"
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "南宫婉",
+      "source_language": "zh",
       "target": "Nam Cung Uyển",
-      "category": "character"
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "广贵城",
+      "source_language": "zh",
       "target": "Quảng Quý Thành",
-      "category": "location"
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "太南谷",
+      "source_language": "zh",
       "target": "Thái Nam Cốc",
-      "category": "location"
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "太南小会",
+      "source_language": "zh",
       "target": "Thái Nam Tiểu Hội",
-      "category": "event"
+      "category": "event",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "灵石",
+      "source_language": "zh",
       "target": "Linh thạch",
-      "category": "item"
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "金刚符",
+      "source_language": "zh",
       "target": "Kim Cương Phù",
-      "category": "item"
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "定神符",
+      "source_language": "zh",
       "target": "Định Thần Phù",
-      "category": "item"
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "符箓入门浅谈",
+      "source_language": "zh",
       "target": "Phù Lục Nhập Môn Thiển Đàm",
-      "category": "book"
+      "category": "book",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "荆棘符",
+      "source_language": "zh",
       "target": "Kinh Cức Phù",
-      "category": "item"
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "碧鳞蟒",
+      "source_language": "zh",
       "target": "Bích Lân Mãng",
-      "category": "character"
-    },
-    {
-      "source": "荆棘术",
-      "target": "Kinh Cức Thuật",
-      "category": "skill"
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "毒刺荆棘",
+      "source_language": "zh",
       "target": "Độc Thứ Kinh Cức",
-      "category": "item"
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "惑神术",
+      "source_language": "zh",
       "target": "Hoặc Thần Thuật",
-      "category": "skill"
+      "category": "skill",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "石甲术",
+      "source_language": "zh",
       "target": "Thạch Giáp Thuật",
-      "category": "skill"
+      "category": "skill",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "流沙术",
+      "source_language": "zh",
       "target": "Lưu Sa Thuật",
-      "category": "skill"
+      "category": "skill",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "火球术",
+      "source_language": "zh",
       "target": "Hỏa Cầu Thuật",
-      "category": "skill"
+      "category": "skill",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "冰箭术",
+      "source_language": "zh",
       "target": "Băng Tiễn Thuật",
-      "category": "skill"
+      "category": "skill",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "腐蚀术",
+      "source_language": "zh",
       "target": "Hủ Thực Thuật",
-      "category": "skill"
+      "category": "skill",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "碧眼狐",
+      "source_language": "zh",
       "target": "Bích Nhãn Hồ",
-      "category": "beast"
+      "category": "beast",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "赤焰豹",
+      "source_language": "zh",
       "target": "Xích Diễm Báo",
-      "category": "beast"
+      "category": "beast",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "岩蟒",
+      "source_language": "zh",
       "target": "Nham Mãng",
-      "category": "beast"
+      "category": "beast",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "巨力龟",
+      "source_language": "zh",
       "target": "Cự Lực Quy",
-      "category": "beast"
+      "category": "beast",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "菡云峰",
+      "source_language": "zh",
       "target": "Hàn Vân Phong",
-      "category": "character"
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "迷心术",
+      "source_language": "zh",
       "target": "Mê Tâm Thuật",
-      "category": "skill"
-    },
-    {
-      "source": "升仙令",
-      "target": "Thăng Tiên Lệnh",
-      "category": "item"
+      "category": "skill",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "筑基丹",
+      "source_language": "zh",
       "target": "Trúc Cơ Đan",
-      "category": "item"
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "修仙界概述",
+      "source_language": "zh",
       "target": "Tu Tiên Giới Khái Thuật",
-      "category": "book"
+      "category": "book",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "青纹",
+      "source_language": "zh",
       "target": "Thanh Văn",
-      "category": "character"
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "吴九指",
+      "source_language": "zh",
       "target": "Ngô Cửu Chỉ",
-      "category": "character"
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "吴剑鸣",
+      "source_language": "zh",
       "target": "Ngô Kiếm Minh",
-      "category": "character"
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "独霸山庄",
+      "source_language": "zh",
       "target": "Độc Bá Sơn Trang",
-      "category": "faction"
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "五色门",
+      "source_language": "zh",
       "target": "Ngũ Sắc Môn",
-      "category": "faction"
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "天霸门",
+      "source_language": "zh",
       "target": "Thiên Bá Môn",
-      "category": "faction"
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "兄弟盟",
+      "source_language": "zh",
       "target": "Huynh Đệ Minh",
-      "category": "faction"
-    },
-    {
-      "name": "Thanh Ngưu trấn",
-      "original_name": "青牛镇",
-      "type": "Thị trấn"
-    },
-    {
-      "name": "Ngũ Lý câu",
-      "original_name": "五里沟",
-      "type": "Thôn xóm"
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     }
   ]
 }

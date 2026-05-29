@@ -1,69 +1,122 @@
 {
   "metadata": {
-    "source_language": "zh",
-    "target_language": "vi",
-    "genre": "western_fiction",
-    "last_updated": "2026-04-13T16:32:00Z"
+    "version": "2.0",
+    "schema": "gold",
+    "branch": "Sieu Duy Thuat Si_Muc Ho",
+    "last_updated": "2026-05-30T04:48:09+07:00",
+    "total_entries": 11,
+    "previous_schema": "legacy"
   },
   "entries": [
     {
       "source": "猛虎踏蟒，蟒缠满月",
+      "source_language": "zh",
       "target": "Mãnh hổ đạp mãng, mãn xà triền nguyệt",
       "category": "vision",
-      "context": "Huy hiệu nhà Morn: Hổ dữ đạp mãng xà, mãng xà quấn trăng tròn."
+      "context": "Huy hiệu nhà Morn: Hổ dữ đạp mãng xà, mãng xà quấn trăng tròn.",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "冻土之月",
+      "source_language": "zh",
       "target": "Tháng Đống Thổ",
       "category": "time",
-      "context": "Tháng xuất hiện trong lịch."
+      "context": "Tháng xuất hiện trong lịch.",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "霜降之月",
+      "source_language": "zh",
       "target": "Tháng Sương Giáng",
-      "category": "time"
+      "category": "time",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "丰收之月",
+      "source_language": "zh",
       "target": "Tháng Thu Hoạch",
-      "category": "time"
+      "category": "time",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "金雀帝国",
+      "source_language": "zh",
       "target": "Đế quốc Jinque",
-      "category": "location"
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "帕特庄园",
+      "source_language": "zh",
       "target": "Trang viên Patte",
-      "category": "location"
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "格鲁镇",
+      "source_language": "zh",
       "target": "Thị trấn Gelu",
-      "category": "location"
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "雅梅行省",
+      "source_language": "zh",
       "target": "Hành tỉnh Yamei",
-      "category": "location"
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "海澜王朝",
+      "source_language": "zh",
       "target": "Vương triều Hailan",
-      "category": "location"
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "学究",
+      "source_language": "zh",
       "target": "Lão mọt sách",
       "category": "general",
-      "context": "Chỉ những học giả già gàn dở, chỉ biết đến sách vở."
+      "context": "Chỉ những học giả già gàn dở, chỉ biết đến sách vở.",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "老伙伴",
+      "source_language": "zh",
       "target": "Lão già/Bạn già/Ông bạn",
       "category": "address",
-      "context": "Xưng hô linh hoạt tùy ngữ cảnh giữa những người bạn già."
+      "context": "Xưng hô linh hoạt tùy ngữ cảnh giữa những người bạn già.",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     }
   ]
 }

@@ -1,0 +1,1677 @@
+{
+  "metadata": {
+    "branch": "Linh Hon Negary_Hu Minh",
+    "book_title": "Linh Hồn Negary",
+    "generated_at": "2026-05-30T04:51:59+07:00",
+    "total_characters": 83,
+    "style_tags": [
+      "dark fantasy",
+      "linh hồn",
+      "tiến hóa",
+      "mưu lược"
+    ],
+    "backdrop": "Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng."
+  },
+  "characters": [
+    {
+      "id": "char_002",
+      "name_original": "奈格里",
+      "name_translated": "Negary",
+      "gender": "neutral",
+      "role": "identity",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Danh hiệu/Thần danh mà Vương Uyên sử dụng sau khi trở thành tàn hồn.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Negary, a androgynous figure character from 'Linh Hồn Negary'. Role: ethereal, soul-like manifestation, otherworldly. Visual traits: spectral soul form, translucent ghost-like. Character context: Danh hiệu/Thần danh mà Vương Uyên sử dụng sau khi trở thành tàn hồn.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Negary (androgynous figure) from 'Linh Hồn Negary'. Role: ethereal, soul-like manifestation, otherworldly. Visual: spectral soul form, translucent ghost-like. Description: Danh hiệu/Thần danh mà Vương Uyên sử dụng sau khi trở thành tàn hồn.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/negary_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/negary_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "char_001",
+      "name_original": "王渊",
+      "name_translated": "Vương Uyên",
+      "gender": "male",
+      "role": "protagonist",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Nhân vật chính, xuyên không và bị hệ thống hãm hại trở thành tàn hồn.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Vương Uyên, a man character from 'Linh Hồn Negary'. Role: heroic aura, determined expression, center of frame. Visual traits: spectral soul form, translucent ghost-like. Character context: Nhân vật chính, xuyên không và bị hệ thống hãm hại trở thành tàn hồn.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Vương Uyên (man) from 'Linh Hồn Negary'. Role: heroic aura, determined expression, center of frame. Visual: spectral soul form, translucent ghost-like. Description: Nhân vật chính, xuyên không và bị hệ thống hãm hại trở thành tàn hồn.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/v_ng_uy_n_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/v_ng_uy_n_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0075",
+      "name_original": "阿柒",
+      "name_translated": "A Thất",
+      "gender": "female",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Người thân/người quan trọng của Thường Hạ.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of A Thất, a woman character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Character context: Người thân/người quan trọng của Thường Hạ.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of A Thất (woman) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Description: Người thân/người quan trọng của Thường Hạ.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/a_th_t_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/a_th_t_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0074",
+      "name_original": "艾达恩",
+      "name_translated": "Aidan",
+      "gender": "male",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Cự long xâm lược bị Negary săn lùng.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Aidan, a man character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Visual traits: spectral soul form, translucent ghost-like. Character context: Cự long xâm lược bị Negary săn lùng.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Aidan (man) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Visual: spectral soul form, translucent ghost-like. Description: Cự long xâm lược bị Negary săn lùng.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/aidan_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/aidan_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0030",
+      "name_original": "艾伦·威尔斯",
+      "name_translated": "Alan Wells",
+      "gender": "male",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Nguyên soái quân đội Intercam, trấn thủ Colomier.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Alan Wells, a man character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Character context: Nguyên soái quân đội Intercam, trấn thủ Colomier.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Alan Wells (man) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Description: Nguyên soái quân đội Intercam, trấn thủ Colomier.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/alan_wells_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/alan_wells_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "char_009",
+      "name_original": "艾尔德里奇",
+      "name_translated": "Aldrich",
+      "gender": "male",
+      "role": "thứ chính",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Quốc vương vĩ đại của Royas, một vị minh quân độc tài đầy tham vọng.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Aldrich, a man character from 'Linh Hồn Negary'. Role: distinctive character. Character context: Quốc vương vĩ đại của Royas, một vị minh quân độc tài đầy tham vọng.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Aldrich (man) from 'Linh Hồn Negary'. Role: distinctive character. Description: Quốc vương vĩ đại của Royas, một vị minh quân độc tài đầy tham vọng.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/aldrich_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/aldrich_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0032",
+      "name_original": "阿尔克斯·鲁伊",
+      "name_translated": "Alkes Rui",
+      "gender": "male",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Hiệp sĩ Intercam, người kế thừa Cương Lưu Pháp, thần phục Nara.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Alkes Rui, a man character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Character context: Hiệp sĩ Intercam, người kế thừa Cương Lưu Pháp, thần phục Nara.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Alkes Rui (man) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Description: Hiệp sĩ Intercam, người kế thừa Cương Lưu Pháp, thần phục Nara.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/alkes_rui_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/alkes_rui_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0029",
+      "name_original": "艾米",
+      "name_translated": "Amy",
+      "gender": "female",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Thị nữ của Morlis, bị Heals giết để làm tế phẩm.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Amy, a woman character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Character context: Thị nữ của Morlis, bị Heals giết để làm tế phẩm.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Amy (woman) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Description: Thị nữ của Morlis, bị Heals giết để làm tế phẩm.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/amy_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/amy_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0062",
+      "name_original": "亚克托斯",
+      "name_translated": "Arctos",
+      "gender": "male",
+      "role": "thứ chính",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Tai Vương Địa Tâm Di Cực, người già nhất trong các Tai Vương tham gia đàm phán.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Arctos, a man character from 'Linh Hồn Negary'. Role: distinctive character. Character context: Tai Vương Địa Tâm Di Cực, người già nhất trong các Tai Vương tham gia đàm phán.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Arctos (man) from 'Linh Hồn Negary'. Role: distinctive character. Description: Tai Vương Địa Tâm Di Cực, người già nhất trong các Tai Vương tham gia đàm phán.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/arctos_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/arctos_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0070",
+      "name_original": "阿尔克曼",
+      "name_translated": "Arkman",
+      "gender": "male",
+      "role": "thứ chính",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Tai Vương Chiến Tranh.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Arkman, a man character from 'Linh Hồn Negary'. Role: distinctive character. Character context: Tai Vương Chiến Tranh.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Arkman (man) from 'Linh Hồn Negary'. Role: distinctive character. Description: Tai Vương Chiến Tranh.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/arkman_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/arkman_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0010",
+      "name_original": "布雷德",
+      "name_translated": "Brad",
+      "gender": "male",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Thành viên đội săn người Cosi, hy sinh bản thân để bẫy lũ quạ của Negary.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Brad, a man character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Character context: Thành viên đội săn người Cosi, hy sinh bản thân để bẫy lũ quạ của Negary.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Brad (man) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Description: Thành viên đội săn người Cosi, hy sinh bản thân để bẫy lũ quạ của Negary.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/brad_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/brad_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0031",
+      "name_original": "卡达",
+      "name_translated": "Cada",
+      "gender": "male",
+      "role": "phản diện",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Quý tộc Royas, chỉ huy quân vây hãm Colomier.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Cada, a man character from 'Linh Hồn Negary'. Role: distinctive character. Character context: Quý tộc Royas, chỉ huy quân vây hãm Colomier.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Cada (man) from 'Linh Hồn Negary'. Role: distinctive character. Description: Quý tộc Royas, chỉ huy quân vây hãm Colomier.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/cada_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/cada_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0054",
+      "name_original": "高燕",
+      "name_translated": "Cao Yến",
+      "gender": "female",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Cựu nhân viên Khoa Đối ứng, đã qua đời.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Cao Yến, a woman character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Character context: Cựu nhân viên Khoa Đối ứng, đã qua đời.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Cao Yến (woman) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Description: Cựu nhân viên Khoa Đối ứng, đã qua đời.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/cao_y_n_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/cao_y_n_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0079",
+      "name_original": "凯瑟琳·沃登",
+      "name_translated": "Catherine Warden",
+      "gender": "female",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Thành viên của Hiệp Hội Ẩn Tu Bất Khiết, một tiểu thư nhà giàu cuồng nhiệt huyền học.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Catherine Warden, a woman character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Character context: Thành viên của Hiệp Hội Ẩn Tu Bất Khiết, một tiểu thư nhà giàu cuồng nhiệt huyền học.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Catherine Warden (woman) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Description: Thành viên của Hiệp Hội Ẩn Tu Bất Khiết, một tiểu thư nhà giàu cuồng nhiệt huyền học.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/catherine_warden_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/catherine_warden_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0015",
+      "name_original": "村长的孙女",
+      "name_translated": "Cháu gái trưởng làng",
+      "gender": "female",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Bị Nal-beast cắn và bị Vương Uyên giết chết để trừ hậu họa.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Cháu gái trưởng làng, a woman character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Character context: Bị Nal-beast cắn và bị Vương Uyên giết chết để trừ hậu họa.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Cháu gái trưởng làng (woman) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Description: Bị Nal-beast cắn và bị Vương Uyên giết chết để trừ hậu họa.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/ch_u_g_i_tr_ng_l_ng_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/ch_u_g_i_tr_ng_l_ng_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0041",
+      "name_original": "巧姐",
+      "name_translated": "Chị Xảo",
+      "gender": "female",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Hàng xóm của Phương Trạch, thường giúp đỡ cậu.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Chị Xảo, a woman character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Character context: Hàng xóm của Phương Trạch, thường giúp đỡ cậu.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Chị Xảo (woman) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Description: Hàng xóm của Phương Trạch, thường giúp đỡ cậu.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/ch_x_o_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/ch_x_o_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0076",
+      "name_original": "克罗米",
+      "name_translated": "Cromie",
+      "gender": "male",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Con trai út của gia tộc Vernard, phó câu lạc bộ kiếm thuật của học viện.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Cromie, a man character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Character context: Con trai út của gia tộc Vernard, phó câu lạc bộ kiếm thuật của học viện.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Cromie (man) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Description: Con trai út của gia tộc Vernard, phó câu lạc bộ kiếm thuật của học viện.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/cromie_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/cromie_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0003",
+      "name_original": "达克思",
+      "name_translated": "Dacus",
+      "gender": "male",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Thợ săn râu rậm người Cosi.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Dacus, a man character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Visual traits: heavy beard. Character context: Thợ săn râu rậm người Cosi.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Dacus (man) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Visual: heavy beard. Description: Thợ săn râu rậm người Cosi.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/dacus_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/dacus_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "char_011",
+      "name_original": "德莎",
+      "name_translated": "Desha",
+      "gender": "female",
+      "role": "phản diện",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Nữ Crow Men thực dụng, coi mình là bậc thang của Negary.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Desha, a woman character from 'Linh Hồn Negary'. Role: distinctive character. Visual traits: surrounded by black crows. Character context: Nữ Crow Men thực dụng, coi mình là bậc thang của Negary.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Desha (woman) from 'Linh Hồn Negary'. Role: distinctive character. Visual: surrounded by black crows. Description: Nữ Crow Men thực dụng, coi mình là bậc thang của Negary.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/desha_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/desha_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0051",
+      "name_original": "叶空",
+      "name_translated": "Diệp Không",
+      "gender": "male",
+      "role": "phản diện",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Cựu nhân viên Khoa Đối ứng, sở hữu quyền bính Phòng Ốc Đổ Sập. Kẻ gây ra các vụ sập nhà hàng loạt tại Khu vực 5.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Diệp Không, a man character from 'Linh Hồn Negary'. Role: distinctive character. Character context: Cựu nhân viên Khoa Đối ứng, sở hữu quyền bính Phòng Ốc Đổ Sập. Kẻ gây ra các vụ sập nhà hàng loạt tại Khu vực 5.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Diệp Không (man) from 'Linh Hồn Negary'. Role: distinctive character. Description: Cựu nhân viên Khoa Đối ứng, sở hữu quyền bính Phòng Ốc Đổ Sập. Kẻ gây ra các vụ sập nhà hàng loạt tại Khu vực 5.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/di_p_kh_ng_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/di_p_kh_ng_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0057",
+      "name_original": "余光明",
+      "name_translated": "Dư Quang Minh",
+      "gender": "male",
+      "role": "phản diện (lịch sử)",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Người nắm giữ Quyền Bính Động Đất, gây ra Trận động đất lớn Nguyệt Bố 16 năm trước.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Dư Quang Minh, a man character from 'Linh Hồn Negary'. Role: distinctive character. Character context: Người nắm giữ Quyền Bính Động Đất, gây ra Trận động đất lớn Nguyệt Bố 16 năm trước.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Dư Quang Minh (man) from 'Linh Hồn Negary'. Role: distinctive character. Description: Người nắm giữ Quyền Bính Động Đất, gây ra Trận động đất lớn Nguyệt Bố 16 năm trước.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/d_quang_minh_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/d_quang_minh_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0065",
+      "name_original": "杨永兴",
+      "name_translated": "Dương Vĩnh Hưng",
+      "gender": "male",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Thủ lĩnh căn cứ lân cận, sử dụng Lôi Điện Chi Nhận để tẩy não.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Dương Vĩnh Hưng, a man character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Character context: Thủ lĩnh căn cứ lân cận, sử dụng Lôi Điện Chi Nhận để tẩy não.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Dương Vĩnh Hưng (man) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Description: Thủ lĩnh căn cứ lân cận, sử dụng Lôi Điện Chi Nhận để tẩy não.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/d_ng_v_nh_h_ng_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/d_ng_v_nh_h_ng_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0055",
+      "name_original": "夜枭",
+      "name_translated": "Dạ Kiêu",
+      "gender": "male",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Xạ thủ bắn tỉa của Khoa Đối ứng, hỗ trợ Phương Trạch tiêu diệt Diệp Không.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Dạ Kiêu, a man character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Character context: Xạ thủ bắn tỉa của Khoa Đối ứng, hỗ trợ Phương Trạch tiêu diệt Diệp Không.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Dạ Kiêu (man) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Description: Xạ thủ bắn tỉa của Khoa Đối ứng, hỗ trợ Phương Trạch tiêu diệt Diệp Không.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/d_ki_u_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/d_ki_u_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "char_004",
+      "name_original": "革洛斯克",
+      "name_translated": "Groske",
+      "gender": "male",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Đại diện thương nhân Intercam, hỗ trợ hậu cần cho liên minh.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Groske, a man character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Character context: Đại diện thương nhân Intercam, hỗ trợ hậu cần cho liên minh.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Groske (man) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Description: Đại diện thương nhân Intercam, hỗ trợ hậu cần cho liên minh.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/groske_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/groske_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0008",
+      "name_original": "赫尔罗",
+      "name_translated": "Herro",
+      "gender": "male",
+      "role": "thần linh",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Vị thần Sức Mạnh (God of Strength) của người Cosi.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Herro, a man character from 'Linh Hồn Negary'. Role: divine radiance, ethereal glow, god-like presence. Character context: Vị thần Sức Mạnh (God of Strength) của người Cosi.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Herro (man) from 'Linh Hồn Negary'. Role: divine radiance, ethereal glow, god-like presence. Description: Vị thần Sức Mạnh (God of Strength) của người Cosi.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/herro_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/herro_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0081",
+      "name_original": "霍顿·克罗",
+      "name_translated": "Horton Crow",
+      "gender": "male",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Người đứng đầu đội thi công xây dựng lớn nhất trấn Lor, đã phản bội Ẩn Tu Hội để đầu quân cho Giáo hội Vô Thanh.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Horton Crow, a man character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Character context: Người đứng đầu đội thi công xây dựng lớn nhất trấn Lor, đã phản bội Ẩn Tu Hội để đầu quân cho Giáo hội Vô Thanh.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Horton Crow (man) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Description: Người đứng đầu đội thi công xây dựng lớn nhất trấn Lor, đã phản bội Ẩn Tu Hội để đầu quân cho Giáo hội Vô Thanh.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/horton_crow_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/horton_crow_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0048",
+      "name_original": "何巧",
+      "name_translated": "Hà Xảo",
+      "gender": "female",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Hàng xóm và là người chị thân thiết của Phương Trạch, thường được gọi là Chị Xảo.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Hà Xảo, a woman character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Character context: Hàng xóm và là người chị thân thiết của Phương Trạch, thường được gọi là Chị Xảo.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Hà Xảo (woman) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Description: Hàng xóm và là người chị thân thiết của Phương Trạch, thường được gọi là Chị Xảo.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/h_x_o_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/h_x_o_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0013",
+      "name_original": "伊莎贝拉",
+      "name_translated": "Isabella",
+      "gender": "female",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Vợ của Jacques, người gia tộc Tagore, tín đồ Thần Ân giáo.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Isabella, a woman character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Character context: Vợ của Jacques, người gia tộc Tagore, tín đồ Thần Ân giáo.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Isabella (woman) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Description: Vợ của Jacques, người gia tộc Tagore, tín đồ Thần Ân giáo.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/isabella_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/isabella_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0034",
+      "name_original": "杰克 / 杀手J",
+      "name_translated": "Jack / Sát Thủ J",
+      "gender": "male",
+      "role": "thứ chính",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Cấu trúc linh hồn được tạo từ Jack và phó hồn của Negary, hành động bất khả dự trắc.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Jack / Sát Thủ J, a man character from 'Linh Hồn Negary'. Role: distinctive character. Visual traits: spectral soul form, translucent ghost-like, demonic corrupted appearance, dark aura. Character context: Cấu trúc linh hồn được tạo từ Jack và phó hồn của Negary, hành động bất khả dự trắc.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Jack / Sát Thủ J (man) from 'Linh Hồn Negary'. Role: distinctive character. Visual: spectral soul form, translucent ghost-like, demonic corrupted appearance, dark aura. Description: Cấu trúc linh hồn được tạo từ Jack và phó hồn của Negary, hành động bất khả dự trắc.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/jack_s_t_th_j_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/jack_s_t_th_j_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0011",
+      "name_original": "雅克",
+      "name_translated": "Jacques Dacusmi",
+      "gender": "male",
+      "role": "thứ chính",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Đội trưởng đội hộ vệ làng người Cosi, bạn thân của Dacus.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Jacques Dacusmi, a man character from 'Linh Hồn Negary'. Role: distinctive character. Character context: Đội trưởng đội hộ vệ làng người Cosi, bạn thân của Dacus.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Jacques Dacusmi (man) from 'Linh Hồn Negary'. Role: distinctive character. Description: Đội trưởng đội hộ vệ làng người Cosi, bạn thân của Dacus.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/jacques_dacusmi_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/jacques_dacusmi_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "char_005",
+      "name_original": "杰森·托德",
+      "name_translated": "Jason Todd",
+      "gender": "male",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Lính đánh thuê tàn bạo, báo thù cho gia đình bị hải tặc giết hại.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Jason Todd, a man character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Character context: Lính đánh thuê tàn bạo, báo thù cho gia đình bị hải tặc giết hại.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Jason Todd (man) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Description: Lính đánh thuê tàn bạo, báo thù cho gia đình bị hải tặc giết hại.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/jason_todd_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/jason_todd_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0080",
+      "name_original": "神奈",
+      "name_translated": "Kanai",
+      "gender": "male",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Kẻ sở hữu sức mạnh Bất Khiết thế hệ trước.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Kanai, a man character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Character context: Kẻ sở hữu sức mạnh Bất Khiết thế hệ trước.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Kanai (man) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Description: Kẻ sở hữu sức mạnh Bất Khiết thế hệ trước.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/kanai_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/kanai_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0004",
+      "name_original": "科摩罗",
+      "name_translated": "Komoro",
+      "gender": "male",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Thợ săn trẻ tuổi người Cosi.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Komoro, a man character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Visual traits: youthful appearance. Character context: Thợ săn trẻ tuổi người Cosi.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Komoro (man) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Visual: youthful appearance. Description: Thợ săn trẻ tuổi người Cosi.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/komoro_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/komoro_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0069",
+      "name_original": "考斯特",
+      "name_translated": "Koster",
+      "gender": "male",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Thiên tài siêu năng lực phản bội thế giới ở chu mục thứ hai.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Koster, a man character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Character context: Thiên tài siêu năng lực phản bội thế giới ở chu mục thứ hai.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Koster (man) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Description: Thiên tài siêu năng lực phản bội thế giới ở chu mục thứ hai.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/koster_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/koster_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0083",
+      "name_original": "库尼尔·多拉格尼尔",
+      "name_translated": "Kuniel Dragneel",
+      "gender": "male",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Hiệp sĩ hoàn mỹ nhất của Giáo hội Nhật Ảnh hiện nay, có mối quan hệ thân thiện với Cromie.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Kuniel Dragneel, a man character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Character context: Hiệp sĩ hoàn mỹ nhất của Giáo hội Nhật Ảnh hiện nay, có mối quan hệ thân thiện với Cromie.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Kuniel Dragneel (man) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Description: Hiệp sĩ hoàn mỹ nhất của Giáo hội Nhật Ảnh hiện nay, có mối quan hệ thân thiện với Cromie.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/kuniel_dragneel_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/kuniel_dragneel_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0059",
+      "name_original": "罗平",
+      "name_translated": "La Bình",
+      "gender": "male",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Thành viên tiểu đội Tai Ách Khoa Đối ứng Vực thứ bảy, người bản địa Nguyệt Bố.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of La Bình, a man character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Character context: Thành viên tiểu đội Tai Ách Khoa Đối ứng Vực thứ bảy, người bản địa Nguyệt Bố.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of La Bình (man) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Description: Thành viên tiểu đội Tai Ách Khoa Đối ứng Vực thứ bảy, người bản địa Nguyệt Bố.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/la_b_nh_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/la_b_nh_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0082",
+      "name_original": "阑珊",
+      "name_translated": "Lan San",
+      "gender": "female",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Một thực thể ở thế giới cũ sở hữu Căn Nguyên Ôn Dịch.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Lan San, a woman character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Character context: Một thực thể ở thế giới cũ sở hữu Căn Nguyên Ôn Dịch.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Lan San (woman) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Description: Một thực thể ở thế giới cũ sở hữu Căn Nguyên Ôn Dịch.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/lan_san_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/lan_san_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0027",
+      "name_original": "莱斯·拉瓦尔",
+      "name_translated": "Les Laval",
+      "gender": "male",
+      "role": "thứ chính",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Quý tộc sa sút, người hỗ trợ Nara, có tài mưu lược.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Les Laval, a man character from 'Linh Hồn Negary'. Role: distinctive character. Character context: Quý tộc sa sút, người hỗ trợ Nara, có tài mưu lược.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Les Laval (man) from 'Linh Hồn Negary'. Role: distinctive character. Description: Quý tộc sa sút, người hỗ trợ Nara, có tài mưu lược.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/les_laval_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/les_laval_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "char_006",
+      "name_original": "路恩·多纳",
+      "name_translated": "Luen Donna",
+      "gender": "male",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Đệ tử của Osgoodin, mục sư có tham vọng cải tổ Thần Ân giáo.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Luen Donna, a man character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Character context: Đệ tử của Osgoodin, mục sư có tham vọng cải tổ Thần Ân giáo.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Luen Donna (man) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Description: Đệ tử của Osgoodin, mục sư có tham vọng cải tổ Thần Ân giáo.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/luen_donna_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/luen_donna_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0047",
+      "name_original": "李常",
+      "name_translated": "Lý Thường",
+      "gender": "male",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Thiếu niên tham gia thí nghiệm cảm ứng Tai Ách chi lực của Negary.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Lý Thường, a man character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Visual traits: youthful appearance. Character context: Thiếu niên tham gia thí nghiệm cảm ứng Tai Ách chi lực của Negary.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Lý Thường (man) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Visual: youthful appearance. Description: Thiếu niên tham gia thí nghiệm cảm ứng Tai Ách chi lực của Negary.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/l_th_ng_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/l_th_ng_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0053",
+      "name_original": "李宣烨",
+      "name_translated": "Lý Tuyên Diệp",
+      "gender": "male",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Cựu nhân viên Khoa Đối ứng, bị Diệp Không giết chết.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Lý Tuyên Diệp, a man character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Character context: Cựu nhân viên Khoa Đối ứng, bị Diệp Không giết chết.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Lý Tuyên Diệp (man) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Description: Cựu nhân viên Khoa Đối ứng, bị Diệp Không giết chết.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/l_tuy_n_di_p_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/l_tuy_n_di_p_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0056",
+      "name_original": "李静语",
+      "name_translated": "Lý Tĩnh Ngữ",
+      "gender": "female",
+      "role": "phản diện",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Người nắm giữ Quyền Bính Bạo Lực Dư Luận, thuộc tổ chức Kẻ Sống Sót.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Lý Tĩnh Ngữ, a woman character from 'Linh Hồn Negary'. Role: distinctive character. Character context: Người nắm giữ Quyền Bính Bạo Lực Dư Luận, thuộc tổ chức Kẻ Sống Sót.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Lý Tĩnh Ngữ (woman) from 'Linh Hồn Negary'. Role: distinctive character. Description: Người nắm giữ Quyền Bính Bạo Lực Dư Luận, thuộc tổ chức Kẻ Sống Sót.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/l_t_nh_ng_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/l_t_nh_ng_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0060",
+      "name_original": "李科长",
+      "name_translated": "Lý khoa trưởng",
+      "gender": "male",
+      "role": "phụ",
+      "status": "đã chết",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Trưởng khoa tại Khoa Đối ứng Vực thứ bảy. Bị thành viên Kẻ Sống Sót giết chết.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Lý khoa trưởng, a man character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Character context: Trưởng khoa tại Khoa Đối ứng Vực thứ bảy. Bị thành viên Kẻ Sống Sót giết chết.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Lý khoa trưởng (man) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Description: Trưởng khoa tại Khoa Đối ứng Vực thứ bảy. Bị thành viên Kẻ Sống Sót giết chết.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/l_khoa_tr_ng_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/l_khoa_tr_ng_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0042",
+      "name_original": "流刃",
+      "name_translated": "Lưu Nhận",
+      "gender": "male",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Thành viên Khoa Đối ứng, đàn anh của Lưu Thỉ, nắm giữ Quyền Bính Lợi Nhận Chi Thương.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Lưu Nhận, a man character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Character context: Thành viên Khoa Đối ứng, đàn anh của Lưu Thỉ, nắm giữ Quyền Bính Lợi Nhận Chi Thương.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Lưu Nhận (man) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Description: Thành viên Khoa Đối ứng, đàn anh của Lưu Thỉ, nắm giữ Quyền Bính Lợi Nhận Chi Thương.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/l_u_nh_n_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/l_u_nh_n_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0040",
+      "name_original": "流矢",
+      "name_translated": "Lưu Thỉ",
+      "gender": "female",
+      "role": "thứ chính",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Thành viên Khoa Đối ứng, người bảo hộ Phương Trạch, nắm giữ Quyền Bính Lưu Thỉ.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Lưu Thỉ, a woman character from 'Linh Hồn Negary'. Role: distinctive character. Character context: Thành viên Khoa Đối ứng, người bảo hộ Phương Trạch, nắm giữ Quyền Bính Lưu Thỉ.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Lưu Thỉ (woman) from 'Linh Hồn Negary'. Role: distinctive character. Description: Thành viên Khoa Đối ứng, người bảo hộ Phương Trạch, nắm giữ Quyền Bính Lưu Thỉ.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/l_u_th_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/l_u_th_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0046",
+      "name_original": "梁亮",
+      "name_translated": "Lương Lượng",
+      "gender": "male",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Một người đàn ông quyền quý 70 tuổi, sử dụng dược tề Hắc Nha của Negary để kéo dài tuổi thọ và giữ vẻ trẻ trung.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Lương Lượng, a man character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Character context: Một người đàn ông quyền quý 70 tuổi, sử dụng dược tề Hắc Nha của Negary để kéo dài tuổi thọ và giữ vẻ trẻ trung.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Lương Lượng (man) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Description: Một người đàn ông quyền quý 70 tuổi, sử dụng dược tề Hắc Nha của Negary để kéo dài tuổi thọ và giữ vẻ trẻ trung.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/l_ng_l_ng_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/l_ng_l_ng_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0009",
+      "name_original": "嫩枝女神",
+      "name_translated": "Men",
+      "gender": "female",
+      "role": "thần linh",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Nữ thần Mầm Non (Goddess of New Life/Buds) của người Cosi.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Men, a woman character from 'Linh Hồn Negary'. Role: divine radiance, ethereal glow, god-like presence. Character context: Nữ thần Mầm Non (Goddess of New Life/Buds) của người Cosi.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Men (woman) from 'Linh Hồn Negary'. Role: divine radiance, ethereal glow, god-like presence. Description: Nữ thần Mầm Non (Goddess of New Life/Buds) của người Cosi.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/men_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/men_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0005",
+      "name_original": "梅纳斯",
+      "name_translated": "Menas",
+      "gender": "female",
+      "role": "thần linh",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Nữ thần Vận Rủi (Goddess of Misfortune) của người Cosi.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Menas, a woman character from 'Linh Hồn Negary'. Role: divine radiance, ethereal glow, god-like presence. Character context: Nữ thần Vận Rủi (Goddess of Misfortune) của người Cosi.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Menas (woman) from 'Linh Hồn Negary'. Role: divine radiance, ethereal glow, god-like presence. Description: Nữ thần Vận Rủi (Goddess of Misfortune) của người Cosi.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/menas_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/menas_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0028",
+      "name_original": "谟尔莉斯",
+      "name_translated": "Morlis",
+      "gender": "female",
+      "role": "phản diện",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Tiểu thư quý tộc lãnh địa Scoro, bị Heals biến thành Tà Linh Đoạt Thủ giả.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Morlis, a woman character from 'Linh Hồn Negary'. Role: distinctive character. Character context: Tiểu thư quý tộc lãnh địa Scoro, bị Heals biến thành Tà Linh Đoạt Thủ giả.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Morlis (woman) from 'Linh Hồn Negary'. Role: distinctive character. Description: Tiểu thư quý tộc lãnh địa Scoro, bị Heals biến thành Tà Linh Đoạt Thủ giả.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/morlis_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/morlis_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "char_007",
+      "name_original": "迈尔森",
+      "name_translated": "Mylson",
+      "gender": "male",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Thần Ân kỵ sĩ trẻ tuổi, xuất thân từ khu ổ chuột.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Mylson, a man character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Visual traits: youthful appearance. Character context: Thần Ân kỵ sĩ trẻ tuổi, xuất thân từ khu ổ chuột.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Mylson (man) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Visual: youthful appearance. Description: Thần Ân kỵ sĩ trẻ tuổi, xuất thân từ khu ổ chuột.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/mylson_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/mylson_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0006",
+      "name_original": "奈克",
+      "name_translated": "Naik",
+      "gender": "male",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Thành viên đội săn người Cosi, người đầu tiên bị Negary giết.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Naik, a man character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Character context: Thành viên đội săn người Cosi, người đầu tiên bị Negary giết.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Naik (man) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Description: Thành viên đội săn người Cosi, người đầu tiên bị Negary giết.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/naik_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/naik_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0014",
+      "name_original": "娜拉",
+      "name_translated": "Nara",
+      "gender": "female",
+      "role": "thứ chính",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Con gái của Jacques và Isabella, Thánh nữ cứu thế, Long chi nữ.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Nara, a woman character from 'Linh Hồn Negary'. Role: distinctive character. Character context: Con gái của Jacques và Isabella, Thánh nữ cứu thế, Long chi nữ.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Nara (woman) from 'Linh Hồn Negary'. Role: distinctive character. Description: Con gái của Jacques và Isabella, Thánh nữ cứu thế, Long chi nữ.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/nara_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/nara_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0077",
+      "name_original": "奥莉",
+      "name_translated": "Oly",
+      "gender": "female",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Bạn học của Cromie ở học viện.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Oly, a woman character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Character context: Bạn học của Cromie ở học viện.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Oly (woman) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Description: Bạn học của Cromie ở học viện.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/oly_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/oly_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "char_003",
+      "name_original": "奥斯古丁",
+      "name_translated": "Osgoodin",
+      "gender": "male",
+      "role": "thứ chính",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Giám mục Thần Ân giáo, người ủy thác và bạn của Chris Modo.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Osgoodin, a man character from 'Linh Hồn Negary'. Role: distinctive character. Character context: Giám mục Thần Ân giáo, người ủy thác và bạn của Chris Modo.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Osgoodin (man) from 'Linh Hồn Negary'. Role: distinctive character. Description: Giám mục Thần Ân giáo, người ủy thác và bạn của Chris Modo.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/osgoodin_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/osgoodin_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0078",
+      "name_original": "比罗修斯",
+      "name_translated": "Peroxis",
+      "gender": "male",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Quản gia của gia đình Vernard, đồng thời là tên sát nhân hàng loạt ở trấn Lor.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Peroxis, a man character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Character context: Quản gia của gia đình Vernard, đồng thời là tên sát nhân hàng loạt ở trấn Lor.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Peroxis (man) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Description: Quản gia của gia đình Vernard, đồng thời là tên sát nhân hàng loạt ở trấn Lor.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/peroxis_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/peroxis_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0063",
+      "name_original": "方书南",
+      "name_translated": "Phương Thư Nam",
+      "gender": "male",
+      "role": "thứ chính",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Tai Vương Đại Hồng Thủy, cựu quân nhân chống lụt.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Phương Thư Nam, a man character from 'Linh Hồn Negary'. Role: distinctive character. Character context: Tai Vương Đại Hồng Thủy, cựu quân nhân chống lụt.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Phương Thư Nam (man) from 'Linh Hồn Negary'. Role: distinctive character. Description: Tai Vương Đại Hồng Thủy, cựu quân nhân chống lụt.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/ph_ng_th_nam_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/ph_ng_th_nam_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0038",
+      "name_original": "方泽",
+      "name_translated": "Phương Trạch",
+      "gender": "male",
+      "role": "thứ chính",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Tân Tai Vương mới thức tỉnh, là một học sinh trung học.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Phương Trạch, a man character from 'Linh Hồn Negary'. Role: distinctive character. Character context: Tân Tai Vương mới thức tỉnh, là một học sinh trung học.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Phương Trạch (man) from 'Linh Hồn Negary'. Role: distinctive character. Description: Tân Tai Vương mới thức tỉnh, là một học sinh trung học.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/ph_ng_tr_ch_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/ph_ng_tr_ch_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0007",
+      "name_original": "瑞尔斯",
+      "name_translated": "Riels",
+      "gender": "female",
+      "role": "thần linh",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Nữ thần May Mắn (Goddess of Luck) của người Cosi.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Riels, a woman character from 'Linh Hồn Negary'. Role: divine radiance, ethereal glow, god-like presence. Character context: Nữ thần May Mắn (Goddess of Luck) của người Cosi.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Riels (woman) from 'Linh Hồn Negary'. Role: divine radiance, ethereal glow, god-like presence. Description: Nữ thần May Mắn (Goddess of Luck) của người Cosi.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/riels_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/riels_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "char_010",
+      "name_original": "里弗斯",
+      "name_translated": "Rivers",
+      "gender": "male",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Thần Ân kỵ sĩ sử dụng Hy sinh ân tứ trong trận chiến cấm địa.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Rivers, a man character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Character context: Thần Ân kỵ sĩ sử dụng Hy sinh ân tứ trong trận chiến cấm địa.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Rivers (man) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Description: Thần Ân kỵ sĩ sử dụng Hy sinh ân tứ trong trận chiến cấm địa.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/rivers_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/rivers_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0067",
+      "name_original": "萨米拉",
+      "name_translated": "Samila",
+      "gender": "male",
+      "role": "thần linh",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Cuồng Phong Chi Thần từ thế giới Hỏa Diễm (thế giới đầu tiên).",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Samila, a man character from 'Linh Hồn Negary'. Role: divine radiance, ethereal glow, god-like presence. Character context: Cuồng Phong Chi Thần từ thế giới Hỏa Diễm (thế giới đầu tiên).. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Samila (man) from 'Linh Hồn Negary'. Role: divine radiance, ethereal glow, god-like presence. Description: Cuồng Phong Chi Thần từ thế giới Hỏa Diễm (thế giới đầu tiên).. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/samila_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/samila_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0016",
+      "name_original": "森",
+      "name_translated": "Sen",
+      "gender": "male",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Thành viên đội hộ vệ đột kích, bạn thuở nhỏ của Komoro, từng làm bị thương một con quạ.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Sen, a man character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Character context: Thành viên đội hộ vệ đột kích, bạn thuở nhỏ của Komoro, từng làm bị thương một con quạ.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Sen (man) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Description: Thành viên đội hộ vệ đột kích, bạn thuở nhỏ của Komoro, từng làm bị thương một con quạ.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/sen_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/sen_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "char_012",
+      "name_original": "瑟斯一世",
+      "name_translated": "Seth I",
+      "gender": "male",
+      "role": "thứ chính",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Quốc vương Intercam, người khơi mào nội loạn vương thất.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Seth I, a man character from 'Linh Hồn Negary'. Role: distinctive character. Character context: Quốc vương Intercam, người khơi mào nội loạn vương thất.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Seth I (man) from 'Linh Hồn Negary'. Role: distinctive character. Description: Quốc vương Intercam, người khơi mào nội loạn vương thất.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/seth_i_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/seth_i_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "char_008",
+      "name_original": "斯米克·兰彻",
+      "name_translated": "Smic Lancher",
+      "gender": "male",
+      "role": "thứ chính",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Cao thủ vương quốc Royas, kế thừa Quang chi lưu pháp.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Smic Lancher, a man character from 'Linh Hồn Negary'. Role: distinctive character. Character context: Cao thủ vương quốc Royas, kế thừa Quang chi lưu pháp.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Smic Lancher (man) from 'Linh Hồn Negary'. Role: distinctive character. Description: Cao thủ vương quốc Royas, kế thừa Quang chi lưu pháp.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/smic_lancher_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/smic_lancher_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0072",
+      "name_original": "天倾灾王",
+      "name_translated": "Thiên Khuynh Tai Vương",
+      "gender": "không rõ",
+      "role": "thứ chính",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Vị Tai Vương thứ mười, sinh ra từ sự xâm lược.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Thiên Khuynh Tai Vương, a figure character from 'Linh Hồn Negary'. Role: distinctive character. Character context: Vị Tai Vương thứ mười, sinh ra từ sự xâm lược.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Thiên Khuynh Tai Vương (figure) from 'Linh Hồn Negary'. Role: distinctive character. Description: Vị Tai Vương thứ mười, sinh ra từ sự xâm lược.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/thi_n_khuynh_tai_v_ng_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/thi_n_khuynh_tai_v_ng_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0058",
+      "name_original": "托尔",
+      "name_translated": "Thor",
+      "gender": "nam (chó)",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Con chó Corgi của Sát thủ J, bạn diễn trong các màn diễn sâu.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Thor, a figure character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Character context: Con chó Corgi của Sát thủ J, bạn diễn trong các màn diễn sâu.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Thor (figure) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Description: Con chó Corgi của Sát thủ J, bạn diễn trong các màn diễn sâu.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/thor_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/thor_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0043",
+      "name_original": "常部长",
+      "name_translated": "Thường Bộ Trưởng",
+      "gender": "male",
+      "role": "phản diện",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Người đứng đầu cấp cao của chính phủ, chủ mưu đứng sau kế hoạch thử thách Tai Vương.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Thường Bộ Trưởng, a man character from 'Linh Hồn Negary'. Role: distinctive character. Character context: Người đứng đầu cấp cao của chính phủ, chủ mưu đứng sau kế hoạch thử thách Tai Vương.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Thường Bộ Trưởng (man) from 'Linh Hồn Negary'. Role: distinctive character. Description: Người đứng đầu cấp cao của chính phủ, chủ mưu đứng sau kế hoạch thử thách Tai Vương.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/th_ng_b_tr_ng_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/th_ng_b_tr_ng_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0071",
+      "name_original": "常夏",
+      "name_translated": "Thường Hạ",
+      "gender": "male",
+      "role": "thứ chính",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Thành viên Cục Đối Sách, người giết Dư Quang Minh.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Thường Hạ, a man character from 'Linh Hồn Negary'. Role: distinctive character. Character context: Thành viên Cục Đối Sách, người giết Dư Quang Minh.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Thường Hạ (man) from 'Linh Hồn Negary'. Role: distinctive character. Description: Thành viên Cục Đối Sách, người giết Dư Quang Minh.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/th_ng_h_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/th_ng_h_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0068",
+      "name_original": "神族奈格里",
+      "name_translated": "Thần tộc Negary",
+      "gender": "male",
+      "role": "thần linh",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Bất Tường Dữ Tật Bệnh Chi Thần từ thế giới Hỏa Diễm.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Thần tộc Negary, a man character from 'Linh Hồn Negary'. Role: divine radiance, ethereal glow, god-like presence. Visual traits: divine radiant aura, surrounded by black crows. Character context: Bất Tường Dữ Tật Bệnh Chi Thần từ thế giới Hỏa Diễm.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Thần tộc Negary (man) from 'Linh Hồn Negary'. Role: divine radiance, ethereal glow, god-like presence. Visual: divine radiant aura, surrounded by black crows. Description: Bất Tường Dữ Tật Bệnh Chi Thần từ thế giới Hỏa Diễm.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/th_n_t_c_negary_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/th_n_t_c_negary_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0044",
+      "name_original": "肖跋傅",
+      "name_translated": "Tiêu Bạt Phó",
+      "gender": "male",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Nhân viên Khoa Đối ứng, người tham gia bắt giữ Negary.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Tiêu Bạt Phó, a man character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Character context: Nhân viên Khoa Đối ứng, người tham gia bắt giữ Negary.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Tiêu Bạt Phó (man) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Description: Nhân viên Khoa Đối ứng, người tham gia bắt giữ Negary.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/ti_u_b_t_ph_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/ti_u_b_t_ph_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0039",
+      "name_original": "小琳",
+      "name_translated": "Tiểu Lâm",
+      "gender": "female",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Con gái đã khuất của Vạn Hằng Dương.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Tiểu Lâm, a woman character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Character context: Con gái đã khuất của Vạn Hằng Dương.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Tiểu Lâm (woman) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Description: Con gái đã khuất của Vạn Hằng Dương.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/ti_u_l_m_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/ti_u_l_m_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0066",
+      "name_original": "小马",
+      "name_translated": "Tiểu Mã",
+      "gender": "male",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Kẻ phản bội từ căn cứ của Trần Địch Hy.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Tiểu Mã, a man character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Character context: Kẻ phản bội từ căn cứ của Trần Địch Hy.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Tiểu Mã (man) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Description: Kẻ phản bội từ căn cứ của Trần Địch Hy.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/ti_u_m_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/ti_u_m_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0037",
+      "name_original": "赵世昌",
+      "name_translated": "Triệu Thế Xương",
+      "gender": "male",
+      "role": "phản diện",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Bác sĩ nắm giữ Quyền Bính Sự Cố Y Tế, kẻ gây ra cái chết cho con gái Vạn Hằng Dương.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Triệu Thế Xương, a man character from 'Linh Hồn Negary'. Role: distinctive character. Character context: Bác sĩ nắm giữ Quyền Bính Sự Cố Y Tế, kẻ gây ra cái chết cho con gái Vạn Hằng Dương.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Triệu Thế Xương (man) from 'Linh Hồn Negary'. Role: distinctive character. Description: Bác sĩ nắm giữ Quyền Bính Sự Cố Y Tế, kẻ gây ra cái chết cho con gái Vạn Hằng Dương.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/tri_u_th_x_ng_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/tri_u_th_x_ng_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0045",
+      "name_original": "张子杰",
+      "name_translated": "Trương Tử Kiệt",
+      "gender": "male",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Nhân viên Khoa Đối ứng, đồng nghiệp của Tiêu Bạt Phó.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Trương Tử Kiệt, a man character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Character context: Nhân viên Khoa Đối ứng, đồng nghiệp của Tiêu Bạt Phó.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Trương Tử Kiệt (man) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Description: Nhân viên Khoa Đối ứng, đồng nghiệp của Tiêu Bạt Phó.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/tr_ng_t_ki_t_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/tr_ng_t_ki_t_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0050",
+      "name_original": "张伟",
+      "name_translated": "Trương Vĩ",
+      "gender": "male",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Bạn thuở nhỏ của Phương Trạch, sở hữu quyền bính Ác Hóa giúp ngăn chặn thương thế chuyển biến xấu.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Trương Vĩ, a man character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Character context: Bạn thuở nhỏ của Phương Trạch, sở hữu quyền bính Ác Hóa giúp ngăn chặn thương thế chuyển biến xấu.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Trương Vĩ (man) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Description: Bạn thuở nhỏ của Phương Trạch, sở hữu quyền bính Ác Hóa giúp ngăn chặn thương thế chuyển biến xấu.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/tr_ng_v_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/tr_ng_v_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0049",
+      "name_original": "张雨露",
+      "name_translated": "Trương Vũ Lộ",
+      "gender": "female",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Bạn của Hà Xảo, con gái của người phụ nữ có ngoại hình giống mẹ Phương Trạch.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Trương Vũ Lộ, a woman character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Character context: Bạn của Hà Xảo, con gái của người phụ nữ có ngoại hình giống mẹ Phương Trạch.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Trương Vũ Lộ (woman) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Description: Bạn của Hà Xảo, con gái của người phụ nữ có ngoại hình giống mẹ Phương Trạch.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/tr_ng_v_l_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/tr_ng_v_l_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0012",
+      "name_original": "村长",
+      "name_translated": "Trưởng làng",
+      "gender": "male",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Trưởng làng người Cosi, bị Vương Uyên ám hại bằng chuột biến dị để lập uy.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Trưởng làng, a man character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Character context: Trưởng làng người Cosi, bị Vương Uyên ám hại bằng chuột biến dị để lập uy.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Trưởng làng (man) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Description: Trưởng làng người Cosi, bị Vương Uyên ám hại bằng chuột biến dị để lập uy.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/tr_ng_l_ng_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/tr_ng_l_ng_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0061",
+      "name_original": "陈迪希",
+      "name_translated": "Trần Địch Hy",
+      "gender": "male",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Một người sống sót có khả năng thích ứng cao, được Negary ban cho kỹ thuật Sinh Vật Thực Trang.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Trần Địch Hy, a man character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Character context: Một người sống sót có khả năng thích ứng cao, được Negary ban cho kỹ thuật Sinh Vật Thực Trang.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Trần Địch Hy (man) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Description: Một người sống sót có khả năng thích ứng cao, được Negary ban cho kỹ thuật Sinh Vật Thực Trang.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/tr_n_ch_hy_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/tr_n_ch_hy_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0064",
+      "name_original": "雪心云",
+      "name_translated": "Tuyết Tâm Vân",
+      "gender": "female",
+      "role": "thứ chính",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Tai Vương Thái Dương Phong Bạo đời thứ hai.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Tuyết Tâm Vân, a woman character from 'Linh Hồn Negary'. Role: distinctive character. Character context: Tai Vương Thái Dương Phong Bạo đời thứ hai.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Tuyết Tâm Vân (woman) from 'Linh Hồn Negary'. Role: distinctive character. Description: Tai Vương Thái Dương Phong Bạo đời thứ hai.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/tuy_t_t_m_v_n_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/tuy_t_t_m_v_n_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0033",
+      "name_original": "左宇肖",
+      "name_translated": "Tả Vũ Tiếu",
+      "gender": "male",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Người bị nhiễm mầm bệnh, bị Khoa Đối ứng truy nã.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Tả Vũ Tiếu, a man character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Visual traits: surrounded by swarming black particles. Character context: Người bị nhiễm mầm bệnh, bị Khoa Đối ứng truy nã.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Tả Vũ Tiếu (man) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Visual: surrounded by swarming black particles. Description: Người bị nhiễm mầm bệnh, bị Khoa Đối ứng truy nã.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/t_v_ti_u_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/t_v_ti_u_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0052",
+      "name_original": "秦颍",
+      "name_translated": "Tần Dĩnh",
+      "gender": "female",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Nhân viên Khoa Đối ứng, đồng đội cũ của Diệp Không.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Tần Dĩnh, a woman character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Character context: Nhân viên Khoa Đối ứng, đồng đội cũ của Diệp Không.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Tần Dĩnh (woman) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Description: Nhân viên Khoa Đối ứng, đồng đội cũ của Diệp Không.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/t_n_d_nh_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/t_n_d_nh_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0073",
+      "name_original": "凡尔西斯",
+      "name_translated": "Versis",
+      "gender": "male",
+      "role": "thần linh",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Con cự long thuần huyết cuối cùng ở thế giới Hỏa Diễm.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Versis, a man character from 'Linh Hồn Negary'. Role: divine radiance, ethereal glow, god-like presence. Character context: Con cự long thuần huyết cuối cùng ở thế giới Hỏa Diễm.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Versis (man) from 'Linh Hồn Negary'. Role: divine radiance, ethereal glow, god-like presence. Description: Con cự long thuần huyết cuối cùng ở thế giới Hỏa Diễm.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/versis_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/versis_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0035",
+      "name_original": "王昭",
+      "name_translated": "Vương Chiêu",
+      "gender": "male",
+      "role": "phản diện",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Kẻ sở hữu Quyền Bính Tội Ác Chi Tai, đang bị Khoa Đối ứng truy nã.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Vương Chiêu, a man character from 'Linh Hồn Negary'. Role: distinctive character. Character context: Kẻ sở hữu Quyền Bính Tội Ác Chi Tai, đang bị Khoa Đối ứng truy nã.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Vương Chiêu (man) from 'Linh Hồn Negary'. Role: distinctive character. Description: Kẻ sở hữu Quyền Bính Tội Ác Chi Tai, đang bị Khoa Đối ứng truy nã.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/v_ng_chi_u_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/v_ng_chi_u_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0036",
+      "name_original": "万恒阳",
+      "name_translated": "Vạn Hằng Dương",
+      "gender": "male",
+      "role": "phụ",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Người cha đau khổ tìm công lý cho con gái trong 19 năm, bắt đầu thức tỉnh Tai Ách chi lực.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Vạn Hằng Dương, a man character from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Character context: Người cha đau khổ tìm công lý cho con gái trong 19 năm, bắt đầu thức tỉnh Tai Ách chi lực.. Composition: bust portrait, 3/4 angle, expressive face. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Vạn Hằng Dương (man) from 'Linh Hồn Negary'. Role: supporting character, distinct silhouette. Description: Người cha đau khổ tìm công lý cho con gái trong 19 năm, bắt đầu thức tỉnh Tai Ách chi lực.. Setting: Thế giới kỳ huyễn phương Tây, nơi các mầm bệnh và linh hồn là nguồn gốc của sức mạnh và sự kinh hoàng.. First appears in {'chapter': 0, 'context': ''}. Art style: dark gothic fantasy art style, oil painting aesthetic, moody lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/v_n_h_ng_d_ng_portrait.png",
+        "scene_slot": "Output/Linh Hon Negary_Hu Minh/illustrations/characters/v_n_h_ng_d_ng_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    }
+  ]
+}

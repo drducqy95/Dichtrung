@@ -1,130 +1,354 @@
 {
+  "metadata": {
+    "version": "2.0",
+    "schema": "gold",
+    "branch": "Sieu Duy Thuat Si_Muc Ho",
+    "last_updated": "2026-05-30T04:48:09+07:00",
+    "total_characters": 9,
+    "previous_schema": "legacy"
+  },
   "characters": [
     {
       "id": "char_0001",
-      "names": {
-        "original": "安格尔",
-        "latin": "Angel",
-        "pinyin": "Anger",
-        "hanviet": "An Cách Nhĩ"
-      },
+      "name_source": "安格尔",
+      "name_target": "An Cách Nhĩ",
+      "name_aliases": [],
       "gender": "male",
-      "role": "protagonist",
-      "description": "Nhị thiếu gia nhà Patte, đệ tử của Jon.",
-      "status": "active"
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "protagonist",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Nhị thiếu gia nhà Patte, đệ tử của Jon.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Nhị thiếu gia nhà Patte, đệ tử của Jon."
     },
     {
       "id": "char_0002",
-      "names": {
-        "original": "里昂",
-        "latin": "Leon",
-        "pinyin": "Liang",
-        "hanviet": "Lý Ngang"
-      },
+      "name_source": "里昂",
+      "name_target": "Lý Ngang",
+      "name_aliases": [],
       "gender": "male",
-      "role": "supporting",
-      "description": "Đại thiếu gia nhà Patte, anh trai của Angel.",
-      "status": "active"
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "supporting",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Đại thiếu gia nhà Patte, anh trai của Angel.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Đại thiếu gia nhà Patte, anh trai của Angel."
     },
     {
       "id": "char_0003",
-      "names": {
-        "original": "乔恩",
-        "latin": "Jon",
-        "pinyin": "Qiao En",
-        "hanviet": "Kiều Ân"
-      },
+      "name_source": "乔恩",
+      "name_target": "Kiều Ân",
+      "name_aliases": [],
       "gender": "male",
-      "role": "mentor",
-      "description": "Thầy của Angel, người xuyên không đến từ Trái Đất.",
-      "status": "active"
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "mentor",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Thầy của Angel, người xuyên không đến từ Trái Đất.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Thầy của Angel, người xuyên không đến từ Trái Đất."
     },
     {
       "id": "char_0004",
-      "names": {
-        "original": "伊顿.蒙恩",
-        "latin": "Eaton Morn",
-        "pinyin": "Yidun Meng'en",
-        "hanviet": "Y Đốn Mông Ân"
-      },
+      "name_source": "伊顿.蒙恩",
+      "name_target": "Y Đốn Mông Ân",
+      "name_aliases": [],
       "gender": "male",
-      "role": "supporting",
-      "description": "Bá tước gia tộc Morn, chỉ huy Tiểu đoàn tiên phong tiền tuyến.",
-      "status": "active"
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "supporting",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Bá tước gia tộc Morn, chỉ huy Tiểu đoàn tiên phong tiền tuyến.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Bá tước gia tộc Morn, chỉ huy Tiểu đoàn tiên phong tiền tuyến."
     },
     {
       "id": "char_0005",
-      "names": {
-        "original": "艾伦",
-        "latin": "Allen",
-        "hanviet": "Ngải Luân"
-      },
+      "name_source": "艾伦",
+      "name_target": "Ngải Luân",
+      "name_aliases": [],
       "gender": "male",
-      "role": "supporting",
-      "description": "Cháu nội của Bạch Ma pháp sư gia tộc Morn, có thiên phú ma pháp.",
-      "status": "active"
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "supporting",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Cháu nội của Bạch Ma pháp sư gia tộc Morn, có thiên phú ma pháp.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Cháu nội của Bạch Ma pháp sư gia tộc Morn, có thiên phú ma pháp."
     },
     {
       "id": "char_0006",
-      "names": {
-        "original": "艾琳",
-        "latin": "Aileen",
-        "hanviet": "Ngải Lâm"
-      },
+      "name_source": "艾琳",
+      "name_target": "Ngải Lâm",
+      "name_aliases": [],
       "gender": "female",
-      "role": "supporting",
-      "description": "Cháu nội của Bạch Ma pháp sư gia tộc Morn, có thiên phú ma pháp.",
-      "status": "active"
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "supporting",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Cháu nội của Bạch Ma pháp sư gia tộc Morn, có thiên phú ma pháp.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Cháu nội của Bạch Ma pháp sư gia tộc Morn, có thiên phú ma pháp."
     },
     {
       "id": "char_0007",
-      "names": {
-        "original": "白胡子老头 (蒙恩家)",
-        "latin": "White Wizard (Morn)",
-        "hanviet": "Bạch Ma Pháp Sư (Morn)"
-      },
+      "name_source": "白胡子老头 (蒙恩家)",
+      "name_target": "Bạch Ma Pháp Sư (Morn)",
+      "name_aliases": [],
       "gender": "male",
-      "role": "supporting",
-      "description": "Cha của Eaton Morn, một Bạch Ma pháp sư đến từ Lục địa Old Earth.",
-      "status": "active"
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "supporting",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Cha của Eaton Morn, một Bạch Ma pháp sư đến từ Lục địa Old Earth.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Cha của Eaton Morn, một Bạch Ma pháp sư đến từ Lục địa Old Earth."
     },
     {
       "id": "char_0008",
-      "names": {
-        "original": "马尔",
-        "latin": "Mar",
-        "hanviet": "Mã Nhĩ"
-      },
+      "name_source": "马尔",
+      "name_target": "Mã Nhĩ",
+      "name_aliases": [],
       "gender": "male",
-      "role": "supporting",
-      "description": "Kỵ sĩ trưởng của Bá tước Eaton Morn.",
-      "status": "active"
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "supporting",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Kỵ sĩ trưởng của Bá tước Eaton Morn.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Kỵ sĩ trưởng của Bá tước Eaton Morn."
     },
     {
       "id": "char_0009",
-      "names": {
-        "original": "摩罗.蒙恩",
-        "latin": "Moro Morn",
-        "hanviet": "Ma La Mông Ân"
-      },
+      "name_source": "摩罗.蒙恩",
+      "name_target": "Ma La Mông Ân",
+      "name_aliases": [],
       "gender": "male",
-      "role": "antagonist",
-      "description": "Cha của Eaton Morn, một Ma pháp sư đang tìm kiếm bí mật của Morning Dew after Rain.",
-      "status": "active"
-    }
-  ],
-  "relationships": [
-    {
-      "source": "char_0001",
-      "target": "char_0002",
-      "type": "brother",
-      "intimacy": 80
-    },
-    {
-      "source": "char_0001",
-      "target": "char_0003",
-      "type": "disciple",
-      "intimacy": 90
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "antagonist",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Cha của Eaton Morn, một Ma pháp sư đang tìm kiếm bí mật của Morning Dew after Rain.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Cha của Eaton Morn, một Ma pháp sư đang tìm kiếm bí mật của Morning Dew after Rain."
     }
   ]
 }

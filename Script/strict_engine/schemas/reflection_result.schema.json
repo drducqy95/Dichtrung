@@ -1,0 +1,42 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Reflection Result",
+  "description": "Structured output when the AI is asked to reflect on or review a translation.",
+  "type": "object",
+  "properties": {
+    "issues_found": {
+      "type": "array",
+      "description": "List of issues found in the translation (grammar, tone, lore consistency, etc).",
+      "items": {
+        "type": "object",
+        "properties": {
+          "issue_type": {
+            "type": "string",
+            "enum": ["grammar", "tone", "lore", "terminology", "omission", "other"]
+          },
+          "description": { "type": "string" },
+          "severity": {
+            "type": "string",
+            "enum": ["low", "medium", "high", "critical"]
+          },
+          "suggested_fix": { "type": "string" }
+        },
+        "required": ["issue_type", "description", "severity", "suggested_fix"]
+      }
+    },
+    "reflection_summary": {
+      "type": "string",
+      "description": "A summary of the AI's thoughts on the translation quality."
+    },
+    "needs_retranslation": {
+      "type": "boolean",
+      "description": "Set to true if the translation is so poor it needs to be completely redone."
+    }
+  },
+  "required": [
+    "issues_found",
+    "reflection_summary",
+    "needs_retranslation"
+  ],
+  "additionalProperties": false
+}

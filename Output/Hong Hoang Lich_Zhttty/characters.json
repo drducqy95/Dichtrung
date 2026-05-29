@@ -1,311 +1,1232 @@
 {
-    "characters": [
-        {
-            "id": "char_001",
-            "name_source": "吴明",
-            "name_target": "Ngô Minh",
-            "gender": "male",
-            "role": "protagonist",
-            "description": "Nhân vật chính của truyện, xuyên không từ Trái Đất tới thời đại Hồng Hoang. Sở hữu Chủ Thần Không Gian đời đầu.",
-            "traits": [
-                "Tu chân giả",
-                "Mưu lược gia",
-                "Thiên Mệnh Chi Tử"
-            ],
-            "status": "active"
-        },
-        {
-            "id": "char_002",
-            "name_source": "洛丝",
-            "name_target": "Ruth",
-            "gender": "female",
-            "role": "major",
-            "description": "Một Ác ma Thâm Uyên được Ngô Minh cứu và ký khế ước. Sau tiến hóa thành Luyện Ngục Nữ Yêu.",
-            "status": "active"
-        },
-        {
-            "id": "char_003",
-            "name_source": "埃尔法",
-            "name_target": "Elfa",
-            "gender": "male",
-            "role": "supporting",
-            "description": "Học đồ pháp sư Bán Tinh Linh, thành viên đầu tiên được Ngô Minh triệu hoán.",
-            "status": "active"
-        },
-        {
-            "id": "char_004",
-            "name_source": "徐文",
-            "name_target": "Từ Văn",
-            "gender": "male",
-            "role": "supporting",
-            "description": "Thư sinh thời Đông Tấn, thành viên được Ngô Minh triệu hoán. Hy sinh tại thử luyện Bệnh viện Tuyệt cảnh.",
-            "status": "deceased"
-        },
-        {
-            "id": "char_005",
-            "name_source": "艾伊",
-            "name_target": "Ai Yi",
-            "gender": "female",
-            "role": "major",
-            "description": "Nữ pháp sư tộc Tinh Linh, có kiến thức uyên thâm về phù văn và ma pháp. Thành viên quan trọng của đội Ngô Minh.",
-            "status": "active"
-        },
-        {
-            "id": "char_006",
-            "name_source": "李铭",
-            "name_target": "Lý Minh",
-            "gender": "male",
-            "role": "key_figure",
-            "description": "Ghi chép viên của 'Lịch Sử Chân Thực'. Tình nguyện quay về thời Hồng Hoang để cứu rỗi nhân loại. Có liên kết với Tru Tiên Tứ Kiếm.",
-            "status": "active"
-        },
-        {
-            "id": "char_007",
-            "name_source": "艾比斯",
-            "name_target": "Ebis",
-            "gender": "male",
-            "identity": "Gnome (Địa tinh)",
-            "role": "Học đồ của Lorikk Mắt Vàng, đồng nghiệp của Ngô Minh tại tiệm dược phẩm. Tính tình thực dụng.",
-            "status": "active"
-        },
-        {
-            "id": "char_008",
-            "name_source": "伊比斯",
-            "name_target": "Ibis",
-            "gender": "male",
-            "identity": "Gnome (Địa tinh)",
-            "role": "Gã lùn lắm lời, họ hàng của Ebis, chủ một cửa hàng dược phẩm. Cung cấp nhiều tin đồn cho Ngô Minh.",
-            "status": "active"
-        },
-        {
-            "id": "char_009",
-            "name_source": "洛里克·金眼",
-            "name_target": "Lorikk Mắt Vàng",
-            "gender": "female",
-            "role": "supporting",
-            "identity": "Pháp sư 5 vòng (5th Ring Mage)",
-            "description": "Chủ nhân của Tòa tháp Pháp sư tại thành Kim Hà, đạo sư của Ngô Minh. Tính cách ít nói, bí ẩn.",
-            "status": "active"
-        },
-        {
-            "id": "char_021",
-            "name_source": "洛美克",
-            "name_target": "Lomek",
-            "gender": "female",
-            "role": "minor",
-            "identity": "Tháp linh (Tower Spirit)",
-            "description": "Tháp linh của tòa tháp ma pháp của Lorikk, hỗ trợ Ngô Minh khi truyền đạt tin tức.",
-            "status": "active"
-        },
-        {
-            "id": "char_010",
-            "name_source": "阿莫尔",
-            "name_target": "Amor",
-            "gender": "male",
-            "role": "major",
-            "description": "Trí giả đỉnh cao, thân phận bí ẩn, hỗ trợ Ngô Minh trong các kế hoạch lớn.",
-            "status": "active"
-        },
-        {
-            "id": "char_011",
-            "name_source": "池查",
-            "name_target": "Trì Tra",
-            "gender": "male",
-            "role": "ancient_hero",
-            "description": "Sát lục chi tử, một trong 13 người sống sót cuối cùng của nhân loại thời cổ đại. Sức mạnh thể chất kinh hồn.",
-            "status": "active"
-        },
-        {
-            "id": "char_012",
-            "name_source": "舍干",
-            "name_target": "Xa Can",
-            "gender": "male",
-            "role": "ancient_hero",
-            "description": "Trí giả thời cổ đại, người nhìn thấu âm mưu ngàn đời nhắm vào nhân loại.",
-            "status": "active"
-        },
-        {
-            "id": "char_013",
-            "name_source": "骨",
-            "name_target": "Cốt",
-            "gender": "male",
-            "role": "ancient_hero",
-            "description": "Người của 'Khứ Tử Khứ Tử Đoàn', cơ thể được cải tạo bởi công nghệ Địa Linh tộc.",
-            "status": "active"
-        },
-        {
-            "id": "char_014",
-            "name_source": "薛玉",
-            "name_target": "Tiết Ngọc",
-            "gender": "female",
-            "role": "reincarnator",
-            "description": "Học trò cũ của Ngô Minh ở Trái Đất, thành viên tiểu đội Luân hồi.",
-            "status": "active"
-        },
-        {
-            "id": "char_015",
-            "name_source": "马大哈",
-            "name_target": "Mã Đại Cáp",
-            "gender": "male",
-            "role": "reincarnator",
-            "description": "Thành viên tiểu đội Luân hồi, tính cách hào sảng, võ lực khá.",
-            "status": "active"
-        },
-        {
-            "id": "char_016",
-            "name_source": "郑吒",
-            "name_target": "Trịnh Xá",
-            "gender": "male",
-            "role": "legend",
-            "description": "Bậc thầy Khóa Gen, nhân vật huyền thoại từ Vô Hạn Khủng Bố.",
-            "status": "active"
-        },
-        {
-            "id": "char_017",
-            "name_source": "楚轩",
-            "name_target": "Sở Hiên",
-            "gender": "male",
-            "role": "legend",
-            "description": "Trí giả tối cao, nhân vật huyền thoại từ Vô Hạn Khủng Bố.",
-            "status": "active"
-        },
-        {
-            "id": "char_018",
-            "name_source": "达芬铎",
-            "name_target": "Davindo",
-            "gender": "male",
-            "role": "supporting",
-            "identity": "Huyết tộc Địa tinh cao cấp",
-            "description": "Quản gia của Ngô Minh, do Tử Nha phái tới. Tinh thông quản trị, kế toán và công trình học.",
-            "status": "active"
-        },
-        {
-            "id": "char_019",
-            "name_source": "阿芙蕾",
-            "name_target": "Afrey",
-            "gender": "female",
-            "role": "supporting",
-            "identity": "Huyết tộc Thụ Tinh cao cấp",
-            "description": "Hầu nữ của Ngô Minh, tinh thông chăm sóc thực vật và linh thảo.",
-            "status": "active"
-        },
-        {
-            "id": "char_020",
-            "name_source": "小莉",
-            "name_target": "Tiểu Lợi",
-            "gender": "female",
-            "role": "supporting",
-            "identity": "Huyết tộc Miêu Nhân",
-            "description": "Hầu nữ của Ngô Minh, tính tình hoạt bát, hay lầm bầm.",
-            "status": "active"
-        },
-        {
-            "id": "char_022",
-            "name_source": "奥兰里",
-            "name_target": "Orlanly",
-            "gender": "male",
-            "role": "supporting",
-            "identity": "Pháp sư Á Long nhân bậc 3 (3rd Ring Dragonoid Mage)",
-            "description": "Pháp sư dưới trướng Ngô Minh, tinh thông kỹ xảo siêu ma. Có mối liên hệ phức tạp với các Tử Vong Kỵ Sĩ.",
-            "status": "active"
-        },
-        {
-            "id": "char_023",
-            "name_source": "战争",
-            "name_target": "War",
-            "gender": "male",
-            "role": "supporting",
-            "identity": "Thủ lĩnh Tử Vong Kỵ Sĩ (Thiên Khải)",
-            "description": "Nhân loại bất tử, một trong Thiên Khải Tứ Kỵ Sĩ. Cầm trọng kiếm hai tay.",
-            "status": "active"
-        },
-        {
-            "id": "char_024",
-            "name_source": "死亡",
-            "name_target": "Death",
-            "gender": "male",
-            "role": "supporting",
-            "identity": "Thủ lĩnh Tử Vong Kỵ Sĩ (Thiên Khải)",
-            "description": "Thanh niên tóc bạc anh tuấn, một trong Thiên Khải Tứ Kỵ Sĩ. Cầm trường thương.",
-            "status": "active"
-        },
-        {
-            "id": "char_025",
-            "name_source": "饥荒",
-            "name_target": "Famine",
-            "gender": "male",
-            "role": "supporting",
-            "identity": "Thủ lĩnh Tử Vong Kỵ Sĩ (Thiên Khải)",
-            "description": "Dã thú nhân bất tử, một trong Thiên Khải Tứ Kỵ Sĩ. Cầm đại đao khổng lồ.",
-            "status": "active"
-        },
-        {
-            "id": "char_026",
-            "name_source": "瘟疫",
-            "name_target": "Plague",
-            "gender": "female",
-            "role": "supporting",
-            "identity": "Thủ lĩnh Tử Vong Kỵ Sĩ (Thiên Khải)",
-            "description": "Nữ bất tử, một trong Thiên Khải Tứ Kỵ Sĩ. Cầm lưỡi liềm.",
-            "status": "active"
-        },
-        {
-            "id": "char_027",
-            "name_source": "王羽",
-            "name_target": "Vương Vũ",
-            "gender": "male",
-            "role": "supporting",
-            "description": "Thành viên tiểu đội Luân hồi, là người sống sót sau thảm họa thế giới ảo.",
-            "status": "active"
-        },
-        {
-            "id": "char_028",
-            "name_source": "爱德华·诺尔",
-            "name_target": "Edward Noel",
-            "gender": "male",
-            "role": "historical",
-            "description": "Nhà khoa học lượng tử lỗi lạc của thế giới 'Thất Lạc', người để lại di ngôn cầu cứu.",
-            "status": "deceased"
-        },
-        {
-            "id": "char_029",
-            "name_source": "路西法",
-            "name_target": "Lucifer",
-            "gender": "female",
-            "role": "supporting",
-            "identity": "Quang Kỵ Sĩ (Light Knight)",
-            "description": "Cường giả bậc bốn (Cơ giới sư) của Cao Đẳng Địa Tinh. Bị Ngô Minh đánh bại và ký linh hồn khế ước, hiện làm nữ hầu.",
-            "status": "active"
-        },
-        {
-            "id": "char_030",
-            "name_source": "阿罗斯特",
-            "name_target": "Alost",
-            "gender": "male",
-            "role": "antagonist",
-            "identity": "Cường giả bậc bốn (Đấu sĩ)",
-            "description": "Cường giả bậc bốn của Cao Đẳng Địa Tinh, sở hữu huyết mạch Trùng thú viễn cổ. Bị Ngô Minh giết chết.",
-            "status": "deceased"
-        },
-        {
-            "id": "char_031",
-            "name_source": "子牙",
-            "name_target": "Tử Nha",
-            "gender": "male",
-            "role": "major",
-            "description": "Trí giả đỉnh cấp của Huyết tộc, ban đầu là đối thủ, sau trở thành quân sư tối cao của Ngô Minh. Thiên tài về chiến lược và chính trị.",
-            "status": "active"
-        },
-        {
-            "id": "char_032",
-            "name_source": "莱因哈特",
-            "name_target": "Reinhardt",
-            "gender": "male",
-            "role": "antagonist",
-            "identity": "Thành viên Ác Ma tiểu đội",
-            "description": "Người sói mạnh mẽ của Ác Ma tiểu đội, bị Ngô Minh giết chết trong Thế giới Luân hồi.",
-            "status": "deceased"
-        }
-    ],
-    "relationships": []
+  "metadata": {
+    "version": "2.0",
+    "schema": "gold",
+    "branch": "Hong Hoang Lich_Zhttty",
+    "last_updated": "2026-05-30T04:48:09+07:00",
+    "total_characters": 32,
+    "previous_schema": "legacy"
+  },
+  "characters": [
+    {
+      "id": "char_001",
+      "name_source": "吴明",
+      "name_target": "Ngô Minh",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "protagonist",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Nhân vật chính của truyện, xuyên không từ Trái Đất tới thời đại Hồng Hoang. Sở hữu Chủ Thần Không Gian đời đầu.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [
+          "Tu chân giả",
+          "Mưu lược gia",
+          "Thiên Mệnh Chi Tử"
+        ],
+        "speech": ""
+      },
+      "notes": "Nhân vật chính của truyện, xuyên không từ Trái Đất tới thời đại Hồng Hoang. Sở hữu Chủ Thần Không Gian đời đầu."
+    },
+    {
+      "id": "char_002",
+      "name_source": "洛丝",
+      "name_target": "Ruth",
+      "name_aliases": [],
+      "gender": "female",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "major",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Một Ác ma Thâm Uyên được Ngô Minh cứu và ký khế ước. Sau tiến hóa thành Luyện Ngục Nữ Yêu.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Một Ác ma Thâm Uyên được Ngô Minh cứu và ký khế ước. Sau tiến hóa thành Luyện Ngục Nữ Yêu."
+    },
+    {
+      "id": "char_003",
+      "name_source": "埃尔法",
+      "name_target": "Elfa",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "supporting",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Học đồ pháp sư Bán Tinh Linh, thành viên đầu tiên được Ngô Minh triệu hoán.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Học đồ pháp sư Bán Tinh Linh, thành viên đầu tiên được Ngô Minh triệu hoán."
+    },
+    {
+      "id": "char_004",
+      "name_source": "徐文",
+      "name_target": "Từ Văn",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "supporting",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "deceased",
+      "appearance": {
+        "physical": "Thư sinh thời Đông Tấn, thành viên được Ngô Minh triệu hoán. Hy sinh tại thử luyện Bệnh viện Tuyệt cảnh.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Thư sinh thời Đông Tấn, thành viên được Ngô Minh triệu hoán. Hy sinh tại thử luyện Bệnh viện Tuyệt cảnh."
+    },
+    {
+      "id": "char_005",
+      "name_source": "艾伊",
+      "name_target": "Ai Yi",
+      "name_aliases": [],
+      "gender": "female",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "major",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Nữ pháp sư tộc Tinh Linh, có kiến thức uyên thâm về phù văn và ma pháp. Thành viên quan trọng của đội Ngô Minh.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Nữ pháp sư tộc Tinh Linh, có kiến thức uyên thâm về phù văn và ma pháp. Thành viên quan trọng của đội Ngô Minh."
+    },
+    {
+      "id": "char_006",
+      "name_source": "李铭",
+      "name_target": "Lý Minh",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "key_figure",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Ghi chép viên của 'Lịch Sử Chân Thực'. Tình nguyện quay về thời Hồng Hoang để cứu rỗi nhân loại. Có liên kết với Tru Tiên Tứ Kiếm.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Ghi chép viên của 'Lịch Sử Chân Thực'. Tình nguyện quay về thời Hồng Hoang để cứu rỗi nhân loại. Có liên kết với Tru Tiên Tứ Kiếm."
+    },
+    {
+      "id": "char_007",
+      "name_source": "艾比斯",
+      "name_target": "Ebis",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "học đồ của lorikk mắt vàng, đồng nghiệp của ngô minh tại tiệm dược phẩm. tính tình thực dụng.",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Gnome (Địa tinh)",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Gnome (Địa tinh)"
+    },
+    {
+      "id": "char_008",
+      "name_source": "伊比斯",
+      "name_target": "Ibis",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "gã lùn lắm lời, họ hàng của ebis, chủ một cửa hàng dược phẩm. cung cấp nhiều tin đồn cho ngô minh.",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Gnome (Địa tinh)",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Gnome (Địa tinh)"
+    },
+    {
+      "id": "char_009",
+      "name_source": "洛里克·金眼",
+      "name_target": "Lorikk Mắt Vàng",
+      "name_aliases": [],
+      "gender": "female",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "supporting",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Chủ nhân của Tòa tháp Pháp sư tại thành Kim Hà, đạo sư của Ngô Minh. Tính cách ít nói, bí ẩn.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Chủ nhân của Tòa tháp Pháp sư tại thành Kim Hà, đạo sư của Ngô Minh. Tính cách ít nói, bí ẩn."
+    },
+    {
+      "id": "char_021",
+      "name_source": "洛美克",
+      "name_target": "Lomek",
+      "name_aliases": [],
+      "gender": "female",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "minor",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Tháp linh của tòa tháp ma pháp của Lorikk, hỗ trợ Ngô Minh khi truyền đạt tin tức.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Tháp linh của tòa tháp ma pháp của Lorikk, hỗ trợ Ngô Minh khi truyền đạt tin tức."
+    },
+    {
+      "id": "char_010",
+      "name_source": "阿莫尔",
+      "name_target": "Amor",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "major",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Trí giả đỉnh cao, thân phận bí ẩn, hỗ trợ Ngô Minh trong các kế hoạch lớn.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Trí giả đỉnh cao, thân phận bí ẩn, hỗ trợ Ngô Minh trong các kế hoạch lớn."
+    },
+    {
+      "id": "char_011",
+      "name_source": "池查",
+      "name_target": "Trì Tra",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "ancient_hero",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Sát lục chi tử, một trong 13 người sống sót cuối cùng của nhân loại thời cổ đại. Sức mạnh thể chất kinh hồn.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Sát lục chi tử, một trong 13 người sống sót cuối cùng của nhân loại thời cổ đại. Sức mạnh thể chất kinh hồn."
+    },
+    {
+      "id": "char_012",
+      "name_source": "舍干",
+      "name_target": "Xa Can",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "ancient_hero",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Trí giả thời cổ đại, người nhìn thấu âm mưu ngàn đời nhắm vào nhân loại.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Trí giả thời cổ đại, người nhìn thấu âm mưu ngàn đời nhắm vào nhân loại."
+    },
+    {
+      "id": "char_013",
+      "name_source": "骨",
+      "name_target": "Cốt",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "ancient_hero",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Người của 'Khứ Tử Khứ Tử Đoàn', cơ thể được cải tạo bởi công nghệ Địa Linh tộc.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Người của 'Khứ Tử Khứ Tử Đoàn', cơ thể được cải tạo bởi công nghệ Địa Linh tộc."
+    },
+    {
+      "id": "char_014",
+      "name_source": "薛玉",
+      "name_target": "Tiết Ngọc",
+      "name_aliases": [],
+      "gender": "female",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "reincarnator",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Học trò cũ của Ngô Minh ở Trái Đất, thành viên tiểu đội Luân hồi.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Học trò cũ của Ngô Minh ở Trái Đất, thành viên tiểu đội Luân hồi."
+    },
+    {
+      "id": "char_015",
+      "name_source": "马大哈",
+      "name_target": "Mã Đại Cáp",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "reincarnator",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Thành viên tiểu đội Luân hồi, tính cách hào sảng, võ lực khá.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Thành viên tiểu đội Luân hồi, tính cách hào sảng, võ lực khá."
+    },
+    {
+      "id": "char_016",
+      "name_source": "郑吒",
+      "name_target": "Trịnh Xá",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "legend",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Bậc thầy Khóa Gen, nhân vật huyền thoại từ Vô Hạn Khủng Bố.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Bậc thầy Khóa Gen, nhân vật huyền thoại từ Vô Hạn Khủng Bố."
+    },
+    {
+      "id": "char_017",
+      "name_source": "楚轩",
+      "name_target": "Sở Hiên",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "legend",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Trí giả tối cao, nhân vật huyền thoại từ Vô Hạn Khủng Bố.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Trí giả tối cao, nhân vật huyền thoại từ Vô Hạn Khủng Bố."
+    },
+    {
+      "id": "char_018",
+      "name_source": "达芬铎",
+      "name_target": "Davindo",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "supporting",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Quản gia của Ngô Minh, do Tử Nha phái tới. Tinh thông quản trị, kế toán và công trình học.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Quản gia của Ngô Minh, do Tử Nha phái tới. Tinh thông quản trị, kế toán và công trình học."
+    },
+    {
+      "id": "char_019",
+      "name_source": "阿芙蕾",
+      "name_target": "Afrey",
+      "name_aliases": [],
+      "gender": "female",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "supporting",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Hầu nữ của Ngô Minh, tinh thông chăm sóc thực vật và linh thảo.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Hầu nữ của Ngô Minh, tinh thông chăm sóc thực vật và linh thảo."
+    },
+    {
+      "id": "char_020",
+      "name_source": "小莉",
+      "name_target": "Tiểu Lợi",
+      "name_aliases": [],
+      "gender": "female",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "supporting",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Hầu nữ của Ngô Minh, tính tình hoạt bát, hay lầm bầm.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Hầu nữ của Ngô Minh, tính tình hoạt bát, hay lầm bầm."
+    },
+    {
+      "id": "char_022",
+      "name_source": "奥兰里",
+      "name_target": "Orlanly",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "supporting",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Pháp sư dưới trướng Ngô Minh, tinh thông kỹ xảo siêu ma. Có mối liên hệ phức tạp với các Tử Vong Kỵ Sĩ.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Pháp sư dưới trướng Ngô Minh, tinh thông kỹ xảo siêu ma. Có mối liên hệ phức tạp với các Tử Vong Kỵ Sĩ."
+    },
+    {
+      "id": "char_023",
+      "name_source": "战争",
+      "name_target": "War",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "supporting",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Nhân loại bất tử, một trong Thiên Khải Tứ Kỵ Sĩ. Cầm trọng kiếm hai tay.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Nhân loại bất tử, một trong Thiên Khải Tứ Kỵ Sĩ. Cầm trọng kiếm hai tay."
+    },
+    {
+      "id": "char_024",
+      "name_source": "死亡",
+      "name_target": "Death",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "supporting",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Thanh niên tóc bạc anh tuấn, một trong Thiên Khải Tứ Kỵ Sĩ. Cầm trường thương.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Thanh niên tóc bạc anh tuấn, một trong Thiên Khải Tứ Kỵ Sĩ. Cầm trường thương."
+    },
+    {
+      "id": "char_025",
+      "name_source": "饥荒",
+      "name_target": "Famine",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "supporting",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Dã thú nhân bất tử, một trong Thiên Khải Tứ Kỵ Sĩ. Cầm đại đao khổng lồ.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Dã thú nhân bất tử, một trong Thiên Khải Tứ Kỵ Sĩ. Cầm đại đao khổng lồ."
+    },
+    {
+      "id": "char_026",
+      "name_source": "瘟疫",
+      "name_target": "Plague",
+      "name_aliases": [],
+      "gender": "female",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "supporting",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Nữ bất tử, một trong Thiên Khải Tứ Kỵ Sĩ. Cầm lưỡi liềm.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Nữ bất tử, một trong Thiên Khải Tứ Kỵ Sĩ. Cầm lưỡi liềm."
+    },
+    {
+      "id": "char_027",
+      "name_source": "王羽",
+      "name_target": "Vương Vũ",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "supporting",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Thành viên tiểu đội Luân hồi, là người sống sót sau thảm họa thế giới ảo.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Thành viên tiểu đội Luân hồi, là người sống sót sau thảm họa thế giới ảo."
+    },
+    {
+      "id": "char_028",
+      "name_source": "爱德华·诺尔",
+      "name_target": "Edward Noel",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "historical",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "deceased",
+      "appearance": {
+        "physical": "Nhà khoa học lượng tử lỗi lạc của thế giới 'Thất Lạc', người để lại di ngôn cầu cứu.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Nhà khoa học lượng tử lỗi lạc của thế giới 'Thất Lạc', người để lại di ngôn cầu cứu."
+    },
+    {
+      "id": "char_029",
+      "name_source": "路西法",
+      "name_target": "Lucifer",
+      "name_aliases": [],
+      "gender": "female",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "supporting",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Cường giả bậc bốn (Cơ giới sư) của Cao Đẳng Địa Tinh. Bị Ngô Minh đánh bại và ký linh hồn khế ước, hiện làm nữ hầu.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Cường giả bậc bốn (Cơ giới sư) của Cao Đẳng Địa Tinh. Bị Ngô Minh đánh bại và ký linh hồn khế ước, hiện làm nữ hầu."
+    },
+    {
+      "id": "char_030",
+      "name_source": "阿罗斯特",
+      "name_target": "Alost",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "antagonist",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "deceased",
+      "appearance": {
+        "physical": "Cường giả bậc bốn của Cao Đẳng Địa Tinh, sở hữu huyết mạch Trùng thú viễn cổ. Bị Ngô Minh giết chết.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Cường giả bậc bốn của Cao Đẳng Địa Tinh, sở hữu huyết mạch Trùng thú viễn cổ. Bị Ngô Minh giết chết."
+    },
+    {
+      "id": "char_031",
+      "name_source": "子牙",
+      "name_target": "Tử Nha",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "major",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Trí giả đỉnh cấp của Huyết tộc, ban đầu là đối thủ, sau trở thành quân sư tối cao của Ngô Minh. Thiên tài về chiến lược và chính trị.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Trí giả đỉnh cấp của Huyết tộc, ban đầu là đối thủ, sau trở thành quân sư tối cao của Ngô Minh. Thiên tài về chiến lược và chính trị."
+    },
+    {
+      "id": "char_032",
+      "name_source": "莱因哈特",
+      "name_target": "Reinhardt",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "antagonist",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "deceased",
+      "appearance": {
+        "physical": "Người sói mạnh mẽ của Ác Ma tiểu đội, bị Ngô Minh giết chết trong Thế giới Luân hồi.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Người sói mạnh mẽ của Ác Ma tiểu đội, bị Ngô Minh giết chết trong Thế giới Luân hồi."
+    }
+  ]
 }

@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.0",
+  "branch": "Linh Hon Negary_Hu Minh",
+  "chapter": 227,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Linh Hon Negary_Hu Minh\\0227 - 第227章 世界的另一面.md",
+  "source_char_count": 2275,
+  "characters": [
+    {
+      "source": "东西",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "上，仔细的观察着这些东西。\n这些景象在平时也",
+        "角度曾经看到过类似的东西。\n“精灵崇拜月树，"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "source": "有资格成为我们的附属组织",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "，现在你和你的组织，有资格成为我们的附属组织。”\n感谢书会咬人的"
+      ]
+    },
+    {
+      "source": "现在你和你的组织",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "隐修会并入无声教会，现在你和你的组织，有资格成为我们的附"
+      ]
+    },
+    {
+      "source": "现在先去将你的隐修会并入无声教会",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "，植入神之血。”\n“现在先去将你的隐修会并入无声教会，现在你和你的组织，"
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "source": "并不是改变了这一个区域",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "。\n“无声教会的人，并不是改变了这一个区域，只是掀开了这个区域"
+      ]
+    },
+    {
+      "source": "所以才会活跃在洛尔镇",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "神，当做了寂静之神，所以才会活跃在洛尔镇。\n所以这些无声教会"
+      ]
+    },
+    {
+      "source": "那神的领域",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "了吧，那伟大的神灵，那神的领域，你能从中挣脱，证明"
+      ]
+    }
+  ],
+  "realms": [],
+  "techniques": [
+    "在这里仿佛都已经",
+    "奈格里已经",
+    "她的脚步",
+    "己的病菌之躯正无法",
+    "格里从某个角度曾经"
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "干涉力",
+      "target": "Lực can thiệp"
+    },
+    {
+      "source": "域",
+      "target": "Vực"
+    },
+    {
+      "source": "区",
+      "target": "Khu"
+    },
+    {
+      "source": "寂静之神",
+      "target": "Thần Tịch Tĩnh"
+    },
+    {
+      "source": "无声者",
+      "target": "Vô Thanh Giả"
+    }
+  ],
+  "generated_at": "2026-05-30T04:22:02.965331+07:00"
+}

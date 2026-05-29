@@ -1,0 +1,220 @@
+{
+  "schema_version": "1.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 1,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan\\0001 - 1.第1章 法宝坟墓.md",
+  "source_char_count": 3741,
+  "characters": [
+    {
+      "source": "符文",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "指轻触风镜侧面的一道符文，“唰”，风镜表面泛",
+        "密密麻麻镌刻着上万道符文，灵光闪动，五彩斑斓"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "source": "野狼帮",
+      "entity_type": "organization",
+      "count": 2,
+      "confidence": 0.78,
+      "evidence": [
+        "\n“喂，看看那边，‘野狼帮’的人快到了，他们可"
+      ]
+    },
+    {
+      "source": "一座垃圾山峰内部",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "“轰！”\n\n不远处，一座垃圾山峰内部，废弃法宝的符阵破裂"
+      ]
+    },
+    {
+      "source": "是修炼宗门",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "他左腕上的灵子手表，是修炼宗门“飞灵宗”三年前推出"
+      ]
+    },
+    {
+      "source": "赤霄派是联邦南方知名的大宗派",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "二高中”的学生。\n\n赤霄派是联邦南方知名的大宗派，实力强横，高手众多"
+      ]
+    },
+    {
+      "source": "青龙门",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "，我刚刚找到了一台‘青龙门’炼制的‘骁龙17型"
+      ]
+    },
+    {
+      "source": "飞灵宗",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "子手表，是修炼宗门“飞灵宗”三年前推出的狩猎专"
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "source": "一行人很快进入了烟尘区",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "，指挥手下穷追不舍，一行人很快进入了烟尘区。\n\n这里刚刚发生过"
+      ]
+    },
+    {
+      "source": "上东区",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "门负责搜集浮戈城中“上东区”的垃圾。\n\n上东区"
+      ]
+    },
+    {
+      "source": "上东区是城里最奢华的富人区",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "上东区”的垃圾。\n\n上东区是城里最奢华的富人区，有不少修真者居住，"
+      ]
+    },
+    {
+      "source": "似乎是生命的禁区",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "整片天空。\n\n这里，似乎是生命的禁区，只有微不足道的蟑螂"
+      ]
+    },
+    {
+      "source": "位于联邦修炼重镇",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "三号特种垃圾处理场，位于联邦修炼重镇“浮戈城”南郊。\n\n"
+      ]
+    },
+    {
+      "source": "冲向四面八方的垃圾山",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "一班垃圾虫四散开来，冲向四面八方的垃圾山。\n\n“呼……”\n\n"
+      ]
+    },
+    {
+      "source": "却凭借着十几年的生存经验努力寻找灵力潮汐之间相对平静的安全区域",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "敢正面对抗惊涛骇浪，却凭借着十几年的生存经验努力寻找灵力潮汐之间相对平静的安全区域，只为了尽量靠近垃圾"
+      ]
+    },
+    {
+      "source": "四周是摇摇欲坠的垃圾山",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "27号垃圾船”！\n\n四周是摇摇欲坠的垃圾山，脚下是“咕噜咕噜”"
+      ]
+    },
+    {
+      "source": "在四周还散布着好几十座垃圾山",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "资最丰富的一座。\n\n在四周还散布着好几十座垃圾山，蕴藏着价值连城的垃"
+      ]
+    },
+    {
+      "source": "并不是最大的一座垃圾山",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "这座垃圾山颇为巧妙，并不是最大的一座垃圾山，看上去也不像是物资"
+      ]
+    },
+    {
+      "source": "浮戈城",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "，位于联邦修炼重镇“浮戈城”南郊。\n\n昏黄的天"
+      ]
+    },
+    {
+      "source": "铁锈湖",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "法宝坟墓\n\n  \n\n铁锈湖。\n\n联邦第二十三号"
+      ]
+    }
+  ],
+  "realms": [],
+  "techniques": [
+    "一船船的废弃法",
+    "专门处理报废法",
+    "为了尽量靠近垃圾法",
+    "也不会单枪匹马在法",
+    "产生了大量的报废法",
+    "他们丢弃的法",
+    "伴随着一阵",
+    "修真者才能驱使的法",
+    "借着十几年的生存经",
+    "十几艘垃圾船已经",
+    "十分笨拙地趴在飞剑",
+    "十年间一直呆在法",
+    "却也不是三拳",
+    "却是一具拳",
+    "吨金属构件和残破法",
+    "四周隐隐绰绰已经",
+    "地都不由得慢下脚步",
+    "废弃法宝的符阵",
+    "有不少法",
+    "李耀是法",
+    "构筑法宝的符阵",
+    "满了支离破碎的飞剑",
+    "的金属构件和残破法",
+    "着价值连城的垃圾法",
+    "耀依旧骑着黑色飞剑",
+    "脸上一个巨大的红印",
+    "艘垃圾船都了若指掌",
+    "这些垃圾法",
+    "这柄飞剑",
+    "通体漆黑的飞剑"
+  ],
+  "matched_locked_terms": [],
+  "generated_at": "2026-05-30T04:51:38.006789+07:00"
+}

@@ -1,157 +1,734 @@
 {
+  "metadata": {
+    "version": "2.0",
+    "schema": "gold",
+    "branch": "Phi Pham Hong Hoang_Nga Tu Phi Pham",
+    "last_updated": "2026-05-30T04:48:09+07:00",
+    "total_characters": 19,
+    "previous_schema": "legacy"
+  },
   "characters": [
     {
-      "term": "罗帆",
-      "name_vi": "La Phàm",
-      "gender": "Nam",
-      "role": "Chính",
-      "cultivation": "Chân Tiên (Đột phá sau một Nguyên Hội tại đỉnh Bất Chu Sơn)",
-      "identity": "Nhân vật chính, người xuyên không mang linh hồn Bàn Cổ",
-      "notes": "Đã thành tựu Tiên Thiên Đạo Thể. Hiện cư ngụ tại Cầu Tác Động trên đỉnh Bất Chu Sơn. Đã luyện hóa Tiên Thiên Bất Diệt Linh Quang và nắm quyền kiểm soát đỉnh núi qua Đạo Hỏa Linh Phù."
+      "id": "C0001",
+      "name_source": "罗帆",
+      "name_target": "La Phàm",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "chính",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": "Chân Tiên (Đột phá sau một Nguyên Hội tại đỉnh Bất Chu Sơn)"
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Nhân vật chính, người xuyên không mang linh hồn Bàn Cổ",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Nhân vật chính, người xuyên không mang linh hồn Bàn Cổ | Đã thành tựu Tiên Thiên Đạo Thể. Hiện cư ngụ tại Cầu Tác Động trên đỉnh Bất Chu Sơn. Đã luyện hóa Tiên Thiên Bất Diệt Linh Quang và nắm quyền kiểm soát đỉnh núi qua Đạo Hỏa Linh Phù."
     },
     {
-      "term": "鸿钧",
-      "name_vi": "Hồng Quân",
-      "gender": "Nam",
-      "role": "Phụ",
-      "cultivation": "Địa Tiên Đạo Quả (Tu luyện Tạo Hóa Ngọc Điệp Quyết)",
-      "identity": "Đệ tử trưởng của La Phàm",
-      "notes": "Đã vượt qua Quý Thủy Thiên Mộc Kiếp. Thành lập Tử Tiêu Động tại sườn núi Bất Chu. Được La Phàm truyền thụ Tạo Hóa Ngọc Điệp Quyết (9 tầng)."
+      "id": "C0002",
+      "name_source": "鸿钧",
+      "name_target": "Hồng Quân",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": "Địa Tiên Đạo Quả (Tu luyện Tạo Hóa Ngọc Điệp Quyết)"
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Đệ tử trưởng của La Phàm",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Đệ tử trưởng của La Phàm | Đã vượt qua Quý Thủy Thiên Mộc Kiếp. Thành lập Tử Tiêu Động tại sườn núi Bất Chu. Được La Phàm truyền thụ Tạo Hóa Ngọc Điệp Quyết (9 tầng)."
     },
     {
-      "term": "罗浮",
-      "name_vi": "La Phù",
-      "gender": "Nam",
-      "role": "Phụ",
-      "identity": "Sinh linh sinh ra từ Trọng Trọc Âm Phù biến dị",
-      "notes": "Được La Phàm coi như con trai (gọi La Phàm là Ba ba). Có hình hài em bé Tiên Thiên Đạo Thể, tính tình ngây thơ, hiếu động, đang lớn lên tại Cầu Tác Động."
+      "id": "C0003",
+      "name_source": "罗浮",
+      "name_target": "La Phù",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Sinh linh sinh ra từ Trọng Trọc Âm Phù biến dị",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Sinh linh sinh ra từ Trọng Trọc Âm Phù biến dị | Được La Phàm coi như con trai (gọi La Phàm là Ba ba). Có hình hài em bé Tiên Thiên Đạo Thể, tính tình ngây thơ, hiếu động, đang lớn lên tại Cầu Tác Động."
     },
     {
-      "term": "广菩",
-      "name_vi": "Quảng Bồ",
-      "gender": "Nữ",
-      "role": "Phụ",
-      "cultivation": "Tiên Thiên Thần Chỉ",
-      "identity": "Đệ tử thứ hai của La Phàm",
-      "notes": "Vốn là mộc linh (cây đại thụ), tu luyện Thái Âm Thần Mộc Đại Pháp."
+      "id": "C0004",
+      "name_source": "广菩",
+      "name_target": "Quảng Bồ",
+      "name_aliases": [],
+      "gender": "female",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": "Tiên Thiên Thần Chỉ"
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Đệ tử thứ hai của La Phàm",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Đệ tử thứ hai của La Phàm | Vốn là mộc linh (cây đại thụ), tu luyện Thái Âm Thần Mộc Đại Pháp."
     },
     {
-      "term": "傲来",
-      "name_vi": "Ngạo Lai",
-      "gender": "Nam",
-      "role": "Phụ",
-      "cultivation": "Hắc Thần Long (Tiến hóa từ Hắc Giao)",
-      "identity": "Hộ sơn thần thú của La Phàm",
-      "notes": "Tu luyện Kim Giao Hóa Long Đạo. Có thể cùng Ngạo Âm hợp thể thành Kim Giao Tiễn."
+      "id": "C0005",
+      "name_source": "傲来",
+      "name_target": "Ngạo Lai",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": "Hắc Thần Long (Tiến hóa từ Hắc Giao)"
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Hộ sơn thần thú của La Phàm",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Hộ sơn thần thú của La Phàm | Tu luyện Kim Giao Hóa Long Đạo. Có thể cùng Ngạo Âm hợp thể thành Kim Giao Tiễn."
     },
     {
-      "term": "傲音",
-      "name_vi": "Ngạo Âm",
-      "gender": "Nữ",
-      "role": "Phụ",
-      "cultivation": "Bạch Thần Long (Tiến hóa từ Bạch Giao)",
-      "identity": "Hộ sơn thần thú của La Phàm",
-      "notes": "Tu luyện Kim Giao Hóa Long Đạo. Cùng với Ngạo Lai phụ trách bảo vệ Cầu Tác Động."
+      "id": "C0006",
+      "name_source": "傲音",
+      "name_target": "Ngạo Âm",
+      "name_aliases": [],
+      "gender": "female",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": "Bạch Thần Long (Tiến hóa từ Bạch Giao)"
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Hộ sơn thần thú của La Phàm",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Hộ sơn thần thú của La Phàm | Tu luyện Kim Giao Hóa Long Đạo. Cùng với Ngạo Lai phụ trách bảo vệ Cầu Tác Động."
     },
     {
-      "term": "不周山神",
-      "name_vi": "Bất Chu Sơn Thần",
-      "role": "Phụ",
-      "identity": "Linh thức của núi Bất Chu",
-      "notes": "Được La Phàm truyền cho Thiên Thần Đại Đạo Pháp và Thiên Thần Siêu Thoát Quyết. Đã giao phần lớn quyền kiểm soát đỉnh núi cho La Phàm."
+      "id": "C0007",
+      "name_source": "不周山神",
+      "name_target": "Bất Chu Sơn Thần",
+      "name_aliases": [],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Linh thức của núi Bất Chu",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Linh thức của núi Bất Chu | Được La Phàm truyền cho Thiên Thần Đại Đạo Pháp và Thiên Thần Siêu Thoát Quyết. Đã giao phần lớn quyền kiểm soát đỉnh núi cho La Phàm."
     },
     {
-      "term": "无极童子",
-      "name_vi": "Vô Cực Đồng Tử",
-      "role": "Phụ",
-      "identity": "Bảo linh của Hư Không Vô Cực Cung",
-      "notes": "Có ngoại hình tiểu đồng nhưng tính cách máy móc, tuyệt đối trung thành với La Phàm, quản lý mọi việc trong cung điện."
+      "id": "C0008",
+      "name_source": "无极童子",
+      "name_target": "Vô Cực Đồng Tử",
+      "name_aliases": [],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Bảo linh của Hư Không Vô Cực Cung",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Bảo linh của Hư Không Vô Cực Cung | Có ngoại hình tiểu đồng nhưng tính cách máy móc, tuyệt đối trung thành với La Phàm, quản lý mọi việc trong cung điện."
     },
     {
-      "term": "至方童子",
-      "name_vi": "Chí Phương Đồng Tử",
-      "role": "Phụ",
-      "identity": "Bảo linh của Chí Phương Ấn",
-      "notes": "Phục vụ và bảo vệ La Phù theo lệnh của La Phàm."
+      "id": "C0009",
+      "name_source": "至方童子",
+      "name_target": "Chí Phương Đồng Tử",
+      "name_aliases": [],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Bảo linh của Chí Phương Ấn",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Bảo linh của Chí Phương Ấn | Phục vụ và bảo vệ La Phù theo lệnh của La Phàm."
     },
     {
-      "term": "黄巾力士皇",
-      "name_vi": "Hoàng Cân Lực Sĩ Hoàng",
-      "role": "Phụ",
-      "identity": "Thủ lĩnh lực sĩ, bảo linh của Hồng Quân",
-      "notes": "Sở hữu 36 tầng cấm chế, là trợ thủ đắc lực giúp Hồng Quân tu luyện và bảo vệ Tử Tiêu Động."
+      "id": "C0010",
+      "name_source": "黄巾力士皇",
+      "name_target": "Hoàng Cân Lực Sĩ Hoàng",
+      "name_aliases": [],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Thủ lĩnh lực sĩ, bảo linh của Hồng Quân",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Thủ lĩnh lực sĩ, bảo linh của Hồng Quân | Sở hữu 36 tầng cấm chế, là trợ thủ đắc lực giúp Hồng Quân tu luyện và bảo vệ Tử Tiêu Động."
     },
     {
-      "term": "魔罗",
-      "name_vi": "Ma La",
-      "gender": "Nam",
-      "role": "Phản diện",
-      "cultivation": "Tiên Thiên Thần Chỉ (Vừa xuất thế)",
-      "identity": "Ma Vương, kẻ tôn thờ 'Mẫu thân' bí ẩn",
-      "notes": "Sinh ra từ khí âm hàn dưới lòng đất Bất Chu Sơn, bản thể chí dương chí cương. Đang thôn phệ hữu hình phù quỷ tại Hoàng Tuyền để tu luyện."
+      "id": "C0011",
+      "name_source": "魔罗",
+      "name_target": "Ma La",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phản diện",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": "Tiên Thiên Thần Chỉ (Vừa xuất thế)"
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Ma Vương, kẻ tôn thờ 'Mẫu thân' bí ẩn",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Ma Vương, kẻ tôn thờ 'Mẫu thân' bí ẩn | Sinh ra từ khí âm hàn dưới lòng đất Bất Chu Sơn, bản thể chí dương chí cương. Đang thôn phệ hữu hình phù quỷ tại Hoàng Tuyền để tu luyện."
     },
     {
-      "term": "大自在天魔",
-      "name_vi": "Đại Tự Tại Thiên Ma",
-      "role": "Phản diện",
-      "identity": "Vực Ngoại Thiên Ma",
-      "notes": "Kẻ thù cũ, thực thể mang ý chí ma tính muốn độ hóa chúng sinh thành ma."
+      "id": "C0012",
+      "name_source": "大自在天魔",
+      "name_target": "Đại Tự Tại Thiên Ma",
+      "name_aliases": [],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phản diện",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Vực Ngoại Thiên Ma",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Vực Ngoại Thiên Ma | Kẻ thù cũ, thực thể mang ý chí ma tính muốn độ hóa chúng sinh thành ma."
     },
     {
-      "term": "林天南",
-      "name_vi": "Lâm Thiên Nam",
-      "gender": "Nam",
-      "role": "Phụ",
-      "cultivation": "Phàm Cảnh Cửu Trọng (Võ học tiểu thế giới)",
-      "identity": "Ký danh đệ tử của La Phàm tại tiểu thiên thế giới, con trai Lâm Trấn Nam",
-      "notes": "Thiên tài võ học, người kế thừa Lâm Gia Bảo. Được La Phàm truyền thụ hệ thống võ học 27 tầng."
+      "id": "C0013",
+      "name_source": "林天南",
+      "name_target": "Lâm Thiên Nam",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": "Phàm Cảnh Cửu Trọng (Võ học tiểu thế giới)"
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Ký danh đệ tử của La Phàm tại tiểu thiên thế giới, con trai Lâm Trấn Nam",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Ký danh đệ tử của La Phàm tại tiểu thiên thế giới, con trai Lâm Trấn Nam | Thiên tài võ học, người kế thừa Lâm Gia Bảo. Được La Phàm truyền thụ hệ thống võ học 27 tầng."
     },
     {
-      "term": "林张氏",
-      "name_vi": "Lâm Trương Thị",
-      "gender": "Nữ",
-      "role": "Phụ",
-      "identity": "Mẹ của Lâm Thiên Nam, phu nhân Lâm Gia Bảo",
-      "notes": "Người phụ nữ kiên cường, bảo vệ gia đình sau cái chết của chồng."
+      "id": "C0014",
+      "name_source": "林张氏",
+      "name_target": "Lâm Trương Thị",
+      "name_aliases": [],
+      "gender": "female",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Mẹ của Lâm Thiên Nam, phu nhân Lâm Gia Bảo",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Mẹ của Lâm Thiên Nam, phu nhân Lâm Gia Bảo | Người phụ nữ kiên cường, bảo vệ gia đình sau cái chết của chồng."
     },
     {
-      "term": "林镇南",
-      "name_vi": "Lâm Trấn Nam",
-      "gender": "Nam",
-      "role": "Phụ",
-      "identity": "Cha của Lâm Thiên Nam, chủ nhân Lâm Gia Bảo",
-      "notes": "Đã hy sinh để bảo vệ Thiên Võ Thần Chương khỏi sự phản bội của Trang Chế Hiến."
+      "id": "C0015",
+      "name_source": "林镇南",
+      "name_target": "Lâm Trấn Nam",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Cha của Lâm Thiên Nam, chủ nhân Lâm Gia Bảo",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Cha của Lâm Thiên Nam, chủ nhân Lâm Gia Bảo | Đã hy sinh để bảo vệ Thiên Võ Thần Chương khỏi sự phản bội của Trang Chế Hiến."
     },
     {
-      "term": "庄制宪",
-      "name_vi": "Trang Chế Hiến",
-      "gender": "Nam",
-      "role": "Phản diện",
-      "identity": "Kẻ phản bội Lâm Gia Bảo",
-      "notes": "Huynh đệ kết nghĩa của Lâm Trấn Nam, tham lam chiếm đoạt gia sản và bí tịch, đã chết trong vụ nổ tự bạo của Lâm Trấn Nam."
+      "id": "C0016",
+      "name_source": "庄制宪",
+      "name_target": "Trang Chế Hiến",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phản diện",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Kẻ phản bội Lâm Gia Bảo",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Kẻ phản bội Lâm Gia Bảo | Huynh đệ kết nghĩa của Lâm Trấn Nam, tham lam chiếm đoạt gia sản và bí tịch, đã chết trong vụ nổ tự bạo của Lâm Trấn Nam."
     },
     {
-      "term": "焚天",
-      "name_vi": "Phanh Thiên",
-      "gender": "Nam",
-      "role": "Phụ",
-      "cultivation": "Địa Tiên Đạo Quả (Chín đầu sư tử)",
-      "identity": "Tiên Thiên Thần Kỳ sinh ra từ núi lửa",
-      "notes": "Bạn đồng hành của La Phàm trong chuyến vân du. Đã lột xác thành Tiên Thiên Đạo Thể và nắm giữ thần thông Lưỡng Giới Phân Cách."
+      "id": "C0017",
+      "name_source": "焚天",
+      "name_target": "Phanh Thiên",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": "Địa Tiên Đạo Quả (Chín đầu sư tử)"
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Tiên Thiên Thần Kỳ sinh ra từ núi lửa",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Tiên Thiên Thần Kỳ sinh ra từ núi lửa | Bạn đồng hành của La Phàm trong chuyến vân du. Đã lột xác thành Tiên Thiên Đạo Thể và nắm giữ thần thông Lưỡng Giới Phân Cách."
     },
     {
-      "term": "帝俊",
-      "name_vi": "Đế Tuấn",
-      "role": "Phụ",
-      "identity": "Tiên Thiên Thần Kỳ của Mặt Trời (đang thai nghén)",
-      "notes": "Một trong hai quầng sáng tại lõi Mặt Trời, tương lai là Yêu Đế của yêu tộc."
+      "id": "C0018",
+      "name_source": "帝俊",
+      "name_target": "Đế Tuấn",
+      "name_aliases": [],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Tiên Thiên Thần Kỳ của Mặt Trời (đang thai nghén)",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Tiên Thiên Thần Kỳ của Mặt Trời (đang thai nghén) | Một trong hai quầng sáng tại lõi Mặt Trời, tương lai là Yêu Đế của yêu tộc."
     },
     {
-      "term": "太一",
-      "name_vi": "Thái Nhất",
-      "role": "Phụ",
-      "identity": "Tiên Thiên Thần Kỳ của Mặt Trời (đang thai nghén)",
-      "notes": "Em trai của Đế Tuấn, sở hữu sức mạnh vô song, tương lai nắm giữ Đông Hoàng Chung."
+      "id": "C0019",
+      "name_source": "太一",
+      "name_target": "Thái Nhất",
+      "name_aliases": [],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "phụ",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Tiên Thiên Thần Kỳ của Mặt Trời (đang thai nghén)",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Tiên Thiên Thần Kỳ của Mặt Trời (đang thai nghén) | Em trai của Đế Tuấn, sở hữu sức mạnh vô song, tương lai nắm giữ Đông Hoàng Chung."
     }
   ]
 }

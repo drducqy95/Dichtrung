@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "branch": "Chu Than Dai Dao_Co Nguyet Cu Si",
+    "book_title": "Chủ Thần Đại Đạo",
+    "generated_at": "2026-05-30T04:51:58+07:00",
+    "total_characters": 7,
+    "style_tags": [
+      "vô hạn lưu",
+      "thành thần",
+      "đại cục",
+      "huyền ảo"
+    ]
+  },
+  "characters": [
+    {
+      "name_translated": "Cơ Thành",
+      "name_original": "姬诚",
+      "role": "major character",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Chu Than Dai Dao_Co Nguyet Cu Si/illustrations/characters/c_th_nh_portrait.png",
+      "scene_slot": "Output/Chu Than Dai Dao_Co Nguyet Cu Si/illustrations/characters/c_th_nh_scene.png",
+      "portrait_prompt": "Portrait of Cơ Thành, a man character from 'Chủ Thần Đại Đạo'. Role: distinctive character. Character context: Người chơi tiêu biểu trong thế giới ảo của Triệu Kỳ.. Composition: bust portrait, 3/4 angle, expressive face. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of Cơ Thành (man) from 'Chủ Thần Đại Đạo'. Role: distinctive character. Description: Người chơi tiêu biểu trong thế giới ảo của Triệu Kỳ.. Setting: Hiện đại đô thị giao cắt với con đường thành thần và vô hạn thế giới, nơi cơ duyên siêu hình có thể xé toạc nhịp sống bình thường chỉ trong một khoảnh khắc.. First appears in {'chapter': 0, 'context': ''}. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    },
+    {
+      "name_translated": "Deneir",
+      "name_original": "迪奈尔",
+      "role": "deity (deceased)",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Chu Than Dai Dao_Co Nguyet Cu Si/illustrations/characters/deneir_portrait.png",
+      "scene_slot": "Output/Chu Than Dai Dao_Co Nguyet Cu Si/illustrations/characters/deneir_scene.png",
+      "portrait_prompt": "Portrait of Deneir, a man character from 'Chủ Thần Đại Đạo'. Role: distinctive character. Character context: Văn học chi thần, người để lại di sản cho Triệu Kỳ. (Tên Phương Tây). Composition: bust portrait, 3/4 angle, expressive face. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of Deneir (man) from 'Chủ Thần Đại Đạo'. Role: distinctive character. Description: Văn học chi thần, người để lại di sản cho Triệu Kỳ. (Tên Phương Tây). Setting: Hiện đại đô thị giao cắt với con đường thành thần và vô hạn thế giới, nơi cơ duyên siêu hình có thể xé toạc nhịp sống bình thường chỉ trong một khoảnh khắc.. First appears in {'chapter': 0, 'context': ''}. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    },
+    {
+      "name_translated": "Lăng Tường",
+      "name_original": "凌翔",
+      "role": "character",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Chu Than Dai Dao_Co Nguyet Cu Si/illustrations/characters/l_ng_t_ng_portrait.png",
+      "scene_slot": "Output/Chu Than Dai Dao_Co Nguyet Cu Si/illustrations/characters/l_ng_t_ng_scene.png",
+      "portrait_prompt": "Portrait of Lăng Tường, a man character from 'Chủ Thần Đại Đạo'. Role: distinctive character. Character context: Người chơi, thành viên Cục Quốc An, mật danh Lang Nha.. Composition: bust portrait, 3/4 angle, expressive face. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of Lăng Tường (man) from 'Chủ Thần Đại Đạo'. Role: distinctive character. Description: Người chơi, thành viên Cục Quốc An, mật danh Lang Nha.. Setting: Hiện đại đô thị giao cắt với con đường thành thần và vô hạn thế giới, nơi cơ duyên siêu hình có thể xé toạc nhịp sống bình thường chỉ trong một khoảnh khắc.. First appears in {'chapter': 0, 'context': ''}. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    },
+    {
+      "name_translated": "Ninh Thái Thần",
+      "name_original": "宁采臣",
+      "role": "virtual npc",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Chu Than Dai Dao_Co Nguyet Cu Si/illustrations/characters/ninh_th_i_th_n_portrait.png",
+      "scene_slot": "Output/Chu Than Dai Dao_Co Nguyet Cu Si/illustrations/characters/ninh_th_i_th_n_scene.png",
+      "portrait_prompt": "Portrait of Ninh Thái Thần, a man character from 'Chủ Thần Đại Đạo'. Role: distinctive character. Character context: Nhân vật thư sinh trong thế giới ảo.. Composition: bust portrait, 3/4 angle, expressive face. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of Ninh Thái Thần (man) from 'Chủ Thần Đại Đạo'. Role: distinctive character. Description: Nhân vật thư sinh trong thế giới ảo.. Setting: Hiện đại đô thị giao cắt với con đường thành thần và vô hạn thế giới, nơi cơ duyên siêu hình có thể xé toạc nhịp sống bình thường chỉ trong một khoảnh khắc.. First appears in {'chapter': 0, 'context': ''}. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    },
+    {
+      "name_translated": "Triệu Kỳ",
+      "name_original": "赵奇",
+      "role": "main character",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Chu Than Dai Dao_Co Nguyet Cu Si/illustrations/characters/tri_u_k_portrait.png",
+      "scene_slot": "Output/Chu Than Dai Dao_Co Nguyet Cu Si/illustrations/characters/tri_u_k_scene.png",
+      "portrait_prompt": "Portrait of Triệu Kỳ, a man character from 'Chủ Thần Đại Đạo'. Role: distinctive character. Character context: Nhân vật chính, nhận được di sản của Sáng Thế và Tạo Vật.. Personality expressed in pose: Bình tĩnh, Thông minh, Tham vọng. Composition: bust portrait, 3/4 angle, expressive face. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of Triệu Kỳ (man) from 'Chủ Thần Đại Đạo'. Role: distinctive character. Description: Nhân vật chính, nhận được di sản của Sáng Thế và Tạo Vật.. Setting: Hiện đại đô thị giao cắt với con đường thành thần và vô hạn thế giới, nơi cơ duyên siêu hình có thể xé toạc nhịp sống bình thường chỉ trong một khoảnh khắc.. First appears in {'chapter': 0, 'context': ''}. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    },
+    {
+      "name_translated": "Yến Xích Hà",
+      "name_original": "燕赤霞",
+      "role": "virtual npc",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Chu Than Dai Dao_Co Nguyet Cu Si/illustrations/characters/y_n_x_ch_h_portrait.png",
+      "scene_slot": "Output/Chu Than Dai Dao_Co Nguyet Cu Si/illustrations/characters/y_n_x_ch_h_scene.png",
+      "portrait_prompt": "Portrait of Yến Xích Hà, a man character from 'Chủ Thần Đại Đạo'. Role: distinctive character. Character context: Nhân vật trong thế giới ảo do Triệu Kỳ tạo ra.. Composition: bust portrait, 3/4 angle, expressive face. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of Yến Xích Hà (man) from 'Chủ Thần Đại Đạo'. Role: distinctive character. Description: Nhân vật trong thế giới ảo do Triệu Kỳ tạo ra.. Setting: Hiện đại đô thị giao cắt với con đường thành thần và vô hạn thế giới, nơi cơ duyên siêu hình có thể xé toạc nhịp sống bình thường chỉ trong một khoảnh khắc.. First appears in {'chapter': 0, 'context': ''}. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    },
+    {
+      "name_translated": "Đảng Vị Quốc",
+      "name_original": "党为国",
+      "role": "character",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Chu Than Dai Dao_Co Nguyet Cu Si/illustrations/characters/ng_v_qu_c_portrait.png",
+      "scene_slot": "Output/Chu Than Dai Dao_Co Nguyet Cu Si/illustrations/characters/ng_v_qu_c_scene.png",
+      "portrait_prompt": "Portrait of Đảng Vị Quốc, a man character from 'Chủ Thần Đại Đạo'. Role: distinctive character. Character context: Cục trưởng Cục Quốc An.. Composition: bust portrait, 3/4 angle, expressive face. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of Đảng Vị Quốc (man) from 'Chủ Thần Đại Đạo'. Role: distinctive character. Description: Cục trưởng Cục Quốc An.. Setting: Hiện đại đô thị giao cắt với con đường thành thần và vô hạn thế giới, nơi cơ duyên siêu hình có thể xé toạc nhịp sống bình thường chỉ trong một khoảnh khắc.. First appears in {'chapter': 0, 'context': ''}. Art style: high-quality fantasy illustration, detailed character art, cinematic lighting. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    }
+  ]
+}

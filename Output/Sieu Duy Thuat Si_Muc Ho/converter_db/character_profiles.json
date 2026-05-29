@@ -1,0 +1,197 @@
+{
+  "metadata": {
+    "branch": "Sieu Duy Thuat Si_Muc Ho",
+    "book_title": "Siêu Duy Thuật Sĩ",
+    "generated_at": "2026-05-30T04:51:59+07:00",
+    "total_characters": 9,
+    "style_tags": [
+      "fantasy",
+      "phù thủy",
+      "mystery",
+      "adventure"
+    ],
+    "backdrop": "Fantasy phương Tây pha huyền bí và siêu duy, mở ra từ các thị trấn hẻo lánh, gia tộc quyền lực và cánh cửa bước vào nền văn minh phù thủy."
+  },
+  "characters": [
+    {
+      "id": "char_0001",
+      "name_original": "安格尔",
+      "name_translated": "An Cách Nhĩ",
+      "gender": "male",
+      "role": "protagonist",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Nhị thiếu gia nhà Patte, đệ tử của Jon.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of An Cách Nhĩ, a man character from 'Siêu Duy Thuật Sĩ'. Role: heroic aura, determined expression, center of frame. Character context: Nhị thiếu gia nhà Patte, đệ tử của Jon.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of An Cách Nhĩ (man) from 'Siêu Duy Thuật Sĩ'. Role: heroic aura, determined expression, center of frame. Description: Nhị thiếu gia nhà Patte, đệ tử của Jon.. Setting: Fantasy phương Tây pha huyền bí và siêu duy, mở ra từ các thị trấn hẻo lánh, gia tộc quyền lực và cánh cửa bước vào nền văn minh phù thủy.. First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Sieu Duy Thuat Si_Muc Ho/illustrations/characters/an_c_ch_nh_portrait.png",
+        "scene_slot": "Output/Sieu Duy Thuat Si_Muc Ho/illustrations/characters/an_c_ch_nh_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "char_0009",
+      "name_original": "摩罗.蒙恩",
+      "name_translated": "Ma La Mông Ân",
+      "gender": "male",
+      "role": "antagonist",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Cha của Eaton Morn, một Ma pháp sư đang tìm kiếm bí mật của Morning Dew after Rain.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Ma La Mông Ân, a man character from 'Siêu Duy Thuật Sĩ'. Role: menacing presence, cold calculating eyes, imposing stance. Character context: Cha của Eaton Morn, một Ma pháp sư đang tìm kiếm bí mật của Morning Dew after Rain.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Ma La Mông Ân (man) from 'Siêu Duy Thuật Sĩ'. Role: menacing presence, cold calculating eyes, imposing stance. Description: Cha của Eaton Morn, một Ma pháp sư đang tìm kiếm bí mật của Morning Dew after Rain.. Setting: Fantasy phương Tây pha huyền bí và siêu duy, mở ra từ các thị trấn hẻo lánh, gia tộc quyền lực và cánh cửa bước vào nền văn minh phù thủy.. First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Sieu Duy Thuat Si_Muc Ho/illustrations/characters/ma_la_m_ng_n_portrait.png",
+        "scene_slot": "Output/Sieu Duy Thuat Si_Muc Ho/illustrations/characters/ma_la_m_ng_n_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "char_0007",
+      "name_original": "白胡子老头 (蒙恩家)",
+      "name_translated": "Bạch Ma Pháp Sư (Morn)",
+      "gender": "male",
+      "role": "supporting",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Cha của Eaton Morn, một Bạch Ma pháp sư đến từ Lục địa Old Earth.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Bạch Ma Pháp Sư (Morn), a man character from 'Siêu Duy Thuật Sĩ'. Role: distinctive character. Character context: Cha của Eaton Morn, một Bạch Ma pháp sư đến từ Lục địa Old Earth.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Bạch Ma Pháp Sư (Morn) (man) from 'Siêu Duy Thuật Sĩ'. Role: distinctive character. Description: Cha của Eaton Morn, một Bạch Ma pháp sư đến từ Lục địa Old Earth.. Setting: Fantasy phương Tây pha huyền bí và siêu duy, mở ra từ các thị trấn hẻo lánh, gia tộc quyền lực và cánh cửa bước vào nền văn minh phù thủy.. First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Sieu Duy Thuat Si_Muc Ho/illustrations/characters/b_ch_ma_ph_p_s_morn_portrait.png",
+        "scene_slot": "Output/Sieu Duy Thuat Si_Muc Ho/illustrations/characters/b_ch_ma_ph_p_s_morn_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "char_0003",
+      "name_original": "乔恩",
+      "name_translated": "Kiều Ân",
+      "gender": "male",
+      "role": "mentor",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Thầy của Angel, người xuyên không đến từ Trái Đất.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Kiều Ân, a man character from 'Siêu Duy Thuật Sĩ'. Role: distinctive character. Character context: Thầy của Angel, người xuyên không đến từ Trái Đất.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Kiều Ân (man) from 'Siêu Duy Thuật Sĩ'. Role: distinctive character. Description: Thầy của Angel, người xuyên không đến từ Trái Đất.. Setting: Fantasy phương Tây pha huyền bí và siêu duy, mở ra từ các thị trấn hẻo lánh, gia tộc quyền lực và cánh cửa bước vào nền văn minh phù thủy.. First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Sieu Duy Thuat Si_Muc Ho/illustrations/characters/ki_u_n_portrait.png",
+        "scene_slot": "Output/Sieu Duy Thuat Si_Muc Ho/illustrations/characters/ki_u_n_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "char_0002",
+      "name_original": "里昂",
+      "name_translated": "Lý Ngang",
+      "gender": "male",
+      "role": "supporting",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Đại thiếu gia nhà Patte, anh trai của Angel.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Lý Ngang, a man character from 'Siêu Duy Thuật Sĩ'. Role: distinctive character. Character context: Đại thiếu gia nhà Patte, anh trai của Angel.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Lý Ngang (man) from 'Siêu Duy Thuật Sĩ'. Role: distinctive character. Description: Đại thiếu gia nhà Patte, anh trai của Angel.. Setting: Fantasy phương Tây pha huyền bí và siêu duy, mở ra từ các thị trấn hẻo lánh, gia tộc quyền lực và cánh cửa bước vào nền văn minh phù thủy.. First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Sieu Duy Thuat Si_Muc Ho/illustrations/characters/l_ngang_portrait.png",
+        "scene_slot": "Output/Sieu Duy Thuat Si_Muc Ho/illustrations/characters/l_ngang_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "char_0008",
+      "name_original": "马尔",
+      "name_translated": "Mã Nhĩ",
+      "gender": "male",
+      "role": "supporting",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Kỵ sĩ trưởng của Bá tước Eaton Morn.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Mã Nhĩ, a man character from 'Siêu Duy Thuật Sĩ'. Role: distinctive character. Character context: Kỵ sĩ trưởng của Bá tước Eaton Morn.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Mã Nhĩ (man) from 'Siêu Duy Thuật Sĩ'. Role: distinctive character. Description: Kỵ sĩ trưởng của Bá tước Eaton Morn.. Setting: Fantasy phương Tây pha huyền bí và siêu duy, mở ra từ các thị trấn hẻo lánh, gia tộc quyền lực và cánh cửa bước vào nền văn minh phù thủy.. First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Sieu Duy Thuat Si_Muc Ho/illustrations/characters/m_nh_portrait.png",
+        "scene_slot": "Output/Sieu Duy Thuat Si_Muc Ho/illustrations/characters/m_nh_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "char_0005",
+      "name_original": "艾伦",
+      "name_translated": "Ngải Luân",
+      "gender": "male",
+      "role": "supporting",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Cháu nội của Bạch Ma pháp sư gia tộc Morn, có thiên phú ma pháp.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Ngải Luân, a man character from 'Siêu Duy Thuật Sĩ'. Role: distinctive character. Character context: Cháu nội của Bạch Ma pháp sư gia tộc Morn, có thiên phú ma pháp.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Ngải Luân (man) from 'Siêu Duy Thuật Sĩ'. Role: distinctive character. Description: Cháu nội của Bạch Ma pháp sư gia tộc Morn, có thiên phú ma pháp.. Setting: Fantasy phương Tây pha huyền bí và siêu duy, mở ra từ các thị trấn hẻo lánh, gia tộc quyền lực và cánh cửa bước vào nền văn minh phù thủy.. First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Sieu Duy Thuat Si_Muc Ho/illustrations/characters/ng_i_lu_n_portrait.png",
+        "scene_slot": "Output/Sieu Duy Thuat Si_Muc Ho/illustrations/characters/ng_i_lu_n_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "char_0006",
+      "name_original": "艾琳",
+      "name_translated": "Ngải Lâm",
+      "gender": "female",
+      "role": "supporting",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Cháu nội của Bạch Ma pháp sư gia tộc Morn, có thiên phú ma pháp.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Ngải Lâm, a woman character from 'Siêu Duy Thuật Sĩ'. Role: distinctive character. Character context: Cháu nội của Bạch Ma pháp sư gia tộc Morn, có thiên phú ma pháp.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Ngải Lâm (woman) from 'Siêu Duy Thuật Sĩ'. Role: distinctive character. Description: Cháu nội của Bạch Ma pháp sư gia tộc Morn, có thiên phú ma pháp.. Setting: Fantasy phương Tây pha huyền bí và siêu duy, mở ra từ các thị trấn hẻo lánh, gia tộc quyền lực và cánh cửa bước vào nền văn minh phù thủy.. First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Sieu Duy Thuat Si_Muc Ho/illustrations/characters/ng_i_l_m_portrait.png",
+        "scene_slot": "Output/Sieu Duy Thuat Si_Muc Ho/illustrations/characters/ng_i_l_m_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "char_0004",
+      "name_original": "伊顿.蒙恩",
+      "name_translated": "Y Đốn Mông Ân",
+      "gender": "male",
+      "role": "supporting",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Bá tước gia tộc Morn, chỉ huy Tiểu đoàn tiên phong tiền tuyến.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Y Đốn Mông Ân, a man character from 'Siêu Duy Thuật Sĩ'. Role: distinctive character. Character context: Bá tước gia tộc Morn, chỉ huy Tiểu đoàn tiên phong tiền tuyến.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Y Đốn Mông Ân (man) from 'Siêu Duy Thuật Sĩ'. Role: distinctive character. Description: Bá tước gia tộc Morn, chỉ huy Tiểu đoàn tiên phong tiền tuyến.. Setting: Fantasy phương Tây pha huyền bí và siêu duy, mở ra từ các thị trấn hẻo lánh, gia tộc quyền lực và cánh cửa bước vào nền văn minh phù thủy.. First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Sieu Duy Thuat Si_Muc Ho/illustrations/characters/y_n_m_ng_n_portrait.png",
+        "scene_slot": "Output/Sieu Duy Thuat Si_Muc Ho/illustrations/characters/y_n_m_ng_n_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "last_updated": "2026-05-30T04:50:00Z"
+  },
+  "pronouns": [
+    {
+      "id": "modern-formal-neutral",
+      "label": "Modern Formal Neutral",
+      "scope": "global",
+      "self_form": "tôi",
+      "other_form": "anh/chị",
+      "relationship": "neutral",
+      "genre_tags": [
+        "modern_eastern",
+        "western_fiction",
+        "general"
+      ],
+      "contexts": [
+        "formal",
+        "default"
+      ],
+      "notes": "Fallback safe pair for modern settings when intimacy is unclear.",
+      "source_projects": [],
+      "priority": 40
+    },
+    {
+      "id": "modern-friendly-peers",
+      "label": "Modern Friendly Peers",
+      "scope": "global",
+      "self_form": "tớ",
+      "other_form": "cậu",
+      "relationship": "friend",
+      "genre_tags": [
+        "modern_eastern",
+        "general"
+      ],
+      "contexts": [
+        "friendly",
+        "same_generation"
+      ],
+      "notes": "Casual pair for close peers in modern dialogue.",
+      "source_projects": [],
+      "priority": 55
+    },
+    {
+      "id": "modern-romantic-male-female",
+      "label": "Modern Romantic Male to Female",
+      "scope": "global",
+      "self_form": "anh",
+      "other_form": "em",
+      "relationship": "romantic_partner",
+      "genre_tags": [
+        "modern_eastern",
+        "western_fiction",
+        "general"
+      ],
+      "contexts": [
+        "romance",
+        "close"
+      ],
+      "notes": "Common VN romantic pair when male speaker is older or more dominant.",
+      "source_projects": [],
+      "priority": 80
+    },
+    {
+      "id": "modern-romantic-female-male",
+      "label": "Modern Romantic Female to Male",
+      "scope": "global",
+      "self_form": "em",
+      "other_form": "anh",
+      "relationship": "romantic_partner",
+      "genre_tags": [
+        "modern_eastern",
+        "western_fiction",
+        "general"
+      ],
+      "contexts": [
+        "romance",
+        "close"
+      ],
+      "notes": "Common VN romantic pair when female speaker addresses male lead.",
+      "source_projects": [],
+      "priority": 80
+    },
+    {
+      "id": "modern-hostile",
+      "label": "Modern Hostile",
+      "scope": "global",
+      "self_form": "tao",
+      "other_form": "mày",
+      "relationship": "hostile",
+      "genre_tags": [
+        "modern_eastern",
+        "western_fiction",
+        "general"
+      ],
+      "contexts": [
+        "conflict",
+        "anger"
+      ],
+      "notes": "Hostile override used only when tone clearly escalates.",
+      "source_projects": [],
+      "priority": 95
+    },
+    {
+      "id": "ancient-formal-neutral",
+      "label": "Ancient Formal Neutral",
+      "scope": "global",
+      "self_form": "tại hạ",
+      "other_form": "các hạ",
+      "relationship": "neutral",
+      "genre_tags": [
+        "xianxia",
+        "wuxia"
+      ],
+      "contexts": [
+        "ancient",
+        "formal"
+      ],
+      "notes": "Safe formal pair for wuxia/xianxia encounters.",
+      "source_projects": [],
+      "priority": 50
+    },
+    {
+      "id": "ancient-peers",
+      "label": "Ancient Peers",
+      "scope": "global",
+      "self_form": "ta",
+      "other_form": "ngươi",
+      "relationship": "friend",
+      "genre_tags": [
+        "xianxia",
+        "wuxia"
+      ],
+      "contexts": [
+        "ancient",
+        "peers"
+      ],
+      "notes": "Peer pair for ancient settings after formal distance is reduced.",
+      "source_projects": [],
+      "priority": 65
+    },
+    {
+      "id": "master-disciple",
+      "label": "Master and Disciple",
+      "scope": "global",
+      "self_form": "vi sư",
+      "other_form": "đồ nhi",
+      "relationship": "master_disciple",
+      "genre_tags": [
+        "xianxia",
+        "wuxia"
+      ],
+      "contexts": [
+        "ancient",
+        "hierarchy"
+      ],
+      "notes": "Canonical cultivation hierarchy pair.",
+      "source_projects": [],
+      "priority": 90
+    },
+    {
+      "id": "modern-married",
+      "label": "Modern Married",
+      "scope": "global",
+      "self_form": "mình",
+      "other_form": "mình",
+      "relationship": "spouse",
+      "speaker": "",
+      "listener": "",
+      "source_pattern": "",
+      "contexts": [
+        "marriage",
+        "close"
+      ],
+      "genre_tags": [
+        "modern_eastern",
+        "western_fiction",
+        "general"
+      ],
+      "notes": "Cặp xưng hô dùng cho vợ chồng khi quan hệ đã ổn định.",
+      "priority": 50,
+      "source_projects": [
+        "ac_linh_quoc_gia"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "metadata": {
+    "branch": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
+    "book_title": "Ta Trong Bình Vũ Trụ",
+    "generated_at": "2026-05-30T04:51:59+07:00",
+    "total_characters": 11,
+    "style_tags": [
+      "sáng thế",
+      "vi mô",
+      "sử thi",
+      "khoa học viễn tưởng"
+    ],
+    "backdrop": "Thế giới vi mô nằm trong một phòng thí nghiệm của 'bệnh nhân tâm thần' Lý Khanh, nơi các nền văn minh đơn bào phát triển và diệt vong dưới sự quan sát của Ngoại Thần."
+  },
+  "characters": [
+    {
+      "id": "C0003",
+      "name_original": "",
+      "name_translated": "Atabia",
+      "gender": "unknown",
+      "role": "thủ lĩnh vương quốc atabia, kỹ sư vĩ đại nhất, người tiên phong trong việc tiến hóa từ đơn bào lên đa bào.",
+      "status": "active",
+      "first_appearance": "{'chapter': 4, 'context': 'Chương 4'}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Atabia, a figure character from 'Ta Trong Bình Vũ Trụ'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: cosmic creation art, primordial energy, divine light rays. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Atabia (figure) from 'Ta Trong Bình Vũ Trụ'. Role: distinctive character. Setting: Thế giới vi mô nằm trong một phòng thí nghiệm của 'bệnh nhân tâm thần' Lý Khanh, nơi các nền văn minh đơn bào phát triển và diệt vong dưới sự quan sát của Ngoại Thần.. First appears in {'chapter': 4, 'context': 'Chương 4'}. Art style: cosmic creation art, primordial energy, divine light rays. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu/illustrations/characters/atabia_portrait.png",
+        "scene_slot": "Output/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu/illustrations/characters/atabia_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0011",
+      "name_original": "",
+      "name_translated": "Athol",
+      "gender": "unknown",
+      "role": "siêu cấp thiên tài nghiên cứu nhiệt hạch, học viên khóa 2 của học viện tinh linh ám dạ.",
+      "status": "active",
+      "first_appearance": "{'chapter': 113, 'context': 'Chương 113'}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Athol, a figure character from 'Ta Trong Bình Vũ Trụ'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: cosmic creation art, primordial energy, divine light rays. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Athol (figure) from 'Ta Trong Bình Vũ Trụ'. Role: distinctive character. Setting: Thế giới vi mô nằm trong một phòng thí nghiệm của 'bệnh nhân tâm thần' Lý Khanh, nơi các nền văn minh đơn bào phát triển và diệt vong dưới sự quan sát của Ngoại Thần.. First appears in {'chapter': 113, 'context': 'Chương 113'}. Art style: cosmic creation art, primordial energy, divine light rays. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu/illustrations/characters/athol_portrait.png",
+        "scene_slot": "Output/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu/illustrations/characters/athol_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0006",
+      "name_original": "",
+      "name_translated": "Elise",
+      "gender": "unknown",
+      "role": "thánh nữ thâm uyên, sau này là nữ thần tinh linh aurora. một trong những quyến thuộc mạnh nhất dưới trướng lý khanh. đã hy sinh để giết cựu phụ và trở thành 'tân phụ' (mẹ của giới tính).",
+      "status": "active",
+      "first_appearance": "{'chapter': 47, 'context': 'Chương 47'}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Elise, a figure character from 'Ta Trong Bình Vũ Trụ'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: cosmic creation art, primordial energy, divine light rays. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Elise (figure) from 'Ta Trong Bình Vũ Trụ'. Role: distinctive character. Setting: Thế giới vi mô nằm trong một phòng thí nghiệm của 'bệnh nhân tâm thần' Lý Khanh, nơi các nền văn minh đơn bào phát triển và diệt vong dưới sự quan sát của Ngoại Thần.. First appears in {'chapter': 47, 'context': 'Chương 47'}. Art style: cosmic creation art, primordial energy, divine light rays. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu/illustrations/characters/elise_portrait.png",
+        "scene_slot": "Output/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu/illustrations/characters/elise_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0004",
+      "name_original": "",
+      "name_translated": "Gerhans",
+      "gender": "unknown",
+      "role": "anh hùng vương quốc atabia, người đã dũng cảm đối mặt với 'đại hồng thủy cồn'.",
+      "status": "active",
+      "first_appearance": "{'chapter': 4, 'context': 'Chương 4'}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Gerhans, a figure character from 'Ta Trong Bình Vũ Trụ'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: cosmic creation art, primordial energy, divine light rays. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Gerhans (figure) from 'Ta Trong Bình Vũ Trụ'. Role: distinctive character. Setting: Thế giới vi mô nằm trong một phòng thí nghiệm của 'bệnh nhân tâm thần' Lý Khanh, nơi các nền văn minh đơn bào phát triển và diệt vong dưới sự quan sát của Ngoại Thần.. First appears in {'chapter': 4, 'context': 'Chương 4'}. Art style: cosmic creation art, primordial energy, divine light rays. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu/illustrations/characters/gerhans_portrait.png",
+        "scene_slot": "Output/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu/illustrations/characters/gerhans_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0007",
+      "name_original": "",
+      "name_translated": "Herodotus",
+      "gender": "unknown",
+      "role": "trí giả của atabia, sau này trở thành vị vua kế nhiệm, người dẫn dắt văn minh atabia phát triển rực rỡ.",
+      "status": "active",
+      "first_appearance": "{'chapter': 17, 'context': 'Chương 17'}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Herodotus, a figure character from 'Ta Trong Bình Vũ Trụ'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: cosmic creation art, primordial energy, divine light rays. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Herodotus (figure) from 'Ta Trong Bình Vũ Trụ'. Role: distinctive character. Setting: Thế giới vi mô nằm trong một phòng thí nghiệm của 'bệnh nhân tâm thần' Lý Khanh, nơi các nền văn minh đơn bào phát triển và diệt vong dưới sự quan sát của Ngoại Thần.. First appears in {'chapter': 17, 'context': 'Chương 17'}. Art style: cosmic creation art, primordial energy, divine light rays. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu/illustrations/characters/herodotus_portrait.png",
+        "scene_slot": "Output/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu/illustrations/characters/herodotus_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0001",
+      "name_original": "",
+      "name_translated": "Lý Khanh",
+      "gender": "unknown",
+      "role": "nhân vật chính, bác sĩ tâm lý, sở hữu tinh hạch của ninh quốc xương. chủ nhân của các sa bàn văn minh. đã đạt tới cảnh giới thất giác - bán thần (vô cấu chi thể).",
+      "status": "active",
+      "first_appearance": "{'chapter': 1, 'context': 'Chương 1'}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Lý Khanh, a figure character from 'Ta Trong Bình Vũ Trụ'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: cosmic creation art, primordial energy, divine light rays. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Lý Khanh (figure) from 'Ta Trong Bình Vũ Trụ'. Role: distinctive character. Setting: Thế giới vi mô nằm trong một phòng thí nghiệm của 'bệnh nhân tâm thần' Lý Khanh, nơi các nền văn minh đơn bào phát triển và diệt vong dưới sự quan sát của Ngoại Thần.. First appears in {'chapter': 1, 'context': 'Chương 1'}. Art style: cosmic creation art, primordial energy, divine light rays. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu/illustrations/characters/l_khanh_portrait.png",
+        "scene_slot": "Output/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu/illustrations/characters/l_khanh_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0002",
+      "name_original": "",
+      "name_translated": "Ninh Quốc Xương",
+      "gender": "unknown",
+      "role": "bệnh nhân tâm thần, người đầu tiên thức tỉnh vi sinh vật, đã tự sát. tinh hạch của ông là khởi nguồn cho sức mạnh của lý khanh.",
+      "status": "active",
+      "first_appearance": "{'chapter': 1, 'context': 'Chương 1'}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Ninh Quốc Xương, a figure character from 'Ta Trong Bình Vũ Trụ'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: cosmic creation art, primordial energy, divine light rays. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Ninh Quốc Xương (figure) from 'Ta Trong Bình Vũ Trụ'. Role: distinctive character. Setting: Thế giới vi mô nằm trong một phòng thí nghiệm của 'bệnh nhân tâm thần' Lý Khanh, nơi các nền văn minh đơn bào phát triển và diệt vong dưới sự quan sát của Ngoại Thần.. First appears in {'chapter': 1, 'context': 'Chương 1'}. Art style: cosmic creation art, primordial energy, divine light rays. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu/illustrations/characters/ninh_qu_c_x_ng_portrait.png",
+        "scene_slot": "Output/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu/illustrations/characters/ninh_qu_c_x_ng_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0005",
+      "name_original": "",
+      "name_translated": "Suzanne",
+      "gender": "unknown",
+      "role": "cô gái hiện đại, hàng xóm của lý khanh, tiểu thư nhà giàu, sau này trở thành vật chứa cho tinh linh thánh nữ.",
+      "status": "active",
+      "first_appearance": "{'chapter': 47, 'context': 'Chương 47'}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Suzanne, a figure character from 'Ta Trong Bình Vũ Trụ'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: cosmic creation art, primordial energy, divine light rays. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Suzanne (figure) from 'Ta Trong Bình Vũ Trụ'. Role: distinctive character. Setting: Thế giới vi mô nằm trong một phòng thí nghiệm của 'bệnh nhân tâm thần' Lý Khanh, nơi các nền văn minh đơn bào phát triển và diệt vong dưới sự quan sát của Ngoại Thần.. First appears in {'chapter': 47, 'context': 'Chương 47'}. Art style: cosmic creation art, primordial energy, divine light rays. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu/illustrations/characters/suzanne_portrait.png",
+        "scene_slot": "Output/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu/illustrations/characters/suzanne_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0008",
+      "name_original": "",
+      "name_translated": "Sylph",
+      "gender": "unknown",
+      "role": "vua của tộc tinh linh, người lãnh đạo tinh linh quốc. hiện là viện trưởng học viện tinh linh ám dạ, sở hữu cự thần naga (siêu máy tính dna).",
+      "status": "active",
+      "first_appearance": "{'chapter': 72, 'context': 'Chương 72'}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Sylph, a figure character from 'Ta Trong Bình Vũ Trụ'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: cosmic creation art, primordial energy, divine light rays. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Sylph (figure) from 'Ta Trong Bình Vũ Trụ'. Role: distinctive character. Setting: Thế giới vi mô nằm trong một phòng thí nghiệm của 'bệnh nhân tâm thần' Lý Khanh, nơi các nền văn minh đơn bào phát triển và diệt vong dưới sự quan sát của Ngoại Thần.. First appears in {'chapter': 72, 'context': 'Chương 72'}. Art style: cosmic creation art, primordial energy, divine light rays. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu/illustrations/characters/sylph_portrait.png",
+        "scene_slot": "Output/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu/illustrations/characters/sylph_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0009",
+      "name_original": "",
+      "name_translated": "Tukasi",
+      "gender": "unknown",
+      "role": "cổ lão ma vương, chúa tể thâm uyên đời đầu. hiện là vị vua ngủ say trong sương mù.",
+      "status": "active",
+      "first_appearance": "{'chapter': 91, 'context': 'Chương 91'}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Tukasi, a figure character from 'Ta Trong Bình Vũ Trụ'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: cosmic creation art, primordial energy, divine light rays. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Tukasi (figure) from 'Ta Trong Bình Vũ Trụ'. Role: distinctive character. Setting: Thế giới vi mô nằm trong một phòng thí nghiệm của 'bệnh nhân tâm thần' Lý Khanh, nơi các nền văn minh đơn bào phát triển và diệt vong dưới sự quan sát của Ngoại Thần.. First appears in {'chapter': 91, 'context': 'Chương 91'}. Art style: cosmic creation art, primordial energy, divine light rays. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu/illustrations/characters/tukasi_portrait.png",
+        "scene_slot": "Output/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu/illustrations/characters/tukasi_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "C0010",
+      "name_original": "",
+      "name_translated": "Walton",
+      "gender": "unknown",
+      "role": "tài phiệt người mỹ, học trò của sylph, người đứng đầu nhóm phú hào khám phá thâm uyên.",
+      "status": "active",
+      "first_appearance": "{'chapter': 75, 'context': 'Chương 75'}",
+      "description_vi": "",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Walton, a figure character from 'Ta Trong Bình Vũ Trụ'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: cosmic creation art, primordial energy, divine light rays. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Walton (figure) from 'Ta Trong Bình Vũ Trụ'. Role: distinctive character. Setting: Thế giới vi mô nằm trong một phòng thí nghiệm của 'bệnh nhân tâm thần' Lý Khanh, nơi các nền văn minh đơn bào phát triển và diệt vong dưới sự quan sát của Ngoại Thần.. First appears in {'chapter': 75, 'context': 'Chương 75'}. Art style: cosmic creation art, primordial energy, divine light rays. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu/illustrations/characters/walton_portrait.png",
+        "scene_slot": "Output/Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu/illustrations/characters/walton_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "branch": "Linh Hon Negary_Hu Minh",
+  "chapter": 232,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Linh Hon Negary_Hu Minh\\0232 - 第232章 我看到了真理.md",
+  "source_char_count": 2208,
+  "characters": [
+    {
+      "source": "时候",
+      "entity_type": "person",
+      "count": 3,
+      "confidence": 0.7,
+      "evidence": [
+        "就越虔诚，但是信仰有时候，并不能提升一个人其",
+        "那么在对方提出要求的时候，你能做的只能选择接",
+        "罗修斯在奈格里接近的时候，身上源自邪神的力量"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "source": "却没有想到牵连到了无声教会",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "以为只是普通的自杀，却没有想到牵连到了无声教会，那些吃多了的警探立"
+      ]
+    }
+  ],
+  "locations": [],
+  "realms": [],
+  "techniques": [
+    "他已经",
+    "他没有办法",
+    "他隐藏身份成为法",
+    "但是对于剑",
+    "千锤百炼的剑",
+    "却没有想到被法",
+    "在他的腰间已经",
+    "奈格里停下了脚步",
+    "抱歉经",
+    "损失掉那些指头已经"
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "骑士",
+      "target": "Hiệp sĩ"
+    },
+    {
+      "source": "侍者",
+      "target": "Thị Giả"
+    },
+    {
+      "source": "比罗修斯",
+      "target": "Peroxis"
+    }
+  ],
+  "generated_at": "2026-05-30T04:23:56.017834+07:00"
+}

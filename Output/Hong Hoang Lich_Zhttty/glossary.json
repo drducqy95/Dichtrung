@@ -1,1602 +1,1562 @@
 {
-    "metadata": {
-        "source_language": "zh",
-        "target_language": "vi",
-        "genre": "eastern_fiction",
-        "last_updated": "2026-04-20T11:45:00Z"
+  "metadata": {
+    "version": "2.0",
+    "schema": "gold",
+    "branch": "Hong Hoang Lich_Zhttty",
+    "last_updated": "2026-05-30T04:48:09+07:00",
+    "total_entries": 155,
+    "previous_schema": "legacy"
+  },
+  "entries": [
+    {
+      "source": "恶魔小队",
+      "source_language": "zh",
+      "target": "Tiểu đội Ác Ma",
+      "category": "organization",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Devil Team",
+      "locked": false
     },
-    "entries": [
-        {
-            "source": "恶魔小队",
-            "target": "Tiểu đội Ác Ma",
-            "category": "organization",
-            "source_language": "zh",
-            "target_language": "vi",
-            "note": "Devil Team"
-        },
-        {
-            "source": "洪荒天庭",
-            "target": "Thiên Đình Hồng Hoang",
-            "category": "organization",
-            "source_language": "zh",
-            "target_language": "vi",
-            "note": "Great Desolate Heavenly Court"
-        },
-        {
-            "source": "商业联盟",
-            "target": "Liên Minh Thương Nghiệp",
-            "category": "organization",
-            "source_language": "zh",
-            "target_language": "vi",
-            "note": "Commercial Alliance"
-        },
-        {
-            "source": "心灵之光",
-            "target": "Ánh sáng Tâm Linh",
-            "category": "cultivation",
-            "source_language": "zh",
-            "target_language": "vi",
-            "note": "Soul Light / Light of the Soul"
-        },
-        {
-            "source": "福地",
-            "target": "Phúc Địa",
-            "category": "location",
-            "source_language": "zh",
-            "target_language": "vi",
-            "note": "Blessed Land"
-        },
-        {
-            "source": "无底深渊",
-            "target": "Thâm Uyên Không Đáy",
-            "category": "location",
-            "source_language": "zh",
-            "target_language": "vi",
-            "note": "Bottomless Abyss"
-        },
-        {
-            "source": "九层地狱",
-            "target": "Chín Tầng Địa Ngục",
-            "category": "location",
-            "source_language": "zh",
-            "target_language": "vi",
-            "note": "Nine Hells"
-        },
-        {
-            "source": "红玫瑰冒险团",
-            "target": "Đội mạo hiểm Hoa Hồng Đỏ",
-            "category": "organization",
-            "source_language": "zh",
-            "target_language": "vi",
-            "note": "Red Rose Adventure Team"
-        },
-        {
-            "source": "先天灵宝",
-            "target": "Tiên Thiên Linh Bảo",
-            "category": "item",
-            "source_language": "zh",
-            "target_language": "vi",
-            "note": "Xiantian Spirit Treasure"
-        },
-        {
-            "source": "元婴",
-            "target": "Nguyên Anh",
-            "category": "cultivation",
-            "source_language": "zh",
-            "target_language": "vi",
-            "note": "Nascent Soul"
-        },
-        {
-            "source": "魔法塔",
-            "target": "Tháp Ma Pháp",
-            "category": "location",
-            "source_language": "zh",
-            "target_language": "vi",
-            "note": "Magic Tower"
-        },
-        {
-            "source": "黑客帝国",
-            "target": "Ma Trận",
-            "category": "worldbuilding",
-            "source_language": "zh",
-            "target_language": "vi",
-            "note": "The Matrix"
-        },
-        {
-            "source": "西兰",
-            "target": "Zion",
-            "category": "location",
-            "source_language": "zh",
-            "target_language": "vi",
-            "note": "Zion"
-        },
-        {
-            "source": "大伊万",
-            "target": "Tsar Bomba",
-            "category": "weapon",
-            "source_language": "zh",
-            "target_language": "vi",
-            "note": "Tsar Bomba"
-        },
-        {
-            "source": "东风",
-            "target": "Đông Phong",
-            "category": "weapon",
-            "source_language": "zh",
-            "target_language": "vi",
-            "note": "Dongfeng missiles"
-        },
-        {
-            "source": "六十四进制",
-            "target": "Hệ cơ số 64",
-            "category": "science_fantasy",
-            "source_language": "zh",
-            "target_language": "vi",
-            "note": "Base-64 system"
-        },
-        {
-            "source": "京观",
-            "target": "Kinh quán",
-            "category": "lore",
-            "source_language": "zh",
-            "target_language": "vi",
-            "note": "Head pyramid"
-        },
-        {
-            "source": "空门",
-            "target": "Không Môn",
-            "category": "location",
-            "source_language": "zh",
-            "target_language": "vi",
-            "note": "Void Door / Space Gate"
-        },
-        {
-            "source": "中洲队",
-            "target": "Đội Trung Châu",
-            "category": "organization",
-            "source_language": "zh",
-            "target_language": "vi",
-            "note": "Zhongzhou Team"
-        },
-        {
-            "source": "赵缀空",
-            "target": "Triệu Thuế Không",
-            "category": "character",
-            "source_language": "zh",
-            "target_language": "vi",
-            "note": "Zhao Zhuikong"
-        },
-        {
-            "source": "郑吒",
-            "target": "Trịnh Xá",
-            "category": "character",
-            "source_language": "zh",
-            "target_language": "vi",
-            "note": "Zheng Zha"
-        },
-        {
-            "source": "罗莉",
-            "target": "Lori",
-            "category": "character",
-            "source_language": "zh",
-            "target_language": "vi",
-            "note": "Lori"
-        },
-        {
-            "source": "养殖者小队",
-            "target": "Tiểu đội Dưỡng Thực Giả",
-            "category": "organization",
-            "source_language": "zh",
-            "target_language": "vi",
-            "note": "Breeding Team"
-        },
-        {
-            "source": "人狼",
-            "target": "Người Sói",
-            "category": "creature",
-            "source_language": "zh",
-            "target_language": "vi",
-            "note": "Werewolf"
-        },
-        {
-            "source": "千钧艮",
-            "target": "Thiên Quân Cấn",
-            "category": "technique",
-            "source_language": "zh",
-            "target_language": "vi",
-            "note": "Thousand-Jun Cấn"
-        },
-        {
-            "source": "螺旋离",
-            "target": "Loa Toàn Ly",
-            "category": "technique",
-            "source_language": "zh",
-            "target_language": "vi",
-            "note": "Spiral Ly"
-        },
-        {
-            "source": "九昧炎",
-            "target": "Cửu Muội Viêm",
-            "category": "technique",
-            "source_language": "zh",
-            "target_language": "vi",
-            "note": "Nine-Mai Flame"
-        },
-        {
-            "source": "狄拉克海",
-            "target": "Biển Dirac",
-            "category": "science_fantasy",
-            "source_language": "zh",
-            "target_language": "vi",
-            "note": "Dirac Sea"
-        },
-        {
-            "source": "假心灵之光",
-            "target": "Ánh Sáng Tâm Linh (Giả)",
-            "category": "cultivation",
-            "source_language": "zh",
-            "target_language": "vi",
-            "note": "Fake Soul Light"
-        },
-        {
-            "source": "曲率",
-            "target": "Khúc suất",
-            "category": "science_fantasy",
-            "source_language": "zh",
-            "target_language": "vi",
-            "note": "Curvature"
-        },
-        {
-            "source": "魔导科技",
-            "target": "Ma Đạo Khoa Kỹ",
-            "category": "science_fantasy",
-            "source_language": "zh",
-            "target_language": "vi",
-            "note": "Magi-tech"
-        },
-        {
-            "source": "剑气雷音",
-            "target": "Kiếm Khí Lôi Âm",
-            "category": "cultivation",
-            "source_language": "zh",
-            "target_language": "vi",
-            "note": "Sword Qi Lightning Sound"
-        },
-        {
-            "source": "阁下",
-            "target": "Gác hạ",
-            "category": "honorific",
-            "source_language": "zh",
-            "target_language": "vi",
-            "note": "Excellency (for Tier 4)"
-        },
-        {
-            "source": "闪华七骑士",
-            "target": "Bảy Kỵ Sĩ Thiểm Hoa",
-            "category": "organization",
-            "source_language": "zh",
-            "target_language": "vi",
-            "note": "Seven Luminous Knights"
-        },
-        {
-            "source": "传奇战役",
-            "target": "Chiến dịch Truyền Kỳ",
-            "category": "event",
-            "source_language": "zh",
-            "target_language": "vi",
-            "note": "Legendary Battle"
-        },
-        {
-            "source": "万族",
-            "target": "Vạn tộc",
-            "category": "worldbuilding",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "筑基",
-            "target": "Trúc cơ",
-            "category": "cultivation",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "金丹期",
-            "target": "Kim đan kỳ",
-            "category": "cultivation",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "真元力",
-            "target": "Chân nguyên lực",
-            "category": "cultivation",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "符文",
-            "target": "Phù văn",
-            "category": "proper_names_cn",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "奥术师",
-            "target": "Áo thuật sư",
-            "category": "proper_names_cn",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "地精族",
-            "target": "tộc Gnome",
-            "category": "worldbuilding",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "龙族",
-            "target": "Long tộc",
-            "category": "worldbuilding",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "洪荒世界",
-            "target": "Thế Giới Hồng Hoang",
-            "category": "worldbuilding",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "玄黄舰",
-            "target": "Hạm Huyền Hoàng",
-            "category": "worldbuilding",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "玄黄",
-            "target": "Huyền Hoàng",
-            "category": "worldbuilding",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "高阶",
-            "target": "Cao giai",
-            "category": "cultivation",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "昊天",
-            "target": "Hạo Thiên",
-            "category": "worldbuilding",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "基因锁",
-            "target": "Khóa Gen",
-            "category": "cultivation",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "记录员",
-            "target": "Ký lục viên",
-            "category": "worldbuilding",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "历史真文",
-            "target": "Lịch sử Chân văn",
-            "category": "worldbuilding",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "圣位",
-            "target": "Thánh vị",
-            "category": "cultivation",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "内宇宙",
-            "target": "Nội vũ trụ",
-            "category": "cultivation",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "永夜",
-            "target": "Vĩnh Dạ",
-            "category": "event",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "最初主神空间",
-            "target": "Tối sơ Chủ Thần Không Gian",
-            "category": "worldbuilding",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "主神空间",
-            "target": "Chủ Thần Không Gian",
-            "category": "worldbuilding",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "分则为圣，合则封神",
-            "target": "Phân tắc vi Thánh, hợp tắc Phong Thần",
-            "category": "quote",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "魂穿",
-            "target": "Hồn xuyên",
-            "category": "concept",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "太清学府",
-            "target": "Học phủ Thái Thanh",
-            "category": "worldbuilding",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "玉清学府",
-            "target": "Học phủ Ngọc Thanh",
-            "category": "worldbuilding",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "上清学府",
-            "target": "Học phủ Thượng Thanh",
-            "category": "worldbuilding",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "钻木取火",
-            "target": "Toản mộc thủ hỏa",
-            "category": "action",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "基础算术",
-            "target": "Thuật thuật cơ sở",
-            "category": "cultivation",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "算法",
-            "target": "Thuật thuật",
-            "category": "cultivation",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "青灰色巨狼",
-            "target": "Sói xám xanh",
-            "category": "creature",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "孤狼",
-            "target": "Sói cô độc",
-            "category": "creature",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "二阶基因锁",
-            "target": "Nhị giai Khóa Gen",
-            "category": "cultivation",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "光辉之战",
-            "target": "Chiến dịch Quang Huy",
-            "category": "event",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "光辉阵营",
-            "target": "Trận doanh Quang Huy",
-            "category": "worldbuilding",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "漆黑阵营",
-            "target": "Trận doanh Tất Hắc",
-            "category": "worldbuilding",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "炽天使",
-            "target": "Sí Thiên Sứ",
-            "category": "creature",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "召人",
-            "target": "Triệu nhân",
-            "category": "action",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "西兰之城",
-            "target": "Thành phố Zion",
-            "category": "location",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "永嘉之乱",
-            "target": "Biến loạn Vĩnh Gia",
-            "category": "event",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "杀晋令",
-            "target": "Sát Tấn lệnh",
-            "category": "event",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "坞堡",
-            "target": "Ổ bảo",
-            "category": "location",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "风鼠",
-            "target": "Phong Thử",
-            "category": "creature",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "主神空间广场",
-            "target": "Quảng trường Chủ Thần Không Gian",
-            "category": "location",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "上清战拳",
-            "target": "Thượng Thanh Chiến Quyền",
-            "category": "cultivation",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "支线剧情",
-            "target": "Cốt truyện phụ",
-            "category": "action",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "位面之子",
-            "target": "Vị diện chi tử",
-            "category": "worldbuilding",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "第四天灾",
-            "target": "Đệ tứ thiên tai",
-            "category": "worldbuilding",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "上清诛仙功",
-            "target": "Thượng Thanh Tru Tiên Công",
-            "category": "cultivation",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "冰心功",
-            "target": "Băng Tâm Công",
-            "category": "cultivation",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "汲取",
-            "target": "Hấp thụ",
-            "category": "action",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "集中",
-            "target": "Tập trung",
-            "category": "action",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "控制",
-            "target": "Khống chế",
-            "category": "action",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "爆发",
-            "target": "Bộc phát",
-            "category": "action",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "明犯强汉者，虽远必诛",
-            "target": "Kẻ nào xâm phạm cường Hán, dù xa cũng phải diệt",
-            "category": "lore",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "水运诀",
-            "target": "Thủy Vận Quyết",
-            "category": "cultivation",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "气感",
-            "target": "Khí cảm",
-            "category": "cultivation",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "筑基",
-            "target": "Trúc cơ",
-            "category": "cultivation",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "圣人",
-            "target": "Thánh nhân",
-            "category": "lore",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "仙人",
-            "target": "Tiên nhân",
-            "category": "lore",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "魅魔",
-            "target": "Mị ma",
-            "category": "creature",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "化血神刀",
-            "target": "Hóa Huyết Thần Đao",
-            "category": "weapon",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "先天一气",
-            "target": "Tiên Thiên Nhất Khí",
-            "category": "cultivation",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "奥术师",
-            "target": "Áo thuật sư",
-            "category": "profession",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "逻辑族",
-            "target": "Tộc Logic",
-            "category": "race",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "自启",
-            "target": "Tự khải",
-            "category": "action",
-            "source_language": "zh",
-            "target_language": "vi"
-        },
-        {
-            "source": "高等地精",
-            "target": "Địa Tinh Cao Cấp",
-            "type": "race",
-            "note": "Higher Goblin"
-        },
-        {
-            "source": "灵位",
-            "target": "Linh vị",
-            "type": "rank",
-            "note": "Spiritual Position"
-        },
-        {
-            "source": "真圣",
-            "target": "Chân Thánh",
-            "type": "rank",
-            "note": "True Saint"
-        },
-        {
-            "source": "炽天使长",
-            "target": "Thiên Sứ Trưởng",
-            "type": "title",
-            "note": "Seraph"
-        },
-        {
-            "source": "捧杀",
-            "target": "Bồng sát",
-            "type": "idiom",
-            "note": "Tâng bốc quá mức để hại"
-        },
-        {
-            "source": "子牙",
-            "target": "Tử Nha",
-            "type": "character",
-            "note": "Blood Clan strategists"
-        },
-        {
-            "source": "血沸战士",
-            "target": "Chiến sĩ Huyết Phí",
-            "type": "rank",
-            "note": "Blood Boiling Warrior"
-        },
-        {
-            "source": "始祖隐",
-            "target": "Thủy tổ Ẩn",
-            "type": "character",
-            "note": "Ancestor Yin"
-        },
-        {
-            "source": "初拥",
-            "target": "Sơ ủng",
-            "type": "term",
-            "note": "First Embrace"
-        },
-        {
-            "source": "死魔法场",
-            "target": "Pháp trường Tử Ma",
-            "type": "term",
-            "note": "Dead Magic Field"
-        },
-        {
-            "source": "瞑目",
-            "target": "Minh mục",
-            "type": "term",
-            "note": "Close eyes at death"
-        },
-        {
-            "source": "暗桩",
-            "target": "Ám trang",
-            "type": "term",
-            "note": "Undercover agents"
-        },
-        {
-            "source": "智者",
-            "target": "Trí giả",
-            "type": "rank",
-            "note": "Strategist/Thinker"
-        },
-        {
-            "source": "阿莫尔",
-            "target": "Amor",
-            "type": "character",
-            "note": "Amor - Reincarnation Team Strategist"
-        },
-        {
-            "source": "掌中位面",
-            "target": "Chưởng trung vị diện",
-            "type": "item",
-            "note": "Palm Plane"
-        },
-        {
-            "source": "洞天福地",
-            "target": "Động thiên phúc địa",
-            "type": "term",
-            "note": "Grotto-heaven"
-        },
-        {
-            "source": "血族牧场",
-            "target": "Trang trại Huyết tộc",
-            "type": "term",
-            "note": "Blood Clan Ranch"
-        },
-        {
-            "source": "铁山城",
-            "target": "Thành phố Thiết Sơn",
-            "type": "location",
-            "note": "Iron Mountain City"
-        },
-        {
-            "source": "高科技福音公司",
-            "target": "Công ty Cao khoa học Phúc âm",
-            "type": "organization",
-            "note": "Hi-tech Gospel Company"
-        },
-        {
-            "source": "洗钱",
-            "target": "Tẩy tiền",
-            "type": "term",
-            "note": "Money laundering"
-        },
-        {
-            "source": "命运之子",
-            "target": "Con của Định Mệnh",
-            "type": "term",
-            "note": "Son of Destiny"
-        },
-        {
-            "source": "正统修真者",
-            "target": "Chính Thống Tu Chân giả",
-            "type": "rank",
-            "note": "Orthodox Cultivators"
-        },
-        {
-            "source": "开天辟地",
-            "target": "Khai thiên lập địa",
-            "type": "term",
-            "note": "Creating the world"
-        },
-        {
-            "source": "合天道",
-            "target": "Hợp thiên đạo",
-            "type": "term",
-            "note": "Merging with the Heavenly Way"
-        },
-        {
-            "source": "排除法",
-            "target": "Phương pháp loại trừ",
-            "type": "term",
-            "note": "Exclusion Principle"
-        },
-        {
-            "source": "捉迷藏",
-            "target": "Trò trốn tìm",
-            "type": "term",
-            "note": "Hide and seek"
-        },
-        {
-            "source": "战书",
-            "target": "Chiến thư",
-            "type": "term",
-            "note": "Challenge Letter"
-        },
-        {
-            "source": "树精",
-            "target": "Thụ tinh",
-            "type": "race",
-            "note": "Dryad/Tree Spirit"
-        },
-        {
-            "source": "置之死地而后生",
-            "target": "Đặt mình vào chỗ chết rồi mới sống",
-            "type": "idiom",
-            "note": "Đặt mình vào chỗ chết rồi mới sống"
-        },
-        {
-            "source": "警督",
-            "target": "Cảnh đốc",
-            "type": "rank",
-            "note": "Cảnh sát trưởng"
-        },
-        {
-            "source": "人马族",
-            "target": "tộc Nhân mã",
-            "type": "race",
-            "note": "Centaur"
-        },
-        {
-            "source": "诺比汗",
-            "target": "Nobihan",
-            "type": "character",
-            "note": "Centaur Investigator"
-        },
-        {
-            "source": "实封领地",
-            "target": "Lãnh địa thực phong",
-            "type": "term",
-            "note": "Full feudal territory"
-        },
-        {
-            "source": "虚封领地",
-            "target": "Lãnh địa hư phong",
-            "type": "term",
-            "note": "Nominal/Symbolic territory"
-        },
-        {
-            "source": "直辖领地",
-            "target": "Lãnh địa trực hạt",
-            "type": "term",
-            "note": "Directly-governed territory"
-        },
-        {
-            "source": "道韵反应堆",
-            "target": "Lò phản ứng Đạo vận/Đạo Vận Phản Ứng Đồ",
-            "type": "item",
-            "note": "Dao-rhyme Reactor"
-        },
-        {
-            "source": "乾坤接收器",
-            "target": "Máy thu Càn Khôn/Càn Khôn Tiếp Thu Khí",
-            "type": "item",
-            "note": "Máy thu Càn Khôn"
-        },
-        {
-            "source": "万象天引仪",
-            "target": "Máy dẫn Vạn Tượng/Vạn Tượng Thiên Dẫn Nghi",
-            "type": "item",
-            "note": "Máy dẫn Vạn Tượng"
-        },
-        {
-            "source": "八卦符文固化设备",
-            "target": "Thiết bị cố định Bát quái phù văn",
-            "type": "item",
-            "note": "Thiết bị cố định Bát quái phù văn"
-        },
-        {
-            "source": "天都紫火炉",
-            "target": "Lò Tử Hỏa Thiên Đô/Thiên Đô Tử Hỏa Lô",
-            "type": "item",
-            "note": "Lò Tử Hỏa Thiên Đô"
-        },
-        {
-            "source": "玄黄青火炉",
-            "target": "Lò Thanh Hỏa Huyền Hoàng/Huyền Hoàng Thanh Hỏa Lô",
-            "type": "item",
-            "note": "Lò Thanh Hỏa Huyền Hoàng"
-        },
-        {
-            "source": "荒古黄火炉",
-            "target": "Lò Hoàng Hỏa Hoang Cổ/Hoang Cổ Hoàng Hỏa Lô",
-            "type": "item",
-            "note": "Lò Hoàng Hỏa Hoang Cổ"
-        },
-        {
-            "source": "天地玄黄炮",
-            "target": "Pháo Thiên Địa Huyền Hoàng/Thiên Địa Huyền Hoàng Pháo",
-            "type": "weapon",
-            "note": "Pháo Thiên Địa Huyền Hoàng"
-        },
-        {
-            "source": "多炮塔神教",
-            "target": "Giáo phái Đa Pháo Tháp",
-            "type": "term",
-            "note": "Giáo phái Đa Pháo Tháp"
-        },
-        {
-            "source": "黄巾力士",
-            "target": "Hoàng Cân Lực Sĩ",
-            "type": "summon",
-            "note": "Yellow Turban Warriors"
-        },
-        {
-            "source": "塔灵",
-            "target": "Tháp linh",
-            "type": "term",
-            "note": "Tower Spirit"
-        },
-        {
-            "source": "龙巫妖",
-            "target": "Long Vu Yêu",
-            "type": "creature",
-            "note": "Dragon Lich"
-        },
-        {
-            "source": "先天灵宝",
-            "target": "Tiên Thiên Linh Bảo",
-            "type": "item",
-            "note": "Innate Spiritual Treasure"
-        },
-        {
-            "source": "天地玄黄玲珑宝塔",
-            "target": "Thiên Địa Huyền Hoàng Linh Lung Bảo Tháp",
-            "type": "item",
-            "note": "Heaven and Earth Xuanhuang Pagoda"
-        },
-        {
-            "source": "太极图",
-            "target": "Thái Cực Đồ",
-            "type": "item",
-            "note": "Taiji Diagram"
-        },
-        {
-            "source": "盘古幡",
-            "target": "Bàn Cổ Phiên",
-            "type": "item",
-            "note": "Pangu Banner"
-        },
-        {
-            "source": "混元金斗",
-            "target": "Hỗn Nguyên Kim Đấu",
-            "type": "item",
-            "note": "Primordial Golden Bucket"
-        },
-        {
-            "source": "金蛟剪",
-            "target": "Kim Giao Tiễn",
-            "type": "item",
-            "note": "Golden Dragon Scissors"
-        },
-        {
-            "source": "如意金箍棒",
-            "target": "Như Ý Kim Cô Bổng",
-            "type": "item",
-            "note": "Ruyi Jingu Bang"
-        },
-        {
-            "source": "定海神珠",
-            "target": "Định Hải Thần Châu",
-            "type": "item",
-            "note": "Sea-Fixing Pearl"
-        },
-        {
-            "source": "昊天镜",
-            "target": "Hạo Thiên Kính",
-            "type": "item",
-            "note": "Haotian Mirror"
-        },
-        {
-            "source": "河图洛书",
-            "target": "Hà Đồ Lạc Thư",
-            "type": "item",
-            "note": "Hetu Luoshu"
-        },
-        {
-            "source": "东皇钟",
-            "target": "Đông Hoàng Chung",
-            "type": "item",
-            "note": "Donghuang Bell"
-        },
-        {
-            "zh": "基因锁",
-            "vi": "Khóa Gen",
-            "en": "Gene Lock",
-            "desc": "Khái niệm then chốt trong vũ trụ Zhttty, chỉ việc phá vỡ giới hạn gen nhân loại để bộc phát sức mạnh và bản năng chiến đấu."
-        },
-        {
-            "zh": "第一阶",
-            "vi": "Đệ nhất giai",
-            "en": "Stage 1",
-            "desc": "Giai đoạn đầu của Gen Tỏa, bộc phát bản năng chiến đấu và tinh chuẩn khống chế cơ thể."
-        },
-        {
-            "zh": "黑客帝国",
-            "vi": "Ma Trận",
-            "en": "The Matrix",
-            "desc": "Thế giới trong phim Ma Trận, bối cảnh nhiệm vụ của Vương Vũ."
-        },
-        {
-            "zh": "西兰",
-            "vi": "Tây Lan",
-            "en": "Zealand / Zion",
-            "desc": "Thành phố cuối cùng của nhân loại trong thế giới Ma Trận (phiên âm từ Zion)."
-        },
-        {
-            "zh": "大伊万",
-            "vi": "Đại Y Vạn",
-            "en": "Tsar Bomba",
-            "desc": "Bom Sa Hoàng, vũ khí hạt nhân mạnh nhất lịch sử nhân loại."
-        },
-        {
-            "zh": "气运之子",
-            "vi": "Khí vận chi tử",
-            "en": "Child of Fortune",
-            "desc": "Người có vận may lớn trong một thời kỳ."
-        },
-        {
-            "zh": "时代之子",
-            "vi": "Thời đại chi tử",
-            "en": "Child of the Era",
-            "desc": "Người dẫn dắt và thúc đẩy cả một thời đại."
-        },
-        {
-            "zh": "位面之子",
-            "vi": "Vị diện chi tử",
-            "en": "Child of the Plane",
-            "desc": "Người được cả vị diện chiếu cố, thường xuất hiện để cứu vãn thế giới."
-        },
-        {
-            "zh": "人类之子",
-            "vi": "Nhân loại chi tử",
-            "en": "Son of Humanity",
-            "desc": "Danh hiệu tối cao dành riêng cho Nhân Hoàng Phục Hy."
-        },
-        {
-            "zh": "掌上位面",
-            "vi": "Chưởng thượng vị diện",
-            "en": "Palm Plane",
-            "desc": "Một loại không gian độc lập có thể thu nhỏ trong lòng bàn tay, dùng làm nơi trú ẩn hoặc vũ khí."
-        },
-        {
-            "zh": "弗拉德三世",
-            "vi": "Phất Lạp Đức tam thế",
-            "en": "Vlad III",
-            "desc": "Đại công tước Vlad III (Dracula), nguồn gốc của văn hóa Ma cà rồng."
-        },
-        {
-            "zh": "阿雅丹",
-            "vi": "Ayadan",
-            "en": "Ayadan",
-            "desc": "Bá tước Ayadan"
-        },
-        {
-            "zh": "诺语",
-            "vi": "Nuoyu",
-            "en": "Nuoyu",
-            "desc": "Hầu tước Nuoyu"
-        },
-        {
-            "zh": "洛仑",
-            "vi": "Luolun",
-            "en": "Luolun",
-            "desc": "Hầu tước Luolun"
-        },
-        {
-            "zh": "灵魂契约",
-            "vi": "Khế ước linh hồn",
-            "en": "Soul Contract",
-            "desc": "Contract binding the soul"
-        },
-        {
-            "zh": "达芬铎",
-            "vi": "Davindo",
-            "en": "Dafenda",
-            "desc": "Ngô Minh's Butler"
-        },
-        {
-            "zh": "阿芙蕾",
-            "vi": "Afrey",
-            "en": "Afulei",
-            "desc": "Dryad Maid"
-        },
-        {
-            "zh": "小莉",
-            "vi": "Tiểu Lợi",
-            "en": "Xiao Li",
-            "desc": "Cat-ear Maid"
-        },
-        {
-            "zh": "玄黄石",
-            "vi": "Huyền Hoàng thạch",
-            "en": "Xuanhuang Stone",
-            "desc": "Essential fuel/ammo for Xuanhuang Cannon"
-        },
-        {
-            "zh": "欧贝利斯克的巨神兵",
-            "vi": "Obelisk chi Cự Thần Binh",
-            "en": "Obelisk the Tormentor",
-            "desc": "One of the Three Egyptian Gods"
-        },
-        {
-            "zh": "无尽森林",
-            "vi": "Vô Tận sâm lâm",
-            "en": "Endless Forest",
-            "desc": "A dangerous forest region"
-        },
-        {
-            "zh": "血之议会",
-            "vi": "Huyết chi nghị hội",
-            "en": "Blood Council",
-            "desc": "Governing body of the Blood Clan"
-        },
-        {
-            "zh": "大局",
-            "vi": "Đại cục",
-            "en": "Big Picture",
-            "desc": "The general situation or major interest"
-        },
-        {
-            "zh": "李铭",
-            "vi": "Lý Minh",
-            "en": "Li Ming",
-            "desc": "A human from the future with a Zhu Xian Sword"
-        },
-        {
-            "zh": "沙虫族",
-            "vi": "Sa Trùng tộc",
-            "en": "Sandworm race",
-            "desc": "A race of sandworms"
-        },
-        {
-            "zh": "盖亚",
-            "vi": "Gaia",
-            "en": "Gaia",
-            "desc": "The world consciousness"
-        },
-        {
-            "zh": "真实历史",
-            "vi": "Lịch sử Chân thực",
-            "en": "True History",
-            "desc": "An organization following true history"
-        },
-        {
-            "zh": "北海荒漠原",
-            "vi": "Bắc Hải hoang mạc nguyên",
-            "en": "North Sea Desert Plain",
-            "desc": "A desert region"
-        },
-        {
-            "zh": "诛仙剑",
-            "vi": "Tru Tiên Kiếm",
-            "en": "Zhu Xian Sword",
-            "desc": "Legendary sword"
-        },
-        {
-            "zh": "冒险团",
-            "vi": "Đoàn mạo hiểm",
-            "en": "Adventure Group",
-            "desc": "Group of adventurers"
-        },
-        {
-            "zh": "道韵",
-            "vi": "Đạo vận",
-            "en": "Dao Rhyme/Dao Rhythm",
-            "desc": "Information source for orthodox cultivation"
-        },
-        {
-            "zh": "血红玫瑰",
-            "vi": "Hoa Hồng Đỏ",
-            "en": "Blood Red Rose",
-            "desc": "Lilith's Adventure Group"
-        },
-        {
-            "zh": "莉莉丝",
-            "vi": "Lị Lị Ti",
-            "en": "Lilith",
-            "desc": "Captain of Blood Red Rose, future Saint"
-        },
-        {
-            "zh": "灵石",
-            "vi": "Linh thạch",
-            "en": "Spirit Stone",
-            "desc": "Currency/Energy resource"
-        },
-        {
-            "zh": "大复仇",
-            "vi": "Đại phục thù",
-            "en": "Great Revenge",
-            "desc": "Philosophy of seeking justice for even old wrongs"
-        },
-        {
-            "zh": "地狱熔炉",
-            "vi": "Địa ngục hỏa lò",
-            "en": "Hellforge",
-            "desc": "Special forge in Abyss/Diablo"
-        },
-        {
-            "zh": "标签",
-            "vi": "Nhãn dán",
-            "en": "Label/Tag",
-            "desc": "One's public image or persona"
-        },
-        {
-            "zh": "分身",
-            "vi": "Phân thân",
-            "en": "Clone/Avatar",
-            "desc": "A manifestation or clone of a powerful being"
-        },
-        {
-            "zh": "三魔神",
-            "vi": "Tam Đại Ma Thần",
-            "en": "Three Greater Evils",
-            "desc": "Main bosses in Diablo II trial"
-        },
-        {
-            "zh": "奈非天",
-            "vi": "Nephalem",
-            "en": "Nephalem",
-            "desc": "Hybrid race in Diablo II"
-        },
-        {
-            "zh": "地狱熔炉",
-            "vi": "Lò luyện Địa Ngục",
-            "en": "Hellforge",
-            "desc": "Demonic forge to be destroyed"
-        },
-        {
-            "zh": "修复",
-            "vi": "phục hồi",
-            "en": "repair/restore",
-            "desc": "God space restoration function"
-        },
-        {
-            "zh": "死亡骑士",
-            "vi": "Tử Vong Kỵ Sĩ",
-            "en": "Death Knight",
-            "desc": "Elite undead unit"
-        },
-        {
-            "zh": "法式本源",
-            "vi": "Bản nguyên pháp thức",
-            "en": "Magic base pattern",
-            "desc": "Core structure of a magic spell"
-        },
-        {
-            "zh": "顺推",
-            "vi": "Thuận suy",
-            "en": "Forward derivation",
-            "desc": "Traditional method of learning runes from bottom-up"
-        },
-        {
-            "zh": "逆推",
-            "vi": "Nghịch suy",
-            "en": "Reverse derivation",
-            "desc": "Advanced cultivation method deriving origin from core runes"
-        },
-        {
-            "zh": "返本还源",
-            "vi": "Phản Bản Hoàn Nguyên",
-            "en": "Return to the origin",
-            "desc": "Process of returning items/runes to their original primordial state"
-        },
-        {
-            "zh": "天启四骑士",
-            "vi": "Thiên Khải Tứ Kỵ Sĩ",
-            "en": "Four Horsemen of the Apocalypse",
-            "desc": "Legendary Saint-level figures in future history"
-        },
-        {
-            "zh": "地灵族",
-            "vi": "tộc Gnome",
-            "en": "Gnome race",
-            "desc": "Scientific-magical race, creators of Gnomish technology"
-        },
-        {
-            "zh": "天蛇族",
-            "vi": "tộc Thiên Xà",
-            "en": "Heavenly Snake race",
-            "desc": "Biotech advanced race, twins of Gnomes"
-        },
-        {
-            "zh": "机界升华",
-            "vi": "Cơ Giới Thăng Hoa",
-            "en": "Machine World Ascension",
-            "desc": "Gnomish catastrophic project"
-        },
-        {
-            "zh": "苍白之地",
-            "vi": "Vùng đất Thương Bạch",
-            "en": "White Land",
-            "desc": "Metallic wasteland created by Gnomes"
-        },
-        {
-            "zh": "不周山",
-            "vi": "Bất Chu Sơn/núi Bất Chu",
-            "en": "Mount Buzhou",
-            "desc": "The Pillar of Heaven"
-        },
-        {
-            "zh": "欧贝利斯克的巨神兵",
-            "vi": "Cự Thần Binh Obelisk",
-            "en": "Obelisk the Tormentor",
-            "desc": "Gnomish Titan weapon"
-        },
-        {
-            "zh": "苍白之地",
-            "vi": "Vùng đất Thương Bạch",
-            "desc": "Pale Land, where Bất Chu Sơn clues are found."
-        },
-        {
-            "zh": "先天至宝",
-            "vi": "Tiên Thiên Chí Bảo",
-            "desc": "Top-tier Primordial Spiritual Treasures."
-        },
-        {
-            "zh": "昊天镜",
-            "vi": "Hạo Thiên Kính",
-            "desc": "One of the four Tiên Thiên Chí Bảo."
-        },
-        {
-            "zh": "天地玄黄玲珑宝塔",
-            "vi": "Thiên Địa Huyền Hoàng Linh Lung Bảo Tháp",
-            "desc": "One of the four Tiên Thiên Chí Bảo."
-        },
-        {
-            "zh": "盘古斧",
-            "vi": "Bàn Cổ Phủ",
-            "desc": "One of the four Tiên Thiên Chí Bảo."
-        },
-        {
-            "zh": "造化玉碟",
-            "vi": "Tạo Hóa Ngọc Điệp",
-            "desc": "One of the four Tiên Thiên Chí Bảo."
-        },
-        {
-            "zh": "轮回盘",
-            "vi": "Luân Hồi Bàn",
-            "desc": "Top-tier Tiên Thiên Linh Bảo."
-        },
-        {
-            "zh": "九幽泉水",
-            "vi": "Cửu U Tuyền Thủy",
-            "desc": "Styx Water/Nine-Serenity Spring Water."
-        },
-        {
-            "zh": "后土氏",
-            "vi": "Hậu Thổ Thị",
-            "desc": "Houtu, deity/power associated with reincarnation and earth."
-        },
-        {
-            "zh": "天启四骑士",
-            "vi": "Bốn Kỵ Sĩ Khải Huyền",
-            "desc": "Four Horsemen: War, Death, Famine, Plague."
-        },
-        {
-            "zh": "亚龙平原",
-            "vi": "Bình nguyên Á Long",
-            "desc": "Yamano Plain, scene of betrayal."
-        },
-        {
-            "zh": "半神",
-            "vi": "Bán Thần",
-            "desc": "Demigod, mid-tier 4th rank."
-        },
-        {
-            "zh": "空门",
-            "vi": "Không Môn",
-            "desc": "Void Gate, unstable teleportation portals."
-        },
-        {
-            "zh": "子牙",
-            "vi": "Tử Nha",
-            "desc": "Zi-Ya, Ngô Minh's brilliant strategist."
-        },
-        {
-            "zh": "打算",
-            "vi": "Dự định",
-            "desc": "Intention/Plan."
-        },
-        {
-            "zh": "咸鱼",
-            "vi": "Cá mặn",
-            "desc": "Lazy person, 'Salted fish'."
-        },
-        {
-            "zh": "附魔术",
-            "vi": "Thuật phụ ma",
-            "desc": "Enchanting."
-        },
-        {
-            "zh": "锋锐术",
-            "vi": "Thuật Sắc Bén",
-            "desc": "Sharpness spell."
-        },
-        {
-            "zh": "幽冥骑士",
-            "vi": "Kỵ Sĩ U Minh",
-            "desc": "Nether Knight."
-        },
-        {
-            "zh": "戴森球",
-            "vi": "Quả cầu Dyson",
-            "desc": "Dyson Sphere."
-        },
-        {
-            "zh": "模因",
-            "vi": "Mô nhân",
-            "desc": "Meme (anomalous concept/pattern)."
-        },
-        {
-            "zh": "失落",
-            "vi": "Thất lạc",
-            "desc": "Lost (trial world name)."
-        },
-        {
-            "zh": "电磁炮",
-            "vi": "Pháo điện từ",
-            "desc": "Railgun."
-        },
-        {
-            "zh": "玄黄一号",
-            "vi": "Huyền Hoàng No. 1",
-            "desc": "Dao Yun Intellect (Trí não Đạo vận) managing the Blessed Land."
-        },
-        {
-            "zh": "灵魂烙印",
-            "vi": "Linh hồn lạc ấn",
-            "desc": "Soul Brand / Soul Impression."
-        },
-        {
-            "zh": "化血神刀",
-            "vi": "Hóa Huyết Thần Đao",
-            "desc": "Blood-Refining God Blade (Ngô Minh's signature weapon)."
-        },
-        {
-            "zh": "缩爆弹",
-            "vi": "Súc Bạo Đạn",
-            "desc": "Implosion Bomb (Tactical/Strategic nuke used by High Gnomes)."
-        },
-        {
-            "zh": "掠夺者联盟",
-            "vi": "Liên minh Lược Đoạt Giả",
-            "desc": "Raider Alliance (Orc/Centaur faction)."
-        },
-        {
-            "zh": "阿比菲斯二世",
-            "vi": "Abiphys II",
-            "desc": "High Gnome Prime Minister."
-        },
-        {
-            "zh": "道韵反应堆",
-            "vi": "(Lò phản ứng Đạo vận)",
-            "desc": "Dao Yun Reactor."
-        },
-        {
-            "zh": "基础身体属性",
-            "vi": "Thuộc tính cơ bản",
-            "desc": "Base Attributes."
-        },
-        {
-            "zh": "后天身体属性",
-            "vi": "Thuộc tính hậu thiên",
-            "desc": "Post-natal Attributes."
-        },
-        {
-            "zh": "心灵之光",
-            "vi": "Ánh Sáng Tâm Linh",
-            "desc": "Soul Light / Light of the Soul (4th level Genetic Lock feature)."
-        },
-        {
-            "zh": "道域",
-            "vi": "Đạo Vực",
-            "desc": "Dao Domain (Orthodox Cultivator's ability)."
-        },
-        {
-            "zh": "九幽泉水",
-            "vi": "Cửu U Tuyền Thủy",
-            "desc": "Nine Nether Spring Water (Refining material)."
-        },
-        {
-            "zh": "幽冥血海凝缩液",
-            "vi": "U Minh Huyết Hải Ngưng Súc Dịch",
-            "desc": "Nether Blood Sea Concentrated Liquid (Refining material)."
-        },
-        {
-            "zh": "幽冥体",
-            "vi": "U Minh Thể",
-            "desc": "Nether Body (Refining material)."
-        }
-    ]
+    {
+      "source": "洪荒天庭",
+      "source_language": "zh",
+      "target": "Thiên Đình Hồng Hoang",
+      "category": "organization",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Great Desolate Heavenly Court",
+      "locked": false
+    },
+    {
+      "source": "商业联盟",
+      "source_language": "zh",
+      "target": "Liên Minh Thương Nghiệp",
+      "category": "organization",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Commercial Alliance",
+      "locked": false
+    },
+    {
+      "source": "心灵之光",
+      "source_language": "zh",
+      "target": "Ánh sáng Tâm Linh",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Soul Light / Light of the Soul",
+      "locked": false
+    },
+    {
+      "source": "福地",
+      "source_language": "zh",
+      "target": "Phúc Địa",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Blessed Land",
+      "locked": false
+    },
+    {
+      "source": "无底深渊",
+      "source_language": "zh",
+      "target": "Thâm Uyên Không Đáy",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Bottomless Abyss",
+      "locked": false
+    },
+    {
+      "source": "九层地狱",
+      "source_language": "zh",
+      "target": "Chín Tầng Địa Ngục",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Nine Hells",
+      "locked": false
+    },
+    {
+      "source": "红玫瑰冒险团",
+      "source_language": "zh",
+      "target": "Đội mạo hiểm Hoa Hồng Đỏ",
+      "category": "organization",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Red Rose Adventure Team",
+      "locked": false
+    },
+    {
+      "source": "先天灵宝",
+      "source_language": "zh",
+      "target": "Tiên Thiên Linh Bảo",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Xiantian Spirit Treasure",
+      "locked": false
+    },
+    {
+      "source": "元婴",
+      "source_language": "zh",
+      "target": "Nguyên Anh",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Nascent Soul",
+      "locked": false
+    },
+    {
+      "source": "魔法塔",
+      "source_language": "zh",
+      "target": "Tháp Ma Pháp",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Magic Tower",
+      "locked": false
+    },
+    {
+      "source": "黑客帝国",
+      "source_language": "zh",
+      "target": "Ma Trận",
+      "category": "worldbuilding",
+      "context": "",
+      "confidence": "medium",
+      "notes": "The Matrix",
+      "locked": false
+    },
+    {
+      "source": "西兰",
+      "source_language": "zh",
+      "target": "Zion",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Zion",
+      "locked": false
+    },
+    {
+      "source": "大伊万",
+      "source_language": "zh",
+      "target": "Tsar Bomba",
+      "category": "weapon",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tsar Bomba",
+      "locked": false
+    },
+    {
+      "source": "东风",
+      "source_language": "zh",
+      "target": "Đông Phong",
+      "category": "weapon",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Dongfeng missiles",
+      "locked": false
+    },
+    {
+      "source": "六十四进制",
+      "source_language": "zh",
+      "target": "Hệ cơ số 64",
+      "category": "science_fantasy",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Base-64 system",
+      "locked": false
+    },
+    {
+      "source": "京观",
+      "source_language": "zh",
+      "target": "Kinh quán",
+      "category": "lore",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Head pyramid",
+      "locked": false
+    },
+    {
+      "source": "空门",
+      "source_language": "zh",
+      "target": "Không Môn",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Void Door / Space Gate",
+      "locked": false
+    },
+    {
+      "source": "中洲队",
+      "source_language": "zh",
+      "target": "Đội Trung Châu",
+      "category": "organization",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Zhongzhou Team",
+      "locked": false
+    },
+    {
+      "source": "赵缀空",
+      "source_language": "zh",
+      "target": "Triệu Thuế Không",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Zhao Zhuikong",
+      "locked": false
+    },
+    {
+      "source": "郑吒",
+      "source_language": "zh",
+      "target": "Trịnh Xá",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Zheng Zha",
+      "locked": false
+    },
+    {
+      "source": "罗莉",
+      "source_language": "zh",
+      "target": "Lori",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Lori",
+      "locked": false
+    },
+    {
+      "source": "养殖者小队",
+      "source_language": "zh",
+      "target": "Tiểu đội Dưỡng Thực Giả",
+      "category": "organization",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Breeding Team",
+      "locked": false
+    },
+    {
+      "source": "人狼",
+      "source_language": "zh",
+      "target": "Người Sói",
+      "category": "creature",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Werewolf",
+      "locked": false
+    },
+    {
+      "source": "千钧艮",
+      "source_language": "zh",
+      "target": "Thiên Quân Cấn",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thousand-Jun Cấn",
+      "locked": false
+    },
+    {
+      "source": "螺旋离",
+      "source_language": "zh",
+      "target": "Loa Toàn Ly",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Spiral Ly",
+      "locked": false
+    },
+    {
+      "source": "九昧炎",
+      "source_language": "zh",
+      "target": "Cửu Muội Viêm",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Nine-Mai Flame",
+      "locked": false
+    },
+    {
+      "source": "狄拉克海",
+      "source_language": "zh",
+      "target": "Biển Dirac",
+      "category": "science_fantasy",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Dirac Sea",
+      "locked": false
+    },
+    {
+      "source": "假心灵之光",
+      "source_language": "zh",
+      "target": "Ánh Sáng Tâm Linh (Giả)",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Fake Soul Light",
+      "locked": false
+    },
+    {
+      "source": "曲率",
+      "source_language": "zh",
+      "target": "Khúc suất",
+      "category": "science_fantasy",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Curvature",
+      "locked": false
+    },
+    {
+      "source": "魔导科技",
+      "source_language": "zh",
+      "target": "Ma Đạo Khoa Kỹ",
+      "category": "science_fantasy",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Magi-tech",
+      "locked": false
+    },
+    {
+      "source": "剑气雷音",
+      "source_language": "zh",
+      "target": "Kiếm Khí Lôi Âm",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Sword Qi Lightning Sound",
+      "locked": false
+    },
+    {
+      "source": "阁下",
+      "source_language": "zh",
+      "target": "Gác hạ",
+      "category": "honorific",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Excellency (for Tier 4)",
+      "locked": false
+    },
+    {
+      "source": "闪华七骑士",
+      "source_language": "zh",
+      "target": "Bảy Kỵ Sĩ Thiểm Hoa",
+      "category": "organization",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Seven Luminous Knights",
+      "locked": false
+    },
+    {
+      "source": "传奇战役",
+      "source_language": "zh",
+      "target": "Chiến dịch Truyền Kỳ",
+      "category": "event",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Legendary Battle",
+      "locked": false
+    },
+    {
+      "source": "万族",
+      "source_language": "zh",
+      "target": "Vạn tộc",
+      "category": "worldbuilding",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "筑基",
+      "source_language": "zh",
+      "target": "Trúc cơ",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "金丹期",
+      "source_language": "zh",
+      "target": "Kim đan kỳ",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "真元力",
+      "source_language": "zh",
+      "target": "Chân nguyên lực",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "符文",
+      "source_language": "zh",
+      "target": "Phù văn",
+      "category": "proper_names_cn",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "奥术师",
+      "source_language": "zh",
+      "target": "Áo thuật sư",
+      "category": "proper_names_cn",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "地精族",
+      "source_language": "zh",
+      "target": "tộc Gnome",
+      "category": "worldbuilding",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "龙族",
+      "source_language": "zh",
+      "target": "Long tộc",
+      "category": "worldbuilding",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "洪荒世界",
+      "source_language": "zh",
+      "target": "Thế Giới Hồng Hoang",
+      "category": "worldbuilding",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "玄黄舰",
+      "source_language": "zh",
+      "target": "Hạm Huyền Hoàng",
+      "category": "worldbuilding",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "玄黄",
+      "source_language": "zh",
+      "target": "Huyền Hoàng",
+      "category": "worldbuilding",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "高阶",
+      "source_language": "zh",
+      "target": "Cao giai",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "昊天",
+      "source_language": "zh",
+      "target": "Hạo Thiên",
+      "category": "worldbuilding",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "基因锁",
+      "source_language": "zh",
+      "target": "Khóa Gen",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "记录员",
+      "source_language": "zh",
+      "target": "Ký lục viên",
+      "category": "worldbuilding",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "历史真文",
+      "source_language": "zh",
+      "target": "Lịch sử Chân văn",
+      "category": "worldbuilding",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "圣位",
+      "source_language": "zh",
+      "target": "Thánh vị",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "内宇宙",
+      "source_language": "zh",
+      "target": "Nội vũ trụ",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "永夜",
+      "source_language": "zh",
+      "target": "Vĩnh Dạ",
+      "category": "event",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "最初主神空间",
+      "source_language": "zh",
+      "target": "Tối sơ Chủ Thần Không Gian",
+      "category": "worldbuilding",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "主神空间",
+      "source_language": "zh",
+      "target": "Chủ Thần Không Gian",
+      "category": "worldbuilding",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "分则为圣，合则封神",
+      "source_language": "zh",
+      "target": "Phân tắc vi Thánh, hợp tắc Phong Thần",
+      "category": "quote",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "魂穿",
+      "source_language": "zh",
+      "target": "Hồn xuyên",
+      "category": "concept",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "太清学府",
+      "source_language": "zh",
+      "target": "Học phủ Thái Thanh",
+      "category": "worldbuilding",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "玉清学府",
+      "source_language": "zh",
+      "target": "Học phủ Ngọc Thanh",
+      "category": "worldbuilding",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "上清学府",
+      "source_language": "zh",
+      "target": "Học phủ Thượng Thanh",
+      "category": "worldbuilding",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "钻木取火",
+      "source_language": "zh",
+      "target": "Toản mộc thủ hỏa",
+      "category": "action",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "基础算术",
+      "source_language": "zh",
+      "target": "Thuật thuật cơ sở",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "算法",
+      "source_language": "zh",
+      "target": "Thuật thuật",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "青灰色巨狼",
+      "source_language": "zh",
+      "target": "Sói xám xanh",
+      "category": "creature",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "孤狼",
+      "source_language": "zh",
+      "target": "Sói cô độc",
+      "category": "creature",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "二阶基因锁",
+      "source_language": "zh",
+      "target": "Nhị giai Khóa Gen",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "光辉之战",
+      "source_language": "zh",
+      "target": "Chiến dịch Quang Huy",
+      "category": "event",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "光辉阵营",
+      "source_language": "zh",
+      "target": "Trận doanh Quang Huy",
+      "category": "worldbuilding",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "漆黑阵营",
+      "source_language": "zh",
+      "target": "Trận doanh Tất Hắc",
+      "category": "worldbuilding",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "炽天使",
+      "source_language": "zh",
+      "target": "Sí Thiên Sứ",
+      "category": "creature",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "召人",
+      "source_language": "zh",
+      "target": "Triệu nhân",
+      "category": "action",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "西兰之城",
+      "source_language": "zh",
+      "target": "Thành phố Zion",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "永嘉之乱",
+      "source_language": "zh",
+      "target": "Biến loạn Vĩnh Gia",
+      "category": "event",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "杀晋令",
+      "source_language": "zh",
+      "target": "Sát Tấn lệnh",
+      "category": "event",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "坞堡",
+      "source_language": "zh",
+      "target": "Ổ bảo",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "风鼠",
+      "source_language": "zh",
+      "target": "Phong Thử",
+      "category": "creature",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "主神空间广场",
+      "source_language": "zh",
+      "target": "Quảng trường Chủ Thần Không Gian",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "上清战拳",
+      "source_language": "zh",
+      "target": "Thượng Thanh Chiến Quyền",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "支线剧情",
+      "source_language": "zh",
+      "target": "Cốt truyện phụ",
+      "category": "action",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "位面之子",
+      "source_language": "zh",
+      "target": "Vị diện chi tử",
+      "category": "worldbuilding",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "第四天灾",
+      "source_language": "zh",
+      "target": "Đệ tứ thiên tai",
+      "category": "worldbuilding",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "上清诛仙功",
+      "source_language": "zh",
+      "target": "Thượng Thanh Tru Tiên Công",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "冰心功",
+      "source_language": "zh",
+      "target": "Băng Tâm Công",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "汲取",
+      "source_language": "zh",
+      "target": "Hấp thụ",
+      "category": "action",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "集中",
+      "source_language": "zh",
+      "target": "Tập trung",
+      "category": "action",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "控制",
+      "source_language": "zh",
+      "target": "Khống chế",
+      "category": "action",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "爆发",
+      "source_language": "zh",
+      "target": "Bộc phát",
+      "category": "action",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "明犯强汉者，虽远必诛",
+      "source_language": "zh",
+      "target": "Kẻ nào xâm phạm cường Hán, dù xa cũng phải diệt",
+      "category": "lore",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "水运诀",
+      "source_language": "zh",
+      "target": "Thủy Vận Quyết",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "气感",
+      "source_language": "zh",
+      "target": "Khí cảm",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "圣人",
+      "source_language": "zh",
+      "target": "Thánh nhân",
+      "category": "lore",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "仙人",
+      "source_language": "zh",
+      "target": "Tiên nhân",
+      "category": "lore",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "魅魔",
+      "source_language": "zh",
+      "target": "Mị ma",
+      "category": "creature",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "化血神刀",
+      "source_language": "zh",
+      "target": "Hóa Huyết Thần Đao",
+      "category": "weapon",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "先天一气",
+      "source_language": "zh",
+      "target": "Tiên Thiên Nhất Khí",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "逻辑族",
+      "source_language": "zh",
+      "target": "Tộc Logic",
+      "category": "race",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "自启",
+      "source_language": "zh",
+      "target": "Tự khải",
+      "category": "action",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "高等地精",
+      "source_language": "zh",
+      "target": "Địa Tinh Cao Cấp",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Higher Goblin",
+      "locked": false
+    },
+    {
+      "source": "灵位",
+      "source_language": "zh",
+      "target": "Linh vị",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Spiritual Position",
+      "locked": false
+    },
+    {
+      "source": "真圣",
+      "source_language": "zh",
+      "target": "Chân Thánh",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "True Saint",
+      "locked": false
+    },
+    {
+      "source": "炽天使长",
+      "source_language": "zh",
+      "target": "Thiên Sứ Trưởng",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Seraph",
+      "locked": false
+    },
+    {
+      "source": "捧杀",
+      "source_language": "zh",
+      "target": "Bồng sát",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tâng bốc quá mức để hại",
+      "locked": false
+    },
+    {
+      "source": "子牙",
+      "source_language": "zh",
+      "target": "Tử Nha",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Blood Clan strategists",
+      "locked": false
+    },
+    {
+      "source": "血沸战士",
+      "source_language": "zh",
+      "target": "Chiến sĩ Huyết Phí",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Blood Boiling Warrior",
+      "locked": false
+    },
+    {
+      "source": "始祖隐",
+      "source_language": "zh",
+      "target": "Thủy tổ Ẩn",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Ancestor Yin",
+      "locked": false
+    },
+    {
+      "source": "初拥",
+      "source_language": "zh",
+      "target": "Sơ ủng",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "First Embrace",
+      "locked": false
+    },
+    {
+      "source": "死魔法场",
+      "source_language": "zh",
+      "target": "Pháp trường Tử Ma",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Dead Magic Field",
+      "locked": false
+    },
+    {
+      "source": "瞑目",
+      "source_language": "zh",
+      "target": "Minh mục",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Close eyes at death",
+      "locked": false
+    },
+    {
+      "source": "暗桩",
+      "source_language": "zh",
+      "target": "Ám trang",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Undercover agents",
+      "locked": false
+    },
+    {
+      "source": "智者",
+      "source_language": "zh",
+      "target": "Trí giả",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Strategist/Thinker",
+      "locked": false
+    },
+    {
+      "source": "阿莫尔",
+      "source_language": "zh",
+      "target": "Amor",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Amor - Reincarnation Team Strategist",
+      "locked": false
+    },
+    {
+      "source": "掌中位面",
+      "source_language": "zh",
+      "target": "Chưởng trung vị diện",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Palm Plane",
+      "locked": false
+    },
+    {
+      "source": "洞天福地",
+      "source_language": "zh",
+      "target": "Động thiên phúc địa",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Grotto-heaven",
+      "locked": false
+    },
+    {
+      "source": "血族牧场",
+      "source_language": "zh",
+      "target": "Trang trại Huyết tộc",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Blood Clan Ranch",
+      "locked": false
+    },
+    {
+      "source": "铁山城",
+      "source_language": "zh",
+      "target": "Thành phố Thiết Sơn",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Iron Mountain City",
+      "locked": false
+    },
+    {
+      "source": "高科技福音公司",
+      "source_language": "zh",
+      "target": "Công ty Cao khoa học Phúc âm",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Hi-tech Gospel Company",
+      "locked": false
+    },
+    {
+      "source": "洗钱",
+      "source_language": "zh",
+      "target": "Tẩy tiền",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Money laundering",
+      "locked": false
+    },
+    {
+      "source": "命运之子",
+      "source_language": "zh",
+      "target": "Con của Định Mệnh",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Son of Destiny",
+      "locked": false
+    },
+    {
+      "source": "正统修真者",
+      "source_language": "zh",
+      "target": "Chính Thống Tu Chân giả",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Orthodox Cultivators",
+      "locked": false
+    },
+    {
+      "source": "开天辟地",
+      "source_language": "zh",
+      "target": "Khai thiên lập địa",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Creating the world",
+      "locked": false
+    },
+    {
+      "source": "合天道",
+      "source_language": "zh",
+      "target": "Hợp thiên đạo",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Merging with the Heavenly Way",
+      "locked": false
+    },
+    {
+      "source": "排除法",
+      "source_language": "zh",
+      "target": "Phương pháp loại trừ",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Exclusion Principle",
+      "locked": false
+    },
+    {
+      "source": "捉迷藏",
+      "source_language": "zh",
+      "target": "Trò trốn tìm",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Hide and seek",
+      "locked": false
+    },
+    {
+      "source": "战书",
+      "source_language": "zh",
+      "target": "Chiến thư",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Challenge Letter",
+      "locked": false
+    },
+    {
+      "source": "树精",
+      "source_language": "zh",
+      "target": "Thụ tinh",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Dryad/Tree Spirit",
+      "locked": false
+    },
+    {
+      "source": "置之死地而后生",
+      "source_language": "zh",
+      "target": "Đặt mình vào chỗ chết rồi mới sống",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Đặt mình vào chỗ chết rồi mới sống",
+      "locked": false
+    },
+    {
+      "source": "警督",
+      "source_language": "zh",
+      "target": "Cảnh đốc",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Cảnh sát trưởng",
+      "locked": false
+    },
+    {
+      "source": "人马族",
+      "source_language": "zh",
+      "target": "tộc Nhân mã",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Centaur",
+      "locked": false
+    },
+    {
+      "source": "诺比汗",
+      "source_language": "zh",
+      "target": "Nobihan",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Centaur Investigator",
+      "locked": false
+    },
+    {
+      "source": "实封领地",
+      "source_language": "zh",
+      "target": "Lãnh địa thực phong",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Full feudal territory",
+      "locked": false
+    },
+    {
+      "source": "虚封领地",
+      "source_language": "zh",
+      "target": "Lãnh địa hư phong",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Nominal/Symbolic territory",
+      "locked": false
+    },
+    {
+      "source": "直辖领地",
+      "source_language": "zh",
+      "target": "Lãnh địa trực hạt",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Directly-governed territory",
+      "locked": false
+    },
+    {
+      "source": "道韵反应堆",
+      "source_language": "zh",
+      "target": "Lò phản ứng Đạo vận/Đạo Vận Phản Ứng Đồ",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Dao-rhyme Reactor",
+      "locked": false
+    },
+    {
+      "source": "乾坤接收器",
+      "source_language": "zh",
+      "target": "Máy thu Càn Khôn/Càn Khôn Tiếp Thu Khí",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Máy thu Càn Khôn",
+      "locked": false
+    },
+    {
+      "source": "万象天引仪",
+      "source_language": "zh",
+      "target": "Máy dẫn Vạn Tượng/Vạn Tượng Thiên Dẫn Nghi",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Máy dẫn Vạn Tượng",
+      "locked": false
+    },
+    {
+      "source": "八卦符文固化设备",
+      "source_language": "zh",
+      "target": "Thiết bị cố định Bát quái phù văn",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thiết bị cố định Bát quái phù văn",
+      "locked": false
+    },
+    {
+      "source": "天都紫火炉",
+      "source_language": "zh",
+      "target": "Lò Tử Hỏa Thiên Đô/Thiên Đô Tử Hỏa Lô",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Lò Tử Hỏa Thiên Đô",
+      "locked": false
+    },
+    {
+      "source": "玄黄青火炉",
+      "source_language": "zh",
+      "target": "Lò Thanh Hỏa Huyền Hoàng/Huyền Hoàng Thanh Hỏa Lô",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Lò Thanh Hỏa Huyền Hoàng",
+      "locked": false
+    },
+    {
+      "source": "荒古黄火炉",
+      "source_language": "zh",
+      "target": "Lò Hoàng Hỏa Hoang Cổ/Hoang Cổ Hoàng Hỏa Lô",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Lò Hoàng Hỏa Hoang Cổ",
+      "locked": false
+    },
+    {
+      "source": "天地玄黄炮",
+      "source_language": "zh",
+      "target": "Pháo Thiên Địa Huyền Hoàng/Thiên Địa Huyền Hoàng Pháo",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Pháo Thiên Địa Huyền Hoàng",
+      "locked": false
+    },
+    {
+      "source": "多炮塔神教",
+      "source_language": "zh",
+      "target": "Giáo phái Đa Pháo Tháp",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Giáo phái Đa Pháo Tháp",
+      "locked": false
+    },
+    {
+      "source": "黄巾力士",
+      "source_language": "zh",
+      "target": "Hoàng Cân Lực Sĩ",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Yellow Turban Warriors",
+      "locked": false
+    },
+    {
+      "source": "塔灵",
+      "source_language": "zh",
+      "target": "Tháp linh",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tower Spirit",
+      "locked": false
+    },
+    {
+      "source": "龙巫妖",
+      "source_language": "zh",
+      "target": "Long Vu Yêu",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Dragon Lich",
+      "locked": false
+    },
+    {
+      "source": "天地玄黄玲珑宝塔",
+      "source_language": "zh",
+      "target": "Thiên Địa Huyền Hoàng Linh Lung Bảo Tháp",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Heaven and Earth Xuanhuang Pagoda",
+      "locked": false
+    },
+    {
+      "source": "太极图",
+      "source_language": "zh",
+      "target": "Thái Cực Đồ",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Taiji Diagram",
+      "locked": false
+    },
+    {
+      "source": "盘古幡",
+      "source_language": "zh",
+      "target": "Bàn Cổ Phiên",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Pangu Banner",
+      "locked": false
+    },
+    {
+      "source": "混元金斗",
+      "source_language": "zh",
+      "target": "Hỗn Nguyên Kim Đấu",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Primordial Golden Bucket",
+      "locked": false
+    },
+    {
+      "source": "金蛟剪",
+      "source_language": "zh",
+      "target": "Kim Giao Tiễn",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Golden Dragon Scissors",
+      "locked": false
+    },
+    {
+      "source": "如意金箍棒",
+      "source_language": "zh",
+      "target": "Như Ý Kim Cô Bổng",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Ruyi Jingu Bang",
+      "locked": false
+    },
+    {
+      "source": "定海神珠",
+      "source_language": "zh",
+      "target": "Định Hải Thần Châu",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Sea-Fixing Pearl",
+      "locked": false
+    },
+    {
+      "source": "昊天镜",
+      "source_language": "zh",
+      "target": "Hạo Thiên Kính",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Haotian Mirror",
+      "locked": false
+    },
+    {
+      "source": "河图洛书",
+      "source_language": "zh",
+      "target": "Hà Đồ Lạc Thư",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Hetu Luoshu",
+      "locked": false
+    },
+    {
+      "source": "东皇钟",
+      "source_language": "zh",
+      "target": "Đông Hoàng Chung",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Donghuang Bell",
+      "locked": false
+    }
+  ]
 }

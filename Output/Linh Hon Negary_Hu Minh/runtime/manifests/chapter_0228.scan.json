@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.0",
+  "branch": "Linh Hon Negary_Hu Minh",
+  "chapter": 228,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Linh Hon Negary_Hu Minh\\0228 - 第228章 贫弱贫弱贫弱.md",
+  "source_char_count": 2147,
+  "characters": [
+    {
+      "source": "家伙",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "让你这个没有神之血的家伙，成为无声教会的成员",
+        "着不少的。\n“你这个家伙。”三个无声教会的教"
+      ]
+    },
+    {
+      "source": "时候",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "奈格里感官发生异变的时候，永罪之龙的错误属性",
+        "来一丝不协调，在那个时候，奈格里就能从其中挣"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "source": "如果这个无声教会",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "来获取更多的信息。\n如果这个无声教会，真的有一些本事，他"
+      ]
+    },
+    {
+      "source": "既然你不愿意加入无声教会",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "然早就有着研究。\n“既然你不愿意加入无声教会，那么只能请你去死了"
+      ]
+    },
+    {
+      "source": "毕竟作为洛尔镇最为庞大的邪教组织",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "到不介意和对方合作，毕竟作为洛尔镇最为庞大的邪教组织，资源还是有着不少的"
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "source": "只要有着人类见识过了神的领域",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "在无声教会的人看来，只要有着人类见识过了神的领域，见识到了万物皆生的"
+      ]
+    }
+  ],
+  "realms": [],
+  "techniques": [
+    "一角度的伤害是无法",
+    "他的认知一直在进步",
+    "们一部分的认知已经",
+    "倒是不错的想法",
+    "尸体一阵",
+    "毕竟是一个大组织经",
+    "般人认知大部分已经",
+    "认知崩溃到一定地步",
+    "随后奈格里收回手掌",
+    "龙的错误属性就已经"
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "干涉力",
+      "target": "Lực can thiệp"
+    },
+    {
+      "source": "域",
+      "target": "Vực"
+    },
+    {
+      "source": "神之血",
+      "target": "Huyết Thần"
+    }
+  ],
+  "generated_at": "2026-05-30T04:22:23.910007+07:00"
+}

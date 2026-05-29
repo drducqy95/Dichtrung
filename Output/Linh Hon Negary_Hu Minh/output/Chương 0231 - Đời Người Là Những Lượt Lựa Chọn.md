@@ -1,0 +1,71 @@
+# Chương 0231: Đời Người Là Những Lượt Lựa Chọn
+
+Khi Cromie trở về nơi ở tạm thời, trời đã hoàn toàn tối hẳn.
+
+Cậu liền bị vật đặt trên mặt bàn thu hút tầm mắt. Đó là một chiếc hộp bằng chất liệu không rõ, và phía dưới chiếc hộp còn có một cuộn giấy da cũ kỹ ố vàng.
+
+Mở cuộn giấy ra, bên trên ghi rõ ràng bên trong chiếc hộp là thứ gì.
+
+Sau khi Negary giết chết ba giáo đồ Vô Thanh, ngài đã thuận tay rút đi tàn hồn của bọn chúng.
+
+Bên trong chiếc hộp này chính là tàn dư linh hồn của một giáo đồ Vô Thanh. Nếu Cromie có đủ quyết tâm, cậu có thể thông qua năng lực linh thị của mình để thu được manh mối đầy đủ từ mảnh tàn hồn đó.
+
+Thế nhưng Negary còn hiểu rõ năng lực linh thị hiện tại của Cromie hơn chính bản thân cậu. Vì thế trong cuộn giấy có chỉ rõ, nếu Cromie dùng linh thị để quan sát tàn hồn, cậu rất có thể sẽ chịu một số ảnh hưởng xấu, có lẽ lý trí sẽ sụp đổ, có lẽ nhận thức sẽ bị cưỡng ép vặn vẹo. Tất nhiên nếu ý chí kiên định thì tác dụng phụ sẽ nhỏ đi rất nhiều.
+
+Còn về việc lựa chọn ra sao, chỉ có thể xem bản thân Cromie.
+
+Để báo thù, cậu rốt cuộc có thể hạ quyết tâm lựa chọn dâng hiến tất cả của mình hay không, hay là lùi bước từ đây, từ bỏ phục thù để cùng Oly về quê kết hôn.
+
+“Có lẽ sau này tôi sẽ hối hận, sẽ căm ghét quyết định ngu ngốc của bản thân lúc này, nhưng ngay vào giờ khắc này, điều tôi mong muốn duy nhất chỉ có báo thù, cũng chỉ có thể là báo thù.” Cromie cười khổ một tiếng rồi cầm chiếc hộp lên.
+
+Chầm chậm mở hộp ra, một luồng vật thể vô hình bắt đầu tiêu tán. Cromie cúi đầu khẽ ngửi một cái, năng lực linh thị có được nhờ hiến tế khứu giác từ từ khởi động.
+
+Cậu nhìn thấy cả cuộc đời của giáo đồ Vô Thanh này. Nửa đời trước vô danh lặng lẽ, sự hoảng hốt bất an sau khi Huyết Tội Lỗi thức tỉnh, sau đó được Giáo hội Vô Thanh tìm thấy, nỗi đau đớn khi trải qua nghi thức cải tạo, và sự quy phục sau khi chứng kiến sự vĩ đại của thế giới vạn vật đều có sự sống.
+
+Cromie chứng kiến quá trình tư tưởng, nhân cách và nhận thức của một con người bị vặn vẹo hoàn toàn. Kẻ nhìn chăm chú vào vực sâu cuối cùng sẽ bị vực sâu nuốt chửng, kẻ diệt rồng cuối cùng cũng sẽ trở thành con rồng ác mới.
+
+Kiến thức quá nhiều cũng khiến tư duy của Cromie bị ảnh hưởng. Cậu quỳ một chân trên đất, mồ hôi lạnh không ngừng tuôn rơi, đôi mắt vằn tia máu đỏ.
+
+Đủ loại suy nghĩ hỗn loạn tràn ngập trong đầu óc Cromie. Cuối cùng cậu cũng bình tĩnh lại được. Dù sao cậu chỉ là người ngoài cuộc, tuy vì lý do linh thị mà có chút chìm đắm vào đó, nhưng mức độ này vẫn nằm trong phạm vi chịu đựng của cậu.
+
+“Muốn đạt được điều gì thì phải đánh đổi điều đó, đây chính là cái giá mà ta phải trả. Nhưng tương tự như ma thuật hiến tế, chỉ cần ta chọn đánh đổi, ta sẽ gặt hái được thành quả.” Gương mặt Cromie nở một nụ cười khẩy. Cậu từ trong ký ức của tên giáo đồ này đã có được vị trí vài cứ điểm của Giáo hội Vô Thanh, thậm chí đối với người đàn ông kia cũng có một chút hiểu biết.
+
+“Negary, người sáng lập Hiệp Hội Ẩn Tu Bất Khiết sao?” Cromie nghĩ đến người nọ vẫn cảm thấy toàn thân phát lạnh. Cậu đã thi triển năng lực linh thị rất nhiều lần, nhưng đây là lần đầu tiên, trong lúc đang linh thị, người bị cậu quan sát lại đột nhiên sống dậy.
+
+Sự xuất hiện của ngài thực sự đáng sợ.
+
+“Mật Tu Hội, chính là tổ chức mà trước đây mình mua thông tin sao.” Cromie lắc đầu. Mật Tu Hội dù có mạnh mẽ thế nào cũng không liên quan gì đến cậu lúc này, thứ cậu cần chỉ có báo thù.
+
+Cromie không hề nhận ra, tuy cậu không vì linh hồn giáo đồ Vô Thanh mà sụp đổ lý trí, nhưng một số ảnh hưởng vẫn xuất hiện một cách không thể tránh khỏi. Cậu vốn có tính cách thiên chấp nay lại càng thêm phần thiên chấp, đồng thời một số giới hạn đạo đức cũng bị hạ thấp xuống.
+
+Negary mỉm cười lật xem cuốn sách nghi thức ma thuật trong tay. Trên các trang sách có một số khuôn mặt người vặn vẹo, từng luồng khí tức bất tường rỉ ra từ đó.
+
+Cuốn sách ma thuật này nghe nói được làm bằng da người bởi một tín đồ tà thần nào đó, tên là Sách Ma Đạo Lester. Nó mang ma lực mê hoặc lòng người.
+
+Ngoài ra, cuốn sách này ngoại trừ ghi chép nhiều loại ma thuật có thể khiến con người giải phóng ham muốn, bản thân cuốn sách cũng là một loại khí cụ ma thuật, tương đương với một đàn hiến tế ma thuật thu nhỏ. Cầm cuốn sách này trong tay không chỉ tiết kiệm được thời gian, nguyên liệu cùng một phần tế phẩm cần cho nghi thức, mà bên trong nó còn chứa năng lượng đặc biệt giúp gia tăng uy lực của ma thuật.
+
+Thế nhân mỗi lần sử dụng cuốn sách ma đạo này, năng lượng bên trong sẽ theo tuần hoàn ma lực đi vào cơ thể người dùng. Trông thì có vẻ người nhận được sức mạnh của sách ma đạo sẽ tăng vọt thực lực, nhưng bản ngã cũng sẽ bị sách ma đạo nuốt chửng.
+
+Mỗi một đời người sử dụng đều sẽ từ từ bị nó mê hoặc, sau đó lạm dụng đủ loại ma thuật trong đó cùng cuốn sách này, cuối cùng từng chút một bao gồm cả sự tồn tại của bản thân đều bị ăn sạch sành sanh. Những khuôn mặt người trên trang sách chính là vài đời chủ nhân trước đó của cuốn sách này.
+
+Sau khi Negary có được cuốn sách này, nó vẫn luôn truyền ra một loại ý chí mê hoặc, nhưng cường độ mê hoặc này không cao, thủ đoạn cũng không tính là cao minh, chỉ cần người có ý chí kiên định đều có thể nhận ra sự mê hoặc ấy.
+
+Kế đó, một dạng ám thị tâm lý rằng 'Sách Ma Đạo Lester có thể mê hoặc lòng người trong truyền thuyết cũng chỉ đến thế mà thôi' sẽ được hình thành. Mỗi người ít nhiều đều sẽ có một loại nhận thức kỳ quái, đó chính là việc người khác không làm được, chưa chắc ta đã không làm được.
+
+Bản thân là đặc biệt, ý chí của mình mạnh mẽ hơn người khác. Dù sao người có tự ý thức rõ ràng về bản thân vẫn là thiểu số, thế nên các đời chủ nhân trước sau khi gạt bỏ được ý chí mê hoặc của cuốn sách ma thuật liền tự cho rằng mình đã làm chủ được nó, như vậy ngược lại càng bị nó mê hoặc triệt để.
+
+Giờ đây những kẻ xem thường cuốn sách này đều đã biến thành những khuôn mặt người vặn vẹo trên trang sách. Negary xem xong các nghi thức ma thuật bên trên, phải thừa nhận rằng tuy ma thuật bên trên đều mang tính chất bổ trợ, nhưng ở điểm khơi gợi ham muốn của con người, cuốn sách này hầu như đã làm đến cực hạn.
+
+Trong đó loại nhiều nhất chính là các pháp thuật thuộc hệ mê hoặc, sau khi sử dụng có thể tẩy não thôi miên người khác, khiến ngươi có thể tùy ý làm bậy với đối phương. Ngoài ra còn có thuật cải tạo cơ thể người, các loại ma thuật kích thích dục vọng bộc phát.
+
+Một khi đã sử dụng, ngươi sẽ phát hiện ra sự tiện lợi của ma thuật, giống như việc một số game di động cày cuốc đến kiệt sức tung ra vé quét nhanh. Người đã quen dùng vé quét nhanh rồi, liệu có còn muốn tự mình cày cuốc từng chút một nữa không?
+
+Người ta sẽ ngày càng quen dùng ma thuật để giải quyết vấn đề, cuối cùng hoàn toàn bị sách ma đạo bắt làm tù binh, đánh mất bản ngã và bị sách ma đạo nuốt chửng, làm bàn đạp giúp sách ma đạo ngày một lớn mạnh.
+
+“Quả thực có chút thú vị.” Negary tùy tay đặt cuốn sách sang một bên, đứng dậy hỏi: “Tình báo dò thám thế nào rồi?”
+
+“Bẩm báo đại nhân Negary, vị trí cụ thể đã được dò thám rõ ràng.” Một trần bóng đen nhu động, một người bao bọc trong bóng tối bước ra, đặt một tấm bản đồ trước mặt Negary.
+
+“Vậy thì hành động thôi, vừa vặn để ta xem Giáo hội Nhật Ảnh có sức mạnh như thế nào.” Negary liếc mắt nhìn tấm bản đồ trong tay mình, hoạt động cơ thể một chút: “Trước đó, ta cần đi gặp một người.”
+
+Phân phó xong, Negary liền rời đi. Đẩy cửa ra, vầng trăng quỷ dị trên bầu trời đang tỏa ra ánh sáng bất tường, khiến mọi thứ trở nên đầy ma mị.

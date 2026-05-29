@@ -123,6 +123,146 @@
       "title": "Phương pháp Dẫn dắt Hình tam giác",
       "status": "translated",
       "output_path": "output/0020 - Chương 20 - Phương pháp Dẫn dắt Hình tam giác.md"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Thiếu niên Angel",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Đạo sư Jon",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Vị khách thời không \"không hợp đất đai\"",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Vũ Hậu Thần Lộ",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Siêu phàm chợt hiện",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Chuyện cũ của Jon",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Tiệc trà",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Cơ duyên của Moro",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Thế giới Phù thủy",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Phá trừ mê chướng",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Một nỗi lo khác",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Kiểm tra thiên phú",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 13,
+      "title": "Lạc vào xứ sở diệu kỳ",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 14,
+      "title": "Ngài Thỏ",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 15,
+      "title": "Hàn Băng Cữu",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 16,
+      "title": "Tam đại cấu trúc",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 17,
+      "title": "Hải cảng Vichy",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 18,
+      "title": "Đường vân sinh trưởng",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 19,
+      "title": "Xiuys tóc đỏ",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
+    },
+    {
+      "chapter_number": 20,
+      "title": "Phương pháp Dẫn dắt Hình tam giác",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:34:32+07:00",
+      "note": "backfilled by branch_scaffold"
     }
   ],
   "meta": {
@@ -131,7 +271,7 @@
   },
   "project_name": "Siêu Duy Thuật Sĩ",
   "last_processed_chapter": 20,
-  "last_updated": "2026-05-14T23:42:26+07:00",
+  "last_updated": "2026-05-30T04:51:59+07:00",
   "output_dir": "Output/Sieu Duy Thuat Si_Muc Ho/output/",
   "workflow_artifacts": {
     "branch_readme": "README.md",

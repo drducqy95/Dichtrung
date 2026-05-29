@@ -16,6 +16,11 @@
   "weapons": [],
   "techniques": [],
   "cultivation_systems": [],
+  "cultivation_resources": [],
+  "power_ranking": {
+    "ranking": [],
+    "notes": "Hệ thống Ma pháp sư (Wizard) sẽ được cập nhật khi xuất hiện."
+  },
   "locations": [
     {
       "name_original": "格鲁镇",
@@ -39,6 +44,19 @@
       "description": "Lục địa bị lãng quên, các nguyên tố ma pháp bị giam cầm."
     }
   ],
+  "world_map": {
+    "description": "",
+    "generated": false,
+    "image_path": "",
+    "last_updated_chapter": 0,
+    "readiness_score": 0,
+    "scale": ""
+  },
+  "relationship_diagrams": {
+    "character_relationship": [],
+    "faction_relationship": [],
+    "family_tree": []
+  },
   "wizardry": {
     "sides": [
       "Mystery Side (Thần bí trắc)",
@@ -105,9 +123,5 @@
         "location": "Lục địa Prosperous"
       }
     ]
-  },
-  "power_ranking": {
-    "ranking": [],
-    "notes": "Hệ thống Ma pháp sư (Wizard) sẽ được cập nhật khi xuất hiện."
   }
 }

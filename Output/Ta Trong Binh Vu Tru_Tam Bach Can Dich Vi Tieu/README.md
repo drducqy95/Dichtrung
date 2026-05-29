@@ -6,7 +6,7 @@ Bối cảnh: Thế giới vi mô nằm trong một phòng thí nghiệm của '
 Tóm tắt nội dung: Lý Khanh phát hiện mình có khả năng 'Thức tỉnh' vi sinh vật. Anh bắt đầu thí nghiệm trong một bình thủy tinh, tạo ra nền văn minh Atabia. Câu chuyện là cuộc đấu trí giữa các 'phàm nhân' kiến tí và vị 'Ngoại Thần' nắm giữ quyền sinh sát tối thượng.
 
 Branch nội bộ: `Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu`
-Tiến độ hiện tại: `115/3666` chương
+Tiến độ hiện tại: `300/3666` chương
 
 Quy ước output:
 - Hiển thị mong muốn: `Chương {chapter:04d}: {title}.md`

@@ -13,7 +13,7 @@
     "split": "Source/Source split/Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han/",
     "description": "Source nam o thu muc goc, KHONG copy vao branch"
   },
-  "completed_chapters": 6,
+  "completed_chapters": 0,
   "total_chapters": 1187,
   "output_filename_pattern_display": "Chương {chapter:04d}: {title}.md",
   "output_filename_pattern_filesystem": "Chương {chapter:04d} - {title}.md",
@@ -24,5 +24,5 @@
     "sci-fi",
     "hệ thống"
   ],
-  "generated_at": "2026-05-14T23:42:27+07:00"
+  "generated_at": "2026-05-30T04:51:59+07:00"
 }

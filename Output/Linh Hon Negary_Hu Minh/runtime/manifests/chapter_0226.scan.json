@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0",
+  "branch": "Linh Hon Negary_Hu Minh",
+  "chapter": 226,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Linh Hon Negary_Hu Minh\\0226 - 第226章 无声寂静的恐惧之域.md",
+  "source_char_count": 2199,
+  "characters": [
+    {
+      "source": "后退",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "奈格里没有犹豫，立刻后退，没有去欣赏那些花粉",
+        "。\n如果刚才奈格里不后退，被那些花粉落在身上"
+      ]
+    },
+    {
+      "source": "时候",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "殊的感知，发现他们的时候，那么也就代表你们的",
+        "胚胎发育到一定程度的时候，你还能感觉到里面传"
+      ]
+    },
+    {
+      "source": "花粉",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "花瓣深处喷射出大量的花粉。\n奈格里没有犹豫，",
+        "来说，漫天飞舞绚丽的花粉，确实很漂亮，但是结"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "source": "奈格里饶有兴趣的观察了一会",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "跳，说不出的诡异。\n奈格里饶有兴趣的观察了一会，便来向着外界走去。"
+      ]
+    },
+    {
+      "source": "这个教会成为了洛尔镇最大的邪教组织",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "且凭借其诡异的特质，这个教会成为了洛尔镇最大的邪教组织。\n奈格里看着眼前着"
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "source": "于是他们便认为这里是神的领域",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "超出了人们的想像, 于是他们便认为这里是神的领域。\n神的领域是危险的"
+      ]
+    },
+    {
+      "source": "奈格里就发现了自己貌似被困在以房子为中心的一小片区域",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "走去。\n一段时间后，奈格里就发现了自己貌似被困在以房子为中心的一小片区域，就仿佛鬼打墙一般，"
+      ]
+    },
+    {
+      "source": "无声寂静的恐惧之域",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "第226章 无声寂静的恐惧之域\n在寂静之中，周围的"
+      ]
+    }
+  ],
+  "realms": [],
+  "techniques": [
+    "也无法",
+    "他正常人的感官无法",
+    "但就是无法",
+    "声音这一概念已经",
+    "奈格里手中剑",
+    "奈格里看着已经",
+    "己的自言自语都无法",
+    "来做出许多人类无法",
+    "那边的房子已经",
+    "锋利的刀"
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "感知场",
+      "target": "Trường cảm giác"
+    },
+    {
+      "source": "域",
+      "target": "Vực"
+    },
+    {
+      "source": "区",
+      "target": "Khu"
+    }
+  ],
+  "generated_at": "2026-05-30T04:21:43.627136+07:00"
+}

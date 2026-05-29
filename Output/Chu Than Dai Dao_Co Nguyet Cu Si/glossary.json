@@ -1,1132 +1,1692 @@
 {
-    "metadata": {
-        "source_language": "zh",
-        "target_language": "vi",
-        "genre": "eastern_fiction",
-        "last_updated": "2026-04-16T14:49:00Z"
+  "metadata": {
+    "version": "2.0",
+    "schema": "gold",
+    "branch": "Chu Than Dai Dao_Co Nguyet Cu Si",
+    "last_updated": "2026-05-30T04:48:09+07:00",
+    "total_entries": 168,
+    "previous_schema": "legacy"
+  },
+  "entries": [
+    {
+      "source": "量子智能副脑",
+      "source_language": "zh",
+      "target": "phó não Trí năng Lượng tử",
+      "category": "technology",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Quantum Intelligent Sub-brain",
+      "locked": false
     },
-    "entries": [
-        {
-            "term_zh": "量子智能副脑",
-            "term_vi": "phó não Trí năng Lượng tử",
-            "category": "technology",
-            "note": "Quantum Intelligent Sub-brain"
-        },
-        {
-            "term_zh": "创世",
-            "term_vi": "Sáng Thế",
-            "category": "godhood",
-            "note": "Creation"
-        },
-        {
-            "term_zh": "命运",
-            "term_vi": "Fate",
-            "category": "character",
-            "note": "Persona of the God of Fate (Mệnh Vận)"
-        },
-        {
-            "term_zh": "毁灭",
-            "term_vi": "Destruction",
-            "category": "character",
-            "note": "Persona of the God of Destruction (Hủy Diệt) - virtual aspect of Deneir"
-        },
-        {
-            "term_zh": "迪奈尔",
-            "term_vi": "Deneir",
-            "category": "character",
-            "note": "God of Knowledge and Metadata / Zhao Qi's companion"
-        },
-        {
-            "term_zh": "智脑",
-            "term_vi": "Phó não Trí năng Lượng tử (Quantum AI Brain)",
-            "category": "character",
-            "note": "AI assistant"
-        },
-        {
-            "term_zh": "阿赖耶最初版宝珠",
-            "term_vi": "bảo châu Alaya sơ cấp",
-            "category": "item",
-            "note": "Primary item"
-        },
-        {
-            "term_zh": "造物",
-            "term_vi": "Tạo Vật",
-            "category": "godhood",
-            "note": "Crafting"
-        },
-        {
-            "term_zh": "最终文卷",
-            "term_vi": "Tối Chung Văn Quyển",
-            "category": "concept",
-            "note": "Metatext"
-        },
-        {
-            "term_zh": "theseed",
-            "term_vi": "The Seed",
-            "category": "item",
-            "note": "Virtual world engine from SAO"
-        },
-        {
-            "term_zh": "阿赖耶最初版宝珠",
-            "term_vi": "bảo châu Alaya sơ cấp",
-            "category": "artifact",
-            "note": "Artifact of human subconscious and dreams"
-        },
-        {
-            "term_zh": "量子智能副脑",
-            "term_vi": "phó não Trí năng Lượng tử",
-            "category": "technology",
-            "note": "30th-century quantum intelligent sub-brain"
-        },
-        {
-            "term_zh": "虚拟世界种子",
-            "term_vi": "hạt giống thế giới ảo",
-            "category": "item",
-            "note": "Virtual world seed"
-        },
-        {
-            "term_zh": "人造神明",
-            "term_vi": "thần minh nhân tạo",
-            "category": "worldbuilding",
-            "note": "Man-made deities"
-        },
-        {
-            "term_zh": "昊天",
-            "term_vi": "Hạo Thiên",
-            "category": "title",
-            "note": "Thượng đế / Sự hiện diện thần thánh."
-        },
-        {
-            "term_zh": "虚拟世界",
-            "term_vi": "Thế giới ảo",
-            "category": "concept",
-            "note": "Sân chơi chính của truyện."
-        },
-        {
-            "term_zh": "开天辟地",
-            "term_vi": "khai thiên lập địa",
-            "category": "worldbuilding",
-            "note": "Creation of heaven and earth"
-        },
-        {
-            "term_zh": "小千世界",
-            "term_vi": "Tiểu Thiên Thế Giới",
-            "category": "worldbuilding",
-            "note": "Small Thousand World"
-        },
-        {
-            "term_zh": "传奇职业",
-            "term_vi": "Nghề nghiệp Truyền thuyết",
-            "category": "worldbuilding",
-            "note": "Legendary Professions"
-        },
-        {
-            "term_zh": "阳神",
-            "term_vi": "Dương Thần",
-            "category": "worldbuilding",
-            "note": "Yang Shen (novel reference)"
-        },
-        {
-            "term_zh": "人仙",
-            "term_vi": "Nhân Tiên",
-            "category": "rank",
-            "note": "Human Immortal rank"
-        },
-        {
-            "term_zh": "武圣",
-            "term_vi": "Võ Thánh",
-            "category": "rank",
-            "note": "Martial Saint rank"
-        },
-        {
-            "term_zh": "大威天龙菩萨观",
-            "term_vi": "Đại Uy Thiên Long Bồ Tát Quan",
-            "category": "item",
-            "note": "Martial art manual from Yang Shen"
-        },
-        {
-            "term_zh": "现世如来经",
-            "term_vi": "Hiện Thế Như Lai Kinh",
-            "category": "item",
-            "note": "Sutra from Yang Shen"
-        },
-        {
-            "term_zh": "鸿钧",
-            "term_vi": "Hồng Quân",
-            "category": "character",
-            "note": "Reference to Hongjun Daoist"
-        },
-        {
-            "term_zh": "真空大手印",
-            "term_vi": "Chân Không Đại Thủ Ấn",
-            "category": "skill",
-            "note": "Secret technique of Da Zhan Temple"
-        },
-        {
-            "term_zh": "菩萨六印",
-            "term_vi": "Bồ Tát Lục Ấn",
-            "category": "skill",
-            "note": "Six Mudras of Bodhisattva"
-        },
-        {
-            "term_zh": "龙象三印",
-            "term_vi": "Long Tượng Tam Ấn",
-            "category": "skill",
-            "note": "Three Mudras of Dragon-Elephant"
-        },
-        {
-            "term_zh": "动须弥",
-            "term_vi": "Động Tu Di",
-            "category": "skill",
-            "note": "One of the three mudras"
-        },
-        {
-            "term_zh": "练脏",
-            "term_vi": "luyện tạng",
-            "category": "rank",
-            "note": "Internal organ refining stage"
-        },
-        {
-            "term_zh": "先天武师",
-            "term_vi": "Tiên Thiên Võ Sư",
-            "category": "rank",
-            "note": "Innate Martial Master"
-        },
-        {
-            "term_zh": "无限世界",
-            "term_vi": "Vô Hạn Thế Giới",
-            "category": "organization",
-            "note": "Infinite World (Company/Game)"
-        },
-        {
-            "term_zh": "三位一体",
-            "term_vi": "Tam Vị Nhất Thể",
-            "category": "worldbuilding",
-            "note": "Trinity of supreme gods"
-        },
-        {
-            "term_zh": "命运之主",
-            "term_vi": "Chủ thần Định Mệnh",
-            "category": "character",
-            "note": "God of Fate (Main God avatar)"
-        },
-        {
-            "term_zh": "毁灭之神",
-            "term_vi": "Thần Hủy Diệt",
-            "category": "character",
-            "note": "God of Destruction (Deneir's virtual aspect)"
-        },
-        {
-            "term_zh": "姬诚",
-            "term_vi": "Cơ Thành",
-            "category": "character",
-            "note": "Early player"
-        },
-        {
-            "term_zh": "王康",
-            "term_vi": "Vương Khang",
-            "category": "character",
-            "note": "Ji Cheng's friend"
-        },
-        {
-            "term_zh": "蓬莱药",
-            "term_vi": "Bồng Lai Dược",
-            "category": "item",
-            "note": "Hourai Medicine (Elixir of Immortality)"
-        },
-        {
-            "term_zh": "宇宙魔方",
-            "term_vi": "Tesseract",
-            "category": "item",
-            "note": "Marvel artifact"
-        },
-        {
-            "term_zh": "雷神之锤",
-            "term_vi": "Mjolnir",
-            "category": "item",
-            "note": "Thor's hammer"
-        },
-        {
-            "term_zh": "二向箔",
-            "term_vi": "Nhị Hướng Bạc",
-            "category": "item",
-            "note": "Two-dimensional Foil (3-Body Problem)"
-        },
-        {
-            "term_zh": "乾元造骨丹",
-            "term_vi": "Càn Nguyên Tạo Cốt Đan",
-            "category": "item",
-            "note": "Bone-shaping Pill"
-        },
-        {
-            "term_zh": "神币",
-            "term_vi": "Thần tệ",
-            "category": "worldbuilding",
-            "note": "Divine Coins (Game currency)"
-        },
-        {
-            "term_zh": "艾奇泰克骑士学院",
-            "term_vi": "Học viện Kỵ sĩ ArchiTech",
-            "category": "worldbuilding",
-            "note": "Initial faction for players"
-        },
-        {
-            "term_zh": "黑铁之躯",
-            "term_vi": "Hắc Thiết Chi Thân",
-            "category": "skill",
-            "note": "Black Iron Body (Temp skill)"
-        },
-        {
-            "term_zh": "重击",
-            "term_vi": "Trọng Kích",
-            "category": "skill",
-            "note": "Heavy Strike (Temp skill)"
-        },
-        {
-            "term_zh": "流光骑士",
-            "term_vi": "Lưu Quang Kỵ Sĩ",
-            "category": "class",
-            "note": "Streamer Knight (Legendary class)"
-        },
-        {
-            "term_zh": "传奇骑士",
-            "term_vi": "Kỵ sĩ Truyền kỳ",
-            "category": "class",
-            "note": "Legendary Knight"
-        },
-        {
-            "term_zh": "阿尔丰斯修道院",
-            "term_vi": "Tu viện Alphonse",
-            "category": "worldbuilding",
-            "note": "Monastery training monks"
-        },
-        {
-            "term_zh": "牛魔大力拳",
-            "term_vi": "Ngưu Ma Đại Lực Quyền",
-            "category": "skill",
-            "note": "Martial art from Yang Shen"
-        },
-        {
-            "term_zh": "恒鲁",
-            "term_vi": "Hằng Lỗ",
-            "category": "character",
-            "note": "Monk player"
-        },
-        {
-            "term_zh": "阿尔丰斯·泰勒",
-            "term_vi": "Alphonse Taylor",
-            "category": "character",
-            "note": "Founder of Alphonse Monastery"
-        },
-        {
-            "term_zh": "阳神",
-            "term_vi": "Dương Thần",
-            "category": "worldbuilding",
-            "note": "Reference to another novel world"
-        },
-        {
-            "term_zh": "镜像副本",
-            "term_vi": "phó bản ảo ảnh",
-            "category": "worldbuilding",
-            "note": "Mirror/Image dungeon"
-        },
-        {
-            "term_zh": "奇物榜",
-            "term_vi": "Kỳ Vật Bảng",
-            "category": "worldbuilding",
-            "note": "Universal Artifact List"
-        },
-        {
-            "term_zh": "姜子牙",
-            "term_vi": "Khương Tử Nha",
-            "category": "character",
-            "note": "Chinese legend reference"
-        },
-        {
-            "term_zh": "神秘",
-            "term_vi": "Thần bí",
-            "category": "worldbuilding",
-            "note": "Mystery/Supernatural power in the real world"
-        },
-        {
-            "term_zh": "乖离剑",
-            "term_vi": "Gia Ly Kiếm (Ea)",
-            "category": "item",
-            "note": "Zhao Qi's Progenitor weapon"
-        },
-        {
-            "term_zh": "培罗",
-            "term_vi": "Pelor",
-            "category": "character",
-            "note": "God of Sun and Light"
-        },
-        {
-            "term_zh": "耶各",
-            "term_vi": "Jergal",
-            "category": "character",
-            "note": "God of Death and Darkness"
-        },
-        {
-            "term_zh": "谷蓝巴",
-            "term_vi": "Grumbar",
-            "category": "character",
-            "note": "God of Earth and Nature"
-        },
-        {
-            "term_zh": "卡署斯",
-            "term_vi": "Kossuth",
-            "category": "character",
-            "note": "God of Fire and Civilization"
-        },
-        {
-            "term_zh": "塔烙斯",
-            "term_vi": "Talos",
-            "category": "character",
-            "note": "God of Storm and Disaster"
-        },
-        {
-            "term_zh": "依斯提悉亚",
-            "term_vi": "Istishia",
-            "category": "character",
-            "note": "God of Sea and Life"
-        },
-        {
-            "term_zh": "封神",
-            "term_vi": "Phong Thần",
-            "category": "action",
-            "note": "Apotheosis"
-        },
-        {
-            "term_zh": "尤金",
-            "term_vi": "Eugene",
-            "category": "proper_names_western",
-            "note": "Quy tắc: Tên phương Tây dùng Latinh."
-        },
-        {
-            "term_zh": "凯瑟",
-            "term_vi": "Kaiser",
-            "category": "proper_names_western",
-            "note": "Quy tắc: Tên phương Tây dùng Latinh."
-        },
-        {
-            "term_zh": "哈特",
-            "term_vi": "Hart",
-            "category": "proper_names_western",
-            "note": "Quy tắc: Tên phương Tây dùng Latinh."
-        },
-        {
-            "term_zh": "卡斯",
-            "term_vi": "Cass",
-            "category": "proper_names_western",
-            "note": "Quy tắc: Tên phương Tây dùng Latinh."
-        },
-        {
-            "term_zh": "太一",
-            "term_vi": "Thái Nhất",
-            "category": "concept",
-            "note": "The absolute unity / Zhao Qi's core essence."
-        },
-        {
-            "term_zh": "太一真界",
-            "term_vi": "Thái Nhất Chân Giới",
-            "category": "location",
-            "note": "Taiyi True Realm"
-        },
-        {
-            "term_zh": "路军旗",
-            "term_vi": "Lộ Quân Kỳ",
-            "category": "character",
-            "note": "General Lu (National Security)"
-        },
-        {
-            "term_zh": "张君房",
-            "term_vi": "Trương Quân Phòng",
-            "category": "character",
-            "note": "Important Daoist character"
-        },
-        {
-            "term_zh": "噩梦空间",
-            "term_vi": "Ác Mộng Không Gian",
-            "category": "organization",
-            "note": "Nightmare Space (rival entity)"
-        },
-        {
-            "term_zh": "主尊",
-            "term_vi": "Chủ tôn",
-            "category": "status",
-            "note": "Main body / Original self"
-        },
-        {
-            "term_zh": "超凡者",
-            "term_vi": "siêu phàm giả",
-            "category": "class",
-            "note": "Supernatural beings / Players"
-        },
-        {
-            "term_zh": "太一之主",
-            "term_vi": "Thái Nhất Chi Chủ",
-            "category": "title",
-            "note": "Lord of Taiyi"
-        },
-        {
-            "term_zh": "至高",
-            "term_vi": "Chí Cao",
-            "category": "rank",
-            "note": "Supreme"
-        },
-        {
-            "term_zh": "概念",
-            "term_vi": "Khái niệm",
-            "category": "worldbuilding",
-            "note": "Conceptual power"
-        },
-        {
-            "term_zh": "虚无",
-            "term_vi": "Hư vô",
-            "category": "concept",
-            "note": "Void / Nothingness"
-        },
-        {
-            "term_zh": "太上",
-            "term_vi": "Thái Thượng",
-            "category": "character",
-            "note": "Supreme Being reference"
-        },
-        {
-            "term_zh": "众生之红",
-            "term_vi": "Chúng Sinh Chi Hồng",
-            "category": "concept",
-            "note": "The Red (Animal Life force/Multiverse concept)"
-        },
-        {
-            "term_zh": "最终文卷",
-            "term_vi": "Tối Chung Văn Quyển",
-            "category": "item",
-            "note": "The Final Scroll / Meta-artifact"
-        },
-        {
-            "term_zh": "拉莱耶",
-            "term_vi": "R'lyeh",
-            "category": "location",
-            "note": "Cthulhu's city"
-        },
-        {
-            "term_zh": "克苏鲁",
-            "term_vi": "Cthulhu",
-            "category": "character",
-            "note": "Great Old One"
-        },
-        {
-            "term_zh": "叶凡",
-            "term_vi": "Diệp Phàm",
-            "category": "character",
-            "note": "Protagonist of Zhetian (crossover)"
-        },
-        {
-            "term_zh": "苦海",
-            "term_vi": "Khổ Hải",
-            "category": "worldbuilding",
-            "note": "Sea of Bitterness (Zhetian cultivation)"
-        },
-        {
-            "term_zh": "阿难",
-            "term_vi": "A Nan",
-            "category": "character",
-            "note": "Ananda (Buddhist crossover)"
-        },
-        {
-            "term_zh": "命运图卷",
-            "term_vi": "Vận Mệnh Đồ Quyển",
-            "category": "item",
-            "note": "Scroll of Fate (used by God of Fate)"
-        },
-        {
-            "term_zh": "诸天万界之主",
-            "term_vi": "Chư Thiên Vạn Giới Chi Chủ",
-            "category": "title",
-            "note": "Lord of All Realms"
-        },
-        {
-            "term_zh": "归墟",
-            "term_vi": "Quy Khứ",
-            "category": "location",
-            "note": "The Void / The End / Guixu"
-        },
-        {
-            "term_zh": "域外天魔",
-            "term_vi": "Vực Ngoại Thiên Ma",
-            "category": "entity",
-            "note": "Outer-world Sky Demons"
-        },
-        {
-            "term_zh": "智脑",
-            "term_vi": "Trí Não",
-            "category": "technology",
-            "note": "System/Core AI"
-        },
-        {
-            "term_zh": "星辰祭炼",
-            "term_vi": "tinh thần tế luyện",
-            "category": "cultivation",
-            "note": "Spiritual/Mental refinement"
-        },
-        {
-            "term_zh": "固化",
-            "term_vi": "cố hóa",
-            "category": "action",
-            "note": "To solidify / Permanently learn a skill"
-        },
-        {
-            "term_zh": "党为民",
-            "term_vi": "Đảng Vi Dân",
-            "category": "character",
-            "note": "MSS Director (MSS = Ministry of State Security / Cục Quốc An)"
-        },
-        {
-            "term_zh": "党起志",
-            "term_vi": "Đảng Khởi Chí",
-            "category": "character",
-            "note": "Son of Dang Weimin, a player"
-        },
-        {
-            "term_zh": "释和尚",
-            "term_vi": "Hòa thượng Thích (Abbot Shi)",
-            "category": "character",
-            "note": "Abbot of Shaolin"
-        },
-        {
-            "term_zh": "超人血清",
-            "term_vi": "Huyết thanh siêu chiến binh (Super Soldier Serum)",
-            "category": "item",
-            "note": "Marvel artifact"
-        },
-        {
-            "term_zh": "冷聚变方舟反应堆",
-            "term_vi": "Phản ứng hồ quang điện lạnh (Ark Reactor)",
-            "category": "item",
-            "note": "Iron Man artifact"
-        },
-        {
-            "term_zh": "赤帝血",
-            "term_vi": "Xích Đế Huyết",
-            "category": "item",
-            "note": "Red Emperor Blood"
-        },
-        {
-            "term_zh": "安德鲁",
-            "term_vi": "Andrew",
-            "category": "proper_names_western",
-            "note": "Quy tắc: Tên phương Tây dùng Latinh."
-        },
-        {
-            "term_zh": "大力牛魔拳",
-            "term_vi": "Đại Lực Ngưu Ma Quyền",
-            "category": "martial_arts",
-            "note": "Powerful Ox-Demon Fist (from Yang Shen)"
-        },
-        {
-            "term_zh": "阳神",
-            "term_vi": "Dương Thần",
-            "category": "proper_names",
-            "note": "Novel by Chen Ji Zhu"
-        },
-        {
-            "term_zh": "大禅寺",
-            "term_vi": "Đại Thiền Tự",
-            "category": "location",
-            "note": "Buddhist temple in Yang Shen"
-        },
-        {
-            "term_zh": "筑基武学",
-            "term_vi": "võ học trúc cơ",
-            "category": "martial_arts",
-            "note": "Foundation building martial arts"
-        },
-        {
-            "term_zh": "中科院",
-            "term_vi": "Trung Khoa Viện (CAS)",
-            "category": "organization",
-            "note": "Chinese Academy of Sciences"
-        },
-        {
-            "term_zh": "赵父",
-            "term_vi": "cha Triệu Kỳ",
-            "category": "character",
-            "note": "Zhao Qi's father"
-        },
-        {
-            "term_zh": "赵母",
-            "term_vi": "mẹ Triệu Kỳ",
-            "category": "character",
-            "note": "Zhao Qi's mother"
-        },
-        {
-            "term_zh": "亚伯拉罕·厄斯金",
-            "term_vi": "Abraham Erskine",
-            "category": "proper_names_western",
-            "note": "Marvel character"
-        },
-        {
-            "term_zh": "艾奇泰克骑士学院",
-            "term_vi": "Học viện Kỵ sĩ Edgetech",
-            "category": "organization",
-            "note": "Edgetech Knight Academy"
-        },
-        {
-            "term_zh": "哈特卡斯",
-            "term_vi": "Hartkas",
-            "category": "character",
-            "note": "Knight trainer"
-        },
-        {
-            "term_zh": "无限奇物榜",
-            "term_vi": "Bảng Kỳ Vật Vô Hạn",
-            "category": "system",
-            "note": "Infinite Artifact List"
-        },
-        {
-            "term_zh": "盘古幡",
-            "term_vi": "Bàn Cổ Phiên (Pangu Banner)",
-            "category": "item",
-            "note": "Tier 15 artifact from Primordial world"
-        },
-        {
-            "term_zh": "阿尔萨斯",
-            "term_vi": "Arthas",
-            "category": "proper_names_western",
-            "note": "Warcraft character"
-        },
-        {
-            "term_zh": "阿尔托莉雅·潘德拉贡",
-            "term_vi": "Artoria Pendragon",
-            "category": "proper_names_western",
-            "note": "Fate character (Saber)"
-        },
-        {
-            "term_zh": "浣熊市",
-            "term_vi": "thành phố Raccoon (Raccoon City)",
-            "category": "location",
-            "note": "Resident Evil location"
-        },
-        {
-            "term_zh": "生化危机",
-            "term_vi": "Resident Evil (Biohazard)",
-            "category": "proper_names",
-            "note": "Game/Movie title"
-        },
-        {
-            "term_zh": "超凡灵光",
-            "term_vi": "Siêu Phàm Linh Quang",
-            "category": "concept",
-            "note": "Extraordinary spiritual light/aura"
-        },
-        {
-            "term_zh": "白银拳套",
-            "term_vi": "Găng tay Bạch Ngân",
-            "category": "item",
-            "note": "Silver Gauntlets"
-        },
-        {
-            "term_zh": "月色的杀戮者",
-            "term_vi": "Nguyệt Sắc Sát Lục Giả (Moonlight Slayer)",
-            "category": "item",
-            "note": "Tier 4 armor"
-        },
-        {
-            "term_zh": "大威天龙菩萨",
-            "term_vi": "Đại Uy Thiên Long Bồ Tát",
-            "category": "character",
-            "note": "Buddhist avatar/power manifestation"
-        },
-        {
-            "term_zh": "精灵木屋",
-            "term_vi": "Tinh Linh Mộc Ốc (Elf Wooden House)",
-            "category": "organization",
-            "note": "Edgetech's research partner"
-        },
-        {
-            "term_zh": "龙象大力",
-            "term_vi": "Long Tượng Đại Lực (Dragon-Elephant Great Strength)",
-            "category": "concept",
-            "note": "Physical and spiritual power manifestation"
-        },
-        {
-            "term_zh": "舔食者",
-            "term_vi": "Licker (Tất Thiểm Giả)",
-            "category": "creature",
-            "note": "Resident Evil creature"
-        },
-        {
-            "term_zh": "暴君",
-            "term_vi": "Tyrant (Bạo Quân)",
-            "category": "creature",
-            "note": "Resident Evil creature"
-        },
-        {
-            "term_zh": "落星河",
-            "term_vi": "Lạc Tinh Hà (Falling Star River)",
-            "category": "martial_arts",
-            "note": "Zhao Qi's technique"
-        },
-        {
-            "term_zh": "初级职业者",
-            "term_vi": "chức nghiệp giả sơ cấp",
-            "category": "level",
-            "note": "Levels 1-4"
-        },
-        {
-            "term_zh": "中级职业者",
-            "term_vi": "chức nghiệp giả trung cấp",
-            "category": "level",
-            "note": "Levels 5-7"
-        },
-        {
-            "term_zh": "高级职业者",
-            "term_vi": "chức nghiệp giả cao cấp",
-            "category": "level",
-            "note": "Levels 8-9"
-        },
-        {
-            "term_zh": "传奇职业",
-            "term_vi": "chức nghiệp Truyền kỳ",
-            "category": "level",
-            "note": "Level 10"
-        },
-        {
-            "term_zh": "神祗",
-            "term_vi": "Thần chỉ (Deity/God)",
-            "category": "level",
-            "note": "Levels 11-16+"
-        },
-        {
-            "term_zh": "始祖病毒",
-            "term_vi": "Progenitor Virus (Thủy Tổ Virus)",
-            "category": "creature",
-            "note": "Ancient virus in Resident Evil"
-        },
-        {
-            "term_zh": "金刚印",
-            "term_vi": "Kim Cương Ấn (Vajra Mudra)",
-            "category": "martial_arts",
-            "note": "Buddhist hand seal used by Zhao Qi"
-        },
-        {
-            "term_zh": "型月世界",
-            "term_vi": "Type-Moon World",
-            "category": "proper_names",
-            "note": "Nasuverse (Fate, Tsukihime, etc.)"
-        },
-        {
-            "term_zh": "亚西福特博士",
-            "term_vi": "Tiến sĩ Ashford",
-            "category": "character",
-            "note": "Resident Evil character"
-        },
-        {
-            "term_zh": "安吉拉",
-            "term_vi": "Angela",
-            "category": "character",
-            "note": "Ashford's daughter"
-        },
-        {
-            "term_zh": "艾丽丝",
-            "term_vi": "Alice",
-            "category": "character",
-            "note": "Prop: Tên phương Tây dùng Latinh."
-        },
-        {
-            "term_zh": "阿尔伯特·威斯克",
-            "term_vi": "Albert Wesker",
-            "category": "character",
-            "note": "Prop: Tên phương Tây dùng Latinh."
-        },
-        {
-            "term_zh": "火焰女皇",
-            "term_vi": "Red Queen (Nữ hoàng Đỏ / Hỏa Diễm Nữ Hoàng)",
-            "category": "creature",
-            "note": "AI in Resident Evil"
-        },
-        {
-            "term_zh": "神币",
-            "term_vi": "Thần tệ (God Coins)",
-            "category": "item",
-            "note": "Currency in Infinite World"
-        },
-        {
-            "term_zh": "奇物榜",
-            "term_vi": "Kỳ Vật Bảng (List of Extraordinary Items)",
-            "category": "item",
-            "note": "Top tier items in the game"
-        },
-        {
-            "term_zh": "超人血清",
-            "term_vi": "Siêu nhân huyết thanh (Super Soldier Serum)",
-            "category": "item",
-            "note": "Real-world tech goal"
-        },
-        {
-            "term_zh": "域外天魔",
-            "term_vi": "Vực Ngoại Thiên Ma (Outer Devils)",
-            "category": "creature",
-            "note": "Plan of Denair"
-        },
-        {
-            "term_zh": "先天大道",
-            "term_vi": "Tiên Thiên Đại Đạo (Primordial Great Way)",
-            "category": "proper_names",
-            "note": "Concepts in cultivation"
-        },
-        {
-            "term_zh": "何凯",
-            "term_vi": "Hà Khải",
-            "category": "character",
-            "note": "Lucky player assisted by Zhao Qi"
-        },
-        {
-            "term_zh": "迪奈尔",
-            "term_vi": "Denair (Dịch Nại Nhĩ)",
-            "category": "character",
-            "note": "Sovereign of Destruction (Western God style)"
-        },
-        {
-            "term_zh": "蓬莱药",
-            "term_vi": "Thuốc Bồng Lai",
-            "category": "item",
-            "note": "Legendary medicine from Touhou"
-        },
-        {
-            "term_zh": "二向箔",
-            "term_vi": "Nhị Hướng Bối (Dual-vector Foil)",
-            "category": "item",
-            "note": "Weapon from The Three-Body Problem"
-        },
-        {
-            "term_zh": "网监",
-            "term_vi": "Cục An ninh mạng (Cyber Police)",
-            "category": "organization",
-            "note": "Internet surveillance department"
-        },
-        {
-            "term_zh": "党为国",
-            "term_vi": "Đảng Vị Quốc",
-            "category": "character",
-            "note": "Director of National Security (Cục trưởng Cục Quốc An)"
-        },
-        {
-            "term_zh": "凌翔",
-            "term_vi": "Lăng Tường",
-            "category": "character",
-            "note": "Player, Lang Nha"
-        },
-        {
-            "term_zh": "狼牙",
-            "term_vi": "Lang Nha",
-            "category": "alias",
-            "note": "Ling Xiang's code name"
-        },
-        {
-            "term_zh": "盛世皇朝",
-            "term_vi": "Thịnh Thế Hoàng Triều",
-            "category": "organization",
-            "note": "Player guild led by Yao Xu"
-        },
-        {
-            "term_zh": "姚旭",
-            "term_vi": "Diêu Húc",
-            "category": "character",
-            "note": "Member of Shengshi Huangchao"
-        },
-        {
-            "term_zh": "人造奇物",
-            "term_vi": "kỳ vật nhân tạo",
-            "category": "concept",
-            "note": "Man-made artifacts plan"
-        },
-        {
-            "term_zh": "人造神祗",
-            "term_vi": "thần chỉ nhân tạo",
-            "category": "concept",
-            "note": "Man-made deities plan"
-        },
-        {
-            "term_zh": "世界补全计划",
-            "term_vi": "Kế hoạch bổ toàn thế giới",
-            "category": "concept",
-            "note": "Zhao Qi's plan to fix the world's flaws"
-        },
-        {
-            "term_zh": "生杀夺予",
-            "term_vi": "Sinh sát đoạt dư",
-            "category": "martial_arts",
-            "note": "Divine authority over life and death (Jergal)"
-        },
-        {
-            "term_zh": "魔神",
-            "term_vi": "Ma thần",
-            "category": "creature",
-            "note": "Beings born from spiritual impurities"
-        },
-        {
-            "term_zh": "比丘印",
-            "term_vi": "Tỳ Kheo Ấn (Bhikkhu Mudra)",
-            "category": "martial_arts",
-            "note": "Hand seal used in Buddhist cultivation"
-        },
-        {
-            "term_zh": "菩萨印",
-            "term_vi": "Bồ Tát Ấn (Bodhisattva Mudra)",
-            "category": "martial_arts",
-            "note": "Hand seal used in Buddhist cultivation"
-        },
-        {
-            "term_zh": "大威天龙菩萨观",
-            "term_vi": "Đại Uy Thiên Long Bồ Tát Quán",
-            "category": "martial_arts",
-            "note": "Cultivation method from Nhân Tiên Võ Đạo"
-        },
-        {
-            "term_zh": "王麻子",
-            "term_vi": "Vương Ma Tử",
-            "category": "alias",
-            "note": "Alias of Vương Khang"
-        },
-        {
-            "term_zh": "土豪",
-            "term_vi": "thổ hào",
-            "category": "concept",
-            "note": "Slang for wealthy/rich people (whale in gaming)"
-        },
-        {
-            "term_zh": "黑铁之躯",
-            "term_vi": "Hắc Thiết Chi Thân",
-            "category": "skill",
-            "note": "Level 2 Knight skill (Black Iron Body)"
-        },
-        {
-            "term_zh": "环境保护组织",
-            "term_vi": "tổ chức bảo vệ môi trường",
-            "category": "organization",
-            "note": "World Environmental Organization"
-        },
-        {
-            "term_zh": "二代兄",
-            "term_vi": "Nhị đại huynh",
-            "category": "alias",
-            "note": "Slang for someone from a rich/powerful second generation (rich kid)"
-        },
-        {
-            "term_zh": "六丁六甲符",
-            "term_vi": "Lục Đinh Lục Giáp Phù",
-            "category": "item",
-            "note": "Grade 4 amulet from Mr. Vampire world"
-        },
-        {
-            "term_zh": "白骨箭",
-            "term_vi": "Bạch Cốt Tiễn",
-            "category": "skill",
-            "note": "Necromancy skill (Bone Arrow)"
-        },
-        {
-            "term_zh": "玄黄塔",
-            "term_vi": "Huyền Hoàng Tháp",
-            "category": "item",
-            "note": "Mystical tower with Xuan Huang aura"
-        },
-        {
-            "term_zh": "玄黄二气",
-            "term_vi": "Huyền Hoàng nhị khí",
-            "category": "concept",
-            "note": "Primordial aura of Earth and Heaven"
-        },
-        {
-            "term_zh": "皇天",
-            "term_vi": "Hoàng Thiên",
-            "category": "title",
-            "note": "Heavenly Sovereign"
-        },
-        {
-            "term_zh": "后土",
-            "term_vi": "Hậu Thổ",
-            "category": "title",
-            "note": "Earth Mother"
-        },
-        {
-            "term_zh": "相亲",
-            "term_vi": "xem mắt",
-            "category": "concept",
-            "note": "Blind date"
-        },
-        {
-            "term_zh": "人精",
-            "term_vi": "kẻ khôn ranh",
-            "category": "concept",
-            "note": "Extremely clever/shrewd person"
-        },
-        {
-            "term_zh": "竹蜻蜓",
-            "term_vi": "chong chóng tre",
-            "category": "item",
-            "note": "Bamboo-copter (Doraemon's gadget)"
-        },
-        {
-            "term_zh": "青玉米",
-            "term_vi": "Thanh Ngọc Mễ",
-            "category": "item",
-            "note": "Green Jade Rice (from Yang Shen)"
-        },
-        {
-            "term_zh": "智脑",
-            "term_vi": "Trí Não",
-            "category": "character",
-            "note": "Game AI core"
-        },
-        {
-            "term_zh": "罪孽之地",
-            "term_vi": "Tội Nghiệt Chi Địa",
-            "category": "location",
-            "note": "Land of Sin (World's dross/trash bin)"
-        },
-        {
-            "term_zh": "域外天魔",
-            "term_vi": "Vực Ngoại Thiên Ma",
-            "category": "character",
-            "note": "Extraterrestrial Demons"
-        },
-        {
-            "term_zh": "补丁",
-            "term_vi": "Bản vá",
-            "category": "concept",
-            "note": "Software patch/update"
-        },
-        {
-            "term_zh": "权限",
-            "term_vi": "thẩm quyền",
-            "category": "concept",
-            "note": "Authority/Permission"
-        },
-        {
-            "term_zh": "燕赤霞",
-            "term_vi": "Yến Xích Hà",
-            "category": "character",
-            "note": "Yan Chixia (Daoist sword hero from A Chinese Ghost Story)"
-        },
-        {
-            "term_zh": "宁采臣",
-            "term_vi": "Ninh Thái Thần",
-            "category": "character",
-            "note": "Ning Caichen (Scholar from A Chinese Ghost Story)"
-        },
-        {
-            "term_zh": "聂小倩",
-            "term_vi": "Nhiếp Tiểu Thiến",
-            "category": "character",
-            "note": "Nie Xiaoqian (Female ghost from A Chinese Ghost Story)"
-        },
-        {
-            "term_zh": "树姥姥",
-            "term_vi": "Thụ Lão Lão",
-            "category": "character",
-            "note": "Tree Demon Grandmother"
-        }
-    ]
+    {
+      "source": "创世",
+      "source_language": "zh",
+      "target": "Sáng Thế",
+      "category": "godhood",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Creation",
+      "locked": false
+    },
+    {
+      "source": "命运",
+      "source_language": "zh",
+      "target": "Fate",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Persona of the God of Fate (Mệnh Vận)",
+      "locked": false
+    },
+    {
+      "source": "毁灭",
+      "source_language": "zh",
+      "target": "Destruction",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Persona of the God of Destruction (Hủy Diệt) - virtual aspect of Deneir",
+      "locked": false
+    },
+    {
+      "source": "迪奈尔",
+      "source_language": "zh",
+      "target": "Deneir",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "God of Knowledge and Metadata / Zhao Qi's companion",
+      "locked": false
+    },
+    {
+      "source": "智脑",
+      "source_language": "zh",
+      "target": "Phó não Trí năng Lượng tử (Quantum AI Brain)",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "AI assistant",
+      "locked": false
+    },
+    {
+      "source": "阿赖耶最初版宝珠",
+      "source_language": "zh",
+      "target": "bảo châu Alaya sơ cấp",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Primary item",
+      "locked": false
+    },
+    {
+      "source": "造物",
+      "source_language": "zh",
+      "target": "Tạo Vật",
+      "category": "godhood",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Crafting",
+      "locked": false
+    },
+    {
+      "source": "最终文卷",
+      "source_language": "zh",
+      "target": "Tối Chung Văn Quyển",
+      "category": "concept",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Metatext",
+      "locked": false
+    },
+    {
+      "source": "theseed",
+      "source_language": "zh",
+      "target": "The Seed",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Virtual world engine from SAO",
+      "locked": false
+    },
+    {
+      "source": "虚拟世界种子",
+      "source_language": "zh",
+      "target": "hạt giống thế giới ảo",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Virtual world seed",
+      "locked": false
+    },
+    {
+      "source": "人造神明",
+      "source_language": "zh",
+      "target": "thần minh nhân tạo",
+      "category": "worldbuilding",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Man-made deities",
+      "locked": false
+    },
+    {
+      "source": "昊天",
+      "source_language": "zh",
+      "target": "Hạo Thiên",
+      "category": "title",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thượng đế / Sự hiện diện thần thánh.",
+      "locked": false
+    },
+    {
+      "source": "虚拟世界",
+      "source_language": "zh",
+      "target": "Thế giới ảo",
+      "category": "concept",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Sân chơi chính của truyện.",
+      "locked": false
+    },
+    {
+      "source": "开天辟地",
+      "source_language": "zh",
+      "target": "khai thiên lập địa",
+      "category": "worldbuilding",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Creation of heaven and earth",
+      "locked": false
+    },
+    {
+      "source": "小千世界",
+      "source_language": "zh",
+      "target": "Tiểu Thiên Thế Giới",
+      "category": "worldbuilding",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Small Thousand World",
+      "locked": false
+    },
+    {
+      "source": "传奇职业",
+      "source_language": "zh",
+      "target": "Nghề nghiệp Truyền thuyết",
+      "category": "worldbuilding",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Legendary Professions",
+      "locked": false
+    },
+    {
+      "source": "阳神",
+      "source_language": "zh",
+      "target": "Dương Thần",
+      "category": "worldbuilding",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Yang Shen (novel reference)",
+      "locked": false
+    },
+    {
+      "source": "人仙",
+      "source_language": "zh",
+      "target": "Nhân Tiên",
+      "category": "rank",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Human Immortal rank",
+      "locked": false
+    },
+    {
+      "source": "武圣",
+      "source_language": "zh",
+      "target": "Võ Thánh",
+      "category": "rank",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Martial Saint rank",
+      "locked": false
+    },
+    {
+      "source": "大威天龙菩萨观",
+      "source_language": "zh",
+      "target": "Đại Uy Thiên Long Bồ Tát Quan",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Martial art manual from Yang Shen",
+      "locked": false
+    },
+    {
+      "source": "现世如来经",
+      "source_language": "zh",
+      "target": "Hiện Thế Như Lai Kinh",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Sutra from Yang Shen",
+      "locked": false
+    },
+    {
+      "source": "鸿钧",
+      "source_language": "zh",
+      "target": "Hồng Quân",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Reference to Hongjun Daoist",
+      "locked": false
+    },
+    {
+      "source": "真空大手印",
+      "source_language": "zh",
+      "target": "Chân Không Đại Thủ Ấn",
+      "category": "skill",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Secret technique of Da Zhan Temple",
+      "locked": false
+    },
+    {
+      "source": "菩萨六印",
+      "source_language": "zh",
+      "target": "Bồ Tát Lục Ấn",
+      "category": "skill",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Six Mudras of Bodhisattva",
+      "locked": false
+    },
+    {
+      "source": "龙象三印",
+      "source_language": "zh",
+      "target": "Long Tượng Tam Ấn",
+      "category": "skill",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Three Mudras of Dragon-Elephant",
+      "locked": false
+    },
+    {
+      "source": "动须弥",
+      "source_language": "zh",
+      "target": "Động Tu Di",
+      "category": "skill",
+      "context": "",
+      "confidence": "medium",
+      "notes": "One of the three mudras",
+      "locked": false
+    },
+    {
+      "source": "练脏",
+      "source_language": "zh",
+      "target": "luyện tạng",
+      "category": "rank",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Internal organ refining stage",
+      "locked": false
+    },
+    {
+      "source": "先天武师",
+      "source_language": "zh",
+      "target": "Tiên Thiên Võ Sư",
+      "category": "rank",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Innate Martial Master",
+      "locked": false
+    },
+    {
+      "source": "无限世界",
+      "source_language": "zh",
+      "target": "Vô Hạn Thế Giới",
+      "category": "organization",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Infinite World (Company/Game)",
+      "locked": false
+    },
+    {
+      "source": "三位一体",
+      "source_language": "zh",
+      "target": "Tam Vị Nhất Thể",
+      "category": "worldbuilding",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Trinity of supreme gods",
+      "locked": false
+    },
+    {
+      "source": "命运之主",
+      "source_language": "zh",
+      "target": "Chủ thần Định Mệnh",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "God of Fate (Main God avatar)",
+      "locked": false
+    },
+    {
+      "source": "毁灭之神",
+      "source_language": "zh",
+      "target": "Thần Hủy Diệt",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "God of Destruction (Deneir's virtual aspect)",
+      "locked": false
+    },
+    {
+      "source": "姬诚",
+      "source_language": "zh",
+      "target": "Cơ Thành",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Early player",
+      "locked": false
+    },
+    {
+      "source": "王康",
+      "source_language": "zh",
+      "target": "Vương Khang",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Ji Cheng's friend",
+      "locked": false
+    },
+    {
+      "source": "蓬莱药",
+      "source_language": "zh",
+      "target": "Bồng Lai Dược",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Hourai Medicine (Elixir of Immortality)",
+      "locked": false
+    },
+    {
+      "source": "宇宙魔方",
+      "source_language": "zh",
+      "target": "Tesseract",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Marvel artifact",
+      "locked": false
+    },
+    {
+      "source": "雷神之锤",
+      "source_language": "zh",
+      "target": "Mjolnir",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thor's hammer",
+      "locked": false
+    },
+    {
+      "source": "二向箔",
+      "source_language": "zh",
+      "target": "Nhị Hướng Bạc",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Two-dimensional Foil (3-Body Problem)",
+      "locked": false
+    },
+    {
+      "source": "乾元造骨丹",
+      "source_language": "zh",
+      "target": "Càn Nguyên Tạo Cốt Đan",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Bone-shaping Pill",
+      "locked": false
+    },
+    {
+      "source": "神币",
+      "source_language": "zh",
+      "target": "Thần tệ",
+      "category": "worldbuilding",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Divine Coins (Game currency)",
+      "locked": false
+    },
+    {
+      "source": "艾奇泰克骑士学院",
+      "source_language": "zh",
+      "target": "Học viện Kỵ sĩ ArchiTech",
+      "category": "worldbuilding",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Initial faction for players",
+      "locked": false
+    },
+    {
+      "source": "黑铁之躯",
+      "source_language": "zh",
+      "target": "Hắc Thiết Chi Thân",
+      "category": "skill",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Black Iron Body (Temp skill)",
+      "locked": false
+    },
+    {
+      "source": "重击",
+      "source_language": "zh",
+      "target": "Trọng Kích",
+      "category": "skill",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Heavy Strike (Temp skill)",
+      "locked": false
+    },
+    {
+      "source": "流光骑士",
+      "source_language": "zh",
+      "target": "Lưu Quang Kỵ Sĩ",
+      "category": "class",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Streamer Knight (Legendary class)",
+      "locked": false
+    },
+    {
+      "source": "传奇骑士",
+      "source_language": "zh",
+      "target": "Kỵ sĩ Truyền kỳ",
+      "category": "class",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Legendary Knight",
+      "locked": false
+    },
+    {
+      "source": "阿尔丰斯修道院",
+      "source_language": "zh",
+      "target": "Tu viện Alphonse",
+      "category": "worldbuilding",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Monastery training monks",
+      "locked": false
+    },
+    {
+      "source": "牛魔大力拳",
+      "source_language": "zh",
+      "target": "Ngưu Ma Đại Lực Quyền",
+      "category": "skill",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Martial art from Yang Shen",
+      "locked": false
+    },
+    {
+      "source": "恒鲁",
+      "source_language": "zh",
+      "target": "Hằng Lỗ",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Monk player",
+      "locked": false
+    },
+    {
+      "source": "阿尔丰斯·泰勒",
+      "source_language": "zh",
+      "target": "Alphonse Taylor",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Founder of Alphonse Monastery",
+      "locked": false
+    },
+    {
+      "source": "镜像副本",
+      "source_language": "zh",
+      "target": "phó bản ảo ảnh",
+      "category": "worldbuilding",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Mirror/Image dungeon",
+      "locked": false
+    },
+    {
+      "source": "奇物榜",
+      "source_language": "zh",
+      "target": "Kỳ Vật Bảng",
+      "category": "worldbuilding",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Universal Artifact List",
+      "locked": false
+    },
+    {
+      "source": "姜子牙",
+      "source_language": "zh",
+      "target": "Khương Tử Nha",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Chinese legend reference",
+      "locked": false
+    },
+    {
+      "source": "神秘",
+      "source_language": "zh",
+      "target": "Thần bí",
+      "category": "worldbuilding",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Mystery/Supernatural power in the real world",
+      "locked": false
+    },
+    {
+      "source": "乖离剑",
+      "source_language": "zh",
+      "target": "Gia Ly Kiếm (Ea)",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Zhao Qi's Progenitor weapon",
+      "locked": false
+    },
+    {
+      "source": "培罗",
+      "source_language": "zh",
+      "target": "Pelor",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "God of Sun and Light",
+      "locked": false
+    },
+    {
+      "source": "耶各",
+      "source_language": "zh",
+      "target": "Jergal",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "God of Death and Darkness",
+      "locked": false
+    },
+    {
+      "source": "谷蓝巴",
+      "source_language": "zh",
+      "target": "Grumbar",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "God of Earth and Nature",
+      "locked": false
+    },
+    {
+      "source": "卡署斯",
+      "source_language": "zh",
+      "target": "Kossuth",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "God of Fire and Civilization",
+      "locked": false
+    },
+    {
+      "source": "塔烙斯",
+      "source_language": "zh",
+      "target": "Talos",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "God of Storm and Disaster",
+      "locked": false
+    },
+    {
+      "source": "依斯提悉亚",
+      "source_language": "zh",
+      "target": "Istishia",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "God of Sea and Life",
+      "locked": false
+    },
+    {
+      "source": "封神",
+      "source_language": "zh",
+      "target": "Phong Thần",
+      "category": "action",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Apotheosis",
+      "locked": false
+    },
+    {
+      "source": "尤金",
+      "source_language": "zh",
+      "target": "Eugene",
+      "category": "proper_names_western",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Quy tắc: Tên phương Tây dùng Latinh.",
+      "locked": false
+    },
+    {
+      "source": "凯瑟",
+      "source_language": "zh",
+      "target": "Kaiser",
+      "category": "proper_names_western",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Quy tắc: Tên phương Tây dùng Latinh.",
+      "locked": false
+    },
+    {
+      "source": "哈特",
+      "source_language": "zh",
+      "target": "Hart",
+      "category": "proper_names_western",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Quy tắc: Tên phương Tây dùng Latinh.",
+      "locked": false
+    },
+    {
+      "source": "卡斯",
+      "source_language": "zh",
+      "target": "Cass",
+      "category": "proper_names_western",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Quy tắc: Tên phương Tây dùng Latinh.",
+      "locked": false
+    },
+    {
+      "source": "太一",
+      "source_language": "zh",
+      "target": "Thái Nhất",
+      "category": "concept",
+      "context": "",
+      "confidence": "medium",
+      "notes": "The absolute unity / Zhao Qi's core essence.",
+      "locked": false
+    },
+    {
+      "source": "太一真界",
+      "source_language": "zh",
+      "target": "Thái Nhất Chân Giới",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Taiyi True Realm",
+      "locked": false
+    },
+    {
+      "source": "路军旗",
+      "source_language": "zh",
+      "target": "Lộ Quân Kỳ",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "General Lu (National Security)",
+      "locked": false
+    },
+    {
+      "source": "张君房",
+      "source_language": "zh",
+      "target": "Trương Quân Phòng",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Important Daoist character",
+      "locked": false
+    },
+    {
+      "source": "噩梦空间",
+      "source_language": "zh",
+      "target": "Ác Mộng Không Gian",
+      "category": "organization",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Nightmare Space (rival entity)",
+      "locked": false
+    },
+    {
+      "source": "主尊",
+      "source_language": "zh",
+      "target": "Chủ tôn",
+      "category": "status",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Main body / Original self",
+      "locked": false
+    },
+    {
+      "source": "超凡者",
+      "source_language": "zh",
+      "target": "siêu phàm giả",
+      "category": "class",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Supernatural beings / Players",
+      "locked": false
+    },
+    {
+      "source": "太一之主",
+      "source_language": "zh",
+      "target": "Thái Nhất Chi Chủ",
+      "category": "title",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Lord of Taiyi",
+      "locked": false
+    },
+    {
+      "source": "至高",
+      "source_language": "zh",
+      "target": "Chí Cao",
+      "category": "rank",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Supreme",
+      "locked": false
+    },
+    {
+      "source": "概念",
+      "source_language": "zh",
+      "target": "Khái niệm",
+      "category": "worldbuilding",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Conceptual power",
+      "locked": false
+    },
+    {
+      "source": "虚无",
+      "source_language": "zh",
+      "target": "Hư vô",
+      "category": "concept",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Void / Nothingness",
+      "locked": false
+    },
+    {
+      "source": "太上",
+      "source_language": "zh",
+      "target": "Thái Thượng",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Supreme Being reference",
+      "locked": false
+    },
+    {
+      "source": "众生之红",
+      "source_language": "zh",
+      "target": "Chúng Sinh Chi Hồng",
+      "category": "concept",
+      "context": "",
+      "confidence": "medium",
+      "notes": "The Red (Animal Life force/Multiverse concept)",
+      "locked": false
+    },
+    {
+      "source": "拉莱耶",
+      "source_language": "zh",
+      "target": "R'lyeh",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Cthulhu's city",
+      "locked": false
+    },
+    {
+      "source": "克苏鲁",
+      "source_language": "zh",
+      "target": "Cthulhu",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Great Old One",
+      "locked": false
+    },
+    {
+      "source": "叶凡",
+      "source_language": "zh",
+      "target": "Diệp Phàm",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Protagonist of Zhetian (crossover)",
+      "locked": false
+    },
+    {
+      "source": "苦海",
+      "source_language": "zh",
+      "target": "Khổ Hải",
+      "category": "worldbuilding",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Sea of Bitterness (Zhetian cultivation)",
+      "locked": false
+    },
+    {
+      "source": "阿难",
+      "source_language": "zh",
+      "target": "A Nan",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Ananda (Buddhist crossover)",
+      "locked": false
+    },
+    {
+      "source": "命运图卷",
+      "source_language": "zh",
+      "target": "Vận Mệnh Đồ Quyển",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Scroll of Fate (used by God of Fate)",
+      "locked": false
+    },
+    {
+      "source": "诸天万界之主",
+      "source_language": "zh",
+      "target": "Chư Thiên Vạn Giới Chi Chủ",
+      "category": "title",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Lord of All Realms",
+      "locked": false
+    },
+    {
+      "source": "归墟",
+      "source_language": "zh",
+      "target": "Quy Khứ",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "The Void / The End / Guixu",
+      "locked": false
+    },
+    {
+      "source": "域外天魔",
+      "source_language": "zh",
+      "target": "Vực Ngoại Thiên Ma",
+      "category": "entity",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Outer-world Sky Demons",
+      "locked": false
+    },
+    {
+      "source": "星辰祭炼",
+      "source_language": "zh",
+      "target": "tinh thần tế luyện",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Spiritual/Mental refinement",
+      "locked": false
+    },
+    {
+      "source": "固化",
+      "source_language": "zh",
+      "target": "cố hóa",
+      "category": "action",
+      "context": "",
+      "confidence": "medium",
+      "notes": "To solidify / Permanently learn a skill",
+      "locked": false
+    },
+    {
+      "source": "党为民",
+      "source_language": "zh",
+      "target": "Đảng Vi Dân",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "MSS Director (MSS = Ministry of State Security / Cục Quốc An)",
+      "locked": false
+    },
+    {
+      "source": "党起志",
+      "source_language": "zh",
+      "target": "Đảng Khởi Chí",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Son of Dang Weimin, a player",
+      "locked": false
+    },
+    {
+      "source": "释和尚",
+      "source_language": "zh",
+      "target": "Hòa thượng Thích (Abbot Shi)",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Abbot of Shaolin",
+      "locked": false
+    },
+    {
+      "source": "超人血清",
+      "source_language": "zh",
+      "target": "Huyết thanh siêu chiến binh (Super Soldier Serum)",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Marvel artifact",
+      "locked": false
+    },
+    {
+      "source": "冷聚变方舟反应堆",
+      "source_language": "zh",
+      "target": "Phản ứng hồ quang điện lạnh (Ark Reactor)",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Iron Man artifact",
+      "locked": false
+    },
+    {
+      "source": "赤帝血",
+      "source_language": "zh",
+      "target": "Xích Đế Huyết",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Red Emperor Blood",
+      "locked": false
+    },
+    {
+      "source": "安德鲁",
+      "source_language": "zh",
+      "target": "Andrew",
+      "category": "proper_names_western",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Quy tắc: Tên phương Tây dùng Latinh.",
+      "locked": false
+    },
+    {
+      "source": "大力牛魔拳",
+      "source_language": "zh",
+      "target": "Đại Lực Ngưu Ma Quyền",
+      "category": "martial_arts",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Powerful Ox-Demon Fist (from Yang Shen)",
+      "locked": false
+    },
+    {
+      "source": "大禅寺",
+      "source_language": "zh",
+      "target": "Đại Thiền Tự",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Buddhist temple in Yang Shen",
+      "locked": false
+    },
+    {
+      "source": "筑基武学",
+      "source_language": "zh",
+      "target": "võ học trúc cơ",
+      "category": "martial_arts",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Foundation building martial arts",
+      "locked": false
+    },
+    {
+      "source": "中科院",
+      "source_language": "zh",
+      "target": "Trung Khoa Viện (CAS)",
+      "category": "organization",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Chinese Academy of Sciences",
+      "locked": false
+    },
+    {
+      "source": "赵父",
+      "source_language": "zh",
+      "target": "cha Triệu Kỳ",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Zhao Qi's father",
+      "locked": false
+    },
+    {
+      "source": "赵母",
+      "source_language": "zh",
+      "target": "mẹ Triệu Kỳ",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Zhao Qi's mother",
+      "locked": false
+    },
+    {
+      "source": "亚伯拉罕·厄斯金",
+      "source_language": "zh",
+      "target": "Abraham Erskine",
+      "category": "proper_names_western",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Marvel character",
+      "locked": false
+    },
+    {
+      "source": "哈特卡斯",
+      "source_language": "zh",
+      "target": "Hartkas",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Knight trainer",
+      "locked": false
+    },
+    {
+      "source": "无限奇物榜",
+      "source_language": "zh",
+      "target": "Bảng Kỳ Vật Vô Hạn",
+      "category": "system",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Infinite Artifact List",
+      "locked": false
+    },
+    {
+      "source": "盘古幡",
+      "source_language": "zh",
+      "target": "Bàn Cổ Phiên (Pangu Banner)",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tier 15 artifact from Primordial world",
+      "locked": false
+    },
+    {
+      "source": "阿尔萨斯",
+      "source_language": "zh",
+      "target": "Arthas",
+      "category": "proper_names_western",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Warcraft character",
+      "locked": false
+    },
+    {
+      "source": "阿尔托莉雅·潘德拉贡",
+      "source_language": "zh",
+      "target": "Artoria Pendragon",
+      "category": "proper_names_western",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Fate character (Saber)",
+      "locked": false
+    },
+    {
+      "source": "浣熊市",
+      "source_language": "zh",
+      "target": "thành phố Raccoon (Raccoon City)",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Resident Evil location",
+      "locked": false
+    },
+    {
+      "source": "生化危机",
+      "source_language": "zh",
+      "target": "Resident Evil (Biohazard)",
+      "category": "proper_names",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Game/Movie title",
+      "locked": false
+    },
+    {
+      "source": "超凡灵光",
+      "source_language": "zh",
+      "target": "Siêu Phàm Linh Quang",
+      "category": "concept",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Extraordinary spiritual light/aura",
+      "locked": false
+    },
+    {
+      "source": "白银拳套",
+      "source_language": "zh",
+      "target": "Găng tay Bạch Ngân",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Silver Gauntlets",
+      "locked": false
+    },
+    {
+      "source": "月色的杀戮者",
+      "source_language": "zh",
+      "target": "Nguyệt Sắc Sát Lục Giả (Moonlight Slayer)",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tier 4 armor",
+      "locked": false
+    },
+    {
+      "source": "大威天龙菩萨",
+      "source_language": "zh",
+      "target": "Đại Uy Thiên Long Bồ Tát",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Buddhist avatar/power manifestation",
+      "locked": false
+    },
+    {
+      "source": "精灵木屋",
+      "source_language": "zh",
+      "target": "Tinh Linh Mộc Ốc (Elf Wooden House)",
+      "category": "organization",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Edgetech's research partner",
+      "locked": false
+    },
+    {
+      "source": "龙象大力",
+      "source_language": "zh",
+      "target": "Long Tượng Đại Lực (Dragon-Elephant Great Strength)",
+      "category": "concept",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Physical and spiritual power manifestation",
+      "locked": false
+    },
+    {
+      "source": "舔食者",
+      "source_language": "zh",
+      "target": "Licker (Tất Thiểm Giả)",
+      "category": "creature",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Resident Evil creature",
+      "locked": false
+    },
+    {
+      "source": "暴君",
+      "source_language": "zh",
+      "target": "Tyrant (Bạo Quân)",
+      "category": "creature",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Resident Evil creature",
+      "locked": false
+    },
+    {
+      "source": "落星河",
+      "source_language": "zh",
+      "target": "Lạc Tinh Hà (Falling Star River)",
+      "category": "martial_arts",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Zhao Qi's technique",
+      "locked": false
+    },
+    {
+      "source": "初级职业者",
+      "source_language": "zh",
+      "target": "chức nghiệp giả sơ cấp",
+      "category": "level",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Levels 1-4",
+      "locked": false
+    },
+    {
+      "source": "中级职业者",
+      "source_language": "zh",
+      "target": "chức nghiệp giả trung cấp",
+      "category": "level",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Levels 5-7",
+      "locked": false
+    },
+    {
+      "source": "高级职业者",
+      "source_language": "zh",
+      "target": "chức nghiệp giả cao cấp",
+      "category": "level",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Levels 8-9",
+      "locked": false
+    },
+    {
+      "source": "神祗",
+      "source_language": "zh",
+      "target": "Thần chỉ (Deity/God)",
+      "category": "level",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Levels 11-16+",
+      "locked": false
+    },
+    {
+      "source": "始祖病毒",
+      "source_language": "zh",
+      "target": "Progenitor Virus (Thủy Tổ Virus)",
+      "category": "creature",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Ancient virus in Resident Evil",
+      "locked": false
+    },
+    {
+      "source": "金刚印",
+      "source_language": "zh",
+      "target": "Kim Cương Ấn (Vajra Mudra)",
+      "category": "martial_arts",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Buddhist hand seal used by Zhao Qi",
+      "locked": false
+    },
+    {
+      "source": "型月世界",
+      "source_language": "zh",
+      "target": "Type-Moon World",
+      "category": "proper_names",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Nasuverse (Fate, Tsukihime, etc.)",
+      "locked": false
+    },
+    {
+      "source": "亚西福特博士",
+      "source_language": "zh",
+      "target": "Tiến sĩ Ashford",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Resident Evil character",
+      "locked": false
+    },
+    {
+      "source": "安吉拉",
+      "source_language": "zh",
+      "target": "Angela",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Ashford's daughter",
+      "locked": false
+    },
+    {
+      "source": "艾丽丝",
+      "source_language": "zh",
+      "target": "Alice",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Prop: Tên phương Tây dùng Latinh.",
+      "locked": false
+    },
+    {
+      "source": "阿尔伯特·威斯克",
+      "source_language": "zh",
+      "target": "Albert Wesker",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Prop: Tên phương Tây dùng Latinh.",
+      "locked": false
+    },
+    {
+      "source": "火焰女皇",
+      "source_language": "zh",
+      "target": "Red Queen (Nữ hoàng Đỏ / Hỏa Diễm Nữ Hoàng)",
+      "category": "creature",
+      "context": "",
+      "confidence": "medium",
+      "notes": "AI in Resident Evil",
+      "locked": false
+    },
+    {
+      "source": "先天大道",
+      "source_language": "zh",
+      "target": "Tiên Thiên Đại Đạo (Primordial Great Way)",
+      "category": "proper_names",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Concepts in cultivation",
+      "locked": false
+    },
+    {
+      "source": "何凯",
+      "source_language": "zh",
+      "target": "Hà Khải",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Lucky player assisted by Zhao Qi",
+      "locked": false
+    },
+    {
+      "source": "网监",
+      "source_language": "zh",
+      "target": "Cục An ninh mạng (Cyber Police)",
+      "category": "organization",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Internet surveillance department",
+      "locked": false
+    },
+    {
+      "source": "党为国",
+      "source_language": "zh",
+      "target": "Đảng Vị Quốc",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Director of National Security (Cục trưởng Cục Quốc An)",
+      "locked": false
+    },
+    {
+      "source": "凌翔",
+      "source_language": "zh",
+      "target": "Lăng Tường",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Player, Lang Nha",
+      "locked": false
+    },
+    {
+      "source": "狼牙",
+      "source_language": "zh",
+      "target": "Lang Nha",
+      "category": "alias",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Ling Xiang's code name",
+      "locked": false
+    },
+    {
+      "source": "盛世皇朝",
+      "source_language": "zh",
+      "target": "Thịnh Thế Hoàng Triều",
+      "category": "organization",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Player guild led by Yao Xu",
+      "locked": false
+    },
+    {
+      "source": "姚旭",
+      "source_language": "zh",
+      "target": "Diêu Húc",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Member of Shengshi Huangchao",
+      "locked": false
+    },
+    {
+      "source": "人造奇物",
+      "source_language": "zh",
+      "target": "kỳ vật nhân tạo",
+      "category": "concept",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Man-made artifacts plan",
+      "locked": false
+    },
+    {
+      "source": "人造神祗",
+      "source_language": "zh",
+      "target": "thần chỉ nhân tạo",
+      "category": "concept",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Man-made deities plan",
+      "locked": false
+    },
+    {
+      "source": "世界补全计划",
+      "source_language": "zh",
+      "target": "Kế hoạch bổ toàn thế giới",
+      "category": "concept",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Zhao Qi's plan to fix the world's flaws",
+      "locked": false
+    },
+    {
+      "source": "生杀夺予",
+      "source_language": "zh",
+      "target": "Sinh sát đoạt dư",
+      "category": "martial_arts",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Divine authority over life and death (Jergal)",
+      "locked": false
+    },
+    {
+      "source": "魔神",
+      "source_language": "zh",
+      "target": "Ma thần",
+      "category": "creature",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Beings born from spiritual impurities",
+      "locked": false
+    },
+    {
+      "source": "比丘印",
+      "source_language": "zh",
+      "target": "Tỳ Kheo Ấn (Bhikkhu Mudra)",
+      "category": "martial_arts",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Hand seal used in Buddhist cultivation",
+      "locked": false
+    },
+    {
+      "source": "菩萨印",
+      "source_language": "zh",
+      "target": "Bồ Tát Ấn (Bodhisattva Mudra)",
+      "category": "martial_arts",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Hand seal used in Buddhist cultivation",
+      "locked": false
+    },
+    {
+      "source": "王麻子",
+      "source_language": "zh",
+      "target": "Vương Ma Tử",
+      "category": "alias",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Alias of Vương Khang",
+      "locked": false
+    },
+    {
+      "source": "土豪",
+      "source_language": "zh",
+      "target": "thổ hào",
+      "category": "concept",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Slang for wealthy/rich people (whale in gaming)",
+      "locked": false
+    },
+    {
+      "source": "环境保护组织",
+      "source_language": "zh",
+      "target": "tổ chức bảo vệ môi trường",
+      "category": "organization",
+      "context": "",
+      "confidence": "medium",
+      "notes": "World Environmental Organization",
+      "locked": false
+    },
+    {
+      "source": "二代兄",
+      "source_language": "zh",
+      "target": "Nhị đại huynh",
+      "category": "alias",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Slang for someone from a rich/powerful second generation (rich kid)",
+      "locked": false
+    },
+    {
+      "source": "六丁六甲符",
+      "source_language": "zh",
+      "target": "Lục Đinh Lục Giáp Phù",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Grade 4 amulet from Mr. Vampire world",
+      "locked": false
+    },
+    {
+      "source": "白骨箭",
+      "source_language": "zh",
+      "target": "Bạch Cốt Tiễn",
+      "category": "skill",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Necromancy skill (Bone Arrow)",
+      "locked": false
+    },
+    {
+      "source": "玄黄塔",
+      "source_language": "zh",
+      "target": "Huyền Hoàng Tháp",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Mystical tower with Xuan Huang aura",
+      "locked": false
+    },
+    {
+      "source": "玄黄二气",
+      "source_language": "zh",
+      "target": "Huyền Hoàng nhị khí",
+      "category": "concept",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Primordial aura of Earth and Heaven",
+      "locked": false
+    },
+    {
+      "source": "皇天",
+      "source_language": "zh",
+      "target": "Hoàng Thiên",
+      "category": "title",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Heavenly Sovereign",
+      "locked": false
+    },
+    {
+      "source": "后土",
+      "source_language": "zh",
+      "target": "Hậu Thổ",
+      "category": "title",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Earth Mother",
+      "locked": false
+    },
+    {
+      "source": "相亲",
+      "source_language": "zh",
+      "target": "xem mắt",
+      "category": "concept",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Blind date",
+      "locked": false
+    },
+    {
+      "source": "人精",
+      "source_language": "zh",
+      "target": "kẻ khôn ranh",
+      "category": "concept",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Extremely clever/shrewd person",
+      "locked": false
+    },
+    {
+      "source": "竹蜻蜓",
+      "source_language": "zh",
+      "target": "chong chóng tre",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Bamboo-copter (Doraemon's gadget)",
+      "locked": false
+    },
+    {
+      "source": "青玉米",
+      "source_language": "zh",
+      "target": "Thanh Ngọc Mễ",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Green Jade Rice (from Yang Shen)",
+      "locked": false
+    },
+    {
+      "source": "罪孽之地",
+      "source_language": "zh",
+      "target": "Tội Nghiệt Chi Địa",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Land of Sin (World's dross/trash bin)",
+      "locked": false
+    },
+    {
+      "source": "补丁",
+      "source_language": "zh",
+      "target": "Bản vá",
+      "category": "concept",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Software patch/update",
+      "locked": false
+    },
+    {
+      "source": "权限",
+      "source_language": "zh",
+      "target": "thẩm quyền",
+      "category": "concept",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Authority/Permission",
+      "locked": false
+    },
+    {
+      "source": "燕赤霞",
+      "source_language": "zh",
+      "target": "Yến Xích Hà",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Yan Chixia (Daoist sword hero from A Chinese Ghost Story)",
+      "locked": false
+    },
+    {
+      "source": "宁采臣",
+      "source_language": "zh",
+      "target": "Ninh Thái Thần",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Ning Caichen (Scholar from A Chinese Ghost Story)",
+      "locked": false
+    },
+    {
+      "source": "聂小倩",
+      "source_language": "zh",
+      "target": "Nhiếp Tiểu Thiến",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Nie Xiaoqian (Female ghost from A Chinese Ghost Story)",
+      "locked": false
+    },
+    {
+      "source": "树姥姥",
+      "source_language": "zh",
+      "target": "Thụ Lão Lão",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tree Demon Grandmother",
+      "locked": false
+    }
+  ]
 }

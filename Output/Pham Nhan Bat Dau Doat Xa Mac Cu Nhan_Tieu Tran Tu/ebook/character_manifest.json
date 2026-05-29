@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "branch": "Pham Nhan Bat Dau Doat Xa Mac Cu Nhan_Tieu Tran Tu",
+    "book_title": "Phàm Nhân Bắt Đầu Đoạt Xá Mặc Cư Nhân",
+    "generated_at": "2026-05-30T04:51:59+07:00",
+    "total_characters": 4,
+    "style_tags": [
+      "fanfic",
+      "tiên hiệp",
+      "đoạt xá",
+      "đổi mệnh"
+    ]
+  },
+  "characters": [
+    {
+      "name_translated": "Mặc Cư Nhân",
+      "name_original": "墨居仁",
+      "role": "protagonist",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Pham Nhan Bat Dau Doat Xa Mac Cu Nhan_Tieu Tran Tu/illustrations/characters/m_c_c_nh_n_portrait.png",
+      "scene_slot": "Output/Pham Nhan Bat Dau Doat Xa Mac Cu Nhan_Tieu Tran Tu/illustrations/characters/m_c_c_nh_n_scene.png",
+      "portrait_prompt": "Portrait of Mặc Cư Nhân, a man character from 'Phàm Nhân Bắt Đầu Đoạt Xá Mặc Cư Nhân'. Role: heroic aura, determined expression, center of frame. Character context: Người xuyên không vào thân xác Mặc đại phu. Sở hữu Huyết mạch chuyển hóa lô.. Composition: bust portrait, 3/4 angle, expressive face. Art style: anime illustration style, clean linework, vibrant colors. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of Mặc Cư Nhân (man) from 'Phàm Nhân Bắt Đầu Đoạt Xá Mặc Cư Nhân'. Role: heroic aura, determined expression, center of frame. Description: Người xuyên không vào thân xác Mặc đại phu. Sở hữu Huyết mạch chuyển hóa lô.. Setting: Fanfiction đặt trên nền Phàm Nhân Tu Tiên, nơi một linh hồn dị thế nhập vào thân xác Mặc Cư Nhân và cố viết lại vận mệnh bi kịch đã định của mình.. First appears in {'chapter': 0, 'context': ''}. Art style: anime illustration style, clean linework, vibrant colors. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    },
+    {
+      "name_translated": "Dư Tử Đồng",
+      "name_original": "余子童",
+      "role": "antagonist",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Pham Nhan Bat Dau Doat Xa Mac Cu Nhan_Tieu Tran Tu/illustrations/characters/d_t_ng_portrait.png",
+      "scene_slot": "Output/Pham Nhan Bat Dau Doat Xa Mac Cu Nhan_Tieu Tran Tu/illustrations/characters/d_t_ng_scene.png",
+      "portrait_prompt": "Portrait of Dư Tử Đồng, a man character from 'Phàm Nhân Bắt Đầu Đoạt Xá Mặc Cư Nhân'. Role: menacing presence, cold calculating eyes, imposing stance. Character context: Tu tiên giả bị mất thân xác, đang bám vào Mặc đại phu.. Composition: bust portrait, 3/4 angle, expressive face. Art style: anime illustration style, clean linework, vibrant colors. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of Dư Tử Đồng (man) from 'Phàm Nhân Bắt Đầu Đoạt Xá Mặc Cư Nhân'. Role: menacing presence, cold calculating eyes, imposing stance. Description: Tu tiên giả bị mất thân xác, đang bám vào Mặc đại phu.. Setting: Fanfiction đặt trên nền Phàm Nhân Tu Tiên, nơi một linh hồn dị thế nhập vào thân xác Mặc Cư Nhân và cố viết lại vận mệnh bi kịch đã định của mình.. First appears in {'chapter': 0, 'context': ''}. Art style: anime illustration style, clean linework, vibrant colors. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    },
+    {
+      "name_translated": "Hàn Lập",
+      "name_original": "韩立",
+      "role": "",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Pham Nhan Bat Dau Doat Xa Mac Cu Nhan_Tieu Tran Tu/illustrations/characters/h_n_l_p_portrait.png",
+      "scene_slot": "Output/Pham Nhan Bat Dau Doat Xa Mac Cu Nhan_Tieu Tran Tu/illustrations/characters/h_n_l_p_scene.png",
+      "portrait_prompt": "Portrait of Hàn Lập, a man character from 'Phàm Nhân Bắt Đầu Đoạt Xá Mặc Cư Nhân'. Role: distinctive character. Character context: Nhị lăng tử của Thất Huyền môn, nhặt được Tiểu lục bình.. Composition: bust portrait, 3/4 angle, expressive face. Art style: anime illustration style, clean linework, vibrant colors. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of Hàn Lập (man) from 'Phàm Nhân Bắt Đầu Đoạt Xá Mặc Cư Nhân'. Role: distinctive character. Description: Nhị lăng tử của Thất Huyền môn, nhặt được Tiểu lục bình.. Setting: Fanfiction đặt trên nền Phàm Nhân Tu Tiên, nơi một linh hồn dị thế nhập vào thân xác Mặc Cư Nhân và cố viết lại vận mệnh bi kịch đã định của mình.. First appears in {'chapter': 0, 'context': ''}. Art style: anime illustration style, clean linework, vibrant colors. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    },
+    {
+      "name_translated": "Trương Thiết",
+      "name_original": "张铁",
+      "role": "disciple (former)",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Pham Nhan Bat Dau Doat Xa Mac Cu Nhan_Tieu Tran Tu/illustrations/characters/tr_ng_thi_t_portrait.png",
+      "scene_slot": "Output/Pham Nhan Bat Dau Doat Xa Mac Cu Nhan_Tieu Tran Tu/illustrations/characters/tr_ng_thi_t_scene.png",
+      "portrait_prompt": "Portrait of Trương Thiết, a man character from 'Phàm Nhân Bắt Đầu Đoạt Xá Mặc Cư Nhân'. Role: distinctive character. Character context: Đệ tử của Mặc đại phu, bị luyện thành Thiết nô (Zombie/Luyện thi). Thân như sắt thép.. Composition: bust portrait, 3/4 angle, expressive face. Art style: anime illustration style, clean linework, vibrant colors. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of Trương Thiết (man) from 'Phàm Nhân Bắt Đầu Đoạt Xá Mặc Cư Nhân'. Role: distinctive character. Description: Đệ tử của Mặc đại phu, bị luyện thành Thiết nô (Zombie/Luyện thi). Thân như sắt thép.. Setting: Fanfiction đặt trên nền Phàm Nhân Tu Tiên, nơi một linh hồn dị thế nhập vào thân xác Mặc Cư Nhân và cố viết lại vận mệnh bi kịch đã định của mình.. First appears in {'chapter': 0, 'context': ''}. Art style: anime illustration style, clean linework, vibrant colors. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    }
+  ]
+}

@@ -1,9 +1,11 @@
 {
   "metadata": {
-    "source_language": "zh",
-    "target_language": "vi",
-    "genre": "eastern_fiction",
-    "last_updated": "2026-04-07T15:49:35Z"
+    "version": "2.0",
+    "schema": "gold",
+    "branch": "Ac Linh Quoc Gia",
+    "last_updated": "2026-05-30T04:48:09+07:00",
+    "total_entries": 44,
+    "previous_schema": "legacy"
   },
   "entries": [
     {
@@ -12,7 +14,9 @@
       "target": "Hiệu sách lớn Tân Hoa",
       "category": "proper_names_cn",
       "context": "Location: Large bookstore where the trial takes place",
-      "confidence": "verified"
+      "confidence": "verified",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "平安街",
@@ -20,7 +24,9 @@
       "target": "Phố Bình An",
       "category": "proper_names_cn",
       "context": "Location: Street where the bookstore is located",
-      "confidence": "verified"
+      "confidence": "verified",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "福平市",
@@ -28,7 +34,9 @@
       "target": "Thành phố Phúc Bình",
       "category": "proper_names_cn",
       "context": "Location: Setting of the story",
-      "confidence": "verified"
+      "confidence": "verified",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "阴阳先生",
@@ -36,37 +44,59 @@
       "target": "Thầy âm dương",
       "category": "supernatural_terms",
       "context": "Folklore: A master of Yin and Yang, dealing with ghosts and rituals",
-      "confidence": "verified"
+      "confidence": "verified",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "荣誉手表",
-      "source_target": "Đồng hồ Vinh dự",
-      "definition": "Thiết bị cấp cho nhân viên để quản lý điểm và nhiệm vụ.",
-      "category": "Terminology"
+      "source_language": "zh",
+      "target": "Thiết bị cấp cho nhân viên để quản lý điểm và nhiệm vụ.",
+      "category": "Terminology",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "荣誉点",
-      "source_target": "Điểm vinh dự",
-      "definition": "Tiền tệ dùng để nâng cấp hoặc mua sắm trong Minh Phủ.",
-      "category": "Terminology"
+      "source_language": "zh",
+      "target": "Tiền tệ dùng để nâng cấp hoặc mua sắm trong Minh Phủ.",
+      "category": "Terminology",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "葫芦村",
-      "source_target": "thôn Hồ Lô",
-      "definition": "Ngôi làng diễn ra nhiệm vụ Batch 4/5.",
-      "category": "Location"
+      "source_language": "zh",
+      "target": "Ngôi làng diễn ra nhiệm vụ Batch 4/5.",
+      "category": "Location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "贞水岭",
-      "source_target": "Trinh Thủy Lĩnh",
-      "definition": "Vùng núi bao quanh thôn Hồ Lô.",
-      "category": "Location"
+      "source_language": "zh",
+      "target": "Vùng núi bao quanh thôn Hồ Lô.",
+      "category": "Location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "经理",
-      "source_target": "Kinh lý",
-      "definition": "Cấp bậc quản lý cao cấp trong Minh Phủ (trên Chủ quản).",
-      "category": "Rank"
+      "source_language": "zh",
+      "target": "Cấp bậc quản lý cao cấp trong Minh Phủ (trên Chủ quản).",
+      "category": "Rank",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "跳闸",
@@ -74,7 +104,9 @@
       "target": "Nhảy cầu dao",
       "category": "technical_terms",
       "context": "Electrical: Circuit breaker tripping",
-      "confidence": "verified"
+      "confidence": "verified",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "鬼玉",
@@ -82,7 +114,9 @@
       "target": "Quỷ Ngọc",
       "category": "supernatural_terms",
       "context": "Item: A protective jade amulet given by the protagonist's grandfather",
-      "confidence": "verified"
+      "confidence": "verified",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "乾坤袋",
@@ -90,7 +124,9 @@
       "target": "Túi Càn Khôn",
       "category": "supernatural_terms",
       "context": "Item: A bag containing various protective amulets and charms",
-      "confidence": "verified"
+      "confidence": "verified",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "老顽童",
@@ -98,7 +134,9 @@
       "target": "Lão Ngoan Đồng",
       "category": "proper_names_cn",
       "context": "Character Nickname: protagonist's grandfather's nickname",
-      "confidence": "verified"
+      "confidence": "verified",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "海公公",
@@ -106,7 +144,9 @@
       "target": "Hải Công Công",
       "category": "proper_names_cn",
       "context": "Character Nickname: protagonist's friend",
-      "confidence": "verified"
+      "confidence": "verified",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "孙龙",
@@ -114,7 +154,9 @@
       "target": "Tôn Long",
       "category": "proper_names_cn",
       "context": "Character Name: protagonist's friend",
-      "confidence": "verified"
+      "confidence": "verified",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "四方阵",
@@ -122,7 +164,9 @@
       "target": "Tứ Phương Trận",
       "category": "supernatural_terms",
       "context": "Supernatural Technique: A defensive/trapping array used by the recruiter",
-      "confidence": "verified"
+      "confidence": "verified",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "四方火笼",
@@ -130,7 +174,9 @@
       "target": "Tứ Phương Hỏa Lung",
       "category": "supernatural_terms",
       "context": "Supernatural Technique: A fiery cage formed by the Tứ Phương Trận",
-      "confidence": "verified"
+      "confidence": "verified",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "徐天华",
@@ -138,7 +184,9 @@
       "target": "Từ Thiên Hoa",
       "category": "proper_names_cn",
       "context": "Character Name: The middle-aged uncle (char_006)",
-      "confidence": "verified"
+      "confidence": "verified",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "梁若芸",
@@ -146,7 +194,9 @@
       "target": "Lương Nhược Vân",
       "category": "proper_names_cn",
       "context": "Character Name: Advanced Manager of the company (char_007)",
-      "confidence": "verified"
+      "confidence": "verified",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "齐河女子学院",
@@ -154,7 +204,9 @@
       "target": "Học viện nữ sinh Tề Hà",
       "category": "proper_names_cn",
       "context": "Location: Setting of the second trial",
-      "confidence": "verified"
+      "confidence": "verified",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "韩熙元",
@@ -162,7 +214,9 @@
       "target": "Hàn Hi Nguyên",
       "category": "proper_names_cn",
       "context": "Character Name: Newcomer in the second trial (char_008)",
-      "confidence": "verified"
+      "confidence": "verified",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "李笑笑",
@@ -170,7 +224,9 @@
       "target": "Lý Tiếu Tiếu",
       "category": "proper_names_cn",
       "context": "Character Name: Newcomer in the second trial (char_009)",
-      "confidence": "verified"
+      "confidence": "verified",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "冷月",
@@ -178,7 +234,9 @@
       "target": "Lãnh Nguyệt",
       "category": "proper_names_cn",
       "context": "Character Name: Newcomer in the second trial (char_010)",
-      "confidence": "verified"
+      "confidence": "verified",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "王怡然",
@@ -186,7 +244,9 @@
       "target": "Vương Di Nhiên",
       "category": "proper_names_cn",
       "context": "Character Name: Victim of the suicide incident (char_011)",
-      "confidence": "verified"
+      "confidence": "verified",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "头七回魂夜",
@@ -194,7 +254,9 @@
       "target": "Đêm hồi hồn đầu thất",
       "category": "supernatural_terms",
       "context": "Folklore: The 7th day after death when the soul returns.",
-      "confidence": "verified"
+      "confidence": "verified",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "水鬼",
@@ -202,7 +264,9 @@
       "target": "Thủy quỷ",
       "category": "supernatural_terms",
       "context": "Entity: A water ghost that dehydrates victims.",
-      "confidence": "verified"
+      "confidence": "verified",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "干尸",
@@ -210,7 +274,9 @@
       "target": "Xác khô",
       "category": "supernatural_terms",
       "context": "Entity/State: A dehydrated corpse or 'human jerky'.",
-      "confidence": "verified"
+      "confidence": "verified",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "辣条",
@@ -218,7 +284,9 @@
       "target": "Lạt điều",
       "category": "food_terms",
       "context": "Snack: Spicy strips, a popular Chinese snack used by HTK to calm down.",
-      "confidence": "verified"
+      "confidence": "verified",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "老坟岗",
@@ -226,7 +294,9 @@
       "target": "Lão Phần Cương",
       "category": "proper_names_cn",
       "context": "Location: Old cemetery of Hulu Village where Xu Chong was killed.",
-      "confidence": "verified"
+      "confidence": "verified",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "徐冲",
@@ -234,7 +304,9 @@
       "target": "Từ Xung",
       "category": "proper_names_cn",
       "context": "Character Name: Xiao Li's lover, murdered by Chen Laoda.",
-      "confidence": "verified"
+      "confidence": "verified",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "陈全良",
@@ -242,7 +314,9 @@
       "target": "Trần Toàn Lương",
       "category": "proper_names_cn",
       "context": "Character Name: Real name of Trần Lão Đại (Chen Laoda).",
-      "confidence": "verified"
+      "confidence": "verified",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "天眼",
@@ -250,7 +324,9 @@
       "target": "Thiên Nhãn",
       "category": "supernatural_terms",
       "context": "Ability: Heaven's Eye used by Lãnh Nguyệt to see ghosts.",
-      "confidence": "verified"
+      "confidence": "verified",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "困鬼阵",
@@ -258,7 +334,9 @@
       "target": "Khốn Quỷ Trận",
       "category": "supernatural_terms",
       "context": "Technique: Ghost-trapping array.",
-      "confidence": "verified"
+      "confidence": "verified",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "困鬼符",
@@ -266,7 +344,9 @@
       "target": "Khốn Quỷ Phù",
       "category": "supernatural_terms",
       "context": "Item: Ghost-trapping talisman.",
-      "confidence": "verified"
+      "confidence": "verified",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "驱鬼师",
@@ -274,7 +354,9 @@
       "target": "Khu quỷ sư",
       "category": "supernatural_terms",
       "context": "Role: Exorcist, like Lãnh Nguyệt.",
-      "confidence": "verified"
+      "confidence": "verified",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "恶灵体质",
@@ -282,7 +364,9 @@
       "target": "Ác Linh Thể Chất",
       "category": "supernatural_terms",
       "context": "Ability: Evil Spirit Constitution possessed by HTK.",
-      "confidence": "verified"
+      "confidence": "verified",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "第三冥府",
@@ -290,7 +374,9 @@
       "target": "Đệ Tam Minh Phủ",
       "category": "proper_names_cn",
       "context": "Faction: The real name of the Company HTK works for.",
-      "confidence": "verified"
+      "confidence": "verified",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "完美级评分",
@@ -298,7 +384,9 @@
       "target": "Hoàn mỹ bình phân",
       "category": "terminology",
       "context": "System: Perfect grade mission rating.",
-      "confidence": "verified"
+      "confidence": "verified",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "北安",
@@ -306,7 +394,9 @@
       "target": "Bắc An",
       "category": "proper_names_cn",
       "context": "Location: HTK's hometown.",
-      "confidence": "verified"
+      "confidence": "verified",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "曹金海",
@@ -314,7 +404,9 @@
       "target": "Tào Kim Hải",
       "category": "proper_names_cn",
       "context": "Character Name: HTK's college roommate",
-      "confidence": "verified"
+      "confidence": "verified",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "杨书成",
@@ -322,7 +414,9 @@
       "target": "Dương Thư Thành",
       "category": "proper_names_cn",
       "context": "Character Name: HTK's college roommate",
-      "confidence": "verified"
+      "confidence": "verified",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "李昌野",
@@ -330,7 +424,9 @@
       "target": "Lý Xương Dã",
       "category": "proper_names_cn",
       "context": "Character Name: HTK's college roommate",
-      "confidence": "verified"
+      "confidence": "verified",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "许小婉",
@@ -338,7 +434,9 @@
       "target": "Hứa Tiểu Uyển",
       "category": "proper_names_cn",
       "context": "Character Name: Dương Thư Thành's girlfriend",
-      "confidence": "verified"
+      "confidence": "verified",
+      "notes": "",
+      "locked": false
     },
     {
       "source": "镇北市",
@@ -346,9 +444,9 @@
       "target": "Thành phố Trấn Bắc",
       "category": "proper_names_cn",
       "context": "Location: Hometown of Cao Jinhai",
-      "confidence": "verified"
+      "confidence": "verified",
+      "notes": "",
+      "locked": false
     }
-  ],
-  "_characters_note": "Nhân vật đã chuyển hoàn toàn sang characters.json (Wiki-style v2.0). Không dùng mảng characters trong glossary nữa.",
-  "_relationships_note": "Quan hệ đã chuyển hoàn toàn sang characters.json (relationships[])."
+  ]
 }

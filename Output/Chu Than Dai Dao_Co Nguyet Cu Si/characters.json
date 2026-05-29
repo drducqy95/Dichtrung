@@ -1,90 +1,287 @@
 {
-    "characters": [
-        {
-            "id": "char_zhao_qi",
-            "name_zh": "赵奇",
-            "name_vi": "Triệu Kỳ",
-            "gender": "Nam",
-            "role": "Main Character",
-            "description": "Nhân vật chính, nhận được di sản của Sáng Thế và Tạo Vật.",
-            "traits": [
-                "Bình tĩnh",
-                "Thông minh",
-                "Tham vọng"
-            ],
-            "aliases": [
-                "Sáng Thế Thần",
-                "Tạo Vật Chủ"
-            ],
-            "power_system": "Sáng Thế (Creation)",
-            "realms": [
-                "Thần tính (Divine Spark)"
-            ],
-            "stats": {
-                "Sức mạnh": 21,
-                "Mẫn tiệp": 19,
-                "Thể chất": "?",
-                "Tinh thần": "?",
-                "Thần lực": 17
-            },
-            "items": [
-                "thần cách Deneir",
-                "phó não Trí năng Lượng tử",
-                "The Seed",
-                "bảo châu Alaya sơ cấp"
-            ]
-        },
-        {
-            "id": "char_denier",
-            "name_zh": "迪奈尔",
-            "name_vi": "Deneir",
-            "gender": "Nam",
-            "role": "Deity (Deceased)",
-            "description": "Văn học chi thần, người để lại di sản cho Triệu Kỳ. (Tên Phương Tây)"
-        },
-        {
-            "id": "char_ji_cheng",
-            "name_zh": "姬诚",
-            "name_vi": "Cơ Thành",
-            "gender": "Nam",
-            "role": "Major Character",
-            "description": "Người chơi tiêu biểu trong thế giới ảo của Triệu Kỳ."
-        },
-        {
-            "id": "char_yan_chixia",
-            "name_zh": "燕赤霞",
-            "name_vi": "Yến Xích Hà",
-            "gender": "Nam",
-            "role": "Virtual NPC",
-            "description": "Nhân vật trong thế giới ảo do Triệu Kỳ tạo ra."
-        },
-        {
-            "id": "char_ning_caichen",
-            "name_zh": "宁采臣",
-            "name_vi": "Ninh Thái Thần",
-            "gender": "Nam",
-            "role": "Virtual NPC",
-            "description": "Nhân vật thư sinh trong thế giới ảo."
-        },
-        {
-            "id": "char_ling_xiang",
-            "name_zh": "凌翔",
-            "name_vi": "Lăng Tường",
-            "gender": "Nam",
-            "role": "Character",
-            "description": "Người chơi, thành viên Cục Quốc An, mật danh Lang Nha.",
-            "aliases": [
-                "Lang Nha"
-            ]
-        },
-        {
-            "id": "char_dang_weiguo",
-            "name_zh": "党为国",
-            "name_vi": "Đảng Vị Quốc",
-            "gender": "Nam",
-            "role": "Character",
-            "description": "Cục trưởng Cục Quốc An."
-        }
-    ],
-    "relationships": []
+  "metadata": {
+    "version": "2.0",
+    "schema": "gold",
+    "branch": "Chu Than Dai Dao_Co Nguyet Cu Si",
+    "last_updated": "2026-05-30T04:48:09+07:00",
+    "total_characters": 7,
+    "previous_schema": "legacy"
+  },
+  "characters": [
+    {
+      "id": "char_zhao_qi",
+      "name_source": "赵奇",
+      "name_target": "Triệu Kỳ",
+      "name_aliases": [
+        "Sáng Thế Thần",
+        "Tạo Vật Chủ"
+      ],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "main character",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Nhân vật chính, nhận được di sản của Sáng Thế và Tạo Vật.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [
+          "Bình tĩnh",
+          "Thông minh",
+          "Tham vọng"
+        ],
+        "speech": ""
+      },
+      "notes": "Nhân vật chính, nhận được di sản của Sáng Thế và Tạo Vật."
+    },
+    {
+      "id": "char_denier",
+      "name_source": "迪奈尔",
+      "name_target": "Deneir",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "deity (deceased)",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Văn học chi thần, người để lại di sản cho Triệu Kỳ. (Tên Phương Tây)",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Văn học chi thần, người để lại di sản cho Triệu Kỳ. (Tên Phương Tây)"
+    },
+    {
+      "id": "char_ji_cheng",
+      "name_source": "姬诚",
+      "name_target": "Cơ Thành",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "major character",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Người chơi tiêu biểu trong thế giới ảo của Triệu Kỳ.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Người chơi tiêu biểu trong thế giới ảo của Triệu Kỳ."
+    },
+    {
+      "id": "char_yan_chixia",
+      "name_source": "燕赤霞",
+      "name_target": "Yến Xích Hà",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "virtual npc",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Nhân vật trong thế giới ảo do Triệu Kỳ tạo ra.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Nhân vật trong thế giới ảo do Triệu Kỳ tạo ra."
+    },
+    {
+      "id": "char_ning_caichen",
+      "name_source": "宁采臣",
+      "name_target": "Ninh Thái Thần",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "virtual npc",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Nhân vật thư sinh trong thế giới ảo.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Nhân vật thư sinh trong thế giới ảo."
+    },
+    {
+      "id": "char_ling_xiang",
+      "name_source": "凌翔",
+      "name_target": "Lăng Tường",
+      "name_aliases": [
+        "Lang Nha"
+      ],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "character",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Người chơi, thành viên Cục Quốc An, mật danh Lang Nha.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Người chơi, thành viên Cục Quốc An, mật danh Lang Nha."
+    },
+    {
+      "id": "char_dang_weiguo",
+      "name_source": "党为国",
+      "name_target": "Đảng Vị Quốc",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "character",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Cục trưởng Cục Quốc An.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": "Cục trưởng Cục Quốc An."
+    }
+  ]
 }

@@ -1,0 +1,60 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Translation Result",
+  "description": "Structured output from the AI translation node.",
+  "type": "object",
+  "properties": {
+    "chapter_title_translated": {
+      "type": "string",
+      "description": "The translated title of the chapter."
+    },
+    "translated_text": {
+      "type": "string",
+      "description": "The complete translated markdown text. Must contain full translation, no truncation."
+    },
+    "new_terms_discovered": {
+      "type": "array",
+      "description": "List of new terms (names, concepts, items) discovered during translation that should be added to the glossary.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "source": { "type": "string" },
+          "target": { "type": "string" },
+          "category": { "type": "string" },
+          "note": { "type": "string" }
+        },
+        "required": ["source", "target"]
+      }
+    },
+    "new_characters_discovered": {
+      "type": "array",
+      "description": "List of new characters introduced in this chapter.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name_original": { "type": "string" },
+          "name_translated": { "type": "string" },
+          "gender": { "type": "string", "enum": ["male", "female", "unknown", "other"] },
+          "description": { "type": "string" }
+        },
+        "required": ["name_original", "name_translated"]
+      }
+    },
+    "chapter_summary": {
+      "type": "string",
+      "description": "A 1-2 paragraph summary of the events in this chapter."
+    },
+    "refusal": {
+      "type": "string",
+      "description": "If the model refuses to translate (e.g. due to safety or prompt injection), output the reason here. Otherwise leave empty."
+    }
+  },
+  "required": [
+    "chapter_title_translated",
+    "translated_text",
+    "new_terms_discovered",
+    "new_characters_discovered",
+    "chapter_summary"
+  ],
+  "additionalProperties": false
+}

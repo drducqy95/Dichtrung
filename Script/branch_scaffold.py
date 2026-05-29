@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import argparse
+import importlib.util
 import json
 import re
 import sys
@@ -533,6 +534,65 @@ def format_progress(completed: int | None, total: int | None) -> str:
     return f"{completed or 0} chương"
 
 
+def reconcile_progress(branch_dir: Path, progress: dict[str, Any]) -> dict[str, Any]:
+    """Ensure completed_chapters reflects ALL output files, not just those in progress.chapters.
+
+    Chapters translated before Strict Engine was introduced may exist as *.md
+    output files but have no entry in progress.json.  This function backfills
+    them as DONE and recomputes the counter so README always shows reality.
+    """
+    out_dir = branch_dir / "output"
+    if not out_dir.exists():
+        return progress
+
+    existing_nums = {
+        c["chapter_number"]
+        for c in progress.get("chapters", [])
+        if isinstance(c.get("chapter_number"), int)
+    }
+
+    added = 0
+    chapters: list[dict[str, Any]] = progress.setdefault("chapters", [])
+    for path in sorted(p for p in out_dir.iterdir() if p.is_file() and p.suffix.lower() == ".md"):
+        file_num, file_title = extract_filename_info(path.name)
+        if file_num is None or file_num in existing_nums:
+            continue
+        # Try to read actual heading title from the file
+        try:
+            text = path.read_text(encoding="utf-8", errors="ignore")
+            heading_num, heading_title = extract_heading(text)
+            title = (heading_title or file_title or f"Chương {file_num}").strip()
+        except OSError:
+            title = file_title or f"Chương {file_num}"
+        chapters.append({
+            "chapter_number": file_num,
+            "title": title,
+            "status": "DONE",
+            "last_updated": now_iso(),
+            "note": "backfilled by branch_scaffold",
+        })
+        existing_nums.add(file_num)
+        added += 1
+
+    if added:
+        chapters.sort(key=lambda c: c.get("chapter_number") or 0)
+        progress["chapters"] = chapters
+
+    # Always recompute so the stored field never drifts
+    done_count = sum(1 for c in chapters if str(c.get("status", "")).lower() == "done")
+    old_count = progress.get("completed_chapters")
+    if old_count != done_count or added:
+        progress["completed_chapters"] = done_count
+        progress["last_updated"] = now_iso()
+        # Persist the fix immediately
+        try:
+            write_json(branch_dir / "progress.json", progress)
+        except OSError:
+            pass
+
+    return progress
+
+
 def normalize_status(value: Any) -> str:
     status = str(value or "").strip().lower()
     if status in {"done", "complete", "completed", "finished"}:
@@ -806,7 +866,7 @@ def render_style_markdown(title: str, record: dict[str, Any], style_tags: list[s
         "",
         "## Đoạn gốc đã dịch",
         "",
-        record["excerpt"] or "_Chưa có excerpt đủ dài từ output hiện tại._",
+        record.get("excerpt") or record.get("base_excerpt") or "_Chưa có excerpt đủ dài từ output hiện tại._",
         "",
     ]
     for variant in variants:
@@ -853,6 +913,10 @@ def scaffold_branch(branch_dir: Path) -> None:
     progress_path = branch_dir / "progress.json"
     cfg = read_json(cfg_path)
     progress = read_json(progress_path)
+    # Reconcile completed_chapters against actual output files before doing anything
+    progress = reconcile_progress(branch_dir, progress)
+    # Ensure characters.json / glossary.json / worldbuilding.json are Gold Schema
+    _run_schema_migrate(branch_dir)
     records = output_records(branch_dir, progress)
     readme = parse_branch_readme(branch_dir / "README.md")
     title, author = title_from_source(
@@ -1020,6 +1084,19 @@ def scaffold_branch(branch_dir: Path) -> None:
     write_json(branch_dir / "toc.json", toc_json_payload)
     
     assets = scan_images(branch_dir)
+    char_manifest_path = branch_dir / "ebook" / "character_manifest.json"
+    char_manifest_ref = {
+        "path": "ebook/character_manifest.json",
+        "status": "generated" if char_manifest_path.exists() else "pending",
+        "total_characters": 0,
+    }
+    # Try to read existing character manifest for the total count
+    if char_manifest_path.exists():
+        try:
+            _cm = json.loads(char_manifest_path.read_text(encoding="utf-8"))
+            char_manifest_ref["total_characters"] = (_cm.get("metadata") or {}).get("total_characters", 0)
+        except (json.JSONDecodeError, OSError):
+            pass
     write_json(
         branch_dir / "ebook" / "illustration_manifest.json",
         {
@@ -1034,14 +1111,52 @@ def scaffold_branch(branch_dir: Path) -> None:
             },
             "sample_chapter": {"chapter_number": sample_payload["sample"]["chapter_number"], "chapter_title": sample_payload["sample"]["chapter_title"], "prompt": override["sample_illustration"], "asset_candidates": assets["chapters"]},
             "supplementary_assets": {"maps": assets["maps"], "characters": assets["characters"], "diagrams": assets["diagrams"]},
+            "character_manifest": char_manifest_ref,
         },
     )
+
+    # Build character illustration prompts
+    _run_character_prompts(branch_dir)
+
+def _run_schema_migrate(branch_dir: Path) -> None:
+    """Lazy-load schema_migrate and normalise state files for this branch."""
+    script_path = Path(__file__).parent / "schema_migrate.py"
+    if not script_path.exists():
+        return
+    try:
+        spec = importlib.util.spec_from_file_location("schema_migrate", script_path)
+        mod = importlib.util.module_from_spec(spec)  # type: ignore[arg-type]
+        spec.loader.exec_module(mod)  # type: ignore[union-attr]
+        results = mod.migrate_branch(branch_dir, dry_run=False)
+        changed = [r["file"] for r in results if r.get("status") not in ("ok", "already_gold")]
+        if changed:
+            print(f"  └─ schema migrated: {', '.join(changed)}")
+    except Exception as exc:  # noqa: BLE001
+        print(f"  └─ [WARN] schema_migrate failed: {exc}")
+
+
+def _run_character_prompts(branch_dir: Path) -> None:
+    """Lazy-load build_character_prompts and run it for a single branch."""
+    script_path = Path(__file__).parent / "build_character_prompts.py"
+    if not script_path.exists():
+        return
+    try:
+        spec = importlib.util.spec_from_file_location("build_character_prompts", script_path)
+        mod = importlib.util.module_from_spec(spec)  # type: ignore[arg-type]
+        spec.loader.exec_module(mod)  # type: ignore[union-attr]
+        result = mod.build_character_prompts(branch_dir)
+        n = result.get("total", 0)
+        if n:
+            print(f"  └─ characters: {n} prompts → ebook/character_manifest.json")
+    except Exception as exc:  # noqa: BLE001
+        print(f"  └─ [WARN] build_character_prompts failed: {exc}")
 
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Scaffold README, converter_db and ebook artifacts for Dichtrung branches.")
     parser.add_argument("--branch", help="Tên project branch trong Output/")
     parser.add_argument("--all", action="store_true", help="Scaffold toàn bộ branch hiện có trong Output/")
+    parser.add_argument("--skip-chars", action="store_true", help="Bỏ qua bước sinh character prompts")
     return parser.parse_args()
 
 

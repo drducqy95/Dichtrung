@@ -1,0 +1,114 @@
+{
+  "schema_version": "1.0",
+  "branch": "Linh Hon Negary_Hu Minh",
+  "chapter": 223,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Linh Hon Negary_Hu Minh\\0223 - 第223章 大钟塔.md",
+  "source_char_count": 2228,
+  "characters": [
+    {
+      "source": "贡献值",
+      "entity_type": "person",
+      "count": 7,
+      "confidence": 0.82,
+      "evidence": [
+        "以记录贡献值以及交易贡献值。”      布莱",
+        "成员名单+7，余额1贡献值。”\n“戒指对接在一",
+        "指对接在一起就能交易贡献值，你们可以尝试一下，"
+      ]
+    },
+    {
+      "source": "任务",
+      "entity_type": "person",
+      "count": 4,
+      "confidence": 0.7,
+      "evidence": [
+        "\n“长期有效的贡献值任务，一是发展密修会，招",
+        "修会，另一个则是我的任务，收集一切的超凡知识",
+        "男士帮助我完成一个小任务，杀死一个挡路者。”"
+      ]
+    },
+    {
+      "source": "钟塔",
+      "entity_type": "person",
+      "count": 4,
+      "confidence": 0.7,
+      "evidence": [
+        "第223章 大钟塔\n钟声缓缓的响起，位",
+        "尔镇西方，有着一座大钟塔。\n每当到达夜晚，危",
+        "的大教堂，其次便是大钟塔。\n这可是一个醒目的"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "source": "一是发展密修会",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "期有效的贡献值任务，一是发展密修会，招收有才能的人进入"
+      ]
+    },
+    {
+      "source": "但是那种老鼠一般的组织",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "杂的地形确实很安全，但是那种老鼠一般的组织，很难给予人们一种安"
+      ]
+    },
+    {
+      "source": "招收有才能的人进入密修会",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "务，一是发展密修会，招收有才能的人进入密修会，另一个则是我的任务"
+      ]
+    },
+    {
+      "source": "整个洛尔镇地势最高的地方自然是日影教会的大教堂",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "布莱恩神色略微一惊，整个洛尔镇地势最高的地方自然是日影教会的大教堂，其次便是大钟塔。\n"
+      ]
+    },
+    {
+      "source": "邀请加入了密修会",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "异之处被奈格里发现，邀请加入了密修会，并通过神秘学知识，"
+      ]
+    }
+  ],
+  "locations": [],
+  "realms": [],
+  "techniques": [
+    "中心处已经",
+    "各位已经",
+    "奈格里大人已经",
+    "让密修会实力进一步",
+    "身后再次传来脚步",
+    "这是有才能者的想法"
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "域",
+      "target": "Vực"
+    },
+    {
+      "source": "侍者",
+      "target": "Thị Giả"
+    },
+    {
+      "source": "不洁隐修会",
+      "target": "Hiệp Hội Ẩn Tu Bất Khiết"
+    }
+  ],
+  "generated_at": "2026-05-30T04:20:32.747814+07:00"
+}

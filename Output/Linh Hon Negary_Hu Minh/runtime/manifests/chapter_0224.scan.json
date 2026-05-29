@@ -1,0 +1,174 @@
+{
+  "schema_version": "1.0",
+  "branch": "Linh Hon Negary_Hu Minh",
+  "chapter": 224,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Linh Hon Negary_Hu Minh\\0224 - 第224章 代表混沌的不洁.md",
+  "source_char_count": 2240,
+  "characters": [
+    {
+      "source": "时候",
+      "entity_type": "person",
+      "count": 3,
+      "confidence": 0.7,
+      "evidence": [
+        "毕竟在面对超凡力量的时候，金钱就不一定比贡献",
+        "方方面面，甚至在某些时候，日影教会办事都不一",
+        "沾染上太多其他事物的时候，就已经可以称为不洁"
+      ]
+    },
+    {
+      "source": "强大",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "\n至于无声教会则更是强大，他们作为洛尔镇地区",
+        "运用起来，才能真正的强大。”奈格里十分明白这"
+      ]
+    },
+    {
+      "source": "能力",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "验, 自身又有着超凡能力，同时还极为擅长伪装",
+        "，就算获得了有潜力的能力，也不一定能够强大起"
+      ]
+    },
+    {
+      "source": "解决",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "修会的能量来帮助他们解决问题，而又利用这些有",
+        "人替其他隐修会成员来解决问题，赚取贡献值。\n"
+      ]
+    },
+    {
+      "source": "贡献值",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.82,
+      "evidence": [
+        "成员来解决问题，赚取贡献值。\n和之前身为死刑犯",
+        "起来，他们用金钱购买贡献值，毕竟在面对超凡力量"
+      ]
+    },
+    {
+      "source": "金钱",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "掉，获得了一笔不菲的金钱，随后便开始调查比罗",
+        "”克罗米付出了大量的金钱，很快他也得到了比罗"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "source": "他们作为洛尔镇地区最大的邪教",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "无声教会则更是强大，他们作为洛尔镇地区最大的邪教，极为隐秘，可能只是"
+      ]
+    },
+    {
+      "source": "他们还能送人进入日影教会的骑士训练营或者圣学院",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "付出的代价足够的话，他们还能送人进入日影教会的骑士训练营或者圣学院。\n“这是一个隐秘的"
+      ]
+    },
+    {
+      "source": "奈格里倾听了一会",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "和隐修会接触了么？”奈格里倾听了一会，重新打开一个卷轴笑"
+      ]
+    },
+    {
+      "source": "情报公司",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "了许多人，私家侦探、情报公司、守夜人甚至教会内部"
+      ]
+    },
+    {
+      "source": "敲响了大门",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "摁了一下自己的帽子，敲响了大门，这些天他拜访了许多"
+      ]
+    },
+    {
+      "source": "这是一个隐秘的组织",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "练营或者圣学院。\n“这是一个隐秘的组织, 十分的危险。”克"
+      ]
+    },
+    {
+      "source": "随后便开始调查比罗修斯和无声教会",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "得了一笔不菲的金钱，随后便开始调查比罗修斯和无声教会。\n那些跟着他来的同"
+      ]
+    }
+  ],
+  "locations": [],
+  "realms": [],
+  "techniques": [
+    "仪式的解析正慢慢步",
+    "克罗米已经",
+    "各种危险的魔法",
+    "就已经",
+    "就是他根据某种魔法",
+    "有着丰富的反侦查经",
+    "莱恩现如今借助已经",
+    "还算正常的魔法"
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "弥漫",
+      "target": "Mễ Mạn"
+    },
+    {
+      "source": "骑士",
+      "target": "Hiệp sĩ"
+    },
+    {
+      "source": "区",
+      "target": "Khu"
+    },
+    {
+      "source": "侍者",
+      "target": "Thị Giả"
+    },
+    {
+      "source": "比罗修斯",
+      "target": "Peroxis"
+    },
+    {
+      "source": "奥莉",
+      "target": "Oly"
+    }
+  ],
+  "generated_at": "2026-05-30T04:20:52.833969+07:00"
+}

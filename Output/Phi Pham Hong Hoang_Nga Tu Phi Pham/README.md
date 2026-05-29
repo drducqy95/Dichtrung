@@ -6,7 +6,7 @@ Bối cảnh: Thiên địa sơ khai của thế giới Hồng Hoang, nơi núi 
 Tóm tắt nội dung: La Phàm tỉnh dậy giữa một thế giới hoàn toàn không còn dấu vết Trái Đất, từ đó bước vào hành trình nhận thức lại bản thân, huyết mạch và đại đạo trong môi trường nguyên sơ nhất của hồng hoang.
 
 Branch nội bộ: `Phi Pham Hong Hoang_Nga Tu Phi Pham`
-Tiến độ hiện tại: `80/3398` chương
+Tiến độ hiện tại: `130/3398` chương
 
 Quy ước output:
 - Hiển thị mong muốn: `Chương {chapter:04d}: {title}.md`
