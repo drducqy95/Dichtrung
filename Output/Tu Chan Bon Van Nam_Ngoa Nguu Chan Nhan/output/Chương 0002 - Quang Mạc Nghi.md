@@ -66,9 +66,9 @@ Lý Diệu cầm kính lúp, tỉ mỉ quan sát miếng tinh phiến chủ vừ
 
 "Không đúng... không chỉ có ba trăm linh phù, miếng tinh phiến chủ này dường như áp dụng công nghệ xếp chồng tinh thể, xếp chồng ba miếng tinh phiến lại với nhau, tổng cộng lưu trữ hơn ngàn đạo linh phù, tạo thành hơn trăm phù trận lập thể, thật không thể tin nổi!"
 
-Càng nghiên cứu, cậu càng thấy nó bác đại tinh thâm. Lý Diệu hoàn toàn chìm đắm vào trong đó, quên mất cả thời gian trôi qua, mải miết鑽 nghiên cứu suốt hơn ba tiếng đồng hồ vẫn không thể giải mã nổi dù chỉ một phù trận hoàn chỉnh, trái lại còn tự làm mình hoa mắt chóng mặt, trước mắt tối sầm từng trận.
+Càng nghiên cứu, cậu càng thấy nó bác đại tinh thâm. Lý Diệu hoàn toàn chìm đắm vào trong đó, quên mất cả thời gian trôi qua, mải miết mày mò nghiên cứu suốt hơn ba tiếng đồng hồ vẫn không thể giải mã nổi dù chỉ một phù trận hoàn chỉnh, trái lại còn tự làm mình hoa mắt chóng mặt, trước mắt tối sầm từng trận.
 
-Trình độ hiện tại của cậu tối đa cũng chỉ ở mức "nhân viên sửa chữa pháp bảo sơ cấp", khoảng cách tới trình độ của một luyện器 đại sư của "Thiên Huyễn Tông" còn quá xa, quá xa.
+Trình độ hiện tại của cậu tối đa cũng chỉ ở mức "nhân viên sửa chữa pháp bảo sơ cấp", khoảng cách tới trình độ của một luyện khí đại sư của "Thiên Huyễn Tông" còn quá xa, quá xa.
 
 Nếu miếng "tinh phiến chủ" này có vấn đề thì cậu cũng đành chịu trói tay, chỉ có nước đem quang mạc nghi lập thể này đi bán phế liệu.
 

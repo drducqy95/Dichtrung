@@ -222,6 +222,30 @@ def update_state(branch_name: str, chapter: int) -> bool:
     
     output_md_path = get_output_chapter_path(branch_name, chapter, title=translated_title)
     
+    # ── CJK Safety Net (last-resort sanitization before disk write) ──
+    _cjk_found = []
+    for i, ch in enumerate(translated_text):
+        cp = ord(ch)
+        if (0x4E00 <= cp <= 0x9FFF or 0x3400 <= cp <= 0x4DBF
+                or 0x20000 <= cp <= 0x2A6DF or 0xF900 <= cp <= 0xFAFF
+                or 0x2E80 <= cp <= 0x2EFF or 0x2F00 <= cp <= 0x2FDF):
+            ctx_start = max(0, i - 10)
+            ctx_end = min(len(translated_text), i + 10)
+            _cjk_found.append(f"U+{cp:04X} '{ch}' @{i}: ...{translated_text[ctx_start:ctx_end]}...")
+    if _cjk_found:
+        LOGGER.warning(
+            "CJK characters detected in ch.%d output (%d chars). Auto-removing. Details:\n  %s",
+            chapter, len(_cjk_found), "\n  ".join(_cjk_found[:10])
+        )
+        # Auto-strip CJK characters from the translated text
+        translated_text = "".join(
+            ch for ch in translated_text
+            if not (0x4E00 <= ord(ch) <= 0x9FFF or 0x3400 <= ord(ch) <= 0x4DBF
+                    or 0x20000 <= ord(ch) <= 0x2A6DF or 0xF900 <= ord(ch) <= 0xFAFF
+                    or 0x2E80 <= ord(ch) <= 0x2EFF or 0x2F00 <= ord(ch) <= 0x2FDF)
+        )
+    # ── End CJK Safety Net ──
+
     # Format the markdown content
     md_content = f"# Chương {chapter:04d}: {translated_title}\n\n{translated_text}"
     write_text_atomic(output_md_path, md_content)

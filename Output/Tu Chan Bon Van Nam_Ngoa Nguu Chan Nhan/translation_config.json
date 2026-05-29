@@ -48,5 +48,9 @@
     "toc_file": "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/ebook/toc.md",
     "illustration_manifest_file": "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/ebook/illustration_manifest.json"
   },
-  "readme_path": "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/README.md"
+  "readme_path": "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/README.md",
+  "sanitization": {
+    "ban_cjk_in_output": true,
+    "cjk_check_mode": "error"
+  }
 }

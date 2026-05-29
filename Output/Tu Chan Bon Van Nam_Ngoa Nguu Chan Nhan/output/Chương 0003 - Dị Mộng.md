@@ -58,7 +58,7 @@ Nhìn từ xa, Phù Qua Thành tựa như một con cự thú đang thức giấ
 
 Nhiều tu chân giả lơ lửng giữa không trung tranh thủ thời khắc giao hòa giữa ngày và đêm để hấp thu tinh hoa nhật nguyệt. Quanh thân họ quấn quýt những bùa văn lấp lánh ánh sáng tám góc, một số người bên cạnh còn có tiên hạc, hỏa nha, sao băng bay lượn quanh người, khí thế vô cùng to lớn, bá đạo lộ rõ ra ngoài.
 
-Những chiếc thuyền bay khổng lồ kéo theo những vệt lửa đuôi dài dằng dặc, lững lờ bay lượn trên bầu trời, vệt lửa đan chéo nhau giữa trời xanh mây trắng tạo thành một tấm lưới linh năng khổng lồ. Những chiếc phi tiêu cá nhân nhỏ nhắn tinh xảo không ngừng xuyên qua các mắt lưới, phát ra những tiếng rít悦 tai.
+Những chiếc thuyền bay khổng lồ kéo theo những vệt lửa đuôi dài dằng dặc, lững lờ bay lượn trên bầu trời, vệt lửa đan chéo nhau giữa trời xanh mây trắng tạo thành một tấm lưới linh năng khổng lồ. Những chiếc phi tiêu cá nhân nhỏ nhắn tinh xảo không ngừng xuyên qua các mắt lưới, phát ra những tiếng rít vui tai.
 
 — Đây chính là buổi sáng ở Phù Qua Thành, một trọng trấn tu luyện của Liên bang!
 

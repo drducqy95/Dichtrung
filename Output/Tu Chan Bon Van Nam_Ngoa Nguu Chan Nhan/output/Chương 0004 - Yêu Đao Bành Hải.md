@@ -92,6 +92,6 @@ Muốn làm luyện khí đại sư thì trước tiên phải là tu chân gi�
 
 Mải suy nghĩ vẩn vơ, Lý Diệu hơi mất tập trung, thậm chí không nghe rõ trên lễ đài đang phát biểu những gì. Thời gian của tu chân giả rất quý báu, Yêu Đao Bành Hải cũng không nói dông dài quá lâu, Hiệu trưởng Triệu Thụ Đức liền tuyên bố kết thúc buổi họp toàn trường.
 
-Bành Hải được các học sinh lớp trọng điểm簇 vây quanh rời đi, học sinh lớp song hành và lớp thường cũng giải tán, rủ nhau đi về phía tòa nhà giảng đường.
+Bành Hải được các học sinh lớp trọng điểm xúm xít vây quanh rời đi, học sinh lớp song hành và lớp thường cũng giải tán, rủ nhau đi về phía tòa nhà giảng đường.
 
 Một ngày học tập chính thức bắt đầu!

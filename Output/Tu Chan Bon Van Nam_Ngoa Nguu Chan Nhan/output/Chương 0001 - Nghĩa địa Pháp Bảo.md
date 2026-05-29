@@ -26,7 +26,7 @@ Dưới bầu trời vàng úa, một vùng đầm lầy bị ô nhiễm hóa th
 
 Cách đó không xa, bên trong một ngọn núi rác, phù trận của pháp bảo phế thải bị vỡ nát, linh lực còn sót lại lập tức phát nổ, thổi bay nửa ngọn núi lên không trung.
 
-Vô số mảnh linh kiện kim loại như thiên nữ tán hoa bắn ra tứ phía, lại châm ngòi cho sự sụp đổ liên hoàn của vài ngọn núi rác xung quanh, hất lên漫 thiên khói bụi tụa như yêu ma nhảy múa, che khuất cả bầu trời.
+Vô số mảnh linh kiện kim loại như thiên nữ tán hoa bắn ra tứ phía, lại châm ngòi cho sự sụp đổ liên hoàn của vài ngọn núi rác xung quanh, hất lên mạn thiên khói bụi tựa như yêu ma nhảy múa, che khuất cả bầu trời.
 
 Nơi đây dường như là vùng cấm của sự sống, chỉ có những loài gián và sâu bọ nhỏ bé không đáng kể mới coi nơi này là thiên đường.
 

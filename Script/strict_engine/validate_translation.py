@@ -29,8 +29,16 @@ LOGGER = get_logger("validate_translation")
 
 
 def is_cjk(ch: str) -> bool:
-    """Check if a character is in CJK Unified Ideographs range."""
-    return "\u4e00" <= ch <= "\u9fff"
+    """Check if a character is in any CJK Ideograph range (Unified, Ext-A/B, Compat, Radicals)."""
+    cp = ord(ch)
+    return (
+        0x4E00 <= cp <= 0x9FFF        # CJK Unified Ideographs
+        or 0x3400 <= cp <= 0x4DBF     # CJK Extension A
+        or 0x20000 <= cp <= 0x2A6DF   # CJK Extension B
+        or 0xF900 <= cp <= 0xFAFF     # CJK Compatibility Ideographs
+        or 0x2E80 <= cp <= 0x2EFF     # CJK Radicals Supplement
+        or 0x2F00 <= cp <= 0x2FDF     # Kangxi Radicals
+    )
 
 
 def run_validation(branch_name: str, chapter: int) -> dict[str, Any]:
@@ -83,16 +91,26 @@ def run_validation(branch_name: str, chapter: int) -> dict[str, Any]:
     pack = load_json(context_pack_path)
     config = load_json(branch_dir / "translation_config.json") or {}
 
-    # 4. CJK Ban Enforcement
-    if config.get("sanitization", {}).get("ban_cjk_in_output"):
+    # 4. CJK Ban Enforcement (DEFAULT ON — only skip if explicitly disabled)
+    ban_cjk = config.get("sanitization", {}).get("ban_cjk_in_output", True)
+    if ban_cjk is not False:
         cjk_chars = [ch for ch in translated_text if is_cjk(ch)]
         if cjk_chars:
-            unique_cjk = set(cjk_chars)
-            # Find snippet
-            first_cjk = cjk_chars[0]
-            pos = translated_text.find(first_cjk)
-            snippet = translated_text[max(0, pos-15):min(len(translated_text), pos+15)]
-            errors.append(f"CJK characters found in output despite ban: {list(unique_cjk)[:5]}. Snippet: '...{snippet}...'")
+            unique_cjk = list(set(cjk_chars))[:10]
+            # Collect all positions for detailed diagnostics
+            positions = []
+            for i, ch in enumerate(translated_text):
+                if is_cjk(ch):
+                    start = max(0, i - 15)
+                    end = min(len(translated_text), i + 15)
+                    positions.append(f"  U+{ord(ch):04X} '{ch}' at pos {i}: '...{translated_text[start:end]}...'")
+                    if len(positions) >= 5:
+                        break
+            detail = "\n".join(positions)
+            errors.append(
+                f"CJK characters found in output ({len(cjk_chars)} occurrences, "
+                f"{len(set(cjk_chars))} unique): {unique_cjk}\n{detail}"
+            )
 
     # 5. Locked Terms Enforcement
     if pack and "dynamic_glossary" in pack:

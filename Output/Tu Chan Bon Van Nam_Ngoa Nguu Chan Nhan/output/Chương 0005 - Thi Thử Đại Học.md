@@ -16,7 +16,7 @@ Hàng vạn đạo bùa văn khắc trên vách trong của khoang thi cử đ�
 
 Mặt đất nóng rực khiến hai bàn chân đau nhói như bị kim châm. Không khí đậm đặc đến mức gần như đông cứng lại, tựa như một chiếc khăn ướt quấn chặt lấy cơ thể, giãy giụa thế nào cũng không thoát ra nổi. Thi thoảng, một cơn gió nóng quét qua mang theo mùi máu tanh nồng nặc, bốn phương tám hướng loáng thoáng có tiếng sói tru quỷ khóc thê lương.
 
-Mọi giác quan đều chân thực đến cực điểm, cứ như thể cậu đang thực sự đặt chân lên vùng đất chết chóc đầy rẫy huyết腥 này.
+Mọi giác quan đều chân thực đến cực điểm, cứ như thể cậu đang thực sự đặt chân lên vùng đất chết chóc đầy rẫy huyết tinh này.
 
 Nhưng Lý Diệu biết rõ đây chỉ là "Thái Hư Huyễn Cảnh" do khoang thi cử tạo ra. Thời gian vô cùng gấp gáp, cậu nhanh chóng trấn tĩnh tinh thần, lao nhanh theo hướng chỉ dẫn của một mũi tên trong suốt trên bầu trời.
 
