@@ -1,7 +1,68 @@
 {
-  "completed_chapters": 0,
-  "chapters": {},
-  "last_updated": "2026-05-30T04:51:59+07:00",
+  "completed_chapters": 10,
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Nghĩa địa Pháp Bảo",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:54:02.286170+07:00"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Quang Mạc Nghi",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:54:30.443828+07:00"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Dị Mộng",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:54:54.411976+07:00"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Yêu Đao Bành Hải",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:55:16.421338+07:00"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Thi Thử Đại Học",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:55:37.054020+07:00"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Đại Hắc Ám Thời Đại",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:55:55.577530+07:00"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Nữ Thần Nhị Trung",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:56:18.201158+07:00"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Sửa Chữa Tinh Não",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:56:38.372420+07:00"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Cá Mặn Và Đôi Giày",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:57:00.299346+07:00"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Âm Hồn Nhập Thể",
+      "status": "DONE",
+      "last_updated": "2026-05-30T04:57:22.211402+07:00"
+    }
+  ],
+  "last_updated": "2026-05-30T04:57:34+07:00",
   "workflow_artifacts": {
     "branch_readme": "README.md",
     "converter_db_ready": true,

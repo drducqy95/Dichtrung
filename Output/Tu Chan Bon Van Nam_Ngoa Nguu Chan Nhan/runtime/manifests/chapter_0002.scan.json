@@ -1,0 +1,275 @@
+{
+  "schema_version": "1.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 2,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan\\0002 - 2.第2章 光幕仪.md",
+  "source_char_count": 4240,
+  "characters": [
+    {
+      "source": "陆音希",
+      "entity_type": "person",
+      "count": 4,
+      "confidence": 0.82,
+      "evidence": [
+        "喊着一个名字：\n\n“陆音希！”\n\n“陆音希！”",
+        "\n“陆音希！”\n\n“陆音希！”\n\n“陆音希！”",
+        "\n“陆音希！”\n\n“陆音希！”\n\n三层楼高的主"
+      ]
+    },
+    {
+      "source": "符文",
+      "entity_type": "person",
+      "count": 3,
+      "confidence": 0.7,
+      "evidence": [
+        "然浮现出了几十道控制符文。\n\n“光幕仪，开启",
+        "汇聚成了一道“回”形符文，恍若漩涡，飞速旋转",
+        "上交织着红色和绿色的符文、数字、箭头，不断跳"
+      ]
+    },
+    {
+      "source": "符阵",
+      "entity_type": "person",
+      "count": 3,
+      "confidence": 0.7,
+      "evidence": [
+        "引，组成了超过二十个符阵，简直是艺术品！”\n",
+        "符，组成了上百道立体符阵，太不可思议了！”\n",
+        "解析出哪怕一座完整的符阵，却把自己看得头昏眼"
+      ]
+    },
+    {
+      "source": "元件",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "被他拆卸成了最基本的元件，胡乱堆在角落里，化",
+        "拆卸成了四百二十五枚元件。\n\n“三十九秒，搞"
+      ]
+    },
+    {
+      "source": "双手",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "血沸腾的少男少女高举双手，共同呐喊着一个名字",
+        "”\n\n“以区区凡人的双手，就能维修低阶法宝，"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "source": "千幻宗",
+      "entity_type": "organization",
+      "count": 2,
+      "confidence": 0.78,
+      "evidence": [
+        "的胖蛇。\n\n“竟然是千幻宗推出的最新一代‘立体"
+      ]
+    },
+    {
+      "source": "一进房门",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "法宝维修工作室。\n\n一进房门，首先印入眼帘的是用"
+      ]
+    },
+    {
+      "source": "争取考上大学",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "答应老爹，好好念书，争取考上大学，成为修真者！只有成"
+      ]
+    },
+    {
+      "source": "包括巨剑门",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "\n“而整个剑修板块，包括巨剑门、极北剑宗、南海剑派"
+      ]
+    },
+    {
+      "source": "南海剑派在内的二十二家宗门",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "括巨剑门、极北剑宗、南海剑派在内的二十二家宗门，股价也一路飘红，截"
+      ]
+    },
+    {
+      "source": "无影剑派",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "天最大的新闻无疑是‘无影剑派’宣布最新一代飞剑驱"
+      ]
+    },
+    {
+      "source": "极北剑宗",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "修板块，包括巨剑门、极北剑宗、南海剑派在内的二十"
+      ]
+    },
+    {
+      "source": "金甲宗",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "一方面，偏重防御的‘金甲宗’等宗派股价则一路下"
+      ]
+    },
+    {
+      "source": "金甲宗在收盘后召开了临时新闻发布会",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "跌超过8%。”\n\n“金甲宗在收盘后召开了临时新闻发布会，金甲宗新闻发言人黑"
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "source": "但朝阳新村却是浮戈城最破落的一处廉租房小区",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "。\n\n名字虽然好听，但朝阳新村却是浮戈城最破落的一处廉租房小区。\n\n因为靠近法宝坟"
+      ]
+    },
+    {
+      "source": "化作几座微型垃圾山",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "件，胡乱堆在角落里，化作几座微型垃圾山。\n\n此时，李耀正捧"
+      ]
+    },
+    {
+      "source": "朝阳新村",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "种垃圾处理场旁边的“朝阳新村”。\n\n名字虽然好听"
+      ]
+    },
+    {
+      "source": "简直是一座鬼城",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "纹，楼道里遍布蛛网，简直是一座鬼城。\n\n李耀正是这座“"
+      ]
+    },
+    {
+      "source": "而在联邦北方的草原区",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "飞剑的攻击。”\n\n“而在联邦北方的草原区，黑线虫疫灾持续蔓延"
+      ]
+    },
+    {
+      "source": "鬼城",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "遍布蛛网，简直是一座鬼城。\n\n李耀正是这座“"
+      ]
+    }
+  ],
+  "realms": [],
+  "techniques": [
+    "一台银白色的匣形法",
+    "上万种稀奇古怪的法",
+    "主流的战甲根本无法",
+    "你才有可能在法",
+    "冲黑色飞剑",
+    "凌到十几年后成为法",
+    "初级法",
+    "初级飞剑",
+    "包括巨剑",
+    "南海剑",
+    "哪怕一座完整的符阵",
+    "因为靠近法",
+    "在家里进行法",
+    "宝维修上更进一步",
+    "宣布最新一代飞剑",
+    "寒光闪闪的飞剑",
+    "对能防御住一切飞剑",
+    "对飞剑",
+    "将银白法",
+    "就能维修低阶法",
+    "御住最新型号的飞剑",
+    "成了上百道立体符阵",
+    "成了超过二十个符阵",
+    "战甲的研发已经",
+    "无影剑",
+    "星球的九十九种方法",
+    "是一名非常厉害的法",
+    "更多的法",
+    "有些像是螺丝刀",
+    "来运算万千念头的法",
+    "极北剑",
+    "民用法",
+    "永远只能维修低阶法",
+    "的卧室却改造成了法",
+    "的神秘飞剑",
+    "眼前一阵阵",
+    "等新符阵",
+    "继续为各位播送财经",
+    "而整个剑",
+    "而里屋的法",
+    "而银白色的法",
+    "见识过上万个法",
+    "那他没有任何办法",
+    "长着黑色羽翼的飞剑",
+    "首先印",
+    "驱动符阵",
+    "黑翼剑",
+    "黑色飞剑"
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "特种垃圾处理场",
+      "target": "Bãi xử lý rác thải đặc chủng"
+    },
+    {
+      "source": "法宝坟墓",
+      "target": "Nghĩa địa Pháp Bảo"
+    },
+    {
+      "source": "浮戈城",
+      "target": "Phù Qua Thành"
+    },
+    {
+      "source": "晶脑",
+      "target": "Tinh não"
+    },
+    {
+      "source": "小黑",
+      "target": "Tiểu Hắc"
+    }
+  ],
+  "generated_at": "2026-05-30T04:54:07.383028+07:00"
+}

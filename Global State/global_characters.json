@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-05-30T04:29:48+07:00",
-    "total_characters": 269,
+    "last_updated": "2026-05-30T04:57:33+07:00",
+    "total_characters": 287,
     "source_projects": [
       "Ac Linh Quoc Gia",
       "Chu Than Dai Dao_Co Nguyet Cu Si",
@@ -12,7 +12,8 @@
       "Pham Nhan Bat au oat Xa Mac Cu Nhan_Tieu Tran Tu",
       "Phi Pham Hong Hoang_Nga Tu Phi Pham",
       "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
-      "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han"
+      "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han",
+      "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan"
     ],
     "description": "Tổng hợp nhân vật từ TẤT CẢ project branch trong repo Dichtrung"
   },
@@ -2943,6 +2944,204 @@
       "description": "",
       "first_appearance": "Chương 113",
       "notes": ""
+    },
+    {
+      "id": "GCHAR_0249",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "name_original": "李耀",
+      "name_translated": "Lý Diệu",
+      "gender": "male",
+      "role": "khác",
+      "description": "",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "notes": "{'primary_system': '', 'current_realm': '', 'current_sub_stage': '', 'notes': ''}"
+    },
+    {
+      "id": "GCHAR_0250",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "name_original": "肥龙",
+      "name_translated": "Phì Long",
+      "gender": "male",
+      "role": "khác",
+      "description": "",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "notes": "{'primary_system': '', 'current_realm': '', 'current_sub_stage': '', 'notes': ''}"
+    },
+    {
+      "id": "GCHAR_0251",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "name_original": "天星子",
+      "name_translated": "Thiên Tinh Tử",
+      "gender": "male",
+      "role": "khác",
+      "description": "",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "notes": "{'primary_system': '', 'current_realm': '', 'current_sub_stage': '', 'notes': ''}"
+    },
+    {
+      "id": "GCHAR_0252",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "name_original": "陆音希",
+      "name_translated": "Lục Âm Hi",
+      "gender": "female",
+      "role": "khác",
+      "description": "",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "notes": "{'primary_system': '', 'current_realm': '', 'current_sub_stage': '', 'notes': ''}"
+    },
+    {
+      "id": "GCHAR_0253",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "name_original": "老爹",
+      "name_translated": "Lão cha",
+      "gender": "male",
+      "role": "khác",
+      "description": "",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "notes": "{'primary_system': '', 'current_realm': '', 'current_sub_stage': '', 'notes': ''}"
+    },
+    {
+      "id": "GCHAR_0254",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "name_original": "老王",
+      "name_translated": "Lão Vương",
+      "gender": "male",
+      "role": "khác",
+      "description": "",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "notes": "{'primary_system': '', 'current_realm': '', 'current_sub_stage': '', 'notes': ''}"
+    },
+    {
+      "id": "GCHAR_0255",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "name_original": "刀疤强",
+      "name_translated": "Đao Cáp Cường",
+      "gender": "male",
+      "role": "khác",
+      "description": "",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "notes": "{'primary_system': '', 'current_realm': '', 'current_sub_stage': '', 'notes': ''}"
+    },
+    {
+      "id": "GCHAR_0256",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "name_original": "彭海",
+      "name_translated": "Bành Hải",
+      "gender": "male",
+      "role": "khác",
+      "description": "",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "notes": "{'primary_system': '', 'current_realm': '', 'current_sub_stage': '', 'notes': ''}"
+    },
+    {
+      "id": "GCHAR_0257",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "name_original": "赵树德",
+      "name_translated": "Triệu Thụ Đức",
+      "gender": "male",
+      "role": "khác",
+      "description": "",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "notes": "{'primary_system': '', 'current_realm': '', 'current_sub_stage': '', 'notes': ''}"
+    },
+    {
+      "id": "GCHAR_0258",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "name_original": "孟江",
+      "name_translated": "Mạnh Giang",
+      "gender": "male",
+      "role": "khác",
+      "description": "",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "notes": "{'primary_system': '', 'current_realm': '', 'current_sub_stage': '', 'notes': ''}"
+    },
+    {
+      "id": "GCHAR_0259",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "name_original": "黑面神",
+      "name_translated": "Hắc Diện Thần",
+      "gender": "male",
+      "role": "khác",
+      "description": "",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "notes": "{'primary_system': '', 'current_realm': '', 'current_sub_stage': '', 'notes': ''}"
+    },
+    {
+      "id": "GCHAR_0260",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "name_original": "肖明",
+      "name_translated": "Tiêu Minh",
+      "gender": "male",
+      "role": "khác",
+      "description": "",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "notes": "{'primary_system': '', 'current_realm': '', 'current_sub_stage': '', 'notes': ''}"
+    },
+    {
+      "id": "GCHAR_0261",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "name_original": "帝皇",
+      "name_translated": "Đế Hoàng",
+      "gender": "male",
+      "role": "khác",
+      "description": "",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "notes": "{'primary_system': '', 'current_realm': '', 'current_sub_stage': '', 'notes': ''}"
+    },
+    {
+      "id": "GCHAR_0262",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "name_original": "司佳雪",
+      "name_translated": "Tiêu Giai Tuyết",
+      "gender": "female",
+      "role": "khác",
+      "description": "",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "notes": "{'primary_system': '', 'current_realm': '', 'current_sub_stage': '', 'notes': ''}"
+    },
+    {
+      "id": "GCHAR_0263",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "name_original": "赫连烈",
+      "name_translated": "Hách Liên Liệt",
+      "gender": "male",
+      "role": "khác",
+      "description": "",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "notes": "{'primary_system': '', 'current_realm': '', 'current_sub_stage': '', 'notes': ''}"
+    },
+    {
+      "id": "GCHAR_0264",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "name_original": "老者",
+      "name_translated": "Lão giả",
+      "gender": "male",
+      "role": "khác",
+      "description": "",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "notes": "{'primary_system': '', 'current_realm': '', 'current_sub_stage': '', 'notes': ''}"
+    },
+    {
+      "id": "GCHAR_0265",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "name_original": "欧冶明",
+      "name_translated": "Âu Dã Minh",
+      "gender": "male",
+      "role": "khác",
+      "description": "",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "notes": "{'primary_system': '', 'current_realm': '', 'current_sub_stage': '', 'notes': ''}"
+    },
+    {
+      "id": "GCHAR_0266",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "name_original": "巨灵神",
+      "name_translated": "Cự Linh Thần",
+      "gender": "male",
+      "role": "khác",
+      "description": "",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "notes": "{'primary_system': '', 'current_realm': '', 'current_sub_stage': '', 'notes': ''}"
     }
   ]
 }

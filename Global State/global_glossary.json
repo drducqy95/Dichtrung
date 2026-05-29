@@ -3,8 +3,8 @@
     "version": "1.0.12",
     "source_language": "zh",
     "target_language": "vi",
-    "last_updated": "2026-05-30T04:29:48+07:00",
-    "total_entries": 883,
+    "last_updated": "2026-05-30T04:57:33+07:00",
+    "total_entries": 982,
     "source_projects": [
       "Ac Linh Quoc Gia",
       "Hong Hoang Lich_Zhttty",
@@ -14,7 +14,8 @@
       "Phi Pham Hong Hoang_Nga Tu Phi Pham",
       "Sieu Duy Thuat Si_Muc Ho",
       "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
-      "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han"
+      "Theo Tu Than Bat Dau Danh Xuyen Qua Tong Man Vo Han",
+      "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan"
     ],
     "description": "Tổng hợp thuật ngữ dịch thuật từ TẤT CẢ project branch trong repo Dichtrung"
   },
@@ -8846,6 +8847,996 @@
       "source_project": "Ta Trong Binh Vu Tru_Tam Bach Can Dich Vi Tieu",
       "confidence": "low",
       "notes": "Công nghệ",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0876",
+      "source_term": "铁锈湖",
+      "target_term": "Hồ Thiết Tú",
+      "category": "location",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Hồ nước bị ô nhiễm nặng nề ở ngoại ô Phù Qua Thành.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0877",
+      "source_term": "特种垃圾处理场",
+      "target_term": "Bãi xử lý rác thải đặc chủng",
+      "category": "location",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Nơi tập trung xử lý các pháp bảo phế thải và rác kim loại linh năng.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0878",
+      "source_term": "法宝坟墓",
+      "target_term": "Nghĩa địa Pháp Bảo",
+      "category": "location",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Tên gọi khác của bãi xử lý rác thải đặc chủng.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0879",
+      "source_term": "浮戈城",
+      "target_term": "Phù Qua Thành",
+      "category": "location",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Trọng trấn tu luyện của Liên bang.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0880",
+      "source_term": "飞灵宗",
+      "target_term": "Phi Linh Tông",
+      "category": "faction",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Tông môn tu luyện chế tạo đồng hồ linh tử đi săn.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0881",
+      "source_term": "上东区",
+      "target_term": "khu Thượng Đông",
+      "category": "location",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Khu nhà giàu và tu chân giả xa hoa nhất Phù Qua Thành.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0882",
+      "source_term": "野狼帮",
+      "target_term": "Dã Lang Bang",
+      "category": "faction",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Băng đảng thu lượm rác pháp bảo ngang ngược.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0883",
+      "source_term": "赤霄派附属第二高中",
+      "target_term": "Trường trung học số hai trực thuộc Xích Tiêu Phái",
+      "category": "faction",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Trường học của Lý Diệu tại Phù Qua Thành.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0884",
+      "source_term": "晶脑",
+      "target_term": "Tinh não",
+      "category": "item",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Máy tính lượng tử vận hành bằng năng lượng tinh thạch trong thế giới tu chân.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0885",
+      "source_term": "星光",
+      "target_term": "Tinh Quang",
+      "category": "item",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Một dòng linh cấp tinh não phổ thông.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0886",
+      "source_term": "青龙门",
+      "target_term": "Thanh Long Môn",
+      "category": "faction",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Môn phái chế tác tinh não.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0887",
+      "source_term": "骁龙17型",
+      "target_term": "Kiêu Long 17",
+      "category": "item",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Mẫu tinh não tiên tiến do Thanh Long Môn chế tạo.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0888",
+      "source_term": "小黑",
+      "target_term": "Tiểu Hắc",
+      "category": "item",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Thanh phi kiếm đen rách nát cũ kỹ của Lý Diệu.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0889",
+      "source_term": "朝阳新村",
+      "target_term": "Triêu Dương Tân Thôn",
+      "category": "location",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Khu chung cư giá rẻ tồi tàn nhất Phù Qua Thành nằm cạnh nghĩa địa pháp bảo.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0890",
+      "source_term": "光幕仪",
+      "target_term": "Quang mạc nghi",
+      "category": "item",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Thiết bị trình chiếu hình ảnh lập thể bằng linh năng.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0891",
+      "source_term": "立体光幕仪",
+      "target_term": "Quang mạc nghi lập thể",
+      "category": "item",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Tên đầy đủ của thiết bị quang mạc trình chiếu lập thể.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0892",
+      "source_term": "千幻宗",
+      "target_term": "Thiên Huyễn Tông",
+      "category": "faction",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Tông môn chuyên chế tạo các thiết bị quang mạc và pháp bảo ảo ảnh.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0893",
+      "source_term": "无影剑派",
+      "target_term": "Vô Ảnh Kiếm Phái",
+      "category": "faction",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Môn phái chế tác phi kiếm nổi tiếng với phù trận紫电.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0894",
+      "source_term": "巨剑门",
+      "target_term": "Cự Kiếm Môn",
+      "category": "faction",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Một tông môn kiếm tu.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0895",
+      "source_term": "极北剑宗",
+      "target_term": "Cực Bắc Kiếm Tông",
+      "category": "faction",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Môn phái kiếm tu phương bắc.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0896",
+      "source_term": "南海剑派",
+      "target_term": "Nam Hải Kiếm Phái",
+      "category": "faction",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Môn phái kiếm tu phương nam.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0897",
+      "source_term": "金甲宗",
+      "target_term": "Kim Giáp Tông",
+      "category": "faction",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Tông môn chuyên về giáp trụ phòng ngự.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0898",
+      "source_term": "星击盾",
+      "target_term": "Tinh Kích Thuẫn",
+      "category": "item",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Dòng chiến giáp thế hệ mới của Kim Giáp Tông.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0899",
+      "source_term": "天星子",
+      "target_term": "Thiên Tinh Tử",
+      "category": "character",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Nhà phân tích chứng khoán nổi tiếng trên truyền hình tu chân.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0900",
+      "source_term": "陆音希",
+      "target_term": "Lục Âm Hi",
+      "category": "character",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Ca sĩ thần tượng trẻ tuổi nổi tiếng với bài hát 'Tu Chân 40000 Năm'.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0901",
+      "source_term": "老爹",
+      "target_term": "Lão cha",
+      "category": "character",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Người nhặt nuôi Lý Diệu, truyền thụ kỹ năng sửa chữa pháp bảo trước khi qua đời.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0902",
+      "source_term": "黑翼",
+      "target_term": "Hắc Dực",
+      "category": "item",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Thanh phi kiếm bí ẩn Lão cha để lại cho Lý Diệu, chính là Tiểu Hắc.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0903",
+      "source_term": "老王二手商店",
+      "target_term": "Cửa hàng đồ cũ Lão Vương",
+      "category": "location",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Cửa hàng thu mua và sửa chữa pháp bảo cũ của Lão Vương gần trường học.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0904",
+      "source_term": "野马GT",
+      "target_term": "Mustang GT",
+      "category": "item",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Mẫu xe hơi thể thao nổi tiếng ở thế giới cũ của Lý Diệu.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0905",
+      "source_term": "之江路",
+      "target_term": "đường Chi Giang",
+      "category": "location",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Con đường đua xe ngầm nổi tiếng ở thế giới cũ của Lý Diệu.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0906",
+      "source_term": "刀疤强",
+      "target_term": "Đao Cáp Cường",
+      "category": "character",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Gã giang hồ chuyên siết nợ ở thế giới cũ.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0907",
+      "source_term": "灵蛇身法",
+      "target_term": "Linh Xà Thân Pháp",
+      "category": "technique",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Môn thân pháp cơ bản được giảng dạy trong trường học tu chân.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0908",
+      "source_term": "地下晶轨三号线",
+      "target_term": "tuyến tàu ngầm tinh quỹ số 3",
+      "category": "location",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Hệ thống tàu điện ngầm vận hành bằng tinh thạch.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0909",
+      "source_term": "赤霄二中",
+      "target_term": "Xích Tiêu Nhị Trung",
+      "category": "faction",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Tên gọi tắt của Trường Trung học số hai trực thuộc Xích Tiêu Phái.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0910",
+      "source_term": "疯狂高考季",
+      "target_term": "mùa thi đại học điên cuồng",
+      "category": "general",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Giai đoạn học tập và chuẩn bị thi cử căng thẳng trước kỳ thi đại học.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0911",
+      "source_term": "九大精英联校",
+      "target_term": "Chín đại học tinh anh liên kết",
+      "category": "faction",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Nhóm chín trường đại học hàng đầu Liên bang chuyên bồi dưỡng tu chân giả.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0912",
+      "source_term": "重点班",
+      "target_term": "lớp trọng điểm",
+      "category": "faction",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Lớp học tập trung các học sinh có thiên phú tu luyện cao nhất.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0913",
+      "source_term": "平行班",
+      "target_term": "lớp song hành",
+      "category": "faction",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Lớp học dành cho học sinh có tư chất bình thường nhưng gia cảnh giàu có.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0914",
+      "source_term": "普通班",
+      "target_term": "lớp thường",
+      "category": "faction",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Lớp học dành cho con em bình dân, học lực và tài nguyên hạn chế.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0915",
+      "source_term": "大荒战院",
+      "target_term": "Đại Hoang Chiến Viện",
+      "category": "faction",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Một trong chín trường đại học tinh anh liên kết của Liên bang.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0916",
+      "source_term": "联邦军",
+      "target_term": "Quân đội Liên bang",
+      "category": "faction",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Lực lượng quân sự bảo vệ Tinh Ước Liên Bang.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0917",
+      "source_term": "玄鸟战梭",
+      "target_term": "Huyền Điểu Chiến Toa",
+      "category": "item",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Mẫu phi thuyền chiến đấu bọc thép tiên tiến của Liên bang.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0918",
+      "source_term": "筑基期",
+      "target_term": "Trúc Cơ Kỳ",
+      "category": "level",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Cảnh giới tu chân cấp thứ hai, sau Luyện Khí Kỳ.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0919",
+      "source_term": "银白海滩",
+      "target_term": "Bãi Biển Bạc",
+      "category": "location",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Khu vực ven biển sang trọng nơi Bành Hải mua biệt thự.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0920",
+      "source_term": "赤霄运输集团",
+      "target_term": "Tập đoàn Vận tải Xích Tiêu",
+      "category": "faction",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Tập đoàn vận tải lớn thuộc Xích Tiêu Phái chuyên khai thác các tuyến đường nguy hiểm.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0921",
+      "source_term": "考试舱",
+      "target_term": "khoang thi cử",
+      "category": "item",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Buồng thi chuyên dụng để thí sinh kết nối thần thức vào Thái Hư Huyễn Cảnh.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0922",
+      "source_term": "太虚幻境",
+      "target_term": "Thái Hư Huyễn Cảnh",
+      "category": "location",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Không gian ảo lập thể xây dựng từ linh năng để mô phỏng môi trường chiến đấu thực tế.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0923",
+      "source_term": "沙狼",
+      "target_term": "sa lang",
+      "category": "beast",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Một loại yêu thú sói cấp thấp sinh sống ở sa mạc.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0924",
+      "source_term": "双头沙狼",
+      "target_term": "sa lang hai đầu",
+      "category": "beast",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Biến chủng nguy hiểm và thông minh của loài sa lang.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0925",
+      "source_term": "战兽十三势",
+      "target_term": "Chiến Thú Thập Tam Thế",
+      "category": "technique",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Môn võ học cơ bản phỏng sinh học mô phỏng tư thế chiến đấu của thú dữ.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0926",
+      "source_term": "巨熊靠",
+      "target_term": "Cự Hùng Khảo",
+      "category": "technique",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Chiêu thức áp sát va chạm mạnh mẽ bằng vai phỏng theo gấu.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0927",
+      "source_term": "铁鹰爪",
+      "target_term": "Thiết Ưng Trảo",
+      "category": "technique",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Chiêu thức trảo công dùng ngón tay vồ nát đối phương như chim ưng.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0928",
+      "source_term": "噬心虫",
+      "target_term": "Phệ Tâm Trùng",
+      "category": "item",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Loại trùng độc hút linh năng và cắn xé tim mạch của người bị hại.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0929",
+      "source_term": "灵山宗",
+      "target_term": "Linh Sơn Tông",
+      "category": "faction",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Tông môn tu chân chính đạo giả định trong đề thi thử.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0930",
+      "source_term": "血杀堡",
+      "target_term": "Huyết Sát Bảo",
+      "category": "faction",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Tông môn tu chân tà đạo giả định trong đề thi thử.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0931",
+      "source_term": "大黑暗时代",
+      "target_term": "Đại Hắc Ám Thời Đại",
+      "category": "general",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Thời kỳ lịch sử đen tối kéo dài hàng vạn năm của văn minh nhân loại.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0932",
+      "source_term": "古典修真时期",
+      "target_term": "thời kỳ tu chân cổ điển",
+      "category": "general",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Giai đoạn lịch sử tu chân trước Đại Hắc Ám Thời Đại, đặc trưng bởi mục tiêu trường sinh bất tử cá nhân.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0933",
+      "source_term": "现代修真时期",
+      "target_term": "thời kỳ tu chân hiện đại",
+      "category": "general",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Giai đoạn tu chân hiện nay, bắt đầu sau khi lật đổ Vương triều Yêu Thú.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0934",
+      "source_term": "金丹期",
+      "target_term": "Kim Đan Kỳ",
+      "category": "level",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Cảnh giới tu vi cấp thứ ba trong tu chân cổ điển.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0935",
+      "source_term": "元婴期",
+      "target_term": "Nguyên Anh Kỳ",
+      "category": "level",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Cảnh giới tu vi cấp thứ tư.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0936",
+      "source_term": "化神老怪",
+      "target_term": "Hóa Thần lão quái",
+      "category": "level",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Cách gọi các tu chân giả đạt cảnh giới Hóa Thần Kỳ (cấp thứ năm).",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0937",
+      "source_term": "渡劫真君",
+      "target_term": "Độ Kiếp chân quân",
+      "category": "level",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Cách gọi các tu chân giả đạt cảnh giới Độ Kiếp Kỳ.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0938",
+      "source_term": "妖神病毒",
+      "target_term": "virus Yêu Thần",
+      "category": "item",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Loại virus sinh học linh năng dùng để biến đổi linh thú thành yêu thú chiến đấu.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0939",
+      "source_term": "妖族",
+      "target_term": "Yêu tộc",
+      "category": "faction",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Chủng tộc sinh vật thông minh tiến hóa từ yêu thú bị nhiễm virus Yêu Thần.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0940",
+      "source_term": "妖兽王朝",
+      "target_term": "Vương triều Yêu Thú",
+      "category": "faction",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Chế độ thống trị kéo dài ba vạn năm của Yêu tộc đối với nhân loại.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0941",
+      "source_term": "修真革命",
+      "target_term": "cách mạng tu chân",
+      "category": "general",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Các cuộc cách mạng thay đổi bản chất tu luyện của nhân loại để lật đổ Yêu tộc.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0942",
+      "source_term": "现代修真文明体系",
+      "target_term": "hệ thống văn minh tu chân hiện đại",
+      "category": "general",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Hệ thống tu luyện mới lấy bảo vệ nhân loại làm gốc.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0943",
+      "source_term": "帝皇",
+      "target_term": "Đế Hoàng",
+      "category": "character",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Vị lãnh đạo tối cao huyền thoại dẫn dắt nhân loại giành lại tinh hải từ tay Yêu tộc.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0944",
+      "source_term": "元始宗派",
+      "target_term": "Nguyên Thủy tông phái",
+      "category": "faction",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Hai mươi môn phái tu chân đầu tiên được Đế Hoàng lập ra sau Đại Hắc Ám Thời Đại.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0945",
+      "source_term": "竹笋炒肉",
+      "target_term": "thịt xào măng",
+      "category": "general",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Cụm từ ẩn dụ chỉ việc bị cha mẹ đánh đòn roi tre.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0946",
+      "source_term": "灵根",
+      "target_term": "Linh căn",
+      "category": "general",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Cơ quan linh năng vô hình ngự trị tại tuyến tùng trong não bộ, là chìa khóa để tu luyện.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0947",
+      "source_term": "松果体",
+      "target_term": "tuyến tùng",
+      "category": "general",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Bộ phận sinh học trong não bộ được coi là nơi trú ngụ của linh căn.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0948",
+      "source_term": "灵根开发度",
+      "target_term": "độ khai phát linh căn",
+      "category": "general",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Tỷ lệ kích hoạt linh căn trong não bộ, đạt 100% mới thức tỉnh.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0949",
+      "source_term": "灵根开发仪",
+      "target_term": "máy khai phát linh căn",
+      "category": "item",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Thiết bị công nghệ cao dùng để tăng tốc độ kích hoạt linh căn.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0950",
+      "source_term": "冥修馆",
+      "target_term": "Minh Tu Quán",
+      "category": "location",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Nơi chuyên cung cấp môi trường tu luyện tâm linh đặc biệt.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0951",
+      "source_term": "火神派",
+      "target_term": "Hỏa Thần Phái",
+      "category": "faction",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Một môn phái tu chân chuyên về hỏa hệ công pháp.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0952",
+      "source_term": "火云掌",
+      "target_term": "Hỏa Vân Chưởng",
+      "category": "technique",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Môn chưởng pháp tạo lửa của Hỏa Thần Phái.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0953",
+      "source_term": "赤焰大手印鸡蛋饼",
+      "target_term": "Bánh kếp trứng Xích Diễm Đại Thủ Ấn",
+      "category": "item",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Món bánh kếp trứng nướng bằng nhiệt lượng từ Hỏa Vân Chưởng.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0954",
+      "source_term": "管式晶脑",
+      "target_term": "tinh não dạng ống",
+      "category": "item",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Thế hệ tinh não đời đầu sử dụng cấu trúc ống chân không bán cơ khí.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0955",
+      "source_term": "广陵7型",
+      "target_term": "Quảng Lăng số 7",
+      "category": "item",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Dòng tinh não dạng ống nổi tiếng của Thiên Cầm Môn.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0956",
+      "source_term": "天琴门",
+      "target_term": "Thiên Cầm Môn",
+      "category": "faction",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Môn phái tu chân nhỏ chuyên chế tạo tinh não đã bị phá sản.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0957",
+      "source_term": "片式晶脑",
+      "target_term": "tinh não dạng phiến",
+      "category": "item",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Dòng tinh não hiện đại mỏng nhẹ sử dụng công nghệ vi phiến tinh thạch.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0958",
+      "source_term": "散热片",
+      "target_term": "tấm tản nhiệt",
+      "category": "item",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Linh kiện giải nhiệt bên trong tinh não.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0959",
+      "source_term": "地下鬼市",
+      "target_term": "chợ quỷ ngầm",
+      "category": "location",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Khu chợ đen lén lút dưới lòng đất chuyên buôn bán hàng lậu và đồ cấm.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0960",
+      "source_term": "山寨强化药剂",
+      "target_term": "thuốc tăng cường hàng nhái",
+      "category": "item",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Thuốc kích thích linh căn giả, giá rẻ, nhiều tạp chất và tác dụng phụ.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0961",
+      "source_term": "咸鱼和鞋",
+      "target_term": "cá mặn và đôi giày",
+      "category": "general",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Cụm từ ám chỉ sự tương phản giữa người nghèo không có tài nguyên học tập và ước mơ vươn lên.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0962",
+      "source_term": "超星九代",
+      "target_term": "Siêu Tinh đời 9",
+      "category": "item",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Mẫu giày luyện công cao cấp đắt tiền dành cho giới nhà giàu.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0963",
+      "source_term": "深海魔鱼",
+      "target_term": "ma ngư biển sâu",
+      "category": "beast",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Loài sinh vật biển sâu được dùng để lấy bong bóng chế tạo túi khí cho giày.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0964",
+      "source_term": "晶轨大桥",
+      "target_term": "cầu tinh quỹ",
+      "category": "location",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Cầu đường sắt chuyên dụng dành cho tàu tinh quỹ chạy qua.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0965",
+      "source_term": "超高速晶轨列车",
+      "target_term": "tàu tốc hành tinh quỹ siêu tốc",
+      "category": "item",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Hệ thống tàu cao tốc vận hành bằng linh năng tinh thạch.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0966",
+      "source_term": "国之重器",
+      "target_term": "Trọng khí quốc gia",
+      "category": "general",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Danh hiệu chỉ các hệ thống pháp bảo siêu khổng lồ có tầm quan trọng chiến lược.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0967",
+      "source_term": "阴魂入体",
+      "target_term": "âm hồn nhập thể",
+      "category": "general",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Hiện tượng linh hồn của người chết nhập vào và dung hợp với thể xác của người sống.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0968",
+      "source_term": "百炼宗",
+      "target_term": "Bách Luyện Tông",
+      "category": "faction",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Tông phái luyện khí lớn cổ đại trong Hồng Hoang Đại Thế Giới.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0969",
+      "source_term": "洪荒大世界",
+      "target_term": "Hồng Hoang Đại Thế Giới",
+      "category": "location",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Thế giới cổ đại khổng lồ trong lịch sử tu chân.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0970",
+      "source_term": "一百零八手披风乱锤法",
+      "target_term": "Một trăm lẻ tám thức Phách Phong Loạn Chùy Pháp",
+      "category": "technique",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Bộ pháp rèn đúc cơ bản bằng búa của Bách Luyện Tông.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0971",
+      "source_term": "无渊海",
+      "target_term": "Vô Uyên Hải",
+      "category": "location",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Vùng biển đen hiểm nguy dưới chân núi lơ lửng của Bách Luyện Tông.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0972",
+      "source_term": "脊刺鲨",
+      "target_term": "cá mập gai",
+      "category": "beast",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Loài cá mập hung dữ có nhiều gai nhọn sinh sống ở Vô Uyên Hải.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0973",
+      "source_term": "金精石",
+      "target_term": "Kim Tinh Thạch",
+      "category": "item",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Loại đá kim loại cực kỳ cứng dùng để lát nền quảng trường luyện tập.",
+      "locked": false
+    },
+    {
+      "id": "GTERM_0974",
+      "source_term": "打铁杂役",
+      "target_term": "tạp dịch rèn sắt",
+      "category": "general",
+      "source_project": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+      "confidence": "medium",
+      "notes": "Cấp bậc tạp dịch cao hơn tạp dịch cấp thấp trong Bách Luyện Tông.",
       "locked": false
     }
   ]

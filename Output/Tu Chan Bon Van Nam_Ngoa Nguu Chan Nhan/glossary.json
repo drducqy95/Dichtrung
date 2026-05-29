@@ -3,8 +3,999 @@
     "version": "2.0",
     "schema": "gold",
     "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
-    "last_updated": "2026-05-30T04:50:00Z",
-    "total_entries": 0
+    "last_updated": "2026-05-30T04:57:22.185570+07:00",
+    "total_entries": 99
   },
-  "entries": []
+  "entries": [
+    {
+      "source": "铁锈湖",
+      "source_language": "zh",
+      "target": "Hồ Thiết Tú",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Hồ nước bị ô nhiễm nặng nề ở ngoại ô Phù Qua Thành.",
+      "locked": false
+    },
+    {
+      "source": "特种垃圾处理场",
+      "source_language": "zh",
+      "target": "Bãi xử lý rác thải đặc chủng",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Nơi tập trung xử lý các pháp bảo phế thải và rác kim loại linh năng.",
+      "locked": false
+    },
+    {
+      "source": "法宝坟墓",
+      "source_language": "zh",
+      "target": "Nghĩa địa Pháp Bảo",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tên gọi khác của bãi xử lý rác thải đặc chủng.",
+      "locked": false
+    },
+    {
+      "source": "浮戈城",
+      "source_language": "zh",
+      "target": "Phù Qua Thành",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Trọng trấn tu luyện của Liên bang.",
+      "locked": false
+    },
+    {
+      "source": "飞灵宗",
+      "source_language": "zh",
+      "target": "Phi Linh Tông",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tông môn tu luyện chế tạo đồng hồ linh tử đi săn.",
+      "locked": false
+    },
+    {
+      "source": "上东区",
+      "source_language": "zh",
+      "target": "khu Thượng Đông",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Khu nhà giàu và tu chân giả xa hoa nhất Phù Qua Thành.",
+      "locked": false
+    },
+    {
+      "source": "野狼帮",
+      "source_language": "zh",
+      "target": "Dã Lang Bang",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Băng đảng thu lượm rác pháp bảo ngang ngược.",
+      "locked": false
+    },
+    {
+      "source": "赤霄派附属第二高中",
+      "source_language": "zh",
+      "target": "Trường trung học số hai trực thuộc Xích Tiêu Phái",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Trường học của Lý Diệu tại Phù Qua Thành.",
+      "locked": false
+    },
+    {
+      "source": "晶脑",
+      "source_language": "zh",
+      "target": "Tinh não",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Máy tính lượng tử vận hành bằng năng lượng tinh thạch trong thế giới tu chân.",
+      "locked": false
+    },
+    {
+      "source": "星光",
+      "source_language": "zh",
+      "target": "Tinh Quang",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một dòng linh cấp tinh não phổ thông.",
+      "locked": false
+    },
+    {
+      "source": "青龙门",
+      "source_language": "zh",
+      "target": "Thanh Long Môn",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Môn phái chế tác tinh não.",
+      "locked": false
+    },
+    {
+      "source": "骁龙17型",
+      "source_language": "zh",
+      "target": "Kiêu Long 17",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Mẫu tinh não tiên tiến do Thanh Long Môn chế tạo.",
+      "locked": false
+    },
+    {
+      "source": "小黑",
+      "source_language": "zh",
+      "target": "Tiểu Hắc",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thanh phi kiếm đen rách nát cũ kỹ của Lý Diệu.",
+      "locked": false
+    },
+    {
+      "source": "朝阳新村",
+      "source_language": "zh",
+      "target": "Triêu Dương Tân Thôn",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Khu chung cư giá rẻ tồi tàn nhất Phù Qua Thành nằm cạnh nghĩa địa pháp bảo.",
+      "locked": false
+    },
+    {
+      "source": "光幕仪",
+      "source_language": "zh",
+      "target": "Quang mạc nghi",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thiết bị trình chiếu hình ảnh lập thể bằng linh năng.",
+      "locked": false
+    },
+    {
+      "source": "立体光幕仪",
+      "source_language": "zh",
+      "target": "Quang mạc nghi lập thể",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tên đầy đủ của thiết bị quang mạc trình chiếu lập thể.",
+      "locked": false
+    },
+    {
+      "source": "千幻宗",
+      "source_language": "zh",
+      "target": "Thiên Huyễn Tông",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tông môn chuyên chế tạo các thiết bị quang mạc và pháp bảo ảo ảnh.",
+      "locked": false
+    },
+    {
+      "source": "无影剑派",
+      "source_language": "zh",
+      "target": "Vô Ảnh Kiếm Phái",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Môn phái chế tác phi kiếm nổi tiếng với phù trận紫电.",
+      "locked": false
+    },
+    {
+      "source": "巨剑门",
+      "source_language": "zh",
+      "target": "Cự Kiếm Môn",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một tông môn kiếm tu.",
+      "locked": false
+    },
+    {
+      "source": "极北剑宗",
+      "source_language": "zh",
+      "target": "Cực Bắc Kiếm Tông",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Môn phái kiếm tu phương bắc.",
+      "locked": false
+    },
+    {
+      "source": "南海剑派",
+      "source_language": "zh",
+      "target": "Nam Hải Kiếm Phái",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Môn phái kiếm tu phương nam.",
+      "locked": false
+    },
+    {
+      "source": "金甲宗",
+      "source_language": "zh",
+      "target": "Kim Giáp Tông",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tông môn chuyên về giáp trụ phòng ngự.",
+      "locked": false
+    },
+    {
+      "source": "星击盾",
+      "source_language": "zh",
+      "target": "Tinh Kích Thuẫn",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Dòng chiến giáp thế hệ mới của Kim Giáp Tông.",
+      "locked": false
+    },
+    {
+      "source": "天星子",
+      "source_language": "zh",
+      "target": "Thiên Tinh Tử",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Nhà phân tích chứng khoán nổi tiếng trên truyền hình tu chân.",
+      "locked": false
+    },
+    {
+      "source": "陆音希",
+      "source_language": "zh",
+      "target": "Lục Âm Hi",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Ca sĩ thần tượng trẻ tuổi nổi tiếng với bài hát 'Tu Chân 40000 Năm'.",
+      "locked": false
+    },
+    {
+      "source": "老爹",
+      "source_language": "zh",
+      "target": "Lão cha",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Người nhặt nuôi Lý Diệu, truyền thụ kỹ năng sửa chữa pháp bảo trước khi qua đời.",
+      "locked": false
+    },
+    {
+      "source": "黑翼",
+      "source_language": "zh",
+      "target": "Hắc Dực",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thanh phi kiếm bí ẩn Lão cha để lại cho Lý Diệu, chính là Tiểu Hắc.",
+      "locked": false
+    },
+    {
+      "source": "老王二手商店",
+      "source_language": "zh",
+      "target": "Cửa hàng đồ cũ Lão Vương",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Cửa hàng thu mua và sửa chữa pháp bảo cũ của Lão Vương gần trường học.",
+      "locked": false
+    },
+    {
+      "source": "野马GT",
+      "source_language": "zh",
+      "target": "Mustang GT",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Mẫu xe hơi thể thao nổi tiếng ở thế giới cũ của Lý Diệu.",
+      "locked": false
+    },
+    {
+      "source": "之江路",
+      "source_language": "zh",
+      "target": "đường Chi Giang",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Con đường đua xe ngầm nổi tiếng ở thế giới cũ của Lý Diệu.",
+      "locked": false
+    },
+    {
+      "source": "刀疤强",
+      "source_language": "zh",
+      "target": "Đao Cáp Cường",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Gã giang hồ chuyên siết nợ ở thế giới cũ.",
+      "locked": false
+    },
+    {
+      "source": "灵蛇身法",
+      "source_language": "zh",
+      "target": "Linh Xà Thân Pháp",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Môn thân pháp cơ bản được giảng dạy trong trường học tu chân.",
+      "locked": false
+    },
+    {
+      "source": "地下晶轨三号线",
+      "source_language": "zh",
+      "target": "tuyến tàu ngầm tinh quỹ số 3",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Hệ thống tàu điện ngầm vận hành bằng tinh thạch.",
+      "locked": false
+    },
+    {
+      "source": "赤霄二中",
+      "source_language": "zh",
+      "target": "Xích Tiêu Nhị Trung",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tên gọi tắt của Trường Trung học số hai trực thuộc Xích Tiêu Phái.",
+      "locked": false
+    },
+    {
+      "source": "疯狂高考季",
+      "source_language": "zh",
+      "target": "mùa thi đại học điên cuồng",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Giai đoạn học tập và chuẩn bị thi cử căng thẳng trước kỳ thi đại học.",
+      "locked": false
+    },
+    {
+      "source": "九大精英联校",
+      "source_language": "zh",
+      "target": "Chín đại học tinh anh liên kết",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Nhóm chín trường đại học hàng đầu Liên bang chuyên bồi dưỡng tu chân giả.",
+      "locked": false
+    },
+    {
+      "source": "重点班",
+      "source_language": "zh",
+      "target": "lớp trọng điểm",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Lớp học tập trung các học sinh có thiên phú tu luyện cao nhất.",
+      "locked": false
+    },
+    {
+      "source": "平行班",
+      "source_language": "zh",
+      "target": "lớp song hành",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Lớp học dành cho học sinh có tư chất bình thường nhưng gia cảnh giàu có.",
+      "locked": false
+    },
+    {
+      "source": "普通班",
+      "source_language": "zh",
+      "target": "lớp thường",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Lớp học dành cho con em bình dân, học lực và tài nguyên hạn chế.",
+      "locked": false
+    },
+    {
+      "source": "大荒战院",
+      "source_language": "zh",
+      "target": "Đại Hoang Chiến Viện",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một trong chín trường đại học tinh anh liên kết của Liên bang.",
+      "locked": false
+    },
+    {
+      "source": "联邦军",
+      "source_language": "zh",
+      "target": "Quân đội Liên bang",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Lực lượng quân sự bảo vệ Tinh Ước Liên Bang.",
+      "locked": false
+    },
+    {
+      "source": "玄鸟战梭",
+      "source_language": "zh",
+      "target": "Huyền Điểu Chiến Toa",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Mẫu phi thuyền chiến đấu bọc thép tiên tiến của Liên bang.",
+      "locked": false
+    },
+    {
+      "source": "筑基期",
+      "source_language": "zh",
+      "target": "Trúc Cơ Kỳ",
+      "category": "level",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Cảnh giới tu chân cấp thứ hai, sau Luyện Khí Kỳ.",
+      "locked": false
+    },
+    {
+      "source": "银白海滩",
+      "source_language": "zh",
+      "target": "Bãi Biển Bạc",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Khu vực ven biển sang trọng nơi Bành Hải mua biệt thự.",
+      "locked": false
+    },
+    {
+      "source": "赤霄运输集团",
+      "source_language": "zh",
+      "target": "Tập đoàn Vận tải Xích Tiêu",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tập đoàn vận tải lớn thuộc Xích Tiêu Phái chuyên khai thác các tuyến đường nguy hiểm.",
+      "locked": false
+    },
+    {
+      "source": "考试舱",
+      "source_language": "zh",
+      "target": "khoang thi cử",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Buồng thi chuyên dụng để thí sinh kết nối thần thức vào Thái Hư Huyễn Cảnh.",
+      "locked": false
+    },
+    {
+      "source": "太虚幻境",
+      "source_language": "zh",
+      "target": "Thái Hư Huyễn Cảnh",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Không gian ảo lập thể xây dựng từ linh năng để mô phỏng môi trường chiến đấu thực tế.",
+      "locked": false
+    },
+    {
+      "source": "沙狼",
+      "source_language": "zh",
+      "target": "sa lang",
+      "category": "beast",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một loại yêu thú sói cấp thấp sinh sống ở sa mạc.",
+      "locked": false
+    },
+    {
+      "source": "双头沙狼",
+      "source_language": "zh",
+      "target": "sa lang hai đầu",
+      "category": "beast",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Biến chủng nguy hiểm và thông minh của loài sa lang.",
+      "locked": false
+    },
+    {
+      "source": "战兽十三势",
+      "source_language": "zh",
+      "target": "Chiến Thú Thập Tam Thế",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Môn võ học cơ bản phỏng sinh học mô phỏng tư thế chiến đấu của thú dữ.",
+      "locked": false
+    },
+    {
+      "source": "巨熊靠",
+      "source_language": "zh",
+      "target": "Cự Hùng Khảo",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Chiêu thức áp sát va chạm mạnh mẽ bằng vai phỏng theo gấu.",
+      "locked": false
+    },
+    {
+      "source": "铁鹰爪",
+      "source_language": "zh",
+      "target": "Thiết Ưng Trảo",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Chiêu thức trảo công dùng ngón tay vồ nát đối phương như chim ưng.",
+      "locked": false
+    },
+    {
+      "source": "噬心虫",
+      "source_language": "zh",
+      "target": "Phệ Tâm Trùng",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Loại trùng độc hút linh năng và cắn xé tim mạch của người bị hại.",
+      "locked": false
+    },
+    {
+      "source": "灵山宗",
+      "source_language": "zh",
+      "target": "Linh Sơn Tông",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tông môn tu chân chính đạo giả định trong đề thi thử.",
+      "locked": false
+    },
+    {
+      "source": "血杀堡",
+      "source_language": "zh",
+      "target": "Huyết Sát Bảo",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tông môn tu chân tà đạo giả định trong đề thi thử.",
+      "locked": false
+    },
+    {
+      "source": "大黑暗时代",
+      "source_language": "zh",
+      "target": "Đại Hắc Ám Thời Đại",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thời kỳ lịch sử đen tối kéo dài hàng vạn năm của văn minh nhân loại.",
+      "locked": false
+    },
+    {
+      "source": "古典修真时期",
+      "source_language": "zh",
+      "target": "thời kỳ tu chân cổ điển",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Giai đoạn lịch sử tu chân trước Đại Hắc Ám Thời Đại, đặc trưng bởi mục tiêu trường sinh bất tử cá nhân.",
+      "locked": false
+    },
+    {
+      "source": "现代修真时期",
+      "source_language": "zh",
+      "target": "thời kỳ tu chân hiện đại",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Giai đoạn tu chân hiện nay, bắt đầu sau khi lật đổ Vương triều Yêu Thú.",
+      "locked": false
+    },
+    {
+      "source": "金丹期",
+      "source_language": "zh",
+      "target": "Kim Đan Kỳ",
+      "category": "level",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Cảnh giới tu vi cấp thứ ba trong tu chân cổ điển.",
+      "locked": false
+    },
+    {
+      "source": "元婴期",
+      "source_language": "zh",
+      "target": "Nguyên Anh Kỳ",
+      "category": "level",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Cảnh giới tu vi cấp thứ tư.",
+      "locked": false
+    },
+    {
+      "source": "化神老怪",
+      "source_language": "zh",
+      "target": "Hóa Thần lão quái",
+      "category": "level",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Cách gọi các tu chân giả đạt cảnh giới Hóa Thần Kỳ (cấp thứ năm).",
+      "locked": false
+    },
+    {
+      "source": "渡劫真君",
+      "source_language": "zh",
+      "target": "Độ Kiếp chân quân",
+      "category": "level",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Cách gọi các tu chân giả đạt cảnh giới Độ Kiếp Kỳ.",
+      "locked": false
+    },
+    {
+      "source": "妖神病毒",
+      "source_language": "zh",
+      "target": "virus Yêu Thần",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Loại virus sinh học linh năng dùng để biến đổi linh thú thành yêu thú chiến đấu.",
+      "locked": false
+    },
+    {
+      "source": "妖族",
+      "source_language": "zh",
+      "target": "Yêu tộc",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Chủng tộc sinh vật thông minh tiến hóa từ yêu thú bị nhiễm virus Yêu Thần.",
+      "locked": false
+    },
+    {
+      "source": "妖兽王朝",
+      "source_language": "zh",
+      "target": "Vương triều Yêu Thú",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Chế độ thống trị kéo dài ba vạn năm của Yêu tộc đối với nhân loại.",
+      "locked": false
+    },
+    {
+      "source": "修真革命",
+      "source_language": "zh",
+      "target": "cách mạng tu chân",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Các cuộc cách mạng thay đổi bản chất tu luyện của nhân loại để lật đổ Yêu tộc.",
+      "locked": false
+    },
+    {
+      "source": "现代修真文明体系",
+      "source_language": "zh",
+      "target": "hệ thống văn minh tu chân hiện đại",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Hệ thống tu luyện mới lấy bảo vệ nhân loại làm gốc.",
+      "locked": false
+    },
+    {
+      "source": "帝皇",
+      "source_language": "zh",
+      "target": "Đế Hoàng",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Vị lãnh đạo tối cao huyền thoại dẫn dắt nhân loại giành lại tinh hải từ tay Yêu tộc.",
+      "locked": false
+    },
+    {
+      "source": "元始宗派",
+      "source_language": "zh",
+      "target": "Nguyên Thủy tông phái",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Hai mươi môn phái tu chân đầu tiên được Đế Hoàng lập ra sau Đại Hắc Ám Thời Đại.",
+      "locked": false
+    },
+    {
+      "source": "竹笋炒肉",
+      "source_language": "zh",
+      "target": "thịt xào măng",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Cụm từ ẩn dụ chỉ việc bị cha mẹ đánh đòn roi tre.",
+      "locked": false
+    },
+    {
+      "source": "灵根",
+      "source_language": "zh",
+      "target": "Linh căn",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Cơ quan linh năng vô hình ngự trị tại tuyến tùng trong não bộ, là chìa khóa để tu luyện.",
+      "locked": false
+    },
+    {
+      "source": "松果体",
+      "source_language": "zh",
+      "target": "tuyến tùng",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Bộ phận sinh học trong não bộ được coi là nơi trú ngụ của linh căn.",
+      "locked": false
+    },
+    {
+      "source": "灵根开发度",
+      "source_language": "zh",
+      "target": "độ khai phát linh căn",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tỷ lệ kích hoạt linh căn trong não bộ, đạt 100% mới thức tỉnh.",
+      "locked": false
+    },
+    {
+      "source": "灵根开发仪",
+      "source_language": "zh",
+      "target": "máy khai phát linh căn",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thiết bị công nghệ cao dùng để tăng tốc độ kích hoạt linh căn.",
+      "locked": false
+    },
+    {
+      "source": "冥修馆",
+      "source_language": "zh",
+      "target": "Minh Tu Quán",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Nơi chuyên cung cấp môi trường tu luyện tâm linh đặc biệt.",
+      "locked": false
+    },
+    {
+      "source": "火神派",
+      "source_language": "zh",
+      "target": "Hỏa Thần Phái",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một môn phái tu chân chuyên về hỏa hệ công pháp.",
+      "locked": false
+    },
+    {
+      "source": "火云掌",
+      "source_language": "zh",
+      "target": "Hỏa Vân Chưởng",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Môn chưởng pháp tạo lửa của Hỏa Thần Phái.",
+      "locked": false
+    },
+    {
+      "source": "赤焰大手印鸡蛋饼",
+      "source_language": "zh",
+      "target": "Bánh kếp trứng Xích Diễm Đại Thủ Ấn",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Món bánh kếp trứng nướng bằng nhiệt lượng từ Hỏa Vân Chưởng.",
+      "locked": false
+    },
+    {
+      "source": "管式晶脑",
+      "source_language": "zh",
+      "target": "tinh não dạng ống",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thế hệ tinh não đời đầu sử dụng cấu trúc ống chân không bán cơ khí.",
+      "locked": false
+    },
+    {
+      "source": "广陵7型",
+      "source_language": "zh",
+      "target": "Quảng Lăng số 7",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Dòng tinh não dạng ống nổi tiếng của Thiên Cầm Môn.",
+      "locked": false
+    },
+    {
+      "source": "天琴门",
+      "source_language": "zh",
+      "target": "Thiên Cầm Môn",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Môn phái tu chân nhỏ chuyên chế tạo tinh não đã bị phá sản.",
+      "locked": false
+    },
+    {
+      "source": "片式晶脑",
+      "source_language": "zh",
+      "target": "tinh não dạng phiến",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Dòng tinh não hiện đại mỏng nhẹ sử dụng công nghệ vi phiến tinh thạch.",
+      "locked": false
+    },
+    {
+      "source": "散热片",
+      "source_language": "zh",
+      "target": "tấm tản nhiệt",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Linh kiện giải nhiệt bên trong tinh não.",
+      "locked": false
+    },
+    {
+      "source": "地下鬼市",
+      "source_language": "zh",
+      "target": "chợ quỷ ngầm",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Khu chợ đen lén lút dưới lòng đất chuyên buôn bán hàng lậu và đồ cấm.",
+      "locked": false
+    },
+    {
+      "source": "山寨强化药剂",
+      "source_language": "zh",
+      "target": "thuốc tăng cường hàng nhái",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thuốc kích thích linh căn giả, giá rẻ, nhiều tạp chất và tác dụng phụ.",
+      "locked": false
+    },
+    {
+      "source": "咸鱼和鞋",
+      "source_language": "zh",
+      "target": "cá mặn và đôi giày",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Cụm từ ám chỉ sự tương phản giữa người nghèo không có tài nguyên học tập và ước mơ vươn lên.",
+      "locked": false
+    },
+    {
+      "source": "超星九代",
+      "source_language": "zh",
+      "target": "Siêu Tinh đời 9",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Mẫu giày luyện công cao cấp đắt tiền dành cho giới nhà giàu.",
+      "locked": false
+    },
+    {
+      "source": "深海魔鱼",
+      "source_language": "zh",
+      "target": "ma ngư biển sâu",
+      "category": "beast",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Loài sinh vật biển sâu được dùng để lấy bong bóng chế tạo túi khí cho giày.",
+      "locked": false
+    },
+    {
+      "source": "晶轨大桥",
+      "source_language": "zh",
+      "target": "cầu tinh quỹ",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Cầu đường sắt chuyên dụng dành cho tàu tinh quỹ chạy qua.",
+      "locked": false
+    },
+    {
+      "source": "超高速晶轨列车",
+      "source_language": "zh",
+      "target": "tàu tốc hành tinh quỹ siêu tốc",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Hệ thống tàu cao tốc vận hành bằng linh năng tinh thạch.",
+      "locked": false
+    },
+    {
+      "source": "国之重器",
+      "source_language": "zh",
+      "target": "Trọng khí quốc gia",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Danh hiệu chỉ các hệ thống pháp bảo siêu khổng lồ có tầm quan trọng chiến lược.",
+      "locked": false
+    },
+    {
+      "source": "阴魂入体",
+      "source_language": "zh",
+      "target": "âm hồn nhập thể",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Hiện tượng linh hồn của người chết nhập vào và dung hợp với thể xác của người sống.",
+      "locked": false
+    },
+    {
+      "source": "百炼宗",
+      "source_language": "zh",
+      "target": "Bách Luyện Tông",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tông phái luyện khí lớn cổ đại trong Hồng Hoang Đại Thế Giới.",
+      "locked": false
+    },
+    {
+      "source": "洪荒大世界",
+      "source_language": "zh",
+      "target": "Hồng Hoang Đại Thế Giới",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thế giới cổ đại khổng lồ trong lịch sử tu chân.",
+      "locked": false
+    },
+    {
+      "source": "一百零八手披风乱锤法",
+      "source_language": "zh",
+      "target": "Một trăm lẻ tám thức Phách Phong Loạn Chùy Pháp",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Bộ pháp rèn đúc cơ bản bằng búa của Bách Luyện Tông.",
+      "locked": false
+    },
+    {
+      "source": "无渊海",
+      "source_language": "zh",
+      "target": "Vô Uyên Hải",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Vùng biển đen hiểm nguy dưới chân núi lơ lửng của Bách Luyện Tông.",
+      "locked": false
+    },
+    {
+      "source": "脊刺鲨",
+      "source_language": "zh",
+      "target": "cá mập gai",
+      "category": "beast",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Loài cá mập hung dữ có nhiều gai nhọn sinh sống ở Vô Uyên Hải.",
+      "locked": false
+    },
+    {
+      "source": "金精石",
+      "source_language": "zh",
+      "target": "Kim Tinh Thạch",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Loại đá kim loại cực kỳ cứng dùng để lát nền quảng trường luyện tập.",
+      "locked": false
+    },
+    {
+      "source": "打铁杂役",
+      "source_language": "zh",
+      "target": "tạp dịch rèn sắt",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Cấp bậc tạp dịch cao hơn tạp dịch cấp thấp trong Bách Luyện Tông.",
+      "locked": false
+    }
+  ]
 }

@@ -1,0 +1,111 @@
+# Chương 0009: Cá Mặn Và Đôi Giày
+
+# Chương 9: Cá Mặn Và Đôi Giày
+
+
+
+Đúng vào lúc tan trường, đây là khoảng thời gian thư thả hiếm hoi trong ngày của khuôn viên trường học. Tiếng cười nói vui vẻ bay bổng trên con đường rợp bóng cây. Trên bầu trời, nhiều chiếc phi thuyền gia đình xa hoa từ từ đáp xuống, đó là các phụ huynh đến đón con em mình. Cũng có không ít học sinh giống như Lý Diệu kéo theo cơ thể mệt mỏi, lững thững bước ra phía cổng trường.
+
+Ngay khi chuẩn bị bước ra khỏi cổng trường, Lý Diệu bỗng cảm thấy cơ thể căng thẳng. Một thân hình cao lớn chặn ngay trước mặt cậu: "Cậu tên là Lý Diệu? Kẻ vừa ở cùng Tiêu Giai Tuyết chính là cậu?"
+
+Đồng tử của Lý Diệu co rụt lại mạnh mẽ, toàn thân cảm giác như có vạn chiếc kim châm vào da thịt. Nhịp tim của cậu tức thì tăng tốc, một luồng khí lạnh chạy dọc từ xương cụt lên thẳng đỉnh đầu. Áp lực mà kẻ này mang lại quá lớn, khiến cậu có cảm giác như một con chuột bị rắn độc khóa chặt mục tiêu, căn bản không thể cử động nổi, ngay cả việc nuốt một ngụm nước bọt cũng trở nên vô cùng khó khăn.
+
+"Là Hách Liên Liệt, là 'Đệ nhất cao thủ của Xích Tiêu Nhị Trung' Hách Liên Liệt! Lần này tiêu đời nhà nhà rồi!" Lý Diệu gào thét trong lòng. Cậu rất muốn giải thích nhưng cổ họng nghẹn đắng, không thốt ra nổi nửa chữ.
+
+Hách Liên Liệt đứng tự nhiên thoải mái, tay phải cầm một chiếc tinh não, đang cúi đầu tính toán một câu hỏi ứng dụng, căn bản không thèm nhìn thẳng vào Lý Diệu, tùy tiện nói: "Không cần sợ, tôi đương nhiên biết rõ hạng người như cậu thì không thể có chuyện gì với Tiểu Tuyết được. Lần này bỏ qua, tôi lười thu dọn cậu."
+
+Ngón tay khẽ gõ lên quang mạc để chuyển sang câu hỏi tiếp theo, Hách Liên Liệt nói tiếp: "Thế nhưng, hiện tại đang là giai đoạn nước rút 'trăm ngày quyết chiến' vô cùng quan trọng. Tôi và Tiểu Tuyết đều là những người nhắm tới ngôi vị 'Thủ khoa kỳ thi đại học Phù Qua Thành'. Trong khoảng thời gian này, tôi không muốn nhìn thấy bất kỳ loại rác rưởi không rõ lai lịch nào đến quấy rầy làm Tiểu Tuyết phân tâm, nghe rõ chưa?"
+
+Lý Diệu híp mắt lại, nghiến chặt răng: "Cậu nói tôi là rác rưởi?"
+
+Hách Liên Liệt vẫn không ngẩng đầu lên, nhạt nhẽo nói: "Đừng hiểu lầm, tôi không cố ý nhằm vào riêng cậu. Trong mắt tôi, đám tép riu ở 'lớp thường' các cậu, tính từng đứa một — đều là rác rưởi cả!"
+
+Khi nói xong chữ cuối cùng, hắn mới ngẩng đầu lên, liếc nhìn Lý Diệu một cái.
+
+Chỉ một ánh mắt đó, lồng ngực Lý Diệu như bị một cây búa tạ nện cực mạnh vào. Cậu không kiềm chế được lùi lại hai bước, ho khục khặc dữ dội.
+
+Hách Liên Liệt hừ lạnh một tiếng khinh miệt rồi quay người rời đi.
+
+Lý Diệu khom lưng ho rũ rượi như một con tôm luộc, ho đến mức nước mắt chảy ròng ròng. Phải mất một lúc lâu cậu mới thẳng người dậy, thở hổn hển, trừng mắt nhìn trân trân theo hướng Hách Liên Liệt bỏ đi.
+
+"Mẹ kiếp!"
+
+"Chẳng lẽ thời buổi này, cứ hễ người nào cao to lực lưỡng, phong lưu hào hoa, đẹp trai ngời ngời, mày kiếm mắt ngôi, lại sinh ra trong gia đình đại phú hào sở hữu tài sản hàng trăm tỷ tệ, lại có thêm thiên phú tu luyện siêu việt cùng thực lực bá đạo mạnh mẽ — là có quyền kiêu ngạo như vậy sao?"
+
+...
+
+Nửa giờ sau.
+
+"Lỗ to rồi, lần này đúng là lỗ đến tận nhà ngoại rồi! Để sửa chiếc tinh não cho Tiêu Giai Tuyết mà lại đắc tội với Hách Liên Liệt. Biết thế này — nhất định phải đòi tăng giá, ít nhất cũng phải hai mươi vạn tệ mới bõ công chứ!"
+
+"Còn cái tên khốn kiếp Hách Liên Liệt kia nữa, cậy mình có tiền, hằng ngày coi thiên tài địa bảo như cơm ăn, coi thuốc tăng cường như nước lã để uống, lại có cả cao thủ minh tu giúp hắn rèn luyện thần hồn, đại sư võ kỹ giúp hắn rèn giũa thể phách mới nâng độ khai phát linh căn lên trên 70%. Thế mà lại dám ngông cuồng như vậy! Rác rưởi? Ta không phải là rác rưởi! Sẽ có một ngày ta trở thành luyện khí đại sư thực thụ, đánh ngươi thành đầu heo rồi nhét vào thùng rác!"
+
+Trên đường về nhà, thiếu niên cô đơn sải bước, vừa đi vừa nghiến răng nghiến lợi, vẻ mặt dữ tợn như thể tẩu hỏa nhập ma, thi thoảng lại đá bay những viên đá nhỏ ven đường.
+
+Sự xuất hiện của Hách Liên Liệt giúp cậu nhận thức rõ ràng khoảng cách giữa bản thân với những thiên tài tu luyện là lớn đến nhường nào. Nó cũng giúp cậu hiểu ra rằng, ước mơ "đỗ vào Chín đại học tinh anh liên kết, bước lên con đường tu chân để trở thành luyện khí đại sư" kia có cơ hội thực hiện mong manh đến mức nào.
+
+Trong đầu Lý Diệu chợt hiện lên một phân cảnh cậu từng nhìn thấy đi lặp lại nhiều lần trong giấc dị mộng, dường như là một thước phim điện ảnh.
+
+Trong đó có một thanh niên mặc chiếc áo ba lỗ màu đỏ, nhướng mày trợn mắt lớn tiếng nói:
+
+"Làm người mà không có ước mơ, thì khác gì con cá mặn chứ!"
+
+Từ trước đến nay, phân cảnh này luôn kích thích mạnh mẽ Lý Diệu, giúp cậu vững bước trên con đường theo đuổi ước mơ mà không hề sợ hãi.
+
+Nhưng cho đến khoảnh khắc này, cậu mới nhớ ra rằng trong giấc dị mộng đó, sau khi thanh niên mặc áo ba lỗ đỏ nói xong câu ấy thì người khác liền phản hồi lại:
+
+"Mày đến cả đôi giày còn chẳng có, thì chả phải là một con cá mặn hay sao?"
+
+Lý Diệu đứng khựng lại, theo bản năng nhìn xuống đôi chân mình.
+
+Cậu đang đi một đôi giày tập luyện kiểu cơ bản lượm từ đống rác. Do hằng ngày tập luyện điên cuồng nên đôi giày đã sớm bị mòn vẹt. Không chỉ hoa văn đế giày bị mòn phẳng lì mà ngay cả mũi giày bên trái cũng rách một lỗ lớn, để lộ ra ngón chân cái lấm lem bụi bẩn.
+
+Cậu nhớ lại đôi giày Hách Liên Liệt đi lúc nãy, đó là đôi giày tu luyện đời mới nhất có tên "Siêu Tinh đời 9", được chế tác thủ công tinh xảo từ loại da yêu thú dẻo dai nhất, bề mặt phủ một lớp vảy chống mòn có cường độ cực cao.
+
+Nghe nói trong lớp đệm của đế giày còn trang bị túi khí chế tạo từ bong bóng của loài ma ngư biển sâu. Nó không chỉ tăng cường lực bật nhảy mà còn bảo vệ tối đa các khớp xương chân. Chỉ riêng đôi giày đó đã có giá bán lên tới vài vạn tệ!
+
+Trên chiến trường thi đại học khốc liệt như ngàn quân qua cầu độc mộc kia, vẫn còn có vô số con em nhà giàu giống như Hách Liên Liệt sở hữu tài nguyên vô tận, chân đi giày "Siêu Tinh đời 9"!
+
+Một đứa con nhà nghèo hai bàn tay trắng như cậu liệu có thể đánh bại những kẻ đó trong cuộc huyết chiến tàn khốc này để giành chiến thắng, biến ước mơ thành sự thật không?
+
+Lòng Lý Diệu vô cùng hoang mang, bước chân cũng trở nên nặng nề hơn rất nhiều. Con đường phía trước dường như còn rất dài, rất dài.
+
+Màn đêm buông xuống, khi những ánh đèn đường đầu tiên thắp sáng, cậu mới đi ra khỏi khu vực trung tâm thành phố.
+
+Phía trước có một cây cầu tinh quỹ lớn, chuyên dụng cho "tàu tốc hành tinh quỹ siêu tốc" chạy qua. Chỉ cần đi xuyên qua hầm chui dưới chân cầu rồi đi tiếp một dặm nữa là tới Triêu Dương Tân Thôn.
+
+Nơi này thuộc vùng ngoại ô nên khá hoang vắng, rất ít người qua lại.
+
+Lý Diệu đang chuẩn bị đi xuyên qua hầm chui thì bên tai bỗng vang lên tiếng rít chói tai, trước mắt ánh sáng rực rỡ chiếu rọi. Một đoàn tàu tinh quỹ sắp sửa chạy qua cây cầu.
+
+Lý Diệu đột nhiên đứng khựng lại, dụi dụi mắt nhìn lên trên cây cầu.
+
+Khoảnh khắc ánh đèn pha quét qua lúc nãy, cậu dường như nhìn thấy có một bóng người đang đứng trên cây cầu lớn kia!
+
+Đây là cây cầu đường ray chuyên dụng dành riêng cho tàu hỏa di chuyển cơ mà!
+
+"Tàu tốc hành tinh quỹ siêu tốc" là một trong mười hệ thống pháp bảo siêu khổng lồ của Liên bang được ca ngợi là "Trọng khí quốc gia". Tốc độ tối đa của nó có thể lên tới hơn hai ngàn dặm một giờ. Hơn nữa, để phòng phòng chống yêu thú phá hoại, trên mỗi đoàn tàu tinh quỹ đều trang bị pháp trận phòng ngự cấp cao nhất. Dưới lực va chạm ở tốc độ cao đó, sức tàn phá của nó tuyệt đối không thua kém gì đòn tấn công toàn lực của một tu chân giả cấp cao!
+
+Để ngăn ngừa tai nạn xảy ra, tàu tốc hành tinh quỹ siêu tốc thông thường đều chạy trên đường ray chuyên dụng cao cách mặt đất vài chục mét, xung quanh đường ray còn có cấm chế phong tỏa nghiêm ngặt — cái gã này làm cách nào leo lên được đó chứ?
+
+Đúng vậy, Lý Diệu đã nhìn rõ rồi. Trên cầu đường ray thực sự đang có một lão giả đứng đó.
+
+Đây là một lão đầu vô cùng kỳ lạ, mái tóc bạc trắng, dung mạo cổ kính mộc mạc, trông giống hệt như những bức tượng người đất nung thời cổ đại được khai quật từ hàng vạn năm trước mà Lý Diệu từng nhìn thấy trong viện bảo tàng.
+
+Thế nhưng trên người ông lão lại tỏa ra một luồng "khí tức" nồng đậm đến cực điểm. Dù đứng cách xa cả trăm mét, Lý Diệu dường như vẫn nghe thấy tiếng tim đập mạnh mẽ của ông ta.
+
+Thình thịch! Thình thịch! Thình thịch!
+
+Tiếng đập tựa như một cây búa tạ khổng lồ đang không ngừng nện vào đe sắt!
+
+So với luồng khí tức bao la như biển cả của ông lão này, áp lực của Hách Liên Liệt lúc nãy quả thực yếu ớt đến đáng thương. Sự khác biệt giữa hai người còn lớn hơn khoảng cách giữa mặt trời và đom đóm — và Lý Diệu còn có một cảm giác rằng, khác với sự cố tình ra vẻ phô trương thanh thế của Hách Liên Liệt, lão giả này hoàn toàn không hề chủ động giải phóng khí tức. Thứ cậu cảm nhận được chỉ là một tia dao động vô tình tràn ra ngoài mà thôi, đó mới chỉ là phần nổi của tảng băng trôi!
+
+Trên người lão giả khoác một bộ pháp bào dệt bằng vải thô đơn giản mộc mạc, trông giống như một người vừa bước ra từ thế giới tu chân cổ điển của bốn vạn năm trước vậy!
+
+"Này —" Trong lúc nguy cấp, Lý Diệu không còn tâm trí đâu để bận tâm xem ông lão này là kẻ điên hay người quái dị nào nữa. Nhìn thấy đoàn tàu sắp lao tới nơi, cậu huơ tay múa chân, lớn tiếng kêu gọi.
+
+Lão giả hoàn toàn ngó lơ tiếng hét của Lý Diệu, tiếp tục quan sát luồng ánh sáng ngày một phóng to ở phía trước.
+
+Ông ta dường như vô cùng hiếu kỳ với mọi thứ xung quanh, đặc biệt là đường ray tinh quỹ trải dài trên cầu lớn và đoàn tàu tinh quỹ đang gầm rú lao tới. Gương mặt ông hiện rõ vẻ vui mừng phấn khích của một đứa trẻ vừa tìm thấy món đồ chơi mới.
+
+Giây tiếp theo —

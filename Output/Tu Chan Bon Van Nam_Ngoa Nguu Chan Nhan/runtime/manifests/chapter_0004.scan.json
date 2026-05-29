@@ -1,0 +1,171 @@
+{
+  "schema_version": "1.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 4,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan\\0004 - 4.第4章 妖刀彭海.md",
+  "source_char_count": 2805,
+  "characters": [
+    {
+      "source": "彭海",
+      "entity_type": "person",
+      "count": 4,
+      "confidence": 0.7,
+      "evidence": [
+        "# 4.第4章 妖刀彭海\n\n  \n\n在训导主",
+        "面管理校务。\n\n“是彭海，‘妖刀’彭海啊！”",
+        "了一个节拍。\n\n妖刀彭海，是赤霄二中建校数百"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "source": "赤霄运输集团",
+      "entity_type": "organization",
+      "count": 2,
+      "confidence": 0.78,
+      "evidence": [
+        "经成为赤霄派下属的“赤霄运输集团”新业务部门主管，专"
+      ]
+    },
+    {
+      "source": "一进校门",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "杀气腾腾，恍若战场，一进校门，正中矗立着一台巨大"
+      ]
+    },
+    {
+      "source": "加入赤霄派",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "的“加盟费”为条件，加入赤霄派，短短三年时间，已经"
+      ]
+    },
+    {
+      "source": "变作泾渭分明的三个集团",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "场，人潮就分成三股，变作泾渭分明的三个集团。\n\n第一集团大约有"
+      ]
+    },
+    {
+      "source": "普通大学",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "学子的终极梦想。\n\n普通大学，并不以培养修真者为"
+      ]
+    },
+    {
+      "source": "窜进缓缓关上的校门",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "之下，李耀一个闪身，窜进缓缓关上的校门，舒了口气，看看手表"
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "source": "妖刀彭海",
+      "entity_type": "location",
+      "count": 2,
+      "confidence": 0.78,
+      "evidence": [
+        "# 4.第4章 妖刀彭海\n\n  \n\n在训导主"
+      ]
+    },
+    {
+      "source": "踏上人生巅峰",
+      "entity_type": "location",
+      "count": 2,
+      "confidence": 0.78,
+      "evidence": [
+        "联校’，成为修真者，踏上人生巅峰！”\n\n慷慨激昂的进"
+      ]
+    },
+    {
+      "source": "也用妖兽的尸山血海",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "联邦挥洒青春和热血，也用妖兽的尸山血海，堆砌出了“妖刀”的"
+      ]
+    },
+    {
+      "source": "妖兽荒原",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "据说年轻时在大西北“妖兽荒原”上修炼时受过暗伤，"
+      ]
+    },
+    {
+      "source": "彭海",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "# 4.第4章 妖刀彭海\n\n  \n\n在训导主"
+      ]
+    },
+    {
+      "source": "是彭海",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "出面管理校务。\n\n“是彭海，‘妖刀’彭海啊！”"
+      ]
+    },
+    {
+      "source": "每年光是分红都有金山银山",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "输集团”的大量股份，每年光是分红都有金山银山！\n\n“听说了吗，彭"
+      ]
+    },
+    {
+      "source": "都渴望成为下一个彭海",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "也不例外。\n\n他们，都渴望成为下一个彭海！\n\n“来了！”\n\n"
+      ]
+    }
+  ],
+  "realms": [
+    "炼气",
+    "筑基",
+    "合体"
+  ],
+  "techniques": [
+    "也没有经",
+    "似妖刀",
+    "作为一名法",
+    "天上的劣势始终无法",
+    "李耀也加快脚步",
+    "空中的玄鸟战梭已经",
+    "装备有什么攻击性法"
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "浮戈城",
+      "target": "Phù Qua Thành"
+    }
+  ],
+  "generated_at": "2026-05-30T04:54:58.327733+07:00"
+}

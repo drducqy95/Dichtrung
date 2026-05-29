@@ -1,0 +1,135 @@
+{
+  "schema_version": "1.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 9,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan\\0009 - 9.第9章 咸鱼和鞋.md",
+  "source_char_count": 2514,
+  "characters": [
+    {
+      "source": "李耀",
+      "entity_type": "person",
+      "count": 4,
+      "confidence": 0.7,
+      "evidence": [
+        "影挡在他面前：“你叫李耀，刚才和司雪佳在一起",
+        "用题，根本不拿正眼看李耀，随口道：“不用怕，",
+        "，这一幕都深深刺激着李耀，让他在梦想的道路上"
+      ]
+    },
+    {
+      "source": "连烈",
+      "entity_type": "person",
+      "count": 3,
+      "confidence": 0.7,
+      "evidence": [
+        "无比艰难。\n\n“是赫连烈，是‘赤霄二中第一高",
+        "赤霄二中第一高手’赫连烈，这次完蛋了！”李耀",
+        "修晶脑，竟然得罪了赫连烈，早知如此——肯定要"
+      ]
+    },
+    {
+      "source": "关头",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "是‘百日冲刺’的紧要关头，我和小雪都是要冲击",
+        "！\n\n“喂——”危急关头，李耀可顾不上这老头"
+      ]
+    },
+    {
+      "source": "时分",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "\n\n  \n\n正是放学时分，校园里难得的轻松时",
+        "\n夜幕降临，华灯初上时分，他才挪出主城区。\n"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "source": "不要误会",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "头也不抬，淡淡道：“不要误会，我不是故意针对你，"
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "source": "他才挪出主城区",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "降临，华灯初上时分，他才挪出主城区。\n\n前方有一座晶轨"
+      ]
+    },
+    {
+      "source": "就是朝阳新村",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "下的涵洞再走一里地，就是朝阳新村。\n\n这里是郊区，比"
+      ]
+    },
+    {
+      "source": "这里是郊区",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "，就是朝阳新村。\n\n这里是郊区，比较荒凉，很少有人"
+      ]
+    }
+  ],
+  "realms": [],
+  "techniques": [
+    "套简单朴素的粗布法",
+    "就像是李耀曾经",
+    "忍不住倒退两步",
+    "有最高级别的防御法",
+    "现出了在异梦中曾经",
+    "的联邦十大超巨型法"
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "浮戈城",
+      "target": "Phù Qua Thành"
+    },
+    {
+      "source": "晶脑",
+      "target": "Tinh não"
+    },
+    {
+      "source": "朝阳新村",
+      "target": "Triêu Dương Tân Thôn"
+    },
+    {
+      "source": "赤霄二中",
+      "target": "Xích Tiêu Nhị Trung"
+    },
+    {
+      "source": "九大精英联校",
+      "target": "Chín đại học tinh anh liên kết"
+    },
+    {
+      "source": "普通班",
+      "target": "lớp thường"
+    },
+    {
+      "source": "灵根",
+      "target": "Linh căn"
+    },
+    {
+      "source": "灵根开发度",
+      "target": "độ khai phát linh căn"
+    }
+  ],
+  "generated_at": "2026-05-30T04:56:42.981956+07:00"
+}

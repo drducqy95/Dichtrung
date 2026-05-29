@@ -1,0 +1,179 @@
+# Chương 0001: Nghĩa địa Pháp Bảo
+
+# Chương 1: Nghĩa địa Pháp Bảo
+
+
+
+Hồ Thiết Tú.
+
+Bãi xử lý rác thải đặc chủng số 23 của Liên bang.
+
+Nơi này còn được gọi là "Nghĩa địa Pháp Bảo".
+
+Cùng với sự phát triển không ngừng của văn minh tu chân, những pháp bảo từng cao cao tại thượng, chỉ có tu chân giả mới có thể điều khiển, nay đã đi vào hàng vạn hộ gia đình, trở thành công cụ thiết yếu cho người bình thường khi di chuyển, du lịch, học tập và làm việc.
+
+Song hành với việc mang lại sự tiện lợi cho cuộc sống, chúng cũng tạo ra một lượng lớn pháp bảo phế thải và rác thải kim loại.
+
+Những pháp bảo rác này đa phần đều còn sót lại không ít linh lực, dễ gây ra ô nhiễm bức xạ, cấu trúc phù trận của pháp bảo lại cực kỳ không ổn định, thậm chí có nguy cơ phát nổ. Nếu cứ bỏ mặc không quản, chúng sẽ gây ra sức tàn phá vô cùng lớn đối với môi trường.
+
+Vì thế, xung quanh mỗi thành phố lớn của Liên bang luôn thiết lập vài "bãi xử lý rác thải đặc chủng" chuyên dùng để xử lý các pháp bảo phế thải.
+
+Bãi xử lý rác thải đặc chủng số 23 nằm ở vùng ngoại ô phía nam của "Phù Qua Thành" — một trọng trấn tu luyện của Liên bang.
+
+Dưới bầu trời vàng úa, một vùng đầm lầy bị ô nhiễm hóa thành màu tím toả ra mùi hôi thối nồng nặc. Những ngọn núi cấu thành từ các mảnh vụn kim loại tựa như hàng trăm con khủng long nhô sống lưng lên khỏi đầm lầy. Trên các đỉnh núi, những thanh phi kiếm nát vụn cắm ngổn ngang xiêu vẹo, bên cạnh phi kiếm là những khôi lỗi tinh thạch gỉ sét loang lổ đang ngồi lặng lẽ, hốc mắt trống rỗng từ lâu đã tắt ngấm linh hoả, chỉ còn những con trùng nhỏ ăn linh năng làm thức ăn thò đầu ra ngoài, thận trọng quan sát vùng "mộ địa pháp bảo" đầy rẫy hiểm họa này.
+
+"Ầm!"
+
+Cách đó không xa, bên trong một ngọn núi rác, phù trận của pháp bảo phế thải bị vỡ nát, linh lực còn sót lại lập tức phát nổ, thổi bay nửa ngọn núi lên không trung.
+
+Vô số mảnh linh kiện kim loại như thiên nữ tán hoa bắn ra tứ phía, lại châm ngòi cho sự sụp đổ liên hoàn của vài ngọn núi rác xung quanh, hất lên漫 thiên khói bụi tụa như yêu ma nhảy múa, che khuất cả bầu trời.
+
+Nơi đây dường như là vùng cấm của sự sống, chỉ có những loài gián và sâu bọ nhỏ bé không đáng kể mới coi nơi này là thiên đường.
+
+Thế nhưng...
+
+Lý Diệu đang nép mình phía sau một ngọn núi rác, liếm liếm đôi môi khô nứt. Chiếc áo khoác gió màu vàng đất phủ đầy bụi bặm khiến cậu gần như hòa làm một với môi trường xung quanh.
+
+Liếc mắt nhìn đám mây bụi do vụ nổ bốc lên ở cách đó không xa, ánh mắt trong trẻo của thiếu niên không hề gợn lên một chút cảm xúc nào, tĩnh lặng không một tia sóng dao động.
+
+Chỉ đến khi đất cát cùng mảnh vụn kim loại bắn tới ngọn núi rác nơi cậu ẩn nấp, cậu mới nhích người thu sâu hơn vào trong đống rác, đồng thời đeo lên chiếc kính chắn gió đủ để che khuất nửa khuôn mặt.
+
+"Tới rồi!"
+
+Khi chiếc đồng hồ linh tử trên cổ tay trái khẽ rung lên, tinh thần thiếu niên phấn chấn hẳn, khóe miệng nhếch lên một nụ cười đầy mong đợi.
+
+Ba giờ năm mươi hai phút ba mươi tám giây chiều, thời điểm đổ rác định kỳ mỗi ngày, cũng là khoảnh khắc cuồng hoan của những "con trùng rác" như Lý Diệu!
+
+Chiếc đồng hồ linh tử đeo trên cổ tay trái của cậu là mẫu chuyên dụng đi săn do tông môn tu luyện "Phi Linh Tông" ra mắt ba năm trước, được cậu nhặt từ trong núi rác rồi tốn trọn vẹn hai tháng mới sửa xong.
+
+Ngoài chức năng xem giờ, nó còn có tính năng rất mạnh mẽ là ghi nhận các rung động tần số đặc biệt, khi xung quanh truyền đến rung động chỉ định sẽ thông báo cho chủ nhân.
+
+Chức năng này vốn được dùng để cảnh báo cho người đi săn rằng xung quanh có thể có yêu thú mạnh mẽ.
+
+Nhưng qua bàn tay cải tạo của Lý Diệu, nó lại trở thành công cụ báo hiệu thuyền chở rác sắp xuất hiện.
+
+Một lát sau, kèm theo một tiếng vò ve nho nhỏ, trên đường chân trời phía bắc xuất hiện mười mấy chấm đen.
+
+Lúc này khói bụi che trời do vụ nổ gây ra vẫn chưa tan hết, mười mấy chấm đen nhỏ lẫn lộn trong đó, căn bản không thể phân biệt rõ ràng.
+
+Lý Diệu nhích nhích đầu mũi, ngón tay khẽ chạm vào một đường bùa văn bên cạnh kính chắn gió. "Xoạt" một tiếng, bề mặt kính chắn gió lóe lên một tầng ánh sáng đỏ rực.
+
+Dưới sự quét quét của ánh đỏ, thân ảnh tròn trịa của những chiếc thuyền chở rác ẩn nấp sau khói bụi được phác họa rõ ràng, vô cùng sắc nét.
+
+Mà chức năng đi săn của đồng hồ linh tử cũng khóa chặt lấy tần số rung động đặc thù của một trong những chiếc thuyền chở rác.
+
+"Thuyền chở rác số 1327, chính là mày!"
+
+Từ khi sinh ra cho tới năm mười tuổi, Lý Diệu đã ở nghĩa địa pháp bảo suốt mười năm, hiểu rõ từng tấc đất nơi đây và từng chiếc thuyền chở rác trên bầu trời như lòng bàn tay. Chiếc thuyền chở rác số 1327 này chuyên phụ trách thu gom rác từ "khu Thượng Đông" trong thành.
+
+Khu Thượng Đông là khu nhà giàu xa hoa nhất trong thành phố, có rất nhiều tu chân giả cư ngụ, pháp bảo họ vứt bỏ cũng là thứ có giá trị nhất.
+
+Có không ít pháp bảo thậm chí vẫn còn nguyên vẹn, chỉ vì hơi cũ một chút hoặc do vừa ra mắt dòng sản phẩm mới thế hệ tiếp theo mà bị các tu chân giả và phú hào vứt bỏ không chút tiếc nuối.
+
+Đối với Lý Diệu mà nói, đây đâu phải là thuyền chở rác, rõ ràng là một chiếc thuyền kho báu chất đầy vàng ròng!
+
+"Vút!"
+
+Lý Diệu dồn lực vào hai chân, lao ra như một quả đạn pháo, phi nhanh băng qua các ngọn núi rác, lao thẳng vào màn khói bụi hướng về phía thuyền chở rác số 1327!
+
+Xung quanh là những ngọn núi rác chực chờ đổ sụp, dưới chân là đầm lầy độc hại đang sủi bọt "ục ục", nhưng Lý Diệu lại linh hoạt như một con khỉ nhanh nhẹn nhất nơi rừng núi. Cậu thỉnh thoảng mượn lực từ một điểm nhô ra trên núi rác, mỗi lần đạp chân có thể bật xa tới vài chục mét, động tác mượt mà trôi chảy, khiến người ta mãn nhãn.
+
+"Lý Diệu, thằng khốn này, lại giành ăn với tao!"
+
+Đúng lúc này, từ phía sau mấy ngọn núi rác vọt ra mười mấy bóng người, trang phục tương tự như Lý Diệu, chỉ có điều họ không được trang bị kính chắn gió hồng quang cùng đồng hồ linh tử tiên tiến như cậu.
+
+Nhóm người này tay cầm xẻng và gậy sắt, hung hăng xông tới.
+
+Họ cũng giống như Lý Diệu, đều là những con trùng rác kiếm sống dựa vào Bãi xử lý rác thải đặc chủng số 23.
+
+Nơi nào có lợi ích thì nơi đó có đấu tranh. Từng thuyền pháp bảo phế thải đối với những tu chân giả cao quý có lẽ chỉ là rác rưởi, nhưng với những dân nghèo dưới đáy xã hội này, đó lại là hy vọng sinh tồn. Lý Diệu là con trùng rác sống tốt nhất ở nghĩa địa pháp bảo, đương nhiên cũng trở thành cái gai trong mắt, cái gai trong thịt của đa số kẻ kiếm ăn nơi đây.
+
+Lý Diệu hoàn toàn không bận tâm, cậu cười hắc hắc, eo chợt dùng lực, thân hình quỷ dị bẻ ngoặt một góc chín mươi độ một cách không báo trước, né tránh một thiếu niên to béo đang trợn mắt giận dữ trước mặt, lại còn nhân thế giẫm mạnh một cái lên mặt gã béo. Mượn đà của cú đạp này, cả người cậu lại vọt xa thêm ba bốn chục mét.
+
+"Phì Long, mọi người ra ngoài kiếm cơm thì đọ xem ai nhanh hơn thôi, mày nên giảm béo đi thôi!"
+
+Thiếu niên béo ú bị in một vết đỏ lớn trên mặt, mũi suýt lún vào trong thịt mỡ, tức giận gào thét chỉ huy đám tay chân đuổi sát không buông. Nhóm người nhanh chóng tiến vào khu vực khói bụi.
+
+Nơi này vừa mới xảy ra vụ nổ nên cực kỳ không ổn định, hàng chục ngọn núi rác có thể sụp đổ bất cứ lúc nào. Đến cả đám thiếu niên hung dữ của Phì Long khi bước vào đây cũng không nhịn được mà phải đi chậm lại, trố mắt nhìn Lý Diệu phóng đi như gió lốc.
+
+Phì Long nhổ một ngụm nước bọt.
+
+"Thằng nhóc này đúng là nổi danh đòi tiền không đòi mạng, ông trời nếu có mắt thì đánh một tia sét chết tươi nó..."
+
+Lời còn chưa dứt, bên trong một ngọn núi rác cách Lý Diệu không xa lại vang lên tiếng nổ lớn, hàng vạn tấn linh kiện kim loại cùng pháp bảo rách nát đổ ập xuống như lũ quét!
+
+"Linh nghiệm thế cơ à!" Phì Long và đám thiếu niên trợn mắt há hốc mồm, luống cuống không biết làm sao!
+
+Thế nhưng trong làn khói bụi lại truyền ra một tiếng hét lớn: "Tiểu Hắc, cứu mạng!"
+
+Một tia sáng đen thẳm sâu hơn cả màn đêm bắn vọt ra, xoay tròn vù vù trong dòng lũ kim loại rồi lao vút lên không trung. Đó là một thanh phi kiếm gỉ sét loang lổ, lưỡi kiếm mẻ nhiều chỗ, toàn thân đen kịt. Thanh phi kiếm này có hộ thủ khổng lồ dang rộng như đôi cánh màu đen. Lý Diệu ôm chặt lấy phi kiếm như người chết đuối vớ được cọc, chật vật bám trên thân kiếm, luồng ánh sáng đen bao quanh người đưa cậu phóng thẳng lên trời cao!
+
+Trên bầu trời, mười mấy chiếc thuyền chở rác khổng lồ đã lộ ra thân hình đồ sộ. Mỗi chiếc thuyền dài tới vài trăm mét, thân hình tròn trịa giống như loài rùa thần nâng đỡ mặt đất trong thần thoại. Trên "mai rùa" khắc kín hàng vạn đạo bùa văn lấp lánh linh quang ngũ sắc rực rỡ, giúp những gã khổng lồ nặng hàng vạn tấn này chống lại lực hút của trọng lực.
+
+"Rào rào!"
+
+Cửa khoang dưới bụng những con "rùa khổng lồ" mở ra, trút xuống vô vàn linh kiện kim loại cùng pháp bảo tàn khuyết, đập dữ dội xuống mặt đất.
+
+Nhất thời, linh lực trong cả đất trời cuồn cuộn khuấy động dữ dội, cuốn lên một trận cuồng phong bão táp!
+
+Đến cả những chiếc thuyền chở rác nặng vạn tấn cũng bị làn sóng linh lực làm cho nghiêng ngả, chao đảo dữ dội, buộc phải vội vã giãn khoảng cách để giảm bớt sự nhiễu loạn.
+
+Đám người Phì Long càng không dám dễ dàng lại gần, chỉ sợ bị cuốn vào trong đó.
+
+Lý Diệu vẫn cưỡi thanh phi kiếm đen né trái tránh phải trong làn sóng linh lực. Dù dáng vẻ chật vật đến cực điểm, nhưng cậu lại linh hoạt như một con trạch trong bùn.
+
+Cậu đương nhiên không dám trực tiếp chống chọi với cơn bão linh lực, mà dựa vào kinh nghiệm sinh tồn mười mấy năm để tìm kiếm những vùng an toàn tương đối yên bình giữa các luồng linh lực hỗn loạn, chỉ nhằm tiếp cận điểm rơi của pháp bảo rác càng gần càng tốt để chiếm tiên cơ.
+
+Cuối cùng...
+
+Quá trình đổ rác kéo dài gần mười phút kết thúc. Thuyền chở rác phát ra tiếng gầm rú như cự thú rồi xoay đầu, lững lờ bay về. Khói bụi cũng dần dần tan đi.
+
+Phì Long chật vật mãi mới bò được vào trung tâm khu vực đổ rác dày đặc, liền nhìn thấy Lý Diệu đang thảnh thơi ngồi trên một ngọn núi rác mới tinh, mỉm cười nhìn mình.
+
+"Mẹ kiếp!" Mặt Phì Long rung lên bần bật, nhưng trong lòng lại vô cùng đắn đo.
+
+Ngọn núi rác Lý Diệu chọn rất khéo léo, không phải ngọn núi lớn nhất, nhìn qua cũng chẳng giống nơi có nhiều tài nguyên quý giá nhất.
+
+Xung quanh còn rải rác hàng chục ngọn núi rác khác ẩn chứa những pháp bảo phế thải có giá trị liên thành.
+
+Mà trùng rác thì không chỉ có hai nhóm của bọn họ...
+
+Nếu tiếp tục dây dưa với Lý Diệu ở đây, nói không chừng sẽ bị những con trùng rác khác ngư ông đắc lợi.
+
+Thấp thoáng xung quanh đã xuất hiện bóng dáng của những con trùng rác khác, trên nhiều ngọn núi rác vang lên tiếng reo hò, đó là có người đã phát hiện ra đồ đáng giá.
+
+Chưa kể...
+
+Phì Long nghe nói thằng nhóc Lý Diệu này còn là học sinh của trường "Trung học số hai trực thuộc Xích Tiêu Phái" khá có tiếng ở Phù Qua Thành.
+
+Xích Tiêu Phái là đại tông phái nổi tiếng ở miền nam Liên bang, thực lực hùng hậu, cao thủ như mây.
+
+Lý Diệu tuy chưa chắc đã học được chân truyền gì ghê gớm, nhưng cũng không phải là kẻ dễ dàng đối phó. Nếu không, cậu làm sao có thể một thân một mình lăn lộn mười mấy năm ở nghĩa địa pháp bảo này mà vẫn còn sống sờ sờ, thậm chí còn kiếm được biệt danh "Thốc Thứu"!
+
+Nhưng nếu cứ thế mà đi, mặt mũi gã biết để vào đâu? Mũi gã hiện tại vẫn còn đang đau điếng đây này!
+
+Trong lúc lòng đang lưỡng lự, một cơn gió mạnh lướt qua, Phì Long theo bản năng đưa tay ra chụp lấy. Vật chạm tay mát lạnh, hóa ra là một bộ tinh não phế thải chỉ to bằng nắm tay.
+
+Lý Diệu cười híp mắt nói: "Phì Long, mọi người đều ra ngoài kiếm cơm cả. Chẳng qua lần trước tao có tranh của mày một bộ tinh não cấp 'Tinh Quang', cũng đâu phải giết cha mày đâu mà phải sống chết thế này? Này, tao vừa tìm được một bộ tinh não 'Kiêu Long 17' do Thanh Long Môn luyện chế, mẫu mới nhất đấy, mỗi giây có thể vận hành hơn năm ngàn niệm đầu. Tuy bị cháy hỏng rồi nhưng tao đoán vẫn bán được ba cách bốn ngàn tệ. Coi như tao kính dâng cho anh Phì Long, từ nay chúng ta xóa nợ, thấy thế nào?"
+
+"Mày..." Phì Long không ngờ Lý Diệu lại làm vậy, lập tức ngẩn người, có chút không tin nổi gãi gãi lớp mỡ trên mặt.
+
+"Này, nhìn bên kia kìa, người của 'Dã Lang Bang' sắp tới rồi đó. Bọn họ không giống kẻ đi một mình như tao đâu, chắc chắn sẽ quét sạch bách mấy chục ngọn núi rác này, đến một con ốc vít cũng không chừa lại cho mày đâu!" Lý Diệu hất hàm chỉ về phía tây.
+
+Sắc mặt Phì Long thay đổi, nheo mắt quan sát một lúc lâu, cuối cùng cũng hạ quyết tâm, giơ ngón tay cái về phía Lý Diệu, nói một câu:
+
+"Khá lắm nhóc con, mày được đấy! Đi thôi, mau tranh thủ gom hàng!"
+
+Cả đám trùng rác tản ra, lao về phía các ngọn núi rác bốn phương tá hướng.
+
+"Phù..."
+
+Lý Diệu thở phào một hơi dài, đặt mông ngồi bệt xuống đống rác, mồ hôi hột lăn dài trên trán, gương mặt tươi cười lập tức méo xệch đi.
+
+"Thằng mập chết tiệt, bộ tinh não cấp 'Kiêu Long' ta vất vả lắm mới tìm được, hời cho mày rồi!"
+
+"Mày cứ đợi đấy, đồ của 'Thốc Thứu Lý Diệu' này dễ nuốt thế sao? Sẽ có ngày tao bắt mày ăn của tao phải nhả ra, lấy của tao phải trả lại, còn phải kèm theo lãi suất tính theo kiểu cho vay nặng lãi, để mày biết thế nào là lý do mọi người gọi tao là 'Thốc Thứu đòi tiền không đòi mạng'!"
+
+"Không được, phải tăng tốc thôi, đám tạp chủng 'Dã Lang Bang' kia còn ngang ngược không nói lý lẽ hơn cả Phì Long nhiều!"
+
+Lý Diệu giật phắt kính chắn gió xuống treo trước cổ, xoa xoa hai bàn tay, đôi mắt sáng rực, liếm môi một cái rồi đâm đầu lao vào đống rác vừa mới xuất xưởng!
