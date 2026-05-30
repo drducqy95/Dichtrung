@@ -5,8 +5,449 @@
   "aligned_segments": [
     {
       "seg_id": "seg_0001",
-      "source": "对李耀来说，这天晚上发生的一切，完全是一场不可思议的奇妙之旅。",
+      "source": "# 23.第23章 黑白通吃",
       "target": "Đối với Lý Diệu mà nói, tất cả những gì xảy ra tối hôm nay hoàn toàn là một chuyến hành trình kỳ diệu không thể tin nổi.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0002",
+      "source": "对李耀来说，这天晚上发生的一切，完全是一场不可思议的奇妙之旅。",
+      "target": "Cậu chỉ nhớ mình bị Gã hề mặt cười đánh cho khắp người đầy thương tích, ngất xỉu một cách đầy mất mặt, sau đó giống như bị ai đó ném vào một cái bể lớn nghi ngút hơi nóng, trôi nổi bấp bênh trong dòng dung nham nóng rực.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0003",
+      "source": "他只记得自己被笑脸小丑打得遍体鳞伤，很丢脸地昏死过去，然后就像是被人丢进了一个热气腾腾的大池子，在炙热的岩浆里浮浮沉沉。",
+      "target": "Ngâm suốt năm tiếng đồng hồ mới tỉnh lại, Lý Diệu cảm thấy cả đời này chưa từng sướng như thế!",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0004",
+      "source": "足足泡了五个钟头才醒过来,李耀感觉这辈子都没有这么爽过！",
+      "target": "Cảm giác thỏa mãn khó tả bằng lời đó hoàn toàn không thể dùng bút mực nào tả xiết — nếu gượng gạo để nói, thì giống như mỗi một bó cơ, mỗi một huyết quan, thậm chí mỗi một tế bào trên khắp cơ thể cậu đều được thưởng thức một bữa đại tiệc vô cùng tinh mỹ, lại được tắm rửa một cách thoải mái dễ chịu, cuối cùng là tận hưởng ba tiếng đồng hồ xoa bóp toàn thân tỉ mỉ chu đáo, quả thực là sướng lên tận chín tầng mây!",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0005",
+      "source": "那种难以言喻的满足感，根本无法用笔墨形容——勉强要说的话，就像是他浑身上下的每一束肌肉、没一条血管，甚至每一颗细胞，都享受了一顿无比精美的大餐，又舒舒服服地泡了个澡，最后享受了三个钟头无微不至的全身按摩，简直是爽到九霄云外！",
+      "target": "Chỉ là, ông chủ võ quán đầu trọc xăm trổ kia cứ sa sầm mặt mặt, trừng mắt nhìn cậu với vẻ mặt không thiện cảm, giống như cậu đang nợ lão ta mấy trăm vạn vậy!",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0006",
+      "source": "只是，那个光头纹身的修炼馆老板，却一直黑着脸，面色不善地瞪着他，活像是他欠了老板几十万一样！",
+      "target": "Cho đến khi cậu húp sùm sụp hai bát cháo ngô lớn trong vòng nửa phút, lại nuốt liền bốn chiếc xúc xích to bằng cánh tay, nhân tiện ăn thêm mười hai chiếc bánh bao nhân thịt, sắc mặt của ông chủ mới trở nên dễ nhìn hơn một chút.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0007",
+      "source": "直到他在半分钟之内，稀里呼噜地咽下两大碗玉米粥，又连吞了四根手臂粗的大香肠，顺带吃了十二个肉包子之后，老板的脸色才变得稍微好看一点。",
+      "target": "\"Cậu từng đi lính sao?\" Ông chủ đột ngột hỏi.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0008",
+      "source": "“你当过兵？",
+      "target": "Lý Diệu sửng sốt, lắc đầu.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0009",
+      "source": "”老板很突兀地问。",
+      "target": "\"Cách cậu ăn uống rất giống với một số 'binh lính đặc chủng' trong quân đội. Những binh lính đặc chủng thực sự sinh tồn trên chiến trường tu la đều biết rằng, việc nạp năng lượng ở mức độ tối đa trong thời gian ngắn nhất là một kỹ năng cực kỳ quan trọng, có thể nâng cao xác suất sống sót lên rất lớn! Cách ăn này của cậu chắc chắn là đã qua huấn luyện chuyên môn, nếu bản thân cậu không đi lính thì trong nhà chắc chắn phải có tiền bối xuất thân từ quân ngũ, hơn nữa còn là một bộ phận bí mật cấp bậc rất cao!\" Gã đầu trọc xăm trổ giải thích, ánh mắt nhìn Lý Diệu bỗng trở nên vô cùng thân thiết.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0010",
+      "source": "李耀一愣，摇了摇头。",
+      "target": "Lão không tiếp tục gặng hỏi về xuất thân của Lý Diệu nữa, mà đi thẳng vào vấn đề, rút ra một bản hợp đồng mới tinh.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0011",
+      "source": "“你吃饭的方式，和军中一些‘特种兵’非常相似，真正在修罗杀场上生存过的特种兵都知道，在最短时间内，最大程度摄入能量，是一门非常重要的技巧，能极大提升生存概率！",
+      "target": "\"Vị hội viên vừa rồi cực kỳ hài lòng với biểu hiện của cậu, muốn ký hợp đồng bồi luyện một tháng với cậu, có hứng thú không?\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0012",
+      "source": "你这种吃法，肯定是受过专门训练，不是自己当过兵，就是家里有长辈从部队里出来，还是级别非常高的秘密部队！",
+      "target": "......",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0013",
+      "source": "”光头纹身男解释道，注视着李耀的眼神，忽然变得十分亲切。",
+      "target": "Cứ như thế, vào sáng sớm ngày hôm sau, khi Lý Diệu hùng dũng hiên ngang xuất hiện trước cổng lớn của trường Xích Tiêu Nhị Trung, trong tài khoản của cậu đã có thêm tròn mười một vạn tiền mặt, trong túi áo là một bản hợp đồng giá trị liên thành, trong huyết quan cuộn trào sức mạnh chực phun trào, sâu trong lồng ngực như chứa đầy thuốc nổ tinh thạch, mỗi một nhịp tim đều là một vụ nổ kinh thiên động địa!",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0014",
+      "source": "他没有继续纠缠李耀的出身，直截了当，掏出一份崭新的合同。",
+      "target": "\"Còn 97 ngày 18 giờ 33 phút 45 giây nữa là đến kỳ thi đại học!\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0015",
+      "source": "“刚才那位会员，对你的表现十分满意，想和你签一个月的陪练合同，有没有兴趣？",
+      "target": "Dưới tấm bảng đếm ngược ngày thi đại học, Lý Diệu đứng định thần, những con số nhảy nhót phản chiếu sâu trong đôi mắt cậu, hóa thành hai ngọn lửa yêu cuồng nhiệt. Cậu dùng lực vung nắm đấm, hận không thể hét dài một tiếng, bay người lên tung một cước đá vỡ nát tấm bảng này!",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0016",
+      "source": "”",
+      "target": "\"Tiểu Yêu, hôm qua cậu đi đâu thế, Linh Hạc Truyền Thư cũng không trả lời, có chuyện gì vậy?\" Giọng nói của bạn thân Mạnh Giang truyền lại từ phía sau.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0017",
+      "source": "…",
+      "target": "Lý Diệu không thèm quay đầu lại, quăng bọc giấy dầu trong tay ra sau lưng, rơi chuẩn xác vào lòng Mạnh Giang: \"Hôm qua đột nhiên bị sốt, nghỉ ngơi ở nhà một ngày, nè, bánh trứng chiên của sạp Hỏa Vân Chưởng đó!\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0018",
+      "source": "…",
+      "target": "Mạnh Giang bị nóng la oai oái, mở bọc giấy dầu ra nhìn, mắt lập tức sáng lên: \"Oa, cậu phát tài rồi à, lại mua hẳn mười cái bánh trứng, sao mà ăn hết được?\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0019",
+      "source": "就这样，当第二天一大早，李耀雄赳赳，气昂昂地出现在赤霄二中大门口时，他的账户里多了整整十一万大钞，口袋里躺着一纸价值连城的合同，血管里涌动着喷薄欲出的力量，胸膛深处像是塞满了晶石炸药，每次心跳都是一次惊天动地的爆炸！",
+      "target": "\"Thì cậu ăn năm cái, quẳng đi năm cái!\" Lý Diệu cười \"ha ha\", khoác vai cậu bạn thân, hai người vừa nói vừa cười đi về phía phòng học.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0020",
+      "source": "“距离高考，还有97天18小时33分45秒！",
+      "target": "\"Này Tiểu Yêu, cậu nghe nói gì chưa, tối qua trường mình vừa xảy ra một tin tức bùng nổ kinh thiên động địa đấy!\" Mạnh Giang nháy mắt ra hiệu nói.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0021",
+      "source": "”",
+      "target": "\"Tin gì thế?\" Lý Diệu ăn một miếng hết sạch một cái bánh, chớp mắt đã nuốt gọn ba cái bánh trứng nóng hổi, làm Mạnh Giang nhìn đến ngây người.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0022",
+      "source": "在高考倒计时牌下面，李耀站定，跳动的数字倒映在他的眼眸深处，化作了两束狂热的妖火，他用力挥了挥拳头，恨不得长啸一声，飞飞身而起，一记飞腿，将这块牌子狠狠踢碎！",
+      "target": "Định thần lại, Mạnh Giang nói: \"Nghe nói tối qua, cái lớp thường tập trung toàn tạp ngư tụi mình lại có một tên đụng độ với đệ nhất cao thủ của trường là Hách Liên Liệt ở bên ngoài, không biết dùng thủ đoạn gì mà khiến Hách Liên Liệt vô cùng chật vật. Khi gã ta về nhà còn bị trưởng bối mắng cho một trận tơi bời, thậm chí phạt cấm túc ở nhà một tuần, không cho ra ngoài gây sự nữa!\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0023",
+      "source": "“小妖，昨天你去什么地方了，灵鹤传书你也不回，怎么回事？",
+      "target": "\"Ồ?\" Bước chân của Lý Diệu chậm lại, sắc mặt có chút kỳ quái.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0024",
+      "source": "”死党孟江的声音从身后传来。",
+      "target": "Mạnh Giang không hề phát hiện ra sự bất thường của bạn thân, vẫn hớn hở kể tiếp: \"Nghe nói họ đụng độ là vì Tiêu Giai Tuyết. Haiz, cũng không biết 'vị hảo hán' nào của lớp thường tụi mình mà gan to như vậy, lại có thể khiến kẻ bá đạo trong trường như Hách Liên Liệt phải chịu thiệt. Có điều tên to gan lớn mật này kết cục chắc chắn sẽ rất thê thảm, ước chừng hôm nay sẽ có kịch hay để xem rồi!\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0025",
+      "source": "李耀头也不回，将手里的油纸包往身后一丢，准确地落在孟江怀里：“昨天突然发烧，在家里休息了一天，给，火云掌摊的鸡蛋饼！",
+      "target": "Lý Diệu kỳ quái hỏi: \"Không phải cậu bảo Hách Liên Liệt bị cấm túc không đi học sao, còn có kịch hay gì để xem nữa?\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0026",
+      "source": "”",
+      "target": "Mạnh Giang lắc đầu nói: \"Tiểu Yêu, cậu bình thường ít quan tâm đến tin mật trong trường nên không biết, thế lực của Hách Liên Liệt ở trường không hề đơn giản đâu! Chưa nói đến ông già gã ta là Hách Liên Bá, chính là một trong các cổ đông của Xích Tiêu Nhị Trung, có tầm ảnh hưởng rất lớn; chỉ nói bản thân Hách Liên Liệt thôi cũng là 'Hội trưởng Hội học sinh' của Xích Tiêu Nhị Trung, lại là người tổ chức của mấy câu lạc bộ lớn, dưới tay có một đám thuộc hạ thực lực mạnh mẽ. Như vậy, bất kể là đi đường sáng hay đường tối, cũng không có ai chơi lại gã cả!\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0027",
+      "source": "孟江烫得哇哇乱叫，揭开油纸包一看，眼睛都亮了起来：“哇，你发财啦，竟然买了整整十张饼，怎么吃得下？",
+      "target": "Ngừng một lát, Mạnh Giang hạ thấp giọng, thần bí nói: \"Cậu có nhớ năm ngoái ở lớp song hành, có một học sinh không biết vì sao đắc tội Hách Liên Liệt, không chỉ bị đánh rất thảm, mà sau khi đưa vào phòng y tế còn 'ngoài ý muốn' dùng sai thuốc điều trị, phải nằm giường bệnh suốt nửa tháng. Khó khăn lắm mới bình phục thì lại bị trường học kiếm cớ đuổi học, chậc chậc chậc chậc, đúng là sống không bằng chết!\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0028",
+      "source": "”",
+      "target": "Lý Diệu đồng tử đột ngột co rút: \"Hách Liên Liệt có năng lượng lớn như vậy sao?\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0029",
+      "source": "“你吃五张，丢五张嘛！",
+      "target": "Mạnh Giang gật đầu, lộ ra vẻ mặt thỏ chết cáo khóc, thở dài nói: \"Giờ cậu mới biết à? Nếu không, cho dù gã có giỏi đánh nhau đi nữa, mọi người cũng chẳng có lý do gì phải sợ gã như thế. Tóm lại, bất kể tối qua là ai trêu vào gã, giờ này mau chóng chủ động xin thôi học đi, ít nhất còn tránh được một trận đòn da thịt! Ủa, Tiểu Yêu, sắc mặt cậu sao lại khó coi như vậy?\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0030",
+      "source": "”李耀“哈哈”一笑，搂住死党的脖子，两人说说笑笑，向教室走去。",
+      "target": "\"Có sao?\" Lý Diệu nhai nhồm nhoàm như không có chuyện gì xảy ra, ợ một cái rõ to.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0031",
+      "source": "“喂，小妖，你听说没有，咱们学校昨天晚上出了一个惊天动地的爆炸性大新闻！",
+      "target": "\"Có chứ, ai bảo cậu nuốt một hơi sáu cái bánh trứng, đúng là đồ thùng cơm, giờ thì bị nghẹn rồi chứ gì!\" Mạnh Giang đập mạnh một phát vào lưng cậu, \"Lạ thật, có phải cậu nhét thứ gì sau lưng không, sao tớ cảm giác cơ lưng của cậu cứng ngắc như một khối đá vậy!\" ......",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0032",
+      "source": "”孟江挤眉弄眼地说。",
+      "target": "Mười phút sau, Nhà thi đấu số 9.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0033",
+      "source": "“什么新闻？",
+      "target": "Trường Xích Tiêu Nhị Trung tổng cộng có chín nhà thi đấu, trong đó Nhà thi đấu số 9 là nơi có niên đại xây dựng cổ xưa nhất, thiết bị lạc hậu nhất, môi trường tồi tệ nhất, cũng là nơi tu luyện chính của học sinh lớp thường.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0034",
+      "source": "”李耀一口一张饼，转眼吞下三张热气腾腾的鸡蛋饼，看得孟江目瞪口呆。",
+      "target": "Trong nhà thi đấu hơi trống trải bày đủ loại thiết bị tu luyện, hơn trăm học sinh lớp thường đã thay võ phục có độ đàn hồi cao, đang tiến hành tu luyện gian khổ cực nhọc. Tiếng hò hét, tiếng đấm đá, tiếng sắt thép và tạ đòn va chạm, đủ thứ âm thanh hỗn tạp hòa vào nhau, vang vọng dưới trần nhà đổ nát.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0035",
+      "source": "定了定神，孟江道：“据说昨天晚上，咱们这个杂鱼云集的普通班，竟然有个家伙在外面和学校第一高手赫连烈发生了冲突，用了不知什么手段，弄得赫连烈很是狼狈，回到家里，还被长辈好生训斥了一通，甚至罚他在家里禁足一个礼拜，不准他再出来惹是生非！",
+      "target": "Lý Diệu chui vào một khoang kiểm tra, chuẩn bị đo thử độ khai phát linh căn.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0036",
+      "source": "”",
+      "target": "Mơ hồ, cậu cảm thấy độ khai phát linh căn của mình chắc chắn đã có sự nâng cao thoát thai hoán cốt!",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0037",
+      "source": "“哦？",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0038",
+      "source": "”李耀的脚步一慢，脸色有些古怪。",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0039",
+      "source": "孟江并没有发现好友的异样，眉飞色舞地继续道：“听说他们是为了司佳雪才发生冲突，嗨，也不知道咱们普通班的哪一位‘好汉’这么带种，竟然让赫连烈这个学校霸王都吃了瘪，不过这个胆大包天的家伙，下场肯定非常凄惨，估计今天就有好戏可看了！",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0040",
+      "source": "”",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0041",
+      "source": "李耀奇道：“你不是说赫连烈都被禁足，没来上学么，还有什么好戏可看？",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0042",
+      "source": "”",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0043",
+      "source": "孟江摇头道：“小妖，你平常不太关心学校的秘闻，所以不知道，赫连烈在学校里的势力，可不简单！",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0044",
+      "source": "先不用说他的老子赫连霸，就是赤霄二中的董事之一，拥有极大的影响力；就说赫连烈自己，也是赤霄二中的‘学生会会长’，还是好几个社团的组织者，拥有一大批实力强横的手下，这样，无论是玩黑的还是白的，都没人能玩得过他！",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0045",
+      "source": "”",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0046",
+      "source": "顿了一顿，孟江压低了声音，有些诡秘地说，“你还记不记得，去年在平行班里，有一名学生不知怎么得罪了赫连烈，不但被打得好惨，而且在送到医务室之后，又‘意外’用错了治疗药剂，在床上躺了足足半个月，好不容易痊愈了，却被学校找了个借口开除，啧啧啧啧，真是生不如死！",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0047",
+      "source": "”",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0048",
+      "source": "李耀的瞳孔骤然收缩：“赫连烈，有这么大的能量？",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0049",
+      "source": "”",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0050",
+      "source": "孟江点头，一副兔死狐悲的表情，叹了口气道：“你才知道？",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0051",
+      "source": "否则，就算他再能打，大家也没理由会这么怕他，总之，不管昨晚是谁招惹了他，这会儿赶快主动申请退学吧，至少还免了一顿皮肉之苦！",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0052",
+      "source": "咦，小妖，你的脸色怎么这般难看？",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0053",
+      "source": "”",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0054",
+      "source": "“有吗？",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0055",
+      "source": "”李耀若无其事地咀嚼着，打了个饱嗝。",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0056",
+      "source": "“有啊，谁叫你一口气吃下去六张饼，简直是个饭桶，这下子撑住了吧！",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0057",
+      "source": "”孟江在他背后猛地拍了一掌，“奇怪，你是不是在背后垫了什么东西，怎么感觉背部肌肉硬梆梆的，像一整块岩石！",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0058",
+      "source": "”…",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0059",
+      "source": "…",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0060",
+      "source": "十分钟后，九号体育馆。",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0061",
+      "source": "赤霄二中一共有九座体育馆，其中九号体育馆是建造年代最古老，设备最落后，环境最恶劣的一座，是普通班学生的主要修炼场所。",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0062",
+      "source": "有些空旷的体育馆里，摆放着各种修炼设备，上百名普通班的学生都换上了富有弹性的练功服，进行艰苦卓绝的修炼，呐喊声、打击声、铁片和杠铃碰撞的声音，各种声音混合在一起，在破落的天花板下回荡。",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0063",
+      "source": "李耀钻进一台考试舱，准备测试一下灵根开发度。",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0064",
+      "source": "隐隐的，他感觉自己的灵根开发度，一定有了脱胎换骨的提升！",
+      "target": "",
       "alignment_type": "1-to-1",
       "narrative_type": "narration"
     }
@@ -15,15 +456,71 @@
     {
       "source_term": "赤霄二中",
       "target_term": "Xích Tiêu Nhị Trung",
-      "seg_id": "seg_0010",
+      "seg_id": "seg_0019",
       "is_locked": false,
       "present_in_target": true,
       "category": "faction"
     },
     {
+      "source_term": "灵鹤传书",
+      "target_term": "Linh Hạc Truyền Thư",
+      "seg_id": "seg_0023",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "item"
+    },
+    {
+      "source_term": "火云掌",
+      "target_term": "Hỏa Vân Chưởng",
+      "seg_id": "seg_0025",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "technique"
+    },
+    {
+      "source_term": "普通班",
+      "target_term": "lớp thường",
+      "seg_id": "seg_0035",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "faction"
+    },
+    {
+      "source_term": "司佳雪",
+      "target_term": "Tiêu Giai Tuyết",
+      "seg_id": "seg_0039",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "character"
+    },
+    {
+      "source_term": "平行班",
+      "target_term": "lớp song hành",
+      "seg_id": "seg_0046",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "faction"
+    },
+    {
+      "source_term": "考试舱",
+      "target_term": "khoang thi cử",
+      "seg_id": "seg_0063",
+      "is_locked": false,
+      "present_in_target": false,
+      "category": "item"
+    },
+    {
       "source_term": "灵根",
       "target_term": "Linh căn",
-      "seg_id": "seg_0020",
+      "seg_id": "seg_0063",
+      "is_locked": false,
+      "present_in_target": false,
+      "category": "general"
+    },
+    {
+      "source_term": "灵根开发度",
+      "target_term": "độ khai phát linh căn",
+      "seg_id": "seg_0063",
       "is_locked": false,
       "present_in_target": true,
       "category": "general"
@@ -34,14 +531,35 @@
       "source_surface": "李耀",
       "target_surface": "Lý Diệu",
       "entity_type": "person",
-      "seg_id": "seg_0001",
+      "seg_id": "seg_0002",
+      "confidence": 1.0
+    },
+    {
+      "source_surface": "孟江",
+      "target_surface": "Mạnh Giang",
+      "entity_type": "person",
+      "seg_id": "seg_0024",
       "confidence": 1.0
     },
     {
       "source_surface": "赫连烈",
       "target_surface": "Hách Liên Liệt",
       "entity_type": "person",
-      "seg_id": "seg_0015",
+      "seg_id": "seg_0035",
+      "confidence": 1.0
+    },
+    {
+      "source_surface": "司佳雪",
+      "target_surface": "Tiêu Giai Tuyết",
+      "entity_type": "person",
+      "seg_id": "seg_0039",
+      "confidence": 1.0
+    },
+    {
+      "source_surface": "赫连霸",
+      "target_surface": "Hách Liên Bá",
+      "entity_type": "person",
+      "seg_id": "seg_0044",
       "confidence": 1.0
     }
   ],
@@ -51,7 +569,7 @@
     "segment_coverage": 1.0,
     "locked_term_hit_rate": 1.0,
     "cjk_residue_count": 0,
-    "paragraph_drift_ratio": 0.0,
+    "paragraph_drift_ratio": 0.438,
     "pronoun_consistency_score": 1.0,
     "warnings": []
   }

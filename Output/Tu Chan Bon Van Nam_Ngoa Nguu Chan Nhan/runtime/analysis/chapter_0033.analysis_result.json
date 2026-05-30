@@ -5,41 +5,684 @@
   "aligned_segments": [
     {
       "seg_id": "seg_0001",
-      "source": "李耀还在深蹲架下面和钢铁殊死搏斗，向最后一组深蹲冲刺。",
+      "source": "# 33.第33章 难熬的夜晚",
       "target": "Lý Diệu vẫn đang kịch liệt chiến đấu với đống sắt thép dưới giá gánh tạ sâu, chạy nước rút tiến về tổ gánh tạ cuối cùng.",
       "alignment_type": "1-to-1",
       "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0002",
+      "source": "李耀还在深蹲架下面和钢铁殊死搏斗，向最后一组深蹲冲刺。",
+      "target": "Cậu vốn dĩ không hề hay biết, trong góc tối tăm sau lưng mình, một lão già mang danh \"Bại hoại giới Tu Chân\" cùng một cao thủ cấp độ yêu nghiệt mang biệt hiệu \"Yêu Đao\" đang thì thầm bàn tán, nâng cấp toàn diện nội dung huấn luyện tăng cường đặc biệt dành cho cậu.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0003",
+      "source": "他压根不知道，在身后阴暗的角落里，有一个号称“修真界败类”的老家伙正在和一个号称“妖刀”的妖孽级高手，正在交头接耳，对他的强化特训内容，进行全方位升级。",
+      "target": "Cuối cùng —",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0004",
+      "source": "终于——",
+      "target": "\"Mười tổ gánh tạ sâu, mình làm được rồi!\" Lý Diệu gầm thét một tiếng, hai mắt trợn trắng, ngã ngửa thẳng cẳng ra sau. Tiếng \"bạch\" vang lên, mồ hôi đầm đìa tạo thành một vệt hình người khổng lồ in trên nền đất!",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0005",
+      "source": "“十组深蹲，我办到了！",
+      "target": "Trong lúc mơ mơ màng màng, cậu cảm thấy Tôn Bưu đút vào miệng mình một viên thuốc to bằng nắm tay trẻ sơ sinh. Viên thuốc vừa mới cho vào miệng còn chưa kịp nhai đã hóa thành một dòng chất lỏng vô cùng cay nồng, trôi tuột qua cổ họng chảy thẳng xuống bụng.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0006",
+      "source": "”李耀狂吼一声，两眼翻白，直挺挺向后倒下，“啪”一声，汗水在他周围砸出了一个巨大的人形！",
+      "target": "Kích thích, quả thực là vô cùng kích thích, thậm chí còn kích thích hơn cả việc ăn trọn một bát mù tạt. Lý Diệu cay đến mức nước mắt giàn giụa, lập tức nhảy cẫng lên từ mặt đất cao tới ba thước: \"Nước, nước, mau cho cháu nước!\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0007",
+      "source": "模模糊糊的，他感觉到孙彪往他嘴里喂了一颗婴儿拳头大小的药丸，刚刚放入口中，还未咀嚼，就化作了一股辛辣无比的液体，顺着喉管滚入腹中。",
+      "target": "\"Nhóc con, hiện giờ cảm thấy thế nào?\" Tôn Bưu cười híp mắt hỏi.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0008",
+      "source": "刺激，实在是太刺激，简直比吃了整整一碗芥末还要刺激，李耀辣得泪花四溅，一下子从地上窜了起来，一蹦三尺高：“水，水，快给我水！",
+      "target": "\"Ủa?\" Lý Diệu chớp chớp mắt, sờ từ đầu đến chân một lượt. Một chuyện kỳ lạ đã xảy ra, tuy trong miệng cậu tràn ngập vị cay nồng kích thích dữ dội, nhưng cảm giác kiệt quệ mệt mỏi rã rời trước đó đã hoàn toàn bay biến sạch sẽ, tứ chi bách hài dạt dào sức mạnh to lớn, thể năng lại khôi phục trạng thái đỉnh phong!",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0009",
+      "source": "”",
+      "target": "\"Hôm nay chỉ là món khai vị thôi, bắt đầu từ ngày mai mới là huấn luyện thực sự. Có vấn đề gì không hả, bạn học Lý Diệu?\" Tôn Bưu khẽ búng tay một cái, bộ quần áo luyện công trên người Lý Diệu giống như da rắn tự động tuột xuống.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0010",
+      "source": "“小子，现在感觉如何？",
+      "target": "Lý Diệu tựa như một con thỏ gặp kinh hãi, nhảy vài bước đã vọt ra tới cổng lớn nhà kho, lúc này mới quay đầu lại nghiến răng nghiến lợi bảo: \"Tất nhiên không vấn đề gì. Sáng mai cháu sẽ lại tới, thầy cứ đợi đấy!\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0011",
+      "source": "”孙彪笑眯眯问道。",
+      "target": "\"Được thôi!\" Tôn Bưu cười tợn, hạ thấp giọng tự nói một mình, \"Có điều, ta chỉ sợ sáng mai ngươi ngay cả giường cũng không bước xuống nổi đâu, con quái vật nhỏ!\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0012",
+      "source": "“咦？",
+      "target": "...",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0013",
+      "source": "”李耀眨巴着眼睛，从头到脚摸了一遍，诡异的事情发生了，虽然他嘴里充斥着无比刺激的辛辣，但精疲力竭的感觉却是一扫而空，四肢百骸充盈着强大的力量，体能又恢复到了巅峰状态！",
+      "target": "Tám giờ tối, Lý Diệu đến võ quán Quân Đạo Sát Lang đúng giờ. Cậu vô cùng tự tin vào ba phút làm bia tập bắn tối nay.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0014",
+      "source": "“今天只是开胃小菜，明天开始才是真正的训练，有没有问题啊，李耀同学？",
+      "target": "Đùa gì thế, ngay cả bộ đồ \"Từ Bỏ\" nham hiểm xảo trá, hèn hạ vô sỉ, hung tàn bạo ngược đến vậy cậu còn cắn răng chịu đựng vượt qua được, lẽ nào lại không chống đỡ nổi ba phút tấn công của Gã Hề Mặt Cười?",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0015",
+      "source": "”孙彪轻轻打了个响指，李耀身上的修炼服就像是蛇皮一样自动蜕了下来。",
+      "target": "Tuy nhiên, khi nhìn thấy nụ cười quái dị trên mặt Gã Hề Mặt Cười và vị quán trưởng đầu trọc, trong lòng cậu lại bắt đầu lo lắng.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0016",
+      "source": "李耀像是一只受惊的兔子，三两步就窜到了仓库大门口，这才回头，咬牙切齿道：“当然没问题，明天早上我还会再来的，你等着！",
+      "target": "Nụ cười của hai vị này giống hệt như hai con sói đói đang nhìn chằm chằm một con thỏ đã rửa sạch sẽ lại còn được ướp sẵn gia vị. Lý Diệu nhìn thế nào cũng thấy bên dưới nụ cười đó ẩn giấu một âm mưu động trời!",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0017",
+      "source": "”",
+      "target": "\"Bụng ngươi có đói không, có muốn ăn một bữa thịnh soạn trước không? Nhìn xem, nhiều lương khô quân dụng nén năng lượng cao thế này, cứ thả ga mà ăn đi!\" Quán trưởng đầu trọc mỉm cười nói.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0018",
+      "source": "“好啊！",
+      "target": "\"Ăn xong rồi thì cũng có thể ngâm bồn bằng dược chất cường hóa trước, rồi tìm một vị sư phục mát-xa cho ngươi một chút, giúp thể năng khôi phục lại trạng thái đỉnh phong!\" Gã Hề Mặt Cười bảo.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0019",
+      "source": "”孙彪狞笑，压低嗓音，自言自语道，“只不过，我怕你明天早上连床都下不来啊，小怪物！",
+      "target": "\"Các người... có âm mưu gì?\" Lý Diệu như ngồi trên đống kim, trán toát mồ hôi lạnh.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0020",
+      "source": "”",
+      "target": "Gã Hề Mặt Cười và quán trưởng đầu trọc nhìn nhau, không nhịn được cười xòa bảo: \"Không có, tuyệt đối không có, chúng ta làm sao có âm mưu gì chứ? Chẳng qua chỉ muốn ngươi hồi phục lại trạng thái tốt nhất để đấu một trận ra trò năm phút mà thôi!\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0021",
+      "source": "…",
+      "target": "\"Năm phút? Rõ ràng là ba phút mà!\" Lý Diệu lập tức nhảy dựng lên.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0022",
+      "source": "…",
+      "target": "Gã Hề Mặt Cười giơ hai ngón tay lên: \"Hai vạn, chỉ cần ngươi trụ được năm phút, ta sẽ cho ngươi hai vạn!\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0023",
+      "source": "晚上八点，李耀准时来到军道杀狼修炼馆，他对今晚的三分钟陪练充满信心，",
+      "target": "...",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0024",
+      "source": "开玩笑，连那么阴险狡诈卑鄙无耻凶残暴虐的“放弃”，他都咬紧牙关扛过来了，难道还挨不住笑脸小丑三分钟的攻击？",
+      "target": "Đêm nay quả thực vô cùng dài.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0025",
+      "source": "只不过，当他看到笑脸小丑和光头馆长两个人满脸诡异的笑容时，心底又有些打鼓。",
+      "target": "Trên mặt đất cách chợ quỷ ngầm mười mấy km, thuộc khu Thượng Đông, bên trong một quần thể biệt thự trải dài sát hồ nước nhân tạo, tại tầng hầm của một căn biệt thự xa hoa lộng lẫy.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "inner_thought"
+    },
+    {
+      "seg_id": "seg_0026",
+      "source": "这两位仁兄的笑容，就像是两头饥肠辘辘的饿狼，看到一头洗得干干净净还抹上了调料的兔子，李耀怎么看，都觉得笑容底下隐藏着天大的阴谋！",
+      "target": "\"Chát! Chát! Chát! Chát!\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0027",
+      "source": "“你肚子饿不饿，要不要先吃一顿丰富大餐？",
+      "target": "Roi da xé rách không khí, quất sâu vào lưng phát ra những tiếng đôm đốp nổi da gà.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0028",
+      "source": "你看，这么多的高能压缩军粮，尽管放开肚皮吃！",
+      "target": "Hách Liên Liệt trần truồng như nhộng, tay chân dang rộng thành hình chữ \"Đại\", bị trói chặt cứng trên giá chịu phạt roi.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0029",
+      "source": "”光头馆长微笑道。",
+      "target": "Một gã đàn ông to lớn vạm vỡ với cơ bắp cuồn cuộn nổ tung, khắp người mọc đầy lông đen đang cầm chiếc roi da thấm đẫm loại thuốc gây đau đớn đặc chế, không một chút nương tay quất hết roi này đến roi khác, dường như muốn đánh chết tươi anh ta.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0030",
+      "source": "“吃完了之后，也可以先用强化药剂泡个澡，再找个师傅给你按摩一下，把体能恢复到巅峰状态！",
+      "target": "Hách Liên Liệt ngậm một thanh gỗ trong miệng đã cắn nát bấy, nhưng anh ta không hề phát ra một tiếng kêu thảm thiết nào, hai mắt trừng trừng nhìn về phía trước.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0031",
+      "source": "”笑脸小丑道。",
+      "target": "Trên chiếc màn hình ánh sáng khổng lồ trước mặt đang phát đi phát lại toàn bộ quá trình chiến đấu giữa Lý Diệu và Triệu Lượng tại nhà thi đấu số 9 hồi ban ngày.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0032",
+      "source": "“你们…",
+      "target": "Hách Liên Liệt ánh mắt như lang như hổ, hận không thể nhảy xổ vào trong màn hình để ăn tươi nuốt sống Lý Diệu.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0033",
+      "source": "…",
+      "target": "\"Có biết tại sao ta lại bắt con phải nhận gia pháp không?\" Gã đàn ông to như tòa tháp sắt đứng đằng sau lạnh lùng lên tiếng. Giọng nói của ông ta vừa thanh vừa sắc, hoàn toàn trái ngược với thân hình vạm vỡ dũng mãnh kia, tạo ra một sự mâu thuẫn kỳ quái.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0034",
+      "source": "有什么阴谋？",
+      "target": "\"Thưa cha, con biết lỗi rồi. Con không nên gây chuyện thị phi ở bên ngoài, làm mất thể diện của gia tộc Hách Liên!\" Hách Liên Liệt rên rỉ bảo.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0035",
+      "source": "”李耀如坐针毡，额头渗出冷汗。",
+      "target": "\"Tào lao!\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0036",
+      "source": "笑脸小丑和光头馆长对视一眼，哑然失笑道：“没有，绝对没有，我们怎么会有什么阴谋？",
+      "target": "Hách Liên Bá đột nhiên nổi giận lôi đình, một chân đá bay tới, thế mà lại đá nứt đôi cả giá chịu phạt roi, trực tiếp sút Hách Liên Liệt bay thẳng vào tường!",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0037",
+      "source": "只不过是想让你恢复到最佳状态，好好打上五分钟而已！",
+      "target": "Cú đá này mang theo lực lượng nặng nề kinh khủng, tuyệt đối không nương tay chút nào. Đầu Hách Liên Liệt đập thẳng vào tường làm vỡ nát cả mảng tường đá hoa cương trang trí, lúc rơi xuống đất máu mồm phun ra xối xả, kèm theo đó là ba chiếc răng trắng hếu văng ra ngoài.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0038",
+      "source": "”",
+      "target": "Hách Liên Bá không thèm nhìn lấy một cái, sải bước đi tới, chiếc giày da giẫm mạnh lên mặt con trai rồi ra sức nghiến ngấu, nói từng chữ một: \"Lão tử quả thực không thích con gây chuyện thị phi ở ngoài, nhưng càng ghét con gây chuyện thị phi mà lại thất bại thảm hại như vậy! Sư tử vồ thỏ cũng phải dùng toàn lực. Cho dù đối phương chỉ là một đống rác rưởi của lớp thường thì một thiên tài lớp trọng điểm như con cũng không được phép lơ là cảnh giác như thế. Cần phải biết rằng, bất kỳ ai một khi đã trở thành kẻ thù của con thì họ đều có tư cách khiến con phải dốc hết toàn lực đối phó, có hiểu không?\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0039",
+      "source": "“五分钟？",
+      "target": "\"Con... con hiểu rồi. Con sẽ không bao giờ xem thường bất kỳ đối thủ nào nữa, con nhất định sẽ báo thù!\" Xương sọ của Hách Liên Liệt kêu răng rắc dưới chiếc ủng da quân dụng của cha mình, anh ta khản giọng hét lên.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0040",
+      "source": "明明是三分钟！",
+      "target": "Hách Liên Bá hừ lạnh một tiếng: \"Tạm thời gác lại đi. Tôn Bưu lão già sắp chết kia đã đứng ra bảo kê cho đối phương rồi. Khoảng thời gian này con hãy yên phận cho ta, đừng gây thêm rắc rối nữa!\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0041",
+      "source": "”李耀一下子跳了起来。",
+      "target": "Hai mắt Hách Liên Liệt lập tức trợn ngược lên, nghẹn ngào thốt: \"Chẳng lẽ cứ thế bỏ qua sao? Cha, cha là cổ đông của trường học chúng ta kia mà, lẽ nào lại phải sợ lão già hưu trí Tôn Bưu đó? Vâng, con có nghe nói thời trẻ lão ta cũng là một nhân vật máu mặt trong giới tu chân, thế nhưng kẻ thù quá nhiều, mấy chục năm trước đã bị đánh trọng thương, thực lực chỉ còn lại chưa đầy 1%, bắt buộc phải trốn ở trường Xích Tiêu Nhị Trung làm một giáo viên bình thường. Huống hồ hiện tại lão ta đã già nua như vậy, bệnh tật đầy mình, có thể lăn ra chết bất cứ lúc nào! Chúng ta có cần thiết phải sợ lão ta đến mức này không?\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0042",
+      "source": "笑脸小丑伸出两根手指：“两万，只要你撑过五分钟，我给你两万！",
+      "target": "Hách Liên Bá trợn mắt, chân giẫm mạnh thêm ba phần lực, trầm giọng quát: \"Con thì biết cái gì? Tu chân giả rốt cuộc vẫn là tu chân giả. Cho dù chỉ còn lại 1% thực lực, cho dù chỉ còn lại một giây tuổi thọ thì trước khi chết hẳn cũng không được phép lơ là cảnh giác! Hơn nữa, lão già sắp chết kia cũng không bảo sẽ che chở cho đối phương suốt đời. Chỉ cần ta cho lão thời gian một tháng, sau một tháng lão sẽ phủi tay không quản nữa. Nếu ngay cả chút thể diện này mà ta cũng không cho thì quả thực không thể nào nói nổi. Ta chỉ là một cổ đông của trường học chứ không phải chủ tịch hội đồng quản trị. Cho dù là chủ tịch thì cũng phải tuân thủ quy tắc trong giới. Bằng không, kết sinh tử cừu hận với một vị tu chân giả thì chết thế nào cũng không biết đâu!\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0043",
+      "source": "”",
+      "target": "\"Một tháng... Được, con sẽ đợi một tháng!\" Dưới đế ủng quân dụng, khuôn mặt đẹp trai của Hách Liên Liệt vặn vẹo biến dạng, thần sắc vô cùng oán hận độc địa.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0044",
+      "source": "…",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0045",
+      "source": "…",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0046",
+      "source": "这个夜晚，十分漫长。",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0047",
+      "source": "距离地下鬼城十几公里外的地面，上东区一片延伸入人工湖的别墅群中，一座奢华的别墅，地下室里。",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0048",
+      "source": "“啪！",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0049",
+      "source": "啪！",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0050",
+      "source": "啪！",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0051",
+      "source": "啪！",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0052",
+      "source": "”",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0053",
+      "source": "皮鞭撕裂空气，深深嵌入脊背，发出令人毛骨悚然的抽击声。",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0054",
+      "source": "赫连烈浑身\\*\\*，手脚张开呈“大”字，被死死束缚在鞭刑架上。",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0055",
+      "source": "一条肌肉发达到爆炸，浑身长着黑毛的魁梧巨汉，手持蘸着特制疼痛药剂的皮鞭，毫不留情，一鞭又一鞭，似乎要把他活活抽死。",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0056",
+      "source": "赫连烈口中叼着一根木棍，已经嚼得稀烂，他却没有发出半声惨叫，双眼死死盯着前方。",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0057",
+      "source": "面前的巨大光幕中，反复播放着白天在九号体育馆里李耀和赵亮的战斗全过程。",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0058",
+      "source": "赫连烈目光如狼似虎，恨不得跳进画面把李耀生吞活剥。",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0059",
+      "source": "“是否知道，为何要你领受家法？",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0060",
+      "source": "”身后的铁塔大汉冷冷开口，声音又尖又利，和壮硕的身形截然相反，产生诡异的矛盾。",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0061",
+      "source": "“回父亲的话，我知错了，我不该在外面惹是生非，丢赫连家的脸！",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0062",
+      "source": "”赫连烈闷哼道。",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0063",
+      "source": "“放屁！",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0064",
+      "source": "”",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0065",
+      "source": "赫连霸忽然发作，一脚飞踹过来，竟然硬生生踹裂了鞭刑架，将赫连烈踹飞到墙上！",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0066",
+      "source": "这一脚势大力沉，绝无半点留情，赫连烈的脑袋直接撞在墙上，把花岗岩装饰墙都撞出一个凹坑，摔在地上时，口中鲜血狂喷，连带着喷出三颗白森森的牙齿。",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0067",
+      "source": "赫连霸看都不看，大步走来，皮靴重重踩在儿子脸上，用力碾压，一字一顿道：“老子固然不喜欢你在外面惹是生非，可是更不喜欢你连惹是生非都惹得那么失败！",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0068",
+      "source": "狮子搏兔，亦用全力，就算对方只是一个普通班的垃圾，你这个重点班的大天才，也不该如此掉以轻心，须知，任何人一旦成为你的敌人，就拥有了让你全力以赴的资格，明白吗？",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0069",
+      "source": "”",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0070",
+      "source": "“明，明白了，我不会再小看任何一个对手，我一定会报仇的！",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0071",
+      "source": "”赫连烈的颅骨在父亲的军用皮靴下“吱吱”作响，他声嘶力竭地吼叫。",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0072",
+      "source": "赫连霸冷哼一声：“从长计议吧，孙彪那个老不死的为对方出头了，这段时间你安分点，别再给我惹事！",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0073",
+      "source": "”",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0074",
+      "source": "赫连烈的眼珠子一下子瞪大，失声道：“难道就这么算了？",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0075",
+      "source": "爸，你可是我们学校的董事，难道还怕孙彪那个已经退休的死老头子？",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0076",
+      "source": "是，听说他年轻时，在修真界里也算是一个狠人，可是树敌太多，几十年前就被打成重伤，实力剩下不到1%，不得不躲在赤霄二中当一个普通老师，而且现在年纪这么大，各种恶疾缠身，随时都有可能暴毙！",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0077",
+      "source": "咱们有必要这么怕他吗？",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0078",
+      "source": "”",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0079",
+      "source": "赫连霸一瞪眼，脚下又加重三分力，低喝道：“你懂什么？",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0080",
+      "source": "修真者毕竟是修真者，哪怕只剩下1%的实力，哪怕只剩下1秒钟的寿命，在没有完全死透之前，都不能掉以轻心！",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0081",
+      "source": "更何况，这个老不死的也没说要一辈子护着对方，只要我给他一个月时间，一个月后就撒手不管——如果连这点面子都不卖，那就太说不过去了，我只是学校的董事，可不是董事长，就算是董事长，也要遵守圈子里的规矩，否则，和一名修真者结下死仇，分分钟死都不知怎么死！",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0082",
+      "source": "”",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0083",
+      "source": "“一个月…",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0084",
+      "source": "…",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0085",
+      "source": "好，我就等一个月！",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0086",
+      "source": "”在军靴底下，赫连烈英俊的面庞扭曲变形，神色无比怨毒。",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
     }
   ],
   "term_occurrences": [
     {
-      "source_term": "修真界败类",
-      "target_term": "Bại hoại giới Tu Chân",
-      "seg_id": "seg_0002",
+      "source_term": "妖刀",
+      "target_term": "Yêu Đao",
+      "seg_id": "seg_0003",
       "is_locked": false,
       "present_in_target": true,
       "category": "general"
     },
     {
-      "source_term": "妖刀",
-      "target_term": "Yêu Đao",
-      "seg_id": "seg_0002",
+      "source_term": "修真界败类",
+      "target_term": "Bại hoại giới Tu Chân",
+      "seg_id": "seg_0003",
       "is_locked": false,
       "present_in_target": true,
       "category": "general"
+    },
+    {
+      "source_term": "孙彪",
+      "target_term": "Tôn Bưu",
+      "seg_id": "seg_0007",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "character"
+    },
+    {
+      "source_term": "军道杀狼",
+      "target_term": "Quân Đạo Sát Lang",
+      "seg_id": "seg_0023",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "faction"
     },
     {
       "source_term": "放弃",
       "target_term": "Từ Bỏ",
-      "seg_id": "seg_0002",
+      "seg_id": "seg_0024",
       "is_locked": false,
       "present_in_target": true,
       "category": "item"
     },
     {
-      "source_term": "军道杀狼",
-      "target_term": "Quân Đạo Sát Lang",
-      "seg_id": "seg_0011",
+      "source_term": "上东区",
+      "target_term": "khu Thượng Đông",
+      "seg_id": "seg_0047",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "location"
+    },
+    {
+      "source_term": "赵亮",
+      "target_term": "Triệu Lượng",
+      "seg_id": "seg_0057",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "character"
+    },
+    {
+      "source_term": "重点班",
+      "target_term": "lớp trọng điểm",
+      "seg_id": "seg_0068",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "faction"
+    },
+    {
+      "source_term": "普通班",
+      "target_term": "lớp thường",
+      "seg_id": "seg_0068",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "faction"
+    },
+    {
+      "source_term": "赤霄二中",
+      "target_term": "Xích Tiêu Nhị Trung",
+      "seg_id": "seg_0076",
       "is_locked": false,
       "present_in_target": true,
       "category": "faction"
@@ -47,31 +690,38 @@
   ],
   "entity_mentions": [
     {
-      "source_surface": "孙彪",
-      "target_surface": "Tôn Bưu",
+      "source_surface": "李耀",
+      "target_surface": "Lý Diệu",
       "entity_type": "person",
       "seg_id": "seg_0002",
       "confidence": 1.0
     },
     {
-      "source_surface": "李耀",
-      "target_surface": "Lý Diệu",
+      "source_surface": "孙彪",
+      "target_surface": "Tôn Bưu",
       "entity_type": "person",
-      "seg_id": "seg_0001",
+      "seg_id": "seg_0007",
       "confidence": 1.0
     },
     {
       "source_surface": "赫连烈",
       "target_surface": "Hách Liên Liệt",
       "entity_type": "person",
-      "seg_id": "seg_0023",
+      "seg_id": "seg_0054",
+      "confidence": 1.0
+    },
+    {
+      "source_surface": "赵亮",
+      "target_surface": "Triệu Lượng",
+      "entity_type": "person",
+      "seg_id": "seg_0057",
       "confidence": 1.0
     },
     {
       "source_surface": "赫连霸",
       "target_surface": "Hách Liên Bá",
       "entity_type": "person",
-      "seg_id": "seg_0029",
+      "seg_id": "seg_0065",
       "confidence": 1.0
     }
   ],
@@ -81,7 +731,7 @@
     "segment_coverage": 1.0,
     "locked_term_hit_rate": 1.0,
     "cjk_residue_count": 0,
-    "paragraph_drift_ratio": 0.0,
+    "paragraph_drift_ratio": 0.5,
     "pronoun_consistency_score": 1.0,
     "warnings": []
   }

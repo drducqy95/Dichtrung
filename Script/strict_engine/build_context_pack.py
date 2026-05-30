@@ -287,6 +287,23 @@ def build_context_pack(
                 "aligned_segments", "term_occurrences", "entity_mentions",
                 "phrase_patterns", "grammar_rule_candidates", "quality_audit"
             ],
+            "segment_rules": [
+                "aligned_segments PHẢI chứa TẤT CẢ các câu/đoạn hội thoại trong source_text, KHÔNG chỉ 1 segment mẫu.",
+                "Mỗi câu/đoạn riêng biệt trong source = 1 segment riêng biệt với seg_id tuần tự (seg_0001, seg_0002...).",
+                "Mỗi segment phải có source (câu gốc), target (câu dịch tương ứng), alignment_type, và narrative_type.",
+                "narrative_type: 'narration' cho tự sự, 'dialogue' cho hội thoại có dấu ngoặc kép, 'inner_thought' cho suy nghĩ nội tâm, 'description' cho miêu tả cảnh vật.",
+                "Nếu source có N câu thì aligned_segments phải có xấp xỉ N entries. Chấp nhận sai lệch ±10% do merge/split.",
+                "segment_coverage trong quality_audit = (số segments thực tế) / (số câu source). Phải >= 0.8 mới đạt."
+            ],
+            "entity_rules": [
+                "entity_mentions PHẢI liệt kê TẤT CẢ các tên nhân vật, địa danh, môn phái, kỹ thuật xuất hiện trong chương.",
+                "Mỗi lần xuất hiện đầu tiên của entity mới = 1 entry mới. Nếu entity đã ghi rồi thì bỏ qua.",
+                "Ghi confidence: 1.0 nếu mapping rõ ràng, 0.8 nếu suy luận."
+            ],
+            "term_rules": [
+                "term_occurrences PHẢI ghi nhận MỌI thuật ngữ locked hoặc glossary xuất hiện trong chương.",
+                "Ghi seg_id của segment mà thuật ngữ xuất hiện LẦN ĐẦU."
+            ],
             # To be hydrated with actual reviewed rules in Phase 4
             "reviewed_rules": [],
             "reviewed_patterns": []

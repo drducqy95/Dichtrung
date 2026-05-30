@@ -5,51 +5,697 @@
   "aligned_segments": [
     {
       "seg_id": "seg_0001",
-      "source": "“孙，孙老师，您这是干什么？”李耀手忙脚乱，上前想将孙彪扶起来，没想到老头子就像铁铸的一般，一直保持在弯腰状态，怎么都掰不动。",
+      "source": "# 30.第30章 你很狂妄啊",
       "target": "\"Thầy... Thầy Tôn, thầy đang làm gì thế này?\" Lý Diệu luống cuống tay chân, tiến lên phía trước muốn đỡ Tôn Bưu dậy. Nhưng không ngờ cơ thể ông lão tựa như đúc bằng sắt thép, cứ giữ nguyên tư thế cúi gập người, xoay sở thế nào cũng không lay chuyển nổi.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0002",
+      "source": "“孙，孙老师，您这是干什么？",
+      "target": "Tôn Bưu khom lưng, nghiêm túc nói: \"Trường học là nơi phát hiện nhân tài, bồi dưỡng nhân tài. Thực lực tuyệt đối của ngươi tuy không quá nổi bật, nhưng lại sở hữu ý thức chiến đấu nhạy bén như dã thú cùng kinh nghiệm thực chiến phong phú, là một mầm non tốt đáng giá để bồi dưỡng. Vậy mà trường học chúng ta lại không thể sớm phát hiện ra ngươi từ trong lớp thường, khiến ngươi lãng phí cả một thời thanh xuân tươi đẹp. Đây là sự thất trách của toàn thể đội ngũ giáo viên chúng ta. Vì vậy, ta muốn thay mặt toàn thể nhà trường gửi lời xin lỗi đến ngươi — Thực sự rất xin lỗi, bạn học Lý Diệu.\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0003",
+      "source": "”李耀手忙脚乱，上前想将孙彪扶起来，没想到老头子就像铁铸的一般，一直保持在弯腰状态，怎么都掰不动。",
+      "target": "Lý Diệu há hốc mồm, thực sự không biết nên nói gì cho phải, trong thâm tâm trào dâng một niềm xúc động vô cớ.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0004",
+      "source": "孙彪弯着腰，严肃道：“学校，是发现人才，培养人才的地方，你的绝对战力虽然并不突出，但却拥有野兽般敏锐的战斗意识以及丰富的战斗经验，是一个值得培养的好苗子，可是我们学校居然没能早些把你从普通班里发掘出来，害你浪费了大好青春，这是我们全体教职员工的失职，所以，我要代表学校上下向你道歉——实在对不起了，李耀同学。",
+      "target": "\"Đây chính là một 'người thầy' thực sự sao?\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0005",
+      "source": "”",
+      "target": "Lý Diệu chưa từng thấy người thầy nào như Tôn Bưu, hèn chi lại có thể phát hiện ra \"Yêu Đao Bành Hải\"!",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0006",
+      "source": "李耀张大了嘴，实在不知道该怎么说好，心底，升起一股莫名的感动。",
+      "target": "\"Và sau đó —\" Tôn Bưu cuối cùng cũng đứng thẳng dậy, trên mặt lại hiện lên vẻ bất cần đời, nhưng nơi đáy mắt lại bùng lên ngọn lửa điên cuồng, \"Nhóc con, ngươi đã bao giờ nghe nói đến 'Giải đấu Thử thách Cực hạn Thiếu niên Liên bang' chưa?\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "inner_thought"
+    },
+    {
+      "seg_id": "seg_0007",
+      "source": "“这就是真正的‘老师’吗？",
+      "target": "Đồng tử của Lý Diệu co rụt mạnh một cái, theo bản năng gật gật đầu, nhịp tim bỗng nhiên đập nhanh hơn.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0008",
+      "source": "”",
+      "target": "Cậu đương nhiên từng nghe qua. Giải đấu Thử thách Cực hạn Thiếu niên Liên bang là sự kiện quy mô lớn được đồng tổ chức bởi Quân đội Liên bang và Chín đại học tinh anh liên kết nhằm mục đích săn lùng các thiên tài tu luyện. Mỗi năm giải đấu được tổ chức đồng thời trên hàng trăm khu vực thi đấu trên cả nước vào khoảng hai tháng trước kỳ thi đại học, là cuộc thi tu luyện thanh thiếu niên có lịch sử lâu đời nhất của Liên bang.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0009",
+      "source": "李耀从未见过孙彪这样的老师，怪不得是可以发掘出“妖刀彭海”的人！",
+      "target": "Truyền thuyết kể rằng, mỗi khu vực thi đấu đều được thiết lập như một \"hoang đảo\" biệt lập không lối thoát, quân đội sẽ thả vô số yêu thú tàn bạo vào trong đó. Thí sinh tham gia phải sinh tồn trên hoang đảo trong năm ngày trong điều kiện tay không tấc sắt, ngoại trừ việc chiến đấu với yêu thú, họ còn phải hoàn thành một loạt nhiệm vụ cực kỳ gian nan, được gọi là \"mô phỏng thực chiến một trăm phần trăm\", độ khó tuyệt đối ở cấp độ địa ngục.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0010",
+      "source": "“然后——”孙彪终于直起身子，脸上重新浮现出玩世不恭的表情，眼底却喷出狂热的火焰，“小子，你有没有听说过‘联邦少年极限挑战赛’？",
+      "target": "Người tham gia bắt buộc phải ép buộc thân thể và ý chí của mình tới giới hạn cực cùng mới có khả năng nổi bật lên giữa hàng loạt thiếu niên thiên tài.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0011",
+      "source": "”",
+      "target": "Một khi giành chiến thắng, họ có cơ hội lọt vào mắt xanh của các tuyển trạch viên đến từ \"Chín đại học tinh anh liên kết\", trực tiếp được quyết định \"đặc cách chiêu mộ\" thẳng vào đại học, thậm chí không cần tham gia kỳ thi đại học.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0012",
+      "source": "李耀的瞳孔猛地收缩了一下，下意识地点了点头，心跳骤然加快。",
+      "target": "Cho dù không xuất sắc đến mức đó, chỉ cần thể hiện được sở trường ở một phương diện nào đó thì cũng có cơ hội nhận được ưu đãi \"hạ điểm trúng tuyển\" của Chín đại học. Ví dụ như được giảm mười đến hai mươi điểm, quả thực là lập tức bỏ xa hàng ngàn hàng vạn đối thủ cạnh tranh!",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0013",
+      "source": "他当然听说过。",
+      "target": "Nhờ có những lợi ích to lớn như thế, tất cả học sinh lớp mười hai đều phát cuồng vì giải đấu thử thách cực hạn này, vắt óc vắt sức để giành được suất tham gia, Lý Diệu cũng không ngoại lệ.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0014",
+      "source": "联邦少年极限挑战赛，是由联邦军和九大精英联校共同举办，专门为了发掘修炼天才的大型赛事，每年高考之前两个月左右，在全国范围内，分成数百个赛区同时举行，是联邦历史最悠久的青少年修炼竞赛。",
+      "target": "Tuy nhiên, một giải đấu quan trọng như vậy không phải là nơi bất kỳ kẻ vô danh tiểu tốt nào cũng có thể góp mặt. Mỗi năm, ban tổ chức giải đấu sẽ gửi thư mời đến các trường trung học danh tiếng hàng đầu Liên bang, trao tặng số lượng \"thẻ dự thi\" khác nhau tùy thuộc vào thực lực của từng trường. Năm nay, trường Xích Tiêu Nhị Trung nhận được mười tấm thẻ dự thi!",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0015",
+      "source": "传说中，每一个赛区，都会被设置成无法逃脱的“孤岛”，军方会在其中释放出无数凶残的妖兽，参赛者必须在手无寸铁的情况下，在孤岛中生存五天，除了对抗妖兽之外，还要完成一系列十分困难的任务，号称是“百分之百模拟实战”，绝对的地狱级难度。",
+      "target": "Giải đấu sẽ diễn ra sau bốn mươi ngày nữa. Khu vực thi đấu số 0571 bao gồm ba ngàn học sinh tinh anh từ Phù Qua Thành và mười ba thành phố lân cận tụ hội lại để so tài cao thấp!",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0016",
+      "source": "参赛者必须将自己的身体和意志都逼迫到极限，才有可能在众多天才少年中脱颖而出。",
+      "target": "Một tháng sau, Xích Tiêu Nhị Trung sẽ tổ chức một cuộc tỷ thí quy mô lớn, toàn bộ học sinh lớp mười hai đều có tư cách tham gia, dùng phương thức công bằng nhất để quyết định quyền sở hữu của mười tấm thẻ dự thi!",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0017",
+      "source": "一旦胜出，就有可能被“九大精英联校”的观察员看中，当场拍板，“特招”进入九大，连高考都不必参加。",
+      "target": "Trông thấy vẻ mặt khao khát thèm muốn của Lý Diệu, Tôn Bưu nói: \"Nhóc con, ta biết ngươi đang gặp phải một số phiền phức ở trường. Thế nhưng, kẻ mạnh thì không chịu bất kỳ hình phạt nào hết! Chỉ cần ngươi giành được một tấm thẻ dự thi trong cuộc tỷ thí toàn trường, chứng minh được thực lực của bản thân thì Hách Liên Liệt cũng chẳng làm gì nổi ngươi!\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0018",
+      "source": "即便没有那么优秀，只要表现出某一方面的特长，也有可能获得九大的“降分录取”优惠，倘若能降个十分二十分，简直是瞬间秒杀成千上万的竞争者！",
+      "target": "Lý Diệu suy ngẫm một lúc rồi hỏi: \"Khối mười hai có tổng cộng hơn ngàn học sinh, thẻ dự thi chỉ có mười tấm, nghĩa là thực lực của cháu phải lọt vào top mười của khối sao?\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0019",
+      "source": "因为有这样的好处，所有高三考生都对极限挑战赛趋之若鹜，削尖了脑袋想要参赛，李耀也不例外。",
+      "target": "Tôn Bưu lắc đầu: \"Cuộc tỷ thí toàn khối có một phần yếu tố may mắn. Theo kinh nghiệm những năm trước, thực lực đạt tới top hai mươi của khối là đã có hy vọng tranh đoạt thẻ dự thi rồi.\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0020",
+      "source": "不过，如此重要的比赛，也不是随便哪个阿猫阿狗都能参加的。",
+      "target": "Lý Diệu hồi tưởng lại một chút, hình như top hai mươi của khối đều là những thiên tài tu luyện có độ khai phát linh căn đạt tới 65%. Độ khai phát linh căn của cậu hiện giờ mới chỉ có 58%. Lúc nãy khi đối phó với Triệu Lượng đứng bét lớp trọng điểm có độ khai phát linh căn 60%, cậu còn không nắm chắc mười phần thắng, đành phải giở trò hèn mới thắng được.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0021",
+      "source": "每年，赛事组委会都会向联邦各大知名高中发出邀请，按照高中的实力，送上数量不等的“准考证”。",
+      "target": "Cảnh tượng đánh nhau giữa cậu và Triệu Lượng chắc chắn sẽ lan truyền khắp trường học trong tích tắc. Mọi người đều sẽ nâng cao cảnh giác, không bao giờ để cậu có cơ hội giở trò cũ nữa. Chỉ vẻn vẹn trong vòng một tháng ngắn ngủi, liệu cậu có thể đánh bại các cao thủ có độ khai phát linh căn vượt quá 65% trong một trận đấu chính diện hay không?",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0022",
+      "source": "今年，赤霄二中得到了十张准考证！",
+      "target": "Sự đắn đo trong lòng cậu hiện rõ mồn một trên mặt. Tôn Bưu mỉm cười nhạt nhẽo bảo: \"Nhóc con, với thực lực hiện tại của ngươi, đừng nói là top hai mươi, ngay cả top năm mươi toàn trường cũng chưa chắc đã chen chân vào nổi. Tuy nhiên, nếu ngươi tiếp nhận huấn luyện đặc biệt của ta ở đây trong vòng một tháng thì chưa biết chừng đâu!\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0023",
+      "source": "比赛，将在四十天之后进行，赤霄二中所属的0571号赛区，包括了浮戈城和附近十三个城市的三千名精英学生，济济一堂，一较高下！",
+      "target": "\"Cái gì?\" Hai mắt Lý Diệu sáng rực lên, cậu phấn khích nhảy cẫng lên reo vui: \"Thầy Tôn, thầy chịu đích thân chỉ dạy cho cháu sao?\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0024",
+      "source": "一个月后，赤霄二中就会举办一场大型比斗，高三全体都有资格参加，以最公平的方式，决定十张准考证的归属！",
+      "target": "Đối phương chính là siêu cấp mãnh nhân đã phát hiện ra Yêu Đao Bành Hải, vậy mà lại bằng lòng huấn luyện đặc biệt cho cậu. Chậc chậc chậc chậc, chỉ cần tu luyện được bằng một phần mười ngón tay út của Bành Hải thôi là đã đủ cho cậu đi nghênh ngang ở trường Xích Tiêu Nhị Trung rồi!",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0025",
+      "source": "看到李耀心驰神往的表情，孙彪道：“小子，我知道你在学校里惹上了一些麻烦，不过，强者是不受任何惩罚的！",
+      "target": "Tôn Bưu cười lớn một tiếng, để lộ cái miệng sún mất răng cửa: \"Lão già này đã buồn bực trong nhà kho bao nhiêu năm nay, đống xương cốt sắp rỉ sét hết rồi. Khó khăn lắm mới phát hiện ra một món 'đồ chơi' có chút thú vị, rảnh rỗi sinh nông nổi thì chơi đùa chút thôi! Nhưng ngươi cũng đừng vội mừng sớm, giáo án huấn luyện đặc biệt của lão già này không phải loại vô danh tiểu tốt nào cũng chịu đựng nổi đâu. Tới đây nhóc con, xem qua phương án huấn luyện tăng cường kiểu địa ngục của ta đi.\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0026",
+      "source": "只要你能够在全校比斗中抢到一张准考证，证明自己的实力，赫连烈也不能把你怎么样！",
+      "target": "Tôn Bưu khua khua cánh tay, từ chiếc tinh não mini chiếu ra một màn ánh sáng, hiện lên một kế hoạch tu luyện dày đặc chữ nghĩa.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0027",
+      "source": "”",
+      "target": "\"Ngày đầu tiên: Bốn giờ sáng, chạy biến tốc hai vạn mét khởi động.\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0028",
+      "source": "李耀想了想，问道：“高三年级组一共有上千人，准考证只有十张，也就是说，我的实力要达到年级前十？",
+      "target": "\"Năm giờ mười lăm phút: Gánh tạ sâu năm trăm kg, mười cái một tổ, tổng cộng mười tổ, hoàn thành trong vòng nửa tiếng.\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0029",
+      "source": "”",
+      "target": "\"Sáu giờ: Ăn sáng, đồng thời học Chiến Thú Thập Tam Thế bản quân dụng — đây là bản chuyên dành cho đặc chủng binh trong quân đội tu luyện, loại bỏ các chiêu thức hoa mỹ rườm rà, là bản Chiến Thú Thập Tam Thế thực sự tăng thêm các đòn sát thủ, hoàn thành khác biệt so với bản giản lược của học sinh trung học.\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0030",
+      "source": "孙彪摇了摇头：“全年级比斗有一定运气成分，根据往年的经验，实力达到年级前二十，就有抢到准考证的希望。",
+      "target": "\"Bảy giờ: Gánh nặng một trăm kg, nhảy cóc năm ngàn mét.\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0031",
+      "source": "”",
+      "target": "\"Tám giờ...\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0032",
+      "source": "李耀回忆了一下，年级前二十，似乎都是灵根开发度达到65%的修炼天才。",
+      "target": "\"Chín giờ tối: Hoàn thành huấn luyện đặc biệt ngày đầu tiên!\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0033",
+      "source": "他的灵根开发度，只有58%，刚才面对重点班里最后一名，灵根开发度60%的赵亮，他都没有必胜把握，只能靠阴招取胜。",
+      "target": "\"Ngày thứ hai...\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0034",
+      "source": "他和赵亮的打斗画面，肯定会在第一时间传遍整个校园，大家都有了防备，不会让他再有机会得逞。",
+      "target": "Tôn Bưu cười tợn bảo: \"Thế nào? Nếu chịu không nổi thì giờ nói ra đi, không có gì đáng xấu hổ đâu. Nhớ năm xưa có vô số thiên tài tu luyện bị phương án huấn luyện đặc biệt này của lão già ta hành hạ đến mức như chó chết, đành phải bỏ cuộc giữa chừng. Suốt mấy chục năm qua, chỉ có lèo tèo vài người trụ vững được một tháng thôi!\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0035",
+      "source": "短短一个月之后，他能在正面作战中，战胜灵根开发度超过65%的高手吗？",
+      "target": "Lý Diệu xem lướt qua một lượt rất nhanh, có chút kỳ quái nói: \"Trông cũng bình thường quá, có gì đặc biệt đâu ạ...\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0036",
+      "source": "他心中的犹豫，完全写在脸上，孙彪淡淡一笑，道：“小子，凭你现在的实力，别说全校前二十，就算全校前五十都未必算得上，不过，若是在我这里接受一个月的特训，那就未必了！",
+      "target": "Cậu ở trong giấc mộng Nam Kha dài lâu kia, với thân phận \"tạp dịch cấp thấp của Bách Luyện Tông\" đã từng phải chịu đựng sự tu luyện khắc nghiệt tàn bạo gấp trăm lần. Đó mới thực sự là tra tấn và hủy hoại, đập vỡ cơ thể con người rồi nặn lại từ đầu, đập vỡ tiếp rồi lại nặn lại, lặp đi lặp lại hàng trăm lần như vậy cậu mới từ \"tạp dịch cấp thấp\" thăng cấp lên thành \"tạp dịch rèn sắt\".",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0037",
+      "source": "”",
+      "target": "Phương án huấn luyện đặc biệt trông có vẻ khủng khiếp này của Tôn Bưu rốt cuộc cũng chỉ ở trình độ học sinh trung học, đối với Lý Diệu mà nói quả thực không có gì quá giới hạn cả.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0038",
+      "source": "“什么？",
+      "target": "\"Bạn học Lý Diệu, cậu ngông cuồng quá nhỉ!\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0039",
+      "source": "”李耀的双眼烁烁放光，激动地跳了起来，兴奋道，“孙老师，你愿意手把手教我？",
+      "target": "Phương án huấn luyện đặc biệt kiểu địa ngục này là kết tinh tâm huyết mấy chục năm của Tôn Bưu. Không biết có bao nhiêu thiên tài tu luyện khi đứng trước nó đều lộ ra vẻ mặt kinh hoàng tuyệt vọng, giờ đây lại bị Lý Diệu chê bai không đáng một xu. Hơn nữa nhìn thần thái thản nhiên tự tin của cậu thì rõ ràng cậu thực sự không hề để mắt đến kế hoạch này.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0040",
+      "source": "”",
+      "target": "Trong mắt Tôn Bưu lập tức bắn ra hai luồng sáng sắc bén như kim châm, những nếp nhăn trên mặt xô vào nhau, biểu cảm trong chớp mắt trở nên vô cùng dữ tợn.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0041",
+      "source": "对方可是发掘了妖刀彭海的超级猛人，居然愿意对自己展开特训，啧啧啧啧，只要能修炼到彭海一根小指头那么强，足够他在赤霄二中横着走路啊！",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0042",
+      "source": "孙彪哈哈一笑，露出缺了门牙的大嘴：“老头子在仓库里闷了那么多年，一身骨头都快生锈，好不容易发现一件还算有趣的‘玩具’，闲着也是闲着，随便玩玩喽！",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0043",
+      "source": "不过你也别高兴太早，老头子的特训方案，不是哪个阿猫阿狗都吃得消的，来，小子，看看老头子的地狱式强化特训方案。",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0044",
+      "source": "”",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0045",
+      "source": "孙彪一晃胳膊，微型晶脑中射出一道光幕，跳出来密密麻麻的修炼计划。",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0046",
+      "source": "“第一日，早上四点，两万米变速跑热身。",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0047",
+      "source": "”",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0048",
+      "source": "“五点一刻，五百公斤深蹲十次一组，共十组，半小时内完成。",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0049",
+      "source": "”",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0050",
+      "source": "“六点，早餐，同时学习《战兽十三势》军用版——这是专供军中特种兵修炼的，去除了花俏虚招，增加杀招的真正《战兽十三势》，和高中生修炼的简化版完全不同。",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0051",
+      "source": "”",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0052",
+      "source": "“七点，负重一百公斤，蛙跳五千米。",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0053",
+      "source": "”",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0054",
+      "source": "“八点…",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0055",
+      "source": "…",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0056",
+      "source": "”",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0057",
+      "source": "“晚上九点，第一日特训完成！",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0058",
+      "source": "”",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0059",
+      "source": "“第二日…",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0060",
+      "source": "…",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0061",
+      "source": "”",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0062",
+      "source": "孙彪狞笑道：“怎么样，要是受不住，现在就说，不丢人，想当年可是有无数修炼天才被老头子这套特训方案练成死狗一条，不得不中途退出，几十年间，只有寥寥数人撑过一个月！",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0063",
+      "source": "”",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0064",
+      "source": "李耀一目十行，飞快看完，有些奇怪道：“看上去普普通通，平平无奇，也没什么特别之处…",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0065",
+      "source": "…",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0066",
+      "source": "”",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0067",
+      "source": "他在南柯一梦中，以“百炼宗低级杂役”的身份，承受过痛苦百倍的严酷修炼，那是真正的折磨和摧残，简直是把人彻底打碎，又重新捏合起来，再打碎，再捏合，如此反复数百次，他才从“低级杂役”，升级到“打铁杂役”。",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0068",
+      "source": "孙彪这套看似\\*\\*的特训方案，终究只是高中生水准，在李耀看来，并没有太出格的地方。",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0069",
+      "source": "“李耀同学，你很狂妄啊！",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0070",
+      "source": "”",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0071",
+      "source": "这套地狱式特训方案，凝结了孙彪几十年的心血，不知多少修炼天才在这套方案面前都流露出惊骇欲绝的表情，如今却被李耀贬得一文不值，而且看他淡定自若的表情，是真的没有把这套方案放在眼里。",
+      "target": "",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0072",
+      "source": "孙彪眼底，顿时放出了两道锐不可当的针芒，满脸皱纹挤在一起，表情刹那间变得无比狰狞。",
+      "target": "",
       "alignment_type": "1-to-1",
       "narrative_type": "narration"
     }
   ],
   "term_occurrences": [
     {
-      "source_term": "联邦少年极限挑战赛",
-      "target_term": "Giải đấu Thử thách Cực hạn Thiếu niên Liên bang",
-      "seg_id": "seg_0007",
+      "source_term": "孙老",
+      "target_term": "Tôn lão",
+      "seg_id": "seg_0002",
+      "is_locked": false,
+      "present_in_target": false,
+      "category": "character"
+    },
+    {
+      "source_term": "孙彪",
+      "target_term": "Tôn Bưu",
+      "seg_id": "seg_0003",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "character"
+    },
+    {
+      "source_term": "普通班",
+      "target_term": "lớp thường",
+      "seg_id": "seg_0004",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "faction"
+    },
+    {
+      "source_term": "彭海",
+      "target_term": "Bành Hải",
+      "seg_id": "seg_0009",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "character"
+    },
+    {
+      "source_term": "妖刀",
+      "target_term": "Yêu Đao",
+      "seg_id": "seg_0009",
       "is_locked": false,
       "present_in_target": true,
       "category": "general"
+    },
+    {
+      "source_term": "联邦少年极限挑战赛",
+      "target_term": "Giải đấu Thử thách Cực hạn Thiếu niên Liên bang",
+      "seg_id": "seg_0010",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "general"
+    },
+    {
+      "source_term": "九大精英联校",
+      "target_term": "Chín đại học tinh anh liên kết",
+      "seg_id": "seg_0014",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "faction"
+    },
+    {
+      "source_term": "联邦军",
+      "target_term": "Quân đội Liên bang",
+      "seg_id": "seg_0014",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "faction"
     },
     {
       "source_term": "准考证",
       "target_term": "thẻ dự thi",
-      "seg_id": "seg_0011",
+      "seg_id": "seg_0021",
       "is_locked": false,
       "present_in_target": true,
       "category": "general"
     },
     {
+      "source_term": "赤霄二中",
+      "target_term": "Xích Tiêu Nhị Trung",
+      "seg_id": "seg_0022",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "faction"
+    },
+    {
+      "source_term": "浮戈城",
+      "target_term": "Phù Qua Thành",
+      "seg_id": "seg_0023",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "location"
+    },
+    {
+      "source_term": "灵根",
+      "target_term": "Linh căn",
+      "seg_id": "seg_0032",
+      "is_locked": false,
+      "present_in_target": false,
+      "category": "general"
+    },
+    {
+      "source_term": "灵根开发度",
+      "target_term": "độ khai phát linh căn",
+      "seg_id": "seg_0032",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "general"
+    },
+    {
+      "source_term": "重点班",
+      "target_term": "lớp trọng điểm",
+      "seg_id": "seg_0033",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "faction"
+    },
+    {
+      "source_term": "赵亮",
+      "target_term": "Triệu Lượng",
+      "seg_id": "seg_0033",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "character"
+    },
+    {
+      "source_term": "晶脑",
+      "target_term": "Tinh não",
+      "seg_id": "seg_0045",
+      "is_locked": false,
+      "present_in_target": false,
+      "category": "item"
+    },
+    {
       "source_term": "战兽十三势",
       "target_term": "Chiến Thú Thập Tam Thế",
-      "seg_id": "seg_0036",
+      "seg_id": "seg_0050",
       "is_locked": false,
       "present_in_target": true,
       "category": "technique"
+    },
+    {
+      "source_term": "百炼宗",
+      "target_term": "Bách Luyện Tông",
+      "seg_id": "seg_0067",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "faction"
+    },
+    {
+      "source_term": "打铁杂役",
+      "target_term": "tạp dịch rèn sắt",
+      "seg_id": "seg_0067",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "general"
     }
   ],
   "entity_mentions": [
     {
-      "source_surface": "孙彪",
-      "target_surface": "Tôn Bưu",
-      "entity_type": "person",
-      "seg_id": "seg_0001",
-      "confidence": 1.0
-    },
-    {
       "source_surface": "李耀",
       "target_surface": "Lý Diệu",
       "entity_type": "person",
-      "seg_id": "seg_0001",
+      "seg_id": "seg_0003",
+      "confidence": 1.0
+    },
+    {
+      "source_surface": "孙彪",
+      "target_surface": "Tôn Bưu",
+      "entity_type": "person",
+      "seg_id": "seg_0003",
+      "confidence": 1.0
+    },
+    {
+      "source_surface": "彭海",
+      "target_surface": "Bành Hải",
+      "entity_type": "person",
+      "seg_id": "seg_0009",
+      "confidence": 1.0
+    },
+    {
+      "source_surface": "赫连烈",
+      "target_surface": "Hách Liên Liệt",
+      "entity_type": "person",
+      "seg_id": "seg_0026",
+      "confidence": 1.0
+    },
+    {
+      "source_surface": "赵亮",
+      "target_surface": "Triệu Lượng",
+      "entity_type": "person",
+      "seg_id": "seg_0033",
       "confidence": 1.0
     }
   ],
@@ -59,7 +705,7 @@
     "segment_coverage": 1.0,
     "locked_term_hit_rate": 1.0,
     "cjk_residue_count": 0,
-    "paragraph_drift_ratio": 0.0,
+    "paragraph_drift_ratio": 0.444,
     "pronoun_consistency_score": 1.0,
     "warnings": []
   }

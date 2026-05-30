@@ -74,6 +74,27 @@ def validate_analysis(branch_name: str, chapter: int) -> dict:
         if cjk_residue > 0:
             report["warnings"].append(f"Found {cjk_residue} CJK residues in analysis.")
 
+    # 3. Aligned Segments Count Validation
+    # A typical chapter has 20-80+ sentences. Having <= 3 segments is almost
+    # certainly a sign the AI only wrote a token sample instead of analysing
+    # the full text.
+    segments = data.get("aligned_segments", [])
+    MIN_SEGMENTS = 5
+    if len(segments) < MIN_SEGMENTS:
+        report["warnings"].append(
+            f"CRITICAL: Only {len(segments)} aligned_segments found "
+            f"(expected >= {MIN_SEGMENTS}). The AI likely wrote only a "
+            f"sample segment instead of analysing the full chapter."
+        )
+
+    # 4. Entity Mentions minimum sanity check
+    entities = data.get("entity_mentions", [])
+    if not entities:
+        report["warnings"].append(
+            "No entity_mentions found. Most chapters have at least "
+            "one character mentioned."
+        )
+
     return report
 
 if __name__ == "__main__":
