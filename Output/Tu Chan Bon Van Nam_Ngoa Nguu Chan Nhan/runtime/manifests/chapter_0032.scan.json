@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 32,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan\\0032 - 32.第32章 他是怪兽！.md",
+  "source_char_count": 2093,
+  "characters": [
+    {
+      "source": "关系",
+      "entity_type": "person",
+      "count": 3,
+      "confidence": 0.7,
+      "evidence": [
+        "你和这小子究竟是什么关系，为什么要帮他？”\n",
+        "乎很不愿意和李耀扯上关系，认真解释道：“孙老",
+        "和这个小无赖没有半点关系，只不过前几天托他维"
+      ]
+    },
+    {
+      "source": "孙老",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "现在光幕中央。\n\n“孙老，您已经把那小子带走",
+        "关系，认真解释道：“孙老，我和这个小无赖没有"
+      ]
+    }
+  ],
+  "organizations": [],
+  "locations": [
+    {
+      "source": "正是妖刀彭海",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "一抹清晰的立体人影，正是妖刀彭海。\n\n他舒舒服服地躺"
+      ]
+    }
+  ],
+  "realms": [],
+  "techniques": [
+    "但是灵根开发度已经",
+    "妖怪级别的粗大神经",
+    "彭海的面部肌肉一阵",
+    "您已经",
+    "我是没什么太大印",
+    "正是妖刀",
+    "漫不经",
+    "炼制出这么歹毒的法",
+    "真不愧是曾经",
+    "而这小子今年已经",
+    "能够初步"
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "晶脑",
+      "target": "Tinh não"
+    },
+    {
+      "source": "赤霄二中",
+      "target": "Xích Tiêu Nhị Trung"
+    },
+    {
+      "source": "灵根",
+      "target": "Linh căn"
+    },
+    {
+      "source": "灵根开发度",
+      "target": "độ khai phát linh căn"
+    },
+    {
+      "source": "司佳雪",
+      "target": "Tiêu Giai Tuyết"
+    },
+    {
+      "source": "彭海",
+      "target": "Bành Hải"
+    },
+    {
+      "source": "妖刀",
+      "target": "Yêu Đao"
+    },
+    {
+      "source": "孙彪",
+      "target": "Tôn Bưu"
+    },
+    {
+      "source": "孙老",
+      "target": "Tôn lão"
+    },
+    {
+      "source": "放弃",
+      "target": "Từ Bỏ"
+    }
+  ],
+  "structural_hints": {
+    "has_dialogue": true,
+    "has_western_names": false,
+    "estimated_segments": 53
+  },
+  "generated_at": "2026-05-30T22:41:15.495461+07:00"
+}

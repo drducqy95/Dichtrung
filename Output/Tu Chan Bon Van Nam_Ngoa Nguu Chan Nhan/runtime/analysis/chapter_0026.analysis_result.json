@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 26,
+  "aligned_segments": [
+    {
+      "seg_id": "seg_0001",
+      "source": "看着还在晶管计数器上跳动的一连串数字，魏铁无比艰难地吞了口唾沫.",
+      "target": "Nhìn một loạt con số vẫn đang nhảy nhót trên ống đếm tinh thạch, Ngụy Thiết vô cùng chật vật nuốt nước bọt.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    }
+  ],
+  "term_occurrences": [
+    {
+      "source_term": "灵蛇步法",
+      "target_term": "Linh Xà Bộ Pháp",
+      "seg_id": "seg_0012",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "technique"
+    },
+    {
+      "source_term": "催眠符",
+      "target_term": "Thôi Miên Phù",
+      "seg_id": "seg_0018",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "item"
+    }
+  ],
+  "entity_mentions": [
+    {
+      "source_surface": "魏铁",
+      "target_surface": "Ngụy Thiết",
+      "entity_type": "person",
+      "seg_id": "seg_0001",
+      "confidence": 1.0
+    },
+    {
+      "source_surface": "赵亮",
+      "target_surface": "Triệu Lượng",
+      "entity_type": "person",
+      "seg_id": "seg_0030",
+      "confidence": 1.0
+    }
+  ],
+  "phrase_patterns": [],
+  "grammar_rule_candidates": [],
+  "quality_audit": {
+    "segment_coverage": 1.0,
+    "locked_term_hit_rate": 1.0,
+    "cjk_residue_count": 0,
+    "paragraph_drift_ratio": 0.0,
+    "pronoun_consistency_score": 1.0,
+    "warnings": []
+  }
+}

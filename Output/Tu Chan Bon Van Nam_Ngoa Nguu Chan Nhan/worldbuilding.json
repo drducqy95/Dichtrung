@@ -53,6 +53,12 @@
       "name_target": "Đoàn Sói",
       "type": "Quân đội",
       "description": "Một đơn vị quân đội dũng mãnh của Tinh Diệu Liên bang, từng tham gia các chiến dịch sinh tử ở vùng hoang dã yêu thú."
+    },
+    {
+      "name_source": "妙音宗",
+      "name_target": "Diệu Âm Tông",
+      "type": "Tông môn",
+      "description": "Tông môn nổi tiếng với việc luyện chế các pháp bảo âm thanh và nhạc khí."
     }
   ],
   "weapons": [
@@ -105,6 +111,24 @@
       "name_target": "Một trăm lẻ tám thức Phách Phong Loạn Chùy Pháp",
       "type": "Võ kỹ / Luyện khí",
       "description": "Một loại võ kỹ dùng búa tạ vừa để chiến đấu vừa để rèn đúc của Bách Luyện Tông, Lý Diệu học được từ ký ức của Cự Linh Thần."
+    },
+    {
+      "name_source": "灵蛇步法",
+      "name_target": "Linh Xà Bộ Pháp",
+      "type": "Thân pháp",
+      "description": "Môn bộ pháp di chuyển uyển chuyển, linh hoạt và né tránh đòn đánh khéo léo."
+    },
+    {
+      "name_source": "战兽十三势",
+      "name_target": "Chiến Thú Thập Tam Thế",
+      "type": "Quyền pháp / Thể thuật",
+      "description": "Bộ thể thuật võ kỹ mô phỏng các động tác tấn công ác liệt của các dã thú chiến đấu."
+    },
+    {
+      "name_source": "虎蹴击",
+      "name_target": "Hổ Súc Kích",
+      "type": "Chiêu thức võ kỹ",
+      "description": "Chiêu thức thúc gối bay uy lực cực mạnh mô phỏng hổ vồ trong Chiến Thú Thập Tam Thế."
     }
   ],
   "cultivation_systems": [
@@ -244,6 +268,30 @@
       "name_target": "Văn Diện Phù",
       "type": "Linh phù",
       "description": "Một loại bùa chú dạng mặt nạ dính lên mặt, tạo ra các hoa văn kỳ dị giúp người dùng ẩn giấu thân phận trong khoảng 10 tiếng đồng hồ, phổ biến ở chợ đen."
+    },
+    {
+      "name_source": "音铃",
+      "name_target": "Âm Linh",
+      "type": "Pháp bảo",
+      "description": "Món pháp bảo phát nhạc siêu nhỏ dạng nút nhét tai do Diệu Âm Tông chế tạo."
+    },
+    {
+      "name_source": "催眠符",
+      "name_target": "Thôi Miên Phù",
+      "type": "Bùa chú",
+      "description": "Tấm bùa chú có khả năng thôi miên, làm suy giảm ý chí hoặc điều khiển nhẹ hành vi của mục tiêu."
+    },
+    {
+      "name_source": "放弃",
+      "name_target": "Từ Bỏ",
+      "type": "Pháp bảo huấn luyện / Giáp trọng lực",
+      "description": "Bộ đồ luyện công chuyên dụng do Tôn Bưu thiết kế cách đây hơn mười năm. Có ba thần thông: tạo ra trọng lực trường nặng 200kg, phóng điện kích thích các huyệt khiếu, và tạo ảo ảnh nhiệt độ cực nóng cực lạnh để rèn luyện tinh thần. Bộ đồ tự động tháo ra khi người mặc nói 'Cháu từ bỏ'."
+    },
+    {
+      "name_source": "灵鹤传书",
+      "name_target": "Linh Hạc Truyền Thư",
+      "type": "Pháp bảo liên lạc",
+      "description": "Pháp bảo liên lạc tin nhắn và đàm thoại thời gian thực, có khả năng chiếu ra mô hình chim hạc ảo lập thể 3D."
     }
   ]
 }

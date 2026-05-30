@@ -22,3 +22,14 @@
 - Chương 0020: Nam Sinh Tập Thể Dục
 - Chương 0021: Bốn Phần Trăm
 - Chương 0022: Hãy Cho Cậu Ta Ăn No
+- Chương 0023: Ăn Cả Đen Lẫn Trắng
+- Chương 0024: Tiến Bộ Thần Tốc
+- Chương 0025: Thiết Thú Tìm Tới
+- Chương 0026: Kẻ Tàn Nhẫn Hơn Đã Tới
+- Chương 0027: Hóa Ra Cậu Mới Là Kẻ Tàn Nhẫn Nhất
+- Chương 0028: Đương Nhiên Phải Ngông Cuồng
+- Chương 0029: Người Rèn Đúc Nên Yêu Đao
+- Chương 0030: Cậu Ngông Cuồng Quá Nhỉ
+- Chương 0031: Tớ Không Phải Là Cá Muối!
+- Chương 0032: Cậu Ta Là Quái Vật!
+- Chương 0033: Đêm Dài Khó Nhọc

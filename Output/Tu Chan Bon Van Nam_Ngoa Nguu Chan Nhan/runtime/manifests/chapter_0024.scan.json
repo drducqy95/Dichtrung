@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 24,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan\\0024 - 24.第24章 突飞猛进.md",
+  "source_char_count": 2257,
+  "characters": [],
+  "organizations": [
+    {
+      "source": "妙音宗",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "两个耳塞。\n\n这是“妙音宗”炼制的法宝“音铃”"
+      ]
+    }
+  ],
+  "locations": [],
+  "realms": [],
+  "techniques": [
+    "久没人用这台老式法",
+    "乌云滚滚无法",
+    "你看那乌云滚滚无法",
+    "依旧是久久无法",
+    "只有一步",
+    "在最长一梦中经",
+    "对这种纯机械和符阵",
+    "就被拳",
+    "怔怔地注视着拳",
+    "李耀忍不住一挥拳",
+    "李耀毫无花巧地一拳",
+    "炼制的法",
+    "犹如一柄离鞘的飞剑",
+    "玄奥繁复的老式法",
+    "结构的老式法",
+    "老式法",
+    "耳塞中的微型符阵",
+    "这一记刺拳",
+    "闷雷阵阵",
+    "非常迷恋这种老式法",
+    "面都被他踩出两道拳"
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "陆音希",
+      "target": "Lục Âm Hi"
+    },
+    {
+      "source": "九大精英联校",
+      "target": "Chín đại học tinh anh liên kết"
+    },
+    {
+      "source": "重点班",
+      "target": "lớp trọng điểm"
+    },
+    {
+      "source": "考试舱",
+      "target": "khoang thi cử"
+    },
+    {
+      "source": "太虚幻境",
+      "target": "Thái Hư Huyễn Cảnh"
+    },
+    {
+      "source": "灵根",
+      "target": "Linh căn"
+    },
+    {
+      "source": "灵根开发度",
+      "target": "độ khai phát linh căn"
+    },
+    {
+      "source": "第五套健身体操",
+      "target": "Bài thể dục nhịp điệu số năm"
+    }
+  ],
+  "structural_hints": {
+    "has_dialogue": true,
+    "has_western_names": false,
+    "estimated_segments": 62
+  },
+  "generated_at": "2026-05-30T22:37:10.859798+07:00"
+}

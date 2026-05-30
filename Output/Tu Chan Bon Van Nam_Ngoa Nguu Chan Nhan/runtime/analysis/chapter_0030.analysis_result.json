@@ -1,0 +1,66 @@
+{
+  "schema_version": "1.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 30,
+  "aligned_segments": [
+    {
+      "seg_id": "seg_0001",
+      "source": "“孙，孙老师，您这是干什么？”李耀手忙脚乱，上前想将孙彪扶起来，没想到老头子就像铁铸的一般，一直保持在弯腰状态，怎么都掰不动。",
+      "target": "\"Thầy... Thầy Tôn, thầy đang làm gì thế này?\" Lý Diệu luống cuống tay chân, tiến lên phía trước muốn đỡ Tôn Bưu dậy. Nhưng không ngờ cơ thể ông lão tựa như đúc bằng sắt thép, cứ giữ nguyên tư thế cúi gập người, xoay sở thế nào cũng không lay chuyển nổi.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    }
+  ],
+  "term_occurrences": [
+    {
+      "source_term": "联邦少年极限挑战赛",
+      "target_term": "Giải đấu Thử thách Cực hạn Thiếu niên Liên bang",
+      "seg_id": "seg_0007",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "general"
+    },
+    {
+      "source_term": "准考证",
+      "target_term": "thẻ dự thi",
+      "seg_id": "seg_0011",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "general"
+    },
+    {
+      "source_term": "战兽十三势",
+      "target_term": "Chiến Thú Thập Tam Thế",
+      "seg_id": "seg_0036",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "technique"
+    }
+  ],
+  "entity_mentions": [
+    {
+      "source_surface": "孙彪",
+      "target_surface": "Tôn Bưu",
+      "entity_type": "person",
+      "seg_id": "seg_0001",
+      "confidence": 1.0
+    },
+    {
+      "source_surface": "李耀",
+      "target_surface": "Lý Diệu",
+      "entity_type": "person",
+      "seg_id": "seg_0001",
+      "confidence": 1.0
+    }
+  ],
+  "phrase_patterns": [],
+  "grammar_rule_candidates": [],
+  "quality_audit": {
+    "segment_coverage": 1.0,
+    "locked_term_hit_rate": 1.0,
+    "cjk_residue_count": 0,
+    "paragraph_drift_ratio": 0.0,
+    "pronoun_consistency_score": 1.0,
+    "warnings": []
+  }
+}

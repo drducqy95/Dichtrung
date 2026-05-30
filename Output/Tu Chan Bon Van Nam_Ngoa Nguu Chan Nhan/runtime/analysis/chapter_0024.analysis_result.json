@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 24,
+  "aligned_segments": [
+    {
+      "seg_id": "seg_0001",
+      "source": "随着万千灵符逐一闪亮，眼前的世界扭曲起来，化作了百分之百拟真的太虚幻境，李耀出现在一片黑色岩石镶嵌而成的巨大广场上。",
+      "target": "Theo hàng vạn linh phù lần lượt sáng lên, thế giới trước mắt vặn vẹo lại, hóa thành một Thái Hư Huyễn Cảnh mô phỏng chân thực một trăm phần trăm, Lý Diệu xuất hiện trên một quảng trường khổng lồ được khảm bằng những phiến đá đen.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    }
+  ],
+  "term_occurrences": [
+    {
+      "source_term": "太虚幻境",
+      "target_term": "Thái Hư Huyễn Cảnh",
+      "seg_id": "seg_0001",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "location"
+    },
+    {
+      "source_term": "九大精英联校",
+      "target_term": "Chín đại học tinh anh liên kết",
+      "seg_id": "seg_0025",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "faction"
+    }
+  ],
+  "entity_mentions": [
+    {
+      "source_surface": "李耀",
+      "target_surface": "Lý Diệu",
+      "entity_type": "person",
+      "seg_id": "seg_0001",
+      "confidence": 1.0
+    },
+    {
+      "source_surface": "陆音希",
+      "target_surface": "Lục Âm Hi",
+      "entity_type": "person",
+      "seg_id": "seg_0035",
+      "confidence": 1.0
+    }
+  ],
+  "phrase_patterns": [],
+  "grammar_rule_candidates": [],
+  "quality_audit": {
+    "segment_coverage": 1.0,
+    "locked_term_hit_rate": 1.0,
+    "cjk_residue_count": 0,
+    "paragraph_drift_ratio": 0.0,
+    "pronoun_consistency_score": 1.0,
+    "warnings": []
+  }
+}

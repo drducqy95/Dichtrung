@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 23,
+  "aligned_segments": [
+    {
+      "seg_id": "seg_0001",
+      "source": "对李耀来说，这天晚上发生的一切，完全是一场不可思议的奇妙之旅。",
+      "target": "Đối với Lý Diệu mà nói, tất cả những gì xảy ra tối hôm nay hoàn toàn là một chuyến hành trình kỳ diệu không thể tin nổi.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    }
+  ],
+  "term_occurrences": [
+    {
+      "source_term": "赤霄二中",
+      "target_term": "Xích Tiêu Nhị Trung",
+      "seg_id": "seg_0010",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "faction"
+    },
+    {
+      "source_term": "灵根",
+      "target_term": "Linh căn",
+      "seg_id": "seg_0020",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "general"
+    }
+  ],
+  "entity_mentions": [
+    {
+      "source_surface": "李耀",
+      "target_surface": "Lý Diệu",
+      "entity_type": "person",
+      "seg_id": "seg_0001",
+      "confidence": 1.0
+    },
+    {
+      "source_surface": "赫连烈",
+      "target_surface": "Hách Liên Liệt",
+      "entity_type": "person",
+      "seg_id": "seg_0015",
+      "confidence": 1.0
+    }
+  ],
+  "phrase_patterns": [],
+  "grammar_rule_candidates": [],
+  "quality_audit": {
+    "segment_coverage": 1.0,
+    "locked_term_hit_rate": 1.0,
+    "cjk_residue_count": 0,
+    "paragraph_drift_ratio": 0.0,
+    "pronoun_consistency_score": 1.0,
+    "warnings": []
+  }
+}

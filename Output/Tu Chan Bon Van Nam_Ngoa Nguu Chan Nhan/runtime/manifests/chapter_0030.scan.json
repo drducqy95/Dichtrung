@@ -1,0 +1,162 @@
+{
+  "schema_version": "1.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 30,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan\\0030 - 30.第30章 你很狂妄啊.md",
+  "source_char_count": 2389,
+  "characters": [
+    {
+      "source": "方案",
+      "entity_type": "person",
+      "count": 4,
+      "confidence": 0.7,
+      "evidence": [
+        "兴太早，老头子的特训方案，不是哪个阿猫阿狗都",
+        "头子的地狱式强化特训方案。”\n\n孙彪一晃胳膊",
+        "套看似\\*\\*的特训方案，终究只是高中生水准"
+      ]
+    },
+    {
+      "source": "孙老师",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.82,
+      "evidence": [
+        "啊\n\n  \n\n“孙，孙老师，您这是干什么？”李",
+        "跳了起来，兴奋道，“孙老师，你愿意手把手教我？"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "source": "济济一堂",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "市的三千名精英学生，济济一堂，一较高下！\n\n一个"
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "source": "妖刀彭海",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "怪不得是可以发掘出“妖刀彭海”的人！\n\n“然后—"
+      ]
+    },
+    {
+      "source": "孤岛",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "被设置成无法逃脱的“孤岛”，军方会在其中释放"
+      ]
+    },
+    {
+      "source": "每一个赛区",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "炼竞赛。\n\n传说中，每一个赛区，都会被设置成无法逃"
+      ]
+    },
+    {
+      "source": "赤霄二中所属的0571号赛区",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "将在四十天之后进行，赤霄二中所属的0571号赛区，包括了浮戈城和附近"
+      ]
+    }
+  ],
+  "realms": [],
+  "techniques": [
+    "对方可是发掘了妖刀",
+    "根据往年的经",
+    "识以及丰富的战斗经",
+    "都会被设置成无法"
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "浮戈城",
+      "target": "Phù Qua Thành"
+    },
+    {
+      "source": "晶脑",
+      "target": "Tinh não"
+    },
+    {
+      "source": "赤霄二中",
+      "target": "Xích Tiêu Nhị Trung"
+    },
+    {
+      "source": "九大精英联校",
+      "target": "Chín đại học tinh anh liên kết"
+    },
+    {
+      "source": "重点班",
+      "target": "lớp trọng điểm"
+    },
+    {
+      "source": "普通班",
+      "target": "lớp thường"
+    },
+    {
+      "source": "联邦军",
+      "target": "Quân đội Liên bang"
+    },
+    {
+      "source": "战兽十三势",
+      "target": "Chiến Thú Thập Tam Thế"
+    },
+    {
+      "source": "灵根",
+      "target": "Linh căn"
+    },
+    {
+      "source": "灵根开发度",
+      "target": "độ khai phát linh căn"
+    },
+    {
+      "source": "百炼宗",
+      "target": "Bách Luyện Tông"
+    },
+    {
+      "source": "打铁杂役",
+      "target": "tạp dịch rèn sắt"
+    },
+    {
+      "source": "彭海",
+      "target": "Bành Hải"
+    },
+    {
+      "source": "妖刀",
+      "target": "Yêu Đao"
+    },
+    {
+      "source": "赵亮",
+      "target": "Triệu Lượng"
+    },
+    {
+      "source": "孙彪",
+      "target": "Tôn Bưu"
+    },
+    {
+      "source": "孙老",
+      "target": "Tôn lão"
+    }
+  ],
+  "structural_hints": {
+    "has_dialogue": true,
+    "has_western_names": false,
+    "estimated_segments": 46
+  },
+  "generated_at": "2026-05-30T22:40:10.200434+07:00"
+}

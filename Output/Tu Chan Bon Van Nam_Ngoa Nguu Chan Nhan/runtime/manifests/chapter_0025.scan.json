@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 25,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan\\0025 - 25.第25章 铁兽来袭.md",
+  "source_char_count": 2188,
+  "characters": [
+    {
+      "source": "李耀",
+      "entity_type": "person",
+      "count": 6,
+      "confidence": 0.7,
+      "evidence": [
+        "要找谁的麻烦？什么，李耀？这下李耀要倒霉了！",
+        "面前，“铁哥，你要找李耀？他刚才好像有些肚子",
+        "“你们，你们谁看到了李耀？”\n\n体育馆并不太"
+      ]
+    },
+    {
+      "source": "魏铁",
+      "entity_type": "person",
+      "count": 5,
+      "confidence": 0.7,
+      "evidence": [
+        "寒而栗。\n\n“是，是魏铁！”\n\n有人下意识地",
+        "的巨怪，号称“铁兽”魏铁，是赤霄二中平行班里",
+        "生眼中，这头“铁兽”魏铁，简直是比赫连烈更加"
+      ]
+    },
+    {
+      "source": "相觑",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "一时间放下杠铃，面面相觑，不约而同地吞了口唾",
+        "么地方。\n\n大家面面相觑，所有人脑子里都盘旋"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "source": "对彼此的警告心领神会",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "普通班学生对视一眼，对彼此的警告心领神会，一言不发就向两边分"
+      ]
+    }
+  ],
+  "locations": [],
+  "realms": [],
+  "techniques": [
+    "久久无法",
+    "光火石般的三十多拳",
+    "化作拳法",
+    "向角落大步",
+    "在魏铁掌",
+    "就像一刀",
+    "最重的一拳",
+    "李耀的双拳",
+    "每一拳",
+    "百零八手披风乱锤法",
+    "脑袋都被魏铁的巨掌",
+    "顿时掀起一阵",
+    "魏铁停下脚步"
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "陆音希",
+      "target": "Lục Âm Hi"
+    },
+    {
+      "source": "赤霄二中",
+      "target": "Xích Tiêu Nhị Trung"
+    },
+    {
+      "source": "重点班",
+      "target": "lớp trọng điểm"
+    },
+    {
+      "source": "平行班",
+      "target": "lớp song hành"
+    },
+    {
+      "source": "普通班",
+      "target": "lớp thường"
+    },
+    {
+      "source": "灵根",
+      "target": "Linh căn"
+    },
+    {
+      "source": "灵根开发度",
+      "target": "độ khai phát linh căn"
+    },
+    {
+      "source": "一百零八手披风乱锤法",
+      "target": "Một trăm lẻ tám thức Phách Phong Loạn Chùy Pháp"
+    }
+  ],
+  "structural_hints": {
+    "has_dialogue": true,
+    "has_western_names": false,
+    "estimated_segments": 59
+  },
+  "generated_at": "2026-05-30T22:37:40.331729+07:00"
+}

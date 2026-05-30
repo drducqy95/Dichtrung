@@ -3,8 +3,8 @@
     "version": "2.0",
     "schema": "gold",
     "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
-    "last_updated": "2026-05-30T05:46:32.448271+07:00",
-    "total_entries": 139
+    "last_updated": "2026-05-30T22:41:39.679945+07:00",
+    "total_entries": 154
   },
   "entries": [
     {
@@ -1395,6 +1395,156 @@
       "context": "",
       "confidence": "medium",
       "notes": "Thức thứ 94 trong Phách Phong Loạn Chùy Pháp",
+      "locked": false
+    },
+    {
+      "source": "音铃",
+      "source_language": "zh",
+      "target": "Âm Linh",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Pháp bảo phát nhạc nhỏ gọn nhét vào tai.",
+      "locked": false
+    },
+    {
+      "source": "妙音宗",
+      "source_language": "zh",
+      "target": "Diệu Âm Tông",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tông môn luyện chế pháp bảo Âm Linh.",
+      "locked": false
+    },
+    {
+      "source": "魏铁",
+      "source_language": "zh",
+      "target": "Ngụy Thiết",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một ác bá to cao mệnh danh là Thiết Thú trong lớp song hành trường Xích Tiêu Nhị Trung.",
+      "locked": false
+    },
+    {
+      "source": "赵亮",
+      "source_language": "zh",
+      "target": "Triệu Lượng",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Học sinh lớp trọng điểm trường Xích Tiêu Nhị Trung, tay chân của Hách Liên Liệt.",
+      "locked": false
+    },
+    {
+      "source": "灵蛇步法",
+      "source_language": "zh",
+      "target": "Linh Xà Bộ Pháp",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Môn bộ pháp di chuyển uyển chuyển mềm mại như rắn bò.",
+      "locked": false
+    },
+    {
+      "source": "催眠符",
+      "source_language": "zh",
+      "target": "Thôi Miên Phù",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tấm bùa chú dùng để thôi miên tinh thần đối phương.",
+      "locked": false
+    },
+    {
+      "source": "虎蹴击",
+      "source_language": "zh",
+      "target": "Hổ Súc Kích",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Chiêu thức thúc gối mãnh liệt trong bộ Chiến Thú Thập Tam Thế.",
+      "locked": false
+    },
+    {
+      "source": "老孙头",
+      "source_language": "zh",
+      "target": "lão Tôn",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Nhân viên quản lý kho hậu cần trường Xích Tiêu Nhị Trung.",
+      "locked": false
+    },
+    {
+      "source": "孙彪",
+      "source_language": "zh",
+      "target": "Tôn Bưu",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Lão giả trông kho hậu cần trường Xích Tiêu Nhị Trung, cựu giáo viên võ kỹ lừng danh.",
+      "locked": false
+    },
+    {
+      "source": "孙老",
+      "source_language": "zh",
+      "target": "Tôn lão",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Cách gọi tôn kính dành cho Tôn Bưu.",
+      "locked": false
+    },
+    {
+      "source": "联邦少年极限挑战赛",
+      "source_language": "zh",
+      "target": "Giải đấu Thử thách Cực hạn Thiếu niên Liên bang",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Giải đấu sinh tồn huấn luyện thực chiến uy tín hàng năm của Liên bang.",
+      "locked": false
+    },
+    {
+      "source": "准考证",
+      "source_language": "zh",
+      "target": "thẻ dự thi",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tấm thẻ để đại diện tham gia Giải đấu Thử thách Cực hạn Thiếu niên Liên bang.",
+      "locked": false
+    },
+    {
+      "source": "放弃",
+      "source_language": "zh",
+      "target": "Từ Bỏ",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Bộ đồ luyện công pháp bảo do Tôn Bưu chế luyện từ mười mấy năm trước, tạo ra trọng lực trường, giật điện và ảo ảnh nóng lạnh kích thích cơ thể, đồng thời tự cởi ra khi chủ nhân nói 'Cháu từ bỏ'.",
+      "locked": false
+    },
+    {
+      "source": "修真界败类",
+      "source_language": "zh",
+      "target": "Bại hoại giới Tu Chân",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Biệt danh xưa kia của Tôn Bưu trong giới tu chân.",
+      "locked": false
+    },
+    {
+      "source": "灵鹤传书",
+      "source_language": "zh",
+      "target": "Linh Hạc Truyền Thư",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thiết bị liên lạc truyền hình ảnh ảo lập thể của giới tu chân.",
       "locked": false
     }
   ]

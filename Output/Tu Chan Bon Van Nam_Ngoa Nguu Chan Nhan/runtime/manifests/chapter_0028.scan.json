@@ -1,0 +1,110 @@
+{
+  "schema_version": "1.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 28,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan\\0028 - 28.第28章 当然要嚣张.md",
+  "source_char_count": 2349,
+  "characters": [
+    {
+      "source": "厉害",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "怪，什么时候变得这么厉害？”\n\n李耀想了想，",
+        "练成了！”\n\n“这么厉害！”孟江眼前一亮，却"
+      ]
+    },
+    {
+      "source": "和魔",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "在一起，共同对抗妖兽和魔道，如果没有这些规矩",
+        "一盘散沙，怎么是妖兽和魔道的对手？\n\n所以，"
+      ]
+    },
+    {
+      "source": "高中",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "学校，大不了我换一所高中，就算不上高中，联邦",
+        "换一所高中，就算不上高中，联邦也是允许公民以"
+      ]
+    },
+    {
+      "source": "麻烦",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "手下一定都会来找我的麻烦，赵亮只是第一个！”",
+        "我知道怎么对付威胁和麻烦！”\n\n“可，可是—"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "source": "融入正常社会",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "，包括如何循规蹈矩，融入正常社会，我才变得稍微收敛一"
+      ]
+    }
+  ],
+  "locations": [],
+  "realms": [],
+  "techniques": [
+    "不能逼问别人的秘法",
+    "不过老爹已经",
+    "在修炼一门上乘功法",
+    "场里十几年的生活经",
+    "已经初步",
+    "我再能打也经",
+    "明明已经",
+    "校医务室的医生一阵",
+    "没办法",
+    "还有什么办法"
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "法宝坟墓",
+      "target": "Nghĩa địa Pháp Bảo"
+    },
+    {
+      "source": "老爹",
+      "target": "Lão cha"
+    },
+    {
+      "source": "赤霄二中",
+      "target": "Xích Tiêu Nhị Trung"
+    },
+    {
+      "source": "重点班",
+      "target": "lớp trọng điểm"
+    },
+    {
+      "source": "普通班",
+      "target": "lớp thường"
+    },
+    {
+      "source": "联邦军",
+      "target": "Quân đội Liên bang"
+    },
+    {
+      "source": "赵亮",
+      "target": "Triệu Lượng"
+    }
+  ],
+  "structural_hints": {
+    "has_dialogue": true,
+    "has_western_names": false,
+    "estimated_segments": 54
+  },
+  "generated_at": "2026-05-30T22:39:17.391835+07:00"
+}

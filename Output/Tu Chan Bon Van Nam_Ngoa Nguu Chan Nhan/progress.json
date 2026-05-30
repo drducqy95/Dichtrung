@@ -1,5 +1,5 @@
 {
-  "completed_chapters": 22,
+  "completed_chapters": 33,
   "chapters": [
     {
       "chapter_number": 1,
@@ -132,9 +132,75 @@
       "title": "Hãy Cho Cậu Ta Ăn No",
       "status": "DONE",
       "last_updated": "2026-05-30T05:52:59.919484+07:00"
+    },
+    {
+      "chapter_number": 23,
+      "title": "Ăn Cả Đen Lẫn Trắng",
+      "status": "DONE",
+      "last_updated": "2026-05-30T22:37:07.264467+07:00"
+    },
+    {
+      "chapter_number": 24,
+      "title": "Tiến Bộ Thần Tốc",
+      "status": "DONE",
+      "last_updated": "2026-05-30T22:37:37.637978+07:00"
+    },
+    {
+      "chapter_number": 25,
+      "title": "Thiết Thú Tìm Tới",
+      "status": "DONE",
+      "last_updated": "2026-05-30T22:38:07.759238+07:00"
+    },
+    {
+      "chapter_number": 26,
+      "title": "Kẻ Tàn Nhẫn Hơn Đã Tới",
+      "status": "DONE",
+      "last_updated": "2026-05-30T22:38:40.666212+07:00"
+    },
+    {
+      "chapter_number": 27,
+      "title": "Hóa Ra Cậu Mới Là Kẻ Tàn Nhẫn Nhất",
+      "status": "DONE",
+      "last_updated": "2026-05-30T22:39:13.498450+07:00"
+    },
+    {
+      "chapter_number": 28,
+      "title": "Đương Nhiên Phải Ngông Cuồng",
+      "status": "DONE",
+      "last_updated": "2026-05-30T22:39:41.668658+07:00"
+    },
+    {
+      "chapter_number": 29,
+      "title": "Người Rèn Đúc Nên Yêu Đao",
+      "status": "DONE",
+      "last_updated": "2026-05-30T22:40:07.933346+07:00"
+    },
+    {
+      "chapter_number": 30,
+      "title": "Cậu Ngông Cuồng Quá Nhỉ",
+      "status": "DONE",
+      "last_updated": "2026-05-30T22:40:32.697501+07:00"
+    },
+    {
+      "chapter_number": 31,
+      "title": "Tớ Không Phải Là Cá Muối!",
+      "status": "DONE",
+      "last_updated": "2026-05-30T22:41:11.643744+07:00"
+    },
+    {
+      "chapter_number": 32,
+      "title": "Cậu Ta Là Quái Vật!",
+      "status": "DONE",
+      "last_updated": "2026-05-30T22:41:39.686949+07:00"
+    },
+    {
+      "chapter_number": 33,
+      "title": "Đêm Dài Khó Nhọc",
+      "status": "DONE",
+      "last_updated": "2026-05-30T22:42:19.906469+07:00"
     }
   ],
-  "last_updated": "2026-05-30T15:31:35+07:00",
+  "last_updated": "2026-05-30T22:44:06+07:00",
   "workflow_artifacts": {
     "branch_readme": "README.md",
     "converter_db_ready": true,

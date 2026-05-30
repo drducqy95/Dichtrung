@@ -160,21 +160,21 @@
       "id": "M11",
       "title": "Tu Chân Bốn Vạn Năm",
       "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
-      "status": "INITIALIZED",
+      "status": "IN_PROGRESS",
       "source_file": "",
       "source_split": "Source/Source split/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/",
       "output_dir": "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/",
       "total_chapters": 3339,
-      "completed_chapters": 0,
-      "last_processed_chapter": 0,
+      "completed_chapters": 33,
+      "last_processed_chapter": 33,
       "ebook_built": false,
-      "last_updated": "2026-05-30T04:50:00Z"
+      "last_updated": "2026-05-30T22:42:20Z"
     }
   ],
-  "last_updated": "2026-05-30T15:31:07.174535",
+  "last_updated": "2026-05-30T22:43:57.913911",
   "meta": {
-    "last_updated": "2026-05-30T15:31:07.174523",
-    "current_phase": "Completed 4 Phases",
+    "last_updated": "2026-05-30T22:43:57.913898",
+    "current_phase": "batch_24_33",
     "tracked_projects": 8
   },
   "current_chapter": 232,
