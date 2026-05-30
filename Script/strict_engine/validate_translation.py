@@ -84,7 +84,14 @@ def run_validation(branch_name: str, chapter: int) -> dict[str, Any]:
             "generated_at": now_iso()
         }
 
-    translated_text = result.get("translated_text", "")
+    aligned_segments = result.get("aligned_segments", [])
+    if aligned_segments:
+        translated_text = "\n\n".join(seg.get("target", "") for seg in aligned_segments if seg.get("target"))
+        result["translated_text"] = translated_text
+        # Hydrate the file on disk so downstream scripts (like update_state.py) can read translated_text
+        save_json_atomic(result_path, result)
+    else:
+        translated_text = result.get("translated_text", "")
 
     # Load context pack and config for rules
     context_pack_path = branch_dir / "runtime" / "context_packs" / f"chapter_{chapter:04d}.context_pack.json"

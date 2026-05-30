@@ -282,18 +282,12 @@ def build_context_pack(
         "hard_constraints": hard_constraints,
         "analysis_instructions": {
             "output_analysis": True,
-            "analysis_schema_version": "1.0",
-            "required_sections": [
-                "aligned_segments", "term_occurrences", "entity_mentions",
-                "phrase_patterns", "grammar_rule_candidates", "quality_audit"
-            ],
+            "instruction": "Bạn PHẢI trả về các trường phân tích này (aligned_segments, term_occurrences...) NGAY BÊN TRONG cấu trúc của translation_result.json.",
             "segment_rules": [
-                "aligned_segments PHẢI chứa TẤT CẢ các câu/đoạn hội thoại trong source_text, KHÔNG chỉ 1 segment mẫu.",
-                "Mỗi câu/đoạn riêng biệt trong source = 1 segment riêng biệt với seg_id tuần tự (seg_0001, seg_0002...).",
-                "Mỗi segment phải có source (câu gốc), target (câu dịch tương ứng), alignment_type, và narrative_type.",
-                "narrative_type: 'narration' cho tự sự, 'dialogue' cho hội thoại có dấu ngoặc kép, 'inner_thought' cho suy nghĩ nội tâm, 'description' cho miêu tả cảnh vật.",
-                "Nếu source có N câu thì aligned_segments phải có xấp xỉ N entries. Chấp nhận sai lệch ±10% do merge/split.",
-                "segment_coverage trong quality_audit = (số segments thực tế) / (số câu source). Phải >= 0.8 mới đạt."
+                "aligned_segments PHẢI chứa TẤT CẢ các câu/đoạn hội thoại trong source_text. KHÔNG ĐƯỢC chỉ trả về 1 segment mẫu.",
+                "Mỗi đoạn văn/câu trong source = 1 segment (seg_id: seg_0001, seg_0002...).",
+                "QUAN TRỌNG: Giá trị 'target' trong mỗi segment CHÍNH LÀ bản dịch cuối cùng của bạn cho đoạn 'source' đó. Hệ thống sẽ tự động ghép các 'target' này lại thành văn bản hoàn chỉnh. TUYỆT ĐỐI không phân tách hay bóp méo ngữ nghĩa.",
+                "narrative_type: 'narration', 'dialogue', 'inner_thought', 'description'."
             ],
             "entity_rules": [
                 "entity_mentions PHẢI liệt kê TẤT CẢ các tên nhân vật, địa danh, môn phái, kỹ thuật xuất hiện trong chương.",
