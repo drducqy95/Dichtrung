@@ -249,6 +249,11 @@ def build_scan_report(branch_name: str, chapter: int) -> dict[str, Any]:
             for s, t in locked_terms.items()
             if s in text
         ],
+        "structural_hints": {
+            "has_dialogue": any(quote in text for quote in ["\"", "“", "”", "「", "」"]),
+            "has_western_names": bool(re.search(r"·", text)),
+            "estimated_segments": text.count("。") + text.count("！") + text.count("？")
+        },
         "generated_at": now_iso(),
     }
 

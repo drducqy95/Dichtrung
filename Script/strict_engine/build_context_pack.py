@@ -280,6 +280,17 @@ def build_context_pack(
         "narrator_pronoun_guide": config.get("narrator_pronoun_guide", {}),
         "worldbuilding_notes": filter_worldbuilding(source_text, worldbuilding),
         "hard_constraints": hard_constraints,
+        "analysis_instructions": {
+            "output_analysis": True,
+            "analysis_schema_version": "1.0",
+            "required_sections": [
+                "aligned_segments", "term_occurrences", "entity_mentions",
+                "phrase_patterns", "grammar_rule_candidates", "quality_audit"
+            ],
+            # To be hydrated with actual reviewed rules in Phase 4
+            "reviewed_rules": [],
+            "reviewed_patterns": []
+        },
         "built_at": now_iso(),
     }
 

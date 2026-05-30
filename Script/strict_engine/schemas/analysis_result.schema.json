@@ -1,0 +1,286 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Translation Analysis Result",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "branch",
+    "chapter",
+    "aligned_segments",
+    "term_occurrences",
+    "entity_mentions",
+    "phrase_patterns",
+    "grammar_rule_candidates",
+    "quality_audit"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "const": "1.0"
+    },
+    "branch": {
+      "type": "string"
+    },
+    "chapter": {
+      "type": "integer"
+    },
+    "aligned_segments": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "seg_id",
+          "source",
+          "target",
+          "alignment_type"
+        ],
+        "properties": {
+          "seg_id": {
+            "type": "string"
+          },
+          "source": {
+            "type": "string"
+          },
+          "target": {
+            "type": "string"
+          },
+          "alignment_type": {
+            "enum": [
+              "1-to-1",
+              "1-to-many",
+              "many-to-1"
+            ]
+          },
+          "speaker": {
+            "type": "string"
+          },
+          "narrative_type": {
+            "enum": [
+              "narration",
+              "dialogue",
+              "inner_thought",
+              "description"
+            ]
+          }
+        }
+      }
+    },
+    "term_occurrences": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "source_term",
+          "target_term",
+          "seg_id",
+          "is_locked",
+          "present_in_target"
+        ],
+        "properties": {
+          "source_term": {
+            "type": "string"
+          },
+          "target_term": {
+            "type": "string"
+          },
+          "seg_id": {
+            "type": "string"
+          },
+          "is_locked": {
+            "type": "boolean"
+          },
+          "present_in_target": {
+            "type": "boolean"
+          },
+          "category": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "entity_mentions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "source_surface",
+          "target_surface",
+          "entity_type",
+          "seg_id"
+        ],
+        "properties": {
+          "source_surface": {
+            "type": "string"
+          },
+          "target_surface": {
+            "type": "string"
+          },
+          "entity_type": {
+            "enum": [
+              "person",
+              "location",
+              "faction",
+              "item",
+              "technique",
+              "era",
+              "other"
+            ]
+          },
+          "seg_id": {
+            "type": "string"
+          },
+          "confidence": {
+            "type": "number"
+          }
+        }
+      }
+    },
+    "phrase_patterns": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "source_pattern",
+          "target_pattern",
+          "frequency"
+        ],
+        "properties": {
+          "source_pattern": {
+            "type": "string"
+          },
+          "target_pattern": {
+            "type": "string"
+          },
+          "frequency": {
+            "type": "integer"
+          },
+          "examples": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "grammar_rule_candidates": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "alias",
+          "desc",
+          "match_tok",
+          "operations",
+          "confidence"
+        ],
+        "properties": {
+          "alias": {
+            "type": "string"
+          },
+          "desc": {
+            "type": "string"
+          },
+          "rank": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 5
+          },
+          "match_pos": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "match_tok": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "operations": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": [
+                "op"
+              ],
+              "properties": {
+                "op": {
+                  "enum": [
+                    "emit",
+                    "emit_override",
+                    "emit_literal",
+                    "insert",
+                    "drop"
+                  ]
+                },
+                "index": {
+                  "type": "integer"
+                },
+                "value": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "confidence": {
+            "type": "number"
+          },
+          "evidence": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "quality_audit": {
+      "type": "object",
+      "required": [
+        "segment_coverage",
+        "locked_term_hit_rate",
+        "cjk_residue_count"
+      ],
+      "properties": {
+        "segment_coverage": {
+          "type": "number"
+        },
+        "locked_term_hit_rate": {
+          "type": "number"
+        },
+        "cjk_residue_count": {
+          "type": "integer"
+        },
+        "paragraph_drift_ratio": {
+          "type": "number"
+        },
+        "pronoun_consistency_score": {
+          "type": "number"
+        },
+        "warnings": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "name_analysis": {
+      "type": "object",
+      "properties": {
+        "name_mentions": {
+          "type": "array"
+        },
+        "transliteration_units": {
+          "type": "array"
+        },
+        "ambiguity_cases": {
+          "type": "array"
+        }
+      }
+    }
+  },
+  "additionalProperties": false
+}

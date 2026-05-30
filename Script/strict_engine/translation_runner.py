@@ -131,9 +131,29 @@ def run_postflight(branch_name: str, chapter: int) -> bool:
             LOGGER.error("State Verification Gate failed: %s", e)
             return False
             
+        # 4. Post-translation Analysis Pipeline (Non-blocking)
+        try:
+            from validate_analysis import validate_analysis
+            from update_analysis_state import update_analysis_state
+            
+            LOGGER.info("4/4 Running Analysis Pipeline (warning-only)...")
+            analysis_report = validate_analysis(branch_name, chapter)
+            if not analysis_report.get("passed", True):
+                for warn in analysis_report.get("warnings", []):
+                    LOGGER.warning(" Analysis Warning: %s", warn)
+                for err in analysis_report.get("errors", []):
+                    LOGGER.warning(" Analysis Error (non-blocking): %s", err)
+                    
+            # Always try to update state even if validation has warnings
+            update_analysis_state(branch_name, chapter)
+            
+        except ImportError:
+            LOGGER.info("Analysis modules not found. Skipping Analysis Pipeline.")
+        except Exception as e:
+            LOGGER.warning("Analysis Pipeline crashed (non-blocking): %s", e)
+            
         LOGGER.info("POSTFLIGHT SUCCESS: Chapter %d is fully processed and merged.", chapter)
         return True
-
 
 def get_status(branch_name: str, chapter: int) -> None:
     """Print the pipeline status of a chapter."""
