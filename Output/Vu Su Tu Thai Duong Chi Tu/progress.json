@@ -1,5 +1,5 @@
 {
-  "completed_chapters": 40,
+  "completed_chapters": 50,
   "total_chapters": 915,
   "chapters": [
     {
@@ -244,63 +244,63 @@
     },
     {
       "chapter_number": 41,
-      "title": "第41章 到达",
-      "status": "PENDING",
-      "last_updated": null
+      "title": "Đến nơi",
+      "status": "DONE",
+      "last_updated": "2026-06-01T06:14:13.471592+07:00"
     },
     {
       "chapter_number": 42,
-      "title": "第42章 进入学院",
-      "status": "PENDING",
-      "last_updated": null
+      "title": "Tiến vào học viện",
+      "status": "DONE",
+      "last_updated": "2026-06-01T06:14:35.705807+07:00"
     },
     {
       "chapter_number": 43,
-      "title": "第43章 喜获实验室，学院生活开始",
-      "status": "PENDING",
-      "last_updated": null
+      "title": "Vui vẻ nhận phòng thí nghiệm, cuộc sống học viện bắt đầu",
+      "status": "DONE",
+      "last_updated": "2026-06-01T06:15:01.438598+07:00"
     },
     {
       "chapter_number": 44,
-      "title": "第44章 学习",
-      "status": "PENDING",
-      "last_updated": null
+      "title": "Học tập",
+      "status": "DONE",
+      "last_updated": "2026-06-01T06:15:26.769542+07:00"
     },
     {
       "chapter_number": 45,
-      "title": "第45章 巫术模型",
-      "status": "PENDING",
-      "last_updated": null
+      "title": "Mô hình vu thuật",
+      "status": "DONE",
+      "last_updated": "2026-06-01T06:16:00.507765+07:00"
     },
     {
       "chapter_number": 46,
-      "title": "第46章 巫术测试",
-      "status": "PENDING",
-      "last_updated": null
+      "title": "Thử nghiệm vu thuật",
+      "status": "DONE",
+      "last_updated": "2026-06-01T06:16:37.240341+07:00"
     },
     {
       "chapter_number": 47,
-      "title": "第47章 购买巫术，清扫任务",
-      "status": "PENDING",
-      "last_updated": null
+      "title": "Mua vu thuật, nhiệm vụ thanh quét",
+      "status": "DONE",
+      "last_updated": "2026-06-01T06:16:59.993428+07:00"
     },
     {
       "chapter_number": 48,
-      "title": "第48章 药剂配置",
-      "status": "PENDING",
-      "last_updated": null
+      "title": "Điều chế dược tể",
+      "status": "DONE",
+      "last_updated": "2026-06-01T06:17:20.007378+07:00"
     },
     {
       "chapter_number": 49,
-      "title": "第49章 配置成功",
-      "status": "PENDING",
-      "last_updated": null
+      "title": "Điều chế thành công",
+      "status": "DONE",
+      "last_updated": "2026-06-01T06:17:40.238130+07:00"
     },
     {
       "chapter_number": 50,
-      "title": "第50章 危险任务",
-      "status": "PENDING",
-      "last_updated": null
+      "title": "Nhiệm vụ nguy hiểm",
+      "status": "DONE",
+      "last_updated": "2026-06-01T06:18:01.565332+07:00"
     },
     {
       "chapter_number": 51,
@@ -5493,7 +5493,7 @@
       "last_updated": null
     }
   ],
-  "last_updated": "2026-06-01T06:08:45+07:00",
+  "last_updated": "2026-06-01T06:18:01+07:00",
   "workflow_artifacts": {
     "branch_readme": "README.md",
     "converter_db_ready": true,

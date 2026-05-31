@@ -40,3 +40,13 @@
 - Chương 0038: Xung đột
 - Chương 0039: Nghiền ép
 - Chương 0040: Thân hòa năng lượng, dược tể học
+- Chương 0041: Đến nơi
+- Chương 0042: Tiến vào học viện
+- Chương 0043: Vui vẻ nhận phòng thí nghiệm, cuộc sống học viện bắt đầu
+- Chương 0044: Học tập
+- Chương 0045: Mô hình vu thuật
+- Chương 0046: Thử nghiệm vu thuật
+- Chương 0047: Mua vu thuật, nhiệm vụ thanh quét
+- Chương 0048: Điều chế dược tể
+- Chương 0049: Điều chế thành công
+- Chương 0050: Nhiệm vụ nguy hiểm

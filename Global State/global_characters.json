@@ -7929,6 +7929,20 @@
       "description": "",
       "first_appearance": "{'chapter': 0, 'context': ''}",
       "notes": "{'primary_system': '', 'current_realm': '', 'current_sub_stage': '', 'notes': ''}"
+    },
+    {
+      "name_source": "安特",
+      "name_target": "Ant",
+      "locked": true,
+      "status": "auto-locked",
+      "source_project": "Vu Su Tu Thai Duong Chi Tu"
+    },
+    {
+      "name_source": "罗伯特",
+      "name_target": "Robert",
+      "locked": true,
+      "status": "auto-locked",
+      "source_project": "Vu Su Tu Thai Duong Chi Tu"
     }
   ]
 }

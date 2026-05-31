@@ -3,8 +3,8 @@
     "version": "2.0",
     "schema": "gold",
     "branch": "Vu Su Tu Thai Duong Chi Tu",
-    "last_updated": "2026-06-01T06:08:15.773236+07:00",
-    "total_entries": 1359
+    "last_updated": "2026-06-01T06:18:01.546116+07:00",
+    "total_entries": 1377
   },
   "entries": [
     {
@@ -12899,7 +12899,8 @@
         "chapter_0017",
         "chapter_0019",
         "chapter_0021",
-        "chapter_0024"
+        "chapter_0024",
+        "chapter_0050"
       ]
     },
     {
@@ -12955,7 +12956,8 @@
         "chapter_0015",
         "chapter_0023",
         "chapter_0024",
-        "chapter_0025"
+        "chapter_0025",
+        "chapter_0050"
       ]
     },
     {
@@ -12995,7 +12997,12 @@
         "chapter_0037",
         "chapter_0038",
         "chapter_0039",
-        "chapter_0040"
+        "chapter_0040",
+        "chapter_0044",
+        "chapter_0045",
+        "chapter_0046",
+        "chapter_0048",
+        "chapter_0050"
       ]
     },
     {
@@ -13226,7 +13233,8 @@
         "chapter_0023",
         "chapter_0024",
         "chapter_0025",
-        "chapter_0032"
+        "chapter_0032",
+        "chapter_0042"
       ]
     },
     {
@@ -13314,7 +13322,11 @@
         "chapter_0036",
         "chapter_0038",
         "chapter_0039",
-        "chapter_0040"
+        "chapter_0040",
+        "chapter_0041",
+        "chapter_0043",
+        "chapter_0045",
+        "chapter_0050"
       ]
     },
     {
@@ -13332,7 +13344,10 @@
         "chapter_0029",
         "chapter_0036",
         "chapter_0038",
-        "chapter_0039"
+        "chapter_0039",
+        "chapter_0043",
+        "chapter_0047",
+        "chapter_0050"
       ]
     },
     {
@@ -13349,7 +13364,13 @@
         "chapter_0016",
         "chapter_0029",
         "chapter_0034",
-        "chapter_0039"
+        "chapter_0039",
+        "chapter_0042",
+        "chapter_0043",
+        "chapter_0045",
+        "chapter_0046",
+        "chapter_0047",
+        "chapter_0048"
       ]
     },
     {
@@ -13431,7 +13452,14 @@
         "chapter_0036",
         "chapter_0037",
         "chapter_0039",
-        "chapter_0040"
+        "chapter_0040",
+        "chapter_0041",
+        "chapter_0044",
+        "chapter_0045",
+        "chapter_0046",
+        "chapter_0047",
+        "chapter_0048",
+        "chapter_0049"
       ]
     },
     {
@@ -13450,7 +13478,11 @@
         "chapter_0034",
         "chapter_0035",
         "chapter_0036",
-        "chapter_0037"
+        "chapter_0037",
+        "chapter_0042",
+        "chapter_0043",
+        "chapter_0046",
+        "chapter_0050"
       ]
     },
     {
@@ -13467,7 +13499,10 @@
         "chapter_0029",
         "chapter_0034",
         "chapter_0036",
-        "chapter_0037"
+        "chapter_0037",
+        "chapter_0044",
+        "chapter_0046",
+        "chapter_0050"
       ]
     },
     {
@@ -13485,7 +13520,14 @@
         "chapter_0035",
         "chapter_0037",
         "chapter_0039",
-        "chapter_0040"
+        "chapter_0040",
+        "chapter_0042",
+        "chapter_0043",
+        "chapter_0044",
+        "chapter_0045",
+        "chapter_0046",
+        "chapter_0047",
+        "chapter_0050"
       ]
     },
     {
@@ -13496,7 +13538,14 @@
       "context": "",
       "confidence": "medium",
       "notes": "Cấp độ học đồ Vu sư cao cấp nhất, cần cố định 18 phù văn.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0035",
+        "chapter_0044",
+        "chapter_0045",
+        "chapter_0050"
+      ]
     },
     {
       "source": "巫术",
@@ -13511,7 +13560,15 @@
       "reviewed_chapters": [
         "chapter_0029",
         "chapter_0033",
-        "chapter_0040"
+        "chapter_0040",
+        "chapter_0043",
+        "chapter_0044",
+        "chapter_0045",
+        "chapter_0046",
+        "chapter_0047",
+        "chapter_0048",
+        "chapter_0049",
+        "chapter_0050"
       ]
     },
     {
@@ -13594,7 +13651,10 @@
         "chapter_0030",
         "chapter_0031",
         "chapter_0032",
-        "chapter_0040"
+        "chapter_0040",
+        "chapter_0041",
+        "chapter_0048",
+        "chapter_0049"
       ]
     },
     {
@@ -13605,7 +13665,14 @@
       "context": "",
       "confidence": "medium",
       "notes": "Một loại vu thuật cơ bản hỗ trợ đắc lực cho việc làm thí nghiệm.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0037",
+        "chapter_0045",
+        "chapter_0046",
+        "chapter_0049"
+      ]
     },
     {
       "source": "海洛斯寄生虫",
@@ -13759,7 +13826,12 @@
       "context": "",
       "confidence": "medium",
       "notes": "Một dạng màng năng lượng vu thuật",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0043",
+        "chapter_0046"
+      ]
     },
     {
       "source": "极限学派",
@@ -13786,7 +13858,8 @@
         "chapter_0036",
         "chapter_0037",
         "chapter_0039",
-        "chapter_0040"
+        "chapter_0040",
+        "chapter_0045"
       ]
     },
     {
@@ -13807,7 +13880,12 @@
       "context": "",
       "confidence": "medium",
       "notes": "Phe vu sư hướng thiện",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0043",
+        "chapter_0047"
+      ]
     },
     {
       "source": "黑巫师",
@@ -13817,7 +13895,13 @@
       "context": "",
       "confidence": "medium",
       "notes": "Phe vu sư hướng ác",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0039",
+        "chapter_0043",
+        "chapter_0047"
+      ]
     },
     {
       "source": "青春药水",
@@ -13847,7 +13931,13 @@
       "context": "",
       "confidence": "medium",
       "notes": "Môn học điều chế và nghiên cứu dược tể của Vu sư",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0041",
+        "chapter_0045",
+        "chapter_0046"
+      ]
     },
     {
       "source": "魔纹卷轴",
@@ -13857,6 +13947,206 @@
       "context": "",
       "confidence": "medium",
       "notes": "Cuộn giấy ma pháp dùng để lưu trữ tri thức",
+      "locked": false
+    },
+    {
+      "source": "魔石",
+      "source_language": "zh",
+      "target": "ma thạch",
+      "category": "currency",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tiền tệ lưu thông chính thức giữa các Vu sư, là tập hợp thể của các nguyên tố",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0043",
+        "chapter_0044",
+        "chapter_0046",
+        "chapter_0047",
+        "chapter_0049",
+        "chapter_0050"
+      ]
+    },
+    {
+      "source": "苍白树林",
+      "source_language": "zh",
+      "target": "Rừng Cây Nhợt Nhạt",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Địa điểm Học viện Bạch Ốc tọa lạc",
+      "locked": false
+    },
+    {
+      "source": "三眼联盟",
+      "source_language": "zh",
+      "target": "Liên minh Tam Nhãn",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Phe phái học đồ do Ant làm thủ lĩnh",
+      "locked": false
+    },
+    {
+      "source": "守护者联盟",
+      "source_language": "zh",
+      "target": "Liên minh Người Bảo Vệ",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Phe phái học đồ do Robert thành lập",
+      "locked": false
+    },
+    {
+      "source": "劫掠者联盟",
+      "source_language": "zh",
+      "target": "Liên minh Kẻ Cướp Đoạt",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Phe phái học đồ do Gara thành lập",
+      "locked": false
+    },
+    {
+      "source": "白巫",
+      "source_language": "zh",
+      "target": "Bạch Vu",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tổ chức Bạch Vu sư",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0047",
+        "chapter_0050"
+      ]
+    },
+    {
+      "source": "青春药剂",
+      "source_language": "zh",
+      "target": "Dược tể Thanh Xuân",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Loại dược phẩm giúp khôi phục vẻ trẻ trung thanh xuân",
+      "locked": false
+    },
+    {
+      "source": "安其维亚山羊",
+      "source_language": "zh",
+      "target": "Dê Anchivia",
+      "category": "monster",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thủ hộ thú của Học viện Bạch Ốc, có kháng tính nguyên tố cực cao.",
+      "locked": false
+    },
+    {
+      "source": "新生互助会",
+      "source_language": "zh",
+      "target": "Hội Hỗ Trợ Tân Sinh",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Hội tương trợ do Castian Thorne thành lập",
+      "locked": false
+    },
+    {
+      "source": "树人召唤",
+      "source_language": "zh",
+      "target": "Triệu Hồi Người Cây",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Vu thuật cấp không thuộc tính sinh mệnh",
+      "locked": false
+    },
+    {
+      "source": "次级能量火球",
+      "source_language": "zh",
+      "target": "Hỏa Cầu Năng Lượng Thứ Cấp",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Vu thuật cấp không thuộc tính hỏa",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0046",
+        "chapter_0047",
+        "chapter_0048"
+      ]
+    },
+    {
+      "source": "云雾术",
+      "source_language": "zh",
+      "target": "Thuật Vân Vụ",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Vu thuật cấp không thuộc tính thủy",
+      "locked": false
+    },
+    {
+      "source": "幻境破除",
+      "source_language": "zh",
+      "target": "Phá Trừ Huyễn Cảnh",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Vu thuật phá giải ảo giác",
+      "locked": false
+    },
+    {
+      "source": "诅咒清除",
+      "source_language": "zh",
+      "target": "Thanh Trừ Nguyền Rủa",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Vu thuật thanh tẩy nguyền rủa",
+      "locked": false
+    },
+    {
+      "source": "精灵果",
+      "source_language": "zh",
+      "target": "Quả Tinh Linh",
+      "category": "cultivation_resource",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Loại quả biến dị chứa nhiều sinh mệnh lực",
+      "locked": false
+    },
+    {
+      "source": "艾萨树根",
+      "source_language": "zh",
+      "target": "rễ cây Aisa",
+      "category": "cultivation_resource",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Nguyên liệu chế tạo dược tể",
+      "locked": false
+    },
+    {
+      "source": "克罗恩萨山脉",
+      "source_language": "zh",
+      "target": "dãy núi Kroensa",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Địa điểm nghi ngờ phát hiện mỏ ma thạch",
+      "locked": false
+    },
+    {
+      "source": "黑屋",
+      "source_language": "zh",
+      "target": "Hắc Ốc",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tổ chức đối địch với Học viện Bạch Ốc",
       "locked": false
     }
   ]

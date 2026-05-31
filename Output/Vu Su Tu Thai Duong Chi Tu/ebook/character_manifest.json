@@ -2,8 +2,8 @@
   "metadata": {
     "branch": "Vu Su Tu Thai Duong Chi Tu",
     "book_title": "Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới",
-    "generated_at": "2026-06-01T06:08:46+07:00",
-    "total_characters": 353,
+    "generated_at": "2026-06-01T06:18:02+07:00",
+    "total_characters": 358,
     "style_tags": [
       "tây phương",
       "fantasy"
@@ -500,6 +500,18 @@
       "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/cao_y_n_scene.png",
       "portrait_prompt": "Portrait of Cao Yến, a woman character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Character context: Cựu nhân viên Khoa Đối ứng, đã qua đời.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
       "scene_prompt": "Full-body scene illustration of Cao Yến (woman) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Description: Cựu nhân viên Khoa Đối ứng, đã qua đời.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    },
+    {
+      "name_translated": "Castian Thorne",
+      "name_original": "卡斯提安·索恩",
+      "role": "vu sư học đồ học viện bạch ốc",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/castian_thorne_portrait.png",
+      "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/castian_thorne_scene.png",
+      "portrait_prompt": "Portrait of Castian Thorne, a man character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Visual traits: hair đen. Character context: Học viên tóc đen ở phòng ký túc xá cạnh Grimm, người sáng lập Hội Hỗ Trợ Tân Sinh.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of Castian Thorne (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Visual: hair đen. Description: Học viên tóc đen ở phòng ký túc xá cạnh Grimm, người sáng lập Hội Hỗ Trợ Tân Sinh.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
       "asset_status": "prompt_ready"
     },
     {
@@ -1019,6 +1031,18 @@
       "asset_status": "prompt_ready"
     },
     {
+      "name_translated": "Gara",
+      "name_original": "加拉",
+      "role": "thủ lĩnh liên minh kẻ cướp đoạt (劫掠者联盟)",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/gara_portrait.png",
+      "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/gara_scene.png",
+      "portrait_prompt": "Portrait of Gara, a man character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Character context: Một trong ba thủ lĩnh học đồ trên thuyền.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of Gara (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Description: Một trong ba thủ lĩnh học đồ trên thuyền.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    },
+    {
       "name_translated": "George Emirene",
       "name_original": "艾米雷恩·乔治",
       "role": "trưởng nam gia tộc emirene",
@@ -1400,6 +1424,18 @@
       "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/karant_scene.png",
       "portrait_prompt": "Portrait of Karant, a man character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Character context: Tiểu đội trưởng vệ binh tuần tra đêm tại Lâu đài Clow.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
       "scene_prompt": "Full-body scene illustration of Karant (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Description: Tiểu đội trưởng vệ binh tuần tra đêm tại Lâu đài Clow.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    },
+    {
+      "name_translated": "Karina",
+      "name_original": "卡琳娜",
+      "role": "đạo sư của học viện bạch ốc",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/karina_portrait.png",
+      "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/karina_scene.png",
+      "portrait_prompt": "Portrait of Karina, a woman character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Visual traits: hair xanh, vàng eyes, beautiful striking features. Character context: Nữ tử xinh đẹp mặc bào trắng, tóc xanh lục mắt vàng, giảng dạy môn Nguyên lý mô hình vu thuật.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of Karina (woman) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Visual: hair xanh, vàng eyes, beautiful striking features. Description: Nữ tử xinh đẹp mặc bào trắng, tóc xanh lục mắt vàng, giảng dạy môn Nguyên lý mô hình vu thuật.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
       "asset_status": "prompt_ready"
     },
     {
@@ -2372,6 +2408,18 @@
       "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/negary_scene.png",
       "portrait_prompt": "Portrait of Negary, a androgynous figure character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Visual traits: spectral soul form, translucent ghost-like. Character context: Danh hiệu/Thần danh mà Vương Uyên sử dụng sau khi trở thành tàn hồn.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
       "scene_prompt": "Full-body scene illustration of Negary (androgynous figure) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Visual: spectral soul form, translucent ghost-like. Description: Danh hiệu/Thần danh mà Vương Uyên sử dụng sau khi trở thành tàn hồn.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    },
+    {
+      "name_translated": "Newt Kloweze",
+      "name_original": "纽特·克洛维泽",
+      "role": "học trò của lilian, học đồ cấp cao của học viện bạch ốc",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/newt_kloweze_portrait.png",
+      "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/newt_kloweze_scene.png",
+      "portrait_prompt": "Portrait of Newt Kloweze, a man character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Character context: Một người đàn ông trung niên mặc bào xám, khuôn mặt phong trần.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of Newt Kloweze (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Description: Một người đàn ông trung niên mặc bào xám, khuôn mặt phong trần.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
       "asset_status": "prompt_ready"
     },
     {
@@ -4004,6 +4052,18 @@
       "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/will_scene.png",
       "portrait_prompt": "Portrait of Will, a man character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Character context: Người đàn ông trung niên mang dã tâm tham gia thí nghiệm để đạt được sức mạnh tối hạn.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
       "scene_prompt": "Full-body scene illustration of Will (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Description: Người đàn ông trung niên mang dã tâm tham gia thí nghiệm để đạt được sức mạnh tối hạn.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    },
+    {
+      "name_translated": "Wylde",
+      "name_original": "怀尔德",
+      "role": "lão sư môn gene của học viện bạch ốc",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/wylde_portrait.png",
+      "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/wylde_scene.png",
+      "portrait_prompt": "Portrait of Wylde, a man character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Character context: Giáo viên giảng dạy môn Gene, từng muốn cướp Grimm từ tay Lilian.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of Wylde (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Description: Giáo viên giảng dạy môn Gene, từng muốn cướp Grimm từ tay Lilian.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
       "asset_status": "prompt_ready"
     },
     {

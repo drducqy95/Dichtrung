@@ -13499,7 +13499,8 @@
       "source_project": "Vu Su Tu Thai Duong Chi Tu",
       "confidence": "medium",
       "notes": "Cấp độ học đồ Vu sư cao cấp nhất, cần cố định 18 phù văn.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked"
     },
     {
       "id": "GTERM_1285",
@@ -13581,7 +13582,8 @@
       "source_project": "Vu Su Tu Thai Duong Chi Tu",
       "confidence": "medium",
       "notes": "Một loại vu thuật cơ bản hỗ trợ đắc lực cho việc làm thí nghiệm.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked"
     },
     {
       "id": "GTERM_1293",
@@ -13728,7 +13730,8 @@
       "source_project": "Vu Su Tu Thai Duong Chi Tu",
       "confidence": "medium",
       "notes": "Một dạng màng năng lượng vu thuật",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked"
     },
     {
       "id": "GTERM_1305",
@@ -13758,7 +13761,8 @@
       "source_project": "Vu Su Tu Thai Duong Chi Tu",
       "confidence": "medium",
       "notes": "Phe vu sư hướng thiện",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked"
     },
     {
       "id": "GTERM_1308",
@@ -13768,7 +13772,8 @@
       "source_project": "Vu Su Tu Thai Duong Chi Tu",
       "confidence": "medium",
       "notes": "Phe vu sư hướng ác",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked"
     },
     {
       "id": "GTERM_1309",
@@ -13798,7 +13803,8 @@
       "source_project": "Vu Su Tu Thai Duong Chi Tu",
       "confidence": "medium",
       "notes": "Môn học điều chế và nghiên cứu dược tể của Vu sư",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked"
     },
     {
       "id": "GTERM_1312",
@@ -13809,6 +13815,47 @@
       "confidence": "medium",
       "notes": "Cuộn giấy ma pháp dùng để lưu trữ tri thức",
       "locked": false
+    },
+    {
+      "source_term": "次级能量火球",
+      "target_term": "Hỏa Cầu Năng Lượng Thứ Cấp",
+      "category": "reviewed",
+      "locked": true,
+      "status": "auto-locked",
+      "source_project": "Vu Su Tu Thai Duong Chi Tu",
+      "reviewed_chapters": [
+        "chapter_0046",
+        "chapter_0047",
+        "chapter_0048"
+      ]
+    },
+    {
+      "source_term": "白巫",
+      "target_term": "Bạch Vu",
+      "category": "reviewed",
+      "locked": true,
+      "status": "auto-locked",
+      "source_project": "Vu Su Tu Thai Duong Chi Tu",
+      "reviewed_chapters": [
+        "chapter_0047",
+        "chapter_0050"
+      ]
+    },
+    {
+      "source_term": "魔石",
+      "target_term": "ma thạch",
+      "category": "reviewed",
+      "locked": true,
+      "status": "auto-locked",
+      "source_project": "Vu Su Tu Thai Duong Chi Tu",
+      "reviewed_chapters": [
+        "chapter_0043",
+        "chapter_0044",
+        "chapter_0046",
+        "chapter_0047",
+        "chapter_0049",
+        "chapter_0050"
+      ]
     }
   ]
 }

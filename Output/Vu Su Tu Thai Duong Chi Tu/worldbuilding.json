@@ -45,6 +45,48 @@
       "name_target": "học phái Cực Hạn",
       "type": "faction",
       "description": "Học phái tu luyện Minh Tưởng Pháp Cực Hạn (Clorus) thuộc Học viện Bạch Ốc, đang lâm vào cảnh thiếu người kế thừa nghiêm trọng."
+    },
+    {
+      "name_source": "三眼联盟",
+      "name_target": "Liên minh Tam Nhãn",
+      "type": "faction",
+      "description": "Phe phái học đồ trên tàu do Ant đứng đầu."
+    },
+    {
+      "name_source": "守护者联盟",
+      "name_target": "Liên minh Người Bảo Vệ",
+      "type": "faction",
+      "description": "Phe phái học đồ trên tàu do Robert đứng đầu."
+    },
+    {
+      "name_source": "劫掠者联盟",
+      "name_target": "Liên minh Kẻ Cướp Đoạt",
+      "type": "faction",
+      "description": "Phe phái học đồ trên tàu do Gara đứng đầu."
+    },
+    {
+      "name_source": "白巫",
+      "name_target": "Bạch Vu",
+      "type": "faction",
+      "description": "Tổ chức Bạch Vu sư."
+    },
+    {
+      "name_source": "新生互助会",
+      "name_target": "Hội Hỗ Trợ Tân Sinh",
+      "type": "faction",
+      "description": "Tổ chức do các học đồ mới thành lập để hỗ trợ nhau học tập."
+    },
+    {
+      "name_source": "黑巫师",
+      "name_target": "Hắc vu sư",
+      "type": "faction",
+      "description": "Tổ chức hoặc các Vu sư thuộc phe Hắc vu sư, nổi tiếng với sự tàn nhẫn và các học viện xây trên nghĩa địa."
+    },
+    {
+      "name_source": "黑屋",
+      "name_target": "Hắc Ốc",
+      "type": "faction",
+      "description": "Tổ chức Hắc vu sư đối địch trực tiếp với Học viện Bạch Ốc."
     }
   ],
   "weapons": [],
@@ -100,6 +142,36 @@
       "name_target": "Dược tể học",
       "type": "technique",
       "description": "Môn học nghiên cứu và điều chế dược tể."
+    },
+    {
+      "name_source": "树人召唤",
+      "name_target": "Triệu Hồi Người Cây",
+      "type": "technique",
+      "description": "Vu thuật triệu hồi một người cây để chiến đấu hoặc kéo dài thời gian."
+    },
+    {
+      "name_source": "次级能量火球",
+      "name_target": "Hỏa Cầu Năng Lượng Thứ Cấp",
+      "type": "technique",
+      "description": "Phép hỏa cầu cơ bản để tấn công kẻ địch."
+    },
+    {
+      "name_source": "云雾术",
+      "name_target": "Thuật Vân Vụ",
+      "type": "technique",
+      "description": "Vu thuật tạo ra濃霧 che mắt kẻ địch."
+    },
+    {
+      "name_source": "幻境破除",
+      "name_target": "Phá Trừ Huyễn Cảnh",
+      "type": "technique",
+      "description": "Vu thuật cấp không dùng để giải trừ ảo thuật, huyễn cảnh."
+    },
+    {
+      "name_source": "诅咒清除",
+      "name_target": "Thanh Trừ Nguyền Rủa",
+      "type": "technique",
+      "description": "Vu thuật cấp không dùng để thanh tẩy nguyền rủa."
     }
   ],
   "cultivation_systems": [],
@@ -200,6 +272,24 @@
       "name_source": "艾伦达尔的公共图书馆",
       "name_target": "thư viện công cộng Elendar",
       "description": "Nơi chứa đựng tri thức công cộng tại cảng Elendar."
+    },
+    {
+      "name_source": "苍白树林",
+      "name_target": "Rừng Cây Nhợt Nhạt",
+      "type": "location",
+      "description": "Nơi tọa lạc của Học viện Bạch Ốc."
+    },
+    {
+      "name_source": "苍白森林",
+      "name_target": "Rừng Cây Nhợt Nhạt",
+      "type": "location",
+      "description": "Khu rừng nằm ở ngoại vi Học viện Bạch Ốc, nơi có nhiều sinh vật biến dị do bức xạ ma lực tích tụ."
+    },
+    {
+      "name_source": "克罗恩萨山脉",
+      "name_target": "dãy núi Kroensa",
+      "type": "location",
+      "description": "Dãy núi có tin đồn xuất hiện mỏ ma thạch lớn, là nơi tranh chấp giữa Học viện Bạch Ốc và Hắc Ốc."
     }
   ],
   "world_map": {
@@ -275,6 +365,30 @@
       "name_target": "Cuộn giấy ma văn",
       "type": "item",
       "description": "Vật phẩm lưu trữ tri thức của Vu sư."
+    },
+    {
+      "name_source": "魔石",
+      "name_target": "ma thạch",
+      "type": "currency",
+      "description": "Tiền tệ chính của thế giới Vu sư."
+    },
+    {
+      "name_source": "青春药剂",
+      "name_target": "Dược tể Thanh Xuân",
+      "type": "item",
+      "description": "Dược phẩm khôi phục diện mạo thanh xuân."
+    },
+    {
+      "name_source": "精灵果",
+      "name_target": "Quả Tinh Linh",
+      "type": "item",
+      "description": "Quả biến dị giàu sinh mệnh lực, dùng làm nguyên liệu dược tể."
+    },
+    {
+      "name_source": "艾萨树根",
+      "name_target": "rễ cây Aisa",
+      "type": "item",
+      "description": "Nguyên liệu rễ cây ổn định dược lực."
     }
   ]
 }
