@@ -10,3 +10,23 @@
 - Chương 0008: Trận chiến đầu tiên
 - Chương 0009: Bóng ma chiến tranh
 - Chương 0010: Tiệc tối
+- Chương 0011: Phát hiện và săn bắn
+- Chương 0012: Phân tích và huấn luyện mô phỏng
+- Chương 0013: Ngày một nhanh hơn
+- Chương 0014: Biến động vương quốc, chạy trốn
+- Chương 0015: Chuẩn bị rời đi
+- Chương 0016: Trên đường đi, Vu sư, Minh tưởng pháp, truy kích
+- Chương 0017: Đêm tối buông xuống
+- Chương 0018: Giải quyết
+- Chương 0019: Hành trình dài đằng đẵng
+- Chương 0020: Đột phá kỵ sĩ. Vượt qua giới hạn
+- Chương 0021: Ám sát
+- Chương 0022: Tàn sát
+- Chương 0023: Rời khỏi hoang mạc, sắp đến nơi
+- Chương 0024: Vào thành
+- Chương 0025: Mua trang viên
+- Chương 0026: Tu luyện Minh tưởng pháp
+- Chương 0027: Hoa Thối Thối
+- Chương 0028: Bùng nổ
+- Chương 0029: Dược tể Sinh Mệnh
+- Chương 0030: Thử nghiệm

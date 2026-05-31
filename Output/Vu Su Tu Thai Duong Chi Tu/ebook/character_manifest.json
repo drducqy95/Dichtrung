@@ -2,8 +2,8 @@
   "metadata": {
     "branch": "Vu Su Tu Thai Duong Chi Tu",
     "book_title": "Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới",
-    "generated_at": "2026-05-31T20:13:58+07:00",
-    "total_characters": 322,
+    "generated_at": "2026-05-31T21:17:24+07:00",
+    "total_characters": 341,
     "style_tags": [
       "tây phương",
       "fantasy"
@@ -164,6 +164,18 @@
       "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/alost_scene.png",
       "portrait_prompt": "Portrait of Alost, a man character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Character context: Cường giả bậc bốn của Cao Đẳng Địa Tinh, sở hữu huyết mạch Trùng thú viễn cổ. Bị Ngô Minh giết chết.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
       "scene_prompt": "Full-body scene illustration of Alost (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Description: Cường giả bậc bốn của Cao Đẳng Địa Tinh, sở hữu huyết mạch Trùng thú viễn cổ. Bị Ngô Minh giết chết.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    },
+    {
+      "name_translated": "Alter",
+      "name_original": "艾特尔",
+      "role": "người tình nguyện thử thuốc từ khu ổ chuột",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/alter_portrait.png",
+      "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/alter_scene.png",
+      "portrait_prompt": "Portrait of Alter, a man character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Character context: Thanh niên nghèo khổ uống Dược tể Sinh Mệnh và gia tăng sức mạnh cơ bắp đạt giới hạn con người.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of Alter (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Description: Thanh niên nghèo khổ uống Dược tể Sinh Mệnh và gia tăng sức mạnh cơ bắp đạt giới hạn con người.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
       "asset_status": "prompt_ready"
     },
     {
@@ -419,6 +431,18 @@
       "asset_status": "prompt_ready"
     },
     {
+      "name_translated": "Candia",
+      "name_original": "坎迪亚",
+      "role": "secondary",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/candia_portrait.png",
+      "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/candia_scene.png",
+      "portrait_prompt": "Portrait of Candia, a man character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Character context: Một vị Nam tước tị nạn gia nhập đoàn xe của Clow ở cửa ngõ Hoang mạc Visas.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of Candia (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Description: Một vị Nam tước tị nạn gia nhập đoàn xe của Clow ở cửa ngõ Hoang mạc Visas.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    },
+    {
       "name_translated": "Cao Dã",
       "name_original": "高野",
       "role": "khác",
@@ -611,6 +635,18 @@
       "asset_status": "prompt_ready"
     },
     {
+      "name_translated": "Dark Roman",
+      "name_original": "达克·罗曼",
+      "role": "ông chủ thương hội uất kim hương",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/dark_roman_portrait.png",
+      "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/dark_roman_scene.png",
+      "portrait_prompt": "Portrait of Dark Roman, a man character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Character context: Thương nhân đứng đầu ngành nước hoa ở Elendar trước khi bị Grimm cạnh tranh.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of Dark Roman (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Description: Thương nhân đứng đầu ngành nước hoa ở Elendar trước khi bị Grimm cạnh tranh.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    },
+    {
       "name_translated": "Davindo",
       "name_original": "达芬铎",
       "role": "khác",
@@ -620,6 +656,30 @@
       "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/davindo_scene.png",
       "portrait_prompt": "Portrait of Davindo, a man character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Character context: Quản gia của Ngô Minh, do Tử Nha phái tới. Tinh thông quản trị, kế toán và công trình học.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
       "scene_prompt": "Full-body scene illustration of Davindo (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Description: Quản gia của Ngô Minh, do Tử Nha phái tới. Tinh thông quản trị, kế toán và công trình học.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    },
+    {
+      "name_translated": "Dean",
+      "name_original": "迪恩",
+      "role": "secondary",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/dean_portrait.png",
+      "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/dean_scene.png",
+      "portrait_prompt": "Portrait of Dean, a man character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Character context: Vệ binh lâu đài Clow đi theo đoàn xe di tản.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of Dean (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Description: Vệ binh lâu đài Clow đi theo đoàn xe di tản.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    },
+    {
+      "name_translated": "Deas",
+      "name_original": "迪斯",
+      "role": "secondary",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/deas_portrait.png",
+      "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/deas_scene.png",
+      "portrait_prompt": "Portrait of Deas, a man character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Character context: Giáo quan lớn tuổi chín chắn thuộc tiểu đội truy binh của Vương quốc Saladin, người nâng đỡ White.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of Deas (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Description: Giáo quan lớn tuổi chín chắn thuộc tiểu đội truy binh của Vương quốc Saladin, người nâng đỡ White.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
       "asset_status": "prompt_ready"
     },
     {
@@ -656,6 +716,18 @@
       "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/desha_scene.png",
       "portrait_prompt": "Portrait of Desha, a woman character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Visual traits: surrounded by black crows. Character context: Nữ Crow Men thực dụng, coi mình là bậc thang của Negary.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
       "scene_prompt": "Full-body scene illustration of Desha (woman) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Visual: surrounded by black crows. Description: Nữ Crow Men thực dụng, coi mình là bậc thang của Negary.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    },
+    {
+      "name_translated": "Dila",
+      "name_original": "迪拉",
+      "role": "assassin",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/dila_portrait.png",
+      "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/dila_scene.png",
+      "portrait_prompt": "Portrait of Dila, a man character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Character context: Sát thủ cấp kỵ sĩ của Tổ chức Ám Ảnh đồng hành cùng Wade.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of Dila (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Description: Sát thủ cấp kỵ sĩ của Tổ chức Ám Ảnh đồng hành cùng Wade.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
       "asset_status": "prompt_ready"
     },
     {
@@ -839,6 +911,18 @@
       "asset_status": "prompt_ready"
     },
     {
+      "name_translated": "Enfia",
+      "name_original": "恩菲亚",
+      "role": "staff",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/enfia_portrait.png",
+      "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/enfia_scene.png",
+      "portrait_prompt": "Portrait of Enfia, a man character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Character context: Nhân viên Thương hội Trec tại cảng Elendar, hướng dẫn Grimm mua trang viên.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of Enfia (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Description: Nhân viên Thương hội Trec tại cảng Elendar, hướng dẫn Grimm mua trang viên.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    },
+    {
       "name_translated": "Famine",
       "name_original": "饥荒",
       "role": "khác",
@@ -872,6 +956,18 @@
       "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/groske_scene.png",
       "portrait_prompt": "Portrait of Groske, a man character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Character context: Đại diện thương nhân Intercam, hỗ trợ hậu cần cho liên minh.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
       "scene_prompt": "Full-body scene illustration of Groske (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Description: Đại diện thương nhân Intercam, hỗ trợ hậu cần cho liên minh.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    },
+    {
+      "name_translated": "Hank",
+      "name_original": "汉克",
+      "role": "secondary",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/hank_portrait.png",
+      "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/hank_scene.png",
+      "portrait_prompt": "Portrait of Hank, a man character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Character context: Một kỵ sĩ thuộc tiểu đội truy binh kỵ sĩ của Vương quốc Saladin.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of Hank (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Description: Một kỵ sĩ thuộc tiểu đội truy binh kỵ sĩ của Vương quốc Saladin.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
       "asset_status": "prompt_ready"
     },
     {
@@ -1211,6 +1307,30 @@
       "asset_status": "prompt_ready"
     },
     {
+      "name_translated": "Karl",
+      "name_original": "卡尔",
+      "role": "secondary",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/karl_portrait.png",
+      "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/karl_scene.png",
+      "portrait_prompt": "Portrait of Karl, a man character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Character context: Đội trưởng tiểu đội truy binh kỵ sĩ của Vương quốc Saladin.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of Karl (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Description: Đội trưởng tiểu đội truy binh kỵ sĩ của Vương quốc Saladin.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    },
+    {
+      "name_translated": "Kerry",
+      "name_original": "克里",
+      "role": "knight_apprentice",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/kerry_portrait.png",
+      "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/kerry_scene.png",
+      "portrait_prompt": "Portrait of Kerry, a man character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Character context: Đội trưởng vệ binh của Nam tước Candia, đồng mưu đầu độc đoàn xe và bị Grimm tiêu diệt.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of Kerry (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Description: Đội trưởng vệ binh của Nam tước Candia, đồng mưu đầu độc đoàn xe và bị Grimm tiêu diệt.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    },
+    {
       "name_translated": "Kiều Ân",
       "name_original": "乔恩",
       "role": "khác",
@@ -1412,6 +1532,18 @@
       "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/los_scene.png",
       "portrait_prompt": "Portrait of Los, a woman character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Character context: Một Ác ma Thâm Uyên được Ngô Minh cứu và ký khế ước. Sau tiến hóa thành Luyện Ngục Nữ Yêu.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
       "scene_prompt": "Full-body scene illustration of Los (woman) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Description: Một Ác ma Thâm Uyên được Ngô Minh cứu và ký khế ước. Sau tiến hóa thành Luyện Ngục Nữ Yêu.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    },
+    {
+      "name_translated": "Lota Hãn",
+      "name_original": "洛塔汗",
+      "role": "secondary",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/lota_h_n_portrait.png",
+      "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/lota_h_n_scene.png",
+      "portrait_prompt": "Portrait of Lota Hãn, a man character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Character context: Đại công tước của Vương quốc Rodin.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of Lota Hãn (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Description: Đại công tước của Vương quốc Rodin.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
       "asset_status": "prompt_ready"
     },
     {
@@ -1883,6 +2015,30 @@
       "asset_status": "prompt_ready"
     },
     {
+      "name_translated": "Marco",
+      "name_original": "马可",
+      "role": "quản lý thương hội uất kim hương",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/marco_portrait.png",
+      "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/marco_scene.png",
+      "portrait_prompt": "Portrait of Marco, a man character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Character context: Cấp dưới thân cận của Dark Roman phụ trách điều tra tin tức.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of Marco (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Description: Cấp dưới thân cận của Dark Roman phụ trách điều tra tin tức.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    },
+    {
+      "name_translated": "Matt",
+      "name_original": "马特",
+      "role": "secondary",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/matt_portrait.png",
+      "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/matt_scene.png",
+      "portrait_prompt": "Portrait of Matt, a man character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Character context: Vệ binh lâu đài Clow đi theo đoàn xe di tản.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of Matt (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Description: Vệ binh lâu đài Clow đi theo đoàn xe di tản.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    },
+    {
       "name_translated": "Men",
       "name_original": "嫩枝女神",
       "role": "khác",
@@ -1916,6 +2072,18 @@
       "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/mia_scene.png",
       "portrait_prompt": "Portrait of Mia, a woman character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Character context: Họ hàng xa của Nam tước Clow, mẹ làm nữ hầu trưởng trong lâu đài.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
       "scene_prompt": "Full-body scene illustration of Mia (woman) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Description: Họ hàng xa của Nam tước Clow, mẹ làm nữ hầu trưởng trong lâu đài.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    },
+    {
+      "name_translated": "Mila",
+      "name_original": "米拉",
+      "role": "maid",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/mila_portrait.png",
+      "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/mila_scene.png",
+      "portrait_prompt": "Portrait of Mila, a woman character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Character context: Mẹ của Mia, cựu nữ hầu lâu đài của Nam tước Clow, bị Nam tước bỏ rơi ngoài thành và được Grimm thu nhận.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of Mila (woman) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Description: Mẹ của Mia, cựu nữ hầu lâu đài của Nam tước Clow, bị Nam tước bỏ rơi ngoài thành và được Grimm thu nhận.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
       "asset_status": "prompt_ready"
     },
     {
@@ -2660,6 +2828,18 @@
       "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/s_m_ng_k_scene.png",
       "portrait_prompt": "Portrait of Sở Mộng Kì, a woman character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
       "scene_prompt": "Full-body scene illustration of Sở Mộng Kì (woman) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    },
+    {
+      "name_translated": "Terris",
+      "name_original": "特瑞斯",
+      "role": "secondary",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/terris_portrait.png",
+      "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/terris_scene.png",
+      "portrait_prompt": "Portrait of Terris, a man character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Character context: Một kỵ sĩ thuộc tiểu đội truy binh kỵ sĩ của Vương quốc Saladin.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of Terris (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Description: Một kỵ sĩ thuộc tiểu đội truy binh kỵ sĩ của Vương quốc Saladin.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
       "asset_status": "prompt_ready"
     },
     {
@@ -3599,6 +3779,18 @@
       "asset_status": "prompt_ready"
     },
     {
+      "name_translated": "Wade",
+      "name_original": "韦德",
+      "role": "assassin",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/wade_portrait.png",
+      "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/wade_scene.png",
+      "portrait_prompt": "Portrait of Wade, a man character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Character context: Sát thủ cấp kỵ sĩ của Tổ chức Ám Ảnh bị Grimm bắt giữ.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of Wade (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Description: Sát thủ cấp kỵ sĩ của Tổ chức Ám Ảnh bị Grimm bắt giữ.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    },
+    {
       "name_translated": "Walton",
       "name_original": "沃尔顿",
       "role": "historical figure",
@@ -3632,6 +3824,42 @@
       "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/war_scene.png",
       "portrait_prompt": "Portrait of War, a man character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Character context: Nhân loại bất tử, một trong Thiên Khải Tứ Kỵ Sĩ. Cầm trọng kiếm hai tay.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
       "scene_prompt": "Full-body scene illustration of War (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Description: Nhân loại bất tử, một trong Thiên Khải Tứ Kỵ Sĩ. Cầm trọng kiếm hai tay.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    },
+    {
+      "name_translated": "Ward",
+      "name_original": "华德",
+      "role": "butler",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/ward_portrait.png",
+      "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/ward_scene.png",
+      "portrait_prompt": "Portrait of Ward, a man character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Character context: Quản gia của đoàn xe Baron Clow, chịu trách nhiệm chuẩn bị thức ăn và hậu cần.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of Ward (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Description: Quản gia của đoàn xe Baron Clow, chịu trách nhiệm chuẩn bị thức ăn và hậu cần.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    },
+    {
+      "name_translated": "White",
+      "name_original": "怀特",
+      "role": "secondary",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/white_portrait.png",
+      "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/white_scene.png",
+      "portrait_prompt": "Portrait of White, a man character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Visual traits: youthful appearance. Character context: Một kỵ sĩ trẻ tuổi tàn bạo thuộc tiểu đội truy binh của Vương quốc Saladin.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of White (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Visual: youthful appearance. Description: Một kỵ sĩ trẻ tuổi tàn bạo thuộc tiểu đội truy binh của Vương quốc Saladin.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    },
+    {
+      "name_translated": "Will",
+      "name_original": "威尔",
+      "role": "người tình nguyện thử thuốc từ khu ổ chuột",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/will_portrait.png",
+      "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/will_scene.png",
+      "portrait_prompt": "Portrait of Will, a man character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Character context: Người đàn ông trung niên mang dã tâm tham gia thí nghiệm để đạt được sức mạnh tối hạn.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of Will (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Description: Người đàn ông trung niên mang dã tâm tham gia thí nghiệm để đạt được sức mạnh tối hạn.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
       "asset_status": "prompt_ready"
     },
     {

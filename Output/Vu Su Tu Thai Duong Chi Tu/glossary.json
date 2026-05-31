@@ -3,8 +3,8 @@
     "version": "2.0",
     "schema": "gold",
     "branch": "Vu Su Tu Thai Duong Chi Tu",
-    "last_updated": "2026-05-31T20:13:57.964180+07:00",
-    "total_entries": 1295
+    "last_updated": "2026-05-31T21:13:13.809956+07:00",
+    "total_entries": 1337
   },
   "entries": [
     {
@@ -12821,7 +12821,13 @@
         "chapter_0007",
         "chapter_0008",
         "chapter_0009",
-        "chapter_0010"
+        "chapter_0010",
+        "chapter_0012",
+        "chapter_0018",
+        "chapter_0019",
+        "chapter_0020",
+        "chapter_0026",
+        "chapter_0029"
       ]
     },
     {
@@ -12846,7 +12852,9 @@
       "status": "auto-locked",
       "reviewed_chapters": [
         "chapter_0003",
-        "chapter_0007"
+        "chapter_0007",
+        "chapter_0011",
+        "chapter_0016"
       ]
     },
     {
@@ -12882,7 +12890,15 @@
       "reviewed_chapters": [
         "chapter_0004",
         "chapter_0006",
-        "chapter_0010"
+        "chapter_0010",
+        "chapter_0013",
+        "chapter_0014",
+        "chapter_0015",
+        "chapter_0016",
+        "chapter_0017",
+        "chapter_0019",
+        "chapter_0021",
+        "chapter_0024"
       ]
     },
     {
@@ -12917,7 +12933,9 @@
       "status": "auto-locked",
       "reviewed_chapters": [
         "chapter_0007",
-        "chapter_0008"
+        "chapter_0008",
+        "chapter_0019",
+        "chapter_0020"
       ]
     },
     {
@@ -12928,7 +12946,16 @@
       "context": "",
       "confidence": "1.0",
       "notes": "Vương quốc lớn nơi Grimm đang sinh sống.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0013",
+        "chapter_0014",
+        "chapter_0015",
+        "chapter_0023",
+        "chapter_0024",
+        "chapter_0025"
+      ]
     },
     {
       "source": "生命力结晶",
@@ -12948,7 +12975,19 @@
       "context": "",
       "confidence": "1.0",
       "notes": "Cấp bậc kỵ sĩ đỉnh cao của vương quốc.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0009",
+        "chapter_0013",
+        "chapter_0017",
+        "chapter_0019",
+        "chapter_0020",
+        "chapter_0021",
+        "chapter_0022",
+        "chapter_0028",
+        "chapter_0029"
+      ]
     },
     {
       "source": "圣骑士",
@@ -12958,7 +12997,12 @@
       "context": "",
       "confidence": "1.0",
       "notes": "Cấp bậc kỵ sĩ truyền thuyết trong lục địa.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0009",
+        "chapter_0020"
+      ]
     },
     {
       "source": "大骑士生命护罩",
@@ -12979,6 +13023,529 @@
       "confidence": "1.0",
       "notes": "Chức vụ chỉ huy và huấn luyện binh sĩ tại Lâu đài Clow.",
       "locked": false
+    },
+    {
+      "source": "山地暴熊",
+      "source_language": "zh",
+      "target": "Sơn địa bạo hùng",
+      "category": "beast",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Một loại gấu đen to lớn, hung dữ và có trí khôn cao sống ở vùng núi.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0011",
+        "chapter_0012",
+        "chapter_0013",
+        "chapter_0014"
+      ]
+    },
+    {
+      "source": "巴洛斯黑猪",
+      "source_language": "zh",
+      "target": "Heo đen Baros",
+      "category": "beast",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Loài lợn rừng khổng lồ có lớp da bùn giáp cực dày và cặp nanh sắc nhọn.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0011",
+        "chapter_0012"
+      ]
+    },
+    {
+      "source": "巫师传说",
+      "source_language": "zh",
+      "target": "Truyền thuyết Vu sư",
+      "category": "other",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Tên một cuốn sách chứa mật hiệu ẩn giấu trong thư viện lâu đài Clow.",
+      "locked": false
+    },
+    {
+      "source": "神秘大陆",
+      "source_language": "zh",
+      "target": "Lục địa bí ẩn",
+      "category": "other",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Tên một cuốn sách chứa mật hiệu ẩn giấu trong thư viện lâu đài Clow.",
+      "locked": false
+    },
+    {
+      "source": "心灵提升",
+      "source_language": "zh",
+      "target": "Thăng hoa tâm linh",
+      "category": "other",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Tên một cuốn sách chứa mật hiệu ẩn giấu trong thư viện lâu đài Clow.",
+      "locked": false
+    },
+    {
+      "source": "卡洛斯联盟",
+      "source_language": "zh",
+      "target": "Liên minh Carlos",
+      "category": "faction",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Một liên minh các quốc gia ven biển có thương mại phát triển và khoa học kỹ thuật tương đối phát triển.",
+      "locked": false
+    },
+    {
+      "source": "马斯联盟",
+      "source_language": "zh",
+      "target": "Liên minh Mas",
+      "category": "faction",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Một thế lực hoặc liên minh gần Vương quốc Saladin.",
+      "locked": false
+    },
+    {
+      "source": "白橡树港口",
+      "source_language": "zh",
+      "target": "cảng Bạch Sồi",
+      "category": "location",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Cảng giao dịch lương thực sầm uất thuộc Liên minh Mas.",
+      "locked": false
+    },
+    {
+      "source": "洛塔汗",
+      "source_language": "zh",
+      "target": "Lota Hãn",
+      "category": "character",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Đại công tước của Vương quốc Rodin.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0014",
+        "chapter_0015"
+      ]
+    },
+    {
+      "source": "狂暴山地巨熊",
+      "source_language": "zh",
+      "target": "Cuồng bạo sơn địa cự hùng",
+      "category": "beast",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Sinh vật cấp bá chủ (Đại kỵ sĩ) sâu trong dãy núi Annabur.",
+      "locked": false
+    },
+    {
+      "source": "紫荆花战役",
+      "source_language": "zh",
+      "target": "Chiến dịch Tử Kinh Hoa",
+      "category": "other",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Một chiến dịch quân sự trong quá khứ giữa Vương quốc Rodin và Vương quốc Saladin.",
+      "locked": false
+    },
+    {
+      "source": "安塞路斯",
+      "source_language": "zh",
+      "target": "ải Ancelus",
+      "category": "location",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Ải quan trọng biên cảnh bảo vệ Vương quốc Rodin.",
+      "locked": false
+    },
+    {
+      "source": "安塞露斯",
+      "source_language": "zh",
+      "target": "ải Ancelus",
+      "category": "location",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Cách viết khác của ải Ancelus.",
+      "locked": false
+    },
+    {
+      "source": "维萨斯平原",
+      "source_language": "zh",
+      "target": "Đồng bằng Visas",
+      "category": "location",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Khu vực bằng phẳng phía bắc dẫn tới Hoang mạc Visas.",
+      "locked": false
+    },
+    {
+      "source": "维萨斯荒原",
+      "source_language": "zh",
+      "target": "Hoang mạc Visas",
+      "category": "location",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Hoang mạc nhiều thổ phỉ nằm trên con đường tới Liên minh Maslow.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0015",
+        "chapter_0017",
+        "chapter_0019",
+        "chapter_0020",
+        "chapter_0022",
+        "chapter_0023"
+      ]
+    },
+    {
+      "source": "马斯洛联盟",
+      "source_language": "zh",
+      "target": "Liên minh Maslow",
+      "category": "faction",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Một liên minh thương mại lớn có cơ cấu chính trị dạng hội đồng nghị viện siêu nhiên.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0015",
+        "chapter_0019",
+        "chapter_0023",
+        "chapter_0024",
+        "chapter_0025"
+      ]
+    },
+    {
+      "source": "马洛斯联盟",
+      "source_language": "zh",
+      "target": "Liên minh Maslow",
+      "category": "faction",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Cách viết khác của Liên minh Maslow trong nguyên tác.",
+      "locked": false
+    },
+    {
+      "source": "艾伦达尔港",
+      "source_language": "zh",
+      "target": "cảng Elendar",
+      "category": "location",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Cảng khẩu giao thương sầm uất và lớn nhất của Liên minh Maslow.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0015",
+        "chapter_0016",
+        "chapter_0023",
+        "chapter_0024",
+        "chapter_0025",
+        "chapter_0027",
+        "chapter_0029",
+        "chapter_0030"
+      ]
+    },
+    {
+      "source": "艾伦达尔",
+      "source_language": "zh",
+      "target": "Elendar",
+      "category": "location",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Thành phố cảng sầm uất Elendar thuộc Liên minh Maslow.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0015",
+        "chapter_0016",
+        "chapter_0023",
+        "chapter_0024",
+        "chapter_0025",
+        "chapter_0027",
+        "chapter_0028",
+        "chapter_0029",
+        "chapter_0030"
+      ]
+    },
+    {
+      "source": "白屋学院",
+      "source_language": "zh",
+      "target": "Học viện Bạch Ốc",
+      "category": "faction",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Một tổ chức Bạch Vu sư ở Đông hải ngạn của thế giới Vu sư.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0016",
+        "chapter_0026",
+        "chapter_0027"
+      ]
+    },
+    {
+      "source": "巫师学徒",
+      "source_language": "zh",
+      "target": "Vu sư học đồ",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Giai đoạn học đồ trước khi trở thành Vu sư chính thức.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0016",
+        "chapter_0029"
+      ]
+    },
+    {
+      "source": "正式巫师",
+      "source_language": "zh",
+      "target": "Vu sư chính thức",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Vu sư đã hoàn thành đột phá từ giai đoạn học đồ.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0016",
+        "chapter_0029"
+      ]
+    },
+    {
+      "source": "基础冥想法",
+      "source_language": "zh",
+      "target": "Minh Tưởng Pháp Cơ Bản",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Phương pháp thiền định/minh tưởng cơ bản của Học viện Bạch Ốc.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0016",
+        "chapter_0019",
+        "chapter_0026"
+      ]
+    },
+    {
+      "source": "暗影组织",
+      "source_language": "zh",
+      "target": "Tổ chức Ám Ảnh",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tổ chức sát thủ trung gian đăng bảng treo thưởng ám sát.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0022",
+        "chapter_0028"
+      ]
+    },
+    {
+      "source": "曼德拉花",
+      "source_language": "zh",
+      "target": "hoa Mandragora",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Loài hoa săn mồi đầm lầy chứa độc tố gây ảo giác mạnh.",
+      "locked": false
+    },
+    {
+      "source": "特里克行会",
+      "source_language": "zh",
+      "target": "Thương hội Trec",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tổ chức thương mại/môi giới bất động sản tại cảng Elendar.",
+      "locked": false
+    },
+    {
+      "source": "公共图书馆",
+      "source_language": "zh",
+      "target": "thư viện công cộng",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Nơi Grimm dự định thu thập kiến thức tại cảng Elendar.",
+      "locked": false
+    },
+    {
+      "source": "精神力",
+      "source_language": "zh",
+      "target": "tinh thần lực",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thuộc tính năng lượng tinh thần của Vu sư học đồ.",
+      "locked": false
+    },
+    {
+      "source": "符文",
+      "source_language": "zh",
+      "target": "phù văn",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Cấu trúc lập phương ba chiều được xây dựng trong não bộ để cố định tinh thần lực.",
+      "locked": false
+    },
+    {
+      "source": "三等学徒",
+      "source_language": "zh",
+      "target": "học đồ cấp ba",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Cấp độ học đồ Vu sư thấp nhất, cần cố định 6 phù văn.",
+      "locked": false
+    },
+    {
+      "source": "二等学徒",
+      "source_language": "zh",
+      "target": "học đồ cấp hai",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Cấp độ học đồ Vu sư trung cấp, cần cố định 12 phù văn.",
+      "locked": false
+    },
+    {
+      "source": "一等学徒",
+      "source_language": "zh",
+      "target": "học đồ cấp một",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Cấp độ học đồ Vu sư cao cấp nhất, cần cố định 18 phù văn.",
+      "locked": false
+    },
+    {
+      "source": "巫术",
+      "source_language": "zh",
+      "target": "vu thuật",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Phép thuật/ma thuật sử dụng bởi các Vu sư.",
+      "locked": false
+    },
+    {
+      "source": "臭臭花",
+      "source_language": "zh",
+      "target": "hoa Thối Thối",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Loại thực vật biến dị do Grimm nghiên cứu, mùi hương cực kỳ thanh khiết nhưng có tính gây ảo giác mạnh.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0028",
+        "chapter_0029"
+      ]
+    },
+    {
+      "source": "饥饿营销",
+      "source_language": "zh",
+      "target": "tiếp thị đói",
+      "category": "concept",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Chiến thuật marketing tạo ra sự khan hiếm giả tạo để kích thích nhu cầu mua sắm.",
+      "locked": false
+    },
+    {
+      "source": "提督",
+      "source_language": "zh",
+      "target": "Đề đốc",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Chức danh thống đốc quân sự đứng đầu cảng Elendar.",
+      "locked": false
+    },
+    {
+      "source": "琥珀梦境",
+      "source_language": "zh",
+      "target": "Hổ Phách Mộng Cảnh",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một trong ba dòng nước hoa do Grimm pha chế, có màu hổ phách.",
+      "locked": false
+    },
+    {
+      "source": "晨曦之光",
+      "source_language": "zh",
+      "target": "Thần Hy Chi Quang",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một trong ba dòng nước hoa do Grimm pha chế, có màu vàng nhạt.",
+      "locked": false
+    },
+    {
+      "source": "紫罗兰的心愿",
+      "source_language": "zh",
+      "target": "Tử La Lan Chi Nguyện",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một trong ba dòng nước hoa do Grimm pha chế, có màu tím nhạt.",
+      "locked": false
+    },
+    {
+      "source": "生命药剂",
+      "source_language": "zh",
+      "target": "Dược tể Sinh Mệnh",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thuốc dịch cung cấp năng lượng sinh mệnh phục hồi cơ thể và tăng tỷ lệ đột phá kỵ sĩ.",
+      "locked": false
+    },
+    {
+      "source": "巫师之手",
+      "source_language": "zh",
+      "target": "Bàn tay Vu sư",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một loại vu thuật cơ bản hỗ trợ đắc lực cho việc làm thí nghiệm.",
+      "locked": false
+    },
+    {
+      "source": "海洛斯寄生虫",
+      "source_language": "zh",
+      "target": "Ký sinh trùng Hailos",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Loài ký sinh trùng trên cơ thể cá voi lớn có khả năng hồi phục sinh mệnh cực mạnh.",
+      "locked": false
+    },
+    {
+      "source": "艾伦达尔港口",
+      "target": "cảng Elendar",
+      "category": "reviewed",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0023",
+        "chapter_0024",
+        "chapter_0025",
+        "chapter_0029",
+        "chapter_0030"
+      ]
     }
   ]
 }

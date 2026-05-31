@@ -9,6 +9,36 @@
       "name_source": "洛丁王国",
       "name_target": "Vương quốc Rodin",
       "description": "Vương quốc lớn nơi Grimm đang sinh sống."
+    },
+    {
+      "name_source": "马斯联盟",
+      "name_target": "Liên minh Mas",
+      "description": "Liên minh thương mại nơi cảng Bạch Sồi tọa lạc."
+    },
+    {
+      "name_source": "马斯洛联盟",
+      "name_target": "Liên minh Maslow",
+      "description": "Liên minh thương mại lớn được vận hành bởi cơ cấu hội đồng nghị viện."
+    },
+    {
+      "name_source": "白屋学院",
+      "name_target": "Học viện Bạch Ốc",
+      "description": "Tổ chức Bạch Vu sư ở Đông hải ngạn thế giới Vu sư."
+    },
+    {
+      "name_source": "暗影组织",
+      "name_target": "Tổ chức Ám Ảnh",
+      "description": "Nền tảng liên kết sát thủ lỏng lẻo chuyên đăng bảng treo thưởng ám sát."
+    },
+    {
+      "name_source": "特里克行会",
+      "name_target": "Thương hội Trec",
+      "description": "Thương hội lớn chuyên quản lý và giao dịch bất động sản ở cảng Elendar."
+    },
+    {
+      "name_source": "郁金香商行",
+      "name_target": "thương hội Uất Kim Hương",
+      "description": "Thương hội lớn nhất thống trị thị trường nước hoa tại Elendar trước khi bị Grimm đánh bại."
     }
   ],
   "weapons": [],
@@ -32,6 +62,26 @@
       "name_source": "大骑士生命护罩",
       "name_target": "lá chắn sinh mệnh Đại kỵ sĩ",
       "description": "Bảo hộ sinh mệnh lực của Đại kỵ sĩ được lưu trữ trên vật liệu đặc biệt, khi kích hoạt tạo ra hộ thể bảo vệ trong thời gian ngắn."
+    },
+    {
+      "name_source": "基础冥想法",
+      "name_target": "Minh Tưởng Pháp Cơ Bản",
+      "description": "Minh tưởng pháp căn bản do Học viện Bạch Ốc chế tác."
+    },
+    {
+      "name_source": "巫术",
+      "name_target": "vu thuật",
+      "description": "Các phép thuật đặc thù của giới Vu sư học đồ và chính thức."
+    },
+    {
+      "name_source": "饥饿营销",
+      "name_target": "tiếp thị đói",
+      "description": "Phương pháp bán hàng dựa trên việc hạn chế nguồn cung để tăng giá trị sản phẩm."
+    },
+    {
+      "name_source": "巫师之手",
+      "name_target": "Bàn tay Vu sư",
+      "description": "Vu thuật cơ bản hỗ trợ đắc lực cho các thí nghiệm của Vu sư."
     }
   ],
   "cultivation_systems": [],
@@ -45,6 +95,16 @@
       "name_source": "生命力结晶",
       "name_target": "tinh thể sinh mệnh lực",
       "description": "Kết tinh năng lượng trân quý, thường sinh ra từ các vật phẩm siêu phàm bảo mệnh bị phá hủy, giúp tăng cường trực tiếp thuộc tính thể chất."
+    },
+    {
+      "name_source": "精神力",
+      "name_target": "tinh thần lực",
+      "description": "Lực lượng tinh thần được đo lường bằng số lượng phù văn cố định trong não bộ của Vu sư học đồ."
+    },
+    {
+      "name_source": "符文",
+      "name_target": "phù văn",
+      "description": "Cấu trúc lập thể ba chiều dùng để cố định tinh thần lực trong não bộ."
     }
   ],
   "power_ranking": {
@@ -72,6 +132,56 @@
       "name_source": "克洛男爵领",
       "name_target": "Lãnh địa Nam tước Clow",
       "description": "Lãnh địa phong kiến do Nam tước Clow quản lý thuộc Vương quốc Rodin."
+    },
+    {
+      "name_source": "白橡树港口",
+      "name_target": "cảng Bạch Sồi",
+      "description": "Cảng khẩu thuộc Liên minh Mas."
+    },
+    {
+      "name_source": "安塞路斯",
+      "name_target": "ải Ancelus",
+      "description": "Ải quan trọng biên cảnh bảo vệ Vương quốc Rodin."
+    },
+    {
+      "name_source": "维萨斯平原",
+      "name_target": "Đồng bằng Visas",
+      "description": "Khu vực đồng bằng phía bắc."
+    },
+    {
+      "name_source": "维萨斯荒原",
+      "name_target": "Hoang mạc Visas",
+      "description": "Khu vực hoang mạc đầy thổ phỉ nối liền cảng Elendar."
+    },
+    {
+      "name_source": "艾伦达尔港",
+      "name_target": "cảng Elendar",
+      "description": "Cảng khẩu thương mại lớn nhất của Liên minh Maslow."
+    },
+    {
+      "name_source": "港口区",
+      "name_target": "khu vực cảng",
+      "description": "Phân khu neo đậu tàu thuyền nhộn nhịp, nguồn sống của Elendar."
+    },
+    {
+      "name_source": "城市区",
+      "name_target": "khu vực thành thị",
+      "description": "Trung tâm giao thương kinh tế của cảng Elendar."
+    },
+    {
+      "name_source": "中央区",
+      "name_target": "khu trung ương",
+      "description": "Phân khu trung tâm an toàn của cảng Elendar, nơi đặt cơ cấu giao dịch trang viên."
+    },
+    {
+      "name_source": "城东",
+      "name_target": "phía đông thành",
+      "description": "Khu vực phía đông cảng Elendar, nơi Grimm chọn mua trang viên."
+    },
+    {
+      "name_source": "艾伦达尔的公共图书馆",
+      "name_target": "thư viện công cộng Elendar",
+      "description": "Nơi chứa đựng tri thức công cộng tại cảng Elendar."
     }
   ],
   "world_map": {
@@ -96,6 +206,51 @@
       "name_source": "超智能芯片",
       "name_target": "Chip siêu trí tuệ",
       "description": "Chip lượng tử có khả năng lưu trữ tri thức cực lớn và phân tích dữ liệu siêu cấp."
+    },
+    {
+      "name_source": "混合毒素",
+      "name_target": "chất độc hỗn hợp",
+      "description": "Độc dược pha chế từ nọc rắn, nấm độc và thảo dược do Grimm điều chế nhờ sự hỗ trợ của chip Chân Lý, có tác dụng làm tê liệt cơ bắp kỵ sĩ chính thức."
+    },
+    {
+      "name_source": "引火棒",
+      "name_target": "thanh mồi lửa",
+      "description": "Thiết bị trữ lửa phổ biến của thế giới này, tương tự như ống mồi lửa hoặc diêm, dùng làm đơn vị chuẩn để đo lường năng lượng giải phóng (1 độ = 3.2 * 10^5 Joules)."
+    },
+    {
+      "name_source": "曼德拉花",
+      "name_target": "hoa Mandragora",
+      "description": "Loài hoa ăn thịt đầm lầy, tích lũy độc tố không màu không mùi gây ảo giác cực mạnh."
+    },
+    {
+      "name_source": "臭臭花",
+      "name_target": "hoa Thối Thối",
+      "description": "Loài hoa biến dị có thân trắng bệch vẽ vân đỏ như mạch máu, tỏa hương thơm có độc tính gây ảo giác mạnh."
+    },
+    {
+      "name_source": "琥珀梦境",
+      "name_target": "Hổ Phách Mộng Cảnh",
+      "description": "Nước hoa cao cấp giúp giải tỏa tinh thần."
+    },
+    {
+      "name_source": "晨曦之光",
+      "name_target": "Thần Hy Chi Quang",
+      "description": "Nước hoa cao cấp giúp tinh thần phấn chấn."
+    },
+    {
+      "name_source": "紫罗兰的心愿",
+      "name_target": "Tử La Lan Chi Nguyện",
+      "description": "Nước hoa cao cấp mang hương gỗ trầm ấm tĩnh lặng."
+    },
+    {
+      "name_source": "生命药剂",
+      "name_target": "Dược tể Sinh Mệnh",
+      "description": "Thuốc dịch màu xanh ngọc bích giúp phục hồi vết thương và tăng khả năng đột phá kỵ sĩ."
+    },
+    {
+      "name_source": "海洛斯寄生虫",
+      "name_target": "Ký sinh trùng Hailos",
+      "description": "Ký sinh trùng sống trên cơ thể cá voi lớn có khả năng biến đổi bản thân giải phóng sinh mệnh lực."
     }
   ]
 }
