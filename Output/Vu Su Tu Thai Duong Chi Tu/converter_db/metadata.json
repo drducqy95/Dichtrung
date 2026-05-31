@@ -1,0 +1,26 @@
+{
+  "branch": "Vu Su Tu Thai Duong Chi Tu",
+  "project_name": "Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới",
+  "display_title": "Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới",
+  "author": "Hỉ Hoan Tất Thị Đích Hà Kì",
+  "genre": "western_fiction",
+  "sub_genre": "fantasy",
+  "backdrop": "Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng hô trang trọng, phép thuật, thí nghiệm di truyền học.",
+  "summary": "Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng hô trang trọng, phép thuật, thí nghiệm di truyền học.",
+  "notes": "Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng hô trang trọng, phép thuật, thí nghiệm di truyền học.",
+  "source_ref": {
+    "full": "Source/Source full/Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới_Hỉ Hoan Tất Thị Đích Hà Kì (1).txt",
+    "split": "Source/Source split/Vu Su Tu Thai Duong Chi Tu/",
+    "description": "Source nam o thu muc goc, KHONG copy vao branch"
+  },
+  "completed_chapters": 10,
+  "total_chapters": 915,
+  "output_filename_pattern_display": "Chương {chapter:04d}: {title}.md",
+  "output_filename_pattern_filesystem": "Chương {chapter:04d} - {title}.md",
+  "output_filename_constraint_note": "Windows không cho phép ký tự ':' trong tên file, vì vậy pattern lưu trên đĩa dùng dấu gạch ngang.",
+  "style_tags": [
+    "tây phương",
+    "fantasy"
+  ],
+  "generated_at": "2026-05-31T20:13:58+07:00"
+}

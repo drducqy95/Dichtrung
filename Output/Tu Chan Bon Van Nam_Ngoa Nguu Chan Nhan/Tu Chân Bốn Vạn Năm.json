@@ -1,0 +1,32 @@
+{
+  "project_identity": {
+    "name": "Tu Chân Bốn Vạn Năm",
+    "description": "",
+    "version": "0.1.0",
+    "created_at": "2026-05-31T19:37:07.543613",
+    "root_path": "./src"
+  },
+  "tech_stack": {
+    "language": "",
+    "version": "",
+    "dependency": "",
+    "framework": "",
+    "database": "",
+    "orm": "",
+    "test_runner": ""
+  },
+  "architecture_rules": {
+    "pattern": "Clean Architecture",
+    "layers": [
+      "domain",
+      "use_cases",
+      "infrastructure",
+      "interfaces"
+    ],
+    "banned_modules": []
+  },
+  "environment_context": {
+    "sandbox_mode": "local",
+    "docker_image": ""
+  }
+}

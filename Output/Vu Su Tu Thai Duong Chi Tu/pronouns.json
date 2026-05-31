@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "last_updated": "2026-05-31T12:47:30Z"
+  },
+  "pronouns": [
+    {
+      "id": "western-wizard-formal",
+      "label": "Western Wizard Formal",
+      "scope": "global",
+      "self_form": "tôi",
+      "other_form": "ngài/ngài tế/vị này",
+      "relationship": "formal",
+      "genre_tags": [
+        "western_fiction",
+        "fantasy"
+      ],
+      "contexts": [
+        "wizard_academy",
+        "courtly",
+        "default"
+      ],
+      "notes": "Wizard formal address for teachers, masters, or high status magicians.",
+      "source_projects": [],
+      "priority": 60
+    },
+    {
+      "id": "knight-lord-hierarchy",
+      "label": "Knight to Lord Hierarchy",
+      "scope": "global",
+      "self_form": "tôi/thuộc hạ",
+      "other_form": "chúa tể/lãnh chúa/điện hạ",
+      "relationship": "vassal_lord",
+      "genre_tags": [
+        "western_fiction",
+        "fantasy"
+      ],
+      "contexts": [
+        "aristocracy",
+        "military"
+      ],
+      "notes": "Knight or soldier addressing their master or liege lord.",
+      "source_projects": [],
+      "priority": 75
+    },
+    {
+      "id": "wizard-peers",
+      "label": "Wizard Peers",
+      "scope": "global",
+      "self_form": "ta",
+      "other_form": "ngươi",
+      "relationship": "neutral",
+      "genre_tags": [
+        "western_fiction",
+        "fantasy"
+      ],
+      "contexts": [
+        "dialogue",
+        "peers"
+      ],
+      "notes": "Peer magicians or wizards addressing each other in conflict or casual research context.",
+      "source_projects": [],
+      "priority": 50
+    }
+  ]
+}

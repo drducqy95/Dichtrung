@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "branch": "Vu Su Tu Thai Duong Chi Tu",
+    "project_title": "Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới",
+    "generated_at": "2026-05-31T20:13:58+07:00"
+  },
+  "sample": {
+    "chapter_number": 1,
+    "chapter_title": "Xuyên không",
+    "source_output_file": "output/Chương 0001 - Xuyên không.md",
+    "display_output_filename": "Chương 0001: Xuyên không.md",
+    "filesystem_output_filename": "Chương 0001 - Xuyên không.md",
+    "base_excerpt": "Chương 1: Xuyên không\n\n(PS: Nếu mọi người có chỗ nào cần sửa lỗi, vui lòng @tôi, nếu không tôi sẽ không thấy tin nhắn! Thêm tin nhắn này vào ngày 9 tháng 9 năm 2025.)",
+    "style_tags": [
+      "tây phương",
+      "fantasy"
+    ]
+  },
+  "variants": [
+    {
+      "style_id": "smooth_standard",
+      "style_name": "Mượt tiêu chuẩn",
+      "purpose": "Giữ nghĩa và nhịp kể tự nhiên, phù hợp làm bản chuẩn đối chiếu.",
+      "rewrite": "Chương 1: Xuyên không\n\n(PS: Nếu mọi người có chỗ nào cần sửa lỗi, vui lòng @tôi, nếu không tôi sẽ không thấy tin nhắn! Thêm tin nhắn này vào ngày 9 tháng 9 năm 2025.)"
+    },
+    {
+      "style_id": "cinematic_fast",
+      "style_name": "Điện ảnh nhịp nhanh",
+      "purpose": "Ưu tiên nhịp cắt cảnh nhanh, câu ngắn và độ bật của tình huống.",
+      "rewrite": "Chương 1: Xuyên không  (PS: Nếu mọi người có chỗ nào cần sửa lỗi, vui lòng @tôi, nếu không tôi sẽ không thấy tin nhắn! Thêm tin nhắn này vào ngày 9 tháng 9 năm 2025.)"
+    },
+    {
+      "style_id": "cold_interior",
+      "style_name": "Sắc lạnh nội tâm",
+      "purpose": "Kéo tiêu điểm vào cảm giác bị dồn ép hoặc nhận thức lạnh đi của nhân vật.",
+      "rewrite": "nhân vật chính không còn đứng ngoài biến cố ấy nữa. Chương 1: Xuyên không  (PS: Nếu mọi người có chỗ nào cần sửa lỗi, vui lòng @tôi, nếu không tôi sẽ không thấy tin nhắn! Thêm tin nhắn này vào ngày 9 tháng 9 năm 2025.) Không khí lạnh và khép lại, đúng với tông tây phương, fantasy mà chương này cần giữ."
+    },
+    {
+      "style_id": "signature_branch",
+      "style_name": "Giọng chuẩn hóa",
+      "purpose": "Giữ giọng kể ổn định và bám sát metadata của branch.",
+      "rewrite": "Chương 1: Xuyên không (PS: Nếu mọi người có chỗ nào cần sửa lỗi, vui lòng @tôi, nếu không tôi sẽ không thấy tin nhắn! Thêm tin nhắn này vào ngày 9 tháng 9 năm 2025.) Chương 1: Xuyên không  (PS: Nếu mọi người có chỗ nào cần sửa lỗi, vui lòng @tôi, nếu không tôi sẽ không thấy tin nhắn! Đoạn văn nên giữ nhịp rõ ràng và thống nhất với dữ liệu branch."
+    }
+  ]
+}

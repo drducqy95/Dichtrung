@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "project_title": "Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới",
+    "generated_at": "2026-05-31T20:13:58+07:00"
+  },
+  "requirements": {
+    "toc_required": true,
+    "illustrations_required": true
+  },
+  "cover": {
+    "status": "prompt_ready",
+    "asset_candidates": [],
+    "slot_paths": [
+      "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/cover/cover.jpg",
+      "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/cover/cover.png",
+      "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/cover/cover.webp",
+      "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/cover/cover.jpeg"
+    ],
+    "preferred_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/cover/cover.jpg",
+    "prompt": "Vertical book cover ratio 6:9. Cinematic composition, hyper-detailed, 8k resolution. [BỐ CỤC CHỮ]: The title 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới' is written in LARGE, massive typography perfectly centered. The author name 'Hỉ Hoan Tất Thị Đích Hà Kì' is written in smaller, elegant text neatly placed near the title. Typography style: Epic and modern font. [SẮC THÁI]: tây phương, fantasy. [BỐ CẢNH]: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng hô trang trọng, phép thuật, thí nghiệm di truyền học."
+  },
+  "sample_chapter": {
+    "chapter_number": 1,
+    "chapter_title": "Xuyên không",
+    "prompt": "Cảnh minh họa đại diện cho Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới, bám theo bối cảnh: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng hô trang trọng, phép thuật, thí nghiệm di truyền học.",
+    "asset_candidates": []
+  },
+  "supplementary_assets": {
+    "maps": [],
+    "characters": [],
+    "diagrams": []
+  },
+  "character_manifest": {
+    "path": "ebook/character_manifest.json",
+    "status": "generated",
+    "total_characters": 321
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "project_name": "Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới",
+  "source_language": "zh",
+  "target_language": "vi",
+  "genre": "western_fiction",
+  "sub_genre": "fantasy",
+  "name_setting": "keep_original",
+  "translation_rules": {
+    "style": "High-precision Hán-Việt for spells, arrays, and magic tiers, natural Vietnamese flow, keep Western names original in Latin or translate to standard English names if the author used them, rather than Hán-Việt transcription.",
+    "proper_names_handling": "Original names format. Prioritize standard Western names (e.g., Leylin, Robin) instead of transcribing them into Han-Viet (e.g. Lôi Lâm, La Tân) where appropriate.",
+    "forbidden_content": [
+      "Inline Chinese characters for non-proper names",
+      "Inline English explanations in brackets"
+    ],
+    "annotation_style": "Add a 'Chú thích' section at the end of the chapter for necessary terms and proper names",
+    "honorifics_handling": "Translate to appropriate Vietnamese social hierarchy terms, matching a wizard academy and aristocratic hierarchy",
+    "technical_terms": "Use consistent Vietnamese equivalents from glossary"
+  },
+  "pronoun_mode": "hybrid",
+  "reflection_max_iterations": 3,
+  "created_at": "2026-05-31T12:47:30Z",
+  "last_updated": "2026-05-31T20:13:58+07:00",
+  "total_chapters": 915,
+  "notes": "Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng hô trang trọng, phép thuật, thí nghiệm di truyền học.",
+  "source_ref": {
+    "full": "Source/Source full/Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới_Hỉ Hoan Tất Thị Đích Hà Kì (1).txt",
+    "split": "Source/Source split/Vu Su Tu Thai Duong Chi Tu/",
+    "description": "Source nam o thu muc goc, KHONG copy vao branch"
+  },
+  "project_branch": "Vu Su Tu Thai Duong Chi Tu",
+  "display_title": "Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới",
+  "display_author": "Hỉ Hoan Tất Thị Đích Hà Kì",
+  "output_filename_pattern_display": "Chương {chapter:04d}: {title}.md",
+  "output_filename_pattern_filesystem": "Chương {chapter:04d} - {title}.md",
+  "readme_path": "Output/Vu Su Tu Thai Duong Chi Tu/README.md",
+  "sanitization": {
+    "ban_cjk_in_output": true,
+    "cjk_check_mode": "error"
+  },
+  "database_support": {
+    "enabled": true,
+    "converter_root": "Output/Vu Su Tu Thai Duong Chi Tu/converter_db/",
+    "metadata_file": "Output/Vu Su Tu Thai Duong Chi Tu/converter_db/metadata.json",
+    "style_variants_index": "Output/Vu Su Tu Thai Duong Chi Tu/converter_db/style_variants.json",
+    "style_variants_dir": "Output/Vu Su Tu Thai Duong Chi Tu/converter_db/style_variants/",
+    "chapter_cards_dir": "Output/Vu Su Tu Thai Duong Chi Tu/converter_db/chapter_cards/",
+    "exports_dir": "Output/Vu Su Tu Thai Duong Chi Tu/converter_db/exports/"
+  },
+  "ebook_requirements": {
+    "toc_required": true,
+    "illustrations_required": true,
+    "toc_file": "Output/Vu Su Tu Thai Duong Chi Tu/ebook/toc.md",
+    "illustration_manifest_file": "Output/Vu Su Tu Thai Duong Chi Tu/ebook/illustration_manifest.json"
+  },
+  "narrator_pronoun_guide": "Use standard objective third-person narration style. Match Vietnamese storytelling tradition for Western fantasy.",
+  "output_filename_constraint_note": "Windows không cho phép ký tự ':' trong tên file, vì vậy pattern lưu trên đĩa dùng dấu gạch ngang."
+}

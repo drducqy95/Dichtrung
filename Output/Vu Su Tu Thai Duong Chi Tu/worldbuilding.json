@@ -1,0 +1,101 @@
+{
+  "factions": [
+    {
+      "name_source": "萨拉丁王国",
+      "name_target": "Vương quốc Saladin",
+      "description": "Vương quốc thù địch láng giềng với Vương quốc Rodin, đang dòm ngó bờ cõi."
+    },
+    {
+      "name_source": "洛丁王国",
+      "name_target": "Vương quốc Rodin",
+      "description": "Vương quốc lớn nơi Grimm đang sinh sống."
+    }
+  ],
+  "weapons": [],
+  "techniques": [
+    {
+      "name_source": "骑士呼吸法",
+      "name_target": "Hô hấp pháp Kỵ sĩ",
+      "description": "Phương pháp tu luyện giúp hình thành hạt giống sinh mệnh để đạt sức mạnh siêu phàm."
+    },
+    {
+      "name_source": "基础剑术",
+      "name_target": "Kiếm thuật cơ bản",
+      "description": "Các động tác kiếm thuật cơ bản như chém, đâm, né tránh, đỡ đòn."
+    },
+    {
+      "name_source": "风暴呼吸法",
+      "name_target": "Phong Bạo Hô Hấp Pháp",
+      "description": "Môn Hô Hấp Pháp do lão Grimm truyền thụ, giúp ngưng tụ năng lượng ngoại giới như cuồng phong, sức mạnh vượt bậc nhưng tiềm ẩn rủi ro tử vong cao khi đột phá."
+    },
+    {
+      "name_source": "大骑士生命护罩",
+      "name_target": "lá chắn sinh mệnh Đại kỵ sĩ",
+      "description": "Bảo hộ sinh mệnh lực của Đại kỵ sĩ được lưu trữ trên vật liệu đặc biệt, khi kích hoạt tạo ra hộ thể bảo vệ trong thời gian ngắn."
+    }
+  ],
+  "cultivation_systems": [],
+  "cultivation_resources": [
+    {
+      "name_source": "生命种子",
+      "name_target": "Hạt giống sinh mệnh",
+      "description": "Hạt nhân sinh mệnh lực hình thành nơi tim của Kỵ sĩ học đồ, làm cơ sở để đột phá lên Kỵ sĩ chính thức."
+    },
+    {
+      "name_source": "生命力结晶",
+      "name_target": "tinh thể sinh mệnh lực",
+      "description": "Kết tinh năng lượng trân quý, thường sinh ra từ các vật phẩm siêu phàm bảo mệnh bị phá hủy, giúp tăng cường trực tiếp thuộc tính thể chất."
+    }
+  ],
+  "power_ranking": {
+    "last_updated_chapter": 0,
+    "notes": "",
+    "ranking": []
+  },
+  "locations": [
+    {
+      "name_source": "洛丁王国",
+      "name_target": "Vương quốc Rodin",
+      "description": "Vương quốc lớn nơi Grimm đang sinh sống."
+    },
+    {
+      "name_source": "奥斯菲尔大陆",
+      "name_target": "Lục địa Osfiel",
+      "description": "Đại lục bối cảnh thời trung cổ phương Tây."
+    },
+    {
+      "name_source": "纳森河",
+      "name_target": "Sông Nasen",
+      "description": "Con sông chảy cắt ngang qua Lãnh địa Nam tước Clow."
+    },
+    {
+      "name_source": "克洛男爵领",
+      "name_target": "Lãnh địa Nam tước Clow",
+      "description": "Lãnh địa phong kiến do Nam tước Clow quản lý thuộc Vương quốc Rodin."
+    }
+  ],
+  "world_map": {
+    "description": "",
+    "generated": false,
+    "image_path": "",
+    "last_updated_chapter": 0,
+    "readiness_score": 0,
+    "scale": ""
+  },
+  "relationship_diagrams": {
+    "character_relationship": [],
+    "faction_relationship": [],
+    "family_tree": []
+  },
+  "metadata": {
+    "version": "1.0",
+    "branch": "Vu Su Tu Thai Duong Chi Tu"
+  },
+  "items": [
+    {
+      "name_source": "超智能芯片",
+      "name_target": "Chip siêu trí tuệ",
+      "description": "Chip lượng tử có khả năng lưu trữ tri thức cực lớn và phân tích dữ liệu siêu cấp."
+    }
+  ]
+}
