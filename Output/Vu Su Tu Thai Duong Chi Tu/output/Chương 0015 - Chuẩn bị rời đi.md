@@ -36,17 +36,17 @@ Ba người gồm Nam tước Clow, Đội trưởng vệ binh Os và Grimm đan
 
 Đứng trên tường thành, cả ba đang chờ đợi tin tức cuối cùng. Nam tước Clow đã cử lính trinh sát đi thám thính tin tức hành quân của đại quân Vương quốc Saladin từ sớm.
 
-“Đội trưởng Os, nghe nói ông từng tới Liên minh Maslow, có thể kể cho tôi nghe tình hình ở đó được không?” Đứng trên tường thành, Grimm khẽ hỏi Đội trưởng vệ binh Os.
+“Đội trưởng Os, nghe nói chú từng tới Liên minh Maslow, có thể kể cho cháu nghe tình hình ở đó được không?” Đứng trên tường thành, Grimm khẽ hỏi Đội trưởng vệ binh Os.
 
 Os mặc bộ giáp nặng, thân hình vô cùng vạm vỡ. Ban đầu ông đang đầy ưu tư nhìn ra ngoài lâu đài, nghe thấy Grimm hỏi thì trên mặt lộ ra một vẻ hồi tưởng.
 
-“Phải rồi, ta từng tới Liên minh Maslow, nhưng đó đã là chuyện của mười mấy năm trước, khi ta còn ở trong quân đội. Nhận nhiệm vụ vận chuyển lương thảo nên mới có dịp tới cảng Elendar một chuyến.” Trên mặt Os thoáng hiện vẻ hoài niệm.
+“Phải rồi, chú từng tới Liên minh Maslow, nhưng đó đã là chuyện của mười mấy năm trước, khi chú còn ở trong quân đội. Nhận nhiệm vụ vận chuyển lương thảo nên mới có dịp tới cảng Elendar một chuyến.” Trên mặt Os thoáng hiện vẻ hoài niệm.
 
 “Grimm, cháu có biết không? Liên minh Maslow hoàn toàn khác biệt với chúng ta. Vương quốc Rodin và Vương quốc Saladin đều lấy quốc vương làm chủ, còn Liên minh Maslow lại lấy cơ cấu hội đồng làm chủ. Mọi mệnh lệnh đều cần thông qua hội đồng cùng biểu quyết mới có thể thực thi. Một số mệnh lệnh thậm chí còn bị phủ quyết, hoàn toàn khác với việc quốc vương chí cao vô thượng ở bên này.
 
 Cảng Elendar của Liên minh Maslow vô cùng phồn hoa, mỗi ngày có không biết bao nhiêu thuyền chở hàng giao dịch, quy mô của toàn bộ thành phố vượt xa vương đô của chúng ta.” Os càng nói càng hào hứng, bắt đầu dùng tay hoa chân múa tay tả lại những con thuyền lớn mà mình nhìn thấy ở cảng Elendar.
 
-“Nơi đó thương mại cực kỳ phát đạt, thứ gì cũng có thể mua được. Đồ của Vương quốc Rodin và Vương quốc Saladin có thể thấy ở khắp nơi, thậm chí còn có đồ từ các quốc gia hải ngoại khác đưa tới. Toàn bộ quốc gia không có sự tồn tại của quý tộc, người có địa vị cao đều là các nghị viên hoặc những đại thương nhân hàng đầu. Lần này tới đó, ta dự định mở một võ quán kiếm thuật để dạy kiếm thuật cho người khác.” Theo câu chuyện đi sâu, Os thậm chí nói ra dự định của mình. “Nơi đó tuyệt đối là một nơi thích hợp để phát triển.”
+“Nơi đó thương mại cực kỳ phát đạt, thứ gì cũng có thể mua được. Đồ của Vương quốc Rodin và Vương quốc Saladin có thể thấy ở khắp nơi, thậm chí còn có đồ từ các quốc gia hải ngoại khác đưa tới. Toàn bộ quốc gia không có sự tồn tại của quý tộc, người có địa vị cao đều là các nghị viên hoặc những đại thương nhân hàng đầu. Lần này tới đó, chú dự định mở một võ quán kiếm thuật để dạy kiếm thuật cho người khác.” Theo câu chuyện đi sâu, Os thậm chí nói ra dự định của mình. “Nơi đó tuyệt đối là một nơi thích hợp để phát triển.”
 
 “Thực lực quốc gia của Liên minh Maslow vô cùng mạnh mẽ, trên đường phố khắp nơi đều có thể gặp kỵ sĩ học đồ, Kỵ sĩ chính thức cũng không ít, thậm chí có thể nói vượt xa Vương quốc Rodin và Vương quốc Saladin. Nhưng không biết vì lý do gì, Liên minh Maslow chưa từng mở rộng ra bên ngoài, Vương quốc Saladin và Vương quốc Rodin cũng chưa từng phát động chiến tranh với Liên minh Maslow. Thậm chí trong chiến tranh, việc Liên minh Maslow bán vật tư cho cả hai bên Saladin và Rodin thì hai nước đều không có ý kiến gì.”
 

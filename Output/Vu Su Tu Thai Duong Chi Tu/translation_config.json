@@ -6,11 +6,12 @@
   "sub_genre": "fantasy",
   "name_setting": "keep_original",
   "translation_rules": {
-    "style": "High-precision Hán-Việt for spells, arrays, and magic tiers, natural Vietnamese flow, keep Western names original in Latin or translate to standard English names if the author used them, rather than Hán-Việt transcription.",
-    "proper_names_handling": "Original names format. Prioritize standard Western names (e.g., Leylin, Robin) instead of transcribing them into Han-Viet (e.g. Lôi Lâm, La Tân) where appropriate.",
+    "style": "High-precision Hán-Việt for spells, arrays, and magic tiers, natural Vietnamese flow, keep Western names original in Latin or translate to standard English names if the author used them, rather than Hán-Việt transcription. Eastern and Chinese Han-Viet proper names must remain Hán-Việt.",
+    "proper_names_handling": "Original names format. Prioritize standard Western names (e.g., Leylin, Robin) instead of transcribing them into Han-Viet (e.g. Lôi Lâm, La Tân) where appropriate. However, any proper names with Eastern, Chinese Han-Viet context must remain Hán-Việt, never Latinized.",
     "forbidden_content": [
       "Inline Chinese characters for non-proper names",
-      "Inline English explanations in brackets"
+      "Inline English explanations in brackets",
+      "Latinizing Eastern or Chinese Han-Viet proper names"
     ],
     "annotation_style": "Add a 'Chú thích' section at the end of the chapter for necessary terms and proper names",
     "honorifics_handling": "Translate to appropriate Vietnamese social hierarchy terms, matching a wizard academy and aristocratic hierarchy",
@@ -19,7 +20,7 @@
   "pronoun_mode": "hybrid",
   "reflection_max_iterations": 3,
   "created_at": "2026-05-31T12:47:30Z",
-  "last_updated": "2026-05-31T21:17:23+07:00",
+  "last_updated": "2026-06-01T06:08:45+07:00",
   "total_chapters": 915,
   "notes": "Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng hô trang trọng, phép thuật, thí nghiệm di truyền học.",
   "source_ref": {
@@ -52,6 +53,6 @@
     "toc_file": "Output/Vu Su Tu Thai Duong Chi Tu/ebook/toc.md",
     "illustration_manifest_file": "Output/Vu Su Tu Thai Duong Chi Tu/ebook/illustration_manifest.json"
   },
-  "narrator_pronoun_guide": "Use standard objective third-person narration style. Match Vietnamese storytelling tradition for Western fantasy.",
+  "narrator_pronoun_guide": "Use standard objective third-person narration style. Match Vietnamese storytelling tradition for the specific context (Western fantasy, aristocracy, etc.). The narrator should use context-appropriate pronouns for characters (e.g., 'hắn', 'anh', or 'chàng' for the male protagonist depending on the tone of the scene - romantic/heroic vs neutral/dark; 'y' for scholars or neutral males; 'lão' or 'ông ta' for old men; 'cô/nàng' for females). Do not rigidly use only one pronoun if the context demands nuance.",
   "output_filename_constraint_note": "Windows không cho phép ký tự ':' trong tên file, vì vậy pattern lưu trên đĩa dùng dấu gạch ngang."
 }

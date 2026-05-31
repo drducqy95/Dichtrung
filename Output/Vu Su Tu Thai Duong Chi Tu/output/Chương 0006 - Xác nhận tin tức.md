@@ -64,6 +64,6 @@ Grimm cũng rơi vào im lặng, căn phòng trong chốc lát trở nên tĩnh 
 
 Trong lòng Grimm cũng thở phào nhẹ nhõm, chỉ cần không phải lập tức nổ ra chiến tranh, anh sẽ có thêm nhiều thời gian để phát triển.
 
-“Mấy ngày này con cứ nghỉ ngơi cho tốt, vài ngày nữa ta sẽ truyền thụ Hô hấp pháp cho con.”
+“Mấy ngày này con cứ nghỉ ngơi cho tốt, vài ngày nữa ông sẽ truyền thụ Hô hấp pháp cho con.”
 
 “Dạ.” Grimm biết lúc này điều quan trọng nhất chính là Hô hấp pháp. Sau khi đồng ý với lão Grimm, trong những ngày tiếp theo, Grimm hầu như không ra khỏi cửa, ngoại trừ giờ ăn ra thì luôn ở trong phòng nghỉ ngơi.

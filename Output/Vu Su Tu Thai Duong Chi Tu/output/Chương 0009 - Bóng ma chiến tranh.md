@@ -32,7 +32,7 @@ Vệ binh của lâu đài nhờ vào tầm nhìn trên cao nhanh chóng phát h
 
 Tuy nhiên, Grimm vừa mới trải qua trận tập kích lúc này chẳng còn tâm trí đâu mà để ý đến bầu không khí vui tươi trong lâu đài. Vừa về tới nơi, anh khước từ tất cả những người đến chúc mừng, đi thẳng tới tìm lão Grimm.
 
-“Có chuyện gì thế, sao lại vội vàng tìm ta như vậy?” Lão Grimm luôn quan tâm hành vi của Grimm, thấy thái độ bất thường của anh cũng lấy làm lo lắng.
+“Có chuyện gì thế, sao lại vội vàng tìm ông như vậy?” Lão Grimm luôn quan tâm hành vi của Grimm, thấy thái độ bất thường của anh cũng lấy làm lo lắng.
 
 Grimm không chút do dự, lập tức rút ra chiếc phi tiêu được bọc vải từ trong ngực, rồi đem chuyện mình bị tập kích kể lại đầu đuôi gốc ngọn cho lão Grimm nghe.
 

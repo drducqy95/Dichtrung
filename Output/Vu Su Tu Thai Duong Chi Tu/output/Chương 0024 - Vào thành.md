@@ -8,7 +8,7 @@ Khu vực cảng, đúng như tên gọi, là nơi neo đậu của tàu thuyề
 
 Khi đoàn xe tới vùng ngoại vi cảng Elendar, tốc độ di chuyển rõ ràng chậm lại. Grimm mở cửa sổ xe, đập vào mắt anh là từng đoàn người tị nạn lũ lượt kéo đến, phần lớn trong số họ đến từ Vương quốc Rodin. Phía xa, những bức tường thành màu xanh tro cao hàng chục mét sừng sững uy nghiêm, khiến người ta khó lòng tưởng tượng nổi đây lại là sản phẩm của một xã hội trung cổ. Tường thành kéo dài sang hai bên trái phải, nhìn không thấy điểm cuối.
 
-“Nếu không phải bản thân sở hữu sức mạnh siêu phàm, ta suýt nữa đã nghi ngờ mình đang ảo giác.” Grimm nhìn tường thành màu xanh tro cao vút chọc trời trước mắt, thầm nghĩ trong lòng.
+“Nếu không phải bản thân sở hữu sức mạnh siêu phàm, mình suýt nữa đã nghi ngờ bản thân đang ảo giác.” Grimm nhìn tường thành màu xanh tro cao vút chọc trời trước mắt, thầm nghĩ trong lòng.
 
 Phía ngoài tường thành Elendar rải rác một số khu cư dân. Môi trường ở các khu cư dân này vô cùng bẩn thỉu và hỗn loạn, Grimm thậm chí còn tận mắt chứng kiến cảnh cướp bóc và cưỡng bức diễn ra giữa thanh thiên bạch nhật. So với gọi là khu cư dân, gọi nơi này là khu ổ chuột thì đúng hơn. Trong những khu ổ chuột này, số người mặc trang phục của Vương quốc Rodin chiếm không ít, họ đa số là những quý tộc nhỏ không có khả năng chi trả phí vào thành cũng như không thể làm được thân phận Liên minh Maslow, hoặc là gia nhân tùy tùng bị các quý tộc bỏ lại khi tới đây.
 

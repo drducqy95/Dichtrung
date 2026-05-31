@@ -104,7 +104,7 @@ Karl lấy tay bịt vết thương, nhìn chằm chằm ba người Grimm. Vớ
 
 “Ngay khi các ngươi mới đến chúng ta đã phát hiện rồi. Thế nào? Vở kịch chuẩn bị cho các ngươi có vừa ý không?” Grimm nhìn năm kẻ bị thương, mỉm cười nói.
 
-“Ha ha ha, không ngờ công phu ẩn nấp của chúng ta lại kém như vậy, vừa đến đã bị phát hiện.” Grimm nghe vậy thầm nghĩ, các ngươi ẩn nấp rất tốt, tiếc là ta có hack.
+“Ha ha ha, không ngờ công phu ẩn nấp của chúng ta lại kém như vậy, vừa đến đã bị phát hiện.” Grimm nghe vậy thầm nghĩ, các ngươi ẩn nấp rất tốt, tiếc là mình có hack.
 
 Karl nghe Grimm nói xong liền cúi đầu im lặng.
 

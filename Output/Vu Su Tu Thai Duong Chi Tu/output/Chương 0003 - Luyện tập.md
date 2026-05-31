@@ -18,7 +18,7 @@ Grimm vừa ăn bữa sáng trên bàn vừa để Chân Lý bắt đầu phân 
 Nhìn kết quả chip phân tích, Grimm gật gật đầu tỏ ý tán đồng. Việc chế biến bánh mì này Grimm có ký ức nhất định, nguyên liệu đúng là những thứ này. Đồng thời anh cũng đầy kỳ vọng đối với năng lực phân tích của chip.
 Ăn xong bữa sáng, Grimm đẩy cửa ra ngoài chuẩn bị hỏi lão Grimm xem bắt đầu huấn luyện thế nào, hiện tại tăng cường thể chất là việc hàng đầu.
 Chưa đợi Grimm đi được vài bước đã nghe thấy tiếng lão Grimm gọi từ phía sau nhà kho.
-“Grimm, lại đây, ta đã dựng sân tập cho con rồi.” Nghe tiếng lão Grimm, Grimm rảo bước chạy về phía sau kho.
+“Grimm, lại đây, ông đã dựng sân tập cho con rồi.” Nghe tiếng lão Grimm, Grimm rảo bước chạy về phía sau kho.
 Đến phía sau kho, nơi vốn trống trải nay sừng sững ba cái bia cùng một cái bù nhìn gỗ khổng lồ hình người. Bên cạnh chất đầy các loại dụng cụ làm bằng đá.
 Ngay cả mặt đất cũng được dọn dẹp sạch sẽ, những viên đá vụn hay chỗ gồ ghề trên mặt đất trước đó hoặc bị nhặt vứt đi hoặc được san phẳng.
 Nhìn sân tập nhỏ này, Grimm hướng ánh mắt về phía lão Grimm, sân tập này tuy nhỏ nhưng chắc chắn phải tốn rất nhiều tâm huyết chế tạo. Có lẽ lão Grimm đã dậy sớm hơn anh tưởng nhiều.
@@ -55,8 +55,8 @@ Grimm không bận tâm đến những ánh mắt đó, chỉ im lặng rèn luy
 Khi mùa đông đến, lão Grimm cuối cùng cũng cho Grimm dừng các bài tập này lại. Những cơn gió lạnh phương Bắc mang theo tuyết lớn phủ một lớp bạc lên cả Lãnh địa Nam tước, tuyết dày lấp kín mọi nẻo đường, ngoại trừ đường chính được người của Nam tước dọn dẹp, những lối nhỏ khác đều chìm trong tuyết.
 Lão Grimm và Grimm thu dọn khoảng đất trống bên cạnh căn nhà nhỏ của mình, dời ba cái bia và bù nhìn gỗ từ sau kho về đặt ở bãi đất này.
 Lão Grimm nhìn Grimm vì rèn luyện lâu ngày mà làn da vốn trắng trẻo đã hơi ngăm đen, hai bàn tay chai sạn dày cộm, trên mặt thoáng qua một chút xót xa, nhưng ngay sau đó lập tức nghiêm nghị trở lại.
-“Grimm, qua mấy tháng rèn luyện, thể chất của con cơ bản đã đạt chuẩn, bây giờ chúng ta bắt đầu huấn luyện kiếm thuật. Ta chỉ dạy con những kỹ thuật cơ bản nhất, những kiếm thuật sâu xa hơn đa phần đều phải phối hợp với hô hấp pháp mới phát huy được.”
-“Năm xưa vị kỵ sĩ truyền dạy hô hấp pháp cho ta không dạy kiếm thuật tương ứng, kiếm thuật của ta là tự mình hoàn thiện qua những lần đâm chém trên chiến trường Hoa Tử Kinh, đối với bản thân ta thì cực kỳ phù hợp nhưng chưa chắc đã hợp với thể chất của con.”
+“Grimm, qua mấy tháng rèn luyện, thể chất của con cơ bản đã đạt chuẩn, bây giờ chúng ta bắt đầu huấn luyện kiếm thuật. Ông chỉ dạy con những kỹ thuật cơ bản nhất, những kiếm thuật sâu xa hơn đa phần đều phải phối hợp với hô hấp pháp mới phát huy được.”
+“Năm xưa vị kỵ sĩ truyền dạy hô hấp pháp cho ông không dạy kiếm thuật tương ứng, kiếm thuật của ông là tự mình hoàn thiện qua những lần đâm chém trên chiến trường Hoa Tử Kinh, đối với bản thân ông thì cực kỳ phù hợp nhưng chưa chắc đã hợp với thể chất của con.”
 “Sau khi học được hô hấp pháp, Grimm con phải dựa vào những kiếm thuật cơ bản này để diễn hóa ra kiếm thuật của riêng mình, hô hấp pháp bản thân có tính hướng dẫn, quá trình này sẽ không quá khó khăn đâu.”
 Grimm cũng rất tán thành lời lão Grimm, kiếm thuật dựa vào truyền thụ thì nhiều nhất cũng chỉ học được chút cơ bản, cường giả thực sự đều là qua chiến đấu liên tục cải tiến kiếm thuật của mình, để kiếm thuật hoàn toàn kết hợp với thể chất cơ bản của bản thân.
 Nhưng Grimm biết, sở hữu chip Chân Lý giúp anh có thể giả lập hàng triệu trận chiến mỗi ngày, chỉ cần sau này học được hô hấp pháp, kết hợp với đặc tính của hô hấp pháp là có thể dễ dàng từ kiếm thuật cơ bản diễn hóa ra kiếm thuật đặc thù của riêng mình.
@@ -86,10 +86,10 @@ Nghe vậy Grimm khẽ gật đầu nói mình đã nhớ kỹ.
 [Đã hoàn thành ghi chép động tác. Vui lòng đặt tên cho tài liệu hiện tại.]
 [Kiếm thuật cơ bản] Grimm thầm nghĩ.
 [Đã hoàn thành đặt tên]
-Sau khi tổng hợp, Kiếm thuật cơ bản của lão Grimm đã hoàn toàn khớp với thể hình của Grimm. Xác nhận không có vấn đề gì Grimm mới nói với lão: “Hầu hết không có vấn đề, để con múa thử một lượt, cha xem có chỗ nào sai sót không?”
+Sau khi tổng hợp, Kiếm thuật cơ bản của lão Grimm đã hoàn toàn khớp với thể hình của Grimm. Xác nhận không có vấn đề gì Grimm mới nói với lão: “Hầu hết không có vấn đề, để con múa thử một lượt, ông xem có chỗ nào sai sót không?”
 Lão Grimm tự nhiên không tin Grimm nhớ nhanh thế, bản thân lão trước đây học kiếm thuật cơ bản phải tốn mười mấy ngày mới đưa động tác đạt chuẩn.
 Lão Grimm chỉ nghĩ Grimm tuổi trẻ khí thịnh nói khoác mà thôi, dù sao lát nữa lão đứng bên cạnh canh chừng sẽ không có chuyện gì ngoài ý muốn.
-“Vậy con cứ múa thử ở đây, ta đứng bên cạnh xem để sửa động tác cho con.”
+“Vậy con cứ múa thử ở đây, ông đứng bên cạnh xem để sửa động tác cho con.”
 Lão Grimm đi tới chiếc ghế bên cạnh gạt tuyết đã tan ra, trực tiếp ngồi xuống và ra hiệu cho Grimm bắt đầu tập.
 Grimm cầm thanh kiếm gỗ lão đặt một bên lên, khẽ ước lượng trọng lượng, trên mặt lộ ra nụ cười.
 Chip sinh học tuy không thể trực tiếp làm động tác của Grimm đạt chuẩn nhất, nhưng Grimm đã rèn luyện mấy tháng nay, cộng thêm chip điều phối và bài tập yoga tập buổi tối giúp tính phối hợp cơ thể đạt mức rất cao, những động tác cơ bản này chỉ cần tập một chút là nắm vững ngay.

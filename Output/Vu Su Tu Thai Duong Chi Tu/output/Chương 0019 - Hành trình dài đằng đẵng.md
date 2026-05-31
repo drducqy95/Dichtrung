@@ -22,7 +22,7 @@ Nam tước Candia đã dùng cái giá là ba xe lương thực và nước u�
 
 “Cậu Grimm, cảm ơn sự chỉ dạy của cậu.” Trong khoang xe của Grimm, hai thanh niên trạc tuổi Grimm đang tiếp nhận sự chỉ dạy của anh. Đó là Kahn, con trai trưởng của Nam tước Clow, và Ocat, con trai của Đội trưởng vệ binh Os.
 
-“Về việc đột phá kỵ sĩ học đồ, những kỹ xảo ta có thể dạy cho các ngươi chỉ có bấy nhiêu thôi. Ta tin cha của các ngươi cũng đã từng nói qua, phần lớn vẫn phải dựa vào sự nỗ lực của chính các ngươi.” Grimm khẽ nhắm mắt, xua tay bảo hai người lui ra.
+“Về việc đột phá kỵ sĩ học đồ, những kỹ xảo tôi có thể dạy cho các cậu chỉ có bấy nhiêu thôi. Tôi tin cha của các cậu cũng đã từng nói qua, phần lớn vẫn phải dựa vào sự nỗ lực của chính các cậu.” Grimm khẽ nhắm mắt, xua tay bảo hai người lui ra.
 
 Kahn và Ocat thấy vậy liền đứng dậy cúi đầu chào, cẩn thận từng li từng tí bước ra khỏi khoang xe.
 
@@ -54,7 +54,7 @@ Về lý do, theo phương thức đột phá đầy kỳ dị của Phong Bạo
 
 “Cậu Grimm, phía trước có một con sông, đoàn xe có thể hạ trại ở đây một đêm, đồng thời bổ sung nước uống để ngày mai tiếp tục lên đường. Hai vị Nam tước muốn hỏi ý kiến của cậu.” Đây chẳng phải là buồn ngủ gặp chiếu manh sao? Grimm tự nhiên sẽ không có ý kiến gì.
 
-“Ta không có ý kiến gì, mọi người vất vả lâu như vậy, nghỉ ngơi một chút cũng tốt.”
+“Tôi không có ý kiến gì, mọi người vất vả lâu như vậy, nghỉ ngơi một chút cũng tốt.”
 
 “Vâng, cậu Grimm.” Người ngoài cửa sổ nhanh chóng rời đi, tiếng bước chân xa dần.
 

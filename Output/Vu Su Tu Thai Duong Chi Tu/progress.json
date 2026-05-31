@@ -1,5 +1,5 @@
 {
-  "completed_chapters": 30,
+  "completed_chapters": 40,
   "total_chapters": 915,
   "chapters": [
     {
@@ -184,63 +184,63 @@
     },
     {
       "chapter_number": 31,
-      "title": "第31章 选拔前奏",
-      "status": "PENDING",
-      "last_updated": null
+      "title": "Khúc dạo đầu đợt tuyển chọn",
+      "status": "DONE",
+      "last_updated": "2026-06-01T04:47:38.864464+07:00"
     },
     {
       "chapter_number": 32,
-      "title": "第32章 联盟，巫师世界",
-      "status": "PENDING",
-      "last_updated": null
+      "title": "Liên minh, thế giới Vu sư",
+      "status": "DONE",
+      "last_updated": "2026-06-01T04:49:33.983696+07:00"
     },
     {
       "chapter_number": 33,
-      "title": "第33章 港口",
-      "status": "PENDING",
-      "last_updated": null
+      "title": "Bến cảng",
+      "status": "DONE",
+      "last_updated": "2026-06-01T04:50:53.015395+07:00"
     },
     {
       "chapter_number": 34,
-      "title": "第34章 测试，邀请",
-      "status": "PENDING",
-      "last_updated": null
+      "title": "Thử nghiệm, lời mời",
+      "status": "DONE",
+      "last_updated": "2026-06-01T05:52:18.024264+07:00"
     },
     {
       "chapter_number": 35,
-      "title": "第35章 新冥想法",
-      "status": "PENDING",
-      "last_updated": null
+      "title": "Minh tưởng pháp mới",
+      "status": "DONE",
+      "last_updated": "2026-06-01T06:06:30.356257+07:00"
     },
     {
       "chapter_number": 36,
-      "title": "第36章 融合",
-      "status": "PENDING",
-      "last_updated": null
+      "title": "Dung hợp",
+      "status": "DONE",
+      "last_updated": "2026-06-01T06:06:48.774465+07:00"
     },
     {
       "chapter_number": 37,
-      "title": "第37章 修炼，突破",
-      "status": "PENDING",
-      "last_updated": null
+      "title": "Tu luyện, đột phá",
+      "status": "DONE",
+      "last_updated": "2026-06-01T06:07:07.285686+07:00"
     },
     {
       "chapter_number": 38,
-      "title": "第38章 冲突",
-      "status": "PENDING",
-      "last_updated": null
+      "title": "Xung đột",
+      "status": "DONE",
+      "last_updated": "2026-06-01T06:07:34.601967+07:00"
     },
     {
       "chapter_number": 39,
-      "title": "第39章 碾压",
-      "status": "PENDING",
-      "last_updated": null
+      "title": "Nghiền ép",
+      "status": "DONE",
+      "last_updated": "2026-06-01T06:07:55.151324+07:00"
     },
     {
       "chapter_number": 40,
-      "title": "第40章 能量亲和，药剂学",
-      "status": "PENDING",
-      "last_updated": null
+      "title": "Thân hòa năng lượng, dược tể học",
+      "status": "DONE",
+      "last_updated": "2026-06-01T06:08:15.793226+07:00"
     },
     {
       "chapter_number": 41,
@@ -5493,7 +5493,7 @@
       "last_updated": null
     }
   ],
-  "last_updated": "2026-05-31T21:17:23+07:00",
+  "last_updated": "2026-06-01T06:08:45+07:00",
   "workflow_artifacts": {
     "branch_readme": "README.md",
     "converter_db_ready": true,

@@ -118,4 +118,4 @@ Quét trường sinh học là phương pháp dò tìm các thể sống có cư
 
 “Quân đội quy mô lớn không đuổi kịp thì phái ra tiểu đội tinh anh để chặn giết sao?” Phân tích ra nguyên nhân khái quát xong, sắc mặt của Grimm ngược lại khá thoải mái.
 
-“Tiếc là các ngươi tính sai rồi. Cấp kỵ sĩ có đến bao nhiêu đi chăng nữa thì đối với ta cũng vô dụng.” Tuy nhiên để đề phòng vạn nhất, Grimm không hề vội vã ra tay. Nhìn bộ dạng bám theo không rời của đối phương, e rằng chúng định đợi đến đêm mới phát động đột kích.
+“Tiếc là các ngươi tính sai rồi. Cấp kỵ sĩ có đến bao nhiêu đi chăng nữa thì đối với mình cũng vô dụng.” Tuy nhiên để đề phòng vạn nhất, Grimm không hề vội vã ra tay. Nhìn bộ dạng bám theo không rời của đối phương, e rằng chúng định đợi đến đêm mới phát động đột kích.

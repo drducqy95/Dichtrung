@@ -7,7 +7,7 @@ Cái nắng gay gắt của mùa hè nung nấu đất đai, ánh nắng chói c
 Phóng mắt nhìn ra xa, đất đai phía xa dường như bị vặn vẹo biến dạng trong làn sóng nhiệt, như thể toàn bộ thế giới đều trở nên hư ảo trong cái nóng thiêu đốt này.
 Một cỗ xe ngựa chở nhiều hàng hóa đang từ từ tiến về phía tòa lâu đài ẩn hiện ở đằng xa. Đây chính là cỗ xe ngựa mà Grimm đang ngồi.
 Grimm vốn ngồi bên trong xe ngựa, muốn chứng kiến nhiều phong cảnh hơn của thế giới này, cho dù chỉ là môi trường địa lý.
-Thế là anh bước ra ngoài xe, thay thế công việc của lão Grimm, để lão Grimm vào trong xe ngựa nghỉ ngơi.
+Thế là hắn bước ra ngoài xe, thay thế công việc của lão Grimm, để lão Grimm vào trong xe ngựa nghỉ ngơi.
 Grimm nhìn quanh cảnh tượng hoang vu xung quanh, dưới cái nắng thiêu đốt, những ngọn cỏ và cây cối vốn xanh tươi giờ lộ ra vẻ mệt mỏi, lá cây đều héo rũ xuống.
 Grimm nhìn về phía tòa lâu đài ở phía xa, chăm chú quan sát. Một tòa lâu đài tương tự như thời trung cổ sừng sững trên bình nguyên. Bức tường thành cao hàng chục mét có thể chống lại những kẻ xâm lược bên ngoài một cách hiệu quả. Những tảng đá lớn màu trắng cấu thành lâu đài phản chiếu ánh sáng mặt trời hơi chói mắt. Trên tường thành của lâu đài còn có những lỗ châu mai bắn cung, bình thường các lỗ này đều được đóng kín.
 Một khi chiến tranh bắt đầu, kẻ địch tấn công lâu đài, những lỗ châu mai này sẽ được mở ra, những mũi tên bắn ra từ cung thủ sẽ cho kẻ xâm lược biết thế nào là tiếng gọi của tử thần.
@@ -18,27 +18,27 @@ Sau hai giờ đồng hồ cát, con đường nhỏ quanh co khúc khuỷu bắ
 Không cần Grimm nhắc nhở, lão Grimm vốn đã đi trên con đường này vô số lần vén rèm cửa sổ xe ngựa lên, trước tiên nhìn Grimm một cái, sau đó quay đầu nhìn về phía lâu đài xa xa.
 'Không cần đi cổng chính lâu đài, đi con đường nhỏ bên cạnh, đi vòng qua lâu đài, về thẳng kho của chúng ta là được.' Lão Grimm nói với Grimm.
 Kho của lâu đài chia làm kho trong và kho ngoài, kho trong mới là cốt lõi của cả lâu đài. Kho mà lão Grimm trông coi đa phần chứa những đồ lặt vặt của lâu đài, mức độ quan trọng không cao.
-Grimm không đề xuất ý muốn vào lâu đài xem thử, anh gật đầu đáp lại lời lão Grimm, điều khiển dây cương chỉnh hướng xe ngựa, từ đi thẳng chuyển sang đi vòng theo đường cong.
+Grimm không đề xuất ý muốn vào lâu đài xem thử, hắn gật đầu đáp lại lời lão Grimm, điều khiển dây cương chỉnh hướng xe ngựa, từ đi thẳng chuyển sang đi vòng theo đường cong.
 Grimm đánh xe ngựa chầm chậm tiến lên quanh hào nước của lâu đài, những binh lính canh gác trên lâu đài đứng im phăng phắc nhìn về phía trước, hoàn toàn không để ý đến xe ngựa của Grimm.
 Grimm cũng không lấy làm lạ, người trong lâu đài đều biết lão Grimm, hơn nữa trên xe ngựa của lão Grimm còn in huy hiệu của gia tộc Clow. Ngay cả binh lính mới đến thấy huy hiệu trên xe cũng biết cỗ xe này có quan hệ không nông cạn với gia tộc Clow, sẽ không tùy tiện đắc tội.
 Cả hai bên cánh đồng đều rất yên tĩnh, chỉ có tiếng lọc cọc chạy của xe ngựa, thỉnh thoảng truyền đến tiếng chim hót líu lo.
-Grimm lần theo tuyến đường trong ký ức, lái xe ngựa liên tục tiến về phía trước. Cuối cùng, nhà kho nơi Grimm và lão Grimm sinh sống đã xuất hiện trong tầm mắt anh.
+Grimm lần theo tuyến đường trong ký ức, lái xe ngựa liên tục tiến về phía trước. Cuối cùng, nhà kho nơi Grimm và lão Grimm sinh sống đã xuất hiện trong tầm mắt hắn.
 Nơi ở của Grimm và lão Grimm cách lâu đài một khoảng, tuy cũng được dùng làm nhà kho cho lâu đài nhưng hầu hết đều là đồ bỏ đi không dùng được, hiếm khi có thứ gì thực sự hữu ích.
 Nhà kho này cũng có thể nói là một vị trí nhàn hạ mà Nam tước Clow đặc biệt dành riêng cho lão Grimm, có lẽ sau khi lão Grimm qua đời, Grimm với tư cách là con nuôi của lão Grimm sẽ tiếp quản việc quản lý kho này. Nhưng đến lúc đó, e rằng đãi ngộ sẽ không còn tốt như vậy nữa.
-Grimm im lặng nghĩ đến những điều này, một cảm giác khủng hoảng ùa về. Lão Grimm thời trẻ từng học hô hấp pháp, bản thân sinh mệnh lực đã bị tổn hại, cộng thêm nội thương tổn hao sinh mệnh lực, e rằng ngày tháng sau này không còn nhiều, bản thân anh cũng phải tăng tốc luyện tập mới được.
+Grimm im lặng nghĩ đến những điều này, một cảm giác khủng hoảng ùa về. Lão Grimm thời trẻ từng học hô hấp pháp, bản thân sinh mệnh lực đã bị tổn hại, cộng thêm nội thương tổn hao sinh mệnh lực, e rằng ngày tháng sau này không còn nhiều, bản thân hắn cũng phải tăng tốc luyện tập mới được.
 Trong lòng ngày càng cấp bách, tốc độ đánh xe của Grimm nhanh hơn ba phần, nhanh chóng điều khiển xe ngựa đến bên chuồng ngựa.
 Lão Grimm cũng bước ra khỏi toa xe ngay khi xe ngựa dừng lại, tay vịn vào thành xe bước xuống.
 Không nói nhiều lời, lão Grimm bảo Grimm một tiếng 'dỡ hàng'. Grimm liền phối hợp với lão Grimm dỡ đống vật tư trên xe xuống, may mà chỉ là một số đồ dùng sinh hoạt, không tốn quá nhiều thể lực đã hoàn thành.
 Sau khi xong việc, Grimm tháo yên cương ngựa, lùa ngựa vào trong chuồng. Toàn bộ quy trình Grimm thực hiện vô cùng thuần thục, không biểu hiện ra bất kỳ điểm khác biệt nào so với ngày thường.
 Lão Grimm ngồi một bên, nhìn Grimm dắt ngựa vào chuồng, rồi tìm một đống cỏ khô bỏ vào máng cỏ, chú ngựa vốn đã mệt mỏi từ lâu nhanh chóng gặm cỏ trong máng.
-Nhìn Grimm đã bận rộn xong xuôi, lão Grimm đứng dậy: 'Grimm, con đi theo ta một chuyến.' Lão Grimm không giải thích lý do, chỉ lẳng lặng đi phía trước.
+Nhìn Grimm đã bận rộn xong xuôi, lão Grimm đứng dậy: 'Grimm, con đi theo ông một chuyến.' Lão Grimm không giải thích lý do, chỉ lẳng lặng đi phía trước.
 Grimm cũng rảo bước nhanh đuổi theo lão Grimm. Dưới sự dẫn đường của lão Grimm, hai người đi đến trước cửa nhà kho.
 Grimm ngước mắt nhìn lên, cánh cửa nhà kho do lão Grimm canh giữ có một cái khóa ngang khổng lồ, chia đôi cánh cửa từ chính giữa. Dưới sự gột rửa của thời gian, cánh cửa vốn được làm bằng gỗ tốt sơn màu đỏ tươi giờ đã trở nên xỉn màu do mưa gió xói mòn lâu ngày, trên bề mặt cửa có những vệt nước mưa chảy ngoằn ngoèo đan chéo vào nhau, ghi lại những dấu vết của thời gian đã qua.
 Lão Grimm móc chìa khóa nhà kho từ trong túi ra, tiếng 'cạch' vang lên, ổ khóa đã được mở.
 Lão Grimm dùng sức đẩy mạnh cửa nhà kho, cánh cửa dịch chuyển dưới sức đẩy của lão Grimm, tiếng kẽo kẹt liên tục vang lên.
 Cửa kho mở toang, để lộ ra những thứ cất giữ bên trong, hầu hết là bàn ghế từ dinh thự Nam tước thải ra, một số công cụ nông nghiệp như búa và rìu. Lão Grimm không thèm để ý đến những thứ đó.
-Lão Grimm dẫn Grimm đi vào sâu trong kho, ngay khi bước vào kho, một mùi gỗ ẩm ướt trộn lẫn mùi mục nát sộc thẳng vào mũi Grimm, khiến anh không khỏi nhíu mày.
-Trong ấn tượng của Grimm, nhà kho này chỉ mang tính chất thủ tục bảo quản, một năm không mở ra mấy lần, cộng thêm chìa khóa luôn do lão Grimm giữ, ký ức trước đây của anh thực sự không có ấn tượng gì về những thứ bày ở sâu trong kho.
+Lão Grimm dẫn Grimm đi vào sâu trong kho, ngay khi bước vào kho, một mùi gỗ ẩm ướt trộn lẫn mùi mục nát sộc thẳng vào mũi Grimm, khiến hắn không khỏi nhíu mày.
+Trong ấn tượng của Grimm, nhà kho này chỉ mang tính chất thủ tục bảo quản, một năm không mở ra mấy lần, cộng thêm chìa khóa luôn do lão Grimm giữ, ký ức trước đây của hắn thực sự không có ấn tượng gì về những thứ bày ở sâu trong kho.
 Đi qua đống đồ lặt vặt này, ánh sáng ngày càng mờ tối. Lão Grimm đi phía trước thành thạo lấy ra một cây đèn dầu châm sáng, ánh lửa yếu ớt chiếu sáng sâu trong kho, Grimm có thể nhìn rõ tình hình xung quanh.
 Đồ đạc bày biện sâu trong kho hoàn toàn khác biệt với bên ngoài. Mọi thứ được phân loại xếp ngănắp, dù vẫn chỉ là đồ lặt vặt nhưng qua cách sắp xếp có thể thấy người trông coi rất có tâm.
 Lão Grimm dẫn Grimm đi vòng vèo trong kho, cuối cùng dừng lại trước một tấm vải lớn. Grimm nhìn kỹ tấm vải, rõ ràng bên dưới tấm vải cất giấu thứ gì đó, những phần nhô lên chính là minh chứng rõ nhất.
@@ -55,7 +55,7 @@ Thấy lão Grimm chịu dạy mình, Grimm vội vàng nhận lấy những th�
 Trường kiếm và cung kim loại vừa trao tay, tay Grimm không tự chủ được mà trĩu xuống do trọng lượng của hai thứ này, phản ứng lại Grimm vội vàng dùng sức nâng hai thứ lên.
 Cảm nhận trọng lượng của hai thứ vũ khí, trong lòng Grimm ngập tràn niềm vui, nếu ở kiếp trước, vật nặng thế này người bình thường cầm thôi đã rất chật vật, nói gì đến dùng nó chiến đấu.
 Mà ở thế giới này, đây chỉ là trang bị của kỵ sĩ học đồ bình thường. Vậy kỵ sĩ chính thức và những cấp bậc kỵ sĩ cao hơn phía sau sở hữu sức mạnh khổng lồ đến nhường nào? Grimm tràn đầy suy tưởng đối với thứ sức mạnh chưa biết này.
-Lão Grimm đứng một bên thấy Grimm không ngừng mân mê hai món vũ khí trong tay, trên mặt cũng lộ ra nụ cười: 'Được rồi đừng mân mê nữa, mau đi nấu cơm đi, ta đói đến mức không chịu nổi rồi.'
+Lão Grimm đứng một bên thấy Grimm không ngừng mân mê hai món vũ khí trong tay, trên mặt cũng lộ ra nụ cười: 'Được rồi đừng mân mê nữa, mau đi nấu cơm đi, ông đói đến mức không chịu nổi rồi.'
 Nghe lời lão Grimm, Grimm cũng đè nén niềm vui trong lòng xuống, cầm hai món đồ chạy về phía nhà bếp.
 Thế giới tương tự trung cổ châu Âu này không có nguyên liệu nấu ăn cao cấp nào.
 Grimm lấy hai ổ bánh mì trắng mua từ chợ ra, thêm một ít sốt mật ong và vài miếng thịt là thành bữa tối.
@@ -74,7 +74,7 @@ Lão Grimm cũng phát hiện điểm bất thường của Grimm: 'Grimm, có c
 Grimm vội nói mình không có chuyện gì, chỉ là nghĩ đến ngày mai phải huấn luyện nên hơi căng thẳng mà thôi. Sau đó lập tức nói với lão Grimm rằng mình muốn chuẩn bị cho buổi huấn luyện ngày mai nên về phòng nghỉ ngơi trước.
 Sau khi về phòng mình, ngồi trên giường, Grimm lập tức thầm niệm trong lòng, gọi ra giao diện thao tác của chip.
 [Siêu Trí, bắt đầu thiết lập ban đầu.]
-[Thiết lập ban đầu đã bắt đầu, vui lòng đặt tên cho chip.] Một giọng nữ lại vang lên trong đầu Grimm, giống như giọng của trợ lý ảo Xiao Ai ở thế kỷ 21.
+[Thiết lập ban đầu đã bắt đầu, vui lòng đặt tên cho chip.] Một giọng nữ lại vang lên trong đầu Grimm, giống như giọng của trợ lý ảo Tiểu Ái ở thế kỷ 21.
 Grimm không nhịn được mà châm biếm.
 'Hệ thống giọng nói này là cắt ghép từ trên mạng xuống đúng không! Chip đầu tiên mà làm cẩu thả thế này, thảo nào lúc đầu lại thất bại.' Grimm có lý do rất lớn để nghi ngờ việc cấy chip lượng tử thất bại là do đám tổ chức tạp nham đó căn bản chưa hiểu rõ thí nghiệm.
 'Chân Lý.' Sau một hồi châm biếm, Grimm không ngần ngại nói ra cái tên mình đã nghĩ từ lâu ở kiếp trước.

@@ -180,7 +180,7 @@ Rất nhanh, các vệ binh đã lái xe ngựa đến bên cạnh Grimm.
 
 Ánh mắt của tất cả vệ binh nhìn Grimm càng thêm cung kính, một số người thậm chí còn lộ vẻ sùng bái.
 
-“Mau chóng vận chuyển hai con sinh vật này về lâu đài, bảo các đầu bếp nhanh chóng chế biến thành thức ăn, đừng lãng phí năng lượng máu thịt trong đó. Phần tinh hoa giữ lại cho ta và lão Grimm, phần còn lại chia cho tất cả mọi người trong lâu đài.” Grimm nhìn các vệ binh đang bốc dỡ hàng, trực tiếp nói với người dẫn đầu.
+“Mau chóng vận chuyển hai con sinh vật này về lâu đài, bảo các đầu bếp nhanh chóng chế biến thành thức ăn, đừng lãng phí năng lượng máu thịt trong đó. Phần tinh hoa giữ lại cho tôi và lão Grimm, phần còn lại chia cho tất cả mọi người trong lâu đài.” Grimm nhìn các vệ binh đang bốc dỡ hàng, trực tiếp nói với người dẫn đầu.
 
 Nghe thấy vậy, tốc độ của các vệ binh lập tức tăng nhanh, hận không thể lập tức vận chuyển heo đen và bạo hùng về lâu đài.
 

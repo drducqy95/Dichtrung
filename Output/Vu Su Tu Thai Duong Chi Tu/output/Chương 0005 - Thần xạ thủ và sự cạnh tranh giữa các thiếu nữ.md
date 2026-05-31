@@ -20,7 +20,7 @@ Grimm đi tới bên cạnh lão Grimm, lặng lẽ nói cho lão biết về kh
 Sau khi lão Grimm sờ nắn khắp người Grimm để xác nhận anh không phải vì tối qua bị đe dọa dẫn đến tâm thái thay đổi, muốn lừa dối mình để học Hô hấp pháp sớm.
 “Grimm, con thực sự không giống người thường, cơ thể đã hoàn toàn đạt tiêu chuẩn rồi. Nhưng như vậy cũng tốt, con có thể học Hô hấp pháp sớm hơn, sau này sẽ có nhiều sự bảo đảm hơn.”
 Nghe lão Grimm nói muốn truyền thụ Hô hấp pháp trước thời hạn, trên mặt Grimm không kìm được vẻ phấn khích.
-“Rèn luyện Hô hấp pháp cần phối hợp với các động tác đặc thù cùng tâm thái bình tĩnh. Hai ngày nay trải qua quá nhiều chuyện, không thích hợp cho con lúc này. Thời gian này cứ luyện bắn cung trước đi, chờ trạng thái của con khôi phục kha khá, ta sẽ đích thân dạy con.”
+“Rèn luyện Hô hấp pháp cần phối hợp với các động tác đặc thù cùng tâm thái bình tĩnh. Hai ngày nay trải qua quá nhiều chuyện, không thích hợp cho con lúc này. Thời gian này cứ luyện bắn cung trước đi, chờ trạng thái của con khôi phục kha khá, ông sẽ đích thân dạy con.”
 “Dạ, vậy con đi huấn luyện trước.” Grimm gật đầu biểu thị đã biết, rồi nhanh chóng sang phòng bên rửa mặt, chuẩn bị cho buổi huấn luyện hôm nay. Nữ hầu của lâu đài đã chuẩn bị sẵn đồ dùng rửa mặt từ sớm.
 Nhanh chóng rửa mặt xong, lão Grimm dẫn Grimm tiến về phía sân tập.
 Grimm sẽ không huấn luyện cùng các vệ binh, phương pháp huấn luyện của họ đa phần quá thô bạo, dễ để lại nội thương, không thích hợp với Grimm.
@@ -98,7 +98,7 @@ Grimm không từ chối, chủ yếu là cả lâu đài nơi có thể dùng b
 Thấy Grimm không từ chối, Ashville vẻ mặt hưng phấn kéo tay anh đi về phía nhà hàng quý tộc.
 Hai thiếu nữ vốn còn ở lại sân tập đột nhiên bước lên phía trước, chặn ở trước mặt Grimm và Ashville.
 “Anh Grimm, đã lâu không gặp, có thể dùng bữa cùng tụi em không?” Nhìn hai thiếu nữ đột nhiên xuất hiện, Grimm nhanh chóng lật tìm tư liệu của họ.
-“Lyla, Mia, vừa vặn tôi và Ashville đang định đi ăn, nếu hai người cũng muốn đi thì mọi người cùng đi đi.”
+“Lyla, Mia, vừa vặn anh và Ashville đang định đi ăn, nếu hai em cũng muốn đi thì mọi người cùng đi đi.”
 Lyla và Mia cũng là con cái quý tộc của lâu đài, trong đó Lyla là con gái thứ tư của Nam tước Clow. Hoàn cảnh của Lyla không khác gì Ashville. Còn Mia thì thấp hơn một chút, Mia là họ hàng xa của Nam tước Clow, sau khi gia tộc sa sút thì đến đầu quân cho Nam tước Clow. Trong lâu đài, mẹ của Mia còn là một nữ hầu trưởng, phụ trách quản lý các nữ hầu khác. Dù có chút quyền lực nhưng chung quy vẫn là người hầu. Kết cục cuối cùng của Mia ước chừng là gả cho một tiểu đội trưởng trẻ tuổi nào đó hoặc nhân tài có tiềm năng trong lâu đài.
 Thân hình của Lyla cũng bốc lửa tương tự, nhưng so với Ashville thì gương mặt của Lyla trưởng thành hơn, mang đậm phong thái ngự tỷ, cộng thêm giọng nói hơi non nớt của cô mang lại cho Grimm cảm giác tương phản mạnh mẽ.
 Vóc dáng của Mia so với hai người kia thì kém xa, có lẽ do dinh dưỡng không đủ nên ngực phát triển không tốt lắm. Biểu hiện tại hiện trường của cô cũng vô cùng dè dặt, có chút luống cuống tay chân, mang lại cho người ta cảm giác muốn che chở. Tuy nhiên Grimm cũng không bị vẻ bề ngoài đánh lừa, có thể cùng Lyla chọn cách chặn đường Ashville, cô bé này e rằng không đơn giản như bề ngoài.

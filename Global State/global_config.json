@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-05-31T21:17:09+07:00",
+    "last_updated": "2026-06-01T06:08:31+07:00",
     "description": "Quy tắc dịch thuật toàn cục cho repo Dichtrung"
   },
   "default_settings": {
@@ -15,7 +15,7 @@
   },
   "naming_conventions": {
     "default_name_setting": "phien_am",
-    "description": "Mặc định phiên âm Hán-Việt cho truyện phương Đông. Có thể override ở từng project branch."
+    "description": "Mặc định phiên âm Hán-Việt cho truyện phương Đông. Có thể override ở từng project branch. Tuy nhiên, các tên riêng có bối cảnh phương Đông, Trung Quốc Hán Việt phải giữ nguyên Hán Việt, tuyệt đối không Latin hóa."
   },
   "style_rules": {
     "output_language": "vi",
@@ -25,12 +25,14 @@
       "Dịch máy thô, câu cú lủng củng",
       "Để nguyên thuật ngữ gốc không dịch (trừ trường hợp đặc biệt có ghi chú)",
       "Giải thích thừa thãi, tự ý thêm chú thích hoặc bình luận của người dịch (ví dụ: (Chú thích: ...), (ps: ...))",
-      "Thêm từ tiếng Anh/Latinh vào trong ngoặc kép hoặc ngoặc đơn kế bên từ tiếng Việt để giải nghĩa (ví dụ: Tử Vong Kỵ Sĩ (Dullahan), Mị ma (Succubus), Ác Ma đội (Devil Team))"
+      "Thêm từ tiếng Anh/Latinh vào trong ngoặc kép hoặc ngoặc đơn kế bên từ tiếng Việt để giải nghĩa (ví dụ: Tử Vong Kỵ Sĩ (Dullahan), Mị ma (Succubus), Ác Ma đội (Devil Team))",
+      "Latin hóa các tên riêng có bối cảnh phương Đông, Trung Quốc Hán Việt"
     ],
     "required_patterns": [
       "Xưng hô phải nhất quán theo characters.json",
       "Thuật ngữ phải tuân thủ glossary.json",
-      "Văn phong phù hợp thể loại (cổ phong/hiện đại)"
+      "Văn phong phù hợp thể loại (cổ phong/hiện đại)",
+      "Tên riêng có bối cảnh phương Đông, Trung Quốc Hán Việt phải giữ nguyên phiên âm Hán Việt"
     ]
   },
   "genre_defaults": {

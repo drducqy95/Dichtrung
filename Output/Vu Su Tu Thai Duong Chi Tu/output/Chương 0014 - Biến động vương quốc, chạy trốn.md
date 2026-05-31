@@ -64,7 +64,7 @@ Grimm đương nhiên có thể thấu hiểu cảm giác hụt hẫng khi thứ
 
 “Ông định rời đi sao?” Nhìn lão Grimm đang thất thần, Grimm cuối cùng vẫn hỏi ra câu này.
 
-“Ta không cố chấp đến thế. Trước đây không chịu rời đi là vì ải Ancelus vẫn còn, nay chỗ dựa đã mất, tự nhiên sẽ không cứng đầu lựa chọn ở lại.” Lão Grimm nói vậy, nhưng sự thất vọng trong mắt không giấu được. “Thường dân trong toàn lãnh địa đã nhận được thông báo của Nam tước, đa số đều bắt đầu thu dọn chuyển đi. Mối thù giữa Vương quốc Saladin và Vương quốc Rodin là sự tích tụ suốt hàng trăm năm, một khi Vương quốc Saladin tiến vào lãnh địa, rất có thể sẽ tiến hành thảm sát quy mô lớn, thường dân cũng chưa chắc sống nổi. Grimm, con dọn dẹp đồ đạc đi, hai ngày nữa chúng ta rời đi cùng Nam tước.”
+“Ông không cố chấp đến thế. Trước đây không chịu rời đi là vì ải Ancelus vẫn còn, nay chỗ dựa đã mất, tự nhiên sẽ không cứng đầu lựa chọn ở lại.” Lão Grimm nói vậy, nhưng sự thất vọng trong mắt không giấu được. “Thường dân trong toàn lãnh địa đã nhận được thông báo của Nam tước, đa số đều bắt đầu thu dọn chuyển đi. Mối thù giữa Vương quốc Saladin và Vương quốc Rodin là sự tích tụ suốt hàng trăm năm, một khi Vương quốc Saladin tiến vào lãnh địa, rất có thể sẽ tiến hành thảm sát quy mô lớn, thường dân cũng chưa chắc sống nổi. Grimm, con dọn dẹp đồ đạc đi, hai ngày nữa chúng ta rời đi cùng Nam tước.”
 
 Biết lão Grimm đồng ý rời đi, Grimm thở phào nhẹ nhõm. Nếu lão Grimm thực sự không chịu đi, Grimm e rằng phải dùng biện pháp mạnh.
 

@@ -10,7 +10,7 @@ Nam tước Clow đích thân cử quản gia Basel đến, sau khi được s�
 
 Tuy nhiên, Grimm không quá chú ý đến những điều này, anh quan tâm hơn đến trạng thái của lão Grimm.
 
-“Grimm, ta thực sự không biết con săn được hai con mồi này bằng cách nào. Những sinh vật cấp kỵ sĩ này sở hữu sức mạnh vượt xa sinh vật thông thường, con làm sao giết được chúng?” Lão Grimm dùng nĩa xiên một miếng thịt Heo đen Baros đã được các đầu bếp chế biến, chăm chú nhìn một lượt rồi hỏi Grimm.
+“Grimm, ông thực sự không biết con săn được hai con mồi này bằng cách nào. Những sinh vật cấp kỵ sĩ này sở hữu sức mạnh vượt xa sinh vật thông thường, con làm sao giết được chúng?” Lão Grimm dùng nĩa xiên một miếng thịt Heo đen Baros đã được các đầu bếp chế biến, chăm chú nhìn một lượt rồi hỏi Grimm.
 
 “May mắn thôi ạ, may mắn thôi. Con vừa vặn bắt gặp cuộc tranh đấu của hai con thú đó, chỉ là thừa cơ ra tay thôi.” Grimm bình tĩnh nói với lão Grimm.
 

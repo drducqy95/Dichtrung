@@ -59,8 +59,28 @@
         "peers"
       ],
       "notes": "Peer magicians or wizards addressing each other in conflict or casual research context.",
+      "source_projects": []
+    },
+    {
+      "id": "flexible-dynamic-dialogue",
+      "label": "Flexible Dynamic Dialogue",
+      "scope": "global",
+      "self_form": "linh hoạt (tôi/ta/anh/chú/ông/cháu...)",
+      "other_form": "linh hoạt (cô/em/anh/ông/bà/ngài/nhóc...)",
+      "relationship": "dynamic",
+      "genre_tags": [
+        "western_fiction",
+        "fantasy"
+      ],
+      "contexts": [
+        "dialogue",
+        "romantic",
+        "casual",
+        "family"
+      ],
+      "notes": "Sử dụng xưng hô trong hội thoại gần gũi với tiếng Việt, đúng ngữ cảnh, cảm xúc và mối quan hệ nhân vật (VD: anh-em, ông-cháu, tôi-cô, ta-ngươi tùy tình huống).",
       "source_projects": [],
-      "priority": 50
+      "priority": 80
     }
   ]
 }

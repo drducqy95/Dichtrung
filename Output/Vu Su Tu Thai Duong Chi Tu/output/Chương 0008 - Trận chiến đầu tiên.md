@@ -112,7 +112,7 @@ Quan sát kỹ chiếc phi tiêu này, Grimm nhanh chóng phát hiện trên cá
 
 [Sec - Tiểu đội trinh sát số 1, Quân đoàn số 1 Saladin]
 
-Vải chưởng, ngông cuồng thế sao? Ngay cả ngụy trang cũng không thèm?
+Vãi chưởng, ngông cuồng thế sao? Ngay cả ngụy trang cũng không thèm?
 
 Lần này Grimm cũng xác định được kẻ phát động tấn công là ai. Việc người vương quốc Saladin tấn công người vương quốc Rodin là chuyện quá sức bình thường.
 

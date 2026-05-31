@@ -30,3 +30,13 @@
 - Chương 0028: Bùng nổ
 - Chương 0029: Dược tể Sinh Mệnh
 - Chương 0030: Thử nghiệm
+- Chương 0031: Khúc dạo đầu đợt tuyển chọn
+- Chương 0032: Liên minh, thế giới Vu sư
+- Chương 0033: Bến cảng
+- Chương 0034: Thử nghiệm, lời mời
+- Chương 0035: Minh tưởng pháp mới
+- Chương 0036: Dung hợp
+- Chương 0037: Tu luyện, đột phá
+- Chương 0038: Xung đột
+- Chương 0039: Nghiền ép
+- Chương 0040: Thân hòa năng lượng, dược tể học

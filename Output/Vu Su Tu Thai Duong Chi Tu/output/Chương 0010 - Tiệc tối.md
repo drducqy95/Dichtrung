@@ -62,7 +62,7 @@ Thấy càng lúc càng có nhiều thiếu nữ tụ tập xung quanh mình, Gr
 
 “Cậu Grimm, Nam tước đại nhân mời cậu tới gặp mặt.” Quản gia lâu đài Basel không biết xuất hiện bên cạnh Grimm từ lúc nào, cung kính nói với anh.
 
-Đang lo không có lý do để rời đi, Grimm lập tức đáp ứng: “Basel, dẫn ta đi gặp Nam tước!”
+Đang lo không có lý do để rời đi, Grimm lập tức đáp ứng: “Basel, dẫn tôi đi gặp Nam tước!”
 
 Các thiếu nữ tại hiện trường nhìn thấy Grimm bị quản gia Basel gọi đi thì trên mặt lộ ra vẻ oán giận, chỉ có Ashville là khác biệt. Là người duy nhất nhảy cùng Grimm một điệu nhảy trong cả bữa tiệc tối, tiến độ của cô đã vượt xa những cô gái khác. Với ánh mắt của người chiến thắng, Ashville quét mắt nhìn những cô gái còn lại, nở một nươc cười đắc thắng.
 

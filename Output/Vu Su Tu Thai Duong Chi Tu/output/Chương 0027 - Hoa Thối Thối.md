@@ -26,7 +26,7 @@ Nói là làm, Grimm cầm bút nhanh chóng viết ra một loạt kế hoạch
 
 Grimm nhắm mắt tĩnh dưỡng trên sofa, lặng lẽ chờ đợi. Rất nhanh, từ cầu thang truyền đến một loạt tiếng bước chân dồn dập, Ashville còn chưa tới tầng sáu thì Grimm đã nghe thấy giọng nói của cô.
 
-“Anh Grimm, ngài sai binh sĩ gọi em có chuyện gì thế ạ?” Giọng nói của Ashville mang theo một chút nghịch ngợm và tràn đầy sức sống.
+“Anh Grimm, anh sai binh sĩ gọi em có chuyện gì thế ạ?” Giọng nói của Ashville mang theo một chút nghịch ngợm và tràn đầy sức sống.
 
 Grimm mở mắt ra, bóng dáng tràn đầy sức sống của Ashville xuất hiện trước mắt anh.
 

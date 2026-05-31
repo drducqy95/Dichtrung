@@ -6,7 +6,7 @@ Mười ngày sau, lão Grimm dẫn Grimm rời khỏi lâu đài, quay trở l�
 
 “Grimm, Hô hấp pháp là phương pháp ngưng kết sinh mệnh lực. Thông qua các động tác và nhịp thở đặc thù, con sẽ ngưng kết sinh mệnh lực của mình thành một hạt giống. Chỉ cần ngưng kết thành công Hạt giống sinh mệnh, sinh mệnh lực sẽ phát sinh biến đổi về chất, sở hữu sức mạnh vượt xa người thường.”
 
-“Ngưng kết Hạt giống sinh mệnh của Kỵ sĩ học đồ bắt buộc phải một hơi hoàn thành. Nếu thất bại, độ khó cho lần ngưng kết Hạt giống sinh mệnh thứ hai sẽ tăng lên rất nhiều. Thế nên bắt buộc phải thực hiện trong trạng thái tốt nhất. Bây giờ con hãy điều chỉnh lại trạng thái của mình trước đi, lát nữa ta sẽ truyền thụ phương pháp cho con.” Lão Grimm nghiêm nghị dặn dò Grimm.
+“Ngưng kết Hạt giống sinh mệnh của Kỵ sĩ học đồ bắt buộc phải một hơi hoàn thành. Nếu thất bại, độ khó cho lần ngưng kết Hạt giống sinh mệnh thứ hai sẽ tăng lên rất nhiều. Thế nên bắt buộc phải thực hiện trong trạng thái tốt nhất. Bây giờ con hãy điều chỉnh lại trạng thái của mình trước đi, lát nữa ông sẽ truyền thụ phương pháp cho con.” Lão Grimm nghiêm nghị dặn dò Grimm.
 
 Grimm nghe lời lão Grimm nói, thần sắc cũng tràn đầy ngưng trọng, lập tức khoanh chân ngồi xuống, bắt đầu điều chỉnh trạng thái của bản thân. Grimm nhắm mắt lại, bắt đầu hít thở sâu.
 
@@ -48,11 +48,11 @@ Theo mô tả trong sách, Phong Bạo Hô Hấp Pháp không có hướng thiê
 
 Bộ Hô hấp pháp này vô cùng mạnh mẽ, nhưng đồng thời khuyết điểm cũng không nhỏ, giống như vòi rồng có mắt bão, Phong Bạo Hô Hấp Pháp cũng tồn tại khuyết điểm chí mạng. Mỗi lần đột phá của người tu luyện Phong Bạo Hô Hấp Pháp đều giống như quá trình phá kén hóa bướm. Không thành công thì thành nhân.
 
-Sau khi xem kỹ toàn bộ nội dung cuốn sách, Grimm không khỏi ngẩng đầu nhìn lão Grimm. Lão Grimm nhìn vào ánh mắt của Grimm, trên mặt nở nụ cười khổ: “Ta năm đó là vì thương thế quá nặng, lãng phí một lượng lớn sinh mệnh lực để giữ mạng, khiến Hạt giống sinh mệnh chịu tổn thương không thể đảo ngược, chứ không phải do cưỡng ép đột phá dẫn tới.”
+Sau khi xem kỹ toàn bộ nội dung cuốn sách, Grimm không khỏi ngẩng đầu nhìn lão Grimm. Lão Grimm nhìn vào ánh mắt của Grimm, trên mặt nở nụ cười khổ: “Ông năm đó là vì thương thế quá nặng, lãng phí một lượng lớn sinh mệnh lực để giữ mạng, khiến Hạt giống sinh mệnh chịu tổn thương không thể đảo ngược, chứ không phải do cưỡng ép đột phá dẫn tới.”
 
 “Grimm, Phong Bạo Hô Hấp Pháp tuy cực kỳ mạnh mẽ nhưng cũng mang theo khuyết điểm khổng lồ, mỗi lần đột phá đều là đánh cược mạng sống. Các bộ Hô hấp pháp khác thì ôn hòa hơn nhiều, ngoại trừ việc ngưng kết hạt giống ở giai đoạn Kỵ sĩ học đồ ra, các Hô hấp pháp khác cho dù thất bại cũng không nguy hiểm đến tính mạng, cùng lắm là vĩnh viễn dừng lại ở cảnh giới hiện tại.”
 
-“Nếu con không muốn tu luyện Phong Bạo Hô Hấp Pháp, ta có thể đi tìm Nam tước, dùng Phong Bạo Hô Hấp Pháp để trao đổi lấy Hô hấp pháp gia truyền của ông ấy.” Lão Grimm vẻ mặt lo lắng nói với Grimm, lão cũng không hy vọng Grimm tu luyện bộ Hô hấp pháp đầy rủi ro này.
+“Nếu con không muốn tu luyện Phong Bạo Hô Hấp Pháp, ông có thể đi tìm Nam tước, dùng Phong Bạo Hô Hấp Pháp để trao đổi lấy Hô hấp pháp gia truyền của ông ấy.” Lão Grimm vẻ mặt lo lắng nói với Grimm, lão cũng không hy vọng Grimm tu luyện bộ Hô hấp pháp đầy rủi ro này.
 
 “Không cần đâu, con sẽ học Phong Bạo Hô Hấp Pháp.” Grimm ngăn cản ý định của lão Grimm.
 

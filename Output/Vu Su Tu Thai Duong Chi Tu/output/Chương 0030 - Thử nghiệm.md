@@ -70,4 +70,4 @@ Hiệu quả thử nghiệm của Dược tể Sinh Mệnh phiên bản cuối c
 
 Grimm gọi ba người Ashville, Lyla và Mia tới, cho ba người uống dược tể, thành công tiến cấp thành kỵ sĩ học đồ. Vốn dĩ ba người họ đã được huấn luyện trong lâu đài, giờ có sự giúp đỡ từ dược tể của Grimm, việc thăng cấp thành kỵ sĩ học đồ diễn ra vô cùng thuận lợi.
 
-“Hiệu quả rất tốt, các cô thích nghi vài ngày đi, hai ba tháng nữa sử dụng dược tể ta để lại là có thể thử đột phá kỵ sĩ chính thức.” Grimm nhìn ba người đã đột phá, vừa ghi chép hiệu quả vừa đưa ra lời khuyên cho ba người.
+“Hiệu quả rất tốt, các cô thích nghi vài ngày đi, hai ba tháng nữa sử dụng dược tể tôi để lại là có thể thử đột phá kỵ sĩ chính thức.” Grimm nhìn ba người đã đột phá, vừa ghi chép hiệu quả vừa đưa ra lời khuyên cho ba người.

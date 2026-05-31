@@ -39,6 +39,12 @@
       "name_source": "郁金香商行",
       "name_target": "thương hội Uất Kim Hương",
       "description": "Thương hội lớn nhất thống trị thị trường nước hoa tại Elendar trước khi bị Grimm đánh bại."
+    },
+    {
+      "name_source": "极限学派",
+      "name_target": "học phái Cực Hạn",
+      "type": "faction",
+      "description": "Học phái tu luyện Minh Tưởng Pháp Cực Hạn (Clorus) thuộc Học viện Bạch Ốc, đang lâm vào cảnh thiếu người kế thừa nghiêm trọng."
     }
   ],
   "weapons": [],
@@ -82,6 +88,18 @@
       "name_source": "巫师之手",
       "name_target": "Bàn tay Vu sư",
       "description": "Vu thuật cơ bản hỗ trợ đắc lực cho các thí nghiệm của Vu sư."
+    },
+    {
+      "name_source": "极限冥想法",
+      "name_target": "Minh Tưởng Pháp Cực Hạn",
+      "type": "technique",
+      "description": "Môn minh tưởng pháp còn gọi là Clorus, giúp tinh thần lực của Vu sư đạt tới giới hạn tối đa có thể đạt tới."
+    },
+    {
+      "name_source": "药剂学",
+      "name_target": "Dược tể học",
+      "type": "technique",
+      "description": "Môn học nghiên cứu và điều chế dược tể."
     }
   ],
   "cultivation_systems": [],
@@ -251,6 +269,12 @@
       "name_source": "海洛斯寄生虫",
       "name_target": "Ký sinh trùng Hailos",
       "description": "Ký sinh trùng sống trên cơ thể cá voi lớn có khả năng biến đổi bản thân giải phóng sinh mệnh lực."
+    },
+    {
+      "name_source": "魔纹卷轴",
+      "name_target": "Cuộn giấy ma văn",
+      "type": "item",
+      "description": "Vật phẩm lưu trữ tri thức của Vu sư."
     }
   ]
 }

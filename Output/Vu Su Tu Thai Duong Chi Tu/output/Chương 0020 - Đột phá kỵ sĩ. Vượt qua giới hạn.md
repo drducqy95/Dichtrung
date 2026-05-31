@@ -16,9 +16,9 @@ Grimm cắt ngang động tác múc nước của lão Grimm, kéo lão sang m�
 
 Trong mắt lão Grimm, việc Grimm khao khát sức mạnh một cách vội vã như vậy phần lớn là do sự kéo giơ của lão. Nếu không vì sự tồn tại của lão thì Grimm đã có thể dang rộng cánh bay cao từ lâu.
 
-Grimm không phải kẻ ngốc, tự nhiên cảm nhận được sự lo lắng và tự trách trong giọng nói của lão Grimm. Anh nhẹ nhàng vỗ vỗ mu bàn tay lão Grimm, an ủi: “Cha yên tâm đi, tỷ lệ thành công của lần đột phá này là hơn chín mươi phần trăm, sẽ không có bất kỳ vấn đề gì đâu.”
+Grimm không phải kẻ ngốc, tự nhiên cảm nhận được sự lo lắng và tự trách trong giọng nói của lão Grimm. Anh nhẹ nhàng vỗ vỗ mu bàn tay lão Grimm, an ủi: “Ông yên tâm đi, tỷ lệ thành công của lần đột phá này là hơn chín mươi phần trăm, sẽ không có bất kỳ vấn đề gì đâu.”
 
-“Một lát nữa con sẽ rời khỏi doanh trại, tìm một nơi yên tĩnh để tiến hành đột phá, chắc sẽ nhanh chóng quay lại thôi. Trong thời gian con đi, làm phiền cha giải thích với mọi người trong doanh trại một tiếng.”
+“Một lát nữa con sẽ rời khỏi doanh trại, tìm một nơi yên tĩnh để tiến hành đột phá, chắc sẽ nhanh chóng quay lại thôi. Trong thời gian con đi, làm phiền ông giải thích với mọi người trong doanh trại một tiếng.”
 
 Grimm cần rời xa đoàn xe để tìm một môi trường yên tĩnh đột phá. Trên Hoang mạc Visas hiếm có dấu chân người, cũng ít có dã thú săn mồi cỡ lớn xuất hiện, đối với Grimm mà nói đây là một địa điểm đột phá vô cùng lý tưởng.
 
@@ -129,7 +129,7 @@ Grimm bò ra khỏi đống đổ nát, há to miệng phun ra một ngụm bụ
 
 Nhìn con số khổng lồ này, Grimm cảm thấy mình cần thiết lập một tiêu chuẩn so sánh năng lượng. Phương thức tính toán năng lượng kiếp trước cần phải đồng bộ với thế giới này.
 
-[Dựa vào năng lượng giải phóng hoàn toàn của một thanh mồi lửa ở thế giới này làm đơn vị cơ bản, đo lường năng lượng ta vừa giải phóng.]
+[Dựa vào năng lượng giải phóng hoàn toàn của một thanh mồi lửa ở thế giới này làm đơn vị cơ bản, đo lường năng lượng mình vừa giải phóng.]
 
 Thanh mồi lửa là thiết bị lưu giữ nguồn lửa thường dùng ở thế giới này, tương tự như ống mồi lửa ở kiếp trước.
 
