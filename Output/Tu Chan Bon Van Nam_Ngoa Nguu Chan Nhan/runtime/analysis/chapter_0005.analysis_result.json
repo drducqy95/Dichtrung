@@ -1,17 +1,903 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
   "chapter": 5,
-  "aligned_segments": [],
-  "term_occurrences": [],
-  "entity_mentions": [],
+  "chapter_id": "chapter_0005",
+  "source_manifest_hash": "731f4000a9ea61ff971149b87bdb7691f918d99003466eac09adb14d36404466",
+  "aligned_segments": [
+    {
+      "alignment_id": "chapter_0005:align_0001",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0001"
+      ],
+      "source": "# 5.第5章 模拟高考",
+      "source_hash": "7997ffb28bd4d5b8995a4250ca84ec59361de7bef9c4045ad48cb107b30f7618",
+      "target": "# Chương 5: Thi Thử Đại Học",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0005:align_0002",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0002"
+      ],
+      "source": "作为冲刺高考的高三生，该学的课程早就学完了，最后这一百天主要是查漏补缺和各种考试，每周一上午，都有一场非常重要的模拟考。",
+      "source_hash": "e6c0cd6816c96f7dd9fc4f0e51f384658542d7a9ec48c688cea034b5b9bd488c",
+      "target": "Là học sinh lớp 12 đang chuẩn bị nước rút cho kỳ thi đại học, các chương trình học chính khóa đều đã hoàn thành từ lâu. Khoảng thời gian một trăm ngày cuối cùng này chủ yếu là để ôn tập củng cố kiến thức và trải qua các kỳ thi lớn nhỏ. Mỗi sáng thứ Hai hằng tuần đều có một buổi thi thử vô cùng quan trọng.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0005:align_0003",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0003"
+      ],
+      "source": "在老师不耐烦的催促下，李耀深吸一口气，踏入标注着自己学号的“考试舱”，舱门封闭，整个世界一片死寂。",
+      "source_hash": "b4f393838bc98ee29d4922d76cb77469496a677b0c13ee9d8b745070e34886a5",
+      "target": "Dưới sự hối thúc thiếu kiên nhẫn của giáo viên, Lý Diệu hít sâu một hơi, bước vào bên trong \"khoang thi cử\" mang số báo danh của mình. Cửa khoang đóng sập lại, cả thế giới lập tức rơi vào một không gian tĩnh lặng như tờ.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0005:align_0004",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0004"
+      ],
+      "source": "“就算没有‘彭海’亲自指点，我也要考上‘九大精英联校’，我拼命，我怕谁？”李耀狠狠攥紧了拳头。",
+      "source_hash": "1f09fc7de469cb67d68c8d7b88f96f9f53c45d7f421b43932a9424498966fdb8",
+      "target": "\"Cho dù không được đích thân 'Bành Hải' chỉ dẫn, mình vẫn sẽ thi đỗ vào 'Chín đại học tinh anh liên kết'. Mình đã liều mạng hết cỡ rồi, còn phải sợ ai chứ?\" Lý Diệu nắm chặt tay tự cổ vũ.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0005:align_0005",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0005"
+      ],
+      "source": "“滴！滴！滴！”考试舱内侧的一块光幕上，数字跳动，正在倒计时，当数字变成“零”时，一道古井无波的冰冷声音响起：“考试开始，考生准备！”",
+      "source_hash": "8d6685147998a5e67d207027fde1c756263fc2a103856ab1363865f83e4a4963",
+      "target": "\"Tít! Tít! Tít!\" Trên một tấm màn ánh sáng bên trong khoang thi cử, các con số đang nhảy múa đếm ngược. Khi con số trở về \"không\", một giọng nói lạnh lùng, bình thản không chút cảm xúc vang lên: \"Kỳ thi bắt đầu, thí sinh chuẩn bị!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0005:align_0006",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0006"
+      ],
+      "source": "考试舱内侧镌刻的上万道灵符同时闪亮，李耀只觉得眼前一花，斗转星移，已经出现在一片红褐色的荒漠中央。",
+      "source_hash": "cec2bb32a61cb1c4117cc0677cb48ef617787d3af05dfb08df8f447aea8d9f53",
+      "target": "Hàng vạn đạo bùa văn khắc trên vách trong của khoang thi cử đồng loạt phát sáng rực rỡ. Lý Diệu chỉ cảm thấy hoa mắt một cái, đất trời quay cuồng, giây tiếp theo cậu đã xuất hiện giữa một sa mạc có màu nâu đỏ nóng bỏng.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0005:align_0007",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0007"
+      ],
+      "source": "地面炙热，双脚仿佛针扎；空气粘稠到近乎凝固，就像湿毛巾缠在身上，怎么都挣脱不开；偶尔刮来的热风中夹杂着浓烈的血腥气息，四面八方隐约传来鬼哭狼嚎。",
+      "source_hash": "65455ee6d6403d9d25d29d675f2e7a3c918359b3dac79fdf4125a10164aca866",
+      "target": "Mặt đất nóng rực khiến hai bàn chân đau nhói như bị kim châm. Không khí đậm đặc đến mức gần như đông cứng lại, tựa như một chiếc khăn ướt quấn chặt lấy cơ thể, giãy giụa thế nào cũng không thoát ra nổi. Thi thoảng, một cơn gió nóng quét qua mang theo mùi máu tanh nồng nặc, bốn phương tám hướng loáng thoáng có tiếng sói tru quỷ khóc thê lương.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0005:align_0008",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0008"
+      ],
+      "source": "五感如此真切，仿佛脚踏实地，置身修罗杀场。",
+      "source_hash": "214921d262b397269f7643bf71e10ff98536ded09ac35a7376286b0d3263c227",
+      "target": "Mọi giác quan đều chân thực đến cực điểm, cứ như thể cậu đang thực sự đặt chân lên vùng đất chết chóc đầy rẫy huyết tinh này.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0005:align_0009",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0009"
+      ],
+      "source": "李耀却知道，这是考试舱幻化出来的“太虚幻境”，时间紧迫，他定了定神，朝着天空中一个透明箭头指引的方向疾驰而去。",
+      "source_hash": "ce12cf71c16eef6931088d0db8a424e87a4d37a6692e7bd1ee268dfd7a1bf07e",
+      "target": "Nhưng Lý Diệu biết rõ đây chỉ là \"Thái Hư Huyễn Cảnh\" do khoang thi cử tạo ra. Thời gian vô cùng gấp gáp, cậu nhanh chóng trấn tĩnh tinh thần, lao nhanh theo hướng chỉ dẫn của một mũi tên trong suốt trên bầu trời.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0005:align_0010",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0010"
+      ],
+      "source": "五十公里长途越野跑，是联邦高考的基础科目，为了遴选出有希望成为修真者的精英少年，一路上都是危机四伏，陷阱重重。",
+      "source_hash": "6bd579b1d6cf0b25062cd8d48b62dc4c701ba9f36372fa736a206c32f9cba1d3",
+      "target": "Chạy việt dã năm mươi cây số là môn thi cơ bản trong kỳ thi đại học của Liên bang. Để tuyển chọn được những thiếu niên tinh anh có hy vọng trở thành tu chân giả, dọc đường đi luôn rình rập đủ loại hiểm họa và bẫy rập chết người.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0005:align_0011",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0011"
+      ],
+      "source": "果然，当李耀路过一处微微隆起的土包时，土包忽然爆裂，射出无数碎石，从碎石中窜出一头土黄色的双头沙狼！",
+      "source_hash": "b4cde7fe5d9fdd4f48762d63f6c71f235165da63453bff838cfa91d5b0f2ef33",
+      "target": "Quả nhiên, khi Lý Diệu đi qua một cồn cát hơi nhô lên, cồn cát đột ngột nổ tung, bắn ra vô số đất đá vương vãi. Từ giữa đống đất đá, một con sa lang hai đầu màu đất vàng vọt ra!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0005:align_0012",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0012"
+      ],
+      "source": "这种妖兽比普通野狼要大上一轮，脊背高高鼓起，上面还长着一个畸形的小脑袋，是低阶妖兽“沙狼”的变种，除了擅长蛰伏在沙地中之外，还拥有极高的智慧，对高中生而言，是极为难缠的对手。",
+      "source_hash": "feaf1bcb3562bc169875aa0b95e979d7a283d6176f055bd0578267470ec748ec",
+      "target": "Loài yêu thú này có kích thước lớn hơn sói hoang thông thường một vòng, trên lưng gồ cao một khối thịt dị dạng giống như một cái đầu nhỏ bị teo lại. Đây là một biến chủng của loài yêu thú cấp thấp \"sa lang\". Ngoài khả năng ẩn nấp rất giỏi dưới lớp cát, chúng còn có trí khôn cực cao, là đối thủ vô cùng khó chịu đối với học sinh trung học.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0005:align_0013",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0013"
+      ],
+      "source": "可是对李耀这头在法宝坟墓中生存了十八年的“秃鹫”来说，观察每一寸环境变化早就成为本能，双头沙狼的伪装未免有些拙劣，早就被他看穿。",
+      "source_hash": "c9daf10dd23418ffa1df39cb191bbdcd1e94dfff698d4a22cb05d895af28b3bd",
+      "target": "Thế nhưng, đối với một con \"Thốc Thứu\" đã sinh tồn suốt mười tám năm ở nghĩa địa pháp bảo như Lý Diệu, việc quan sát từng thay đổi nhỏ nhất của môi trường xung quanh đã trở thành bản năng tự nhiên. Sự ngụy trang của con sa lang hai đầu này có phần quá vụng về, sớm đã bị cậu phát hiện từ lâu.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0005:align_0014",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0014"
+      ],
+      "source": "“巨熊靠！”",
+      "source_hash": "93beef32a4b0934c34d4054044578aba5c4e7cc89306e2dfb70228c177f2b6be",
+      "target": "\"Cự Hùng Khảo!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0005:align_0015",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0015"
+      ],
+      "source": "不等双头沙狼完全窜出，李耀双腿弹射，身体缩成一团，肩膀一沉，恍若一头狂暴的巨熊，狠狠撞了过去！",
+      "source_hash": "69c113dd1a4ca65414d259530f11e1f0fa9a44b872b3d9bb601a4bb8c85a9843",
+      "target": "Không đợi con sa lang hai đầu vọt ra hoàn toàn, Lý Diệu đã bật nhảy bằng cả hai chân, thu người lại thành một khối, vai hạ thấp xuống, tựa như một con gấu điên cuồng dũng mãnh tông thẳng vào đối thủ!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0005:align_0016",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0016",
+        "chapter_0005:seg_0017"
+      ],
+      "source": "他选的时机非常巧妙，正是双头沙狼窜出的最高点，旧力已尽，无处借力，更无法变向，被他撞个正着。\n\n“咔嚓！”",
+      "source_hash": "28b332841215ad1d285e4482ea3495b9584d15a8524021925d1ec2a5c20ed432",
+      "target": "Cậu lựa chọn thời điểm vô cùng chuẩn xác, đúng vào lúc con sa lang hai đầu vọt lên điểm cao nhất, lực cũ đã cạn, lực mới chưa sinh, không có chỗ mượn lực để né tránh hay đổi hướng, bị cậu đâm trực diện.\n\n\"Rắc!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
+    },
+    {
+      "alignment_id": "chapter_0005:align_0017",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0018"
+      ],
+      "source": "双头沙狼阴险狡诈，体质却弱，只喜偷袭，不擅正面对抗，被他一记“巨熊靠”撞断了脊椎骨，朝沙坑反弹回去。",
+      "source_hash": "19cad747f302eb102e52b82f1f8b18d14c0694b295572552bbe3129a2c912590",
+      "target": "Con sa lang hai đầu tuy âm hiểm xảo quyệt nhưng thể chất lại khá yếu, chỉ thích đánh lén chứ không giỏi đối đầu trực diện. Nó bị một cú \"Cự Hùng Khảo\" của cậu đâm gãy cột sống, văng ngược trở lại hố cát.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0005:align_0018",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0019"
+      ],
+      "source": "李耀冷笑一声，蛇步上前，伸爪如刃，狠狠抓向双头沙狼脊背上的小脑袋。",
+      "source_hash": "b44a6b01db65d30445b02dd5d64213c4a16bfe153faa1838659fdc6025244551",
+      "target": "Lý Diệu lạnh lùng cười một tiếng, sải bước xà bộ tiến lên, năm ngón tay xòe ra như những lưỡi dao sắc bén, chộp thẳng vào cái đầu nhỏ dị dạng trên lưng con sa lang hai đầu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0005:align_0019",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0020"
+      ],
+      "source": "“铁鹰爪！”",
+      "source_hash": "d43968bcd23c62bb4cdce840e2ce82ec879a9ad6672afe9c1809a61f8fe5b1f6",
+      "target": "\"Thiết Ưng Trảo!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0005:align_0020",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0021"
+      ],
+      "source": "狼头瞬间碎裂，双头沙狼惨叫一声，死得不能再死。",
+      "source_hash": "99ab984199aed3a859b763643b68732792a04eb62c73c110d7adbb9bfa3c9c87",
+      "target": "Cái đầu sói nhỏ lập tức vỡ vụn, con sa lang hai đầu rú lên một tiếng đau đớn rồi chết hẳn.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0005:align_0021",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0022"
+      ],
+      "source": "虚空中传来一阵悦耳的“叮叮”声，是考试舱正在计算李耀这次击杀的分数。",
+      "source_hash": "152d2e185dafb606c3a06a7f7f3da9cb0a6b7beab47bd0df8ac505e789824a0b",
+      "target": "Giữa không trung vang lên những tiếng \"tính toong\" vui tai, đó là hệ thống của khoang thi cử đang tính toán điểm số cho cú tiêu diệt này của Lý Diệu.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0005:align_0022",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0023"
+      ],
+      "source": "李耀心中窃喜，这套源自基础武学《战兽十三势》的连续技，起码能为自己加上十分。",
+      "source_hash": "474009f2f1c64115306e76a440cdff456deefa4a3fe5579ddef0d1dae7825c0c",
+      "target": "Lý Diệu thầm vui mừng. Chuỗi chiêu thức liên hoàn kết hợp từ môn võ học cơ bản 《Chiến Thú Thập Tam Thế》 này ít nhất cũng giúp cậu cộng thêm mười điểm.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0005:align_0023",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0024"
+      ],
+      "source": "他也不急着赶路，而是把双头沙狼的尸体拖出沙坑，找了块边缘还算锋利的石头，将妖兽开膛破肚。",
+      "source_hash": "de685983b2a3403547332406340a0c4928250c53193811511c35e4e96e43fbcd",
+      "target": "Cậu không vội vàng lên đường tiếp mà kéo xác con sa lang hai đầu ra khỏi hố cát, tìm một mảnh đá có cạnh sắc nhọn để mổ bụng con thú.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0005:align_0024",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0025"
+      ],
+      "source": "片刻之后，四根肋骨打磨成了四柄骨刃，狼皮勉强扎成一个水袋，装满了狼血。",
+      "source_hash": "118263a5a8a973392c10f0f3406294613af6c6d8bd356db7189f4a80223db5cd",
+      "target": "Chỉ một lát sau, bốn khúc xương sườn của nó đã được mài sắc thành bốn thanh cốt đao, lớp da sói được buộc lại tạm thời làm túi đựng nước chứa đầy máu sói.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0005:align_0025",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0026"
+      ],
+      "source": "在炙热的荒漠中，一袋狼血是能救命的。",
+      "source_hash": "bb20bcbe95dec25f7cae937dc717d1396e142de21160095c9f14cd669e40a17e",
+      "target": "Giữa sa mạc nóng bức này, một túi máu sói chính là thứ có thể cứu mạng cậu lúc nguy cấp.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0005:align_0026",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0027"
+      ],
+      "source": "全副武装，略加休整之后，李耀继续前进，不过一个钟头，他已经扛过一场黑风暴，击杀了四头低阶妖兽，不过考试才刚刚开始，这还只是热身而已，接下来才是叫每一名联邦考生最痛不欲生的环节。",
+      "source_hash": "29375eccecb6e994140507af02f5b72b9e589bee85c6ce713bb8ecfe0f74f6f3",
+      "target": "Sau khi trang bị đầy đủ và nghỉ ngơi chốc lát, Lý Diệu tiếp tục tiến bước. Chỉ trong một giờ, cậu đã vượt qua một trận bão cát đen, tiêu diệt thêm bốn con yêu thú cấp thấp. Nhưng kỳ thi mới chỉ bắt đầu, đây mới chỉ là màn khởi động, phần tiếp theo mới là cơn ác mộng khiến mọi thí sinh của Liên bang phải đau đớn nhất.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0005:align_0027",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0028"
+      ],
+      "source": "天空中，绿色的符文如暴雨般倾盆直下，组成了一道问题：",
+      "source_hash": "60b50a31fbbba5424eb5915ddac021532e16a5bf24ee1dbcaa1fe8ef63b998df",
+      "target": "Trên bầu trời, những hàng bùa văn màu xanh lá cây đổ xuống như mưa rào, ghép thành nội dung câu hỏi:",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0005:align_0028",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0029"
+      ],
+      "source": "“肖明是一名炼气期修真者，身怀5500晶的灵力，在一次修炼中不小心中了诡异的‘噬心虫’，每秒钟被吞噬48晶灵力，肖明的师父在1分13秒之后发现，为了救他，每秒钟向他体内渡入55晶灵力，并且在两分钟之后提升到每秒钟渡入59晶灵力，问——”",
+      "source_hash": "1ca1e3b8d30fdb7a6f78e977a3e1763adc63445ce16fac0fe14f000108523042",
+      "target": "\"Tiêu Minh là một tu chân giả Luyện Khí Kỳ, sở hữu linh lực 5500 Tinh. Trong một lần tu luyện, anh không may bị trúng độc cổ 'Phệ Tâm Trùng', mỗi giây bị trùng nuốt mất 48 Tinh linh lực. Sư phụ của Tiêu Minh phát hiện ra sau đó 1 phút 13 giây. Để cứu đồ đệ, sư phụ mỗi giây truyền vào cơ thể anh 55 Tinh linh lực, và sau hai phút tăng lượng truyền lên thành 59 Tinh linh lực mỗi giây. Hỏi —\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0005:align_0029",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0030"
+      ],
+      "source": "“一，肖明要多久才能恢复正常灵力水平？”",
+      "source_hash": "f73c4b86ea03d3b7699286cfe004a752c6ed9557fa5f82501c1995c4e6c1f175",
+      "target": "\"Một, mất bao lâu thì Tiêu Minh mới khôi phục lại mức linh lực bình thường?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0005:align_0030",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0031"
+      ],
+      "source": "“二，请简述‘噬心虫’的炼制方法，以及中了噬心虫之后的症状及治疗步骤。”",
+      "source_hash": "51545411317cbffa08246724d0c074017783614e8fe0e70edf8e237b3a5cf3ad",
+      "target": "\"Hai, hãy trình bày ngắn gọn phương pháp luyện chế 'Phệ Tâm Trùng', các triệu chứng sau khi nhiễm trùng và các bước điều trị cụ thể.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0005:align_0031",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0032"
+      ],
+      "source": "“三，请说出‘噬心虫’最早由哪一个门派炼制成功？列举至少五名该门派的宗主，并简述该门派的灭亡原因。”",
+      "source_hash": "72681d9de400becf731a94acdfdf4cfa32e6562719e63d69e0c9f4a6b51fdb43",
+      "target": "\"Ba, hãy cho biết 'Phệ Tâm Trùng' do môn phái nào luyện chế thành công đầu tiên? Liệt kê ít nhất năm đời tông chủ của môn phái đó và tóm tắt nguyên nhân diệt vong của môn phái này.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0005:align_0032",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0033"
+      ],
+      "source": "李耀轻轻拍了拍脸颊，没想到一上来就是难度这么高的“综合题”，糅合了数学、历史学、药理学、战场急救学等多学科的知识，不愧是完全仿真的“模拟高考”！",
+      "source_hash": "161ea09e44404cc40e00289f0748a1d1e21858e8c91566d122c5a6fd3f02fec7",
+      "target": "Lý Diệu khẽ vỗ vào má mình cho tỉnh táo. Cậu không ngờ ngay câu đầu tiên đã gặp phải một câu hỏi \"tổng hợp\" có độ khó cao thế này, tích hợp cả kiến thức toán học, lịch sử, dược lý học lẫn sơ cứu chiến trường. Quả không hổ danh là kỳ \"thi thử đại học\" mô phỏng hoàn toàn thực tế!",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0005:align_0033",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0034"
+      ],
+      "source": "凝神静气，仔细思索，脑海中浮现出无数平时积累的知识，李耀聚精会神，飞快作答，一小题一小题地“攻克”，很快，一道道用神念书写的淡蓝色答案，出现在绿色的题目下方。",
+      "source_hash": "ab1c0100202ff7aceacbce211d340bd85211dee3df73b9325739548cce040668",
+      "target": "Tập trung tinh thần, suy nghĩ kỹ lưỡng, lục tìm trong đầu vô số kiến thức đã tích lũy hằng ngày, Lý Diệu tập trung cao độ, nhanh chóng viết câu trả lời. Cậu giải quyết từng câu hỏi nhỏ một. Rất nhanh, những dòng câu trả lời màu xanh lam nhạt viết bằng thần niệm lần lượt xuất hiện bên dưới câu hỏi màu xanh lá cây.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0005:align_0034",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0035"
+      ],
+      "source": "解答完成，下一题！",
+      "source_hash": "d00ab152374fdb4a123f485ba4ba535c1d17748cd95bef552fb59ca71059fccb",
+      "target": "Hoàn thành câu trả lời, chuyển sang câu tiếp theo!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0005:align_0035",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0036"
+      ],
+      "source": "“一位正道‘灵山宗’修真者脚踩飞剑，从东方以每秒钟247米的速度向一处山谷飞去，而另一位邪道‘血杀堡’修真者脚踏黑云，从西方以每秒239秒的速度相对而行，目前两人之间相距122.5公里，问他们将在多久之后相遇？”",
+      "source_hash": "3f3eb62c4cd46914435d069b0e6d3a25067f4b2163b732937150eaf8ad6a2969",
+      "target": "\"Một tu chân giả chính đạo thuộc 'Linh Sơn Tông' ngự kiếm bay từ phía đông về phía một thung lũng với tốc độ 247 mét/giây. Cùng lúc đó, một tu chân giả tà đạo thuộc 'Huyết Sát Bảo' đạp hắc vân bay từ phía tây đối diện với tốc độ 239 mét/giây. Hiện tại khoảng cách giữa hai người là 122.5 km. Hỏi sau bao lâu họ sẽ chạm mặt nhau?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0005:align_0036",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0037"
+      ],
+      "source": "“假设两人修为相当，均采用各自宗门基础功法和法宝，请结合灵山宗和血杀堡的特点，推演两人的战斗过程——至少推演七个回合，不得少于五百字。”",
+      "source_hash": "17aaf603eb23845ad3a89f39dcf48c22edcd43fc2d3ab6eab7b9f17ae33ea74a",
+      "target": "\"Giả thuyết tu vi của hai người ngang nhau, đều sử dụng công pháp và pháp bảo cơ bản của tông môn mình. Hãy kết hợp đặc điểm của Linh Sơn Tông và Huyết Sát Bảo để suy diễn quá trình chiến đấu giữa hai người — quá trình suy diễn phải kéo dài ít nhất bảy hiệp đấu, độ dài không dưới năm trăm chữ.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0005:align_0037",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0038"
+      ],
+      "source": "这道题明显比上一道要简单许多，不过当李耀正欲答题时，前方再度传来熏人的妖兽气息，焦躁的低吼声越来越近。",
+      "source_hash": "44936127762a455ae378f316e2ffceb837266307479a93a4808e137a4e36541d",
+      "target": "Câu hỏi này rõ ràng đơn giản hơn câu trước rất nhiều. Tuy nhiên, ngay khi Lý Diệu chuẩn bị viết câu trả lời thì phía trước lại truyền đến mùi yêu thú nồng nặc khó chịu, tiếng gầm gừ giận dữ ngày một gần hơn.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0005:align_0038",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0039"
+      ],
+      "source": "——在腥风血雨中计算、答题，比的是考生的体能、武技、意志、计算力和思维敏捷力，所有能力综合起来全都出类拔萃的人，才能在联邦高考中脱颖而出，走上修真之路！",
+      "source_hash": "bada3c7969e4b6c2f56563205cd3d018317708d304cdf129230a6723bf4337ca",
+      "target": "— Vừa phải tính toán, trả lời câu hỏi vừa phải chiến đấu sinh tử trong mưa máu gió tanh. Kỳ thi này thách thức toàn diện từ thể lực, võ kỹ, ý chí, năng lượng tính toán cho đến khả năng phản ứng nhạy bén của thí sinh. Chỉ có những người xuất sắc vượt trội ở tất cả các phương diện mới có thể nổi bật trong kỳ thi đại học của Liên bang để bước lên con đường tu chân!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0005:align_0039",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0040"
+      ],
+      "source": "李耀双手交叉，拔出两柄白森森的骨刃，舔了舔嘴唇，正面迎上，而大脑中上万道念头不住翻滚，高速计算着……",
+      "source_hash": "1c07f003e46cdc280a783014ff380f69a052f87cd028c1a55fcd9837f41d270b",
+      "target": "Lý Diệu bắt chéo hai tay, rút hai thanh cốt đao trắng hếu ra, liếm liếm môi rồi trực diện xông lên. Trong khi đó, hàng vạn niệm đầu trong não bộ của cậu vẫn không ngừng xoay chuyển, tính toán với tốc độ cực cao...",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0005:align_0040",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0041"
+      ],
+      "source": "偌大的校园鸦雀无声，每一个教室里都摆放着几十台考试舱，在太虚幻境里，一名名高三生，都在疯狂地奋斗、拼搏，干掉一头头妖兽和一道道题目。",
+      "source_hash": "5fdffc7632ec15fb4e5d8f641c338771bc2e76a8772e6efc115ae922fb48905a",
+      "target": "Khuôn viên trường học rộng lớn lặng ngắt như tờ. Trong mỗi lớp học đều đặt vài chục khoang thi cử. Trong Thái Hư Huyễn Cảnh, các học sinh lớp 12 đều đang điên cuồng chiến đấu, nỗ lực hết mình để tiêu diệt từng con yêu thú và giải quyết từng câu hỏi hóc búa.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0005:align_0041",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0042"
+      ],
+      "source": "不知不觉，太虚幻境中的时间已经过去了四个多小时，考试接近尾声。",
+      "source_hash": "37ed9da77993036a80e36faea44c4dee68a1c2aba0921ca8b3073e6bae7f7634",
+      "target": "Thời gian trôi qua lúc nào không hay, bốn tiếng đồng hồ trong Thái Hư Huyễn Cảnh đã trôi qua, kỳ thi dần đi vào giai đoạn cuối.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0005:align_0042",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0043"
+      ],
+      "source": "李耀周身布满了大大小小的七八十处伤口，不少地方的鲜血都流干了，特别是腹部还插着一枚妖兽断齿不敢拔出，手中的骨刃也几乎磨凸。",
+      "source_hash": "aa382eb437018b379a1653a98899019258ba91a18496d7c1261e44c489b23446",
+      "target": "Khắp người Lý Diệu chằng chịt hơn bảy mươi vết thương lớn nhỏ, nhiều chỗ máu đã khô cứng lại. Đặc biệt là ở vùng bụng vẫn còn cắm một chiếc răng yêu thú bị gãy mà cậu không dám rút ra, hai thanh cốt đao trên tay cũng mài mòn vẹt đầu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0005:align_0043",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0044"
+      ],
+      "source": "只有那对亮晶晶的大眼睛，依旧保持清澈，毫不掩饰地喷涌着\\*\\*的光芒。",
+      "source_hash": "9884b964e1e23e7b0a3898244a97349cbf2b994d7a4e5b950b875de136ba3da8",
+      "target": "Chỉ có đôi mắt to sáng ngời của cậu là vẫn giữ được vẻ trong trẻo, rực cháy khát vọng mãnh liệt.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0005:align_0044",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0045"
+      ],
+      "source": "“应该是最后一题了……”",
+      "source_hash": "3f2f26e3f49f167b2251ffe0f57e10007d1091ccb94261a4d97ae2c794654260",
+      "target": "\"Chắc là câu hỏi cuối cùng rồi...\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0005:align_0045",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0046"
+      ],
+      "source": "当天空中滚落八角垂芒，金光闪闪的符文时，李耀凭借丰富的考试经验判断出，是最后一道价值一百分的大题“综述题”。",
+      "source_hash": "8d0aafdd28806a8a2d0adff09feb4bd124cf92f9de3a203800b908418e53ebf4",
+      "target": "Khi những bùa văn lấp lánh ánh kim sắc tám góc rơi xuống từ bầu trời, Lý Diệu dựa vào kinh nghiệm thi cử phong phú của mình để nhận đoán đây chính là câu hỏi tổng hợp lớn cuối cùng trị giá một trăm điểm.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0005:align_0046",
+      "chapter_id": "chapter_0005",
+      "segment_ids": [
+        "chapter_0005:seg_0047"
+      ],
+      "source": "果然，题目不长，却一字千钧：“请综述‘大黑暗时代’。”",
+      "source_hash": "747319d2ca93a93787080bff5485e9bc756fefc51d3d90e26c1cd57ff9a13943",
+      "target": "Quả nhiên, câu hỏi không dài nhưng mỗi chữ nặng tựa ngàn cân:\n\n\"Hãy trình bày tổng quan về 'Đại Hắc Ám Thời Đại'.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    }
+  ],
+  "term_occurrences": [
+    {
+      "chapter_id": "chapter_0005",
+      "source_term": "法宝坟墓",
+      "target_term": "Nghĩa địa Pháp Bảo",
+      "segment_id": "chapter_0005:seg_0013",
+      "present_in_target": false,
+      "is_locked": false,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0005",
+      "source_term": "九大精英联校",
+      "target_term": "Chín đại học tinh anh liên kết",
+      "segment_id": "chapter_0005:seg_0004",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0005",
+      "source_term": "考试舱",
+      "target_term": "khoang thi cử",
+      "segment_id": "chapter_0005:seg_0003",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0005",
+      "source_term": "太虚幻境",
+      "target_term": "Thái Hư Huyễn Cảnh",
+      "segment_id": "chapter_0005:seg_0009",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0005",
+      "source_term": "沙狼",
+      "target_term": "sa lang",
+      "segment_id": "chapter_0005:seg_0011",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "beast",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0005",
+      "source_term": "双头沙狼",
+      "target_term": "sa lang hai đầu",
+      "segment_id": "chapter_0005:seg_0011",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "beast",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0005",
+      "source_term": "战兽十三势",
+      "target_term": "Chiến Thú Thập Tam Thế",
+      "segment_id": "chapter_0005:seg_0023",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "technique",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0005",
+      "source_term": "巨熊靠",
+      "target_term": "Cự Hùng Khảo",
+      "segment_id": "chapter_0005:seg_0014",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "technique",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0005",
+      "source_term": "铁鹰爪",
+      "target_term": "Thiết Ưng Trảo",
+      "segment_id": "chapter_0005:seg_0020",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "technique",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0005",
+      "source_term": "噬心虫",
+      "target_term": "Phệ Tâm Trùng",
+      "segment_id": "chapter_0005:seg_0029",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0005",
+      "source_term": "灵山宗",
+      "target_term": "Linh Sơn Tông",
+      "segment_id": "chapter_0005:seg_0036",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0005",
+      "source_term": "血杀堡",
+      "target_term": "Huyết Sát Bảo",
+      "segment_id": "chapter_0005:seg_0036",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0005",
+      "source_term": "大黑暗时代",
+      "target_term": "Đại Hắc Ám Thời Đại",
+      "segment_id": "chapter_0005:seg_0047",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0005",
+      "source_term": "彭海",
+      "target_term": "Bành Hải",
+      "segment_id": "chapter_0005:seg_0004",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "character",
+      "confidence": 1.0
+    }
+  ],
+  "entity_mentions": [
+    {
+      "chapter_id": "chapter_0005",
+      "source_surface": "李耀",
+      "target_surface": "Lý Diệu",
+      "entity_type": "person",
+      "segment_id": "chapter_0005:seg_0003",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0005",
+      "source_surface": "彭海",
+      "target_surface": "Bành Hải",
+      "entity_type": "person",
+      "segment_id": "chapter_0005:seg_0004",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0005",
+      "source_surface": "肖明",
+      "target_surface": "Tiêu Minh",
+      "entity_type": "person",
+      "segment_id": "chapter_0005:seg_0029",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0005",
+      "source_surface": "战兽十三势",
+      "target_surface": "Chiến Thú Thập Tam Thế",
+      "entity_type": "techniques",
+      "segment_id": "chapter_0005:seg_0023",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0005",
+      "source_surface": "法宝坟墓",
+      "target_surface": "Nghĩa địa Pháp Bảo",
+      "entity_type": "locations",
+      "segment_id": "chapter_0005:seg_0013",
+      "confidence": 1.0
+    }
+  ],
+  "name_analysis": {
+    "status": "ok",
+    "evidence_count": 3,
+    "name_mentions": [
+      {
+        "chapter_id": "chapter_0005",
+        "name_source": "李耀",
+        "name_target": "Lý Diệu",
+        "segment_id": "chapter_0005:seg_0003",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0005",
+        "name_source": "彭海",
+        "name_target": "Bành Hải",
+        "segment_id": "chapter_0005:seg_0004",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0005",
+        "name_source": "肖明",
+        "name_target": "Tiêu Minh",
+        "segment_id": "chapter_0005:seg_0029",
+        "present_in_target": true,
+        "confidence": 1.0
+      }
+    ],
+    "name_entries": [
+      {
+        "name_source": "李耀",
+        "name_target": "Lý Diệu"
+      },
+      {
+        "name_source": "彭海",
+        "name_target": "Bành Hải"
+      },
+      {
+        "name_source": "肖明",
+        "name_target": "Tiêu Minh"
+      }
+    ],
+    "transliteration_units": [],
+    "inferred_name_rules": [],
+    "ambiguity_cases": [],
+    "reusable_name_profile": {
+      "mapping_count": 3,
+      "has_ambiguity": false
+    }
+  },
   "phrase_patterns": [],
   "grammar_rule_candidates": [],
+  "analyzer_reports": {
+    "term_occurrences": {
+      "status": "ok",
+      "evidence_count": 14
+    },
+    "entity_mentions": {
+      "status": "ok",
+      "evidence_count": 5
+    },
+    "name_mentions": {
+      "status": "ok",
+      "evidence_count": 3
+    },
+    "phrase_patterns": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    },
+    "grammar_rule_candidates": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    }
+  },
+  "review_queue": [
+    {
+      "chapter_id": "chapter_0005",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "高三生",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.82,
+        "evidence": [
+          " \n\n作为冲刺高考的高三生，该学的课程早就学完",
+          "在太虚幻境里，一名名高三生，都在疯狂地奋斗、拼"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0005",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "灵山宗",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "题！\n\n“一位正道‘灵山宗’修真者脚踩飞剑，从"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0005",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "身体缩成一团",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "窜出，李耀双腿弹射，身体缩成一团，肩膀一沉，恍若一头"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0005",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "彭海",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "寂。\n\n“就算没有‘彭海’亲自指点，我也要考"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0005",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0005:align_0016",
+        "segment_ids": [
+          "chapter_0005:seg_0016",
+          "chapter_0005:seg_0017"
+        ]
+      }
+    }
+  ],
   "quality_audit": {
     "segment_coverage": 1.0,
+    "source_hash_match": true,
+    "target_reconstruction_match": true,
+    "invalid_ref_count": 0,
     "locked_term_hit_rate": 1.0,
+    "missing_locked_terms": [],
     "cjk_residue_count": 0,
-    "paragraph_drift_ratio": 0.0,
+    "paragraph_drift_ratio": 0.02127659574468085,
     "pronoun_consistency_score": 1.0,
     "warnings": []
   }

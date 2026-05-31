@@ -1,65 +1,478 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
   "chapter": 16,
   "source_file": "D:\\Dichtrung\\Source\\Source split\\Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan\\0016 - 16.第16章 一条海参.md",
   "source_char_count": 2576,
-  "characters": [
+  "source_hash": "abdaa0968c36ceaea9d79fd8e1741b80794180e1baa99086c65c325c6e7bd2d9",
+  "source_manifest_hash": "b3d0dc1ea615683cd55ddac951b08e829bcd435d8b181e0557c6b833f87a7f2b",
+  "source_segments": [
     {
-      "source": "连大少",
-      "entity_type": "person",
-      "count": 2,
-      "confidence": 0.82,
-      "evidence": [
-        "身后，笑吟吟道：“赫连大少，你醉了。”\n\n赫连",
-        "心豹子胆也不敢威胁赫连大少，只不过是多嘴提醒一"
-      ]
-    }
-  ],
-  "organizations": [
-    {
-      "source": "自有其深厚的底蕴和超然的格局",
-      "entity_type": "organization",
-      "count": 1,
-      "confidence": 0.78,
-      "evidence": [
-        "立几十年不倒的餐厅，自有其深厚的底蕴和超然的格局，经营者并不会因为客"
-      ]
-    }
-  ],
-  "locations": [
-    {
-      "source": "上东区",
-      "entity_type": "location",
-      "count": 2,
-      "confidence": 0.78,
-      "evidence": [
-        "直秉承的宗旨，整个‘上东区’谁人不知？赫连大少"
-      ]
+      "segment_id": "chapter_0016:seg_0001",
+      "source": "# 16.第16章 一条海参",
+      "source_hash": "03dffc2a7096ac999c6a4a7ea595a489126e3268319bcdff9701153e559f958e"
     },
     {
-      "source": "就像一座从休眠状态中复苏的活火山",
-      "entity_type": "location",
-      "count": 1,
-      "confidence": 0.78,
-      "evidence": [
-        "初的惊愕欲绝中清醒，就像一座从休眠状态中复苏的活火山，炙热的岩浆呼之欲出"
-      ]
+      "segment_id": "chapter_0016:seg_0002",
+      "source": "“呼——”",
+      "source_hash": "28af72f78a54ae1642b79433fbd5f1b24b8de3e5cc4a6ce9e94d111d18b72217"
+    },
+    {
+      "segment_id": "chapter_0016:seg_0003",
+      "source": "赫连烈气势惊人，如同一辆风驰电掣的超高速晶轨列车，人还未至，令人睁不开眼的劲风已经狠狠砸到了李耀脸上。",
+      "source_hash": "6a70e83a8ad78cfe879d68ef81d9236bb80c9ad28f2ce00f936e476f129a45b1"
+    },
+    {
+      "segment_id": "chapter_0016:seg_0004",
+      "source": "李耀的眼球犹如针扎，一股凉意从尾椎骨直冲心脏，脑域深处仿佛有一个“开关”猛地打开，刚刚从南柯一梦中苏醒时无比敏锐的五感再次降临。",
+      "source_hash": "72a30ff226b52dd5d5b2e72a5950dbdec90c1c1806998273322eda87cc3bbb72"
+    },
+    {
+      "segment_id": "chapter_0016:seg_0005",
+      "source": "就在这0.1秒之内，他十分清晰地看到了不远处目瞪口呆的三名阔少，看清了小花园中每一株植物上的枝叶和花朵，闻到了厨房里正在烧制的几十种菜肴的香味，甚至看清楚了在七八米远的地方，一只蚊子正晃晃悠悠的飞过。",
+      "source_hash": "130e58789756ac8813e6323fbb4a135c358010d22567dfbfa0c2d7904e93e639"
+    },
+    {
+      "segment_id": "chapter_0016:seg_0006",
+      "source": "与此同时，他也看到在自己和赫连烈之间的地上，躺着一片黑黢黢的海参，那是他刚刚不小心掉在地上的。",
+      "source_hash": "7bd04c67b0bff91344de2dbeeb8fb7968b30b2ba696df8743b1916f6215b83d0"
+    },
+    {
+      "segment_id": "chapter_0016:seg_0007",
+      "source": "一大堆数字在他脑域深处爆炸，爆炸，爆炸，组合成了一连串奇妙的公式，凝聚成无数力矩、力臂、作用力方向、运动轨迹等等信息流。",
+      "source_hash": "b7f73be2301b22381964df52e128b4ee9b5bfd296089bbb302d1647c57a66376"
+    },
+    {
+      "segment_id": "chapter_0016:seg_0008",
+      "source": "就在这0.1秒结束之后，李耀眨了眨眼睛，思维尚未做出反应，身体已经抢先一步，下意识地往左边挪了一小步。",
+      "source_hash": "7f43b4455a19663d1accf76f54c3f1b2b40e803aa222458702548ae09ac88377"
+    },
+    {
+      "segment_id": "chapter_0016:seg_0009",
+      "source": "他这一挪，赫连烈立刻跟进，身形微晃，将攻击路线也移动了0.1米，于是当他的右腿狠狠落地时，正好就踩在滑不溜秋的海参上，整个人都失去了平衡！",
+      "source_hash": "bde3712562024aed8b5be3d56ad1065fe861baf94d6890efa9916aa26a55b1aa"
+    },
+    {
+      "segment_id": "chapter_0016:seg_0010",
+      "source": "倘若面对别的对手，赫连烈根本不会如此大意，但是李耀在他眼中不过是一个无足轻重的垃圾，盛怒之下，他根本没有戒备，直接滑了出去。",
+      "source_hash": "e9fb5677915684b9696f7f116a97acc77faf8243af4c9b10d723d02e0da9cc20"
+    },
+    {
+      "segment_id": "chapter_0016:seg_0011",
+      "source": "李耀微微侧身，赫连烈从他身边一根头发丝的距离滑过，李耀甚至能看清楚赫连烈惊愕欲绝的表情和几乎要迸出眼眶的大眼珠子，滑出三米之后，赫连烈撞翻了一张摆满食物的大餐桌，“咣当”一声，三四个大盆子的食物劈头盖脑砸了下来。",
+      "source_hash": "01a31c02122cf9227a80215c638a833345bc191d143d6e3dde465486551cffd9"
+    },
+    {
+      "segment_id": "chapter_0016:seg_0012",
+      "source": "汤汁浓稠的海参，味道浓郁的扇贝，鲜美至极的珍珠鱼丸……一点都没浪费，全都出现在赫连烈的头发上、脸上、肩膀上、价格昂贵手工打造的奢华衣衫上，看上去，赫连烈刚刚在泔水桶里洗了个澡。",
+      "source_hash": "853d6dff03bce9c2beafae23802b73380561e406bdcd1bcfe89cdbc303ae9194"
+    },
+    {
+      "segment_id": "chapter_0016:seg_0013",
+      "source": "沉默，恐怖的沉默，如墓地般的沉默！",
+      "source_hash": "67da8efda0668640fc2f4aa4fd1aeb8b48409accb8c689ac6110542daae2ba2c"
+    },
+    {
+      "segment_id": "chapter_0016:seg_0014",
+      "source": "赫连烈瞠目结舌，脸上的每一束神经都被冻结，扭曲成略带迷惘、羞愧、愤怒、疯狂的古怪表情。",
+      "source_hash": "95c018a4b63b86cb7812c4b9aa986545d69bfae0f38ef4e7761453055aa83930"
+    },
+    {
+      "segment_id": "chapter_0016:seg_0015",
+      "source": "李耀眨巴着眼睛，眼睁睁看着一条海参从赫连烈刀削斧刻的“剑眉星目”上面慢条斯理地，依依不舍地，欲说还休地滑落下来。",
+      "source_hash": "a6dab7a914bda8a646b8abd8fd10a653228209368e958517108fbcb3d58345bb"
+    },
+    {
+      "segment_id": "chapter_0016:seg_0016",
+      "source": "“这，这乐子可闹大了，这小子从哪儿冒出来的？太乱来了吧！”不远处，郑东明好似发羊癫疯一般剧烈抽搐，一张胖脸已经被不可遏制的笑意憋成了紫红色。",
+      "source_hash": "43056c505885f8808141acde6ba5d2607d546e0168e851cc8021b9d31297ac8d"
+    },
+    {
+      "segment_id": "chapter_0016:seg_0017",
+      "source": "他拽着两名阔少，不动声色地向后退了几步，这才忍不住笑出声：“没想到看男人吃饭，比看女人脱衣服更加有趣，你们说，这不会是赫连专程为我生日安排的娱乐节目吧？”",
+      "source_hash": "37dcb8074f842b04d0ad377d6fd06adf0e539c2ff51914f4fbb78c6924ad3f7d"
+    },
+    {
+      "segment_id": "chapter_0016:seg_0018",
+      "source": "一名阔少迟疑道：“不会吧？我记得赫连这个人似乎有些洁癖，郑少你看，赫连的表情简直像是要哭出来了，我们要不要上去帮忙？”",
+      "source_hash": "fa104a61ce223bde0a651b956fee474dc1b784077c5e1c2ed99f687b09e57504"
+    },
+    {
+      "segment_id": "chapter_0016:seg_0019",
+      "source": "“当然不要，这么精彩的节目，简直千载难逢，当然是要看个过瘾！”郑大少很没义气地说，顿了一顿，又笑眯眯道，“不过我看这个小子挺有性格，小罗，快用灵鹤传书，让你家里开的私立医院，赶紧派一辆最高级的急救飞梭来——我看赫连快要爆炸啦！”",
+      "source_hash": "6012393085c401ef3f86e4a918e0ffc635908df33f548dee1ad72df99f3b68b6"
+    },
+    {
+      "segment_id": "chapter_0016:seg_0020",
+      "source": "果然，赫连烈从最初的惊愕欲绝中清醒，就像一座从休眠状态中复苏的活火山，炙热的岩浆呼之欲出，周身缭绕的浓烈气焰简直凝结成了肉眼可见的实质，方圆半米之内的气温都提升了好几度！",
+      "source_hash": "15630f9640f4e88f49bdb19af48c53e552c55aa2925ea237db280b8e5cb0c7c1"
+    },
+    {
+      "segment_id": "chapter_0016:seg_0021",
+      "source": "“咔嚓咔嚓”，他周身骨骼发出一连串鞭炮齐鸣般的爆响，令人不寒而栗。",
+      "source_hash": "06805219887ce04f2400584ba9ff97a6c40619f8af53fb1ec97d676412c63ac4"
+    },
+    {
+      "segment_id": "chapter_0016:seg_0022",
+      "source": "李耀的大脑全速开动，脑域深处无数记忆碎片疯狂旋转，每一块记忆碎片上都反映着一段激烈战斗的画面。",
+      "source_hash": "6e3c9775da91f2eb56ab3db27d303b8a89df5e5de86dfaac8d980de1a3802f50"
+    },
+    {
+      "segment_id": "chapter_0016:seg_0023",
+      "source": "表面看上去，他被赫连烈的万丈凶芒完全震慑，呆若木鸡。",
+      "source_hash": "762c5b5b26ba5ab8ecb9f78fe12a64ef21886a9625f039eb8c28ff4810aa5a82"
+    },
+    {
+      "segment_id": "chapter_0016:seg_0024",
+      "source": "可是在呆滞的外表下，他的每一束肌肉纤维都慢慢收紧，如同压缩到极致的弹簧，凝聚起强大的能量。",
+      "source_hash": "8030af65b01d44f3619b2de5f81082413beacd86f92b3fe4defb920ddc56c1b5"
+    },
+    {
+      "segment_id": "chapter_0016:seg_0025",
+      "source": "双手虚握，自然而然垂挂在身体两侧，就像是攥着两柄千斤巨锤，微微晃荡，蓄势待发。",
+      "source_hash": "1c583fa36bcfafcba6d2df241a30293ed790434fc4bf1b999bd1b100beb4066e"
+    },
+    {
+      "segment_id": "chapter_0016:seg_0026",
+      "source": "就在空气撕裂，千钧一发之时——",
+      "source_hash": "5e1ea355adfe0878c3e289b674dbaa4b473271f4ff9b064182b3dda310cb3871"
+    },
+    {
+      "segment_id": "chapter_0016:seg_0027",
+      "source": "赫连烈的左肩膀上忽然搭住了一只胖乎乎的手，一个足有两百多斤的中年胖子，身穿经理制服，无声无息地出现在了他身后，笑吟吟道：“赫连大少，你醉了。”",
+      "source_hash": "e57d4c9f35fd595fd506725a6cde12c11618a34c0a654e09c70e3741c24df48e"
+    },
+    {
+      "segment_id": "chapter_0016:seg_0028",
+      "source": "赫连烈的瞳孔骤然收缩，有若实质的敌意转了一百八十度，毫不掩饰地向胖子袭去。",
+      "source_hash": "1745253a1d5693ccbadf7a591cebfa2aa978a7afed99c1ec6f4c7347de084a1c"
+    },
+    {
+      "segment_id": "chapter_0016:seg_0029",
+      "source": "这个大胖子经理，也不像是修炼过什么武技的样子，面对赫连烈的敌意，却似春风拂面，浑不在意。",
+      "source_hash": "4bb7f2130c32836893f8b8d4735d819d91d2f48ebda1488607faa6fc18f7dca8"
+    },
+    {
+      "segment_id": "chapter_0016:seg_0030",
+      "source": "他慢条斯理道：“任何一名客人来隐湖小境用餐，都是我们的衣食父母，绝对会得到超一流的服务，这是我们隐湖小境几十年来一直秉承的宗旨，整个‘上东区’谁人不知？赫连大少若是没有喝醉，又怎么会当着我的面，对我的衣食父母大打出手？”",
+      "source_hash": "cd5ac6f3a376436b136b161bb49c586058e7db76d42a6c858d581239ac67923c"
+    },
+    {
+      "segment_id": "chapter_0016:seg_0031",
+      "source": "“你威胁我？”赫连烈一字一顿，语气森然。",
+      "source_hash": "30bc90390ef1220b57e0457db0e8666248c4f7c429f8ea5b74bfbeafc87cd68b"
+    },
+    {
+      "segment_id": "chapter_0016:seg_0032",
+      "source": "胖子经理微微一笑，脸上肥肉乱颤，显得有些贼兮兮的：“我吃了熊心豹子胆也不敢威胁赫连大少，只不过是多嘴提醒一句，在赫连大少身后第三条回廊，第22号桌上用餐的，是《浮戈城娱乐日刊》的记者。”",
+      "source_hash": "c9e5507e5ddc0beae13875412cad7b707f8efcdc2747f458ffddbb61741d3fbf"
+    },
+    {
+      "segment_id": "chapter_0016:seg_0033",
+      "source": "“有记者？”赫连烈的脸色变得十分难看，他低头看了看身上一片狼藉，这副尊荣若是被娱乐小报的记者拍到，不出半个小时，他一定会成为浮戈城里“最出名”的富豪子弟，而这种“名气”，绝不是他想要的那一种。",
+      "source_hash": "c6b82aa87944103fa74551660ebfe46c25317b221852fb01473dd7d06883ab60"
+    },
+    {
+      "segment_id": "chapter_0016:seg_0034",
+      "source": "他死死、死死地盯了李耀一眼，咬紧牙关，一言不发，头也不回逃离隐湖小境。",
+      "source_hash": "6b66fb6ccd358f468520487ae73934ffc541b4bd3ea66b3e84957b8969968717"
+    },
+    {
+      "segment_id": "chapter_0016:seg_0035",
+      "source": "大胖子经理这才回过头来，不动声色地打量了李耀一番。",
+      "source_hash": "6d804f320fd0c46268b2574d79a8ce97255e22acb215a8a0004cf96e7acc6e33"
+    },
+    {
+      "segment_id": "chapter_0016:seg_0036",
+      "source": "李耀和外表截然相反的泰然自若令他微微诧异，愣了一下，大胖子经理才十分诚挚地抱歉：“这位贵宾，实在不好意思，因为我们工作上的疏忽，让您在隐湖小境用餐期间受到了骚扰，为了弥补您的损失，今天这一顿费用全免，算本店请客，希望今天的小插曲不要影响您对隐湖小境的观感，也欢迎您继续支持本店。”",
+      "source_hash": "57d80bd255808f0b11a55316ec21446c1ae24f43ff3aa062f85b780c8b917be3"
+    },
+    {
+      "segment_id": "chapter_0016:seg_0037",
+      "source": "能够在‘上东区’屹立几十年不倒的餐厅，自有其深厚的底蕴和超然的格局，经营者并不会因为客人的衣着和身份而有一丝一毫的怠慢，一切都秉承最极致的服务理念，这才能打造出千金不易的口碑。",
+      "source_hash": "30c6a8933daee1d04e91b7ec0373b92341fd8ab5c82edf296519ed3be611c0ee"
+    },
+    {
+      "segment_id": "chapter_0016:seg_0038",
+      "source": "李耀一愣，正欲点头，一阵酒香扑面而来，一名油头粉面的猫眼少年，满脸微笑，出现在他面前。",
+      "source_hash": "03e00b50fbb8bc5d8e1a42ad76e246f1a426209f462d71f1701ef86362e7cf48"
+    },
+    {
+      "segment_id": "chapter_0016:seg_0039",
+      "source": "“这位同学，我叫郑东明，你可以叫我郑少，也可以叫我大东，不过千万不要叫我小明，刚才发生的一切我都看到了，我觉得你简直是万里挑一，人中龙凤，极品中的极品，怎么样，交个朋友吧？”",
+      "source_hash": "515f42a5c81522cd1acc81807b12cb624b957f1c02229083fb0ab20ebe7d2cc3"
+    },
+    {
+      "segment_id": "chapter_0016:seg_0040",
+      "source": "在李耀有些警惕的眼神注视下，郑东明泰然自若地伸出了手，指间轻轻夹了一张装饰着华丽灵纹的名片，“不用紧张，我没有别的意思，只是想介绍一位非常专业的保险销售给你认识，我建议你现在就拿出所有存款，马上去买一份最高金额的人身意外伤害险，因为——”",
+      "source_hash": "d6e98a61ecec5a89300d91a99a08ba9841beb5a3fb9c367b87d2af8ff49f6cdf"
+    },
+    {
+      "segment_id": "chapter_0016:seg_0041",
+      "source": "顿了一顿，郑少脸上弥漫着十分诡异的笑容，阴恻恻地说：“相信我，明天你就用得上了。”",
+      "source_hash": "12d1fe50cbab7411479e4b485559495981fa329fcc100002cc64d826cd8e0999"
     }
   ],
+  "known_characters": [
+    {
+      "id": "protagonist_ly_dieu",
+      "name_source": "李耀",
+      "name_target": "Lý Diệu",
+      "name_aliases": [
+        "Thốc Thứu",
+        "Kền Kền",
+        "Âu Dã Minh"
+      ],
+      "gender": "male",
+      "age_group": "teenager",
+      "social_status": "Học sinh lớp thường / Thợ nhặt rác",
+      "base_archetype": "protagonist",
+      "speech_style": "Thẳng thắn, thực tế, hơi ngông cuồng của thiếu niên nhưng có suy nghĩ thấu đáo và kiên định.",
+      "first_appearance": {
+        "chapter": 1,
+        "context": "Xuất hiện nhặt rác tại Nghĩa địa Pháp Bảo"
+      },
+      "cultivation": {
+        "primary_system": "Linh căn khai phát / Cơ khí tu chân",
+        "current_realm": "Người thường (Linh căn khai phát 35%)",
+        "current_sub_stage": "",
+        "notes": "Linh căn khai phát ban đầu chỉ có 35% nhưng có tiềm năng tinh thần lực cực cao nhờ dị mộng."
+      },
+      "abilities": [
+        "Kỹ năng đua xe Trái Đất",
+        "Chế tạo cơ khí thủ công",
+        "Sửa chữa pháp bảo phế thải",
+        "Linh Xà Thân Pháp"
+      ],
+      "faction": {
+        "current": {
+          "name": "Xích Tiêu Nhị Trung",
+          "role": "Học sinh lớp thường"
+        },
+        "history": [
+          {
+            "name": "Trái Đất (kiếp trước)",
+            "role": "Tay đua xe chuyên nghiệp"
+          }
+        ]
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Thiếu niên 17 tuổi gầy gò, khỏe khoắn, da ngăm đen do dầm mưa dãi nắng ở nghĩa địa pháp bảo, đôi mắt sáng ngời sắc bén như chim ưng.",
+        "style": "Đồ lao động cũ kỹ bám đầy dầu mỡ, sau đó mặc đồng phục Xích Tiêu Nhị Trung.",
+        "distinctive": "Lòng bàn tay có nhiều vết chai sạn do sửa chữa cơ khí và vung búa rèn."
+      },
+      "personality": {
+        "traits": [
+          "Kiên trì",
+          "Thực tế",
+          "Thích tiền",
+          "Bền bỉ",
+          "Mưu mẹo"
+        ],
+        "speech": "Dứt khoát, thường xưng 'tôi' hoặc 'ta' tùy ngữ cảnh."
+      },
+      "notes": ""
+    },
+    {
+      "id": "rival_hach_lien_liet",
+      "name_source": "赫连烈",
+      "name_target": "Hách Liên Liệt",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "teenager",
+      "social_status": "Thiếu gia phiệt phiệt / Học sinh lớp trọng điểm",
+      "base_archetype": "rival",
+      "speech_style": "Kiêu ngạo, hống hách, hay đe dọa kẻ yếu.",
+      "first_appearance": {
+        "chapter": 7,
+        "context": "Đứng hạng nhất khối thi thử cùng Tiêu Giai Tuyết, ch.9 chặn đường Lý Diệu"
+      },
+      "cultivation": {
+        "primary_system": "Linh năng / Thể tu",
+        "current_realm": "Bán Tu Chân Giả (Linh căn khai phát 72%)",
+        "current_sub_stage": "",
+        "notes": "Có quan hệ thanh mai trúc mã với Tiêu Giai Tuyết và thù ghét Lý Diệu."
+      },
+      "abilities": [
+        "Thiết Quyền Công",
+        "Chiến đấu giáp lá cà"
+      ],
+      "faction": {
+        "current": {
+          "name": "Xích Tiêu Nhị Trung",
+          "role": "Học sinh lớp trọng điểm (Hạng nhất khối)"
+        },
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Thân hình cao to vạm vỡ, mặt mũi góc cạnh nhưng mang vẻ tàn nhẫn độc đoán.",
+        "style": "Trang phục chiến đấu cao cấp, giày bay đắt tiền.",
+        "distinctive": "Ánh mắt khinh khỉnh, luôn nhìn người khác bằng nửa con mắt."
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "郑东明",
+      "name_target": "Trịnh Đông Minh",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "young",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": "Trường trung học phổ thông trực thuộc số hai Phụng Sơn Môn",
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Đích tôn đời thứ ba của nhà họ Trịnh, độ khai phát linh căn 74%, là học sinh ưu tú và ứng cử viên Thủ khoa, có bối cảnh mạnh mẽ và thực lực cao hơn Hách Liên Liệt. Có bọng mắt sưng tấy và đôi mắt như mắt mèo.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    }
+  ],
+  "known_worldbuilding": [
+    {
+      "section": "factions",
+      "name_source": "浮戈城娱乐日刊",
+      "name_target": "Phù Qua Thành Giải Trí Nhật San",
+      "type": "Cơ quan báo chí",
+      "description": "Một tòa soạn báo chuyên đưa tin tức giải trí, giật gân ở Phù Qua Thành."
+    },
+    {
+      "section": "locations",
+      "name_source": "浮戈城",
+      "name_target": "Phù Qua Thành",
+      "type": "Đô thị tu chân",
+      "description": "Một trong những đại đô thị tu chân hiện đại tại Thiên Nguyên Giới, nổi bật với hệ thống tinh quỹ chạy trên không trung và các quảng trường thương mại linh năng."
+    },
+    {
+      "section": "locations",
+      "name_source": "隐湖小境",
+      "name_target": "Ẩn Hồ Tiểu Cảnh",
+      "type": "Nhà hàng",
+      "description": "Nhà hàng buffet cao cấp nằm bên bờ Hồ Ẩn Đông, được thiết kế với phong cảnh rừng trúc và trận pháp tạo tuyết rơi quanh năm."
+    },
+    {
+      "section": "items",
+      "name_source": "灵鹤传书",
+      "name_target": "Linh Hạc Truyền Thư",
+      "type": "Pháp bảo liên lạc",
+      "description": "Pháp bảo liên lạc tin nhắn và đàm thoại thời gian thực, có khả năng chiếu ra mô hình chim hạc ảo lập thể 3D."
+    }
+  ],
+  "heuristic_candidates": {
+    "characters": [
+      {
+        "source": "连大少",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.82,
+        "evidence": [
+          "身后，笑吟吟道：“赫连大少，你醉了。”\n\n赫连",
+          "心豹子胆也不敢威胁赫连大少，只不过是多嘴提醒一"
+        ]
+      }
+    ],
+    "organizations": [
+      {
+        "source": "自有其深厚的底蕴和超然的格局",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "立几十年不倒的餐厅，自有其深厚的底蕴和超然的格局，经营者并不会因为客"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "source": "上东区",
+        "entity_type": "location",
+        "count": 2,
+        "confidence": 0.78,
+        "evidence": [
+          "直秉承的宗旨，整个‘上东区’谁人不知？赫连大少"
+        ]
+      },
+      {
+        "source": "就像一座从休眠状态中复苏的活火山",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "初的惊愕欲绝中清醒，就像一座从休眠状态中复苏的活火山，炙热的岩浆呼之欲出"
+        ]
+      }
+    ],
+    "techniques": [
+      "一张胖脸已经",
+      "一条海参从赫连烈刀",
+      "地往左边挪了一小步",
+      "声色地向后退了几步",
+      "大胖子经",
+      "睁不开眼的劲风已经",
+      "胖子经",
+      "脸上的每一束神经",
+      "身体已经抢先一步",
+      "身穿经",
+      "这个大胖子经"
+    ]
+  },
   "realms": [],
-  "techniques": [
-    "一张胖脸已经",
-    "一条海参从赫连烈刀",
-    "地往左边挪了一小步",
-    "声色地向后退了几步",
-    "大胖子经",
-    "睁不开眼的劲风已经",
-    "胖子经",
-    "脸上的每一束神经",
-    "身体已经抢先一步",
-    "身穿经",
-    "这个大胖子经"
+  "matched_glossary_terms": [
+    {
+      "source": "浮戈城",
+      "target": "Phù Qua Thành"
+    },
+    {
+      "source": "上东区",
+      "target": "khu Thượng Đông"
+    },
+    {
+      "source": "超高速晶轨列车",
+      "target": "tàu tốc hành tinh quỹ siêu tốc"
+    },
+    {
+      "source": "隐湖小境",
+      "target": "Ẩn Hồ Tiểu Cảnh"
+    },
+    {
+      "source": "郑东明",
+      "target": "Trịnh Đông Minh"
+    },
+    {
+      "source": "浮戈城娱乐日刊",
+      "target": "Phù Qua Thành Giải Trí Nhật San"
+    },
+    {
+      "source": "灵鹤传书",
+      "target": "Linh Hạc Truyền Thư"
+    }
   ],
   "matched_locked_terms": [
     {
@@ -81,7 +494,16 @@
     {
       "source": "郑东明",
       "target": "Trịnh Đông Minh"
+    },
+    {
+      "source": "灵鹤传书",
+      "target": "Linh Hạc Truyền Thư"
     }
   ],
-  "generated_at": "2026-05-30T05:33:27.773837+07:00"
+  "structural_hints": {
+    "has_dialogue": true,
+    "has_western_names": false,
+    "estimated_segments": 44
+  },
+  "generated_at": "2026-05-31T08:51:02.351272+07:00"
 }

@@ -1,15 +1,948 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
   "chapter": 7,
-  "aligned_segments": [],
-  "term_occurrences": [],
-  "entity_mentions": [],
+  "chapter_id": "chapter_0007",
+  "source_manifest_hash": "12ca4232d290c56a0e3963773de75169ca40aae72f40eaa917a4607abd72f5af",
+  "aligned_segments": [
+    {
+      "alignment_id": "chapter_0007:align_0001",
+      "chapter_id": "chapter_0007",
+      "segment_ids": [
+        "chapter_0007:seg_0001"
+      ],
+      "source": "# 7.第7章 二中女神",
+      "source_hash": "7f9e804fe235ad028489a866d31e3a8015bd11830424830d1e86b706bfc66ea1",
+      "target": "# Chương 7: Nữ Thần Nhị Trung",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0007:align_0002",
+      "chapter_id": "chapter_0007",
+      "segment_ids": [
+        "chapter_0007:seg_0002"
+      ],
+      "source": "“嗡……”",
+      "source_hash": "9f589bba5d56826f2f49450f887b591b74da8d984bc631c4ea558c6210e7185c",
+      "target": "\"U u...\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0007:align_0003",
+      "chapter_id": "chapter_0007",
+      "segment_ids": [
+        "chapter_0007:seg_0003"
+      ],
+      "source": "老旧的考试舱缓缓打开，李耀迈步而出，甩了甩脑袋，隐隐有些头痛，这是在太虚幻境中过度透支心神的副作用。",
+      "source_hash": "5dab8a5d3d6be7f78bbf5231c6128663b8cefbd4decf2c027ceb28aa68bcd536",
+      "target": "Chiếc khoang thi cử cũ kỹ từ từ mở ra. Lý Diệu sải bước ra ngoài, lắc lắc cái đầu hơi đau buốt. Đây là tác dụng phụ của việc tiêu hao quá mức tinh thần lực bên trong Thái Hư Huyễn Cảnh.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0007:align_0004",
+      "chapter_id": "chapter_0007",
+      "segment_ids": [
+        "chapter_0007:seg_0004"
+      ],
+      "source": "“脑袋好痛，真该死，就我们这些‘杂鱼班’的学生还在用这种垃圾货色，重点班和平行班的学生，都换上了最新一代的灵能考试舱，再怎么透支都不会有副作用的！”孟江在他身边大声抱怨，随后捅了捅他的腰眼，“小妖，这次模拟考难度好高，我大概又考砸了，回去肯定要吃一顿‘竹笋炒肉’，你怎么样？”",
+      "source_hash": "bbe71c32831c47410aa763b61e667ab959cdc24d1b9c9b339e2b5222fc32d163",
+      "target": "\"Đầu đau quá, thật đáng ghét! Chỉ có đám học sinh 'lớp thường' chúng ta mới phải dùng loại khoang thi cử rác rưởi này. Học sinh lớp trọng điểm và lớp song hành đều đã được đổi sang khoang thi cử linh năng thế hệ mới nhất, dù có vắt kiệt tinh thần thế nào cũng không bị tác dụng phụ!\" Mạnh Giang đứng cạnh cậu lớn tiếng phàn nàn, sau đó chọc chọc vào eo cậu: \"Tiểu Diệu, đề thi thử lần này khó kinh khủng, tớ chắc chắn lại thi rớt rồi, về nhà kiểu gì cũng được thưởng món 'thịt xào măng' (ăn đòn). Cậu thì sao?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0007:align_0005",
+      "chapter_id": "chapter_0007",
+      "segment_ids": [
+        "chapter_0007:seg_0005"
+      ],
+      "source": "“一般般吧。”李耀摸了摸鼻子，这次考试的难度确实有点高，不过他的基础比较扎实，心态也够冷静，自我感觉已经发挥到极限了。",
+      "source_hash": "2902462389dd69b2328f821beb31824c390102c70534c19ddc56db11354b5182",
+      "target": "\"Cũng bình thường thôi.\" Lý Diệu sờ sờ mũi. Độ khó của kỳ thi lần này đúng là hơi cao, nhưng nền tảng kiến thức của cậu khá vững chắc, tâm lý lại đủ bình tĩnh, tự cảm thấy đã phát huy được hết khả năng.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0007:align_0006",
+      "chapter_id": "chapter_0007",
+      "segment_ids": [
+        "chapter_0007:seg_0006"
+      ],
+      "source": "“赶紧看看！”孟江凑到他的考试舱旁边操作起来，考试舱中都安装有超高速晶脑，可以实时计算成绩，考试一结束，成绩就出来了。",
+      "source_hash": "3c24bc8415266da0e68638b8516e1a419ba5cde4f7905444eb942aa4eadaaf7b",
+      "target": "\"Mau kiểm tra xem nào!\" Mạnh Giang ghé sát vào bảng điều khiển khoang thi cử của Lý Diệu để thao tác. Mỗi khoang thi cử đều tích hợp một tinh não tốc độ cực cao, có thể tính toán kết quả ngay lập tức khi kỳ thi kết thúc.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0007:align_0007",
+      "chapter_id": "chapter_0007",
+      "segment_ids": [
+        "chapter_0007:seg_0007"
+      ],
+      "source": "“哇，525分，好高的分数，足够上重点大学了，还说一般般？过分的谦虚就是骄傲，你个死小妖！”孟江惊呼。",
+      "source_hash": "ad31d299d84626b937ffd4d97886a2c13a0f84e4763ed90ef6b2afc50dd8af3d",
+      "target": "\"Oa, 525 điểm! Điểm cao thế này đủ để đỗ vào đại học trọng điểm rồi, thế mà còn bảo bình thường? Khiêm tốn quá mức chính là kiêu ngạo đấy, cái cậu này!\" Mạnh Giang kinh hô.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0007:align_0008",
+      "chapter_id": "chapter_0007",
+      "segment_ids": [
+        "chapter_0007:seg_0008"
+      ],
+      "source": "李耀扫了一眼光幕，心中却是暗叹一声，525分这个分数确实不算低，勉强够得上联邦几所知名的重点大学分数线了，不过紧随其后的一个数值，却红得有些扎眼。",
+      "source_hash": "d3a2b4f65c59398cedf2b733468f29ad597d236f377b6b71a2293c399b4242eb",
+      "target": "Lý Diệu nhìn lướt qua màn hình, trong lòng thầm thở dài một tiếng. Con số 525 điểm thực sự không hề thấp, vừa vặn chạm tới mức điểm chuẩn của vài trường đại học trọng điểm nổi tiếng trong Liên bang, nhưng chỉ số ngay bên dưới điểm số đó lại hiển thị một màu đỏ chói mắt:",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0007:align_0009",
+      "chapter_id": "chapter_0007",
+      "segment_ids": [
+        "chapter_0007:seg_0009"
+      ],
+      "source": "“灵根开发度，35%。”",
+      "source_hash": "9d09df229cb3d4ed7fd557e22800605cc6ee3c7b391864b1aa8fea938ab19f31",
+      "target": "\"Độ khai phát linh căn: 35%.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0007:align_0010",
+      "chapter_id": "chapter_0007",
+      "segment_ids": [
+        "chapter_0007:seg_0010"
+      ],
+      "source": "灵根，是位于人类大脑前额“松果体”部位的一个神秘器官，说神秘，是因为从解剖学的角度来说，这个器官根本就不存在，千百年来都没有人能找到一个货真价实的“灵根标本”。",
+      "source_hash": "50aec434ffd7c4a0d0fa6e9544fa75bf8f979305068e6fd6760d4ba87e2078b2",
+      "target": "Linh căn là một cơ quan thần bí nằm ở khu vực \"tuyến tùng\" phía trước trán của con người. Gọi là thần bí bởi đứng dưới góc độ giải phẫu học, cơ quan này hoàn toàn không tồn tại. Suốt hàng ngàn năm qua, chưa từng có ai tìm thấy một \"tiêu bản linh căn\" thực sự.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0007:align_0011",
+      "chapter_id": "chapter_0007",
+      "segment_ids": [
+        "chapter_0007:seg_0011"
+      ],
+      "source": "但是在修真世界中，这又是一个真实存在的器官，而且是修真者最重要的器官，是沟通人类和天地灵气、宇宙灵能的关键所在！",
+      "source_hash": "be11df3894d79a5d515a4d1d948db4e72d17ce000bf81cc87d0c611f79eb2f16",
+      "target": "Nhưng trong thế giới tu chân, đây lại là một cơ quan hiện hữu chân thực, đồng thời là cơ quan quan trọng nhất của tu chân giả, đóng vai trò cầu nối liên kết giữa con người với linh khí đất trời và linh năng vũ trụ!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0007:align_0012",
+      "chapter_id": "chapter_0007",
+      "segment_ids": [
+        "chapter_0007:seg_0012"
+      ],
+      "source": "只有灵根开发度达到100%，“灵根觉醒”，才能踏上修真之路！",
+      "source_hash": "637bc1dad5233d24d5f512b089d567b6be191597368be8500775f25bb6211e3d",
+      "target": "Chỉ khi độ khai phát linh căn đạt tới 100%, \"linh căn thức tỉnh\", con người mới có thể bước chân vào con đường tu chân!",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0007:align_0013",
+      "chapter_id": "chapter_0007",
+      "segment_ids": [
+        "chapter_0007:seg_0013"
+      ],
+      "source": "一般大学在招生时，是不看灵根开发度这一项数值的，哪怕是1%也没有关系，反正一般大学培养的都是普通人。",
+      "source_hash": "ef3dd6dc5bddfa941011de76ba6dc737631b7a8f6802846996cab0e7d5d82677",
+      "target": "Các trường đại học thông thường khi tuyển sinh sẽ không xem xét chỉ số độ khai phát linh căn này, dù chỉ có 1% cũng không sao, bởi vì họ chủ yếu đào tạo người bình thường.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0007:align_0014",
+      "chapter_id": "chapter_0007",
+      "segment_ids": [
+        "chapter_0007:seg_0014"
+      ],
+      "source": "可是专门培养修真者的“九大精英联校”在招生时，却会把考生成绩和灵根开发度相乘，当成最终分数——自然，灵根开发度越高越占便宜。",
+      "source_hash": "8554f3de980e6a558250a09c5990a53f00b2956bdf4f72c8ba390fa16a3296ae",
+      "target": "Thế nhưng \"Chín đại học tinh anh liên kết\" chuyên bồi dưỡng tu chân giả khi tuyển sinh lại lấy điểm thi nhân với độ khai phát linh căn để ra điểm số cuối cùng — hiển nhiên, độ khai phát linh căn càng cao thì càng được lợi.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0007:align_0015",
+      "chapter_id": "chapter_0007",
+      "segment_ids": [
+        "chapter_0007:seg_0015"
+      ],
+      "source": "李耀的灵根开发度低得可怜，五百多分乘以35%之后，只剩下不到两百分。",
+      "source_hash": "bff758500b9fe21d1c010e4edc54bc266fdc08b882fb1ca235bf18e1099560f6",
+      "target": "Độ khai phát linh căn của Lý Diệu thấp đến thảm hại, điểm thi hơn năm trăm sau khi nhân với 35% thì chỉ còn lại chưa đầy hai trăm điểm.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0007:align_0016",
+      "chapter_id": "chapter_0007",
+      "segment_ids": [
+        "chapter_0007:seg_0016"
+      ],
+      "source": "而重点班的天之骄子，普遍拥有超过60%的灵根开发度，也就是说人家只要考三百多分，就能轻松碾压李耀。",
+      "source_hash": "56f60843d4aa0cb2364a178bcb7f1f11b2985010d9a2e636062172ec63491aad",
+      "target": "Trong khi đó, những đứa con cưng của lớp trọng điểm phổ biến đều sở hữu độ khai phát linh căn trên 60%. Điều đó nghĩa là họ chỉ cần thi được hơn ba trăm điểm là đã dễ dàng đè bẹp Lý Diệu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0007:align_0017",
+      "chapter_id": "chapter_0007",
+      "segment_ids": [
+        "chapter_0007:seg_0017"
+      ],
+      "source": "更何况，灵根开发度越高，人的思维就越敏捷，五感越敏锐，对身体掌控度越高，成绩怎么也不会比他们这些普通班的“杂鱼”差了。",
+      "source_hash": "ddc93fac9dbf985f65381b0302d23b73cc02b23a1c6946b611988bc2407a80a7",
+      "target": "Chưa kể, độ khai phát linh căn càng cao thì tư duy của người đó càng nhạy bén, năm giác quan càng tinh tường, khả năng kiểm soát cơ thể càng mạnh mẽ, điểm thi của họ làm sao có thể kém hơn đám \"học sinh thường\" bọn cậu được.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0007:align_0018",
+      "chapter_id": "chapter_0007",
+      "segment_ids": [
+        "chapter_0007:seg_0018"
+      ],
+      "source": "李耀不是没想过下苦功提升灵根开发度，可这玩意儿和学习不同，书本知识可以死记硬背，体能和武技可以疯狂修炼，灵根开发度却是实打实要靠资源堆出来的。",
+      "source_hash": "1250c5dc11a6ce53035ae792c97ba29a8dca9d61a59ef4c3f3da1b85589a1ca7",
+      "target": "Lý Diệu không phải chưa từng nghĩ đến việc bỏ công sức nâng cao độ khai phát linh căn, nhưng thứ này không giống như việc học hành. Kiến thức sách vở có thể học vẹt học thuộc lòng, thể lực và võ kỹ có thể điên cuồng tập luyện, nhưng độ khai phát linh căn thì bắt buộc phải dùng tiền bạc và tài nguyên để đắp lên.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0007:align_0019",
+      "chapter_id": "chapter_0007",
+      "segment_ids": [
+        "chapter_0007:seg_0019"
+      ],
+      "source": "比如重点班的天之骄子们，每天服用各种天材地宝和强化药剂，还在家里添置“灵根开发仪”或者去专门的“冥修馆”特训，每个月花在灵根开发上的钱，少则数万、多则几十上百万都有，金山银山砸下去，才能将灵根开发度艰难地提升“1%”。",
+      "source_hash": "77c7b46c903d23d0bb53b4fd2e167755c25cd076d8348de7033e24b237fadf1e",
+      "target": "Ví dụ như những học sinh lớp trọng điểm hằng ngày đều được dùng đủ loại thiên tài diệu dược cùng thuốc tăng cường lực lượng, ở nhà còn trang bị \"máy khai phát linh căn\" hoặc đến các \"Minh Tu Quán\" chuyên nghiệp để đặc huấn. Mỗi tháng số tiền họ chi cho việc khai phát linh căn ít thì vài vạn tệ, nhiều thì hàng chục, hàng trăm vạn tệ. Phải đổ cả núi tiền của vào đó mới có thể gian nan nâng cao độ khai phát linh căn thêm \"1%\".",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0007:align_0020",
+      "chapter_id": "chapter_0007",
+      "segment_ids": [
+        "chapter_0007:seg_0020"
+      ],
+      "source": "而李耀在法宝坟墓拾荒，一个月最多也就赚万把块，支付房租、生活费和学费之后，就剩不下三瓜两枣了，肚皮都填不饱，哪里有闲钱去开发灵根？",
+      "source_hash": "42e1a2df92f3dda163a8c9feb554ac902e292c8d11f9fa3b80b7808e8f305274",
+      "target": "Còn Lý Diệu đi lượm rác ở nghĩa địa pháp bảo mỗi tháng nhiều nhất cũng chỉ kiếm được chừng vạn tệ. Sau khi chi trả tiền thuê nhà, sinh hoạt phí và học phí thì chẳng còn lại bao nhiêu, ăn còn chẳng đủ no thì lấy đâu ra tiền dư dả để khai phát linh căn?",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0007:align_0021",
+      "chapter_id": "chapter_0007",
+      "segment_ids": [
+        "chapter_0007:seg_0021"
+      ],
+      "source": "总而言之一个字——他娘的穷啊！",
+      "source_hash": "8a7a55523dd6da63fb5952e9834a6e617a480b14450243cc6c6bec04f192147f",
+      "target": "Tựu trung lại chỉ có một chữ — nghèo!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0007:align_0022",
+      "chapter_id": "chapter_0007",
+      "segment_ids": [
+        "chapter_0007:seg_0022"
+      ],
+      "source": "心里正犯愁呢，就听到孟江又用杀猪般的声音嚎叫起来：“哇，两个691分！司佳雪和赫连烈这两个家伙，又是这次模拟考的并列第一！”",
+      "source_hash": "95bea370e53e1420f3da24c95dd0827bf2506d8f45dd3bfab74631e061e16e34",
+      "target": "Đang lúc lòng buồn rầu thì cậu lại nghe thấy tiếng hét như chọc tiết lợn của Mạnh Giang: \"Oa, hai con điểm 691! Tiêu Giai Tuyết và Hách Liên Liệt hai người này lại một lần nữa đồng hạng nhất toàn khối trong kỳ thi thử lần này!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0007:align_0023",
+      "chapter_id": "chapter_0007",
+      "segment_ids": [
+        "chapter_0007:seg_0023"
+      ],
+      "source": "这一次模拟考，是整个高三年级组同时举行，教室前方的光幕上，飞快浮现出了全校前十名的学生信息。",
+      "source_hash": "dfea9f9bec6f0933b7af0111b47dbb74812ba9d02236e344f076748aa5d48c9c",
+      "target": "Kỳ thi thử lần này được tổ chức đồng thời cho toàn bộ khối 12. Trên màn hình lớn phía trước phòng học nhanh chóng hiển thị thông tin của mười học sinh đứng đầu toàn trường.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0007:align_0024",
+      "chapter_id": "chapter_0007",
+      "segment_ids": [
+        "chapter_0007:seg_0024"
+      ],
+      "source": "其中并列第一的，是一名清冷如雪的美少女，和一名英姿勃发、目光慑人的高大少年。",
+      "source_hash": "9dc7c84a0b472350c5a17c2c81d1640bae57f8e567e2f2269fea601726de13e4",
+      "target": "Trong đó, đồng vị trí thứ nhất là một mỹ thiếu nữ thanh lãnh như tuyết và một thiếu niên cao lớn có ánh mắt sắc bén bức người.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0007:align_0025",
+      "chapter_id": "chapter_0007",
+      "segment_ids": [
+        "chapter_0007:seg_0025"
+      ],
+      "source": "他们的分数，并没有让李耀动容，可是跟在分数后面的灵根开发度，令他嫉妒得眼里喷火。",
+      "source_hash": "32c21318aa5de9c96cc0c5aee52c158c20cb078df45891a91c9ac7e9d94999dd",
+      "target": "Điểm số của họ không làm Lý Diệu dao động, nhưng chỉ số độ khai phát linh căn đi kèm phía sau lại khiến cậu ghen tị đến nổ mắt.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0007:align_0026",
+      "chapter_id": "chapter_0007",
+      "segment_ids": [
+        "chapter_0007:seg_0026"
+      ],
+      "source": "司佳雪，灵根开发度71%；赫连烈，灵根开发度72%！",
+      "source_hash": "7cf107539224ba76d9915edd3bb1c63b0c373618dc8d90a4ae77239febe9a0f1",
+      "target": "Tiêu Giai Tuyết, độ khai phát linh căn: 71%; Hách Liên Liệt, độ khai phát linh căn: 72%!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0007:align_0027",
+      "chapter_id": "chapter_0007",
+      "segment_ids": [
+        "chapter_0007:seg_0027"
+      ],
+      "source": "孟江兀自聒噪：“啧啧啧啧，真不愧是咱们赤霄二中的风云人物，校花校草，重点班几十个精英中的精英！你看看，这两个家伙不但男的帅，女的靓，而且出身富豪家庭，据说家族里都出现过好几名修真者，成绩又好，灵根开发度又高，是这一次咱们学校冲击高考的秘密武器！据说他们考上九大精英联校是十拿九稳的事，学校专程请妖刀彭海来给他们特训，也有一层意思，是希望他们能冲击浮戈城的高考状元，至少是全市前十名！”",
+      "source_hash": "aa0757e245444550489a60285791bae42ff0cc7de966253b3d51510bc03ad3c6",
+      "target": "Mạnh Giang vẫn lải nhải không ngừng: \"Chậc chậc, quả không hổ danh là nhân vật phong vân của trường chúng ta, hoa khôi và nam thần, tinh anh trong số những tinh anh của lớp trọng điểm! Cậu nhìn xem, hai người này không chỉ trai tài gái sắc mà gia thế còn cực kỳ giàu có. Nghe nói gia tộc của họ từng xuất hiện vài tu chân giả rồi, thành tích thi cử xuất sắc, độ khai phát linh căn lại cao, chính là vũ khí bí mật của trường ta trong kỳ thi đại học lần này! Nghe nói việc họ đỗ vào Chín đại học tinh anh liên kết là chắc như đinh đóng cột rồi. Trường học đặc biệt mời Yêu Đao Bành Hải về đặc huấn cho họ cũng có một phần ý đồ muốn họ tranh chức thủ khoa của Phù Qua Thành, hoặc ít nhất là lọt vào top 10 toàn thành phố!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0007:align_0028",
+      "chapter_id": "chapter_0007",
+      "segment_ids": [
+        "chapter_0007:seg_0028"
+      ],
+      "source": "说着说着，孟江很夸张地叹了口气：“唉，货比货得扔，人比人要死啊，大家平平都是高中生，现在都在一个学校里厮混，可是经过高考，恐怕他们就要一飞冲天，踏入修真者圈子，过上纸醉金迷，腐朽没落的生活了，而咱们这样的穷小子，就只有当一辈子的打工者，工薪族，想想真是心凉！”",
+      "source_hash": "855f73b249548c0b0771b4b7f49e7fb81a15f15f07430d02162e42e888aa00dc",
+      "target": "Nói đoạn, Mạnh Giang cường điệu thở dài một hơi: \"Haiz, so sánh đúng là chỉ thêm đau lòng. Mọi người đều là học sinh trung học như nhau, cùng học chung dưới một mái trường, nhưng sau kỳ thi đại học này, e rằng họ sẽ một bước lên mây, bước vào giới tu chân giả, sống cuộc đời xa hoa phú quý. Còn những đứa nghèo như chúng ta thì chỉ có nước đi làm thuê cả đời làm công ăn lương, nghĩ đến mà thấy nản lòng!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0007:align_0029",
+      "chapter_id": "chapter_0007",
+      "segment_ids": [
+        "chapter_0007:seg_0029"
+      ],
+      "source": "说了半天，没见反应，孟江扭头一看，却见李耀双眼发直，盯着司佳雪的照片，目光幽深，不知在琢磨什么，连忙在死党脑袋上敲了一下：“喂，你小子不会是看上司佳雪了吧？我好心好意提醒你，这女人可是咱们碰不得的，她和赫连烈是世交，据说两大家族颇有联姻的意思，赫连烈对她也是志在必得——你别看这小子长得高大威猛，心眼却是最小，从来见不得别人亲近司佳雪，上次有个转校生初来乍到，不知深浅，放出话来要追求司佳雪，结果在‘武技课’上被赫连烈打断了三根骨头，至于我们这种杂鱼，赫连烈一个喷嚏，我们就内伤吐血了！”",
+      "source_hash": "7248f7469a723b9010a3d3e3582321e19d1f88c7be0dd14e2c3e39f75338c626",
+      "target": "Nói một hồi không thấy bạn mình phản ứng gì, Mạnh Giang quay đầu lại thì thấy Lý Diệu đang trố mắt nhìn chằm chằm vào bức ảnh của Tiêu Giai Tuyết, ánh mắt sâu thẳm không biết đang nghĩ ngợi điều gì. Mạnh Giang liền gõ mạnh vào đầu bạn mình một cái: \"Này, thằng nhóc cậu không phải là tơ tưởng đến Tiêu Giai Tuyết đấy chứ? Tớ khuyên chân thành là loại con gái đó chúng ta không chạm vào được đâu. Cô ấy và Hách Liên Liệt là thanh mai trúc mã, nghe nói hai gia tộc còn có ý định liên hôn, Hách Liên Liệt cũng quyết tâm có được cô ấy — Cậu đừng thấy tên đó cao to lực lưỡng mà lầm, lòng dạ hắn hẹp hòi nhất đấy, không bao giờ chịu nổi việc kẻ khác tiếp cận Tiêu Giai Tuyết đâu. Lần trước có học sinh mới chuyển trường đến không biết nặng nhẹ, lớn tiếng tuyên bố muốn theo đuổi Tiêu Giai Tuyết, kết quả là trong 'giờ võ kỹ' đã bị Hách Liên Liệt đánh gãy ba khúc xương sườn. Còn hạng tép riu như chúng ta, Hách Liên Liệt chỉ cần hắt hơi một cái là đủ để chúng ta nội thương hộc máu rồi!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0007:align_0030",
+      "chapter_id": "chapter_0007",
+      "segment_ids": [
+        "chapter_0007:seg_0030"
+      ],
+      "source": "“废话。”",
+      "source_hash": "855b95932d6fe95fe58a4be6fe9263f4201a9a90ccf3eb30fcc175553d8ee1a9",
+      "target": "\"Nói nhảm.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0007:align_0031",
+      "chapter_id": "chapter_0007",
+      "segment_ids": [
+        "chapter_0007:seg_0031"
+      ],
+      "source": "李耀收回目光，似乎下了什么决心，“赫连烈先不提，就说这个司佳雪，整天摆出一张冷冰冰的死人脸，十有八九是性冷淡，我怎么会喜欢这一型？”",
+      "source_hash": "517fcd60b43fab0d81ef518dceb471c06639b942d2dd8b630b0ece47a9fcba78",
+      "target": "Lý Diệu thu hồi ánh mắt, dường như đã hạ quyết tâm: \"Hách Liên Liệt thì không nói, còn Tiêu Giai Tuyết này lúc nào cũng trưng ra cái bộ mặt lạnh như tiền, mười phần thì đến tám chín phần là lãnh cảm, sao tớ lại thích gu này được chứ?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0007:align_0032",
+      "chapter_id": "chapter_0007",
+      "segment_ids": [
+        "chapter_0007:seg_0032"
+      ],
+      "source": "……",
+      "source_hash": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+      "target": "...",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0007:align_0033",
+      "chapter_id": "chapter_0007",
+      "segment_ids": [
+        "chapter_0007:seg_0033"
+      ],
+      "source": "学校的大部分资源都向重点班和平行班倾斜，对普通班的管理十分宽松，模拟考结束之后，普通班的学生就针对各自缺陷，进行专项训练，一天很快过去，下午四点，就要放学了。",
+      "source_hash": "7c0c2313096cbc49f7cffaab85dce0d970b98f4897e136681a0b08c232db6f71",
+      "target": "Trường học dồn phần lớn tài nguyên cho lớp trọng điểm và lớp song hành, việc quản lý lớp thường diễn ra vô cùng lỏng lẻo. Sau khi kỳ thi thử kết thúc, học sinh lớp thường tự do luyện tập để khắc phục những điểm yếu của bản thân. Một ngày nhanh chóng trôi qua, bốn giờ chiều đã đến giờ tan học.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0007:align_0034",
+      "chapter_id": "chapter_0007",
+      "segment_ids": [
+        "chapter_0007:seg_0034"
+      ],
+      "source": "“等会儿一起走，我刚找到一家煎饼摊，老板的三大爷是‘火神派’的烧火杂役，老板也间接学到一手‘火云掌’，炮制出来的‘赤焰大手印鸡蛋饼’绝对一流，今天我请客，怎么样？”孟江豪气万千地拍着胸脯。",
+      "source_hash": "9a6d4386b70faaf12c2e4e6dcd6db81ab56e9e6a0961029257563b725714831b",
+      "target": "\"Lát nữa về chung nhé, tớ mới tìm được một xe bánh kếp lề đường, chú của ông chủ trước đây làm chân nhóm lửa cho 'Hỏa Thần Phái', ông chủ cũng học lỏm được chiêu 'Hỏa Vân Chưởng'. Bánh kếp trứng Xích Diễm Đại Thủ Ấn do ông ấy làm ra quả thực là đỉnh của chóp, hôm nay tớ bao, thấy sao?\" Mạnh Giang hào sảng vỗ ngực.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0007:align_0035",
+      "chapter_id": "chapter_0007",
+      "segment_ids": [
+        "chapter_0007:seg_0035"
+      ],
+      "source": "“不了，今天有事，还是明天我请你吧！”不等死党回答，李耀飞快窜出了教室。",
+      "source_hash": "b962bd9d8acc0c8a0a9169deebbeccc1e44034637e7f7e66c5fd68e494b3b550",
+      "target": "\"Hôm nay tớ có việc bận rồi, để mai tớ bao lại cậu nhé!\" Không đợi bạn thân kịp trả lời, Lý Diệu đã nhanh chóng lách người chạy vụt ra khỏi lớp học.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0007:align_0036",
+      "chapter_id": "chapter_0007",
+      "segment_ids": [
+        "chapter_0007:seg_0036"
+      ],
+      "source": "他贼头贼脑地左右打量一阵，绕着校园兜了大半圈，穿过两处食堂，在校园后面一片小树林里停了十几分钟，又折返回来，蹑手蹑脚地摸进了老教学楼底层的一间杂物室。",
+      "source_hash": "2c59f24780161a971f33aea438f2a5bdc9260e7f71cb575e4e4398e9a175ee74",
+      "target": "Cậu đảo mắt nhìn quanh canh chừng như kẻ trộm, đi vòng quanh sân trường một vòng lớn, đi ngang qua hai nhà ăn, đứng đợi ở một rừng cây nhỏ phía sau trường chừng mười phút rồi mới quay trở lại, nhẹ nhàng bước vào một căn phòng kho chứa đồ ở tầng dưới cùng của tòa nhà giảng đường cũ.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0007:align_0037",
+      "chapter_id": "chapter_0007",
+      "segment_ids": [
+        "chapter_0007:seg_0037"
+      ],
+      "source": "轻轻关上门，就嗅到了一股若有若无，空谷幽兰般的香气。",
+      "source_hash": "6212cb94f48f753e571e0c34e72c50a9043913a69444f0acf7e969bc1504bd75",
+      "target": "Khẽ khép cửa lại, cậu ngửi thấy một mùi hương thanh khiết thoang thoảng tựa như hoa lan trong thung lũng vắng.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0007:align_0038",
+      "chapter_id": "chapter_0007",
+      "segment_ids": [
+        "chapter_0007:seg_0038"
+      ],
+      "source": "一双清泉般的冷冽美眸，正在黑暗中有些不耐地瞪着他，眸子下方，是挺翘的鼻尖和抿紧的薄唇。",
+      "source_hash": "807dcc82603196b08263c470cfa43e7a4d29e47de025a439d15c53d9ca0fc82d",
+      "target": "Một đôi mắt đẹp lạnh lùng như nước suối đang có chút sốt ruột lườm cậu trong bóng tối, bên dưới đôi mắt là chiếc mũi thanh tú và đôi môi mỏng mím chặt.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0007:align_0039",
+      "chapter_id": "chapter_0007",
+      "segment_ids": [
+        "chapter_0007:seg_0039"
+      ],
+      "source": "如果孟江在这里，一定会发出标志性的杀猪嚎叫：“好你个死小妖，居然真的和‘二中女神’司佳雪勾搭上了！你，你真是色胆包天！”",
+      "source_hash": "ffda68b40655bb8c71d0e367f991fcf1912b32995e6b5535dc152f8b2c3bc72e",
+      "target": "Nếu Mạnh Giang có mặt ở đây, chắc chắn sẽ rú lên tiếng hét chọc tiết lợn quen thuộc: \"Cậu khá lắm Tiểu Diệu, hóa ra cậu thực sự đã cấu kết với 'Nhị Trung Nữ Thần' Tiêu Giai Tuyết! Cậu... cậu đúng là to gan lớn mật mà!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    }
+  ],
+  "term_occurrences": [
+    {
+      "chapter_id": "chapter_0007",
+      "source_term": "法宝坟墓",
+      "target_term": "Nghĩa địa Pháp Bảo",
+      "segment_id": "chapter_0007:seg_0020",
+      "present_in_target": false,
+      "is_locked": false,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0007",
+      "source_term": "浮戈城",
+      "target_term": "Phù Qua Thành",
+      "segment_id": "chapter_0007:seg_0027",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0007",
+      "source_term": "晶脑",
+      "target_term": "Tinh não",
+      "segment_id": "chapter_0007:seg_0006",
+      "present_in_target": false,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0007",
+      "source_term": "赤霄二中",
+      "target_term": "Xích Tiêu Nhị Trung",
+      "segment_id": "chapter_0007:seg_0027",
+      "present_in_target": false,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0007",
+      "source_term": "九大精英联校",
+      "target_term": "Chín đại học tinh anh liên kết",
+      "segment_id": "chapter_0007:seg_0014",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0007",
+      "source_term": "重点班",
+      "target_term": "lớp trọng điểm",
+      "segment_id": "chapter_0007:seg_0004",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0007",
+      "source_term": "平行班",
+      "target_term": "lớp song hành",
+      "segment_id": "chapter_0007:seg_0004",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0007",
+      "source_term": "普通班",
+      "target_term": "lớp thường",
+      "segment_id": "chapter_0007:seg_0017",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0007",
+      "source_term": "考试舱",
+      "target_term": "khoang thi cử",
+      "segment_id": "chapter_0007:seg_0003",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0007",
+      "source_term": "太虚幻境",
+      "target_term": "Thái Hư Huyễn Cảnh",
+      "segment_id": "chapter_0007:seg_0003",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0007",
+      "source_term": "竹笋炒肉",
+      "target_term": "thịt xào măng",
+      "segment_id": "chapter_0007:seg_0004",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0007",
+      "source_term": "灵根",
+      "target_term": "Linh căn",
+      "segment_id": "chapter_0007:seg_0009",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0007",
+      "source_term": "松果体",
+      "target_term": "tuyến tùng",
+      "segment_id": "chapter_0007:seg_0010",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0007",
+      "source_term": "灵根开发度",
+      "target_term": "độ khai phát linh căn",
+      "segment_id": "chapter_0007:seg_0009",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0007",
+      "source_term": "灵根开发仪",
+      "target_term": "máy khai phát linh căn",
+      "segment_id": "chapter_0007:seg_0019",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0007",
+      "source_term": "冥修馆",
+      "target_term": "Minh Tu Quán",
+      "segment_id": "chapter_0007:seg_0019",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0007",
+      "source_term": "火神派",
+      "target_term": "Hỏa Thần Phái",
+      "segment_id": "chapter_0007:seg_0034",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0007",
+      "source_term": "火云掌",
+      "target_term": "Hỏa Vân Chưởng",
+      "segment_id": "chapter_0007:seg_0034",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "technique",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0007",
+      "source_term": "赤焰大手印鸡蛋饼",
+      "target_term": "Bánh kếp trứng Xích Diễm Đại Thủ Ấn",
+      "segment_id": "chapter_0007:seg_0034",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0007",
+      "source_term": "司佳雪",
+      "target_term": "Tiêu Giai Tuyết",
+      "segment_id": "chapter_0007:seg_0022",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0007",
+      "source_term": "彭海",
+      "target_term": "Bành Hải",
+      "segment_id": "chapter_0007:seg_0027",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0007",
+      "source_term": "妖刀",
+      "target_term": "Yêu Đao",
+      "segment_id": "chapter_0007:seg_0027",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    }
+  ],
+  "entity_mentions": [
+    {
+      "chapter_id": "chapter_0007",
+      "source_surface": "李耀",
+      "target_surface": "Lý Diệu",
+      "entity_type": "person",
+      "segment_id": "chapter_0007:seg_0003",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0007",
+      "source_surface": "彭海",
+      "target_surface": "Bành Hải",
+      "entity_type": "person",
+      "segment_id": "chapter_0007:seg_0027",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0007",
+      "source_surface": "孟江",
+      "target_surface": "Mạnh Giang",
+      "entity_type": "person",
+      "segment_id": "chapter_0007:seg_0004",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0007",
+      "source_surface": "司佳雪",
+      "target_surface": "Tiêu Giai Tuyết",
+      "entity_type": "person",
+      "segment_id": "chapter_0007:seg_0022",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0007",
+      "source_surface": "赫连烈",
+      "target_surface": "Hách Liên Liệt",
+      "entity_type": "person",
+      "segment_id": "chapter_0007:seg_0022",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0007",
+      "source_surface": "强化药剂",
+      "target_surface": "Dược chất cường hóa Linh Căn",
+      "entity_type": "cultivation_resources",
+      "segment_id": "chapter_0007:seg_0019",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0007",
+      "source_surface": "法宝坟墓",
+      "target_surface": "Nghĩa địa Pháp Bảo",
+      "entity_type": "locations",
+      "segment_id": "chapter_0007:seg_0020",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0007",
+      "source_surface": "浮戈城",
+      "target_surface": "Phù Qua Thành",
+      "entity_type": "locations",
+      "segment_id": "chapter_0007:seg_0027",
+      "confidence": 1.0
+    }
+  ],
+  "name_analysis": {
+    "status": "ok",
+    "evidence_count": 5,
+    "name_mentions": [
+      {
+        "chapter_id": "chapter_0007",
+        "name_source": "李耀",
+        "name_target": "Lý Diệu",
+        "segment_id": "chapter_0007:seg_0003",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0007",
+        "name_source": "彭海",
+        "name_target": "Bành Hải",
+        "segment_id": "chapter_0007:seg_0027",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0007",
+        "name_source": "孟江",
+        "name_target": "Mạnh Giang",
+        "segment_id": "chapter_0007:seg_0004",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0007",
+        "name_source": "司佳雪",
+        "name_target": "Tiêu Giai Tuyết",
+        "segment_id": "chapter_0007:seg_0022",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0007",
+        "name_source": "赫连烈",
+        "name_target": "Hách Liên Liệt",
+        "segment_id": "chapter_0007:seg_0022",
+        "present_in_target": true,
+        "confidence": 1.0
+      }
+    ],
+    "name_entries": [
+      {
+        "name_source": "李耀",
+        "name_target": "Lý Diệu"
+      },
+      {
+        "name_source": "彭海",
+        "name_target": "Bành Hải"
+      },
+      {
+        "name_source": "孟江",
+        "name_target": "Mạnh Giang"
+      },
+      {
+        "name_source": "司佳雪",
+        "name_target": "Tiêu Giai Tuyết"
+      },
+      {
+        "name_source": "赫连烈",
+        "name_target": "Hách Liên Liệt"
+      }
+    ],
+    "transliteration_units": [],
+    "inferred_name_rules": [],
+    "ambiguity_cases": [],
+    "reusable_name_profile": {
+      "mapping_count": 5,
+      "has_ambiguity": false
+    }
+  },
   "phrase_patterns": [],
   "grammar_rule_candidates": [],
+  "analyzer_reports": {
+    "term_occurrences": {
+      "status": "ok",
+      "evidence_count": 22
+    },
+    "entity_mentions": {
+      "status": "ok",
+      "evidence_count": 8
+    },
+    "name_mentions": {
+      "status": "ok",
+      "evidence_count": 5
+    },
+    "phrase_patterns": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    },
+    "grammar_rule_candidates": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    }
+  },
+  "review_queue": [
+    {
+      "chapter_id": "chapter_0007",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "司佳雪",
+        "entity_type": "person",
+        "count": 4,
+        "confidence": 0.82,
+        "evidence": [
+          "嫉妒得眼里喷火。\n\n司佳雪，灵根开发度71%；",
+          "，从来见不得别人亲近司佳雪，上次有个转校生初来",
+          "深浅，放出话来要追求司佳雪，结果在‘武技课’上"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0007",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "越高",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "\n更何况，灵根开发度越高，人的思维就越敏捷，",
+          "越敏锐，对身体掌控度越高，成绩怎么也不会比他"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0007",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "火神派",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "摊，老板的三大爷是‘火神派’的烧火杂役，老板也"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0007",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "穿过两处食堂",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "绕着校园兜了大半圈，穿过两处食堂，在校园后面一片小树"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0007",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "轻轻关上门",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "层的一间杂物室。\n\n轻轻关上门，就嗅到了一股若有若"
+        ]
+      }
+    }
+  ],
   "quality_audit": {
     "segment_coverage": 1.0,
+    "source_hash_match": true,
+    "target_reconstruction_match": true,
+    "invalid_ref_count": 0,
     "locked_term_hit_rate": 1.0,
+    "missing_locked_terms": [],
     "cjk_residue_count": 0,
     "paragraph_drift_ratio": 0.0,
     "pronoun_consistency_score": 1.0,

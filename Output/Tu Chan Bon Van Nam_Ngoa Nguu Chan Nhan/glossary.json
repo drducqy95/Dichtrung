@@ -3,8 +3,8 @@
     "version": "2.0",
     "schema": "gold",
     "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
-    "last_updated": "2026-05-30T22:41:39.679945+07:00",
-    "total_entries": 154
+    "last_updated": "2026-05-31T17:02:41.335312+07:00",
+    "total_entries": 228
   },
   "entries": [
     {
@@ -25,7 +25,12 @@
       "context": "",
       "confidence": "medium",
       "notes": "Nơi tập trung xử lý các pháp bảo phế thải và rác kim loại linh năng.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0001",
+        "chapter_0002"
+      ]
     },
     {
       "source": "法宝坟墓",
@@ -35,7 +40,17 @@
       "context": "",
       "confidence": "medium",
       "notes": "Tên gọi khác của bãi xử lý rác thải đặc chủng.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0001",
+        "chapter_0021",
+        "chapter_0046",
+        "chapter_0048",
+        "chapter_0049",
+        "chapter_0052",
+        "chapter_0053"
+      ]
     },
     {
       "source": "浮戈城",
@@ -45,7 +60,30 @@
       "context": "",
       "confidence": "medium",
       "notes": "Trọng trấn tu luyện của Liên bang.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0001",
+        "chapter_0002",
+        "chapter_0003",
+        "chapter_0004",
+        "chapter_0007",
+        "chapter_0009",
+        "chapter_0011",
+        "chapter_0014",
+        "chapter_0015",
+        "chapter_0016",
+        "chapter_0018",
+        "chapter_0019",
+        "chapter_0030",
+        "chapter_0035",
+        "chapter_0039",
+        "chapter_0049",
+        "chapter_0060",
+        "chapter_0063",
+        "chapter_0064",
+        "chapter_0070"
+      ]
     },
     {
       "source": "飞灵宗",
@@ -65,7 +103,13 @@
       "context": "",
       "confidence": "medium",
       "notes": "Khu nhà giàu và tu chân giả xa hoa nhất Phù Qua Thành.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0001",
+        "chapter_0014",
+        "chapter_0033"
+      ]
     },
     {
       "source": "野狼帮",
@@ -95,7 +139,22 @@
       "context": "",
       "confidence": "medium",
       "notes": "Máy tính lượng tử vận hành bằng năng lượng tinh thạch trong thế giới tu chân.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0008",
+        "chapter_0012",
+        "chapter_0036",
+        "chapter_0040",
+        "chapter_0045",
+        "chapter_0046",
+        "chapter_0047",
+        "chapter_0049",
+        "chapter_0050",
+        "chapter_0051",
+        "chapter_0061",
+        "chapter_0070"
+      ]
     },
     {
       "source": "星光",
@@ -135,7 +194,14 @@
       "context": "",
       "confidence": "medium",
       "notes": "Thanh phi kiếm đen rách nát cũ kỹ của Lý Diệu.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0001",
+        "chapter_0002",
+        "chapter_0010",
+        "chapter_0013"
+      ]
     },
     {
       "source": "朝阳新村",
@@ -145,7 +211,13 @@
       "context": "",
       "confidence": "medium",
       "notes": "Khu chung cư giá rẻ tồi tàn nhất Phù Qua Thành nằm cạnh nghĩa địa pháp bảo.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0002",
+        "chapter_0003",
+        "chapter_0009"
+      ]
     },
     {
       "source": "光幕仪",
@@ -155,7 +227,12 @@
       "context": "",
       "confidence": "medium",
       "notes": "Thiết bị trình chiếu hình ảnh lập thể bằng linh năng.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0002",
+        "chapter_0046"
+      ]
     },
     {
       "source": "立体光幕仪",
@@ -255,7 +332,14 @@
       "context": "",
       "confidence": "medium",
       "notes": "Ca sĩ thần tượng trẻ tuổi nổi tiếng với bài hát 'Tu Chân 40000 Năm'.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0002",
+        "chapter_0024",
+        "chapter_0025",
+        "chapter_0031"
+      ]
     },
     {
       "source": "老爹",
@@ -265,7 +349,14 @@
       "context": "",
       "confidence": "medium",
       "notes": "Người nhặt nuôi Lý Diệu, truyền thụ kỹ năng sửa chữa pháp bảo trước khi qua đời.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0002",
+        "chapter_0003",
+        "chapter_0046",
+        "chapter_0057"
+      ]
     },
     {
       "source": "黑翼",
@@ -275,7 +366,14 @@
       "context": "",
       "confidence": "medium",
       "notes": "Thanh phi kiếm bí ẩn Lão cha để lại cho Lý Diệu, chính là Tiểu Hắc.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0002",
+        "chapter_0010",
+        "chapter_0013",
+        "chapter_0046"
+      ]
     },
     {
       "source": "老王二手商店",
@@ -345,7 +443,29 @@
       "context": "",
       "confidence": "medium",
       "notes": "Tên gọi tắt của Trường Trung học số hai trực thuộc Xích Tiêu Phái.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0004",
+        "chapter_0009",
+        "chapter_0014",
+        "chapter_0015",
+        "chapter_0017",
+        "chapter_0019",
+        "chapter_0022",
+        "chapter_0023",
+        "chapter_0027",
+        "chapter_0030",
+        "chapter_0032",
+        "chapter_0034",
+        "chapter_0035",
+        "chapter_0036",
+        "chapter_0046",
+        "chapter_0056",
+        "chapter_0057",
+        "chapter_0064",
+        "chapter_0070"
+      ]
     },
     {
       "source": "疯狂高考季",
@@ -365,7 +485,21 @@
       "context": "",
       "confidence": "medium",
       "notes": "Nhóm chín trường đại học hàng đầu Liên bang chuyên bồi dưỡng tu chân giả.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0004",
+        "chapter_0005",
+        "chapter_0007",
+        "chapter_0008",
+        "chapter_0009",
+        "chapter_0024",
+        "chapter_0030",
+        "chapter_0043",
+        "chapter_0045",
+        "chapter_0048",
+        "chapter_0070"
+      ]
     },
     {
       "source": "重点班",
@@ -375,7 +509,22 @@
       "context": "",
       "confidence": "medium",
       "notes": "Lớp học tập trung các học sinh có thiên phú tu luyện cao nhất.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0004",
+        "chapter_0007",
+        "chapter_0012",
+        "chapter_0015",
+        "chapter_0022",
+        "chapter_0025",
+        "chapter_0026",
+        "chapter_0027",
+        "chapter_0035",
+        "chapter_0036",
+        "chapter_0037",
+        "chapter_0038"
+      ]
     },
     {
       "source": "平行班",
@@ -385,7 +534,13 @@
       "context": "",
       "confidence": "medium",
       "notes": "Lớp học dành cho học sinh có tư chất bình thường nhưng gia cảnh giàu có.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0004",
+        "chapter_0007",
+        "chapter_0035"
+      ]
     },
     {
       "source": "普通班",
@@ -395,7 +550,24 @@
       "context": "",
       "confidence": "medium",
       "notes": "Lớp học dành cho con em bình dân, học lực và tài nguyên hạn chế.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0004",
+        "chapter_0007",
+        "chapter_0008",
+        "chapter_0009",
+        "chapter_0015",
+        "chapter_0017",
+        "chapter_0023",
+        "chapter_0025",
+        "chapter_0027",
+        "chapter_0028",
+        "chapter_0034",
+        "chapter_0035",
+        "chapter_0037",
+        "chapter_0038"
+      ]
     },
     {
       "source": "大荒战院",
@@ -405,7 +577,17 @@
       "context": "",
       "confidence": "medium",
       "notes": "Một trong chín trường đại học tinh anh liên kết của Liên bang.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0004",
+        "chapter_0046",
+        "chapter_0047",
+        "chapter_0048",
+        "chapter_0053",
+        "chapter_0057",
+        "chapter_0063"
+      ]
     },
     {
       "source": "联邦军",
@@ -415,7 +597,17 @@
       "context": "",
       "confidence": "medium",
       "notes": "Lực lượng quân sự bảo vệ Tinh Ước Liên Bang.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0004",
+        "chapter_0028",
+        "chapter_0041",
+        "chapter_0049",
+        "chapter_0051",
+        "chapter_0058",
+        "chapter_0064"
+      ]
     },
     {
       "source": "玄鸟战梭",
@@ -425,7 +617,12 @@
       "context": "",
       "confidence": "medium",
       "notes": "Mẫu phi thuyền chiến đấu bọc thép tiên tiến của Liên bang.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0004",
+        "chapter_0050"
+      ]
     },
     {
       "source": "筑基期",
@@ -435,7 +632,18 @@
       "context": "",
       "confidence": "medium",
       "notes": "Cảnh giới tu chân cấp thứ hai, sau Luyện Khí Kỳ.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0004",
+        "chapter_0011",
+        "chapter_0019",
+        "chapter_0022",
+        "chapter_0035",
+        "chapter_0042",
+        "chapter_0045",
+        "chapter_0068"
+      ]
     },
     {
       "source": "银白海滩",
@@ -465,7 +673,12 @@
       "context": "",
       "confidence": "medium",
       "notes": "Buồng thi chuyên dụng để thí sinh kết nối thần thức vào Thái Hư Huyễn Cảnh.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0005",
+        "chapter_0007"
+      ]
     },
     {
       "source": "太虚幻境",
@@ -475,7 +688,13 @@
       "context": "",
       "confidence": "medium",
       "notes": "Không gian ảo lập thể xây dựng từ linh năng để mô phỏng môi trường chiến đấu thực tế.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0005",
+        "chapter_0007",
+        "chapter_0045"
+      ]
     },
     {
       "source": "沙狼",
@@ -505,7 +724,14 @@
       "context": "",
       "confidence": "medium",
       "notes": "Môn võ học cơ bản phỏng sinh học mô phỏng tư thế chiến đấu của thú dữ.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0005",
+        "chapter_0027",
+        "chapter_0030",
+        "chapter_0037"
+      ]
     },
     {
       "source": "巨熊靠",
@@ -565,7 +791,14 @@
       "context": "",
       "confidence": "medium",
       "notes": "Thời kỳ lịch sử đen tối kéo dài hàng vạn năm của văn minh nhân loại.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0005",
+        "chapter_0006",
+        "chapter_0041",
+        "chapter_0067"
+      ]
     },
     {
       "source": "古典修真时期",
@@ -605,7 +838,13 @@
       "context": "",
       "confidence": "medium",
       "notes": "Cảnh giới tu vi cấp thứ tư.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0006",
+        "chapter_0040",
+        "chapter_0044"
+      ]
     },
     {
       "source": "化神老怪",
@@ -615,7 +854,12 @@
       "context": "",
       "confidence": "medium",
       "notes": "Cách gọi các tu chân giả đạt cảnh giới Hóa Thần Kỳ (cấp thứ năm).",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0006",
+        "chapter_0069"
+      ]
     },
     {
       "source": "渡劫真君",
@@ -635,7 +879,14 @@
       "context": "",
       "confidence": "medium",
       "notes": "Loại virus sinh học linh năng dùng để biến đổi linh thú thành yêu thú chiến đấu.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0006",
+        "chapter_0040",
+        "chapter_0041",
+        "chapter_0067"
+      ]
     },
     {
       "source": "妖族",
@@ -645,7 +896,13 @@
       "context": "",
       "confidence": "medium",
       "notes": "Chủng tộc sinh vật thông minh tiến hóa từ yêu thú bị nhiễm virus Yêu Thần.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0006",
+        "chapter_0063",
+        "chapter_0067"
+      ]
     },
     {
       "source": "妖兽王朝",
@@ -685,7 +942,12 @@
       "context": "",
       "confidence": "medium",
       "notes": "Vị lãnh đạo tối cao huyền thoại dẫn dắt nhân loại giành lại tinh hải từ tay Yêu tộc.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0006",
+        "chapter_0067"
+      ]
     },
     {
       "source": "元始宗派",
@@ -695,7 +957,12 @@
       "context": "",
       "confidence": "medium",
       "notes": "Hai mươi môn phái tu chân đầu tiên được Đế Hoàng lập ra sau Đại Hắc Ám Thời Đại.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0006",
+        "chapter_0067"
+      ]
     },
     {
       "source": "竹笋炒肉",
@@ -725,7 +992,13 @@
       "context": "",
       "confidence": "medium",
       "notes": "Bộ phận sinh học trong não bộ được coi là nơi trú ngụ của linh căn.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0007",
+        "chapter_0012",
+        "chapter_0070"
+      ]
     },
     {
       "source": "灵根开发度",
@@ -735,7 +1008,27 @@
       "context": "",
       "confidence": "medium",
       "notes": "Tỷ lệ kích hoạt linh căn trong não bộ, đạt 100% mới thức tỉnh.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0004",
+        "chapter_0007",
+        "chapter_0008",
+        "chapter_0009",
+        "chapter_0012",
+        "chapter_0015",
+        "chapter_0018",
+        "chapter_0023",
+        "chapter_0024",
+        "chapter_0026",
+        "chapter_0029",
+        "chapter_0034",
+        "chapter_0036",
+        "chapter_0040",
+        "chapter_0051",
+        "chapter_0058",
+        "chapter_0070"
+      ]
     },
     {
       "source": "灵根开发仪",
@@ -775,7 +1068,12 @@
       "context": "",
       "confidence": "medium",
       "notes": "Môn chưởng pháp tạo lửa của Hỏa Thần Phái.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0007",
+        "chapter_0023"
+      ]
     },
     {
       "source": "赤焰大手印鸡蛋饼",
@@ -805,7 +1103,12 @@
       "context": "",
       "confidence": "medium",
       "notes": "Dòng tinh não dạng ống nổi tiếng của Thiên Cầm Môn.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0008",
+        "chapter_0050"
+      ]
     },
     {
       "source": "天琴门",
@@ -815,7 +1118,12 @@
       "context": "",
       "confidence": "medium",
       "notes": "Môn phái tu chân nhỏ chuyên chế tạo tinh não đã bị phá sản.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0008",
+        "chapter_0050"
+      ]
     },
     {
       "source": "片式晶脑",
@@ -835,7 +1143,13 @@
       "context": "",
       "confidence": "medium",
       "notes": "Linh kiện giải nhiệt bên trong tinh não.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0008",
+        "chapter_0014",
+        "chapter_0050"
+      ]
     },
     {
       "source": "地下鬼市",
@@ -845,7 +1159,14 @@
       "context": "",
       "confidence": "medium",
       "notes": "Khu chợ đen lén lút dưới lòng đất chuyên buôn bán hàng lậu và đồ cấm.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0008",
+        "chapter_0017",
+        "chapter_0018",
+        "chapter_0019"
+      ]
     },
     {
       "source": "山寨强化药剂",
@@ -855,7 +1176,12 @@
       "context": "",
       "confidence": "medium",
       "notes": "Thuốc kích thích linh căn giả, giá rẻ, nhiều tạp chất và tác dụng phụ.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0008",
+        "chapter_0017"
+      ]
     },
     {
       "source": "咸鱼和鞋",
@@ -895,7 +1221,12 @@
       "context": "",
       "confidence": "medium",
       "notes": "Cầu đường sắt chuyên dụng dành cho tàu tinh quỹ chạy qua.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0009",
+        "chapter_0010"
+      ]
     },
     {
       "source": "超高速晶轨列车",
@@ -905,7 +1236,14 @@
       "context": "",
       "confidence": "medium",
       "notes": "Hệ thống tàu cao tốc vận hành bằng linh năng tinh thạch.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0009",
+        "chapter_0012",
+        "chapter_0016",
+        "chapter_0021"
+      ]
     },
     {
       "source": "国之重器",
@@ -935,7 +1273,17 @@
       "context": "",
       "confidence": "medium",
       "notes": "Tông phái luyện khí lớn cổ đại trong Hồng Hoang Đại Thế Giới.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0010",
+        "chapter_0011",
+        "chapter_0012",
+        "chapter_0013",
+        "chapter_0021",
+        "chapter_0031",
+        "chapter_0069"
+      ]
     },
     {
       "source": "洪荒大世界",
@@ -945,7 +1293,13 @@
       "context": "",
       "confidence": "medium",
       "notes": "Thế giới cổ đại khổng lồ trong lịch sử tu chân.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0010",
+        "chapter_0011",
+        "chapter_0012"
+      ]
     },
     {
       "source": "一百零八手披风乱锤法",
@@ -955,7 +1309,16 @@
       "context": "",
       "confidence": "medium",
       "notes": "Bộ pháp rèn đúc cơ bản bằng búa của Bách Luyện Tông.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0010",
+        "chapter_0011",
+        "chapter_0013",
+        "chapter_0021",
+        "chapter_0069",
+        "chapter_0070"
+      ]
     },
     {
       "source": "无渊海",
@@ -995,7 +1358,13 @@
       "context": "",
       "confidence": "medium",
       "notes": "Cấp bậc tạp dịch cao hơn tạp dịch cấp thấp trong Bách Luyện Tông.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0010",
+        "chapter_0011",
+        "chapter_0069"
+      ]
     },
     {
       "source": "金石木",
@@ -1035,7 +1404,12 @@
       "context": "",
       "confidence": "medium",
       "notes": "Tông chủ đời thứ 35 của Bách Luyện Tông",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0011",
+        "chapter_0012"
+      ]
     },
     {
       "source": "深闪",
@@ -1095,7 +1469,12 @@
       "context": "",
       "confidence": "medium",
       "notes": "Trang tìm kiếm thông tin linh năng",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0012",
+        "chapter_0018"
+      ]
     },
     {
       "source": "万象派",
@@ -1115,7 +1494,13 @@
       "context": "",
       "confidence": "medium",
       "notes": "Hành vi cướp đoạt thể xác của tu sĩ khác bằng thần hồn",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0012",
+        "chapter_0031",
+        "chapter_0069"
+      ]
     },
     {
       "source": "特别税",
@@ -1135,7 +1520,13 @@
       "context": "",
       "confidence": "medium",
       "notes": "Loại thịt hộp giá rẻ làm từ sinh vật lai",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0013",
+        "chapter_0014",
+        "chapter_0021"
+      ]
     },
     {
       "source": "鲸吞大法",
@@ -1155,7 +1546,15 @@
       "context": "",
       "confidence": "medium",
       "notes": "Tổng giáo đầu tạp dịch của Bách Luyện Tông",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0010",
+        "chapter_0011",
+        "chapter_0013",
+        "chapter_0021",
+        "chapter_0069"
+      ]
     },
     {
       "source": "司佳雪",
@@ -1165,7 +1564,25 @@
       "context": "",
       "confidence": "medium",
       "notes": "Nữ sinh cùng trường",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0007",
+        "chapter_0008",
+        "chapter_0009",
+        "chapter_0013",
+        "chapter_0014",
+        "chapter_0015",
+        "chapter_0020",
+        "chapter_0032",
+        "chapter_0035",
+        "chapter_0036",
+        "chapter_0038",
+        "chapter_0050",
+        "chapter_0051",
+        "chapter_0058",
+        "chapter_0070"
+      ]
     },
     {
       "source": "隐冬湖",
@@ -1185,7 +1602,14 @@
       "context": "",
       "confidence": "medium",
       "notes": "Nhà hàng buffet cao cấp",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0014",
+        "chapter_0015",
+        "chapter_0016",
+        "chapter_0021"
+      ]
     },
     {
       "source": "不记名金灵通卡",
@@ -1205,7 +1629,30 @@
       "context": "",
       "confidence": "medium",
       "notes": "Trịnh thiếu, đích tôn nhà họ Trịnh",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0015",
+        "chapter_0016",
+        "chapter_0017",
+        "chapter_0035",
+        "chapter_0036",
+        "chapter_0037",
+        "chapter_0039",
+        "chapter_0040",
+        "chapter_0041",
+        "chapter_0043",
+        "chapter_0045",
+        "chapter_0046",
+        "chapter_0047",
+        "chapter_0048",
+        "chapter_0058",
+        "chapter_0063",
+        "chapter_0065",
+        "chapter_0066",
+        "chapter_0067",
+        "chapter_0068"
+      ]
     },
     {
       "source": "凤山门附属第二高中",
@@ -1275,7 +1722,13 @@
       "context": "",
       "confidence": "medium",
       "notes": "Một loại linh phù mặt nạ dùng để tạo hoa văn thay đổi diện mạo",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0018",
+        "chapter_0020",
+        "chapter_0022"
+      ]
     },
     {
       "source": "第六十三区",
@@ -1295,7 +1748,14 @@
       "context": "",
       "confidence": "medium",
       "notes": "Một võ quán tu luyện nằm sâu trong Khu 63",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0018",
+        "chapter_0019",
+        "chapter_0022",
+        "chapter_0033"
+      ]
     },
     {
       "source": "彭海",
@@ -1305,7 +1765,26 @@
       "context": "",
       "confidence": "medium",
       "notes": "Yêu Đao Bành Hải, tu sĩ Trúc Cơ Kỳ, thần tượng giới trẻ",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0004",
+        "chapter_0005",
+        "chapter_0007",
+        "chapter_0019",
+        "chapter_0020",
+        "chapter_0021",
+        "chapter_0022",
+        "chapter_0029",
+        "chapter_0030",
+        "chapter_0032",
+        "chapter_0034",
+        "chapter_0038",
+        "chapter_0046",
+        "chapter_0047",
+        "chapter_0050",
+        "chapter_0057"
+      ]
     },
     {
       "source": "老教官",
@@ -1315,7 +1794,12 @@
       "context": "",
       "confidence": "medium",
       "notes": "Triệu quán chủ, quản lý võ quán Quân Đạo Sát Lang",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0019",
+        "chapter_0022"
+      ]
     },
     {
       "source": "妖刀",
@@ -1325,7 +1809,23 @@
       "context": "",
       "confidence": "medium",
       "notes": "Biệt danh của Bành Hải",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0004",
+        "chapter_0007",
+        "chapter_0019",
+        "chapter_0021",
+        "chapter_0022",
+        "chapter_0029",
+        "chapter_0030",
+        "chapter_0032",
+        "chapter_0038",
+        "chapter_0046",
+        "chapter_0047",
+        "chapter_0050",
+        "chapter_0057"
+      ]
     },
     {
       "source": "黑刃行动",
@@ -1355,7 +1855,15 @@
       "context": "",
       "confidence": "medium",
       "notes": "Cảnh giới tu chân sau Trúc Cơ",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0006",
+        "chapter_0019",
+        "chapter_0042",
+        "chapter_0043",
+        "chapter_0051"
+      ]
     },
     {
       "source": "铁龟",
@@ -1365,7 +1873,13 @@
       "context": "",
       "confidence": "medium",
       "notes": "Rùa Sắt, biệt danh của một kim bài bồi luyện ẩn danh",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0019",
+        "chapter_0021",
+        "chapter_0022"
+      ]
     },
     {
       "source": "第五套健身体操",
@@ -1375,7 +1889,12 @@
       "context": "",
       "confidence": "medium",
       "notes": "Bài thể dục cơ bản của Liên bang",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0020",
+        "chapter_0024"
+      ]
     },
     {
       "source": "第九套健身体操",
@@ -1405,7 +1924,12 @@
       "context": "",
       "confidence": "medium",
       "notes": "Pháp bảo phát nhạc nhỏ gọn nhét vào tai.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0024",
+        "chapter_0031"
+      ]
     },
     {
       "source": "妙音宗",
@@ -1415,7 +1939,12 @@
       "context": "",
       "confidence": "medium",
       "notes": "Tông môn luyện chế pháp bảo Âm Linh.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0024",
+        "chapter_0031"
+      ]
     },
     {
       "source": "魏铁",
@@ -1425,7 +1954,13 @@
       "context": "",
       "confidence": "medium",
       "notes": "Một ác bá to cao mệnh danh là Thiết Thú trong lớp song hành trường Xích Tiêu Nhị Trung.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0025",
+        "chapter_0026",
+        "chapter_0027"
+      ]
     },
     {
       "source": "赵亮",
@@ -1435,7 +1970,17 @@
       "context": "",
       "confidence": "medium",
       "notes": "Học sinh lớp trọng điểm trường Xích Tiêu Nhị Trung, tay chân của Hách Liên Liệt.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0026",
+        "chapter_0027",
+        "chapter_0028",
+        "chapter_0029",
+        "chapter_0033",
+        "chapter_0037",
+        "chapter_0038"
+      ]
     },
     {
       "source": "灵蛇步法",
@@ -1465,7 +2010,12 @@
       "context": "",
       "confidence": "medium",
       "notes": "Chiêu thức thúc gối mãnh liệt trong bộ Chiến Thú Thập Tam Thế.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0027",
+        "chapter_0037"
+      ]
     },
     {
       "source": "老孙头",
@@ -1485,7 +2035,17 @@
       "context": "",
       "confidence": "medium",
       "notes": "Lão giả trông kho hậu cần trường Xích Tiêu Nhị Trung, cựu giáo viên võ kỹ lừng danh.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0029",
+        "chapter_0030",
+        "chapter_0031",
+        "chapter_0032",
+        "chapter_0033",
+        "chapter_0034",
+        "chapter_0036"
+      ]
     },
     {
       "source": "孙老",
@@ -1495,7 +2055,12 @@
       "context": "",
       "confidence": "medium",
       "notes": "Cách gọi tôn kính dành cho Tôn Bưu.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0032",
+        "chapter_0034"
+      ]
     },
     {
       "source": "联邦少年极限挑战赛",
@@ -1505,7 +2070,13 @@
       "context": "",
       "confidence": "medium",
       "notes": "Giải đấu sinh tồn huấn luyện thực chiến uy tín hàng năm của Liên bang.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0030",
+        "chapter_0035",
+        "chapter_0051"
+      ]
     },
     {
       "source": "准考证",
@@ -1515,7 +2086,17 @@
       "context": "",
       "confidence": "medium",
       "notes": "Tấm thẻ để đại diện tham gia Giải đấu Thử thách Cực hạn Thiếu niên Liên bang.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0030",
+        "chapter_0034",
+        "chapter_0035",
+        "chapter_0036",
+        "chapter_0037",
+        "chapter_0038",
+        "chapter_0039"
+      ]
     },
     {
       "source": "放弃",
@@ -1525,7 +2106,20 @@
       "context": "",
       "confidence": "medium",
       "notes": "Bộ đồ luyện công pháp bảo do Tôn Bưu chế luyện từ mười mấy năm trước, tạo ra trọng lực trường, giật điện và ảo ảnh nóng lạnh kích thích cơ thể, đồng thời tự cởi ra khi chủ nhân nói 'Cháu từ bỏ'.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0031",
+        "chapter_0032",
+        "chapter_0033",
+        "chapter_0034",
+        "chapter_0036",
+        "chapter_0037",
+        "chapter_0042",
+        "chapter_0048",
+        "chapter_0061",
+        "chapter_0067"
+      ]
     },
     {
       "source": "修真界败类",
@@ -1545,6 +2139,963 @@
       "context": "",
       "confidence": "medium",
       "notes": "Thiết bị liên lạc truyền hình ảnh ảo lập thể của giới tu chân.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0016",
+        "chapter_0018",
+        "chapter_0023",
+        "chapter_0026",
+        "chapter_0032",
+        "chapter_0034",
+        "chapter_0047"
+      ]
+    },
+    {
+      "source": "飞豚眼",
+      "source_language": "zh",
+      "target": "Phi Đồn Nhãn",
+      "category": "beast",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Linh thú nhân tạo làm camera trên không, có hình dáng lông xù, múp míp, kêu pút kít.",
+      "locked": false
+    },
+    {
+      "source": "噗叽兽",
+      "source_language": "zh",
+      "target": "thú Pút Kít",
+      "category": "beast",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tên gọi phổ biến của Phi Đồn Nhãn do đại chúng đặt vì tiếng kêu pút kít.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0035",
+        "chapter_0038",
+        "chapter_0049",
+        "chapter_0050",
+        "chapter_0051",
+        "chapter_0052",
+        "chapter_0053",
+        "chapter_0055",
+        "chapter_0056",
+        "chapter_0058",
+        "chapter_0059",
+        "chapter_0064",
+        "chapter_0065",
+        "chapter_0066",
+        "chapter_0068"
+      ]
+    },
+    {
+      "source": "医疗飞梭",
+      "source_language": "zh",
+      "target": "phi thuyền y tế",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Phương tiện bay khẩn cấp dùng để cấp cứu y tế.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0035",
+        "chapter_0036"
+      ]
+    },
+    {
+      "source": "炼体者",
+      "source_language": "zh",
+      "target": "luyện thể giả",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Người tu luyện chuyên môn rèn luyện và tôi luyện sức mạnh thể xác, dĩ võ nhập đạo.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0038",
+        "chapter_0046",
+        "chapter_0047",
+        "chapter_0048",
+        "chapter_0057"
+      ]
+    },
+    {
+      "source": "炼器师",
+      "source_language": "zh",
+      "target": "luyện khí sư",
+      "category": "job",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tu chân giả chuyên chế tạo, nâng cấp và sửa chữa pháp bảo.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0002",
+        "chapter_0003",
+        "chapter_0038",
+        "chapter_0041",
+        "chapter_0042",
+        "chapter_0045",
+        "chapter_0046",
+        "chapter_0048",
+        "chapter_0050",
+        "chapter_0056",
+        "chapter_0057",
+        "chapter_0060"
+      ]
+    },
+    {
+      "source": "辽远号",
+      "source_language": "zh",
+      "target": "Liêu Viễn Hào",
+      "category": "item",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Siêu trọng hình tinh thạch chiến liệt hạm, kỳ hạm của Quân đội Liên bang trong Huyết Hải Đại Chiến.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0042",
+        "chapter_0043",
+        "chapter_0048",
+        "chapter_0050",
+        "chapter_0051",
+        "chapter_0052",
+        "chapter_0053",
+        "chapter_0054",
+        "chapter_0056",
+        "chapter_0057",
+        "chapter_0058",
+        "chapter_0063",
+        "chapter_0064",
+        "chapter_0065",
+        "chapter_0066",
+        "chapter_0068"
+      ]
+    },
+    {
+      "source": "幻文师",
+      "source_language": "zh",
+      "target": "Ảo Văn Sư",
+      "category": "job",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Một nghề nghiệp thuộc tu chân giả hệ văn nghệ, có khả năng kéo đối thủ vào lĩnh vực văn tự do họ sáng tạo ra.",
+      "locked": false
+    },
+    {
+      "source": "碎星炮",
+      "source_language": "zh",
+      "target": "Toái Tinh Pháo",
+      "category": "item",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Loại pháp bảo vũ khí cực kỳ mạnh mẽ do luyện khí sư chế tạo, có khả năng san phẳng một đại lục.",
+      "locked": false
+    },
+    {
+      "source": "血海大战",
+      "source_language": "zh",
+      "target": "Huyết Hải Đại Chiến",
+      "category": "event",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Trận chiến sinh tử năm trăm năm trước giữa Liên bang Tinh Diệu và Đông Cực Yêu Quốc tại Cực Đông Hải.",
+      "locked": false
+    },
+    {
+      "source": "东极妖国",
+      "source_language": "zh",
+      "target": "Đông Cực Yêu Quốc",
+      "category": "faction",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Vương quốc yêu thú đã bị Liên bang diệt vong trong Huyết Hải Đại Chiến.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0042",
+        "chapter_0049"
+      ]
+    },
+    {
+      "source": "天野号",
+      "source_language": "zh",
+      "target": "Thiên Dã Hào",
+      "category": "item",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Kỳ hạm của Đông Cực Yêu Hoàng trong Huyết Hải Đại Chiến, đã bị Liêu Viễn Hào đâm chìm.",
+      "locked": false
+    },
+    {
+      "source": "东极妖皇",
+      "source_language": "zh",
+      "target": "Đông Cực Yêu Hoàng",
+      "category": "character",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Kẻ thống trị Đông Cực Yêu Quốc năm xưa.",
+      "locked": false
+    },
+    {
+      "source": "天幻书院",
+      "source_language": "zh",
+      "target": "Thiên Huyễn Thư Viện",
+      "category": "faction",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Một trong chín trường đại học tinh anh liên kết, chuyên đào tạo tu chân giả hệ văn nghệ.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0044",
+        "chapter_0047",
+        "chapter_0048"
+      ]
+    },
+    {
+      "source": "平远涛",
+      "source_language": "zh",
+      "target": "Bình Viễn Tào",
+      "category": "character",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Cựu hạm trưởng đầu tiên và cuối cùng của Liêu Viễn Hào, tu chân giả Kết Đan Kỳ nổi tiếng.",
+      "locked": false
+    },
+    {
+      "source": "双向交流会",
+      "source_language": "zh",
+      "target": "hội chợ giao lưu hai chiều",
+      "category": "general",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Hội chợ giao lưu hai chiều của chín trường đại học liên kết tổ chức trước Giải đấu Thử thách Cực hạn.",
+      "locked": false
+    },
+    {
+      "source": "星云大学",
+      "source_language": "zh",
+      "target": "Đại học Tinh Vân",
+      "category": "faction",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Một trong chín trường đại học tinh anh liên kết của Liên bang, nổi tiếng về nghiên cứu lý thuyết linh năng.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0045",
+        "chapter_0056",
+        "chapter_0057",
+        "chapter_0063"
+      ]
+    },
+    {
+      "source": "联邦第一军事学院",
+      "source_language": "zh",
+      "target": "Học viện Quân sự Số 1 Liên bang",
+      "category": "faction",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Trường quân sự hàng đầu Liên bang, chú trọng huấn luyện chiến đấu thực chiến và phòng thủ đất nước.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0051",
+        "chapter_0063"
+      ]
+    },
+    {
+      "source": "钟伯牙",
+      "source_language": "zh",
+      "target": "Chung Bá Nha",
+      "category": "character",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Giáo sư Đại học Tinh Vân, người kiên trì lý thuyết bản chất linh năng là hạt (linh tử).",
+      "locked": false
+    },
+    {
+      "source": "赵天戈",
+      "source_language": "zh",
+      "target": "Triệu Thiên Qua",
+      "category": "character",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Đại diện Học viện Quân sự Số 1 Liên bang, kiên trì lý thuyết bản chất linh năng là sóng (linh ba).",
+      "locked": false
+    },
+    {
+      "source": "灵子对撞机",
+      "source_language": "zh",
+      "target": "máy đối chàng linh tử",
+      "category": "item",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Pháp bảo khoa học dùng để đối đâm linh năng mô phỏng nhằm tìm kiếm linh tử tự do.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0045",
+        "chapter_0057"
+      ]
+    },
+    {
+      "source": "强灵子对撞机",
+      "source_language": "zh",
+      "target": "máy đối chàng linh tử cực mạnh",
+      "category": "item",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Thế hệ máy đối chàng linh tử năng lượng cao mô phỏng đòn đánh cấp Hóa Thần.",
+      "locked": false
+    },
+    {
+      "source": "灵波",
+      "source_language": "zh",
+      "target": "linh ba",
+      "category": "general",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Sóng linh năng - thuyết đối lập với thuyết linh tử.",
+      "locked": false
+    },
+    {
+      "source": "灵子",
+      "source_language": "zh",
+      "target": "linh tử",
+      "category": "general",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Hạt linh năng - hạt cơ bản cấu thành nên linh năng.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0045",
+        "chapter_0057"
+      ]
+    },
+    {
+      "source": "天都医学院",
+      "source_language": "zh",
+      "target": "Học viện Y khoa Thiên Đô",
+      "category": "faction",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Một trong chín trường đại học tinh anh liên kết của Liên bang, chuyên ngành y học, giải phẫu học yêu thú.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0049",
+        "chapter_0051",
+        "chapter_0063"
+      ]
+    },
+    {
+      "source": "深海大学",
+      "source_language": "zh",
+      "target": "Đại học Thâm Hải",
+      "category": "faction",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Trường đại học hàng đầu về chế tạo pháp bảo, được xưng tụng là Thánh địa của Luyện khí sư.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0046",
+        "chapter_0048",
+        "chapter_0049",
+        "chapter_0050",
+        "chapter_0053",
+        "chapter_0055",
+        "chapter_0056",
+        "chapter_0057",
+        "chapter_0060",
+        "chapter_0064",
+        "chapter_0065"
+      ]
+    },
+    {
+      "source": "妖兽切片研究计划",
+      "source_language": "zh",
+      "target": "Kế hoạch nghiên cứu cắt lát yêu thú",
+      "category": "general",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Kế hoạch khoa học nghiên cứu cơ thể học yêu thú bằng cách cắt mỏng 0.01 mm và quét thần niệm.",
+      "locked": false
+    },
+    {
+      "source": "反妖兽防御系统",
+      "source_language": "zh",
+      "target": "Hệ thống phòng ngự chống yêu thú",
+      "category": "item",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Hệ thống pháp bảo phòng thủ không phận đô thị do Đại học Thâm Hải nghiên cứu chế tạo.",
+      "locked": false
+    },
+    {
+      "source": "晶磁炮",
+      "source_language": "zh",
+      "target": "tinh từ pháo",
+      "category": "item",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Một loại vũ khí pháo tinh thạch cảm ứng từ trường.",
+      "locked": false
+    },
+    {
+      "source": "晶铠",
+      "source_language": "zh",
+      "target": "tinh khải",
+      "category": "item",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Giáp chiến đấu tinh thạch công nghệ cao.",
+      "locked": false
+    },
+    {
+      "source": "谢听弦",
+      "source_language": "zh",
+      "target": "Tạ Thính Huyền",
+      "category": "character",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Giám sát viên/quan sát viên của Đại học Thâm Hải tại khu vực thi tuyển Phù Qua Thành.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0048",
+        "chapter_0050",
+        "chapter_0051",
+        "chapter_0053",
+        "chapter_0054",
+        "chapter_0057",
+        "chapter_0059",
+        "chapter_0060",
+        "chapter_0063",
+        "chapter_0070"
+      ]
+    },
+    {
+      "source": "无人驾驭飞剑",
+      "source_language": "zh",
+      "target": "phi kiếm không người lái",
+      "category": "item",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Kiếm tự hành điều khiển bằng Tinh não và thần niệm cài đặt sẵn của Đại học Thâm Hải.",
+      "locked": false
+    },
+    {
+      "source": "武斗系",
+      "source_language": "zh",
+      "target": "hệ Võ Đấu",
+      "category": "faction",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Khoa đào tạo luyện thể giả chiến đấu bằng nhục thân của Đại Hoang Chiến Viện.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0047",
+        "chapter_0048",
+        "chapter_0057"
+      ]
+    },
+    {
+      "source": "丁铃铛",
+      "source_language": "zh",
+      "target": "Đinh Linh Đang",
+      "category": "character",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Quan sát viên/Quan sát viên của Đại Hoang Chiến Viện, một nữ tu luyện thể vô cùng mạnh mẽ với biệt danh Đinh Đinh Đang Đang.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0048",
+        "chapter_0053",
+        "chapter_0057",
+        "chapter_0059",
+        "chapter_0063"
+      ]
+    },
+    {
+      "source": "人造重力场",
+      "source_language": "zh",
+      "target": "Trường trọng lực nhân tạo",
+      "category": "general",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Khu vực áp dụng trọng lực nhân tạo để rèn luyện thể chất.",
+      "locked": false
+    },
+    {
+      "source": "晶兽",
+      "source_language": "zh",
+      "target": "tinh thú",
+      "category": "general",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Linh thú được điều khiển bằng Tinh não.",
+      "locked": false
+    },
+    {
+      "source": "魔蛟岛",
+      "source_language": "zh",
+      "target": "Đảo Ma Giao",
+      "category": "location",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Một hòn đảo nơi tổ chức Khiêu chiến cực hạn, vốn là cựu chiến trường giữa Liên bang Tinh Diệu và Đông Cực Yêu Quốc.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0050",
+        "chapter_0051",
+        "chapter_0052",
+        "chapter_0053",
+        "chapter_0056",
+        "chapter_0058",
+        "chapter_0059",
+        "chapter_0060",
+        "chapter_0061",
+        "chapter_0063",
+        "chapter_0064",
+        "chapter_0065",
+        "chapter_0066",
+        "chapter_0070"
+      ]
+    },
+    {
+      "source": "幻藤",
+      "source_language": "zh",
+      "target": "Ảo Đằng",
+      "category": "general",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Một loại thực vật yêu hóa trên đảo Ma Giao tiết ra độc chướng khí gây ảo giác.",
+      "locked": false
+    },
+    {
+      "source": "减速符阵",
+      "source_language": "zh",
+      "target": "phù trận giảm tốc",
+      "category": "general",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Phù trận/Trận pháp giúp giảm chấn và giảm tốc độ khi rơi từ trên không.",
+      "locked": false
+    },
+    {
+      "source": "三目猿",
+      "source_language": "zh",
+      "target": "Vượn Ba Mắt",
+      "category": "beast",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Một loài yêu thú cấp thấp nhanh nhẹn có con mắt thứ ba phát ra đòn tấn công tinh thần.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0056",
+        "chapter_0065",
+        "chapter_0068"
+      ]
+    },
+    {
+      "source": "晶元匣",
+      "source_language": "zh",
+      "target": "hộp tinh nguyên",
+      "category": "general",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Cốt lõi của pháp bảo cấp thấp dùng để cung cấp linh năng.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0055",
+        "chapter_0062",
+        "chapter_0064"
+      ]
+    },
+    {
+      "source": "链锯剑",
+      "source_language": "zh",
+      "target": "kiếm cưa xích",
+      "category": "general",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Loại kiếm kết hợp răng cưa chuyển động siêu tốc để tăng sức chém.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0055",
+        "chapter_0056",
+        "chapter_0061",
+        "chapter_0065",
+        "chapter_0066",
+        "chapter_0068"
+      ]
+    },
+    {
+      "source": "雷霆战刀",
+      "source_language": "zh",
+      "target": "Lôi Đình Chiến Đao",
+      "category": "general",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Chiến đao cấp thấp hoạt động bằng cách chấn động cao tần.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0055",
+        "chapter_0056",
+        "chapter_0059",
+        "chapter_0065"
+      ]
+    },
+    {
+      "source": "焚天",
+      "source_language": "zh",
+      "target": "Phần Thiên",
+      "category": "general",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Tên một loại rìu nhiệt năng cấp thấp.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0055",
+        "chapter_0056",
+        "chapter_0059",
+        "chapter_0065",
+        "chapter_0066",
+        "chapter_0068"
+      ]
+    },
+    {
+      "source": "闪光符阵",
+      "source_language": "zh",
+      "target": "trận pháp chớp sáng",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "鬼龙7号",
+      "source_language": "zh",
+      "target": "Quỷ Long số 7",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một loại chất kích thích cấm hoặc bí mật trong giải đấu",
+      "locked": false
+    },
+    {
+      "source": "巨目猿",
+      "source_language": "zh",
+      "target": "Vượn Khổng Nhãn",
+      "category": "beast",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thể biến dị hiếm gặp của Vượn Ba Mắt",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0066",
+        "chapter_0067",
+        "chapter_0068",
+        "chapter_0069",
+        "chapter_0070"
+      ]
+    },
+    {
+      "source": "凤山二中",
+      "source_language": "zh",
+      "target": "Phượng Sơn Nhị Trung",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Trường trung học của Trịnh Đông Minh",
+      "locked": false
+    },
+    {
+      "source": "天魔煞血炮",
+      "source_language": "zh",
+      "target": "Thiên Ma Sát Huyết Pháo",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tuyệt chiêu dùng tinh huyết bản mệnh kích phát của Trịnh Đông Minh",
+      "locked": false
+    },
+    {
+      "source": "修魔者",
+      "source_language": "zh",
+      "target": "Tu Ma Giả",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Kẻ tu luyện bị Vực Ngoại Thiên Ma dụ dỗ sa đọa, tu luyện U Năng",
+      "locked": false
+    },
+    {
+      "source": "幽能",
+      "source_language": "zh",
+      "target": "U Năng",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Mặt tối của linh năng",
+      "locked": false
+    },
+    {
+      "source": "盘古灵族",
+      "source_language": "zh",
+      "target": "Bàn Cổ Linh tộc",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thực thể sống thế hệ đầu tiên sáng tạo ra vũ trụ",
+      "locked": false
+    },
+    {
+      "source": "古圣",
+      "source_language": "zh",
+      "target": "Cổ Thánh",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tên gọi khác của Bàn Cổ Linh tộc",
+      "locked": false
+    },
+    {
+      "source": "天外魔境",
+      "source_language": "zh",
+      "target": "Thiên Ngoại Ma Cảnh",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thế giới ngưng tụ từ U Năng ngoài tam giới ngũ hành",
+      "locked": false
+    },
+    {
+      "source": "域外天魔",
+      "source_language": "zh",
+      "target": "Vực Ngoại Thiên Ma",
+      "category": "beast",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Sinh mệnh năng lượng thuần túy sinh ra từ Thiên Ngoại Ma Cảnh chuyên dụ dỗ nhân loại",
+      "locked": false
+    },
+    {
+      "source": "绝天武帝",
+      "source_language": "zh",
+      "target": "Tuyệt Thiên Võ Đế",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Hóa thân chiến đấu của Đế Hoàng thời cổ",
+      "locked": false
+    },
+    {
+      "source": "死斗士",
+      "source_language": "zh",
+      "target": "tử đấu sĩ",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Đấu sĩ nô lệ thời cổ",
+      "locked": false
+    },
+    {
+      "source": "斗神",
+      "source_language": "zh",
+      "target": "Đấu Thần",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Danh hiệu đấu sĩ cao nhất",
+      "locked": false
+    },
+    {
+      "source": "乱星界",
+      "source_language": "zh",
+      "target": "Loạn Tinh Giới",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thế giới tinh không phía bắc",
+      "locked": false
+    },
+    {
+      "source": "星海战皇",
+      "source_language": "zh",
+      "target": "Tinh Hải Chiến Hoàng",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Hóa thân chiến hạm của Đế Hoàng thời cổ",
+      "locked": false
+    },
+    {
+      "source": "血神宗",
+      "source_language": "zh",
+      "target": "Huyết Thần Tông",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Nguyên Thủy tông phái mạnh nhất của Đế Hoàng",
+      "locked": false
+    },
+    {
+      "source": "血神子",
+      "source_language": "zh",
+      "target": "Huyết Thần Tử",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Đạo phân thân mạnh nhất của Đế Hoàng cai quản Huyết Thần Tông",
+      "locked": false
+    },
+    {
+      "source": "末日战狂",
+      "source_language": "zh",
+      "target": "Mạt Nhật Chiến Cuồng",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tên gọi Yêu tộc gọi Huyết Thần Tử",
+      "locked": false
+    },
+    {
+      "source": "万妖界",
+      "source_language": "zh",
+      "target": "Vạn Yêu Giới",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Sào huyệt của Yêu tộc thời cổ",
+      "locked": false
+    },
+    {
+      "source": "远征军",
+      "source_language": "zh",
+      "target": "viễn chinh quân",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Quân đội viễn chinh tinh hải của Đế quốc",
+      "locked": false
+    },
+    {
+      "source": "亿万光年大远征",
+      "source_language": "zh",
+      "target": "Cuộc Đại Viễn Chinh Hàng Tỷ Năm Ánh Sáng",
+      "category": "general",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Chiến dịch viễn chinh vĩ đại nhất của loài người chống Yêu tộc",
+      "locked": false
+    },
+    {
+      "source": "魔门",
+      "source_language": "zh",
+      "target": "Ma Môn",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Các Nguyên Thủy tông phái đọa vào ma đạo",
+      "locked": false
+    },
+    {
+      "source": "天极星",
+      "source_language": "zh",
+      "target": "Thiên Cực Tinh",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thủ đô của Đế quốc Tinh Hải",
+      "locked": false
+    },
+    {
+      "source": "魔君",
+      "source_language": "zh",
+      "target": "Ma Quân",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thực thể ma đạo hùng mạnh ở Thiên Ngoại Ma Cảnh",
+      "locked": false
+    },
+    {
+      "source": "Thấu Tâm Chùy",
+      "source_language": "zh",
+      "target": "Thấu Tâm Chùy",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Chiêu thức thứ 47 trong Một trăm lẻ tám thức Phách Phong Loạn Chùy Pháp",
+      "locked": false
+    },
+    {
+      "source": "Kinh Hồng",
+      "source_language": "zh",
+      "target": "Kinh Hồng",
+      "category": "weapon",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tên thần kiếm do Âu Dã Tử chế tạo",
+      "locked": false
+    },
+    {
+      "source": "Đồ Giao",
+      "source_language": "zh",
+      "target": "Đồ Giao",
+      "category": "weapon",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tên chiến đao do Âu Dã Tử chế tạo",
+      "locked": false
+    },
+    {
+      "source": "Phệ Hồn",
+      "source_language": "zh",
+      "target": "Phệ Hồn",
+      "category": "weapon",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tên trường thương do Âu Dã Tử chế tạo",
+      "locked": false
+    },
+    {
+      "source": "赤焰战梭",
+      "source_language": "zh",
+      "target": "Xích Diễm Chiến Toa",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Chiếc phi toa siêu tốc độ màu đỏ của Đinh Linh Đang",
+      "locked": false
+    },
+    {
+      "source": "飞翼蓝鲛",
+      "source_language": "zh",
+      "target": "Phi Dực Lam Giao",
+      "category": "beast",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Loại Yêu thú biển quý hiếm ở Cực Đông Hải có bong bóng cá là vô giá chi bảo giúp người hôn mê phục hồi",
       "locked": false
     }
   ]

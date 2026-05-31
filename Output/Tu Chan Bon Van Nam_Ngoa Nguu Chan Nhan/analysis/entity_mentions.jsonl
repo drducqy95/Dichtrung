@@ -1,53 +1,571 @@
-{"source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "seg_id": "seg_0002", "confidence": 1.0}
-{"source_surface": "孟江", "target_surface": "Mạnh Giang", "entity_type": "person", "seg_id": "seg_0024", "confidence": 1.0}
-{"source_surface": "赫连烈", "target_surface": "Hách Liên Liệt", "entity_type": "person", "seg_id": "seg_0035", "confidence": 1.0}
-{"source_surface": "司佳雪", "target_surface": "Tiêu Giai Tuyết", "entity_type": "person", "seg_id": "seg_0039", "confidence": 1.0}
-{"source_surface": "赫连霸", "target_surface": "Hách Liên Bá", "entity_type": "person", "seg_id": "seg_0044", "confidence": 1.0}
-{"source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "seg_id": "seg_0002", "confidence": 1.0}
-{"source_surface": "孟江", "target_surface": "Mạnh Giang", "entity_type": "person", "seg_id": "seg_0038", "confidence": 1.0}
-{"source_surface": "陆音希", "target_surface": "Lục Âm Hi", "entity_type": "person", "seg_id": "seg_0062", "confidence": 1.0}
-{"source_surface": "魏铁", "target_surface": "Ngụy Thiết", "entity_type": "person", "seg_id": "seg_0008", "confidence": 1.0}
-{"source_surface": "赫连烈", "target_surface": "Hách Liên Liệt", "entity_type": "person", "seg_id": "seg_0016", "confidence": 1.0}
-{"source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "seg_id": "seg_0020", "confidence": 1.0}
-{"source_surface": "孟江", "target_surface": "Mạnh Giang", "entity_type": "person", "seg_id": "seg_0034", "confidence": 1.0}
-{"source_surface": "陆音希", "target_surface": "Lục Âm Hi", "entity_type": "person", "seg_id": "seg_0063", "confidence": 1.0}
-{"source_surface": "魏铁", "target_surface": "Ngụy Thiết", "entity_type": "person", "seg_id": "seg_0002", "confidence": 1.0}
-{"source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "seg_id": "seg_0009", "confidence": 1.0}
-{"source_surface": "孟江", "target_surface": "Mạnh Giang", "entity_type": "person", "seg_id": "seg_0038", "confidence": 1.0}
-{"source_surface": "赫连烈", "target_surface": "Hách Liên Liệt", "entity_type": "person", "seg_id": "seg_0055", "confidence": 1.0}
-{"source_surface": "赵亮", "target_surface": "Triệu Lượng", "entity_type": "person", "seg_id": "seg_0072", "confidence": 1.0}
-{"source_surface": "魏铁", "target_surface": "Ngụy Thiết", "entity_type": "person", "seg_id": "seg_0004", "confidence": 1.0}
-{"source_surface": "赵亮", "target_surface": "Triệu Lượng", "entity_type": "person", "seg_id": "seg_0004", "confidence": 1.0}
-{"source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "seg_id": "seg_0005", "confidence": 1.0}
-{"source_surface": "赫连烈", "target_surface": "Hách Liên Liệt", "entity_type": "person", "seg_id": "seg_0009", "confidence": 1.0}
-{"source_surface": "孟江", "target_surface": "Mạnh Giang", "entity_type": "person", "seg_id": "seg_0076", "confidence": 1.0}
-{"source_surface": "赵亮", "target_surface": "Triệu Lượng", "entity_type": "person", "seg_id": "seg_0003", "confidence": 1.0}
-{"source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "seg_id": "seg_0009", "confidence": 1.0}
-{"source_surface": "孟江", "target_surface": "Mạnh Giang", "entity_type": "person", "seg_id": "seg_0009", "confidence": 1.0}
-{"source_surface": "赫连烈", "target_surface": "Hách Liên Liệt", "entity_type": "person", "seg_id": "seg_0033", "confidence": 1.0}
-{"source_surface": "老爹", "target_surface": "Lão cha", "entity_type": "person", "seg_id": "seg_0050", "confidence": 1.0}
-{"source_surface": "老孙头", "target_surface": "lão Tôn", "entity_type": "person", "seg_id": "seg_0071", "confidence": 1.0}
-{"source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "seg_id": "seg_0003", "confidence": 1.0}
-{"source_surface": "彭海", "target_surface": "Bành Hải", "entity_type": "person", "seg_id": "seg_0004", "confidence": 1.0}
-{"source_surface": "孙彪", "target_surface": "Tôn Bưu", "entity_type": "person", "seg_id": "seg_0004", "confidence": 1.0}
-{"source_surface": "孟江", "target_surface": "Mạnh Giang", "entity_type": "person", "seg_id": "seg_0007", "confidence": 1.0}
-{"source_surface": "赵亮", "target_surface": "Triệu Lượng", "entity_type": "person", "seg_id": "seg_0025", "confidence": 1.0}
-{"source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "seg_id": "seg_0003", "confidence": 1.0}
-{"source_surface": "孙彪", "target_surface": "Tôn Bưu", "entity_type": "person", "seg_id": "seg_0003", "confidence": 1.0}
-{"source_surface": "彭海", "target_surface": "Bành Hải", "entity_type": "person", "seg_id": "seg_0009", "confidence": 1.0}
-{"source_surface": "赫连烈", "target_surface": "Hách Liên Liệt", "entity_type": "person", "seg_id": "seg_0026", "confidence": 1.0}
-{"source_surface": "赵亮", "target_surface": "Triệu Lượng", "entity_type": "person", "seg_id": "seg_0033", "confidence": 1.0}
-{"source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "seg_id": "seg_0002", "confidence": 1.0}
-{"source_surface": "孙彪", "target_surface": "Tôn Bưu", "entity_type": "person", "seg_id": "seg_0009", "confidence": 1.0}
-{"source_surface": "巨灵神", "target_surface": "Cự Linh Thần", "entity_type": "person", "seg_id": "seg_0035", "confidence": 1.0}
-{"source_surface": "陆音希", "target_surface": "Lục Âm Hi", "entity_type": "person", "seg_id": "seg_0125", "confidence": 1.0}
-{"source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "seg_id": "seg_0002", "confidence": 1.0}
-{"source_surface": "孙彪", "target_surface": "Tôn Bưu", "entity_type": "person", "seg_id": "seg_0002", "confidence": 1.0}
-{"source_surface": "司佳雪", "target_surface": "Tiêu Giai Tuyết", "entity_type": "person", "seg_id": "seg_0007", "confidence": 1.0}
-{"source_surface": "赫连烈", "target_surface": "Hách Liên Liệt", "entity_type": "person", "seg_id": "seg_0011", "confidence": 1.0}
-{"source_surface": "彭海", "target_surface": "Bành Hải", "entity_type": "person", "seg_id": "seg_0026", "confidence": 1.0}
-{"source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "seg_id": "seg_0002", "confidence": 1.0}
-{"source_surface": "孙彪", "target_surface": "Tôn Bưu", "entity_type": "person", "seg_id": "seg_0007", "confidence": 1.0}
-{"source_surface": "赫连烈", "target_surface": "Hách Liên Liệt", "entity_type": "person", "seg_id": "seg_0054", "confidence": 1.0}
-{"source_surface": "赵亮", "target_surface": "Triệu Lượng", "entity_type": "person", "seg_id": "seg_0057", "confidence": 1.0}
-{"source_surface": "赫连霸", "target_surface": "Hách Liên Bá", "entity_type": "person", "seg_id": "seg_0065", "confidence": 1.0}
+{"chapter_id": "chapter_0001", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0001:seg_0016", "confidence": 1.0}
+{"chapter_id": "chapter_0001", "source_surface": "肥龙", "target_surface": "Phì Long", "entity_type": "person", "segment_id": "chapter_0001:seg_0045", "confidence": 1.0}
+{"chapter_id": "chapter_0001", "source_surface": "周隐", "target_surface": "Chu Ẩn", "entity_type": "person", "segment_id": "chapter_0001:seg_0070", "confidence": 1.0}
+{"chapter_id": "chapter_0001", "source_surface": "赤霄派", "target_surface": "Xích Tiêu Phái", "entity_type": "factions", "segment_id": "chapter_0001:seg_0072", "confidence": 1.0}
+{"chapter_id": "chapter_0001", "source_surface": "小黑", "target_surface": "Tiểu Hắc", "entity_type": "weapons", "segment_id": "chapter_0001:seg_0027", "confidence": 1.0}
+{"chapter_id": "chapter_0001", "source_surface": "法宝坟墓", "target_surface": "Nghĩa địa Pháp Bảo", "entity_type": "locations", "segment_id": "chapter_0001:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0001", "source_surface": "浮戈城", "target_surface": "Phù Qua Thành", "entity_type": "locations", "segment_id": "chapter_0001:seg_0009", "confidence": 1.0}
+{"chapter_id": "chapter_0002", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0002:seg_0007", "confidence": 1.0}
+{"chapter_id": "chapter_0002", "source_surface": "肥龙", "target_surface": "Phì Long", "entity_type": "person", "segment_id": "chapter_0002:seg_0068", "confidence": 1.0}
+{"chapter_id": "chapter_0002", "source_surface": "天星子", "target_surface": "Thiên Tinh Tử", "entity_type": "person", "segment_id": "chapter_0002:seg_0051", "confidence": 1.0}
+{"chapter_id": "chapter_0002", "source_surface": "陆音希", "target_surface": "Lục Âm Hi", "entity_type": "person", "segment_id": "chapter_0002:seg_0057", "confidence": 1.0}
+{"chapter_id": "chapter_0002", "source_surface": "老爹", "target_surface": "Lão cha", "entity_type": "person", "segment_id": "chapter_0002:seg_0068", "confidence": 1.0}
+{"chapter_id": "chapter_0002", "source_surface": "小黑", "target_surface": "Tiểu Hắc", "entity_type": "weapons", "segment_id": "chapter_0002:seg_0018", "confidence": 1.0}
+{"chapter_id": "chapter_0002", "source_surface": "法宝坟墓", "target_surface": "Nghĩa địa Pháp Bảo", "entity_type": "locations", "segment_id": "chapter_0002:seg_0005", "confidence": 1.0}
+{"chapter_id": "chapter_0002", "source_surface": "浮戈城", "target_surface": "Phù Qua Thành", "entity_type": "locations", "segment_id": "chapter_0002:seg_0004", "confidence": 1.0}
+{"chapter_id": "chapter_0002", "source_surface": "朝阳新村", "target_surface": "Triêu Dương Tân Thôn", "entity_type": "locations", "segment_id": "chapter_0002:seg_0003", "confidence": 1.0}
+{"chapter_id": "chapter_0003", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0003:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0003", "source_surface": "老爹", "target_surface": "Lão cha", "entity_type": "person", "segment_id": "chapter_0003:seg_0014", "confidence": 1.0}
+{"chapter_id": "chapter_0003", "source_surface": "老王", "target_surface": "Lão Vương", "entity_type": "person", "segment_id": "chapter_0003:seg_0033", "confidence": 1.0}
+{"chapter_id": "chapter_0003", "source_surface": "刀疤强", "target_surface": "Đao Cáp Cường", "entity_type": "person", "segment_id": "chapter_0003:seg_0008", "confidence": 1.0}
+{"chapter_id": "chapter_0003", "source_surface": "赤霄派", "target_surface": "Xích Tiêu Phái", "entity_type": "factions", "segment_id": "chapter_0003:seg_0024", "confidence": 1.0}
+{"chapter_id": "chapter_0003", "source_surface": "灵蛇身法", "target_surface": "Linh Xà Thân Pháp", "entity_type": "techniques", "segment_id": "chapter_0003:seg_0025", "confidence": 1.0}
+{"chapter_id": "chapter_0003", "source_surface": "法宝坟墓", "target_surface": "Nghĩa địa Pháp Bảo", "entity_type": "locations", "segment_id": "chapter_0003:seg_0017", "confidence": 1.0}
+{"chapter_id": "chapter_0003", "source_surface": "浮戈城", "target_surface": "Phù Qua Thành", "entity_type": "locations", "segment_id": "chapter_0003:seg_0020", "confidence": 1.0}
+{"chapter_id": "chapter_0003", "source_surface": "朝阳新村", "target_surface": "Triêu Dương Tân Thôn", "entity_type": "locations", "segment_id": "chapter_0003:seg_0024", "confidence": 1.0}
+{"chapter_id": "chapter_0004", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0004:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0004", "source_surface": "彭海", "target_surface": "Bành Hải", "entity_type": "person", "segment_id": "chapter_0004:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0004", "source_surface": "赵树德", "target_surface": "Triệu Thụ Đức", "entity_type": "person", "segment_id": "chapter_0004:seg_0018", "confidence": 1.0}
+{"chapter_id": "chapter_0004", "source_surface": "孟江", "target_surface": "Mạnh Giang", "entity_type": "person", "segment_id": "chapter_0004:seg_0016", "confidence": 1.0}
+{"chapter_id": "chapter_0004", "source_surface": "黑面神", "target_surface": "Hắc Diện Thần", "entity_type": "person", "segment_id": "chapter_0004:seg_0036", "confidence": 1.0}
+{"chapter_id": "chapter_0004", "source_surface": "赤霄派", "target_surface": "Xích Tiêu Phái", "entity_type": "factions", "segment_id": "chapter_0004:seg_0018", "confidence": 1.0}
+{"chapter_id": "chapter_0004", "source_surface": "浮戈城", "target_surface": "Phù Qua Thành", "entity_type": "locations", "segment_id": "chapter_0004:seg_0013", "confidence": 1.0}
+{"chapter_id": "chapter_0005", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0005:seg_0003", "confidence": 1.0}
+{"chapter_id": "chapter_0005", "source_surface": "彭海", "target_surface": "Bành Hải", "entity_type": "person", "segment_id": "chapter_0005:seg_0004", "confidence": 1.0}
+{"chapter_id": "chapter_0005", "source_surface": "肖明", "target_surface": "Tiêu Minh", "entity_type": "person", "segment_id": "chapter_0005:seg_0029", "confidence": 1.0}
+{"chapter_id": "chapter_0005", "source_surface": "战兽十三势", "target_surface": "Chiến Thú Thập Tam Thế", "entity_type": "techniques", "segment_id": "chapter_0005:seg_0023", "confidence": 1.0}
+{"chapter_id": "chapter_0005", "source_surface": "法宝坟墓", "target_surface": "Nghĩa địa Pháp Bảo", "entity_type": "locations", "segment_id": "chapter_0005:seg_0013", "confidence": 1.0}
+{"chapter_id": "chapter_0006", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0006:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0006", "source_surface": "帝皇", "target_surface": "Đế Hoàng", "entity_type": "person", "segment_id": "chapter_0006:seg_0029", "confidence": 1.0}
+{"chapter_id": "chapter_0006", "source_surface": "放弃", "target_surface": "Từ Bỏ", "entity_type": "items", "segment_id": "chapter_0006:seg_0031", "confidence": 1.0}
+{"chapter_id": "chapter_0007", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0007:seg_0003", "confidence": 1.0}
+{"chapter_id": "chapter_0007", "source_surface": "彭海", "target_surface": "Bành Hải", "entity_type": "person", "segment_id": "chapter_0007:seg_0027", "confidence": 1.0}
+{"chapter_id": "chapter_0007", "source_surface": "孟江", "target_surface": "Mạnh Giang", "entity_type": "person", "segment_id": "chapter_0007:seg_0004", "confidence": 1.0}
+{"chapter_id": "chapter_0007", "source_surface": "司佳雪", "target_surface": "Tiêu Giai Tuyết", "entity_type": "person", "segment_id": "chapter_0007:seg_0022", "confidence": 1.0}
+{"chapter_id": "chapter_0007", "source_surface": "赫连烈", "target_surface": "Hách Liên Liệt", "entity_type": "person", "segment_id": "chapter_0007:seg_0022", "confidence": 1.0}
+{"chapter_id": "chapter_0007", "source_surface": "强化药剂", "target_surface": "Dược chất cường hóa Linh Căn", "entity_type": "cultivation_resources", "segment_id": "chapter_0007:seg_0019", "confidence": 1.0}
+{"chapter_id": "chapter_0007", "source_surface": "法宝坟墓", "target_surface": "Nghĩa địa Pháp Bảo", "entity_type": "locations", "segment_id": "chapter_0007:seg_0020", "confidence": 1.0}
+{"chapter_id": "chapter_0007", "source_surface": "浮戈城", "target_surface": "Phù Qua Thành", "entity_type": "locations", "segment_id": "chapter_0007:seg_0027", "confidence": 1.0}
+{"chapter_id": "chapter_0008", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0008:seg_0003", "confidence": 1.0}
+{"chapter_id": "chapter_0008", "source_surface": "司佳雪", "target_surface": "Tiêu Giai Tuyết", "entity_type": "person", "segment_id": "chapter_0008:seg_0004", "confidence": 1.0}
+{"chapter_id": "chapter_0008", "source_surface": "天琴门", "target_surface": "Thiên Cầm Môn", "entity_type": "factions", "segment_id": "chapter_0008:seg_0011", "confidence": 1.0}
+{"chapter_id": "chapter_0008", "source_surface": "强化药剂", "target_surface": "Dược chất cường hóa Linh Căn", "entity_type": "cultivation_resources", "segment_id": "chapter_0008:seg_0036", "confidence": 1.0}
+{"chapter_id": "chapter_0009", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0009:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0009", "source_surface": "司佳雪", "target_surface": "Tiêu Giai Tuyết", "entity_type": "person", "segment_id": "chapter_0009:seg_0017", "confidence": 1.0}
+{"chapter_id": "chapter_0009", "source_surface": "赫连烈", "target_surface": "Hách Liên Liệt", "entity_type": "person", "segment_id": "chapter_0009:seg_0005", "confidence": 1.0}
+{"chapter_id": "chapter_0009", "source_surface": "老者", "target_surface": "Lão giả", "entity_type": "person", "segment_id": "chapter_0009:seg_0043", "confidence": 1.0}
+{"chapter_id": "chapter_0009", "source_surface": "强化药剂", "target_surface": "Dược chất cường hóa Linh Căn", "entity_type": "cultivation_resources", "segment_id": "chapter_0009:seg_0019", "confidence": 1.0}
+{"chapter_id": "chapter_0009", "source_surface": "浮戈城", "target_surface": "Phù Qua Thành", "entity_type": "locations", "segment_id": "chapter_0009:seg_0007", "confidence": 1.0}
+{"chapter_id": "chapter_0009", "source_surface": "朝阳新村", "target_surface": "Triêu Dương Tân Thôn", "entity_type": "locations", "segment_id": "chapter_0009:seg_0035", "confidence": 1.0}
+{"chapter_id": "chapter_0010", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0010:seg_0003", "confidence": 1.0}
+{"chapter_id": "chapter_0010", "source_surface": "老者", "target_surface": "Lão giả", "entity_type": "person", "segment_id": "chapter_0010:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0010", "source_surface": "欧冶明", "target_surface": "Âu Dã Minh", "entity_type": "person", "segment_id": "chapter_0010:seg_0032", "confidence": 1.0}
+{"chapter_id": "chapter_0010", "source_surface": "巨灵神", "target_surface": "Cự Linh Thần", "entity_type": "person", "segment_id": "chapter_0010:seg_0029", "confidence": 1.0}
+{"chapter_id": "chapter_0010", "source_surface": "百炼宗", "target_surface": "Bách Luyện Tông", "entity_type": "factions", "segment_id": "chapter_0010:seg_0029", "confidence": 1.0}
+{"chapter_id": "chapter_0010", "source_surface": "小黑", "target_surface": "Tiểu Hắc", "entity_type": "weapons", "segment_id": "chapter_0010:seg_0018", "confidence": 1.0}
+{"chapter_id": "chapter_0010", "source_surface": "一百零八手披风乱锤法", "target_surface": "Một trăm lẻ tám thức Phách Phong Loạn Chùy Pháp", "entity_type": "techniques", "segment_id": "chapter_0010:seg_0031", "confidence": 1.0}
+{"chapter_id": "chapter_0010", "source_surface": "法宝坟墓", "target_surface": "Nghĩa địa Pháp Bảo", "entity_type": "locations", "segment_id": "chapter_0010:seg_0005", "confidence": 1.0}
+{"chapter_id": "chapter_0011", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0011:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0011", "source_surface": "欧冶明", "target_surface": "Âu Dã Minh", "entity_type": "person", "segment_id": "chapter_0011:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0011", "source_surface": "巨灵神", "target_surface": "Cự Linh Thần", "entity_type": "person", "segment_id": "chapter_0011:seg_0007", "confidence": 1.0}
+{"chapter_id": "chapter_0011", "source_surface": "鱼肠道人", "target_surface": "Ngư Trường đạo nhân", "entity_type": "person", "segment_id": "chapter_0011:seg_0019", "confidence": 1.0}
+{"chapter_id": "chapter_0011", "source_surface": "太阿上人", "target_surface": "Thái A thượng nhân", "entity_type": "person", "segment_id": "chapter_0011:seg_0021", "confidence": 1.0}
+{"chapter_id": "chapter_0011", "source_surface": "毒龙真君", "target_surface": "Độc Long chân nhân", "entity_type": "person", "segment_id": "chapter_0011:seg_0039", "confidence": 1.0}
+{"chapter_id": "chapter_0011", "source_surface": "百炼宗", "target_surface": "Bách Luyện Tông", "entity_type": "factions", "segment_id": "chapter_0011:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0011", "source_surface": "魔道", "target_surface": "Ma đạo", "entity_type": "factions", "segment_id": "chapter_0011:seg_0018", "confidence": 1.0}
+{"chapter_id": "chapter_0011", "source_surface": "一百零八手披风乱锤法", "target_surface": "Một trăm lẻ tám thức Phách Phong Loạn Chùy Pháp", "entity_type": "techniques", "segment_id": "chapter_0011:seg_0007", "confidence": 1.0}
+{"chapter_id": "chapter_0011", "source_surface": "浮戈城", "target_surface": "Phù Qua Thành", "entity_type": "locations", "segment_id": "chapter_0011:seg_0060", "confidence": 1.0}
+{"chapter_id": "chapter_0011", "source_surface": "万剑古冢", "target_surface": "Vạn Kiếm Cổ Mộ", "entity_type": "locations", "segment_id": "chapter_0011:seg_0042", "confidence": 1.0}
+{"chapter_id": "chapter_0011", "source_surface": "光阴大阵", "target_surface": "Quang Âm đại trận", "entity_type": "items", "segment_id": "chapter_0011:seg_0052", "confidence": 1.0}
+{"chapter_id": "chapter_0012", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0012:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0012", "source_surface": "太阿上人", "target_surface": "Thái A thượng nhân", "entity_type": "person", "segment_id": "chapter_0012:seg_0038", "confidence": 1.0}
+{"chapter_id": "chapter_0012", "source_surface": "百炼宗", "target_surface": "Bách Luyện Tông", "entity_type": "factions", "segment_id": "chapter_0012:seg_0021", "confidence": 1.0}
+{"chapter_id": "chapter_0012", "source_surface": "万象派", "target_surface": "Vạn Tượng Phái", "entity_type": "factions", "segment_id": "chapter_0012:seg_0027", "confidence": 1.0}
+{"chapter_id": "chapter_0012", "source_surface": "万象搜索", "target_surface": "Vạn Tượng Tìm Kiếm", "entity_type": "items", "segment_id": "chapter_0012:seg_0021", "confidence": 1.0}
+{"chapter_id": "chapter_0013", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0013:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0013", "source_surface": "司佳雪", "target_surface": "Tiêu Giai Tuyết", "entity_type": "person", "segment_id": "chapter_0013:seg_0053", "confidence": 1.0}
+{"chapter_id": "chapter_0013", "source_surface": "欧冶明", "target_surface": "Âu Dã Minh", "entity_type": "person", "segment_id": "chapter_0013:seg_0025", "confidence": 1.0}
+{"chapter_id": "chapter_0013", "source_surface": "巨灵神", "target_surface": "Cự Linh Thần", "entity_type": "person", "segment_id": "chapter_0013:seg_0019", "confidence": 1.0}
+{"chapter_id": "chapter_0013", "source_surface": "百炼宗", "target_surface": "Bách Luyện Tông", "entity_type": "factions", "segment_id": "chapter_0013:seg_0019", "confidence": 1.0}
+{"chapter_id": "chapter_0013", "source_surface": "小黑", "target_surface": "Tiểu Hắc", "entity_type": "weapons", "segment_id": "chapter_0013:seg_0010", "confidence": 1.0}
+{"chapter_id": "chapter_0013", "source_surface": "鲸吞大法", "target_surface": "Kình Thôn Đại Pháp", "entity_type": "techniques", "segment_id": "chapter_0013:seg_0022", "confidence": 1.0}
+{"chapter_id": "chapter_0013", "source_surface": "一百零八手披风乱锤法", "target_surface": "Một trăm lẻ tám thức Phách Phong Loạn Chùy Pháp", "entity_type": "techniques", "segment_id": "chapter_0013:seg_0024", "confidence": 1.0}
+{"chapter_id": "chapter_0013", "source_surface": "星空巨兽肉罐头", "target_surface": "Thịt hộp Tinh Không Cự Thú", "entity_type": "items", "segment_id": "chapter_0013:seg_0015", "confidence": 1.0}
+{"chapter_id": "chapter_0014", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0014:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0014", "source_surface": "司佳雪", "target_surface": "Tiêu Giai Tuyết", "entity_type": "person", "segment_id": "chapter_0014:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0014", "source_surface": "浮戈城", "target_surface": "Phù Qua Thành", "entity_type": "locations", "segment_id": "chapter_0014:seg_0025", "confidence": 1.0}
+{"chapter_id": "chapter_0014", "source_surface": "隐冬湖", "target_surface": "Hồ Ẩn Đông", "entity_type": "locations", "segment_id": "chapter_0014:seg_0025", "confidence": 1.0}
+{"chapter_id": "chapter_0014", "source_surface": "隐湖小境", "target_surface": "Ẩn Hồ Tiểu Cảnh", "entity_type": "locations", "segment_id": "chapter_0014:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0014", "source_surface": "星空巨兽肉罐头", "target_surface": "Thịt hộp Tinh Không Cự Thú", "entity_type": "items", "segment_id": "chapter_0014:seg_0036", "confidence": 1.0}
+{"chapter_id": "chapter_0015", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0015:seg_0035", "confidence": 1.0}
+{"chapter_id": "chapter_0015", "source_surface": "司佳雪", "target_surface": "Tiêu Giai Tuyết", "entity_type": "person", "segment_id": "chapter_0015:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0015", "source_surface": "赫连烈", "target_surface": "Hách Liên Liệt", "entity_type": "person", "segment_id": "chapter_0015:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0015", "source_surface": "郑东明", "target_surface": "Trịnh Đông Minh", "entity_type": "person", "segment_id": "chapter_0015:seg_0012", "confidence": 1.0}
+{"chapter_id": "chapter_0015", "source_surface": "凤山门附属第二高中", "target_surface": "Trường trung học phổ thông trực thuộc số hai Phụng Sơn Môn", "entity_type": "factions", "segment_id": "chapter_0015:seg_0012", "confidence": 1.0}
+{"chapter_id": "chapter_0015", "source_surface": "浮戈城", "target_surface": "Phù Qua Thành", "entity_type": "locations", "segment_id": "chapter_0015:seg_0010", "confidence": 1.0}
+{"chapter_id": "chapter_0015", "source_surface": "隐湖小境", "target_surface": "Ẩn Hồ Tiểu Cảnh", "entity_type": "locations", "segment_id": "chapter_0015:seg_0018", "confidence": 1.0}
+{"chapter_id": "chapter_0016", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0016:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0016", "source_surface": "赫连烈", "target_surface": "Hách Liên Liệt", "entity_type": "person", "segment_id": "chapter_0016:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0016", "source_surface": "郑东明", "target_surface": "Trịnh Đông Minh", "entity_type": "person", "segment_id": "chapter_0016:seg_0016", "confidence": 1.0}
+{"chapter_id": "chapter_0016", "source_surface": "浮戈城娱乐日刊", "target_surface": "Phù Qua Thành Giải Trí Nhật San", "entity_type": "factions", "segment_id": "chapter_0016:seg_0032", "confidence": 1.0}
+{"chapter_id": "chapter_0016", "source_surface": "浮戈城", "target_surface": "Phù Qua Thành", "entity_type": "locations", "segment_id": "chapter_0016:seg_0032", "confidence": 1.0}
+{"chapter_id": "chapter_0016", "source_surface": "隐湖小境", "target_surface": "Ẩn Hồ Tiểu Cảnh", "entity_type": "locations", "segment_id": "chapter_0016:seg_0030", "confidence": 1.0}
+{"chapter_id": "chapter_0016", "source_surface": "灵鹤传书", "target_surface": "Linh Hạc Truyền Thư", "entity_type": "items", "segment_id": "chapter_0016:seg_0019", "confidence": 1.0}
+{"chapter_id": "chapter_0017", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0017:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0017", "source_surface": "赫连烈", "target_surface": "Hách Liên Liệt", "entity_type": "person", "segment_id": "chapter_0017:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0017", "source_surface": "郑东明", "target_surface": "Trịnh Đông Minh", "entity_type": "person", "segment_id": "chapter_0017:seg_0009", "confidence": 1.0}
+{"chapter_id": "chapter_0017", "source_surface": "强化药剂", "target_surface": "Dược chất cường hóa Linh Căn", "entity_type": "cultivation_resources", "segment_id": "chapter_0017:seg_0015", "confidence": 1.0}
+{"chapter_id": "chapter_0017", "source_surface": "法宝坟墓", "target_surface": "Nghĩa địa Pháp Bảo", "entity_type": "locations", "segment_id": "chapter_0017:seg_0035", "confidence": 1.0}
+{"chapter_id": "chapter_0017", "source_surface": "第五十九号区域", "target_surface": "Khu 59", "entity_type": "locations", "segment_id": "chapter_0017:seg_0038", "confidence": 1.0}
+{"chapter_id": "chapter_0017", "source_surface": "鬼饮食", "target_surface": "Quỷ ẩm thực", "entity_type": "items", "segment_id": "chapter_0017:seg_0039", "confidence": 1.0}
+{"chapter_id": "chapter_0018", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0018:seg_0003", "confidence": 1.0}
+{"chapter_id": "chapter_0018", "source_surface": "老王", "target_surface": "Lão Vương", "entity_type": "person", "segment_id": "chapter_0018:seg_0033", "confidence": 1.0}
+{"chapter_id": "chapter_0018", "source_surface": "孟江", "target_surface": "Mạnh Giang", "entity_type": "person", "segment_id": "chapter_0018:seg_0041", "confidence": 1.0}
+{"chapter_id": "chapter_0018", "source_surface": "赤霄派", "target_surface": "Xích Tiêu Phái", "entity_type": "factions", "segment_id": "chapter_0018:seg_0032", "confidence": 1.0}
+{"chapter_id": "chapter_0018", "source_surface": "军道杀狼", "target_surface": "Quân Đạo Sát Lang", "entity_type": "factions", "segment_id": "chapter_0018:seg_0050", "confidence": 1.0}
+{"chapter_id": "chapter_0018", "source_surface": "强化药剂", "target_surface": "Dược chất cường hóa Linh Căn", "entity_type": "cultivation_resources", "segment_id": "chapter_0018:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0018", "source_surface": "天骄之路", "target_surface": "Con Đường Thiên Kiêu", "entity_type": "cultivation_resources", "segment_id": "chapter_0018:seg_0028", "confidence": 1.0}
+{"chapter_id": "chapter_0018", "source_surface": "浮戈城", "target_surface": "Phù Qua Thành", "entity_type": "locations", "segment_id": "chapter_0018:seg_0010", "confidence": 1.0}
+{"chapter_id": "chapter_0018", "source_surface": "虬龙山寨", "target_surface": "Cù Long Sơn Trại", "entity_type": "locations", "segment_id": "chapter_0018:seg_0017", "confidence": 1.0}
+{"chapter_id": "chapter_0018", "source_surface": "第六十三区", "target_surface": "Khu 63", "entity_type": "locations", "segment_id": "chapter_0018:seg_0046", "confidence": 1.0}
+{"chapter_id": "chapter_0018", "source_surface": "万象搜索", "target_surface": "Vạn Tượng Tìm Kiếm", "entity_type": "items", "segment_id": "chapter_0018:seg_0025", "confidence": 1.0}
+{"chapter_id": "chapter_0018", "source_surface": "纹面符", "target_surface": "Văn Diện Phù", "entity_type": "items", "segment_id": "chapter_0018:seg_0038", "confidence": 1.0}
+{"chapter_id": "chapter_0018", "source_surface": "灵鹤传书", "target_surface": "Linh Hạc Truyền Thư", "entity_type": "items", "segment_id": "chapter_0018:seg_0004", "confidence": 1.0}
+{"chapter_id": "chapter_0019", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0019:seg_0005", "confidence": 1.0}
+{"chapter_id": "chapter_0019", "source_surface": "彭海", "target_surface": "Bành Hải", "entity_type": "person", "segment_id": "chapter_0019:seg_0018", "confidence": 1.0}
+{"chapter_id": "chapter_0019", "source_surface": "赵馆长", "target_surface": "Triệu quán chủ", "entity_type": "person", "segment_id": "chapter_0019:seg_0013", "confidence": 1.0}
+{"chapter_id": "chapter_0019", "source_surface": "军道杀狼", "target_surface": "Quân Đạo Sát Lang", "entity_type": "factions", "segment_id": "chapter_0019:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0019", "source_surface": "狼团", "target_surface": "Đoàn Sói", "entity_type": "factions", "segment_id": "chapter_0019:seg_0023", "confidence": 1.0}
+{"chapter_id": "chapter_0019", "source_surface": "强化药剂", "target_surface": "Dược chất cường hóa Linh Căn", "entity_type": "cultivation_resources", "segment_id": "chapter_0019:seg_0006", "confidence": 1.0}
+{"chapter_id": "chapter_0019", "source_surface": "浮戈城", "target_surface": "Phù Qua Thành", "entity_type": "locations", "segment_id": "chapter_0019:seg_0018", "confidence": 1.0}
+{"chapter_id": "chapter_0020", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0020:seg_0005", "confidence": 1.0}
+{"chapter_id": "chapter_0020", "source_surface": "肥龙", "target_surface": "Phì Long", "entity_type": "person", "segment_id": "chapter_0020:seg_0039", "confidence": 1.0}
+{"chapter_id": "chapter_0020", "source_surface": "彭海", "target_surface": "Bành Hải", "entity_type": "person", "segment_id": "chapter_0020:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0020", "source_surface": "司佳雪", "target_surface": "Tiêu Giai Tuyết", "entity_type": "person", "segment_id": "chapter_0020:seg_0017", "confidence": 1.0}
+{"chapter_id": "chapter_0020", "source_surface": "赵馆长", "target_surface": "Triệu quán chủ", "entity_type": "person", "segment_id": "chapter_0020:seg_0004", "confidence": 1.0}
+{"chapter_id": "chapter_0020", "source_surface": "第五套健身体操", "target_surface": "Bài thể dục nhịp điệu số năm", "entity_type": "techniques", "segment_id": "chapter_0020:seg_0023", "confidence": 1.0}
+{"chapter_id": "chapter_0020", "source_surface": "强化药剂", "target_surface": "Dược chất cường hóa Linh Căn", "entity_type": "cultivation_resources", "segment_id": "chapter_0020:seg_0017", "confidence": 1.0}
+{"chapter_id": "chapter_0020", "source_surface": "法宝坟墓", "target_surface": "Nghĩa địa Pháp Bảo", "entity_type": "locations", "segment_id": "chapter_0020:seg_0017", "confidence": 1.0}
+{"chapter_id": "chapter_0020", "source_surface": "纹面符", "target_surface": "Văn Diện Phù", "entity_type": "items", "segment_id": "chapter_0020:seg_0003", "confidence": 1.0}
+{"chapter_id": "chapter_0021", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0021:seg_0003", "confidence": 1.0}
+{"chapter_id": "chapter_0021", "source_surface": "彭海", "target_surface": "Bành Hải", "entity_type": "person", "segment_id": "chapter_0021:seg_0079", "confidence": 1.0}
+{"chapter_id": "chapter_0021", "source_surface": "欧冶明", "target_surface": "Âu Dã Minh", "entity_type": "person", "segment_id": "chapter_0021:seg_0022", "confidence": 1.0}
+{"chapter_id": "chapter_0021", "source_surface": "巨灵神", "target_surface": "Cự Linh Thần", "entity_type": "person", "segment_id": "chapter_0021:seg_0021", "confidence": 1.0}
+{"chapter_id": "chapter_0021", "source_surface": "百炼宗", "target_surface": "Bách Luyện Tông", "entity_type": "factions", "segment_id": "chapter_0021:seg_0021", "confidence": 1.0}
+{"chapter_id": "chapter_0021", "source_surface": "一百零八手披风乱锤法", "target_surface": "Một trăm lẻ tám thức Phách Phong Loạn Chùy Pháp", "entity_type": "techniques", "segment_id": "chapter_0021:seg_0054", "confidence": 1.0}
+{"chapter_id": "chapter_0021", "source_surface": "强化药剂", "target_surface": "Dược chất cường hóa Linh Căn", "entity_type": "cultivation_resources", "segment_id": "chapter_0021:seg_0008", "confidence": 1.0}
+{"chapter_id": "chapter_0021", "source_surface": "法宝坟墓", "target_surface": "Nghĩa địa Pháp Bảo", "entity_type": "locations", "segment_id": "chapter_0021:seg_0009", "confidence": 1.0}
+{"chapter_id": "chapter_0021", "source_surface": "隐湖小境", "target_surface": "Ẩn Hồ Tiểu Cảnh", "entity_type": "locations", "segment_id": "chapter_0021:seg_0008", "confidence": 1.0}
+{"chapter_id": "chapter_0021", "source_surface": "星空巨兽肉罐头", "target_surface": "Thịt hộp Tinh Không Cự Thú", "entity_type": "items", "segment_id": "chapter_0021:seg_0008", "confidence": 1.0}
+{"chapter_id": "chapter_0021", "source_surface": "放弃", "target_surface": "Từ Bỏ", "entity_type": "items", "segment_id": "chapter_0021:seg_0009", "confidence": 1.0}
+{"chapter_id": "chapter_0022", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0022:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0022", "source_surface": "彭海", "target_surface": "Bành Hải", "entity_type": "person", "segment_id": "chapter_0022:seg_0004", "confidence": 1.0}
+{"chapter_id": "chapter_0022", "source_surface": "军道杀狼", "target_surface": "Quân Đạo Sát Lang", "entity_type": "factions", "segment_id": "chapter_0022:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0022", "source_surface": "强化药剂", "target_surface": "Dược chất cường hóa Linh Căn", "entity_type": "cultivation_resources", "segment_id": "chapter_0022:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0022", "source_surface": "纹面符", "target_surface": "Văn Diện Phù", "entity_type": "items", "segment_id": "chapter_0022:seg_0015", "confidence": 1.0}
+{"chapter_id": "chapter_0023", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0023:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0023", "source_surface": "孟江", "target_surface": "Mạnh Giang", "entity_type": "person", "segment_id": "chapter_0023:seg_0017", "confidence": 1.0}
+{"chapter_id": "chapter_0023", "source_surface": "司佳雪", "target_surface": "Tiêu Giai Tuyết", "entity_type": "person", "segment_id": "chapter_0023:seg_0025", "confidence": 1.0}
+{"chapter_id": "chapter_0023", "source_surface": "赫连烈", "target_surface": "Hách Liên Liệt", "entity_type": "person", "segment_id": "chapter_0023:seg_0023", "confidence": 1.0}
+{"chapter_id": "chapter_0023", "source_surface": "赫连霸", "target_surface": "Hách Liên Bá", "entity_type": "person", "segment_id": "chapter_0023:seg_0026", "confidence": 1.0}
+{"chapter_id": "chapter_0023", "source_surface": "灵鹤传书", "target_surface": "Linh Hạc Truyền Thư", "entity_type": "items", "segment_id": "chapter_0023:seg_0017", "confidence": 1.0}
+{"chapter_id": "chapter_0024", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0024:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0024", "source_surface": "陆音希", "target_surface": "Lục Âm Hi", "entity_type": "person", "segment_id": "chapter_0024:seg_0047", "confidence": 1.0}
+{"chapter_id": "chapter_0024", "source_surface": "孟江", "target_surface": "Mạnh Giang", "entity_type": "person", "segment_id": "chapter_0024:seg_0030", "confidence": 1.0}
+{"chapter_id": "chapter_0024", "source_surface": "妙音宗", "target_surface": "Diệu Âm Tông", "entity_type": "factions", "segment_id": "chapter_0024:seg_0043", "confidence": 1.0}
+{"chapter_id": "chapter_0024", "source_surface": "第五套健身体操", "target_surface": "Bài thể dục nhịp điệu số năm", "entity_type": "techniques", "segment_id": "chapter_0024:seg_0004", "confidence": 1.0}
+{"chapter_id": "chapter_0024", "source_surface": "音铃", "target_surface": "Âm Linh", "entity_type": "items", "segment_id": "chapter_0024:seg_0043", "confidence": 1.0}
+{"chapter_id": "chapter_0025", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0025:seg_0014", "confidence": 1.0}
+{"chapter_id": "chapter_0025", "source_surface": "陆音希", "target_surface": "Lục Âm Hi", "entity_type": "person", "segment_id": "chapter_0025:seg_0038", "confidence": 1.0}
+{"chapter_id": "chapter_0025", "source_surface": "孟江", "target_surface": "Mạnh Giang", "entity_type": "person", "segment_id": "chapter_0025:seg_0022", "confidence": 1.0}
+{"chapter_id": "chapter_0025", "source_surface": "赫连烈", "target_surface": "Hách Liên Liệt", "entity_type": "person", "segment_id": "chapter_0025:seg_0011", "confidence": 1.0}
+{"chapter_id": "chapter_0025", "source_surface": "魏铁", "target_surface": "Ngụy Thiết", "entity_type": "person", "segment_id": "chapter_0025:seg_0005", "confidence": 1.0}
+{"chapter_id": "chapter_0025", "source_surface": "一百零八手披风乱锤法", "target_surface": "Một trăm lẻ tám thức Phách Phong Loạn Chùy Pháp", "entity_type": "techniques", "segment_id": "chapter_0025:seg_0042", "confidence": 1.0}
+{"chapter_id": "chapter_0025", "source_surface": "强化药剂", "target_surface": "Dược chất cường hóa Linh Căn", "entity_type": "cultivation_resources", "segment_id": "chapter_0025:seg_0008", "confidence": 1.0}
+{"chapter_id": "chapter_0026", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0026:seg_0006", "confidence": 1.0}
+{"chapter_id": "chapter_0026", "source_surface": "孟江", "target_surface": "Mạnh Giang", "entity_type": "person", "segment_id": "chapter_0026:seg_0020", "confidence": 1.0}
+{"chapter_id": "chapter_0026", "source_surface": "赫连烈", "target_surface": "Hách Liên Liệt", "entity_type": "person", "segment_id": "chapter_0026:seg_0028", "confidence": 1.0}
+{"chapter_id": "chapter_0026", "source_surface": "魏铁", "target_surface": "Ngụy Thiết", "entity_type": "person", "segment_id": "chapter_0026:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0026", "source_surface": "赵亮", "target_surface": "Triệu Lượng", "entity_type": "person", "segment_id": "chapter_0026:seg_0034", "confidence": 1.0}
+{"chapter_id": "chapter_0026", "source_surface": "灵蛇步法", "target_surface": "Linh Xà Bộ Pháp", "entity_type": "techniques", "segment_id": "chapter_0026:seg_0014", "confidence": 1.0}
+{"chapter_id": "chapter_0026", "source_surface": "催眠符", "target_surface": "Thôi Miên Phù", "entity_type": "items", "segment_id": "chapter_0026:seg_0019", "confidence": 1.0}
+{"chapter_id": "chapter_0026", "source_surface": "灵鹤传书", "target_surface": "Linh Hạc Truyền Thư", "entity_type": "items", "segment_id": "chapter_0026:seg_0034", "confidence": 1.0}
+{"chapter_id": "chapter_0027", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0027:seg_0005", "confidence": 1.0}
+{"chapter_id": "chapter_0027", "source_surface": "孟江", "target_surface": "Mạnh Giang", "entity_type": "person", "segment_id": "chapter_0027:seg_0053", "confidence": 1.0}
+{"chapter_id": "chapter_0027", "source_surface": "赫连烈", "target_surface": "Hách Liên Liệt", "entity_type": "person", "segment_id": "chapter_0027:seg_0007", "confidence": 1.0}
+{"chapter_id": "chapter_0027", "source_surface": "魏铁", "target_surface": "Ngụy Thiết", "entity_type": "person", "segment_id": "chapter_0027:seg_0004", "confidence": 1.0}
+{"chapter_id": "chapter_0027", "source_surface": "赵亮", "target_surface": "Triệu Lượng", "entity_type": "person", "segment_id": "chapter_0027:seg_0004", "confidence": 1.0}
+{"chapter_id": "chapter_0027", "source_surface": "战兽十三势", "target_surface": "Chiến Thú Thập Tam Thế", "entity_type": "techniques", "segment_id": "chapter_0027:seg_0036", "confidence": 1.0}
+{"chapter_id": "chapter_0027", "source_surface": "虎蹴击", "target_surface": "Hổ Súc Kích", "entity_type": "techniques", "segment_id": "chapter_0027:seg_0036", "confidence": 1.0}
+{"chapter_id": "chapter_0028", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0028:seg_0005", "confidence": 1.0}
+{"chapter_id": "chapter_0028", "source_surface": "老爹", "target_surface": "Lão cha", "entity_type": "person", "segment_id": "chapter_0028:seg_0027", "confidence": 1.0}
+{"chapter_id": "chapter_0028", "source_surface": "孟江", "target_surface": "Mạnh Giang", "entity_type": "person", "segment_id": "chapter_0028:seg_0005", "confidence": 1.0}
+{"chapter_id": "chapter_0028", "source_surface": "赫连烈", "target_surface": "Hách Liên Liệt", "entity_type": "person", "segment_id": "chapter_0028:seg_0019", "confidence": 1.0}
+{"chapter_id": "chapter_0028", "source_surface": "赵亮", "target_surface": "Triệu Lượng", "entity_type": "person", "segment_id": "chapter_0028:seg_0003", "confidence": 1.0}
+{"chapter_id": "chapter_0028", "source_surface": "老孙头", "target_surface": "lão Tôn", "entity_type": "person", "segment_id": "chapter_0028:seg_0033", "confidence": 1.0}
+{"chapter_id": "chapter_0028", "source_surface": "魔道", "target_surface": "Ma đạo", "entity_type": "factions", "segment_id": "chapter_0028:seg_0016", "confidence": 1.0}
+{"chapter_id": "chapter_0028", "source_surface": "法宝坟墓", "target_surface": "Nghĩa địa Pháp Bảo", "entity_type": "locations", "segment_id": "chapter_0028:seg_0029", "confidence": 1.0}
+{"chapter_id": "chapter_0029", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0029:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0029", "source_surface": "彭海", "target_surface": "Bành Hải", "entity_type": "person", "segment_id": "chapter_0029:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0029", "source_surface": "孟江", "target_surface": "Mạnh Giang", "entity_type": "person", "segment_id": "chapter_0029:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0029", "source_surface": "赵亮", "target_surface": "Triệu Lượng", "entity_type": "person", "segment_id": "chapter_0029:seg_0015", "confidence": 1.0}
+{"chapter_id": "chapter_0029", "source_surface": "孙彪", "target_surface": "Tôn Bưu", "entity_type": "person", "segment_id": "chapter_0029:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0029", "source_surface": "灵蛇步法", "target_surface": "Linh Xà Bộ Pháp", "entity_type": "techniques", "segment_id": "chapter_0029:seg_0024", "confidence": 1.0}
+{"chapter_id": "chapter_0030", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0030:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0030", "source_surface": "彭海", "target_surface": "Bành Hải", "entity_type": "person", "segment_id": "chapter_0030:seg_0006", "confidence": 1.0}
+{"chapter_id": "chapter_0030", "source_surface": "赫连烈", "target_surface": "Hách Liên Liệt", "entity_type": "person", "segment_id": "chapter_0030:seg_0019", "confidence": 1.0}
+{"chapter_id": "chapter_0030", "source_surface": "赵亮", "target_surface": "Triệu Lượng", "entity_type": "person", "segment_id": "chapter_0030:seg_0023", "confidence": 1.0}
+{"chapter_id": "chapter_0030", "source_surface": "孙彪", "target_surface": "Tôn Bưu", "entity_type": "person", "segment_id": "chapter_0030:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0030", "source_surface": "百炼宗", "target_surface": "Bách Luyện Tông", "entity_type": "factions", "segment_id": "chapter_0030:seg_0040", "confidence": 1.0}
+{"chapter_id": "chapter_0030", "source_surface": "战兽十三势", "target_surface": "Chiến Thú Thập Tam Thế", "entity_type": "techniques", "segment_id": "chapter_0030:seg_0034", "confidence": 1.0}
+{"chapter_id": "chapter_0030", "source_surface": "浮戈城", "target_surface": "Phù Qua Thành", "entity_type": "locations", "segment_id": "chapter_0030:seg_0017", "confidence": 1.0}
+{"chapter_id": "chapter_0031", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0031:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0031", "source_surface": "陆音希", "target_surface": "Lục Âm Hi", "entity_type": "person", "segment_id": "chapter_0031:seg_0076", "confidence": 1.0}
+{"chapter_id": "chapter_0031", "source_surface": "巨灵神", "target_surface": "Cự Linh Thần", "entity_type": "person", "segment_id": "chapter_0031:seg_0025", "confidence": 1.0}
+{"chapter_id": "chapter_0031", "source_surface": "孙彪", "target_surface": "Tôn Bưu", "entity_type": "person", "segment_id": "chapter_0031:seg_0008", "confidence": 1.0}
+{"chapter_id": "chapter_0031", "source_surface": "百炼宗", "target_surface": "Bách Luyện Tông", "entity_type": "factions", "segment_id": "chapter_0031:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0031", "source_surface": "妙音宗", "target_surface": "Diệu Âm Tông", "entity_type": "factions", "segment_id": "chapter_0031:seg_0074", "confidence": 1.0}
+{"chapter_id": "chapter_0031", "source_surface": "法宝坟墓", "target_surface": "Nghĩa địa Pháp Bảo", "entity_type": "locations", "segment_id": "chapter_0031:seg_0037", "confidence": 1.0}
+{"chapter_id": "chapter_0031", "source_surface": "音铃", "target_surface": "Âm Linh", "entity_type": "items", "segment_id": "chapter_0031:seg_0074", "confidence": 1.0}
+{"chapter_id": "chapter_0031", "source_surface": "放弃", "target_surface": "Từ Bỏ", "entity_type": "items", "segment_id": "chapter_0031:seg_0019", "confidence": 1.0}
+{"chapter_id": "chapter_0032", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0032:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0032", "source_surface": "彭海", "target_surface": "Bành Hải", "entity_type": "person", "segment_id": "chapter_0032:seg_0015", "confidence": 1.0}
+{"chapter_id": "chapter_0032", "source_surface": "司佳雪", "target_surface": "Tiêu Giai Tuyết", "entity_type": "person", "segment_id": "chapter_0032:seg_0005", "confidence": 1.0}
+{"chapter_id": "chapter_0032", "source_surface": "赫连烈", "target_surface": "Hách Liên Liệt", "entity_type": "person", "segment_id": "chapter_0032:seg_0008", "confidence": 1.0}
+{"chapter_id": "chapter_0032", "source_surface": "孙彪", "target_surface": "Tôn Bưu", "entity_type": "person", "segment_id": "chapter_0032:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0032", "source_surface": "放弃", "target_surface": "Từ Bỏ", "entity_type": "items", "segment_id": "chapter_0032:seg_0013", "confidence": 1.0}
+{"chapter_id": "chapter_0032", "source_surface": "灵鹤传书", "target_surface": "Linh Hạc Truyền Thư", "entity_type": "items", "segment_id": "chapter_0032:seg_0004", "confidence": 1.0}
+{"chapter_id": "chapter_0033", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0033:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0033", "source_surface": "赫连烈", "target_surface": "Hách Liên Liệt", "entity_type": "person", "segment_id": "chapter_0033:seg_0028", "confidence": 1.0}
+{"chapter_id": "chapter_0033", "source_surface": "赵亮", "target_surface": "Triệu Lượng", "entity_type": "person", "segment_id": "chapter_0033:seg_0032", "confidence": 1.0}
+{"chapter_id": "chapter_0033", "source_surface": "孙彪", "target_surface": "Tôn Bưu", "entity_type": "person", "segment_id": "chapter_0033:seg_0005", "confidence": 1.0}
+{"chapter_id": "chapter_0033", "source_surface": "赫连霸", "target_surface": "Hách Liên Bá", "entity_type": "person", "segment_id": "chapter_0033:seg_0035", "confidence": 1.0}
+{"chapter_id": "chapter_0033", "source_surface": "军道杀狼", "target_surface": "Quân Đạo Sát Lang", "entity_type": "factions", "segment_id": "chapter_0033:seg_0012", "confidence": 1.0}
+{"chapter_id": "chapter_0033", "source_surface": "强化药剂", "target_surface": "Dược chất cường hóa Linh Căn", "entity_type": "cultivation_resources", "segment_id": "chapter_0033:seg_0019", "confidence": 1.0}
+{"chapter_id": "chapter_0033", "source_surface": "放弃", "target_surface": "Từ Bỏ", "entity_type": "items", "segment_id": "chapter_0033:seg_0015", "confidence": 1.0}
+{"chapter_id": "chapter_0034", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0034:seg_0007", "confidence": 1.0}
+{"chapter_id": "chapter_0034", "source_surface": "彭海", "target_surface": "Bành Hải", "entity_type": "person", "segment_id": "chapter_0034:seg_0029", "confidence": 1.0}
+{"chapter_id": "chapter_0034", "source_surface": "孟江", "target_surface": "Mạnh Giang", "entity_type": "person", "segment_id": "chapter_0034:seg_0017", "confidence": 1.0}
+{"chapter_id": "chapter_0034", "source_surface": "赫连烈", "target_surface": "Hách Liên Liệt", "entity_type": "person", "segment_id": "chapter_0034:seg_0007", "confidence": 1.0}
+{"chapter_id": "chapter_0034", "source_surface": "孙彪", "target_surface": "Tôn Bưu", "entity_type": "person", "segment_id": "chapter_0034:seg_0029", "confidence": 1.0}
+{"chapter_id": "chapter_0034", "source_surface": "放弃", "target_surface": "Từ Bỏ", "entity_type": "items", "segment_id": "chapter_0034:seg_0031", "confidence": 1.0}
+{"chapter_id": "chapter_0034", "source_surface": "灵鹤传书", "target_surface": "Linh Hạc Truyền Thư", "entity_type": "items", "segment_id": "chapter_0034:seg_0029", "confidence": 1.0}
+{"chapter_id": "chapter_0035", "source_surface": "司佳雪", "target_surface": "Tiêu Giai Tuyết", "entity_type": "person", "segment_id": "chapter_0035:seg_0020", "confidence": 1.0}
+{"chapter_id": "chapter_0035", "source_surface": "赫连烈", "target_surface": "Hách Liên Liệt", "entity_type": "person", "segment_id": "chapter_0035:seg_0020", "confidence": 1.0}
+{"chapter_id": "chapter_0035", "source_surface": "郑东明", "target_surface": "Trịnh Đông Minh", "entity_type": "person", "segment_id": "chapter_0035:seg_0045", "confidence": 1.0}
+{"chapter_id": "chapter_0035", "source_surface": "赫连霸", "target_surface": "Hách Liên Bá", "entity_type": "person", "segment_id": "chapter_0035:seg_0021", "confidence": 1.0}
+{"chapter_id": "chapter_0035", "source_surface": "周隐", "target_surface": "Chu Ẩn", "entity_type": "person", "segment_id": "chapter_0035:seg_0019", "confidence": 1.0}
+{"chapter_id": "chapter_0035", "source_surface": "赤霄派", "target_surface": "Xích Tiêu Phái", "entity_type": "factions", "segment_id": "chapter_0035:seg_0019", "confidence": 1.0}
+{"chapter_id": "chapter_0035", "source_surface": "浮戈城", "target_surface": "Phù Qua Thành", "entity_type": "locations", "segment_id": "chapter_0035:seg_0016", "confidence": 1.0}
+{"chapter_id": "chapter_0035", "source_surface": "飞豚眼", "target_surface": "Phi Đồn Nhãn", "entity_type": "items", "segment_id": "chapter_0035:seg_0010", "confidence": 1.0}
+{"chapter_id": "chapter_0036", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0036:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0036", "source_surface": "司佳雪", "target_surface": "Tiêu Giai Tuyết", "entity_type": "person", "segment_id": "chapter_0036:seg_0006", "confidence": 1.0}
+{"chapter_id": "chapter_0036", "source_surface": "赫连烈", "target_surface": "Hách Liên Liệt", "entity_type": "person", "segment_id": "chapter_0036:seg_0006", "confidence": 1.0}
+{"chapter_id": "chapter_0036", "source_surface": "郑东明", "target_surface": "Trịnh Đông Minh", "entity_type": "person", "segment_id": "chapter_0036:seg_0013", "confidence": 1.0}
+{"chapter_id": "chapter_0036", "source_surface": "孙彪", "target_surface": "Tôn Bưu", "entity_type": "person", "segment_id": "chapter_0036:seg_0025", "confidence": 1.0}
+{"chapter_id": "chapter_0036", "source_surface": "周隐", "target_surface": "Chu Ẩn", "entity_type": "person", "segment_id": "chapter_0036:seg_0012", "confidence": 1.0}
+{"chapter_id": "chapter_0036", "source_surface": "纳兰英", "target_surface": "Nạp Lan Anh", "entity_type": "person", "segment_id": "chapter_0036:seg_0051", "confidence": 1.0}
+{"chapter_id": "chapter_0036", "source_surface": "赤霄派", "target_surface": "Xích Tiêu Phái", "entity_type": "factions", "segment_id": "chapter_0036:seg_0012", "confidence": 1.0}
+{"chapter_id": "chapter_0036", "source_surface": "放弃", "target_surface": "Từ Bỏ", "entity_type": "items", "segment_id": "chapter_0036:seg_0025", "confidence": 1.0}
+{"chapter_id": "chapter_0037", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0037:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0037", "source_surface": "赫连烈", "target_surface": "Hách Liên Liệt", "entity_type": "person", "segment_id": "chapter_0037:seg_0003", "confidence": 1.0}
+{"chapter_id": "chapter_0037", "source_surface": "郑东明", "target_surface": "Trịnh Đông Minh", "entity_type": "person", "segment_id": "chapter_0037:seg_0023", "confidence": 1.0}
+{"chapter_id": "chapter_0037", "source_surface": "赵亮", "target_surface": "Triệu Lượng", "entity_type": "person", "segment_id": "chapter_0037:seg_0006", "confidence": 1.0}
+{"chapter_id": "chapter_0037", "source_surface": "周隐", "target_surface": "Chu Ẩn", "entity_type": "person", "segment_id": "chapter_0037:seg_0024", "confidence": 1.0}
+{"chapter_id": "chapter_0037", "source_surface": "赤霄派", "target_surface": "Xích Tiêu Phái", "entity_type": "factions", "segment_id": "chapter_0037:seg_0040", "confidence": 1.0}
+{"chapter_id": "chapter_0037", "source_surface": "战兽十三势", "target_surface": "Chiến Thú Thập Tam Thế", "entity_type": "techniques", "segment_id": "chapter_0037:seg_0016", "confidence": 1.0}
+{"chapter_id": "chapter_0037", "source_surface": "虎蹴击", "target_surface": "Hổ Súc Kích", "entity_type": "techniques", "segment_id": "chapter_0037:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0037", "source_surface": "放弃", "target_surface": "Từ Bỏ", "entity_type": "items", "segment_id": "chapter_0037:seg_0037", "confidence": 1.0}
+{"chapter_id": "chapter_0038", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0038:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0038", "source_surface": "彭海", "target_surface": "Bành Hải", "entity_type": "person", "segment_id": "chapter_0038:seg_0018", "confidence": 1.0}
+{"chapter_id": "chapter_0038", "source_surface": "司佳雪", "target_surface": "Tiêu Giai Tuyết", "entity_type": "person", "segment_id": "chapter_0038:seg_0046", "confidence": 1.0}
+{"chapter_id": "chapter_0038", "source_surface": "赫连烈", "target_surface": "Hách Liên Liệt", "entity_type": "person", "segment_id": "chapter_0038:seg_0009", "confidence": 1.0}
+{"chapter_id": "chapter_0038", "source_surface": "赵亮", "target_surface": "Triệu Lượng", "entity_type": "person", "segment_id": "chapter_0038:seg_0003", "confidence": 1.0}
+{"chapter_id": "chapter_0038", "source_surface": "赫连霸", "target_surface": "Hách Liên Bá", "entity_type": "person", "segment_id": "chapter_0038:seg_0061", "confidence": 1.0}
+{"chapter_id": "chapter_0038", "source_surface": "周隐", "target_surface": "Chu Ẩn", "entity_type": "person", "segment_id": "chapter_0038:seg_0058", "confidence": 1.0}
+{"chapter_id": "chapter_0038", "source_surface": "排打", "target_surface": "Bài Đả", "entity_type": "techniques", "segment_id": "chapter_0038:seg_0008", "confidence": 1.0}
+{"chapter_id": "chapter_0038", "source_surface": "魔蛟岛", "target_surface": "Đảo Ma Giao", "entity_type": "locations", "segment_id": "chapter_0038:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0038", "source_surface": "放弃", "target_surface": "Từ Bỏ", "entity_type": "items", "segment_id": "chapter_0038:seg_0033", "confidence": 1.0}
+{"chapter_id": "chapter_0039", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0039:seg_0007", "confidence": 1.0}
+{"chapter_id": "chapter_0039", "source_surface": "赫连烈", "target_surface": "Hách Liên Liệt", "entity_type": "person", "segment_id": "chapter_0039:seg_0038", "confidence": 1.0}
+{"chapter_id": "chapter_0039", "source_surface": "郑东明", "target_surface": "Trịnh Đông Minh", "entity_type": "person", "segment_id": "chapter_0039:seg_0045", "confidence": 1.0}
+{"chapter_id": "chapter_0039", "source_surface": "浮戈城", "target_surface": "Phù Qua Thành", "entity_type": "locations", "segment_id": "chapter_0039:seg_0006", "confidence": 1.0}
+{"chapter_id": "chapter_0039", "source_surface": "极东海", "target_surface": "Cực Đông Hải", "entity_type": "locations", "segment_id": "chapter_0039:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0039", "source_surface": "灵能浮空船", "target_surface": "thuyền linh năng phù không", "entity_type": "items", "segment_id": "chapter_0039:seg_0006", "confidence": 1.0}
+{"chapter_id": "chapter_0040", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0040:seg_0003", "confidence": 1.0}
+{"chapter_id": "chapter_0040", "source_surface": "赫连烈", "target_surface": "Hách Liên Liệt", "entity_type": "person", "segment_id": "chapter_0040:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0040", "source_surface": "郑东明", "target_surface": "Trịnh Đông Minh", "entity_type": "person", "segment_id": "chapter_0040:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0040", "source_surface": "魔蛟岛", "target_surface": "Đảo Ma Giao", "entity_type": "locations", "segment_id": "chapter_0040:seg_0012", "confidence": 1.0}
+{"chapter_id": "chapter_0041", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0041:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0041", "source_surface": "郑东明", "target_surface": "Trịnh Đông Minh", "entity_type": "person", "segment_id": "chapter_0041:seg_0008", "confidence": 1.0}
+{"chapter_id": "chapter_0041", "source_surface": "魔蛟岛", "target_surface": "Đảo Ma Giao", "entity_type": "locations", "segment_id": "chapter_0041:seg_0021", "confidence": 1.0}
+{"chapter_id": "chapter_0041", "source_surface": "极东海", "target_surface": "Cực Đông Hải", "entity_type": "locations", "segment_id": "chapter_0041:seg_0030", "confidence": 1.0}
+{"chapter_id": "chapter_0042", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0042:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0042", "source_surface": "东极妖国", "target_surface": "Đông Cực Yêu Quốc", "entity_type": "factions", "segment_id": "chapter_0042:seg_0006", "confidence": 1.0}
+{"chapter_id": "chapter_0042", "source_surface": "魔蛟岛", "target_surface": "Đảo Ma Giao", "entity_type": "locations", "segment_id": "chapter_0042:seg_0043", "confidence": 1.0}
+{"chapter_id": "chapter_0042", "source_surface": "放弃", "target_surface": "Từ Bỏ", "entity_type": "items", "segment_id": "chapter_0042:seg_0017", "confidence": 1.0}
+{"chapter_id": "chapter_0042", "source_surface": "辽远号", "target_surface": "Liêu Viễn Hào", "entity_type": "items", "segment_id": "chapter_0042:seg_0005", "confidence": 1.0}
+{"chapter_id": "chapter_0042", "source_surface": "天野号", "target_surface": "Thiên Dã Hào", "entity_type": "items", "segment_id": "chapter_0042:seg_0005", "confidence": 1.0}
+{"chapter_id": "chapter_0043", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0043:seg_0004", "confidence": 1.0}
+{"chapter_id": "chapter_0043", "source_surface": "郑东明", "target_surface": "Trịnh Đông Minh", "entity_type": "person", "segment_id": "chapter_0043:seg_0018", "confidence": 1.0}
+{"chapter_id": "chapter_0043", "source_surface": "辽远号", "target_surface": "Liêu Viễn Hào", "entity_type": "items", "segment_id": "chapter_0043:seg_0003", "confidence": 1.0}
+{"chapter_id": "chapter_0044", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0044:seg_0011", "confidence": 1.0}
+{"chapter_id": "chapter_0044", "source_surface": "天幻书院", "target_surface": "Thiên Huyễn Thư Viện", "entity_type": "factions", "segment_id": "chapter_0044:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0045", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0045:seg_0004", "confidence": 1.0}
+{"chapter_id": "chapter_0045", "source_surface": "老者", "target_surface": "Lão giả", "entity_type": "person", "segment_id": "chapter_0045:seg_0042", "confidence": 1.0}
+{"chapter_id": "chapter_0045", "source_surface": "郑东明", "target_surface": "Trịnh Đông Minh", "entity_type": "person", "segment_id": "chapter_0045:seg_0006", "confidence": 1.0}
+{"chapter_id": "chapter_0045", "source_surface": "钟伯牙", "target_surface": "Chung Bá Nha", "entity_type": "person", "segment_id": "chapter_0045:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0045", "source_surface": "赵天戈", "target_surface": "Triệu Thiên Qua", "entity_type": "person", "segment_id": "chapter_0045:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0045", "source_surface": "魔道", "target_surface": "Ma đạo", "entity_type": "factions", "segment_id": "chapter_0045:seg_0042", "confidence": 1.0}
+{"chapter_id": "chapter_0045", "source_surface": "星云大学", "target_surface": "Đại học Tinh Vân", "entity_type": "factions", "segment_id": "chapter_0045:seg_0013", "confidence": 1.0}
+{"chapter_id": "chapter_0045", "source_surface": "灵子对撞机", "target_surface": "máy đối chàng linh tử", "entity_type": "items", "segment_id": "chapter_0045:seg_0003", "confidence": 1.0}
+{"chapter_id": "chapter_0046", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0046:seg_0007", "confidence": 1.0}
+{"chapter_id": "chapter_0046", "source_surface": "老爹", "target_surface": "Lão cha", "entity_type": "person", "segment_id": "chapter_0046:seg_0010", "confidence": 1.0}
+{"chapter_id": "chapter_0046", "source_surface": "彭海", "target_surface": "Bành Hải", "entity_type": "person", "segment_id": "chapter_0046:seg_0040", "confidence": 1.0}
+{"chapter_id": "chapter_0046", "source_surface": "老者", "target_surface": "Lão giả", "entity_type": "person", "segment_id": "chapter_0046:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0046", "source_surface": "郑东明", "target_surface": "Trịnh Đông Minh", "entity_type": "person", "segment_id": "chapter_0046:seg_0027", "confidence": 1.0}
+{"chapter_id": "chapter_0046", "source_surface": "魔道", "target_surface": "Ma đạo", "entity_type": "factions", "segment_id": "chapter_0046:seg_0018", "confidence": 1.0}
+{"chapter_id": "chapter_0046", "source_surface": "深海大学", "target_surface": "Đại học Thâm Hải", "entity_type": "factions", "segment_id": "chapter_0046:seg_0004", "confidence": 1.0}
+{"chapter_id": "chapter_0046", "source_surface": "法宝坟墓", "target_surface": "Nghĩa địa Pháp Bảo", "entity_type": "locations", "segment_id": "chapter_0046:seg_0037", "confidence": 1.0}
+{"chapter_id": "chapter_0046", "source_surface": "反妖兽防御系统", "target_surface": "Hệ thống phòng ngự chống yêu thú", "entity_type": "items", "segment_id": "chapter_0046:seg_0004", "confidence": 1.0}
+{"chapter_id": "chapter_0047", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0047:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0047", "source_surface": "彭海", "target_surface": "Bành Hải", "entity_type": "person", "segment_id": "chapter_0047:seg_0028", "confidence": 1.0}
+{"chapter_id": "chapter_0047", "source_surface": "郑东明", "target_surface": "Trịnh Đông Minh", "entity_type": "person", "segment_id": "chapter_0047:seg_0004", "confidence": 1.0}
+{"chapter_id": "chapter_0047", "source_surface": "天幻书院", "target_surface": "Thiên Huyễn Thư Viện", "entity_type": "factions", "segment_id": "chapter_0047:seg_0003", "confidence": 1.0}
+{"chapter_id": "chapter_0047", "source_surface": "大荒战院", "target_surface": "Đại Hoang Chiến Viện", "entity_type": "factions", "segment_id": "chapter_0047:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0047", "source_surface": "淬体", "target_surface": "tối thể", "entity_type": "techniques", "segment_id": "chapter_0047:seg_0025", "confidence": 1.0}
+{"chapter_id": "chapter_0047", "source_surface": "灵鹤传书", "target_surface": "Linh Hạc Truyền Thư", "entity_type": "items", "segment_id": "chapter_0047:seg_0016", "confidence": 1.0}
+{"chapter_id": "chapter_0048", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0048:seg_0003", "confidence": 1.0}
+{"chapter_id": "chapter_0048", "source_surface": "郑东明", "target_surface": "Trịnh Đông Minh", "entity_type": "person", "segment_id": "chapter_0048:seg_0007", "confidence": 1.0}
+{"chapter_id": "chapter_0048", "source_surface": "谢听弦", "target_surface": "Tạ Thính Huyền", "entity_type": "person", "segment_id": "chapter_0048:seg_0046", "confidence": 1.0}
+{"chapter_id": "chapter_0048", "source_surface": "丁铃铛", "target_surface": "Đinh Linh Đang", "entity_type": "person", "segment_id": "chapter_0048:seg_0004", "confidence": 1.0}
+{"chapter_id": "chapter_0048", "source_surface": "天幻书院", "target_surface": "Thiên Huyễn Thư Viện", "entity_type": "factions", "segment_id": "chapter_0048:seg_0007", "confidence": 1.0}
+{"chapter_id": "chapter_0048", "source_surface": "深海大学", "target_surface": "Đại học Thâm Hải", "entity_type": "factions", "segment_id": "chapter_0048:seg_0027", "confidence": 1.0}
+{"chapter_id": "chapter_0048", "source_surface": "大荒战院", "target_surface": "Đại Hoang Chiến Viện", "entity_type": "factions", "segment_id": "chapter_0048:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0048", "source_surface": "法宝坟墓", "target_surface": "Nghĩa địa Pháp Bảo", "entity_type": "locations", "segment_id": "chapter_0048:seg_0011", "confidence": 1.0}
+{"chapter_id": "chapter_0048", "source_surface": "放弃", "target_surface": "Từ Bỏ", "entity_type": "items", "segment_id": "chapter_0048:seg_0003", "confidence": 1.0}
+{"chapter_id": "chapter_0048", "source_surface": "辽远号", "target_surface": "Liêu Viễn Hào", "entity_type": "items", "segment_id": "chapter_0048:seg_0042", "confidence": 1.0}
+{"chapter_id": "chapter_0049", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0049:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0049", "source_surface": "东极妖国", "target_surface": "Đông Cực Yêu Quốc", "entity_type": "factions", "segment_id": "chapter_0049:seg_0022", "confidence": 1.0}
+{"chapter_id": "chapter_0049", "source_surface": "天都医学院", "target_surface": "Học viện Y khoa Thiên Đô", "entity_type": "factions", "segment_id": "chapter_0049:seg_0013", "confidence": 1.0}
+{"chapter_id": "chapter_0049", "source_surface": "深海大学", "target_surface": "Đại học Thâm Hải", "entity_type": "factions", "segment_id": "chapter_0049:seg_0013", "confidence": 1.0}
+{"chapter_id": "chapter_0049", "source_surface": "法宝坟墓", "target_surface": "Nghĩa địa Pháp Bảo", "entity_type": "locations", "segment_id": "chapter_0049:seg_0006", "confidence": 1.0}
+{"chapter_id": "chapter_0049", "source_surface": "浮戈城", "target_surface": "Phù Qua Thành", "entity_type": "locations", "segment_id": "chapter_0049:seg_0021", "confidence": 1.0}
+{"chapter_id": "chapter_0049", "source_surface": "魔蛟岛", "target_surface": "Đảo Ma Giao", "entity_type": "locations", "segment_id": "chapter_0049:seg_0018", "confidence": 1.0}
+{"chapter_id": "chapter_0050", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0050:seg_0008", "confidence": 1.0}
+{"chapter_id": "chapter_0050", "source_surface": "彭海", "target_surface": "Bành Hải", "entity_type": "person", "segment_id": "chapter_0050:seg_0029", "confidence": 1.0}
+{"chapter_id": "chapter_0050", "source_surface": "司佳雪", "target_surface": "Tiêu Giai Tuyết", "entity_type": "person", "segment_id": "chapter_0050:seg_0034", "confidence": 1.0}
+{"chapter_id": "chapter_0050", "source_surface": "谢听弦", "target_surface": "Tạ Thính Huyền", "entity_type": "person", "segment_id": "chapter_0050:seg_0036", "confidence": 1.0}
+{"chapter_id": "chapter_0050", "source_surface": "天琴门", "target_surface": "Thiên Cầm Môn", "entity_type": "factions", "segment_id": "chapter_0050:seg_0045", "confidence": 1.0}
+{"chapter_id": "chapter_0050", "source_surface": "深海大学", "target_surface": "Đại học Thâm Hải", "entity_type": "factions", "segment_id": "chapter_0050:seg_0024", "confidence": 1.0}
+{"chapter_id": "chapter_0050", "source_surface": "魔蛟岛", "target_surface": "Đảo Ma Giao", "entity_type": "locations", "segment_id": "chapter_0050:seg_0004", "confidence": 1.0}
+{"chapter_id": "chapter_0050", "source_surface": "辽远号", "target_surface": "Liêu Viễn Hào", "entity_type": "items", "segment_id": "chapter_0050:seg_0003", "confidence": 1.0}
+{"chapter_id": "chapter_0051", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0051:seg_0007", "confidence": 1.0}
+{"chapter_id": "chapter_0051", "source_surface": "司佳雪", "target_surface": "Tiêu Giai Tuyết", "entity_type": "person", "segment_id": "chapter_0051:seg_0005", "confidence": 1.0}
+{"chapter_id": "chapter_0051", "source_surface": "赫连烈", "target_surface": "Hách Liên Liệt", "entity_type": "person", "segment_id": "chapter_0051:seg_0030", "confidence": 1.0}
+{"chapter_id": "chapter_0051", "source_surface": "谢听弦", "target_surface": "Tạ Thính Huyền", "entity_type": "person", "segment_id": "chapter_0051:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0051", "source_surface": "联邦第一军事学院", "target_surface": "Học viện Quân sự Số 1 Liên bang", "entity_type": "factions", "segment_id": "chapter_0051:seg_0015", "confidence": 1.0}
+{"chapter_id": "chapter_0051", "source_surface": "天都医学院", "target_surface": "Học viện Y khoa Thiên Đô", "entity_type": "factions", "segment_id": "chapter_0051:seg_0016", "confidence": 1.0}
+{"chapter_id": "chapter_0051", "source_surface": "魔蛟岛", "target_surface": "Đảo Ma Giao", "entity_type": "locations", "segment_id": "chapter_0051:seg_0015", "confidence": 1.0}
+{"chapter_id": "chapter_0051", "source_surface": "辽远号", "target_surface": "Liêu Viễn Hào", "entity_type": "items", "segment_id": "chapter_0051:seg_0012", "confidence": 1.0}
+{"chapter_id": "chapter_0052", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0052:seg_0011", "confidence": 1.0}
+{"chapter_id": "chapter_0052", "source_surface": "法宝坟墓", "target_surface": "Nghĩa địa Pháp Bảo", "entity_type": "locations", "segment_id": "chapter_0052:seg_0031", "confidence": 1.0}
+{"chapter_id": "chapter_0052", "source_surface": "魔蛟岛", "target_surface": "Đảo Ma Giao", "entity_type": "locations", "segment_id": "chapter_0052:seg_0006", "confidence": 1.0}
+{"chapter_id": "chapter_0052", "source_surface": "辽远号", "target_surface": "Liêu Viễn Hào", "entity_type": "items", "segment_id": "chapter_0052:seg_0006", "confidence": 1.0}
+{"chapter_id": "chapter_0053", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0053:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0053", "source_surface": "赫连烈", "target_surface": "Hách Liên Liệt", "entity_type": "person", "segment_id": "chapter_0053:seg_0060", "confidence": 1.0}
+{"chapter_id": "chapter_0053", "source_surface": "谢听弦", "target_surface": "Tạ Thính Huyền", "entity_type": "person", "segment_id": "chapter_0053:seg_0034", "confidence": 1.0}
+{"chapter_id": "chapter_0053", "source_surface": "丁铃铛", "target_surface": "Đinh Linh Đang", "entity_type": "person", "segment_id": "chapter_0053:seg_0037", "confidence": 1.0}
+{"chapter_id": "chapter_0053", "source_surface": "深海大学", "target_surface": "Đại học Thâm Hải", "entity_type": "factions", "segment_id": "chapter_0053:seg_0034", "confidence": 1.0}
+{"chapter_id": "chapter_0053", "source_surface": "大荒战院", "target_surface": "Đại Hoang Chiến Viện", "entity_type": "factions", "segment_id": "chapter_0053:seg_0037", "confidence": 1.0}
+{"chapter_id": "chapter_0053", "source_surface": "法宝坟墓", "target_surface": "Nghĩa địa Pháp Bảo", "entity_type": "locations", "segment_id": "chapter_0053:seg_0042", "confidence": 1.0}
+{"chapter_id": "chapter_0053", "source_surface": "魔蛟岛", "target_surface": "Đảo Ma Giao", "entity_type": "locations", "segment_id": "chapter_0053:seg_0021", "confidence": 1.0}
+{"chapter_id": "chapter_0053", "source_surface": "辽远号", "target_surface": "Liêu Viễn Hào", "entity_type": "items", "segment_id": "chapter_0053:seg_0026", "confidence": 1.0}
+{"chapter_id": "chapter_0054", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0054:seg_0004", "confidence": 1.0}
+{"chapter_id": "chapter_0054", "source_surface": "谢听弦", "target_surface": "Tạ Thính Huyền", "entity_type": "person", "segment_id": "chapter_0054:seg_0026", "confidence": 1.0}
+{"chapter_id": "chapter_0054", "source_surface": "辽远号", "target_surface": "Liêu Viễn Hào", "entity_type": "items", "segment_id": "chapter_0054:seg_0021", "confidence": 1.0}
+{"chapter_id": "chapter_0055", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0055:seg_0007", "confidence": 1.0}
+{"chapter_id": "chapter_0055", "source_surface": "赫连烈", "target_surface": "Hách Liên Liệt", "entity_type": "person", "segment_id": "chapter_0055:seg_0055", "confidence": 1.0}
+{"chapter_id": "chapter_0055", "source_surface": "深海大学", "target_surface": "Đại học Thâm Hải", "entity_type": "factions", "segment_id": "chapter_0055:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0056", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0056:seg_0005", "confidence": 1.0}
+{"chapter_id": "chapter_0056", "source_surface": "赵树德", "target_surface": "Triệu Thụ Đức", "entity_type": "person", "segment_id": "chapter_0056:seg_0061", "confidence": 1.0}
+{"chapter_id": "chapter_0056", "source_surface": "赫连烈", "target_surface": "Hách Liên Liệt", "entity_type": "person", "segment_id": "chapter_0056:seg_0032", "confidence": 1.0}
+{"chapter_id": "chapter_0056", "source_surface": "赤霄派", "target_surface": "Xích Tiêu Phái", "entity_type": "factions", "segment_id": "chapter_0056:seg_0061", "confidence": 1.0}
+{"chapter_id": "chapter_0056", "source_surface": "星云大学", "target_surface": "Đại học Tinh Vân", "entity_type": "factions", "segment_id": "chapter_0056:seg_0065", "confidence": 1.0}
+{"chapter_id": "chapter_0056", "source_surface": "深海大学", "target_surface": "Đại học Thâm Hải", "entity_type": "factions", "segment_id": "chapter_0056:seg_0064", "confidence": 1.0}
+{"chapter_id": "chapter_0056", "source_surface": "魔蛟岛", "target_surface": "Đảo Ma Giao", "entity_type": "locations", "segment_id": "chapter_0056:seg_0028", "confidence": 1.0}
+{"chapter_id": "chapter_0056", "source_surface": "辽远号", "target_surface": "Liêu Viễn Hào", "entity_type": "items", "segment_id": "chapter_0056:seg_0054", "confidence": 1.0}
+{"chapter_id": "chapter_0057", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0057:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0057", "source_surface": "老爹", "target_surface": "Lão cha", "entity_type": "person", "segment_id": "chapter_0057:seg_0046", "confidence": 1.0}
+{"chapter_id": "chapter_0057", "source_surface": "彭海", "target_surface": "Bành Hải", "entity_type": "person", "segment_id": "chapter_0057:seg_0011", "confidence": 1.0}
+{"chapter_id": "chapter_0057", "source_surface": "赵树德", "target_surface": "Triệu Thụ Đức", "entity_type": "person", "segment_id": "chapter_0057:seg_0007", "confidence": 1.0}
+{"chapter_id": "chapter_0057", "source_surface": "老者", "target_surface": "Lão giả", "entity_type": "person", "segment_id": "chapter_0057:seg_0025", "confidence": 1.0}
+{"chapter_id": "chapter_0057", "source_surface": "谢听弦", "target_surface": "Tạ Thính Huyền", "entity_type": "person", "segment_id": "chapter_0057:seg_0025", "confidence": 1.0}
+{"chapter_id": "chapter_0057", "source_surface": "丁铃铛", "target_surface": "Đinh Linh Đang", "entity_type": "person", "segment_id": "chapter_0057:seg_0031", "confidence": 1.0}
+{"chapter_id": "chapter_0057", "source_surface": "赤霄派", "target_surface": "Xích Tiêu Phái", "entity_type": "factions", "segment_id": "chapter_0057:seg_0004", "confidence": 1.0}
+{"chapter_id": "chapter_0057", "source_surface": "星云大学", "target_surface": "Đại học Tinh Vân", "entity_type": "factions", "segment_id": "chapter_0057:seg_0048", "confidence": 1.0}
+{"chapter_id": "chapter_0057", "source_surface": "深海大学", "target_surface": "Đại học Thâm Hải", "entity_type": "factions", "segment_id": "chapter_0057:seg_0025", "confidence": 1.0}
+{"chapter_id": "chapter_0057", "source_surface": "大荒战院", "target_surface": "Đại Hoang Chiến Viện", "entity_type": "factions", "segment_id": "chapter_0057:seg_0033", "confidence": 1.0}
+{"chapter_id": "chapter_0057", "source_surface": "辽远号", "target_surface": "Liêu Viễn Hào", "entity_type": "items", "segment_id": "chapter_0057:seg_0057", "confidence": 1.0}
+{"chapter_id": "chapter_0057", "source_surface": "灵子对撞机", "target_surface": "máy đối chàng linh tử", "entity_type": "items", "segment_id": "chapter_0057:seg_0048", "confidence": 1.0}
+{"chapter_id": "chapter_0058", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0058:seg_0018", "confidence": 1.0}
+{"chapter_id": "chapter_0058", "source_surface": "司佳雪", "target_surface": "Tiêu Giai Tuyết", "entity_type": "person", "segment_id": "chapter_0058:seg_0019", "confidence": 1.0}
+{"chapter_id": "chapter_0058", "source_surface": "赫连烈", "target_surface": "Hách Liên Liệt", "entity_type": "person", "segment_id": "chapter_0058:seg_0019", "confidence": 1.0}
+{"chapter_id": "chapter_0058", "source_surface": "郑东明", "target_surface": "Trịnh Đông Minh", "entity_type": "person", "segment_id": "chapter_0058:seg_0019", "confidence": 1.0}
+{"chapter_id": "chapter_0058", "source_surface": "魔蛟岛", "target_surface": "Đảo Ma Giao", "entity_type": "locations", "segment_id": "chapter_0058:seg_0008", "confidence": 1.0}
+{"chapter_id": "chapter_0058", "source_surface": "辽远号", "target_surface": "Liêu Viễn Hào", "entity_type": "items", "segment_id": "chapter_0058:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0059", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0059:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0059", "source_surface": "谢听弦", "target_surface": "Tạ Thính Huyền", "entity_type": "person", "segment_id": "chapter_0059:seg_0016", "confidence": 1.0}
+{"chapter_id": "chapter_0059", "source_surface": "丁铃铛", "target_surface": "Đinh Linh Đang", "entity_type": "person", "segment_id": "chapter_0059:seg_0016", "confidence": 1.0}
+{"chapter_id": "chapter_0059", "source_surface": "高野", "target_surface": "Cao Dã", "entity_type": "person", "segment_id": "chapter_0059:seg_0005", "confidence": 1.0}
+{"chapter_id": "chapter_0059", "source_surface": "魔蛟岛", "target_surface": "Đảo Ma Giao", "entity_type": "locations", "segment_id": "chapter_0059:seg_0006", "confidence": 1.0}
+{"chapter_id": "chapter_0060", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0060:seg_0007", "confidence": 1.0}
+{"chapter_id": "chapter_0060", "source_surface": "赫连烈", "target_surface": "Hách Liên Liệt", "entity_type": "person", "segment_id": "chapter_0060:seg_0034", "confidence": 1.0}
+{"chapter_id": "chapter_0060", "source_surface": "谢听弦", "target_surface": "Tạ Thính Huyền", "entity_type": "person", "segment_id": "chapter_0060:seg_0006", "confidence": 1.0}
+{"chapter_id": "chapter_0060", "source_surface": "高野", "target_surface": "Cao Dã", "entity_type": "person", "segment_id": "chapter_0060:seg_0040", "confidence": 1.0}
+{"chapter_id": "chapter_0060", "source_surface": "深海大学", "target_surface": "Đại học Thâm Hải", "entity_type": "factions", "segment_id": "chapter_0060:seg_0024", "confidence": 1.0}
+{"chapter_id": "chapter_0060", "source_surface": "浮戈城", "target_surface": "Phù Qua Thành", "entity_type": "locations", "segment_id": "chapter_0060:seg_0036", "confidence": 1.0}
+{"chapter_id": "chapter_0060", "source_surface": "魔蛟岛", "target_surface": "Đảo Ma Giao", "entity_type": "locations", "segment_id": "chapter_0060:seg_0027", "confidence": 1.0}
+{"chapter_id": "chapter_0061", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0061:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0061", "source_surface": "赫连烈", "target_surface": "Hách Liên Liệt", "entity_type": "person", "segment_id": "chapter_0061:seg_0003", "confidence": 1.0}
+{"chapter_id": "chapter_0061", "source_surface": "高野", "target_surface": "Cao Dã", "entity_type": "person", "segment_id": "chapter_0061:seg_0017", "confidence": 1.0}
+{"chapter_id": "chapter_0061", "source_surface": "魔蛟岛", "target_surface": "Đảo Ma Giao", "entity_type": "locations", "segment_id": "chapter_0061:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0061", "source_surface": "放弃", "target_surface": "Từ Bỏ", "entity_type": "items", "segment_id": "chapter_0061:seg_0040", "confidence": 1.0}
+{"chapter_id": "chapter_0062", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0062:seg_0007", "confidence": 1.0}
+{"chapter_id": "chapter_0062", "source_surface": "赫连烈", "target_surface": "Hách Liên Liệt", "entity_type": "person", "segment_id": "chapter_0062:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0062", "source_surface": "高野", "target_surface": "Cao Dã", "entity_type": "person", "segment_id": "chapter_0062:seg_0003", "confidence": 1.0}
+{"chapter_id": "chapter_0062", "source_surface": "闪光符阵", "target_surface": "trận pháp chớp sáng", "entity_type": "techniques", "segment_id": "chapter_0062:seg_0009", "confidence": 1.0}
+{"chapter_id": "chapter_0063", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0063:seg_0019", "confidence": 1.0}
+{"chapter_id": "chapter_0063", "source_surface": "赫连烈", "target_surface": "Hách Liên Liệt", "entity_type": "person", "segment_id": "chapter_0063:seg_0022", "confidence": 1.0}
+{"chapter_id": "chapter_0063", "source_surface": "郑东明", "target_surface": "Trịnh Đông Minh", "entity_type": "person", "segment_id": "chapter_0063:seg_0043", "confidence": 1.0}
+{"chapter_id": "chapter_0063", "source_surface": "谢听弦", "target_surface": "Tạ Thính Huyền", "entity_type": "person", "segment_id": "chapter_0063:seg_0035", "confidence": 1.0}
+{"chapter_id": "chapter_0063", "source_surface": "丁铃铛", "target_surface": "Đinh Linh Đang", "entity_type": "person", "segment_id": "chapter_0063:seg_0036", "confidence": 1.0}
+{"chapter_id": "chapter_0063", "source_surface": "高野", "target_surface": "Cao Dã", "entity_type": "person", "segment_id": "chapter_0063:seg_0006", "confidence": 1.0}
+{"chapter_id": "chapter_0063", "source_surface": "星云大学", "target_surface": "Đại học Tinh Vân", "entity_type": "factions", "segment_id": "chapter_0063:seg_0031", "confidence": 1.0}
+{"chapter_id": "chapter_0063", "source_surface": "联邦第一军事学院", "target_surface": "Học viện Quân sự Số 1 Liên bang", "entity_type": "factions", "segment_id": "chapter_0063:seg_0029", "confidence": 1.0}
+{"chapter_id": "chapter_0063", "source_surface": "天都医学院", "target_surface": "Học viện Y khoa Thiên Đô", "entity_type": "factions", "segment_id": "chapter_0063:seg_0032", "confidence": 1.0}
+{"chapter_id": "chapter_0063", "source_surface": "大荒战院", "target_surface": "Đại Hoang Chiến Viện", "entity_type": "factions", "segment_id": "chapter_0063:seg_0037", "confidence": 1.0}
+{"chapter_id": "chapter_0063", "source_surface": "浮戈城", "target_surface": "Phù Qua Thành", "entity_type": "locations", "segment_id": "chapter_0063:seg_0043", "confidence": 1.0}
+{"chapter_id": "chapter_0063", "source_surface": "魔蛟岛", "target_surface": "Đảo Ma Giao", "entity_type": "locations", "segment_id": "chapter_0063:seg_0003", "confidence": 1.0}
+{"chapter_id": "chapter_0063", "source_surface": "辽远号", "target_surface": "Liêu Viễn Hào", "entity_type": "items", "segment_id": "chapter_0063:seg_0021", "confidence": 1.0}
+{"chapter_id": "chapter_0064", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0064:seg_0004", "confidence": 1.0}
+{"chapter_id": "chapter_0064", "source_surface": "赫连烈", "target_surface": "Hách Liên Liệt", "entity_type": "person", "segment_id": "chapter_0064:seg_0003", "confidence": 1.0}
+{"chapter_id": "chapter_0064", "source_surface": "高野", "target_surface": "Cao Dã", "entity_type": "person", "segment_id": "chapter_0064:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0064", "source_surface": "深海大学", "target_surface": "Đại học Thâm Hải", "entity_type": "factions", "segment_id": "chapter_0064:seg_0025", "confidence": 1.0}
+{"chapter_id": "chapter_0064", "source_surface": "浮戈城", "target_surface": "Phù Qua Thành", "entity_type": "locations", "segment_id": "chapter_0064:seg_0005", "confidence": 1.0}
+{"chapter_id": "chapter_0064", "source_surface": "魔蛟岛", "target_surface": "Đảo Ma Giao", "entity_type": "locations", "segment_id": "chapter_0064:seg_0018", "confidence": 1.0}
+{"chapter_id": "chapter_0064", "source_surface": "辽远号", "target_surface": "Liêu Viễn Hào", "entity_type": "items", "segment_id": "chapter_0064:seg_0035", "confidence": 1.0}
+{"chapter_id": "chapter_0065", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0065:seg_0049", "confidence": 1.0}
+{"chapter_id": "chapter_0065", "source_surface": "赫连烈", "target_surface": "Hách Liên Liệt", "entity_type": "person", "segment_id": "chapter_0065:seg_0058", "confidence": 1.0}
+{"chapter_id": "chapter_0065", "source_surface": "郑东明", "target_surface": "Trịnh Đông Minh", "entity_type": "person", "segment_id": "chapter_0065:seg_0057", "confidence": 1.0}
+{"chapter_id": "chapter_0065", "source_surface": "周隐", "target_surface": "Chu Ẩn", "entity_type": "person", "segment_id": "chapter_0065:seg_0014", "confidence": 1.0}
+{"chapter_id": "chapter_0065", "source_surface": "深海大学", "target_surface": "Đại học Thâm Hải", "entity_type": "factions", "segment_id": "chapter_0065:seg_0053", "confidence": 1.0}
+{"chapter_id": "chapter_0065", "source_surface": "魔蛟岛", "target_surface": "Đảo Ma Giao", "entity_type": "locations", "segment_id": "chapter_0065:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0065", "source_surface": "辽远号", "target_surface": "Liêu Viễn Hào", "entity_type": "items", "segment_id": "chapter_0065:seg_0012", "confidence": 1.0}
+{"chapter_id": "chapter_0066", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0066:seg_0003", "confidence": 1.0}
+{"chapter_id": "chapter_0066", "source_surface": "郑东明", "target_surface": "Trịnh Đông Minh", "entity_type": "person", "segment_id": "chapter_0066:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0066", "source_surface": "魔蛟岛", "target_surface": "Đảo Ma Giao", "entity_type": "locations", "segment_id": "chapter_0066:seg_0005", "confidence": 1.0}
+{"chapter_id": "chapter_0066", "source_surface": "辽远号", "target_surface": "Liêu Viễn Hào", "entity_type": "items", "segment_id": "chapter_0066:seg_0030", "confidence": 1.0}
+{"chapter_id": "chapter_0067", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0067:seg_0004", "confidence": 1.0}
+{"chapter_id": "chapter_0067", "source_surface": "帝皇", "target_surface": "Đế Hoàng", "entity_type": "person", "segment_id": "chapter_0067:seg_0015", "confidence": 1.0}
+{"chapter_id": "chapter_0067", "source_surface": "郑东明", "target_surface": "Trịnh Đông Minh", "entity_type": "person", "segment_id": "chapter_0067:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0067", "source_surface": "魔道", "target_surface": "Ma đạo", "entity_type": "factions", "segment_id": "chapter_0067:seg_0045", "confidence": 1.0}
+{"chapter_id": "chapter_0067", "source_surface": "放弃", "target_surface": "Từ Bỏ", "entity_type": "items", "segment_id": "chapter_0067:seg_0005", "confidence": 1.0}
+{"chapter_id": "chapter_0068", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0068:seg_0005", "confidence": 1.0}
+{"chapter_id": "chapter_0068", "source_surface": "郑东明", "target_surface": "Trịnh Đông Minh", "entity_type": "person", "segment_id": "chapter_0068:seg_0003", "confidence": 1.0}
+{"chapter_id": "chapter_0068", "source_surface": "魔道", "target_surface": "Ma đạo", "entity_type": "factions", "segment_id": "chapter_0068:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0068", "source_surface": "天魔煞血炮", "target_surface": "Thiên Ma Sát Huyết Pháo", "entity_type": "techniques", "segment_id": "chapter_0068:seg_0003", "confidence": 1.0}
+{"chapter_id": "chapter_0068", "source_surface": "辽远号", "target_surface": "Liêu Viễn Hào", "entity_type": "items", "segment_id": "chapter_0068:seg_0031", "confidence": 1.0}
+{"chapter_id": "chapter_0069", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0069:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0069", "source_surface": "欧冶明", "target_surface": "Âu Dã Minh", "entity_type": "person", "segment_id": "chapter_0069:seg_0004", "confidence": 1.0}
+{"chapter_id": "chapter_0069", "source_surface": "巨灵神", "target_surface": "Cự Linh Thần", "entity_type": "person", "segment_id": "chapter_0069:seg_0012", "confidence": 1.0}
+{"chapter_id": "chapter_0069", "source_surface": "百炼宗", "target_surface": "Bách Luyện Tông", "entity_type": "factions", "segment_id": "chapter_0069:seg_0004", "confidence": 1.0}
+{"chapter_id": "chapter_0069", "source_surface": "魔道", "target_surface": "Ma đạo", "entity_type": "factions", "segment_id": "chapter_0069:seg_0015", "confidence": 1.0}
+{"chapter_id": "chapter_0069", "source_surface": "魔门", "target_surface": "Ma Môn", "entity_type": "factions", "segment_id": "chapter_0069:seg_0005", "confidence": 1.0}
+{"chapter_id": "chapter_0069", "source_surface": "一百零八手披风乱锤法", "target_surface": "Một trăm lẻ tám thức Phách Phong Loạn Chùy Pháp", "entity_type": "techniques", "segment_id": "chapter_0069:seg_0032", "confidence": 1.0}
+{"chapter_id": "chapter_0070", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0070:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0070", "source_surface": "赵树德", "target_surface": "Triệu Thụ Đức", "entity_type": "person", "segment_id": "chapter_0070:seg_0038", "confidence": 1.0}
+{"chapter_id": "chapter_0070", "source_surface": "司佳雪", "target_surface": "Tiêu Giai Tuyết", "entity_type": "person", "segment_id": "chapter_0070:seg_0057", "confidence": 1.0}
+{"chapter_id": "chapter_0070", "source_surface": "赫连烈", "target_surface": "Hách Liên Liệt", "entity_type": "person", "segment_id": "chapter_0070:seg_0057", "confidence": 1.0}
+{"chapter_id": "chapter_0070", "source_surface": "周隐", "target_surface": "Chu Ẩn", "entity_type": "person", "segment_id": "chapter_0070:seg_0054", "confidence": 1.0}
+{"chapter_id": "chapter_0070", "source_surface": "谢听弦", "target_surface": "Tạ Thính Huyền", "entity_type": "person", "segment_id": "chapter_0070:seg_0038", "confidence": 1.0}
+{"chapter_id": "chapter_0070", "source_surface": "赤霄派", "target_surface": "Xích Tiêu Phái", "entity_type": "factions", "segment_id": "chapter_0070:seg_0054", "confidence": 1.0}
+{"chapter_id": "chapter_0070", "source_surface": "一百零八手披风乱锤法", "target_surface": "Một trăm lẻ tám thức Phách Phong Loạn Chùy Pháp", "entity_type": "techniques", "segment_id": "chapter_0070:seg_0008", "confidence": 1.0}
+{"chapter_id": "chapter_0070", "source_surface": "强化药剂", "target_surface": "Dược chất cường hóa Linh Căn", "entity_type": "cultivation_resources", "segment_id": "chapter_0070:seg_0016", "confidence": 1.0}
+{"chapter_id": "chapter_0070", "source_surface": "浮戈城", "target_surface": "Phù Qua Thành", "entity_type": "locations", "segment_id": "chapter_0070:seg_0019", "confidence": 1.0}
+{"chapter_id": "chapter_0070", "source_surface": "魔蛟岛", "target_surface": "Đảo Ma Giao", "entity_type": "locations", "segment_id": "chapter_0070:seg_0011", "confidence": 1.0}
+{"chapter_id": "chapter_0070", "source_surface": "鬼龙7号", "target_surface": "Quỷ Long số 7", "entity_type": "items", "segment_id": "chapter_0070:seg_0016", "confidence": 1.0}
+{"chapter_id": "chapter_0071", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0071:seg_0003", "confidence": 1.0}
+{"chapter_id": "chapter_0071", "source_surface": "彭海", "target_surface": "Bành Hải", "entity_type": "person", "segment_id": "chapter_0071:seg_0046", "confidence": 1.0}
+{"chapter_id": "chapter_0071", "source_surface": "巨灵神", "target_surface": "Cự Linh Thần", "entity_type": "person", "segment_id": "chapter_0071:seg_0026", "confidence": 1.0}
+{"chapter_id": "chapter_0071", "source_surface": "谢听弦", "target_surface": "Tạ Thính Huyền", "entity_type": "person", "segment_id": "chapter_0071:seg_0004", "confidence": 1.0}
+{"chapter_id": "chapter_0071", "source_surface": "丁铃铛", "target_surface": "Đinh Linh Đang", "entity_type": "person", "segment_id": "chapter_0071:seg_0017", "confidence": 1.0}
+{"chapter_id": "chapter_0071", "source_surface": "顾医生", "target_surface": "bác sĩ Cố", "entity_type": "person", "segment_id": "chapter_0071:seg_0004", "confidence": 1.0}
+{"chapter_id": "chapter_0071", "source_surface": "百炼宗", "target_surface": "Bách Luyện Tông", "entity_type": "factions", "segment_id": "chapter_0071:seg_0025", "confidence": 1.0}
+{"chapter_id": "chapter_0071", "source_surface": "深海大学", "target_surface": "Đại học Thâm Hải", "entity_type": "factions", "segment_id": "chapter_0071:seg_0005", "confidence": 1.0}
+{"chapter_id": "chapter_0071", "source_surface": "一百零八手披风乱锤法", "target_surface": "Một trăm lẻ tám thức Phách Phong Loạn Chùy Pháp", "entity_type": "techniques", "segment_id": "chapter_0071:seg_0026", "confidence": 1.0}
+{"chapter_id": "chapter_0071", "source_surface": "透心锤", "target_surface": "Thấu Tâm Chùy", "entity_type": "techniques", "segment_id": "chapter_0071:seg_0067", "confidence": 1.0}
+{"chapter_id": "chapter_0071", "source_surface": "浮戈城", "target_surface": "Phù Qua Thành", "entity_type": "locations", "segment_id": "chapter_0071:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0071", "source_surface": "星空巨兽肉罐头", "target_surface": "Thịt hộp Tinh Không Cự Thú", "entity_type": "items", "segment_id": "chapter_0071:seg_0069", "confidence": 1.0}
+{"chapter_id": "chapter_0071", "source_surface": "灵鹤传书", "target_surface": "Linh Hạc Truyền Thư", "entity_type": "items", "segment_id": "chapter_0071:seg_0012", "confidence": 1.0}
+{"chapter_id": "chapter_0072", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0072:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0072", "source_surface": "顾医生", "target_surface": "bác sĩ Cố", "entity_type": "person", "segment_id": "chapter_0072:seg_0025", "confidence": 1.0}
+{"chapter_id": "chapter_0072", "source_surface": "鲸吞大法", "target_surface": "Kình Thôn Đại Pháp", "entity_type": "techniques", "segment_id": "chapter_0072:seg_0007", "confidence": 1.0}
+{"chapter_id": "chapter_0072", "source_surface": "浮戈城", "target_surface": "Phù Qua Thành", "entity_type": "locations", "segment_id": "chapter_0072:seg_0005", "confidence": 1.0}
+{"chapter_id": "chapter_0072", "source_surface": "魔蛟岛", "target_surface": "Đảo Ma Giao", "entity_type": "locations", "segment_id": "chapter_0072:seg_0042", "confidence": 1.0}
+{"chapter_id": "chapter_0072", "source_surface": "放弃", "target_surface": "Từ Bỏ", "entity_type": "items", "segment_id": "chapter_0072:seg_0010", "confidence": 1.0}
+{"chapter_id": "chapter_0073", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0073:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0073", "source_surface": "孟江", "target_surface": "Mạnh Giang", "entity_type": "person", "segment_id": "chapter_0073:seg_0053", "confidence": 1.0}
+{"chapter_id": "chapter_0073", "source_surface": "谢听弦", "target_surface": "Tạ Thính Huyền", "entity_type": "person", "segment_id": "chapter_0073:seg_0056", "confidence": 1.0}
+{"chapter_id": "chapter_0073", "source_surface": "顾医生", "target_surface": "bác sĩ Cố", "entity_type": "person", "segment_id": "chapter_0073:seg_0020", "confidence": 1.0}
+{"chapter_id": "chapter_0073", "source_surface": "百炼宗", "target_surface": "Bách Luyện Tông", "entity_type": "factions", "segment_id": "chapter_0073:seg_0040", "confidence": 1.0}
+{"chapter_id": "chapter_0073", "source_surface": "联邦第一军事学院", "target_surface": "Học viện Quân sự Số 1 Liên bang", "entity_type": "factions", "segment_id": "chapter_0073:seg_0005", "confidence": 1.0}
+{"chapter_id": "chapter_0073", "source_surface": "深海大学", "target_surface": "Đại học Thâm Hải", "entity_type": "factions", "segment_id": "chapter_0073:seg_0037", "confidence": 1.0}
+{"chapter_id": "chapter_0073", "source_surface": "联邦伤残军人协会", "target_surface": "Hiệp hội Thương binh Liên bang", "entity_type": "factions", "segment_id": "chapter_0073:seg_0006", "confidence": 1.0}
+{"chapter_id": "chapter_0073", "source_surface": "放弃", "target_surface": "Từ Bỏ", "entity_type": "items", "segment_id": "chapter_0073:seg_0037", "confidence": 1.0}
+{"chapter_id": "chapter_0073", "source_surface": "灵鹤传书", "target_surface": "Linh Hạc Truyền Thư", "entity_type": "items", "segment_id": "chapter_0073:seg_0051", "confidence": 1.0}
+{"chapter_id": "chapter_0073", "source_surface": "惊鸿", "target_surface": "Kinh Hồng", "entity_type": "items", "segment_id": "chapter_0073:seg_0044", "confidence": 1.0}
+{"chapter_id": "chapter_0073", "source_surface": "屠蛟", "target_surface": "Đồ Giao", "entity_type": "items", "segment_id": "chapter_0073:seg_0044", "confidence": 1.0}
+{"chapter_id": "chapter_0073", "source_surface": "噬魂", "target_surface": "Phệ Hồn", "entity_type": "items", "segment_id": "chapter_0073:seg_0044", "confidence": 1.0}
+{"chapter_id": "chapter_0074", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0074:seg_0003", "confidence": 1.0}
+{"chapter_id": "chapter_0074", "source_surface": "赵树德", "target_surface": "Triệu Thụ Đức", "entity_type": "person", "segment_id": "chapter_0074:seg_0019", "confidence": 1.0}
+{"chapter_id": "chapter_0074", "source_surface": "赫连烈", "target_surface": "Hách Liên Liệt", "entity_type": "person", "segment_id": "chapter_0074:seg_0049", "confidence": 1.0}
+{"chapter_id": "chapter_0074", "source_surface": "谢听弦", "target_surface": "Tạ Thính Huyền", "entity_type": "person", "segment_id": "chapter_0074:seg_0004", "confidence": 1.0}
+{"chapter_id": "chapter_0074", "source_surface": "赤霄派", "target_surface": "Xích Tiêu Phái", "entity_type": "factions", "segment_id": "chapter_0074:seg_0019", "confidence": 1.0}
+{"chapter_id": "chapter_0074", "source_surface": "深海大学", "target_surface": "Đại học Thâm Hải", "entity_type": "factions", "segment_id": "chapter_0074:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0074", "source_surface": "魔蛟岛", "target_surface": "Đảo Ma Giao", "entity_type": "locations", "segment_id": "chapter_0074:seg_0019", "confidence": 1.0}
+{"chapter_id": "chapter_0074", "source_surface": "灵鹤传书", "target_surface": "Linh Hạc Truyền Thư", "entity_type": "items", "segment_id": "chapter_0074:seg_0010", "confidence": 1.0}
+{"chapter_id": "chapter_0075", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0075:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0075", "source_surface": "赵树德", "target_surface": "Triệu Thụ Đức", "entity_type": "person", "segment_id": "chapter_0075:seg_0047", "confidence": 1.0}
+{"chapter_id": "chapter_0075", "source_surface": "黑面神", "target_surface": "Hắc Diện Thần", "entity_type": "person", "segment_id": "chapter_0075:seg_0021", "confidence": 1.0}
+{"chapter_id": "chapter_0075", "source_surface": "赫连烈", "target_surface": "Hách Liên Liệt", "entity_type": "person", "segment_id": "chapter_0075:seg_0003", "confidence": 1.0}
+{"chapter_id": "chapter_0075", "source_surface": "郑东明", "target_surface": "Trịnh Đông Minh", "entity_type": "person", "segment_id": "chapter_0075:seg_0006", "confidence": 1.0}
+{"chapter_id": "chapter_0075", "source_surface": "赤霄派", "target_surface": "Xích Tiêu Phái", "entity_type": "factions", "segment_id": "chapter_0075:seg_0033", "confidence": 1.0}
+{"chapter_id": "chapter_0075", "source_surface": "星云大学", "target_surface": "Đại học Tinh Vân", "entity_type": "factions", "segment_id": "chapter_0075:seg_0033", "confidence": 1.0}
+{"chapter_id": "chapter_0075", "source_surface": "深海大学", "target_surface": "Đại học Thâm Hải", "entity_type": "factions", "segment_id": "chapter_0075:seg_0033", "confidence": 1.0}
+{"chapter_id": "chapter_0075", "source_surface": "浮戈城", "target_surface": "Phù Qua Thành", "entity_type": "locations", "segment_id": "chapter_0075:seg_0029", "confidence": 1.0}
+{"chapter_id": "chapter_0075", "source_surface": "魔蛟岛", "target_surface": "Đảo Ma Giao", "entity_type": "locations", "segment_id": "chapter_0075:seg_0011", "confidence": 1.0}
+{"chapter_id": "chapter_0076", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0076:seg_0002", "confidence": 1.0}
+{"chapter_id": "chapter_0076", "source_surface": "肥龙", "target_surface": "Phì Long", "entity_type": "person", "segment_id": "chapter_0076:seg_0020", "confidence": 1.0}
+{"chapter_id": "chapter_0076", "source_surface": "赫连烈", "target_surface": "Hách Liên Liệt", "entity_type": "person", "segment_id": "chapter_0076:seg_0004", "confidence": 1.0}
+{"chapter_id": "chapter_0076", "source_surface": "孙彪", "target_surface": "Tôn Bưu", "entity_type": "person", "segment_id": "chapter_0076:seg_0003", "confidence": 1.0}
+{"chapter_id": "chapter_0076", "source_surface": "深海大学", "target_surface": "Đại học Thâm Hải", "entity_type": "factions", "segment_id": "chapter_0076:seg_0006", "confidence": 1.0}
+{"chapter_id": "chapter_0076", "source_surface": "透心锤", "target_surface": "Thấu Tâm Chùy", "entity_type": "techniques", "segment_id": "chapter_0076:seg_0043", "confidence": 1.0}
+{"chapter_id": "chapter_0076", "source_surface": "法宝坟墓", "target_surface": "Nghĩa địa Pháp Bảo", "entity_type": "locations", "segment_id": "chapter_0076:seg_0020", "confidence": 1.0}
+{"chapter_id": "chapter_0076", "source_surface": "浮戈城", "target_surface": "Phù Qua Thành", "entity_type": "locations", "segment_id": "chapter_0076:seg_0025", "confidence": 1.0}
+{"chapter_id": "chapter_0076", "source_surface": "魔蛟岛", "target_surface": "Đảo Ma Giao", "entity_type": "locations", "segment_id": "chapter_0076:seg_0016", "confidence": 1.0}
+{"chapter_id": "chapter_0077", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0077:seg_0009", "confidence": 1.0}
+{"chapter_id": "chapter_0077", "source_surface": "彭海", "target_surface": "Bành Hải", "entity_type": "person", "segment_id": "chapter_0077:seg_0028", "confidence": 1.0}
+{"chapter_id": "chapter_0077", "source_surface": "赵树德", "target_surface": "Triệu Thụ Đức", "entity_type": "person", "segment_id": "chapter_0077:seg_0069", "confidence": 1.0}
+{"chapter_id": "chapter_0077", "source_surface": "黑面神", "target_surface": "Hắc Diện Thần", "entity_type": "person", "segment_id": "chapter_0077:seg_0069", "confidence": 1.0}
+{"chapter_id": "chapter_0077", "source_surface": "赫连烈", "target_surface": "Hách Liên Liệt", "entity_type": "person", "segment_id": "chapter_0077:seg_0006", "confidence": 1.0}
+{"chapter_id": "chapter_0077", "source_surface": "赫连霸", "target_surface": "Hách Liên Bá", "entity_type": "person", "segment_id": "chapter_0077:seg_0071", "confidence": 1.0}
+{"chapter_id": "chapter_0077", "source_surface": "丁铃铛", "target_surface": "Đinh Linh Đang", "entity_type": "person", "segment_id": "chapter_0077:seg_0047", "confidence": 1.0}
+{"chapter_id": "chapter_0077", "source_surface": "浮戈城", "target_surface": "Phù Qua Thành", "entity_type": "locations", "segment_id": "chapter_0077:seg_0050", "confidence": 1.0}
+{"chapter_id": "chapter_0077", "source_surface": "魔蛟岛", "target_surface": "Đảo Ma Giao", "entity_type": "locations", "segment_id": "chapter_0077:seg_0013", "confidence": 1.0}
+{"chapter_id": "chapter_0077", "source_surface": "极东海", "target_surface": "Cực Đông Hải", "entity_type": "locations", "segment_id": "chapter_0077:seg_0050", "confidence": 1.0}
+{"chapter_id": "chapter_0078", "source_surface": "李耀", "target_surface": "Lý Diệu", "entity_type": "person", "segment_id": "chapter_0078:seg_0005", "confidence": 1.0}
+{"chapter_id": "chapter_0078", "source_surface": "丁铃铛", "target_surface": "Đinh Linh Đang", "entity_type": "person", "segment_id": "chapter_0078:seg_0003", "confidence": 1.0}
+{"chapter_id": "chapter_0078", "source_surface": "浮戈城", "target_surface": "Phù Qua Thành", "entity_type": "locations", "segment_id": "chapter_0078:seg_0025", "confidence": 1.0}
+{"chapter_id": "chapter_0078", "source_surface": "鬼饮食", "target_surface": "Quỷ ẩm thực", "entity_type": "items", "segment_id": "chapter_0078:seg_0037", "confidence": 1.0}
+{"chapter_id": "chapter_0078", "source_surface": "赤焰战梭", "target_surface": "Xích Diễm Chiến Toa", "entity_type": "items", "segment_id": "chapter_0078:seg_0004", "confidence": 1.0}

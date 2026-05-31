@@ -1,0 +1,1045 @@
+{
+  "schema_version": "2.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 68,
+  "chapter_id": "chapter_0068",
+  "source_manifest_hash": "0486b453907894ef9d01b14a1033a136fab58bf958c4ba142c8cf9fc1a1fa9d5",
+  "aligned_segments": [
+    {
+      "alignment_id": "chapter_0068:align_0001",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0001"
+      ],
+      "source": "# 68.第68章 灭不灭口？",
+      "source_hash": "18ea23716e197010422e034f521296a904269ed5c1167726ced1e28114f50ae9",
+      "target": "# Chương 0068 - Diệt Khẩu Hay Không Diệt Khẩu?",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0002",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0002"
+      ],
+      "source": "“我不是修魔者，你在教科书上应该学到过，‘一日入魔，终身是魔’，堕入魔道，被幽能荡涤之后，人就会丧失心智，变成域外天魔的傀儡，周身缭绕着强大无匹的幽能，绝不会是我现在这个样子！”",
+      "source_hash": "c76d637f2e1e2ef6f93a5996e98701cba183d2df7ec273e4aa57ac5933c377f6",
+      "target": "“Tôi không phải là Tu Ma Giả. Cậu hẳn đã từng được học trong sách giáo khoa rồi đấy thôi, ‘một ngày nhập ma, cả đời là ma’. Người đọa vào ma đạo, sau khi bị u năng gột rửa thì sẽ lập tức đánh mất lý trí, trở thành con rối của Vực Ngoại Thiên Ma, quanh thân sẽ luôn tràn ngập luồng u năng vô địch hung hãn, tuyệt đối không thể có dáng vẻ như tôi lúc này được!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0003",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0003"
+      ],
+      "source": "郑东明忽然飞快道，“你看，除了释放出‘天魔煞血炮’的一刹那之外，我周身并没有幽能缠绕，神智也很清楚，绝不是入魔的样子！我只是……有些奇遇，能够同时修炼灵能和幽能罢了！”",
+      "source_hash": "80b9c496aa85694438abd42b0b1c39d4f9e1cd957ff43ff1bacdd2e7b0ecf086",
+      "target": "Trịnh Đông Minh thình lình nói nhanh như thoắt: “Cậu nhìn xem, ngoại trừ tích tắc phóng ra ‘Thiên Ma Sát Huyết Pháo’ kia, quanh thân tôi đâu có u năng bao quanh, thần trí cũng vô cùng tỉnh táo, hoàn toàn không phải là dáng vẻ của kẻ nhập ma! Tôi chẳng qua chỉ là... có chút kỳ ngộ, có thể đồng thời tu luyện cả linh năng lẫn u năng mà thôi!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0004",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0004"
+      ],
+      "source": "“哦？”",
+      "source_hash": "1193343d7c46cead1f51bdbff847baf302a4e6b8bc6cbd0fef05a77949b0fcc9",
+      "target": "“Ồ?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0005",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0005"
+      ],
+      "source": "李耀神色不变，认真道，“郑大少，你搞错了一点——我之所以要杀你，并非因为你是修魔者，而是因为……我无意间撞破了你的大秘密，为了不让身份或者奇遇暴露，等你恢复过来，肯定会杀我灭口，我想保住小命，不得不先下手为强啊！”",
+      "source_hash": "89c0540f21eff8ae80d5ae0a381b008786390e6ef974accdfdfad2ce9a2224d1",
+      "target": "Lý Diệu vẻ mặt không đổi, nghiêm túc bảo: “Trịnh đại thiếu gia, cậu hiểu sai một điểm rồi——lý do tôi muốn giết cậu không phải bởi cậu là Tu Ma Giả, mà là vì... tôi đã vô tình phát giác ra bí mật động trời của cậu. Để tránh cho thân phận hay kỳ ngộ bị bại lộ, đợi khi cậu hồi phục lại chắc chắn sẽ giết tôi diệt khẩu. Tôi muốn bảo toàn tính mạng của mình thì đành phải ra tay trước để chiếm ưu thế thôi!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0006",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0006"
+      ],
+      "source": "顿了一顿，李耀叹了口气，“希望你能明白，我们两个并没有私人恩怨，本来大家真的能成为不错的猪朋狗友也未可知，但是现在……”",
+      "source_hash": "adb189f0c0d669d660fd4e5d1750cd30feaad1444ebff82243eccf6309512491",
+      "target": "Ngập ngừng một lát, Lý Diệu thở dài: “Hy vọng cậu hiểu cho, giữa hai chúng ta chẳng có oán thù cá nhân gì. Vốn dĩ mọi người hoàn toàn có thể trở thành lũ bạn bè tồi của nhau cũng nên, thế nhưng bây giờ...”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0007",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0007"
+      ],
+      "source": "他摇了摇头，举起焚天战斧。",
+      "source_hash": "bc02c184ab5bad37ca933a2358b1aae563f9cf346ca794733f4476aecbe49010",
+      "target": "Cậu lắc đầu, giơ cây rìu chiến Phần Thiên lên.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0008",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0008"
+      ],
+      "source": "郑东明神色一变，急促道：“如果你真想保住小命，就更不应该杀我，能不能给我一分钟时间解释清楚？”",
+      "source_hash": "a074fc154ca71fe1c84926e79955b7e8bf72a0df5923b3990f5512cc62dc0bac",
+      "target": "Sắc mặt Trịnh Đông Minh thay đổi hẳn, gã vội vã nói: “Nếu cậu thực sự muốn giữ mạng nhỏ thì lại càng không nên giết tôi, liệu có thể cho tôi một phút để giải thích rõ ràng không?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0009",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0009"
+      ],
+      "source": "李耀眯起眼睛，眼中精芒四射，神念高速飞转，计算力飙至极限，片刻之后道：",
+      "source_hash": "8ec4a1e2ca5bf7ae62a8988a2455231f2c78b9136cf945879e3e582b9b5ba7db",
+      "target": "Lý Diệu nheo mắt lại, trong mắt tia sáng lóe lên, thần niệm xoay chuyển cực nhanh, năng lực tính toán đẩy lên tới cực hạn, một lát sau mới lên tiếng:",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0010",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0010"
+      ],
+      "source": "“三十秒！”",
+      "source_hash": "7947e64a87da26245629e9158d6bc6c4ef5e0f1a61a1cc6e0039b5ee24f3ab0e",
+      "target": "“Ba mươi giây!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0011",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0011"
+      ],
+      "source": "郑东明没有半秒钟犹豫，连珠炮一般脱口而出：“第一，你要杀我，无非是怕我事后杀人灭口！但你斩杀了这头巨目猿，可以说是我的救命恩人，我郑东明再混蛋，又怎么会对救命恩人下手？”",
+      "source_hash": "7305cbb65d7faedfbd0c0b85fdb232f4636d5e66cffb6895d920044d70773dcc",
+      "target": "Trịnh Đông Minh không hề chần chừ lấy nửa giây, nói liên thanh như súng liên thanh: “Thứ nhất, cậu muốn giết tôi chẳng qua là sợ tôi sau này ra tay diệt khẩu! Thế nhưng cậu đã chém chết con Vượn Khổng Nhãn này, có thể coi là ân nhân cứu mạng của tôi. Tôi Trịnh Đông Minh dù có khốn nạn đến đâu cũng không thể ra tay với chính ân nhân cứu mạng của mình chứ?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0012",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0012"
+      ],
+      "source": "“废话！还有二十五秒！”",
+      "source_hash": "f14c81bf47598eb507aa600073d4daaff6b2fb451311eae3e5422c1a3310ac91",
+      "target": "“Nói nhảm! Còn hai mươi lăm giây!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0013",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0013"
+      ],
+      "source": "“第二，你推测我的杀人动机，是我为了保住自己能修炼幽能的秘密，所以才要杀人灭口！但杀你是没用的，因为李耀同学你现在位列积分榜第一，已经是小有名气的希望之星，‘九大’之中都有不少双眼睛注视着你！再加上你自己肯定也有一番奇遇，实力飙升的速度比我还快，要灭你口，不是那么容易，肯定要动用大量资源和势力！”",
+      "source_hash": "337cde8ddf703de878aac4a66f28ef38e0ebc4137e4f87a1b69294e4ac06df3d",
+      "target": "“Thứ hai, cậu suy đoán động cơ giết người của tôi là để giữ kín bí mật bản thân tu luyện u năng, nên mới phải diệt khẩu cậu! Thế nhưng giết cậu là vô ích, bởi vì bạn học Lý Diệu hiện giờ đang đứng đầu bảng xếp hạng điểm số, đã là một ngôi sao hy vọng có chút tiếng tăm rồi, trong ‘Chín trường hàng đầu’ có không ít cặp mắt đang chú ý tới cậu! Thêm vào đó bản thân cậu chắc chắn cũng có kỳ ngộ phi thường, tốc độ tăng thực lực còn nhanh hơn cả tôi, muốn diệt khẩu cậu đâu phải chuyện dễ, chắc chắn phải huy động một lượng tài nguyên và thế lực khổng lồ!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0014",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0014"
+      ],
+      "source": "“你们郑家，岂不是就有大量资源和势力？”李耀冷冷道。",
+      "source_hash": "39e08956d6a0246488ca6acad1cb3d0c006116dc3898d3b5c21753ff68c5266a",
+      "target": "“Chẳng phải nhà họ Trịnh các người có thừa tài nguyên và thế lực đó sao?” Lý Diệu lạnh lùng nói.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0015",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0015"
+      ],
+      "source": "郑东明苦笑一声，道：“动用大量资源来杀你，并不是问题，问题是理由呢？没错，郑家有好几名炼气期修真者，甚至还有两名筑基期的强者，但都是我的叔伯辈，甚至祖辈！我请他们来杀你，人家问我理由，我怎么说？难道直说你撞破了我修炼幽能的秘密？这样的话，不劳别人动手，这些叔伯爷爷就直接清理门户，把我干掉了！”",
+      "source_hash": "d8efde43feae14644fdbc621b67c6261dc4be1281c7d3ceb93a477a9e83a4e09",
+      "target": "Trịnh Đông Minh cười khổ một tiếng, phân trần: “Huy động lượng lớn tài nguyên để giết cậu không phải là vấn đề, nhưng vấn đề là lý do kìa? Đúng vậy, nhà họ Trịnh có vài vị Tu Chân Giả Luyện Khí Kỳ, thậm chí có hai vị cường giả Trúc Cơ Kỳ, nhưng đều là hàng cô chú bác, thậm chí là ông cha của tôi! Tôi đi nhờ họ tới giết cậu, người ta hỏi lý do thì tôi biết nói thế nào? Chẳng lẽ lại nói thẳng là cậu đã phát hiện ra bí mật tôi tu luyện u năng? Nếu thế thì chẳng cần người ngoài động tay, đám cô chú bác ông cha này sẽ trực tiếp thanh lý môn hộ, đập chết tôi luôn!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0016",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0016"
+      ],
+      "source": "“有道理，这一条为你多争取了十秒钟，继续说吧！”李耀紧握焚天战斧，丝毫不放松。",
+      "source_hash": "8fa0775fdddf6c8ef7ab76621889ac072fd285ce17f5f4102b98387f9f338f5d",
+      "target": "“Có lý, điều này giúp cậu có thêm mười giây nữa, nói tiếp đi!” Lý Diệu siết chặt cây rìu chiến Phần Thiên, không hề nới lỏng chút nào.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0017",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0017"
+      ],
+      "source": "“更何况，就算我说服了家里人来干掉你，也很难不留下蛛丝马迹，大家都知道，联邦中有一支特殊的秘警部队，专门处理修真者犯罪，其中不少秘警都拥有超强的计算力，很少有罪犯能逃过他们的追查，万一追根溯源，查到我身上，我岂不是弄巧成拙？”",
+      "source_hash": "45b22313a8a914d52ce9207449bbe3941e36e0fc4e09dc8fd204f51d15633731",
+      "target": "“Hơn nữa, cho dù tôi có thuyết phục được người nhà tới xử lý cậu thì cũng khó tránh khỏi việc để lại dấu vết. Mọi người đều biết trong Liên Bang có một đội cảnh sát mật đặc biệt chuyên xử lý các vụ án tội phạm của Tu Chân Giả. Trong số các mật cảnh đó có rất nhiều người sở hữu năng lực tính toán cực kỳ kinh khủng, hiếm có tên tội phạm nào thoát khỏi sự truy lùng của họ. Ngộ nhỡ lần ra manh mối tra tới đầu tôi, chẳng phải tôi tự đá vào chân mình sao?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0018",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0018"
+      ],
+      "source": "郑东明一口气说完，总结道：“总之，杀你这样的狠人，绝不容易，就算成功了，也有99%的几率被查出来，与其如此，我不如赌一赌你会帮我严守秘密，这个可能性还大一点！”",
+      "source_hash": "461c0425bff36364a2a11f88dbbd2822f828db2c48c409ce7baef71e679ad4b4",
+      "target": "Trịnh Đông Minh nói một hơi xong liền tổng kết lại: “Tóm lại, giết một kẻ tàn nhẫn như cậu tuyệt đối không hề đơn giản, cho dù có thành công đi nữa thì tỷ lệ bị điều tra ra cũng lên tới 99%. Thay vì làm vậy, tôi thà đánh cược một ván rằng cậu sẽ giữ kín bí mật giúp tôi, khả năng này xem ra còn cao hơn nhiều!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0019",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0019"
+      ],
+      "source": "“有几分道理，但仍不足以说服我，还有没有更多理由？再给你二十秒。”李耀毫不放松地说。",
+      "source_hash": "3a536d7cfabbbb0ffb405fc5458c9be270f1dbf27b5807845628b6ff66f41a4a",
+      "target": "“Cũng có đôi phần hợp lý, nhưng vẫn chưa đủ thuyết phục tôi, còn lý do nào khác nữa không? Cho cậu thêm hai mươi giây nữa.” Lý Diệu lạnh lùng thúc giục.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0020",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0020"
+      ],
+      "source": "“有！”",
+      "source_hash": "a4fb740f3574f26d6e08bf0293b4e414fc280d855e7ca76af4eb89e94352066b",
+      "target": "“Có!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0021",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0021"
+      ],
+      "source": "郑东明泛白的脸上又发出红光，声嘶力竭道，“你要杀我，是怕我恢复之后干掉你，所以先下手为强，你只是想保住小命！但你有没有想过，你杀了我，也会留下蛛丝马迹，万一被我们郑家知道你是凶手，你就会被炼气期甚至筑基期修真者追杀！你觉得，自己能逃过一死吗？”",
+      "source_hash": "6b8e790e58cf19a0d30aefaf267ffc9fbdf128fda5cb23a61404db02c0d60248",
+      "target": "Khuôn mặt trắng bệch của Trịnh Đông Minh đỏ ửng lên, gã hét khản cả cổ: “Cậu muốn giết tôi là sợ tôi hồi phục lại sẽ khử cậu, nên mới ra tay trước. Cậu chỉ muốn bảo toàn cái mạng nhỏ mà thôi! Nhưng cậu đã từng nghĩ qua chưa, cậu giết tôi cũng sẽ để lại manh mối, ngộ nhỡ nhà họ Trịnh biết cậu là hung thủ, cậu sẽ bị các Tu Chân Giả Luyện Khí Kỳ, thậm chí cả Trúc Cơ Kỳ truy sát! Cậu nghĩ bản thân mình có thể thoát chết nổi không?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0022",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0022"
+      ],
+      "source": "顿了一顿，郑东明下了结论，“你杀我，100%会被郑家的筑基期修真者干掉！你不杀我，还能指望我有1%的可能会良心发现，把你当成救命恩人来对待，哪一个概率高，你自己算啦！”",
+      "source_hash": "4e24c50a9c6735aa21d9c6c6248d61ed833b21b4c4a43006b47d026c6aaa6f50",
+      "target": "Ngập ngừng một chút, Trịnh Đông Minh đưa ra kết luận: “Cậu giết tôi, 100% sẽ bị Tu Chân Giả Trúc Cơ Kỳ của nhà họ Trịnh đập chết! Cậu không giết tôi, ít nhất còn có thể trông mong tôi có 1% khả năng sẽ thức tỉnh lương tri, đối đãi với cậu như ân nhân cứu mạng. Tỷ lệ bên nào cao hơn, cậu tự tính toán đi!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0023",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0023"
+      ],
+      "source": "李耀思索片刻，道：“你放心，我不会留下切实的证据。”",
+      "source_hash": "1d4df8037dcd668c7c0fb139f1be852d938e144bdd117605a083e1f361451271",
+      "target": "Lý Diệu suy nghĩ một lát rồi đáp: “Cậu yên tâm, tôi sẽ không để lại bằng chứng xác thực nào đâu.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0024",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0024"
+      ],
+      "source": "郑东明眨巴着眼睛：“警察办案，才需要切实的证据，修真者报仇，有一个怀疑的对象就足够了！”",
+      "source_hash": "c965d7f9ca22e6f375af262d9eb6340911d1bfae2fcf3d7b2ee55f54ed3a0af4",
+      "target": "Trịnh Đông Minh nháy mắt liên tục: “Cảnh sát phá án mới cần bằng chứng xác thực, còn Tu Chân Giả báo thù chỉ cần có một đối tượng nghi ngờ là đủ rồi!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0025",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0025"
+      ],
+      "source": "李耀睫毛一抖：“我可以说自己是斩妖除魔，干掉你这个修魔者，郑家怎么敢动我？说不定还要敲锣打鼓，送我一面锦旗，感谢我为郑家清理门户呢！”",
+      "source_hash": "be84883e3c7b0b089b46b0814919084892bc244279f169f5dc09b9d68d786f59",
+      "target": "Hàng mi Lý Diệu khẽ rung lên: “Tôi có thể tuyên bố mình đang trừ yêu diệt ma, hạ gục tên Tu Ma Giả nhà cậu. Nhà họ Trịnh làm sao dám đụng vào tôi? Biết đâu họ còn phải khua chiêng gõ trống, gửi tặng tôi một bức cờ lưu niệm để cảm tạ tôi đã thanh lý môn hộ giúp họ ấy chứ!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0026",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0026"
+      ],
+      "source": "郑东明扯着嘴角，露出一抹诡秘的笑容，道：“我修炼的幽能，有一个非常古怪的特点——除了激发之时，平常绝不会露出一丝一毫痕迹，连最高明的修真者都看不出来，不信，你去看看巨目猿的尸体，上面已经没有半点幽能残留了！”",
+      "source_hash": "83393072c4cf31b69a61c712e916d639fb646412552d2e809e4c10482c588699",
+      "target": "Trịnh Đông Minh nhếch mép, nở một nụ cười đầy huyền bí: “U năng tôi tu luyện có một đặc điểm cực kỳ quái dị——ngoại trừ lúc kích hoạt ra thì bình thường tuyệt đối không để lộ ra nửa phần dấu vết, đến cả Tu Chân Giả cao minh nhất cũng chẳng thể nhìn thấu được. Không tin cậu cứ tới xem xác con Vượn Khổng Nhãn kia xem, trên người nó đã không còn sót lại chút u năng nào rồi!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0027",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0027"
+      ],
+      "source": "李耀一愣，死死盯着郑东明，分出一道余光向巨目猿的尸体扫去。",
+      "source_hash": "a94844a728a44a929721ffa3fcf34b70f657a97f31c16f57063cae487bb4ac6b",
+      "target": "Lý Diệu thoáng ngẩn ra, nhìn chằm chằm Trịnh Đông Minh, chia ra một tia dư quang liếc nhìn về phía xác con Vượn Khổng Nhãn.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0028",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0028"
+      ],
+      "source": "果然，虽然巨目猿胸口的窟窿鲜血淋漓，血腥至极，却是感知不到一丝一毫魔气，和灵能轰出的伤口一模一样。",
+      "source_hash": "38f52d499772057431a23a3da52d43f93cf657ca888ad24b5051467ef8fe1c56",
+      "target": "Quả nhiên, tuy rằng lỗ thủng trên ngực con Vượn Khổng Nhãn máu chảy đầm đìa, tanh tưởi vô cùng, nhưng lại không hề cảm nhận được một tia ma khí nào, y hệt như vết thương do linh năng oanh kích tạo thành.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0029",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0029"
+      ],
+      "source": "“看，没有任何证据可以证明我修炼幽能，所以你无法用这一点来洗白自己，当然，我也不怎么担心你会说出这个秘密，反正你没证据嘛，所以我杀你灭口的动机并不强烈，我们没必要弄得你死我活！”郑东明飞快道。",
+      "source_hash": "d62b25335deb45807bca784d16ae0abd90e794951d24134eed97bcbb3931ee59",
+      "target": "“Cậu xem, không có bất kỳ bằng chứng nào chứng minh tôi tu luyện u năng cả, thế nên cậu chẳng thể dùng điểm này để tẩy trắng cho mình đâu. Đương nhiên tôi cũng không lo cậu sẽ rêu rao bí mật này ra ngoài, đằng nào cậu cũng đâu có bằng chứng. Vậy nên động cơ tôi giết cậu diệt khẩu không hề mạnh mẽ, chúng ta đâu cần phải tranh đấu sinh tử làm gì!” Trịnh Đông Minh nhanh nhảu nói.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0030",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0030"
+      ],
+      "source": "就在这时，天空中传来一阵“噼里啪啦”之声，小吉终于挣脱了郑东明的迷彩服，眼中冒出两点星芒，朝两人头顶飞了下来。",
+      "source_hash": "9e2fc3aa51552f4d3fc5e56d359f00e8a6e0b1bf5b391ea28c6f68ed6826baf1",
+      "target": "Đúng lúc này, trên bầu trời vang lên một chuỗi tiếng động “lách cách bôm bốp”, Tiểu Cát cuối cùng cũng thoát ra khỏi bộ quần áo rằn ri của Trịnh Đông Minh, trong mắt lóe lên hai điểm tinh quang, bay sà xuống phía trên đỉnh đầu hai người.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0031",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0031"
+      ],
+      "source": "“哈，你的噗叽兽似乎恢复和辽远号的联系了，现在我们的一举一动都在无数修真者的注视之下，你更不会当众动手了吧？”郑东明笑得十分灿烂。",
+      "source_hash": "cc21d6562cf8c6009bfd4b0d84207cf85c88e22acfeb1be5030eeee4cc91c6a2",
+      "target": "“Ha, thú Pút Kít của cậu xem ra đã khôi phục liên lạc với Liêu Viễn Hào rồi, hiện tại nhất cử nhất động của chúng ta đều nằm dưới sự giám sát của vô số Tu Chân Giả, cậu chắc chắn sẽ không ra tay trước bàn dân thiên hạ chứ?” Trịnh Đông Minh cười rạng rỡ.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0032",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0032"
+      ],
+      "source": "李耀沉默片刻，也笑了起来，将焚天战斧丢到一边，在小吉的注视下，走到郑东明身边一屁股坐下，遮住嘴唇，用彼此才能听到的声音，轻声道：",
+      "source_hash": "92f664656ab756325554a4140424ec010a719bb8adea0f408a4a17a436a61ca3",
+      "target": "Lý Diệu im lặng một lát rồi cũng cười theo. Cậu quăng cây rìu chiến Phần Thiên sang một bên, dưới sự quan sát của Tiểu Cát, đi tới ngồi bệt xuống cạnh Trịnh Đông Minh, lấy tay che miệng nói nhỏ bằng âm thanh chỉ đủ cho hai người nghe thấy:",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0033",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0033"
+      ],
+      "source": "“很好，你说服了我，但我终究发现了你的大秘密，如果有朝一日你练成绝世魔功，有信心能神不知鬼不觉地干掉我，不会留下半点蛛丝马迹——我觉得你仍旧会动手！”",
+      "source_hash": "087634bebc3aa9dad9d7ada5b51eedd94d2091bfe75e09abef941399c67c48de",
+      "target": "“Được rồi, cậu đã thuyết phục được tôi. Thế nhưng rốt cuộc tôi cũng đã phát hiện ra bí mật lớn của cậu, nếu có một ngày cậu luyện thành tuyệt thế ma công, tự tin có thể lặng lẽ khử tôi mà không để lại bất cứ vết tích nào——tôi nghĩ cậu vẫn sẽ ra tay thôi!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0034",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0034"
+      ],
+      "source": "“很有可能。”",
+      "source_hash": "bd115b5b8eba890a88654b6a38c97959039b99ae57d0e3cf5293d5dc55544671",
+      "target": "“Rất có thể chứ.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0035",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0035"
+      ],
+      "source": "郑东明也遮住嘴唇，坦然道，“那我岂不是也要担心，万一有一天你神功大成，可以不怕郑家的反扑，并且你也有信心逃脱秘警的追查，你担心我杀你灭口，再来个先下手为强，照样会把我干掉？”",
+      "source_hash": "d862b30484d16554df0b416b5351b41174e8694264a7d1d0a30fc24a572305d7",
+      "target": "Trịnh Đông Minh cũng che miệng, thản nhiên thừa nhận: “Vậy chẳng phải tôi cũng phải lo lắng rằng nhỡ như một ngày nào đó cậu thần công đại thành, chẳng còn e ngại sự phản kháng của nhà họ Trịnh, lại thêm tự tin thoát khỏi sự truy quét của cảnh sát mật, cậu lo tôi giết cậu diệt khẩu nên lại ra tay trước để hạ gục tôi sao?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0036",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0036"
+      ],
+      "source": "李耀思索片刻，哑然失笑：“这个可能性，确实不小。”",
+      "source_hash": "1f0f6cb19076d303deef49e6370bbeca1bcc11802d7a11d03c75d616ea62b3a2",
+      "target": "Lý Diệu suy nghĩ một lát rồi bật cười: “Khả năng này quả thực không nhỏ chút nào.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0037",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0037"
+      ],
+      "source": "郑东明十分艰难地将手臂枕到大脑袋下面，半眯着眼睛，舒舒服服道：",
+      "source_hash": "825f07511c90eb6c97c64f7d92995dc3d1a6232f2a726c840950ebe0e355df9f",
+      "target": "Trịnh Đông Minh vô cùng chật vật gối tay dưới cái đầu to tướng của mình, lim dim mắt, nằm ra một cách thoải mái bảo:",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0038",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0038"
+      ],
+      "source": "“不过眼下，我们两个都是实力低微的虾兵蟹将，绝不可能杀死对方却不被秘警发现，所以，在我们都没有练成绝世神通之前，还是可以当朋友的吧？说不定，还能当两肋插刀的真朋友！”",
+      "source_hash": "11866b33e4e0da54d8542d02a23a65f2955069e8349eb6096b9a0707d4e6a07a",
+      "target": "“Thế nhưng trước mắt, hai chúng ta đều là lũ tôm tép yếu ớt, tuyệt đối không thể giết chết đối phương mà không bị mật cảnh phát hiện. Cho nên, trước khi cả hai chưa luyện thành thần thông tuyệt thế thì vẫn có thể làm bạn bè chứ nhỉ? Biết đâu chừng còn có thể làm bạn bè chí cốt sẵn sàng vì nhau xông pha khói lửa!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0039",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0039"
+      ],
+      "source": "“两肋插刀就不用了，我不喜欢和男人插来插去。”李耀道，“猪朋狗友挺好的，君子之交淡如猪狗。”",
+      "source_hash": "2cae2ca1077605dd2d8848add1a6aa142e8c3605245d46aca2692589c8f05dbf",
+      "target": "“Xông pha khói lửa thì miễn đi, tôi không thích dính dáng đâm chọc gì với đàn ông cả.” Lý Diệu nói, “Bạn bè tồi là tốt rồi, quân tử chi giao nhạt nhẽo như heo chó.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0040",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0040"
+      ],
+      "source": "“好，亲爱的猪朋狗友，多谢你的救命之恩，回去介绍美女给你认识，你喜欢什么类型的？喂喂喂，你不会是那种不近女色，只喜欢修炼的正经人吧？”",
+      "source_hash": "4e916f1841a779e15668fb7cdd3c54d9b9d4ce64639226bd1ea4e8872278ad27",
+      "target": "“Được, người bạn tồi thân mến của tôi, đa tạ ơn cứu mạng của cậu nhé. Trở về tôi giới thiệu mỹ nữ cho cậu làm quen, cậu thích kiểu người thế nào? Này này này, cậu không phải là kiểu người nghiêm túc thanh cao, không màng nữ sắc, chỉ biết cắm đầu tu luyện đấy chứ?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0041",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0041"
+      ],
+      "source": "郑东明笑逐颜开，贱兮兮地问。",
+      "source_hash": "1bae53b1d596225eda7a7cef0af79cf7c283319f9f298af40de9a418110daad8",
+      "target": "Trịnh Đông Minh tươi cười hớn hở, vẻ mặt đầy bỉ ổi hỏi.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0042",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0042"
+      ],
+      "source": "“当然不是，我喜欢清纯中略带挑逗，挑逗中微微羞涩，羞涩里又有一\\*\\*拒还迎，欲拒还迎中夹杂着几缕欲说还休的类型。”",
+      "source_hash": "39ae24c76e91516f8dba4fb01fd3b75f352ccefe1a9cabd0144eb6892034f8eb",
+      "target": "“Dĩ nhiên không phải rồi, tôi thích kiểu con gái thanh thuần nhưng thoáng chút lả lơi, lả lơi mà lại hơi thẹn thùng, thẹn thùng mà vẫn nửa che nửa mở, nửa che nửa mở mà lại pha lẫn vài phần e ấp e lệ khó tả.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0043",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0043"
+      ],
+      "source": "李耀认真道。",
+      "source_hash": "261ca22861abee925b7c168bc825c9ea81b228cc642500172eef469c0fd33c97",
+      "target": "Lý Diệu nghiêm túc đáp.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0044",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0044"
+      ],
+      "source": "“了解，人前圣女贵妇，床上如狼似虎嘛，很普遍啊，我认识大把，你有空过来我们学校……”",
+      "source_hash": "e8233fa58c4f9294ac4383b1e78c4eacc5d03f615243e60a632273cf2cb271bd",
+      "target": "“Hiểu rồi, trước mặt người ngoài là thánh nữ quý bà, lên giường lại mãnh liệt như hổ vồ chứ gì, phổ biến lắm. Tôi quen cả rổ luôn, lúc nào rảnh cậu ghé qua trường chúng tôi...”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0045",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0045"
+      ],
+      "source": "说着说着，郑东明的声音越来越微弱，最后头一歪，昏死过去。",
+      "source_hash": "94cc187f3af0b61d238892ec75b6d2cdbad36790b082b7ca6e5b223585902e22",
+      "target": "Nói được vài câu, giọng nói của Trịnh Đông Minh càng lúc càng yếu ớt đi, cuối cùng đầu ngoẹo sang một bên, ngất lịm đi.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0046",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0046"
+      ],
+      "source": "他强行运转幽能，身体亏空太大，后来又强打精神和李耀斗智斗勇，心神近乎透支，能支撑到现在，已是极限。",
+      "source_hash": "1be64222dfeb43ea0bfbbd8a048d83c08fc8e6d8f4b4b65ef00c6bfeda5273e7",
+      "target": "Gã cưỡng ép vận chuyển u năng khiến cơ thể bị tổn hao quá lớn, sau đó lại phải gồng mình đấu trí đấu dũng với Lý Diệu, tâm thần coi như đã kiệt quệ hoàn toàn. Gã chống đỡ được đến tận bây giờ đã là cực hạn rồi.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0047",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0047"
+      ],
+      "source": "李耀休息片刻，精力恢复了一些，目光在郑东明的颈部大动脉上停留了很久。",
+      "source_hash": "13f0c37e3ed94781cc041e75afc75a31f76f4589a5ff67afda88919e6b0d619b",
+      "target": "Lý Diệu nghỉ ngơi một chốc, thể lực hồi phục được một chút, ánh mắt cậu dừng lại đăm đăm trên động mạch cổ của Trịnh Đông Minh rất lâu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0048",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0048"
+      ],
+      "source": "“李耀同学，请你停留在补给点里别动，修真者很快赶来了！”小吉忽然道。",
+      "source_hash": "68ce3718beeb5905e8a4fd09830c475e6aad1db9725b4ab05cc7dbc634a60414",
+      "target": "“Bạn học Lý Diệu, xin cậu hãy ở lại trong trạm tiếp tế đừng đi đâu, các Tu Chân Giả sắp tới nơi rồi!” Tiểu Cát thình lình cất tiếng dặn.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0049",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0049"
+      ],
+      "source": "李耀瞳孔一缩，终于收回目光，拄着链锯剑站了起来。",
+      "source_hash": "c1db1553c9dff7db91c76bf39e2f8e0401adc1e42ced77c213195111c12b97b3",
+      "target": "Đồng tử Lý Diệu co rụt lại, cuối cùng cũng thu hồi tầm mắt, chống cây kiếm cưa xích đứng nhỏm dậy.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0050",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0050"
+      ],
+      "source": "他心中涌起一丝好奇，踉踉跄跄走到巨目猿的脑袋前面，脚尖一踢，斗大的脑袋翻了过来。",
+      "source_hash": "1b4caa307bd6ba095b9910857d09f78bd33fe50a9b9db44256787131c01f5369",
+      "target": "Trong lòng cậu trào dâng một tia hiếu kỳ, lảo đảo đi tới trước cái đầu của con Vượn Khổng Nhãn, đá nhẹ một phát lật ngược cái đầu to như cái đấu lại.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0051",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0051"
+      ],
+      "source": "三目猿的战斗力并不强大，就算是其中的变异体巨目猿，也不可能杀得两人如此狼狈。",
+      "source_hash": "38556dff2c270a7b2e1081549f0fc94f66b1f32ebd1ced39031dc4e6a4d36026",
+      "target": "Chiến lực của Vượn Ba Mắt vốn không hề mạnh mẽ, cho dù là biến thể Vượn Khổng Nhãn của chúng thì cũng chẳng thể dồn hai người bọn họ vào cảnh thê thảm khốn đốn tới nhường này.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0052",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0052"
+      ],
+      "source": "这头巨目猿究竟有什么古怪，会变得如此疯狂？",
+      "source_hash": "8db68851c926fe9bcc62caf5642f2d4be0cbef7f63711006f8437f30f6850135",
+      "target": "Rốt cuộc con Vượn Khổng Nhãn này có gì kỳ lạ mà lại trở nên điên cuồng dữ dội đến thế?",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0053",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0053"
+      ],
+      "source": "巨目猿的面孔依旧凝固在龇牙咧嘴的丑陋状态，只是犬牙交错的嘴里再也喷不出腐臭的气息，额头硕大无比的怪眼紧紧闭上，看上去顺眼不少。",
+      "source_hash": "0a8833c553703228cbfd2f0a168fa5c6ccbce052fdfc632cb287371a9bf29e45",
+      "target": "Khuôn mặt của Vượn Khổng Nhãn vẫn đông cứng trong bộ dạng nhe răng trợn mắt xấu xí tột cùng, chỉ có điều cái miệng lởm chởm răng nanh của nó không còn phun ra luồng khí hôi thối nồng nặc nữa, con mắt quái dị to đùng trên trán cũng nhắm tịt lại, trông có vẻ dễ nhìn hơn đôi chút.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0054",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0054"
+      ],
+      "source": "李耀一剑插进巨目猿的嘴巴，把整个大脑袋都固定在地面上，又抽出匕首，这才放心地蹲下身子去查看。",
+      "source_hash": "6e703645c04ef7c8a4d16847db215c802a409ce3d2f324997dfeaa24c067c190",
+      "target": "Lý Diệu cắm phập thanh kiếm xuống miệng con Vượn Khổng Nhãn để ghim chặt cái đầu to đùng đó xuống đất, rồi rút dao găm ra, lúc này mới yên tâm ngồi xổm xuống xem xét kỹ lưỡng.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0055",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0055"
+      ],
+      "source": "岂料就在他蹲下的刹那，巨目猿额头的怪眼猛地睁开，绽放出一道无比强烈的血红色光芒，犹如一柄利刃狠狠刺入了李耀的前额，直达脑域最深处！",
+      "source_hash": "fdd05d0cfe81c77ca58483d3146907f98f347d51a9a4f567358c8d88e79700de",
+      "target": "Nào ngờ ngay khoảnh khắc cậu vừa ngồi xổm xuống, con mắt quái dị trên trán con Vượn Khổng Nhãn bỗng nhiên trợn ngược lên, bắn ra một luồng sáng đỏ như máu cực kỳ chói mắt, tựa như một lưỡi dao sắc bén đâm thẳng vào trán Lý Diệu, xuyên thấu vào tận sâu trong vùng não!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0056",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0056"
+      ],
+      "source": "一瞬间——",
+      "source_hash": "5372cfe52d84abe03e96f80dab25ebb814cf1bdd311845d62a48603eafb2e741",
+      "target": "Trong nháy mắt——",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0057",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0057"
+      ],
+      "source": "“小子，你竟然！”",
+      "source_hash": "6e9bb2cefd933c547a8e81c944677ee0061f0a408fc88fc90c7f4e0922593b59",
+      "target": "“Nhóc con, ngươi dám!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0058",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0058"
+      ],
+      "source": "李耀只觉得大脑剧痛无比，脑域最深处传来一声苍老的惨叫，一个须发皆白的透明人形轰然碎裂，化作无数碎片，其中微不足道的一小撮继续向识海最深处流窜，而绝大部分碎片则疯狂旋转，变作一团狂暴的漩涡。",
+      "source_hash": "73b27a6f11cb341714a2bffbe4fb5bb7a4f3aeac7a3c16cf6a2c07e615578052",
+      "target": "Lý Diệu cảm thấy đầu óc đau nhức dữ dội, một tiếng thét thảm thiết già nua truyền tới từ tận sâu trong vùng não. Một hình nhân trong suốt tóc râu bạc phơ vỡ vụn ra thành trăm mảnh, một nhúm mảnh vỡ bé nhỏ chui sâu vào tận cùng thức hải, còn phần lớn các mảnh vỡ còn lại thì xoay chuyển điên cuồng hóa thành một cơn lốc xoáy bạo liệt.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0059",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0059"
+      ],
+      "source": "李耀的意识也被卷入这片诡异的漩涡，陷入无边无际的黑暗！",
+      "source_hash": "bf77a6184cfb0552f2149ab192c4a3f5cc8e93f5af20277761e8b4002721210a",
+      "target": "Ý thức của Lý Diệu cũng bị cuốn phăng vào cơn lốc xoáy quái dị kia, chìm nghỉm vào bóng tối vô biên vô tận!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0068:align_0060",
+      "chapter_id": "chapter_0068",
+      "segment_ids": [
+        "chapter_0068:seg_0060"
+      ],
+      "source": "在陷入黑暗之前的刹那，李耀看到三名修真者御剑乘风，从漫天乌云中一跃而出，朝他和郑东明电射而来！",
+      "source_hash": "d051f52e6855f7f0abfeb4ebfc605369a9ce8247356598226c494ad926415819",
+      "target": "Ngay trước giây phút lịm đi vào bóng tối, Lý Diệu nhìn thấy ba vị Tu Chân Giả ngự kiếm đạp gió nhảy ra khỏi tầng mây đen nghịt, lao nhanh như chớp về phía cậu và Trịnh Đông Minh!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    }
+  ],
+  "term_occurrences": [
+    {
+      "chapter_id": "chapter_0068",
+      "source_term": "筑基期",
+      "target_term": "Trúc Cơ Kỳ",
+      "segment_id": "chapter_0068:seg_0015",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "level",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0068",
+      "source_term": "郑东明",
+      "target_term": "Trịnh Đông Minh",
+      "segment_id": "chapter_0068:seg_0003",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0068",
+      "source_term": "噗叽兽",
+      "target_term": "thú Pút Kít",
+      "segment_id": "chapter_0068:seg_0031",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "beast",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0068",
+      "source_term": "辽远号",
+      "target_term": "Liêu Viễn Hào",
+      "segment_id": "chapter_0068:seg_0031",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0068",
+      "source_term": "三目猿",
+      "target_term": "Vượn Ba Mắt",
+      "segment_id": "chapter_0068:seg_0051",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "beast",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0068",
+      "source_term": "链锯剑",
+      "target_term": "kiếm cưa xích",
+      "segment_id": "chapter_0068:seg_0049",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0068",
+      "source_term": "焚天",
+      "target_term": "Phần Thiên",
+      "segment_id": "chapter_0068:seg_0007",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0068",
+      "source_term": "巨目猿",
+      "target_term": "Vượn Khổng Nhãn",
+      "segment_id": "chapter_0068:seg_0011",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "beast",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0068",
+      "source_term": "天魔煞血炮",
+      "target_term": "Thiên Ma Sát Huyết Pháo",
+      "segment_id": "chapter_0068:seg_0003",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "technique",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0068",
+      "source_term": "修魔者",
+      "target_term": "Tu Ma Giả",
+      "segment_id": "chapter_0068:seg_0002",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0068",
+      "source_term": "幽能",
+      "target_term": "U Năng",
+      "segment_id": "chapter_0068:seg_0002",
+      "present_in_target": false,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0068",
+      "source_term": "域外天魔",
+      "target_term": "Vực Ngoại Thiên Ma",
+      "segment_id": "chapter_0068:seg_0002",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "beast",
+      "confidence": 1.0
+    }
+  ],
+  "entity_mentions": [
+    {
+      "chapter_id": "chapter_0068",
+      "source_surface": "李耀",
+      "target_surface": "Lý Diệu",
+      "entity_type": "person",
+      "segment_id": "chapter_0068:seg_0005",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0068",
+      "source_surface": "郑东明",
+      "target_surface": "Trịnh Đông Minh",
+      "entity_type": "person",
+      "segment_id": "chapter_0068:seg_0003",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0068",
+      "source_surface": "魔道",
+      "target_surface": "Ma đạo",
+      "entity_type": "factions",
+      "segment_id": "chapter_0068:seg_0002",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0068",
+      "source_surface": "天魔煞血炮",
+      "target_surface": "Thiên Ma Sát Huyết Pháo",
+      "entity_type": "techniques",
+      "segment_id": "chapter_0068:seg_0003",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0068",
+      "source_surface": "辽远号",
+      "target_surface": "Liêu Viễn Hào",
+      "entity_type": "items",
+      "segment_id": "chapter_0068:seg_0031",
+      "confidence": 1.0
+    }
+  ],
+  "name_analysis": {
+    "status": "ok",
+    "evidence_count": 2,
+    "name_mentions": [
+      {
+        "chapter_id": "chapter_0068",
+        "name_source": "李耀",
+        "name_target": "Lý Diệu",
+        "segment_id": "chapter_0068:seg_0005",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0068",
+        "name_source": "郑东明",
+        "name_target": "Trịnh Đông Minh",
+        "segment_id": "chapter_0068:seg_0003",
+        "present_in_target": true,
+        "confidence": 1.0
+      }
+    ],
+    "name_entries": [
+      {
+        "name_source": "李耀",
+        "name_target": "Lý Diệu"
+      },
+      {
+        "name_source": "郑东明",
+        "name_target": "Trịnh Đông Minh"
+      }
+    ],
+    "transliteration_units": [],
+    "inferred_name_rules": [],
+    "ambiguity_cases": [],
+    "reusable_name_profile": {
+      "mapping_count": 2,
+      "has_ambiguity": false
+    }
+  },
+  "phrase_patterns": [],
+  "grammar_rule_candidates": [],
+  "analyzer_reports": {
+    "term_occurrences": {
+      "status": "ok",
+      "evidence_count": 12
+    },
+    "entity_mentions": {
+      "status": "ok",
+      "evidence_count": 5
+    },
+    "name_mentions": {
+      "status": "ok",
+      "evidence_count": 2
+    },
+    "phrase_patterns": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    },
+    "grammar_rule_candidates": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    }
+  },
+  "review_queue": [
+    {
+      "chapter_id": "chapter_0068",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "和势力",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.82,
+        "evidence": [
+          "，肯定要动用大量资源和势力！”\n\n“你们郑家，",
+          "，岂不是就有大量资源和势力？”李耀冷冷道。\n\n"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0068",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "容易",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "，要灭你口，不是那么容易，肯定要动用大量资源",
+          "杀你这样的狠人，绝不容易，就算成功了，也有9"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0068",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "李耀",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "欢和男人插来插去。”李耀道，“猪朋狗友挺好的",
+          "陷入黑暗之前的刹那，李耀看到三名修真者御剑乘"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0068",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "索片刻",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.82,
+        "evidence": [
+          "己算啦！”\n\n李耀思索片刻，道：“你放心，我不",
+          "我干掉？”\n\n李耀思索片刻，哑然失笑：“这个可"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0068",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "马迹",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "你，也很难不留下蛛丝马迹，大家都知道，联邦中",
+          "杀了我，也会留下蛛丝马迹，万一被我们郑家知道"
+        ]
+      }
+    }
+  ],
+  "quality_audit": {
+    "segment_coverage": 1.0,
+    "source_hash_match": true,
+    "target_reconstruction_match": true,
+    "invalid_ref_count": 0,
+    "locked_term_hit_rate": 1.0,
+    "missing_locked_terms": [],
+    "cjk_residue_count": 0,
+    "paragraph_drift_ratio": 0.0,
+    "pronoun_consistency_score": 1.0,
+    "warnings": []
+  }
+}

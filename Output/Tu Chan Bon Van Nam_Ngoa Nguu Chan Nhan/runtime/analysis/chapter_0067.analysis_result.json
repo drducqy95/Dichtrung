@@ -1,0 +1,1229 @@
+{
+  "schema_version": "2.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 67,
+  "chapter_id": "chapter_0067",
+  "source_manifest_hash": "7fa64f1332b3f4c9f95958f142228b183a44734e5e13d5e6d50ef846af911e1c",
+  "aligned_segments": [
+    {
+      "alignment_id": "chapter_0067:align_0001",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0001"
+      ],
+      "source": "# 67.第67章 末日变",
+      "source_hash": "522b5457c259e79b6e0c3989428e407bdd0a16386787bf76f1171b089d526785",
+      "target": "# Chương 0067 - Mạt Nhật Biến",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0002",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0002"
+      ],
+      "source": "“这就是我不愿意轻易变身的理由了，一旦变身，所有人都会把我当成修魔者，非要把我斩尽杀绝啊！”郑东明无可奈何的叹了口气。",
+      "source_hash": "f5267c4dd0caf7dd28f540ec2a662ff61341bcb49a8965a86c5004e69bde82a8",
+      "target": "“Đây chính là lý do tôi không muốn tùy tiện biến hình đấy, một khi biến hình, mọi người sẽ coi tôi là Tu Ma Giả, nhất định phải đuổi cùng giết tận tôi mới thôi!” Trịnh Đông Minh thở dài bất đắc dĩ.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0003",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0003"
+      ],
+      "source": "“修魔者”三个字，就像是一个无影无形的幽灵，在两人之间盘旋，周围的空气瞬间降至零度！",
+      "source_hash": "7caf69b1ac116b30291e505ea614f65553057ea9ba5c745ebab440a7bebbc83d",
+      "target": "Ba chữ “Tu Ma Giả” tựa như một bóng ma vô ảnh vô hình lượn lờ quanh hai người, bầu không khí xung quanh lập tức hạ xuống không độ!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0004",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0004"
+      ],
+      "source": "李耀和郑东明两人脸上的笑意完全冻结，眼底涌动着有若实质的杀意。",
+      "source_hash": "81a249d12cc43ff4f7f0faf46140932249eb884bae283109d5c3a796a4a1477e",
+      "target": "Nụ cười trên mặt cả Lý Diệu lẫn Trịnh Đông Minh đều hoàn toàn đóng băng, nơi đáy mắt cuồn cuộn sát ý hữu hình như thực chất.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0005",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0005"
+      ],
+      "source": "修魔者，被域外天魔诱惑而堕落，放弃修炼灵能，转而修炼灵能的黑暗面——“幽能”的修炼者，是人类文明的死敌，比妖族可怕百倍！",
+      "source_hash": "fcc7e649380f9dfd85d567dad1c7406ed3f0de6f739f08fdf17839d612fd96fd",
+      "target": "Tu Ma Giả, những kẻ tu luyện bị Vực Ngoại Thiên Ma dụ dỗ mà sa đọa, Từ Bỏ tu luyện linh năng, chuyển sang tu luyện mặt tối của linh năng——“U Năng”, bọn họ là tử địch của nền văn minh nhân loại, đáng sợ gấp trăm lần so với Yêu tộc!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0006",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0006"
+      ],
+      "source": "传说中，宇宙大爆炸之初，从最初的“起点”中，喷涌出了无穷无尽的灵能和幽能，其中的灵能逐渐转化成了物质，组成浩瀚无垠的星辰大海，也繁衍出了第一代生命体“盘古灵族”。",
+      "source_hash": "d1a200e65fddd81c1b88343ecdb63fe3e788e01ff2dbadf3f7d63643677e5bfd",
+      "target": "Theo truyền thuyết, thuở vũ trụ sơ khai sau vụ nổ lớn, từ “Khởi Điểm” ban sơ đã phun trào ra linh năng và u năng vô cùng vô tận. Trong đó, linh năng dần dần chuyển hóa thành vật chất, cấu thành nên biển sao bao la rộng lớn vô bờ bến, đồng thời cũng sinh sôi ra thực thể sống thế hệ đầu tiên là “Bàn Cổ Linh tộc”.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0007",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0007"
+      ],
+      "source": "盘古灵族热衷创造，他们开天辟地，塑造出三千大千世界，又将无数炙热的星空物质炼制成一颗有一颗可供生命存在的星球。",
+      "source_hash": "c4750ac1073ba4958f01dd87f0a54dc690ea10cf46052bcd27003d0b257416ca",
+      "target": "Bàn Cổ Linh tộc cực kỳ say mê sáng tạo. Họ khai thiên lập địa, tạo dựng nên ba ngàn đại thiên thế giới, lại đem vô số vật chất tinh không nóng bỏng rèn đúc thành từng hành tinh một có thể nuôi dưỡng sự sống.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0008",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0008"
+      ],
+      "source": "因此，在人类文明的记载中，又将盘古灵族称为“古圣”！",
+      "source_hash": "942e08780fe409298c6e275fb060105de61dd79f4d2d73a4c1d041dc00c40635",
+      "target": "Bởi vậy, trong sử sách ghi chép của nền văn minh nhân loại, Bàn Cổ Linh tộc còn được gọi là “Cổ Thánh”!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0009",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0009"
+      ],
+      "source": "而处在灵能黑暗面的幽能，却没有变成物质，大团大团的幽能凝结成了一片号称“天外魔境”的神秘世界，跳出三界，不在五行，自成天地。",
+      "source_hash": "b8a4ba0525b9961d583150861b4c43a7be6b16562e5d9d42d179046f0a3e12d8",
+      "target": "Còn u năng nằm ở mặt tối của linh năng thì lại không biến thành vật chất. Những khối u năng khổng lồ ngưng tụ lại thành một cõi thế giới thần bí gọi là “Thiên Ngoại Ma Cảnh”, nhảy ra ngoài tam giới, không thuộc ngũ hành, tự thành một mảnh trời đất riêng.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0010",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0010"
+      ],
+      "source": "在天外魔境中，幽能不断撕裂，碰撞，挤压，凝结，逐渐拥有智慧，进化成为“域外天魔”！",
+      "source_hash": "a8c666211770ea36d60c6e75e8f36ec97f15986c5e5bcd1d00e404f77f759909",
+      "target": "Tại Thiên Ngoại Ma Cảnh, u năng liên tục xé rách, va chạm, chèn ép rồi ngưng kết, dần dần sở hữu trí tuệ, tiến hóa trở thành “Vực Ngoại Thiên Ma”!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0011",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0011"
+      ],
+      "source": "域外天魔是一种纯能量生命体，不知创造，只知毁灭！",
+      "source_hash": "83a655c6980c16164a1c9153a7b6ecf35bd559f2f569c4bafa1ef52628256145",
+      "target": "Vực Ngoại Thiên Ma là một loại sinh mệnh thể năng lượng thuần túy, không biết đến sáng tạo, chỉ biết đến hủy diệt!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0012",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0012"
+      ],
+      "source": "他们最热衷的就是撕开天外魔境和人类宇宙之间的壁障，降临到人类繁衍生息的三千大千世界，侵入人类的脑域，污染人类的精神，腐蚀人类的意志，令人类沉迷于充满杀戮、狂暴、欺诈和污秽的“幽能”之中，沦为恐怖的“修魔者”！",
+      "source_hash": "c1843ef59be9d8d6145c880b8b57e2210b44d2aa6867a14eadee39dffb29439c",
+      "target": "Điều bọn chúng say mê nhất chính là xé toạc bức tường rào ngăn cách giữa Thiên Ngoại Ma Cảnh và vũ trụ nhân loại, giáng lâm xuống ba ngàn đại thiên thế giới nơi nhân loại sinh sôi phát triển, xâm nhập vào vùng não của con người, vấy bẩn tinh thần, bào mòn ý chí, khiến con người chìm đắm trong thứ “U Năng” đầy chém giết, cuồng bạo, lừa lọc và dơ bẩn, biến thành những “Tu Ma Giả” đáng sợ!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0013",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0013"
+      ],
+      "source": "早在40000年前的古修时代，妖族尚未诞生之前，修真者和修魔者就是不死不休的天敌。",
+      "source_hash": "4912ac1e110362d0f76cfbf8bd8191322f38cba742dd8c05f21bf20ca7cf594d",
+      "target": "Từ tận bốn vạn năm trước ở thời cổ tu, khi Yêu tộc còn chưa ra đời, Tu Chân Giả và Tu Ma Giả đã là thiên địch không đội trời chung.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0014",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0014"
+      ],
+      "source": "甚至有传言说，当初炼制出“妖神病毒”，创造出妖族的那名修真者，其实早就被域外天魔污染，转化成了修魔者！",
+      "source_hash": "6c3ddf2d214262a60ed708de073d857f6f19457b8b6e2dcc905dff0dc7ebb017",
+      "target": "Thế chi tiết có lời đồn rằng vị Tu Chân Giả chế luyện ra “virus Yêu Thần”, sáng tạo ra Yêu tộc năm xưa, thực chất từ lâu đã bị Vực Ngoại Thiên Ma vấy bẩn và biến đổi thành Tu Ma Giả!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0015",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0015"
+      ],
+      "source": "而到了30000年后，大黑暗时代末期，帝皇崛起，人道复兴，即将扫除妖族，称霸星海之时，又是域外天魔策划了“末日变”，令修真界掀起第二次内战！",
+      "source_hash": "afb434a91f7cf899b7308a43ad633edef78ede9f55b6e89d11c1c4a09925e29a",
+      "target": "Mà cho đến ba vạn năm sau, vào cuối Đại Hắc Ám Thời Đại, Đế Hoàng trỗi dậy, nhân đạo phục hưng, ngay khi sắp quét sạch Yêu tộc để xưng bá biển sao, lại chính là Vực Ngoại Thiên Ma đã vạch ra “Mạt Nhật Biến”, khiến giới tu chân dấy lên cuộc nội chiến lần thứ hai!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0016",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0016"
+      ],
+      "source": "在“末日变”中，帝皇创立的星海帝国轰然崩溃，各个大千世界之间的联系也被切断，无尽星海再次被熊熊战火席卷！",
+      "source_hash": "e14c8a76c865070437290be47e04ce63c5f700cd446b63992b81898cda57b5d0",
+      "target": "Trong cuộc “Mạt Nhật Biến” ấy, Đế quốc Tinh Hải do Đế Hoàng sáng lập đã sụp đổ tan tành, mối liên hệ giữa các đại thiên thế giới cũng bị chặt đứt, biển sao vô tận một lần nữa bị cuốn vào ngọn lửa chiến tranh ngút trời!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0017",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0017"
+      ],
+      "source": "李耀静静地站在郑东明五米之外，眼神锐利如刀，如秃鹫般打量着郑东明的脖子。",
+      "source_hash": "09e74a5a917bfb9e6416e8ef4e8e9bc8ad8371c2698c5e1d8a102b09086d4669",
+      "target": "Lý Diệu lặng lẽ đứng cách Trịnh Đông Minh năm mét, ánh mắt sắc bén như dao, quan sát cổ của Trịnh Đông Minh tựa như chim kền kền đang rình mồi.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0018",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0018"
+      ],
+      "source": "尽管小胖子瘫软无力，一副我为鱼肉，你为刀俎的样子，李耀却不敢有一丝一毫的大意。",
+      "source_hash": "793f450f9a3e9edd434ad896aa791e579ecfc13d94fa169d53ba016c76aa4f81",
+      "target": "Mặc dù tên mập ú này đang mềm oặt không còn chút sức lực, ra vẻ ta là cá thịt người là dao thớt, nhưng Lý Diệu không dám sơ hở một ly một tí nào.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0019",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0019"
+      ],
+      "source": "对方可是恐怖至极的修魔者，谁知还有没有什么暴起反击的撒手锏？",
+      "source_hash": "f808dcb7d0348d9201ea80b59eb736dbe3b9adff4be86ec41c474b12837ff119",
+      "target": "Đối phương chính là Tu Ma Giả đáng sợ tột cùng, biết đâu lại chẳng có đòn sát thủ nào ẩn giấu để bất ngờ vùng lên phản công?",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0020",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0020"
+      ],
+      "source": "郑东明苦笑道：“既然你把我当成修魔者，一定要斩妖除魔，刚才又救我干什么？让巨目猿把我一拳打死，不就行了？”",
+      "source_hash": "1207df99135b5092a381727962ff19ef3ad03ea7b906dfd225ef48edf449f8e9",
+      "target": "Trịnh Đông Minh cười khổ nói: “Nếu cậu đã coi tôi là Tu Ma Giả, nhất quyết phải trừ yêu diệt ma, thì vừa rồi còn cứu tôi làm gì? Cứ để con Vượn Khổng Nhãn đập chết tôi bằng một đấm là được rồi mà?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0021",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0021"
+      ],
+      "source": "李耀摇头道：",
+      "source_hash": "49c929cd7c0d87015f94d1c08652edc2158f6f24068738652f5eab81c01564ad",
+      "target": "Lý Diệu lắc đầu nói:",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0022",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0022"
+      ],
+      "source": "“你误会了，我不是救你——我听说修魔者最擅长肉搏，而且有很多吞噬血肉来修复身体的魔功！万一被巨目猿靠近你，而你又将它反杀，吞噬了它的血肉，产生进一步变化，那就糟糕了！我杀它，只是不想让它靠近你，希望你保持在最虚弱状态而已。”",
+      "source_hash": "8cdcd1dfa7cc2b978a403564fe48c8f0e221e018194d6b5ed64dbbf2091cdb2d",
+      "target": "“Cậu hiểu lầm rồi, tôi không phải cứu cậu——tôi nghe nói Tu Ma Giả giỏi nhất là cận chiến giáp lá cà, hơn nữa còn có rất nhiều ma công thôn phệ máu thịt để chữa trị cơ thể! Nhỡ đâu con Vượn Khổng Nhãn áp sát cậu, mà cậu lại phản sát nó rồi thôn phệ máu thịt của nó để biến dị thêm bước nữa thì nguy to! Tôi giết nó chẳng qua là không muốn nó lại gần cậu, chỉ mong cậu tiếp tục duy trì trạng thái suy kiệt nhất mà thôi.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0023",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0023"
+      ],
+      "source": "顿了一顿，又用脚尖在地上画了一条线，道，“你看，我一直站在距离你五米之外，连一寸都不敢靠近，就是怕你暴起伤人啊！”",
+      "source_hash": "137b32c2c1b0a99f2bcdc2b892065da430ded4d57b9fa8409f7b69b209899265",
+      "target": "Ngừng một lát, cậu lại dùng mũi chân vẽ một đường trên mặt đất rồi bảo: “Cậu xem, tôi luôn đứng cách cậu năm mét, đến một tấc cũng không dám bước gần thêm, chính là sợ cậu đột nhiên vùng dậy làm hại người khác đấy!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0024",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0024"
+      ],
+      "source": "李耀说着，脑海中浮现出了历史课上曾经学过，有关“末日变”的段落。",
+      "source_hash": "2463e2f1b19e448580833a84f785d883a8a29dac98e36b21bc0af130b0ad0d82",
+      "target": "Lý Diệu vừa nói, trong đầu vừa hiện lên những đoạn sử liệu về “Mạt Nhật Biến” từng được học ở lớp lịch sử.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0025",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0025"
+      ],
+      "source": "一万年前，大黑暗时代末期，妖族对人类文明的统治如风中之烛，飘摇不定，随时有可能熄灭。",
+      "source_hash": "05c544fe23b2be890d8b62d2e1cd7ceb3041190fedaf8c123d93322ce8972fc5",
+      "target": "Một vạn năm trước, vào cuối Đại Hắc Ám Thời Đại, sự thống trị của Yêu tộc đối với văn minh nhân loại giống như ngọn nến trước gió, lung lay chực tắt bất cứ lúc nào.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0026",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0026"
+      ],
+      "source": "此时，人类文明风起云涌，强者辈出。",
+      "source_hash": "0f1be3a71428904cd23640920ea53b4dae703c2f6f17937501ab63d121f8f7cb",
+      "target": "Thời điểm đó, văn minh nhân loại sóng cuộn gió gào, những bậc cường giả xuất hiện lớp lớp.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0027",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0027"
+      ],
+      "source": "在无尽星海之南，一处名叫“烈风界”的大千世界，妖族建立的“地下竞技场”中，出现了一名号称“绝天武帝”的人类强者。",
+      "source_hash": "f809ba58dacdf3ff9440b51e359ffc7175c8e9018da0dc26d0e066dbe1d5c58a",
+      "target": "Ở phía nam biển sao vô tận, tại một đại thiên thế giới tên là “Liệt Phong Giới”, trong một “Đấu trường địa hạ” do Yêu tộc xây dựng, đã xuất hiện một cường giả nhân loại được mệnh danh là “Tuyệt Thiên Võ Đế”.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0028",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0028"
+      ],
+      "source": "他以一名卑贱的“死斗士”身份，一路厮杀，短短几十年间，就成为“斗神”，号召无数死斗士，起来和妖族抗争。",
+      "source_hash": "eff4226555b68310d4f90e2642315e172eccc918198cb25577b3b7c147eb225f",
+      "target": "Từ thân phận của một “tử đấu sĩ” hèn mọn, ông vượt qua muôn vàn trận chém giết đẫm máu, chỉ trong vòng mấy chục năm ngắn ngủi đã trở thành “Đấu Thần”, kêu gọi vô số tử đấu sĩ đứng lên đấu tranh chống lại Yêu tộc.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0029",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0029"
+      ],
+      "source": "无数妖族高手都在他的大剑和铁拳之下，化作肉泥，变成灰飞！",
+      "source_hash": "dbdab98ce0b2d4c7850245fa428bab273572f3afeed7bd8483c6aed147ccdb84",
+      "target": "Biết bao cao thủ Yêu tộc đã bị thanh đại kiếm và nắm đấm thép của ông đập cho nát bấy như tương, hóa thành tro bụi!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0030",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0030"
+      ],
+      "source": "而在无尽星海之北的“乱星界”，也出现了一名人类英雄，号称“星海战皇”！",
+      "source_hash": "37d51e435fef6aeee14049e3d97b4c433d2c9f4815f1acd095f14b5a1c41b597",
+      "target": "Trong khi đó ở phía bắc biển sao vô tận tại “Loạn Tinh Giới”, cũng xuất hiện một người anh hùng nhân loại được xưng tụng là “Tinh Hải Chiến Hoàng”!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0031",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0031"
+      ],
+      "source": "他从一艘抢来的妖族巡逻艇起家，以“星空海盗”的身份四处劫掠，几十年间竟然发展出了一支坐拥百万晶石战舰的人类舰队，从最开始的游击战，变成了可以和妖族正规军进行堂堂正正的会战，一次又一次击溃对手。",
+      "source_hash": "506312627eaf6d7bf7464daf62918c1b91b39dbfd8b4bc637e4aae39c8a03b56",
+      "target": "Xuất thân từ một chiếc tàu tuần tra cướp được từ tay Yêu tộc, ông dùng danh nghĩa “hải tặc tinh không” đi cướp bóc khắp nơi. Không ngờ chỉ trong vài chục năm, ông đã phát triển nên một hạm đội nhân loại sở hữu hàng triệu chiến hạm tinh thạch. Từ những trận du kích ban đầu, hạm đội ấy đã có thể giao tranh trực diện đường đường chính chính với quân chủ lực của Yêu tộc, liên tiếp đánh bại đối thủ.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0032",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0032"
+      ],
+      "source": "而当“绝天武帝”和“星海战皇”第一次会面时，人们才知道……",
+      "source_hash": "223d87cf5f41367bde23184ce8f8cd4fb0a18d5dd213dff101204462a0cd740f",
+      "target": "Và khi “Tuyệt Thiên Võ Đế” cùng “Tinh Hải Chiến Hoàng” gặp nhau lần đầu tiên, mọi người mới vỡ lẽ...",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0033",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0033"
+      ],
+      "source": "他们，居然是同一个人的两道化身！",
+      "source_hash": "ede446958982a177203d87536821fd19d1d392fbbe412267e3b93a1d0229babe",
+      "target": "Hóa ra bọn họ lại chính là hai hóa thân của cùng một người!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0034",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0034"
+      ],
+      "source": "从此，绝天武帝和星海战皇正式合为一体，拥有超卓的军略能力和无可匹敌的战力，被所有人类尊称为“帝皇”！",
+      "source_hash": "f1dbb82b7c48fd6fdb72868051775b8b4087b7954d260b9fe710cf102a5ea1ee",
+      "target": "Kể từ đó, Tuyệt Thiên Võ Đế và Tinh Hải Chiến Hoàng chính thức dung hợp làm một, sở hữu tài điều binh khiển tướng siêu việt cùng chiến lực vô song không ai địch nổi, được toàn thể nhân loại tôn sùng là “Đế Hoàng”!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0035",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0035"
+      ],
+      "source": "帝皇以一己之力，将人类文明带出黑暗，重获辉煌，他带领众多强者发掘出了无数古修宗派的遗迹，在古修文明的基础上，创立了二十个“元始宗派”，并且从自己的神魂中，分出二十道分身，掌控二十个元始宗派！",
+      "source_hash": "62193e06f0930d95c8b04b7855281d58f1e0376cc3cd14eac8faa1c5e811c9ac",
+      "target": "Đế Hoàng bằng vào sức mình đã dẫn dắt văn minh nhân loại thoát khỏi đêm tối hắc ám, tìm lại hào quang rực rỡ. Ông dẫn đầu đông đảo cường giả khai quật vô số di tích tông phái cổ tu, trên nền tảng của nền văn minh cổ tu để sáng lập nên hai mươi “Nguyên Thủy tông phái”, đồng thời từ trong thần hồn của mình phân tách ra hai mươi đạo phân thân để nắm quyền cai quản hai mươi tông phái này!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0036",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0036"
+      ],
+      "source": "其中最强的一道分身，继承了帝皇的全部战斗意识和杀戮意念，掌管拥有最强战力的“血神宗”，被帝皇赐名为“血神子”！",
+      "source_hash": "f75500d7926dca760fdf113173261eaf39124d6840b2d2d2779d833d9cc698e9",
+      "target": "Trong đó, đạo phân thân mạnh mẽ nhất thừa hưởng toàn bộ ý thức chiến đấu và niệm đầu chém giết của Đế Hoàng, chưởng quản “Huyết Thần Tông” có chiến lực mạnh nhất, được Đế Hoàng ban tên là “Huyết Thần Tử”!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0037",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0037"
+      ],
+      "source": "而无数被他斩杀的妖族，却更喜欢称呼血神子为——末日战狂！",
+      "source_hash": "2264963bc4ecec4822d4b51fe4124e9e99ed5de2e619be5b9ae60c7e964e1bd2",
+      "target": "Nhưng vô vàn kẻ Yêu tộc bị ông chém đầu lại thích gọi Huyết Thần Tử bằng cái tên——Mạt Nhật Chiến Cuồng!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0038",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0038"
+      ],
+      "source": "当帝皇建立星海帝国，忙于重建人类文明之时，血神子统帅着二十宗派和晶石舰队，在无尽星海中纵横驰骋，驱逐每一个大千世界中的妖族势力。",
+      "source_hash": "6f9fcaba4f68eb98610ec90cf7ad65ac11b2261b25be83fad409d2cad4548f65",
+      "target": "Khi Đế Hoàng kiến lập Đế quốc Tinh Hải và bận rộn tái thiết văn minh nhân loại, Huyết Thần Tử thống lĩnh hai mươi tông phái cùng hạm đội tinh thạch tung hoành ngang dọc giữa biển sao vô tận, truy quét thế lực Yêu tộc tại từng đại thiên thế giới.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0039",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0039"
+      ],
+      "source": "几十年间，几乎所有大千世界中的妖族都被驱逐殆尽，只剩下妖族的老巢“万妖界”。",
+      "source_hash": "ea134afd5e2e308ab3b9b4aa18597a141ddeb12ca95157c14c614bbe190918b8",
+      "target": "Trong vòng vài chục năm, Yêu tộc ở hầu hết các đại thiên thế giới đều bị càn quét sạch trơn, chỉ còn lại sào huyệt cuối cùng của chúng là “Vạn Yêu Giới”.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0040",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0040"
+      ],
+      "source": "为了彻底征服妖族，血神子集结了二十元始宗派中战力最强的修真者，统帅星海帝国七成军力，组成强横无匹的“远征军”！",
+      "source_hash": "959e25157ad980dc7a0f86264c1089523c593f7d84243d73b64f0743b4882de3",
+      "target": "Để chinh phục hoàn toàn Yêu tộc, Huyết Thần Tử tập hợp những Tu Chân Giả có chiến lực mạnh nhất trong hai mươi Nguyên Thủy tông phái, thống lĩnh bảy mươi phần trăm quân lực của Đế quốc Tinh Hải, lập nên một đoàn “viễn chinh quân” vô địch hung hãn!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0041",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0041"
+      ],
+      "source": "就连帝皇都从自己的三魂七魄中，分割出了一魂一魄，暂时投入血神子体内，令他的战力飙涨到极限，可以和妖族中的王者抗衡！",
+      "source_hash": "255f371fa46312fec360682a251d387829aed884b408b2d4f127d7a53b6ebd8d",
+      "target": "Ngay cả Đế Hoàng cũng cắt ra một hồn một phách trong ba hồn bảy phách của mình để tạm thời nhập vào cơ thể Huyết Thần Tử, khiến chiến lực của ông ta tăng vọt tới giới hạn cao nhất, đủ sức chống chọi trực diện với những kẻ đứng đầu Yêu tộc!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0042",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0042"
+      ],
+      "source": "波澜壮阔的“亿万光年大远征”开始了！",
+      "source_hash": "b80217db3c8cdec9b640161ed6a9b6e9efcf9d106c4396a77273f355d0600751",
+      "target": "“Cuộc Đại Viễn Chinh Hàng Tỷ Năm Ánh Sáng” sóng gió hào hùng đã chính thức bắt đầu!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0043",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0043"
+      ],
+      "source": "远征军出征时，所有人都认为这将是最后的战争，人类将一劳永逸地解决妖族之患，星海帝国的光辉，将在下一个亿万年永远绽放！",
+      "source_hash": "4730ae94e1a60d11d2b1e5089fffb7f4680d7bf3a68086f080fc4d5cf52b5657",
+      "target": "Lúc viễn chinh quân xuất trận, ai nấy đều ngỡ rằng đây sẽ là trận chiến cuối cùng, nhân loại sẽ giải quyết triệt để mối họa Yêu tộc một lần và mãi mãi, hào quang của Đế quốc Tinh Hải sẽ tỏa sáng muôn đời suốt hàng tỷ năm tiếp theo!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0044",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0044"
+      ],
+      "source": "谁都没有料到，域外天魔早就盯上了血神子，在一次又一次的杀戮中，域外天魔不断诱惑，污染，腐蚀这位“末日战狂”！",
+      "source_hash": "7dad0d08f8f62028858d561a3759387bc89fb0d4ce1d26b12c04a9c14441b0ea",
+      "target": "Không một ai ngờ được rằng Vực Ngoại Thiên Ma từ lâu đã nhắm vào Huyết Thần Tử. Giữa vô số lần chém giết nhuốm máu, Vực Ngoại Thiên Ma liên tục dụ dỗ, vấy bẩn và bào mòn vị “Mạt Nhật Chiến Cuồng” này!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0045",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0045"
+      ],
+      "source": "当战事不顺，而血神子又和三名妖神拼至重伤，受到来自后方的非议之时，“末日战狂”终于心神失守，堕入魔道，从帝皇分身、修真者中的修真者，堕落成了最可怕的“修魔者”！",
+      "source_hash": "8918f6810aea1b8fc7e5acf643cde0f19f229940416269c8d80289a79a87025f",
+      "target": "Khi chiến sự gặp bất lợi, cộng thêm việc Huyết Thần Tử chiến đấu kiệt lực với ba vị Yêu Thần tới mức trọng thương và phải chịu những lời đàm tiếu từ hậu phương, “Mạt Nhật Chiến Cuồng” rốt cuộc đã thất thủ tâm thần, đọa vào ma đạo, từ một phân thân Đế Hoàng, một Tu Chân Giả kiệt xuất nhất trong các Tu Chân Giả, biến chất thành một “Tu Ma Giả” khủng khiếp nhất!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0046",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0046"
+      ],
+      "source": "沦为修魔者的末日战狂，当即率领血神宗门人，对其他宗派展开攻击。",
+      "source_hash": "a73351aa064aaa4546a948e3153d1e8900033889dab71373ab89e9cabfd360f4",
+      "target": "Sau khi hóa thành Tu Ma Giả, Mạt Nhật Chiến Cuồng lập tức dẫn dắt môn nhân Huyết Thần Tông khai chiến, điên cuồng tấn công các tông phái khác.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0047",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0047"
+      ],
+      "source": "而域外天魔也趁机对其他的帝皇分身进行侵蚀！",
+      "source_hash": "84017fbd441f8808f4697ddd871b16cb806503360970968a977db84a1ad593be",
+      "target": "Và Vực Ngoại Thiên Ma cũng thừa cơ xâm nhập ăn mòn những đạo phân thân khác của Đế Hoàng!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0048",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0048"
+      ],
+      "source": "最终有九个元始宗派堕入魔道，变成“魔门”！",
+      "source_hash": "356599e51136f2141b96625b21ffa6fc9133d6019b50d5a17a721b63f6ecffd9",
+      "target": "Cuối cùng có chín Nguyên Thủy tông phái đọa vào ma đạo, biến thành “Ma Môn”!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0049",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0049"
+      ],
+      "source": "在域外天魔的干涉下，末日战狂和万妖界达成了临时停火协议，还结成暂时的同盟，统帅九大魔门反攻星海帝国！",
+      "source_hash": "30faf2189bddb78a1d64f7837ce1af6d5e2b3be1089ac3cd645302561c1c7a65",
+      "target": "Dưới sự can thiệp của Vực Ngoại Thiên Ma, Mạt Nhật Chiến Cuồng đã đạt được thỏa thuận đình chiến tạm thời với Vạn Yêu Giới, thậm chí còn liên minh cùng chúng, thống lĩnh chín đại Ma Môn quay lại phản công Đế quốc Tinh Hải!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0050",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0050"
+      ],
+      "source": "人类文明尚未从大黑暗时代的阴影中完全挣脱出来，就陷入第二次修真界内战！",
+      "source_hash": "e0872114ac2ef03ae048f0d91d9a98fb63bce2fb540897878ad40d94c03527a7",
+      "target": "Văn minh nhân loại còn chưa thoát hẳn ra khỏi bóng tối của Đại Hắc Ám Thời Đại đã lập tức rơi vào cuộc nội chiến giới tu chân lần thứ hai!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0051",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0051"
+      ],
+      "source": "这次战争的惨烈程度丝毫不逊色于40000年前第一次修真界内战，战火撕碎了刚刚建立起来的星海帝国，在残酷无比的厮杀中，两个忠于人类文明的元始宗派甚至被彻底打垮，永远消失于无尽星海之中！",
+      "source_hash": "13aa67374cd4ef05892976adf4e6f9db6369f292144f94585bb447b914afff6e",
+      "target": "Mức độ thảm khốc của cuộc chiến này không hề thua kém cuộc nội chiến giới tu chân lần thứ nhất vào bốn vạn năm trước. Ngọn lửa chiến tranh đã xé toạc Đế quốc Tinh Hải vừa mới dựng xây. Trong những trận tàn sát đẫm máu tột cùng, hai Nguyên Thủy tông phái trung thành với văn minh nhân loại thậm chí bị đánh cho tan rã hoàn toàn, vĩnh viễn biến mất trong biển sao vô tận!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0052",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0052"
+      ],
+      "source": "最危急的时刻，九大魔门甚至攻入了星海帝国的首都“天极星”，帝皇不得不亲自现身，和末日战狂展开惊天动地的决战！",
+      "source_hash": "e26391eeff8ce89d0f75192d6abcbe9f4a3cef13e11ca102a74aa62a800928ab",
+      "target": "Vào thời khắc nguy cấp nhất, chín đại Ma Môn thậm chí đã công phá vào tận thủ đô “Thiên Cực Tinh” của Đế quốc Tinh Hải. Đế Hoàng buộc phải thân hành xuất đầu lộ diện, tử chiến một trận long trời lở đất với Mạt Nhật Chiến Cuồng!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0053",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0053"
+      ],
+      "source": "帝皇，站在人类进化的巅峰，是修真者中不朽的传奇！",
+      "source_hash": "fd4acae1be4f10d595dc2522b9ceb0d0728cb143c5b5df543897391acf925d32",
+      "target": "Đế Hoàng, người đứng trên đỉnh cao của tiến hóa nhân loại, là một huyền thoại bất tử trong số các Tu Chân Giả!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0054",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0054"
+      ],
+      "source": "末日战狂，是帝皇至高武力和最强杀意的化身，又拥有帝皇的一魂一魄，还得到了九天十地亿万魔君的祝福，域外天魔和妖王都将无穷无尽的幽能和妖力加持在他身上！",
+      "source_hash": "47beecab3002f51c1fb9e4fd0594cef376c38917a54447f82faa9f8597f8afca",
+      "target": "Mạt Nhật Chiến Cuồng chính là hiện thân cho võ lực chí cao và sát ý mạnh mẽ nhất của Đế Hoàng, lại mang trong mình một hồn một phách của Đế Hoàng, đồng thời nhận được sự chúc phúc của hàng vạn Ma Quân khắp chín tầng trời mười phương đất. Vực Ngoại Thiên Ma cùng Yêu Vương đều đổ dồn u năng và yêu lực vô hạn vào cơ thể ông ta!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0055",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0055"
+      ],
+      "source": "没人能描绘出这场决战究竟有多么惊心动魄，只知道整个“天极星”都被两人生生打爆！",
+      "source_hash": "7df50391fddbe4bff9dcd19508f80dbad0df02dc76a4169fb8cb2495f9d14ac9",
+      "target": "Không một ai có thể miêu tả nổi trận huyết chiến ấy chấn động tâm can đến dường nào, chỉ biết rằng toàn bộ “Thiên Cực Tinh” đã bị hai người bọn họ giậm đánh đến mức nổ tung hoàn toàn!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0056",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0056"
+      ],
+      "source": "最后，末日战狂的肉身被帝皇彻底粉碎，只剩一缕残魂，带着九大魔门的残兵败将遁入天外魔境。",
+      "source_hash": "f9278cd43ee090d2ff414eb36f2790a158cbd4d36359c0e29951665f981a61b2",
+      "target": "Cuối cùng, nhục thân của Mạt Nhật Chiến Cuồng bị Đế Hoàng đánh nát bấy hoàn toàn, chỉ còn sót lại một luồng tàn hồn dẫn theo tàn binh bại tướng của chín đại Ma Môn trốn chạy vào Thiên Ngoại Ma Cảnh.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0057",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0057"
+      ],
+      "source": "而帝皇也身受重伤，不得不遁入自己创造的小千世界，陷入非生非死，既生又死，玄之又玄的长眠。",
+      "source_hash": "2c0bc382322c244c1fe98b185c675b544184973c77ae7765cba97edd0dfc2fe9",
+      "target": "Còn Đế Hoàng cũng chịu vết thương chí mạng nặng nề, buộc phải ẩn mình vào một tiểu thiên thế giới do chính mình tạo ra, rơi vào một giấc ngủ dài huyền bí nửa sống nửa chết, vừa sống lại vừa chết.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0058",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0058"
+      ],
+      "source": "星海帝国在内战中遭受重创，又失去了帝皇这个无与伦比的领导者，各路妖魔趁机反扑，星海帝国彻底崩溃，各个大千世界之间的联系都被切断。",
+      "source_hash": "3210d87c7cb40608f78167a21ad520dcc01efe503ba41286c7d5d3ba374d7fcd",
+      "target": "Đế quốc Tinh Hải chịu tổn thất nặng nề sau cuộc nội chiến, lại mất đi vị lãnh tụ tối cao kiệt xuất vĩ đại là Đế Hoàng, lũ yêu ma các ngả nhân cơ hội phản công ác liệt. Đế quốc Tinh Hải sụp đổ hoàn toàn, mối liên kết giữa các đại thiên thế giới đều bị cắt đứt.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0059",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0059"
+      ],
+      "source": "九个仍旧忠于人类文明的元始宗派，也逐渐分化为成千上万个小宗派，散落在不同的大千世界，继续捍卫人类文明，和邪魔外道血战到底！",
+      "source_hash": "c7eca1b0caaa76e60aaa4e355ad1aec1afd3783530149705db6ace2ab71624f9",
+      "target": "Chín Nguyên Thủy tông phái vẫn một mực trung thành với văn minh nhân loại cũng dần dần phân rã thành hàng ngàn hàng vạn tông phái nhỏ, rải rác ở khắp các đại thiên thế giới khác nhau, tiếp tục bảo vệ văn minh nhân loại, chiến đấu đến giọt máu cuối cùng với lũ tà ma ngoại đạo!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0060",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0060"
+      ],
+      "source": "其中一些大千世界，如天元界这样，修炼宗派组建成了强大的国家，在正规军的带领下和妖兽厮杀，和魔门抗衡，普通人尚能拥有安定平静的生活。",
+      "source_hash": "3022ac955056c96232a79cf5f1ad5348b581742c862596f7fd707c3ce9ff9b76",
+      "target": "Trong đó có một số đại thiên thế giới giống như Thiên Nguyên Giới, các tông phái tu luyện hợp thành một quốc gia lớn mạnh, dưới sự chỉ đạo của quân đội chính quy để chém giết với yêu thú, đối kháng với Ma Môn, người bình thường vẫn có thể hưởng cuộc sống yên bình ổn định.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0061",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0061"
+      ],
+      "source": "另一些大千世界，人类和妖魔势均力敌，陷入长达数千年的血战，普通人也被卷入战火，从出生开始就陷入厮杀，直到死亡。",
+      "source_hash": "e34bad9228aafc8e964f660b7db2b73437ebb1bc0cc744aca5b9418800b396d8",
+      "target": "Có những đại thiên thế giới khác, nhân loại và yêu ma ngang tài ngang sức, lâm vào cuộc chiến đẫm máu kéo dài hàng ngàn năm. Người bình thường cũng bị cuốn vào khói lửa chiến tranh, từ khi lọt lòng đã phải bắt đầu chém giết cho tới lúc chết.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0062",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0062"
+      ],
+      "source": "更有极少数大千世界，完全被妖族和魔门统治，那里的人类就过着生不如死的日子，凄惨到了极点！",
+      "source_hash": "86e82a2af6d005867858a9c4adaf84f94924679c2ac2751b2ea5dc05dd088f78",
+      "target": "Thế chi tiết có một số cực ít đại thiên thế giới hoàn toàn bị Yêu tộc và Ma Môn cai trị, nhân loại ở những nơi đó sống một cuộc đời còn không bằng chết, thê thảm khôn cùng!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0063",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0063"
+      ],
+      "source": "人类文明想要彻底平息战火，称霸星海，征服宇宙，还有很长很长的路要走！",
+      "source_hash": "2d7bc287714b3d4d9a5e1017fd52e69d7b1905357fd99856e65b79f3cc2bb053",
+      "target": "Văn minh nhân loại muốn dập tắt hoàn toàn khói lửa chiến tranh, xưng bá biển sao, chinh phục vũ trụ thì vẫn còn một chặng đường vô cùng, vô cùng dài phía trước!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0064",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0064"
+      ],
+      "source": "这场由“末日战狂”掀起的大叛乱，史称“末日变”，归根结底，都是域外天魔策划！",
+      "source_hash": "e9f71edc2790783c36c5caf1f03d5c548eb68321a26172f91bd0fc9e3e4b2dd9",
+      "target": "Cuộc đại loạn do “Mạt Nhật Chiến Cuồng” khơi mào ấy được lịch sử gọi là “Mạt Nhật Biến”, suy cho cùng, tất cả đều do Vực Ngoại Thiên Ma một tay lên kế hoạch bày bố!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0067:align_0065",
+      "chapter_id": "chapter_0067",
+      "segment_ids": [
+        "chapter_0067:seg_0065"
+      ],
+      "source": "可想而知，当李耀发现郑东明竟然是一名被域外天魔引诱而堕落，能够操纵“幽能”的修魔者时，内心的震撼究竟有多么强烈了！",
+      "source_hash": "abcab99498797f479c10114aa5251219f91a9cd1d796e11ae1a11404feb43ed6",
+      "target": "Có thể tưởng tượng được khi Lý Diệu phát hiện ra Trịnh Đông Minh thế mà lại là một kẻ tu ma bị Vực Ngoại Thiên Ma cám dỗ sa đọa, có thể điều khiển được “U Năng”, thì sự chấn động trong nội tâm cậu dữ dội đến mức nào!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    }
+  ],
+  "term_occurrences": [
+    {
+      "chapter_id": "chapter_0067",
+      "source_term": "大黑暗时代",
+      "target_term": "Đại Hắc Ám Thời Đại",
+      "segment_id": "chapter_0067:seg_0015",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0067",
+      "source_term": "妖神病毒",
+      "target_term": "virus Yêu Thần",
+      "segment_id": "chapter_0067:seg_0014",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0067",
+      "source_term": "妖族",
+      "target_term": "Yêu tộc",
+      "segment_id": "chapter_0067:seg_0005",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0067",
+      "source_term": "帝皇",
+      "target_term": "Đế Hoàng",
+      "segment_id": "chapter_0067:seg_0015",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0067",
+      "source_term": "元始宗派",
+      "target_term": "Nguyên Thủy tông phái",
+      "segment_id": "chapter_0067:seg_0035",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0067",
+      "source_term": "郑东明",
+      "target_term": "Trịnh Đông Minh",
+      "segment_id": "chapter_0067:seg_0002",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0067",
+      "source_term": "放弃",
+      "target_term": "Từ Bỏ",
+      "segment_id": "chapter_0067:seg_0005",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0067",
+      "source_term": "巨目猿",
+      "target_term": "Vượn Khổng Nhãn",
+      "segment_id": "chapter_0067:seg_0020",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "beast",
+      "confidence": 1.0
+    }
+  ],
+  "entity_mentions": [
+    {
+      "chapter_id": "chapter_0067",
+      "source_surface": "李耀",
+      "target_surface": "Lý Diệu",
+      "entity_type": "person",
+      "segment_id": "chapter_0067:seg_0004",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0067",
+      "source_surface": "帝皇",
+      "target_surface": "Đế Hoàng",
+      "entity_type": "person",
+      "segment_id": "chapter_0067:seg_0015",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0067",
+      "source_surface": "郑东明",
+      "target_surface": "Trịnh Đông Minh",
+      "entity_type": "person",
+      "segment_id": "chapter_0067:seg_0002",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0067",
+      "source_surface": "魔道",
+      "target_surface": "Ma đạo",
+      "entity_type": "factions",
+      "segment_id": "chapter_0067:seg_0045",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0067",
+      "source_surface": "放弃",
+      "target_surface": "Từ Bỏ",
+      "entity_type": "items",
+      "segment_id": "chapter_0067:seg_0005",
+      "confidence": 1.0
+    }
+  ],
+  "name_analysis": {
+    "status": "ok",
+    "evidence_count": 3,
+    "name_mentions": [
+      {
+        "chapter_id": "chapter_0067",
+        "name_source": "李耀",
+        "name_target": "Lý Diệu",
+        "segment_id": "chapter_0067:seg_0004",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0067",
+        "name_source": "帝皇",
+        "name_target": "Đế Hoàng",
+        "segment_id": "chapter_0067:seg_0015",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0067",
+        "name_source": "郑东明",
+        "name_target": "Trịnh Đông Minh",
+        "segment_id": "chapter_0067:seg_0002",
+        "present_in_target": true,
+        "confidence": 1.0
+      }
+    ],
+    "name_entries": [
+      {
+        "name_source": "李耀",
+        "name_target": "Lý Diệu"
+      },
+      {
+        "name_source": "帝皇",
+        "name_target": "Đế Hoàng"
+      },
+      {
+        "name_source": "郑东明",
+        "name_target": "Trịnh Đông Minh"
+      }
+    ],
+    "transliteration_units": [],
+    "inferred_name_rules": [],
+    "ambiguity_cases": [],
+    "reusable_name_profile": {
+      "mapping_count": 3,
+      "has_ambiguity": false
+    }
+  },
+  "phrase_patterns": [],
+  "grammar_rule_candidates": [],
+  "analyzer_reports": {
+    "term_occurrences": {
+      "status": "ok",
+      "evidence_count": 8
+    },
+    "entity_mentions": {
+      "status": "ok",
+      "evidence_count": 5
+    },
+    "name_mentions": {
+      "status": "ok",
+      "evidence_count": 3
+    },
+    "phrase_patterns": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    },
+    "grammar_rule_candidates": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    }
+  },
+  "review_queue": [
+    {
+      "chapter_id": "chapter_0067",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "宗派",
+        "entity_type": "person",
+        "count": 3,
+        "confidence": 0.7,
+        "evidence": [
+          "分身，掌控二十个元始宗派！\n\n其中最强的一道",
+          "旧忠于人类文明的元始宗派，也逐渐分化为成千上",
+          "渐分化为成千上万个小宗派，散落在不同的大千世"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0067",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "米之外",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.82,
+        "evidence": [
+          "耀静静地站在郑东明五米之外，眼神锐利如刀，如秃",
+          "，我一直站在距离你五米之外，连一寸都不敢靠近，"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0067",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "九个仍旧忠于人类文明的元始宗派",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "的联系都被切断。\n\n九个仍旧忠于人类文明的元始宗派，也逐渐分化为成千上"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0067",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "也逐渐分化为成千上万个小宗派",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "人类文明的元始宗派，也逐渐分化为成千上万个小宗派，散落在不同的大千世"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0067",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "元始宗派",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "础上，创立了二十个“元始宗派”，并且从自己的神魂"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0067",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "掌控二十个元始宗派",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "中，分出二十道分身，掌控二十个元始宗派！\n\n其中最强的一道"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0067",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "血神宗",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "掌管拥有最强战力的“血神宗”，被帝皇赐名为“血"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0067",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "还结成暂时的同盟",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "达成了临时停火协议，还结成暂时的同盟，统帅九大魔门反攻星"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0067",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "魔门",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "宗派堕入魔道，变成“魔门”！\n\n在域外天魔的"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0067",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "侵入人类的脑域",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "生息的三千大千世界，侵入人类的脑域，污染人类的精神，腐"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0067",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "当帝皇建立星海帝国",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "为——末日战狂！\n\n当帝皇建立星海帝国，忙于重建人类文明之"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0067",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "战火撕碎了刚刚建立起来的星海帝国",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "前第一次修真界内战，战火撕碎了刚刚建立起来的星海帝国，在残酷无比的厮杀中"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0067",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "称霸星海",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "复兴，即将扫除妖族，称霸星海之时，又是域外天魔策"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0067",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "站在人类进化的巅峰",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "地的决战！\n\n帝皇，站在人类进化的巅峰，是修真者中不朽的传"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0067",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "组成浩瀚无垠的星辰大海",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "能逐渐转化成了物质，组成浩瀚无垠的星辰大海，也繁衍出了第一代生"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0067",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "统帅九大魔门反攻星海帝国",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "，还结成暂时的同盟，统帅九大魔门反攻星海帝国！\n\n人类文明尚未从"
+        ]
+      }
+    }
+  ],
+  "quality_audit": {
+    "segment_coverage": 1.0,
+    "source_hash_match": true,
+    "target_reconstruction_match": true,
+    "invalid_ref_count": 0,
+    "locked_term_hit_rate": 1.0,
+    "missing_locked_terms": [],
+    "cjk_residue_count": 0,
+    "paragraph_drift_ratio": 0.0,
+    "pronoun_consistency_score": 1.0,
+    "warnings": []
+  }
+}

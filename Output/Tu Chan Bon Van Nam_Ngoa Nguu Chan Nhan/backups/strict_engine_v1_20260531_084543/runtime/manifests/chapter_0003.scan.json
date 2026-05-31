@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 3,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan\\0003 - 3.第3章 异梦.md",
+  "source_char_count": 2283,
+  "characters": [
+    {
+      "source": "李耀",
+      "entity_type": "person",
+      "count": 3,
+      "confidence": 0.7,
+      "evidence": [
+        "梦\n\n  \n\n“操，李耀，怪不得都叫你‘无影",
+        "异梦中，虽然同样名叫李耀，却拥有截然不同的人",
+        "李耀是什么人，今天的李耀，是天元界、星耀联邦"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "source": "争取考个好大学",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "，你小子可要好好考，争取考个好大学，千万不要以为自己有"
+      ]
+    },
+    {
+      "source": "他没有直接走进校门",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "层白花花的汗盐。\n\n他没有直接走进校门，身形一闪，蹿进学校"
+      ]
+    },
+    {
+      "source": "各大门派",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "戈城犹如苏醒的巨兽，各大门派、势力都散开了禁制，"
+      ]
+    },
+    {
+      "source": "大步走出家门",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "包，提着立体光幕仪，大步走出家门。\n\n今天是周一，早"
+      ]
+    },
+    {
+      "source": "早上要开晨会",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "门。\n\n今天是周一，早上要开晨会，必须在七点半之前赶"
+      ]
+    }
+  ],
+  "locations": [],
+  "realms": [],
+  "techniques": [
+    "专营各类二手法",
+    "兼营法",
+    "可能在危机四伏的法",
+    "头子可是超一流的法",
+    "我欠了刀",
+    "播放着经",
+    "李耀恐怕也无法",
+    "正愁回去没法",
+    "每一步",
+    "灵蛇身法",
+    "用力挥了挥拳",
+    "给了他另一段人生经",
+    "要以为自己有一手法",
+    "防御法阵"
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "法宝坟墓",
+      "target": "Nghĩa địa Pháp Bảo"
+    },
+    {
+      "source": "浮戈城",
+      "target": "Phù Qua Thành"
+    },
+    {
+      "source": "赤霄派附属第二高中",
+      "target": "Trường trung học số hai trực thuộc Xích Tiêu Phái"
+    },
+    {
+      "source": "朝阳新村",
+      "target": "Triêu Dương Tân Thôn"
+    },
+    {
+      "source": "光幕仪",
+      "target": "Quang mạc nghi"
+    },
+    {
+      "source": "立体光幕仪",
+      "target": "Quang mạc nghi lập thể"
+    },
+    {
+      "source": "老爹",
+      "target": "Lão cha"
+    }
+  ],
+  "generated_at": "2026-05-30T04:54:35.516734+07:00"
+}

@@ -14,7 +14,7 @@ import sys
 from collections import Counter
 from dataclasses import asdict, dataclass
 from pathlib import Path
-from typing import Iterable
+from typing import Any, Iterable
 
 # Resolve imports from strict_engine package
 ROOT = Path(__file__).resolve().parent
@@ -24,6 +24,11 @@ if str(ROOT) not in sys.path:
 from utils.io import (  # noqa: E402
     get_logger, load_json, now_iso, save_json_atomic,
     get_source_chapter_path, resolve_branch_dir, ensure_dir,
+)
+from analysis_contract import (  # noqa: E402
+    build_source_manifest,
+    normalize_text,
+    write_source_manifest,
 )
 
 LOGGER = get_logger("source_analyzer")
@@ -86,14 +91,6 @@ class EntityCandidate:
 
 
 # ─── Text Helpers ───────────────────────────────────────────────────────────
-
-def normalize_text(text: str) -> str:
-    """Normalize line endings and collapse excessive blank lines."""
-    return re.sub(
-        r"\n{3,}", "\n\n",
-        text.replace("\r\n", "\n").replace("\r", "\n")
-    ).strip()
-
 
 def is_cjk(ch: str) -> bool:
     """Check if a character is in CJK Unified Ideographs range."""
@@ -216,16 +213,50 @@ def build_scan_report(branch_name: str, chapter: int) -> dict[str, Any]:
 
     text = normalize_text(chapter_path.read_text(encoding="utf-8"))
 
-    # Load existing glossary to find locked terms
+    # Known state is hard evidence. Heuristic output remains review-only.
     branch_dir = resolve_branch_dir(branch_name)
     glossary = load_json(
         branch_dir / "glossary.json", default={"entries": []}
     ) or {"entries": []}
-    locked_terms = {
+    glossary_terms = {
         e.get("source"): e.get("target")
         for e in glossary.get("entries", [])
         if e.get("source")
     }
+    locked_terms = {
+        e.get("source"): e.get("target")
+        for e in glossary.get("entries", [])
+        if e.get("source") and e.get("locked") is True
+    }
+    characters_payload = load_json(
+        branch_dir / "characters.json", default={"characters": []}
+    ) or {"characters": []}
+    worldbuilding_payload = load_json(
+        branch_dir / "worldbuilding.json", default={}
+    ) or {}
+    manifest = build_source_manifest(branch_name, chapter, text, chapter_path)
+
+    known_characters = []
+    for item in characters_payload.get("characters", []):
+        source = (
+            item.get("name_source")
+            or item.get("source")
+            or item.get("name_original")
+            or item.get("zh_name")
+        )
+        if source and source in text:
+            known_characters.append(item)
+
+    known_worldbuilding = []
+    for section, items in worldbuilding_payload.items():
+        if not isinstance(items, list):
+            continue
+        for item in items:
+            if not isinstance(item, dict):
+                continue
+            source = item.get("source") or item.get("name_source") or item.get("system_name")
+            if source and source in text:
+                known_worldbuilding.append({"section": section, **item})
 
     # Scan for entities
     characters = scan_person_names(text)
@@ -234,16 +265,28 @@ def build_scan_report(branch_name: str, chapter: int) -> dict[str, Any]:
     terms = scan_known_terms(text)
 
     return {
-        "schema_version": "1.0",
+        "schema_version": "2.0",
         "branch": branch_name,
         "chapter": chapter,
         "source_file": str(chapter_path),
         "source_char_count": len(text),
-        "characters": [asdict(x) for x in characters],
-        "organizations": [asdict(x) for x in orgs],
-        "locations": [asdict(x) for x in locations],
+        "source_hash": manifest["source_hash"],
+        "source_manifest_hash": manifest["source_manifest_hash"],
+        "source_segments": manifest["source_segments"],
+        "known_characters": known_characters,
+        "known_worldbuilding": known_worldbuilding,
+        "heuristic_candidates": {
+            "characters": [asdict(x) for x in characters],
+            "organizations": [asdict(x) for x in orgs],
+            "locations": [asdict(x) for x in locations],
+            "techniques": terms["techniques"],
+        },
         "realms": terms["realms"],
-        "techniques": terms["techniques"],
+        "matched_glossary_terms": [
+            {"source": s, "target": t}
+            for s, t in glossary_terms.items()
+            if s in text
+        ],
         "matched_locked_terms": [
             {"source": s, "target": t}
             for s, t in locked_terms.items()
@@ -263,6 +306,20 @@ def write_scan_report(branch_name: str, chapter: int, report: dict) -> Path:
     branch_dir = resolve_branch_dir(branch_name)
     target = branch_dir / "runtime" / "manifests" / f"chapter_{chapter:04d}.scan.json"
     save_json_atomic(target, report)
+    write_source_manifest(
+        branch_name,
+        chapter,
+        {
+            "schema_version": report["schema_version"],
+            "branch": report["branch"],
+            "chapter": report["chapter"],
+            "chapter_id": f"chapter_{chapter:04d}",
+            "source_file": report["source_file"],
+            "source_hash": report["source_hash"],
+            "source_manifest_hash": report["source_manifest_hash"],
+            "source_segments": report["source_segments"],
+        },
+    )
     return target
 
 
@@ -301,11 +358,11 @@ def main() -> int:
         "%d realms, %d techniques, %d locked terms matched",
         args.chapter,
         report["source_char_count"],
-        len(report["characters"]),
-        len(report["organizations"]),
-        len(report["locations"]),
+        len(report["heuristic_candidates"]["characters"]),
+        len(report["heuristic_candidates"]["organizations"]),
+        len(report["heuristic_candidates"]["locations"]),
         len(report["realms"]),
-        len(report["techniques"]),
+        len(report["heuristic_candidates"]["techniques"]),
         len(report["matched_locked_terms"]),
     )
     return 0

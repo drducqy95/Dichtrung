@@ -1,96 +1,96 @@
 #!/usr/bin/env python3
-"""
-Updates the branch's analysis state by appending data from analysis_result.json
-into continuous JSONL files.
-"""
+"""Rebuild derived JSONL analysis state from chapter artifacts idempotently."""
+from __future__ import annotations
 
+import argparse
 import json
 from pathlib import Path
+from typing import Any
+
 from utils import io
 
-logger = io.get_logger("update_analysis_state")
+LOGGER = io.get_logger("update_analysis_state")
 
-def append_jsonl(filepath: Path, items: list[dict]):
-    """Appends a list of dicts to a JSONL file."""
-    if not items:
-        return
-    io.ensure_dir(filepath.parent)
-    with filepath.open("a", encoding="utf-8") as f:
-        for item in items:
-            f.write(json.dumps(item, ensure_ascii=False) + "\n")
 
-def update_analysis_state(branch_name: str, chapter: int) -> bool:
-    """
-    Reads the chapter's analysis result and appends its contents to the
-    project's persistent JSONL analysis logs.
-    """
+def _write_jsonl(path: Path, items: list[dict[str, Any]]) -> None:
+    text = "".join(json.dumps(item, ensure_ascii=False) + "\n" for item in items)
+    io.write_text_atomic(path, text)
+
+
+def rebuild_analysis_state(branch_name: str) -> dict[str, int]:
     branch_dir = io.resolve_branch_dir(branch_name)
-    analysis_runtime_dir = branch_dir / "runtime" / "analysis"
-    analysis_file = analysis_runtime_dir / f"chapter_{chapter:04d}.analysis_result.json"
+    runtime_dir = branch_dir / "runtime" / "analysis"
+    output_dir = branch_dir / "analysis"
+    io.ensure_dir(output_dir)
+    io.ensure_dir(output_dir / "audit")
+    buckets: dict[str, list[dict[str, Any]]] = {
+        "aligned_segments": [],
+        "term_occurrences": [],
+        "entity_mentions": [],
+        "name_mentions": [],
+        "phrase_patterns": [],
+        "grammar_rules": [],
+        "review_queue": [],
+    }
+    chapter_count = 0
+    for path in sorted(runtime_dir.glob("chapter_*.analysis_result.json")):
+        data = io.load_json(path)
+        if not data:
+            continue
+        chapter_count += 1
+        buckets["aligned_segments"].extend(data.get("aligned_segments", []))
+        buckets["term_occurrences"].extend(data.get("term_occurrences", []))
+        buckets["entity_mentions"].extend(data.get("entity_mentions", []))
+        buckets["name_mentions"].extend(data.get("name_analysis", {}).get("name_mentions", []))
+        buckets["phrase_patterns"].extend(data.get("phrase_patterns", []))
+        buckets["grammar_rules"].extend(data.get("grammar_rule_candidates", []))
+        buckets["review_queue"].extend(data.get("review_queue", []))
+        if data.get("quality_audit"):
+            io.save_json_atomic(
+                output_dir / "audit" / f"chapter_{int(data['chapter']):04d}.json",
+                data["quality_audit"],
+            )
+    for name, rows in buckets.items():
+        _write_jsonl(output_dir / f"{name}.jsonl", rows)
+    report = {"chapters": chapter_count, **{name: len(rows) for name, rows in buckets.items()}}
+    LOGGER.info("Rebuilt derived analysis state for %s: %s", branch_name, report)
+    return report
 
-    if not analysis_file.exists():
-        logger.warning(f"No analysis result found for {branch_name} chapter {chapter}")
+
+def update_analysis_state(
+    branch_name: str,
+    chapter: int,
+    promote: bool | None = None,
+) -> bool:
+    branch_dir = io.resolve_branch_dir(branch_name)
+    artifact = (
+        branch_dir
+        / "runtime"
+        / "analysis"
+        / f"chapter_{chapter:04d}.analysis_result.json"
+    )
+    if not artifact.exists():
+        LOGGER.error("Analysis artifact missing: %s", artifact)
         return False
+    rebuild_analysis_state(branch_name)
+    should_promote = chapter % 10 == 0 if promote is None else promote
+    if should_promote:
+        import promote_reviewed
+        import sync_analysis_global
 
-    data = io.load_json(analysis_file)
-    if not data:
-        logger.error(f"Failed to load analysis result for {branch_name} chapter {chapter}")
-        return False
-
-    output_analysis_dir = branch_dir / "analysis"
-    io.ensure_dir(output_analysis_dir)
-
-    # Append arrays to their respective JSONL files
-    if "aligned_segments" in data:
-        append_jsonl(output_analysis_dir / "aligned_segments.jsonl", data["aligned_segments"])
-    
-    if "term_occurrences" in data:
-        append_jsonl(output_analysis_dir / "term_occurrences.jsonl", data["term_occurrences"])
-
-    if "entity_mentions" in data:
-        append_jsonl(output_analysis_dir / "entity_mentions.jsonl", data["entity_mentions"])
-
-    if "phrase_patterns" in data:
-        append_jsonl(output_analysis_dir / "phrase_patterns.jsonl", data["phrase_patterns"])
-
-    if "grammar_rule_candidates" in data:
-        append_jsonl(output_analysis_dir / "grammar_rules.jsonl", data["grammar_rule_candidates"])
-
-    # Write quality audit as a standalone JSON file per chapter
-    if "quality_audit" in data:
-        audit_dir = output_analysis_dir / "audit"
-        io.ensure_dir(audit_dir)
-        audit_file = audit_dir / f"chapter_{chapter:04d}.json"
-        io.save_json_atomic(audit_file, data["quality_audit"])
-    
-    logger.info(f"Updated analysis state for {branch_name} chapter {chapter}")
-
-    # Trigger promotion if chapter is a multiple of 10
-    if chapter % 10 == 0:
-        logger.info(f"Chapter {chapter} is a multiple of 10. Triggering promote_reviewed.")
-        try:
-            import promote_reviewed
-            promote_reviewed.promote_reviewed(branch_name, chapter)
-            
-            # Sync to global state after promotion
-            try:
-                import sync_analysis_global
-                sync_analysis_global.sync_analysis_to_global(branch_name)
-            except ImportError:
-                logger.warning("sync_analysis_global module not yet implemented or importable.")
-        except ImportError:
-            logger.warning("promote_reviewed module not yet implemented or importable.")
-        except Exception as e:
-            logger.error(f"Error during promote_reviewed: {e}")
-
+        promote_reviewed.promote_reviewed(branch_name, chapter)
+        sync_analysis_global.sync_analysis_to_global(branch_name)
     return True
 
-if __name__ == "__main__":
-    import argparse
-    parser = argparse.ArgumentParser()
+
+def main() -> int:
+    parser = argparse.ArgumentParser(description="Rebuild idempotent analysis JSONL state")
     parser.add_argument("--branch", required=True)
-    parser.add_argument("--chapter", type=int, required=True)
+    parser.add_argument("--chapter", required=True, type=int)
+    parser.add_argument("--no-promote", action="store_true")
     args = parser.parse_args()
-    
-    success = update_analysis_state(args.branch, args.chapter)
-    print(f"State update success: {success}")
+    return 0 if update_analysis_state(args.branch, args.chapter, promote=not args.no_promote) else 1
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

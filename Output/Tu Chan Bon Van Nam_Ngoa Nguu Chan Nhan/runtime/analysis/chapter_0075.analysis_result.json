@@ -1,0 +1,1105 @@
+{
+  "schema_version": "2.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 75,
+  "chapter_id": "chapter_0075",
+  "source_manifest_hash": "64619a4c56e1d97831c5f84a50d09d05039bb8e29bb629356fc87012533c7243",
+  "aligned_segments": [
+    {
+      "alignment_id": "chapter_0075:align_0001",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0001"
+      ],
+      "source": "# 75.第75章 撕破脸皮",
+      "source_hash": "e89bf7e62f72c42eec139fd744ab91741d42e58790c12c8368b913ab5203e3d5",
+      "target": "# Chương 0075 - Xé Rách Mặt!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0002",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0002"
+      ],
+      "source": "“李耀同学，没想到你这么快就苏醒过来，真是生命力惊人，就像是一只怎么踩都踩不死的蟑螂，实在可喜可贺！”",
+      "source_hash": "f56f72778cf7a074466e9222ee850d11a5d6e94b5b7c1496e6a7e6fc0bacc42d",
+      "target": "“Em Lý Diệu, không ngờ em lại thức tỉnh nhanh đến vậy, sức sống quả là kinh người, giống như một con gián đạp thế nào cũng không chết, thật sự đáng chúc mừng!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0003",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0003"
+      ],
+      "source": "赫连烈居高临下，俯下身子，探到李耀耳边轻声道。",
+      "source_hash": "3dc517d65dc1dba6711b7799387152dac9f0b4677a362004a76bcfb7cac06b6a",
+      "target": "Hách Liên Liệt đứng ở trên cao nhìn xuống, cúi người ghé sát tai Lý Diệu nói nhỏ.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0004",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0004"
+      ],
+      "source": "四周的同学听不到他说话，只看到他脸上洋溢着热情的笑容，还以为两人已经化解了矛盾，赫连烈正在欢迎李耀回学校呢！",
+      "source_hash": "86df06f33824bc7c576e92bcdab413d9ebf84b138d3c8c70c9323cc5b63d41b6",
+      "target": "Các bạn học xung quanh không nghe thấy gã nói gì, chỉ thấy trên mặt gã tràn ngập nụ cười nhiệt tình, còn tưởng rằng hai người đã hóa giải mâu thuẫn, Hách Liên Liệt đang chào đón Lý Diệu trở lại trường học kìa!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0005",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0005"
+      ],
+      "source": "李耀扬了扬眉毛，吞噬了欧冶子大量记忆碎片后，他的实力有了惊人提升，赫连烈这种级数的家伙，在他眼中彻底沦为了虾兵蟹将一般的存在，实在不值得他大动肝火。",
+      "source_hash": "94d063bb92510da1928826b70e93f93eefcfd1f6ebfee10afa5aa526f6c7fa7d",
+      "target": "Lý Diệu nhướng mày, sau khi nuốt chửng một lượng lớn mảnh vỡ ký ức của Âu Dã Tử, thực lực của cậu đã thăng tiến vượt bậc, kẻ ở đẳng cấp như Hách Liên Liệt trong mắt cậu đã hoàn toàn biến thành dạng tôm binh cua tướng, thực sự không đáng để cậu nổi trận lôi đình.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0006",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0006"
+      ],
+      "source": "又一次，李耀想到了郑东明。",
+      "source_hash": "fa8218e040046ca89310a482129ef5b6a7c14bee2a94c54d61b60df9d4e3e8c0",
+      "target": "Một lần nữa, Lý Diệu lại nghĩ tới Trịnh Đông Minh.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0007",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0007"
+      ],
+      "source": "也只有郑东明这种能够同时修炼灵能和幽能的“怪物”，才有资格成为他的敌人和“猎物”，能让他打起十二万分精神来“猎杀”。",
+      "source_hash": "47972f4b98c5d805f7b5aa63da768b926d18b88af225bcaba543ef475300e516",
+      "target": "Cũng chỉ có hạng “quái vật” có thể đồng thời tu luyện linh năng và u năng như Trịnh Đông Minh mới có tư cách làm kẻ địch cùng “con mồi” của cậu, mới có thể khiến cậu nâng cao mười hai vạn phần tinh thần để “săn giết”.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0008",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0008"
+      ],
+      "source": "赫连烈，连给他塞牙缝都不够分量啊！",
+      "source_hash": "e8f0dbf771c9cff5f0612ef8dafa7051e512db5165c1ba029b928ec6049c017d",
+      "target": "Hách Liên Liệt, ngay cả kẽ răng của cậu cũng không đủ để nhét nữa là!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0009",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0009"
+      ],
+      "source": "“赫连同学，请让一让。”李耀面无表情，十分平静地说。",
+      "source_hash": "c932cbc606b9750eb815787aecd0ff66a56459d79142d6abfd08fcb8ccff08d3",
+      "target": "“Cậu Hách Liên, xin nhường đường một chút.” Lý Diệu mặt không cảm xúc, bình thản nói.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0010",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0010"
+      ],
+      "source": "赫连烈挑了挑眉毛，似乎没料到李耀在他面前还敢如此平静，甚至平静得有些冷漠。",
+      "source_hash": "cc19ade173f3c08aaac798ffccf121488904a65caca517237a7e356c7e5933ca",
+      "target": "Hách Liên Liệt nhướng mày lên, dường như không ngờ Lý Diệu ở trước mặt gã vẫn dám tỏ ra bình thản như thế, thậm chí là bình thản đến mức có phần lạnh lùng.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0011",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0011"
+      ],
+      "source": "赫连烈脸上掠过一抹狰狞，咬牙切齿地说：“李耀，你以为自己还是魔蛟岛上横行霸道的修炼天才？呸！你现在只是一个灵根开发度7%的废物，垃圾！在我面前，还敢这么嚣张，我有一百种办法可以玩死你！”",
+      "source_hash": "96e972d7370db3f60ef5acdbeae01265468d61e7e1ed2973181cea112e1716bc",
+      "target": "Gương mặt Hách Liên Liệt thoáng qua một nét dữ tợn, nghiến răng nghiến lợi nói: “Lý Diệu, mày tưởng mình vẫn còn là thiên tài tu luyện hoành hành ngang ngược trên Đảo Ma Giao sao? Phi! Giờ mày chỉ là một phế vật có độ khai phát linh căn 7%, thứ rác rưởi! Ở trước mặt tao mà còn dám kiêu ngạo như vậy, tao có một trăm cách có thể chơi chết mày!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0012",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0012"
+      ],
+      "source": "“嗯？”",
+      "source_hash": "c95e6fece9e5b3a1d8b5e0f2e0225f3d7a3903c681b3c7708c12827f6cf72d6d",
+      "target": "“Hử?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0013",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0013"
+      ],
+      "source": "李耀眯起眼睛，目光锐利，如两支冰锥，狠狠刺进了赫连烈的双眼。",
+      "source_hash": "d4f6980b168281cb5eab6b7461b33e88142b91bc7745b6405f27ae2f8517d597",
+      "target": "Lý Diệu híp mắt lại, ánh mắt sắc lẹm như hai cây đinh băng đâm thẳng vào mắt Hách Liên Liệt.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0014",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0014"
+      ],
+      "source": "赫连烈只觉得脑域一片阴森的寒意，双眼好似被狠狠戳了两下，一下子被激出眼泪，下意识地倒退了两步。",
+      "source_hash": "d217fad8aa214463d14df2c15705bd239ec85d0e0ff394f7f48f62b21fc63afb",
+      "target": "Hách Liên Liệt chỉ cảm thấy trong não bộ dâng lên một luồng khí lạnh âm u, hai mắt như bị chọc mạnh hai phát đau đớn, nước mắt lập tức trào ra, gã vô thức lùi lại hai bước.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0015",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0015"
+      ],
+      "source": "等他回过神来，李耀已经从他身边绕了过去。",
+      "source_hash": "2b9dfceba88dc5f25cdb730a82e911a2f9a7459d575a02e8552a3dacbfdf73a9",
+      "target": "Đến khi gã hoàn hồn lại thì Lý Diệu đã lách qua người gã đi mất.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0016",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0016"
+      ],
+      "source": "“你——”",
+      "source_hash": "0a0d009980d8b727eb7006574f1af7aa07e60e1c7d29543b816041b143b87565",
+      "target": "“Mày——”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0017",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0017"
+      ],
+      "source": "赫连烈一看四周，所有人都呆若木鸡地看着他，不明白他为什么忽然僵硬，就像被吓傻了一样。",
+      "source_hash": "9653f422c0b0ab52882cad863e2f32e33440be55e99ab3fa21baacb74bb9f8cb",
+      "target": "Hách Liên Liệt nhìn quanh bốn phía, tất cả mọi người đều ngơ ngác như phỗng đá nhìn mình, không hiểu vì sao gã đột nhiên sững sờ ra đó như bị dọa sợ phát khiếp.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0018",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0018"
+      ],
+      "source": "赫连烈勃然大怒，正欲上前拦截，忽然看到一个长着黑炭脸的中年人走向李耀。",
+      "source_hash": "9384a9d3c9a1bb82bfbfea212881d8182369d2b894fbb3114c894e76f511480c",
+      "target": "Hách Liên Liệt giận dữ vô cùng, đang định bước lên ngăn cản thì bỗng thấy một người trung niên mặt đen như than đi về phía Lý Diệu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0019",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0019"
+      ],
+      "source": "赫连烈放松下来，怪笑几声，道：“李耀同学，看来教导主任找你有事，你千万做好心理准备，不要太激动啊——等你从教导处出来，我们再好好聊聊！”",
+      "source_hash": "55c0ceb5a4a9d4e15da90d15ed874b9aca347f2a1fc960d94e409a0d7dd1fdfb",
+      "target": "Hách Liên Liệt thả lỏng người, cười quái dị vài tiếng rồi nói: “Em Lý Diệu, xem ra thầy chủ nhiệm giáo vụ có chuyện tìm em rồi đấy, nhớ chuẩn bị tâm lý cho tốt, đừng có kích động quá nhé——chờ em từ phòng giáo vụ đi ra, chúng ta sẽ trò chuyện tử tế sau!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0020",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0020"
+      ],
+      "source": "李耀有些狐疑地打量黑炭脸。",
+      "source_hash": "e4d81090f0c100f53a19693165b8ea2335d738815a1d98dcb49c1fb24270cfe5",
+      "target": "Lý Diệu hơi nghi hoặc quan sát gương mặt đen như than kia.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0021",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0021"
+      ],
+      "source": "教导主任名叫黑一明，不过所有学生都叫他“黑面神”，此君在学校里以作风严厉，毫不留情而著称，还喜欢神不知鬼不觉地出现在教室后面，抓学生的违规行为，被所有学生都深恶痛绝，是公认的阴狠人物。",
+      "source_hash": "e0e3870137cce6c076f2ab4c1c9bd82159d6b8b1e57dc36a1bc84aae00e3f6fe",
+      "target": "Thầy chủ nhiệm giáo vụ tên là Hắc Nhất Minh, nhưng toàn bộ học sinh đều gọi ông ta là “Hắc Diện Thần”. Ông ta nổi tiếng trong trường với phong cách làm việc nghiêm khắc, không chút vị nể, lại còn thích xuất hiện xuất quỷ nhập thần ở phía sau lớp học để bắt quả tang hành vi vi phạm của học sinh, bị tất cả học trò căm ghét tột cùng, là nhân vật thâm độc được công nhận.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0022",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0022"
+      ],
+      "source": "“李耀同学，学校方面刚刚得到你苏醒的消息，正准备派人去医院找你，没想到你自己到学校来了！正好，我们去教导处，我代表学校和你沟通一下今后的上学问题！”黑面神冷冰冰地说。",
+      "source_hash": "5ce6f63b1b059123a6e9f34a1718d0a8bff3e67217a30f87086798bf87b60c06",
+      "target": "“Em Lý Diệu, phía nhà trường vừa nhận được tin em tỉnh lại, đang định cử người đến bệnh viện tìm em thì không ngờ em đã tự tới trường rồi! Vừa khéo, chúng ta đến phòng giáo vụ đi, tôi đại diện nhà trường trao đổi với em một chút về vấn đề đi học sau này!” Hắc Diện Thần lạnh lùng nói.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0023",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0023"
+      ],
+      "source": "李耀眉头一皱，黑面神语气不善，虽然此君平时也一直板着一张死人面孔，不过今天显得特别古怪，眼神中竟然流露出一丝——怜悯？",
+      "source_hash": "31381e5ceb44b0905759565416eb4344f7c585de682b1f669a4f98529a605f3a",
+      "target": "Lý Diệu nhíu mày, giọng điệu của Hắc Diện Thần không mấy thân thiện, tuy ông ta ngày thường cũng luôn trưng ra khuôn mặt cứng nhắc như xác chết, nhưng hôm nay lại tỏ ra vô cùng kỳ quái, trong ánh mắt thế mà lại thoáng qua một tia——thương hại?",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0024",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0024"
+      ],
+      "source": "不过他也没多说什么，跟在黑面神后面，来到教导处。",
+      "source_hash": "78715e24cc11a816570c003fb4ac88ec78d703b082a60f0e4387016f6c74b0c3",
+      "target": "Thế nhưng cậu cũng không nói gì nhiều, lẳng lặng đi theo sau Hắc Diện Thần tới phòng giáo vụ.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0025",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0025"
+      ],
+      "source": "教导处里原本有几名老师正在小声商议什么，见李耀进来都是一愣，彼此交流了一个意味深长的眼神，纷纷离开。",
+      "source_hash": "51cad14fd2a0ab60fd32b278b296d97d8fa73a644ffcae45a3ff088f65d53634",
+      "target": "Trong phòng giáo vụ vốn có mấy thầy cô giáo đang nhỏ giọng thảo luận chuyện gì đó, thấy Lý Diệu đi vào đều sửng sốt, trao đổi với nhau một ánh mắt đầy ẩn ý rồi lần lượt rời đi.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0026",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0026"
+      ],
+      "source": "最后走的一个，还轻轻带上了门。",
+      "source_hash": "5f765679760f83c10ee91b01d6b26692fa901e1d426691e14671ddbd029c7bf7",
+      "target": "Người cuối cùng bước ra ngoài còn khẽ khàng khép cửa lại.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0027",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0027"
+      ],
+      "source": "黑面神干咳一声，冷冰冰的面孔上多了几分尴尬，坐在椅子上，手指下意识地敲击着桌面，沉默许久，终于说出了学校方面的决定。",
+      "source_hash": "adc3620ed0f2be5f0c48bfa453b45ceecc236c9acfdccbde21582707bfd60ed7",
+      "target": "Hắc Diện Thần ho nhẹ một tiếng, gương mặt lạnh lùng hiện lên vài phần ngượng ngập. Ông ta ngồi xuống ghế, ngón tay vô thức gõ nhịp trên mặt bàn, im lặng hồi lâu mới rốt cuộc nói ra quyết định của nhà trường.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0028",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0028"
+      ],
+      "source": "听他说完，李耀沉寂了半天，幽深的眼眸深处逐渐有一缕缕的电芒凝聚，到最后怒极反笑，淡淡道：“要我休学？”",
+      "source_hash": "72f2949f9d0cdba8322d6ba0749e7edf6a3a8cd2d5b8393a2f6f9c2f96d49738",
+      "target": "Nghe ông ta nói xong, Lý Diệu im lặng hồi lâu, sâu trong đôi mắt u tối dần dần ngưng tụ những tia chớp sắc lạnh, đến cuối cùng cậu tức giận quá hóa cười, nhàn nhạt nói: “Muốn em bảo lưu học tập?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0029",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0029"
+      ],
+      "source": "“李耀同学，我知道你现在的心情，也非常同情你的遭遇，不过还是请你冷静一点听我解释——我们赤霄二中是浮戈城里知名的优质高中，对学生，特别是高三考生的要求非常严格，重点班和平行班自不必说，即便是普通班同学，灵根开发度起码也要在25%以上！”",
+      "source_hash": "c155e40eecfba43d782caa875a4c9d9d69b22aa5af1d4658940f783d9f55efc3",
+      "target": "“Em Lý Diệu, tôi biết tâm trạng hiện tại của em, cũng vô cùng đồng cảm với ngộ cảnh của em, nhưng xin em hãy bình tĩnh nghe tôi giải thích——trường Xích Tiêu Nhị Trung chúng ta là một trường trung học chất lượng cao nổi tiếng ở Phù Qua Thành, đối với học sinh, đặc biệt là thí sinh khối mười hai có yêu cầu vô cùng nghiêm khắc. lớp trọng điểm và lớp song hành thì khỏi phải bàn, ngay cả học sinh lớp thường thì độ khai phát linh căn ít nhất cũng phải từ 25% trở lên!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0030",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0030"
+      ],
+      "source": "黑面神开始还有些尴尬，不过神色很快就坦然起来，似乎连自己都被说服。",
+      "source_hash": "6eabca0dbf9d528c0d287db5af3f9c55bc80238c957b8c18610475b6967dbd02",
+      "target": "Hắc Diện Thần lúc đầu còn có chút ngượng ngùng, nhưng nét mặt rất nhanh đã trở nên thản nhiên, dường như đến cả bản thân ông ta cũng bị thuyết phục bởi lý lẽ của chính mình.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0031",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0031"
+      ],
+      "source": "他不紧不慢地敲击着桌面，道，“你现在的身体状况，显然不适合高三阶段这么繁重的学习和修炼，勉强坚持下去，不但考不上心仪的大学，还会把身体彻底搞垮，不如退一步，先办理一年休学，你在家里慢慢调养，等过一年，或者两三年都无所谓，什么时候你的身体恢复了，灵根开发度也提升了，还是可以回来继续学习的嘛！”",
+      "source_hash": "ff521fcd5add02203339aaca32cdbcd0277fa5fec17169436271883777c60ba6",
+      "target": "Ông ta không nhanh không chậm gõ ngón tay lên bàn nói: “Tình trạng thân thể hiện tại của em rõ ràng không thích hợp với việc học tập và tu luyện nặng nề giai đoạn lớp mười hai này. Gượng ép kiên trì đi tiếp, không những không thi đỗ được trường đại học như ý mà còn phá hỏng hoàn toàn sức khỏe. Chi bằng lùi lại một bước, làm thủ tục bảo lưu một năm trước, em ở nhà thong thả điều dưỡng, chờ qua một năm, hay hai ba năm cũng không sao, khi nào thân thể em hồi phục, độ khai phát linh căn cũng tăng lên thì vẫn có thể quay lại tiếp tục học tập mà!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0032",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0032"
+      ],
+      "source": "李耀只是冷笑，并不接话，心中怒意膨胀，胸膛都被撑满，几乎要爆裂出岩浆。",
+      "source_hash": "c4a49591aa6a26d1f245aaa4b047056ae07e2c90014317c686466bd7bc835bfe",
+      "target": "Lý Diệu chỉ lạnh lùng cười mỉa, không hề tiếp lời, cơn giận trong lòng phình to, lồng ngực bị nén chặt như thể sắp phun trào nham thạch.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0033",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0033"
+      ],
+      "source": "被深海大学取消“特招”和“降分录取”资格，他并不意外；在回学校之前，他也想过赤霄派不可能继续推荐他去星云大学进修，更不可能和他签署工作合同。",
+      "source_hash": "31e7259e79965d92606ef84037288d1557ffb93d57db0a4bf2ac1cd6ba8050f0",
+      "target": "Bị Đại học Thâm Hải hủy bỏ tư cách “tuyển đặc cách” và “hạ điểm chuẩn nhận học”, cậu không hề bất ngờ; trước khi trở lại trường, cậu cũng đã nghĩ tới việc Xích Tiêu Phái không thể tiếp tục đề cử cậu tới Đại học Tinh Vân tu nghiệp, càng không thể ký kết hợp đồng lao động với cậu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0034",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0034"
+      ],
+      "source": "这些都是情理之中的事情，他不埋怨，也不稀罕。",
+      "source_hash": "5b11d0f2442574f8f72619687787369bfbeb750cb693558bbc865e011dfc1385",
+      "target": "Những thứ này đều là chuyện hợp tình hợp lý, cậu không oán trách, cũng chẳng thèm muốn.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0035",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0035"
+      ],
+      "source": "只是，他怎么都想不到，赤霄二中会在这个节骨眼上强制要求他休学一年，并且明年能否继续上学，还要看他的身体恢复情况如何！",
+      "source_hash": "eb912e9e14d4be5924a1743b9f2dfcdcda9687b0bc65b7b7c2efd6ef45c2111a",
+      "target": "Thế nhưng cậu không thể nào ngờ được trường Xích Tiêu Nhị Trung lại vào lúc mấu chốt này cưỡng chế yêu cầu cậu phải bảo lưu một năm, hơn nữa sang năm có được đi học tiếp hay không còn phải xem tình trạng phục hồi thân thể của cậu thế nào!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0036",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0036"
+      ],
+      "source": "说到底，他也是代表赤霄二中去魔蛟岛上参赛，如果当时真的取得了积分榜第一，除了自己获得莫大好处之外，赤霄二中也是脸上有光，会成为东南一带人尽皆知的名校。",
+      "source_hash": "b54695f36714f9c01ce575bfdf1758b3f75bc25939b0bb1421ea372f1a490b20",
+      "target": "Nói đi cũng phải nói lại, cậu cũng là đại diện cho Xích Tiêu Nhị Trung đi tham dự giải đấu trên Đảo Ma Giao. Nếu lúc ấy thực sự giành được vị trí số một trên bảng xếp hạng, ngoài việc bản thân được hưởng lợi ích khổng lồ thì Xích Tiêu Nhị Trung cũng được thơm lây, trở thành ngôi trường danh tiếng ai ai cũng biết ở vùng đông nam.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0037",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0037"
+      ],
+      "source": "可是现在，他“受伤”了，变成“废人”，学校就像是丢弃一件垃圾，将他一脚踢开？",
+      "source_hash": "6792b3b89f61f58b986bd2aa9c24e9ddbf558feb40dcf67da7b23dd7b8167e61",
+      "target": "Vậy mà hiện tại cậu bị “thương phế”, biến thành “phế nhân”, nhà trường liền xem cậu như vứt bỏ một túi rác, thẳng chân đá cậu ra rìa sao?",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0038",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0038"
+      ],
+      "source": "李耀心思电转，眼睛很快眯成了两道刀刃般的缝隙。",
+      "source_hash": "c4af4419f8d19a00a0dd0aca69661533c0b5bbec0306c757c397cf3de1f6004c",
+      "target": "Đầu óc Lý Diệu xoay chuyển nhanh chóng, hai mắt híp lại thành hai khe hở sắc lạnh như lưỡi đao.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0039",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0039"
+      ],
+      "source": "自己才刚刚苏醒，按照正常程序，学校肯定不会这么快就对他做出“休学”的决定。",
+      "source_hash": "90e07540b1c86feb9e9051602b9b9ddec861cb013bc7185e4304cdbbf8f111dc",
+      "target": "Bản thân mình vừa mới tỉnh lại, theo trình tự bình thường, nhà trường tuyệt đối không thể đưa ra quyết định “bảo lưu” nhanh đến vậy đối với cậu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0040",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0040"
+      ],
+      "source": "如果是真心为他考虑，学校至少也会先去医院安慰他一番，同时征求一下他的个人意见，再给他几天时间来考虑，同时会对他做出种种补偿。",
+      "source_hash": "aa0cc9157066ef64e60f4bb7825d19a7cc1acd83e801599c986179131e1dc0ec",
+      "target": "If thực lòng nghĩ cho cậu, nhà trường ít nhất cũng phải tới bệnh viện an ủi cậu một phen, đồng thời trưng cầu ý kiến cá nhân của cậu, cho cậu vài ngày để suy nghĩ, đồng thời đưa ra các khoản đền bù cho cậu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0041",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0041"
+      ],
+      "source": "毕竟这是决定一名学生前途命运的大事，哪能如此草率？",
+      "source_hash": "bf84ac3e86de0cc82a4bc64f36bf1cd6cf311e03da85f209500bfa8a03098431",
+      "target": "Dẫu sao đây cũng là đại sự quyết định tiền đồ vận mệnh của một học sinh, sao có thể làm ăn cẩu thả như thế được?",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0042",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0042"
+      ],
+      "source": "这件事背后，一定有人搞鬼！",
+      "source_hash": "af99bda9d56356a581d1d3e58fd8a48cb949e726371fec0f1d1a19515355798b",
+      "target": "Chuyện này đứng sau lưng chắc chắn có kẻ giở trò quỷ!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0043",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0043"
+      ],
+      "source": "“我明白了，是赫连烈吧？”李耀语气森然地说。",
+      "source_hash": "2d0f844a977b50fab9b15e306527e7c879cded7ddb474f92b4f48ed894c69347",
+      "target": "“Em hiểu rồi, là Hách Liên Liệt đúng không?” Giọng Lý Diệu lạnh lẽo vang lên.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0044",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0044"
+      ],
+      "source": "黑面神脸上闪过一丝慌乱，很快恢复正常，拖长音调道：“李耀同学，这是学校根据你的个人状况做出的最佳决定，对你和学校都是最合适的，和其他同学没有关系，你不要把事情想得那么复杂！真的，回去慢慢修养几年，说不定你的灵根开发度还能恢复过来，到那时候，学校还是无条件欢迎你回来的嘛……”",
+      "source_hash": "8bf007e099560f81cf01082ef8b5c6ac79bd04afdfbc434b5b15336d1f3d6184",
+      "target": "Hắc Diện Thần trên mặt loé lên một tia hoảng loạn, lập tức khôi phục bình thường, kéo dài giọng điệu nói: “Em Lý Diệu, đây là quyết định tối ưu do nhà trường đưa ra căn cứ theo tình trạng cá nhân của em, đối với em hay nhà trường đều là thích hợp nhất, không liên quan gì đến các bạn học khác đâu. Em đừng nghĩ mọi chuyện phức tạp quá làm gì! Thật đấy, cứ về nhà dưỡng sức vài năm, biết đâu độ khai phát linh căn của em lại khôi phục được, đến lúc đó nhà trường vẫn vô điều kiện chào đón em trở lại mà...”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0045",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0045"
+      ],
+      "source": "“哈哈，哈哈哈哈！”李耀终于忍不住，肆无忌惮地大笑起来。",
+      "source_hash": "9e4664a065b0df0de562cd7b483d962729377b5b69d98f6f5ccd8fc7bec072f8",
+      "target": "“Ha ha, ha ha ha ha!” Lý Diệu rốt cuộc không nhịn nổi nữa, càn rỡ cười to lên.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0046",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0046"
+      ],
+      "source": "“你，你什么意思？”黑面神额头冒出了一层层的冷汗，怎么擦都擦不干净。",
+      "source_hash": "12874d21df917ba4e8217d82efd180a459e064190c11c5175bc0c12dc17cad99",
+      "target": "“Em, em có ý gì hả?” Hắc Diện Thần trán vã ra từng lớp mồ hôi lạnh, lau thế nào cũng không sạch.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0047",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0047"
+      ],
+      "source": "他忽然觉得面前这个“废人”身上涌动出了无比残暴的气息，甚至比身为炼气期高阶修真者的校长赵树德都要可怕。",
+      "source_hash": "4a0533f36b83deecbba707b565b2b8133fb4b78d1dc615dda0eb7195fa3d7e9e",
+      "target": "Ông ta đột nhiên cảm thấy trên người tên “phế nhân” trước mắt này cuồn cuộn toả ra một luồng khí tức vô cùng tàn bạo, thậm chí còn đáng sợ hơn cả hiệu trưởng Triệu Thụ Đức vốn là tu chân giả cao giai của Luyện Khí Kỳ.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0048",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0048"
+      ],
+      "source": "“贵校的好意，我心领，不过休学就不必了，从这一刻起，我直接退学，不再是赤霄二中的学生！”",
+      "source_hash": "8ddfc478685f99cf3adea617aac6b7e27e2fa25c824433f48d913e5792b3e525",
+      "target": "“Lòng tốt của quý trường em xin nhận, nhưng bảo lưu thì miễn đi. Bắt đầu từ giây phút này, em trực tiếp thôi học, không còn là học sinh của trường Xích Tiêu Nhị Trung nữa!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0049",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0049"
+      ],
+      "source": "李耀忽然收住笑容，眼神变得无比尖锐，一字一顿地说道。",
+      "source_hash": "43e8a2bc6f44f0e21b102a2432c64c8d70dc91d6812b07e78d07d6ce1b2bc0d0",
+      "target": "Lý Diệu bỗng thu lại nụ cười, ánh mắt trở nên sắc bén vô ngần, ằn giọng từng chữ một.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0050",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0050"
+      ],
+      "source": "说完，头也不回，大步向门外走去。",
+      "source_hash": "4b0fc3e92a0a52b08db0e073aa4e47a460fb7389a23d0275b101f74482f6b334",
+      "target": "Nói xong, cậu không thèm ngoảnh đầu lại, sải bước đi ra phía cửa.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0051",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0051"
+      ],
+      "source": "可笑，实在太可笑，赫连烈还以为他真的变成一个废人，以为用这种办法就能把他玩弄于鼓掌之中，殊不知此刻的李耀，比在魔蛟岛时强大三五倍，而发展潜力更是成百倍提升。",
+      "source_hash": "78df94550353beb6e0cec87d4672ca8032bf400f522dceee80ded2abf8ef7e5d",
+      "target": "Nực cười, quả thực quá nực cười, Hách Liên Liệt còn tưởng rằng cậu thực sự biến thành phế nhân, tưởng rằng dùng thủ đoạn này là có thể đùa giỡn cậu trong lòng bàn tay. Lại không biết Lý Diệu lúc này so với lúc ở trên Đảo Ma Giao mạnh hơn gấp ba năm lần, mà tiềm lực phát triển lại càng tăng lên gấp trăm lần.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0052",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0052"
+      ],
+      "source": "外面有的是海阔天空，大好世界，何处不可修炼？赤霄二中既然这么没眼光，大家一拍两散，看看后悔的究竟是谁！",
+      "source_hash": "eceded85a1e859ebe2a57269bbfe67d386a07ea76cc4148cb6d4583d90f08644",
+      "target": "Bên ngoài rộng lớn bao la, thế giới tươi đẹp vô ngần, nơi nào mà chẳng thể tu luyện? Xích Tiêu Nhị Trung đã không có mắt nhìn người như vậy, đôi bên cứ việc dứt khoát rạch ròi, để xem rốt cuộc ai mới là kẻ phải hối hận!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0053",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0053"
+      ],
+      "source": "“李耀同学，这又是何必呢，学校并没有要你退学的意思啊，李耀同学！”黑面神一边擦汗，一边干巴巴地叫道。",
+      "source_hash": "289ac45de36116008dc6f68cacb80f18a8513a2c0792b514ec36b038fb212790",
+      "target": "“Em Lý Diệu, việc gì phải như thế chứ, nhà trường đâu có ý bắt em thôi học đâu, em Lý Diệu!” Hắc Diện Thần vừa lau mồ hôi vừa khô khốc hét lên.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0054",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0054"
+      ],
+      "source": "走到门口，李耀忽然站定，缓缓回头，面无表情地看了黑面神一眼。",
+      "source_hash": "d56c483612f6171d659eb87504dfbb38e31dae45be474a807f7c11c3a81e55a8",
+      "target": "Bước tới cửa, Lý Diệu chợt dừng chân, từ từ quay đầu lại, mặt không cảm xúc liếc nhìn Hắc Diện Thần một cái.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0055",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0055"
+      ],
+      "source": "只一眼，黑面神就觉得自己的心脏被一只无形的爪子攥住，狠狠扯了一把，疼得他“哎呀”叫出声来，连眼泪都不由自主地夺眶而出。",
+      "source_hash": "c092e610a13b7f200e4bc11d2d816ce1e950f2f8cb2fbf57cd1d30b386ebea2b",
+      "target": "Chỉ một cái liếc mắt đó, Hắc Diện Thần liền cảm thấy tim mình bị một bàn tay vô hình siết chặt lấy rồi giựt mạnh một phát, đau đớn đến mức ông ta kêu lên “ui da” một tiếng, nước mắt cũng không tự chủ được trào ra ngoài mi.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0056",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0056"
+      ],
+      "source": "怎么回事？",
+      "source_hash": "95494e3d60a052ba69f565f64dee989006ac47278204619273f8c6f04d5bc61c",
+      "target": "Rốt cuộc là có chuyện gì thế này?",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0057",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0057"
+      ],
+      "source": "这个“废人”，明明骨瘦如柴，看上去一阵风都会吹倒，目光怎么如此锐利，简直像是一把钢刀，直插心脏！",
+      "source_hash": "86fa4a38bac63151f2200c04c1d19e4ce80b9791fd7f41aa44091a9c89e5ff5f",
+      "target": "Tên “phế nhân” này rõ ràng gầy rộc như que củi, nhìn như gió thổi qua là đổ rạp ngay, ánh mắt làm sao lại nhạy bén sắc lẹm đến vậy, quả thực như một con dao thép cắm thẳng vào tim!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0058",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0058"
+      ],
+      "source": "黑面神捂着心口喘了好一会儿，抬头看时，大门洞开，李耀已经不见了。",
+      "source_hash": "8a4a66e7389eb4467176dd6eea3da0ec80d6e7c693acc6d065014a2d36c3993a",
+      "target": "Hắc Diện Thần ôm ngực thở dốc một hồi lâu, ngẩng đầu lên nhìn thì thấy cửa lớn mở toang, Lý Diệu đã không thấy tăm hơi đâu nữa.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0059",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0059"
+      ],
+      "source": "头一次，黑面神心底生出了捉摸不定的恐惧。",
+      "source_hash": "517029ab452eaf7d8a2dd028df73411338a5e96f1ec7a23616c9ffb2644bef4b",
+      "target": "Lần đầu tiên trong đời, tận sâu trong lòng Hắc Diện Thần nảy sinh một nỗi sợ hãi mơ hồ khó đoán.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0075:align_0060",
+      "chapter_id": "chapter_0075",
+      "segment_ids": [
+        "chapter_0075:seg_0060"
+      ],
+      "source": "他觉得学校方面似乎犯下了一个错误，一个很快就会后悔的天大错误。",
+      "source_hash": "f60d918dd6d11a19035ea3d466e17314a4731744f738747837a22de6c22cdcad",
+      "target": "Ông ta cảm giác phía nhà trường dường như đã phạm phải một sai lầm, một sai lầm tày trời mà sớm muộn gì cũng sẽ phải hối hận khôn nguôi.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    }
+  ],
+  "term_occurrences": [
+    {
+      "chapter_id": "chapter_0075",
+      "source_term": "浮戈城",
+      "target_term": "Phù Qua Thành",
+      "segment_id": "chapter_0075:seg_0029",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0075",
+      "source_term": "赤霄二中",
+      "target_term": "Xích Tiêu Nhị Trung",
+      "segment_id": "chapter_0075:seg_0029",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0075",
+      "source_term": "重点班",
+      "target_term": "lớp trọng điểm",
+      "segment_id": "chapter_0075:seg_0029",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0075",
+      "source_term": "平行班",
+      "target_term": "lớp song hành",
+      "segment_id": "chapter_0075:seg_0029",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0075",
+      "source_term": "普通班",
+      "target_term": "lớp thường",
+      "segment_id": "chapter_0075:seg_0029",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0075",
+      "source_term": "灵根",
+      "target_term": "Linh căn",
+      "segment_id": "chapter_0075:seg_0011",
+      "present_in_target": false,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0075",
+      "source_term": "灵根开发度",
+      "target_term": "độ khai phát linh căn",
+      "segment_id": "chapter_0075:seg_0011",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0075",
+      "source_term": "郑东明",
+      "target_term": "Trịnh Đông Minh",
+      "segment_id": "chapter_0075:seg_0006",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0075",
+      "source_term": "星云大学",
+      "target_term": "Đại học Tinh Vân",
+      "segment_id": "chapter_0075:seg_0033",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0075",
+      "source_term": "深海大学",
+      "target_term": "Đại học Thâm Hải",
+      "segment_id": "chapter_0075:seg_0033",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0075",
+      "source_term": "魔蛟岛",
+      "target_term": "Đảo Ma Giao",
+      "segment_id": "chapter_0075:seg_0011",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0075",
+      "source_term": "幽能",
+      "target_term": "U Năng",
+      "segment_id": "chapter_0075:seg_0007",
+      "present_in_target": false,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    }
+  ],
+  "entity_mentions": [
+    {
+      "chapter_id": "chapter_0075",
+      "source_surface": "李耀",
+      "target_surface": "Lý Diệu",
+      "entity_type": "person",
+      "segment_id": "chapter_0075:seg_0002",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0075",
+      "source_surface": "赵树德",
+      "target_surface": "Triệu Thụ Đức",
+      "entity_type": "person",
+      "segment_id": "chapter_0075:seg_0047",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0075",
+      "source_surface": "黑面神",
+      "target_surface": "Hắc Diện Thần",
+      "entity_type": "person",
+      "segment_id": "chapter_0075:seg_0021",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0075",
+      "source_surface": "赫连烈",
+      "target_surface": "Hách Liên Liệt",
+      "entity_type": "person",
+      "segment_id": "chapter_0075:seg_0003",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0075",
+      "source_surface": "郑东明",
+      "target_surface": "Trịnh Đông Minh",
+      "entity_type": "person",
+      "segment_id": "chapter_0075:seg_0006",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0075",
+      "source_surface": "赤霄派",
+      "target_surface": "Xích Tiêu Phái",
+      "entity_type": "factions",
+      "segment_id": "chapter_0075:seg_0033",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0075",
+      "source_surface": "星云大学",
+      "target_surface": "Đại học Tinh Vân",
+      "entity_type": "factions",
+      "segment_id": "chapter_0075:seg_0033",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0075",
+      "source_surface": "深海大学",
+      "target_surface": "Đại học Thâm Hải",
+      "entity_type": "factions",
+      "segment_id": "chapter_0075:seg_0033",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0075",
+      "source_surface": "浮戈城",
+      "target_surface": "Phù Qua Thành",
+      "entity_type": "locations",
+      "segment_id": "chapter_0075:seg_0029",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0075",
+      "source_surface": "魔蛟岛",
+      "target_surface": "Đảo Ma Giao",
+      "entity_type": "locations",
+      "segment_id": "chapter_0075:seg_0011",
+      "confidence": 1.0
+    }
+  ],
+  "name_analysis": {
+    "status": "ok",
+    "evidence_count": 5,
+    "name_mentions": [
+      {
+        "chapter_id": "chapter_0075",
+        "name_source": "李耀",
+        "name_target": "Lý Diệu",
+        "segment_id": "chapter_0075:seg_0002",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0075",
+        "name_source": "赵树德",
+        "name_target": "Triệu Thụ Đức",
+        "segment_id": "chapter_0075:seg_0047",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0075",
+        "name_source": "黑面神",
+        "name_target": "Hắc Diện Thần",
+        "segment_id": "chapter_0075:seg_0021",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0075",
+        "name_source": "赫连烈",
+        "name_target": "Hách Liên Liệt",
+        "segment_id": "chapter_0075:seg_0003",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0075",
+        "name_source": "郑东明",
+        "name_target": "Trịnh Đông Minh",
+        "segment_id": "chapter_0075:seg_0006",
+        "present_in_target": true,
+        "confidence": 1.0
+      }
+    ],
+    "name_entries": [
+      {
+        "name_source": "李耀",
+        "name_target": "Lý Diệu"
+      },
+      {
+        "name_source": "赵树德",
+        "name_target": "Triệu Thụ Đức"
+      },
+      {
+        "name_source": "黑面神",
+        "name_target": "Hắc Diện Thần"
+      },
+      {
+        "name_source": "赫连烈",
+        "name_target": "Hách Liên Liệt"
+      },
+      {
+        "name_source": "郑东明",
+        "name_target": "Trịnh Đông Minh"
+      }
+    ],
+    "transliteration_units": [],
+    "inferred_name_rules": [],
+    "ambiguity_cases": [],
+    "reusable_name_profile": {
+      "mapping_count": 5,
+      "has_ambiguity": false
+    }
+  },
+  "phrase_patterns": [],
+  "grammar_rule_candidates": [],
+  "analyzer_reports": {
+    "term_occurrences": {
+      "status": "ok",
+      "evidence_count": 12
+    },
+    "entity_mentions": {
+      "status": "ok",
+      "evidence_count": 10
+    },
+    "name_mentions": {
+      "status": "ok",
+      "evidence_count": 5
+    },
+    "phrase_patterns": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    },
+    "grammar_rule_candidates": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    }
+  },
+  "review_queue": [
+    {
+      "chapter_id": "chapter_0075",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "李耀",
+        "entity_type": "person",
+        "count": 3,
+        "confidence": 0.7,
+        "evidence": [
+          "狞，咬牙切齿地说：“李耀，你以为自己还是魔蛟",
+          "着黑炭脸的中年人走向李耀。\n\n赫连烈放松下来",
+          "掌之中，殊不知此刻的李耀，比在魔蛟岛时强大三"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0075",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "后面",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "知鬼不觉地出现在教室后面，抓学生的违规行为，",
+          "多说什么，跟在黑面神后面，来到教导处。\n\n教"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0075",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "不但考不上心仪的大学",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "修炼，勉强坚持下去，不但考不上心仪的大学，还会把身体彻底搞垮"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0075",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "还轻轻带上了门",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "。\n\n最后走的一个，还轻轻带上了门。\n\n黑面神干咳一声"
+        ]
+      }
+    }
+  ],
+  "quality_audit": {
+    "segment_coverage": 1.0,
+    "source_hash_match": true,
+    "target_reconstruction_match": true,
+    "invalid_ref_count": 0,
+    "locked_term_hit_rate": 1.0,
+    "missing_locked_terms": [],
+    "cjk_residue_count": 0,
+    "paragraph_drift_ratio": 0.0,
+    "pronoun_consistency_score": 1.0,
+    "warnings": []
+  }
+}

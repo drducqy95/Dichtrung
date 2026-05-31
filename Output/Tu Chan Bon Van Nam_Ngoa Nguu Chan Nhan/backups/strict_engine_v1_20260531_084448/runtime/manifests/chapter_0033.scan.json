@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 33,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan\\0033 - 33.第33章 难熬的夜晚.md",
+  "source_char_count": 2258,
+  "characters": [
+    {
+      "source": "阴谋",
+      "entity_type": "person",
+      "count": 3,
+      "confidence": 0.7,
+      "evidence": [
+        "笑容底下隐藏着天大的阴谋！\n\n“你肚子饿不饿",
+        "\n\n“你们……有什么阴谋？”李耀如坐针毡，额",
+        "有，我们怎么会有什么阴谋？只不过是想让你恢复"
+      ]
+    },
+    {
+      "source": "董事",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "爸，你可是我们学校的董事，难道还怕孙彪那个已",
+        "过去了，我只是学校的董事，可不是董事长，就算"
+      ]
+    },
+    {
+      "source": "董事长",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.82,
+      "evidence": [
+        "是学校的董事，可不是董事长，就算是董事长，也要",
+        "可不是董事长，就算是董事长，也要遵守圈子里的规"
+      ]
+    }
+  ],
+  "organizations": [],
+  "locations": [],
+  "realms": [],
+  "techniques": [
+    "三两步",
+    "为何要你领受家法",
+    "嘴里喂了一颗婴儿拳",
+    "道还怕孙彪那个已经"
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "上东区",
+      "target": "khu Thượng Đông"
+    },
+    {
+      "source": "赤霄二中",
+      "target": "Xích Tiêu Nhị Trung"
+    },
+    {
+      "source": "重点班",
+      "target": "lớp trọng điểm"
+    },
+    {
+      "source": "普通班",
+      "target": "lớp thường"
+    },
+    {
+      "source": "军道杀狼",
+      "target": "Quân Đạo Sát Lang"
+    },
+    {
+      "source": "妖刀",
+      "target": "Yêu Đao"
+    },
+    {
+      "source": "赵亮",
+      "target": "Triệu Lượng"
+    },
+    {
+      "source": "孙彪",
+      "target": "Tôn Bưu"
+    },
+    {
+      "source": "放弃",
+      "target": "Từ Bỏ"
+    },
+    {
+      "source": "修真界败类",
+      "target": "Bại hoại giới Tu Chân"
+    }
+  ],
+  "structural_hints": {
+    "has_dialogue": true,
+    "has_western_names": false,
+    "estimated_segments": 64
+  },
+  "generated_at": "2026-05-30T22:41:43.608163+07:00"
+}

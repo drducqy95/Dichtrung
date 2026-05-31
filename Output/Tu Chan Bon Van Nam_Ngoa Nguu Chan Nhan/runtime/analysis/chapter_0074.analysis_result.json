@@ -1,0 +1,1024 @@
+{
+  "schema_version": "2.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 74,
+  "chapter_id": "chapter_0074",
+  "source_manifest_hash": "fd67d5527193101deaca5c975e425cb5101bdc7d3f23f8eef2e2afd9f5dc493c",
+  "aligned_segments": [
+    {
+      "alignment_id": "chapter_0074:align_0001",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0001"
+      ],
+      "source": "# 74.第74章 时不我待",
+      "source_hash": "65f251cf60a76d62944e2b83a0fd1826622f52fbb7004312cbfd8bb24957b530",
+      "target": "# Chương 0074 - Thời Gian Không Chờ Đợi Ai!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0002",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0002"
+      ],
+      "source": "“多谢您的关心，谢教授，我刚刚完成了身体检查，医生说我只是身体有些虚弱，我马上就会展开恢复性训练，我一定会参加今年高考，到时候，我的第一志愿仍旧是深海大学。”",
+      "source_hash": "aae87f2be2084fb111d8ae728b19be98d8ff5ee0f98b082d59aef076591c6e7c",
+      "target": "“Cảm ơn sự quan tâm của ngài, giáo sư Tạ, em vừa hoàn thành xong việc kiểm tra sức khỏe, bác sĩ bảo em chỉ là cơ thể có chút yếu ớt mà thôi. Em sẽ lập tức tiến hành luyện tập phục hồi chức năng, em chắc chắn sẽ tham gia kỳ thi đại học năm nay, đến lúc đó nguyện vọng một của em vẫn cứ là Đại học Thâm Hải.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0003",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0003"
+      ],
+      "source": "李耀自信满满地说。",
+      "source_hash": "88459c584192eed91cbcd110164dd07c7db7ffb564ac3b2f357d177f9c324382",
+      "target": "Lý Diệu tự tin tràn trề nói.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0004",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0004"
+      ],
+      "source": "谢听弦笑容一僵，颇为尴尬地说：“李耀同学，刚刚我也和你的主治医师讨论过病情，对你现在的情况也有所了解——按照我的意思，你没必要操之过急，还是先好好保养身体要紧！今年的高考只剩下一个月，你再怎么拼命修炼，也未必能考出好成绩，还有可能把身体彻底搞坏，那又何苦？不如先恢复一年，等明年再说，对大家都好，是不是？”",
+      "source_hash": "ce4d2149f035e9f1365892bbae1397c55eb5cced084d99de939137e6484a3607",
+      "target": "Tạ Thính Huyền nụ cười cứng đờ, khá là ngượng ngùng nói: “Em Lý Diệu, vừa rồi tôi cũng đã trao đổi bệnh tình với bác sĩ điều trị của em, cũng đã hiểu rõ một phần tình hình hiện tại của em——theo ý của tôi thì em không cần phải vội vàng hấp tấp làm gì, trước mắt cứ tĩnh dưỡng bồi bổ thân thể cho tốt mới là điều quan trọng nhất! Kỳ thi đại học năm nay chỉ còn lại một tháng, em có liều mạng tu luyện thế nào đi nữa cũng chưa chắc đã thi được kết quả tốt, thậm chí còn có khả năng phá hủy hoàn toàn sức khỏe của mình, như vậy thì khổ sở làm chi? Hay là cứ dưỡng bệnh một năm, đợi đến sang năm hãy tính tiếp, đối với tất cả mọi người đều tốt cả, có đúng không?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0005",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0005"
+      ],
+      "source": "李耀一愣，心思电转，很快明白：“谢教授，贵校是否不会再‘降分录取’我了？”",
+      "source_hash": "75c593aedad6d9c986f7edeb9aa796dcae096e0c7905ed327efa8016cd9cb1c2",
+      "target": "Lý Diệu ngẩn ra, đầu óc xoay chuyển nhanh nhạy, lập tức hiểu được: “Giáo sư Tạ, có phải quý trường sẽ không ‘hạ điểm chuẩn nhận học’ đối với em nữa đúng không?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0006",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0006"
+      ],
+      "source": "谢听弦老脸一红，犹豫了半天，点头道：“李耀同学，你要明白，对于深海大学这样一所历史悠久，底蕴深厚的高等学府来说，做出‘降分录取’的决定是一件非常严肃的事情，每一名被‘降分录取’的学生，都要经过严格的审查，而且名额的竞争也是十分激烈的，以你当时的情况，真的没人能想到你会在短短一个月之后就醒过来，所以……你的名额就被别人挤占了。”",
+      "source_hash": "b6b6c32df8e8f78bbfc92d439a208e67487e3324c7173b05f4594045582540d6",
+      "target": "Tạ Thính Huyền gương mặt già đỏ lên, do dự hồi lâu rồi gật đầu nói: “Em Lý Diệu, em phải hiểu rằng đối với một học phủ cao cấp có lịch sử lâu đời và nội hàm sâu sắc như Đại học Thâm Hải mà nói, việc đưa ra quyết định ‘hạ điểm chuẩn nhận học’ là một chuyện vô cùng nghiêm túc. Mỗi một học sinh được ‘hạ điểm chuẩn nhận học’ đều phải trải qua quá trình kiểm tra nghiêm ngặt, hơn nữa sự cạnh tranh giành chỉ tiêu cũng hết sức khốc liệt. Với tình huống lúc đó của em, quả thực không ai nghĩ tới em lại có thể tỉnh lại chỉ sau một tháng ngắn ngủi, thế nên... chỉ tiêu của em đã bị người khác chiếm mất rồi.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0007",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0007"
+      ],
+      "source": "顿了一顿，似乎下定决心，谢听弦继续道，“而且，我实话实说，就算现在你醒了过来，可是你的灵根开发度只剩下7%，今年考入深海大学的机会实在太过渺茫，就算给你降二十分甚至三十分，又有什么用？听我一句，在家里好好恢复一年，明年再测试一下，如果灵根开发度恢复到70%以上的话，我还是会为你争取‘降分录取’甚至‘特招’资格的，我向你保证，李耀同学！”",
+      "source_hash": "b865ac621a2c6f69e28693795335a9136fb7a4a47ebc26c689b5468ba87677a6",
+      "target": "Dừng lại một chút, dường như đã hạ quyết tâm, Tạ Thính Huyền nói tiếp: “Hơn nữa tôi cũng nói thẳng luôn, cho dù hiện tại em đã tỉnh lại, nhưng độ khai phát linh căn của em chỉ còn lại 7%, cơ hội thi đỗ Đại học Thâm Hải năm nay quả thực quá đỗi mong manh. Dù có giảm cho em hai mươi điểm hay thậm chí ba mươi điểm thì có tác dụng gì chứ? Nghe tôi khuyên một câu, ở nhà dưỡng sức cho tốt một năm đi, sang năm đo đạc lại lần nữa, nếu độ khai phát linh căn khôi phục đến trên 70%, tôi vẫn sẽ tranh thủ cơ hội ‘hạ điểm chuẩn nhận học’ hoặc thậm chí là tư cách ‘tuyển đặc cách’ cho em, tôi bảo đảm với em đấy, em Lý Diệu!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0008",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0008"
+      ],
+      "source": "这时有人在谢听弦身后喊了一声，他擦了擦汗，道：“不好意思，李耀同学，我正在负责一个非常繁琐的项目，帮军方炼制最新型的单兵突击法宝，这几天实在抽不出时间和你沟通——欢迎你以后有空多和我联系，有什么修炼方面的问题，也可以和我多多交流，我会全力帮你的！”",
+      "source_hash": "be9f630b0605ee6499ea147fe0a6519dc4d1c679b87126fb492891d9002494f7",
+      "target": "Đúng lúc này có người gọi Tạ Thính Huyền một tiếng từ phía sau, ông lau mồ hôi nói: “Xin lỗi nhé em Lý Diệu, tôi đang chịu trách nhiệm một hạng mục vô cùng phức tạp, giúp quân đội luyện chế pháp bảo đột kích đơn binh kiểu mới nhất, mấy ngày nay thực sự không rút ra nổi thời gian trò chuyện với em——sau này hoan nghênh em có thời gian rảnh rỗi cứ liên lạc với tôi, có vấn đề gì về tu luyện cũng có thể trao đổi với tôi thật nhiều, tôi sẽ dốc toàn lực giúp đỡ em!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0009",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0009"
+      ],
+      "source": "“……我明白了，多谢您的好意，谢教授。”",
+      "source_hash": "f5fd4a3aa42f3ff5e2cdd5cf1996bd7768539c6192ad05c3096ce7d2e7843f3a",
+      "target": "“... Em hiểu rồi, cảm ơn lòng tốt của ngài, giáo sư Tạ.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0010",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0010"
+      ],
+      "source": "李耀有些失望地关闭了灵鹤传书，眨巴着眼睛，心中莫名怅然。",
+      "source_hash": "4a1467bc9c18889c855558adfb003542aa7d5eb902afde29cec85651aa991348",
+      "target": "Lý Diệu hơi thất vọng tắt đi Linh Hạc Truyền Thư, chớp chớp mắt, trong lòng dâng lên niềm xót xa ngậm ngùi khôn tả.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0011",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0011"
+      ],
+      "source": "深海大学取消他的“降分录取”资格是理所当然的，因为按照规则，虽然他的积分比后面几十名考生加起来都要高，但他已经被巨目猿“击杀”，一切成绩，统统归零。",
+      "source_hash": "96ee307872c57ee109769e821be5b803aceb6ef3851f00ad311119de9ad24e74",
+      "target": "Đại học Thâm Hải hủy bỏ tư cách “hạ điểm chuẩn nhận học” của cậu cũng là lẽ đương nhiên, bởi vì theo quy tắc, tuy rằng điểm tích lũy của cậu cao hơn mấy chục thí sinh phía sau cộng lại, nhưng cậu đã bị Vượn Khổng Nhãn “sát hại” trong trận đấu, mọi thành tích đều trở về con số không tròn trĩnh.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0012",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0012"
+      ],
+      "source": "更何况他的灵根开发度只剩下7%，任何人看到这个数字，都会认为他已经变成了彻头彻尾的废物。",
+      "source_hash": "82f7b011956fa9368492959770670aa2fd1d4202c9c58cc487ba9b5152a12e58",
+      "target": "Hống hồ độ khai phát linh căn của cậu chỉ còn 7%, bất kỳ ai nhìn thấy con số này đều sẽ cho rằng cậu đã biến thành một phế vật triệt để.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0013",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0013"
+      ],
+      "source": "没有一个学校，会为这样一个“废物”开出优惠条件的。",
+      "source_hash": "69a39f3cc4cf788247e32301ec04ae5dcc3e58921800c903bc24161239d9994c",
+      "target": "Sẽ không có bất kỳ trường học nào đưa ra điều kiện ưu đãi cho một “phế vật” như vậy cả.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0014",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0014"
+      ],
+      "source": "可是在心底里，李耀还是生出了一丝失落。",
+      "source_hash": "f5c5f3811f1065f01a6a1687e02ee077c7d42f68bb1425622ef5bfcee254c17f",
+      "target": "Thế nhưng từ sâu tận đáy lòng, Lý Diệu vẫn không khỏi nảy sinh một nỗi hụt hẫng.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0015",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0015"
+      ],
+      "source": "“谢教授，我知道你现在不相信我，没有人会在这时候相信我的，不过没关系，一个月后我会用高考成绩来说话！”",
+      "source_hash": "93f136f30c362f60cd719410569e979d20b52f9d8a6c7f4cc800b60b3d6fdcaa",
+      "target": "“Giáo sư Tạ, em biết hiện tại ngài không tin tưởng em, cũng không có ai tin em vào thời điểm này cả, nhưng không sao hết, một tháng sau em sẽ dùng thành tích thi đại học để chứng minh!”",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0016",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0016"
+      ],
+      "source": "“不需要特招，也不需要降分录取，我会凭实力，堂堂正正的考入深海大学！”",
+      "source_hash": "56dea3d262ddba3d773a91b9a48e188cf47d9a3c908d9770fd1fbcd8e7b6f6a2",
+      "target": "“Không cần tuyển đặc cách, cũng không cần hạ điểm chuẩn nhận học, mình sẽ bằng vào thực lực của bản thân, đường đường chính chính thi đỗ vào Đại học Thâm Hải!”",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0017",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0017"
+      ],
+      "source": "“只是，若你能在此刻相信我一点点，那该多好……”",
+      "source_hash": "ec92d3d3cb578039dde4bd27c6d3909f5b550ba3e2119f6d813a7c478708a12a",
+      "target": "“Chỉ là, nếu ngài có thể tin tưởng em một chút xíu vào lúc này, thì tốt biết mấy...”",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0018",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0018"
+      ],
+      "source": "思来想去，李耀决定先去学校看看。",
+      "source_hash": "c7a208f4ba15db65ce959e0465fe9830dd7ad63cfe7e2b20b47a692591da616a",
+      "target": "Suy đi tính lại, Lý Diệu quyết định trước tiên đến trường học xem sao.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0019",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0019"
+      ],
+      "source": "他记得在魔蛟岛上，校长赵树德对他十分看重，还愿意代表赤霄派和他签署一份“委托培养”的合同。",
+      "source_hash": "0ee2239cb89e1e07fe69f09be3e57a05f797ae6df986508f0fa0c400362b769f",
+      "target": "Cậu nhớ trên Đảo Ma Giao, hiệu trưởng Triệu Thụ Đức đối với cậu vô cùng xem trọng, còn muốn thay mặt Xích Tiêu Phái ký kết một bản hợp đồng “ủy thác bồi dưỡng” với cậu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0020",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0020"
+      ],
+      "source": "虽然现在他变成了别人眼中的废物，这份合同肯定不算数了，但是请重点班老师为他打造一份三十天的“最后冲刺”修炼方案，再调用一些学校的资源来培养他，让他在高考中奋力拼搏一把——这个要求，不过分吧？",
+      "source_hash": "df9bb98dc4082024338fcc256672a2d7b73f5c915bcb34549a6ae9397c273e4f",
+      "target": "Mặc dù giờ đây cậu đã biến thành phế vật trong mắt mọi người, bản hợp đồng này chắc chắn không còn giá trị nữa, thế nhưng nhờ giáo sư lớp trọng điểm lập cho cậu một phương án tu luyện “nước rút cuối cùng” trong ba mươi ngày, rồi điều động một chút tài nguyên của nhà trường để bồi dưỡng cậu, giúp cậu nỗ lực liều mạng một lần trong kỳ thi đại học——yêu cầu này đâu có quá đáng chứ?",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0021",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0021"
+      ],
+      "source": "……",
+      "source_hash": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+      "target": "……",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0022",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0022"
+      ],
+      "source": "离开医院，为了节约时间，李耀选择了搭乘地下晶轨列车。",
+      "source_hash": "8532eab320df7a64bfa9be20e0f9fa0e49ac081f9eb53d6436390ce9fcc5ac33",
+      "target": "Rời khỏi bệnh viện, để tiết kiệm thời gian, Lý Diệu lựa chọn đi tàu tinh quỹ ngầm.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0023",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0023"
+      ],
+      "source": "在地下售票窗口，他正准备掏出金灵通卡来刷，窗口内的监控晶脑忽然射出一道淡淡的绿光，在他脸上刷了一下，“滴滴”一声，变成金光。",
+      "source_hash": "ede016ff58ea67b467f0d1f7ca43f3d385ade0b705cd3f556166fe3601b60da9",
+      "target": "Tại quầy bán vé dưới hầm, cậu đang định lấy thẻ Kim Linh Thông ra quẹt, Tinh não giám sát bên trong quầy bỗng nhiên phóng ra một tia sáng xanh nhạt quét qua khuôn mặt cậu, phát ra tiếng “bíp bíp” rồi chuyển sang ánh kim.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0024",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0024"
+      ],
+      "source": "当即传来一道十分死板的声音：",
+      "source_hash": "3232204b46be8868eca94b9bfc0a5139441004ba35e5fb197eab44754a4c548e",
+      "target": "Ngay lập tức truyền ra một giọng nói vô cùng máy móc đơ cứng:",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0025",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0025"
+      ],
+      "source": "“根据人脸识别，该乘客为联邦一级伤残军人，可以免费搭乘联邦境内所有公共交通工具。”",
+      "source_hash": "ebc436fa6a8e70b11e8e3b57b0d09530dd3f4adc783ef72a668f02bf33b77e99",
+      "target": "“Theo nhận diện khuôn mặt, hành khách này là Thương binh cấp một Liên bang, được miễn phí đi lại trên tất cả các phương tiện giao thông công cộng trong phạm vi Liên bang.”",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0026",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0026"
+      ],
+      "source": "窗口后面的售票小姐“啊”了一声，满脸崇拜，一边将绘满符文的车票递了过来，一边透过小窗好奇地向外打量。",
+      "source_hash": "238e915902ce0bd078ded0c8ee228f8d1312a20cca6d7b69fcd31e17a921281c",
+      "target": "Cô gái bán vé phía sau quầy “a” một tiếng vang lên đầy sùng bái, một tay trao tấm vé xe vẽ đầy phù văn sang, một tay tựa vào ô cửa nhỏ tò mò hướng ra ngoài quan sát.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0027",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0027"
+      ],
+      "source": "当她发现李耀出乎预料地年轻时，美眸顿时烁烁发亮，惊讶地叫道：“哎呀，您这么年轻，就已经是联邦一级伤残军人了？真了不起！我叫李思思，能不能认识一下？”",
+      "source_hash": "8e7fd5f33847177e6a1e33694c65cdc615f08ccbb90ef431e7678b740f758d48",
+      "target": "Khi nhìn thấy Lý Diệu trẻ trung ngoài dự liệu của mình, đôi mắt đẹp của cô lập tức sáng rực rỡ, ngạc nhiên reo lên: “Trời ơi, anh trẻ thế này mà đã là Thương binh cấp một Liên bang rồi sao? Thực sự quá giỏi luôn! Em tên là Lý Tư Tư, có thể làm quen một chút không ạ?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0028",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0028"
+      ],
+      "source": "看她如饥似渴的样子，若非有柜台挡着，估计就要直接跳出来了。",
+      "source_hash": "79ff208de6b9a531ff726ec3b87465ddd7063a94e589eb0c0d8f3ca64fec852c",
+      "target": "Nhìn bộ dạng như đói như khát kia của cô, nếu không có cái quầy cản lại, chắc cô đã trực tiếp nhảy vọt ra ngoài luôn rồi.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0029",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0029"
+      ],
+      "source": "李耀没想到自己这么快就能享受联邦一级伤残军人待遇，被售票小姐如饥似渴的眼神盯得脸颊发红，支吾了两句，落荒而逃。",
+      "source_hash": "e491058bffe7064af6fc7f7e378a7cf55addb33cb317a2ae7245c0b640bdc236",
+      "target": "Lý Diệu không ngờ mình lại có thể nhanh chóng được hưởng ngộ đãi ngộ Thương binh cấp một Liên bang đến vậy, bị ánh mắt như đói như khát của cô gái bán vé nhìn chằm chằm đến mức hai má đỏ ửng, lắp bắp vài câu rồi cắm đầu chạy trốn.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0030",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0030"
+      ],
+      "source": "“乖乖，联邦一级伤残军人待遇，居然还有这样的神通？怪不得那么多热血青年都争先恐后加入联邦军，愿意浴血奋战、斩妖除魔啊！”",
+      "source_hash": "3122b777c173b95e11cae3e69b52239b3e955b8775b0e60dbf2b2c00ca197579",
+      "target": "“Trời đất ơi, đãi ngộ Thương binh cấp một Liên bang thế mà lại có công hiệu thần kỳ như vậy sao? Thảo nào có nhiều thanh niên nhiệt huyết tranh nhau gia nhập Quân đội Liên bang, sẵn sàng tắm máu chiến đấu, chém yêu diệt ma đến thế!”",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0031",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0031"
+      ],
+      "source": "来到赤霄二中，已是下午四点。",
+      "source_hash": "f64721f5729cba2f815377675b7e788db5772fba8c7ff04a9129498698cf83e1",
+      "target": "Đến trường Xích Tiêu Nhị Trung thì đã là bốn giờ chiều.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0032",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0032"
+      ],
+      "source": "这时候，高一高二的学生都陆陆续续开始放学，校园旁边的停车场里有不少飞梭车起起落落。",
+      "source_hash": "9cc38e2c84e285ff82181040a286f4463c6432dea0c8278ea82f57e74ce66665",
+      "target": "Lúc này, học sinh khối mười và mười một đang lục tục tan trường, trong bãi đỗ xe cạnh khuôn viên trường có không ít xe bay phi hành tới lui lên xuống.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0033",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0033"
+      ],
+      "source": "高三学生也都结束了白天繁重的课程，正在校园林荫小道和操场上散步、放风，准备吃完晚饭之后，继续熬夜复习。",
+      "source_hash": "f28c24e6a8856438de57547dbd040ff1e7bb022851baa04ce9a78209477d047a",
+      "target": "Học sinh lớp mười hai cũng đã kết thúc các tiết học nặng nề ban ngày, đang đi dạo mát trên các lối đi rợp bóng mát trong trường và trên sân thể dục để thư giãn đầu óc, chuẩn bị sau khi dùng bữa tối xong sẽ tiếp tục thức đêm ôn tập.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0034",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0034"
+      ],
+      "source": "李耀走进校门，抬头看了一眼，那块高考倒计时的牌子还在，上面写着：“距离高考，还有31天7小时44分32秒！”",
+      "source_hash": "74804dcc7f9d9dba92b21c1600572e54cec8adb072e11641067907a18241e2b4",
+      "target": "Lý Diệu bước vào cổng trường, ngẩng đầu nhìn một cái, tấm bảng đếm ngược ngày thi đại học vẫn còn ở đó, phía trên viết: “Cách kỳ thi đại học còn 31 ngày 7 giờ 44 phút 32 giây!”",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0035",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0035"
+      ],
+      "source": "时不我待啊！",
+      "source_hash": "55daea839ff5717a5629c79ab1fb72a15432fa282458a94b02009da93fd1b0ee",
+      "target": "Thời gian không chờ đợi ai cả!",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0036",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0036"
+      ],
+      "source": "李耀攥紧拳头，感觉每一条血管中的热血都开始沸腾，恨不得现在就开始疯狂修炼。",
+      "source_hash": "3b1ba31f3a789f7af9a3d0f49b2f1d3d73bdd3ee3bf6be9eabc35ccf396789c2",
+      "target": "Lý Diệu nắm chặt nắm đấm, cảm giác huyết dịch nóng bỏng trong từng huyết quản đều bắt đầu sôi sục, hận không thể lập tức điên cuồng tu luyện ngay lúc này.",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0037",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0037"
+      ],
+      "source": "他大步向教室走去。",
+      "source_hash": "bb57dbf8f12d2ed3da14ff1aaf3142b9b878b44c2aa9ca2a7a565f75bbdf6ea7",
+      "target": "Cậu sải bước đi về hướng phòng học.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0038",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0038"
+      ],
+      "source": "因为身形瘦小了许多，简直是皮包骨头，一开始还没人认出他来，不过很快，就有学生指着他大叫：“那不是李耀吗？”",
+      "source_hash": "3af3b4ee28ce17f17f081aa7efd2dc856328b69e37ef07c8c55b01ab7052666f",
+      "target": "Bởi vì thân hình gầy rộc đi rất nhiều, quả thực chỉ còn da bọc xương, ban đầu chưa có ai nhận ra cậu cả, thế nhưng rất nhanh đã có học sinh chỉ tay về phía cậu hét lớn: “Kìa không phải là Lý Diệu sao?”",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0039",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0039"
+      ],
+      "source": "“什么？李耀？那个‘一闪而逝的妖星’？他不是在魔蛟岛上出了意外，昏迷不醒了么？”",
+      "source_hash": "dcc6aa99ce7f3a2a75d940124de73b468dab1f9cae062989858e8776212fc03d",
+      "target": "“Cái gì? Lý Diệu? ‘Yêu Tinh vụt tắt’ đó á? Chẳng phải cậu ta gặp tai nạn trên Đảo Ma Giao rồi hôn mê bất tỉnh rồi sao?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0040",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0040"
+      ],
+      "source": "“真是李耀，他居然醒了，不过瘦了那么多，简直脱了形！”",
+      "source_hash": "11971bc26e1bfb8329f89f45b9075d1a924001ee914f472d1b6eaa27d15b44ac",
+      "target": "“Đúng là Lý Diệu thật rồi, cậu ta thế mà đã tỉnh lại, nhưng gầy đi nhiều quá, người ngợm biến dạng luôn rồi!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0041",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0041"
+      ],
+      "source": "“啊，魔蛟岛的视频中，他还是很强壮的，没想到变成这副人不像人，鬼不像鬼的样子！”",
+      "source_hash": "11e10f09dfa01d7c27fc9acd9404b1591b1ea3862d18c0d7f053485ed2e11889",
+      "target": "“Trời ơi, trong các video quay ở Đảo Ma Giao trông cậu ta vẫn rất cường tráng mà, không ngờ lại biến thành cái dạng nửa người nửa ngợm thế này!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0042",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0042"
+      ],
+      "source": "“我听说，他的大脑受到精神攻击，灵根彻底撕碎，开发度只剩下7%，简直是个废人——他还来学校干什么？”",
+      "source_hash": "0c5da77c6f24b3a63eb8116b119e5e0189c1f1a4769994373183f015c495339f",
+      "target": "“Tớ nghe nói đại não cậu ta chịu đòn tấn công tinh thần, linh căn bị xé rách hoàn toàn, độ khai phát linh căn chỉ còn lại 7%, đúng là một phế nhân——cậu ta còn đến trường làm gì nữa chứ?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0043",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0043"
+      ],
+      "source": "众多同学交头接耳，窃窃私语。",
+      "source_hash": "655edc345ecb2382f17cfece2e02c789683a0f5559a6877f358d0831729ecb45",
+      "target": "Vô số bạn học xì xầm bàn tán, ghé tai nói nhỏ.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0044",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0044"
+      ],
+      "source": "原本正准备离开的学生也都停下了脚步，有些学生还在向家长解释着前因后果，拉着家长留下来一起看热闹。",
+      "source_hash": "af4e816d4d5a2dae99a84cbd49d1f64ec8c35b0188b62bfb93ca9e6e965a3bbb",
+      "target": "Những học sinh vốn đang định ra về cũng dừng bước lại, vài người còn giải thích đầu đuôi câu chuyện với phụ huynh của mình, kéo cha mẹ ở lại cùng xem trò vui.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0045",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0045"
+      ],
+      "source": "毕竟，李耀也算是赤霄二中的风云人物，虽然是比较负面的那一种。",
+      "source_hash": "e1a060a7a66783fb11d5b1febefaeac271df99c69fe78b543111afddd19e3517",
+      "target": "Dẫu sao thì Lý Diệu cũng được coi là một nhân vật nổi tiếng trong trường Xích Tiêu Nhị Trung, dù danh tiếng đó thiên về hướng tiêu cực.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0046",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0046"
+      ],
+      "source": "李耀的五感比过去敏锐不少，众多学生的窃窃私语也都听在耳中，不过他并没有停下脚步去解释。",
+      "source_hash": "943ddb2f37a7b6e1714f7b2066f3e107a16197a37e4314b868a19d27c76d4d02",
+      "target": "Năm giác quan của Lý Diệu nhạy bén hơn xưa rất nhiều, những lời xì xào bàn tán của đám đông học sinh đều lọt vào tai cậu, nhưng cậu không hề dừng bước để thanh minh.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0047",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0047"
+      ],
+      "source": "很多事情无需解释，等高考成绩公布，大家自然会知道，他这颗“妖星”，绝不是一闪而逝的！",
+      "source_hash": "743435e96602af6a4d394faec1e9203aa5045bef12b53549bca42d0189073921",
+      "target": "Có rất nhiều chuyện không cần phải tốn lời giải thích, đợi đến khi công bố điểm thi đại học, mọi người tự khắc sẽ biết ngôi sao “Yêu Tinh” này của cậu tuyệt đối không phải chỉ vụt sáng rồi tắt ngúm!",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0048",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0048"
+      ],
+      "source": "只是，还未走进教学楼，一道高大的身影就出现在他面前。",
+      "source_hash": "0b7af43ad7f596e7b509b82ad90f99aa1681afffcb33df92f1e627ec0e9bd6a5",
+      "target": "Chỉ là, còn chưa bước chân vào tòa nhà giảng đường, một bóng dáng cao lớn đã chắn ngang trước mặt cậu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0074:align_0049",
+      "chapter_id": "chapter_0074",
+      "segment_ids": [
+        "chapter_0074:seg_0049"
+      ],
+      "source": "此君脸上带着“真诚”的微笑，眼底却蕴藏着深深的嘲讽和讥笑，正是赫连烈。",
+      "source_hash": "c2aa107c9f2e63fc9bf459087ef0276389d10911b777bb98deb1d6f13f830e4c",
+      "target": "Kẻ này trên mặt nở nụ cười “chân thành”, nhưng sâu trong mắt lại chứa đựng vẻ chế giễu và châm biếm sâu cay, chính là Hách Liên Liệt.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    }
+  ],
+  "term_occurrences": [
+    {
+      "chapter_id": "chapter_0074",
+      "source_term": "晶脑",
+      "target_term": "Tinh não",
+      "segment_id": "chapter_0074:seg_0023",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0074",
+      "source_term": "赤霄二中",
+      "target_term": "Xích Tiêu Nhị Trung",
+      "segment_id": "chapter_0074:seg_0031",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0074",
+      "source_term": "重点班",
+      "target_term": "lớp trọng điểm",
+      "segment_id": "chapter_0074:seg_0020",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0074",
+      "source_term": "联邦军",
+      "target_term": "Quân đội Liên bang",
+      "segment_id": "chapter_0074:seg_0030",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0074",
+      "source_term": "灵根",
+      "target_term": "Linh căn",
+      "segment_id": "chapter_0074:seg_0007",
+      "present_in_target": false,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0074",
+      "source_term": "灵根开发度",
+      "target_term": "độ khai phát linh căn",
+      "segment_id": "chapter_0074:seg_0007",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0074",
+      "source_term": "灵鹤传书",
+      "target_term": "Linh Hạc Truyền Thư",
+      "segment_id": "chapter_0074:seg_0010",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0074",
+      "source_term": "深海大学",
+      "target_term": "Đại học Thâm Hải",
+      "segment_id": "chapter_0074:seg_0002",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0074",
+      "source_term": "谢听弦",
+      "target_term": "Tạ Thính Huyền",
+      "segment_id": "chapter_0074:seg_0004",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0074",
+      "source_term": "魔蛟岛",
+      "target_term": "Đảo Ma Giao",
+      "segment_id": "chapter_0074:seg_0019",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0074",
+      "source_term": "巨目猿",
+      "target_term": "Vượn Khổng Nhãn",
+      "segment_id": "chapter_0074:seg_0011",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "beast",
+      "confidence": 1.0
+    }
+  ],
+  "entity_mentions": [
+    {
+      "chapter_id": "chapter_0074",
+      "source_surface": "李耀",
+      "target_surface": "Lý Diệu",
+      "entity_type": "person",
+      "segment_id": "chapter_0074:seg_0003",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0074",
+      "source_surface": "赵树德",
+      "target_surface": "Triệu Thụ Đức",
+      "entity_type": "person",
+      "segment_id": "chapter_0074:seg_0019",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0074",
+      "source_surface": "赫连烈",
+      "target_surface": "Hách Liên Liệt",
+      "entity_type": "person",
+      "segment_id": "chapter_0074:seg_0049",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0074",
+      "source_surface": "谢听弦",
+      "target_surface": "Tạ Thính Huyền",
+      "entity_type": "person",
+      "segment_id": "chapter_0074:seg_0004",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0074",
+      "source_surface": "赤霄派",
+      "target_surface": "Xích Tiêu Phái",
+      "entity_type": "factions",
+      "segment_id": "chapter_0074:seg_0019",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0074",
+      "source_surface": "深海大学",
+      "target_surface": "Đại học Thâm Hải",
+      "entity_type": "factions",
+      "segment_id": "chapter_0074:seg_0002",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0074",
+      "source_surface": "魔蛟岛",
+      "target_surface": "Đảo Ma Giao",
+      "entity_type": "locations",
+      "segment_id": "chapter_0074:seg_0019",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0074",
+      "source_surface": "灵鹤传书",
+      "target_surface": "Linh Hạc Truyền Thư",
+      "entity_type": "items",
+      "segment_id": "chapter_0074:seg_0010",
+      "confidence": 1.0
+    }
+  ],
+  "name_analysis": {
+    "status": "ok",
+    "evidence_count": 4,
+    "name_mentions": [
+      {
+        "chapter_id": "chapter_0074",
+        "name_source": "李耀",
+        "name_target": "Lý Diệu",
+        "segment_id": "chapter_0074:seg_0003",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0074",
+        "name_source": "赵树德",
+        "name_target": "Triệu Thụ Đức",
+        "segment_id": "chapter_0074:seg_0019",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0074",
+        "name_source": "赫连烈",
+        "name_target": "Hách Liên Liệt",
+        "segment_id": "chapter_0074:seg_0049",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0074",
+        "name_source": "谢听弦",
+        "name_target": "Tạ Thính Huyền",
+        "segment_id": "chapter_0074:seg_0004",
+        "present_in_target": true,
+        "confidence": 1.0
+      }
+    ],
+    "name_entries": [
+      {
+        "name_source": "李耀",
+        "name_target": "Lý Diệu"
+      },
+      {
+        "name_source": "赵树德",
+        "name_target": "Triệu Thụ Đức"
+      },
+      {
+        "name_source": "赫连烈",
+        "name_target": "Hách Liên Liệt"
+      },
+      {
+        "name_source": "谢听弦",
+        "name_target": "Tạ Thính Huyền"
+      }
+    ],
+    "transliteration_units": [],
+    "inferred_name_rules": [],
+    "ambiguity_cases": [],
+    "reusable_name_profile": {
+      "mapping_count": 4,
+      "has_ambiguity": false
+    }
+  },
+  "phrase_patterns": [],
+  "grammar_rule_candidates": [],
+  "analyzer_reports": {
+    "term_occurrences": {
+      "status": "ok",
+      "evidence_count": 11
+    },
+    "entity_mentions": {
+      "status": "ok",
+      "evidence_count": 8
+    },
+    "name_mentions": {
+      "status": "ok",
+      "evidence_count": 4
+    },
+    "phrase_patterns": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    },
+    "grammar_rule_candidates": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    }
+  },
+  "review_queue": [
+    {
+      "chapter_id": "chapter_0074",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "谢教授",
+        "entity_type": "person",
+        "count": 4,
+        "confidence": 0.82,
+        "evidence": [
+          "\n\n“多谢您的关心，谢教授，我刚刚完成了身体检",
+          "思电转，很快明白：“谢教授，贵校是否不会再‘降",
+          "白了，多谢您的好意，谢教授。”\n\n李耀有些失望"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0074",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "成绩",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "修炼，也未必能考出好成绩，还有可能把身体彻底",
+          "巨目猿“击杀”，一切成绩，统统归零。\n\n更何"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0074",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "时候",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "定会参加今年高考，到时候，我的第一志愿仍旧是",
+          "已是下午四点。\n\n这时候，高一高二的学生都陆"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0074",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "明白",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "一愣，心思电转，很快明白：“谢教授，贵校是否",
+          "道：“李耀同学，你要明白，对于深海大学这样一"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0074",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "李耀",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "耀吗？”\n\n“什么？李耀？那个‘一闪而逝的妖",
+          "醒了么？”\n\n“真是李耀，他居然醒了，不过瘦"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0074",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "解释",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "过他并没有停下脚步去解释。\n\n很多事情无需解",
+          "释。\n\n很多事情无需解释，等高考成绩公布，大"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0074",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "高考",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "练，我一定会参加今年高考，到时候，我的第一志",
+          "在，上面写着：“距离高考，还有31天7小时4"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0074",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "堂堂正正的考入深海大学",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "分录取，我会凭实力，堂堂正正的考入深海大学！”\n\n“只是，若你"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0074",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "我的第一志愿仍旧是深海大学",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "加今年高考，到时候，我的第一志愿仍旧是深海大学。”\n\n李耀自信满满"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0074",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "李耀走进校门",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "，继续熬夜复习。\n\n李耀走进校门，抬头看了一眼，那块"
+        ]
+      }
+    }
+  ],
+  "quality_audit": {
+    "segment_coverage": 1.0,
+    "source_hash_match": true,
+    "target_reconstruction_match": true,
+    "invalid_ref_count": 0,
+    "locked_term_hit_rate": 1.0,
+    "missing_locked_terms": [],
+    "cjk_residue_count": 0,
+    "paragraph_drift_ratio": 0.0,
+    "pronoun_consistency_score": 1.0,
+    "warnings": []
+  }
+}

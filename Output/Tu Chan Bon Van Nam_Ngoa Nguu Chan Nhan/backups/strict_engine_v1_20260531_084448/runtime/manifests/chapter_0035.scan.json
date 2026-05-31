@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 35,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan\\0035 - 35.第35章 激战时刻.md",
+  "source_char_count": 2454,
+  "characters": [
+    {
+      "source": "连烈",
+      "entity_type": "person",
+      "count": 3,
+      "confidence": 0.7,
+      "evidence": [
+        "，我就听说，有一个赫连烈，还有一个司佳雪都是",
+        "“你在等司佳雪还是赫连烈？”年轻女老师问。\n",
+        "奇怪道：“司佳雪和赫连烈，都是公认的赤霄二中"
+      ]
+    },
+    {
+      "source": "方式",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "很简单，首先以摇号的方式，在全体高三学生中选",
+        "而其他人则可以用任何方式、任何手段、任何校园"
+      ]
+    },
+    {
+      "source": "时刻",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "35.第35章 激战时刻\n\n  \n\n4月12",
+        "变了一个人。\n\n激战时刻，正式开始！\n\n校园"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "source": "一头头毛茸茸的小肉团",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "清晨8点45分。\n\n一头头毛茸茸的小肉团，长着滴溜溜圆的大眼"
+      ]
+    }
+  ],
+  "locations": [],
+  "realms": [
+    "筑基"
+  ],
+  "techniques": [
+    "就是拳",
+    "漫不经",
+    "证都被装在特殊的法"
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "浮戈城",
+      "target": "Phù Qua Thành"
+    },
+    {
+      "source": "晶脑",
+      "target": "Tinh não"
+    },
+    {
+      "source": "赤霄二中",
+      "target": "Xích Tiêu Nhị Trung"
+    },
+    {
+      "source": "重点班",
+      "target": "lớp trọng điểm"
+    },
+    {
+      "source": "平行班",
+      "target": "lớp song hành"
+    },
+    {
+      "source": "普通班",
+      "target": "lớp thường"
+    },
+    {
+      "source": "筑基期",
+      "target": "Trúc Cơ Kỳ"
+    },
+    {
+      "source": "司佳雪",
+      "target": "Tiêu Giai Tuyết"
+    },
+    {
+      "source": "郑东明",
+      "target": "Trịnh Đông Minh"
+    },
+    {
+      "source": "联邦少年极限挑战赛",
+      "target": "Giải đấu Thử thách Cực hạn Thiếu niên Liên bang"
+    },
+    {
+      "source": "准考证",
+      "target": "thẻ dự thi"
+    }
+  ],
+  "structural_hints": {
+    "has_dialogue": true,
+    "has_western_names": false,
+    "estimated_segments": 52
+  },
+  "generated_at": "2026-05-31T03:24:50.949531+07:00"
+}

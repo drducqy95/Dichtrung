@@ -59,6 +59,78 @@
       "name_target": "Diệu Âm Tông",
       "type": "Tông môn",
       "description": "Tông môn nổi tiếng với việc luyện chế các pháp bảo âm thanh và nhạc khí."
+    },
+    {
+      "name_source": "东极妖国",
+      "name_target": "Đông Cực Yêu Quốc",
+      "type": "Yêu Quốc",
+      "description": "Vương quốc yêu thú đã từng xưng bá trên Cực Đông Hải, bị Liên bang Tinh Diệu tiêu diệt trong Huyết Hải Đại Chiến cách đây 500 năm."
+    },
+    {
+      "name_source": "天幻书院",
+      "name_target": "Thiên Huyễn Thư Viện",
+      "type": "Trường đại học",
+      "description": "Một trong chín trường đại học tinh anh liên kết của Liên bang, chuyên đào tạo tu chân giả hệ văn nghệ như họa sĩ, nhà thơ, nhạc sĩ."
+    },
+    {
+      "name_source": "星云大学",
+      "name_target": "Đại học Tinh Vân",
+      "type": "Trường đại học",
+      "description": "Một trong chín trường đại học tinh anh của Liên bang, chuyên sâu về nghiên cứu học thuật cơ sở và lý thuyết linh năng."
+    },
+    {
+      "name_source": "联邦第一军事学院",
+      "name_target": "Học viện Quân sự Số 1 Liên bang",
+      "type": "Trường quân sự",
+      "description": "Học viện quân sự hàng đầu Liên bang, đào tạo các chiến sĩ tu chân hệ chiến đấu để bảo vệ biên giới chống lại yêu thú."
+    },
+    {
+      "name_source": "天都医学院",
+      "name_target": "Học viện Y khoa Thiên Đô",
+      "type": "Trường đại học",
+      "description": "Một trong chín trường đại học tinh anh, đứng đầu về điểm tuyển sinh đầu vào, chuyên đào tạo y sĩ tu chân giải phẫu cơ thể yêu thú."
+    },
+    {
+      "name_source": "深海大学",
+      "name_target": "Đại học Thâm Hải",
+      "type": "Trường đại học",
+      "description": "Được mệnh danh là 'Thánh địa của Luyện khí sư', cơ sở đào tạo pháp bảo và luyện khí tốt nhất Liên bang."
+    },
+    {
+      "name_source": "大荒战院",
+      "name_target": "Đại Hoang Chiến Viện",
+      "type": "Trường đại học",
+      "description": "Một trường đại học tinh anh nằm ở hoang nguyên biên giới, có thực lực tổng hợp yếu nhất nhưng nổi tiếng với lối tu luyện luyện thể nhục thân vô cùng khắc nghiệt."
+    },
+    {
+      "name_source": "凤山二中",
+      "name_target": "Phượng Sơn Nhị Trung",
+      "type": "Trường trung học phổ thông",
+      "description": "Một trong các trường trung học tu chân tại Phù Qua Thành, nơi đào tạo Trịnh Đông Minh."
+    },
+    {
+      "name_source": "Bàn Cổ Linh tộc",
+      "name_target": "Bàn Cổ Linh tộc",
+      "type": "Chủng tộc cổ đại",
+      "description": "Chủng tộc thế hệ đầu tiên được sinh ra từ linh năng sau vụ nổ lớn, còn gọi là Cổ Thánh, có công khai thiên lập địa."
+    },
+    {
+      "name_source": "血神宗",
+      "name_target": "Huyết Thần Tông",
+      "type": "Nguyên Thủy tông phái",
+      "description": "Tông phái sở hữu chiến lực mạnh nhất trong hai mươi Nguyên Thủy tông phái do Đế Hoàng thành lập, do Huyết Thần Tử chưởng quản."
+    },
+    {
+      "name_source": "魔门",
+      "name_target": "Ma Môn",
+      "type": "Thế lực ma đạo",
+      "description": "Chín Nguyên Thủy tông phái bị Vực Ngoại Thiên Ma vấy bẩn và sa đọa trong thời kỳ Mạt Nhật Biến."
+    },
+    {
+      "name_source": "联邦伤残军人协会",
+      "name_target": "Hiệp hội Thương binh Liên bang",
+      "type": "Tổ chức xã hội",
+      "description": "Tổ chức đại diện và hỗ trợ cho các thương binh, liệt sĩ của Liên bang."
     }
   ],
   "weapons": [
@@ -129,6 +201,35 @@
       "name_target": "Hổ Súc Kích",
       "type": "Chiêu thức võ kỹ",
       "description": "Chiêu thức thúc gối bay uy lực cực mạnh mô phỏng hổ vồ trong Chiến Thú Thập Tam Thế."
+    },
+    {
+      "name_source": "排打",
+      "name_target": "Bài Đả",
+      "type": "Công phu rèn thể chất",
+      "description": "Công phu rèn luyện khả năng chịu đòn và hóa giải lực chấn động bằng cách rung động cơ bắp."
+    },
+    {
+      "name_source": "淬体",
+      "name_target": "tối thể",
+      "type": "Phương pháp tu luyện",
+      "description": "Quá trình trui rèn nhục thân qua đau đớn cực hạn nhằm biến cơ thể thành pháp bảo chiến đấu duy nhất."
+    },
+    {
+      "name_source": "闪光符阵",
+      "name_target": "trận pháp chớp sáng",
+      "description": "Loại trận pháp/phù trận phát ra luồng sáng chói lòa tức khắc làm mù mắt đối thủ tạm thời."
+    },
+    {
+      "name_source": "天魔煞血炮",
+      "name_target": "Thiên Ma Sát Huyết Pháo",
+      "type": "Cấm thuật tinh huyết",
+      "description": "Kích hoạt bằng cách biến hóa hơn trăm thủ ấn, kết tụ chân khí đỏ rực thành hình thần ma màu máu rồi phun ra cột máu ăn mòn cực mạnh, tiêu hao cực lớn tinh huyết bản mệnh của người sử dụng."
+    },
+    {
+      "name_source": "透心锤",
+      "name_target": "Thấu Tâm Chùy",
+      "type": "Chiêu thức luyện khí/chiến đấu",
+      "description": "Chiêu thức thứ 47 trong Một trăm lẻ tám thức Phách Phong Loạn Chùy Pháp, điểm mấu chốt là nhắm chuẩn và dồn lực phát ra đằng sau lưng mục tiêu để lực xuyên thấu hủy diệt ngũ tạng lục phủ bên trong."
     }
   ],
   "cultivation_systems": [
@@ -157,6 +258,12 @@
       "name_target": "Con Đường Thiên Kiêu",
       "type": "Linh dược",
       "description": "Tên một loại thuốc tăng cường linh căn nổi tiếng dành cho thanh thiếu niên ôn thi đại học."
+    },
+    {
+      "name_source": "飞翼蓝鲛",
+      "name_target": "Phi Dực Lam Giao",
+      "type": "Yêu thú biển / Dược liệu quý",
+      "description": "Loại Yêu thú biển quý hiếm ở Cực Đông Hải có bong bóng cá dùng để nấu thuốc hồi phục thần trí cho bệnh nhân hôn mê lâu ngày."
     }
   ],
   "power_ranking": [
@@ -228,6 +335,42 @@
       "name_target": "Khu 63",
       "type": "Khu công nghiệp",
       "description": "Khu vực cung cấp linh năng trung tâm của chợ quỷ ngầm Phù Qua Thành, nơi tập trung nhiều đường ống rỉ sét và tối tăm."
+    },
+    {
+      "name_source": "魔蛟岛",
+      "name_target": "Đảo Ma Giao",
+      "type": "Chiến trường / Đảo hoang",
+      "description": "Một đảo nhỏ hẻo lánh làm đấu trường cho Giải đấu Thử thách Cực hạn Thiếu niên của Liên bang."
+    },
+    {
+      "name_source": "极东海",
+      "name_target": "Cực Đông Hải",
+      "type": "Đại dương",
+      "description": "Vùng biển rộng lớn nằm ở phía cực đông Liên bang, tập trung nhiều yêu thú biển."
+    },
+    {
+      "name_source": "天外魔境",
+      "name_target": "Thiên Ngoại Ma Cảnh",
+      "type": "Cõi thần bí",
+      "description": "Thế giới ngưng tụ từ U Năng nằm ngoài tam giới ngũ hành, nơi ngự trị của Vực Ngoại Thiên Ma."
+    },
+    {
+      "name_source": "乱星界",
+      "name_target": "Loạn Tinh Giới",
+      "type": "Đại thiên thế giới",
+      "description": "Thế giới tinh không phía bắc, nơi Tinh Hải Chiến Hoàng khởi binh chống Yêu tộc."
+    },
+    {
+      "name_source": "万妖界",
+      "name_target": "Vạn Yêu Giới",
+      "type": "Đại thiên thế giới",
+      "description": "Sào huyệt trung tâm của Yêu tộc thời cổ đại."
+    },
+    {
+      "name_source": "天极星",
+      "name_target": "Thiên Cực Tinh",
+      "type": "Hành tinh thủ đô",
+      "description": "Thủ đô của Đế quốc Tinh Hải cổ đại, đã bị đánh nổ tung trong trận chiến giữa Đế Hoàng và Mạt Nhật Chiến Cuồng."
     }
   ],
   "world_map": {},
@@ -292,6 +435,108 @@
       "name_target": "Linh Hạc Truyền Thư",
       "type": "Pháp bảo liên lạc",
       "description": "Pháp bảo liên lạc tin nhắn và đàm thoại thời gian thực, có khả năng chiếu ra mô hình chim hạc ảo lập thể 3D."
+    },
+    {
+      "name_source": "飞豚眼",
+      "name_target": "Phi Đồn Nhãn",
+      "type": "Linh thú nhân tạo",
+      "description": "Linh thú do ngự thú tông phái tạo ra từ huyết mạch heo sữa, thỏ và chim muông, mang chip giám sát trên không."
+    },
+    {
+      "name_source": "灵能浮空船",
+      "name_target": "thuyền linh năng phù không",
+      "type": "Phương tiện bay",
+      "description": "Thuyền khổng lồ bay ở tầm thấp vận hành bằng linh năng."
+    },
+    {
+      "name_source": "辽远号",
+      "name_target": "Liêu Viễn Hào",
+      "type": "Chiến hạm",
+      "description": "Kỳ hạm vĩ đại của Liên bang, được toàn bộ tu chân giả luyện chế 500 năm trước. Từng đâm chìm Thiên Dã Hào trong Huyết Hải Đại Chiến, hiện làm bảo tàng và căn cứ giáo dục, đồng thời trấn áp yêu hồn."
+    },
+    {
+      "name_source": "天野号",
+      "name_target": "Thiên Dã Hào",
+      "type": "Chiến hạm",
+      "description": "Kỳ hạm của Đông Cực Yêu Hoàng, bị Liêu Viễn Hào đâm chìm."
+    },
+    {
+      "name_source": "碎星炮",
+      "name_target": "Toái Tinh Pháo",
+      "type": "Vũ khí",
+      "description": "Vũ khí mạnh mẽ do luyện khí sư chế tạo, có khả năng hủy diệt một đại lục."
+    },
+    {
+      "name_source": "灵子对撞机",
+      "name_target": "máy đối chàng linh tử",
+      "type": "Pháp bảo nghiên cứu",
+      "description": "Thiết bị dùng để gia tốc hai nguồn linh năng cực đại va chạm trực diện nhằm giải phóng linh tử tự do."
+    },
+    {
+      "name_source": "反妖兽防御系统",
+      "name_target": "Hệ thống phòng ngự chống yêu thú",
+      "type": "Hệ thống pháp bảo",
+      "description": "Hệ thống phòng không đô thị cấu thành từ mạng lưới các quả cầu kim loại sáu cạnh có từ tính mạnh, dùng để đánh chặn yêu thú và phi kiếm."
+    },
+    {
+      "name_source": "无人驾驭飞剑",
+      "name_target": "phi kiếm không người lái",
+      "type": "Pháp bảo",
+      "description": "Phi kiếm hoạt động tự động không cần người thao khiển, nhờ cấu trúc phù trận ghi nhớ thần niệm chiến đấu chiến lược."
+    },
+    {
+      "name_source": "晶兽",
+      "name_target": "tinh thú",
+      "type": "Cơ khí sinh học",
+      "description": "Loại linh thú đặc chế gắn hệ thống Tinh não để hỗ trợ và giám sát con người."
+    },
+    {
+      "name_source": "鬼龙7号",
+      "name_target": "Quỷ Long số 7",
+      "type": "Dược phẩm kích thích",
+      "description": "Thuốc kích thích cường hóa cơ thể và kích phát đòn tấn công tinh thần mạnh mẽ, có tác dụng phụ nghiêm trọng."
+    },
+    {
+      "name_source": "惊鸿",
+      "name_target": "Kinh Hồng",
+      "type": "Thần binh lợi khí",
+      "description": "Thần kiếm do Âu Dã Tử rèn đúc đủ để chém chết tu sĩ Hóa Thần Kỳ."
+    },
+    {
+      "name_source": "屠蛟",
+      "name_target": "Đồ Giao",
+      "type": "Thần binh lợi khí",
+      "description": "Chiến đao do Âu Dã Tử rèn đúc đủ để chém chết tu sĩ Hóa Thần Kỳ."
+    },
+    {
+      "name_source": "噬魂",
+      "name_target": "Phệ Hồn",
+      "type": "Thần binh lợi khí",
+      "description": "Trường thương do Âu Dã Tử rèn đúc đủ để chém chết tu sĩ Hóa Thần Kỳ."
+    },
+    {
+      "name_source": "神剑惊鸿",
+      "name_target": "Thần kiếm Kinh Hồng",
+      "type": "Cổ bảo / Thần binh",
+      "description": "Thần kiếm chém Hóa Thần do Âu Dã Tử rèn đúc thời cổ đại."
+    },
+    {
+      "name_source": "战刀屠蛟",
+      "name_target": "Chiến đao Đồ Giao",
+      "type": "Cổ bảo / Thần binh",
+      "description": "Chiến đao chém Hóa Thần do Âu Dã Tử rèn đúc thời cổ đại."
+    },
+    {
+      "name_source": "长枪噬魂",
+      "name_target": "Trường thương Phệ Hồn",
+      "type": "Cổ bảo / Thần binh",
+      "description": "Trường thương chém Hóa Thần do Âu Dã Tử rèn đúc thời cổ đại."
+    },
+    {
+      "name_source": "赤焰战梭",
+      "name_target": "Xích Diễm Chiến Toa",
+      "type": "Phi toa siêu tốc",
+      "description": "Chiếc phi toa siêu tốc độ cực kỳ xa xỉ màu đỏ rực như ngọn lửa ngưng tụ của Đinh Linh Đang."
     }
   ]
 }

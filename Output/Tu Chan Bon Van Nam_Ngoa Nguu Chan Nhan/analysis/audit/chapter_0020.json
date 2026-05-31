@@ -1,8 +1,12 @@
 {
   "segment_coverage": 1.0,
+  "source_hash_match": true,
+  "target_reconstruction_match": true,
+  "invalid_ref_count": 0,
   "locked_term_hit_rate": 1.0,
+  "missing_locked_terms": [],
   "cjk_residue_count": 0,
-  "paragraph_drift_ratio": 0.0,
+  "paragraph_drift_ratio": 0.045454545454545456,
   "pronoun_consistency_score": 1.0,
   "warnings": []
 }

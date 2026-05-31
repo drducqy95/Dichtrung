@@ -1,553 +1,816 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
   "chapter": 29,
+  "chapter_id": "chapter_0029",
+  "source_manifest_hash": "ded25ad3d96ae50ab74f88e11d52a4d6399f8093769b9b82cfb054839d1b6c70",
   "aligned_segments": [
     {
-      "seg_id": "seg_0001",
+      "alignment_id": "chapter_0029:align_0001",
+      "chapter_id": "chapter_0029",
+      "segment_ids": [
+        "chapter_0029:seg_0001"
+      ],
       "source": "# 29.第29章 铸造妖刀的人",
-      "target": "Lão già đi tới có mái tóc bạc trắng thưa thớt, đôi mắt xám xịt như thể bị đục thủy tinh thể, vóc dáng còng xuống, hơi thở gấp gáp, tựa như một cơn gió nhẹ cũng có thể thổi bay.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "source_hash": "677722607c10ce10ab3faff69d920b732fbfd4eadb39bc7195692c4e173897d8",
+      "target": "# Chương 0029 - Người Rèn Đúc Nên Yêu Đao",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0002",
-      "source": "走过来的这个老头子头发花白稀疏，双眼灰白，似乎有白内障，身材伛偻，喘息急促，简直一阵风都能吹倒。",
-      "target": "Lý Diệu nhớ lại, hồi khai giảng khi cậu cùng các bạn học đi tới nhà kho nhận đồng phục, đã từng gặp qua lão già họ Tôn này.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "alignment_id": "chapter_0029:align_0002",
+      "chapter_id": "chapter_0029",
+      "segment_ids": [
+        "chapter_0029:seg_0002",
+        "chapter_0029:seg_0003",
+        "chapter_0029:seg_0004",
+        "chapter_0029:seg_0005"
+      ],
+      "source": "走过来的这个老头子头发花白稀疏，双眼灰白，似乎有白内障，身材伛偻，喘息急促，简直一阵风都能吹倒。\n\n李耀记得，开学时他和同学一起去仓库领校服，曾经见过这个姓孙的老头。\n\n“他可不是一般的仓库管理员，我听说这个老头‘孙彪’在七十多年前就已经是学校的武技老师，是非常厉害的高手，而且眼光很毒，\\*\\*出了不少修炼天才，当年就是他在贫民窟一眼看出‘妖刀彭海’的不凡之处，把彭海特招进学校！不过他已经一百五十多岁，十年前就不教学生，算半退休状态，只是在家里闲不住，干脆来工作了一辈子的学校里当个仓库管理员，消磨时间。别看他瘦不拉几，毫不起眼，在学校里有很高的威望，连校长赵秃头都要卖他几分面子！”孟江是学校里的八卦王，滔滔不绝地介绍起来。\n\n“发掘‘妖刀彭海’的人！”李耀肃然起敬。",
+      "source_hash": "a45ef397f9f9f250d951a237eec77b32a21fdd40b3638ba8abbd2ad294bc3a80",
+      "target": "Lão già đi tới có mái tóc bạc trắng thưa thớt, đôi mắt xám xịt như thể bị đục thủy tinh thể, vóc dáng còng xuống, hơi thở gấp gáp, tựa như một cơn gió nhẹ cũng có thể thổi bay.\nLý Diệu nhớ lại, hồi khai giảng khi cậu cùng các bạn học đi tới nhà kho nhận đồng phục, đã từng gặp qua lão già họ Tôn này.",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0003",
-      "source": "李耀记得，开学时他和同学一起去仓库领校服，曾经见过这个姓孙的老头。",
-      "target": "\"Ông ấy không phải là thủ kho bình thường đâu. Tớ nghe nói lão già 'Tôn Bưu' này từ hơn bảy mươi năm trước đã là giáo viên võ kỹ của trường, là một cao thủ cực kỳ lợi hại. Hơn nữa ánh mắt rất độc đáo, đã đào tạo ra không ít thiên tài tu luyện. Năm xưa chính ông ấy chỉ nhìn một cái đã phát hiện điểm phi phàm của 'Yêu Đao Bành Hải' ở khu ổ chuột, đặc cách tuyển Bành Hải vào trường đấy! Nhưng ông ấy đã hơn một trăm năm mươi tuổi, mười năm trước đã ngừng dạy học, đang ở trạng thái bán nghỉ hưu, chỉ vì ở nhà không chịu nổi rảnh rỗi nên mới tới trường học làm việc cả đời này làm thủ kho để giết thời gian. Đừng thấy ông ấy gầy gò ốm yếu, không có gì nổi bật, nhưng ở trường có uy vọng cực cao, ngay cả hiệu trưởng Triệu hói cũng phải nể ông ấy vài phần đấy!\" Mạnh Giang vốn là vua buôn chuyện của trường, bắt đầu thao thao bất tuyệt giới thiệu.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "alignment_id": "chapter_0029:align_0003",
+      "chapter_id": "chapter_0029",
+      "segment_ids": [
+        "chapter_0029:seg_0006"
+      ],
+      "source": "“没想到孙老会出现，看来事情还有转机，记得，在他老人家面前机灵点，说不定是福不是祸，快去吧！”孟江用力推了李耀一把，忽然又道，“等等！”",
+      "source_hash": "18d9467958932c9ed5ef3ea5c08936fe46af10c2a8cecc0a24cb86e40d5ce148",
+      "target": "\"Người phát hiện ra 'Yêu Đao Bành Hải'!\" Lý Diệu lập tức nghiêm trang kính trọng.\n\n\"Hử?\" Lý Diệu dừng lại.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0004",
-      "source": "“他可不是一般的仓库管理员，我听说这个老头‘孙彪’在七十多年前就已经是学校的武技老师，是非常厉害的高手，而且眼光很毒，\\*\\*出了不少修炼天才，当年就是他在贫民窟一眼看出‘妖刀彭海’的不凡之处，把彭海特招进学校！",
-      "target": "\"Người phát hiện ra 'Yêu Đao Bành Hải'!\" Lý Diệu lập tức nghiêm trang kính trọng.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0005",
-      "source": "不过他已经一百五十多岁，十年前就不教学生，算半退休状态，只是在家里闲不住，干脆来工作了一辈子的学校里当个仓库管理员，消磨时间。",
-      "target": "\"Không ngờ Tôn lão lại xuất hiện, xem ra chuyện này vẫn còn có cơ hội xoay chuyển. Nhớ kỹ, trước mặt cụ lão phải lanh lẹ một chút, nói không chừng là họa đi phúc đến đấy, mau đi đi!\" Mạnh Giang đẩy mạnh Lý Diệu một cái, bỗng nhiên lại gọi: \"Khoan đã!\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0006",
-      "source": "别看他瘦不拉几，毫不起眼，在学校里有很高的威望，连校长赵秃头都要卖他几分面子！",
-      "target": "\"Hử?\" Lý Diệu dừng lại.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0007",
-      "source": "”孟江是学校里的八卦王，滔滔不绝地介绍起来。",
+      "alignment_id": "chapter_0029:align_0004",
+      "chapter_id": "chapter_0029",
+      "segment_ids": [
+        "chapter_0029:seg_0007",
+        "chapter_0029:seg_0008"
+      ],
+      "source": "“嗯？”李耀站住。\n\n“小妖，你刚才说，面对敌人的威胁，一定要先血拼到底，然后再讲道理或者妥协，听起来是很有气势啦——可是万一拼不过怎么办？”孟江刚才一直在琢磨李耀的话，越琢磨越觉得很酷很炫很霸气，可是隐隐觉得有什么地方不对，这会儿才反应过来。",
+      "source_hash": "f2a95d1589f47298dc25042b51806d427d7303baabb1e1291f65767d5ebe70cc",
       "target": "\"Tiểu Yêu, lúc nãy cậu nói đối mặt với sự đe dọa của kẻ thù thì nhất định phải liều mạng đến cùng trước, rồi sau đó mới nói lý lẽ hoặc thỏa hiệp, nghe thì oai phong thật đấy — nhưng ngộ nhỡ đánh không lại thì tính sao?\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0008",
-      "source": "“发掘‘妖刀彭海’的人！",
+      "alignment_id": "chapter_0029:align_0005",
+      "chapter_id": "chapter_0029",
+      "segment_ids": [
+        "chapter_0029:seg_0009",
+        "chapter_0029:seg_0010"
+      ],
+      "source": "“拼不过就跑，跑不掉就挨，挨不住了还可以去死啊！”李耀冲死党一翻白眼，向仓库管理员孙彪走去。\n\n他比孙彪高了足足一个头，站在对方面前，只能看到一个头发稀疏的头顶心，布满了老人斑，看似平平无奇。",
+      "source_hash": "76d28f816944cdc5dd937a1336b6dfaa25cd7b075f25177d645fc025f7d36bd5",
       "target": "\"Đánh không lại thì chạy, chạy không thoát thì chịu đòn, chịu không nổi nữa thì đi chết chứ sao!\" Lý Diệu trừng mắt lườm bạn thân một cái, rồi sải bước đi về phía thủ kho Tôn Bưu.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0009",
-      "source": "”李耀肃然起敬。",
+      "alignment_id": "chapter_0029:align_0006",
+      "chapter_id": "chapter_0029",
+      "segment_ids": [
+        "chapter_0029:seg_0011",
+        "chapter_0029:seg_0012"
+      ],
+      "source": "李耀却是紧张到了极点，一颗心砰砰乱跳——对方可是发掘了“妖刀彭海”的人！\n\n孙彪侧着脖子，似乎颈椎不太好，有些吃力地偏过脑袋，仔仔细细打量了半天。",
+      "source_hash": "7d1f6f01a6a0d2d9291a6707e0cc73d08997043f4d50e51540d7adb0b089ec06",
       "target": "Cậu cao hơn Tôn Bưu cả một cái đầu, đứng trước mặt đối phương chỉ thấy được một đỉnh đầu lưa thưa tóc phủ đầy vết đồi mồi, trông vô cùng bình thường.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0010",
-      "source": "“没想到孙老会出现，看来事情还有转机，记得，在他老人家面前机灵点，说不定是福不是祸，快去吧！",
+      "alignment_id": "chapter_0029:align_0007",
+      "chapter_id": "chapter_0029",
+      "segment_ids": [
+        "chapter_0029:seg_0013",
+        "chapter_0029:seg_0014"
+      ],
+      "source": "那眼神，就像是狂热的美食家盯着一块鲜嫩多汁的小牛肉，直到李耀头皮发麻，脊背发凉，老头才慢吞吞地说：“镁粉撒得不错！”\n\n李耀一愣，不由露出微笑，他也觉得自己撒得一手好镁粉，一招就抢占先机，奠定胜局。",
+      "source_hash": "ae3741c9876c4733087cf355e40da428bbf239d93a42a972c4e74e12bddd525c",
       "target": "Thế nhưng Lý Diệu lại căng thẳng đến tột độ, trái tim đập thình thịch loạn nhịp — đối phương chính là người đã khai quật ra \"Yêu Đao Bành Hải\" đấy!",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0011",
-      "source": "”孟江用力推了李耀一把，忽然又道，“等等！",
+      "alignment_id": "chapter_0029:align_0008",
+      "chapter_id": "chapter_0029",
+      "segment_ids": [
+        "chapter_0029:seg_0015",
+        "chapter_0029:seg_0016"
+      ],
+      "source": "否则以赵亮60%的灵根开发度，老老实实交手，谁把谁打成猪头还不一定呢！\n\n“不过——”孙彪话锋一转，伸出两根枯枝般的手指头，“如果换成是我，撒的就不是镁粉，而是沙袋里的铁砂，只要力量足够，一下子就击穿对方的视网膜，令对手完全丧失视力！然后在地上洒满铁钉，对方看不见，一脚踩上去，脚心绝对洞穿！虽然不至于致命，但这种温室里成长起来的乖宝宝，最怕痛的嘛，一定丧失移动力！视力和移动力都丧失了，只要两秒钟，就能干掉他！”",
+      "source_hash": "8dbb01b4d95f48fb7d06eb20213a7c5390e1ca8a7a3d34d1882d8447a37c9c27",
       "target": "Tôn Bưu nghiêng cổ, dường như xương cổ không được tốt, có chút khó khăn quay đầu sang tỉ mỉ săm soi đánh giá hồi lâu. Ánh mắt đó giống như một nhà ẩm thực cuồng nhiệt đang nhìn một miếng thịt bê non tơ mọng nước, nhìn đến mức da đầu Lý Diệu tê rần, sống lưng lạnh toát, lão già mới chậm rãi thốt ra một câu: \"Bột magie ném hay lắm!\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0012",
-      "source": "”",
+      "alignment_id": "chapter_0029:align_0009",
+      "chapter_id": "chapter_0029",
+      "segment_ids": [
+        "chapter_0029:seg_0017"
+      ],
+      "source": "李耀听得目瞪口呆，半天才反应过来，不由争辩：“当时情况那么紧急，我能偷偷抓到一把镁粉就很不错了，哪有时间剖开沙袋去弄里面的铁砂？铁钉就更夸张，体育馆里哪有大把铁钉给我洒？”",
+      "source_hash": "16190d886c0d888d2ad9bb9336b6e20bec4aa5f1e813323a148106533b35bb12",
       "target": "Lý Diệu ngẩn ra, không nhịn được nở nụ cười. Cậu cũng cảm thấy mình ném bột magie rất cừ, một chiêu đã chiếm được tiên cơ, đặt nền móng cho thắng lợi.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0013",
-      "source": "“嗯？",
-      "target": "Bằng không với độ khai phát linh căn 60% của Triệu Lượng, nếu quang minh chính đại giao thủ, ai đánh ai ra bã vẫn chưa biết chừng!",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "alignment_id": "chapter_0029:align_0010",
+      "chapter_id": "chapter_0029",
+      "segment_ids": [
+        "chapter_0029:seg_0018"
+      ],
+      "source": "孙彪“嘿嘿”阴笑了两声：“身为一名打架高手，当然是一天二十四个小时，每一秒都要做好战斗的准备，铁砂和铁钉之类的小零碎，根本就该随身携带，就算洗澡的时候，都要在\\*\\*里夹一根铁钉！你连这点最基本的准备都没有，还敢出来学人家打架？”",
+      "source_hash": "513fe40a9fe7405c5dce579178b62c69c16ff0026755c3e21a5c0513abb66080",
+      "target": "Bằng không với độ khai phát linh căn 60% của Triệu Lượng, nếu quang minh chính đại giao thủ, ai đánh ai ra bã vẫn chưa biết chừng!\n\nNói xong, ông lão quay người, chắp tay sau lưng lững thững đi về phía nhà kho.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0014",
-      "source": "”李耀站住。",
-      "target": "\"Thế nhưng —\" Tôn Bưu chuyển chủ đề, đưa ra hai ngón tay gầy guộc như cành củi khô, \"Nếu đổi lại là ta, thứ ném ra sẽ không phải bột magie mà là cát sắt trong bao cát. Chỉ cần đủ lực, một đòn sẽ đâm thủng võng mạc đối phương, khiến đối thủ mù mắt hoàn toàn! Sau đó rải đinh sắt khắp mặt đất, đối phương không nhìn thấy gì, chỉ cần bước chân lên là gan bàn chân chắc chắn bị đâm xuyên! Tuy không đến mức mất mạng, nhưng loại công tử bột lớn lên trong nhà kính này sợ đau nhất, chắc chắn sẽ mất khả năng di động! Mất cả thị lực lẫn khả năng di chuyển rồi thì chỉ cần hai giây là có thể giải quyết sạch sẽ gã!\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0015",
-      "source": "“小妖，你刚才说，面对敌人的威胁，一定要先血拼到底，然后再讲道理或者妥协，听起来是很有气势啦——可是万一拼不过怎么办？",
-      "target": "Lý Diệu nghe mà ngơ ngác há hốc mồm, nửa ngày mới phản ứng lại được, không khỏi tranh luận: \"Lúc đó tình thế cấp bách như vậy, cháu lén bốc được một vốc bột magie đã tốt lắm rồi, làm gì có thời gian rạch bao cát lấy cát sắt chứ? Đinh sắt thì càng hoang đường hơn, trong nhà thi đấu đào đâu ra cả đống đinh sắt cho cháu rải?\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0016",
-      "source": "”孟江刚才一直在琢磨李耀的话，越琢磨越觉得很酷很炫很霸气，可是隐隐觉得有什么地方不对，这会儿才反应过来。",
-      "target": "Tôn Bưu \"hắc hắc\" cười hiểm độc hai tiếng: \"Đã là một cao thủ đánh lộn, đương nhiên phải chuẩn bị chiến đấu từng giây từng phút suốt hai mươi bốn giờ mỗi ngày. Những món lặt vặt như cát sắt và đinh sắt đáng lẽ phải luôn mang theo bên mình, ngay cả lúc tắm cũng phải kẹp một cây đinh sắt ở kẽ mông! Ngươi đến sự chuẩn bị cơ bản nhất này cũng không có, mà cũng dám ra ngoài học đòi người ta đi đánh lộn sao?\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0017",
-      "source": "“拼不过就跑，跑不掉就挨，挨不住了还可以去死啊！",
-      "target": "Lý Diệu nghẹn họng trân trối, bỗng nhiên cảm thấy lão già này còn hèn hạ vô sỉ hơn mình gấp trăm lần. Tôn Bưu hừ lạnh một tiếng rồi nói tiếp: \"Nhưng thời buổi này, thanh niên thực sự biết đánh lộn ngày càng ít đi rồi. Ta thấy ngươi ít nhiều cũng có chút tố chất đấy, đi thôi, tới chỗ ta bồi lão già này nói chuyện chút nào!\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0018",
-      "source": "”李耀冲死党一翻白眼，向仓库管理员孙彪走去。",
-      "target": "Nói xong, ông lão quay người, chắp tay sau lưng lững thững đi về phía nhà kho.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0019",
-      "source": "他比孙彪高了足足一个头，站在对方面前，只能看到一个头发稀疏的头顶心，布满了老人斑，看似平平无奇。",
-      "target": "Lý Diệu do dự một chút, ngoan ngoãn bám đuôi theo sau ông lão.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0020",
-      "source": "李耀却是紧张到了极点，一颗心砰砰乱跳——对方可是发掘了“妖刀彭海”的人！",
-      "target": "Then cậu phát hiện ra một chuyện quái lạ — Tôn Bưu trông thì lảo đảo đi từng bước nhỏ rụt rè, tưởng như một cái hắt hơi cũng có thể thổi bay, thế nhưng tốc độ lại không chậm chút nào. Hơn nữa như thể sau gáy có mắt, tùy theo sự thay đổi tốc độ của Lý Diệu mà ông lão luôn giữ khoảng cách ổn định năm mét phía trước cậu.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0021",
-      "source": "孙彪侧着脖子，似乎颈椎不太好，有些吃力地偏过脑袋，仔仔细细打量了半天。",
-      "target": "Lý Diệu có chút không phục, cắn răng một cái liền thi triển \"Linh Xà Bộ Pháp\", chạy chậm bám theo. Tôn Bưu vẫn chắp tay sau lưng, bước đi run rẩy lảo đảo.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0022",
-      "source": "那眼神，就像是狂热的美食家盯着一块鲜嫩多汁的小牛肉，直到李耀头皮发麻，脊背发凉，老头才慢吞吞地说：“镁粉撒得不错！",
-      "target": "Nhưng cho dù Lý Diệu có tăng tốc thế nào, thậm chí chạy đến mức mồ hôi đầm đìa khắp đầu, cũng không tài nào thu hẹp nổi khoảng cách dù chỉ bằng một sợi tóc!",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0023",
-      "source": "”",
-      "target": "\"Là bộ pháp võ kỹ cực kỳ cao minh, hay là tiên pháp tu chân kiểu co đất thành tấc?\" Trong lòng Lý Diệu vô cùng kinh ngạc.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0024",
-      "source": "李耀一愣，不由露出微笑，他也觉得自己撒得一手好镁粉，一招就抢占先机，奠定胜局。",
-      "target": "Cho đến khi có vài bạn học thong thả đi ngang qua bên cạnh, cậu mới bừng tỉnh nhận ra, không phải Tôn Bưu đi quá nhanh, mà là bản thân cậu quá chậm! Cậu rõ ràng đã thi triển \"Linh Xà Bộ Pháp\" chạy như điên cuồng, thế mà chạy nửa ngày vẫn chưa ra khỏi khoảng cách mười mét, trước khi bạn học đi qua, cậu hoàn toàn không hề nhận ra có điểm gì bất thường!",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0025",
-      "source": "否则以赵亮60%的灵根开发度，老老实实交手，谁把谁打成猪头还不一定呢！",
-      "target": "\"Chẳng lẽ là công kích bằng tinh thần ảo thuật?\" Lý Diệu da đầu tê dại, cuối cùng cũng nhận ra sự thâm sâu không lường được của Tôn Bưu, không dám tùy tiện làm càn nữa, dừng bước rút cổ, ngoan ngoãn đi sau lưng Tôn Bưu.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0026",
-      "source": "“不过——”孙彪话锋一转，伸出两根枯枝般的手指头，“如果换成是我，撒的就不是镁粉，而是沙袋里的铁砂，只要力量足够，一下子就击穿对方的视网膜，令对手完全丧失视力！",
-      "target": "Nói cũng kỳ lạ, khi cậu dừng chân thì tốc độ của hai người lại nhanh đến mức khó tin. Nhà thi đấu số 9 cách kho hậu cần khoảng hơn một ngàn mét, vậy mà mới đi có một phút đã thấy cửa lớn của nhà kho.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0027",
-      "source": "然后在地上洒满铁钉，对方看不见，一脚踩上去，脚心绝对洞穿！",
-      "target": "Kho hậu cần là một tòa nhà nhỏ màu xám xịt, nhiều chỗ lớp vôi bên ngoài đã bong tróc, lộ ra những viên gạch màu vàng nâu trông khá nhếch nhác.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0028",
-      "source": "虽然不至于致命，但这种温室里成长起来的乖宝宝，最怕痛的嘛，一定丧失移动力！",
-      "target": "Trông thì không lớn, nhưng bên trong lại có càn khôn riêng. Sau khi đi quanh co khúc khuỷu xuyên qua đống lớn đồ dùng hậu cần, hiện ra trước mắt Lý Diệu là một bãi luyện tập có kích thước bằng một sân bóng linh năng tiêu chuẩn.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0029",
-      "source": "视力和移动力都丧失了，只要两秒钟，就能干掉他！",
-      "target": "Tạ tay, tạ đòn, máy tập ngực cánh bướm, máy gánh đùi, máy đo lực, bia đấm hình người bằng bùn thạch anh đông lạnh... các loại thiết bị tập luyện đều có đủ cả.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0030",
-      "source": "”",
-      "target": "Nhưng phần lớn đều là các đời từ mấy chục năm trước, thô kệch xám xịt và rỉ sét loang lổ, mơ hồ tỏa ra một luồng khí thế thô ráp hung hãn. Tất cả các thiết bị tập luyện đều phủ đầy bụi bặm, có vẻ như đã lâu không có ai sử dụng.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0031",
-      "source": "李耀听得目瞪口呆，半天才反应过来，不由争辩：“当时情况那么紧急，我能偷偷抓到一把镁粉就很不错了，哪有时间剖开沙袋去弄里面的铁砂？",
-      "target": "Đi tới giữa bãi luyện tập, Tôn Bưu quay người lại, bỗng nhiên làm một hành động mà Lý Diệu có đoán thế nào cũng không ra nổi. Ông lão đã ngoài một trăm năm mươi tuổi, từng phát hiện ra \"Yêu Đao Bành Hải\", một cựu giáo viên đã nghỉ hưu đầy uy tín này lại cúi người chào sâu trước Lý Diệu, giọng nói lập tức trở nên vô cùng nghiêm túc: \"Trước hết, bạn học Lý Diệu, xin hãy nhận lời xin lỗi của ta.\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0032",
-      "source": "铁钉就更夸张，体育馆里哪有大把铁钉给我洒？",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0033",
-      "source": "”",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0034",
-      "source": "孙彪“嘿嘿”阴笑了两声：“身为一名打架高手，当然是一天二十四个小时，每一秒都要做好战斗的准备，铁砂和铁钉之类的小零碎，根本就该随身携带，就算洗澡的时候，都要在\\*\\*里夹一根铁钉！",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0035",
-      "source": "你连这点最基本的准备都没有，还敢出来学人家打架？",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0036",
-      "source": "”",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0037",
+      "alignment_id": "chapter_0029:align_0011",
+      "chapter_id": "chapter_0029",
+      "segment_ids": [
+        "chapter_0029:seg_0019"
+      ],
       "source": "李耀一时语塞，忽然觉得这个老头比自己还卑鄙无耻一百倍。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "source_hash": "f39d79b1a5e7a220878732d99ac7bcea32626043c59488971e10179628ffbc6c",
+      "target": "Lý Diệu do dự một chút, ngoan ngoãn bám đuôi theo sau ông lão.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0038",
-      "source": "孙彪冷哼一声，继续道：“不过这年头，真正会打架的年轻人已经越来越少啦，我看你多少还算有点潜质，走，去我那里，陪老头子聊聊吧！",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "alignment_id": "chapter_0029:align_0012",
+      "chapter_id": "chapter_0029",
+      "segment_ids": [
+        "chapter_0029:seg_0020",
+        "chapter_0029:seg_0021"
+      ],
+      "source": "孙彪冷哼一声，继续道：“不过这年头，真正会打架的年轻人已经越来越少啦，我看你多少还算有点潜质，走，去我那里，陪老头子聊聊吧！”\n\n说着，他一转身，背着双手，向仓库走去。",
+      "source_hash": "21ea50f3d71f1dd15b41332dfe765fd1d0b033d1e2cfcba2d965e8ce45f2cd8f",
+      "target": "Lý Diệu có chút không phục, cắn răng một cái liền thi triển \"Linh Xà Bộ Pháp\", chạy chậm bám theo. Tôn Bưu vẫn chắp tay sau lưng, bước đi run rẩy lảo đảo.",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0039",
-      "source": "”",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "alignment_id": "chapter_0029:align_0013",
+      "chapter_id": "chapter_0029",
+      "segment_ids": [
+        "chapter_0029:seg_0022",
+        "chapter_0029:seg_0023"
+      ],
+      "source": "李耀犹豫了一下，老老实实跟在老头子后面。\n\n然后他就发现了一件怪事——孙彪看似颤颤巍巍，挪着小碎步，一个喷嚏就能吹倒，可速度一点都不慢，而且像是后脑勺上长着眼睛，随着李耀的速度变化，始终保持在他前面五米。",
+      "source_hash": "92fb2911ea74824fd10072bd96612156fa7168aab5445dcf3adcab0a06f9a780",
+      "target": "Nhưng cho dù Lý Diệu có tăng tốc thế nào, thậm chí chạy đến mức mồ hôi đầm đìa khắp đầu, cũng không tài nào thu hẹp nổi khoảng cách dù chỉ bằng một sợi tóc!",
+      "narrative_type": "narration",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0040",
-      "source": "说着，他一转身，背着双手，向仓库走去。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "alignment_id": "chapter_0029:align_0014",
+      "chapter_id": "chapter_0029",
+      "segment_ids": [
+        "chapter_0029:seg_0024",
+        "chapter_0029:seg_0025"
+      ],
+      "source": "李耀有些不信邪，一咬牙，干脆施展《灵蛇步法》，一路小跑起来。\n\n孙彪依旧背负双手，步履蹒跚。",
+      "source_hash": "596c13743ddcc10cd89a4e7a84d591e8c159d6b032412baaf4635f442ada2a8b",
+      "target": "\"Là bộ pháp võ kỹ cực kỳ cao minh, hay là tiên pháp tu chân kiểu co đất thành tấc?\" Trong lòng Lý Diệu vô cùng kinh ngạc.",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0041",
-      "source": "李耀犹豫了一下，老老实实跟在老头子后面。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "alignment_id": "chapter_0029:align_0015",
+      "chapter_id": "chapter_0029",
+      "segment_ids": [
+        "chapter_0029:seg_0026",
+        "chapter_0029:seg_0027",
+        "chapter_0029:seg_0028"
+      ],
+      "source": "可是无论李耀怎么加速，甚至跑得满头热汗直冒，都无法缩短哪怕一根头发丝的距离！\n\n“是极高明的武技步法，还是缩地成寸之类的修真仙法？”李耀心中无比讶异。\n\n直到旁边有几名同学慢条斯理地走过，他才恍然意识到，并非孙彪走得太快，而是自己实在太慢了！",
+      "source_hash": "c7967ce366b3e9f5310d4a30c7e18d58f8e47b05de032e9a035f6deb251fc7be",
+      "target": "\"Chẳng lẽ là công kích bằng tinh thần ảo thuật?\" Lý Diệu da đầu tê dại, cuối cùng cũng nhận ra sự thâm sâu không lường được của Tôn Bưu, không dám tùy tiện làm càn nữa, dừng bước rút cổ, ngoan ngoãn đi sau lưng Tôn Bưu.",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0042",
-      "source": "然后他就发现了一件怪事——孙彪看似颤颤巍巍，挪着小碎步，一个喷嚏就能吹倒，可速度一点都不慢，而且像是后脑勺上长着眼睛，随着李耀的速度变化，始终保持在他前面五米。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "alignment_id": "chapter_0029:align_0016",
+      "chapter_id": "chapter_0029",
+      "segment_ids": [
+        "chapter_0029:seg_0029",
+        "chapter_0029:seg_0030"
+      ],
+      "source": "他明明施展出《灵蛇步法》极速狂飙，可是跑了半天依旧没跑出十米距离，直到同学路过之前，根本没意识到有什么不对劲！\n\n“难道是精神幻术攻击？”李耀头皮发麻，终于认识到孙彪的深不可测，不敢再胡乱造次，收住脚步，夹着尾巴，老老实实跟在孙彪身后。",
+      "source_hash": "c108591f8c5b11e606d74fd47a1e0d97099828d76303f7c08c841b1b16065f96",
+      "target": "Nói cũng kỳ lạ, khi cậu dừng chân thì tốc độ của hai người lại nhanh đến mức khó tin. Nhà thi đấu số 9 cách kho hậu cần khoảng hơn một ngàn mét, vậy mà mới đi có một phút đã thấy cửa lớn của nhà kho.",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0043",
-      "source": "李耀有些不信邪，一咬牙，干脆施展《灵蛇步法》，一路小跑起来。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0044",
-      "source": "孙彪依旧背负双手，步履蹒跚。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0045",
-      "source": "可是无论李耀怎么加速，甚至跑得满头热汗直冒，都无法缩短哪怕一根头发丝的距离！",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0046",
-      "source": "“是极高明的武技步法，还是缩地成寸之类的修真仙法？",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0047",
-      "source": "”李耀心中无比讶异。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0048",
-      "source": "直到旁边有几名同学慢条斯理地走过，他才恍然意识到，并非孙彪走得太快，而是自己实在太慢了！",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0049",
-      "source": "他明明施展出《灵蛇步法》极速狂飙，可是跑了半天依旧没跑出十米距离，直到同学路过之前，根本没意识到有什么不对劲！",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0050",
-      "source": "“难道是精神幻术攻击？",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0051",
-      "source": "”李耀头皮发麻，终于认识到孙彪的深不可测，不敢再胡乱造次，收住脚步，夹着尾巴，老老实实跟在孙彪身后。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0052",
+      "alignment_id": "chapter_0029:align_0017",
+      "chapter_id": "chapter_0029",
+      "segment_ids": [
+        "chapter_0029:seg_0031"
+      ],
       "source": "说来奇怪，他收住脚步，两人的速度反而不可思议地快了起来，九号体育馆距离后勤仓库有大约一千多米，可是才走了一分钟就看到仓库大门。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "source_hash": "d2b14f9e7c886fec49f54f2e4c61c4e4df539d4bc69deab3f56dd27700db9ccd",
+      "target": "Kho hậu cần là một tòa nhà nhỏ màu xám xịt, nhiều chỗ lớp vôi bên ngoài đã bong tróc, lộ ra những viên gạch màu vàng nâu trông khá nhếch nhác.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0053",
-      "source": "后勤仓库是一座灰扑扑的小楼，不少地方的外皮都剥落了，露出了黄褐色的砖石，显得有些丑陋。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "alignment_id": "chapter_0029:align_0018",
+      "chapter_id": "chapter_0029",
+      "segment_ids": [
+        "chapter_0029:seg_0032",
+        "chapter_0029:seg_0033"
+      ],
+      "source": "后勤仓库是一座灰扑扑的小楼，不少地方的外皮都剥落了，露出了黄褐色的砖石，显得有些丑陋。\n\n看似不大，里面却是内有乾坤，在七弯八绕，穿过大堆的后勤用品之后，出现在李耀眼前的，赫然是一处标准灵能球场大小的修炼场。",
+      "source_hash": "6c18f9bf6acb77071ebffa067a69e1eb59dd599e58e528ebfca196c82fd36267",
+      "target": "Trông thì không lớn, nhưng bên trong lại có càn khôn riêng. Sau khi đi quanh co khúc khuỷu xuyên qua đống lớn đồ dùng hậu cần, hiện ra trước mắt Lý Diệu là một bãi luyện tập có kích thước bằng một sân bóng linh năng tiêu chuẩn.",
+      "narrative_type": "narration",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0054",
-      "source": "看似不大，里面却是内有乾坤，在七弯八绕，穿过大堆的后勤用品之后，出现在李耀眼前的，赫然是一处标准灵能球场大小的修炼场。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "alignment_id": "chapter_0029:align_0019",
+      "chapter_id": "chapter_0029",
+      "segment_ids": [
+        "chapter_0029:seg_0034",
+        "chapter_0029:seg_0035"
+      ],
+      "source": "哑铃、杠铃、蝴蝶机、深蹲机、力量测试机、水晶冻胶泥人形拳靶……各种修炼器械一应俱全。\n\n不过绝大多数都是几十年前的型号，傻大粗黑，锈迹斑斑，隐隐透露出一股粗犷彪悍的气息。",
+      "source_hash": "2d1a025ebb11eb5bbd068c736d948a9e4d52bc4b0de638e8cbe5df02c743061f",
+      "target": "Tạ tay, tạ đòn, máy tập ngực cánh bướm, máy gánh đùi, máy đo lực, bia đấm hình người bằng bùn thạch anh đông lạnh... các loại thiết bị tập luyện đều có đủ cả.",
+      "narrative_type": "narration",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0055",
-      "source": "哑铃、杠铃、蝴蝶机、深蹲机、力量测试机、水晶冻胶泥人形拳靶…",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0056",
-      "source": "…",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0057",
-      "source": "各种修炼器械一应俱全。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0058",
-      "source": "不过绝大多数都是几十年前的型号，傻大粗黑，锈迹斑斑，隐隐透露出一股粗犷彪悍的气息。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0059",
-      "source": "所有修炼器械上都落满灰尘，似乎很久没人使用。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0060",
-      "source": "走到修炼场中央，孙彪转身，忽然做了一件让李耀怎么猜都猜不到的事情。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0061",
-      "source": "这个一百五十多岁，曾经发掘出“妖刀彭海”，德高望重的退休老教师，竟然对着李耀深深鞠了一躬，声音一下子变得无比严肃：“首先，李耀同学，请接受我的道歉。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0062",
-      "source": "”",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "alignment_id": "chapter_0029:align_0020",
+      "chapter_id": "chapter_0029",
+      "segment_ids": [
+        "chapter_0029:seg_0036",
+        "chapter_0029:seg_0037",
+        "chapter_0029:seg_0038"
+      ],
+      "source": "所有修炼器械上都落满灰尘，似乎很久没人使用。\n\n走到修炼场中央，孙彪转身，忽然做了一件让李耀怎么猜都猜不到的事情。\n\n这个一百五十多岁，曾经发掘出“妖刀彭海”，德高望重的退休老教师，竟然对着李耀深深鞠了一躬，声音一下子变得无比严肃：“首先，李耀同学，请接受我的道歉。”",
+      "source_hash": "e56cd950f18100b98abfc8d66ce51cfaa039bb61635c9a900107a83e1e884fec",
+      "target": "Nhưng phần lớn đều là các đời từ mấy chục năm trước, thô kệch xám xịt và rỉ sét loang lổ, mơ hồ tỏa ra một luồng khí thế thô ráp hung hãn. Tất cả các thiết bị tập luyện đều phủ đầy bụi bặm, có vẻ như đã lâu không có ai sử dụng.",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     }
   ],
   "term_occurrences": [
     {
-      "source_term": "妖刀",
-      "target_term": "Yêu Đao",
-      "seg_id": "seg_0001",
-      "is_locked": false,
-      "present_in_target": true,
-      "category": "general"
-    },
-    {
-      "source_term": "彭海",
-      "target_term": "Bành Hải",
-      "seg_id": "seg_0004",
-      "is_locked": false,
-      "present_in_target": true,
-      "category": "character"
-    },
-    {
-      "source_term": "孙彪",
-      "target_term": "Tôn Bưu",
-      "seg_id": "seg_0004",
-      "is_locked": false,
-      "present_in_target": true,
-      "category": "character"
-    },
-    {
-      "source_term": "孙老",
-      "target_term": "Tôn lão",
-      "seg_id": "seg_0010",
-      "is_locked": false,
-      "present_in_target": true,
-      "category": "character"
-    },
-    {
+      "chapter_id": "chapter_0029",
       "source_term": "灵根",
       "target_term": "Linh căn",
-      "seg_id": "seg_0025",
-      "is_locked": false,
+      "segment_id": "chapter_0029:seg_0015",
       "present_in_target": false,
-      "category": "general"
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
     },
     {
+      "chapter_id": "chapter_0029",
       "source_term": "灵根开发度",
       "target_term": "độ khai phát linh căn",
-      "seg_id": "seg_0025",
-      "is_locked": false,
+      "segment_id": "chapter_0029:seg_0015",
       "present_in_target": true,
-      "category": "general"
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
     },
     {
+      "chapter_id": "chapter_0029",
+      "source_term": "彭海",
+      "target_term": "Bành Hải",
+      "segment_id": "chapter_0029:seg_0002",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0029",
+      "source_term": "妖刀",
+      "target_term": "Yêu Đao",
+      "segment_id": "chapter_0029:seg_0001",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0029",
       "source_term": "赵亮",
       "target_term": "Triệu Lượng",
-      "seg_id": "seg_0025",
-      "is_locked": false,
+      "segment_id": "chapter_0029:seg_0015",
       "present_in_target": true,
-      "category": "character"
+      "is_locked": false,
+      "category": "character",
+      "confidence": 1.0
     },
     {
+      "chapter_id": "chapter_0029",
       "source_term": "灵蛇步法",
       "target_term": "Linh Xà Bộ Pháp",
-      "seg_id": "seg_0043",
-      "is_locked": false,
+      "segment_id": "chapter_0029:seg_0024",
       "present_in_target": true,
-      "category": "technique"
+      "is_locked": false,
+      "category": "technique",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0029",
+      "source_term": "孙彪",
+      "target_term": "Tôn Bưu",
+      "segment_id": "chapter_0029:seg_0002",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0029",
+      "source_term": "孙老",
+      "target_term": "Tôn lão",
+      "segment_id": "chapter_0029:seg_0006",
+      "present_in_target": false,
+      "is_locked": false,
+      "category": "character",
+      "confidence": 1.0
     }
   ],
   "entity_mentions": [
     {
+      "chapter_id": "chapter_0029",
       "source_surface": "李耀",
       "target_surface": "Lý Diệu",
       "entity_type": "person",
-      "seg_id": "seg_0003",
+      "segment_id": "chapter_0029:seg_0002",
       "confidence": 1.0
     },
     {
+      "chapter_id": "chapter_0029",
       "source_surface": "彭海",
       "target_surface": "Bành Hải",
       "entity_type": "person",
-      "seg_id": "seg_0004",
+      "segment_id": "chapter_0029:seg_0002",
       "confidence": 1.0
     },
     {
-      "source_surface": "孙彪",
-      "target_surface": "Tôn Bưu",
-      "entity_type": "person",
-      "seg_id": "seg_0004",
-      "confidence": 1.0
-    },
-    {
+      "chapter_id": "chapter_0029",
       "source_surface": "孟江",
       "target_surface": "Mạnh Giang",
       "entity_type": "person",
-      "seg_id": "seg_0007",
+      "segment_id": "chapter_0029:seg_0002",
       "confidence": 1.0
     },
     {
+      "chapter_id": "chapter_0029",
       "source_surface": "赵亮",
       "target_surface": "Triệu Lượng",
       "entity_type": "person",
-      "seg_id": "seg_0025",
+      "segment_id": "chapter_0029:seg_0015",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0029",
+      "source_surface": "孙彪",
+      "target_surface": "Tôn Bưu",
+      "entity_type": "person",
+      "segment_id": "chapter_0029:seg_0002",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0029",
+      "source_surface": "灵蛇步法",
+      "target_surface": "Linh Xà Bộ Pháp",
+      "entity_type": "techniques",
+      "segment_id": "chapter_0029:seg_0024",
       "confidence": 1.0
     }
   ],
+  "name_analysis": {
+    "status": "ok",
+    "evidence_count": 5,
+    "name_mentions": [
+      {
+        "chapter_id": "chapter_0029",
+        "name_source": "李耀",
+        "name_target": "Lý Diệu",
+        "segment_id": "chapter_0029:seg_0002",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0029",
+        "name_source": "彭海",
+        "name_target": "Bành Hải",
+        "segment_id": "chapter_0029:seg_0002",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0029",
+        "name_source": "孟江",
+        "name_target": "Mạnh Giang",
+        "segment_id": "chapter_0029:seg_0002",
+        "present_in_target": false,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0029",
+        "name_source": "赵亮",
+        "name_target": "Triệu Lượng",
+        "segment_id": "chapter_0029:seg_0015",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0029",
+        "name_source": "孙彪",
+        "name_target": "Tôn Bưu",
+        "segment_id": "chapter_0029:seg_0002",
+        "present_in_target": true,
+        "confidence": 1.0
+      }
+    ],
+    "name_entries": [
+      {
+        "name_source": "李耀",
+        "name_target": "Lý Diệu"
+      },
+      {
+        "name_source": "彭海",
+        "name_target": "Bành Hải"
+      },
+      {
+        "name_source": "孟江",
+        "name_target": "Mạnh Giang"
+      },
+      {
+        "name_source": "赵亮",
+        "name_target": "Triệu Lượng"
+      },
+      {
+        "name_source": "孙彪",
+        "name_target": "Tôn Bưu"
+      }
+    ],
+    "transliteration_units": [],
+    "inferred_name_rules": [],
+    "ambiguity_cases": [],
+    "reusable_name_profile": {
+      "mapping_count": 5,
+      "has_ambiguity": false
+    }
+  },
   "phrase_patterns": [],
   "grammar_rule_candidates": [],
+  "analyzer_reports": {
+    "term_occurrences": {
+      "status": "ok",
+      "evidence_count": 8
+    },
+    "entity_mentions": {
+      "status": "ok",
+      "evidence_count": 6
+    },
+    "name_mentions": {
+      "status": "ok",
+      "evidence_count": 5
+    },
+    "phrase_patterns": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    },
+    "grammar_rule_candidates": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    }
+  },
+  "review_queue": [
+    {
+      "chapter_id": "chapter_0029",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "步法",
+        "entity_type": "person",
+        "count": 3,
+        "confidence": 0.7,
+        "evidence": [
+          "咬牙，干脆施展《灵蛇步法》，一路小跑起来。\n",
+          "\n\n“是极高明的武技步法，还是缩地成寸之类的",
+          "\n他明明施展出《灵蛇步法》极速狂飙，可是跑了"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0029",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "双手",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "说着，他一转身，背着双手，向仓库走去。\n\n李",
+          "来。\n\n孙彪依旧背负双手，步履蹒跚。\n\n可是"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0029",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "应过来",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.82,
+        "evidence": [
+          "地方不对，这会儿才反应过来。\n\n“拼不过就跑，",
+          "得目瞪口呆，半天才反应过来，不由争辩：“当时情"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0029",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "皮发麻",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.82,
+        "evidence": [
+          "的小牛肉，直到李耀头皮发麻，脊背发凉，老头才慢",
+          "神幻术攻击？”李耀头皮发麻，终于认识到孙彪的深"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0029",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "能吹倒",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.82,
+        "evidence": [
+          "息急促，简直一阵风都能吹倒。\n\n李耀记得，开学",
+          "着小碎步，一个喷嚏就能吹倒，可速度一点都不慢，"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0029",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "高手",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "技老师，是非常厉害的高手，而且眼光很毒，\\*",
+          "两声：“身为一名打架高手，当然是一天二十四个"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0029",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "可是才走了一分钟就看到仓库大门",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "仓库有大约一千多米，可是才走了一分钟就看到仓库大门。\n\n后勤仓库是一座"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0029",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "奠定胜局",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "粉，一招就抢占先机，奠定胜局。\n\n否则以赵亮60"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0029",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "妖刀彭海",
+        "entity_type": "location",
+        "count": 4,
+        "confidence": 0.78,
+        "evidence": [
+          "他在贫民窟一眼看出‘妖刀彭海’的不凡之处，把彭海"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0029",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0029:align_0002",
+        "segment_ids": [
+          "chapter_0029:seg_0002",
+          "chapter_0029:seg_0003",
+          "chapter_0029:seg_0004",
+          "chapter_0029:seg_0005"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0029",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0029:align_0004",
+        "segment_ids": [
+          "chapter_0029:seg_0007",
+          "chapter_0029:seg_0008"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0029",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0029:align_0005",
+        "segment_ids": [
+          "chapter_0029:seg_0009",
+          "chapter_0029:seg_0010"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0029",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0029:align_0006",
+        "segment_ids": [
+          "chapter_0029:seg_0011",
+          "chapter_0029:seg_0012"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0029",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0029:align_0007",
+        "segment_ids": [
+          "chapter_0029:seg_0013",
+          "chapter_0029:seg_0014"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0029",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0029:align_0008",
+        "segment_ids": [
+          "chapter_0029:seg_0015",
+          "chapter_0029:seg_0016"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0029",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0029:align_0012",
+        "segment_ids": [
+          "chapter_0029:seg_0020",
+          "chapter_0029:seg_0021"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0029",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0029:align_0013",
+        "segment_ids": [
+          "chapter_0029:seg_0022",
+          "chapter_0029:seg_0023"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0029",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0029:align_0014",
+        "segment_ids": [
+          "chapter_0029:seg_0024",
+          "chapter_0029:seg_0025"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0029",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0029:align_0015",
+        "segment_ids": [
+          "chapter_0029:seg_0026",
+          "chapter_0029:seg_0027",
+          "chapter_0029:seg_0028"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0029",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0029:align_0016",
+        "segment_ids": [
+          "chapter_0029:seg_0029",
+          "chapter_0029:seg_0030"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0029",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0029:align_0018",
+        "segment_ids": [
+          "chapter_0029:seg_0032",
+          "chapter_0029:seg_0033"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0029",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0029:align_0019",
+        "segment_ids": [
+          "chapter_0029:seg_0034",
+          "chapter_0029:seg_0035"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0029",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0029:align_0020",
+        "segment_ids": [
+          "chapter_0029:seg_0036",
+          "chapter_0029:seg_0037",
+          "chapter_0029:seg_0038"
+        ]
+      }
+    }
+  ],
   "quality_audit": {
     "segment_coverage": 1.0,
+    "source_hash_match": true,
+    "target_reconstruction_match": true,
+    "invalid_ref_count": 0,
     "locked_term_hit_rate": 1.0,
+    "missing_locked_terms": [],
     "cjk_residue_count": 0,
-    "paragraph_drift_ratio": 0.5,
+    "paragraph_drift_ratio": 0.47368421052631576,
     "pronoun_consistency_score": 1.0,
     "warnings": []
   }

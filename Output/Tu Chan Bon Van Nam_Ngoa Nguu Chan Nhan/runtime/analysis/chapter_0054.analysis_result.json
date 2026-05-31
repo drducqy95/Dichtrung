@@ -1,0 +1,1211 @@
+{
+  "schema_version": "2.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 54,
+  "chapter_id": "chapter_0054",
+  "source_manifest_hash": "fede7cc2d0b2fa365777b848dafc1d5459554d52745f78cd5a16ab9e70d5c8a2",
+  "aligned_segments": [
+    {
+      "alignment_id": "chapter_0054:align_0001",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0001"
+      ],
+      "source": "# 54.第54章 三件大杀器",
+      "source_hash": "fd0e9810e67a7e96d99f56aaf2a9df0c32ac34ff14ae186e48f3cdd26f2a1dad",
+      "target": "# Chương 0054 - Ba món đại sát khí",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0002",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0002"
+      ],
+      "source": "补给点就是林间的一片空地，周围设置了一圈攻击符阵，一旦妖兽进入，会被符阵毫不留情地击杀，久而久之，妖兽也不会来自寻死路。",
+      "source_hash": "a49c993529891f68bbf99f3723e39207f193cd0935a590f868f9d9a03379cffb",
+      "target": "Điểm tiếp tế chỉ là một khoảng đất trống giữa rừng rậm, xung quanh được thiết lập một vòng phù trận tấn công. Một khi yêu thú xông vào sẽ bị phù trận đánh sát không thương tiếc, lâu dần loài yêu thú cũng không dám tới đây tự tìm đường chết nữa.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0003",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0003"
+      ],
+      "source": "补给点中堆放了少量清水和食物，除此之外，就是几十个军绿色武器箱。",
+      "source_hash": "34f9d67ed6c22438cf813ca2d7165779808541eae7e3ec1e6f038c7106a7eb3c",
+      "target": "Bên trong điểm tiếp tế có chất đống một lượng nhỏ nước sạch và thức ăn, ngoài ra chính là mấy chục chiếc hòm vũ khí màu xanh lục quân đội.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0004",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0004"
+      ],
+      "source": "李耀扫视一圈，首先打开一个武器箱，取出一套丛林迷彩战斗服穿上。",
+      "source_hash": "74a329568db7ce8b20839476853f32bf5339e9a12678b742b3f562077b5b8ad6",
+      "target": "Lý Diệu đảo mắt quét nhìn một vòng, trước tiên mở ra một hòm vũ khí, lấy một bộ chiến phục ngụy trang rừng rậm mặc vào.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0005",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0005"
+      ],
+      "source": "至于战斗靴，他没有考虑，因为丛林中环境太过复杂，穿着靴子不方便进攻，还是光脚灵活。",
+      "source_hash": "4cd9c00c00f15e6cd4b3c3b4d9fc7eeac06af1a6eed6d218c227cf0a6c801da6",
+      "target": "Còn về giày chiến đấu, cậu không hề suy tính đến. Bởi lẽ môi trường trong rừng rậm quá mức phức tạp, đi giày vào không thuận tiện cho việc tấn công, cứ đi chân trần vẫn linh hoạt hơn.",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0006",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0006"
+      ],
+      "source": "又打开第二个箱子，里面是几十把寒光闪闪的合金战刀。",
+      "source_hash": "b134786f4abfb2a4376e490b9e5b4f5c72ddfdbdf3763d47799827a4c1bb8813",
+      "target": "Cậu tiếp tục mở chiếc hòm thứ hai, bên trong chứa mấy chục thanh chiến đao bằng hợp kim sáng loáng sắc bén.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0007",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0007"
+      ],
+      "source": "李耀却像是面对一堆垃圾，一脚踢开，不屑一顾。",
+      "source_hash": "87b983fb8d98da6fe98f0a315d40ef3f7b133e589f7984e079de04587c9d277a",
+      "target": "Nhưng Lý Diệu lại coi chúng như một đống rác rưởi, đá văng ra một bên mà không thèm đoái hoài.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0008",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0008"
+      ],
+      "source": "陆续打开第三，第四个箱子，里面满满当当，装的都是法宝构件。",
+      "source_hash": "6a5268305cd7c88d92a2aa6303f01d8da8e3c114b2f523764dae21c4231e355d",
+      "target": "Lần lượt mở chiếc hòm thứ ba và thứ tư, bên trong chứa đầy ắp các linh kiện pháp bảo.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0009",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0009"
+      ],
+      "source": "李耀看了一下，发现除了一个箱子里装的是急救药品之外，其余箱子里都是法宝构件。",
+      "source_hash": "3eed5b68dfeb0a9878d7aa59ffbe817437060ccdbb89841a11451e9a91431917",
+      "target": "Lý Diệu xem xét qua một lượt, nhận ra ngoại trừ một chiếc hòm chứa dược phẩm cấp cứu, tất cả các hòm còn lại đều là linh kiện pháp bảo.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0010",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0010"
+      ],
+      "source": "他干脆把所有箱子打开，把零件倾倒出来，堆成一座小山。",
+      "source_hash": "bd69fc86dd7468c0074fd7e533b0ff43cfcd8a6c556a9111744609039ebe6302",
+      "target": "Cậu dứt khoát mở toang toàn bộ các hòm vũ khí, trút sạch linh kiện bên trong ra ngoài, chất thành một ngọn núi nhỏ.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0011",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0011"
+      ],
+      "source": "“他要干什么？”",
+      "source_hash": "a1db6d1bb8d2b8e6919a792f3dec347ceeb4070bbae74d6fbeee2832c1888f8c",
+      "target": "“Cậu ta muốn làm gì?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0012",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0012"
+      ],
+      "source": "监控中心，修真者们交头接耳。",
+      "source_hash": "72127937acd10a934ec5706229753df11bd52396fae539660852992547220ad0",
+      "target": "Tại trung tâm giám sát, các tu chân giả xì xào bàn tán.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0013",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0013"
+      ],
+      "source": "补给点的这些法宝构件，是用来给选手自行组装法宝的，考验的是选手对法宝结构的熟悉程度和动手能力。",
+      "source_hash": "55a75704ab63a44a33370edcade1b3588588bd25bb1613727dbb022cea19d4bc",
+      "target": "Những linh kiện pháp bảo tại điểm tiếp tế này là để cho các thí sinh tự mình lắp ráp pháp bảo, nhằm khảo nghiệm mức độ thông thạo cấu trúc pháp bảo cũng như năng lực thực hành của họ.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0014",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0014"
+      ],
+      "source": "不过一般人最多也就是打开一两个武器箱，取出配套的构件，组装出一两件法宝就够了。",
+      "source_hash": "bfe5595b3025a806f4e787f71328bb3a708645602a178d66f9919607830ed314",
+      "target": "Thế nhưng bình thường đa số mọi người chỉ mở một hai hòm vũ khí, lấy ra những linh kiện đồng bộ để lắp ráp một hai món pháp bảo là đủ.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0015",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0015"
+      ],
+      "source": "“这个小家伙把所有法宝构件都混在一起，他能分辨清楚吗？虽然都是最低级的法宝，可是所有构件加在一起，也有几千种，想要从里面找到配套的构件，难，难，太难了！”",
+      "source_hash": "cbabcd689df1e0df1f2684a27207721c933cdd55335091091d13b6d29eb78be4",
+      "target": "“Cậu nhóc này gom tất cả linh kiện pháp bảo trộn lẫn vào nhau, liệu có phân biệt nổi không đây? Tuy đều là pháp bảo cấp thấp nhất, nhưng tổng cộng tất cả các linh kiện lại cũng có tới vài ngàn loại. Muốn từ trong đó tìm ra những linh kiện đồng bộ, khó, khó, thực sự quá khó!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0016",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0016"
+      ],
+      "source": "一名高级军官不以为然地摇了摇头。",
+      "source_hash": "7199895e39e7b0d46cf7ae03d3766b7fd611d5e41c5ee7e3ee7b289596fb0dc8",
+      "target": "Một vị sĩ quan quân đội cấp cao lắc đầu tỏ ý không tán đồng.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0017",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0017"
+      ],
+      "source": "在军中，也很流行“组法宝”比赛，要求士兵在最短时间内将法宝组装完成。",
+      "source_hash": "e54a1b45d83bda6dc36fb28771e1a3de90ce5d9b0b9b6f9d419d9b961ad34753",
+      "target": "Trong quân đội cũng rất thịnh hành cuộc thi “lắp ráp pháp bảo”, yêu cầu binh sĩ phải hoàn thành lắp ráp pháp bảo trong thời gian ngắn nhất.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0018",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0018"
+      ],
+      "source": "有些高手甚至能蒙住双眼，完成低级法宝的组装。",
+      "source_hash": "80adff18fed0175122a744100dff8d7f0d60572df5a3af9904c7423c9feb9719",
+      "target": "Có những cao thủ thậm chí có thể bịt mắt để hoàn thành việc lắp ráp pháp bảo cấp thấp.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0019",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0019"
+      ],
+      "source": "可这种比赛，采用的都是同一种法宝的构件，谁也不会把好几十件不同法宝的构件混在一起，这怎么分辨得出来？",
+      "source_hash": "4aec7236bf3c7e3c6a504affcc1ce7c5f335bf0b116b1a89b5d1ce5dba3464c7",
+      "target": "Nhưng cuộc thi kiểu đó sử dụng linh kiện của cùng một loại pháp bảo, chứ không ai lại đem trộn lẫn linh kiện của mấy chục món pháp bảo khác nhau lại với nhau cả, làm sao mà phân biệt nổi?",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0020",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0020"
+      ],
+      "source": "尽管李耀的积分排名越来越低，可是修真者们对他的兴趣，却是越来越浓烈的。",
+      "source_hash": "2977c81fb20080431fdd3717c8f90ad8ad631a029dc39ba5e4bfb946974fa2c6",
+      "target": "Mặc dù thứ hạng điểm tích lũy của Lý Diệu ngày càng thụt lùi, nhưng sự hứng thú của các tu chân giả dành cho cậu lại ngày càng trở nên nồng nhiệt.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0021",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0021"
+      ],
+      "source": "李耀并不知道在头顶的辽远号中，有那么多修真者正在注视着他的表演。",
+      "source_hash": "02780be5514e34af4d8f70ebc488ebd8b3824003325d963594f4ffbb786ec878",
+      "target": "Lý Diệu hoàn toàn không biết rằng trên tàu Liêu Viễn Hào lơ lửng trên đầu, đang có rất nhiều tu chân giả dõi mắt theo màn trình diễn của cậu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0022",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0022"
+      ],
+      "source": "他还是不紧不慢，按照自己的节奏比赛。",
+      "source_hash": "7b9d6f6a2befb88968f9ad5ac201e17497272fa044c642487aaf3f8af920f940",
+      "target": "Cậu vẫn ung dung nhàn nhã, thi đấu theo đúng tiết tấu của riêng mình.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0023",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0023"
+      ],
+      "source": "他首先从零件堆中找出了一个晶元匣，又挑选了几种法宝的零件缠绕在晶元匣上，做出了一个十分丑陋又古怪的小装置。",
+      "source_hash": "562a3ba572380794a120f82d3530545a9aec89e6b18d0cd8b4dc172557b42b14",
+      "target": "Trước hết cậu tìm ra một hộp tinh nguyên từ đống linh kiện, sau đó lựa chọn thêm vài loại linh kiện pháp bảo quấn quanh hộp tinh nguyên đó, chế tạo ra một thiết bị nhỏ trông vô cùng kỳ quái và xấu xí.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0024",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0024"
+      ],
+      "source": "完成之后，又取出大约二十个晶元匣，如法炮制，最后串联起来。",
+      "source_hash": "9b0a349e781074d11d1d4c177c20f2d1bb13b3361e7eb6bc9eb333167e599db3",
+      "target": "Sau khi hoàn thành, cậu lại lấy ra khoảng hai mươi hộp tinh nguyên khác làm tương tự, cuối cùng nối liền chúng lại với nhau.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0025",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0025"
+      ],
+      "source": "“这是什么？”",
+      "source_hash": "50c26020476e12a961ed4e1557009e780fb7de7b35229993e9a60803968f770d",
+      "target": "“Đây là cái gì?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0026",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0026"
+      ],
+      "source": "监控中心里，修真者们大惑不解，所有人的目光都投向了炼器专家谢听弦。",
+      "source_hash": "1db77007096418134d0466a030b5598f13cf49e5e779c1ec634f3019012208c3",
+      "target": "Trong phòng giám sát, các tu chân giả vô cùng khó hiểu, ánh mắt của mọi người đều đổ dồn về phía chuyên gia luyện khí Tạ Thính Huyền.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0027",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0027"
+      ],
+      "source": "谢听弦若有所思，道：“晶元匣是低阶法宝的核心，负责为法宝提供灵能来源，但是这名挑战者利用晶元匣制作而成的，却并不是任何一种制式法宝，只能说是一种略带法宝功能的装置吧。”",
+      "source_hash": "e9dc694569b7287663b813c61237c7747707aae6dbb70f78f8085d87887442fc",
+      "target": "Tạ Thính Huyền có chút đăm chiêu, lên tiếng: “Hộp tinh nguyên là cốt lõi của pháp bảo cấp thấp, chịu trách nhiệm cung cấp nguồn linh năng cho pháp bảo. Thế nhưng thiết bị mà thí sinh này chế tạo bằng hộp tinh nguyên lại không thuộc bất kỳ loại pháp bảo tiêu chuẩn nào, chỉ có thể nói là một thiết bị mang chút công năng của pháp bảo mà thôi.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0028",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0028"
+      ],
+      "source": "“谢教授，这种装置有什么用呢？”一名军官忍不住问道。",
+      "source_hash": "af7a14c91b8ba6d188e36505d0b27af5d3b9daf6588274c1e1bbbe2568fbb438",
+      "target": "“Giáo sư Tạ, thiết bị này dùng để làm gì vậy?” Một vị sĩ quan không kìm được tò mò hỏi.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0029",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0029"
+      ],
+      "source": "谢听弦沉吟片刻：“是一种爆炸装置，可以破坏晶元匣中的稳固符阵，令蕴含在晶元匣中的强大灵能在一瞬间爆裂开来，产生强大的爆炸力。”",
+      "source_hash": "b313c88f0b967e019caefdd8d8f2e7d18867e22fd36330ac2eb5f6fd1895d21e",
+      "target": "Tạ Thính Huyền ngẫm nghĩ một lát: “Đó là một thiết bị gây nổ. Nó có thể phá hủy phù trận ổn định bên trong hộp tinh nguyên, khiến nguồn linh năng hùng mạnh ẩn chứa trong đó phát nổ tung ra chỉ trong một tích tắc, tạo nên một sức công phá vô cùng lớn.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0030",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0030"
+      ],
+      "source": "“难道他是想制造上百枚炸弹，一路炸过去？”",
+      "source_hash": "7a5cb1c71e59cb22d5608915fa7e6d420f0e1a01fa0c22f65d4fa543c918ef83",
+      "target": "“Chẳng lẽ cậu ta định chế tạo hàng trăm quả bom rồi cứ thế ném bom mở đường đi qua sao?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0031",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0031"
+      ],
+      "source": "“也不对啊，他把二十多个晶元匣串联起来，体积那么大，根本无法携带，更别说丢出去炸妖兽，别把自己炸死就算好的！”",
+      "source_hash": "0a1febd286ce53849c54519a5b0fa7c2656ee65f059035219ea0e290aa3dec3a",
+      "target": "“Cũng không đúng, cậu ta nối liền hơn hai mươi hộp tinh nguyên lại với nhau như vậy, kích thước lớn như thế thì mang theo làm sao được, chứ đừng nói là ném đi nổ yêu thú, không tự nổ chết mình đã là may lắm rồi!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0032",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0032"
+      ],
+      "source": "军官皱起眉头，陷入了深深的思索。",
+      "source_hash": "1f1a6c8d72e8e5c8005833b5f7ac02707b4d29c70c68e4541b9ff20b3631e0b4",
+      "target": "Vị sĩ quan nhíu chặt lông mày, lâm vào trầm tư suy nghĩ.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0033",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0033"
+      ],
+      "source": "出人意料的是，在制作完成一大一小两个晶元炸弹之后，李耀突然改变了风格。",
+      "source_hash": "c2131536dda7d0aceed20f3db2e02fef97917ec01e82b41e690f989ef00b8f18",
+      "target": "Ngoài dự kiến của mọi người, sau khi hoàn thành hai quả bom tinh nguyên một lớn một nhỏ, Lý Diệu đột ngột thay đổi phong cách hành động.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0034",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0034"
+      ],
+      "source": "他的手速在一瞬间骤然加快，双手化作两道虚影，从零件堆中飞快选出了数百种构件。",
+      "source_hash": "509dca0966108554694d51a4f844548ff72c1f344b35941330213ad761a3d736",
+      "target": "Tốc độ tay của cậu bỗng chốc tăng vọt chỉ trong nháy mắt, hai bàn tay hóa thành hai vệt tàn ảnh, nhanh chóng lựa chọn hàng trăm loại linh kiện từ đống phụ tùng.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0035",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0035"
+      ],
+      "source": "一阵劈啪作响的爆鸣声中，一柄剑刃带着锯齿的长剑飞快成形。",
+      "source_hash": "7d681a74f5dff499fe7c7ad0053c7b1de26f135e4d16b1135610d571a198173d",
+      "target": "Trong tràng tiếng lách cách nổ vang giòn giã, một thanh trường kiếm có lưỡi kiếm răng cưa nhanh chóng thành hình.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0036",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0036"
+      ],
+      "source": "“好快的手速！”",
+      "source_hash": "64bfa2dfe64d7e22c428a293dc72f13102ab0fd03d8f2b828ba47b001bf27700",
+      "target": "“Tốc độ tay thật kinh người!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0037",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0037"
+      ],
+      "source": "监控大厅中一片哗然。",
+      "source_hash": "25cc67cd964df7053340bf8ec4550cffab0aae0813e86fdd5f8fd0927523abf8",
+      "target": "Trong đại sảnh giám sát bùng lên một tràng xôn xao kinh ngạc.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0038",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0038"
+      ],
+      "source": "组装法宝是修真者的基本功，每一名修真者都略懂几分。",
+      "source_hash": "921c1d32e93b827478405b08637c536c67afcb7001cef9f6ece2675df3273f04",
+      "target": "Lắp ráp pháp bảo là kỹ năng cơ bản của tu chân giả, mỗi tu chân giả đều có hiểu biết đôi phần.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0039",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0039"
+      ],
+      "source": "不过到了他们这个级数，早已不用动手，直接用灵能操纵零件就行。",
+      "source_hash": "0b34933093849f2c4aaeecfe7b3c1cbbb0a760d85349790954ef82882727829b",
+      "target": "Tuy nhiên đạt đến cấp bậc như bọn họ thì đã không cần phải dùng tay nữa, trực tiếp dùng linh năng thao túng các linh kiện là được.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0040",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0040"
+      ],
+      "source": "而对于一名尚未觉醒灵根的普通少年来说，拥有如此快若鬼魅的手速，绝对经过长期艰苦卓绝的修炼！",
+      "source_hash": "17930d682411538e9d1bf8c8f5aba9c8b34acbc06392a2ab5d159c4b0e8443b6",
+      "target": "But đối với một thiếu niên bình thường chưa thức tỉnh linh căn mà nói, việc sở hữu tốc độ tay nhanh như quỷ mị thế này chắc chắn phải trải qua quá trình khổ luyện lâu dài cực kỳ gian khổ!",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0041",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0041"
+      ],
+      "source": "“基本功非常扎实！”",
+      "source_hash": "513ed7aa76208b6d69cd24f312fa1dc6c5daba8893054b3e443a6f3b67b8aade",
+      "target": "“Kỹ năng cơ bản cực kỳ vững vàng!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0042",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0042"
+      ],
+      "source": "谢听弦连连点头，隐隐觉得这次自己要捡到宝了。",
+      "source_hash": "037913e0ece5c8e625eb76d38c6c0f3bdaa6dc23e09603936b07eb8e2203fa85",
+      "target": "Tạ Thính Huyền liên tục gật đầu, thầm cảm thấy lần này mình sắp nhặt được bảo bối rồi.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0043",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0043"
+      ],
+      "source": "内行看门道，别的修真者只是觉得李耀手速快若鬼魅，只有他看出来，李耀在保持超高手速的同时，也保持住了双手的稳定，确保每一个构件组装的精准和稳固，甚至连呼吸都没有出现丝毫紊乱。",
+      "source_hash": "fe4f4b11a06329ff2aa71a7102f91fa4252bbf213ce0b70ae401bdb2bdc74e14",
+      "target": "Người ngoài cuộc xem náo nhiệt, người trong nghề nhìn bản lĩnh. Các tu chân giả khác chỉ cảm thấy tốc độ tay của Lý Diệu nhanh như chớp giật quỷ mị, chỉ riêng ông nhìn ra được Lý Diệu vừa duy trì tốc độ tay siêu cao, vừa giữ vững được sự ổn định của hai bàn tay, bảo đảm mỗi linh kiện được lắp ráp chính xác và chắc chắn, ngay cả nhịp thở cũng không hề rối loạn một chút nào.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0044",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0044"
+      ],
+      "source": "只是——",
+      "source_hash": "346e3952614e8a2e2fa48a0991743818a3210ef171e8c8acbbfdbc83dfac4f84",
+      "target": "Chỉ là ——",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0045",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0045"
+      ],
+      "source": "谢听弦眨了眨眼，他发现李耀组装时的次序似乎和这款军用大剑的标准组装流程有所不同。",
+      "source_hash": "d793a77c957316c68525e19831c86873045fceed580b150e3893e4779473dd45",
+      "target": "Tạ Thính Huyền chớp chớp mắt, ông phát hiện trình tự lắp ráp của Lý Diệu dường như có điểm khác biệt so với quy trình lắp ráp tiêu chuẩn của thanh trọng kiếm quân dụng này.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0046",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0046"
+      ],
+      "source": "一开始还以为是李耀忙中出错，片刻之后才发现是李耀改动了其中的结构，在最不引人注目的地方，添加了一些小小的“东西”。",
+      "source_hash": "ddd5e0afe69c2376d89cc81e3c43167042cb39eeb700c5b0b39845b073504bdb",
+      "target": "Ban đầu ông còn tưởng Lý Diệu luống cuống nên nhầm lẫn, nhưng một lúc sau mới phát hiện ra Lý Diệu đã thay đổi cấu trúc bên trong, lắp thêm vài “thứ” nho nhỏ ở những vị trí ít ai ngờ tới nhất.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0047",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0047"
+      ],
+      "source": "“有意思，真有点儿意思。”",
+      "source_hash": "71d6e7ae7f1ff801cb7e8e4f1f6c337217854eb953926d4f76fe42e7068833d1",
+      "target": "“Thú vị, thực sự có chút thú vị.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0048",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0048"
+      ],
+      "source": "谢听弦没想到李耀这个高中生，竟然能对已经定型的经典法宝构造进行改动。",
+      "source_hash": "3896b6bf16793dc01828a4dfb1bf7e1b82b3861835cc9cc2d8fea767e8da633e",
+      "target": "Tạ Thính Huyền không ngờ một học sinh trung học như Lý Diệu lại có thể cải tiến cấu trúc của một món pháp bảo kinh điển vốn đã được định hình vững chắc.",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0049",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0049"
+      ],
+      "source": "尽管还不知道这个小小的改动能起到什么效果，却已经让他连连点头，更加坚定了关注李耀的决心。",
+      "source_hash": "2ba92731b99c83414e7c18ba9d32f5880ba6d33f121c8470bcedcae9c8d4a1b5",
+      "target": "Dù chưa biết cải tiến nho nhỏ này mang lại hiệu quả gì, nhưng đã đủ khiến ông gật đầu liên tục, càng thêm kiên định quyết tâm dõi theo Lý Diệu.",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0050",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0050"
+      ],
+      "source": "不超过五分钟，李耀就完成了第一件法宝的组装。",
+      "source_hash": "2893d64dd26c88a3a441da56a681020cb4adc29e82ad1f532b51e8753af80d22",
+      "target": "Không quá năm phút, Lý Diệu đã hoàn thành việc lắp ráp món pháp bảo đầu tiên.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0051",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0051"
+      ],
+      "source": "这是一柄号称“虎鲨”的军用制式链锯剑！",
+      "source_hash": "f2a6ba5f423648d4d27700dbfa67a876ae799693a96e9652b93bda4da977f72e",
+      "target": "Đây là một thanh kiếm cưa xích tiêu chuẩn quân dụng mang tên “Hổ Sa”!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0052",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0052"
+      ],
+      "source": "超过一米五长的宽刃双手大剑，外侧围绕着一圈超合金钢炼制的锯齿，在晶元匣的驱动下，锯齿能够以超高速旋转，杀伤力惊人，合抱粗细的大树能一剑斩断，低阶妖兽的外壳和骨骼再坚韧都无济于事。",
+      "source_hash": "8caefde2c941180b6d61f58849b52dc3f16d61d1b998f170cb7008df6c95969b",
+      "target": "Thanh trọng kiếm hai tay lưỡi rộng dài hơn một mét năm, bên ngoài bao quanh bởi một vòng răng cưa chế tác từ thép siêu hợp kim. Dưới sự truyền động của hộp tinh nguyên, răng cưa có thể xoay tròn với tốc độ cực cao, lực sát thương vô cùng đáng sợ. Một thân cây lớn ôm không xuể cũng có thể bị chém đứt làm đôi trong một kiếm, lớp vỏ ngoài và xương cốt yêu thú cấp thấp có cứng rắn đến mấy cũng vô dụng.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0053",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0053"
+      ],
+      "source": "“四分三十九秒，这个速度已经超过不少军中老兵了。”刚才那名军官失声道。",
+      "source_hash": "dee4a460968fc30f0f7e74368820385a9db20b1638cb4fd84ab8e9cabf54b1d0",
+      "target": "“Bốn phút ba mươi chín giây, tốc độ này đã vượt qua không ít cựu binh trong quân đội rồi.” Viên sĩ quan ban nãy thất thanh hô lên.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0054",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0054"
+      ],
+      "source": "严格来说，这种法宝组装，只是将预先炼制好的法宝构件拼凑起来，算不上是真正的“炼器”。",
+      "source_hash": "37b74408abd68162da563d12227ec301dc6c2f12d722829e6d3db5d7fe0d78b6",
+      "target": "Nói một cách nghiêm túc, việc lắp ráp pháp bảo kiểu này chỉ là ghép nối những linh kiện pháp bảo đã được luyện chế sẵn lại với nhau, không được coi là “luyện khí” thực sự.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0055",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0055"
+      ],
+      "source": "不过以十八岁少年的标准来说，李耀的表演绝对称得上“神乎其技”！",
+      "source_hash": "e28178f3a62ba5b5e8b8026fb47d7c296acb3c8c89676db3a7a643136cb9fbce",
+      "target": "Tuy nhiên, xét theo tiêu chuẩn của một thiếu niên mười tám tuổi, màn trình diễn của Lý Diệu tuyệt đối xứng đáng với bốn chữ “thần hồ kỳ kỹ”!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0056",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0056"
+      ],
+      "source": "接下来……",
+      "source_hash": "ad1c01d7b1adf80928cc7797eda36b12fe66fb19184015b4f47aaa311bf0e066",
+      "target": "Tiếp theo……",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0057",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0057"
+      ],
+      "source": "李耀并没有像大多数修真者所想的那样，扛着虎鲨链锯剑出去大杀四方，而是将链锯剑放到了一边，又挑选出一大堆构件，开始第二件法宝的组装。",
+      "source_hash": "830a780552dd4cb6eee7c4e3099e3cb6e67dec400242e572ec3e8ae73f9f9973",
+      "target": "Lý Diệu không hề giống như đa số các tu chân giả suy đoán là sẽ vác thanh kiếm cưa xích Hổ Sa đi chém giết bốn phương, mà đặt thanh kiếm cưa xích sang một bên, tiếp tục lựa chọn một đống linh kiện lớn để bắt đầu lắp ráp món pháp bảo thứ hai.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0058",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0058"
+      ],
+      "source": "这次他选出的构件，和刚才完全不同，风格更加粗犷，凶残，狂暴，看似一柄战刀模样。",
+      "source_hash": "b7ad954c2d72c6f2b64ab8b5d5ff4420e1bbd456d2a19316d60168a3e9f19f72",
+      "target": "Lần này những linh kiện cậu lựa chọn hoàn toàn khác biệt với ban nãy, phong cách càng thêm thô ráp, hung tàn, cuồng bạo, trông giống như hình dáng của một thanh chiến đao.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0059",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0059"
+      ],
+      "source": "很快，一柄长度稍短，但更宽更厚，犹如狗腿的奇形战刀在李耀手中诞生。",
+      "source_hash": "1b9669b23b7cf1ac2507401675691f03f03aad6a63ec49a1226756176a41b94a",
+      "target": "Rất nhanh, một thanh chiến đao kỳ hình dị dạng có chiều dài hơi ngắn nhưng bản rộng và dày hơn, trông như hình dáng chân chó đã ra đời trong tay Lý Diệu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0060",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0060"
+      ],
+      "source": "“雷霆战刀？”那名军官失声叫道。",
+      "source_hash": "b9ad232b37c93cb37ad339184b52421d990c4cebaa48c1222682dac07b77c348",
+      "target": "“Lôi Đình Chiến Đao?” Viên sĩ quan buột miệng kêu lên.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0061",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0061"
+      ],
+      "source": "同样是最基础的低级法宝，雷霆战刀和链锯剑的设计思路完全不同，是依靠镌刻在刀背两侧的震荡符阵，产生超高频率的震荡波，带动刀刃做出每秒钟上万次的震荡，以此来增加攻击威力。",
+      "source_hash": "47050af083e638bee77387115ef095ed163deb18b6a4fb931080471582785deb",
+      "target": "Cũng là pháp bảo cấp thấp cơ bản nhất, nhưng tư tưởng thiết kế của Lôi Đình Chiến Đao và kiếm cưa xích hoàn toàn khác biệt. Nó dựa vào trận pháp chấn động khắc trên hai bên sống đao tạo ra sóng chấn động tần số siêu cao, thúc đẩy lưỡi đao chấn động hàng vạn lần mỗi giây để gia tăng uy lực tấn công.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0062",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0062"
+      ],
+      "source": "往往一刀下去，就能将妖兽的五脏六腑完全震碎，在低级法宝中，都算凶悍至极！",
+      "source_hash": "0d28b3ab0caa9c5b44f35a5e50f5fcdee0d5e0824176847eb746f92f6d78a6ba",
+      "target": "Thường thì chỉ cần một đao chém xuống là có thể chấn vỡ nát lục phủ ngũ tạng của yêu thú, trong hàng ngũ pháp bảo cấp thấp, đây được coi là món cực kỳ hung hãn!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0063",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0063"
+      ],
+      "source": "两种设计思路完全不同，甚至截然相反的法宝，在李耀手里却是驾轻就熟，仿佛他从一出生就开始接触这些法宝。",
+      "source_hash": "09cafcc58b5a953a23773d3a87ab3b7177bbc86ce494f66e2eb1db56a49b23a2",
+      "target": "Hai món pháp bảo có ý tưởng thiết kế hoàn toàn khác biệt, thậm chí là trái ngược nhau, nhưng trong tay Lý Diệu lại vô cùng thuần thục nhuần nhuyễn, cứ như thể cậu đã tiếp xúc với chúng từ thuở lọt lòng.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0064",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0064"
+      ],
+      "source": "“这小子，还真是个怪物！”那军官喃喃道。",
+      "source_hash": "8b56b415fb812da3442dc713ad2355e78f60eca0d94db1d5f306e174f65be6ca",
+      "target": "“Thằng nhóc này đúng là một con quái vật!” Viên sĩ quan lẩm bẩm.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0065",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0065"
+      ],
+      "source": "这还不是结束，组完第二件法宝之后，李耀又埋头到零件堆里，选出了第三批风格和前两次截然不同的零件。",
+      "source_hash": "d160d7b4feeeb30447d2c0c09b505ab2096fd0125e0bab3c00633a7771a0bcdf",
+      "target": "Mọi chuyện vẫn chưa dừng lại ở đó. Sau khi lắp xong món pháp bảo thứ hai, Lý Diệu lại vục đầu vào đống linh kiện, lựa chọn ra nhóm linh kiện thứ ba có phong cách hoàn toàn khác biệt so với hai lần trước.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0066",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0066"
+      ],
+      "source": "又是只用了五分钟时间，一柄势大力沉，一看就叫人头皮发麻的巨大战斧，在他掌中成形！",
+      "source_hash": "43119946c7e42961f635ea4bc6aaea8c23974851ddcf9d381a11a00e0bcbbb1e",
+      "target": "Cũng chỉ tốn vỏn vẹn năm phút đồng hồ, một chiếc chiến rìu khổng lồ nặng trịch, nhìn thôi cũng đủ khiến người ta da đầu tê dại đã thành hình trong tay cậu!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0067",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0067"
+      ],
+      "source": "李耀握紧斧把上的驱动符阵，轻轻一挥。",
+      "source_hash": "498b62ca13a61bdd4f549c848b512e876b44dcddb0ba0b545ce6229775192fa0",
+      "target": "Lý Diệu nắm chặt phù trận truyền động trên cán rìu, khẽ vung một cái.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0068",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0068"
+      ],
+      "source": "战斧表面镌刻的数道符阵顿时明亮起来，斧刃部位变成橘红色，仿佛烧红的烙铁！",
+      "source_hash": "b9b70c85785188bb89892d452accd42d65cdc5afb8fcc7ac437475687f8aee94",
+      "target": "Mấy đạo phù trận khắc trên bề mặt chiến rìu tức thì sáng bừng lên, phần lưỡi rìu hóa thành màu đỏ cam, giống như một khối sắt nung đỏ!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0069",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0069"
+      ],
+      "source": "这是一柄号称“焚天”的热能战斧，其作战原理和前两件法宝又有所不同。",
+      "source_hash": "9400588f2950725210201f0f19dbf7855ad49c2b6ee418e8185e44e90d001c80",
+      "target": "Đây là một chiếc rìu nhiệt năng mang tên “Phần Thiên”, nguyên lý chiến đấu của nó lại khác biệt so với hai món pháp bảo trước.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0070",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0070"
+      ],
+      "source": "晶元匣中涌出的强大灵能并不是转化成机械能，而是在符阵的激发下，直接变成超高温度的热流！",
+      "source_hash": "54d8814155f9e23b5ac98261e74951f15dd026ec4d1d0119fdcf0d963f9d90e6",
+      "target": "Nguồn linh năng hùng mạnh tuôn ra từ hộp tinh nguyên không chuyển hóa thành cơ năng, mà dưới sự kích hoạt của phù trận, trực tiếp chuyển hóa thành dòng nhiệt độ siêu cao!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0071",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0071"
+      ],
+      "source": "一斧子下去，妖兽的五脏六腑都能烧成焦炭！",
+      "source_hash": "3a7423dc7aada0c8a0a162a9c29cd9bc47693e702c29ffa45434de0e851e7364",
+      "target": "Chỉ cần bổ xuống một rìu, lục phủ ngũ tạng của yêu thú đều có thể bị thiêu rụi thành tro than!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0072",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0072"
+      ],
+      "source": "短短二十分钟，完成了三件风格迥异，设计思路大相径庭的低级法宝组装！",
+      "source_hash": "0b6a0d599283f970774b25743983e1f1d3d6734212526e9d7a728216c10bd9e1",
+      "target": "Chiến rìu nhiệt năng Phần Thiên đã được lắp ráp chỉ trong vòng hai mươi phút ngắn ngủi!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0073",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0073"
+      ],
+      "source": "李耀脸上无悲无喜，仿佛完成一件不值一提的小事，取过清水呷了一口，又倒了一些在手上，仔细揉搓，降温。",
+      "source_hash": "3d56ca3275308107e013c2a61019cae160e783086e4bc410339d413826377801",
+      "target": "Vẻ mặt Lý Diệu không vui không buồn, giống như vừa hoàn thành một việc nhỏ nhặt không đáng nhắc tới. Cậu uống một ngụm nước sạch, lại đổ một ít nước ra tay, xoa bóp cẩn thận để hạ nhiệt.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0074",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0074"
+      ],
+      "source": "众人这才发现，他的双手因为长时间超高速运动，已经火烧火燎，一片赤红！",
+      "source_hash": "d5dee5ade0cd22138ff68598be8159109b5df2513b4ce355b1aef0e718e65c5c",
+      "target": "Lúc này mọi người mới phát hiện ra, hai bàn tay của cậu do vận động với tốc độ siêu cao trong thời gian dài đã nóng rát như lửa đốt, đỏ ửng một mảng!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0075",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0075"
+      ],
+      "source": "==========================",
+      "source_hash": "437fd2fa887752deabd09224c0515bc3656f695058167b65bdf09e623f72e41c",
+      "target": "==========================",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0076",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0076"
+      ],
+      "source": "今天上三江了，感谢大家的支持啊，老牛真是无以为报！",
+      "source_hash": "d6a58b97ea56fa9dcdc23356563ec92b61c76d28f8dff0fb6435dc5090e0e66a",
+      "target": "Hôm nay truyện được lên đề cử Tam Giang rồi, cảm ơn sự ủng hộ của mọi người nhé, Lão Ngưu thật sự không biết báo đáp thế nào!",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0077",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0077"
+      ],
+      "source": "不过看到有朋友在书评区留言，说要给老牛三江票——那又是什么东西？听上去似乎很厉害的样子。",
+      "source_hash": "cf66041f2235ffce2aa050764ab9e7b1934ec239f3962c636582f2c2c9f8097b",
+      "target": "Tuy nhiên thấy có bạn để lại bình luận ở khu vực bình luận sách nói là muốn tặng phiếu Tam Giang cho Lão Ngưu —— đó rốt cuộc là cái gì thế? Nghe qua có vẻ rất lợi hại.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0078",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0078"
+      ],
+      "source": "总之，大家有什么三江票啊，推荐票啊什么的，多给老牛整点儿吧。",
+      "source_hash": "8edf0460f4a9520a2f76b1b2c084d984a4330c3ea344fcb50dac67b9e38a41da",
+      "target": "Tóm lại, mọi người có phiếu Tam Giang hay phiếu đề cử gì đó thì bỏ cho Lão Ngưu thêm chút đi.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0079",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0079"
+      ],
+      "source": "在科幻栏目里混，前有无限，后有舰娘，旁边有漫威虎视眈眈，老牛这种题材，写法又比较古老的，真心挺不容易。",
+      "source_hash": "75bc20644369f7d3f930507015eb2b966c9fb0096ce7fc739fc3608063a587db",
+      "target": "Lăn lộn trong chuyên mục Khoa Huyễn này, phía trước có Vô Hạn, phía sau có Hạm Nương, bên cạnh lại có Marvel nhìn chằm chằm đầy đe dọa, đề tài này của Lão Ngưu cộng thêm cách viết tương đối cổ điển nữa, thực sự là rất không dễ dàng.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0054:align_0080",
+      "chapter_id": "chapter_0054",
+      "segment_ids": [
+        "chapter_0054:seg_0080"
+      ],
+      "source": "今晚十二点再来一章，老牛拼了，大家随意！",
+      "source_hash": "d37e5fb9009f3b77093c666dfb9fdd83a654e8645ff832f1bd4e8c527f77e514",
+      "target": "Mười hai giờ đêm nay sẽ có thêm một chương nữa, Lão Ngưu liều mạng rồi, mọi người cứ tự nhiên nhé!",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    }
+  ],
+  "term_occurrences": [
+    {
+      "chapter_id": "chapter_0054",
+      "source_term": "灵根",
+      "target_term": "Linh căn",
+      "segment_id": "chapter_0054:seg_0040",
+      "present_in_target": false,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0054",
+      "source_term": "辽远号",
+      "target_term": "Liêu Viễn Hào",
+      "segment_id": "chapter_0054:seg_0021",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0054",
+      "source_term": "谢听弦",
+      "target_term": "Tạ Thính Huyền",
+      "segment_id": "chapter_0054:seg_0026",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "character",
+      "confidence": 1.0
+    }
+  ],
+  "entity_mentions": [
+    {
+      "chapter_id": "chapter_0054",
+      "source_surface": "李耀",
+      "target_surface": "Lý Diệu",
+      "entity_type": "person",
+      "segment_id": "chapter_0054:seg_0004",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0054",
+      "source_surface": "谢听弦",
+      "target_surface": "Tạ Thính Huyền",
+      "entity_type": "person",
+      "segment_id": "chapter_0054:seg_0026",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0054",
+      "source_surface": "辽远号",
+      "target_surface": "Liêu Viễn Hào",
+      "entity_type": "items",
+      "segment_id": "chapter_0054:seg_0021",
+      "confidence": 1.0
+    }
+  ],
+  "name_analysis": {
+    "status": "ok",
+    "evidence_count": 2,
+    "name_mentions": [
+      {
+        "chapter_id": "chapter_0054",
+        "name_source": "李耀",
+        "name_target": "Lý Diệu",
+        "segment_id": "chapter_0054:seg_0004",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0054",
+        "name_source": "谢听弦",
+        "name_target": "Tạ Thính Huyền",
+        "segment_id": "chapter_0054:seg_0026",
+        "present_in_target": true,
+        "confidence": 1.0
+      }
+    ],
+    "name_entries": [
+      {
+        "name_source": "李耀",
+        "name_target": "Lý Diệu"
+      },
+      {
+        "name_source": "谢听弦",
+        "name_target": "Tạ Thính Huyền"
+      }
+    ],
+    "transliteration_units": [],
+    "inferred_name_rules": [],
+    "ambiguity_cases": [],
+    "reusable_name_profile": {
+      "mapping_count": 2,
+      "has_ambiguity": false
+    }
+  },
+  "phrase_patterns": [],
+  "grammar_rule_candidates": [],
+  "analyzer_reports": {
+    "term_occurrences": {
+      "status": "ok",
+      "evidence_count": 3
+    },
+    "entity_mentions": {
+      "status": "ok",
+      "evidence_count": 3
+    },
+    "name_mentions": {
+      "status": "ok",
+      "evidence_count": 2
+    },
+    "phrase_patterns": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    },
+    "grammar_rule_candidates": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    }
+  },
+  "review_queue": [
+    {
+      "chapter_id": "chapter_0054",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "符阵",
+        "entity_type": "person",
+        "count": 4,
+        "confidence": 0.7,
+        "evidence": [
+          "，周围设置了一圈攻击符阵，一旦妖兽进入，会被",
+          "以破坏晶元匣中的稳固符阵，令蕴含在晶元匣中的",
+          "镌刻在刀背两侧的震荡符阵，产生超高频率的震荡"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0054",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "全不同",
+        "entity_type": "person",
+        "count": 3,
+        "confidence": 0.82,
+        "evidence": [
+          "选出的构件，和刚才完全不同，风格更加粗犷，凶残",
+          "和链锯剑的设计思路完全不同，是依靠镌刻在刀背两",
+          "！\n\n两种设计思路完全不同，甚至截然相反的法宝"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0054",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "武器箱",
+        "entity_type": "person",
+        "count": 3,
+        "confidence": 0.82,
+        "evidence": [
+          "外，就是几十个军绿色武器箱。\n\n李耀扫视一圈，",
+          "视一圈，首先打开一个武器箱，取出一套丛林迷彩战",
+          "最多也就是打开一两个武器箱，取出配套的构件，组"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0054",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "元匣",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "零件堆中找出了一个晶元匣，又挑选了几种法宝的",
+          "，又取出大约二十个晶元匣，如法炮制，最后串联"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0054",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "成形",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "刃带着锯齿的长剑飞快成形。\n\n“好快的手速！",
+          "的巨大战斧，在他掌中成形！\n\n李耀握紧斧把上"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0054",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "连点头",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.82,
+        "evidence": [
+          "扎实！”\n\n谢听弦连连点头，隐隐觉得这次自己要",
+          "么效果，却已经让他连连点头，更加坚定了关注李耀"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0054",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "堆成一座小山",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "开，把零件倾倒出来，堆成一座小山。\n\n“他要干什么？"
+        ]
+      }
+    }
+  ],
+  "quality_audit": {
+    "segment_coverage": 1.0,
+    "source_hash_match": true,
+    "target_reconstruction_match": true,
+    "invalid_ref_count": 0,
+    "locked_term_hit_rate": 1.0,
+    "missing_locked_terms": [],
+    "cjk_residue_count": 0,
+    "paragraph_drift_ratio": 0.0,
+    "pronoun_consistency_score": 1.0,
+    "warnings": []
+  }
+}

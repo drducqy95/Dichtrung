@@ -1,0 +1,1005 @@
+{
+  "schema_version": "2.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 60,
+  "chapter_id": "chapter_0060",
+  "source_manifest_hash": "1327369e39d68dc7b6edf44f00f06273ca84ac8f45a079994b194072a4b0ba2c",
+  "aligned_segments": [
+    {
+      "alignment_id": "chapter_0060:align_0001",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0001"
+      ],
+      "source": "# 60.第60章 疯狂的后门",
+      "source_hash": "a42decb4f2fecbfa65cd4934a896b5e2ebbdf68811659aae077e28b29bce263e",
+      "target": "# Chương 0060 - Cửa sau điên cuồng",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0002",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0002"
+      ],
+      "source": "此言一出，众皆哗然。",
+      "source_hash": "23c26aea26fd1f9592b22be44f3b874bfde109a4e53e0a1c0008c6b1581f6c4c",
+      "target": "Lời này vừa nói ra, tất cả mọi người đều xôn xao.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0003",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0003"
+      ],
+      "source": "一两秒钟的麻痹，还叫“没什么太大杀伤力”？",
+      "source_hash": "c9de1a51b5fd559a12030d63f4065185f5e51a1d2f9ee04b90a7f64093f1ed02",
+      "target": "Tê liệt trong vòng một hai giây mà còn gọi là “không có sức sát thương gì lớn” ư?",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0004",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0004"
+      ],
+      "source": "在修真界，一秒钟足够杀死敌人一百次了！",
+      "source_hash": "7c28e3a05fcb7b1398f1932d52a1cedbcbddcf1bbddac6f6dcde87d50a0c9098",
+      "target": "Trong giới tu chân, một giây đồng hồ đã đủ để giết chết kẻ địch một trăm lần rồi!",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0005",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0005"
+      ],
+      "source": "“他，他在所有法宝上，都进行了同样的改装？”一名修真者瞪大眼睛问道。",
+      "source_hash": "7211470181e4b8e2230fe024ec9d087bb10e2875c02b69eeb0fd693bb5488c46",
+      "target": "“Cậu ta... Cậu ta đã thực hiện cải tiến tương tự trên tất cả các pháp bảo sao?” Một vị tu chân giả trợn to hai mắt hỏi.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0006",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0006"
+      ],
+      "source": "“是的。”谢听弦淡淡一笑。",
+      "source_hash": "a39ca61984849aed61dcff192e88b07fc496c884d3e9592565da14a141f7b9be",
+      "target": "“Đúng vậy.” Tạ Thính Huyền nhàn nhạt cười.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0007",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0007"
+      ],
+      "source": "众多修真者回头看了一下巨大光幕，发现不分红队蓝队，几乎所有选手的近战法宝，都是李耀组装出来的，再仔细一想其中的后果，不约而同地打了个寒颤。",
+      "source_hash": "5799cc6fe731ccae0eaedc6e49ee7974c1525b408da320ecd9bdd30bdcbebc1c",
+      "target": "Đông đảo tu chân giả ngoảnh đầu nhìn lại màn hình lớn, phát hiện không phân biệt đội Đỏ hay đội Xanh, hầu hết pháp bảo cận chiến của các thí sinh đều là do Lý Diệu lắp ráp. Nghĩ kỹ lại hậu quả của việc này, họ không hẹn mà cùng rùng mình một cái.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0008",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0008"
+      ],
+      "source": "这小子，实在太卑鄙，太无耻，太可怕了！",
+      "source_hash": "02a810febfa2ae5ce482303d7744d5976dee725dadb7e9dcaec8a725bd16bce3",
+      "target": "Tên nhóc này quả thực quá đỗi đê tiện, quá đỗi vô sỉ, quá đỗi đáng sợ!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0009",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0009"
+      ],
+      "source": "“真是了不起啊，小小年纪，连炼器师圈子里的规矩‘开后门’都学会了！”",
+      "source_hash": "770ebdac25ab4442d9c1415b9b5278b871b84fe4b7ea017b6bcf8280a4a64d9e",
+      "target": "“Thật là giỏi giang nha, tuổi còn nhỏ mà ngay cả quy củ 'cài cửa sau' trong giới luyện khí sư cũng đã học được rồi!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0010",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0010"
+      ],
+      "source": "一名修真者喃喃自语，有意无意地扫了谢听弦一眼。",
+      "source_hash": "6abc561cc715bdd09b6bd7648c36910405e6a01e511a78db1c0580cde0fcc90a",
+      "target": "Một tu chân giả lẩm bẩm tự nói, có ý hoặc vô tình liếc mắt nhìn Tạ Thính Huyền một cái.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0011",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0011"
+      ],
+      "source": "在炼器师圈子里，有一个不成文的规矩，很多炼器师在帮客户炼制法宝时，习惯在法宝中留下一些十分微小的特殊结构，普通修真者根本看不出这些结构的奥妙，但是对炼器师本人而言，有了这些结构，就掌握了这些法宝的“命门”。",
+      "source_hash": "0f07b83beba87e85b974826150878cc7ee6d7700c5d4b72ebad511a9d98d6eea",
+      "target": "Trong giới luyện khí sư có một quy tắc ngầm, đó là khi giúp khách hàng chế tạo pháp bảo, rất nhiều luyện khí sư thường có thói quen để lại một số cấu trúc đặc biệt vô cùng nhỏ bé ở bên trong. Tu chân giả bình thường căn bản không thể nhìn ra sự huyền diệu của những cấu trúc này, nhưng đối với bản thân vị luyện khí sư kia thì một khi có các cấu trúc đó, họ đã nắm giữ được “mệnh môn” của món pháp bảo.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0012",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0012"
+      ],
+      "source": "一旦有需要，他们就能通过这些命门，掌控法宝！",
+      "source_hash": "0a1d40389bacf43d13ef77c719e135f6df1c7fbcf601a7cc03676e53eaa79133",
+      "target": "Một khi cần thiết, họ có thể thông qua những mệnh môn này để khống chế món pháp bảo đó!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0013",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0013"
+      ],
+      "source": "在圈子里，这种行为就叫“开后门”。",
+      "source_hash": "98ab9d3e33a467c88b64fe6f23ab2e21ee858d62c5fd0271754a3554d8bfb2bb",
+      "target": "Trong giới luyện, hành vi này được gọi là “cài cửa sau”.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0014",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0014"
+      ],
+      "source": "一开始，这是炼器师为了自保才使用的手段，这也是为了避免别人拿着他们炼制出来的法宝，反手一剑就把他们给灭口了。",
+      "source_hash": "19dba6a249aa133f3e5820289c57f84f61da1a2c63813e9cccbd46ed2328a566",
+      "target": "Ban đầu, đây là thủ đoạn được các luyện khí sư sử dụng để tự vệ, nhằm tránh trường hợp kẻ khác cầm lấy pháp bảo do chính họ chế tạo ra, rồi quay tay tặng cho họ một kiếm để diệt khẩu.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0015",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0015"
+      ],
+      "source": "毕竟，和战斗型修真者相比，炼器师的战斗力往往是比较羸弱的。",
+      "source_hash": "3a7d299e7230ecfd89deefd3534e3dfbf9f4d76b56989dc5c2bd22976078af3a",
+      "target": "Bối cảnh là so với các tu chân giả hệ chiến đấu, chiến lực của luyện khí sư thường tương đối yếu ớt.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0016",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0016"
+      ],
+      "source": "不过久而久之，这种行为蔚然成风，在资深炼器师圈子里几乎变成了公开的秘密，成为一种“潜规则”。",
+      "source_hash": "db980373da65e6f6c273b5787b7cb79f9b4f05ad2183709cc5f095089b2c096a",
+      "target": "Thế nhưng lâu dần, hành vi này đã trở thành một phong trào thịnh hành, trong giới luyện khí sư kỳ cựu gần như biến thành một bí mật công khai, trở thành một loại “luật ngầm”.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0017",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0017"
+      ],
+      "source": "要想避免在法宝上开后门，就只有一个办法——自己亲手炼制法宝！",
+      "source_hash": "74faf4c55a28b7f451893b67b8bd6ede99b58d0cac51fb1d47dc9040cec36351",
+      "target": "Muốn tránh việc bị cài cửa sau trên pháp bảo thì chỉ có một cách duy nhất —— tự mình thân hành chế tạo pháp bảo!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0018",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0018"
+      ],
+      "source": "不过今时不同往日，40000年前的古代修真界，各种法宝都十分简单，左右不过是些飞剑、飞刀、乾坤袋之类，翻天印就算是比较复杂的了，修真者当然可以自行炼制。",
+      "source_hash": "0d6d90c1aeca36423baf86479ea61119b4e97765ace466eea3642250bab793c6",
+      "target": "Nhưng nay đã khác xưa, bốn vạn năm trước ở giới tu chân cổ đại, các loại pháp bảo đều vô cùng đơn giản, quanh đi quẩn lại cũng chỉ là phi kiếm, phi đao, túi càn khôn các loại, Phiên Thiên Ấn đã được coi là tương đối phức tạp rồi, tu chân giả tự nhiên có thể tự mình chế tạo.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0019",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0019"
+      ],
+      "source": "但是随着时代的进步，社会大分工的不断细化，法宝的结构也越来越复杂，“炼器学”已经变成了一门错综复杂，玄妙深奥的学问，不花上几十年功夫，是很难有所成就的，而如果没有炼器天赋，更是事半功倍，花下无数时间和心血，都未必能领悟到炼器学的奥妙啊。",
+      "source_hash": "2223f42488d1750311f4b533967dd94fe6a19b6aaceaf1f69602d6159c6ee809",
+      "target": "Tuy nhiên, cùng với sự tiến bộ của thời đại và sự phân công lao động xã hội ngày càng tỉ mỉ, cấu trúc của pháp bảo cũng ngày một phức tạp. “Luyện khí học” đã trở thành một môn học vấn đan xen chằng chịt, huyền diệu thâm sâu. Nếu không bỏ ra công phu vài chục năm thì rất khó đạt được thành tựu gì, còn nếu như không có thiên phú luyện khí thì lại càng là nỗ lực nhiều mà thu hoạch chẳng được bao nhiêu, có bỏ ra vô số thời gian và tâm huyết cũng chưa chắc đã lĩnh ngộ được sự huyền diệu của luyện khí học.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0020",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0020"
+      ],
+      "source": "一般的战斗型修真者，既没有炼器天赋，更不可能花几十年时间去学习炼器——那还要不要战斗，要不要厮杀了？",
+      "source_hash": "d6d1a79038fa5884e4799d10e9c97eb064770825f69e0560ba2958cd434c02f7",
+      "target": "Các tu chân giả hệ chiến đấu thông thường vừa không có thiên phú luyện khí, lại càng không thể dành ra mấy chục năm trời để học luyện khí —— thế thì họ có cần chiến đấu, có cần chém giết nữa hay không?",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0021",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0021"
+      ],
+      "source": "所以，左右权衡之下，即便明知法宝里有漏洞，也只能捏着鼻子忍了，或者是找信得过的炼器师来炼制法宝，或者是在别人炼制之后，再找信得过的炼器师来破解“后门”。",
+      "source_hash": "9c08ef7d4baefd3fb07187f7694280072a78f47b11a2338217e9023ddaf89cbc",
+      "target": "Cho nên, sau khi cân nhắc lợi hại, dù biết rõ trong pháp bảo có lỗ hổng thì họ cũng chỉ đành cắn răng chịu đựng, hoặc là tìm kiếm luyện khí sư đáng tin cậy để chế tạo pháp bảo, hoặc là sau khi người khác chế tạo xong thì lại đi tìm một luyện khí sư đáng tin cậy khác đến để phá giải “cửa sau”.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0022",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0022"
+      ],
+      "source": "这种设置后门和破解后门的“攻防战”，也是炼器师圈子里一种十分常见的“比斗”形式，出现过无数次经典战例，每一名炼器师都以设置出别人无法破解甚至无法发现的“后门”为荣，更以发现和破解别人留下的“后门”为最大骄傲。",
+      "source_hash": "67d0ee9e1d80b2bc8ce70882528aca0da967b9249df1e4f357e1c0b412ac74db",
+      "target": "Cuộc “chiến công thủ” thiết lập cửa sau và phá giải cửa sau này cũng là một hình thức “đọ sức” vô cùng phổ biến trong giới luyện khí sư, từng xuất hiện vô số trận chiến kinh điển. Mỗi một vị luyện khí sư đều lấy việc cài đặt được một “cửa sau” mà kẻ khác không thể phá giải, thậm chí không thể phát hiện ra làm vinh dự, và càng lấy việc phát hiện, phá giải được “cửa sau” do người khác để lại làm niềm kiêu hãnh lớn nhất.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0023",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0023"
+      ],
+      "source": "当然，没有一名炼器师会承认自己在法宝上设置“后门”的。",
+      "source_hash": "41b98a2a61c2b61b59152a2213dbce4862a53dd583a96dfb23667077dc1c7f40",
+      "target": "Tất nhiên, chẳng có vị luyện khí sư nào chịu thừa nhận bản thân đã cài đặt “cửa sau” trên pháp bảo cả.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0024",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0024"
+      ],
+      "source": "谢听弦捻着胡须，摇头晃脑道：“哎呀，李耀同学的这种做法虽然有效，但终究是违背了炼器师的职业道德，有些不妥啊！如果他进入了深海大学，我们一定好好教育，怎么能随便在法宝上留下后门呢？”",
+      "source_hash": "7209e1b668681bb06cf7df5864bb369355c8599ca9f094fe40994daedd5320b2",
+      "target": "Tạ Thính Huyền vuốt râu, gật gù đắc ý nói: “Ai chà, cách làm này của thí sinh Lý Diệu tuy rằng có hiệu quả, nhưng chung quy vẫn là vi phạm đạo đức nghề nghiệp của luyện khí sư, có chút không ổn thỏa nha! Nếu như cậu ta gia nhập Đại học Thâm Hải, chúng tôi nhất định sẽ giáo dục cẩn thận, sao có thể tùy tiện để lại cửa sau trên pháp bảo như thế chứ?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0025",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0025"
+      ],
+      "source": "“少来！”",
+      "source_hash": "48090b71e0815d024e5033ddb34e2de3ea7b95a1b576e812550852d34027b7a6",
+      "target": "“Còn lâu đi!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0026",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0026"
+      ],
+      "source": "不少修真者都对谢听弦怒目而视——深海大学是炼器师的圣地，同时也是“开后门”这种恶劣行径的发源地之一，会“好好教育”才怪，；李耀真的进入深海大学，那就是如鱼得水，用不了几年，就要变成一个开后门高手了！",
+      "source_hash": "75f42fa29fe5a1e533ef7dca833d0e4d4181a70239020f9c4a123e40d6253f5b",
+      "target": "Không ít tu chân giả đều trừng mắt giận dữ nhìn Tạ Thính Huyền —— Đại học Thâm Hải là thánh địa của luyện khí sư, đồng thời cũng là một trong những nơi bắt nguồn của hành vi tồi tệ “cài cửa sau” này, bảo họ “giáo dục cẩn thận” mới là chuyện lạ. Lý Diệu mà thực sự vào Đại học Thâm Hải thì đúng là như cá gặp nước, chẳng cần vài năm là sẽ biến thành một cao thủ cài cửa sau rồi!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0027",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0027"
+      ],
+      "source": "就在众人哑口无言的同时，魔蛟岛北部，代表蓝方另一支巡逻小队的四个光点，也十分诡异的熄灭。",
+      "source_hash": "4facf266567aaec767547b35a2602cc1f349326e16096a17fddbe5f55c1c425b",
+      "target": "Ngay vào lúc mọi người đều câm nín không nói được lời nào, ở phía bắc Đảo Ma Giao, bốn chấm sáng đại diện cho một tiểu đội tuần tra khác của phe Xanh cũng bị tắt đi một cách vô cùng kỳ dị.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0028",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0028"
+      ],
+      "source": "取而代之的是一个小小的红点，顽强地闪耀着。",
+      "source_hash": "63c0b974d0f7660f9ea68370d8dd31f2507df46808b8377e6f41331afe7847cc",
+      "target": "Thay vào đó là một chấm đỏ nhỏ bé đang kiên cường tỏa sáng rực rỡ.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0029",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0029"
+      ],
+      "source": "第二支巡逻小队，落入李耀的魔爪！",
+      "source_hash": "81db1028e01b45367910864d6f6930422df511f8e5c6def7d9031743c0a0f8f5",
+      "target": "Tiểu đội tuần tra thứ hai đã sa vào ma trảo của Lý Diệu!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0030",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0030"
+      ],
+      "source": "这下子，不要说监控中心里的修真者们，就连外面大厅里的两千四百名选手也都注意到了李耀的存在。",
+      "source_hash": "b3bd5dbf2d2262498d7cd60b2ee7a072870ae3dc2e3fdaf2568ba857e6057ede",
+      "target": "Lần này, đừng nói là các tu chân giả ở trung tâm giám sát, mà ngay cả hai ngàn bốn trăm thí sinh ở đại sảnh phía ngoài cũng đều chú ý tới sự hiện diện của Lý Diệu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0031",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0031"
+      ],
+      "source": "尽管蓝方大部队还在魔蛟岛中部横冲直撞，大杀四方，但是位于后方的两场偷袭，似乎预示着局面将出现一些小小的改变。",
+      "source_hash": "e5153832820f4a595215e7e55af58702298e1bb0cf423a0e3328d9026d9468db",
+      "target": "Dù cho đại quân phe Xanh vẫn đang hoành hành ngang dọc, đại sát tứ phương ở miền trung Đảo Ma Giao, nhưng hai trận tập kích diễn ra nơi hậu phương dường như đang dự báo cục diện sẽ xuất hiện một vài thay đổi nho nhỏ.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0032",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0032"
+      ],
+      "source": "“这家伙是谁啊，竟然这么猛，一连击杀了七名蓝方选手！”",
+      "source_hash": "b07eb933ff5eb717a8094efbb39f86d8b247803fae4390b7f8d8ded4fc15b518",
+      "target": "“Tên này là ai thế hả, sao mà hung hãn vậy, một hơi tiêu diệt bảy thí sinh phe Xanh luôn!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0033",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0033"
+      ],
+      "source": "“有些不对劲啊，七名蓝方选手看上去都有些傻乎乎的，简直是伸长了脖子等他去杀，莫非这家伙擅长精神幻术，对敌人展开了精神攻击？”",
+      "source_hash": "08a8b912b05b9d3f019a65e5bb692cb4bb7100cc4f9e5fbcb196ec75dfb2f4cd",
+      "target": "“Có gì đó không đúng lắm, bảy thí sinh phe Xanh trông cứ ngơ ngơ ngác ngác, chẳng khác nào tự vươn cổ ra chờ cậu ta tới giết vậy. Lẽ nào gã này giỏi về tinh thần ảo thuật, đã triển khai tinh thần công kích lên kẻ địch sao?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0034",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0034"
+      ],
+      "source": "“我知道，这家伙是我们学校的，名叫李耀，别看他外表平平无奇，实际上却是个超级猛人，连赫连烈都拿他没办法！”",
+      "source_hash": "428aed4e909b467ffdd38ac79003efa8727cbe98366789d56bdf4c6a1ce91b94",
+      "target": "“Tôi biết, tên này học cùng trường chúng tôi, tên là Lý Diệu. Đừng nhìn bề ngoài cậu ta trông bình thường không có gì nổi trội, thực tế lại là một kẻ siêu cấp hung hãn, đến cả Hách Liên Liệt cũng không làm gì được cậu ta đâu!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0035",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0035"
+      ],
+      "source": "“这么厉害？那真的要好好注意一下了！”",
+      "source_hash": "3e5f5f006f4860cbeb9609c7b3c31477a44804efd615b990531d4803df64945e",
+      "target": "“Lợi hại thế sao? Vậy thì quả thực phải lưu ý thật kỹ mới được!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0036",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0036"
+      ],
+      "source": "赫连烈在整个浮戈城，甚至周边几个城镇都有不小的名气，这次挑战赛中，他的积分也一直排在前十名，是公认的高手。",
+      "source_hash": "ce32ecbf91f9110e194ff9d42a8253ac42e9576ac97f30bcdfb9917af16492c3",
+      "target": "Hách Liên Liệt có danh tiếng khá lớn tại khắp Phù Qua Thành, thậm chí cả vài thị trấn lân cận. Trong giải đấu thử thách lần này, điểm tích lũy của hắn cũng luôn nằm trong top mười, là một cao thủ được công nhận.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0037",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0037"
+      ],
+      "source": "能够成为赫连烈的对手，显然也不是一般人物。",
+      "source_hash": "ca0e20de56f1f9164c8bb558605b03fbd7708cb12389a348d334ef7ce714ddf4",
+      "target": "Kẻ có thể trở thành đối thủ của Hách Liên Liệt rõ ràng cũng không phải là nhân vật tầm thường.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0038",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0038"
+      ],
+      "source": "“啊，第三支巡逻队也被他猎杀了，我说这些家伙也真够蠢的，你们倒是还手啊，一个两个都待在原地干什么？等死么？”",
+      "source_hash": "fc80139ae5674d75b01e496ae37d4438befe584140ebadc46c2e9616cbe8b268",
+      "target": "“A, tiểu đội tuần tra thứ ba cũng bị cậu ta săn giết rồi. Ta nói đám người này cũng thật là ngu xuẩn quá đi, các ngươi hoàn thủ đi chứ, đứa nào đứa nấy cứ đờ ra tại chỗ làm gì vậy? Chờ chết hả?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0039",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0039"
+      ],
+      "source": "“你们说，这小子会不会就这样一路杀过去，来个惊天大逆袭？”",
+      "source_hash": "7e77891e90883419577d8c12fc78a6c03e4439b4af7eb5710af765d81d19cb38",
+      "target": "“Các cậu xem, liệu tên nhóc này có thể cứ thế giết thẳng một mạch, làm nên một cú lội ngược dòng kinh thiên động địa không?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0040",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0040"
+      ],
+      "source": "“这不可能，团队对抗，光靠一个人是不行的，蓝方有高野这个指挥天才，已经占据了大势，不是那么轻易就会动摇的，你们看，高野似乎注意到了异样，很快就会做出反应！”",
+      "source_hash": "e931073e236a6dc37bcc9df3f8e22a3de75e1be5829509a67082503658f87bbc",
+      "target": "“Không có khả năng đó đâu, tác chiến đồng đội thì chỉ dựa vào một người là không làm nên chuyện được. Phe Xanh có thiên tài chỉ huy Cao Dã, đã chiếm vững thế thượng phong, không dễ dàng bị lung lay như vậy đâu. Các cậu nhìn xem, Cao Dã dường như đã chú ý tới điểm bất thường, rất nhanh sẽ đưa ra phản ứng thôi!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0041",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0041"
+      ],
+      "source": "红蓝双方通讯频道中的内容，都实时反应在光幕上，所以这些退出赛场的选手，也都能看到高野的指挥战术。",
+      "source_hash": "dea431b2c0cad4745ca72f835c73c4019b3a8e74d7937f1bfe52b1afaa30fd54",
+      "target": "Nội dung trong kênh liên lạc của cả hai phe Đỏ - Xanh đều được phản ánh theo thời gian thực trên màn hình ánh sáng, thế nên những thí sinh đã bị loại khỏi sân thi đấu này cũng đều nhìn thấy chiến thuật chỉ huy của Cao Dã.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0042",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0042"
+      ],
+      "source": "在通讯频道中，发现很久没能联系上后方巡逻队的高野，判断出在蓝队后方肯定存在一支强悍的红方小分队或者是一头强大妖兽。",
+      "source_hash": "90417041d1e8eb9e9e5f64dd59e94bd6c405c60a07e89705b219755156770fff",
+      "target": "Trong kênh liên lạc, Cao Dã sau khi phát hiện bản thân đã rất lâu không thể kết nối được với tiểu đội tuần tra phía sau liền phán đoán rằng ở hậu phương đội Xanh chắc chắn đang có một tiểu đội phe Đỏ cực mạnh hoặc một con yêu thú hung hãn nào đó tồn tại.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0043",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0043"
+      ],
+      "source": "他当即命令大部队停止进攻，原地警戒待命。",
+      "source_hash": "72a587efe17eaeee0e5f4baf4cadf6c72212bed999fed9684fc6fc0001f88304",
+      "target": "Hắn lập tức hạ lệnh cho đại quân dừng tấn công, tại chỗ đề phòng chờ lệnh.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0044",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0044"
+      ],
+      "source": "同时命令战斗力最强的八个核心战斗单元，两两结合，组成新的巡逻队，全面清扫后方的漏网之鱼。",
+      "source_hash": "8206ca817a365da9ccaf42c413f3d9cbda8705e6db405b4b15e06ba647b9effe",
+      "target": "Đồng thời hạ lệnh cho tám đơn vị chiến đấu cốt lõi có chiến lực mạnh nhất kết hợp hai hai với nhau, tạo thành các tiểu đội tuần tra mới, tiến hành càn quét toàn diện những kẻ lọt lưới ở phía sau.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0045",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0045"
+      ],
+      "source": "“大家一定要提高警惕，不能被暂时的胜利冲昏头脑，在杀光最后一名红队选手之前，都有被翻盘的可能！现在我们后方，一定有大敌存在，等弄清楚了对方的底细，先把这名大敌除掉，再碾压正面的残敌！”",
+      "source_hash": "4895e33da0af21827158a9566b5d9947a960b482d7dbda4b963bb9c5f9b47d88",
+      "target": "“Mọi người nhất định phải nâng cao cảnh giác, không được để thắng lợi tạm thời làm mờ mắt, trước khi tiêu diệt được thí sinh cuối cùng của đội Đỏ thì chúng ta vẫn có khả năng bị lật kèo như chơi! Hiện tại ở hậu phương của chúng ta chắc chắn đang có đại địch ẩn mình, sau khi điều tra rõ lai lịch của đối phương, trước tiên hãy trừ khử tên đại địch này rồi mới nghiền nát đám tàn binh ở phía trước!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0046",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0046"
+      ],
+      "source": "高野当机立断，声音从容不迫，颇有大将风度！",
+      "source_hash": "0e386a61739e63e65b0f6f8aaf7f0153b2db00e2fc3628d456e9cfd04a065cb2",
+      "target": "Cao Dã quyết định nhanh chóng, giọng nói ung dung tự tại, vô cùng có phong thái của một danh tướng!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0047",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0047"
+      ],
+      "source": "他的战术很快就奏效了。",
+      "source_hash": "255395457f86bf6428b24c760f2d7ca61a12c8ac4cafda09ea5d2fe976fcfd15",
+      "target": "Chiến thuật của hắn nhanh chóng phát huy hiệu quả.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0048",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0048"
+      ],
+      "source": "在灭杀了原本就游荡在魔蛟岛北部的最后一支巡逻队之后，李耀被一支新的巡逻队缠上！",
+      "source_hash": "3485861275deae2260f7e51cbd87b4ea8f3bec8c68b2bceb71c73455c0a1f120",
+      "target": "Sau khi tiêu diệt tiểu đội tuần tra cuối cùng vốn đang lùng sục ở phía bắc Đảo Ma Giao, Lý Diệu đã bị một tiểu đội tuần tra mới bám đuôi quấy rối!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0049",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0049"
+      ],
+      "source": "这支巡逻队由七名选手组成，一个个牛高马大，双眼炯炯有神，太阳穴高高隆起，实力无比强悍。",
+      "source_hash": "9eec79eae4f2a6b076dbf1c30a49cacc2a7634016c5ea9293effccef67b1bd93",
+      "target": "Tiểu đội tuần tra này được cấu thành từ bảy thí sinh, ai nấy đều to cao lực lưỡng như trâu mộng, ánh mắt sáng quắc như đuốc, hai bên thái dương gồ cao, thực lực mạnh mẽ vô cùng.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0060:align_0050",
+      "chapter_id": "chapter_0060",
+      "segment_ids": [
+        "chapter_0060:seg_0050"
+      ],
+      "source": "而领头的还是李耀的熟人——赫连烈！",
+      "source_hash": "dfa5eaf7bc54d187a66f2e6e1b8c627f94b79f28bba0e8b7b570d6a1ac2f7903",
+      "target": "Và người dẫn đầu lại chính là người quen cũ của Lý Diệu —— Hách Liên Liệt!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    }
+  ],
+  "term_occurrences": [
+    {
+      "chapter_id": "chapter_0060",
+      "source_term": "浮戈城",
+      "target_term": "Phù Qua Thành",
+      "segment_id": "chapter_0060:seg_0036",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0060",
+      "source_term": "炼器师",
+      "target_term": "luyện khí sư",
+      "segment_id": "chapter_0060:seg_0009",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "job",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0060",
+      "source_term": "深海大学",
+      "target_term": "Đại học Thâm Hải",
+      "segment_id": "chapter_0060:seg_0024",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0060",
+      "source_term": "谢听弦",
+      "target_term": "Tạ Thính Huyền",
+      "segment_id": "chapter_0060:seg_0006",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0060",
+      "source_term": "魔蛟岛",
+      "target_term": "Đảo Ma Giao",
+      "segment_id": "chapter_0060:seg_0027",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "location",
+      "confidence": 1.0
+    }
+  ],
+  "entity_mentions": [
+    {
+      "chapter_id": "chapter_0060",
+      "source_surface": "李耀",
+      "target_surface": "Lý Diệu",
+      "entity_type": "person",
+      "segment_id": "chapter_0060:seg_0007",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0060",
+      "source_surface": "赫连烈",
+      "target_surface": "Hách Liên Liệt",
+      "entity_type": "person",
+      "segment_id": "chapter_0060:seg_0034",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0060",
+      "source_surface": "谢听弦",
+      "target_surface": "Tạ Thính Huyền",
+      "entity_type": "person",
+      "segment_id": "chapter_0060:seg_0006",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0060",
+      "source_surface": "高野",
+      "target_surface": "Cao Dã",
+      "entity_type": "person",
+      "segment_id": "chapter_0060:seg_0040",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0060",
+      "source_surface": "深海大学",
+      "target_surface": "Đại học Thâm Hải",
+      "entity_type": "factions",
+      "segment_id": "chapter_0060:seg_0024",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0060",
+      "source_surface": "浮戈城",
+      "target_surface": "Phù Qua Thành",
+      "entity_type": "locations",
+      "segment_id": "chapter_0060:seg_0036",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0060",
+      "source_surface": "魔蛟岛",
+      "target_surface": "Đảo Ma Giao",
+      "entity_type": "locations",
+      "segment_id": "chapter_0060:seg_0027",
+      "confidence": 1.0
+    }
+  ],
+  "name_analysis": {
+    "status": "ok",
+    "evidence_count": 4,
+    "name_mentions": [
+      {
+        "chapter_id": "chapter_0060",
+        "name_source": "李耀",
+        "name_target": "Lý Diệu",
+        "segment_id": "chapter_0060:seg_0007",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0060",
+        "name_source": "赫连烈",
+        "name_target": "Hách Liên Liệt",
+        "segment_id": "chapter_0060:seg_0034",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0060",
+        "name_source": "谢听弦",
+        "name_target": "Tạ Thính Huyền",
+        "segment_id": "chapter_0060:seg_0006",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0060",
+        "name_source": "高野",
+        "name_target": "Cao Dã",
+        "segment_id": "chapter_0060:seg_0040",
+        "present_in_target": true,
+        "confidence": 1.0
+      }
+    ],
+    "name_entries": [
+      {
+        "name_source": "李耀",
+        "name_target": "Lý Diệu"
+      },
+      {
+        "name_source": "赫连烈",
+        "name_target": "Hách Liên Liệt"
+      },
+      {
+        "name_source": "谢听弦",
+        "name_target": "Tạ Thính Huyền"
+      },
+      {
+        "name_source": "高野",
+        "name_target": "Cao Dã"
+      }
+    ],
+    "transliteration_units": [],
+    "inferred_name_rules": [],
+    "ambiguity_cases": [],
+    "reusable_name_profile": {
+      "mapping_count": 4,
+      "has_ambiguity": false
+    }
+  },
+  "phrase_patterns": [],
+  "grammar_rule_candidates": [],
+  "analyzer_reports": {
+    "term_occurrences": {
+      "status": "ok",
+      "evidence_count": 5
+    },
+    "entity_mentions": {
+      "status": "ok",
+      "evidence_count": 7
+    },
+    "name_mentions": {
+      "status": "ok",
+      "evidence_count": 4
+    },
+    "phrase_patterns": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    },
+    "grammar_rule_candidates": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    }
+  },
+  "review_queue": [
+    {
+      "chapter_id": "chapter_0060",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "后门",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "0.第60章 疯狂的后门\n\n  \n\n此言一出",
+          "\n要想避免在法宝上开后门，就只有一个办法——"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0060",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "方选手",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.82,
+        "evidence": [
+          "猛，一连击杀了七名蓝方选手！”\n\n“有些不对劲",
+          "有些不对劲啊，七名蓝方选手看上去都有些傻乎乎的"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0060",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "通讯频",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.82,
+        "evidence": [
+          "反应！”\n\n红蓝双方通讯频道中的内容，都实时反",
+          "野的指挥战术。\n\n在通讯频道中，发现很久没能联"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0060",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "后门",
+        "entity_type": "organization",
+        "count": 4,
+        "confidence": 0.78,
+        "evidence": [
+          "0.第60章 疯狂的后门\n\n  \n\n此言一出"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0060",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "开后门",
+        "entity_type": "organization",
+        "count": 3,
+        "confidence": 0.78,
+        "evidence": [
+          "炼器师圈子里的规矩‘开后门’都学会了！”\n\n一"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0060",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "他们就能通过这些命门",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "”。\n\n一旦有需要，他们就能通过这些命门，掌控法宝！\n\n在圈"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0060",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "命门",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "就掌握了这些法宝的“命门”。\n\n一旦有需要，"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0060",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "如果他进入了深海大学",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "业道德，有些不妥啊！如果他进入了深海大学，我们一定好好教育，"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0060",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "李耀真的进入深海大学",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "“好好教育”才怪，；李耀真的进入深海大学，那就是如鱼得水，用"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0060",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "疯狂的后门",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "# 60.第60章 疯狂的后门\n\n  \n\n此言一出"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0060",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "要想避免在法宝上开后门",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "一种“潜规则”。\n\n要想避免在法宝上开后门，就只有一个办法——"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0060",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "魔蛟岛北部",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "众人哑口无言的同时，魔蛟岛北部，代表蓝方另一支巡逻"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0060",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "赫连烈在整个浮戈城",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "好注意一下了！”\n\n赫连烈在整个浮戈城，甚至周边几个城镇都"
+        ]
+      }
+    }
+  ],
+  "quality_audit": {
+    "segment_coverage": 1.0,
+    "source_hash_match": true,
+    "target_reconstruction_match": true,
+    "invalid_ref_count": 0,
+    "locked_term_hit_rate": 1.0,
+    "missing_locked_terms": [],
+    "cjk_residue_count": 0,
+    "paragraph_drift_ratio": 0.0,
+    "pronoun_consistency_score": 1.0,
+    "warnings": []
+  }
+}

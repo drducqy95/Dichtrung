@@ -1,17 +1,861 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
   "chapter": 19,
-  "aligned_segments": [],
-  "term_occurrences": [],
-  "entity_mentions": [],
+  "chapter_id": "chapter_0019",
+  "source_manifest_hash": "b1349b5e4739ed5c4feda1fe74bdc4a638a0b84c819e27f2e09a782f96c71728",
+  "aligned_segments": [
+    {
+      "alignment_id": "chapter_0019:align_0001",
+      "chapter_id": "chapter_0019",
+      "segment_ids": [
+        "chapter_0019:seg_0001",
+        "chapter_0019:seg_0002"
+      ],
+      "source": "# 19.第19章 军道杀狼\n\n星耀联邦民风尚武，战力超群的修真者享有至高无上的地位，联邦公民无不以踏上修真之路为最大荣耀。",
+      "source_hash": "8d17443b798967448be6738d6519f1a1f9fde34f4d5458e35cdef5bd1b158cde",
+      "target": "Phong trào thượng võ của người dân Tinh Diệu Liên bang rất cao, những tu chân giả có chiến lực siêu phàm được hưởng địa vị tối cao vô thượng. Mọi công dân của Liên bang đều lấy việc bước lên con đường tu chân làm niềm vinh quang lớn nhất.",
+      "narrative_type": "narration",
+      "alignment_type": "merged_source"
+    },
+    {
+      "alignment_id": "chapter_0019:align_0002",
+      "chapter_id": "chapter_0019",
+      "segment_ids": [
+        "chapter_0019:seg_0003"
+      ],
+      "source": "即便无法成为修真者，也喜欢打熬力气，磨砺筋骨，雕塑体型，终身保持修炼的习惯。",
+      "source_hash": "dc80dd55f2be7e87b5e0d3b07fa3ee040ac32e4ab8aa3faac50870bd99973b73",
+      "target": "Cho dù không thể trở thành tu chân giả, bọn họ cũng thích rèn luyện thể lực, mài giũa gân cốt, gọt giũa vóc dáng, duy trì thói quen tu luyện suốt đời.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0019:align_0003",
+      "chapter_id": "chapter_0019",
+      "segment_ids": [
+        "chapter_0019:seg_0004"
+      ],
+      "source": "所以，大街小巷随处可见健身会所、修炼馆和武技学校，在里面修炼的未必是什么穷凶极恶的武道高手，大多是遵纪守法、循规蹈矩的学生和上班族。",
+      "source_hash": "135dd168deccef95dad03027fefd766083e39b5a74970d764fbe126fec3b230b",
+      "target": "Thế nên, ở mọi hang cùng ngõ hẻm đều có thể dễ dàng bắt gặp các câu lạc bộ thể hình, võ quán tu luyện và trường dạy võ thuật. Những người tu luyện trong đó chưa chắc đã là cao thủ võ đạo hung thần ác sát gì, mà phần lớn đều là học sinh và giới nhân viên văn phòng tuân thủ pháp luật, ngoan ngoãn nề nếp.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0019:align_0004",
+      "chapter_id": "chapter_0019",
+      "segment_ids": [
+        "chapter_0019:seg_0005"
+      ],
+      "source": "李耀看到“军道杀狼修炼馆”的牌子，又多了一分信心。",
+      "source_hash": "8be0cdf26489b0ca0976bda2705b97ec428bbd4c4225d5a37dab65010d0669ef",
+      "target": "Lý Diệu nhìn thấy tấm biển \"Võ quán tu luyện Quân Đạo Sát Lang\", lại có thêm một phần tự tin.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0019:align_0005",
+      "chapter_id": "chapter_0019",
+      "segment_ids": [
+        "chapter_0019:seg_0006"
+      ],
+      "source": "他知道这类地方的老板大多是狂热的修炼爱好者，他们炼制“山寨强化药剂”，多半是给自己和修炼馆的会员服用，赚钱并不是首要目的，所以往往不惜成本，质量也有一定保障。",
+      "source_hash": "7d64f25179def5134996b691121637db6c3622ca8c88463a6feeaf7cb55b3a33",
+      "target": "Cậu biết những ông chủ của các nơi như thế này đa phần đều là những kẻ đam mê tu luyện cuồng nhiệt. Bọn họ luyện chế \"thuốc tăng cường sơn trại\" phần lớn là để cho bản thân và các hội viên của võ quán sử dụng. Kiếm tiền không phải là mục đích hàng đầu, thế nên thường không tiếc chi phí, chất lượng cũng có sự bảo đảm nhất định.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0019:align_0006",
+      "chapter_id": "chapter_0019",
+      "segment_ids": [
+        "chapter_0019:seg_0007"
+      ],
+      "source": "摸了摸脸上的蜘蛛花纹，李耀信步走了进去。",
+      "source_hash": "7b9af098de24ce320e98812e38fce67faf2afe59734a0594c21de6652113f1c0",
+      "target": "Sờ sờ lớp hoa văn mạng nhện trên mặt, Lý Diệu thong dong bước vào trong.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0019:align_0007",
+      "chapter_id": "chapter_0019",
+      "segment_ids": [
+        "chapter_0019:seg_0008"
+      ],
+      "source": "修炼馆门面不大，里面却是别有洞天，大约三四百平米的力量训练房里，十几个肌肉贲张、大汗淋漓的壮汉正把杠铃、钢索和铁片砸得“咣咣”作响，角落里还有一名大汉正在狠狠\\*\\*一只沙袋。",
+      "source_hash": "57c61c35739d51a31781787b58745d8e7743acf7186bb54444b521bf6721cbdc",
+      "target": "Mặt tiền của võ quán không lớn, nhưng bên trong lại là một khoảng trời riêng. Trong phòng tập tạ rộng chừng ba bốn trăm mét vuông, mười mấy gã thanh niên lực lưỡng cơ bắp cuồn cuộn, mồ hôi đầm đìa đang đập các loại tạ đòn, dây cáp và tạ đĩa kêu \"loảng xoảng\". Ở trong góc còn có một gã tráng hán đang điên cuồng trút giận lên một chiếc bao cát.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0019:align_0008",
+      "chapter_id": "chapter_0019",
+      "segment_ids": [
+        "chapter_0019:seg_0009"
+      ],
+      "source": "李耀扫了一圈，发现这些大汉练的重量不太高，面容也都比较敦实良善，给人的感觉并不凶悍，看样子都是普通上班族，不由松了一口气，更加放心。",
+      "source_hash": "2883dceddd777bd93f6a29bee815844687d802956787645b18c05a40c72b5299",
+      "target": "Lý Diệu đưa mắt nhìn quanh một vòng, phát hiện mức tạ mà những tên tráng hán này đang tập luyện không tính là quá nặng, vẻ mặt cũng khá đôn hậu hiền lành, mang lại cảm giác không hề hung hãn. Trông có vẻ đều là những nhân viên văn phòng bình thường, cậu không khỏi thở phào một hơi, càng thêm yên tâm.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0019:align_0009",
+      "chapter_id": "chapter_0019",
+      "segment_ids": [
+        "chapter_0019:seg_0010"
+      ],
+      "source": "他走到角落，准备向那名正在打沙袋的壮汉询问——此君看起来最面善。",
+      "source_hash": "d92b81ecbdf9aa20838143630464637610acae8be2addaf72ee4ffe760b4d5ee",
+      "target": "Cậu bước tới góc phòng, chuẩn bị hỏi thăm gã tráng hán đang đấm bao cát kia —— vị này trông có vẻ hiền lành nhất.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0019:align_0010",
+      "chapter_id": "chapter_0019",
+      "segment_ids": [
+        "chapter_0019:seg_0011"
+      ],
+      "source": "这名壮汉，却正好弓步近身，后手突刺，一记重拳，轰出浑身力量，将沙袋砸得高高飞起，正好撞到李耀脸上，发出“啪”一声响。",
+      "source_hash": "1266a695cf8d790f4da7fb12b7ba2c67a1a2ff5336427b799fbb5b765619d95a",
+      "target": "Thế nhưng gã tráng hán này lại đúng lúc tung người bước tới, tung đòn đấm móc bằng tay sau, một cú đấm tàn nhẫn dốc toàn bộ sức mạnh toàn thân, đánh cho chiếc bao cát văng vút lên cao, đúng lúc đập thẳng vào mặt Lý Diệu, phát ra một tiếng \"bốp\" rõ to.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0019:align_0011",
+      "chapter_id": "chapter_0019",
+      "segment_ids": [
+        "chapter_0019:seg_0012"
+      ],
+      "source": "壮汉“啊”了一声，急道：“你没事吧？”",
+      "source_hash": "ea8900842db8ecb6be8b47f5de1fcb1099292bbfa25d27d621abd46e8086ff71",
+      "target": "Gã tráng hán \"á\" lên một tiếng, sốt sắng hỏi: \"Cậu không sao chứ?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0019:align_0012",
+      "chapter_id": "chapter_0019",
+      "segment_ids": [
+        "chapter_0019:seg_0013"
+      ],
+      "source": "李耀晃了晃脑袋，鼻子有些酸涩，鼻翼抽动了两下，摇头道：“没事，请问赵馆长在什么地方？”",
+      "source_hash": "32232df9efa134443b6fef20098513a2e9ba79dd289f2fc14d106b0d510b4756",
+      "target": "Lý Diệu lắc lắc đầu, mũi hơi cay cay, cánh mũi phập phồng hai cái, lắc đầu nói: \"Không sao, xin hỏi Triệu quán chủ đang ở đâu?\"\n\n...",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0019:align_0013",
+      "chapter_id": "chapter_0019",
+      "segment_ids": [
+        "chapter_0019:seg_0014",
+        "chapter_0019:seg_0015"
+      ],
+      "source": "……\n\n力量训练房后面，一间小小的茶室内，两个军绿色的坐垫上分别坐着一名壮汉，两人中间放着两只茶缸，还有熏肉、烧鸡、花生之类的熟菜。",
+      "source_hash": "4fdd27be9d251e5f2dc59b3c5f25bdc162e603cd8e05c60159a3abdcdda94eb1",
+      "target": "Phía sau phòng tập tạ, trong một phòng trà nhỏ nhắn, trên hai tấm nệm ngồi màu xanh quân đội có hai người đàn ông tráng kiện đang ngồi. Ở giữa hai người đặt hai cái ca uống trà, cùng với vài món đồ nhắm như thịt xông khói, gà quay, đậu phộng vân vân.",
+      "narrative_type": "narration",
+      "alignment_type": "merged_source"
+    },
+    {
+      "alignment_id": "chapter_0019:align_0014",
+      "chapter_id": "chapter_0019",
+      "segment_ids": [
+        "chapter_0019:seg_0016"
+      ],
+      "source": "左边一人大概四五十岁年纪，坑坑洼洼的光头上纹着一个插着军刺的狼头纹身，左臂从肩胛骨开始齐齐斩断，取而代之的是一条镌刻着上千道符文的灵械义肢。",
+      "source_hash": "d32669c4b3a1ff7796ec012f8e4db51dc7493e141060131fb29a2ba19b44b42a",
+      "target": "Người ngồi bên trái trạc độ bốn năm mươi tuổi, trên cái đầu trọc lốc lồi lõm xăm một cái đầu sói cắm một thanh quân thích. Cánh tay trái của ông ta bị chém đứt lìa từ tận bả vai, thay vào đó là một cánh tay máy linh năng được điêu khắc hàng ngàn đạo phù văn.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0019:align_0015",
+      "chapter_id": "chapter_0019",
+      "segment_ids": [
+        "chapter_0019:seg_0017"
+      ],
+      "source": "右边一人，却是个看似不到三十岁的青年，披着一袭非常低调的灰色军用风衣，大约穿了许多年，已经洗得发白褪色。",
+      "source_hash": "52a5906d1125620def0527c9267eae32e6980295bb70622962fc0fbb415250bc",
+      "target": "Người ngồi bên phải lại là một thanh niên trông chưa tới ba mươi tuổi, khoác một chiếc áo gió quân đội màu xám vô cùng khiêm tốn. Có vẻ như đã mặc rất nhiều năm, chiếc áo đã được giặt đến mức phai màu bạc phếch.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0019:align_0016",
+      "chapter_id": "chapter_0019",
+      "segment_ids": [
+        "chapter_0019:seg_0018"
+      ],
+      "source": "如果李耀看到此人，一定激动到尿崩——这名青年赫然就是赤霄二中所有学生心目中的偶像，浮戈城修真者圈子里的新贵，筑基期修士，妖刀彭海！",
+      "source_hash": "200f33a395a484cea59b851056d949970c85e3f1f3dca7e5aaff0a4626391037",
+      "target": "Nếu như Lý Diệu nhìn thấy người này, chắc chắn sẽ kích động đến mức tè ra quần —— tên thanh niên này bất ngờ thay lại chính là thần tượng trong lòng tất cả học sinh trường Xích Tiêu Nhị Trung, tân quý trong giới tu chân giả ở Phù Qua Thành, tu sĩ Trúc Cơ Kỳ, Yêu Đao Bành Hải!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0019:align_0017",
+      "chapter_id": "chapter_0019",
+      "segment_ids": [
+        "chapter_0019:seg_0019"
+      ],
+      "source": "此刻的彭海身上，却没有半点强大的修真者气息，他举起茶缸，对光头纹身男爽快道：“老教官，来，为了咱们当年在妖兽荒原上的激战岁月，再干一杯！”",
+      "source_hash": "4caa24a16a8ff75e78b76a6319aa70aadfd0cd955bab209c3f6eaf45d0887016",
+      "target": "Thế nhưng Bành Hải lúc này lại không hề toát ra nửa điểm khí tức cường đại của tu chân giả. Anh ta nâng chiếc ca trà lên, sảng khoái nói với gã tráng hán đầu trọc xăm trổ: \"Lão giáo quan, nào, vì những năm tháng thanh xuân cùng nhau huyết chiến trên vùng hoang dã yêu thú năm xưa, cạn thêm ly nữa!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0019:align_0018",
+      "chapter_id": "chapter_0019",
+      "segment_ids": [
+        "chapter_0019:seg_0020"
+      ],
+      "source": "茶缸里明明是最粗劣的二锅头，彭海这个锦衣玉食、穷奢极欲的大修士，却像是见到了琼浆玉液，一饮而尽，大声咂舌：“好酒，这他妈才是男人该喝的东西！”",
+      "source_hash": "8a968ff562f5a299852c11aa1e18b1a09a51e729ff83406bfdc7922158f7e965",
+      "target": "Rõ ràng trong ca trà là loại rượu Nhị Oa Đầu thô kém nhất, thế mà Bành Hải, vị đại tu sĩ sống trong nhung lụa, ăn uống phung phí này, lại làm như vừa nhìn thấy quỳnh tương ngọc dịch, ực một hơi cạn sạch, chép miệng kêu to: \"Rượu ngon, mẹ kiếp đây mới là thứ mà đàn ông nên uống!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0019:align_0019",
+      "chapter_id": "chapter_0019",
+      "segment_ids": [
+        "chapter_0019:seg_0021"
+      ],
+      "source": "光头纹身男用灵械义肢，有些僵硬地抓起茶缸，感慨道：“阿海，我知道你这小子重感情，讲情义，就算当上了筑基期修真者，都不忘咱们这些当年一起出生入死的老战友！不过你有心，隔三差五来找我喝酒也就罢了，实在没必要一直在我这里修炼——我这个地方是业余级别，水平很低，你一个筑基期修真者，在这里纯熟浪费时间！”",
+      "source_hash": "2091fa98e14321a22fabb2f6c294fb6bdd1d11e2ba1b999f5241690c83ceb031",
+      "target": "Gã tráng hán đầu trọc xăm trổ dùng cánh tay máy linh năng, có chút cứng nhắc cầm chiếc ca trà lên, bùi ngùi nói: \"A Hải, tôi biết tên nhóc cậu là người trọng tình cảm, coi trọng tình nghĩa. Cho dù đã trở thành tu chân giả Trúc Cơ Kỳ, cậu cũng không hề quên lãng những lão chiến hữu từng cùng nhau vào sinh ra tử năm xưa! Nhưng cậu có lòng, dăm ba bữa lại tới tìm tôi uống rượu thì cũng thôi đi, quả thực không cần thiết cứ phải tu luyện ở chỗ tôi mãi —— cái nơi này của tôi chỉ là cấp độ nghiệp dư, trình độ rất thấp, một tu chân giả Trúc Cơ Kỳ như cậu ở đây tu luyện quả thực là lãng phí thời gian!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0019:align_0020",
+      "chapter_id": "chapter_0019",
+      "segment_ids": [
+        "chapter_0019:seg_0022"
+      ],
+      "source": "彭海一笑：“老教官，咱们之间的交情，可不是简简单单‘出生入死’四个字就能说清楚的，想当年，我们一起执行‘黑刃行动’，若不是你帮我挡了那一下，我早就死得不能再死，哪里还能当上筑基期修真者？而老教官你……”",
+      "source_hash": "026354675f5d989b4e7c324ee03a7e20f1960fbe543751f38a930df83e385e26",
+      "target": "Bành Hải mỉm cười: \"Lão giáo quan, giao tình giữa chúng ta đâu phải chỉ bằng bốn chữ 'vào sinh ra tử' đơn giản là có thể nói rõ ràng được. Nhớ năm xưa, chúng ta cùng nhau thực hiện 'Chiến dịch Hắc Nhẫn', nếu như không phải chú đỡ hộ tôi đòn đó, tôi đã sớm chết nhăn răng rồi, lấy đâu ra cơ hội để trở thành tu chân giả Trúc Cơ Kỳ chứ? Còn lão giáo quan chú...\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0019:align_0021",
+      "chapter_id": "chapter_0019",
+      "segment_ids": [
+        "chapter_0019:seg_0023"
+      ],
+      "source": "目光扫向光头纹身男的左手，彭海的声音里也带上一抹沉重，“却丢掉了整条左臂，连心脏都被轰掉了70%，从炼气期十三层，跌回到了普通武者级数，不得不离开‘狼团’……”",
+      "source_hash": "d7643ef7dd05c361fea9e0cd075d9dcf94f734e0202db449993f7bf0bde897d1",
+      "target": "Ánh mắt lướt qua cánh tay trái của gã đầu trọc xăm trổ, giọng nói của Bành Hải cũng mang theo một tia nặng nề, \"Lại mất đi cả cánh tay trái, ngay cả tim cũng bị đánh nát mất 70%, từ Luyện Khí Kỳ tầng thứ mười ba rớt thẳng xuống cấp độ võ giả bình thường, không thể không rời khỏi 'Đoàn Sói'...\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0019:align_0022",
+      "chapter_id": "chapter_0019",
+      "segment_ids": [
+        "chapter_0019:seg_0024"
+      ],
+      "source": "光头纹身男摆了摆手，满不在乎地说：“修真之路，危机四伏，九死一生，既然踏上这条不归路，老子早就把脑袋别在裤腰带上，随时准备命丧黄泉！只是丢掉一只手，又算什么？要是连这点都看不穿，当年还修个鸟真，趁早回家上班当白领讨老婆不是更安全？你也不用老是把那件事放在心上，咱们出来修真的，断手断脚还是回老家卖咸鸭蛋，都看老天爷高兴，都是命！我断手，是我命中注定，和你有什么关系？再说，不让我修真，那就不修喽，老子每个月拿着大把‘退伍军人伤残津贴’，小酒喝着，烤串撸着，床上的\\*\\*天天不缺，不知过得多潇洒，多开心！而仍旧留在军中的老战友，没错，是有不少人成为了筑基期修真者，甚至还出过两个结丹的大修士，那又如何？说不定明天就变成妖兽肚子里的一泡稀屎，渣都不剩下！这么一想，我还赚了嘛，哈哈哈哈！”",
+      "source_hash": "facb1a00cab187e63db8295b413d9533b87a24ac6679f35ca0403296cf1d240e",
+      "target": "Gã đầu trọc xăm trổ xua xua tay, vẻ mặt hoàn toàn không bận tâm nói: \"Con đường tu chân nguy hiểm rình rập, cửu tử nhất sinh, đã bước lên con đường không lối thoát này, lão tử sớm đã buộc cái mạng lên dây quần, bất cứ lúc nào cũng chuẩn bị sẵn tinh thần chầu Diêm Vương rồi! Chỉ mất đi một cánh tay thì tính là cái gì? Nếu như đến chút chuyện này còn không nhìn thấu, thì năm đó còn tu chân làm cái rắm gì, thà về nhà đi làm nhân viên văn phòng kiếm vợ chẳng phải an toàn hơn sao? Cậu cũng đừng suốt ngày canh cánh chuyện đó trong lòng mãi thế, những người ra ngoài tu chân như chúng ta, cụt tay gãy chân hay về quê bán hột vịt muối, đều phải xem ông trời có vui không, tất cả đều là số mệnh! Tôi cụt tay, là do số mệnh tôi đã định sẵn, liên quan quái gì đến cậu? Hơn nữa, không cho tôi tu chân, thì tôi không tu nữa thôi. Lão tử mỗi tháng nhận được một mớ 'trợ cấp thương tật dành cho cựu chiến binh', nhâm nhi chén rượu nhỏ, lai rai thịt nướng, trên giường cũng ngày ngày không thiếu các em xinh đẹp hầu hạ, không biết sống tiêu sái nhường nào, vui vẻ nhường nào! Còn những đồng đội cũ vẫn tiếp tục ở lại trong quân đội, đúng vậy, quả thực có không ít người đã trở thành tu chân giả Trúc Cơ Kỳ, thậm chí còn xuất hiện hai vị đại tu sĩ Kết Đan, thì sao chứ? Nói không chừng ngày mai lại biến thành một bãi phân loãng trong bụng yêu thú, đến chút cặn bã cũng không còn! Nghĩ như vậy, tôi lại còn hời chán ấy chứ, ha ha ha ha!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0019:align_0023",
+      "chapter_id": "chapter_0019",
+      "segment_ids": [
+        "chapter_0019:seg_0025"
+      ],
+      "source": "彭海欣然道：“拿得起，放得下，是我记忆中的老教官，铁骨铮铮的硬汉！不过有一点，老教官可是想错了，我每天到你这里来，并不是浪费时间，而是进行非常重要的修炼。”",
+      "source_hash": "6531f6f2b551fd1533be5bb524c3545ed7fac59f1b7eb07ae83c87ee26dd1991",
+      "target": "Bành Hải vui vẻ nói: \"Cầm lên được, đặt xuống được, đúng là lão giáo quan trong ký ức của tôi, một hán tử thép xương cốt cứng cáp! Thế nhưng có một điểm lão giáo quan đã nghĩ sai rồi, mỗi ngày tôi đến chỗ chú không phải là để lãng phí thời gian, mà là để tiến hành một hạng mục tu luyện vô cùng quan trọng.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0019:align_0024",
+      "chapter_id": "chapter_0019",
+      "segment_ids": [
+        "chapter_0019:seg_0026"
+      ],
+      "source": "光头纹身男瞪大了眼睛：“修炼？在我这种破地方，你能练出什么花样？”",
+      "source_hash": "50eb77bcc68acb157afb73b1e17bcccf90006acf7d8417c783ecb0474615a3b7",
+      "target": "Gã đầu trọc xăm trổ trợn tròn hai mắt: \"Tu luyện? Ở cái xó xỉnh tồi tàn này của tôi, cậu có thể luyện ra được trò trống gì?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0019:align_0025",
+      "chapter_id": "chapter_0019",
+      "segment_ids": [
+        "chapter_0019:seg_0027"
+      ],
+      "source": "彭海淡淡一笑，解释道：“我的瞬间灵能爆发力，已经达到‘筑基期高阶’，却非常不稳定，在好几次战斗的紧要关头，都意外掉回了‘筑基期中阶’，差点一命呜呼——这是因为我的绝对力量提升太快，而对力量的控制还不到家。想要在真正站稳‘筑基期高阶’，甚至冲击‘筑基期巅峰’境界，就必须彻底解决这个问题！”",
+      "source_hash": "9bd3c63ed1a88fc0781a2bdc55f1c658c2df69f7b28cc3b532da4537642a7932",
+      "target": "Bành Hải cười nhạt, giải thích: \"Lực bộc phát linh năng tức thời của tôi đã đạt tới 'Trúc Cơ Kỳ cao giai', thế nhưng lại vô cùng không ổn định. Trong những thời khắc quan trọng của vài lần chiến đấu, đều ngoài ý muốn rớt lại 'Trúc Cơ Kỳ trung giai', suýt chút nữa thì mất mạng —— đây là bởi vì sức mạnh tuyệt đối của tôi tăng lên quá nhanh, mà sự kiểm soát đối với sức mạnh lại chưa đạt tới mức độ điêu luyện. Nếu muốn thực sự đứng vững ở 'Trúc Cơ Kỳ cao giai', thậm chí là xung kích cảnh giới 'Trúc Cơ Kỳ đỉnh phong', thì bắt buộc phải giải quyết triệt để vấn đề này!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0019:align_0026",
+      "chapter_id": "chapter_0019",
+      "segment_ids": [
+        "chapter_0019:seg_0028"
+      ],
+      "source": "光头纹身男沉吟片刻，点头道：“你是联邦最年轻的筑基期修真者之一，进阶太快，确实会带来根基不稳的问题，你准备怎么解决？”",
+      "source_hash": "d8ffd521256551af24190d72ad62c6b3b357a8c3e06c363dfef472b7b748d07c",
+      "target": "Gã đầu trọc xăm trổ trầm ngâm một lát, gật đầu nói: \"Cậu là một trong những tu chân giả Trúc Cơ Kỳ trẻ tuổi nhất Liên bang, thăng cấp quá nhanh, quả thực sẽ dẫn đến vấn đề nền tảng không vững chắc. Cậu định giải quyết như thế nào?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0019:align_0027",
+      "chapter_id": "chapter_0019",
+      "segment_ids": [
+        "chapter_0019:seg_0029"
+      ],
+      "source": "彭海笑道：“为了控制自身力量，每次到老教官的‘军道杀狼修炼馆’，我都会把力量压制在3%，只发挥3%的实力，来进行超负荷的训练！”",
+      "source_hash": "5741cb3b0363e1e2081bb76df1a79624692935a7b5b53f22dd822d5d8923fdcf",
+      "target": "Bành Hải cười nói: \"Để kiểm soát sức mạnh của bản thân, mỗi lần đến 'Võ quán tu luyện Quân Đạo Sát Lang' của lão giáo quan, tôi đều sẽ áp chế sức mạnh xuống mức 3%, chỉ phát huy 3% thực lực để tiến hành những bài huấn luyện siêu quá tải!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0019:align_0028",
+      "chapter_id": "chapter_0019",
+      "segment_ids": [
+        "chapter_0019:seg_0030"
+      ],
+      "source": "光头纹身男恍然大悟：“原来你只发挥了3%的实力？怪不得我从你身上，感觉不到半点修真者的气息。”",
+      "source_hash": "23c9b4c7e5dddabee728a8c7c3a0f05bfa40c0f93a36afd3e3c34260df11e22d",
+      "target": "Gã đầu trọc xăm trổ bừng tỉnh ngộ: \"Thì ra là cậu chỉ phát huy có 3% thực lực? Hèn chi trên người cậu, tôi chẳng cảm nhận được chút khí tức nào của tu chân giả cả.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0019:align_0029",
+      "chapter_id": "chapter_0019",
+      "segment_ids": [
+        "chapter_0019:seg_0031"
+      ],
+      "source": "彭海点头：“我已经在3%的状态下坚持了一个月，这样，当我放开限制，发挥100%实力时，感觉瞬间爆发力又有了大幅提升，对灵能的掌控度也增强了不少！我的目标，是最终能把自身力量压制在1%，还能进行超负荷的训练和对抗，如果可以做到的话，一定能冲上筑基期巅峰境界！”",
+      "source_hash": "3957812148db6308a2c65c77188e0661e3c6a06a8f658bec2b84f0ea774c9b00",
+      "target": "Bành Hải gật đầu: \"Tôi đã kiên trì duy trì trạng thái 3% trong suốt một tháng qua. Bằng cách này, khi tôi gỡ bỏ giới hạn, phát huy 100% thực lực, tôi cảm thấy lực bộc phát tức thời lại có sự thăng tiến đáng kể, mức độ kiểm soát đối với linh năng cũng được tăng cường không ít! Mục tiêu của tôi là cuối cùng có thể áp chế sức mạnh của bản thân xuống mức 1% mà vẫn có thể tiến hành các bài huấn luyện và đối kháng siêu quá tải. Nếu như có thể làm được điều đó, chắc chắn tôi sẽ xông lên được cảnh giới Trúc Cơ Kỳ đỉnh phong!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0019:align_0030",
+      "chapter_id": "chapter_0019",
+      "segment_ids": [
+        "chapter_0019:seg_0032"
+      ],
+      "source": "顿了一顿，不无遗憾地笑了笑，“灵力不稳定是我的最大弱点，不想让别人知道，所以只能到老教官你这里来修炼——在浮戈城，我只相信两个人，老教官就是其中之一，可惜你这里的会员，实力都太弱了，没一个能扛过我用3%实力，三分钟的攻击！光是进行力量训练，似乎又差了一口气。”",
+      "source_hash": "362d73a3e07b2ac5cfb20bb1517f1d1a2d72e7a15db0dc71f7f2620ea3263a33",
+      "target": "Ngừng một chút, anh không giấu được vẻ tiếc nuối mỉm cười, \"Linh lực không ổn định là điểm yếu lớn nhất của tôi, tôi không muốn để người khác biết, thế nên chỉ có thể đến chỗ lão giáo quan đây để tu luyện —— Ở Phù Qua Thành, tôi chỉ tin tưởng hai người, lão giáo quan chính là một trong số đó. Chỉ tiếc là hội viên ở chỗ chú thực lực đều quá yếu, không có ai gánh vác nổi sự tấn công trong ba phút của tôi dù chỉ sử dụng 3% thực lực! Nếu chỉ tiến hành rèn luyện sức mạnh, thì dường như vẫn còn thiếu một chút.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0019:align_0031",
+      "chapter_id": "chapter_0019",
+      "segment_ids": [
+        "chapter_0019:seg_0033"
+      ],
+      "source": "光头纹身男瞪了他一眼：“我这里的会员，都是正经八百的上班族、工薪阶层，又不是专业武者，当然不够你打，就算你只用3%的实力，也纯属虐杀！不过，别说老教官不照顾你，我知道你正在找耐打的高手陪练，所以特地联系了一位在圈子里小有名气的金牌陪练员，等会儿就到。”",
+      "source_hash": "beaa47411a6678a5b7bd8349fccd189362a1fba4b2bd96a416de1d46ec53db94",
+      "target": "Gã đầu trọc xăm trổ lườm anh một cái: \"Hội viên ở chỗ tôi đều là những nhân viên văn phòng, người làm công ăn lương đàng hoàng, đâu phải là võ giả chuyên nghiệp, đương nhiên là không đánh lại cậu rồi. Cho dù cậu chỉ dùng 3% thực lực, thì cũng hoàn toàn là ngược sát! Thế nhưng, đừng nói là lão giáo quan không chiếu cố cậu, tôi biết cậu đang tìm kiếm một cao thủ giỏi chịu đòn để làm người bồi luyện, thế nên tôi đã đặc biệt liên hệ với một nhân viên bồi luyện kim bài khá có tiếng tăm trong giới, lát nữa sẽ tới.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0019:align_0032",
+      "chapter_id": "chapter_0019",
+      "segment_ids": [
+        "chapter_0019:seg_0034"
+      ],
+      "source": "彭海一听，来了兴趣：“哦？厉不厉害？”",
+      "source_hash": "bc3dada93d62b827fd30634cf3d2d0474b2cff0c10a77d83dc58247fbc8188d2",
+      "target": "Bành Hải nghe vậy, liền thấy hứng thú: \"Ồ? Có lợi hại không?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0019:align_0033",
+      "chapter_id": "chapter_0019",
+      "segment_ids": [
+        "chapter_0019:seg_0035"
+      ],
+      "source": "光头纹身男道：“我也是通过朋友介绍，并没有见过，不过这个人在地下鬼市已经厮混了很多年，在好几个武馆都当过专业陪练，据说抗击打能力极强，有个外号叫‘铁龟’，应该能扛住你用3%的实力打上三分钟吧？”",
+      "source_hash": "65cb6a861a28573d426e409d7ce51d01f55da2d2576216a97ab43ae2ea997fc0",
+      "target": "Gã đầu trọc xăm trổ nói: \"Tôi cũng là thông qua bạn bè giới thiệu, chưa từng gặp mặt, nhưng người này đã lăn lộn trong chợ quỷ ngầm nhiều năm rồi, từng làm bồi luyện chuyên nghiệp ở vài võ quán. Nghe nói khả năng chịu đòn cực kỳ mạnh mẽ, có một biệt danh là 'Thiết Quy' (Rùa Sắt), chắc là có thể chịu đựng được đòn đánh trong vòng ba phút của cậu với 3% thực lực chứ?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0019:align_0034",
+      "chapter_id": "chapter_0019",
+      "segment_ids": [
+        "chapter_0019:seg_0036"
+      ],
+      "source": "茶室左边的一整面墙壁，是单方向透明玻璃，从里面望出去，可以看到力量训练房的情况。",
+      "source_hash": "8416075211130737344eeddf6c59c478a6872a6f3ea77cf5cfa35b0a16a90f2c",
+      "target": "Toàn bộ bức tường phía bên trái của phòng trà là loại kính trong suốt một chiều, nhìn từ bên trong ra, có thể thấy rõ tình hình trong phòng tập tạ.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0019:align_0035",
+      "chapter_id": "chapter_0019",
+      "segment_ids": [
+        "chapter_0019:seg_0037"
+      ],
+      "source": "两人说话间，正好看到李耀走进来，被沙袋狠狠砸了一下脸，却若无其事的样子。",
+      "source_hash": "715beceba0bbb030c43b075370d8697836fba2cad73ac346f586698eee70e826",
+      "target": "Trong lúc hai người nói chuyện, đúng lúc nhìn thấy Lý Diệu bước vào, bị một bao cát đập mạnh vào mặt, nhưng lại tỏ ra như không có chuyện gì.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0019:align_0036",
+      "chapter_id": "chapter_0019",
+      "segment_ids": [
+        "chapter_0019:seg_0038"
+      ],
+      "source": "“他来了，怎么样，还行吧？”光头纹身男站了起来。",
+      "source_hash": "e740271480d47b962ee7d46edc78673f0312fa6882a1c84388b5be214575a45b",
+      "target": "\"Cậu ta tới rồi, thế nào, cũng khá chứ hả?\" Gã đầu trọc xăm trổ đứng dậy.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    }
+  ],
+  "term_occurrences": [
+    {
+      "chapter_id": "chapter_0019",
+      "source_term": "浮戈城",
+      "target_term": "Phù Qua Thành",
+      "segment_id": "chapter_0019:seg_0018",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0019",
+      "source_term": "赤霄二中",
+      "target_term": "Xích Tiêu Nhị Trung",
+      "segment_id": "chapter_0019:seg_0018",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0019",
+      "source_term": "筑基期",
+      "target_term": "Trúc Cơ Kỳ",
+      "segment_id": "chapter_0019:seg_0018",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "level",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0019",
+      "source_term": "地下鬼市",
+      "target_term": "chợ quỷ ngầm",
+      "segment_id": "chapter_0019:seg_0035",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0019",
+      "source_term": "山寨强化药剂",
+      "target_term": "thuốc tăng cường hàng nhái",
+      "segment_id": "chapter_0019:seg_0006",
+      "present_in_target": false,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0019",
+      "source_term": "军道杀狼",
+      "target_term": "Quân Đạo Sát Lang",
+      "segment_id": "chapter_0019:seg_0001",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0019",
+      "source_term": "彭海",
+      "target_term": "Bành Hải",
+      "segment_id": "chapter_0019:seg_0018",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0019",
+      "source_term": "老教官",
+      "target_term": "Lão giáo quan",
+      "segment_id": "chapter_0019:seg_0019",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0019",
+      "source_term": "妖刀",
+      "target_term": "Yêu Đao",
+      "segment_id": "chapter_0019:seg_0018",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0019",
+      "source_term": "黑刃行动",
+      "target_term": "Chiến dịch Hắc Nhẫn",
+      "segment_id": "chapter_0019:seg_0022",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0019",
+      "source_term": "狼团",
+      "target_term": "Đoàn Sói",
+      "segment_id": "chapter_0019:seg_0023",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0019",
+      "source_term": "结丹",
+      "target_term": "Kết Đan",
+      "segment_id": "chapter_0019:seg_0024",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "level",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0019",
+      "source_term": "铁龟",
+      "target_term": "Thiết Quy",
+      "segment_id": "chapter_0019:seg_0035",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "character",
+      "confidence": 1.0
+    }
+  ],
+  "entity_mentions": [
+    {
+      "chapter_id": "chapter_0019",
+      "source_surface": "李耀",
+      "target_surface": "Lý Diệu",
+      "entity_type": "person",
+      "segment_id": "chapter_0019:seg_0005",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0019",
+      "source_surface": "彭海",
+      "target_surface": "Bành Hải",
+      "entity_type": "person",
+      "segment_id": "chapter_0019:seg_0018",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0019",
+      "source_surface": "赵馆长",
+      "target_surface": "Triệu quán chủ",
+      "entity_type": "person",
+      "segment_id": "chapter_0019:seg_0013",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0019",
+      "source_surface": "军道杀狼",
+      "target_surface": "Quân Đạo Sát Lang",
+      "entity_type": "factions",
+      "segment_id": "chapter_0019:seg_0001",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0019",
+      "source_surface": "狼团",
+      "target_surface": "Đoàn Sói",
+      "entity_type": "factions",
+      "segment_id": "chapter_0019:seg_0023",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0019",
+      "source_surface": "强化药剂",
+      "target_surface": "Dược chất cường hóa Linh Căn",
+      "entity_type": "cultivation_resources",
+      "segment_id": "chapter_0019:seg_0006",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0019",
+      "source_surface": "浮戈城",
+      "target_surface": "Phù Qua Thành",
+      "entity_type": "locations",
+      "segment_id": "chapter_0019:seg_0018",
+      "confidence": 1.0
+    }
+  ],
+  "name_analysis": {
+    "status": "ok",
+    "evidence_count": 3,
+    "name_mentions": [
+      {
+        "chapter_id": "chapter_0019",
+        "name_source": "李耀",
+        "name_target": "Lý Diệu",
+        "segment_id": "chapter_0019:seg_0005",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0019",
+        "name_source": "彭海",
+        "name_target": "Bành Hải",
+        "segment_id": "chapter_0019:seg_0018",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0019",
+        "name_source": "赵馆长",
+        "name_target": "Triệu quán chủ",
+        "segment_id": "chapter_0019:seg_0013",
+        "present_in_target": true,
+        "confidence": 1.0
+      }
+    ],
+    "name_entries": [
+      {
+        "name_source": "李耀",
+        "name_target": "Lý Diệu"
+      },
+      {
+        "name_source": "彭海",
+        "name_target": "Bành Hải"
+      },
+      {
+        "name_source": "赵馆长",
+        "name_target": "Triệu quán chủ"
+      }
+    ],
+    "transliteration_units": [],
+    "inferred_name_rules": [],
+    "ambiguity_cases": [],
+    "reusable_name_profile": {
+      "mapping_count": 3,
+      "has_ambiguity": false
+    }
+  },
   "phrase_patterns": [],
   "grammar_rule_candidates": [],
+  "analyzer_reports": {
+    "term_occurrences": {
+      "status": "ok",
+      "evidence_count": 13
+    },
+    "entity_mentions": {
+      "status": "ok",
+      "evidence_count": 7
+    },
+    "name_mentions": {
+      "status": "ok",
+      "evidence_count": 3
+    },
+    "phrase_patterns": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    },
+    "grammar_rule_candidates": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    }
+  },
+  "review_queue": [
+    {
+      "chapter_id": "chapter_0019",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "班族",
+        "entity_type": "person",
+        "count": 3,
+        "confidence": 0.7,
+        "evidence": [
+          "、循规蹈矩的学生和上班族。\n\n李耀看到“军道",
+          "悍，看样子都是普通上班族，不由松了一口气，更",
+          "员，都是正经八百的上班族、工薪阶层，又不是专"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0019",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "时间",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "真者，在这里纯熟浪费时间！”\n\n彭海一笑：“",
+          "你这里来，并不是浪费时间，而是进行非常重要的"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0019",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "李耀",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "的学生和上班族。\n\n李耀看到“军道杀狼修炼馆",
+          "得发白褪色。\n\n如果李耀看到此人，一定激动到"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0019",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "狼团",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "者级数，不得不离开‘狼团’……”\n\n光头纹身"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0019",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "妖刀彭海",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "的新贵，筑基期修士，妖刀彭海！\n\n此刻的彭海身上"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0019",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "所以只能到老教官你这里来修炼——在浮戈城",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "点，不想让别人知道，所以只能到老教官你这里来修炼——在浮戈城，我只相信两个人，老"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0019",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "筑基期巅峰",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "期高阶’，甚至冲击‘筑基期巅峰’境界，就必须彻底解"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0019",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "阿海",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "抓起茶缸，感慨道：“阿海，我知道你这小子重感"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0019",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0019:align_0001",
+        "segment_ids": [
+          "chapter_0019:seg_0001",
+          "chapter_0019:seg_0002"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0019",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0019:align_0013",
+        "segment_ids": [
+          "chapter_0019:seg_0014",
+          "chapter_0019:seg_0015"
+        ]
+      }
+    }
+  ],
   "quality_audit": {
     "segment_coverage": 1.0,
+    "source_hash_match": true,
+    "target_reconstruction_match": true,
+    "invalid_ref_count": 0,
     "locked_term_hit_rate": 1.0,
+    "missing_locked_terms": [],
     "cjk_residue_count": 0,
-    "paragraph_drift_ratio": 0.0,
+    "paragraph_drift_ratio": 0.05263157894736842,
     "pronoun_consistency_score": 1.0,
     "warnings": []
   }

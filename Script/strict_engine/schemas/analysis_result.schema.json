@@ -1,286 +1,178 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "Translation Analysis Result",
+  "title": "Strict Translation Analysis Result V2",
   "type": "object",
   "required": [
     "schema_version",
     "branch",
     "chapter",
+    "chapter_id",
+    "source_manifest_hash",
     "aligned_segments",
     "term_occurrences",
     "entity_mentions",
+    "name_analysis",
     "phrase_patterns",
     "grammar_rule_candidates",
+    "analyzer_reports",
+    "review_queue",
     "quality_audit"
   ],
   "properties": {
-    "schema_version": {
-      "type": "string",
-      "const": "1.0"
-    },
-    "branch": {
-      "type": "string"
-    },
-    "chapter": {
-      "type": "integer"
-    },
-    "aligned_segments": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "required": [
-          "seg_id",
-          "source",
-          "target",
-          "alignment_type"
-        ],
-        "properties": {
-          "seg_id": {
-            "type": "string"
-          },
-          "source": {
-            "type": "string"
-          },
-          "target": {
-            "type": "string"
-          },
-          "alignment_type": {
-            "enum": [
-              "1-to-1",
-              "1-to-many",
-              "many-to-1"
-            ]
-          },
-          "speaker": {
-            "type": "string"
-          },
-          "narrative_type": {
-            "enum": [
-              "narration",
-              "dialogue",
-              "inner_thought",
-              "description"
-            ]
-          }
-        }
-      }
-    },
-    "term_occurrences": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "required": [
-          "source_term",
-          "target_term",
-          "seg_id",
-          "is_locked",
-          "present_in_target"
-        ],
-        "properties": {
-          "source_term": {
-            "type": "string"
-          },
-          "target_term": {
-            "type": "string"
-          },
-          "seg_id": {
-            "type": "string"
-          },
-          "is_locked": {
-            "type": "boolean"
-          },
-          "present_in_target": {
-            "type": "boolean"
-          },
-          "category": {
-            "type": "string"
-          }
-        }
-      }
-    },
-    "entity_mentions": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "required": [
-          "source_surface",
-          "target_surface",
-          "entity_type",
-          "seg_id"
-        ],
-        "properties": {
-          "source_surface": {
-            "type": "string"
-          },
-          "target_surface": {
-            "type": "string"
-          },
-          "entity_type": {
-            "enum": [
-              "person",
-              "location",
-              "faction",
-              "item",
-              "technique",
-              "era",
-              "other"
-            ]
-          },
-          "seg_id": {
-            "type": "string"
-          },
-          "confidence": {
-            "type": "number"
-          }
-        }
-      }
-    },
-    "phrase_patterns": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "required": [
-          "source_pattern",
-          "target_pattern",
-          "frequency"
-        ],
-        "properties": {
-          "source_pattern": {
-            "type": "string"
-          },
-          "target_pattern": {
-            "type": "string"
-          },
-          "frequency": {
-            "type": "integer"
-          },
-          "examples": {
-            "type": "array",
-            "items": {
-              "type": "string"
-            }
-          }
-        }
-      }
-    },
-    "grammar_rule_candidates": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "required": [
-          "alias",
-          "desc",
-          "match_tok",
-          "operations",
-          "confidence"
-        ],
-        "properties": {
-          "alias": {
-            "type": "string"
-          },
-          "desc": {
-            "type": "string"
-          },
-          "rank": {
-            "type": "integer",
-            "minimum": 1,
-            "maximum": 5
-          },
-          "match_pos": {
-            "type": "array",
-            "items": {
-              "type": "string"
-            }
-          },
-          "match_tok": {
-            "type": "array",
-            "items": {
-              "type": "string"
-            }
-          },
-          "operations": {
-            "type": "array",
-            "items": {
-              "type": "object",
-              "required": [
-                "op"
-              ],
-              "properties": {
-                "op": {
-                  "enum": [
-                    "emit",
-                    "emit_override",
-                    "emit_literal",
-                    "insert",
-                    "drop"
-                  ]
-                },
-                "index": {
-                  "type": "integer"
-                },
-                "value": {
-                  "type": "string"
-                }
-              }
-            }
-          },
-          "confidence": {
-            "type": "number"
-          },
-          "evidence": {
-            "type": "array",
-            "items": {
-              "type": "string"
-            }
-          }
-        }
-      }
-    },
-    "quality_audit": {
-      "type": "object",
-      "required": [
-        "segment_coverage",
-        "locked_term_hit_rate",
-        "cjk_residue_count"
-      ],
-      "properties": {
-        "segment_coverage": {
-          "type": "number"
-        },
-        "locked_term_hit_rate": {
-          "type": "number"
-        },
-        "cjk_residue_count": {
-          "type": "integer"
-        },
-        "paragraph_drift_ratio": {
-          "type": "number"
-        },
-        "pronoun_consistency_score": {
-          "type": "number"
-        },
-        "warnings": {
-          "type": "array",
-          "items": {
-            "type": "string"
-          }
-        }
-      }
-    },
-    "name_analysis": {
-      "type": "object",
-      "properties": {
-        "name_mentions": {
-          "type": "array"
-        },
-        "transliteration_units": {
-          "type": "array"
-        },
-        "ambiguity_cases": {
-          "type": "array"
-        }
-      }
-    }
+    "schema_version": { "const": "2.0" },
+    "branch": { "type": "string" },
+    "chapter": { "type": "integer" },
+    "chapter_id": { "type": "string", "pattern": "^chapter_[0-9]{4}$" },
+    "source_manifest_hash": { "$ref": "#/definitions/hash" },
+    "aligned_segments": { "type": "array", "minItems": 1, "items": { "$ref": "#/definitions/alignedSegment" } },
+    "term_occurrences": { "type": "array", "items": { "$ref": "#/definitions/termOccurrence" } },
+    "entity_mentions": { "type": "array", "items": { "$ref": "#/definitions/entityMention" } },
+    "name_analysis": { "$ref": "#/definitions/nameAnalysis" },
+    "phrase_patterns": { "type": "array", "items": { "$ref": "#/definitions/patternCandidate" } },
+    "grammar_rule_candidates": { "type": "array", "items": { "$ref": "#/definitions/patternCandidate" } },
+    "analyzer_reports": { "$ref": "#/definitions/analyzerReports" },
+    "review_queue": { "type": "array", "items": { "$ref": "#/definitions/reviewItem" } },
+    "quality_audit": { "$ref": "#/definitions/qualityAudit" }
   },
-  "additionalProperties": false
+  "additionalProperties": false,
+  "definitions": {
+    "hash": { "type": "string", "pattern": "^[a-f0-9]{64}$" },
+    "segmentId": { "type": "string", "pattern": "^chapter_[0-9]{4}:seg_[0-9]{4}$" },
+    "alignedSegment": {
+      "type": "object",
+      "required": ["alignment_id", "chapter_id", "segment_ids", "source", "source_hash", "target", "narrative_type", "alignment_type"],
+      "properties": {
+        "alignment_id": { "type": "string" },
+        "chapter_id": { "type": "string" },
+        "segment_ids": { "type": "array", "minItems": 1, "uniqueItems": true, "items": { "$ref": "#/definitions/segmentId" } },
+        "source": { "type": "string" },
+        "source_hash": { "$ref": "#/definitions/hash" },
+        "target": { "type": "string", "minLength": 1 },
+        "narrative_type": { "enum": ["narration", "dialogue", "inner_thought", "description"] },
+        "alignment_type": { "enum": ["one_to_one", "merged_source", "merged_target", "grouped"] }
+      },
+      "additionalProperties": false
+    },
+    "termOccurrence": {
+      "type": "object",
+      "required": ["chapter_id", "source_term", "target_term", "segment_id", "present_in_target", "is_locked", "confidence"],
+      "properties": {
+        "chapter_id": { "type": "string" },
+        "source_term": { "type": "string" },
+        "target_term": { "type": "string" },
+        "segment_id": { "$ref": "#/definitions/segmentId" },
+        "present_in_target": { "type": "boolean" },
+        "is_locked": { "type": "boolean" },
+        "category": { "type": "string" },
+        "confidence": { "type": "number", "minimum": 0, "maximum": 1 }
+      },
+      "additionalProperties": false
+    },
+    "entityMention": {
+      "type": "object",
+      "required": ["chapter_id", "source_surface", "target_surface", "entity_type", "segment_id", "confidence"],
+      "properties": {
+        "chapter_id": { "type": "string" },
+        "source_surface": { "type": "string" },
+        "target_surface": { "type": "string" },
+        "entity_type": { "type": "string" },
+        "segment_id": { "$ref": "#/definitions/segmentId" },
+        "confidence": { "type": "number", "minimum": 0, "maximum": 1 }
+      },
+      "additionalProperties": false
+    },
+    "nameMention": {
+      "type": "object",
+      "required": ["chapter_id", "name_source", "name_target", "segment_id", "present_in_target", "confidence"],
+      "properties": {
+        "chapter_id": { "type": "string" },
+        "name_source": { "type": "string" },
+        "name_target": { "type": "string" },
+        "segment_id": { "$ref": "#/definitions/segmentId" },
+        "present_in_target": { "type": "boolean" },
+        "confidence": { "type": "number", "minimum": 0, "maximum": 1 }
+      },
+      "additionalProperties": false
+    },
+    "nameAnalysis": {
+      "type": "object",
+      "required": ["status", "evidence_count", "name_mentions", "name_entries", "transliteration_units", "inferred_name_rules", "ambiguity_cases", "reusable_name_profile"],
+      "properties": {
+        "status": { "enum": ["ok", "no_evidence"] },
+        "evidence_count": { "type": "integer", "minimum": 0 },
+        "name_mentions": { "type": "array", "items": { "$ref": "#/definitions/nameMention" } },
+        "name_entries": { "type": "array" },
+        "transliteration_units": { "type": "array" },
+        "inferred_name_rules": { "type": "array" },
+        "ambiguity_cases": { "type": "array" },
+        "reusable_name_profile": { "type": "object" }
+      },
+      "additionalProperties": false
+    },
+    "patternCandidate": {
+      "type": "object",
+      "required": ["chapter_id", "alias", "source_pattern", "target_pattern", "segment_ids", "confidence"],
+      "properties": {
+        "chapter_id": { "type": "string" },
+        "alias": { "type": "string" },
+        "source_pattern": { "type": "string" },
+        "target_pattern": { "type": "string" },
+        "segment_ids": { "type": "array", "minItems": 1, "uniqueItems": true, "items": { "$ref": "#/definitions/segmentId" } },
+        "confidence": { "type": "number", "minimum": 0, "maximum": 1 }
+      },
+      "additionalProperties": false
+    },
+    "analyzerReport": {
+      "type": "object",
+      "required": ["status", "evidence_count"],
+      "properties": {
+        "status": { "enum": ["ok", "no_evidence"] },
+        "evidence_count": { "type": "integer", "minimum": 0 }
+      },
+      "additionalProperties": false,
+      "if": { "properties": { "status": { "const": "no_evidence" } } },
+      "then": { "properties": { "evidence_count": { "const": 0 } } },
+      "else": { "properties": { "evidence_count": { "minimum": 1 } } }
+    },
+    "analyzerReports": {
+      "type": "object",
+      "required": ["term_occurrences", "entity_mentions", "name_mentions", "phrase_patterns", "grammar_rule_candidates"],
+      "properties": {
+        "term_occurrences": { "$ref": "#/definitions/analyzerReport" },
+        "entity_mentions": { "$ref": "#/definitions/analyzerReport" },
+        "name_mentions": { "$ref": "#/definitions/analyzerReport" },
+        "phrase_patterns": { "$ref": "#/definitions/analyzerReport" },
+        "grammar_rule_candidates": { "$ref": "#/definitions/analyzerReport" }
+      },
+      "additionalProperties": false
+    },
+    "reviewItem": {
+      "type": "object",
+      "required": ["chapter_id", "kind", "reason"],
+      "properties": {
+        "chapter_id": { "type": "string", "pattern": "^chapter_[0-9]{4}$" },
+        "kind": { "type": "string" },
+        "reason": { "type": "string" },
+        "payload": {}
+      },
+      "additionalProperties": false
+    },
+    "qualityAudit": {
+      "type": "object",
+      "required": ["segment_coverage", "source_hash_match", "target_reconstruction_match", "invalid_ref_count", "locked_term_hit_rate", "missing_locked_terms", "cjk_residue_count", "paragraph_drift_ratio", "pronoun_consistency_score", "warnings"],
+      "properties": {
+        "segment_coverage": { "type": "number", "minimum": 0, "maximum": 1 },
+        "source_hash_match": { "type": "boolean" },
+        "target_reconstruction_match": { "type": "boolean" },
+        "invalid_ref_count": { "type": "integer", "minimum": 0 },
+        "locked_term_hit_rate": { "type": "number", "minimum": 0, "maximum": 1 },
+        "missing_locked_terms": { "type": "array", "items": { "type": "string" } },
+        "cjk_residue_count": { "type": "integer", "minimum": 0 },
+        "paragraph_drift_ratio": { "type": "number", "minimum": 0 },
+        "pronoun_consistency_score": { "type": "number", "minimum": 0, "maximum": 1 },
+        "warnings": { "type": "array", "items": { "type": "string" } }
+      },
+      "additionalProperties": false
+    }
+  }
 }

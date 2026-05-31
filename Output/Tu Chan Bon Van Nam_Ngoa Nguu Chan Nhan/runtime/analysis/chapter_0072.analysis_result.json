@@ -1,0 +1,1022 @@
+{
+  "schema_version": "2.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 72,
+  "chapter_id": "chapter_0072",
+  "source_manifest_hash": "2a7a0afbdd245c466ee3839974ba14ec8c554abb106c41161f7ab9b7d8ae1193",
+  "aligned_segments": [
+    {
+      "alignment_id": "chapter_0072:align_0001",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0001"
+      ],
+      "source": "# 72.第72章 蜥蜴变暴龙",
+      "source_hash": "7e6c1005db42d3a6a4b5e69766a8bb2b9920e871e6e699566c383241b695123c",
+      "target": "# Chương 0072 - Thằn Lằn Hóa Khủng Long Bạo Chúa!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0002",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0002"
+      ],
+      "source": "整整一天，李耀都在医院里接受全面的身体检查。",
+      "source_hash": "2e8149c2de93e39dc01d8d9b4c5c066fc9e01d9d27b6b5081b9ae18038a11b01",
+      "target": "Cả một ngày trời, Lý Diệu đều ở trong bệnh viện tiếp nhận kiểm tra sức khỏe toàn diện.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0003",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0003"
+      ],
+      "source": "他也不知道医生们往自己身上贴了多少道灵符，又把他塞进十七八种奇奇怪怪的仪器，还有四个号称专修精神力量的冥修师妄图将他催眠，窥探他的脑域。",
+      "source_hash": "a640ff78e4300fb544c4bb9fe214da7036057be337375456b27e4acc517ce046",
+      "target": "Cậu cũng không biết các bác sĩ đã dán bao nhiêu đạo linh bùa lên người mình, lại nhét cậu vào mười bảy mười tám loại thiết bị kỳ quái, còn có bốn vị Minh Tu Sư xưng là chuyên tu tinh thần lực ý đồ thôi miên cậu để nhìn trộm vùng não của cậu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0004",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0004"
+      ],
+      "source": "李耀的脑域经过欧冶子强大神魂的开拓，变得无比辽阔，四名冥修师折腾了半天也没窥探出个所以然，作出结论——因为灵根撕裂，李耀已经失去了大部分正常人应该有的脑波反应。",
+      "source_hash": "f93bf2a56849ca9b1720d557155ed6844fb2dd5a894aa262ace9baded6f9f8e6",
+      "target": "Vùng não của Lý Diệu sau khi được thần hồn cường đại của Âu Dã Tử khai phá đã trở nên vô cùng bao la, bốn vị Minh Tu Sư loay hoay nửa ngày trời cũng không dò xét ra được đầu đuôi manh mối gì, đành đưa ra kết luận——bởi vì linh căn bị xé rách, Lý Diệu đã mất đi hầu hết phản ứng sóng não mà một người bình thường nên có.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0005",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0005"
+      ],
+      "source": "总之，一直折腾到下午两三点钟，浮戈城第一医院出具了诊断报告——李耀的身体并无大碍，只是因为昏迷一个月，各个器官都十分虚弱，恐怕要经过半年到一年的康复，身体机能才会恢复正常。",
+      "source_hash": "ed5e3b28062f46a0f90a2b1f31d9bc43b25ef191777ca380f3dcca7a002590be",
+      "target": "Nói chung, loay hoay mãi cho đến hai ba giờ chiều, Bệnh viện số một Phù Qua Thành mới đưa ra báo cáo chẩn đoán——thân thể Lý Diệu không có gì đáng ngại, chỉ là do hôn mê suốt một tháng nên các cơ quan đều vô cùng yếu ớt, e là phải trải qua nửa năm đến một năm phục hồi chức năng thì cơ năng cơ thể mới trở lại bình thường.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0006",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0006"
+      ],
+      "source": "李耀却知道，这是因为吞噬了欧冶子的记忆碎片，消耗了太多能量所致。",
+      "source_hash": "9e2d18c032a0814852e68bed75706c6ac7436ecd8abb3f2b2e20ba3154d60fe9",
+      "target": "Thế nhưng Lý Diệu lại biết rõ, đây là vì nuốt chửng các mảnh vỡ ký ức của Âu Dã Tử tiêu hao quá nhiều năng lượng gây ra.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0007",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0007"
+      ],
+      "source": "只要他用《鲸吞大法》吃下几吨食物，三五天就能恢复正常。",
+      "source_hash": "c31f59975649432651988e68ce2426bc04a060740a3d511a772bd1d1d0068c55",
+      "target": "Chỉ cần cậu vận dụng 《Kình Thôn Đại Pháp》 ăn vào vài tấn thức ăn, ba năm ngày là có thể khôi phục bình thường.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0008",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0008"
+      ],
+      "source": "什么一年半载，简直是开玩笑。",
+      "source_hash": "068dc0d5163146ea3a8978bff9b20e972a5036cbc6ad1085865c65fcb7745798",
+      "target": "Phục hồi nửa năm một năm cái gì chứ, đúng là trò đùa.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0009",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0009"
+      ],
+      "source": "随后，就有一名白大褂神色凝重地来到他的病床前，用一种便秘了好几年的痛苦表情向他解释，因为被一头注射了兴奋剂产生变异的巨目猿攻击，他的灵根彻底撕裂，灵根开发度跌得连爹妈都不认识，只剩下7%，估计这辈子就要和修炼说再见了。",
+      "source_hash": "da5d244b107c698cb81337a8463ba9d71104f5ecd4b75ae085f313356e61e292",
+      "target": "Sau đó, một vị bác sĩ mặc áo blouse trắng nét mặt nghiêm trọng đi tới trước giường bệnh của cậu, dùng vẻ mặt đau khổ như thể bị táo bón suốt mấy năm trời giải thích với cậu rằng, bởi vì bị một con Vượn Khổng Nhãn tiêm chất kích thích dẫn đến biến dị tấn công, linh căn của cậu đã hoàn toàn xé rách, độ khai phát linh căn tụt xuống thảm hại không còn nhận ra nổi, chỉ còn lại 7%, phỏng chừng kiếp này phải nói lời tạm biệt với việc tu luyện rồi.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0010",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0010"
+      ],
+      "source": "即便如此，还是希望他能重新鼓起生命的勇气，身残志坚，不要放弃希望，等等等等。",
+      "source_hash": "731265d17a26e081993806d9adf4276adc6c6535484b929f8c11d8cad3dc55f0",
+      "target": "Dù vậy, vẫn hy vọng cậu có thể một lần nữa vực dậy dũng khí sống tiếp, tàn nhưng không phế, đừng Từ Bỏ hy vọng, vân vân và vân vân.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0011",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0011"
+      ],
+      "source": "仔细浏览着诊断报告，对比一张又一张的脑域扫描图，李耀将大幅增强的计算力提升到了极限，心思电转，飞速推测着前因后果。",
+      "source_hash": "891438f92608df2bdd35c37298a0ba44a01ab68dca97640780b4b29e0769c1cf",
+      "target": "Chăm chú xem xét báo cáo chẩn đoán, đối chiếu từng tấm ảnh chụp quét vùng não, Lý Diệu nâng cao khả năng tính toán đã được tăng cường mạnh mẽ lên tới cực hạn, đầu óc xoay chuyển nhanh nhạy, nhanh chóng suy đoán nguyên nhân hậu quả.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0012",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0012"
+      ],
+      "source": "很快，他双眼闪闪发亮，想到了一个可能。",
+      "source_hash": "9650a84a17b45fc0dd4c1dabc2c51a13b22b7638e781d532a0e27c19ada55d58",
+      "target": "Rất nhanh, hai mắt cậu sáng rực lên, nghĩ đến một khả năng.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0013",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0013"
+      ],
+      "source": "“我大概猜到，为什么我的松果体会突然撕裂，灵根开发度又跌到谷底了！”",
+      "source_hash": "12826528fe34679196db6a671161666c099cf6933bc3c473968d0c8cbae8c171",
+      "target": "“Mình đại khái đã đoán được tại sao tuyến tùng của mình lại đột ngột bị xé rách, độ khai phát linh căn lại rớt xuống đáy vực rồi!”",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0014",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0014"
+      ],
+      "source": "“倘若有一个一米八高，一百斤重的瘦子，因为某种诡异的原因，在短短一天之内，膨胀成了三百斤重，两米五高，肌肉贲张到极致的超级壮汉——他的皮肤、肌肉、血管和骨骼，肯定承受不住，会一次又一次地撕裂，来跟上身体成长的速度！”",
+      "source_hash": "f25dc5d66a98caefadbc238f77749630853f85e99def3f6148f6e03f1d8134da",
+      "target": "“Nếu như có một gã gầy gò cao một mét tám, nặng một trăm cân, vì một nguyên nhân quỷ dị nào đó mà trong vòng một ngày ngắn ngủi đã phình to thành một gã siêu tráng sĩ nặng ba trăm cân, cao hai mét rưỡi, cơ bắp căng phồng tới cực điểm——lớp da, cơ bắp, huyết quan và xương cốt của gã chắc chắn sẽ không chịu đựng nổi, sẽ phải xé rách hết lần này đến lần khác để theo kịp tốc độ phát triển của cơ thể!”",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0015",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0015"
+      ],
+      "source": "“每一次撕裂，他都变得更强壮一分！”",
+      "source_hash": "eaa4f471c75dafbf76eef1b0a5c984f6617a9b1cae2bc0bced7d9be410e3c96b",
+      "target": "“Mỗi một lần xé rách, gã lại trở nên cường tráng hơn một phần!”",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0016",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0016"
+      ],
+      "source": "“而我的神魂吞噬了大量欧冶子的记忆碎片，以无比疯狂的速度成长，何止是一百斤的瘦子变成三百斤超级壮汉那么简单？”",
+      "source_hash": "ecd191a98a14aa41990988c2c02d9c0b3fb534c1bc1e1d1fc029bc2daed1a172",
+      "target": "“Mà thần hồn của mình nuốt chửng một lượng lớn mảnh vỡ ký ức của Âu Dã Tử, sinh trưởng với tốc độ điên cuồng vô tỷ, nào chỉ đơn giản là gã gầy nặng một trăm cân biến thành siêu tráng sĩ nặng ba trăm cân?”",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0017",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0017"
+      ],
+      "source": "“我的神魂，简直是从一条小蜥蜴，变成了史前暴龙啊！”",
+      "source_hash": "16030ba8c3ca3d03eb3228adbd7efe7eb1e4cfea068aba96e6c39f8eb89ef7a4",
+      "target": "“Thần hồn của mình, quả thực là từ một con thằn lằn nhỏ hóa thành khủng long bạo chúa thời tiền sử!”",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0018",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0018"
+      ],
+      "source": "“因为神魂壮大太快，松果体无法跟上神魂壮大的速度，只能一次又一次地撕裂了！”",
+      "source_hash": "a05dd6ea9ae02963ea6f7f92c16c1a1bcf127cfbe61f05d73c57e6b20919a227",
+      "target": "“Bởi vì thần hồn lớn mạnh quá nhanh, tuyến tùng không thể theo kịp tốc độ lớn mạnh của thần hồn, nên chỉ có thể bị xé rách hết lần này đến lần khác!”",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0019",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0019"
+      ],
+      "source": "“而这条‘小蜥蜴’刚刚变成‘史前暴龙’之时，周身肌肉和皮肤撕裂，看上去鲜血淋漓，在没有吞噬大量猎物之前，自然显得‘虚弱无比’，乍一看，就像是身受重伤，奄奄一息啊！”",
+      "source_hash": "5ad8cfc33745f5254904a97ff9cf29acb637933cc57071d0c894911823d86464",
+      "target": "“Mà con ‘thằn lằn nhỏ’ này ngay khi vừa biến thành ‘khủng long bạo chúa thời tiền sử’, cơ bắp và da thịt toàn thân xé rách trông đầm đìa máu tươi, trước khi nuốt chửng lượng lớn con mồi thì tự nhiên sẽ lộ ra vẻ ‘yếu ớt vô cùng’, thoạt nhìn giống như bị thương nặng, hơi thở thoi thóp vậy!”",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0020",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0020"
+      ],
+      "source": "“可是只要给我找到足够的‘猎物’……”",
+      "source_hash": "130b4ea6c1ec868eb9fa2b6bcf28604dc837a64b1586b5c2c38a81d2286d061e",
+      "target": "“Thế nhưng chỉ cần cho mình tìm được đầy đủ ‘con mồi’...”",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0021",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0021"
+      ],
+      "source": "李耀眼中闪烁着妖异的星芒，嘴角勾起了一抹略显凶残的弧度。",
+      "source_hash": "5d1c78112a47b940e970a519ea0b9d09acd13b2cc17d04b9bfa11f6d966146ba",
+      "target": "Trong mắt Lý Diệu lóe lên những tia tinh mang yêu dị, khóe miệng khẽ cong lên một độ cong hơi phần tàn nhẫn.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0022",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0022"
+      ],
+      "source": "“所以，别人都以为我身受重伤，弱到极点，变成废物！”",
+      "source_hash": "31c3db850a3dd523bedffea9c36fffd367300667a28b0fafa9254e52847dfcbb",
+      "target": "“Cho nên, mọi người đều tưởng mình bị thương nặng, yếu đến cực điểm, biến thành phế vật!”",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0023",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0023"
+      ],
+      "source": "“却没人知道，我并不是弱，而是……强到连自己的身体都承受不住啊！”",
+      "source_hash": "b3d0c5bf0ce0f0cbcd745590e23207773d9b8cede5055a6c4bafd061bdc4c84e",
+      "target": "“But không ai biết được, mình không phải là yếu, mà là... mạnh đến mức ngay cả cơ thể của chính mình cũng không chịu đựng nổi!”",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0024",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0024"
+      ],
+      "source": "李耀略显诡异的笑容，看在白大褂眼中，却有些呆呆傻傻。",
+      "source_hash": "5225a2bffb400e5867f9936ffa7cb52098297ef27634fc0921f35c774a8adf9e",
+      "target": "Nụ cười có phần quỷ dị của Lý Diệu dưới mắt vị bác sĩ mặc áo blouse trắng lại có chút ngơ ngác khờ khạo.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0025",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0025"
+      ],
+      "source": "顾医生还以为他惊闻噩耗，一时间无法接受——这也很正常，哪一个修炼天才能一下子接受自己变成废物的事实？",
+      "source_hash": "faad138154617d201792aacb243955c6555fa20608ff72a5e809eb6686823f8a",
+      "target": "Bác sĩ Cố còn tưởng cậu đột ngột nghe tin dữ nên nhất thời không thể tiếp nhận nổi——điều này cũng rất bình thường, có thiên tài tu luyện nào lại có thể lập tức chấp nhận sự thật bản thân biến thành phế vật chứ?",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0026",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0026"
+      ],
+      "source": "这也不是只言片语就能安慰得了的，只希望时间能慢慢平复这位“妖星”心中的创伤了。",
+      "source_hash": "216bec093388f8fdb2fa00de339eb4738917b2460eb4f12adc48b9e6f44812df",
+      "target": "Đây cũng không phải là vài câu ba chữ có thể an ủi được, chỉ hy vọng thời gian có thể từ từ xoa dịu vết thương lòng của “Yêu Tinh” này.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0027",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0027"
+      ],
+      "source": "顾医生叹了口气，拍了拍李耀的肩膀，离开了病房。",
+      "source_hash": "cb7811d7705c3b564cdab9a1557aa1cd409d36c8e8caae35db46362014101713",
+      "target": "Bác sĩ Cố thở dài một tiếng, vỗ vỗ vai Lý Diệu rồi bước ra khỏi phòng bệnh.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0028",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0028"
+      ],
+      "source": "片刻后，门外响起了斩钉截铁的脚步声，就像是两柄大铁锤交替砸在地上。",
+      "source_hash": "57f64dd389c398c6413d2e76661fa27ea822a46056b7c8f65b20b40242ecbf05",
+      "target": "Một lát sau, ngoài cửa vang lên tiếng bước chân vang dội dứt khoát, giống như hai chiếc búa sắt lớn luân phiên nện xuống đất.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0029",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0029"
+      ],
+      "source": "“踏！踏！踏！踏！”",
+      "source_hash": "e5c812d8269ad70fd4fe5affa21babfc768085ad848b8f9b140e9ff0f7ba18e3",
+      "target": "“Kịch! Kịch! Kịch! Kịch!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0030",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0030"
+      ],
+      "source": "一名身穿黑色军装的中年军人大步进来。",
+      "source_hash": "86a1430fc36844765ebf4767a49fecf5b0eee5cebd93b9a71a69c370a85bc32d",
+      "target": "Một quân nhân trung niên mặc quân phục màu đen sải bước đi vào.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0031",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0031"
+      ],
+      "source": "“一名退伍老兵，来干什么？”李耀有些奇怪。",
+      "source_hash": "dc1dc3e2b3d9f0733ad6d5ef5e773d36eefa75cfc2ce249090980aa170b7f4f3",
+      "target": "“Một cựu chiến binh xuất ngũ, đến đây làm gì nhỉ?” Lý Diệu có chút kỳ lạ.",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0032",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0032"
+      ],
+      "source": "这名中年军人穿着一身笔挺的黑色军服，只是肩膀上没有军衔，一看就是退伍兵的标准打扮。",
+      "source_hash": "66afab831d140224d8c4b7a471a6af6e4cc2af175f664fceae552cedc353ff6f",
+      "target": "Vị quân nhân trung niên này mặc một bộ quân phục màu đen phẳng phiu, chỉ là trên vai không có quân hàm, nhìn qua là biết trang phục tiêu chuẩn của binh sĩ xuất ngũ.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0033",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0033"
+      ],
+      "source": "此人身上有多处伤残，左手和左脚都是灵械义肢，连左眼都是用玉石雕琢的，在“眼球”上还密密麻麻镌刻着上百道灵符，组成一圈圈的符阵，微微散发着红光，看着有些瘆人。",
+      "source_hash": "d6845a870418854d98168d2cbe72111dcf53aa07ba5207c308966c06aa2ec647",
+      "target": "Người này trên người có nhiều chỗ thương tật, tay trái và chân trái đều là chi giả linh giới, ngay cả mắt trái cũng được điêu khắc bằng ngọc thạch, trên “nhãn cầu” còn khắc chi chít hàng trăm đạo linh phù tạo thành từng vòng trận pháp phù văn, khẽ tỏa ra ánh đỏ, trông có phần rợn người.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0034",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0034"
+      ],
+      "source": "“李耀同学，我代表‘联邦伤残军人协会’前来，宣布联邦对你的赔偿！”",
+      "source_hash": "4101a6232766d573661655054d1358026d7909f9c9c1e3ad51f435d38482683b",
+      "target": "“Em Lý Diệu, tôi đại diện cho ‘Hiệp hội Thương binh Liên bang’ đến đây tuyên bố mức bồi thường của Liên bang dành cho em!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0035",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0035"
+      ],
+      "source": "伤残军人双腿并拢，“啪”一个立正，给李耀敬了个标准的联邦军礼。",
+      "source_hash": "60bcb501f71d1d7a8e2ce7eed98480299f0d43f787f95a27b1a71eef9e0f2cb9",
+      "target": "Người thương binh khép chặt hai chân, “bạch” một tiếng nghiêm trang đứng thẳng, thực hiện một nghi thức chào quân đội tiêu chuẩn của Liên bang hướng về phía Lý Diệu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0036",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0036"
+      ],
+      "source": "“赔偿？”",
+      "source_hash": "d7e05aef118a191cba4ba4c80e40e2b00063e3c88f34e8fd9824abb5f9740b10",
+      "target": "“Bồi thường?”",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0037",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0037"
+      ],
+      "source": "李耀一愣，随即反应过来。",
+      "source_hash": "1f0451bb35684793ba64ab273857508a7204b174bf22dd4ee8a66daa0b3b0d19",
+      "target": "Lý Diệu ngẩn ra, ngay sau đó phản ứng lại.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0038",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0038"
+      ],
+      "source": "虽然他知道自己并没有受伤，根本不是废物，但别人并不知道这一点。",
+      "source_hash": "c7690cd87f8fad2a08b4994e1014b3e92890cc3f87fab80c6e1b5f3c4518cb55",
+      "target": "Mặc dù cậu biết bản thân không hề bị thương, căn bản không phải là phế vật, nhưng người khác lại không biết điều này.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0039",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0039"
+      ],
+      "source": "极限挑战赛是由联邦军来主办的，现在出了意外，导致众多参赛者伤亡，军方当然会给出一定的补偿了。",
+      "source_hash": "93fcc138312a35ff30a589ec480ad975d50583fc95577def3e8605ea01b27fce",
+      "target": "Giải đấu Thử thách Cực hạn là do Quân đội Liên bang đứng ra tổ chức, hiện tại xảy ra sự cố ngoài ý muốn khiến nhiều thí sinh thương vong, quân đội đương nhiên phải đưa ra mức bù đắp nhất định.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0040",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0040"
+      ],
+      "source": "而且，这次意外是因为选手违规携带兴奋剂入场造成的，赛事主办方没能提前查出兴奋剂，说起来也算是军方的疏忽。",
+      "source_hash": "09626ea520ede6d45271e7b1491fbc9dbc59f24f0dc593834f734228d05235c1",
+      "target": "Hơn nữa, tai nạn lần này là do thí sinh vi phạm quy định mang chất kích thích vào trường thi gây ra, ban tổ chức giải đấu không thể phát hiện ra chất kích thích từ trước, nói đi cũng phải nói lại thì đây cũng được coi là sự sơ suất của phía quân đội.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0041",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0041"
+      ],
+      "source": "所以，为了弥补过失，这份“补偿”一定少不了，说不定还是天文数字呢！",
+      "source_hash": "097a5abe542fded5ef33c5d0b755cfd25db10260aff1caa31262f2725bdfcf21",
+      "target": "Vì vậy, để bù đắp cho sai sót này, khoản “bồi thường” kia chắc chắn sẽ không hề nhỏ, biết đâu còn là một con số trên trời ấy chứ!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0042",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0042"
+      ],
+      "source": "通过伤残军人的介绍，李耀发现自己没有猜错，魔蛟岛的意外已经进入了军方最高层的视野。",
+      "source_hash": "e2fb63219369c357e66b272b8a38541a4659a3d7ba09f8d24ce1ab26e4842ab2",
+      "target": "Qua lời giới thiệu của người thương binh, Lý Diệu phát hiện mình không hề đoán sai, tai nạn ở Đảo Ma Giao quả thực đã lọt vào tầm mắt của tầng lớp cao nhất trong quân đội.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0043",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0043"
+      ],
+      "source": "除了追查罪魁祸首之外，最重要就是如何对伤亡学生做出补偿。",
+      "source_hash": "d835ded4a8413ca86779c46dfb133f1791ce3afa3efad83d1e592a89b5b4569f",
+      "target": "Ngoại trừ việc truy tìm thủ phạm đứng sau, điều quan trọng nhất chính là làm thế nào để bồi thường cho những học sinh thương vong.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0044",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0044"
+      ],
+      "source": "意外身亡的学生倒是好办，全都按照联邦军士官的牺牲标准来抚恤和赔偿。",
+      "source_hash": "3c67d35d586f4ce85e70f376ccdaca8653a2f6e949bf05abe498b122a1170b3c",
+      "target": "Học sinh không may tử nạn thì dễ giải quyết, tất cả đều được hưởng chế độ tuẫn chức và bồi thường theo tiêu chuẩn sĩ quan của Quân đội Liên bang.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0045",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0045"
+      ],
+      "source": "可是对李耀这名伤者，事情就有些纠结了。",
+      "source_hash": "d65708d0718fd85b3027c1c5a68e2a2ac877708ead74b53108289a27744d4149",
+      "target": "Thế nhưng đối với người bị thương như Lý Diệu, sự việc lại có chút rắc rối đau đầu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0046",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0046"
+      ],
+      "source": "因为他的伤说轻不轻，说重不重。",
+      "source_hash": "e9719a886dd698ce922a325e6b555b786ca22698ba392914a65f4c9d611e6759",
+      "target": "Bởi vì thương thế của cậu nói nhẹ không nhẹ, nói nặng không nặng.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0047",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0047"
+      ],
+      "source": "往轻里说，他浑身上下没掉半根毛，修养个一年半载就是正常人，照样活蹦乱跳。",
+      "source_hash": "89ffe89cfe59a28baefbb94ddf1352f499824e0c225cd192684a1f8d449f9498",
+      "target": "Nói nhẹ thì cậu không hề sứt mẻ một sợi lông nào, tĩnh dưỡng chừng nửa năm một năm là có thể như người bình thường, vẫn sống sinh động nhảy nhót tung tăng.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0048",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0048"
+      ],
+      "source": "可是往重里说，他原本是一名修炼天才，假以时日，很有可能成为前途无量的修真者，却因为这一场意外，彻底断送了修炼的希望。",
+      "source_hash": "03b446c552b1916eba5c4bddf5ed6c4f35c39987aa98b0e56cecd3fb12e61dbd",
+      "target": "Nhưng nói nặng thì cậu vốn là một thiên tài tu luyện, cho thêm thời gian rất có khả năng trở thành một Tu Chân Giả tiền đồ vô lượng, vậy mà lại vì tai nạn này mà hoàn toàn chôn vùi hy vọng tu luyện.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0049",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0049"
+      ],
+      "source": "对不少痴迷于修炼的人来说，受这种伤，还不如死了算了。",
+      "source_hash": "bc917761013a4818c29a9a3040e85e3a2ea41633c2b4d71d8c5cc76aa667d31a",
+      "target": "Đối với không ít người đam mê tu luyện đến mức cuồng nhiệt mà nói, chịu loại thương thế này thà chết đi cho xong.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0050",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0050"
+      ],
+      "source": "两种意见争执不下，最后，据说军方高层都观看了李耀在魔蛟岛上的战斗视频。",
+      "source_hash": "bdb7ef61cd6be3eb3373c0c0ee4be705f283f64762875c4101d8fff2b871a150",
+      "target": "Hai luồng ý kiến tranh chấp không thôi, cuối cùng nghe nói tầng lớp cao cấp trong quân đội đều đã xem video chiến đấu của Lý Diệu trên Đảo Ma Giao.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0051",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0051"
+      ],
+      "source": "或许是被他的精彩表现所打动，最终对他的赔偿，将以“联邦一级伤残军人”标准来执行。",
+      "source_hash": "e82ae52da11e232c6cca98e6fd5ea949e26c9d08c97f62e5d233d27a3cf889c9",
+      "target": "Có lẽ là bị lay động trước biểu hiện xuất sắc của cậu, mức bồi thường cuối cùng dành cho cậu sẽ được thực hiện theo tiêu chuẩn “Thương binh cấp một Liên bang”.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0052",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0052"
+      ],
+      "source": "“联邦一级伤残军人！”",
+      "source_hash": "2da586ff69727820ba3036ad95405974d8043e8e43b03a275f5ca707f480ba4a",
+      "target": "“Thương binh cấp một Liên bang!”",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0053",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0053"
+      ],
+      "source": "尽管有心理准备，李耀还是被这个高到离谱的标准震撼了。",
+      "source_hash": "338cf9627d40df95126a7720fea26355501fd9b943cc22d464c70c5dff4ba1ba",
+      "target": "Dù đã có chuẩn bị tâm lý trước, Lý Diệu vẫn bị tiêu chuẩn cao đến mức vô lý này làm cho chấn động.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0054",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0054"
+      ],
+      "source": "星耀联邦，常年面对妖兽侵袭，血战五百年，战火从未彻底平息，军人的地位十分崇高。",
+      "source_hash": "de82fe55735b69a327a676cecd0cf9b15305a948eaca4e0c9a538117b19ae174",
+      "target": "Tinh Diệu Liên bang quanh năm đối mặt với sự xâm lăng của yêu thú, huyết chiến suốt năm trăm năm, khói lửa chiến tranh chưa từng tắt hẳn, địa vị của quân nhân vô cùng cao quý.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0055",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0055"
+      ],
+      "source": "正是依靠无数联邦军人在前线抛头颅，洒热血，抵抗源源不绝的妖兽，才有了后方民众安宁祥和的生活。",
+      "source_hash": "0f8e338878e0edf2fcaac38ec8737ef09c8fa303fe13f40142d570875eaee928",
+      "target": "Chính nhờ vào việc vô số quân nhân Liên bang nơi tiền tuyến đầu rơi máu chảy, chống chọi với làn sóng yêu thú ùn ùn không dứt, mới có được cuộc sống an bình hòa thuận của người dân phía hậu phương.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0056",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0056"
+      ],
+      "source": "所以，普通人对军人，都十分尊敬、爱戴、崇拜！",
+      "source_hash": "daddd4a15a8efbc081838553e8e2f87877e8f42a37ce2232a482e7c71f7cb3db",
+      "target": "Cho nên, người bình thường đối với quân nhân đều vô cùng tôn kính, yêu mến và sùng bái!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0057",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0057"
+      ],
+      "source": "而军人之中，为国捐躯者自不必说，在战争中身受重伤的伤残军人，同样受到社会的尊崇！",
+      "source_hash": "469b215c9a7ea9286a587f1db08132061c8aa03aa8071d93a04fb09c1d608c8d",
+      "target": "Mà trong hàng ngũ quân nhân, những người hy sinh vì tổ quốc thì không cần bàn cãi, còn thương binh bị thương nặng trong chiến tranh cũng nhận được sự kính trọng tương tự từ xã hội!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0058",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0058"
+      ],
+      "source": "伤残军人一共分为四级。",
+      "source_hash": "28070bf82bcd7d003e15bc0c3600f3964c5227b334ee595dbed2236d93b44652",
+      "target": "Thương binh được chia làm bốn cấp bậc.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0059",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0059"
+      ],
+      "source": "“联邦一级伤残军人”，是仅次于“特级伤残”之后的第二等级，基本上都要像眼前这名军人一样，少了一只手一只脚，再加上一只眼睛，才算是“一级伤残”！",
+      "source_hash": "e4dd5d81b716a8154537d6cb9f6e2db0012a018102fcc68e6be72ae36c12ac84",
+      "target": "“Thương binh cấp một Liên bang” là cấp bậc thứ hai chỉ đứng sau “Thương binh đặc cấp”, cơ bản đều phải giống như vị quân nhân trước mắt này, mất đi một tay một chân, cộng thêm một con mắt mới được tính là “thương tật cấp một”!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0060",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0060"
+      ],
+      "source": "退伍之后，不但国家每个月都会发放高额的补贴，而且所有的公共设施，诸如“地下晶轨列车”，“超高速晶轨列车”，“公共浮空艇”等等，全都终身免费！",
+      "source_hash": "ad235b8b3d42fd36ea1c02cb42b2712df176c16e8c916d6ded842bd58db927ce",
+      "target": "Sau khi giải ngũ, không những mỗi tháng quốc gia đều phát trợ cấp cao ngất ngưởng, mà tất cả các công trình công cộng như “tàu tinh quỹ ngầm”, “tàu tốc hành tinh quỹ siêu tốc”, “thuyền bay công cộng”, vân vân, thảy đều được miễn phí trọn đời!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0061",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0061"
+      ],
+      "source": "除此之外，绝大部分民间的饭馆、餐厅、旅社、商店，都会针对伤残军人，打出不同的折扣。",
+      "source_hash": "090932eb2f1bd1aacda661408dcd8431118c4d66edba632832f876f989f24c8c",
+      "target": "Bên cạnh đó, hầu hết các quán ăn, nhà hàng, nhà nghỉ, cửa tiệm dân gian đều áp dụng các chính sách giảm giá khác nhau dành cho thương binh.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0062",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0062"
+      ],
+      "source": "倘若得知一名“一级伤残军人”在自己店里消费，说不定直接大手一挥，一分钱都不收，也很常见。",
+      "source_hash": "e862d6c973e2ca81fab4435bf2f1f3b30fbcd103f534711eb05cac59123bc0d7",
+      "target": "If biết được một vị “Thương binh cấp một” đến tiêu dùng tại cửa hàng của mình, việc chủ quán hào phóng xua tay không lấy một đồng nào cũng là chuyện thường thấy.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0072:align_0063",
+      "chapter_id": "chapter_0072",
+      "segment_ids": [
+        "chapter_0072:seg_0063"
+      ],
+      "source": "星耀联邦，正是靠着前线将士悍不畏死的拼杀，以及后方民众的这种尚武、拥军、崇拜强者的精神，才能够在妖兽肆虐的天元界生存下来，不断发展壮大，成为超一流霸权！",
+      "source_hash": "37347380b6f0653ee44d8f82851e0901ebd0731fd9f99c63c79e66d32607bd9a",
+      "target": "Tinh Diệu Liên bang chính là nhờ vào tinh thần chiến đấu không sợ chết của binh sĩ tiền tuyến, cùng với tinh thần thượng võ, ủng hộ quân đội, sùng bái kẻ mạnh này của nhân dân hậu phương, mới có thể sinh tồn được giữa Thiên Nguyên Giới đầy rẫy yêu thú tàn phá, không ngừng phát triển lớn mạnh, trở thành bá chủ siêu cấp!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    }
+  ],
+  "term_occurrences": [
+    {
+      "chapter_id": "chapter_0072",
+      "source_term": "浮戈城",
+      "target_term": "Phù Qua Thành",
+      "segment_id": "chapter_0072:seg_0005",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0072",
+      "source_term": "联邦军",
+      "target_term": "Quân đội Liên bang",
+      "segment_id": "chapter_0072:seg_0035",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0072",
+      "source_term": "灵根",
+      "target_term": "Linh căn",
+      "segment_id": "chapter_0072:seg_0004",
+      "present_in_target": false,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0072",
+      "source_term": "松果体",
+      "target_term": "tuyến tùng",
+      "segment_id": "chapter_0072:seg_0013",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0072",
+      "source_term": "灵根开发度",
+      "target_term": "độ khai phát linh căn",
+      "segment_id": "chapter_0072:seg_0009",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0072",
+      "source_term": "超高速晶轨列车",
+      "target_term": "tàu tốc hành tinh quỹ siêu tốc",
+      "segment_id": "chapter_0072:seg_0060",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0072",
+      "source_term": "鲸吞大法",
+      "target_term": "Kình Thôn Đại Pháp",
+      "segment_id": "chapter_0072:seg_0007",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "technique",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0072",
+      "source_term": "放弃",
+      "target_term": "Từ Bỏ",
+      "segment_id": "chapter_0072:seg_0010",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0072",
+      "source_term": "魔蛟岛",
+      "target_term": "Đảo Ma Giao",
+      "segment_id": "chapter_0072:seg_0042",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0072",
+      "source_term": "巨目猿",
+      "target_term": "Vượn Khổng Nhãn",
+      "segment_id": "chapter_0072:seg_0009",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "beast",
+      "confidence": 1.0
+    }
+  ],
+  "entity_mentions": [
+    {
+      "chapter_id": "chapter_0072",
+      "source_surface": "李耀",
+      "target_surface": "Lý Diệu",
+      "entity_type": "person",
+      "segment_id": "chapter_0072:seg_0002",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0072",
+      "source_surface": "顾医生",
+      "target_surface": "bác sĩ Cố",
+      "entity_type": "person",
+      "segment_id": "chapter_0072:seg_0025",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0072",
+      "source_surface": "鲸吞大法",
+      "target_surface": "Kình Thôn Đại Pháp",
+      "entity_type": "techniques",
+      "segment_id": "chapter_0072:seg_0007",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0072",
+      "source_surface": "浮戈城",
+      "target_surface": "Phù Qua Thành",
+      "entity_type": "locations",
+      "segment_id": "chapter_0072:seg_0005",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0072",
+      "source_surface": "魔蛟岛",
+      "target_surface": "Đảo Ma Giao",
+      "entity_type": "locations",
+      "segment_id": "chapter_0072:seg_0042",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0072",
+      "source_surface": "放弃",
+      "target_surface": "Từ Bỏ",
+      "entity_type": "items",
+      "segment_id": "chapter_0072:seg_0010",
+      "confidence": 1.0
+    }
+  ],
+  "name_analysis": {
+    "status": "ok",
+    "evidence_count": 2,
+    "name_mentions": [
+      {
+        "chapter_id": "chapter_0072",
+        "name_source": "李耀",
+        "name_target": "Lý Diệu",
+        "segment_id": "chapter_0072:seg_0002",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0072",
+        "name_source": "顾医生",
+        "name_target": "bác sĩ Cố",
+        "segment_id": "chapter_0072:seg_0025",
+        "present_in_target": false,
+        "confidence": 1.0
+      }
+    ],
+    "name_entries": [
+      {
+        "name_source": "李耀",
+        "name_target": "Lý Diệu"
+      },
+      {
+        "name_source": "顾医生",
+        "name_target": "bác sĩ Cố"
+      }
+    ],
+    "transliteration_units": [],
+    "inferred_name_rules": [],
+    "ambiguity_cases": [],
+    "reusable_name_profile": {
+      "mapping_count": 2,
+      "has_ambiguity": false
+    }
+  },
+  "phrase_patterns": [],
+  "grammar_rule_candidates": [],
+  "analyzer_reports": {
+    "term_occurrences": {
+      "status": "ok",
+      "evidence_count": 10
+    },
+    "entity_mentions": {
+      "status": "ok",
+      "evidence_count": 6
+    },
+    "name_mentions": {
+      "status": "ok",
+      "evidence_count": 2
+    },
+    "phrase_patterns": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    },
+    "grammar_rule_candidates": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    }
+  },
+  "review_queue": [
+    {
+      "chapter_id": "chapter_0072",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "联邦伤残军人协会",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "“李耀同学，我代表‘联邦伤残军人协会’前来，宣布联邦对你"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0072",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "窥探他的脑域",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "冥修师妄图将他催眠，窥探他的脑域。\n\n李耀的脑域经过"
+        ]
+      }
+    }
+  ],
+  "quality_audit": {
+    "segment_coverage": 1.0,
+    "source_hash_match": true,
+    "target_reconstruction_match": true,
+    "invalid_ref_count": 0,
+    "locked_term_hit_rate": 1.0,
+    "missing_locked_terms": [],
+    "cjk_residue_count": 0,
+    "paragraph_drift_ratio": 0.0,
+    "pronoun_consistency_score": 1.0,
+    "warnings": []
+  }
+}

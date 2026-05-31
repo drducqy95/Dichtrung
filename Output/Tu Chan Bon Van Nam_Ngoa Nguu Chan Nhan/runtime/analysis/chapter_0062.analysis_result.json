@@ -1,0 +1,1019 @@
+{
+  "schema_version": "2.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 62,
+  "chapter_id": "chapter_0062",
+  "source_manifest_hash": "b5e0b6f521c4e310972c4a5b4935bc091fb488546f5aa41a71304cad0dd9073d",
+  "aligned_segments": [
+    {
+      "alignment_id": "chapter_0062:align_0001",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0001"
+      ],
+      "source": "# 62.第62章 棋高一着",
+      "source_hash": "130a5f3984b3b05422ee94e3f45bf1e7993d68507e1da8d81d17d4eb18613eb8",
+      "target": "# Chương 0062 - Kỳ cao một nước",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0002",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0002"
+      ],
+      "source": "“不要上当，他的目标是我，绝不是赫连烈！”",
+      "source_hash": "90b63d8cb5ff15e492d4497e28f93c17508859b55df1806f7f08fb4a83a9d3e6",
+      "target": "“Đừng mắc bẫy, mục tiêu của hắn là tôi, tuyệt đối không phải Hách Liên Liệt!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0003",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0003"
+      ],
+      "source": "高野尖叫，矮小的身形缩成一团，十分狼狈地向后翻滚。",
+      "source_hash": "0c1b88a86e47d1430ce72e332caab1e4b1a7bb665ad813169424a30173ea7858",
+      "target": "Cao Dã hét lên, thân hình thấp bé co rụt lại thành một cục, vô cùng chật vật lăn lộn về phía sau.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0004",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0004"
+      ],
+      "source": "听到高野的尖叫，几名牛高马大的蓝方选手立刻奋不顾身地扑了上来！",
+      "source_hash": "1df54799e7ebeaeeab7aa77331bb7a15672605beb89085b20b8ba4e547313c4b",
+      "target": "Nghe thấy tiếng hét của Cao Dã, mấy thí sinh phe Xanh to cao như bò mộng lập tức lao tới không màng thân mình!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0005",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0005"
+      ],
+      "source": "高野早就计算到了红队有可能实施“斩首战术”，因此从一开始就演练过“反斩首战术”。",
+      "source_hash": "f5f8dc75838ad87ec1088e6cc145cae498ea18f98b7075a44f1742e2e6fee7b5",
+      "target": "Cao Dã đã sớm tính toán được phe Đỏ có khả năng thực hiện “chiến thuật chém đầu”, cho nên ngay từ đầu đã diễn luyện qua “chiến thuật chống chém đầu”.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0006",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0006"
+      ],
+      "source": "仅仅半秒钟时间，高野面前就出现了一堵结结实实的人墙，七八支普通刀剑虎虎生风地舞动起来，交错成锐不可当的刀阵！",
+      "source_hash": "ab6df5e6b60fb3af101216062bd3d6fb55ed349b245a1036133ac09ee68a36e0",
+      "target": "Chỉ trong nửa giây ngắn ngủi, trước mặt Cao Dã đã xuất hiện một bức tường người vững chãi, bảy tám thanh đao kiếm thông thường múa lên vù vù, đan chéo thành một trận thế đao kiếm sắc bén không thể cản phá!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0007",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0007"
+      ],
+      "source": "果然，李耀在半空中一个十分诡的急停变向，就像是在一堵透明的空气墙上狠狠蹬了一脚，舍弃赫连烈，向高野扑来。",
+      "source_hash": "67b23842319860def64d50bbdf7c6aa07332bf8c54dc3b508b8e68af913ab9e3",
+      "target": "Quả nhiên, Lý Diệu ở giữa không trung đột ngột dừng lại và đổi hướng cực kỳ quỷ dị, cứ như đạp mạnh lên một bức tường không khí vô hình, bỏ qua Hách Liên Liệt để lao thẳng về phía Cao Dã.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0008",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0008"
+      ],
+      "source": "李耀似乎没料到高野的反应会这么快，猛地撞上了刀阵！",
+      "source_hash": "b0613dfb7b4652b66e911065d2c16149d12db07094c50329fdd478d4caeb3af9",
+      "target": "Lý Diệu dường như không ngờ phản ứng của Cao Dã lại nhanh đến vậy, đâm sầm vào trận đao kiếm!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0009",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0009"
+      ],
+      "source": "幸好此时蓝方选手尚未从闪光符阵的眩晕中恢复过来，看不清楚目标，只听一阵“叮叮当当”的刀剑碰撞声，李耀发出一声惨叫，再度扑入丛林，消失不见。",
+      "source_hash": "00f7f2c5014853457796f0b99576ec935c1116182607681d0cc6a6e7e3cc49db",
+      "target": "May mà lúc này các thí sinh phe Xanh vẫn chưa hồi phục khỏi trạng thái choáng váng của trận pháp chớp sáng, không nhìn rõ mục tiêu, chỉ nghe thấy một chuỗi tiếng va chạm đao kiếm “keng keng boong boong”, Lý Diệu hét thảm một tiếng, lại một lần nữa nhào vào rừng rậm biến mất tăm.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0010",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0010"
+      ],
+      "source": "只留下一句：“你们等着，我还会回来的！”",
+      "source_hash": "b331e47e7189e9552ad4977d36ba94117aef0761dcb6f09e7ba30b048f82300e",
+      "target": "Chỉ để lại một câu: “Các ngươi cứ đợi đấy, ta sẽ còn quay lại!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0011",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0011"
+      ],
+      "source": "三秒钟后，所有蓝队选手都从眩晕中恢复，一个个面似土色，汗如雨下，面面相觑，都看到了彼此眼底的惊惶。",
+      "source_hash": "aa8cc348204802267cb54707dfd1d27f9521b4c2eab9e724ca6852c94a272d99",
+      "target": "Ba giây sau, tất cả thí sinh phe Xanh đều hồi phục khỏi cơn choáng váng, mặt ai nấy đều cắt không còn giọt máu, mồ hôi đầm đìa như mưa, ngơ ngác nhìn nhau, đều thấy rõ sự kinh hoàng trong mắt đối phương.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0012",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0012"
+      ],
+      "source": "“好可怕的家伙，竟然一路无声无息地尾随，潜入指挥中心，我们居然没能发现！”",
+      "source_hash": "5fbd4cafc016700f30bb6c41d2bec08102670b6ff0b6bcf1409fe20460935ace",
+      "target": "“Tên này đáng sợ thật, vậy mà âm thầm bám đuôi suốt chặng đường, lẻn vào tận trung tâm chỉ huy mà chúng ta không hề phát hiện ra!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0013",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0013"
+      ],
+      "source": "一名巡逻队员心有余悸地说，忍不住看了一眼头顶纵横交错的枝桠，仿佛李耀仍旧潜伏在某一处黑暗的枝桠间。",
+      "source_hash": "c1561c7511025c51dc54b3d4a81975d27ce85916dba8605a52c975ad2235c20d",
+      "target": "Một thành viên đội tuần tra vẫn còn sợ hãi nói, không kìm được ngước nhìn lên những cành cây đan chéo trên đỉnh đầu, cứ như thể Lý Diệu vẫn đang ẩn nấp nơi góc tối nào đó trên những cành cây kia.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0014",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0014"
+      ],
+      "source": "“不过他仍旧不是高野的对手，在他丢出闪光符阵的一刹那，我们都以为他的目标是赫连烈，只有高野仍旧保持清醒，令他功亏一篑，高野，你真是天生的指挥官！”",
+      "source_hash": "62b122249b35c400c1616daf9de1ec6377801837f624e7ccbfdde6a504db6a39",
+      "target": "“Nhưng hắn vẫn không phải là đối thủ của Cao Dã, ngay khoảnh khắc hắn ném ra trận pháp chớp sáng, tất cả chúng ta đều nghĩ mục tiêu của hắn là Hách Liên Liệt, chỉ có Cao Dã là vẫn giữ được tỉnh táo khiến hắn phải xôi hỏng bỏng không. Cao Dã, cậu đúng là thiên tài chỉ huy bẩm sinh!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0015",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0015"
+      ],
+      "source": "另一名男生心悦诚服地说。",
+      "source_hash": "cfecb2ce3735e7b02a1e81343e378f7622c28cd9f917daaa501f8076e5680014",
+      "target": "Một nam sinh khác tâm phục khẩu phục nói.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0016",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0016"
+      ],
+      "source": "高野的脸色无比凝重，道：“这是一个十分可怕的敌人，他未必有我这么强的计算力，却拥有一种天生的，如野兽般的敏锐直觉，他肯定知道自己和赫连烈的差距，就算偷袭也未必能把赫连烈秒杀！”",
+      "source_hash": "218834aba5d9e2954c0de30f9c2cac1bcf862a4178d2dd394b7907a481f16aeb",
+      "target": "Sắc mặt Cao Dã vô cùng ngưng trọng, nói: “Đây là một đối thủ cực kỳ đáng sợ, hắn chưa chắc đã có lực tính toán mạnh như tôi, nhưng lại sở hữu một loại trực giác nhạy bén bẩm sinh như dã thú. Hắn chắc chắn biết rõ khoảng cách giữa mình và Hách Liên Liệt, dù có tập kích cũng chưa chắc có thể hạ gục nhanh chóng Hách Liên Liệt!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0017",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0017"
+      ],
+      "source": "“更何况，赫连烈的战斗力虽然强横，却不是决定胜负的关键，就算他将赫连烈击杀，也会在随后一秒钟内被我们乱刀斩出比赛，等于和赫连烈同归于尽！”",
+      "source_hash": "1fc8a82d29d2f36ce4161a53b11b187c96cec0d6564c39d401f784a36b75f356",
+      "target": "“Chưa kể, chiến lực của Hách Liên Liệt tuy mạnh mẽ, nhưng lại không phải chìa khóa quyết định thắng thua. Cho dù hắn giết được Hách Liên Liệt thì ngay giây tiếp theo cũng sẽ bị đao kiếm của chúng ta chém bay khỏi cuộc thi, chẳng khác nào đồng quy vu tận với Hách Liên Liệt!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0018",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0018"
+      ],
+      "source": "“这，肯定不是他想要的！”",
+      "source_hash": "c4999128a3029767547cc201cb3103194f34b80152a83ffb57ecd8168cd3f8ce",
+      "target": "“Đây chắc chắn không phải điều hắn muốn!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0019",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0019"
+      ],
+      "source": "“我却不同了，我走的是管理型修真者的路子，擅长计算和分析，战力却普普通通，很有可能被他一招致命！”",
+      "source_hash": "d80e2c3fb88958822fbc7329b97e158b34ba44685f99a68e48a354db86439a31",
+      "target": "“Tôi thì lại khác, tôi đi theo con đường tu chân giả kiểu quản lý, sở trường là tính toán và phân tích, chiến lực lại rất bình thường, rất có khả năng bị hắn một chiêu đoạt mạng!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0020",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0020"
+      ],
+      "source": "“而一旦我退出比赛，蓝队一盘散沙，肯定会出现短时间的混乱，如果红队能抓住这个机会，说不定还真能反败为胜！”",
+      "source_hash": "5e4511b1c7244e511488c2f2c41d99181f992aba1434cdbf54827d1a61fbe955",
+      "target": "“Mà một khi tôi bị loại khỏi cuộc thi, phe Xanh sẽ như rắn mất đầu, chắc chắn sẽ xuất hiện hỗn loạn trong thời gian ngắn. Nếu phe Đỏ có thể nắm lấy cơ hội này, biết đâu chừng thật sự có thể xoay chuyển tình thế!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0021",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0021"
+      ],
+      "source": "“这家伙就是算到了这一点，他故意拿赫连烈作为幌子，表面看似乎是和赫连烈有私人恩怨，不顾一切地尾随过来解决，其实，从一开始他的目标就是我！”",
+      "source_hash": "e0130b5e3f4571001a395258a86a880cb1e94169efa6638696d8e947de801d0a",
+      "target": "“Tên này chính là đã tính tới điểm này, hắn cố ý lấy Hách Liên Liệt làm lá chắn, bề ngoài có vẻ như có ân oán cá nhân với Hách Liên Liệt nên bất chấp tất cả bám đuôi theo để giải quyết, thực chất ngay từ đầu mục tiêu của hắn đã là tôi!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0022",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0022"
+      ],
+      "source": "“甚至，我很怀疑，你们最初找到他，都是他故意的，肯定是他在暗中发现了赫连烈，所以主动现身，就是为了找到我们的指挥中心！”",
+      "source_hash": "fd653b15a163bc51c891fab0887a91103f0755fe3ebc94b0016ffb241252db3c",
+      "target": "“Thế nhưng, tôi rất nghi ngờ việc ban đầu các cậu phát hiện ra hắn cũng là do hắn cố ý. Chắc chắn là hắn đã phát hiện ra Hách Liên Liệt từ trong bóng tối, cho nên chủ động lộ diện chính là để tìm ra trung tâm chỉ huy của chúng ta!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0023",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0023"
+      ],
+      "source": "“可怕，这家伙实在太可怕了，要不是我的计算力比他高出一筹，最后时刻算到了他的计划，说不定他就要得手了！”",
+      "source_hash": "d29be51a2a1e8d4205fe140606607c735f44f080d8637a38be76d850d636a50c",
+      "target": "“Đáng sợ, tên này thật sự quá đáng sợ, nếu không phải lực tính toán của tôi cao hơn hắn một bậc, vào giờ phút cuối cùng nhìn thấu kế hoạch của hắn thì e rằng hắn đã đắc thủ rồi!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0024",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0024"
+      ],
+      "source": "高野额头渗出一层细密的冷汗，眼底流露出饶有兴致的光彩。",
+      "source_hash": "4ab2e37f6dd16ec8c085f22e4dc44318b60ae6e4bc4a97b696e53d90961fb6c1",
+      "target": "Trán Cao Dã rịn ra một tầng mồ hôi lạnh mịn, trong mắt lộ ra vẻ hứng thú tràn trề.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0025",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0025"
+      ],
+      "source": "“不过他仍旧不是你的对手啊，高野，他费尽心机设下的重重圈套都被你洞悉了，他已经丧失了主动，接下来，他是猎物，我们是猎手！”一名蓝方选手兴奋地叫道。",
+      "source_hash": "f211b8e8268a60953ce90941edc5ec6575811ccb11f98ad6eee502df016eee05",
+      "target": "“Nhưng hắn vẫn không phải là đối thủ của cậu mà, Cao Dã, những cạm bẫy trùng trùng mà hắn cất công bày ra đều bị cậu nhìn thấu, hắn đã mất đi thế chủ động rồi. Tiếp theo, hắn là con mồi, chúng ta là thợ săn!” Một thí sinh phe Xanh phấn khích reo lên.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0026",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0026"
+      ],
+      "source": "高野苦笑一声，道：“没错，今天确实如此，但我和他的综合实力还是在伯仲之间的，今天我只是走运，换了另一个战场，说不定他真的斩首成功，也未可知。”",
+      "source_hash": "fa6de0d514779f2d3d7a3f13ca9cfcbeb8fe06ec5aaf0dbf16d3f20053b87ecd",
+      "target": "Cao Dã cười khổ một tiếng, nói: “Đúng vậy, hôm nay quả thực là thế, nhưng thực lực tổng hợp giữa tôi và hắn vẫn là kẻ tám lạng người nửa cân. Hôm nay tôi chỉ là may mắn thôi, nếu đổi sang một chiến trường khác, biết đâu hắn đã thực sự chém đầu thành công rồi cũng nên.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0027",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0027"
+      ],
+      "source": "赫连烈在一边沉默不语，心中却是羞愤交加，感到奇耻大辱！",
+      "source_hash": "5dda0b1914bb011f4c0f369d7bed8644131432eaddfc015115ce16b48691b089",
+      "target": "Hách Liên Liệt đứng một bên im lặng không nói gì, trong lòng lại vừa thẹn vừa giận, cảm thấy đây là nỗi nhục nhã cực lớn!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0028",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0028"
+      ],
+      "source": "原来，李耀的目标从一开始就不是他！",
+      "source_hash": "b1a7f192588a5bf8f91871a1770e107c7f488a141a6ab222a67a503da0309998",
+      "target": "Hóa ra, mục tiêu của Lý Diệu ngay từ đầu không phải là hắn!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0029",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0029"
+      ],
+      "source": "李耀根本没把他放在眼里，只是拿他当一个幌子，当一个诱饵！",
+      "source_hash": "fd31d4a1ff6c2f7704dee7effc2e82dc9097444325bb0bcf022fcc997afc677c",
+      "target": "Lý Diệu căn bản không hề để hắn vào mắt, chỉ coi hắn là tấm bình phong, là mồi nhử!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0030",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0030"
+      ],
+      "source": "在这场棋局中，李耀和高野才是争锋相对的两名“棋手”，而自己不过是他们掌控的一枚棋子而已！",
+      "source_hash": "19af3b02c247d859c7e4e7fae36c0456fd915c34bef730b27cb129f7ed87d8d6",
+      "target": "Trong ván cờ này, Lý Diệu và Cao Dã mới là hai “kỳ thủ” đấu trí gay gắt với nhau, còn hắn chỉ là một quân cờ bị họ thao túng mà thôi!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0031",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0031"
+      ],
+      "source": "就算李耀比不过高野，可是比自己这个“棋子”实在超出太多，如果不是高野点破，自己根本猜不到李耀的阴谋，刚才还傻乎乎地摆出了最严密的防御姿态！",
+      "source_hash": "6206a3709e8e87c54bfcef2baee618af6bf214f10c74928090d0819d27ca5275",
+      "target": "Cho dù Lý Diệu không so được với Cao Dã, nhưng so với loại “quân cờ” như hắn thì vẫn vượt trội hơn quá nhiều. Nếu không nhờ Cao Dã vạch trần, hắn căn bản không đoán được âm mưu của Lý Diệu, vừa rồi còn ngốc nghếch bày ra tư thế phòng ngự nghiêm ngặt nhất!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0032",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0032"
+      ],
+      "source": "心高气傲的赫连烈，就像是被李耀狠狠甩了一个耳光，气得双眼赤红，牙齿紧咬，恨不得将李耀的血肉一口一口撕扯下来吃掉！",
+      "source_hash": "2cc34b77c1ac56308420972623cb09c0fd974ed0e988a3c4e308cfe192a48bec",
+      "target": "Kẻ kiêu ngạo như Hách Liên Liệt cứ như bị Lý Diệu tát một cái nảy lửa vào mặt, giận đến mức hai mắt đỏ ngầu, răng cắn chặt, hận không thể xé xác cắn nuốt từng miếng xương thịt của Lý Diệu!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0033",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0033"
+      ],
+      "source": "他咬牙切齿，声音沙哑:：“高野，那还等什么，我们赶紧行动，追杀李耀把！”",
+      "source_hash": "09f60f0950ec71c3f40b3178eeb2c55b46a416ded52c0c0273d753202555889b",
+      "target": "Hắn nghiến răng nghiến lợi, giọng khản đặc: “Cao Dã, vậy còn đợi gì nữa, chúng ta mau chóng hành động, truy sát Lý Diệu thôi!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0034",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0034"
+      ],
+      "source": "“等等！”",
+      "source_hash": "5ee172227a611b23f032be383f9c791c4a14cbe34bfd0d3f22e4c8429df8106a",
+      "target": "“Khoan đã!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0035",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0035"
+      ],
+      "source": "高月满脸纠结，一副冥思苦想的模样，喃喃道，“奇怪，一切因素都在我计算之内，我也成功阻挡了他一次袭击，怎么心里还是有些不安，似乎漏算了什么东西……那是什么！”",
+      "source_hash": "21864b2105480e45d6120dd71ad8efa84be77c6983fe4fd03e4c7ed43dd1d8d2",
+      "target": "Cao Dã mặt đầy rối rắm, bộ dạng suy nghĩ vắt óc, lẩm bẩm: “Kỳ lạ, mọi yếu tố đều nằm trong tính toán của tôi, tôi cũng đã ngăn chặn thành công một đợt tập kích của hắn, sao trong lòng vẫn có chút bất an, hình như đã tính sót thứ gì đó... Kia là cái gì!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0036",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0036"
+      ],
+      "source": "高野神色大变，指着众人中间一只军用背包，尖叫起来。",
+      "source_hash": "db96651bc18d0d74704085704ac611c978cd5b2278c9bc7fbdc34ca08c2fce99",
+      "target": "Cao Dã biến sắc, chỉ vào một chiếc ba lô quân dụng ở giữa đám đông rồi hét lên.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0037",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0037"
+      ],
+      "source": "这只军用背包上糊满了泥巴，还涂抹了一些青苔和杂草，随随便便丢弃在指挥中心的核心区域。",
+      "source_hash": "562c3cf5d6b56af90065c7176ac75ad67c8d18d2f112b8c89d7d4eaec1d8cd8f",
+      "target": "Chiếc ba lô quân dụng này bê bết bùn đất, lại còn được trét thêm một ít rêu xanh và cỏ dại, bị vứt bừa bãi ngay tại khu vực trung tâm của trạm chỉ huy.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0038",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0038"
+      ],
+      "source": "乍一看，就像是一块石头，谁都没有注意到这只背包是什么时候出现的。",
+      "source_hash": "dc54efacf7fc60803a0b0caa130cf3b101e346269378bd803c85abb09126aa02",
+      "target": "Thoạt nhìn qua trông nó chẳng khác nào một tảng đá, không một ai chú ý chiếc ba lô này đã xuất hiện từ lúc nào.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0039",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0039"
+      ],
+      "source": "“怎么会有一个背包，谁的？”",
+      "source_hash": "9956f5aa30cea79bee32481dfd0aa3602deca6a50128c262883643c59e658670",
+      "target": "“Sao lại có một chiếc ba lô ở đây, của ai thế?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0040",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0040"
+      ],
+      "source": "所有蓝方选手都有些迷茫，面面相觑，他们好像都没有携带过这样一个背包。",
+      "source_hash": "9ddb4765eee9ef3e620143034e1949534ac52a45eaadc6de5a46d73cf573712e",
+      "target": "Tất cả thí sinh phe Xanh đều mờ mịt ngơ ngác nhìn nhau, bọn họ dường như không ai mang theo một chiếc ba lô như thế này.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0041",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0041"
+      ],
+      "source": "司空见惯的一个背包，在高野眼中，却变成了一枚恐怖的妖魔之卵，仿佛某个强大无比的存在即将破茧而出。",
+      "source_hash": "2408845491aa23e340105d144b457bde2d807f404e9e91f9b99a7501de5bd812",
+      "target": "Một chiếc ba lô bình thường quen thuộc, trong mắt Cao Dã lại hóa thành một quả trứng yêu ma khủng khiếp, như thể một thực thể mạnh mẽ vô song sắp sửa phá kén chui ra.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0042",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0042"
+      ],
+      "source": "他猛然间想起，搜集来的情报中提到过，李耀在进行法宝交易时，捧着一个由二十多枚晶元匣串联起来的爆炸装置，说是威力巨大，能够炸平整个补给点！",
+      "source_hash": "bff1acb46dc550c885f80072075122a5482ac7339c3a600a2f74c10e6f9dadfc",
+      "target": "Cậu đột nhiên nhớ tới, trong đống thông tin tình báo thu thập được có nhắc qua việc Lý Diệu khi tiến hành giao dịch pháp bảo đã bê theo một thiết bị nổ được liên kết từ hơn hai mươi hộp tinh nguyên, nói là uy lực cực lớn, có thể san phẳng cả trạm tiếp tế!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0043",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0043"
+      ],
+      "source": "“快跑！”",
+      "source_hash": "73559a695bbd8f3d00a8072a5a72194b7d9ee34b00c30cbf86f56f6123fa57fe",
+      "target": "“Chạy mau!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0044",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0044"
+      ],
+      "source": "高野的瞳孔骤然收缩成针尖，翻身向后，拔腿就跑，却是来不及了！",
+      "source_hash": "a25aea932e6e2cd0a119bb510feaf68256d84793fa5a4d2d67b2e4cdacf12554",
+      "target": "Đồng tử của Cao Dã đột ngột co rụt lại bằng đầu kim, lộn nhào ra sau rồi vắt chân lên cổ chạy, nhưng đã không kịp nữa rồi!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0045",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0045"
+      ],
+      "source": "五百米外，密林中。",
+      "source_hash": "d108d2a1b27fcca59ee1f4102aef5dab1325c3981ef7851a65b3e18af6983ff9",
+      "target": "Cách đó năm trăm mét, trong rừng rậm.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0046",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0046"
+      ],
+      "source": "李耀背靠一株大树，仿佛和树干融为一体，只有一双贼兮兮的眼睛绽放着光芒。",
+      "source_hash": "ede104b6025aa04e9127fe6a50b8c1f814927735081ced4064043936fa292004",
+      "target": "Lý Diệu tựa lưng vào một thân cây lớn, tựa như hòa làm một thể với thân cây, chỉ có đôi mắt láu liên là tỏa ra tia sáng.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0047",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0047"
+      ],
+      "source": "他伸出十指，逐一掰下：“十……九……八……七……六……”",
+      "source_hash": "daca55335751031105a0ec7d49f68f24f6adda1993fb5fc26f29eb882f4d9e12",
+      "target": "Cậu xòe mười ngón tay ra, lần lượt cụp xuống đếm ngược: “Mười... Chín... Tám... Bảy... Sáu...”",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0048",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0048"
+      ],
+      "source": "“什么人！”",
+      "source_hash": "d3b5c3f13d20781931ee4ecdf16132a861a874448dea8777ce5d9404f358797f",
+      "target": "“Ai đó!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0049",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0049"
+      ],
+      "source": "两名蓝方选手忽然从密林中钻了出来，他们没想到在距离蓝方指挥中心这么近的地方居然会有红方选手出现，不由大吃一惊。",
+      "source_hash": "d289094d652d5488337e582821e18ba265e49fa35f055eac8e025e56a08db0bf",
+      "target": "Hai thí sinh phe Xanh đột nhiên chui ra từ trong rừng rậm, bọn họ không ngờ ở một nơi gần trung tâm chỉ huy phe Xanh như thế này lại có thí sinh phe Đỏ xuất hiện, không khỏi giật nảy mình.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0050",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0050"
+      ],
+      "source": "李耀淡淡地扫了他们一眼，并不回答，继续专心致志地倒计时：“五……四……”",
+      "source_hash": "adaa2dfe451796ce0e4982121a7a4abf0b68aa47fe85b4481461edbe89c1bf94",
+      "target": "Lý Diệu nhàn nhạt liếc nhìn họ một cái, không thèm trả lời, tiếp tục tập trung đếm ngược: “Năm... Bốn...”",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0051",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0051"
+      ],
+      "source": "“这家伙有古怪，好像是刚才通讯频道中说的那个李耀，我们快放下法宝，使用普通武器，同时通知指挥中心！”",
+      "source_hash": "232d9aaa07043dfc0ee82c977b9b0373b328e6ebb0111bf65b0b7a18bebe864a",
+      "target": "“Tên này có điểm quái lạ, hình như là tên Lý Diệu được nhắc tới trong kênh truyền thông lúc nãy, chúng ta mau bỏ pháp bảo xuống, dùng vũ khí thường, đồng thời thông báo cho trung tâm chỉ huy!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0052",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0052"
+      ],
+      "source": "两名蓝方选手十分警醒，和李耀之间保持十米的距离，不给他一丝一毫可趁之机。",
+      "source_hash": "21b5fb2ccc8f0ccd2b92d17e2924634e667da9f32cbb47acce8f2366d9bf2878",
+      "target": "Hai thí sinh phe Xanh vô cùng cảnh giác, duy trì khoảng cách mười mét với Lý Diệu, không cho cậu một chút cơ hội sơ hở nào.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0053",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0053"
+      ],
+      "source": "李耀依旧我行我素，慢条斯理地倒计时：“三……二……一！”",
+      "source_hash": "b59121818b12b24401de420c416da81405d1500ff50dcd894ce48e71b9e779bc",
+      "target": "Lý Diệu vẫn làm theo ý mình, chậm rãi đếm ngược: “Ba... Hai... Một!”",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0054",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0054"
+      ],
+      "source": "随着“一”字出口，李耀身后五六百米的丛林中，“轰隆”一声，爆出惊天动地的巨响！",
+      "source_hash": "db1683bce08450fd855a69d3e24335bde4583c6faa1c4902e0e64419edefc3fe",
+      "target": "Ngay khi chữ “Một” vừa dứt, từ sâu trong khu rừng cách sau lưng Lý Diệu năm sáu trăm mét vang lên một tiếng “Ầm ầm” kinh thiên động địa!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0055",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0055"
+      ],
+      "source": "整片丛林都摇晃起来，一团巨大的白色蘑菇云冉冉升起，滚滚热浪急速扩散，转瞬就波及到了五百米之外！",
+      "source_hash": "3cf8833442a02850bd43cf378b2b9cb16581bbdcdde1db57aeddfc35d9deb542",
+      "target": "Cả khu rừng rung chuyển dữ dội, một đám mây nấm màu trắng khổng lồ cuồn cuộn bay lên, luồng nhiệt lượng cuồn cuộn nhanh chóng khuếch tán, chớp mắt đã tràn tới khoảng cách năm trăm mét bên ngoài!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0056",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0056"
+      ],
+      "source": "两名蓝方选手的瞳孔都被蘑菇云占据，头发都被热浪烤焦，冲击波夹杂着树枝和碎石劈头盖脑地砸到了他们身上！",
+      "source_hash": "8b4615d04a360e740d41660ffa1d272195912f656e7860002d844d905f3f7cef",
+      "target": "Đồng tử của hai thí sinh phe Xanh hoàn toàn bị đám mây nấm chiếm trọn, tóc tai bị sóng nhiệt nướng cháy khét lẹt, luồng xung kích mang theo cành cây và đá vụn đổ ập xuống đầu bọn họ!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0057",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0057"
+      ],
+      "source": "两人瞬间变得灰头土脸，目瞪口呆，如同两座泥塑的雕像。",
+      "source_hash": "d8ab2af569155b39f8105f374e709072bfb6995931bf415bb8da329da822a103",
+      "target": "Cả hai nháy mắt mặt mày lấm lem xám xịt, há hốc mồm đờ đẫn ra như hai bức tượng đất sét.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0058",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0058"
+      ],
+      "source": "通讯频道中传来一阵“沙沙”声，指挥中心里没有半个人还能回应他们的呼叫。",
+      "source_hash": "147c3f553598150bf4c0da0143efb21b937c4cf4625dfb6f330337eee8fc3f08",
+      "target": "Trong kênh truyền thông vang lên những tiếng “xoẹt xoẹt” rè rè, ở phía trung tâm chỉ huy đã không còn bất kỳ ai có thể trả lời cuộc gọi của họ nữa.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0059",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0059"
+      ],
+      "source": "“你，你对我们指挥中心干了什么？”两名蓝方选手不可遏制地颤抖起来。",
+      "source_hash": "4f0f41090ea41d3113e52bfaa6d18e29716a6a38c1c068a2e1720d26ae806193",
+      "target": "“Ngươi... Ngươi đã làm gì trung tâm chỉ huy của chúng ta rồi?” Hai thí sinh phe Xanh không ngừng run rẩy hỏi.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0060",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0060"
+      ],
+      "source": "“不好意思，从这一刻起，蓝方指挥中心已经不存在了。”",
+      "source_hash": "b0c803fa9eb331d94fb08193988e2a4937954ae27ba37c1177289f09e5a6b8de",
+      "target": "“Thật xin lỗi, từ khoảnh khắc này trở đi, trung tâm chỉ huy phe Xanh đã không còn tồn tại nữa.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0062:align_0061",
+      "chapter_id": "chapter_0062",
+      "segment_ids": [
+        "chapter_0062:seg_0061"
+      ],
+      "source": "李耀从容不迫的掸去一身尘土，缓缓抽出黑色匕首，微笑着朝两名蓝方选手走了过来。",
+      "source_hash": "81be8d187b5fadc1d0ef0376120a58aab874cc9bd2ed6471a9732b3872d08abb",
+      "target": "Lý Diệu ung dung phủi sạch bụi đất trên người, chậm rãi rút ra con dao găm màu đen, mỉm cười tiến về phía hai thí sinh phe Xanh.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    }
+  ],
+  "term_occurrences": [
+    {
+      "chapter_id": "chapter_0062",
+      "source_term": "晶元匣",
+      "target_term": "hộp tinh nguyên",
+      "segment_id": "chapter_0062:seg_0042",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0062",
+      "source_term": "闪光符阵",
+      "target_term": "trận pháp chớp sáng",
+      "segment_id": "chapter_0062:seg_0009",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "technique",
+      "confidence": 1.0
+    }
+  ],
+  "entity_mentions": [
+    {
+      "chapter_id": "chapter_0062",
+      "source_surface": "李耀",
+      "target_surface": "Lý Diệu",
+      "entity_type": "person",
+      "segment_id": "chapter_0062:seg_0007",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0062",
+      "source_surface": "赫连烈",
+      "target_surface": "Hách Liên Liệt",
+      "entity_type": "person",
+      "segment_id": "chapter_0062:seg_0002",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0062",
+      "source_surface": "高野",
+      "target_surface": "Cao Dã",
+      "entity_type": "person",
+      "segment_id": "chapter_0062:seg_0003",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0062",
+      "source_surface": "闪光符阵",
+      "target_surface": "trận pháp chớp sáng",
+      "entity_type": "techniques",
+      "segment_id": "chapter_0062:seg_0009",
+      "confidence": 1.0
+    }
+  ],
+  "name_analysis": {
+    "status": "ok",
+    "evidence_count": 3,
+    "name_mentions": [
+      {
+        "chapter_id": "chapter_0062",
+        "name_source": "李耀",
+        "name_target": "Lý Diệu",
+        "segment_id": "chapter_0062:seg_0007",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0062",
+        "name_source": "赫连烈",
+        "name_target": "Hách Liên Liệt",
+        "segment_id": "chapter_0062:seg_0002",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0062",
+        "name_source": "高野",
+        "name_target": "Cao Dã",
+        "segment_id": "chapter_0062:seg_0003",
+        "present_in_target": true,
+        "confidence": 1.0
+      }
+    ],
+    "name_entries": [
+      {
+        "name_source": "李耀",
+        "name_target": "Lý Diệu"
+      },
+      {
+        "name_source": "赫连烈",
+        "name_target": "Hách Liên Liệt"
+      },
+      {
+        "name_source": "高野",
+        "name_target": "Cao Dã"
+      }
+    ],
+    "transliteration_units": [],
+    "inferred_name_rules": [],
+    "ambiguity_cases": [],
+    "reusable_name_profile": {
+      "mapping_count": 3,
+      "has_ambiguity": false
+    }
+  },
+  "phrase_patterns": [],
+  "grammar_rule_candidates": [],
+  "analyzer_reports": {
+    "term_occurrences": {
+      "status": "ok",
+      "evidence_count": 2
+    },
+    "entity_mentions": {
+      "status": "ok",
+      "evidence_count": 4
+    },
+    "name_mentions": {
+      "status": "ok",
+      "evidence_count": 3
+    },
+    "phrase_patterns": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    },
+    "grammar_rule_candidates": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    }
+  },
+  "review_queue": [
+    {
+      "chapter_id": "chapter_0062",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "连烈",
+        "entity_type": "person",
+        "count": 5,
+        "confidence": 0.7,
+        "evidence": [
+          "的目标是我，绝不是赫连烈！”\n\n高野尖叫，矮",
+          "狠狠蹬了一脚，舍弃赫连烈，向高野扑来。\n\n李",
+          "们都以为他的目标是赫连烈，只有高野仍旧保持清"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0062",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "高野",
+        "entity_type": "person",
+        "count": 4,
+        "confidence": 0.7,
+        "evidence": [
+          "清醒，令他功亏一篑，高野，你真是天生的指挥官",
+          "仍旧不是你的对手啊，高野，他费尽心机设下的重",
+          "！\n\n就算李耀比不过高野，可是比自己这个“棋"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0062",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "相觑",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "土色，汗如雨下，面面相觑，都看到了彼此眼底的",
+          "选手都有些迷茫，面面相觑，他们好像都没有携带"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0062",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "计时",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "答，继续专心致志地倒计时：“五……四……”\n",
+          "行我素，慢条斯理地倒计时：“三……二……一！"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0062",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "通讯频",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.82,
+        "evidence": [
+          "伙有古怪，好像是刚才通讯频道中说的那个李耀，我",
+          "两座泥塑的雕像。\n\n通讯频道中传来一阵“沙沙”"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0062",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "如果红队能抓住这个机会",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "会出现短时间的混乱，如果红队能抓住这个机会，说不定还真能反败为"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0062",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "矮小的身形缩成一团",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "烈！”\n\n高野尖叫，矮小的身形缩成一团，十分狼狈地向后翻滚"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0062",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "再度扑入丛林",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "，李耀发出一声惨叫，再度扑入丛林，消失不见。\n\n只留"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0062",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "随随便便丢弃在指挥中心的核心区域",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "抹了一些青苔和杂草，随随便便丢弃在指挥中心的核心区域。\n\n乍一看，就像是"
+        ]
+      }
+    }
+  ],
+  "quality_audit": {
+    "segment_coverage": 1.0,
+    "source_hash_match": true,
+    "target_reconstruction_match": true,
+    "invalid_ref_count": 0,
+    "locked_term_hit_rate": 1.0,
+    "missing_locked_terms": [],
+    "cjk_residue_count": 0,
+    "paragraph_drift_ratio": 0.0,
+    "pronoun_consistency_score": 1.0,
+    "warnings": []
+  }
+}

@@ -1,17 +1,1132 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
   "chapter": 14,
-  "aligned_segments": [],
-  "term_occurrences": [],
-  "entity_mentions": [],
+  "chapter_id": "chapter_0014",
+  "source_manifest_hash": "3ce503e357aeb49bff29b06e55f464f330f01207ae07d02164695ddd7e56fd07",
+  "aligned_segments": [
+    {
+      "alignment_id": "chapter_0014:align_0001",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0001",
+        "chapter_0014:seg_0002"
+      ],
+      "source": "# 14.第14章 隐湖小境\n\n李耀愣了半天才回想起“昨天”对司佳雪做出的承诺，一看时间，才发现已经到了下午五点，自己居然睡了一天一夜。",
+      "source_hash": "5fe8eaab45013386cc8680281c82629956f5c790d36da3c28d36c367cee4f289",
+      "target": "Lý Diệu sững sờ mất nửa ngày mới nhớ ra lời hứa với Tiêu Giai Tuyết vào 'hôm qua'. Nhìn đồng hồ mới phát hiện đã là năm giờ chiều, cậu vậy mà lại ngủ suốt một ngày một đêm.",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0002",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0003"
+      ],
+      "source": "不管在梦里如何呼风唤雨，在现实世界里，他还是一个囊中羞涩的穷小子，刚才又一口气把几个月的存粮都吃光了，十万块钱对他来说，简直是一笔巨款，恨不得立马攥在手心里。",
+      "source_hash": "d4b58e427d270b30c296b2d8a20377f9438aa5c04f9937ffb6e65d0e6503b13c",
+      "target": "Cho dù trong mơ có hô mưa gọi gió thế nào đi nữa, ở thế giới hiện thực, cậu vẫn chỉ là một thằng nhóc nghèo kiết xác rỗng túi. Vừa nãy lại một hơi ăn sạch sành sanh lương thực dự trữ của mấy tháng trời, mười vạn tệ đối với cậu mà nói quả thực là một khoản tiền khổng lồ, hận không thể lập tức nắm chặt trong tay.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0003",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0004"
+      ],
+      "source": "李耀急忙在虚拟符文键盘上敲出回应：“你在哪里？两个钟头，不，一个半钟头之内，我给你送过来！”",
+      "source_hash": "7910f76c445af471ca0719a8c2436172a313b9aa48691e13eb6b70f8e17dbebd",
+      "target": "Lý Diệu vội vàng gõ phím phù văn ảo phản hồi: \"Cậu ở đâu? Hai tiếng, không, trong vòng một tiếng rưỡi nữa, mình sẽ đưa đến cho cậu!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0004",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0005"
+      ],
+      "source": "点击“发送”，字符凝聚，化作一只小小的虚灵纸鹤，飞向光幕右下角，消失不见。",
+      "source_hash": "80fb004e52ed7f29e79f8de9166e8172b3d8985846a568fa545f8d951400ac16",
+      "target": "Nhấn \"Gửi đi\", các ký tự ngưng tụ lại, hóa thành một con hạc giấy hư linh nhỏ xíu bay về phía góc dưới bên phải màn hình rồi biến mất.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0005",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0006"
+      ],
+      "source": "过了足足三分钟，司佳雪才发来一个地址：“我在这里，一个半小时之后会有人在门口等你，直接把东西交给他就行了。”",
+      "source_hash": "b4cb9afdd763754c2848830eefd5f4d9fd0a6713bdd29a41d08b001ce4e9ae40",
+      "target": "Trôi qua trọn vẹn ba phút, Tiêu Giai Tuyết mới gửi tới một địa chỉ: \"Mình ở chỗ này, một tiếng rưỡi nữa sẽ có người chờ cậu ở cửa, trực tiếp giao đồ cho anh ta là được.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0006",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0007"
+      ],
+      "source": "看来，她对李耀的观感实在不佳，连面都不想和他见。",
+      "source_hash": "aa140e78c1ba1a7847be6060b454627f270c8d7f5ba3da35e021088c82dbe4f9",
+      "target": "Xem ra ấn tượng của cô với Lý Diệu thực sự không tốt, ngay cả mặt cũng không muốn gặp cậu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0007",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0008",
+        "chapter_0014:seg_0009"
+      ],
+      "source": "李耀自无不可，只要有钱拿就行，回了一个“好”字，关闭光幕，将司佳雪那台老式晶脑取了出来，指关节交叉，“咔嚓咔嚓”揉搓几下，开始维修。\n\n“咦？”",
+      "source_hash": "f3778c601300d60dd5262f230f7c73d8b67eecd7cfcb88d0af1c895f137ced9c",
+      "target": "Lý Diệu đương nhiên chẳng để bụng, chỉ cần có tiền cầm tay là được. Cậu trả lời một chữ \"Được\", đóng màn hình sáng, lấy chiếc tinh não kiểu cũ của Tiêu Giai Tuyết ra, đan các khớp ngón tay vào nhau bẻ \"răng rắc\" vài cái rồi bắt đầu sửa chữa.",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0008",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0010"
+      ],
+      "source": "当他用螺丝刀卸开晶脑外壳时，立刻发现自己有些异样。",
+      "source_hash": "69c4dab231bb19c6cdd788d936a8edbf7f0028856d5a3fd97031817be43f1032",
+      "target": "\"Hử?\"\n\nKhi cậu dùng tua vít tháo vỏ tinh não ra, lập tức phát hiện bản thân có chút khác thường.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0009",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0011"
+      ],
+      "source": "他今天的状态格外好，头脑格外清晰，面对繁复玄奥的晶脑内部构造，只不过仔细看了两眼，似乎就能洞悉最深层的结构。",
+      "source_hash": "b71312571cf4a46d5767a11a9dda25e12668c8519f6c8469a6d34dcde8a90613",
+      "target": "Trạng thái ngày hôm nay của cậu đặc biệt tốt, đầu óc cực kỳ tỉnh táo. Đối mặt với cấu tạo bên trong vô cùng phức tạp và huyền ảo của tinh não, chỉ cần nhìn kỹ hai cái, dường như đã có thể thấu hiểu được cấu trúc sâu thẳm nhất.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0010",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0012"
+      ],
+      "source": "轻轻阖上眼皮，眼前缓缓浮起一台半透明的老式晶脑幻影，每一个细小的零部件都逐一脱离开来，在虚空中缓缓旋舞，令他从四面八方各个角度，将所有零部件的每一个细节都看得一清二楚。",
+      "source_hash": "6d77241d8de3d2fe49936d42d74296c5d0b90d018477ae52e478accb906ffadf",
+      "target": "Khẽ khép hờ mí mắt, trước mắt từ từ nổi lên một ảo ảnh tinh não kiểu cũ bán trong suốt, từng linh kiện nhỏ bé đều lần lượt tách rời ra, chầm chậm xoay tròn giữa không trung, khiến cho cậu từ mọi góc độ ở tứ phía tám hướng đều có thể nhìn thấy rõ mồn một từng chi tiết của tất cả các linh kiện.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0011",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0013"
+      ],
+      "source": "李耀有种感觉，即便不是替换散热片这样的简单工作，而是维修核心晶管之类的高难度作业，似乎也能试上一试。",
+      "source_hash": "56532ec6d20f030847381e8e52da0cc8e25d1455408c447b1f147235f6560b1e",
+      "target": "Lý Diệu có cảm giác, cho dù không phải là công việc đơn giản như thay tấm tản nhiệt này, mà là thao tác có độ khó cao như sửa chữa ống tinh thể lõi, dường như cũng có thể thử nghiệm một phen.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0012",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0014"
+      ],
+      "source": "“看来，在梦境中偷窥欧冶子炼制了几百年的法宝，不是白看的，虽然所有细节都忘了个一干二净，但是我的‘眼力’，却是大大提升了！”",
+      "source_hash": "22981f011e1b7fac3cee84bc0fdfa1894f26c99e63b89de92a2fa5124fd2c743",
+      "target": "\"Xem ra, trong mộng cảnh nhìn lén Âu Dã Tử luyện chế pháp bảo mấy trăm năm cũng không phải là nhìn phí công. Tuy rằng mọi chi tiết đều quên sạch sành sanh, nhưng 'nhãn lực' của mình lại được nâng cao trên diện rộng!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0013",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0015"
+      ],
+      "source": "这样一来，维修速度就加快了许多，原本他估计至少要一个钟头才能完成的工作，只用了三十分钟就大功告成，而且他还下意识地改动了一下散热结构，在一百多年前的晶脑内部，采用了一种三十年前才出现的新型散热构造，预计能把这台晶脑的散热效率提升17%，在高温下的重启速度也能提升至少9%。",
+      "source_hash": "74940f0d5523bd11ab687be1569e9c0aad62ee23f7023c54d7d133448fc6952c",
+      "target": "Như vậy, tốc độ sửa chữa liền tăng nhanh hơn rất nhiều. Công việc vốn dĩ cậu ước chừng ít nhất phải mất một tiếng rưỡi mới hoàn thành, vậy mà chỉ dùng có ba mươi phút đã đại công cáo thành. Hơn nữa cậu còn theo bản năng cải tiến lại cấu trúc tản nhiệt một chút. Bên trong chiếc tinh não hơn một trăm năm tuổi, cậu áp dụng một loại kết cấu tản nhiệt kiểu mới mới xuất hiện ba mươi năm trước, dự kiến có thể nâng cao hiệu suất tản nhiệt của chiếc tinh não này lên 17%, tốc độ khởi động lại dưới nhiệt độ cao cũng có thể nâng cao ít nhất 9%.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0014",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0016"
+      ],
+      "source": "“简直完美，收十万块真是物有所值，一点都不贵！”",
+      "source_hash": "6e4d5fcf2abf7a85afd3580dca9ff174aeecc40c29f9db62b72819c3939e87c8",
+      "target": "\"Quả thực hoàn hảo, thu mười vạn tệ thật đúng là đáng giá, một chút cũng không đắt!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0015",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0017"
+      ],
+      "source": "端详着自己的作品，李耀非常满意，他觉得这是自己有生以来最出色的一次发挥。",
+      "source_hash": "a113b862c87fc5838f0186e03c1c99f616f7b26611a1cc82d4014481b4b4531d",
+      "target": "Đánh giá tác phẩm của mình, Lý Diệu vô cùng hài lòng. Cậu cảm thấy đây là lần phát huy xuất sắc nhất từ khi sinh ra tới nay của mình.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0016",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0018"
+      ],
+      "source": "正沾沾自喜呢，鼻腔里忽然传来一股酸臭气味，李耀这才意识到自己身上黏糊糊都是睡梦中流出的汗渍，抬腕看看时间，还不算太晚，干脆冲了个澡，上下一通狠刷，换了身衣服，这才一身舒爽地出了门。",
+      "source_hash": "2c7ded4702452bc2fca9a394ab547f1315f1cb67e9a3ce966e7795d990407d1e",
+      "target": "Đang lúc dương dương tự đắc, trong khoang mũi chợt truyền đến một mùi hôi chua. Lý Diệu lúc này mới ý thức được trên người mình nhớp nháp toàn là vết mồ hôi chảy ra trong lúc ngủ. Cậu đưa tay nhìn đồng hồ, vẫn chưa tính là quá muộn, dứt khoát đi tắm rửa một phen, cọ rửa mạnh tay từ trên xuống dưới, thay một bộ quần áo rồi mới khoan khoái dễ chịu ra khỏi cửa.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0017",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0019"
+      ],
+      "source": "司佳雪给的地址，是位于上东区的一处自助餐厅，上东区是权贵云集的富人区，以前李耀很少来这里，偶尔有事路过，总会生出一丝自惭形秽之感，觉得自己像是闯进上流社会奢华宴会的乞丐。",
+      "source_hash": "f6ef2b4d421baa55af0cdc292aea3e21511f40c977cce66d44b3f5c57247b721",
+      "target": "Địa chỉ mà Tiêu Giai Tuyết đưa nằm ở một nhà hàng buffet tại khu Thượng Đông. Khu Thượng Đông là khu người giàu tập trung toàn quyền quý, trước kia Lý Diệu rất ít khi tới đây. Thỉnh thoảng có việc đi ngang qua, cậu luôn sinh ra một tia mặc cảm tự ti, cảm thấy mình giống như gã ăn mày xông vào bữa tiệc xa hoa của giới thượng lưu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0018",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0020"
+      ],
+      "source": "可是今天，他昂着头、挺着胸、叠着肚、鼻孔朝天、一步三丈，走得旁若无人、神采飞扬！",
+      "source_hash": "1bb5ef64a3dc70deb37f3c6c2a25fd5104d8699521981df0f81ce06f2129984b",
+      "target": "Nhưng hôm nay, cậu ngẩng cao đầu, ưỡn ngực, ưỡn bụng, lỗ mũi hếch lên trời, mỗi bước đi xa ba trượng, coi đám đông xung quanh như không tồn tại, thần thái hớn hở bay bổng!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0019",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0021"
+      ],
+      "source": "虽然皱巴巴的外套已经洗得发白，虽然膝盖上还打着补丁，虽然脚上蹬着一双“开口笑”，一看就是个吃了上顿没下顿的穷小子。",
+      "source_hash": "b76b42be81ef6576bdba6766317f28bc66ff0b3907024a20e4e38dae2f457bb4",
+      "target": "Cho dù chiếc áo khoác nhăn nhúm đã giặt đến phai màu, cho dù trên đầu gối vẫn còn miếng vá, cho dù dưới chân xỏ một đôi giày \"Há Miệng Cười\" rách rưới, nhìn qua chính là một thằng nhóc nghèo kiết xác bữa đói bữa no.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0020",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0022"
+      ],
+      "source": "他的神情，却像是腰里揣着金砖，正准备去签几十个亿大合同的霸道宗主。",
+      "source_hash": "33619e9b81ceae1dde85fbe70f263b5bed9ba51e9047f01d2e2543f6b6ff70fb",
+      "target": "Thế nhưng thần thái của cậu lại giống như một vị tông chủ bá đạo giắt gạch vàng ngang lưng, đang chuẩn bị đi ký một hợp đồng lớn vài tỷ tệ.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0021",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0023"
+      ],
+      "source": "这是在南柯一梦中，在无数高阶修真者堆里潜移默化，培养出来的气焰，是纯粹心境上的优越感，和力量、身份、地位无关。",
+      "source_hash": "1fc942b44184fa0a2a0661702c9bfbfb8a262651b332860f2d093601a19ab1e5",
+      "target": "Đây chính là khí thế được bồi dưỡng trong vô thức giữa đám tu chân giả cao cấp trong giấc mộng Nam Kha, là sự ưu việt về tâm cảnh thuần túy, không liên quan gì đến sức mạnh, thân phận, địa vị.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0022",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0024"
+      ],
+      "source": "就像是一个和万千恐龙生活了几十年的人，咋一看到老虎，也只会当成比较肥胖的猫。",
+      "source_hash": "9ea54c0c5a4373609e922b32818a1881a455e9809af49ec480f95c0479ef2db1",
+      "target": "Cũng giống như một người sống với hàng vạn con khủng long suốt mấy chục năm, thoạt nhìn thấy một con hổ thì cũng chỉ coi đó là một con mèo tương đối béo mà thôi.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0023",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0025"
+      ],
+      "source": "上东区位于浮戈城中央，周围共有七个面积很大的人工湖，隐隐将这一区域和周围隔绝开来，司佳雪给出的地址，就在其中一个人工湖“隐冬湖”边上，是一处名叫隐湖小境的自助餐厅。",
+      "source_hash": "fe73ae7381c19e4484eb1e37351ff0c8592610f40ea3f556cbd0be6effecdfa3",
+      "target": "Khu Thượng Đông nằm ở trung tâm Phù Qua Thành, xung quanh có tới bảy hồ nhân tạo diện tích rất lớn, thấp thoáng ngăn cách khu vực này với xung quanh. Địa chỉ mà Tiêu Giai Tuyết đưa nằm bên cạnh một trong những hồ nhân tạo có tên là \"Hồ Ẩn Đông\", là một nhà hàng buffet mang tên Ẩn Hồ Tiểu Cảnh.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0024",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0026"
+      ],
+      "source": "这座餐厅四周都被竹林围绕，还依托天然环境，架设天气符阵，使得方圆百米内常年飘雪。",
+      "source_hash": "38373d447f57c5761c58e04f80a64f7f72f72c36f1e0eefa1dc33b28af5c51af",
+      "target": "Xung quanh nhà hàng này đều được bao bọc bởi rừng trúc, còn dựa vào môi trường tự nhiên dựng lên một trận pháp thời tiết, khiến cho xung quanh trăm mét quanh năm tuyết rơi.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0025",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0027"
+      ],
+      "source": "雪不大，却给餐厅添上了一丝空灵的禅意。",
+      "source_hash": "1fae5adfa31d67f79aedf11f633deda4ae678dc1aae6a2595f67db9559cba4ce",
+      "target": "Tuyết không lớn, nhưng lại tăng thêm một tia thiền ý rỗng lặng cho nhà hàng.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0026",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0028"
+      ],
+      "source": "这里还算不上是浮戈城档次最高的豪华餐厅，价格相对便宜，环境却很不错，很有格调，对于尚未掌握财政大权，依靠父母给零花的富豪子弟来说，是颇符合身份的消费场所。",
+      "source_hash": "b460a205225aa0020cb804f3018ae74125a567736b36c76a1f446a136d3f7be4",
+      "target": "Nơi này vẫn chưa được coi là nhà hàng sang trọng có đẳng cấp cao nhất ở Phù Qua Thành, giá cả tương đối rẻ, nhưng môi trường lại rất tuyệt, rất có phong cách. Đối với đám con nhà giàu chưa nắm quyền tài chính, sống dựa vào tiền tiêu vặt của cha mẹ thì đây là nơi tiêu dùng khá phù hợp với thân phận.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0027",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0029"
+      ],
+      "source": "隐湖小境门口站着一名身穿素裙，手持纸扇的古装美女服务生，见李耀大摇大摆地踏了进来，衣着和气势截然相反，看着实在别扭，竟然愣了半天，才上前浅浅施了个礼：“您好，请问是否赤霄二中的李耀同学？”",
+      "source_hash": "6bab70c26f5377acece7115a7ce44af594c9f487ef79771941cd118592904806",
+      "target": "Trước cửa Ẩn Hồ Tiểu Cảnh có một cô nữ phục vụ xinh đẹp mặc váy trơn màu, tay cầm quạt giấy đang đứng. Thấy Lý Diệu huênh hoang nghênh ngang bước vào, quần áo và khí thế hoàn toàn trái ngược nhau, trông thực sự rất gượng gạo. Cô nàng thế mà ngẩn người ra nửa ngày, lúc này mới bước tới khẽ hành lễ: \"Xin chào, xin hỏi ngài có phải là bạn học Lý Diệu của trường Xích Tiêu Nhị Trung không ạ?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0028",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0030"
+      ],
+      "source": "“没错，是司佳雪让你等着的吧，东西在这里，需要试用吗？”李耀也不废话，将晶脑递过去。",
+      "source_hash": "4c35f1f7f2503f6ed3147946896601ae00a494a038dede57b59f5e1806e97e54",
+      "target": "\"Đúng vậy, là Tiêu Giai Tuyết bảo cô đợi phải không, đồ ở chỗ này, có cần dùng thử không?\" Lý Diệu cũng không nói nhảm, đưa chiếc tinh não qua.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0029",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0031"
+      ],
+      "source": "古装美女服务生微笑道：“不用了，司小姐说如果真的出了问题，她自然会再去找李耀同学的，至于现在，请您收好这张卡片。”",
+      "source_hash": "1a4a0ee1c4995c2d373b8889f6f9c8e03d876169d14545e13feac6108715e962",
+      "target": "Nữ phục vụ cổ trang mỉm cười nói: \"Không cần đâu, cô Tiêu dặn nếu thực sự xảy ra vấn đề, cô ấy tự nhiên sẽ đi tìm bạn học Lý Diệu. Còn bây giờ, xin ngài hãy cất kỹ tấm thẻ này.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0030",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0032"
+      ],
+      "source": "略一弯腰，古装美女服务生十分恭敬地双手递过来一张写满符文的半透明磨砂卡片。",
+      "source_hash": "164b6237c8af2605834404f51aa3ac1955c0d75e0e1a2724941e3f3dcb99b61c",
+      "target": "Khẽ khom người, cô nữ phục vụ cổ trang vô cùng cung kính dùng hai tay dâng lên một tấm thẻ mờ bán trong suốt viết đầy phù văn.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0031",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0033"
+      ],
+      "source": "这是不记名的金灵通卡，可以将卡片上的符文输入晶脑，把里面存的钱转入账户，也可以直接在大多数店铺刷卡消费，十分方便。",
+      "source_hash": "fd257eaa44e838134336134b92ce19cbc0ddd60df946806e603d5a3e8a3f095a",
+      "target": "Đây là Thẻ Vàng Linh Thông vô danh, có thể nhập phù văn trên thẻ vào tinh não, chuyển tiền bên trong vào tài khoản, cũng có thể trực tiếp quẹt thẻ tiêu xài ở phần lớn các cửa tiệm, vô cùng tiện lợi.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0032",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0034"
+      ],
+      "source": "李耀接过金灵通卡，轻触卡片左上角一个缠绕着银丝的淡紫色符文，金灵通卡轻轻一颤，卡面上浮现出一串数字——100000。",
+      "source_hash": "767800f1bd4f2602fcbe0e95058305986335d992a8dfa8653365380a6a0dcd1a",
+      "target": "Lý Diệu nhận lấy Thẻ Vàng Linh Thông, chạm nhẹ vào một phù văn màu tím nhạt quấn những sợi tơ bạc ở góc trên bên trái tấm thẻ. Thẻ Vàng Linh Thông khẽ rung lên, trên mặt thẻ hiện lên một dãy số —— 100000.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0033",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0035"
+      ],
+      "source": "司佳雪还帮他凑了个整，李耀眼前一亮，有些意外地吹了声口哨：“美女，多谢了，对了，帮我顺便也谢谢司佳雪，和她说以后还有什么生意记得多多关照，我统统给她跳楼价！”",
+      "source_hash": "2d9b5a8b08512533831078190d11dcd20256becd96e599c0040bac0154bcd53a",
+      "target": "Tiêu Giai Tuyết còn giúp cậu làm tròn số. Hai mắt Lý Diệu sáng lên, có chút bất ngờ huýt sáo một tiếng: \"Người đẹp, cảm ơn nhiều nhé. Đúng rồi, tiện thể giúp tôi cảm ơn Tiêu Giai Tuyết, nhắn với cậu ấy sau này còn mối làm ăn nào thì nhớ chiếu cố nhiều hơn, tôi sẽ để giá gốc cho cậu ấy!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0034",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0036"
+      ],
+      "source": "将金灵通卡小心翼翼地塞进贴肉的口袋，李耀笑嘻嘻地转身离去，盘算着去平民区的超市里多买几百听星空巨兽肉罐头回家，再整点儿酱牛肉夹烙饼，美美吃上一顿宵夜。",
+      "source_hash": "5d72d9cae4f34110fa541c1e2799830c611109115db757e5136bb0c0b6ba67aa",
+      "target": "Cẩn thận nhét Thẻ Vàng Linh Thông vào túi áo sát người, Lý Diệu cười hì hì quay người rời đi, tính toán sẽ đi đến siêu thị trong khu dân nghèo mua thêm vài trăm hộp thịt Tinh Không Cự Thú mang về nhà, lại sắm thêm chút thịt bò xốt kẹp bánh rán, đánh một bữa ăn đêm thật ngon lành.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0035",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0037"
+      ],
+      "source": "就在这时，从隐湖小境里传来“嗤啦”一声，是鲜嫩多汁的小牛肉拍在滚烫铁板上的声音。",
+      "source_hash": "5a16a732df7e2d220f07d71f2e73f55445bf83760ce121a56c51666aff3c0789",
+      "target": "Đúng lúc này, từ trong Ẩn Hồ Tiểu Cảnh truyền đến một tiếng \"xèo\", đó là âm thanh miếng thịt nghé non tươi mềm nhiều nước đập xuống tấm sắt nóng hổi.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0036",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0038"
+      ],
+      "source": "一股淡淡的肉香，混合着几十种珍稀香料而成的异香，乘着醉人的小风，飘了出来。",
+      "source_hash": "6f876cb19432d6bd4c0c762189526a5894e939be0fcc12b5bda556d50d19c5ac",
+      "target": "Một luồng hương thịt nhàn nhạt, hòa quyện với hương thơm kỳ lạ của mấy chục loại hương liệu quý hiếm, nương theo cơn gió say lòng người bay ra ngoài.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0037",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0039"
+      ],
+      "source": "李耀肚子里“咕噜”一声，好似被无形的绳索拽住，骤然停下脚步。",
+      "source_hash": "252666c259e07e0d424009c5e54c1802b23b82a34a1d5b9d5d2be46a59cf45c8",
+      "target": "Trong bụng Lý Diệu \"ùng ục\" một tiếng, giống như bị một sợi dây thừng vô hình kéo giật lại, bước chân đột ngột dừng hẳn.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0038",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0040"
+      ],
+      "source": "“该死，这么快又饿了！”",
+      "source_hash": "9f506d6b64f5ea9351419b756b3fbf53d0962e205801825757240ed3a3b221c4",
+      "target": "\"Chết tiệt, sao lại đói nhanh như vậy!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0039",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0041"
+      ],
+      "source": "他在南柯一梦中和欧冶子斗智斗勇，从神魂到体能，消耗实在太大，简直是透支生命，根本不是几十听星空巨兽肉罐头能补得回来的，不闻还好，这一闻到肉香，简直又回到了刚才毒瘾发作的状态，肠胃化作无底洞，四肢百骸燃起熊熊饥火，一张脸扭曲到了极点，就差没顺着嘴角流口水。",
+      "source_hash": "5dec8852e5634cb429b6b4d9a634377afe69bda47621037c5ccbfa581ce7637e",
+      "target": "Cậu đấu trí đấu dũng với Âu Dã Tử trong giấc mộng Nam Kha, từ thần hồn đến thể năng đều tiêu hao quá lớn, quả thực là thấu chi sinh mệnh, hoàn toàn không phải chỉ vài chục hộp thịt Tinh Không Cự Thú là có thể bù đắp lại được. Không ngửi thấy thì không sao, vừa ngửi thấy mùi thịt này, quả thực lại quay về trạng thái phát cơn nghiện ma túy vừa nãy. Dạ dày hóa thành cái động không đáy, tứ chi bách hài bùng lên ngọn lửa đói khát hừng hực. Khuôn mặt vặn vẹo đến cực điểm, chỉ thiếu nước chảy nước dãi ròng ròng xuống khóe miệng.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0040",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0042"
+      ],
+      "source": "李耀不由自主地倒退回来，直愣愣往里面闯。",
+      "source_hash": "4bf0544899f67abd031449ffbfdce3772bd9d8d349862e9b6ee8c3b8a42569ce",
+      "target": "Lý Diệu không tự chủ được bước lùi lại, nhìn chằm chằm lao thẳng vào trong.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0041",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0043"
+      ],
+      "source": "恍若饿虎的气焰吓坏了古装美女服务生，小姑娘下意识挡在他面前。",
+      "source_hash": "b0c6db8f9c9e48f4576c6e377cf5d187bff184d5c36bcec1b5bb897fd74c87b8",
+      "target": "Khí thế hệt như một con hổ đói khiến nữ phục vụ cổ trang sợ khiếp vía, cô gái nhỏ theo bản năng chắn trước mặt cậu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0042",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0044",
+        "chapter_0014:seg_0045"
+      ],
+      "source": "“嗯？”\n\n李耀眯起眼睛，臼齿摩擦，“咔咔”作响，就像是一头吃了三天草的迅猛龙。",
+      "source_hash": "afff8e2c9bc9179186de48dcbb612a5021c03009aec3bfec75e21f2e4caebd34",
+      "target": "\"Hử?\"\n\nLý Diệu híp mắt lại, răng hàm ma sát vào nhau kêu \"kèn kẹt\", giống hệt như một con khủng long ăn thịt vừa phải ăn cỏ suốt ba ngày.",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0043",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0046"
+      ],
+      "source": "小姑娘简直要哭出来，心说哪儿来这么一个野人，看架势是要把我也吞下去怎么着？",
+      "source_hash": "acdbd4dd2f1790119f9eedf7b088c6ef93a4f374b54742b3bfb13b24fa1d2e94",
+      "target": "Cô gái nhỏ gần như sắp phát khóc, thầm nghĩ từ đâu chui ra một gã dã nhân thế này, nhìn bộ dạng có phải là muốn nuốt chửng cả mình luôn hay không?",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0044",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0047"
+      ],
+      "source": "不由倒退两步，定了定神，勉强堆出笑容，道：“这、这位客人，您来得正巧，我们隐湖小境今天店庆，全场打八五折并且免去服务费，自助晚餐每位只需一千二百八十元，还附赠三十年陈的女儿红，都是当年我们店主亲手埋到‘隐冬湖’底的。”",
+      "source_hash": "22475e268fc58931d7326ceca48a6411bc8d563a8340838c61ce44ee7f3e94ae",
+      "target": "Không khỏi lùi lại hai bước, định thần, gượng gạo nặn ra một nụ cười, nói: \"Vị... vị khách này, ngài đến thật đúng lúc, Ẩn Hồ Tiểu Cảnh chúng tôi hôm nay kỷ niệm ngày thành lập quán, toàn bộ cửa hàng giảm giá 15% đồng thời miễn phí phục vụ, bữa tối buffet mỗi vị chỉ cần một ngàn hai trăm tám mươi tệ, còn được tặng kèm rượu Nữ Nhi Hồng ủ ba mươi năm, đều do đích thân ông chủ chúng tôi năm đó chôn xuống đáy 'Hồ Ẩn Đông'.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0045",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0048"
+      ],
+      "source": "富人区的饭店酒庄，服务生都受过专门训练，素养极高，自然不会干出以貌取人、不让衣着穷酸人士消费的蠢事。",
+      "source_hash": "d541ef399b0a59e6355d1266861ffd3b53937dcedcee57ea63b1403426ae5d9c",
+      "target": "Nhân viên phục vụ của các nhà hàng, tửu trang ở khu người giàu đều được huấn luyện chuyên môn, tố chất cực cao, tự nhiên sẽ không làm ra chuyện ngu ngốc như trông mặt bắt hình dong, không cho phép khách hàng ăn mặc bần hàn vào tiêu xài.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0046",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0049"
+      ],
+      "source": "特别是在修真界中，专门有些心理扭曲的怪人，喜欢白龙鱼服、扮猪吃虎，若是有眼无珠得罪了这些人，分分钟关张大吉不说，全体员工还要去医院重症病房放无薪假。",
+      "source_hash": "cf825822a892ab93fd7c0f6472e8bcb92226bc98295bd16ca4d3fd3f45beca97",
+      "target": "Đặc biệt là trong giới tu chân, chuyên môn có một số kẻ tâm lý vặn vẹo, thích giả heo ăn thịt hổ, giả nghèo giả khổ. Nếu như có mắt không tròng mà đắc tội với đám người này, chưa nói đến việc phải đóng cửa trong phút chốc, mà toàn thể nhân viên còn phải vào phòng chăm sóc đặc biệt nghỉ phép không lương.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0047",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0050"
+      ],
+      "source": "所以，在富人区，只要不是只穿着三角裤来消费，再奢华的消费场所，对客人也都是一视同仁。",
+      "source_hash": "1dc803cfc0bed334a08f2fbcdebc9b30334fcadfbc7c1af0dd56008a11bdb43c",
+      "target": "Cho nên, ở khu người giàu, chỉ cần không phải chỉ mặc mỗi chiếc quần lót đến tiêu xài, thì nơi tiêu dùng có xa hoa đến đâu cũng đối xử bình đẳng với tất cả khách hàng.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0048",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0051"
+      ],
+      "source": "古装美女服务生也不知道李耀是哪路毛神，只是非常委婉地说清楚了消费档次，就闪到一边。",
+      "source_hash": "116538d22183509843a007b3c755880c7791c936644aa37b5ee155b63cc2c284",
+      "target": "Nữ phục vụ cổ trang cũng không biết Lý Diệu là thần thánh phương nào, chỉ vô cùng uyển chuyển nói rõ đẳng cấp tiêu dùng, rồi tránh sang một bên.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0049",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0052"
+      ],
+      "source": "“一千二百八？”",
+      "source_hash": "dae635fc9412824c9d28a3ec061a67f79ad368d7653df3d160d32ad06d84642f",
+      "target": "\"Một ngàn hai trăm tám?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0050",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0053"
+      ],
+      "source": "李耀双眼有些发直，这个数字在他脑海中瞬间转化成了满坑满谷的星空巨兽肉罐头，唯一的念头就是转身走人。",
+      "source_hash": "649b68ce595f753dc89739982c0b3af31e8c2ed26e315bd01548216cfaf7a0e0",
+      "target": "Hai mắt Lý Diệu có chút đờ đẫn, con số này trong đầu cậu nháy mắt chuyển hóa thành từng đống từng đống hộp thịt Tinh Không Cự Thú, ý niệm duy nhất chính là quay đầu bước đi.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0051",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0054"
+      ],
+      "source": "不过身体却比思维更诚实，烤肉的香气仿佛在李耀面前幻化成了一个丰腴到极点的美女，舔着红唇，抛着媚眼，浅笑笙歌。",
+      "source_hash": "efbe075c74253a67897b33c3269a189deff85205a65eef7f6816da4409025182",
+      "target": "Thế nhưng thân thể lại thành thật hơn tư duy. Mùi hương thịt nướng dường như huyễn hóa thành một người đẹp đầy đặn đến cực điểm trước mặt Lý Diệu, đang liếm đôi môi đỏ mọng, ném mị nhãn, mỉm cười duyên dáng hát ca.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0052",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0055"
+      ],
+      "source": "他像是吞了一颗大核桃，喉结不住上下滚动，心中天人交战，纠结万分。",
+      "source_hash": "2ecf94522256cb73770396daf23c0d8454a01fdc89705b4263d96962aa8701f8",
+      "target": "Cậu giống như nuốt phải một quả hạch đào lớn, yết hầu không ngừng cuộn lên cuộn xuống, trong lòng giao tranh dữ dội, vô cùng giằng xé.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0053",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0056"
+      ],
+      "source": "僵持了足足……半秒钟，心理防线彻底崩溃，李耀眼冒火光，饿纹上脸，把裤腰带松了一节，如猛虎下山，似饿狗出笼，呼啸而入。",
+      "source_hash": "54ebfdb532d792a0ba021b1c9a606198b37320bb737baece6f2c30db9123fe16",
+      "target": "Giằng co ròng rã... nửa giây đồng hồ, phòng tuyến tâm lý triệt để sụp đổ. Mắt Lý Diệu tóe lửa, trên mặt hằn rõ vẻ đói khát, nới lỏng thắt lưng một nấc, tựa như mãnh hổ xuống núi, chó đói sổ lồng, gào thét xông vào.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0054",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0057"
+      ],
+      "source": "“不就是一千二百八吗？刚刚到手十万，一顿还能吃穷不成？今儿个不过了！”",
+      "source_hash": "c58069ee7680a61a7f18266055952b5df37e58c0c5e7859a8d9fc6c84a878fd8",
+      "target": "\"Không phải chỉ là một ngàn hai trăm tám thôi sao? Vừa mới nhận được mười vạn, một bữa ăn thì có thể nghèo đi được chắc? Hôm nay bất chấp tất cả!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0055",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0058"
+      ],
+      "source": "隐湖小境内部的设计十分巧妙，用餐区被长廊、灯笼和花园分隔成了十几个私密区域，而摆满食物的长桌则遍布各个区域，确保客人在相对独立的环境中用餐。",
+      "source_hash": "f2754ce89ec65f523f880c314b3ebfdaa88d0f2a55a7f8d5f857074a281705cf",
+      "target": "Thiết kế bên trong Ẩn Hồ Tiểu Cảnh vô cùng tinh xảo, khu vực dùng bữa được hành lang dài, đèn lồng và hoa viên ngăn cách thành mười mấy khu vực riêng tư. Còn những chiếc bàn dài bày đầy ắp thức ăn thì phân bố rải rác khắp các khu vực, đảm bảo thực khách có thể dùng bữa trong môi trường tương đối độc lập.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0056",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0059"
+      ],
+      "source": "至于各种珍馐美味的丰富程度，这么说吧，到了这儿，李耀感觉自己的生物课简直是武技老师教的，一大半山珍海味非但叫不出名字，连见都没见过！",
+      "source_hash": "dcf9311ce6bcc468422948c57ba5c1b5b681c4e9b9a4a1a3335623917b6bba0b",
+      "target": "Còn về độ phong phú của đủ loại sơn hào hải vị thì... nói thế này cho dễ hiểu, đến đây rồi, Lý Diệu mới cảm thấy môn sinh học của mình quả thực là do thầy dạy võ dạy cho, hơn phân nửa sơn hào hải vị chẳng những không gọi được tên, mà ngay cả nhìn cũng chưa từng nhìn thấy bao giờ!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0057",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0060"
+      ],
+      "source": "找了一处比较清静的回廊，李耀抓起一条二十多斤重的炙烤小羊腿，黏皮带骨，连血带肉，狠狠咬下。",
+      "source_hash": "ec5e95813649c9183104a21b0386b695d2fec82c4fbd7be2018876232aa63a94",
+      "target": "Tìm một hành lang tương đối yên tĩnh, Lý Diệu chộp lấy một cái đùi cừu non nướng nặng hơn hai mươi cân, cả da lẫn xương, cả máu lẫn thịt, há miệng cắn mạnh.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0014:align_0058",
+      "chapter_id": "chapter_0014",
+      "segment_ids": [
+        "chapter_0014:seg_0061"
+      ],
+      "source": "“十二成功力、完全境界、究极状态——鲸！吞！大！法！”",
+      "source_hash": "42d3d4e7818d0ce3886cc31e60e5070b15b6dedb7be94af33c7942878e27f417",
+      "target": "\"Mười hai thành công lực, hoàn toàn cảnh giới, trạng thái cực hạn —— Kình! Thôn! Đại! Pháp!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    }
+  ],
+  "term_occurrences": [
+    {
+      "chapter_id": "chapter_0014",
+      "source_term": "浮戈城",
+      "target_term": "Phù Qua Thành",
+      "segment_id": "chapter_0014:seg_0025",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0014",
+      "source_term": "上东区",
+      "target_term": "khu Thượng Đông",
+      "segment_id": "chapter_0014:seg_0019",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0014",
+      "source_term": "晶脑",
+      "target_term": "Tinh não",
+      "segment_id": "chapter_0014:seg_0008",
+      "present_in_target": false,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0014",
+      "source_term": "赤霄二中",
+      "target_term": "Xích Tiêu Nhị Trung",
+      "segment_id": "chapter_0014:seg_0029",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0014",
+      "source_term": "散热片",
+      "target_term": "tấm tản nhiệt",
+      "segment_id": "chapter_0014:seg_0013",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0014",
+      "source_term": "星空巨兽",
+      "target_term": "Tinh Không Cự Thú",
+      "segment_id": "chapter_0014:seg_0036",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0014",
+      "source_term": "司佳雪",
+      "target_term": "Tiêu Giai Tuyết",
+      "segment_id": "chapter_0014:seg_0001",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0014",
+      "source_term": "隐冬湖",
+      "target_term": "Hồ Ẩn Đông",
+      "segment_id": "chapter_0014:seg_0025",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0014",
+      "source_term": "隐湖小境",
+      "target_term": "Ẩn Hồ Tiểu Cảnh",
+      "segment_id": "chapter_0014:seg_0001",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "location",
+      "confidence": 1.0
+    }
+  ],
+  "entity_mentions": [
+    {
+      "chapter_id": "chapter_0014",
+      "source_surface": "李耀",
+      "target_surface": "Lý Diệu",
+      "entity_type": "person",
+      "segment_id": "chapter_0014:seg_0001",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0014",
+      "source_surface": "司佳雪",
+      "target_surface": "Tiêu Giai Tuyết",
+      "entity_type": "person",
+      "segment_id": "chapter_0014:seg_0001",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0014",
+      "source_surface": "浮戈城",
+      "target_surface": "Phù Qua Thành",
+      "entity_type": "locations",
+      "segment_id": "chapter_0014:seg_0025",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0014",
+      "source_surface": "隐冬湖",
+      "target_surface": "Hồ Ẩn Đông",
+      "entity_type": "locations",
+      "segment_id": "chapter_0014:seg_0025",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0014",
+      "source_surface": "隐湖小境",
+      "target_surface": "Ẩn Hồ Tiểu Cảnh",
+      "entity_type": "locations",
+      "segment_id": "chapter_0014:seg_0001",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0014",
+      "source_surface": "星空巨兽肉罐头",
+      "target_surface": "Thịt hộp Tinh Không Cự Thú",
+      "entity_type": "items",
+      "segment_id": "chapter_0014:seg_0036",
+      "confidence": 1.0
+    }
+  ],
+  "name_analysis": {
+    "status": "ok",
+    "evidence_count": 2,
+    "name_mentions": [
+      {
+        "chapter_id": "chapter_0014",
+        "name_source": "李耀",
+        "name_target": "Lý Diệu",
+        "segment_id": "chapter_0014:seg_0001",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0014",
+        "name_source": "司佳雪",
+        "name_target": "Tiêu Giai Tuyết",
+        "segment_id": "chapter_0014:seg_0001",
+        "present_in_target": true,
+        "confidence": 1.0
+      }
+    ],
+    "name_entries": [
+      {
+        "name_source": "李耀",
+        "name_target": "Lý Diệu"
+      },
+      {
+        "name_source": "司佳雪",
+        "name_target": "Tiêu Giai Tuyết"
+      }
+    ],
+    "transliteration_units": [],
+    "inferred_name_rules": [],
+    "ambiguity_cases": [],
+    "reusable_name_profile": {
+      "mapping_count": 2,
+      "has_ambiguity": false
+    }
+  },
   "phrase_patterns": [],
   "grammar_rule_candidates": [],
+  "analyzer_reports": {
+    "term_occurrences": {
+      "status": "ok",
+      "evidence_count": 9
+    },
+    "entity_mentions": {
+      "status": "ok",
+      "evidence_count": 6
+    },
+    "name_mentions": {
+      "status": "ok",
+      "evidence_count": 2
+    },
+    "phrase_patterns": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    },
+    "grammar_rule_candidates": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    }
+  },
+  "review_queue": [
+    {
+      "chapter_id": "chapter_0014",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "时间",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "佳雪做出的承诺，一看时间，才发现已经到了下午",
+          "流出的汗渍，抬腕看看时间，还不算太晚，干脆冲"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0014",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "通卡",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "\n\n这是不记名的金灵通卡，可以将卡片上的符文",
+          "便。\n\n李耀接过金灵通卡，轻触卡片左上角一个"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0014",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "在一百多年前的晶脑内部",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "改动了一下散热结构，在一百多年前的晶脑内部，采用了一种三十年前"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0014",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "这才一身舒爽地出了门",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "通狠刷，换了身衣服，这才一身舒爽地出了门。\n\n司佳雪给的地址"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0014",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "隐冬湖",
+        "entity_type": "location",
+        "count": 2,
+        "confidence": 0.78,
+        "evidence": [
+          "就在其中一个人工湖“隐冬湖”边上，是一处名叫隐"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0014",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "上东区是权贵云集的富人区",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "东区的一处自助餐厅，上东区是权贵云集的富人区，以前李耀很少来这里"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0014",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "周围共有七个面积很大的人工湖",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "东区位于浮戈城中央，周围共有七个面积很大的人工湖，隐隐将这一区域和周"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0014",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "在富人区",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "放无薪假。\n\n所以，在富人区，只要不是只穿着三角"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0014",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "如猛虎下山",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "，把裤腰带松了一节，如猛虎下山，似饿狗出笼，呼啸而"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0014",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "就在其中一个人工湖",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "，司佳雪给出的地址，就在其中一个人工湖“隐冬湖”边上，是一"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0014",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "灯笼和花园分隔成了十几个私密区域",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "巧妙，用餐区被长廊、灯笼和花园分隔成了十几个私密区域，而摆满食物的长桌则"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0014",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "而摆满食物的长桌则遍布各个区域",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "成了十几个私密区域，而摆满食物的长桌则遍布各个区域，确保客人在相对独立"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0014",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0014:align_0001",
+        "segment_ids": [
+          "chapter_0014:seg_0001",
+          "chapter_0014:seg_0002"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0014",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0014:align_0007",
+        "segment_ids": [
+          "chapter_0014:seg_0008",
+          "chapter_0014:seg_0009"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0014",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0014:align_0042",
+        "segment_ids": [
+          "chapter_0014:seg_0044",
+          "chapter_0014:seg_0045"
+        ]
+      }
+    }
+  ],
   "quality_audit": {
     "segment_coverage": 1.0,
+    "source_hash_match": true,
+    "target_reconstruction_match": true,
+    "invalid_ref_count": 0,
     "locked_term_hit_rate": 1.0,
+    "missing_locked_terms": [],
     "cjk_residue_count": 0,
-    "paragraph_drift_ratio": 0.0,
+    "paragraph_drift_ratio": 0.04918032786885246,
     "pronoun_consistency_score": 1.0,
     "warnings": []
   }

@@ -1,0 +1,733 @@
+{
+  "schema_version": "2.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 50,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan\\0050 - 50.第50章 炼器师的规矩.md",
+  "source_char_count": 2780,
+  "source_hash": "154a4a1ef72832e8fc2a93a6cade3579d85e1b719045603d1ea49009e4d16db1",
+  "source_manifest_hash": "51262f8790ecdd86a41dc26daf3fd88a22a1fc84e3a188e8481fa9337240fc8f",
+  "source_segments": [
+    {
+      "segment_id": "chapter_0050:seg_0001",
+      "source": "# 50.第50章 炼器师的规矩",
+      "source_hash": "37aa5f490f4f8365be57f02c1b6d0c82e284080e6d6012206a2d31081ad79e45"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0002",
+      "source": "小吉道：“初赛一共三天，三天后积分排名最高的六百名考生就能进入决赛！”",
+      "source_hash": "1ab0fa8f3e65f791a48120dd27d3e6e9977a2e8d9f80d3b52c2c64c87d06dd95"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0003",
+      "source": "“其余考生则会被清场，带回辽远号。”",
+      "source_hash": "18e7ed96be58c0ecf619d8fb0aae3194d2df99e1798e460560bba915024e2568"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0004",
+      "source": "“决赛和初赛最大的不同是——会放出关押在魔蛟岛地底洞穴中的强大妖兽，这些妖兽的实力不是普通高中生能够应对的！”",
+      "source_hash": "b41e137770ccecebb1cc90b36a3cdd3c9edb039a1d6094a034dc568c4900abd0"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0005",
+      "source": "“若是能够斩杀他们，获得的积分也远比斩杀普通妖兽要多！”",
+      "source_hash": "9f0db096481f97f2c56973b8b76723f0e6306bd1934a64f2771798a37058671c"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0006",
+      "source": "“除此之外，六百名考生将被随机分成红蓝两队，两队之间可以随意攻击，一旦‘击杀’对手，也就是逼对手的噗叽兽喷出保护凝胶，那么对手的积分就统统归你了！”",
+      "source_hash": "e183be6348700b44594fb22f007bcc36bc8eb1eeb29019ede080b0004bb77674"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0007",
+      "source": "“这就是说，不但要和妖兽搏杀，更要和其他考生较量！”",
+      "source_hash": "f0671f86771cb6c13dfb2cbfaafdd697ffabf07f534d1ccefb98dd9a15afac49"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0008",
+      "source": "李耀心中一动，顿时生出一股莫名的兴奋。",
+      "source_hash": "7b0a32cde87cbb7d49b192a77666f338aff5e9d1ea3ef35992856c2914f4a20d"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0009",
+      "source": "能够进入决赛，代表每一名考生身上都携带有大量的积分，与其劳心劳力去斩杀妖兽，倒不如对敌方考生展开袭击，只要“击杀”一个，就相当于杀死了几十头甚至上百头妖兽。",
+      "source_hash": "9c1330e82298bedb7881c0f32d457fffed75c014c6e5e780056cc04912a85002"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0010",
+      "source": "这种比赛规则，无疑非常能够挑动起年轻人旺盛的战斗欲望，发挥出考生的全部潜力！",
+      "source_hash": "de772db32dd53da9677ad92a8e44ea83f948be659d791d3465b1ea09e763a2f8"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0011",
+      "source": "小吉继续道：“大体上的规则就是如此，经过两天的决赛，最后仍旧生存下来的考生，就按照各自的积分确定排位，排位越高，就越有可能被‘九大’的观察员看中，佼佼者甚至不用经过高考，直接就被‘特招’，所以，李耀同学，努力吧！”",
+      "source_hash": "f61fe0634e6dfc1539603f2c0be4b856c38bef5988722623597a1beeb691d764"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0012",
+      "source": "“特招！”",
+      "source_hash": "b32d4039501899498a9b77190b018a16b36bf48517a3f807f315e5b81f98002c"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0013",
+      "source": "李耀嗓子眼都有些发干，舔了舔嘴唇，问道，“小吉，以往几届比赛中，有多少名学生被特招？”",
+      "source_hash": "83764f6786662bb371fafce8c46b1bdadcf5fad1e57ee381b5a8a9d6ca07f4e1"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0014",
+      "source": "白色噗叽兽歪着脑袋想了想，身体深处传来一阵轻微的“嗡嗡”声。",
+      "source_hash": "d66388963e1449d6b646ee357531253391803a3b9bd4468536b6b20cfe616556"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0015",
+      "source": "李耀听出那是晶脑在高速运转的声音，大约是它正在搜集数据。",
+      "source_hash": "505ef154fa868d10c543aab547338bdd15b9500ad55e35a5e069ea6baec9893b"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0016",
+      "source": "片刻之后，小吉道：",
+      "source_hash": "51e4ca3a104c36f21e7a79ea0b53010833deb3f50834c691a79ce50dfa2a6f03"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0017",
+      "source": "“过去三届挑战赛，571号赛场，平均每届都有五十一名考生被‘九大’特招，就算没被特招，也有‘降分录取’的可能。”",
+      "source_hash": "595859aab571754d3994f3825568fe63c7e35ef30ff197a8c4feba101ffbe9ab"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0018",
+      "source": "“降分录取，又是什么？”李耀追问。",
+      "source_hash": "0fa377dc38538825c1360e539423a1c4dd9c730e2523904a9debfb91c05b8f0a"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0019",
+      "source": "“打个比方，你拥有某一方面的修炼天赋，非常适合某一所大学，但是你的综合实力不算太强，最终积分排在一百多位，两百多位，甚至在决赛一开始就遇到非常强大的妖兽，不得不退出比赛！”",
+      "source_hash": "b3dfd915dcaa97f8fcfa5217c8c2e262397a2c683dbd72208f0cf9297bfcd5fa"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0020",
+      "source": "“这些都没有关系，只要‘九大’的观察员看中，就会和你签订合同，在高考时给你降五分，降十分，甚至降二十分录取的优惠！”",
+      "source_hash": "d1a30b130bfd8f84f227ffe904793825b28f2cd470eb54f5642bacac655b7e7a"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0021",
+      "source": "“这么爽！”",
+      "source_hash": "cbb24df313864351f31b32b7411808105271242bb8f71a8b690d818fbd8c294d"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0022",
+      "source": "这下子李耀可真是心动了。",
+      "source_hash": "368cea0a8ca0f8c85b088b58a4582ac8318ca7bf9cf70d9c7f51059bd7381aae"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0023",
+      "source": "高考高考，就是千军万马过独木桥，“多考一分，碾压千人”，这可不是夸张！",
+      "source_hash": "0e90844561f9d274c5d77237a08d4e56b0bea78b414bb39fd05185e38997ec4d"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0024",
+      "source": "如果一下子有了十几二十分的优惠，考上深海大学的可能性就大大提升了！",
+      "source_hash": "758247a90e92ae68cd80eb5c5ab3cb8e6fd59fa63342854c0e2472d9176d4e49"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0025",
+      "source": "“太好了，就算我不能杀进三千人里的前五十名，不能拿到‘特招’资格，只要表现出色，争取到五分甚至十分的‘降分录取’优惠，也没白来这一趟！”",
+      "source_hash": "83fc0abaa692a8fe482bdb7a370a3e0d7b96b01139ef522c342e7cae8cf4cd47"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0026",
+      "source": "李耀口干舌燥，兴奋莫名，只觉得周身精力无穷，热血沸腾，恨不得现在就是明天早上，立刻开始厮杀。",
+      "source_hash": "139d670f62e07574d5d4d0550728363e503315fe1701e403cd20d1792011781c"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0027",
+      "source": "“不行，我要镇定，赶快睡觉，保持充足的体能和精力，明天，才是决定命运的时刻！”",
+      "source_hash": "2b42fe86ec8b32012b5f5d3dd463fb632b95954afbfc5969e3f3f60efadd61f7"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0028",
+      "source": "李耀躺在床上，双手枕着头，强迫自己睡觉，却怎么都睡不着。",
+      "source_hash": "63a96db9bff77fb962d48257420a52235158936dbf30281642bcba1aba0102bc"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0029",
+      "source": "他眼前，满是“妖刀彭海”驾驭着玄鸟战梭出现在操场上空的一幕。",
+      "source_hash": "a330e1024f25f86d8d06cb92cb555196e4b9a054bb868a62070637dbd2e59c47"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0030",
+      "source": "那种肆无忌惮，碾压全场的霸气，深深烙印在他脑中，久久不能遗忘。",
+      "source_hash": "743b440d4d4fc9377e2e79a0667578df10b1c779ad0952145640f629259d20f7"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0031",
+      "source": "“我，有机会成为第二个彭海吗？”",
+      "source_hash": "e9c9cac6e0343e64d48f3bfce62d0bdcc63e99055d5fa495119e13ea5996c959"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0032",
+      "source": "李耀睁大眼睛，看着天花板上的锈迹，辗转反侧，压得单人床“吱吱”作响。",
+      "source_hash": "91c566031a0ea562397bd5b9867db93c08af91a90253126c3a7f78e9874988e0"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0033",
+      "source": "……",
+      "source_hash": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0034",
+      "source": "正当李耀在单人床上辗转反侧的同时，在他上方两层甲板的另一个单人间中，司佳雪正迎来一位特殊的客人。",
+      "source_hash": "cb6765c83c71e54e02f7c6bfbec07130a1a82fab9a2271f1bc1080776dc196a5"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0035",
+      "source": "“谢教授，实在太谢谢您了，没想到您能亲自过来。”",
+      "source_hash": "84f7ffa2a75fad9e755a782db17b21a1ee90d5efcd9e7658886b51b65952d73d"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0036",
+      "source": "司佳雪毕恭毕敬地说道，她迎接的正是深海大学的炼器专家，谢听弦教授。",
+      "source_hash": "cf338d5741afa3b5d1a239788d61bf80254ed11b7586ba96237c0852b38f7c9b"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0037",
+      "source": "“小丫头，叫我谢爷爷就好了，用不着和我这么客气，我和你爷爷可是近百年的老朋友了，想当年你刚刚出生，我还亲手抱过你，哈哈哈哈。”",
+      "source_hash": "7c9ef61abe2a3bc7bd079a8ffedcd7468f411eb1e8805a249b7963b6cc61bd4f"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0038",
+      "source": "谢听弦笑呵呵地说，随后话锋一转，“小丫头找谢爷爷来，可是有什么事？先说好，要是比赛的事情，谢爷爷可不能随便放水啊！”",
+      "source_hash": "0d843fe61ad1f626ba96bdf41198fafcc71477ec179e077a234d065772d30141"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0039",
+      "source": "司佳雪淡淡一笑：“谢爷爷，我的专长是数据的计算和分析，今后恐怕会走上管理型修真者的道路，深海大学最出名的炼器系，恐怕不太适合我——所以您放心好了，我不会让您为难的。”",
+      "source_hash": "886a5a5b84f7ad60fcc47dd3561084c3a9ed150228ca1660a7a2a1b9b53f6994"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0040",
+      "source": "谢听弦老脸一红：“小丫头，你可别怪谢爷爷小肚鸡肠，当这个观察员，各方面的关系太复杂，有时候不得不丑话说在前面。”",
+      "source_hash": "c9f5cb604e4259713146be6e4cb4857024b82b11f3b211918298c5dc7911ab9b"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0041",
+      "source": "司佳雪点点头，从背囊中取出一台晶脑，递了过去：",
+      "source_hash": "07ad70f6ae69ae65461e51294b99eba078285cfecb940468c039aeb9714973f7"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0042",
+      "source": "“我明白的，谢爷爷，这次请您过来，主要是想让您帮我看一下这台晶脑——这是我奶奶的遗物，是一百多年前的古董，前些日子坏了，找人修了一下，虽说是修好了，使用起来也没什么大碍，终究不知道是否有什么隐患，所以想请您帮我检查一下，不知道是否方便？”",
+      "source_hash": "7ff9505c587bbab10c8af3ecd6add7aab9b376036e7255b5ab6e649728ce5509"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0043",
+      "source": "“原来如此，小事一桩。”",
+      "source_hash": "610aca3195b9a41f791815ba7a860a79627bf0c55f001ba8ce20bc65e9d21921"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0044",
+      "source": "谢听弦松了一口气，脸色也活络起来，目光随意扫过晶脑，“咦”了一声，眼中流露出了饶有兴致的光彩。",
+      "source_hash": "1e415754f377e1b1cd0e6bb19df6b9f6d860554816818cd1d19a983b6b66a0a6"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0045",
+      "source": "“是天琴门的广陵7型管式晶脑，一百四十四年前的产品，非常罕见的老古董啊，保养得这么好，不错，不错，你说找人来修过？这年头，会修这种老古董的人真是不多了，我倒要好好看看，万一破坏了内部结构，就太可惜了！”",
+      "source_hash": "ab4d70dd70ed2cae0d30f0c70bc4489da9473ba4056b0098b843eedf072e8a75"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0046",
+      "source": "谢听弦右手轻轻一摆，也没见他施法，晶脑就飞入掌心，滴溜溜打转，随后，仿佛是有无形的手在操纵，法宝构件一个又一个脱离主体，轻盈地漂浮在半空中，露出了管式晶脑玄奥繁复的内部结构。",
+      "source_hash": "eb2f7e6fe5688ab8d82f8816be3528f727c33c94ab79d66d8903dfd435fb872c"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0047",
+      "source": "“这是——”",
+      "source_hash": "5fc8570d891f654d19aa82567e5f6a265dc0ff0284f5e7e1ef185d9ba43b9e9f"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0048",
+      "source": "看到明显带有现代晶脑散热结构痕迹，却又和管式晶脑的古典风格结合得天衣无缝的散热片，谢听弦一愣。",
+      "source_hash": "ccf447ea1d108e8d578c04990dffd19a0bd9fe22aa771e970746d2e43bda6226"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0049",
+      "source": "“怎么样，谢爷爷，是不是有什么问题？”司佳雪紧张起来。",
+      "source_hash": "5059b5f6fda67881c555a9b77eefcff07d706fcc65648222fcc8a6a5a22ea4d3"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0050",
+      "source": "“小丫头，这就是你的不对啦。”谢听弦拖长了音调。",
+      "source_hash": "aa9b0f96a68dfb91956b049723a8a97b0bf4de7d6ebd846c69b94973e2d8e322"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0051",
+      "source": "“我，我怎么了？”",
+      "source_hash": "f422218c55f519630f04f90882d62fb8b926d4819638e5167806da3ffec40c6c"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0052",
+      "source": "司佳雪丈二和尚摸不着头脑，白嫩的俏脸上浮现出一抹疑惑。",
+      "source_hash": "a2532e51b1c19dc45fb0269338a7c4cdf5903ba9aa8b1b3f5e3978b53105bac6"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0053",
+      "source": "谢听弦看了她一眼，见她是真的不明白，皱眉道：",
+      "source_hash": "2627cc412f8c9ba9818257be23bbe0c0c62b9f505614e9a5c88e7fe4d905e711"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0054",
+      "source": "“小丫头，你这台晶脑，明显是托了高手去修的。”",
+      "source_hash": "18582671e07d85178a6093336e14f03c2ec1ac7460730078ff2f1f2040ddf679"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0055",
+      "source": "“这位高手重新设计了散热片的结构，思路非常精妙，而且组装手法也非常纯熟完美，既保证了结构的稳固和散热效率，而且也留下了以后升级的空间，甚至能用同样的方式，多加上一块散热片，组成效率更高的散热组，能把你这台晶脑的性能提升10%以上！”",
+      "source_hash": "814f6bddaff5ee1ede837a7d3a60b3220fead35d3b83f0e208b6f6bc406f4722"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0056",
+      "source": "“对古董晶脑有如此深的了解，手法又这么高明，应该是炼器师吧？”",
+      "source_hash": "5c3554cba18d53162a3d339e75eb4634a18c5d83bd3824b7f50c6d9972d450a1"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0057",
+      "source": "“要知道，每一名炼器师都有自己的尊严，对作品有极强的信心，你选择了让人家去修，结果又不相信人家，还拿来让我检测，这就是对他极大的侮辱了！”",
+      "source_hash": "177afac3124ff17e4b91d1b5c69ebbd722d190c9ca132e9b0c1a1418b90009a7"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0058",
+      "source": "“一旦他知道这件事，不但会对你生出恶意，甚至会迁怒于我，说不定什么时候就要找我一较高下，看看我究竟有没有资格检修他的作品！”",
+      "source_hash": "bc757997de296dde1beba355be23e4d77c8801043aba9075aed7a8e3a4de6e61"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0059",
+      "source": "“这么严重？”司佳雪吓了一跳。",
+      "source_hash": "16887a77626e351d45c2439f2eee11877f9439536fe3575237742e156a82c96b"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0060",
+      "source": "“你不是炼器师，自然不知道圈子里的规矩，每一件作品都是炼器师的心血，就像是他们的孩子，绝不容许别人乱动的！像这种情况，至少要先和人家说一声，得到人家许可，我才能动手检修，你和人家说过没有？”",
+      "source_hash": "35529a60d9c6e5585e5ac9a367ffc865eabab2e15b6d43a75176c320fe76d7cc"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0061",
+      "source": "司佳雪十分迷茫地摇了摇头。",
+      "source_hash": "470ebd2edc39cbd61b8b885577f52a414e01298f072e867bb0e365b6a186c941"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0062",
+      "source": "“唉，也是我大意，还以为你只是随便找人修了一下，没想到是真正的高手，这下有些麻烦了。”谢听弦有些懊恼地说。",
+      "source_hash": "4f381210d264da34130f3d095e32196a1d94e4d528b3ca87da05e06d2ff071b9"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0063",
+      "source": "“可，可我是随便找人修了一下啊，我找的是一个同学。”司佳雪结结巴巴地说。",
+      "source_hash": "4157c2b48bfb0b1a7e7d7c5aa6e0d10c0d2a6a6abadc8daf27ce037fe8b14375"
+    },
+    {
+      "segment_id": "chapter_0050:seg_0064",
+      "source": "“什么，你的同学——高中生？”",
+      "source_hash": "3bf0718971272a46777e941daefd813d67e0c12e76af7eb8b8e2437c0b176e59"
+    }
+  ],
+  "known_characters": [
+    {
+      "id": "protagonist_ly_dieu",
+      "name_source": "李耀",
+      "name_target": "Lý Diệu",
+      "name_aliases": [
+        "Thốc Thứu",
+        "Kền Kền",
+        "Âu Dã Minh"
+      ],
+      "gender": "male",
+      "age_group": "teenager",
+      "social_status": "Học sinh lớp thường / Thợ nhặt rác",
+      "base_archetype": "protagonist",
+      "speech_style": "Thẳng thắn, thực tế, hơi ngông cuồng của thiếu niên nhưng có suy nghĩ thấu đáo và kiên định.",
+      "first_appearance": {
+        "chapter": 1,
+        "context": "Xuất hiện nhặt rác tại Nghĩa địa Pháp Bảo"
+      },
+      "cultivation": {
+        "primary_system": "Linh căn khai phát / Cơ khí tu chân",
+        "current_realm": "Người thường (Linh căn khai phát 35%)",
+        "current_sub_stage": "",
+        "notes": "Linh căn khai phát ban đầu chỉ có 35% nhưng có tiềm năng tinh thần lực cực cao nhờ dị mộng."
+      },
+      "abilities": [
+        "Kỹ năng đua xe Trái Đất",
+        "Chế tạo cơ khí thủ công",
+        "Sửa chữa pháp bảo phế thải",
+        "Linh Xà Thân Pháp"
+      ],
+      "faction": {
+        "current": {
+          "name": "Xích Tiêu Nhị Trung",
+          "role": "Học sinh lớp thường"
+        },
+        "history": [
+          {
+            "name": "Trái Đất (kiếp trước)",
+            "role": "Tay đua xe chuyên nghiệp"
+          }
+        ]
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Thiếu niên 17 tuổi gầy gò, khỏe khoắn, da ngăm đen do dầm mưa dãi nắng ở nghĩa địa pháp bảo, đôi mắt sáng ngời sắc bén như chim ưng.",
+        "style": "Đồ lao động cũ kỹ bám đầy dầu mỡ, sau đó mặc đồng phục Xích Tiêu Nhị Trung.",
+        "distinctive": "Lòng bàn tay có nhiều vết chai sạn do sửa chữa cơ khí và vung búa rèn."
+      },
+      "personality": {
+        "traits": [
+          "Kiên trì",
+          "Thực tế",
+          "Thích tiền",
+          "Bền bỉ",
+          "Mưu mẹo"
+        ],
+        "speech": "Dứt khoát, thường xưng 'tôi' hoặc 'ta' tùy ngữ cảnh."
+      },
+      "notes": ""
+    },
+    {
+      "id": "ally_banh_hai",
+      "name_source": "彭海",
+      "name_target": "Bành Hải",
+      "name_aliases": [
+        "Yêu Đao"
+      ],
+      "gender": "male",
+      "age_group": "young_adult",
+      "social_status": "Cực phẩm tu chân giả / Đặc huấn viên",
+      "base_archetype": "mentor",
+      "speech_style": "Lạnh lùng, khí phách, uy nghiêm nhưng quan tâm đến việc bồi dưỡng thế hệ trẻ.",
+      "first_appearance": {
+        "chapter": 2,
+        "context": "Xuất hiện trên bản tin quang mạc, sau đó đến trường đặc huấn ch.4"
+      },
+      "cultivation": {
+        "primary_system": "Kiếm tu / Linh năng",
+        "current_realm": "Trúc Cơ Kỳ (Đỉnh phong)",
+        "current_sub_stage": "",
+        "notes": "Được coi là huyền thoại sống, cựu học sinh xuất sắc của Xích Tiêu Nhị Trung."
+      },
+      "abilities": [
+        "Yêu Đao Kiếm Pháp",
+        "Ngự kiếm phi hành"
+      ],
+      "faction": {
+        "current": {
+          "name": "Xích Tiêu Phái",
+          "role": "Chiến binh nòng cốt"
+        },
+        "history": [
+          {
+            "name": "Xích Tiêu Nhị Trung",
+            "role": "Học sinh lớp trọng điểm"
+          }
+        ]
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Thân hình cao lớn, thẳng tắp như một thanh kiếm báu, tỏa ra ánh mắt sắc bén lẫm liệt.",
+        "style": "Y phục chiến đấu gọn gàng, mang theo bội đao khí thế bức người.",
+        "distinctive": "Khí tràng lạnh lùng sắc bén bao quanh cơ thể."
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "npc_tieu_giai_tuyet",
+      "name_source": "司佳雪",
+      "name_target": "Tiêu Giai Tuyết",
+      "name_aliases": [
+        "Nữ thần Nhị Trung"
+      ],
+      "gender": "female",
+      "age_group": "teenager",
+      "social_status": "Học sinh lớp trọng điểm / Đại tiểu thư",
+      "base_archetype": "quest_giver",
+      "speech_style": "Kiêu kỳ, lịch thiệp nhưng ẩn chứa sự xa cách của giới thượng lưu.",
+      "first_appearance": {
+        "chapter": 7,
+        "context": "Đạt đồng hạng nhất khối thi thử và gặp Lý Diệu ở nhà kho cũ"
+      },
+      "cultivation": {
+        "primary_system": "Linh năng",
+        "current_realm": "Bán Tu Chân Giả (Linh căn khai phát 71%)",
+        "current_sub_stage": "",
+        "notes": "Gia thế hiển hách, có tài nguyên tu luyện phong phú."
+      },
+      "abilities": [
+        "Luyện khí thuật cơ bản",
+        "Tinh não Quảng Lăng số 7"
+      ],
+      "faction": {
+        "current": {
+          "name": "Xích Tiêu Nhị Trung",
+          "role": "Học sinh lớp trọng điểm (Đồng hạng nhất)"
+        },
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Xinh đẹp như hoa, làn da trắng ngần, phong thái thanh tao quý phái.",
+        "style": "Đồng phục nữ sinh tinh xảo của lớp trọng điểm, trang sức đắt tiền.",
+        "distinctive": "Luôn toát ra vẻ tự tin của con nhà tông môn."
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "谢听弦",
+      "name_source": "谢听弦",
+      "name_target": "Tạ Thính Huyền",
+      "name_aliases": [],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Quan sát viên/Quan sát viên tuyển sinh của Đại học Thâm Hải, có con mắt tinh đời phát hiện tài năng cơ khí tiềm ẩn thông qua đôi bàn tay nhiều vết chai của Lý Diệu.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    }
+  ],
+  "known_worldbuilding": [
+    {
+      "section": "factions",
+      "name_source": "天琴门",
+      "name_target": "Thiên Cầm Môn",
+      "type": "Tông môn cổ đại",
+      "description": "Môn phái cổ xưa chuyên chế tạo các pháp bảo cơ cấu và nhạc khí lượng tử linh năng, nổi tiếng với dòng tinh não cổ 'Quảng Lăng'."
+    },
+    {
+      "section": "factions",
+      "name_source": "深海大学",
+      "name_target": "Đại học Thâm Hải",
+      "type": "Trường đại học",
+      "description": "Được mệnh danh là 'Thánh địa của Luyện khí sư', cơ sở đào tạo pháp bảo và luyện khí tốt nhất Liên bang."
+    },
+    {
+      "section": "locations",
+      "name_source": "魔蛟岛",
+      "name_target": "Đảo Ma Giao",
+      "type": "Chiến trường / Đảo hoang",
+      "description": "Một đảo nhỏ hẻo lánh làm đấu trường cho Giải đấu Thử thách Cực hạn Thiếu niên của Liên bang."
+    },
+    {
+      "section": "items",
+      "name_source": "辽远号",
+      "name_target": "Liêu Viễn Hào",
+      "type": "Chiến hạm",
+      "description": "Kỳ hạm vĩ đại của Liên bang, được toàn bộ tu chân giả luyện chế 500 năm trước. Từng đâm chìm Thiên Dã Hào trong Huyết Hải Đại Chiến, hiện làm bảo tàng và căn cứ giáo dục, đồng thời trấn áp yêu hồn."
+    }
+  ],
+  "heuristic_candidates": {
+    "characters": [
+      {
+        "source": "谢爷爷",
+        "entity_type": "person",
+        "count": 3,
+        "confidence": 0.82,
+        "evidence": [
+          "\n司佳雪淡淡一笑：“谢爷爷，我的专长是数据的计",
+          "去：\n\n“我明白的，谢爷爷，这次请您过来，主要",
+          "一愣。\n\n“怎么样，谢爷爷，是不是有什么问题？"
+        ]
+      },
+      {
+        "source": "吉道",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "的规矩\n\n  \n\n小吉道：“初赛一共三天，三",
+          "据。\n\n片刻之后，小吉道：\n\n“过去三届挑战"
+        ]
+      },
+      {
+        "source": "和人家",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.82,
+        "evidence": [
+          "像这种情况，至少要先和人家说一声，得到人家许可",
+          "，我才能动手检修，你和人家说过没有？”\n\n司佳"
+        ]
+      },
+      {
+        "source": "高考",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "，佼佼者甚至不用经过高考，直接就被‘特招’，",
+          "真是心动了。\n\n高考高考，就是千军万马过独木"
+        ]
+      }
+    ],
+    "organizations": [
+      {
+        "source": "非常适合某一所大学",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "某一方面的修炼天赋，非常适合某一所大学，但是你的综合实力不"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "source": "妖刀彭海",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "。\n\n他眼前，满是“妖刀彭海”驾驭着玄鸟战梭出现"
+        ]
+      }
+    ],
+    "techniques": [
+      "也没见他施法",
+      "佼佼者甚至不用经",
+      "晶脑就飞入掌",
+      "深深烙印",
+      "而且组装手法",
+      "身体深处传来一阵"
+    ]
+  },
+  "realms": [],
+  "matched_glossary_terms": [
+    {
+      "source": "晶脑",
+      "target": "Tinh não"
+    },
+    {
+      "source": "玄鸟战梭",
+      "target": "Huyền Điểu Chiến Toa"
+    },
+    {
+      "source": "管式晶脑",
+      "target": "tinh não dạng ống"
+    },
+    {
+      "source": "广陵7型",
+      "target": "Quảng Lăng số 7"
+    },
+    {
+      "source": "天琴门",
+      "target": "Thiên Cầm Môn"
+    },
+    {
+      "source": "散热片",
+      "target": "tấm tản nhiệt"
+    },
+    {
+      "source": "司佳雪",
+      "target": "Tiêu Giai Tuyết"
+    },
+    {
+      "source": "彭海",
+      "target": "Bành Hải"
+    },
+    {
+      "source": "妖刀",
+      "target": "Yêu Đao"
+    },
+    {
+      "source": "噗叽兽",
+      "target": "thú Pút Kít"
+    },
+    {
+      "source": "炼器师",
+      "target": "luyện khí sư"
+    },
+    {
+      "source": "辽远号",
+      "target": "Liêu Viễn Hào"
+    },
+    {
+      "source": "深海大学",
+      "target": "Đại học Thâm Hải"
+    },
+    {
+      "source": "谢听弦",
+      "target": "Tạ Thính Huyền"
+    },
+    {
+      "source": "魔蛟岛",
+      "target": "Đảo Ma Giao"
+    }
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "晶脑",
+      "target": "Tinh não"
+    },
+    {
+      "source": "散热片",
+      "target": "tấm tản nhiệt"
+    },
+    {
+      "source": "司佳雪",
+      "target": "Tiêu Giai Tuyết"
+    },
+    {
+      "source": "彭海",
+      "target": "Bành Hải"
+    },
+    {
+      "source": "妖刀",
+      "target": "Yêu Đao"
+    },
+    {
+      "source": "噗叽兽",
+      "target": "thú Pút Kít"
+    },
+    {
+      "source": "炼器师",
+      "target": "luyện khí sư"
+    }
+  ],
+  "structural_hints": {
+    "has_dialogue": true,
+    "has_western_names": false,
+    "estimated_segments": 67
+  },
+  "generated_at": "2026-05-31T14:25:16.536378+07:00"
+}

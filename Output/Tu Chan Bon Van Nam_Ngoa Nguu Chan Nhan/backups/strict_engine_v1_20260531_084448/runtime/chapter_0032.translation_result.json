@@ -1,0 +1,371 @@
+{
+  "chapter_title_translated": "Cậu Ta Là Quái Vật!",
+  "new_terms_discovered": [
+    {
+      "source": "修真界败类",
+      "target": "Bại hoại giới Tu Chân",
+      "category": "general",
+      "note": "Biệt danh xưa kia của Tôn Bưu trong giới tu chân."
+    },
+    {
+      "source": "灵鹤传书",
+      "target": "Linh Hạc Truyền Thư",
+      "category": "item",
+      "note": "Thiết bị liên lạc truyền hình ảnh ảo lập thể của giới tu chân."
+    }
+  ],
+  "new_characters_discovered": [],
+  "chapter_summary": "Tiêu Giai Tuyết liên hệ với Tôn Bưu qua Linh Hạc Truyền Thư, gửi lời cảm ơn vì đã dẫn Lý Diệu đi để tránh rắc rối từ Hách Liên Liệt. Tôn Bưu sau đó liên lạc với học trò cũ của mình là Yêu Đao Bành Hải, khoe về việc Lý Diệu đang khoác bộ giáp 'Từ Bỏ' hoàn thành tám tổ gánh tạ sâu nửa tấn bằng cơ thể phàm nhân thô trần. Bành Hải xem các video chiến đấu của Lý Diệu, nhận ra điều kỳ lạ và vô cùng hào hứng hẹn gặp mặt Lý Diệu xuyên đêm.",
+  "worldbuilding_updates": {
+    "factions": [],
+    "locations": [],
+    "techniques": [],
+    "items": [
+      {
+        "name_source": "灵鹤传书",
+        "name_target": "Linh Hạc Truyền Thư",
+        "type": "Pháp bảo liên lạc",
+        "description": "Pháp bảo liên lạc tin nhắn và đàm thoại thời gian thực, có khả năng chiếu ra mô hình chim hạc ảo lập thể 3D."
+      }
+    ],
+    "cultivation_resources": []
+  },
+  "timeline_entry": {
+    "chapter": 32,
+    "title": "Cậu Ta Là Quái Vật!",
+    "summary": "Tiêu Giai Tuyết nhờ cha cầu xin Tôn Bưu giúp Lý Diệu. Tôn Bưu liên lạc với Yêu Đao Bành Hải để khoe về ý chí quái vật của Lý Diệu khi rèn luyện với bộ giáp Từ Bỏ, khiến Bành Hải nảy sinh hứng thú lớn muốn gặp mặt Lý Diệu thâu đêm.",
+    "characters": [
+      {
+        "name": "Tiêu Giai Tuyết",
+        "interaction": "Nhờ cha nhờ vả Tôn lão giúp đỡ Lý Diệu để trả nợ ân tình sửa chữa tinh não",
+        "is_new": false
+      },
+      {
+        "name": "Tôn Bưu",
+        "interaction": "Nhận cuộc gọi của Tiêu Giai Tuyết, trò chuyện với Bành Hải khoe về Lý Diệu mặc giáp Từ Bỏ làm gánh tạ",
+        "is_new": false
+      },
+      {
+        "name": "Bành Hải",
+        "interaction": "Tắm bồn trò chuyện với Tôn Bưu, xem video đánh nhau và tập luyện của Lý Diệu, bày tỏ hứng thú trò chuyện thâu đêm với Lý Diệu",
+        "is_new": false
+      }
+    ],
+    "plot_points": [
+      "Tiêu Giai Tuyết phủ nhận quan hệ tình cảm với Lý Diệu, chỉ cứu cậu vì mang nợ ân tình sửa tinh não",
+      "Lý Diệu kiên trì tập luyện đến tổ thứ 7-8 gánh tạ sâu",
+      "Tôn Bưu tiết lộ biệt danh quá khứ là 'Bại hoại giới Tu Chân'",
+      "Bành Hải kinh ngạc khi thấy Lý Diệu (độ khai phát linh căn 60%) dùng cơ thể phàm trần gánh vác giáp Từ Bỏ vốn dĩ yêu cầu linh căn 100%",
+      "Bành Hải quyết định tối nay sẽ tìm gặp trò chuyện thâu đêm với Lý Diệu"
+    ]
+  },
+  "aligned_segments": [
+    {
+      "seg_id": "seg_0001",
+      "source": "# 32.第32章 他是怪兽！",
+      "target": "# Chương 0032 - Cậu Ta Là Quái Vật!",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0002",
+      "source": "看着李耀如疯如狂，一次又一次撕裂浑身上下所有肌肉，孙彪的眼神有些恍惚，思绪飞到了十几年前，陷入久远的回忆。\n瞳孔深处，李耀倔强的身影，似乎渐渐和另外一道高大的身影重叠起来，化作一体。",
+      "target": "Nhìn Lý Diệu điên cuồng như điên dại, hết lần này đến lần khác xé rách từng thớ cơ trên khắp cơ thể, ánh mắt Tôn Bưu có chút xuất thần, dòng suy nghĩ bay về mười mấy năm trước, chìm đắm trong ký ức xa xăm.",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0003",
+      "source": "直到光幕右下角传来轻轻的鸣叫，手腕微微震动，老头子才回过神来，吞了口唾沫，滋润一下有些干涩的嗓子，缩到李耀看不到的角落里，开启了灵鹤传书的实时对话功能。",
+      "target": "Nơi sâu thẳm trong đồng tử, bóng hình kiên cường của Lý Diệu dường như dần dần trùng khít với một bóng hình cao lớn khác, hóa thành một thể.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0004",
+      "source": "一抹清丽的身影，夹杂着一抹寒意，出现在光幕中央。\n“孙老，您已经把那小子带走了吧，这一次实在太谢谢您了！”司佳雪十分真诚地感谢道。",
+      "target": "Một bóng hình thanh lệ mang theo một chút lạnh lùng hiện lên ở giữa màn hình ánh sáng.",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0005",
+      "source": "孙彪呵呵一笑，道：“小雪丫头，你都通过你爹来求我这个老头子，我还有什么可说的？不过你和这小子究竟是什么关系，为什么要帮他？”",
+      "target": "\"Tôn lão, ngài đã dẫn tên nhóc đó đi rồi chứ? Lần này thực sự vô cùng cảm ơn ngài!\" Tiêu Giai Tuyết chân thành cảm tạ.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0006",
+      "source": "司佳雪微微皱眉，似乎很不愿意和李耀扯上关系，认真解释道：“孙老，我和这个小无赖没有半点关系，只不过前几天托他维修奶奶留下的一台老式晶脑，因为这件事才让他和赫连烈那条疯狗闹出矛盾，说到底，此事因我而起，我当然不能让他被赫连烈那条疯狗咬伤，否则，今后谁还敢和我来往？”",
+      "target": "Tôn Bưu cười hì hì bảo: \"Nha đầu Tiểu Tuyết, cháu đã nhờ cả bố cháu đến cầu xin lão già này, ta còn có thể nói gì nữa đây? Nhưng cháu và tên nhóc kia rốt cuộc có quan hệ gì, tại sao lại muốn giúp cậu ta?\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0007",
+      "source": "孙彪眉毛一扬，摆出一副戏谑的表情：“就这么简单？不会是小雪丫头你看上这小子了吧？”\n“他？怎么可能！”司佳雪哑然失笑。",
+      "target": "Tôn Bưu nhướn mày, bày ra vẻ mặt trêu chọc: \"Chỉ đơn giản thế thôi sao? Không phải nha đầu Tiểu Tuyết cháu đã vừa mắt thằng nhóc này rồi đấy chứ?\"",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0008",
+      "source": "孙彪一愣，咋舌道：“连这种极品都不可能，小雪丫头，你的眼光真不是一般的高！”",
+      "target": "\"Cậu ta? Sao có thể chứ!\" Tiêu Giai Tuyết phì cười.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0009",
+      "source": "司佳雪浅浅一笑，岔开话题，一老一小又随意聊了几句，孙彪切断通讯，再抬头时，却听李耀声嘶力竭地咆哮：\n“第七组，开始！”",
+      "target": "Tôn Bưu ngẩn ra, tặc lưỡi nói: \"Đến loại cực phẩm thế này cũng không được ư? Nha đầu Tiểu Tuyết, nhãn quang của cháu quả thực không phải cao bình thường đâu!\"",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0010",
+      "source": "“这个怪物，难不成还真能穿着‘放弃’，完成十组深蹲？”孙彪惊讶得头皮都有些发痒，一边挠着头皮一边思考，片刻之后，在通讯录中找出一个名字，发出一道灵鹤传书。\n很快，一头虚拟灵鹤从光幕右下角缓缓飞来，翅膀张开，幻化成了一抹清晰的立体人影，正是妖刀彭海。",
+      "target": "Tiêu Giai Tuyết cười nhẹ một tiếng khéo léo chuyển chủ đề, hai người lớn nhỏ lại tùy ý trò chuyện vài câu rồi Tôn Bưu ngắt liên lạc. Đến lúc ngẩng đầu lên, cụ lại nghe thấy tiếng gầm rú khàn cả giọng của Lý Diệu:",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0011",
+      "source": "他舒舒服服地躺在一个大浴缸中，面前漂浮着一个大大的果盘，十分惬意地泡澡。",
+      "target": "\"Tổ thứ bảy, bắt đầu!\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0012",
+      "source": "彭海笑道：“老头子，我正准备找你晚上一起吃饭，顺便打听个人呢——你知不知道咱们赤霄二中最近几届，有没有毕业过什么‘怪物级’学生？”\n“怪物级？最近几年没什么特别好的苗子，都普普通通，我要好好想想！哎，这事儿放在一边先不说，先和你说个爆炸性新闻——还记不记得十几年前我专门为你炼制的那件‘放弃’？”孙彪搓着手，想要吓彭海一跳。",
+      "target": "\"Cái tên quái vật này, chẳng lẽ thực sự có thể mặc bộ đồ 'Từ Bỏ' hoàn thành trọn vẹn mười tổ gánh tạ sâu sao?\" Tôn Bưu kinh ngạc đến mức da đầu có chút ngứa ngáy, vừa gãi đầu vừa ngẫm nghĩ. Một lúc sau, cụ tìm ra một cái tên trong danh bạ, gửi đi một đạo Linh Hạc Truyền Thư.",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0013",
+      "source": "妖刀彭海的面部肌肉一阵抽搐，回想起了一段不堪回首的往事，咬牙切齿道：“当然记得，你这个死老头子，居然炼制出这么歹毒的法宝，真不愧是曾经有‘修真界败类’称号的极品人渣！”",
+      "target": "Rất nhanh, một con chim hạc ảo từ góc dưới bên phải màn hình từ từ bay đến, đôi cánh xòe ra hóa thành một bóng người lập thể rõ ràng, chính là Yêu Đao Bành Hải.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0014",
+      "source": "孙彪“嘿嘿”一笑，对这个外号很是骄傲，迫不及待地说：“你毕业之后，这件衣服我一直丢在角落里，从来没管过，不过今天有一个学生把它穿上了！”\n“什么？”",
+      "target": "Anh ta đang nằm vô cùng thoải mái trong một bồn tắm lớn, trước mặt trôi nổi một khay hoa quả to, đang tắm bồn hết sức thư thái dễ chịu.",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0015",
+      "source": "妖刀彭海真的被吓住了，表情变得哭笑不得，“死老头，你的玩心也太重了吧，这种东西怎么能随随便便给人穿，会把人折磨到精神崩溃的！”\n孙彪有些不好意思，嘟哝道：“一开始，我只是看那小子太嚣张，想给他一个下马威，心说让他尝尝滋味，一两分钟后还不是哭爹喊娘，乖乖脱下来？谁知道这小子食髓知味，穿上就不肯脱了，而且还一口气做了七组……不对，是八组三百公斤深蹲！”",
+      "target": "Bành Hải cười nói: \"Lão đầu tử, con đang định tối nay rủ thầy đi ăn cơm, sẵn tiện hỏi thăm một người đây — Thầy có biết trong mấy khóa gần đây của trường Xích Tiêu Nhị Trung chúng ta có cựu học sinh nào thuộc cấp độ 'quái vật' tốt nghiệp không?\"",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0016",
+      "source": "妖刀彭海惊讶道：“赤霄二中居然有这种修炼天才？我怎么没发现？难道不是高三学生，是高一高二的？”\n孙彪伸出一根手指，轻轻摇晃：“不，他不是修炼天才。”",
+      "target": "Tôn Bưu \"hắc hắc\" cười một tiếng, vô cùng tự hào về cái biệt danh này, không kiên nhẫn nổi liền khoe ngay: \"Sau khi con tốt nghiệp, bộ quần áo đó ta cứ vứt xó một góc chưa từng đụng tới, thế mà hôm nay có một học sinh đã mặc nó vào rồi!\"",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0017",
+      "source": "“不是修炼天才？”彭海皱眉。\n孙彪眯起眼睛，十分认真地说：“想当年，我炼制出‘放弃’时，你虽然只有十四岁，但是灵根开发度已经达到100%，能够初步沟通天地灵能，将灵气引入体内，强壮体魄，坚固神魂，才能扛过‘放弃’的种种考验！”",
+      "target": "\"Cái gì?\" Yêu Đao Bành Hải thực sự bị dọa cho giật mình, vẻ mặt dở khóc dở cười, \"Lão già kia, tính ham chơi của thầy cũng quá đà rồi đấy. Loại đồ đó làm sao có thể tùy tiện cho người ta mặc được chứ, sẽ hành hạ người ta đến mức tinh thần sụp đổ mất thôi!\"",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0018",
+      "source": "顿了一顿，深吸一口气，似乎现在还不敢相信看到的一切，孙彪继续道，“而这小子今年已经十八岁，灵根开发度最多60%，还是一个彻彻底底的肉体凡胎，他是用血肉之躯和妖怪级别的粗大神经，在硬生生对抗‘放弃’！你这种人，是百年难得一见的修炼天才，而他这种，只能说是彻头彻尾的——怪兽！”\n妖刀彭海动容，没想到恩师对这小子的评价这么高，他也来了兴趣：“老头子，发个视频过来看看？”",
+      "target": "Yêu Đao Bành Hải kinh ngạc: \"Xích Tiêu Nhị Trung lại có thiên tài tu luyện bực này ư? Sao con lại không phát hiện ra nhỉ? Chẳng lẽ không phải học sinh lớp mười hai mà là lớp mười, lớp mười một?\"",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0019",
+      "source": "“没问题，对了，我这里还有一段他刚刚打架的监控画面，一起发过来给你看看，虽然从实力上来说，是小孩打架的级数，可是那种战斗意识和对环境的利用，哈哈，说句让你生气的话，似乎比你更适合继承我这个‘修真界败类’的衣钵啊！”孙彪一边发出猥琐的奸笑，一边发送过去几段视频。",
+      "target": "Tôn Bưu giơ một ngón tay lên khẽ đung đưa: \"Không, cậu ta không phải thiên tài tu luyện.\"\n\"Không phải thiên tài tu luyện?\" Bành Hải cau mày.",
+      "alignment_type": "1-to-many",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0020",
+      "source": "“我怎么会生气呢，我现在在修真界行走，从来不敢承认自己是‘修真界败类’的亲传弟子，否则，我怕分分钟都有一大帮正义人士出来斩妖除魔，为修真界除害啊，真有人能继承您的衣钵，我求之不得！”",
+      "target": "Yêu Đao Bành Hải động dung, không ngờ ân sư lại đánh giá thằng nhóc này cao đến vậy, anh ta cũng nảy sinh hứng thú: \"Lão đầu tử, thầy gửi cái video qua đây con xem thử?\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0021",
+      "source": "彭海笑嘻嘻道，接收了视频，漫不经心地打开看起来。\n看着看着，他坐直了，表情变得越来越惊讶，眼底闪过一抹喜色。",
+      "target": "Bành Hải cười hi hi nói, nhận video rồi lơ đãng mở ra xem.",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0022",
+      "source": "“怎么样，还不错吧？你要找什么怪物级的毕业生，我是没什么太大印象，反正这几年来，能让我惊得目瞪口呆的小怪物，就只有这么一个了！有没有兴趣过来，找这个小家伙聊几句？”孙彪笑道。",
+      "target": "Xem xem một hồi, anh ta bỗng ngồi thẳng dậy, biểu cảm càng lúc càng kinh ngạc, nơi đáy mắt thoáng qua một tia mừng rỡ.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0023",
+      "source": "“不用了，你先聊着，我待会儿再和他‘秉烛夜谈’，聊个通宵！”妖刀彭海笑眯眯地说，笑容邪恶到了极点。",
+      "target": "\"Không cần đâu, thầy cứ nói chuyện trước đi. Lát nữa con sẽ tới trò chuyện thâu đêm với cậu ta sau!\" Yêu Đao Bành Hải híp mắt nói, nụ cười tà ác đến cực điểm.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    }
+  ],
+  "term_occurrences": [
+    {
+      "source_term": "孙彪",
+      "target_term": "Tôn Bưu",
+      "seg_id": "seg_0002",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "character"
+    },
+    {
+      "source_term": "灵鹤传书",
+      "target_term": "Linh Hạc Truyền Thư",
+      "seg_id": "seg_0004",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "item"
+    },
+    {
+      "source_term": "孙老",
+      "target_term": "Tôn lão",
+      "seg_id": "seg_0006",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "character"
+    },
+    {
+      "source_term": "司佳雪",
+      "target_term": "Tiêu Giai Tuyết",
+      "seg_id": "seg_0007",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "character"
+    },
+    {
+      "source_term": "晶脑",
+      "target_term": "Tinh não",
+      "seg_id": "seg_0011",
+      "is_locked": false,
+      "present_in_target": false,
+      "category": "item"
+    },
+    {
+      "source_term": "放弃",
+      "target_term": "Từ Bỏ",
+      "seg_id": "seg_0024",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "item"
+    },
+    {
+      "source_term": "彭海",
+      "target_term": "Bành Hải",
+      "seg_id": "seg_0026",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "character"
+    },
+    {
+      "source_term": "妖刀",
+      "target_term": "Yêu Đao",
+      "seg_id": "seg_0026",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "general"
+    },
+    {
+      "source_term": "赤霄二中",
+      "target_term": "Xích Tiêu Nhị Trung",
+      "seg_id": "seg_0028",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "faction"
+    },
+    {
+      "source_term": "修真界败类",
+      "target_term": "Bại hoại giới Tu Chân",
+      "seg_id": "seg_0034",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "general"
+    },
+    {
+      "source_term": "灵根",
+      "target_term": "Linh căn",
+      "seg_id": "seg_0055",
+      "is_locked": false,
+      "present_in_target": false,
+      "category": "general"
+    },
+    {
+      "source_term": "灵根开发度",
+      "target_term": "độ khai phát linh căn",
+      "seg_id": "seg_0055",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "general"
+    }
+  ],
+  "entity_mentions": [
+    {
+      "source_surface": "李耀",
+      "target_surface": "Lý Diệu",
+      "entity_type": "person",
+      "seg_id": "seg_0002",
+      "confidence": 1.0
+    },
+    {
+      "source_surface": "孙彪",
+      "target_surface": "Tôn Bưu",
+      "entity_type": "person",
+      "seg_id": "seg_0002",
+      "confidence": 1.0
+    },
+    {
+      "source_surface": "司佳雪",
+      "target_surface": "Tiêu Giai Tuyết",
+      "entity_type": "person",
+      "seg_id": "seg_0007",
+      "confidence": 1.0
+    },
+    {
+      "source_surface": "赫连烈",
+      "target_surface": "Hách Liên Liệt",
+      "entity_type": "person",
+      "seg_id": "seg_0011",
+      "confidence": 1.0
+    },
+    {
+      "source_surface": "彭海",
+      "target_surface": "Bành Hải",
+      "entity_type": "person",
+      "seg_id": "seg_0026",
+      "confidence": 1.0
+    }
+  ],
+  "phrase_patterns": [],
+  "grammar_rule_candidates": [],
+  "quality_audit": {
+    "segment_coverage": 1.0,
+    "locked_term_hit_rate": 1.0,
+    "cjk_residue_count": 0,
+    "paragraph_drift_ratio": 0.548,
+    "pronoun_consistency_score": 1.0,
+    "warnings": []
+  },
+  "translated_text": "# Chương 0032 - Cậu Ta Là Quái Vật!\n\nNhìn Lý Diệu điên cuồng như điên dại, hết lần này đến lần khác xé rách từng thớ cơ trên khắp cơ thể, ánh mắt Tôn Bưu có chút xuất thần, dòng suy nghĩ bay về mười mấy năm trước, chìm đắm trong ký ức xa xăm.\n\nNơi sâu thẳm trong đồng tử, bóng hình kiên cường của Lý Diệu dường như dần dần trùng khít với một bóng hình cao lớn khác, hóa thành một thể.\n\nMột bóng hình thanh lệ mang theo một chút lạnh lùng hiện lên ở giữa màn hình ánh sáng.\n\n\"Tôn lão, ngài đã dẫn tên nhóc đó đi rồi chứ? Lần này thực sự vô cùng cảm ơn ngài!\" Tiêu Giai Tuyết chân thành cảm tạ.\n\nTôn Bưu cười hì hì bảo: \"Nha đầu Tiểu Tuyết, cháu đã nhờ cả bố cháu đến cầu xin lão già này, ta còn có thể nói gì nữa đây? Nhưng cháu và tên nhóc kia rốt cuộc có quan hệ gì, tại sao lại muốn giúp cậu ta?\"\n\nTôn Bưu nhướn mày, bày ra vẻ mặt trêu chọc: \"Chỉ đơn giản thế thôi sao? Không phải nha đầu Tiểu Tuyết cháu đã vừa mắt thằng nhóc này rồi đấy chứ?\"\n\n\"Cậu ta? Sao có thể chứ!\" Tiêu Giai Tuyết phì cười.\n\nTôn Bưu ngẩn ra, tặc lưỡi nói: \"Đến loại cực phẩm thế này cũng không được ư? Nha đầu Tiểu Tuyết, nhãn quang của cháu quả thực không phải cao bình thường đâu!\"\n\nTiêu Giai Tuyết cười nhẹ một tiếng khéo léo chuyển chủ đề, hai người lớn nhỏ lại tùy ý trò chuyện vài câu rồi Tôn Bưu ngắt liên lạc. Đến lúc ngẩng đầu lên, cụ lại nghe thấy tiếng gầm rú khàn cả giọng của Lý Diệu:\n\n\"Tổ thứ bảy, bắt đầu!\"\n\n\"Cái tên quái vật này, chẳng lẽ thực sự có thể mặc bộ đồ 'Từ Bỏ' hoàn thành trọn vẹn mười tổ gánh tạ sâu sao?\" Tôn Bưu kinh ngạc đến mức da đầu có chút ngứa ngáy, vừa gãi đầu vừa ngẫm nghĩ. Một lúc sau, cụ tìm ra một cái tên trong danh bạ, gửi đi một đạo Linh Hạc Truyền Thư.\n\nRất nhanh, một con chim hạc ảo từ góc dưới bên phải màn hình từ từ bay đến, đôi cánh xòe ra hóa thành một bóng người lập thể rõ ràng, chính là Yêu Đao Bành Hải.\n\nAnh ta đang nằm vô cùng thoải mái trong một bồn tắm lớn, trước mặt trôi nổi một khay hoa quả to, đang tắm bồn hết sức thư thái dễ chịu.\n\nBành Hải cười nói: \"Lão đầu tử, con đang định tối nay rủ thầy đi ăn cơm, sẵn tiện hỏi thăm một người đây — Thầy có biết trong mấy khóa gần đây của trường Xích Tiêu Nhị Trung chúng ta có cựu học sinh nào thuộc cấp độ 'quái vật' tốt nghiệp không?\"\n\nTôn Bưu \"hắc hắc\" cười một tiếng, vô cùng tự hào về cái biệt danh này, không kiên nhẫn nổi liền khoe ngay: \"Sau khi con tốt nghiệp, bộ quần áo đó ta cứ vứt xó một góc chưa từng đụng tới, thế mà hôm nay có một học sinh đã mặc nó vào rồi!\"\n\n\"Cái gì?\" Yêu Đao Bành Hải thực sự bị dọa cho giật mình, vẻ mặt dở khóc dở cười, \"Lão già kia, tính ham chơi của thầy cũng quá đà rồi đấy. Loại đồ đó làm sao có thể tùy tiện cho người ta mặc được chứ, sẽ hành hạ người ta đến mức tinh thần sụp đổ mất thôi!\"\n\nYêu Đao Bành Hải kinh ngạc: \"Xích Tiêu Nhị Trung lại có thiên tài tu luyện bực này ư? Sao con lại không phát hiện ra nhỉ? Chẳng lẽ không phải học sinh lớp mười hai mà là lớp mười, lớp mười một?\"\n\nTôn Bưu giơ một ngón tay lên khẽ đung đưa: \"Không, cậu ta không phải thiên tài tu luyện.\"\n\"Không phải thiên tài tu luyện?\" Bành Hải cau mày.\n\nYêu Đao Bành Hải động dung, không ngờ ân sư lại đánh giá thằng nhóc này cao đến vậy, anh ta cũng nảy sinh hứng thú: \"Lão đầu tử, thầy gửi cái video qua đây con xem thử?\"\n\nBành Hải cười hi hi nói, nhận video rồi lơ đãng mở ra xem.\n\nXem xem một hồi, anh ta bỗng ngồi thẳng dậy, biểu cảm càng lúc càng kinh ngạc, nơi đáy mắt thoáng qua một tia mừng rỡ.\n\n\"Không cần đâu, thầy cứ nói chuyện trước đi. Lát nữa con sẽ tới trò chuyện thâu đêm với cậu ta sau!\" Yêu Đao Bành Hải híp mắt nói, nụ cười tà ác đến cực điểm."
+}

@@ -1,0 +1,131 @@
+{
+  "schema_version": "1.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 19,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan\\0019 - 19.第19章 军道杀狼.md",
+  "source_char_count": 2761,
+  "characters": [
+    {
+      "source": "班族",
+      "entity_type": "person",
+      "count": 3,
+      "confidence": 0.7,
+      "evidence": [
+        "、循规蹈矩的学生和上班族。\n\n李耀看到“军道",
+        "悍，看样子都是普通上班族，不由松了一口气，更",
+        "员，都是正经八百的上班族、工薪阶层，又不是专"
+      ]
+    },
+    {
+      "source": "时间",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "真者，在这里纯熟浪费时间！”\n\n彭海一笑：“",
+        "你这里来，并不是浪费时间，而是进行非常重要的"
+      ]
+    },
+    {
+      "source": "李耀",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "的学生和上班族。\n\n李耀看到“军道杀狼修炼馆",
+        "得发白褪色。\n\n如果李耀看到此人，一定激动到"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "source": "狼团",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "者级数，不得不离开‘狼团’……”\n\n光头纹身"
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "source": "妖刀彭海",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "的新贵，筑基期修士，妖刀彭海！\n\n此刻的彭海身上"
+      ]
+    },
+    {
+      "source": "所以只能到老教官你这里来修炼——在浮戈城",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "点，不想让别人知道，所以只能到老教官你这里来修炼——在浮戈城，我只相信两个人，老"
+      ]
+    },
+    {
+      "source": "筑基期巅峰",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "期高阶’，甚至冲击‘筑基期巅峰’境界，就必须彻底解"
+      ]
+    },
+    {
+      "source": "阿海",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "抓起茶缸，感慨道：“阿海，我知道你这小子重感"
+      ]
+    }
+  ],
+  "realms": [
+    "炼气",
+    "筑基"
+  ],
+  "techniques": [
+    "一记重拳",
+    "个人在地下鬼市已经",
+    "即便无法",
+    "却正好弓步",
+    "大多是遵纪守法",
+    "对灵能的掌",
+    "我已经",
+    "李耀信步",
+    "都是正经"
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "浮戈城",
+      "target": "Phù Qua Thành"
+    },
+    {
+      "source": "赤霄二中",
+      "target": "Xích Tiêu Nhị Trung"
+    },
+    {
+      "source": "筑基期",
+      "target": "Trúc Cơ Kỳ"
+    },
+    {
+      "source": "地下鬼市",
+      "target": "chợ quỷ ngầm"
+    },
+    {
+      "source": "山寨强化药剂",
+      "target": "thuốc tăng cường hàng nhái"
+    },
+    {
+      "source": "军道杀狼",
+      "target": "Quân Đạo Sát Lang"
+    }
+  ],
+  "generated_at": "2026-05-30T05:38:17.672525+07:00"
+}

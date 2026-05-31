@@ -1,22 +1,9 @@
 #!/usr/bin/env python3
-"""
-Context Pack Builder — Assembles the single JSON input for Antigravity AI node.
-
-A context pack is the ONLY input the AI receives during translation. It bundles:
-- Project config (genre, name_setting, style)
-- Chapter source text
-- Macro context (arc, previous summaries, plot threads)
-- Dynamic glossary (locked + new + ambiguous terms)
-- Relationship graph (pronoun pairs, warnings)
-- Worldbuilding notes (factions, techniques, locations...)
-- Hard constraints
-
-Adapted for Dichtrung mono-repo: reads from branch state files and
-Source/Source split/[Name]/ for chapter content.
-"""
+"""Build the Contract V2 context pack consumed by the translation node."""
 from __future__ import annotations
 
 import argparse
+import json
 import sys
 from pathlib import Path
 from typing import Any
@@ -25,141 +12,175 @@ ROOT = Path(__file__).resolve().parent
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
-from utils.io import (  # noqa: E402
-    get_logger, load_json, now_iso, save_json_atomic,
-    get_source_chapter_path, resolve_branch_dir,
-)
+from analysis_contract import build_source_manifest, write_source_manifest  # noqa: E402
+from utils import io  # noqa: E402
 
-LOGGER = get_logger("build_context_pack")
+LOGGER = io.get_logger("build_context_pack")
 
 
-# ─── Active Character Detection ─────────────────────────────────────────────
+def _load_jsonl(path: Path) -> list[dict[str, Any]]:
+    if not path.exists():
+        return []
+    items = []
+    for line in path.read_text(encoding="utf-8").splitlines():
+        if line.strip():
+            items.append(json.loads(line))
+    return items
+
+
+def _source_name(item: dict[str, Any]) -> str:
+    return str(
+        item.get("name_source")
+        or item.get("source")
+        or item.get("name_original")
+        or item.get("zh_name")
+        or ""
+    )
+
+
+def _target_name(item: dict[str, Any]) -> str:
+    return str(
+        item.get("name_target")
+        or item.get("target")
+        or item.get("name_translated")
+        or ""
+    )
+
 
 def detect_active_characters(
     text: str, characters_payload: dict[str, Any]
 ) -> list[dict[str, Any]]:
-    """Find characters whose source name appears in the chapter text."""
-    results = []
-    for item in characters_payload.get("characters", []):
-        # Support both Dichtrung format (name_original) and dich.md format (source)
-        source = (
-            item.get("source")
-            or item.get("name_original")
-            or item.get("zh_name")
-        )
-        if source and source in text:
-            results.append(item)
-    return results
+    """Find Gold Schema and legacy characters mentioned in the source."""
+    return [
+        item
+        for item in characters_payload.get("characters", [])
+        if _source_name(item) and _source_name(item) in text
+    ]
 
-
-# ─── Glossary Filtering ─────────────────────────────────────────────────────
 
 def filter_glossary(
-    text: str, glossary_payload: dict[str, Any]
+    text: str,
+    glossary_payload: dict[str, Any],
+    reviewed_terms: list[dict[str, Any]] | None = None,
 ) -> dict[str, list[dict[str, Any]]]:
-    """Filter glossary to only terms appearing in this chapter.
-
-    Returns dict with locked_terms, new_terms, ambiguous_terms.
-    Dichtrung glossary entries may not have 'locked' field — treat entries
-    without 'pending_sync' and without 'locked' as locked by default.
-    """
-    locked_terms, new_terms, ambiguous_terms = [], [], []
-
+    """Filter branch glossary and layer reviewed mappings as locked memory."""
+    reviewed_map = {
+        str(item.get("source") or item.get("source_term")): str(
+            item.get("target") or item.get("target_term")
+        )
+        for item in reviewed_terms or []
+        if item.get("source") or item.get("source_term")
+    }
+    packed_by_source: dict[str, dict[str, Any]] = {}
     for entry in glossary_payload.get("entries", []):
-        source = str(entry.get("source", ""))
+        source = str(entry.get("source") or "")
         if not source or source not in text:
             continue
-
-        packed = {
+        reviewed_target = reviewed_map.get(source)
+        packed_by_source[source] = {
             "source": source,
-            "target": entry.get("target"),
+            "target": reviewed_target or entry.get("target"),
             "category": entry.get("category", "other"),
             "note": entry.get("note", ""),
-            "locked": bool(entry.get("locked", True)),  # Default locked for existing entries
+            "locked": bool(entry.get("locked") is True or reviewed_target),
         }
-
-        if entry.get("pending_sync"):
-            new_terms.append(packed)
-        elif packed["locked"]:
-            locked_terms.append(packed)
+    for source, target in reviewed_map.items():
+        if source in text and source not in packed_by_source:
+            packed_by_source[source] = {
+                "source": source,
+                "target": target,
+                "category": "reviewed",
+                "note": "Promoted from distinct-chapter evidence.",
+                "locked": True,
+            }
+    locked_terms = []
+    new_terms = []
+    ambiguous_terms = []
+    for entry in packed_by_source.values():
+        if entry["locked"]:
+            locked_terms.append(entry)
         else:
-            ambiguous_terms.append(packed)
-
+            ambiguous_terms.append(entry)
     return {
-        "locked_terms": locked_terms,
+        "locked_terms": sorted(locked_terms, key=lambda item: item["source"]),
         "new_terms": new_terms,
-        "ambiguous_terms": ambiguous_terms,
+        "ambiguous_terms": sorted(ambiguous_terms, key=lambda item: item["source"]),
     }
 
-
-# ─── Pronoun Resolution ─────────────────────────────────────────────────────
 
 def resolve_pronouns(
     text: str,
     pronouns_payload: dict[str, Any],
     active_characters: list[dict[str, Any]],
 ) -> dict[str, Any]:
-    """Resolve pronoun pairs relevant to this chapter.
-
-    Matches based on character IDs or name presence in text.
-    """
+    """Expose explicit pairs and normalized fallback templates."""
     active_ids = {
-        str(c.get("id") or c.get("char_id") or "")
-        for c in active_characters
-        if c.get("id") or c.get("char_id")
+        str(item.get("id") or item.get("char_id"))
+        for item in active_characters
+        if item.get("id") or item.get("char_id")
     }
-    active_names = {
-        str(c.get("source") or c.get("name_original") or c.get("zh_name") or "")
-        for c in active_characters
-    }
-
+    active_names = {_source_name(item) for item in active_characters}
     pairs = []
-    warnings = []
-
     for pair in pronouns_payload.get("project_pronouns", []):
         speaker = str(pair.get("speaker") or "")
         listener = str(pair.get("listener") or "")
         speaker_name = str(pair.get("speaker_name") or "")
         listener_name = str(pair.get("listener_name") or "")
-
-        # Match by ID
-        if active_ids and speaker in active_ids and listener in active_ids:
-            pairs.append(pair)
-        # Match by name in text
-        elif speaker_name and listener_name and speaker_name in text and listener_name in text:
-            pairs.append(pair)
-
-    # Validate
-    for pair in pairs:
-        if pair.get("speaker") == pair.get("listener"):
-            warnings.append(
-                f"speaker == listener in pronoun pair: {pair}"
+        if (
+            (speaker and listener and speaker in active_ids and listener in active_ids)
+            or (
+                speaker_name
+                and listener_name
+                and speaker_name in active_names
+                and listener_name in active_names
             )
-
+        ):
+            pairs.append(pair)
+    templates = [
+        {
+            "id": item.get("id", ""),
+            "self_form": item.get("self_form", ""),
+            "other_form": item.get("other_form", ""),
+            "relationship": item.get("relationship", "neutral"),
+            "contexts": item.get("contexts", []),
+            "priority": item.get("priority", 0),
+        }
+        for item in pronouns_payload.get("pronouns", [])
+        if item.get("self_form") and item.get("other_form")
+    ]
+    warnings = [
+        f"speaker == listener in pronoun pair: {pair}"
+        for pair in pairs
+        if pair.get("speaker") == pair.get("listener")
+    ]
     return {
         "pronoun_pairs": pairs,
+        "pronoun_templates": templates,
         "relationship_edges": pronouns_payload.get("relationship_edges", []),
         "warnings": warnings,
     }
 
 
-# ─── Worldbuilding Filter ───────────────────────────────────────────────────
-
 def filter_worldbuilding(
     text: str, worldbuilding_payload: dict[str, Any]
 ) -> dict[str, Any]:
-    """Filter worldbuilding entries to those mentioned in this chapter."""
     def pick(section: str) -> list[dict[str, Any]]:
-        selected = []
-        for item in worldbuilding_payload.get(section, []):
-            source = (
+        return [
+            item
+            for item in worldbuilding_payload.get(section, [])
+            if isinstance(item, dict)
+            and (
                 item.get("source")
                 or item.get("name_source")
                 or item.get("system_name")
             )
-            if source and source in text:
-                selected.append(item)
-        return selected
+            and str(
+                item.get("source")
+                or item.get("name_source")
+                or item.get("system_name")
+            )
+            in text
+        ]
 
     return {
         "factions": pick("factions"),
@@ -171,81 +192,53 @@ def filter_worldbuilding(
     }
 
 
-# ─── Build Context Pack ─────────────────────────────────────────────────────
+def _reviewed_memory(branch_dir: Path) -> dict[str, list[dict[str, Any]]]:
+    analysis_dir = branch_dir / "analysis"
+    return {
+        "terms": _load_jsonl(analysis_dir / "reviewed_terms.jsonl"),
+        "rules": _load_jsonl(analysis_dir / "reviewed_rules.jsonl"),
+        "patterns": _load_jsonl(analysis_dir / "reviewed_patterns.jsonl"),
+    }
+
 
 def build_context_pack(
     branch_name: str,
     chapter: int,
     summary_limit: int = 5,
 ) -> dict[str, Any]:
-    """Build a complete context pack for AI translation.
+    branch_dir = io.resolve_branch_dir(branch_name)
+    config = io.load_json(branch_dir / "translation_config.json") or {}
+    glossary = io.load_json(branch_dir / "glossary.json", default={"entries": []}) or {"entries": []}
+    pronouns = io.load_json(branch_dir / "pronouns.json", default={}) or {}
+    characters = io.load_json(branch_dir / "characters.json", default={"characters": []}) or {"characters": []}
+    context = io.load_json(branch_dir / "context.json", default={}) or {}
+    worldbuilding = io.load_json(branch_dir / "worldbuilding.json", default={}) or {}
+    reviewed = _reviewed_memory(branch_dir)
 
-    Args:
-        branch_name: Project branch name
-        chapter: Chapter number
-        summary_limit: Max number of previous chapter summaries to include
-
-    Returns:
-        Complete context pack dict ready for AI consumption
-    """
-    branch_dir = resolve_branch_dir(branch_name)
-
-    # Load all state files
-    config = load_json(branch_dir / "translation_config.json") or {}
-    glossary = load_json(branch_dir / "glossary.json", default={"entries": []}) or {"entries": []}
-    pronouns = load_json(branch_dir / "pronouns.json", default={"project_pronouns": []}) or {"project_pronouns": []}
-    characters = load_json(branch_dir / "characters.json", default={"characters": []}) or {"characters": []}
-    context = load_json(branch_dir / "context.json", default={"chapter_summaries": []}) or {"chapter_summaries": []}
-    worldbuilding = load_json(branch_dir / "worldbuilding.json", default={}) or {}
-
-    # Read source chapter
-    chapter_path = get_source_chapter_path(branch_name, chapter)
+    chapter_path = io.get_source_chapter_path(branch_name, chapter)
     if chapter_path is None or not chapter_path.exists():
         raise FileNotFoundError(
             f"Source chapter not found: branch={branch_name}, chapter={chapter}"
         )
     source_text = chapter_path.read_text(encoding="utf-8").strip()
-
-    # Detect active characters
+    manifest = build_source_manifest(branch_name, chapter, source_text, chapter_path)
+    write_source_manifest(branch_name, chapter, manifest)
     active_characters = detect_active_characters(source_text, characters)
+    current_state = context.get("current_state", {})
 
-    # Build style context from config
-    style_context = config.get("style_context", "")
-    if not style_context and config.get("context_note"):
-        style_context = config["context_note"]
-
-    # Build hard constraints from config
     hard_constraints = [
-        "Dịch đầy đủ, không tóm tắt",
-        "Không bỏ câu",
-        "Không tự ý thêm tình tiết",
-        "Tuân thủ locked glossary",
-        "Tuân thủ relationship_graph",
-        "Giữ ngữ pháp tiếng Việt tự nhiên",
-        "PHẢI điền worldbuilding_updates (factions, locations, techniques, items mới)",
-        "PHẢI viết chapter_summary tóm tắt 2-3 câu",
-        "PHẢI viết timeline_entry với summary, characters, plot_points",
-        "new_characters_discovered PHẢI có đầy đủ: gender, age_group, description chi tiết",
-        "Tuân thủ narrator_pronoun_guide khi chọn đại từ ngôi 3",
+        "Translate the complete source without omissions, summaries, or invented events.",
+        "Honor every locked glossary mapping exactly.",
+        "Do not emit CJK characters in Vietnamese targets.",
+        "Return one target per source segment ID for new translations.",
+        "Never echo, rewrite, or normalize source text.",
+        "Report every analysis analyzer as status=ok with evidence or status=no_evidence with evidence_count=0.",
     ]
+    if config.get("term_rules", {}).get("notes"):
+        hard_constraints.append(f"TERM RULES: {config['term_rules']['notes']}")
 
-    # Add config-specific constraints
-    if config.get("sanitization", {}).get("ban_cjk_in_output"):
-        hard_constraints.append("Output KHÔNG được chứa ký tự CJK")
-
-    # Add term_rules as constraints if present
-    term_rules = config.get("term_rules", {})
-    if term_rules.get("notes"):
-        hard_constraints.append(f"QUY TẮC THUẬT NGỮ: {term_rules['notes']}")
-
-    # Add forbidden patterns from global config
-    style_rules = config.get("style_rules", {})
-    for pattern in style_rules.get("forbidden_patterns", []):
-        hard_constraints.append(f"CẤM: {pattern}")
-
-    # Assemble context pack
-    pack = {
-        "schema_version": "1.0",
+    return {
+        "schema_version": "2.0",
         "project": {
             "project_name": config.get("project_name", branch_name),
             "source_language": config.get("source_language", "zh"),
@@ -253,128 +246,74 @@ def build_context_pack(
             "genre": config.get("genre", "general"),
             "sub_genre": config.get("sub_genre", "general"),
             "name_setting": config.get("name_setting", "phien_am"),
-            "style_context": style_context,
+            "style_context": config.get("style_context") or config.get("context_note", ""),
         },
         "chapter": {
             "chapter_number": chapter,
-            "chapter_id": f"chapter-{chapter:04d}",
-            "title": chapter_path.stem if chapter_path else f"Chapter {chapter}",
+            "chapter_id": manifest["chapter_id"],
+            "title": chapter_path.stem,
             "source_file": str(chapter_path),
             "source_text": source_text,
+            "source_hash": manifest["source_hash"],
+            "source_manifest_hash": manifest["source_manifest_hash"],
+            "source_segments": manifest["source_segments"],
             "char_count": len(source_text),
         },
         "macro_context": {
-            "current_arc": context.get("current_arc", ""),
+            "current_arc": context.get("current_arc") or current_state.get("current_arc", ""),
             "previous_summaries": context.get("chapter_summaries", [])[-summary_limit:],
-            "active_plot_threads": context.get("plot_threads", []),
+            "active_plot_threads": context.get("plot_threads") or current_state.get("plot_threads", []),
             "active_characters": [
-                c.get("id") or c.get("char_id") or c.get("name_translated", "")
-                for c in active_characters
-                if c.get("id") or c.get("char_id") or c.get("name_translated")
+                {
+                    "id": item.get("id") or item.get("char_id") or _source_name(item),
+                    "name_source": _source_name(item),
+                    "name_target": _target_name(item),
+                }
+                for item in active_characters
             ],
         },
-        "dynamic_glossary": filter_glossary(source_text, glossary),
-        "relationship_graph": resolve_pronouns(
-            source_text, pronouns, active_characters
-        ),
+        "dynamic_glossary": filter_glossary(source_text, glossary, reviewed["terms"]),
+        "relationship_graph": resolve_pronouns(source_text, pronouns, active_characters),
         "narrator_pronoun_guide": config.get("narrator_pronoun_guide", {}),
         "worldbuilding_notes": filter_worldbuilding(source_text, worldbuilding),
         "hard_constraints": hard_constraints,
         "analysis_instructions": {
-            "output_analysis": True,
-            "instruction": "Bạn PHẢI trả về các trường phân tích này (aligned_segments, term_occurrences...) NGAY BÊN TRONG cấu trúc của translation_result.json.",
-            "segment_rules": [
-                "aligned_segments PHẢI chứa TẤT CẢ các câu/đoạn hội thoại trong source_text. KHÔNG ĐƯỢC chỉ trả về 1 segment mẫu.",
-                "Mỗi đoạn văn/câu trong source = 1 segment (seg_id: seg_0001, seg_0002...).",
-                "QUAN TRỌNG: Giá trị 'target' trong mỗi segment CHÍNH LÀ bản dịch cuối cùng của bạn cho đoạn 'source' đó. Hệ thống sẽ tự động ghép các 'target' này lại thành văn bản hoàn chỉnh. TUYỆT ĐỐI không phân tách hay bóp méo ngữ nghĩa.",
-                "narrative_type: 'narration', 'dialogue', 'inner_thought', 'description'."
-            ],
-            "entity_rules": [
-                "entity_mentions PHẢI liệt kê TẤT CẢ các tên nhân vật, địa danh, môn phái, kỹ thuật xuất hiện trong chương.",
-                "Mỗi lần xuất hiện đầu tiên của entity mới = 1 entry mới. Nếu entity đã ghi rồi thì bỏ qua.",
-                "Ghi confidence: 1.0 nếu mapping rõ ràng, 0.8 nếu suy luận."
-            ],
-            "term_rules": [
-                "term_occurrences PHẢI ghi nhận MỌI thuật ngữ locked hoặc glossary xuất hiện trong chương.",
-                "Ghi seg_id của segment mà thuật ngữ xuất hiện LẦN ĐẦU."
-            ],
-            # To be hydrated with actual reviewed rules in Phase 4
-            "reviewed_rules": [],
-            "reviewed_patterns": []
+            "contract": "translation_result.v2",
+            "source_policy": "Return segment IDs and Vietnamese targets only. Source is immutable manifest data.",
+            "candidate_policy": "Candidate references must use stable chapter_XXXX:seg_XXXX IDs. Empty analyzers require status=no_evidence and evidence_count=0.",
+            "reviewed_rules": reviewed["rules"],
+            "reviewed_patterns": reviewed["patterns"],
         },
-        "built_at": now_iso(),
+        "built_at": io.now_iso(),
     }
 
-    return pack
 
-
-# ─── Write Context Pack ─────────────────────────────────────────────────────
-
-def write_context_pack(
-    branch_name: str, chapter: int, pack: dict[str, Any]
-) -> Path:
-    """Write context pack to runtime/context_packs/."""
-    branch_dir = resolve_branch_dir(branch_name)
+def write_context_pack(branch_name: str, chapter: int, pack: dict[str, Any]) -> Path:
     target = (
-        branch_dir / "runtime" / "context_packs"
+        io.resolve_branch_dir(branch_name)
+        / "runtime"
+        / "context_packs"
         / f"chapter_{chapter:04d}.context_pack.json"
     )
-    save_json_atomic(target, pack)
+    io.save_json_atomic(target, pack)
     return target
 
 
-# ─── CLI ────────────────────────────────────────────────────────────────────
-
 def main() -> int:
-    parser = argparse.ArgumentParser(
-        description="Build context pack for Dichtrung translation"
-    )
-    parser.add_argument(
-        "--branch", required=True,
-        help="Project branch name"
-    )
-    parser.add_argument(
-        "--chapter", required=True, type=int,
-        help="Chapter number"
-    )
-    parser.add_argument(
-        "--summary-limit", type=int, default=5,
-        help="Max previous chapter summaries to include (default: 5)"
-    )
-    parser.add_argument(
-        "--dry-run", action="store_true",
-        help="Print context pack to stdout without writing"
-    )
+    parser = argparse.ArgumentParser(description="Build Contract V2 translation context pack")
+    parser.add_argument("--branch", required=True)
+    parser.add_argument("--chapter", required=True, type=int)
+    parser.add_argument("--summary-limit", type=int, default=5)
+    parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args()
-
-    pack = build_context_pack(
-        args.branch, args.chapter,
-        summary_limit=args.summary_limit,
-    )
-
+    pack = build_context_pack(args.branch, args.chapter, args.summary_limit)
     if args.dry_run:
-        import json as _json
-        # Don't dump full source_text in dry-run — too large
         display = dict(pack)
-        ch = dict(display["chapter"])
-        ch["source_text"] = ch["source_text"][:200] + "... [TRUNCATED]"
-        display["chapter"] = ch
-        print(_json.dumps(display, ensure_ascii=False, indent=2))
+        display["chapter"] = dict(pack["chapter"])
+        display["chapter"]["source_text"] = display["chapter"]["source_text"][:200] + "..."
+        print(json.dumps(display, ensure_ascii=False, indent=2))
     else:
-        target = write_context_pack(args.branch, args.chapter, pack)
-        LOGGER.info("Wrote context pack: %s", target)
-
-    gl = pack["dynamic_glossary"]
-    LOGGER.info(
-        "Chapter %d: %d chars, %d locked terms, %d new terms, "
-        "%d pronoun pairs, %d active characters",
-        args.chapter,
-        pack["chapter"]["char_count"],
-        len(gl["locked_terms"]),
-        len(gl["new_terms"]),
-        len(pack["relationship_graph"]["pronoun_pairs"]),
-        len(pack["macro_context"]["active_characters"]),
-    )
+        LOGGER.info("Wrote context pack: %s", write_context_pack(args.branch, args.chapter, pack))
     return 0
 
 

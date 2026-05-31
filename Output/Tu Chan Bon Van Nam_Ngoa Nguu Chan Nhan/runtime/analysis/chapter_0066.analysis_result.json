@@ -1,0 +1,1379 @@
+{
+  "schema_version": "2.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 66,
+  "chapter_id": "chapter_0066",
+  "source_manifest_hash": "dd239b158aaa279ee663aa9c463d350cca3655e9902eca0ae69edcf0ce7dc250",
+  "aligned_segments": [
+    {
+      "alignment_id": "chapter_0066:align_0001",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0001"
+      ],
+      "source": "# 66.第66章 天魔煞血炮",
+      "source_hash": "76d5f7a2c61c0330ce62f35eb8bab4553a8786bd804274df7741da2bfdecadbe",
+      "target": "# Chương 0066 - Thiên Ma Sát Huyết Pháo",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0002",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0002"
+      ],
+      "source": "此刻的郑东明，可没有了堂堂阔少的翩翩风度，就像是一条被打断了后腿的丧家之犬，跑得上气不接下气，连舌头都吐了出来，看样子再跑几步就要口吐白沫，发羊癫疯了！",
+      "source_hash": "9ec6ce4295cca66547e6332e7386a6070e3010a01c83a715ae143ff7241b9b37",
+      "target": "Trịnh Đông Minh lúc này đâu còn chút phong độ lịch lãm nào của một công tử nhà giàu quyền quý, hắn giống như một con chó hoang bị đánh gãy chân sau, chạy thở không ra hơi, thè cả lưỡi ra ngoài, trông như thể chỉ cần chạy thêm vài bước nữa là sẽ sùi bọt mép, lên cơn động kinh vậy!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0003",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0003"
+      ],
+      "source": "他也一眼看到李耀，眼中顿时放出希望之光，欣喜若狂地飞奔过来，最后几步干脆腾空而起，如饿虎扑羊，一个猛子扎进了补给点！",
+      "source_hash": "e8d3eb0ebde8d542857f8b79f0c9c9bfb3df8b9b02479559560e519d14741546",
+      "target": "Hắn cũng lập tức nhìn thấy Lý Diệu, trong mắt lập tức bừng lên tia sáng hy vọng, mừng rỡ như điên lao vù vù tới, mấy bước cuối cùng dứt khoát tung người nhảy vọt lên, như hổ đói vồ mồi cắm đầu lao thẳng vào trạm tiếp tế!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0004",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0004"
+      ],
+      "source": "“怎么回事，你的噗叽兽呢？”",
+      "source_hash": "ca93b54dc7cb2f23a384536078e6cf17eac2fe22b6c667e756f291fc8911133c",
+      "target": "“Có chuyện gì thế, thú Pút Kít của cậu đâu rồi?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0005",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0005"
+      ],
+      "source": "李耀十分诧异地问，在魔蛟岛上每一名选手都会携带噗叽兽，它不单是计算分数的工具，也是最后的保命手段！",
+      "source_hash": "b679c98560b891325a5da0c6cd373370541b24ec61864e6f6f464159619d9c4a",
+      "target": "Lý Diệu vô cùng ngạc nhiên hỏi, trên Đảo Ma Giao mỗi thí sinh đều mang theo thú Pút Kít bên người, nó không chỉ là công cụ tính điểm mà còn là biện pháp cứu mạng cuối cùng!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0006",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0006"
+      ],
+      "source": "“被吃掉了！”",
+      "source_hash": "d12e7b973c1f5fed43a77214f29e7088a654b252a0189a24710052d36d7749f0",
+      "target": "“Bị ăn mất rồi!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0007",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0007"
+      ],
+      "source": "郑东明四肢摊开，四仰八叉，筋疲力尽地躺在地上，“呼哧呼哧”喘着粗气，一副劫后余生的侥幸模样。",
+      "source_hash": "1554ffd7443e4cf91df4f62a178aa101af35b70260eb845945bf601c50c85c60",
+      "target": "Trịnh Đông Minh nằm vật ra đất, chân tay dang rộng bê bết, mệt đến rã rời, thở hồng hộc, dáng vẻ như vừa nhặt lại được cái mạng nhỏ.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0008",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0008"
+      ],
+      "source": "“被吃掉了？什么东西这么威猛！”",
+      "source_hash": "f3e9e9d2fae1a5c3c429d6a3415fda1d3988ed9fc9ac5ebc5fdc70c3d0bd4d97",
+      "target": "“Bị ăn mất? Thứ gì mà hung hãn dữ dội thế!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0009",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0009"
+      ],
+      "source": "李耀吓了一跳，魔蛟岛上怎么可能有如此凶残的妖兽存在，也太不拿选手的小命当回事了吧？",
+      "source_hash": "907574bd3e65504b84100c0d37d7ff9a65f4cae12e8fc713ddb1c0e375a0fc2d",
+      "target": "Lý Diệu giật thót mình, trên Đảo Ma Giao sao có thể tồn tại loài yêu thú tàn bạo đến mức này chứ, ban tổ chức coi thường tính mạng của thí sinh quá rồi chăng?",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0010",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0010"
+      ],
+      "source": "郑东明还未回答，不远处传来一声惊天动地的咆哮，炸得李耀双耳嗡嗡作响。",
+      "source_hash": "d01c6c70447ca22f5dc015af5f03d8e45deca37e8343e0c176ef59c8b7654640",
+      "target": "Trịnh Đông Minh còn chưa kịp trả lời, từ cách đó không xa đã truyền tới một tiếng gầm rú rung trời chuyển đất, chấn cho hai tai Lý Diệu vang lên những tiếng ù ù.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0011",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0011"
+      ],
+      "source": "伴随着咆哮声，几棵大树东倒西歪，一棵古树直接飞了出来！",
+      "source_hash": "b1a27f8eff096fecac0738f40eab71a3e9d4ebf84dd3a2b4c011f2dc9e1bd349",
+      "target": "Cùng với tiếng gầm rú đó, mấy thân cây lớn ngã đổ nghiêng ngả, một cây cổ thụ trực tiếp bị quăng bay ra ngoài!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0012",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0012"
+      ],
+      "source": "一头四米多高，浑身上下没有皮肤，仿佛直接由肌肉组成的怪物一跃而出，在古树上重重踩了一脚，古树“咔嚓”一声从中折断，而怪物的速度又飙升了一个级数，不顾一切地朝撞向补给点！",
+      "source_hash": "8bc593c9b58f7f14d29c14cd254eaae6894803e6b8ac6fe4964e11f1c2167ab6",
+      "target": "Một con quái vật cao hơn bốn mét, khắp người không có da, trông như được cấu tạo trực tiếp từ những thớ thịt đỏ hỏn lao vọt ra, giẫm mạnh một cú lên thân cây cổ thụ. Cây cổ thụ phát ra tiếng “rắc” gãy làm đôi, còn tốc độ của con quái vật lại tăng vọt lên một cấp bậc mới, điên cuồng đâm sầm về phía trạm tiếp tế!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0013",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0013"
+      ],
+      "source": "“这是什么东西！”李耀瞠目结舌。",
+      "source_hash": "2c95fe196647cedcba22011edf52c47982bcf43adbd75702d38bd31809d5402c",
+      "target": "“Cái quái gì thế này!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0014",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0014"
+      ],
+      "source": "比赛开始前，小吉对魔蛟岛上的所有妖兽和妖化植物都进行了详细介绍，李耀可不记得还有这么强横的妖兽存在！",
+      "source_hash": "73728a18e1dbd6b636ea0319af66f08322689d2fa66f5397739242ddd757dd2f",
+      "target": "Trước khi trận thi đấu bắt đầu, Tiểu Cát đã giới thiệu chi tiết về tất cả các loài yêu thú và thực vật yêu hóa trên Đảo Ma Giao, Lý Diệu không nhớ là có loại yêu thú nào mạnh mẽ kinh người như vậy tồn tại!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0015",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0015"
+      ],
+      "source": "赛事主办方怎么可能会把这么强大的妖兽释放出来，高中生绝对不可能抵挡住这样的凶兽啊！",
+      "source_hash": "b514104fb039e5a090bc71c28286d714f224abe0ac40f22a6d751746f70c9010",
+      "target": "Ban tổ chức giải đấu sao có thể thả một con yêu thú đáng sợ như thế này ra chứ, học sinh cấp ba tuyệt đối không thể chống đỡ nổi loại hung thú này!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0016",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0016"
+      ],
+      "source": "“鬼，鬼知道，你小心点，这怪物已经杀死了七名选手！”郑东明语出惊人。",
+      "source_hash": "6020146e1d97704894ea903c06696e478c94272ddc80d0f600c6ce5e4348a187",
+      "target": "“Ma, ma mới biết được, cậu cẩn thận chút đi, con quái vật này đã giết chết bảy thí sinh rồi!” Trịnh Đông Minh nói ra một tin động trời.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0017",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0017"
+      ],
+      "source": "似乎为了印证他的话，怪物狠狠撞上补给点外围的防御符阵！",
+      "source_hash": "f86f2fd716de5bd27fc8e7db72d3bc4b3a901d5f8f37d6ea98886408523fd5c4",
+      "target": "Như để chứng minh lời hắn nói, con quái vật lao rầm rầm tông thẳng vào trận pháp phòng ngự vòng ngoài của trạm tiếp tế!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0018",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0018"
+      ],
+      "source": "空气中顿时浮现出了几十道半透明的攻击性灵符，激发出上百道电流，组成密不透风的炫目电网，电得怪物嗷嗷乱叫，浑身冒出白烟。",
+      "source_hash": "fefacb01a6656b980d3f87130cac618dd5e09f53295001f1831b0ba22531f96b",
+      "target": "Trong không khí tức khắc hiện lên hàng chục đạo linh phù tấn công bán trong suốt, kích phát ra hàng trăm luồng điện, dệt nên một tấm lưới điện sáng lòa kín kẽ như bưng. Luồng điện giật khiến con quái vật gào rú thảm thiết, toàn thân bốc lên những làn khói trắng.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0019",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0019"
+      ],
+      "source": "可就是在如此强烈的电流攻击之下，怪物依旧硬抗电流，步步逼近！",
+      "source_hash": "7a2254861c910045bfa65a316cc047177647b0c0285f62cd7a821c19affbdb39",
+      "target": "Nhưng ngay cả dưới sự tấn công của dòng điện dữ dội như vậy, con quái vật vẫn trơ trơ gồng mình chịu đựng, từng bước ép sát!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0020",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0020"
+      ],
+      "source": "防御符阵的光芒忽明忽暗，摇曳不定，电网随时都有可能被它扯得七零八落，支离破碎！",
+      "source_hash": "85357a87174c9aaeb8924c1e9072598fea825801955edf4481d1bd16e029702c",
+      "target": "Ánh sáng của trận pháp phòng ngự chập chờn lúc tỏ lúc mờ, lay lắt bất định, lưới điện có thể bị nó xé rách tung tóe bất cứ lúc nào!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0021",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0021"
+      ],
+      "source": "“连防御符阵都奈何不了它？郑大少，你究竟是怎么招惹了这头怪物，它对你这么不死不休？”",
+      "source_hash": "3a7d03c31b23b606095d35c85868dae02edf89acd795aaa675461674ddc7ca45",
+      "target": "“Đến cả trận pháp phòng ngự cũng không làm gì được nó? Trịnh đại thiếu gia, rốt cuộc cậu đã trêu chọc con quái vật này thế nào mà nó lại đuổi cùng giết tận cậu thế này?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0022",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0022"
+      ],
+      "source": "李耀的头皮一阵阵发麻，这头怪物实在太可怕，根本不是他能应付的。",
+      "source_hash": "f6711bc67b1ab3471e9f01852f8d733bf3f5c4a242f673387c6a5be125eed708",
+      "target": "Da đầu Lý Diệu run rẩy tê dại, con quái vật này quá mức đáng sợ, hoàn toàn không phải thứ cậu có thể đối phó được.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0023",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0023"
+      ],
+      "source": "“我只是路见不平，往它屁股上捅了一剑而已，谁知正好捅进了它的\\*\\*\\*\\*郑东明叹了口气，很无奈地说。",
+      "source_hash": "71142204fe757b7adaa27304cb55caa5e7395ea19f0fe48c2267723c2418df85",
+      "target": "“Tôi chỉ thấy chuyện bất bình liền ra tay tương trợ, đâm một kiếm vào mông nó mà thôi, ai ngờ lại đâm trúng ngay cúc hoa của nó...” Trịnh Đông Minh thở dài, bất đắc dĩ nói.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0024",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0024"
+      ],
+      "source": "李耀一阵无语，仔细看去，在怪物血肉模糊的屁股中间，确实有半支链锯剑不停晃动。",
+      "source_hash": "c78f13b93f63a45ed691e7c027a57a9d02accccc2697ee184b3e5709421038d4",
+      "target": "Lý Diệu cạn lời, nhìn kỹ lại thì thấy ở ngay giữa chiếc mông nát bét của con quái vật quả thực có một nửa thanh kiếm cưa xích đang không ngừng đung đưa.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0025",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0025"
+      ],
+      "source": "另外半支剑刃完全没入怪物体内，足足有一米长，就这样都没能弄死它，这头怪物的生命力实在太强悍，太惊人！",
+      "source_hash": "ecb401ddd9316873618941a91a1ed1ba9c11591db7052e9e269b72ec6b2e830f",
+      "target": "Nửa lưỡi kiếm còn lại đã cắm ngập hoàn toàn vào cơ thể con quái vật, dài tới cả mét, thế mà vẫn không hạ gục được nó. Sức sống của con quái vật này thật sự quá dai dẳng, quá kinh người!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0026",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0026"
+      ],
+      "source": "李耀艰难地吞了口唾沫，下意识向后方望去。",
+      "source_hash": "e380c304d00d7e9f3f4d33841b23cea8f615a845d34748c11f775b51eb057d13",
+      "target": "Lý Diệu khó khăn nuốt nước bọt, theo bản năng ngoảnh đầu nhìn về phía sau.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0027",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0027"
+      ],
+      "source": "“不用想逃，这头怪物的本体应该是巨目猿，在丛林中，它的速度比我们快太多，根本没有机会的！该死，修真者都到哪儿去了，这么久还不过来救援，这次真是要人老命！”",
+      "source_hash": "9df1bce32509baf80a169bc911c14510a23b8510d29491ef6e5b93dbee83fc55",
+      "target": "“Đừng nghĩ tới chuyện chạy trốn, bản thể của con quái vật này chắc là Vượn Khổng Nhãn, ở trong rừng rậm tốc độ của nó nhanh hơn chúng ta rất nhiều, không có cơ hội trốn thoát đâu! Khốn kiếp, đám tu chân giả biến đi đâu cả rồi, lâu thế vẫn chưa tới cứu viện, lần này đúng là muốn lấy mạng già của người ta mà!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0028",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0028"
+      ],
+      "source": "郑东明吃力地半坐起来，吐出一口鲜血，满脸惨笑。",
+      "source_hash": "883a16c6cb880974784d7caf5a117122dce454a0ff3ebb6a1140d9872eebfa1f",
+      "target": "Trịnh Đông Minh gượng gạo ngồi nhỏm dậy, khạc ra một ngụm máu tươi, mặt đầy nụ cười cay đắng.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0029",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0029"
+      ],
+      "source": "李耀抬头看了一眼，小吉双目失神，在半空中团团乱转，每一道雷霆轰鸣，它都会猛烈颤抖一下，发出“吱吱”的声音。",
+      "source_hash": "79b5bd121bb1b15d5a91e567be270409a75830e1e32c0cf5c4876ae9df0f67df",
+      "target": "Lý Diệu ngước đầu nhìn qua, Tiểu Cát đang đờ đẫn mắt, bay lòng vòng nháo nhào trên không trung. Mỗi khi có một tiếng sấm rền rĩ vang lên, nó lại rùng mình run bần bật, phát ra tiếng kêu “két kết”.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0030",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0030"
+      ],
+      "source": "小吉和辽远号的连接已经切断，只能录下一切，等灵网恢复之后，才能将信息输送到辽远号上。",
+      "source_hash": "c5073cf9b6f3c88db8c186b1dba495825ff1c6d541fb1b80abcfe6a84420fa4c",
+      "target": "Mối liên kết giữa Tiểu Cát and Liêu Viễn Hào đã bị đứt đoạn, hiện tại nó chỉ có thể ghi hình lại mọi chuyện, đợi đến khi mạng tâm linh khôi phục mới truyền tin tức về Liêu Viễn Hào được.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0031",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0031"
+      ],
+      "source": "一瞬间，李耀的脸色变得无比难看。",
+      "source_hash": "405c4373975cd10f8625599a4b994ab81b6c13fdd17b967c75facc2d4acbfad7",
+      "target": "Trong nháy mắt, sắc mặt của Lý Diệu trở nên vô cùng tồi tệ.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0032",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0032"
+      ],
+      "source": "“吼！”",
+      "source_hash": "3d0ec946233aa59f6364e9fbb4a04a54362181b003ec385ed1c2ce74f53f1220",
+      "target": "“Gào!”",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0033",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0033"
+      ],
+      "source": "就在这时，巨目猿仰天长啸，一爪子扯碎了一道半透明灵符！",
+      "source_hash": "00acc4522eeebb75971f55249e9bf7060883bdaf9333a319675063b13f0256a3",
+      "target": "Đúng lúc này, con Vượn Khổng Nhãn ngửa cổ rú dài, một vuốt xé toạc một đạo linh phù bán trong suốt!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0034",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0034"
+      ],
+      "source": "电网明显出现了一道缝隙，它趁机跨出了一大步。",
+      "source_hash": "466fd23599f9a7191519f5a6c239f8d996b23be2134e0979e53b44549139457a",
+      "target": "Mạng lưới điện rõ ràng bị rách ra một khoảng hở, nó nhân cơ hội sải một bước dài lên phía trước.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0035",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0035"
+      ],
+      "source": "“不好，防御符阵完全抵挡不住，它随时都会杀进来！”",
+      "source_hash": "1a60c0b6ed27f37c79bcfd11f2f8ff6b105e8463ac6cc8c0e30a26cb98b82bc2",
+      "target": "“Hỏng bét, trận pháp phòng ngự hoàn toàn không cản nổi, nó sắp xông vào đây rồi!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0036",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0036"
+      ],
+      "source": "郑东明颤颤巍巍站了起来，死死盯住巨目猿，紧张道，“李耀，我知道你如彗星一般崛起，肯定有一番奇遇，所以你还有什么压箱底的绝招，或者会瞬间变身，令战力提升十倍之类的奇功绝艺，赶紧施展出来吧，这是关键时刻，千万不要再扮猪吃老虎了啊李耀同学！”",
+      "source_hash": "e7dada9a4b6d5b695be46770999ac7af06a99b5524dc41f12192aa0577e7538d",
+      "target": "Trịnh Đông Minh lảo đảo nhỏm dậy, chăm chăm dán chặt mắt vào con Vượn Khổng Nhãn, sốt sắng nói: “Lý Diệu, tôi biết cậu trỗi dậy như sao chổi thế này chắc chắn là có kỳ ngộ phi thường, cho nên cậu có tuyệt chiêu giấu kín nào, hay là có thể biến hình ngay lập tức tăng cường mười lần chiến lực gì đó không, mau thi triển ra đi chứ! Thời khắc sinh tử rồi, bạn học Lý Diệu à, xin cậu đừng đóng giả heo ăn thịt hổ nữa!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0037",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0037"
+      ],
+      "source": "李耀哑口无言，沉默片刻，冷冷道：“不好意思，现在已经是我的最强状态了。”",
+      "source_hash": "55cd9c4a25858902cc102399f09b29b7846aa3ee1d05e69051ca986539f66444",
+      "target": "Lý Diệu cạn lời, im lặng một chốc rồi lạnh lùng đáp: “Ngại quá, hiện tại đã là trạng thái mạnh nhất của tôi rồi.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0038",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0038"
+      ],
+      "source": "“什么，你连变身都不会？”",
+      "source_hash": "354b1cc62be548fb6eb683ae1361e6639abba2e160c526e9934ea150f82efc9c",
+      "target": "“Cái gì, cậu đến biến hình cũng không biết?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0039",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0039"
+      ],
+      "source": "郑东明十分鄙视地看了他一眼，一咬牙，道：“那好，那就只有我来了！”",
+      "source_hash": "35d8a35beedf08eb46885e080584672e91e066298de34796be8605e1ff31822f",
+      "target": "Trịnh Đông Minh dùng ánh mắt tràn ngập khinh bỉ liếc nhìn cậu một cái, nghiến răng nói: “Được rồi, thế thì chỉ còn cách để tôi ra tay thôi!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0040",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0040"
+      ],
+      "source": "李耀忍不住想在这家伙的大脑袋上狠狠敲一下：“既然你有绝招，早点儿施展出来啊，还废话那么多干什么！”",
+      "source_hash": "4115e5a1ab511781f4e7d9d41552052c84dbfb84af1aae69a21cd70420a00236",
+      "target": "Lý Diệu không nhịn được muốn gõ mạnh một cú lên cái đầu to của gã: “Đã có tuyệt chiêu thì dùng sớm đi chứ, còn lảm nhảm dài dòng làm cái gì!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0041",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0041"
+      ],
+      "source": "郑东明的表情一下子变得十分痛苦，眼神无比忧郁，咬牙切齿道：“你懂什么，这是我的最后杀招，以本命精血催动，一旦施展出来，对自身消耗极大，事后必须禁欲三个月才能恢复！”",
+      "source_hash": "a786e01a1d87caf7cab489a2f0e5fb57467c20ddc694a1f5c27f2a0a59e5dae7",
+      "target": "Vẻ mặt Trịnh Đông Minh thoắt cái biến thành vô cùng đau khổ, ánh mắt đầy u sầu, nghiến răng kèn kẹt nói: “Cậu thì biết cái gì, đây là sát chiêu cuối cùng của tôi, phải thúc động bằng tinh huyết bản mệnh, một khi dùng ra sẽ tiêu hao cực kỳ lớn cho bản thân, sau đó phải cấm dục ba tháng mới hồi phục được!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0042",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0042"
+      ],
+      "source": "“三个月，整整三个月不能碰女人！该死的妖兽，我要把你碎尸万段，轰成烂泥啊！”",
+      "source_hash": "6802a12461af0cdc492c4046f3b5f6f7a781f7e0531dd46a846642f26bf96c55",
+      "target": "“Ba tháng, ròng rã ba tháng trời không được chạm vào phụ nữ! Con yêu thú đáng chết kia, tao phải băm vằm mày ra thành muôn mảnh, oanh tạc mày thành vũng bùn loãng!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0043",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0043"
+      ],
+      "source": "郑东明的神色无比狰狞，周身气焰疯狂膨胀，变得比巨目猿还要疯狂。",
+      "source_hash": "b199a35af7aed64fabf458bd0e78adcc4b4416f940efeb7a681f61ddd79930e6",
+      "target": "Thần sắc của Trịnh Đông Minh tàn ác vô ngần, khí thế toàn thân bùng phát điên cuồng, trông còn điên loạn hơn cả con Vượn Khổng Nhãn.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0044",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0044"
+      ],
+      "source": "“嗤啦！”",
+      "source_hash": "71bc6c90aeed5ccccad52751cc892487e9787912eb9253aceb1cf702e0455a7d",
+      "target": "“Xoẹt!”",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0045",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0045"
+      ],
+      "source": "郑东明一把扯去迷彩战斗服，露出一身又白又胖的软肉。",
+      "source_hash": "ed7ff5dec115afedda22a37ac53e3054b9ea328af52b09207d490c573bc28aff",
+      "target": "Trịnh Đông Minh giật mạnh phăng bộ đồ chiến đấu rằn ri ra, để lộ ra một thân đầy mỡ mềm mại trắng trẻo.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0046",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0046"
+      ],
+      "source": "“呼啦！”",
+      "source_hash": "68c09ac49a9b92783627fd5217325f9d494ecde62a58fdfdb2ac053526b35275",
+      "target": "“Phần phật!”",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0047",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0047"
+      ],
+      "source": "迷彩战斗服被他甩到半空中，有意无意，将李耀的噗叽兽遮掩住。",
+      "source_hash": "814802fae1ce7be02cf952a0d597e421ca9f3f002788d96f4d44f0da7729fbe2",
+      "target": "Bộ chiến phục rằn ri bị hắn quăng lên giữa không trung, cố ý hay vô tình chụp trúng và che kín thú Pút Kít của Lý Diệu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0048",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0048"
+      ],
+      "source": "小吉如无头苍蝇，团团乱转，粗短的翅膀，怎么都无法将迷彩战斗服从头上扯下来。",
+      "source_hash": "ce4ec09706415e5912f06ee0e30e26bf77ae8fd80020c0cbc8618ac37c8ca085",
+      "target": "Tiểu Cát tựa như con ruồi mất đầu, nháo nhào xoay mòng mòng, đôi cánh ngắn ngủn mập mạp dù cào cấu thế nào cũng không giật được bộ đồ chiến đấu ra khỏi đầu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0049",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0049"
+      ],
+      "source": "“你干什么？”",
+      "source_hash": "37085aae21d0d2ac2774e4c9286b1e5513b39f4e7da8723fb5ae732a564476fc",
+      "target": "“Cậu làm cái gì thế?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0050",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0050"
+      ],
+      "source": "李耀大吃一惊，小吉的视线被遮住，就无法及时喷出保护凝胶——虽然凝胶也未必能阻挡这头凶兽，但总好过没有啊！",
+      "source_hash": "4ebd1d3d9e8aa0c48159440f2016fb49dbc43a312579a0712f887bbd4298a70b",
+      "target": "Lý Diệu hoảng hốt, tầm nhìn của Tiểu Cát bị che mất thì sẽ không thể phun gel bảo vệ kịp thời——mặc dù gel bảo vệ chưa chắc đã chặn được con hung thú này, nhưng có vẫn còn tốt hơn không chứ!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0051",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0051"
+      ],
+      "source": "郑东明双臂一张，无数赤红色的真气从他的毛孔中激射而出，在头顶形成一团张牙舞爪的血雾。",
+      "source_hash": "dadc084f58ad1e9fe23e1db9fe8862272d8069bf91400f17bb0398a71a6653b2",
+      "target": "Trịnh Đông Minh dang rộng hai tay, vô số luồng chân khí màu đỏ tươi từ các lỗ chân lông phun mạnh ra ngoài, kết tụ thành một làn sương máu quay cuồng dữ dội phía trên đỉnh đầu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0052",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0052"
+      ],
+      "source": "郑东明口中念念有词，双手飞快结印，转瞬间就变幻了超过一百个手印。",
+      "source_hash": "3349d7cbe19d055516d1a433458650960010b4c4610ab66703d236e71c1d501a",
+      "target": "Trịnh Đông Minh lẩm nhẩm niệm chú, hai tay nhanh như thoắt kết ấn, chớp mắt đã biến hóa hơn một trăm thủ ấn khác nhau.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0053",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0053"
+      ],
+      "source": "随着手印不断变化，他头顶的血雾也发生诡异的变化，从一团混沌的血雾，逐渐变化出了龙、虎、豹、熊、鹰等各种凶兽猛禽的形态，随后又变成了一个个手持利刃，身披战甲的武士形象，最后幻化成了三头六臂，吞云吐雾的血色神魔！",
+      "source_hash": "c86f0e75049daf6838395e7921bc5121da6337081f4e2a7006b7acf7b986465d",
+      "target": "Theo các thủ ấn liên tục thay đổi, sương máu trên đỉnh đầu gã cũng biến ảo vô cùng kỳ dị. Từ một làn sương máu hỗn độn ban đầu, nó dần dần ngưng tụ thành hình dạng của các loài mãnh thú chim dữ như rồng, hổ, báo, gấu, ưng, tiếp đó lại biến thành hình ảnh các chiến binh mang giáp cầm vũ khí sắc bén, cuối cùng hóa thành một vị thần ma màu máu ba đầu sáu tay, phun mây nhả khói!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0054",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0054"
+      ],
+      "source": "郑东明和这座血色神魔之间，以无数道血线相连，血雾一刻不停从他体内吸收精血，原本圆润的身材，片刻之后就被吸得骨瘦如柴，不但标志性的酒窝消失不见，连眼窝都深深凹陷下去，活像一具骷髅。",
+      "source_hash": "7f0d3d13e72d0558956c854b4aa34555be56c1f1bd0903b275d7aded073bb6e5",
+      "target": "Giữa Trịnh Đông Minh và vị thần ma màu máu này được kết nối bởi vô số sợi chỉ máu. Làn sương máu không ngừng hút tinh huyết từ cơ thể gã, vóc dáng tròn trịa đầy đặn lúc trước chỉ sau vài giây ngắn ngủi đã bị rút cạn đến mức da bọc xương. Không chỉ đôi lúm đồng tiền thương hiệu biến mất, ngay cả hốc mắt cũng trũng sâu hoắm xuống, trông giống hệt như một bộ xương khô.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0055",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0055"
+      ],
+      "source": "此时，巨目猿撕开了最后一道防御灵符！",
+      "source_hash": "f2b08c007e255d3c15a6499e23656d1bff1ea44b05f7aa3ff9ca67eaf8a332ed",
+      "target": "Ngay lúc này, con Vượn Khổng Nhãn đã xé nát đạo linh phù phòng ngự cuối cùng!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0056",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0056"
+      ],
+      "source": "空气中传来“砰”一声，看不见的壁障轰然碎裂，最后一缕电流消失于无影无形。",
+      "source_hash": "0ec3563f4b94a2a49c50ac10b9a3481dfdc8d6063d135812a62baa8f421e0db4",
+      "target": "Trong không khí vọng lại một tiếng “đoàng”, bức tường bảo vệ vô hình nổ tung vỡ vụn, tia điện cuối cùng lụi tàn không còn dấu vết.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0057",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0057"
+      ],
+      "source": "巨目猿嚎叫一声，在胸口用力捶了两拳，一步窜到两人面前！",
+      "source_hash": "ac1f79c32dedfb0e466929c71d6d368b205035adb727dc4df39040eed9cfee52",
+      "target": "Con Vượn Khổng Nhãn hú lên một tiếng gầm thét, nện mạnh hai đấm vào lồng ngực, bước một bước lớn vọt tới trước mặt hai người!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0058",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0058"
+      ],
+      "source": "郑东明深深，深深，深深深深地吸了一口气。",
+      "source_hash": "59c19126290d2950705571c8095bc3c4b1add9d6f52bcdaf2efadd1d28005223",
+      "target": "Trịnh Đông Minh hít một hơi thật sâu, thật sâu, thật sâu ròng rã.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0059",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0059"
+      ],
+      "source": "随着他的吸气，血色神魔被一股脑儿吸回体内，他的四肢和脑袋依旧骨瘦如柴，肚皮却像是充了气的皮球一样高高隆起，连皮肤都被撑到透明，里面隐隐涌动着血光。",
+      "source_hash": "13ea3596550b0af1c804bfe4fe06f8146a5013b4e7e24da9f95d56efb3a5f621",
+      "target": "Theo luồng khí nạp vào, vị thần ma màu máu bị hút trọn vào trong người hắn. Tay chân và đầu của hắn vẫn khẳng khiu như cành củi khô, thế nhưng cái bụng lại phình to căng tròn như quả bóng được bơm hơi, đến mức lớp da trở nên trong suốt, bên trong loáng thoáng có luồng huyết quang cuồn cuộn cuồng bạo.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0060",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0060"
+      ],
+      "source": "“天魔煞血炮——吼！”",
+      "source_hash": "6e36b517f04d54ca920746a4810690f4477065153111eb8a2865908e33f5942d",
+      "target": "“Thiên Ma Sát Huyết Pháo——Gào!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0061",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0061"
+      ],
+      "source": "郑东明把嘴巴张开到极限，似乎连下巴都已脱臼，赤红血雾从喉咙深处激射而出，化作一道凶狂无匹的血柱，正中巨目猿胸口！",
+      "source_hash": "0ff067fbfbb20edc2c6739c2d07c1864ceeb5f9a8008fadcb25fafc5dfc780c9",
+      "target": "Trịnh Đông Minh há miệng to hết cỡ, như thể khớp hàm cũng đã trật khớp. Làn sương máu đỏ rực từ sâu trong cổ họng bắn vọt ra ngoài, hóa thành một cột máu hung tàn vô song, bắn trúng ngay giữa ngực con Vượn Khổng Nhãn!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0062",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0062"
+      ],
+      "source": "轰！",
+      "source_hash": "f89d2382521a449f325bb555bd1dea48cc7ee22314598c0c4aa1187cf0260990",
+      "target": "Đoàng!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0063",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0063"
+      ],
+      "source": "整片天地都为之一颤，李耀耳边仿佛传来无数凶兽的嘶吼和神魔的尖叫，巨目猿的胸口赫然出现一个前后贯穿的透明窟窿！",
+      "source_hash": "f35cbf0abcc42ba330446b566ab379f3f999afbd31507dc89c7bda9a9a73daea",
+      "target": "Cả đất trời chấn động lẩy bẩy, bên tai Lý Diệu tựa như vang lên tiếng gầm gừ của hàng vạn con ác thú và tiếng rên xiết của thần ma, trên ngực con Vượn Khổng Nhãn đột ngột xuất hiện một lỗ thủng rách toác xuyên thấu từ trước ra sau!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0064",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0064"
+      ],
+      "source": "血雾带有极强的腐蚀性，不停腐蚀巨目猿的五脏六腑，发出“嗤嗤”的诡异声音，冒出腐臭不堪的味道。",
+      "source_hash": "4edc38a37c02c3fd8e6308ea5d151f2fa0a72ec1d7932450b6ff492ae906db75",
+      "target": "Sương máu mang tính ăn mòn cực kỳ ghê gớm, không ngừng bào mòn lục phủ ngũ tạng của con Vượn Khổng Nhãn, phát ra những tiếng “xèo xèo” ghê tai kèm theo mùi hôi thối nồng nặc lợm giọng.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0065",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0065"
+      ],
+      "source": "“吱！吱！”巨目猿尖叫，婴儿般的鬼脸上流露出无比痛苦的表情。",
+      "source_hash": "63f9d1750e5c302382f55cc20ecb0b001e994b0bdf34520cca9b0ebc7736b92a",
+      "target": "“Két! Két!” Con Vượn Khổng Nhãn thét lên tê tái, gương mặt quỷ dị như trẻ sơ sinh hiện rõ vẻ đau đớn cùng cực.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0066",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0066"
+      ],
+      "source": "“砰！”",
+      "source_hash": "d92bad3cd33d47aa1e34cce15c21ba83cf64cac4028f7aa9795f3d2ddd1eb7cf",
+      "target": "“Bịch!”",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0067",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0067"
+      ],
+      "source": "郑东明一口血炮轰出，如同喷出了半条老命，颓然倒地，再也爬不起来。",
+      "source_hash": "b80dfca6e14f02f8ca2ad4b198c7f689d6605b75f72fb244dbcef7bc54ccc4b8",
+      "target": "Trịnh Đông Minh khạc ra một pháo máu này xong giống như đã dùng hết nửa cái mạng nhỏ, bủn rủn ngã quỵ xuống đất, không cách nào bò dậy nổi.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0068",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0068"
+      ],
+      "source": "而这头注射了兴奋剂的巨目猿，生命力却是强横到了极点，屁股后面插着一柄链锯剑，胸口又被前后贯穿，五脏六腑都被血雾腐蚀，居然还踉跄前行，长臂狂舞，妄图将郑东明撕成碎片！",
+      "source_hash": "da0854f1271662104ad3cfe8145369185f44bb84438415c49fead2d3bba399f0",
+      "target": "Thế nhưng con Vượn Khổng Nhãn sau khi tiêm thuốc kích thích này lại có sức sống dẻo dai kinh khủng tột độ. Mông cắm nửa thanh kiếm cưa xích, ngực bị đâm thủng xuyên thấu, lục phủ ngũ tạng bị sương máu gặm nhấm ăn mòn, vậy mà nó vẫn lảo đảo tiến lên, vung đôi tay dài điên cuồng cào cấu, hòng xé xác Trịnh Đông Minh thành trăm mảnh!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0069",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0069"
+      ],
+      "source": "李耀暗暗咂舌，指着郑东明，叫道：“这位猿兄，咱们往日无冤近日无仇，刚才插你\\*\\*的就是他，你们慢聊，小弟先走一步！”",
+      "source_hash": "d44c1d50d7d7b3edf2b2dde9b53699479fe8e6678c9df31c2ba276e3332b446b",
+      "target": "Lý Diệu thầm tặc lưỡi, chĩa tay về phía Trịnh Đông Minh hét lớn: “Này huynh đài vượn kia, chúng ta ngày trước không oán ngày sau không thù, kẻ vừa nãy thọc cúc hoa của ngươi chính là hắn ta, hai vị cứ từ từ trò chuyện nhé, tiểu đệ xin phép cáo lui trước!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0070",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0070"
+      ],
+      "source": "竟然脚底抹油，溜之大吉！",
+      "source_hash": "918a85691bac85bb7481088d6143cb347890684cc3f64049dc6c5d894be69c7f",
+      "target": "Thế mà lại bôi mỡ dưới chân, co giò chạy biến mất tăm!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0071",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0071"
+      ],
+      "source": "“不是吧，这么不讲义气？”",
+      "source_hash": "1515121632ece77902789bc9f88f6de0eb3ef049bac404ac6591a37753a1d825",
+      "target": "“Không phải chứ, thiếu nghĩa khí thế à?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0072",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0072"
+      ],
+      "source": "郑东明目瞪口呆，眼睁睁看着李耀夹着尾巴消失在丛林深处，简直要再狂喷一口鲜血。",
+      "source_hash": "eb702ec446bf6283dd2518090d468cab81dae6ed12f415acf6eaf706847d028e",
+      "target": "Trịnh Đông Minh trợn mắt ngoác mồm, đờ đẫn nhìn Lý Diệu kẹp đuôi lủi mất hút vào sâu trong rừng rậm, suýt chút nữa là tức đến phụt thêm một búng máu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0073",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0073"
+      ],
+      "source": "他这辈子结交过无数猪朋狗友，李耀绝对是其中最猪狗不如的一个！",
+      "source_hash": "875365d826013044d50220ac24ef2522ae4594601f548fd14774a706fc107457",
+      "target": "Cả đời này gã kết giao với không biết bao nhiêu lũ bạn bè tồi tệ, thế nhưng Lý Diệu tuyệt đối là kẻ tệ hại vô liêm sỉ nhất!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0074",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0074"
+      ],
+      "source": "巨目猿“嘎嘎”怪笑，似乎早就预料到李耀会落荒而逃，它居高临下看着猎物，高高扬起了比郑东明腰围还粗的胳膊。",
+      "source_hash": "467b87b145e5bc1c2ae0acd8a8a9db47e0d6147f3d8b531ea0310fa22104c8ea",
+      "target": "Con Vượn Khổng Nhãn cười khặc khặc quái gở, dường như đã liệu trước Lý Diệu sẽ vắt chân lên cổ chạy trốn. Nó đứng từ trên cao nhìn xuống con mồi, giơ cao cánh tay thô to còn hơn cả vòng eo của Trịnh Đông Minh.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0075",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0075"
+      ],
+      "source": "“哥，我错了，给个机会行不行？”",
+      "source_hash": "af79d9c29ec26acf7a7abd931c3ad5cae89fa7395b773a2d5630f4775ede22a4",
+      "target": "“Đại ca, tôi sai rồi, cho tôi xin một cơ hội được không?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0076",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0076"
+      ],
+      "source": "看着巨目猿砂锅大的拳头，郑东明满脸真诚，发自肺腑地道歉。",
+      "source_hash": "9da881813dbe2cb295a634b70c794106fe001598f8ad02949950b13d7592f9de",
+      "target": "Nhìn nắm đấm to như cái niêu đất của con Vượn Khổng Nhãn, Trịnh Đông Minh mặt đầy thành khẩn, nói lời xin lỗi từ tận đáy lòng.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0077",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0077"
+      ],
+      "source": "巨目猿狞笑一声，正欲一拳将郑东明的脑袋轰成烂泥，身子忽然一僵，脖子上出现了一道橘红色的痕迹。",
+      "source_hash": "0e0710065f914fd0e4e0147ae7e0d8b406aebd44c1f89515f8b12d3f37afaa75",
+      "target": "Con Vượn Khổng Nhãn cười rộ tàn ác, đang định giáng một đấm đập bấy đầu Trịnh Đông Minh thì thân hình bỗng khựng cứng đờ lại, trên cổ xuất hiện một vệt hằn màu cam rực.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0078",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0078"
+      ],
+      "source": "空气中传来皮肉烧焦的味道。",
+      "source_hash": "7034a23e7ba7aedb5faa38b76c08b16a5a051b04063ab735a58ca9ad22676541",
+      "target": "Trong không khí phảng phất mùi thịt da cháy khét lẹt.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0079",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0079"
+      ],
+      "source": "橘红色的痕迹越来越长，越来越粗，瞬间横穿巨目猿的整个脖子。",
+      "source_hash": "26f288c15e5f4f35cc03359998d3c32eb022d1262790f7f6c99ee32dcbfee125",
+      "target": "Vệt hằn màu cam rực ngày một dài ra, ngày một dày lên, ngay lập tức cắt ngang qua chiếc cổ của con Vượn Khổng Nhãn.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0080",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0080"
+      ],
+      "source": "巨目猿张口咆哮，却是发不出半点声音，身形一颤，斗大的脑袋掉落在地上乱滚，小山一般的壮硕躯体向前一跪，颓然倒地！",
+      "source_hash": "86d1ca777611dd71538eb6e5f135b0e357e9fad556cf233e620d0d7f34765403",
+      "target": "Con Vượn Khổng Nhãn há to mồm định gầm thét nhưng lại không phát ra nổi nửa âm thanh. Thân hình nó giật mạnh một cái, cái đầu to tướng rụng xuống đất lăn lông lốc, tấm thân đồ sộ vạm vỡ như quả núi đổ sụp khuỵu gối xuống, ngã nhào ra đất chết thẳng cẳng!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0081",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0081"
+      ],
+      "source": "郑东明魂未定地向巨目猿身后望去。",
+      "source_hash": "56d0ea77bdbc5f433088b649c5533800aae3497ccfbbec23819f90c2775aa1e0",
+      "target": "Trịnh Đông Minh hồn siêu phách lạc nhìn ra phía sau xác con vượn.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0082",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0082"
+      ],
+      "source": "李耀双手紧握焚天战斧，保持斩击的姿势，因为太过用力，掌心都攥出血水，浑身上下湿漉漉的，好似刚从锅里捞出，也不知是雨水还是冷汗。",
+      "source_hash": "bfc418c978665ac35d30e3bb7d6ef9de81b9cb5ac84cbd413064825022c70510",
+      "target": "Lý Diệu đang dùng cả hai tay nắm chặt cây rìu chiến Phần Thiên, vẫn giữ nguyên tư thế chém bổ xuống. Bởi vì dùng sức quá mạnh nên lòng bàn tay rỉ máu tươi đỏ lựng, cả người ướt sũng như thể vừa được vớt ra từ trong nồi nước sôi, không rõ là nước mưa hay là mồ hôi lạnh chảy ròng ròng.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0083",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0083"
+      ],
+      "source": "“呼……”",
+      "source_hash": "1d0e49df44ef1347a9ff796d69f7b5f0c9d43d2c35ae239a3c407eb24ab75bdf",
+      "target": "“Phù……”",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0084",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0084"
+      ],
+      "source": "郑东明长舒一口气，脑袋重重砸在淤泥里，连一根小指头都动不了了。",
+      "source_hash": "145cd263f1c8836ee5ddf673276d0387202f3b06dd6ffe8279f3f0b3c0b255a2",
+      "target": "Trịnh Đông Minh thở phào nhẹ nhõm một hơi dài, đầu rớt bịch xuống vũng bùn loãng, giờ đây đến cả một ngón tay út hắn cũng không nhúc nhích nổi nữa.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0085",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0085"
+      ],
+      "source": "“多谢了，亲爱的猪朋狗友！”骨瘦如柴的小胖子，由衷说道。",
+      "source_hash": "9527a906b403828484fdf0816cdebe6f6fc42ff6a7475b099de58cec6baa3d55",
+      "target": "“Đa tạ nhé, người bạn tồi thân mến của tôi!” Tên béo ú giờ chỉ còn da bọc xương chân thành lên tiếng.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0086",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0086"
+      ],
+      "source": "“应该的，猪朋狗友也是朋友。”李耀惨笑一声，拖着焚天战斧，向郑东明缓缓走过来。",
+      "source_hash": "4f04633222691ea8d9a2cd08da2354330c7923e5f7c9bedd5709f67e01c2b5e1",
+      "target": "“Nên làm mà, bạn bè tồi thì cũng vẫn là bạn bè.” Lý Diệu cười khổ một tiếng, lê cây rìu chiến Phần Thiên lảo đảo tiến về phía Trịnh Đông Minh.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0087",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0087"
+      ],
+      "source": "“接下来，你是要杀我了吧？”郑东明苦笑一声，平静问道。",
+      "source_hash": "b43442bd53711c1ea91ffe1c6bd3a468903997e63bffa5d59b5b4b4704a1e914",
+      "target": "“Tiếp theo, cậu chuẩn bị tiễn tôi lên đường đúng không?” Trịnh Đông Minh cười nhạt, điềm tĩnh hỏi.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0088",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0088"
+      ],
+      "source": "李耀抬头扫了一眼，小吉被迷彩服蒙着，飞到了很远的地方，在暴风雨中，无法听到他们的交谈。",
+      "source_hash": "547b43b517bfb35bebe3dc652d1244fafa8739568711e7035abf2333bcfb2769",
+      "target": "Lý Diệu ngẩng đầu liếc nhìn một cái, Tiểu Cát đang bị bộ chiến phục rằn ri che khuất, bay tít tận đằng xa, dưới bão bùng gió giật thế này không thể nào nghe thấy được cuộc đối thoại của hai người.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0089",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0089"
+      ],
+      "source": "“是啊。”",
+      "source_hash": "33212cd8f190d2391dc890298aebc4c2b9649274821ba1769042340c7f2573f8",
+      "target": "“Đúng vậy.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0090",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0090"
+      ],
+      "source": "李耀点头，淡淡说道。",
+      "source_hash": "a859d8d97251b014dd8b675ea0b54375d68f23c3dba95351322d191a742b6a93",
+      "target": "Lý Diệu gật đầu, thản nhiên đáp.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0091",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0091"
+      ],
+      "source": "===============",
+      "source_hash": "343b4e22a5b29f80345511c8a811420e9ff9760aabd00a5d830ce638e352fc61",
+      "target": "===============",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0092",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0092"
+      ],
+      "source": "下周强推，五一估计就要上架了，都是大家支持，老牛感激不尽。",
+      "source_hash": "0b30927ab77e14295bc8ea274726e7a31c6d4a3c3c69df7629ba85190ec90c8d",
+      "target": "Tuần sau có đợt quảng bá lớn, dự kiến dịp 1/5 sẽ chính thức phát hành có phí, tất cả là nhờ sự ủng hộ của mọi người, lão Ngưu vô cùng biết ơn.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0093",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0093"
+      ],
+      "source": "废话不说，今天三章，每章三千，总计九千字，让我们一口气把魔蛟岛的事情解决，投入到最后的高考决战！",
+      "source_hash": "6396a0c20ccceb448464719e5e1816d6f31164473fd4a0683a73406e7411b244",
+      "target": "Không nói nhảm nữa, hôm nay đăng ba chương, mỗi chương ba ngàn chữ, tổng cộng chín ngàn chữ, chúng ta hãy một hơi giải quyết dứt điểm chuyện trên Đảo Ma Giao để bước vào trận chiến quyết định kỳ thi đại học cuối cùng!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0066:align_0094",
+      "chapter_id": "chapter_0066",
+      "segment_ids": [
+        "chapter_0066:seg_0094"
+      ],
+      "source": "<a href=http://www.qidian.com>起点中文网欢迎广大书友光临阅读，最新、最快、最火的连载作品尽在起点原创！&amp;amp;lt;/a&amp;amp;gt;&amp;amp;lt;a&amp;amp;gt;手机用户请到m.qidian.com阅读。&amp;amp;lt;/a&amp;amp;gt;",
+      "source_hash": "f81c1ea0b6a09a5e43a5ad9bc1454d3ff8c3b47c6c128ac8c6fb28b9c35d130a",
+      "target": "Chào mừng độc giả ghé thăm Qidian để đọc các tác phẩm mới nhất, nhanh nhất, hot nhất! Người dùng điện thoại di động vui lòng đọc tại m.qidian.com.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    }
+  ],
+  "term_occurrences": [
+    {
+      "chapter_id": "chapter_0066",
+      "source_term": "郑东明",
+      "target_term": "Trịnh Đông Minh",
+      "segment_id": "chapter_0066:seg_0002",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0066",
+      "source_term": "噗叽兽",
+      "target_term": "thú Pút Kít",
+      "segment_id": "chapter_0066:seg_0004",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "beast",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0066",
+      "source_term": "辽远号",
+      "target_term": "Liêu Viễn Hào",
+      "segment_id": "chapter_0066:seg_0030",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0066",
+      "source_term": "魔蛟岛",
+      "target_term": "Đảo Ma Giao",
+      "segment_id": "chapter_0066:seg_0005",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0066",
+      "source_term": "链锯剑",
+      "target_term": "kiếm cưa xích",
+      "segment_id": "chapter_0066:seg_0024",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0066",
+      "source_term": "焚天",
+      "target_term": "Phần Thiên",
+      "segment_id": "chapter_0066:seg_0082",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0066",
+      "source_term": "巨目猿",
+      "target_term": "Vượn Khổng Nhãn",
+      "segment_id": "chapter_0066:seg_0027",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "beast",
+      "confidence": 1.0
+    }
+  ],
+  "entity_mentions": [
+    {
+      "chapter_id": "chapter_0066",
+      "source_surface": "李耀",
+      "target_surface": "Lý Diệu",
+      "entity_type": "person",
+      "segment_id": "chapter_0066:seg_0003",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0066",
+      "source_surface": "郑东明",
+      "target_surface": "Trịnh Đông Minh",
+      "entity_type": "person",
+      "segment_id": "chapter_0066:seg_0002",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0066",
+      "source_surface": "魔蛟岛",
+      "target_surface": "Đảo Ma Giao",
+      "entity_type": "locations",
+      "segment_id": "chapter_0066:seg_0005",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0066",
+      "source_surface": "辽远号",
+      "target_surface": "Liêu Viễn Hào",
+      "entity_type": "items",
+      "segment_id": "chapter_0066:seg_0030",
+      "confidence": 1.0
+    }
+  ],
+  "name_analysis": {
+    "status": "ok",
+    "evidence_count": 2,
+    "name_mentions": [
+      {
+        "chapter_id": "chapter_0066",
+        "name_source": "李耀",
+        "name_target": "Lý Diệu",
+        "segment_id": "chapter_0066:seg_0003",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0066",
+        "name_source": "郑东明",
+        "name_target": "Trịnh Đông Minh",
+        "segment_id": "chapter_0066:seg_0002",
+        "present_in_target": true,
+        "confidence": 1.0
+      }
+    ],
+    "name_entries": [
+      {
+        "name_source": "李耀",
+        "name_target": "Lý Diệu"
+      },
+      {
+        "name_source": "郑东明",
+        "name_target": "Trịnh Đông Minh"
+      }
+    ],
+    "transliteration_units": [],
+    "inferred_name_rules": [],
+    "ambiguity_cases": [],
+    "reusable_name_profile": {
+      "mapping_count": 2,
+      "has_ambiguity": false
+    }
+  },
+  "phrase_patterns": [],
+  "grammar_rule_candidates": [],
+  "analyzer_reports": {
+    "term_occurrences": {
+      "status": "ok",
+      "evidence_count": 7
+    },
+    "entity_mentions": {
+      "status": "ok",
+      "evidence_count": 4
+    },
+    "name_mentions": {
+      "status": "ok",
+      "evidence_count": 2
+    },
+    "phrase_patterns": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    },
+    "grammar_rule_candidates": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    }
+  },
+  "review_queue": [
+    {
+      "chapter_id": "chapter_0066",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "东明",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "\n\n  \n\n此刻的郑东明，可没有了堂堂阔少的",
+          "李耀暗暗咂舌，指着郑东明，叫道：“这位猿兄，"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0066",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "李耀",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "了！\n\n他也一眼看到李耀，眼中顿时放出希望之",
+          "住巨目猿，紧张道，“李耀，我知道你如彗星一般"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0066",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "郑东明",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.82,
+        "evidence": [
+          "炮\n\n  \n\n此刻的郑东明，可没有了堂堂阔少的",
+          "\n李耀暗暗咂舌，指着郑东明，叫道：“这位猿兄，"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0066",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "你连变身都不会",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "态了。”\n\n“什么，你连变身都不会？”\n\n郑东明十分鄙"
+        ]
+      }
+    }
+  ],
+  "quality_audit": {
+    "segment_coverage": 1.0,
+    "source_hash_match": true,
+    "target_reconstruction_match": true,
+    "invalid_ref_count": 0,
+    "locked_term_hit_rate": 1.0,
+    "missing_locked_terms": [],
+    "cjk_residue_count": 0,
+    "paragraph_drift_ratio": 0.0,
+    "pronoun_consistency_score": 1.0,
+    "warnings": []
+  }
+}

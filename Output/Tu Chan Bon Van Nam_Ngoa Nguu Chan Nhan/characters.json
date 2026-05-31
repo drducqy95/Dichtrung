@@ -3,8 +3,8 @@
     "version": "2.0",
     "schema": "gold",
     "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
-    "last_updated": "2026-05-30T22:42:19.899605+07:00",
-    "total_characters": 28
+    "last_updated": "2026-05-31T16:59:08.838686+07:00",
+    "total_characters": 41
   },
   "characters": [
     {
@@ -1120,6 +1120,500 @@
       "status": "active",
       "appearance": {
         "physical": "Cha của Hách Liên Liệt, một cổ đông của trường Xích Tiêu Nhị Trung, là một tu chân giả to lớn như tháp sắt, tính tình vô cùng hung tàn nghiêm khắc, tôn sùng triết lý dùng toàn lực diệt địch và tuân thủ các quy tắc ngầm trong giới tu chân.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "周隐",
+      "name_target": "Chu Ẩn",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Trưởng lão phụ trách bồi dưỡng tân nhân của Xích Tiêu Phái, tu chân giả Trúc Cơ Kỳ, nho nhã phong độ.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "纳兰英",
+      "name_target": "Nạp Lan Anh",
+      "name_aliases": [],
+      "gender": "female",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Học sinh xếp thứ hai mươi mốt của lớp trọng điểm trường Xích Tiêu Nhị Trung, độ khai phát linh căn 65%, tham gia giải đấu và may mắn giành được một thẻ dự thi.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "平远涛",
+      "name_source": "平远涛",
+      "name_target": "Bình Viễn Tào",
+      "name_aliases": [],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Hạm trưởng đầu tiên và cũng là cuối cùng của Liêu Viễn Hào, tu chân giả Kết Đan Kỳ, đã hi sinh cùng chiến hạm.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "钟伯牙",
+      "name_source": "钟伯牙",
+      "name_target": "Chung Bá Nha",
+      "name_aliases": [],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Giáo sư thuộc Đại học Tinh Vân, người bảo vệ nhiệt liệt cho học thuyết linh năng cấu tạo từ hạt linh tử.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "赵天戈",
+      "name_source": "赵天戈",
+      "name_target": "Triệu Thiên Qua",
+      "name_aliases": [],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Giảng viên/đại diện Học viện Quân sự Số 1 Liên bang, cựu quân nhân, ủng hộ thuyết linh năng là sóng (linh ba).",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "谢听弦",
+      "name_source": "谢听弦",
+      "name_target": "Tạ Thính Huyền",
+      "name_aliases": [],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Quan sát viên/Quan sát viên tuyển sinh của Đại học Thâm Hải, có con mắt tinh đời phát hiện tài năng cơ khí tiềm ẩn thông qua đôi bàn tay nhiều vết chai của Lý Diệu.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "丁铃铛",
+      "name_source": "丁铃铛",
+      "name_target": "Đinh Linh Đang",
+      "name_aliases": [],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Nữ tu luyện thể mạnh mẽ, trẻ trung, là quan sát viên của Đại Hoang Chiến Viện, tính cách thẳng thắn, quyết đoán, tràn đầy sức sống và cơ bắp hoàn mỹ.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "徐浩然",
+      "name_source": "徐浩然",
+      "name_target": "Từ Hạo Nhiên",
+      "name_aliases": [],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Chủ tịch Liên bang Tinh Diệu, cựu quân nhân, có uy tín lớn đối với thế hệ trẻ.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "高野",
+      "name_target": "Cao Dã",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Thí sinh xuất thân từ thế gia binh nghiệp, có thiên phú chỉ huy cấp thiên tài.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "顾医生",
+      "name_target": "bác sĩ Cố",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "middle_aged",
+      "social_status": "",
+      "base_archetype": "doctor",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Minh Tu Sư hàng đầu Phù Qua Thành điều trị cho Lý Diệu",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "楚院长",
+      "name_target": "Viện trưởng Sở",
+      "name_aliases": [],
+      "gender": "female",
+      "age_group": "elderly",
+      "social_status": "",
+      "base_archetype": "dean",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Viện trưởng Học viện Luyện khí Đại học Thâm Hải, là một bà lão mù gầy gò",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "李思思",
+      "name_source": "李思思",
+      "name_target": "Lý Tư Tư",
+      "name_aliases": [],
+      "gender": "female",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "nhân viên bán vé tàu tinh quỹ ngầm phù qua thành",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Cô gái bán vé tàu tinh quỹ ngầm đầy ngưỡng mộ khi thấy Lý Diệu là Thương binh cấp một Liên bang còn trẻ tuổi.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "黑面神",
+      "name_source": "黑一明",
+      "name_target": "Hắc Nhất Minh",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "chủ nhiệm giáo vụ trường xích tiêu nhị trung",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Tên thật là Hắc Nhất Minh, biệt hiệu Hắc Diện Thần. Ép Lý Diệu làm thủ tục bảo lưu học tập do chịu sức ép từ Hách Liên Liệt.",
         "style": "",
         "distinctive": ""
       },

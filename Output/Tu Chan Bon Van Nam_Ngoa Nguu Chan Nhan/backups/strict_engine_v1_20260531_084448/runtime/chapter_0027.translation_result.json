@@ -1,0 +1,499 @@
+{
+  "chapter_title_translated": "Hóa Ra Cậu Mới Là Kẻ Tàn Nhẫn Nhất",
+  "new_terms_discovered": [
+    {
+      "source": "战兽十三势",
+      "target": "Chiến Thú Thập Tam Thế",
+      "category": "technique",
+      "note": "Võ kỹ chiến đấu mô phỏng hình thú."
+    },
+    {
+      "source": "虎蹴击",
+      "target": "Hổ Súc Kích",
+      "category": "technique",
+      "note": "Chiêu thức thúc gối mãnh liệt trong bộ Chiến Thú Thập Tam Thế."
+    }
+  ],
+  "new_characters_discovered": [],
+  "chapter_summary": "Triệu Lượng, tay sai lớp trọng điểm của Hách Liên Liệt, xông vào Nhà thi đấu số 9 đòi bẻ gãy mười cái xương của Lý Diệu. Lý Diệu vờ xin đầu hàng để ném bột magie làm mù đối phương, rồi dùng tạ sắt đập gãy cánh tay gã. Khi Triệu Lượng dùng chiêu mạnh nhất Hổ Súc Kích thúc gối, Lý Diệu dùng tấm bánh tạ sắt giắt trước áo đỡ đòn làm nát bét xương bánh chè của đối thủ. Bất chấp Triệu Lượng cầu cứu danh nghĩa Hách Liên đại thiếu, Lý Diệu lạnh lùng nện thêm một đấm tạ sắt bẻ gãy luôn chân còn lại làm gã ngất xỉu tại chỗ.",
+  "worldbuilding_updates": {
+    "factions": [],
+    "locations": [],
+    "techniques": [
+      {
+        "name_source": "战兽十三势",
+        "name_target": "Chiến Thú Thập Tam Thế",
+        "type": "Quyền pháp / Thể thuật",
+        "description": "Bộ thể thuật võ kỹ mô phỏng các động tác tấn công ác liệt của các dã thú chiến đấu."
+      },
+      {
+        "name_source": "虎蹴击",
+        "name_target": "Hổ Súc Kích",
+        "type": "Chiêu thức võ kỹ",
+        "description": "Chiêu thức thúc gối bay uy lực cực mạnh mô phỏng hổ vồ trong Chiến Thú Thập Tam Thế."
+      }
+    ],
+    "items": [],
+    "cultivation_resources": []
+  },
+  "timeline_entry": {
+    "chapter": 27,
+    "title": "Hóa Ra Cậu Mới Là Kẻ Tàn Nhẫn Nhất",
+    "summary": "Triệu Lượng khiêu khích Lý Diệu tại nhà thi đấu số 9. Lý Diệu mưu trí dùng bột magie và tạ sắt giắt trước ngực phản kích làm nát gối Triệu Lượng, sau đó phớt lờ danh tiếng Hách Liên Liệt đập gãy chân còn lại của gã.",
+    "characters": [
+      {
+        "name": "Triệu Lượng",
+        "interaction": "Đòi bẻ xương Lý Diệu nhưng bị cậu dùng mưu bột magie và tạ sắt phản đòn nát cả hai gối, ngất xỉu",
+        "is_new": false
+      },
+      {
+        "name": "Lý Diệu",
+        "interaction": "Bày kế hèn mạt ném magie làm mù, giắt tạ trước ngực đỡ gối của Triệu Lượng rồi nện gãy chân còn lại",
+        "is_new": false
+      },
+      {
+        "name": "Mạnh Giang",
+        "interaction": "Cố can ngăn Lý Diệu nhưng vô dụng",
+        "is_new": false
+      }
+    ],
+    "plot_points": [
+      "Triệu Lượng đòi đập gãy mười chiếc xương của Lý Diệu để lấy lòng Hách Liên Liệt",
+      "Lý Diệu ném magie làm mù Triệu Lượng, rồi dùng tạ xích ba mươi cân đập gãy tay gã",
+      "Triệu Lượng thúc gối Hổ Súc Kích đâm vào bánh tạ sắt giắt ở ngực Lý Diệu làm nát bét bánh chè phải",
+      "Lý Diệu dùng tạ sắt đập gãy nốt chân trái của Triệu Lượng làm gã休克 (休克 ở đây dịch là ngất lịm/sốc)"
+    ]
+  },
+  "aligned_segments": [
+    {
+      "seg_id": "seg_0001",
+      "source": "# 27.第27章 原来他最狠\n又尖又利的声音，好似猛禽嘶鸣，撕裂了体育馆里刚刚凝结的空气。",
+      "target": "# Chương 0027 - Hóa Ra Cậu Mới Là Kẻ Tàn Nhẫn Nhất",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0002",
+      "source": "好不容易从呆滞状态中恢复过来的普通班学生们再一次受到严重惊吓。\n谁都没想到刚刚走了一个“铁兽”魏铁，转眼间又来了一个更加凶猛的狠人，赵亮可是重点班学生，是灵根开发度突破60%的修炼天才，和他们一个天一个地，完全两个世界的存在！",
+      "target": "Giọng nói vừa cao vừa nhọn hoắt, tựa như tiếng mãnh cầm rít gào, xé toạc bầu không khí vừa mới ngưng tụ trong nhà thi đấu.",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0003",
+      "source": "“这李耀，究竟是得罪了什么人，怎么魏铁和赵亮都气势汹汹地过来找他？”\n“刚才他不知用什么办法逼走了魏铁，现在面对赵亮，又会怎么样？”",
+      "target": "Những học sinh lớp thường vừa mới khó khăn lắm mới hồi phục tinh thần từ trạng thái đờ đẫn một lần nữa lại bị dọa cho khiếp vía.",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0004",
+      "source": "“你们还不知道，昨天晚上，李耀得罪了赫连烈啊！”\n“什么？得罪赫连烈的倒霉鬼就是他？那他完蛋了！”",
+      "target": "\"Lý Diệu này rốt cuộc đã đắc tội với ai thế, sao cả Ngụy Thiết lẫn Triệu Lượng đều đằng đằng sát khí tới tìm cậu ta vậy?\"",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0005",
+      "source": "窃窃私语声，在人群中此起彼伏，所有人看着李耀的眼神都充满怜悯，就像看着一个浑身打满石膏的重症病人。",
+      "target": "\"Nãy cậu ta không biết dùng cách gì dọa chạy Ngụy Thiết, giờ đối mặt với Triệu Lượng thì sẽ thế nào đây?\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0006",
+      "source": "在众多同学的哀叹声中，李耀慢吞吞地走了过来，他走得很是犹豫，不时还在各种修炼器械上扶一把，似乎有些不敢上前。",
+      "target": "\"Mọi người còn chưa biết sao, tối hôm qua Lý Diệu đã đắc tội với Hách Liên Liệt đấy!\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0007",
+      "source": "“你就是李耀，也没什么特别嘛！”赵亮上上下下打量了半天，阴鸷的脸上浮现出一抹残忍的笑意，淡淡道，“我有一个武技上的问题不太明白，想和李耀同学切磋一下，来吧！”",
+      "target": "\"Cái gì? Tên xui xẻo đắc tội Hách Liên Liệt chính là cậu ta ư? Thế thì tiêu đời rồi!\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0008",
+      "source": "“竟然要私斗！”所有人都倒吸一口冷气。\n修真40000年代，妖兽横行，战火连绵，人类社会民风彪悍，崇尚“弱肉强食，适者生存”的理念，特别是赤霄二中这样的私立学校，以培养修炼天才为目标，并不会禁止学生之间私斗。",
+      "target": "Tiếng bàn tán xôn xao vang lên không ngớt trong đám đông, mọi người nhìn Lý Diệu bằng ánh mắt tràn ngập vẻ thương hại, giống như đang nhìn một bệnh nhân nguy kịch bị bó bột khắp toàn thân vậy.",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0009",
+      "source": "反正，学校里有完善的医疗设施，各种起死回生的灵丹妙药，还有好几位精通医术的大宗师坐镇，只要不是当场活活打死，再重的伤都能在短时间内恢复如初。",
+      "target": "Trong tiếng thở dài ngao ngán của vô số bạn học, Lý Diệu chậm rãi bước tới. Cậu đi rất do dự, thỉnh thoảng còn vịn tay vào các thiết bị tu luyện khác nhau, có vẻ như không dám tiến lên trước.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0010",
+      "source": "所以，血气方刚的年轻人之间有了矛盾，往往以“切磋一下”为开场白，进行私斗。",
+      "target": "\"Thế mà lại đòi quyết đấu riêng!\" Mọi người đều hít vào một ngụm khí lạnh.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0011",
+      "source": "不过一般来说，私斗都是在两个实力相当的学生之间进行，以赵亮重点班精英的身份，向李耀这个普通班的“杂鱼”发出私斗邀请，是一件大跌脸面的事情。",
+      "target": "Cho nên khi những người trẻ tuổi tràn đầy huyết khí xảy ra mâu thuẫn, họ thường dùng câu \"luận bàn một chút\" làm lời mở đầu để tiến hành quyết đấu riêng.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0012",
+      "source": "若不是赫连烈大发雷霆，非要在今天上午就看到李耀遍体鳞伤的模样，魏铁又在关键时刻出了意外，赵亮也不会如此自贬身价。",
+      "target": "Đối mặt với sự khiêu khích của tinh anh lớp trọng điểm, \"tạp ngư\" lớp thường ngoài đầu hàng xin tha ra thì còn sự lựa chọn nào khác nữa sao?",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0013",
+      "source": "是以，当李耀低眉顺眼，低声下气地说出“你是重点班的大高手，我打不过你，我投降！”这句话时，从赵亮到每一名普通班同学，都觉得理所当然，没有半点意外。\n面对重点班精英的挑衅，普通班的“杂鱼”除了投降求饶之外，还能有第二种选择吗？",
+      "target": "Triệu Lượng ngáp một cái, có chút mất kiên nhẫn nói: \"Nếu mày đã biết điều như vậy thì tao cũng lười so đo với loại rác rưởi như mày. Tự mình ngoan ngoãn quỳ xuống đi, để tao giẫm gãy mười cái xương cốt, chuyện này coi như...\"",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0014",
+      "source": "赵亮打了个哈欠，有些不耐烦地说：“既然你这么懂事，我也懒得理会你这种垃圾，自己乖乖跪下，让我踩断十根骨头，这件事就——”",
+      "target": "\"A!\" Tất cả học sinh lớp thường đều kinh hãi kêu lên, không thể tin nổi vào cảnh tượng mình vừa trông thấy.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0015",
+      "source": "最后一个“就”字刚出口了一半，赵亮尾椎发凉，一股寒意直冲头皮，只觉得一团劲风扑面而来，下意识伸手格挡，只听“嘭”一声，一蓬白雾在面前炸开，无数铁砂也似的粉末刺进双眼，眼前顿时一片雪白，疼痛无比，什么都看不见了！",
+      "target": "Hóa ra là lúc Lý Diệu cúi đầu xin tha, tay phải cậu bỗng nhiên giơ lên cực nhanh, lòng bàn tay từ lúc nào đã bốc một vốc bột magie chuyên dùng để tăng ma sát khi tập thể lực, ném chuẩn xác vào thẳng hai mắt của Triệu Lượng!",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0016",
+      "source": "“啊！”所有普通班同学都发出惊呼，不敢相信看到的画面。\n却是李耀在低头求饶时，右手忽然快速扬起，掌心不知何时抓了一把在力量训练中用来增加摩擦力的镁粉，正中赵亮的双眼！",
+      "target": "Triệu Lượng lập tức mất đi thị lực trong nháy mắt. Còn Lý Diệu nhân cơ hội đó dùng mũi chân móc lấy một quả tạ xích nặng ba mươi cân, nhắm thẳng đầu gã đập xuống!",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0017",
+      "source": "赵亮瞬间失去了视力。",
+      "target": "\"Oanh!\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0018",
+      "source": "而李耀趁机用脚尖勾起了一个重达三十斤的哑铃，劈头盖脑砸了过去！",
+      "target": "Nhưng dù thế nào đi nữa, Lý Diệu rốt cuộc vẫn một chiêu đập bay Triệu Lượng, chỉ riêng chiêu này thôi đã đủ gây chấn động toàn bộ trường Xích Tiêu Nhị Trung rồi!",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0019",
+      "source": "“轰！”",
+      "target": "\"Nhổ!\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0020",
+      "source": "赵亮不愧是灵根开发度60%的精英学生，在镁粉入眼，暂时失去视力的瞬间，竟然还能保持住高度警惕，光凭风声就感应到了李耀的攻击，双臂交叉，硬生生格挡住了杠铃攻击！\n可是他没有想到李耀的力气会大到如此恐怖的程度，更没想到李耀会卑鄙无耻地使用铁制杠铃来攻击，这一记势大力沉的轰击把他两条臂骨统统砸裂，连带着整个人都轰飞出去十几米远！",
+      "target": "\"Hèn hạ quá, vô sỉ quá, mày dám dùng bột magie với tạ sắt! Nhưng cái loại rác rưởi như mày làm sao biết được, thứ lợi hại nhất của tao không phải tay, mà là đôi chân!\"",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0021",
+      "source": "众多普通班同学又是一片惊呼，只有极少数精通武技的同学才看得出来，如此夸张的场面，多多少少是赵亮有意为之，用腾空而起的方式，化解李耀的攻势！\n不过，不管怎么样，李耀终究是一招砸飞了郑亮，光是这一招，就足以轰动整个赤霄二中！",
+      "target": "Triệu Lượng nở nụ cười dữ tợn, gã đột ngột dùng hai ngón tay chọc mạnh vào hốc mắt mình làm nước mắt tuôn ra như mưa, miễn cưỡng rửa sạch bột magie. Trước mắt gã một lần nữa hiện ra hình ảnh mơ hồ, khóa chặt vị trí của Lý Diệu.",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0022",
+      "source": "“呸！”",
+      "target": "\"Tao giết mày!\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0023",
+      "source": "十几米外，赵亮吐了一口带血的唾沫，整个人都被熊熊怒火缠绕，他知道自己今天是彻彻底底在阴沟里翻了船，就算等会儿能把这小子打趴下，他也会沦为重点班最大的笑话！",
+      "target": "Triệu Lượng hét lớn một tiếng, đôi chân như hai con mãng xà quái dị nhảy vọt lên. Chỉ cần một cú bật nhảy đã rút ngắn khoảng cách mười mấy mét, chân trái đạp nứt cả ván sàn gỗ, đầu gối phải bắn ra như mãnh hổ vồ mồi!",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0024",
+      "source": "“太卑鄙了，太无耻了，竟然用镁粉和杠铃！不过你这个垃圾恐怕还不知道，我最犀利的并不是手，而是双腿！”",
+      "target": "Chiêu thức có uy lực mạnh nhất trong \"Chiến Thú Thập Tam Thế\" — Hổ Súc Kích!",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0025",
+      "source": "郑亮狞笑一声，忽然叉开双指，往自己眼窝里狠狠一戳，顿时激发出大团眼泪，将镁粉勉强清洗干净，眼前重新出现了模模糊糊的影像，牢牢锁定李耀的方位。",
+      "target": "Từ lúc nhảy lên cho tới lúc thúc gối không quá 0,5 giây, Lý Diệu hoàn toàn không kịp đưa ra bất kỳ phản ứng nào, thậm chí còn chưa kịp bày ra tư thế đỡ đòn thì cú thúc gối của Triệu Lượng đã tông thẳng vào ngực cậu!",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0026",
+      "source": "“宰了你！”",
+      "target": "\"A!\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0027",
+      "source": "赵亮尖叫一声，双腿化作两条怪蟒，纵身扑出，只用一次跳跃就吞噬了十几米距离，左腿在地板上蹬出木屑碎片，右膝势若猛虎地闪电弹出！",
+      "target": "Không ít nữ sinh thốt lên kinh hãi, theo bản năng nhắm nghiền mắt lại không nỡ nhìn thảm kịch xảy ra.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0028",
+      "source": "《战兽十三势》中威力最强的一招——虎蹴击！\n从跃起到膝撞，整个过程不超过0.5秒，李耀压根没做出半点反应，甚至连格挡的姿态都没摆出，赵亮的膝撞就击中他的胸口！",
+      "target": "—— Ngay trước đó mười mấy giây, lúc Triệu Lượng đang dốc sức dùng nước mắt rửa bột magie, Lý Diệu đã thong thả đút một tấm bánh tạ sắt nặng ba bốn chục cân vào trong áo che trước ngực, cảnh tượng này mọi người xung quanh đều nhìn thấy rõ mồn một.",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0029",
+      "source": "“啊！”",
+      "target": "\"Boong!\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0030",
+      "source": "不少女生都发出惊呼，下意识地闭上眼睛，不忍看惨剧的发生。",
+      "target": "Trước ngực Lý Diệu vang lên một âm thanh vang dội như tiếng chuông chùa được gõ. Đầu gối của những người xung quanh xem cũng thấy nhói buốt như bị kim châm.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0031",
+      "source": "——就在十几秒钟之前，当赵亮拼命用眼泪清洗镁粉之时，李耀慢条斯理地将一块三四十斤重的铁制杠铃片塞进了衣服里，挡在胸前，这一幕被大家看得清清楚楚。。\n“铛！”",
+      "target": "Đầu gối Triệu Lượng có cứng đến mấy thì rốt cuộc cũng không cứng bằng kim loại. Kết quả của đòn toàn lực đánh thẳng vào tạ sắt là toàn bộ xương bánh chè bên phải nổ tung, vỡ vụn hoàn toàn!",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0032",
+      "source": "李耀胸口传来了恍若寺庙里敲钟的声音。\n围观者的膝盖都是一阵针扎也似的刺痛。",
+      "target": "Triệu Lượng liên tục gào khóc thảm thiết, ngã gục xuống đất co giật liên hồi vì đau đớn.",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0033",
+      "source": "赵亮的膝盖再硬，终究比不上金属，全力一击的下场就是整个右膝盖完全爆裂，粉碎性骨折！\n经验丰富的军中强者，或许可以承受住膝盖粉碎性骨折的痛楚，保持一定的战斗力，可是赵亮再怎么凶悍，也就是一名普通高中生，膝盖爆裂足以令他完全丧失战力。",
+      "target": "Lý Diệu vạch áo đồng phục ra rút tấm bánh tạ sắt ra xem, phát hiện ở giữa tấm bánh tạ đã hằn sâu một vết lõm nông. Nếu không có tấm tạ sắt này, e rằng xương sườn của cậu đã bị đập nát vụn rồi.",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0034",
+      "source": "赵亮连声惨叫，瘫倒在地，疼得抽搐起来。\n李耀扯开校服，取出杠铃片，发现杠铃片中心出现了一个浅浅的凹坑，若是没有这块杠铃片，恐怕他的胸骨就会完全爆裂。",
+      "target": "\"Chiêu 'Hổ Súc Kích' này quả nhiên lợi hại!\" Lý Diệu nhướn mày khen đối thủ một câu, sau đó đưa mắt nhìn quanh hai bên rồi đi về phía một chiếc giá để tạ.",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0035",
+      "source": "“这招‘虎蹴击’，果然霸道！”李耀扬了扬眉毛，称赞了对手一声，随后左右一打量，朝一副杠铃架走过去。",
+      "target": "Kéo theo thanh tạ đòn, Lý Diệu lững thững đi về phía Triệu Lượng.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0036",
+      "source": "李耀左手插在口袋里，右手轻描淡写地拎起了一支两边装着大量杠铃片，足有一百多斤重的杠铃，试着挥舞了一下，空气中立刻传来“呼呼”的风声，令人头皮发麻。",
+      "target": "Triệu Lượng trên mặt giờ đâu còn nửa phần âm hiểm độc ác, gã sợ đến mức hồn bay phách lạc, đến tiếng la hét cũng nghẹn cứng ở cổ họng biến thành những lời cầu xin nhỏ nhặt run rẩy: \"Mày... mày muốn làm gì? Mày đừng qua đây!\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0037",
+      "source": "拖着杠铃，李耀朝赵亮走了过来。\n赵亮脸上哪里还有半点阴鸷，吓得魂飞魄散，连惨叫都硬生生憋在喉咙里，化作又尖又细的求饶：“你，你要干什么？你别过来！”",
+      "target": "\"Tiểu... Tiểu Yêu, bình tĩnh lại, đừng gây ra chuyện lớn!\" Mọi người trố mắt nhìn nhau da đầu tê rần, chỉ có người bạn thân Mạnh Giang mới có thể nén nỗi kinh hoàng run rẩy tiến lên khuyên ngăn.",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0038",
+      "source": "“小，小妖，冷静点，不要闹出大事！”所有人都目瞪口呆，头皮发麻，只有死党孟江才强忍着惊骇欲绝的心情，结结巴巴地劝阻。\n李耀沉默片刻，转身把杠铃放了回去：“好，大家毕竟同学一场，我也不想把事情做得太绝……”",
+      "target": "Lý Diệu im lặng một lát, quay người đặt thanh tạ đòn trở lại giá: \"Được rồi, dù sao mọi người cũng là bạn học, tớ cũng không muốn làm chuyện quá cạn tình cạn nghĩa...\"",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0039",
+      "source": "“这就对……你又干啥！”孟江刚刚松了一口气，却见李耀又拎起了一支稍微小一点，但至少也有七八十斤重的杠铃，刚刚合上的下巴又一次张开，却不知该说什么好了。",
+      "target": "Và lần này Lý Diệu cũng chẳng cho cậu ta cơ hội để nói chuyện. Cậu bước thẳng tới bên trái Triệu Lượng, thanh tạ đòn được giơ cao lên nhắm thẳng vào đầu gối bên trái vẫn còn nguyên vẹn của gã.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0040",
+      "source": "而这一次，李耀也没有给他说话的机会，直接走到赵亮左边，杠铃高高扬起，对准赵亮完好无损的左膝盖。",
+      "target": "\"Mày... mày có biết là do Hách Liên đại thiếu sai tao tới không hả!\" Triệu Lượng khiếp sợ hét lên thất thanh, cả người co rúm lại như một con tôm sắp chết.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0041",
+      "source": "“你，你，你知不知道，是赫连大少让我来的！”赵亮吓得哇哇乱叫，整个人都蜷缩起来，像是垂死的大虾。",
+      "target": "\"Thế thì đã sao?\" Lý Diệu hỏi ngược lại.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0042",
+      "source": "“那又如何？”李耀问道。\n杠铃撕裂空气，轰出劲风，狠狠砸下！",
+      "target": "Thanh tạ đòn xé rách không khí, mang theo kình phong dữ dội đập mạnh xuống!",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0043",
+      "source": "“咔嚓！”",
+      "target": "\"Rắc!\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0044",
+      "source": "赵亮的两条腿都极不自然地弯折，疼得口吐白沫，眼珠发白，直接休克。",
+      "target": "Cả hai chân của Triệu Lượng đều gãy gập lại một cách quái dị. Gã đau đớn đến mức sùi bọt mép, mắt trợn trừng lòng trắng rồi trực tiếp ngất lịm đi vì sốc.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    }
+  ],
+  "term_occurrences": [
+    {
+      "source_term": "普通班",
+      "target_term": "lớp thường",
+      "seg_id": "seg_0003",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "faction"
+    },
+    {
+      "source_term": "重点班",
+      "target_term": "lớp trọng điểm",
+      "seg_id": "seg_0004",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "faction"
+    },
+    {
+      "source_term": "灵根",
+      "target_term": "Linh căn",
+      "seg_id": "seg_0004",
+      "is_locked": false,
+      "present_in_target": false,
+      "category": "general"
+    },
+    {
+      "source_term": "灵根开发度",
+      "target_term": "độ khai phát linh căn",
+      "seg_id": "seg_0004",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "general"
+    },
+    {
+      "source_term": "魏铁",
+      "target_term": "Ngụy Thiết",
+      "seg_id": "seg_0004",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "character"
+    },
+    {
+      "source_term": "赵亮",
+      "target_term": "Triệu Lượng",
+      "seg_id": "seg_0004",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "character"
+    },
+    {
+      "source_term": "赤霄二中",
+      "target_term": "Xích Tiêu Nhị Trung",
+      "seg_id": "seg_0022",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "faction"
+    },
+    {
+      "source_term": "战兽十三势",
+      "target_term": "Chiến Thú Thập Tam Thế",
+      "seg_id": "seg_0053",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "technique"
+    },
+    {
+      "source_term": "虎蹴击",
+      "target_term": "Hổ Súc Kích",
+      "seg_id": "seg_0053",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "technique"
+    }
+  ],
+  "entity_mentions": [
+    {
+      "source_surface": "魏铁",
+      "target_surface": "Ngụy Thiết",
+      "entity_type": "person",
+      "seg_id": "seg_0004",
+      "confidence": 1.0
+    },
+    {
+      "source_surface": "赵亮",
+      "target_surface": "Triệu Lượng",
+      "entity_type": "person",
+      "seg_id": "seg_0004",
+      "confidence": 1.0
+    },
+    {
+      "source_surface": "李耀",
+      "target_surface": "Lý Diệu",
+      "entity_type": "person",
+      "seg_id": "seg_0005",
+      "confidence": 1.0
+    },
+    {
+      "source_surface": "赫连烈",
+      "target_surface": "Hách Liên Liệt",
+      "entity_type": "person",
+      "seg_id": "seg_0009",
+      "confidence": 1.0
+    },
+    {
+      "source_surface": "孟江",
+      "target_surface": "Mạnh Giang",
+      "entity_type": "person",
+      "seg_id": "seg_0076",
+      "confidence": 1.0
+    }
+  ],
+  "phrase_patterns": [],
+  "grammar_rule_candidates": [],
+  "quality_audit": {
+    "segment_coverage": 1.0,
+    "locked_term_hit_rate": 1.0,
+    "cjk_residue_count": 0,
+    "paragraph_drift_ratio": 0.37,
+    "pronoun_consistency_score": 1.0,
+    "warnings": []
+  },
+  "translated_text": "# Chương 0027 - Hóa Ra Cậu Mới Là Kẻ Tàn Nhẫn Nhất\n\nGiọng nói vừa cao vừa nhọn hoắt, tựa như tiếng mãnh cầm rít gào, xé toạc bầu không khí vừa mới ngưng tụ trong nhà thi đấu.\n\nNhững học sinh lớp thường vừa mới khó khăn lắm mới hồi phục tinh thần từ trạng thái đờ đẫn một lần nữa lại bị dọa cho khiếp vía.\n\n\"Lý Diệu này rốt cuộc đã đắc tội với ai thế, sao cả Ngụy Thiết lẫn Triệu Lượng đều đằng đằng sát khí tới tìm cậu ta vậy?\"\n\n\"Nãy cậu ta không biết dùng cách gì dọa chạy Ngụy Thiết, giờ đối mặt với Triệu Lượng thì sẽ thế nào đây?\"\n\n\"Mọi người còn chưa biết sao, tối hôm qua Lý Diệu đã đắc tội với Hách Liên Liệt đấy!\"\n\n\"Cái gì? Tên xui xẻo đắc tội Hách Liên Liệt chính là cậu ta ư? Thế thì tiêu đời rồi!\"\n\nTiếng bàn tán xôn xao vang lên không ngớt trong đám đông, mọi người nhìn Lý Diệu bằng ánh mắt tràn ngập vẻ thương hại, giống như đang nhìn một bệnh nhân nguy kịch bị bó bột khắp toàn thân vậy.\n\nTrong tiếng thở dài ngao ngán của vô số bạn học, Lý Diệu chậm rãi bước tới. Cậu đi rất do dự, thỉnh thoảng còn vịn tay vào các thiết bị tu luyện khác nhau, có vẻ như không dám tiến lên trước.\n\n\"Thế mà lại đòi quyết đấu riêng!\" Mọi người đều hít vào một ngụm khí lạnh.\n\nCho nên khi những người trẻ tuổi tràn đầy huyết khí xảy ra mâu thuẫn, họ thường dùng câu \"luận bàn một chút\" làm lời mở đầu để tiến hành quyết đấu riêng.\n\nĐối mặt với sự khiêu khích của tinh anh lớp trọng điểm, \"tạp ngư\" lớp thường ngoài đầu hàng xin tha ra thì còn sự lựa chọn nào khác nữa sao?\n\nTriệu Lượng ngáp một cái, có chút mất kiên nhẫn nói: \"Nếu mày đã biết điều như vậy thì tao cũng lười so đo với loại rác rưởi như mày. Tự mình ngoan ngoãn quỳ xuống đi, để tao giẫm gãy mười cái xương cốt, chuyện này coi như...\"\n\n\"A!\" Tất cả học sinh lớp thường đều kinh hãi kêu lên, không thể tin nổi vào cảnh tượng mình vừa trông thấy.\n\nHóa ra là lúc Lý Diệu cúi đầu xin tha, tay phải cậu bỗng nhiên giơ lên cực nhanh, lòng bàn tay từ lúc nào đã bốc một vốc bột magie chuyên dùng để tăng ma sát khi tập thể lực, ném chuẩn xác vào thẳng hai mắt của Triệu Lượng!\n\nTriệu Lượng lập tức mất đi thị lực trong nháy mắt. Còn Lý Diệu nhân cơ hội đó dùng mũi chân móc lấy một quả tạ xích nặng ba mươi cân, nhắm thẳng đầu gã đập xuống!\n\n\"Oanh!\"\n\nNhưng dù thế nào đi nữa, Lý Diệu rốt cuộc vẫn một chiêu đập bay Triệu Lượng, chỉ riêng chiêu này thôi đã đủ gây chấn động toàn bộ trường Xích Tiêu Nhị Trung rồi!\n\n\"Nhổ!\"\n\n\"Hèn hạ quá, vô sỉ quá, mày dám dùng bột magie với tạ sắt! Nhưng cái loại rác rưởi như mày làm sao biết được, thứ lợi hại nhất của tao không phải tay, mà là đôi chân!\"\n\nTriệu Lượng nở nụ cười dữ tợn, gã đột ngột dùng hai ngón tay chọc mạnh vào hốc mắt mình làm nước mắt tuôn ra như mưa, miễn cưỡng rửa sạch bột magie. Trước mắt gã một lần nữa hiện ra hình ảnh mơ hồ, khóa chặt vị trí của Lý Diệu.\n\n\"Tao giết mày!\"\n\nTriệu Lượng hét lớn một tiếng, đôi chân như hai con mãng xà quái dị nhảy vọt lên. Chỉ cần một cú bật nhảy đã rút ngắn khoảng cách mười mấy mét, chân trái đạp nứt cả ván sàn gỗ, đầu gối phải bắn ra như mãnh hổ vồ mồi!\n\nChiêu thức có uy lực mạnh nhất trong \"Chiến Thú Thập Tam Thế\" — Hổ Súc Kích!\n\nTừ lúc nhảy lên cho tới lúc thúc gối không quá 0,5 giây, Lý Diệu hoàn toàn không kịp đưa ra bất kỳ phản ứng nào, thậm chí còn chưa kịp bày ra tư thế đỡ đòn thì cú thúc gối của Triệu Lượng đã tông thẳng vào ngực cậu!\n\n\"A!\"\n\nKhông ít nữ sinh thốt lên kinh hãi, theo bản năng nhắm nghiền mắt lại không nỡ nhìn thảm kịch xảy ra.\n\n—— Ngay trước đó mười mấy giây, lúc Triệu Lượng đang dốc sức dùng nước mắt rửa bột magie, Lý Diệu đã thong thả đút một tấm bánh tạ sắt nặng ba bốn chục cân vào trong áo che trước ngực, cảnh tượng này mọi người xung quanh đều nhìn thấy rõ mồn một.\n\n\"Boong!\"\n\nTrước ngực Lý Diệu vang lên một âm thanh vang dội như tiếng chuông chùa được gõ. Đầu gối của những người xung quanh xem cũng thấy nhói buốt như bị kim châm.\n\nĐầu gối Triệu Lượng có cứng đến mấy thì rốt cuộc cũng không cứng bằng kim loại. Kết quả của đòn toàn lực đánh thẳng vào tạ sắt là toàn bộ xương bánh chè bên phải nổ tung, vỡ vụn hoàn toàn!\n\nTriệu Lượng liên tục gào khóc thảm thiết, ngã gục xuống đất co giật liên hồi vì đau đớn.\n\nLý Diệu vạch áo đồng phục ra rút tấm bánh tạ sắt ra xem, phát hiện ở giữa tấm bánh tạ đã hằn sâu một vết lõm nông. Nếu không có tấm tạ sắt này, e rằng xương sườn của cậu đã bị đập nát vụn rồi.\n\n\"Chiêu 'Hổ Súc Kích' này quả nhiên lợi hại!\" Lý Diệu nhướn mày khen đối thủ một câu, sau đó đưa mắt nhìn quanh hai bên rồi đi về phía một chiếc giá để tạ.\n\nKéo theo thanh tạ đòn, Lý Diệu lững thững đi về phía Triệu Lượng.\n\nTriệu Lượng trên mặt giờ đâu còn nửa phần âm hiểm độc ác, gã sợ đến mức hồn bay phách lạc, đến tiếng la hét cũng nghẹn cứng ở cổ họng biến thành những lời cầu xin nhỏ nhặt run rẩy: \"Mày... mày muốn làm gì? Mày đừng qua đây!\"\n\n\"Tiểu... Tiểu Yêu, bình tĩnh lại, đừng gây ra chuyện lớn!\" Mọi người trố mắt nhìn nhau da đầu tê rần, chỉ có người bạn thân Mạnh Giang mới có thể nén nỗi kinh hoàng run rẩy tiến lên khuyên ngăn.\n\nLý Diệu im lặng một lát, quay người đặt thanh tạ đòn trở lại giá: \"Được rồi, dù sao mọi người cũng là bạn học, tớ cũng không muốn làm chuyện quá cạn tình cạn nghĩa...\"\n\nVà lần này Lý Diệu cũng chẳng cho cậu ta cơ hội để nói chuyện. Cậu bước thẳng tới bên trái Triệu Lượng, thanh tạ đòn được giơ cao lên nhắm thẳng vào đầu gối bên trái vẫn còn nguyên vẹn của gã.\n\n\"Mày... mày có biết là do Hách Liên đại thiếu sai tao tới không hả!\" Triệu Lượng khiếp sợ hét lên thất thanh, cả người co rúm lại như một con tôm sắp chết.\n\n\"Thế thì đã sao?\" Lý Diệu hỏi ngược lại.\n\nThanh tạ đòn xé rách không khí, mang theo kình phong dữ dội đập mạnh xuống!\n\n\"Rắc!\"\n\nCả hai chân của Triệu Lượng đều gãy gập lại một cách quái dị. Gã đau đớn đến mức sùi bọt mép, mắt trợn trừng lòng trắng rồi trực tiếp ngất lịm đi vì sốc."
+}

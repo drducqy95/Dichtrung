@@ -1,0 +1,135 @@
+{
+  "schema_version": "1.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 34,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan\\0034 - 34.第34章 凶兽出笼.md",
+  "source_char_count": 2225,
+  "characters": [
+    {
+      "source": "孙彪",
+      "entity_type": "person",
+      "count": 9,
+      "confidence": 0.7,
+      "evidence": [
+        "彭海的聊天记录。\n\n孙彪：“不是人！这小子肯",
+        "彭海的聊天记录。\n\n孙彪：“这小子今天扛着五",
+        "中一拳，小腹。”\n\n孙彪：“……”\n\n彭海："
+      ]
+    },
+    {
+      "source": "彭海",
+      "entity_type": "person",
+      "count": 8,
+      "confidence": 0.7,
+      "evidence": [
+        "里情况怎么样？”\n\n彭海：“别提了，昨晚他和",
+        "你怎么不说话！”\n\n彭海：“我昨晚被他打中一",
+        "\n孙彪：“……”\n\n彭海：“……”\n\n孙彪："
+      ]
+    },
+    {
+      "source": "连烈",
+      "entity_type": "person",
+      "count": 4,
+      "confidence": 0.7,
+      "evidence": [
+        "鬼，不知怎么得罪了赫连烈，还把赫连烈的一个手",
+        "鬼！”\n\n“天哪，赫连烈，我的男神啊！究竟是",
+        "可以，就是不能招惹赫连烈，就算一不小心真的得"
+      ]
+    }
+  ],
+  "organizations": [],
+  "locations": [
+    {
+      "source": "彭海",
+      "entity_type": "location",
+      "count": 8,
+      "confidence": 0.78,
+      "evidence": [
+        "。\n\n不过，在孙彪和彭海的灵鹤传书中，李耀又"
+      ]
+    },
+    {
+      "source": "阿海",
+      "entity_type": "location",
+      "count": 2,
+      "confidence": 0.78,
+      "evidence": [
+        "也没能难住他！你呢，阿海，你这里情况怎么样？"
+      ]
+    },
+    {
+      "source": "再看看李耀面前堆起的大肉山",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "颗狮子头和一大碗饭，再看看李耀面前堆起的大肉山，下了结论，“看他这"
+      ]
+    }
+  ],
+  "realms": [],
+  "techniques": [
+    "他误打误撞轰中一拳",
+    "听到仓库里传来一阵",
+    "就是因为家里父母经",
+    "应该已经",
+    "我已经",
+    "我昨晚被他打中一拳",
+    "李耀忽然一阵",
+    "看他这个吃法"
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "赤霄二中",
+      "target": "Xích Tiêu Nhị Trung"
+    },
+    {
+      "source": "普通班",
+      "target": "lớp thường"
+    },
+    {
+      "source": "灵根",
+      "target": "Linh căn"
+    },
+    {
+      "source": "灵根开发度",
+      "target": "độ khai phát linh căn"
+    },
+    {
+      "source": "彭海",
+      "target": "Bành Hải"
+    },
+    {
+      "source": "孙彪",
+      "target": "Tôn Bưu"
+    },
+    {
+      "source": "孙老",
+      "target": "Tôn lão"
+    },
+    {
+      "source": "准考证",
+      "target": "thẻ dự thi"
+    },
+    {
+      "source": "放弃",
+      "target": "Từ Bỏ"
+    },
+    {
+      "source": "修真界败类",
+      "target": "Bại hoại giới Tu Chân"
+    },
+    {
+      "source": "灵鹤传书",
+      "target": "Linh Hạc Truyền Thư"
+    }
+  ],
+  "structural_hints": {
+    "has_dialogue": true,
+    "has_western_names": false,
+    "estimated_segments": 72
+  },
+  "generated_at": "2026-05-31T03:24:05.992260+07:00"
+}

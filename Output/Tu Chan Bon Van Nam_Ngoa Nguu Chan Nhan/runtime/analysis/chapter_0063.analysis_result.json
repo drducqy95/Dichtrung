@@ -1,0 +1,1135 @@
+{
+  "schema_version": "2.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 63,
+  "chapter_id": "chapter_0063",
+  "source_manifest_hash": "efaae62ed8bb4c60ec60a5a132bd2c6d07fe7e4681cc240239482a26b9e06a3d",
+  "aligned_segments": [
+    {
+      "alignment_id": "chapter_0063:align_0001",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0001"
+      ],
+      "source": "# 63.第63章 一路杀过去！",
+      "source_hash": "4bc304d11317a593e5e96ee277ca7fd73f4417bf7192f460ca0dd2f949f91b3f",
+      "target": "# Chương 0063 - Chém giết suốt chặng đường!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0002",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0002"
+      ],
+      "source": "红方通讯频道里，上百名选手还是乱哄哄，闹纷纷，彼此讥讽、嘲笑和埋怨，像菜市场一样人声嘈杂，混乱不堪。",
+      "source_hash": "19d577b41da87ab3fd033d5b5590f03cec92419641332a8e2eef5a7cb069ca3c",
+      "target": "Trong kênh truyền thông phe Đỏ, hàng trăm thí sinh vẫn đang ồn ào hỗn loạn, bàn tán xôn xao, mỉa mai, giễu cợt và oán trách lẫn nhau, âm thanh ồn ào như cái chợ vỡ, cực kỳ hỗn loạn.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0003",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0003"
+      ],
+      "source": "他们却在同一时间，被来自魔蛟岛中部的巨大爆炸声震慑，许久没有一个人说话。",
+      "source_hash": "9cfd42395d6c1247cd84d816ec468a4dfdf9f1e3d5f794277849a7c3d8943c78",
+      "target": "Thế nhưng cùng một lúc, bọn họ đều bị chấn động bởi tiếng nổ lớn truyền tới từ miền trung Đảo Ma Giao, rất lâu không có một ai lên tiếng.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0004",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0004"
+      ],
+      "source": "过了好一会儿，才有一个听上去懒洋洋的声音传来：",
+      "source_hash": "18ddada9bbb2759f46a0fcf8652e79c633ae776b51c7d097c6a1b0ca5125de4e",
+      "target": "Phải mất một lúc lâu sau, mới có một giọng nói nghe có vẻ lười biếng truyền tới:",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0005",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0005"
+      ],
+      "source": "“蓝方指挥官已经被我‘斩首’，整个指挥中心都炸上了天，眼下正是群龙无首的大好机会！”",
+      "source_hash": "ce966e134e46866fe7e9e2616925e882f953fdd02f466c7fe83cbaa2504d2121",
+      "target": "“Chỉ huy phe Xanh đã bị tôi ‘chém đầu’, toàn bộ trung tâm chỉ huy đã bị nổ tung lên trời, lúc này chính là cơ hội tốt khi bọn họ như rắn mất đầu!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0006",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0006"
+      ],
+      "source": "“你们接下来要做的事情很简单，不用组织，不用列队，不用配合，就扯开嗓门，像杀猪一样怪叫‘高野已死，红军必胜’八个字，然后发疯似的挥舞大剑一路杀过去就好，明白没有？”",
+      "source_hash": "d89ac6dcfeecf528f7a15e30cd148edab9b713698be05847b02d85652ca09b21",
+      "target": "“Việc các cậu cần làm tiếp theo rất đơn giản, không cần tổ chức, không cần xếp hàng, không cần phối hợp, cứ ngoác mồm ra hét lớn tám chữ ‘Cao Dã đã chết, Hồng quân tất thắng’ như chọc tiết lợn, rồi điên cuồng vung đại kiếm chém giết suốt chặng đường là được, hiểu chưa?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0007",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0007"
+      ],
+      "source": "“你是谁，我们凭什么相信你的话！”沉默了一会儿，有人不服气地说。",
+      "source_hash": "9f0fd018ae839beee1a35102f62fd3338ec798cc3a211980cdd29ff6042bd1dc",
+      "target": "“Cậu là ai, dựa vào đâu mà chúng tôi phải tin lời cậu!” Im lặng một lát, có người không phục lên tiếng.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0008",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0008"
+      ],
+      "source": "“信不信由你，反正我要去割草了，大家随意啊，最好都待在原地别动，让我一个人把所有积分统统拿下，哈哈哈哈，高野已死，红军必胜，杀杀杀杀杀杀杀！”",
+      "source_hash": "19ee4041991a9aa846d11a912d90355949bef282c601048e1c64a2951633a2a1",
+      "target": "“Tin hay không tùy các cậu, dù sao tôi cũng chuẩn bị đi gặt lúa đây, mọi người cứ tự nhiên nhé, tốt nhất là cứ đứng im tại chỗ đừng nhúc nhích, để một mình tôi thâu tóm toàn bộ điểm tích lũy, ha ha ha ha, Cao Dã đã chết, Hồng quân tất thắng, giết giết giết giết giết giết giết!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0009",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0009"
+      ],
+      "source": "通讯频道中传来了杀猪般的嚎叫，从嚣张无比的笑声中，众人都能想象出某个家伙正扛着链锯巨剑，发了疯一样乱砍乱杀，尽情收割着“人头”。",
+      "source_hash": "01381ce33ba48accf20600d833f40f63247a23ea7f4771efcd687fa802d93c52",
+      "target": "Trong kênh truyền thông vang lên tiếng gào rú như chọc tiết lợn, từ tràng cười ngạo nghễ tột cùng kia, mọi người đều có thể hình dung ra cảnh một tên nào đó đang vác thanh đại kiếm cưa xích, điên cuồng chém giết loạn xạ, thỏa thích thu hoạch “đầu người”.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0010",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0010"
+      ],
+      "source": "“看，对面的蓝方小队是有点儿异常，已经很久没有动作，好像都傻了！”",
+      "source_hash": "5318404ef7109c9ce0f71d0f8ea000245b34d4ca5e74e85071f9bcf3afbbaed3",
+      "target": "“Xem kìa, tiểu đội phe Xanh đối diện có chút bất thường, đã rất lâu không có động tĩnh gì, hình như đều ngu người ra rồi!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0011",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0011"
+      ],
+      "source": "魔蛟岛一角，两名红方选手交头接耳。",
+      "source_hash": "4c5492ea3ccf1aa67056e7315d0ec9dd751cb12a8a535d16d3dc0d6ac5d8a036",
+      "target": "Tại một góc trên Đảo Ma Giao, hai thí sinh phe Đỏ đang ghé tai nói nhỏ với nhau.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0012",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0012"
+      ],
+      "source": "“妈的，再这样被压着打下去，也是死路一条，拼了！高野已死，红军必胜！”",
+      "source_hash": "cb2da392d314fa9c44e15beb63c4ec967256e7affac317bf671371a7c9556f15",
+      "target": "“Mẹ kiếp, cứ tiếp tục bị đè ra đánh thế này cũng chỉ có đường chết, liều mạng thôi! Cao Dã đã chết, Hồng quân tất thắng!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0013",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0013"
+      ],
+      "source": "两名红方选手把心一横，扛着巨剑冲了出去，如饿虎扑羊，旋风撞进蓝方的战斗单元之中！",
+      "source_hash": "19ff1a5507c904548348250257e1e962390b5421ea21fe01a15c33cda23b7c1b",
+      "target": "Hai thí sinh phe Đỏ hạ quyết tâm, vác đại kiếm lao ra ngoài, như hổ đói vồ mồi, tựa như một cơn lốc đâm sầm vào đơn vị chiến đấu của phe Xanh!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0014",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0014"
+      ],
+      "source": "“高野已死，红军必胜！”",
+      "source_hash": "bddc426d0ca389fd55594de056645ad437ed7fcce8ccff1035e894b3a16d3b6c",
+      "target": "“Cao Dã đã chết, Hồng quân tất thắng!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0015",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0015"
+      ],
+      "source": "“高野已死，红军必胜！”",
+      "source_hash": "bddc426d0ca389fd55594de056645ad437ed7fcce8ccff1035e894b3a16d3b6c",
+      "target": "“Cao Dã đã chết, Hồng quân tất thắng!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0016",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0016"
+      ],
+      "source": "“高野已死，红军必胜！”",
+      "source_hash": "bddc426d0ca389fd55594de056645ad437ed7fcce8ccff1035e894b3a16d3b6c",
+      "target": "“Cao Dã đã chết, Hồng quân tất thắng!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0017",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0017"
+      ],
+      "source": "狂暴的战吼声在魔蛟岛四面八方同时响起。",
+      "source_hash": "2d96ac8a75a7cb4ba2806828ab1f6b4a3ce50e48b6f86720fe1103a0d598648d",
+      "target": "Tiếng gầm thét chiến đấu cuồng bạo đồng loạt vang lên từ khắp bốn phương tám hướng trên Đảo Ma Giao.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0018",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0018"
+      ],
+      "source": "蓝方选手刚刚从通讯频道中得知整个指挥中心都被敌人一锅端的消息，正被这个惊人的噩耗震得失魂落魄，冷不防一群凶神恶煞的红方选手发疯一般冲过来，耳边尽是九幽恶鬼一般的嚎叫，哪里还生得出半点战意！",
+      "source_hash": "f5518aefd229ad07aafd09703ce6f497e66fe55ba69f9c70b97985da3d21e254",
+      "target": "Các thí sinh phe Xanh vừa mới biết tin toàn bộ trung tâm chỉ huy bị kẻ địch bứng tận gốc qua kênh truyền thông, đang bị hung tin kinh hoàng này làm cho mất hồn mất vía, thì bất thình lình một lũ thí sinh phe Đỏ hung thần ác sát điên cuồng lao tới, bên tai tràn ngập tiếng gào thét như ác quỷ dưới chín tầng địa ngục, làm sao còn có thể sinh ra nửa phần ý chí chiến đấu!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0019",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0019"
+      ],
+      "source": "胜利的天平原本完全倾斜到了蓝方一边，没想到李耀竟然上去一脚把整个天平踢烂，残余的蓝方和红方选手都陷入了最难看，最纠结，最死缠烂打的混战。",
+      "source_hash": "f8ca8fad4aaf0a117c7f4bad285f75423146e0b5e237361b0460a1d00cacef31",
+      "target": "Cán cân thắng lợi vốn dĩ nghiêng hẳn về phía phe Xanh, không ngờ Lý Diệu lại trực tiếp lao lên đá nát cả cán cân, các thí sinh còn lại của hai phe Xanh và Đỏ đều rơi vào một trận hỗn chiến khó coi, giằng co và dây dưa dữ dội nhất.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0020",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0020"
+      ],
+      "source": "而红方凭借高昂的士气和神奇逆转的兴奋，竟然还隐隐占据了上风！",
+      "source_hash": "6b1c3d2b7d8409a439aecaf3b205edb7866d8430f9cb00a92df6213b77f02697",
+      "target": "Mà phe Đỏ nhờ vào sĩ khí dâng cao cùng sự hưng phấn từ màn lội ngược dòng thần kỳ, thế mà còn mơ hồ chiếm lấy thế thượng phong!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0021",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0021"
+      ],
+      "source": "辽远号，监控中心内外鸦雀无声，所有人都目瞪口呆，被李耀刚才一个小时的精彩表演完全震撼。",
+      "source_hash": "e5ddcff0945d9c0aeffcc4eed049867220ebb9d5f821bb9f53c0a3f05a2958c7",
+      "target": "Trên Liêu Viễn Hào, bên trong lẫn bên ngoài trung tâm giám sát đều im phăng phắc, tất cả mọi người đều trợn mắt há mồm, hoàn toàn bị chấn động bởi màn trình diễn xuất sắc suốt một tiếng đồng hồ vừa rồi của Lý Diệu.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0022",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0022"
+      ],
+      "source": "从最开始连续伏击了四支蓝方巡逻小队，到故意出现在蓝方新的巡逻小队面前，再到一路跟随赫连烈等人，神不知鬼不觉地潜入蓝方指挥中心，并且在指挥中心上方的枝桠间埋伏了整整半个钟头，最后用连续两次袭击转移了蓝方所有人的注意力，成功将装有爆炸物的背包放到蓝方指挥官身边，在安全脱离之后，将蓝方整个指挥中心炸上了天。",
+      "source_hash": "7a470a5bbf4d98fa29f0182b75281a61dbdd92a4c06beb6cf574c97eff1a0ecb",
+      "target": "Từ việc liên tục phục kích bốn tiểu đội tuần tra phe Xanh lúc đầu, đến việc cố ý xuất hiện trước mặt tiểu đội tuần tra mới của phe Xanh, rồi bám đuôi bọn người Hách Liên Liệt, thần không biết quỷ không hay lẻn vào trung tâm chỉ huy phe Xanh, ẩn nấp suốt nửa giờ đồng hồ trên những cành cây ngay phía trên trung tâm chỉ huy, cuối cùng dùng hai đợt tập kích liên tiếp để thu hút sự chú ý của tất cả mọi người phe Xanh, thành công đặt chiếc ba lô chứa chất nổ cạnh chỉ huy phe Xanh, sau khi rút lui an toàn liền kích nổ thổi bay toàn bộ trung tâm chỉ huy phe Xanh lên trời.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0023",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0023"
+      ],
+      "source": "这绝对是一次精彩绝伦，行云流水，如教科书一般经典的“斩首行动”！",
+      "source_hash": "430cf45e81d37cf09f452a9abefef9fe2f03133e8ac8c8c94fdf59fa49499c12",
+      "target": "Đây tuyệt đối là một “chiến dịch chém đầu” kinh điển như sách giáo khoa, vô cùng ngoạn mục và trôi chảy!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0024",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0024"
+      ],
+      "source": "而从策划到实施，竟然是由李耀一手包办！",
+      "source_hash": "1cd3bbd235733526e4f7bb3c113ade03ae79c40f7f6ef65526e0c55643b3a089",
+      "target": "Mà từ khâu lên kế hoạch cho đến khi thực thi, thế mà lại do một mình Lý Diệu bao trọn!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0025",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0025"
+      ],
+      "source": "“唰唰唰唰！”",
+      "source_hash": "4ac4e0269e6c912074f1930b4bdd56b8e6557c16d5efa426d879250954e5d7ce",
+      "target": "“Vút vút vút vút!”",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0026",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0026"
+      ],
+      "source": "在排行榜上，几十个名字骤然消失，而李耀的名字正在疯狂提升，一路狂飙！",
+      "source_hash": "a0ee5dc1fe76149c81e5c3d96f8ed67a163c9dd2c4c2909d91e326b2461e9a5f",
+      "target": "Trên bảng xếp hạng, hàng chục cái tên đột ngột biến mất, còn tên của Lý Diệu thì đang điên cuồng thăng hạng, tăng vọt không phanh!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0027",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0027"
+      ],
+      "source": "因为一下子“炸死”了几十名蓝方指挥官和最强者，天文数字般的积分都涌到了李耀头上，他势如破竹地直接杀到了排行榜第一名，而积分总数居然是第二名的十倍以上！",
+      "source_hash": "a2f74e37169459ba625d571b1e94fc84c51e7f12a56a66c200b05b0ee372954a",
+      "target": "Bởi vì một hơi “cho nổ chết” hàng chục chỉ huy và những người mạnh nhất của phe Xanh, số điểm tích lũy khổng lồ như thiên văn lập tức đổ dồn lên đầu Lý Diệu. Cậu thế như chẻ tre trực tiếp giết thẳng lên vị trí số một trên bảng xếp hạng, mà tổng số điểm thế mà lại gấp hơn mười lần so với người đứng thứ hai!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0028",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0028"
+      ],
+      "source": "在极限挑战赛的历史上，这是空前绝后的高分！",
+      "source_hash": "ad243642b1d538c7b405d4c44883a56fd4b78e6ec7eefdf6e3fb25475653ebff",
+      "target": "Trong lịch sử giải đấu thử thách cực hạn, đây là một số điểm cao vô tiền khoáng hậu!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0029",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0029"
+      ],
+      "source": "“厉害，太厉害了！不说别的，就说他为了增加炸弹的威力，在背包中装满了石子、金属法宝构件、锋利的妖兽骸骨，一下子将威力提升了十倍！这绝对是军中老手的做法！这么好的苗子，我们联邦第一军事学院要定了，谁也别和我们抢！”",
+      "source_hash": "394ec0da01ef48344c54816e19da6780510acabdef3d50fb7f5673e3188e4511",
+      "target": "“Lợi hại, quá lợi hại! Không nói cái khác, chỉ riêng việc hắn để tăng uy lực của bom đã nhét đầy đá sỏi, mảnh linh kiện pháp bảo bằng kim loại, cùng xương cốt sắc nhọn của yêu thú vào trong ba lô, lập tức khiến uy lực tăng vọt lên gấp mười lần! Đây tuyệt đối là phong cách của cựu binh dày dặn kinh nghiệm trong quân đội! Hạt giống tốt như thế này, Học viện Quân sự Số 1 Liên bang chúng tôi giành chắc rồi, ai cũng đừng hòng tranh với chúng tôi!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0030",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0030"
+      ],
+      "source": "监控中心里，在短短数秒钟的沉默之后，一声粗豪的吼叫打破了沉寂，随后众观察员都七嘴八舌地叫嚷起来。",
+      "source_hash": "7cb7ca4bcabd5af8fbd47566d5403fb0bb5134e9840905a947a9f5fbc2d953e4",
+      "target": "Trong trung tâm giám sát, sau vài giây im lặng ngắn ngủi, một tiếng gầm thét thô ráp hào sảng đã phá vỡ sự tĩnh lặng, tiếp đó các quan sát viên đua nhau ồn ào gào thét.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0031",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0031"
+      ],
+      "source": "“凭什么？这样的人才，应该属于我们星云大学！”",
+      "source_hash": "c7a3e3da49386b6f3912a15376406215d13f2d5deaa65922865d7a3550f33750",
+      "target": "“Dựa vào cái gì? Nhân tài như thế này phải thuộc về Đại học Tinh Vân chúng tôi!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0032",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0032"
+      ],
+      "source": "“我们天都医学院，也需要这样的好苗子，我已经准备直接特招了，你们看着办吧！”",
+      "source_hash": "2eadff8bc33b1a30f6dcf933342ee0f79714d7e899fce18bee709e25cc911b97",
+      "target": "“Học viện Y khoa Thiên Đô chúng tôi cũng cần một hạt giống tốt như thế này, tôi đã chuẩn bị đặc cách tuyển thẳng rồi, các vị tự xem mà làm đi!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0033",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0033"
+      ],
+      "source": "“哼，特招有什么了不起，我们星云大学，还可以提供他高额奖学金！”",
+      "source_hash": "98a76800a2c2cf8ea54e1d2bc1412e3fb536c26ce4843e5cfd1e2ca065e998ab",
+      "target": "“Hừ, đặc cách tuyển thẳng thì có gì ghê gớm, Đại học Tinh Vân chúng tôi còn có thể cấp cho cậu ta học bổng cao ngất ngưởng!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0034",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0034"
+      ],
+      "source": "众多修真者都争得面红耳赤，场面火爆到了极点。",
+      "source_hash": "11282fbcc8d48dd191312b2af1c3d8f3c311e81ad9096aa8c38f73dffc8d7223",
+      "target": "Đông đảo tu chân giả tranh cãi đỏ mặt tía tai, bầu không khí sôi sục đến cực điểm.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0035",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0035"
+      ],
+      "source": "只有角落里的谢听弦笑而不语，一副稳坐钓鱼台，胜券在握的淡定从容。",
+      "source_hash": "8a4a0585c7a3fa8dce5098986bd2a6e68b2311af47c516a5dc9bd4a62bf714c6",
+      "target": "Chỉ có Tạ Thính Huyền ở trong góc là cười mà không nói, vẻ mặt thong dong tự tại như người câu cá trên đài, nắm chắc phần thắng trong tay.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0036",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0036"
+      ],
+      "source": "而坐在他不远处的丁铃铛则死死咬着嘴唇，焦躁不安地走来走去，仿佛是一头便秘的母龙，随时都有可能喷火。",
+      "source_hash": "721600c6b2846d68a75be34f08bd20b1961e3b69c0dc86fc5aa9ecd4d22fee92",
+      "target": "Còn Đinh Linh Đang ngồi cách đó không xa thì cắn chặt môi, nôn nóng bất an đi tới đi lui, trông cứ như một con rồng cái bị táo bón, bất cứ lúc nào cũng có thể phun ra lửa.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0037",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0037"
+      ],
+      "source": "“这小子，表现那么出色干什么？完了完了，这么多名校都要特招，这小子肯定不会选择咱们大荒战院！难道要我一拳把他打晕，直接扛回大荒？”",
+      "source_hash": "5036c9d405d3c5e97a2002830c65d424d68f7e4a8c36bfb340c206205a1c8e12",
+      "target": "“Thằng nhóc này, thể hiện xuất sắc như vậy làm cái gì chứ? Tiêu rồi tiêu rồi, nhiều trường danh tiếng muốn tuyển thẳng như vậy, thằng nhóc này chắc chắn sẽ không chọn Đại Hoang Chiến Viện của mình! Chẳng lẽ bắt mình phải đấm cho cậu ta một cú ngất xỉu rồi vác thẳng về Đại Hoang sao?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0038",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0038"
+      ],
+      "source": "丁铃铛皱着眉头，认真思索一秒钟，随后摇头，否定了这个计划，“不行，我拳头这么重，一拳打死他怎么办？”",
+      "source_hash": "26099a7c73e18e93278ad605db42f7ead8507577d94328afc46e15c94cf340c8",
+      "target": "Đinh Linh Đang nhíu mày, nghiêm túc suy nghĩ một giây, sau đó lắc đầu phủ định kế hoạch này: “Không được, nắm đấm của mình mạnh như vậy, lỡ một đấm đánh chết cậu ta thì sao?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0039",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0039"
+      ],
+      "source": "在监控中心外的大厅，李耀的华丽表演更是掀起了一阵惊涛骇浪。",
+      "source_hash": "93e893fe8a2ea97d9d30ea589c0f32ac50566013ce82b4253c0fef655426827e",
+      "target": "Tại đại sảnh bên ngoài trung tâm giám sát, màn trình diễn hoa lệ của Lý Diệu lại càng khơi dậy một đợt sóng gió kinh hoàng.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0040",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0040"
+      ],
+      "source": "几乎所有少年都震撼到了极点，不少人用力揉搓着双眼，不敢相信看到的一切，有些人还发出怪叫：",
+      "source_hash": "1df11df952692ecb2af3ed7d057f4df13047d5838f2870a5f19a5253dfb33c94",
+      "target": "Hầu như tất cả thiếu niên đều chấn động đến tột cùng, không ít người ra sức dụi mắt, không dám tin vào những gì mình vừa nhìn thấy, vài người còn kêu quái dị:",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0041",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0041"
+      ],
+      "source": "“妈呀，一个人摆平了蓝方整个指挥中心，这也太离谱了吧？”",
+      "source_hash": "058d4ab6919806976444e78ca821f0c7a079311dbdfe66aa0716435821d80448",
+      "target": "“Mẹ ơi, một mình cân cả trung tâm chỉ huy phe Xanh, thế này cũng quá phi lý rồi chứ?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0042",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0042"
+      ],
+      "source": "“妖孽，不折不扣的妖孽，实在太可怕了！”",
+      "source_hash": "75b2fc813c391240245c3cd090b21490f17c542781bcb00a22a1957f6e2b88d4",
+      "target": "“Yêu nghiệt, đúng là một tên yêu nghiệt không hơn không kém, quá đáng sợ!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0043",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0043"
+      ],
+      "source": "“这头怪物打哪儿来的？浮戈城？以前没听说过浮戈城有这样的高手啊，就听说有一个赫连烈，还有一个郑东明，没想到赫连烈连他一个回合都招架不住，直接完蛋了！”",
+      "source_hash": "c22d42cdf2d3db8744a994c265f7313bf583b1bde67f0e67d9242b9bd36a3369",
+      "target": "“Con quái vật này từ đâu chui ra thế? Phù Qua Thành? Trước đây chưa từng nghe nói Phù Qua Thành có cao thủ thế này nha, chỉ nghe đồn có mỗi Hách Liên Liệt và một tên Trịnh Đông Minh, không ngờ Hách Liên Liệt đến một hiệp cũng không chống đỡ nổi, trực tiếp toi mạng luôn!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0044",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0044"
+      ],
+      "source": "“这么可怕的家伙，肯定是来自某个修真世家，和我们这些普普通通的富豪子弟，那不是一个世界的人，没得比啦！”",
+      "source_hash": "fab0837762e76742e132458896db92bc4d289612cc928005eae38ee5dbdc9e2f",
+      "target": "“Kẻ đáng sợ như thế này chắc chắn là xuất thân từ thế gia tu chân nào đó rồi, so với lũ con nhà giàu bình thường như chúng ta thì đúng là người của hai thế giới khác nhau, không có cửa so sánh đâu!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0045",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0045"
+      ],
+      "source": "正当选手们议论纷纷之时，刚才被李耀“炸死”，退出比赛的蓝方指挥中心成员也都回到了辽远号上，满脸纠结地走进观众席。",
+      "source_hash": "2de0bf91b4cbec884b1aef1c49317ee2ae3c98c3e8bfcf7e53f63452a0977633",
+      "target": "Ngay khi các thí sinh đang bàn tán xôn xao, các thành viên trung tâm chỉ huy phe Xanh vừa bị Lý Diệu “cho nổ chết” phải rời trận đấu cũng đã quay trở lại Liêu Viễn Hào, vẻ mặt đầy phức tạp bước vào hàng ghế khán giả.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0046",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0046"
+      ],
+      "source": "他们顿时被两千多名选手围了个水泄不通。",
+      "source_hash": "75556d1f53d49b49e9386c9445f8b0e9fdeb2590af17e99b4035abea5360d174",
+      "target": "Bọn họ lập tiếp bị hơn hai ngàn thí sinh vây kín đến mức nước chảy không lọt.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0047",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0047"
+      ],
+      "source": "特别是其中的高野和赫连烈两人，一下子变成万众瞩目的焦点。",
+      "source_hash": "73943125ae32ca0acf3a9884942091b13b0bf04bb11e7926e260e3af831a53e7",
+      "target": "Đặc biệt là hai người Cao Dã và Hách Liên Liệt, ngay lập tức trở thành tiêu điểm chú ý của vạn người.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0048",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0048"
+      ],
+      "source": "“高野，你一向是我们东宁市的骄傲，是众所周知的指挥天才，没想到竟然居然被敌人玩了‘斩首’，怎么样，有什么感受？”在人群中，有人怪腔怪调地问。",
+      "source_hash": "df512ed065cd48c9132f0672d1a0051051cedee050a694b58b47cf09bc4e0f1b",
+      "target": "“Cao Dã, cậu vốn luôn là niềm kiêu hãnh của thành phố Đông Ninh chúng ta, là thiên tài chỉ huy ai ai cũng biết, không ngờ thế mà lại bị đối thủ chơi trò ‘chém đầu’. Sao rồi, cảm giác thế nào?” Trong đám đông, có người hỏi bằng giọng điệu quái gở.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0049",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0049"
+      ],
+      "source": "高野淡淡一笑，片刻之前的失败没有在他脸上留下半点痕迹，他心平气和地说：",
+      "source_hash": "37279abda631e424463a258901825e150b5184f22dfadca917d14a7c5a023868",
+      "target": "Cao Dã cười nhạt một tiếng, thất bại vừa rồi không hề để lại chút dấu vết nào trên mặt cậu, cậu bình tâm tĩnh khí nói:",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0050",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0050"
+      ],
+      "source": "“我非常高兴，真的，能够遇上这么厉害的对手，让我知道自己的指挥艺术还太过稚嫩，还有很大的进步空间，下次如果再遇上，我一定不会重蹈覆辙，绝对会第一时间猎杀这个李耀！”",
+      "source_hash": "aa250409b63ccd53684df636103cda39cd82b7a22c482ea67ce7ae329ada6ae3",
+      "target": "“Tôi vô cùng vui mừng, thực sự đấy. Việc gặp được một đối thủ mạnh mẽ như vậy giúp tôi nhận ra nghệ thuật chỉ huy của mình vẫn còn quá non nớt, vẫn còn không gian tiến bộ rất lớn. Lần sau nếu gặp lại, tôi nhất định sẽ không dẫm vào vết xe đổ, chắc chắn sẽ săn lùng Lý Diệu ngay từ giây phút đầu tiên!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0051",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0051"
+      ],
+      "source": "顿了一顿，环视一周，高野的目光最终聚焦到了巨大光幕中的李耀身上，他注视了很久，十分认真地说：",
+      "source_hash": "b046437dec31b6bd4d81045163106004f6e3f9bdd7fd013a90dcb8a7e25d1385",
+      "target": "Ngừng một lát, đưa mắt nhìn quanh một vòng, ánh mắt của Cao Dã cuối cùng dừng lại trên người Lý Diệu trong màn hình ánh sáng khổng lồ. Cậu chăm chú nhìn rất lâu rồi vô cùng nghiêm túc nói:",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0063:align_0052",
+      "chapter_id": "chapter_0063",
+      "segment_ids": [
+        "chapter_0063:seg_0052"
+      ],
+      "source": "“不过，我更希望能够在对抗妖兽的战场上和李耀同学并肩作战，我甚至能以他为核心，打造出几十套不同的战术，我相信，只要我们两个联手，以我的指挥能力再加上他的单兵作战能力，别说高阶妖兽，就算是妖族中的王者，那些强大的妖将、妖王甚至妖神，都逃不出我们的手掌心！”",
+      "source_hash": "1e281e4c81f160fd900dca5da1d715856881c2d0993e35a415807c989e47b89d",
+      "target": "“Tuy nhiên, tôi càng hy vọng có thể kề vai sát cánh chiến đấu cùng bạn học Lý Diệu trên chiến trường chống lại yêu thú. Tôi thậm chí có thể lấy cậu ấy làm hạt nhân để xây dựng ra hàng chục bộ chiến thuật khác nhau. Tôi tin rằng chỉ cần hai chúng tôi bắt tay hợp tác, dùng năng lực chỉ huy của tôi cộng thêm khả năng tác chiến đơn độc của cậu ấy, đừng nói là yêu thú cấp cao, ngay cả những vương giả trong Yêu tộc như Yêu tướng, Yêu vương hay thậm chí Yêu thần mạnh mẽ cũng đều không thoát khỏi lòng bàn tay của chúng tôi!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    }
+  ],
+  "term_occurrences": [
+    {
+      "chapter_id": "chapter_0063",
+      "source_term": "浮戈城",
+      "target_term": "Phù Qua Thành",
+      "segment_id": "chapter_0063:seg_0043",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0063",
+      "source_term": "大荒战院",
+      "target_term": "Đại Hoang Chiến Viện",
+      "segment_id": "chapter_0063:seg_0037",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0063",
+      "source_term": "妖族",
+      "target_term": "Yêu tộc",
+      "segment_id": "chapter_0063:seg_0052",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0063",
+      "source_term": "郑东明",
+      "target_term": "Trịnh Đông Minh",
+      "segment_id": "chapter_0063:seg_0043",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0063",
+      "source_term": "辽远号",
+      "target_term": "Liêu Viễn Hào",
+      "segment_id": "chapter_0063:seg_0021",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0063",
+      "source_term": "星云大学",
+      "target_term": "Đại học Tinh Vân",
+      "segment_id": "chapter_0063:seg_0031",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0063",
+      "source_term": "联邦第一军事学院",
+      "target_term": "Học viện Quân sự Số 1 Liên bang",
+      "segment_id": "chapter_0063:seg_0029",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0063",
+      "source_term": "天都医学院",
+      "target_term": "Học viện Y khoa Thiên Đô",
+      "segment_id": "chapter_0063:seg_0032",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0063",
+      "source_term": "谢听弦",
+      "target_term": "Tạ Thính Huyền",
+      "segment_id": "chapter_0063:seg_0035",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0063",
+      "source_term": "丁铃铛",
+      "target_term": "Đinh Linh Đang",
+      "segment_id": "chapter_0063:seg_0036",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0063",
+      "source_term": "魔蛟岛",
+      "target_term": "Đảo Ma Giao",
+      "segment_id": "chapter_0063:seg_0003",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "location",
+      "confidence": 1.0
+    }
+  ],
+  "entity_mentions": [
+    {
+      "chapter_id": "chapter_0063",
+      "source_surface": "李耀",
+      "target_surface": "Lý Diệu",
+      "entity_type": "person",
+      "segment_id": "chapter_0063:seg_0019",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0063",
+      "source_surface": "赫连烈",
+      "target_surface": "Hách Liên Liệt",
+      "entity_type": "person",
+      "segment_id": "chapter_0063:seg_0022",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0063",
+      "source_surface": "郑东明",
+      "target_surface": "Trịnh Đông Minh",
+      "entity_type": "person",
+      "segment_id": "chapter_0063:seg_0043",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0063",
+      "source_surface": "谢听弦",
+      "target_surface": "Tạ Thính Huyền",
+      "entity_type": "person",
+      "segment_id": "chapter_0063:seg_0035",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0063",
+      "source_surface": "丁铃铛",
+      "target_surface": "Đinh Linh Đang",
+      "entity_type": "person",
+      "segment_id": "chapter_0063:seg_0036",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0063",
+      "source_surface": "高野",
+      "target_surface": "Cao Dã",
+      "entity_type": "person",
+      "segment_id": "chapter_0063:seg_0006",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0063",
+      "source_surface": "星云大学",
+      "target_surface": "Đại học Tinh Vân",
+      "entity_type": "factions",
+      "segment_id": "chapter_0063:seg_0031",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0063",
+      "source_surface": "联邦第一军事学院",
+      "target_surface": "Học viện Quân sự Số 1 Liên bang",
+      "entity_type": "factions",
+      "segment_id": "chapter_0063:seg_0029",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0063",
+      "source_surface": "天都医学院",
+      "target_surface": "Học viện Y khoa Thiên Đô",
+      "entity_type": "factions",
+      "segment_id": "chapter_0063:seg_0032",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0063",
+      "source_surface": "大荒战院",
+      "target_surface": "Đại Hoang Chiến Viện",
+      "entity_type": "factions",
+      "segment_id": "chapter_0063:seg_0037",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0063",
+      "source_surface": "浮戈城",
+      "target_surface": "Phù Qua Thành",
+      "entity_type": "locations",
+      "segment_id": "chapter_0063:seg_0043",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0063",
+      "source_surface": "魔蛟岛",
+      "target_surface": "Đảo Ma Giao",
+      "entity_type": "locations",
+      "segment_id": "chapter_0063:seg_0003",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0063",
+      "source_surface": "辽远号",
+      "target_surface": "Liêu Viễn Hào",
+      "entity_type": "items",
+      "segment_id": "chapter_0063:seg_0021",
+      "confidence": 1.0
+    }
+  ],
+  "name_analysis": {
+    "status": "ok",
+    "evidence_count": 6,
+    "name_mentions": [
+      {
+        "chapter_id": "chapter_0063",
+        "name_source": "李耀",
+        "name_target": "Lý Diệu",
+        "segment_id": "chapter_0063:seg_0019",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0063",
+        "name_source": "赫连烈",
+        "name_target": "Hách Liên Liệt",
+        "segment_id": "chapter_0063:seg_0022",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0063",
+        "name_source": "郑东明",
+        "name_target": "Trịnh Đông Minh",
+        "segment_id": "chapter_0063:seg_0043",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0063",
+        "name_source": "谢听弦",
+        "name_target": "Tạ Thính Huyền",
+        "segment_id": "chapter_0063:seg_0035",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0063",
+        "name_source": "丁铃铛",
+        "name_target": "Đinh Linh Đang",
+        "segment_id": "chapter_0063:seg_0036",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0063",
+        "name_source": "高野",
+        "name_target": "Cao Dã",
+        "segment_id": "chapter_0063:seg_0006",
+        "present_in_target": true,
+        "confidence": 1.0
+      }
+    ],
+    "name_entries": [
+      {
+        "name_source": "李耀",
+        "name_target": "Lý Diệu"
+      },
+      {
+        "name_source": "赫连烈",
+        "name_target": "Hách Liên Liệt"
+      },
+      {
+        "name_source": "郑东明",
+        "name_target": "Trịnh Đông Minh"
+      },
+      {
+        "name_source": "谢听弦",
+        "name_target": "Tạ Thính Huyền"
+      },
+      {
+        "name_source": "丁铃铛",
+        "name_target": "Đinh Linh Đang"
+      },
+      {
+        "name_source": "高野",
+        "name_target": "Cao Dã"
+      }
+    ],
+    "transliteration_units": [],
+    "inferred_name_rules": [],
+    "ambiguity_cases": [],
+    "reusable_name_profile": {
+      "mapping_count": 6,
+      "has_ambiguity": false
+    }
+  },
+  "phrase_patterns": [],
+  "grammar_rule_candidates": [],
+  "analyzer_reports": {
+    "term_occurrences": {
+      "status": "ok",
+      "evidence_count": 11
+    },
+    "entity_mentions": {
+      "status": "ok",
+      "evidence_count": 13
+    },
+    "name_mentions": {
+      "status": "ok",
+      "evidence_count": 6
+    },
+    "phrase_patterns": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    },
+    "grammar_rule_candidates": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    }
+  },
+  "review_queue": [
+    {
+      "chapter_id": "chapter_0063",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "通讯频",
+        "entity_type": "person",
+        "count": 3,
+        "confidence": 0.82,
+        "evidence": [
+          "去！\n\n  \n\n红方通讯频道里，上百名选手还是",
+          "杀杀杀杀杀杀！”\n\n通讯频道中传来了杀猪般的嚎",
+          "。\n\n蓝方选手刚刚从通讯频道中得知整个指挥中心"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0063",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "云大学",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.82,
+        "evidence": [
+          "人才，应该属于我们星云大学！”\n\n“我们天都医",
+          "有什么了不起，我们星云大学，还可以提供他高额奖"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0063",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "相信",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "用力揉搓着双眼，不敢相信看到的一切，有些人还",
+          "几十套不同的战术，我相信，只要我们两个联手，"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0063",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "苗子",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "老手的做法！这么好的苗子，我们联邦第一军事学",
+          "学院，也需要这样的好苗子，我已经准备直接特招"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0063",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "不用组织",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "来要做的事情很简单，不用组织，不用列队，不用配合"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0063",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "就扯开嗓门",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "不用列队，不用配合，就扯开嗓门，像杀猪一样怪叫‘高"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0063",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "应该属于我们星云大学",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "凭什么？这样的人才，应该属于我们星云大学！”\n\n“我们天都医"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0063",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "我们天都医学院",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "们星云大学！”\n\n“我们天都医学院，也需要这样的好苗子"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0063",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "我们星云大学",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "这样的人才，应该属于我们星云大学！”\n\n“我们天都医"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0063",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "眼下正是群龙无首的大好机会",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "指挥中心都炸上了天，眼下正是群龙无首的大好机会！”\n\n“你们接下来"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0063",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "浮戈城",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "这头怪物打哪儿来的？浮戈城？以前没听说过浮戈城"
+        ]
+      }
+    }
+  ],
+  "quality_audit": {
+    "segment_coverage": 1.0,
+    "source_hash_match": true,
+    "target_reconstruction_match": true,
+    "invalid_ref_count": 0,
+    "locked_term_hit_rate": 1.0,
+    "missing_locked_terms": [],
+    "cjk_residue_count": 0,
+    "paragraph_drift_ratio": 0.0,
+    "pronoun_consistency_score": 1.0,
+    "warnings": []
+  }
+}

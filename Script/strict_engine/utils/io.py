@@ -216,7 +216,9 @@ def get_output_chapter_path(branch_name: str, chapter: int, title: str = "") -> 
     Output format: 'Chương 0001 - Title.md'"""
     branch_dir = resolve_branch_dir(branch_name)
     if title:
-        filename = f"Chương {chapter:04d} - {title}.md"
+        # Sanitize title to remove invalid Windows filename characters: \ / : * ? " < > |
+        sanitized_title = re.sub(r'[\\/*?:"<>|]', "", title).strip()
+        filename = f"Chương {chapter:04d} - {sanitized_title}.md"
     else:
         filename = f"Chương {chapter:04d}.md"
     return branch_dir / "output" / filename

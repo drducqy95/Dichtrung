@@ -1,0 +1,990 @@
+{
+  "schema_version": "2.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 35,
+  "chapter_id": "chapter_0035",
+  "source_manifest_hash": "2445eac6899b5fc132a3839c0b1217089e6090fb68f98cae30d7d11c5cb6e5aa",
+  "aligned_segments": [
+    {
+      "alignment_id": "chapter_0035:align_0001",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0001"
+      ],
+      "source": "# 35.第35章 激战时刻",
+      "source_hash": "31e4f09c93913c97cb381c29fe2e5735796e50e105ed394db58371c75a0822b5",
+      "target": "# Chương 0035 - Thời Khắc Kịch Chiến",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0002",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0002"
+      ],
+      "source": "4月12日，小雨，微风，距离高考还有61天13小时22分45秒！",
+      "source_hash": "245ed235be5151f7507fd42c63f5520928f6c04eeda50f76cc4438ea54b9ca85",
+      "target": "Ngày 12 tháng 4, mưa bụi, gió nhẹ, cách kỳ thi đại học còn 61 ngày 13 giờ 22 phút 45 giây!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0003",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0003"
+      ],
+      "source": "今天是赤霄二中一年一度的“激战时刻”，高一高二学生全体放假，高三学生将以校园为战场，为争夺十张“少年极限挑战赛”的准考证而血拼到底！",
+      "source_hash": "fd4f4b17dfcfaf8c2e4f5501f36056a98323922b7962c436d8ca0882adc7c84f",
+      "target": "Hôm nay là \"Thời khắc kịch chiến\" thường niên của trường Xích Tiêu Nhị Trung, toàn thể học sinh lớp mười và lớp mười một được nghỉ, học sinh lớp mười hai sẽ lấy khuôn viên trường làm chiến trường, vì tranh giành mười tấm \"thẻ dự thi\" Giải đấu Thử thách Cực hạn Thiếu niên để quyết chiến đến cùng!",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0004",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0004"
+      ],
+      "source": "规则很简单，首先以摇号的方式，在全体高三学生中选出十名“种子选手”，每人携带一张准考证，分散在校园各处，也可以随心所欲地藏匿或者组队，只要不离开校园范围即可。",
+      "source_hash": "6bdec6bb1896bb7b5251c7a61779726c483eca90e116d18d64bdb436ea6b3ae0",
+      "target": "Quy tắc rất đơn giản, đầu tiên sử dụng phương thức bốc thăm ngẫu nhiên để chọn ra mười \"hạt giống\" trong toàn thể học sinh lớp mười hai, mỗi người mang theo một tấm thẻ dự thi, phân tán khắp các nơi trong trường. Họ cũng có thể tùy ý ẩn nấp hoặc lập đội, chỉ cần không rời khỏi phạm vi trường học là được.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0005",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0005"
+      ],
+      "source": "而其他人则可以用任何方式、任何手段、任何校园内找到的工具，攻击这十名“种子选手”，抢夺准考证。",
+      "source_hash": "367deed9364e5750e5215425a60d72bcc8b477af50ac3537b2ce476539884e25",
+      "target": "Còn những người khác có thể sử dụng bất kỳ phương thức, thủ đoạn hoặc công cụ nào tìm thấy trong trường để tấn công mười \"hạt giống\" này nhằm cướp lấy thẻ dự thi.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0006",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0006"
+      ],
+      "source": "所有准考证都被装在特殊的法宝匣中，法宝匣每隔半分钟，都会向全体学生的随身晶脑发出一道灵波，确定十张准考证的方位，所以也不用担心有人藏在阴暗的角落里，很猥琐地躲到结束。",
+      "source_hash": "199d34c767ed77d2c5b36c9193eb50448806b5550b71532373b4591ff8dc0c3f",
+      "target": "Tất cả thẻ dự thi đều được đặt trong các hộp pháp bảo đặc biệt. Hộp pháp bảo cứ sau nửa phút lại phát ra một luồng linh ba đến tinh não tùy thân của toàn thể học sinh để xác định vị trí của mười tấm thẻ dự thi, thế nên cũng không cần lo lắng có người trốn ở góc tối lén lút ẩn nấp cho tới lúc kết thúc.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0007",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0007"
+      ],
+      "source": "激斗从上午十点开始，到下午三点结束，一共五个小时，直到结束时持有准考证的学生，就获得了参加“联邦少年极限挑战赛”的资格！",
+      "source_hash": "6d95e4512b35977c9b6a62956b818014948e60e83d5508c04e94b27589a4a7f2",
+      "target": "Cuộc quyết đấu bắt đầu từ mười giờ sáng đến ba giờ chiều, tổng cộng năm tiếng đồng hồ. Những học sinh nắm giữ thẻ dự thi khi kết thúc sẽ giành được tư cách tham gia \"Giải đấu Thử thách Cực hạn Thiếu niên Liên bang\"!",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0008",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0008"
+      ],
+      "source": "清晨8点45分。",
+      "source_hash": "69d1bbe5f9fe0f1af513d1e14d201c8ada5a794837d56ac10a23462fc4bb94cd",
+      "target": "Sáng sớm 8 giờ 45 phút.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0009",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0009"
+      ],
+      "source": "一头头毛茸茸的小肉团，长着滴溜溜圆的大眼睛，五颜六色，色彩鲜艳，奋力扑腾着肉乎乎的翅膀，发出“噗叽噗叽”的声音，向半空中飞去，散开到校园各处。",
+      "source_hash": "381162194de226ce433adfd8f63988d7aaef58b9fbc676c9099fe4c044ee4745",
+      "target": "Từng cục thịt nhỏ lông xù, mang theo đôi mắt to tròn xoe, đủ loại màu sắc sặc sỡ tươi sáng, đang gắng sức vỗ đôi cánh múp míp, phát ra tiếng kêu \"pút kít pút kít\" bay lên không trung, phân tán ra khắp nơi trong trường.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0010",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0010"
+      ],
+      "source": "这是一种人造灵兽，学名叫做“飞豚眼”，是驭兽宗派的高手利用小香猪、兔子和各种飞禽的血脉融合，经过几十代杂交之后形成的新物种。",
+      "source_hash": "c0ef28c595905a8f5f4bda7517b6b8aca1f19b1080267b98bc049c113e0773e1",
+      "target": "Đây là một loại linh thú nhân tạo, học danh gọi là \"Phi Đồn Nhãn\", là loài mới do các cao thủ của ngự thú tông phái dung hợp huyết mạch của heo sữa, thỏ và các loại chim muông, trải qua mấy mươi thế hệ lai tạo mà thành.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0011",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0011"
+      ],
+      "source": "在“飞豚眼”体内，还安装着特殊的监控晶片，可以将飞豚眼看到的一切传输到附近的晶脑中。",
+      "source_hash": "6b451ea9ca713dcdfe8888115a9fe1d7e5c44b25851869c8ac780040d895e2d4",
+      "target": "Bên trong cơ thể \"Phi Đồn Nhãn\" còn lắp đặt chip giám sát đặc biệt, có thể truyền tải mọi thứ mà Phi Đồn Nhãn nhìn thấy đến tinh não lân cận.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0012",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0012"
+      ],
+      "source": "最初，这种东西只是炼制出来充当空中摄像头。",
+      "source_hash": "b8f345cfa6dfcdf2f8a20e02ebcc2dd1dee3dbff5a77cbf0d7ab8d99160c59d6",
+      "target": "Ban đầu, thứ này chỉ được chế luyện ra để làm camera trên không.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0013",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0013"
+      ],
+      "source": "可是因为其毛茸茸的外形，肉嘟嘟的身体，在飞行中还会发出“噗叽噗叽”的声音，好似贱贱的笑声，很快就风靡千家万户，成为一种非常时髦的宠物，被普通大众称为“噗叽兽”。",
+      "source_hash": "45ddf5c57aa50aa2b8057749303e722f53ca0f84ed27e6e3cac1fe15fd6b621a",
+      "target": "Nhưng bởi vì ngoại hình lông xù, cơ thể múp míp, khi bay còn phát ra tiếng kêu \"pút kít pút kít\" nghe như tiếng cười khúc khích đáng ghét, nó nhanh chóng phổ biến ở khắp các gia đình, trở thành một loại thú cưng vô cùng thời thượng, được đại chúng gọi là \"thú Pút Kít\".",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0014",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0014"
+      ],
+      "source": "一千头噗叽兽将校园的每一个角落都监控到位，上千道监控画面实时传送到了设置在三处贵宾室的巨大光幕中。",
+      "source_hash": "ca85628454e892d0b8fb4de442dde1e1a46950a2541a2cb51b4a5cae24cf49e5",
+      "target": "Một ngàn con thú Pút Kít đã giám sát mọi ngóc ngách trong trường học một cách toàn diện, hàng ngàn hình ảnh giám sát được truyền phát thời gian thực tới các màn hình ánh sáng khổng lồ đặt tại ba phòng khách quý.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0015",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0015"
+      ],
+      "source": "第一处贵宾室，设置在一号体育场之内，非常巨大，是专供家长前来观摩，已经聚集了上千名家长，人声鼎沸，吵吵嚷嚷。",
+      "source_hash": "21a6d25001e7c1bce2fe7d83e12650b955b41ade2e223fc52ced461ef43c97e7",
+      "target": "Phòng khách quý thứ nhất được bố trí ngay trong nhà thi đấu số một, diện tích vô cùng lớn, dành riêng cho các phụ huynh đến xem, hiện tại đã tụ tập hàng ngàn phụ huynh, tiếng người ồn ào náo nhiệt.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0016",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0016"
+      ],
+      "source": "第二处贵宾室，设置在大会议室里，供浮戈城各个兄弟学校的老师和精英学生观战——这种教学交流是非常普遍的，别的高中争夺准考证时，赤霄二中也会派出精英师生前去交流学习。",
+      "source_hash": "8ad8d30bf186268113dcfcd18f72be5373e8baf7849b9f8a3b97fe6f1f2e2a39",
+      "target": "Phòng khách quý thứ hai được đặt ở phòng họp lớn, dành cho giáo viên và học sinh tinh anh của các trường học bạn tại Phù Qua Thành quan sát — loại giao lưu giảng dạy này là vô cùng phổ biến, khi các trường cấp ba khác tranh đoạt thẻ dự thi, trường Xích Tiêu Nhị Trung cũng sẽ cử giáo viên và học sinh tinh anh đi giao lưu học hỏi.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0017",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0017"
+      ],
+      "source": "第三处贵宾室，直接设置在校长室内，在座的都是学校管理层和董事会成员。",
+      "source_hash": "8f76d9c4ceba3b4fb07613ae250d7ff35bd1a51c9c834dd3b2a6642e346577dc",
+      "target": "Phòng khách quý thứ ba được đặt trực tiếp ở trong văn phòng hiệu trưởng, những người có mặt đều là ban giám hiệu trường và các thành viên hội đồng quản trị.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0018",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0018"
+      ],
+      "source": "不过此刻，校长、教导主任、各个年级组长，甚至包括地位超然的各大董事，全都如众星捧月，毕恭毕敬地围绕着一名两鬓飞白，十分儒雅的中年男子。",
+      "source_hash": "271f59f0fd8001c42db6baaab1fa03b9e639e5bf2aae5e58a73b582c37133a72",
+      "target": "Thế nhưng lúc này, hiệu trưởng, chủ nhiệm giáo dục, tổ trưởng các khối lớp, thậm chí cả các cổ đông lớn có địa vị cao quý đều cung kính vây quanh một người đàn ông trung niên hai bên thái dương đã bạc hoa râm, dáng vẻ vô cùng nho nhã như sao chầu bản nguyệt.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0019",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0019"
+      ],
+      "source": "这名斯文儒雅的中年男子“周隐”，是筑基期修真者，赤霄派中主管新人培养的长老，是赤霄二中管理层的顶头上司！",
+      "source_hash": "a50b8d90b6643c5d7ac1e1e56736224de5cec4c397113c97823ac0d37def080e",
+      "target": "Người đàn ông nho nhã lịch sự này tên là \"Chu Ẩn\", là một tu chân giả Trúc Cơ Kỳ, trưởng lão phụ trách bồi dưỡng tân nhân của Xích Tiêu Phái, chính là cấp trên trực tiếp của ban giám hiệu trường Xích Tiêu Nhị Trung!",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0020",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0020"
+      ],
+      "source": "周隐风度翩翩，并不盛气凌人，十分随和地笑道：“咱们二中这一届，教学质量大有提高，出了一些不错的好苗子，我就听说，有一个赫连烈，还有一个司佳雪都是很不错的新人，对了，我记得赫连烈是赫连董事的独子吧？”",
+      "source_hash": "aba680409c3aa0f3cd05f7f1b3b1191d735161ade78736821d5b07707def3564",
+      "target": "Chu Ẩn phong độ nhẹ nhàng, không hề có thái độ bề trên, vô cùng ôn hòa cười nói: \"Khối này của Nhị Trung chúng ta chất lượng giảng dạy nâng cao rất nhiều, xuất hiện một số hạt giống tốt. Ta nghe nói có một Hách Liên Liệt, còn cả một Tiêu Giai Tuyết nữa đều là tân nhân rất xuất sắc, đúng rồi, ta nhớ Hách Liên Liệt là con trai độc nhất của Hách Liên đổng sự phải không?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0021",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0021"
+      ],
+      "source": "“是，没想到周长老还知道我那个不成器的儿子！”赫连霸满脸红光，笑容焕发。",
+      "source_hash": "e7c8affe72f4f372fdfd7b94194958f304fc9347f5a91c9e0dfebcda66661fa2",
+      "target": "\"Dạ phải, thật không ngờ Chu trưởng lão lại biết đến đứa con bất tài đó của tôi!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0022",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0022"
+      ],
+      "source": "“只要是人才，我当然都记得，赤霄派的未来是属于他们的嘛！好啦，9点整了，开始吧！”",
+      "source_hash": "f03c3f1b74fc1e60483b7705dd315488bf054466405199658746a0dd14b80fd3",
+      "target": "\"Chỉ cần là nhân tài, ta đương nhiên đều nhớ rõ, tương lai của Xích Tiêu Phái là thuộc về họ mà! Được rồi, 9 giờ đúng rồi, bắt đầu đi!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0023",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0023"
+      ],
+      "source": "周隐一挥手，面孔顿时板了起来，一副生人勿近的样子，一进入工作状态，就完全变了一个人。",
+      "source_hash": "0b65e807f16c2f33a60657914482f58b153d175b59f7eb81ac3e771b24bccd2e",
+      "target": "Chu Ẩn vẫy tay một cái, nét mặt lập tức nghiêm nghị lại, tỏ vẻ lạnh lùng khó gần, vừa bước vào trạng thái làm việc liền hoàn toàn biến thành một con người khác.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0024",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0024"
+      ],
+      "source": "激战时刻，正式开始！",
+      "source_hash": "d250fee080e22950e3537071bd5303615ef33b26f8d08cc480662a8532bf2c4b",
+      "target": "Thời khắc kịch chiến, chính thức bắt đầu!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0025",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0025"
+      ],
+      "source": "校园四周响起了清脆悦耳的铃声，上千名赤红双眼的高三学生，从教学楼的各个角落一跃而出，每一名高三生都低头查看微型晶脑。",
+      "source_hash": "e1b054f38210dd323c072aa17d0b35a699a2466f0378c3c87bc04ba7c7ac8bce",
+      "target": "Tiếng chuông thanh thúy êm tai vang lên khắp trường học, hàng ngàn học sinh khối mười hai hai mắt đỏ bừng từ khắp các góc của tòa nhà giảng đường lao ra, mỗi một học sinh khối mười hai đều cúi đầu kiểm tra tinh não siêu nhỏ.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0026",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0026"
+      ],
+      "source": "很快，他们在人群中发现了十名携带准考证的“目标”。",
+      "source_hash": "b1e908218ab509a59ae8e6fbfa4d158157aa93cd22c17155076f4304aeb211cc",
+      "target": "Rất nhanh, họ phát hiện ra mười \"mục tiêu\" đang mang theo thẻ dự thi trong đám đông.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0027",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0027"
+      ],
+      "source": "“找到了，在那里，快干掉他！”",
+      "source_hash": "8d822980e3e24ac334a15d0d6a84dd0b68898786cf7096113ffaf706b13de200",
+      "target": "\"Tìm thấy rồi, ở đằng kia, mau hạ gục cậu ta đi!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0028",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0028"
+      ],
+      "source": "十名“种子选手”都是随机选出，实力并不强悍，在一声声惨叫中，被人潮彻底吞噬！",
+      "source_hash": "b3399359f88e3aa5ebc4a6ea44e5ed9e103d3bc51cfa37e780df31e78ed1f43b",
+      "target": "Mười \"hạt giống\" đều được chọn ngẫu nhiên, thực lực không mạnh mẽ gì, trong từng tiếng thét thảm thiết đã bị làn sóng người nuốt chửng hoàn toàn!",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0029",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0029"
+      ],
+      "source": "天空中，几十台医疗飞梭不断盘旋，随时待命，飞梭车上是从附近各大医院临时聘请来的医生和护士，还有几名精通医术的修真者，杜绝一切意外的发生。",
+      "source_hash": "ceff0b8b74b5b3312a5d00eee480e4607c80bc039aa7f148b6df5757fa35dccd",
+      "target": "Trên không trung, hàng chục phi thuyền y tế liên tục lượn lờ, luôn trong trạng thái sẵn sàng, trên xe phi thuyền là các bác sĩ và y tá được thuê tạm thời từ các bệnh viện lớn gần đó, cùng vài tu chân giả tinh thông y thuật để ngăn ngừa mọi tai nạn xảy ra.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0030",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0030"
+      ],
+      "source": "因为激斗要到下午三点才决出胜负，所以最初冲出来的并不是实力最强的学生，比如重点班学生就几乎一个都没动，依旧在奢华无比的教室里闭目养神。",
+      "source_hash": "111e0372ca98696a238a6ee97dc79486a67a650f00903eb9ef6d1ea22e16280d",
+      "target": "Vì cuộc chiến phải đến ba giờ chiều mới quyết định thắng bại, thế nên những người lao ra đầu tiên không phải là những học sinh mạnh nhất, chẳng hạn như học sinh lớp trọng điểm gần như không một ai cử động, vẫn nhắm mắt dưỡng thần trong các phòng học vô cùng xa hoa.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0031",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0031"
+      ],
+      "source": "现在参加激斗的学生，注定没机会把准考证保留到下午三点。",
+      "source_hash": "86721d5dcb36835726172abf5a6c426025c1af64b0b82b43929820065422dec7",
+      "target": "Những học sinh tham gia chiến đấu lúc này chắc chắn không có cơ hội giữ lại thẻ dự thi cho đến ba giờ chiều.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0032",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0032"
+      ],
+      "source": "不过也没关系，学校为了调动他们的积极性，专门设立了各级奖励机制，只要是将准考证保留一段时间，哪怕五分钟、十分钟，都等获得各种奖励。",
+      "source_hash": "94e23fd917deb4479696593e4e77e68c766ea1e67e192c8ec920c92514652ab7",
+      "target": "Nhưng cũng không sao, nhà trường vì khích lệ tính tích cực của họ đã đặc biệt lập ra các mức phần thưởng khác nhau, chỉ cần giữ được thẻ dự thi trong một khoảng thời gian, dù chỉ năm phút hay mười phút đều có thể nhận được các phần thưởng phong phú.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0033",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0033"
+      ],
+      "source": "是以，这些平行班、普通班的学生，也都豁出了老命，虽然实力不怎么样，但怒发冲冠、血溅三尺的姿态，令打斗场面也是颇为热闹。",
+      "source_hash": "d6bcaf65f0b6492ba1cb4a7d4f20b1dd840768db124085f932822359d340cd1e",
+      "target": "Do đó, những học sinh của lớp song hành và lớp thường này cũng đều liều mạng. Dù thực lực chẳng ra sao nhưng điệu bộ giận tóc dựng đứng, máu tươi văng khắp nơi cũng khiến cảnh tượng đấm đá trở nên vô cùng náo nhiệt.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0034",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0034"
+      ],
+      "source": "“哇杀！”",
+      "source_hash": "326d7f10a2e78e356301eeab9907cc7ffc06edcfd178d36ac4d743cdba51cd9e",
+      "target": "\"Oa sát!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0035",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0035"
+      ],
+      "source": "一名身揣准考证的学生刚刚跃下楼梯，就被藏匿于拐角处的另一名学生一脚踹中心窝，将准考证夺走。",
+      "source_hash": "ba4e6d7815190a0fc1516e0f1e19060693cdde0034d7c7b7f0ef679f225d8439",
+      "target": "Một học sinh đang mang thẻ dự thi trong người vừa nhảy xuống cầu thang liền bị một học sinh khác ẩn nấp ở góc cua đạp thẳng vào ngực, cướp mất thẻ dự thi.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0036",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0036"
+      ],
+      "source": "而当这名学生见四下无人，贼头贼脑地躲进了女厕所之后，又被另一名早就埋伏在女厕所蹲坑内的男生偷袭，准考证再度易手！",
+      "source_hash": "4c89449c98a4c8ab32bb8b53ea63bdff0d4704ddbcc83c8b967f222d802e8627",
+      "target": "Và khi học sinh này thấy xung quanh không có người, lén lút lẩn trốn vào nhà vệ sinh nữ, lại bị một nam sinh khác đã mai phục sẵn trong buồng vệ sinh nữ đánh lén, thẻ dự thi lại đổi chủ một lần nữa!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0037",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0037"
+      ],
+      "source": "同样的场面，在校园各个角落不断上演，不时有头破血流，筋断骨折的学生被抬上医疗飞梭。",
+      "source_hash": "97088a1f7c41dfb1178175fe615880b5e6bc8228c38d217cf3fa60142ceb564c",
+      "target": "Cảnh tượng tương tự liên tục diễn ra ở khắp các ngóc ngách của trường học, thỉnh thoảng lại có những học sinh đầu rơi máu chảy, gãy tay gãy chân được khiêng lên phi thuyền y tế.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0038",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0038"
+      ],
+      "source": "三处贵宾室里，贵宾们纷纷点评着巨大光幕上的画面。",
+      "source_hash": "932bef42c271a47c036e687fdee6396531216742f4f6a6d5f43b4bf962b719eb",
+      "target": "Trong ba phòng khách quý, các vị khách quý lần lượt bình phẩm hình ảnh trên màn hình ánh sáng khổng lồ.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0039",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0039"
+      ],
+      "source": "“这名学生的速度很快，反应也十分敏捷，就是拳力稍微弱了一点，不然说不定能进重点班！”",
+      "source_hash": "c4223ac3cc45c0479ef7524fb17390c0041f46a2a543b33e7a529b72ad5c25f0",
+      "target": "\"Học sinh này tốc độ rất nhanh, phản ứng cũng vô cùng nhạy bén, chỉ là lực đấm hơi yếu một chút, nếu không chưa biết chừng đã vào được lớp trọng điểm!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0040",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0040"
+      ],
+      "source": "“听说赤霄二中这几年陆续引进了好几名军队退伍的格斗好手，你看，他们的学生在比斗中，都带有一丝军中杀人技的味道，看来赤霄二中野心不小，今年高考，说不定会爆发！”",
+      "source_hash": "5c49b6409a617d17626785fd0d1810a05ca570168904a2a75be5129d722a1fe2",
+      "target": "\"Nghe nói trường Xích Tiêu Nhị Trung mấy năm nay liên tiếp tuyển dụng vài cao thủ võ thuật giải ngũ từ quân đội. Cậu xem, học sinh của họ trong lúc so tài đều mang theo một tia mùi vị sát nhân kỹ trong quân đội, xem ra dã tâm của Xích Tiêu Nhị Trung không nhỏ đâu, kỳ thi đại học năm nay có khi sẽ bùng nổ đấy!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0041",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0041"
+      ],
+      "source": "第二贵宾室。",
+      "source_hash": "de9d4c56615c0131f6253f676ef594a05bf07173a71d8d3478f1fffb05b6e42d",
+      "target": "Phòng khách quý thứ hai.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0042",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0042"
+      ],
+      "source": "写着“凤山二中”的牌子后面，一件沾满酒气的校服下面，有人呼呼大睡，发出鼾声。",
+      "source_hash": "d160492c3dce62884f2a3ec17313f50e15a9071f30d4dfeb1fbe7f0a1256047d",
+      "target": "Phía sau tấm biển viết \"Phượng Sơn Nhị Trung\", bên dưới một chiếc đồng phục học sinh nồng nặc mùi rượu, có người đang ngủ say sưa, phát ra tiếng ngáy khò khò.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0043",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0043"
+      ],
+      "source": "旁边一名凤山二中的年轻女老师皱眉，不动声色地捅了一下：“大东，你死缠烂打要过来看比斗，怎么到了这里又呼呼大睡？”",
+      "source_hash": "1fc5d07980c07219018c13990cf0ec84fc5f561a6638e345f0126363d4037e48",
+      "target": "Một nữ giáo viên trẻ của trường Phượng Sơn Nhị Trung bên cạnh nhíu mày, không biến sắc thúc nhẹ một cái: \"Đại Đông, em sống chết đòi đến đây xem so tài, sao đến nơi rồi lại ngủ như chết thế này?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0044",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0044"
+      ],
+      "source": "校服底下发出一声不满的嘟哝，过了很久，一张眼泡肿胀，油头粉面，明显纵欲过度的胖脸探了出来，眯起猫儿般的眼睛，漫不经心地扫了光幕一眼，打了个哈欠，又钻了回去。",
+      "source_hash": "5711e8a8a762a970fd2d114ee05ae8e254456ce3522a913701e3936aba208fb3",
+      "target": "Dưới bộ đồng phục phát ra tiếng lầm bầm bất mãn, rất lâu sau mới có một khuôn mặt mập mạp bọng mắt sưng húp, bóng loáng phấn sáp, rõ ràng là phóng túng quá độ thò ra ngoài. Cậu ta nheo đôi mắt như mắt mèo lại, lơ đãng nhìn lướt qua màn hình ánh sáng, ngáp một cái rồi lại rúc đầu vào trong.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0045",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0045"
+      ],
+      "source": "郑东明懒洋洋的声音从校服底下传来：“别吵，我要看的人还没登场。”",
+      "source_hash": "beac9704f10de3018cfd217694ed2197c252c8341f71e76bc1a867aabaa65859",
+      "target": "Giọng nói lười biếng của Trịnh Đông Minh truyền ra từ dưới bộ đồng phục: \"Đừng ồn, người em muốn xem vẫn chưa ra sân.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0046",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0046"
+      ],
+      "source": "“你在等司佳雪还是赫连烈？”年轻女老师问。",
+      "source_hash": "54c34691b77723bac62653f20d56f3822e4f3611c9df7ba6de92761acf7200b7",
+      "target": "\"Em đang đợi Tiêu Giai Tuyết hay Hách Liên Liệt?\" nữ giáo viên trẻ hỏi.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0047",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0047"
+      ],
+      "source": "校服下传来一声轻笑：“就凭他们两个，我怎么会从躺着七个美女的床上爬起来，来这种鬼地方？”",
+      "source_hash": "32bc463a280c1fc3b00eb4ccf464fcbb2bf5db4dd978a177b73f87e786f1dea6",
+      "target": "Dưới bộ đồng phục truyền ra một tiếng cười khẽ: \"Chỉ dựa vào hai người bọn họ mà muốn em bò dậy từ chiếc giường có bảy mỹ nhân để đến cái nơi quỷ quái này sao?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0048",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0048"
+      ],
+      "source": "年轻女老师奇怪道：“司佳雪和赫连烈，都是公认的赤霄二中最强者，连他们都不够资格让你来，那你等着看谁？”",
+      "source_hash": "fa56c0c4c5fb3e4c29543dfdbee880888263944e970207f4ddf6cf29a42db51a",
+      "target": "Nữ giáo viên trẻ kỳ lạ hỏi: \"Tiêu Giai Tuyết và Hách Liên Liệt đều là những người mạnh nhất được công nhận của Xích Tiêu Nhị Trung, đến họ còn không đủ tư cách để em đến, vậy em đang đợi xem ai?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0049",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0049"
+      ],
+      "source": "校服静止了一会儿，一只胖乎乎的贼手忽然伸出来，向女老师的裙底摸去，女老师娇躯一颤，贝齿轻咬，却是没有反抗。",
+      "source_hash": "19d13ae0e55e0fa34c61e39d84c18e8584d0fdddb60b9fc3497f04e7cce3eb40",
+      "target": "Bộ đồng phục im lặng một lúc, một bàn tay mập mạp gian tà bỗng thò ra ngoài, sờ soạng về phía váy của nữ giáo viên. Cơ thể nữ giáo viên run rẩy nhẹ, răng ngọc cắn nhẹ môi nhưng không hề phản kháng.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0035:align_0050",
+      "chapter_id": "chapter_0035",
+      "segment_ids": [
+        "chapter_0035:seg_0050"
+      ],
+      "source": "郑东明一边摸着，一边懒洋洋道：“我等的不是最强，是最狠！”",
+      "source_hash": "9377e37a7f2336580ea394c14eb31cbea2b42d19171ecec640687750d52d5fad",
+      "target": "Trịnh Đông Minh vừa sờ soạng vừa lười biếng nói: \"Người em đợi không phải là kẻ mạnh nhất, mà là kẻ tàn nhẫn nhất!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    }
+  ],
+  "term_occurrences": [
+    {
+      "chapter_id": "chapter_0035",
+      "source_term": "浮戈城",
+      "target_term": "Phù Qua Thành",
+      "segment_id": "chapter_0035:seg_0016",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0035",
+      "source_term": "晶脑",
+      "target_term": "Tinh não",
+      "segment_id": "chapter_0035:seg_0006",
+      "present_in_target": false,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0035",
+      "source_term": "赤霄二中",
+      "target_term": "Xích Tiêu Nhị Trung",
+      "segment_id": "chapter_0035:seg_0003",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0035",
+      "source_term": "重点班",
+      "target_term": "lớp trọng điểm",
+      "segment_id": "chapter_0035:seg_0030",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0035",
+      "source_term": "平行班",
+      "target_term": "lớp song hành",
+      "segment_id": "chapter_0035:seg_0033",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0035",
+      "source_term": "普通班",
+      "target_term": "lớp thường",
+      "segment_id": "chapter_0035:seg_0033",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0035",
+      "source_term": "筑基期",
+      "target_term": "Trúc Cơ Kỳ",
+      "segment_id": "chapter_0035:seg_0019",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "level",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0035",
+      "source_term": "司佳雪",
+      "target_term": "Tiêu Giai Tuyết",
+      "segment_id": "chapter_0035:seg_0020",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0035",
+      "source_term": "郑东明",
+      "target_term": "Trịnh Đông Minh",
+      "segment_id": "chapter_0035:seg_0045",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0035",
+      "source_term": "联邦少年极限挑战赛",
+      "target_term": "Giải đấu Thử thách Cực hạn Thiếu niên Liên bang",
+      "segment_id": "chapter_0035:seg_0007",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0035",
+      "source_term": "准考证",
+      "target_term": "thẻ dự thi",
+      "segment_id": "chapter_0035:seg_0003",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0035",
+      "source_term": "飞豚眼",
+      "target_term": "Phi Đồn Nhãn",
+      "segment_id": "chapter_0035:seg_0010",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "beast",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0035",
+      "source_term": "噗叽兽",
+      "target_term": "thú Pút Kít",
+      "segment_id": "chapter_0035:seg_0013",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "beast",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0035",
+      "source_term": "医疗飞梭",
+      "target_term": "phi thuyền y tế",
+      "segment_id": "chapter_0035:seg_0029",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    }
+  ],
+  "entity_mentions": [
+    {
+      "chapter_id": "chapter_0035",
+      "source_surface": "司佳雪",
+      "target_surface": "Tiêu Giai Tuyết",
+      "entity_type": "person",
+      "segment_id": "chapter_0035:seg_0020",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0035",
+      "source_surface": "赫连烈",
+      "target_surface": "Hách Liên Liệt",
+      "entity_type": "person",
+      "segment_id": "chapter_0035:seg_0020",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0035",
+      "source_surface": "郑东明",
+      "target_surface": "Trịnh Đông Minh",
+      "entity_type": "person",
+      "segment_id": "chapter_0035:seg_0045",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0035",
+      "source_surface": "赫连霸",
+      "target_surface": "Hách Liên Bá",
+      "entity_type": "person",
+      "segment_id": "chapter_0035:seg_0021",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0035",
+      "source_surface": "周隐",
+      "target_surface": "Chu Ẩn",
+      "entity_type": "person",
+      "segment_id": "chapter_0035:seg_0019",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0035",
+      "source_surface": "赤霄派",
+      "target_surface": "Xích Tiêu Phái",
+      "entity_type": "factions",
+      "segment_id": "chapter_0035:seg_0019",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0035",
+      "source_surface": "浮戈城",
+      "target_surface": "Phù Qua Thành",
+      "entity_type": "locations",
+      "segment_id": "chapter_0035:seg_0016",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0035",
+      "source_surface": "飞豚眼",
+      "target_surface": "Phi Đồn Nhãn",
+      "entity_type": "items",
+      "segment_id": "chapter_0035:seg_0010",
+      "confidence": 1.0
+    }
+  ],
+  "name_analysis": {
+    "status": "ok",
+    "evidence_count": 5,
+    "name_mentions": [
+      {
+        "chapter_id": "chapter_0035",
+        "name_source": "司佳雪",
+        "name_target": "Tiêu Giai Tuyết",
+        "segment_id": "chapter_0035:seg_0020",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0035",
+        "name_source": "赫连烈",
+        "name_target": "Hách Liên Liệt",
+        "segment_id": "chapter_0035:seg_0020",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0035",
+        "name_source": "郑东明",
+        "name_target": "Trịnh Đông Minh",
+        "segment_id": "chapter_0035:seg_0045",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0035",
+        "name_source": "赫连霸",
+        "name_target": "Hách Liên Bá",
+        "segment_id": "chapter_0035:seg_0021",
+        "present_in_target": false,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0035",
+        "name_source": "周隐",
+        "name_target": "Chu Ẩn",
+        "segment_id": "chapter_0035:seg_0019",
+        "present_in_target": true,
+        "confidence": 1.0
+      }
+    ],
+    "name_entries": [
+      {
+        "name_source": "司佳雪",
+        "name_target": "Tiêu Giai Tuyết"
+      },
+      {
+        "name_source": "赫连烈",
+        "name_target": "Hách Liên Liệt"
+      },
+      {
+        "name_source": "郑东明",
+        "name_target": "Trịnh Đông Minh"
+      },
+      {
+        "name_source": "赫连霸",
+        "name_target": "Hách Liên Bá"
+      },
+      {
+        "name_source": "周隐",
+        "name_target": "Chu Ẩn"
+      }
+    ],
+    "transliteration_units": [],
+    "inferred_name_rules": [],
+    "ambiguity_cases": [],
+    "reusable_name_profile": {
+      "mapping_count": 5,
+      "has_ambiguity": false
+    }
+  },
+  "phrase_patterns": [],
+  "grammar_rule_candidates": [],
+  "analyzer_reports": {
+    "term_occurrences": {
+      "status": "ok",
+      "evidence_count": 14
+    },
+    "entity_mentions": {
+      "status": "ok",
+      "evidence_count": 8
+    },
+    "name_mentions": {
+      "status": "ok",
+      "evidence_count": 5
+    },
+    "phrase_patterns": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    },
+    "grammar_rule_candidates": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    }
+  },
+  "review_queue": [
+    {
+      "chapter_id": "chapter_0035",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "连烈",
+        "entity_type": "person",
+        "count": 3,
+        "confidence": 0.7,
+        "evidence": [
+          "，我就听说，有一个赫连烈，还有一个司佳雪都是",
+          "“你在等司佳雪还是赫连烈？”年轻女老师问。\n",
+          "奇怪道：“司佳雪和赫连烈，都是公认的赤霄二中"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0035",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "方式",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "很简单，首先以摇号的方式，在全体高三学生中选",
+          "而其他人则可以用任何方式、任何手段、任何校园"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0035",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "时刻",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "35.第35章 激战时刻\n\n  \n\n4月12",
+          "变了一个人。\n\n激战时刻，正式开始！\n\n校园"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0035",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "一头头毛茸茸的小肉团",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "清晨8点45分。\n\n一头头毛茸茸的小肉团，长着滴溜溜圆的大眼"
+        ]
+      }
+    }
+  ],
+  "quality_audit": {
+    "segment_coverage": 1.0,
+    "source_hash_match": true,
+    "target_reconstruction_match": true,
+    "invalid_ref_count": 0,
+    "locked_term_hit_rate": 1.0,
+    "missing_locked_terms": [],
+    "cjk_residue_count": 0,
+    "paragraph_drift_ratio": 0.0,
+    "pronoun_consistency_score": 1.0,
+    "warnings": []
+  }
+}

@@ -1,0 +1,964 @@
+{
+  "schema_version": "2.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 59,
+  "chapter_id": "chapter_0059",
+  "source_manifest_hash": "5a49087e7ff9d6cb0d433e35d79e99c4375a8937d62057a5a523ad4db4b1bdea",
+  "aligned_segments": [
+    {
+      "alignment_id": "chapter_0059:align_0001",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0001"
+      ],
+      "source": "# 59.第59章 麻痹了！",
+      "source_hash": "a90b3249b31a787c7fdbb3f1bb7cf0513c94761cbd694381c277dda9501aee48",
+      "target": "# Chương 0059 - Tê liệt rồi!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0002",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0002"
+      ],
+      "source": "局面确实如李耀所料，胜利的天平无可挽回地向蓝队一边倾斜过去。",
+      "source_hash": "638d77e1913c8edf278059bc885de543c9e56719e9cc1ad7eeb382be5db75406",
+      "target": "Cục diện đúng như Lý Diệu dự liệu, cán cân chiến thắng đã nghiêng hẳn về phía đội Xanh một cách không thể cứu vãn.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0003",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0003"
+      ],
+      "source": "从监控中心的巨大光幕上可以清晰看出，不到三个小时，蓝队彻底集结起来。",
+      "source_hash": "eeb6af557c2a930e91fc99226569f9d848a64e781e55b0da75a45e366bdb14de",
+      "target": "Từ màn hình lớn trong trung tâm giám sát có thể thấy rõ, chưa đầy ba tiếng đồng hồ, đội Xanh đã hoàn tất việc tập hợp lực lượng.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0004",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0004"
+      ],
+      "source": "他们以三到五名选手的规模，组成了核心战斗单元，成员大多来自一个学校和地区，彼此熟悉，而且攻击系选手和辅助系选手搭配合理，攻防一体。",
+      "source_hash": "7223dafba60eebaf756f1eac9afba2c1169bcdd831ca689ad1518c741b12a7d2",
+      "target": "Họ tổ chức thành các đơn vị chiến đấu cốt lõi với quy mô từ ba đến năm thí sinh. Các thành viên đa số đến từ cùng một trường học hoặc cùng một khu vực, vốn quen thuộc với nhau, hơn nữa sự phối hợp giữa thí sinh hệ tấn công và thí sinh hệ hỗ trợ rất hợp lý, tạo nên sự công thủ toàn diện.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0005",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0005"
+      ],
+      "source": "每一个战斗单元之间的距离恰到好处，而所有战斗单元隐隐形成一个大圈，包围着以高野为首，十几名拥有管理天赋的选手为辅的“指挥中心”！",
+      "source_hash": "84e0bede92dc627a73f6ea45b399503f04391fcdc36c527c3f3b16192a019a51",
+      "target": "Khoảng cách giữa các đơn vị chiến đấu được duy trì ở mức vừa vặn, toàn bộ các đơn vị chiến đấu ngầm tạo thành một vòng tròn lớn, bao bọc lấy “trung tâm chỉ huy” do Cao Dã dẫn đầu cùng mười mấy thí sinh có thiên phú quản lý hỗ trợ đắc lực!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0006",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0006"
+      ],
+      "source": "指挥中心就是大脑，所有战斗单元就是拳头，蓝队从魔蛟岛的北面，一路向南，横扫过去。",
+      "source_hash": "ed86eebb44f6875ed3db16c7c8d6939cddb9f3fa3419267d5c07a45ee83d4f7f",
+      "target": "Trung tâm chỉ huy chính là bộ não, toàn bộ các đơn vị chiến đấu chính là nắm đấm. Đội Xanh xuất phát từ phía bắc Đảo Ma Giao, quét dọc xuống phía nam.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0007",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0007"
+      ],
+      "source": "两边选手都是随机选择，整体实力相差无几，以有组织的战斗队形去打无组织的一盘散沙，简直是一边倒的屠杀！",
+      "source_hash": "571a645c4f01ada394fb1d5802a41d56fc40caf69c5ae9eb40f48e1f832b8939",
+      "target": "Thí sinh của hai đội đều được lựa chọn ngẫu nhiên, thực lực tổng thể vốn sàn sàn như nhau. Việc dùng đội hình chiến đấu có tổ chức để đập tan một bãi cát rời vô tổ chức quả thực là một cuộc thảm sát một chiều!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0008",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0008"
+      ],
+      "source": "一路上无论是妖兽还是红队选手，几乎没有能抵挡住蓝队战团的存在。",
+      "source_hash": "65bfcc858e6727bf24c2ca3d7a6f4f01eb3b0b92d950f3865d3fe5711b5b899f",
+      "target": "Trên suốt dọc đường đi, bất kể là yêu thú hay thí sinh đội Đỏ, hầu như không có sự tồn tại nào có thể cản được bước chân của đoàn chiến đấu đội Xanh.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0009",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0009"
+      ],
+      "source": "即便有几个实力强横的红队选手能够坚持一阵子，立刻就有三四个甚至五六个蓝队的战斗单元围拢过来，乱刀齐下，将红队选手统统送入凝胶，逐出考场！",
+      "source_hash": "f3c81cb52883ed4fcf816fca65c593495e04f1b3d0062ca29e7695ddf16d2278",
+      "target": "Cho dù có vài thí sinh đội Đỏ có thực lực mạnh mẽ chống đỡ được một lát, thì ngay lập tức sẽ có ba bốn, thậm chí là năm sáu đơn vị chiến đấu đội Xanh quây lại, loạn đao hạ xuống, tống khứ toàn bộ thí sinh đội Đỏ vào trong chất gel bảo vệ, đuổi cổ ra khỏi trường thi!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0010",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0010"
+      ],
+      "source": "第一天还未过半，红队就损失了一百二十多名选手，被蓝队打得晕头转向，溃不成军。",
+      "source_hash": "c25900f53c0922e9e069ea35a6e60c1f1da4677a83e51cdf02c633a4cb06950e",
+      "target": "Ngày thi đấu đầu tiên chưa trôi qua một nửa, đội Đỏ đã tổn thất hơn một trăm hai mươi thí sinh, bị đội Xanh đánh cho đầu váng mắt hoa, tan tác như chim vỡ tổ.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0011",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0011"
+      ],
+      "source": "而蓝队只损失了区区三十多名选手，并且随着彼此配合得越来越熟练，红队活动范围被进一步压制，双方的“战损比”还在进一步扩大。",
+      "source_hash": "edf5d86b4a59c8e1f39d5594c68d59f44ee0fc00d7ce90997255340f3db9db0d",
+      "target": "Trong khi đó đội Xanh chỉ tổn thất vỏn vẹn hơn ba mươi thí sinh. Cùng với việc sự phối hợp giữa hai bên ngày càng thuần thục hơn, phạm vi hoạt động của đội Đỏ bị chèn ép thêm một bước, “tỷ lệ thương vong” giữa hai bên vẫn đang tiếp tục kéo giãn.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0012",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0012"
+      ],
+      "source": "“没有悬念了，这样打下去，用不了一天半，红队就会全军覆没！”监控中心，几名经验丰富的军官十分肯定地下了结论。",
+      "source_hash": "d0e1551368679f934534fab50cb629d84e4faa4abd3fdad00391b3fbd8763887",
+      "target": "“Không còn nghi ngờ gì nữa, cứ tiếp tục đánh thế này thì không đầy một ngày rãnh, đội Đỏ sẽ bị tiêu diệt sạch sẽ!” Tại trung tâm giám sát, mấy vị sĩ quan giàu kinh nghiệm đưa ra kết luận cực kỳ khẳng định.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0013",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0013"
+      ],
+      "source": "众多修真者也是纷纷叹息，没想到这次蓝队竟然涌现出如此逆天的指挥天才，不费吹灰之力就取得了压倒性的胜利。",
+      "source_hash": "f52313e786b02fbe60516860bd2b6e357a1ef9e30e3ab03d8413bab7387f70f0",
+      "target": "Đông đảo tu chân giả cũng rối rít thở dài. Không ngờ lần này đội Xanh lại xuất hiện một thiên tài chỉ huy nghịch thiên như vậy, không tốn chút sức lực nào đã giành được thắng lợi áp đảo.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0014",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0014"
+      ],
+      "source": "对双方的普通选手而言，其实也有些不公平。",
+      "source_hash": "a2ba029d1e0398ecfa7cced85325e80f3b96f0004801c380418dbfc077d93af6",
+      "target": "Đối với các thí sinh bình thường của cả hai bên mà nói, chuyện này kỳ thực có chút không công bằng.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0015",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0015"
+      ],
+      "source": "不过这就是现实，在真正的战场上，运气有时候比实力更重要。",
+      "source_hash": "a95eb75419c3b12a00fbebcdc988ac7da2d2526cfe69d334ba677879deb43529",
+      "target": "Nhưng đây chính là hiện thực. Trên chiến trường thực sự, vận khí đôi khi còn quan trọng hơn cả thực lực.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0016",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0016"
+      ],
+      "source": "监控中心的角落，谢听弦和丁铃铛都紧紧皱着眉头，他们也没想到会出现这么一边倒的局面，蓝队已经掌控了大势，哪怕李耀的个人能力再强都无济于事。",
+      "source_hash": "6a17d3b4eaef2f5da9a80441c5edf83f87e7d93555dfa1399324b595edca47b2",
+      "target": "Ở góc trung tâm giám sát, Tạ Thính Huyền và Đinh Linh Đang đều nhíu chặt đôi lông mày. Họ cũng không ngờ lại phát sinh cục diện một chiều đến thế. Đội Xanh đã nắm chắc đại thế trong tay, cho dù năng lực cá nhân của Lý Diệu có mạnh đến đâu cũng vô dụng.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0017",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0017"
+      ],
+      "source": "他想要杀进前三百名，恐怕很难了。",
+      "source_hash": "5548696767dd1514f798389f13bd8eeb5ff81d1bc2fc92a991204409c5ed36b7",
+      "target": "Cậu muốn lọt vào top ba trăm e là vô cùng khó khăn.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0018",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0018"
+      ],
+      "source": "“李耀，你究竟还在等什么呢？”",
+      "source_hash": "c7090d8f26a410cd600fdd9f4301145e7bafbd58ba2da497b4b93970c5ec8f68",
+      "target": "“Lý Diệu, rốt cuộc cậu còn đang đợi cái gì thế?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0019",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0019"
+      ],
+      "source": "两人一起凝视着巨大光幕上，代表李耀的小红点。",
+      "source_hash": "f7486dded77cfbcd1805d18149306af4601676a5fff6104d1cc75a77980ed9c2",
+      "target": "Cả hai cùng ngưng thần nhìn vào chấm đỏ nhỏ đại diện cho Lý Diệu trên màn hình lớn.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0020",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0020"
+      ],
+      "source": "从大地图上可以看到，李耀的小红点一直停留在魔蛟岛北部某处阴暗的角落里，始终一动不动。",
+      "source_hash": "08e0dd63607067075d83a4acae47a34a1043a321761cbb4bbe5fb45b9d1220f4",
+      "target": "Từ trên bản đồ lớn có thể thấy chấm đỏ của Lý Diệu vẫn luôn dừng lại ở một góc tối tăm nào đó phía bắc Đảo Ma Giao, trước sau không hề nhúc nhích.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0021",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0021"
+      ],
+      "source": "甚至连一大片蓝色光点从他面前碾压过去，他都没有半点跳出来的意思。",
+      "source_hash": "f3f361c5ea4cd53b206da749797197a5113ef265138ad462508cafa9b17da3bb",
+      "target": "Ngay cả khi một mảng lớn các chấm sáng màu xanh quét qua trước mặt, cậu cũng không hề có ý định lao ra.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0022",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0022"
+      ],
+      "source": "现在，李耀已经出现在了蓝队的大后方。",
+      "source_hash": "9c1a2d5872058a8d1077f610f2552fd4add24f75f310736e3d83e57c94e1fef4",
+      "target": "Hiện tại, Lý Diệu đã xuất hiện ở tít tận đại hậu phương của đội Xanh.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0023",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0023"
+      ],
+      "source": "四周空空荡荡，除他之外的所有红队选手都被击杀，只剩下四支蓝色的巡逻小队还在游弋，巡视。",
+      "source_hash": "591f9c9f881d21fd225771807e9c885e7bef513501338d2fac76750dceeb486f",
+      "target": "Xung quanh trống trải không một bóng người, toàn bộ thí sinh đội Đỏ ngoại trừ cậu ra đều đã bị tiêu diệt, chỉ còn lại bốn tiểu đội tuần tra màu xanh đang qua lại lùng sục.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0024",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0024"
+      ],
+      "source": "黑暗的灌木丛最深处，一双眼睛缓缓睁开，绽放出\\*\\*的光芒。",
+      "source_hash": "d435d08b1c430bdd35e4a0e4bcdd1cb10bfd4c736b0b2860a71fab7d9e865757",
+      "target": "Tại nơi sâu nhất của bụi rậm tối tăm, một đôi mắt chậm rãi mở ra, tỏa ra tia sáng lạnh lẽo.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0025",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0025"
+      ],
+      "source": "宛若一头饥肠辘辘的秃鹫，发现了最肥美的羔羊。",
+      "source_hash": "0809f4129a8fc01590f3376e866207dd68d9a8128b694ee31953c35d12ebc640",
+      "target": "Tự như một con kền kền đói khát đã phát hiện ra chú cừu non béo bở nhất.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0026",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0026"
+      ],
+      "source": "“悉悉索索，悉悉索索”，灌木一阵摇晃，李耀不徐不疾地钻了出来。",
+      "source_hash": "3cc118ceca48da138c0d5e0d956eafcd42a6b88d3f6d634d054fcb27197bd51f",
+      "target": "“Xột xoạt, xột xoạt”, bụi cây lay động một trận, Lý Diệu không nhanh không chậm chui ra ngoài.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0027",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0027"
+      ],
+      "source": "他仔细观察了一下地上的足迹和周围树干被摩擦的痕迹，接着又像是一条大蟒蛇般游上了大树。",
+      "source_hash": "25fd5b7ff802e916bb519459438d2416e4f468ee3f95a768d948bf287d6648aa",
+      "target": "Cậu tỉ mỉ quan sát dấu chân trên mặt đất và những vết cọ xát trên thân cây xung quanh, kế đó lại giống như một con mãng xà khổng lồ trườn lên thân cây lớn.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0028",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0028"
+      ],
+      "source": "李耀在枝桠间无声无息地游动，速度比在地上发足狂奔都快。",
+      "source_hash": "f22aec4b2fa1b011150f7a9b8d2bc10d6190d3399eb7ca45a38ff73cc37aaa96",
+      "target": "Lý Diệu di chuyển không một tiếng động giữa các tán cây, tốc độ còn nhanh hơn cả khi chạy như bay trên mặt đất.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0029",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0029"
+      ],
+      "source": "很快，一支由三名蓝方考生组成的巡逻小队就出现在他的视线中。",
+      "source_hash": "2cf438944ff2d7bbb2ac6c126c6bdc5627f1914ff82ef3cde7d3a335922050a8",
+      "target": "Nhanh chóng, một tiểu đội tuần tra gồm ba thí sinh bên phe Xanh đã lọt vào tầm mắt của cậu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0030",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0030"
+      ],
+      "source": "不出意料，这三人手中拿着的，全都是他组装起来的近战法宝。",
+      "source_hash": "8ae2ec0aff3cf77f08d13ddfdcb25163a74671e9c4b51e32e4311379ac5a494e",
+      "target": "Không ngoài dự liệu, thứ ba người này đang cầm trong tay đều là những món pháp bảo cận chiến do chính cậu lắp ráp.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0031",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0031"
+      ],
+      "source": "李耀微微一笑，这一局面早在他的计算之中。",
+      "source_hash": "c8e64f53443d8f4985ffe618b5220e114be713ab97452291cd92e0b187f69ad4",
+      "target": "Lý Diệu mỉm cười nhẹ, cục diện này vốn đã nằm trong sự tính toán của cậu.",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0032",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0032"
+      ],
+      "source": "在初赛里他一共组装出了数百支近战法宝，进入决赛的考生只有六百人，几乎是人手一把。",
+      "source_hash": "748b7fe364847f30a1c7d9ac06fe81853b4c9ebb44540bf196a5b8ba23d3fd5c",
+      "target": "Ở vòng sơ loại, cậu tổng cộng đã ráp ra hàng trăm món pháp bảo cận chiến, mà thí sinh bước vào chung kết chỉ có sáu trăm người, hầu như mỗi người đều sở hữu một món.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0033",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0033"
+      ],
+      "source": "再加上红队又损失了一部分人手，他们的法宝肯定也被蓝队夺走。",
+      "source_hash": "fc282694293d0e80a65d398c7ddbb9c8b75be67020ed335dded9827d75ce22ed",
+      "target": "Cộng thêm việc đội Đỏ lại tổn thất một phần nhân lực, pháp bảo của họ chắc chắn cũng bị đội Xanh cướp đi.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0034",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0034"
+      ],
+      "source": "“你们手里的法宝，都是我组装的——你们还怎么和我斗！”",
+      "source_hash": "ebfe4abcabaa1255d7872a61bd6fd705f3a1b04399e91c9102cbbd8bb2b322d0",
+      "target": "“Vũ khí trong tay các ngươi đều là do ta lắp ráp —— các ngươi lấy cái gì đấu với ta đây!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0035",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0035"
+      ],
+      "source": "李耀双腿一蹬，力量之大，令脚下的枝桠“咔嚓”一声断裂。",
+      "source_hash": "4afd48983837ac8033eeacb66622d47299c433f14ac3579406b935b294e64db5",
+      "target": "Lý Diệu đạp mạnh hai chân, sức mạnh lớn tới mức làm cành cây dưới chân phát ra tiếng “rắc” gãy lìa.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0036",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0036"
+      ],
+      "source": "而他也像是一头巨枭，从天而降，朝蓝方巡逻小队扑去！",
+      "source_hash": "db74d4940c702becaf23a05d73baafd8145eb283d7723e609a83098ad693154d",
+      "target": "Và cậu cũng giống như một con diều hâu khổng lồ từ trên trời giáng xuống, vồ thẳng về phía tiểu đội tuần tra phe Xanh!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0037",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0037"
+      ],
+      "source": "“敌袭！”",
+      "source_hash": "3827056101be2d847a22d72905a736eff74dd436cab3b68a56b27dc45e3c490c",
+      "target": "“Địch tập kích!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0038",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0038"
+      ],
+      "source": "蓝方巡逻小队经过半天配合，早已培养出了几分默契，并没有因为李耀的偷袭而惊慌失措。",
+      "source_hash": "a1756c43c198e1aeccf0a335e49ab6d06506c0425ebdebd183aa2041e3d7fe6f",
+      "target": "Tiểu đội tuần tra phe Xanh sau nửa ngày phối hợp đã rèn luyện ra được vài phần ăn ý, không hề bởi vì sự tập kích bất ngờ của Lý Diệu mà hoảng loạn.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0039",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0039"
+      ],
+      "source": "三人几乎在0.1秒之内就激发了近战法宝的启动符阵。",
+      "source_hash": "bd0db2cd10e2ae8fc434a0ee852c092e53f98d8733e6ce5dcff465cd0cc5ea0b",
+      "target": "Cả ba người gần như chỉ trong vòng 0,1 giây đã kích hoạt trận pháp khởi động của pháp bảo cận chiến.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0040",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0040"
+      ],
+      "source": "链锯剑发出轰鸣，雷霆战刀开始震荡，焚天战斧的斧刃也在瞬间变成了一片橘红！",
+      "source_hash": "ac6426ec0a095a5ed0595bc622548599c64a99949972b44a6d1b48b84778e89c",
+      "target": "Kiếm cưa xích gầm rú gầm vang, Lôi Đình Chiến Đao bắt đầu rung động, lưỡi rìu chiến Phần Thiên cũng hóa thành một mảnh đỏ cam rực rỡ trong nháy mắt!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0041",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0041"
+      ],
+      "source": "可是就在下一个0.1秒，三人的掌心全都传来一阵刺痛，仿佛一道尖锐的电流，从兵刃的握把处涌入手臂，一直流窜到心脏，狠狠地蛰了一下！",
+      "source_hash": "696571200288da37f6706a3368424c761041f62c6390ab8671b469ed1a4a56ab",
+      "target": "Thế nhưng ngay tại 0,1 giây tiếp theo, lòng bàn tay của cả ba người đều truyền tới một cơn đau nhói, tựa như một luồng điện sắc bén từ chuôi binh khí xông vào cánh tay, chạy thẳng lên tim, đâm mạnh một cái!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0042",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0042"
+      ],
+      "source": "“啊！”",
+      "source_hash": "aa6e626a377e4cce5cf460c9f3364f14ddf566189f9ebc02b9b90d99ea639f27",
+      "target": "“Á!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0043",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0043"
+      ],
+      "source": "三名巡逻者同时发出一声惨叫，身体不由自主地僵硬了一秒钟！",
+      "source_hash": "8582409a66092651c9db41c54438cb281b335c2006b3db66ae2d02835358e598",
+      "target": "Ba thành viên tuần tra đồng loạt thét lên một tiếng thảm thiết, thân thể không tự chủ được mà cứng đờ lại trong vòng một giây!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0044",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0044"
+      ],
+      "source": "就在短短一秒钟的僵硬时间内，两道黑色流光从他们的脖子上一闪而过，即将触碰到皮肤时，三头噗叽兽及时喷出凝胶，将三名蓝方选手牢牢保护起来，也断绝了他们继续前进的希望！",
+      "source_hash": "8fbf79db0369865615ad8a0f82deb74e0d6710b4b321408eaa8faba9f9ed5a2e",
+      "target": "Ngay trong một giây cứng đờ ngắn ngủi ấy, hai vệt sáng đen lướt nhanh qua cổ của họ. Vào khoảnh khắc sắp sửa chạm tới da thịt, ba con thú Pút Kít đã kịp thời phun ra chất gel, bảo vệ chặt chẽ ba thí sinh phe Xanh, cũng cắt đứt hy vọng tiếp tục tiến bước của họ!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0045",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0045"
+      ],
+      "source": "蓝方三名考生，判定失败，退出比赛！",
+      "source_hash": "6819c5bbdfd1d2b240a89ef4ab25a2b1df8824693f7fa2313e78a59d8445f3c6",
+      "target": "Ba thí sinh phe Xanh bị phán định thất bại, rời khỏi cuộc thi!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0046",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0046"
+      ],
+      "source": "“唰唰唰唰！”",
+      "source_hash": "4ac4e0269e6c912074f1930b4bdd56b8e6557c16d5efa426d879250954e5d7ce",
+      "target": "“Xoạt xoạt xoạt xoạt!”",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0047",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0047"
+      ],
+      "source": "他们名下的积分，立刻转移到了李耀名下，李耀在排行榜上一下子蹿升了三十多名！",
+      "source_hash": "fe0d6417cc6713dd48b0e3587f30e17e1f09bf0ab5a47bb6fef03f2131cc847d",
+      "target": "Điểm tích lũy dưới tên của họ ngay lập tức được chuyển sang cho Lý Diệu, thứ hạng của Lý Diệu trên bảng xếp hạng vọt lên hơn ba mươi bậc!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0048",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0048"
+      ],
+      "source": "“怎么回事？”",
+      "source_hash": "3cb95cd066e1fff8bb3bf9dbbc37f336e917b5b555ecd7e01eab918582fc52a1",
+      "target": "“Chuyện gì thế này?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0049",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0049"
+      ],
+      "source": "监控中心里，不少修真者都看到了这场短促的偷袭战。",
+      "source_hash": "86cbb300f634498a998e29719d56a96aa274e29f15b64b297e16cb7faf6a41a3",
+      "target": "Trong trung tâm giám sát, không ít tu chân giả đều chứng kiến trận tập kích ngắn ngủi này.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0050",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0050"
+      ],
+      "source": "他们却是为三名蓝方选手明显有些蠢笨的表现而大惑不解。",
+      "source_hash": "94694cd96e2a03c999787366cc5eb5da38890907f5b39a9b509904f5e1c28c2f",
+      "target": "Thế nhưng bọn họ lại vô cùng khó hiểu trước biểu hiện rõ ràng là có phần ngu ngốc đần độn của ba thí sinh phe Xanh.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0051",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0051"
+      ],
+      "source": "“三名蓝方选手犯什么傻，怎么一下子全都呆住了？如果不是这一秒钟的僵硬，哪怕付出一点牺牲，也完全可以把这名红方选手给拼掉啊！”",
+      "source_hash": "2988f5c7740da2f3daea32c8a379965126116fb28803a444f5b29b3cb08cc7bd",
+      "target": "“Ba thí sinh phe Xanh bị ngốc à, sao tự dưng lại đờ người ra hết thế kia? Nếu không phải vì một giây cứng đờ đó thì cho dù có phải hy sinh một chút, họ hoàn toàn có thể kéo theo thí sinh phe Đỏ này cùng chịu chết mà!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0052",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0052"
+      ],
+      "source": "“咦，这名红方选手，好像就是在初赛中组装出了几百件近战法宝的炼器高手，没想到他居然坚持到了现在，还一下子击杀了三名蓝方选手？他的实力这么强！”",
+      "source_hash": "92aaf6abbcb39b8d1f8a7b3cefefc7fb5d7a6ab74f34878bf1531c07862e3bd5",
+      "target": "“Ủa, thí sinh phe Đỏ này hình như chính là cao thủ luyện khí đã ráp ra mấy trăm món pháp bảo cận chiến ở vòng sơ loại. Không ngờ cậu ta vẫn trụ vững được đến tận bây giờ, lại còn một hơi tiêu diệt ba thí sinh phe Xanh? Thực lực của cậu ta mạnh thế sao!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0053",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0053"
+      ],
+      "source": "“不对，有古怪，有古怪，三名蓝方选手的武器有问题！”",
+      "source_hash": "fa9e1092a4864bfc884cc6da044c62474f9cfd35f7be3ad3b60247a4b5df4580",
+      "target": "“Không đúng, có gì đó quái lạ, vũ khí của ba thí sinh phe Xanh có vấn đề!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0054",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0054"
+      ],
+      "source": "一些眼光高明的修真者一下子看出了底细，所有人都把目光投向了谢听弦。",
+      "source_hash": "b9b1c84a5cba3acf355a068f42123769e1f701c05544a82f1896da9027baa376",
+      "target": "Một số tu chân giả có nhãn quang sắc bén lập tức nhận ra chân tướng, mọi người đều đồng loạt đổ dồn ánh mắt về phía Tạ Thính Huyền.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0055",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0055"
+      ],
+      "source": "谢听弦一直瞪大眼睛关注着李耀的精彩表演，直到李耀再一次消失在黑暗中，他才长长舒了一口气，流露出恍然大悟的表情。",
+      "source_hash": "52caaadfd2e5ec117e19b2a56b2f36164b620233c34a3f6a438f2a5c7458c73c",
+      "target": "Tạ Thính Huyền vẫn luôn căng mắt theo dõi màn trình diễn đặc sắc của Lý Diệu. Cho đến khi Lý Diệu một lần nữa ẩn hiện biến mất vào trong bóng tối, ông mới thở dài một hơi nhẹ nhõm, lộ ra vẻ mặt bừng tỉnh đại ngộ.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0056",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0056"
+      ],
+      "source": "环视一周，谢听弦微笑道：",
+      "source_hash": "a79ba2519d3d52371b9281d608f4a344180843791fa03dcf97b4b5460d89b2a5",
+      "target": "Lướt mắt nhìn quanh một vòng, Tạ Thính Huyền mỉm cười giải thích:",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0057",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0057"
+      ],
+      "source": "“诸位道友，不用奇怪，这位李耀同学在组装每一件法宝时，都进行了一些小小的改装，他设计了一个小小的灵能回路，能够让每一件法宝在近距离上接受他的遥控，出现瞬间的灵能过载，导致灵力溢出，释放出一道小小的灵力波动。”",
+      "source_hash": "22360ca5246f00f4d0d6d68195e8585c68f61658067802dee42b159e966ef260",
+      "target": "“Chư vị đạo hữu không cần lấy làm lạ. Thí sinh Lý Diệu này lúc lắp ráp mỗi một món pháp bảo đều đã thực hiện một vài cải tiến nhỏ. Cậu ta thiết kế một mạch linh năng nhỏ bé, có thể điều khiển từ xa để khiến mỗi món pháp bảo ở cự ly gần bị quá tải linh năng tức thời, dẫn đến linh lực tràn ra ngoài, phát động một luồng chấn động linh lực nhỏ.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0059:align_0058",
+      "chapter_id": "chapter_0059",
+      "segment_ids": [
+        "chapter_0059:seg_0058"
+      ],
+      "source": "“这道波动很微弱，也没有太大杀伤力，充其量只能让使用者出现一两秒钟的麻痹而已。”",
+      "source_hash": "bcfb28aa82c71256c5685c31c399a2db582e953f0eec6581063ee14c495b3b2f",
+      "target": "“Luồng chấn động này rất yếu ớt, cũng không có sức sát thương gì lớn, cùng lắm chỉ khiến người sử dụng bị tê liệt trong khoảng một hai giây mà thôi.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    }
+  ],
+  "term_occurrences": [
+    {
+      "chapter_id": "chapter_0059",
+      "source_term": "噗叽兽",
+      "target_term": "thú Pút Kít",
+      "segment_id": "chapter_0059:seg_0044",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "beast",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0059",
+      "source_term": "谢听弦",
+      "target_term": "Tạ Thính Huyền",
+      "segment_id": "chapter_0059:seg_0016",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0059",
+      "source_term": "丁铃铛",
+      "target_term": "Đinh Linh Đang",
+      "segment_id": "chapter_0059:seg_0016",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0059",
+      "source_term": "魔蛟岛",
+      "target_term": "Đảo Ma Giao",
+      "segment_id": "chapter_0059:seg_0006",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0059",
+      "source_term": "链锯剑",
+      "target_term": "kiếm cưa xích",
+      "segment_id": "chapter_0059:seg_0040",
+      "present_in_target": false,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0059",
+      "source_term": "雷霆战刀",
+      "target_term": "Lôi Đình Chiến Đao",
+      "segment_id": "chapter_0059:seg_0040",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0059",
+      "source_term": "焚天",
+      "target_term": "Phần Thiên",
+      "segment_id": "chapter_0059:seg_0040",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    }
+  ],
+  "entity_mentions": [
+    {
+      "chapter_id": "chapter_0059",
+      "source_surface": "李耀",
+      "target_surface": "Lý Diệu",
+      "entity_type": "person",
+      "segment_id": "chapter_0059:seg_0002",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0059",
+      "source_surface": "谢听弦",
+      "target_surface": "Tạ Thính Huyền",
+      "entity_type": "person",
+      "segment_id": "chapter_0059:seg_0016",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0059",
+      "source_surface": "丁铃铛",
+      "target_surface": "Đinh Linh Đang",
+      "entity_type": "person",
+      "segment_id": "chapter_0059:seg_0016",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0059",
+      "source_surface": "高野",
+      "target_surface": "Cao Dã",
+      "entity_type": "person",
+      "segment_id": "chapter_0059:seg_0005",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0059",
+      "source_surface": "魔蛟岛",
+      "target_surface": "Đảo Ma Giao",
+      "entity_type": "locations",
+      "segment_id": "chapter_0059:seg_0006",
+      "confidence": 1.0
+    }
+  ],
+  "name_analysis": {
+    "status": "ok",
+    "evidence_count": 4,
+    "name_mentions": [
+      {
+        "chapter_id": "chapter_0059",
+        "name_source": "李耀",
+        "name_target": "Lý Diệu",
+        "segment_id": "chapter_0059:seg_0002",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0059",
+        "name_source": "谢听弦",
+        "name_target": "Tạ Thính Huyền",
+        "segment_id": "chapter_0059:seg_0016",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0059",
+        "name_source": "丁铃铛",
+        "name_target": "Đinh Linh Đang",
+        "segment_id": "chapter_0059:seg_0016",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0059",
+        "name_source": "高野",
+        "name_target": "Cao Dã",
+        "segment_id": "chapter_0059:seg_0005",
+        "present_in_target": true,
+        "confidence": 1.0
+      }
+    ],
+    "name_entries": [
+      {
+        "name_source": "李耀",
+        "name_target": "Lý Diệu"
+      },
+      {
+        "name_source": "谢听弦",
+        "name_target": "Tạ Thính Huyền"
+      },
+      {
+        "name_source": "丁铃铛",
+        "name_target": "Đinh Linh Đang"
+      },
+      {
+        "name_source": "高野",
+        "name_target": "Cao Dã"
+      }
+    ],
+    "transliteration_units": [],
+    "inferred_name_rules": [],
+    "ambiguity_cases": [],
+    "reusable_name_profile": {
+      "mapping_count": 4,
+      "has_ambiguity": false
+    }
+  },
+  "phrase_patterns": [],
+  "grammar_rule_candidates": [],
+  "analyzer_reports": {
+    "term_occurrences": {
+      "status": "ok",
+      "evidence_count": 7
+    },
+    "entity_mentions": {
+      "status": "ok",
+      "evidence_count": 5
+    },
+    "name_mentions": {
+      "status": "ok",
+      "evidence_count": 4
+    },
+    "phrase_patterns": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    },
+    "grammar_rule_candidates": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    }
+  },
+  "review_queue": [
+    {
+      "chapter_id": "chapter_0059",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "古怪",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "强！”\n\n“不对，有古怪，有古怪，三名蓝方选",
+          "\n“不对，有古怪，有古怪，三名蓝方选手的武器"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0059",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "方选手",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.82,
+        "evidence": [
+          "！”\n\n“咦，这名红方选手，好像就是在初赛中组",
+          "还一下子击杀了三名蓝方选手？他的实力这么强！”"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0059",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "成员大多来自一个学校和地区",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "组成了核心战斗单元，成员大多来自一个学校和地区，彼此熟悉，而且攻击"
+        ]
+      }
+    }
+  ],
+  "quality_audit": {
+    "segment_coverage": 1.0,
+    "source_hash_match": true,
+    "target_reconstruction_match": true,
+    "invalid_ref_count": 0,
+    "locked_term_hit_rate": 1.0,
+    "missing_locked_terms": [],
+    "cjk_residue_count": 0,
+    "paragraph_drift_ratio": 0.0,
+    "pronoun_consistency_score": 1.0,
+    "warnings": []
+  }
+}

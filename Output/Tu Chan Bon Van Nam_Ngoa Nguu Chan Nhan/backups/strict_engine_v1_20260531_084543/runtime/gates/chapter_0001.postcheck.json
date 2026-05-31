@@ -1,0 +1,11 @@
+{
+  "schema_version": "2.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 1,
+  "passed": false,
+  "errors": [
+    "CJK characters found in Vietnamese targets: 1"
+  ],
+  "warnings": [],
+  "generated_at": "2026-05-31T08:44:49.483804+07:00"
+}

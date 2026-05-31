@@ -1,0 +1,547 @@
+{
+  "chapter_title_translated": "Tớ Không Phải Là Cá Muối!",
+  "new_terms_discovered": [
+    {
+      "source": "放弃",
+      "target": "Từ Bỏ",
+      "category": "item",
+      "note": "Bộ đồ luyện công pháp bảo do Tôn Bưu chế luyện từ mười mấy năm trước, tạo ra trọng lực trường, giật điện và ảo ảnh nóng lạnh kích thích cơ thể, đồng thời tự cởi ra khi chủ nhân nói 'Cháu từ bỏ'."
+    }
+  ],
+  "new_characters_discovered": [],
+  "chapter_summary": "Tôn Bưu bắt Lý Diệu mặc bộ đồ luyện công cũ kỹ tên là 'Từ Bỏ'. Đây là pháp bảo rèn luyện nặng 200kg, có tính năng giật điện và tạo ảo giác nhiệt độ cực đoan. Lý Diệu gánh thêm tạ đòn 300kg (tổng cộng nửa tấn) kiên trì thực hiện xong tổ gánh tạ đầu tiên. Dù Tôn Bưu khuyên nên bỏ cuộc để tránh đau đớn, Lý Diệu nhớ lại quá khứ phi thường của mình, đeo tai nghe nhạc Âm Linh nghe nhạc Lục Âm Hi, rồi kiên cường đứng dậy tiếp tục tổ thứ hai với lời thề 'Tôi không phải cá muối, tôi quyết không từ bỏ'.",
+  "worldbuilding_updates": {
+    "factions": [],
+    "locations": [],
+    "techniques": [],
+    "items": [
+      {
+        "name_source": "放弃",
+        "name_target": "Từ Bỏ",
+        "type": "Pháp bảo huấn luyện / Giáp trọng lực",
+        "description": "Bộ đồ luyện công chuyên dụng do Tôn Bưu thiết kế cách đây hơn mười năm. Có ba thần thông: tạo ra trọng lực trường nặng 200kg, phóng điện kích thích các huyệt khiếu, và tạo ảo ảnh nhiệt độ cực nóng cực lạnh để rèn luyện tinh thần. Bộ đồ tự động tháo ra khi người mặc nói 'Cháu từ bỏ'."
+      }
+    ],
+    "cultivation_resources": []
+  },
+  "timeline_entry": {
+    "chapter": 31,
+    "title": "Tớ Không Phải Là Cá Muối!",
+    "summary": "Lý Diệu mặc bộ đồ giáp huấn luyện 'Từ Bỏ' nặng 200kg, lắp thêm 300kg tạ đòn chịu đựng các đòn tra tấn thể xác và tinh thần. Bất chấp khó khăn tột cùng, cậu kiên cường thực hiện tổ gánh tạ thứ hai mà không chịu nói lời từ bỏ.",
+    "characters": [
+      {
+        "name": "Lý Diệu",
+        "interaction": "Gánh chịu cực hình nửa tấn cùng dòng điện giật và ảo giác nóng lạnh từ bộ đồ luyện công 'Từ Bỏ', cự tuyệt bỏ cuộc và thề không làm cá muối",
+        "is_new": false
+      },
+      {
+        "name": "Tôn Bưu",
+        "interaction": "Chế giễu và thử thách Lý Diệu bằng bộ đồ pháp bảo 'Từ Bỏ', kinh ngạc khi thấy cậu kiên cường vượt qua tổ đầu tiên và tiếp tục tổ thứ hai",
+        "is_new": false
+      }
+    ],
+    "plot_points": [
+      "Tôn Bưu quăng cho Lý Diệu bộ đồ luyện công pháp bảo tên là 'Từ Bỏ'",
+      "Lý Diệu lắp thêm 300kg tạ đòn (tổng cộng 500kg) để tập gánh tạ sâu",
+      "Bộ đồ 'Từ Bỏ' giật điện và kích hoạt ảo giác nham thạch/băng giá hành hạ thần kinh Lý Diệu",
+      "Lý Diệu hoàn thành tổ gánh tạ đầu tiên trong tư thế hoàn hảo rồi kiệt sức nằm xuống",
+      "Tôn Bưu khuyên Lý Diệu nói 'Cháu từ bỏ' để giải thoát, nhưng Lý Diệu đeo Âm Linh nghe nhạc, từ chối làm cá muối và kiên cường bắt đầu tổ thứ hai"
+    ]
+  },
+  "aligned_segments": [
+    {
+      "seg_id": "seg_0001",
+      "source": "# 31.第31章 我不是咸鱼！",
+      "target": "# Chương 0031 - Tớ Không Phải Là Cá Muối!",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0002",
+      "source": "李耀心底暗叫一声“糟糕”，心说自己怎么能把四万年前古修宗门的残酷试炼拿出来当标准？\n要知道，在南柯一梦中，百炼宗每年都有数百名杂役因为承受不住折磨而命丧黄泉。",
+      "target": "Lý Diệu trong lòng thầm kêu lên một tiếng \"hỏng bét\", tự trách sao bản thân lại có thể lấy tiêu chuẩn thử thách tàn khốc của tông môn cổ tu bốn vạn năm trước ra làm thước đo cơ chứ?",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0003",
+      "source": "就这样，百炼宗已经算是名门正派里比较宽厚仁慈的了，换了严苛一些的宗派，每年死上几千个门人，根本都不叫事儿。\n至于魔门，更不用说，每一名强者的诞生，都伴随着数万弱者的牺牲。",
+      "target": "Phải biết rằng, ở trong giấc mộng Nam Kha, Bách Luyện Tông mỗi năm đều có hàng trăm tạp dịch bỏ mạng vì không chịu nổi sự dày vò hành hạ.",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0004",
+      "source": "古修时代，就是这么残忍。\n“呃，孙老师，我又仔细看了一下，你这套地狱式死亡特训果然非常地狱，非常死亡，非常恐怖啊，我好怕自己无法完成！”李耀言不由衷地说。",
+      "target": "Như thế vẫn là Bách Luyện Tông đã được coi như tương đối khoan hậu nhân từ trong các danh môn chính phái rồi, nếu đổi lại là những tông phái nghiêm ngặt hơn, mỗi năm chết vài ngàn môn nhân cũng chẳng tính là gì.",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0005",
+      "source": "孙彪人老成精，哪里会看不出李耀是在敷衍自己，心底勃然大怒，冷笑道：“好小子，别急着说大话，换上练功服，先做十组深蹲试试看？”\n孙彪站起身，从修炼场的角落里积满灰尘的地方，摸出一套款式十分老旧的修炼服，朝李耀丢过来。",
+      "target": "Còn về Ma môn thì càng không cần phải nói, sự ra đời của mỗi một cường giả đều đi kèm với sự hy sinh của hàng vạn kẻ yếu.",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0006",
+      "source": "“深蹲？我喜欢！”李耀活动了一下身体，脱下校服，换上了满是尘土气息的老旧修炼服，眼中放光，笑嘻嘻地说。",
+      "target": "Thời đại cổ tu chính là tàn nhẫn như vậy.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0007",
+      "source": "他现在怪力惊人，最不怕的就是深蹲、卧推之类的力量训练，待会儿全力以赴，一定叫老头子看得眼珠都凸出来！。\n走到锈迹斑斑的深蹲架前，想了想，从几乎锈成一团的杠铃片里，又拽出两片，狠狠砸进杠杆。",
+      "target": "\"Hơ, thầy Tôn, cháu vừa mới xem kỹ lại, bộ huấn luyện đặc biệt kiểu địa ngục tử vong này của thầy quả nhiên vô cùng địa ngục, vô cùng tử vong, vô cùng đáng sợ ạ, cháu rất sợ mình không hoàn thành được!\" Lý Diệu mở miệng nói một cách trái với lòng mình.",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0008",
+      "source": "深蹲重量——三百公斤！\n“两百公斤实在太少，根本起不到锻炼的作用，我平时都习惯用三百先热热身的，没关系吧，孙老师？”李耀冲着老头微微一笑，露出雪白的牙齿。",
+      "target": "Tôn Bưu gừng càng già càng cay, làm sao không nhìn ra Lý Diệu đang có ý lấy lệ với mình. Ông lão lập tức giận tím mặt, cười lạnh bảo: \"Nhóc con khá lắm, đừng vội nói khoác, thay đồ luyện công vào, trước hết làm mười tổ gánh tạ sâu thử xem?\"",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0009",
+      "source": "“当然可以，不过我怕你等会后悔啊。”孙彪也是一笑，露出黄褐色的牙齿。\n“只不过三百公斤，二十组都能一口气做下来，有什么可后悔的？”李耀冲掌心啐了一口唾沫，双掌摩擦，热得发烫，死死攥住杠杆，扛在坚实的背肌上，双足骤然发力，往上一提，然后——",
+      "target": "Tôn Bưu đứng dậy, từ trong góc bãi tập phủ đầy bụi bặm mò ra một bộ quần áo luyện công có kiểu dáng vô cùng lỗi thời rồi quăng về phía Lý Diệu.",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0010",
+      "source": "就感觉浑身一紧，原本宽松的练功服好似拥有生命，骤然收缩，化作一层坚韧的牛皮，把他完全裹住！\n与此同时，一股绝强怪力骤然轰落，好似一座大山劈头盖脑砸了下来，一下子把他砸趴下！",
+      "target": "\"Gánh tạ sâu? Cháu thích môn này đấy!\" Lý Diệu khởi động cơ thể, cởi bỏ bộ đồng phục học sinh rồi tròng bộ đồ luyện công cũ kỹ nồng nặc mùi bụi bặm vào, hai mắt sáng lên cười hì hì nói.",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0011",
+      "source": "“忘记告诉你了，小家伙，这件修炼服是我在十几年前专门炼制的法宝，叫做‘放弃’，拥有诸多神通，第一呢，就是能产生重力场，你穿上这件衣服，就好像穿上了一件几百斤重的铠甲，我看看，现在你身上的负重，有两百公斤！”孙彪狞笑道。\n两百公斤重量，加上杠铃本身的三百公斤，就是足足半吨，李耀猝不及防之下，当然是被压得死死的。",
+      "target": "Hiện giờ sức khỏe của cậu mạnh đến mức kinh người, thứ cậu không sợ nhất chính là các bài tập luyện thể lực kiểu gánh tạ sâu hay đẩy ngực nằm. Lát nữa cậu sẽ dốc hết toàn lực làm cho lão già này trợn tròn mắt ra xem!",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0012",
+      "source": "“好卑鄙，不过，五，五百公斤也没什么了不起！”\n李耀被压得眼冒金星，他死死咬紧牙关，双手硬撑，手臂上粗壮如蛇的青筋毕露，周身骨骼“咔咔”乱响，硬生生直起腰杆，重新攥住杠铃，双腿分开，腰胯下沉，又稳稳站起。",
+      "target": "Đi tới trước giá gánh tạ sâu rỉ sét loang lổ, cậu ngẫm nghĩ một chút rồi lôi thêm hai tấm tạ đòn từ trong đống tạ gần như đã rỉ thành một khối ra lắp mạnh vào thanh đòn.",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0013",
+      "source": "一个标准的深蹲动作，完成！\n总负重，五百公斤！",
+      "target": "Trọng lượng gánh tạ sâu — ba trăm kg!",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0014",
+      "source": "“在南柯一梦中，我可是被‘巨灵神’折磨了好几十年，他的手段可比你这个死老头子更狠辣百倍，这样就想难住我，简直做梦！”李耀心中嘶吼，再度深深蹲下，准备进行第二次深蹲。",
+      "target": "\"Hai trăm kg thì ít quá, căn bản không có tác dụng tập luyện gì cả. Bình thường cháu toàn dùng ba trăm kg để khởi động thôi, không sao chứ hả thầy Tôn?\" Lý Diệu cười với ông lão, để lộ hàm răng trắng muốt.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0015",
+      "source": "忽然，就像是一道闪电直接劈进灵魂，李耀感觉周身七百二十个穴窍，同时涌入强大电流，电得他头发炸开，眼珠发白，惨叫一声，再次躺倒在地，杠铃重重撞击在深蹲机上，发出“咣当”一声，铁锈乱爆，尘土飞扬。",
+      "target": "\"Được chứ, nhưng ta chỉ sợ lát nữa ngươi hối hận thôi.\" Tôn Bưu cũng nở nụ cười, để lộ hàm răng màu vàng nâu.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0016",
+      "source": "“这件‘放弃’的第二种神通呢，就是会释放出强大电流，短则三五秒一次，长则一两分钟一次，轰击你的周身穴窍，刺激你的细胞强化，帮你洗髓伐筋，脱胎换骨，啧啧啧啧，这可是一般人梦寐以求的修炼至宝，只不过会有一点‘小小痛苦’，你还熬得住吧？”孙彪继续笑眯眯地问。",
+      "target": "Cậu bỗng thấy toàn thân thắt chặt lại. Bộ đồ luyện công vốn dĩ rộng rãi bỗng nhiên như thể có sự sống, đột ngột co rút biến thành một lớp da bò dẻo dai bó chặt lấy toàn thân cậu!",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0017",
+      "source": "“开，开玩笑，当，当然熬得住！”李耀嘴唇咬得稀烂，趴在地上喘了好半天气，才艰难地爬起来，右手颤颤巍巍，无比艰难地向杠铃摸去。\n指尖还未触及到杠铃，无比强烈的痛苦再度袭来，这一次不是电流强袭，而是极端的炎热！",
+      "target": "Cùng lúc đó, một luồng quái lực cực mạnh bất ngờ giáng xuống tựa như một ngọn núi lớn đập thẳng vào đầu cậu, ngay lập tức đè cậu nằm bẹp xuống đất!",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0018",
+      "source": "就像是整个人都被丢进了火山口，在灼热无比的岩浆中挣扎，皮肤都被烧化，血管里奔流的是沸腾的铁水！\n而下一秒钟，灼热感骤然消失，取而代之的是冻彻骨髓的寒意，似乎连脑浆都冻成一坨冰块，完全无法呼吸和思想！",
+      "target": "Hai trăm kg trọng lượng đè nặng của bộ giáp cộng thêm ba trăm kg tạ đòn, tổng cộng là tròn nửa tấn. Lý Diệu bất ngờ không kịp chuẩn bị nên đương nhiên bị đè chặt cứng xuống đất.",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0019",
+      "source": "极端炙热和极端寒冷的感觉反复交替了三次才逐渐消失，还不得李耀惨叫出声，电流又一次轰\\*\\*窍，撕裂身体，令他不可遏制地抽搐起来！",
+      "target": "\"Hèn hạ thật, nhưng mà năm... năm trăm kg cũng chẳng có gì ghê gớm cả!\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0020",
+      "source": "“这件‘放弃’的最后一种神通，就是每隔一分钟，都会产生极端炙热和寒冷的幻象攻击，放心，这是针对脑域最深处的精神秘法，都是虚幻，不会对身体造成一丝一毫伤害，反而能淬炼精神力量，开拓脑域深度，有朝一日成为修真者，也能吸纳更多灵能，修炼速度都比别人快上许多。”",
+      "target": "\"Đùa... Đùa gì thế, dĩ... Dĩ nhiên chịu được!\" Lý Diệu cắn rách cả môi, nằm rạp trên mặt đất thở hổn hển hồi lâu mới chật vật bò dậy, tay phải run lẩy bẩy mò về phía thanh tạ đòn.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0021",
+      "source": "看李耀疼得满地打滚的样子，老头子脸上闪过一丝失望，随即自嘲地笑了笑，打了个哈欠，懒洋洋道：“好啦，玩够了，脱下来吧，这件衣服不是为你准备的，只要你说‘我放弃’三个字，它就会自动离体，不再折磨你了。”\n“放弃？”",
+      "target": "Đầu ngón tay còn chưa chạm tới thanh đòn, một cơn đau đớn dữ dội mãnh liệt lại ập đến. Lần này không phải dòng điện kích thích mà là cái nóng cực độ!",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0022",
+      "source": "李耀在地上躺了半天，呼哧呼哧，喘得像是一条搁浅在岸边的鲸鱼。\n终于，他像是一具生锈的金属傀儡，一寸一寸地站起来，万分艰难地将杠铃扛到肩膀上，硬生生扛着两百公斤负重、电流强袭和极度炎寒的精神攻击，轰出了第二次深蹲！",
+      "target": "Cực nóng và cực lạnh lặp đi lặp lại luân phiên ba lần mới dần dần biến mất. Chưa đợi Lý Diệu kịp thốt lên tiếng kêu thảm thiết, dòng điện lại một lần nữa oanh kích thẳng vào các huyệt khiếu, xé rách cơ thể khiến cậu không thể kiềm chế được mà co giật liên hồi!",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0023",
+      "source": "“两个了！”李耀喉咙深处，发出野兽般的嚎叫。\n那是在法宝坟墓深处，时常回荡的战吼。",
+      "target": "\"Từ bỏ?\" Lý Diệu nằm trên đất nửa ngày, thở phì phò như một con cá voi bị mắc cạn trên bờ.",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0024",
+      "source": "孙彪“咦”了一声，眼底闪过一丝惊愕，随即冷笑：“才两个而已，一组深蹲可是有整整十个啊！”\n“三……三个！”李耀咬牙，空旷的修炼室里满是钢铁碰撞、铁锈摩擦的声音！",
+      "target": "\"Ba... ba cái!\" Lý Diệu nghiến răng ken két, trong phòng luyện tập trống trải vang lên toàn tiếng va chạm của sắt thép và tiếng ma sát của rỉ sắt! Bốn cái! Năm cái! Sáu cái! Bảy cái! Bảy cái! Tám cái! Chín cái! Mười cái!",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0025",
+      "source": "四个！五个！六个！七个！八个！九个！十个！\n整整十次深蹲，李耀穿着这件诡异的“放弃”，耗尽最后一丝力量，轰出了整整十次姿势标准，一丝不苟的深蹲！",
+      "target": "Tròn mười lần gánh tạ sâu, Lý Diệu mặc bộ đồ luyện công kỳ quái mang tên \"Từ Bỏ\" này, vắt kiệt chút lực lượng cuối cùng để hoàn thành trọn vẹn mười lần gánh tạ sâu với tư thế vô cùng chuẩn mực, không một chút sai lệch!",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0026",
+      "source": "“我，我成功了！”李耀头昏眼花，双耳鸣响，周身血液一次次向大脑狂涌，心脏跳动无比剧烈，似乎要撕裂胸膛，蹦跳出来。\n顾不上做恢复动作，他四仰八叉倒在深蹲架下，直愣愣看着天花板上刺眼的晶能灯光，感觉自己连一根小指头都控制不住了。",
+      "target": "Bóng dáng Tôn Bưu xuất hiện trong tầm mắt cậu, trên khuôn mặt không giấu nổi sự kinh ngạc khôn tả. Giọng nói của ông lão có chút run rẩy: \"Nhóc con, ngươi không sao chứ?\"",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0027",
+      "source": "孙彪的身影出现在他的视野中，脸上是遮掩不住的惊讶，老头子的声音有些发颤：“小子，你没事吧？”\n“我，我没事，稍微休息一下，后面还有……九组呢！”李耀的嘴角勾起，笑得比哭还难看。",
+      "target": "Ánh mắt Lý Diệu vượt qua Tôn Bưu, một lần nữa ngước nhìn luồng ánh sáng rực rỡ trên trần nhà. Dưới sự phản chiếu của nước mắt và mồ hôi, luồng sáng đó trở nên vô cùng lộng lẫy chói lọi. Cậu bỗng nhiên hiểu ra tại sao bộ pháp bảo này lại có tên là \"Từ Bỏ\".",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0028",
+      "source": "孙彪沉默片刻，摇头道：“小子，放弃吧，我刚才已经说过，这件衣服不是为普通人准备的，你不可能穿着它，完成十组深蹲——后面还有整整九十次呢！来吧，说‘我放弃’，把衣服脱下来。”",
+      "target": "Bởi vì thần thông lớn nhất của nó không phải là tạo ra trọng lực trường mấy trăm cân, cũng không phải dòng điện giật mạnh, càng không phải ảo ảnh tinh thần cực nóng cực lạnh.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0029",
+      "source": "李耀的目光越过孙彪，再次凝聚在天花板上耀眼的灯光上。\n在眼泪和汗水的折射下，那光芒变得无比璀璨。",
+      "target": "Mà chính là ba chữ vô cùng đơn giản, bình thường và dễ dàng — \"Cháu từ bỏ\".",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0030",
+      "source": "他忽然意识到，为什么这件法宝的名字是“放弃”。",
+      "target": "Cậu có muốn từ bỏ không?",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0031",
+      "source": "因为，它最大的神通，既不是产生几百公斤的重力场，也不是强烈的电流袭击，更不是极端炙热或者寒冷的精神幻象。",
+      "target": "Tổ gánh tạ sâu đầu tiên đã vắt kiệt toàn bộ sức lực của cậu, từng bó cơ, từng mạch máu, từng tế bào đều bị ép khô, cậu cảm thấy bản thân đến lực đi tiểu cũng không còn nữa.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0032",
+      "source": "而是，简简单单，普普通通，轻而易举的——“我放弃”三个字。",
+      "target": "\"Cháu... từ...\" Nhìn vầng hào quang rực rỡ trên trần nhà, Lý Diệu khẽ thốt ra từng chữ một.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0033",
+      "source": "只要上下嘴皮一碰，用最轻最轻的声音，说出“我、放、弃”三个字，就能脱下这件修炼服，逃脱负重、电流和精神幻象的非人折磨，并且——",
+      "target": "Thế nhưng trong vầng hào quang rực rỡ đó, bỗng nhiên hiện ra một loạt ký ức hoa cả mắt.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0034",
+      "source": "永远失去，再穿上这件衣服的勇气。\n他，要放弃吗？",
+      "target": "\"Bộ đồ này không phải dành cho người thường.\" Tôn Bưu đã bảo thế.",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0035",
+      "source": "第一组深蹲，已经耗尽了全身力气，每一束肌肉，每一条血管，每一个细胞都被榨干，他感觉自己连撒尿的力气都没有了。",
+      "target": "\"Nhưng mình có phải là người thường không?\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0036",
+      "source": "后面还有九组，整整九十个深蹲，他要在两百公斤负重、电流强袭、精神幻象攻击的重重侵袭之下，扛着三百公斤重的杠铃，不断蹲下、站起、挺直腰杆。\n整整九十次。",
+      "target": "\"Người thường làm sao có thể vừa sinh ra đã mang theo ký ức kiếp trước, còn nhớ rõ những chuyện vụn vặt ở một nơi gọi là 'Trái Đất' cơ chứ?\"",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0037",
+      "source": "根本做不到吧？就算咬紧牙关，使出吃奶的力气，拼命完成了两组，三组，也会在第四组、第五组、第六组第七组第八组的时候彻底崩溃，说出“我放弃”三个字吧？\n既然如此，为什么不现在就放弃呢？",
+      "target": "\"Người thường cũng không thể nào sống sót dưới đòn đoạt xá của cường giả giới tu chân bốn vạn năm trước là Âu Dã Tử, còn nuốt ngược lại ký ức của Âu Dã Tử đúng không?\"",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0038",
+      "source": "很简单，只要上下嘴皮一碰，声带轻轻一颤，嘴巴微微张开，我、放、弃，半秒钟之后，就轻松了，就解脱了。\n“我……放……”看着天花板上璀璨的光芒，李耀一个字一个字的，轻声说道。",
+      "target": "\"Hai việc này bất kể việc nào xảy ra trên người một ai đó thì kẻ đó cũng không thể xem là 'người thường' được nữa. Vậy mà trên người mình lại xảy ra liên tiếp cả hai lần!\"",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0039",
+      "source": "但是在那璀璨的光芒里，忽然浮现出一连串眼花缭乱的记忆。\n“这件衣服，不是为普通人准备的。”孙彪是这么说的。",
+      "target": "\"Thế rồi mình lại phải ở chỗ này, trước mặt bộ đồ luyện công không dành cho 'người thường' này — từ bỏ sao?\"",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0040",
+      "source": "“但我，是普通人吗？”\n“普通人，恐怕不会一出生就带着上辈子的记忆，还记得什么乱七八糟‘地球’上的事情吧？”",
+      "target": "Ánh mắt Lý Diệu bỗng thu hồi khỏi ánh đèn, co rút lại tận sâu trong đồng tử biến thành những đốm sáng nhỏ như đầu kim.",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0041",
+      "source": "“普通人，也不可能在四万年前修真界强者欧冶子的夺舍攻击下幸存，还反过来吞噬了欧冶子的记忆吧？”",
+      "target": "\"Thầy Tôn — cháu có thể nghe nhạc được không?\" Cậu đột nhiên khẽ hỏi.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0042",
+      "source": "“这两件事，无论哪一件发生在一个人身上，这家伙都算不上是‘普通人’了，而在我身上，居然连续发生了两次！”\n“然后，我就要在这里，在这件不是为‘普通人’准备的练功服面前——放弃吗？”",
+      "target": "\"Nghe nhạc?\" Tôn Bưu không ngờ Lý Diệu lại đột nhiên hỏi câu này, đờ người ra hồi lâu mới bảo: \"Tùy ngươi.\"",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0043",
+      "source": "李耀的视线忽然从灯光上抽回，收缩到瞳孔最深处，变成了针尖大小的星芒。",
+      "target": "\"Được rồi, cho cháu thêm nửa phút.\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0044",
+      "source": "“孙老师——我能听歌吗？”他忽然轻声说道。\n“听歌？”孙彪没想到李耀会忽然提出这样一个问题，愣了小半天才道，“随便。”",
+      "target": "Lý Diệu cười nhẹ một tiếng nhắm hai mắt lại, nhét món pháp bảo mini \"Âm Linh\" do Diệu Âm Tông chế luyện vào lỗ tai. Giọng ca cao vút xé toạc bầu trời như muốn xuyên qua cả dải ngân hà của Lục Âm Hi lập tức vang vọng dồn dập trong linh hồn cậu:",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0045",
+      "source": "“好，再给我半分钟。”\n李耀微微一笑，闭上双眼，将妙音宗炼制的微型法宝“音铃”塞进耳孔。",
+      "target": "\"Cứ đi theo những con sóng dữ dội gập ghềnh dũng mãnh tiến lên phía trước!\"",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0046",
+      "source": "陆音希高亢至极，仿佛能贯穿整条银河的铁嗓，立刻在他的灵魂深处震荡：\n“跟随着惊涛骇浪跌跌撞撞奋力向前冲！”",
+      "target": "\"Sấm sét vạn quân lòng ta không sợ hãi tia chớp sẽ soi sáng con đường phía trước!\"",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0047",
+      "source": "“雷霆万钧我心无惧闪电将会把前路照亮！”\n“我和你们都不一样！”",
+      "target": "\"Tôi và các người đều không giống nhau!\"",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0048",
+      "source": "李耀猛地睁开双眼。\n他眼中针尖大小的星芒已经消失不见了，或者说——他的双眼满是星芒！",
+      "target": "Lý Diệu đột ngột mở bừng mắt.",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0049",
+      "source": "然后，他说了一句令孙彪大惑不解的话：“我，不是咸鱼……”\n“你说什么？”孙彪还以为自己听错了，什么咸鱼？",
+      "target": "Những đốm sáng nhỏ như đầu kim trong mắt cậu đã biến mất, hoặc có thể nói là — hai mắt cậu tràn ngập ánh sao lấp lánh!",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0050",
+      "source": "在狂暴的音乐轰击下，李耀没有听到老头子的提问，他完全沉浸在自己的世界之中，小声呢喃着：“或许咸鱼也曾有过梦想，却因为各种各样的原因放弃了，干涸了，枯萎了，渐渐的，就变成了咸鱼，变成了一个个‘普通人’。”",
+      "target": "Sau đó, cậu thốt ra một câu khiến Tôn Bưu vô cùng hoang mang khó hiểu: \"Tôi... không phải là cá muối...\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0051",
+      "source": "“但我，不是咸鱼，我——决不放弃！”\n李耀站了起来，肩上有三百公斤重量，浑身冒着电流，脑域深处有呼啸的寒风和肆虐的岩浆。",
+      "target": "\"Ngươi nói cái gì cơ?\" Tôn Bưu cứ ngỡ tai mình nghe nhầm, cá muối gì ở đây?",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0052",
+      "source": "但他还是一把攥住了杠铃，力气很大，连最坚固的钢铁都在他的掌心“吱吱”作响。",
+      "target": "\"Tổ gánh tạ thứ hai, bắt đầu!\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0053",
+      "source": "“第二组深蹲，开始！”\n尘封多年的修炼场里，再一次回荡起了惊涛骇浪般的咆哮，翻滚着激情澎湃的热浪！",
+      "target": "Trong phòng tập bám bụi suốt nhiều năm qua lại một lần nữa vang vọng tiếng gầm thét như sóng xô bão táp, cuộn trào những luồng nhiệt lượng ngập tràn nhiệt huyết cuồng nhiệt!",
+      "alignment_type": "many-to-1",
+      "narrative_type": "narration"
+    }
+  ],
+  "term_occurrences": [
+    {
+      "source_term": "百炼宗",
+      "target_term": "Bách Luyện Tông",
+      "seg_id": "seg_0003",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "faction"
+    },
+    {
+      "source_term": "孙老",
+      "target_term": "Tôn lão",
+      "seg_id": "seg_0007",
+      "is_locked": false,
+      "present_in_target": false,
+      "category": "character"
+    },
+    {
+      "source_term": "孙彪",
+      "target_term": "Tôn Bưu",
+      "seg_id": "seg_0009",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "character"
+    },
+    {
+      "source_term": "放弃",
+      "target_term": "Từ Bỏ",
+      "seg_id": "seg_0027",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "item"
+    },
+    {
+      "source_term": "巨灵神",
+      "target_term": "Cự Linh Thần",
+      "seg_id": "seg_0035",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "character"
+    },
+    {
+      "source_term": "法宝坟墓",
+      "target_term": "Nghĩa địa Pháp Bảo",
+      "seg_id": "seg_0056",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "location"
+    },
+    {
+      "source_term": "夺舍",
+      "target_term": "đoạt xá",
+      "seg_id": "seg_0110",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "general"
+    },
+    {
+      "source_term": "音铃",
+      "target_term": "Âm Linh",
+      "seg_id": "seg_0124",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "item"
+    },
+    {
+      "source_term": "妙音宗",
+      "target_term": "Diệu Âm Tông",
+      "seg_id": "seg_0124",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "faction"
+    },
+    {
+      "source_term": "陆音希",
+      "target_term": "Lục Âm Hi",
+      "seg_id": "seg_0125",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "character"
+    }
+  ],
+  "entity_mentions": [
+    {
+      "source_surface": "李耀",
+      "target_surface": "Lý Diệu",
+      "entity_type": "person",
+      "seg_id": "seg_0002",
+      "confidence": 1.0
+    },
+    {
+      "source_surface": "孙彪",
+      "target_surface": "Tôn Bưu",
+      "entity_type": "person",
+      "seg_id": "seg_0009",
+      "confidence": 1.0
+    },
+    {
+      "source_surface": "巨灵神",
+      "target_surface": "Cự Linh Thần",
+      "entity_type": "person",
+      "seg_id": "seg_0035",
+      "confidence": 1.0
+    },
+    {
+      "source_surface": "陆音希",
+      "target_surface": "Lục Âm Hi",
+      "entity_type": "person",
+      "seg_id": "seg_0125",
+      "confidence": 1.0
+    }
+  ],
+  "phrase_patterns": [],
+  "grammar_rule_candidates": [],
+  "quality_audit": {
+    "segment_coverage": 1.0,
+    "locked_term_hit_rate": 1.0,
+    "cjk_residue_count": 0,
+    "paragraph_drift_ratio": 0.531,
+    "pronoun_consistency_score": 1.0,
+    "warnings": []
+  },
+  "translated_text": "# Chương 0031 - Tớ Không Phải Là Cá Muối!\n\nLý Diệu trong lòng thầm kêu lên một tiếng \"hỏng bét\", tự trách sao bản thân lại có thể lấy tiêu chuẩn thử thách tàn khốc của tông môn cổ tu bốn vạn năm trước ra làm thước đo cơ chứ?\n\nPhải biết rằng, ở trong giấc mộng Nam Kha, Bách Luyện Tông mỗi năm đều có hàng trăm tạp dịch bỏ mạng vì không chịu nổi sự dày vò hành hạ.\n\nNhư thế vẫn là Bách Luyện Tông đã được coi như tương đối khoan hậu nhân từ trong các danh môn chính phái rồi, nếu đổi lại là những tông phái nghiêm ngặt hơn, mỗi năm chết vài ngàn môn nhân cũng chẳng tính là gì.\n\nCòn về Ma môn thì càng không cần phải nói, sự ra đời của mỗi một cường giả đều đi kèm với sự hy sinh của hàng vạn kẻ yếu.\n\nThời đại cổ tu chính là tàn nhẫn như vậy.\n\n\"Hơ, thầy Tôn, cháu vừa mới xem kỹ lại, bộ huấn luyện đặc biệt kiểu địa ngục tử vong này của thầy quả nhiên vô cùng địa ngục, vô cùng tử vong, vô cùng đáng sợ ạ, cháu rất sợ mình không hoàn thành được!\" Lý Diệu mở miệng nói một cách trái với lòng mình.\n\nTôn Bưu gừng càng già càng cay, làm sao không nhìn ra Lý Diệu đang có ý lấy lệ với mình. Ông lão lập tức giận tím mặt, cười lạnh bảo: \"Nhóc con khá lắm, đừng vội nói khoác, thay đồ luyện công vào, trước hết làm mười tổ gánh tạ sâu thử xem?\"\n\nTôn Bưu đứng dậy, từ trong góc bãi tập phủ đầy bụi bặm mò ra một bộ quần áo luyện công có kiểu dáng vô cùng lỗi thời rồi quăng về phía Lý Diệu.\n\n\"Gánh tạ sâu? Cháu thích môn này đấy!\" Lý Diệu khởi động cơ thể, cởi bỏ bộ đồng phục học sinh rồi tròng bộ đồ luyện công cũ kỹ nồng nặc mùi bụi bặm vào, hai mắt sáng lên cười hì hì nói.\n\nHiện giờ sức khỏe của cậu mạnh đến mức kinh người, thứ cậu không sợ nhất chính là các bài tập luyện thể lực kiểu gánh tạ sâu hay đẩy ngực nằm. Lát nữa cậu sẽ dốc hết toàn lực làm cho lão già này trợn tròn mắt ra xem!\n\nĐi tới trước giá gánh tạ sâu rỉ sét loang lổ, cậu ngẫm nghĩ một chút rồi lôi thêm hai tấm tạ đòn từ trong đống tạ gần như đã rỉ thành một khối ra lắp mạnh vào thanh đòn.\n\nTrọng lượng gánh tạ sâu — ba trăm kg!\n\n\"Hai trăm kg thì ít quá, căn bản không có tác dụng tập luyện gì cả. Bình thường cháu toàn dùng ba trăm kg để khởi động thôi, không sao chứ hả thầy Tôn?\" Lý Diệu cười với ông lão, để lộ hàm răng trắng muốt.\n\n\"Được chứ, nhưng ta chỉ sợ lát nữa ngươi hối hận thôi.\" Tôn Bưu cũng nở nụ cười, để lộ hàm răng màu vàng nâu.\n\nCậu bỗng thấy toàn thân thắt chặt lại. Bộ đồ luyện công vốn dĩ rộng rãi bỗng nhiên như thể có sự sống, đột ngột co rút biến thành một lớp da bò dẻo dai bó chặt lấy toàn thân cậu!\n\nCùng lúc đó, một luồng quái lực cực mạnh bất ngờ giáng xuống tựa như một ngọn núi lớn đập thẳng vào đầu cậu, ngay lập tức đè cậu nằm bẹp xuống đất!\n\nHai trăm kg trọng lượng đè nặng của bộ giáp cộng thêm ba trăm kg tạ đòn, tổng cộng là tròn nửa tấn. Lý Diệu bất ngờ không kịp chuẩn bị nên đương nhiên bị đè chặt cứng xuống đất.\n\n\"Hèn hạ thật, nhưng mà năm... năm trăm kg cũng chẳng có gì ghê gớm cả!\"\n\n\"Đùa... Đùa gì thế, dĩ... Dĩ nhiên chịu được!\" Lý Diệu cắn rách cả môi, nằm rạp trên mặt đất thở hổn hển hồi lâu mới chật vật bò dậy, tay phải run lẩy bẩy mò về phía thanh tạ đòn.\n\nĐầu ngón tay còn chưa chạm tới thanh đòn, một cơn đau đớn dữ dội mãnh liệt lại ập đến. Lần này không phải dòng điện kích thích mà là cái nóng cực độ!\n\nCực nóng và cực lạnh lặp đi lặp lại luân phiên ba lần mới dần dần biến mất. Chưa đợi Lý Diệu kịp thốt lên tiếng kêu thảm thiết, dòng điện lại một lần nữa oanh kích thẳng vào các huyệt khiếu, xé rách cơ thể khiến cậu không thể kiềm chế được mà co giật liên hồi!\n\n\"Từ bỏ?\" Lý Diệu nằm trên đất nửa ngày, thở phì phò như một con cá voi bị mắc cạn trên bờ.\n\n\"Ba... ba cái!\" Lý Diệu nghiến răng ken két, trong phòng luyện tập trống trải vang lên toàn tiếng va chạm của sắt thép và tiếng ma sát của rỉ sắt! Bốn cái! Năm cái! Sáu cái! Bảy cái! Bảy cái! Tám cái! Chín cái! Mười cái!\n\nTròn mười lần gánh tạ sâu, Lý Diệu mặc bộ đồ luyện công kỳ quái mang tên \"Từ Bỏ\" này, vắt kiệt chút lực lượng cuối cùng để hoàn thành trọn vẹn mười lần gánh tạ sâu với tư thế vô cùng chuẩn mực, không một chút sai lệch!\n\nBóng dáng Tôn Bưu xuất hiện trong tầm mắt cậu, trên khuôn mặt không giấu nổi sự kinh ngạc khôn tả. Giọng nói của ông lão có chút run rẩy: \"Nhóc con, ngươi không sao chứ?\"\n\nÁnh mắt Lý Diệu vượt qua Tôn Bưu, một lần nữa ngước nhìn luồng ánh sáng rực rỡ trên trần nhà. Dưới sự phản chiếu của nước mắt và mồ hôi, luồng sáng đó trở nên vô cùng lộng lẫy chói lọi. Cậu bỗng nhiên hiểu ra tại sao bộ pháp bảo này lại có tên là \"Từ Bỏ\".\n\nBởi vì thần thông lớn nhất của nó không phải là tạo ra trọng lực trường mấy trăm cân, cũng không phải dòng điện giật mạnh, càng không phải ảo ảnh tinh thần cực nóng cực lạnh.\n\nMà chính là ba chữ vô cùng đơn giản, bình thường và dễ dàng — \"Cháu từ bỏ\".\n\nCậu có muốn từ bỏ không?\n\nTổ gánh tạ sâu đầu tiên đã vắt kiệt toàn bộ sức lực của cậu, từng bó cơ, từng mạch máu, từng tế bào đều bị ép khô, cậu cảm thấy bản thân đến lực đi tiểu cũng không còn nữa.\n\n\"Cháu... từ...\" Nhìn vầng hào quang rực rỡ trên trần nhà, Lý Diệu khẽ thốt ra từng chữ một.\n\nThế nhưng trong vầng hào quang rực rỡ đó, bỗng nhiên hiện ra một loạt ký ức hoa cả mắt.\n\n\"Bộ đồ này không phải dành cho người thường.\" Tôn Bưu đã bảo thế.\n\n\"Nhưng mình có phải là người thường không?\"\n\n\"Người thường làm sao có thể vừa sinh ra đã mang theo ký ức kiếp trước, còn nhớ rõ những chuyện vụn vặt ở một nơi gọi là 'Trái Đất' cơ chứ?\"\n\n\"Người thường cũng không thể nào sống sót dưới đòn đoạt xá của cường giả giới tu chân bốn vạn năm trước là Âu Dã Tử, còn nuốt ngược lại ký ức của Âu Dã Tử đúng không?\"\n\n\"Hai việc này bất kể việc nào xảy ra trên người một ai đó thì kẻ đó cũng không thể xem là 'người thường' được nữa. Vậy mà trên người mình lại xảy ra liên tiếp cả hai lần!\"\n\n\"Thế rồi mình lại phải ở chỗ này, trước mặt bộ đồ luyện công không dành cho 'người thường' này — từ bỏ sao?\"\n\nÁnh mắt Lý Diệu bỗng thu hồi khỏi ánh đèn, co rút lại tận sâu trong đồng tử biến thành những đốm sáng nhỏ như đầu kim.\n\n\"Thầy Tôn — cháu có thể nghe nhạc được không?\" Cậu đột nhiên khẽ hỏi.\n\n\"Nghe nhạc?\" Tôn Bưu không ngờ Lý Diệu lại đột nhiên hỏi câu này, đờ người ra hồi lâu mới bảo: \"Tùy ngươi.\"\n\n\"Được rồi, cho cháu thêm nửa phút.\"\n\nLý Diệu cười nhẹ một tiếng nhắm hai mắt lại, nhét món pháp bảo mini \"Âm Linh\" do Diệu Âm Tông chế luyện vào lỗ tai. Giọng ca cao vút xé toạc bầu trời như muốn xuyên qua cả dải ngân hà của Lục Âm Hi lập tức vang vọng dồn dập trong linh hồn cậu:\n\n\"Cứ đi theo những con sóng dữ dội gập ghềnh dũng mãnh tiến lên phía trước!\"\n\n\"Sấm sét vạn quân lòng ta không sợ hãi tia chớp sẽ soi sáng con đường phía trước!\"\n\n\"Tôi và các người đều không giống nhau!\"\n\nLý Diệu đột ngột mở bừng mắt.\n\nNhững đốm sáng nhỏ như đầu kim trong mắt cậu đã biến mất, hoặc có thể nói là — hai mắt cậu tràn ngập ánh sao lấp lánh!\n\nSau đó, cậu thốt ra một câu khiến Tôn Bưu vô cùng hoang mang khó hiểu: \"Tôi... không phải là cá muối...\"\n\n\"Ngươi nói cái gì cơ?\" Tôn Bưu cứ ngỡ tai mình nghe nhầm, cá muối gì ở đây?\n\n\"Tổ gánh tạ thứ hai, bắt đầu!\"\n\nTrong phòng tập bám bụi suốt nhiều năm qua lại một lần nữa vang vọng tiếng gầm thét như sóng xô bão táp, cuộn trào những luồng nhiệt lượng ngập tràn nhiệt huyết cuồng nhiệt!"
+}

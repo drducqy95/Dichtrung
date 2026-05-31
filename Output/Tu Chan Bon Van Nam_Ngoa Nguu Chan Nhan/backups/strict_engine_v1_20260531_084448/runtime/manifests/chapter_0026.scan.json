@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 26,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan\\0026 - 26.第26章 来了更狠的.md",
+  "source_char_count": 2208,
+  "characters": [
+    {
+      "source": "时候",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "这样的，我出拳发劲的时候，总感觉有些不对，不",
+        "尾炎真是发作得太不是时候，哎呦，好痛，好痛，"
+      ]
+    },
+    {
+      "source": "李耀",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "堕梦幻的眼神死死盯着李耀，仿佛他是披着一张人",
+        "号体育馆。\n\n“谁是李耀？滚出来！”"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "source": "整张脸挤成一团",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "眼珠子一转，一咬牙，整张脸挤成一团，庞大的身躯都开始颤"
+      ]
+    },
+    {
+      "source": "绝对会",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "自己身上的画面。\n\n绝对会……被打死的！\n\n“"
+      ]
+    }
+  ],
+  "locations": [],
+  "realms": [],
+  "techniques": [
+    "可是我出拳",
+    "就感觉肚子一阵",
+    "我出拳",
+    "按照武技老师的说法",
+    "满是刚才那三十多拳",
+    "灵蛇步法",
+    "现死党小腹上的鞋印",
+    "研究拳法",
+    "竟是施展了什么仙法",
+    "要找时间和我研究拳",
+    "铁兽要和你研究拳法",
+    "额头再度冒出一阵"
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "重点班",
+      "target": "lớp trọng điểm"
+    },
+    {
+      "source": "灵根",
+      "target": "Linh căn"
+    },
+    {
+      "source": "灵根开发度",
+      "target": "độ khai phát linh căn"
+    },
+    {
+      "source": "魏铁",
+      "target": "Ngụy Thiết"
+    }
+  ],
+  "structural_hints": {
+    "has_dialogue": true,
+    "has_western_names": false,
+    "estimated_segments": 68
+  },
+  "generated_at": "2026-05-30T22:38:12.224144+07:00"
+}

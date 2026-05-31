@@ -1,0 +1,860 @@
+{
+  "schema_version": "2.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 49,
+  "chapter_id": "chapter_0049",
+  "source_manifest_hash": "738600cefd3aac1382a2e48a42a1eca2bfaf92437bf09b3885ba1c008c89e397",
+  "aligned_segments": [
+    {
+      "alignment_id": "chapter_0049:align_0001",
+      "chapter_id": "chapter_0049",
+      "segment_ids": [
+        "chapter_0049:seg_0001"
+      ],
+      "source": "# 49.第49章 晶兽小吉",
+      "source_hash": "248c91889d99d6649b13f60fb25b16adc8961ae22ec0e8b0233d159160f533dd",
+      "target": "# Chương 0049 - Tinh thú Tiểu Cát",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0049:align_0002",
+      "chapter_id": "chapter_0049",
+      "segment_ids": [
+        "chapter_0049:seg_0002"
+      ],
+      "source": "舱门上绘制着一个人脸识别符阵，一道红光从李耀脸上扫过，发出“滴滴”两声脆响，舱门“咔嚓”一声打开。",
+      "source_hash": "c9e32ac358c161501612ab62f6486eb6bc9e43481549054863b537d773625b28",
+      "target": "Trên cửa khoang có khắc một phù trận nhận dạng khuôn mặt, một luồng ánh sáng đỏ quét qua mặt Lý Diệu, phát ra hai tiếng \"bíp bíp\" giòn giã, cửa khoang \"cạch\" một tiếng mở ra.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0049:align_0003",
+      "chapter_id": "chapter_0049",
+      "segment_ids": [
+        "chapter_0049:seg_0003"
+      ],
+      "source": "里面是一个很朴素的小房间，只有一张单人床和一个小小的卫生间，连摆放书桌的地方都没有。",
+      "source_hash": "ad8963cdc8a24588a28da0d528b2762d5d0b677c61217c6689112c43a5b7e8f3",
+      "target": "Bên trong là một căn phòng nhỏ rất đơn sơ, chỉ có một chiếc giường đơn và một phòng vệ sinh nhỏ hẹp, thậm chí không có cả chỗ để kê bàn học.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0049:align_0004",
+      "chapter_id": "chapter_0049",
+      "segment_ids": [
+        "chapter_0049:seg_0004"
+      ],
+      "source": "李耀却知道，这是对他们的特别优待。",
+      "source_hash": "19e65189783a052a5233953d916fbdcd422dc3b9b28d9e3c6450e1df07d37eff",
+      "target": "Lý Diệu biết rõ đây đã là sự ưu đãi đặc biệt dành cho bọn họ rồi.",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0049:align_0005",
+      "chapter_id": "chapter_0049",
+      "segment_ids": [
+        "chapter_0049:seg_0005"
+      ],
+      "source": "在晶石战舰上，单人间是军官才能享受的待遇，普通水兵都是住四人间，六人间甚至八人间的。",
+      "source_hash": "67b6831137b0271e87d3940f266fd47e90f26e59d161e8a85fa858022e25dc2e",
+      "target": "Trên chiến hạm tinh thạch, phòng đơn là đãi ngộ chỉ dành cho sĩ quan, còn binh lính thông thường đều phải ở phòng bốn người, sáu người, thậm chí là tám người.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0049:align_0006",
+      "chapter_id": "chapter_0049",
+      "segment_ids": [
+        "chapter_0049:seg_0006"
+      ],
+      "source": "李耀在法宝坟墓长大，连垃圾堆都能睡得泰然自若，这里的环境对他来说堪称豪华，他大步走了进去，把随身行囊往角落一丢，自己狠狠砸进了单人床，发出一声心满意足的\\*\\*。",
+      "source_hash": "9f9524d1428eae0d5fb9769761d5d7082cae3fecf72a99c574989af5309bb83b",
+      "target": "Lý Diệu lớn lên ở Nghĩa địa Pháp Bảo, ngay cả đống rác cũng có thể ngủ một cách an nhiên tự tại, hoàn cảnh nơi này đối với cậu mà nói thì có thể gọi là xa hoa. Cậu sải bước đi vào, quăng hành lý tùy thân vào một góc rồi cả người đổ ập xuống chiếc giường đơn, phát ra một tiếng thở dài thỏa mãn.",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0049:align_0007",
+      "chapter_id": "chapter_0049",
+      "segment_ids": [
+        "chapter_0049:seg_0007"
+      ],
+      "source": "“噗叽噗叽，噗叽噗叽，李耀同学，你好，我是你的专属噗叽兽2899号，你可以叫我2899，也可以叫我小吉。”",
+      "source_hash": "1ebcb073e670a7958238a835c4f4db0edf715f9cea72464f0194e92d70898497",
+      "target": "“Pút kít pút kít, pút kít pút kít, bạn học Lý Diệu xin chào, tôi là thú Pút Kít chuyên dụng số 2899 của cậu, cậu có thể gọi tôi là 2899, hoặc gọi là Tiểu Cát.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0049:align_0008",
+      "chapter_id": "chapter_0049",
+      "segment_ids": [
+        "chapter_0049:seg_0008"
+      ],
+      "source": "一头胖乎乎，圆滚滚，憨态可掬的噗叽兽从床底下艰难地挪动了出来，吓了李耀一跳。",
+      "source_hash": "ea66c4006ae2cc5c1ff91f44d788180173de02bdefc302a366b0eeaf578f4224",
+      "target": "Một con thú Pút Kít mập mạp, tròn trịa trông cực kỳ ngộ nghĩnh đáng yêu chật vật bò ra từ dưới gầm giường, làm Lý Diệu giật nảy mình.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0049:align_0009",
+      "chapter_id": "chapter_0049",
+      "segment_ids": [
+        "chapter_0049:seg_0009"
+      ],
+      "source": "白色噗叽兽吃力地扑腾着翅膀，飞到了半空中，道：",
+      "source_hash": "1fb66abf95bce468a2dfed0a44ab77010f15471b499b0d6865b7181401d03bad",
+      "target": "Con thú Pút Kít màu trắng ra sức vỗ vỗ đôi cánh, bay lên giữa không trung, nói:",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0049:align_0010",
+      "chapter_id": "chapter_0049",
+      "segment_ids": [
+        "chapter_0049:seg_0010"
+      ],
+      "source": "“从现在开始，直到比赛结束，都由小吉来为李耀同学服务，小吉会为你讲解比赛规则，回答你的问题，帮你和‘九大’的观察员取得联络，并且拍摄下你在比赛中的一举一动，传输到监控中心，如果遇到致命危险，小吉还会为你呼叫修真者来救命，所以，别看小吉模样傻乎乎的，却是李耀同学的比赛好帮手！”",
+      "source_hash": "7663444729b30e578eeda2ae626b1916e43470cd581f009ba996cc1e4a8284dc",
+      "target": "“Từ bây giờ cho tới khi trận đấu kết thúc, Tiểu Cát sẽ phục vụ bạn học Lý Diệu. Tiểu Cát sẽ giải thích quy tắc thi đấu cho cậu, giải đáp các thắc mắc của cậu, giúp cậu liên lạc với các giám sát viên của 'Chín đại học', đồng thời quay lại từng hành động cử chỉ của cậu trong trận đấu để truyền về trung tâm giám sát. Nếu gặp nguy hiểm đến tính mạng, Tiểu Cát còn có thể gọi tu chân giả tới cứu mạng cho cậu nữa. Cho nên, đừng thấy vẻ ngoài của Tiểu Cát ngốc nghếch mà lầm, tôi chính là trợ thủ đắc lực trong trận đấu của bạn học Lý Diệu đấy nhé!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0049:align_0011",
+      "chapter_id": "chapter_0049",
+      "segment_ids": [
+        "chapter_0049:seg_0011"
+      ],
+      "source": "李耀盯着白色噗叽兽看了半天，疑惑道：“小吉，是你自己在说话，还是有人在后面操纵着你？”",
+      "source_hash": "ec7b55a6116cf544afb7034a1567b7e4fe6940d5097c72e030852a88d7b24361",
+      "target": "Lý Diệu chằm chằm nhìn con thú Pút Kít màu trắng một hồi lâu, nghi hoặc hỏi: “Tiểu Cát, là tự mày đang nói chuyện, hay là có ai đó ở phía sau điều khiển mày thế?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0049:align_0012",
+      "chapter_id": "chapter_0049",
+      "segment_ids": [
+        "chapter_0049:seg_0012"
+      ],
+      "source": "白色噗叽兽绕着他的脑袋飞了起来，欢快地说：",
+      "source_hash": "58b516a7187d4ed665adafb25ff9c553222a53798b8cb8c530c43a65b1441934",
+      "target": "Con thú Pút Kít màu trắng bay lượn vòng quanh đầu cậu, vui vẻ nói:",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0049:align_0013",
+      "chapter_id": "chapter_0049",
+      "segment_ids": [
+        "chapter_0049:seg_0013"
+      ],
+      "source": "“不是小吉自己在说话，也没有人在后面操纵我，是小吉的身体里安装有最先进的晶脑系统，预先输入了几十万道神念，以便小吉针对各种情况，做出实时反馈，小吉是由深海大学和天都医学院联合研发的，可不是普通灵兽，是最先进的‘晶兽’，也就是用晶脑来操控的灵兽！”",
+      "source_hash": "83f9f70b7d0162c9caf474ae13f5ca3d8d51273d7b7d6c3d1ff0811e8d42fa58",
+      "target": "“Không phải tự Tiểu Cát nói chuyện, cũng không có ai ở đằng sau thao túng tôi đâu. Trong cơ thể Tiểu Cát lắp đặt hệ thống Tinh não tiên tiến nhất, được nhập sẵn hàng chục vạn đạo thần niệm để giúp Tiểu Cát phản hồi theo thời gian thực đối với các tình huống khác nhau. Tiểu Cát do Đại học Thâm Hải và Học viện Y khoa Thiên Đô liên kết nghiên cứu chế tạo ra, không phải linh thú bình thường đâu nha, mà là loại 'tinh thú' tối tân nhất, tức là linh thú được điều khiển bằng Tinh não đó!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0049:align_0014",
+      "chapter_id": "chapter_0049",
+      "segment_ids": [
+        "chapter_0049:seg_0014"
+      ],
+      "source": "“原来如此，真是先进，这样一来，既能提升灵兽的智能，又不用担心灵兽像妖兽一样失去控制了！”",
+      "source_hash": "e0eb44e28200aecd6ee7109a040871847dca86b697cff20a63fcfbd34f07f9c1",
+      "target": "“Hóa ra là thế, thật sự tiên tiến nha. Như vậy vừa nâng cao được trí thông minh của linh thú, lại vừa không lo linh thú sẽ mất khống chế giống như yêu thú nữa!”",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0049:align_0015",
+      "chapter_id": "chapter_0049",
+      "segment_ids": [
+        "chapter_0049:seg_0015"
+      ],
+      "source": "李耀更加坚定了报考深海大学的决心，继续问道，“那么小吉，就请你为我解释一下，极限挑战赛的规则吧。”",
+      "source_hash": "e14bf8c66bd5c3b4fdf0b1fc96073de74e3c851a6708e4d7435e16c8b7cd7830",
+      "target": "Lý Diệu càng thêm kiên định quyết tâm thi vào Đại học Thâm Hải, cậu tiếp tục hỏi: “Vậy thì Tiểu Cát, làm phiền cậu giải thích giúp tôi quy tắc của trận Khiêu chiến cực hạn đi.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0049:align_0016",
+      "chapter_id": "chapter_0049",
+      "segment_ids": [
+        "chapter_0049:seg_0016"
+      ],
+      "source": "“好的。”",
+      "source_hash": "4ec3c8ac0d839522f69ada224121814380c2e91c0294c7fc82a0668b4e36bfdd",
+      "target": "“Được thôi.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0049:align_0017",
+      "chapter_id": "chapter_0049",
+      "segment_ids": [
+        "chapter_0049:seg_0017"
+      ],
+      "source": "白色噗叽兽脑袋上的白毛晃了晃，伸出一根肉乎乎的粉红色触手，触手的顶端是一枚闪闪发亮的人造晶石。",
+      "source_hash": "43e0096b4270ad58a2472afc9b90aa8287f745420804fec943d91a0cfbd66fd8",
+      "target": "Chỏm lông trắng trên đầu con thú Pút Kít màu trắng lắc lư vài cái, nó vươn ra một chiếc xúc tu màu hồng phấn mập mạp, đầu xúc tu gắn một viên tinh thạch nhân tạo sáng lấp lánh.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0049:align_0018",
+      "chapter_id": "chapter_0049",
+      "segment_ids": [
+        "chapter_0049:seg_0018"
+      ],
+      "source": "从晶石中射出一道光束，在李耀面前形成了一副巨大的立体光幕，灵光一闪，魔蛟岛的全息图像浮现着李耀眼前。",
+      "source_hash": "a179af9c4da079066ba9519d5038a97edca82203088cf256be67a3e5cdd05b27",
+      "target": "Một luồng sáng bắn ra từ viên tinh thạch, hình thành một tấm màn ánh sáng lập thể khổng lồ trước mặt Lý Diệu. Linh quang lóe lên, hình ảnh toàn cảnh của Đảo Ma Giao liền hiện ra trước mắt cậu.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0049:align_0019",
+      "chapter_id": "chapter_0049",
+      "segment_ids": [
+        "chapter_0049:seg_0019"
+      ],
+      "source": "“极限挑战赛是联邦历史悠久的一项传统赛事，其目的就是为了给‘九大’挑选有修炼天赋的好苗子，同时也给一些擅长实战却不擅长理论知识的学生，一个脱颖而出的机会。”",
+      "source_hash": "c26abca1673a8bec18c19f60dc4f13d4978ad6368b600010e353a6c823abebb4",
+      "target": "“Khiêu chiến cực hạn là một giải đấu truyền thống có lịch sử lâu đời của Liên bang, mục đích của nó là để tuyển chọn những mầm non tốt có thiên phú tu luyện cho 'Chín đại học', đồng thời cũng tạo cơ hội cho những học sinh giỏi thực chiến nhưng lại yếu về kiến thức lý thuyết có cơ hội bứt phá vươn lên.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0049:align_0020",
+      "chapter_id": "chapter_0049",
+      "segment_ids": [
+        "chapter_0049:seg_0020"
+      ],
+      "source": "“每年的极限挑战赛都会在高考前两个月举行，全联邦划分成近千个考区，每个考区三千名选手。”",
+      "source_hash": "c052615bff1afc9976d20cbeb1cbc8ce666097954d7292f428f075ea604eef80",
+      "target": "“Mỗi năm trận Khiêu chiến cực hạn đều được tổ chức trước kỳ thi đại học hai tháng, toàn Liên bang được chia thành gần một ngàn khu vực thi, mỗi khu vực có ba ngàn thí sinh.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0049:align_0021",
+      "chapter_id": "chapter_0049",
+      "segment_ids": [
+        "chapter_0049:seg_0021"
+      ],
+      "source": "“浮戈城及周边区域，都是联邦的修炼重镇，涌现过不少修炼天才，所以571号考区的环境也非常凶险，是出了名的‘死亡考区’之一。”",
+      "source_hash": "52e310396e1dd45a60cd496a6d48614f94c544e7b6c8e555c43a3d58ca3d1475",
+      "target": "“Phù Qua Thành cùng khu vực lân cận đều là trọng trấn tu luyện của Liên bang, từng xuất hiện không ít thiên tài tu luyện, cho nên môi trường của khu vực thi 571 cũng vô cùng hiểm nghèo, là một trong những 'khu vực thi tử vong' nổi tiếng.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0049:align_0022",
+      "chapter_id": "chapter_0049",
+      "segment_ids": [
+        "chapter_0049:seg_0022"
+      ],
+      "source": "“三千名参赛者要在妖兽横行的魔蛟岛上想尽办法生存五天——李耀同学，你可不要小看魔蛟岛，这里是昔日星耀联邦和东极妖国最终决战的战场，大洋深处埋葬着无数尸骸，妖气冲天！”",
+      "source_hash": "ddf1c76c0c91184fcc7820647b95af53e56396c9fa48200f65df539d4a64cef7",
+      "target": "“Ba ngàn người tham gia phải tìm mọi cách sinh tồn trong vòng năm ngày trên Đảo Ma Giao đầy rẫy yêu thú —— bạn học Lý Diệu, cậu chớ có coi thường Đảo Ma Giao, nơi này chính là chiến trường quyết chiến cuối cùng giữa Liên bang Tinh Diệu và Đông Cực Yêu Quốc ngày xưa, dưới đáy đại dương sâu thẳm chôn vùi vô số hài cốt, yêu khí ngập trời!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0049:align_0023",
+      "chapter_id": "chapter_0049",
+      "segment_ids": [
+        "chapter_0049:seg_0023"
+      ],
+      "source": "“魔蛟岛上的妖兽常年吞噬妖气，比其他地方的妖兽更加凶残。”",
+      "source_hash": "28d6bae0ba14a056f5417c2f34f40e863c98ea57d2228b5327f6608ae47660cd",
+      "target": "“Yêu thú trên Đảo Ma Giao quanh năm cắn nuốt yêu khí nên hung tàn dữ tợn hơn yêu thú ở những nơi khác rất nhiều.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0049:align_0024",
+      "chapter_id": "chapter_0049",
+      "segment_ids": [
+        "chapter_0049:seg_0024"
+      ],
+      "source": "白色噗叽兽飞到李耀面前，晃动着粗短的翅膀，十分欢快地说，“五天的极限挑战赛，被分成初赛和决赛两个部分，前三天是初赛，后两天是决赛。”",
+      "source_hash": "f952b3569106cf10b9a24a4ea767b5320ded2d27b7d537059191166f17421299",
+      "target": "Con thú Pút Kít màu trắng bay tới trước mặt Lý Diệu, vỗ vỗ đôi cánh ngắn ngủn mập mạp của mình, vô cùng vui tươi nói: “Năm ngày Khiêu chiến cực hạn được chia làm hai phần: vòng loại và vòng chung kết. Ba ngày đầu là vòng loại, hai ngày sau là vòng chung kết.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0049:align_0025",
+      "chapter_id": "chapter_0049",
+      "segment_ids": [
+        "chapter_0049:seg_0025"
+      ],
+      "source": "“明天早上九点，三千名考生将被一起抛入魔蛟岛，你们只会穿着最简单的，没有任何防御功能的运动背心和短裤，没有武器，没有食物，没有水，甚至连鞋子都没有，每个人只有一头噗叽兽。”",
+      "source_hash": "77f9b7a4f8b54af51c8fd73ba4e7dfae5a491ba86ae8fcefb0362209f09d959b",
+      "target": "“Chín giờ sáng mai, ba ngàn thí sinh sẽ cùng lúc bị quẳng lên Đảo Ma Giao. Các em chỉ mặc quần đùi áo ba lỗ thể thao đơn giản nhất và không có bất kỳ tính năng phòng ngự nào, không vũ khí, không thức ăn, không nước uống, thậm chí đến cả giày cũng không có. Mỗi người chỉ mang theo một con thú Pút Kít.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0049:align_0026",
+      "chapter_id": "chapter_0049",
+      "segment_ids": [
+        "chapter_0049:seg_0026"
+      ],
+      "source": "“而你们要做的，就是在无数妖兽的攻击下，生存三天。”",
+      "source_hash": "2fc5c6889c1c562abb48d7a93a8b263b1f768e4c07ae3c20f5db6264b300d6f8",
+      "target": "“Và việc các em phải làm chính là sinh tồn ba ngày dưới sự tấn công của vô số yêu thú.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0049:align_0027",
+      "chapter_id": "chapter_0049",
+      "segment_ids": [
+        "chapter_0049:seg_0027"
+      ],
+      "source": "“当然，你们不会一直赤手空拳，在魔蛟岛上，一共分布着好几十处的‘补给点’，储备着大量的法宝构件和补给品，如果有能力，你们可以自行组装法宝，用来和妖兽厮杀。”",
+      "source_hash": "88844ee34539fd7c420d8a140f7ed652344372128c79848681d526038c7b18a2",
+      "target": "“Tất nhiên các em sẽ không phải tay không tấc sắt suốt cả quá trình. Trên Đảo Ma Giao phân bố tổng cộng mấy chục 'điểm tiếp tế', cất giữ lượng lớn linh kiện pháp bảo và nhu yếu phẩm. Nếu có khả năng, các em có thể tự mình lắp ráp pháp bảo để chiến đấu sinh tử với yêu thú.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0049:align_0028",
+      "chapter_id": "chapter_0049",
+      "segment_ids": [
+        "chapter_0049:seg_0028"
+      ],
+      "source": "光幕中，魔蛟岛不断放大，变成半透明状态，出现了几十处补给点的具体方位。",
+      "source_hash": "1963fbe042dc165b8f94a2ffae2a5b5c380208aa2ffee84f905b54b10ab4d631",
+      "target": "Trong màn ảnh ánh sáng, Đảo Ma Giao không ngừng phóng to, biến thành trạng thái bán trong suốt, hiển thị vị trí cụ thể của mấy chục điểm tiếp tế.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0049:align_0029",
+      "chapter_id": "chapter_0049",
+      "segment_ids": [
+        "chapter_0049:seg_0029"
+      ],
+      "source": "白色噗叽兽继续道：",
+      "source_hash": "15c4fb5d8a0821e45bba6a5ed78d957f9795cd82d7dec1001950b256bc04a029",
+      "target": "Con thú Pút Kít màu trắng tiếp tục nói:",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0049:align_0030",
+      "chapter_id": "chapter_0049",
+      "segment_ids": [
+        "chapter_0049:seg_0030"
+      ],
+      "source": "“在比赛中，最重要的一个概念就是‘积分’，积分是确定你最终排名的唯一指标。”",
+      "source_hash": "f63112888ee731f324e082e4e2ffbfd0855512880219e330e54e22e820b26e94",
+      "target": "“Trong trận đấu, khái niệm quan trọng nhất chính là 'điểm số', điểm tích lũy chính là chỉ số duy nhất để xác định thứ hạng chung cuộc của cậu.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0049:align_0031",
+      "chapter_id": "chapter_0049",
+      "segment_ids": [
+        "chapter_0049:seg_0031"
+      ],
+      "source": "“斩杀妖兽可以获得积分，斩杀越强大的妖兽，获得的积分就越多。”",
+      "source_hash": "7966ab31121c285e477daae85c62ebe8605afd34e503e4614c6c927008138ebe",
+      "target": "“Chém giết yêu thú có thể nhận được điểm số, chém giết yêu thú càng mạnh thì điểm số nhận được càng nhiều.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0049:align_0032",
+      "chapter_id": "chapter_0049",
+      "segment_ids": [
+        "chapter_0049:seg_0032"
+      ],
+      "source": "“为了测试考生的全方位能力，获得积分的途径有很多，比方说你是一个法宝专家，就可以尽量组装和维修法宝，你有炼药方面的天赋，也可以在丛林中发现各种草药，总之，你在魔蛟岛上的一切行为，只要能展现某一方面的修炼天赋，都会转化成积分。”",
+      "source_hash": "e5ed19ad22fddbb55155e97b52047b443ae5c6109729cb73f5667369d3b8efa9",
+      "target": "“Để kiểm tra năng lực toàn diện của thí sinh, có rất nhiều con đường để kiếm điểm số. Ví dụ như cậu là một chuyên gia pháp bảo thì có thể ra sức lắp ráp và sửa chữa pháp bảo; cậu có thiên phú về luyện dược thì cũng có thể tìm kiếm các loại thảo dược trong rừng rậm. Tóm lại, mọi hành vi của cậu trên Đảo Ma Giao, chỉ cần thể hiện được thiên phú tu luyện ở một phương diện nào đó, đều sẽ được chuyển hóa thành điểm số.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0049:align_0033",
+      "chapter_id": "chapter_0049",
+      "segment_ids": [
+        "chapter_0049:seg_0033"
+      ],
+      "source": "“而另一个重要的概念就是‘交易’了，这是专门为不擅长战斗的参赛者设置的规则。”",
+      "source_hash": "3394e35ff57a80fed4e167c5eef74c16a6a1403e9265b3349ebdd08fae08491b",
+      "target": "“Và một khái niệm quan trọng khác chính là 'giao dịch', đây là quy tắc được thiết lập chuyên biệt cho những thí sinh không giỏi chiến đấu.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0049:align_0034",
+      "chapter_id": "chapter_0049",
+      "segment_ids": [
+        "chapter_0049:seg_0034"
+      ],
+      "source": "“在比赛中积分是可以交易的，比方说，你有炼制法宝的天赋，在补给点组装出了十支飞剑，你可以把这些飞剑交易给擅长战斗的参赛者，只要双方口头约定了价格，噗叽兽就会自动进行积分转账，不用担心对方会赖账，这样一来，对非战斗职业的参赛者而言，比赛也是很公平的。”",
+      "source_hash": "189ebdd036228cbd9e5e6451d515065fa55b7d0b7fe0949adf090a6460cd0795",
+      "target": "“Trong trận đấu, điểm số có thể giao dịch được. Chẳng hạn như cậu có thiên phú chế tạo pháp bảo, tại điểm tiếp tế lắp ráp ra mười thanh phi kiếm, cậu có thể giao dịch những thanh phi kiếm này cho thí sinh sở trường chiến đấu. Chỉ cần hai bên đạt được thỏa thuận miệng về giá cả, thú Pút Kít sẽ tự động tiến hành chuyển khoản điểm số, không lo đối phương quỵt nợ. Bằng cách này, trận đấu vẫn rất công bằng đối với những thí sinh thuộc ngành nghề phi chiến đấu.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0049:align_0035",
+      "chapter_id": "chapter_0049",
+      "segment_ids": [
+        "chapter_0049:seg_0035"
+      ],
+      "source": "李耀举起右手，提出一个问题：",
+      "source_hash": "77295f1fece3a9b698bee30e7f7569f9c9986c14746c83467ed390e36db85802",
+      "target": "Lý Diệu giơ tay phải lên hỏi một câu:",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0049:align_0036",
+      "chapter_id": "chapter_0049",
+      "segment_ids": [
+        "chapter_0049:seg_0036"
+      ],
+      "source": "“打断一下，我想问问——对于不擅长战斗的辅助系选手而言，在魔蛟岛上冒险，会不会有生命危险？”",
+      "source_hash": "0f74fe22211aac69c522b9ffbf305c77ed71ce8cdbc227c55272d6baed6fedba",
+      "target": "“Cắt lời một chút, tôi muốn hỏi —— đối với những thí sinh thuộc hệ hỗ trợ không giỏi chiến đấu mà nói, việc mạo hiểm trên Đảo Ma Giao có nguy hiểm đến tính mạng không?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0049:align_0037",
+      "chapter_id": "chapter_0049",
+      "segment_ids": [
+        "chapter_0049:seg_0037"
+      ],
+      "source": "白色噗叽兽晃动着毛茸茸的小尾巴：",
+      "source_hash": "a851a5ad51d50d423ec8e1bac9220a71b0e3a347d3d839bae9b219853048b328",
+      "target": "Con thú Pút Kít màu trắng ngoáy ngoáy cái đuôi nhỏ xù lông:",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0049:align_0038",
+      "chapter_id": "chapter_0049",
+      "segment_ids": [
+        "chapter_0049:seg_0038"
+      ],
+      "source": "“李耀同学，请不用担心，比赛开始之后，魔蛟岛上空会有超过二十名修真者巡逻，并且在小吉体内也炼制有一种特殊的凝胶囊，一旦考生受到致命危险，或者累积下来的伤势达到致命的程度，小吉就会自动喷出凝胶，将考生包裹住，并且通知天空中巡逻的修真者。”",
+      "source_hash": "8a9d8cd4c6669641704953f38a10556d911f1054b5e3f1172926dc6ab3c9142a",
+      "target": "“Bạn học Lý Diệu xin chớ lo lắng, sau khi trận đấu bắt đầu, trên bầu trời Đảo Ma Giao sẽ có hơn hai mươi tu chân giả tuần tra, đồng thời trong cơ thể Tiểu Cát cũng có một túi gel đặc biệt. Một khi thí sinh gặp nguy hiểm đến tính mạng, hoặc vết thương tích lũy đạt tới mức độ nguy kịch, Tiểu Cát sẽ tự động phun ra gel bao bọc thí sinh lại, đồng thời thông báo cho tu chân giả đang tuần tra trên bầu trời.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0049:align_0039",
+      "chapter_id": "chapter_0049",
+      "segment_ids": [
+        "chapter_0049:seg_0039"
+      ],
+      "source": "“这种凝胶是非常厉害的法宝，可以全方位保护考生的安全，以魔蛟岛上妖兽的级数，是不可能破坏的，尽管放心好了！”",
+      "source_hash": "23977771bbf82c2333af152a0a48eedcd510be35b7b31ae59e62071f460742b4",
+      "target": "“Loại gel này là món pháp bảo vô cùng lợi hại, có thể bảo vệ an toàn của thí sinh từ mọi góc độ. Với cấp bậc yêu thú trên Đảo Ma Giao thì không cách nào phá vỡ nổi đâu, cứ việc yên tâm đi!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0049:align_0040",
+      "chapter_id": "chapter_0049",
+      "segment_ids": [
+        "chapter_0049:seg_0040"
+      ],
+      "source": "“而且在比赛中，所有选手都将临时获得‘联邦军士兵’身份，万一出现意外，都会获得最妥善的医疗和赔偿，绝对没有后顾之忧。”",
+      "source_hash": "6b45170d8329ffa5be9a8dfebbcdd8f3c8c0fc77e2d10b4ba703c9d991f75868",
+      "target": "“Hơn nữa trong trận đấu, tất cả thí sinh đều sẽ tạm thời nhận được thân phận 'binh sĩ Quân đội Liên bang', vạn nhất xảy ra sự cố ngoài ý muốn đều sẽ nhận được sự điều trị y tế và bồi thường thỏa đáng nhất, tuyệt đối không có nỗi lo về sau.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0049:align_0041",
+      "chapter_id": "chapter_0049",
+      "segment_ids": [
+        "chapter_0049:seg_0041"
+      ],
+      "source": "李耀点了点头，极限挑战赛举办了上百届，早就有了最完善的保护措施，这倒是自己多虑了。",
+      "source_hash": "4d02d45ea3ebf5887ae30807bb3dd4cf5b9a1a875472951fcb6ac4e25d1f7cff",
+      "target": "Lý Diệu gật gật đầu, Khiêu chiến cực hạn đã tổ chức hơn trăm khóa, sớm đã có biện pháp bảo vệ hoàn thiện nhất, xem ra là bản thân cậu lo xa rồi.",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0049:align_0042",
+      "chapter_id": "chapter_0049",
+      "segment_ids": [
+        "chapter_0049:seg_0042"
+      ],
+      "source": "想了想，又问：“这是初赛——决赛又是什么规则？”",
+      "source_hash": "bfb94eb734e1c222f306ae276647cd0cb2e0c14b5904699c4956a8c200ea1355",
+      "target": "Suy nghĩ một chút, cậu lại hỏi: “Đây là vòng loại —— vậy còn vòng chung kết thì quy tắc thế nào?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    }
+  ],
+  "term_occurrences": [
+    {
+      "chapter_id": "chapter_0049",
+      "source_term": "法宝坟墓",
+      "target_term": "Nghĩa địa Pháp Bảo",
+      "segment_id": "chapter_0049:seg_0006",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0049",
+      "source_term": "浮戈城",
+      "target_term": "Phù Qua Thành",
+      "segment_id": "chapter_0049:seg_0021",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0049",
+      "source_term": "晶脑",
+      "target_term": "Tinh não",
+      "segment_id": "chapter_0049:seg_0013",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0049",
+      "source_term": "联邦军",
+      "target_term": "Quân đội Liên bang",
+      "segment_id": "chapter_0049:seg_0040",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0049",
+      "source_term": "噗叽兽",
+      "target_term": "thú Pút Kít",
+      "segment_id": "chapter_0049:seg_0007",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "beast",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0049",
+      "source_term": "东极妖国",
+      "target_term": "Đông Cực Yêu Quốc",
+      "segment_id": "chapter_0049:seg_0022",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0049",
+      "source_term": "天都医学院",
+      "target_term": "Học viện Y khoa Thiên Đô",
+      "segment_id": "chapter_0049:seg_0013",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0049",
+      "source_term": "深海大学",
+      "target_term": "Đại học Thâm Hải",
+      "segment_id": "chapter_0049:seg_0013",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    }
+  ],
+  "entity_mentions": [
+    {
+      "chapter_id": "chapter_0049",
+      "source_surface": "李耀",
+      "target_surface": "Lý Diệu",
+      "entity_type": "person",
+      "segment_id": "chapter_0049:seg_0002",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0049",
+      "source_surface": "东极妖国",
+      "target_surface": "Đông Cực Yêu Quốc",
+      "entity_type": "factions",
+      "segment_id": "chapter_0049:seg_0022",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0049",
+      "source_surface": "天都医学院",
+      "target_surface": "Học viện Y khoa Thiên Đô",
+      "entity_type": "factions",
+      "segment_id": "chapter_0049:seg_0013",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0049",
+      "source_surface": "深海大学",
+      "target_surface": "Đại học Thâm Hải",
+      "entity_type": "factions",
+      "segment_id": "chapter_0049:seg_0013",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0049",
+      "source_surface": "法宝坟墓",
+      "target_surface": "Nghĩa địa Pháp Bảo",
+      "entity_type": "locations",
+      "segment_id": "chapter_0049:seg_0006",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0049",
+      "source_surface": "浮戈城",
+      "target_surface": "Phù Qua Thành",
+      "entity_type": "locations",
+      "segment_id": "chapter_0049:seg_0021",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0049",
+      "source_surface": "魔蛟岛",
+      "target_surface": "Đảo Ma Giao",
+      "entity_type": "locations",
+      "segment_id": "chapter_0049:seg_0018",
+      "confidence": 1.0
+    }
+  ],
+  "name_analysis": {
+    "status": "ok",
+    "evidence_count": 1,
+    "name_mentions": [
+      {
+        "chapter_id": "chapter_0049",
+        "name_source": "李耀",
+        "name_target": "Lý Diệu",
+        "segment_id": "chapter_0049:seg_0002",
+        "present_in_target": true,
+        "confidence": 1.0
+      }
+    ],
+    "name_entries": [
+      {
+        "name_source": "李耀",
+        "name_target": "Lý Diệu"
+      }
+    ],
+    "transliteration_units": [],
+    "inferred_name_rules": [],
+    "ambiguity_cases": [],
+    "reusable_name_profile": {
+      "mapping_count": 1,
+      "has_ambiguity": false
+    }
+  },
+  "phrase_patterns": [],
+  "grammar_rule_candidates": [],
+  "analyzer_reports": {
+    "term_occurrences": {
+      "status": "ok",
+      "evidence_count": 8
+    },
+    "entity_mentions": {
+      "status": "ok",
+      "evidence_count": 7
+    },
+    "name_mentions": {
+      "status": "ok",
+      "evidence_count": 1
+    },
+    "phrase_patterns": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    },
+    "grammar_rule_candidates": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    }
+  },
+  "review_queue": [
+    {
+      "chapter_id": "chapter_0049",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "能力",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "构件和补给品，如果有能力，你们可以自行组装法",
+          "为了测试考生的全方位能力，获得积分的途径有很"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0049",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "都没有",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.82,
+        "evidence": [
+          "间，连摆放书桌的地方都没有。\n\n李耀却知道，这",
+          "，没有水，甚至连鞋子都没有，每个人只有一头噗叽"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0049",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "一个脱颖而出的机会",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "擅长理论知识的学生，一个脱颖而出的机会。”\n\n“每年的极限"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0049",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "舱门",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "晶兽小吉\n\n  \n\n舱门上绘制着一个人脸识别"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0049",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "三千名考生将被一起抛入魔蛟岛",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "\n\n“明天早上九点，三千名考生将被一起抛入魔蛟岛，你们只会穿着最简单"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0049",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "你可不要小看魔蛟岛",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "存五天——李耀同学，你可不要小看魔蛟岛，这里是昔日星耀联邦"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0049",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "全联邦划分成近千个考区",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "在高考前两个月举行，全联邦划分成近千个考区，每个考区三千名选手"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0049",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "死亡考区",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "常凶险，是出了名的‘死亡考区’之一。”\n\n“三千"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0049",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "浮戈城及周边区域",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "三千名选手。”\n\n“浮戈城及周边区域，都是联邦的修炼重镇"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0049",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "都是联邦的修炼重镇",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "“浮戈城及周边区域，都是联邦的修炼重镇，涌现过不少修炼天才"
+        ]
+      }
+    }
+  ],
+  "quality_audit": {
+    "segment_coverage": 1.0,
+    "source_hash_match": true,
+    "target_reconstruction_match": true,
+    "invalid_ref_count": 0,
+    "locked_term_hit_rate": 1.0,
+    "missing_locked_terms": [],
+    "cjk_residue_count": 0,
+    "paragraph_drift_ratio": 0.0,
+    "pronoun_consistency_score": 1.0,
+    "warnings": []
+  }
+}

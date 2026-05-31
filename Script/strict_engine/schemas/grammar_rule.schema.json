@@ -1,0 +1,32 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Grammar Rule Candidate",
+  "type": "object",
+  "required": [
+    "desc",
+    "alias",
+    "rank",
+    "match_pos",
+    "match_tok",
+    "operations",
+    "constraints",
+    "specificity",
+    "confidence",
+    "status",
+    "evidence"
+  ],
+  "properties": {
+    "desc": { "type": "string" },
+    "alias": { "type": "string" },
+    "rank": { "type": "integer" },
+    "match_pos": { "type": "array", "items": { "type": "string" } },
+    "match_tok": { "type": "array", "items": { "type": "string" } },
+    "operations": { "type": "array" },
+    "constraints": { "type": "object" },
+    "specificity": { "type": "integer" },
+    "confidence": { "type": "number" },
+    "status": { "type": "string" },
+    "evidence": { "type": "array" }
+  },
+  "additionalProperties": false
+}

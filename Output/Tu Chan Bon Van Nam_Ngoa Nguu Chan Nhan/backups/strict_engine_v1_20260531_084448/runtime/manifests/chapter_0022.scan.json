@@ -1,0 +1,131 @@
+{
+  "schema_version": "1.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 22,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan\\0022 - 22.第22章 把他喂饱.md",
+  "source_char_count": 2355,
+  "characters": [
+    {
+      "source": "彭海",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "\n\n光头纹身男和妖刀彭海，就站在恢复舱前面，",
+        "来，把上面的校徽指给彭海看。\n\n这下子，连妖"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "source": "一有机会",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "‘饥饿’了太久太久，一有机会，就迫不及待地狼吞虎"
+      ]
+    },
+    {
+      "source": "估计是有什么误会",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "这种等级的家伙过来，估计是有什么误会，等他醒了，问清楚就"
+      ]
+    },
+    {
+      "source": "给几个重点班的尖子生开一堂",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "晚上还要去赤霄二中，给几个重点班的尖子生开一堂‘夜间偷袭’教学课，"
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "source": "阿海",
+      "entity_type": "location",
+      "count": 2,
+      "confidence": 0.78,
+      "evidence": [
+        "，才满脸纠结地说：“阿海，刚才就想告诉你，这"
+      ]
+    },
+    {
+      "source": "光头纹身男和妖刀彭海",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "绕着大量的泡沫。\n\n光头纹身男和妖刀彭海，就站在恢复舱前面，"
+      ]
+    },
+    {
+      "source": "在地下鬼城",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "，问清楚就好。”\n\n在地下鬼城，未经允许就揭破他人"
+      ]
+    }
+  ],
+  "realms": [
+    "筑基"
+  ],
+  "techniques": [
+    "仿佛是经",
+    "似乎已经",
+    "光头纹身男和妖刀",
+    "实战经",
+    "我原本以为自己已经",
+    "连妖刀"
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "晶脑",
+      "target": "Tinh não"
+    },
+    {
+      "source": "赤霄二中",
+      "target": "Xích Tiêu Nhị Trung"
+    },
+    {
+      "source": "重点班",
+      "target": "lớp trọng điểm"
+    },
+    {
+      "source": "筑基期",
+      "target": "Trúc Cơ Kỳ"
+    },
+    {
+      "source": "纹面符",
+      "target": "Văn Diện Phù"
+    },
+    {
+      "source": "军道杀狼",
+      "target": "Quân Đạo Sát Lang"
+    },
+    {
+      "source": "彭海",
+      "target": "Bành Hải"
+    },
+    {
+      "source": "老教官",
+      "target": "Lão giáo quan"
+    },
+    {
+      "source": "妖刀",
+      "target": "Yêu Đao"
+    },
+    {
+      "source": "铁龟",
+      "target": "Thiết Quy"
+    }
+  ],
+  "generated_at": "2026-05-30T05:46:37.472842+07:00"
+}

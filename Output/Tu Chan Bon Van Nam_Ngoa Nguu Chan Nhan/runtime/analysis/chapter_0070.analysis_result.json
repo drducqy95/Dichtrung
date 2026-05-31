@@ -1,0 +1,1376 @@
+{
+  "schema_version": "2.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 70,
+  "chapter_id": "chapter_0070",
+  "source_manifest_hash": "66e87007603a68c309ab87e7aeea5eca1014cee0adc19aa1688d68c662474443",
+  "aligned_segments": [
+    {
+      "alignment_id": "chapter_0070:align_0001",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0001"
+      ],
+      "source": "# 70.第70章 妖星",
+      "source_hash": "e82168e9854aa5a97e9b4246d1ae9f82843e1ee77fb507e7a3b37e3e9ed9591d",
+      "target": "# Chương 0070 - Yêu Tinh",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0002",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0002"
+      ],
+      "source": "在“吞噬”了大约十几枚欧冶子的早期记忆碎片之后，李耀十分惊讶地发现，一枚原本是普通彩色的记忆碎片，竟然也变得流光溢彩，光芒闪烁！",
+      "source_hash": "0f36fa4aa4d2ce124a95010d0b6ff762309c34ac453550dd764be08bb812e433",
+      "target": "Sau khi “nuốt chửng” chừng mười mấy mảnh vỡ ký ức thời kỳ đầu của Âu Dã Tử, Lý Diệu vô cùng ngạc nhiên phát hiện ra một mảnh vỡ ký ức vốn dĩ có màu sắc thông thường cư nhiên cũng trở nên lung linh rực rỡ, hào quang lấp lánh!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0003",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0003"
+      ],
+      "source": "意识潜入进去查探，却发现原本只能旁观的记忆，也能自由操纵，反复观摩！",
+      "source_hash": "233c11a8b0221f45a90478a811f951a2659bffcbaf5467c9eee1b1def51b6f07",
+      "target": "Ý thức cậu len lỏi vào bên trong để dò xét, phát hiện ra ký ức vốn dĩ chỉ có thể đứng ngoài xem nay cũng có thể tự do điều khiển, xem đi xem lại thỏa thích!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0004",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0004"
+      ],
+      "source": "这一发现，更坚定了他的信念，只要他的神魂逐渐壮大，原本无法利用的记忆碎片，总有一天都可以变成最鲜美的“食物”，被他彻底吞噬！",
+      "source_hash": "e45b126a2bd05ceb889c3db98672ce00b16e400063d30a5e72fa9a9012d7e0b0",
+      "target": "Phát hiện này càng khiến cậu củng cố niềm tin. Chỉ cần thần hồn của cậu dần dần lớn mạnh thì những mảnh vỡ ký ức vốn không thể tận dụng kia rồi sẽ có một ngày trở thành món “thức ăn” ngon lành nhất để cậu nuốt chửng hoàn toàn!",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0005",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0005"
+      ],
+      "source": "从这一刻起，李耀几乎忘记了时间的流逝。",
+      "source_hash": "9b854365f1a14e9912bc43bd4a6b6019e39bfb7a6860b851e79373070e111345",
+      "target": "Kể từ khoảnh khắc ấy, Lý Diệu gần như quên bẵng đi dòng chảy của thời gian.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0006",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0006"
+      ],
+      "source": "他就像是一个最贪婪的窃贼，无意中发现了一座富可敌国的宝库，一头扎进金银财宝之中，偷得不亦乐乎，根本没想过要离开。",
+      "source_hash": "8924838d656f20d175be9b3dbd67a1de1b483f9f66d046d12226d9df01bb3ad2",
+      "target": "Cậu giống hệt như một tên trộm tham lam vô độ, vô tình phát giác ra một kho báu giàu nứt đố đổ vách, thế là đâm đầu vào giữa đống vàng bạc châu báu, tha hồ vơ vét đắc chí, hoàn toàn không hề nghĩ tới việc rời đi.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0007",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0007"
+      ],
+      "source": "欧冶子的早期记忆，被他翻了个底朝天，偷了个一干二净。",
+      "source_hash": "f9afd7a219d71fe6dc3b3aace8f6636c9dea0d7a8ae57add24286ab17f60f96f",
+      "target": "Ký ức thời niên thiếu của Âu Dã Tử bị cậu lùng sục lật tung lên, vơ vét sạch sành sanh không sót một hạt cát.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0008",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0008"
+      ],
+      "source": "在一次又一次的重复操练中，《一百零八手披风乱锤法》，深深烙印在了李耀的神魂之中，再也不会遗忘。",
+      "source_hash": "1fabade5bad11576d0034c8830943e82cf64a16fbffc0e9c84573d73ada72074",
+      "target": "Trải qua hết lần này đến lần khác luyện tập rèn giũa lặp đi lặp lại, 《Một trăm lẻ tám thức Phách Phong Loạn Chùy Pháp》 đã khắc sâu vào trong thần hồn của Lý Diệu, vĩnh viễn không thể lãng quên.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0009",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0009"
+      ],
+      "source": "而在现实世界里，时间也在飞快地流逝。",
+      "source_hash": "a6c4a74fe57bad31cc397fc4e54000b9c6ca59cca460b6aaa1763a1bbb72e5f2",
+      "target": "Còn ở thế giới hiện thực bên ngoài, thời gian cũng đang trôi đi vùn vụt.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0010",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0010"
+      ],
+      "source": "眨眼间，一个星期过去了。",
+      "source_hash": "a3370425393cfbaa51b90204a432f69c08ee70cf2e4ac817178442b5764f378c",
+      "target": "Trong chớp mắt, một tuần lễ đã trôi qua.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0011",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0011"
+      ],
+      "source": "魔蛟岛上发生的意外，导致了九名选手惨死，一名选手身受重伤、陷入昏迷。",
+      "source_hash": "5676b6e7de24d530324e4b129fe8b58a060c77026639398fdebc3600d43d95e0",
+      "target": "Tai nạn bất ngờ xảy ra trên Đảo Ma Giao đã khiến chín vị thí sinh thiệt mạng thê thảm, một vị thí sinh trọng thương rơi vào trạng thái hôn mê sâu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0012",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0012"
+      ],
+      "source": "这是联邦历年极限挑战赛中都不多见的惨剧。",
+      "source_hash": "8fcf95152a3ae8966c62ace5644626f9874c7efc8bbe132ba2f5c6c37bb8e5fd",
+      "target": "Đây là thảm kịch hiếm thấy trong các Giải đấu Thử thách Cực hạn từ trước đến nay của Liên Bang.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0013",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0013"
+      ],
+      "source": "因为这场惨剧，比赛草草收场，而调查也随即展开，很快就弄清楚是因为一名选手违规携带兴奋剂入场，结果被一头妖兽抢走，注射之后，发生了惊人的变异！",
+      "source_hash": "e260ae24983a4a93b8e586b9498073a6de68ebb546ba9fc66c47a2f0541b22c9",
+      "target": "Do thảm kịch kinh hoàng này, cuộc thi đành phải vội vã hạ màn. Cuộc điều tra lập tức được tiến hành và nhanh chóng làm sáng tỏ nguyên nhân: một thí sinh đã tự ý mang thuốc kích thích trái phép vào đấu trường, kết quả bị một con yêu thú cướp mất, sau khi tiêm vào người đã sinh ra đột biến đáng kinh ngạc!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0014",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0014"
+      ],
+      "source": "不过这名选手在第一时间就被妖兽杀死，用生命为自己的行为付出代价。",
+      "source_hash": "9ec2c1b6fdcba092e6a79989e7ab9b2282d1bb6211bf9c98c75efecffe785735",
+      "target": "Có điều tên thí sinh kia đã bị yêu thú xé xác ngay lập tức, dùng chính mạng sống của mình để trả giá đắt cho hành vi ngu xuẩn đó.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0015",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0015"
+      ],
+      "source": "而卖给他兴奋剂的商贩在得知此事之后，居然畏罪自杀，为整件事画上了一个并不圆满的句号。",
+      "source_hash": "ccbd4ddcb2bd467f782fd6a9dc83078d38106baae49a4cb3d1c12383771c4221",
+      "target": "Còn gã thương nhân bán thuốc kích thích cho hắn sau khi nghe tin dữ đã sợ tội tự sát, đặt một dấu chấm hết không mấy trọn vẹn cho toàn bộ sự việc.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0016",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0016"
+      ],
+      "source": "在对这个商贩的地下作坊进行了周密检查之后才发现，他所出售的“鬼龙7号兴奋剂”，甚至都不是真正的鬼龙7号，而是用好几种兴奋剂、强化药剂的残渣调制出来的混合物，天知道里面到底有些什么成分。",
+      "source_hash": "96ae8c3e4ab0cc3e2ba9d21eadce8c1e37d6a0c14b535c9a45e73a68d6ae4bd7",
+      "target": "Sau khi tiến hành lục soát kiểm tra kỹ lưỡng xưởng ngầm của tên thương nhân này, người ta mới tá hỏa phát hiện ra loại “thuốc kích thích Quỷ Long số 7” mà gã bán thậm chí còn không phải là Quỷ Long số 7 thật, mà chỉ là một hỗn hợp pha chế từ cặn bã của vài loại thuốc kích thích và dược chất cường hóa khác nhau, trời mới biết bên trong rốt cuộc có những thành phần quỷ quái gì.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0017",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0017"
+      ],
+      "source": "也只有妖兽强横的身体才能承受这种“假冒兴奋剂”的摧残，若是那名学生注射下去，只怕当场就爆体而亡了。",
+      "source_hash": "4d80e3b28fe29f2285b8184a4280d95f531f0f4be6751f93ad1501a6e482bc0a",
+      "target": "Cũng chỉ có thân thể cường tráng dũng mãnh của yêu thú mới chịu đựng nổi sự tàn phá của thứ “thuốc kích thích giả” này, chứ nếu học sinh kia tiêm vào thì e là đã nổ xác chết tươi ngay tại chỗ rồi.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0018",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0018"
+      ],
+      "source": "在整件事中，最让人惋惜的，除了九名惨死的考生之外，就是身受重伤、陷入昏迷的李耀了。",
+      "source_hash": "f5499b404de71ac3a311a6dd6855fccc57e97f270ef1e5a6c018ca2af1704163",
+      "target": "Trong toàn bộ vụ việc này, điều khiến người ta tiếc nuối nhất ngoài chín thí sinh thiệt mạng chính là Lý Diệu bị trọng thương hôn mê bất tỉnh.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0019",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0019"
+      ],
+      "source": "浮戈城当地新闻媒体以《一闪而逝的妖星》为题目，发出了一系列的评论文章。",
+      "source_hash": "bcb7f34227588d2eb6e350a76c37999071450267a0eea5b271b301a675b85874",
+      "target": "Truyền thông báo chí địa phương Phù Qua Thành đã đăng tải một chuỗi bài bình luận với tiêu đề 《Ngôi sao yêu tinh lóe lên rồi vụt tắt》.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0020",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0020"
+      ],
+      "source": "“李耀同学原本是一颗冉冉升起的新星，刚刚在极限挑战赛中创造了前无古人，后无来者的成绩，受到九大精英联校的共同关注！”",
+      "source_hash": "09094a7021b13085c7627677490759a2cf1819d0d1bd1de78bf65950738f20b5",
+      "target": "“Bạn học Lý Diệu vốn dĩ là một ngôi sao mới đang trỗi dậy mạnh mẽ, vừa lập nên thành tích vô tiền khoáng hậu trong Giải đấu Thử thách Cực hạn, thu hút sự chú ý sát sao của Chín đại học tinh anh liên kết!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0021",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0021"
+      ],
+      "source": "“这样一个年轻人，应该拥有光辉灿烂的前途，却因为一场意外，过早地失去了踏入修真界的机会，他的大脑受到诡异的精神攻击，松果体几乎被完全撕裂，灵根开发度跌到7%，这几乎是小学低年级孩童的程度，即便他能够苏醒，恐怕也无法再修炼了！”",
+      "source_hash": "4cb72957337d9350d9a9f1360df0b36d3c4dc562e84cc1e614cc03c1416e7715",
+      "target": "“Một người trẻ tuổi như vậy lẽ ra phải có tiền đồ vô cùng xán lạn, nhưng vì một tai nạn ngoài ý muốn đã quá sớm đánh mất cơ hội bước chân vào tu chân giới. Đại não của cậu bị đòn tấn công tinh thần quái dị gây tổn thương, tuyến tùng gần như bị xé rách hoàn toàn, độ khai phát linh căn tụt dốc thê thảm chỉ còn 7%, mức độ này tương đương với đứa trẻ tiểu học lớp dưới. Cho dù cậu có thể tỉnh lại đi chăng nữa thì e rằng cũng không cách nào tu luyện được nữa!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0022",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0022"
+      ],
+      "source": "文章用十分惋惜的语气说道。",
+      "source_hash": "4b82dfa0c6ceb2b10147b4aabfc480e5be7800553567b069fe5d5807c8e66f0b",
+      "target": "Bài báo viết bằng một giọng điệu đầy vẻ thương tiếc.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0023",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0023"
+      ],
+      "source": "而在各大论坛中，网友对此的评论就五花八门得多了。",
+      "source_hash": "fe567d8b8581c723e2c3f14a17dadab20821e70736347b0cbe63bbf469d82472",
+      "target": "Trong khi đó, trên khắp các diễn đàn lớn, bình luận của cư dân mạng lại muôn hình vạn trạng hơn nhiều.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0024",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0024"
+      ],
+      "source": "不少人纷纷为李耀惋惜：“太可惜了，如果不是这场意外，只怕他已经被九大精英联校特招了吧，现在就太惨了！”",
+      "source_hash": "6f3be300352a9507c00335c336fc4db68ea0b63264175433e016a659aa9177d8",
+      "target": "Rất nhiều người bày tỏ sự tiếc nuối cho Lý Diệu: “Quá đáng tiếc, nếu không có tai nạn này thì e là cậu ấy đã được tuyển thẳng vào Chín đại học tinh anh liên kết rồi, giờ thì thảm hại thật!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0025",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0025"
+      ],
+      "source": "也有很大一部分人幸灾乐祸，尖酸刻薄地说：“谁叫他要这么嚣张？把整个蓝方指挥中心都一锅端？一下子把几十个人踢出局？很厉害啊！这下好了，一场意外，就把他打回原形！”",
+      "source_hash": "33b20f76a99924fcac2cd229e297ab27cd4e6c9f897f641d6870cb64389ebff6",
+      "target": "Cũng có một bộ phận không nhỏ tỏ thái độ hả hê trước tai họa của người khác, châm chọc mỉa mai: “Ai bảo thích huênh hoang kiêu ngạo làm chi? Bứng sạch cả trung tâm chỉ huy phe Xanh? Một phát đá phăng mấy chục người ra khỏi cuộc chơi? Oai phong quá cơ! Giờ thì hay rồi, một tai nạn bất ngờ đã đánh cho hiện nguyên hình!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0026",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0026"
+      ],
+      "source": "不过对绝大多数人来说，这只是一件无足轻重的小事。",
+      "source_hash": "45627f04c76b1fee030c914682d55fb5fade925ec330ae6db525f7f222ea66fa",
+      "target": "Thế nhưng đối với đại đa số mọi người, đây chỉ là một chuyện nhỏ nhặt không đáng để tâm.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0027",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0027"
+      ],
+      "source": "在这个信息大爆炸的时代，天大的新闻都只能热闹三天，更何况高考将至，大家疯狂修炼都来不及，谁还会一天到晚关注别人的新闻？",
+      "source_hash": "69570745cd423c1312027d9108b200fbbf6df266c818e7a9e116b5cc1704975a",
+      "target": "Trong thời đại bùng nổ thông tin này, tin tức giật gân đến mấy cũng chỉ gây ồn ào được ba ngày là cùng. Huống chi kỳ thi đại học sắp sửa gõ cửa, ai nấy đều cắm đầu tu luyện điên cuồng còn không kịp, hơi đâu mà suốt ngày theo dõi tin tức của người khác?",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0028",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0028"
+      ],
+      "source": "不就是一个天才陨落了吗？",
+      "source_hash": "e2d69226b830f52932936328ade16f25aad1002a44767c0656286dadead0ea9f",
+      "target": "Chẳng phải chỉ là một thiên tài sa sút thôi sao?",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0029",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0029"
+      ],
+      "source": "联邦这么大，每天都有不少强者、天才，因为这样那样的原因，或者走火入魔，或者被妖兽吞噬，或者在宗派暗斗中悄无声息地死去。",
+      "source_hash": "80f3e67da25a84f16f5aa55d2fac07d97e5895457918fdd142025f7a02ac352b",
+      "target": "Liên Bang rộng lớn nhường này, mỗi ngày có biết bao cường giả, thiên tài vì đủ loại lý do khác nhau mà hoặc là tẩu hỏa nhập ma, hoặc bị yêu thú nuốt chửng, hoặc âm thầm chết đi trong các cuộc đấu đá nội bộ của các tông phái.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0030",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0030"
+      ],
+      "source": "和他们一比，李耀又算什么？",
+      "source_hash": "e15faa97957fa0f7091a84185356f84bf6e1597f77aa6ffe1b212a5c14693d68",
+      "target": "So sánh với bọn họ thì Lý Diệu đã là cái gì chứ?",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0031",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0031"
+      ],
+      "source": "在热闹了几天之后，魔蛟岛上发生的意外很快就沉寂下去，李耀这个“一闪而逝的妖星”，也被大家遗忘了。",
+      "source_hash": "b17ff320bd2942e5ebe3e6aa5b64e81b8bd47ea81f91c849212cbf1a044cae18",
+      "target": "After vài ngày xôn xao, tai nạn trên Đảo Ma Giao nhanh chóng chìm xuống, Lý Diệu - “ngôi sao yêu tinh lóe lên rồi vụt tắt” kia cũng bị mọi người quên lãng.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0032",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0032"
+      ],
+      "source": "……",
+      "source_hash": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+      "target": "......",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0033",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0033"
+      ],
+      "source": "一星期后，浮戈城第一医院，重症加护病房。",
+      "source_hash": "feda00ace37db68738df5a356c71db0c2bfe377241a35c4b96a3aa94e19889ff",
+      "target": "Một tuần sau, tại phòng chăm sóc đặc biệt bệnh viện số một Phù Qua Thành.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0034",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0034"
+      ],
+      "source": "一个巨大的金属医疗舱，外面镌刻着一圈又一圈的灵符，组成一座巨大的符阵。",
+      "source_hash": "fc8348c8f0ca586c8f2e586981adda74082d2225edcd946e5167eb20fbfa91a2",
+      "target": "Một khoang y tế bằng kim loại khổng lồ, bên ngoài khắc chi chít vòng này qua vòng khác các linh phù, ghép thành một trận pháp bùa chú đồ sộ.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0035",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0035"
+      ],
+      "source": "符阵周围还镶嵌着上百枚乳白色的晶石，微微震荡，散发出令人宁神静气的波动。",
+      "source_hash": "a7ddecef2e67dc4930e9dab7e52f59db28a27907f899e8625fa894c42e2eed6f",
+      "target": "Xung quanh trận pháp bùa chú còn khảm nạm hơn trăm viên tinh thạch màu trắng sữa khẽ rung động nhè nhẹ, tỏa ra những luồng sóng năng lượng làm dịu tinh thần.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0036",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0036"
+      ],
+      "source": "李耀一动不动地躺在医疗舱内，白色被单下的身躯显得格外瘦弱干瘪，浑身上下插满了管子，额头还贴着一张镇魂安神的灵符。",
+      "source_hash": "2781f9de8fe9e9e9d49a5f143a3af217e49d0cd4ca53c19746b8bcae2feaf517",
+      "target": "Lý Diệu nằm bất động bên trong khoang y tế, thân thể dưới tấm ga trải giường màu trắng trông đặc biệt gầy gò khô héo, khắp người cắm đầy các loại ống truyền dẫn, trên trán còn dán một tấm bùa trấn hồn an thần.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0037",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0037"
+      ],
+      "source": "在灵符之下，他的眼皮疯狂跳动，沉浸在一场无比激烈的梦魇之中。",
+      "source_hash": "7b79797f971f92161ca00ed1af2395afb58a1e920253c43d18555a10c49b55a3",
+      "target": "Phía dưới tấm bùa chú, mi mắt cậu co giật điên cuồng, chìm đắm trong một cơn ác mộng vô cùng dữ dội.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0038",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0038"
+      ],
+      "source": "赵树德和谢听弦站在床位，听一名穿着白大褂的医生讲解李耀的病情。",
+      "source_hash": "20a14e061f79bb32b354a610f2e9f52ff1595ab7d8f5ea19761d5753856c4c0c",
+      "target": "Triệu Thụ Đức và Tạ Thính Huyền đứng ở bên giường, lắng nghe một vị bác sĩ mặc áo blouse trắng giải thích về bệnh tình của Lý Diệu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0039",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0039"
+      ],
+      "source": "“李耀同学的身体并无大碍，但是他被一头变异巨目猿的精神攻击所伤，灵根完全撕裂，脑域陷入无比混乱的境地！”",
+      "source_hash": "479e5f374c25ccae2a88a96f5da3350eb038eeca882cb14df1748a19ae802152",
+      "target": "“Thể xác của bạn học Lý Diệu không có gì đáng ngại, thế nhưng cậu ấy bị đòn tấn công tinh thần của con Vượn Khổng Nhãn biến dị gây tổn thương trầm trọng, linh căn bị xé rách hoàn toàn, não bộ rơi vào tình trạng hỗn loạn kinh khủng!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0040",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0040"
+      ],
+      "source": "“他的身体为了保护大脑，自然而然地进入了‘深度睡眠’状态，在这种状态下，他的大脑就像是一个黑洞，正在疯狂地吸收奇经八脉，四肢百骸中的能量，你们看，即便我们不断往他身体里注射强化药剂和高能营养液都无济于事。”",
+      "source_hash": "8aff6b7a1a13034054ba24a0968a4829f0980bb1fe1b2cf8816857d6569c327c",
+      "target": "“Cơ thể cậu ấy tự động đi vào trạng thái ‘ngủ sâu’ để bảo vệ não bộ. Trong trạng thái này, đại não của cậu ấy giống như một hố đen vũ trụ, đang điên cuồng hấp thu năng lượng từ kinh mạch và lục phủ ngũ tạng khắp toàn thân. Hai vị nhìn xem, ngay cả khi chúng ta liên tục tiêm dược chất cường hóa và dung dịch dinh dưỡng năng lượng cao vào cơ thể cậu ấy thì cũng chẳng ăn thua gì.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0041",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0041"
+      ],
+      "source": "“他的大脑在一秒钟之内，就能消耗常人大脑一个月甚至一年所需的能量！”",
+      "source_hash": "d78e7455396729f8422ec6ded8c0c80b1a09360afb77c55e58b198e1c3b37371",
+      "target": "“Chỉ trong một giây ngắn ngủi, bộ não của cậu ấy có thể tiêu thụ lượng năng lượng bằng một người bình thường dùng trong cả tháng, thậm chí cả năm trời!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0042",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0042"
+      ],
+      "source": "白大褂叹息着说。",
+      "source_hash": "ee6ae736c1cb059e10f3047b0e8a3c71503ddd9d1d4919a551194419e7c6807b",
+      "target": "Vị bác sĩ mặc áo blouse trắng thở dài ngao ngán.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0043",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0043"
+      ],
+      "source": "赵树德深深皱眉，问道：“顾医生，以你的经验来看，李耀同学究竟什么时候会醒过来？还有，他的灵根撕裂，灵根开发度只剩下7%，醒来之后，有多少几率能恢复？”",
+      "source_hash": "9020dbbb0de70688b6d61606507d454e46cb19ace4cc312bcc759992432bc733",
+      "target": "Triệu Thụ Đức nhíu chặt lông mày hỏi: “Bác sĩ Cố, dựa trên kinh nghiệm của ông thì rốt cuộc khi nào bạn học Lý Diệu mới tỉnh lại? Thêm nữa linh căn của cậu ấy bị xé rách, độ khai phát linh căn chỉ còn lại 7%. Sau khi tỉnh dậy có bao nhiêu phần trăm hồi phục được?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0044",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0044"
+      ],
+      "source": "白大褂苦笑一声，道：",
+      "source_hash": "84b2c3cdc6e49ac9e6c7e9069a1571b6d51890623eb6e65a93e7a92294b9c28b",
+      "target": "Vị bác sĩ mặc áo blouse trắng cười khổ một tiếng bảo:",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0045",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0045"
+      ],
+      "source": "“赵校长，实在惭愧，李耀同学的情况，是我踏入修真界这么多年来都没有遇到过的！对他发动攻击的巨目猿，是注射了兴奋剂之后产生突变的变异体，可是这种兴奋剂根本是乱七八糟的劣药，没人知道具体的成分，也不知巨目猿的精神攻击究竟被扭曲到了何种程度，更不知对人脑会产生什么后果——在这种情况下，我们也只有等了！”",
+      "source_hash": "83bf0ad00e6308dc00de2063ad2065c6e3b0ba3b3101a2d58048bb9ebc084166",
+      "target": "“Hiệu trưởng Triệu, thực sự hổ thẹn, tình trạng của bạn học Lý Diệu là thứ tôi bước chân vào tu chân giới bao năm nay chưa từng gặp qua! Con Vượn Khổng Nhãn tấn công cậu ấy là vật thể biến dị phát sinh đột biến sau khi tiêm thuốc kích thích, thế nhưng thứ thuốc kích thích đó lại là loại thuốc giả lậu kém chất lượng hỗn tạp, chẳng ai biết rõ thành phần cụ thể ra sao, cũng không rõ đòn tấn công tinh thần của Vượn Khổng Nhãn đã bị biến dạng tới mức độ nào, lại càng không biết sẽ gây ra hậu quả gì cho não bộ con người——trong trường hợp này, chúng ta chỉ còn cách chờ đợi mà thôi!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0046",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0046"
+      ],
+      "source": "赵树德脸上的阴郁之色越来越浓，有些失望道：“顾医生，你是浮戈城首屈一指的冥修师，对精神领域的造诣很深，连你都不知道？”",
+      "source_hash": "6a9d6b1153e7bded5bb43308d78a456b86c94a2f7264355513fb6d41d0631813",
+      "target": "Vẻ âm u trên mặt Triệu Thụ Đức ngày càng đậm, thất vọng nói: “Bác sĩ Cố, ông là Minh Tu Sư hàng đầu ở Phù Qua Thành, có nghiên cứu cực sâu về lĩnh vực tinh thần, ngay cả ông cũng không biết sao?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0047",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0047"
+      ],
+      "source": "白大褂道：",
+      "source_hash": "e6f19aed033c5eaae04f37c9e1de2d268c428169580cc6b357cbaf2c77855170",
+      "target": "Vị bác sĩ mặc áo blouse trắng nói:",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0048",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0048"
+      ],
+      "source": "“人脑，是最复杂玄奥的器官；精神领域，更是常人无法想象的神秘世界！”",
+      "source_hash": "30ead971983bf0227832f14ce33ec89c94d2de663322ad9d7ca947ed22c18574",
+      "target": "“Bộ não con người là cơ quan phức tạp bí ẩn nhất, còn lĩnh vực tinh thần lại càng là thế giới huyền bí vượt ngoài tầm tưởng tượng của người thường!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0049",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0049"
+      ],
+      "source": "“修真文明发展到今天，我们对人体已经了如指掌；但大脑，仍旧是不可窥探的禁区！”",
+      "source_hash": "92d56505c4a9e4f02759c92d65e0271033a3857832b699709ada2cd298ac9ca4",
+      "target": "“Văn minh tu chân phát triển đến ngày nay, chúng ta đã nắm lòng bàn tay về cơ thể người, nhưng bộ não vẫn là vùng cấm bất khả xâm phạm!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0050",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0050"
+      ],
+      "source": "“我也尝试过进入李耀同学的脑域，却被一股狂暴的力量阻挡，差一点就走火入魔——看来那种兴奋剂一定十分厉害，将巨目猿的精神攻击强化到了极致！”",
+      "source_hash": "3e90d70b2bb7bd2e73169d0458cc9c85657117c3cefc576dd34d225905ff716d",
+      "target": "“Tôi cũng đã thử xâm nhập vào vùng não của bạn học Lý Diệu nhưng bị một nguồn sức mạnh bạo liệt ngăn cản, suýt chút nữa là tẩu hỏa nhập ma——xem ra loại thuốc kích thích kia vô cùng lợi hại, đã cường hóa đòn tấn công tinh thần của Vượn Khổng Nhãn lên tới cực hạn!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0051",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0051"
+      ],
+      "source": "“在这种情况下，谁都不知道李耀同学何时能够苏醒，运气好，有可能明天就醒；运气不好，也许一辈子就‘深度睡眠’过去，也未可知。”",
+      "source_hash": "0a936f7bda322cdf235a28d6e9c976af0876de61dd3a90477e853b7ffee6773f",
+      "target": "“Trong tình huống này, không ai có thể biết khi nào bạn học Lý Diệu mới tỉnh dậy, vận may tốt thì ngày mai tỉnh, vận may kém thì e là ngủ say cả đời cũng nên.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0052",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0052"
+      ],
+      "source": "顿了一顿，又道，“不过，这种身受重伤导致松果体撕裂，灵根开发度大幅下跌的案例，在近三百年间，倒是也有几百例，绝大部分人在灵根撕裂之后，都变成了无法修炼的废人，只有极少数人能恢复，最多七八个吧，所以，你若问我李耀同学是否还能修炼，我的回答是——概率不超过1%！”",
+      "source_hash": "ab818b3879d679aa61f3d52ba632d618a81b652cc8b7bc6ea162a6829de9cbcf",
+      "target": "Ngập ngừng một lát, ông ta nói tiếp: “Tuy nhiên, những ca bệnh bị chấn thương nặng dẫn tới tuyến tùng bị xé rách, độ khai phát linh căn sụt giảm nghiêm trọng thế này thì trong vòng ba trăm năm qua cũng có vài trăm trường hợp. Đại đa số mọi người sau khi bị xé rách linh căn đều trở thành phế nhân không thể tu luyện, chỉ có số cực ít có thể phục hồi, nhiều nhất cũng chỉ khoảng bảy tám người. Thế nên nếu ông hỏi tôi liệu bạn học Lý Diệu có thể tu luyện tiếp được hay không, câu trả lời của tôi là——tỷ lệ không vượt quá 1%!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0053",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0053"
+      ],
+      "source": "赵树德长长叹了口气，失望之色溢于言表。",
+      "source_hash": "2355fbc2ee9a8ecbed5bb62df1f63fee2e21503aceeffb0a7b725a9081009d03",
+      "target": "Triệu Thụ Đức thở dài một hơi sườn sượt, sự thất vọng lộ rõ trên nét mặt.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0054",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0054"
+      ],
+      "source": "他走到角落，打开了手腕上的微型晶脑，光幕中出现一名温文尔雅的中年人，正是赤霄派长老“周隐”！",
+      "source_hash": "d4e83e51573131525f88164da34fa754b438b105d277caf323d9171f7d0387f0",
+      "target": "Lão đi ra góc phòng, mở máy Tinh não mini trên cổ tay lên, trên màn hình ánh sáng xuất hiện một người đàn ông trung niên nho nhã lịch sự, chính là Chu Ẩn - trưởng lão Xích Tiêu Phái!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0055",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0055"
+      ],
+      "source": "“没希望了？”周隐一看赵树德的表情就猜了出来，淡淡问道。",
+      "source_hash": "529c62e6f6e85dc38fb30d0be06a2293c32f0598d996929da13a315bc1c30cf3",
+      "target": "“Không còn hy vọng gì sao?” Chu Ẩn nhìn thấy nét mặt của Triệu Thụ Đức liền đoán ra được ngay, bình thản hỏi.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0056",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0056"
+      ],
+      "source": "“是的，医生也不知道他什么时候会醒，即便醒来，重新修炼的可能性也小于1%。”赵树德十分可惜地说。",
+      "source_hash": "1061e8a94162c50e30be56d11a98fbb6400e0ae1a03f549336b34b78378d79c5",
+      "target": "“Đúng vậy, bác sĩ cũng không rõ khi nào cậu ta mới tỉnh. Mà cho dù có tỉnh lại thì khả năng tu luyện lại từ đầu cũng nhỏ hơn 1%.” Triệu Thụ Đức tiếc rẻ vô cùng nói.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0057",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0057"
+      ],
+      "source": "周隐点了点头，神色不变：“是有些可惜，不过没办法，修真界就是这么残酷，每秒钟都有无数天才诞生，每秒钟也有无数天才陨落。要成为修真者，天赋、勤奋、人脉、运气，缺一不可，他是天才，可是少了点运气，又能怪谁？从现在起，原本准备投放到他身上的资源，全都收回来吧，我记得你们学校的赫连烈和司佳雪都不错，把那些资源，给这两个人吧！”",
+      "source_hash": "a10a61c9a85865cadb9874e9dbe3d8869816fb1ecdf4747479d52fda1f5f938e",
+      "target": "Chu Ẩn gật đầu, sắc mặt không hề lay chuyển: “Đúng là hơi tiếc thật, nhưng không có cách nào khác, tu chân giới vốn dĩ khốc liệt như thế, mỗi giây trôi qua đều có vô số thiên tài chào đời và cũng có vô số thiên tài lụi tàn. Muốn trở thành Tu Chân Giả thì thiên phú, chuyên cần, mạng lưới quan hệ và vận may đều không thể thiếu. Cậu ta đúng là một thiên tài nhưng lại thiếu mất một chút vận may, biết trách ai được đây? Kể từ bây giờ, tất cả tài nguyên ban đầu dự định đổ vào người cậu ta hãy thu hồi lại hết đi. Ta nhớ học sinh Hách Liên Liệt và Tiêu Giai Tuyết của trường các ông đều rất khá, hãy đem số tài nguyên đó trao cho hai người này!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0058",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0058"
+      ],
+      "source": "“是，一切都听周长老安排，对了，这个李耀和赫连烈在魔蛟岛上又闹出一些误会，赫连董事很不高兴，万一李耀醒过来了，他们……”",
+      "source_hash": "68b6bc8c7a1836ad6db6d1a3a0e8e9e728f0e22f202aff6d8e2c9749e5726b0e",
+      "target": "“Vâng, mọi việc đều nghe theo sự sắp xếp của Chu trưởng lão. Phải rồi, Lý Diệu này và Hách Liên Liệt lại vừa xảy ra chút hiểu lầm trên Đảo Ma Giao, giám đốc Hách Liên vô cùng không hài lòng. Ngộ nhỡ Lý Diệu tỉnh dậy, bọn họ...”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0059",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0059"
+      ],
+      "source": "赵树德试探性地问。",
+      "source_hash": "1e1dfcfd271c5e9c31534c213d8ee1132ef065595a101b4da8f9aee5f023cdd5",
+      "target": "Triệu Thụ Đức thăm dò hỏi.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0060",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0060"
+      ],
+      "source": "周隐十分温和地笑了笑，道：“我原先看好李耀，是把他当一个值得培养的好苗子；可是眼下，他已经成了废物，和我还有什么关系？他的事情，不用再和我说了。”",
+      "source_hash": "e7eb5b23608f6e55551cd581faca4b749b9cc7a4f5f6468620d05bc8bc2f404b",
+      "target": "Chu Ẩn nở nụ cười vô cùng ôn hòa bảo: “Trước kia ta ưu ái Lý Diệu là coi cậu ta như một mầm non tốt đáng để bồi dưỡng. Thế nhưng hiện tại cậu ta đã là phế nhân rồi thì còn liên quan gì tới ta nữa? Chuyện của cậu ta từ nay không cần bẩm báo với ta nữa.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0061",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0061"
+      ],
+      "source": "“我明白了。”",
+      "source_hash": "f4356e2120f39a477af715afa3b7ca7e9692515dba650124069646fde30d548d",
+      "target": "“Tôi hiểu rồi.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0062",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0062"
+      ],
+      "source": "赵树德关闭晶脑，走到白大褂身边，随口道：“既然连顾医生都如此说，那我也只好静观其变，顾医生，我先走一步了——谢教授，您怎么说？”",
+      "source_hash": "0a73a936c0323e0fb7f6cf6d514a42b54aa5bed146a791fef2eb8a760687c6f4",
+      "target": "Triệu Thụ Đức tắt Tinh não đi, rảo bước tới cạnh vị bác sĩ mặc áo blouse trắng, thuận miệng nói: “Đã bác sĩ Cố cũng khẳng định như vậy thì tôi cũng chỉ biết ngồi chờ biến chuyển mà thôi. Bác sĩ Cố, tôi xin phép đi trước một bước——giáo sư Tạ, ngài tính sao?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0063",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0063"
+      ],
+      "source": "谢听弦犹豫片刻，道：“我再等等。”",
+      "source_hash": "b84fb9e70094d6e219de1b0f19cd50aadefc3fb07e8ca2d5e83bcc8c0c688d82",
+      "target": "Tạ Thính Huyền ngập ngừng giây lát rồi đáp: “Tôi chờ thêm chút nữa.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0064",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0064"
+      ],
+      "source": "赵树德点了点头，向外走去。",
+      "source_hash": "ac24ec9041d060f6592544bc4d906e0fb40b9235f87682c85c3ae42668d282d0",
+      "target": "Triệu Thụ Đức gật đầu, rảo bước ra ngoài.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0065",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0065"
+      ],
+      "source": "在踏出房门的一刹那，他又回头看了一眼医疗舱内的李耀。",
+      "source_hash": "0e90d0f658625d3a112d43f53e2ee85520e7d2c24ce87f4290ba61614840d278",
+      "target": "Ngay khoảnh khắc bước chân ra khỏi cửa phòng, lão lại quay đầu liếc nhìn Lý Diệu nằm trong khoang y tế thêm một cái.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0070:align_0066",
+      "chapter_id": "chapter_0070",
+      "segment_ids": [
+        "chapter_0070:seg_0066"
+      ],
+      "source": "赤霄二中校长赵树德的眼神变得无比冰冷，就像在看一袋垃圾。",
+      "source_hash": "5d9a279ec6e1d1762cd4ab439fc6068a3a3329a4777e965c5067037bb8ff5079",
+      "target": "Ánh mắt của hiệu trưởng trường Xích Tiêu Nhị Trung Triệu Thụ Đức chợt biến đổi thành vô cùng lạnh lẽo, hệt như đang nhìn một túi rác thải.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    }
+  ],
+  "term_occurrences": [
+    {
+      "chapter_id": "chapter_0070",
+      "source_term": "浮戈城",
+      "target_term": "Phù Qua Thành",
+      "segment_id": "chapter_0070:seg_0019",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0070",
+      "source_term": "晶脑",
+      "target_term": "Tinh não",
+      "segment_id": "chapter_0070:seg_0054",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0070",
+      "source_term": "赤霄二中",
+      "target_term": "Xích Tiêu Nhị Trung",
+      "segment_id": "chapter_0070:seg_0066",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0070",
+      "source_term": "九大精英联校",
+      "target_term": "Chín đại học tinh anh liên kết",
+      "segment_id": "chapter_0070:seg_0020",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0070",
+      "source_term": "灵根",
+      "target_term": "Linh căn",
+      "segment_id": "chapter_0070:seg_0021",
+      "present_in_target": false,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0070",
+      "source_term": "松果体",
+      "target_term": "tuyến tùng",
+      "segment_id": "chapter_0070:seg_0021",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0070",
+      "source_term": "灵根开发度",
+      "target_term": "độ khai phát linh căn",
+      "segment_id": "chapter_0070:seg_0021",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0070",
+      "source_term": "一百零八手披风乱锤法",
+      "target_term": "Một trăm lẻ tám thức Phách Phong Loạn Chùy Pháp",
+      "segment_id": "chapter_0070:seg_0008",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "technique",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0070",
+      "source_term": "司佳雪",
+      "target_term": "Tiêu Giai Tuyết",
+      "segment_id": "chapter_0070:seg_0057",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0070",
+      "source_term": "谢听弦",
+      "target_term": "Tạ Thính Huyền",
+      "segment_id": "chapter_0070:seg_0038",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0070",
+      "source_term": "魔蛟岛",
+      "target_term": "Đảo Ma Giao",
+      "segment_id": "chapter_0070:seg_0011",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0070",
+      "source_term": "鬼龙7号",
+      "target_term": "Quỷ Long số 7",
+      "segment_id": "chapter_0070:seg_0016",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0070",
+      "source_term": "巨目猿",
+      "target_term": "Vượn Khổng Nhãn",
+      "segment_id": "chapter_0070:seg_0039",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "beast",
+      "confidence": 1.0
+    }
+  ],
+  "entity_mentions": [
+    {
+      "chapter_id": "chapter_0070",
+      "source_surface": "李耀",
+      "target_surface": "Lý Diệu",
+      "entity_type": "person",
+      "segment_id": "chapter_0070:seg_0002",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0070",
+      "source_surface": "赵树德",
+      "target_surface": "Triệu Thụ Đức",
+      "entity_type": "person",
+      "segment_id": "chapter_0070:seg_0038",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0070",
+      "source_surface": "司佳雪",
+      "target_surface": "Tiêu Giai Tuyết",
+      "entity_type": "person",
+      "segment_id": "chapter_0070:seg_0057",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0070",
+      "source_surface": "赫连烈",
+      "target_surface": "Hách Liên Liệt",
+      "entity_type": "person",
+      "segment_id": "chapter_0070:seg_0057",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0070",
+      "source_surface": "周隐",
+      "target_surface": "Chu Ẩn",
+      "entity_type": "person",
+      "segment_id": "chapter_0070:seg_0054",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0070",
+      "source_surface": "谢听弦",
+      "target_surface": "Tạ Thính Huyền",
+      "entity_type": "person",
+      "segment_id": "chapter_0070:seg_0038",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0070",
+      "source_surface": "赤霄派",
+      "target_surface": "Xích Tiêu Phái",
+      "entity_type": "factions",
+      "segment_id": "chapter_0070:seg_0054",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0070",
+      "source_surface": "一百零八手披风乱锤法",
+      "target_surface": "Một trăm lẻ tám thức Phách Phong Loạn Chùy Pháp",
+      "entity_type": "techniques",
+      "segment_id": "chapter_0070:seg_0008",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0070",
+      "source_surface": "强化药剂",
+      "target_surface": "Dược chất cường hóa Linh Căn",
+      "entity_type": "cultivation_resources",
+      "segment_id": "chapter_0070:seg_0016",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0070",
+      "source_surface": "浮戈城",
+      "target_surface": "Phù Qua Thành",
+      "entity_type": "locations",
+      "segment_id": "chapter_0070:seg_0019",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0070",
+      "source_surface": "魔蛟岛",
+      "target_surface": "Đảo Ma Giao",
+      "entity_type": "locations",
+      "segment_id": "chapter_0070:seg_0011",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0070",
+      "source_surface": "鬼龙7号",
+      "target_surface": "Quỷ Long số 7",
+      "entity_type": "items",
+      "segment_id": "chapter_0070:seg_0016",
+      "confidence": 1.0
+    }
+  ],
+  "name_analysis": {
+    "status": "ok",
+    "evidence_count": 6,
+    "name_mentions": [
+      {
+        "chapter_id": "chapter_0070",
+        "name_source": "李耀",
+        "name_target": "Lý Diệu",
+        "segment_id": "chapter_0070:seg_0002",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0070",
+        "name_source": "赵树德",
+        "name_target": "Triệu Thụ Đức",
+        "segment_id": "chapter_0070:seg_0038",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0070",
+        "name_source": "司佳雪",
+        "name_target": "Tiêu Giai Tuyết",
+        "segment_id": "chapter_0070:seg_0057",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0070",
+        "name_source": "赫连烈",
+        "name_target": "Hách Liên Liệt",
+        "segment_id": "chapter_0070:seg_0057",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0070",
+        "name_source": "周隐",
+        "name_target": "Chu Ẩn",
+        "segment_id": "chapter_0070:seg_0054",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0070",
+        "name_source": "谢听弦",
+        "name_target": "Tạ Thính Huyền",
+        "segment_id": "chapter_0070:seg_0038",
+        "present_in_target": true,
+        "confidence": 1.0
+      }
+    ],
+    "name_entries": [
+      {
+        "name_source": "李耀",
+        "name_target": "Lý Diệu"
+      },
+      {
+        "name_source": "赵树德",
+        "name_target": "Triệu Thụ Đức"
+      },
+      {
+        "name_source": "司佳雪",
+        "name_target": "Tiêu Giai Tuyết"
+      },
+      {
+        "name_source": "赫连烈",
+        "name_target": "Hách Liên Liệt"
+      },
+      {
+        "name_source": "周隐",
+        "name_target": "Chu Ẩn"
+      },
+      {
+        "name_source": "谢听弦",
+        "name_target": "Tạ Thính Huyền"
+      }
+    ],
+    "transliteration_units": [],
+    "inferred_name_rules": [],
+    "ambiguity_cases": [],
+    "reusable_name_profile": {
+      "mapping_count": 6,
+      "has_ambiguity": false
+    }
+  },
+  "phrase_patterns": [],
+  "grammar_rule_candidates": [],
+  "analyzer_reports": {
+    "term_occurrences": {
+      "status": "ok",
+      "evidence_count": 13
+    },
+    "entity_mentions": {
+      "status": "ok",
+      "evidence_count": 12
+    },
+    "name_mentions": {
+      "status": "ok",
+      "evidence_count": 6
+    },
+    "phrase_patterns": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    },
+    "grammar_rule_candidates": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    }
+  },
+  "review_queue": [
+    {
+      "chapter_id": "chapter_0070",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "顾医生",
+        "entity_type": "person",
+        "count": 3,
+        "confidence": 0.82,
+        "evidence": [
+          "德深深皱眉，问道：“顾医生，以你的经验来看，李",
+          "越浓，有些失望道：“顾医生，你是浮戈城首屈一指",
+          "那我也只好静观其变，顾医生，我先走一步了——谢"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0070",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "全撕裂",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.82,
+        "evidence": [
+          "攻击，松果体几乎被完全撕裂，灵根开发度跌到7%",
+          "精神攻击所伤，灵根完全撕裂，脑域陷入无比混乱的"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0070",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "成分",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "知道里面到底有些什么成分。\n\n也只有妖兽强横",
+          "劣药，没人知道具体的成分，也不知巨目猿的精神"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0070",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "李耀",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "笑，道：“我原先看好李耀，是把他当一个值得培",
+          "头看了一眼医疗舱内的李耀。\n\n赤霄二中校长赵"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0070",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "程度",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "乎是小学低年级孩童的程度，即便他能够苏醒，恐",
+          "击究竟被扭曲到了何种程度，更不知对人脑会产生"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0070",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "能恢复",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.82,
+        "evidence": [
+          "醒来之后，有多少几率能恢复？”\n\n白大褂苦笑一",
+          "的废人，只有极少数人能恢复，最多七八个吧，所以"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0070",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "能量",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "经八脉，四肢百骸中的能量，你们看，即便我们不",
+          "一个月甚至一年所需的能量！”\n\n白大褂叹息着"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0070",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "苏醒",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "童的程度，即便他能够苏醒，恐怕也无法再修炼了",
+          "知道李耀同学何时能够苏醒，运气好，有可能明天"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0070",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "都不知",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.82,
+        "evidence": [
+          "领域的造诣很深，连你都不知道？”\n\n白大褂道：",
+          "\n“在这种情况下，谁都不知道李耀同学何时能够苏"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0070",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "一下子把几十个人踢出局",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "方指挥中心都一锅端？一下子把几十个人踢出局？很厉害啊！这下好了"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0070",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "过早地失去了踏入修真界的机会",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "途，却因为一场意外，过早地失去了踏入修真界的机会，他的大脑受到诡异的"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0070",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "这个李耀和赫连烈在魔蛟岛上又闹出一些误会",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "听周长老安排，对了，这个李耀和赫连烈在魔蛟岛上又闹出一些误会，赫连董事很不高兴，"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0070",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "仍旧是不可窥探的禁区",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "经了如指掌；但大脑，仍旧是不可窥探的禁区！”\n\n“我也尝试过"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0070",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "我也尝试过进入李耀同学的脑域",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "窥探的禁区！”\n\n“我也尝试过进入李耀同学的脑域，却被一股狂暴的力量"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0070",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "精神领域",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "首屈一指的冥修师，对精神领域的造诣很深，连你都不"
+        ]
+      }
+    }
+  ],
+  "quality_audit": {
+    "segment_coverage": 1.0,
+    "source_hash_match": true,
+    "target_reconstruction_match": true,
+    "invalid_ref_count": 0,
+    "locked_term_hit_rate": 1.0,
+    "missing_locked_terms": [],
+    "cjk_residue_count": 0,
+    "paragraph_drift_ratio": 0.0,
+    "pronoun_consistency_score": 1.0,
+    "warnings": []
+  }
+}

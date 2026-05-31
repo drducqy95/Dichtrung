@@ -1,0 +1,498 @@
+{
+  "schema_version": "2.0",
+  "chapter_id": "chapter_0073",
+  "source_manifest_hash": "ca48798eb4100a27d2342c1b568de1dab1cf5da0f232c4f37dbf1fc094e9c0a4",
+  "chapter_title_translated": "Một Pháo Oanh Sát!",
+  "segment_translations": [
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0001"
+      ],
+      "target": "# Chương 0073 - Một Pháo Oanh Sát!",
+      "narrative_type": "narration"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0002"
+      ],
+      "target": "“Em Lý Diệu, em không cần lo lắng, toàn bộ chi phí y tế phát sinh trong thời gian em hôn mê, cũng như chi phí hồi phục sau này, thảy đều do quốc gia gánh vác!”",
+      "narrative_type": "dialogue"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0003"
+      ],
+      "target": "“Hơn nữa bắt đầu từ tháng này, mỗi tháng tài khoản của em đều sẽ được chuyển vào ba vạn đồng ‘trợ cấp thương binh cấp một’!”",
+      "narrative_type": "dialogue"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0004"
+      ],
+      "target": "“Nếu như em muốn tìm việc làm, ‘Hiệp hội Thương binh’ chúng tôi cũng sẽ giúp đỡ!”",
+      "narrative_type": "dialogue"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0005"
+      ],
+      "target": "“Nếu em muốn đi học, chúng tôi cũng có thể sắp xếp, để em không cần tham gia kỳ thi đại học, trực tiếp vào học ‘lớp đặc biệt dành cho thương binh’ tại Học viện Quân sự Số 1 Liên bang!”",
+      "narrative_type": "dialogue"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0006"
+      ],
+      "target": "“Ngoài ra, nếu ở ngoài xã hội em gặp phải phiền phức gì, cũng cứ việc đến tìm chúng tôi——Hiệp hội Thương binh Liên bang là một trong những tổ chức quyền thế nhất toàn bộ Thiên Nguyên Giới, một khi xảy ra chuyện, tổng cộng sáu mươi ba triệu thương binh Liên bang đều là hậu thuẫn vững chắc của em!”",
+      "narrative_type": "dialogue"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0007"
+      ],
+      "target": "Người thương binh mặc quân phục màu đen nói đầy khí phách.",
+      "narrative_type": "narration"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0008"
+      ],
+      "target": "“Chuyện này lớn chuyện rồi đây.” Lý Diệu có chút chột dạ.",
+      "narrative_type": "inner_thought"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0009"
+      ],
+      "target": "Trong ấn tượng của cậu, các thương binh Liên bang đều là những cựu binh tóc xóa bạc phơ, mặt đầy nếp nhăn, lắp chi giả linh giới, bước đi khập khiễng.",
+      "narrative_type": "narration"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0010"
+      ],
+      "target": "Trường Xích Tiêu Nhị Trung mỗi năm đều sẽ mời một số thương binh Liên bang đến trường làm báo cáo, tuyên truyền những tấm gương sáng của các anh hùng chiến đấu cho học sinh, hầu hết đều là những cựu binh như vậy.",
+      "narrative_type": "narration"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0011"
+      ],
+      "target": "Có những cựu binh, trong tình cảnh đạn tận lương tuyệt, linh năng cạn kiệt, vẫn cùng ba năm người chiến hữu khác vác theo thanh kiếm cưa xích không thể chuyển động, lao thẳng vào làn sóng yêu thú rợp trời dậy đất!",
+      "narrative_type": "narration"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0012"
+      ],
+      "target": "Mỗi lần nghe thấy những sự tích anh hùng đáng ca ngợi và cảm động như thế, Lý Diệu đều nhiệt huyết sôi trào, ý chí chiến đấu tăng vọt!",
+      "narrative_type": "narration"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0013"
+      ],
+      "target": "Trong lòng cậu, “Thương binh Liên bang” là một danh hiệu vô cùng vinh quang và thần thánh, trao danh hiệu như vậy cho cậu thực sự là nhận mà hổ thẹn.",
+      "narrative_type": "inner_thought"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0014"
+      ],
+      "target": "Nghĩ như vậy, Lý Diệu quyết định nói thật:",
+      "narrative_type": "narration"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0015"
+      ],
+      "target": "“Thực ra thương thế của em không nghiêm trọng như mọi người nghĩ đâu ạ, chỉ cần nghỉ ngơi tĩnh dưỡng vài ngày là có thể phục hồi rồi, thật đó, em không bị tàn tật đâu.”",
+      "narrative_type": "dialogue"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0016"
+      ],
+      "target": "Trong mắt người thương binh lộ ra vẻ tán thưởng không hề che giấu, cánh tay cơ khí của chi giả linh giới vỗ mạnh lên vai Lý Diệu một phát, vỗ đến mức cậu phải nhăn răng méo miệng.",
+      "narrative_type": "narration"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0017"
+      ],
+      "target": "“Khá lắm nhóc con, ta thích ngươi rồi đấy! Nam tử hán chúng ta đội trời đạp đất, chính là phải giống như ngươi, bất kể thân thể ra sao đều phải tràn đầy đấu chí và hy vọng! Đúng vậy, ngươi đương nhiên không có tàn phế, sáu mươi ba triệu thương binh Liên bang chúng ta đều không có tàn phế! Cho dù thân thể chúng ta tàn khuyết, đấu chí và ý chí chiến đấu của chúng ta cũng vĩnh viễn không bao giờ tàn khuyết! Nếu quốc gia thực sự cần, chúng ta bất cứ lúc nào cũng có thể khoác giáp ra trận, đấm nổ một con yêu thú!”",
+      "narrative_type": "dialogue"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0018"
+      ],
+      "target": "“Cái này——”",
+      "narrative_type": "dialogue"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0019"
+      ],
+      "target": "Lý Diệu có chút ê răng, cậu phát hiện tình cảnh của mình quả thực rất khó dùng vài ba câu để giải thích cho rõ ràng.",
+      "narrative_type": "inner_thought"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0020"
+      ],
+      "target": "Quân nhân thương binh trung niên nói: “Em Lý Diệu, bác sĩ Cố đã nói chuyện với tôi, tôi cũng rất rõ tình trạng hiện tại của em, biết em nhất thời nửa khắc có lẽ chưa thể chấp nhận được, thế nhưng——”",
+      "narrative_type": "dialogue"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0021"
+      ],
+      "target": "“Nước có phép nước, quân có quân quy, thưởng phạt phân minh thì lệnh ra mới có người theo!”",
+      "narrative_type": "dialogue"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0022"
+      ],
+      "target": "“Trước khi tham gia Giải đấu Thử thách Cực hạn, chắc hẳn em đã ký một bản văn kiện, biết rằng trong thời gian thi đấu, tất cả thí sinh đều được coi là tạm thời nhập ngũ, sở hữu thân phận quân nhân, phục tùng sự chỉ huy của phía quân đội, và đương nhiên cũng được hưởng các chế độ bảo đảm do quân đội cung cấp!”",
+      "narrative_type": "dialogue"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0023"
+      ],
+      "target": "“Trong trận đấu, đối mặt với một con Vượn Khổng Nhãn biến dị, em đã phát huy trọn vẹn tinh thần huyết chiến đến cùng của Quân đội Liên bang, ngõ hẹp gặp nhau kẻ dũng cảm thắng, cuối cùng đã chém chết yêu thú!”",
+      "narrative_type": "dialogue"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0024"
+      ],
+      "target": "“Nếu không phải em liều mình tắm máu chiến đấu, rất có thể sẽ còn nhiều thí sinh khác phải chịu họa thảm khốc!”",
+      "narrative_type": "dialogue"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0025"
+      ],
+      "target": "“Em mang thân phận quân nhân, trong thời gian chiến đấu vì bảo vệ đồng bào mà bị thương, em đương nhiên chính là một ‘Thương binh Liên bang’ danh chính ngôn thuận, có tư cách hưởng chế độ của một anh hùng chiến đấu!”",
+      "narrative_type": "dialogue"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0026"
+      ],
+      "target": "“Hãy nhớ kỹ, Liên bang không bao giờ lãng quên bất kỳ một dũng sĩ nào chiến đấu vì tổ quốc, phần bồi thường đáng lẽ thuộc về em sẽ không thiếu một xu!”",
+      "narrative_type": "dialogue"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0027"
+      ],
+      "target": "“Nếu đối xử với anh hùng mà không thèm đoái hoài hỏi han, bỏ mặc họ rơi vào hoàn cảnh khốn quẫn mà vẫn dửng dưng vô cảm——một quốc gia như vậy thì có ai muốn đứng ra bảo vệ, vì nó mà huyết chiến đến cùng chứ?”",
+      "narrative_type": "dialogue"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0028"
+      ],
+      "target": "“Vì thế em không cần nói nữa, quốc gia tuy không thể giúp em khôi phục năng lực tu luyện, nhưng ít nhất cũng có thể bảo đảm nửa đời sau của em cơm áo không lo, đồng thời nhận được sự kính trọng của đại chúng xã hội——đây là việc một quốc gia nên làm, và bắt buộc phải làm!”",
+      "narrative_type": "dialogue"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0029"
+      ],
+      "target": "Ánh mắt của người thương binh xuất ngũ tựa như hai thanh chiến đao rực lửa, đâm sâu vào tận vùng não của Lý Diệu.",
+      "narrative_type": "narration"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0030"
+      ],
+      "target": "Không đợi Lý Diệu thanh minh, người thương binh giơ tay chào quân lễ, quay người sải bước ra khỏi phòng bệnh.",
+      "narrative_type": "narration"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0031"
+      ],
+      "target": "Dù cho nửa thân trái của ông hầu như đều do kim loại đúc thành, nhưng khi ông bước đi vẫn thẳng tắp như cây tùng, khoảng cách mỗi bước chân bước ra hoàn toàn đồng nhất, hệt như dùng thước đo chuẩn xác vậy.",
+      "narrative_type": "narration"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0032"
+      ],
+      "target": "Người thương binh rời đi rồi, Lý Diệu ngồi trên thành khoang y tế ngẩn ngơ rất lâu.",
+      "narrative_type": "narration"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0033"
+      ],
+      "target": "“Thôi bỏ đi, bây giờ có nói gì cũng bằng thừa, chỉ cần mình khôi phục hoàn toàn thực lực thì sự thật tự khắc sẽ chứng minh tất cả.”",
+      "narrative_type": "inner_thought"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0034"
+      ],
+      "target": "Mặc dù đối phương cam kết cậu có thể không cần tham gia kỳ thi đại học, trực tiếp vào học “lớp đặc biệt dành cho thương binh” tại Học viện Quân sự Số 1 Liên bang.",
+      "narrative_type": "narration"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0035"
+      ],
+      "target": "Lý Diệu vẫn phủ nhận ý nghĩ này ngay lập tức.",
+      "narrative_type": "narration"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0036"
+      ],
+      "target": "Không muốn chiếm hời của các thương binh Liên bang chỉ là một trong các nguyên nhân.",
+      "narrative_type": "inner_thought"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0037"
+      ],
+      "target": "Nguyên nhân quan trọng hơn là Lý Diệu chưa từng Từ Bỏ ý định thi đỗ vào Đại học Thâm Hải.",
+      "narrative_type": "inner_thought"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0038"
+      ],
+      "target": "“Dù độ khai phát linh căn của mình chỉ còn 7%, nhưng đây chỉ là trạng thái tạm thời, chỉ cần có đủ năng lượng, cộng thêm việc tu luyện thích hợp, mình sẽ nhanh chóng khôi phục lại trạng thái đỉnh phong!”",
+      "narrative_type": "inner_thought"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0039"
+      ],
+      "target": "“Thời gian đến kỳ thi đại học vẫn còn một tháng, vẫn có thể liều mạng một phen!”",
+      "narrative_type": "inner_thought"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0040"
+      ],
+      "target": "Sau khi phát hiện bản thân cư nhiên có thể nuốt chửng các mảnh vỡ ký ức của tông chủ Bách Luyện Tông Âu Dã Tử, dã tâm lớn hơn trong lòng Lý Diệu đang bành trướng với tốc độ chóng mặt.",
+      "narrative_type": "narration"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0041"
+      ],
+      "target": "Âu Dã Tử đại diện cho trình độ luyện khí cao nhất của giới tu chân giới cổ đại, là một ngọn núi cao không thể vượt qua.",
+      "narrative_type": "narration"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0042"
+      ],
+      "target": "Mà Đại học Thâm Hải lại sở hữu kỹ thuật luyện khí mạnh nhất của giới tu chân hiện đại.",
+      "narrative_type": "narration"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0043"
+      ],
+      "target": "Nếu như có thể kết hợp cả hai thứ này lại với nhau……",
+      "narrative_type": "narration"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0044"
+      ],
+      "target": "“Thần kiếm Kinh Hồng, chiến đao Đồ Giao, trường thương Phệ Hồn——đây đều là những thần binh lợi khí do Âu Dã Tử rèn đúc, đủ sức chém giết các ‘Hóa Thần lão quái’!”",
+      "narrative_type": "inner_thought"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0045"
+      ],
+      "target": "“Mặc dù thiên tài địa bảo để luyện chế những thần binh lợi khí này cực kỳ khó tìm kiếm, hơn nữa rất nhiều bước then chốt trong quá trình rèn đúc cũng không thể tái hiện ở thời hiện đại, thế nhưng nguyên lý vận hành linh năng thì y hệt nhau!”",
+      "narrative_type": "inner_thought"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0046"
+      ],
+      "target": "“Nếu như có một ngày, mình có thể nuốt chửng mảnh vỡ ký ức luyện chế những thần binh lợi khí này của Âu Dã Tử, nắm vững phương pháp rèn đúc các thần binh cổ đại đó, phân tích ra nguyên lý dẫn động linh năng bên trong, rồi ứng dụng nó vào pháp bảo hiện đại.”",
+      "narrative_type": "inner_thought"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0047"
+      ],
+      "target": "“Ví dụ như, mình có thể phân tích mô hình vận hành linh năng của ba đại thần binh gồm thần kiếm Kinh Hồng, chiến đao Đồ Giao, trường thương Phệ Hồn, rồi đem chúng ứng dụng lên pháo chính của chiến hạm tinh thạch, chế tạo ra một khẩu pháo chiến hạm ba nòng sở hữu đặc tính của cả ba món thần binh kia!”",
+      "narrative_type": "inner_thought"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0048"
+      ],
+      "target": "“Một phát bắn xuống, oanh sát một tên Hóa Thần lão quái!”",
+      "narrative_type": "inner_thought"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0049"
+      ],
+      "target": "“Pháo chính ba nòng bắn liên thanh một loạt, cả một ngọn núi Nguyên Anh lão quái đều bị mình quét sạch!”",
+      "narrative_type": "inner_thought"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0050"
+      ],
+      "target": "“Đây quả là chuyện cường hoành cỡ nào, bá đạo cỡ nào, sảng khoái biết bao nhiêu!”",
+      "narrative_type": "inner_thought"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0051"
+      ],
+      "target": "Nghĩ tới đây, trong lòng Lý Diệu khẽ động, lấy ra chiếc Tinh não mini từ trong hộc tủ đầu giường, mở Linh Hạc Truyền Thư lên.",
+      "narrative_type": "narration"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0052"
+      ],
+      "target": "Trong Linh Hạc Truyền Thư có hàng trăm bức thư chưa tiếp nhận, Lý Diệu lướt nhanh qua một lượt, hầu hết đều do bạn bè gửi tới.",
+      "narrative_type": "narration"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0053"
+      ],
+      "target": "Trong đó, riêng cậu bạn thân Mạnh Giang đã gửi tới mấy chục tin nhắn hỏi han tình hình của cậu.",
+      "narrative_type": "narration"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0054"
+      ],
+      "target": "Xem thời gian thì đều là từ bốn tuần trước.",
+      "narrative_type": "narration"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0055"
+      ],
+      "target": "Lý Diệu gõ nhanh ba chữ “tớ tỉnh rồi” gửi qua, nhưng bên kia không có phản hồi, chắc hẳn đang trong giờ học.",
+      "narrative_type": "dialogue"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0056"
+      ],
+      "target": "Sau đó, Lý Diệu nhập vào số Linh Hạc Truyền Thư của Tạ Thính Huyền, kích hoạt công năng tìm kiếm, rồi để lại lời nhắn cho đối phương: “Tôi là Lý Diệu, tôi tỉnh lại rồi.”",
+      "narrative_type": "dialogue"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0057"
+      ],
+      "target": "Số liên lạc này là bác sĩ Cố vừa nói cho cậu biết.",
+      "narrative_type": "narration"
+    },
+    {
+      "segment_ids": [
+        "chapter_0073:seg_0058"
+      ],
+      "target": "Rất nhanh, gương mặt hằn sâu nếp nhăn của Tạ Thính Huyền cùng với một con hạc giấy vụt hiện ra từ sâu trong màn hình ánh sáng, ông vừa kinh vừa mừng nói: “Em Lý Diệu, tôi vừa mới nhận được tin tức từ phía bệnh viện, đang định liên lạc với em thì không ngờ em đã tỉnh lại nhanh như vậy, thật là đáng mừng, đáng mừng!”",
+      "narrative_type": "dialogue"
+    }
+  ],
+  "new_terms_discovered": [],
+  "new_characters_discovered": [],
+  "chapter_summary": "Người đại diện Hiệp hội Thương binh Liên bang thông báo các chế độ đãi ngộ khổng lồ dành cho Lý Diệu, bao gồm chi trả toàn bộ viện phí, cấp trợ cấp thương binh ba vạn đồng mỗi tháng, và đặc quyền tuyển thẳng vào lớp đặc biệt tại Học viện Quân sự Số 1 Liên bang mà không cần qua kỳ thi đại học. Lý Diệu tuy cảm kích và kính trọng tinh thần chiến đấu quả cảm của thương binh Liên bang nhưng tự nhận bản thân không thực sự bị phế, do đó không muốn nhận đặc quyền tuyển thẳng và cũng không muốn từ bỏ mục tiêu vào Đại học Thâm Hải. Cậu ấp ủ ước mơ kết hợp đỉnh cao luyện khí cổ đại của Âu Dã Tử với luyện khí hiện đại của Đại học Thâm Hải để tạo ra những siêu pháo chiến hạm ba nòng ứng dụng nguyên lý các thần binh chém Hóa Thần. Lý Diệu dùng Tinh não mini gửi tin nhắn báo tin thức tỉnh cho Mạnh Giang và chuyên gia Tạ Thính Huyền. Tạ Thính Huyền nhận tin nhắn lập tức kết nối và vô cùng vui mừng.",
+  "worldbuilding_updates": {
+    "factions": [],
+    "locations": [],
+    "techniques": [],
+    "items": [
+      {
+        "name_source": "神剑惊鸿",
+        "name_target": "Thần kiếm Kinh Hồng",
+        "type": "Cổ bảo / Thần binh",
+        "description": "Thần kiếm chém Hóa Thần do Âu Dã Tử rèn đúc thời cổ đại."
+      },
+      {
+        "name_source": "战刀屠蛟",
+        "name_target": "Chiến đao Đồ Giao",
+        "type": "Cổ bảo / Thần binh",
+        "description": "Chiến đao chém Hóa Thần do Âu Dã Tử rèn đúc thời cổ đại."
+      },
+      {
+        "name_source": "长枪噬魂",
+        "name_target": "Trường thương Phệ Hồn",
+        "type": "Cổ bảo / Thần binh",
+        "description": "Trường thương chém Hóa Thần do Âu Dã Tử rèn đúc thời cổ đại."
+      }
+    ],
+    "cultivation_resources": []
+  },
+  "timeline_entry": {
+    "chapter": 73,
+    "title": "Một Pháo Oanh Sát!",
+    "summary": "Lý Diệu từ chối đặc cách vào Học viện Quân sự Liên bang để quyết tâm thi vào Đại học Thâm Hải nhằm thực hiện tham vọng kết hợp luyện khí cổ đại và hiện đại. Cậu liên lạc thành công với Tạ Thính Huyền.",
+    "characters": [
+      {
+        "name": "Lý Diệu",
+        "interaction": "Từ chối đặc cách, lên kế hoạch kết hợp bí pháp của Âu Dã Tử với kỹ thuật Thâm Hải, liên lạc báo tin thức tỉnh cho Mạnh Giang và Tạ Thính Huyền.",
+        "is_new": false
+      },
+      {
+        "name": "Tạ Thính Huyền",
+        "interaction": "Vui mừng khi nhận được liên lạc của Lý Diệu thông báo việc thức tỉnh.",
+        "is_new": false
+      }
+    ],
+    "items": [
+      "Thần kiếm Kinh Hồng",
+      "Chiến đao Đồ Giao",
+      "Trường thương Phệ Hồn"
+    ],
+    "plot_points": [
+      "Lý Diệu được miễn học phí, cấp sinh hoạt phí và đặc cách tuyển thẳng vào trường quân sự.",
+      "Lý Diệu từ chối đặc cách, đặt mục tiêu thi đỗ Đại học Thâm Hải để kết hợp công nghệ cổ đại - hiện đại.",
+      "Lý Diệu liên lạc thành công báo tin thức tỉnh cho Tạ Thính Huyền."
+    ]
+  },
+  "analysis_candidates": {
+    "term_occurrences": {
+      "status": "no_evidence",
+      "evidence_count": 0,
+      "items": []
+    },
+    "entity_mentions": {
+      "status": "no_evidence",
+      "evidence_count": 0,
+      "items": []
+    },
+    "name_mentions": {
+      "status": "no_evidence",
+      "evidence_count": 0,
+      "items": []
+    },
+    "phrase_patterns": {
+      "status": "no_evidence",
+      "evidence_count": 0,
+      "items": []
+    },
+    "grammar_rule_candidates": {
+      "status": "no_evidence",
+      "evidence_count": 0,
+      "items": []
+    }
+  },
+  "translated_text": "# Chương 0073 - Một Pháo Oanh Sát!\n\n“Em Lý Diệu, em không cần lo lắng, toàn bộ chi phí y tế phát sinh trong thời gian em hôn mê, cũng như chi phí hồi phục sau này, thảy đều do quốc gia gánh vác!”\n\n“Hơn nữa bắt đầu từ tháng này, mỗi tháng tài khoản của em đều sẽ được chuyển vào ba vạn đồng ‘trợ cấp thương binh cấp một’!”\n\n“Nếu như em muốn tìm việc làm, ‘Hiệp hội Thương binh’ chúng tôi cũng sẽ giúp đỡ!”\n\n“Nếu em muốn đi học, chúng tôi cũng có thể sắp xếp, để em không cần tham gia kỳ thi đại học, trực tiếp vào học ‘lớp đặc biệt dành cho thương binh’ tại Học viện Quân sự Số 1 Liên bang!”\n\n“Ngoài ra, nếu ở ngoài xã hội em gặp phải phiền phức gì, cũng cứ việc đến tìm chúng tôi——Hiệp hội Thương binh Liên bang là một trong những tổ chức quyền thế nhất toàn bộ Thiên Nguyên Giới, một khi xảy ra chuyện, tổng cộng sáu mươi ba triệu thương binh Liên bang đều là hậu thuẫn vững chắc của em!”\n\nNgười thương binh mặc quân phục màu đen nói đầy khí phách.\n\n“Chuyện này lớn chuyện rồi đây.” Lý Diệu có chút chột dạ.\n\nTrong ấn tượng của cậu, các thương binh Liên bang đều là những cựu binh tóc xóa bạc phơ, mặt đầy nếp nhăn, lắp chi giả linh giới, bước đi khập khiễng.\n\nTrường Xích Tiêu Nhị Trung mỗi năm đều sẽ mời một số thương binh Liên bang đến trường làm báo cáo, tuyên truyền những tấm gương sáng của các anh hùng chiến đấu cho học sinh, hầu hết đều là những cựu binh như vậy.\n\nCó những cựu binh, trong tình cảnh đạn tận lương tuyệt, linh năng cạn kiệt, vẫn cùng ba năm người chiến hữu khác vác theo thanh kiếm cưa xích không thể chuyển động, lao thẳng vào làn sóng yêu thú rợp trời dậy đất!\n\nMỗi lần nghe thấy những sự tích anh hùng đáng ca ngợi và cảm động như thế, Lý Diệu đều nhiệt huyết sôi trào, ý chí chiến đấu tăng vọt!\n\nTrong lòng cậu, “Thương binh Liên bang” là một danh hiệu vô cùng vinh quang và thần thánh, trao danh hiệu như vậy cho cậu thực sự là nhận mà hổ thẹn.\n\nNghĩ như vậy, Lý Diệu quyết định nói thật:\n\n“Thực ra thương thế của em không nghiêm trọng như mọi người nghĩ đâu ạ, chỉ cần nghỉ ngơi tĩnh dưỡng vài ngày là có thể phục hồi rồi, thật đó, em không bị tàn tật đâu.”\n\nTrong mắt người thương binh lộ ra vẻ tán thưởng không hề che giấu, cánh tay cơ khí của chi giả linh giới vỗ mạnh lên vai Lý Diệu một phát, vỗ đến mức cậu phải nhăn răng méo miệng.\n\n“Khá lắm nhóc con, ta thích ngươi rồi đấy! Nam tử hán chúng ta đội trời đạp đất, chính là phải giống như ngươi, bất kể thân thể ra sao đều phải tràn đầy đấu chí và hy vọng! Đúng vậy, ngươi đương nhiên không có tàn phế, sáu mươi ba triệu thương binh Liên bang chúng ta đều không có tàn phế! Cho dù thân thể chúng ta tàn khuyết, đấu chí và ý chí chiến đấu của chúng ta cũng vĩnh viễn không bao giờ tàn khuyết! Nếu quốc gia thực sự cần, chúng ta bất cứ lúc nào cũng có thể khoác giáp ra trận, đấm nổ một con yêu thú!”\n\n“Cái này——”\n\nLý Diệu có chút ê răng, cậu phát hiện tình cảnh của mình quả thực rất khó dùng vài ba câu để giải thích cho rõ ràng.\n\nQuân nhân thương binh trung niên nói: “Em Lý Diệu, bác sĩ Cố đã nói chuyện với tôi, tôi cũng rất rõ tình trạng hiện tại của em, biết em nhất thời nửa khắc có lẽ chưa thể chấp nhận được, thế nhưng——”\n\n“Nước có phép nước, quân có quân quy, thưởng phạt phân minh thì lệnh ra mới có người theo!”\n\n“Trước khi tham gia Giải đấu Thử thách Cực hạn, chắc hẳn em đã ký một bản văn kiện, biết rằng trong thời gian thi đấu, tất cả thí sinh đều được coi là tạm thời nhập ngũ, sở hữu thân phận quân nhân, phục tùng sự chỉ huy của phía quân đội, và đương nhiên cũng được hưởng các chế độ bảo đảm do quân đội cung cấp!”\n\n“Trong trận đấu, đối mặt với một con Vượn Khổng Nhãn biến dị, em đã phát huy trọn vẹn tinh thần huyết chiến đến cùng của Quân đội Liên bang, ngõ hẹp gặp nhau kẻ dũng cảm thắng, cuối cùng đã chém chết yêu thú!”\n\n“Nếu không phải em liều mình tắm máu chiến đấu, rất có thể sẽ còn nhiều thí sinh khác phải chịu họa thảm khốc!”\n\n“Em mang thân phận quân nhân, trong thời gian chiến đấu vì bảo vệ đồng bào mà bị thương, em đương nhiên chính là một ‘Thương binh Liên bang’ danh chính ngôn thuận, có tư cách hưởng chế độ của một anh hùng chiến đấu!”\n\n“Hãy nhớ kỹ, Liên bang không bao giờ lãng quên bất kỳ một dũng sĩ nào chiến đấu vì tổ quốc, phần bồi thường đáng lẽ thuộc về em sẽ không thiếu một xu!”\n\n“Nếu đối xử với anh hùng mà không thèm đoái hoài hỏi han, bỏ mặc họ rơi vào hoàn cảnh khốn quẫn mà vẫn dửng dưng vô cảm——một quốc gia như vậy thì có ai muốn đứng ra bảo vệ, vì nó mà huyết chiến đến cùng chứ?”\n\n“Vì thế em không cần nói nữa, quốc gia tuy không thể giúp em khôi phục năng lực tu luyện, nhưng ít nhất cũng có thể bảo đảm nửa đời sau của em cơm áo không lo, đồng thời nhận được sự kính trọng của đại chúng xã hội——đây là việc một quốc gia nên làm, và bắt buộc phải làm!”\n\nÁnh mắt của người thương binh xuất ngũ tựa như hai thanh chiến đao rực lửa, đâm sâu vào tận vùng não của Lý Diệu.\n\nKhông đợi Lý Diệu thanh minh, người thương binh giơ tay chào quân lễ, quay người sải bước ra khỏi phòng bệnh.\n\nDù cho nửa thân trái của ông hầu như đều do kim loại đúc thành, nhưng khi ông bước đi vẫn thẳng tắp như cây tùng, khoảng cách mỗi bước chân bước ra hoàn toàn đồng nhất, hệt như dùng thước đo chuẩn xác vậy.\n\nNgười thương binh rời đi rồi, Lý Diệu ngồi trên thành khoang y tế ngẩn ngơ rất lâu.\n\n“Thôi bỏ đi, bây giờ có nói gì cũng bằng thừa, chỉ cần mình khôi phục hoàn toàn thực lực thì sự thật tự khắc sẽ chứng minh tất cả.”\n\nMặc dù đối phương cam kết cậu có thể không cần tham gia kỳ thi đại học, trực tiếp vào học “lớp đặc biệt dành cho thương binh” tại Học viện Quân sự Số 1 Liên bang.\n\nLý Diệu vẫn phủ nhận ý nghĩ này ngay lập tức.\n\nKhông muốn chiếm hời của các thương binh Liên bang chỉ là một trong các nguyên nhân.\n\nNguyên nhân quan trọng hơn là Lý Diệu chưa từng Từ Bỏ ý định thi đỗ vào Đại học Thâm Hải.\n\n“Dù độ khai phát linh căn của mình chỉ còn 7%, nhưng đây chỉ là trạng thái tạm thời, chỉ cần có đủ năng lượng, cộng thêm việc tu luyện thích hợp, mình sẽ nhanh chóng khôi phục lại trạng thái đỉnh phong!”\n\n“Thời gian đến kỳ thi đại học vẫn còn một tháng, vẫn có thể liều mạng một phen!”\n\nSau khi phát hiện bản thân cư nhiên có thể nuốt chửng các mảnh vỡ ký ức của tông chủ Bách Luyện Tông Âu Dã Tử, dã tâm lớn hơn trong lòng Lý Diệu đang bành trướng với tốc độ chóng mặt.\n\nÂu Dã Tử đại diện cho trình độ luyện khí cao nhất của giới tu chân giới cổ đại, là một ngọn núi cao không thể vượt qua.\n\nMà Đại học Thâm Hải lại sở hữu kỹ thuật luyện khí mạnh nhất của giới tu chân hiện đại.\n\nNếu như có thể kết hợp cả hai thứ này lại với nhau……\n\n“Thần kiếm Kinh Hồng, chiến đao Đồ Giao, trường thương Phệ Hồn——đây đều là những thần binh lợi khí do Âu Dã Tử rèn đúc, đủ sức chém giết các ‘Hóa Thần lão quái’!”\n\n“Mặc dù thiên tài địa bảo để luyện chế những thần binh lợi khí này cực kỳ khó tìm kiếm, hơn nữa rất nhiều bước then chốt trong quá trình rèn đúc cũng không thể tái hiện ở thời hiện đại, thế nhưng nguyên lý vận hành linh năng thì y hệt nhau!”\n\n“Nếu như có một ngày, mình có thể nuốt chửng mảnh vỡ ký ức luyện chế những thần binh lợi khí này của Âu Dã Tử, nắm vững phương pháp rèn đúc các thần binh cổ đại đó, phân tích ra nguyên lý dẫn động linh năng bên trong, rồi ứng dụng nó vào pháp bảo hiện đại.”\n\n“Ví dụ như, mình có thể phân tích mô hình vận hành linh năng của ba đại thần binh gồm thần kiếm Kinh Hồng, chiến đao Đồ Giao, trường thương Phệ Hồn, rồi đem chúng ứng dụng lên pháo chính của chiến hạm tinh thạch, chế tạo ra một khẩu pháo chiến hạm ba nòng sở hữu đặc tính của cả ba món thần binh kia!”\n\n“Một phát bắn xuống, oanh sát một tên Hóa Thần lão quái!”\n\n“Pháo chính ba nòng bắn liên thanh một loạt, cả một ngọn núi Nguyên Anh lão quái đều bị mình quét sạch!”\n\n“Đây quả là chuyện cường hoành cỡ nào, bá đạo cỡ nào, sảng khoái biết bao nhiêu!”\n\nNghĩ tới đây, trong lòng Lý Diệu khẽ động, lấy ra chiếc Tinh não mini từ trong hộc tủ đầu giường, mở Linh Hạc Truyền Thư lên.\n\nTrong Linh Hạc Truyền Thư có hàng trăm bức thư chưa tiếp nhận, Lý Diệu lướt nhanh qua một lượt, hầu hết đều do bạn bè gửi tới.\n\nTrong đó, riêng cậu bạn thân Mạnh Giang đã gửi tới mấy chục tin nhắn hỏi han tình hình của cậu.\n\nXem thời gian thì đều là từ bốn tuần trước.\n\nLý Diệu gõ nhanh ba chữ “tớ tỉnh rồi” gửi qua, nhưng bên kia không có phản hồi, chắc hẳn đang trong giờ học.\n\nSau đó, Lý Diệu nhập vào số Linh Hạc Truyền Thư của Tạ Thính Huyền, kích hoạt công năng tìm kiếm, rồi để lại lời nhắn cho đối phương: “Tôi là Lý Diệu, tôi tỉnh lại rồi.”\n\nSố liên lạc này là bác sĩ Cố vừa nói cho cậu biết.\n\nRất nhanh, gương mặt hằn sâu nếp nhăn của Tạ Thính Huyền cùng với một con hạc giấy vụt hiện ra từ sâu trong màn hình ánh sáng, ông vừa kinh vừa mừng nói: “Em Lý Diệu, tôi vừa mới nhận được tin tức từ phía bệnh viện, đang định liên lạc với em thì không ngờ em đã tỉnh lại nhanh như vậy, thật là đáng mừng, đáng mừng!”"
+}

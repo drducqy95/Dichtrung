@@ -1,0 +1,1185 @@
+{
+  "schema_version": "2.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 50,
+  "chapter_id": "chapter_0050",
+  "source_manifest_hash": "51262f8790ecdd86a41dc26daf3fd88a22a1fc84e3a188e8481fa9337240fc8f",
+  "aligned_segments": [
+    {
+      "alignment_id": "chapter_0050:align_0001",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0001"
+      ],
+      "source": "# 50.第50章 炼器师的规矩",
+      "source_hash": "37aa5f490f4f8365be57f02c1b6d0c82e284080e6d6012206a2d31081ad79e45",
+      "target": "# Chương 0050 - Quy tắc của luyện khí sư",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0002",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0002"
+      ],
+      "source": "小吉道：“初赛一共三天，三天后积分排名最高的六百名考生就能进入决赛！”",
+      "source_hash": "1ab0fa8f3e65f791a48120dd27d3e6e9977a2e8d9f80d3b52c2c64c87d06dd95",
+      "target": "Tiểu Cát nói: “Vòng loại kéo dài tổng cộng ba ngày. Sau ba ngày, sáu trăm thí sinh có thứ hạng điểm số cao nhất sẽ được bước vào vòng chung kết!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0003",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0003"
+      ],
+      "source": "“其余考生则会被清场，带回辽远号。”",
+      "source_hash": "18e7ed96be58c0ecf619d8fb0aae3194d2df99e1798e460560bba915024e2568",
+      "target": "“Những thí sinh còn lại sẽ bị loại khỏi sân đấu và đưa trở lại Liêu Viễn Hào.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0004",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0004"
+      ],
+      "source": "“决赛和初赛最大的不同是——会放出关押在魔蛟岛地底洞穴中的强大妖兽，这些妖兽的实力不是普通高中生能够应对的！”",
+      "source_hash": "b41e137770ccecebb1cc90b36a3cdd3c9edb039a1d6094a034dc568c4900abd0",
+      "target": "“Vòng chung kết có điểm khác biệt lớn nhất so với vòng loại chính là —— ban tổ chức sẽ thả những con yêu thú mạnh mẽ bị giam giữ trong các hang động dưới lòng đất của Đảo Ma Giao ra, thực lực của những con yêu thú này không phải là thứ mà học sinh trung học bình thường có thể đối phó nổi!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0005",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0005"
+      ],
+      "source": "“若是能够斩杀他们，获得的积分也远比斩杀普通妖兽要多！”",
+      "source_hash": "9f0db096481f97f2c56973b8b76723f0e6306bd1934a64f2771798a37058671c",
+      "target": "“Nếu có thể chém giết được chúng, điểm số nhận được cũng sẽ nhiều hơn rất nhiều so với chém giết yêu thú bình thường!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0006",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0006"
+      ],
+      "source": "“除此之外，六百名考生将被随机分成红蓝两队，两队之间可以随意攻击，一旦‘击杀’对手，也就是逼对手的噗叽兽喷出保护凝胶，那么对手的积分就统统归你了！”",
+      "source_hash": "e183be6348700b44594fb22f007bcc36bc8eb1eeb29019ede080b0004bb77674",
+      "target": "“Ngoài ra, sáu trăm thí sinh sẽ được chia ngẫu nhiên thành hai đội Đỏ và Xanh, giữa hai đội có thể tấn công lẫn nhau tùy ý. Một khi 'chém giết' được đối thủ, tức là ép thú Pút Kít của đối thủ phun ra gel bảo vệ, vậy thì toàn bộ điểm số của đối thủ sẽ thuộc về cậu!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0007",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0007"
+      ],
+      "source": "“这就是说，不但要和妖兽搏杀，更要和其他考生较量！”",
+      "source_hash": "f0671f86771cb6c13dfb2cbfaafdd697ffabf07f534d1ccefb98dd9a15afac49",
+      "target": "“Điều này có nghĩa là, không những phải đọ sức với yêu thú mà còn phải tranh tài với các thí sinh khác!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0008",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0008"
+      ],
+      "source": "李耀心中一动，顿时生出一股莫名的兴奋。",
+      "source_hash": "7b0a32cde87cbb7d49b192a77666f338aff5e9d1ea3ef35992856c2914f4a20d",
+      "target": "Lý Diệu trong lòng chấn động, tức thì dâng lên một sự hưng phấn khôn tả.",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0009",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0009"
+      ],
+      "source": "能够进入决赛，代表每一名考生身上都携带有大量的积分，与其劳心劳力去斩杀妖兽，倒不如对敌方考生展开袭击，只要“击杀”一个，就相当于杀死了几十头甚至上百头妖兽。",
+      "source_hash": "9c1330e82298bedb7881c0f32d457fffed75c014c6e5e780056cc04912a85002",
+      "target": "Có thể lọt vào vòng chung kết đồng nghĩa với việc mỗi thí sinh đều mang trên mình lượng điểm số khổng lồ. Thay vì tốn tâm tốn lực đi chém giết yêu thú, chẳng thà tiến hành tập kích thí sinh của đối phương, chỉ cần 'chém giết' được một người là đã tương đương với giết chết hàng chục, thậm chí hàng trăm con yêu thú rồi.",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0010",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0010"
+      ],
+      "source": "这种比赛规则，无疑非常能够挑动起年轻人旺盛的战斗欲望，发挥出考生的全部潜力！",
+      "source_hash": "de772db32dd53da9677ad92a8e44ea83f948be659d791d3465b1ea09e763a2f8",
+      "target": "Quy tắc thi đấu này không nghi ngờ gì sẽ cực kỳ khơi gợi ham muốn chiến đấu mãnh liệt của giới trẻ, phát huy hết thảy tiềm năng của thí sinh!",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0011",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0011"
+      ],
+      "source": "小吉继续道：“大体上的规则就是如此，经过两天的决赛，最后仍旧生存下来的考生，就按照各自的积分确定排位，排位越高，就越有可能被‘九大’的观察员看中，佼佼者甚至不用经过高考，直接就被‘特招’，所以，李耀同学，努力吧！”",
+      "source_hash": "f61fe0634e6dfc1539603f2c0be4b856c38bef5988722623597a1beeb691d764",
+      "target": "Tiểu Cát tiếp tục nói: “Quy tắc đại khái là như vậy. Trải qua hai ngày chung kết, những thí sinh cuối cùng còn sống sót sẽ dựa trên điểm số của mình để xác định thứ hạng. Thứ hạng càng cao càng dễ lọt vào mắt xanh của các quan sát viên 'Chín đại học', những người xuất sắc nhất thậm chí không cần qua kỳ thi đại học mà trực tiếp được 'tuyển thẳng'. Cho nên, bạn học Lý Diệu hãy cố gắng lên nhé!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0012",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0012"
+      ],
+      "source": "“特招！”",
+      "source_hash": "b32d4039501899498a9b77190b018a16b36bf48517a3f807f315e5b81f98002c",
+      "target": "“Tuyển thẳng!”",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0013",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0013"
+      ],
+      "source": "李耀嗓子眼都有些发干，舔了舔嘴唇，问道，“小吉，以往几届比赛中，有多少名学生被特招？”",
+      "source_hash": "83764f6786662bb371fafce8c46b1bdadcf5fad1e57ee381b5a8a9d6ca07f4e1",
+      "target": "Cổ họng Lý Diệu có chút khô khốc, cậu liếm liếm môi hỏi: “Tiểu Cát, trong mấy khóa trước có bao nhiêu học sinh được tuyển thẳng thế?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0014",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0014"
+      ],
+      "source": "白色噗叽兽歪着脑袋想了想，身体深处传来一阵轻微的“嗡嗡”声。",
+      "source_hash": "d66388963e1449d6b646ee357531253391803a3b9bd4468536b6b20cfe616556",
+      "target": "Con thú Pút Kít màu trắng nghiêng đầu nghĩ ngợi một lát, từ sâu trong cơ thể nó truyền đến một tiếng \"vo vo\" nhè nhẹ.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0015",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0015"
+      ],
+      "source": "李耀听出那是晶脑在高速运转的声音，大约是它正在搜集数据。",
+      "source_hash": "505ef154fa868d10c543aab547338bdd15b9500ad55e35a5e069ea6baec9893b",
+      "target": "Lý Diệu nghe ra đó là tiếng Tinh não đang vận hành với tốc độ cao, có lẽ nó đang thu thập dữ liệu.",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0016",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0016"
+      ],
+      "source": "片刻之后，小吉道：",
+      "source_hash": "51e4ca3a104c36f21e7a79ea0b53010833deb3f50834c691a79ce50dfa2a6f03",
+      "target": "Lát sau, Tiểu Cát nói:",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0017",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0017"
+      ],
+      "source": "“过去三届挑战赛，571号赛场，平均每届都有五十一名考生被‘九大’特招，就算没被特招，也有‘降分录取’的可能。”",
+      "source_hash": "595859aab571754d3994f3825568fe63c7e35ef30ff197a8c4feba101ffbe9ab",
+      "target": "“Trong ba khóa Khiêu chiến cực hạn vừa qua tại trường thi 571, trung bình mỗi khóa có năm mươi mốt thí sinh được 'Chín đại học' tuyển thẳng. Ngay cả khi không được tuyển thẳng thì vẫn có khả năng được 'hạ điểm trúng tuyển'.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0018",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0018"
+      ],
+      "source": "“降分录取，又是什么？”李耀追问。",
+      "source_hash": "0fa377dc38538825c1360e539423a1c4dd9c730e2523904a9debfb91c05b8f0a",
+      "target": "“Hạ điểm trúng tuyển là thế nào?” Lý Diệu gặng hỏi.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0019",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0019"
+      ],
+      "source": "“打个比方，你拥有某一方面的修炼天赋，非常适合某一所大学，但是你的综合实力不算太强，最终积分排在一百多位，两百多位，甚至在决赛一开始就遇到非常强大的妖兽，不得不退出比赛！”",
+      "source_hash": "b3dfd915dcaa97f8fcfa5217c8c2e262397a2c683dbd72208f0cf9297bfcd5fa",
+      "target": "“Lấy ví dụ thế này, cậu sở hữu thiên phú tu luyện ở một phương diện nào đó và vô cùng phù hợp với một trường đại học cụ thể, thế nhưng thực lực tổng hợp của cậu lại không quá mạnh, điểm chung cuộc xếp ở hạng hơn một trăm, hơn hai trăm, thậm chí vừa bắt đầu vòng chung kết đã đụng phải yêu thú cực mạnh nên bắt buộc phải rút lui khỏi trận đấu!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0020",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0020"
+      ],
+      "source": "“这些都没有关系，只要‘九大’的观察员看中，就会和你签订合同，在高考时给你降五分，降十分，甚至降二十分录取的优惠！”",
+      "source_hash": "d1a30b130bfd8f84f227ffe904793825b28f2cd470eb54f5642bacac655b7e7a",
+      "target": "“Những cái đó đều không thành vấn đề. Chỉ cần lọt vào mắt xanh của quan sát viên 'Chín đại học', họ sẽ ký hợp đồng với cậu, dành cho cậu ưu đãi hạ năm điểm, mười điểm, thậm chí là hai mươi điểm khi xét tuyển đại học!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0021",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0021"
+      ],
+      "source": "“这么爽！”",
+      "source_hash": "cbb24df313864351f31b32b7411808105271242bb8f71a8b690d818fbd8c294d",
+      "target": "“Sướng thế!”",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0022",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0022"
+      ],
+      "source": "这下子李耀可真是心动了。",
+      "source_hash": "368cea0a8ca0f8c85b088b58a4582ac8318ca7bf9cf70d9c7f51059bd7381aae",
+      "target": "Lần này Lý Diệu thực sự động lòng rồi.",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0023",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0023"
+      ],
+      "source": "高考高考，就是千军万马过独木桥，“多考一分，碾压千人”，这可不是夸张！",
+      "source_hash": "0e90844561f9d274c5d77237a08d4e56b0bea78b414bb39fd05185e38997ec4d",
+      "target": "Kỳ thi đại học chính là hàng vạn người tranh nhau đi qua cầu độc mộc, \"hơn một điểm đè bẹp ngàn người\" không phải là nói quá đâu!",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0024",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0024"
+      ],
+      "source": "如果一下子有了十几二十分的优惠，考上深海大学的可能性就大大提升了！",
+      "source_hash": "758247a90e92ae68cd80eb5c5ab3cb8e6fd59fa63342854c0e2472d9176d4e49",
+      "target": "Nếu như lập tức có được ưu đãi mười mấy hai mươi điểm, khả năng đỗ vào Đại học Thâm Hải sẽ tăng vọt!",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0025",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0025"
+      ],
+      "source": "“太好了，就算我不能杀进三千人里的前五十名，不能拿到‘特招’资格，只要表现出色，争取到五分甚至十分的‘降分录取’优惠，也没白来这一趟！”",
+      "source_hash": "83fc0abaa692a8fe482bdb7a370a3e0d7b96b01139ef522c342e7cae8cf4cd47",
+      "target": "“Tuyệt quá, cho dù mình không thể giết vào top năm mươi trong số ba ngàn người để giành suất 'tuyển thẳng', thì chỉ cần biểu hiện xuất sắc kiếm được ưu đãi 'hạ điểm trúng tuyển' năm điểm hay mười điểm cũng không bõ công đi chuyến này!”",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0026",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0026"
+      ],
+      "source": "李耀口干舌燥，兴奋莫名，只觉得周身精力无穷，热血沸腾，恨不得现在就是明天早上，立刻开始厮杀。",
+      "source_hash": "139d670f62e07574d5d4d0550728363e503315fe1701e403cd20d1792011781c",
+      "target": "Lý Diệu khô cả họng, hưng phấn khôn tả, chỉ thấy khắp người tràn ngập tinh lực vô tận, máu nóng sôi trào, hận không thể biến thời điểm hiện tại thành sáng mai để ngay lập tức bắt đầu cuộc chém giết.",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0027",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0027"
+      ],
+      "source": "“不行，我要镇定，赶快睡觉，保持充足的体能和精力，明天，才是决定命运的时刻！”",
+      "source_hash": "2b42fe86ec8b32012b5f5d3dd463fb632b95954afbfc5969e3f3f60efadd61f7",
+      "target": "“Không được, mình phải bình tĩnh, mau chóng đi ngủ để giữ vững thể lực và tinh lực dồi dào. Ngày mai mới là thời khắc quyết định vận mệnh!”",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0028",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0028"
+      ],
+      "source": "李耀躺在床上，双手枕着头，强迫自己睡觉，却怎么都睡不着。",
+      "source_hash": "63a96db9bff77fb962d48257420a52235158936dbf30281642bcba1aba0102bc",
+      "target": "Lý Diệu nằm trên giường, hai tay gối sau đầu gượng ép bản thân đi ngủ, nhưng thế nào cũng không tài nào chợp mắt nổi.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0029",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0029"
+      ],
+      "source": "他眼前，满是“妖刀彭海”驾驭着玄鸟战梭出现在操场上空的一幕。",
+      "source_hash": "a330e1024f25f86d8d06cb92cb555196e4b9a054bb868a62070637dbd2e59c47",
+      "target": "Trước mắt cậu ngập tràn cảnh tượng \"Yêu Đao Bành Hải\" điều khiển Huyền Điểu Chiến Toa xuất hiện trên bầu trời sân trường.",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0030",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0030"
+      ],
+      "source": "那种肆无忌惮，碾压全场的霸气，深深烙印在他脑中，久久不能遗忘。",
+      "source_hash": "743b440d4d4fc9377e2e79a0667578df10b1c779ad0952145640f629259d20f7",
+      "target": "Sự càn quấy bá đạo, áp đảo toàn trường ấy khắc sâu vào tâm trí cậu, rất lâu sau vẫn không thể quên được.",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0031",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0031"
+      ],
+      "source": "“我，有机会成为第二个彭海吗？”",
+      "source_hash": "e9c9cac6e0343e64d48f3bfce62d0bdcc63e99055d5fa495119e13ea5996c959",
+      "target": "“Mình... liệu có cơ hội trở thành Bành Hải thứ hai không?”",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0032",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0032"
+      ],
+      "source": "李耀睁大眼睛，看着天花板上的锈迹，辗转反侧，压得单人床“吱吱”作响。",
+      "source_hash": "91c566031a0ea562397bd5b9867db93c08af91a90253126c3a7f78e9874988e0",
+      "target": "Lý Diệu trợn to hai mắt nhìn những vết gỉ sét trên trần nhà, trằn trọc thao thức khiến chiếc giường đơn kêu lên những tiếng \"két kết\" từ chiếc giường lò xo phát ra.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0033",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0033"
+      ],
+      "source": "……",
+      "source_hash": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+      "target": "……",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0034",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0034"
+      ],
+      "source": "正当李耀在单人床上辗转反侧的同时，在他上方两层甲板的另一个单人间中，司佳雪正迎来一位特殊的客人。",
+      "source_hash": "cb6765c83c71e54e02f7c6bfbec07130a1a82fab9a2271f1bc1080776dc196a5",
+      "target": "Cùng lúc Lý Diệu đang trằn trọc trên giường đơn, tại một căn phòng đơn khác ở boong tàu phía trên cậu hai tầng, Tiêu Giai Tuyết đang đón tiếp một vị khách đặc biệt.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0035",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0035"
+      ],
+      "source": "“谢教授，实在太谢谢您了，没想到您能亲自过来。”",
+      "source_hash": "84f7ffa2a75fad9e755a782db17b21a1ee90d5efcd9e7658886b51b65952d73d",
+      "target": "“Giáo sư Tạ, thực sự cảm ơn thầy rất nhiều, không ngờ thầy lại có thể đích thân tới đây.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0036",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0036"
+      ],
+      "source": "司佳雪毕恭毕敬地说道，她迎接的正是深海大学的炼器专家，谢听弦教授。",
+      "source_hash": "cf338d5741afa3b5d1a239788d61bf80254ed11b7586ba96237c0852b38f7c9b",
+      "target": "Tiêu Giai Tuyết cung kính nói. Người cô đón tiếp chính là chuyên gia luyện khí của Đại học Thâm Hải, Giáo sư Tạ Thính Huyền.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0037",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0037"
+      ],
+      "source": "“小丫头，叫我谢爷爷就好了，用不着和我这么客气，我和你爷爷可是近百年的老朋友了，想当年你刚刚出生，我还亲手抱过你，哈哈哈哈。”",
+      "source_hash": "7c9ef61abe2a3bc7bd079a8ffedcd7468f411eb1e8805a249b7963b6cc61bd4f",
+      "target": "“Con bé này, cứ gọi ta là ông nội Tạ được rồi, không cần phải khách sáo với ta như thế. Ta với ông nội cháu là bạn già thân thiết gần trăm năm rồi, nghĩ lại năm đó lúc cháu vừa chào đời ta còn bế cháu trên tay nữa cơ đấy, ha ha ha ha.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0038",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0038"
+      ],
+      "source": "谢听弦笑呵呵地说，随后话锋一转，“小丫头找谢爷爷来，可是有什么事？先说好，要是比赛的事情，谢爷爷可不能随便放水啊！”",
+      "source_hash": "0d843fe61ad1f626ba96bdf41198fafcc71477ec179e077a234d065772d30141",
+      "target": "Tạ Thính Huyền cười hà hà nói, sau đó chuyển giọng: “Con bé tìm ông nội Tạ đến đây là có chuyện gì thế? Nói trước nhé, nếu là chuyện liên quan đến giải đấu thì ông nội Tạ không thể tùy tiện nương tay đâu đấy!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0039",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0039"
+      ],
+      "source": "司佳雪淡淡一笑：“谢爷爷，我的专长是数据的计算和分析，今后恐怕会走上管理型修真者的道路，深海大学最出名的炼器系，恐怕不太适合我——所以您放心好了，我不会让您为难的。”",
+      "source_hash": "886a5a5b84f7ad60fcc47dd3561084c3a9ed150228ca1660a7a2a1b9b53f6994",
+      "target": "Tiêu Giai Tuyết khẽ mỉm cười: “Ông nội Tạ, chuyên môn của cháu là tính toán và phân tích dữ liệu, sau này e rằng sẽ đi theo con đường tu chân giả thiên về quản lý. Khoa Luyện khí nổi tiếng nhất của Đại học Thâm Hải có lẽ không phù hợp với cháu —— vì vậy ông cứ yên tâm đi, cháu sẽ không làm ông phải khó xử đâu.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0040",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0040"
+      ],
+      "source": "谢听弦老脸一红：“小丫头，你可别怪谢爷爷小肚鸡肠，当这个观察员，各方面的关系太复杂，有时候不得不丑话说在前面。”",
+      "source_hash": "c9f5cb604e4259713146be6e4cb4857024b82b11f3b211918298c5dc7911ab9b",
+      "target": "Tạ Thính Huyền đỏ mặt: “Cháu đừng trách ông nội Tạ này hẹp hòi, làm quan sát viên này quan hệ các bên phức tạp quá, đôi khi đành phải nói trước những lời mất lòng.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0041",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0041"
+      ],
+      "source": "司佳雪点点头，从背囊中取出一台晶脑，递了过去：",
+      "source_hash": "07ad70f6ae69ae65461e51294b99eba078285cfecb940468c039aeb9714973f7",
+      "target": "Tiêu Giai Tuyết gật đầu, lấy ra một chiếc Tinh não từ trong chiếc ba lô đeo lưng của mình rồi đưa qua:",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0042",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0042"
+      ],
+      "source": "“我明白的，谢爷爷，这次请您过来，主要是想让您帮我看一下这台晶脑——这是我奶奶的遗物，是一百多年前的古董，前些日子坏了，找人修了一下，虽说是修好了，使用起来也没什么大碍，终究不知道是否有什么隐患，所以想请您帮我检查一下，不知道是否方便？”",
+      "source_hash": "7ff9505c587bbab10c8af3ecd6add7aab9b376036e7255b5ab6e649728ce5509",
+      "target": "“Cháu hiểu mà ông nội Tạ. Lần này mời ông qua đây chủ yếu là muốn nhờ ông xem giúp cháu chiếc Tinh não này —— đây là di vật của bà nội cháu, là món đồ cổ từ hơn một trăm năm trước. Mấy hôm trước nó bị hỏng nên cháu đã nhờ người sửa lại. Dù nói là sửa xong dùng cũng không có vấn đề gì lớn, nhưng rốt cuộc cháu vẫn không biết liệu bên trong có để lại tai họa ngầm gì hay không, thế nên muốn nhờ ông kiểm tra giúp cháu một chút, không biết có tiện không ạ?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0043",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0043"
+      ],
+      "source": "“原来如此，小事一桩。”",
+      "source_hash": "610aca3195b9a41f791815ba7a860a79627bf0c55f001ba8ce20bc65e9d21921",
+      "target": "“Hóa ra là vậy, chuyện nhỏ ấy mà.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0044",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0044"
+      ],
+      "source": "谢听弦松了一口气，脸色也活络起来，目光随意扫过晶脑，“咦”了一声，眼中流露出了饶有兴致的光彩。",
+      "source_hash": "1e415754f377e1b1cd0e6bb19df6b9f6d860554816818cd1d19a983b6b66a0a6",
+      "target": "Tạ Thính Huyền thở phào nhẹ nhõm, sắc mặt cũng trở nên tự nhiên hơn. Ánh mắt ông tùy ý quét qua chiếc Tinh não thì khẽ \"ồ\" một tiếng, trong mắt lộ ra vẻ vô cùng hứng thú.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0045",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0045"
+      ],
+      "source": "“是天琴门的广陵7型管式晶脑，一百四十四年前的产品，非常罕见的老古董啊，保养得这么好，不错，不错，你说找人来修过？这年头，会修这种老古董的人真是不多了，我倒要好好看看，万一破坏了内部结构，就太可惜了！”",
+      "source_hash": "ab4d70dd70ed2cae0d30f0c70bc4489da9473ba4056b0098b843eedf072e8a75",
+      "target": "“Là Tinh não dạng ống Quảng Lăng số 7 của Thiên Cầm Môn, sản phẩm từ một trăm bốn mươi cách đây năm, đúng là một món đồ cổ cực kỳ hiếm thấy nha, bảo dưỡng tốt thế này thật tốt quá. Cháu nói là tìm người sửa sao? Thời buổi này người biết sửa loại đồ cổ thế này thực sự không nhiều đâu, ta phải xem xét kỹ lưỡng mới được, vạn nhất làm hỏng cấu trúc bên trong thì tiếc lắm!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0046",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0046"
+      ],
+      "source": "谢听弦右手轻轻一摆，也没见他施法，晶脑就飞入掌心，滴溜溜打转，随后，仿佛是有无形的手在操纵，法宝构件一个又一个脱离主体，轻盈地漂浮在半空中，露出了管式晶脑玄奥繁复的内部结构。",
+      "source_hash": "eb2f7e6fe5688ab8d82f8816be3528f727c33c94ab79d66d8903dfd435fb872c",
+      "target": "Tay phải Tạ Thính Huyền nhẹ nhàng phất một cái, cũng chẳng thấy ông thi pháp thế nào mà chiếc Tinh não đã bay vào lòng bàn tay xoay tít. Sau đó, giống như có một bàn tay vô hình đang thao tác, các cấu kiện pháp bảo lần lượt tách khỏi thân máy, nhẹ nhàng trôi nổi giữa không trung, làm lộ ra cấu trúc bên trong vô cùng huyền diệu và phức tạp của chiếc Tinh não dạng ống.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0047",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0047"
+      ],
+      "source": "“这是——”",
+      "source_hash": "5fc8570d891f654d19aa82567e5f6a265dc0ff0284f5e7e1ef185d9ba43b9e9f",
+      "target": "“Đây là ——”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0048",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0048"
+      ],
+      "source": "看到明显带有现代晶脑散热结构痕迹，却又和管式晶脑的古典风格结合得天衣无缝的散热片，谢听弦一愣。",
+      "source_hash": "ccf447ea1d108e8d578c04990dffd19a0bd9fe22aa771e970746d2e43bda6226",
+      "target": "Khi nhìn thấy tấm tản nhiệt rõ ràng mang vết tích của cấu trúc tản nhiệt Tinh não hiện đại, nhưng lại kết hợp một cách hoàn mỹ không tì vết với phong cách cổ điển của Tinh não dạng ống, Tạ Thính Huyền ngẩn người ra.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0049",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0049"
+      ],
+      "source": "“怎么样，谢爷爷，是不是有什么问题？”司佳雪紧张起来。",
+      "source_hash": "5059b5f6fda67881c555a9b77eefcff07d706fcc65648222fcc8a6a5a22ea4d3",
+      "target": "“Thế nào hả ông nội Tạ, có vấn đề gì sao ạ?” Tiêu Giai Tuyết trở nên căng thẳng.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0050",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0050"
+      ],
+      "source": "“小丫头，这就是你的不对啦。”谢听弦拖长了音调。",
+      "source_hash": "aa9b0f96a68dfb91956b049723a8a97b0bf4de7d6ebd846c69b94973e2d8e322",
+      "target": "“Con bé này, đây chính là chỗ không đúng của cháu rồi.” Tạ Thính Huyền kéo dài giọng nói.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0051",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0051"
+      ],
+      "source": "“我，我怎么了？”",
+      "source_hash": "f422218c55f519630f04f90882d62fb8b926d4819638e5167806da3ffec40c6c",
+      "target": "“Cháu... cháu làm sao ạ?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0052",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0052"
+      ],
+      "source": "司佳雪丈二和尚摸不着头脑，白嫩的俏脸上浮现出一抹疑惑。",
+      "source_hash": "a2532e51b1c19dc45fb0269338a7c4cdf5903ba9aa8b1b3f5e3978b53105bac6",
+      "target": "Tiêu Giai Tuyết ngơ ngác không hiểu ra sao, trên khuôn mặt nhỏ nhắn trắng nõn hiện lên một vẻ nghi hoặc.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0053",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0053"
+      ],
+      "source": "谢听弦看了她一眼，见她是真的不明白，皱眉道：",
+      "source_hash": "2627cc412f8c9ba9818257be23bbe0c0c62b9f505614e9a5c88e7fe4d905e711",
+      "target": "Tạ Thính Huyền liếc nhìn cô một cái, thấy cô thực sự không hiểu liền nhíu mày nói:",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0054",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0054"
+      ],
+      "source": "“小丫头，你这台晶脑，明显是托了高手去修的。”",
+      "source_hash": "18582671e07d85178a6093336e14f03c2ec1ac7460730078ff2f1f2040ddf679",
+      "target": "“Con bé này, chiếc Tinh não này của cháu rõ ràng là nhờ một cao thủ sửa chữa.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0055",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0055"
+      ],
+      "source": "“这位高手重新设计了散热片的结构，思路非常精妙，而且组装手法也非常纯熟完美，既保证了结构的稳固和散热效率，而且也留下了以后升级的空间，甚至能用同样的方式，多加上一块散热片，组成效率更高的散热组，能把你这台晶脑的性能提升10%以上！”",
+      "source_hash": "814f6bddaff5ee1ede837a7d3a60b3220fead35d3b83f0e208b6f6bc406f4722",
+      "target": "“Vị cao thủ này đã thiết kế lại cấu trúc của tấm tản nhiệt, tư duy cực kỳ tinh diệu, hơn nữa thủ pháp lắp ráp cũng vô cùng thuần thục và hoàn mỹ. Vừa bảo đảm cấu trúc vững chắc cùng hiệu suất tản nhiệt, lại vừa chừa lại không gian để nâng cấp sau này. Thậm chí còn có thể dùng cùng một phương thức đó lắp thêm một tấm tản nhiệt nữa để cấu thành tổ hợp tản nhiệt có hiệu suất cao hơn, nâng hiệu năng của chiếc Tinh não này lên hơn 10%!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0056",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0056"
+      ],
+      "source": "“对古董晶脑有如此深的了解，手法又这么高明，应该是炼器师吧？”",
+      "source_hash": "5c3554cba18d53162a3d339e75eb4634a18c5d83bd3824b7f50c6d9972d450a1",
+      "target": "“Am hiểu sâu sắc về Tinh não đồ cổ như vậy, thủ pháp lại cao minh thế này, chắc hẳn phải là một luyện khí sư chứ?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0057",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0057"
+      ],
+      "source": "“要知道，每一名炼器师都有自己的尊严，对作品有极强的信心，你选择了让人家去修，结果又不相信人家，还拿来让我检测，这就是对他极大的侮辱了！”",
+      "source_hash": "177afac3124ff17e4b91d1b5c69ebbd722d190c9ca132e9b0c1a1418b90009a7",
+      "target": "“Cháu phải biết rằng, mỗi một vị luyện khí sư đều có lòng tự tôn của riêng mình, có lòng tin cực kỳ mãnh liệt đối với tác phẩm của bản thân. Cháu đã chọn nhờ người ta sửa, kết quả lại không tin tưởng người ta, còn đem qua đây bảo ta kiểm tra, đây chính là sự sỉ nhục cực lớn đối với họ!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0058",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0058"
+      ],
+      "source": "“一旦他知道这件事，不但会对你生出恶意，甚至会迁怒于我，说不定什么时候就要找我一较高下，看看我究竟有没有资格检修他的作品！”",
+      "source_hash": "bc757997de296dde1beba355be23e4d77c8801043aba9075aed7a8e3a4de6e61",
+      "target": "“Một khi người đó biết chuyện này, không chỉ nảy sinh ác cảm với cháu, thậm chí còn giận lây sang cả ta. Biết đâu có ngày họ lại tìm ta để phân tài cao thấp, xem thử ta rốt cuộc có tư cách kiểm tra tác phẩm của họ hay không!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0059",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0059"
+      ],
+      "source": "“这么严重？”司佳雪吓了一跳。",
+      "source_hash": "16887a77626e351d45c2439f2eee11877f9439536fe3575237742e156a82c96b",
+      "target": "“Nghiêm trọng thế cơ ạ?” Tiêu Giai Tuyết giật mình.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0060",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0060"
+      ],
+      "source": "“你不是炼器师，自然不知道圈子里的规矩，每一件作品都是炼器师的心血，就像是他们的孩子，绝不容许别人乱动的！像这种情况，至少要先和人家说一声，得到人家许可，我才能动手检修，你和人家说过没有？”",
+      "source_hash": "35529a60d9c6e5585e5ac9a367ffc865eabab2e15b6d43a75176c320fe76d7cc",
+      "target": "“Cháu không phải là luyện khí sư nên đương nhiên không biết quy tắc trong giới. Mỗi một tác phẩm đều là tâm huyết của luyện khí sư, giống như đứa con của họ vậy, tuyệt đối không cho phép người cách tự tiện động vào! Tình huống như thế này, ít nhất phải nói trước với người ta một tiếng, được người ta cho phép thì ta mới có thể ra tay kiểm tra sửa chữa. Cháu đã nói với người ta chưa?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0061",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0061"
+      ],
+      "source": "司佳雪十分迷茫地摇了摇头。",
+      "source_hash": "470ebd2edc39cbd61b8b885577f52a414e01298f072e867bb0e365b6a186c941",
+      "target": "Tiêu Giai Tuyết cực kỳ hoang mang lắc đầu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0062",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0062"
+      ],
+      "source": "“唉，也是我大意，还以为你只是随便找人修了一下，没想到是真正的高手，这下有些麻烦了。”谢听弦有些懊恼地说。",
+      "source_hash": "4f381210d264da34130f3d095e32196a1d94e4d528b3ca87da05e06d2ff071b9",
+      "target": "“Hầy, cũng tại ta đại ý, cứ tưởng cháu chỉ tùy tiện tìm người sửa bừa, không ngờ lại gặp phải một cao thủ thực thụ, chuyện này có chút rắc rối rồi.” Tạ Thính Huyền có hơi buồn bực nói.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0063",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0063"
+      ],
+      "source": "“可，可我是随便找人修了一下啊，我找的是一个同学。”司佳雪结结巴巴地说。",
+      "source_hash": "4157c2b48bfb0b1a7e7d7c5aa6e0d10c0d2a6a6abadc8daf27ce037fe8b14375",
+      "target": "“Nhưng... nhưng cháu đúng là tùy tiện tìm người sửa mà, cháu tìm một người bạn học.” Tiêu Giai Tuyết lắp bắp nói.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0050:align_0064",
+      "chapter_id": "chapter_0050",
+      "segment_ids": [
+        "chapter_0050:seg_0064"
+      ],
+      "source": "“什么，你的同学——高中生？”",
+      "source_hash": "3bf0718971272a46777e941daefd813d67e0c12e76af7eb8b8e2437c0b176e59",
+      "target": "“Cái gì, bạn học của cháu —— học sinh trung học phổ thông sao?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    }
+  ],
+  "term_occurrences": [
+    {
+      "chapter_id": "chapter_0050",
+      "source_term": "晶脑",
+      "target_term": "Tinh não",
+      "segment_id": "chapter_0050:seg_0015",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0050",
+      "source_term": "玄鸟战梭",
+      "target_term": "Huyền Điểu Chiến Toa",
+      "segment_id": "chapter_0050:seg_0029",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0050",
+      "source_term": "管式晶脑",
+      "target_term": "tinh não dạng ống",
+      "segment_id": "chapter_0050:seg_0045",
+      "present_in_target": false,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0050",
+      "source_term": "广陵7型",
+      "target_term": "Quảng Lăng số 7",
+      "segment_id": "chapter_0050:seg_0045",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0050",
+      "source_term": "天琴门",
+      "target_term": "Thiên Cầm Môn",
+      "segment_id": "chapter_0050:seg_0045",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0050",
+      "source_term": "散热片",
+      "target_term": "tấm tản nhiệt",
+      "segment_id": "chapter_0050:seg_0048",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0050",
+      "source_term": "司佳雪",
+      "target_term": "Tiêu Giai Tuyết",
+      "segment_id": "chapter_0050:seg_0034",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0050",
+      "source_term": "彭海",
+      "target_term": "Bành Hải",
+      "segment_id": "chapter_0050:seg_0029",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0050",
+      "source_term": "妖刀",
+      "target_term": "Yêu Đao",
+      "segment_id": "chapter_0050:seg_0029",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0050",
+      "source_term": "噗叽兽",
+      "target_term": "thú Pút Kít",
+      "segment_id": "chapter_0050:seg_0006",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "beast",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0050",
+      "source_term": "炼器师",
+      "target_term": "luyện khí sư",
+      "segment_id": "chapter_0050:seg_0001",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "job",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0050",
+      "source_term": "辽远号",
+      "target_term": "Liêu Viễn Hào",
+      "segment_id": "chapter_0050:seg_0003",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0050",
+      "source_term": "深海大学",
+      "target_term": "Đại học Thâm Hải",
+      "segment_id": "chapter_0050:seg_0024",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0050",
+      "source_term": "谢听弦",
+      "target_term": "Tạ Thính Huyền",
+      "segment_id": "chapter_0050:seg_0036",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0050",
+      "source_term": "魔蛟岛",
+      "target_term": "Đảo Ma Giao",
+      "segment_id": "chapter_0050:seg_0004",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "location",
+      "confidence": 1.0
+    }
+  ],
+  "entity_mentions": [
+    {
+      "chapter_id": "chapter_0050",
+      "source_surface": "李耀",
+      "target_surface": "Lý Diệu",
+      "entity_type": "person",
+      "segment_id": "chapter_0050:seg_0008",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0050",
+      "source_surface": "彭海",
+      "target_surface": "Bành Hải",
+      "entity_type": "person",
+      "segment_id": "chapter_0050:seg_0029",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0050",
+      "source_surface": "司佳雪",
+      "target_surface": "Tiêu Giai Tuyết",
+      "entity_type": "person",
+      "segment_id": "chapter_0050:seg_0034",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0050",
+      "source_surface": "谢听弦",
+      "target_surface": "Tạ Thính Huyền",
+      "entity_type": "person",
+      "segment_id": "chapter_0050:seg_0036",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0050",
+      "source_surface": "天琴门",
+      "target_surface": "Thiên Cầm Môn",
+      "entity_type": "factions",
+      "segment_id": "chapter_0050:seg_0045",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0050",
+      "source_surface": "深海大学",
+      "target_surface": "Đại học Thâm Hải",
+      "entity_type": "factions",
+      "segment_id": "chapter_0050:seg_0024",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0050",
+      "source_surface": "魔蛟岛",
+      "target_surface": "Đảo Ma Giao",
+      "entity_type": "locations",
+      "segment_id": "chapter_0050:seg_0004",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0050",
+      "source_surface": "辽远号",
+      "target_surface": "Liêu Viễn Hào",
+      "entity_type": "items",
+      "segment_id": "chapter_0050:seg_0003",
+      "confidence": 1.0
+    }
+  ],
+  "name_analysis": {
+    "status": "ok",
+    "evidence_count": 4,
+    "name_mentions": [
+      {
+        "chapter_id": "chapter_0050",
+        "name_source": "李耀",
+        "name_target": "Lý Diệu",
+        "segment_id": "chapter_0050:seg_0008",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0050",
+        "name_source": "彭海",
+        "name_target": "Bành Hải",
+        "segment_id": "chapter_0050:seg_0029",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0050",
+        "name_source": "司佳雪",
+        "name_target": "Tiêu Giai Tuyết",
+        "segment_id": "chapter_0050:seg_0034",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0050",
+        "name_source": "谢听弦",
+        "name_target": "Tạ Thính Huyền",
+        "segment_id": "chapter_0050:seg_0036",
+        "present_in_target": true,
+        "confidence": 1.0
+      }
+    ],
+    "name_entries": [
+      {
+        "name_source": "李耀",
+        "name_target": "Lý Diệu"
+      },
+      {
+        "name_source": "彭海",
+        "name_target": "Bành Hải"
+      },
+      {
+        "name_source": "司佳雪",
+        "name_target": "Tiêu Giai Tuyết"
+      },
+      {
+        "name_source": "谢听弦",
+        "name_target": "Tạ Thính Huyền"
+      }
+    ],
+    "transliteration_units": [],
+    "inferred_name_rules": [],
+    "ambiguity_cases": [],
+    "reusable_name_profile": {
+      "mapping_count": 4,
+      "has_ambiguity": false
+    }
+  },
+  "phrase_patterns": [],
+  "grammar_rule_candidates": [],
+  "analyzer_reports": {
+    "term_occurrences": {
+      "status": "ok",
+      "evidence_count": 15
+    },
+    "entity_mentions": {
+      "status": "ok",
+      "evidence_count": 8
+    },
+    "name_mentions": {
+      "status": "ok",
+      "evidence_count": 4
+    },
+    "phrase_patterns": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    },
+    "grammar_rule_candidates": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    }
+  },
+  "review_queue": [
+    {
+      "chapter_id": "chapter_0050",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "谢爷爷",
+        "entity_type": "person",
+        "count": 3,
+        "confidence": 0.82,
+        "evidence": [
+          "\n司佳雪淡淡一笑：“谢爷爷，我的专长是数据的计",
+          "去：\n\n“我明白的，谢爷爷，这次请您过来，主要",
+          "一愣。\n\n“怎么样，谢爷爷，是不是有什么问题？"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0050",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "吉道",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "的规矩\n\n  \n\n小吉道：“初赛一共三天，三",
+          "据。\n\n片刻之后，小吉道：\n\n“过去三届挑战"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0050",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "和人家",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.82,
+        "evidence": [
+          "像这种情况，至少要先和人家说一声，得到人家许可",
+          "，我才能动手检修，你和人家说过没有？”\n\n司佳"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0050",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "高考",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "，佼佼者甚至不用经过高考，直接就被‘特招’，",
+          "真是心动了。\n\n高考高考，就是千军万马过独木"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0050",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "非常适合某一所大学",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "某一方面的修炼天赋，非常适合某一所大学，但是你的综合实力不"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0050",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "妖刀彭海",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "。\n\n他眼前，满是“妖刀彭海”驾驭着玄鸟战梭出现"
+        ]
+      }
+    }
+  ],
+  "quality_audit": {
+    "segment_coverage": 1.0,
+    "source_hash_match": true,
+    "target_reconstruction_match": true,
+    "invalid_ref_count": 0,
+    "locked_term_hit_rate": 1.0,
+    "missing_locked_terms": [],
+    "cjk_residue_count": 0,
+    "paragraph_drift_ratio": 0.0,
+    "pronoun_consistency_score": 1.0,
+    "warnings": []
+  }
+}

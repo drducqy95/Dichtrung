@@ -13,7 +13,7 @@
     "split": "Source/Source split/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/",
     "description": "Source nam o thu muc goc, KHONG copy vao branch"
   },
-  "completed_chapters": 33,
+  "completed_chapters": 78,
   "total_chapters": null,
   "output_filename_pattern_display": "Chương {chapter:04d}: {title}.md",
   "output_filename_pattern_filesystem": "Chương {chapter:04d} - {title}.md",
@@ -22,5 +22,5 @@
     "đông phương",
     "sci fi"
   ],
-  "generated_at": "2026-05-30T22:44:06+07:00"
+  "generated_at": "2026-05-31T17:24:12+07:00"
 }

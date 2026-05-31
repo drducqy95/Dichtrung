@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 39,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan\\0039 - 39.第39章 修真世界，海阔天空！.md",
+  "source_char_count": 2287,
+  "characters": [
+    {
+      "source": "景象",
+      "entity_type": "person",
+      "count": 3,
+      "confidence": 0.7,
+      "evidence": [
+        "舞，汇聚成生机勃勃的景象。\n\n“呜！呜！”\n",
+        "大自然雄浑辽阔的壮观景象，是一直生活在浮戈城",
+        "大自然波澜壮阔的奇异景象，看到底下修真者猎杀"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "source": "摸索到一扇封闭的大门",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "西，似乎在脑域深处，摸索到一扇封闭的大门，甚至可以听到里面，"
+      ]
+    },
+    {
+      "source": "竟然一直裂开到身体中部",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "，它的嘴巴奇大无比，竟然一直裂开到身体中部，整张嘴里布满獠牙，"
+      ]
+    },
+    {
+      "source": "联邦东部",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "\n\n  \n\n十天后，联邦东部，极东海。\n\n清晨，"
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "source": "极东海",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "\n十天后，联邦东部，极东海。\n\n清晨，朝阳喷薄"
+      ]
+    },
+    {
+      "source": "重逾万吨的身体重新砸回大海",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "，巨大怪鱼扑了个空，重逾万吨的身体重新砸回大海，掀起滔天巨浪。\n\n"
+      ]
+    },
+    {
+      "source": "驰骋大海",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "自己炼制的神兵利器，驰骋大海，斩杀妖兽，搏击风浪"
+      ]
+    }
+  ],
+  "realms": [],
+  "techniques": [
+    "似乎是经",
+    "修真者将巨剑",
+    "再一小步",
+    "只要再一步",
+    "太阳也似的光球在掌",
+    "左手握着剑",
+    "背着巨剑",
+    "船底玄奥繁复的符阵",
+    "论它怎么扭动都无法",
+    "过修真者炼制的法",
+    "近才想到的修炼秘法"
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "浮戈城",
+      "target": "Phù Qua Thành"
+    },
+    {
+      "source": "晶脑",
+      "target": "Tinh não"
+    },
+    {
+      "source": "郑东明",
+      "target": "Trịnh Đông Minh"
+    },
+    {
+      "source": "准考证",
+      "target": "thẻ dự thi"
+    }
+  ],
+  "structural_hints": {
+    "has_dialogue": true,
+    "has_western_names": false,
+    "estimated_segments": 47
+  },
+  "generated_at": "2026-05-31T03:27:59.703664+07:00"
+}

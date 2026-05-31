@@ -1,0 +1,782 @@
+{
+  "schema_version": "2.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 43,
+  "chapter_id": "chapter_0043",
+  "source_manifest_hash": "1c88061fb391539d0b668152778e1d953efe1b2d34272dff71afa688f055f76e",
+  "aligned_segments": [
+    {
+      "alignment_id": "chapter_0043:align_0001",
+      "chapter_id": "chapter_0043",
+      "segment_ids": [
+        "chapter_0043:seg_0001"
+      ],
+      "source": "# 43.第43章 天幻书院",
+      "source_hash": "4795cc33a83283d10ba01013f64723ad41a83f558f33113a796100319331ed6e",
+      "target": "# Chương 0043 - Thiên Huyễn Thư Viện",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0043:align_0002",
+      "chapter_id": "chapter_0043",
+      "segment_ids": [
+        "chapter_0043:seg_0002"
+      ],
+      "source": "“砰——”",
+      "source_hash": "3cc64dac9a405c6f5d13b52d5d4f82a18dfbf32dae7c85957de7715b67d7797a",
+      "target": "“Bành ——”",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0043:align_0003",
+      "chapter_id": "chapter_0043",
+      "segment_ids": [
+        "chapter_0043:seg_0003"
+      ],
+      "source": "八艘浮空艇缓缓靠上辽远号四周的空中码头，就像是八只虱子跳到海龟的背上，双方的体型差距极大。",
+      "source_hash": "afc5bd9b9d7361e34f2fd6ac5736bc6b41196296905f54a24777091bdf7fc101",
+      "target": "Tám chiếc thuyền phù không từ từ cập vào bến cảng trên không xung quanh Liêu Viễn Hào, giống như tám con rận nhảy lên lưng rùa biển, chênh lệch thể hình giữa hai bên cực kỳ lớn.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0043:align_0004",
+      "chapter_id": "chapter_0043",
+      "segment_ids": [
+        "chapter_0043:seg_0004"
+      ],
+      "source": "李耀怀着崇敬的心情，踏上辽远号。",
+      "source_hash": "b3eb79cfcf82426cd36c5088df7a47a0cb62628793c396eb308f411513f33289",
+      "target": "Lý Diệu ôm tâm tình kính cẩn bước lên Liêu Viễn Hào.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0043:align_0005",
+      "chapter_id": "chapter_0043",
+      "segment_ids": [
+        "chapter_0043:seg_0005"
+      ],
+      "source": "今天的辽远号，已经被改造成了战争博物馆，刚刚走下前甲板，李耀就看到一座巨大的青铜雕像，雕铸的是一名面容坚毅的海军军官，他一手按住长剑，一手指向不远处，似乎正在大声咆哮。",
+      "source_hash": "87f89b748e4af200c796a76d20793eb78532889fc06143a14fcce2891e474e9d",
+      "target": "Liêu Viễn Hào ngày nay đã được cải tạo thành bảo tàng chiến tranh. Vừa bước xuống boong trước, Lý Diệu liền nhìn thấy một bức tượng đồng khổng lồ khắc họa một sĩ quan hải quân có gương mặt kiên nghị, một tay ông tì lên thanh trường kiếm, tay kia chỉ về hướng cách đó không xa, dường như đang lớn tiếng gầm thét.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0043:align_0006",
+      "chapter_id": "chapter_0043",
+      "segment_ids": [
+        "chapter_0043:seg_0006"
+      ],
+      "source": "即便只是一座雕像，却缭绕着一种血战到底，一往无前的绝强气势，李耀甚至依稀能听到从青铜雕像内部传来了电闪雷鸣的怒吼声：",
+      "source_hash": "2099adce28dddb109c4d8efb98a6337bc8657492c15bc5c4004d90104b215f3d",
+      "target": "Dù chỉ là một bức tượng, nhưng vẫn vây quanh một loại khí thế tuyệt cường quyết chiến đến cùng, dũng mãnh tiến về phía trước. Lý Diệu thậm chí lờ mờ nghe thấy tiếng gầm thét như sấm chớp ầm ầm vang vọng từ bên trong bức tượng đồng:",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0043:align_0007",
+      "chapter_id": "chapter_0043",
+      "segment_ids": [
+        "chapter_0043:seg_0007"
+      ],
+      "source": "“撞沉天野！”",
+      "source_hash": "db373b62a07d47792fad79716545cf89b842279a36833d63ef6e442c51881663",
+      "target": "“Đâm chìm Thiên Dã!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0043:align_0008",
+      "chapter_id": "chapter_0043",
+      "segment_ids": [
+        "chapter_0043:seg_0008"
+      ],
+      "source": "这是辽远号的第一任，也是最后一任舰长，结丹期修真者“平远涛”的雕像。",
+      "source_hash": "4afc0438360fdf373000cdbb98b787cfb659c14c533564631fc4f3310ec2ee7d",
+      "target": "Đây chính là bức tượng của vị hạm trưởng đầu tiên và cũng là cuối cùng của Liêu Viễn Hào, tu chân giả Kết Đan Kỳ \"Bình Viễn Tào\".",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0043:align_0009",
+      "chapter_id": "chapter_0043",
+      "segment_ids": [
+        "chapter_0043:seg_0009"
+      ],
+      "source": "雕像的底座上，还刻着九个字，是平远涛曾经说过的一句名言。",
+      "source_hash": "4c311180d89d0aa91b9eefbb6e2f222e21cafe8cbefd41a25dfeb0677af7b99e",
+      "target": "On bệ tượng còn khắc chín chữ, là câu danh ngôn mà Bình Viễn Tào từng nói.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0043:align_0010",
+      "chapter_id": "chapter_0043",
+      "segment_ids": [
+        "chapter_0043:seg_0010"
+      ],
+      "source": "相传，平远涛小时候曾经加入修炼宗派，那时天元界还是妖兽的乐园，人类只能在几个修炼宗派控制的城镇中苦苦挣扎，星耀联邦刚刚成立，甚至没人把它当成一个国家，只不过是九个修炼宗派之间，为了互相沟通联络方便，建立起来的一个松散组织。",
+      "source_hash": "e410400d6fe62585a727f93c5048f72280623ed60e3cb473dc39a3df8aefc65b",
+      "target": "Tương truyền, khi Bình Viễn Tào còn nhỏ từng gia nhập tông phái tu luyện, lúc đó Thiên Nguyên Giới vẫn là thiên đường của yêu thú, nhân loại chỉ có thể chật vật sinh tồn trong các thị trấn do vài tông phái tu luyện kiểm soát. Liên bang Tinh Diệu vừa mới thành lập, thậm chí không có ai coi nó là một quốc gia, chẳng qua chỉ là một tổ chức lỏng lẻo được dựng lên giữa chín tông phái tu luyện để thuận tiện liên lạc, câu thông lẫn nhau mà thôi.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0043:align_0011",
+      "chapter_id": "chapter_0043",
+      "segment_ids": [
+        "chapter_0043:seg_0011"
+      ],
+      "source": "当时平远涛和一大帮少年一起加入修炼宗派，宗派里的长老按照惯例问他们，为什么要修真？",
+      "source_hash": "16a32e8892c53e95553a7455543c9e81a43c5095e3108f06e9367542b7d2df11",
+      "target": "Lúc ấy Bình Viễn Tào cùng một đám thiếu niên đồng loạt gia nhập tông phái tu luyện, trưởng lão trong tông phái theo lệ thường hỏi họ tại sao lại muốn tu chân?",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0043:align_0012",
+      "chapter_id": "chapter_0043",
+      "segment_ids": [
+        "chapter_0043:seg_0012"
+      ],
+      "source": "少年们七嘴八舌，议论纷纷，有人说是为了荣华富贵，金钱美女；有人说是为了长生不老，永世逍遥；有人说是为了学到百种神通，千般变化，可以随心所欲，纵横天地；也有人说是要斩妖除魔，保护亲人和朋友。",
+      "source_hash": "3158afcd90bbb9598832326774050cfa1441ba251cbb6fa01fcdd0027b89e967",
+      "target": "Đám thiếu niên mồm năm miệng mười bàn tán xôn xao. Có người nói vì vinh hoa phú quý, tiền tài mỹ nữ; có người nói vì trường sinh bất lão, vĩnh viễn tiêu dao; có người nói vì học được trăm mối thần thông, ngàn vạn biến hóa để có thể tùy tâm sở dục, tung hoành thiên địa; cũng có người nói để trảm yêu trừ ma, bảo vệ người thân và bằng hữu.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0043:align_0013",
+      "chapter_id": "chapter_0043",
+      "segment_ids": [
+        "chapter_0043:seg_0013"
+      ],
+      "source": "而轮到平远涛的时候，他就说了九个字：",
+      "source_hash": "ef977444b1fa7659f42bfede6e2f0be152af3d9d6296d0bc092a3dc105e8e5f6",
+      "target": "Đến lượt Bình Viễn Tào, ông chỉ nói đúng chín chữ:",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0043:align_0014",
+      "chapter_id": "chapter_0043",
+      "segment_ids": [
+        "chapter_0043:seg_0014"
+      ],
+      "source": "“为联邦之崛起而修真！”",
+      "source_hash": "958a51c681800331826335391f658f15b9f1f4fc12837406029bc15e769f3ad1",
+      "target": "“Vì Liên bang quật khởi mà tu chân!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0043:align_0015",
+      "chapter_id": "chapter_0043",
+      "segment_ids": [
+        "chapter_0043:seg_0015"
+      ],
+      "source": "一百年后，平远涛用生命为这九个字添上了光辉灿烂的注脚，而这九个字也成为无数星耀联邦修真者的座右铭，激励他们开疆扩土，斩杀妖兽，将星耀联邦打造成天元界最强大的人类国家！",
+      "source_hash": "65bcbc6d8054521468d0bb0b2a1aa245d5becdae6e4df2cc1f72d6d59281c4d4",
+      "target": "Một trăm năm sau, Bình Viễn Tào đã dùng sinh mạng của mình để thêm vào dòng chú thích huy hoàng rực rỡ cho chín chữ này, và chín chữ này cũng trở thành châm ngôn sống của vô số tu chân giả Liên bang Tinh Diệu, khích lệ họ khai cương thác thổ, trảm sát yêu thú, xây dựng Liên bang Tinh Diệu thành quốc gia nhân loại mạnh nhất Thiên Nguyên Giới!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0043:align_0016",
+      "chapter_id": "chapter_0043",
+      "segment_ids": [
+        "chapter_0043:seg_0016"
+      ],
+      "source": "“太帅了！”",
+      "source_hash": "9608bbbd979cb05602bab1397d3946f980d7eb610acf68ca31529b41e3e13bd8",
+      "target": "“Quá ngầu!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0043:align_0017",
+      "chapter_id": "chapter_0043",
+      "segment_ids": [
+        "chapter_0043:seg_0017"
+      ],
+      "source": "虽然在课本上不止一次学到过平远涛的故事，听到过这句话，但是在辽远号上看到这句话，据说还是平远涛亲笔手书，意义自然大不相同，不少学生激动地大呼小叫，纷纷跑过去和平远涛的青铜雕像合影留念，然后发到灵网上，向朋友炫耀。",
+      "source_hash": "ad2292360bd74f71374a81915089070e60c4d0592fffd3d143c68256159d47fa",
+      "target": "Mặc dù trong sách giáo khoa không chỉ một lần được học về câu chuyện của Bình Viễn Tào và nghe qua câu nói này, nhưng khi tận mắt nhìn thấy dòng chữ được cho là bút tích của Bình Viễn Tào ngay trên Liêu Viễn Hào, ý nghĩa tự nhiên hoàn toàn khác biệt. Không ít học sinh kích động kêu la váng đầu, sôi nổi chạy tới chụp ảnh chung với tượng đồng của Bình Viễn Tào để làm kỷ niệm, sau đó đăng lên Linh Mạng để khoe khoang với bạn bè.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0043:align_0018",
+      "chapter_id": "chapter_0043",
+      "segment_ids": [
+        "chapter_0043:seg_0018"
+      ],
+      "source": "李耀也想过去合影，郑东明却拽着他直接往里走，说是要带他去见识一下热闹。",
+      "source_hash": "89cf78ba606b54ea65682846608d4044cbd50c636134743e7f288e73b5130353",
+      "target": "Lý Diệu cũng muốn qua chụp hình chung, nhưng Trịnh Đông Minh lại lôi tuột cậu đi thẳng vào bên trong, bảo là dẫn cậu đi xem náo nhiệt.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0043:align_0019",
+      "chapter_id": "chapter_0043",
+      "segment_ids": [
+        "chapter_0043:seg_0019"
+      ],
+      "source": "“雕像就在这里，又不会跑掉，里面的大场面，却是要早点去看，晚了就挤不进去了！”",
+      "source_hash": "fd3e747307c8f505abfa665702dc65d2c61ef50d0e89cf60194b251b41a467d6",
+      "target": "“Bức tượng nằm chình ình ở đây chứ có chạy mất đâu, còn cảnh tượng hoành tráng bên trong thì phải tranh thủ vào xem sớm, muộn chút là không chen chân nổi đâu!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0043:align_0020",
+      "chapter_id": "chapter_0043",
+      "segment_ids": [
+        "chapter_0043:seg_0020"
+      ],
+      "source": "“什么大场面？”",
+      "source_hash": "4f421c2d82feed6f55b4b114cdf05020650ab0541b52fbc137fa1a80118dd073",
+      "target": "“Cảnh tượng hoành tráng gì thế?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0043:align_0021",
+      "chapter_id": "chapter_0043",
+      "segment_ids": [
+        "chapter_0043:seg_0021"
+      ],
+      "source": "“每次极限挑战赛之前，九大精英联校都会在赛场外召开一次‘双向交流会’，向考生介绍‘九大’的厉害，也有吸引修炼天才报考的意思，在船舱里一共有九个展台，有‘九大’的修真者直接和考生交流，场面很火爆的，要快点进去！”郑东明熟门熟路地说。",
+      "source_hash": "05e18edb37dac94298305e7c9836aef13cb69e0baf1ce528e892eeae1c14f96c",
+      "target": "“Trước mỗi Giải đấu Thử thách Cực hạn, Chín đại học tinh anh liên kết đều sẽ tổ chức một buổi 'hội chợ giao lưu hai chiều' ở bên ngoài sân thi đấu, giới thiệu sự lợi hại của 'Chín trường đại học' cho thí sinh, đồng thời cũng nhằm mục đích thu hút các thiên tài tu luyện đăng ký dự thi. Trong khoang thuyền có tổng cộng chín gian triển lãm, có tu chân giả của 'Chín trường đại học' trực tiếp giao lưu với thí sinh, bầu không khí vô cùng sôi động nhiệt liệt, phải nhanh chân lên!” Trịnh Đông Minh nói một cách quen đường quen lối.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0043:align_0022",
+      "chapter_id": "chapter_0043",
+      "segment_ids": [
+        "chapter_0043:seg_0022"
+      ],
+      "source": "“来自‘九大’的修真者？”李耀眼前一亮，不用郑东明拽，骤然加快速度。",
+      "source_hash": "22557a0312ef3394c02fa4289d7966521139b89a2ec7e7ab83a65d7cce7d5e26",
+      "target": "“Tu chân giả đến từ 'Chín trường đại học' sao?” Mắt Lý Diệu sáng lên, chẳng đợi Trịnh Đông Minh kéo, cậu lập tức tăng tốc.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0043:align_0023",
+      "chapter_id": "chapter_0043",
+      "segment_ids": [
+        "chapter_0043:seg_0023"
+      ],
+      "source": "进入第一层船舱，偌大的空间挤满了上千名学生，人声鼎沸，气氛火爆。",
+      "source_hash": "734976b0c669bdd25e28e9887c3a494db4cee8d97d99641f36d48080c79ad7c4",
+      "target": "Bước vào tầng khoang thuyền thứ nhất, không gian rộng lớn chen chúc hơn ngàn học sinh, người người ồn ào náo nhiệt, không khí vô cùng nóng bỏng.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0043:align_0024",
+      "chapter_id": "chapter_0043",
+      "segment_ids": [
+        "chapter_0043:seg_0024"
+      ],
+      "source": "整座大厅被划分成了九个独立的区域，每一块区域上空都悬挂着一所大学的名字。",
+      "source_hash": "3b82b2ec3dc742694059d42d69a09c28b5305c6d3835a5abd1592e9e4274bdb1",
+      "target": "Toàn bộ đại sảnh được phân chia thành chín khu vực độc lập, phía trên mỗi khu vực treo tên của một trường đại học.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0043:align_0025",
+      "chapter_id": "chapter_0043",
+      "segment_ids": [
+        "chapter_0043:seg_0025"
+      ],
+      "source": "郑东明左右一看，就拉着李耀往“天幻书院”的区域走去。",
+      "source_hash": "399f67eec85f8fa4a74878624259d4b5f11544c17059da17e2925e10f0fe5f28",
+      "target": "Trịnh Đông Minh nhìn ngó xung quanh một lượt, liền kéo Lý Diệu đi về phía khu vực \"Thiên Huyễn Thư Viện\".",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0043:align_0026",
+      "chapter_id": "chapter_0043",
+      "segment_ids": [
+        "chapter_0043:seg_0026"
+      ],
+      "source": "“为什么先去天幻书院？这所大学的综合实力最强吗？”李耀有些不明白，看起来挤在天幻书院展台边上的人也是最多的。",
+      "source_hash": "35a097a5b367aebd5a1d754e9879e71d58d29e6f69afa706ad0bd61706ec4199",
+      "target": "“Sao lại đi Thiên Huyễn Thư Viện trước? Trường này có thực lực tổng hợp mạnh nhất à?” Lý Diệu có chút khó hiểu, nhìn qua thì số người vây quanh quầy triển lãm của Thiên Huyễn Thư Viện cũng là đông nhất.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0043:align_0027",
+      "chapter_id": "chapter_0043",
+      "segment_ids": [
+        "chapter_0043:seg_0027"
+      ],
+      "source": "“谁管它实力强不强啊！天幻书院是‘九大’里面唯一一所专门培养文艺型修真者的学校，学校里的美女那是出了名的数量多，质量好，而且一个个都超级文艺的！””郑东明吞了口唾沫，两眼烁烁放光。",
+      "source_hash": "2205b11597b5b77fc1fc22e7f50aa7e49edd8564183e267bafeb9abdfe0d1620",
+      "target": "“Ai thèm quan tâm thực lực nó mạnh hay yếu chứ! Thiên Huyễn Thư Viện là trường duy nhất trong số 'Chín trường đại học' chuyên đào tạo tu chân giả hệ văn nghệ, nữ sinh trường đó nổi tiếng là số lượng nhiều, chất lượng cao, hơn nữa ai nấy đều mang phong thái văn nghệ ngập tràn!” Trịnh Đông Minh nuốt nước bọt cái ực, hai mắt sáng rực như đèn pha.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0043:align_0028",
+      "chapter_id": "chapter_0043",
+      "segment_ids": [
+        "chapter_0043:seg_0028"
+      ],
+      "source": "两人好不容易杀入人群，却见天幻书院的展台布置非常简单，四周的墙上挂着一些字画作品，一边的角落里有几名大学生半眯着眼睛，摇头晃脑，沉浸在音乐世界中，另外一边还有一名头发蓬乱，胡子拉碴的年轻人浑身发颤，正在朗诵诗歌。",
+      "source_hash": "78cd9ad9736ec94142fbd4edbb6c1fb2fbf52c02c8d3d0bba4d03aabdfc25b04",
+      "target": "Hai người vất vả lắm mới len được vào đám đông, liền nhìn thấy quầy triển lãm của Thiên Huyễn Thư Viện được bài trí vô cùng đơn giản. Bốn bức tường treo đầy các tác phẩm thư họa, ở một góc có vài sinh viên đại học đang lim dim mắt, gật gù đắc ý chìm đắm trong thế giới âm nhạc, phía góc đối diện lại có một thanh niên đầu tóc bù xù, râu ria lún phún đang run rẩy cả người, lớn tiếng ngâm thơ.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0043:align_0029",
+      "chapter_id": "chapter_0043",
+      "segment_ids": [
+        "chapter_0043:seg_0029"
+      ],
+      "source": "而他们面前，却是一名身穿白色长袍，黑发及腰的古典美女，正在专心致志地画画。",
+      "source_hash": "803e134597871b8411f5a31f98688b237bbbfea6a6f04fe745fc9ca2d03354ae",
+      "target": "Còn ở ngay trước mặt họ lại là một mỹ nữ mang nét cổ điển, mặc áo bào trắng, mái tóc đen dài xõa tới thắt lưng, đang dồn hết sự tập trung để vẽ tranh.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0043:align_0030",
+      "chapter_id": "chapter_0043",
+      "segment_ids": [
+        "chapter_0043:seg_0030"
+      ],
+      "source": "李耀顺着她晶莹如玉的指尖看去，发现她的绘画风格和本尊截然不同，用十分凶猛凌厉的笔触，画出了一片惊涛骇浪之中，一艘残破不堪的小渔船，正在和一头八爪海怪搏斗的场面。",
+      "source_hash": "9faaee0df6b553baad3b6660bbb110ee6eb38982057f9638289d64adb215cbb8",
+      "target": "Lý Diệu nhìn theo những ngón tay thon dài trong suốt như ngọc của cô, phát hiện phong cách hội họa của cô hoàn toàn trái ngược với vẻ ngoài thanh nhã của bản thân. Bằng những nét bút cực kỳ hung mãnh, sắc sảo, cô vẽ nên một bức tranh sóng to gió lớn dữ dội, một chiếc thuyền đánh cá rách nát tả tơi đang kịch chiến quyết tử với một con quái vật biển tám vòi khổng lồ.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0043:align_0031",
+      "chapter_id": "chapter_0043",
+      "segment_ids": [
+        "chapter_0043:seg_0031"
+      ],
+      "source": "“画得不错啊……”",
+      "source_hash": "b91ce5ee75365da010ba387515bbaa642aa4f252b0a2cbc6553db47cea3ab28a",
+      "target": "“Vẽ đẹp thật đấy......”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0043:align_0032",
+      "chapter_id": "chapter_0043",
+      "segment_ids": [
+        "chapter_0043:seg_0032"
+      ],
+      "source": "李耀虽然不懂美术，却也从这幅画卷中感受到了一股惊心动魄的味道，轻轻点头，耳边传来微弱的涛声。",
+      "source_hash": "818def2032fcc60e9d0aa51d08d6976ea430a5d497dd32a8c7cd579cca59e471",
+      "target": "Lý Diệu tuy không hiểu biết về mỹ thuật, nhưng cũng cảm nhận được một luồng cảm xúc kinh tâm động phách từ bức họa cuốn này. Cậu khẽ gật đầu, bên tai bỗng nhiên lờ mờ truyền đến tiếng sóng vỗ nhè nhẹ.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0043:align_0033",
+      "chapter_id": "chapter_0043",
+      "segment_ids": [
+        "chapter_0043:seg_0033"
+      ],
+      "source": "涛声？",
+      "source_hash": "7a627f82ca67193d98997781dda9753f6e79d2ba2718f611e8a56d87df0893e3",
+      "target": "Tiếng sóng biển?",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0043:align_0034",
+      "chapter_id": "chapter_0043",
+      "segment_ids": [
+        "chapter_0043:seg_0034"
+      ],
+      "source": "李耀一愣，忽然发现自己置身于一艘剧烈颠簸的小渔船前甲板上，一浪高过一浪的海潮劈头盖脑打了过来，腥臭的海水一个劲儿灌入他的鼻孔和嘴巴里，耳边是妖兽怒吼一般的涛声！",
+      "source_hash": "732d7b42c7f8419b30525da1362f502661987d5399d5105e36995a2cff6c60e4",
+      "target": "Lý Diệu sửng sốt, đột nhiên phát hiện mình đang đứng trên boong trước của một chiếc thuyền đánh cá nhỏ chao đảo dữ dội. Từng đợt sóng biển dâng cao hết đợt này đến đợt khác ập thẳng vào mặt, dòng nước biển tanh nồng hôi thối cứ thế xộc vào mũi và miệng cậu, bên tai rền vang tiếng sóng gầm rú hệt như tiếng yêu thú gào thét!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0043:align_0035",
+      "chapter_id": "chapter_0043",
+      "segment_ids": [
+        "chapter_0043:seg_0035"
+      ],
+      "source": "极目远眺，四周是一望无垠的狂暴海洋，抬头一看，八爪海怪如小山般的脑袋就在小渔船上方，两只血红的怪眼正死死盯着他，发出摄人心魂的光芒！",
+      "source_hash": "04df8e1b8067f0a49b650dc46863cb61c5c6aeec73c2c2697f9a9194739613e1",
+      "target": "Phóng tầm mắt ra xa, xung quanh là biển cả cuồng bạo bao la không thấy bến bờ. Ngước đầu lên nhìn, cái đầu to lớn như ngọn núi nhỏ của con quái vật biển tám vòi đang áp sát ngay trên đỉnh đầu chiếc thuyền nhỏ, đôi mắt đỏ ngầu quái dị của nó đang trừng trừng nhìn thẳng vào cậu, tản phát ra thứ ánh sáng nhiếp hồn đoạt phách!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0043:align_0036",
+      "chapter_id": "chapter_0043",
+      "segment_ids": [
+        "chapter_0043:seg_0036"
+      ],
+      "source": "“啊！”",
+      "source_hash": "aa6e626a377e4cce5cf460c9f3364f14ddf566189f9ebc02b9b90d99ea639f27",
+      "target": "“A!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0043:align_0037",
+      "chapter_id": "chapter_0043",
+      "segment_ids": [
+        "chapter_0043:seg_0037"
+      ],
+      "source": "李耀毛骨悚然，忍不住大叫起来。",
+      "source_hash": "4a95650ea5e379baa366fb18080a10c4abd68b4ba593dd5b8ba48d01345a1976",
+      "target": "Lý Diệu sởn gai ốc, không nhịn được thét lên một tiếng.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0043:align_0038",
+      "chapter_id": "chapter_0043",
+      "segment_ids": [
+        "chapter_0043:seg_0038"
+      ],
+      "source": "这一叫，仿佛打碎幻境，神魂重新回到躯壳，已是冷汗涔涔，恍若隔世。",
+      "source_hash": "5a20cd4fc85460c3cfd9848aadd2bba6f2e262cee5d5484b2d08b0fa59af82e3",
+      "target": "Tiếng thét này giống như đập tan ảo cảnh, thần hồn cậu lập tức quay về thể xác, lúc này mồ hôi lạnh đã đầm đìa khắp người, có cảm giác ngơ ngác như vừa trải qua một kiếp khác.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0043:align_0039",
+      "chapter_id": "chapter_0043",
+      "segment_ids": [
+        "chapter_0043:seg_0039"
+      ],
+      "source": "再看身边，郑东明也是一样面色如土，双腿轻颤。",
+      "source_hash": "92706d171ed6a5159678c400d06eedb4da306558482df322c41e642d1855782c",
+      "target": "Nhìn lại bên cạnh, Trịnh Đông Minh mặt cũng cắt không còn giọt máu, hai chân run rẩy nhè nhẹ.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0043:align_0040",
+      "chapter_id": "chapter_0043",
+      "segment_ids": [
+        "chapter_0043:seg_0040"
+      ],
+      "source": "“现在你知道文艺型修真者的厉害了吧？这个大美女没有恶意，画作也才完成了一半，就可以把我们拖入恐怖的幻境，倘若她是主动攻击，使用的又是绘制完成的画作，你觉得自己还逃得出来吗？”郑东明颤声道。",
+      "source_hash": "409f8094a6f3d32d53accc632a9b1ce28251d575839cb23fa06f3b2fbde8dfd9",
+      "target": "“Giờ thì cậu biết độ lợi hại của tu chân giả hệ văn nghệ rồi chứ? Mỹ nữ này không hề mang ác ý, bức tranh cũng mới chỉ hoàn thành được một nửa mà đã có thể kéo hai đứa mình vào trong ảo cảnh kinh hoàng như vậy. Giả như cô ấy chủ động tấn công, lại dùng bức tranh đã hoàn thiện, cậu nghĩ bản thân còn có thể thoát ra được không?” Trịnh Đông Minh run giọng nói.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0043:align_0041",
+      "chapter_id": "chapter_0043",
+      "segment_ids": [
+        "chapter_0043:seg_0041"
+      ],
+      "source": "李耀长舒一口气，回想了一下刚才在幻境中，八爪海怪死死盯着他的场面。",
+      "source_hash": "632489d60d33657ea5a9966b516fa18052a15c1fdd0fc75da221058a8c317877",
+      "target": "Lý Diệu thở phào một hơi dài, nhớ lại cảnh tượng con quái vật biển tám vòi trừng trừng khóa chặt lấy cậu trong ảo cảnh vừa rồi.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0043:align_0042",
+      "chapter_id": "chapter_0043",
+      "segment_ids": [
+        "chapter_0043:seg_0042"
+      ],
+      "source": "直到现在他还不敢相信，制造出如此恐怖幻境的，居然只是一副未完成的画。",
+      "source_hash": "b0a486c39e28de4b359f2ba206475045e38441aa0a71dae7f96382837dfb1279",
+      "target": "Cho đến bây giờ cậu vẫn không thể tin nổi, thứ tạo ra ảo cảnh đáng sợ như thế vậy mà chỉ là một bức tranh chưa vẽ xong.",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0043:align_0043",
+      "chapter_id": "chapter_0043",
+      "segment_ids": [
+        "chapter_0043:seg_0043"
+      ],
+      "source": "文艺型修真者，确实是极为可怕的存在。",
+      "source_hash": "b8041faf9409d51e07f0f6b05001f33347964aebbaa1fff22d9a4e123e1d4e67",
+      "target": "Tu chân giả hệ văn nghệ, quả thực là những tồn tại vô cùng đáng sợ.",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0043:align_0044",
+      "chapter_id": "chapter_0043",
+      "segment_ids": [
+        "chapter_0043:seg_0044"
+      ],
+      "source": "“唉，虽然美女多，但这些文艺型修真者都是疯子，轻易招惹不得，只可远观，不可亵玩啊！不好，你看那边正在吟诗的家伙，面红耳赤，快要念到忘乎所以了，到时候精神力炸裂，还不知会制造出何等恐怖的幻境，我们赶快走吧，万一被他拖入幻境就糟糕了，我可不想进入一个丑男的精神世界！”郑东明拽着李耀，挤出人群，来到第二所大学的展台。",
+      "source_hash": "e22934eb4b937289ba1575b14909987cfcaef28e0ef1182cd504740c8a6195da",
+      "target": "“Haizz, tuy rằng mỹ nữ nhiều thật đấy, nhưng đám tu chân giả hệ văn nghệ này toàn là lũ điên, không thể tùy tiện chọc vào được, chỉ có thể đứng từ xa ngắm nhìn chứ không thể tùy tiện đùa giỡn! Thôi chết, cậu nhìn gã đang ngâm thơ đằng kia kìa, mặt đỏ gay tai đỏ tía, sắp sửa đọc đến mức quên hết tất cả rồi. Lát nữa tinh thần lực của gã mà nổ tung, không biết chừng sẽ tạo ra ảo cảnh kinh dị cỡ nào đâu. Chúng ta mau chuồn lẹ đi, nhỡ bị gã kéo vào ảo cảnh thì nguy to, tớ không muốn đi vào thế giới tinh thần của một gã đàn ông xấu xí đâu!” Trịnh Đông Minh kéo phăng Lý Diệu chen ra khỏi đám đông, đi tới gian triển lãm của trường đại học thứ hai.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    }
+  ],
+  "term_occurrences": [
+    {
+      "chapter_id": "chapter_0043",
+      "source_term": "九大精英联校",
+      "target_term": "Chín đại học tinh anh liên kết",
+      "segment_id": "chapter_0043:seg_0021",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0043",
+      "source_term": "郑东明",
+      "target_term": "Trịnh Đông Minh",
+      "segment_id": "chapter_0043:seg_0018",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0043",
+      "source_term": "结丹",
+      "target_term": "Kết Đan",
+      "segment_id": "chapter_0043:seg_0008",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "level",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0043",
+      "source_term": "辽远号",
+      "target_term": "Liêu Viễn Hào",
+      "segment_id": "chapter_0043:seg_0003",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    }
+  ],
+  "entity_mentions": [
+    {
+      "chapter_id": "chapter_0043",
+      "source_surface": "李耀",
+      "target_surface": "Lý Diệu",
+      "entity_type": "person",
+      "segment_id": "chapter_0043:seg_0004",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0043",
+      "source_surface": "郑东明",
+      "target_surface": "Trịnh Đông Minh",
+      "entity_type": "person",
+      "segment_id": "chapter_0043:seg_0018",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0043",
+      "source_surface": "辽远号",
+      "target_surface": "Liêu Viễn Hào",
+      "entity_type": "items",
+      "segment_id": "chapter_0043:seg_0003",
+      "confidence": 1.0
+    }
+  ],
+  "name_analysis": {
+    "status": "ok",
+    "evidence_count": 2,
+    "name_mentions": [
+      {
+        "chapter_id": "chapter_0043",
+        "name_source": "李耀",
+        "name_target": "Lý Diệu",
+        "segment_id": "chapter_0043:seg_0004",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0043",
+        "name_source": "郑东明",
+        "name_target": "Trịnh Đông Minh",
+        "segment_id": "chapter_0043:seg_0018",
+        "present_in_target": true,
+        "confidence": 1.0
+      }
+    ],
+    "name_entries": [
+      {
+        "name_source": "李耀",
+        "name_target": "Lý Diệu"
+      },
+      {
+        "name_source": "郑东明",
+        "name_target": "Trịnh Đông Minh"
+      }
+    ],
+    "transliteration_units": [],
+    "inferred_name_rules": [],
+    "ambiguity_cases": [],
+    "reusable_name_profile": {
+      "mapping_count": 2,
+      "has_ambiguity": false
+    }
+  },
+  "phrase_patterns": [],
+  "grammar_rule_candidates": [],
+  "analyzer_reports": {
+    "term_occurrences": {
+      "status": "ok",
+      "evidence_count": 4
+    },
+    "entity_mentions": {
+      "status": "ok",
+      "evidence_count": 3
+    },
+    "name_mentions": {
+      "status": "ok",
+      "evidence_count": 2
+    },
+    "phrase_patterns": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    },
+    "grammar_rule_candidates": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    }
+  },
+  "review_queue": [
+    {
+      "chapter_id": "chapter_0043",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "国家",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "甚至没人把它当成一个国家，只不过是九个修炼宗",
+          "成天元界最强大的人类国家！\n\n“太帅了！”\n"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0043",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "宗派",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "涛小时候曾经加入修炼宗派，那时天元界还是妖兽",
+          "大帮少年一起加入修炼宗派，宗派里的长老按照惯"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0043",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "双向交流会",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "会在赛场外召开一次‘双向交流会’，向考生介绍‘九大"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0043",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "平远涛小时候曾经加入修炼宗派",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "一句名言。\n\n相传，平远涛小时候曾经加入修炼宗派，那时天元界还是妖兽"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0043",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "建立起来的一个松散组织",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "了互相沟通联络方便，建立起来的一个松散组织。\n\n当时平远涛和一"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0043",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "当时平远涛和一大帮少年一起加入修炼宗派",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "的一个松散组织。\n\n当时平远涛和一大帮少年一起加入修炼宗派，宗派里的长老按照惯"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0043",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "整座大厅被划分成了九个独立的区域",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "鼎沸，气氛火爆。\n\n整座大厅被划分成了九个独立的区域，每一块区域上空都悬"
+        ]
+      }
+    }
+  ],
+  "quality_audit": {
+    "segment_coverage": 1.0,
+    "source_hash_match": true,
+    "target_reconstruction_match": true,
+    "invalid_ref_count": 0,
+    "locked_term_hit_rate": 1.0,
+    "missing_locked_terms": [],
+    "cjk_residue_count": 0,
+    "paragraph_drift_ratio": 0.0,
+    "pronoun_consistency_score": 1.0,
+    "warnings": []
+  }
+}

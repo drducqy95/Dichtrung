@@ -1,17 +1,1074 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
   "chapter": 9,
-  "aligned_segments": [],
-  "term_occurrences": [],
-  "entity_mentions": [],
+  "chapter_id": "chapter_0009",
+  "source_manifest_hash": "3596b0752e4f1b5fd3b8040908744a7fb6a0f828400eec75f62738195cb6d3e4",
+  "aligned_segments": [
+    {
+      "alignment_id": "chapter_0009:align_0001",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0001"
+      ],
+      "source": "# 9.第9章 咸鱼和鞋",
+      "source_hash": "b487215337fb3e3ad285da85f99d89bf0cb38824157a0973d92e77e47efe840e",
+      "target": "# Chương 9: Cá Mặn Và Đôi Giày",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0002",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0002"
+      ],
+      "source": "正是放学时分，校园里难得的轻松时刻，林荫小道上飞扬着欢声笑语，天空中，不少豪华私家飞梭缓缓降落，是来接孩子的家长，也有不少学生和李耀一样，拖着疲惫的身躯，缓缓向校门走去。",
+      "source_hash": "af1c6253e5e82269c9e0d09ede7921c63800b1f3532660d9f7afdb94682f3f3e",
+      "target": "Đúng vào lúc tan trường, đây là khoảng thời gian thư thả hiếm hoi trong ngày của khuôn viên trường học. Tiếng cười nói vui vẻ bay bổng trên con đường rợp bóng cây. Trên bầu trời, nhiều chiếc phi thuyền gia đình xa hoa từ từ đáp xuống, đó là các phụ huynh đến đón con em mình. Cũng có không ít học sinh giống như Lý Diệu kéo theo cơ thể mệt mỏi, lững thững bước ra phía cổng trường.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0003",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0003"
+      ],
+      "source": "正要走出校门时，李耀忽然感觉身上一紧，一个高大的身影挡在他面前：“你叫李耀，刚才和司雪佳在一起的就是你？”",
+      "source_hash": "00ea003cc5cbd99f11446e9f4f1288b49c1f7ee0fbb2b777d1cd1a7ae0ee0665",
+      "target": "Ngay khi chuẩn bị bước ra khỏi cổng trường, Lý Diệu bỗng cảm thấy cơ thể căng thẳng. Một thân hình cao lớn chặn ngay trước mặt cậu: \"Cậu tên là Lý Diệu? Kẻ vừa ở cùng Tiêu Giai Tuyết chính là cậu?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0004",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0004"
+      ],
+      "source": "李耀的瞳孔骤然收缩，周身好像有一万根针在刺，心跳瞬间加速，一股寒意从尾椎骨一路冲到了天灵盖，这个人带来的压力实在太大，他就像被毒蛇盯住的老鼠，根本动弹不得，连吞一口唾沫都变得无比艰难。",
+      "source_hash": "6fe7d85c4515a3eeb1e93ccedf421b073d6fa9ac1d633c663008d30f8502fbe5",
+      "target": "Đồng tử của Lý Diệu co rụt lại mạnh mẽ, toàn thân cảm giác như có vạn chiếc kim châm vào da thịt. Nhịp tim của cậu tức thì tăng tốc, một luồng khí lạnh chạy dọc từ xương cụt lên thẳng đỉnh đầu. Áp lực mà kẻ này mang lại quá lớn, khiến cậu có cảm giác như một con chuột bị rắn độc khóa chặt mục tiêu, căn bản không thể cử động nổi, ngay cả việc nuốt một ngụm nước bọt cũng trở nên vô cùng khó khăn.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0005",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0005"
+      ],
+      "source": "“是赫连烈，是‘赤霄二中第一高手’赫连烈，这次完蛋了！”李耀心中惨叫，有心想要解释，却连半个字都说不出口。",
+      "source_hash": "fb9f0ebd6e4beedd3e13b3772a64344ef8633592f0383a7d5930c4d3d3060b76",
+      "target": "\"Là Hách Liên Liệt, là 'Đệ nhất cao thủ của Xích Tiêu Nhị Trung' Hách Liên Liệt! Lần này tiêu đời nhà nhà rồi!\" Lý Diệu gào thét trong lòng. Cậu rất muốn giải thích nhưng cổ họng nghẹn đắng, không thốt ra nổi nửa chữ.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0006",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0006"
+      ],
+      "source": "赫连烈随随便便地站着，右手捧着一台晶脑，正在埋头演算一道应用题，根本不拿正眼看李耀，随口道：“不用怕，我当然知道凭你这样的货色，不可能和小雪怎么样，这一次就算了，我懒得收拾你。”",
+      "source_hash": "5007b3f61d9566dfcf91083e0f027addcb7536e56068e0ee9555ea46c39f80f9",
+      "target": "Hách Liên Liệt đứng tự nhiên thoải mái, tay phải cầm một chiếc tinh não, đang cúi đầu tính toán một câu hỏi ứng dụng, căn bản không thèm nhìn thẳng vào Lý Diệu, tùy tiện nói: \"Không cần sợ, tôi đương nhiên biết rõ hạng người như cậu thì không thể có chuyện gì với Tiểu Tuyết được. Lần này bỏ qua, tôi lười thu dọn cậu.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0007",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0007"
+      ],
+      "source": "手指轻点光幕，换了下一道题，赫连烈继续道：“不过，眼下正是‘百日冲刺’的紧要关头，我和小雪都是要冲击‘浮戈城高考第一名’的人，在这段时间里，我不希望再有一些不三不四的垃圾，去骚扰小雪，让她分心，听懂了吗？”",
+      "source_hash": "c836273a4bf58e0a0523699e193c2f6a351776e5b0da92d676ba44f081e96724",
+      "target": "Ngón tay khẽ gõ lên quang mạc để chuyển sang câu hỏi tiếp theo, Hách Liên Liệt nói tiếp: \"Thế nhưng, hiện tại đang là giai đoạn nước rút 'trăm ngày quyết chiến' vô cùng quan trọng. Tôi và Tiểu Tuyết đều là những người nhắm tới ngôi vị 'Thủ khoa kỳ thi đại học Phù Qua Thành'. Trong khoảng thời gian này, tôi không muốn nhìn thấy bất kỳ loại rác rưởi không rõ lai lịch nào đến quấy rầy làm Tiểu Tuyết phân tâm, nghe rõ chưa?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0008",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0008"
+      ],
+      "source": "李耀眼睛眯了起来，死死咬住牙齿：“你说我是垃圾？”",
+      "source_hash": "42cf32451b336ffe53d0bcf88f7adbf396da11badad42883b50f00cb55cb652c",
+      "target": "Lý Diệu híp mắt lại, nghiến chặt răng: \"Cậu nói tôi là rác rưởi?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0009",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0009"
+      ],
+      "source": "赫连烈头也不抬，淡淡道：“不要误会，我不是故意针对你，在我看来，你们这些‘普通班’的杂鱼，有一个算一个——都是垃圾！”",
+      "source_hash": "182449fc773646216813bb1f85e1f463532d111fe24a7aa65c0c430c015ba048",
+      "target": "Hách Liên Liệt vẫn không ngẩng đầu lên, nhạt nhẽo nói: \"Đừng hiểu lầm, tôi không cố ý nhằm vào riêng cậu. Trong mắt tôi, đám tép riu ở 'lớp thường' các cậu, tính từng đứa một — đều là rác rưởi cả!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0010",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0010"
+      ],
+      "source": "说完最后一个字时，他终于抬起头来，扫了李耀一眼。",
+      "source_hash": "ab3fe9b3225d652ccf4477ca28164449d0297054a7128821e58a22d4db65aae6",
+      "target": "Khi nói xong chữ cuối cùng, hắn mới ngẩng đầu lên, liếc nhìn Lý Diệu một cái.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0011",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0011"
+      ],
+      "source": "只一眼，李耀的胸口就像是被重锤狠狠一击，忍不住倒退两步，剧烈咳嗽起来。",
+      "source_hash": "6a6d145b289ad5b8a6fd251f7dc8e9e2a16954403497ec4c68bf2e219b87d401",
+      "target": "Chỉ một ánh mắt đó, lồng ngực Lý Diệu như bị một cây búa tạ nện cực mạnh vào. Cậu không kiềm chế được lùi lại hai bước, ho khục khặc dữ dội.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0012",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0012"
+      ],
+      "source": "赫连烈冷哼一声，满脸不屑，转身离开。",
+      "source_hash": "024df1155b82d607d94a4cfe1f1dbcc39ae0bdece31274a6d9c7278dd0d8ea9a",
+      "target": "Hách Liên Liệt hừ lạnh một tiếng khinh miệt rồi quay người rời đi.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0013",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0013"
+      ],
+      "source": "李耀弓着腰，咳得像只大龙虾，连眼泪都咳了出来，好半天才直起身子，喘着粗气，死死盯着着赫连烈离开的方向。",
+      "source_hash": "e7ba60951dcf693ecb64a0ebb7e97ea2de2f374987b6baa818328ac792f31f58",
+      "target": "Lý Diệu khom lưng ho rũ rượi như một con tôm luộc, ho đến mức nước mắt chảy ròng ròng. Phải mất một lúc lâu cậu mới thẳng người dậy, thở hổn hển, trừng mắt nhìn trân trân theo hướng Hách Liên Liệt bỏ đi.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0014",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0014"
+      ],
+      "source": "“该死！”",
+      "source_hash": "521d04264a8693f9a270f455831629732161a935056a74d48f8f4297e215dd7a",
+      "target": "\"Mẹ kiếp!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0015",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0015"
+      ],
+      "source": "“难道这年头，只要长得高大威猛、玉树临风、英俊潇洒、剑眉星目，又出生在富豪家庭、身家百八十亿，还拥有超强的修炼天赋和霸道强横的实力——就可以这么嚣张？”",
+      "source_hash": "4d8c5aa5caa882461785ac59206aa891ccd0f6f5a33551baa6f2a8d214067a8a",
+      "target": "\"Chẳng lẽ thời buổi này, cứ hễ người nào cao to lực lưỡng, phong lưu hào hoa, đẹp trai ngời ngời, mày kiếm mắt ngôi, lại sinh ra trong gia đình đại phú hào sở hữu tài sản hàng trăm tỷ tệ, lại có thêm thiên phú tu luyện siêu việt cùng thực lực bá đạo mạnh mẽ — là có quyền kiêu ngạo như vậy sao?\"\n\n...",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0016",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0016"
+      ],
+      "source": "……",
+      "source_hash": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+      "target": "Nửa giờ sau.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0017",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0017",
+        "chapter_0009:seg_0018"
+      ],
+      "source": "半个小时之后。\n\n“亏了亏了，这次真是亏到了姥姥家，为了给司佳雪修晶脑，竟然得罪了赫连烈，早知如此——肯定要加价啊，起码二十万才够本！”",
+      "source_hash": "bba090c7ed994f5ddb6a87182bce92daa45ca44b7e04c1032ee9512a15d5f0b8",
+      "target": "\"Lỗ to rồi, lần này đúng là lỗ đến tận nhà ngoại rồi! Để sửa chiếc tinh não cho Tiêu Giai Tuyết mà lại đắc tội với Hách Liên Liệt. Biết thế này — nhất định phải đòi tăng giá, ít nhất cũng phải hai mươi vạn tệ mới bõ công chứ!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0018",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0019"
+      ],
+      "source": "“还有赫连烈这个王、八、蛋，仗着自己是有钱人，每天把天材地宝当成饭来吃，强化药剂当成自来水喝，又有冥修高手帮他壮大神魂，武技大师帮他锻打体魄，才把灵根开发度提升到了百分之七十以上，竟然这么狂妄！垃圾？我不是垃圾！总有一天，我会成为真正的炼器大师，把你打成猪头，塞进垃圾桶！”",
+      "source_hash": "820877e8348c82cdaf6bc3ca512dcef7f025d6e80db8262c8d5ca508ee608b78",
+      "target": "\"Còn cái tên khốn kiếp Hách Liên Liệt kia nữa, cậy mình có tiền, hằng ngày coi thiên tài địa bảo như cơm ăn, coi thuốc tăng cường như nước lã để uống, lại có cả cao thủ minh tu giúp hắn rèn luyện thần hồn, đại sư võ kỹ giúp hắn rèn giũa thể phách mới nâng độ khai phát linh căn lên trên 70%. Thế mà lại dám ngông cuồng như vậy! Rác rưởi? Ta không phải là rác rưởi! Sẽ có một ngày ta trở thành luyện khí đại sư thực thụ, đánh ngươi thành đầu heo rồi nhét vào thùng rác!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0019",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0020"
+      ],
+      "source": "回家路上，少年孤孤单单走着，咬牙切齿，表情如同入魔，不时将路边上的小石子，狠狠踢飞。",
+      "source_hash": "d06d71a0e53241119f129f1cd6dcb84e7f2a7b6af543389da65c9f26d7355f72",
+      "target": "Trên đường về nhà, thiếu niên cô đơn sải bước, vừa đi vừa nghiến răng nghiến lợi, vẻ mặt dữ tợn như thể tẩu hỏa nhập ma, thi thoảng lại đá bay những viên đá nhỏ ven đường.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0020",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0021"
+      ],
+      "source": "赫连烈的出现，让他清楚认识到自己和修炼天才之间，究竟有多么大的差距，也让他明白，“考入九大精英联校，踏上修真之路，成为炼器大师”这个梦想，实现的机会究竟有多么渺茫。",
+      "source_hash": "d8058ecbce4d0095c24f82b99c96fd4eb69cae57e6a38e2454e2f1b0d5e6d41f",
+      "target": "Sự xuất hiện của Hách Liên Liệt giúp cậu nhận thức rõ ràng khoảng cách giữa bản thân với những thiên tài tu luyện là lớn đến nhường nào. Nó cũng giúp cậu hiểu ra rằng, ước mơ \"đỗ vào Chín đại học tinh anh liên kết, bước lên con đường tu chân để trở thành luyện khí đại sư\" kia có cơ hội thực hiện mong manh đến mức nào.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0021",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0022"
+      ],
+      "source": "李耀脑海中，浮现出了在异梦中曾经反复看到的一幕场景，似乎是电影画面。",
+      "source_hash": "dd2dae0537c3042979992a63f1ea3d1524259e9699616b2ae9c5010e1831185f",
+      "target": "Trong đầu Lý Diệu chợt hiện lên một phân cảnh cậu từng nhìn thấy đi lặp lại nhiều lần trong giấc dị mộng, dường như là một thước phim điện ảnh.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0022",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0023"
+      ],
+      "source": "那是一个穿着红背心的年轻人，竖起眉毛，瞪大眼睛，大声说道：“做人如果没梦想，那和咸鱼又有什么分别！”",
+      "source_hash": "eeea8f1efa08dd7f90dc044a4d02d2fb0c86e4f66ea0b88f7a33396eab936f9d",
+      "target": "Trong đó có một thanh niên mặc chiếc áo ba lỗ màu đỏ, nhướng mày trợn mắt lớn tiếng nói:\n\n\"Làm người mà không có ước mơ, thì khác gì con cá mặn chứ!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0023",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0024"
+      ],
+      "source": "一直以来，这一幕都深深刺激着李耀，让他在梦想的道路上勇往直前，无所畏惧。",
+      "source_hash": "832b5bb3226db4d7f4c9b9c7d7d0af38220eb366558abe0ca61ca8e554704d33",
+      "target": "Từ trước đến nay, phân cảnh này luôn kích thích mạnh mẽ Lý Diệu, giúp cậu vững bước trên con đường theo đuổi ước mơ mà không hề sợ hãi.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0024",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0025"
+      ],
+      "source": "直到这一刻，他终于想起，在异梦中，红背心年轻人说完这句话之后，别人的回应是：",
+      "source_hash": "189087095477b165315415b97904414dc76dddb3d5188875126c2f49a7f5d6f3",
+      "target": "Nhưng cho đến khoảnh khắc này, cậu mới nhớ ra rằng trong giấc dị mộng đó, sau khi thanh niên mặc áo ba lỗ đỏ nói xong câu ấy thì người khác liền phản hồi lại:",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0025",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0026"
+      ],
+      "source": "“你连鞋都没有，那不就是咸鱼一条喽？”",
+      "source_hash": "8dc9a976c2debc18048a00712ee49e8af3edf06c3e0ea30082a21352fa4683a6",
+      "target": "\"Mày đến cả đôi giày còn chẳng có, thì chả phải là một con cá mặn hay sao?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0026",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0027"
+      ],
+      "source": "李耀站定，下意识地看了看自己的双脚。",
+      "source_hash": "f58ad0adf43696bffc700c2c199c291d3925890187e92b4c3560619feaeb94fb",
+      "target": "Lý Diệu đứng khựng lại, theo bản năng nhìn xuống đôi chân mình.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0027",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0028"
+      ],
+      "source": "他穿的是一双从垃圾堆里捡来的基础款练功鞋，因为平时疯狂修炼，早就过度磨损，不但鞋底花纹都磨秃，就连左边的鞋尖都磨出一个大洞，露出了脏兮兮的大脚趾。",
+      "source_hash": "d7e0ecda696ccb1a353ffb1116e71d6a5b134196b5a9796c21d9d29262385fe0",
+      "target": "Cậu đang đi một đôi giày tập luyện kiểu cơ bản lượm từ đống rác. Do hằng ngày tập luyện điên cuồng nên đôi giày đã sớm bị mòn vẹt. Không chỉ hoa văn đế giày bị mòn phẳng lì mà ngay cả mũi giày bên trái cũng rách một lỗ lớn, để lộ ra ngón chân cái lấm lem bụi bẩn.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0028",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0029"
+      ],
+      "source": "他想起刚才看到赫连烈脚上穿的，是一双最新款的修炼鞋“超星九代”，用最坚韧的妖兽皮手工精制，表面附着强度极高的耐磨鳞片。",
+      "source_hash": "5f6638a51012eace743affdc32e59ac6e65e1b12fca9b687bbfbc69f6e75f6ce",
+      "target": "Cậu nhớ lại đôi giày Hách Liên Liệt đi lúc nãy, đó là đôi giày tu luyện đời mới nhất có tên \"Siêu Tinh đời 9\", được chế tác thủ công tinh xảo từ loại da yêu thú dẻo dai nhất, bề mặt phủ một lớp vảy chống mòn có cường độ cực cao.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0029",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0030"
+      ],
+      "source": "据说在鞋底的夹层中，还有深海魔鱼的鱼鳔炼制而成的气囊，不但能增加弹跳力，还能保护腿部关节，光是这一双鞋，就要卖好几万！",
+      "source_hash": "3cce905553844c1d9bd6e4b4784616ab371cb62496aea919ecae772840f42c16",
+      "target": "Nghe nói trong lớp đệm của đế giày còn trang bị túi khí chế tạo từ bong bóng của loài ma ngư biển sâu. Nó không chỉ tăng cường lực bật nhảy mà còn bảo vệ tối đa các khớp xương chân. Chỉ riêng đôi giày đó đã có giá bán lên tới vài vạn tệ!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0030",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0031"
+      ],
+      "source": "在千军万马你死我活的高考战场上，还有无数富豪子弟和赫连烈一样，穿着“超星九代”，坐拥无穷资源！",
+      "source_hash": "1e6c5f878addbe2bda3c9be7c64d8c14bc7cf411d97bcaff208bccbcab6167ca",
+      "target": "Trên chiến trường thi đại học khốc liệt như ngàn quân qua cầu độc mộc kia, vẫn còn có vô số con em nhà giàu giống như Hách Liên Liệt sở hữu tài nguyên vô tận, chân đi giày \"Siêu Tinh đời 9\"!",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0031",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0032"
+      ],
+      "source": "自己这个一无所有的穷小子，能够在这场残酷的血战中，拼掉这些人，脱颖而出，梦想成真吗？",
+      "source_hash": "2e18a4e54226ed4edb90175c508ddff8a6d81b1f712bb549842988194acf6b87",
+      "target": "Một đứa con nhà nghèo hai bàn tay trắng như cậu liệu có thể đánh bại những kẻ đó trong cuộc huyết chiến tàn khốc này để giành chiến thắng, biến ước mơ thành sự thật không?",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0032",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0033"
+      ],
+      "source": "李耀的心格外迷惘，步子也格外沉重，前方的路似乎很长，很长。",
+      "source_hash": "e97240f807f456eb77364689ae9c38dd79fe8e28ebc14023155a1bd789c164d8",
+      "target": "Lòng Lý Diệu vô cùng hoang mang, bước chân cũng trở nên nặng nề hơn rất nhiều. Con đường phía trước dường như còn rất dài, rất dài.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0033",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0034"
+      ],
+      "source": "夜幕降临，华灯初上时分，他才挪出主城区。",
+      "source_hash": "191ef607499c61f4164a033cf1c48f486f02c8f02c48d87c6422e4eb6c19e336",
+      "target": "Màn đêm buông xuống, khi những ánh đèn đường đầu tiên thắp sáng, cậu mới đi ra khỏi khu vực trung tâm thành phố.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0034",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0035"
+      ],
+      "source": "前方有一座晶轨大桥，专供“超高速晶轨列车”通行，穿过桥下的涵洞再走一里地，就是朝阳新村。",
+      "source_hash": "e2e56502faef6803f72c0999b68132a7d2511b24176970dfd2eb854879b87771",
+      "target": "Phía trước có một cây cầu tinh quỹ lớn, chuyên dụng cho \"tàu tốc hành tinh quỹ siêu tốc\" chạy qua. Chỉ cần đi xuyên qua hầm chui dưới chân cầu rồi đi tiếp một dặm nữa là tới Triêu Dương Tân Thôn.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0035",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0036"
+      ],
+      "source": "这里是郊区，比较荒凉，很少有人来往。",
+      "source_hash": "8ab235eb46fe1de235c5776acd8a0753c2df428c82a4c569d1044823780f119d",
+      "target": "Nơi này thuộc vùng ngoại ô nên khá hoang vắng, rất ít người qua lại.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0036",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0037"
+      ],
+      "source": "李耀正准备穿过涵洞，耳边忽然传来尖锐的轰鸣，眼前光芒四射，是一列晶轨列车正要通过大桥。",
+      "source_hash": "d7f00faae18e82ed6661d565b4a964c7b105e4edb3f60a5d0e9c994ac45e3fe8",
+      "target": "Lý Diệu đang chuẩn bị đi xuyên qua hầm chui thì bên tai bỗng vang lên tiếng rít chói tai, trước mắt ánh sáng rực rỡ chiếu rọi. Một đoàn tàu tinh quỹ sắp sửa chạy qua cây cầu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0037",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0038"
+      ],
+      "source": "李耀忽然站定，揉了揉眼睛，朝桥上望去。",
+      "source_hash": "5efaee43e6657ff502498cb79083365921792e1b13c4d3496210e35398027bf4",
+      "target": "Lý Diệu đột nhiên đứng khựng lại, dụi dụi mắt nhìn lên trên cây cầu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0038",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0039"
+      ],
+      "source": "刚才灯光射来的刹那，他似乎看见，在大桥上站着一个人！",
+      "source_hash": "5ad5276c8a8bae7f35562e77934e390df8bf1f81c3dd7459e417037f0af8ce1c",
+      "target": "Khoảnh khắc ánh đèn pha quét qua lúc nãy, cậu dường như nhìn thấy có một bóng người đang đứng trên cây cầu lớn kia!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0039",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0040"
+      ],
+      "source": "这可是专供列车通行的轨道大桥！",
+      "source_hash": "d36d5c03113397c279a16209e4894f1e73d0ec474c434e8c48def8ed160855bb",
+      "target": "Đây là cây cầu đường ray chuyên dụng dành riêng cho tàu hỏa di chuyển cơ mà!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0040",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0041"
+      ],
+      "source": "“超高速晶轨列车”是被誉为“国之重器”的联邦十大超巨型法宝系统之一，时速最高可达两千里以上，而且为了防备妖兽的破坏，在每一列晶轨列车上都装备有最高级别的防御法阵，高速冲击之下，破坏力绝不逊色于高阶修真者的全力一击！",
+      "source_hash": "401575e3b56ed270094a39d0aa8261718eb767770574e057719bd045edb467de",
+      "target": "\"Tàu tốc hành tinh quỹ siêu tốc\" là một trong mười hệ thống pháp bảo siêu khổng lồ của Liên bang được ca ngợi là \"Trọng khí quốc gia\". Tốc độ tối đa của nó có thể lên tới hơn hai ngàn dặm một giờ. Hơn nữa, để phòng phòng chống yêu thú phá hoại, trên mỗi đoàn tàu tinh quỹ đều trang bị pháp trận phòng ngự cấp cao nhất. Dưới lực va chạm ở tốc độ cao đó, sức tàn phá của nó tuyệt đối không thua kém gì đòn tấn công toàn lực của một tu chân giả cấp cao!",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0041",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0042"
+      ],
+      "source": "为了防止意外发生，超高速晶轨列车通常都在距离地面几十米高的专用轨道上飞驰，轨道四周还有封闭禁制——这家伙是怎么爬进去的？",
+      "source_hash": "c4ab3c4181537ff9c49644b7ad87b8a70cf90aead3be621223d4199b95b7676b",
+      "target": "Để ngăn ngừa tai nạn xảy ra, tàu tốc hành tinh quỹ siêu tốc thông thường đều chạy trên đường ray chuyên dụng cao cách mặt đất vài chục mét, xung quanh đường ray còn có cấm chế phong tỏa nghiêm ngặt — cái gã này làm cách nào leo lên được đó chứ?",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0042",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0043"
+      ],
+      "source": "没错，李耀看清楚了，在轨道大桥上，的确站着一名老者。",
+      "source_hash": "1b035bfb3639631470a8dff8974e6e512a8ca9df0bd7d69bd1a520431dc3a09c",
+      "target": "Đúng vậy, Lý Diệu đã nhìn rõ rồi. Trên cầu đường ray thực sự đang có một lão giả đứng đó.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0043",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0044"
+      ],
+      "source": "这是一个很古怪的老头，白发苍苍，容貌古拙，就像是李耀曾经在博物馆中看到过，几万年前出土的人俑。",
+      "source_hash": "34ed7cf047f611ee19ee179f44367c15a1ecc787a1e4efb57bb8d1de23714448",
+      "target": "Đây là một lão đầu vô cùng kỳ lạ, mái tóc bạc trắng, dung mạo cổ kính mộc mạc, trông giống hệt như những bức tượng người đất nung thời cổ đại được khai quật từ hàng vạn năm trước mà Lý Diệu từng nhìn thấy trong viện bảo tàng.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0044",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0045"
+      ],
+      "source": "可是他的身上，却焕发出浓郁到极点的“气息”，即便相隔上百米，李耀似乎都能听到他强烈的心跳。",
+      "source_hash": "695f9ca759749344a7d79a04ce2c5bbb873cd540c3d728d2c8c92da88471c677",
+      "target": "Thế nhưng trên người ông lão lại tỏa ra một luồng \"khí tức\" nồng đậm đến cực điểm. Dù đứng cách xa cả trăm mét, Lý Diệu dường như vẫn nghe thấy tiếng tim đập mạnh mẽ của ông ta.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0045",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0046"
+      ],
+      "source": "碰！碰！碰！",
+      "source_hash": "1f2c40d6396575b03a7b30144483af6b88735d4578ae762c7db1220a91743b7a",
+      "target": "Thình thịch! Thình thịch! Thình thịch!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0046",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0047"
+      ],
+      "source": "就像是一柄巨锤，不断轰击着铁毡！",
+      "source_hash": "c76d3918403f97d9d6e5a06efca3c2a5693bae9194da644ab4c19964cb7275bd",
+      "target": "Tiếng đập tựa như một cây búa tạ khổng lồ đang không ngừng nện vào đe sắt!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0047",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0048"
+      ],
+      "source": "和他浩瀚如海的气息相比，赫连烈的压迫力简直弱得可怜，两者的区别，比太阳和萤火虫的差距还大——而且李耀还有一种感觉，和赫连烈的故作声势比起来，这名老者压根就没有主动催发气息，自己感受到的，不过是他无意间满溢出来的一丝波动，只是冰山一角！",
+      "source_hash": "a3ff9d9c164be8aba116b4e9e41b67eb1a9db2d894656089c63f5565165a6d0b",
+      "target": "So với luồng khí tức bao la như biển cả của ông lão này, áp lực của Hách Liên Liệt lúc nãy quả thực yếu ớt đến đáng thương. Sự khác biệt giữa hai người còn lớn hơn khoảng cách giữa mặt trời và đom đóm — và Lý Diệu còn có một cảm giác rằng, khác với sự cố tình ra vẻ phô trương thanh thế của Hách Liên Liệt, lão giả này hoàn toàn không hề chủ động giải phóng khí tức. Thứ cậu cảm nhận được chỉ là một tia dao động vô tình tràn ra ngoài mà thôi, đó mới chỉ là phần nổi của tảng băng trôi!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0048",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0049"
+      ],
+      "source": "老者身上穿着一套简单朴素的粗布法袍，简直像是从四万年前古典修真世界走出来的一样！",
+      "source_hash": "73edced8650adce30f40610f7e94123d5bd485907d0935e14643aa47c8c79c54",
+      "target": "Trên người lão giả khoác một bộ pháp bào dệt bằng vải thô đơn giản mộc mạc, trông giống như một người vừa bước ra từ thế giới tu chân cổ điển của bốn vạn năm trước vậy!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0049",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0050"
+      ],
+      "source": "“喂——”危急关头，李耀可顾不上这老头究竟是疯子还是什么怪人，眼看列车即将驶来，他手舞足蹈，大声呼叫。",
+      "source_hash": "2548259e5c7b91a8f16ad8db482b6cb36a1846e10de6ce74986cd1fd85886544",
+      "target": "\"Này —\" Trong lúc nguy cấp, Lý Diệu không còn tâm trí đâu để bận tâm xem ông lão này là kẻ điên hay người quái dị nào nữa. Nhìn thấy đoàn tàu sắp lao tới nơi, cậu huơ tay múa chân, lớn tiếng kêu gọi.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0050",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0051"
+      ],
+      "source": "老者对李耀的呼喊充耳不闻，继续打量前方不断扩大的灯光。",
+      "source_hash": "ad83e25d1a1cb20c83db7d8b85aa3c520b54798376fc5258c35056edeb783403",
+      "target": "Lão giả hoàn toàn ngó lơ tiếng hét của Lý Diệu, tiếp tục quan sát luồng ánh sáng ngày một phóng to ở phía trước.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0051",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0052"
+      ],
+      "source": "他似乎对周遭的一切都十分好奇，特别是铺在大桥上的晶轨和呼啸而来的晶轨列车，更令他脸上浮现出一种顽童发现新玩具的欣喜之意。",
+      "source_hash": "ed0f57818b09801bb970c67fbe8c1024e65913ba8dc3baf8160b64eb8846355c",
+      "target": "Ông ta dường như vô cùng hiếu kỳ với mọi thứ xung quanh, đặc biệt là đường ray tinh quỹ trải dài trên cầu lớn và đoàn tàu tinh quỹ đang gầm rú lao tới. Gương mặt ông hiện rõ vẻ vui mừng phấn khích của một đứa trẻ vừa tìm thấy món đồ chơi mới.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0009:align_0052",
+      "chapter_id": "chapter_0009",
+      "segment_ids": [
+        "chapter_0009:seg_0053"
+      ],
+      "source": "下一秒钟——",
+      "source_hash": "93988e6d1a245a423699fb47348f6590d4a10d72f1e4595492d471738734f1ee",
+      "target": "Giây tiếp theo —",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    }
+  ],
+  "term_occurrences": [
+    {
+      "chapter_id": "chapter_0009",
+      "source_term": "浮戈城",
+      "target_term": "Phù Qua Thành",
+      "segment_id": "chapter_0009:seg_0007",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0009",
+      "source_term": "晶脑",
+      "target_term": "Tinh não",
+      "segment_id": "chapter_0009:seg_0006",
+      "present_in_target": false,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0009",
+      "source_term": "朝阳新村",
+      "target_term": "Triêu Dương Tân Thôn",
+      "segment_id": "chapter_0009:seg_0035",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0009",
+      "source_term": "赤霄二中",
+      "target_term": "Xích Tiêu Nhị Trung",
+      "segment_id": "chapter_0009:seg_0005",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0009",
+      "source_term": "九大精英联校",
+      "target_term": "Chín đại học tinh anh liên kết",
+      "segment_id": "chapter_0009:seg_0021",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0009",
+      "source_term": "普通班",
+      "target_term": "lớp thường",
+      "segment_id": "chapter_0009:seg_0009",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0009",
+      "source_term": "灵根",
+      "target_term": "Linh căn",
+      "segment_id": "chapter_0009:seg_0019",
+      "present_in_target": false,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0009",
+      "source_term": "灵根开发度",
+      "target_term": "độ khai phát linh căn",
+      "segment_id": "chapter_0009:seg_0019",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0009",
+      "source_term": "咸鱼和鞋",
+      "target_term": "cá mặn và đôi giày",
+      "segment_id": "chapter_0009:seg_0001",
+      "present_in_target": false,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0009",
+      "source_term": "超星九代",
+      "target_term": "Siêu Tinh đời 9",
+      "segment_id": "chapter_0009:seg_0029",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0009",
+      "source_term": "深海魔鱼",
+      "target_term": "ma ngư biển sâu",
+      "segment_id": "chapter_0009:seg_0030",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "beast",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0009",
+      "source_term": "晶轨大桥",
+      "target_term": "cầu tinh quỹ",
+      "segment_id": "chapter_0009:seg_0035",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0009",
+      "source_term": "超高速晶轨列车",
+      "target_term": "tàu tốc hành tinh quỹ siêu tốc",
+      "segment_id": "chapter_0009:seg_0035",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0009",
+      "source_term": "国之重器",
+      "target_term": "Trọng khí quốc gia",
+      "segment_id": "chapter_0009:seg_0041",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0009",
+      "source_term": "司佳雪",
+      "target_term": "Tiêu Giai Tuyết",
+      "segment_id": "chapter_0009:seg_0017",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "character",
+      "confidence": 1.0
+    }
+  ],
+  "entity_mentions": [
+    {
+      "chapter_id": "chapter_0009",
+      "source_surface": "李耀",
+      "target_surface": "Lý Diệu",
+      "entity_type": "person",
+      "segment_id": "chapter_0009:seg_0002",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0009",
+      "source_surface": "司佳雪",
+      "target_surface": "Tiêu Giai Tuyết",
+      "entity_type": "person",
+      "segment_id": "chapter_0009:seg_0017",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0009",
+      "source_surface": "赫连烈",
+      "target_surface": "Hách Liên Liệt",
+      "entity_type": "person",
+      "segment_id": "chapter_0009:seg_0005",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0009",
+      "source_surface": "老者",
+      "target_surface": "Lão giả",
+      "entity_type": "person",
+      "segment_id": "chapter_0009:seg_0043",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0009",
+      "source_surface": "强化药剂",
+      "target_surface": "Dược chất cường hóa Linh Căn",
+      "entity_type": "cultivation_resources",
+      "segment_id": "chapter_0009:seg_0019",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0009",
+      "source_surface": "浮戈城",
+      "target_surface": "Phù Qua Thành",
+      "entity_type": "locations",
+      "segment_id": "chapter_0009:seg_0007",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0009",
+      "source_surface": "朝阳新村",
+      "target_surface": "Triêu Dương Tân Thôn",
+      "entity_type": "locations",
+      "segment_id": "chapter_0009:seg_0035",
+      "confidence": 1.0
+    }
+  ],
+  "name_analysis": {
+    "status": "ok",
+    "evidence_count": 4,
+    "name_mentions": [
+      {
+        "chapter_id": "chapter_0009",
+        "name_source": "李耀",
+        "name_target": "Lý Diệu",
+        "segment_id": "chapter_0009:seg_0002",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0009",
+        "name_source": "司佳雪",
+        "name_target": "Tiêu Giai Tuyết",
+        "segment_id": "chapter_0009:seg_0017",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0009",
+        "name_source": "赫连烈",
+        "name_target": "Hách Liên Liệt",
+        "segment_id": "chapter_0009:seg_0005",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0009",
+        "name_source": "老者",
+        "name_target": "Lão giả",
+        "segment_id": "chapter_0009:seg_0043",
+        "present_in_target": true,
+        "confidence": 1.0
+      }
+    ],
+    "name_entries": [
+      {
+        "name_source": "李耀",
+        "name_target": "Lý Diệu"
+      },
+      {
+        "name_source": "司佳雪",
+        "name_target": "Tiêu Giai Tuyết"
+      },
+      {
+        "name_source": "赫连烈",
+        "name_target": "Hách Liên Liệt"
+      },
+      {
+        "name_source": "老者",
+        "name_target": "Lão giả"
+      }
+    ],
+    "transliteration_units": [],
+    "inferred_name_rules": [],
+    "ambiguity_cases": [],
+    "reusable_name_profile": {
+      "mapping_count": 4,
+      "has_ambiguity": false
+    }
+  },
   "phrase_patterns": [],
   "grammar_rule_candidates": [],
+  "analyzer_reports": {
+    "term_occurrences": {
+      "status": "ok",
+      "evidence_count": 15
+    },
+    "entity_mentions": {
+      "status": "ok",
+      "evidence_count": 7
+    },
+    "name_mentions": {
+      "status": "ok",
+      "evidence_count": 4
+    },
+    "phrase_patterns": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    },
+    "grammar_rule_candidates": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    }
+  },
+  "review_queue": [
+    {
+      "chapter_id": "chapter_0009",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "李耀",
+        "entity_type": "person",
+        "count": 4,
+        "confidence": 0.7,
+        "evidence": [
+          "影挡在他面前：“你叫李耀，刚才和司雪佳在一起",
+          "用题，根本不拿正眼看李耀，随口道：“不用怕，",
+          "，这一幕都深深刺激着李耀，让他在梦想的道路上"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0009",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "连烈",
+        "entity_type": "person",
+        "count": 3,
+        "confidence": 0.7,
+        "evidence": [
+          "无比艰难。\n\n“是赫连烈，是‘赤霄二中第一高",
+          "赤霄二中第一高手’赫连烈，这次完蛋了！”李耀",
+          "修晶脑，竟然得罪了赫连烈，早知如此——肯定要"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0009",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "关头",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "是‘百日冲刺’的紧要关头，我和小雪都是要冲击",
+          "！\n\n“喂——”危急关头，李耀可顾不上这老头"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0009",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "时分",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "\n\n  \n\n正是放学时分，校园里难得的轻松时",
+          "\n夜幕降临，华灯初上时分，他才挪出主城区。\n"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0009",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "不要误会",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "头也不抬，淡淡道：“不要误会，我不是故意针对你，"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0009",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "他才挪出主城区",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "降临，华灯初上时分，他才挪出主城区。\n\n前方有一座晶轨"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0009",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "就是朝阳新村",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "下的涵洞再走一里地，就是朝阳新村。\n\n这里是郊区，比"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0009",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "这里是郊区",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "，就是朝阳新村。\n\n这里是郊区，比较荒凉，很少有人"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0009",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0009:align_0017",
+        "segment_ids": [
+          "chapter_0009:seg_0017",
+          "chapter_0009:seg_0018"
+        ]
+      }
+    }
+  ],
   "quality_audit": {
     "segment_coverage": 1.0,
+    "source_hash_match": true,
+    "target_reconstruction_match": true,
+    "invalid_ref_count": 0,
     "locked_term_hit_rate": 1.0,
+    "missing_locked_terms": [],
     "cjk_residue_count": 0,
-    "paragraph_drift_ratio": 0.0,
+    "paragraph_drift_ratio": 0.018867924528301886,
     "pronoun_consistency_score": 1.0,
     "warnings": []
   }

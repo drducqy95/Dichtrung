@@ -1,0 +1,830 @@
+{
+  "schema_version": "2.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 39,
+  "chapter_id": "chapter_0039",
+  "source_manifest_hash": "4f2605aba2cb8d5f3d0f4007540024bc31b0efb70ed5fa82a519204c970905c7",
+  "aligned_segments": [
+    {
+      "alignment_id": "chapter_0039:align_0001",
+      "chapter_id": "chapter_0039",
+      "segment_ids": [
+        "chapter_0039:seg_0001"
+      ],
+      "source": "# 39.第39章 修真世界，海阔天空！",
+      "source_hash": "437172db96236201e5ebe29a1bc68f2f1c32d27290d7ed7fc2c137f219edfcb2",
+      "target": "# Chương 0039 - Thế giới tu chân, biển rộng trời cao!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0039:align_0002",
+      "chapter_id": "chapter_0039",
+      "segment_ids": [
+        "chapter_0039:seg_0002"
+      ],
+      "source": "十天后，联邦东部，极东海。",
+      "source_hash": "d9ef7e6fdb25367b7753f0d2da1c159bbccf68149c5ac901cdb9bc9002e661bb",
+      "target": "Mười ngày sau, phía đông Liên bang, Cực Đông Hải.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0039:align_0003",
+      "chapter_id": "chapter_0039",
+      "segment_ids": [
+        "chapter_0039:seg_0003"
+      ],
+      "source": "清晨，朝阳喷薄，红霞满天，一望无垠的大海上金鳞万点，熠熠生辉，恍若仙境。",
+      "source_hash": "0b326185f61eed70bfb4a24a6bcf43dff59e61af9d6511f19930b9747c07c53d",
+      "target": "Sáng sớm, mặt trời mọc rực rỡ, ráng hồng đầy trời, trên mặt biển bao la vô tận có muôn vàn vệt sáng lấp lánh như vảy vàng, rực rỡ tỏa sáng, tựa như tiên cảnh.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0039:align_0004",
+      "chapter_id": "chapter_0039",
+      "segment_ids": [
+        "chapter_0039:seg_0004"
+      ],
+      "source": "无数鱼群和海中妖兽，在黄金海面上跳跃飞舞，汇聚成生机勃勃的景象。",
+      "source_hash": "679cc4e6b6c41bab0228cfa35328d87507c91f60ff8f13a340e301db446aa58c",
+      "target": "Vô số đàn cá và yêu thú trong biển nhảy vọt bay lượn trên mặt biển vàng óng, hội tụ thành một cảnh tượng tràn đầy sinh cơ.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0039:align_0005",
+      "chapter_id": "chapter_0039",
+      "segment_ids": [
+        "chapter_0039:seg_0005"
+      ],
+      "source": "“呜！呜！”",
+      "source_hash": "752f17bde42c28bcbf36439a9d15e7c91a5211227b572f1b5cc3b88b540b8b52",
+      "target": "\"U... u...!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0039:align_0006",
+      "chapter_id": "chapter_0039",
+      "segment_ids": [
+        "chapter_0039:seg_0006"
+      ],
+      "source": "八艘巨大的灵能浮空船，就像是八只大海龟，载满了浮戈城和附近十几个城镇的天才少年，从海面上两百多米的低空缓缓掠过，船底玄奥繁复的符阵不断震荡，放射出七彩斑斓的光芒，汹涌澎湃的灵力波纹不断扩散，冲向海面，泛出一道道白色的波浪，发出巨兽咆哮般的轰鸣。",
+      "source_hash": "8283f9440bb07e3219f1e250527c06cb0d0ac32d48c88df4f831c714ad560729",
+      "target": "Tám con thuyền linh năng phù không khổng lồ giống như tám con rùa biển lớn, chở đầy các thiếu niên thiên tài của Phù Qua Thành và mười mấy thị trấn lân cận, chậm rãi lướt qua ở tầm thấp cách mặt biển hơn hai trăm mét. Các phù trận huyền ảo phức tạp dưới đáy thuyền không ngừng chấn động, phóng ra những luồng hào quang bảy sắc rực rỡ. Những gợn sóng linh lực cuồn cuộn mãnh liệt liên tục khuếch tán, lao xuống mặt biển, tạo thành từng đợt sóng trắng xóa và phát ra tiếng gầm vang như dã thú gầm rống.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0039:align_0007",
+      "chapter_id": "chapter_0039",
+      "segment_ids": [
+        "chapter_0039:seg_0007"
+      ],
+      "source": "李耀站在前甲板边缘，扒着船舷往下看。",
+      "source_hash": "a9189b3ced3afc720f119687903c3551052628e834f9fd2baea95c1a998007db",
+      "target": "Lý Diệu đứng ở rìa boong trước, bám vào mạn thuyền cúi xuống nhìn.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0039:align_0008",
+      "chapter_id": "chapter_0039",
+      "segment_ids": [
+        "chapter_0039:seg_0008"
+      ],
+      "source": "金色的大洋中，稀稀拉拉散落着几十艘渔船，懒洋洋地四处游弋。",
+      "source_hash": "4df478c38eb2be786a62c345e78a9897e08f2b4da87e0a1833befdcc36c666e3",
+      "target": "Giữa đại dương vàng óng, vài chục chiếc thuyền đánh cá rải rác thưa thớt, lười biếng tuần tra khắp nơi.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0039:align_0009",
+      "chapter_id": "chapter_0039",
+      "segment_ids": [
+        "chapter_0039:seg_0009"
+      ],
+      "source": "忽然，不远处的海面十分诡异地隆起一个“水包”，随后露出一小截十分锋利的鱼鳍，无声无息地分开海面，向十几艘渔船疾速袭来。",
+      "source_hash": "9cbf969a4a132af5b57432a8c64c20fae91eae47dec34dbfab21811082bc6045",
+      "target": "Đột nhiên, mặt biển cách đó không xa nổi lên một \"bọc nước\" vô cùng quỷ dị, sau đó lộ ra một đoạn vây cá cực kỳ sắc bén, vô thanh vô tức rạch đôi mặt nước, nhanh như chớp lao về phía mười mấy chiếc thuyền đánh cá.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0039:align_0010",
+      "chapter_id": "chapter_0039",
+      "segment_ids": [
+        "chapter_0039:seg_0010"
+      ],
+      "source": "距离渔船不到一百米时，“水包”骤然膨胀，一条上百米长的巨大怪鱼炸开水包，一跃而起，飞腾到了几十米的高空，朝渔船狠狠扑了过去！",
+      "source_hash": "d4e99790279781e9a35317868c506ebc9a6d3d5f881c9e26e59fb18479ffa188",
+      "target": "Khi còn cách thuyền đánh cá chưa đầy trăm mét, \"bọc nước\" đột nhiên phình to, một con cá quái dị khổng lồ dài hơn trăm mét nổ tung bọc nước, nhảy vọt lên cao vài chục mét rồi hung hăng lao thẳng về phía những chiếc thuyền đánh cá!",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0039:align_0011",
+      "chapter_id": "chapter_0039",
+      "segment_ids": [
+        "chapter_0039:seg_0011"
+      ],
+      "source": "这条怪鱼皮肤疙疙瘩瘩，长满五彩斑斓的珊瑚，极为妖异，它的脑袋上肉瘤横生，组成一张无比丑陋的婴儿面孔，在额头的地方，还生着一条粗壮的触手，触手顶端有一个肉球，劈啪作响，爆射着幽蓝色的电弧。",
+      "source_hash": "20b3725fa03995ef498976c447aedfa17848db221fbd52260c2a671d7cdad139",
+      "target": "Lớp da của con cá quái dị này sần sùi gồ ghề, mọc đầy san hô ngũ sắc rực rỡ, vô cùng yêu dị. Trên đầu nó mọc ngang dọc những cục thịt dư tạo thành một khuôn mặt trẻ sơ sinh vô cùng xấu xí. Ở ngay giữa trán nó còn mọc ra một cái xúc tu thô tráng, đầu xúc tu có một quả cầu thịt đang nổ vang lách tách, bắn ra những tia điện quang màu xanh lam u tối.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0039:align_0012",
+      "chapter_id": "chapter_0039",
+      "segment_ids": [
+        "chapter_0039:seg_0012"
+      ],
+      "source": "“昂！昂！”",
+      "source_hash": "474d9f2244c44680331caaf3df91d1b7df1d77b045fee56f0584239f9b5ef60b",
+      "target": "\"Ngao... ngao...!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0039:align_0013",
+      "chapter_id": "chapter_0039",
+      "segment_ids": [
+        "chapter_0039:seg_0013"
+      ],
+      "source": "怪鱼张嘴，发出好似小儿夜啼的诡异嘶鸣，它的嘴巴奇大无比，竟然一直裂开到身体中部，整张嘴里布满獠牙，几十颗利刃般的獠牙上，还插着各种海兽腐烂的尸骸！",
+      "source_hash": "1fd10cfcf19ddae8271fb29544fe59ff8f7512cce28286728f4b5ac0b1799d11",
+      "target": "Con cá quái dị há miệng phát ra tiếng rít quỷ dị giống như tiếng trẻ con khóc đêm. Miệng của nó to đến mức kỳ lạ, xé toạc đến tận giữa thân thể. Cả khoang miệng đầy răng nanh nhọn hoắt, trên mấy chục chiếc răng nanh sắc bén như lưỡi dao vẫn còn găm xác thối rữa của các loại hải thú!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0039:align_0014",
+      "chapter_id": "chapter_0039",
+      "segment_ids": [
+        "chapter_0039:seg_0014"
+      ],
+      "source": "李耀来不及发出惊呼，所有渔船仿佛在一瞬间清醒过来，以快若闪电的速度向四面八方逃窜，巨大怪鱼扑了个空，重逾万吨的身体重新砸回大海，掀起滔天巨浪。",
+      "source_hash": "ec8cb95aa0a86f5b75be4cef0163f7105add6cc4d31eaa1cb83066e712bf4fcb",
+      "target": "Lý Diệu chưa kịp kinh hô thì tất cả thuyền đánh cá như thể bừng tỉnh trong nháy mắt, lấy tốc độ nhanh như chớp chạy trốn ra bốn phương tám hướng. Con cá quái dị khổng lồ vồ hụt, thân thể nặng hơn vạn tấn nện xuống mặt biển, cuốn lên những cột sóng cao ngất trời.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0039:align_0015",
+      "chapter_id": "chapter_0039",
+      "segment_ids": [
+        "chapter_0039:seg_0015"
+      ],
+      "source": "刚刚逃散的渔船纷纷掉头，隐隐围成一圈，当巨大怪鱼再次从海中窜出时，所有渔船忽然喷出一团团渔网。",
+      "source_hash": "7b47842f6884b96748b75c86b1496164d2a38e8cd0fa5bb026ef0d9b8007054c",
+      "target": "Những chiếc thuyền đánh cá vừa tản ra đồng loạt quay đầu, lờ mờ vây thành một vòng tròn. Khi con cá quái dị khổng lồ lại vọt lên từ trong biển, tất cả các thuyền đánh cá đột nhiên phun ra từng cuộn lưới đánh cá.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0039:align_0016",
+      "chapter_id": "chapter_0039",
+      "segment_ids": [
+        "chapter_0039:seg_0016"
+      ],
+      "source": "这些渔网，似乎是经过修真者炼制的法宝，在半空中纠缠在一起，光华四射，泛出一片八角垂芒、耀眼夺目的符文，化作一整张铺天盖地的大网，将巨大怪鱼劈头盖脑地网了起来！",
+      "source_hash": "7bb7e9442440a8bdb7e5a2dd7478d9852b3007b2c616b25ce9442ad651e50df7",
+      "target": "Những chiếc lưới này dường như là pháp bảo được tu chân giả luyện chế, quấn chặt vào nhau giữa không trung, hào quang tỏa ra bốn phía, hiện lên những phù văn tám góc chói mắt lấp lánh, hóa thành một tấm lưới khổng lồ che trời che đất trùm kín đầu con cá quái dị!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0039:align_0017",
+      "chapter_id": "chapter_0039",
+      "segment_ids": [
+        "chapter_0039:seg_0017"
+      ],
+      "source": "巨大怪鱼顿时发出又惊又怒的咆哮，身形狂扭，掀起惊涛骇浪，刚才还一片宁静祥和的海面，瞬间化作杀气冲天的战场。",
+      "source_hash": "0dfab497f849b6241378583ef92fe05fae5ca459b3257eefef86e7deddfeee15",
+      "target": "Con cá quái dị khổng lồ lập tức phát ra tiếng gầm thét kinh hãi lẫn giận dữ, thân hình vặn vẹo điên cuồng, cuốn lên sóng to gió lớn. Mặt biển vừa rồi còn yên bình tường hòa nháy mắt hóa thành một chiến trường sát khí ngập trời.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0039:align_0018",
+      "chapter_id": "chapter_0039",
+      "segment_ids": [
+        "chapter_0039:seg_0018"
+      ],
+      "source": "可是无论它怎么扭动都无法挣脱，这渔网也不知道是用什么材料炼制，一遇到海水就飞快收缩，深深嵌入巨大怪鱼的身体里，把它勒得皮肤皲裂，流出墨绿色的鲜血，污染了一大片海面，发出浓烈的腥臭味。",
+      "source_hash": "a1074a5365bf49dcf8204c64cb154e29368bae9ae3b025b83fc533f72a45969f",
+      "target": "Thế nhưng dù nó có giãy giụa thế nào cũng không thể thoát ra nổi. Tấm lưới này cũng không biết được luyện chế từ vật liệu gì, hễ gặp nước biển liền nhanh chóng co rút, hằn sâu vào cơ thể con cá quái dị khổng lồ, siết đến mức da thịt nó nứt nẻ, tuôn ra dòng máu màu xanh lục đậm, làm ô nhiễm một vùng biển lớn và bốc lên mùi tanh hôi nồng nặc.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0039:align_0019",
+      "chapter_id": "chapter_0039",
+      "segment_ids": [
+        "chapter_0039:seg_0019"
+      ],
+      "source": "连李耀在几百米的高空中，都被这股恶臭熏得头昏眼花，隐隐有昏厥之感，似乎这巨大怪鱼的血液之中，天生就蕴藏着令人昏厥的恐怖力量。",
+      "source_hash": "b6adec8e82783f19427ef0b2af57571fe31df872d9dcbe9e37b093ec70ae08d0",
+      "target": "Ngay cả Lý Diệu ở trên độ cao mấy trăm mét cũng bị mùi hôi thối này hun đến mức đầu váng mắt hoa, mơ hồ có cảm giác muốn ngất xỉu. Dường như trong máu của con cá quái dị khổng lồ này bẩm sinh đã chứa đựng một loại sức mạnh kinh hoàng có thể làm người ta ngất đi.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0039:align_0020",
+      "chapter_id": "chapter_0039",
+      "segment_ids": [
+        "chapter_0039:seg_0020"
+      ],
+      "source": "“唰唰唰唰！”",
+      "source_hash": "4ac4e0269e6c912074f1930b4bdd56b8e6557c16d5efa426d879250954e5d7ce",
+      "target": "\"Xoạt xoạt xoạt xoạt!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0039:align_0021",
+      "chapter_id": "chapter_0039",
+      "segment_ids": [
+        "chapter_0039:seg_0021"
+      ],
+      "source": "十几艘渔船同时射出巨大的鱼叉，深深刺入怪鱼体内，怪鱼吃痛，更加疯狂，左突右窜，把鱼叉后面的粗大钢索绷紧成一条条直线，拽着十几艘渔船左突右冲。",
+      "source_hash": "29daccdbde088d7b3aa4a701f4b51d5c2c678227c90c5bb323b2ba124d39ed9b",
+      "target": "Mười mấy chiếc thuyền đánh cá đồng thời bắn ra những cây đinh ba khổng lồ găm sâu vào cơ thể con quái ngư. Con quái ngư đau đớn càng thêm điên cuồng, đâm sầm bên tả lao húc bên hữu, làm cho những sợi dây cáp thép thô to phía sau đinh ba căng ra thành những đường thẳng tắp, kéo theo mười mấy chiếc thuyền đánh cá quay cuồng điên loạn.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0039:align_0022",
+      "chapter_id": "chapter_0039",
+      "segment_ids": [
+        "chapter_0039:seg_0022"
+      ],
+      "source": "眼看怪鱼冲出去几百米远，几艘渔船都被它拽得东倒西歪，随时都会翻船，其中一艘渔船上，忽然飞出一名身穿淡蓝色晶铠，背着巨剑的修真者。",
+      "source_hash": "9ed7c5a08f65026f6bede6904b4375e62e358b7f036bff3a37b7de2e89a9ae00",
+      "target": "Mắt thấy con quái ngư đã kéo đi xa vài trăm mét, mấy chiếc thuyền đánh cá bị nó lôi kéo đến mức nghiêng ngả, có nguy cơ lật thuyền bất cứ lúc nào. Đột nhiên, từ một trong những chiếc thuyền đánh cá bay ra một tu chân giả mặc bộ tinh khải màu xanh lam nhạt, trên lưng đeo một thanh cự kiếm.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0039:align_0023",
+      "chapter_id": "chapter_0039",
+      "segment_ids": [
+        "chapter_0039:seg_0023"
+      ],
+      "source": "这名修真者瞬息飞到怪鱼面前，险之又险地闪过怪鱼额头上的触手电击，巨剑在手，剑芒一闪，那触手竟然被他从根部整整齐齐地斩落下来！",
+      "source_hash": "2dadab0be5b4f3cf36da9dc4bb3683ba8e0dd4e190d5cf874a4f2d7f3a6362f6",
+      "target": "Tu chân giả này trong chớp mắt đã bay đến trước mặt quái ngư, né tránh đòn phóng điện từ xúc tu trên trán nó một cách vô cùng nguy hiểm. Cự kiếm cầm tay, kiếm mang vừa lóe lên, cái xúc tu kia thế mà đã bị y chém đứt ngọt lịm tận gốc!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0039:align_0024",
+      "chapter_id": "chapter_0039",
+      "segment_ids": [
+        "chapter_0039:seg_0024"
+      ],
+      "source": "“嘶——”",
+      "source_hash": "8db2ed43b43588182489ce7b063d1fc48bec4617df416a18e8a6166411f096d2",
+      "target": "\"Tê...\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0039:align_0025",
+      "chapter_id": "chapter_0039",
+      "segment_ids": [
+        "chapter_0039:seg_0025"
+      ],
+      "source": "怪鱼忍不住发出尖锐的惨叫。",
+      "source_hash": "3f2b0a9765e2f655840f05a687dd2d02b86951e288ca4953fcb33ab569f725b8",
+      "target": "Con quái ngư không nhịn được phát ra tiếng hét thảm thiết nhọn hoắt.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0039:align_0026",
+      "chapter_id": "chapter_0039",
+      "segment_ids": [
+        "chapter_0039:seg_0026"
+      ],
+      "source": "不等它再做出任何反应，修真者将巨剑收回背后，左手握着剑柄，右掌对准巨大怪鱼的前额，一个小太阳也似的光球在掌心出现，飞速膨胀。",
+      "source_hash": "1239ee0c4c12cf73f2fee41c63f8ded0927d973b91b5edf86689e9eaa3a2d591",
+      "target": "Không đợi nó đưa ra thêm bất kỳ phản ứng nào, tu chân giả liền thu cự kiếm lại sau lưng, tay trái nắm chuôi kiếm, chưởng phải nhắm thẳng vào trán con quái ngư khổng lồ. Một quả cầu sáng như mặt trời nhỏ xuất hiện trong lòng bàn tay y, nhanh chóng phình to.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0039:align_0027",
+      "chapter_id": "chapter_0039",
+      "segment_ids": [
+        "chapter_0039:seg_0027"
+      ],
+      "source": "“轰！”",
+      "source_hash": "e4580636996e8002ae32f0ed29c1cd730377cbe8c2d920ef891672fcd250f8ac",
+      "target": "\"Oành!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0039:align_0028",
+      "chapter_id": "chapter_0039",
+      "segment_ids": [
+        "chapter_0039:seg_0028"
+      ],
+      "source": "当光球膨胀到比修真者的脑袋更大时，他五指张开，狠狠一推，光球顺着巨大怪鱼前额上鲜血淋漓的伤口，瞬间没入怪鱼大脑，只听一声惊天动地的巨响，怪鱼脑袋正上方的呼吸孔中，喷出一道上百米高的血柱，整个大脑都被搅成了肉酱！",
+      "source_hash": "254a52c317dfc42f510797c7b026fff1248f0bab791da6cad7a3d6f2c44f76b7",
+      "target": "Khi quả cầu sáng phình to hơn cả đầu tu chân giả, y xòe năm ngón tay ra, đẩy mạnh một phát. Quả cầu sáng men theo vết thương máu chảy đầm đìa trên trán con quái ngư khổng lồ nháy mắt chui tọt vào não bộ nó. Chỉ nghe một tiếng nổ vang kinh thiên động địa, từ lỗ thở ngay đỉnh đầu con quái ngư phun ra một cột máu cao tới trăm mét, cả bộ não của nó đã bị nghiền nát thành vũng bùn!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0039:align_0029",
+      "chapter_id": "chapter_0039",
+      "segment_ids": [
+        "chapter_0039:seg_0029"
+      ],
+      "source": "怪鱼的双眼瞬间变成了灰白色，它停止挣扎，肚皮朝上，无力地漂浮在海面上。",
+      "source_hash": "f618d31890a5aefe8febbcab35def23e4dfdf23a2dcd147ec5074386ab343217",
+      "target": "Đôi mắt con quái ngư nháy mắt biến thành màu xám trắng, nó ngừng giãy giụa, ngửa bụng lên, trôi nổi yếu ớt trên mặt biển.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0039:align_0030",
+      "chapter_id": "chapter_0039",
+      "segment_ids": [
+        "chapter_0039:seg_0030"
+      ],
+      "source": "无数寄生在它身上的章鱼、海蟹和小型妖兽纷纷散开，慌不择路地向海底逃窜。",
+      "source_hash": "74267e1b22367e8be9aabec040bf314ddcc962d641f73c68fbff9f5f3f43c2fc",
+      "target": "Vô số bạch tuộc, cua biển và yêu thú cỡ nhỏ ký sinh trên người nó nhao nhao tản ra, chạy trốn trối chết xuống đáy biển.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0039:align_0031",
+      "chapter_id": "chapter_0039",
+      "segment_ids": [
+        "chapter_0039:seg_0031"
+      ],
+      "source": "“好精彩！”",
+      "source_hash": "4d9ae3b2c51bad9df264307c7e78200c09f4716bfb294c123607bf8b5be67175",
+      "target": "\"Quá đặc sắc!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0039:align_0032",
+      "chapter_id": "chapter_0039",
+      "segment_ids": [
+        "chapter_0039:seg_0032"
+      ],
+      "source": "李耀啧啧称奇——这是一次早有准备的围猎，先用渔网和鱼叉消耗怪鱼的体力和生命，然后由修真者斩落它的触手，再通过脆弱的伤口，向怪鱼的大脑发出致命一击！",
+      "source_hash": "c67353dc6c7c1a53e09335c00579b46fa3bee5dffec4117354d2a43ed7a9a509",
+      "target": "Lý Diệu tắc lưỡi khen ngợi — đây là một cuộc săn vây đã có chuẩn bị trước. Đầu tiên dùng lưới đánh cá và đinh ba để tiêu hao thể lực và sinh mệnh của quái ngư, sau đó do tu chân giả chém đứt xúc tu của nó, rồi thông qua vết thương yếu hại dễ vỡ ấy tung đòn chí mạng vào não bộ quái ngư!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0039:align_0033",
+      "chapter_id": "chapter_0039",
+      "segment_ids": [
+        "chapter_0039:seg_0033"
+      ],
+      "source": "“修真世界，真是无比辽阔，无限精彩！”",
+      "source_hash": "a14179ff05d73fd3f00da59286b81046b6435596e03df89a10462aa06ce77717",
+      "target": "\"Thế giới tu chân quả thực vô cùng rộng lớn, muôn màu muôn vẻ!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0039:align_0034",
+      "chapter_id": "chapter_0039",
+      "segment_ids": [
+        "chapter_0039:seg_0034"
+      ],
+      "source": "李耀极目远眺，地平线上霞光万丈，一轮红日拼命挣脱海面，朝天空射去。",
+      "source_hash": "b0db06df4ab7e66d8227573f092d372b027e0e37536769586a65e6e4e3d5c825",
+      "target": "Lý Diệu phóng tầm mắt nhìn ra xa, trên đường chân trời rực rỡ nghìn trùng hào quang, một vầng mặt trời đỏ rực đang ra sức thoát khỏi mặt biển, nhô lên không trung.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0039:align_0035",
+      "chapter_id": "chapter_0039",
+      "segment_ids": [
+        "chapter_0039:seg_0035"
+      ],
+      "source": "大自然雄浑辽阔的壮观景象，是一直生活在浮戈城里的李耀极少体验到的，他心旷神怡，思绪仿佛随着目光，飞驰到了大海的尽头，太阳的方向。",
+      "source_hash": "b5f23779069bf77aa1afbc4cffba967bac8dba8a7989e07e43cbb0b65caeec1c",
+      "target": "Cảnh tượng thiên nhiên hùng vĩ bao la tráng lệ này là thứ mà Lý Diệu, người vốn sống quanh năm suốt tháng ở Phù Qua Thành, cực kỳ hiếm khi được trải nghiệm. Cậu cảm thấy lòng dạ rộng mở, tâm thần sảng khoái, suy nghĩ dường như bay theo tầm mắt, lao vun vút đến tận cùng đại dương, đến hướng của vầng thái dương.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0039:align_0036",
+      "chapter_id": "chapter_0039",
+      "segment_ids": [
+        "chapter_0039:seg_0036"
+      ],
+      "source": "“有朝一日，我也要像这名修真者一样，手持自己炼制的神兵利器，驰骋大海，斩杀妖兽，搏击风浪！”李耀心潮起伏，热血沸腾。",
+      "source_hash": "7c1323ea828eb7b7f4d1c96603f9d73fb6cf76c8c9ffce331221c9e0b95697cd",
+      "target": "\"Một ngày nào đó, mình cũng phải giống như tu chân giả này, nắm giữ thần binh lợi khí do tự tay mình luyện chế, vẫy vùng giữa đại dương, chém giết yêu thú, đối đầu với sóng gió!\" Lòng Lý Diệu cuộn sóng, máu nóng sôi trào.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0039:align_0037",
+      "chapter_id": "chapter_0039",
+      "segment_ids": [
+        "chapter_0039:seg_0037"
+      ],
+      "source": "这艘灵能浮空船上都是来自浮戈城的少年，不少人都和他一样，三三两两地在甲板上欣赏大自然波澜壮阔的奇异景象，看到底下修真者猎杀妖兽的场面，纷纷发出惊呼。",
+      "source_hash": "702e9fbd6b06368fe94441788eb8391052a58e98383f2700cc8a3d12fe58cf04",
+      "target": "On con thuyền linh năng phù không này toàn là các thiếu niên đến từ Phù Qua Thành. Không ít người cũng giống như cậu, túm năm tụm ba trên boong tàu chiêm ngưỡng cảnh tượng thiên nhiên kỳ vĩ hoành tráng. Khi nhìn thấy cảnh tu chân giả săn giết yêu thú bên dưới, họ nhao nhao thốt lên những tiếng kinh hô.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0039:align_0038",
+      "chapter_id": "chapter_0039",
+      "segment_ids": [
+        "chapter_0039:seg_0038"
+      ],
+      "source": "不过在这群人中，李耀明显是个异类，他在争夺准考证的比斗中表现得太过骇人听闻，又招惹了赫连烈这样的富豪子弟，别人也不敢随便上来和他搭话。",
+      "source_hash": "b4e1123fd70e7106cbd76d4d2ca08af005105a72058fc20b6d4f714c86cff385",
+      "target": "Thế nhưng trong đám người này, Lý Diệu rõ ràng là một kẻ dị biệt. Biểu hiện của cậu trong trận chiến tranh giành thẻ dự thi quá mức kinh hãi, lại còn chọc giận một đệ tử nhà giàu như Hách Liên Liệt, những người khác căn bản không dám tùy tiện đi lên bắt chuyện với cậu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0039:align_0039",
+      "chapter_id": "chapter_0039",
+      "segment_ids": [
+        "chapter_0039:seg_0039"
+      ],
+      "source": "李耀乐得清静，俯视着海天一色的瑰丽奇景，回忆着南柯一梦里发生的点点滴滴，无论想到什么，有用的没用的，马上记录在晶脑中。",
+      "source_hash": "42844d3750a6fe3bac3d92fc2d835af71350df2707dfe57f933980f20000f808",
+      "target": "Lý Diệu cũng vui vẻ tận hưởng sự thanh tĩnh, cúi xuống nhìn cảnh sắc tráng lệ trời nước một màu, hồi tưởng lại từng chút một trong giấc mộng Nam Kha. Bất luận nghĩ tới cái gì, dù hữu dụng hay vô dụng, cậu đều lập tức ghi chép lại vào tinh não.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0039:align_0040",
+      "chapter_id": "chapter_0039",
+      "segment_ids": [
+        "chapter_0039:seg_0040"
+      ],
+      "source": "这是他最近才想到的修炼秘法，因为人的记忆力总有极限，更何况梦境中发生的事情，哪怕当时再清晰，醒来之后不久，都会被忘个一干二净。",
+      "source_hash": "4be69063ad495ed98067abf2a8b6cfcbc62c364271f49257035ab6a4907ea1e9",
+      "target": "Đây là bí pháp tu luyện cậu mới nghĩ ra gần đây, bởi vì trí nhớ của con người luôn có giới hạn, huống chi là những chuyện xảy ra trong giấc mơ, cho dù lúc đó có rõ ràng thế nào thì sau khi tỉnh dậy không lâu cũng sẽ quên sạch sành sanh.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0039:align_0041",
+      "chapter_id": "chapter_0039",
+      "segment_ids": [
+        "chapter_0039:seg_0041"
+      ],
+      "source": "欧冶子的记忆，无疑是一笔富可敌国的偌大宝藏，哪怕是多回想起其中一块斑驳的记忆碎片，都能得到不少好处。",
+      "source_hash": "ac9e5c123ab48a022f687cf68ca5786cda08d48117bbf2da81232cca5b55ae27",
+      "target": "Ký ức của Âu Dã Tử không nghi ngờ gì chính là một kho tàng khổng lồ giàu có địch quốc. Dù chỉ là hồi tưởng thêm một mảnh ký ức loang lổ trong đó thôi cũng có thể đạt được vô số lợi ích.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0039:align_0042",
+      "chapter_id": "chapter_0039",
+      "segment_ids": [
+        "chapter_0039:seg_0042"
+      ],
+      "source": "经过这些日子的冥思苦想，李耀想起了更多东西，似乎在脑域深处，摸索到一扇封闭的大门，甚至可以听到里面，“宝藏”叮当作响的声音。",
+      "source_hash": "84dc0f4687fb5e1ca43bb06858a6998b705393c10cfb73c4de395169ac459bdb",
+      "target": "Trải qua những ngày này vắt óc suy nghĩ, Lý Diệu đã nhớ ra được nhiều thứ hơn, dường như ở sâu trong vùng não bộ đã sờ soạng thấy một cánh cửa đóng chặt, thậm chí có thể nghe thấy âm thanh leng keng của \"kho báu\" bên trong.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0039:align_0043",
+      "chapter_id": "chapter_0039",
+      "segment_ids": [
+        "chapter_0039:seg_0043"
+      ],
+      "source": "只要再一步，再一小步，他就可以得到欧冶子全部的记忆传承！",
+      "source_hash": "c8823ca360ce0516ce8e54a5eb6099e5e7eb5632b40e2fb7ca4bd77dd6acca82",
+      "target": "Chỉ cần tiến thêm một bước, một bước nhỏ nữa thôi, cậu đã có thể đạt được toàn bộ ký ức truyền thừa của Âu Dã Tử!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0039:align_0044",
+      "chapter_id": "chapter_0039",
+      "segment_ids": [
+        "chapter_0039:seg_0044"
+      ],
+      "source": "就在这时，一股淡淡的酒气扑面而来，一个微微发胖，眼睛像猫儿一样的华服少年趴在他身边的船舷上：“这儿风光不错啊，李耀同学！”",
+      "source_hash": "2153d929a112b3cc138e5ddbc3149da3d0bfa9326bf3a102c89a1300576b7024",
+      "target": "Ngay lúc này, một luồng mùi rượu thoang thoảng phả vào mặt, một thiếu niên mặc hoa phục hơi mập mạp, đôi mắt giống như mắt mèo nằm sấp trên mạn thuyền bên cạnh cậu: \"Phong cảnh nơi này không tệ nhỉ, bạn học Lý Diệu!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0039:align_0045",
+      "chapter_id": "chapter_0039",
+      "segment_ids": [
+        "chapter_0039:seg_0045"
+      ],
+      "source": "李耀的瞳孔骤然收缩，若无其事地收回晶脑光幕，充满戒备地说：“你是郑东明，赫连烈的朋友？”",
+      "source_hash": "02583580bc0395ae5695e319586c65634564f226d03af194fc4394029f34671b",
+      "target": "Đồng tử của Lý Diệu đột ngột co rút, cậu điềm nhiên như không thu hồi màn ánh sáng tinh não, tràn đầy cảnh giác nói: \"Cậu là Trịnh Đông Minh, bạn của Hách Liên Liệt?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    }
+  ],
+  "term_occurrences": [
+    {
+      "chapter_id": "chapter_0039",
+      "source_term": "浮戈城",
+      "target_term": "Phù Qua Thành",
+      "segment_id": "chapter_0039:seg_0006",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0039",
+      "source_term": "晶脑",
+      "target_term": "Tinh não",
+      "segment_id": "chapter_0039:seg_0039",
+      "present_in_target": false,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0039",
+      "source_term": "郑东明",
+      "target_term": "Trịnh Đông Minh",
+      "segment_id": "chapter_0039:seg_0045",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0039",
+      "source_term": "准考证",
+      "target_term": "thẻ dự thi",
+      "segment_id": "chapter_0039:seg_0038",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    }
+  ],
+  "entity_mentions": [
+    {
+      "chapter_id": "chapter_0039",
+      "source_surface": "李耀",
+      "target_surface": "Lý Diệu",
+      "entity_type": "person",
+      "segment_id": "chapter_0039:seg_0007",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0039",
+      "source_surface": "赫连烈",
+      "target_surface": "Hách Liên Liệt",
+      "entity_type": "person",
+      "segment_id": "chapter_0039:seg_0038",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0039",
+      "source_surface": "郑东明",
+      "target_surface": "Trịnh Đông Minh",
+      "entity_type": "person",
+      "segment_id": "chapter_0039:seg_0045",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0039",
+      "source_surface": "浮戈城",
+      "target_surface": "Phù Qua Thành",
+      "entity_type": "locations",
+      "segment_id": "chapter_0039:seg_0006",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0039",
+      "source_surface": "极东海",
+      "target_surface": "Cực Đông Hải",
+      "entity_type": "locations",
+      "segment_id": "chapter_0039:seg_0002",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0039",
+      "source_surface": "灵能浮空船",
+      "target_surface": "thuyền linh năng phù không",
+      "entity_type": "items",
+      "segment_id": "chapter_0039:seg_0006",
+      "confidence": 1.0
+    }
+  ],
+  "name_analysis": {
+    "status": "ok",
+    "evidence_count": 3,
+    "name_mentions": [
+      {
+        "chapter_id": "chapter_0039",
+        "name_source": "李耀",
+        "name_target": "Lý Diệu",
+        "segment_id": "chapter_0039:seg_0007",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0039",
+        "name_source": "赫连烈",
+        "name_target": "Hách Liên Liệt",
+        "segment_id": "chapter_0039:seg_0038",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0039",
+        "name_source": "郑东明",
+        "name_target": "Trịnh Đông Minh",
+        "segment_id": "chapter_0039:seg_0045",
+        "present_in_target": true,
+        "confidence": 1.0
+      }
+    ],
+    "name_entries": [
+      {
+        "name_source": "李耀",
+        "name_target": "Lý Diệu"
+      },
+      {
+        "name_source": "赫连烈",
+        "name_target": "Hách Liên Liệt"
+      },
+      {
+        "name_source": "郑东明",
+        "name_target": "Trịnh Đông Minh"
+      }
+    ],
+    "transliteration_units": [],
+    "inferred_name_rules": [],
+    "ambiguity_cases": [],
+    "reusable_name_profile": {
+      "mapping_count": 3,
+      "has_ambiguity": false
+    }
+  },
+  "phrase_patterns": [],
+  "grammar_rule_candidates": [],
+  "analyzer_reports": {
+    "term_occurrences": {
+      "status": "ok",
+      "evidence_count": 4
+    },
+    "entity_mentions": {
+      "status": "ok",
+      "evidence_count": 6
+    },
+    "name_mentions": {
+      "status": "ok",
+      "evidence_count": 3
+    },
+    "phrase_patterns": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    },
+    "grammar_rule_candidates": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    }
+  },
+  "review_queue": [
+    {
+      "chapter_id": "chapter_0039",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "景象",
+        "entity_type": "person",
+        "count": 3,
+        "confidence": 0.7,
+        "evidence": [
+          "舞，汇聚成生机勃勃的景象。\n\n“呜！呜！”\n",
+          "大自然雄浑辽阔的壮观景象，是一直生活在浮戈城",
+          "大自然波澜壮阔的奇异景象，看到底下修真者猎杀"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0039",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "摸索到一扇封闭的大门",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "西，似乎在脑域深处，摸索到一扇封闭的大门，甚至可以听到里面，"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0039",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "竟然一直裂开到身体中部",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "，它的嘴巴奇大无比，竟然一直裂开到身体中部，整张嘴里布满獠牙，"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0039",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "联邦东部",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "\n\n  \n\n十天后，联邦东部，极东海。\n\n清晨，"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0039",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "极东海",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "\n十天后，联邦东部，极东海。\n\n清晨，朝阳喷薄"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0039",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "重逾万吨的身体重新砸回大海",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "，巨大怪鱼扑了个空，重逾万吨的身体重新砸回大海，掀起滔天巨浪。\n\n"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0039",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "驰骋大海",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "自己炼制的神兵利器，驰骋大海，斩杀妖兽，搏击风浪"
+        ]
+      }
+    }
+  ],
+  "quality_audit": {
+    "segment_coverage": 1.0,
+    "source_hash_match": true,
+    "target_reconstruction_match": true,
+    "invalid_ref_count": 0,
+    "locked_term_hit_rate": 1.0,
+    "missing_locked_terms": [],
+    "cjk_residue_count": 0,
+    "paragraph_drift_ratio": 0.0,
+    "pronoun_consistency_score": 1.0,
+    "warnings": []
+  }
+}

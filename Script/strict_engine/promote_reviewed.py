@@ -1,159 +1,194 @@
 #!/usr/bin/env python3
-"""
-Promotes candidate rules and terms to "reviewed" status based on frequency
-and confidence thresholds across a block of 10 chapters.
-"""
+"""Promote verified analysis evidence using distinct-chapter thresholds."""
+from __future__ import annotations
 
+import argparse
 import json
+from collections import defaultdict
 from pathlib import Path
-from typing import Dict, List, Any
-import logging
+from typing import Any
 
 from utils import io
 
-logger = io.get_logger("promote_reviewed")
+LOGGER = io.get_logger("promote_reviewed")
 
-def score_rule(rule: Dict[str, Any], evidence_count: int) -> float:
-    """
-    Qt_plus-compatible scoring:
-    score = rank * 100 + len(evidence) * 5
-    We use simplified logic here for Phase 3.
-    """
-    rank = rule.get("rank", 1)
-    return float(rank * 100 + evidence_count * 5)
 
-def aggregate_rules(lines: List[str]) -> List[Dict[str, Any]]:
-    # Group by alias
-    grouped = {}
-    for line in lines:
-        if not line.strip(): continue
-        try:
-            item = json.loads(line)
-        except json.JSONDecodeError:
+def _read_jsonl(path: Path) -> list[dict[str, Any]]:
+    if not path.exists():
+        return []
+    return [
+        json.loads(line)
+        for line in path.read_text(encoding="utf-8").splitlines()
+        if line.strip()
+    ]
+
+
+def _write_jsonl(path: Path, rows: list[dict[str, Any]]) -> None:
+    io.write_text_atomic(
+        path,
+        "".join(json.dumps(row, ensure_ascii=False) + "\n" for row in rows),
+    )
+
+
+def aggregate_terms(
+    rows: list[dict[str, Any]],
+    kind: str = "term",
+) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
+    mappings: dict[str, dict[str, set[str]]] = defaultdict(lambda: defaultdict(set))
+    for item in rows:
+        source = str(item.get("source_term") or item.get("name_source") or "")
+        target = str(item.get("target_term") or item.get("name_target") or "")
+        chapter_id = str(item.get("chapter_id") or "")
+        present = item.get("present_in_target", True)
+        if source and target and chapter_id and present:
+            mappings[source][target].add(chapter_id)
+    reviewed = []
+    review_queue = []
+    for source, targets in mappings.items():
+        if len(targets) > 1:
+            review_queue.append(
+                {
+                    "kind": f"{kind}_conflict",
+                    "reason": "A source surface has conflicting verified mappings.",
+                    "payload": {source: {target: sorted(chapters) for target, chapters in targets.items()}},
+                }
+            )
             continue
-        
-        alias = item.get("alias")
-        if not alias: continue
-        
-        if alias not in grouped:
-            grouped[alias] = {
-                "rule": item,
-                "evidence": set(item.get("evidence", [])),
-                "confidence_sum": item.get("confidence", 0.0),
-                "count": 1
+        target, chapters = next(iter(targets.items()))
+        if len(chapters) >= 2:
+            reviewed.append(
+                {
+                    "source": source,
+                    "target": target,
+                    "chapters": sorted(chapters),
+                    "evidence_count": len(chapters),
+                    "status": "auto-locked",
+                    "locked": True,
+                    "kind": kind,
+                }
+            )
+    return sorted(reviewed, key=lambda item: item["source"]), review_queue
+
+
+def aggregate_patterns(
+    rows: list[dict[str, Any]],
+    kind: str,
+) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
+    grouped: dict[tuple[str, str, str], list[dict[str, Any]]] = defaultdict(list)
+    aliases: dict[str, set[tuple[str, str]]] = defaultdict(set)
+    for item in rows:
+        alias = str(item.get("alias") or "")
+        source = str(item.get("source_pattern") or "")
+        target = str(item.get("target_pattern") or "")
+        if alias and source and target and item.get("chapter_id"):
+            grouped[(alias, source, target)].append(item)
+            aliases[alias].add((source, target))
+    reviewed = []
+    queue = []
+    conflicted = {alias for alias, mappings in aliases.items() if len(mappings) > 1}
+    for alias in sorted(conflicted):
+        queue.append(
+            {
+                "kind": f"{kind}_conflict",
+                "reason": "An alias has conflicting pattern mappings.",
+                "payload": {"alias": alias, "mappings": sorted(aliases[alias])},
             }
-        else:
-            grouped[alias]["evidence"].update(item.get("evidence", []))
-            grouped[alias]["confidence_sum"] += item.get("confidence", 0.0)
-            grouped[alias]["count"] += 1
-            
-    reviewed = []
-    for alias, group in grouped.items():
-        avg_confidence = group["confidence_sum"] / group["count"]
-        # Rule criteria: evidence in >= 3 chapters AND avg_confidence >= 0.8
-        if len(group["evidence"]) >= 3 and avg_confidence >= 0.8:
-            promoted_rule = group["rule"]
-            promoted_rule["status"] = "reviewed"
-            promoted_rule["score"] = score_rule(promoted_rule, len(group["evidence"]))
-            promoted_rule["evidence"] = list(group["evidence"])
-            reviewed.append(promoted_rule)
-    return reviewed
+        )
+    for (alias, source, target), items in grouped.items():
+        chapters = sorted({str(item["chapter_id"]) for item in items})
+        avg_confidence = sum(float(item.get("confidence", 0.0)) for item in items) / len(items)
+        if alias not in conflicted and len(chapters) >= 3 and avg_confidence >= 0.85:
+            reviewed.append(
+                {
+                    "alias": alias,
+                    "source_pattern": source,
+                    "target_pattern": target,
+                    "chapters": chapters,
+                    "evidence_count": len(chapters),
+                    "confidence": round(avg_confidence, 4),
+                    "status": "reviewed",
+                    "kind": kind,
+                }
+            )
+    return sorted(reviewed, key=lambda item: item["alias"]), queue
 
-def aggregate_terms(lines: List[str]) -> List[Dict[str, Any]]:
-    # Group by source_term -> target_term mapping
-    grouped = {}
-    for line in lines:
-        if not line.strip(): continue
-        try:
-            item = json.loads(line)
-        except json.JSONDecodeError:
+
+def _lock_branch_glossary(
+    branch_dir: Path,
+    reviewed_terms: list[dict[str, Any]],
+    review_queue: list[dict[str, Any]],
+) -> None:
+    path = branch_dir / "glossary.json"
+    glossary = io.load_json(path, default={"entries": []}) or {"entries": []}
+    by_source = {str(item.get("source") or ""): item for item in glossary.get("entries", [])}
+    for reviewed in reviewed_terms:
+        existing = by_source.get(reviewed["source"])
+        if existing and existing.get("locked") is True and existing.get("target") != reviewed["target"]:
+            review_queue.append(
+                {
+                    "kind": "manual_lock_conflict",
+                    "reason": "Auto-promotion cannot overwrite a manual locked mapping.",
+                    "payload": {"existing": existing, "candidate": reviewed},
+                }
+            )
             continue
-            
-        source = item.get("source_term")
-        target = item.get("target_term")
-        if not source or not target: continue
-        
-        # Only consider auto-locking terms that are present in target
-        if not item.get("present_in_target", False): continue
-        
-        key = (source, target)
-        grouped[key] = grouped.get(key, 0) + 1
-        
-    reviewed = []
-    for (source, target), count in grouped.items():
-        # Term criteria: appears >= 5 times with consistent mapping
-        if count >= 5:
-            reviewed.append({
-                "source": source,
-                "target": target,
-                "frequency": count,
-                "status": "auto-locked"
-            })
-    return reviewed
+        if existing:
+            existing["locked"] = True
+            existing["status"] = "auto-locked"
+            existing["reviewed_chapters"] = reviewed["chapters"]
+        else:
+            entry = {
+                "source": reviewed["source"],
+                "target": reviewed["target"],
+                "category": "reviewed",
+                "locked": True,
+                "status": "auto-locked",
+                "reviewed_chapters": reviewed["chapters"],
+            }
+            glossary.setdefault("entries", []).append(entry)
+            by_source[entry["source"]] = entry
+    io.save_json_atomic(path, glossary)
 
-def promote_reviewed(branch_name: str, chapter: int) -> dict:
-    """
-    Called when chapter % 10 == 0.
-    Reads recent append-only logs and promotes solid candidates to reviewed status.
-    """
+
+def promote_reviewed(branch_name: str, chapter: int) -> dict[str, Any]:
     branch_dir = io.resolve_branch_dir(branch_name)
     analysis_dir = branch_dir / "analysis"
-    
-    rules_file = analysis_dir / "grammar_rules.jsonl"
-    terms_file = analysis_dir / "term_occurrences.jsonl"
-    
-    report = {"promoted_rules_count": 0, "promoted_terms_count": 0}
-    
-    # Promote Rules
-    if rules_file.exists():
-        with rules_file.open("r", encoding="utf-8") as f:
-            lines = f.readlines()
-        
-        # Only process lines added recently, but for simplicity we aggregate all.
-        reviewed_rules = aggregate_rules(lines)
-        report["promoted_rules_count"] = len(reviewed_rules)
-        
-        if reviewed_rules:
-            out_rules_file = analysis_dir / "reviewed_rules.jsonl"
-            # Overwrite or merge logic here, for now we overwrite with the latest aggregated state
-            with out_rules_file.open("w", encoding="utf-8") as f:
-                for r in reviewed_rules:
-                    f.write(json.dumps(r, ensure_ascii=False) + "\n")
-            logger.info(f"Promoted {len(reviewed_rules)} rules to reviewed status.")
-
-    # Promote Terms
-    if terms_file.exists():
-        with terms_file.open("r", encoding="utf-8") as f:
-            lines = f.readlines()
-            
-        reviewed_terms = aggregate_terms(lines)
-        report["promoted_terms_count"] = len(reviewed_terms)
-        
-        if reviewed_terms:
-            out_terms_file = analysis_dir / "reviewed_terms.jsonl"
-            with out_terms_file.open("w", encoding="utf-8") as f:
-                for t in reviewed_terms:
-                    f.write(json.dumps(t, ensure_ascii=False) + "\n")
-            logger.info(f"Promoted {len(reviewed_terms)} terms to auto-locked status.")
-            
-    # Write a promotion audit file
-    audit_dir = analysis_dir / "audit"
-    io.ensure_dir(audit_dir)
-    audit_file = audit_dir / f"chapter_{chapter:04d}.promote.json"
-    io.save_json_atomic(audit_file, report)
-    
+    terms, queue_terms = aggregate_terms(_read_jsonl(analysis_dir / "term_occurrences.jsonl"))
+    names, queue_names = aggregate_terms(_read_jsonl(analysis_dir / "name_mentions.jsonl"), kind="name")
+    patterns, queue_patterns = aggregate_patterns(
+        _read_jsonl(analysis_dir / "phrase_patterns.jsonl"), "phrase_pattern"
+    )
+    rules, queue_rules = aggregate_patterns(
+        _read_jsonl(analysis_dir / "grammar_rules.jsonl"), "grammar_rule"
+    )
+    review_queue = queue_terms + queue_names + queue_patterns + queue_rules
+    _lock_branch_glossary(branch_dir, terms, review_queue)
+    _write_jsonl(analysis_dir / "reviewed_terms.jsonl", terms)
+    _write_jsonl(analysis_dir / "reviewed_names.jsonl", names)
+    _write_jsonl(analysis_dir / "reviewed_patterns.jsonl", patterns)
+    _write_jsonl(analysis_dir / "reviewed_rules.jsonl", rules)
+    _write_jsonl(analysis_dir / "promotion_review_queue.jsonl", review_queue)
+    report = {
+        "chapter": chapter,
+        "promoted_terms_count": len(terms),
+        "promoted_names_count": len(names),
+        "promoted_patterns_count": len(patterns),
+        "promoted_rules_count": len(rules),
+        "review_queue_count": len(review_queue),
+    }
+    io.save_json_atomic(analysis_dir / "audit" / f"chapter_{chapter:04d}.promote.json", report)
+    LOGGER.info("Promotion report for %s: %s", branch_name, report)
     return report
 
-if __name__ == "__main__":
-    import argparse
-    parser = argparse.ArgumentParser()
+
+def main() -> int:
+    parser = argparse.ArgumentParser(description="Promote reviewed analysis evidence")
     parser.add_argument("--branch", required=True)
-    parser.add_argument("--chapter", type=int, required=True)
-    parser.add_argument("--dry-run", action="store_true")
+    parser.add_argument("--chapter", required=True, type=int)
     args = parser.parse_args()
-    
-    if args.dry_run:
-        logger.info("Dry run mode...")
-    
-    res = promote_reviewed(args.branch, args.chapter)
-    print(json.dumps(res, indent=2))
+    print(json.dumps(promote_reviewed(args.branch, args.chapter), ensure_ascii=False, indent=2))
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

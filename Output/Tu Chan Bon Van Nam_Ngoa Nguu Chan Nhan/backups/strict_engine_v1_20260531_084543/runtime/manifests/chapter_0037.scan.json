@@ -1,0 +1,125 @@
+{
+  "schema_version": "1.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 37,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan\\0037 - 37.第37章 虎蹴击七连杀！.md",
+  "source_char_count": 2304,
+  "characters": [
+    {
+      "source": "李耀",
+      "entity_type": "person",
+      "count": 3,
+      "confidence": 0.7,
+      "evidence": [
+        "向大操场进发。\n\n“李耀，你别走！”\n\n2点",
+        "，是2点52分！\n\n李耀看都不看赵亮一眼，把",
+        "怕的威胁。\n\n“你是李耀？没想到这一个月里你"
+      ]
+    },
+    {
+      "source": "班学生",
+      "entity_type": "person",
+      "count": 3,
+      "confidence": 0.82,
+      "evidence": [
+        "的对手！”第二名重点班学生说道。\n\n“所以，你",
+        "下包围自己的三名重点班学生，李耀飞快分析计算着",
+        "是包围着他的三名重点班学生，却不知为何，同时感"
+      ]
+    },
+    {
+      "source": "赵亮",
+      "entity_type": "person",
+      "count": 3,
+      "confidence": 0.7,
+      "evidence": [
+        "月前，被他打断双腿的赵亮！\n\n赵亮的双腿早就",
+        "生都看到李耀一招解决赵亮，自然不会再掉以轻心",
+        "\n“李耀同学一招击败赵亮，实力固然不俗，可是"
+      ]
+    },
+    {
+      "source": "连杀",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        ".第37章 虎蹴击七连杀！\n\n  \n\n五分钟",
+        "战兽十三势，虎蹴击七连杀！\n\n“咦！”第三贵"
+      ]
+    },
+    {
+      "source": "连烈",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "钟，恐怕来不及找到赫连烈。\n\n仔细打量了一下",
+        "，极难捕捉。\n\n“赫连烈，我们之间的帐，只好"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "source": "整个人都蜷缩成一团",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "身飞起，如一只虾米，整个人都蜷缩成一团，口中鲜血狂喷，校服"
+      ]
+    }
+  ],
+  "locations": [],
+  "realms": [],
+  "techniques": [
+    "反光涂料的黑色战刀",
+    "在练习一套合击之法",
+    "挡住了他前进的脚步",
+    "练大半年的合击之法"
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "晶脑",
+      "target": "Tinh não"
+    },
+    {
+      "source": "重点班",
+      "target": "lớp trọng điểm"
+    },
+    {
+      "source": "普通班",
+      "target": "lớp thường"
+    },
+    {
+      "source": "战兽十三势",
+      "target": "Chiến Thú Thập Tam Thế"
+    },
+    {
+      "source": "郑东明",
+      "target": "Trịnh Đông Minh"
+    },
+    {
+      "source": "赵亮",
+      "target": "Triệu Lượng"
+    },
+    {
+      "source": "虎蹴击",
+      "target": "Hổ Súc Kích"
+    },
+    {
+      "source": "准考证",
+      "target": "thẻ dự thi"
+    },
+    {
+      "source": "放弃",
+      "target": "Từ Bỏ"
+    }
+  ],
+  "structural_hints": {
+    "has_dialogue": true,
+    "has_western_names": false,
+    "estimated_segments": 62
+  },
+  "generated_at": "2026-05-31T03:26:03.589663+07:00"
+}

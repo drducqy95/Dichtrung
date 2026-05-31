@@ -1,653 +1,826 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
   "chapter": 24,
+  "chapter_id": "chapter_0024",
+  "source_manifest_hash": "d01c816ab6faa63f461bcbd468b80d9a831fb48a2c4de355e285c05432505f30",
   "aligned_segments": [
     {
-      "seg_id": "seg_0001",
+      "alignment_id": "chapter_0024:align_0001",
+      "chapter_id": "chapter_0024",
+      "segment_ids": [
+        "chapter_0024:seg_0001"
+      ],
       "source": "# 24.第24章 突飞猛进",
-      "target": "Theo hàng vạn linh phù lần lượt sáng lên, thế giới trước mắt vặn vẹo lại, hóa thành một Thái Hư Huyễn Cảnh mô phỏng chân thực một trăm phần trăm, Lý Diệu xuất hiện trên một quảng trường khổng lồ được khảm bằng những phiến đá đen.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "source_hash": "bedebee2d8eb67fee70fd9a65816a8afdb59c85fc8e94445943aa03468a374b0",
+      "target": "# Chương 0024 - Tiến Bộ Thần Tốc",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0002",
+      "alignment_id": "chapter_0024:align_0002",
+      "chapter_id": "chapter_0024",
+      "segment_ids": [
+        "chapter_0024:seg_0002"
+      ],
       "source": "随着万千灵符逐一闪亮，眼前的世界扭曲起来，化作了百分之百拟真的太虚幻境，李耀出现在一片黑色岩石镶嵌而成的巨大广场上。",
+      "source_hash": "e3feda772c3aff22bb82ce61b68aa56e0bcdd7d7b281585889be6ae09481501e",
       "target": "Cậu chỉ tiến hành một bài kiểm tra đơn giản, cho nên không có đại cảnh hoành tráng như lần mô phỏng thi đại học trước.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0003",
+      "alignment_id": "chapter_0024:align_0003",
+      "chapter_id": "chapter_0024",
+      "segment_ids": [
+        "chapter_0024:seg_0003"
+      ],
       "source": "他要进行的只是一次简单测试，所以并没有像上次模拟高考那么大的场面。",
-      "target": "Quảng trường đá đen có đường kính khoảng năm trăm mét, bốn phương tám hướng đều là những bức tường đen cao chọc trời, nhìn ra xa có thể thấy xung quanh quảng trường có vô số lối vào hang động màu huyết sắc, từ bên trong mơ hồ truyền ra tiếng gầm rú của yêu thú.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0004",
-      "source": "黑岩广场的直径大约五百米，四面八方都是高耸入云的黑色墙壁，极目远眺，可以看到广场四周有无数血色门洞，从里面隐隐传来了妖兽的咆哮。",
+      "source_hash": "1822adc3911f4f06688521854a0356c46ae2874342095364e3b2fde138e7b662",
       "target": "Từng con yêu thú hung dữ dần dần lộ ra hình dáng.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0005",
-      "source": "一头头凶残的妖兽，逐渐显露出身形。",
+      "alignment_id": "chapter_0024:align_0004",
+      "chapter_id": "chapter_0024",
+      "segment_ids": [
+        "chapter_0024:seg_0004",
+        "chapter_0024:seg_0005",
+        "chapter_0024:seg_0006"
+      ],
+      "source": "黑岩广场的直径大约五百米，四面八方都是高耸入云的黑色墙壁，极目远眺，可以看到广场四周有无数血色门洞，从里面隐隐传来了妖兽的咆哮。\n\n一头头凶残的妖兽，逐渐显露出身形。\n\n李耀不紧不慢地活动着各个关节，发出“噼噼啪啪”的爆响，心中忽然一动，学着昨晚的笑脸小丑，一丝不苟、认认真真做起了“联邦第五套健身体操”。",
+      "source_hash": "855e4c0534632c9097badb8b0724d30c101924f555419a714b301f32c829303b",
       "target": "Lý Diệu thong thả cử động các khớp xương, phát ra những tiếng nổ giòn giã \"bôm bốp\", trong lòng bỗng động niệm, bắt chước Gã hề mặt cười tối qua, làm \"Bài thể dục nhịp điệu số năm của Liên bang\" một cách tỉ mỉ, nghiêm túc.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0006",
-      "source": "李耀不紧不慢地活动着各个关节，发出“噼噼啪啪”的爆响，心中忽然一动，学着昨晚的笑脸小丑，一丝不苟、认认真真做起了“联邦第五套健身体操”。",
-      "target": "\"Có vẻ bình thường thôi, chẳng thấy có gì thần bí cả, mặc kệ đi, đo thử tốc độ cực hạn của mình trước đã!\" Lý Diệu làm ngơ trước mấy chục con yêu thú đang áp sát tới, cậu quỳ một gối xuống đất, chống hai tay, nhỏm hông lên, bày ra tư thế xuất phát của chạy cự ly ngắn.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "alignment_id": "chapter_0024:align_0005",
+      "chapter_id": "chapter_0024",
+      "segment_ids": [
+        "chapter_0024:seg_0007",
+        "chapter_0024:seg_0008"
+      ],
+      "source": "“似乎普普通通，没什么奥妙啊，不管了，先测试一下我的极限速度！”李耀对逼近过来的几十头妖兽视而不见，单膝跪地，双手撑住，屁股撅起，摆出了短跑冲刺的起跑姿态。\n\n“嗷嗷嗷嗷！”几头双目赤红的妖狼，嚎叫着朝他扑过来。",
+      "source_hash": "7b58bd23580b8fcdcd5819d50811afdb442a38bb8a89c6a32e535c3227c5b052",
+      "target": "\"Ngao ngao ngao ngao!\" Mấy con yêu lang mắt đỏ sọc gào rú lao thẳng về phía cậu.\n\nLý Diệu hoàn toàn không thèm đếm xỉa đến đám yêu lang đang vồ tới, trong đầu chỉ có duy nhất một ý nghĩ: Chạy!",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0007",
-      "source": "“似乎普普通通，没什么奥妙啊，不管了，先测试一下我的极限速度！",
-      "target": "\"Ngao ngao ngao ngao!\" Mấy con yêu lang mắt đỏ sọc gào rú lao thẳng về phía cậu.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0008",
-      "source": "”李耀对逼近过来的几十头妖兽视而不见，单膝跪地，双手撑住，屁股撅起，摆出了短跑冲刺的起跑姿态。",
-      "target": "\"Vút!\" Mỗi một bó cơ trên hai chân Lý Diệu tựa như trong nháy mắt hóa thành hàng vạn lưỡi kiếm sắc bén tuốt vỏ, mặt đất đá đen bị cậu giẫm lõm xuống hai cái hố sâu bằng nắm tay, mà cậu cũng hóa thành một đạo tàn ảnh lướt qua kẽ hở giữa bảy tám con yêu lang chỉ trong chớp mắt!",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0009",
-      "source": "“嗷嗷嗷嗷！",
-      "target": "Lý Diệu hoàn toàn không thèm đếm xỉa đến đám yêu lang đang vồ tới, trong đầu chỉ có duy nhất một ý nghĩ: Chạy!",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0010",
-      "source": "”几头双目赤红的妖狼，嚎叫着朝他扑过来。",
-      "target": "Chỉ trong một sát na, cậu đã từ trung tâm quảng trường đá đen xông tới rìa ngoài cách đó hai trăm năm mươi mét. Khi cách bức tường năm mét, cậu vẫn duy trì tốc độ xung phong cực cao, mắt thấy sắp đâm sầm vào tường thì cả người đột nhiên nhảy vọt lên không, xoay người một cách quỷ dị trên không trung rồi đạp mạnh hai chân vào tường.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0011",
-      "source": "“嗖！",
+      "alignment_id": "chapter_0024:align_0006",
+      "chapter_id": "chapter_0024",
+      "segment_ids": [
+        "chapter_0024:seg_0009"
+      ],
+      "source": "“嗖！”李耀双腿上的每一束肌肉，仿佛在瞬间化作了万千把脱鞘而出的利刃，黑岩地面都被他踩出两道拳头大小的深坑，而他也在瞬间化作一道残影，从七八头妖狼中间一闪而过！",
+      "source_hash": "af132ae65647c2a0bf882b8848d23a5d160ed4548b4bd8b9c6e1ef9f337351d7",
       "target": "\"Bắc!\" Trên mặt tường lập tức xuất hiện những vết nứt hình mạng nhện, Lý Diệu như một mũi tên rời cung, bắn vọt về phía đầu kia của quảng trường.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0012",
-      "source": "”李耀双腿上的每一束肌肉，仿佛在瞬间化作了万千把脱鞘而出的利刃，黑岩地面都被他踩出两道拳头大小的深坑，而他也在瞬间化作一道残影，从七八头妖狼中间一闪而过！",
-      "target": "Cho đến lúc này, mấy chục con yêu thú vẫn chưa chạm được vào một sợi tóc nào của cậu!",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0013",
+      "alignment_id": "chapter_0024:align_0007",
+      "chapter_id": "chapter_0024",
+      "segment_ids": [
+        "chapter_0024:seg_0010"
+      ],
       "source": "李耀根本不去理会扑面而来的妖狼，脑子里只有一个念头，跑！",
-      "target": "Lại một đoạn đường năm trăm mét chạy nhanh như chớp giật, Lý Diệu một lần nữa quay đầu lại, đứng vững ở trung tâm quảng trường, ngước nhìn thời gian hiện lên giữa không trung.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "source_hash": "4d153cd612844b05772bec81464df77d84ef19faf0846d9983fc20145a0325fc",
+      "target": "Cho đến lúc này, mấy chục con yêu thú vẫn chưa chạm được vào một sợi tóc nào của cậu!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0014",
+      "alignment_id": "chapter_0024:align_0008",
+      "chapter_id": "chapter_0024",
+      "segment_ids": [
+        "chapter_0024:seg_0011"
+      ],
       "source": "一刹那，他就从黑岩广场的中心，冲刺到了两百五十米外的边缘，在距离墙壁还有五米时依旧保持高速冲刺，眼看即将撞上墙壁，整个人腾空而起，在空中诡异转身，双脚重重一记蹬踏。",
+      "source_hash": "abe889c121b96e57b35c05b5f443dde4ecc02a120b280e34789f58a5ad7dd59d",
+      "target": "Lại một đoạn đường năm trăm mét chạy nhanh như chớp giật, Lý Diệu một lần nữa quay đầu lại, đứng vững ở trung tâm quảng trường, ngước nhìn thời gian hiện lên giữa không trung.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0024:align_0009",
+      "chapter_id": "chapter_0024",
+      "segment_ids": [
+        "chapter_0024:seg_0012",
+        "chapter_0024:seg_0013",
+        "chapter_0024:seg_0014"
+      ],
+      "source": "“啪！”\n\n墙面上顿时出现蛛网般的裂纹，李耀犹如离弦之箭，向广场另一端激射而去.\n\n直到此刻，几十头妖兽尚未抓下他的半根头发！",
+      "source_hash": "015c9729007775a296dfa7689d95bd851c929fd937629e4b5cd01b262ef840d7",
       "target": "\"Một ngàn mét, 1 phút 32 giây! Khá lắm, so với mình trước đây đã nhanh hơn hẳn 41 giây! Tiếp theo, đo thử lực nhảy cực hạn xem!\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0015",
-      "source": "“啪！",
+      "alignment_id": "chapter_0024:align_0010",
+      "chapter_id": "chapter_0024",
+      "segment_ids": [
+        "chapter_0024:seg_0015",
+        "chapter_0024:seg_0016"
+      ],
+      "source": "又是五百米的风驰电掣，李耀再度折返，重新在广场中心站定，看了一下天空中浮现出的时间。\n\n“一千米，1分32秒！不错，比过去的我，提升了足足41秒！接下来，测试一下极限跳跃力！”",
+      "source_hash": "9bfba819db374ea166dcec5a7df2c59d00cdd174e5cae21da50d6be5607dab65",
       "target": "Lý Diệu lại ngồi xổm xuống sâu, lấy đà, tăng tốc, xung phong, ngay trước khi hai con yêu thú chuẩn bị xé xác cậu thành trăm mảnh, cậu như một thanh phi kiếm tuốt vỏ nhảy vọt lên cao, đâm thẳng vào bầu trời!",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0016",
-      "source": "”",
-      "target": "Cứ như vậy, dưới sự vây hãm tầng tầng lớp lớp của yêu thú, cậu lần lượt đo đạc tốc độ, sức bền, lực nhảy, sức chịu tải và lực bộc phát cực hạn!",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0017",
-      "source": "墙面上顿时出现蛛网般的裂纹，李耀犹如离弦之箭，向广场另一端激射而去.",
-      "target": "Một tiếng đồng hồ sau.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0018",
-      "source": "直到此刻，几十头妖兽尚未抓下他的半根头发！",
-      "target": "Lý Diệu kiệt sức, thở dốc phì phò ngồi giữa đống xác yêu thú bị xé xác thành mảnh nhỏ, khuôn mặt bê bết máu yêu thú tanh hôi. Đôi mắt cậu xuyên qua màn sương máu, tràn đầy mong đợi ngước nhìn lên bầu trời.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0019",
-      "source": "又是五百米的风驰电掣，李耀再度折返，重新在广场中心站定，看了一下天空中浮现出的时间。",
-      "target": "Trên bầu trời mây đen cuộn trào, gió lạnh gào rít, sấm sét vang rền. Sau một chuỗi tính toán phức tạp, Thái Hư Huyện Cảnh đưa ra độ khai phát linh căn hiện tại của cậu:",
-      "alignment_type": "1-to-1",
-      "narrative_type": "description"
-    },
-    {
-      "seg_id": "seg_0020",
-      "source": "“一千米，1分32秒！",
-      "target": "\"58%!\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0021",
-      "source": "不错，比过去的我，提升了足足41秒！",
-      "target": "Nhìn thấy con số lấp lánh này, Lý Diệu không kìm được vung nắm đấm, phấn khích hét lớn lên.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0022",
-      "source": "接下来，测试一下极限跳跃力！",
-      "target": "Hai ngày trước độ khai phát linh căn của cậu mới có 35%, thuộc nhóm tư chất tệ nhất, vậy mà sau khi trải qua quá trình tẩy luyện thần hồn của Âu Dã Minh trong giấc mộng dài nhất, lại tăng vọt thêm hơn hai mươi phần trăm, chỉ còn cách thiên tài tu luyện của lớp trọng điểm đúng một bước ngắn!",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0023",
-      "source": "”",
-      "target": "Mặc dù cậu hiểu rất rõ rằng sự biến đổi thoát thai hoán cốt này rất có thể chỉ xảy ra một lần duy nhất, nhưng thời gian phía trước vẫn còn tận chín mươi bảy ngày, cậu tuyệt đối có lòng tin sẽ nâng độ khai phát linh căn lên thêm ít nhất 10% nữa trong khoảng thời gian này!",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0024",
+      "alignment_id": "chapter_0024:align_0011",
+      "chapter_id": "chapter_0024",
+      "segment_ids": [
+        "chapter_0024:seg_0017"
+      ],
       "source": "李耀再次深蹲，助跑，加速，冲刺，在两头妖兽即将把他撕成碎片之前，犹如一柄离鞘的飞剑，高高跃起，刺向天空！",
-      "target": "Con đường phía trước còn rất dài, nhưng sẽ không còn bất kỳ thứ gì có thể cản trở bước chân cậu tiến lên phía trước. Cậu nhất định sẽ đỗ vào Chín đại học tinh anh liên kết, bước lên con đường tu chân, trở thành một bậc thầy luyện khí!",
-      "alignment_type": "1-to-1",
-      "narrative_type": "description"
+      "source_hash": "1ee208a4f433ad81e803c0abb1762f05d179619cd0981611db87f790097c5083",
+      "target": "Cứ như vậy, dưới sự vây hãm tầng tầng lớp lớp của yêu thú, cậu lần lượt đo đạc tốc độ, sức bền, lực nhảy, sức chịu tải và lực bộc phát cực hạn!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0025",
-      "source": "就这样，他在妖兽的重重包围下，逐一测试了速度、耐力、弹跳力、负重力和极限爆发力！",
-      "target": "Cho đến khi rời khỏi Thái Hư Huyện Cảnh, bước ra khỏi khoang kiểm tra, tâm trạng phấn khởi của Lý Diệu vẫn lâu không thể bình tĩnh lại được.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "alignment_id": "chapter_0024:align_0012",
+      "chapter_id": "chapter_0024",
+      "segment_ids": [
+        "chapter_0024:seg_0018",
+        "chapter_0024:seg_0019",
+        "chapter_0024:seg_0020",
+        "chapter_0024:seg_0021"
+      ],
+      "source": "就这样，他在妖兽的重重包围下，逐一测试了速度、耐力、弹跳力、负重力和极限爆发力！\n\n一个小时之后。\n\n李耀筋疲力尽，气喘吁吁，坐在四分五裂的妖兽尸体中间，脸上涂满了腥臭的妖血。\n\n他的双眼透过血雾，充满期待地凝视着天空。",
+      "source_hash": "adfc21a036624a3f6f998ea5b629f54aab78094a0ca528105502b462ea6fa3d6",
+      "target": "Một tiếng đồng hồ sau.\n\nLý Diệu kiệt sức, thở dốc phì phò ngồi giữa đống xác yêu thú bị xé xác thành mảnh nhỏ, khuôn mặt bê bết máu yêu thú tanh hôi. Đôi mắt cậu xuyên qua màn sương máu, tràn đầy mong đợi ngước nhìn lên bầu trời.",
+      "narrative_type": "narration",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0026",
-      "source": "一个小时之后。",
-      "target": "Cậu cảm thấy từng khớp xương đang ngứa ngáy, từng thớ cơ đang gào rú, mỗi một hơi thở đều phả ra hơi nóng nghi ngút, nguồn sức mạnh không có chỗ phát tiết chạy dọc khắp cơ thể khiến cậu vô cùng bồn chồn, nôn nóng muốn thử sức.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "alignment_id": "chapter_0024:align_0013",
+      "chapter_id": "chapter_0024",
+      "segment_ids": [
+        "chapter_0024:seg_0022",
+        "chapter_0024:seg_0023",
+        "chapter_0024:seg_0024"
+      ],
+      "source": "天空中，乌云翻腾，阴风肆虐，闷雷阵阵，一连串复杂的计算之后，太虚幻境给出了他现在的灵根开发度：\n\n“58%！”\n\n看到这个闪闪发亮的数字，李耀忍不住一挥拳头，兴奋地吼叫起来。",
+      "source_hash": "4e82a0a51c7aa2a9ad95ba771bbc0776bff1f4a528e78f106cc1f1bdaede1a7e",
+      "target": "Trên bầu trời mây đen cuộn trào, gió lạnh gào rít, sấm sét vang rền. Sau một chuỗi tính toán phức tạp, Thái Hư Huyện Cảnh đưa ra độ khai phát linh căn hiện tại của cậu:\n\n\"58%!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0027",
-      "source": "李耀筋疲力尽，气喘吁吁，坐在四分五裂的妖兽尸体中间，脸上涂满了腥臭的妖血。",
-      "target": "Nhìn quanh bốn phía, mọi người đều đang chăm chỉ tu luyện, người bạn thân Mạnh Giang cũng không biết đã đi đâu mất, không có ai để cùng chia sẻ niềm vui với cậu.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "alignment_id": "chapter_0024:align_0014",
+      "chapter_id": "chapter_0024",
+      "segment_ids": [
+        "chapter_0024:seg_0025",
+        "chapter_0024:seg_0026"
+      ],
+      "source": "两天前他的灵根开发度还只有35%，属于资质最差的一个档次，在最长一梦中经过欧冶子的神魂洗练，竟然提升了二十多个百分点，距离重点班的修炼天才，只有一步之遥！\n\n尽管他非常清楚，这种脱胎换骨的异变很可能只有一次，但是后面还有足足九十七天，他绝对有信心在这段时间里，把灵根开发度再提升至少10%！",
+      "source_hash": "d3bb1a1e077a074fca4aa35ec1f87c89fb4511f7db87a212826c046046075af9",
+      "target": "Nhìn thấy con số lấp lánh này, Lý Diệu không kìm được vung nắm đấm, phấn khích hét lớn lên.\n\nCon đường phía trước còn rất dài, nhưng sẽ không còn bất kỳ thứ gì có thể cản trở bước chân cậu tiến lên phía trước. Cậu nhất định sẽ đỗ vào Chín đại học tinh anh liên kết, bước lên con đường tu chân, trở thành một bậc thầy luyện khí!",
+      "narrative_type": "narration",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0028",
-      "source": "他的双眼透过血雾，充满期待地凝视着天空。",
-      "target": "Nuốt một ngụm nước bọt, cổ họng vẫn nóng bỏng như lửa đốt. Hít sâu một hơi, Lý Diệu đi tới nơi sâu nhất của nhà thi đấu. Ở đây đặt một máy đo lực kiểu cũ nát tươm.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "description"
-    },
-    {
-      "seg_id": "seg_0029",
-      "source": "天空中，乌云翻腾，阴风肆虐，闷雷阵阵，一连串复杂的计算之后，太虚幻境给出了他现在的灵根开发度：",
-      "target": "Học sinh ngày nay đã quen đo thực lực trong Thái Hư Huyện Cảnh, không mấy hứng thú với loại pháp bảo đời cũ có cấu tạo thuần cơ khí và phù trận này.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "description"
-    },
-    {
-      "seg_id": "seg_0030",
-      "source": "“58%！",
-      "target": "Đã lâu không có ai dùng món pháp bảo cũ kỹ này để đo sức mạnh. Chiếc máy đo lực phủ đầy bụi bặm, trông giống như một bộ xương khô xám xịt của một con cự thú đã chết nhiều năm.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0031",
-      "source": "”",
-      "target": "Lý Diệu lại cực kỳ say mê những món pháp bảo kiểu cũ này. So với Thái Hư Huyện Cảnh hư vô không hình không bóng, cậu cảm thấy loại pháp bảo cổ xưa được lắp ráp từ vô số linh kiện, phù trận và đường ống dẫn lực với cấu trúc tinh xảo, huyền ảo phức tạp này lại có một sức hút rung động lòng người rất riêng biệt.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0032",
-      "source": "看到这个闪闪发亮的数字，李耀忍不住一挥拳头，兴奋地吼叫起来。",
-      "target": "Cậu lúc này đang cực kỳ cần phát tiết sự hưng phấn trong lòng. Ở trong Thái Hư Huyện Cảnh dù có thể thi triển tùy thích, nhưng sao bằng được cảm giác khoái cảm chân thực đấm đấm vào thịt ở thế giới hiện thực chứ?",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0033",
-      "source": "两天前他的灵根开发度还只有35%，属于资质最差的一个档次，在最长一梦中经过欧冶子的神魂洗练，竟然提升了二十多个百分点，距离重点班的修炼天才，只有一步之遥！",
-      "target": "\"Bành!\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0034",
-      "source": "尽管他非常清楚，这种脱胎换骨的异变很可能只有一次，但是后面还有足足九十七天，他绝对有信心在这段时间里，把灵根开发度再提升至少10%！",
-      "target": "Lý Diệu không dùng bất kỳ chiêu trò hoa mỹ nào, tung thẳng một đấm trúng ngay hồng tâm của máy đo lực, ngay lập tức làm bụi bay mù mịt khắp nơi.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0035",
+      "alignment_id": "chapter_0024:align_0015",
+      "chapter_id": "chapter_0024",
+      "segment_ids": [
+        "chapter_0024:seg_0027"
+      ],
       "source": "前面的路还很长，但是再没什么东西，能挡住他前进的方向，他一定会考上九大精英联校，踏上修真之路，成为炼器大师！",
-      "target": "Pháp bảo kiểu cũ giống như cự thú thức tỉnh, từng linh phù lần lượt sáng bừng lên, bên trong phát ra những tiếng kim loại va chạm, tiếng bánh răng chuyển động và tiếng linh năng chạy qua ống dẫn tinh thạch rất êm tai. Cuối cùng, một con số xuất hiện trên bảng đếm bằng ống thủy tinh phía trên máy đo lực:",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "source_hash": "d9be0e876ffa1d885e19387940ff3a7083ca564d831b1c65f6652cc00c2b3598",
+      "target": "Cho đến khi rời khỏi Thái Hư Huyện Cảnh, bước ra khỏi khoang kiểm tra, tâm trạng phấn khởi của Lý Diệu vẫn lâu không thể bình tĩnh lại được.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0036",
-      "source": "直到离开太虚幻境，踏出考试舱，李耀激动万分的心情，依旧是久久无法平息。",
-      "target": "\"355 cân!\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "alignment_id": "chapter_0024:align_0016",
+      "chapter_id": "chapter_0024",
+      "segment_ids": [
+        "chapter_0024:seg_0028",
+        "chapter_0024:seg_0029"
+      ],
+      "source": "直到离开太虚幻境，踏出考试舱，李耀激动万分的心情，依旧是久久无法平息。\n\n他觉得每一个关节都在发痒，每一条肌肉都在嚎叫，每一次呼吸都喷出蒸汽，无处宣泄的力量在周身游走，令他无比躁动，跃跃欲试。",
+      "source_hash": "cd5b5ad6b46fc6f1acb2b8fc561a154c64c0794d477b4f77763952705051207b",
+      "target": "Cậu cảm thấy từng khớp xương đang ngứa ngáy, từng thớ cơ đang gào rú, mỗi một hơi thở đều phả ra hơi nóng nghi ngút, nguồn sức mạnh không có chỗ phát tiết chạy dọc khắp cơ thể khiến cậu vô cùng bồn chồn, nôn nóng muốn thử sức.",
+      "narrative_type": "narration",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0037",
-      "source": "他觉得每一个关节都在发痒，每一条肌肉都在嚎叫，每一次呼吸都喷出蒸汽，无处宣泄的力量在周身游走，令他无比躁动，跃跃欲试。",
-      "target": "\"Một cú đấm thẳng này chỉ có hơn ba trăm cân lực lượng thôi sao? Hình như vẫn chưa đủ lắm! Cứ cảm giác như thiếu mất thứ gì đó, rốt cuộc là thiếu cái gì nhỉ?\" Lý Diệu nheo mắt, để mặc cho bụi đất bao quanh cơ thể, ngơ ngác nhìn nắm đấm của mình, chìm vào suy nghĩ đăm chiêu.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "alignment_id": "chapter_0024:align_0017",
+      "chapter_id": "chapter_0024",
+      "segment_ids": [
+        "chapter_0024:seg_0030",
+        "chapter_0024:seg_0031",
+        "chapter_0024:seg_0032"
+      ],
+      "source": "环顾四周，所有人都在认真修炼，死党孟江都不知道去了什么地方，无法分享他的喜悦。\n\n吞了口唾沫，喉咙里依旧火烧火燎，深吸一口气，李耀走到体育馆最深处。\n\n这里摆放着一台破破烂烂的老式力量测试机。",
+      "source_hash": "d1bcdfc3a02b6b670498ca2bf4fecf1f6442fe7b84b07c39ce7b35ef2ac8df96",
+      "target": "Nhìn quanh bốn phía, mọi người đều đang chăm chỉ tu luyện, người bạn thân Mạnh Giang cũng không biết đã đi đâu mất, không có ai để cùng chia sẻ niềm vui với cậu.",
+      "narrative_type": "narration",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0038",
-      "source": "环顾四周，所有人都在认真修炼，死党孟江都不知道去了什么地方，无法分享他的喜悦。",
-      "target": "Một lát sau, cậu khẽ mỉm cười, rút từ trong túi ra hai cái nút tai. Đây là pháp bảo phát nhạc \"Âm Linh\" do \"Diệu Âm Tông\" luyện chế. Nhét vào tai rồi động niệm một cái, phù trận siêu nhỏ bên trong bắt đầu vận hành, phát ra những giai điệu tuyệt vời.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "alignment_id": "chapter_0024:align_0018",
+      "chapter_id": "chapter_0024",
+      "segment_ids": [
+        "chapter_0024:seg_0033",
+        "chapter_0024:seg_0034"
+      ],
+      "source": "如今的学生，早已习惯了在太虚幻境中测试实力，对这种纯机械和符阵结构的老式法宝并不感兴趣。\n\n已经很久没人用这台老式法宝测试力量，力量测试机上积满了灰尘，就像是一头死去多年的巨兽，只剩下黯淡的骸骨。",
+      "source_hash": "3d0af57420526ff58a4dc0af28c83e9e76250e07632d091b78e89630cf6c5301",
+      "target": "Nuốt một ngụm nước bọt, cổ họng vẫn nóng bỏng như lửa đốt. Hít sâu một hơi, Lý Diệu đi tới nơi sâu nhất của nhà thi đấu. Ở đây đặt một máy đo lực kiểu cũ nát tươm.",
+      "narrative_type": "narration",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0039",
-      "source": "吞了口唾沫，喉咙里依旧火烧火燎，深吸一口气，李耀走到体育馆最深处。",
-      "target": "\"Kìa mây đen cuồn cuộn không che nổi dải ngân hà lấp lánh!\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0040",
-      "source": "这里摆放着一台破破烂烂的老式力量测试机。",
-      "target": "\"Bóng đêm vô tận rồi sẽ tan đi, tinh tú khắp trời sẽ thắp sáng hào quang sinh mệnh!\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0041",
-      "source": "如今的学生，早已习惯了在太虚幻境中测试实力，对这种纯机械和符阵结构的老式法宝并不感兴趣。",
-      "target": "Giọng hát cao vút gặp thần sát thần gặp phật sát phật của Lục Âm Hi bùng nổ giữa hai tai Lý Diệu!",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0042",
-      "source": "已经很久没人用这台老式法宝测试力量，力量测试机上积满了灰尘，就像是一头死去多年的巨兽，只剩下黯淡的骸骨。",
-      "target": "\"Đúng, chính là cái này! Mây đen cuộn trào không che nổi dải ngân hà cuộn chảy! Lên luôn!\" Lý Diệu hạ thấp hông, trầm giọng gầm khẽ. Lớp bụi đất vừa bám trên người cậu lập tức bắn ngược ra ngoài, tạo thành một vòng tròn bụi mờ nhạt trong phạm vi nửa mét quanh người cậu, chỉ chốc lát sau đã bị kình phong từ nắm đấm xé toạc!",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0043",
+      "alignment_id": "chapter_0024:align_0019",
+      "chapter_id": "chapter_0024",
+      "segment_ids": [
+        "chapter_0024:seg_0035"
+      ],
       "source": "李耀却非常迷恋这种老式法宝，相对于无影无形的太虚幻境，他觉得这种用无数零件、符阵和管道组装起来，结构精巧、玄奥繁复的老式法宝，另有一番动人心魄的魅力。",
-      "target": "\"Bùm!\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "source_hash": "84fc2ce0bfb5311389b166f715faac276f13a7dc3ae0a56ece617f8b48bf8d00",
+      "target": "Học sinh ngày nay đã quen đo thực lực trong Thái Hư Huyện Cảnh, không mấy hứng thú với loại pháp bảo đời cũ có cấu tạo thuần cơ khí và phù trận này.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0044",
-      "source": "此刻的他，急需发泄心中的兴奋之意。",
-      "target": "\"Bùm bùm bùm!\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "inner_thought"
+      "alignment_id": "chapter_0024:align_0020",
+      "chapter_id": "chapter_0024",
+      "segment_ids": [
+        "chapter_0024:seg_0036",
+        "chapter_0024:seg_0037",
+        "chapter_0024:seg_0038",
+        "chapter_0024:seg_0039"
+      ],
+      "source": "此刻的他，急需发泄心中的兴奋之意。\n\n在太虚幻境中，固然也能尽情施展，却又怎么比得上现实世界，拳拳到肉的真实快感？\n\n“碰！”\n\n李耀毫无花巧地一拳轰出，不偏不倚，正中力量测试机的靶心，顿时激荡起了漫天灰尘。",
+      "source_hash": "2c82cfca4af55f6d240ee7678f80abdcb2357ecb4ec486aeff55852b1ce8e390",
+      "target": "Đã lâu không có ai dùng món pháp bảo cũ kỹ này để đo sức mạnh. Chiếc máy đo lực phủ đầy bụi bặm, trông giống như một bộ xương khô xám xịt của một con cự thú đã chết nhiều năm.",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0045",
-      "source": "在太虚幻境中，固然也能尽情施展，却又怎么比得上现实世界，拳拳到肉的真实快感？",
-      "target": "\"Bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm!!!!\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "alignment_id": "chapter_0024:align_0021",
+      "chapter_id": "chapter_0024",
+      "segment_ids": [
+        "chapter_0024:seg_0040",
+        "chapter_0024:seg_0041"
+      ],
+      "source": "老式法宝仿佛被唤醒的巨兽，一道道灵符逐一闪亮，法宝内部传来了悦耳的金属碰撞声、齿轮转动声和灵能涌过晶管的噪音，最后，一道数字出现在力量测试机上方的晶管计数器中。\n\n“355斤！”",
+      "source_hash": "be4f46933395ab912b39ef8fb3ff985cd73d71e92c58319ab64e45275dcf3097",
+      "target": "Cậu lúc này đang cực kỳ cần phát tiết sự hưng phấn trong lòng. Ở trong Thái Hư Huyện Cảnh dù có thể thi triển tùy thích, nhưng sao bằng được cảm giác khoái cảm chân thực đấm đấm vào thịt ở thế giới hiện thực chứ?\n\n\"Bành!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0046",
-      "source": "“碰！",
-      "target": "Ngay lúc chiếc máy đo lực phát ra tiếng kêu kẽo kẹt vì chịu tải cực hạn, một bóng người cao lớn uy mãnh vô song đang thong dong bước vào nhà thi đấu.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "alignment_id": "chapter_0024:align_0022",
+      "chapter_id": "chapter_0024",
+      "segment_ids": [
+        "chapter_0024:seg_0042"
+      ],
+      "source": "“这一记刺拳只有三百多斤的力量？似乎不是很足啊！总觉得还差了一点什么，究竟是什么呢？”李耀眯起眼睛，任由灰尘在周身缭绕，怔怔地注视着拳面，冥思苦想。",
+      "source_hash": "d8bddbc92c825cc652d49c97b50bb0c160a37d8b14f79ebfd47b6607b4194c2d",
+      "target": "Lý Diệu không dùng bất kỳ chiêu trò hoa mỹ nào, tung thẳng một đấm trúng ngay hồng tâm của máy đo lực, ngay lập tức làm bụi bay mù mịt khắp nơi.\n\n\"355 cân!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0047",
-      "source": "”",
-      "target": "==============================",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "alignment_id": "chapter_0024:align_0023",
+      "chapter_id": "chapter_0024",
+      "segment_ids": [
+        "chapter_0024:seg_0043",
+        "chapter_0024:seg_0044",
+        "chapter_0024:seg_0045",
+        "chapter_0024:seg_0046"
+      ],
+      "source": "片刻之后，他微微一笑，从口袋里，掏出两个耳塞。\n\n这是“妙音宗”炼制的法宝“音铃”，塞进耳朵，心念一动，耳塞中的微型符阵就开始运转，传送出美妙的音乐。\n\n“你看那乌云滚滚无法遮挡银河的流淌！”\n\n“无尽黑暗终将消散诸天星辰点燃生命之光！”",
+      "source_hash": "04bab4ab3017880ceb8c94537d77593c0b12f1eabfc49d57dbd3c0a88da3d088",
+      "target": "Một lát sau, cậu khẽ mỉm cười, rút từ trong túi ra hai cái nút tai. Đây là pháp bảo phát nhạc \"Âm Linh\" do \"Diệu Âm Tông\" luyện chế. Nhét vào tai rồi động niệm một cái, phù trận siêu nhỏ bên trong bắt đầu vận hành, phát ra những giai điệu tuyệt vời.",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0048",
-      "source": "李耀毫无花巧地一拳轰出，不偏不倚，正中力量测试机的靶心，顿时激荡起了漫天灰尘。",
-      "target": "*Chú thích của tác giả: Lời bài hát trong chương này không phải do tác giả sáng tác, mà được trích dẫn từ bài hát \"Conquer the Pacific\" của ban nhạc GALA. Bài hát này cực kỳ sôi động và cuồng nhiệt, vừa nghe lặp lại bài hát này vừa gõ chữ thực sự không thể dừng lại được!*",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0049",
-      "source": "老式法宝仿佛被唤醒的巨兽，一道道灵符逐一闪亮，法宝内部传来了悦耳的金属碰撞声、齿轮转动声和灵能涌过晶管的噪音，最后，一道数字出现在力量测试机上方的晶管计数器中。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0050",
-      "source": "“355斤！",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0051",
-      "source": "”",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0052",
-      "source": "“这一记刺拳只有三百多斤的力量？",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0053",
-      "source": "似乎不是很足啊！",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0054",
-      "source": "总觉得还差了一点什么，究竟是什么呢？",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0055",
-      "source": "”李耀眯起眼睛，任由灰尘在周身缭绕，怔怔地注视着拳面，冥思苦想。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0056",
-      "source": "片刻之后，他微微一笑，从口袋里，掏出两个耳塞。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0057",
-      "source": "这是“妙音宗”炼制的法宝“音铃”，塞进耳朵，心念一动，耳塞中的微型符阵就开始运转，传送出美妙的音乐。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0058",
-      "source": "“你看那乌云滚滚无法遮挡银河的流淌！",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0059",
-      "source": "”",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0060",
-      "source": "“无尽黑暗终将消散诸天星辰点燃生命之光！",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0061",
-      "source": "”",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0062",
+      "alignment_id": "chapter_0024:align_0024",
+      "chapter_id": "chapter_0024",
+      "segment_ids": [
+        "chapter_0024:seg_0047"
+      ],
       "source": "陆音希遇神杀神遇佛杀佛的高亢歌声，在李耀双耳之间爆炸！",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "source_hash": "1834f8b541d15bd83a97bd9cb9020dc4256c2280b4da352f97348be14ab47b22",
+      "target": "\"Kìa mây đen cuồn cuộn không che nổi dải ngân hà lấp lánh!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0063",
-      "source": "“对，就是这个，乌云滚滚无法遮挡银河的流淌，哇杀！",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "alignment_id": "chapter_0024:align_0025",
+      "chapter_id": "chapter_0024",
+      "segment_ids": [
+        "chapter_0024:seg_0048"
+      ],
+      "source": "“对，就是这个，乌云滚滚无法遮挡银河的流淌，哇杀！”李耀腰胯一沉，发出低吼，刚刚落在他身上的灰尘在瞬间激荡开来，在方圆半米之内形成一个淡淡的灰色包围圈，片刻之后，就被拳风撕裂！",
+      "source_hash": "f0bf945469f69ffd10b2d0a5cd43e5ecd6525eedf8ecebedea1e089867247069",
+      "target": "\"Bóng đêm vô tận rồi sẽ tan đi, tinh tú khắp trời sẽ thắp sáng hào quang sinh mệnh!\"\n\nGiọng hát cao vút gặp thần sát thần gặp phật sát phật của Lục Âm Hi bùng nổ giữa hai tai Lý Diệu!",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0064",
-      "source": "”李耀腰胯一沉，发出低吼，刚刚落在他身上的灰尘在瞬间激荡开来，在方圆半米之内形成一个淡淡的灰色包围圈，片刻之后，就被拳风撕裂！",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "alignment_id": "chapter_0024:align_0026",
+      "chapter_id": "chapter_0024",
+      "segment_ids": [
+        "chapter_0024:seg_0049"
+      ],
+      "source": "“砰！”",
+      "source_hash": "d92bad3cd33d47aa1e34cce15c21ba83cf64cac4028f7aa9795f3d2ddd1eb7cf",
+      "target": "\"Bùm!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0065",
-      "source": "“砰！",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "alignment_id": "chapter_0024:align_0027",
+      "chapter_id": "chapter_0024",
+      "segment_ids": [
+        "chapter_0024:seg_0050"
+      ],
+      "source": "“砰砰砰！”",
+      "source_hash": "b7720bac62032a0ba50eb8303d09fa5cc699a0d268eab2f9b155d26124d86b9b",
+      "target": "\"Bùm bùm bùm!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0066",
-      "source": "”",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "alignment_id": "chapter_0024:align_0028",
+      "chapter_id": "chapter_0024",
+      "segment_ids": [
+        "chapter_0024:seg_0051",
+        "chapter_0024:seg_0052"
+      ],
+      "source": "“砰砰砰砰砰砰砰砰砰砰砰砰砰砰砰砰砰砰砰砰砰砰砰砰砰砰砰砰砰砰砰砰！！！！”\n\n就在力量测试机发出\\*\\*之时，一道威猛无匹的高大身影，优哉游哉地跨进体育馆。",
+      "source_hash": "627d2d038f13538d53aeb0ba9ef3ee89fbfa9b1d5fd3602823e9c524d87d1b12",
+      "target": "\"Bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm bùm!!!!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0067",
-      "source": "“砰砰砰！",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0068",
-      "source": "”",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0069",
-      "source": "“砰砰砰砰砰砰砰砰砰砰砰砰砰砰砰砰砰砰砰砰砰砰砰砰砰砰砰砰砰砰砰砰！",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0070",
-      "source": "！",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0071",
-      "source": "！",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0072",
-      "source": "！",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0073",
-      "source": "”",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0074",
-      "source": "就在力量测试机发出\\*\\*之时，一道威猛无匹的高大身影，优哉游哉地跨进体育馆。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0075",
-      "source": "==============================",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0076",
-      "source": "本章节中的歌词并非老牛原创，选自GALA乐队的《征服太平洋》，此歌超燃超热血，一边循环播放一边码字，简直停不下来！",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "alignment_id": "chapter_0024:align_0029",
+      "chapter_id": "chapter_0024",
+      "segment_ids": [
+        "chapter_0024:seg_0053",
+        "chapter_0024:seg_0054"
+      ],
+      "source": "==============================\n\n本章节中的歌词并非老牛原创，选自GALA乐队的《征服太平洋》，此歌超燃超热血，一边循环播放一边码字，简直停不下来！",
+      "source_hash": "8865c4da6d22bd7ce0af70528c220b8cc0be957cb212ca8bef367d127748df65",
+      "target": "Ngay lúc chiếc máy đo lực phát ra tiếng kêu kẽo kẹt vì chịu tải cực hạn, một bóng người cao lớn uy mãnh vô song đang thong dong bước vào nhà thi đấu.\n==============================",
+      "narrative_type": "narration",
+      "alignment_type": "merged_source"
     }
   ],
   "term_occurrences": [
     {
-      "source_term": "太虚幻境",
-      "target_term": "Thái Hư Huyễn Cảnh",
-      "seg_id": "seg_0002",
-      "is_locked": false,
-      "present_in_target": true,
-      "category": "location"
-    },
-    {
-      "source_term": "第五套健身体操",
-      "target_term": "Bài thể dục nhịp điệu số năm",
-      "seg_id": "seg_0006",
-      "is_locked": false,
-      "present_in_target": true,
-      "category": "technique"
-    },
-    {
-      "source_term": "灵根",
-      "target_term": "Linh căn",
-      "seg_id": "seg_0029",
-      "is_locked": false,
-      "present_in_target": false,
-      "category": "general"
-    },
-    {
-      "source_term": "灵根开发度",
-      "target_term": "độ khai phát linh căn",
-      "seg_id": "seg_0029",
-      "is_locked": false,
-      "present_in_target": true,
-      "category": "general"
-    },
-    {
-      "source_term": "重点班",
-      "target_term": "lớp trọng điểm",
-      "seg_id": "seg_0033",
-      "is_locked": false,
-      "present_in_target": true,
-      "category": "faction"
-    },
-    {
-      "source_term": "九大精英联校",
-      "target_term": "Chín đại học tinh anh liên kết",
-      "seg_id": "seg_0035",
-      "is_locked": false,
-      "present_in_target": true,
-      "category": "faction"
-    },
-    {
-      "source_term": "考试舱",
-      "target_term": "khoang thi cử",
-      "seg_id": "seg_0036",
-      "is_locked": false,
-      "present_in_target": false,
-      "category": "item"
-    },
-    {
-      "source_term": "音铃",
-      "target_term": "Âm Linh",
-      "seg_id": "seg_0057",
-      "is_locked": false,
-      "present_in_target": true,
-      "category": "item"
-    },
-    {
-      "source_term": "妙音宗",
-      "target_term": "Diệu Âm Tông",
-      "seg_id": "seg_0057",
-      "is_locked": false,
-      "present_in_target": true,
-      "category": "faction"
-    },
-    {
+      "chapter_id": "chapter_0024",
       "source_term": "陆音希",
       "target_term": "Lục Âm Hi",
-      "seg_id": "seg_0062",
-      "is_locked": false,
+      "segment_id": "chapter_0024:seg_0047",
       "present_in_target": true,
-      "category": "character"
+      "is_locked": false,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0024",
+      "source_term": "九大精英联校",
+      "target_term": "Chín đại học tinh anh liên kết",
+      "segment_id": "chapter_0024:seg_0027",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0024",
+      "source_term": "重点班",
+      "target_term": "lớp trọng điểm",
+      "segment_id": "chapter_0024:seg_0025",
+      "present_in_target": false,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0024",
+      "source_term": "考试舱",
+      "target_term": "khoang thi cử",
+      "segment_id": "chapter_0024:seg_0028",
+      "present_in_target": false,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0024",
+      "source_term": "太虚幻境",
+      "target_term": "Thái Hư Huyễn Cảnh",
+      "segment_id": "chapter_0024:seg_0002",
+      "present_in_target": false,
+      "is_locked": false,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0024",
+      "source_term": "灵根",
+      "target_term": "Linh căn",
+      "segment_id": "chapter_0024:seg_0022",
+      "present_in_target": false,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0024",
+      "source_term": "灵根开发度",
+      "target_term": "độ khai phát linh căn",
+      "segment_id": "chapter_0024:seg_0022",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0024",
+      "source_term": "第五套健身体操",
+      "target_term": "Bài thể dục nhịp điệu số năm",
+      "segment_id": "chapter_0024:seg_0004",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "technique",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0024",
+      "source_term": "音铃",
+      "target_term": "Âm Linh",
+      "segment_id": "chapter_0024:seg_0043",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0024",
+      "source_term": "妙音宗",
+      "target_term": "Diệu Âm Tông",
+      "segment_id": "chapter_0024:seg_0043",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
     }
   ],
   "entity_mentions": [
     {
+      "chapter_id": "chapter_0024",
       "source_surface": "李耀",
       "target_surface": "Lý Diệu",
       "entity_type": "person",
-      "seg_id": "seg_0002",
+      "segment_id": "chapter_0024:seg_0002",
       "confidence": 1.0
     },
     {
-      "source_surface": "孟江",
-      "target_surface": "Mạnh Giang",
-      "entity_type": "person",
-      "seg_id": "seg_0038",
-      "confidence": 1.0
-    },
-    {
+      "chapter_id": "chapter_0024",
       "source_surface": "陆音希",
       "target_surface": "Lục Âm Hi",
       "entity_type": "person",
-      "seg_id": "seg_0062",
+      "segment_id": "chapter_0024:seg_0047",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0024",
+      "source_surface": "孟江",
+      "target_surface": "Mạnh Giang",
+      "entity_type": "person",
+      "segment_id": "chapter_0024:seg_0030",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0024",
+      "source_surface": "妙音宗",
+      "target_surface": "Diệu Âm Tông",
+      "entity_type": "factions",
+      "segment_id": "chapter_0024:seg_0043",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0024",
+      "source_surface": "第五套健身体操",
+      "target_surface": "Bài thể dục nhịp điệu số năm",
+      "entity_type": "techniques",
+      "segment_id": "chapter_0024:seg_0004",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0024",
+      "source_surface": "音铃",
+      "target_surface": "Âm Linh",
+      "entity_type": "items",
+      "segment_id": "chapter_0024:seg_0043",
       "confidence": 1.0
     }
   ],
+  "name_analysis": {
+    "status": "ok",
+    "evidence_count": 3,
+    "name_mentions": [
+      {
+        "chapter_id": "chapter_0024",
+        "name_source": "李耀",
+        "name_target": "Lý Diệu",
+        "segment_id": "chapter_0024:seg_0002",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0024",
+        "name_source": "陆音希",
+        "name_target": "Lục Âm Hi",
+        "segment_id": "chapter_0024:seg_0047",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0024",
+        "name_source": "孟江",
+        "name_target": "Mạnh Giang",
+        "segment_id": "chapter_0024:seg_0030",
+        "present_in_target": true,
+        "confidence": 1.0
+      }
+    ],
+    "name_entries": [
+      {
+        "name_source": "李耀",
+        "name_target": "Lý Diệu"
+      },
+      {
+        "name_source": "陆音希",
+        "name_target": "Lục Âm Hi"
+      },
+      {
+        "name_source": "孟江",
+        "name_target": "Mạnh Giang"
+      }
+    ],
+    "transliteration_units": [],
+    "inferred_name_rules": [],
+    "ambiguity_cases": [],
+    "reusable_name_profile": {
+      "mapping_count": 3,
+      "has_ambiguity": false
+    }
+  },
   "phrase_patterns": [],
   "grammar_rule_candidates": [],
+  "analyzer_reports": {
+    "term_occurrences": {
+      "status": "ok",
+      "evidence_count": 10
+    },
+    "entity_mentions": {
+      "status": "ok",
+      "evidence_count": 6
+    },
+    "name_mentions": {
+      "status": "ok",
+      "evidence_count": 3
+    },
+    "phrase_patterns": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    },
+    "grammar_rule_candidates": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    }
+  },
+  "review_queue": [
+    {
+      "chapter_id": "chapter_0024",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "妙音宗",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "两个耳塞。\n\n这是“妙音宗”炼制的法宝“音铃”"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0024",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0024:align_0004",
+        "segment_ids": [
+          "chapter_0024:seg_0004",
+          "chapter_0024:seg_0005",
+          "chapter_0024:seg_0006"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0024",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0024:align_0005",
+        "segment_ids": [
+          "chapter_0024:seg_0007",
+          "chapter_0024:seg_0008"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0024",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0024:align_0009",
+        "segment_ids": [
+          "chapter_0024:seg_0012",
+          "chapter_0024:seg_0013",
+          "chapter_0024:seg_0014"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0024",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0024:align_0010",
+        "segment_ids": [
+          "chapter_0024:seg_0015",
+          "chapter_0024:seg_0016"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0024",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0024:align_0012",
+        "segment_ids": [
+          "chapter_0024:seg_0018",
+          "chapter_0024:seg_0019",
+          "chapter_0024:seg_0020",
+          "chapter_0024:seg_0021"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0024",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0024:align_0013",
+        "segment_ids": [
+          "chapter_0024:seg_0022",
+          "chapter_0024:seg_0023",
+          "chapter_0024:seg_0024"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0024",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0024:align_0014",
+        "segment_ids": [
+          "chapter_0024:seg_0025",
+          "chapter_0024:seg_0026"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0024",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0024:align_0016",
+        "segment_ids": [
+          "chapter_0024:seg_0028",
+          "chapter_0024:seg_0029"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0024",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0024:align_0017",
+        "segment_ids": [
+          "chapter_0024:seg_0030",
+          "chapter_0024:seg_0031",
+          "chapter_0024:seg_0032"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0024",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0024:align_0018",
+        "segment_ids": [
+          "chapter_0024:seg_0033",
+          "chapter_0024:seg_0034"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0024",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0024:align_0020",
+        "segment_ids": [
+          "chapter_0024:seg_0036",
+          "chapter_0024:seg_0037",
+          "chapter_0024:seg_0038",
+          "chapter_0024:seg_0039"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0024",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0024:align_0021",
+        "segment_ids": [
+          "chapter_0024:seg_0040",
+          "chapter_0024:seg_0041"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0024",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0024:align_0023",
+        "segment_ids": [
+          "chapter_0024:seg_0043",
+          "chapter_0024:seg_0044",
+          "chapter_0024:seg_0045",
+          "chapter_0024:seg_0046"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0024",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0024:align_0028",
+        "segment_ids": [
+          "chapter_0024:seg_0051",
+          "chapter_0024:seg_0052"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0024",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0024:align_0029",
+        "segment_ids": [
+          "chapter_0024:seg_0053",
+          "chapter_0024:seg_0054"
+        ]
+      }
+    }
+  ],
   "quality_audit": {
     "segment_coverage": 1.0,
+    "source_hash_match": true,
+    "target_reconstruction_match": true,
+    "invalid_ref_count": 0,
     "locked_term_hit_rate": 1.0,
+    "missing_locked_terms": [],
     "cjk_residue_count": 0,
-    "paragraph_drift_ratio": 0.368,
+    "paragraph_drift_ratio": 0.46296296296296297,
     "pronoun_consistency_score": 1.0,
     "warnings": []
   }

@@ -1,88 +1,557 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
   "chapter": 3,
   "source_file": "D:\\Dichtrung\\Source\\Source split\\Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan\\0003 - 3.第3章 异梦.md",
   "source_char_count": 2283,
-  "characters": [
+  "source_hash": "9ed6686b55223fdd234b742df2dc65547452742fc640bf9ea933caa6a0cfc8aa",
+  "source_manifest_hash": "22adf5cb33a775dc720f2bb43ca93155808ecb91c89223b3de941db60dd48d1a",
+  "source_segments": [
     {
-      "source": "李耀",
-      "entity_type": "person",
-      "count": 3,
-      "confidence": 0.7,
-      "evidence": [
-        "梦\n\n  \n\n“操，李耀，怪不得都叫你‘无影",
-        "异梦中，虽然同样名叫李耀，却拥有截然不同的人",
-        "李耀是什么人，今天的李耀，是天元界、星耀联邦"
-      ]
+      "segment_id": "chapter_0003:seg_0001",
+      "source": "# 3.第3章 异梦",
+      "source_hash": "e77eae18db335dedf7ed7ade65ccf3078fd7cca1fea2245e9ab27789ac5c0133"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0002",
+      "source": "“操，李耀，怪不得都叫你‘无影手’，你改过的这台11款野马GT，三秒钟飙到一百码，简直像是完全换了一辆车，老子爽得都快射了！”",
+      "source_hash": "4a3ad1b87c7e7d8b3710d3589be8f50a7731d86106eb239d563c8a8eaecea88c"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0003",
+      "source": "“……”",
+      "source_hash": "88a05083e7db0d30e339c6483c42cc8e1feb4872e2953f93bdd4b03dcd86a65d"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0004",
+      "source": "“1分59秒！1分59秒！天，我有没有看错？新的地下车神诞生了！”",
+      "source_hash": "9e9455873f6869c1d566c8f07b27e7f9b4456fb2eae87c169b410e436196a7ce"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0005",
+      "source": "“……”",
+      "source_hash": "88a05083e7db0d30e339c6483c42cc8e1feb4872e2953f93bdd4b03dcd86a65d"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0006",
+      "source": "“答应我，不要再飙车，老老实实当一个汽车维修技师，没有谁会看不起你，总有一天，我们会拥有自己的4S店！”",
+      "source_hash": "39542d8752c6c6f7d102f7d9723fe786f39dedf9d66b32ef2b24979ee66d5a02"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0007",
+      "source": "“……”",
+      "source_hash": "88a05083e7db0d30e339c6483c42cc8e1feb4872e2953f93bdd4b03dcd86a65d"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0008",
+      "source": "“耀哥，耀哥，算我求求你，帮帮我，最后飙一次，除了你，谁能用1分59秒跑完整条之江路？我欠了刀疤强三十万，今天不还上会死，会死的！”",
+      "source_hash": "2365c0d1f307017e0e02ceddef2d61e0a3f772756772fc6809b8a83ceb5ef92a"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0009",
+      "source": "“……”",
+      "source_hash": "88a05083e7db0d30e339c6483c42cc8e1feb4872e2953f93bdd4b03dcd86a65d"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0010",
+      "source": "“医生！医生！快救救他！他才23岁啊！”",
+      "source_hash": "36f78b48b6648ecec5b245f896d44663a71b42aa0982cb12c7559ef88c172228"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0011",
+      "source": "“……”",
+      "source_hash": "88a05083e7db0d30e339c6483c42cc8e1feb4872e2953f93bdd4b03dcd86a65d"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0012",
+      "source": "在刺耳的尖叫声中，李耀猛地从地板上跳了起来，冷汗涔涔。",
+      "source_hash": "534af8e2499a22e922003a7bd308c3bdc1a6d24b782cd8284434f8982c18e85b"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0013",
+      "source": "窗外晨光普照，光幕仪依旧在“咿咿呀呀”播放着经典老歌，少年如木偶般呆滞了半分钟，才从无比真实的梦魇中渐渐挣脱出来。",
+      "source_hash": "a8f9dd282f892e8122fb1197bba712940694e5fce040c742ab524e2384bf787c"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0014",
+      "source": "这段梦魇是他最大的秘密，连老爹都没告诉过，从他有记忆以来，隔三差五就会做同一个怪梦，就像是一段……挥之不去的记忆。",
+      "source_hash": "2e6fdf5e7305c8a0c09793398a3b3bac43711d5a9acbf888fd9ccc8a6f09f34f"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0015",
+      "source": "在异梦中，虽然同样名叫李耀，却拥有截然不同的人生，他在一个十分古怪的世界，在一个被称为“4S”店的地方，充当“汽车维修技工”。",
+      "source_hash": "cae441ad4b23e97873b32c3ad5a26dc5f73573be9979bf9c83bdc41a78bdfddf"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0016",
+      "source": "而在黑夜，他是那座光怪陆离的城市中，“地下赛车圈子”非常厉害的汽车改装师和飞车手，在一个个引擎轰鸣、肾上腺素爆炸的夜里，他飙出过一项项令人瞠目结舌的记录——直到飙向死亡！",
+      "source_hash": "5995ed8414534a60a007933182e0b17c055498918fe376e40b9d9430e882519e"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0017",
+      "source": "虽然在梦境中一遍又一遍重复死亡是一件非常痛苦的事情，不过李耀却并不怨恨，反而有些庆幸，如果不是梦境给了他另一段人生经验，他根本不可能在危机四伏的法宝坟墓中活到今天。",
+      "source_hash": "22227eedde41c3a370720c7a1d85733090bbfaf483128d72dd396669d7c9e100"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0018",
+      "source": "不管这只是一段诡异的噩梦，还是上辈子纠缠不清的记忆，都不重要。",
+      "source_hash": "48b722531fb10be26593d23efe48845feaf5638ed18cab10821633780c716d26"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0019",
+      "source": "昨日种种，譬如昨日死；今日种种，譬如今日生。",
+      "source_hash": "7c73a1df4b61743351a32d2a34e38dad651b27b00758301e595bb101b0849c1c"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0020",
+      "source": "不管昨天的李耀是什么人，今天的李耀，是天元界、星耀联邦、浮戈城的一名普普通通的中学生。",
+      "source_hash": "bb6e68f5750dffd31bf929c430b844097ed7c4d8024e3e14ea7a2218b0927ca1"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0021",
+      "source": "——是要成为炼器大师的人！",
+      "source_hash": "70a639eed0261956d4da4552d996de7e656fd066d6f1d328360ad12cf4dd3ada"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0022",
+      "source": "深吸一口气，简单收拾好了房间，洗漱完毕，时间刚过六点，李耀背上书包，提着立体光幕仪，大步走出家门。",
+      "source_hash": "5326bc7672e969292a93b9c03d1bbe1d7df9fe7b7242af1c200f54176e73530f"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0023",
+      "source": "今天是周一，早上要开晨会，必须在七点半之前赶到学校。",
+      "source_hash": "95b032fbb3cfcd5a22a3ef071c98f22878414ef1202cb8e923c6a6a1b9f86e91"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0024",
+      "source": "朝阳新村距离他就读的赤霄派附属第二高中有三十里路，可以搭乘“地下晶轨三号线”转“七号线”抵达，不过要耗费八块车资。",
+      "source_hash": "9fc1694a4af7aa981fd7a2999c243ce0366d906b046b7b6c4bcbc2ec06310a1b"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0025",
+      "source": "李耀舍不得花钱，甩开长腿，运起学校里教的《灵蛇身法》，朝主城区电射而去。",
+      "source_hash": "ad9a12328ad27f69090574f75e0e3b71bb7d7bab1c656498d6db3e98c4b11b1d"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0026",
+      "source": "此时正是朝阳初升，霞光万丈，灵力喷涌而出的黎明。",
+      "source_hash": "0c7c89fffbe256f39b38ef345fd0c9870d4124f7f12159f3ac3d59c98d973236"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0027",
+      "source": "远远望去，浮戈城犹如苏醒的巨兽，各大门派、势力都散开了禁制，散发出七彩斑斓的光辉。",
+      "source_hash": "280ecde62517a767cab05adf0247edf0ad44b85b14daac52ba4fe07381cd53c8"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0028",
+      "source": "不少修真者悬浮在半空中，趁着昼夜转换之际，吞吐日精月华，周身都缭绕着八角垂芒的符文，有些人身边还有仙鹤、火鸦、流星缭绕，声势浩大，霸气外露。",
+      "source_hash": "871d9a6364509836c19d4c51e50fa78430060d7c1e4d5eecabed31b926fe352a"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0029",
+      "source": "一艘艘大型浮空船拖曳着长长的尾焰，慢吞吞地行进在天空中，尾焰在蓝天白云间交织成了一张巨大的灵网，小巧玲珑的私家飞梭，在网眼间穿梭不息，发出悦耳的呼啸。",
+      "source_hash": "2f98d4a2db4a6a70f336a664f51a428e3afc8f37f62474643689d0ccd0470dde"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0030",
+      "source": "——这就是联邦修炼重镇浮戈城的早晨！",
+      "source_hash": "8e27a8607fe8a4240959b707f42faf0edf945542186ab226f0c1f9b6c1815e6c"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0031",
+      "source": "李耀一耸一耸，就像一条蓄足了力的弹簧，每一步都能窜出二十多米，速度奇快，不过姿态却非常丑陋，颇有些路人侧目，他却满不在乎，专心修炼，不过半个钟头，就来到学校附近，他的头顶白雾缭绕，背后也结出了一层白花花的汗盐。",
+      "source_hash": "da15988ef65ef25cfd70f5e2a5842f44724fa2297ef16da0556c18b05916204b"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0032",
+      "source": "他没有直接走进校门，身形一闪，蹿进学校旁边一条穷街陋巷。",
+      "source_hash": "c2d7aa4c96fb5b2b856c4592431368337742541511b8db91111c2ee5b55b84ff"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0033",
+      "source": "在小巷深处挂着一块锈迹斑斑的铁招牌，上书“老王二手商店”六个字，下面还有一行密密麻麻的小字：“专营各类二手法宝，兼营法宝改装，精修战甲、代练灵兽、防御法阵保养、山门开光等等业务。”",
+      "source_hash": "9d8909e99fc3f1c95d4b302a05945e5f04410b37e3e02469738870c934fe0e66"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0034",
+      "source": "仿佛知道李耀会来，一扇小窗打开，露出一颗光秃秃的大脑袋，是个贼眉鼠眼的老头。",
+      "source_hash": "7cb3a2844a37ccd0aa2c05ebfbfa264ec7c3ff885a1e919bc859db4a997e478a"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0035",
+      "source": "“哈，昨晚打牌输了两千多，正愁回去没法和老婆子交代，财神爷就上门了，小妖，又给你王爷爷带什么好货色来了？”老头满脸奸笑。",
+      "source_hash": "5b0172688433928dd428263a09a4b1cce048bef3f15bcd65b639c75037b69e4f"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0036",
+      "source": "“少来，就算你输光了裤衩，也别想着从我这里杀价！”李耀毫不客气地拍掉了老王头伸过来的爪子，犹豫了一下，虽然有些心痛，还是取出光幕仪递了过去。",
+      "source_hash": "855f1b42ea34032bccf8e551ef250aa87c20d3f63b57dc70815cfb41fd3a1b11"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0037",
+      "source": "虽然他还想再好好研究一下三层叠加晶片技术，但毕竟真金白银更要紧，念私立高中可是很贵的，为了修炼必须购买的灵丹妙药和辅助器械更是一样比一样杀人不见血。",
+      "source_hash": "328155df276c80de0b96c49160ecdb3010bc797472209624080c65d5706fe53b"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0038",
+      "source": "无论什么年底，穷文富武，都是真理，通往修真者之路，是要用白花花的银子堆出来的。",
+      "source_hash": "57ccc44e4ac4f2600e473dfca3e452138c83544910d36a057d27a8e8eadd307a"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0039",
+      "source": "“果然是好东西！”",
+      "source_hash": "9f29335702a609dc9ce2dfc9b8088bafc9a644ebfda16136d5f5c4c1465eb7bf"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0040",
+      "source": "老王显然识货，接过光幕仪扫了一眼，眼底就流露出了赞许的光芒，也不试用，直接说道：“一口价，九千五！”",
+      "source_hash": "28570287ddc6e498f2fd72afe941d110e075336d9ce0d383e5497dc552fe6404"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0041",
+      "source": "李耀心底涌过一道暖流，这个价格可是比二手货的市场价要高出不少，老王头又让他占了便宜。",
+      "source_hash": "24dcf1a62842e572299fbf69981b448191e07bd56eef18d6621ac6529a08949d"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0042",
+      "source": "这个老头子虽然看上去贼眉鼠眼不像好人，却是李耀记忆里除了老爹之外，对他最好的人，每次交易多多少少总会让他占些便宜，还隔三差五给他一些报酬不菲的工作。",
+      "source_hash": "785ada28870451ad962c318937bb0352d1cf4d3738ba15b57995add2114bb800"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0043",
+      "source": "如果没有老王头的帮助，在老爹去世之后，李耀恐怕也无法维持私立中学高昂的学费了。",
+      "source_hash": "3db0cb6b1fea60afc411cdb25cea2e79922bc27a01d6db8b8c05303e02e0a619"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0044",
+      "source": "“用不了那么多，给九千就行，剩下五百给王奶奶，就说是你打牌赢的——不用谢，谁叫我这么尊老爱幼，不忍心看你一把老骨头还跪搓衣板呢？走啦，赶晨会呢，钱打我账户就好！”李耀一挥手，蹦跳离开。",
+      "source_hash": "530333b31d177a8084294dadb11f7b96967a24113cd9c99e05c5ac77a05feff6"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0045",
+      "source": "老王忽然叫住了他：“等等，小妖怪。”",
+      "source_hash": "7c79136ae323dca7259fb937e757c569db2a9410a36135079a84d2f7b1139b26"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0046",
+      "source": "李耀站住，故意道：“哇，死老头，你不是嫌五百太少吧？”",
+      "source_hash": "5ec1ba659f1718121a6802f1bb5061a829ac99c12fb33dd98d7ded89930bed7f"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0047",
+      "source": "“呸，想当年，老头子可是超一流的法宝改装大师，分分钟几百万上下，看得上你这点儿鸡零狗碎？老头子是想告诉你，再过一百天就是高考了，你小子可要好好考，争取考个好大学，千万不要以为自己有一手法宝维修的本事就不知天高地厚了！世界大着呢，等考上大学你就知道了，在真正的炼器师面前，你现在这一手，算个屁啊！”老王头吹胡子瞪眼。",
+      "source_hash": "adee5c0bd1a0fe59fbf26ed3bec2758b7a4bbdf06ad2f37a8200190f593e271e"
+    },
+    {
+      "segment_id": "chapter_0003:seg_0048",
+      "source": "李耀心里又是一暖，用力挥了挥拳头：“我一定会考上大学的，王爷爷！”",
+      "source_hash": "f1ba6f785467454148af920046e0a7b7a3f34890ca84f417ae84f4f35cf1ae99"
     }
   ],
-  "organizations": [
+  "known_characters": [
     {
-      "source": "争取考个好大学",
-      "entity_type": "organization",
-      "count": 1,
-      "confidence": 0.78,
-      "evidence": [
-        "，你小子可要好好考，争取考个好大学，千万不要以为自己有"
-      ]
+      "id": "protagonist_ly_dieu",
+      "name_source": "李耀",
+      "name_target": "Lý Diệu",
+      "name_aliases": [
+        "Thốc Thứu",
+        "Kền Kền",
+        "Âu Dã Minh"
+      ],
+      "gender": "male",
+      "age_group": "teenager",
+      "social_status": "Học sinh lớp thường / Thợ nhặt rác",
+      "base_archetype": "protagonist",
+      "speech_style": "Thẳng thắn, thực tế, hơi ngông cuồng của thiếu niên nhưng có suy nghĩ thấu đáo và kiên định.",
+      "first_appearance": {
+        "chapter": 1,
+        "context": "Xuất hiện nhặt rác tại Nghĩa địa Pháp Bảo"
+      },
+      "cultivation": {
+        "primary_system": "Linh căn khai phát / Cơ khí tu chân",
+        "current_realm": "Người thường (Linh căn khai phát 35%)",
+        "current_sub_stage": "",
+        "notes": "Linh căn khai phát ban đầu chỉ có 35% nhưng có tiềm năng tinh thần lực cực cao nhờ dị mộng."
+      },
+      "abilities": [
+        "Kỹ năng đua xe Trái Đất",
+        "Chế tạo cơ khí thủ công",
+        "Sửa chữa pháp bảo phế thải",
+        "Linh Xà Thân Pháp"
+      ],
+      "faction": {
+        "current": {
+          "name": "Xích Tiêu Nhị Trung",
+          "role": "Học sinh lớp thường"
+        },
+        "history": [
+          {
+            "name": "Trái Đất (kiếp trước)",
+            "role": "Tay đua xe chuyên nghiệp"
+          }
+        ]
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Thiếu niên 17 tuổi gầy gò, khỏe khoắn, da ngăm đen do dầm mưa dãi nắng ở nghĩa địa pháp bảo, đôi mắt sáng ngời sắc bén như chim ưng.",
+        "style": "Đồ lao động cũ kỹ bám đầy dầu mỡ, sau đó mặc đồng phục Xích Tiêu Nhị Trung.",
+        "distinctive": "Lòng bàn tay có nhiều vết chai sạn do sửa chữa cơ khí và vung búa rèn."
+      },
+      "personality": {
+        "traits": [
+          "Kiên trì",
+          "Thực tế",
+          "Thích tiền",
+          "Bền bỉ",
+          "Mưu mẹo"
+        ],
+        "speech": "Dứt khoát, thường xưng 'tôi' hoặc 'ta' tùy ngữ cảnh."
+      },
+      "notes": ""
     },
     {
-      "source": "他没有直接走进校门",
-      "entity_type": "organization",
-      "count": 1,
-      "confidence": 0.78,
-      "evidence": [
-        "层白花花的汗盐。\n\n他没有直接走进校门，身形一闪，蹿进学校"
-      ]
+      "id": "",
+      "name_source": "老爹",
+      "name_target": "Lão cha",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Cha nuôi của Lý Diệu, một cao thủ cải tạo pháp bảo ẩn cư, đã qua đời một năm trước.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
     },
     {
-      "source": "各大门派",
-      "entity_type": "organization",
-      "count": 1,
-      "confidence": 0.78,
-      "evidence": [
-        "戈城犹如苏醒的巨兽，各大门派、势力都散开了禁制，"
-      ]
+      "id": "npc_lao_vuong",
+      "name_source": "老王",
+      "name_target": "Lão Vương",
+      "name_aliases": [
+        "Chủ tiệm đồ cũ Lão Vương"
+      ],
+      "gender": "male",
+      "age_group": "elderly",
+      "social_status": "Chủ cửa hàng đồ cũ / Đại sư luyện khí ẩn dật",
+      "base_archetype": "mentor",
+      "speech_style": "Hiền hậu, khuyên răn từ tốn nhưng đầy sắc sảo của người từng trải.",
+      "first_appearance": {
+        "chapter": 3,
+        "context": "Lý Diệu đến bán quang mạc nghi cải tiến tại cửa hàng đồ cũ"
+      },
+      "cultivation": {
+        "primary_system": "Luyện khí thuật ẩn dật",
+        "current_realm": "Ẩn giấu thực lực (Có khả năng là Luyện Khí Kỳ cao cấp hoặc Trúc Cơ)",
+        "current_sub_stage": "",
+        "notes": "Luôn khuyên Lý Diệu tập trung thi cử thay vì chỉ nhặt rác."
+      },
+      "abilities": [
+        "Kinh nghiệm tu chân phong phú",
+        "Đánh giá bảo vật",
+        "Chế tạo pháp bảo"
+      ],
+      "faction": {
+        "current": {
+          "name": "Cửa hàng đồ cũ Lão Vương",
+          "role": "Chủ tiệm"
+        },
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Chủ cửa hàng đồ cũ Lão Vương, cựu đại sư cải tạo pháp bảo ẩn dật, đối xử rất tốt và thường xuyên giúp đỡ Lý Diệu.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
     },
     {
-      "source": "大步走出家门",
-      "entity_type": "organization",
-      "count": 1,
-      "confidence": 0.78,
-      "evidence": [
-        "包，提着立体光幕仪，大步走出家门。\n\n今天是周一，早"
-      ]
-    },
-    {
-      "source": "早上要开晨会",
-      "entity_type": "organization",
-      "count": 1,
-      "confidence": 0.78,
-      "evidence": [
-        "门。\n\n今天是周一，早上要开晨会，必须在七点半之前赶"
-      ]
+      "id": "",
+      "name_source": "刀疤强",
+      "name_target": "Đao Cáp Cường",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Một tay giang hồ đòi nợ thuê xuất hiện trong dị mộng về kiếp trước của Lý Diệu.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
     }
   ],
-  "locations": [],
+  "known_worldbuilding": [
+    {
+      "section": "factions",
+      "name_source": "赤霄派",
+      "name_target": "Xích Tiêu Phái",
+      "type": "Tông môn hiện đại",
+      "description": "Tông môn tu chân có tầm ảnh hưởng lớn tại Phù Qua Thành, quản lý và tài trợ cho trường trung học Xích Tiêu Nhị Trung."
+    },
+    {
+      "section": "techniques",
+      "name_source": "灵蛇身法",
+      "name_target": "Linh Xà Thân Pháp",
+      "type": "Thân pháp cơ bản",
+      "description": "Thân pháp giả lập hoạt động của loài rắn để di chuyển, luồn lách và tránh né đòn tấn công trong bối cảnh thực chiến học đường."
+    },
+    {
+      "section": "locations",
+      "name_source": "法宝坟墓",
+      "name_target": "Nghĩa địa Pháp Bảo",
+      "type": "Khu vực phế thải",
+      "description": "Bãi rác pháp bảo khổng lồ ở ngoại ô Phù Qua Thành, nơi chứa hàng triệu tấn linh kiện cơ khí tu chân hỏng hóc và các thùng rác linh năng."
+    },
+    {
+      "section": "locations",
+      "name_source": "浮戈城",
+      "name_target": "Phù Qua Thành",
+      "type": "Đô thị tu chân",
+      "description": "Một trong những đại đô thị tu chân hiện đại tại Thiên Nguyên Giới, nổi bật với hệ thống tinh quỹ chạy trên không trung và các quảng trường thương mại linh năng."
+    },
+    {
+      "section": "locations",
+      "name_source": "朝阳新村",
+      "name_target": "Triêu Dương Tân Thôn",
+      "type": "Khu ổ chuột",
+      "description": "Khu nhà ổ chuột tồi tàn nằm sát Nghĩa địa Pháp Bảo, nơi tập trung dân nghèo, thợ rác và những kẻ vật lộn ở đáy xã hội."
+    }
+  ],
+  "heuristic_candidates": {
+    "characters": [
+      {
+        "source": "李耀",
+        "entity_type": "person",
+        "count": 3,
+        "confidence": 0.7,
+        "evidence": [
+          "梦\n\n  \n\n“操，李耀，怪不得都叫你‘无影",
+          "异梦中，虽然同样名叫李耀，却拥有截然不同的人",
+          "李耀是什么人，今天的李耀，是天元界、星耀联邦"
+        ]
+      }
+    ],
+    "organizations": [
+      {
+        "source": "争取考个好大学",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "，你小子可要好好考，争取考个好大学，千万不要以为自己有"
+        ]
+      },
+      {
+        "source": "他没有直接走进校门",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "层白花花的汗盐。\n\n他没有直接走进校门，身形一闪，蹿进学校"
+        ]
+      },
+      {
+        "source": "各大门派",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "戈城犹如苏醒的巨兽，各大门派、势力都散开了禁制，"
+        ]
+      },
+      {
+        "source": "大步走出家门",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "包，提着立体光幕仪，大步走出家门。\n\n今天是周一，早"
+        ]
+      },
+      {
+        "source": "早上要开晨会",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "门。\n\n今天是周一，早上要开晨会，必须在七点半之前赶"
+        ]
+      }
+    ],
+    "locations": [],
+    "techniques": [
+      "专营各类二手法",
+      "兼营法",
+      "可能在危机四伏的法",
+      "头子可是超一流的法",
+      "我欠了刀",
+      "播放着经",
+      "李耀恐怕也无法",
+      "正愁回去没法",
+      "每一步",
+      "灵蛇身法",
+      "用力挥了挥拳",
+      "给了他另一段人生经",
+      "要以为自己有一手法",
+      "防御法阵"
+    ]
+  },
   "realms": [],
-  "techniques": [
-    "专营各类二手法",
-    "兼营法",
-    "可能在危机四伏的法",
-    "头子可是超一流的法",
-    "我欠了刀",
-    "播放着经",
-    "李耀恐怕也无法",
-    "正愁回去没法",
-    "每一步",
-    "灵蛇身法",
-    "用力挥了挥拳",
-    "给了他另一段人生经",
-    "要以为自己有一手法",
-    "防御法阵"
-  ],
-  "matched_locked_terms": [
+  "matched_glossary_terms": [
     {
       "source": "法宝坟墓",
       "target": "Nghĩa địa Pháp Bảo"
@@ -110,7 +579,62 @@
     {
       "source": "老爹",
       "target": "Lão cha"
+    },
+    {
+      "source": "老王二手商店",
+      "target": "Cửa hàng đồ cũ Lão Vương"
+    },
+    {
+      "source": "野马GT",
+      "target": "Mustang GT"
+    },
+    {
+      "source": "之江路",
+      "target": "đường Chi Giang"
+    },
+    {
+      "source": "刀疤强",
+      "target": "Đao Cáp Cường"
+    },
+    {
+      "source": "灵蛇身法",
+      "target": "Linh Xà Thân Pháp"
+    },
+    {
+      "source": "地下晶轨三号线",
+      "target": "tuyến tàu ngầm tinh quỹ số 3"
+    },
+    {
+      "source": "炼器师",
+      "target": "luyện khí sư"
     }
   ],
-  "generated_at": "2026-05-30T04:54:35.516734+07:00"
+  "matched_locked_terms": [
+    {
+      "source": "法宝坟墓",
+      "target": "Nghĩa địa Pháp Bảo"
+    },
+    {
+      "source": "浮戈城",
+      "target": "Phù Qua Thành"
+    },
+    {
+      "source": "朝阳新村",
+      "target": "Triêu Dương Tân Thôn"
+    },
+    {
+      "source": "老爹",
+      "target": "Lão cha"
+    },
+    {
+      "source": "炼器师",
+      "target": "luyện khí sư"
+    }
+  ],
+  "structural_hints": {
+    "has_dialogue": true,
+    "has_western_names": false,
+    "estimated_segments": 56
+  },
+  "generated_at": "2026-05-31T08:51:02.063186+07:00"
 }

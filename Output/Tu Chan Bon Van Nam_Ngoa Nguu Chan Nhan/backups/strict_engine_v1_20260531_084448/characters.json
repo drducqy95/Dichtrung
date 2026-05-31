@@ -1,0 +1,1209 @@
+{
+  "metadata": {
+    "version": "2.0",
+    "schema": "gold",
+    "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+    "last_updated": "2026-05-31T03:26:01.153185+07:00",
+    "total_characters": 30
+  },
+  "characters": [
+    {
+      "id": "protagonist_ly_dieu",
+      "name_source": "李耀",
+      "name_target": "Lý Diệu",
+      "name_aliases": [
+        "Thốc Thứu",
+        "Kền Kền",
+        "Âu Dã Minh"
+      ],
+      "gender": "male",
+      "age_group": "teenager",
+      "social_status": "Học sinh lớp thường / Thợ nhặt rác",
+      "base_archetype": "protagonist",
+      "speech_style": "Thẳng thắn, thực tế, hơi ngông cuồng của thiếu niên nhưng có suy nghĩ thấu đáo và kiên định.",
+      "first_appearance": {
+        "chapter": 1,
+        "context": "Xuất hiện nhặt rác tại Nghĩa địa Pháp Bảo"
+      },
+      "cultivation": {
+        "primary_system": "Linh căn khai phát / Cơ khí tu chân",
+        "current_realm": "Người thường (Linh căn khai phát 35%)",
+        "current_sub_stage": "",
+        "notes": "Linh căn khai phát ban đầu chỉ có 35% nhưng có tiềm năng tinh thần lực cực cao nhờ dị mộng."
+      },
+      "abilities": [
+        "Kỹ năng đua xe Trái Đất",
+        "Chế tạo cơ khí thủ công",
+        "Sửa chữa pháp bảo phế thải",
+        "Linh Xà Thân Pháp"
+      ],
+      "faction": {
+        "current": {
+          "name": "Xích Tiêu Nhị Trung",
+          "role": "Học sinh lớp thường"
+        },
+        "history": [
+          {
+            "name": "Trái Đất (kiếp trước)",
+            "role": "Tay đua xe chuyên nghiệp"
+          }
+        ]
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Thiếu niên 17 tuổi gầy gò, khỏe khoắn, da ngăm đen do dầm mưa dãi nắng ở nghĩa địa pháp bảo, đôi mắt sáng ngời sắc bén như chim ưng.",
+        "style": "Đồ lao động cũ kỹ bám đầy dầu mỡ, sau đó mặc đồng phục Xích Tiêu Nhị Trung.",
+        "distinctive": "Lòng bàn tay có nhiều vết chai sạn do sửa chữa cơ khí và vung búa rèn."
+      },
+      "personality": {
+        "traits": [
+          "Kiên trì",
+          "Thực tế",
+          "Thích tiền",
+          "Bền bỉ",
+          "Mưu mẹo"
+        ],
+        "speech": "Dứt khoát, thường xưng 'tôi' hoặc 'ta' tùy ngữ cảnh."
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "肥龙",
+      "name_target": "Phì Long",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Một thiếu niên mập mạp nhặt rác pháp bảo, đối thủ cạnh tranh thường xuyên của Lý Diệu tại nghĩa địa pháp bảo.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "天星子",
+      "name_target": "Thiên Tinh Tử",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Nhà bình luận chứng khoán nổi tiếng trên kênh tài chính quang mạc.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "陆音希",
+      "name_target": "Lục Âm Hi",
+      "name_aliases": [],
+      "gender": "female",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Nữ ca sĩ thần tượng xuất thân mồ côi, có ca khúc 'Tu Chân 40000 Năm' truyền cảm hứng mạnh mẽ cho giới trẻ.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "老爹",
+      "name_target": "Lão cha",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Cha nuôi của Lý Diệu, một cao thủ cải tạo pháp bảo ẩn cư, đã qua đời một năm trước.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "npc_lao_vuong",
+      "name_source": "老王",
+      "name_target": "Lão Vương",
+      "name_aliases": [
+        "Chủ tiệm đồ cũ Lão Vương"
+      ],
+      "gender": "male",
+      "age_group": "elderly",
+      "social_status": "Chủ cửa hàng đồ cũ / Đại sư luyện khí ẩn dật",
+      "base_archetype": "mentor",
+      "speech_style": "Hiền hậu, khuyên răn từ tốn nhưng đầy sắc sảo của người từng trải.",
+      "first_appearance": {
+        "chapter": 3,
+        "context": "Lý Diệu đến bán quang mạc nghi cải tiến tại cửa hàng đồ cũ"
+      },
+      "cultivation": {
+        "primary_system": "Luyện khí thuật ẩn dật",
+        "current_realm": "Ẩn giấu thực lực (Có khả năng là Luyện Khí Kỳ cao cấp hoặc Trúc Cơ)",
+        "current_sub_stage": "",
+        "notes": "Luôn khuyên Lý Diệu tập trung thi cử thay vì chỉ nhặt rác."
+      },
+      "abilities": [
+        "Kinh nghiệm tu chân phong phú",
+        "Đánh giá bảo vật",
+        "Chế tạo pháp bảo"
+      ],
+      "faction": {
+        "current": {
+          "name": "Cửa hàng đồ cũ Lão Vương",
+          "role": "Chủ tiệm"
+        },
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Chủ cửa hàng đồ cũ Lão Vương, cựu đại sư cải tạo pháp bảo ẩn dật, đối xử rất tốt và thường xuyên giúp đỡ Lý Diệu.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "刀疤强",
+      "name_target": "Đao Cáp Cường",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Một tay giang hồ đòi nợ thuê xuất hiện trong dị mộng về kiếp trước của Lý Diệu.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "ally_banh_hai",
+      "name_source": "彭海",
+      "name_target": "Bành Hải",
+      "name_aliases": [
+        "Yêu Đao"
+      ],
+      "gender": "male",
+      "age_group": "young_adult",
+      "social_status": "Cực phẩm tu chân giả / Đặc huấn viên",
+      "base_archetype": "mentor",
+      "speech_style": "Lạnh lùng, khí phách, uy nghiêm nhưng quan tâm đến việc bồi dưỡng thế hệ trẻ.",
+      "first_appearance": {
+        "chapter": 2,
+        "context": "Xuất hiện trên bản tin quang mạc, sau đó đến trường đặc huấn ch.4"
+      },
+      "cultivation": {
+        "primary_system": "Kiếm tu / Linh năng",
+        "current_realm": "Trúc Cơ Kỳ (Đỉnh phong)",
+        "current_sub_stage": "",
+        "notes": "Được coi là huyền thoại sống, cựu học sinh xuất sắc của Xích Tiêu Nhị Trung."
+      },
+      "abilities": [
+        "Yêu Đao Kiếm Pháp",
+        "Ngự kiếm phi hành"
+      ],
+      "faction": {
+        "current": {
+          "name": "Xích Tiêu Phái",
+          "role": "Chiến binh nòng cốt"
+        },
+        "history": [
+          {
+            "name": "Xích Tiêu Nhị Trung",
+            "role": "Học sinh lớp trọng điểm"
+          }
+        ]
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Thân hình cao lớn, thẳng tắp như một thanh kiếm báu, tỏa ra ánh mắt sắc bén lẫm liệt.",
+        "style": "Y phục chiến đấu gọn gàng, mang theo bội đao khí thế bức người.",
+        "distinctive": "Khí tràng lạnh lùng sắc bén bao quanh cơ thể."
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "赵树德",
+      "name_target": "Triệu Thụ Đức",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Hiệu trưởng trường Xích Tiêu Nhị Trung, đệ tử cốt lõi của Xích Tiêu Phái, tu vi Luyện Khí Kỳ cao giai, học sinh hay gọi lén là 'Triệu đầu hói'.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "ally_manh_giang",
+      "name_source": "孟江",
+      "name_target": "Mạnh Giang",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "teenager",
+      "social_status": "Học sinh lớp thường",
+      "base_archetype": "ally",
+      "speech_style": "Nhát gan nhưng chân thành, lo lắng cho bạn bè.",
+      "first_appearance": {
+        "chapter": 4,
+        "context": "Ngồi cạnh Lý Diệu nói chuyện về Bành Hải"
+      },
+      "cultivation": {
+        "primary_system": "Linh năng",
+        "current_realm": "Người thường (Linh căn khai phát thấp hơn 30%)",
+        "current_sub_stage": "",
+        "notes": "Là bạn thân tốt bụng của Lý Diệu ở lớp thường."
+      },
+      "abilities": [
+        "Lý thuyết tu chân cơ bản"
+      ],
+      "faction": {
+        "current": {
+          "name": "Xích Tiêu Nhị Trung",
+          "role": "Học sinh lớp thường"
+        },
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Bạn học thân thiết của Lý Diệu thuộc lớp thường tại trường Xích Tiêu Nhị Trung.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "黑面神",
+      "name_target": "Hắc Diện Thần",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Biệt danh của thầy giám thị / chủ nhiệm huấn đạo hung dữ tại trường Xích Tiêu Nhị Trung.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "肖明",
+      "name_target": "Tiêu Minh",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Nhân vật giả lập trong câu hỏi của đề thi thử môn toán học tổng hợp.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "帝皇",
+      "name_target": "Đế Hoàng",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Vị thủ lĩnh tối cao huyền thoại dẫn dắt nhân loại lật đổ ách thống trị của Yêu tộc ở cuối Đại Hắc Ám Thời Đại.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "npc_tieu_giai_tuyet",
+      "name_source": "司佳雪",
+      "name_target": "Tiêu Giai Tuyết",
+      "name_aliases": [
+        "Nữ thần Nhị Trung"
+      ],
+      "gender": "female",
+      "age_group": "teenager",
+      "social_status": "Học sinh lớp trọng điểm / Đại tiểu thư",
+      "base_archetype": "quest_giver",
+      "speech_style": "Kiêu kỳ, lịch thiệp nhưng ẩn chứa sự xa cách của giới thượng lưu.",
+      "first_appearance": {
+        "chapter": 7,
+        "context": "Đạt đồng hạng nhất khối thi thử và gặp Lý Diệu ở nhà kho cũ"
+      },
+      "cultivation": {
+        "primary_system": "Linh năng",
+        "current_realm": "Bán Tu Chân Giả (Linh căn khai phát 71%)",
+        "current_sub_stage": "",
+        "notes": "Gia thế hiển hách, có tài nguyên tu luyện phong phú."
+      },
+      "abilities": [
+        "Luyện khí thuật cơ bản",
+        "Tinh não Quảng Lăng số 7"
+      ],
+      "faction": {
+        "current": {
+          "name": "Xích Tiêu Nhị Trung",
+          "role": "Học sinh lớp trọng điểm (Đồng hạng nhất)"
+        },
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Xinh đẹp như hoa, làn da trắng ngần, phong thái thanh tao quý phái.",
+        "style": "Đồng phục nữ sinh tinh xảo của lớp trọng điểm, trang sức đắt tiền.",
+        "distinctive": "Luôn toát ra vẻ tự tin của con nhà tông môn."
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "rival_hach_lien_liet",
+      "name_source": "赫连烈",
+      "name_target": "Hách Liên Liệt",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "teenager",
+      "social_status": "Thiếu gia phiệt phiệt / Học sinh lớp trọng điểm",
+      "base_archetype": "rival",
+      "speech_style": "Kiêu ngạo, hống hách, hay đe dọa kẻ yếu.",
+      "first_appearance": {
+        "chapter": 7,
+        "context": "Đứng hạng nhất khối thi thử cùng Tiêu Giai Tuyết, ch.9 chặn đường Lý Diệu"
+      },
+      "cultivation": {
+        "primary_system": "Linh năng / Thể tu",
+        "current_realm": "Bán Tu Chân Giả (Linh căn khai phát 72%)",
+        "current_sub_stage": "",
+        "notes": "Có quan hệ thanh mai trúc mã với Tiêu Giai Tuyết và thù ghét Lý Diệu."
+      },
+      "abilities": [
+        "Thiết Quyền Công",
+        "Chiến đấu giáp lá cà"
+      ],
+      "faction": {
+        "current": {
+          "name": "Xích Tiêu Nhị Trung",
+          "role": "Học sinh lớp trọng điểm (Hạng nhất khối)"
+        },
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Thân hình cao to vạm vỡ, mặt mũi góc cạnh nhưng mang vẻ tàn nhẫn độc đoán.",
+        "style": "Trang phục chiến đấu cao cấp, giày bay đắt tiền.",
+        "distinctive": "Ánh mắt khinh khỉnh, luôn nhìn người khác bằng nửa con mắt."
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "老者",
+      "name_target": "Lão giả",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Một ông lão tóc bạc bí ẩn mặc cổ phục thô sơ, mang khí tức mạnh mẽ kinh người xuất hiện trên cầu tinh quỹ.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "欧冶明",
+      "name_target": "Âu Dã Minh",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Thân phận của Lý Diệu trong giấc mơ cổ đại, là một đệ tử tạp dịch cấp thấp của Bách Luyện Tông có hoài bão lớn.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "巨灵神",
+      "name_target": "Cự Linh Thần",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Chấp sự quản lý tạp dịch cấp thấp có tính cách hung bạo và thân hình khổng lồ tại Bách Luyện Tông.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "鱼肠道人",
+      "name_target": "Ngư Trường đạo nhân",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Trưởng lão của Bách Luyện Tông, sư phụ truyền dạy pháp thuật cho Âu Dã Minh.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "太阿上人",
+      "name_target": "Thái A thượng nhân",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Tông chủ đời thứ 35 của Bách Luyện Tông, nhạc phụ của Âu Dã Minh.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "毒龙真君",
+      "name_target": "Độc Long chân nhân",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Ma đạo cự kiêu bị Âu Dã Minh trảm sát bằng bí kiếm Thâm Thiểm.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "郑东明",
+      "name_target": "Trịnh Đông Minh",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "young",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": "Trường trung học phổ thông trực thuộc số hai Phụng Sơn Môn",
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Đích tôn đời thứ ba của nhà họ Trịnh, độ khai phát linh căn 74%, là học sinh ưu tú và ứng cử viên Thủ khoa, có bối cảnh mạnh mẽ và thực lực cao hơn Hách Liên Liệt. Có bọng mắt sưng tấy và đôi mắt như mắt mèo.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "赵馆长",
+      "name_target": "Triệu quán chủ",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "middle_aged",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": "Quân Đạo Sát Lang",
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Thường gọi là \"Lão giáo quan\", trạc độ 40-50 tuổi, cựu chiến binh của Đoàn Sói. Từng đạt Luyện Khí Kỳ tầng 13 nhưng bị mất cánh tay trái và vỡ tim 70% trong Chiến dịch Hắc Nhẫn để cứu Bành Hải, hiện dùng cánh tay máy linh năng và điều hành võ quán.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "魏铁",
+      "name_target": "Ngụy Thiết",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Học sinh lớp song hành trường Xích Tiêu Nhị Trung, có biệt danh Thiết Thú. Thân hình cao to lực lưỡng, tính cách hung bạo, chuyên đi bắt nạt người khác.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "赵亮",
+      "name_target": "Triệu Lượng",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Học sinh lớp trọng điểm trường Xích Tiêu Nhị Trung, xếp thứ 41 trong lớp. Có đôi chân rất dài, võ công khá tốt, là tay chân phục vụ cho Hách Liên Liệt.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "老孙头",
+      "name_target": "lão Tôn",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Lão giả gầy yếu làm việc trông coi kho hậu cần thiết bị của trường Xích Tiêu Nhị Trung.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "孙彪",
+      "name_target": "Tôn Bưu",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Cựu giáo viên võ kỹ ngoài 150 tuổi của trường Xích Tiêu Nhị Trung, hiện đang làm thủ kho thiết bị. Là người đã phát hiện và đặc cách chiêu mộ Bành Hải từ khu ổ chuột.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "赫连霸",
+      "name_target": "Hách Liên Bá",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Cha của Hách Liên Liệt, một cổ đông của trường Xích Tiêu Nhị Trung, là một tu chân giả to lớn như tháp sắt, tính tình vô cùng hung tàn nghiêm khắc, tôn sùng triết lý dùng toàn lực diệt địch và tuân thủ các quy tắc ngầm trong giới tu chân.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "周隐",
+      "name_target": "Chu Ẩn",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Trưởng lão phụ trách bồi dưỡng tân nhân của Xích Tiêu Phái, tu chân giả Trúc Cơ Kỳ, nho nhã phong độ.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "纳兰英",
+      "name_target": "Nạp Lan Anh",
+      "name_aliases": [],
+      "gender": "female",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Học sinh xếp thứ hai mươi mốt của lớp trọng điểm trường Xích Tiêu Nhị Trung, độ khai phát linh căn 65%, tham gia giải đấu và may mắn giành được một thẻ dự thi.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    }
+  ]
+}

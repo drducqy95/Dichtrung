@@ -1,1157 +1,1375 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
   "chapter": 31,
+  "chapter_id": "chapter_0031",
+  "source_manifest_hash": "22b53de73bb6569838bd4468f57b79916d2605434dfb35de8d2e01de354edd18",
   "aligned_segments": [
     {
-      "seg_id": "seg_0001",
+      "alignment_id": "chapter_0031:align_0001",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0001"
+      ],
       "source": "# 31.第31章 我不是咸鱼！",
+      "source_hash": "019a1c95a3e146bdebb8ba3745021c9864629c2d7df4c8190e00d7fe8e066ab2",
+      "target": "# Chương 0031 - Tớ Không Phải Là Cá Muối!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0031:align_0002",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0002",
+        "chapter_0031:seg_0003"
+      ],
+      "source": "李耀心底暗叫一声“糟糕”，心说自己怎么能把四万年前古修宗门的残酷试炼拿出来当标准？\n\n要知道，在南柯一梦中，百炼宗每年都有数百名杂役因为承受不住折磨而命丧黄泉。",
+      "source_hash": "668537481ab2d8eb1331d65ce728453c1dd9a2043ce958bdc10aed806afd1725",
       "target": "Lý Diệu trong lòng thầm kêu lên một tiếng \"hỏng bét\", tự trách sao bản thân lại có thể lấy tiêu chuẩn thử thách tàn khốc của tông môn cổ tu bốn vạn năm trước ra làm thước đo cơ chứ?",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0002",
-      "source": "李耀心底暗叫一声“糟糕”，心说自己怎么能把四万年前古修宗门的残酷试炼拿出来当标准？",
-      "target": "Phải biết rằng, ở trong giấc mộng Nam Kha, Bách Luyện Tông mỗi năm đều có hàng trăm tạp dịch bỏ mạng vì không chịu nổi sự dày vò hành hạ.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0003",
-      "source": "要知道，在南柯一梦中，百炼宗每年都有数百名杂役因为承受不住折磨而命丧黄泉。",
-      "target": "Như thế vẫn là Bách Luyện Tông đã được coi như tương đối khoan hậu nhân từ trong các danh môn chính phái rồi, nếu đổi lại là những tông phái nghiêm ngặt hơn, mỗi năm chết vài ngàn môn nhân cũng chẳng tính là gì.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0004",
+      "alignment_id": "chapter_0031:align_0003",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0004"
+      ],
       "source": "就这样，百炼宗已经算是名门正派里比较宽厚仁慈的了，换了严苛一些的宗派，每年死上几千个门人，根本都不叫事儿。",
+      "source_hash": "e9799292464f78a9fb182a8e9f53824fe2e1455fdf16f60e57799fee4930043a",
+      "target": "Phải biết rằng, ở trong giấc mộng Nam Kha, Bách Luyện Tông mỗi năm đều có hàng trăm tạp dịch bỏ mạng vì không chịu nổi sự dày vò hành hạ.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0031:align_0004",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0005",
+        "chapter_0031:seg_0006",
+        "chapter_0031:seg_0007"
+      ],
+      "source": "至于魔门，更不用说，每一名强者的诞生，都伴随着数万弱者的牺牲。\n\n古修时代，就是这么残忍。\n\n“呃，孙老师，我又仔细看了一下，你这套地狱式死亡特训果然非常地狱，非常死亡，非常恐怖啊，我好怕自己无法完成！”李耀言不由衷地说。",
+      "source_hash": "55bf4559b68efba1c7257f670f9b8590aede6f4f7206bbb9b7abab1f6ce61102",
+      "target": "Như thế vẫn là Bách Luyện Tông đã được coi như tương đối khoan hậu nhân từ trong các danh môn chính phái rồi, nếu đổi lại là những tông phái nghiêm ngặt hơn, mỗi năm chết vài ngàn môn nhân cũng chẳng tính là gì.",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
+    },
+    {
+      "alignment_id": "chapter_0031:align_0005",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0008"
+      ],
+      "source": "孙彪人老成精，哪里会看不出李耀是在敷衍自己，心底勃然大怒，冷笑道：“好小子，别急着说大话，换上练功服，先做十组深蹲试试看？”",
+      "source_hash": "c930d3c52e3257438fb73cf35f258e0d918b89020b3e593e0969644a7dd14b7b",
       "target": "Còn về Ma môn thì càng không cần phải nói, sự ra đời của mỗi một cường giả đều đi kèm với sự hy sinh của hàng vạn kẻ yếu.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0005",
-      "source": "至于魔门，更不用说，每一名强者的诞生，都伴随着数万弱者的牺牲。",
-      "target": "Thời đại cổ tu chính là tàn nhẫn như vậy.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0006",
-      "source": "古修时代，就是这么残忍。",
-      "target": "\"Hơ, thầy Tôn, cháu vừa mới xem kỹ lại, bộ huấn luyện đặc biệt kiểu địa ngục tử vong này của thầy quả nhiên vô cùng địa ngục, vô cùng tử vong, vô cùng đáng sợ ạ, cháu rất sợ mình không hoàn thành được!\" Lý Diệu mở miệng nói một cách trái với lòng mình.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0007",
-      "source": "“呃，孙老师，我又仔细看了一下，你这套地狱式死亡特训果然非常地狱，非常死亡，非常恐怖啊，我好怕自己无法完成！",
-      "target": "Tôn Bưu gừng càng già càng cay, làm sao không nhìn ra Lý Diệu đang có ý lấy lệ với mình. Ông lão lập tức giận tím mặt, cười lạnh bảo: \"Nhóc con khá lắm, đừng vội nói khoác, thay đồ luyện công vào, trước hết làm mười tổ gánh tạ sâu thử xem?\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0008",
-      "source": "”李耀言不由衷地说。",
-      "target": "Tôn Bưu đứng dậy, từ trong góc bãi tập phủ đầy bụi bặm mò ra một bộ quần áo luyện công có kiểu dáng vô cùng lỗi thời rồi quăng về phía Lý Diệu.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0009",
-      "source": "孙彪人老成精，哪里会看不出李耀是在敷衍自己，心底勃然大怒，冷笑道：“好小子，别急着说大话，换上练功服，先做十组深蹲试试看？",
-      "target": "\"Gánh tạ sâu? Cháu thích môn này đấy!\" Lý Diệu khởi động cơ thể, cởi bỏ bộ đồng phục học sinh rồi tròng bộ đồ luyện công cũ kỹ nồng nặc mùi bụi bặm vào, hai mắt sáng lên cười hì hì nói.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0010",
-      "source": "”",
-      "target": "Hiện giờ sức khỏe của cậu mạnh đến mức kinh người, thứ cậu không sợ nhất chính là các bài tập luyện thể lực kiểu gánh tạ sâu hay đẩy ngực nằm. Lát nữa cậu sẽ dốc hết toàn lực làm cho lão già này trợn tròn mắt ra xem!",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0011",
+      "alignment_id": "chapter_0031:align_0006",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0009"
+      ],
       "source": "孙彪站起身，从修炼场的角落里积满灰尘的地方，摸出一套款式十分老旧的修炼服，朝李耀丢过来。",
-      "target": "Đi tới trước giá gánh tạ sâu rỉ sét loang lổ, cậu ngẫm nghĩ một chút rồi lôi thêm hai tấm tạ đòn từ trong đống tạ gần như đã rỉ thành một khối ra lắp mạnh vào thanh đòn.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "source_hash": "f1abd731a95496996f8607917f2c9f5b8c6477aa349376680bcd89ea31582a0c",
+      "target": "Thời đại cổ tu chính là tàn nhẫn như vậy.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0012",
-      "source": "“深蹲？",
-      "target": "Trọng lượng gánh tạ sâu — ba trăm kg!",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "alignment_id": "chapter_0031:align_0007",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0010",
+        "chapter_0031:seg_0011",
+        "chapter_0031:seg_0012"
+      ],
+      "source": "“深蹲？我喜欢！”李耀活动了一下身体，脱下校服，换上了满是尘土气息的老旧修炼服，眼中放光，笑嘻嘻地说。\n\n他现在怪力惊人，最不怕的就是深蹲、卧推之类的力量训练，待会儿全力以赴，一定叫老头子看得眼珠都凸出来！。\n\n走到锈迹斑斑的深蹲架前，想了想，从几乎锈成一团的杠铃片里，又拽出两片，狠狠砸进杠杆。",
+      "source_hash": "788f39701aa84c8e45f58db67c8db215b2209806400f15f6209bc469cfa68349",
+      "target": "\"Hơ, thầy Tôn, cháu vừa mới xem kỹ lại, bộ huấn luyện đặc biệt kiểu địa ngục tử vong này của thầy quả nhiên vô cùng địa ngục, vô cùng tử vong, vô cùng đáng sợ ạ, cháu rất sợ mình không hoàn thành được!\" Lý Diệu mở miệng nói một cách trái với lòng mình.",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0013",
-      "source": "我喜欢！",
-      "target": "\"Hai trăm kg thì ít quá, căn bản không có tác dụng tập luyện gì cả. Bình thường cháu toàn dùng ba trăm kg để khởi động thôi, không sao chứ hả thầy Tôn?\" Lý Diệu cười với ông lão, để lộ hàm răng trắng muốt.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "alignment_id": "chapter_0031:align_0008",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0013",
+        "chapter_0031:seg_0014",
+        "chapter_0031:seg_0015"
+      ],
+      "source": "深蹲重量——三百公斤！\n\n“两百公斤实在太少，根本起不到锻炼的作用，我平时都习惯用三百先热热身的，没关系吧，孙老师？”李耀冲着老头微微一笑，露出雪白的牙齿。\n\n“当然可以，不过我怕你等会后悔啊。”孙彪也是一笑，露出黄褐色的牙齿。",
+      "source_hash": "171fe4bcd4d0a84341e22885d11a14bee64ae97464c871f958f29ec319e4ffa2",
+      "target": "Tôn Bưu gừng càng già càng cay, làm sao không nhìn ra Lý Diệu đang có ý lấy lệ với mình. Ông lão lập tức giận tím mặt, cười lạnh bảo: \"Nhóc con khá lắm, đừng vội nói khoác, thay đồ luyện công vào, trước hết làm mười tổ gánh tạ sâu thử xem?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0014",
-      "source": "”李耀活动了一下身体，脱下校服，换上了满是尘土气息的老旧修炼服，眼中放光，笑嘻嘻地说。",
-      "target": "\"Được chứ, nhưng ta chỉ sợ lát nữa ngươi hối hận thôi.\" Tôn Bưu cũng nở nụ cười, để lộ hàm răng màu vàng nâu.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "alignment_id": "chapter_0031:align_0009",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0016"
+      ],
+      "source": "“只不过三百公斤，二十组都能一口气做下来，有什么可后悔的？”李耀冲掌心啐了一口唾沫，双掌摩擦，热得发烫，死死攥住杠杆，扛在坚实的背肌上，双足骤然发力，往上一提，然后——",
+      "source_hash": "ee8f292be224babb9302b657bf52ecb5d52145ced7d47d907925b5f53967fc3a",
+      "target": "Tôn Bưu đứng dậy, từ trong góc bãi tập phủ đầy bụi bặm mò ra một bộ quần áo luyện công có kiểu dáng vô cùng lỗi thời rồi quăng về phía Lý Diệu.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0015",
-      "source": "他现在怪力惊人，最不怕的就是深蹲、卧推之类的力量训练，待会儿全力以赴，一定叫老头子看得眼珠都凸出来！",
-      "target": "\"Chỉ có ba trăm kg thôi mà, có làm hai mươi tổ cháu cũng có thể làm một mạch được, có gì mà hối hận?\" Lý Diệu nhổ một bãi nước bọt vào lòng bàn tay, hai tay chà xát vào nhau nóng bừng bừng. Cậu nắm chặt thanh đòn đặt lên cơ vai săn chắc của mình, hai chân đột ngột phát lực nâng mạnh lên, thế rồi —",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "alignment_id": "chapter_0031:align_0010",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0017",
+        "chapter_0031:seg_0018"
+      ],
+      "source": "就感觉浑身一紧，原本宽松的练功服好似拥有生命，骤然收缩，化作一层坚韧的牛皮，把他完全裹住！\n\n与此同时，一股绝强怪力骤然轰落，好似一座大山劈头盖脑砸了下来，一下子把他砸趴下！",
+      "source_hash": "520ea8f0ee3123f20b446002ff51a178671e6ea6cdec33cc99d44446e78ae83a",
+      "target": "\"Gánh tạ sâu? Cháu thích môn này đấy!\" Lý Diệu khởi động cơ thể, cởi bỏ bộ đồng phục học sinh rồi tròng bộ đồ luyện công cũ kỹ nồng nặc mùi bụi bặm vào, hai mắt sáng lên cười hì hì nói.",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0016",
-      "source": "。",
-      "target": "Cậu bỗng thấy toàn thân thắt chặt lại. Bộ đồ luyện công vốn dĩ rộng rãi bỗng nhiên như thể có sự sống, đột ngột co rút biến thành một lớp da bò dẻo dai bó chặt lấy toàn thân cậu!",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "alignment_id": "chapter_0031:align_0011",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0019"
+      ],
+      "source": "“忘记告诉你了，小家伙，这件修炼服是我在十几年前专门炼制的法宝，叫做‘放弃’，拥有诸多神通，第一呢，就是能产生重力场，你穿上这件衣服，就好像穿上了一件几百斤重的铠甲，我看看，现在你身上的负重，有两百公斤！”孙彪狞笑道。",
+      "source_hash": "8f0eb0cd852dce1fc62ae4489cc5578429a57671e3685930507dcd99829cf2ca",
+      "target": "Hiện giờ sức khỏe của cậu mạnh đến mức kinh người, thứ cậu không sợ nhất chính là các bài tập luyện thể lực kiểu gánh tạ sâu hay đẩy ngực nằm. Lát nữa cậu sẽ dốc hết toàn lực làm cho lão già này trợn tròn mắt ra xem!",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0017",
-      "source": "走到锈迹斑斑的深蹲架前，想了想，从几乎锈成一团的杠铃片里，又拽出两片，狠狠砸进杠杆。",
-      "target": "Cùng lúc đó, một luồng quái lực cực mạnh bất ngờ giáng xuống tựa như một ngọn núi lớn đập thẳng vào đầu cậu, ngay lập tức đè cậu nằm bẹp xuống đất!",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0018",
-      "source": "深蹲重量——三百公斤！",
-      "target": "\"Quên chưa nói với ngươi, nhóc con. Bộ đồ luyện công này là pháp bảo ta đặc biệt chế luyện từ mười mấy năm trước, tên là 'Từ Bỏ', sở hữu nhiều thần thông. Thứ nhất là có thể tạo ra trọng lực trường. Ngươi mặc bộ đồ này vào giống như đang khoác trên mình một bộ giáp sắt nặng mấy trăm cân vậy. Để ta xem nào, hiện giờ trọng lượng đè nặng trên người ngươi là hai trăm kg!\" Tôn Bưu cười tợn.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0019",
-      "source": "“两百公斤实在太少，根本起不到锻炼的作用，我平时都习惯用三百先热热身的，没关系吧，孙老师？",
-      "target": "Hai trăm kg trọng lượng đè nặng của bộ giáp cộng thêm ba trăm kg tạ đòn, tổng cộng là tròn nửa tấn. Lý Diệu bất ngờ không kịp chuẩn bị nên đương nhiên bị đè chặt cứng xuống đất.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0020",
-      "source": "”李耀冲着老头微微一笑，露出雪白的牙齿。",
-      "target": "\"Hèn hạ thật, nhưng mà năm... năm trăm kg cũng chẳng có gì ghê gớm cả!\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0021",
-      "source": "“当然可以，不过我怕你等会后悔啊。",
-      "target": "Lý Diệu bị đè đến mức nổ đom đóm mắt. Cậu cắn chặt răng, hai tay chống đỡ kiên cường, những đường gân xanh nổi lên cuồn cuộn như rắn bò trên cánh tay, xương cốt toàn thân kêu \"răng rắc\" liên hồi. Cậu gồng mình đứng thẳng lưng dậy, nắm chặt tạ đòn, hai chân mở rộng, hạ hông xuống rồi đứng lên vô cùng vững vàng. Một động tác gánh tạ sâu chuẩn mực đã hoàn thành! Tổng trọng lượng đè nặng: năm trăm kg!",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0022",
-      "source": "”孙彪也是一笑，露出黄褐色的牙齿。",
-      "target": "\"Trong giấc mộng Nam Kha, mình từng bị 'Cự Linh Thần' hành hạ suốt mấy chục năm. Chiêu trò của lão già chết tiệt này còn kém xa cả trăm lần so với vị kia. Muốn làm khó mình bằng cách này sao, đúng là mơ mộng hão huyền!\" Lý Diệu gầm thét trong lòng, cậu lại hạ người xuống chuẩn bị thực hiện lần gánh tạ thứ hai.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0023",
-      "source": "“只不过三百公斤，二十组都能一口气做下来，有什么可后悔的？",
-      "target": "Bỗng nhiên, giống như có một luồng sét đánh thẳng vào linh hồn, Lý Diệu cảm thấy cả bảy trăm hai mươi huyệt khiếu trên toàn thân đồng thời bị truyền vào một luồng điện cực mạnh. Luồng điện giật khiến tóc cậu dựng đứng cả lên, hai mắt trợn trắng, hét thảm một tiếng rồi ngã nhào ra đất. Thanh tạ đòn đập mạnh lên giá đỡ phát ra tiếng \"boong boong\", rỉ sắt bắn tung tóe, bụi đất mù mịt.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0024",
-      "source": "”李耀冲掌心啐了一口唾沫，双掌摩擦，热得发烫，死死攥住杠杆，扛在坚实的背肌上，双足骤然发力，往上一提，然后——",
-      "target": "\"Thần thông thứ hai của bộ đồ 'Từ Bỏ' này là phóng ra dòng điện cực mạnh. Ngắn thì ba đến năm giây một lần, dài thì một đến hai phút một lần, kích thẳng vào các huyệt khiếu trên người ngươi để kích thích tế bào tăng cường lực lượng, giúp ngươi tẩy tủy phạt cốt, thoát thai hoán cốt. Chậc chậc chậc chậc, đây chính là bảo vật tu luyện mà người thường có mơ cũng không được đấy, có điều sẽ có chút 'đau đớn nho nhỏ'. Ngươi vẫn chịu đựng được chứ?\" Tôn Bưu tiếp tục cười híp mắt hỏi.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0025",
-      "source": "就感觉浑身一紧，原本宽松的练功服好似拥有生命，骤然收缩，化作一层坚韧的牛皮，把他完全裹住！",
-      "target": "\"Đùa... Đùa gì thế, dĩ... Dĩ nhiên chịu được!\" Lý Diệu cắn rách cả môi, nằm rạp trên mặt đất thở hổn hển hồi lâu mới chật vật bò dậy, tay phải run lẩy bẩy mò về phía thanh tạ đòn.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0026",
-      "source": "与此同时，一股绝强怪力骤然轰落，好似一座大山劈头盖脑砸了下来，一下子把他砸趴下！",
-      "target": "Đầu ngón tay còn chưa chạm tới thanh đòn, một cơn đau đớn dữ dội mãnh liệt lại ập đến. Lần này không phải dòng điện kích thích mà là cái nóng cực độ!",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0027",
-      "source": "“忘记告诉你了，小家伙，这件修炼服是我在十几年前专门炼制的法宝，叫做‘放弃’，拥有诸多神通，第一呢，就是能产生重力场，你穿上这件衣服，就好像穿上了一件几百斤重的铠甲，我看看，现在你身上的负重，有两百公斤！",
-      "target": "Cảm giác giống như cả người bị ném vào miệng núi lửa, giãy giụa trong dòng nham thạch nóng bỏng tột cùng, da thịt đều bị thiêu cháy rữa, trong huyết quản chảy xiết là nước sắt sôi sùng sục! Nhưng ngay giây tiếp theo, cảm giác nóng bức lập tức biến mất, thay vào đó là cái lạnh thấu xương tủy, dường như đến cả não bộ cũng bị đóng băng thành một khối đá, hoàn toàn không thể thở nổi hay suy nghĩ gì được nữa!",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0028",
-      "source": "”孙彪狞笑道。",
-      "target": "Cực nóng và cực lạnh lặp đi lặp lại luân phiên ba lần mới dần dần biến mất. Chưa đợi Lý Diệu kịp thốt lên tiếng kêu thảm thiết, dòng điện lại một lần nữa oanh kích thẳng vào các huyệt khiếu, xé rách cơ thể khiến cậu không thể kiềm chế được mà co giật liên hồi!",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0029",
+      "alignment_id": "chapter_0031:align_0012",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0020"
+      ],
       "source": "两百公斤重量，加上杠铃本身的三百公斤，就是足足半吨，李耀猝不及防之下，当然是被压得死死的。",
-      "target": "\"Thần thông cuối cùng của bộ đồ 'Từ Bỏ' này là cứ cách một phút sẽ tạo ra đòn tấn công ảo giác cực nóng và cực lạnh. Yên tâm đi, đây là bí pháp tinh thần nhắm vào tận sâu trong não bộ, tất cả đều là ảo ảnh, không gây ra bất kỳ tổn thương nào cho cơ thể cả. Trái lại nó còn có thể tôi luyện sức mạnh tinh thần, mở rộng chiều sâu của não bộ. Sau này khi trở thành tu chân giả, ngươi có thể hấp thu được nhiều linh năng hơn, tốc độ tu luyện cũng nhanh hơn người khác rất nhiều.\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "source_hash": "2031b14915a337c7000263f5bd5cc4faf32f9ab544781d078aca3b9e1ea9c463",
+      "target": "Đi tới trước giá gánh tạ sâu rỉ sét loang lổ, cậu ngẫm nghĩ một chút rồi lôi thêm hai tấm tạ đòn từ trong đống tạ gần như đã rỉ thành một khối ra lắp mạnh vào thanh đòn.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0030",
-      "source": "“好卑鄙，不过，五，五百公斤也没什么了不起！",
-      "target": "Trông thấy bộ dạng Lý Diệu đau đớn lăn lộn trên đất, trên mặt ông lão thoáng qua một tia thất vọng, sau đó tự giễu cười một tiếng, ngáp dài uể oải bảo: \"Được rồi, chơi thế đủ rồi, cởi nó ra đi. Bộ đồ này không phải dành cho người thường đâu. Chỉ cần ngươi nói ba chữ 'Cháu từ bỏ' là nó sẽ tự động rời khỏi cơ thể, không hành hạ ngươi nữa.\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "alignment_id": "chapter_0031:align_0013",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0021"
+      ],
+      "source": "“好卑鄙，不过，五，五百公斤也没什么了不起！”",
+      "source_hash": "5981f96b4a2489ee8db725aaac8afceb8ad1f84f00f4dba3aa7bd8570f4038d6",
+      "target": "Trọng lượng gánh tạ sâu — ba trăm kg!",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0031",
-      "source": "”",
-      "target": "\"Từ bỏ?\" Lý Diệu nằm trên đất nửa ngày, thở phì phò như một con cá voi bị mắc cạn trên bờ.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "alignment_id": "chapter_0031:align_0014",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0022",
+        "chapter_0031:seg_0023",
+        "chapter_0031:seg_0024"
+      ],
+      "source": "李耀被压得眼冒金星，他死死咬紧牙关，双手硬撑，手臂上粗壮如蛇的青筋毕露，周身骨骼“咔咔”乱响，硬生生直起腰杆，重新攥住杠铃，双腿分开，腰胯下沉，又稳稳站起。\n\n一个标准的深蹲动作，完成！\n\n总负重，五百公斤！",
+      "source_hash": "1049565d9c043183b5e3be06838bdc35138c666f225bd83dd7c05c6ab4cc2dad",
+      "target": "\"Hai trăm kg thì ít quá, căn bản không có tác dụng tập luyện gì cả. Bình thường cháu toàn dùng ba trăm kg để khởi động thôi, không sao chứ hả thầy Tôn?\" Lý Diệu cười với ông lão, để lộ hàm răng trắng muốt.",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0032",
-      "source": "李耀被压得眼冒金星，他死死咬紧牙关，双手硬撑，手臂上粗壮如蛇的青筋毕露，周身骨骼“咔咔”乱响，硬生生直起腰杆，重新攥住杠铃，双腿分开，腰胯下沉，又稳稳站起。",
-      "target": "Cuối cùng, cậu tựa như một con rối sắt thép rỉ sét, đứng dậy từng chút một. Cậu vô cùng chật vật vác tạ đòn lên vai, cố sống cố chết gánh chịu hai trăm kg trọng lượng đè nặng, dòng điện giật mạnh cùng đòn tấn công ảo ảnh tinh thần cực nóng cực lạnh để hoàn thành lần gánh tạ thứ hai! \"Hai cái rồi!\" Từ sâu trong cổ họng Lý Diệu phát ra tiếng gầm rú như dã thú.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "alignment_id": "chapter_0031:align_0015",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0025"
+      ],
+      "source": "“在南柯一梦中，我可是被‘巨灵神’折磨了好几十年，他的手段可比你这个死老头子更狠辣百倍，这样就想难住我，简直做梦！”李耀心中嘶吼，再度深深蹲下，准备进行第二次深蹲。",
+      "source_hash": "ea2ff816ede548ff1a34a0111356d6362c92bfa738ab6596cd4b6ed6ad8f5251",
+      "target": "\"Được chứ, nhưng ta chỉ sợ lát nữa ngươi hối hận thôi.\" Tôn Bưu cũng nở nụ cười, để lộ hàm răng màu vàng nâu.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0033",
-      "source": "一个标准的深蹲动作，完成！",
-      "target": "Đó chính là tiếng gầm chiến đấu thường xuyên vang vọng nơi sâu thẳm Nghĩa địa Pháp Bảo. Tôn Bưu kinh ngạc \"ồ\" lên một tiếng, đáy mắt thoáng qua một tia ngỡ ngàng, sau đó lạnh lùng cười chế giễu: \"Mới có hai cái thôi mà, một tổ gánh tạ sâu có tới tận mười cái đấy!\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0034",
-      "source": "总负重，五百公斤！",
-      "target": "\"Ba... ba cái!\" Lý Diệu nghiến răng ken két, trong phòng luyện tập trống trải vang lên toàn tiếng va chạm của sắt thép và tiếng ma sát của rỉ sắt! Bốn cái! Năm cái! Sáu cái! Bảy cái! Bảy cái! Tám cái! Chín cái! Mười cái!",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0035",
-      "source": "“在南柯一梦中，我可是被‘巨灵神’折磨了好几十年，他的手段可比你这个死老头子更狠辣百倍，这样就想难住我，简直做梦！",
-      "target": "Tròn mười lần gánh tạ sâu, Lý Diệu mặc bộ đồ luyện công kỳ quái mang tên \"Từ Bỏ\" này, vắt kiệt chút lực lượng cuối cùng để hoàn thành trọn vẹn mười lần gánh tạ sâu với tư thế vô cùng chuẩn mực, không một chút sai lệch!",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0036",
-      "source": "”李耀心中嘶吼，再度深深蹲下，准备进行第二次深蹲。",
-      "target": "\"Mình... mình thành công rồi!\" Lý Diệu đầu váng mắt hoa, hai tai ù đi, máu huyết từng đợt tràn lên não bộ, trái tim đập điên cuồng như muốn rách lồng ngực nhảy ra ngoài. Không thèm thực hiện động tác hồi sức, cậu nằm ngửa bẹp gí ngay dưới giá tạ, đờ đẫn nhìn ánh đèn linh năng chói mắt trên trần nhà, cảm giác bản thân đến cả một ngón tay út cũng không điều khiển nổi nữa.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0037",
+      "alignment_id": "chapter_0031:align_0016",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0026"
+      ],
       "source": "忽然，就像是一道闪电直接劈进灵魂，李耀感觉周身七百二十个穴窍，同时涌入强大电流，电得他头发炸开，眼珠发白，惨叫一声，再次躺倒在地，杠铃重重撞击在深蹲机上，发出“咣当”一声，铁锈乱爆，尘土飞扬。",
-      "target": "Bóng dáng Tôn Bưu xuất hiện trong tầm mắt cậu, trên khuôn mặt không giấu nổi sự kinh ngạc khôn tả. Giọng nói của ông lão có chút run rẩy: \"Nhóc con, ngươi không sao chứ?\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "source_hash": "263b5729c1623c1c9ac0692b9100e99fb0fb8140702c94a0a13eacdf53a3ad17",
+      "target": "Cậu bỗng thấy toàn thân thắt chặt lại. Bộ đồ luyện công vốn dĩ rộng rãi bỗng nhiên như thể có sự sống, đột ngột co rút biến thành một lớp da bò dẻo dai bó chặt lấy toàn thân cậu!",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0038",
-      "source": "“这件‘放弃’的第二种神通呢，就是会释放出强大电流，短则三五秒一次，长则一两分钟一次，轰击你的周身穴窍，刺激你的细胞强化，帮你洗髓伐筋，脱胎换骨，啧啧啧啧，这可是一般人梦寐以求的修炼至宝，只不过会有一点‘小小痛苦’，你还熬得住吧？",
-      "target": "\"Cháu... cháu không sao, nghỉ ngơi một chút, phía sau còn... chín tổ nữa!\" Khóe miệng Lý Diệu nhếch lên, nụ cười còn khó coi hơn cả khóc. Tôn Bưu im lặng hồi lâu rồi lắc đầu bảo: \"Nhóc con, từ bỏ đi. Ta đã nói từ đầu rồi, bộ quần áo này không phải thứ chuẩn bị cho người bình thường. Ngươi không thể mặc nó để hoàn thành mười tổ gánh tạ sâu đâu — phía sau còn tận chín mươi cái nữa đấy! Thôi nào, hãy nói 'Cháu từ bỏ' để cởi áo ra.\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "alignment_id": "chapter_0031:align_0017",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0027",
+        "chapter_0031:seg_0028"
+      ],
+      "source": "“这件‘放弃’的第二种神通呢，就是会释放出强大电流，短则三五秒一次，长则一两分钟一次，轰击你的周身穴窍，刺激你的细胞强化，帮你洗髓伐筋，脱胎换骨，啧啧啧啧，这可是一般人梦寐以求的修炼至宝，只不过会有一点‘小小痛苦’，你还熬得住吧？”孙彪继续笑眯眯地问。\n\n“开，开玩笑，当，当然熬得住！”李耀嘴唇咬得稀烂，趴在地上喘了好半天气，才艰难地爬起来，右手颤颤巍巍，无比艰难地向杠铃摸去。",
+      "source_hash": "7144fa2404843a2fe11bea88bd235d689a8d582e4f667d4a8621a04be9558b44",
+      "target": "Cùng lúc đó, một luồng quái lực cực mạnh bất ngờ giáng xuống tựa như một ngọn núi lớn đập thẳng vào đầu cậu, ngay lập tức đè cậu nằm bẹp xuống đất!\n\nHai trăm kg trọng lượng đè nặng của bộ giáp cộng thêm ba trăm kg tạ đòn, tổng cộng là tròn nửa tấn. Lý Diệu bất ngờ không kịp chuẩn bị nên đương nhiên bị đè chặt cứng xuống đất.",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0039",
-      "source": "”孙彪继续笑眯眯地问。",
-      "target": "Ánh mắt Lý Diệu vượt qua Tôn Bưu, một lần nữa ngước nhìn luồng ánh sáng rực rỡ trên trần nhà. Dưới sự phản chiếu của nước mắt và mồ hôi, luồng sáng đó trở nên vô cùng lộng lẫy chói lọi. Cậu bỗng nhiên hiểu ra tại sao bộ pháp bảo này lại có tên là \"Từ Bỏ\".",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0040",
-      "source": "“开，开玩笑，当，当然熬得住！",
-      "target": "Bởi vì thần thông lớn nhất của nó không phải là tạo ra trọng lực trường mấy trăm cân, cũng không phải dòng điện giật mạnh, càng không phải ảo ảnh tinh thần cực nóng cực lạnh.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0041",
-      "source": "”李耀嘴唇咬得稀烂，趴在地上喘了好半天气，才艰难地爬起来，右手颤颤巍巍，无比艰难地向杠铃摸去。",
-      "target": "Mà chính là ba chữ vô cùng đơn giản, bình thường và dễ dàng — \"Cháu từ bỏ\".",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0042",
+      "alignment_id": "chapter_0031:align_0018",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0029"
+      ],
       "source": "指尖还未触及到杠铃，无比强烈的痛苦再度袭来，这一次不是电流强袭，而是极端的炎热！",
-      "target": "Chỉ cần hai cánh môi khẽ chạm vào nhau, thốt ra ba chữ \"Cháu từ bỏ\" với âm thanh nhỏ nhất là có thể cởi bỏ bộ đồ luyện công này, thoát khỏi sự hành hạ phi nhân tính của trọng lượng, dòng điện và ảo ảnh tinh thần, đồng thời — vĩnh viễn mất đi dũng khí mặc lại bộ đồ này một lần nữa.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "source_hash": "44dcc9edd08307857a3ea6fadb0f22bdd3117a493f158d68ca61b5a96c4e4aac",
+      "target": "\"Hèn hạ thật, nhưng mà năm... năm trăm kg cũng chẳng có gì ghê gớm cả!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0043",
-      "source": "就像是整个人都被丢进了火山口，在灼热无比的岩浆中挣扎，皮肤都被烧化，血管里奔流的是沸腾的铁水！",
-      "target": "Cậu có muốn từ bỏ không?",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "alignment_id": "chapter_0031:align_0019",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0030",
+        "chapter_0031:seg_0031"
+      ],
+      "source": "就像是整个人都被丢进了火山口，在灼热无比的岩浆中挣扎，皮肤都被烧化，血管里奔流的是沸腾的铁水！\n\n而下一秒钟，灼热感骤然消失，取而代之的是冻彻骨髓的寒意，似乎连脑浆都冻成一坨冰块，完全无法呼吸和思想！",
+      "source_hash": "c088f9bb2530e2dbc28e79f33c7220fa6537e61769c3d744d91fe7bd63d3792f",
+      "target": "\"Đùa... Đùa gì thế, dĩ... Dĩ nhiên chịu được!\" Lý Diệu cắn rách cả môi, nằm rạp trên mặt đất thở hổn hển hồi lâu mới chật vật bò dậy, tay phải run lẩy bẩy mò về phía thanh tạ đòn.",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0044",
-      "source": "而下一秒钟，灼热感骤然消失，取而代之的是冻彻骨髓的寒意，似乎连脑浆都冻成一坨冰块，完全无法呼吸和思想！",
-      "target": "Tổ gánh tạ sâu đầu tiên đã vắt kiệt toàn bộ sức lực của cậu, từng bó cơ, từng mạch máu, từng tế bào đều bị ép khô, cậu cảm thấy bản thân đến lực đi tiểu cũng không còn nữa.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0045",
+      "alignment_id": "chapter_0031:align_0020",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0032"
+      ],
       "source": "极端炙热和极端寒冷的感觉反复交替了三次才逐渐消失，还不得李耀惨叫出声，电流又一次轰\\*\\*窍，撕裂身体，令他不可遏制地抽搐起来！",
-      "target": "Phía sau còn chín tổ, tròn chín mươi cái gánh tạ nữa. Cậu phải gánh chịu hai trăm kg trọng lượng của bộ đồ giáp, dòng điện kích thích cùng đòn tấn công ảo ảnh tinh thần luân phiên để nâng thanh tạ đòn nặng ba trăm kg liên tục đứng lên ngồi xuống thẳng lưng. Tròn chín mươi lần. Căn bản không thể làm được đúng không? Cho dù nghiến răng nghiến lợi dốc hết sức bình sinh cố hoàn thành hai tổ, ba tổ thì cũng sẽ hoàn toàn sụp đổ ở tổ thứ tư, thứ năm, thứ sáu, thứ bảy, thứ tám rồi thốt ra ba chữ \"Cháu từ bỏ\" thôi đúng không? Đằng nào cũng vậy, sao không từ bỏ ngay bây giờ cho rồi? Vô cùng đơn giản, chỉ cần hai cánh môi khẽ chạm, dây thanh quản rung nhẹ, miệng hé ra một chút: Cháu, từ, bỏ. Nửa giây sau là có thể nhẹ nhõm, được giải thoát rồi.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "source_hash": "3c7c4b4bc9ed67ffe9c269fe32187d84937f0c7638b6f33c1356b22d496be6a3",
+      "target": "Đầu ngón tay còn chưa chạm tới thanh đòn, một cơn đau đớn dữ dội mãnh liệt lại ập đến. Lần này không phải dòng điện kích thích mà là cái nóng cực độ!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0046",
-      "source": "“这件‘放弃’的最后一种神通，就是每隔一分钟，都会产生极端炙热和寒冷的幻象攻击，放心，这是针对脑域最深处的精神秘法，都是虚幻，不会对身体造成一丝一毫伤害，反而能淬炼精神力量，开拓脑域深度，有朝一日成为修真者，也能吸纳更多灵能，修炼速度都比别人快上许多。",
+      "alignment_id": "chapter_0031:align_0021",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0033"
+      ],
+      "source": "“这件‘放弃’的最后一种神通，就是每隔一分钟，都会产生极端炙热和寒冷的幻象攻击，放心，这是针对脑域最深处的精神秘法，都是虚幻，不会对身体造成一丝一毫伤害，反而能淬炼精神力量，开拓脑域深度，有朝一日成为修真者，也能吸纳更多灵能，修炼速度都比别人快上许多。”",
+      "source_hash": "bf9a1cd0258bb62eea808834bf8c2ca99383042abb0910658fd976e6fb108d5c",
+      "target": "Cực nóng và cực lạnh lặp đi lặp lại luân phiên ba lần mới dần dần biến mất. Chưa đợi Lý Diệu kịp thốt lên tiếng kêu thảm thiết, dòng điện lại một lần nữa oanh kích thẳng vào các huyệt khiếu, xé rách cơ thể khiến cậu không thể kiềm chế được mà co giật liên hồi!",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0031:align_0022",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0034",
+        "chapter_0031:seg_0035",
+        "chapter_0031:seg_0036"
+      ],
+      "source": "看李耀疼得满地打滚的样子，老头子脸上闪过一丝失望，随即自嘲地笑了笑，打了个哈欠，懒洋洋道：“好啦，玩够了，脱下来吧，这件衣服不是为你准备的，只要你说‘我放弃’三个字，它就会自动离体，不再折磨你了。”\n\n“放弃？”\n\n李耀在地上躺了半天，呼哧呼哧，喘得像是一条搁浅在岸边的鲸鱼。",
+      "source_hash": "a56cbe43aa00aa10fcacc622832be205165f0f03c2ac3d322cd1f2940c9060cc",
+      "target": "\"Từ bỏ?\" Lý Diệu nằm trên đất nửa ngày, thở phì phò như một con cá voi bị mắc cạn trên bờ.\n\n\"Ba... ba cái!\" Lý Diệu nghiến răng ken két, trong phòng luyện tập trống trải vang lên toàn tiếng va chạm của sắt thép và tiếng ma sát của rỉ sắt! Bốn cái! Năm cái! Sáu cái! Bảy cái! Bảy cái! Tám cái! Chín cái! Mười cái!",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
+    },
+    {
+      "alignment_id": "chapter_0031:align_0023",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0037",
+        "chapter_0031:seg_0038",
+        "chapter_0031:seg_0039"
+      ],
+      "source": "终于，他像是一具生锈的金属傀儡，一寸一寸地站起来，万分艰难地将杠铃扛到肩膀上，硬生生扛着两百公斤负重、电流强袭和极度炎寒的精神攻击，轰出了第二次深蹲！\n\n“两个了！”李耀喉咙深处，发出野兽般的嚎叫。\n\n那是在法宝坟墓深处，时常回荡的战吼。",
+      "source_hash": "e1fdf55be4ef351dbafc355f62227af82b4a2fe13ae6196ec9d0f0f44a3501d3",
+      "target": "Tròn mười lần gánh tạ sâu, Lý Diệu mặc bộ đồ luyện công kỳ quái mang tên \"Từ Bỏ\" này, vắt kiệt chút lực lượng cuối cùng để hoàn thành trọn vẹn mười lần gánh tạ sâu với tư thế vô cùng chuẩn mực, không một chút sai lệch!",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
+    },
+    {
+      "alignment_id": "chapter_0031:align_0024",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0040",
+        "chapter_0031:seg_0041"
+      ],
+      "source": "孙彪“咦”了一声，眼底闪过一丝惊愕，随即冷笑：“才两个而已，一组深蹲可是有整整十个啊！”\n\n“三……三个！”李耀咬牙，空旷的修炼室里满是钢铁碰撞、铁锈摩擦的声音！",
+      "source_hash": "0cb7234343cc6ba4b11aabba9752d70f2419384035b10d2b3b9a97bfa4134e4b",
+      "target": "Bóng dáng Tôn Bưu xuất hiện trong tầm mắt cậu, trên khuôn mặt không giấu nổi sự kinh ngạc khôn tả. Giọng nói của ông lão có chút run rẩy: \"Nhóc con, ngươi không sao chứ?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
+    },
+    {
+      "alignment_id": "chapter_0031:align_0025",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0042",
+        "chapter_0031:seg_0043",
+        "chapter_0031:seg_0044"
+      ],
+      "source": "四个！五个！六个！七个！八个！九个！十个！\n\n整整十次深蹲，李耀穿着这件诡异的“放弃”，耗尽最后一丝力量，轰出了整整十次姿势标准，一丝不苟的深蹲！\n\n“我，我成功了！”李耀头昏眼花，双耳鸣响，周身血液一次次向大脑狂涌，心脏跳动无比剧烈，似乎要撕裂胸膛，蹦跳出来。",
+      "source_hash": "9b8772e574766e947d500518025338180c556f1ae9fd3d27bcf2e12453206fae",
+      "target": "Ánh mắt Lý Diệu vượt qua Tôn Bưu, một lần nữa ngước nhìn luồng ánh sáng rực rỡ trên trần nhà. Dưới sự phản chiếu của nước mắt và mồ hôi, luồng sáng đó trở nên vô cùng lộng lẫy chói lọi. Cậu bỗng nhiên hiểu ra tại sao bộ pháp bảo này lại có tên là \"Từ Bỏ\".",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
+    },
+    {
+      "alignment_id": "chapter_0031:align_0026",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0045",
+        "chapter_0031:seg_0046"
+      ],
+      "source": "顾不上做恢复动作，他四仰八叉倒在深蹲架下，直愣愣看着天花板上刺眼的晶能灯光，感觉自己连一根小指头都控制不住了。\n\n孙彪的身影出现在他的视野中，脸上是遮掩不住的惊讶，老头子的声音有些发颤：“小子，你没事吧？”",
+      "source_hash": "c01a410e95f36e9ff888003c15e71c023fc08b154bdc596910e8420c11a85bbc",
+      "target": "Bởi vì thần thông lớn nhất của nó không phải là tạo ra trọng lực trường mấy trăm cân, cũng không phải dòng điện giật mạnh, càng không phải ảo ảnh tinh thần cực nóng cực lạnh.",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
+    },
+    {
+      "alignment_id": "chapter_0031:align_0027",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0047"
+      ],
+      "source": "“我，我没事，稍微休息一下，后面还有……九组呢！”李耀的嘴角勾起，笑得比哭还难看。",
+      "source_hash": "1e3e003e05196a692b782f8d87c2e4e030a4f6514c87cd07eb894c882a390f57",
+      "target": "Mà chính là ba chữ vô cùng đơn giản, bình thường và dễ dàng — \"Cháu từ bỏ\".",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0031:align_0028",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0048",
+        "chapter_0031:seg_0049"
+      ],
+      "source": "孙彪沉默片刻，摇头道：“小子，放弃吧，我刚才已经说过，这件衣服不是为普通人准备的，你不可能穿着它，完成十组深蹲——后面还有整整九十次呢！来吧，说‘我放弃’，把衣服脱下来。”\n\n李耀的目光越过孙彪，再次凝聚在天花板上耀眼的灯光上。",
+      "source_hash": "2c3c505866e5d72870edf1156d7fce0c08308d60572c6d598971885f06f0beb3",
+      "target": "Cậu có muốn từ bỏ không?\n\nTổ gánh tạ sâu đầu tiên đã vắt kiệt toàn bộ sức lực của cậu, từng bó cơ, từng mạch máu, từng tế bào đều bị ép khô, cậu cảm thấy bản thân đến lực đi tiểu cũng không còn nữa.",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
+    },
+    {
+      "alignment_id": "chapter_0031:align_0029",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0050",
+        "chapter_0031:seg_0051"
+      ],
+      "source": "在眼泪和汗水的折射下，那光芒变得无比璀璨。\n\n他忽然意识到，为什么这件法宝的名字是“放弃”。",
+      "source_hash": "41a66b7ae522d1211f572501595b373e9ec2af1016f41634dc0d15c24ae3ccae",
       "target": "\"Cháu... từ...\" Nhìn vầng hào quang rực rỡ trên trần nhà, Lý Diệu khẽ thốt ra từng chữ một.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0047",
-      "source": "”",
-      "target": "Thế nhưng trong vầng hào quang rực rỡ đó, bỗng nhiên hiện ra một loạt ký ức hoa cả mắt.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0048",
-      "source": "看李耀疼得满地打滚的样子，老头子脸上闪过一丝失望，随即自嘲地笑了笑，打了个哈欠，懒洋洋道：“好啦，玩够了，脱下来吧，这件衣服不是为你准备的，只要你说‘我放弃’三个字，它就会自动离体，不再折磨你了。",
-      "target": "\"Bộ đồ này không phải dành cho người thường.\" Tôn Bưu đã bảo thế.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0049",
-      "source": "”",
-      "target": "\"Nhưng mình có phải là người thường không?\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0050",
-      "source": "“放弃？",
-      "target": "\"Người thường làm sao có thể vừa sinh ra đã mang theo ký ức kiếp trước, còn nhớ rõ những chuyện vụn vặt ở một nơi gọi là 'Trái Đất' cơ chứ?\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0051",
-      "source": "”",
-      "target": "\"Người thường cũng không thể nào sống sót dưới đòn đoạt xá của cường giả giới tu chân bốn vạn năm trước là Âu Dã Tử, còn nuốt ngược lại ký ức của Âu Dã Tử đúng không?\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0052",
-      "source": "李耀在地上躺了半天，呼哧呼哧，喘得像是一条搁浅在岸边的鲸鱼。",
-      "target": "\"Hai việc này bất kể việc nào xảy ra trên người một ai đó thì kẻ đó cũng không thể xem là 'người thường' được nữa. Vậy mà trên người mình lại xảy ra liên tiếp cả hai lần!\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0053",
-      "source": "终于，他像是一具生锈的金属傀儡，一寸一寸地站起来，万分艰难地将杠铃扛到肩膀上，硬生生扛着两百公斤负重、电流强袭和极度炎寒的精神攻击，轰出了第二次深蹲！",
-      "target": "\"Thế rồi mình lại phải ở chỗ này, trước mặt bộ đồ luyện công không dành cho 'người thường' này — từ bỏ sao?\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0054",
-      "source": "“两个了！",
-      "target": "Ánh mắt Lý Diệu bỗng thu hồi khỏi ánh đèn, co rút lại tận sâu trong đồng tử biến thành những đốm sáng nhỏ như đầu kim.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0055",
-      "source": "”李耀喉咙深处，发出野兽般的嚎叫。",
-      "target": "\"Thầy Tôn — cháu có thể nghe nhạc được không?\" Cậu đột nhiên khẽ hỏi.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0056",
-      "source": "那是在法宝坟墓深处，时常回荡的战吼。",
-      "target": "\"Nghe nhạc?\" Tôn Bưu không ngờ Lý Diệu lại đột nhiên hỏi câu này, đờ người ra hồi lâu mới bảo: \"Tùy ngươi.\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0057",
-      "source": "孙彪“咦”了一声，眼底闪过一丝惊愕，随即冷笑：“才两个而已，一组深蹲可是有整整十个啊！",
-      "target": "\"Được rồi, cho cháu thêm nửa phút.\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0058",
-      "source": "”",
-      "target": "Lý Diệu cười nhẹ một tiếng nhắm hai mắt lại, nhét món pháp bảo mini \"Âm Linh\" do Diệu Âm Tông chế luyện vào lỗ tai. Giọng ca cao vút xé toạc bầu trời như muốn xuyên qua cả dải ngân hà của Lục Âm Hi lập tức vang vọng dồn dập trong linh hồn cậu:",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0059",
-      "source": "“三…",
-      "target": "\"Cứ đi theo những con sóng dữ dội gập ghềnh dũng mãnh tiến lên phía trước!\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0060",
-      "source": "…",
-      "target": "\"Sấm sét vạn quân lòng ta không sợ hãi tia chớp sẽ soi sáng con đường phía trước!\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0061",
-      "source": "三个！",
-      "target": "\"Tôi và các người đều không giống nhau!\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0062",
-      "source": "”李耀咬牙，空旷的修炼室里满是钢铁碰撞、铁锈摩擦的声音！",
-      "target": "Lý Diệu đột ngột mở bừng mắt.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0063",
-      "source": "四个！",
-      "target": "Những đốm sáng nhỏ như đầu kim trong mắt cậu đã biến mất, hoặc có thể nói là — hai mắt cậu tràn ngập ánh sao lấp lánh!",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0064",
-      "source": "五个！",
-      "target": "Sau đó, cậu thốt ra một câu khiến Tôn Bưu vô cùng hoang mang khó hiểu: \"Tôi... không phải là cá muối...\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0065",
-      "source": "六个！",
-      "target": "\"Ngươi nói cái gì cơ?\" Tôn Bưu cứ ngỡ tai mình nghe nhầm, cá muối gì ở đây?",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0066",
-      "source": "七个！",
-      "target": "Dưới sự oanh tạc của tiếng nhạc cuồng bạo, Lý Diệu không nghe thấy câu hỏi của ông lão. Cậu hoàn toàn đắm chìm trong thế giới của riêng mình, khẽ lẩm bẩm: \"Có lẽ cá muối cũng từng có ước mơ, nhưng vì đủ loại nguyên nhân mà từ bỏ, khô héo, tàn lụi, dần dần biến thành cá muối, biến thành những 'người thường'. Nhưng tôi không phải là cá muối, tôi — quyết không từ bỏ!\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0067",
-      "source": "八个！",
-      "target": "Lý Diệu đứng thẳng dậy, trên vai mang ba trăm kg trọng lượng tạ, toàn thân phóng điện chớp giật, sâu trong não bộ có gió lạnh gào thét và nham thạch tuôn trào cuồng bạo. Nhưng cậu vẫn nắm chặt lấy thanh tạ đòn bằng một lực cực mạnh, làm cho thanh sắt cứng cáp nhất cũng phải kêu lên \"két két\" trong lòng bàn tay cậu.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0068",
-      "source": "九个！",
-      "target": "\"Tổ gánh tạ thứ hai, bắt đầu!\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0069",
-      "source": "十个！",
-      "target": "Trong phòng tập bám bụi suốt nhiều năm qua lại một lần nữa vang vọng tiếng gầm thét như sóng xô bão táp, cuộn trào những luồng nhiệt lượng ngập tràn nhiệt huyết cuồng nhiệt!",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0070",
-      "source": "整整十次深蹲，李耀穿着这件诡异的“放弃”，耗尽最后一丝力量，轰出了整整十次姿势标准，一丝不苟的深蹲！",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0071",
-      "source": "“我，我成功了！",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0072",
-      "source": "”李耀头昏眼花，双耳鸣响，周身血液一次次向大脑狂涌，心脏跳动无比剧烈，似乎要撕裂胸膛，蹦跳出来。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0073",
-      "source": "顾不上做恢复动作，他四仰八叉倒在深蹲架下，直愣愣看着天花板上刺眼的晶能灯光，感觉自己连一根小指头都控制不住了。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0074",
-      "source": "孙彪的身影出现在他的视野中，脸上是遮掩不住的惊讶，老头子的声音有些发颤：“小子，你没事吧？",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0075",
-      "source": "”",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0076",
-      "source": "“我，我没事，稍微休息一下，后面还有…",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0077",
-      "source": "…",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0078",
-      "source": "九组呢！",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0079",
-      "source": "”李耀的嘴角勾起，笑得比哭还难看。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0080",
-      "source": "孙彪沉默片刻，摇头道：“小子，放弃吧，我刚才已经说过，这件衣服不是为普通人准备的，你不可能穿着它，完成十组深蹲——后面还有整整九十次呢！",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0081",
-      "source": "来吧，说‘我放弃’，把衣服脱下来。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0082",
-      "source": "”",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0083",
-      "source": "李耀的目光越过孙彪，再次凝聚在天花板上耀眼的灯光上。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0084",
-      "source": "在眼泪和汗水的折射下，那光芒变得无比璀璨。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0085",
-      "source": "他忽然意识到，为什么这件法宝的名字是“放弃”。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0086",
+      "alignment_id": "chapter_0031:align_0030",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0052"
+      ],
       "source": "因为，它最大的神通，既不是产生几百公斤的重力场，也不是强烈的电流袭击，更不是极端炙热或者寒冷的精神幻象。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "source_hash": "d96002cd85e875b43eefc189d2ce3fc85231aec39133a2ea812e8d123854148c",
+      "target": "Thế nhưng trong vầng hào quang rực rỡ đó, bỗng nhiên hiện ra một loạt ký ức hoa cả mắt.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0087",
+      "alignment_id": "chapter_0031:align_0031",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0053"
+      ],
       "source": "而是，简简单单，普普通通，轻而易举的——“我放弃”三个字。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "source_hash": "3ef4738517c951a2322aa224969ce7ba839846e578cfabdc59e706322835c979",
+      "target": "\"Bộ đồ này không phải dành cho người thường.\" Tôn Bưu đã bảo thế.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0088",
-      "source": "只要上下嘴皮一碰，用最轻最轻的声音，说出“我、放、弃”三个字，就能脱下这件修炼服，逃脱负重、电流和精神幻象的非人折磨，并且——",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "alignment_id": "chapter_0031:align_0032",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0054",
+        "chapter_0031:seg_0055",
+        "chapter_0031:seg_0056"
+      ],
+      "source": "只要上下嘴皮一碰，用最轻最轻的声音，说出“我、放、弃”三个字，就能脱下这件修炼服，逃脱负重、电流和精神幻象的非人折磨，并且——\n\n永远失去，再穿上这件衣服的勇气。\n\n他，要放弃吗？",
+      "source_hash": "a400c48fa791a5976484db9ff3fed6cc1252dc243b048c81192186103ee83a7e",
+      "target": "\"Nhưng mình có phải là người thường không?\"\n\n\"Người thường làm sao có thể vừa sinh ra đã mang theo ký ức kiếp trước, còn nhớ rõ những chuyện vụn vặt ở một nơi gọi là 'Trái Đất' cơ chứ?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0089",
-      "source": "永远失去，再穿上这件衣服的勇气。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "alignment_id": "chapter_0031:align_0033",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0057",
+        "chapter_0031:seg_0058"
+      ],
+      "source": "第一组深蹲，已经耗尽了全身力气，每一束肌肉，每一条血管，每一个细胞都被榨干，他感觉自己连撒尿的力气都没有了。\n\n后面还有九组，整整九十个深蹲，他要在两百公斤负重、电流强袭、精神幻象攻击的重重侵袭之下，扛着三百公斤重的杠铃，不断蹲下、站起、挺直腰杆。",
+      "source_hash": "86fe4e9ee321b5a32506263fb620ab5234b4186b52d8caaf3bfc583bacf23497",
+      "target": "\"Người thường cũng không thể nào sống sót dưới đòn đoạt xá của cường giả giới tu chân bốn vạn năm trước là Âu Dã Tử, còn nuốt ngược lại ký ức của Âu Dã Tử đúng không?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0090",
-      "source": "他，要放弃吗？",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "alignment_id": "chapter_0031:align_0034",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0059",
+        "chapter_0031:seg_0060",
+        "chapter_0031:seg_0061"
+      ],
+      "source": "整整九十次。\n\n根本做不到吧？就算咬紧牙关，使出吃奶的力气，拼命完成了两组，三组，也会在第四组、第五组、第六组第七组第八组的时候彻底崩溃，说出“我放弃”三个字吧？\n\n既然如此，为什么不现在就放弃呢？",
+      "source_hash": "34121e09f05ed38525b4118979063c9e0a8018ea213ead9142cb72ce119dfa96",
+      "target": "\"Hai việc này bất kể việc nào xảy ra trên người một ai đó thì kẻ đó cũng không thể xem là 'người thường' được nữa. Vậy mà trên người mình lại xảy ra liên tiếp cả hai lần!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0091",
-      "source": "第一组深蹲，已经耗尽了全身力气，每一束肌肉，每一条血管，每一个细胞都被榨干，他感觉自己连撒尿的力气都没有了。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "alignment_id": "chapter_0031:align_0035",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0062",
+        "chapter_0031:seg_0063"
+      ],
+      "source": "很简单，只要上下嘴皮一碰，声带轻轻一颤，嘴巴微微张开，我、放、弃，半秒钟之后，就轻松了，就解脱了。\n\n“我……放……”看着天花板上璀璨的光芒，李耀一个字一个字的，轻声说道。",
+      "source_hash": "500ce6344eba8e61692ccf1a6732ccd6528fe141da71dc023533ada8ebf3b578",
+      "target": "\"Thế rồi mình lại phải ở chỗ này, trước mặt bộ đồ luyện công không dành cho 'người thường' này — từ bỏ sao?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0092",
-      "source": "后面还有九组，整整九十个深蹲，他要在两百公斤负重、电流强袭、精神幻象攻击的重重侵袭之下，扛着三百公斤重的杠铃，不断蹲下、站起、挺直腰杆。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "alignment_id": "chapter_0031:align_0036",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0064",
+        "chapter_0031:seg_0065",
+        "chapter_0031:seg_0066"
+      ],
+      "source": "但是在那璀璨的光芒里，忽然浮现出一连串眼花缭乱的记忆。\n\n“这件衣服，不是为普通人准备的。”孙彪是这么说的。\n\n“但我，是普通人吗？”",
+      "source_hash": "ebc3ec7454e5b405f5e4937878099312c8e2902d9091a31358aa998a2d691aa7",
+      "target": "Ánh mắt Lý Diệu bỗng thu hồi khỏi ánh đèn, co rút lại tận sâu trong đồng tử biến thành những đốm sáng nhỏ như đầu kim.",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0093",
-      "source": "整整九十次。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "alignment_id": "chapter_0031:align_0037",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0067"
+      ],
+      "source": "“普通人，恐怕不会一出生就带着上辈子的记忆，还记得什么乱七八糟‘地球’上的事情吧？”",
+      "source_hash": "dd9e5dc65f1b8a1753b2bcc758147ae443522373b4daddf72c938c97c19e8255",
+      "target": "\"Thầy Tôn — cháu có thể nghe nhạc được không?\" Cậu đột nhiên khẽ hỏi.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0094",
-      "source": "根本做不到吧？",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "alignment_id": "chapter_0031:align_0038",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0068",
+        "chapter_0031:seg_0069"
+      ],
+      "source": "“普通人，也不可能在四万年前修真界强者欧冶子的夺舍攻击下幸存，还反过来吞噬了欧冶子的记忆吧？”\n\n“这两件事，无论哪一件发生在一个人身上，这家伙都算不上是‘普通人’了，而在我身上，居然连续发生了两次！”",
+      "source_hash": "adb264cde3b0949a0a28df7c4d156fa77218ce8ab5554d98cc967ac39825dd32",
+      "target": "\"Nghe nhạc?\" Tôn Bưu không ngờ Lý Diệu lại đột nhiên hỏi câu này, đờ người ra hồi lâu mới bảo: \"Tùy ngươi.\"\n\n\"Được rồi, cho cháu thêm nửa phút.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0095",
-      "source": "就算咬紧牙关，使出吃奶的力气，拼命完成了两组，三组，也会在第四组、第五组、第六组第七组第八组的时候彻底崩溃，说出“我放弃”三个字吧？",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "alignment_id": "chapter_0031:align_0039",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0070",
+        "chapter_0031:seg_0071",
+        "chapter_0031:seg_0072",
+        "chapter_0031:seg_0073"
+      ],
+      "source": "“然后，我就要在这里，在这件不是为‘普通人’准备的练功服面前——放弃吗？”\n\n李耀的视线忽然从灯光上抽回，收缩到瞳孔最深处，变成了针尖大小的星芒。\n\n“孙老师——我能听歌吗？”他忽然轻声说道。\n\n“听歌？”孙彪没想到李耀会忽然提出这样一个问题，愣了小半天才道，“随便。”",
+      "source_hash": "51b16e9870f0a8d3ffe7e206a07fbb9c97b1a7629c8e58cd63b4484bc23fa174",
+      "target": "Lý Diệu cười nhẹ một tiếng nhắm hai mắt lại, nhét món pháp bảo mini \"Âm Linh\" do Diệu Âm Tông chế luyện vào lỗ tai. Giọng ca cao vút xé toạc bầu trời như muốn xuyên qua cả dải ngân hà của Lục Âm Hi lập tức vang vọng dồn dập trong linh hồn cậu:",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0096",
-      "source": "既然如此，为什么不现在就放弃呢？",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "alignment_id": "chapter_0031:align_0040",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0074",
+        "chapter_0031:seg_0075"
+      ],
+      "source": "“好，再给我半分钟。”\n\n李耀微微一笑，闭上双眼，将妙音宗炼制的微型法宝“音铃”塞进耳孔。",
+      "source_hash": "6f5ce889877f7f91dd89077de1ef98b460fe8c5bc4e6d9bff9c97aeeb49bbca0",
+      "target": "\"Cứ đi theo những con sóng dữ dội gập ghềnh dũng mãnh tiến lên phía trước!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0097",
-      "source": "很简单，只要上下嘴皮一碰，声带轻轻一颤，嘴巴微微张开，我、放、弃，半秒钟之后，就轻松了，就解脱了。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "alignment_id": "chapter_0031:align_0041",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0076",
+        "chapter_0031:seg_0077"
+      ],
+      "source": "陆音希高亢至极，仿佛能贯穿整条银河的铁嗓，立刻在他的灵魂深处震荡：\n\n“跟随着惊涛骇浪跌跌撞撞奋力向前冲！”",
+      "source_hash": "b3d9754b3d31569ea18ff85d29f6454f8a40c2ac351ca940bb5dd46d55b21961",
+      "target": "\"Sấm sét vạn quân lòng ta không sợ hãi tia chớp sẽ soi sáng con đường phía trước!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0098",
-      "source": "“我…",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "alignment_id": "chapter_0031:align_0042",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0078"
+      ],
+      "source": "“雷霆万钧我心无惧闪电将会把前路照亮！”",
+      "source_hash": "6f9f72865bad9218f7a25301f417e3f0dca49a105bd731e5361fd4c16298271d",
+      "target": "\"Tôi và các người đều không giống nhau!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0099",
-      "source": "…",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "alignment_id": "chapter_0031:align_0043",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0079",
+        "chapter_0031:seg_0080"
+      ],
+      "source": "“我和你们都不一样！”\n\n李耀猛地睁开双眼。",
+      "source_hash": "3ee6dd3fb1b1f40d7eba557f1dd6ebb4f0afd214997c2317a948d66060e53a82",
+      "target": "Lý Diệu đột ngột mở bừng mắt.",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0100",
-      "source": "放…",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "alignment_id": "chapter_0031:align_0044",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0081",
+        "chapter_0031:seg_0082"
+      ],
+      "source": "他眼中针尖大小的星芒已经消失不见了，或者说——他的双眼满是星芒！\n\n然后，他说了一句令孙彪大惑不解的话：“我，不是咸鱼……”",
+      "source_hash": "c20b4888ad15ee6ad3ccb95039531fdec63fda2459746b7d917c94cb3568b1b6",
+      "target": "Những đốm sáng nhỏ như đầu kim trong mắt cậu đã biến mất, hoặc có thể nói là — hai mắt cậu tràn ngập ánh sao lấp lánh!",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0101",
-      "source": "…",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "alignment_id": "chapter_0031:align_0045",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0083",
+        "chapter_0031:seg_0084"
+      ],
+      "source": "“你说什么？”孙彪还以为自己听错了，什么咸鱼？\n\n在狂暴的音乐轰击下，李耀没有听到老头子的提问，他完全沉浸在自己的世界之中，小声呢喃着：“或许咸鱼也曾有过梦想，却因为各种各样的原因放弃了，干涸了，枯萎了，渐渐的，就变成了咸鱼，变成了一个个‘普通人’。”",
+      "source_hash": "99e2a2012fb7f4f10bd6659c89a5aea8c09d3da98a9785ce678d4d29857f94e1",
+      "target": "Sau đó, cậu thốt ra một câu khiến Tôn Bưu vô cùng hoang mang khó hiểu: \"Tôi... không phải là cá muối...\"\n\n\"Ngươi nói cái gì cơ?\" Tôn Bưu cứ ngỡ tai mình nghe nhầm, cá muối gì ở đây?",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0102",
-      "source": "”看着天花板上璀璨的光芒，李耀一个字一个字的，轻声说道。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "alignment_id": "chapter_0031:align_0046",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0085"
+      ],
+      "source": "“但我，不是咸鱼，我——决不放弃！”",
+      "source_hash": "beb40fbbd6ab7642b4763d043842e07e8b58fb314fa04221e720879e367e79f4",
+      "target": "\"Tổ gánh tạ thứ hai, bắt đầu!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0103",
-      "source": "但是在那璀璨的光芒里，忽然浮现出一连串眼花缭乱的记忆。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0104",
-      "source": "“这件衣服，不是为普通人准备的。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0105",
-      "source": "”孙彪是这么说的。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0106",
-      "source": "“但我，是普通人吗？",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0107",
-      "source": "”",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0108",
-      "source": "“普通人，恐怕不会一出生就带着上辈子的记忆，还记得什么乱七八糟‘地球’上的事情吧？",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0109",
-      "source": "”",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0110",
-      "source": "“普通人，也不可能在四万年前修真界强者欧冶子的夺舍攻击下幸存，还反过来吞噬了欧冶子的记忆吧？",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0111",
-      "source": "”",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0112",
-      "source": "“这两件事，无论哪一件发生在一个人身上，这家伙都算不上是‘普通人’了，而在我身上，居然连续发生了两次！",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0113",
-      "source": "”",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0114",
-      "source": "“然后，我就要在这里，在这件不是为‘普通人’准备的练功服面前——放弃吗？",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0115",
-      "source": "”",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0116",
-      "source": "李耀的视线忽然从灯光上抽回，收缩到瞳孔最深处，变成了针尖大小的星芒。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0117",
-      "source": "“孙老师——我能听歌吗？",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0118",
-      "source": "”他忽然轻声说道。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0119",
-      "source": "“听歌？",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0120",
-      "source": "”孙彪没想到李耀会忽然提出这样一个问题，愣了小半天才道，“随便。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0121",
-      "source": "”",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0122",
-      "source": "“好，再给我半分钟。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0123",
-      "source": "”",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0124",
-      "source": "李耀微微一笑，闭上双眼，将妙音宗炼制的微型法宝“音铃”塞进耳孔。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0125",
-      "source": "陆音希高亢至极，仿佛能贯穿整条银河的铁嗓，立刻在他的灵魂深处震荡：",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0126",
-      "source": "“跟随着惊涛骇浪跌跌撞撞奋力向前冲！",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0127",
-      "source": "”",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0128",
-      "source": "“雷霆万钧我心无惧闪电将会把前路照亮！",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0129",
-      "source": "”",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0130",
-      "source": "“我和你们都不一样！",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0131",
-      "source": "”",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0132",
-      "source": "李耀猛地睁开双眼。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0133",
-      "source": "他眼中针尖大小的星芒已经消失不见了，或者说——他的双眼满是星芒！",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0134",
-      "source": "然后，他说了一句令孙彪大惑不解的话：“我，不是咸鱼…",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0135",
-      "source": "…",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0136",
-      "source": "”",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0137",
-      "source": "“你说什么？",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0138",
-      "source": "”孙彪还以为自己听错了，什么咸鱼？",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0139",
-      "source": "在狂暴的音乐轰击下，李耀没有听到老头子的提问，他完全沉浸在自己的世界之中，小声呢喃着：“或许咸鱼也曾有过梦想，却因为各种各样的原因放弃了，干涸了，枯萎了，渐渐的，就变成了咸鱼，变成了一个个‘普通人’。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0140",
-      "source": "”",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0141",
-      "source": "“但我，不是咸鱼，我——决不放弃！",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0142",
-      "source": "”",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0143",
-      "source": "李耀站了起来，肩上有三百公斤重量，浑身冒着电流，脑域深处有呼啸的寒风和肆虐的岩浆。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0144",
-      "source": "但他还是一把攥住了杠铃，力气很大，连最坚固的钢铁都在他的掌心“吱吱”作响。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0145",
-      "source": "“第二组深蹲，开始！",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0146",
-      "source": "”",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0147",
-      "source": "尘封多年的修炼场里，再一次回荡起了惊涛骇浪般的咆哮，翻滚着激情澎湃的热浪！",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "alignment_id": "chapter_0031:align_0047",
+      "chapter_id": "chapter_0031",
+      "segment_ids": [
+        "chapter_0031:seg_0086",
+        "chapter_0031:seg_0087",
+        "chapter_0031:seg_0088",
+        "chapter_0031:seg_0089"
+      ],
+      "source": "李耀站了起来，肩上有三百公斤重量，浑身冒着电流，脑域深处有呼啸的寒风和肆虐的岩浆。\n\n但他还是一把攥住了杠铃，力气很大，连最坚固的钢铁都在他的掌心“吱吱”作响。\n\n“第二组深蹲，开始！”\n\n尘封多年的修炼场里，再一次回荡起了惊涛骇浪般的咆哮，翻滚着激情澎湃的热浪！",
+      "source_hash": "ebe9e5c94989e2a6485a0ea038f86764de55dd7008857aefa6c09b0a9e04b2bb",
+      "target": "Trong phòng tập bám bụi suốt nhiều năm qua lại một lần nữa vang vọng tiếng gầm thét như sóng xô bão táp, cuộn trào những luồng nhiệt lượng ngập tràn nhiệt huyết cuồng nhiệt!",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     }
   ],
   "term_occurrences": [
     {
-      "source_term": "百炼宗",
-      "target_term": "Bách Luyện Tông",
-      "seg_id": "seg_0003",
-      "is_locked": false,
-      "present_in_target": true,
-      "category": "faction"
-    },
-    {
-      "source_term": "孙老",
-      "target_term": "Tôn lão",
-      "seg_id": "seg_0007",
-      "is_locked": false,
-      "present_in_target": false,
-      "category": "character"
-    },
-    {
-      "source_term": "孙彪",
-      "target_term": "Tôn Bưu",
-      "seg_id": "seg_0009",
-      "is_locked": false,
-      "present_in_target": true,
-      "category": "character"
-    },
-    {
-      "source_term": "放弃",
-      "target_term": "Từ Bỏ",
-      "seg_id": "seg_0027",
-      "is_locked": false,
-      "present_in_target": true,
-      "category": "item"
-    },
-    {
-      "source_term": "巨灵神",
-      "target_term": "Cự Linh Thần",
-      "seg_id": "seg_0035",
-      "is_locked": false,
-      "present_in_target": true,
-      "category": "character"
-    },
-    {
+      "chapter_id": "chapter_0031",
       "source_term": "法宝坟墓",
       "target_term": "Nghĩa địa Pháp Bảo",
-      "seg_id": "seg_0056",
+      "segment_id": "chapter_0031:seg_0037",
+      "present_in_target": false,
       "is_locked": false,
-      "present_in_target": true,
-      "category": "location"
+      "category": "location",
+      "confidence": 1.0
     },
     {
-      "source_term": "夺舍",
-      "target_term": "đoạt xá",
-      "seg_id": "seg_0110",
-      "is_locked": false,
-      "present_in_target": true,
-      "category": "general"
-    },
-    {
-      "source_term": "音铃",
-      "target_term": "Âm Linh",
-      "seg_id": "seg_0124",
-      "is_locked": false,
-      "present_in_target": true,
-      "category": "item"
-    },
-    {
-      "source_term": "妙音宗",
-      "target_term": "Diệu Âm Tông",
-      "seg_id": "seg_0124",
-      "is_locked": false,
-      "present_in_target": true,
-      "category": "faction"
-    },
-    {
+      "chapter_id": "chapter_0031",
       "source_term": "陆音希",
       "target_term": "Lục Âm Hi",
-      "seg_id": "seg_0125",
-      "is_locked": false,
+      "segment_id": "chapter_0031:seg_0076",
       "present_in_target": true,
-      "category": "character"
+      "is_locked": false,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "source_term": "百炼宗",
+      "target_term": "Bách Luyện Tông",
+      "segment_id": "chapter_0031:seg_0002",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "source_term": "夺舍",
+      "target_term": "đoạt xá",
+      "segment_id": "chapter_0031:seg_0068",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "source_term": "巨灵神",
+      "target_term": "Cự Linh Thần",
+      "segment_id": "chapter_0031:seg_0025",
+      "present_in_target": false,
+      "is_locked": false,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "source_term": "音铃",
+      "target_term": "Âm Linh",
+      "segment_id": "chapter_0031:seg_0074",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "source_term": "妙音宗",
+      "target_term": "Diệu Âm Tông",
+      "segment_id": "chapter_0031:seg_0074",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "source_term": "孙彪",
+      "target_term": "Tôn Bưu",
+      "segment_id": "chapter_0031:seg_0008",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "source_term": "孙老",
+      "target_term": "Tôn lão",
+      "segment_id": "chapter_0031:seg_0005",
+      "present_in_target": false,
+      "is_locked": false,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "source_term": "放弃",
+      "target_term": "Từ Bỏ",
+      "segment_id": "chapter_0031:seg_0019",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
     }
   ],
   "entity_mentions": [
     {
+      "chapter_id": "chapter_0031",
       "source_surface": "李耀",
       "target_surface": "Lý Diệu",
       "entity_type": "person",
-      "seg_id": "seg_0002",
+      "segment_id": "chapter_0031:seg_0002",
       "confidence": 1.0
     },
     {
-      "source_surface": "孙彪",
-      "target_surface": "Tôn Bưu",
-      "entity_type": "person",
-      "seg_id": "seg_0009",
-      "confidence": 1.0
-    },
-    {
-      "source_surface": "巨灵神",
-      "target_surface": "Cự Linh Thần",
-      "entity_type": "person",
-      "seg_id": "seg_0035",
-      "confidence": 1.0
-    },
-    {
+      "chapter_id": "chapter_0031",
       "source_surface": "陆音希",
       "target_surface": "Lục Âm Hi",
       "entity_type": "person",
-      "seg_id": "seg_0125",
+      "segment_id": "chapter_0031:seg_0076",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "source_surface": "巨灵神",
+      "target_surface": "Cự Linh Thần",
+      "entity_type": "person",
+      "segment_id": "chapter_0031:seg_0025",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "source_surface": "孙彪",
+      "target_surface": "Tôn Bưu",
+      "entity_type": "person",
+      "segment_id": "chapter_0031:seg_0008",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "source_surface": "百炼宗",
+      "target_surface": "Bách Luyện Tông",
+      "entity_type": "factions",
+      "segment_id": "chapter_0031:seg_0002",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "source_surface": "妙音宗",
+      "target_surface": "Diệu Âm Tông",
+      "entity_type": "factions",
+      "segment_id": "chapter_0031:seg_0074",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "source_surface": "法宝坟墓",
+      "target_surface": "Nghĩa địa Pháp Bảo",
+      "entity_type": "locations",
+      "segment_id": "chapter_0031:seg_0037",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "source_surface": "音铃",
+      "target_surface": "Âm Linh",
+      "entity_type": "items",
+      "segment_id": "chapter_0031:seg_0074",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "source_surface": "放弃",
+      "target_surface": "Từ Bỏ",
+      "entity_type": "items",
+      "segment_id": "chapter_0031:seg_0019",
       "confidence": 1.0
     }
   ],
+  "name_analysis": {
+    "status": "ok",
+    "evidence_count": 4,
+    "name_mentions": [
+      {
+        "chapter_id": "chapter_0031",
+        "name_source": "李耀",
+        "name_target": "Lý Diệu",
+        "segment_id": "chapter_0031:seg_0002",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0031",
+        "name_source": "陆音希",
+        "name_target": "Lục Âm Hi",
+        "segment_id": "chapter_0031:seg_0076",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0031",
+        "name_source": "巨灵神",
+        "name_target": "Cự Linh Thần",
+        "segment_id": "chapter_0031:seg_0025",
+        "present_in_target": false,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0031",
+        "name_source": "孙彪",
+        "name_target": "Tôn Bưu",
+        "segment_id": "chapter_0031:seg_0008",
+        "present_in_target": true,
+        "confidence": 1.0
+      }
+    ],
+    "name_entries": [
+      {
+        "name_source": "李耀",
+        "name_target": "Lý Diệu"
+      },
+      {
+        "name_source": "陆音希",
+        "name_target": "Lục Âm Hi"
+      },
+      {
+        "name_source": "巨灵神",
+        "name_target": "Cự Linh Thần"
+      },
+      {
+        "name_source": "孙彪",
+        "name_target": "Tôn Bưu"
+      }
+    ],
+    "transliteration_units": [],
+    "inferred_name_rules": [],
+    "ambiguity_cases": [],
+    "reusable_name_profile": {
+      "mapping_count": 4,
+      "has_ambiguity": false
+    }
+  },
   "phrase_patterns": [],
   "grammar_rule_candidates": [],
+  "analyzer_reports": {
+    "term_occurrences": {
+      "status": "ok",
+      "evidence_count": 10
+    },
+    "entity_mentions": {
+      "status": "ok",
+      "evidence_count": 9
+    },
+    "name_mentions": {
+      "status": "ok",
+      "evidence_count": 4
+    },
+    "phrase_patterns": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    },
+    "grammar_rule_candidates": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    }
+  },
+  "review_queue": [
+    {
+      "chapter_id": "chapter_0031",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "公斤",
+        "entity_type": "person",
+        "count": 5,
+        "confidence": 0.7,
+        "evidence": [
+          "\n\n深蹲重量——三百公斤！\n\n“两百公斤实在",
+          "齿。\n\n“只不过三百公斤，二十组都能一口气做",
+          "你身上的负重，有两百公斤！”孙彪狞笑道。\n\n"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "冷笑",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "自己，心底勃然大怒，冷笑道：“好小子，别急着",
+          "底闪过一丝惊愕，随即冷笑：“才两个而已，一组"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "双眼",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "\n李耀微微一笑，闭上双眼，将妙音宗炼制的微型",
+          "！”\n\n李耀猛地睁开双眼。\n\n他眼中针尖大小"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "孙老师",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.82,
+        "evidence": [
+          "这么残忍。\n\n“呃，孙老师，我又仔细看了一下，",
+          "热热身的，没关系吧，孙老师？”李耀冲着老头微微"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "强袭",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "袭来，这一次不是电流强袭，而是极端的炎热！\n",
+          "在两百公斤负重、电流强袭、精神幻象攻击的重重"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "皮一碰",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.82,
+        "evidence": [
+          "个字。\n\n只要上下嘴皮一碰，用最轻最轻的声音，",
+          "\n很简单，只要上下嘴皮一碰，声带轻轻一颤，嘴巴"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "通人",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "普通人吗？”\n\n“普通人，恐怕不会一出生就带",
+          "的事情吧？”\n\n“普通人，也不可能在四万年前"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "换了严苛一些的宗派",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "里比较宽厚仁慈的了，换了严苛一些的宗派，每年死上几千个门人"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "至于魔门",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "根本都不叫事儿。\n\n至于魔门，更不用说，每一名强"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0031:align_0002",
+        "segment_ids": [
+          "chapter_0031:seg_0002",
+          "chapter_0031:seg_0003"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0031:align_0004",
+        "segment_ids": [
+          "chapter_0031:seg_0005",
+          "chapter_0031:seg_0006",
+          "chapter_0031:seg_0007"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0031:align_0007",
+        "segment_ids": [
+          "chapter_0031:seg_0010",
+          "chapter_0031:seg_0011",
+          "chapter_0031:seg_0012"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0031:align_0008",
+        "segment_ids": [
+          "chapter_0031:seg_0013",
+          "chapter_0031:seg_0014",
+          "chapter_0031:seg_0015"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0031:align_0010",
+        "segment_ids": [
+          "chapter_0031:seg_0017",
+          "chapter_0031:seg_0018"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0031:align_0014",
+        "segment_ids": [
+          "chapter_0031:seg_0022",
+          "chapter_0031:seg_0023",
+          "chapter_0031:seg_0024"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0031:align_0017",
+        "segment_ids": [
+          "chapter_0031:seg_0027",
+          "chapter_0031:seg_0028"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0031:align_0019",
+        "segment_ids": [
+          "chapter_0031:seg_0030",
+          "chapter_0031:seg_0031"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0031:align_0022",
+        "segment_ids": [
+          "chapter_0031:seg_0034",
+          "chapter_0031:seg_0035",
+          "chapter_0031:seg_0036"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0031:align_0023",
+        "segment_ids": [
+          "chapter_0031:seg_0037",
+          "chapter_0031:seg_0038",
+          "chapter_0031:seg_0039"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0031:align_0024",
+        "segment_ids": [
+          "chapter_0031:seg_0040",
+          "chapter_0031:seg_0041"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0031:align_0025",
+        "segment_ids": [
+          "chapter_0031:seg_0042",
+          "chapter_0031:seg_0043",
+          "chapter_0031:seg_0044"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0031:align_0026",
+        "segment_ids": [
+          "chapter_0031:seg_0045",
+          "chapter_0031:seg_0046"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0031:align_0028",
+        "segment_ids": [
+          "chapter_0031:seg_0048",
+          "chapter_0031:seg_0049"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0031:align_0029",
+        "segment_ids": [
+          "chapter_0031:seg_0050",
+          "chapter_0031:seg_0051"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0031:align_0032",
+        "segment_ids": [
+          "chapter_0031:seg_0054",
+          "chapter_0031:seg_0055",
+          "chapter_0031:seg_0056"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0031:align_0033",
+        "segment_ids": [
+          "chapter_0031:seg_0057",
+          "chapter_0031:seg_0058"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0031:align_0034",
+        "segment_ids": [
+          "chapter_0031:seg_0059",
+          "chapter_0031:seg_0060",
+          "chapter_0031:seg_0061"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0031:align_0035",
+        "segment_ids": [
+          "chapter_0031:seg_0062",
+          "chapter_0031:seg_0063"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0031:align_0036",
+        "segment_ids": [
+          "chapter_0031:seg_0064",
+          "chapter_0031:seg_0065",
+          "chapter_0031:seg_0066"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0031:align_0038",
+        "segment_ids": [
+          "chapter_0031:seg_0068",
+          "chapter_0031:seg_0069"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0031:align_0039",
+        "segment_ids": [
+          "chapter_0031:seg_0070",
+          "chapter_0031:seg_0071",
+          "chapter_0031:seg_0072",
+          "chapter_0031:seg_0073"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0031:align_0040",
+        "segment_ids": [
+          "chapter_0031:seg_0074",
+          "chapter_0031:seg_0075"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0031:align_0041",
+        "segment_ids": [
+          "chapter_0031:seg_0076",
+          "chapter_0031:seg_0077"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0031:align_0043",
+        "segment_ids": [
+          "chapter_0031:seg_0079",
+          "chapter_0031:seg_0080"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0031:align_0044",
+        "segment_ids": [
+          "chapter_0031:seg_0081",
+          "chapter_0031:seg_0082"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0031:align_0045",
+        "segment_ids": [
+          "chapter_0031:seg_0083",
+          "chapter_0031:seg_0084"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0031",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0031:align_0047",
+        "segment_ids": [
+          "chapter_0031:seg_0086",
+          "chapter_0031:seg_0087",
+          "chapter_0031:seg_0088",
+          "chapter_0031:seg_0089"
+        ]
+      }
+    }
+  ],
   "quality_audit": {
     "segment_coverage": 1.0,
+    "source_hash_match": true,
+    "target_reconstruction_match": true,
+    "invalid_ref_count": 0,
     "locked_term_hit_rate": 1.0,
+    "missing_locked_terms": [],
     "cjk_residue_count": 0,
-    "paragraph_drift_ratio": 0.531,
+    "paragraph_drift_ratio": 0.47191011235955055,
     "pronoun_consistency_score": 1.0,
     "warnings": []
   }

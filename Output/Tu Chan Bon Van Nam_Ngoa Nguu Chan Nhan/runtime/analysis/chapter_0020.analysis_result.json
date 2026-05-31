@@ -1,17 +1,846 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
   "chapter": 20,
-  "aligned_segments": [],
-  "term_occurrences": [],
-  "entity_mentions": [],
+  "chapter_id": "chapter_0020",
+  "source_manifest_hash": "57eba8d213e809ad38e39b5e289e777a094e3cc0a68ce123ff26b6302b75728a",
+  "aligned_segments": [
+    {
+      "alignment_id": "chapter_0020:align_0001",
+      "chapter_id": "chapter_0020",
+      "segment_ids": [
+        "chapter_0020:seg_0001",
+        "chapter_0020:seg_0002"
+      ],
+      "source": "# 20.第20章 体操男\n\n“有点意思，在普通武者里算是抗击打能力一流，比你修炼馆里这些弱鸡强上十倍。”彭海也站起来，慢吞吞地活动关节，一束束肌肉如万千毒蛇，在洁白如玉的皮肤下面流窜，灵动无比。",
+      "source_hash": "a0616ffc4ee7c4c7a69ccfd1586f56d3a206a5782fcec6d97dcf2f86cf0db202",
+      "target": "\"Có chút thú vị đấy, trong số các võ giả bình thường thì khả năng chịu đòn thế này cũng coi như hạng nhất rồi, mạnh hơn đám gà rù trong võ quán của chú gấp mười lần.\" Bành Hải cũng đứng dậy, chậm rãi khởi động các khớp xương, từng bó cơ bắp hệt như hàng vạn con rắn độc luồn lách bên dưới làn da trắng trẻo như ngọc, vô cùng linh hoạt.",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
+    },
+    {
+      "alignment_id": "chapter_0020:align_0002",
+      "chapter_id": "chapter_0020",
+      "segment_ids": [
+        "chapter_0020:seg_0003"
+      ],
+      "source": "“那当然，人家专业嘛！你先去格斗室准备吧，别忘了用‘纹面符’，不要让人发现你的真实身份。”光头纹面男一边说着，推开门，走进力量训练房。",
+      "source_hash": "17f3ce9e5c4b3693f9655b078a4368b365c2813749f88c96860011a5f04da77c",
+      "target": "\"Đương nhiên rồi, người ta là dân chuyên nghiệp mà! Cậu mau vào phòng cách đấu chuẩn bị trước đi, đừng quên dùng 'Văn Diện Phù', đừng để người ta phát hiện ra thân phận thật của cậu.\" Gã đầu trọc xăm trổ vừa nói, vừa đẩy cửa đi vào trong phòng tập tạ.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0020:align_0003",
+      "chapter_id": "chapter_0020",
+      "segment_ids": [
+        "chapter_0020:seg_0004"
+      ],
+      "source": "打沙袋的壮汉对他道：“赵馆长，这位先生找你。”",
+      "source_hash": "7676663f0f36223836741af93d82bd3c500f4512440734b982cdc540271c6b47",
+      "target": "Gã tráng hán đang đấm bao cát nói với ông ta: \"Triệu quán chủ, vị tiên sinh này tìm chú.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0020:align_0004",
+      "chapter_id": "chapter_0020",
+      "segment_ids": [
+        "chapter_0020:seg_0005"
+      ],
+      "source": "光头纹面男点了点头，扫了一眼李耀脸上的蜘蛛花纹，笑道：“来了？价钱什么的都清楚，没问题吧？”",
+      "source_hash": "a1d45eea7dbbb9efc42536d1bc4baea0d2090b74c3de1d264d1e1ee9eb9d9c47",
+      "target": "Gã đầu trọc xăm trổ gật gật đầu, liếc nhìn lớp hoa văn mạng nhện trên mặt Lý Diệu, cười nói: \"Đến rồi à? Giá cả các thứ đều đã nắm rõ cả rồi chứ, không có vấn đề gì chứ?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0020:align_0005",
+      "chapter_id": "chapter_0020",
+      "segment_ids": [
+        "chapter_0020:seg_0006"
+      ],
+      "source": "“都清楚，没问题，咱们直接交易吧。”李耀冷冷说，装出一副经验丰富的老江湖模样。",
+      "source_hash": "4295861a5d95499c70d42cbfedc78f16b94d83a3dcaf6e8adb029873bec2dc73",
+      "target": "\"Đều rõ cả rồi, không có vấn đề gì, chúng ta giao dịch luôn đi.\" Lý Diệu lạnh lùng nói, cố làm ra vẻ một kẻ giang hồ lõi đời dày dặn kinh nghiệm.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0020:align_0006",
+      "chapter_id": "chapter_0020",
+      "segment_ids": [
+        "chapter_0020:seg_0007"
+      ],
+      "source": "“那就好，跟我来。”光头纹面男在前面带路，穿过一条走廊，把李耀带到了一间百来个平方的格斗室。",
+      "source_hash": "e1522ff6e29f4c37a2ac8c9fcd3a13fc172da6655bd00ecfd522021032063e1e",
+      "target": "\"Vậy thì tốt, đi theo tôi.\" Gã đầu trọc xăm trổ dẫn đường đi phía trước, đi dọc theo một hành lang, đưa Lý Diệu tới một căn phòng cách đấu rộng chừng hơn một trăm mét vuông.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0020:align_0007",
+      "chapter_id": "chapter_0020",
+      "segment_ids": [
+        "chapter_0020:seg_0008"
+      ],
+      "source": "格斗室的环境比较简陋，四周的墙壁上挂满了厚实的草垫作为缓冲，地面直接就是粗糙的水泥地，大概是用的久了，坑坑洼洼，遍布着横七竖八的裂缝。",
+      "source_hash": "37628c8bd689db7766bea31d29bf834dc1089c9b8124108413d832766e20a548",
+      "target": "Môi trường trong phòng cách đấu khá tồi tàn, trên bốn bức tường xung quanh treo đầy những tấm đệm rơm dày cộp để làm lớp đệm giảm chấn, mặt sàn thì chỉ là nền xi măng thô ráp. Chắc là do sử dụng đã lâu nên mặt sàn lồi lõm, chi chít những vết nứt đan xen dọc ngang.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0020:align_0008",
+      "chapter_id": "chapter_0020",
+      "segment_ids": [
+        "chapter_0020:seg_0009"
+      ],
+      "source": "光头纹面男从角落里捧出一件用九层牛皮缝制的防护服和全套护具，示意李耀穿上。",
+      "source_hash": "aedaad738b107d54f4e85cef049df881c799b74a053ddcbcee3cf91e4fc0d413",
+      "target": "Gã đầu trọc xăm trổ ôm ra từ trong góc một bộ quần áo bảo hộ được khâu từ chín lớp da bò cùng với trọn bộ đồ phòng hộ, ra hiệu cho Lý Diệu mặc vào.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0020:align_0009",
+      "chapter_id": "chapter_0020",
+      "segment_ids": [
+        "chapter_0020:seg_0010"
+      ],
+      "source": "“大家都是圈里人，也不用我多啰嗦，反正只要你撑过三分钟，就能拿到一万块，不过若是撑不到三分钟，那就半毛钱没有——天哥说，你在不少武馆都干过，是金牌陪练，这些都是行规，没问题吧？”",
+      "source_hash": "d1b577c7ec24be74fe71b4526493edb97af6fedf29e0759d821c678a1aac1db0",
+      "target": "\"Mọi người đều là người trong nghề, cũng không cần tôi phải dài dòng thêm nữa. Dù sao thì chỉ cần cậu cầm cự được qua ba phút, là có thể nhận được một vạn khối. Thế nhưng nếu như không trụ nổi ba phút, thì một nửa cắc cũng không có —— Thiên ca nói cậu từng làm ở không ít võ quán rồi, là kim bài bồi luyện, những thứ này đều là luật bất thành văn trong nghề, không có vấn đề gì chứ?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0020:align_0010",
+      "chapter_id": "chapter_0020",
+      "segment_ids": [
+        "chapter_0020:seg_0011"
+      ],
+      "source": "“三分钟？金牌陪练？”李耀眨巴着眼睛，意识到对方认错人了。",
+      "source_hash": "ceff70e1ebe6ad0b38c761870af71f1aaa84204020e24760d2285bb74d9e4658",
+      "target": "\"Ba phút? Kim bài bồi luyện?\" Lý Diệu chớp chớp mắt, lập tức ý thức được đối phương đã nhận nhầm người.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0020:align_0011",
+      "chapter_id": "chapter_0020",
+      "segment_ids": [
+        "chapter_0020:seg_0012"
+      ],
+      "source": "纹面符的花纹并不是随机的，总计一千三百多种样式，偶尔也会出现两个人脸上花纹相同的情况，被称为“撞脸”。",
+      "source_hash": "17427394afcf147c8fb0c641cdbf45161eb78bf2a8e6d7238d43bc4186523b7f",
+      "target": "Hoa văn do Văn Diện Phù tạo ra không phải là ngẫu nhiên, tổng cộng có hơn một ngàn ba trăm kiểu dáng khác nhau. Thỉnh thoảng cũng sẽ xuất hiện trường hợp hai người có hoa văn trên mặt giống hệt nhau, được gọi là \"đụng hàng\".",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0020:align_0012",
+      "chapter_id": "chapter_0020",
+      "segment_ids": [
+        "chapter_0020:seg_0013"
+      ],
+      "source": "这个老板大概在等另外一个脸上绘制着蜘蛛花纹的“金牌陪练”，却把自己误认成了对方。",
+      "source_hash": "db53e46e5b083c333f7e95b5d0d7e38b1878cca5a29c587f472c9ee1b6245917",
+      "target": "Ông chủ này chắc hẳn là đang đợi một tên \"kim bài bồi luyện\" khác trên mặt cũng vẽ hoa văn mạng nhện, kết quả lại nhận nhầm cậu thành đối phương.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0020:align_0013",
+      "chapter_id": "chapter_0020",
+      "segment_ids": [
+        "chapter_0020:seg_0014"
+      ],
+      "source": "“不好意思——”李耀下意识就要解释，心中忽然一动。",
+      "source_hash": "d561643cd942ff861aac4dd728b4da52bd1a64ed869992e6a6e618ab41154d3c",
+      "target": "\"Ngại quá——\" Lý Diệu theo bản năng vừa định giải thích, trong lòng bỗng nhiên khẽ động.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0020:align_0014",
+      "chapter_id": "chapter_0020",
+      "segment_ids": [
+        "chapter_0020:seg_0015"
+      ],
+      "source": "这位光头大叔刚才说什么来着？撑过三分钟，就能拿一万块？当陪练竟然这么赚钱？",
+      "source_hash": "b876dfa7692334e3b1236463ace5c79a8a85ab8cf7d94cd76963b22a5ea31e14",
+      "target": "Vị đại thúc đầu trọc này vừa mới nói cái gì cơ? Trụ qua ba phút, là có thể lấy được một vạn tệ? Làm người bồi luyện vậy mà lại kiếm được nhiều tiền như thế sao?",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0020:align_0015",
+      "chapter_id": "chapter_0020",
+      "segment_ids": [
+        "chapter_0020:seg_0016"
+      ],
+      "source": "李耀有些眼热了。",
+      "source_hash": "8ec2910de8e69df3335a6db122d15b0e169e64ff17f295c8af3884642f8fa7aa",
+      "target": "Lý Diệu bắt đầu thấy thèm thuồng.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0020:align_0016",
+      "chapter_id": "chapter_0020",
+      "segment_ids": [
+        "chapter_0020:seg_0017"
+      ],
+      "source": "他在法宝坟墓里拼死拼活，辛辛苦苦一个月也才能赚万儿八千，虽然这一次痛宰了司佳雪一刀，赚了十万块，可这种肥羊也不是随便就能遇上的，眼下只要三分钟就能再赚一万块，足够多买十几支强化药剂，何乐而不为呢？",
+      "source_hash": "9bf622668c57af6e9d68eeffedd699d39e7854932f906c720c214c36c353fe2a",
+      "target": "Cậu liều sống liều chết nhặt nhạnh trong Bãi Rác Pháp Bảo, vất vả cực nhọc cả tháng trời cũng chỉ kiếm được chừng một vạn tám ngàn. Mặc dù lần này đã chém đẹp Tiêu Giai Tuyết một nhát kiếm được mười vạn, thế nhưng loại cừu béo như thế này đâu phải tùy tiện lúc nào cũng có thể gặp được. Hiện tại chỉ cần mất ba phút là có thể kiếm thêm một vạn nữa, dư sức mua được mười mấy ống thuốc tăng cường, cớ sao lại không làm chứ?",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0020:align_0017",
+      "chapter_id": "chapter_0020",
+      "segment_ids": [
+        "chapter_0020:seg_0018"
+      ],
+      "source": "自己的身体可是刚刚经过异变，和过去相比，抗击打能力有了大幅提升，称得上皮糙肉厚！",
+      "source_hash": "b9a84a7e107aafc8c0f136c23d64d48802b679f073832751503f31608e56da6a",
+      "target": "Cơ thể của bản thân vừa mới trải qua dị biến, so với quá khứ, khả năng chịu đòn đã được nâng cao đáng kể, hoàn toàn có thể xưng là da thô thịt dày!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0020:align_0018",
+      "chapter_id": "chapter_0020",
+      "segment_ids": [
+        "chapter_0020:seg_0019"
+      ],
+      "source": "而会来这种档次的修炼馆里锻炼的会员，大多是业余级别，说不定刚刚下班，等会儿还要去买菜呢，能有多少力气？",
+      "source_hash": "5b864155c9c8aa7870211f6594424872ea9401b015fd95175351b4102d3d4b77",
+      "target": "Mà những hội viên tới tập luyện ở cái võ quán tồi tàn cỡ này phần lớn đều là dân nghiệp dư. Nói không chừng vừa mới tan ca xong, lát nữa còn phải đi mua đồ ăn nữa cơ, thì có thể có bao nhiêu sức lực chứ?",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0020:align_0019",
+      "chapter_id": "chapter_0020",
+      "segment_ids": [
+        "chapter_0020:seg_0020"
+      ],
+      "source": "这么想着，李耀朝对面望去，差点没笑出声来。",
+      "source_hash": "d75fda7c23a90d111741040f622b13ffa154902ae541d74071dca99d6d2f31c1",
+      "target": "Nghĩ tới đây, Lý Diệu đưa mắt nhìn sang phía đối diện, suýt chút nữa thì phì cười ra tiếng.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0020:align_0020",
+      "chapter_id": "chapter_0020",
+      "segment_ids": [
+        "chapter_0020:seg_0021"
+      ],
+      "source": "格斗室的角落里，站着一个身材高瘦的男人，裸露在外的上半身没多少肌肉，皮肤也显得有些惨白，此君脸上也施加了“纹面符”，红色和黑色的花纹交织成了一副笑眯眯的小丑模样。",
+      "source_hash": "abb68bc97824add2f7780ea285dd915cd64c899af80e28584ef3ea33fe868a47",
+      "target": "Trong góc phòng cách đấu có một người đàn ông dáng người cao gầy đang đứng. Nửa thân trên để trần không có mấy lạng cơ bắp, làn da cũng có vẻ nhợt nhạt tái nhợt. Trên mặt người này cũng sử dụng \"Văn Diện Phù\", những đường hoa văn màu đỏ và đen đan xen lại với nhau tạo thành một khuôn mặt chú hề đang tươi cười.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0020:align_0021",
+      "chapter_id": "chapter_0020",
+      "segment_ids": [
+        "chapter_0020:seg_0022"
+      ],
+      "source": "给人的感觉，这人普普通通，稀松平常，毫无半点高手的气势。",
+      "source_hash": "a8514ce701a407131f32c4e5f4da97f5c8760ab0f20d3455b64861c58449c8f6",
+      "target": "Cảm giác mà tên này mang lại, chính là một người hết sức bình thường, nhạt nhẽo vô vị, không hề có nửa điểm khí thế của cao thủ.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0020:align_0022",
+      "chapter_id": "chapter_0020",
+      "segment_ids": [
+        "chapter_0020:seg_0023"
+      ],
+      "source": "令李耀忍俊不禁的是，他进来时，此君正在十分认真地热身，做的却是联邦最基础的“第五套健身体操”！",
+      "source_hash": "5816670e145e64dc6a59c9a570b177cff8ee1fe579be86f0b8f107f057588c47",
+      "target": "Điều khiến Lý Diệu nhịn không được cười chính là lúc cậu đi vào, người này đang khởi động vô cùng nghiêm túc, thế nhưng bài tập mà hắn đang tập lại chính là \"Bài thể dục nhịp điệu số năm\" cơ bản nhất của Liên bang!",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0020:align_0023",
+      "chapter_id": "chapter_0020",
+      "segment_ids": [
+        "chapter_0020:seg_0024"
+      ],
+      "source": "这套健身体操，是联邦的修炼专家研发出来给普通人健身、放松用的，所有联邦公民从幼儿园就开始学习，根本谈不上是什么武技功法，就是最简单的活动手脚，舒展筋骨而已。",
+      "source_hash": "a6779a8ef732660588e3436257bd60ac1c29ca439a35c51dfcdd510a043b101e",
+      "target": "Bài thể dục nhịp điệu này là do các chuyên gia tu luyện của Liên bang nghiên cứu phát triển dành cho người bình thường tập thể dục, thư giãn. Tất cả mọi công dân Liên bang đều bắt đầu học nó từ hồi mẫu giáo. Căn bản không thể coi đây là công pháp võ kỹ gì cả, mà chỉ đơn giản là vận động tay chân, giãn gân giãn cốt mà thôi.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0020:align_0024",
+      "chapter_id": "chapter_0020",
+      "segment_ids": [
+        "chapter_0020:seg_0025"
+      ],
+      "source": "如今，经过一次次升级，已经发展出了动作复杂、略带武技套路的“第九套健身体操”，而十分简单的“第五套健身体操”，只有小学生还拿来当课间操做。",
+      "source_hash": "1fe5c63b44d690d7ff2ac900bd6aaa51827b2bc1b025052b0130358de0e1c0da",
+      "target": "Ngày nay, trải qua vô số lần nâng cấp, người ta đã phát triển ra \"Bài thể dục nhịp điệu số chín\" với các động tác phức tạp, mang hơi hướm của các bài quyền võ thuật, còn \"Bài thể dục nhịp điệu số năm\" cực kỳ đơn giản này, chỉ có học sinh tiểu học mới lấy ra tập làm bài tập giữa giờ.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0020:align_0025",
+      "chapter_id": "chapter_0020",
+      "segment_ids": [
+        "chapter_0020:seg_0026"
+      ],
+      "source": "明明是小学生的课间操，这个笑脸小丑却做得规规矩矩，一丝不苟，每一个动作都伸展到极限，就像是在修炼什么惊天动地的盖世神功。",
+      "source_hash": "b641bfac9d26130b19616abc0529df507093970a86b32bb35f6aae91212168ef",
+      "target": "Rõ ràng là bài tập giữa giờ của học sinh tiểu học, thế nhưng tên hề mặt cười này lại tập luyện vô cùng nề nếp cẩn thận, từng chút một không hề sai sót. Từng động tác đều được vươn dài tới cực hạn, giống như đang tu luyện một môn cái thế thần công kinh thiên động địa nào đó vậy.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0020:align_0026",
+      "chapter_id": "chapter_0020",
+      "segment_ids": [
+        "chapter_0020:seg_0027"
+      ],
+      "source": "“这一万块简直像是白捡，如果不捡，老天爷都要拿雷劈我！”李耀心中狂叫。",
+      "source_hash": "a70e8eb77f59a4fa97fa842b8d8acfc628b4f7840a4573b6d63578a5bb37b1f4",
+      "target": "\"Một vạn khối này quả thực giống như lượm được không vậy, nếu như không nhặt, e là ông trời cũng sẽ giáng sấm sét chẻ chết tôi mất!\" Lý Diệu gào thét điên cuồng trong lòng.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0020:align_0027",
+      "chapter_id": "chapter_0020",
+      "segment_ids": [
+        "chapter_0020:seg_0028"
+      ],
+      "source": "光头纹身男把全套牛皮护具都披挂到他身上，皱眉道：“有什么问题？”",
+      "source_hash": "b56c5cb90b85696176ce9a99386c8bf147c4bda99356de9dedba0287739bad9b",
+      "target": "Gã đầu trọc xăm trổ khoác trọn bộ đồ bảo hộ bằng da bò lên người cậu, nhíu mày hỏi: \"Có vấn đề gì sao?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0020:align_0028",
+      "chapter_id": "chapter_0020",
+      "segment_ids": [
+        "chapter_0020:seg_0029"
+      ],
+      "source": "“呃——”李耀沉吟片刻，问道，“我只能挨打？能不能还手？”",
+      "source_hash": "dd0864817e672ad43ae7fa0ad82822ea86500454b418d89909eb090612371044",
+      "target": "\"Ờ——\" Lý Diệu trầm ngâm một lát, hỏi, \"Tôi chỉ có thể đứng chịu đòn sao? Có được đánh trả không?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0020:align_0029",
+      "chapter_id": "chapter_0020",
+      "segment_ids": [
+        "chapter_0020:seg_0030"
+      ],
+      "source": "光头纹身男一愣，表情似笑非笑，仿佛听到了世界上最幽默的笑话，他又从角落的一个装备箱里取来大把的铁制插板和强化陶瓷插片，插到牛皮护具表面的特殊口袋里。",
+      "source_hash": "4073c8fd8be858672373bf3ba7612afcf3be68666d3b54699e2026dc0ec6b065",
+      "target": "Gã đầu trọc xăm trổ sững người, vẻ mặt cười như không cười, phảng phất như vừa nghe thấy câu chuyện hài hước nhất trên đời. Ông ta lại lấy ra từ trong một chiếc rương đựng dụng cụ ở góc phòng một đống lớn các tấm lót bằng sắt và các miếng đệm gốm cường hóa, nhét vào trong những chiếc túi đặc biệt được thiết kế trên bề mặt bộ đồ bảo hộ bằng da bò.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0020:align_0030",
+      "chapter_id": "chapter_0020",
+      "segment_ids": [
+        "chapter_0020:seg_0031"
+      ],
+      "source": "这样，李耀身上就有了三重保护——强化陶瓷插片、铁制插板和九层牛皮。",
+      "source_hash": "c714f2b4eabd992eaa19d79b7148bb181baa2d106ad223f192ccc89553070825",
+      "target": "Thế này thì, trên người Lý Diệu đã có ba lớp bảo vệ —— tấm đệm gốm cường hóa, tấm lót bằng sắt và chín lớp da bò.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0020:align_0031",
+      "chapter_id": "chapter_0020",
+      "segment_ids": [
+        "chapter_0020:seg_0032"
+      ],
+      "source": "光头纹身男道：“只要你高兴，尽管还手好啦，不过我劝你还是先全力以赴挡住他的攻击再说，好啦，你们慢慢玩，三分钟之后我再进来，希望——”",
+      "source_hash": "b3681d6caed02d8c2b1cb0cf4345f6dede3aeb1d7b57da6dad6642e0cb8b658b",
+      "target": "Gã đầu trọc xăm trổ nói: \"Chỉ cần cậu thích, cứ việc đánh trả thoải mái, thế nhưng tôi khuyên cậu trước tiên hãy dốc toàn lực đỡ được đòn tấn công của cậu ta rồi hãy nói sau. Được rồi, hai người từ từ mà chơi, ba phút sau tôi sẽ quay lại, hy vọng——\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0020:align_0032",
+      "chapter_id": "chapter_0020",
+      "segment_ids": [
+        "chapter_0020:seg_0033"
+      ],
+      "source": "他收住了话头，用一种“一切尽在不言中”的眼神看了李耀一眼，在他肩膀上不轻不重地拍了一下，退出格斗室，关上了门。",
+      "source_hash": "6aca379175f62c1c58b6858469fa43e19b072e1833ba1ebeda5106e7a2bff70d",
+      "target": "Ông ta ngừng lời, dùng ánh mắt \"tất cả không cần nói cũng hiểu\" nhìn Lý Diệu một cái, vỗ không nặng không nhẹ lên vai cậu một cái, lùi ra khỏi phòng cách đấu, đóng cửa lại.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0020:align_0033",
+      "chapter_id": "chapter_0020",
+      "segment_ids": [
+        "chapter_0020:seg_0034"
+      ],
+      "source": "“真是业余级别的修炼馆，不过是三分钟的格斗训练而已，有必要穿得这么严严实实吗？”李耀试着跳了两下，又抡了一套王八拳，感知着护具对身体的影响。",
+      "source_hash": "0c481f53f4bcf40a6827461f7d080277e194feaf3a680f228353ee44ae0a70ad",
+      "target": "\"Đúng là võ quán đẳng cấp nghiệp dư, chẳng qua chỉ là tập luyện đối kháng có ba phút thôi mà, có cần thiết phải mặc kín bưng kín bít thế này không?\" Lý Diệu thử nhảy lên nhảy xuống hai cái, lại vung vẩy múa may loạn xạ mấy đường quyền Vương Bát, cảm nhận mức độ ảnh hưởng của bộ đồ bảo hộ tới cơ thể.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0020:align_0034",
+      "chapter_id": "chapter_0020",
+      "segment_ids": [
+        "chapter_0020:seg_0035"
+      ],
+      "source": "他发现这套护具制作得十分精巧，虽然加装了铁板和强化陶瓷插片之后重达数十斤，却没有影响四肢的活动，除了把他的速度稍稍降低一些之外，并不影响进攻和招架的能力。",
+      "source_hash": "6e71dfa347881fc76c01aec4a54fbcc3e3443aa54e0ae70188fac9a476c1c14d",
+      "target": "Cậu phát hiện bộ đồ bảo hộ này được chế tác vô cùng tinh xảo. Mặc dù sau khi gắn thêm các tấm thép và đệm gốm cường hóa nó nặng tới mấy chục cân, thế nhưng lại không hề ảnh hưởng đến hoạt động của tứ chi, ngoài việc làm tốc độ của cậu giảm đi đôi chút ra, thì hoàn toàn không hề ảnh hưởng đến khả năng tấn công và phòng thủ.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0020:align_0035",
+      "chapter_id": "chapter_0020",
+      "segment_ids": [
+        "chapter_0020:seg_0036"
+      ],
+      "source": "而他的对手还在慢条斯理地热身，刚刚从第四节“伸展运动”做到第六节“扩胸运动”，如果李耀没有记错，后面还有五个小节呢！",
+      "source_hash": "01de8fe582c75bf071d0f07dea18a1e9240ca41a3f029c989f782daed3caf5d5",
+      "target": "Trong khi đó đối thủ của cậu vẫn đang từ từ chậm rãi khởi động, vừa mới tập xong động tác \"Vươn vai\" ở nhịp thứ tư chuyển sang động tác \"Ưỡn ngực\" ở nhịp thứ sáu. Nếu như Lý Diệu nhớ không lầm, đằng sau vẫn còn tới năm nhịp nữa!",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0020:align_0036",
+      "chapter_id": "chapter_0020",
+      "segment_ids": [
+        "chapter_0020:seg_0037"
+      ],
+      "source": "“这位大哥，从我进来你就在热身，难道一定要把全套健身操都做完？要不要这么认真？”李耀忍不住道。",
+      "source_hash": "161bc7d11c7277457de3eaf7b5cc1a3210c7f33726e1d72200052b62e448c79f",
+      "target": "\"Vị đại ca này, từ lúc tôi đi vào là anh đã bắt đầu khởi động rồi, lẽ nào bắt buộc phải tập xong toàn bộ bài thể dục nhịp điệu sao? Có cần thiết phải nghiêm túc thế không?\" Lý Diệu nhịn không được hỏi.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0020:align_0037",
+      "chapter_id": "chapter_0020",
+      "segment_ids": [
+        "chapter_0020:seg_0038"
+      ],
+      "source": "笑脸小丑正保持在跨步开弓，胸膛张开的状态，听了这话，也不继续动作，慢吞吞地说：“你不需要热一下身吗？”",
+      "source_hash": "0af6ba3abc782d58d5cf1afb1b01009931bcd3e507c99389569e92c446ff73fc",
+      "target": "Tên hề mặt cười vẫn đang giữ nguyên tư thế dang rộng hai chân như giương cung, lồng ngực mở rộng, nghe thấy lời này liền ngừng động tác lại, chậm rãi nói: \"Cậu không cần khởi động một chút sao?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0020:align_0038",
+      "chapter_id": "chapter_0020",
+      "segment_ids": [
+        "chapter_0020:seg_0039"
+      ],
+      "source": "“不用了，真正的战场上，哪有那么多时间给你热身！”李耀有些不耐烦地说，他在法宝坟墓中挣扎求生，从来都是说打就打，说跑就跑，肥龙、野狼……这些王八蛋，谁会给他时间热身？",
+      "source_hash": "c49eb5de50d7b566ff1653e1d7298c35755bbbf527f5c1c337939d27ac0af3f2",
+      "target": "\"Không cần, trên chiến trường thực sự, lấy đâu ra nhiều thời gian cho anh khởi động như vậy!\" Lý Diệu có chút mất kiên nhẫn nói. Cậu giãy giụa cầu sinh trong Bãi Rác Pháp Bảo, trước nay luôn là nói đánh là đánh, nói chạy là chạy, những thằng khốn kiếp như Phì Long, Sói Hoang... có đứa nào chừa thời gian cho cậu khởi động chứ?",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0020:align_0039",
+      "chapter_id": "chapter_0020",
+      "segment_ids": [
+        "chapter_0020:seg_0040"
+      ],
+      "source": "笑脸小丑歪着脑袋，轻轻“咦”了一声，似乎没料到李耀能说出这么有道理的话，思索片刻，点头道：“你说的对，准备好了，三分钟——计时开始！”",
+      "source_hash": "0e986d2161f9448d7e5fca0b721bc3a93b5565b0b7dbb7d0e295d915d2a341ca",
+      "target": "Tên hề mặt cười nghiêng đầu, khẽ \"ồ\" lên một tiếng, tựa hồ không ngờ Lý Diệu lại có thể nói ra một câu triết lý đến vậy. Trầm ngâm giây lát, anh ta gật đầu nói: \"Cậu nói đúng, chuẩn bị xong rồi, ba phút —— bắt đầu tính giờ!\"\n\n\"Vèo!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0020:align_0040",
+      "chapter_id": "chapter_0020",
+      "segment_ids": [
+        "chapter_0020:seg_0041",
+        "chapter_0020:seg_0042"
+      ],
+      "source": "“唰！”\n\n几乎在“开始”二字还未传到李耀耳朵里时，一道刺耳的破风声就贯穿了他的耳膜，前一刹那笑脸小丑还在十几米外箭步开弓做着扩胸运动，下一刹那却彻底消失！",
+      "source_hash": "da5ec131d594418545c74d6b5122a837df1416a91373873261be27632c611753",
+      "target": "Gần như ngay khi hai chữ \"bắt đầu\" còn chưa kịp truyền tới tai Lý Diệu, một tiếng xé gió chói tai đã xuyên thủng màng nhĩ của cậu. Một giây trước tên hề mặt cười vẫn còn đang đứng dang rộng chân làm động tác ưỡn ngực ở cách xa hơn mười mét, một giây sau lại hoàn toàn biến mất!",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
+    },
+    {
+      "alignment_id": "chapter_0020:align_0041",
+      "chapter_id": "chapter_0020",
+      "segment_ids": [
+        "chapter_0020:seg_0043"
+      ],
+      "source": "李耀根本无法看穿笑脸小丑的运动轨迹，只感觉到整个胸口都传来针扎般的刺痛，似乎有一只无形的手在瞬间洞穿了三重防护，直插胸膛，狠狠攥住了他的心脏！",
+      "source_hash": "140f9f9aa672586dd422cb46972f32108605e40b7744f0be0a1f177ba685f005",
+      "target": "Lý Diệu căn bản là không có cách nào nhìn thấu được quỹ đạo di chuyển của tên hề mặt cười, chỉ cảm thấy toàn bộ vùng ngực truyền tới một cơn đau nhói như kim đâm, phảng phất như có một bàn tay vô hình trong nháy mắt đã xuyên thủng ba lớp phòng ngự, cắm thẳng vào lồng ngực, hung hăng siết chặt lấy trái tim cậu!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0020:align_0042",
+      "chapter_id": "chapter_0020",
+      "segment_ids": [
+        "chapter_0020:seg_0044"
+      ],
+      "source": "“——什么鬼！”",
+      "source_hash": "ab57af4d0a3ee19de82a42638ec0cf9a2263c29dded0b88c1aadaf5dcc7d2b18",
+      "target": "\"——Cái quái gì thế này!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    }
+  ],
+  "term_occurrences": [
+    {
+      "chapter_id": "chapter_0020",
+      "source_term": "法宝坟墓",
+      "target_term": "Nghĩa địa Pháp Bảo",
+      "segment_id": "chapter_0020:seg_0017",
+      "present_in_target": false,
+      "is_locked": false,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0020",
+      "source_term": "司佳雪",
+      "target_term": "Tiêu Giai Tuyết",
+      "segment_id": "chapter_0020:seg_0017",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0020",
+      "source_term": "纹面符",
+      "target_term": "Văn Diện Phù",
+      "segment_id": "chapter_0020:seg_0003",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0020",
+      "source_term": "彭海",
+      "target_term": "Bành Hải",
+      "segment_id": "chapter_0020:seg_0001",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0020",
+      "source_term": "第五套健身体操",
+      "target_term": "Bài thể dục nhịp điệu số năm",
+      "segment_id": "chapter_0020:seg_0023",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "technique",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0020",
+      "source_term": "第九套健身体操",
+      "target_term": "Bài thể dục nhịp điệu số chín",
+      "segment_id": "chapter_0020:seg_0025",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "technique",
+      "confidence": 1.0
+    }
+  ],
+  "entity_mentions": [
+    {
+      "chapter_id": "chapter_0020",
+      "source_surface": "李耀",
+      "target_surface": "Lý Diệu",
+      "entity_type": "person",
+      "segment_id": "chapter_0020:seg_0005",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0020",
+      "source_surface": "肥龙",
+      "target_surface": "Phì Long",
+      "entity_type": "person",
+      "segment_id": "chapter_0020:seg_0039",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0020",
+      "source_surface": "彭海",
+      "target_surface": "Bành Hải",
+      "entity_type": "person",
+      "segment_id": "chapter_0020:seg_0001",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0020",
+      "source_surface": "司佳雪",
+      "target_surface": "Tiêu Giai Tuyết",
+      "entity_type": "person",
+      "segment_id": "chapter_0020:seg_0017",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0020",
+      "source_surface": "赵馆长",
+      "target_surface": "Triệu quán chủ",
+      "entity_type": "person",
+      "segment_id": "chapter_0020:seg_0004",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0020",
+      "source_surface": "第五套健身体操",
+      "target_surface": "Bài thể dục nhịp điệu số năm",
+      "entity_type": "techniques",
+      "segment_id": "chapter_0020:seg_0023",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0020",
+      "source_surface": "强化药剂",
+      "target_surface": "Dược chất cường hóa Linh Căn",
+      "entity_type": "cultivation_resources",
+      "segment_id": "chapter_0020:seg_0017",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0020",
+      "source_surface": "法宝坟墓",
+      "target_surface": "Nghĩa địa Pháp Bảo",
+      "entity_type": "locations",
+      "segment_id": "chapter_0020:seg_0017",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0020",
+      "source_surface": "纹面符",
+      "target_surface": "Văn Diện Phù",
+      "entity_type": "items",
+      "segment_id": "chapter_0020:seg_0003",
+      "confidence": 1.0
+    }
+  ],
+  "name_analysis": {
+    "status": "ok",
+    "evidence_count": 5,
+    "name_mentions": [
+      {
+        "chapter_id": "chapter_0020",
+        "name_source": "李耀",
+        "name_target": "Lý Diệu",
+        "segment_id": "chapter_0020:seg_0005",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0020",
+        "name_source": "肥龙",
+        "name_target": "Phì Long",
+        "segment_id": "chapter_0020:seg_0039",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0020",
+        "name_source": "彭海",
+        "name_target": "Bành Hải",
+        "segment_id": "chapter_0020:seg_0001",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0020",
+        "name_source": "司佳雪",
+        "name_target": "Tiêu Giai Tuyết",
+        "segment_id": "chapter_0020:seg_0017",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0020",
+        "name_source": "赵馆长",
+        "name_target": "Triệu quán chủ",
+        "segment_id": "chapter_0020:seg_0004",
+        "present_in_target": true,
+        "confidence": 1.0
+      }
+    ],
+    "name_entries": [
+      {
+        "name_source": "李耀",
+        "name_target": "Lý Diệu"
+      },
+      {
+        "name_source": "肥龙",
+        "name_target": "Phì Long"
+      },
+      {
+        "name_source": "彭海",
+        "name_target": "Bành Hải"
+      },
+      {
+        "name_source": "司佳雪",
+        "name_target": "Tiêu Giai Tuyết"
+      },
+      {
+        "name_source": "赵馆长",
+        "name_target": "Triệu quán chủ"
+      }
+    ],
+    "transliteration_units": [],
+    "inferred_name_rules": [],
+    "ambiguity_cases": [],
+    "reusable_name_profile": {
+      "mapping_count": 5,
+      "has_ambiguity": false
+    }
+  },
   "phrase_patterns": [],
   "grammar_rule_candidates": [],
+  "analyzer_reports": {
+    "term_occurrences": {
+      "status": "ok",
+      "evidence_count": 6
+    },
+    "entity_mentions": {
+      "status": "ok",
+      "evidence_count": 9
+    },
+    "name_mentions": {
+      "status": "ok",
+      "evidence_count": 5
+    },
+    "phrase_patterns": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    },
+    "grammar_rule_candidates": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    }
+  },
+  "review_queue": [
+    {
+      "chapter_id": "chapter_0020",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "万块",
+        "entity_type": "person",
+        "count": 4,
+        "confidence": 0.7,
+        "evidence": [
+          "过三分钟，就能拿到一万块，不过若是撑不到三分",
+          "撑过三分钟，就能拿一万块？当陪练竟然这么赚钱",
+          "了司佳雪一刀，赚了十万块，可这种肥羊也不是随"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0020",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "都清楚",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.82,
+        "evidence": [
+          "：“来了？价钱什么的都清楚，没问题吧？”\n\n“",
+          "，没问题吧？”\n\n“都清楚，没问题，咱们直接交"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0020",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "关上了门",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "了一下，退出格斗室，关上了门。\n\n“真是业余级别"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0020",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "推开门",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "光头纹面男一边说着，推开门，走进力量训练房。\n"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0020",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0020:align_0001",
+        "segment_ids": [
+          "chapter_0020:seg_0001",
+          "chapter_0020:seg_0002"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0020",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0020:align_0040",
+        "segment_ids": [
+          "chapter_0020:seg_0041",
+          "chapter_0020:seg_0042"
+        ]
+      }
+    }
+  ],
   "quality_audit": {
     "segment_coverage": 1.0,
+    "source_hash_match": true,
+    "target_reconstruction_match": true,
+    "invalid_ref_count": 0,
     "locked_term_hit_rate": 1.0,
+    "missing_locked_terms": [],
     "cjk_residue_count": 0,
-    "paragraph_drift_ratio": 0.0,
+    "paragraph_drift_ratio": 0.045454545454545456,
     "pronoun_consistency_score": 1.0,
     "warnings": []
   }

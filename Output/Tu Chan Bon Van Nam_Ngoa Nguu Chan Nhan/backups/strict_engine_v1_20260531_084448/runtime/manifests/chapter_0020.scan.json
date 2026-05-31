@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 20,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan\\0020 - 20.第20章 体操男.md",
+  "source_char_count": 2295,
+  "characters": [
+    {
+      "source": "万块",
+      "entity_type": "person",
+      "count": 4,
+      "confidence": 0.7,
+      "evidence": [
+        "过三分钟，就能拿到一万块，不过若是撑不到三分",
+        "撑过三分钟，就能拿一万块？当陪练竟然这么赚钱",
+        "了司佳雪一刀，赚了十万块，可这种肥羊也不是随"
+      ]
+    },
+    {
+      "source": "都清楚",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.82,
+      "evidence": [
+        "：“来了？价钱什么的都清楚，没问题吧？”\n\n“",
+        "，没问题吧？”\n\n“都清楚，没问题，咱们直接交"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "source": "关上了门",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "了一下，退出格斗室，关上了门。\n\n“真是业余级别"
+      ]
+    },
+    {
+      "source": "推开门",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "光头纹面男一边说着，推开门，走进力量训练房。\n"
+      ]
+    }
+  ],
+  "locations": [],
+  "realms": [],
+  "techniques": [
+    "不上是什么武技功法",
+    "丑还在十几米外箭步",
+    "他在法",
+    "又抡了一套王八拳",
+    "己的身体可是刚刚经",
+    "李耀根本无法",
+    "次痛宰了司佳雪一刀",
+    "脸小丑正保持在跨步",
+    "装出一副经"
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "法宝坟墓",
+      "target": "Nghĩa địa Pháp Bảo"
+    },
+    {
+      "source": "司佳雪",
+      "target": "Tiêu Giai Tuyết"
+    },
+    {
+      "source": "纹面符",
+      "target": "Văn Diện Phù"
+    },
+    {
+      "source": "彭海",
+      "target": "Bành Hải"
+    }
+  ],
+  "generated_at": "2026-05-30T05:40:13.757265+07:00"
+}

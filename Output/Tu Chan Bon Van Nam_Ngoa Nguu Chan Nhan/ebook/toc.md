@@ -33,3 +33,49 @@
 - Chương 0031: Tớ Không Phải Là Cá Muối!
 - Chương 0032: Cậu Ta Là Quái Vật!
 - Chương 0033: Đêm Dài Khó Nhọc
+- Chương 0034: Hung Thú Ra Lồng
+- Chương 0035: Thời Khắc Kịch Chiến
+- Chương 0036: Lý Diệu Lên Sân!
+- Chương 0037: Hổ Súc Kích Bảy Lần Liên Sát!
+- Chương 0038: Sát Hướng Đảo Ma Giao
+- Chương 0039: Thế giới tu chân, biển rộng trời cao!
+- Chương 0040: Các loại hình tu chân giả
+- Chương 0041: Kỳ hạm, Liêu Viễn Hào!
+- Chương 0042: Cửu Tinh Thăng Long!
+- Chương 0043: Thiên Huyễn Thư Viện
+- Chương 0044: Linh Tử Đối Chàng
+- Chương 0045: Đại Đạo Chi Tranh
+- Chương 0046: Thánh địa của luyện khí sư
+- Chương 0047: Đinh Linh Đang
+- Chương 0048: Lời mời của Đại Hoang Chiến Viện
+- Chương 0049: Tinh thú Tiểu Cát
+- Chương 0050: Quy tắc của luyện khí sư
+- Chương 0051: Thanh đao chiến của nền văn minh nhân loại!
+- Chương 0052: Sương mù và Ảo Đằng
+- Chương 0053: Giết trong nháy mắt!
+- Chương 0054: Ba món đại sát khí
+- Chương 0055: Giao dịch pháp bảo
+- Chương 0056: Đứng đầu bảng điểm!
+- Chương 0057: Ba sự lựa chọn
+- Chương 0058: Chỉ huy xuất hiện
+- Chương 0059: Tê liệt rồi!
+- Chương 0060: Cửa sau điên cuồng
+- Chương 0061: Lý Diệu ở đâu?
+- Chương 0061: Lý Diệu ở đâu?
+- Chương 0062: Kỳ cao một nước
+- Chương 0063: Chém giết suốt chặng đường!
+- Chương 0064: Gió táp mưa sa
+- Chương 0065: Quỷ Long số 7
+- Chương 0066: Thiên Ma Sát Huyết Pháo
+- Chương 0067: Mạt Nhật Biến
+- Chương 0068: Diệt Khẩu Hay Không Diệt Khẩu?
+- Chương 0069: Cây Ký Ức
+- Chương 0070: Yêu Tinh
+- Chương 0071: Yêu Tinh Biến!
+- Chương 0072: Thằn Lằn Hóa Khủng Long Bạo Chúa!
+- Chương 0073: Một Pháo Oanh Sát!
+- Chương 0074: Thời Gian Không Chờ Đợi Ai!
+- Chương 0075: Xé Rách Mặt!
+- Chương 0076: Một Chùy Định Âm!
+- Chương 0077: Xích Diễm Nữ Vương
+- Chương 0078: Gió Cuộn Mây Tan

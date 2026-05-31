@@ -1,9 +1,11 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
   "chapter": 24,
   "passed": true,
   "errors": [],
-  "warnings": [],
-  "generated_at": "2026-05-30T22:37:37.610740+07:00"
+  "warnings": [
+    "Paragraph grouping anomaly: source=54, target=29, drift=0.46"
+  ],
+  "generated_at": "2026-05-31T08:45:49.130815+07:00"
 }

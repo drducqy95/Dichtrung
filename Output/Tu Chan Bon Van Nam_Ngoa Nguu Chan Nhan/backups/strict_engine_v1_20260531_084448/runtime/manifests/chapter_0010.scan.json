@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 10,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan\\0010 - 10.第10章 阴魂入体.md",
+  "source_char_count": 2208,
+  "characters": [
+    {
+      "source": "欧冶明",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.82,
+      "evidence": [
+        "！练！都给我玩命练！欧冶明，你傻愣愣站着干什么",
+        "狠狠地瞪着他。\n\n“欧冶明，昨天吃饭时胡言乱语"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "source": "中最强的炼器宗派",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "宗，是‘洪荒大世界’中最强的炼器宗派，门规森严，即便门下"
+      ]
+    },
+    {
+      "source": "列车上的警卫肯定把这件事通知了本地的警察部门",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "中。\n\n李耀却知道，列车上的警卫肯定把这件事通知了本地的警察部门，甚至还有军方，很快"
+      ]
+    },
+    {
+      "source": "我们百炼宗",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "德，三生修来的福气！我们百炼宗，是‘洪荒大世界’中"
+      ]
+    },
+    {
+      "source": "百炼宗",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "废物，已经正式拜入‘百炼宗’门下，成为百炼宗的"
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "source": "无渊海",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "五十棵树，去下面的‘无渊海’里猎杀至少十条‘脊"
+      ]
+    }
+  ],
+  "realms": [],
+  "techniques": [
+    "不等黑翼剑",
+    "中他也无数次亲身经",
+    "他已经",
+    "们百炼宗的基础功法",
+    "作为在法",
+    "修炼更上乘的功法",
+    "入云的巨大兵刃和法",
+    "加快脚步",
+    "披风乱锤法",
+    "整个人已经",
+    "比他曾经",
+    "百零八手披风乱锤法",
+    "的缠绳都被他磨破掌",
+    "眼前却是一阵一阵",
+    "行为可以说游走在法"
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "法宝坟墓",
+      "target": "Nghĩa địa Pháp Bảo"
+    },
+    {
+      "source": "小黑",
+      "target": "Tiểu Hắc"
+    },
+    {
+      "source": "黑翼",
+      "target": "Hắc Dực"
+    },
+    {
+      "source": "晶轨大桥",
+      "target": "cầu tinh quỹ"
+    },
+    {
+      "source": "超高速晶轨列车",
+      "target": "tàu tốc hành tinh quỹ siêu tốc"
+    }
+  ],
+  "generated_at": "2026-05-30T04:57:04.680353+07:00"
+}

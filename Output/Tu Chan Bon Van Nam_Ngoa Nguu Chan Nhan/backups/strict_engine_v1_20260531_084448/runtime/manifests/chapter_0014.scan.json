@@ -1,0 +1,165 @@
+{
+  "schema_version": "1.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 14,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan\\0014 - 14.第14章 隐湖小境.md",
+  "source_char_count": 3217,
+  "characters": [
+    {
+      "source": "时间",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "佳雪做出的承诺，一看时间，才发现已经到了下午",
+        "流出的汗渍，抬腕看看时间，还不算太晚，干脆冲"
+      ]
+    },
+    {
+      "source": "通卡",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "\n\n这是不记名的金灵通卡，可以将卡片上的符文",
+        "便。\n\n李耀接过金灵通卡，轻触卡片左上角一个"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "source": "在一百多年前的晶脑内部",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "改动了一下散热结构，在一百多年前的晶脑内部，采用了一种三十年前"
+      ]
+    },
+    {
+      "source": "这才一身舒爽地出了门",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "通狠刷，换了身衣服，这才一身舒爽地出了门。\n\n司佳雪给的地址"
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "source": "隐冬湖",
+      "entity_type": "location",
+      "count": 2,
+      "confidence": 0.78,
+      "evidence": [
+        "就在其中一个人工湖“隐冬湖”边上，是一处名叫隐"
+      ]
+    },
+    {
+      "source": "上东区是权贵云集的富人区",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "东区的一处自助餐厅，上东区是权贵云集的富人区，以前李耀很少来这里"
+      ]
+    },
+    {
+      "source": "周围共有七个面积很大的人工湖",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "东区位于浮戈城中央，周围共有七个面积很大的人工湖，隐隐将这一区域和周"
+      ]
+    },
+    {
+      "source": "在富人区",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "放无薪假。\n\n所以，在富人区，只要不是只穿着三角"
+      ]
+    },
+    {
+      "source": "如猛虎下山",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "，把裤腰带松了一节，如猛虎下山，似饿狗出笼，呼啸而"
+      ]
+    },
+    {
+      "source": "就在其中一个人工湖",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "，司佳雪给出的地址，就在其中一个人工湖“隐冬湖”边上，是一"
+      ]
+    },
+    {
+      "source": "灯笼和花园分隔成了十几个私密区域",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "巧妙，用餐区被长廊、灯笼和花园分隔成了十几个私密区域，而摆满食物的长桌则"
+      ]
+    },
+    {
+      "source": "而摆满食物的长桌则遍布各个区域",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "成了十几个私密区域，而摆满食物的长桌则遍布各个区域，确保客人在相对独立"
+      ]
+    }
+  ],
+  "realms": [],
+  "techniques": [
+    "不由倒退两步",
+    "子炼制了几百年的法",
+    "对于尚未掌",
+    "当他用螺丝刀",
+    "才发现已经",
+    "架设天气符阵",
+    "然皱巴巴的外套已经",
+    "骤然停下脚步"
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "浮戈城",
+      "target": "Phù Qua Thành"
+    },
+    {
+      "source": "上东区",
+      "target": "khu Thượng Đông"
+    },
+    {
+      "source": "晶脑",
+      "target": "Tinh não"
+    },
+    {
+      "source": "赤霄二中",
+      "target": "Xích Tiêu Nhị Trung"
+    },
+    {
+      "source": "散热片",
+      "target": "tấm tản nhiệt"
+    },
+    {
+      "source": "星空巨兽",
+      "target": "Tinh Không Cự Thú"
+    },
+    {
+      "source": "司佳雪",
+      "target": "Tiêu Giai Tuyết"
+    }
+  ],
+  "generated_at": "2026-05-30T05:30:45.970368+07:00"
+}

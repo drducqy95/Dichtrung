@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 8,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan\\0008 - 8.第8章 维修晶脑.md",
+  "source_char_count": 2632,
+  "characters": [
+    {
+      "source": "万块",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "耀同学，我可以给你十万块，但交易就要有交易的",
+        "\n成功了！\n\n有了十万块，他就可以去“地下鬼"
+      ]
+    },
+    {
+      "source": "关系",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "根本不兼容——不过没关系，我的藏品里刚好有几",
+        "同学觉得太贵，也没有关系，就当我免费帮你检修"
+      ]
+    },
+    {
+      "source": "能修",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "擅长晶脑维修，如果你能修，要什么价尽管开口，",
+        "是问题；当然，如果不能修，也请直说，千万不要"
+      ]
+    },
+    {
+      "source": "钟之后",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.82,
+      "evidence": [
+        "构正在飞快运作，几秒钟之后，忽然飞出李耀的手掌",
+        "，结构比较简单，两分钟之后，李耀初步得出了结论"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "source": "天琴门",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "这是一百四十多年前“天琴门”研发的管式晶脑“广"
+      ]
+    },
+    {
+      "source": "而天琴门更是一个只存在了五十多年的小门派",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "先进的“片式晶脑”，而天琴门更是一个只存在了五十多年的小门派，这个门派依靠初代“"
+      ]
+    },
+    {
+      "source": "这是唯一的机会",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "上‘九大精英联校’，这是唯一的机会，就算你是‘二中女神"
+      ]
+    }
+  ],
+  "locations": [],
+  "realms": [
+    "炼气"
+  ],
+  "techniques": [
+    "也只能狠宰你一刀",
+    "几家维修商店都无法",
+    "常人无法",
+    "忽然飞出李耀的手掌",
+    "按他们的说法",
+    "李耀初步",
+    "没有办法",
+    "竟是一百多年前的法",
+    "购买非法"
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "晶脑",
+      "target": "Tinh não"
+    },
+    {
+      "source": "九大精英联校",
+      "target": "Chín đại học tinh anh liên kết"
+    },
+    {
+      "source": "普通班",
+      "target": "lớp thường"
+    },
+    {
+      "source": "灵根",
+      "target": "Linh căn"
+    },
+    {
+      "source": "灵根开发度",
+      "target": "độ khai phát linh căn"
+    }
+  ],
+  "generated_at": "2026-05-30T04:56:22.075698+07:00"
+}

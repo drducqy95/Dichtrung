@@ -1,0 +1,798 @@
+{
+  "schema_version": "2.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 41,
+  "chapter_id": "chapter_0041",
+  "source_manifest_hash": "e590a58b1ae2792261e18dcacdb9c435193b99e163d8ecd72fbf7c4f306ff9f1",
+  "aligned_segments": [
+    {
+      "alignment_id": "chapter_0041:align_0001",
+      "chapter_id": "chapter_0041",
+      "segment_ids": [
+        "chapter_0041:seg_0001"
+      ],
+      "source": "# 41.第41章 旗舰，辽远号！",
+      "source_hash": "62c4acf95ab77c83fa80b86d8c1cc17962acd2461c01ae7fea48282800a385ad",
+      "target": "# Chương 0041 - Kỳ hạm, Liêu Viễn Hào!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0041:align_0002",
+      "chapter_id": "chapter_0041",
+      "segment_ids": [
+        "chapter_0041:seg_0002"
+      ],
+      "source": "李耀一愣，感到一股莫名的寒意.",
+      "source_hash": "a584536a9e0f15416aedc8fea96be5271bbf8c67deeb30fa2bc2c6be0e8d3c24",
+      "target": "Lý Diệu sửng sốt, cảm thấy một luồng ớn lạnh khó hiểu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0041:align_0003",
+      "chapter_id": "chapter_0041",
+      "segment_ids": [
+        "chapter_0041:seg_0003"
+      ],
+      "source": "四万年前，正是一名修真者研发出了妖神病毒，才导致妖兽崛起，人类进入长达三万年的“大黑暗时代”。",
+      "source_hash": "0b95004641b6eef83283dc0ef276639d78c68390b53ccf8aef9cc352f5d5f85e",
+      "target": "Bốn vạn năm trước, chính là một tu chân giả đã nghiên cứu chế tạo ra virus Yêu Thần, mới dẫn đến sự trỗi dậy của yêu thú, khiến nhân loại bước vào 'Đại Hắc Ám Thời Đại' kéo dài đằng đẵng ba vạn năm.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0041:align_0004",
+      "chapter_id": "chapter_0041",
+      "segment_ids": [
+        "chapter_0041:seg_0004"
+      ],
+      "source": "研究型修真者，的确是神魔般的存在！",
+      "source_hash": "4a9e573e5bbb07e1a172c25d38637e45a03e41fe89869d487cc821ef9c0fe131",
+      "target": "Tu chân giả hệ nghiên cứu, quả thực là tồn tại giống như thần ma!",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0041:align_0005",
+      "chapter_id": "chapter_0041",
+      "segment_ids": [
+        "chapter_0041:seg_0005"
+      ],
+      "source": "定了定神，李耀继续问：“第四种呢？”",
+      "source_hash": "f3430346cbf8c27070b40ff0c5c6200f5b91795495aaec23e5a2aa2641575219",
+      "target": "Định thần lại, Lý Diệu tiếp tục hỏi: \"Loại thứ tư thì sao?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0041:align_0006",
+      "chapter_id": "chapter_0041",
+      "segment_ids": [
+        "chapter_0041:seg_0006"
+      ],
+      "source": "“第四种，就是‘创造型’修真者，这种类型的修真者，灵能和计算力相对平衡，却要有一双巧手和天马行空的想象力，擅长制造！其实这个类型的修真者也是很常见的，比如说修真界最受欢迎的职业之一‘炼器师’，就是创造型修真者！传说中最强大的创造型修真者，可以炼制堪比卫星大小的星空巨舰，也能炼制威力无穷的‘碎星炮’，一炮轰平一片大陆！”",
+      "source_hash": "7442d3f90138bb9abc917caf0f537a6786a909b64a58e0382e6adf1b4134fdff",
+      "target": "\"Loại thứ tư, chính là tu chân giả 'hệ sáng tạo', loại hình tu chân giả này có linh năng và lực tính toán tương đối cân bằng, nhưng lại cần phải có đôi bàn tay khéo léo và trí tưởng tượng bay bổng, vô cùng am hiểu chế tạo! Thật ra loại hình tu chân giả này cũng rất phổ biến, ví dụ như một trong những nghề nghiệp được hoan nghênh nhất giới tu chân là 'luyện khí sư', chính là tu chân giả hệ sáng tạo! Theo truyền thuyết, tu chân giả hệ sáng tạo mạnh nhất có thể luyện chế ra cự hạm tinh không to lớn sánh ngang với vệ tinh, cũng có thể luyện chế ra 'Toái Tinh Pháo' có uy lực vô cùng vô tận, một pháo san bằng cả một đại lục!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0041:align_0007",
+      "chapter_id": "chapter_0041",
+      "segment_ids": [
+        "chapter_0041:seg_0007"
+      ],
+      "source": "李耀眼皮一跳，终于知道，自己的道路，是创造型修真者！",
+      "source_hash": "96b995f3a9e95ce90b8149a63a07052f862763b9c0b5b1d74bde0535c8f318ef",
+      "target": "Mí mắt Lý Diệu giật giật, cuối cùng cũng hiểu ra, con đường của mình, chính là tu chân giả hệ sáng tạo!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0041:align_0008",
+      "chapter_id": "chapter_0041",
+      "segment_ids": [
+        "chapter_0041:seg_0008"
+      ],
+      "source": "郑东明张开五个手指，勾了勾尾指，道：“第五种，是文艺型修真者，他们的灵能修为和计算力都未必出类拔萃，但却拥有一种十分玄妙的精神力量，可以随时随地感染到身边的人，令别人沉溺于他们的精神世界中，说实话，文艺型修真者算是最神秘的一型了，无论修真界的专家学者怎么研究，都无法堪破这种精神力量的奥妙！文艺型修真者通常是最好的诗人、画家、小说家、音乐家！”",
+      "source_hash": "a77c5d8d6d1e3aa9759a8f22a30b098ca045a7705ac665e7720c05d6fc495161",
+      "target": "Trịnh Đông Minh xòe năm ngón tay ra, khẽ ngoắc ngón út, nói: \"Loại thứ năm, là tu chân giả 'hệ văn nghệ', tu vi linh năng và lực tính toán của bọn họ chưa chắc đã xuất chúng, nhưng lại sở hữu một loại tinh thần lực vô cùng huyền diệu, có thể lây nhiễm cho người xung quanh mọi lúc mọi nơi, khiến người khác chìm đắm vào trong thế giới tinh thần của họ. Nói thật, tu chân giả hệ văn nghệ được coi là loại hình bí ẩn nhất, bất luận các chuyên gia học giả trong giới tu chân nghiên cứu thế nào, cũng không thể thấu hiểu được sự áo diệu của loại tinh thần lực này! Tu chân giả hệ văn nghệ thường là những nhà thơ, họa sĩ, tiểu thuyết gia, nhạc sĩ xuất sắc nhất!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0041:align_0009",
+      "chapter_id": "chapter_0041",
+      "segment_ids": [
+        "chapter_0041:seg_0009"
+      ],
+      "source": "李耀若有所思地点了点头：“画家？小说家？听起来没什么战斗力啊！”",
+      "source_hash": "2ef1e16f7909a4ba57e772608a72fb8f0eaa2848dd08eda32427603639dbb926",
+      "target": "Lý Diệu như có điều suy nghĩ gật gật đầu: \"Họa sĩ? Tiểu thuyết gia? Nghe có vẻ không có chút sức chiến đấu nào nhỉ!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0041:align_0010",
+      "chapter_id": "chapter_0041",
+      "segment_ids": [
+        "chapter_0041:seg_0010"
+      ],
+      "source": "郑东明诡异一笑：“那可未必，一般的文艺型修真者或许不太擅长战斗，可是其中有一些十分恐怖的异类，却是谁都不敢轻易招惹的绝强存在！举个例子，在文艺型修真者里面，有一种特殊职业，叫做‘幻文师’，平时看起来，只是平凡无奇的作家，可是一旦他们发怒，精神世界炸裂，就可以将敌人拖入他们创造的文字领域，你想想看，那个领域的全部法则，都是他们一手创造，他们自然是呼风唤雨，无所不能了！即便是比他们高几个级数的修真者，一旦中招，被拖入文字领域，也很难全身而退。”",
+      "source_hash": "f860d9679d4f88857082db267581f7468c99296f4df1e3954d0585ee22e0f399",
+      "target": "Trịnh Đông Minh nở nụ cười quỷ dị: \"Điều đó cũng chưa chắc đâu, tu chân giả hệ văn nghệ thông thường có lẽ không quá am hiểu chiến đấu, thế nhưng bên trong cũng có một số dị loại vô cùng kinh khủng, lại là tồn tại tuyệt cường mà không ai dám tùy tiện trêu chọc! Lấy một ví dụ, trong số các tu chân giả hệ văn nghệ, có một loại nghề nghiệp đặc thù, gọi là 'Ảo Văn Sư', bình thường thoạt nhìn chỉ là một tác gia bình phàm không có gì lạ, thế nhưng một khi họ nổi giận, thế giới tinh thần vỡ vụn, liền có thể kéo kẻ thù vào trong lĩnh vực văn tự do chính họ sáng tạo ra. Cậu thử nghĩ mà xem, toàn bộ pháp tắc của lĩnh vực kia đều do một tay bọn họ sáng tạo ra, đương nhiên bọn họ có thể hô phong hoán vũ, không gì không làm được! Cho dù là tu chân giả cao hơn bọn họ vài cấp bậc, một khi đã trúng chiêu, bị kéo vào lĩnh vực văn tự, thì cũng rất khó có thể toàn thây rút lui.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0041:align_0011",
+      "chapter_id": "chapter_0041",
+      "segment_ids": [
+        "chapter_0041:seg_0011"
+      ],
+      "source": "“修真世界，果然是千奇百怪，竟然有这么多奇妙的职业！”李耀思索片刻，不得不承认“幻文师”确实是十分难缠的敌人。",
+      "source_hash": "edfa55d29c876154b949546f4aedbae88eadcf5dc6b0d2846f5f50127e9f1858",
+      "target": "\"Thế giới tu chân quả nhiên là thiên kỳ bách quái, vậy mà lại có nhiều nghề nghiệp kỳ diệu đến thế!\" Lý Diệu suy tư chốc lát, không thể không thừa nhận \"Ảo Văn Sư\" đúng là những kẻ địch vô cùng khó chơi.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0041:align_0012",
+      "chapter_id": "chapter_0041",
+      "segment_ids": [
+        "chapter_0041:seg_0012"
+      ],
+      "source": "和如此诡异的修真者比起来，最普通的的“战斗型修真者”，简直是人畜无害的良好公民了。",
+      "source_hash": "973f445b4ac522da8e825c8d0005783faa7a60063756751436af8c0e4154a1b6",
+      "target": "So với những tu chân giả quỷ dị như vậy, \"tu chân giả hệ chiến đấu\" bình thường nhất, quả thực giống như những công dân lương thiện vô hại vậy.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0041:align_0013",
+      "chapter_id": "chapter_0041",
+      "segment_ids": [
+        "chapter_0041:seg_0013"
+      ],
+      "source": "郑东明五指捏拢，握成拳头，道：“第六种，就是复合型了，他们拥有好几种不同类型的特质，能担当多方面的重任，是不可多得的人才，有‘万金油’之称，不过修真世界浩瀚无穷，学得越多就越不容易精通，真正能跨界发展的复合型修真者并不多，偶尔有几个，一出现就会被各大宗派争抢，成为炙手可热的明星人物。”",
+      "source_hash": "53eed28e98d86567d57714a4bfea3de63f66be0669944aa56450d777502663bb",
+      "target": "Trịnh Đông Minh nắm chặt năm ngón tay lại thành quyền, nói: \"Loại thứ sáu, chính là 'hệ phức hợp', bọn họ sở hữu vài loại đặc chất của các loại hình khác nhau, có thể đảm đương được những trọng trách ở nhiều phương diện, là nhân tài hiếm có khó tìm, được xưng là 'Vạn Kim Du'. Bất quá thế giới tu chân vô cùng bao la bát ngát, học càng nhiều thì lại càng không dễ tinh thông, tu chân giả hệ phức hợp có thể thực sự phát triển rẽ ngang cũng không nhiều, thỉnh thoảng mới xuất hiện vài người, hễ cứ lộ diện là sẽ bị các đại tông phái tranh giành kịch liệt, trở thành nhân vật ngôi sao sốt dẻo.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0041:align_0014",
+      "chapter_id": "chapter_0041",
+      "segment_ids": [
+        "chapter_0041:seg_0014"
+      ],
+      "source": "李耀心中一动，他觉得自己同时拥有“战斗型”和“创造型”的潜质，有机会成为一名复合型修真者。",
+      "source_hash": "2de0291d99fccd945c3dc006ea2131eba5a33273a99bcfcfece3a949d7a2dd42",
+      "target": "Trong lòng Lý Diệu khẽ động, cậu cảm thấy bản thân mình đồng thời sở hữu cả tiềm chất của \"hệ chiến đấu\" và \"hệ sáng tạo\", có cơ hội trở thành một danh tu chân giả hệ phức hợp.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0041:align_0015",
+      "chapter_id": "chapter_0041",
+      "segment_ids": [
+        "chapter_0041:seg_0015"
+      ],
+      "source": "不过眼下想这些还为时尚早，还是专心应付好极限挑战赛再说吧。",
+      "source_hash": "f412a8199ea16e2dd7a482cb25c335076b12fef9eb3677b505e64c7208dec825",
+      "target": "Có điều bây giờ nghĩ đến những thứ này vẫn còn quá sớm, vẫn nên tập trung đối phó tốt với Giải đấu Thử thách Cực hạn rồi hãy tính sau.",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0041:align_0016",
+      "chapter_id": "chapter_0041",
+      "segment_ids": [
+        "chapter_0041:seg_0016"
+      ],
+      "source": "正琢磨着，灵能浮空艇轻轻一震，速度渐渐减慢下来。",
+      "source_hash": "ef238e34730859f7e7072b154ec05617ecaa42a9bee73f6ec74ef32e47f111fa",
+      "target": "Đang mải miết suy tư, linh năng phù không đĩnh chợt rung lên nhè nhẹ, tốc độ cũng dần dần chậm lại.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0041:align_0017",
+      "chapter_id": "chapter_0041",
+      "segment_ids": [
+        "chapter_0041:seg_0017"
+      ],
+      "source": "周围的学生，发出阵阵惊叹。",
+      "source_hash": "54df65a38c1fbf6a6c9f12c6aaf11d1c6b69364727e185249b5f015e26cf18f3",
+      "target": "Những học sinh xung quanh liên tục phát ra từng trận kinh hô.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0041:align_0018",
+      "chapter_id": "chapter_0041",
+      "segment_ids": [
+        "chapter_0041:seg_0018"
+      ],
+      "source": "李耀极目远眺，眼前的场景和刚才风平浪静的金鳞大海已经完全不同。",
+      "source_hash": "6cbef8b16b7b0313dfbe1f8a68767ceb05e03b94dd2bba96ff7909908a034dd7",
+      "target": "Lý Diệu phóng tầm mắt ra xa, khung cảnh trước mắt so với vùng biển Kim Lân sóng yên biển lặng vừa rồi đã hoàn toàn khác biệt.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0041:align_0019",
+      "chapter_id": "chapter_0041",
+      "segment_ids": [
+        "chapter_0041:seg_0019"
+      ],
+      "source": "海面不知何时变成深黑色，出现了几十个恐怖的巨大漩涡，发出震耳欲聋的咆哮，就像是一个可怕的海中妖魔，张开了几十张犬牙交错的大口。",
+      "source_hash": "ca2498af72607fcef1b2b4d48ef7280db05bd61bb4ed943cde1f9aadd303af49",
+      "target": "Mặt biển không biết từ lúc nào đã hóa thành một màu đen kịt, xuất hiện mấy chục cái vòng xoáy khổng lồ vô cùng kinh khủng, phát ra những tiếng gầm thét đinh tai nhức óc, tựa như một con yêu ma đáng sợ dưới đáy biển đang há to mấy chục cái miệng rộng lởm chởm răng nanh.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0041:align_0020",
+      "chapter_id": "chapter_0041",
+      "segment_ids": [
+        "chapter_0041:seg_0020"
+      ],
+      "source": "而在重重漩涡的包围中，是一连串狭长扭曲的群岛，恍若一头海中蛟龙，在惊涛骇浪中拼命扭动。",
+      "source_hash": "d679c12828c00f8689b3baf5c122552d30089e82d947a298823ac5b3a735aa67",
+      "target": "Mà bên trong tầng tầng vòng xoáy bủa vây, là một chuỗi quần đảo chật hẹp vặn vẹo, phảng phất như một con giao long dưới biển đang liều mạng vùng vẫy giữa sóng to gió lớn.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0041:align_0021",
+      "chapter_id": "chapter_0041",
+      "segment_ids": [
+        "chapter_0041:seg_0021"
+      ],
+      "source": "这就是他们的目的地，魔蛟岛，极限挑战赛的571号赛场！",
+      "source_hash": "9fe775236f45ffc653605412ee6c916a4c34535ad66f34ef4afb7c93827685f1",
+      "target": "Đây chính là đích đến của bọn họ, Đảo Ma Giao, sân thi đấu số 571 của Giải đấu Thử thách Cực hạn!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0041:align_0022",
+      "chapter_id": "chapter_0041",
+      "segment_ids": [
+        "chapter_0041:seg_0022"
+      ],
+      "source": "——令众多学生发出惊叹的，并不是魔蛟岛本身，也不是围绕着岛屿的恶魔漩涡，更不是惊涛怒吼的黑色海洋。",
+      "source_hash": "92cc0615eab6a372ec224fd3b502ae526af8c15c672209c8cae61f5e9ada5b79",
+      "target": "——Nhưng thứ khiến vô số học sinh phải kinh ngạc thốt lên, không phải là bản thân Đảo Ma Giao, cũng không phải là những vòng xoáy ác ma vây quanh hòn đảo, lại càng không phải là đại dương đen ngòm đang rít gào thịnh nộ.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0041:align_0023",
+      "chapter_id": "chapter_0041",
+      "segment_ids": [
+        "chapter_0041:seg_0023"
+      ],
+      "source": "而是静静悬浮于这一切之上，半掩在云层中的巨型晶石战舰！",
+      "source_hash": "85924b891e727e435932177cf60c1be91b25afde2d40941f55f8feada9c7bd3f",
+      "target": "Mà chính là cự hình tinh thạch chiến hạm đang tĩnh lặng lơ lửng trên không trung, ẩn hiện sau những tầng mây!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0041:align_0024",
+      "chapter_id": "chapter_0041",
+      "segment_ids": [
+        "chapter_0041:seg_0024"
+      ],
+      "source": "这是一艘十分古老、陈旧、残破，但却威风凛凛，光芒万丈的超重型晶石战列舰，全长七千八百多米，重六千三百万吨，由一万三千两百五十名水兵操纵，关键岗位上，还需要三百名炼气期修真者驾驭，才能运转自如。",
+      "source_hash": "245f56bacce5236729309acf43190f4aa4cb761c427d33633c9e71d16ae86708",
+      "target": "Đây là một chiếc siêu trọng hình tinh thạch chiến liệt hạm vô cùng cổ xưa, cũ nát, tàn tạ, thế nhưng lại vô cùng oai phong lẫm liệt, hào quang tỏa sáng vạn trượng. Nó có tổng chiều dài hơn bảy ngàn tám trăm mét, nặng tới sáu mươi ba triệu tấn, do mười ba ngàn hai trăm năm mươi danh thủy binh thao túng. Ở những vị trí then chốt còn cần đến ba trăm danh tu chân giả Luyện Khí Kỳ khống chế thì mới có thể vận hành trơn tru.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0041:align_0025",
+      "chapter_id": "chapter_0041",
+      "segment_ids": [
+        "chapter_0041:seg_0025"
+      ],
+      "source": "看样子，这艘晶石战列舰遭受过重创，千疮百孔，坑坑洼洼，到处是爆炸和腐蚀留下的痕迹，不少地方的装甲都斑斑驳驳，支离破碎，特别是战舰最前方的前甲板和指挥塔，更是被砸了个稀巴烂，露出一个恐怖的大窟窿，仿佛一个心有不甘的巨人，张大了嘴，向天空发出怒吼。",
+      "source_hash": "7fce8e73b4a9378e0ba5069b8a83ae420f2b4d6dc89482d21e3812d1993fb9e4",
+      "target": "Có vẻ như chiếc tinh thạch chiến liệt hạm này đã từng chịu phải trọng thương, rách nát tả tơi, hố to hố nhỏ, khắp nơi đều là vết tích do cháy nổ và ăn mòn lưu lại, lớp bọc thép ở không ít nơi đã trở nên lốm đốm, nát bét. Đặc biệt là phần giáp trước và tháp chỉ huy ở phía trước nhất của chiến hạm càng bị đập nát bấy, lộ ra một cái lỗ hổng khổng lồ vô cùng đáng sợ, phảng phất như một người khổng lồ không cam lòng, đang há to cái miệng rộng, phát ra tiếng gầm thét phẫn nộ lên bầu trời.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0041:align_0026",
+      "chapter_id": "chapter_0041",
+      "segment_ids": [
+        "chapter_0041:seg_0026"
+      ],
+      "source": "它已经失去了动力，静静地悬浮在这里很久很久，久到海风都侵蚀了装甲，在它身上留下无数岁月的痕迹，连原本触目惊心的伤口，都成为它的一部分，令它变成一坨化石，一座雕像，一块墓碑。",
+      "source_hash": "14a1af43d3a172cc7d5390666709ef95347493246ec5ccac2e38a02e50e6d087",
+      "target": "Nó đã mất đi động lực, tĩnh lặng lơ lửng ở chỗ này rất lâu rất lâu rồi, lâu đến mức gió biển cũng đã bào mòn cả lớp bọc thép, để lại trên thân nó vô số dấu vết của năm tháng. Ngay cả vết thương vốn dĩ kinh tâm động phách lúc trước, giờ đây cũng đã trở thành một phần của nó, khiến nó biến thành một khối hóa thạch, một pho tượng điêu khắc, một tấm bia mộ.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0041:align_0027",
+      "chapter_id": "chapter_0041",
+      "segment_ids": [
+        "chapter_0041:seg_0027"
+      ],
+      "source": "只是，在超越“视觉”的某种层面，在看不到的精神世界里，它还像是一头威风凛凛的猛虎，一条翱翔九天的巨龙，散发出凛然不可侵犯的光芒！",
+      "source_hash": "2e81ca706c6e22aab76af2124faeaac8cf68e2b407f307d7bf2339bcb5a77234",
+      "target": "Chỉ là, ở một cái tầng thứ nào đó vượt qua \"thị giác\", bên trong thế giới tinh thần không thể nhìn thấy bằng mắt thường, nó vẫn tựa như một con mãnh hổ oai phong lẫm liệt, một đầu cự long lượn lờ chín tầng trời, tản mát ra ánh hào quang uy nghiêm thiêng liêng không thể xâm phạm!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0041:align_0028",
+      "chapter_id": "chapter_0041",
+      "segment_ids": [
+        "chapter_0041:seg_0028"
+      ],
+      "source": "“是联邦军永远的旗舰，辽远号！”就连李耀都被晶石战舰的气势震撼，不由自主地屏住了呼吸。",
+      "source_hash": "5a9585c401f21d6abaf38dac2c9f37d99a8b81845744983b0dc17fa464ef187e",
+      "target": "\"Là kỳ hạm vĩnh viễn của Quân đội Liên bang, Liêu Viễn Hào!\" Ngay cả Lý Diệu cũng bị khí thế của tinh thạch chiến hạm làm cho chấn động, bất tri bất giác nín thở.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0041:align_0029",
+      "chapter_id": "chapter_0041",
+      "segment_ids": [
+        "chapter_0041:seg_0029"
+      ],
+      "source": "辽远号，是五百年前星耀联邦初生之时，发动几乎所有修真者的力量炼制而成的主力战舰！",
+      "source_hash": "0653f3a50df775164f4e600bad98a7bb0e96207a53f1f9cccc4f54189b687810",
+      "target": "Liêu Viễn Hào, là chủ lực chiến hạm được huy động sức mạnh của gần như toàn bộ các tu chân giả hợp lực luyện chế ra vào thời điểm Liên bang Tinh Diệu vừa mới sinh ra hồi năm trăm năm trước!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0041:align_0030",
+      "chapter_id": "chapter_0041",
+      "segment_ids": [
+        "chapter_0041:seg_0030"
+      ],
+      "source": "在五百年前的“血海大战”中，联邦军以辽远号为旗舰，在极东海上和“东极妖国”的百万妖军激战，最终，辽远号在弹尽粮绝的情况下，毅然决然地冲向“东极妖皇”所乘坐的旗舰“天野号”，一举将天野号撞沉，奠定胜局！",
+      "source_hash": "b25dd2d3d72ddf578120227370b8a98495e59d1de67167e48a8ab74a9b6c365a",
+      "target": "Trong \"Huyết Hải Đại Chiến\" năm trăm năm trước, Quân đội Liên bang lấy Liêu Viễn Hào làm kỳ hạm, kịch chiến với trăm vạn yêu quân của \"Đông Cực Yêu Quốc\" ngay trên Cực Đông Hải. Đến cuối cùng, trong tình cảnh cạn kiệt đạn dược và lương thực, Liêu Viễn Hào đã kiên quyết lao thẳng vào kỳ hạm \"Thiên Dã Hào\" mà \"Đông Cực Yêu Hoàng\" đang ngồi, đâm chìm Thiên Dã Hào trong một đòn duy nhất, đặt nền móng cho thắng lợi!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0041:align_0031",
+      "chapter_id": "chapter_0041",
+      "segment_ids": [
+        "chapter_0041:seg_0031"
+      ],
+      "source": "血海大战，是联邦的国运之战，正是取得了这场战争的胜利，将“东极妖国”彻底灭亡，星耀联邦才成为天元界的超级霸权，国运蒸蒸日上！",
+      "source_hash": "7645c8cdde01d64b10ef69af2c789a4a425be44709b644dea1739d5d1fb1f499",
+      "target": "Huyết Hải Đại Chiến, chính là trận chiến vận mệnh quốc gia của Liên bang, đúng là nhờ việc giành được thắng lợi trong trận chiến này, tận diệt hoàn toàn \"Đông Cực Yêu Quốc\", Liên bang Tinh Diệu mới trở thành siêu cường bá quyền của Thiên Nguyên Giới, vận nước ngày càng hưng thịnh vươn lên!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0041:align_0032",
+      "chapter_id": "chapter_0041",
+      "segment_ids": [
+        "chapter_0041:seg_0032"
+      ],
+      "source": "不过，辽远号虽然撞沉了天野号，自己也严重受创，堕入大海，直到八十年后才被打捞上来，无法再充当战舰使用。",
+      "source_hash": "05930b5072dd0f2bf34a140d0c5bbd9418d246839c6036997889af3032b39118",
+      "target": "Tuy nhiên, mặc dù Liêu Viễn Hào đã đâm chìm Thiên Dã Hào, bản thân nó cũng bị thương tổn nghiêm trọng, chìm sâu xuống đáy biển, mãi đến tám mươi năm sau mới được vớt lên, không thể nào tiếp tục sung đương làm chiến hạm được nữa.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0041:align_0033",
+      "chapter_id": "chapter_0041",
+      "segment_ids": [
+        "chapter_0041:seg_0033"
+      ],
+      "source": "联邦就将这艘晶石战舰改造成了战争博物馆和爱国主义教育基地，永远悬浮在当年的战场之上。",
+      "source_hash": "2ad99746a34c1e76054cf3ab640429c1184496834f006e92d303b77ccb4751b5",
+      "target": "Liên bang liền đem chiếc tinh thạch chiến hạm này cải tạo thành nhà bảo tàng chiến tranh và căn cứ giáo dục chủ nghĩa yêu nước, vĩnh viễn lơ lửng trên chiến trường năm xưa.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0041:align_0034",
+      "chapter_id": "chapter_0041",
+      "segment_ids": [
+        "chapter_0041:seg_0034"
+      ],
+      "source": "不过在民间传说中，东极妖国虽然灭亡，妖皇传承却尚未灭绝，依旧藏匿于无尽大洋深处，不断搜集当年在战争中死去的妖兵亡魂，妄图有朝一日能东山再起，卷土重来。",
+      "source_hash": "3b8a25f24c601b18b9509fcf94df337cffaae6c5a13a36c00666768947629f34",
+      "target": "Bất quá trong những lời truyền miệng dân gian, Đông Cực Yêu Quốc tuy đã bị diệt vong, thế nhưng truyền thừa của Yêu Hoàng vẫn chưa tuyệt diệt, vẫn còn đang ẩn nấp sâu dưới lòng đại dương vô tận, không ngừng thu thập vong hồn của những yêu binh đã chết trong trận chiến năm đó, vọng tưởng có một ngày nào đó có thể quật khởi, ngóc đầu trở lại.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0041:align_0035",
+      "chapter_id": "chapter_0041",
+      "segment_ids": [
+        "chapter_0041:seg_0035"
+      ],
+      "source": "正因为这样，这片海洋才会变成阴风怒号，遍布漩涡，死黑一片的恐怖鬼蜮——那都是海底的妖魂在兴风作浪。",
+      "source_hash": "adf14eccac93b710e21aad317f847790eb932627736a6e81a7f782ec3c91be2d",
+      "target": "Chính vì như vậy, phiến đại dương này mới biến thành quỷ vực đáng sợ lúc nào cũng có âm phong thét gào, phủ đầy các loại vòng xoáy, tử khí mịt mờ một mảnh —— đó đều là do đám yêu hồn dưới đáy biển đang làm mưa làm gió.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0041:align_0036",
+      "chapter_id": "chapter_0041",
+      "segment_ids": [
+        "chapter_0041:seg_0036"
+      ],
+      "source": "而联邦将“辽远号”悬浮在当年的战场上空，又常年组织血气方刚的年轻人前来参观，激发出旺盛的血气和战意，凝练成星耀联邦的不朽国魂，便能将妖皇永远镇压，把百万妖魂彻底灭杀！",
+      "source_hash": "8963eed7fa849358034e27a4dadb14f7af604d9c53977823a12c817572713522",
+      "target": "Mà Liên bang đem \"Liêu Viễn Hào\" treo lơ lửng trên không trung ngay tại chiến trường năm xưa, lại quanh năm tổ chức cho lớp thanh niên trẻ tuổi bừng bừng nhiệt huyết tới tham quan, khơi dậy tinh thần nhiệt huyết dồi dào và chiến ý cường liệt, ngưng luyện thành quốc hồn bất hủ của Liên bang Tinh Diệu, chính là để có thể vĩnh viễn trấn áp Yêu Hoàng, triệt để diệt sát hàng trăm vạn yêu hồn!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0041:align_0037",
+      "chapter_id": "chapter_0041",
+      "segment_ids": [
+        "chapter_0041:seg_0037"
+      ],
+      "source": "“你们快看，天空中有东西！”一名学生惊呼起来。",
+      "source_hash": "71b7244367cb4d18b9ee1e29a24f9de3766a1d3db09e22c7d107d4ef67bb9c5c",
+      "target": "\"Mọi người mau nhìn kìa, trên bầu trời có thứ gì đó!\" Một gã học sinh nhịn không được kinh hô lên.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0041:align_0038",
+      "chapter_id": "chapter_0041",
+      "segment_ids": [
+        "chapter_0041:seg_0038"
+      ],
+      "source": "============================",
+      "source_hash": "8ef62fab939d1845987b5831e0bac718b35663855521c0bf340536d08e848c12",
+      "target": "============================",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0041:align_0039",
+      "chapter_id": "chapter_0041",
+      "segment_ids": [
+        "chapter_0041:seg_0039"
+      ],
+      "source": "和大家说明一下。看到评论区有朋友建议说章节后面多加几个皮埃斯，多和大家互动。",
+      "source_hash": "05aafeb915aa3a6511d0ad2f3057453003023b71d44353e19f9cea6567816de8",
+      "target": "Nói rõ với mọi người một chút. Tôi thấy trong khu bình luận có bạn bè đề nghị là sau mỗi chương nên thêm vài câu tái bút (PS), giao lưu tương tác với mọi người nhiều hơn.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0041:align_0040",
+      "chapter_id": "chapter_0041",
+      "segment_ids": [
+        "chapter_0041:seg_0040"
+      ],
+      "source": "老牛也想过，但是后来一想，这种方法对每天追更的读者估计无所谓，但是对一口气看下来的朋友，刚刚沉浸在章节中，结果就看到作者跳出来唧唧歪歪，估计对阅读体验有所影响。所以尽量老牛还是少在文章里发言吧。",
+      "source_hash": "f20fc83d2cd05459a1c272dacf3f839067cf42a4d1c58b70a28eee2bc03be26e",
+      "target": "Lão Ngưu tôi cũng từng nghĩ qua, nhưng sau đó lại nghĩ, phương pháp này đối với những độc giả theo dõi truyện mỗi ngày ước chừng không sao cả, thế nhưng đối với những người bạn đọc một hơi từ đầu đến cuối, vừa mới chìm đắm trong nội dung chương, kết quả liền thấy tác giả nhảy ra lải nhải líu lo, đoán chừng sẽ ảnh hưởng đến thể nghiệm đọc. Cho nên Lão Ngưu tôi vẫn cố gắng ít phát ngôn trong văn bản thì hơn.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0041:align_0041",
+      "chapter_id": "chapter_0041",
+      "segment_ids": [
+        "chapter_0041:seg_0041"
+      ],
+      "source": "有什么话，大家多在书评区发言就好，老牛看到了，有时间的话肯定出来和大家交流沟通。",
+      "source_hash": "ceee0435a89888f0e8c68a3102c9e58fcf11149e8cc68abd6cc61d6a9b7685ed",
+      "target": "Có lời gì muốn nói, mọi người cứ phát biểu nhiều hơn trong khu bình luận là được, Lão Ngưu tôi nhìn thấy, nếu có thời gian thì nhất định sẽ ra đây giao lưu câu thông cùng mọi người.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0041:align_0042",
+      "chapter_id": "chapter_0041",
+      "segment_ids": [
+        "chapter_0041:seg_0042"
+      ],
+      "source": "今天主要想说一下更新，目前更新进度不是很快，其实老牛的速度还算可以，一天卯足了劲也能码个八千一万甚至一万二三的。",
+      "source_hash": "916287bd8c88f32363fde77c20dfa08841dc5d06f9de6be4ef65a044ac79446d",
+      "target": "Hôm nay chủ yếu muốn nói một chút về tiến độ cập nhật, trước mắt tốc độ ra chương không được nhanh lắm, thật ra tốc độ của Lão Ngưu tôi vẫn được coi là tạm ổn, một ngày vắt kiệt sức thì cũng có thể gõ được tám ngàn, một vạn thậm chí một vạn hai, một vạn ba ngàn chữ.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0041:align_0043",
+      "chapter_id": "chapter_0041",
+      "segment_ids": [
+        "chapter_0041:seg_0043"
+      ],
+      "source": "不过目前主要精力还是放在写后面的大纲、细纲上，同时也要为上架准备攒点稿子，所以在没推荐的时候，不得不控制一下发文的速度，这也是为了上架之后能经常爆发，希望大家理解。",
+      "source_hash": "c21b768a1aac95c67e46311ee02286e0bb4b3357d6875f1a22125344669d3865",
+      "target": "Có điều tinh lực chủ yếu hiện tại vẫn đặt vào việc viết đại cương, tiểu cương cho phần phía sau, đồng thời cũng cần tích góp một chút bản thảo chuẩn bị cho lúc lên sóng, cho nên vào thời điểm không được đề cử, đành phải khống chế một chút tốc độ phát hành chương mới, điều này cũng là để sau khi truyện được lên sóng thì có thể thường xuyên bạo chương, hi vọng mọi người hiểu cho.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0041:align_0044",
+      "chapter_id": "chapter_0041",
+      "segment_ids": [
+        "chapter_0041:seg_0044"
+      ],
+      "source": "老牛是个新人，这本书的成绩虽然没新书榜上那些红书那么酷炫，不过评论区颇为热闹，也有不少朋友提出了宝贵意见，老牛十分感动，一定会认真写好这本书，点击推荐什么的大家能给当然尽量给，不过更重要是经常在书评区发发言，每一条评论老牛都会看，大家多和老牛沟通交流，老牛也就心满意足了。再次谢谢大家的支持，老牛也希望能快点熬到上架那一天，好火力全开的爆发啊！",
+      "source_hash": "bb73f875bdb2a2d764dc4ae72f4bfc89f43dc341e5903365b656d8d93e746446",
+      "target": "Lão Ngưu tôi là một người mới, thành tích của quyển sách này tuy rằng không được chói lọi bằng những quyển sách hot trên bảng sách mới, thế nhưng khu bình luận lại rất náo nhiệt, cũng có không ít người bạn đưa ra những ý kiến đóng góp quý báu. Lão Ngưu tôi vô cùng cảm động, nhất định sẽ nghiêm túc viết tốt quyển sách này, những thứ như click đọc hay đề cử thì mọi người dĩ nhiên cứ cho bao nhiêu thì cố gắng cho bấy nhiêu, thế nhưng quan trọng hơn là thường xuyên phát biểu trong khu bình luận, Lão Ngưu tôi sẽ đọc từng cái bình luận một. Mọi người chịu khó trao đổi giao lưu cùng Lão Ngưu tôi nhiều hơn, Lão Ngưu tôi cũng đã mãn nguyện rồi. Một lần nữa cảm ơn mọi người đã ủng hộ, Lão Ngưu tôi cũng hy vọng có thể mau chóng chống đỡ được đến ngày lên sóng, để hỏa lực mở ra toàn bộ mà bạo chương a!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    }
+  ],
+  "term_occurrences": [
+    {
+      "chapter_id": "chapter_0041",
+      "source_term": "联邦军",
+      "target_term": "Quân đội Liên bang",
+      "segment_id": "chapter_0041:seg_0028",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0041",
+      "source_term": "大黑暗时代",
+      "target_term": "Đại Hắc Ám Thời Đại",
+      "segment_id": "chapter_0041:seg_0003",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0041",
+      "source_term": "妖神病毒",
+      "target_term": "virus Yêu Thần",
+      "segment_id": "chapter_0041:seg_0003",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0041",
+      "source_term": "郑东明",
+      "target_term": "Trịnh Đông Minh",
+      "segment_id": "chapter_0041:seg_0008",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0041",
+      "source_term": "炼器师",
+      "target_term": "luyện khí sư",
+      "segment_id": "chapter_0041:seg_0006",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "job",
+      "confidence": 1.0
+    }
+  ],
+  "entity_mentions": [
+    {
+      "chapter_id": "chapter_0041",
+      "source_surface": "李耀",
+      "target_surface": "Lý Diệu",
+      "entity_type": "person",
+      "segment_id": "chapter_0041:seg_0002",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0041",
+      "source_surface": "郑东明",
+      "target_surface": "Trịnh Đông Minh",
+      "entity_type": "person",
+      "segment_id": "chapter_0041:seg_0008",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0041",
+      "source_surface": "魔蛟岛",
+      "target_surface": "Đảo Ma Giao",
+      "entity_type": "locations",
+      "segment_id": "chapter_0041:seg_0021",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0041",
+      "source_surface": "极东海",
+      "target_surface": "Cực Đông Hải",
+      "entity_type": "locations",
+      "segment_id": "chapter_0041:seg_0030",
+      "confidence": 1.0
+    }
+  ],
+  "name_analysis": {
+    "status": "ok",
+    "evidence_count": 2,
+    "name_mentions": [
+      {
+        "chapter_id": "chapter_0041",
+        "name_source": "李耀",
+        "name_target": "Lý Diệu",
+        "segment_id": "chapter_0041:seg_0002",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0041",
+        "name_source": "郑东明",
+        "name_target": "Trịnh Đông Minh",
+        "segment_id": "chapter_0041:seg_0008",
+        "present_in_target": true,
+        "confidence": 1.0
+      }
+    ],
+    "name_entries": [
+      {
+        "name_source": "李耀",
+        "name_target": "Lý Diệu"
+      },
+      {
+        "name_source": "郑东明",
+        "name_target": "Trịnh Đông Minh"
+      }
+    ],
+    "transliteration_units": [],
+    "inferred_name_rules": [],
+    "ambiguity_cases": [],
+    "reusable_name_profile": {
+      "mapping_count": 2,
+      "has_ambiguity": false
+    }
+  },
+  "phrase_patterns": [],
+  "grammar_rule_candidates": [],
+  "analyzer_reports": {
+    "term_occurrences": {
+      "status": "ok",
+      "evidence_count": 5
+    },
+    "entity_mentions": {
+      "status": "ok",
+      "evidence_count": 4
+    },
+    "name_mentions": {
+      "status": "ok",
+      "evidence_count": 2
+    },
+    "phrase_patterns": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    },
+    "grammar_rule_candidates": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    }
+  },
+  "review_queue": [
+    {
+      "chapter_id": "chapter_0041",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "奠定胜局",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "，一举将天野号撞沉，奠定胜局！\n\n血海大战，是联"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0041",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "东极妖国",
+        "entity_type": "location",
+        "count": 2,
+        "confidence": 0.78,
+        "evidence": [
+          "旗舰，在极东海上和“东极妖国”的百万妖军激战，最"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0041",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "堕入大海",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "号，自己也严重受创，堕入大海，直到八十年后才被打"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0041",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "就可以将敌人拖入他们创造的文字领域",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "发怒，精神世界炸裂，就可以将敌人拖入他们创造的文字领域，你想想看，那个领域"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0041",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "是一连串狭长扭曲的群岛",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "在重重漩涡的包围中，是一连串狭长扭曲的群岛，恍若一头海中蛟龙，"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0041",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "被拖入文字领域",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "的修真者，一旦中招，被拖入文字领域，也很难全身而退。”"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0041",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "魔蛟岛",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "这就是他们的目的地，魔蛟岛，极限挑战赛的571"
+        ]
+      }
+    }
+  ],
+  "quality_audit": {
+    "segment_coverage": 1.0,
+    "source_hash_match": true,
+    "target_reconstruction_match": true,
+    "invalid_ref_count": 0,
+    "locked_term_hit_rate": 1.0,
+    "missing_locked_terms": [],
+    "cjk_residue_count": 0,
+    "paragraph_drift_ratio": 0.0,
+    "pronoun_consistency_score": 1.0,
+    "warnings": []
+  }
+}

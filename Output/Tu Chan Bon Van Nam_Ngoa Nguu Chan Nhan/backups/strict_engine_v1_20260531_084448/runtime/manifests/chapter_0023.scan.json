@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 23,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan\\0023 - 23.第23章 黑白通吃.md",
+  "source_char_count": 2183,
+  "characters": [
+    {
+      "source": "张饼",
+      "entity_type": "person",
+      "count": 3,
+      "confidence": 0.7,
+      "evidence": [
+        "财啦，竟然买了整整十张饼，怎么吃得下？”\n\n",
+        "么新闻？”李耀一口一张饼，转眼吞下三张热气腾",
+        "谁叫你一口气吃下去六张饼，简直是个饭桶，这下"
+      ]
+    },
+    {
+      "source": "能量",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "时间内，最大程度摄入能量，是一门非常重要的技",
+        "“赫连烈，有这么大的能量？”\n\n孟江点头，一"
+      ]
+    },
+    {
+      "source": "连烈",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "学生不知怎么得罪了赫连烈，不但被打得好惨，而",
+        "的瞳孔骤然收缩：“赫连烈，有这么大的能量？”"
+      ]
+    }
+  ],
+  "organizations": [],
+  "locations": [],
+  "realms": [],
+  "techniques": [
+    "他用力挥了挥拳",
+    "他背后猛地拍了一掌",
+    "你这种吃法",
+    "李耀的脚步",
+    "根本无法",
+    "火云掌"
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "赤霄二中",
+      "target": "Xích Tiêu Nhị Trung"
+    },
+    {
+      "source": "平行班",
+      "target": "lớp song hành"
+    },
+    {
+      "source": "普通班",
+      "target": "lớp thường"
+    },
+    {
+      "source": "考试舱",
+      "target": "khoang thi cử"
+    },
+    {
+      "source": "灵根",
+      "target": "Linh căn"
+    },
+    {
+      "source": "灵根开发度",
+      "target": "độ khai phát linh căn"
+    },
+    {
+      "source": "火云掌",
+      "target": "Hỏa Vân Chưởng"
+    },
+    {
+      "source": "司佳雪",
+      "target": "Tiêu Giai Tuyết"
+    }
+  ],
+  "structural_hints": {
+    "has_dialogue": true,
+    "has_western_names": false,
+    "estimated_segments": 48
+  },
+  "generated_at": "2026-05-30T22:36:26.041937+07:00"
+}

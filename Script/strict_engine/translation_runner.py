@@ -28,6 +28,9 @@ from source_analyzer import build_scan_report, write_scan_report  # noqa: E402
 from build_context_pack import build_context_pack, write_context_pack  # noqa: E402
 from precheck import run_precheck, write_precheck_report  # noqa: E402
 from validate_translation import run_validation, write_postcheck_report  # noqa: E402
+from build_translation_analysis import build_translation_analysis  # noqa: E402
+from validate_analysis import validate_analysis  # noqa: E402
+from update_analysis_state import update_analysis_state  # noqa: E402
 from update_state import update_state  # noqa: E402
 from state_validator import run_state_verification, write_statecheck_report  # noqa: E402
 
@@ -87,8 +90,8 @@ def run_postflight(branch_name: str, chapter: int) -> bool:
     with file_lock(lock_file):
         LOGGER.info("Starting POSTFLIGHT for chapter %d...", chapter)
         
-        # 1. Validate Translation
-        LOGGER.info("1/3 Running Postcheck Validation...")
+        # 1. Validate Translation Core
+        LOGGER.info("1/5 Running Translation Core Validation...")
         try:
             postcheck_report = run_validation(branch_name, chapter)
             write_postcheck_report(branch_name, chapter, postcheck_report)
@@ -105,8 +108,22 @@ def run_postflight(branch_name: str, chapter: int) -> bool:
             LOGGER.error("Validation Gate failed: %s", e)
             return False
             
-        # 2. Update State
-        LOGGER.info("2/3 Updating Project State...")
+        # 2. Build and validate independent analysis before mutating story state.
+        LOGGER.info("2/5 Building and validating Analysis Artifact...")
+        try:
+            build_translation_analysis(branch_name, chapter)
+            analysis_report = validate_analysis(branch_name, chapter)
+            if not analysis_report.get("passed"):
+                LOGGER.error("POSTFLIGHT FAILED at Analysis Gate:")
+                for err in analysis_report.get("errors", []):
+                    LOGGER.error(" - %s", err)
+                return False
+        except Exception as e:
+            LOGGER.error("Analysis Gate failed: %s", e)
+            return False
+
+        # 3. Update State
+        LOGGER.info("3/5 Updating Project State...")
         try:
             success = update_state(branch_name, chapter)
             if not success:
@@ -116,8 +133,18 @@ def run_postflight(branch_name: str, chapter: int) -> bool:
             LOGGER.error("State Updater failed: %s", e)
             return False
             
-        # 3. State Validator
-        LOGGER.info("3/3 Running State Verification Gate...")
+        # 4. Rebuild derived analysis state idempotently.
+        LOGGER.info("4/5 Rebuilding Derived Analysis State...")
+        try:
+            if not update_analysis_state(branch_name, chapter):
+                LOGGER.error("POSTFLIGHT FAILED: Derived analysis rebuild aborted.")
+                return False
+        except Exception as e:
+            LOGGER.error("Derived Analysis Rebuild failed: %s", e)
+            return False
+
+        # 5. State Validator
+        LOGGER.info("5/5 Running State Verification Gate...")
         try:
             statecheck_report = run_state_verification(branch_name, chapter)
             write_statecheck_report(branch_name, chapter, statecheck_report)
@@ -130,51 +157,6 @@ def run_postflight(branch_name: str, chapter: int) -> bool:
         except Exception as e:
             LOGGER.error("State Verification Gate failed: %s", e)
             return False
-            
-        # 4. Post-translation Analysis Pipeline (Non-blocking)
-        try:
-            from validate_analysis import validate_analysis
-            from update_analysis_state import update_analysis_state
-            
-            LOGGER.info("4/4 Running Analysis Pipeline (warning-only)...")
-            
-            # Extract analysis fields from translation_result and save to analysis_result
-            from utils.io import load_json, save_json_atomic
-            trans_result_path = branch_dir / "runtime" / f"chapter_{chapter:04d}.translation_result.json"
-            trans_result = load_json(trans_result_path) or {}
-            
-            analysis_data = {
-                "schema_version": "1.0",
-                "branch": branch_name,
-                "chapter": chapter,
-                "aligned_segments": trans_result.get("aligned_segments", []),
-                "term_occurrences": trans_result.get("term_occurrences", []),
-                "entity_mentions": trans_result.get("entity_mentions", []),
-                "phrase_patterns": trans_result.get("phrase_patterns", []),
-                "grammar_rule_candidates": trans_result.get("grammar_rule_candidates", []),
-                "quality_audit": trans_result.get("quality_audit", {
-                    "segment_coverage": 1.0, "locked_term_hit_rate": 1.0,
-                    "cjk_residue_count": 0, "paragraph_drift_ratio": 0.0,
-                    "pronoun_consistency_score": 1.0, "warnings": []
-                })
-            }
-            analysis_out_path = branch_dir / "runtime" / "analysis" / f"chapter_{chapter:04d}.analysis_result.json"
-            save_json_atomic(analysis_out_path, analysis_data)
-            
-            analysis_report = validate_analysis(branch_name, chapter)
-            if not analysis_report.get("passed", True):
-                for warn in analysis_report.get("warnings", []):
-                    LOGGER.warning(" Analysis Warning: %s", warn)
-                for err in analysis_report.get("errors", []):
-                    LOGGER.warning(" Analysis Error (non-blocking): %s", err)
-                    
-            # Always try to update state even if validation has warnings
-            update_analysis_state(branch_name, chapter)
-            
-        except ImportError:
-            LOGGER.info("Analysis modules not found. Skipping Analysis Pipeline.")
-        except Exception as e:
-            LOGGER.warning("Analysis Pipeline crashed (non-blocking): %s", e)
             
         LOGGER.info("POSTFLIGHT SUCCESS: Chapter %d is fully processed and merged.", chapter)
         return True
@@ -189,6 +171,7 @@ def get_status(branch_name: str, chapter: int) -> None:
         
     print(f"Status for '{branch_name}' Chapter {chapter}:")
     print(f"  Source Manifest:  {check(rt_dir / 'manifests' / f'chapter_{chapter:04d}.scan.json')}")
+    print(f"  Segment Manifest: {check(rt_dir / 'manifests' / f'chapter_{chapter:04d}.source_segments.json')}")
     print(f"  Context Pack:     {check(rt_dir / 'context_packs' / f'chapter_{chapter:04d}.context_pack.json')}")
     
     pre = load_json(rt_dir / "gates" / f"chapter_{chapter:04d}.precheck.json")
@@ -204,6 +187,9 @@ def get_status(branch_name: str, chapter: int) -> None:
         print(f"  Postcheck Gate:   {'PASS' if post.get('passed') else 'FAIL'}")
     else:
         print(f"  Postcheck Gate:   NO ")
+
+    analysis = rt_dir / "analysis" / f"chapter_{chapter:04d}.analysis_result.json"
+    print(f"  Analysis Result:  {check(analysis)}")
         
     state = load_json(rt_dir / "gates" / f"chapter_{chapter:04d}.statecheck.json")
     if state:

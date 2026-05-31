@@ -96,11 +96,11 @@ def run_precheck(branch_name: str, chapter: int) -> dict[str, Any]:
             if not is_unique:
                  errors.append(f"Characters contain duplicate IDs: {dupes[:5]}")
             
-            # For source names (Dichtrung uses name_original)
+            # Gold Schema uses name_source; keep legacy fallbacks.
             seen_names = set()
             name_dupes = []
             for c in characters["characters"]:
-                 name = str(c.get("source") or c.get("name_original") or "").strip()
+                 name = str(c.get("name_source") or c.get("source") or c.get("name_original") or "").strip()
                  if name:
                      if name in seen_names:
                          name_dupes.append(name)

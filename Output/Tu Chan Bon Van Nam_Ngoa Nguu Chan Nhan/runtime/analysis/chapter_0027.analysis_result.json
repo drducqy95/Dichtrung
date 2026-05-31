@@ -1,771 +1,1073 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
   "chapter": 27,
+  "chapter_id": "chapter_0027",
+  "source_manifest_hash": "9dc7b5be55a1031bf1754ac445628ec966f20eaf61da15c21f644a8c3d1450df",
   "aligned_segments": [
     {
-      "seg_id": "seg_0001",
+      "alignment_id": "chapter_0027:align_0001",
+      "chapter_id": "chapter_0027",
+      "segment_ids": [
+        "chapter_0027:seg_0001"
+      ],
       "source": "# 27.第27章 原来他最狠",
+      "source_hash": "0a24608fe7e9e7e15d86cbcda720caafd6c9123ccc4d1cd6806b1a1e7c752bce",
+      "target": "# Chương 0027 - Hóa Ra Cậu Mới Là Kẻ Tàn Nhẫn Nhất",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0027:align_0002",
+      "chapter_id": "chapter_0027",
+      "segment_ids": [
+        "chapter_0027:seg_0002",
+        "chapter_0027:seg_0003"
+      ],
+      "source": "又尖又利的声音，好似猛禽嘶鸣，撕裂了体育馆里刚刚凝结的空气。\n\n好不容易从呆滞状态中恢复过来的普通班学生们再一次受到严重惊吓。",
+      "source_hash": "368f778bb98a65c9432c0b44ab07c2eed02e5e7cee5885fa963d810c9eca9a5c",
       "target": "Giọng nói vừa cao vừa nhọn hoắt, tựa như tiếng mãnh cầm rít gào, xé toạc bầu không khí vừa mới ngưng tụ trong nhà thi đấu.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "narrative_type": "narration",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0002",
-      "source": "又尖又利的声音，好似猛禽嘶鸣，撕裂了体育馆里刚刚凝结的空气。",
-      "target": "Những học sinh lớp thường vừa mới khó khăn lắm mới hồi phục tinh thần từ trạng thái đờ đẫn một lần nữa lại bị dọa cho khiếp vía.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0003",
-      "source": "好不容易从呆滞状态中恢复过来的普通班学生们再一次受到严重惊吓。",
-      "target": "Không một ai ngờ được vừa mới đi một con \"Thiết Thú\" Ngụy Thiết, chớp mắt cái lại tới một kẻ tàn nhẫn hung hãn hơn. Triệu Lượng vốn là học sinh lớp trọng điểm, là thiên tài tu luyện có độ khai phát linh căn đột phá 60%, so với họ thì một trời một vực, hoàn toàn là sự tồn tại ở hai thế giới khác nhau!",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0004",
+      "alignment_id": "chapter_0027:align_0003",
+      "chapter_id": "chapter_0027",
+      "segment_ids": [
+        "chapter_0027:seg_0004"
+      ],
       "source": "谁都没想到刚刚走了一个“铁兽”魏铁，转眼间又来了一个更加凶猛的狠人，赵亮可是重点班学生，是灵根开发度突破60%的修炼天才，和他们一个天一个地，完全两个世界的存在！",
+      "source_hash": "1cca7fcac5da7099b462a6bd7805025ad7d2b76b97530d15faedbd23be2a38a0",
+      "target": "Những học sinh lớp thường vừa mới khó khăn lắm mới hồi phục tinh thần từ trạng thái đờ đẫn một lần nữa lại bị dọa cho khiếp vía.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0027:align_0004",
+      "chapter_id": "chapter_0027",
+      "segment_ids": [
+        "chapter_0027:seg_0005",
+        "chapter_0027:seg_0006"
+      ],
+      "source": "“这李耀，究竟是得罪了什么人，怎么魏铁和赵亮都气势汹汹地过来找他？”\n\n“刚才他不知用什么办法逼走了魏铁，现在面对赵亮，又会怎么样？”",
+      "source_hash": "050077a3ff8de6ce93a1ed4bc3af279ffdfd005fb4978431caa37936fc6f1316",
       "target": "\"Lý Diệu này rốt cuộc đã đắc tội với ai thế, sao cả Ngụy Thiết lẫn Triệu Lượng đều đằng đằng sát khí tới tìm cậu ta vậy?\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0005",
-      "source": "“这李耀，究竟是得罪了什么人，怎么魏铁和赵亮都气势汹汹地过来找他？",
+      "alignment_id": "chapter_0027:align_0005",
+      "chapter_id": "chapter_0027",
+      "segment_ids": [
+        "chapter_0027:seg_0007",
+        "chapter_0027:seg_0008"
+      ],
+      "source": "“你们还不知道，昨天晚上，李耀得罪了赫连烈啊！”\n\n“什么？得罪赫连烈的倒霉鬼就是他？那他完蛋了！”",
+      "source_hash": "2dbd5ecfeb18d5d04eee113ad1ef215ad1eea6fc261468d8efc5eb306a810889",
       "target": "\"Nãy cậu ta không biết dùng cách gì dọa chạy Ngụy Thiết, giờ đối mặt với Triệu Lượng thì sẽ thế nào đây?\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0006",
-      "source": "”",
-      "target": "\"Mọi người còn chưa biết sao, tối hôm qua Lý Diệu đã đắc tội với Hách Liên Liệt đấy!\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0007",
-      "source": "“刚才他不知用什么办法逼走了魏铁，现在面对赵亮，又会怎么样？",
-      "target": "\"Cái gì? Tên xui xẻo đắc tội Hách Liên Liệt chính là cậu ta ư? Thế thì tiêu đời rồi!\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0008",
-      "source": "”",
-      "target": "Tiếng bàn tán xôn xao vang lên không ngớt trong đám đông, mọi người nhìn Lý Diệu bằng ánh mắt tràn ngập vẻ thương hại, giống như đang nhìn một bệnh nhân nguy kịch bị bó bột khắp toàn thân vậy.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0009",
-      "source": "“你们还不知道，昨天晚上，李耀得罪了赫连烈啊！",
-      "target": "Trong tiếng thở dài ngao ngán của vô số bạn học, Lý Diệu chậm rãi bước tới. Cậu đi rất do dự, thỉnh thoảng còn vịn tay vào các thiết bị tu luyện khác nhau, có vẻ như không dám tiến lên trước.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0010",
-      "source": "”",
-      "target": "\"Mày chính là Lý Diệu? Trông cũng chẳng có gì đặc biệt!\" Triệu Lượng săm soi đánh giá nửa ngày, trên khuôn mặt âm hiểm hiện lên một nụ cười tàn nhẫn, lạnh nhạt nói: \"Tao có một vấn đề về võ kỹ chưa hiểu lắm, muốn luận bàn với bạn học Lý Diệu một chút, tới đi!\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0011",
-      "source": "“什么？",
-      "target": "\"Thế mà lại đòi quyết đấu riêng!\" Mọi người đều hít vào một ngụm khí lạnh.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0012",
-      "source": "得罪赫连烈的倒霉鬼就是他？",
-      "target": "Kỷ nguyên Tu Chân thứ 40000, yêu thú hoành hành, chiến hỏa liên miên, phong khí của nhân loại vô cùng hung hãn, tôn sùng tôn chỉ \"cá lớn nuốt cá bé, thích giả sinh tồn\". Đặc biệt là trường tư thục như Xích Tiêu Nhị Trung, với mục tiêu bồi dưỡng thiên tài tu luyện nên trường không hề cấm học sinh quyết đấu riêng với nhau.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0013",
-      "source": "那他完蛋了！",
-      "target": "Dù sao trong trường cũng có cơ sở y tế hoàn thiện, đủ loại linh đan diệu dược cải tử hoàn sinh, lại thêm vài vị đại tông sư tinh thông y thuật trấn giữ, chỉ cần không phải bị đánh chết ngay tại chỗ thì vết thương nặng đến mấy cũng có thể khôi phục như cũ trong thời gian ngắn.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0014",
-      "source": "”",
-      "target": "Cho nên khi những người trẻ tuổi tràn đầy huyết khí xảy ra mâu thuẫn, họ thường dùng câu \"luận bàn một chút\" làm lời mở đầu để tiến hành quyết đấu riêng.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0015",
+      "alignment_id": "chapter_0027:align_0006",
+      "chapter_id": "chapter_0027",
+      "segment_ids": [
+        "chapter_0027:seg_0009"
+      ],
       "source": "窃窃私语声，在人群中此起彼伏，所有人看着李耀的眼神都充满怜悯，就像看着一个浑身打满石膏的重症病人。",
-      "target": "But thông thường mà nói, quyết đấu riêng chỉ diễn ra giữa hai học sinh có thực lực tương đương. Với thân phận tinh anh lớp trọng điểm của Triệu Lượng mà lại đi gửi lời mời quyết đấu riêng tới một \"tạp ngư\" lớp thường như Lý Diệu thì quả thực là một việc vô cùng mất mặt.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "source_hash": "53f0af29174372f39bd832f7a15a57ce9caf51f1cbbb5e5c4e25b7fa6ca821e3",
+      "target": "\"Mọi người còn chưa biết sao, tối hôm qua Lý Diệu đã đắc tội với Hách Liên Liệt đấy!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0016",
+      "alignment_id": "chapter_0027:align_0007",
+      "chapter_id": "chapter_0027",
+      "segment_ids": [
+        "chapter_0027:seg_0010"
+      ],
       "source": "在众多同学的哀叹声中，李耀慢吞吞地走了过来，他走得很是犹豫，不时还在各种修炼器械上扶一把，似乎有些不敢上前。",
-      "target": "Nếu không phải Hách Liên Liệt nổi trận lôi đình, nhất quyết đòi nhìn thấy bộ dạng mình đầy thương tích của Lý Diệu ngay trong buổi sáng nay, cộng thêm việc Ngụy Thiết gặp sự cố ngoài ý muốn vào thời khắc quyết định thì Triệu Lượng đã không hạ thấp giá trị bản thân đến thế.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "source_hash": "f51f25f8a2bf2c3229c1ab266ea8be434e1a5564c978a0ecabf6d32cf09040a9",
+      "target": "\"Cái gì? Tên xui xẻo đắc tội Hách Liên Liệt chính là cậu ta ư? Thế thì tiêu đời rồi!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0017",
-      "source": "“你就是李耀，也没什么特别嘛！",
-      "target": "Vì vậy, khi Lý Diệu cúi đầu ngoan ngoãn, khúm núm thốt ra câu: \"Anh là đại cao thủ của lớp trọng điểm, em đánh không lại anh đâu, em xin đầu hàng!\" thì từ Triệu Lượng cho tới mỗi một học sinh lớp thường đều cảm thấy đó là chuyện hiển nhiên, không hề bất ngờ.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "alignment_id": "chapter_0027:align_0008",
+      "chapter_id": "chapter_0027",
+      "segment_ids": [
+        "chapter_0027:seg_0011",
+        "chapter_0027:seg_0012"
+      ],
+      "source": "“你就是李耀，也没什么特别嘛！”赵亮上上下下打量了半天，阴鸷的脸上浮现出一抹残忍的笑意，淡淡道，“我有一个武技上的问题不太明白，想和李耀同学切磋一下，来吧！”\n\n“竟然要私斗！”所有人都倒吸一口冷气。",
+      "source_hash": "479df164fdd1015000e2a4cc3e017f53ec4b3b4a55fb3da9ba4144a9ebfb94de",
+      "target": "Tiếng bàn tán xôn xao vang lên không ngớt trong đám đông, mọi người nhìn Lý Diệu bằng ánh mắt tràn ngập vẻ thương hại, giống như đang nhìn một bệnh nhân nguy kịch bị bó bột khắp toàn thân vậy.",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0018",
-      "source": "”赵亮上上下下打量了半天，阴鸷的脸上浮现出一抹残忍的笑意，淡淡道，“我有一个武技上的问题不太明白，想和李耀同学切磋一下，来吧！",
-      "target": "Đối mặt với sự khiêu khích của tinh anh lớp trọng điểm, \"tạp ngư\" lớp thường ngoài đầu hàng xin tha ra thì còn sự lựa chọn nào khác nữa sao?",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "alignment_id": "chapter_0027:align_0009",
+      "chapter_id": "chapter_0027",
+      "segment_ids": [
+        "chapter_0027:seg_0013",
+        "chapter_0027:seg_0014"
+      ],
+      "source": "修真40000年代，妖兽横行，战火连绵，人类社会民风彪悍，崇尚“弱肉强食，适者生存”的理念，特别是赤霄二中这样的私立学校，以培养修炼天才为目标，并不会禁止学生之间私斗。\n\n反正，学校里有完善的医疗设施，各种起死回生的灵丹妙药，还有好几位精通医术的大宗师坐镇，只要不是当场活活打死，再重的伤都能在短时间内恢复如初。",
+      "source_hash": "72a766268536f9cf9adcb2777ab005e9359f7e7a6390c7039ae3b72e2dc900fc",
+      "target": "Trong tiếng thở dài ngao ngán của vô số bạn học, Lý Diệu chậm rãi bước tới. Cậu đi rất do dự, thỉnh thoảng còn vịn tay vào các thiết bị tu luyện khác nhau, có vẻ như không dám tiến lên trước.",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0019",
-      "source": "”",
-      "target": "Triệu Lượng ngáp một cái, có chút mất kiên nhẫn nói: \"Nếu mày đã biết điều như vậy thì tao cũng lười so đo với loại rác rưởi như mày. Tự mình ngoan ngoãn quỳ xuống đi, để tao giẫm gãy mười cái xương cốt, chuyện này coi như...\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0020",
-      "source": "“竟然要私斗！",
-      "target": "Chữ \"như\" cuối cùng mới thốt ra được một nửa, Triệu Lượng bỗng thấy xương cụt lạnh toát, một luồng khí lạnh xông thẳng lên đỉnh đầu. Gã chỉ cảm thấy một luồng gió mạnh ập thẳng vào mặt, theo bản năng đưa tay lên đỡ. Chỉ nghe một tiếng \"bùm\", một làn sương mù màu trắng nổ tung trước mặt gã, vô số hạt bột magie chi chít như cát sắt chọc thẳng vào hai mắt. Trước mắt gã lập tức tối đen trắng xóa một màu, đau đớn vô cùng, chẳng còn nhìn thấy gì nữa!",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0021",
-      "source": "”所有人都倒吸一口冷气。",
-      "target": "\"A!\" Tất cả học sinh lớp thường đều kinh hãi kêu lên, không thể tin nổi vào cảnh tượng mình vừa trông thấy.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0022",
-      "source": "修真40000年代，妖兽横行，战火连绵，人类社会民风彪悍，崇尚“弱肉强食，适者生存”的理念，特别是赤霄二中这样的私立学校，以培养修炼天才为目标，并不会禁止学生之间私斗。",
-      "target": "Hóa ra là lúc Lý Diệu cúi đầu xin tha, tay phải cậu bỗng nhiên giơ lên cực nhanh, lòng bàn tay từ lúc nào đã bốc một vốc bột magie chuyên dùng để tăng ma sát khi tập thể lực, ném chuẩn xác vào thẳng hai mắt của Triệu Lượng!",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0023",
-      "source": "反正，学校里有完善的医疗设施，各种起死回生的灵丹妙药，还有好几位精通医术的大宗师坐镇，只要不是当场活活打死，再重的伤都能在短时间内恢复如初。",
-      "target": "Triệu Lượng lập tức mất đi thị lực trong nháy mắt. Còn Lý Diệu nhân cơ hội đó dùng mũi chân móc lấy một quả tạ xích nặng ba mươi cân, nhắm thẳng đầu gã đập xuống!",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0024",
+      "alignment_id": "chapter_0027:align_0010",
+      "chapter_id": "chapter_0027",
+      "segment_ids": [
+        "chapter_0027:seg_0015"
+      ],
       "source": "所以，血气方刚的年轻人之间有了矛盾，往往以“切磋一下”为开场白，进行私斗。",
-      "target": "\"Oanh!\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "source_hash": "8c0ef638ace8da669585b19248d22d9291f2730a3129815b7cbea1140eb9cad8",
+      "target": "\"Thế mà lại đòi quyết đấu riêng!\" Mọi người đều hít vào một ngụm khí lạnh.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0025",
+      "alignment_id": "chapter_0027:align_0011",
+      "chapter_id": "chapter_0027",
+      "segment_ids": [
+        "chapter_0027:seg_0016"
+      ],
       "source": "不过一般来说，私斗都是在两个实力相当的学生之间进行，以赵亮重点班精英的身份，向李耀这个普通班的“杂鱼”发出私斗邀请，是一件大跌脸面的事情。",
-      "target": "Triệu Lượng không hổ là học sinh tinh anh có độ khai phát linh căn lên tới 60%. Trong khoảnh khắc bột magie lọt vào mắt tạm thời mất đi thị lực, gã vẫn có thể duy trì sự cảnh giác cao độ, chỉ nghe tiếng gió đã cảm ứng được đòn tấn công của Lý Diệu, hai tay bắt chéo cố sống cố chết đỡ được đòn đập tạ xích!",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "source_hash": "aa3f100e7a33996cc9eeaafccc21e77d9dbf42e161db59248a11d5eda8763395",
+      "target": "Cho nên khi những người trẻ tuổi tràn đầy huyết khí xảy ra mâu thuẫn, họ thường dùng câu \"luận bàn một chút\" làm lời mở đầu để tiến hành quyết đấu riêng.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0026",
+      "alignment_id": "chapter_0027:align_0012",
+      "chapter_id": "chapter_0027",
+      "segment_ids": [
+        "chapter_0027:seg_0017"
+      ],
       "source": "若不是赫连烈大发雷霆，非要在今天上午就看到李耀遍体鳞伤的模样，魏铁又在关键时刻出了意外，赵亮也不会如此自贬身价。",
-      "target": "Nhưng gã không thể ngờ lực cánh tay của Lý Diệu lại khỏe đến mức kinh hoàng như thế, càng không ngờ Lý Diệu lại hèn hạ vô sỉ dùng cả quả tạ sắt để tấn công. Cú đập ngàn cân lực này làm rạn nứt cả hai xương cánh tay của gã, chấn động bay cả người gã ra xa mười mấy mét!",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "source_hash": "480d97b773cf04d5dca3b0437cbb21f61b4d8d5d39b9692e3b5cab32d86bfefb",
+      "target": "Đối mặt với sự khiêu khích của tinh anh lớp trọng điểm, \"tạp ngư\" lớp thường ngoài đầu hàng xin tha ra thì còn sự lựa chọn nào khác nữa sao?",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0027",
-      "source": "是以，当李耀低眉顺眼，低声下气地说出“你是重点班的大高手，我打不过你，我投降！",
-      "target": "Đám học sinh lớp thường lại được một phen hoảng hốt kêu la. Chỉ có số ít bạn học tinh thông võ kỹ mới nhìn ra được, cảnh tượng phóng đại như vậy phần nhiều là do Triệu Lượng cố ý làm thế, dùng cách nhảy vọt ra sau để triệt tiêu lực công kích của Lý Diệu!",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "alignment_id": "chapter_0027:align_0013",
+      "chapter_id": "chapter_0027",
+      "segment_ids": [
+        "chapter_0027:seg_0018",
+        "chapter_0027:seg_0019"
+      ],
+      "source": "是以，当李耀低眉顺眼，低声下气地说出“你是重点班的大高手，我打不过你，我投降！”这句话时，从赵亮到每一名普通班同学，都觉得理所当然，没有半点意外。\n\n面对重点班精英的挑衅，普通班的“杂鱼”除了投降求饶之外，还能有第二种选择吗？",
+      "source_hash": "c1a30f11dd144abfc708b94a8f50add9286c82d4024bfc574e55c329c609987f",
+      "target": "Triệu Lượng ngáp một cái, có chút mất kiên nhẫn nói: \"Nếu mày đã biết điều như vậy thì tao cũng lười so đo với loại rác rưởi như mày. Tự mình ngoan ngoãn quỳ xuống đi, để tao giẫm gãy mười cái xương cốt, chuyện này coi như...\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0028",
-      "source": "”这句话时，从赵亮到每一名普通班同学，都觉得理所当然，没有半点意外。",
-      "target": "Nhưng dù thế nào đi nữa, Lý Diệu rốt cuộc vẫn một chiêu đập bay Triệu Lượng, chỉ riêng chiêu này thôi đã đủ gây chấn động toàn bộ trường Xích Tiêu Nhị Trung rồi!",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0029",
-      "source": "面对重点班精英的挑衅，普通班的“杂鱼”除了投降求饶之外，还能有第二种选择吗？",
-      "target": "\"Nhổ!\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0030",
+      "alignment_id": "chapter_0027:align_0014",
+      "chapter_id": "chapter_0027",
+      "segment_ids": [
+        "chapter_0027:seg_0020"
+      ],
       "source": "赵亮打了个哈欠，有些不耐烦地说：“既然你这么懂事，我也懒得理会你这种垃圾，自己乖乖跪下，让我踩断十根骨头，这件事就——”",
-      "target": "Cách đó mười mấy mét, Triệu Lượng nhổ ra một bớp nước bọt lẫn máu, cả người bao trùm trong ngọn lửa giận ngút trời. Gã biết hôm nay mình đã hoàn toàn lật thuyền trong mương. Cho dù lát nữa có thể đập gục thằng nhóc này thì gã cũng sẽ trở thành trò cười lớn nhất của lớp trọng điểm!",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "source_hash": "620531b5010a6e8ea9899fa0491966a49bf49bf884ce0c4b75748fd5917d02c0",
+      "target": "\"A!\" Tất cả học sinh lớp thường đều kinh hãi kêu lên, không thể tin nổi vào cảnh tượng mình vừa trông thấy.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0031",
+      "alignment_id": "chapter_0027:align_0015",
+      "chapter_id": "chapter_0027",
+      "segment_ids": [
+        "chapter_0027:seg_0021"
+      ],
       "source": "最后一个“就”字刚出口了一半，赵亮尾椎发凉，一股寒意直冲头皮，只觉得一团劲风扑面而来，下意识伸手格挡，只听“嘭”一声，一蓬白雾在面前炸开，无数铁砂也似的粉末刺进双眼，眼前顿时一片雪白，疼痛无比，什么都看不见了！",
-      "target": "\"Hèn hạ quá, vô sỉ quá, mày dám dùng bột magie với tạ sắt! Nhưng cái loại rác rưởi như mày làm sao biết được, thứ lợi hại nhất của tao không phải tay, mà là đôi chân!\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "source_hash": "1aa10f0a956942ad4bcc76ce86eb315f7f6e47379a6665d2e8c8baa9b5c8e281",
+      "target": "Hóa ra là lúc Lý Diệu cúi đầu xin tha, tay phải cậu bỗng nhiên giơ lên cực nhanh, lòng bàn tay từ lúc nào đã bốc một vốc bột magie chuyên dùng để tăng ma sát khi tập thể lực, ném chuẩn xác vào thẳng hai mắt của Triệu Lượng!",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0032",
-      "source": "“啊！",
-      "target": "Triệu Lượng nở nụ cười dữ tợn, gã đột ngột dùng hai ngón tay chọc mạnh vào hốc mắt mình làm nước mắt tuôn ra như mưa, miễn cưỡng rửa sạch bột magie. Trước mắt gã một lần nữa hiện ra hình ảnh mơ hồ, khóa chặt vị trí của Lý Diệu.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "alignment_id": "chapter_0027:align_0016",
+      "chapter_id": "chapter_0027",
+      "segment_ids": [
+        "chapter_0027:seg_0022",
+        "chapter_0027:seg_0023"
+      ],
+      "source": "“啊！”所有普通班同学都发出惊呼，不敢相信看到的画面。\n\n却是李耀在低头求饶时，右手忽然快速扬起，掌心不知何时抓了一把在力量训练中用来增加摩擦力的镁粉，正中赵亮的双眼！",
+      "source_hash": "d6aad98567059653cdd5caed6e94171c34219801424ed97a3558994da3f4e952",
+      "target": "Triệu Lượng lập tức mất đi thị lực trong nháy mắt. Còn Lý Diệu nhân cơ hội đó dùng mũi chân móc lấy một quả tạ xích nặng ba mươi cân, nhắm thẳng đầu gã đập xuống!\n\n\"Oanh!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0033",
-      "source": "”所有普通班同学都发出惊呼，不敢相信看到的画面。",
-      "target": "\"Tao giết mày!\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "alignment_id": "chapter_0027:align_0017",
+      "chapter_id": "chapter_0027",
+      "segment_ids": [
+        "chapter_0027:seg_0024",
+        "chapter_0027:seg_0025"
+      ],
+      "source": "赵亮瞬间失去了视力。\n\n而李耀趁机用脚尖勾起了一个重达三十斤的哑铃，劈头盖脑砸了过去！",
+      "source_hash": "f5fc9f7e7a9656ee813d56b634268a2eb92a944cb4dca56f6f618798ce0fdce1",
+      "target": "Nhưng dù thế nào đi nữa, Lý Diệu rốt cuộc vẫn một chiêu đập bay Triệu Lượng, chỉ riêng chiêu này thôi đã đủ gây chấn động toàn bộ trường Xích Tiêu Nhị Trung rồi!",
+      "narrative_type": "narration",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0034",
-      "source": "却是李耀在低头求饶时，右手忽然快速扬起，掌心不知何时抓了一把在力量训练中用来增加摩擦力的镁粉，正中赵亮的双眼！",
-      "target": "Triệu Lượng hét lớn một tiếng, đôi chân như hai con mãng xà quái dị nhảy vọt lên. Chỉ cần một cú bật nhảy đã rút ngắn khoảng cách mười mấy mét, chân trái đạp nứt cả ván sàn gỗ, đầu gối phải bắn ra như mãnh hổ vồ mồi!",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "alignment_id": "chapter_0027:align_0018",
+      "chapter_id": "chapter_0027",
+      "segment_ids": [
+        "chapter_0027:seg_0026"
+      ],
+      "source": "“轰！”",
+      "source_hash": "e4580636996e8002ae32f0ed29c1cd730377cbe8c2d920ef891672fcd250f8ac",
+      "target": "\"Nhổ!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0035",
-      "source": "赵亮瞬间失去了视力。",
-      "target": "Chiêu thức có uy lực mạnh nhất trong \"Chiến Thú Thập Tam Thế\" — Hổ Súc Kích!",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0036",
-      "source": "而李耀趁机用脚尖勾起了一个重达三十斤的哑铃，劈头盖脑砸了过去！",
-      "target": "Từ lúc nhảy lên cho tới lúc thúc gối không quá 0,5 giây, Lý Diệu hoàn toàn không kịp đưa ra bất kỳ phản ứng nào, thậm chí còn chưa kịp bày ra tư thế đỡ đòn thì cú thúc gối của Triệu Lượng đã tông thẳng vào ngực cậu!",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0037",
-      "source": "“轰！",
-      "target": "\"A!\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0038",
-      "source": "”",
-      "target": "Không ít nữ sinh thốt lên kinh hãi, theo bản năng nhắm nghiền mắt lại không nỡ nhìn thảm kịch xảy ra.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0039",
+      "alignment_id": "chapter_0027:align_0019",
+      "chapter_id": "chapter_0027",
+      "segment_ids": [
+        "chapter_0027:seg_0027"
+      ],
       "source": "赵亮不愧是灵根开发度60%的精英学生，在镁粉入眼，暂时失去视力的瞬间，竟然还能保持住高度警惕，光凭风声就感应到了李耀的攻击，双臂交叉，硬生生格挡住了杠铃攻击！",
-      "target": "—— Ngay trước đó mười mấy giây, lúc Triệu Lượng đang dốc sức dùng nước mắt rửa bột magie, Lý Diệu đã thong thả đút một tấm bánh tạ sắt nặng ba bốn chục cân vào trong áo che trước ngực, cảnh tượng này mọi người xung quanh đều nhìn thấy rõ mồn một.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "source_hash": "83254b70e620229f3e92e823c5f9a799b961ce123c875089250d2eddf613558d",
+      "target": "\"Hèn hạ quá, vô sỉ quá, mày dám dùng bột magie với tạ sắt! Nhưng cái loại rác rưởi như mày làm sao biết được, thứ lợi hại nhất của tao không phải tay, mà là đôi chân!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0040",
+      "alignment_id": "chapter_0027:align_0020",
+      "chapter_id": "chapter_0027",
+      "segment_ids": [
+        "chapter_0027:seg_0028"
+      ],
       "source": "可是他没有想到李耀的力气会大到如此恐怖的程度，更没想到李耀会卑鄙无耻地使用铁制杠铃来攻击，这一记势大力沉的轰击把他两条臂骨统统砸裂，连带着整个人都轰飞出去十几米远！",
-      "target": "\"Boong!\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "inner_thought"
+      "source_hash": "0d23ff4b041915066df74835a62d243fae5360ce1df1c19bfeeee47141f8077d",
+      "target": "Triệu Lượng nở nụ cười dữ tợn, gã đột ngột dùng hai ngón tay chọc mạnh vào hốc mắt mình làm nước mắt tuôn ra như mưa, miễn cưỡng rửa sạch bột magie. Trước mắt gã một lần nữa hiện ra hình ảnh mơ hồ, khóa chặt vị trí của Lý Diệu.\n\n\"Tao giết mày!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0041",
+      "alignment_id": "chapter_0027:align_0021",
+      "chapter_id": "chapter_0027",
+      "segment_ids": [
+        "chapter_0027:seg_0029"
+      ],
       "source": "众多普通班同学又是一片惊呼，只有极少数精通武技的同学才看得出来，如此夸张的场面，多多少少是赵亮有意为之，用腾空而起的方式，化解李耀的攻势！",
-      "target": "Trước ngực Lý Diệu vang lên một âm thanh vang dội như tiếng chuông chùa được gõ. Đầu gối của những người xung quanh xem cũng thấy nhói buốt như bị kim châm.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "source_hash": "8646fcc47ee4e28c96f7c7edf9c0cec11a141ea88fb92ccbf86d3bc9b9a9c4c9",
+      "target": "Triệu Lượng hét lớn một tiếng, đôi chân như hai con mãng xà quái dị nhảy vọt lên. Chỉ cần một cú bật nhảy đã rút ngắn khoảng cách mười mấy mét, chân trái đạp nứt cả ván sàn gỗ, đầu gối phải bắn ra như mãnh hổ vồ mồi!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0042",
+      "alignment_id": "chapter_0027:align_0022",
+      "chapter_id": "chapter_0027",
+      "segment_ids": [
+        "chapter_0027:seg_0030"
+      ],
       "source": "不过，不管怎么样，李耀终究是一招砸飞了郑亮，光是这一招，就足以轰动整个赤霄二中！",
-      "target": "Đầu gối Triệu Lượng có cứng đến mấy thì rốt cuộc cũng không cứng bằng kim loại. Kết quả của đòn toàn lực đánh thẳng vào tạ sắt là toàn bộ xương bánh chè bên phải nổ tung, vỡ vụn hoàn toàn!",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "source_hash": "250beafabd039547a9de58181f07cc623bc8c75c98112b7097a66360543c9767",
+      "target": "Chiêu thức có uy lực mạnh nhất trong \"Chiến Thú Thập Tam Thế\" — Hổ Súc Kích!",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0043",
-      "source": "“呸！",
-      "target": "Cường giả dày dặn kinh nghiệm chiến trường trong quân đội có lẽ còn chịu đựng được cơn đau đớn vỡ xương đầu gối để duy trì một phần chiến lực, nhưng Triệu Lượng dù có hung hãn đến đâu thì suy cho cùng cũng chỉ là một học sinh trung học. Việc đầu gối vỡ nát đã đủ khiến gã hoàn toàn mất đi sức chiến đấu.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "alignment_id": "chapter_0027:align_0023",
+      "chapter_id": "chapter_0027",
+      "segment_ids": [
+        "chapter_0027:seg_0031",
+        "chapter_0027:seg_0032"
+      ],
+      "source": "“呸！”\n\n十几米外，赵亮吐了一口带血的唾沫，整个人都被熊熊怒火缠绕，他知道自己今天是彻彻底底在阴沟里翻了船，就算等会儿能把这小子打趴下，他也会沦为重点班最大的笑话！",
+      "source_hash": "a5d13ead1161096d565c63812e4247bd22a100804167b3860a2dcabece7c54ce",
+      "target": "Từ lúc nhảy lên cho tới lúc thúc gối không quá 0,5 giây, Lý Diệu hoàn toàn không kịp đưa ra bất kỳ phản ứng nào, thậm chí còn chưa kịp bày ra tư thế đỡ đòn thì cú thúc gối của Triệu Lượng đã tông thẳng vào ngực cậu!",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0044",
-      "source": "”",
-      "target": "Triệu Lượng liên tục gào khóc thảm thiết, ngã gục xuống đất co giật liên hồi vì đau đớn.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "alignment_id": "chapter_0027:align_0024",
+      "chapter_id": "chapter_0027",
+      "segment_ids": [
+        "chapter_0027:seg_0033"
+      ],
+      "source": "“太卑鄙了，太无耻了，竟然用镁粉和杠铃！不过你这个垃圾恐怕还不知道，我最犀利的并不是手，而是双腿！”",
+      "source_hash": "1fa32a37b585502fe4770d096660c4f171095b93c2b76b50583f4704fd9e7a42",
+      "target": "\"A!\"\n\nKhông ít nữ sinh thốt lên kinh hãi, theo bản năng nhắm nghiền mắt lại không nỡ nhìn thảm kịch xảy ra.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0045",
-      "source": "十几米外，赵亮吐了一口带血的唾沫，整个人都被熊熊怒火缠绕，他知道自己今天是彻彻底底在阴沟里翻了船，就算等会儿能把这小子打趴下，他也会沦为重点班最大的笑话！",
-      "target": "Lý Diệu vạch áo đồng phục ra rút tấm bánh tạ sắt ra xem, phát hiện ở giữa tấm bánh tạ đã hằn sâu một vết lõm nông. Nếu không có tấm tạ sắt này, e rằng xương sườn của cậu đã bị đập nát vụn rồi.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0046",
-      "source": "“太卑鄙了，太无耻了，竟然用镁粉和杠铃！",
-      "target": "\"Chiêu 'Hổ Súc Kích' này quả nhiên lợi hại!\" Lý Diệu nhướn mày khen đối thủ một câu, sau đó đưa mắt nhìn quanh hai bên rồi đi về phía một chiếc giá để tạ.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0047",
-      "source": "不过你这个垃圾恐怕还不知道，我最犀利的并不是手，而是双腿！",
-      "target": "Lý Diệu đút tay trái vào túi áo, tay phải xách một thanh tạ đòn hai đầu gắn đầy bánh tạ nặng hơn trăm cân lên một cách nhẹ nhàng như không. Cậu thử vung vẩy vài cái, trong không khí lập tức truyền ra tiếng gió rít \"vù vù\" nghe mà tê dại cả da đầu.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0048",
-      "source": "”",
-      "target": "Kéo theo thanh tạ đòn, Lý Diệu lững thững đi về phía Triệu Lượng.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0049",
+      "alignment_id": "chapter_0027:align_0025",
+      "chapter_id": "chapter_0027",
+      "segment_ids": [
+        "chapter_0027:seg_0034"
+      ],
       "source": "郑亮狞笑一声，忽然叉开双指，往自己眼窝里狠狠一戳，顿时激发出大团眼泪，将镁粉勉强清洗干净，眼前重新出现了模模糊糊的影像，牢牢锁定李耀的方位。",
-      "target": "Triệu Lượng trên mặt giờ đâu còn nửa phần âm hiểm độc ác, gã sợ đến mức hồn bay phách lạc, đến tiếng la hét cũng nghẹn cứng ở cổ họng biến thành những lời cầu xin nhỏ nhặt run rẩy: \"Mày... mày muốn làm gì? Mày đừng qua đây!\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "source_hash": "119da698bf088e12503d43c51204292fc739c0e1787f56d4f32bed9bb48509fe",
+      "target": "—— Ngay trước đó mười mấy giây, lúc Triệu Lượng đang dốc sức dùng nước mắt rửa bột magie, Lý Diệu đã thong thả đút một tấm bánh tạ sắt nặng ba bốn chục cân vào trong áo che trước ngực, cảnh tượng này mọi người xung quanh đều nhìn thấy rõ mồn một.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0050",
-      "source": "“宰了你！",
-      "target": "\"Tiểu... Tiểu Yêu, bình tĩnh lại, đừng gây ra chuyện lớn!\" Mọi người trố mắt nhìn nhau da đầu tê rần, chỉ có người bạn thân Mạnh Giang mới có thể nén nỗi kinh hoàng run rẩy tiến lên khuyên ngăn.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "alignment_id": "chapter_0027:align_0026",
+      "chapter_id": "chapter_0027",
+      "segment_ids": [
+        "chapter_0027:seg_0035"
+      ],
+      "source": "“宰了你！”",
+      "source_hash": "921ec02aef55dbb15e5ec7b0f93aefd1392d381354b39dc421088aa720b94afb",
+      "target": "\"Boong!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0051",
-      "source": "”",
-      "target": "Lý Diệu im lặng một lát, quay người đặt thanh tạ đòn trở lại giá: \"Được rồi, dù sao mọi người cũng là bạn học, tớ cũng không muốn làm chuyện quá cạn tình cạn nghĩa...\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "alignment_id": "chapter_0027:align_0027",
+      "chapter_id": "chapter_0027",
+      "segment_ids": [
+        "chapter_0027:seg_0036",
+        "chapter_0027:seg_0037"
+      ],
+      "source": "赵亮尖叫一声，双腿化作两条怪蟒，纵身扑出，只用一次跳跃就吞噬了十几米距离，左腿在地板上蹬出木屑碎片，右膝势若猛虎地闪电弹出！\n\n《战兽十三势》中威力最强的一招——虎蹴击！",
+      "source_hash": "1fa7f6b3b92f1a5c8776e1e9b15038e836e83d382a057dc14b7345361e92c1e5",
+      "target": "Trước ngực Lý Diệu vang lên một âm thanh vang dội như tiếng chuông chùa được gõ. Đầu gối của những người xung quanh xem cũng thấy nhói buốt như bị kim châm.",
+      "narrative_type": "narration",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0052",
-      "source": "赵亮尖叫一声，双腿化作两条怪蟒，纵身扑出，只用一次跳跃就吞噬了十几米距离，左腿在地板上蹬出木屑碎片，右膝势若猛虎地闪电弹出！",
-      "target": "\"Như vậy mới đúng... Ủa cậu lại làm cái gì thế!\" Mạnh Giang vừa mới thở phào nhẹ nhõm một hơi thì lại thấy Lý Diệu nhấc một thanh tạ đòn nhỏ hơn một chút nhưng ít nhất cũng nặng bảy tám chục cân lên. Cái cằm vừa mới khép lại của cậu ta một lần nữa lại há hốc ra, không biết nên nói gì cho phải.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "alignment_id": "chapter_0027:align_0028",
+      "chapter_id": "chapter_0027",
+      "segment_ids": [
+        "chapter_0027:seg_0038",
+        "chapter_0027:seg_0039",
+        "chapter_0027:seg_0040"
+      ],
+      "source": "从跃起到膝撞，整个过程不超过0.5秒，李耀压根没做出半点反应，甚至连格挡的姿态都没摆出，赵亮的膝撞就击中他的胸口！\n\n“啊！”\n\n不少女生都发出惊呼，下意识地闭上眼睛，不忍看惨剧的发生。",
+      "source_hash": "40a16e86040ad479d5db2dcda4b4746521c291e853f9536d3c4915fed3a09501",
+      "target": "Đầu gối Triệu Lượng có cứng đến mấy thì rốt cuộc cũng không cứng bằng kim loại. Kết quả của đòn toàn lực đánh thẳng vào tạ sắt là toàn bộ xương bánh chè bên phải nổ tung, vỡ vụn hoàn toàn!",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0053",
-      "source": "《战兽十三势》中威力最强的一招——虎蹴击！",
-      "target": "Và lần này Lý Diệu cũng chẳng cho cậu ta cơ hội để nói chuyện. Cậu bước thẳng tới bên trái Triệu Lượng, thanh tạ đòn được giơ cao lên nhắm thẳng vào đầu gối bên trái vẫn còn nguyên vẹn của gã.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "alignment_id": "chapter_0027:align_0029",
+      "chapter_id": "chapter_0027",
+      "segment_ids": [
+        "chapter_0027:seg_0041"
+      ],
+      "source": "——就在十几秒钟之前，当赵亮拼命用眼泪清洗镁粉之时，李耀慢条斯理地将一块三四十斤重的铁制杠铃片塞进了衣服里，挡在胸前，这一幕被大家看得清清楚楚。。",
+      "source_hash": "75bf6cf869e4be771ad7a06011e4aa62c719fa71b267d3eaafeffd03240b0173",
+      "target": "Triệu Lượng liên tục gào khóc thảm thiết, ngã gục xuống đất co giật liên hồi vì đau đớn.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0054",
-      "source": "从跃起到膝撞，整个过程不超过0.5秒，李耀压根没做出半点反应，甚至连格挡的姿态都没摆出，赵亮的膝撞就击中他的胸口！",
-      "target": "\"Mày... mày có biết là do Hách Liên đại thiếu sai tao tới không hả!\" Triệu Lượng khiếp sợ hét lên thất thanh, cả người co rúm lại như một con tôm sắp chết.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "alignment_id": "chapter_0027:align_0030",
+      "chapter_id": "chapter_0027",
+      "segment_ids": [
+        "chapter_0027:seg_0042",
+        "chapter_0027:seg_0043",
+        "chapter_0027:seg_0044",
+        "chapter_0027:seg_0045"
+      ],
+      "source": "“铛！”\n\n李耀胸口传来了恍若寺庙里敲钟的声音。\n\n围观者的膝盖都是一阵针扎也似的刺痛。\n\n赵亮的膝盖再硬，终究比不上金属，全力一击的下场就是整个右膝盖完全爆裂，粉碎性骨折！",
+      "source_hash": "7baab483ad7b32d6053af767820fd3bf61e60d074b6921e93f39ef43b3ff4c72",
+      "target": "Lý Diệu vạch áo đồng phục ra rút tấm bánh tạ sắt ra xem, phát hiện ở giữa tấm bánh tạ đã hằn sâu một vết lõm nông. Nếu không có tấm tạ sắt này, e rằng xương sườn của cậu đã bị đập nát vụn rồi.",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0055",
-      "source": "“啊！",
-      "target": "\"Thế thì đã sao?\" Lý Diệu hỏi ngược lại.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0056",
-      "source": "”",
-      "target": "Thanh tạ đòn xé rách không khí, mang theo kình phong dữ dội đập mạnh xuống!",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0057",
-      "source": "不少女生都发出惊呼，下意识地闭上眼睛，不忍看惨剧的发生。",
-      "target": "\"Rắc!\"",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0058",
-      "source": "——就在十几秒钟之前，当赵亮拼命用眼泪清洗镁粉之时，李耀慢条斯理地将一块三四十斤重的铁制杠铃片塞进了衣服里，挡在胸前，这一幕被大家看得清清楚楚。",
-      "target": "Cả hai chân của Triệu Lượng đều gãy gập lại một cách quái dị. Gã đau đớn đến mức sùi bọt mép, mắt trợn trừng lòng trắng rồi trực tiếp ngất lịm đi vì sốc.",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0059",
-      "source": "。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0060",
-      "source": "“铛！",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0061",
-      "source": "”",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0062",
-      "source": "李耀胸口传来了恍若寺庙里敲钟的声音。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0063",
-      "source": "围观者的膝盖都是一阵针扎也似的刺痛。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0064",
-      "source": "赵亮的膝盖再硬，终究比不上金属，全力一击的下场就是整个右膝盖完全爆裂，粉碎性骨折！",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0065",
+      "alignment_id": "chapter_0027:align_0031",
+      "chapter_id": "chapter_0027",
+      "segment_ids": [
+        "chapter_0027:seg_0046"
+      ],
       "source": "经验丰富的军中强者，或许可以承受住膝盖粉碎性骨折的痛楚，保持一定的战斗力，可是赵亮再怎么凶悍，也就是一名普通高中生，膝盖爆裂足以令他完全丧失战力。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "source_hash": "4e6f01f162d7b0f13059acec98da2de152c54ea06334b090fcacec5ccb0d7f44",
+      "target": "\"Chiêu 'Hổ Súc Kích' này quả nhiên lợi hại!\" Lý Diệu nhướn mày khen đối thủ một câu, sau đó đưa mắt nhìn quanh hai bên rồi đi về phía một chiếc giá để tạ.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0066",
+      "alignment_id": "chapter_0027:align_0032",
+      "chapter_id": "chapter_0027",
+      "segment_ids": [
+        "chapter_0027:seg_0047"
+      ],
       "source": "赵亮连声惨叫，瘫倒在地，疼得抽搐起来。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "source_hash": "6ed604b7e3ad176e06038f8c38acb694df97f4602a3a0280931c6518c35e94a5",
+      "target": "Kéo theo thanh tạ đòn, Lý Diệu lững thững đi về phía Triệu Lượng.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0067",
-      "source": "李耀扯开校服，取出杠铃片，发现杠铃片中心出现了一个浅浅的凹坑，若是没有这块杠铃片，恐怕他的胸骨就会完全爆裂。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "alignment_id": "chapter_0027:align_0033",
+      "chapter_id": "chapter_0027",
+      "segment_ids": [
+        "chapter_0027:seg_0048",
+        "chapter_0027:seg_0049"
+      ],
+      "source": "李耀扯开校服，取出杠铃片，发现杠铃片中心出现了一个浅浅的凹坑，若是没有这块杠铃片，恐怕他的胸骨就会完全爆裂。\n\n“这招‘虎蹴击’，果然霸道！”李耀扬了扬眉毛，称赞了对手一声，随后左右一打量，朝一副杠铃架走过去。",
+      "source_hash": "01cc6a7d1f1acdcae8b4e911fef811ae6246013865f6a68e59910d4ddb3d4f00",
+      "target": "Triệu Lượng trên mặt giờ đâu còn nửa phần âm hiểm độc ác, gã sợ đến mức hồn bay phách lạc, đến tiếng la hét cũng nghẹn cứng ở cổ họng biến thành những lời cầu xin nhỏ nhặt run rẩy: \"Mày... mày muốn làm gì? Mày đừng qua đây!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0068",
-      "source": "“这招‘虎蹴击’，果然霸道！",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0069",
-      "source": "”李耀扬了扬眉毛，称赞了对手一声，随后左右一打量，朝一副杠铃架走过去。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0070",
+      "alignment_id": "chapter_0027:align_0034",
+      "chapter_id": "chapter_0027",
+      "segment_ids": [
+        "chapter_0027:seg_0050"
+      ],
       "source": "李耀左手插在口袋里，右手轻描淡写地拎起了一支两边装着大量杠铃片，足有一百多斤重的杠铃，试着挥舞了一下，空气中立刻传来“呼呼”的风声，令人头皮发麻。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "source_hash": "bc05497bf7c9469f10296235f6859b4b3d498632e1c21f50dcad2122ecd46cb3",
+      "target": "\"Tiểu... Tiểu Yêu, bình tĩnh lại, đừng gây ra chuyện lớn!\" Mọi người trố mắt nhìn nhau da đầu tê rần, chỉ có người bạn thân Mạnh Giang mới có thể nén nỗi kinh hoàng run rẩy tiến lên khuyên ngăn.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0071",
-      "source": "拖着杠铃，李耀朝赵亮走了过来。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "alignment_id": "chapter_0027:align_0035",
+      "chapter_id": "chapter_0027",
+      "segment_ids": [
+        "chapter_0027:seg_0051",
+        "chapter_0027:seg_0052"
+      ],
+      "source": "拖着杠铃，李耀朝赵亮走了过来。\n\n赵亮脸上哪里还有半点阴鸷，吓得魂飞魄散，连惨叫都硬生生憋在喉咙里，化作又尖又细的求饶：“你，你要干什么？你别过来！”",
+      "source_hash": "cf055ec39328a38851489a6eddb3256c996e007625d77eaf5ce121cf646c1632",
+      "target": "Lý Diệu im lặng một lát, quay người đặt thanh tạ đòn trở lại giá: \"Được rồi, dù sao mọi người cũng là bạn học, tớ cũng không muốn làm chuyện quá cạn tình cạn nghĩa...\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0072",
-      "source": "赵亮脸上哪里还有半点阴鸷，吓得魂飞魄散，连惨叫都硬生生憋在喉咙里，化作又尖又细的求饶：“你，你要干什么？",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "alignment_id": "chapter_0027:align_0036",
+      "chapter_id": "chapter_0027",
+      "segment_ids": [
+        "chapter_0027:seg_0053",
+        "chapter_0027:seg_0054"
+      ],
+      "source": "“小，小妖，冷静点，不要闹出大事！”所有人都目瞪口呆，头皮发麻，只有死党孟江才强忍着惊骇欲绝的心情，结结巴巴地劝阻。\n\n李耀沉默片刻，转身把杠铃放了回去：“好，大家毕竟同学一场，我也不想把事情做得太绝……”",
+      "source_hash": "f0394f40a1c8483139dcf32e28da25b77af9d490fbe9506781a6377fa5a7973c",
+      "target": "Và lần này Lý Diệu cũng chẳng cho cậu ta cơ hội để nói chuyện. Cậu bước thẳng tới bên trái Triệu Lượng, thanh tạ đòn được giơ cao lên nhắm thẳng vào đầu gối bên trái vẫn còn nguyên vẹn của gã.",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     },
     {
-      "seg_id": "seg_0073",
-      "source": "你别过来！",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "alignment_id": "chapter_0027:align_0037",
+      "chapter_id": "chapter_0027",
+      "segment_ids": [
+        "chapter_0027:seg_0055"
+      ],
+      "source": "“这就对……你又干啥！”孟江刚刚松了一口气，却见李耀又拎起了一支稍微小一点，但至少也有七八十斤重的杠铃，刚刚合上的下巴又一次张开，却不知该说什么好了。",
+      "source_hash": "71afd048b57a1c6477a21a4f810be4733c276d6acc093949b45eda1179d82b9a",
+      "target": "\"Mày... mày có biết là do Hách Liên đại thiếu sai tao tới không hả!\" Triệu Lượng khiếp sợ hét lên thất thanh, cả người co rúm lại như một con tôm sắp chết.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0074",
-      "source": "”",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0075",
-      "source": "“小，小妖，冷静点，不要闹出大事！",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0076",
-      "source": "”所有人都目瞪口呆，头皮发麻，只有死党孟江才强忍着惊骇欲绝的心情，结结巴巴地劝阻。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0077",
-      "source": "李耀沉默片刻，转身把杠铃放了回去：“好，大家毕竟同学一场，我也不想把事情做得太绝…",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0078",
-      "source": "…",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0079",
-      "source": "”",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0080",
-      "source": "“这就对…",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0081",
-      "source": "…",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0082",
-      "source": "你又干啥！",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0083",
-      "source": "”孟江刚刚松了一口气，却见李耀又拎起了一支稍微小一点，但至少也有七八十斤重的杠铃，刚刚合上的下巴又一次张开，却不知该说什么好了。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0084",
+      "alignment_id": "chapter_0027:align_0038",
+      "chapter_id": "chapter_0027",
+      "segment_ids": [
+        "chapter_0027:seg_0056"
+      ],
       "source": "而这一次，李耀也没有给他说话的机会，直接走到赵亮左边，杠铃高高扬起，对准赵亮完好无损的左膝盖。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "source_hash": "93c0ca9eebb48fe166b5519e272f16634e776c10027967033491ce6a3e827f98",
+      "target": "\"Thế thì đã sao?\" Lý Diệu hỏi ngược lại.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0085",
-      "source": "“你，你，你知不知道，是赫连大少让我来的！",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
+      "alignment_id": "chapter_0027:align_0039",
+      "chapter_id": "chapter_0027",
+      "segment_ids": [
+        "chapter_0027:seg_0057"
+      ],
+      "source": "“你，你，你知不知道，是赫连大少让我来的！”赵亮吓得哇哇乱叫，整个人都蜷缩起来，像是垂死的大虾。",
+      "source_hash": "7b6d54c0294fa2139dca31ae55d8b028a3fcde184e40fd0968d592a48506775d",
+      "target": "Thanh tạ đòn xé rách không khí, mang theo kình phong dữ dội đập mạnh xuống!\n\n\"Rắc!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
     },
     {
-      "seg_id": "seg_0086",
-      "source": "”赵亮吓得哇哇乱叫，整个人都蜷缩起来，像是垂死的大虾。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0087",
-      "source": "“那又如何？",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0088",
-      "source": "”李耀问道。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0089",
-      "source": "杠铃撕裂空气，轰出劲风，狠狠砸下！",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
-    },
-    {
-      "seg_id": "seg_0090",
-      "source": "“咔嚓！",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0091",
-      "source": "”",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "dialogue"
-    },
-    {
-      "seg_id": "seg_0092",
-      "source": "赵亮的两条腿都极不自然地弯折，疼得口吐白沫，眼珠发白，直接休克。",
-      "target": "",
-      "alignment_type": "1-to-1",
-      "narrative_type": "narration"
+      "alignment_id": "chapter_0027:align_0040",
+      "chapter_id": "chapter_0027",
+      "segment_ids": [
+        "chapter_0027:seg_0058",
+        "chapter_0027:seg_0059",
+        "chapter_0027:seg_0060",
+        "chapter_0027:seg_0061"
+      ],
+      "source": "“那又如何？”李耀问道。\n\n杠铃撕裂空气，轰出劲风，狠狠砸下！\n\n“咔嚓！”\n\n赵亮的两条腿都极不自然地弯折，疼得口吐白沫，眼珠发白，直接休克。",
+      "source_hash": "d4e739de3ad23a436f7bef029edd46768af32df7ca008ba5b49358ebe7de4158",
+      "target": "Cả hai chân của Triệu Lượng đều gãy gập lại một cách quái dị. Gã đau đớn đến mức sùi bọt mép, mắt trợn trừng lòng trắng rồi trực tiếp ngất lịm đi vì sốc.",
+      "narrative_type": "dialogue",
+      "alignment_type": "merged_source"
     }
   ],
   "term_occurrences": [
     {
-      "source_term": "普通班",
-      "target_term": "lớp thường",
-      "seg_id": "seg_0003",
-      "is_locked": false,
-      "present_in_target": true,
-      "category": "faction"
-    },
-    {
-      "source_term": "重点班",
-      "target_term": "lớp trọng điểm",
-      "seg_id": "seg_0004",
-      "is_locked": false,
-      "present_in_target": true,
-      "category": "faction"
-    },
-    {
-      "source_term": "灵根",
-      "target_term": "Linh căn",
-      "seg_id": "seg_0004",
-      "is_locked": false,
-      "present_in_target": false,
-      "category": "general"
-    },
-    {
-      "source_term": "灵根开发度",
-      "target_term": "độ khai phát linh căn",
-      "seg_id": "seg_0004",
-      "is_locked": false,
-      "present_in_target": true,
-      "category": "general"
-    },
-    {
-      "source_term": "魏铁",
-      "target_term": "Ngụy Thiết",
-      "seg_id": "seg_0004",
-      "is_locked": false,
-      "present_in_target": true,
-      "category": "character"
-    },
-    {
-      "source_term": "赵亮",
-      "target_term": "Triệu Lượng",
-      "seg_id": "seg_0004",
-      "is_locked": false,
-      "present_in_target": true,
-      "category": "character"
-    },
-    {
+      "chapter_id": "chapter_0027",
       "source_term": "赤霄二中",
       "target_term": "Xích Tiêu Nhị Trung",
-      "seg_id": "seg_0022",
-      "is_locked": false,
+      "segment_id": "chapter_0027:seg_0013",
       "present_in_target": true,
-      "category": "faction"
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
     },
     {
+      "chapter_id": "chapter_0027",
+      "source_term": "重点班",
+      "target_term": "lớp trọng điểm",
+      "segment_id": "chapter_0027:seg_0004",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0027",
+      "source_term": "普通班",
+      "target_term": "lớp thường",
+      "segment_id": "chapter_0027:seg_0002",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0027",
       "source_term": "战兽十三势",
       "target_term": "Chiến Thú Thập Tam Thế",
-      "seg_id": "seg_0053",
-      "is_locked": false,
+      "segment_id": "chapter_0027:seg_0036",
       "present_in_target": true,
-      "category": "technique"
+      "is_locked": false,
+      "category": "technique",
+      "confidence": 1.0
     },
     {
+      "chapter_id": "chapter_0027",
+      "source_term": "灵根",
+      "target_term": "Linh căn",
+      "segment_id": "chapter_0027:seg_0004",
+      "present_in_target": false,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0027",
+      "source_term": "灵根开发度",
+      "target_term": "độ khai phát linh căn",
+      "segment_id": "chapter_0027:seg_0004",
+      "present_in_target": false,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0027",
+      "source_term": "魏铁",
+      "target_term": "Ngụy Thiết",
+      "segment_id": "chapter_0027:seg_0004",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0027",
+      "source_term": "赵亮",
+      "target_term": "Triệu Lượng",
+      "segment_id": "chapter_0027:seg_0004",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0027",
       "source_term": "虎蹴击",
       "target_term": "Hổ Súc Kích",
-      "seg_id": "seg_0053",
-      "is_locked": false,
+      "segment_id": "chapter_0027:seg_0036",
       "present_in_target": true,
-      "category": "technique"
+      "is_locked": false,
+      "category": "technique",
+      "confidence": 1.0
     }
   ],
   "entity_mentions": [
     {
-      "source_surface": "魏铁",
-      "target_surface": "Ngụy Thiết",
-      "entity_type": "person",
-      "seg_id": "seg_0004",
-      "confidence": 1.0
-    },
-    {
-      "source_surface": "赵亮",
-      "target_surface": "Triệu Lượng",
-      "entity_type": "person",
-      "seg_id": "seg_0004",
-      "confidence": 1.0
-    },
-    {
+      "chapter_id": "chapter_0027",
       "source_surface": "李耀",
       "target_surface": "Lý Diệu",
       "entity_type": "person",
-      "seg_id": "seg_0005",
+      "segment_id": "chapter_0027:seg_0005",
       "confidence": 1.0
     },
     {
-      "source_surface": "赫连烈",
-      "target_surface": "Hách Liên Liệt",
-      "entity_type": "person",
-      "seg_id": "seg_0009",
-      "confidence": 1.0
-    },
-    {
+      "chapter_id": "chapter_0027",
       "source_surface": "孟江",
       "target_surface": "Mạnh Giang",
       "entity_type": "person",
-      "seg_id": "seg_0076",
+      "segment_id": "chapter_0027:seg_0053",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0027",
+      "source_surface": "赫连烈",
+      "target_surface": "Hách Liên Liệt",
+      "entity_type": "person",
+      "segment_id": "chapter_0027:seg_0007",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0027",
+      "source_surface": "魏铁",
+      "target_surface": "Ngụy Thiết",
+      "entity_type": "person",
+      "segment_id": "chapter_0027:seg_0004",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0027",
+      "source_surface": "赵亮",
+      "target_surface": "Triệu Lượng",
+      "entity_type": "person",
+      "segment_id": "chapter_0027:seg_0004",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0027",
+      "source_surface": "战兽十三势",
+      "target_surface": "Chiến Thú Thập Tam Thế",
+      "entity_type": "techniques",
+      "segment_id": "chapter_0027:seg_0036",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0027",
+      "source_surface": "虎蹴击",
+      "target_surface": "Hổ Súc Kích",
+      "entity_type": "techniques",
+      "segment_id": "chapter_0027:seg_0036",
       "confidence": 1.0
     }
   ],
+  "name_analysis": {
+    "status": "ok",
+    "evidence_count": 5,
+    "name_mentions": [
+      {
+        "chapter_id": "chapter_0027",
+        "name_source": "李耀",
+        "name_target": "Lý Diệu",
+        "segment_id": "chapter_0027:seg_0005",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0027",
+        "name_source": "孟江",
+        "name_target": "Mạnh Giang",
+        "segment_id": "chapter_0027:seg_0053",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0027",
+        "name_source": "赫连烈",
+        "name_target": "Hách Liên Liệt",
+        "segment_id": "chapter_0027:seg_0007",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0027",
+        "name_source": "魏铁",
+        "name_target": "Ngụy Thiết",
+        "segment_id": "chapter_0027:seg_0004",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0027",
+        "name_source": "赵亮",
+        "name_target": "Triệu Lượng",
+        "segment_id": "chapter_0027:seg_0004",
+        "present_in_target": true,
+        "confidence": 1.0
+      }
+    ],
+    "name_entries": [
+      {
+        "name_source": "李耀",
+        "name_target": "Lý Diệu"
+      },
+      {
+        "name_source": "孟江",
+        "name_target": "Mạnh Giang"
+      },
+      {
+        "name_source": "赫连烈",
+        "name_target": "Hách Liên Liệt"
+      },
+      {
+        "name_source": "魏铁",
+        "name_target": "Ngụy Thiết"
+      },
+      {
+        "name_source": "赵亮",
+        "name_target": "Triệu Lượng"
+      }
+    ],
+    "transliteration_units": [],
+    "inferred_name_rules": [],
+    "ambiguity_cases": [],
+    "reusable_name_profile": {
+      "mapping_count": 5,
+      "has_ambiguity": false
+    }
+  },
   "phrase_patterns": [],
   "grammar_rule_candidates": [],
+  "analyzer_reports": {
+    "term_occurrences": {
+      "status": "ok",
+      "evidence_count": 9
+    },
+    "entity_mentions": {
+      "status": "ok",
+      "evidence_count": 7
+    },
+    "name_mentions": {
+      "status": "ok",
+      "evidence_count": 5
+    },
+    "phrase_patterns": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    },
+    "grammar_rule_candidates": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    }
+  },
+  "review_queue": [
+    {
+      "chapter_id": "chapter_0027",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "李耀",
+        "entity_type": "person",
+        "count": 3,
+        "confidence": 0.7,
+        "evidence": [
+          "世界的存在！\n\n“这李耀，究竟是得罪了什么人",
+          "敢上前。\n\n“你就是李耀，也没什么特别嘛！”",
+          "。\n\n“那又如何？”李耀问道。\n\n杠铃撕裂空"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0027",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "全爆裂",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.82,
+        "evidence": [
+          "下场就是整个右膝盖完全爆裂，粉碎性骨折！\n\n经",
+          "，恐怕他的胸骨就会完全爆裂。\n\n“这招‘虎蹴击"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0027",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "双眼",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "数铁砂也似的粉末刺进双眼，眼前顿时一片雪白，",
+          "力的镁粉，正中赵亮的双眼！\n\n赵亮瞬间失去了"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0027",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "皮发麻",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.82,
+        "evidence": [
+          "呼呼”的风声，令人头皮发麻。\n\n拖着杠铃，李耀",
+          "所有人都目瞪口呆，头皮发麻，只有死党孟江才强忍"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0027",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "魏铁",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "刚刚走了一个“铁兽”魏铁，转眼间又来了一个更",
+          "不知用什么办法逼走了魏铁，现在面对赵亮，又会"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0027",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "李耀也没有给他说话的机会",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "好了。\n\n而这一次，李耀也没有给他说话的机会，直接走到赵亮左边，"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0027",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "还有好几位精通医术的大宗师坐镇",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "起死回生的灵丹妙药，还有好几位精通医术的大宗师坐镇，只要不是当场活活打"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0027",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0027:align_0002",
+        "segment_ids": [
+          "chapter_0027:seg_0002",
+          "chapter_0027:seg_0003"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0027",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0027:align_0004",
+        "segment_ids": [
+          "chapter_0027:seg_0005",
+          "chapter_0027:seg_0006"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0027",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0027:align_0005",
+        "segment_ids": [
+          "chapter_0027:seg_0007",
+          "chapter_0027:seg_0008"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0027",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0027:align_0008",
+        "segment_ids": [
+          "chapter_0027:seg_0011",
+          "chapter_0027:seg_0012"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0027",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0027:align_0009",
+        "segment_ids": [
+          "chapter_0027:seg_0013",
+          "chapter_0027:seg_0014"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0027",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0027:align_0013",
+        "segment_ids": [
+          "chapter_0027:seg_0018",
+          "chapter_0027:seg_0019"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0027",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0027:align_0016",
+        "segment_ids": [
+          "chapter_0027:seg_0022",
+          "chapter_0027:seg_0023"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0027",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0027:align_0017",
+        "segment_ids": [
+          "chapter_0027:seg_0024",
+          "chapter_0027:seg_0025"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0027",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0027:align_0023",
+        "segment_ids": [
+          "chapter_0027:seg_0031",
+          "chapter_0027:seg_0032"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0027",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0027:align_0027",
+        "segment_ids": [
+          "chapter_0027:seg_0036",
+          "chapter_0027:seg_0037"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0027",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0027:align_0028",
+        "segment_ids": [
+          "chapter_0027:seg_0038",
+          "chapter_0027:seg_0039",
+          "chapter_0027:seg_0040"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0027",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0027:align_0030",
+        "segment_ids": [
+          "chapter_0027:seg_0042",
+          "chapter_0027:seg_0043",
+          "chapter_0027:seg_0044",
+          "chapter_0027:seg_0045"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0027",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0027:align_0033",
+        "segment_ids": [
+          "chapter_0027:seg_0048",
+          "chapter_0027:seg_0049"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0027",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0027:align_0035",
+        "segment_ids": [
+          "chapter_0027:seg_0051",
+          "chapter_0027:seg_0052"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0027",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0027:align_0036",
+        "segment_ids": [
+          "chapter_0027:seg_0053",
+          "chapter_0027:seg_0054"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0027",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0027:align_0040",
+        "segment_ids": [
+          "chapter_0027:seg_0058",
+          "chapter_0027:seg_0059",
+          "chapter_0027:seg_0060",
+          "chapter_0027:seg_0061"
+        ]
+      }
+    }
+  ],
   "quality_audit": {
     "segment_coverage": 1.0,
+    "source_hash_match": true,
+    "target_reconstruction_match": true,
+    "invalid_ref_count": 0,
     "locked_term_hit_rate": 1.0,
+    "missing_locked_terms": [],
     "cjk_residue_count": 0,
-    "paragraph_drift_ratio": 0.37,
+    "paragraph_drift_ratio": 0.3442622950819672,
     "pronoun_consistency_score": 1.0,
     "warnings": []
   }

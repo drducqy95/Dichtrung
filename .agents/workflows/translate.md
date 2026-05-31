@@ -1,51 +1,81 @@
 ---
-description: Dịch thuật chương/bài trong repo Dichtrung (override /translate gốc)
+description: Dịch chương trong repo Dichtrung bằng Strict Translation Engine Contract V2
 ---
 
-# WORKFLOW: /translate — Dịch Thuật Dichtrung v1.0
+# WORKFLOW: /translate - Strict Translation Engine V2
 
-Override workflow `/translate` toàn cục cho cấu trúc mono-repo Dichtrung.
+## Nguyên tắc bắt buộc
 
----
+- AI chỉ đọc `runtime/context_packs/chapter_XXXX.context_pack.json`.
+- Source là dữ liệu bất biến trong `chapter.source_segments`; không echo, sửa hoặc tự phân đoạn lại source.
+- AI chỉ ghi `runtime/chapter_XXXX.translation_result.json` theo schema `translation_result.v2`.
+- AI không tự ghi Markdown, glossary, character state hoặc analysis JSONL.
+- Không bypass gate. Postflight fail thì dừng và sửa artifact đầu vào.
 
-## ⚠️ BẮT BUỘC SỬ DỤNG STRICT TRANSLATION ENGINE
+## Bước 1: Preflight
 
-Từ giờ trở đi, quy trình dịch thuật trong Dichtrung **KHÔNG** sử dụng cách tiếp cận đọc/ghi file thủ công bằng Agent nữa. Mọi thao tác phải thông qua Pipeline Python của **Strict Translation Engine**.
-
-**Quy trình chuẩn khi nhận lệnh `/translate [branch] [chapter]`:**
-
-### Bước 1: Giai Đoạn Chuẩn Bị (Preflight)
-Agent (Antigravity) CHỈ chạy duy nhất lệnh sau qua Terminal:
-```bash
-python "Script/strict_engine/translation_runner.py" preflight --branch "[Tên Branch]" --chapter [Số Chương]
+```powershell
+python "Script/strict_engine/translation_runner.py" preflight --branch "[Branch]" --chapter [Chapter]
 ```
-- ⛔ **Nếu lệnh báo FAIL:** Agent phải DỪNG NGAY LẬP TỨC và báo cáo lỗi cho User biết (do trùng lặp dữ liệu, thiếu file config...). Không được phép đi tiếp.
-- ✅ **Nếu lệnh PASS:** Chuyển sang Bước 2.
 
-### Bước 2: Dịch Thuật Cốt Lõi (AI Translation)
-1. Agent đọc file `Output/[Branch]/runtime/context_packs/chapter_[XXXX].context_pack.json` bằng công cụ `view_file` hoặc `read_file`.
-2. Phân tích `hard_constraints`, `dynamic_glossary`, `relationship_graph` và `source_text`.
-3. Tiến hành dịch thuật văn bản (Đây là nhiệm vụ cốt lõi của Agent).
-4. Đóng gói kết quả đầu ra theo ĐÚNG định dạng JSON Schema `translation_result.schema.json`.
-5. Agent dùng lệnh `write_to_file` để lưu kết quả vào:
-   `Output/[Branch]/runtime/chapter_[XXXX].translation_result.json`
+Preflight tạo:
 
-### Bước 3: Giai Đoạn Hậu Kỳ (Postflight)
-Sau khi ghi xong JSON, Agent chạy lệnh:
-```bash
-python "Script/strict_engine/translation_runner.py" postflight --branch "[Tên Branch]" --chapter [Số Chương]
+- `runtime/manifests/chapter_XXXX.scan.json`
+- `runtime/manifests/chapter_XXXX.source_segments.json`
+- `runtime/context_packs/chapter_XXXX.context_pack.json`
+- `runtime/gates/chapter_XXXX.precheck.json`
+
+Manifest dùng ID toàn cục `chapter_XXXX:seg_XXXX` và SHA-256 source.
+
+## Bước 2: Translation Result V2
+
+AI trả một lượt hybrid:
+
+```json
+{
+  "schema_version": "2.0",
+  "chapter_id": "chapter_0040",
+  "source_manifest_hash": "...",
+  "segment_translations": [
+    {
+      "segment_ids": ["chapter_0040:seg_0001"],
+      "target": "Bản dịch tiếng Việt",
+      "narrative_type": "narration"
+    }
+  ],
+  "analysis_candidates": {
+    "term_occurrences": {"status": "no_evidence", "evidence_count": 0, "items": []},
+    "entity_mentions": {"status": "no_evidence", "evidence_count": 0, "items": []},
+    "name_mentions": {"status": "no_evidence", "evidence_count": 0, "items": []},
+    "phrase_patterns": {"status": "no_evidence", "evidence_count": 0, "items": []},
+    "grammar_rule_candidates": {"status": "no_evidence", "evidence_count": 0, "items": []}
+  }
+}
 ```
-- Lệnh này sẽ tự động: Validate JSON, check CJK, ghi file Markdown, cập nhật Glossary, Characters và Progress.
-- ⛔ **Nếu lệnh báo FAIL:** Agent báo cáo lỗi cho User (VD: Không tuân thủ CJK ban, lỗi Schema).
-- ✅ **Nếu lệnh PASS:** Việc dịch chương đã hoàn tất thành công hoàn hảo.
 
----
+Điền thêm đầy đủ các field schema yêu cầu: title, summary, timeline, worldbuilding, term mới và character mới.
 
-## 🔒 Các Quy Tắc Bất Di Bất Dịch
-1. **Dữ liệu duy nhất:** AI KHÔNG ĐƯỢC tự đọc Source file hay Glossary. Dữ liệu duy nhất AI được phép đọc để dịch là `context_pack.json`.
-2. **Output duy nhất:** AI KHÔNG ĐƯỢC tự viết file Markdown. Nhiệm vụ của AI là xuất ra `translation_result.json`. Python sẽ lo việc ghi file.
-3. **Tuân thủ Gate:** Không bao giờ bypass các Gate lỗi. Nếu Python báo lỗi ở Precheck hay Statecheck, AI phải yêu cầu User can thiệp sửa Data gốc.
+Quy tắc:
 
-## Context Detection
-- `/translate [branch] [chapter]` → Dịch chương cụ thể của branch bằng Strict Engine.
-- `/translate` → Yêu cầu user cung cấp Branch và Chapter.
+- Dịch mới dùng một `segment_id` cho mỗi target.
+- Candidate chỉ tham chiếu stable segment ID.
+- Analyzer không có bằng chứng phải ghi `status=no_evidence`, `evidence_count=0`, `items=[]`.
+- Không đưa source vào JSON kết quả.
+
+## Bước 3: Postflight
+
+```powershell
+python "Script/strict_engine/translation_runner.py" postflight --branch "[Branch]" --chapter [Chapter]
+```
+
+Thứ tự strict:
+
+1. Validate translation core và source manifest.
+2. Dựng `runtime/analysis/chapter_XXXX.analysis_result.json`.
+3. Chạy strict analysis gate.
+4. Chỉ khi analysis pass mới ghi Markdown và cập nhật state.
+5. Rebuild derived analysis JSONL idempotent.
+6. Chạy statecheck.
+
+Gate chặn: thiếu/trùng/lạ segment ID, hash sai, ref hỏng, CJK còn sót, locked-term violation, analyzer report thiếu hoặc `no_evidence` sai contract.
+

@@ -1,0 +1,148 @@
+{
+  "schema_version": "1.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 36,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan\\0036 - 36.第36章 李耀上场！.md",
+  "source_char_count": 3117,
+  "characters": [
+    {
+      "source": "包子",
+      "entity_type": "person",
+      "count": 4,
+      "confidence": 0.7,
+      "evidence": [
+        "了十几个拳头大小的肉包子。\n\n“他是来比斗还",
+        "！”\n\n李耀一边啃着包子，一边埋头查看微型晶",
+        "少年的腮帮子里塞满了包子，还在一刻不停地咀嚼"
+      ]
+    },
+    {
+      "source": "李耀",
+      "entity_type": "person",
+      "count": 4,
+      "confidence": 0.7,
+      "evidence": [
+        "”郑东明直勾勾地盯着李耀。\n\n“为什么？”女",
+        "也有不少学生都看到了李耀。\n\n“你们看你们看",
+        "龙活虎。”\n\n“喂，李耀，你不要再往前面走了"
+      ]
+    },
+    {
+      "source": "连烈",
+      "entity_type": "person",
+      "count": 3,
+      "confidence": 0.7,
+      "evidence": [
+        "分，赤霄二中的王者赫连烈，带着一身铠甲般的霸",
+        "物手下找死。\n\n“赫连烈，司佳雪……赤霄二中",
+        "一个对手，我宁愿选赫连烈，也不愿意选他。”郑"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "source": "二号食堂",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "34分，李耀走进……二号食堂！\n\n“他要干什么？"
+      ]
+    },
+    {
+      "source": "加入战团",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "司佳雪缓缓睁开美眸，加入战团！\n\n2点15分，赤"
+      ]
+    },
+    {
+      "source": "李耀扛着整整一屉肉包子走出二号食堂",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "意。\n\n2点35分，李耀扛着整整一屉肉包子走出二号食堂，一边走一边吃，半分"
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "source": "睡眼惺忪地走向学生聚集的战斗区",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "，李耀出现在校园内，睡眼惺忪地走向学生聚集的战斗区，他的身影很快出现在"
+      ]
+    }
+  ],
+  "realms": [],
+  "techniques": [
+    "二中的修炼天才已经",
+    "值得关注的画面已经",
+    "她已经",
+    "我已经",
+    "李耀一步一步",
+    "李耀漫不经",
+    "此刻她已经",
+    "漫不经",
+    "英忽然觉得心口一阵",
+    "酒缸里抽出来的战刀",
+    "钟内干掉了十几个拳"
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "晶脑",
+      "target": "Tinh não"
+    },
+    {
+      "source": "赤霄二中",
+      "target": "Xích Tiêu Nhị Trung"
+    },
+    {
+      "source": "重点班",
+      "target": "lớp trọng điểm"
+    },
+    {
+      "source": "灵根",
+      "target": "Linh căn"
+    },
+    {
+      "source": "灵根开发度",
+      "target": "độ khai phát linh căn"
+    },
+    {
+      "source": "司佳雪",
+      "target": "Tiêu Giai Tuyết"
+    },
+    {
+      "source": "郑东明",
+      "target": "Trịnh Đông Minh"
+    },
+    {
+      "source": "孙彪",
+      "target": "Tôn Bưu"
+    },
+    {
+      "source": "准考证",
+      "target": "thẻ dự thi"
+    },
+    {
+      "source": "放弃",
+      "target": "Từ Bỏ"
+    },
+    {
+      "source": "医疗飞梭",
+      "target": "phi thuyền y tế"
+    }
+  ],
+  "structural_hints": {
+    "has_dialogue": true,
+    "has_western_names": false,
+    "estimated_segments": 94
+  },
+  "generated_at": "2026-05-31T03:25:32.370433+07:00"
+}

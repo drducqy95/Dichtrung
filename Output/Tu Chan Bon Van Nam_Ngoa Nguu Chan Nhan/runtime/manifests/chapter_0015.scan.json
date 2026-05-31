@@ -1,81 +1,518 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
   "chapter": 15,
   "source_file": "D:\\Dichtrung\\Source\\Source split\\Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan\\0015 - 15.第15章 不知死活.md",
   "source_char_count": 2332,
-  "characters": [
+  "source_hash": "fda85cf482bcf00f0b25c845f58067284adadee7f1b164c0d9c95e8498dfaff2",
+  "source_manifest_hash": "d30489f735a31a3a65ddd1913310f775e7ee7ad5d83695e1b789193eaebb6b93",
+  "source_segments": [
     {
-      "source": "郑少",
-      "entity_type": "person",
-      "count": 4,
-      "confidence": 0.7,
-      "evidence": [
-        "，先回去了，你帮我和郑少说一声。”司佳雪等到",
-        "隐散发着绿光。\n\n“郑少。”赫连烈收回目光，",
-        "东明微笑问道。\n\n“郑少，那边有个乡巴佬，不"
-      ]
+      "segment_id": "chapter_0015:seg_0001",
+      "source": "# 15.第15章 不知死活",
+      "source_hash": "02a5f9d59705bca53a741158be224cb47ec71bca66279c31e62a1abad784ec28"
     },
     {
-      "source": "后面",
-      "entity_type": "person",
-      "count": 2,
-      "confidence": 0.7,
-      "evidence": [
-        "佳人的身影隐没在回廊后面，“咔嚓”一声，脚下",
-        "笑嘻嘻的，也跟在赫连后面。\n\n还未走进下一段"
-      ]
+      "segment_id": "chapter_0015:seg_0002",
+      "source": "相隔二十多米的一个小花池边，皎洁的月光下，卓立着一双气度不凡的少男少女，正是赤霄二中的“男神”赫连烈和“女神”司佳雪。",
+      "source_hash": "e600fc8bb1819a2846b7861355c0781bd27aa30c5b440125cbf87bf7e34a94b6"
     },
     {
-      "source": "明白",
-      "entity_type": "person",
-      "count": 2,
-      "confidence": 0.7,
-      "evidence": [
-        "指手画脚！”\n\n“我明白，我明白，来吧，一起",
-        "！”\n\n“我明白，我明白，来吧，一起进去和郑"
-      ]
+      "segment_id": "chapter_0015:seg_0003",
+      "source": "赫连烈一脸诚恳，欠身道：“小雪，对不起，昨天是我太冲动，我不该去找那个普通班的垃圾，没想到会传出一些风言风语，连累你也被家长询问，都是我的错，请你接受我的道歉。”",
+      "source_hash": "42a3247e9fa033e299e884faacfa5ceec433021452bf3f29018a00611e6fb196"
     },
     {
-      "source": "连大少",
-      "entity_type": "person",
-      "count": 2,
-      "confidence": 0.82,
-      "evidence": [
-        "少忽然道：“对了，赫连大少，那个乡巴佬穿的，好",
-        "对方的腰眼。\n\n“赫连大少，请问这位……壮士，"
-      ]
-    }
-  ],
-  "organizations": [
+      "segment_id": "chapter_0015:seg_0004",
+      "source": "司佳雪依旧冷若冰霜，仿佛一座万年不化的冰山，冷冰冰地说：“我可以接受你的道歉，不过希望这件事到此为止，记住，我想和谁来往是我的自由，那家伙确实是一个贪得无厌的无赖，却也轮不到你来指手画脚！”",
+      "source_hash": "f0b0de099641de73807a7032df5f7b0660017888423d64302f381fb788facdea"
+    },
     {
-      "source": "看来下次咱们聚会",
-      "entity_type": "organization",
-      "count": 1,
-      "confidence": 0.78,
-      "evidence": [
-        "有人专门来这里吃饭？看来下次咱们聚会，也要换个更清幽的地"
-      ]
-    }
-  ],
-  "locations": [
+      "segment_id": "chapter_0015:seg_0005",
+      "source": "“我明白，我明白，来吧，一起进去和郑少喝一杯，今天是他生日，我们不要为一个垃圾动气。”赫连烈耐着性子说。",
+      "source_hash": "31343f008df2f8167827676d18400c4554f782f1c3e3f1cc108d49342cbafa73"
+    },
     {
-      "source": "仿佛一座万年不化的冰山",
-      "entity_type": "location",
-      "count": 1,
-      "confidence": 0.78,
-      "evidence": [
-        "司佳雪依旧冷若冰霜，仿佛一座万年不化的冰山，冷冰冰地说：“我可"
-      ]
+      "segment_id": "chapter_0015:seg_0006",
+      "source": "“我有点累，先回去了，你帮我和郑少说一声。”司佳雪等到了晶脑，丝毫不给面子，转身就走。",
+      "source_hash": "f037e4560798580b24cc8f6bfd738e3d5aa08eb42d34a56eccc0acfc38b4c59e"
+    },
+    {
+      "segment_id": "chapter_0015:seg_0007",
+      "source": "赫连烈目光阴沉，死死盯着佳人的身影隐没在回廊后面，“咔嚓”一声，脚下的青石板竟然出现蛛网般不住扩散的裂纹。",
+      "source_hash": "a0f58d3f063fb81064da35627931491e6ecd380587ba3687f92c0969553e7869"
+    },
+    {
+      "segment_id": "chapter_0015:seg_0008",
+      "source": "“啧啧啧啧，赫连大少好强的脚力。”一个略显浮夸的声音从背后传来，是一名身穿紫衣，眼泡有些肿胀，看似酒色过度的年轻人，他长着一对猫儿似的眼睛，在月光下隐隐散发着绿光。",
+      "source_hash": "c95d725da0cea4807f4b6e29f35b5cf5becd4fb2a6660fa5194d8f28efae0d88"
+    },
+    {
+      "segment_id": "chapter_0015:seg_0009",
+      "source": "“郑少。”赫连烈收回目光，神色恢复平静。",
+      "source_hash": "c28e5663c25c3930a85409353f9324fdf9280f37587b885954605a07c19e70dd"
+    },
+    {
+      "segment_id": "chapter_0015:seg_0010",
+      "source": "“不就是一个女人，就算司家在浮戈城里有些势力又怎么样，至于让你这么低声下气？”郑少笑嘻嘻地说，右手肆无忌惮地搭在赫连烈肩膀上。",
+      "source_hash": "711cda932f080a29986100ed471b5d00313fc137197dc3552d9323747ab85f00"
+    },
+    {
+      "segment_id": "chapter_0015:seg_0011",
+      "source": "在赤霄二中，敢说赫连烈“低声下气”的人，只怕早就被他打得爹妈都不认识。",
+      "source_hash": "e9319d8615f95de06b73a82599c3be2d8a536518404481b1557ada512696500a"
+    },
+    {
+      "segment_id": "chapter_0015:seg_0012",
+      "source": "但是这名阔少“郑东明”，不但是浮戈城赫赫有名的郑家第三代长孙，背后有众多修为深厚的凶人撑腰，本身也是“凤山门附属第二高中”的精英学生，灵根开发度74%，是这一次高考中，“浮戈城高考状元”称号的有力竞争者，实力隐隐在赫连烈之上。",
+      "source_hash": "94b659c6f196ea8c4cc8978bf1733c8d0cb2a2913f2edf060dac1a3f2f3c15f1"
+    },
+    {
+      "segment_id": "chapter_0015:seg_0013",
+      "source": "是以，赫连烈也只能按捺凶焰，勉强道：“我对小雪的感情，你不懂。”",
+      "source_hash": "d0070f6ad2a1160022a715d3a28b3ad5afa6a161e8c4acec01103b47810480f7"
+    },
+    {
+      "segment_id": "chapter_0015:seg_0014",
+      "source": "郑东明耸了耸肩，拖长音调：“是啦，我们这些凡夫俗子，怎么能领会你赫连大情圣的微妙心境呢？既然不懂，不如去喝酒啦，今天是我生日，你不是要一直摆着这张苦瓜脸吧？”",
+      "source_hash": "6150a52e7d810b10a85c3b063d21b1ed884cc90bf249ebd7fbb1a066dee7d2c9"
+    },
+    {
+      "segment_id": "chapter_0015:seg_0015",
+      "source": "赫连烈哼了一声，脸色稍稍转寰，两人正欲进屋，几名阔少圈子里的伙伴忽然神色古怪地走了过来，一个个憋得脸色发紫，气喘如牛。",
+      "source_hash": "aa550ad5f7c9eb5fa36a640a4869af9bb080ca0a123da4ec94ea47cf8437b221"
+    },
+    {
+      "segment_id": "chapter_0015:seg_0016",
+      "source": "“什么事这么好笑，说出来让我们也开心一下啊？”郑东明微笑问道。",
+      "source_hash": "068f62202fc8c7503c5871e91656a338e2578e57752aa747d41440ef990183cd"
+    },
+    {
+      "segment_id": "chapter_0015:seg_0017",
+      "source": "“郑少，那边有个乡巴佬，不知道从什么地方冒出来的，好像是饿鬼投胎，三年没吃饭，吃相那叫一个难看。”一名阔少捧着肚子，笑得快要抽筋了。",
+      "source_hash": "1f730e75e5e2ad677cee02f6b07a64c3629c36a102cadbad903f5f65d71a9ddd"
+    },
+    {
+      "segment_id": "chapter_0015:seg_0018",
+      "source": "隐湖小境这种地方，进来用餐的多是上流社会人士，注重的是环境和格调，把这里当成社交场合，吃饭反而是其次，大家多是点到即止，保持翩翩公子的风度。",
+      "source_hash": "b8f58b191be5a36825250b9d7f41995c86875cc2d94544b0a25e214993dbeef2"
+    },
+    {
+      "segment_id": "chapter_0015:seg_0019",
+      "source": "若是要胡吃海塞，大嚼大咽，自有更好的去处。",
+      "source_hash": "726b5bd7e6fc8531fb8f1bf0562507c18d4953d06d38a4fb4f10e1e1c3eee845"
+    },
+    {
+      "segment_id": "chapter_0015:seg_0020",
+      "source": "郑东明懒洋洋地说：“现在隐湖小境的档次也不行了，竟然有人专门来这里吃饭？看来下次咱们聚会，也要换个更清幽的地方。不过就算是吃相难看一点，也不至于让你们笑成这样吧？”",
+      "source_hash": "cb8e429b0d42ccc124311c250d5026b00d49802241be8dcf510442d798901d5b"
+    },
+    {
+      "segment_id": "chapter_0015:seg_0021",
+      "source": "“不是啊，郑少，那家伙真的太夸张！”",
+      "source_hash": "ddf21881a94da048174e9fe0ec914a7b4fd9af60db78afd8546a5793d4689fe7"
+    },
+    {
+      "segment_id": "chapter_0015:seg_0022",
+      "source": "另一名阔少强忍笑意，伸手比划着，“这么长，这么长的一根带骨烤肉，咔嚓咔嚓，三口就吃下去，连骨头都磨得粉碎，全部吞落，半点渣都不剩下！”",
+      "source_hash": "81e39a8972e72c354b9503c844a29d6484ce02d4300a82b36042566cf12eb935"
+    },
+    {
+      "segment_id": "chapter_0015:seg_0023",
+      "source": "头一名阔少补充：“还有，还有，脸盆大的深海霸王蟹，都带着壳，带着壳啊，也被这个乡巴佬三两口吃了个一干二净，你是没看到他吃过的盘子，啧啧啧啧，简直比刷洗过的还干净！”",
+      "source_hash": "77fd4442f116318404bb4fa969607deac2a1771e91143aee45a5bde50d22a225"
+    },
+    {
+      "segment_id": "chapter_0015:seg_0024",
+      "source": "另一名阔少继续叫道：“是啊，我还看到他在半分钟内，眼都不眨一下，连壳吞下了整整二十个海胆！”",
+      "source_hash": "56d565aa2c58c92a7f5afd5e0e31db43abd72fdf80fccf66ec7aeba2d636ec9a"
+    },
+    {
+      "segment_id": "chapter_0015:seg_0025",
+      "source": "“总之，真的很夸张，郑少你要不要去见识一下？”两名阔少异口同声。",
+      "source_hash": "981816013106c58eb5a42c547f49750f69f8e0ed6db733b5d3362eee175842dd"
+    },
+    {
+      "segment_id": "chapter_0015:seg_0026",
+      "source": "“算了吧，我的爱好是看女人脱衣服，不是看男人吃饭，赫连，你有没有兴趣？”郑东明浅浅打了个哈欠。",
+      "source_hash": "df8e87f8e7a3d2aad02180b8362e7f324aa4e236c53db3cbcbaefe3646dbbcbd"
+    },
+    {
+      "segment_id": "chapter_0015:seg_0027",
+      "source": "“没兴趣。”赫连烈淡淡道。",
+      "source_hash": "058b6f6735b40a0107d1bfa7632f40a609aee6d8a1907b89d905cfd34a510c56"
+    },
+    {
+      "segment_id": "chapter_0015:seg_0028",
+      "source": "头一名阔少忽然道：“对了，赫连大少，那个乡巴佬穿的，好像是你们‘赤霄二中’的校裤！”",
+      "source_hash": "30f3ae50532854c84a5e792c131f855b02d6d631a34ad78364c3b7817229380a"
+    },
+    {
+      "segment_id": "chapter_0015:seg_0029",
+      "source": "“嗯？”赫连烈一愣，脸色顿时变得有些难看。",
+      "source_hash": "5d70d28286f5828392b64941a2a353741bd9df2af416bff03740d7100ad05f56"
+    },
+    {
+      "segment_id": "chapter_0015:seg_0030",
+      "source": "郑东明也来了兴趣，眼底发亮：“赫连，你们赤霄二中虽然比不过我们凤山二中，可是在浮戈城里也算是排名比较靠前的优质中学，居然有这种极品？这就一定要见识一下了！”",
+      "source_hash": "d5b9d431e0694f81ac60335cd62fe55c37310288c751a54cfcb497dc109b49f1"
+    },
+    {
+      "segment_id": "chapter_0015:seg_0031",
+      "source": "“赤霄二中，都是精英，怎么会有这种饿死鬼！”赫连烈生硬地说，狠狠瞪了两名阔少一眼，大步朝他们来的方向走过去。",
+      "source_hash": "9fe35705f57e4de4f084554a87b7baab508542544d01508f7b0d1e24444bed98"
+    },
+    {
+      "segment_id": "chapter_0015:seg_0032",
+      "source": "郑东明冲两名阔少挤眉弄眼，用口型默默道：“如果真是你们看错，赫连一定发飙，你们自求多福啦！”",
+      "source_hash": "7fda4fb1f6583400574b999d3f96196dd2fedef0026cea811e4ee5c72bd09432"
+    },
+    {
+      "segment_id": "chapter_0015:seg_0033",
+      "source": "说完，他笑嘻嘻的，也跟在赫连后面。",
+      "source_hash": "e70ddb8435660f7e74f5c375984f2b916ba43990dafa9f4d08309bb7dc56e413"
+    },
+    {
+      "segment_id": "chapter_0015:seg_0034",
+      "source": "还未走进下一段回廊，就听到“咔嚓咔嚓，咔嚓咔嚓”，有如刀剑交击的咀嚼声。",
+      "source_hash": "5465e0802a494594da03440497c1d54ea57a411b1d20177fb0090c240fbbd61c"
+    },
+    {
+      "segment_id": "chapter_0015:seg_0035",
+      "source": "“这……还真是够凶猛的。”郑东明喃喃道，看着正趴在餐桌上据案大嚼的李耀，愣了好一会儿。",
+      "source_hash": "5cc67f64c76c524dfa167edf9eb68859eaf1ec8975cdf94ae6eeaf86766778dc"
+    },
+    {
+      "segment_id": "chapter_0015:seg_0036",
+      "source": "瞥了一眼身边人，郑东明感觉赫连烈就快爆炸，他强忍笑意，捅了捅对方的腰眼。",
+      "source_hash": "9631e64e86516f36567c2450b06f09ec625a2c96a02a6ccf903914ec58a80a65"
+    },
+    {
+      "segment_id": "chapter_0015:seg_0037",
+      "source": "“赫连大少，请问这位……壮士，是不是贵校的高材生？”",
+      "source_hash": "c9eb02864a4d6ba3830e9f62155c54b93ccf87bb7073d89f933f4482a401f693"
+    },
+    {
+      "segment_id": "chapter_0015:seg_0038",
+      "source": "另外两名阔少躲在郑东明身后，忍不住“嗤嗤”偷笑起来。",
+      "source_hash": "9c5734406783ce6e4a64c2ffd501504a0109bb35982454173a24a942ff768228"
+    },
+    {
+      "segment_id": "chapter_0015:seg_0039",
+      "source": "赫连烈仿佛化作一座石像，阴冷地沉默了三秒钟，双眼眯成两把锋利的弯刀，忽然身形闪动，一步跨至李耀面前，森然问道：“你在这里干什么？”",
+      "source_hash": "c22bdceb55183772f78e3c4fb80a809f87d5dc0da850dd094d52ac19de5c284c"
+    },
+    {
+      "segment_id": "chapter_0015:seg_0040",
+      "source": "浮戈城很大，有好几百万人口，赫连烈才不相信会有这么巧，这个普通班的垃圾正好跑到隐湖小境来丢人。",
+      "source_hash": "c5d2b3ac5d2b3f1415d119a28623ad4f05ed0a41b7097cc73740298cd1d4a907"
+    },
+    {
+      "segment_id": "chapter_0015:seg_0041",
+      "source": "一定是跟踪司佳雪到这里来的！",
+      "source_hash": "f3ea61342b7f711e9fd13251770efc843ddfc771dbc3e110103f5c03bd8e67de"
+    },
+    {
+      "segment_id": "chapter_0015:seg_0042",
+      "source": "李耀正吃得兴高采烈，冷不防有人在耳边咆哮，微微一愣，扭头一看，不由皱眉，一边咀嚼，一边冷笑：“我在这里洗澡，难道你看不出来？”",
+      "source_hash": "60bc26403485836febade74804e496018a34ac7dfb2d358fd6fb8500eca8345f"
+    },
+    {
+      "segment_id": "chapter_0015:seg_0043",
+      "source": "李耀在南柯一梦中见多了实力强横的古修，赫连烈这种级别的小角色，简直变成虾兵蟹将一般的存，他眼底自然而然流露出一抹藐视。",
+      "source_hash": "129158fde032f0432fb64d1b7c883b919dec1e3f238397843b12687d2e7339ed"
+    },
+    {
+      "segment_id": "chapter_0015:seg_0044",
+      "source": "赫连烈在赤霄二中说一不二，就算是重点班也无人敢违逆他，没想到这个普通班的垃圾不但把他的警告当耳边风，还故意讽刺他，眼神又如此轻蔑，顿时令他怒火中烧！“你这垃圾，简直不知死活！”赫连烈猛地跨出一大步，叉开五指朝李耀的脸上狠狠掴去！",
+      "source_hash": "3d3f8647a5fe8ba5d8e756a52b50ca4db904883e6e80e263d116e5758ad868ae"
     }
   ],
+  "known_characters": [
+    {
+      "id": "protagonist_ly_dieu",
+      "name_source": "李耀",
+      "name_target": "Lý Diệu",
+      "name_aliases": [
+        "Thốc Thứu",
+        "Kền Kền",
+        "Âu Dã Minh"
+      ],
+      "gender": "male",
+      "age_group": "teenager",
+      "social_status": "Học sinh lớp thường / Thợ nhặt rác",
+      "base_archetype": "protagonist",
+      "speech_style": "Thẳng thắn, thực tế, hơi ngông cuồng của thiếu niên nhưng có suy nghĩ thấu đáo và kiên định.",
+      "first_appearance": {
+        "chapter": 1,
+        "context": "Xuất hiện nhặt rác tại Nghĩa địa Pháp Bảo"
+      },
+      "cultivation": {
+        "primary_system": "Linh căn khai phát / Cơ khí tu chân",
+        "current_realm": "Người thường (Linh căn khai phát 35%)",
+        "current_sub_stage": "",
+        "notes": "Linh căn khai phát ban đầu chỉ có 35% nhưng có tiềm năng tinh thần lực cực cao nhờ dị mộng."
+      },
+      "abilities": [
+        "Kỹ năng đua xe Trái Đất",
+        "Chế tạo cơ khí thủ công",
+        "Sửa chữa pháp bảo phế thải",
+        "Linh Xà Thân Pháp"
+      ],
+      "faction": {
+        "current": {
+          "name": "Xích Tiêu Nhị Trung",
+          "role": "Học sinh lớp thường"
+        },
+        "history": [
+          {
+            "name": "Trái Đất (kiếp trước)",
+            "role": "Tay đua xe chuyên nghiệp"
+          }
+        ]
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Thiếu niên 17 tuổi gầy gò, khỏe khoắn, da ngăm đen do dầm mưa dãi nắng ở nghĩa địa pháp bảo, đôi mắt sáng ngời sắc bén như chim ưng.",
+        "style": "Đồ lao động cũ kỹ bám đầy dầu mỡ, sau đó mặc đồng phục Xích Tiêu Nhị Trung.",
+        "distinctive": "Lòng bàn tay có nhiều vết chai sạn do sửa chữa cơ khí và vung búa rèn."
+      },
+      "personality": {
+        "traits": [
+          "Kiên trì",
+          "Thực tế",
+          "Thích tiền",
+          "Bền bỉ",
+          "Mưu mẹo"
+        ],
+        "speech": "Dứt khoát, thường xưng 'tôi' hoặc 'ta' tùy ngữ cảnh."
+      },
+      "notes": ""
+    },
+    {
+      "id": "npc_tieu_giai_tuyet",
+      "name_source": "司佳雪",
+      "name_target": "Tiêu Giai Tuyết",
+      "name_aliases": [
+        "Nữ thần Nhị Trung"
+      ],
+      "gender": "female",
+      "age_group": "teenager",
+      "social_status": "Học sinh lớp trọng điểm / Đại tiểu thư",
+      "base_archetype": "quest_giver",
+      "speech_style": "Kiêu kỳ, lịch thiệp nhưng ẩn chứa sự xa cách của giới thượng lưu.",
+      "first_appearance": {
+        "chapter": 7,
+        "context": "Đạt đồng hạng nhất khối thi thử và gặp Lý Diệu ở nhà kho cũ"
+      },
+      "cultivation": {
+        "primary_system": "Linh năng",
+        "current_realm": "Bán Tu Chân Giả (Linh căn khai phát 71%)",
+        "current_sub_stage": "",
+        "notes": "Gia thế hiển hách, có tài nguyên tu luyện phong phú."
+      },
+      "abilities": [
+        "Luyện khí thuật cơ bản",
+        "Tinh não Quảng Lăng số 7"
+      ],
+      "faction": {
+        "current": {
+          "name": "Xích Tiêu Nhị Trung",
+          "role": "Học sinh lớp trọng điểm (Đồng hạng nhất)"
+        },
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Xinh đẹp như hoa, làn da trắng ngần, phong thái thanh tao quý phái.",
+        "style": "Đồng phục nữ sinh tinh xảo của lớp trọng điểm, trang sức đắt tiền.",
+        "distinctive": "Luôn toát ra vẻ tự tin của con nhà tông môn."
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "rival_hach_lien_liet",
+      "name_source": "赫连烈",
+      "name_target": "Hách Liên Liệt",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "teenager",
+      "social_status": "Thiếu gia phiệt phiệt / Học sinh lớp trọng điểm",
+      "base_archetype": "rival",
+      "speech_style": "Kiêu ngạo, hống hách, hay đe dọa kẻ yếu.",
+      "first_appearance": {
+        "chapter": 7,
+        "context": "Đứng hạng nhất khối thi thử cùng Tiêu Giai Tuyết, ch.9 chặn đường Lý Diệu"
+      },
+      "cultivation": {
+        "primary_system": "Linh năng / Thể tu",
+        "current_realm": "Bán Tu Chân Giả (Linh căn khai phát 72%)",
+        "current_sub_stage": "",
+        "notes": "Có quan hệ thanh mai trúc mã với Tiêu Giai Tuyết và thù ghét Lý Diệu."
+      },
+      "abilities": [
+        "Thiết Quyền Công",
+        "Chiến đấu giáp lá cà"
+      ],
+      "faction": {
+        "current": {
+          "name": "Xích Tiêu Nhị Trung",
+          "role": "Học sinh lớp trọng điểm (Hạng nhất khối)"
+        },
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Thân hình cao to vạm vỡ, mặt mũi góc cạnh nhưng mang vẻ tàn nhẫn độc đoán.",
+        "style": "Trang phục chiến đấu cao cấp, giày bay đắt tiền.",
+        "distinctive": "Ánh mắt khinh khỉnh, luôn nhìn người khác bằng nửa con mắt."
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "郑东明",
+      "name_target": "Trịnh Đông Minh",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "young",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": "Trường trung học phổ thông trực thuộc số hai Phụng Sơn Môn",
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Đích tôn đời thứ ba của nhà họ Trịnh, độ khai phát linh căn 74%, là học sinh ưu tú và ứng cử viên Thủ khoa, có bối cảnh mạnh mẽ và thực lực cao hơn Hách Liên Liệt. Có bọng mắt sưng tấy và đôi mắt như mắt mèo.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    }
+  ],
+  "known_worldbuilding": [
+    {
+      "section": "factions",
+      "name_source": "凤山门附属第二高中",
+      "name_target": "Trường trung học phổ thông trực thuộc số hai Phụng Sơn Môn",
+      "type": "Trường học",
+      "description": "Một trường trung học phổ thông uy tín ở Phù Qua Thành, đối thủ cạnh tranh của Xích Tiêu Nhị Trung, nơi Trịnh Đông Minh đang theo học."
+    },
+    {
+      "section": "locations",
+      "name_source": "浮戈城",
+      "name_target": "Phù Qua Thành",
+      "type": "Đô thị tu chân",
+      "description": "Một trong những đại đô thị tu chân hiện đại tại Thiên Nguyên Giới, nổi bật với hệ thống tinh quỹ chạy trên không trung và các quảng trường thương mại linh năng."
+    },
+    {
+      "section": "locations",
+      "name_source": "隐湖小境",
+      "name_target": "Ẩn Hồ Tiểu Cảnh",
+      "type": "Nhà hàng",
+      "description": "Nhà hàng buffet cao cấp nằm bên bờ Hồ Ẩn Đông, được thiết kế với phong cảnh rừng trúc và trận pháp tạo tuyết rơi quanh năm."
+    }
+  ],
+  "heuristic_candidates": {
+    "characters": [
+      {
+        "source": "郑少",
+        "entity_type": "person",
+        "count": 4,
+        "confidence": 0.7,
+        "evidence": [
+          "，先回去了，你帮我和郑少说一声。”司佳雪等到",
+          "隐散发着绿光。\n\n“郑少。”赫连烈收回目光，",
+          "东明微笑问道。\n\n“郑少，那边有个乡巴佬，不"
+        ]
+      },
+      {
+        "source": "后面",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "佳人的身影隐没在回廊后面，“咔嚓”一声，脚下",
+          "笑嘻嘻的，也跟在赫连后面。\n\n还未走进下一段"
+        ]
+      },
+      {
+        "source": "明白",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "指手画脚！”\n\n“我明白，我明白，来吧，一起",
+          "！”\n\n“我明白，我明白，来吧，一起进去和郑"
+        ]
+      },
+      {
+        "source": "连大少",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.82,
+        "evidence": [
+          "少忽然道：“对了，赫连大少，那个乡巴佬穿的，好",
+          "对方的腰眼。\n\n“赫连大少，请问这位……壮士，"
+        ]
+      }
+    ],
+    "organizations": [
+      {
+        "source": "看来下次咱们聚会",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "有人专门来这里吃饭？看来下次咱们聚会，也要换个更清幽的地"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "source": "仿佛一座万年不化的冰山",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "司佳雪依旧冷若冰霜，仿佛一座万年不化的冰山，冷冰冰地说：“我可"
+        ]
+      }
+    ],
+    "techniques": [
+      "有如刀剑",
+      "眯成两把锋利的弯刀",
+      "连烈猛地跨出一大步"
+    ]
+  },
   "realms": [],
-  "techniques": [
-    "有如刀剑",
-    "眯成两把锋利的弯刀",
-    "连烈猛地跨出一大步"
-  ],
-  "matched_locked_terms": [
+  "matched_glossary_terms": [
     {
       "source": "浮戈城",
       "target": "Phù Qua Thành"
@@ -111,7 +548,58 @@
     {
       "source": "隐湖小境",
       "target": "Ẩn Hồ Tiểu Cảnh"
+    },
+    {
+      "source": "郑东明",
+      "target": "Trịnh Đông Minh"
+    },
+    {
+      "source": "凤山门附属第二高中",
+      "target": "Trường trung học phổ thông trực thuộc số hai Phụng Sơn Môn"
     }
   ],
-  "generated_at": "2026-05-30T05:32:11.295052+07:00"
+  "matched_locked_terms": [
+    {
+      "source": "浮戈城",
+      "target": "Phù Qua Thành"
+    },
+    {
+      "source": "晶脑",
+      "target": "Tinh não"
+    },
+    {
+      "source": "赤霄二中",
+      "target": "Xích Tiêu Nhị Trung"
+    },
+    {
+      "source": "重点班",
+      "target": "lớp trọng điểm"
+    },
+    {
+      "source": "普通班",
+      "target": "lớp thường"
+    },
+    {
+      "source": "灵根开发度",
+      "target": "độ khai phát linh căn"
+    },
+    {
+      "source": "司佳雪",
+      "target": "Tiêu Giai Tuyết"
+    },
+    {
+      "source": "隐湖小境",
+      "target": "Ẩn Hồ Tiểu Cảnh"
+    },
+    {
+      "source": "郑东明",
+      "target": "Trịnh Đông Minh"
+    }
+  ],
+  "structural_hints": {
+    "has_dialogue": true,
+    "has_western_names": false,
+    "estimated_segments": 62
+  },
+  "generated_at": "2026-05-31T08:51:02.329637+07:00"
 }

@@ -1,15 +1,807 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
   "chapter": 8,
-  "aligned_segments": [],
-  "term_occurrences": [],
-  "entity_mentions": [],
+  "chapter_id": "chapter_0008",
+  "source_manifest_hash": "b340c2499f33fa9986b509d7e5c8b6271bc47f752ad70ca276a6c1b77f26d509",
+  "aligned_segments": [
+    {
+      "alignment_id": "chapter_0008:align_0001",
+      "chapter_id": "chapter_0008",
+      "segment_ids": [
+        "chapter_0008:seg_0001"
+      ],
+      "source": "# 8.第8章 维修晶脑",
+      "source_hash": "a5d459f66f75a624bf30708e4922fd48201b7bd8651373bb9abebc4a1b0d1bc6",
+      "target": "# Chương 8: Sửa Chữa Tinh Não",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0008:align_0002",
+      "chapter_id": "chapter_0008",
+      "segment_ids": [
+        "chapter_0008:seg_0002"
+      ],
+      "source": "“你迟到了55秒。”冰山美女冷冷道。",
+      "source_hash": "ad4aa5912ad96ad23ff29ce3119ac4fbff154bff3769517d387b5e08d63177be",
+      "target": "\"Cậu đã đến muộn năm mươi lăm giây.\" Mỹ nhân băng giá lạnh lùng nói.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0008:align_0003",
+      "chapter_id": "chapter_0008",
+      "segment_ids": [
+        "chapter_0008:seg_0003"
+      ],
+      "source": "“不好意思，这里有些难找，东西带来了吧？”李耀腹诽了几句，伸出脏兮兮的爪子。",
+      "source_hash": "3b524d6ecfbd65913e909e77f0606b670d1adf867aea130a542d811ede4a6419",
+      "target": "\"Xin lỗi nhé, chỗ này hơi khó tìm một chút. Đồ mang theo rồi chứ?\" Lý Diệu thầm oán hận vài câu trong lòng, rồi chìa bàn tay lấm lem bẩn thỉu ra.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0008:align_0004",
+      "chapter_id": "chapter_0008",
+      "segment_ids": [
+        "chapter_0008:seg_0004"
+      ],
+      "source": "司佳雪柳眉轻皱，评估着李耀的模样，觉得自己似乎做出了一个轻率的选择，犹豫片刻，还是从书包里掏出一台晶脑递过来。",
+      "source_hash": "6c86de9d7596841cc8fef7dd4abc5bc1ecd12600ad02d09157d1230c7636570d",
+      "target": "Tiêu Giai Tuyết khẽ chau mày, đánh giá vẻ bề ngoài của Lý Diệu. Cô cảm thấy dường như mình đã đưa ra một lựa chọn quá mức vội vàng, do dự một lát rồi mới từ trong ba lô lấy ra một chiếc tinh não đưa qua.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0008:align_0005",
+      "chapter_id": "chapter_0008",
+      "segment_ids": [
+        "chapter_0008:seg_0005"
+      ],
+      "source": "“就是这台晶脑，开机之后很不稳定，每次运行不超过三分钟就死机了，我跑了好几家维修商店，都说款式太过古老，里面很多元件都停产了，没有办法维修。我听说你是一名资深的晶脑迷，也十分擅长晶脑维修，如果你能修，要什么价尽管开口，钱，不是问题；当然，如果不能修，也请直说，千万不要弄坏里面的元件。”",
+      "source_hash": "e3c727c94c14c8d1dfbbf2313c50f0f9d76d6baa41ee1bf9d6d388e100f76012",
+      "target": "\"Là chiếc tinh não này, sau khi khởi động thì hoạt động rất không ổn định, mỗi lần chạy không quá ba phút là lại bị treo máy. Tôi đã chạy tới mấy cửa hàng sửa chữa, họ đều bảo kiểu dáng này quá cổ xưa, rất nhiều linh kiện bên trong đã ngừng sản xuất nên không có cách nào sửa được. Tôi nghe nói cậu là một người cuồng tinh não kỳ cựu, lại rất giỏi sửa chữa tinh não. Nếu cậu sửa được thì cứ việc ra giá, tiền bạc không thành vấn đề. Đương nhiên, nếu không sửa được thì cứ nói thẳng, ngàn vạn lần đừng làm hỏng linh kiện bên trong.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0008:align_0006",
+      "chapter_id": "chapter_0008",
+      "segment_ids": [
+        "chapter_0008:seg_0006"
+      ],
+      "source": "“看看再说。”",
+      "source_hash": "65e78a9038c68771aaf0d0bd859847cc37c7ffe3e3d86cccb3d5287c24557cb9",
+      "target": "\"Để tôi xem thử đã.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0008:align_0007",
+      "chapter_id": "chapter_0008",
+      "segment_ids": [
+        "chapter_0008:seg_0007"
+      ],
+      "source": "晶脑维修是一门博大精深的技术，李耀也不敢打包票，从书包里抽出一副防尘手套戴上，这才郑重其事地接过晶脑。",
+      "source_hash": "6a67bfeb42b64139e5adc68bb0e9de688f93496bca3079a8f37998738560effa",
+      "target": "Sửa chữa tinh não là một kỹ thuật vô cùng rộng lớn và thâm sâu, Lý Diệu cũng không dám vỗ ngực bảo đảm chắc chắn. Cậu lấy từ trong ba lô ra một đôi găng tay chống bụi đeo vào rồi mới trịnh trọng nhận lấy chiếc tinh não.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0008:align_0008",
+      "chapter_id": "chapter_0008",
+      "segment_ids": [
+        "chapter_0008:seg_0008"
+      ],
+      "source": "入手有些发沉，充满了古典晶脑敦厚扎实的手感，这是一具起码有上百年历史的古董晶脑，采用的还是半机械结构，在球形表面上有一个三角形的按钮。",
+      "source_hash": "df9a2fb34ed784f92b89a988cc73300db9c9b324f447eb10822d3800867068c9",
+      "target": "Cầm trên tay có cảm giác hơi nặng, mang lại cảm giác dày dặn và chắc chắn của dòng tinh não cổ điển. Đây là một chiếc tinh não cổ có tuổi đời ít nhất cũng cả trăm năm, vẫn sử dụng cấu trúc bán cơ khí, trên bề mặt hình cầu có một nút bấm hình tam giác.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0008:align_0009",
+      "chapter_id": "chapter_0008",
+      "segment_ids": [
+        "chapter_0008:seg_0009"
+      ],
+      "source": "李耀轻轻一按，晶脑嗡嗡作响，轻轻震动起来，似乎其中的机械结构正在飞快运作，几秒钟之后，忽然飞出李耀的手掌，悬浮在半空中，上下两个孔洞中射出两道光束，一道凝结成一幅巨大的光幕，一道幻化出了四十九个闪闪发亮的符文，组成一具精巧的虚拟符文键盘。",
+      "source_hash": "27a6129a47dce10270d2e9b256a3a5ef851556c1cdadf415d175d38e48de1cb1",
+      "target": "Lý Diệu khẽ ấn một cái, chiếc tinh não tức thì phát ra tiếng rền rầm rồi rung động nhẹ. Có vẻ như cấu trúc cơ khí bên trong đang vận hành với tốc độ cực nhanh. Vài giây sau, chiếc tinh não đột nhiên bay khỏi lòng bàn tay Lý Diệu, lơ lửng giữa không trung. Từ hai lỗ nhỏ phía trên và phía dưới chiếu ra hai luồng sáng: một luồng ngưng tụ thành một tấm màn ánh sáng khổng lồ, luồng còn lại hóa ra bốn mươi chín bùa văn lấp lánh ánh sáng, ghép thành một bàn phím bùa văn ảo tinh xảo.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0008:align_0010",
+      "chapter_id": "chapter_0008",
+      "segment_ids": [
+        "chapter_0008:seg_0010"
+      ],
+      "source": "“简直是一件艺术品……”李耀的眼神变得无比温柔。",
+      "source_hash": "cf41e239ce20c3aa6287d1a10576b1946a72238ca3214ec8f8768adc9ba0349f",
+      "target": "\"Quả thực là một tác phẩm nghệ thuật...\" Ánh mắt Lý Diệu trở nên vô cùng dịu dàng.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0008:align_0011",
+      "chapter_id": "chapter_0008",
+      "segment_ids": [
+        "chapter_0008:seg_0011"
+      ],
+      "source": "他辨认出来，这是一百四十多年前“天琴门”研发的管式晶脑“广陵7型”。",
+      "source_hash": "dae5c27f35c8194562dae0f72caf2fab324ac2c5d8da4d7f052de59427ebd7c7",
+      "target": "Cậu nhận ra đây chính là dòng tinh não dạng ống \"Quảng Lăng số 7\" do \"Thiên Cầm Môn\" nghiên cứu phát triển vào khoảng một trăm bốn mươi năm trước.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0008:align_0012",
+      "chapter_id": "chapter_0008",
+      "segment_ids": [
+        "chapter_0008:seg_0012"
+      ],
+      "source": "在晶脑发展的历史上，“管式晶脑”只风光了短短几十年就让位于更加先进的“片式晶脑”，而天琴门更是一个只存在了五十多年的小门派，这个门派依靠初代“广陵”晶脑取得成功，却没跟上时代的发展，在片式晶脑大行其道的年代依旧孤注一掷，将所有资源都投入到“广陵7型”的研发上，最终资金链断裂，宣告破产。",
+      "source_hash": "10c897f7ee23f640dacde8421d847925545389319798f4d50fcc82b4d0698f51",
+      "target": "Trong lịch sử phát triển của tinh não, \"tinh não dạng ống\" chỉ làm mưa làm gió trong vài chục năm ngắn ngủi rồi phải nhường chỗ cho dòng \"tinh não dạng phiến\" tiên tiến hơn. Còn Thiên Cầm Môn lại là một môn phái nhỏ chỉ tồn tại vẻn vẹn hơn năm mươi năm. Môn phái này từng gặt hái thành công lớn nhờ dòng tinh não \"Quảng Lăng\" đời đầu, nhưng lại không bắt kịp xu thế phát triển của thời đại. Khi tinh não dạng phiến bắt đầu phổ biến rộng rãi, họ vẫn đánh cược tất cả nguồn lực vào việc nghiên cứu chế tạo dòng \"Quảng Lăng số 7\", để rồi cuối cùng bị đứt gãy chuỗi vốn dẫn tới phá sản.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0008:align_0013",
+      "chapter_id": "chapter_0008",
+      "segment_ids": [
+        "chapter_0008:seg_0013"
+      ],
+      "source": "而“广陵7型”，也被称为“管式晶脑最后的辉煌，集大成之作”。",
+      "source_hash": "6965ca1645782898161faa8fc6329c9631ac83058a440516a678d07f2b7e9ac0",
+      "target": "Và dòng \"Quảng Lăng số 7\" cũng được mệnh danh là \"ánh hào quang cuối cùng, kiệt tác tập đại thành của tinh não dạng ống\".",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0008:align_0014",
+      "chapter_id": "chapter_0008",
+      "segment_ids": [
+        "chapter_0008:seg_0014"
+      ],
+      "source": "李耀的双手化作一道微风，在光波符文键盘上轻盈跳动。",
+      "source_hash": "f8cdf96a497339c13f760655ccf4f679d188805f394e9a5bae6f918a688da65b",
+      "target": "Mười ngón tay của Lý Diệu biến thành một làn gió nhẹ, nhảy múa nhẹ nhàng trên bàn phím ảo bằng bùa văn ánh sáng.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0008:align_0015",
+      "chapter_id": "chapter_0008",
+      "segment_ids": [
+        "chapter_0008:seg_0015"
+      ],
+      "source": "他的手速并不高，但动作行云流水，潇洒舒展，仿佛不是在敲击键盘，而是真的在撩拨一张价值连城的古琴，伴随他的动作，光幕上出现了一行行的符文指令，如暴雨般疯狂落下，而晶脑也随着一个个界面的启动，发出十分微弱，常人无法分辨的异响。",
+      "source_hash": "c33011a4e8d95b9f01efc85a17b7c11ed0ca3745d4ee338a8c599408674e3916",
+      "target": "Tốc độ tay của cậu không quá nhanh, nhưng động tác lại vô cùng trôi chảy tự nhiên, phóng khoáng và uyển chuyển. Cứ như thể cậu không phải đang gõ bàn phím mà thực sự đang gảy một cây cổ cầm vô giá. Theo sát từng động tác của cậu, trên quang mạc xuất hiện từng hàng chỉ thị bùa văn rơi xuống như mưa xối xả. Chiếc tinh não cũng phát ra những tiếng động lạ rất nhỏ mà người thường không thể phân biệt nổi theo từng giao diện được kích hoạt.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0008:align_0016",
+      "chapter_id": "chapter_0008",
+      "segment_ids": [
+        "chapter_0008:seg_0016"
+      ],
+      "source": "李耀侧耳倾听，他的眼神十分专注，每一个动作都无比精确。",
+      "source_hash": "1d271c38f8349672cce598253b4bb7d0b10ad1b5cf303c0e07dcee3c31d6967c",
+      "target": "Lý Diệu nghiêng tai lắng nghe, ánh mắt vô cùng tập trung, mỗi động tác đều chuẩn xác đến cực điểm.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0008:align_0017",
+      "chapter_id": "chapter_0008",
+      "segment_ids": [
+        "chapter_0008:seg_0017"
+      ],
+      "source": "管式晶脑毕竟是一百多年前的法宝，相对于目前主流的片式晶脑而言，结构比较简单，两分钟之后，李耀初步得出了结论：“应该是散热片出了问题，导致运行时晶脑内部温度异常提升——现代晶脑的功能越来越强大，需要处理的信息也包含越来越庞大的神念，对于上百年前的老式晶脑而言，负担就太重了，相当于一个一百五十岁的老人，每天都负担上千斤重量，长年累月，关节想要不报废也难。”",
+      "source_hash": "6d726883124d77f6419355b6e7a89123cf996fa42a4ec57ae8d7b1cd5bc66278",
+      "target": "Tinh não dạng ống dù sao cũng là pháp bảo của hơn một trăm năm trước. So với dòng tinh não dạng phiến thị hiện hành, cấu trúc của nó tương đối đơn giản. Hai phút sau, Lý Diệu đã đưa ra kết luận sơ bộ: \"Chắc là tấm tản nhiệt có vấn đề, dẫn tới việc khi vận hành nhiệt độ bên trong tinh não tăng cao bất thường — Tinh não hiện đại ngày càng mạnh mẽ, lượng thông tin cần xử lý chứa đựng thần niệm ngày một khổng lồ. Đối với loại tinh não cổ của trăm năm trước, gánh nặng này quá lớn, tương đương với việc bắt một cụ già một trăm năm mươi tuổi hằng ngày phải gánh vác ngàn cân, quanh năm suốt tháng như vậy thì khớp xương không hỏng mới là lạ.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0008:align_0018",
+      "chapter_id": "chapter_0008",
+      "segment_ids": [
+        "chapter_0008:seg_0018"
+      ],
+      "source": "“这台晶脑是一位至亲留给我的遗物，对我有非常重要的纪念意义，只要能修好，我愿意付出任何代价。”司佳雪认真地说。",
+      "source_hash": "c14d409a8c477c697dc91f01be2dce623941b9f47ba9ecaea938e5dbef60ba4f",
+      "target": "\"Chiếc tinh não này là di vật của một người thân thiết để lại cho tôi, có ý nghĩa kỷ niệm vô cùng quan trọng. Chỉ cần sửa được, tôi sẵn sàng trả bất kỳ giá nào.\" Tiêu Giai Tuyết nghiêm túc nói.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0008:align_0019",
+      "chapter_id": "chapter_0008",
+      "segment_ids": [
+        "chapter_0008:seg_0019"
+      ],
+      "source": "李耀想了想，点头道：“散热片报废是一个很常见的晶脑故障，并不算太大的问题，之所以你跑了几家维修商店都无法修理，主要是因为这台晶脑的型号非常罕见，使用的技术又太过落后，里面采用的散热片在百年前都停产了，而现代晶脑使用的散热片又根本不兼容——不过没关系，我的藏品里刚好有几枚非常珍贵的古董散热片，只要多尝试几次，哪怕报废几块，应该可以改出适合这台晶脑的散热片。”",
+      "source_hash": "ff0fb041275c1a2405194b0c43b0040fabeba54c20401269ebcf85277a145054",
+      "target": "Lý Diệu suy nghĩ một lát rồi gật đầu: \"Tấm tản nhiệt bị hỏng là lỗi rất thường gặp ở tinh não, không phải vấn đề quá lớn. Sở dĩ cậu đi mấy cửa hàng sửa chữa mà không sửa được chủ yếu là vì kiểu dáng của chiếc tinh não này quá hiếm gặp, công nghệ sử dụng lại quá lạc hậu. Tấm tản nhiệt sử dụng bên trong đã ngừng sản xuất từ trăm năm trước, còn tấm tản nhiệt dùng cho tinh não hiện đại lại hoàn toàn không tương thích — Tuy nhiên không sao cả, trong số đồ sưu tầm của tôi vừa vặn có vài tấm tản nhiệt cổ cực kỳ quý giá, chỉ cần thử nghiệm vài lần, dù có làm hỏng vài tấm thì chắc chắn vẫn có thể chế tạo ra tấm tản nhiệt phù hợp với chiếc tinh não này.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0008:align_0020",
+      "chapter_id": "chapter_0008",
+      "segment_ids": [
+        "chapter_0008:seg_0020"
+      ],
+      "source": "“不用废话，直接开价！”司佳雪听出他的弦外之音。",
+      "source_hash": "62b39b96110430a5dde115c2aa64858b6ff5964fc572651d6e9337a2fbc7da46",
+      "target": "\"Đừng nói dông dài nữa, ra giá thẳng đi!\" Tiêu Giai Tuyết nghe ra ẩn ý trong lời nói của cậu.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0008:align_0021",
+      "chapter_id": "chapter_0008",
+      "segment_ids": [
+        "chapter_0008:seg_0021"
+      ],
+      "source": "“哎呀，同学之间，急着谈钱多伤感情？反正问题也不大，我拿回去赶一赶时间，估计一个晚上就能完工，至于拆卸费、检测费、维修费、成本费、组装费再加上我的工本费加在一起，给你打个九五折，算九万八千五百元，你走现金还是转账？”",
+      "source_hash": "64b8d8c40b52dd53c26a9cd38e9aef42586bc7ff610baed4dd5790fd58cd027d",
+      "target": "\"Ui chao, đều là bạn học với nhau cả, vội vàng bàn chuyện tiền bạc làm tổn thương tình cảm quá? Dù sao vấn đề cũng không lớn, tôi mang về tranh thủ làm, ước chừng một đêm là xong. Còn về phí tháo dỡ, phí kiểm tra, phí sửa chữa, phí linh kiện, phí lắp ráp cộng thêm phí nhân công của tôi gộp lại, giảm giá 5% cho cậu, tính tròn chín vạn tám ngàn năm trăm tệ. Cậu trả tiền mặt hay chuyển khoản?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0008:align_0022",
+      "chapter_id": "chapter_0008",
+      "segment_ids": [
+        "chapter_0008:seg_0022"
+      ],
+      "source": "“嗯？”",
+      "source_hash": "c95e6fece9e5b3a1d8b5e0f2e0225f3d7a3903c681b3c7708c12827f6cf72d6d",
+      "target": "\"Hửm?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0008:align_0023",
+      "chapter_id": "chapter_0008",
+      "segment_ids": [
+        "chapter_0008:seg_0023"
+      ],
+      "source": "司佳雪眯起眼睛，眼底流露出一丝危险的光芒，杂物间里的气温仿佛一下子低了十度。",
+      "source_hash": "38b46393082c30b049df5fab799bd690413b4f4281c5e41407ce84d8fe3c328c",
+      "target": "Tiêu Giai Tuyết nheo mắt lại, sâu trong mắt lóe lên một tia sáng nguy hiểm. Nhiệt độ trong phòng kho chứa đồ dường như đột ngột giảm xuống mười độ.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0008:align_0024",
+      "chapter_id": "chapter_0008",
+      "segment_ids": [
+        "chapter_0008:seg_0024"
+      ],
+      "source": "“我有钱，并不代表我愿意让别人把我当肥羊来宰，懂吗？”",
+      "source_hash": "1c33ee3947ec072e2c1eb39cd235e96719f3d686c47c932138c61ef08504da8f",
+      "target": "\"Tôi có tiền nhưng điều đó không đồng nghĩa với việc tôi tình nguyện để kẻ khác coi mình là cừu béo để tể thịt, cậu hiểu chứ?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0008:align_0025",
+      "chapter_id": "chapter_0008",
+      "segment_ids": [
+        "chapter_0008:seg_0025"
+      ],
+      "source": "李耀十分艰难地吞了口唾沫，强忍着低气压，辩解道：“没错，比起普通的晶脑维修，这个价格是稍微高了一点点，将近十万块都可以买一台‘计算力’堪比炼气期巅峰修真者的高级晶脑了，不过你这台晶脑有上百年历史，已经算是古董，维修古董当然是另外一个价格嘛！别的不谈，就说我要用在这台晶脑上的几块散热片，都是我花费多年心血，费尽九牛二虎之力才搜集到的珍稀藏品，简直都是无价之宝！所以，相信我，这个价格绝对天公地道！”",
+      "source_hash": "173b98bcc8a020f22c8279deca6bd611909075ba4541ea4402a0ee19bef5625c",
+      "target": "Lý Diệu nuốt nước bọt một cách khó khăn. Cậu gượng chống lại luồng áp lực đè nén kia, phân trần: \"Đúng vậy, so với việc sửa chữa tinh não thông thường thì mức giá này quả thực có hơi cao một chút. Gần mười vạn tệ đủ để mua một chiếc tinh não cao cấp có năng lượng tính toán ngang ngửa với tu chân giả Luyện Khí Kỳ đỉnh phong rồi. Thế nhưng chiếc tinh não này của cậu có tuổi đời cả trăm năm, đã được coi là đồ cổ, mà sửa chữa đồ cổ đương nhiên phải tính mức giá khác chứ! Chưa nói đến việc khác, chỉ riêng mấy tấm tản nhiệt cổ tôi định dùng cho chiếc tinh não này đều là những món đồ quý hiếm mà tôi phải tốn bao công sức sưu tầm ròng rã nhiều năm trời, quả thực đều là bảo vật vô giá! Thế nên, tin tôi đi, mức giá này tuyệt đối công đạo!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0008:align_0026",
+      "chapter_id": "chapter_0008",
+      "segment_ids": [
+        "chapter_0008:seg_0026"
+      ],
+      "source": "司佳雪一言不发，双眼幽深地盯着他。",
+      "source_hash": "8e06ce4b4286d2467d4af12df8f9ede6a29ec6d91752fd3c9b5ffb8853241739",
+      "target": "Tiêu Giai Tuyết không nói lời nào, đôi mắt sâu thẳm nhìn chằm chằm vào cậu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0008:align_0027",
+      "chapter_id": "chapter_0008",
+      "segment_ids": [
+        "chapter_0008:seg_0027"
+      ],
+      "source": "灵根开发度超过70%，带来强大的心灵压力，李耀心中一紧，几乎要崩溃，可是想到自己的“目标”，还是硬着头皮说：“如果司佳雪同学觉得太贵，也没有关系，就当我免费帮你检修一次好了，你可以把这台晶脑寄到外地一些大型维修商店，让他们慢慢寻找对应型号的散热片，我估计用不了三五个月，总能找到一两片库存品吧，这样的话，费用应该能压制在一万块以下。”",
+      "source_hash": "0b35491409825cfcb50ee739e1b7016fd1c625395b1d66a5a71ed3ddb05cabca",
+      "target": "Độ khai phát linh căn vượt quá 70% mang lại một áp lực tinh thần vô cùng mạnh mẽ. Lý Diệu căng cứng cả người, suýt chút nữa thì sụp đổ, nhưng nghĩ đến \"mục tiêu\" của mình, cậu vẫn cắn răng nói tiếp: \"Nếu Tiêu Giai Tuyết bạn học cảm thấy quá đắt thì cũng không sao, coi như tôi kiểm tra miễn phí cho cậu một lần vậy. Cậu có thể gửi chiếc tinh não này đến vài cửa hàng sửa chữa lớn ở ngoại tỉnh để họ từ từ tìm kiếm tấm tản nhiệt có số hiệu tương ứng. Tôi đoán chừng không quá ba năm tháng, kiểu gì cũng tìm được một hai tấm hàng tồn kho thôi, như vậy chi phí có thể đè xuống dưới một vạn tệ.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0008:align_0028",
+      "chapter_id": "chapter_0008",
+      "segment_ids": [
+        "chapter_0008:seg_0028"
+      ],
+      "source": "“三五个月……”",
+      "source_hash": "bd0f6089bfd912e404b4ec8957cc44ec14707b20c43d315e9e10b8223f89acc8",
+      "target": "\"Ba năm tháng...\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0008:align_0029",
+      "chapter_id": "chapter_0008",
+      "segment_ids": [
+        "chapter_0008:seg_0029"
+      ],
+      "source": "司佳雪轻哼一声，她知道李耀说的是实话，因为几家维修商店的技师也是这么说的，按他们的说法，老式晶脑的维修难度并不高，但合适的配件却很难找，三五个月也只是估计，如果运气不好，等个一年半载都是有可能的。",
+      "source_hash": "bb3a9f66df00dc97d6a50a9abb09375f229f6861c7a4e725cd26d688c39d792c",
+      "target": "Tiêu Giai Tuyết khẽ hừ một tiếng. Cô biết Lý Diệu đang nói thật, bởi vì thợ sửa chữa ở mấy cửa hàng kia cũng nói như vậy. Theo lời họ, việc sửa chữa tinh não kiểu cũ không khó nhưng linh kiện phù hợp lại rất khó tìm. Ba năm tháng chỉ là ước tính, nếu vận khí không tốt, chờ đợi một năm nửa năm cũng là chuyện hoàn toàn có thể xảy ra.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0008:align_0030",
+      "chapter_id": "chapter_0008",
+      "segment_ids": [
+        "chapter_0008:seg_0030"
+      ],
+      "source": "想必，这个小无赖也是看出了这一点，所以才把自己当成了“肥羊”！",
+      "source_hash": "cf5caa4ca9c91a3aa8a867eba79206b90bfa3a5918cf524a87523c31537a6cd8",
+      "target": "Chắc hẳn cái tên vô lại nhỏ tuổi này cũng nhìn ra điểm đó nên mới coi cô là \"cừu béo\" để chặt chém!",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0008:align_0031",
+      "chapter_id": "chapter_0008",
+      "segment_ids": [
+        "chapter_0008:seg_0031"
+      ],
+      "source": "算了，自己还要去修炼，没必要和这些普通班的家伙纠缠，司佳雪点了点头，面无表情道：“好，李耀同学，我可以给你十万块，但交易就要有交易的规矩，明天这个时候，我要见到焕然一新的晶脑，而且你要保证持续运行稳定，别隔三差五再出岔子，除了十万块之外，我也不会支付任何后续费用，有问题吗？”",
+      "source_hash": "16914209a8ef4923029a0d56b03d39d7d7af3c9b15233c75b49a805e63b0f7c8",
+      "target": "Thôi bỏ đi, cô còn phải dành thời gian tu luyện, không cần thiết phải dây dưa với đám học sinh lớp thường này làm gì. Tiêu Giai Tuyết gật đầu, mặt không cảm xúc nói: \"Được rồi, Lý Diệu bạn học. Tôi có thể đưa cậu mười vạn tệ, nhưng giao dịch thì phải có quy tắc của giao dịch. Ngày mai vào giờ này, tôi muốn nhìn thấy chiếc tinh não được sửa xong như mới, đồng thời cậu phải bảo đảm nó vận hành ổn định lâu dài, đừng có dăm ba bữa lại xảy ra lỗi. Ngoài mười vạn tệ này ra, tôi sẽ không chi trả thêm bất kỳ chi phí phát sinh nào khác, có vấn đề gì không?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0008:align_0032",
+      "chapter_id": "chapter_0008",
+      "segment_ids": [
+        "chapter_0008:seg_0032"
+      ],
+      "source": "“绝对没问题，换上合适的散热片之后，至少可以正常使用三年，这三年里你可以继续搜寻同型号的散热片，以后定期更换就行了。”李耀飞快说道，面带微笑。",
+      "source_hash": "3d56d82d60011d3346dd1295907fb6fc2b56a4686d17469bd1a555ce0a4a100b",
+      "target": "\"Tuyệt đối không vấn đề gì. Sau khi thay tấm tản nhiệt phù hợp, ít nhất có thể sử dụng bình thường trong vòng ba năm. Trong ba năm này cậu có thể tiếp tục tìm kiếm tấm tản nhiệt cùng số hiệu để định kỳ thay thế là được.\" Lý Diệu nhanh chóng trả lời, gương mặt nở nụ cười rạng rỡ.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0008:align_0033",
+      "chapter_id": "chapter_0008",
+      "segment_ids": [
+        "chapter_0008:seg_0033"
+      ],
+      "source": "“那就好。”司佳雪点了点头，她一秒钟也不愿意和这个小无赖多纠缠，转身离去。",
+      "source_hash": "faf3cea0f76ee67be0d39b31f6492b808bd8194e156c72e1b941407e0eb9079f",
+      "target": "\"Vậy thì tốt.\" Tiêu Giai Tuyết gật đầu. Cô không muốn dây dưa thêm một giây nào với tên tiểu vô lại này, quay người rời đi.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0008:align_0034",
+      "chapter_id": "chapter_0008",
+      "segment_ids": [
+        "chapter_0008:seg_0034"
+      ],
+      "source": "李耀一屁股坐在杂物箱上，满头冷汗，过了很久，才在黑暗中，如释重负地吹了声口哨。",
+      "source_hash": "109106cc684fcd3004f766b17ed7d47a89b7788e1379eaa4b28f916026b541f4",
+      "target": "Lý Diệu ngồi phịch xuống hòm gỗ chứa đồ, mồ hôi vã ra như tắm. Qua một hồi lâu, cậu mới huýt sáo một tiếng nhẹ nhõm trong bóng tối.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0008:align_0035",
+      "chapter_id": "chapter_0008",
+      "segment_ids": [
+        "chapter_0008:seg_0035"
+      ],
+      "source": "成功了！",
+      "source_hash": "2cf3eef450f25ca7f9c454b895a583457c35aa18789822f9cda7a9d84d736fad",
+      "target": "Thành công rồi!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0008:align_0036",
+      "chapter_id": "chapter_0008",
+      "segment_ids": [
+        "chapter_0008:seg_0036"
+      ],
+      "source": "有了十万块，他就可以去“地下鬼市”购买非法生产的“山寨强化药剂”，就有机会将灵根开发度，提升一大截！",
+      "source_hash": "a1fefad6eb358dd0d79cdd1b646c3ca2c42dd937c3470be99711790b666cc1c3",
+      "target": "Có được mười vạn tệ này, cậu có thể tới \"chợ quỷ ngầm\" để mua thuốc tăng cường hàng nhái sản xuất lậu. Như vậy cậu sẽ có cơ hội nâng cao độ khai phát linh căn lên một khoảng lớn!",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0008:align_0037",
+      "chapter_id": "chapter_0008",
+      "segment_ids": [
+        "chapter_0008:seg_0037"
+      ],
+      "source": "山寨强化药剂，含有大量杂质，服用下去有极强的副作用，但是胜在价格便宜量又足，十万块足够买下可以服用三个月的剂量，让他在“百日冲刺”中，有机会洗练灵根，脱胎换骨！",
+      "source_hash": "912dab2b6287deca8904da593ee1cfd580cc84e1687699422203a83707e6432c",
+      "target": "Thuốc tăng cường hàng nhái tuy chứa nhiều tạp chất, sau khi uống vào sẽ có tác dụng phụ cực mạnh, nhưng ưu điểm là giá rẻ mà lượng lại nhiều. Mười vạn tệ đủ để mua liều lượng sử dụng trong vòng ba tháng, giúp cậu có cơ hội tẩy rửa linh căn, thoát thai hoán cốt trong giai đoạn \"trăm ngày nước rút\" này!",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0008:align_0038",
+      "chapter_id": "chapter_0008",
+      "segment_ids": [
+        "chapter_0008:seg_0038"
+      ],
+      "source": "“想要考上‘九大精英联校’，这是唯一的机会，就算你是‘二中女神’，也只能狠宰你一刀了，真是不好意思！”李耀将“广陵－7型”晶脑塞进书包里，按了按有些胀痛的太阳穴，脸上笑意隐现，大摇大摆，走出杂物间。",
+      "source_hash": "7a31b2236c02d1930b9480e711991a4a7e92eefaf67b4b20d5baad6c2991a3db",
+      "target": "\"Muốn thi đỗ vào 'Chín đại học tinh anh liên kết', đây là cơ hội duy nhất. Cho dù cậu là 'Nhị Trung Nữ Thần' thì cũng chỉ đành tể cậu một đao vậy, thật sự ngại quá!\" Lý Diệu nhét chiếc tinh não \"Quảng Lăng số 7\" vào ba lô, ấn ấn huyệt thái dương đang hơi đau nhức. Cậu nở nụ cười đắc ý, nghênh ngang bước ra khỏi phòng kho chứa đồ.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    }
+  ],
+  "term_occurrences": [
+    {
+      "chapter_id": "chapter_0008",
+      "source_term": "晶脑",
+      "target_term": "Tinh não",
+      "segment_id": "chapter_0008:seg_0001",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0008",
+      "source_term": "九大精英联校",
+      "target_term": "Chín đại học tinh anh liên kết",
+      "segment_id": "chapter_0008:seg_0038",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0008",
+      "source_term": "普通班",
+      "target_term": "lớp thường",
+      "segment_id": "chapter_0008:seg_0031",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0008",
+      "source_term": "灵根",
+      "target_term": "Linh căn",
+      "segment_id": "chapter_0008:seg_0027",
+      "present_in_target": false,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0008",
+      "source_term": "灵根开发度",
+      "target_term": "độ khai phát linh căn",
+      "segment_id": "chapter_0008:seg_0027",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0008",
+      "source_term": "管式晶脑",
+      "target_term": "tinh não dạng ống",
+      "segment_id": "chapter_0008:seg_0011",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0008",
+      "source_term": "广陵7型",
+      "target_term": "Quảng Lăng số 7",
+      "segment_id": "chapter_0008:seg_0011",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0008",
+      "source_term": "天琴门",
+      "target_term": "Thiên Cầm Môn",
+      "segment_id": "chapter_0008:seg_0011",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0008",
+      "source_term": "片式晶脑",
+      "target_term": "tinh não dạng phiến",
+      "segment_id": "chapter_0008:seg_0012",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0008",
+      "source_term": "散热片",
+      "target_term": "tấm tản nhiệt",
+      "segment_id": "chapter_0008:seg_0017",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0008",
+      "source_term": "地下鬼市",
+      "target_term": "chợ quỷ ngầm",
+      "segment_id": "chapter_0008:seg_0036",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0008",
+      "source_term": "山寨强化药剂",
+      "target_term": "thuốc tăng cường hàng nhái",
+      "segment_id": "chapter_0008:seg_0036",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0008",
+      "source_term": "司佳雪",
+      "target_term": "Tiêu Giai Tuyết",
+      "segment_id": "chapter_0008:seg_0004",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "character",
+      "confidence": 1.0
+    }
+  ],
+  "entity_mentions": [
+    {
+      "chapter_id": "chapter_0008",
+      "source_surface": "李耀",
+      "target_surface": "Lý Diệu",
+      "entity_type": "person",
+      "segment_id": "chapter_0008:seg_0003",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0008",
+      "source_surface": "司佳雪",
+      "target_surface": "Tiêu Giai Tuyết",
+      "entity_type": "person",
+      "segment_id": "chapter_0008:seg_0004",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0008",
+      "source_surface": "天琴门",
+      "target_surface": "Thiên Cầm Môn",
+      "entity_type": "factions",
+      "segment_id": "chapter_0008:seg_0011",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0008",
+      "source_surface": "强化药剂",
+      "target_surface": "Dược chất cường hóa Linh Căn",
+      "entity_type": "cultivation_resources",
+      "segment_id": "chapter_0008:seg_0036",
+      "confidence": 1.0
+    }
+  ],
+  "name_analysis": {
+    "status": "ok",
+    "evidence_count": 2,
+    "name_mentions": [
+      {
+        "chapter_id": "chapter_0008",
+        "name_source": "李耀",
+        "name_target": "Lý Diệu",
+        "segment_id": "chapter_0008:seg_0003",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0008",
+        "name_source": "司佳雪",
+        "name_target": "Tiêu Giai Tuyết",
+        "segment_id": "chapter_0008:seg_0004",
+        "present_in_target": true,
+        "confidence": 1.0
+      }
+    ],
+    "name_entries": [
+      {
+        "name_source": "李耀",
+        "name_target": "Lý Diệu"
+      },
+      {
+        "name_source": "司佳雪",
+        "name_target": "Tiêu Giai Tuyết"
+      }
+    ],
+    "transliteration_units": [],
+    "inferred_name_rules": [],
+    "ambiguity_cases": [],
+    "reusable_name_profile": {
+      "mapping_count": 2,
+      "has_ambiguity": false
+    }
+  },
   "phrase_patterns": [],
   "grammar_rule_candidates": [],
+  "analyzer_reports": {
+    "term_occurrences": {
+      "status": "ok",
+      "evidence_count": 13
+    },
+    "entity_mentions": {
+      "status": "ok",
+      "evidence_count": 4
+    },
+    "name_mentions": {
+      "status": "ok",
+      "evidence_count": 2
+    },
+    "phrase_patterns": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    },
+    "grammar_rule_candidates": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    }
+  },
+  "review_queue": [
+    {
+      "chapter_id": "chapter_0008",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "万块",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "耀同学，我可以给你十万块，但交易就要有交易的",
+          "\n成功了！\n\n有了十万块，他就可以去“地下鬼"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0008",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "关系",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "根本不兼容——不过没关系，我的藏品里刚好有几",
+          "同学觉得太贵，也没有关系，就当我免费帮你检修"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0008",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "能修",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "擅长晶脑维修，如果你能修，要什么价尽管开口，",
+          "是问题；当然，如果不能修，也请直说，千万不要"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0008",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "钟之后",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.82,
+        "evidence": [
+          "构正在飞快运作，几秒钟之后，忽然飞出李耀的手掌",
+          "，结构比较简单，两分钟之后，李耀初步得出了结论"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0008",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "天琴门",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "这是一百四十多年前“天琴门”研发的管式晶脑“广"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0008",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "而天琴门更是一个只存在了五十多年的小门派",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "先进的“片式晶脑”，而天琴门更是一个只存在了五十多年的小门派，这个门派依靠初代“"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0008",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "这是唯一的机会",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "上‘九大精英联校’，这是唯一的机会，就算你是‘二中女神"
+        ]
+      }
+    }
+  ],
   "quality_audit": {
     "segment_coverage": 1.0,
+    "source_hash_match": true,
+    "target_reconstruction_match": true,
+    "invalid_ref_count": 0,
     "locked_term_hit_rate": 1.0,
+    "missing_locked_terms": [],
     "cjk_residue_count": 0,
     "paragraph_drift_ratio": 0.0,
     "pronoun_consistency_score": 1.0,

@@ -1,5 +1,5 @@
 {
-  "completed_chapters": 33,
+  "completed_chapters": 78,
   "chapters": [
     {
       "chapter_number": 1,
@@ -137,70 +137,340 @@
       "chapter_number": 23,
       "title": "Ăn Cả Đen Lẫn Trắng",
       "status": "DONE",
-      "last_updated": "2026-05-30T22:37:07.264467+07:00"
+      "last_updated": "2026-05-31T03:20:34.643795+07:00"
     },
     {
       "chapter_number": 24,
       "title": "Tiến Bộ Thần Tốc",
       "status": "DONE",
-      "last_updated": "2026-05-30T22:37:37.637978+07:00"
+      "last_updated": "2026-05-31T03:20:36.406946+07:00"
     },
     {
       "chapter_number": 25,
       "title": "Thiết Thú Tìm Tới",
       "status": "DONE",
-      "last_updated": "2026-05-30T22:38:07.759238+07:00"
+      "last_updated": "2026-05-31T03:20:37.350029+07:00"
     },
     {
       "chapter_number": 26,
       "title": "Kẻ Tàn Nhẫn Hơn Đã Tới",
       "status": "DONE",
-      "last_updated": "2026-05-30T22:38:40.666212+07:00"
+      "last_updated": "2026-05-31T03:20:38.274227+07:00"
     },
     {
       "chapter_number": 27,
       "title": "Hóa Ra Cậu Mới Là Kẻ Tàn Nhẫn Nhất",
       "status": "DONE",
-      "last_updated": "2026-05-30T22:39:13.498450+07:00"
+      "last_updated": "2026-05-31T03:20:39.186084+07:00"
     },
     {
       "chapter_number": 28,
       "title": "Đương Nhiên Phải Ngông Cuồng",
       "status": "DONE",
-      "last_updated": "2026-05-30T22:39:41.668658+07:00"
+      "last_updated": "2026-05-31T03:20:40.150822+07:00"
     },
     {
       "chapter_number": 29,
       "title": "Người Rèn Đúc Nên Yêu Đao",
       "status": "DONE",
-      "last_updated": "2026-05-30T22:40:07.933346+07:00"
+      "last_updated": "2026-05-31T03:20:41.089189+07:00"
     },
     {
       "chapter_number": 30,
       "title": "Cậu Ngông Cuồng Quá Nhỉ",
       "status": "DONE",
-      "last_updated": "2026-05-30T22:40:32.697501+07:00"
+      "last_updated": "2026-05-31T03:20:42.012452+07:00"
     },
     {
       "chapter_number": 31,
       "title": "Tớ Không Phải Là Cá Muối!",
       "status": "DONE",
-      "last_updated": "2026-05-30T22:41:11.643744+07:00"
+      "last_updated": "2026-05-31T03:20:43.002631+07:00"
     },
     {
       "chapter_number": 32,
       "title": "Cậu Ta Là Quái Vật!",
       "status": "DONE",
-      "last_updated": "2026-05-30T22:41:39.686949+07:00"
+      "last_updated": "2026-05-31T03:20:43.922837+07:00"
     },
     {
       "chapter_number": 33,
       "title": "Đêm Dài Khó Nhọc",
       "status": "DONE",
-      "last_updated": "2026-05-30T22:42:19.906469+07:00"
+      "last_updated": "2026-05-31T03:20:44.854083+07:00"
+    },
+    {
+      "chapter_number": 34,
+      "title": "Hung Thú Ra Lồng",
+      "status": "DONE",
+      "last_updated": "2026-05-31T03:24:47.241068+07:00"
+    },
+    {
+      "chapter_number": 35,
+      "title": "Thời Khắc Kịch Chiến",
+      "status": "DONE",
+      "last_updated": "2026-05-31T03:25:29.175809+07:00"
+    },
+    {
+      "chapter_number": 36,
+      "title": "Lý Diệu Lên Sân!",
+      "status": "DONE",
+      "last_updated": "2026-05-31T03:26:01.159522+07:00"
+    },
+    {
+      "chapter_number": 37,
+      "title": "Hổ Súc Kích Bảy Lần Liên Sát!",
+      "status": "DONE",
+      "last_updated": "2026-05-31T08:05:11.273180+07:00"
+    },
+    {
+      "chapter_number": 38,
+      "title": "Sát Hướng Đảo Ma Giao",
+      "status": "DONE",
+      "last_updated": "2026-05-31T03:27:45.481185+07:00"
+    },
+    {
+      "chapter_number": 39,
+      "title": "Thế giới tu chân, biển rộng trời cao!",
+      "status": "DONE",
+      "last_updated": "2026-05-31T03:28:47.074074+07:00"
+    },
+    {
+      "chapter_number": 40,
+      "title": "Các loại hình tu chân giả",
+      "status": "DONE",
+      "last_updated": "2026-05-31T11:08:43.411895+07:00"
+    },
+    {
+      "chapter_number": 41,
+      "title": "Kỳ hạm, Liêu Viễn Hào!",
+      "status": "DONE",
+      "last_updated": "2026-05-31T14:21:07.838384+07:00"
+    },
+    {
+      "chapter_number": 42,
+      "title": "Cửu Tinh Thăng Long!",
+      "status": "DONE",
+      "last_updated": "2026-05-31T14:22:06.519035+07:00"
+    },
+    {
+      "chapter_number": 43,
+      "title": "Thiên Huyễn Thư Viện",
+      "status": "DONE",
+      "last_updated": "2026-05-31T14:22:30.938082+07:00"
+    },
+    {
+      "chapter_number": 44,
+      "title": "Linh Tử Đối Chàng",
+      "status": "DONE",
+      "last_updated": "2026-05-31T14:22:57.989589+07:00"
+    },
+    {
+      "chapter_number": 45,
+      "title": "Đại Đạo Chi Tranh",
+      "status": "DONE",
+      "last_updated": "2026-05-31T14:23:30.303811+07:00"
+    },
+    {
+      "chapter_number": 46,
+      "title": "Thánh địa của luyện khí sư",
+      "status": "DONE",
+      "last_updated": "2026-05-31T14:23:56.513358+07:00"
+    },
+    {
+      "chapter_number": 47,
+      "title": "Đinh Linh Đang",
+      "status": "DONE",
+      "last_updated": "2026-05-31T14:24:22.463082+07:00"
+    },
+    {
+      "chapter_number": 48,
+      "title": "Lời mời của Đại Hoang Chiến Viện",
+      "status": "DONE",
+      "last_updated": "2026-05-31T14:24:49.647027+07:00"
+    },
+    {
+      "chapter_number": 49,
+      "title": "Tinh thú Tiểu Cát",
+      "status": "DONE",
+      "last_updated": "2026-05-31T14:25:13.231369+07:00"
+    },
+    {
+      "chapter_number": 50,
+      "title": "Quy tắc của luyện khí sư",
+      "status": "DONE",
+      "last_updated": "2026-05-31T14:25:40.700289+07:00"
+    },
+    {
+      "chapter_number": 51,
+      "title": "Thanh đao chiến của nền văn minh nhân loại!",
+      "status": "DONE",
+      "last_updated": "2026-05-31T14:54:41.956898+07:00"
+    },
+    {
+      "chapter_number": 52,
+      "title": "Sương mù và Ảo Đằng",
+      "status": "DONE",
+      "last_updated": "2026-05-31T14:55:24.763424+07:00"
+    },
+    {
+      "chapter_number": 53,
+      "title": "Giết trong nháy mắt!",
+      "status": "DONE",
+      "last_updated": "2026-05-31T14:55:52.491923+07:00"
+    },
+    {
+      "chapter_number": 54,
+      "title": "Ba món đại sát khí",
+      "status": "DONE",
+      "last_updated": "2026-05-31T14:56:20.162053+07:00"
+    },
+    {
+      "chapter_number": 55,
+      "title": "Giao dịch pháp bảo",
+      "status": "DONE",
+      "last_updated": "2026-05-31T14:56:44.766724+07:00"
+    },
+    {
+      "chapter_number": 56,
+      "title": "Đứng đầu bảng điểm!",
+      "status": "DONE",
+      "last_updated": "2026-05-31T14:57:17.804885+07:00"
+    },
+    {
+      "chapter_number": 57,
+      "title": "Ba sự lựa chọn",
+      "status": "DONE",
+      "last_updated": "2026-05-31T14:57:42.488417+07:00"
+    },
+    {
+      "chapter_number": 58,
+      "title": "Chỉ huy xuất hiện",
+      "status": "DONE",
+      "last_updated": "2026-05-31T14:58:21.078181+07:00"
+    },
+    {
+      "chapter_number": 59,
+      "title": "Tê liệt rồi!",
+      "status": "DONE",
+      "last_updated": "2026-05-31T14:58:45.466086+07:00"
+    },
+    {
+      "chapter_number": 60,
+      "title": "Cửa sau điên cuồng",
+      "status": "DONE",
+      "last_updated": "2026-05-31T14:59:09.919702+07:00"
+    },
+    {
+      "chapter_number": 61,
+      "title": "Lý Diệu ở đâu?",
+      "status": "DONE",
+      "last_updated": "2026-05-31T15:01:37.883313+07:00"
+    },
+    {
+      "chapter_number": 62,
+      "title": "Kỳ cao một nước",
+      "status": "DONE",
+      "last_updated": "2026-05-31T15:02:39.432741+07:00"
+    },
+    {
+      "chapter_number": 63,
+      "title": "Chém giết suốt chặng đường!",
+      "status": "DONE",
+      "last_updated": "2026-05-31T15:03:09.112212+07:00"
+    },
+    {
+      "chapter_number": 64,
+      "title": "Gió táp mưa sa",
+      "status": "DONE",
+      "last_updated": "2026-05-31T15:03:38.514604+07:00"
+    },
+    {
+      "chapter_number": 65,
+      "title": "Quỷ Long số 7",
+      "status": "DONE",
+      "last_updated": "2026-05-31T15:04:10.746625+07:00"
+    },
+    {
+      "chapter_number": 66,
+      "title": "Thiên Ma Sát Huyết Pháo",
+      "status": "DONE",
+      "last_updated": "2026-05-31T15:05:01.640902+07:00"
+    },
+    {
+      "chapter_number": 67,
+      "title": "Mạt Nhật Biến",
+      "status": "DONE",
+      "last_updated": "2026-05-31T15:05:38.119256+07:00"
+    },
+    {
+      "chapter_number": 68,
+      "title": "Diệt Khẩu Hay Không Diệt Khẩu?",
+      "status": "DONE",
+      "last_updated": "2026-05-31T15:06:10.240319+07:00"
+    },
+    {
+      "chapter_number": 69,
+      "title": "Cây Ký Ức",
+      "status": "DONE",
+      "last_updated": "2026-05-31T15:06:42.204895+07:00"
+    },
+    {
+      "chapter_number": 70,
+      "title": "Yêu Tinh",
+      "status": "DONE",
+      "last_updated": "2026-05-31T15:07:41.144452+07:00"
+    },
+    {
+      "chapter_number": 71,
+      "title": "Yêu Tinh Biến!",
+      "status": "DONE",
+      "last_updated": "2026-05-31T15:08:29.079047+07:00"
+    },
+    {
+      "chapter_number": 72,
+      "title": "Thằn Lằn Hóa Khủng Long Bạo Chúa!",
+      "status": "DONE",
+      "last_updated": "2026-05-31T16:08:17.769123+07:00"
+    },
+    {
+      "chapter_number": 73,
+      "title": "Một Pháo Oanh Sát!",
+      "status": "DONE",
+      "last_updated": "2026-05-31T16:08:46.835072+07:00"
+    },
+    {
+      "chapter_number": 74,
+      "title": "Thời Gian Không Chờ Đợi Ai!",
+      "status": "DONE",
+      "last_updated": "2026-05-31T16:58:32.505386+07:00"
+    },
+    {
+      "chapter_number": 75,
+      "title": "Xé Rách Mặt!",
+      "status": "DONE",
+      "last_updated": "2026-05-31T16:59:08.849366+07:00"
+    },
+    {
+      "chapter_number": 76,
+      "title": "Một Chùy Định Âm!",
+      "status": "DONE",
+      "last_updated": "2026-05-31T16:59:48.729014+07:00"
+    },
+    {
+      "chapter_number": 77,
+      "title": "Xích Diễm Nữ Vương",
+      "status": "DONE",
+      "last_updated": "2026-05-31T17:02:41.345815+07:00"
+    },
+    {
+      "chapter_number": 78,
+      "title": "Gió Cuộn Mây Tan",
+      "status": "DONE",
+      "last_updated": "2026-05-31T17:03:31.174350+07:00"
     }
   ],
-  "last_updated": "2026-05-30T22:44:06+07:00",
+  "last_updated": "2026-05-31T17:24:12+07:00",
   "workflow_artifacts": {
     "branch_readme": "README.md",
     "converter_db_ready": true,

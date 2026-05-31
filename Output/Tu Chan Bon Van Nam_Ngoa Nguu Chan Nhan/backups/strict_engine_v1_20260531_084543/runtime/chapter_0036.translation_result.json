@@ -1,0 +1,734 @@
+{
+  "chapter_title_translated": "Lý Diệu Lên Sân!",
+  "aligned_segments": [
+    {
+      "seg_id": "seg_0001",
+      "source": "# 36.第36章 李耀上场！",
+      "target": "# Chương 0036 - Lý Diệu Lên Sân!",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0002",
+      "source": "中午12点。",
+      "target": "Mười hai giờ trưa.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "description"
+    },
+    {
+      "seg_id": "seg_0003",
+      "source": "实力普通的第二集团都拼抢得精疲力竭，将近一半人受伤减员，已经打不下去了。",
+      "target": "Nhóm học sinh thứ hai có thực lực bình thường đều đã tranh giành đến mức kiệt sức, gần một nửa số người bị thương và bị loại, không thể tiếp tục chiến đấu được nữa.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0004",
+      "source": "这时候，重点班学生才走出教室，活动筋骨，开始争抢。",
+      "target": "Lúc này, học sinh lớp trọng điểm mới bước ra khỏi lớp, khởi động gân cốt, bắt đầu tranh đoạt.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0005",
+      "source": "他们一上场，比斗的激烈程度瞬间提升了好几个级数，很快，十张准考证都落入了重点班学生手中，比斗变成了重点班学生的内战。",
+      "target": "Họ vừa ra sân, mức độ kịch liệt của cuộc so tài lập tức tăng vọt lên mấy bậc, rất nhanh, cả mười tấm thẻ dự thi đều rơi vào tay học sinh lớp trọng điểm, cuộc quyết đấu biến thành cuộc nội chiến của học sinh lớp trọng điểm.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0006",
+      "source": "1点30分，重点班中除了赫连烈和司佳雪之外，全员上场！",
+      "target": "Một giờ ba mươi phút chiều, toàn bộ học sinh lớp trọng điểm ngoại trừ Hách Liên Liệt và Tiêu Giai Tuyết đều đã ra sân!",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0007",
+      "source": "2点10分，司佳雪缓缓睁开美眸，加入战团！",
+      "target": "Hai giờ mười phút chiều, Tiêu Giai Tuyết từ từ mở mắt đẹp, gia nhập chiến cục!",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0008",
+      "source": "2点15分，赤霄二中的王者赫连烈，带着一身铠甲般的霸气走出教室，正式参战！",
+      "target": "Hai giờ mười lăm phút chiều, bá vương của trường Xích Tiêu Nhị Trung là Hách Liên Liệt, mang theo khí thế bá đạo tựa như khoác hộ giáp bước ra khỏi phòng học, chính thức tham chiến!",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0009",
+      "source": "赫连烈和司佳雪明显拥有高出其他学生一个级别的实力，双方之间的差距甚至不是靠人数优势就能拉近的。",
+      "target": "Hách Liên Liệt và Tiêu Giai Tuyết rõ ràng sở hữu thực lực cao hơn các học sinh khác một bậc, khoảng cách giữa hai bên thậm chí không thể rút ngắn bằng ưu thế số lượng.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0010",
+      "source": "他们两个只用了不到一分钟，就各自抢到了一张准考证，随后还分别打退了一波至少有七八名同学参与的围攻，甚至将六名同学直接打上了医疗飞梭。",
+      "target": "Hai người họ chỉ dùng chưa đầy một phút đã tự giành lấy một tấm thẻ dự thi, sau đó còn lần lượt đánh lui một đợt bao vây của ít nhất bảy tám bạn học, thậm chí trực tiếp đánh bay sáu bạn học lên phi thuyền y tế.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0011",
+      "source": "这样一来，再没人敢抢他们怀里的准考证——毕竟剩下还有八张准考证，没必要到这两个怪物手下找死。",
+      "target": "Cứ như vậy, không còn ai dám cướp thẻ dự thi trong tay họ nữa — dù sao vẫn còn lại tám tấm thẻ dự thi khác, không cần thiết phải đến nộp mạng dưới tay hai quái vật này.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0012",
+      "source": "“赫连烈，司佳雪……赤霄二中有三五年没出这么好的苗子了吧！”板了一天面孔的赤霄派长老周隐，脸上终于浮现出一丝淡淡的笑容。",
+      "target": "\"Hách Liên Liệt, Tiêu Giai Tuyết... Đã ba năm năm rồi trường Xích Tiêu Nhị Trung mới xuất hiện những mầm non tốt như thế này!\" Nét mặt nghiêm nghị suốt cả ngày của trưởng lão Xích Tiêu Phái Chu Ẩn cuối cùng cũng lộ ra một nụ cười nhạt.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0013",
+      "source": "“真无聊，早知道现在才来了，白白浪费我一个早上！”第二贵宾室，郑东明舒舒服服地躺在女老师浑圆结实的大腿上睡觉，偶尔抬头扫了一眼，撇了撇嘴，又埋头睡过去。",
+      "target": "\"Thật vô vị, biết thế này thì trưa mới đến, lãng phí cả buổi sáng của mình!\" Tại phòng khách quý thứ hai, Trịnh Đông Minh nằm ngủ thoải mái trên đùi của nữ giáo viên trẻ, thỉnh thoảng ngẩng đầu nhìn thoáng qua màn hình, bĩu môi một cái rồi lại rúc vào ngủ tiếp.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0014",
+      "source": "2点30分，赤霄二中最深处，后勤仓库，古老修炼场中。",
+      "target": "Hai giờ ba mươi phút chiều, nơi sâu nhất của trường Xích Tiêu Nhị Trung, nhà kho hậu cần, bên trong bãi tập cổ xưa.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "description"
+    },
+    {
+      "seg_id": "seg_0015",
+      "source": "李耀两根食指深深戳进坚实的木地板，单凭双指之力，头下脚上，十分标准地倒立。",
+      "target": "Hai ngón trỏ của Lý Diệu cắm sâu vào sàn gỗ cứng nhắc, chỉ dựa vào sức của hai ngón tay để trồng cây chuối thẳng đứng một cách vô cùng tiêu chuẩn.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "description"
+    },
+    {
+      "seg_id": "seg_0016",
+      "source": "他的双脚并不是并拢朝天，而是张开到一百八十度，平得仿佛一根尺子，倒立一字马！",
+      "target": "Hai chân của cậu không khép lại hướng lên trời, mà xoạc rộng ra một trăm tám mươi độ, phẳng lì như một cây thước, trồng chuối xoạc chân!",
+      "alignment_type": "1-to-1",
+      "narrative_type": "description"
+    },
+    {
+      "seg_id": "seg_0017",
+      "source": "分开到极限的双脚没有穿鞋，脚趾如手指一般灵活，每只脚都死死抠住一个哑铃，重达100公斤的哑铃！",
+      "target": "Bàn chân xoạc đến giới hạn không mang giày, ngón chân linh hoạt như ngón tay, mỗi bàn chân đều quắp chặt một quả tạ xích, quả tạ xích nặng tới 100 kg!",
+      "alignment_type": "1-to-1",
+      "narrative_type": "description"
+    },
+    {
+      "seg_id": "seg_0018",
+      "source": "“呼噜……呼噜……”",
+      "target": "\"Khò... khò...\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "description"
+    },
+    {
+      "seg_id": "seg_0019",
+      "source": "在这种状态下，李耀鼻子里发出十分诡异的鼾声，他双眼微闭，嘴角倒挂下一丝口水，竟然在睡觉！",
+      "target": "Dưới trạng thái này, từ mũi Lý Diệu phát ra tiếng ngáy vô cùng kỳ quái, hai mắt cậu khép hờ, khóe miệng chảy xuống một vệt nước dãi, thế mà lại đang ngủ gật!",
+      "alignment_type": "1-to-1",
+      "narrative_type": "description"
+    },
+    {
+      "seg_id": "seg_0020",
+      "source": "忽然——",
+      "target": "Bỗng nhiên —",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0021",
+      "source": "“铃铃铃铃铃铃！”手腕上的微型晶脑猛烈震动，发出闹铃声。",
+      "target": "\"Reng reng reng reng reng reng!\" Tinh não siêu nhỏ trên cổ tay rung lên dữ dội, phát ra tiếng chuông báo thức.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0022",
+      "source": "李耀身形一闪，“啪啪”两声，两道黑影电光火石一般飞出，轰到三十多米开外的墙上，又是“轰轰”两声巨响。",
+      "target": "Thân hình Lý Diệu nhoáng lên, hai tiếng \"bạch bạch\" vang lên, hai đạo bóng đen như tia chớp bay ra ngoài, nện thẳng lên bức tường cách đó hơn ba mươi mét, tiếp theo là hai tiếng nổ lớn \"oành oành\".",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0023",
+      "source": "两个100公斤重的哑铃，竟然被他两脚踢飞了三十多米，深深嵌入墙壁！",
+      "target": "Hai quả tạ nặng 100 kg thế mà lại bị hai chân cậu đá bay xa hơn ba mươi mét, găm sâu vào trong tường!",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0024",
+      "source": "整面墙上坑坑洼洼，都是被哑铃狂轰滥炸留下的凹坑，犹如陨石表面，简直惨不忍睹。",
+      "target": "Toàn bộ bức tường lỗ chỗ loang lổ, đều là các hố sâu do quả tạ oanh tạc để lại, giống như bề mặt thiên thạch, quả thực thê thảm khôn cùng.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "description"
+    },
+    {
+      "seg_id": "seg_0025",
+      "source": "“小妖怪，我已经解除‘放弃’上的禁制，快脱下来，去参加比斗吧，你还有半个钟头！”孙彪笑道。",
+      "target": "\"Tiểu yêu quái, ta đã giải trừ cấm chế trên 'Từ Bỏ' rồi, mau cởi ra đi tham gia thi đấu đi, cậu chỉ còn nửa tiếng thôi!\" Tôn Bưu cười nói.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0026",
+      "source": "“不用脱了，太麻烦。”李耀打了个哈欠，挠着蓬乱如鸟窝的头发，漫不经心地向外走去。",
+      "target": "\"Không cần cởi đâu, phiền phức lắm.\" Lý Diệu ngáp một cái, gãi gãi mái tóc rối bù như tổ chim, lững thững đi ra ngoài.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0027",
+      "source": "2点32分，李耀出现在校园内，睡眼惺忪地走向学生聚集的战斗区，他的身影很快出现在贵宾室的巨大光幕上。",
+      "target": "Hai giờ ba mươi hai phút chiều, Lý Diệu xuất hiện trong sân trường, vẻ mặt ngái ngủ đi về phía khu vực chiến đấu nơi học sinh tập trung, bóng dáng cậu nhanh chóng xuất hiện trên màn hình ánh sáng khổng lồ của phòng khách quý.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0028",
+      "source": "所有人都对这个最后入场的学生感到好奇。",
+      "target": "Tất cả mọi người đều hiếu kỳ đối với học sinh vào sân cuối cùng này.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0029",
+      "source": "按照惯例，这么晚才登场的学生，都是对实力有绝对信心的强者，可是赤霄二中的修炼天才已经悉数登场，这家伙又是谁，难道是完全放弃比赛的差生？",
+      "target": "Theo lẽ thường, học sinh xuất hiện muộn như thế này đều là những cường giả có lòng tin tuyệt đối vào thực lực của mình, thế nhưng những thiên tài tu luyện của trường Xích Tiêu Nhị Trung đã ra sân hết rồi, tên này lại là ai, chẳng lẽ là học sinh kém cỏi từ bỏ cuộc chơi?",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0030",
+      "source": "第二贵宾室。",
+      "target": "Phòng khách quý thứ hai.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0031",
+      "source": "郑东明一下子从女老师的大腿上跳了起来，整个人瞬间变得无比锋利，就像是一柄刚刚从酒缸里抽出来的战刀，酒气未散，杀气已生。",
+      "target": "Trịnh Đông Minh lập tức nhảy dựng lên từ đùi của nữ giáo viên, cả người trong nháy mắt trở nên vô cùng sắc bén, giống như một thanh chiến đao vừa mới rút ra từ trong lu rượu, men rượu chưa tan, sát khí đã hiện.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0032",
+      "source": "“他就是你要看的人，会比赫连烈还厉害吗？”女老师无比讶异，她已经有很久没看到过郑东明这么认真了。",
+      "target": "\"Cậu ta chính là người em muốn xem sao, liệu có lợi hại hơn Hách Liên Liệt không?\" Nữ giáo viên trẻ vô cùng ngạc nhiên, đã lâu lắm rồi cô chưa thấy Trịnh Đông Minh nghiêm túc như thế này.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0033",
+      "source": "“赫连烈当然比他强，但如果非要选一个对手，我宁愿选赫连烈，也不愿意选他。”郑东明直勾勾地盯着李耀。",
+      "target": "\"Hách Liên Liệt đương nhiên mạnh hơn cậu ta, nhưng nếu bắt buộc phải chọn một đối thủ, em thà chọn Hách Liên Liệt chứ quyết không muốn chọn cậu ta.\" Trịnh Đông Minh nhìn chằm chằm vào Lý Diệu.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0034",
+      "source": "“为什么？”女老师不明白。",
+      "target": "\"Tại sao thế?\" Nữ giáo viên không hiểu.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0035",
+      "source": "“because 他和我，是同一类人。”郑东明一笑，虚胖的脸上，露出浅浅的酒窝。",
+      "target": "\"Bởi vì cậu ta và em là cùng một loại người.\" Trịnh Đông Minh cười một tiếng, trên khuôn mặt hơi béo lộ ra má lúm đồng tiền nông nông.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0036",
+      "source": "2点34分，李耀走进……二号食堂！",
+      "target": "Hai giờ ba mươi tư phút chiều, Lý Diệu bước vào... nhà ăn số hai!",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0037",
+      "source": "“他要干什么？二号食堂里没人啊！”众多贵宾们议论纷纷。",
+      "target": "\"Cậu ta muốn làm gì? Trong nhà ăn số hai làm gì có ai chứ!\" Nhiều vị khách quý bàn tán xôn xao.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0038",
+      "source": "这时候大部分战斗都告一段落，不少学生都坐在地上气喘吁吁，值得关注的画面已经不多，李耀有些诡异的行为自然引起了大家的注意。",
+      "target": "Lúc này phần lớn các cuộc chiến đấu đã đi vào hồi kết, không ít học sinh ngồi thở dốc trên mặt đất, những hình ảnh đáng chú ý không còn nhiều, hành vi có phần kỳ quặc của Lý Diệu tự nhiên thu hút sự chú ý của mọi người.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0039",
+      "source": "2点35分，李耀扛着整整一屉肉包子走出二号食堂，一边走一边吃，半分钟内干掉了十几个拳头大小的肉包子。",
+      "target": "Hai giờ ba mươi lăm phút chiều, Lý Diệu bê nguyên một khay màn thầu nhân thịt lớn bước ra khỏi nhà ăn số hai, vừa đi vừa ăn, trong vòng nửa phút đã tiêu diệt hơn mười cái bánh bao thịt to bằng nắm tay.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0040",
+      "source": "“他是来比斗还是来吃饭的！”贵宾们愣了半天，等他们确认自己没有眼花时，不由啼笑皆非。",
+      "target": "\"Cậu ta đến để so tài hay là đến để ăn cơm thế!\" Các vị khách quý ngẩn người hồi lâu, đến khi xác nhận bản thân không nhìn lầm liền dở khóc dở cười.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0041",
+      "source": "刚才还以为这家伙是赤霄二中的秘密武器，是什么深藏不露的高手，没想到只是一个食量惊人的饭桶！",
+      "target": "Vừa nãy còn tưởng tên nhóc này là vũ khí bí mật của trường Xích Tiêu Nhị Trung, là cao thủ ẩn mình nào đó, không ngờ chỉ là một thùng cơm có sức ăn đáng kinh ngạc!",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0042",
+      "source": "而在校园里，也有不少学生都看到了李耀。",
+      "target": "Còn ở trong trường, cũng có không ít học sinh nhìn thấy Lý Diệu.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0043",
+      "source": "“你们看你们看，倒霉鬼李耀也来了！”",
+      "target": "\"Các cậu xem kìa, kẻ xui xẻo Lý Diệu cũng tới kìa!\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0044",
+      "source": "“咦，他竟然没有受伤，还这么活蹦乱跳的？”",
+      "target": "\"Ơ, cậu ta thế mà không bị thương chút nào, vẫn nhảy nhót tưng bừng thế kia?\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0045",
+      "source": "“刚才他一定是偷偷摸摸躲起来了，没有参加战斗，所以这会儿还能生龙活虎。”",
+      "target": "\"Vừa nãy chắc chắn cậu ta đã lén lút trốn đi rồi, không tham gia chiến đấu, cho nên lúc này mới có thể sinh long hoạt hổ như vậy.\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0046",
+      "source": "“喂，李耀，你不要再往前面走了，前面都是重点班学生云集的地方，还在激烈拼抢，小心误伤啊！”",
+      "target": "\"Này, Lý Diệu, cậu đừng đi tiếp về phía trước nữa, phía trước đều là nơi học sinh lớp trọng điểm tụ tập, vẫn đang tranh cướp kịch liệt, cẩn thận bị thương đấy!\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0047",
+      "source": "李耀一边啃着包子，一边埋头查看微型晶脑，对众人的议论充耳不闻，只是当有同学好心提醒他时，才抬起头来，冲对方微笑道谢，随后继续向前走去。",
+      "target": "Lý Diệu vừa gặm bánh bao vừa cúi đầu kiểm tra tinh não siêu nhỏ, ngoảnh mặt làm ngơ trước những lời bàn tán của mọi người, chỉ khi có bạn học tốt bụng nhắc nhở cậu mới ngẩng đầu lên mỉm cười cảm ơn đối phương, sau đó tiếp tục bước tới phía trước.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0048",
+      "source": "“他不会是脑子被打坏了吧？”那名提醒他的同学有些可惜地对同伴说。",
+      "target": "\"Có khi nào đầu óc cậu ta bị đánh hỏng rồi không?\" Bạn học nhắc nhở cậu có chút tiếc nuối nói với người bên cạnh.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0049",
+      "source": "每隔半分钟，十张准考证都会发出特殊的灵波，在虚拟地图上标注方位，李耀很快锁定第一张准考证！",
+      "target": "Cứ mỗi nửa phút, mười tấm thẻ dự thi đều phát ra linh ba đặc biệt để đánh dấu vị trí trên bản đồ ảo, Lý Diệu nhanh chóng khóa định vị trí tấm thẻ dự thi đầu tiên!",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0050",
+      "source": "……",
+      "target": "......",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0051",
+      "source": "纳兰英背靠一株大树，急促地喘息，警惕的眼神如同利刃，扫向四面八方。",
+      "target": "Nạp Lan Anh tựa lưng vào một gốc cây lớn, thở dốc dồn dập, ánh mắt cảnh giác sắc bén như lưỡi đao quét nhìn khắp bốn phương tám hướng.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0052",
+      "source": "嘴角还残留着一丝血迹，她却满不在乎，甚至没想过要舔去。",
+      "target": "Khóe miệng vẫn còn vương một vệt máu, nhưng cô không mảy may bận tâm, thậm chí chưa từng nghĩ đến việc liếm đi.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0053",
+      "source": "她要在最短时间内，吸入最大量的空气，尽量保持头脑清醒，恢复战斗力。",
+      "target": "Cô cần hít thở lượng không khí lớn nhất trong thời gian ngắn nhất để cố gắng giữ cho đầu óc tỉnh táo, khôi phục lại sức chiến đấu.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0054",
+      "source": "因为她身上——有一张珍贵的准考证！",
+      "target": "Bởi vì trên người cô đang giữ một tấm thẻ dự thi vô cùng quý giá!",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0055",
+      "source": "纳兰英是重点班上排名第二十一位的学生，灵根开发度65%，能够抢到一张准考证，简直是天大的运气，她实在没有信心将这张准考证保留到三点钟。",
+      "target": "Nạp Lan Anh là học sinh xếp thứ hai mươi mốt của lớp trọng điểm, độ khai phát linh căn đạt 65%. Có thể cướp được một tấm thẻ dự thi quả thực là vận may cực lớn, cô thực sự không có lòng tin giữ được tấm thẻ này đến ba giờ chiều.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0056",
+      "source": "幸好，她今天吉星高照，班上几名高手都去围攻赫连烈和司佳雪，结果被打成重伤，退出比赛。",
+      "target": "May mắn là hôm nay cô được cát tinh cao chiếu, vài cao thủ trong lớp đều đi bao vây Hách Liên Liệt và Tiêu Giai Tuyết, kết quả đều bị đánh trọng thương phải rút khỏi trận đấu.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0057",
+      "source": "剩下的同学都去争夺另外几张准考证了，她周围没有太强大的威胁存在，至少目前还没有。",
+      "target": "Những bạn học còn lại đều đi tranh đoạt mấy tấm thẻ dự thi khác, xung quanh cô không có mối đe dọa nào quá mạnh mẽ, ít nhất là hiện tại chưa có.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0058",
+      "source": "脑子里正在胡思乱想，纳兰英忽然觉得心口一阵刺痛，就像是有人把一根冰锥狠狠刺进了她的心脏！",
+      "target": "Đầu óc đang nghĩ ngợi lung tung, Nạp Lan Anh bỗng nhiên cảm thấy lồng ngực nhói đau, giống như có người đem một cây băng trùy đâm mạnh vào tim cô!",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0059",
+      "source": "少女“啊”了一声，浑身上下每一根汗毛都竖立起来，如同一头受惊的小白兔，身体本能做出反应，不顾一切窜出去七八米。",
+      "target": "Thiếu nữ \"a\" lên một tiếng, từng cọng lông tơ trên khắp cơ thể đều dựng đứng cả lên như một con thỏ trắng nhỏ bị kinh sợ. Cơ thể cô bản năng đưa ra phản ứng, không tiếc bất cứ giá nào phóng ra xa bảy tám mét.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0060",
+      "source": "纳兰英有一种感觉，如果刚才停留在原地，此刻她已经被撕碎了！",
+      "target": "Nạp Lan Anh có một cảm giác, nếu như vừa nãy cô vẫn đứng yên tại chỗ thì lúc này đã bị xé xác rồi!",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0061",
+      "source": "在她身后七八米的地方，站着一个衣着邋遢，平平无奇的少年，如果非要说有什么异样，那就是少年的腮帮子里塞满了包子，还在一刻不停地咀嚼，咀嚼，咀嚼。",
+      "target": "Phía sau cô bảy tám mét là một thiếu niên ăn mặc lếch thếch, trông hết sức bình thường. Nếu bắt buộc phải nói có điểm gì kỳ lạ thì đó chính là hai bên má của thiếu niên phồng rộp nhét đầy bánh bao, vẫn đang không ngừng nhai nuốt, nhai nuốt, nhai nuốt.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0062",
+      "source": "“李耀？”",
+      "target": "\"Lý Diệu?\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0063",
+      "source": "纳兰英简直不敢相信自己的眼睛——倒霉鬼李耀可是Xích Tiêu Nhị Trung danh tiếng lẫy lừng “nhân vật phong vân”，她当然不会认错。",
+      "target": "Nạp Lan Anh quả thực không dám tin vào mắt mình — kẻ xui xẻo Lý Diệu chính là \"nhân vật phong vân\" danh tiếng lẫy lừng của trường Xích Tiêu Nhị Trung, cô tự nhiên không thể nhận lầm.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0064",
+      "source": "“竟然是他？可刚才背对他时，为什么我会那么毛骨悚然，就像面对一头恐怖的妖兽，提不起一星半点的抵抗之心，只想落荒而逃！”纳兰英心跳如鼓，微微隆起的胸脯上下起伏，根本停不下来。",
+      "target": "\"Thế mà lại là cậu ta? Nhưng lúc nãy khi quay lưng lại, tại sao mình lại thấy rợn tóc gáy đến thế, giống như đang đối mặt với một con yêu thú đáng sợ, không thể dâng lên một chút ý chí kháng cự nào, chỉ muốn vắt chân lên cổ mà chạy!\" Nạp Lan Anh tim đập liên hồi như đánh trống, lồng ngực hơi phập phồng lên xuống liên tục không thể dừng lại.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0065",
+      "source": "李耀漫不经心地嚼着肉包子，朝她走过来。",
+      "target": "Lý Diệu lơ đãng nhai bánh bao thịt, bước về phía cô.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0066",
+      "source": "纳兰英头皮发炸，危机感越来越强烈，整个人都不可遏制地颤动起来，无论她怎么深呼吸都无济于事！",
+      "target": "Nạp Lan Anh da đầu tê dại, cảm giác nguy cơ ngày càng mãnh liệt, cả người run rẩy không thể kiềm chế, cho dù cô có hít thở sâu thế nào cũng vô dụng!",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0067",
+      "source": "“完全被他的气势压制住了，连一根手指头都动弹不了，这是怎么回事啊！”少女心中发出惨叫。",
+      "target": "\"Hoàn toàn bị khí thế của cậu ta áp chế rồi, đến một ngón tay cũng không động đậy nổi, chuyện này là sao thế này!\" Thiếu nữ trong lòng thét thảm.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0068",
+      "source": "“搞什么鬼？纳兰英为什么不一招将这个家伙击倒？”看到这一幕，贵宾们大惑不解，议论纷纷。",
+      "target": "\"Làm cái quỷ gì vậy? Sao Nạp Lan Anh không dùng một chiêu đánh ngã tên nhóc kia đi?\" Chứng kiến cảnh này, các vị khách quý vô cùng khó hiểu, bàn tán xôn xao.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0069",
+      "source": "“这小子是赤霄二中出了名的倒霉鬼，纳兰英是不屑于对他动手吧？”终于有人打听清楚李耀的身份，十分肯定地说。",
+      "target": "\"Tên nhóc đó là kẻ xui xẻo nổi tiếng của trường Xích Tiêu Nhị Trung, chắc là Nạp Lan Anh khinh thường không muốn ra tay với cậu ta?\" Cuối cùng cũng có người hỏi thăm được thân phận của Lý Diệu, hết sức khẳng định nói.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0070",
+      "source": "李耀一步一步，走到纳兰英面前。",
+      "target": "Lý Diệu từng bước một đi đến trước mặt Nạp Lan Anh.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0071",
+      "source": "一仰脖子，有些艰难地吞下了最后一个肉包，李耀打了个饱嗝，脸上流露出满足 of 微笑，落在纳兰英眼中，那模样却像是一头霸王龙刚刚吞噬了成吨的血肉，牙缝里似乎还嵌着血丝。",
+      "target": "Ngửa cổ một cái, khó khăn nuốt trôi cái bánh bao thịt cuối cùng, Lý Diệu ợ hơi một cái, trên mặt lộ ra nụ cười thỏa mãn. Nhưng trong mắt Nạp Lan Anh, điệu bộ đó lại giống như một con khủng long bạo chúa vừa mới nuốt chửng hàng tấn máu thịt, giữa kẽ răng dường như vẫn còn dính những sợi máu tươi.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    },
+    {
+      "seg_id": "seg_0072",
+      "source": "“你，你别过来……”纳兰英心底弱弱地想，快要哭出来了。",
+      "target": "\"Cậu, cậu đừng qua đây...\" Nạp Lan Anh thầm khóc trong lòng, sắp khóc ra nước mắt đến nơi rồi.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0073",
+      "source": "“你好，是纳兰英同学吧，请问你有看到赫连烈同学在什么地方吗？”李耀微微一笑，彬彬有礼地问。",
+      "target": "\"Chào bạn, bạn là bạn học Nạp Lan Anh phải không, cho mình hỏi bạn có thấy bạn học Hách Liên Liệt ở đâu không?\" Lý Diệu mỉm cười nhẹ nhàng, lịch sự hỏi.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0074",
+      "source": "纳兰英愣了好一会儿，才颤巍巍地指了指学校大操场的方向：“我，我不知道，大概是在大操场上吧。”",
+      "target": "Nạp Lan Anh ngây người một lúc lâu mới run rẩy chỉ tay về phía sân vận động lớn của trường: \"Mình, mình không biết, chắc là ở sân vận động lớn đấy.\"",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0075",
+      "source": "“好，谢谢你，纳兰英同学。”李耀点头致谢，对少女的准考证熟视无睹，从纳兰英身边擦身而过，向大操场方向走去。",
+      "target": "\"Được rồi, cảm ơn bạn nhé, bạn học Nạp Lan Anh.\" Lý Diệu gật đầu cảm ơn, hoàn toàn ngó lơ tấm thẻ dự thi của thiếu nữ, lướt ngang qua người Nạp Lan Anh đi về hướng sân vận động lớn.",
+      "alignment_type": "1-to-1",
+      "narrative_type": "dialogue"
+    },
+    {
+      "seg_id": "seg_0076",
+      "source": "纳兰英双腿一软，差点没直接坐在地上，惊愕欲绝地看着李耀渐渐离去的背影，校服被冷汗浸湿，娇躯微微发颤，小腹坠痛，满脑子都是劫后余生的侥幸！",
+      "target": "Hai chân Nạp Lan Anh nhũn ra, suýt chút nữa ngã ngồi trực tiếp xuống đất, kinh hãi tột độ nhìn bóng lưng Lý Diệu dần đi xa. Đồng phục học sinh đã bị mồ hôi lạnh thấm ướt sũng, cơ thể mềm mại khẽ run rẩy, bụng dưới nhói đau, trong đầu toàn là cảm giác may mắn vì vừa thoát chết trong gang tấc!",
+      "alignment_type": "1-to-1",
+      "narrative_type": "narration"
+    }
+  ],
+  "new_terms_discovered": [],
+  "new_characters_discovered": [
+    {
+      "name_original": "纳兰英",
+      "name_translated": "Nạp Lan Anh",
+      "gender": "female",
+      "description": "Học sinh xếp thứ hai mươi mốt của lớp trọng điểm trường Xích Tiêu Nhị Trung, độ khai phát linh căn 65%, tham gia giải đấu và may mắn giành được một thẻ dự thi."
+    }
+  ],
+  "chapter_summary": "Cuộc chiến giành thẻ dự thi bước vào giai đoạn quyết liệt khi học sinh lớp trọng điểm ra sân. Tiêu Giai Tuyết và Hách Liên Liệt dễ dàng giành vé. Giữa lúc cuộc chiến cao trào, Lý Diệu mang theo bộ giáp Từ Bỏ bước vào sân trường với vẻ uể oải. Cậu lơ đãng ăn bánh bao, vô tình áp chế Nạp Lan Anh bằng sát khí kinh người khiến cô sợ hãi tột độ, nhưng chỉ lịch sự hỏi thăm đường đi tìm Hách Liên Liệt mà bỏ qua tấm vé dự thi của cô.",
+  "worldbuilding_updates": {
+    "factions": [],
+    "locations": [],
+    "techniques": [],
+    "items": []
+  },
+  "timeline_entry": {
+    "chapter": 36,
+    "title": "Lý Diệu Lên Sân!",
+    "summary": "Giải đấu bước vào giai đoạn khốc liệt khi lớp trọng điểm tham chiến, trong đó Hách Liên Liệt và Tiêu Giai Tuyết nhanh chóng đoạt vé. Lý Diệu uể oải ra sân sau khi cởi bỏ cấm chế của bộ giáp 'Từ Bỏ'. Trên đường đi tìm Hách Liên Liệt để thanh toán nợ cũ, cậu vô tình tỏa ra sát khí như hung thú khiến Nạp Lan Anh sợ hãi tột độ dù chỉ đến hỏi đường.",
+    "characters": [
+      {
+        "name": "Lý Diệu",
+        "interaction": "Tham chiến muộn, ăn bánh bao và tỏa ra khí thế kinh người áp chế Nạp Lan Anh.",
+        "is_new": false
+      },
+      {
+        "name": "Nạp Lan Anh",
+        "interaction": "Bị khí thế hung thú của Lý Diệu áp chế hoàn toàn đến mức run rẩy chỉ đường.",
+        "is_new": true
+      },
+      {
+        "name": "Trịnh Đông Minh",
+        "interaction": "Quan sát Lý Diệu từ xa qua màn hình và nhận định Lý Diệu là kẻ tàn nhẫn nhất.",
+        "is_new": false
+      }
+    ],
+    "items": [],
+    "plot_points": [
+      "Học sinh lớp trọng điểm ra sân, Hách Liên Liệt và Tiêu Giai Tuyết nhanh chóng giành vé.",
+      "Lý Diệu thức dậy tại bãi tập, không cởi bộ giáp Từ Bỏ mà uể oải ra sân.",
+      "Trịnh Đông Minh nhận định Lý Diệu cùng loại người với mình và là kẻ tàn nhẫn nhất.",
+      "Lý Diệu ăn bánh bao và vô tình áp chế tinh thần của Nạp Lan Anh bằng sát khí hung thú.",
+      "Lý Diệu chỉ hỏi đường đến chỗ Hách Liên Liệt rồi bỏ đi, tha cho thẻ dự thi của Nạp Lan Anh."
+    ]
+  },
+  "term_occurrences": [
+    {
+      "source_term": "晶脑",
+      "target_term": "tinh não",
+      "seg_id": "seg_0021",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "item"
+    },
+    {
+      "source_term": "赤霄二中",
+      "target_term": "Xích Tiêu Nhị Trung",
+      "seg_id": "seg_0008",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "faction"
+    },
+    {
+      "source_term": "重点班",
+      "target_term": "lớp trọng điểm",
+      "seg_id": "seg_0004",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "faction"
+    },
+    {
+      "source_term": "灵根开发度",
+      "target_term": "độ khai phát linh căn",
+      "seg_id": "seg_0055",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "general"
+    },
+    {
+      "source_term": "司佳雪",
+      "target_term": "Tiêu Giai Tuyết",
+      "seg_id": "seg_0006",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "character"
+    },
+    {
+      "source_term": "郑东明",
+      "target_term": "Trịnh Đông Minh",
+      "seg_id": "seg_0013",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "character"
+    },
+    {
+      "source_term": "孙彪",
+      "target_term": "Tôn Bưu",
+      "seg_id": "seg_0025",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "character"
+    },
+    {
+      "source_term": "准考证",
+      "target_term": "thẻ dự thi",
+      "seg_id": "seg_0005",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "general"
+    },
+    {
+      "source_term": "放弃",
+      "target_term": "Từ Bỏ",
+      "seg_id": "seg_0025",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "item"
+    },
+    {
+      "source_term": "医疗飞梭",
+      "target_term": "phi thuyền y tế",
+      "seg_id": "seg_0010",
+      "is_locked": false,
+      "present_in_target": true,
+      "category": "item"
+    }
+  ],
+  "entity_mentions": [
+    {
+      "source_surface": "赤霄二中",
+      "target_surface": "Xích Tiêu Nhị Trung",
+      "entity_type": "faction",
+      "seg_id": "seg_0008",
+      "confidence": 1.0
+    },
+    {
+      "source_surface": "赫连烈",
+      "target_surface": "Hách Liên Liệt",
+      "entity_type": "person",
+      "seg_id": "seg_0006",
+      "confidence": 1.0
+    },
+    {
+      "source_surface": "司佳雪",
+      "target_surface": "Tiêu Giai Tuyết",
+      "entity_type": "person",
+      "seg_id": "seg_0006",
+      "confidence": 1.0
+    },
+    {
+      "source_surface": "周隐",
+      "target_surface": "Chu Ẩn",
+      "entity_type": "person",
+      "seg_id": "seg_0012",
+      "confidence": 1.0
+    },
+    {
+      "source_surface": "郑东明",
+      "target_surface": "Trịnh Đông Minh",
+      "entity_type": "person",
+      "seg_id": "seg_0013",
+      "confidence": 1.0
+    },
+    {
+      "source_surface": "李耀",
+      "target_surface": "Lý Diệu",
+      "entity_type": "person",
+      "seg_id": "seg_0015",
+      "confidence": 1.0
+    },
+    {
+      "source_surface": "孙彪",
+      "target_surface": "Tôn Bưu",
+      "entity_type": "person",
+      "seg_id": "seg_0025",
+      "confidence": 1.0
+    },
+    {
+      "source_surface": "纳兰英",
+      "target_surface": "Nạp Lan Anh",
+      "entity_type": "person",
+      "seg_id": "seg_0055",
+      "confidence": 1.0
+    }
+  ],
+  "phrase_patterns": [],
+  "grammar_rule_candidates": [],
+  "quality_audit": {
+    "segment_coverage": 1.0,
+    "locked_term_hit_rate": 1.0,
+    "cjk_residue_count": 0,
+    "paragraph_drift_ratio": 0.0,
+    "pronoun_consistency_score": 1.0,
+    "warnings": []
+  },
+  "translated_text": "# Chương 0036 - Lý Diệu Lên Sân!\n\nMười hai giờ trưa.\n\nNhóm học sinh thứ hai có thực lực bình thường đều đã tranh giành đến mức kiệt sức, gần một nửa số người bị thương và bị loại, không thể tiếp tục chiến đấu được nữa.\n\nLúc này, học sinh lớp trọng điểm mới bước ra khỏi lớp, khởi động gân cốt, bắt đầu tranh đoạt.\n\nHọ vừa ra sân, mức độ kịch liệt của cuộc so tài lập tức tăng vọt lên mấy bậc, rất nhanh, cả mười tấm thẻ dự thi đều rơi vào tay học sinh lớp trọng điểm, cuộc quyết đấu biến thành cuộc nội chiến của học sinh lớp trọng điểm.\n\nMột giờ ba mươi phút chiều, toàn bộ học sinh lớp trọng điểm ngoại trừ Hách Liên Liệt và Tiêu Giai Tuyết đều đã ra sân!\n\nHai giờ mười phút chiều, Tiêu Giai Tuyết từ từ mở mắt đẹp, gia nhập chiến cục!\n\nHai giờ mười lăm phút chiều, bá vương của trường Xích Tiêu Nhị Trung là Hách Liên Liệt, mang theo khí thế bá đạo tựa như khoác hộ giáp bước ra khỏi phòng học, chính thức tham chiến!\n\nHách Liên Liệt và Tiêu Giai Tuyết rõ ràng sở hữu thực lực cao hơn các học sinh khác một bậc, khoảng cách giữa hai bên thậm chí không thể rút ngắn bằng ưu thế số lượng.\n\nHai người họ chỉ dùng chưa đầy một phút đã tự giành lấy một tấm thẻ dự thi, sau đó còn lần lượt đánh lui một đợt bao vây của ít nhất bảy tám bạn học, thậm chí trực tiếp đánh bay sáu bạn học lên phi thuyền y tế.\n\nCứ như vậy, không còn ai dám cướp thẻ dự thi trong tay họ nữa — dù sao vẫn còn lại tám tấm thẻ dự thi khác, không cần thiết phải đến nộp mạng dưới tay hai quái vật này.\n\n\"Hách Liên Liệt, Tiêu Giai Tuyết... Đã ba năm năm rồi trường Xích Tiêu Nhị Trung mới xuất hiện những mầm non tốt như thế này!\" Nét mặt nghiêm nghị suốt cả ngày của trưởng lão Xích Tiêu Phái Chu Ẩn cuối cùng cũng lộ ra một nụ cười nhạt.\n\n\"Thật vô vị, biết thế này thì trưa mới đến, lãng phí cả buổi sáng của mình!\" Tại phòng khách quý thứ hai, Trịnh Đông Minh nằm ngủ thoải mái trên đùi của nữ giáo viên trẻ, thỉnh thoảng ngẩng đầu nhìn thoáng qua màn hình, bĩu môi một cái rồi lại rúc vào ngủ tiếp.\n\nHai giờ ba mươi phút chiều, nơi sâu nhất của trường Xích Tiêu Nhị Trung, nhà kho hậu cần, bên trong bãi tập cổ xưa.\n\nHai ngón trỏ của Lý Diệu cắm sâu vào sàn gỗ cứng nhắc, chỉ dựa vào sức của hai ngón tay để trồng cây chuối thẳng đứng một cách vô cùng tiêu chuẩn.\n\nHai chân của cậu không khép lại hướng lên trời, mà xoạc rộng ra một trăm tám mươi độ, phẳng lì như một cây thước, trồng chuối xoạc chân!\n\nBàn chân xoạc đến giới hạn không mang giày, ngón chân linh hoạt như ngón tay, mỗi bàn chân đều quắp chặt một quả tạ xích, quả tạ xích nặng tới 100 kg!\n\n\"Khò... khò...\"\n\nDưới trạng thái này, từ mũi Lý Diệu phát ra tiếng ngáy vô cùng kỳ quái, hai mắt cậu khép hờ, khóe miệng chảy xuống một vệt nước dãi, thế mà lại đang ngủ gật!\n\nBỗng nhiên —\n\n\"Reng reng reng reng reng reng!\" Tinh não siêu nhỏ trên cổ tay rung lên dữ dội, phát ra tiếng chuông báo thức.\n\nThân hình Lý Diệu nhoáng lên, hai tiếng \"bạch bạch\" vang lên, hai đạo bóng đen như tia chớp bay ra ngoài, nện thẳng lên bức tường cách đó hơn ba mươi mét, tiếp theo là hai tiếng nổ lớn \"oành oành\".\n\nHai quả tạ nặng 100 kg thế mà lại bị hai chân cậu đá bay xa hơn ba mươi mét, găm sâu vào trong tường!\n\nToàn bộ bức tường lỗ chỗ loang lổ, đều là các hố sâu do quả tạ oanh tạc để lại, giống như bề mặt thiên thạch, quả thực thê thảm khôn cùng.\n\n\"Tiểu yêu quái, ta đã giải trừ cấm chế trên 'Từ Bỏ' rồi, mau cởi ra đi tham gia thi đấu đi, cậu chỉ còn nửa tiếng thôi!\" Tôn Bưu cười nói.\n\n\"Không cần cởi đâu, phiền phức lắm.\" Lý Diệu ngáp một cái, gãi gãi mái tóc rối bù như tổ chim, lững thững đi ra ngoài.\n\nHai giờ ba mươi hai phút chiều, Lý Diệu xuất hiện trong sân trường, vẻ mặt ngái ngủ đi về phía khu vực chiến đấu nơi học sinh tập trung, bóng dáng cậu nhanh chóng xuất hiện trên màn hình ánh sáng khổng lồ của phòng khách quý.\n\nTất cả mọi người đều hiếu kỳ đối với học sinh vào sân cuối cùng này.\n\nTheo lẽ thường, học sinh xuất hiện muộn như thế này đều là những cường giả có lòng tin tuyệt đối vào thực lực của mình, thế nhưng những thiên tài tu luyện của trường Xích Tiêu Nhị Trung đã ra sân hết rồi, tên này lại là ai, chẳng lẽ là học sinh kém cỏi từ bỏ cuộc chơi?\n\nPhòng khách quý thứ hai.\n\nTrịnh Đông Minh lập tức nhảy dựng lên từ đùi của nữ giáo viên, cả người trong nháy mắt trở nên vô cùng sắc bén, giống như một thanh chiến đao vừa mới rút ra từ trong lu rượu, men rượu chưa tan, sát khí đã hiện.\n\n\"Cậu ta chính là người em muốn xem sao, liệu có lợi hại hơn Hách Liên Liệt không?\" Nữ giáo viên trẻ vô cùng ngạc nhiên, đã lâu lắm rồi cô chưa thấy Trịnh Đông Minh nghiêm túc như thế này.\n\n\"Hách Liên Liệt đương nhiên mạnh hơn cậu ta, nhưng nếu bắt buộc phải chọn một đối thủ, em thà chọn Hách Liên Liệt chứ quyết không muốn chọn cậu ta.\" Trịnh Đông Minh nhìn chằm chằm vào Lý Diệu.\n\n\"Tại sao thế?\" Nữ giáo viên không hiểu.\n\n\"Bởi vì cậu ta và em là cùng một loại người.\" Trịnh Đông Minh cười một tiếng, trên khuôn mặt hơi béo lộ ra má lúm đồng tiền nông nông.\n\nHai giờ ba mươi tư phút chiều, Lý Diệu bước vào... nhà ăn số hai!\n\n\"Cậu ta muốn làm gì? Trong nhà ăn số hai làm gì có ai chứ!\" Nhiều vị khách quý bàn tán xôn xao.\n\nLúc này phần lớn các cuộc chiến đấu đã đi vào hồi kết, không ít học sinh ngồi thở dốc trên mặt đất, những hình ảnh đáng chú ý không còn nhiều, hành vi có phần kỳ quặc của Lý Diệu tự nhiên thu hút sự chú ý của mọi người.\n\nHai giờ ba mươi lăm phút chiều, Lý Diệu bê nguyên một khay màn thầu nhân thịt lớn bước ra khỏi nhà ăn số hai, vừa đi vừa ăn, trong vòng nửa phút đã tiêu diệt hơn mười cái bánh bao thịt to bằng nắm tay.\n\n\"Cậu ta đến để so tài hay là đến để ăn cơm thế!\" Các vị khách quý ngẩn người hồi lâu, đến khi xác nhận bản thân không nhìn lầm liền dở khóc dở cười.\n\nVừa nãy còn tưởng tên nhóc này là vũ khí bí mật của trường Xích Tiêu Nhị Trung, là cao thủ ẩn mình nào đó, không ngờ chỉ là một thùng cơm có sức ăn đáng kinh ngạc!\n\nCòn ở trong trường, cũng có không ít học sinh nhìn thấy Lý Diệu.\n\n\"Các cậu xem kìa, kẻ xui xẻo Lý Diệu cũng tới kìa!\"\n\n\"Ơ, cậu ta thế mà không bị thương chút nào, vẫn nhảy nhót tưng bừng thế kia?\"\n\n\"Vừa nãy chắc chắn cậu ta đã lén lút trốn đi rồi, không tham gia chiến đấu, cho nên lúc này mới có thể sinh long hoạt hổ như vậy.\"\n\n\"Này, Lý Diệu, cậu đừng đi tiếp về phía trước nữa, phía trước đều là nơi học sinh lớp trọng điểm tụ tập, vẫn đang tranh cướp kịch liệt, cẩn thận bị thương đấy!\"\n\nLý Diệu vừa gặm bánh bao vừa cúi đầu kiểm tra tinh não siêu nhỏ, ngoảnh mặt làm ngơ trước những lời bàn tán của mọi người, chỉ khi có bạn học tốt bụng nhắc nhở cậu mới ngẩng đầu lên mỉm cười cảm ơn đối phương, sau đó tiếp tục bước tới phía trước.\n\n\"Có khi nào đầu óc cậu ta bị đánh hỏng rồi không?\" Bạn học nhắc nhở cậu có chút tiếc nuối nói với người bên cạnh.\n\nCứ mỗi nửa phút, mười tấm thẻ dự thi đều phát ra linh ba đặc biệt để đánh dấu vị trí trên bản đồ ảo, Lý Diệu nhanh chóng khóa định vị trí tấm thẻ dự thi đầu tiên!\n\n......\n\nNạp Lan Anh tựa lưng vào một gốc cây lớn, thở dốc dồn dập, ánh mắt cảnh giác sắc bén như lưỡi đao quét nhìn khắp bốn phương tám hướng.\n\nKhóe miệng vẫn còn vương một vệt máu, nhưng cô không mảy may bận tâm, thậm chí chưa từng nghĩ đến việc liếm đi.\n\nCô cần hít thở lượng không khí lớn nhất trong thời gian ngắn nhất để cố gắng giữ cho đầu óc tỉnh táo, khôi phục lại sức chiến đấu.\n\nBởi vì trên người cô đang giữ một tấm thẻ dự thi vô cùng quý giá!\n\nNạp Lan Anh là học sinh xếp thứ hai mươi mốt của lớp trọng điểm, độ khai phát linh căn đạt 65%. Có thể cướp được một tấm thẻ dự thi quả thực là vận may cực lớn, cô thực sự không có lòng tin giữ được tấm thẻ này đến ba giờ chiều.\n\nMay mắn là hôm nay cô được cát tinh cao chiếu, vài cao thủ trong lớp đều đi bao vây Hách Liên Liệt và Tiêu Giai Tuyết, kết quả đều bị đánh trọng thương phải rút khỏi trận đấu.\n\nNhững bạn học còn lại đều đi tranh đoạt mấy tấm thẻ dự thi khác, xung quanh cô không có mối đe dọa nào quá mạnh mẽ, ít nhất là hiện tại chưa có.\n\nĐầu óc đang nghĩ ngợi lung tung, Nạp Lan Anh bỗng nhiên cảm thấy lồng ngực nhói đau, giống như có người đem một cây băng trùy đâm mạnh vào tim cô!\n\nThiếu nữ \"a\" lên một tiếng, từng cọng lông tơ trên khắp cơ thể đều dựng đứng cả lên như một con thỏ trắng nhỏ bị kinh sợ. Cơ thể cô bản năng đưa ra phản ứng, không tiếc bất cứ giá nào phóng ra xa bảy tám mét.\n\nNạp Lan Anh có một cảm giác, nếu như vừa nãy cô vẫn đứng yên tại chỗ thì lúc này đã bị xé xác rồi!\n\nPhía sau cô bảy tám mét là một thiếu niên ăn mặc lếch thếch, trông hết sức bình thường. Nếu bắt buộc phải nói có điểm gì kỳ lạ thì đó chính là hai bên má của thiếu niên phồng rộp nhét đầy bánh bao, vẫn đang không ngừng nhai nuốt, nhai nuốt, nhai nuốt.\n\n\"Lý Diệu?\"\n\nNạp Lan Anh quả thực không dám tin vào mắt mình — kẻ xui xẻo Lý Diệu chính là \"nhân vật phong vân\" danh tiếng lẫy lừng của trường Xích Tiêu Nhị Trung, cô tự nhiên không thể nhận lầm.\n\n\"Thế mà lại là cậu ta? Nhưng lúc nãy khi quay lưng lại, tại sao mình lại thấy rợn tóc gáy đến thế, giống như đang đối mặt với một con yêu thú đáng sợ, không thể dâng lên một chút ý chí kháng cự nào, chỉ muốn vắt chân lên cổ mà chạy!\" Nạp Lan Anh tim đập liên hồi như đánh trống, lồng ngực hơi phập phồng lên xuống liên tục không thể dừng lại.\n\nLý Diệu lơ đãng nhai bánh bao thịt, bước về phía cô.\n\nNạp Lan Anh da đầu tê dại, cảm giác nguy cơ ngày càng mãnh liệt, cả người run rẩy không thể kiềm chế, cho dù cô có hít thở sâu thế nào cũng vô dụng!\n\n\"Hoàn toàn bị khí thế của cậu ta áp chế rồi, đến một ngón tay cũng không động đậy nổi, chuyện này là sao thế này!\" Thiếu nữ trong lòng thét thảm.\n\n\"Làm cái quỷ gì vậy? Sao Nạp Lan Anh không dùng một chiêu đánh ngã tên nhóc kia đi?\" Chứng kiến cảnh này, các vị khách quý vô cùng khó hiểu, bàn tán xôn xao.\n\n\"Tên nhóc đó là kẻ xui xẻo nổi tiếng của trường Xích Tiêu Nhị Trung, chắc là Nạp Lan Anh khinh thường không muốn ra tay với cậu ta?\" Cuối cùng cũng có người hỏi thăm được thân phận của Lý Diệu, hết sức khẳng định nói.\n\nLý Diệu từng bước một đi đến trước mặt Nạp Lan Anh.\n\nNgửa cổ một cái, khó khăn nuốt trôi cái bánh bao thịt cuối cùng, Lý Diệu ợ hơi một cái, trên mặt lộ ra nụ cười thỏa mãn. Nhưng trong mắt Nạp Lan Anh, điệu bộ đó lại giống như một con khủng long bạo chúa vừa mới nuốt chửng hàng tấn máu thịt, giữa kẽ răng dường như vẫn còn dính những sợi máu tươi.\n\n\"Cậu, cậu đừng qua đây...\" Nạp Lan Anh thầm khóc trong lòng, sắp khóc ra nước mắt đến nơi rồi.\n\n\"Chào bạn, bạn là bạn học Nạp Lan Anh phải không, cho mình hỏi bạn có thấy bạn học Hách Liên Liệt ở đâu không?\" Lý Diệu mỉm cười nhẹ nhàng, lịch sự hỏi.\n\nNạp Lan Anh ngây người một lúc lâu mới run rẩy chỉ tay về phía sân vận động lớn của trường: \"Mình, mình không biết, chắc là ở sân vận động lớn đấy.\"\n\n\"Được rồi, cảm ơn bạn nhé, bạn học Nạp Lan Anh.\" Lý Diệu gật đầu cảm ơn, hoàn toàn ngó lơ tấm thẻ dự thi của thiếu nữ, lướt ngang qua người Nạp Lan Anh đi về hướng sân vận động lớn.\n\nHai chân Nạp Lan Anh nhũn ra, suýt chút nữa ngã ngồi trực tiếp xuống đất, kinh hãi tột độ nhìn bóng lưng Lý Diệu dần đi xa. Đồng phục học sinh đã bị mồ hôi lạnh thấm ướt sũng, cơ thể mềm mại khẽ run rẩy, bụng dưới nhói đau, trong đầu toàn là cảm giác may mắn vì vừa thoát chết trong gang tấc!"
+}

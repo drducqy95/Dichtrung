@@ -1,0 +1,160 @@
+{
+  "schema_version": "1.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 31,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan\\0031 - 31.第31章 我不是咸鱼！.md",
+  "source_char_count": 3952,
+  "characters": [
+    {
+      "source": "公斤",
+      "entity_type": "person",
+      "count": 5,
+      "confidence": 0.7,
+      "evidence": [
+        "\n\n深蹲重量——三百公斤！\n\n“两百公斤实在",
+        "齿。\n\n“只不过三百公斤，二十组都能一口气做",
+        "你身上的负重，有两百公斤！”孙彪狞笑道。\n\n"
+      ]
+    },
+    {
+      "source": "冷笑",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "自己，心底勃然大怒，冷笑道：“好小子，别急着",
+        "底闪过一丝惊愕，随即冷笑：“才两个而已，一组"
+      ]
+    },
+    {
+      "source": "双眼",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "\n李耀微微一笑，闭上双眼，将妙音宗炼制的微型",
+        "！”\n\n李耀猛地睁开双眼。\n\n他眼中针尖大小"
+      ]
+    },
+    {
+      "source": "孙老师",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.82,
+      "evidence": [
+        "这么残忍。\n\n“呃，孙老师，我又仔细看了一下，",
+        "热热身的，没关系吧，孙老师？”李耀冲着老头微微"
+      ]
+    },
+    {
+      "source": "强袭",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "袭来，这一次不是电流强袭，而是极端的炎热！\n",
+        "在两百公斤负重、电流强袭、精神幻象攻击的重重"
+      ]
+    },
+    {
+      "source": "皮一碰",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.82,
+      "evidence": [
+        "个字。\n\n只要上下嘴皮一碰，用最轻最轻的声音，",
+        "\n很简单，只要上下嘴皮一碰，声带轻轻一颤，嘴巴"
+      ]
+    },
+    {
+      "source": "通人",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "普通人吗？”\n\n“普通人，恐怕不会一出生就带",
+        "的事情吧？”\n\n“普通人，也不可能在四万年前"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "source": "换了严苛一些的宗派",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "里比较宽厚仁慈的了，换了严苛一些的宗派，每年死上几千个门人"
+      ]
+    },
+    {
+      "source": "至于魔门",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "根本都不叫事儿。\n\n至于魔门，更不用说，每一名强"
+      ]
+    }
+  ],
+  "locations": [],
+  "realms": [],
+  "techniques": [
+    "为什么这件法",
+    "几年前专门炼制的法",
+    "固的钢铁都在他的掌",
+    "域最深处的精神秘法",
+    "妙音宗炼制的微型法",
+    "完全无法",
+    "我刚才已经",
+    "我好怕自己无法",
+    "李耀冲掌",
+    "百炼宗已经",
+    "那是在法",
+    "针尖大小的星芒已经"
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "法宝坟墓",
+      "target": "Nghĩa địa Pháp Bảo"
+    },
+    {
+      "source": "陆音希",
+      "target": "Lục Âm Hi"
+    },
+    {
+      "source": "百炼宗",
+      "target": "Bách Luyện Tông"
+    },
+    {
+      "source": "夺舍",
+      "target": "đoạt xá"
+    },
+    {
+      "source": "巨灵神",
+      "target": "Cự Linh Thần"
+    },
+    {
+      "source": "音铃",
+      "target": "Âm Linh"
+    },
+    {
+      "source": "妙音宗",
+      "target": "Diệu Âm Tông"
+    },
+    {
+      "source": "孙彪",
+      "target": "Tôn Bưu"
+    },
+    {
+      "source": "孙老",
+      "target": "Tôn lão"
+    }
+  ],
+  "structural_hints": {
+    "has_dialogue": true,
+    "has_western_names": false,
+    "estimated_segments": 112
+  },
+  "generated_at": "2026-05-30T22:40:39.161517+07:00"
+}

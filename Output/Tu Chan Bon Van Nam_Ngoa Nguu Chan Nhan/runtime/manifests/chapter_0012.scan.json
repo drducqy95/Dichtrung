@@ -1,104 +1,489 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
   "chapter": 12,
   "source_file": "D:\\Dichtrung\\Source\\Source split\\Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan\\0012 - 12.第12章 爽到飞起.md",
   "source_char_count": 3047,
-  "characters": [
+  "source_hash": "ba59f6b16f5009cfd5588edb0063717f24ed5b0a874ee384ebeb30c5a5a0eac3",
+  "source_manifest_hash": "6495304d66d16fa2b93274d625ed0b7d003908aec21457f6e6e6c3e20e155639",
+  "source_segments": [
     {
-      "source": "云散",
-      "entity_type": "person",
-      "count": 2,
-      "confidence": 0.7,
-      "evidence": [
-        "，短短十几年间就烟消云散，彻底灭亡。”\n\n“",
-        "神魂却没那么容易烟消云散，正好遇上我从桥下路"
-      ]
+      "segment_id": "chapter_0012:seg_0001",
+      "source": "# 12.第12章 爽到飞起",
+      "source_hash": "f4fec3e8c0e40eb265d6216cf78d19473630cc9f0029224ede136daab5f4cb4b"
     },
     {
-      "source": "宗派",
-      "entity_type": "person",
-      "count": 2,
-      "confidence": 0.7,
-      "evidence": [
-        "世界’曾经鼎盛一时的宗派，以擅长炼器、铸剑、",
-        "炼宗是真实存在的古老宗派，欧冶子也是天纵英才"
-      ]
+      "segment_id": "chapter_0012:seg_0002",
+      "source": "“痛，痛痛痛痛痛痛痛！”",
+      "source_hash": "896cd21e60eebf6fb796716c4513d741b273cd685eac208d63a6e38eeae73909"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0003",
+      "source": "李耀的头一个感觉就是头痛欲裂，梦境中栩栩如生的数百年光阴化作恒河沙数的信息流，如山洪暴发一般在他脑域深处横冲直撞，最后直接撞进了前额的松果体！",
+      "source_hash": "2f17d1665a2c4885d3d1af016ae53d0eed7a0fcba8a8d2658d827af33ec990cb"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0004",
+      "source": "眉心处一跳一跳，就像是一株雨后春笋，即将冲破颅骨，破体而出！",
+      "source_hash": "a34fd91a4d69bf4eb06d773927f0e47d951564b95790bd62951020b0c4b7d1f9"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0005",
+      "source": "随之而来的是一种无法用笔墨形容的古怪感觉。",
+      "source_hash": "0b828dcc87f07415944cff59651336a523a5391d4912645c3fdc99d7a3acb42d"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0006",
+      "source": "就好像他原本是一个裹着重重外壳的“套中人”，而每一次痛楚都把他的“外壳”撕开一道口子，令他的五感大幅提升，感知到精彩万分的真实世界。",
+      "source_hash": "c4ca5f15cb4c3b4379e64310bf793539e3b30f8b4815be196ab54d0349269124"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0007",
+      "source": "他在瞬间数清了天花板上有327道裂纹，看清楚了三米开外茶杯上镌刻的上百个蝇头小字，并且想起这是133年前一位联邦军旅诗人写的战场诗篇，脑中同时浮现出了这位军旅诗人的生平和经历过的七次战役，就连七次战役的胜负都记得一清二楚。",
+      "source_hash": "544c066979c999db3953a500dd737f1f5b2f9205229d76966b9f43df4e64ad34"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0008",
+      "source": "顺带便，他还听到在楼下右侧相隔二十米的房间中，传来阵阵灵肉撞击的声音。",
+      "source_hash": "18e33807b04fb94641433ded9809dd5313d1a566e22e22d9b3542a8ee7b0a530"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0009",
+      "source": "“这究竟是怎么回事，简直……爽翻了！”",
+      "source_hash": "9800dd28c8cdaca2ae50d26a256b6abaefbbd73240276984d201ecf9c466b94a"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0010",
+      "source": "李耀眨巴着眼睛，每一次眨眼都觉得世界更加清晰一分，无数种他叫不出名字的斑斓色彩撞击着视觉细胞，撞得他头昏眼花，心花怒放。",
+      "source_hash": "7c1551ff1875803d0cdee3483e8d4191321c76a72cb1a272524706e52ef0c162"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0011",
+      "source": "双手用力揉搓眉心，李耀试图厘清思路，可是大脑中的信息流却似海啸肆虐，大河泛滥，一发不可收拾。",
+      "source_hash": "ebab17a3402960ffcd501af98e6b20507eccaa1f6d72eabe585f25adfd0e50a3"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0012",
+      "source": "“58942乘以88743等于5230689906！去年八月二十五号发行的第903期联邦修真彩票一等奖中奖号码是73、89、42、74、55、16，奖金是13547328元，扣除14.32%的特别税之后净到手11607350.63元！星耀联邦国土面积3714万平方公里，总人口104.55亿，常备军1674.78万，拥有‘元始天尊’级超巨型战略晶石战列舰13艘；‘通天教主’级重装晶石巡洋舰52艘……”",
+      "source_hash": "d4c94415655b226db3ce14e52e0cd80e545dcf138c546be5e5b7dbc00d131c90"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0013",
+      "source": "“我在三年前的5月30号曾经走过罗浮大道和岐山路的交叉十字路口，当天气温13到21度，有2级西北风，在我西南方向十一米处有个穿浅绿色裙子的女人，年纪在二十六到二十九岁之间，裙子被风吹了起来，她的\\*\\*是粉红色带淡紫色花纹的！”",
+      "source_hash": "d902ad6efac7330d2678b123fa789f6ce4e5650a37c2b31739327955e0a5867c"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0014",
+      "source": "“楼下正在盘肠大战的应该是赵哥家，一分钟内撞击了七十二次，这个频率比赵哥平常表现提升了35.8%，而女人发出的叫声也比平时尖利了至少23.4%，如果不是赵哥吃了什么秘药，恐怕他头上就要带点绿了！”",
+      "source_hash": "de9a70d6d7367f1f4e72f7fd80283af2d8ca5c3d81bf5c94b0f9277d5f082162"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0015",
+      "source": "“有没有搞错，为什么我忽然能想到那么多东西，处理那么多纷乱的念头，简直像是……修真者一样！”",
+      "source_hash": "f9a7d7add587d87052b767574c1120f5008bbcab9f3a92cd12ae54a52ba341fe"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0016",
+      "source": "李耀被自己的念头吓了一跳，又回想起刚刚逃脱的南柯一梦，后脑勺有些发冷。",
+      "source_hash": "1515cc49bbd4100e912d6a50dec7918914e8f8ee828b8c9d6e1ff2609e581e2c"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0017",
+      "source": "他眯着眼睛，在大腿根上狠狠揪了一把，用刺痛来集中思绪，凝神静气，思考前因后果。",
+      "source_hash": "17931aef98785120f791c955c309b61602079da758ee720ccd40cdadaf29b8ec"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0018",
+      "source": "片刻之后，脑域中庞大的信息库里，跳出上百条有效信息，犹如闪闪发亮的珍珠，串联成了完整的线索链条。",
+      "source_hash": "43e7845a75e0bc5885c3b3681bad8c7b4e02772d0d9b9767322e1bfbe88e4320"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0019",
+      "source": "“晶脑，启动！”",
+      "source_hash": "f1edfb38d8dd2b5e06567d63acfed7901d5215fc25f1ed2b75fd95aa07d4f1cf"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0020",
+      "source": "李耀轻呼一声，床尾浮起一台三角形晶脑，射出一道柔和的光束，在一阵叮咚作响的开机音乐之后，扩散成一张巨大的光幕。",
+      "source_hash": "5ebb1942a83de518142bfa5a5015deabea367db94c9466dbf1ec7ec9d0531e12"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0021",
+      "source": "李耀接入万维网，打开一个名叫“万象搜索”的页面，在搜索框中输入“百炼宗”三个字，轻轻按下“发动”符文。",
+      "source_hash": "204bff07128452cd61624fc0ca5b166984021a834a75da79cf6e70e25f31db98"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0022",
+      "source": "页面流光溢彩，七彩符文全屏纷舞，组成数段简短的文字。",
+      "source_hash": "85be3f51b83239a69378bf0a1b28cca1cec950aee2382b9bcb1eb0c12fd41902"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0023",
+      "source": "“百炼宗，是迄今47000年前，古典修真时代中期，在‘中州域’的‘洪荒大世界’曾经鼎盛一时的宗派，以擅长炼器、铸剑、打造法宝闻名，特别是第三十六代宗主欧冶子，号称‘器宗’，是名动一方的炼器大师，在多部古代笔记、典籍中都有提及。”",
+      "source_hash": "51eb00f28f5ab913ef166a90de32da8cb7b0c661d4136579313020d4758930e4"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0024",
+      "source": "“大约46000年前，百炼宗因为一场不明原因的大爆炸，山门被毁，短短十几年间就烟消云散，彻底灭亡。”",
+      "source_hash": "c7ea47b8d247fe163f81f2a0038614c447b3a6d703b02ad584ec9c576f469a3e"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0025",
+      "source": "“根据目前出土的一些同时代修真者笔记记载，欧冶子号称炼制成功了一种能够穿梭时光的传送阵，在进行第一次试验时不慎引发了灵能潮汐大爆炸，落得灰飞烟灭，神魂俱散的下场。”",
+      "source_hash": "b762aecfff9264a94fb7ba95233077af6eb49a19737866b2bbdf9930d989396f"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0026",
+      "source": "“不过，目前尚未发现任何一处百炼宗的遗迹，所有关于百炼宗的信息，都来源于古代笔记，属于间接证据，欧冶子暴毙、百炼宗衰亡的真实原因，还不得而知。”",
+      "source_hash": "af2df90c8ebe02bb59c442bd234d4ebbb72a90a0c23939c00131b6926380e624"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0027",
+      "source": "“附：在我们‘万象派’开发的最新游戏《古修世界剑侠传》中，就有百炼宗的出现，玩家可以扮演百炼宗弟子，和‘器宗’欧冶子直接交流，探索最玄妙的炼器奥秘！现在加入即赠送新手大礼包，前一万名下载神念的玩家，还有追加五套酷炫战甲，还等什么，赶快下载神念，进入游戏吧！”",
+      "source_hash": "508d4e7db4d168dfc2deb640a0764903ff4e5760fb16df03c19c80542d5c1134"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0028",
+      "source": "李耀直接忽略了最后一条信息，把前面几段话翻来覆去，看了又看。",
+      "source_hash": "cb5f6b270a032ed8763a8b42eda86ec7a9b331fe8a94f6c58ded539427fd2ed4"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0029",
+      "source": "渐渐的，他的眼睛明亮起来，脑海中神念飞转，无数念头如同丝线穿梭，交织成了一副错综复杂的精美图案。",
+      "source_hash": "55e366c75145efca4e9249833de55633312f678e831d8fb63dd46e31a036ed89"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0030",
+      "source": "“原来如此，百炼宗是真实存在的古老宗派，欧冶子也是天纵英才的炼器大师，他在四万六千年前就发明了一种能够穿梭时光的‘时间机器’，并且亲自试验，没想到引发了一场惊天动地的大爆炸，导致百炼宗毁灭。”",
+      "source_hash": "dc16d8b28a653d802d5f3b01effb0c1bfb80f6c6c687af6ba29ce2a1feb7e6a8"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0031",
+      "source": "“百炼宗虽然被毁灭，欧冶子的试验却是成功了，他真的跨越了时间的壁障，来到了四万六千年后的修真40000年代！”",
+      "source_hash": "46ef8d8790aa818299ec0f7019f43ccb65186b0810f92224efef8e384155b5c8"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0032",
+      "source": "“这个时代，拥有无数古代修真者想都想不到的神奇法宝，欧冶子这样的炼器狂人，当然是见猎心喜，特别是对‘超高速晶轨列车’这样的现代大型法宝系统，一见到了，哪有不好好研究一番的道理？”",
+      "source_hash": "59cbdc838bcc9efe21f4abe142216168825e2054477a3f2f529b1756a07f759b"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0033",
+      "source": "“结果他就被列车……撞死了！”",
+      "source_hash": "bbc86f964d8298ec76697090977656cb6d0da64ba60381eea88a57999c4609b3"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0034",
+      "source": "“估计，时间旅行这种事情，对修真者的身体损伤也是很大，欧冶子一定是受了重创，修为大跌，否则以他在梦境中表现出来的强横实力，说不定还真能把列车撞到桥下去。”",
+      "source_hash": "5c6518c030d8700f96752a22eadc0460deb0033a7c83742f25fe0166d4ac2b87"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0035",
+      "source": "“不管怎么说，欧冶子的躯体被晶轨列车撕成碎片，可是他庞大无比的神魂却没那么容易烟消云散，正好遇上我从桥下路过，就一股脑儿涌入我的身体，妄图‘夺舍’！”",
+      "source_hash": "90f0c0dd817f877c73f7c436201ccb168d140f131e0cea3a22219b4243009db6"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0036",
+      "source": "“是了，当时我感到一股阴风在体内肆虐，一定是这老小子不怀好意，梦中种种异象，都是他装神弄鬼，倘若没有及时看破，此刻躺在床上的人，一定以为自己就是货真价实的‘欧冶子’！”",
+      "source_hash": "e40dcb8b13a923cda2fe11df4874f6167ea21ed45a965354fab9a8e7832fedd3"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0037",
+      "source": "“可是，我只是一个修为低微的普通人，怎么可能抵挡住欧冶子的强大神魂，令他夺舍失败？”",
+      "source_hash": "68af2fbcccbaa45a82fedd939d050a95bef28a16b1fd3ed7b69cc61a5ad7b4b4"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0038",
+      "source": "李耀心思电转，沉吟片刻，回想起在南柯一梦中，自己即将和太阿上人之女洞房时，曾经出现过一缕不和谐的波纹。",
+      "source_hash": "292739b3a78e3a12ed5bac8a6e500f807b28997fabb013df1f61457d9f58e4a0"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0039",
+      "source": "脑中忽然灵光一闪，找到了原因所在。",
+      "source_hash": "c44c4a440102866fdfc4846d7688c451a159ef2f8a3b21c8e3a930011cec28a3"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0040",
+      "source": "“哈哈，欧冶子这个老小子真是倒霉！”",
+      "source_hash": "8b26f0d1df40718f1ebf856b6a1a792a54614129d86177c36657c21fdf540126"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0041",
+      "source": "“以他强横无匹的神魂修为，无论是夺舍联邦中任何一个人，就算是一些低阶修真者，恐怕都不会遇上半点麻烦。”",
+      "source_hash": "1c61262614474c6bad9d192c39c4ade2977b7889bf5ac0736bef98e0bf463d74"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0042",
+      "source": "“可是我不同，在我的脑域深处，原本就潜藏着一份不属于这个世界的记忆，从某种意义上讲，我这具身体，已经被‘地球人李耀’夺舍过一次，相当于注射过一次疫苗，对夺舍有了天然的抵抗力。”",
+      "source_hash": "8396fdbf40ddb500ad0defbf28b252601d76e66651afa41d7319fc176d1f118c"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0043",
+      "source": "“再凶险的病毒，对注射过疫苗的人都无能为力，合该欧冶子走背字，非但没能夺舍成功，反而给我留下莫大的好处！”",
+      "source_hash": "e99eff8f789ae5d15c8827c49b1d2993e18466c643519f8f6d0885a07a456509"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0044",
+      "source": "李耀再怎么迟钝，都意识到在自己身上恐怕发生了不得了的变化，至少他的思维比过去敏捷了不下十倍。",
+      "source_hash": "95e5e88923c7fcc4904db4fc2afccae51dbd910181255e9d6acbfcd6502312ad"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0045",
+      "source": "别的不提，就说他根据一鳞半爪的信息，在三分钟之内把前因后果思考得八九不离十，换成以前，只怕三天三夜都想不明白。",
+      "source_hash": "f187197d9cb05229c8d2b820ba247baa553d06c85099269e90a0fcc612080951"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0046",
+      "source": "“冥修课的老师曾经说过，冥修的最高境界，就是进入一种‘时间流动无比缓慢，真实世界一秒钟，仿佛精神世界一年’的奇妙状态，在这种状态下修炼，对提升灵根开发度大有好处！”",
+      "source_hash": "8b21b4a3e91d8a227e6ba2e089067c885e0fbe979fc7b27c3049ad5ae0e72004"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0047",
+      "source": "“我在南柯一梦中，好似度过了数百年光阴，难道正是进入了此种玄之又玄的境界，又被欧冶子的强大神魂磨砺，在不知不觉中，大大提升了灵根开发度？”",
+      "source_hash": "257c7118a7f9b8fcca4c2c48fc86f2765ff2892b9d9ed3e25f9016be943c0e4c"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0048",
+      "source": "李耀听老师说过，灵根开发度的提升，会在瞬间大幅提升记忆力、分析计算力、思维力和感知力。",
+      "source_hash": "1404cca0b587edd7acdc87947fa4a5731a12d95efb6eda0dd55be58c461bd9be"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0049",
+      "source": "另一个更加直接的标志，就是眉心处的“松果体”，会有春笋呼之欲出的感觉。",
+      "source_hash": "e410067ff37337b97a3c32d6e36269b90c38964b6cf1dcbe1b8bbd869e60c957"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0050",
+      "source": "这些迹象，都和他身上发生的异变一模一样！",
+      "source_hash": "9bd4ea12da5e6dce10474296af8841ab06e9121756493a1eecdb5823a4769458"
+    },
+    {
+      "segment_id": "chapter_0012:seg_0051",
+      "source": "“发达了发达了，不知道我的灵根开发度提升了多少，有没有实力把重点班那帮鼻孔朝天的天之骄子都打成猪头？”",
+      "source_hash": "347b6fbb2bda836cbd748f6e0dcc3d233ee7589d1a16458786211503e8adc162"
     }
   ],
-  "organizations": [
+  "known_characters": [
     {
-      "source": "器宗",
-      "entity_type": "organization",
-      "count": 2,
-      "confidence": 0.78,
-      "evidence": [
-        "代宗主欧冶子，号称‘器宗’，是名动一方的炼器"
-      ]
+      "id": "protagonist_ly_dieu",
+      "name_source": "李耀",
+      "name_target": "Lý Diệu",
+      "name_aliases": [
+        "Thốc Thứu",
+        "Kền Kền",
+        "Âu Dã Minh"
+      ],
+      "gender": "male",
+      "age_group": "teenager",
+      "social_status": "Học sinh lớp thường / Thợ nhặt rác",
+      "base_archetype": "protagonist",
+      "speech_style": "Thẳng thắn, thực tế, hơi ngông cuồng của thiếu niên nhưng có suy nghĩ thấu đáo và kiên định.",
+      "first_appearance": {
+        "chapter": 1,
+        "context": "Xuất hiện nhặt rác tại Nghĩa địa Pháp Bảo"
+      },
+      "cultivation": {
+        "primary_system": "Linh căn khai phát / Cơ khí tu chân",
+        "current_realm": "Người thường (Linh căn khai phát 35%)",
+        "current_sub_stage": "",
+        "notes": "Linh căn khai phát ban đầu chỉ có 35% nhưng có tiềm năng tinh thần lực cực cao nhờ dị mộng."
+      },
+      "abilities": [
+        "Kỹ năng đua xe Trái Đất",
+        "Chế tạo cơ khí thủ công",
+        "Sửa chữa pháp bảo phế thải",
+        "Linh Xà Thân Pháp"
+      ],
+      "faction": {
+        "current": {
+          "name": "Xích Tiêu Nhị Trung",
+          "role": "Học sinh lớp thường"
+        },
+        "history": [
+          {
+            "name": "Trái Đất (kiếp trước)",
+            "role": "Tay đua xe chuyên nghiệp"
+          }
+        ]
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Thiếu niên 17 tuổi gầy gò, khỏe khoắn, da ngăm đen do dầm mưa dãi nắng ở nghĩa địa pháp bảo, đôi mắt sáng ngời sắc bén như chim ưng.",
+        "style": "Đồ lao động cũ kỹ bám đầy dầu mỡ, sau đó mặc đồng phục Xích Tiêu Nhị Trung.",
+        "distinctive": "Lòng bàn tay có nhiều vết chai sạn do sửa chữa cơ khí và vung búa rèn."
+      },
+      "personality": {
+        "traits": [
+          "Kiên trì",
+          "Thực tế",
+          "Thích tiền",
+          "Bền bỉ",
+          "Mưu mẹo"
+        ],
+        "speech": "Dứt khoát, thường xưng 'tôi' hoặc 'ta' tùy ngữ cảnh."
+      },
+      "notes": ""
     },
     {
-      "source": "百炼宗",
-      "entity_type": "organization",
-      "count": 2,
-      "confidence": 0.78,
-      "evidence": [
-        "面，在搜索框中输入“百炼宗”三个字，轻轻按下“"
-      ]
-    },
-    {
-      "source": "万象派",
-      "entity_type": "organization",
-      "count": 1,
-      "confidence": 0.78,
-      "evidence": [
-        "”\n\n“附：在我们‘万象派’开发的最新游戏《古"
-      ]
-    },
-    {
-      "source": "曾经鼎盛一时的宗派",
-      "entity_type": "organization",
-      "count": 1,
-      "confidence": 0.78,
-      "evidence": [
-        "域’的‘洪荒大世界’曾经鼎盛一时的宗派，以擅长炼器、铸剑、"
-      ]
-    },
-    {
-      "source": "百炼宗是真实存在的古老宗派",
-      "entity_type": "organization",
-      "count": 1,
-      "confidence": 0.78,
-      "evidence": [
-        "案。\n\n“原来如此，百炼宗是真实存在的古老宗派，欧冶子也是天纵英才"
-      ]
+      "id": "",
+      "name_source": "太阿上人",
+      "name_target": "Thái A thượng nhân",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Tông chủ đời thứ 35 của Bách Luyện Tông, nhạc phụ của Âu Dã Minh.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
     }
   ],
-  "locations": [
+  "known_worldbuilding": [
     {
-      "source": "中州域",
-      "entity_type": "location",
-      "count": 1,
-      "confidence": 0.78,
-      "evidence": [
-        "典修真时代中期，在‘中州域’的‘洪荒大世界’曾"
-      ]
+      "section": "factions",
+      "name_source": "百炼宗",
+      "name_target": "Bách Luyện Tông",
+      "type": "Tông môn cổ đại",
+      "description": "Tông phái luyện khí cổ đại cực kỳ hùng mạnh trong Hồng Hoang Đại Thế Giới, nổi tiếng với kỹ thuật rèn luyện thủ công thâm sâu và quy củ khắc nghiệt."
+    },
+    {
+      "section": "factions",
+      "name_source": "万象派",
+      "name_target": "Vạn Tượng Phái",
+      "type": "Môn phái giải trí",
+      "description": "Môn phái nổi tiếng với các sản phẩm giải trí và trò chơi ảo thần niệm tại Tinh Diệu Liên Bang."
+    },
+    {
+      "section": "items",
+      "name_source": "万象搜索",
+      "name_target": "Vạn Tượng Tìm Kiếm",
+      "type": "Cơ cấu mạng tìm kiếm",
+      "description": "Mạng lưới tìm kiếm thông tin và cơ sở dữ liệu phổ biến tại Tinh Diệu Liên Bang."
     }
   ],
+  "heuristic_candidates": {
+    "characters": [
+      {
+        "source": "云散",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "，短短十几年间就烟消云散，彻底灭亡。”\n\n“",
+          "神魂却没那么容易烟消云散，正好遇上我从桥下路"
+        ]
+      },
+      {
+        "source": "宗派",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "世界’曾经鼎盛一时的宗派，以擅长炼器、铸剑、",
+          "炼宗是真实存在的古老宗派，欧冶子也是天纵英才"
+        ]
+      }
+    ],
+    "organizations": [
+      {
+        "source": "器宗",
+        "entity_type": "organization",
+        "count": 2,
+        "confidence": 0.78,
+        "evidence": [
+          "代宗主欧冶子，号称‘器宗’，是名动一方的炼器"
+        ]
+      },
+      {
+        "source": "百炼宗",
+        "entity_type": "organization",
+        "count": 2,
+        "confidence": 0.78,
+        "evidence": [
+          "面，在搜索框中输入“百炼宗”三个字，轻轻按下“"
+        ]
+      },
+      {
+        "source": "万象派",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "”\n\n“附：在我们‘万象派’开发的最新游戏《古"
+        ]
+      },
+      {
+        "source": "曾经鼎盛一时的宗派",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "域’的‘洪荒大世界’曾经鼎盛一时的宗派，以擅长炼器、铸剑、"
+        ]
+      },
+      {
+        "source": "百炼宗是真实存在的古老宗派",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "案。\n\n“原来如此，百炼宗是真实存在的古老宗派，欧冶子也是天纵英才"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "source": "中州域",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "典修真时代中期，在‘中州域’的‘洪荒大世界’曾"
+        ]
+      }
+    ],
+    "techniques": [
+      "之而来的是一种无法",
+      "传来阵阵",
+      "军旅诗人的生平和经",
+      "冥修课的老师曾经",
+      "古修世界剑",
+      "号曾经",
+      "在一阵",
+      "够穿梭时光的传送阵",
+      "想都想不到的神奇法",
+      "打造法",
+      "这样的现代大型法"
+    ]
+  },
   "realms": [],
-  "techniques": [
-    "之而来的是一种无法",
-    "传来阵阵",
-    "军旅诗人的生平和经",
-    "冥修课的老师曾经",
-    "古修世界剑",
-    "号曾经",
-    "在一阵",
-    "够穿梭时光的传送阵",
-    "想都想不到的神奇法",
-    "打造法",
-    "这样的现代大型法"
-  ],
-  "matched_locked_terms": [
+  "matched_glossary_terms": [
     {
       "source": "晶脑",
       "target": "Tinh não"
@@ -138,7 +523,74 @@
     {
       "source": "太阿上人",
       "target": "Thái A thượng nhân"
+    },
+    {
+      "source": "万象搜索",
+      "target": "Vạn Tượng Tìm Kiếm"
+    },
+    {
+      "source": "万象派",
+      "target": "Vạn Tượng Phái"
+    },
+    {
+      "source": "夺舍",
+      "target": "đoạt xá"
+    },
+    {
+      "source": "特别税",
+      "target": "thuế đặc biệt"
     }
   ],
-  "generated_at": "2026-05-30T05:22:29.561225+07:00"
+  "matched_locked_terms": [
+    {
+      "source": "晶脑",
+      "target": "Tinh não"
+    },
+    {
+      "source": "重点班",
+      "target": "lớp trọng điểm"
+    },
+    {
+      "source": "联邦军",
+      "target": "Quân đội Liên bang"
+    },
+    {
+      "source": "松果体",
+      "target": "tuyến tùng"
+    },
+    {
+      "source": "灵根开发度",
+      "target": "độ khai phát linh căn"
+    },
+    {
+      "source": "超高速晶轨列车",
+      "target": "tàu tốc hành tinh quỹ siêu tốc"
+    },
+    {
+      "source": "百炼宗",
+      "target": "Bách Luyện Tông"
+    },
+    {
+      "source": "洪荒大世界",
+      "target": "Hồng Hoang Đại Thế Giới"
+    },
+    {
+      "source": "太阿上人",
+      "target": "Thái A thượng nhân"
+    },
+    {
+      "source": "万象搜索",
+      "target": "Vạn Tượng Tìm Kiếm"
+    },
+    {
+      "source": "夺舍",
+      "target": "đoạt xá"
+    }
+  ],
+  "structural_hints": {
+    "has_dialogue": true,
+    "has_western_names": false,
+    "estimated_segments": 52
+  },
+  "generated_at": "2026-05-31T08:51:02.262532+07:00"
 }

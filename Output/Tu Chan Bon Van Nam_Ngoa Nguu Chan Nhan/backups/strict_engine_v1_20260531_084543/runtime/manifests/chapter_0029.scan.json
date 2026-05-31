@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 29,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan\\0029 - 29.第29章 铸造妖刀的人.md",
+  "source_char_count": 2145,
+  "characters": [
+    {
+      "source": "步法",
+      "entity_type": "person",
+      "count": 3,
+      "confidence": 0.7,
+      "evidence": [
+        "咬牙，干脆施展《灵蛇步法》，一路小跑起来。\n",
+        "\n\n“是极高明的武技步法，还是缩地成寸之类的",
+        "\n他明明施展出《灵蛇步法》极速狂飙，可是跑了"
+      ]
+    },
+    {
+      "source": "双手",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "说着，他一转身，背着双手，向仓库走去。\n\n李",
+        "来。\n\n孙彪依旧背负双手，步履蹒跚。\n\n可是"
+      ]
+    },
+    {
+      "source": "应过来",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.82,
+      "evidence": [
+        "地方不对，这会儿才反应过来。\n\n“拼不过就跑，",
+        "得目瞪口呆，半天才反应过来，不由争辩：“当时情"
+      ]
+    },
+    {
+      "source": "皮发麻",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.82,
+      "evidence": [
+        "的小牛肉，直到李耀头皮发麻，脊背发凉，老头才慢",
+        "神幻术攻击？”李耀头皮发麻，终于认识到孙彪的深"
+      ]
+    },
+    {
+      "source": "能吹倒",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.82,
+      "evidence": [
+        "息急促，简直一阵风都能吹倒。\n\n李耀记得，开学",
+        "着小碎步，一个喷嚏就能吹倒，可速度一点都不慢，"
+      ]
+    },
+    {
+      "source": "高手",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "技老师，是非常厉害的高手，而且眼光很毒，\\*",
+        "两声：“身为一名打架高手，当然是一天二十四个"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "source": "可是才走了一分钟就看到仓库大门",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "仓库有大约一千多米，可是才走了一分钟就看到仓库大门。\n\n后勤仓库是一座"
+      ]
+    },
+    {
+      "source": "奠定胜局",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "粉，一招就抢占先机，奠定胜局。\n\n否则以赵亮60"
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "source": "妖刀彭海",
+      "entity_type": "location",
+      "count": 4,
+      "confidence": 0.78,
+      "evidence": [
+        "他在贫民窟一眼看出‘妖刀彭海’的不凡之处，把彭海"
+      ]
+    }
+  ],
+  "realms": [],
+  "techniques": [
+    "不过他已经",
+    "他收住脚步",
+    "会打架的年轻人已经",
+    "在七十多年前就已经",
+    "成寸之类的修真仙法",
+    "挪着小碎步",
+    "收住脚步",
+    "是极高明的武技步法",
+    "水晶冻胶泥人形拳",
+    "灵蛇步法",
+    "简直一阵",
+    "都无法",
+    "铸造妖刀"
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "灵根",
+      "target": "Linh căn"
+    },
+    {
+      "source": "灵根开发度",
+      "target": "độ khai phát linh căn"
+    },
+    {
+      "source": "彭海",
+      "target": "Bành Hải"
+    },
+    {
+      "source": "妖刀",
+      "target": "Yêu Đao"
+    },
+    {
+      "source": "赵亮",
+      "target": "Triệu Lượng"
+    },
+    {
+      "source": "灵蛇步法",
+      "target": "Linh Xà Bộ Pháp"
+    }
+  ],
+  "structural_hints": {
+    "has_dialogue": true,
+    "has_western_names": false,
+    "estimated_segments": 52
+  },
+  "generated_at": "2026-05-30T22:39:44.211123+07:00"
+}

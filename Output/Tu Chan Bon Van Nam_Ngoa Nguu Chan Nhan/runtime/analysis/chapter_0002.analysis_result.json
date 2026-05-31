@@ -1,15 +1,1715 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
   "chapter": 2,
-  "aligned_segments": [],
-  "term_occurrences": [],
-  "entity_mentions": [],
+  "chapter_id": "chapter_0002",
+  "source_manifest_hash": "746004e4a0a1a24082b6523511efb9635cfbc04e070e62b1fe005e4632492e65",
+  "aligned_segments": [
+    {
+      "alignment_id": "chapter_0002:align_0001",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0001"
+      ],
+      "source": "# 2.第2章 光幕仪",
+      "source_hash": "f402c1b48831bd86e5e872da7d695e345e37d50f2d63e4a45aea3a92d08fbcd4",
+      "target": "# Chương 2: Quang Mạc Nghi",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0002",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0002"
+      ],
+      "source": "五个小时后，夜幕降临。",
+      "source_hash": "c940b8e0bc28596f58fa37ba9a3e1596b776dc5e14164fa6c83e3b6711c7bc05",
+      "target": "Năm tiếng sau, màn đêm buông xuống.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0003",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0003"
+      ],
+      "source": "第二十三号特种垃圾处理场旁边的“朝阳新村”。",
+      "source_hash": "af1f6d194e991f1cce8ea75d7067c93cfe254ef970ceee3610f2282205b93046",
+      "target": "Kế bên Bãi xử lý rác thải đặc chủng số 23 là \"Triêu Dương Tân Thôn\".",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0004",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0004"
+      ],
+      "source": "名字虽然好听，但朝阳新村却是浮戈城最破落的一处廉租房小区。",
+      "source_hash": "b667fe5da87ce44bab38d2a7f446f39fca7be07d9a673cde2c403ef9c1c71f34",
+      "target": "Tên nghe thì rất hay, nhưng Triêu Dương Tân Thôn thực chất lại là khu chung cư cho thuê giá rẻ tồi tàn nhất của Phù Qua Thành.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0005",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0005"
+      ],
+      "source": "因为靠近法宝坟墓的关系，这里的环境十分恶劣，空气中常年弥漫着一股刺鼻的气味，即便主城区是蓝天白云，这里也是灰蒙蒙一片，在浮戈城的十九处廉租房小区中，是等级最低的一处，自然，租金也是最低。",
+      "source_hash": "891aca25eb469ec955764e15e0f71834716d0360990778a24cdfaa8ab23b7884",
+      "target": "Do nằm sát cạnh nghĩa địa pháp bảo nên môi trường nơi này cực kỳ tồi tệ, trong không khí quanh năm suốt tháng luôn thoang thoảng một mùi hắc nồng nặc. Cho dù khu vực trung tâm thành phố có là bầu trời xanh mây trắng thì nơi này vẫn là một mảnh xám xịt âm u. Trong số mười chín khu chung cư giá rẻ của Phù Qua Thành, nơi đây có thứ hạng thấp nhất, và lẽ hiển nhiên, tiền thuê nhà cũng là rẻ nhất.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0006",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0006"
+      ],
+      "source": "再低廉的租金，也没多少人喜欢居住在垃圾场旁边，不少居民楼整栋整栋空置着，再加上年久失修，外立面布满裂纹，楼道里遍布蛛网，简直是一座鬼城。",
+      "source_hash": "09499469606cd06eca264e89db816bd96da6c276c74802f6fb550e6ed6946690",
+      "target": "Nhưng dù tiền thuê có rẻ đến mấy thì cũng chẳng mấy ai thích sống bên cạnh bãi rác. Nhiều tòa nhà dân cư bị bỏ trống nguyên cả tòa, cộng thêm việc lâu năm không trùng tu sửa chữa nên tường ngoài phủ đầy vết rạn nứt, lối đi bộ giăng đầy mạng nhện, chẳng khác nào một tòa thành ma.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0007",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0007"
+      ],
+      "source": "李耀正是这座“鬼城”的常住民。",
+      "source_hash": "49551a7792e8eabcb64f84bb61c800a7fbfee5f7b363a2f8901ac03de78bda3a",
+      "target": "Lý Diệu chính là một cư dân thường trú của \"tòa thành ma\" này.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0008",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0008"
+      ],
+      "source": "他喜欢这里够清静，在家里进行法宝维修改造也不会吵到别人，离法宝坟墓又近，租金还便宜，简直一举多得。",
+      "source_hash": "a8079fe9d8b081790a3b35bdcb020351343254815c3df64cdb2bd437b8344183",
+      "target": "Cậu thích nơi đây vì sự yên tĩnh, tự mình sửa chữa và cải tạo pháp bảo tại nhà cũng không sợ làm phiền đến ai khác, lại gần nghĩa địa pháp bảo, tiền thuê lại rẻ, quả thực là một mũi tên trúng nhiều đích.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0009",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0009"
+      ],
+      "source": "他的家是一套五十多平米的套间，里外两间，外间吃喝拉撒，里面的卧室却改造成了法宝维修工作室。",
+      "source_hash": "0894c0f62544a5a0ceed3ba3a9f9fdd6098550e16c94e7acd092248423a234d7",
+      "target": "Căn nhà của cậu là một căn hộ rộng hơn năm mươi mét vuông, gồm hai phòng trong và ngoài. Phòng ngoài dùng để sinh hoạt ăn uống, phòng ngủ bên trong lại được cải tạo thành một phòng làm việc chuyên sửa chữa pháp bảo.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0010",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0010"
+      ],
+      "source": "一进房门，首先印入眼帘的是用绳子从天花板上垂挂下来的上百台晶脑，就像是上百个小小的骷髅头。",
+      "source_hash": "6e50fe67b8ead91b6c20da98fb0208988a3dcfa5a2b8c61e11f70faa45df8b5e",
+      "target": "Vừa bước vào cửa, thứ đập vào mắt đầu tiên là hơn trăm bộ tinh não treo lủng lẳng bằng dây thừng từ trên trần nhà xuống, trông giống như hơn trăm chiếc đầu lâu nhỏ bé.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0011",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0011"
+      ],
+      "source": "这些晶脑大部分都是数百年前的老古董，已经失去了运算能力，被李耀捡来当成收藏品——他是一个晶脑迷，对这种能够模仿修真者大脑来运算万千念头的法宝十分感兴趣。",
+      "source_hash": "526763d16f6177fbf645f7f1afa9de0d4760a9a52056c4e92e15dfd80b833239",
+      "target": "Hầu hết những bộ tinh não này đều là đồ cổ từ hàng trăm năm trước, đã mất đi năng lượng vận hành, được Lý Diệu nhặt về làm đồ sưu tập — cậu là một kẻ cuồng tinh não, vô cùng hứng thú với loại pháp bảo có khả năng mô phỏng bộ não của tu chân giả để tính toán vạn thiên niệm đầu này.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0012",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0012"
+      ],
+      "source": "不大的客厅到处都堆满了这个时代很罕见的实体书，从《法宝维修概要》、《初级飞剑炼制简明教程》、《一个炼器师的自我修养》到《黑山老妖级晶石战舰维修手册》、《轰爆一个星球的九十九种方法》，不少都是几百年前的古籍，灰灰黄黄，酥烂不堪。",
+      "source_hash": "35256018dd454f1469fed91d7ecf411558913252aa702727cf7580754ae5567a",
+      "target": "Trong phòng khách nhỏ hẹp chất đầy những cuốn sách giấy vật lý rất hiếm gặp ở thời đại này, từ 《Khái yếu sửa chữa pháp bảo》, 《Giáo trình sơ cấp giản yếu luyện chế phi kiếm》, 《Sự tự tu dưỡng của một luyện khí sư》 cho đến 《Sổ tay sửa chữa chiến hạm tinh thạch cấp Hắc Sơn Lão Yêu》, 《Chín mươi chín phương pháp nổ tung một hành tinh》. Rất nhiều trong số đó là những thư tịch cổ từ mấy trăm năm trước, trang giấy đã ngả sang màu vàng úa, mục nát tơi tả.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0013",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0013"
+      ],
+      "source": "在书籍和晶脑的包围下，是一块半旧不新的草垫，这就是李耀的饭桌、椅子和床了。",
+      "source_hash": "2f956dd1290d35060c1133235b6939e96d664dd6b9b6eaeac6e2e9e689cca605",
+      "target": "Được bao quanh bởi sách vở và tinh não là một tấm đệm rơm cũ kỹ, đây chính là bàn ăn, ghế ngồi kiêm luôn giường ngủ của Lý Diệu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0014",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0014"
+      ],
+      "source": "而里屋的法宝维修工作室里，堆满了他从垃圾场里捡来的奇珍异宝，寒光闪闪的飞剑、笔走龙蛇的符箓、异香扑鼻的丹药……",
+      "source_hash": "3f8befaf4f97e008f737cb642b84fcbebebf6edef5efdb2ce0d1f7535fe46a94",
+      "target": "Còn trong phòng làm việc sửa chữa pháp bảo ở gian trong lại chất đầy những kỳ trân dị bảo mà cậu nhặt được từ bãi rác: phi kiếm lạnh lẽo sắc lẹm, lá bùa với nét vẽ rồng bay phượng múa, đan dược tỏa hương thơm kỳ lạ...",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0015",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0015"
+      ],
+      "source": "更多的法宝，都被他拆卸成了最基本的元件，胡乱堆在角落里，化作几座微型垃圾山。",
+      "source_hash": "11c82ea2544b69a25b92680c4c6a491e82315c9a6b0e1f11a2d03239b98fd560",
+      "target": "Nhiều pháp bảo hơn thì bị cậu tháo rời thành những linh kiện cơ bản nhất, xếp đống lộn xộn trong góc phòng, hóa thành vài ngọn núi rác mini.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0016",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0016"
+      ],
+      "source": "此时，李耀正捧着一台银白色的匣形法宝，双眼闪闪发亮，就像是见了小白兔的大灰狼，嘴角差点没淌下一道口水。",
+      "source_hash": "919f5d78d2eeb56473b55d5260095189ffc8839384fbfc2b61c78bdaa71ed8b1",
+      "target": "Lúc này, Lý Diệu đang nâng trên tay một pháp bảo dạng hộp màu bạc, đôi mắt sáng rực như chó sói thấy thỏ con, khóe miệng suýt nữa thì chảy ra một dòng nước miếng.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0017",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0017"
+      ],
+      "source": "长着黑色羽翼的飞剑在他背后探头探脑，像是一条好奇的胖蛇。",
+      "source_hash": "525f86d6bb5631f76381786d8033da12c4f342b00fbcdce9b91e63eed85f2842",
+      "target": "Thanh phi kiếm có đôi cánh đen thò đầu ra từ phía sau cậu, tò mò như một con rắn mập mạp.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0018",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0018"
+      ],
+      "source": "“竟然是千幻宗推出的最新一代‘立体光幕仪’，市面售价两万多！如果能修好的话，怎么着也卖个万儿八千的，小黑，这次咱们发达了！”李耀忍不住吹了声口哨。",
+      "source_hash": "7572f593c70c0b8972bc5e21023603547cfbad6882bb8f75db8dc95e1be7d3e7",
+      "target": "\"Lại là 'Quang mạc nghi lập thể' thế hệ mới nhất do Thiên Huyễn Tông tung ra, giá bán ngoài thị trường hơn hai vạn tệ! Nếu sửa được thì kiểu gì cũng bán được bảy tám ngàn. Tiểu Hắc, lần này chúng ta phát tài rồi!\" Lý Diệu không nhịn được mà huýt sáo một tiếng.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0019",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0019"
+      ],
+      "source": "黑色飞剑“吱吱”作响，两片护翼上下翻飞，手舞足蹈，竟然流露出一丝和主人同样的“贪婪”味道。",
+      "source_hash": "05fb3fb8f20fa78127fa089086bc26724ea7696bedf69dcc03dd338d87b71f77",
+      "target": "Thanh phi kiếm đen phát ra tiếng \"két két\" khe khẽ, hai bên hộ cánh vỗ lên vỗ xuống như đang nhảy múa, lộ rõ vẻ \"tham lam\" y hệt chủ nhân của nó.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0020",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0020"
+      ],
+      "source": "李耀手一抖，指间出现七八支奇形怪状的维修工具，有些像是螺丝刀，有些像是小镊子，还有细细长长的银针和弯弯曲曲叫不出名字的工具。",
+      "source_hash": "778c648d0f2ee2bba780746dc220ba169cf02116e6812f47031c561d2243bbdf",
+      "target": "Lý Diệu lắc nhẹ cổ tay, giữa các kẽ ngón tay xuất hiện bảy tám dụng cụ sửa chữa có hình thù kỳ dị, cái thì giống tuốc nơ vít, cái thì giống nhíp nhỏ, còn có những cây ngân châm mảnh dài và những dụng cụ cong vẹo không gọi nổi tên.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0021",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0021"
+      ],
+      "source": "“小黑，你猜几秒？”",
+      "source_hash": "f13b75e518170f28b47bf89385df0875636d1caba13a0b801637e9a8a29c84ad",
+      "target": "\"Tiểu Hắc, mày đoán xem mất mấy giây?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0022",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0022"
+      ],
+      "source": "黑色飞剑“吱吱”讥笑了两声，用剑尖在虚空中比划了一个“50”。",
+      "source_hash": "52cb95725be24fd4f160ca8caf736b1cbf60780434612adebc051851eb3c04aa",
+      "target": "Thanh phi kiếm đen \"két két\" cười nhạo hai tiếng, dùng mũi kiếm vẽ lên không trung một con số \"50\".",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0023",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0023"
+      ],
+      "source": "“五十秒？小看我！”",
+      "source_hash": "934e795790a24319a703e0a8251dd73d5fdff057f7cf1c6523fb822224c1a054",
+      "target": "\"Năm mươi giây? Khinh thường ta quá đấy!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0024",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0024"
+      ],
+      "source": "眼皮阖上，深吸一口气，平静三秒钟，再睁眼时，眼中的贪婪和兴奋无影无踪，只剩下古井无波一般的清冷和满溢的自信。",
+      "source_hash": "2cef63580f2a7dd114441e219ce59cd59e3bb4b90118e6d0ffde5891d0898f66",
+      "target": "Khép hờ hai mắt, hít một hơi thật sâu để bình tâm trong ba giây, khi mở mắt ra lần nữa, vẻ tham lam và phấn khích trong mắt đã hoàn toàn biến mất, chỉ còn lại sự lạnh lùng tĩnh lặng như giếng cổ sâu thẳm cùng sự tự tin tràn đầy.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0025",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0025"
+      ],
+      "source": "李耀的双手骤然发动，十指化作十道流光，将银白法宝完全笼罩，开始还能依稀看到指尖运动的轨迹，到后来只能看到一团耀眼的白芒，白芒中传来“沙沙沙沙”的声响。",
+      "source_hash": "d8af718671c0c681221524487488edb70b30b47f48d10fab15d80116c2064f14",
+      "target": "Đôi tay của Lý Diệu đột ngột chuyển động, mười ngón tay hóa thành mười đạo lưu quang bao phủ hoàn toàn pháp bảo màu bạc kia. Lúc đầu còn có thể mơ hồ nhìn thấy quỹ đạo chuyển động của các đầu ngón tay, nhưng về sau chỉ còn thấy một quầng sáng trắng chói mắt, bên trong quầng sáng phát ra những âm thanh \"xoạt xoạt xoạt xoạt\" liên tục.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0026",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0026"
+      ],
+      "source": "半分钟之后，白芒一抖，“沙沙”声消失，上百道残影逐一回归本体，李耀的双手依旧放在最初的位置，连一分一毫都没有移动。",
+      "source_hash": "59dc81ef28928b720f17d8dc1ed62e09c76927c42df9b5a28a588c509a9c20f6",
+      "target": "Nửa phút sau, quầng sáng trắng khẽ rung lên, tiếng \"xoạt xoạt\" lập tức biến mất, hàng trăm tàn ảnh lần lượt quay về bản thể, đôi tay của Lý Diệu vẫn đặt ở vị trí ban đầu, không hề di chuyển dù chỉ một phân.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0027",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0027"
+      ],
+      "source": "而银白色的法宝“立体光幕仪”，已经被他拆卸成了四百二十五枚元件。",
+      "source_hash": "3edce35eca675451baf29683e7d73114930aad7d1d982b4a9add2b2b32dc9771",
+      "target": "Còn bộ pháp bảo \"quang mạc nghi lập thể\" màu bạc kia đã bị cậu tháo rời thành bốn trăm hai mươi lăm linh kiện.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0028",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0028"
+      ],
+      "source": "“三十九秒，搞定！”",
+      "source_hash": "96c1f2bd97fc883eefd0ac6146a2d5bb7059df19723f50df2ddda8c821e64036",
+      "target": "\"Ba mươi chín giây, giải quyết xong!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0029",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0029"
+      ],
+      "source": "李耀欢呼一声，冲黑色飞剑得意地挤了挤眼睛，聚精会神地研究起来。",
+      "source_hash": "f9f0044fae066f9b31f485e20fb57a75fccb850017a6a7f8347245b0e770c0da",
+      "target": "Lý Diệu reo lên một tiếng, nháy mắt đắc ý với thanh phi kiếm đen, rồi tập trung tinh thần vào nghiên cứu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0030",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0030"
+      ],
+      "source": "“啧啧，真不愧是‘千幻宗’炼制的最新型号光幕仪，结构精巧，灵力间的平衡有如浑然天成，最厉害的是这块主晶片，指甲盖大小的主晶片上居然镌刻着三百枚以上的灵符，互相牵引，组成了超过二十个符阵，简直是艺术品！”",
+      "source_hash": "e5af1fc39fd6f4eaa77a597fa4a4606b786938b8b1b54da42ca2a3f631291b13",
+      "target": "\"Chậc chậc, đúng là quang mạc nghi mẫu mới nhất do 'Thiên Huyễn Tông' luyện chế, cấu trúc tinh xảo, sự cân bằng giữa các luồng linh lực giống như đất trời tự nhiên tạo thành. Lợi hại nhất chính là miếng tinh phiến chủ này, miếng tinh phiến chủ chỉ to bằng móng tay này mà khắc tới hơn ba trăm đạo linh phù, dắt díu lẫn nhau, tạo thành hơn hai mươi phù trận, quả thực là một tác phẩm nghệ thuật!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0031",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0031"
+      ],
+      "source": "李耀手持放大镜，仔细观察着拆卸下来的主晶片，脸上充满了朝圣般的迷醉，看着看着，表情越来越凝重。",
+      "source_hash": "ddfdb1f831e17fa5e709e698ad55c7025bc9468335038d4899f72f77e6838a8e",
+      "target": "Lý Diệu cầm kính lúp, tỉ mỉ quan sát miếng tinh phiến chủ vừa tháo ra, gương mặt tràn ngập vẻ say mê như đang triều thánh, nhìn một lúc, thần sắc của cậu ngày càng ngưng trọng.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0032",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0032"
+      ],
+      "source": "“不对……不止是三百灵符，这枚主晶片似乎采用了晶体折叠技术，是把三枚晶片叠加在了一起，总共储存了上千道灵符，组成了上百道立体符阵，太不可思议了！”",
+      "source_hash": "6ab69c380422c2bfbedc106d4a21f85554f27c6c6b1e0d9e7fb69c380f82b0de",
+      "target": "\"Không đúng... không chỉ có ba trăm linh phù, miếng tinh phiến chủ này dường như áp dụng công nghệ xếp chồng tinh thể, xếp chồng ba miếng tinh phiến lại với nhau, tổng cộng lưu trữ hơn ngàn đạo linh phù, tạo thành hơn trăm phù trận lập thể, thật không thể tin nổi!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0033",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0033"
+      ],
+      "source": "越研究，越觉得博大精深，李耀完全沉迷进去，忘却了时间的流逝，足足钻研了三个多小时，也没能解析出哪怕一座完整的符阵，却把自己看得头昏眼花，眼前一阵阵发黑。",
+      "source_hash": "d3fa0b94c9bf21f561463840f5edd481fde8f0968f987467f60a6955884bc4c9",
+      "target": "Càng nghiên cứu, cậu càng thấy nó bác đại tinh thâm. Lý Diệu hoàn toàn chìm đắm vào trong đó, quên mất cả thời gian trôi qua, mải miết mày mò nghiên cứu suốt hơn ba tiếng đồng hồ vẫn không thể giải mã nổi dù chỉ một phù trận hoàn chỉnh, trái lại còn tự làm mình hoa mắt chóng mặt, trước mắt tối sầm từng trận.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0034",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0034"
+      ],
+      "source": "他现在最多只有“初级法宝维修员”的水准，距离“千幻宗”炼器大师的水平，实在差太远，太远。",
+      "source_hash": "4842c5c07dbe0c0689934560e29ae0c916291c3ee21d629fe4c44c8006b16daf",
+      "target": "Trình độ hiện tại của cậu tối đa cũng chỉ ở mức \"nhân viên sửa chữa pháp bảo sơ cấp\", khoảng cách tới trình độ của một luyện khí đại sư của \"Thiên Huyễn Tông\" còn quá xa, quá xa.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0035",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0035"
+      ],
+      "source": "如果是这枚“主晶片”出了问题，那他没有任何办法，只能把立体光幕仪当废品卖掉。",
+      "source_hash": "42438628423e8fe4fc90f7e982590ee68bb9926f36cbf25cdffac8865f264138",
+      "target": "Nếu miếng \"tinh phiến chủ\" này có vấn đề thì cậu cũng đành chịu trói tay, chỉ có nước đem quang mạc nghi lập thể này đi bán phế liệu.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0036",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0036"
+      ],
+      "source": "幸好，在用“储灵器”输入一道灵力之后，李耀发现主晶片的灵力运行流畅，灵路清晰，符阵稳定，并没有什么异常。",
+      "source_hash": "c2d8e2fa82920d75b56ce46421cec9865d44c6bf23d5a28e5d111c111570d105",
+      "target": "May mắn thay, sau khi dùng \"thiết bị trữ linh\" truyền vào một luồng linh lực, Lý Diệu phát hiện tinh phiến chủ vận hành linh lực trơn tru, đường truyền linh lộ rõ ràng, phù trận ổn định, không có bất kỳ điểm bất thường nào.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0037",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0037"
+      ],
+      "source": "仔细检查之下，发现问题是出在一枚最低级的晶路管上，是因为灵力异常波动导致晶路管烧坏了。",
+      "source_hash": "c4b4349c72b40ac071d670b327e7dec089a68f4d42cf25645b1b9698e7d2545a",
+      "target": "Sau khi kiểm tra kỹ lưỡng, cậu phát hiện vấn đề nằm ở một ống tinh lộ cấp thấp nhất, do linh lực biến động bất thường dẫn đến ống tinh lộ này bị cháy hỏng.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0038",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0038"
+      ],
+      "source": "这种晶路管是标准件，更换起来很方便，李耀很快从家里的存货中找到了一枚替代品。",
+      "source_hash": "e61e62b7bc595037f063014c62c73307b6ce08c112db04f462128ded55950bcf",
+      "target": "Loại ống tinh lộ này là linh kiện tiêu chuẩn, thay thế rất thuận tiện, Lý Diệu nhanh chóng tìm thấy một cái dự phòng từ trong đống linh kiện lưu trữ ở nhà.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0039",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0039"
+      ],
+      "source": "闭上眼睛，默默回想了一下刚才的拆卸过程，一张巨细无遗的结构图浮现在了脑海中，双手自然而然发动，一阵风卷残云，立体光幕仪重新组装完毕！",
+      "source_hash": "f1adc1016e6223e763f152df1a6c589cebc444938e224416ccf2d69ac541c581",
+      "target": "Nhắm mắt lại, cậu âm thầm hồi tưởng lại quá trình tháo lắp vừa rồi, một bản đồ cấu trúc chi tiết đến từng chi tiết nhỏ hiện lên rõ ràng trong tâm trí. Đôi tay cậu tự động chuyển động, nhanh như gió cuốn mây tan, chiếc quang mạc nghi lập thể đã được lắp ráp lại hoàn chỉnh!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0040",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0040"
+      ],
+      "source": "用储灵器输入一道灵能，洁白的外壳泛出幽幽的蓝芒，恍若一整块晶莹剔透的玉石，又似拥有生命的精灵。",
+      "source_hash": "cf8509f104fc013d67ed678668a238691251975dd50fe96706441bccb1750860",
+      "target": "Truyền một luồng linh năng vào qua thiết bị trữ linh, lớp vỏ màu trắng tuyết lập tức tỏa ra luồng ánh sáng xanh lam dịu nhẹ, trông giống như một khối ngọc thạch trong suốt lung linh, lại tựa như một tinh linh có sinh mệnh.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0041",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0041"
+      ],
+      "source": "而被蓝芒扫过前额，李耀的脑海深处自然而然浮现出了几十道控制符文。",
+      "source_hash": "d4e61111b2c4e66137a17de00efd982a1509ef40c9846be54bfc3fc4126a0d58",
+      "target": "Được luồng ánh sáng xanh lam quét qua trán, sâu trong tâm trí Lý Diệu tự khắc hiện lên hàng chục đạo bùa văn điều khiển.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0042",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0042"
+      ],
+      "source": "“光幕仪，开启！”李耀心中默念，脑海中一枚控制符文立刻闪亮。",
+      "source_hash": "e38c27dd7955fd51805f53e2958c4e594dbbb9826c9c16dd381d414073b7b967",
+      "target": "\"Quang mạc nghi, khởi động!\" Lý Diệu thầm niệm trong lòng, một bùa văn điều khiển trong não bộ lập tức phát sáng.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0043",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0043"
+      ],
+      "source": "光幕仪上的蓝芒汇聚成了一道“回”形符文，恍若漩涡，飞速旋转了两圈，从漩涡中央射出一道蓝色光束，在半空中凝结成了一张巨大的光幕，光幕闪动，显现出一名身穿八卦道袍的中年修真者形象，纤毫毕现，栩栩如生。",
+      "source_hash": "9e903acc9386bae3bd6611a4f7c6e273512053aab3ba6a4807da24ee92e7eab6",
+      "target": "Luồng ánh sáng xanh trên quang mạc nghi tụ lại thành một bùa văn hình chữ \"Hồi\", tựa như một vòng xoáy quay nhanh hai vòng, từ chính giữa vòng xoáy bắn ra một chùm tia sáng xanh lam, ngưng tụ thành một bức màn ánh sáng khổng lồ giữa không trung. Bức màn ánh sáng rung động, hiển hiện hình ảnh một tu chân giả trung niên mặc bát quái đạo bào, rõ ràng đến từng sợi tóc, sống động như thật.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0044",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0044"
+      ],
+      "source": "这名修真者背后是一块更加巨大的光幕，光幕上交织着红色和绿色的符文、数字、箭头，不断跳动变幻。",
+      "source_hash": "5204c8b2989490d025a8175c5a8459becf5a95d0afe2bc3484c1094dac163c34",
+      "target": "Phía sau vị tu chân giả này là một quang mạc còn lớn hơn nữa, trên đó đan xen vô số bùa văn, con số, mũi tên màu đỏ và màu xanh lá cây liên tục nhảy múa biến đổi.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0045",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0045"
+      ],
+      "source": "中年修真者面无表情，古井无波地说道：“下面继续为各位播送财经新闻，以下是股市行情综述——今天最大的新闻无疑是‘无影剑派’宣布最新一代飞剑驱动符阵‘紫电’问世，据称在应用了‘紫电’之后，飞剑的最高速度可以提升百分之九，瞬间破坏力提升百分之十一，而消耗的灵力则可以下降百分之五，对飞剑的综合性能提升十分明显。”",
+      "source_hash": "d404c1ff144ec71c7fdf3877f2f812e08a85ebe3534563555d1d180049cc7e77",
+      "target": "Tu chân giả trung niên sắc mặt không chút biểu cảm, giọng nói bình thản đều đều: \"Sau đây xin tiếp tục phát sóng tin tức tài chính, dưới đây là tổng hợp tình hình thị trường chứng khoán — Tin tức lớn nhất ngày hôm nay chắc chắn là việc 'Vô Ảnh Kiếm Phái' công bố phù trận truyền động phi kiếm thế hệ mới nhất mang tên 'Tử Điện' chính thức trình làng. Theo nguồn tin, sau khi ứng dụng 'Tử Điện', tốc độ tối đa của phi kiếm có thể nâng cao 9%, sức phá hoại tức thời tăng 11%, trong khi đó lượng linh lực tiêu hao lại giảm được 5%, giúp nâng cao rõ rệt tính năng tổng hợp của phi kiếm.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0046",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0046"
+      ],
+      "source": "“受此利好影响，无影剑派的股价一路上扬，十点前就接近涨停并一路保持到收盘。”",
+      "source_hash": "c91c65d8d02a0fd6789577221f0d9f709ae5ab9759154158105986f03f3fc26b",
+      "target": "\"Chịu ảnh hưởng từ thông tin tích cực này, cổ phiếu của Vô Ảnh Kiếm Phái liên tục tăng vọt, chạm mức trần trước mười giờ sáng và giữ nguyên cho đến giờ đóng cửa.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0047",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0047"
+      ],
+      "source": "“而整个剑修板块，包括巨剑门、极北剑宗、南海剑派在内的二十二家宗门，股价也一路飘红，截至收盘，剑修板块整体上涨5.42个百分点。”",
+      "source_hash": "4f2dbe015051bfcec3c3ddaaa75472d3cc27e4b503f9f949ac1c24b2f76eadbe",
+      "target": "\"Trong khi đó, toàn bộ nhóm cổ phiếu kiếm tu, bao gồm cả hai mươi hai tông môn như Cự Kiếm Môn, Cực Bắc Kiếm Tông, Nam Hải Kiếm Phái cũng đồng loạt tăng điểm mạnh mẽ. Tính đến giờ đóng cửa, nhóm kiếm tu tăng chung cuộc 5.42%.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0048",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0048"
+      ],
+      "source": "“而另一方面，偏重防御的‘金甲宗’等宗派股价则一路下挫，分析人士普遍认为，随着‘紫电’等新符阵接连问世，飞剑技术将产生革命性的飞跃，当前主流的战甲根本无法防御住最新型号的飞剑攻击，截至收盘，金甲宗股价下跌超过8%。”",
+      "source_hash": "8bf8dfb6fe41433d2b95b96c8955f440c021fea7fb2c24bbb156690f4b6719ea",
+      "target": "\"Ở chiều ngược lại, các tông phái thiên về phòng ngự như 'Kim Giáp Tông' cổ phiếu lại liên tục sụt giảm. Giới phân tích nhận định rộng rãi rằng cùng với sự ra đời liên tiếp của các phù trận mới như 'Tử Điện', công nghệ phi kiếm sẽ tạo nên một bước nhảy vọt mang tính cách mạng, các chiến giáp phổ thông hiện tại căn bản không thể phòng ngự nổi đòn tấn công của phi kiếm thế hệ mới nhất. Tính đến giờ đóng cửa, cổ phiếu của Kim Giáp Tông sụt giảm hơn 8%.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0049",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0049"
+      ],
+      "source": "“金甲宗在收盘后召开了临时新闻发布会，金甲宗新闻发言人黑岩长老宣布最新一代‘星击盾’战甲的研发已经取得了突破性进展，原型机将在年内问世，绝对能防御住一切飞剑的攻击。”",
+      "source_hash": "680b41c0b9a049c5cb96bd9b79440580a055c5edfdd609923b77e8d0e0f9cedd",
+      "target": "\"Kim Giáp Tông đã tổ chức một cuộc họp báo khẩn cấp ngay sau giờ đóng cửa. Phát ngôn viên của Kim Giáp Tông là Hắc Nham trưởng lão tuyên bố việc nghiên cứu phát triển chiến giáp thế hệ mới 'Tinh Kích Thuẫn' đã đạt được bước tiến mang tính đột phá, mẫu thử nghiệm sẽ ra mắt trong năm nay, tuyệt đối có thể phòng ngự được mọi đòn tấn công từ phi kiếm.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0050",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0050"
+      ],
+      "source": "“而在联邦北方的草原区，黑线虫疫灾持续蔓延，已经扩散到了多个驭兽宗派的灵兽养殖基地，受灾灵兽超过五十万头，罕见的灾情使得御兽板块的股价持续低位运行，多个驭兽宗派股价跌破三年最低线。”",
+      "source_hash": "84b3631b2e48ffe43face79a23878435058c363d1d05c62e754de021db72ff73",
+      "target": "\"Còn tại khu vực thảo nguyên phía bắc Liên bang, dịch bệnh sâu đen tiếp tục lan rộng, đã lan tới căn cứ nuôi dưỡng linh thú của nhiều tông phái ngự thú, số lượng linh thú bị ảnh hưởng vượt quá năm mươi vạn con. Tình hình thiên tai hiếm gặp này khiến cổ phiếu nhóm ngự thú liên tục duy trì ở mức thấp, nhiều tông phái ngự thú có giá cổ phiếu chạm đáy thấp nhất trong vòng ba năm.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0051",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0051"
+      ],
+      "source": "“好，下面有请著名股评家天星子为大家进行个股点评。”",
+      "source_hash": "255f4a94e91e84983a475e2fd8780c4ca68fa73ba0bed8e35039e87469c47909",
+      "target": "\"Vâng, tiếp sau đây xin kính mời nhà bình luận chứng khoán nổi tiếng Thiên Tinh Tử tiến hành phân tích chi tiết từng mã cổ phiếu cho quý vị.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0052",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0052"
+      ],
+      "source": "“……”",
+      "source_hash": "88a05083e7db0d30e339c6483c42cc8e1feb4872e2953f93bdd4b03dcd86a65d",
+      "target": "\"...\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0053",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0053"
+      ],
+      "source": "李耀看了半天，发现画面稳定，声音清晰，也没有雪花和斑纹，特别是立体感极强，令人有身临其境之感，应该是修好了。",
+      "source_hash": "e9545d4b62411d9eb2ddb8b050a2abba68d84d4f786493089dfda084ef81d73e",
+      "target": "Lý Diệu theo dõi một lúc lâu, nhận thấy hình ảnh ổn định, âm thanh rõ ràng, không hề có hiện tượng nhiễu sóng hay sọc màn hình, đặc biệt là hiệu ứng lập thể cực mạnh, mang lại cảm giác vô cùng chân thực, có vẻ như đã được sửa tốt rồi.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0054",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0054"
+      ],
+      "source": "想了想，脑域中再次冥想：“切换到娱乐频道。”",
+      "source_hash": "92c3dc2d6c6fb8f9e8fa66a17087beef5a13a3b0b8cb5c829e5ab7f1dc2f4ca7",
+      "target": "Nghĩ ngợi một lát, trong não vực của cậu lại bắt đầu minh tưởng: \"Chuyển sang kênh giải trí.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0055",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0055"
+      ],
+      "source": "蓝芒一闪，中年修真者和红绿光幕瞬间消失，取而代之的是一座热火朝天的体育场。",
+      "source_hash": "c488c88faffa52e0fde3538c4819de961c0fbd52cf543bc8b965bdcd3a969cc3",
+      "target": "Ánh sáng xanh lam lóe lên, tu chân giả trung niên và màn hình đỏ xanh lập tức biến mất, thay vào đó là một sân vận động đang vô cùng náo nhiệt.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0056",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0056"
+      ],
+      "source": "可以容纳十万人的大体育场座无虚席，人声嘈杂，沸反盈天，在七彩斑斓的光芒闪耀之下，十万名热血沸腾的少男少女高举双手，共同呐喊着一个名字：",
+      "source_hash": "c7ae560315cab7dc1431d0b478ba2a524b2fafcadfca1c401dedebad30254ec6",
+      "target": "Sân vận động khổng lồ có sức chứa mười vạn người không còn một chỗ trống, tiếng người ồn ào náo nhiệt, vang dội thấu trời. Dưới ánh đèn bảy sắc cầu vồng lấp lánh, mười vạn thiếu nam thiếu nữ nhiệt huyết sôi trào đồng loạt giơ cao hai tay, cùng hô vang một cái tên:",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0057",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0057"
+      ],
+      "source": "“陆音希！”",
+      "source_hash": "dd10b082dbb820f6af78b6d1593e7f293fe4a67a8e7f81ec387c993fa097da74",
+      "target": "\"Lục Âm Hi!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0058",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0058"
+      ],
+      "source": "“陆音希！”",
+      "source_hash": "dd10b082dbb820f6af78b6d1593e7f293fe4a67a8e7f81ec387c993fa097da74",
+      "target": "\"Lục Âm Hi!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0059",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0059"
+      ],
+      "source": "“陆音希！”",
+      "source_hash": "dd10b082dbb820f6af78b6d1593e7f293fe4a67a8e7f81ec387c993fa097da74",
+      "target": "\"Lục Âm Hi!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0060",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0060"
+      ],
+      "source": "三层楼高的主舞台上，犬牙交错，矗立着几十根尖锐的水晶，当少男少女的欢呼声汇聚到极致时，最粗壮的一枚水晶忽然爆裂，一名容貌清冷似雪，眼神却炙热如岩浆的白衣少女从水晶中蹦了出来，她的腰间斜挎着一具恍若水晶堆砌而成的古琴，纤纤素手扫过琴弦，轰出的却是金戈铁马的铮铮魔音！",
+      "source_hash": "b43e9a85b7f1a158712fa87c21b3e0c887fc6c33805b7f4c03b251cfb6869556",
+      "target": "Trên sân khấu chính cao bằng tòa nhà ba tầng, các khối tinh thể thủy tinh sắc nhọn dựng đứng đan xen nhau. Khi tiếng reo hò của các thiếu nam thiếu nữ tụ lại đến đỉnh điểm, một khối thủy tinh thô to nhất đột nhiên nổ tung, một thiếu nữ mặc y phục trắng muốt với dung nhan thanh lãnh như tuyết nhưng ánh mắt lại rực cháy như dung nham từ trong tinh thể nhảy vọt ra. Bên hông cô đeo chéo một cây cổ cầm trông giống như được tạc từ thủy tinh, bàn tay thon thả lướt qua dây cầm, tấu lên những âm thanh ma mị mang khí thế kim qua thiết mã cuồn cuộn trào dâng!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0061",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0061"
+      ],
+      "source": "“心中有梦就要狂妄去飞，星河彼岸才是我们的方向！这是属于我们的，修！真！新！世！纪！”",
+      "source_hash": "2f3736a384c70b9cee406ecc2e2600f64d97edb7ea392f00956fc7bd47029650",
+      "target": "\"Trong lòng có mơ ước thì hãy ngông cuồng mà bay, bờ kia dải ngân hà mới là phương hướng của chúng ta! Đây chính là kỷ nguyên mới của chúng ta, Kỷ! Nguyên! Tu! Chân!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0062",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0062"
+      ],
+      "source": "和所有少男少女一样，李耀的血也开始沸腾。",
+      "source_hash": "d61fc9142de75652fa40c5230918813f278363212a93e4c1b9f69d22589b263d",
+      "target": "Giống như bao thiếu nam thiếu nữ khác, máu trong người Lý Diệu cũng bắt đầu sôi trào.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0063",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0063"
+      ],
+      "source": "舞台上热力四射的少女“陆音希”，是这两年刚刚崛起的偶像派女歌手，一出道就以冰冷的造型和劲爆的演唱风格吸引了大批青少年，成名曲《修真40000年》在短短半年之内风靡整个联邦，无数青少年正是在这首歌的激励下走上了修真之路。",
+      "source_hash": "69ef0802f2f5fb999336c17555c0f1de32b572ee994ef96af442872110141715",
+      "target": "Thiếu nữ tỏa sáng rực rỡ trên sân khấu \"Lục Âm Hi\" là nữ ca sĩ thần tượng vừa mới nổi lên trong hai năm gần đây. Vừa ra mắt cô đã thu hút một lượng lớn thanh thiếu niên bằng tạo hình lạnh lùng cùng phong cách biểu diễn bùng nổ, ca khúc thành danh 《Tu Chân 40000 Năm》 chỉ trong vòng nửa năm đã càn quét khắp Liên bang, thúc đẩy vô số thiếu niên bước lên con đường tu chân.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0064",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0064"
+      ],
+      "source": "李耀也是她的歌迷，不过理由和别人不同，他喜欢陆音希，是因为大家的身世相同。",
+      "source_hash": "9a7b971e337f4692603d6ac76341fe89db2bbe3bb0ab9b48636289ca21f780dc",
+      "target": "Lý Diệu cũng là người hâm mộ của cô, nhưng lý do thì không giống những người khác. Cậu thích Lục Âm Hi là bởi vì cả hai có chung một hoàn cảnh thân thế.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0065",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0065"
+      ],
+      "source": "都是孤儿。",
+      "source_hash": "22c1a73625cdad0d49cc25dde37a64e024e5b5e3bd5626689af5bb21637079f4",
+      "target": "Đều là trẻ mồ côi.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0066",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0066"
+      ],
+      "source": "李耀出生在第二十三号特种垃圾处理场，从有记忆以来，天空一直是灰黄的。",
+      "source_hash": "9b9d91c1ace0c28d52d7653dce778bc6d412cb8d51ce8d4792d6e2c0768250c2",
+      "target": "Lý Diệu sinh ra ở Bãi xử lý rác thải đặc chủng số 23, từ khi bắt đầu có ký ức, bầu trời nơi đây luôn là một màu xám xịt vàng úa.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0067",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0067"
+      ],
+      "source": "吃的是垃圾堆里的腐肉，喝的是受污染的臭水，依靠野兽般的本能以及记忆深处的一点“秘密”艰难求存，从最开始受尽欺凌到十几年后成为法宝坟墓中最危险的“秃鹫”。",
+      "source_hash": "d203eb07dfe00148c1f643f6997e62d5e17e7aff2c4335ceaaf0190ae885b8ca",
+      "target": "Ăn thịt thối trong đống rác, uống nước bẩn bị ô nhiễm, dựa vào bản năng như dã thú cùng một chút \"bí mật\" sâu trong ký ức để chật vật sinh tồn, từ chỗ bị bắt nạt đủ đường lúc ban đầu, mười mấy năm sau đã trở thành con \"Thốc Thứu\" nguy hiểm nhất ở nghĩa địa pháp bảo.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0068",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0068"
+      ],
+      "source": "如果不是“老爹”的出现，李耀可能会在垃圾场里一直厮混，成为又一个“肥龙”或者“野狼”。",
+      "source_hash": "247a18a9bc9c1cedb0a8cacc18e2892aeca2550bc6d36e8318dad38ad2fc0aa3",
+      "target": "Nếu không có sự xuất hiện của \"Lão cha\", Lý Diệu có lẽ vẫn sẽ tiếp tục lăn lộn trong bãi rác này, trở thành một \"Phì Long\" hay \"Dã Lang\" tiếp theo.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0069",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0069"
+      ],
+      "source": "可是在六年前的一天，一艘垃圾船把老爹混杂在几十吨垃圾里一起丢了下来，而李耀又动了恻隐之心，把伤痕累累的老爹拖回了家。",
+      "source_hash": "f52bb4fbac4579417e3d7a083bed1cac3515da16530b7b8afa5c0e910d178d86",
+      "target": "Nhưng vào một ngày của sáu năm trước, một chiếc thuyền chở rác đã trút Lão cha xuống cùng với hàng chục tấn rác thải khác, và Lý Diệu đã nổi lòng trắc ẩn, kéo tấm thân đầy thương tích của Lão cha về nhà.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0070",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0070"
+      ],
+      "source": "从此，他的命运就完全改变了。",
+      "source_hash": "bdb6d7682ca61d772f0c7b4eb046515aea3434f7041913fdd83f5f91d3fcbb7e",
+      "target": "Từ đó, vận mệnh của cậu đã hoàn toàn thay đổi.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0071",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0071"
+      ],
+      "source": "老爹从来不谈他的来历，李耀只知道他肯定是一名非常厉害的法宝改装高手，短短五年时间里，老爹教会了李耀上万种稀奇古怪的法宝改造技术，也教他各种基础学科的知识，还花钱供他上了城里的私立高中，使他融入到了正常社会里。",
+      "source_hash": "767b0089b6cf7518c106b02f9fd5998fda1c7f225c483de6183e4ce63060225a",
+      "target": "Lão cha chưa bao giờ nhắc về lai lịch của mình, Lý Diệu chỉ biết ông chắc chắn là một cao thủ cải tạo pháp bảo vô cùng lợi hại. Chỉ trong vòng năm năm ngắn ngủi, Lão cha đã truyền dạy cho Lý Diệu hàng vạn kỹ thuật cải tạo pháp bảo kỳ lạ, cũng dạy cậu kiến thức của các môn học cơ bản, còn bỏ tiền cho cậu theo học tại một trường trung học tư thục trong thành phố, giúp cậu hòa nhập vào xã hội bình thường.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0072",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0072"
+      ],
+      "source": "一年前，老爹旧伤发作去世，留给李耀的是一柄名叫“黑翼”的神秘飞剑，据说是他研究了大半辈子都没研究出个道道的古怪家伙，还有一段话：",
+      "source_hash": "0dcb765485d1542884a08f1a9db057403e2a3a650bd7ab7144be3779a7062ba7",
+      "target": "Một năm trước, vết thương cũ của Lão cha tái phát khiến ông qua đời, thứ ông để lại cho Lý Diệu là một thanh phi kiếm thần bí tên là \"Hắc Dực\" — nghe nói là thứ cổ quái mà ông nghiên cứu cả nửa đời người vẫn không ra đầu đuôi, cùng với một lời nhắn gửi:",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0073",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0073"
+      ],
+      "source": "“小耀，老爹我这辈子去过几十个大千世界，见识过上万个法宝改装高手和炼器大师，而你的天分，是最高的！”",
+      "source_hash": "224103c80f1a44d0f5ccdcb971fb8dddf52494073152ffd2b641a3015ddb3784",
+      "target": "\"Tiểu Diệu, Lão cha ta cả đời này đã đi qua hàng chục đại thiên thế giới, từng thấy qua hàng vạn cao thủ cải tạo pháp bảo và luyện khí đại sư, nhưng thiên phú của con mới là cao nhất!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0074",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0074"
+      ],
+      "source": "“以区区凡人的双手，就能维修低阶法宝，你，真的很厉害。”",
+      "source_hash": "541518982ecde15fd3eda7c7396a7ac0c0c9ff548fd5d5eb73449253216abe49",
+      "target": "\"Chỉ bằng đôi tay của một phàm nhân mà có thể sửa chữa được pháp bảo cấp thấp, con quả thực rất lợi hại.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0075",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0075"
+      ],
+      "source": "“但光靠天分是不够的！光靠天分，你永远只能维修低阶法宝，民用法宝！”",
+      "source_hash": "e10ec34b0ccc97da9c909523424ddbdf7c9890bfeca770ecddc7c4b8f14ffdba",
+      "target": "\"Nhưng chỉ dựa vào thiên phú thôi là chưa đủ! Chỉ dựa vào thiên phú, con vĩnh viễn chỉ có thể sửa chữa pháp bảo cấp thấp, pháp bảo dân dụng!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0076",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0076"
+      ],
+      "source": "“答应老爹，好好念书，争取考上大学，成为修真者！只有成为修真者，你才有可能在法宝维修上更进一步，甚至有朝一日……”",
+      "source_hash": "58b80c0a7f7fa03dca543abeda00828e774536acbf6a81694dfecb034676382b",
+      "target": "\"Hứa với Lão cha, hãy học hành chăm chỉ, cố gắng thi đỗ đại học để trở thành tu chân giả! Chỉ có trở thành tu chân giả, con mới có thể tiến xa hơn trên con đường sửa chữa pháp bảo, thậm chí có một ngày...\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0077",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0077"
+      ],
+      "source": "“成为真正的炼器大师！”",
+      "source_hash": "35393a66c784a4979427b56a280a7eaa9696a2e667f770694d4c9d8d3848f735",
+      "target": "\"Trở thành một luyện khí đại sư thực thụ!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0078",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0078"
+      ],
+      "source": "老爹说这句话时，双目圆睁，眼中精光绽放，气势无穷的场景，李耀记忆犹新。",
+      "source_hash": "0298ac60a40340e5a043dda32b9d7e8222b8e509cf74409d85b6bddfa03839e3",
+      "target": "Khi Lão cha nói câu này, đôi mắt ông trợn trừng, ánh tinh quang bắn ra bốn phía, khí thế vô biên làm Lý Diệu khắc sâu vào tận xương tủy.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0079",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0079"
+      ],
+      "source": "炼器大师啊……那可是修真者圈子里，最受尊崇的职业之一。",
+      "source_hash": "7ff95730f9f3a9ff1750d5c7b0bbfe2053aba0d07a1b79573f8aa4d003c83f00",
+      "target": "Luyện khí đại sư... đó chính là một trong những nghề nghiệp được tôn sùng nhất trong giới tu chân.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0080",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0080"
+      ],
+      "source": "他不知道自己是否会让老爹失望。",
+      "source_hash": "a45159b7930cf71ee24f753513b8fe7bafcd2658b3c3681848be7ddf43f0a11b",
+      "target": "Cậu không biết liệu mình có làm Lão cha thất vọng hay không.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0081",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0081"
+      ],
+      "source": "黑翼剑默默陪在他身旁，听着光幕仪中少女如火山爆发般的演唱，两片护翼还随着劲歌热舞不断扭动。",
+      "source_hash": "6bdc9c5cabc5807fffceaad533d1907dc9639e42c1dd7cb6dd334b2457d50eb1",
+      "target": "Thanh Hắc Dực Kiếm lặng lẽ ở bên cạnh cậu, lắng nghe giọng hát bùng nổ như núi lửa phun trào của thiếu nữ trong quang mạc nghi, hai cánh hộ thủ của nó còn không ngừng lắc lư theo điệu nhạc sôi động.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0082",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0082"
+      ],
+      "source": "过了很久，少年的眼神明亮起来，嘴角重新勾起一抹满不在乎的笑意。",
+      "source_hash": "11bcd112ea763d4ab69ce02f938759fec37238b16249c89a03b097b365d00534",
+      "target": "Một lúc lâu sau, ánh mắt của thiếu niên sáng rực lên, khóe miệng lại nhếch lên nụ cười đầy ngạo nghễ.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0083",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0083"
+      ],
+      "source": "“想那么多干什么？不管三七二十一，拼就是了！”",
+      "source_hash": "6d16704f96a9bae82e6ec7dfa00fd609837566f8d1cbdd7ebbcd5e9a9f292147",
+      "target": "\"Nghĩ nhiều như vậy làm gì? Bất chấp tất cả, cứ liều mạng là được!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0084",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0084"
+      ],
+      "source": "“陆音希可以从一个小孤女，成为联邦最火爆的女歌星，我为什么不能从一条小小的垃圾虫，变成真正的炼器大师？”",
+      "source_hash": "76ca418665a860b060fe933007b2950372d3222dc5833c348fca3aa908f1031b",
+      "target": "\"Lục Âm Hi có thể từ một đứa trẻ mồ côi trở thành nữ ca sĩ nổi tiếng nhất Liên bang, tại sao ta lại không thể từ một con trùng rác nhỏ bé trở thành luyện khí đại sư thực thụ?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0085",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0085"
+      ],
+      "source": "少年想起了在很久很久以前，很远很远的地方，听过的一句话：",
+      "source_hash": "a09cb079846e3f03cee31488456c4fc28de3664e80ff57aa947fa741d72539aa",
+      "target": "Thiếu niên chợt nhớ tới một câu nói cậu từng nghe được ở một nơi rất xa, từ rất lâu trước đây:",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0002:align_0086",
+      "chapter_id": "chapter_0002",
+      "segment_ids": [
+        "chapter_0002:seg_0086"
+      ],
+      "source": "“梦想总是要有的，万一实现了呢？”",
+      "source_hash": "e26d9b52975736e542f7cdb38caab303c11cb6906e334cc46d2cc28e306d1a75",
+      "target": "\"Ước mơ thì vẫn nên có, nhỡ đâu hiện thực hóa thì sao?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    }
+  ],
+  "term_occurrences": [
+    {
+      "chapter_id": "chapter_0002",
+      "source_term": "特种垃圾处理场",
+      "target_term": "Bãi xử lý rác thải đặc chủng",
+      "segment_id": "chapter_0002:seg_0003",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "source_term": "法宝坟墓",
+      "target_term": "Nghĩa địa Pháp Bảo",
+      "segment_id": "chapter_0002:seg_0005",
+      "present_in_target": false,
+      "is_locked": false,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "source_term": "浮戈城",
+      "target_term": "Phù Qua Thành",
+      "segment_id": "chapter_0002:seg_0004",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "source_term": "晶脑",
+      "target_term": "Tinh não",
+      "segment_id": "chapter_0002:seg_0010",
+      "present_in_target": false,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "source_term": "小黑",
+      "target_term": "Tiểu Hắc",
+      "segment_id": "chapter_0002:seg_0018",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "source_term": "朝阳新村",
+      "target_term": "Triêu Dương Tân Thôn",
+      "segment_id": "chapter_0002:seg_0003",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "source_term": "光幕仪",
+      "target_term": "Quang mạc nghi",
+      "segment_id": "chapter_0002:seg_0001",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "source_term": "立体光幕仪",
+      "target_term": "Quang mạc nghi lập thể",
+      "segment_id": "chapter_0002:seg_0018",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "source_term": "千幻宗",
+      "target_term": "Thiên Huyễn Tông",
+      "segment_id": "chapter_0002:seg_0018",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "source_term": "无影剑派",
+      "target_term": "Vô Ảnh Kiếm Phái",
+      "segment_id": "chapter_0002:seg_0045",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "source_term": "巨剑门",
+      "target_term": "Cự Kiếm Môn",
+      "segment_id": "chapter_0002:seg_0047",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "source_term": "极北剑宗",
+      "target_term": "Cực Bắc Kiếm Tông",
+      "segment_id": "chapter_0002:seg_0047",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "source_term": "南海剑派",
+      "target_term": "Nam Hải Kiếm Phái",
+      "segment_id": "chapter_0002:seg_0047",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "source_term": "金甲宗",
+      "target_term": "Kim Giáp Tông",
+      "segment_id": "chapter_0002:seg_0048",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "source_term": "星击盾",
+      "target_term": "Tinh Kích Thuẫn",
+      "segment_id": "chapter_0002:seg_0049",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "source_term": "天星子",
+      "target_term": "Thiên Tinh Tử",
+      "segment_id": "chapter_0002:seg_0051",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "source_term": "陆音希",
+      "target_term": "Lục Âm Hi",
+      "segment_id": "chapter_0002:seg_0057",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "source_term": "老爹",
+      "target_term": "Lão cha",
+      "segment_id": "chapter_0002:seg_0068",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "source_term": "黑翼",
+      "target_term": "Hắc Dực",
+      "segment_id": "chapter_0002:seg_0072",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "source_term": "炼器师",
+      "target_term": "luyện khí sư",
+      "segment_id": "chapter_0002:seg_0012",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "job",
+      "confidence": 1.0
+    }
+  ],
+  "entity_mentions": [
+    {
+      "chapter_id": "chapter_0002",
+      "source_surface": "李耀",
+      "target_surface": "Lý Diệu",
+      "entity_type": "person",
+      "segment_id": "chapter_0002:seg_0007",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "source_surface": "肥龙",
+      "target_surface": "Phì Long",
+      "entity_type": "person",
+      "segment_id": "chapter_0002:seg_0068",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "source_surface": "天星子",
+      "target_surface": "Thiên Tinh Tử",
+      "entity_type": "person",
+      "segment_id": "chapter_0002:seg_0051",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "source_surface": "陆音希",
+      "target_surface": "Lục Âm Hi",
+      "entity_type": "person",
+      "segment_id": "chapter_0002:seg_0057",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "source_surface": "老爹",
+      "target_surface": "Lão cha",
+      "entity_type": "person",
+      "segment_id": "chapter_0002:seg_0068",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "source_surface": "小黑",
+      "target_surface": "Tiểu Hắc",
+      "entity_type": "weapons",
+      "segment_id": "chapter_0002:seg_0018",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "source_surface": "法宝坟墓",
+      "target_surface": "Nghĩa địa Pháp Bảo",
+      "entity_type": "locations",
+      "segment_id": "chapter_0002:seg_0005",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "source_surface": "浮戈城",
+      "target_surface": "Phù Qua Thành",
+      "entity_type": "locations",
+      "segment_id": "chapter_0002:seg_0004",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "source_surface": "朝阳新村",
+      "target_surface": "Triêu Dương Tân Thôn",
+      "entity_type": "locations",
+      "segment_id": "chapter_0002:seg_0003",
+      "confidence": 1.0
+    }
+  ],
+  "name_analysis": {
+    "status": "ok",
+    "evidence_count": 5,
+    "name_mentions": [
+      {
+        "chapter_id": "chapter_0002",
+        "name_source": "李耀",
+        "name_target": "Lý Diệu",
+        "segment_id": "chapter_0002:seg_0007",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0002",
+        "name_source": "肥龙",
+        "name_target": "Phì Long",
+        "segment_id": "chapter_0002:seg_0068",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0002",
+        "name_source": "天星子",
+        "name_target": "Thiên Tinh Tử",
+        "segment_id": "chapter_0002:seg_0051",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0002",
+        "name_source": "陆音希",
+        "name_target": "Lục Âm Hi",
+        "segment_id": "chapter_0002:seg_0057",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0002",
+        "name_source": "老爹",
+        "name_target": "Lão cha",
+        "segment_id": "chapter_0002:seg_0068",
+        "present_in_target": true,
+        "confidence": 1.0
+      }
+    ],
+    "name_entries": [
+      {
+        "name_source": "李耀",
+        "name_target": "Lý Diệu"
+      },
+      {
+        "name_source": "肥龙",
+        "name_target": "Phì Long"
+      },
+      {
+        "name_source": "天星子",
+        "name_target": "Thiên Tinh Tử"
+      },
+      {
+        "name_source": "陆音希",
+        "name_target": "Lục Âm Hi"
+      },
+      {
+        "name_source": "老爹",
+        "name_target": "Lão cha"
+      }
+    ],
+    "transliteration_units": [],
+    "inferred_name_rules": [],
+    "ambiguity_cases": [],
+    "reusable_name_profile": {
+      "mapping_count": 5,
+      "has_ambiguity": false
+    }
+  },
   "phrase_patterns": [],
   "grammar_rule_candidates": [],
+  "analyzer_reports": {
+    "term_occurrences": {
+      "status": "ok",
+      "evidence_count": 20
+    },
+    "entity_mentions": {
+      "status": "ok",
+      "evidence_count": 9
+    },
+    "name_mentions": {
+      "status": "ok",
+      "evidence_count": 5
+    },
+    "phrase_patterns": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    },
+    "grammar_rule_candidates": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    }
+  },
+  "review_queue": [
+    {
+      "chapter_id": "chapter_0002",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "陆音希",
+        "entity_type": "person",
+        "count": 4,
+        "confidence": 0.82,
+        "evidence": [
+          "喊着一个名字：\n\n“陆音希！”\n\n“陆音希！”",
+          "\n“陆音希！”\n\n“陆音希！”\n\n“陆音希！”",
+          "\n“陆音希！”\n\n“陆音希！”\n\n三层楼高的主"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "符文",
+        "entity_type": "person",
+        "count": 3,
+        "confidence": 0.7,
+        "evidence": [
+          "然浮现出了几十道控制符文。\n\n“光幕仪，开启",
+          "汇聚成了一道“回”形符文，恍若漩涡，飞速旋转",
+          "上交织着红色和绿色的符文、数字、箭头，不断跳"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "符阵",
+        "entity_type": "person",
+        "count": 3,
+        "confidence": 0.7,
+        "evidence": [
+          "引，组成了超过二十个符阵，简直是艺术品！”\n",
+          "符，组成了上百道立体符阵，太不可思议了！”\n",
+          "解析出哪怕一座完整的符阵，却把自己看得头昏眼"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "元件",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "被他拆卸成了最基本的元件，胡乱堆在角落里，化",
+          "拆卸成了四百二十五枚元件。\n\n“三十九秒，搞"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "双手",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "血沸腾的少男少女高举双手，共同呐喊着一个名字",
+          "”\n\n“以区区凡人的双手，就能维修低阶法宝，"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "千幻宗",
+        "entity_type": "organization",
+        "count": 2,
+        "confidence": 0.78,
+        "evidence": [
+          "的胖蛇。\n\n“竟然是千幻宗推出的最新一代‘立体"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "一进房门",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "法宝维修工作室。\n\n一进房门，首先印入眼帘的是用"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "争取考上大学",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "答应老爹，好好念书，争取考上大学，成为修真者！只有成"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "包括巨剑门",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "\n“而整个剑修板块，包括巨剑门、极北剑宗、南海剑派"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "南海剑派在内的二十二家宗门",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "括巨剑门、极北剑宗、南海剑派在内的二十二家宗门，股价也一路飘红，截"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "无影剑派",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "天最大的新闻无疑是‘无影剑派’宣布最新一代飞剑驱"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "极北剑宗",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "修板块，包括巨剑门、极北剑宗、南海剑派在内的二十"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "金甲宗",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "一方面，偏重防御的‘金甲宗’等宗派股价则一路下"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "金甲宗在收盘后召开了临时新闻发布会",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "跌超过8%。”\n\n“金甲宗在收盘后召开了临时新闻发布会，金甲宗新闻发言人黑"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "但朝阳新村却是浮戈城最破落的一处廉租房小区",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "。\n\n名字虽然好听，但朝阳新村却是浮戈城最破落的一处廉租房小区。\n\n因为靠近法宝坟"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "化作几座微型垃圾山",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "件，胡乱堆在角落里，化作几座微型垃圾山。\n\n此时，李耀正捧"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "朝阳新村",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "种垃圾处理场旁边的“朝阳新村”。\n\n名字虽然好听"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "简直是一座鬼城",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "纹，楼道里遍布蛛网，简直是一座鬼城。\n\n李耀正是这座“"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "而在联邦北方的草原区",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "飞剑的攻击。”\n\n“而在联邦北方的草原区，黑线虫疫灾持续蔓延"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0002",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "鬼城",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "遍布蛛网，简直是一座鬼城。\n\n李耀正是这座“"
+        ]
+      }
+    }
+  ],
   "quality_audit": {
     "segment_coverage": 1.0,
+    "source_hash_match": true,
+    "target_reconstruction_match": true,
+    "invalid_ref_count": 0,
     "locked_term_hit_rate": 1.0,
+    "missing_locked_terms": [],
     "cjk_residue_count": 0,
     "paragraph_drift_ratio": 0.0,
     "pronoun_consistency_score": 1.0,

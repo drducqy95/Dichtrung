@@ -1,17 +1,934 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
   "chapter": 17,
-  "aligned_segments": [],
-  "term_occurrences": [],
-  "entity_mentions": [],
+  "chapter_id": "chapter_0017",
+  "source_manifest_hash": "949c65bb36368350205788e8be16bd37e9cc431eb2ce0c3a366072f050e783b9",
+  "aligned_segments": [
+    {
+      "alignment_id": "chapter_0017:align_0001",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0001",
+        "chapter_0017:seg_0002",
+        "chapter_0017:seg_0003"
+      ],
+      "source": "# 17.第17章 鬼市大姐\n\n一个钟头后。\n\n李耀独自一人走在夜风迷醉的大街上，想起赫连烈满头龙虾扇贝海参，夹着尾巴逃跑的模样，再也忍不住，放声大笑起来。",
+      "source_hash": "f17b5b12a39864f9aa92cd9495b43f3ce7fc44434ad2d41d7384d57e4f798dfd",
+      "target": "Một tiếng đồng hồ sau.\n\nLý Diệu bước đi một mình trên con phố ngập tràn gió đêm say lòng người. Nhớ lại bộ dạng bỏ chạy trối chết kẹp chặt đuôi của Hách Liên Liệt với mái tóc đầy tôm hùm, sò điệp và hải sâm, cậu không thể nhịn được nữa, ngửa mặt lên trời cười phá lên.",
+      "narrative_type": "narration",
+      "alignment_type": "merged_source"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0002",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0004"
+      ],
+      "source": "他的人生，竟然在一天一夜，不超过三十个钟头之内，发生了如此精彩的逆转！",
+      "source_hash": "aa975272469bfd00d5b396bc96dae49f37eb7aa8062a9f0636832bc9e58ae94d",
+      "target": "Cuộc đời cậu, vậy mà chỉ trong vòng một ngày một đêm, chưa tới ba mươi tiếng đồng hồ, lại xảy ra một cú lật ngược tình thế ngoạn mục đến vậy!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0003",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0005"
+      ],
+      "source": "一天前，他面对赫连烈，还像是兔子面对饿狼一般，毫无反抗余地，甚至连轻松呼吸都做不到。",
+      "source_hash": "995a378122d393b66b54c0ece598e4400f9cf479b2fbf552405104155a268ee3",
+      "target": "Một ngày trước, đối mặt với Hách Liên Liệt, cậu vẫn còn giống hệt như một con thỏ đứng trước một con sói đói, hoàn toàn không có lấy một chút dư địa phản kháng, thậm chí đến hít thở nhẹ nhàng cũng không làm được.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0004",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0006"
+      ],
+      "source": "一天后，他却让赫连烈摔了个狗吃屎，逼得这位赤霄二中“男神”落荒而逃。",
+      "source_hash": "edb10840be5064d18703e2934760a1bfd0bb0b05bafc040d695b3d992b6fe50d",
+      "target": "Một ngày sau, cậu lại khiến Hách Liên Liệt ngã dập mặt như chó ăn cứt, ép vị \"nam thần\" của trường Xích Tiêu Nhị Trung này phải chạy chối chết.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0005",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0007"
+      ],
+      "source": "若是让学校里那些痴迷于赫连烈的女生看到，只怕都会惊得下巴脱臼！",
+      "source_hash": "3d9e5e00b6d1d422e5a0327d9331665abd15e3c8cb2d09c7fa421618e7b67d9c",
+      "target": "Nếu như để đám nữ sinh say mê Hách Liên Liệt trong trường nhìn thấy, e rằng tất cả đều sẽ kinh ngạc đến mức trật khớp hàm!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0006",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0008"
+      ],
+      "source": "世上还有比这更神奇的逆转吗？",
+      "source_hash": "6638dd647e51b72ed99352f977c31e9873a5a74ba44ae1bda6606a2759588e96",
+      "target": "Trên đời này còn có cú lật ngược nào kỳ diệu hơn thế này nữa không?",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0007",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0009"
+      ],
+      "source": "至于郑东明的警告，他并没有放在心上。",
+      "source_hash": "3dcfc5d58fc08fa6d148fb7a8fb754a306c5336ff0b0a22b749da98b5d8ba408",
+      "target": "Còn về lời cảnh cáo của Trịnh Đông Minh, cậu hoàn toàn không để ở trong lòng.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0008",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0010"
+      ],
+      "source": "从李耀骨髓深处，隐隐渗透出来一股莫名的自信，他相信就算眼下自己还不是赫连烈的对手，可是只要经过一段时间的修炼，一定能开拓出无限宽阔的天地，把赫连烈狠狠踩在脚下！",
+      "source_hash": "0dbf114579d2cf5a828034520aff0ba090367ad877aa945757aca72b07a37235",
+      "target": "Từ sâu trong tủy xương của Lý Diệu, loáng thoáng rỉ ra một cỗ tự tin khó tả. Cậu tin chắc rằng cho dù hiện tại bản thân vẫn chưa phải là đối thủ của Hách Liên Liệt, thế nhưng chỉ cần trải qua một thời gian tu luyện, nhất định có thể khai mở ra một bầu trời vô hạn rộng lớn, hung hăng giẫm Hách Liên Liệt dưới lòng bàn chân!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0009",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0011"
+      ],
+      "source": "“赫连烈，昨天你辱骂我是‘垃圾’，今天又想扇我耳光，这两件事，我都牢牢记在心里。”",
+      "source_hash": "b72ed73e81d1e6185d233bcb1631b62dedc03cffd14b924423368e43b9b1b037",
+      "target": "\"Hách Liên Liệt, hôm qua mày sỉ nhục tao là 'rác rưởi', hôm nay lại muốn tát tao, hai chuyện này tao đều khắc sâu trong lòng.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0010",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0012"
+      ],
+      "source": "“事不过三，如果你老老实实，收紧骨头、夹起尾巴做人，不要再来招惹我，我大人大量，也懒得来料理你。”",
+      "source_hash": "44da008db9b0b3da81f2f3f1ed7c5f3028f7035e508ec02919261c02dfb60fd6",
+      "target": "\"Quá tang ba bận, nếu như mày ngoan ngoãn biết điều, thu liễm xương cốt, kẹp chặt đuôi làm người, đừng đến trêu chọc tao nữa, thì người lớn có lượng lớn, tao cũng lười đi xử lý mày.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0011",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0013"
+      ],
+      "source": "“可是如果你执迷不悟，还在我‘秃鹫李耀’面前晃来晃去，你的下场，就不会像今天这么简单了！”",
+      "source_hash": "a699a06e800ff9ad62db2604be64bc51cb7c811a0016a6a524caf3fd52e7840b",
+      "target": "\"Thế nhưng nếu như mày cứ ngoan cố không chịu tỉnh ngộ, còn lượn lờ chướng mắt trước mặt 'Kền Kền Lý Diệu' tao đây, thì kết cục của mày, sẽ không đơn giản như ngày hôm nay đâu!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0012",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0014"
+      ],
+      "source": "不知不觉中，李耀周身缭绕着来自四万六千年前强大古修的凛冽气息。",
+      "source_hash": "859775dcb309617111861bd9bc06b843c05eab0c95dcba725fbba77589fcd025",
+      "target": "Bất tri bất giác, quanh người Lý Diệu đã lượn lờ luồng khí tức lạnh lẽo thấu xương của vị cổ tu hùng mạnh đến từ bốn vạn sáu ngàn năm trước.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0013",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0015"
+      ],
+      "source": "他原本准备回去好好休息一下，明天再去地下鬼市购买山寨强化药剂，可是这会儿，突然改变主意，信步向通往地底的升降平台走去。",
+      "source_hash": "39b04500abdeeae346a2b2416f2225a100308012e08c81c9eba58f5ee65ca750",
+      "target": "Vốn dĩ cậu định trở về nhà nghỉ ngơi một chút thật tốt, ngày mai mới đến chợ quỷ ngầm để mua thuốc tăng cường hàng nhái. Thế nhưng lúc này đây, cậu đột ngột thay đổi chủ ý, thong dong bước về phía thang máy dẫn xuống lòng đất.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0014",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0016"
+      ],
+      "source": "距离高考，只剩下九十九天。",
+      "source_hash": "773be4ddb1c4a56917dda0c3e299068bfd295ce479bd172357776d3e65e95e63",
+      "target": "Cách kỳ thi đại học chỉ còn lại chín mươi chín ngày.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0015",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0017"
+      ],
+      "source": "他要争分夺秒，抓紧每一点时间修炼，在高考中一鸣惊人！",
+      "source_hash": "95b7d24bfb08315b1c680d3b65a0d4713f82ddbb7102119c6d850a6dd4b2cdab",
+      "target": "Cậu phải tranh thủ từng giây từng phút, chớp lấy từng chút thời gian để tu luyện, một tiếng hót làm kinh động lòng người trong kỳ thi đại học!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0016",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0018"
+      ],
+      "source": "“赫连烈，你不是说我们这些普通班的学生，都是杂鱼，都是垃圾吗？如果我这件‘垃圾’，在高考中竟然考出比你更好的成绩，那你——又算是个什么东西？”",
+      "source_hash": "a9e2f6207bcc4ec2b22e8e26d44f75a8253109d9167ff8031bbd3c7aa79940cf",
+      "target": "\"Hách Liên Liệt, chẳng phải mày nói học sinh lớp thường chúng tao đều là lũ tép riu, đều là rác rưởi sao? Nếu như món 'rác rưởi' là tao đây, trong kỳ thi đại học lại có thể đạt được thành tích tốt hơn cả mày, thì mày —— lại tính là cái thá gì chứ?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0017",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0019"
+      ],
+      "source": "地下鬼市，是联邦每一座大城市中，属于平民阶层的独特风景线。",
+      "source_hash": "476efe1de7eff0afd5adcc8768e169928fc2a23f11cf77e02de60663a0a7dc34",
+      "target": "Chợ quỷ ngầm, là một phong cảnh độc đáo thuộc về tầng lớp bình dân trong mỗi một đại thành thị của Liên bang.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0018",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0020"
+      ],
+      "source": "修真40000年代并不太平，正道和魔门、人类和妖族、各种势力之间的战争从未平息，星耀联邦也长期处于战争状态。",
+      "source_hash": "e4b71c47bfc88353e00dd29da4537dee109c0495df434b01cb43a8ac484237ec",
+      "target": "Thời đại tu chân năm 40000 vốn không hề thái bình. Các cuộc chiến tranh giữa chính đạo và ma môn, giữa nhân loại và yêu tộc, giữa đủ loại thế lực khác nhau chưa từng có ngày ngưng nghỉ. Tinh Diệu Liên bang cũng duy trì trạng thái chiến tranh trong thời gian dài.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0019",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0021"
+      ],
+      "source": "联邦的每一座修炼重镇，在最初建立时都会挖地万尺，建设避难所、防空洞、下水道、通风井。",
+      "source_hash": "c7cfbe7ac92c0b99b64f86ed00f37bac4342eb05d6d157c8f5bac4b0f1907795",
+      "target": "Bất cứ một cứ điểm tu luyện trọng yếu nào của Liên bang khi mới được xây dựng đều sẽ được đào sâu hàng vạn thước xuống lòng đất, để xây dựng hầm trú ẩn, hầm phòng không, đường cống ngầm, giếng thông gió.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0020",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0022"
+      ],
+      "source": "各种地下设施相互交通，组成错综复杂，有如迷宫的黑暗战堡、地下城池，并且储存有大量食物、清水和生存必需品，用灵力护罩封存，永远保持在最新鲜的状态。",
+      "source_hash": "a7ebbfcc2d82f7dfd6fe46f17543de83d81eb6a02963a510c3fcfabbd75b9878",
+      "target": "Vô số các loại cơ sở ngầm liên thông với nhau, tạo thành một chiến bảo hắc ám chằng chịt rắc rối hệt như một mê cung, hoặc cũng có thể coi là một tòa thành trì dưới lòng đất. Nơi đó còn tích trữ lượng lớn thức ăn, nước sạch và các nhu yếu phẩm sinh tồn, được niêm phong bằng linh lực hộ tráo, vĩnh viễn duy trì ở trạng thái tươi ngon nhất.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0021",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0023"
+      ],
+      "source": "在最极端状况下，即便地面全部被妖族军队占领，人类依旧可以退守地下要塞，各种物资足以让几十万人生活十年以上。",
+      "source_hash": "fcda2c127477618cf207d04ad820bc6892906449e6d6bd0cd3c28613783efb66",
+      "target": "Trong những tình huống cực đoan nhất, cho dù trên mặt đất toàn bộ đã bị quân đội yêu tộc chiếm lĩnh, nhân loại vẫn có thể rút lui về bảo vệ pháo đài dưới lòng đất. Các loại vật tư đủ để chu cấp cho mấy chục vạn người sinh sống trong mười năm trở lên.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0022",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0024"
+      ],
+      "source": "而藏匿于最隐秘处“地下武库”中的法宝和飞剑，能在瞬间组织起十万军队，伺机反攻。",
+      "source_hash": "3e71d8aa63e62768a811e5fbdf4714e1f126b6a864897825873f5a72d4c7d2ec",
+      "target": "Hơn nữa, pháp bảo và phi kiếm được cất giấu ở những \"vũ khố ngầm\" bí mật nhất, có thể trong nháy mắt tổ chức thành mười vạn quân đội, chờ thời cơ phản công.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0023",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0025"
+      ],
+      "source": "不过，在天元界，眼下正是人道大昌的黄金岁月，星耀联邦在数百年间不断开疆扩土，破山伐庙，攻势凌厉，昔日地处边陲的军镇渐渐变成了腹地，地下要塞也在不知不觉中失去了军事意义。",
+      "source_hash": "cfe5082447355c8f8552222273ae1880586944db2b473ee449568886fe2d579a",
+      "target": "Thế nhưng, ở Thiên Nguyên Giới lúc này chính là những tháng năm hoàng kim khi nhân đạo hưng thịnh. Tinh Diệu Liên bang trong suốt mấy trăm năm qua không ngừng khai khẩn mở rộng bờ cõi, phá núi phạt miếu, thế công vô cùng sắc bén. Những quân trấn vốn dĩ nằm ở biên cương năm xưa giờ đây đã dần dần trở thành khu vực nội địa. Những pháo đài dưới lòng đất cũng trong bất tri bất giác đã đánh mất đi ý nghĩa quân sự ban đầu của chúng.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0024",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0026"
+      ],
+      "source": "不知从什么时候开始，就有不少贫苦阶层慢慢侵蚀地下空间，在地底生存繁衍。",
+      "source_hash": "2f517c31896cf175d7dcb86b4afeff29997d7bb0ef2136538087cda1db5ac2bc",
+      "target": "Chẳng biết bắt đầu từ khi nào, đã có không ít những người thuộc tầng lớp nghèo khổ dần dần ăn mòn không gian dưới lòng đất, sinh tồn và sinh sôi nảy nở ở đó.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0025",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0027"
+      ],
+      "source": "或许一开始，他们是被地面上昂贵的房价和过高的生存成本所逼，迫于无奈才逃入地底，可是他们很快就发现，地底世界设施完善，空间广阔，比地面上的贫民窟要好得多。",
+      "source_hash": "716910e11878bd00c9331498c4b69a7edb9bc43159ba7467e2bee578a81fae63",
+      "target": "Có lẽ ngay từ lúc bắt đầu, bọn họ là do bị bức bách bởi giá nhà đắt đỏ và chi phí sinh hoạt quá cao trên mặt đất, buộc phải trốn xuống lòng đất. Thế nhưng rất nhanh sau đó bọn họ đã phát hiện ra, cơ sở vật chất của thế giới dưới lòng đất vô cùng hoàn thiện, không gian rộng rãi, tốt hơn khu ổ chuột trên mặt đất rất nhiều.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0026",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0028"
+      ],
+      "source": "就这样，居住在地底的人越来越多，经过数百年的发展，地底世界已经被建设成为一个繁华程度稍有逊色，但嘈杂和热闹程度大大超越地面的“世外桃源”。",
+      "source_hash": "a8c0a8f393f3f80b98b44b70497d0245ef1e32239dc2d71c76269ec34cda890b",
+      "target": "Cứ như vậy, người sống ở dưới lòng đất càng ngày càng đông. Trải qua mấy trăm năm phát triển, thế giới dưới lòng đất đã được xây dựng thành một \"thế ngoại đào nguyên\" có mức độ phồn hoa hơi kém một chút, nhưng mức độ ồn ào và náo nhiệt thì vượt xa trên mặt đất.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0027",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0029"
+      ],
+      "source": "这里是游走在法律边缘的灰色地带，拥有独特的秩序和风貌。",
+      "source_hash": "cfeedf0f6f7806ddb122cf963e7769fff2e4a67ae1bf7e31b769dc45436138f5",
+      "target": "Nơi này là khu vực xám xịt lượn lờ bên lề pháp luật, sở hữu một trật tự và diện mạo độc đáo của riêng mình.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0028",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0030"
+      ],
+      "source": "简单说，在地下鬼市，商品可能来路稍微不明一点点，居住环境稍微恶劣一点点，小偷小摸稍微多一点点，吃的东西稍微不卫生一点点。",
+      "source_hash": "705e96fb9bb1ddf53a2219e5d77c70e8807e9e328f26028dbb6c8c6dc446f1da",
+      "target": "Nói đơn giản thì, ở chợ quỷ ngầm, hàng hóa có thể có nguồn gốc hơi mờ ám một chút xíu, môi trường sống có hơi tồi tệ một chút xíu, tệ nạn trộm cắp vặt vãnh có hơi nhiều hơn một chút xíu, đồ ăn thức uống có hơi mất vệ sinh một chút xíu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0029",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0031"
+      ],
+      "source": "但是只要能忽略这些微不足道的“一点点”，就能享受到无比低廉的生活成本，以及和地面世界迥异的万种风情。",
+      "source_hash": "885d68d02e602cf48edb6cdbe5e6a7407ba9782ce6f36efac91265d04f033457",
+      "target": "Thế nhưng, chỉ cần có thể bỏ qua những thứ \"một chút xíu\" bé nhỏ không đáng kể này, thì có thể tận hưởng được chi phí sinh hoạt vô cùng rẻ mạt, cũng như muôn ngàn phong tình hoàn toàn khác biệt so với thế giới trên mặt đất.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0030",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0032"
+      ],
+      "source": "“咣当咣当”，古老的灵能升降机剧烈颤抖，发出单调的撞击声，向几百米深的地下鬼市落去。",
+      "source_hash": "89b30d1a5306b2abfc4565cf21bdbed2f4c289535bdd796da947f100930c9379",
+      "target": "\"Lạch cạch lạch cạch\", chiếc thang máy linh năng cổ lỗ sĩ rung lắc kịch liệt, phát ra âm thanh va chạm đơn điệu, hướng thẳng xuống chợ quỷ ngầm sâu vài trăm mét dưới lòng đất.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0031",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0033"
+      ],
+      "source": "空气渐渐变得有一丝混浊，隐隐混合着几缕廉价香水的熏人气息。",
+      "source_hash": "1f5b588e681176c9d129b4cdd9f06d25683a14424027c440905edf9bd090bd3c",
+      "target": "Không khí dần dần trở nên có chút vẩn đục, lờ mờ lẫn theo vài sợi hương nước hoa rẻ tiền nồng nặc đến sặc sụa.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0032",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0034"
+      ],
+      "source": "李耀深深吸了一口气，就像是一尾在岸上扑腾了很久的鱼重新回到水里，整个人都“活”了过来。",
+      "source_hash": "6f09990b83b531ee1aca93fbbcdc38353c9da21f9d981701fbd170b26e11d524",
+      "target": "Lý Diệu hít sâu một hơi. Cậu giống như một con cá quẫy đạp trên bờ từ rất lâu rồi lại được thả về nước, cả con người đều \"sống\" lại.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0033",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0035"
+      ],
+      "source": "和“上东区”相比，他更喜欢在地下鬼市厮混，如果不是为了方便在法宝坟墓里拾荒，他肯定会选择在地下鬼市里直接租房子，房租还能便宜一半。",
+      "source_hash": "49796274beb20f94c422a4db8639ee0ae373196bb7d8ff57846af63b8f5fcb8f",
+      "target": "So với \"Khu Thượng Đông\", cậu càng thích trà trộn trong chợ quỷ ngầm hơn. Nếu như không phải là vì muốn tiện cho việc nhặt nhạnh mót đồ rác rưởi ở Bãi Rác Pháp Bảo, chắc chắn cậu đã chọn cách thuê nhà trực tiếp ở chợ quỷ ngầm này rồi, tiền thuê nhà còn có thể rẻ đi một nửa.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0034",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0036"
+      ],
+      "source": "三分钟后，灵能升降机在一处人声鼎沸的市场门口停了下来，李耀用力拉开生锈发涩的铁栅栏，伴随着“吱呀吱呀”的刺耳声，扑面而来的是一团勾魂的焦香。",
+      "source_hash": "123b8d03ca180191b537d324bf7fb9304e41c1b34a859c50daf6c8b4eb05d349",
+      "target": "Ba phút sau, thang máy linh năng dừng lại trước lối vào của một khu chợ tiếng người ồn ào náo động. Lý Diệu dùng sức kéo cánh cửa sắt rỉ sét kẹt cứng ra, đi kèm theo âm thanh cọ xát \"ken két, ken két\" chói tai, là một luồng hương vị cháy xém câu hồn đoạt phách ập thẳng vào mặt.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0035",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0037"
+      ],
+      "source": "每座地下鬼市的结构都大同小异，沿用最初的军事要塞法则，用数字标注区域。",
+      "source_hash": "0c2e78cefba6a8ad39f9e0e9965775f926e85d6c35fc1e102f48dd304b73202b",
+      "target": "Kết cấu của mọi khu chợ quỷ ngầm đều đại đồng tiểu dị, vẫn giữ nguyên nguyên tắc của pháo đài quân sự thuở sơ khai, sử dụng các con số để đánh dấu khu vực.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0036",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0038"
+      ],
+      "source": "李耀进入的，是第五十九号区域。",
+      "source_hash": "4041e08f59d24c9e94e75786d0ecaf43ed7c7a9540992be4da5470501031f10d",
+      "target": "Khu vực mà Lý Diệu vừa bước vào là Khu 59.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0037",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0039"
+      ],
+      "source": "这是非常有名的美食一条街，来路可疑的食材经过各种匪夷所思的手段，被烹饪成远近驰名的“鬼饮食”，只要不去深究制作手段，保证鲜得让人连舌头都吞下去。",
+      "source_hash": "55d4457dd7635a644dd2dc65ff0082811b7a496af1f01a5d4e248059e7770664",
+      "target": "Nơi đây là một con phố ẩm thực vô cùng nổi tiếng. Những loại nguyên liệu thực phẩm có nguồn gốc lai lịch khả nghi trải qua các loại thủ đoạn chế biến không thể tưởng tượng nổi, bị biến thành những món \"quỷ ẩm thực\" nức tiếng gần xa. Chỉ cần đừng đi đào sâu tìm tòi về các chiêu trò chế biến của chúng, thì bảo đảm vị tươi ngon của món ăn sẽ khiến người ta nuốt luôn cả lưỡi.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0038",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0040"
+      ],
+      "source": "热气腾腾的猪油贴糍粑……金黄焦香的炸臭豆腐……用大蒜、猪血和马肉混合而成的血肠，最重要是用羔羊尾巴里熬出的油来细细煎了，再撒上大西北妖兽荒原上特产的黑晶盐粉，趁烫嘴赶紧咬一口，不等咀嚼，半凝固的血膏混合着羊尾巴油就滑入喉管，只觉周身上下春暖花开，通体舒泰，每个毛孔都发出\\*\\*，真是给个大罗金仙都不换！",
+      "source_hash": "751b6bf091bba7c3b50c407e0c146130947fcfeacb745cc0c186782c680fe6b8",
+      "target": "Bánh dày tẩm mỡ lợn nóng hổi bốc hơi nghi ngút... đậu phụ thối chiên vàng ruộm thơm phức... dồi tiết làm từ sự pha trộn hỗn hợp của tỏi, huyết lợn và thịt ngựa. Quan trọng nhất là phải dùng mỡ lấy từ đuôi cừu non để chiên nhỏ lửa thật kỹ, sau đó rắc thêm muối tinh thể đen đặc sản của cao nguyên hoang dã yêu thú vùng Tây Bắc. Phải tranh thủ lúc còn đang bỏng miệng cắn vội một miếng. Chưa kịp nhai thì lớp huyết đặc sệt trộn lẫn với mỡ đuôi cừu đã trôi tuột xuống cổ họng, chỉ cảm thấy từ trên xuống dưới toàn thân như hoa xuân nở rộ, tứ chi bách hài vô cùng khoan khoái, từng lỗ chân lông trên người đều sướng rên lên, quả thực đổi lấy chức Đại La Kim Tiên cũng chẳng màng!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0039",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0041"
+      ],
+      "source": "据说，有不少修真者都禁不住“鬼饮食”的\\*\\*，时常改头换面来这里大快朵颐。",
+      "source_hash": "254968e73e344a55a45fd2de0d956c15c974bd84da9de5b092aac045863564fb",
+      "target": "Tương truyền, có không ít tu chân giả cũng không chịu nổi sức cám dỗ của \"quỷ ẩm thực\", thỉnh thoảng vẫn cải trang thay hình đổi dạng đến đây ăn uống thỏa thuê.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0040",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0042"
+      ],
+      "source": "尽管一个钟头前刚刚饱餐过一顿丰盛的自助餐，李耀还是禁不住食指大动，买了五串羊油煎血肠，就站在摊子前，眯着眼睛尽情享受。",
+      "source_hash": "bf244718e997d82bc59209c052850adf209bff3607c8ff547f0bb6a7791d8482",
+      "target": "Mặc dù mới ăn no nê một bữa tiệc buffet thịnh soạn cách đây một tiếng đồng hồ, thế nhưng Lý Diệu vẫn không kiềm được sự thèm thuồng. Cậu mua năm xiên dồi tiết chiên mỡ cừu, cứ thế đứng ngay trước quầy hàng, híp mắt lại để tận tình thưởng thức.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0041",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0043"
+      ],
+      "source": "一名怀抱婴儿的三十多岁大姐挤了过来，冲他小声招呼：“小伙儿，要玉简不？”",
+      "source_hash": "7da2f959cf517355125df7febeddc8d840d004f9e06cb5bf04c34127f6f66857",
+      "target": "Một bà chị hơn ba mươi tuổi ôm một đứa trẻ sơ sinh chen qua, nhỏ giọng chào hàng với cậu: \"Chàng trai, có mua ngọc giản không?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0042",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0044"
+      ],
+      "source": "大姐从襁褓下面摸出一个牛皮包，胖手伸进去，抓出三枚玉简，摊在掌心。",
+      "source_hash": "76a21ffba2b20b7026bf04ea62ebdf2de6869e504bde0acafb0d9f37e27216bb",
+      "target": "Bà chị móc ra một cái túi da bò từ dưới lớp tã lót bọc trẻ con, bàn tay mũm mĩm thò vào, bốc ra ba mảnh ngọc giản, trải thẳng trong lòng bàn tay.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0043",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0045"
+      ],
+      "source": "这三枚玉简通体晶莹剔透，流光溢彩，灵气缭绕，泛出七彩波纹，在李耀眼前汇聚成了三道名字：",
+      "source_hash": "33e0ad70abc670e0f358412ee93a27c0904cd71d8c1839ed21044bf6be8f6eaa",
+      "target": "Ba mảnh ngọc giản này toàn thân trong suốt long lanh, hào quang rực rỡ, linh khí vấn vít, tỏa ra từng gợn sóng đủ bảy màu sắc, hội tụ lại trước mắt Lý Diệu thành ba dòng tên:",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0044",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0046"
+      ],
+      "source": "《女修白洁》、《少年剑仙阿宾》、《狡猾的炼药大师》。",
+      "source_hash": "24201da9874ab4ee535a382d68b9e5ef9c99686433e976cd7d4f5acfbbec1b50",
+      "target": "《Nữ tu Bạch Khiết》, 《Thiếu niên kiếm tiên A Tân》, 《Luyện dược đại sư xảo quyệt》.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0045",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0047"
+      ],
+      "source": "“太老了，都看过。”李耀扫了一眼，不为所动。",
+      "source_hash": "0f23144c5aba2b3f95b825bed1f47a49f7a0451ae36453277080595dbf040feb",
+      "target": "\"Cũ rích rồi, xem hết cả rồi.\" Lý Diệu liếc mắt nhìn qua, sắc mặt không chút đổi thay.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0046",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0048"
+      ],
+      "source": "“不一样，这是经过强大修真者重新炼制的高清版，每一枚玉简中都包含几十万道神念，清晰度足足提高十倍，每根毛都看得清清楚楚，保准小伙儿你一看忘不了，看了还想要！”大姐热心介绍。",
+      "source_hash": "da51f1e9669fb41d46edfbad0f05a1b1e8210b5c20e837a64cd3576f069e1f75",
+      "target": "\"Không giống đâu, đây là bản nét cao (HD) đã được tu chân giả mạnh mẽ luyện chế lại, bên trong mỗi một viên ngọc giản đều hàm chứa tới mấy chục vạn đạo thần niệm. Độ rõ nét ít nhất cũng được nâng cao thêm mười lần, bảo đảm ngay đến từng cọng lông cũng nhìn thấy mồn một, cam đoan chàng trai xem một lần là nhớ mãi không quên, xem xong còn muốn xem nữa!\" Bà chị vô cùng nhiệt tình giới thiệu.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0047",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0049"
+      ],
+      "source": "“……还是算了，出来闲晃，没带钱，实在不好意思，回头一定照顾大姐生意。”",
+      "source_hash": "a11969452382ae57834511d2a382e8126ffee2570023e97fb9c9f6ed679fc8cd",
+      "target": "\"...Thôi bỏ đi, lượn lờ ra ngoài tay không không mang tiền, thực sự ngại quá, lần sau nhất định sẽ ủng hộ quán của bà chị.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0017:align_0048",
+      "chapter_id": "chapter_0017",
+      "segment_ids": [
+        "chapter_0017:seg_0050"
+      ],
+      "source": "好不容易打发走了卖玉简的大姐，五串血肠也吃完了，李耀心满意足地一抹嘴巴，不慌不忙地走进了美食街角落里的公共厕所。",
+      "source_hash": "160db141484a505ff1ba987b0d9cfb1e6ca2b1a821e3b70ec356cb0ff744b60f",
+      "target": "Khó khăn lắm Lý Diệu mới đuổi được bà chị bán ngọc giản đi, năm xiên dồi tiết cũng đã ăn xong. Cậu lau mép vô cùng thỏa mãn, không nhanh không chậm đi vào một nhà vệ sinh công cộng nằm khuất trong góc của con phố ẩm thực.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    }
+  ],
+  "term_occurrences": [
+    {
+      "chapter_id": "chapter_0017",
+      "source_term": "法宝坟墓",
+      "target_term": "Nghĩa địa Pháp Bảo",
+      "segment_id": "chapter_0017:seg_0035",
+      "present_in_target": false,
+      "is_locked": false,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0017",
+      "source_term": "上东区",
+      "target_term": "khu Thượng Đông",
+      "segment_id": "chapter_0017:seg_0035",
+      "present_in_target": false,
+      "is_locked": false,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0017",
+      "source_term": "赤霄二中",
+      "target_term": "Xích Tiêu Nhị Trung",
+      "segment_id": "chapter_0017:seg_0006",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0017",
+      "source_term": "普通班",
+      "target_term": "lớp thường",
+      "segment_id": "chapter_0017:seg_0018",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0017",
+      "source_term": "妖族",
+      "target_term": "Yêu tộc",
+      "segment_id": "chapter_0017:seg_0020",
+      "present_in_target": false,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0017",
+      "source_term": "地下鬼市",
+      "target_term": "chợ quỷ ngầm",
+      "segment_id": "chapter_0017:seg_0015",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0017",
+      "source_term": "山寨强化药剂",
+      "target_term": "thuốc tăng cường hàng nhái",
+      "segment_id": "chapter_0017:seg_0015",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0017",
+      "source_term": "郑东明",
+      "target_term": "Trịnh Đông Minh",
+      "segment_id": "chapter_0017:seg_0009",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0017",
+      "source_term": "第五十九号区域",
+      "target_term": "Khu 59",
+      "segment_id": "chapter_0017:seg_0038",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0017",
+      "source_term": "鬼饮食",
+      "target_term": "Quỷ ẩm thực",
+      "segment_id": "chapter_0017:seg_0039",
+      "present_in_target": false,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    }
+  ],
+  "entity_mentions": [
+    {
+      "chapter_id": "chapter_0017",
+      "source_surface": "李耀",
+      "target_surface": "Lý Diệu",
+      "entity_type": "person",
+      "segment_id": "chapter_0017:seg_0001",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0017",
+      "source_surface": "赫连烈",
+      "target_surface": "Hách Liên Liệt",
+      "entity_type": "person",
+      "segment_id": "chapter_0017:seg_0001",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0017",
+      "source_surface": "郑东明",
+      "target_surface": "Trịnh Đông Minh",
+      "entity_type": "person",
+      "segment_id": "chapter_0017:seg_0009",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0017",
+      "source_surface": "强化药剂",
+      "target_surface": "Dược chất cường hóa Linh Căn",
+      "entity_type": "cultivation_resources",
+      "segment_id": "chapter_0017:seg_0015",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0017",
+      "source_surface": "法宝坟墓",
+      "target_surface": "Nghĩa địa Pháp Bảo",
+      "entity_type": "locations",
+      "segment_id": "chapter_0017:seg_0035",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0017",
+      "source_surface": "第五十九号区域",
+      "target_surface": "Khu 59",
+      "entity_type": "locations",
+      "segment_id": "chapter_0017:seg_0038",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0017",
+      "source_surface": "鬼饮食",
+      "target_surface": "Quỷ ẩm thực",
+      "entity_type": "items",
+      "segment_id": "chapter_0017:seg_0039",
+      "confidence": 1.0
+    }
+  ],
+  "name_analysis": {
+    "status": "ok",
+    "evidence_count": 3,
+    "name_mentions": [
+      {
+        "chapter_id": "chapter_0017",
+        "name_source": "李耀",
+        "name_target": "Lý Diệu",
+        "segment_id": "chapter_0017:seg_0001",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0017",
+        "name_source": "赫连烈",
+        "name_target": "Hách Liên Liệt",
+        "segment_id": "chapter_0017:seg_0001",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0017",
+        "name_source": "郑东明",
+        "name_target": "Trịnh Đông Minh",
+        "segment_id": "chapter_0017:seg_0009",
+        "present_in_target": true,
+        "confidence": 1.0
+      }
+    ],
+    "name_entries": [
+      {
+        "name_source": "李耀",
+        "name_target": "Lý Diệu"
+      },
+      {
+        "name_source": "赫连烈",
+        "name_target": "Hách Liên Liệt"
+      },
+      {
+        "name_source": "郑东明",
+        "name_target": "Trịnh Đông Minh"
+      }
+    ],
+    "transliteration_units": [],
+    "inferred_name_rules": [],
+    "ambiguity_cases": [],
+    "reusable_name_profile": {
+      "mapping_count": 3,
+      "has_ambiguity": false
+    }
+  },
   "phrase_patterns": [],
   "grammar_rule_candidates": [],
+  "analyzer_reports": {
+    "term_occurrences": {
+      "status": "ok",
+      "evidence_count": 10
+    },
+    "entity_mentions": {
+      "status": "ok",
+      "evidence_count": 7
+    },
+    "name_mentions": {
+      "status": "ok",
+      "evidence_count": 3
+    },
+    "phrase_patterns": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    },
+    "grammar_rule_candidates": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    }
+  },
+  "review_queue": [
+    {
+      "chapter_id": "chapter_0017",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "连烈",
+        "entity_type": "person",
+        "count": 3,
+        "confidence": 0.7,
+        "evidence": [
+          "\n\n一天前，他面对赫连烈，还像是兔子面对饿狼",
+          "狠踩在脚下！\n\n“赫连烈，昨天你辱骂我是‘垃",
+          "中一鸣惊人！\n\n“赫连烈，你不是说我们这些普"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0017",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "正道和魔门",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "000年代并不太平，正道和魔门、人类和妖族、各种势"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0017",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "上东区",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "活”了过来。\n\n和“上东区”相比，他更喜欢在地"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0017",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "是第五十九号区域",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "域。\n\n李耀进入的，是第五十九号区域。\n\n这是非常有名的"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0017",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "用数字标注区域",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "最初的军事要塞法则，用数字标注区域。\n\n李耀进入的，是"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0017",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "联邦的每一座修炼重镇",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "期处于战争状态。\n\n联邦的每一座修炼重镇，在最初建立时都会挖"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0017",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0017:align_0001",
+        "segment_ids": [
+          "chapter_0017:seg_0001",
+          "chapter_0017:seg_0002",
+          "chapter_0017:seg_0003"
+        ]
+      }
+    }
+  ],
   "quality_audit": {
     "segment_coverage": 1.0,
+    "source_hash_match": true,
+    "target_reconstruction_match": true,
+    "invalid_ref_count": 0,
     "locked_term_hit_rate": 1.0,
+    "missing_locked_terms": [],
     "cjk_residue_count": 0,
-    "paragraph_drift_ratio": 0.0,
+    "paragraph_drift_ratio": 0.04,
     "pronoun_consistency_score": 1.0,
     "warnings": []
   }

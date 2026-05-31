@@ -1,0 +1,996 @@
+{
+  "schema_version": "2.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 65,
+  "chapter_id": "chapter_0065",
+  "source_manifest_hash": "cfdf563f3f4fefe51725490754f247b3f870d543474cfd1e14dec9dcfd334bb8",
+  "aligned_segments": [
+    {
+      "alignment_id": "chapter_0065:align_0001",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0001"
+      ],
+      "source": "# 65.第65章 鬼龙7号",
+      "source_hash": "2771421433ee432446122353d14538e3a0b26db792de398e6352022bcd81d20b",
+      "target": "# Chương 0065 - Quỷ Long số 7",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0002",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0002"
+      ],
+      "source": "暴雨越下越大，仿佛整个天元界的雨水，都在瞬间集中到了魔蛟岛上空，妄图将这座妖兽之岛彻底砸进大洋深处。",
+      "source_hash": "70ae242bec337b862043218d942c23cc912af0ec382e23480ac1f6915b2ff971",
+      "target": "Mưa bão ngày một lớn, như thể toàn bộ nước mưa của Thiên Nguyên Giới đều tập trung hết trên bầu trời Đảo Ma Giao trong khoảnh khắc này, hòng dìm hẳn hòn đảo yêu thú này xuống tận đáy sâu đại dương.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0003",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0003"
+      ],
+      "source": "狂风暴雨中，一场异变正在黑暗中滋生。",
+      "source_hash": "bbf5ec5a7ede394e6fc293e6dcc1b611d978657e0a0771531d6b1cec88fd852c",
+      "target": "Trong gió giật mưa sa, một cuộc biến động bất thường đang âm thầm sinh sôi trong bóng tối.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0004",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0004"
+      ],
+      "source": "“呼哧呼哧，呼哧呼哧！”",
+      "source_hash": "d6ed907aa68c1050b1be9c02883b6eae63354fc2be545a92452881d397370628",
+      "target": "“Hộc hộc, hộc hộc!”",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0005",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0005"
+      ],
+      "source": "一名蓝方选手跌跌撞撞地冲进一个狭小的洞穴，再也支撑不住，先是双膝跪地，接着向前仆倒，惨白的脸上毫无半点血色，整个人如抽筋一般颤抖。",
+      "source_hash": "c4959a378165746508a60a2003162809f8fb834f675d6452cb1d896323162998",
+      "target": "Một thí sinh phe Xanh lảo đảo lao vào trong một hang động nhỏ hẹp. Cậu không chống đỡ nổi nữa, hai đầu gối khuỵu xuống trước rồi đổ ập người về phía trước, gương mặt nhợt nhạt không một giọt máu, toàn thân run rẩy như bị co rút cơ.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0006",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0006"
+      ],
+      "source": "一个小时前，他被三名红方选手追杀，幸好暴雨遮蔽了双方的视线，他才侥幸逃出包围。",
+      "source_hash": "d86bb6eae34baf33d9aef785b40d6fe1556a0f40668f01e5a1b7cd6289ae8def",
+      "target": "Một tiếng trước, cậu bị ba thí sinh phe Đỏ truy sát, may mà trận mưa lớn đã che khuất tầm mắt của cả hai bên, cậu mới may mắn thoát khỏi vòng vây.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0007",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0007"
+      ],
+      "source": "不过红方选手越来越多，他不知还能坚持多久。",
+      "source_hash": "a4f388f5b5313e8c089d549d5def74dfeef676534fac4175f8a69f2ab43b69de",
+      "target": "Nhưng thí sinh phe Đỏ ngày một đông, cậu không biết mình còn cầm cự được bao lâu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0008",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0008"
+      ],
+      "source": "“该死，我们明明就要赢了，怎么一下子变成这样！”",
+      "source_hash": "52d5e72f5daa20a129b546fe5892107dcdfb0a700c0e5db4c0599287c7d34567",
+      "target": "“Khốn kiếp, rõ ràng chúng ta sắp thắng rồi, sao đột nhiên lại biến thành thế này!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0009",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0009"
+      ],
+      "source": "这名蓝方选手痛苦地砸了一下岩壁，苦闷到了极点，而眼底正有一缕黑暗的光芒在凝结。",
+      "source_hash": "143341f11b5b93df35b1c23b38daaea2616b8fe5d11429a4866b96657d7c588a",
+      "target": "Thí sinh phe Xanh đập mạnh một cú vào vách đá đầy đau đớn, u uất đến tột cùng, mà nơi sâu thẳm trong mắt cậu đang ngưng tụ một tia sáng đen tối.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0010",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0010"
+      ],
+      "source": "他从洞穴中探出脑袋，眯起眼睛，向天空张望。",
+      "source_hash": "b94108964d91a086bd24e15a459f7b327d33b5e22377d907d4e28afd9a5ce2a0",
+      "target": "Cậu thò đầu ra ngoài hang động, nheo mắt ngước nhìn lên bầu trời.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0011",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0011"
+      ],
+      "source": "他的噗叽兽就像是没头苍蝇，绕着一株大树乱转，发出“沙沙”的声音，似乎失去了控制。",
+      "source_hash": "1349377de30e4efe58d6a0f27282ae6aad3f7bc1353b860aeffc44c558273ad1",
+      "target": "Thú Pút Kít của cậu tựa như ruồi mất đầu, cứ bay lòng vòng quanh một thân cây lớn, phát ra những tiếng “xoẹt xoẹt” rè rè, dường như đã mất kiểm soát.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0012",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0012"
+      ],
+      "source": "“暴雨和雷霆都会干扰噗叽兽的控制晶片，此刻噗叽兽和辽远号已经失去了连接，我的动作稍微隐蔽一点，应该能逃脱噗叽兽的监控！”",
+      "source_hash": "407ce10c46dfa6bc31bd381132542b755c84326778b50567b3557d7cfc1e9915",
+      "target": "“Mưa bão và sấm chớp sẽ gây nhiễu chip điều khiển của thú Pút Kít. Hiện giờ thú Pút Kít đã mất kết nối với Liêu Viễn Hào, động tác của mình kín kẽ một chút thì chắc là trốn tránh được sự giám sát của nó!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0013",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0013"
+      ],
+      "source": "蓝方选手眼中的黑暗越来越浓郁。",
+      "source_hash": "fc0357660689c6429cf5f8ddb7b765b2954db07a519e27e7c62e8e88d78b4bf1",
+      "target": "Bóng tối trong mắt thí sinh phe Xanh ngày càng đậm đặc.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0014",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0014"
+      ],
+      "source": "四周隐隐约约传来红方选手的声音，包围圈正在逐渐缩小，很快就会抵达他藏身的洞穴。",
+      "source_hash": "2c66d0811cc6eeb7581e9d24a4e439ba108f04e7bd0fce3a2f0c0d8a60d65237",
+      "target": "Xung quanh mơ hồ vang lên tiếng động của các thí sinh phe Đỏ, vòng vây đang dần thắt chặt, rất nhanh sẽ tìm tới hang động nơi cậu ẩn náu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0015",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0015"
+      ],
+      "source": "蓝方选手眼中的黑暗变成了狰狞。",
+      "source_hash": "b58624c2908fcae4d5eb8ec7539cacf2168196b9d882c2d2adc74453b8b5c331",
+      "target": "Bóng tối trong mắt thí sinh phe Xanh biến thành vẻ dữ tợn.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0016",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0016"
+      ],
+      "source": "他伸出手指，咬破指尖，用鲜血在右腿内侧画了一道灵符。",
+      "source_hash": "25f29c343bac4e3bba8304883d4ae926e7f04a8e140d32786c1b4302548088ea",
+      "target": "Cậu đưa ngón tay lên cắn rách đầu ngón, dùng máu tươi vẽ một đạo linh phù lên mặt trong đùi phải.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0017",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0017"
+      ],
+      "source": "右腿内侧顿时传来一阵皮开肉绽的刺痛，仿佛有什么东西要撕破血肉，脱体而出！",
+      "source_hash": "e101d1dca74d7fc22ccc4716d7b711959c67b24a3e249f4cfe31bd7e5ff219a3",
+      "target": "Mặt trong đùi phải lập tức truyền đến một cơn đau rát như da thịt bị xé toạc, giống như có thứ gì đó muốn đâm rách máu thịt để chui ra ngoài!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0018",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0018"
+      ],
+      "source": "“唔——”",
+      "source_hash": "394a474462c4d9ff23ca6323e4e75823f626a476170139e056450e84176d02fb",
+      "target": "“Ưm——”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0019",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0019"
+      ],
+      "source": "蓝方选手死死咬牙，紧接着，灵符微微颤动，一股诡异的力量，扯开了他大腿内侧的肌肉，符阵中央，浮出一支荧光蓝色的药剂！",
+      "source_hash": "18bd8638f07ef76ceaec187e0e2cbada3c7569eb7d23f8d44698106633e885c8",
+      "target": "Thí sinh phe Xanh cắn chặt răng. Kế đó, linh phù hơi rung rinh, một luồng sức mạnh kỳ lạ rạch mở thớ cơ bên trong đùi cậu, ngay chính giữa trận pháp hiện ra một ống thuốc màu xanh lam phát huỳnh quang!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0020",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0020"
+      ],
+      "source": "“不到万不得已，我也不想作弊，可现在已经走投无路，是你们逼我的！”",
+      "source_hash": "e443979a1a461f1691e07f1434fd5dd8f3f198b104301378294935f9826e33fb",
+      "target": "“Nếu không phải bất đắc dĩ thì tao cũng không muốn gian lận, nhưng giờ đã cùng đường rồi, là do các người ép tao!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0021",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0021"
+      ],
+      "source": "“这支‘鬼龙7号兴奋剂’，只要注射到血管里，就能在瞬间强化身体，实力疯狂提升，更能强化我的脑域，令我拥有一次强大的精神攻击，足够我灭掉这帮该死的追杀者，冲进排行榜前五十名！”",
+      "source_hash": "931626851d1f2269bc24f970ba57d2f059ceba8749d61b72b57ff8fa4a71e098",
+      "target": "“Ống thuốc kích thích ‘Quỷ Long số 7’ này, chỉ cần tiêm thẳng vào mạch máu là có thể lập tức tăng cường cơ thể, thực lực tăng vọt điên cuồng, lại càng cường hóa vùng não của mình, giúp mình có được một đòn tấn công tinh thần mạnh mẽ, đủ để mình tiêu diệt lũ truy sát đáng chết này để chen chân vào top năm mươi trên bảng xếp hạng!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0022",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0022"
+      ],
+      "source": "蓝方选手狞笑起来，表情无比疯狂。",
+      "source_hash": "c9f6dd919ca255e4e20fb08ce7bf8b1b56fa60050ce27c7e49e3f15fe13dc91b",
+      "target": "Thí sinh phe Xanh cười sằng sặc, biểu cảm vô cùng điên loạn.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0023",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0023"
+      ],
+      "source": "使用“鬼龙7号兴奋剂”，当然有非常严重的后遗症，不过面对大学特招的诱惑，他已经顾不上那么许多了！",
+      "source_hash": "5a58aa09368e448df4f9121bf62320a33cda7665bf68ce7ff762b7aa66f36b47",
+      "target": "Sử dụng thuốc kích thích “Quỷ Long số 7” đương nhiên sẽ để lại di chứng cực kỳ nghiêm trọng, nhưng trước sự cám dỗ của việc được các trường đại học tuyển thẳng, cậu đã không còn bận tâm nhiều như vậy nữa rồi!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0024",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0024"
+      ],
+      "source": "用身体挡住噗叽兽的视线，蓝方选手激发了“鬼龙7号”的催化符阵，就要将兴奋剂注入体内。",
+      "source_hash": "21df77ad82b4ec7252f52059c0ae7f34a2d35a2cd0bb9e28f3f7e996db79f9cc",
+      "target": "Lấy cơ thể che khuất tầm nhìn của thú Pút Kít, thí sinh phe Xanh kích hoạt trận pháp xúc tác của “Quỷ Long số 7”, chuẩn bị tiêm chất kích thích vào trong người.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0025",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0025"
+      ],
+      "source": "从洞穴深处忽然传来一阵诡异的笑声，紧接着一阵猛恶的腥风席卷而来！",
+      "source_hash": "cf8bd0267d4f0c70c8a8ac0f36ea89bf4f6d17525dcd5e4000b21a622b5d4e22",
+      "target": "Từ sâu trong hang động bỗng nhiên truyền ra một tiếng cười kỳ quái, ngay sau đó là một luồng gió tanh tưởi hung hãn càn quét tới!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0026",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0026"
+      ],
+      "source": "蓝方选手还未反应过来，眼前一黑，什么都不知道了！",
+      "source_hash": "9a13ac4978f7b665b5203573455ee4f949784e7efe6681a8576d9fb20cdddeef",
+      "target": "Thí sinh phe Xanh còn chưa kịp phản ứng thì mắt đã tối sầm lại, không còn biết gì nữa!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0027",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0027"
+      ],
+      "source": "他的噗叽兽终于感应到了异样，瞬间喷出凝胶，却只包裹住了一具失去头颅的尸体。",
+      "source_hash": "3ce808577e1652faae8eae1d1bbac1fe44dd0782c0e15c4a18f076ccc8cfdd74",
+      "target": "Thú Pút Kít của cậu rốt cuộc cũng cảm nhận được điều bất thường, lập tức phun ra gel bảo vệ, nhưng lại chỉ bao bọc được một cái xác không đầu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0028",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0028"
+      ],
+      "source": "紧接着，凝胶果冻被一股怪力狠狠推了出来，一道白光紧随其后，奇快无比地蹿到半空中，双手抄住噗叽兽，用力一撕！",
+      "source_hash": "bf137cfbb33588fb7a7bc33b25dff1ea7f93bcecfdc924744d6ebdd48260ae80",
+      "target": "Ngay sau đó, khối gel đông đặc bị một sức mạnh khủng khiếp thô bạo đẩy ra ngoài, một vệt sáng trắng bám sát phía sau, nhanh như chớp vọt lên giữa không trung, hai tay chộp lấy thú Pút Kít rồi xé toạc ra làm đôi!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0029",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0029"
+      ],
+      "source": "噗叽兽顿时裂成两半，场面无比血腥！",
+      "source_hash": "d4cb0eafbb0957b80ef55264a2a6de17e946b8824251b13c011fd0aa6153f6c6",
+      "target": "Thú Pút Kít lập tức đứt lìa làm hai nửa, cảnh tượng vô cùng đẫm máu!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0030",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0030"
+      ],
+      "source": "在狂风骤雨中，陆续有三分之一的噗叽兽都和监控中心失去联络，这头噗叽兽正是其中之一。",
+      "source_hash": "4895fa2b8e785df70d16813ab86a2444d3b2546543e48f0f947348ccc165573c",
+      "target": "Trong mưa gió bão bùng, đã có lần lượt một phần ba số thú Pút Kít mất liên lạc với trung tâm giám sát, con thú Pút Kít này chính là một trong số đó.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0031",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0031"
+      ],
+      "source": "因此，监控中心并没有及时发现这一幕。",
+      "source_hash": "04d3e1f8d8d38cabe4add3bc70e8a5f941734391f7117c60f16b7e975ebe9d00",
+      "target": "Vì vậy, trung tâm giám sát đã không kịp thời phát hiện ra cảnh tượng này.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0032",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0032"
+      ],
+      "source": "一道道闪电划过天空，不时将黑色丛林照得雪白。",
+      "source_hash": "f595e434e0cb52fe2da4d9423ea1094d7c60f85e27226a510984ec0a7b2c52da",
+      "target": "Từng tia chớp rạch ngang bầu trời, thỉnh thoảng lại rọi sáng rực cả khu rừng đen kịt.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0033",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0033"
+      ],
+      "source": "在闪电的照耀下，只见树梢上站着一头身高超过三米的白猿，它的面孔和人类极为相似，只是前额处生长着一只巨大无比的黄色怪眼，几乎占据了整个面孔的一半大小，连带着两只正常的眼球都被挤到了一边。",
+      "source_hash": "0680bb0288cce00ab761d239facf70b67d5b942a5147e2ea346c8706fd5ea3b3",
+      "target": "Dưới ánh chớp soi rọi, chỉ thấy trên ngọn cây đang đứng một con vượn trắng cao hơn ba mét. Mặt nó cực kỳ giống con người, chỉ là ngay trán lại mọc ra một con mắt màu vàng khổng lồ dị hợm, chiếm mất gần một nửa khuôn mặt, khiến hai con mắt bình thường bị ép lệch hẳn sang một bên.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0034",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0034"
+      ],
+      "source": "看上去就像是一个畸形的胎儿，显得无比阴森可怖。",
+      "source_hash": "e125dc42f4ec06164c562feb8b4ae3b346ff72bbf9847da506f25155b6483a76",
+      "target": "Trông nó giống hệt như một thai nhi biến dạng dị hình, toát ra vẻ vô cùng âm u đáng sợ.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0035",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0035"
+      ],
+      "source": "这是一头巨目猿，上千头三目猿中才会诞生一头的变异体，不但拥有超卓的智能，精神攻击的威力也比普通三目猿强大十倍，是决赛中才释放出来的强大妖兽，也是整座魔蛟岛上最可怕的妖兽之一。",
+      "source_hash": "b284cff5af4041662a757262213e9dceb942fb984b4d08c818668751296f8d37",
+      "target": "Đây là một con Vượn Khổng Nhãn, một thể biến dị chỉ xuất hiện duy nhất trong số hàng ngàn con Vượn Ba Mắt, không chỉ sở hữu trí khôn vượt trội mà uy lực tấn công tinh thần cũng mạnh gấp mười lần so với Vượn Ba Mắt thông thường. Nó là loài yêu thú cực mạnh chỉ được thả ra trong trận chung kết, cũng là một trong những loài yêu thú đáng sợ nhất trên cả hòn Đảo Ma Giao.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0036",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0036"
+      ],
+      "source": "“嘎嘎，嘎嘎！”",
+      "source_hash": "b794d1193e99930fa53c241e7836490bc523155e34a662f92f1fd9ca561d77ac",
+      "target": "“Khặc khặc, khặc khặc!”",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0037",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0037"
+      ],
+      "source": "电闪雷鸣中，巨目猿发出诡异的笑声，毛茸茸的手掌中，“鬼龙7号”散发着妖异的蓝光。",
+      "source_hash": "cf871674253d2ec1564476c53c2f02268d0d2e42543cf0e2b9d82d14d65413ae",
+      "target": "Trong tiếng sấm vang chớp giật, con Vượn Khổng Nhãn phát ra tiếng cười quái dị, trong lòng bàn tay đầy lông lá của nó, ống thuốc “Quỷ Long số 7” đang tỏa ra thứ ánh sáng xanh lam ma mị.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0038",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0038"
+      ],
+      "source": "巨目猿脑门上硕大无朋的黄色眼珠转了一圈又一圈，很快弄明白了操作方式，它毫不犹豫，将“鬼龙7号兴奋剂”扎进了粗壮脖子，“嗤”一声，兴奋剂一股脑儿全部注射到血管之中。",
+      "source_hash": "54eb51b5ad671b7bf61f21d8262673e31252c4e4d50754b5d17d07ca16eee15b",
+      "target": "Con ngươi khổng lồ màu vàng trên trán con Vượn Khổng Nhãn xoay vài vòng, rất nhanh đã hiểu ra cách sử dụng. Nó không chút do dự, đâm thẳng ống kích thích “Quỷ Long số 7” vào cái cổ thô kệch của mình, “xoẹt” một tiếng, toàn bộ thuốc kích thích đã được tiêm hết vào trong mạch máu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0039",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0039"
+      ],
+      "source": "“吼，吼吼吼吼！”",
+      "source_hash": "9e16984217fec035b224376c6553f70fdd4d90f8ec05426d555d726382605291",
+      "target": "“Gào, gào gào gào gào!”",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0040",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0040"
+      ],
+      "source": "片刻之后，巨目猿不可遏制地颤抖起来！",
+      "source_hash": "9833113df29ce474b54b1237ceb2ad879b47f4529c5fe8725b2b1c524448af84",
+      "target": "Chỉ lát sau, con Vượn Khổng Nhãn bắt đầu run rẩy bần bật không thể kiểm soát nổi!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0041",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0041"
+      ],
+      "source": "随着一阵诡异的肌肉抽搐声，它的皮肤上出现了一道叠一道的裂痕，鲜血淋漓的肌肉以肉眼可见的速度疯狂生长，甚至在肌肉束之间还窜出了一丛丛肉芽，不断纠结，膨胀，交融，充血……令它的体型骤然膨胀超过两倍，变成一头无比狰狞的凶兽！",
+      "source_hash": "95e784d9737188a9184e64f2a41f923875a573ca8aa18ef7982aa18014353479",
+      "target": "Cùng với những tiếng co rút cơ bắp kỳ quái vang lên, trên lớp da của nó xuất hiện từng vết nứt chằng chi hoàng chéo lên nhau, những thớ cơ đầm đìa máu tươi điên cuồng phát triển với tốc độ mắt thường cũng có thể nhìn thấy được, thậm chí giữa các thớ cơ còn đâm ra từng chùm thịt thừa liên tục đan xen, phồng to, hòa vào nhau và tụ máu... khiến thể hình của nó đột ngột phình to gấp đôi, biến thành một con hung thú dữ tợn tột cùng!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0042",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0042"
+      ],
+      "source": "前额的独眼，变成了近乎凝固的血红！",
+      "source_hash": "4717377d575bffd1647d316cd0a63f364be07b05983a5ea138562ab00d251018",
+      "target": "Con mắt độc nhất trên trán nó hóa thành một màu đỏ ngầu như máu đặc!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0043",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0043"
+      ],
+      "source": "“在那里，找到了！”",
+      "source_hash": "2c225c393773ad30217f4b12cd8d8a39c91856b60f5916b09225fcf271bd9f71",
+      "target": "“Ở đằng kia, tìm thấy rồi!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0044",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0044"
+      ],
+      "source": "就在这时，不远处响起了红方选手兴奋的喊叫。",
+      "source_hash": "0b7d08e97d4e796941a0b1f6289c93a796c99026b70e9b9139a974ebadb35742",
+      "target": "Đúng lúc này, từ nơi không xa vang lên tiếng hò hét hưng phấn của thí sinh phe Đỏ.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0045",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0045"
+      ],
+      "source": "闪电的照耀下，巨目猿如婴儿般的鬼脸上浮现出一丝狰狞的笑意，朝叫声传来的方向电射而去！",
+      "source_hash": "19153ea411f08b667ce6a9396e4d6a18e21883499be64bb0c24dee1f011d433c",
+      "target": "Dưới ánh chớp soi rọi, gương mặt quỷ quái như trẻ con của con Vượn Khổng Nhãn hiện lên một nụ cười tàn ác, lao vút đi như một tia chớp về hướng phát ra tiếng gọi!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0046",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0046"
+      ],
+      "source": "紧接着，丛林深处就传来一阵血肉撕裂、骨骼磨碎的声音和歇斯底里的尖叫！",
+      "source_hash": "2b6e299edd0b3a424b73a868a0eb9d41f14eac6e316a8a82ab3a7dfa7a339ed0",
+      "target": "Ngay sau đó, từ tận cùng khu rừng rậm vọng ra những âm thanh da thịt bị xé toạc, xương cốt bị nghiền nát vụn cùng những tiếng thét chói tai đầy hoảng loạn!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0047",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0047"
+      ],
+      "source": "……",
+      "source_hash": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+      "target": "……",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0048",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0048"
+      ],
+      "source": "十分钟后。",
+      "source_hash": "a668cd810141080b2560418e27a5af65a0688c5dcc89df159085146e5fe14ec5",
+      "target": "Mười phút sau.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0049",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0049"
+      ],
+      "source": "补给点中，李耀盘膝而坐，闭目养神，左手边放着一柄链锯剑，右手边放着一柄雷霆战刀，背后还插着一柄焚天战斧，腰间交叉了两柄黑色匕首，堪称全副武装，随时能进入作战状态。",
+      "source_hash": "77c4a487e2d331cba183d768a87b74b1d4044530abcdcc662be9ebcf30e3570c",
+      "target": "Trong trạm tiếp tế, Lý Diệu đang khoanh chân ngồi xếp bằng nhắm mắt dưỡng thần. Bên tay trái cậu đặt một thanh kiếm cưa xích, bên tay phải là một thanh Lôi Đình Chiến Đao, sau lưng dắt một cây rìu chiến Phần Thiên, bên hông đeo chéo hai thanh dao găm màu đen, có thể nói là trang bị tận răng, sẵn sàng bước vào trạng thái chiến đấu bất cứ lúc nào.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0050",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0050"
+      ],
+      "source": "一旦有不开眼的蓝方选手敢进入补给点，他绝对会毫不犹豫地将其击杀！",
+      "source_hash": "3a4b116d06f3e8709f6b18625a3f674bb98fcc6136a961a3d5396dffa990b36e",
+      "target": "Một khi có thí sinh phe Xanh nào mù mắt dám xông vào trạm tiếp tế, cậu tuyệt đối sẽ ra tay tiêu diệt không chút đắn đo!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0051",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0051"
+      ],
+      "source": "“还有一天，这场暴雨一时半会儿看来也不会停止，我的积分仍旧在第一位，应该不会出什么意外了。”",
+      "source_hash": "7cde3adf1062722a61eb81307cd0d7f98191148a6811536068b0cc717aff8376",
+      "target": "“Còn một ngày nữa, cơn bão này xem ra trong chốc lát cũng không tạnh được, điểm tích lũy của mình vẫn đứng ở vị trí thứ nhất, chắc là sẽ không xảy ra chuyện ngoài ý muốn gì đâu.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0052",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0052"
+      ],
+      "source": "李耀心中盘算着，脸上终于浮现出了一丝轻松的笑意。",
+      "source_hash": "bad8a43549e587e89eb31cbb0a6acc0ff4867d8a314a6dc3cb66dbcc4de5fbe5",
+      "target": "Lý Diệu thầm tính toán trong lòng, trên mặt cuối cùng cũng hiện ra một nụ cười nhẹ nhõm.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0053",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0053"
+      ],
+      "source": "深海大学，颤抖吧，秃鹫李耀要来了！",
+      "source_hash": "e6cf5b33d701ba514fe6582f224437c0a2e9d75e60df47926b839f0626ffda18",
+      "target": "Đại học Thâm Hải, hãy run rẩy đi, Kền Kền Lý Diệu đang tới đây!",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0054",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0054"
+      ],
+      "source": "就在这时，他的眼皮疯狂地跳动起来，脑域深处闪出一抹心惊肉跳的感觉。",
+      "source_hash": "f8000bc92df610837ea1a1d1c4cb3191e162f112b8967f0f6743c0fe0ac4188b",
+      "target": "Ngay vào lúc này, mí mắt cậu giật liên hồi, tận sâu trong đầu óc dâng lên một cảm giác kinh hoàng thót tim.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0055",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0055"
+      ],
+      "source": "“不对，有血腥气，好浓烈的血腥气！”",
+      "source_hash": "9eee9caa9f6a8d1bb017b180cc203d854690d802b5a29bcee306dc9e36cf90cf",
+      "target": "“Không đúng, có mùi máu tanh, mùi máu tanh nồng nặc quá!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0056",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0056"
+      ],
+      "source": "一道熟悉的身影自丛林中一跃而出，一边发出杀猪般的嚎叫，一边朝补给点疯狂逃窜过来。",
+      "source_hash": "d4f09c08e949086ecfd9130ae3724066d6d84718acfaef24525471b155af1f53",
+      "target": "Một bóng người quen thuộc lao vọt ra khỏi rừng cây, vừa kêu gào thảm thiết như chọc tiết lợn vừa điên cuồng tháo chạy về phía trạm tiếp tế.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0057",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0057"
+      ],
+      "source": "赫然是郑东明！",
+      "source_hash": "ddccd35765a97787e5b34d687f4b12dd9ce2c4ea71327ac316d9a1fe46cb841f",
+      "target": "Bất ngờ thay, người đó lại chính là Trịnh Đông Minh!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0058",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0058"
+      ],
+      "source": "李耀目瞪口呆——郑东明可是凤山二中的超一流高手，据说实力和赫连烈不相上下，甚至还比赫连烈略胜一筹！",
+      "source_hash": "9f2829e799f98d6f17a024406b0d81e907e66a24d54768264b2c1163b5d3a914",
+      "target": "Lý Diệu trợn mắt há mồm, Trịnh Đông Minh vốn là cao thủ siêu hạng của trường Phượng Sơn Nhị Trung, nghe đồn thực lực của hắn ngang ngửa với Hách Liên Liệt, thậm chí còn nhỉnh hơn Hách Liên Liệt một bậc!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0065:align_0059",
+      "chapter_id": "chapter_0065",
+      "segment_ids": [
+        "chapter_0065:seg_0059"
+      ],
+      "source": "什么东西把他吓成这副屁滚尿流的模样？",
+      "source_hash": "bae940ec8bfc7f20978116be7060284d63c01008ee04813dcfc5f6b7ee852000",
+      "target": "Thứ gì lại có thể dọa hắn sợ đến mức hồn bay phách lạc như thế này chứ?",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    }
+  ],
+  "term_occurrences": [
+    {
+      "chapter_id": "chapter_0065",
+      "source_term": "郑东明",
+      "target_term": "Trịnh Đông Minh",
+      "segment_id": "chapter_0065:seg_0057",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0065",
+      "source_term": "噗叽兽",
+      "target_term": "thú Pút Kít",
+      "segment_id": "chapter_0065:seg_0011",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "beast",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0065",
+      "source_term": "辽远号",
+      "target_term": "Liêu Viễn Hào",
+      "segment_id": "chapter_0065:seg_0012",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0065",
+      "source_term": "深海大学",
+      "target_term": "Đại học Thâm Hải",
+      "segment_id": "chapter_0065:seg_0053",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0065",
+      "source_term": "魔蛟岛",
+      "target_term": "Đảo Ma Giao",
+      "segment_id": "chapter_0065:seg_0002",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0065",
+      "source_term": "三目猿",
+      "target_term": "Vượn Ba Mắt",
+      "segment_id": "chapter_0065:seg_0035",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "beast",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0065",
+      "source_term": "链锯剑",
+      "target_term": "kiếm cưa xích",
+      "segment_id": "chapter_0065:seg_0049",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0065",
+      "source_term": "雷霆战刀",
+      "target_term": "Lôi Đình Chiến Đao",
+      "segment_id": "chapter_0065:seg_0049",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0065",
+      "source_term": "焚天",
+      "target_term": "Phần Thiên",
+      "segment_id": "chapter_0065:seg_0049",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "general",
+      "confidence": 1.0
+    }
+  ],
+  "entity_mentions": [
+    {
+      "chapter_id": "chapter_0065",
+      "source_surface": "李耀",
+      "target_surface": "Lý Diệu",
+      "entity_type": "person",
+      "segment_id": "chapter_0065:seg_0049",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0065",
+      "source_surface": "赫连烈",
+      "target_surface": "Hách Liên Liệt",
+      "entity_type": "person",
+      "segment_id": "chapter_0065:seg_0058",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0065",
+      "source_surface": "郑东明",
+      "target_surface": "Trịnh Đông Minh",
+      "entity_type": "person",
+      "segment_id": "chapter_0065:seg_0057",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0065",
+      "source_surface": "周隐",
+      "target_surface": "Chu Ẩn",
+      "entity_type": "person",
+      "segment_id": "chapter_0065:seg_0014",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0065",
+      "source_surface": "深海大学",
+      "target_surface": "Đại học Thâm Hải",
+      "entity_type": "factions",
+      "segment_id": "chapter_0065:seg_0053",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0065",
+      "source_surface": "魔蛟岛",
+      "target_surface": "Đảo Ma Giao",
+      "entity_type": "locations",
+      "segment_id": "chapter_0065:seg_0002",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0065",
+      "source_surface": "辽远号",
+      "target_surface": "Liêu Viễn Hào",
+      "entity_type": "items",
+      "segment_id": "chapter_0065:seg_0012",
+      "confidence": 1.0
+    }
+  ],
+  "name_analysis": {
+    "status": "ok",
+    "evidence_count": 4,
+    "name_mentions": [
+      {
+        "chapter_id": "chapter_0065",
+        "name_source": "李耀",
+        "name_target": "Lý Diệu",
+        "segment_id": "chapter_0065:seg_0049",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0065",
+        "name_source": "赫连烈",
+        "name_target": "Hách Liên Liệt",
+        "segment_id": "chapter_0065:seg_0058",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0065",
+        "name_source": "郑东明",
+        "name_target": "Trịnh Đông Minh",
+        "segment_id": "chapter_0065:seg_0057",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0065",
+        "name_source": "周隐",
+        "name_target": "Chu Ẩn",
+        "segment_id": "chapter_0065:seg_0014",
+        "present_in_target": false,
+        "confidence": 1.0
+      }
+    ],
+    "name_entries": [
+      {
+        "name_source": "李耀",
+        "name_target": "Lý Diệu"
+      },
+      {
+        "name_source": "赫连烈",
+        "name_target": "Hách Liên Liệt"
+      },
+      {
+        "name_source": "郑东明",
+        "name_target": "Trịnh Đông Minh"
+      },
+      {
+        "name_source": "周隐",
+        "name_target": "Chu Ẩn"
+      }
+    ],
+    "transliteration_units": [],
+    "inferred_name_rules": [],
+    "ambiguity_cases": [],
+    "reusable_name_profile": {
+      "mapping_count": 4,
+      "has_ambiguity": false
+    }
+  },
+  "phrase_patterns": [],
+  "grammar_rule_candidates": [],
+  "analyzer_reports": {
+    "term_occurrences": {
+      "status": "ok",
+      "evidence_count": 9
+    },
+    "entity_mentions": {
+      "status": "ok",
+      "evidence_count": 7
+    },
+    "name_mentions": {
+      "status": "ok",
+      "evidence_count": 4
+    },
+    "phrase_patterns": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    },
+    "grammar_rule_candidates": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    }
+  },
+  "review_queue": [
+    {
+      "chapter_id": "chapter_0065",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "深海大学",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "一丝轻松的笑意。\n\n深海大学，颤抖吧，秃鹫李耀要"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0065",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "更能强化我的脑域",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "身体，实力疯狂提升，更能强化我的脑域，令我拥有一次强大的"
+        ]
+      }
+    }
+  ],
+  "quality_audit": {
+    "segment_coverage": 1.0,
+    "source_hash_match": true,
+    "target_reconstruction_match": true,
+    "invalid_ref_count": 0,
+    "locked_term_hit_rate": 1.0,
+    "missing_locked_terms": [],
+    "cjk_residue_count": 0,
+    "paragraph_drift_ratio": 0.0,
+    "pronoun_consistency_score": 1.0,
+    "warnings": []
+  }
+}

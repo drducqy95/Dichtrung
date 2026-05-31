@@ -1,0 +1,829 @@
+{
+  "schema_version": "2.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 47,
+  "chapter_id": "chapter_0047",
+  "source_manifest_hash": "e7e1b0149bb2c17c0e23f691615c21528cad7df0c9f1b207d4b96717a2744c28",
+  "aligned_segments": [
+    {
+      "alignment_id": "chapter_0047:align_0001",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0001"
+      ],
+      "source": "# 47.第47章 丁铃铛",
+      "source_hash": "e46116aaadf2d7f849fa0c95d97682b1f2b6080cf642dde820a444e82fe4180e",
+      "target": "# Chương 0047 - Đinh Linh Đang",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0047:align_0002",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0002"
+      ],
+      "source": "“既然能跻身‘九大’之列，肯定有与众不同之处，过去看看吧！”李耀心中一动，信步向大荒战院的展台走去。",
+      "source_hash": "0ed4733be1211a4232c400897db4594fb778d6ca9e4206f92aa942bc8f0bee52",
+      "target": "“Đã có thể chen chân vào hàng ngũ 'Chín đại học', khẳng định có điểm khác biệt với số đông, qua đó xem thử xem sao!” Trong lòng Lý Diệu khẽ động, thong thả bước chân đi về phía quầy triển lãm của Đại Hoang Chiến Viện.",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0047:align_0003",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0003"
+      ],
+      "source": "“大荒战院都是四肢发达，头脑简单的野蛮人，有什么可看的？不如和我再回去天幻书院，看有没有机会找几个学姐吃饭，一起探讨文学啦！喂，你不去我自己去，别说我不把你当猪朋狗友啊！”",
+      "source_hash": "5b3d46af12dca386aaa9072fbc96a37253cb0849b4af911bb7c3c3fd7731f872",
+      "target": "“Đại Hoang Chiến Viện toàn là lũ dã man tứ chi phát triển đầu óc ngu si, có cái gì mà xem chứ? Hay là cùng tớ quay lại Thiên Huyễn Thư Viện đi, xem có cơ hội tìm mấy chị khóa trên ăn bữa cơm, cùng nhau thảo luận văn học không kìa! Này, cậu không đi thì tớ tự đi đó, đừng có bảo tớ không coi cậu là chiến hữu chí cốt nhé!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0047:align_0004",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0004"
+      ],
+      "source": "郑东明在他身后叫了几声，见李耀没反应，郑东明摸了摸鼻子，又把微型晶脑调节到“镜面”模式，叉开五指把头发梳到一边，吹了声口哨，朝天幻书院方向走过去。",
+      "source_hash": "4d94ae2487adf806aeec128e9a95c6d5253633e2fb8847efb492c25cd9348aca",
+      "target": "Trịnh Đông Minh gọi với sau lưng cậu vài tiếng, thấy Lý Diệu không phản ứng gì, Trịnh Đông Minh sờ sờ mũi, lại điều chỉnh Tinh não mini sang chế độ \"soi gương\", xòe năm ngón tay vuốt tóc sang một bên, huýt một tiếng sáo rồi rảo bước đi về hướng Thiên Huyễn Thư Viện.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0047:align_0005",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0005"
+      ],
+      "source": "一走进大荒战院的展厅，李耀感觉脚步瞬间沉重起来，肩膀上好似压了一块千斤巨石，连空气都变得粘稠了几分。",
+      "source_hash": "02e1893575b7e2c004f5bd948e98502bcca38815b27220d190c04e3429d3f490",
+      "target": "Vừa bước vào phòng triển lãm của Đại Hoang Chiến Viện, Lý Diệu lập tức cảm thấy bước chân nặng nề hẳn đi, trên vai giống như bị đè nặng bởi một tảng đá ngàn cân, ngay cả không khí cũng trở nên sền sệt hơn mấy phần.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0047:align_0006",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0006"
+      ],
+      "source": "“人造重力场？”李耀来了兴趣。",
+      "source_hash": "e6943f2922326b4254ddc194734fb2cd18bcbef1a74ad84b40629503cc2c0961",
+      "target": "“Trường trọng lực nhân tạo?” Lý Diệu sinh ra hứng thú.",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0047:align_0007",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0007"
+      ],
+      "source": "这座展厅被布置成了一间粗野狂放的修炼场。",
+      "source_hash": "04db7aa5ae83f163e3841362936ca760b01893e53b6062b4c4edb1bc77b73138",
+      "target": "Phòng triển lãm này được bố trí thành một phòng tu luyện thô dã cuồng phóng.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0047:align_0008",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0008"
+      ],
+      "source": "四周乱七八糟地摆放着哑铃、杠铃、沙袋等等修炼器械。",
+      "source_hash": "9129ce9c31f4cb5b358627fa9aafe382863700824e756c244ef1d0fe45e7cdf5",
+      "target": "Xung quanh bày biện lộn xộn đủ loại tạ tay, tạ đòn, bao cát cùng các thiết bị tu luyện khác.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0047:align_0009",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0009"
+      ],
+      "source": "令李耀诧异的是，大部分修炼器械并非金属打造，而是用岩石和妖兽骸骨炼制而成，给人一种粗暴、野蛮却又热血沸腾的感觉，让他周身上下每一束肌肉都跃跃欲试。",
+      "source_hash": "2ca135c451a32910646c72d6970dcb667e590775755c1c6e6f01e0f39e520732",
+      "target": "Điều khiến Lý Diệu ngạc nhiên là hầu hết các dụng cụ tập luyện không phải làm bằng kim loại, mà được chế tác từ đá tảng và xương cốt yêu thú, mang lại một cảm giác thô bạo, dã man nhưng lại khiến người ta nhiệt huyết sôi trào, làm từng thớ cơ bắp khắp toàn thân cậu đều muốn vận động thử.",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0047:align_0010",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0010"
+      ],
+      "source": "到了这里，李耀又想起在后勤仓库中拼命挥洒汗水和青春的一个月。",
+      "source_hash": "312ff02d5273ad397c08df2d851cdcdc3ce8fd4a1b2d3ed103cb0075aa0b10c7",
+      "target": "Đến nơi này, Lý Diệu lại nhớ tới một tháng ròng rã liều mạng đổ mồ hôi và tuổi trẻ trong kho hậu cần.",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0047:align_0011",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0011"
+      ],
+      "source": "他情不自禁走到一座深蹲架前，把杠铃扛在肩上。",
+      "source_hash": "d5d126382830dda558025d3d83ecae6911a6a91b33e42f91b224d0651fd9142a",
+      "target": "Cậu không kiềm chế được bước tới trước một khung gánh tạ đòn, vác thanh tạ đòn lên vai.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0047:align_0012",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0012"
+      ],
+      "source": "这座深蹲架上的杠铃杆，是用妖兽的脊椎骨炼制而成，握在手里有非常细微的摩擦感，手感极佳，两侧用黑曜石磨制而成的杠铃片重量也正合适。",
+      "source_hash": "30e49c65744c25e97550007d3f2c6d9d82572adab12da444694cf05901506477",
+      "target": "Thanh tạ đòn trên khung gánh tạ này được chế tác từ xương sống yêu thú, cầm trong tay có cảm giác ma sát vô cùng tinh tế, cảm giác cầm nắm cực tốt, bánh tạ hai bên mài từ đá hắc diệu thạch cũng có trọng lượng rất vừa vặn.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0047:align_0013",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0013"
+      ],
+      "source": "李耀深吸一口气，脚趾抓地，腰胯发力，稳稳地蹲了下去。",
+      "source_hash": "cc4dc3bb0285d32888859fd7a3af7dc5112f2212fe262b772221c7d9c7a92826",
+      "target": "Lý Diệu hít sâu một hơi, các ngón chân bấu chặt xuống đất, eo hông phát lực, vững vàng ngồi xổm gánh tạ xuống.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0047:align_0014",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0014"
+      ],
+      "source": "……",
+      "source_hash": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+      "target": "……",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0047:align_0015",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0015"
+      ],
+      "source": "丁铃铛很烦躁。",
+      "source_hash": "205b8a04678219a64d5819d978b4410fbeacbfb200daffc4096e3323af0f5415",
+      "target": "Đinh Linh Đang đang rất bực bội.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0047:align_0016",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0016"
+      ],
+      "source": "她坐在哑铃凳上，双手各持一只一百公斤的骸骨哑铃，一边摧残、蹂躏、折磨，一边通过灵鹤传书，向千里之外的“大荒战院武斗系总教官”大声抱怨：",
+      "source_hash": "97016bf5a19f019d6735a58298498f251249c1df01d0b4253382e3f530f8932c",
+      "target": "Cô ngồi trên ghế tập tạ, hai tay mỗi bên cầm một quả tạ xương cốt nặng một trăm kg, vừa tàn phá, chà đạp, dày vò cặp tạ, vừa thông qua Linh Hạc Truyền Thư lớn tiếng phàn nàn với “Tổng giáo quan hệ Võ Đấu của Đại Hoang Chiến Viện” ở cách xa ngàn dặm:",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0047:align_0017",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0017"
+      ],
+      "source": "“老夏，咱们大荒战院，真能在这种遍地都是娘娘腔的地方招到学生？这里的人一个个都细胳膊细腿，弱到爆炸，我担心一个喷嚏都能把他们打倒！这些娘娘腔还不把咱们大荒战院放在眼里，都大半天了，只有小猫两三只进来参观，一个个还用非常诡异的眼神打量我，好像我是个武疯子，实在是欺人太甚！”",
+      "source_hash": "c40096c0b7ec4c85aec0cedae4eec1a06dde3ac3b13b6542a4feebce4937cc3e",
+      "target": "“Bác Hạ, Đại Hoang Chiến Viện chúng ta thật sự có thể tuyển được học sinh ở cái nơi đi đâu cũng gặp bọn ẻo lả này sao? Người ở đây đứa nào đứa nấy tay chân khẳng khiu, yếu nhớt phát khiếp, cháu lo chỉ cần hắt xì một cái cũng thổi bay được tụi nó mất! Lũ ẻo lả này còn không thèm để Đại Hoang Chiến Viện chúng ta vào mắt. Cả buổi trời rồi mà chỉ có lèo tèo vài mống vào xem, đứa nào đứa nấy còn nhìn cháu bằng ánh mắt cực kỳ quái đản, cứ như cháu là một đứa cuồng bạo lực vậy, thật là khinh người quá đáng!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0047:align_0018",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0018"
+      ],
+      "source": "她用力一挥，“吱呀”一声响，哑铃竟然被硬生生捏弯。",
+      "source_hash": "530ab4d9a63bb686647260a614c96b7812ea2a607f7f779940892abd56552f5b",
+      "target": "Cô dùng sức bóp mạnh một cái, một tiếng \"két\" vang lên, thanh tạ tay vậy mà bị bóp cong vẹo đi.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0047:align_0019",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0019"
+      ],
+      "source": "丁铃铛“哎呀”一声，吐了吐舌头，把弯曲的哑铃丢到一边——角落里堆了七八个哑铃，握把上都有鲜明的手印。",
+      "source_hash": "d376b5475459eb68f71e3c3408844c60d06bb5193ffd0070b16810a7ecfe3530",
+      "target": "Đinh Linh Đang kêu \"Ái chà\" một tiếng, lè lè lưỡi rồi quăng quả tạ bị cong sang một bên —— trong góc đã chất đống bảy tám quả tạ tay như vậy, trên phần tay cầm đều in hằn dấu tay rõ mồn một.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0047:align_0020",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0020"
+      ],
+      "source": "光幕中，一名身高超过两米二，浑身都是岩石般肌肉的赤红皮肤壮汉无奈地说道：",
+      "source_hash": "44513cbf94ca70220788e79f672dd561610baf0eeb1dfa7efaae09acd638fa86",
+      "target": "Trên màn ảnh ánh sáng, một đại hán da đỏ cao hơn hai mét hai, cơ bắp cuồn cuộn như đá tảng, bất đắc dĩ nói:",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0047:align_0021",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0021"
+      ],
+      "source": "“小丁，你别那么激动，我们大荒战院，已经连续三年没有在571号考区招收过新生，大家都习惯了，否则也不会让你一个刚刚毕业留校的新人，来这里当观察员——咱们只是来凑凑热闹，扩大影响，招不招得到人无所谓，反正在大荒一带，有的是修炼天才加入我们学校！”",
+      "source_hash": "531f7394e3eb6143d4ea8cb7e7c68e2a5e4c6faec141352d5c0389376b496110",
+      "target": "“Tiểu Đinh, cháu đừng có kích động thế. Đại Hoang Chiến Viện chúng ta đã liên tục ba năm không tuyển được tân sinh nào ở khu vực thi 571 này rồi, mọi người đều đã quen cả rồi. Bằng không thì cũng chẳng điều một người mới vừa tốt nghiệp ở lại trường như cháu tới đây làm giám sát viên —— chúng ta chỉ tới góp vui, mở rộng tầm ảnh hưởng thôi, có tuyển được người hay không không quan trọng. Dù sao ở vùng Đại Hoang cũng có thừa thiên tài tu luyện gia nhập trường chúng ta mà!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0047:align_0022",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0022"
+      ],
+      "source": "“我看也是，这里的人都是小白脸，没一个适合当‘炼体者’的……等等，老夏，我好像发现了一个目标！”丁铃铛偶然一抬头，看到正在做深蹲的李耀，两眼顿时放光。",
+      "source_hash": "a9dc6170f8a6016357d28efdcb8c41e8ada15fac2e81641c321652b803a4a41f",
+      "target": "“Cháu thấy cũng đúng, người ở đây toàn lũ mặt trắng thư sinh, chẳng có ai thích hợp làm 'luyện thể giả' cả... Khoan đã, bác Hạ, hình như cháu phát hiện ra một mục tiêu rồi!” Đinh Linh Đang vô tình ngẩng đầu lên, nhìn thấy Lý Diệu đang gánh tạ squat, hai mắt lập tức sáng rực.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0047:align_0023",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0023"
+      ],
+      "source": "“是吗，素质怎么样？”光幕那头的红皮巨汉也有一丝诧异。",
+      "source_hash": "61664b736dc3f3ffc93a656bbdeaa4ec533bfa5b96dec0e0120b26b5bb61a2e6",
+      "target": "“Thế à, tố chất thế nào?” Đại hán da đỏ ở đầu bên kia màn ảnh ánh sáng cũng có chút kinh ngạc.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0047:align_0024",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0024"
+      ],
+      "source": "能被丁铃铛当成“目标”的家伙，在大荒一带也不多见。",
+      "source_hash": "a2ea91f20af8fe82866666f10b4390935763a29899b9450021ce755851bf4690",
+      "target": "Kẻ có thể lọt vào mắt xanh làm \"mục tiêu\" của Đinh Linh Đang thì ngay cả ở vùng Đại Hoang cũng không có nhiều.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0047:align_0025",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0025"
+      ],
+      "source": "“相当不错，那胳膊，那胸肌，那腰身，那大腿，那屁股，啧啧啧啧，每一处肌肉都完美无缺，让人忍不住想要捏两把！简直是天生要走淬体之路的好苗子，不说了，我现在就过去——拿下他！”",
+      "source_hash": "20ade20cef8757f5d57071d7294829f79c4a37190dc4fc12bad9ec540d9a4dc1",
+      "target": "“Cực kỳ cừ khôi! Nhìn cánh tay kìa, cơ ngực kìa, vòng eo kìa, đùi kìa, cái mông kìa, chậc chậc chậc chậc, từng thớ cơ bắp đều hoàn mỹ không tì vết, khiến người ta nhịn không được muốn nắn bóp vài cái! Đúng là một mầm non tốt bẩm sinh để đi theo con đường tối thể. Không nói nữa, bây giờ cháu qua đó hốt cậu ta luôn!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0047:align_0026",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0026"
+      ],
+      "source": "丁铃铛摩拳擦掌，满脸兴奋，一步就窜到李耀背后。",
+      "source_hash": "5b1ba9bc0f8378bc6647d1cfd3668d5f63481e55770871929c301cf37961d414",
+      "target": "Đinh Linh Đang xoa tay xoa chân, mặt đầy hưng phấn, một bước liền vọt tới sau lưng Lý Diệu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0047:align_0027",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0027"
+      ],
+      "source": "“小兄弟，胸肌练得不错啊！”",
+      "source_hash": "9cd3916d5fe3f843f51e43fd002a7508449d48a6014f291a1985241c88916412",
+      "target": "“Cậu em nhỏ, ngực tập khá đấy chứ!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0047:align_0028",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0028"
+      ],
+      "source": "李耀只觉得一股猛恶的旋风从背后席卷而来，强大的压迫感几乎和“妖刀彭海”出场时一模一样！",
+      "source_hash": "21579500242c6882484a911fe281c84907d3f6f5148d87e63c82c9ba69217345",
+      "target": "Lý Diệu chỉ cảm thấy một luồng gió xoáy dữ dội từ phía sau cuộn trào lao tới, áp lực mãnh liệt gần như giống hệt lúc \"Yêu Đao Bành Hải\" xuất hiện!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0047:align_0029",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0029"
+      ],
+      "source": "唯一不同的是——妖刀彭海的气场犹如浪潮一般铺天盖地，而这股气焰就像是一头霸王龙从远处恶狠狠地冲撞过来，夹杂着浓烈的凶兽气息！",
+      "source_hash": "be649b8b64c19ad12a19e201d99e4a7812cffb7b222c995ee591b219954a7055",
+      "target": "Điểm khác biệt duy nhất chính là —— khí trường của Yêu Đao Bành Hải giống như sóng lớn cuồn cuộn ngập tràn trời đất, còn luồng khí thế này thì lại tựa như một con khủng long bạo chúa từ xa hung tợn đâm sầm tới, kèm theo mùi vị hung thú nồng nặc!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0047:align_0030",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0030"
+      ],
+      "source": "李耀只觉锋芒在背，连杠铃都顾不上，直接一个前滚翻，十分狼狈地避开了背后“凶兽”的侵袭，用几乎是拧断腰椎的力气，闪电转身，不由自主地摆出了最严密的防御姿态！",
+      "source_hash": "7e79fb316d084afbe19f4623262bdffa9bf23086840a6eadf1a5afc7540db43c",
+      "target": "Lý Diệu chỉ thấy lạnh buốt sống lưng, ngay cả thanh tạ đòn cũng không để ý tới, trực tiếp nhào lộn một vòng về phía trước, tránh né sự áp sát của \"hung thú\" phía sau một cách vô cùng chật vật. Cậu dùng sức mạnh suýt bẻ gãy cả cột sống eo, chớp mắt quay người lại, không tự chủ được bày ra tư thế phòng ngự nghiêm mật nhất!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0047:align_0031",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0031"
+      ],
+      "source": "他的额头冷汗涔涔，狂跳的心脏快要撕裂胸膛！",
+      "source_hash": "1a7a5cff87cf5193cf84d9b431b39906848160a3d455c559af023182933ff330",
+      "target": "Mồ hôi lạnh trên trán cậu tuôn ra đầm đìa, trái tim đập cuồng loạn tưởng chừng sắp xé rách lồng ngực!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0047:align_0032",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0032"
+      ],
+      "source": "“什么人的气场这么霸道，简直是一头人形暴龙！”李耀大口喘息，胆战心惊地打量这头“人形暴龙”。",
+      "source_hash": "a6460470d3d83d2a872a36689c6573ed6ee52554b8779a520b832bf817702e0c",
+      "target": "“Khí thế của kẻ nào mà bá đạo thế này, quả thực là một con khủng long bạo chúa hình người!” Lý Diệu thở hồng hộc, tim đập chân run quan sát con \"khủng long bạo chúa hình người\" này.",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0047:align_0033",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0033"
+      ],
+      "source": "出乎意料，出现在他身后的竟然是一个女人，一个十分年轻的女孩子。",
+      "source_hash": "754c6b7440766fc3ef2baf9b517b00647f5efed21357911dc18e311e017b96d9",
+      "target": "Ngoài dự liệu, xuất hiện ở phía sau cậu vậy mà lại là một người phụ nữ, một cô gái vô cùng trẻ trung.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0047:align_0034",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0034"
+      ],
+      "source": "这个女孩最多比他大三四岁，也就二十出头的样子。",
+      "source_hash": "ad56bc0e50848a19465fdf1204ed49e29a29f1e741edb10b25fa439e2f9c4336",
+      "target": "Cô gái này cùng lắm chỉ lớn hơn cậu ba bốn tuổi, tức là khoảng chừng ngoài hai mươi.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0047:align_0035",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0035"
+      ],
+      "source": "身材很高，甚至比他还略微高上一点点，身形非常健美，肩膀很宽，腰肢柔韧，双腿修长，浑圆的大腿鼓鼓涨涨，异常结实，令人忍不住遐想她另一处鼓涨，摸上去究竟是何等美妙的触感。",
+      "source_hash": "8b448e37e7a1b90b9b36a49c26e46d9cf8d37fbd42cb644ee9765dd49d1cc02b",
+      "target": "Thân hình rất cao, thậm chí còn nhỉnh hơn cậu một chút, vóc dáng cực kỳ khỏe khoắn. Bờ vai rộng, vòng eo dẻo dai, đôi chân dài thẳng tắp, cặp đùi tròn trịa săn chắc lạ thường, khiến người ta không khỏi liên tưởng đến một nơi đẫy đà khác của cô, không biết khi chạm vào sẽ có cảm giác tuyệt diệu đến nhường nào.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0047:align_0036",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0036"
+      ],
+      "source": "她身上只穿着最清凉的运动背心和短裤，任由魔鬼般的健美身材暴露在空气中。",
+      "source_hash": "2e4cdbd2f7c2e87c0d82d5bf77503fe7392bd944d886223d96c81914a5950a76",
+      "target": "Trên người cô chỉ mặc chiếc áo hai dây thể thao và quần đùi mát mẻ nhất, để mặc cho thân hình nóng bỏng quyến rũ phơi bày ra trong không khí.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0047:align_0037",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0037"
+      ],
+      "source": "她并不是那种传统的“肤若凝脂”的古典美女，皮肤是如同蜜糖一般的琥珀色，在灯光下闪闪发亮，又似绸缎一般丝滑。",
+      "source_hash": "a4a397fd7f46c680c8934b72bb3ab4542c6d17f1bee07a1b60050409ba7e5190",
+      "target": "Cô không phải kiểu mỹ nhân cổ điển da trắng như tuyết truyền thống, làn da cô có màu hổ phách ngọt ngào như mật ong, lấp lánh dưới ánh đèn, mịn màng như tơ lụa.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0047:align_0038",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0038"
+      ],
+      "source": "刚刚运动过后，琥珀色的皮肤上闪烁着微微的香汗，更显得晶莹剔透。",
+      "source_hash": "5938c78526254c8cf1af5ae3f321034192b5525dc597d17150e9d1e2f4d5d41f",
+      "target": "Vừa mới vận động xong, làn da màu hổ phách lấm tấm những giọt mồ hôi thơm nhẹ, càng trông thấy óng ánh long lanh.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0047:align_0039",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0039"
+      ],
+      "source": "她长得或许不算太漂亮，因为眉毛太粗，眼睛太大、太有神，鼻梁太挺，嘴唇又太薄，耳朵也像猴子一样直愣着，有点儿招风。",
+      "source_hash": "e10435a82581ad74350adff90429b78e9a549d99c29d3d8f743ae431bb25a586",
+      "target": "Nhan sắc của cô có lẽ không tính là quá xinh đẹp, vì cặp lông mày hơi rậm, đôi mắt quá to và sắc sảo, sống mũi quá cao, bờ môi lại quá mỏng, hai tai cũng dựng thẳng lên như tai khỉ, hơi vểnh ra ngoài.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0047:align_0040",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0040"
+      ],
+      "source": "一句话，她太英气，太直爽，太咄咄逼人，侵略性太强，完全没有一般男人喜欢的似水柔情。",
+      "source_hash": "2f979df3775eb4b5f7910198c5cf1d1f142e97c88666de03048228133c0a2c11",
+      "target": "Tóm lại một câu, cô quá anh khí, quá thẳng thắn, quá bức người và đầy tính xâm lược, hoàn toàn thiếu đi nét dịu dàng như nước mà đàn ông thường ưa thích.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0047:align_0041",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0041"
+      ],
+      "source": "不过她看来完全不在乎，依旧像是一个小小的太阳，肆无忌惮地挥洒着热力和光芒。",
+      "source_hash": "bc4239cad9689dc406e63217d9b219d68cc52305a671b6721dade9dcacc6eb0b",
+      "target": "Nhưng dường như cô hoàn toàn chẳng mảy may bận tâm, vẫn tựa như một vầng mặt trời nhỏ, tùy ý tỏa ra nhiệt lượng và ánh hào quang của mình.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0047:align_0042",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0042"
+      ],
+      "source": "最诡异的是，在她线条优美的脚踝上，分别用褪色的红绳绑着三四串铃铛。",
+      "source_hash": "fa87d236955e0a6939bf9a99297cdf8cd21f34702e1786a0ebd371b5ea5d6725",
+      "target": "Kỳ lạ nhất là trên mắt cá chân có đường cong tuyệt mỹ của cô lần lượt dùng sợi dây đỏ đã bạc màu buộc ba bốn chuỗi chuông nhỏ.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0047:align_0043",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0043"
+      ],
+      "source": "按理说，她大步跳过来，应该发出“叮呤当啷”的声音，可是李耀却一点儿都没听到，八串铃铛仿佛锈死了，稳稳地缠在她的美足之上。",
+      "source_hash": "fb7cd1a65b39f9a24cd342a1de674706d1647952cd075e844b4d8b059e8b6baf",
+      "target": "Theo lý mà nói, cô sải bước nhảy tới thì phải phát ra tiếng kêu \"đinh linh đang đang\", thế nhưng Lý Diệu lại chẳng nghe thấy một tiếng động nào. Tám chuỗi chuông nhỏ giống như bị gỉ sét dính chặt, quấn im lìm trên đôi chân ngọc của cô.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0047:align_0044",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0044"
+      ],
+      "source": "李耀暗自惊叹，这个女孩对双腿肌肉的细微控制已经做到极致，在高速运动中都能控制肌肉束不断颤动，抵消运动的震荡，保持铃铛的静止。",
+      "source_hash": "8177f144fa5b387669f37f0f1a928f5699b4750220b19b1da03e46412f7558f0",
+      "target": "Lý Diệu thầm kinh ngạc, sự kiểm soát tinh vi của cô gái này đối với cơ bắp hai chân đã đạt tới mức thượng thừa. Dù vận động ở tốc độ cao vẫn có thể điều khiển các sợi cơ liên tục rung động để triệt tiêu chấn động khi di chuyển, giữ cho chuông không kêu.",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0047:align_0045",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0045"
+      ],
+      "source": "“我叫丁铃铛，你可以叫我小玲姐，也可以叫我外号‘叮呤当啷’，小兄弟很强壮啊，在五倍重力下，还能面不改色地做那么多次深蹲，而且我一窜过来，你就感知到了，直觉很敏锐，是块好材料，来，认识一下！”",
+      "source_hash": "a1e62842f0423a2fe5993bf9c4a5e3728f4e5c3f6439746de5d3f21f57973108",
+      "target": "“Chị tên là Đinh Linh Đang, cưng có thể gọi chị là chị Linh, hoặc gọi biệt danh là 'Đinh Đinh Đang Đang' cũng được. Cậu em nhỏ này khỏe khoắn đấy chứ, dưới trọng lực gấp năm lần mà vẫn mặt không đổi sắc thực hiện squat nhiều lần như vậy. Hơn nữa chị vừa vọt tới là cưng đã phát hiện ra ngay, trực giác vô cùng nhạy bén, đúng là một phôi thép tốt! Nào, làm quen chút đi!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0047:align_0046",
+      "chapter_id": "chapter_0047",
+      "segment_ids": [
+        "chapter_0047:seg_0046"
+      ],
+      "source": "丁铃铛闪电伸手，根本不容李耀反对，一把攥住了他的右手，狠狠一捏。",
+      "source_hash": "e2cf9f55c50d6edad6713e94dcfc1703def722ece442d7cd74fb09bc8cf3abf3",
+      "target": "Đinh Linh Đang ra tay nhanh như điện giật, căn bản không để Lý Diệu có cơ hội cự tuyệt, nắm chặt lấy tay phải cậu bóp mạnh một cái.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    }
+  ],
+  "term_occurrences": [
+    {
+      "chapter_id": "chapter_0047",
+      "source_term": "晶脑",
+      "target_term": "Tinh não",
+      "segment_id": "chapter_0047:seg_0004",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0047",
+      "source_term": "大荒战院",
+      "target_term": "Đại Hoang Chiến Viện",
+      "segment_id": "chapter_0047:seg_0002",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0047",
+      "source_term": "郑东明",
+      "target_term": "Trịnh Đông Minh",
+      "segment_id": "chapter_0047:seg_0004",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0047",
+      "source_term": "彭海",
+      "target_term": "Bành Hải",
+      "segment_id": "chapter_0047:seg_0028",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0047",
+      "source_term": "妖刀",
+      "target_term": "Yêu Đao",
+      "segment_id": "chapter_0047:seg_0028",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0047",
+      "source_term": "灵鹤传书",
+      "target_term": "Linh Hạc Truyền Thư",
+      "segment_id": "chapter_0047:seg_0016",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0047",
+      "source_term": "炼体者",
+      "target_term": "luyện thể giả",
+      "segment_id": "chapter_0047:seg_0022",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0047",
+      "source_term": "天幻书院",
+      "target_term": "Thiên Huyễn Thư Viện",
+      "segment_id": "chapter_0047:seg_0003",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0047",
+      "source_term": "武斗系",
+      "target_term": "hệ Võ Đấu",
+      "segment_id": "chapter_0047:seg_0016",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    }
+  ],
+  "entity_mentions": [
+    {
+      "chapter_id": "chapter_0047",
+      "source_surface": "李耀",
+      "target_surface": "Lý Diệu",
+      "entity_type": "person",
+      "segment_id": "chapter_0047:seg_0002",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0047",
+      "source_surface": "彭海",
+      "target_surface": "Bành Hải",
+      "entity_type": "person",
+      "segment_id": "chapter_0047:seg_0028",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0047",
+      "source_surface": "郑东明",
+      "target_surface": "Trịnh Đông Minh",
+      "entity_type": "person",
+      "segment_id": "chapter_0047:seg_0004",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0047",
+      "source_surface": "天幻书院",
+      "target_surface": "Thiên Huyễn Thư Viện",
+      "entity_type": "factions",
+      "segment_id": "chapter_0047:seg_0003",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0047",
+      "source_surface": "大荒战院",
+      "target_surface": "Đại Hoang Chiến Viện",
+      "entity_type": "factions",
+      "segment_id": "chapter_0047:seg_0002",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0047",
+      "source_surface": "淬体",
+      "target_surface": "tối thể",
+      "entity_type": "techniques",
+      "segment_id": "chapter_0047:seg_0025",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0047",
+      "source_surface": "灵鹤传书",
+      "target_surface": "Linh Hạc Truyền Thư",
+      "entity_type": "items",
+      "segment_id": "chapter_0047:seg_0016",
+      "confidence": 1.0
+    }
+  ],
+  "name_analysis": {
+    "status": "ok",
+    "evidence_count": 3,
+    "name_mentions": [
+      {
+        "chapter_id": "chapter_0047",
+        "name_source": "李耀",
+        "name_target": "Lý Diệu",
+        "segment_id": "chapter_0047:seg_0002",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0047",
+        "name_source": "彭海",
+        "name_target": "Bành Hải",
+        "segment_id": "chapter_0047:seg_0028",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0047",
+        "name_source": "郑东明",
+        "name_target": "Trịnh Đông Minh",
+        "segment_id": "chapter_0047:seg_0004",
+        "present_in_target": true,
+        "confidence": 1.0
+      }
+    ],
+    "name_entries": [
+      {
+        "name_source": "李耀",
+        "name_target": "Lý Diệu"
+      },
+      {
+        "name_source": "彭海",
+        "name_target": "Bành Hải"
+      },
+      {
+        "name_source": "郑东明",
+        "name_target": "Trịnh Đông Minh"
+      }
+    ],
+    "transliteration_units": [],
+    "inferred_name_rules": [],
+    "ambiguity_cases": [],
+    "reusable_name_profile": {
+      "mapping_count": 3,
+      "has_ambiguity": false
+    }
+  },
+  "phrase_patterns": [],
+  "grammar_rule_candidates": [],
+  "analyzer_reports": {
+    "term_occurrences": {
+      "status": "ok",
+      "evidence_count": 9
+    },
+    "entity_mentions": {
+      "status": "ok",
+      "evidence_count": 7
+    },
+    "name_mentions": {
+      "status": "ok",
+      "evidence_count": 3
+    },
+    "phrase_patterns": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    },
+    "grammar_rule_candidates": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    }
+  },
+  "review_queue": [
+    {
+      "chapter_id": "chapter_0047",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "丁铃铛",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.82,
+        "evidence": [
+          "# 47.第47章 丁铃铛\n\n  \n\n“既然能",
+          "铛的静止。\n\n“我叫丁铃铛，你可以叫我小玲姐，"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0047",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "妖刀彭海",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "强大的压迫感几乎和“妖刀彭海”出场时一模一样！\n"
+        ]
+      }
+    }
+  ],
+  "quality_audit": {
+    "segment_coverage": 1.0,
+    "source_hash_match": true,
+    "target_reconstruction_match": true,
+    "invalid_ref_count": 0,
+    "locked_term_hit_rate": 1.0,
+    "missing_locked_terms": [],
+    "cjk_residue_count": 0,
+    "paragraph_drift_ratio": 0.0,
+    "pronoun_consistency_score": 1.0,
+    "warnings": []
+  }
+}

@@ -1,0 +1,671 @@
+{
+  "schema_version": "2.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 40,
+  "chapter_id": "chapter_0040",
+  "source_manifest_hash": "af1efe496e24fd24c638e0e2f17130b3fcc529e3f767907f522471286f6b716c",
+  "aligned_segments": [
+    {
+      "alignment_id": "chapter_0040:align_0001",
+      "chapter_id": "chapter_0040",
+      "segment_ids": [
+        "chapter_0040:seg_0001"
+      ],
+      "source": "# 40.第40章 修真者的类型",
+      "source_hash": "0d42a240077c3e2bdd713d611c06045baa423b9bf11f0d37dabea0d8b04c8a01",
+      "target": "# Chương 0040 - Các loại hình tu chân giả",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0040:align_0002",
+      "chapter_id": "chapter_0040",
+      "segment_ids": [
+        "chapter_0040:seg_0002"
+      ],
+      "source": "“错，我不是赫连烈的朋友，是他的猪朋狗友。”郑东明耸了耸鼻尖，微笑道。",
+      "source_hash": "d09f4f26f86edef88f8fc147c52cfe05d180e2c705074941005b003ae8d5b5b3",
+      "target": "\"Sai rồi, tớ không phải là bạn của Hách Liên Liệt, mà là bạn bè nhậu nhẹt của cậu ta.\" Trịnh Đông Minh khịt mũi, mỉm cười nói.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0040:align_0003",
+      "chapter_id": "chapter_0040",
+      "segment_ids": [
+        "chapter_0040:seg_0003"
+      ],
+      "source": "“有什么区别？”李耀一愣。",
+      "source_hash": "8df5ad5d7ab48b5c19a67d0b41400245c51bc986e413e06684cda3d515bb4f61",
+      "target": "\"Có gì khác nhau sao?\" Lý Diệu ngẩn người.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0040:align_0004",
+      "chapter_id": "chapter_0040",
+      "segment_ids": [
+        "chapter_0040:seg_0004"
+      ],
+      "source": "“猪朋狗友是指——赫连烈可以找我吃饭、喝酒、飙飞梭、玩女人……总之寻开心的事情统统没问题，但如果是帮他打人，还是打实力在一个月之内突飞猛进，灵根开发度提升几十个点的超级猛人，这个就太高估大家的友谊了！”郑东明笑嘻嘻道，往李耀身边挪了一步。",
+      "source_hash": "65f374b3b9266806eb6f522cf8f235970dccd03611acbab65cecaa3b65040419",
+      "target": "\"Bạn bè ăn chơi nghĩa là —— Hách Liên Liệt có thể rủ tớ đi ăn cơm, uống rượu, đua phi toa, chơi đùa với phụ nữ... tóm lại là mấy chuyện tìm kiếm niềm vui thì hoàn toàn không có vấn đề gì. Thế nhưng, nếu bảo tớ giúp cậu ta đánh người, lại còn là một siêu cấp mãnh nhân có thực lực đột phá thần tốc trong vòng một tháng, độ khai phát linh căn tăng vọt mấy chục phần trăm, thì cái này quá đề cao tình bạn của chúng ta rồi!\" Trịnh Đông Minh cười hì hì nói, rồi dịch lại gần Lý Diệu một bước.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0040:align_0005",
+      "chapter_id": "chapter_0040",
+      "segment_ids": [
+        "chapter_0040:seg_0005"
+      ],
+      "source": "李耀不动声色地拉开一段距离：“所以你不是来找我麻烦？”",
+      "source_hash": "51f47970b1c28ce6cc7731fdd8405c129e37eaeb18e125c9d0a55198bd4bfc8b",
+      "target": "Lý Diệu lặng lẽ kéo giãn khoảng cách: \"Cho nên cậu không phải đến để gây phiền phức cho tớ?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0040:align_0006",
+      "chapter_id": "chapter_0040",
+      "segment_ids": [
+        "chapter_0040:seg_0006"
+      ],
+      "source": "郑东明又一次挪动过来，似乎没意识到李耀的冷淡，神情自若道：“你知不知道，联邦一共有多少种历史悠久的美酒，有多少家远近驰名的饭店，去年又有多少女孩子加入娱乐圈？”",
+      "source_hash": "8516639b6a94f42feb38215dbbb068f63711ac7dd804b339c76fd52531b83a8d",
+      "target": "Trịnh Đông Minh lại một lần nữa dịch sát lại, dường như không nhận ra sự lạnh nhạt của Lý Diệu, thần sắc tự nhiên nói: \"Cậu có biết, Liên bang có tổng cộng bao nhiêu loại rượu ngon lâu đời, bao nhiêu nhà hàng nổi tiếng gần xa, và năm ngoái có bao nhiêu cô gái gia nhập giới giải trí không?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0040:align_0007",
+      "chapter_id": "chapter_0040",
+      "segment_ids": [
+        "chapter_0040:seg_0007"
+      ],
+      "source": "李耀眨巴着眼睛，觉得有些跟不上郑东明说话的节奏：“不知道，又如何？”",
+      "source_hash": "3ef5382041fbe1bd1d1591be7f2f71321d553a7f73d77f1912513755d5120b17",
+      "target": "Lý Diệu chớp mắt, cảm thấy hơi không theo kịp nhịp điệu nói chuyện của Trịnh Đông Minh: \"Không biết, thì sao?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0040:align_0008",
+      "chapter_id": "chapter_0040",
+      "segment_ids": [
+        "chapter_0040:seg_0008"
+      ],
+      "source": "郑东明扳着手指头，一项项数据列举：“据我统计，联邦有一千三百多种历史悠久的美酒，有三十多万家饭店有口皆碑、值得尝试，而光是去年一年，在各大演艺公司新注册的女演员、女歌手等等，就有不下五十万人！”",
+      "source_hash": "c22fca94aee473ad40ea0b0bab5fb3bcd46eeb978e55c5e711e01439ebe2334b",
+      "target": "Trịnh Đông Minh bẻ ngón tay liệt kê từng số liệu: \"Theo tớ thống kê, Liên bang có hơn một ngàn ba trăm loại rượu ngon lâu đời, hơn ba trăm ngàn nhà hàng tiếng lành đồn xa, vô cùng đáng thử. Chỉ tính riêng năm ngoái, số lượng nữ diễn viên, nữ ca sĩ đăng ký mới ở các công ty giải trí lớn đã không dưới năm trăm ngàn người!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0040:align_0009",
+      "chapter_id": "chapter_0040",
+      "segment_ids": [
+        "chapter_0040:seg_0009"
+      ],
+      "source": "顿了一顿，郑东明叹了口气，“你知道啦，我是一个有钱到爆炸的富豪子弟，那么多美酒等我去品，那么多佳肴等我去吃，那么多倾国倾城的绝色佳人，只要我轻轻咳嗽一声，都会像女妖一样把自己扒光，再把我扒光按到床上——你觉得，我为什么要放着美酒不品，美食不吃，美女不干，却浪费宝贵时间，来找你麻烦？”",
+      "source_hash": "848249e4fb61243ca3b41121de1d9df65ad39f16a79b88316f45642a414daf59",
+      "target": "Ngừng một lát, Trịnh Đông Minh thở dài một hơi, \"Cậu biết đấy, tớ là một công tử nhà giàu nứt đố đổ vách, có biết bao nhiêu rượu ngon đang chờ tớ nếm thử, biết bao nhiêu mỹ vị chờ tớ thưởng thức, biết bao nhiêu tuyệt sắc giai nhân nghiêng nước nghiêng thành, chỉ cần tớ khẽ hắng giọng một tiếng, bọn họ sẽ tự động lột sạch quần áo như yêu nữ, rồi lột sạch tớ để đè lên giường —— cậu nghĩ xem, tại sao tớ phải bỏ rượu ngon không uống, mỹ thực không ăn, mỹ nữ không chơi, lại đi lãng phí thời gian quý báu để tìm cậu gây phiền phức?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0040:align_0010",
+      "chapter_id": "chapter_0040",
+      "segment_ids": [
+        "chapter_0040:seg_0010"
+      ],
+      "source": "李耀眯起眼睛，看了他半分钟，忽然一笑。",
+      "source_hash": "9ff73bcf0f7824a790d3023a3919e589734d5b6edd4c765b580b1d04ec303e74",
+      "target": "Lý Diệu nheo mắt nhìn hắn nửa phút, rồi bỗng nhiên nở nụ cười.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0040:align_0011",
+      "chapter_id": "chapter_0040",
+      "segment_ids": [
+        "chapter_0040:seg_0011"
+      ],
+      "source": "正如郑东明对他感兴趣一样，此刻的李耀，也对郑东明提起了一丝丝的兴趣。",
+      "source_hash": "9103613dd3dd08ace6bcc95aafc8999eb07698e423c95ee5d2f960e113d00a02",
+      "target": "Cũng giống như việc Trịnh Đông Minh có hứng thú với cậu, lúc này Lý Diệu cũng nảy sinh một tia hứng thú đối với Trịnh Đông Minh.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0040:align_0012",
+      "chapter_id": "chapter_0040",
+      "segment_ids": [
+        "chapter_0040:seg_0012"
+      ],
+      "source": "李耀耸了耸肩：“好，你不是来找我麻烦，那是来干什么，想要和我一起组队，在魔蛟岛上厮杀？”",
+      "source_hash": "bf22dcd54cd0f6764a2baf018896cd3b291ff4d2d0067c65678fdeee9f560c18",
+      "target": "Lý Diệu nhún vai: \"Được rồi, cậu không phải tới gây phiền phức, vậy thì tới làm gì? Muốn cùng tớ lập đội, chiến đấu trên Đảo Ma Giao sao?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0040:align_0013",
+      "chapter_id": "chapter_0040",
+      "segment_ids": [
+        "chapter_0040:seg_0013"
+      ],
+      "source": "郑东明道：“这只是目的之一，最主要还是想来和你聊聊，单纯的聊聊，如果用古修世界的话来说，就是过来‘结个善缘’而已！”",
+      "source_hash": "277df0a46e86d384b41a3c08826cf0177657d1709060ee4824a3f26913c3662e",
+      "target": "Trịnh Đông Minh nói: \"Đó chỉ là một trong những mục đích thôi. Chủ yếu nhất vẫn là muốn tới trò chuyện với cậu, thuần túy là trò chuyện thôi. Nếu dùng lời nói của thế giới cổ tu mà nói, chính là tới để 'kết thiện duyên'!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0040:align_0014",
+      "chapter_id": "chapter_0040",
+      "segment_ids": [
+        "chapter_0040:seg_0014"
+      ],
+      "source": "“你是富豪，我是穷鬼，我们不是一个世界的人，有什么可聊？”",
+      "source_hash": "f616eef935b7bba33b41e95bc9652f9892b31ac95960bc9106dcb5987a7bd42a",
+      "target": "\"Cậu là người giàu, tớ là kẻ nghèo, chúng ta không phải người cùng một thế giới, có gì để trò chuyện chứ?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0040:align_0015",
+      "chapter_id": "chapter_0040",
+      "segment_ids": [
+        "chapter_0040:seg_0015"
+      ],
+      "source": "“很多啊，比方说，李耀同学你身手这么好，听说在法宝维修上也很有一套，怎么样，有没有考虑好究竟考哪所学校，成为什么类型的修真者？”",
+      "source_hash": "1f625688864240c980f03a5754bb1a425babfd01c2968c5ac8b77ef4489f13d0",
+      "target": "\"Nhiều lắm chứ. Ví dụ như Lý Diệu học đệ cậu có thân thủ tốt thế này, nghe nói cũng rất có khiếu trong việc sửa chữa pháp bảo. Thế nào, cậu đã cân nhắc kỹ xem rốt cuộc thi vào trường nào, trở thành loại tu chân giả nào chưa?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0040:align_0016",
+      "chapter_id": "chapter_0040",
+      "segment_ids": [
+        "chapter_0040:seg_0016"
+      ],
+      "source": "“什么类型的修真者？修真者还有很多种类型么？”这倒是李耀从来没听说过的事情，他还以为修真者只有一种类型——就是驾驭飞剑在天空中打打杀杀的那一型。",
+      "source_hash": "4df2bdcf174e3d7d869f96a7defeb61311b715b27da26d4157b6342eeb9cea96",
+      "target": "\"Loại hình tu chân giả nào sao? Tu chân giả còn chia ra nhiều loại hình à?\" Đây quả thực là chuyện Lý Diệu chưa từng nghe nói tới, cậu cứ ngỡ tu chân giả chỉ có một loại —— chính là ngự kiếm phi hành, chém giết nhau trên bầu trời.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0040:align_0017",
+      "chapter_id": "chapter_0040",
+      "segment_ids": [
+        "chapter_0040:seg_0017"
+      ],
+      "source": "郑东明用一种“就知道你不懂，来，坐下来听郑少慢慢说”的眼神，十分得意地看了李耀一眼，清了清嗓子说道：“四万年前的古修世界，当然是不分类型，就只有一种修真者，最多还有什么修魔者，修妖者，不过那些都不算数，只是灵能来源的不同！而到了四万年后的现代修真界，社会大分工越来越细化，修真者也被分出了一共六大类。”",
+      "source_hash": "5495620a22d1c7740e2496f14903d343427f49b578cf763f987cb5d18d972831",
+      "target": "Trịnh Đông Minh liếc nhìn Lý Diệu một cái với vẻ vô cùng đắc ý, ánh mắt lộ vẻ \"Biết ngay là cậu không biết mà, nào, ngồi xuống nghe Trịnh thiếu gia từ từ kể cho nghe\", rồi hắng giọng nói: \"Thế giới cổ tu bốn vạn năm trước đương nhiên là không phân chia loại hình, chỉ có duy nhất một loại tu chân giả, cùng lắm thì có thêm tu ma giả, tu yêu giả, thế nhưng những thứ đó không tính, chỉ là sự khác biệt về nguồn linh năng mà thôi! Còn đến giới tu chân hiện đại sáu vạn năm sau, sự phân công lao động xã hội ngày càng chi tiết, tu chân giả cũng được chia làm sáu loại lớn.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0040:align_0018",
+      "chapter_id": "chapter_0040",
+      "segment_ids": [
+        "chapter_0040:seg_0018"
+      ],
+      "source": "他伸出肥胖的右手，叉开五指，先动了动大拇指：“第一型，也是最常见、最普通的，就是战斗型修真者啦，战斗型修真者最符合人们心目中对修真者的传统印象，差不多就是驾驭飞剑，纵横驰骋，和妖兽厮杀，这一种你肯定明白，就不用我多说了？”",
+      "source_hash": "3b229c9c5bc795efc1a7edce3632274ba25857221bf8ee98aabec1b47bab7f48",
+      "target": "Hắn đưa bàn tay phải mập mạp ra, xòe năm ngón tay, rồi ngọ nguậy ngón tay cái trước: \"Loại thứ nhất, cũng là loại phổ biến nhất, bình thường nhất, chính là tu chân giả hệ chiến đấu. Tu chân giả hệ chiến đấu phù hợp nhất với ấn tượng truyền thống của mọi người về tu chân giả, đại khái là ngự kiếm phi hành, ngang dọc vẫy vùng, chém giết với yêu thú. Loại này cậu chắc chắn hiểu rồi, tớ không cần nói nhiều chứ?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0040:align_0019",
+      "chapter_id": "chapter_0040",
+      "segment_ids": [
+        "chapter_0040:seg_0019"
+      ],
+      "source": "李耀点点头，战斗型修真者他当然能够理解，只是他没想到除了战斗型之外，居然还有五种类型的不同修真者。",
+      "source_hash": "8545c8a0c70f5033852176789dc8c28ed127bd8cba0fe6e3235b8d4a2193dcc2",
+      "target": "Lý Diệu gật đầu, tu chân giả hệ chiến đấu cậu đương nhiên hiểu được, chỉ là cậu không ngờ ngoài hệ chiến đấu ra, lại còn có năm loại tu chân giả khác biệt.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0040:align_0020",
+      "chapter_id": "chapter_0040",
+      "segment_ids": [
+        "chapter_0040:seg_0020"
+      ],
+      "source": "剩下五类修真者，又有些什么玄妙？",
+      "source_hash": "cf1afa2084d33660a5bf4834889385f586777139bcd33135c0b94aad5dba06d2",
+      "target": "Năm loại tu chân giả còn lại có điểm gì huyền diệu đây?",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0040:align_0021",
+      "chapter_id": "chapter_0040",
+      "segment_ids": [
+        "chapter_0040:seg_0021"
+      ],
+      "source": "郑东明勾了勾食指，继续道：“第二种，是‘管理型’修真者，这一类修真者未必掌握太强大的灵能，却拥有超一流的计算力，可以在电光火石的瞬间，计算几百万、几千万甚至上亿道神念，从庞大如无穷数的信息流中，找出暗藏的脉络和轨迹，并且预估事情发展的方向，做出最佳的决策——我这么说，你肯定不明白，举个例子来说，千万人口级别的大城市市长、掌控千军万马的将军、大集团的首脑、一个宗派的掌门，这种需要统筹管理的位置，就是‘管理型’修真者最擅长的职业。”",
+      "source_hash": "c4c96739a744e63ae3f131307f4bb1a6e8abfa07d0227dd3597962f756db072e",
+      "target": "Trịnh Đông Minh gập ngón trỏ lại, tiếp tục nói: \"Loại thứ hai là tu chân giả 'hệ quản lý'. Loại tu chân giả này chưa chắc đã nắm giữ linh năng quá mạnh mẽ, nhưng lại sở hữu năng lực tính toán siêu đẳng. Họ có thể tính toán hàng triệu, hàng chục triệu, thậm chí hàng trăm triệu luồng thần niệm trong tích tắc chớp nhoáng, tìm ra các mạch lạc và quỹ đạo ẩn giấu từ trong dòng thông tin khổng lồ như vô tận, đồng thời dự báo hướng phát triển của sự việc để đưa ra quyết sách tối ưu —— tớ nói thế này cậu chắc chắn không hiểu, lấy ví dụ thế này đi, thị trưởng của một thành phố cấp chục triệu dân, vị tướng quân thống lĩnh thiên quân vạn mã, người đứng đầu một tập đoàn lớn, chưởng môn của một tông phái, những vị trí cần quản lý tổng thể như vậy chính là nghề nghiệp mà tu chân giả 'hệ quản lý' giỏi nhất.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0040:align_0022",
+      "chapter_id": "chapter_0040",
+      "segment_ids": [
+        "chapter_0040:seg_0022"
+      ],
+      "source": "李耀心思电转，很快反应过来，不由点了点头。",
+      "source_hash": "bd39959b8aff33b916f141e2107862b410740436240c2c14cba8205495920888",
+      "target": "Lý Diệu suy nghĩ nhanh như chớp, nhanh chóng hiểu ra, không khỏi gật đầu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0040:align_0023",
+      "chapter_id": "chapter_0040",
+      "segment_ids": [
+        "chapter_0040:seg_0023"
+      ],
+      "source": "术业有专攻，个体战斗力强，和指挥千军万马是两回事，能一拳轰爆一座山，不代表能够成为一个合格的宗派掌门人。",
+      "source_hash": "ed62cb815b9cc61cf263f0c7349842767a72ad3d0851148eb66b83aed87f5ed2",
+      "target": "Nghề nào nghiệp nấy, sức chiến đấu cá nhân mạnh mẽ và việc chỉ huy thiên quân vạn mã là hai chuyện khác nhau. Có thể đấm nát một ngọn núi không có nghĩa là có thể trở thành một chưởng môn nhân hợp cách.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0040:align_0024",
+      "chapter_id": "chapter_0040",
+      "segment_ids": [
+        "chapter_0040:seg_0024"
+      ],
+      "source": "管理型修真者，的确有其存在的价值。",
+      "source_hash": "1c5b166130da34c55f5f1f990b7e95deee744e9a314488229bc05a3faa2ecadc",
+      "target": "Tu chân giả hệ quản lý quả thực có giá trị tồn tại của nó.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0040:align_0025",
+      "chapter_id": "chapter_0040",
+      "segment_ids": [
+        "chapter_0040:seg_0025"
+      ],
+      "source": "郑东明补充了一句：“目前，我们星耀联邦的最高议会议长‘徐浩然’，就是一名达到元婴期的管理型修真者，据说他的脑域经过极大开发，灵能运转到极限时，每秒钟可以处理超过八千万道念头，堪称‘人形超级晶脑’，也只有这种级数的强者，才能领导这么庞大的国家！”",
+      "source_hash": "3e73c7612f2c1b018d8dab5fd3ac261691757d84aa006a72126acfa2c73bf673",
+      "target": "Trịnh Đông Minh bổ sung một câu: \"Hiện tại, Nghị trưởng Nghị hội Tối cao của Liên bang Tinh Diệu chúng ta, 'Từ Hạo Nhiên', chính là một tu chân giả hệ quản lý đạt đến Nguyên Anh Kỳ. Nghe nói não bộ của ông ấy được khai phá cực lớn, khi linh năng vận chuyển đến cực hạn, mỗi giây có thể xử lý hơn tám mươi triệu luồng ý nghĩ, có thể gọi là 'Tinh não siêu cấp hình người'. Cũng chỉ có cường giả ở cấp bậc này mới có thể lãnh đạo một đất nước khổng lồ như vậy!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0040:align_0026",
+      "chapter_id": "chapter_0040",
+      "segment_ids": [
+        "chapter_0040:seg_0026"
+      ],
+      "source": "连徐浩然议长都是管理型修真者？李耀不由对这个类型刮目相看。",
+      "source_hash": "c2180c2280df041d279d6f8d0e2c90f11e5411cd524be087a75c059f346e0941",
+      "target": "Đến cả Nghị trưởng Từ Hạo Nhiên cũng là tu chân giả hệ quản lý? Lý Diệu không khỏi nhìn loại hình này bằng con mắt khác.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0040:align_0027",
+      "chapter_id": "chapter_0040",
+      "segment_ids": [
+        "chapter_0040:seg_0027"
+      ],
+      "source": "不过他对自己的认识很清醒，知道自己不是这块料，很快回过神来，问道：“那第三种类型呢？”",
+      "source_hash": "b4275cff664e1761fe31b9c1da5e4700e21ea59f23338e18f536bb74d3bdf126",
+      "target": "Thế nhưng cậu tự nhận thức bản thân rất tỉnh táo, biết mình không phải loại tài năng đó, liền nhanh chóng định thần lại hỏi: \"Vậy loại hình thứ ba thì sao?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0040:align_0028",
+      "chapter_id": "chapter_0040",
+      "segment_ids": [
+        "chapter_0040:seg_0028"
+      ],
+      "source": "郑东明晃动着中指，说道：“第三种，就是‘研究型’修真者，顾名思义，这种类型的修真者和管理型相似，拥有极强的‘计算力’，可以在瞬息间处理数以万计的神念，不过他们不够广博，而是喜欢钻研某一门特定的学科——研究型修真者往往会成为医生、律师、大学教授、各个行业的学术带头人，非常受人尊敬。”",
+      "source_hash": "e2fc6578f0d2a1228710b1b866aaa739e6f1a432ab793d8fcf099a1edeb3b3a4",
+      "target": "Trịnh Đông Minh ngọ nguậy ngón giữa, nói: \"Loại thứ ba chính là tu chân giả 'hệ nghiên cứu'. Đúng như tên gọi, loại tu chân giả này tương tự như hệ quản lý, sở hữu 'lực tính toán' cực mạnh, có thể xử lý hàng vạn luồng thần niệm trong nháy mắt. Có điều bọn họ không thích sự rộng lớn bao la mà thích đi sâu nghiên cứu một lĩnh vực chuyên môn cụ thể —— tu chân giả hệ nghiên cứu thường trở thành bác sĩ, luật sư, giáo sư đại học, người dẫn đầu học thuật của các ngành nghề, vô cùng được tôn kính.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0040:align_0029",
+      "chapter_id": "chapter_0040",
+      "segment_ids": [
+        "chapter_0040:seg_0029"
+      ],
+      "source": "李耀“哦”了一声，和管理型修真者比起来，研究型修真者似乎就要稍微弱一些。",
+      "source_hash": "90d4c397984a731005a974e981605ac3e8e6984f1a3de2f31870ce70676931da",
+      "target": "Lý Diệu \"Ồ\" một tiếng, so với tu chân giả hệ quản lý, tu chân giả hệ nghiên cứu dường như có vẻ yếu hơn một chút.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0040:align_0030",
+      "chapter_id": "chapter_0040",
+      "segment_ids": [
+        "chapter_0040:seg_0030"
+      ],
+      "source": "郑东明看出了他的不以为然，认真道：“你可不要觉得研究型修真者没用——强大的研究型修真者，可以推算出某一颗星星，在什么时候爆炸，从而吸收星爆之力来修炼；也可以通过一些细碎的化石，就推演出几十亿年前，某一种强大古兽的作战方式，甚至在这种作战方式的基础上，创造出一门全新的‘拟兽古武学’，更不要说一些恐怖的研究型修真者，醉心于医学，能把人和妖兽结合在一起，调制出战力强横的‘兽化兵’！当然，在联邦这是非法的，不过在联邦之外的一些混乱地域，有这种实力的研究型修真者，简直是神一样的存在！”",
+      "source_hash": "695a330e23e49b289305a3e62378565254bf91f31e6780bbce57a126aeecaad0",
+      "target": "Trịnh Đông Minh nhận ra sự khinh thường của cậu, nghiêm túc nói: \"Cậu đừng nghĩ tu chân giả hệ nghiên cứu là vô dụng —— tu chân giả hệ nghiên cứu mạnh mẽ có thể tính toán ra một ngôi sao nào đó sẽ nổ tung vào lúc nào, từ đó hấp thu sức mạnh của tinh bộc để tu luyện; cũng có thể thông qua một số hóa thạch vụn vặt để suy đoán ra phương thức chiến đấu của một loại cổ thú mạnh mẽ từ hàng tỷ năm trước, thậm chí là sáng tạo ra một môn võ học 'phỏng thú cổ võ học' hoàn toàn mới dựa trên phương thức chiến đấu đó. Huống chi còn có một số tu chân giả hệ nghiên cứu đáng sợ say mê y học, có thể kết hợp con người và yêu thú lại với nhau, chế tạo ra 'thú hóa binh' có lực chiến đấu cực kỳ hung hãn! Đương nhiên, ở Liên bang chuyện này là bất hợp pháp, nhưng ở một số vùng đất hỗn loạn ngoài Liên bang, tu chân giả hệ nghiên cứu sở hữu thực lực thế này quả thực tồn tại như thần linh vậy!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0040:align_0031",
+      "chapter_id": "chapter_0040",
+      "segment_ids": [
+        "chapter_0040:seg_0031"
+      ],
+      "source": "顿了一顿，郑东明阴恻恻一笑，压低声音道，“如果这些还不够的话，你这么想，在四万年前，研发出‘妖神病毒’，令‘灵兽’进化成‘妖兽’的那名修真者，也可以算是一名研究型修真者，怎么样，怕了没？”",
+      "source_hash": "1c2295dbc6f17ddc0d8fc4d49b1bd86b72072caefc1d8834e86375fd00eb141f",
+      "target": "Ngừng một lát, Trịnh Đông Minh nở nụ cười âm hiểm, hạ thấp giọng nói: \"Nếu như những cái này vẫn chưa đủ, thì cậu thử nghĩ xem, vị tu chân giả đã nghiên cứu chế tạo ra 'virus Yêu Thần' bốn vạn năm trước, khiến cho 'linh thú' tiến hóa thành 'yêu thú', cũng có thể coi là một tu chân giả hệ nghiên cứu đấy. Thế nào, sợ chưa?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    }
+  ],
+  "term_occurrences": [
+    {
+      "chapter_id": "chapter_0040",
+      "source_term": "晶脑",
+      "target_term": "Tinh não",
+      "segment_id": "chapter_0040:seg_0025",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0040",
+      "source_term": "元婴期",
+      "target_term": "Nguyên Anh Kỳ",
+      "segment_id": "chapter_0040:seg_0025",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "level",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0040",
+      "source_term": "妖神病毒",
+      "target_term": "virus Yêu Thần",
+      "segment_id": "chapter_0040:seg_0031",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0040",
+      "source_term": "灵根",
+      "target_term": "Linh căn",
+      "segment_id": "chapter_0040:seg_0004",
+      "present_in_target": false,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0040",
+      "source_term": "灵根开发度",
+      "target_term": "độ khai phát linh căn",
+      "segment_id": "chapter_0040:seg_0004",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0040",
+      "source_term": "郑东明",
+      "target_term": "Trịnh Đông Minh",
+      "segment_id": "chapter_0040:seg_0002",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "character",
+      "confidence": 1.0
+    }
+  ],
+  "entity_mentions": [
+    {
+      "chapter_id": "chapter_0040",
+      "source_surface": "李耀",
+      "target_surface": "Lý Diệu",
+      "entity_type": "person",
+      "segment_id": "chapter_0040:seg_0003",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0040",
+      "source_surface": "赫连烈",
+      "target_surface": "Hách Liên Liệt",
+      "entity_type": "person",
+      "segment_id": "chapter_0040:seg_0002",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0040",
+      "source_surface": "郑东明",
+      "target_surface": "Trịnh Đông Minh",
+      "entity_type": "person",
+      "segment_id": "chapter_0040:seg_0002",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0040",
+      "source_surface": "魔蛟岛",
+      "target_surface": "Đảo Ma Giao",
+      "entity_type": "locations",
+      "segment_id": "chapter_0040:seg_0012",
+      "confidence": 1.0
+    }
+  ],
+  "name_analysis": {
+    "status": "ok",
+    "evidence_count": 3,
+    "name_mentions": [
+      {
+        "chapter_id": "chapter_0040",
+        "name_source": "李耀",
+        "name_target": "Lý Diệu",
+        "segment_id": "chapter_0040:seg_0003",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0040",
+        "name_source": "赫连烈",
+        "name_target": "Hách Liên Liệt",
+        "segment_id": "chapter_0040:seg_0002",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0040",
+        "name_source": "郑东明",
+        "name_target": "Trịnh Đông Minh",
+        "segment_id": "chapter_0040:seg_0002",
+        "present_in_target": true,
+        "confidence": 1.0
+      }
+    ],
+    "name_entries": [
+      {
+        "name_source": "李耀",
+        "name_target": "Lý Diệu"
+      },
+      {
+        "name_source": "赫连烈",
+        "name_target": "Hách Liên Liệt"
+      },
+      {
+        "name_source": "郑东明",
+        "name_target": "Trịnh Đông Minh"
+      }
+    ],
+    "transliteration_units": [],
+    "inferred_name_rules": [],
+    "ambiguity_cases": [],
+    "reusable_name_profile": {
+      "mapping_count": 3,
+      "has_ambiguity": false
+    }
+  },
+  "phrase_patterns": [],
+  "grammar_rule_candidates": [],
+  "analyzer_reports": {
+    "term_occurrences": {
+      "status": "ok",
+      "evidence_count": 6
+    },
+    "entity_mentions": {
+      "status": "ok",
+      "evidence_count": 4
+    },
+    "name_mentions": {
+      "status": "ok",
+      "evidence_count": 3
+    },
+    "phrase_patterns": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    },
+    "grammar_rule_candidates": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    }
+  },
+  "review_queue": [
+    {
+      "chapter_id": "chapter_0040",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "东明",
+        "entity_type": "person",
+        "count": 3,
+        "confidence": 0.7,
+        "evidence": [
+          "睛，觉得有些跟不上郑东明说话的节奏：“不知道",
+          "蛟岛上厮杀？”\n\n郑东明道：“这只是目的之一",
+          "要稍微弱一些。\n\n郑东明看出了他的不以为然，"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0040",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "郑东明",
+        "entity_type": "person",
+        "count": 3,
+        "confidence": 0.82,
+        "evidence": [
+          "眼睛，觉得有些跟不上郑东明说话的节奏：“不知道",
+          "魔蛟岛上厮杀？”\n\n郑东明道：“这只是目的之一",
+          "就要稍微弱一些。\n\n郑东明看出了他的不以为然，"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0040",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "麻烦",
+        "entity_type": "person",
+        "count": 3,
+        "confidence": 0.7,
+        "evidence": [
+          "：“所以你不是来找我麻烦？”\n\n郑东明又一次",
+          "浪费宝贵时间，来找你麻烦？”\n\n李耀眯起眼睛",
+          "：“好，你不是来找我麻烦，那是来干什么，想要"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0040",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "明白",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "兽厮杀，这一种你肯定明白，就不用我多说了？”",
+          "—我这么说，你肯定不明白，举个例子来说，千万"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0040",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "一个宗派的掌门",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "将军、大集团的首脑、一个宗派的掌门，这种需要统筹管理的"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0040",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "不过在联邦之外的一些混乱地域",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "，在联邦这是非法的，不过在联邦之外的一些混乱地域，有这种实力的研究型"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0040",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "能一拳轰爆一座山",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "挥千军万马是两回事，能一拳轰爆一座山，不代表能够成为一个"
+        ]
+      }
+    }
+  ],
+  "quality_audit": {
+    "segment_coverage": 1.0,
+    "source_hash_match": true,
+    "target_reconstruction_match": true,
+    "invalid_ref_count": 0,
+    "locked_term_hit_rate": 1.0,
+    "missing_locked_terms": [],
+    "cjk_residue_count": 0,
+    "paragraph_drift_ratio": 0.0,
+    "pronoun_consistency_score": 1.0,
+    "warnings": []
+  }
+}

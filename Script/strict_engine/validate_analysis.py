@@ -1,108 +1,137 @@
 #!/usr/bin/env python3
-"""
-Validates analysis_result.json against its JSON schema and checks
-some heuristic quality thresholds.
-Phase 1: This is a warning-only validator. It will not block the pipeline.
-"""
+"""Strict gate for independently built analysis_result.v2 artifacts."""
+from __future__ import annotations
 
+import argparse
 import json
 from pathlib import Path
-import jsonschema
-import logging
+from typing import Any
 
+import jsonschema
+
+from analysis_contract import load_source_manifest, source_map
 from utils import io
 
-logger = io.get_logger("validate_analysis")
+LOGGER = io.get_logger("validate_analysis")
+SCHEMA_PATH = Path(__file__).resolve().parent / "schemas" / "analysis_result.schema.json"
 
-SCHEMA_PATH = io.DICHTRUNG_ROOT / "Script" / "strict_engine" / "schemas" / "analysis_result.schema.json"
 
-def load_schema() -> dict | None:
-    if not SCHEMA_PATH.exists():
-        logger.error(f"Analysis schema not found at {SCHEMA_PATH}")
-        return None
-    with open(SCHEMA_PATH, "r", encoding="utf-8") as f:
-        return json.load(f)
+def _refs(data: dict[str, Any]) -> list[str]:
+    refs = [
+        segment_id
+        for item in data.get("aligned_segments", [])
+        for segment_id in item.get("segment_ids", [])
+    ]
+    refs.extend(item["segment_id"] for item in data.get("term_occurrences", []))
+    refs.extend(item["segment_id"] for item in data.get("entity_mentions", []))
+    refs.extend(item["segment_id"] for item in data.get("name_analysis", {}).get("name_mentions", []))
+    for analyzer in ("phrase_patterns", "grammar_rule_candidates"):
+        refs.extend(
+            segment_id
+            for item in data.get(analyzer, [])
+            for segment_id in item.get("segment_ids", [])
+        )
+    return refs
 
-def validate_analysis(branch_name: str, chapter: int) -> dict:
-    """
-    Validates the analysis_result.json for a given branch and chapter.
-    Returns a report dict: { "passed": bool, "warnings": list[str], "errors": list[str] }
-    """
-    report = {"passed": True, "warnings": [], "errors": []}
-    
+
+def validate_analysis(branch_name: str, chapter: int) -> dict[str, Any]:
     branch_dir = io.resolve_branch_dir(branch_name)
-    analysis_dir = branch_dir / "runtime" / "analysis"
-    analysis_file = analysis_dir / f"chapter_{chapter:04d}.analysis_result.json"
-
-    if not analysis_file.exists():
-        report["errors"].append(f"Analysis result file missing: {analysis_file}")
-        report["passed"] = False
-        return report
-
-    schema = load_schema()
-    if not schema:
-        report["errors"].append("Could not load validation schema.")
-        report["passed"] = False
-        return report
-
-    data = io.load_json(analysis_file)
+    analysis_path = (
+        branch_dir
+        / "runtime"
+        / "analysis"
+        / f"chapter_{chapter:04d}.analysis_result.json"
+    )
+    errors: list[str] = []
+    warnings: list[str] = []
+    data = io.load_json(analysis_path)
     if not data:
-        report["errors"].append(f"Could not load analysis JSON: {analysis_file}")
-        report["passed"] = False
-        return report
+        return {"passed": False, "errors": [f"Analysis result missing: {analysis_path}"], "warnings": []}
 
-    # 1. Schema Validation
     try:
-        jsonschema.validate(instance=data, schema=schema)
-    except jsonschema.ValidationError as e:
-        report["errors"].append(f"Schema validation failed: {e.message} at {list(e.path)}")
-        report["passed"] = False
-    
-    # 2. Heuristic Threshold Checks (Warning-only for Phase 1)
-    if data.get("quality_audit"):
-        audit = data["quality_audit"]
-        
-        cov = audit.get("segment_coverage", 0)
-        if cov < 0.7:
-            report["warnings"].append(f"Low segment coverage: {cov:.2f} (expected >= 0.7)")
-            
-        hit_rate = audit.get("locked_term_hit_rate", 0)
-        if hit_rate < 0.8:
-            report["warnings"].append(f"Low locked term hit rate: {hit_rate:.2f} (expected >= 0.8)")
-            
-        cjk_residue = audit.get("cjk_residue_count", 0)
-        if cjk_residue > 0:
-            report["warnings"].append(f"Found {cjk_residue} CJK residues in analysis.")
+        jsonschema.validate(instance=data, schema=io.load_json(SCHEMA_PATH))
+    except jsonschema.ValidationError as exc:
+        errors.append(f"Schema validation failed: {exc.message} at {list(exc.path)}")
 
-    # 3. Aligned Segments Count Validation
-    # A typical chapter has 20-80+ sentences. Having <= 3 segments is almost
-    # certainly a sign the AI only wrote a token sample instead of analysing
-    # the full text.
-    segments = data.get("aligned_segments", [])
-    MIN_SEGMENTS = 5
-    if len(segments) < MIN_SEGMENTS:
-        report["warnings"].append(
-            f"CRITICAL: Only {len(segments)} aligned_segments found "
-            f"(expected >= {MIN_SEGMENTS}). The AI likely wrote only a "
-            f"sample segment instead of analysing the full chapter."
+    try:
+        manifest = load_source_manifest(branch_name, chapter)
+    except FileNotFoundError as exc:
+        manifest = {}
+        errors.append(str(exc))
+    expected_ids = set(source_map(manifest))
+    aligned_ids = [
+        segment_id
+        for item in data.get("aligned_segments", [])
+        for segment_id in item.get("segment_ids", [])
+    ]
+    duplicate_ids = sorted({item for item in aligned_ids if aligned_ids.count(item) > 1})
+    missing_ids = sorted(expected_ids - set(aligned_ids))
+    unknown_ids = sorted(set(aligned_ids) - expected_ids)
+    if duplicate_ids:
+        errors.append(f"Duplicate aligned source segment IDs: {duplicate_ids}")
+    if missing_ids:
+        errors.append(f"Missing aligned source segment IDs: {missing_ids}")
+    if unknown_ids:
+        errors.append(f"Unknown aligned source segment IDs: {unknown_ids}")
+    invalid_refs = sorted(set(_refs(data)) - expected_ids)
+    if invalid_refs:
+        errors.append(f"Analysis references unknown segment IDs: {invalid_refs}")
+    if data.get("source_manifest_hash") != manifest.get("source_manifest_hash"):
+        errors.append("Analysis source_manifest_hash does not match immutable manifest")
+
+    audit = data.get("quality_audit", {})
+    strict_audit = {
+        "segment_coverage": 1.0,
+        "source_hash_match": True,
+        "target_reconstruction_match": True,
+        "invalid_ref_count": 0,
+        "cjk_residue_count": 0,
+    }
+    for field, expected in strict_audit.items():
+        if audit.get(field) != expected:
+            errors.append(f"quality_audit.{field} must be {expected!r}, got {audit.get(field)!r}")
+    if audit.get("missing_locked_terms"):
+        errors.append(f"Missing locked terms: {audit['missing_locked_terms']}")
+    if audit.get("locked_term_hit_rate") != 1.0:
+        errors.append(
+            f"quality_audit.locked_term_hit_rate must be 1.0, got {audit.get('locked_term_hit_rate')!r}"
         )
 
-    # 4. Entity Mentions minimum sanity check
-    entities = data.get("entity_mentions", [])
-    if not entities:
-        report["warnings"].append(
-            "No entity_mentions found. Most chapters have at least "
-            "one character mentioned."
-        )
+    collections = {
+        "term_occurrences": data.get("term_occurrences", []),
+        "entity_mentions": data.get("entity_mentions", []),
+        "name_mentions": data.get("name_analysis", {}).get("name_mentions", []),
+        "phrase_patterns": data.get("phrase_patterns", []),
+        "grammar_rule_candidates": data.get("grammar_rule_candidates", []),
+    }
+    reports = data.get("analyzer_reports", {})
+    for name, items in collections.items():
+        report = reports.get(name)
+        if not report:
+            errors.append(f"Missing analyzer report: {name}")
+            continue
+        expected_status = "ok" if items else "no_evidence"
+        if report.get("status") != expected_status:
+            errors.append(
+                f"Analyzer {name} status must be {expected_status!r} for {len(items)} evidence rows"
+            )
+        if report.get("evidence_count") != len(items):
+            errors.append(
+                f"Analyzer {name} evidence_count mismatch: {report.get('evidence_count')} != {len(items)}"
+            )
 
-    return report
+    return {"passed": not errors, "errors": errors, "warnings": warnings}
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser(description="Validate analysis_result.v2")
+    parser.add_argument("--branch", required=True)
+    parser.add_argument("--chapter", required=True, type=int)
+    args = parser.parse_args()
+    report = validate_analysis(args.branch, args.chapter)
+    print(json.dumps(report, ensure_ascii=False, indent=2))
+    return 0 if report["passed"] else 1
+
 
 if __name__ == "__main__":
-    import argparse
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--branch", required=True)
-    parser.add_argument("--chapter", type=int, required=True)
-    args = parser.parse_args()
-    
-    res = validate_analysis(args.branch, args.chapter)
-    print(json.dumps(res, indent=2, ensure_ascii=False))
+    raise SystemExit(main())

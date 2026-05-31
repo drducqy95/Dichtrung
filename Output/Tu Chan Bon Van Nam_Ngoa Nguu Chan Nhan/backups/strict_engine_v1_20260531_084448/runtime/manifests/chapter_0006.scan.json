@@ -1,0 +1,121 @@
+{
+  "schema_version": "1.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 6,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan\\0006 - 6.第6章 大黑暗时代.md",
+  "source_char_count": 2301,
+  "characters": [
+    {
+      "source": "万年",
+      "entity_type": "person",
+      "count": 5,
+      "confidence": 0.7,
+      "evidence": [
+        "。”\n\n“此后整整三万年，都是人类的‘大黑暗",
+        "气的权力！”\n\n“三万年，整整三万年！昔日灿",
+        "\n\n“三万年，整整三万年！昔日灿烂辉煌，统治"
+      ]
+    },
+    {
+      "source": "后期",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "\n“可是到了古修文明后期，如同大爆炸一般，高",
+        "飞烟灭。”\n\n“内战后期，超过七成大千世界都"
+      ]
+    },
+    {
+      "source": "文明",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "创造出无比辉煌的古修文明，他们建立了从炼气、",
+        "，统治无尽星海的古修文明，就如黄沙之塔，被惊"
+      ]
+    },
+    {
+      "source": "时期",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "展过程中最重要的一个时期，甚至可以说正是大黑",
+        "\n“在古修文明的全盛时期，古修们开辟了一处又"
+      ]
+    },
+    {
+      "source": "时间",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "的——古修们用一千年时间，明白了这个真理，顺",
+        "妖兽’。”\n\n“百年时间，妖兽成为了修真界内"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "source": "人类才得到了一丝喘息的机会",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "夺利，矛盾不断尖锐，人类才得到了一丝喘息的机会，在无数修真天才的不"
+      ]
+    },
+    {
+      "source": "元始宗派",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "，重新创立了二十个‘元始宗派’，经过千年血战，人"
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "source": "迈向无尽的星辰大海",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "不断开拓生命的极限，迈向无尽的星辰大海。”\n\n“在古修文明"
+      ]
+    }
+  ],
+  "realms": [
+    "炼气",
+    "筑基",
+    "金丹",
+    "元婴",
+    "化神",
+    "渡劫"
+  ],
+  "techniques": [
+    "修真者根本不是久经",
+    "古传送阵",
+    "可是经",
+    "或许他的想法",
+    "才的名字和宗派已经",
+    "无尽星海的古传送阵",
+    "更何况还有掌",
+    "更是像他们曾经",
+    "没有留下半点印",
+    "的说法",
+    "离古修文明崩溃已经",
+    "结束已经",
+    "这是一道非常经"
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "大黑暗时代",
+      "target": "Đại Hắc Ám Thời Đại"
+    }
+  ],
+  "generated_at": "2026-05-30T04:55:40.571811+07:00"
+}

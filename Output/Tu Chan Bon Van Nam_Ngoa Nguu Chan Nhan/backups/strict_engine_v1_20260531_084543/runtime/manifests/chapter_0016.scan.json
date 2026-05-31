@@ -1,0 +1,87 @@
+{
+  "schema_version": "1.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 16,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan\\0016 - 16.第16章 一条海参.md",
+  "source_char_count": 2576,
+  "characters": [
+    {
+      "source": "连大少",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.82,
+      "evidence": [
+        "身后，笑吟吟道：“赫连大少，你醉了。”\n\n赫连",
+        "心豹子胆也不敢威胁赫连大少，只不过是多嘴提醒一"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "source": "自有其深厚的底蕴和超然的格局",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "立几十年不倒的餐厅，自有其深厚的底蕴和超然的格局，经营者并不会因为客"
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "source": "上东区",
+      "entity_type": "location",
+      "count": 2,
+      "confidence": 0.78,
+      "evidence": [
+        "直秉承的宗旨，整个‘上东区’谁人不知？赫连大少"
+      ]
+    },
+    {
+      "source": "就像一座从休眠状态中复苏的活火山",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "初的惊愕欲绝中清醒，就像一座从休眠状态中复苏的活火山，炙热的岩浆呼之欲出"
+      ]
+    }
+  ],
+  "realms": [],
+  "techniques": [
+    "一张胖脸已经",
+    "一条海参从赫连烈刀",
+    "地往左边挪了一小步",
+    "声色地向后退了几步",
+    "大胖子经",
+    "睁不开眼的劲风已经",
+    "胖子经",
+    "脸上的每一束神经",
+    "身体已经抢先一步",
+    "身穿经",
+    "这个大胖子经"
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "浮戈城",
+      "target": "Phù Qua Thành"
+    },
+    {
+      "source": "上东区",
+      "target": "khu Thượng Đông"
+    },
+    {
+      "source": "超高速晶轨列车",
+      "target": "tàu tốc hành tinh quỹ siêu tốc"
+    },
+    {
+      "source": "隐湖小境",
+      "target": "Ẩn Hồ Tiểu Cảnh"
+    },
+    {
+      "source": "郑东明",
+      "target": "Trịnh Đông Minh"
+    }
+  ],
+  "generated_at": "2026-05-30T05:33:27.773837+07:00"
+}

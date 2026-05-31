@@ -1,17 +1,1094 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
   "chapter": 18,
-  "aligned_segments": [],
-  "term_occurrences": [],
-  "entity_mentions": [],
+  "chapter_id": "chapter_0018",
+  "source_manifest_hash": "33c87c501469ac99dc6d92a6f5c63ff63ae33c9a9cb63a44a570ef40f7dc5368",
+  "aligned_segments": [
+    {
+      "alignment_id": "chapter_0018:align_0001",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0001",
+        "chapter_0018:seg_0002"
+      ],
+      "source": "# 18.第18章 强化药剂\n\n美食一条街人来人往，鱼龙混杂，厕所的环境十分恶劣，臭气熏天。",
+      "source_hash": "ba507de7f1eec4584714bf27199f141a305b06086f6f04a0f27bbbbf3ac0216a",
+      "target": "Con phố ẩm thực người qua kẻ lại tấp nập, vàng thau lẫn lộn, môi trường trong nhà vệ sinh vô cùng tồi tệ, mùi xú uế bốc lên ngút trời.",
+      "narrative_type": "narration",
+      "alignment_type": "merged_source"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0002",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0003"
+      ],
+      "source": "李耀捏着鼻子，打开一个蹲坑隔间，果然在隔间大门后面，发现了密密麻麻的几十条信息。",
+      "source_hash": "fe4746380f828dc7c7b25d51cab354d46c9a1d387f1496f1fa6fcc4e817cbbc3",
+      "target": "Lý Diệu bịt mũi, mở một buồng vệ sinh ngồi xổm ra, quả nhiên phát hiện ở mặt sau cánh cửa của buồng vệ sinh này có chi chít mấy chục mẩu thông tin.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0003",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0004"
+      ],
+      "source": "“你寂寞吗，你渴望吗，漫长的夜晚是否孤枕难眠？赶快联系灵鹤传书号码3877134，魔门妖女、佛宗圣女、美女剑修……几十位佳人任你挑选，长夜不再难熬！”",
+      "source_hash": "eb141add5cae85576c01ce8c817674b1c1f7fa24294434fd0348b2776b3fd5d6",
+      "target": "\"Bạn có cô đơn không, bạn có khát khao không, những đêm dài đằng đẵng có phải chăng chiếc gối chiếc khó ngủ? Hãy mau chóng liên hệ số Linh Hạc Truyền Thư 3877134, yêu nữ ma môn, thánh nữ Phật tông, mỹ nữ kiếm tu... mấy chục vị giai nhân mặc cho bạn lựa chọn, đêm dài không còn khó thức trắng!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0004",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0005"
+      ],
+      "source": "“专售各种二手高档飞梭车，车况一流，售价低廉，绝无事故车，灵鹤传书号码893764。”",
+      "source_hash": "0b4a1180debea8a2d26118f710107c3211ad3dd5b6d9cd72031291ee5bb45d9d",
+      "target": "\"Chuyên bán đủ loại xe phi thoi cao cấp cũ, tình trạng xe siêu tốt, giá cả bèo bọt, tuyệt đối không có xe tai nạn, số Linh Hạc Truyền Thư 893764.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0005",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0006"
+      ],
+      "source": "“7734982，上百名退役特种兵，十余名炼气期修真者，专门帮你解决任何‘麻烦’！”麻烦两个字是用红笔写的，后面还画着一个骷髅头，煞有介事。",
+      "source_hash": "57212a7eddbef5b4d13640a62b36394a703ea8e80447568bf9c62dc63364a912",
+      "target": "\"7734982, hàng trăm lính đặc nhiệm giải ngũ, hơn chục tu chân giả Luyện Khí Kỳ, chuyên môn giúp bạn giải quyết bất kỳ 'rắc rối' nào!\" Hai chữ \"rắc rối\" được viết bằng bút đỏ, đằng sau còn vẽ thêm một cái đầu lâu, trông có vẻ rất đe dọa.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0006",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0007"
+      ],
+      "source": "李耀一目十行，一路搜索，很快找到了自己需要的信息。",
+      "source_hash": "96f1261658a4cc6bf900cc325f713b8718fb6b9099cf49b7c1ccc76c4245464c",
+      "target": "Lý Diệu nhìn lướt qua một lượt mười dòng, dọc theo đường tìm kiếm, rất nhanh đã tìm thấy thông tin mà mình cần.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0007",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0008"
+      ],
+      "source": "“专供各种强化药剂，价格便宜，效力稳定，副作用小，扫描灵符查看详情。”",
+      "source_hash": "16f5327955f591ad385d49d5fe788c31f2c01e9eab501e2ac22b266443220824",
+      "target": "\"Chuyên cung cấp các loại thuốc tăng cường, giá rẻ, hiệu quả ổn định, tác dụng phụ nhỏ, quét linh phù để xem chi tiết.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0008",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0009"
+      ],
+      "source": "这条信息后面，印着一个由银丝组成，繁复玄奥、错综复杂的灵符。",
+      "source_hash": "ea89152a05367eea104f4d650482d34e2b4ed0569d4fbf00487e88a7e010c3b9",
+      "target": "Đằng sau mẩu thông tin này, có in một đạo linh phù được cấu tạo từ những sợi tơ bạc, phức tạp huyền ảo, đan xen chằng chịt.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0009",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0010"
+      ],
+      "source": "李耀从口袋里摸出一台微型随身晶脑，启动了扫描功能，一道蓝光扫过灵符，晶脑光幕中跳出来一个页面，却是浮戈城本地论坛中，“自由交流区”的一个帖子。",
+      "source_hash": "f48b435fe3d2b1a1aa30f30bb1fdfed6c0050682a444ee152920c1b102b591af",
+      "target": "Lý Diệu móc từ trong túi ra một chiếc tinh não mini mang theo người, khởi động chức năng quét hình. Một đạo ánh sáng xanh lam lướt qua linh phù, trên màn hình tinh não bật ra một trang web, lại chính là một bài đăng trong \"Khu giao lưu tự do\" của diễn đàn địa phương Phù Qua Thành.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0010",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0011"
+      ],
+      "source": "这个帖子里罗列了上百种不同的强化药剂，还详细介绍了价格、效果、副作用以及服用方法等等信息。",
+      "source_hash": "4925ebc59ec364b657dd6529a7344465d1c3b15ede430308e00439285da3b99c",
+      "target": "Trong bài đăng này có liệt kê hàng trăm loại thuốc tăng cường khác nhau, còn giới thiệu chi tiết về giá cả, công dụng, tác dụng phụ cũng như cách dùng vân vân.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0011",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0012"
+      ],
+      "source": "“强化药剂”只是一个统称，基本上，每个宗派甚至每一名稍有炼药知识的修真者都会尝试炼制独门的强化药剂。",
+      "source_hash": "0fdafdafac9d71b151af3dd13e3418eb8a51a908d7a7380e08b7a8b702762e69",
+      "target": "\"Thuốc tăng cường\" chỉ là một danh xưng gọi chung. Về cơ bản, mỗi một tông phái thậm chí là mỗi một tu chân giả có chút kiến thức luyện dược đều sẽ thử luyện chế ra loại thuốc tăng cường độc môn của riêng mình.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0012",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0013"
+      ],
+      "source": "根据原料以及炼制方法的差异，每一种强化药剂也拥有不同的功效。",
+      "source_hash": "48021d1a7255d8b8330c2b365203ce42ead5b2151f0b27bfbade5e091e86f0e8",
+      "target": "Tùy thuộc vào sự khác biệt của nguyên liệu và phương pháp luyện chế, mỗi một loại thuốc tăng cường cũng sở hữu những công hiệu khác nhau.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0013",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0014"
+      ],
+      "source": "有些能提升灵根开发度，强身健体；有些能在瞬间燃烧生命，提升战力；有些能滋养细胞，维持活性，延年益寿；有些则能令人雄风大振，龙精虎猛。",
+      "source_hash": "98f1e816acdfe6a6c80e5149e38627327c7e4b62814c5a59b3b60ce8c1a745c4",
+      "target": "Có loại có thể nâng cao độ khai phát linh căn, cường thân kiện thể; có loại có thể đốt cháy sinh mệnh trong nháy mắt, tăng cường chiến lực; có loại có thể bồi bổ tế bào, duy trì sự sống, kéo dài tuổi thọ; còn có loại có thể khiến người ta hùng phong đại chấn, long tinh hổ mãnh.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0014",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0015"
+      ],
+      "source": "经过数百年的发展，各大宗派推出了上万种比较安全，稳定而有效的强化药剂，不过售价都十分高昂，一般的平民阶层根本吃不消长期消费。",
+      "source_hash": "3c5b985275422cc1f10f926bc429fe289d7493263e142b9f3ce8e65ff6a52ccc",
+      "target": "Trải qua mấy trăm năm phát triển, các đại tông phái đã tung ra hàng vạn loại thuốc tăng cường tương đối an toàn, ổn định và hiệu quả, thế nhưng giá bán đều vô cùng đắt đỏ. Tầng lớp bình dân thông thường căn bản là không thể gánh nổi chi phí tiêu dùng lâu dài.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0015",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0016"
+      ],
+      "source": "这是一个无比庞大的市场，自然而然，就有人想要仿冒强化药剂。",
+      "source_hash": "4b821ec1583ac45d93be46c9e1adbea533ed49a6421b09a3c3002283264ccbe8",
+      "target": "Đây là một thị trường vô cùng khổng lồ, tự nhiên, cũng sẽ có người muốn làm nhái thuốc tăng cường.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0016",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0017"
+      ],
+      "source": "在上百年的不断试验之后，联邦南方边境，一座名叫“虬龙山寨”的小镇，终于出现了第一种仿制强化药剂。",
+      "source_hash": "2e2766ada35689f34613ba10284b22b5bc05eaa7c8e491930a60d56d710eddf7",
+      "target": "Sau hàng trăm năm không ngừng thử nghiệm, tại vùng biên giới phía nam của Liên bang, một thị trấn nhỏ có tên là \"Cù Long Sơn Trại\" cuối cùng đã xuất hiện loại thuốc tăng cường hàng nhái đầu tiên.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0017",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0018"
+      ],
+      "source": "这是断人财路的事情，仿制者不敢在强化药剂上光明正大打出名号，干脆标注为“山寨派”出品！",
+      "source_hash": "6e238d49cd6cca7345b2757967c0002442106f6fa56970be940612532d1eac18",
+      "target": "Đây là chuyện chặt đứt đường tài lộc của người khác, những kẻ làm nhái không dám ngang nhiên để lại danh tính trên thuốc tăng cường, dứt khoát dán nhãn là do \"Sơn Trại Phái\" sản xuất!",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0018",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0019"
+      ],
+      "source": "随着虬龙山寨不断扩张，从一个边境小镇变成拥有数千万人口的联邦第一混乱城市，号称“无法之地”，“山寨”二字，也变成了冒牌货的专属名称。",
+      "source_hash": "ae29590ef3ede4c186c379c5fcbea6f78486dbe38839ca887315aac463854e6e",
+      "target": "Cùng với sự bành trướng không ngừng của Cù Long Sơn Trại, từ một thị trấn nhỏ biên giới biến thành thành phố hỗn loạn đệ nhất Liên bang với hàng chục triệu dân số, được mệnh danh là \"Vùng đất Vô pháp\", hai chữ \"Sơn Trại\" cũng đã biến thành danh xưng chuyên dụng cho hàng giả.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0019",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0020"
+      ],
+      "source": "李耀准备购买的，就是一款知名青少年高考专用强化药剂的山寨版本。",
+      "source_hash": "7d0a5b35290e42819af4af524b55da0f4903204b3bc2e31e28b22ad7a97104ca",
+      "target": "Thứ mà Lý Diệu chuẩn bị mua, chính là phiên bản sơn trại của một loại thuốc tăng cường nổi tiếng dành riêng cho học sinh thanh thiếu niên ôn thi đại học.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0020",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0021"
+      ],
+      "source": "这种山寨药剂大多是在小作坊里非法炼制出来，质量极不稳定，一定要找一家比较靠谱的卖家。",
+      "source_hash": "87f109b4dde9a55316317323fc2ec2ea463c6308b4b24dd62051e09a689d6c1a",
+      "target": "Loại thuốc sơn trại này phần lớn được luyện chế trái phép trong các xưởng nhỏ, chất lượng cực kỳ bất ổn, nhất định phải tìm một người bán tương đối đáng tin cậy.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0021",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0022"
+      ],
+      "source": "李耀不忙着查看药剂详情，先把帖子拉到最下方，浏览网友评论。",
+      "source_hash": "ee475ab1d991174b60a618769d75924cb9265d750dbb38a91240cef8e4bb8aba",
+      "target": "Lý Diệu không vội vàng xem chi tiết về loại thuốc, mà trước tiên kéo bài đăng xuống tận dưới cùng để xem bình luận của cư dân mạng.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0022",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0023"
+      ],
+      "source": "他发现网友对这个药剂供应商的评价还算不错，看样子也不像是自卖自夸，而且商家提供的地址还是一个有门牌号码的正规地址。",
+      "source_hash": "fcccb665e0a258909631abb8ebbc8c9ee367b0e3f417b04d348a2d0359634a10",
+      "target": "Cậu phát hiện cư dân mạng đánh giá về nhà cung cấp thuốc này cũng khá tốt, xem ra cũng không giống như là tự mèo khen mèo dài đuôi. Hơn nữa, địa chỉ mà người bán cung cấp lại còn là một địa chỉ chính quy có số nhà đàng hoàng.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0023",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0024"
+      ],
+      "source": "这种坐商的信誉，就比打一枪换一个地方的流动小贩要高不少了。",
+      "source_hash": "c9ae7f4a8ffeefbc4d36bd766ff2615f7ca1d4ab5dfe718528b690a635e6d423",
+      "target": "Uy tín của loại thương nhân có cửa hàng cố định này so với những kẻ buôn bán dạo đổi chỗ liên tục hiển nhiên là cao hơn rất nhiều.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0024",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0025"
+      ],
+      "source": "他又把这个地址输入“万象搜索”，也没有查到什么负面新闻。",
+      "source_hash": "8127e87af6664880cb6e451ed2f97424fb67039021e2144f692fb91049ed0569",
+      "target": "Cậu lại gõ cái địa chỉ này vào \"Vạn Tượng Tìm Kiếm\", cũng không tra ra được tin tức tiêu cực nào.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0025",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0026"
+      ],
+      "source": "这才放下心来，查找自己需要的品种，很快找到相关信息。",
+      "source_hash": "89b59cc95ee0ada3c3b0e57b8baea4eefd19b10846918ccc869f79681ad8de31",
+      "target": "Lúc này mới yên tâm tìm kiếm loại thuốc mà mình cần, rất nhanh đã tìm thấy thông tin liên quan.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0026",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0027"
+      ],
+      "source": "有些意外，这家店铺给出的价格，要比一般的山寨货色高大约5%，不过老板说了，他采用的原材料和正品一模一样，炼制过程也非常规范，炼制出来的强化药剂纯度极高，基本没有副作用。",
+      "source_hash": "76bc7a454c553e2881134d0b690d7ed66a718202210a0cbc0b2bd776aaa6673e",
+      "target": "Hơi ngạc nhiên một chút là giá cả mà cửa hàng này đưa ra lại cao hơn khoảng 5% so với hàng sơn trại thông thường. Tuy nhiên, ông chủ lại nói rằng nguyên vật liệu mà hắn sử dụng giống y hệt như hàng chính hãng, quá trình luyện chế cũng vô cùng chuẩn mực, độ tinh khiết của loại thuốc tăng cường luyện ra cực cao, cơ bản là không có tác dụng phụ.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0027",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0028"
+      ],
+      "source": "权衡了一下，李耀通过灵鹤传书联系老板：“我要一百支‘天骄之路’高考专用强化药剂，有没有现货？”",
+      "source_hash": "f75a56765bb9a472ae73c02ac7b12b432dc8b393a078a0473aff1fe036ea8c1c",
+      "target": "Cân nhắc một phen, Lý Diệu liên hệ với ông chủ thông qua Linh Hạc Truyền Thư: \"Tôi muốn một trăm ống thuốc tăng cường ôn thi đại học 'Con Đường Thiên Kiêu', có sẵn hàng không?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0028",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0029"
+      ],
+      "source": "“有的，我就在店里，随时可以交易。”这笔生意金额不小，老板很快回应。",
+      "source_hash": "8edec084630fb7e6bda219bb19f6b8dfabf75b38b5bc35c309eac4e00ae61498",
+      "target": "\"Có, tôi đang ở tiệm, lúc nào cũng có thể giao dịch.\" Số tiền của mối làm ăn này không nhỏ, ông chủ rất nhanh đã phản hồi.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0029",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0030"
+      ],
+      "source": "“好，我马上过来。”",
+      "source_hash": "83cbfe2e490feab4a5cbe2b7a0a4d957fc20c96cd33fd8528ad81e8e6a12d027",
+      "target": "\"Được, tôi qua ngay đây.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0030",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0031"
+      ],
+      "source": "李耀关上晶脑，想了想，摸出一杆笔，在歪歪扭扭的信息缝隙之间，勉强插进去一段话。",
+      "source_hash": "da48e58e2cbdb8f6c2d70cc672e416fab42f11a03d4422b9d29ceb80598eda3b",
+      "target": "Lý Diệu tắt tinh não, suy nghĩ một lúc, lấy ra một cây bút, cố gắng lách vào khe hở giữa những dòng chữ xiêu vẹo một đoạn quảng cáo.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0031",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0032"
+      ],
+      "source": "“赤霄派退休高级炼器大师，发挥余热，携十余位精英弟子，专修各类飞剑、法宝、飞梭车，价格实惠，可以上门维修。”",
+      "source_hash": "2f6aef654df25e8d9b1a9cf1a05302bf0401e11a4d453a3c2dc561774c20991d",
+      "target": "\"Đại sư luyện khí cao cấp đã nghỉ hưu của Xích Tiêu Phái, tiếp tục phát huy nhiệt huyết, dẫn dắt hơn chục đệ tử tinh anh, chuyên sửa chữa các loại phi kiếm, pháp bảo, xe phi thoi, giá cả phải chăng, có thể đến tận nơi sửa chữa.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0032",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0033"
+      ],
+      "source": "他在后面留下了自己的工作专用灵鹤号码，心里盘算着，如果真有肥羊上门，可以让老王来扮演“赤霄派退休高级炼器大师”，狠狠宰上一刀。",
+      "source_hash": "964502412d7ec1f3d3c06c2507f3b398176be016d210fc5c8a98ab7d2673f04c",
+      "target": "Cậu để lại số Linh Hạc chuyên dùng cho công việc của mình ở bên dưới, trong lòng thầm tính toán, nếu như thực sự có con cừu béo nào tự vác xác tới cửa, có thể bảo lão Vương đóng vai \"Đại sư luyện khí cao cấp đã nghỉ hưu của Xích Tiêu Phái\", hung hăng chém một nhát thật đau.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0033",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0034"
+      ],
+      "source": "满意地拍了拍手，李耀走出公共厕所。",
+      "source_hash": "f7ec866d01b98ba0cec41e118be1cb1ebe9bfd8b30468ebdc724639e364da7b2",
+      "target": "Hài lòng vỗ vỗ tay, Lý Diệu bước ra khỏi nhà vệ sinh công cộng.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0034",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0035"
+      ],
+      "source": "店主留下的地址，和美食街隔了四个区域，大约五里路，李耀加快脚步。",
+      "source_hash": "7c59f512dafd67b15df7ac9f558c819557a23a96a513b27abc20d5c5da6c9153",
+      "target": "Địa chỉ mà chủ tiệm để lại cách phố ẩm thực bốn khu vực, khoảng cỡ năm dặm đường, Lý Diệu rảo bước nhanh hơn.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0035",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0036"
+      ],
+      "source": "穿过两片区域时，他在街角发现了一台“自动灵符售卖机”。",
+      "source_hash": "0845c0ac22c5eabb2ad6524b1741de299da324d9c9b6f8b3892152740bb822a8",
+      "target": "Khi đi xuyên qua hai khu vực, cậu phát hiện ở góc phố có một \"Máy bán linh phù tự động\".",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0036",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0037"
+      ],
+      "source": "这是一种很常见的便民设施，里面储备着数百种比较廉价的常用灵符，自助售卖，方便市民。",
+      "source_hash": "f173faa08da702d73093785ef0cdd87b3ff8f419d6e824cab5bb6ce8d5a463a7",
+      "target": "Đây là một loại tiện ích phục vụ người dân rất phổ biến. Bên trong dự trữ hàng trăm loại linh phù thông dụng có giá cả tương đối rẻ, tự động bán hàng, rất tiện lợi cho người dân.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0037",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0038"
+      ],
+      "source": "李耀心中一动，从口袋里摸出三枚硬币，塞进售卖机的吞币口，手指轻点，选择了“纹面符”。",
+      "source_hash": "70f90038be8acc750850defa266e6292bb9aff9f26233e30fe1e8f03781c8844",
+      "target": "Trong lòng Lý Diệu khẽ động, móc từ trong túi ra ba đồng tiền xu, nhét vào khe nuốt tiền của máy bán hàng, ngón tay điểm nhẹ, chọn mục \"Văn Diện Phù\".",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0038",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0039"
+      ],
+      "source": "售卖机高速震动了两秒钟，从下方的“出货口”，轻飘飘掉出一片东西。",
+      "source_hash": "192bd76ec631f85d0526d4375c5f08506fe756dba67dda5d0e0a81f9f66fd63b",
+      "target": "Máy bán hàng rung lên với tốc độ cao trong vòng hai giây đồng hồ, từ \"khe nhả hàng\" phía dưới nhẹ nhàng rơi ra một món đồ.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0039",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0040"
+      ],
+      "source": "撕开包装，是一张黏糊糊的面膜，上面镌刻着几十道符文，蜿蜒而下，交织成一束瑰丽的花纹。",
+      "source_hash": "5a6ac51cdfaf56a043fd66aa95cf17df79808750a45b3b2d1597fa2af815226e",
+      "target": "Xé bỏ lớp bao bì, bên trong là một miếng mặt nạ dính dính ướt ướt, trên đó điêu khắc mấy chục đạo phù văn lượn lờ uốn lượn, đan xen thành một dải hoa văn diễm lệ.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0040",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0041"
+      ],
+      "source": "将面膜贴在脸上，伴随着一阵“哧溜哧溜”的声音，李耀感觉面部肌肉一阵收缩和拉扯，凑近路边商店的玻璃橱窗一看，他的脸上布满了蜘蛛般的诡异花纹，就算死党孟江站在眼前，只怕也认不出他是何方神圣。",
+      "source_hash": "3cfa150b05adf79142ad249fb757c623a2c57142cf97c6c051496eab0830d197",
+      "target": "Dán miếng mặt nạ lên mặt, cùng với một trận âm thanh \"xoèn xoẹt\", Lý Diệu cảm nhận được cơ bắp trên mặt co rút và căng ra một chập. Cậu kề sát lại gần cửa sổ kính của một cửa hàng ven đường nhìn vào, chỉ thấy trên mặt đã bò kín những đường nét hoa văn kỳ dị giống như mạng nhện. Cho dù là thằng bạn nối khố Mạnh Giang đứng ngay trước mặt, e rằng cũng chẳng thể nhận ra cậu là thần thánh phương nào.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0041",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0042"
+      ],
+      "source": "地下鬼城鱼龙混杂，李耀还是第一次和这个药剂供应商打交道，不知道对方的底细，不得不小心谨慎，改头换面。",
+      "source_hash": "248811044af7145d1f1dca43627baeb300afe45cbc475299b58a5b13a90578f3",
+      "target": "Thành phố ngầm chợ quỷ vàng thau lẫn lộn, đây cũng là lần đầu tiên Lý Diệu giao dịch với tay buôn bán thuốc này, không biết rõ gốc gác của đối phương, không thể không cẩn thận đề phòng, thay hình đổi dạng.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0042",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0043"
+      ],
+      "source": "这样，万一双方闹出什么矛盾，大不了一拍屁股走人，干脆利落，不会留下手尾。",
+      "source_hash": "3919bd728a7bbc86defa4815a72b0bb16db2a9f026dee9b1484ade3673baeb48",
+      "target": "Như vậy, lỡ như hai bên có xảy ra mâu thuẫn gì, cùng lắm là phủi mông bỏ đi, gọn gàng dứt khoát, không để lại hậu họa.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0043",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0044"
+      ],
+      "source": "这种“纹面符”，在脸上催生出独特花纹，根据使用环境不同，效果可以维持十个钟头左右，是地下鬼市大受欢迎的热销灵符。",
+      "source_hash": "77936b0a727bddf93c79dde7b4a47c78fa6fb81d3c3594142988cd67fbbe4582",
+      "target": "Loại \"Văn Diện Phù\" này sẽ sinh ra những hoa văn độc đáo trên khuôn mặt, tùy thuộc vào môi trường sử dụng khác nhau mà hiệu quả có thể duy trì trong khoảng mười tiếng đồng hồ, là loại linh phù vô cùng được ưa chuộng ở chợ quỷ ngầm.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0044",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0045"
+      ],
+      "source": "特别是在进行灰色交易时，几乎人手一张，所以李耀也不怕药剂老板会起什么疑心。",
+      "source_hash": "b818288a7c1c2906d63bb8fae5cea04e791e81d4fbb95cd863ed65ff8b88b90f",
+      "target": "Đặc biệt là khi tiến hành những giao dịch trong vùng xám xịt, hầu như mỗi người đều có một tấm, nên Lý Diệu cũng không sợ tên chủ tiệm bán thuốc kia sẽ sinh lòng nghi ngờ gì.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0045",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0046"
+      ],
+      "source": "第六十三区是地下鬼市的灵能供应区，负责为整座地下要塞的通风管道和基础设施提供源源不断的灵力。",
+      "source_hash": "23bb45d5205243f6e87c776a6d19f81d6ae026e1ddebc1a3fb19d632541d83ea",
+      "target": "Khu vực thứ 63 là khu vực cung cấp linh năng của chợ quỷ ngầm, phụ trách cung cấp nguồn linh lực không dứt cho hệ thống đường ống thông gió và cơ sở hạ tầng của toàn bộ pháo đài dưới lòng đất.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0046",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0047"
+      ],
+      "source": "这里行人不多，通道狭窄，四周都是纵横交错的粗大管道，犹如万千金属巨蛇盘踞，因为年久失修，不少管道都锈迹斑斑，从接缝处“嗤嗤”往外喷射着蒸汽。",
+      "source_hash": "80ef02983ab7543ee43e36c3502b09a68aaae70b8321d55361faa8a1c9ba8b41",
+      "target": "Nơi này ít người qua lại, lối đi chật hẹp, xung quanh đều là những đường ống lớn đan xen ngang dọc tựa như hàng vạn con cự xà bằng kim loại đang cuộn mình. Vì đã lâu không được tu sửa, không ít đường ống đã rỉ sét loang lổ, từ những khe nối \"xì xì\" phun ra những làn hơi nước.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0047",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0048"
+      ],
+      "source": "阴暗的金属甬道，晶石灵灯坏了一半，剩下一半也是时明时暗，灯光忽隐忽现。",
+      "source_hash": "002da277ee74b78874b6b0e17cfff8fc7d6c89e4e39a6721b9477fc4c03fd8eb",
+      "target": "Lối đi bằng kim loại tối tăm, đèn linh thạch đã hỏng mất một nửa, một nửa còn lại cũng sáng tối chập chờn, ánh sáng lúc mờ lúc tỏ.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0048",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0049"
+      ],
+      "source": "在甬道最深处，半开着一扇狭窄的铁门，门上烙印着一头张牙舞爪的黑狼，黑狼头上还插着一柄带血的军刺，而铁门上面，用铁条焊接成四个方方正正的字：",
+      "source_hash": "b6414805b50ec50f99b74075b8e9adc0f9e621f2ed203075a80ac9aa26e56cd3",
+      "target": "Ở tận cùng sâu trong lối đi, một cánh cửa sắt hẹp hé mở một nửa, trên cánh cửa in hình một con hắc lang đang nhe nanh múa vuốt. Trên đầu hắc lang còn cắm một thanh quân thích đẫm máu. Mà ở phía trên cánh cửa sắt lại dùng những thanh sắt hàn thành bốn chữ vuông vức:",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0049",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0050"
+      ],
+      "source": "“军道杀狼！”",
+      "source_hash": "15adb498ffa1ec6f14d31d50a9069048c303a5c3e7561bb33d7218aa4d5a888a",
+      "target": "\"Quân Đạo Sát Lang!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0050",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0051"
+      ],
+      "source": "从里面，传来暴喝声，“砰砰”的击打声，铁锈的味道，还有浓郁的男性汗臭味。",
+      "source_hash": "ce62992d50ea2fe1ed29e6286e2f0e745b21f8f64a2c6e72e85898fed793d30f",
+      "target": "Từ bên trong truyền ra những tiếng gầm rống tức giận, những tiếng \"bịch bịch\" đánh đập, mùi rỉ sét của sắt thép, cùng với mùi mồ hôi đặc trưng của đàn ông nồng nặc.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0018:align_0051",
+      "chapter_id": "chapter_0018",
+      "segment_ids": [
+        "chapter_0018:seg_0052"
+      ],
+      "source": "这是一处修炼馆。",
+      "source_hash": "e95f0e66bf977ffd22fefe4f3169f0a3eb678381810990a8c138ca4b00ed554b",
+      "target": "Đây là một võ quán tu luyện.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    }
+  ],
+  "term_occurrences": [
+    {
+      "chapter_id": "chapter_0018",
+      "source_term": "浮戈城",
+      "target_term": "Phù Qua Thành",
+      "segment_id": "chapter_0018:seg_0010",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0018",
+      "source_term": "晶脑",
+      "target_term": "Tinh não",
+      "segment_id": "chapter_0018:seg_0010",
+      "present_in_target": false,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0018",
+      "source_term": "灵根",
+      "target_term": "Linh căn",
+      "segment_id": "chapter_0018:seg_0014",
+      "present_in_target": false,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0018",
+      "source_term": "灵根开发度",
+      "target_term": "độ khai phát linh căn",
+      "segment_id": "chapter_0018:seg_0014",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0018",
+      "source_term": "地下鬼市",
+      "target_term": "chợ quỷ ngầm",
+      "segment_id": "chapter_0018:seg_0044",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0018",
+      "source_term": "万象搜索",
+      "target_term": "Vạn Tượng Tìm Kiếm",
+      "segment_id": "chapter_0018:seg_0025",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0018",
+      "source_term": "虬龙山寨",
+      "target_term": "Cù Long Sơn Trại",
+      "segment_id": "chapter_0018:seg_0017",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0018",
+      "source_term": "天骄之路",
+      "target_term": "Con Đường Thiên Kiêu",
+      "segment_id": "chapter_0018:seg_0028",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0018",
+      "source_term": "纹面符",
+      "target_term": "Văn Diện Phù",
+      "segment_id": "chapter_0018:seg_0038",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0018",
+      "source_term": "第六十三区",
+      "target_term": "Khu 63",
+      "segment_id": "chapter_0018:seg_0046",
+      "present_in_target": false,
+      "is_locked": false,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0018",
+      "source_term": "军道杀狼",
+      "target_term": "Quân Đạo Sát Lang",
+      "segment_id": "chapter_0018:seg_0050",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0018",
+      "source_term": "灵鹤传书",
+      "target_term": "Linh Hạc Truyền Thư",
+      "segment_id": "chapter_0018:seg_0004",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    }
+  ],
+  "entity_mentions": [
+    {
+      "chapter_id": "chapter_0018",
+      "source_surface": "李耀",
+      "target_surface": "Lý Diệu",
+      "entity_type": "person",
+      "segment_id": "chapter_0018:seg_0003",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0018",
+      "source_surface": "老王",
+      "target_surface": "Lão Vương",
+      "entity_type": "person",
+      "segment_id": "chapter_0018:seg_0033",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0018",
+      "source_surface": "孟江",
+      "target_surface": "Mạnh Giang",
+      "entity_type": "person",
+      "segment_id": "chapter_0018:seg_0041",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0018",
+      "source_surface": "赤霄派",
+      "target_surface": "Xích Tiêu Phái",
+      "entity_type": "factions",
+      "segment_id": "chapter_0018:seg_0032",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0018",
+      "source_surface": "军道杀狼",
+      "target_surface": "Quân Đạo Sát Lang",
+      "entity_type": "factions",
+      "segment_id": "chapter_0018:seg_0050",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0018",
+      "source_surface": "强化药剂",
+      "target_surface": "Dược chất cường hóa Linh Căn",
+      "entity_type": "cultivation_resources",
+      "segment_id": "chapter_0018:seg_0001",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0018",
+      "source_surface": "天骄之路",
+      "target_surface": "Con Đường Thiên Kiêu",
+      "entity_type": "cultivation_resources",
+      "segment_id": "chapter_0018:seg_0028",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0018",
+      "source_surface": "浮戈城",
+      "target_surface": "Phù Qua Thành",
+      "entity_type": "locations",
+      "segment_id": "chapter_0018:seg_0010",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0018",
+      "source_surface": "虬龙山寨",
+      "target_surface": "Cù Long Sơn Trại",
+      "entity_type": "locations",
+      "segment_id": "chapter_0018:seg_0017",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0018",
+      "source_surface": "第六十三区",
+      "target_surface": "Khu 63",
+      "entity_type": "locations",
+      "segment_id": "chapter_0018:seg_0046",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0018",
+      "source_surface": "万象搜索",
+      "target_surface": "Vạn Tượng Tìm Kiếm",
+      "entity_type": "items",
+      "segment_id": "chapter_0018:seg_0025",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0018",
+      "source_surface": "纹面符",
+      "target_surface": "Văn Diện Phù",
+      "entity_type": "items",
+      "segment_id": "chapter_0018:seg_0038",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0018",
+      "source_surface": "灵鹤传书",
+      "target_surface": "Linh Hạc Truyền Thư",
+      "entity_type": "items",
+      "segment_id": "chapter_0018:seg_0004",
+      "confidence": 1.0
+    }
+  ],
+  "name_analysis": {
+    "status": "ok",
+    "evidence_count": 3,
+    "name_mentions": [
+      {
+        "chapter_id": "chapter_0018",
+        "name_source": "李耀",
+        "name_target": "Lý Diệu",
+        "segment_id": "chapter_0018:seg_0003",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0018",
+        "name_source": "老王",
+        "name_target": "Lão Vương",
+        "segment_id": "chapter_0018:seg_0033",
+        "present_in_target": false,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0018",
+        "name_source": "孟江",
+        "name_target": "Mạnh Giang",
+        "segment_id": "chapter_0018:seg_0041",
+        "present_in_target": true,
+        "confidence": 1.0
+      }
+    ],
+    "name_entries": [
+      {
+        "name_source": "李耀",
+        "name_target": "Lý Diệu"
+      },
+      {
+        "name_source": "老王",
+        "name_target": "Lão Vương"
+      },
+      {
+        "name_source": "孟江",
+        "name_target": "Mạnh Giang"
+      }
+    ],
+    "transliteration_units": [],
+    "inferred_name_rules": [],
+    "ambiguity_cases": [],
+    "reusable_name_profile": {
+      "mapping_count": 3,
+      "has_ambiguity": false
+    }
+  },
   "phrase_patterns": [],
   "grammar_rule_candidates": [],
+  "analyzer_reports": {
+    "term_occurrences": {
+      "status": "ok",
+      "evidence_count": 12
+    },
+    "entity_mentions": {
+      "status": "ok",
+      "evidence_count": 13
+    },
+    "name_mentions": {
+      "status": "ok",
+      "evidence_count": 3
+    },
+    "phrase_patterns": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    },
+    "grammar_rule_candidates": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    }
+  },
+  "review_queue": [
+    {
+      "chapter_id": "chapter_0018",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "花纹",
+        "entity_type": "person",
+        "count": 3,
+        "confidence": 0.7,
+        "evidence": [
+          "下，交织成一束瑰丽的花纹。\n\n将面膜贴在脸上",
+          "上布满了蜘蛛般的诡异花纹，就算死党孟江站在眼",
+          "”，在脸上催生出独特花纹，根据使用环境不同，"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0018",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "后面",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "隔间，果然在隔间大门后面，发现了密密麻麻的几",
+          "详情。”\n\n这条信息后面，印着一个由银丝组成"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0018",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "龙混杂",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.82,
+        "evidence": [
+          "食一条街人来人往，鱼龙混杂，厕所的环境十分恶劣",
+          "神圣。\n\n地下鬼城鱼龙混杂，李耀还是第一次和这"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0018",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "半开着一扇狭窄的铁门",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "。\n\n在甬道最深处，半开着一扇狭窄的铁门，门上烙印着一头张牙"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0018",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "如果真有肥羊上门",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "鹤号码，心里盘算着，如果真有肥羊上门，可以让老王来扮演“"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0018",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "山寨派",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "出名号，干脆标注为“山寨派”出品！\n\n随着虬龙"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0018",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "和美食街隔了四个区域",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "\n\n店主留下的地址，和美食街隔了四个区域，大约五里路，李耀加"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0018",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "的小镇",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "一座名叫“虬龙山寨”的小镇，终于出现了第一种仿"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0018",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "第六十三区是地下鬼市的灵能供应区",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "板会起什么疑心。\n\n第六十三区是地下鬼市的灵能供应区，负责为整座地下要塞"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0018",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "自由交流区",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "浮戈城本地论坛中，“自由交流区”的一个帖子。\n\n这"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0018",
+      "kind": "backfill_alignment_review",
+      "reason": "Legacy backfill grouped multiple source segments. Review this split/merge case before using it as semantic training evidence.",
+      "payload": {
+        "alignment_id": "chapter_0018:align_0001",
+        "segment_ids": [
+          "chapter_0018:seg_0001",
+          "chapter_0018:seg_0002"
+        ]
+      }
+    }
+  ],
   "quality_audit": {
     "segment_coverage": 1.0,
+    "source_hash_match": true,
+    "target_reconstruction_match": true,
+    "invalid_ref_count": 0,
     "locked_term_hit_rate": 1.0,
+    "missing_locked_terms": [],
     "cjk_residue_count": 0,
-    "paragraph_drift_ratio": 0.0,
+    "paragraph_drift_ratio": 0.019230769230769232,
     "pronoun_consistency_score": 1.0,
     "warnings": []
   }

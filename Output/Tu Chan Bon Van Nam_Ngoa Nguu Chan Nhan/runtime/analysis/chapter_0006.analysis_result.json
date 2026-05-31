@@ -1,15 +1,773 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
   "chapter": 6,
-  "aligned_segments": [],
-  "term_occurrences": [],
-  "entity_mentions": [],
+  "chapter_id": "chapter_0006",
+  "source_manifest_hash": "e83ff92c575540d327117ae31fa735bcb0b4085d23661549ff0b1f501c6c7503",
+  "aligned_segments": [
+    {
+      "alignment_id": "chapter_0006:align_0001",
+      "chapter_id": "chapter_0006",
+      "segment_ids": [
+        "chapter_0006:seg_0001"
+      ],
+      "source": "# 6.第6章 大黑暗时代",
+      "source_hash": "574215f9ee40dc4f3cafb4b9a3d9ba52ec4b65eea7511b39a2432d5a68e05aa6",
+      "target": "# Chương 6: Đại Hắc Ám Thời Đại",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0006:align_0002",
+      "chapter_id": "chapter_0006",
+      "segment_ids": [
+        "chapter_0006:seg_0002"
+      ],
+      "source": "李耀的睫毛一抖，脸色有些凝重，“大黑暗时代”是修真文明发展过程中最重要的一个时期，甚至可以说正是大黑暗时代划分了“古典修真时期”和“现代修真时期”，这是一道非常经典的问题，人尽皆知，却不容易回答全面。",
+      "source_hash": "2bfecbefa77fbc4675fd3c75d0d1f3f89feff1b0e60cb8e3e3624d861fdc5cc1",
+      "target": "Lông mi của Lý Diệu khẽ rung lên, nét mặt có phần ngưng trọng. \"Đại Hắc Ám Thời Đại\" là một thời kỳ quan trọng nhất trong quá trình phát triển của văn minh tu chân, thậm chí có thể nói chính Đại Hắc Ám Thời Đại đã phân chia giữa \"thời kỳ tu chân cổ điển\" và \"thời kỳ tu chân hiện đại\". Đây là một câu hỏi vô cùng kinh điển, ai nấy đều biết rõ nhưng để trả lời một cách toàn diện thì không hề dễ dàng chút nào.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0006:align_0003",
+      "chapter_id": "chapter_0006",
+      "segment_ids": [
+        "chapter_0006:seg_0003"
+      ],
+      "source": "沉吟片刻，李耀心思电转，神念飞扬：",
+      "source_hash": "e410b5ec4b416ffe545e546eb2cc59486c8300e399e719aee831a40d568b1a45",
+      "target": "Trầm ngâm một lát, đầu óc Lý Diệu xoay chuyển nhanh nhạy, thần niệm bay bổng:",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0006:align_0004",
+      "chapter_id": "chapter_0006",
+      "segment_ids": [
+        "chapter_0006:seg_0004"
+      ],
+      "source": "“古代修真者以永生不死为目标，创造出无比辉煌的古修文明，他们建立了从炼气、筑基到结丹、元婴……直至渡劫、真仙、不朽的升级体系，并且沿着这条道路勇往直前，不断开拓生命的极限，迈向无尽的星辰大海。”",
+      "source_hash": "822bf263efd8539d649881e393bf3e0423cdf4cdcbe4f5e23e18fbbe1f407b3a",
+      "target": "\"Các tu chân giả cổ đại lấy mục tiêu trường sinh bất tử làm đích đến, sáng tạo nên một nền văn minh cổ tu vô cùng huy hoàng rực rỡ. Họ đã thiết lập nên một hệ thống thăng cấp hoàn chỉnh từ Luyện Khí, Trúc Cơ cho đến Kết Đan, Nguyên Anh... rồi đến Độ Kiếp, Chân Tiên, Bất Hủ, và vững bước tiến lên trên con đường đó, không ngừng khai phá giới hạn của sinh mệnh, tiến thẳng vào tinh hải bao la vô tận.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0006:align_0005",
+      "chapter_id": "chapter_0006",
+      "segment_ids": [
+        "chapter_0006:seg_0005"
+      ],
+      "source": "“在古修文明的全盛时期，古修们开辟了一处又一处大千世界，构筑了贯穿无尽星海的古传送阵，在星辰和世界之间任意穿梭，甚至开始探索时间的终极奥秘！”",
+      "source_hash": "8f4d428ddbd49b259e39dc03b642fbfa1f94c1df8fc7b9fac3a8cd6ee4518aac",
+      "target": "\"Vào thời kỳ toàn thịnh của văn minh cổ tu, các cổ tu đã khai phá hết đại thiên thế giới này đến đại thiên thế giới khác, xây dựng nên các cổ truyền tống trận xuyên qua tinh hải vô tận, tự do di chuyển giữa các tinh cầu và thế giới, thậm chí bắt đầu khám phá bí ẩn tối cao của thời gian!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0006:align_0006",
+      "chapter_id": "chapter_0006",
+      "segment_ids": [
+        "chapter_0006:seg_0006"
+      ],
+      "source": "“随着古修文明不断进化，古代修真者变得越来越强大，越来越长寿，强者的数量也越来越多。”",
+      "source_hash": "de02d6cec3716ee4c3bd41b7a6f85e2909b4e3dfbe8c99ca2b21b04f53f0f341",
+      "target": "\"Cùng với sự tiến hóa không ngừng của văn minh cổ tu, các tu chân giả cổ đại ngày càng trở nên mạnh mẽ hơn, sống thọ hơn, và số lượng cường giả cũng ngày một đông đảo.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0006:align_0007",
+      "chapter_id": "chapter_0006",
+      "segment_ids": [
+        "chapter_0006:seg_0007"
+      ],
+      "source": "“在古修文明早期，三千世界中只有数百名金丹期修真者，几十名元婴期修真者，至于‘化神老怪’、‘渡劫真君’都是闻所未闻，几十个世界、几千年时间才有可能出现一个，绝对是凤毛麟角的存在！”",
+      "source_hash": "b95491afdc905f509b173fb2e00dc3fb51f176a6b1e812c1749be62bab8b0922",
+      "target": "\"Trong giai đoạn đầu của văn minh cổ tu, trong ba ngàn thế giới chỉ có vài trăm tu chân giả Kim Đan Kỳ, vài chục tu chân giả Nguyên Anh Kỳ. Còn những khái niệm như 'Hóa Thần lão quái', 'Độ Kiếp chân quân' thì hoàn toàn là chuyện chưa từng nghe thấy, phải trải qua hàng chục thế giới, hàng ngàn năm mới có thể xuất hiện một người, tuyệt đối là những tồn tại hiếm hoi như lông phượng sừng lân!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0006:align_0008",
+      "chapter_id": "chapter_0006",
+      "segment_ids": [
+        "chapter_0006:seg_0008"
+      ],
+      "source": "“可是到了古修文明后期，如同大爆炸一般，高阶修真者以几何级数倍增——在当时，有‘元婴多如狗，化神满地走’的说法。”",
+      "source_hash": "18e5e459a08bf2ac2e7665183c653e0cde6274949e78ee2e85c2689400f7006d",
+      "target": "\"Thế nhưng đến giai đoạn cuối của văn minh cổ tu, giống như một vụ nổ lớn, số lượng tu chân giả cấp cao tăng lên theo cấp số nhân — vào thời điểm đó, trong dân gian lưu truyền câu nói: 'Nguyên Anh nhiều như chó, Hóa Thần đi đầy đường'.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0006:align_0009",
+      "chapter_id": "chapter_0006",
+      "segment_ids": [
+        "chapter_0006:seg_0009"
+      ],
+      "source": "“如此之多的高阶修真者，都需要庞大的资源来修炼，再加上越来越多的修真者达到了近乎永生不朽，他们对资源的渴求也达到了——无穷无尽！”",
+      "source_hash": "f5d290e0f161181448a4e62722bea1828c07bde3663d81cfcf48a9565369462b",
+      "target": "\"Một lượng lớn tu chân giả cấp cao như vậy đều cần một nguồn tài nguyên khổng lồ để tu luyện. Cộng thêm việc ngày càng có nhiều tu chân giả đạt đến cảnh giới gần như trường sinh bất hủ, lòng tham tài nguyên của họ cũng đạt đến mức — vô cùng vô tận!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0006:align_0010",
+      "chapter_id": "chapter_0006",
+      "segment_ids": [
+        "chapter_0006:seg_0010"
+      ],
+      "source": "“一开始，还可以通过开发新的大千世界来满足贪婪的高阶修真者，可是经过上万年的开发，发现了将近五千个世界之后，有整整一千年，古修文明没能再发现哪怕一个新的大千世界。",
+      "source_hash": "16729c90e092548f42720cd32316456c709ddc17ba6b17f73bc0f7cb55d4d20b",
+      "target": "\"Ban đầu, họ còn có thể thỏa mãn lòng tham của các tu chân giả cấp cao bằng cách khai phá thêm các đại thiên thế giới mới. Tuy nhiên, sau hàng vạn năm khai phá và phát hiện ra gần năm ngàn thế giới, suốt một ngàn năm ròng rã, văn minh cổ tu không thể tìm ra thêm dù chỉ một đại thiên thế giới mới.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0006:align_0011",
+      "chapter_id": "chapter_0006",
+      "segment_ids": [
+        "chapter_0006:seg_0011"
+      ],
+      "source": "“世界是有限的，而修真者的索求是无限的——古修们用一千年时间，明白了这个真理，顺理成章，为了争夺有限的资源，内战立刻爆发。”",
+      "source_hash": "29a69428e3164da2fce74546258bb226d5be7ed0d5fea88ef2a7537ca715f4e0",
+      "target": "\"Thế giới là hữu hạn, mà ham muốn của tu chân giả lại là vô hạn — các cổ tu đã mất một ngàn năm để hiểu ra chân lý này. Lẽ tất nhiên, để tranh đoạt nguồn tài nguyên hữu hạn, nội chiến lập tức bùng nổ.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0006:align_0012",
+      "chapter_id": "chapter_0006",
+      "segment_ids": [
+        "chapter_0006:seg_0012"
+      ],
+      "source": "“三千年的内战席卷了全部大千世界，可以呼风唤雨、移山倒海的古修在每一颗星辰上互相厮杀！星球在燃烧、古传送阵被毁灭、晶石战舰连环爆炸、号称‘不朽’的高阶修真者纷纷陨落，而‘结丹强者’、‘元婴老怪’更是像他们曾经视若蝼蚁的凡人一样，变成了毫无价值的炮灰，在足以毁灭星球的攻击下灰飞烟灭。”",
+      "source_hash": "a8352e0e6d275698a9a216c123ae3d5096e8d7d62729cd37e049560de3c1560c",
+      "target": "\"Cuộc nội chiến kéo dài ba ngàn năm đã cuốn phăng tất cả các đại thiên thế giới. Những cổ tu có khả năng hô phong hoán vũ, di sơn đảo hải tàn sát lẫn nhau trên khắp các tinh cầu! Các hành tinh bốc cháy, cổ truyền tống trận bị phá hủy, các chiến hạm tinh thạch nổ tung liên hoàn, những tu chân giả cấp cao tự xưng là 'bất hủ' lần lượt ngã xuống. Còn các 'Kết Đan cường giả', 'Nguyên Anh lão quái' thì chẳng khác nào những phàm nhân mà họ từng coi như kiến cỏ, biến thành những bia đỡ đạn không chút giá trị, tan thành tro bụi dưới những đòn tấn công đủ sức hủy diệt cả hành tinh.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0006:align_0013",
+      "chapter_id": "chapter_0006",
+      "segment_ids": [
+        "chapter_0006:seg_0013"
+      ],
+      "source": "“内战后期，超过七成大千世界都被毁灭，更有无数大千世界切断了和主世界的联系，超过九成的高阶修真者化作灰灰，剩下的低阶修真者也在废墟中苟延残喘。”",
+      "source_hash": "a5f767d1b1367f46c9d3c94fb389083373513b7615618a632f3321439714e35b",
+      "target": "\"Vào giai đoạn cuối của cuộc nội chiến, hơn 70% đại thiên thế giới bị hủy diệt hoàn toàn, vô số thế giới chủ động cắt đứt liên lạc với thế giới chủ, hơn 90% tu chân giả cấp cao tan thành tro bụi, số ít tu chân giả cấp thấp còn lại cũng chỉ biết dật dờ thoi thóp trong đống hoang tàn đổ nát.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0006:align_0014",
+      "chapter_id": "chapter_0006",
+      "segment_ids": [
+        "chapter_0006:seg_0014"
+      ],
+      "source": "“战争似乎难以维系，和平的曙光依稀出现——直到在一处不知名的大千世界，一名无知的修炼天才，发明了一个‘小玩意’。”",
+      "source_hash": "94a75f234fd2f3049f93f9dcf5ad017f2731b711ea0ffcd6fa0802f53a599b8e",
+      "target": "\"Chiến tranh dường như không thể tiếp tục duy trì, ánh sáng hòa bình mơ hồ xuất hiện — cho đến khi tại một đại thiên thế giới vô danh nọ, một thiên tài tu luyện vô tri đã phát minh ra một 'món đồ chơi nhỏ'.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0006:align_0015",
+      "chapter_id": "chapter_0006",
+      "segment_ids": [
+        "chapter_0006:seg_0015"
+      ],
+      "source": "“这名修炼天才的名字和宗派已经不可考证，他的炼制过程也早已随风而逝，现代人将他创造的东西称之为——妖神病毒！”",
+      "source_hash": "37b57a658e3d9c6efca659b134374406c4fd24e7212ce608f2c518568a208555",
+      "target": "\"Tên tuổi và tông phái của vị thiên tài tu luyện này đã không còn cách nào khảo chứng, quá trình luyện chế của ông cũng sớm đã tan biến theo gió bụi. Người hiện đại gọi thứ mà ông tạo ra là — virus Yêu Thần!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0006:align_0016",
+      "chapter_id": "chapter_0006",
+      "segment_ids": [
+        "chapter_0006:seg_0016"
+      ],
+      "source": "“或许他的想法非常简单：既然没有足够的战士，为什么不发明一种东西，全面提升灵兽的战斗力，代替修真者来战斗——毕竟，灵兽的数量是近乎无穷的！”",
+      "source_hash": "73703c1a2ceef3eab599ea606b51722b60a52b198c9c12a11f7f29f191e5278f",
+      "target": "\"Có lẽ suy nghĩ của ông ta vô cùng đơn giản: Đã không có đủ chiến binh để chiến đấu, tại sao không phát minh ra một thứ gì đó giúp nâng cao toàn diện sức chiến đấu của linh thú để chúng thay thế tu chân giả ra trận — dù sao thì số lượng linh thú cũng gần như là vô hạn!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0006:align_0017",
+      "chapter_id": "chapter_0006",
+      "segment_ids": [
+        "chapter_0006:seg_0017"
+      ],
+      "source": "“他成功了，经过‘妖神病毒’的催化，无数温驯的灵兽被调制成了可怕的杀戮工具，号称‘妖兽’的战争机器，不知疲倦、不会犹豫、不死不休！”",
+      "source_hash": "b0b0003ce0cf1d9f2e41d0d7d51fff47cd70e4cb1a53d717eca3fa0c356932ad",
+      "target": "\"Ông ta đã thành công. Dưới sự xúc tác của 'virus Yêu Thần', vô số linh thú hiền lành đã bị biến đổi thành những công cụ tàn sát đáng sợ, những cỗ máy chiến tranh được gọi là 'yêu thú' không biết mệt mỏi, không hề do dự, chiến đấu đến hơi thở cuối cùng!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0006:align_0018",
+      "chapter_id": "chapter_0006",
+      "segment_ids": [
+        "chapter_0006:seg_0018"
+      ],
+      "source": "“短短十年，这名修炼天才就凭借妖兽大军统一了他所在的大千世界，妖兽大军的数量也达到了上亿头，其余世界的修真者发现了他的所作所为，也纷纷开始炼制自己的‘妖兽’。”",
+      "source_hash": "cdb4a974141c5f1d81cd85daf3dd1834910a90e12c62a37156e04f2f4a7d5397",
+      "target": "\"Chỉ trong vòng mười năm ngắn ngủi, vị thiên tài tu luyện này đã dựa vào đội quân yêu thú để thống nhất đại thiên thế giới nơi ông ta sinh sống, số lượng yêu thú cũng đạt tới hàng trăm triệu con. Tu chân giả ở các thế giới khác phát hiện ra hành vi của ông ta cũng đồng loạt bắt tay vào luyện chế 'yêu thú' của riêng mình.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0006:align_0019",
+      "chapter_id": "chapter_0006",
+      "segment_ids": [
+        "chapter_0006:seg_0019"
+      ],
+      "source": "“百年时间，妖兽成为了修真界内战的主力，出现在星辰大海的各个角落。”",
+      "source_hash": "838398089939cd6a773ef0f66e0e06b4db08b615a29003d4ade76ea0eec9715d",
+      "target": "\"Trong vòng một trăm năm, yêu thú đã trở thành lực lượng chủ lực trong cuộc nội chiến của giới tu chân, xuất hiện ở khắp các ngõ ngách của tinh hải bao la.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0006:align_0020",
+      "chapter_id": "chapter_0006",
+      "segment_ids": [
+        "chapter_0006:seg_0020"
+      ],
+      "source": "“只不过，所有修真者都没有发现两件事。”",
+      "source_hash": "b8305c15325638636cac5f6c84708548344defb0e7dc382ac503cda7e211036a",
+      "target": "\"Chỉ có điều, tất cả các tu chân giả đều không phát hiện ra hai việc.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0006:align_0021",
+      "chapter_id": "chapter_0006",
+      "segment_ids": [
+        "chapter_0006:seg_0021"
+      ],
+      "source": "“第一，‘妖神病毒’拥有极强的自我复制能力和传染性。”",
+      "source_hash": "d9bae057728e839d807c1c5f15a1e272b99e824907ab28a14bd19d5a9e0db07c",
+      "target": "\"Thứ nhất, 'virus Yêu Thần' có khả năng tự sao chép và lây lan cực kỳ mạnh mẽ.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0006:align_0022",
+      "chapter_id": "chapter_0006",
+      "segment_ids": [
+        "chapter_0006:seg_0022"
+      ],
+      "source": "“第二，‘妖神病毒’在提升妖兽战斗力的同时，也在潜移默化之中，不断提升妖兽的智能，而在上百年的残酷血战中，在庞大基数的催化下，数以万亿计算的妖兽中，诞生了智能堪比人类的‘妖族’！”",
+      "source_hash": "0e83f9f0681db65bb49f725d3d21c59ae60452b5ff5caf95e524987906727e0c",
+      "target": "\"Thứ hai, 'virus Yêu Thần' vừa nâng cao sức chiến đấu của yêu thú, vừa ngấm ngầm nâng cao trí thông minh của chúng một cách vô hình. Trải qua hàng trăm năm huyết chiến tàn khốc, dưới sự xúc tác của một số lượng khổng lồ, trong số hàng vạn tỷ yêu thú đã khai sinh ra một chủng tộc có trí thông minh ngang ngửa với loài người — Yêu tộc!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0006:align_0023",
+      "chapter_id": "chapter_0006",
+      "segment_ids": [
+        "chapter_0006:seg_0023"
+      ],
+      "source": "“终于，在三千年的内战最后一日——妖族觉醒了！”",
+      "source_hash": "1118ce45b475c5b9e33c27e28e4912345af9519e481d84fa926c9249c4443e6b",
+      "target": "\"Cuối cùng, vào ngày cuối cùng của cuộc nội chiến kéo dài ba ngàn năm — Yêu tộc đã thức tỉnh!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0006:align_0024",
+      "chapter_id": "chapter_0006",
+      "segment_ids": [
+        "chapter_0006:seg_0024"
+      ],
+      "source": "“仿佛是受到某个恐怖存在的指挥，星辰大海中所有世界的妖兽，几乎在同一时间起来反抗他们的主宰，已经躲在山门中养尊处优了数百年的修真者根本不是久经沙场的妖兽的对手——更何况还有掌握了人类修真技术的妖族！”",
+      "source_hash": "d56036ba691b3dbca29334f8a1fc70153040d352529a3b88db675970242834cc",
+      "target": "\"Như thể nhận được mệnh lệnh từ một thực thể khủng bố nào đó, yêu thú ở tất cả các thế giới trong tinh hải đồng loạt nổi dậy phản kháng lại chủ nhân của mình. Những tu chân giả vốn đã sống an nhàn sung sướng trong núi môn suốt hàng trăm năm qua hoàn toàn không phải là đối thủ của những con yêu thú dày dạn trận mạc — chưa kể đến việc Yêu tộc lúc đó đã nắm giữ được kỹ thuật tu chân của loài người!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0006:align_0025",
+      "chapter_id": "chapter_0006",
+      "segment_ids": [
+        "chapter_0006:seg_0025"
+      ],
+      "source": "“一座又一座灵山被夷为平地，一个又一个宗派被满门屠灭，百年时间里，妖族在星辰大海中疯狂追逐每一名漏网的修真者，昔日高高在上的修真者就像是丧家之犬，藏匿于星海的暗域和时空的缝隙之中，惶惶不可终日。”",
+      "source_hash": "dfae6167fb8ae760d71f532c0439eac2fbb7dd1258deed638ecf50ffe71658e6",
+      "target": "\"Hết linh sơn này đến linh sơn khác bị san bằng, hết tông phái này đến tông phái khác bị tàn sát sạch sẽ. Trong vòng một trăm năm, Yêu tộc điên cuồng săn đuổi từng tu chân giả còn sống sót trong tinh hải bao la. Những tu chân giả cao cao tại thượng ngày xưa giờ đây sống như những con chó mất nhà, trốn chui trốn lủi trong các vùng tối của tinh hải và những khe hở thời không, ngày đêm lo sợ.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0006:align_0026",
+      "chapter_id": "chapter_0006",
+      "segment_ids": [
+        "chapter_0006:seg_0026"
+      ],
+      "source": "“此后整整三万年，都是人类的‘大黑暗时代’，在无穷无尽的黑暗中，妖族建立起了庞大的‘妖兽王朝’，而人类则沦为卑贱的奴隶，丧失了尊严，丧失了骄傲，也丧失了最宝贵的——修真炼气的权力！”",
+      "source_hash": "c412b0ed12a07f38a6358f8929a223fe902c35e6d3c32783ca5a785819e82b66",
+      "target": "\"Suốt ba vạn năm sau đó là 'Đại Hắc Ám Thời Đại' của nhân loại. Trong bóng tối vô tận đó, Yêu tộc đã xây dựng nên một 'Vương triều Yêu Thú' khổng lồ, còn nhân loại thì bị giáng xuống làm những nô lệ hèn mọn, mất đi tôn nghiêm, mất đi kiêu hãnh, và mất đi thứ quý giá nhất — quyền được tu chân luyện khí!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0006:align_0027",
+      "chapter_id": "chapter_0006",
+      "segment_ids": [
+        "chapter_0006:seg_0027"
+      ],
+      "source": "“三万年，整整三万年！昔日灿烂辉煌，统治无尽星海的古修文明，就如黄沙之塔，被惊涛骇浪摧毁，没有留下半点印记！昔日里‘永生不朽’的高阶修真者的后裔们，只能凭借最原始的强大繁殖力，以庞大的数量，艰难维持着种族的延续！”",
+      "source_hash": "d6b2f08e940aacdc3bfcfc2ea32b4eaffdef02dc81581a8ba6ac45ed1700ed66",
+      "target": "\"Ba vạn năm, ròng rã ba vạn năm! Nền văn minh cổ tu từng rực rỡ huy hoàng thống trị tinh hải vô tận ngày xưa giờ giống như một tòa tháp cát bị sóng dữ cuốn phăng, không để lại chút dấu vết nào! Con cháu của những tu chân giả cấp cao 'trường sinh bất tử' ngày xưa chỉ có thể dựa vào khả năng sinh sản nguyên thủy mạnh mẽ để duy trì sự tồn tại của chủng tộc bằng số lượng khổng lồ!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0006:align_0028",
+      "chapter_id": "chapter_0006",
+      "segment_ids": [
+        "chapter_0006:seg_0028"
+      ],
+      "source": "“直到三万年后，大黑暗时代末期，妖族内部争权夺利，矛盾不断尖锐，人类才得到了一丝喘息的机会，在无数修真天才的不懈努力之下，人类在暗中发动了三次‘修真革命’，建立起了和古修文明截然不同的‘现代修真文明体系’，才重新走上波澜壮阔的修真之路，复兴之路！”",
+      "source_hash": "785e5e972148189ccc2c7f5cb65239de68454db8bbf1479d159b06e67f9b8f82",
+      "target": "\"Cho đến ba vạn năm sau, vào giai đoạn cuối của Đại Hắc Ám Thời Đại, nội bộ Yêu tộc tranh quyền đoạt lợi, mâu thuẫn ngày càng gay gắt, nhân loại mới có được một cơ hội thở dốc. Dưới sự nỗ lực không ngừng của vô số thiên tài tu chân, nhân loại đã ngầm phát động ba cuộc 'cách mạng tu chân', xây dựng nên 'hệ thống văn minh tu chân hiện đại' hoàn toàn khác biệt với văn minh cổ tu, từ đó mới một lần nữa bước lên con đường tu chân hoành tráng, con đường phục hưng!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0006:align_0029",
+      "chapter_id": "chapter_0006",
+      "segment_ids": [
+        "chapter_0006:seg_0029"
+      ],
+      "source": "“在绝世强者‘帝皇’的带领下，人类发掘大量古修文明的遗迹，重新创立了二十个‘元始宗派’，经过千年血战，人道大昌，人类重新成为无尽星海的主宰，现代修真文明也焕发出了勃勃生机！”",
+      "source_hash": "b3eb44cc9b3ec2d6bd030becad100053689573ac5990b7951ab20b0a41a356ec",
+      "target": "\"Dưới sự dẫn dắt của tuyệt thế cường giả 'Đế Hoàng', nhân loại đã khai quật một lượng lớn di tích của văn minh cổ tu, tái lập nên hai mươi 'Nguyên Thủy tông phái'. Trải qua ngàn năm huyết chiến, nhân đạo đại hưng, nhân loại một lần nữa trở thành chủ tể của tinh hải vô tận, văn minh tu chân hiện đại cũng tỏa ra sức sống bừng bừng!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0006:align_0030",
+      "chapter_id": "chapter_0006",
+      "segment_ids": [
+        "chapter_0006:seg_0030"
+      ],
+      "source": "“距离‘大黑暗时代’结束已经有一万年，而距离古修文明崩溃已经有整整四万年，现在，是最好的修真世纪，是魅力无穷的修真40000年代！”",
+      "source_hash": "039fe5011e30fab419fbf6365659f3e3472ce165492e1be0085800072c33e695",
+      "target": "\"Kể từ khi 'Đại Hắc Ám Thời Đại' kết thúc đã trôi qua một vạn năm, và kể từ khi văn minh cổ tu sụp đổ đã tròn bốn vạn năm. Hiện tại, là kỷ nguyên tu chân tốt đẹp nhất, là thời đại tu chân 40000 năm đầy sức hút!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0006:align_0031",
+      "chapter_id": "chapter_0006",
+      "segment_ids": [
+        "chapter_0006:seg_0031"
+      ],
+      "source": "李耀思考最后一个段落时，天空中出现了代表考试即将结束的倒计时，他只好放弃继续阐述“帝皇”生平的念头，随口说了几句套话，匆匆结尾。",
+      "source_hash": "ab6b87e8053f03d6bc79379be3c9b16166bcef7c497b25681f906e08dc3621bf",
+      "target": "Khi Lý Diệu đang suy nghĩ đến đoạn cuối cùng thì trên bầu trời xuất hiện đồng hồ đếm ngược báo hiệu kỳ thi sắp kết thúc. Cậu đành phải từ bỏ ý định tiếp tục trình bày về cuộc đời của \"Đế Hoàng\", viết vội vài câu tổng kết sáo rỗng rồi vội vàng kết thúc bài thi.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0006:align_0032",
+      "chapter_id": "chapter_0006",
+      "segment_ids": [
+        "chapter_0006:seg_0032"
+      ],
+      "source": "几乎就在最后一个字浮出脑海的刹那，整个世界轰然倒塌，化作朵朵蝴蝶般的碎片，李耀被一股大力强行推了出去，眼前一花，意识回到了教室中。",
+      "source_hash": "5b91f8cf89ab6f2467ca06a8e983c699b77c8f25f41f8a19451a435dab944689",
+      "target": "Gần như ngay khi chữ cuối cùng hiện ra trong đầu, cả thế giới ầm ầm sụp đổ, hóa thành từng mảnh vỡ như những cánh bướm. Lý Diệu bị một lực lượng mạnh mẽ đẩy ra ngoài, mắt hoa lên một cái, ý thức đã quay trở lại phòng học.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    }
+  ],
+  "term_occurrences": [
+    {
+      "chapter_id": "chapter_0006",
+      "source_term": "大黑暗时代",
+      "target_term": "Đại Hắc Ám Thời Đại",
+      "segment_id": "chapter_0006:seg_0001",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0006",
+      "source_term": "古典修真时期",
+      "target_term": "thời kỳ tu chân cổ điển",
+      "segment_id": "chapter_0006:seg_0002",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0006",
+      "source_term": "现代修真时期",
+      "target_term": "thời kỳ tu chân hiện đại",
+      "segment_id": "chapter_0006:seg_0002",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0006",
+      "source_term": "金丹期",
+      "target_term": "Kim Đan Kỳ",
+      "segment_id": "chapter_0006:seg_0007",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "level",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0006",
+      "source_term": "元婴期",
+      "target_term": "Nguyên Anh Kỳ",
+      "segment_id": "chapter_0006:seg_0007",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "level",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0006",
+      "source_term": "化神老怪",
+      "target_term": "Hóa Thần lão quái",
+      "segment_id": "chapter_0006:seg_0007",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "level",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0006",
+      "source_term": "渡劫真君",
+      "target_term": "Độ Kiếp chân quân",
+      "segment_id": "chapter_0006:seg_0007",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "level",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0006",
+      "source_term": "妖神病毒",
+      "target_term": "virus Yêu Thần",
+      "segment_id": "chapter_0006:seg_0015",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0006",
+      "source_term": "妖族",
+      "target_term": "Yêu tộc",
+      "segment_id": "chapter_0006:seg_0022",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0006",
+      "source_term": "妖兽王朝",
+      "target_term": "Vương triều Yêu Thú",
+      "segment_id": "chapter_0006:seg_0026",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0006",
+      "source_term": "修真革命",
+      "target_term": "cách mạng tu chân",
+      "segment_id": "chapter_0006:seg_0028",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0006",
+      "source_term": "现代修真文明体系",
+      "target_term": "hệ thống văn minh tu chân hiện đại",
+      "segment_id": "chapter_0006:seg_0028",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0006",
+      "source_term": "帝皇",
+      "target_term": "Đế Hoàng",
+      "segment_id": "chapter_0006:seg_0029",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0006",
+      "source_term": "元始宗派",
+      "target_term": "Nguyên Thủy tông phái",
+      "segment_id": "chapter_0006:seg_0029",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0006",
+      "source_term": "结丹",
+      "target_term": "Kết Đan",
+      "segment_id": "chapter_0006:seg_0004",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "level",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0006",
+      "source_term": "放弃",
+      "target_term": "Từ Bỏ",
+      "segment_id": "chapter_0006:seg_0031",
+      "present_in_target": false,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    }
+  ],
+  "entity_mentions": [
+    {
+      "chapter_id": "chapter_0006",
+      "source_surface": "李耀",
+      "target_surface": "Lý Diệu",
+      "entity_type": "person",
+      "segment_id": "chapter_0006:seg_0002",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0006",
+      "source_surface": "帝皇",
+      "target_surface": "Đế Hoàng",
+      "entity_type": "person",
+      "segment_id": "chapter_0006:seg_0029",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0006",
+      "source_surface": "放弃",
+      "target_surface": "Từ Bỏ",
+      "entity_type": "items",
+      "segment_id": "chapter_0006:seg_0031",
+      "confidence": 1.0
+    }
+  ],
+  "name_analysis": {
+    "status": "ok",
+    "evidence_count": 2,
+    "name_mentions": [
+      {
+        "chapter_id": "chapter_0006",
+        "name_source": "李耀",
+        "name_target": "Lý Diệu",
+        "segment_id": "chapter_0006:seg_0002",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0006",
+        "name_source": "帝皇",
+        "name_target": "Đế Hoàng",
+        "segment_id": "chapter_0006:seg_0029",
+        "present_in_target": true,
+        "confidence": 1.0
+      }
+    ],
+    "name_entries": [
+      {
+        "name_source": "李耀",
+        "name_target": "Lý Diệu"
+      },
+      {
+        "name_source": "帝皇",
+        "name_target": "Đế Hoàng"
+      }
+    ],
+    "transliteration_units": [],
+    "inferred_name_rules": [],
+    "ambiguity_cases": [],
+    "reusable_name_profile": {
+      "mapping_count": 2,
+      "has_ambiguity": false
+    }
+  },
   "phrase_patterns": [],
   "grammar_rule_candidates": [],
+  "analyzer_reports": {
+    "term_occurrences": {
+      "status": "ok",
+      "evidence_count": 16
+    },
+    "entity_mentions": {
+      "status": "ok",
+      "evidence_count": 3
+    },
+    "name_mentions": {
+      "status": "ok",
+      "evidence_count": 2
+    },
+    "phrase_patterns": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    },
+    "grammar_rule_candidates": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    }
+  },
+  "review_queue": [
+    {
+      "chapter_id": "chapter_0006",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "万年",
+        "entity_type": "person",
+        "count": 5,
+        "confidence": 0.7,
+        "evidence": [
+          "。”\n\n“此后整整三万年，都是人类的‘大黑暗",
+          "气的权力！”\n\n“三万年，整整三万年！昔日灿",
+          "\n\n“三万年，整整三万年！昔日灿烂辉煌，统治"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0006",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "后期",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "\n“可是到了古修文明后期，如同大爆炸一般，高",
+          "飞烟灭。”\n\n“内战后期，超过七成大千世界都"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0006",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "文明",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "创造出无比辉煌的古修文明，他们建立了从炼气、",
+          "，统治无尽星海的古修文明，就如黄沙之塔，被惊"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0006",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "时期",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "展过程中最重要的一个时期，甚至可以说正是大黑",
+          "\n“在古修文明的全盛时期，古修们开辟了一处又"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0006",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "时间",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "的——古修们用一千年时间，明白了这个真理，顺",
+          "妖兽’。”\n\n“百年时间，妖兽成为了修真界内"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0006",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "人类才得到了一丝喘息的机会",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "夺利，矛盾不断尖锐，人类才得到了一丝喘息的机会，在无数修真天才的不"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0006",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "元始宗派",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "，重新创立了二十个‘元始宗派’，经过千年血战，人"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0006",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "迈向无尽的星辰大海",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "不断开拓生命的极限，迈向无尽的星辰大海。”\n\n“在古修文明"
+        ]
+      }
+    }
+  ],
   "quality_audit": {
     "segment_coverage": 1.0,
+    "source_hash_match": true,
+    "target_reconstruction_match": true,
+    "invalid_ref_count": 0,
     "locked_term_hit_rate": 1.0,
+    "missing_locked_terms": [],
     "cjk_residue_count": 0,
     "paragraph_drift_ratio": 0.0,
     "pronoun_consistency_score": 1.0,

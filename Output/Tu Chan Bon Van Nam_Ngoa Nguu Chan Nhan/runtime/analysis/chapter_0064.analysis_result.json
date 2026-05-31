@@ -1,0 +1,1082 @@
+{
+  "schema_version": "2.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 64,
+  "chapter_id": "chapter_0064",
+  "source_manifest_hash": "75fe6e6cdd7d2db2faf89faa85f67c5eec9bccef8b2e9bc5531505ad2ec0584e",
+  "aligned_segments": [
+    {
+      "alignment_id": "chapter_0064:align_0001",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0001"
+      ],
+      "source": "# 64.第64章 疾风骤雨",
+      "source_hash": "5fbc38b5ef856978c56f267fa83d3ce50924128f058a85273d52bcb4e46b20fa",
+      "target": "# Chương 0064 - Gió táp mưa sa",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0002",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0002"
+      ],
+      "source": "高野充满大将风度的言论，引来不少同学特别是女生的赞叹。",
+      "source_hash": "0548ed8ca0f70cffbc7eb84b4291269b2ab5290e7e4411fed80515bba0e7bc15",
+      "target": "Phát ngôn tràn đầy phong độ đại tướng của Cao Dã đã thu hút không ít lời trầm trồ khen ngợi của các bạn học, đặc biệt là các bạn nữ.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0003",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0003"
+      ],
+      "source": "不过另一些唯恐天下不乱的家伙，却是十分失望，眼珠一转，又把矛头对准赫连烈。",
+      "source_hash": "f968527e7233d75dc0dab255c8bdc1912591e7ca664646a9fa15142685dd5818",
+      "target": "Thế nhưng một số kẻ khác vốn chỉ sợ thiên hạ không loạn lại vô cùng thất vọng, đảo mắt một vòng liền lập tức chĩa mũi dùi về phía Hách Liên Liệt.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0004",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0004"
+      ],
+      "source": "“赫连烈，听说你和李耀是一个学校的，而且你们有私人恩怨，能不能详细说说，究竟是怎么回事啊？”",
+      "source_hash": "766d17e784140016f9a82c6891ca09d6152200e155f08deb8293109f646db7cf",
+      "target": "“Hách Liên Liệt, nghe nói cậu và Lý Diệu học chung trường, hơn nữa hai người còn có ân oán cá nhân, có thể kể chi tiết xem rốt cuộc là chuyện gì được không?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0005",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0005"
+      ],
+      "source": "这里大部分选手，都来自浮戈城周边城镇，对赫连烈没什么顾忌，看热闹的不怕事情大，所以说话也没什么分寸，怎么刺激怎么来。",
+      "source_hash": "90ef5c8ea11330443663f3410256c7157ad4695e6c1ae38fa616a94d5dd2fdb5",
+      "target": "Hầu hết các thí sinh ở đây đều đến từ những thị trấn lân cận Phù Qua Thành, chẳng có chút kiêng kị gì với Hách Liên Liệt. Lũ xem náo nhiệt chẳng sợ chuyện lớn, cho nên lời nói cũng không hề có chút mực thước, cứ thế nào kích thích nhất là nói.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0006",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0006"
+      ],
+      "source": "赫连烈脸上一阵青一阵白，牙齿深深嵌入嘴唇，双拳死死攥紧，心中羞愤到了极点！",
+      "source_hash": "e5b2ca17d3d1a3dc6997f1a1984bad7ce8621db62c98cb0e47841a6eb3890e05",
+      "target": "Mặt Hách Liên Liệt lúc xanh lúc trắng, răng cắm sâu vào môi, hai nắm đấm siết chặt, trong lòng thẹn quá hóa giận đến tột cùng!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0007",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0007"
+      ],
+      "source": "沉默半天，他才挤出一抹僵硬的笑容，勉强道：",
+      "source_hash": "71be0afb30b8a2592e82e884fd1f212d33de7e1e291f51224e8b752ce58e238e",
+      "target": "Im lặng hồi lâu, hắn mới nặn ra một nụ cười gượng gạo, khó khăn nói:",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0008",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0008"
+      ],
+      "source": "“我和李耀同学先前有过一些小误会，不过早就解决了，李耀同学最近一个月进步神速，是我们赤霄二中的骄傲，我也非常佩服他的努力，什么私人恩怨，简直是无稽之谈！对不起，请让一让，我要去一下厕所。”",
+      "source_hash": "a9609658d18191fc368e6257c1f3b78b36b01eea9b9c3bb271716c47c43b3332",
+      "target": "“Tôi và bạn học Lý Diệu trước đây có xảy ra chút hiểu lầm nhỏ, nhưng đã sớm giải quyết xong xuôi rồi. Bạn học Lý Diệu trong vòng một tháng nay tiến bộ thần tốc, là niềm kiêu hãnh của Xích Tiêu Nhị Trung chúng tôi, tôi cũng vô cùng khâm phục sự nỗ lực của cậu ấy, làm gì có ân oán cá nhân nào, đúng là nói nhảm! Xin lỗi, làm ơn nhường đường một chút, tôi muốn đi vệ sinh.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0009",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0009"
+      ],
+      "source": "不等众人再问，赫连烈用力推开两边选手，几乎是落荒而逃，一路小跑进厕所。",
+      "source_hash": "b5e9308eeee0e2ecde1b3f2c33835111203fc7c2ba4c776560597c7d1fac58e6",
+      "target": "Không đợi mọi người hỏi thêm, Hách Liên Liệt mạnh bạo đẩy các thí sinh hai bên ra, gần như là chạy trối chết, chạy bước nhỏ một mạch vào nhà vệ sinh.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0010",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0010"
+      ],
+      "source": "“哇！”",
+      "source_hash": "64423db7456990772fa98007a4711c178d7850e357c9a03fd4e7301d2398c1ef",
+      "target": "“Oẹ!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0011",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0011"
+      ],
+      "source": "在隔间中，赫连烈再也支撑不住，胃里翻江倒海，大口大口呕吐起来，吐得昏天暗地，连胃液都吐了个一干二净。",
+      "source_hash": "6c88773c94f6e0602c6f7f65f402d49f809aa3210158bb7cfdcc549705dff893",
+      "target": "Ở trong phòng vệ sinh nhỏ, Hách Liên Liệt không thể chịu đựng nổi nữa, dạ dày cuộn trào dữ dội, bắt đầu nôn thốc nôn tháo, nôn đến hoa mắt chóng mặt, nôn sạch sành sanh cả dịch dạ dày.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0012",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0012"
+      ],
+      "source": "“李耀！”",
+      "source_hash": "21f8fc6b75a32280bbda24f4e32d48d67c74bf69fcc0dcd732a03d5854095a8f",
+      "target": "“Lý Diệu!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0013",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0013"
+      ],
+      "source": "赫连烈抬头，因为长时间呕吐，双眼发红，整个人看上去又憔悴，又疯狂，像是一头狰狞的恶魔。",
+      "source_hash": "142205cfad4daeb183483d2dab4b608ad8fd3bf5cf3f779db333737671ecc3ee",
+      "target": "Hách Liên Liệt ngẩng đầu lên, do nôn mửa trong thời gian dài nên hai mắt đỏ sọc, cả người trông vừa tiều tụy lại vừa điên cuồng, tựa như một con ác quỷ dữ tợn.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0014",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0014"
+      ],
+      "source": "“李耀，你这垃圾，你这杂碎！别给我找到机会，别给我找到一丝一毫的机会！一有机会，我不会放过你，我绝对会动用全部资源，玩死你，玩死你！”",
+      "source_hash": "1b4e710351e87ab6ffd7aef9f9991b9c656222cdfd30f4cfccfef583823c55f3",
+      "target": "“Lý Diệu, cái thứ rác rưởi nhà ngươi, đồ tạp chủng! Đừng để ta tìm được cơ hội, đừng để ta tìm thấy bất kỳ một cơ hội cỏn con nào! Chỉ cần có cơ hội, ta sẽ không tha cho ngươi, ta nhất định sẽ huy động toàn bộ tài nguyên chơi chết ngươi, chơi chết ngươi!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0015",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0015"
+      ],
+      "source": "赫连烈双手抠着厕所的墙壁，用力抓着，撕扯着，仿佛墙壁就是李耀笑嘻嘻的脸。",
+      "source_hash": "55f86fae0ac554a245ec3e4cf42160e50ce4c09c4d2f222506d0be88045c60a2",
+      "target": "Hách Liên Liệt dùng hai tay cào cấu lên bức tường nhà vệ sinh, ra sức bấu víu, cào xé, giống như thể bức tường kia chính là khuôn mặt tươi cười cợt nhả của Lý Diệu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0016",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0016"
+      ],
+      "source": "金属墙壁被他抠出十道深深的凹痕，每一道凹痕中都流淌着狂暴的鲜血！",
+      "source_hash": "027932056184a2f64e4cbaf0f52701bf0d2c2fbc1b1bfe331f66bc502900ff1a",
+      "target": "Bức tường kim loại bị hắn cào ra mười vệt lõm sâu hoắm, từ mỗi vệt lõm đều rỉ ra những giọt máu tươi cuồng bạo!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0017",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0017"
+      ],
+      "source": "……",
+      "source_hash": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+      "target": "……",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0018",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0018"
+      ],
+      "source": "被赫连烈怨毒诅咒的李耀，此刻正舒舒服服地藏匿在魔蛟岛深处的一个补给点之中。",
+      "source_hash": "41bc4356d39ed83ae167994db6a030d9048f776afe48204b0b076563f6998aa1",
+      "target": "Bị Hách Liên Liệt oán độc nguyền rủa Lý Diệu, lúc này đang thoải mái ẩn nấp ở một trạm tiếp tế sâu trong Đảo Ma Giao.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0019",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0019"
+      ],
+      "source": "他通过小吉的光幕，查看到了自己的积分。",
+      "source_hash": "f44baca27b1702eced13e2845e0d4b8fd111da91d32ed7d8c08dcd0701f180fd",
+      "target": "Cậu thông qua màn hình ánh sáng của Tiểu Cát để kiểm tra điểm tích lũy của mình.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0020",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0020"
+      ],
+      "source": "从他把蓝方指挥中心炸上天去的那一刻起，他就牢牢占据了榜首位置，除非魔蛟岛突然沉没，否则是绝对不会动摇的！",
+      "source_hash": "35b60709b40bfdeb51137e7050ad2c39e83ab891738099c533004b919693f800",
+      "target": "Kể từ thời điểm cậu cho nổ trung tâm chỉ huy phe Xanh lên trời, cậu đã vững vàng chiếm giữ vị trí đầu bảng, trừ phi Đảo Ma Giao đột ngột chìm xuống, nếu không thì vị trí này tuyệt đối không thể lung lay!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0021",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0021"
+      ],
+      "source": "老实说，最初在法宝上“开后门”时，李耀并没有想得这么深远，他只想占点小便宜，多赚几个积分而已。",
+      "source_hash": "941dcbf5096b474627a45a2a441e9d4b6637c17ac385e22d2f1fb52528efd110",
+      "target": "Nói thật, lúc ban đầu cài “cửa sau” vào pháp bảo, Lý Diệu cũng không nghĩ xa xôi đến vậy, cậu chỉ muốn chiếm chút lợi lộc nhỏ để kiếm thêm vài điểm tích lũy mà thôi.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0022",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0022"
+      ],
+      "source": "可是后来蓝方出现了高野这个指挥天才，一下子把红方逼到了死角，也逼得李耀不得不狗急跳墙，孤注一掷。",
+      "source_hash": "9ae850e3491436822884bb78e5f5280f6f41cef9d23f237ae80edc4459c6a0cd",
+      "target": "Nhưng sau đó phe Xanh lại xuất hiện một thiên tài chỉ huy như Cao Dã, nháy mắt dồn phe Đỏ vào góc chết, cũng ép Lý Diệu buộc phải chó cùng dứt giậu, dốc toàn lực đánh cược một ván.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0023",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0023"
+      ],
+      "source": "这次斩首行动冒了极高的风险，有很大的运气成分在里面，是一场惊心动魄的豪赌。",
+      "source_hash": "dfbabc5a9508f40d1a455389058921347eca7a5d2c1956fc5b4ba4d142e5783b",
+      "target": "Chiến dịch chém đầu lần này phải gánh chịu rủi ro cực kỳ cao, phần lớn là nhờ vào may mắn, là một canh bạc thót tim.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0024",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0024"
+      ],
+      "source": "为了保护自己的安全，晶元匣炸弹的爆炸时间被李耀延迟了半分钟，如果对方及时发现，完全有时间将炸弹远远抛开。",
+      "source_hash": "1882b80f8213bbfe9adb499ec32b2e442d0c810c352dc715072740dc2ae24f90",
+      "target": "Để bảo đảm an toàn cho bản thân, thời gian kích nổ của quả bom hộp tinh nguyên đã được Lý Diệu cài trễ lại nửa phút. Nếu đối phương phát hiện kịp thời thì hoàn toàn có đủ thời gian để quăng quả bom ra thật xa.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0025",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0025"
+      ],
+      "source": "只能说，这次运气站在了自己一边，连老天爷都在帮他，他是注定要进入深海大学的！",
+      "source_hash": "91d5a3e67f17b5d67eade57f1bd4103287c4e4e36a9077351425ee29bab09e4b",
+      "target": "Chỉ có thể nói lần này vận may đã đứng về phía cậu, ngay cả ông trời cũng giúp cậu, cậu định sẵn là sẽ đỗ vào Đại học Thâm Hải!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0026",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0026"
+      ],
+      "source": "既然赚到了足够积分，李耀也不急着出去猎杀妖兽，现在残存下来的选手已经不多，整座魔蛟岛又变成了妖兽的天堂，其中不少妖兽的实力超级强横，李耀都没把握能够成功斩杀。",
+      "source_hash": "faa7f78d786c76e5f45c15634eb0f3aed2c90c18ccb1c74a571e769417ea2dfc",
+      "target": "Đã kiếm đủ số điểm cần thiết nên Lý Diệu cũng không vội vã đi săn lùng yêu thú nữa. Lúc này số lượng thí sinh còn sót lại không nhiều, cả hòn Đảo Ma Giao lại biến thành thiên đường của yêu thú, trong đó có không ít con sở hữu thực lực siêu cường, Lý Diệu cũng không nắm chắc phần thắng nếu giao chiến.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0027",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0027"
+      ],
+      "source": "他可不想到了最后的节骨眼，还在阴沟里翻船，“死”在一头妖兽手里。",
+      "source_hash": "cd123fbf836ced1b404031e27d47ae75c333b975f404b9da39d9c61416f2656f",
+      "target": "Cậu không muốn tới thời khắc mấu chốt cuối cùng lại lật thuyền trong mương, “chết” dưới tay một con yêu thú.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0028",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0028"
+      ],
+      "source": "更何况——暴风雨要来了。",
+      "source_hash": "f2186571441dca9194788905c191d9a88b752b2560ef610dea96b303e2e61a5d",
+      "target": "Hơn nữa, bão tố sắp đến rồi.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0029",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0029"
+      ],
+      "source": "李耀抬头，极目远眺，昏黄的天空不知何时变成了一片乌黑，隐隐有紫色的长蛇在乌云间挣扎翻滚，轰出阵阵闷雷。",
+      "source_hash": "327f1a7012509c0c0dd5f965c504e3dae684e70897a7b1798a5a5530c0cd6b31",
+      "target": "Lý Diệu ngẩng đầu nhìn ra xa xăm, bầu trời vàng vọt không biết từ lúc nào đã trở nên đen kịt, lấp ló những con rắn dài màu tím uốn lượn giãy giụa trong những đám mây đen, giội xuống những tiếng sấm rền rĩ.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0030",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0030"
+      ],
+      "source": "不一会儿，豆大的水滴就劈头盖脑砸了下来。",
+      "source_hash": "12a02189f207a027c0a90d4ad4bee53efcbf8d51211dc84fdbd9762d15395d57",
+      "target": "Không lâu sau, những giọt nước mưa to bằng hạt đậu trút xuống xối xả lên đầu lên cổ.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0031",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0031"
+      ],
+      "source": "海面上的天气变化极快，刚才还是晴空万里，眨眼间已经变成暴雨倾盆的世界，整座魔蛟岛上空乌云翻滚，恍若万千黑马奔腾，一道道闪电无止境地撕扯着天地，发出鬼哭狼嚎的尖叫，连带着海风也一起肆虐，犹如万把钢刀狠狠插在魔蛟岛上。",
+      "source_hash": "79866c013a06cc719f653f31b67fb39335b4850e48c94d5c0838d6dd92434529",
+      "target": "Thời tiết trên mặt biển thay đổi cực kỳ nhanh chóng, vừa rồi còn trong xanh vạn dặm, chớp mắt đã biến thành thế giới mưa sa gió giật. Bầu trời phía trên Đảo Ma Giao cuồn cuộn mây đen tựa như vạn con tuấn mã đen đâm sầm tới, những tia sét xé toạc đất trời không ngớt, phát ra những tiếng hú hét rợn người, kéo theo cả những luồng gió biển cuồng phong tàn phá bừa bãi, giống như vạn thanh đao thép cắm phập xuống Đảo Ma Giao.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0032",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0032"
+      ],
+      "source": "即便有参天大树遮蔽，魔蛟岛上依然是阴风怒号，暴雨如瀑，所有人都被雨水打得抬不起头，睁不开眼，狂风大作时，连合抱粗细的大树都连根拔起，横七竖八地吹向远方，横扫途径的一切。",
+      "source_hash": "ac5fa051168e59d7c62ebbd2556c4c5b9f84f85391f07d0020245d4bc100af03",
+      "target": "Cho dù có cây cổ thụ chọc trời che chở, trên Đảo Ma Giao vẫn tràn ngập tiếng gió rít thê lương, mưa trút xuống như thác nước. Mọi người đều bị mưa đánh đến mức không ngẩng đầu nổi, không mở mắt ra được. Khi cuồng phong nổi lên, ngay cả những thân cây to bằng một vòng ôm cũng bị bật rễ, thổi bay nghiêng ngả khắp nơi, càn quét mọi thứ trên đường đi.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0033",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0033"
+      ],
+      "source": "在大自然雄浑壮阔的力量面前，刚才还张牙舞爪的妖兽都变得安静下来，纷纷寻找洞穴和岩缝躲避。",
+      "source_hash": "3ca409f51245b70772ee4581416b0ff02869a11122cacb3136f43d094b0d27f9",
+      "target": "Trước sức mạnh hùng vĩ và bao la của thiên nhiên, lũ yêu thú vừa rồi còn nhe nanh múa vuốt giờ đây đều trở nên ngoan ngoãn lạ thường, tranh nhau tìm kiếm hang động hay khe đá để trú ẩn.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0034",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0034"
+      ],
+      "source": "“一团风暴正好经过魔蛟岛上空，狂风暴雨估计要持续整整一夜！”",
+      "source_hash": "fb9126ad2ddb383e57ea086c9c7ed503df092a2526a1d4fe0c6e26444c0ea8ad",
+      "target": "“Một cơn bão lớn đang quét qua bầu trời Đảo Ma Giao, mưa gió bão bùng ước tính sẽ kéo dài suốt cả đêm!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0035",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0035"
+      ],
+      "source": "半空中的辽远号都被暴风雨吹得微微摇晃，一名修真者悬浮于战舰尾部，眯起眼睛观测着天空，下了结论。",
+      "source_hash": "4e8743bdee36bdc1ef68f8d874d0c4cde8b7d09c40a11c6cb5a38393f16414d5",
+      "target": "Ngay cả chiến hạm Liêu Viễn Hào đang đậu giữa không trung cũng bị cơn bão thổi cho lắc lư nhè nhẹ. Một tu chân giả bay lơ lửng ở đuôi chiến hạm, nheo mắt quan sát bầu trời rồi đưa ra kết luận.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0036",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0036"
+      ],
+      "source": "一道闪电正好朝他头顶劈来，却在距离他天灵盖半寸的地方被一道无形的壁障挡住，化作四五条银蛇在他周身缭绕，映照出一张颇为英俊的面孔。",
+      "source_hash": "a6a79c623711860cafc68c42773ac8b2211cc9fd5e1dc5c5f2abeb690a9a03ab",
+      "target": "Một tia sấm sét chém thẳng xuống đỉnh đầu gã, thế nhưng tại nơi cách đỉnh đầu gã nửa tấc liền bị một bức tường vô hình ngăn cản, biến thành bốn năm con rắn bạc lượn lờ quanh thân thể, rọi sáng một gương mặt khá điển trai.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0037",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0037"
+      ],
+      "source": "在这种狂暴的天气下，天空中巡逻的修真者很难再照顾到魔蛟岛的每一个角落。",
+      "source_hash": "e2a2d777c7ce41faa6ffd585ad038f4c8171ec2b914168cd7315496d064193ef",
+      "target": "Dưới kiểu thời tiết khắc nghiệt hung hãn như thế này, các tu chân giả tuần tra trên không trung rất khó có thể trông nom tới từng ngóc ngách của Đảo Ma Giao.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0038",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0038"
+      ],
+      "source": "而选手携带的噗叽兽依靠晶片和辽远号连接，神念链接很不稳定，也未必能及时监控到选手的情况，在致命时刻喷出保护凝胶。",
+      "source_hash": "4c1ef1a23ffab9126df9eff91419d78e63f32a5bf5a62dc67316cc13937af55a",
+      "target": "Hơn nữa, thú Pút Kít mang theo trên người các thí sinh dựa vào chip để kết nối với Liêu Viễn Hào, liên kết thần niệm phi thường không ổn định, cũng không chắc có thể kịp thời giám sát được tình hình của thí sinh để phun ra gel bảo vệ vào thời điểm chí mạng.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0039",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0039"
+      ],
+      "source": "比赛的危险性大大提升了！",
+      "source_hash": "716a384489e32c5f0d315b1b34eff444a0e802c57020de42a5f15e7b5bb41eef",
+      "target": "Độ nguy hiểm của trận thi đấu đã tăng vọt lên rất nhiều!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0040",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0040"
+      ],
+      "source": "“是否要中止比赛？”",
+      "source_hash": "2759eec00e9ec6640623cc1c9571794f4110f5922f289b9bcb4413774ff5e0f4",
+      "target": "“Có nên hoãn trận đấu lại không?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0041",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0041"
+      ],
+      "source": "这名修真者嘴巴一张，周身缭绕的电流被他一口吸入腹中，他意犹未尽地舔了舔嘴唇，飞回辽远号，向众多修真者询问。",
+      "source_hash": "f0a11d534a0f53584eb6741f6405e65b8338dcaa68d93ad3784aca4aba9c24db",
+      "target": "Tu chân giả này há miệng hút sạch dòng điện đang bao quanh cơ thể vào bụng, thèm thuồng liếm môi rồi bay trở lại Liêu Viễn Hào hỏi ý kiến của đông đảo tu chân giả khác.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0042",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0042"
+      ],
+      "source": "监控中心内，修真者们交头接耳，片刻之后就做出决定——比赛照常进行，不受暴风雨的影响。",
+      "source_hash": "afc8b8b3043f36b56987ba710a0fccd5bb00e567888671a3606dcebf1087dc49",
+      "target": "Trong trung tâm giám sát, các tu chân giả bàn tán rì rầm, một lát sau liền đưa ra quyết định: Trận đấu vẫn tiến hành như bình thường, không chịu ảnh hưởng của bão bùng.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0043",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0043"
+      ],
+      "source": "“在真正的战争中，妖兽可不会因为天气不好，就和咱们人类休战的！”",
+      "source_hash": "ccab77c8092a924c0de3e9d673a56e349cec4f8e1f7fb365610770ddc34f40ad",
+      "target": "“Trong chiến tranh thực tế, yêu thú sẽ không vì thời tiết xấu mà đình chiến với loài người chúng ta đâu!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0044",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0044"
+      ],
+      "source": "肩膀上扛着骷髅头标志的黑色军装大汉，面如钢铁，冷冰冰地说道。",
+      "source_hash": "0c2832bbc2ef78a108bc33d70616052c64e84df375c38a27adb8a9efb8075fec",
+      "target": "Gã đàn ông vạm vỡ mặc quân phục màu đen, trên vai đeo huy hiệu đầu lâu gầm lên, sắc mặt cứng như sắt nguội nói.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0045",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0045"
+      ],
+      "source": "“没错，连这么点狂风暴雨都扛不住，还想当修真者？简直是笑话！”另一名脸上刀疤交错的修真者冷笑道。",
+      "source_hash": "0cbb2b1b6592d89de1fa37dba3572f00a0e5eb1803f92848c847161edd12aec1",
+      "target": "“Đúng vậy, đến chút mưa gió bão bùng thế này cũng không chịu nổi thì còn đòi làm tu chân giả sao? Thật là chuyện cười!” Một vị tu chân giả khác trên mặt đầy sẹo dọc ngang cười lạnh nói.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0046",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0046"
+      ],
+      "source": "说话间，他们面前的巨大光幕出现了一道道扭曲的波纹，还有一片一片雪花般的图案。",
+      "source_hash": "cb51e9260ea8af3c49f22de1e4a6702b29d88b844fcfada50aed6d51a2e90ebc",
+      "target": "Trong lúc nói chuyện, trên màn hình ánh sáng khổng lồ trước mặt họ xuất hiện từng luồng gợn sóng vặn vẹo, cùng với những vệt hoa tuyết lấm tấm xám xịt.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0047",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0047"
+      ],
+      "source": "这是噗叽兽和监控中心之间的联系，被暴风雨干扰。",
+      "source_hash": "e8c89ac8cc559f5621cc91e3fa6f0de6bb6b49bb63ae779234874fe3e78b62ba",
+      "target": "Đây là do sự liên lạc giữa thú Pút Kít và trung tâm giám sát bị bão tố gây nhiễu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0048",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0048"
+      ],
+      "source": "“啪！啪！”",
+      "source_hash": "3339e4aac2e76e3365b26c8da5b7ec8b200255ac3294deaa9225459cf39a3613",
+      "target": "“Bạch! Bạch!”",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0049",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0049"
+      ],
+      "source": "几十张光幕直接变成黑色，显然是神念链接被切断了。",
+      "source_hash": "002d30be9cf5b6859b34acaec666cdc1dd1c24d193f3fa767d5f87df71c0f7f8",
+      "target": "Hàng chục màn hình ánh sáng trực tiếp tối đen lại, rõ ràng liên kết thần niệm đã bị cắt đứt hoàn toàn.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0050",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0050"
+      ],
+      "source": "这就意味着，有几十名选手脱离了他们的监控和保护。",
+      "source_hash": "ef420feea255b3586037f5c3dcc75e05e401ea3332309e84720dcc179fd68f34",
+      "target": "Điều này đồng nghĩa với việc có hàng chục thí sinh đã thoát khỏi tầm giám sát và bảo vệ của họ.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0051",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0051"
+      ],
+      "source": "“虽然失去了链接，但噗叽兽会自动记录下选手的状况，最多稍有延迟而已，赛后还是可以计算出积分，并不妨碍比赛的继续进行！”",
+      "source_hash": "032856b6f79e6c553da19b97822752a73bcbd7e08778f0730cae6686d58f2b78",
+      "target": "“Mặc dù mất kết nối, nhưng thú Pút Kít vẫn tự động ghi chép lại tình trạng của thí sinh, cùng lắm chỉ chậm trễ một chút mà thôi, sau trận đấu vẫn có thể tính toán ra điểm tích lũy, không ảnh hưởng đến việc tiếp tục thi đấu!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0052",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0052"
+      ],
+      "source": "“向魔蛟岛再派出二十名修真者，来回巡视，确保选手的安全，万一发生意外，以联邦军士兵牺牲的同等待遇，给予考生家庭补助！”",
+      "source_hash": "529f5a0d38a7c065f9bd102d238390cb8e7de92dcc9b7db1152a82086578ceb6",
+      "target": "“Phái thêm hai mươi tu chân giả tới Đảo Ma Giao tuần tra qua lại để bảo đảm an toàn cho thí sinh. Nhỡ đâu xảy ra bất trắc thì sẽ cấp trợ cấp cho gia đình thí sinh theo đúng chế độ tử sĩ hy sinh của binh sĩ Quân đội Liên bang!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0053",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0053"
+      ],
+      "source": "修真者和军官们商议一阵，很快做出决定——这也是历届挑战赛的惯例。",
+      "source_hash": "55ff49c2c37a856376f5ecfd3a9d859b6e2226775b37d39e2dd02259fedaa237",
+      "target": "Các tu chân giả và sĩ quan bàn bạc một hồi, nhanh chóng đưa ra quyết định, đây cũng là thông lệ của các giải đấu thử thách từ trước tới nay.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0054",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0054"
+      ],
+      "source": "星耀联邦能够在天元界最肥沃的一片土地上立足，是从万千妖兽的尸山血海中杀出来的，联邦的每一寸国土，都被联邦军和修真者的鲜血染红！",
+      "source_hash": "587183c7bacbba482497b734a658b7dc72bd5697cd357139804d3271e0a4b687",
+      "target": "Liên bang Tinh Diệu có thể đứng vững trên mảnh đất màu mỡ nhất của Thiên Nguyên Giới chính là nhờ chém giết từ trong núi thây biển máu của hàng vạn yêu thú mà ra. Mỗi một tấc đất của Liên bang đều được nhuộm đỏ bởi xương máu của binh sĩ Quân đội Liên bang và tu chân giả!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0055",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0055"
+      ],
+      "source": "修真者是人类文明的战刀，想成为修真者，就要有必死的决心和大无畏的牺牲精神！",
+      "source_hash": "662d8e5ce0380cd2d3a796752d188c295cf0e01d3d3ddb1f30f1be0a9d0b8a6a",
+      "target": "Tu chân giả chính là thanh chiến đao của nền văn minh nhân loại, muốn trở thành tu chân giả thì phải có quyết tâm chịu chết cùng tinh thần hy sinh quả cảm không chút sợ hãi!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0064:align_0056",
+      "chapter_id": "chapter_0064",
+      "segment_ids": [
+        "chapter_0064:seg_0056"
+      ],
+      "source": "怕死，就别当修真者！",
+      "source_hash": "fb7b96ccb35b3e9fe4b5a9768ad3d3e4c02184973be7bf8bf2883fad7b7d613b",
+      "target": "Sợ chết thì đừng làm tu chân giả!",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    }
+  ],
+  "term_occurrences": [
+    {
+      "chapter_id": "chapter_0064",
+      "source_term": "浮戈城",
+      "target_term": "Phù Qua Thành",
+      "segment_id": "chapter_0064:seg_0005",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0064",
+      "source_term": "赤霄二中",
+      "target_term": "Xích Tiêu Nhị Trung",
+      "segment_id": "chapter_0064:seg_0008",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0064",
+      "source_term": "联邦军",
+      "target_term": "Quân đội Liên bang",
+      "segment_id": "chapter_0064:seg_0052",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0064",
+      "source_term": "噗叽兽",
+      "target_term": "thú Pút Kít",
+      "segment_id": "chapter_0064:seg_0038",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "beast",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0064",
+      "source_term": "辽远号",
+      "target_term": "Liêu Viễn Hào",
+      "segment_id": "chapter_0064:seg_0035",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0064",
+      "source_term": "深海大学",
+      "target_term": "Đại học Thâm Hải",
+      "segment_id": "chapter_0064:seg_0025",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0064",
+      "source_term": "魔蛟岛",
+      "target_term": "Đảo Ma Giao",
+      "segment_id": "chapter_0064:seg_0018",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0064",
+      "source_term": "晶元匣",
+      "target_term": "hộp tinh nguyên",
+      "segment_id": "chapter_0064:seg_0024",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    }
+  ],
+  "entity_mentions": [
+    {
+      "chapter_id": "chapter_0064",
+      "source_surface": "李耀",
+      "target_surface": "Lý Diệu",
+      "entity_type": "person",
+      "segment_id": "chapter_0064:seg_0004",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0064",
+      "source_surface": "赫连烈",
+      "target_surface": "Hách Liên Liệt",
+      "entity_type": "person",
+      "segment_id": "chapter_0064:seg_0003",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0064",
+      "source_surface": "高野",
+      "target_surface": "Cao Dã",
+      "entity_type": "person",
+      "segment_id": "chapter_0064:seg_0002",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0064",
+      "source_surface": "深海大学",
+      "target_surface": "Đại học Thâm Hải",
+      "entity_type": "factions",
+      "segment_id": "chapter_0064:seg_0025",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0064",
+      "source_surface": "浮戈城",
+      "target_surface": "Phù Qua Thành",
+      "entity_type": "locations",
+      "segment_id": "chapter_0064:seg_0005",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0064",
+      "source_surface": "魔蛟岛",
+      "target_surface": "Đảo Ma Giao",
+      "entity_type": "locations",
+      "segment_id": "chapter_0064:seg_0018",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0064",
+      "source_surface": "辽远号",
+      "target_surface": "Liêu Viễn Hào",
+      "entity_type": "items",
+      "segment_id": "chapter_0064:seg_0035",
+      "confidence": 1.0
+    }
+  ],
+  "name_analysis": {
+    "status": "ok",
+    "evidence_count": 3,
+    "name_mentions": [
+      {
+        "chapter_id": "chapter_0064",
+        "name_source": "李耀",
+        "name_target": "Lý Diệu",
+        "segment_id": "chapter_0064:seg_0004",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0064",
+        "name_source": "赫连烈",
+        "name_target": "Hách Liên Liệt",
+        "segment_id": "chapter_0064:seg_0003",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0064",
+        "name_source": "高野",
+        "name_target": "Cao Dã",
+        "segment_id": "chapter_0064:seg_0002",
+        "present_in_target": true,
+        "confidence": 1.0
+      }
+    ],
+    "name_entries": [
+      {
+        "name_source": "李耀",
+        "name_target": "Lý Diệu"
+      },
+      {
+        "name_source": "赫连烈",
+        "name_target": "Hách Liên Liệt"
+      },
+      {
+        "name_source": "高野",
+        "name_target": "Cao Dã"
+      }
+    ],
+    "transliteration_units": [],
+    "inferred_name_rules": [],
+    "ambiguity_cases": [],
+    "reusable_name_profile": {
+      "mapping_count": 3,
+      "has_ambiguity": false
+    }
+  },
+  "phrase_patterns": [],
+  "grammar_rule_candidates": [],
+  "analyzer_reports": {
+    "term_occurrences": {
+      "status": "ok",
+      "evidence_count": 8
+    },
+    "entity_mentions": {
+      "status": "ok",
+      "evidence_count": 7
+    },
+    "name_mentions": {
+      "status": "ok",
+      "evidence_count": 3
+    },
+    "phrase_patterns": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    },
+    "grammar_rule_candidates": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    }
+  },
+  "review_queue": [
+    {
+      "chapter_id": "chapter_0064",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "李耀",
+        "entity_type": "person",
+        "count": 3,
+        "confidence": 0.7,
+        "evidence": [
+          "了个一干二净。\n\n“李耀！”\n\n赫连烈抬头，",
+          "头狰狞的恶魔。\n\n“李耀，你这垃圾，你这杂碎",
+          "\n被赫连烈怨毒诅咒的李耀，此刻正舒舒服服地藏"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0064",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "安全",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "。\n\n为了保护自己的安全，晶元匣炸弹的爆炸时",
+          "来回巡视，确保选手的安全，万一发生意外，以联"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0064",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "连烈",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "一转，又把矛头对准赫连烈。\n\n“赫连烈，听说",
+          "对准赫连烈。\n\n“赫连烈，听说你和李耀是一个"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0064",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "一名修真者悬浮于战舰尾部",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "暴风雨吹得微微摇晃，一名修真者悬浮于战舰尾部，眯起眼睛观测着天空"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0064",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "一有机会",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "找到一丝一毫的机会！一有机会，我不会放过你，我绝"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0064",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "别给我找到一丝一毫的机会",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "碎！别给我找到机会，别给我找到一丝一毫的机会！一有机会，我不会放"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0064",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "别给我找到机会",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "你这垃圾，你这杂碎！别给我找到机会，别给我找到一丝一毫"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0064",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "开后门",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "实说，最初在法宝上“开后门”时，李耀并没有想得"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0064",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "我和李耀同学先前有过一些小误会",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "笑容，勉强道：\n\n“我和李耀同学先前有过一些小误会，不过早就解决了，李"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0064",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "整座魔蛟岛又变成了妖兽的天堂",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "下来的选手已经不多，整座魔蛟岛又变成了妖兽的天堂，其中不少妖兽的实力"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0064",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "胃里翻江倒海",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "赫连烈再也支撑不住，胃里翻江倒海，大口大口呕吐起来，"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0064",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "都来自浮戈城周边城镇",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "\n\n这里大部分选手，都来自浮戈城周边城镇，对赫连烈没什么顾忌"
+        ]
+      }
+    }
+  ],
+  "quality_audit": {
+    "segment_coverage": 1.0,
+    "source_hash_match": true,
+    "target_reconstruction_match": true,
+    "invalid_ref_count": 0,
+    "locked_term_hit_rate": 1.0,
+    "missing_locked_terms": [],
+    "cjk_residue_count": 0,
+    "paragraph_drift_ratio": 0.0,
+    "pronoun_consistency_score": 1.0,
+    "warnings": []
+  }
+}

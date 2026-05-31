@@ -1,0 +1,993 @@
+{
+  "schema_version": "2.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 42,
+  "chapter_id": "chapter_0042",
+  "source_manifest_hash": "af348d6445a43737dfa42246ca927b372ad1bda15dd3b4e73bd6d66bcda55b46",
+  "aligned_segments": [
+    {
+      "alignment_id": "chapter_0042:align_0001",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0001"
+      ],
+      "source": "# 42.第42章 九星升龙！",
+      "source_hash": "67636826cfad93b3da29cf33349e62ac9b93050306870b9d20d76ce36eeac07b",
+      "target": "# Chương 0042 - Cửu Tinh Thăng Long!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0002",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0002"
+      ],
+      "source": "李耀极目远眺，只见半空中如怒涛翻滚的云层之间，一张巨大的光幕冉冉升起，向四面八方快速扩张，很快就铺开了几十公里的长度！",
+      "source_hash": "f67d5909657a304f2a70fdec7d8adefe3f987b6db239974a27c71bea7a8167c1",
+      "target": "Lý Diệu phóng tầm mắt ra xa, chỉ thấy giữa những tầng mây đang cuồn cuộn như sóng dữ trên không trung, một tấm màn ánh sáng khổng lồ từ từ bay lên, nhanh chóng bành trướng ra bốn phương tám hướng, rất nhanh đã trải rộng tới hàng chục km!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0003",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0003"
+      ],
+      "source": "光幕中出现的，是残阳似血，是风雷激荡，是上千艘晶石战舰穿插在一起，互相碰撞、撕扯、吞噬、爆炸的惨烈战场！",
+      "source_hash": "851dbf6585decb85de4af7faed8a7e9dab4957b25e523785bbe06d106883587c",
+      "target": "Xuất hiện bên trong màn ánh sáng là cảnh chiều tà như máu, gió sấm cuộn trào, hàng ngàn chiếc tinh thạch chiến hạm len lỏi đan xen vào nhau, va chạm, xâu xé, cắn nuốt và phát nổ thành một chiến trường vô cùng thảm khốc!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0004",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0004"
+      ],
+      "source": "“是五百年前的‘血海大战’！”李耀精神一振。",
+      "source_hash": "edcce3202e75f8efced2b0e3b52b50cf9391a643be9f6cee9540b77e9d17ce43",
+      "target": "\"Là 'Huyết Hải Đại Chiến' năm trăm năm trước!\" Lý Diệu tinh thần chấn động.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0005",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0005"
+      ],
+      "source": "光幕中的战场画面，很快就推进到了辽远号狠狠撞击天野号的悲壮一幕。",
+      "source_hash": "254a6a51c2cf05cabe8efc72a6708529c6637ba8ad9424cab793937341db9712",
+      "target": "Hình ảnh chiến trường trên màn ánh sáng rất nhanh đã tiến tới thời khắc bi tráng khi Liêu Viễn Hào hung hăng đâm sầm vào Thiên Dã Hào.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0006",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0006"
+      ],
+      "source": "天野号是东极妖国的旗舰，据说是用上百头海底巨型妖兽的尸体和骸骨，通过数十年的妖术催化，才凝炼到一起，成为无比巨大的骸骨战舰。",
+      "source_hash": "cbb77820d307c696f5c45ca098d2aa6e1feabe36d77ed16b3e5b821b088d91f3",
+      "target": "Thiên Dã Hào là kỳ hạm của Đông Cực Yêu Quốc, nghe nói được chế tạo từ thi thể và hài cốt của hàng trăm con yêu thú khổng lồ dưới đáy biển, thông qua thuật yêu pháp thôi hóa ròng rã mấy chục năm mới ngưng luyện lại với nhau thành một chiến hạm hài cốt khổng lồ vô song.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0007",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0007"
+      ],
+      "source": "全长超过两万米，重量达到一亿九千万吨，简直是一座悬浮在半空中的丑陋山峰，给人坚不可摧的可怕印象。",
+      "source_hash": "abccd32831fca5120a5430b25b9affa06014624af9b32eba7519cec5b9ef954b",
+      "target": "Chiều dài toàn thân vượt quá hai vạn mét, trọng lượng đạt tới một trăm chín mươi triệu tấn, quả thực là một ngọn núi xấu xí trôi nổi giữa không trung, mang lại cho người ta một ấn tượng đáng sợ kiên cố không thể phá vỡ.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0008",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0008"
+      ],
+      "source": "在它面前，即便辽远号，也像是一条微不足道的小舢板，轻轻一撞就会四分五裂。",
+      "source_hash": "787b15828f27bc6c7eb2fa072e7b0176b542e23f9424127924365e51cccdbc29",
+      "target": "Đứng trước mặt nó, ngay cả Liêu Viễn Hào cũng chỉ giống như một chiếc thuyền độc mộc nhỏ bé không đáng kể, khẽ đụng một cái là sẽ tan tành từng mảnh.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0009",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0009"
+      ],
+      "source": "可是，面对如此强大的敌人，辽远号还是义无返顾地加速、加速、不断加速，向着天野号最坚固的前甲板全力冲刺。",
+      "source_hash": "f4751acba49227ede71f2b7bdba2bf117a19132dfb0d23616541daec0674c420",
+      "target": "Thế nhưng, đối mặt với kẻ địch cường đại như vậy, Liêu Viễn Hào vẫn nghĩa vô phản cố mà gia tốc, gia tốc, không ngừng gia tốc, dốc toàn lực lao thẳng về phía boong trước kiên cố nhất của Thiên Dã Hào.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0010",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0010"
+      ],
+      "source": "天野号显然发现了辽远号的意图，周身的无数酸液囊、妖光炮、炎毒腺都一鼓一吸，激射出上百道酸液、毒汁和妖光，劈头盖脑地轰在辽远号的灵力护盾上。",
+      "source_hash": "e5adfc43346e421fd2e444cec63c65dee1ebfb7ea0acf603cc05401bc56e2e7b",
+      "target": "Thiên Dã Hào hiển nhiên đã phát hiện ra ý đồ của Liêu Viễn Hào, vô số túi axit, yêu quang pháo và tuyến độc viêm quanh thân nó liên tục co bóp phập phồng, bắn ra hàng trăm đạo axit, độc dịch cùng yêu quang, ồ ạt oanh kích lên hộ thuẫn linh lực của Liêu Viễn Hào.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0011",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0011"
+      ],
+      "source": "辽远号被轰得摇摇欲坠，灵力护盾忽明忽暗，随时都会崩裂。",
+      "source_hash": "396faa79f0fedf748cbd0775c701072804377347f7569b9f2511c723adb95b96",
+      "target": "Liêu Viễn Hào bị oanh tạc đến mức lung lay sắp đổ, hộ thuẫn linh lực lúc sáng lúc tối, có thể vỡ nứt bất cứ lúc nào.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0012",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0012"
+      ],
+      "source": "四周有不少人类战舰见状，纷纷不顾一切地扑上来，为辽远号抵挡天野号的攻击。",
+      "source_hash": "4c98a0fc8db614318c815b65b01d340dcc4c08c53fc511dbff230b19529f5b49",
+      "target": "Vây quanh có không ít chiến hạm của nhân loại thấy cảnh này, sôi nổi bất chấp tất cả lao lên, thay Liêu Viễn Hào chống đỡ đòn công kích của Thiên Dã Hào.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0013",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0013"
+      ],
+      "source": "这些晶石战舰的吨位较小，防御很弱，大多在吃了几次酸液、毒汁攻击之后就完全腐蚀，落入大海，全舰官兵尽数陨落。",
+      "source_hash": "f4fe9608770783334f27f9e762fabb4ea613899c9edab63c6117c5651949b8f9",
+      "target": "Những tinh thạch chiến hạm này có tải trọng nhỏ hơn, phòng ngự rất yếu, phần lớn sau khi trúng phải vài đợt công kích bằng axit và độc dịch liền bị ăn mòn hoàn toàn, chìm xuống đại dương, toàn bộ binh sĩ trên tàu đều tử trận.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0014",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0014"
+      ],
+      "source": "可更多的人类战舰，却像是发了疯一般，悍不畏死地填上空白，为辽远号组成最坚实的盾牌！",
+      "source_hash": "fb4b5c9e6b5095b1712667682119562b392941e782e9924bf5fa95bee0dd42b4",
+      "target": "Nhưng càng có nhiều chiến hạm nhân loại giống như phát điên, không sợ chết mà lấp vào khoảng trống, tạo thành tấm lá chắn kiên cố nhất cho Liêu Viễn Hào!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0015",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0015"
+      ],
+      "source": "终于——",
+      "source_hash": "6a52d376a895ac922d01ffdc460cd96c4f32c2c4734c0a4e8ce2ed30b5cce207",
+      "target": "Cuối cùng——",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0016",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0016"
+      ],
+      "source": "辽远号和天野号之间只剩下五百米，对于两艘如此庞大的战舰而已，这就是一根头发丝的距离！",
+      "source_hash": "652a2e5269291ac58ba65e1c949d1ef6b2366b9ce956be82bbcaf6a0091b9d6c",
+      "target": "Giữa Liêu Viễn Hào and Thiên Dã Hào chỉ còn lại năm trăm mét, đối với hai chiếc chiến hạm khổng lồ như vậy mà nói, đây chỉ là khoảng cách của một sợi tóc!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0017",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0017"
+      ],
+      "source": "辽远号完全放弃了灵力护盾，将所有灵能都送入驱动法阵之中，战舰尾部爆出猛烈的红芒，速度骤然又提升了一个台阶，突入天野号的妖力护盾！",
+      "source_hash": "2ac03c2b259143c6693231fa16355fe230e45a162aff8955fe3e4cc5dbe213ca",
+      "target": "Liêu Viễn Hào hoàn toàn Từ Bỏ hộ thuẫn linh lực, dồn tất cả linh năng vào trong pháp trận truyền động, đuôi chiến hạm bùng lên luồng hồng mang mãnh liệt, tốc độ đột ngột tăng vọt lên một tầm cao mới, lao thẳng vào hộ thuẫn yêu lực của Thiên Dã Hào!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0018",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0018"
+      ],
+      "source": "“嘶嘶嘶嘶嘶——”",
+      "source_hash": "e5121a3a92c104b395015407db1332c6c30b9e7bc4497ceabcd2da8c949e8f7e",
+      "target": "\"Xoẹt xoẹt xoẹt xoẹt xoẹt ——\"",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0019",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0019"
+      ],
+      "source": "好似流星冲入大气层，辽远号和妖力护盾发生剧烈摩擦，产生大量光和热，赤红色的光芒笼罩住了辽远号，使它变成了一支——闪耀的长枪！",
+      "source_hash": "13549d1abd806913570a555d94f17758d491d776220a78b7380f844873ab5d06",
+      "target": "Giống như sao băng lao vào bầu khí quyển, Liêu Viễn Hào và hộ thuẫn yêu lực ma sát kịch liệt, sản sinh ra lượng lớn ánh sáng và nhiệt độ cao, quang mang đỏ rực bao trùm lấy Liêu Viễn Hào, biến nó thành một mũi trường thương sáng rực!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0020",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0020"
+      ],
+      "source": "来不及了！",
+      "source_hash": "31bf770ff720aa8457e2b28b3164a9926fe8bf388c4ad74eab179a578ed6949d",
+      "target": "Không kịp nữa rồi!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0021",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0021"
+      ],
+      "source": "无论天野号怎么规避都来不及了！",
+      "source_hash": "90fb0c5c7b7eb6d2846cc0d64d1f2f0a97d498e707a6e42a7f42661095256926",
+      "target": "Bất luận Thiên Dã Hào tránh né thế nào cũng không kịp nữa rồi!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0022",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0022"
+      ],
+      "source": "无论天野号怎么往辽远号身上倾泻火力都来不及了！",
+      "source_hash": "a84dda4cb55671352ef18d10f72806e6d4dfe0ba063c8a1a132ea89f4c75ab44",
+      "target": "Bất luận Thiên Dã Hào dốc toàn bộ hỏa lực oanh tạc lên thân Liêu Viễn Hào thế nào cũng không kịp nữa rồi!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0023",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0023"
+      ],
+      "source": "无论天野号的舰桥上，东极妖皇如何怒吼，如何咆哮，如何用最恶毒的妖言诅咒眼前这些疯狂至极的人类都来不及了！",
+      "source_hash": "58fb8a2b4e04961d30c52e9ee0cdf19a6e98d791c6813784dd90c6a0baccfc55",
+      "target": "Bất luận trên đài chỉ huy của Thiên Dã Hào, Đông Cực Yêu Hoàng có gầm thét, gầm rú ra sao, có dùng những lời yêu ngôn độc địa nhất nguyền rủa lũ nhân loại điên cuồng trước mắt thế nào cũng đều không kịp nữa rồi!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0024",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0024"
+      ],
+      "source": "闪耀的长枪以刺破天穹的气势狠狠扎进了天野号的前甲板，直到三分之二舰身都刺入敌舰体内，辽远号尾部的驱动法阵仍旧在超负荷运转，爆出一团团烟花似的璀璨光团，最终完全没入敌舰之中！",
+      "source_hash": "2744a379f0f9c2a648e7fa324d98114563f46d4f68ebbb50b5ed811c7ace305f",
+      "target": "Mũi trường thương rực sáng mang theo khí thế đâm rách bầu trời cắm phập vào boong trước của Thiên Dã Hào, cho đến khi hai phần ba thân tàu đều đâm sâu vào bên trong địch hạm, pháp trận truyền động ở đuôi tàu Liêu Viễn Hào vẫn như cũ vận hành quá tải, nổ tung ra từng cụm quang đoàn lấp lánh như pháo hoa, cuối cùng hoàn toàn chìm ngập vào trong thân chiến hạm địch!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0025",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0025"
+      ],
+      "source": "接着，就是惊天动地的连环大爆炸。",
+      "source_hash": "b47fee7d821dd30fda6c19fffe38495bd33a7fd172012aaae67842e00e88d4b8",
+      "target": "Kế tiếp, chính là những đợt đại nổ liên hoàn kinh thiên động địa.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0026",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0026"
+      ],
+      "source": "威风凛凛，不可一世的天野号，就像是一具失去灵魂的躯壳，四处冒烟，到处漏火，组成舰身的骸骨纷纷崩溃，分解，逐一落入海中。",
+      "source_hash": "2444b3ea0a4ea6302d7005d51add48757f2bef18600b2d33aa9814053e982608",
+      "target": "Chiếc Thiên Dã Hào oai phong lẫm liệt, không coi ai ra gì giờ đây tựa như một cái xác không hồn, khắp nơi khói đen bốc lên, lửa cháy loang lổ, những khúc hài cốt cấu thành thân hạm không ngừng sụp đổ, tan rã, lần lượt rơi xuống biển.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0027",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0027"
+      ],
+      "source": "……",
+      "source_hash": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+      "target": "……",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0028",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0028"
+      ],
+      "source": "战斗进入尾声，光幕逐渐消散，血染的大海重新变成蓝天白云。",
+      "source_hash": "b13771d9d3a4c97e4ab3ed025f571fe18a19f85081a0b5168bf7278e2c8eb1c1",
+      "target": "Trận chiến đi vào hồi kết, tấm màn ánh sáng dần dần tiêu tán, vùng biển nhuộm máu lại khôi phục thành trời xanh mây trắng.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0029",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0029"
+      ],
+      "source": "在光幕画面的最后，残阳和鲜血渐渐凝结，化作三段赤红色的文字：",
+      "source_hash": "5b33bc00327421d0d02e27e15aa9cbfef505fb078c19d3ca60ab3d7c43c320d2",
+      "target": "Ở những hình ảnh cuối cùng trên màn sáng, ánh chiều tà và máu tươi dần dần ngưng kết, hóa thành ba dòng chữ đỏ rực:",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0030",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0030"
+      ],
+      "source": "“此战，辽远号上一万三千二百五十名官兵，包括三百名炼气期修真者，十五名筑基期修真者，以及身为舰长的结丹期修真者，全部陨落，无一生还！”",
+      "source_hash": "582915a0153e7e5350ad64093f66667a42fdd878b7bac07d5342ecd39eb91a8a",
+      "target": "\"Trận chiến này, mười ba ngàn hai trăm năm mươi sĩ quan và binh sĩ trên tàu Liêu Viễn Hào, bao gồm ba trăm tu chân giả Luyện Khí Kỳ, mười lăm tu chân giả Trúc Cơ Kỳ, cùng với hạm trưởng là tu chân giả Kết Đan Kỳ, toàn bộ hi sinh, không một ai sống sót!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0031",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0031"
+      ],
+      "source": "“和他们一起陨落的，还有十一万官兵，四千三百五十二名修真者！”",
+      "source_hash": "67d36977c57323f1afc0147c57f2bf12291279dadd9c938a38f53cb88473331f",
+      "target": "\"Cùng hi sinh với họ còn có mười một vạn binh sĩ, bốn ngàn ba trăm năm mươi hai danh tu chân giả!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0032",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0032"
+      ],
+      "source": "“他们缔造的，是一个属于人类的强大国家——星耀联邦！”",
+      "source_hash": "47ef3ae50758e0dcfe71600650af4f926045e4003778b536b3b3abd1ef689cec",
+      "target": "\"Thứ họ tạo dựng nên, là một quốc gia cường đại thuộc về nhân loại —— Liên bang Tinh Diệu!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0033",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0033"
+      ],
+      "source": "以此为背景，一面铺天盖地的红旗随风飘动，缓缓展开，出现在红旗正中央的是一条张牙舞爪的金色巨龙，巨龙盘踞在一颗半透明的水晶圆珠之上，而珠子里是九颗熠熠生辉的五角星。",
+      "source_hash": "157136cbda5e15a6e7e79c2de713833f14c1bc8db6c0df0494c856d195d40bdc",
+      "target": "Lấy đó làm bối cảnh, một lá cờ đỏ rợp trời đón gió tung bay, từ từ giương rộng ra. Xuất hiện ở ngay chính giữa lá cờ đỏ là một con cự long màu vàng kim đang nhe nanh múa vuốt, cự long cuộn mình trên một viên ngọc pha lê bán trong suốt, mà bên trong viên ngọc có chín ngôi sao năm cánh đang tỏa sáng lấp lánh.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0034",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0034"
+      ],
+      "source": "星耀联邦的国旗——九星升龙旗！",
+      "source_hash": "e63738195fc4c8f6eec1ff8e3d06c10d192a5898a329251e16d4a74e3a100f5d",
+      "target": "Quốc kỳ của Liên bang Tinh Diệu —— cờ Cửu Tinh Thăng Long!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0035",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0035"
+      ],
+      "source": "九星，代表最初缔造联邦的九个修炼宗派；巨龙，代表人类文明叱咤星河，征服宇宙的壮志雄心！",
+      "source_hash": "ef44bc0267f4b8a05805218d52e671803d4e9f4f90d0882f4a571b92a37b1681",
+      "target": "Chín ngôi sao đại diện cho chín tông phái tu luyện ban đầu đã sáng lập nên Liên bang; cự long đại diện cho chí hướng hùng tâm tráng chí thét ra lửa giữa tinh hà, chinh phục vũ trụ của văn minh nhân loại!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0036",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0036"
+      ],
+      "source": "看到这三句话，看到殷红如血的国旗，所有年轻人都感到心潮澎湃，热血沸腾，不知是谁第一个高声叫道：",
+      "source_hash": "bf217aa94c4c5f5d99a80cc2c2a663f6c8b74819fa146735089337b362d4f803",
+      "target": "Nhìn thấy ba dòng chữ này, nhìn thấy lá quốc kỳ đỏ rực như máu, toàn bộ người trẻ tuổi đều cảm thấy tâm triều dâng trào, nhiệt huyết sôi sục, không biết là ai đã cất tiếng hô to đầu tiên:",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0037",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0037"
+      ],
+      "source": "“联邦万岁！”",
+      "source_hash": "3d4052c7f365245db0c3ce2ea7d0b7f7e6de03758b829f76737db38ecdcbabad",
+      "target": "\"Liên bang vạn tuế!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0038",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0038"
+      ],
+      "source": "“修真者万岁！”",
+      "source_hash": "257fc78a79d7ae17f65a7eac06e6d3b2ebadeea5c4da8e76eca56f78bb98ff09",
+      "target": "\"Tu chân giả vạn tuế!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0039",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0039"
+      ],
+      "source": "“煌煌人族，星海争霸！人类文明万岁！”",
+      "source_hash": "249f73e4d159980c83013623b7fb1aaa9f62b06af7c63e0a039c8f21bd500aab",
+      "target": "\"Nhân tộc huy hoàng, tranh bá tinh hải! Văn minh nhân loại vạn tuế!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0040",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0040"
+      ],
+      "source": "“我们人类，是无尽星海中最强的战斗种族！我们永远是这个宇宙的主宰，没有任何存在能够阻挡我们！谁敢阻挡我们，我们一定和他血战到底！”",
+      "source_hash": "28e532c2845dce0968d365eebd584c0ce1dffc4209669931df307b8f59eba779",
+      "target": "\"Nhân loại chúng ta là chủng tộc chiến đấu mạnh mẽ nhất trong tinh hải vô tận! Chúng ta vĩnh viễn là chúa tể của vũ trụ này, không có bất kỳ tồn tại nào có thể ngăn cản bước chân chúng ta! Kẻ nào dám cản đường, chúng ta nhất định sẽ quyết chiến tới cùng với hắn!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0041",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0041"
+      ],
+      "source": "“联邦万岁！修真者万岁！人类文明万岁！”",
+      "source_hash": "0b2a0c3bde4e45abc29c103ac0f162257fe89d93c0a846a458326783ab15a479",
+      "target": "\"Liên bang vạn tuế! Tu chân giả vạn tuế! Văn minh nhân loại vạn tuế!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0042",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0042"
+      ],
+      "source": "不一会儿，八艘浮空艇上的所有少年都一起激动地呐喊起来。",
+      "source_hash": "027edf33b04fdb074963439830e229f13be861aebca17ed771c4b22e044913d3",
+      "target": "Không lâu sau, toàn bộ thiếu niên trên cả tám chiếc thuyền phù không đều cùng nhau kích động gào thét vang trời.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0043",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0043"
+      ],
+      "source": "感应到了年轻人们最纯净的勇气和意志，一直沉寂如墓碑的辽远号忽然轻轻一颤，周身涌动起了一道淡淡的金芒，化作一柄金色长枪，朝底下的魔蛟岛狠狠刺去！",
+      "source_hash": "3628171a0326d59f4d561a24ec2fde557c69cd149dbaa34f7fec77676612b044",
+      "target": "Cảm ứng được dũng khí và ý chí thuần khiết nhất của đám trẻ tuổi, Liêu Viễn Hào vốn hằng im lìm như tấm bia mộ chợt run rẩy nhè nhẹ, quanh thân cuồn cuộn lên một đạo kim mang nhạt màu, hóa thành một cây trường thương màu vàng kim, đâm mạnh xuống Đảo Ma Giao bên dưới!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0044",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0044"
+      ],
+      "source": "“唰！”",
+      "source_hash": "ed7ce1b7d45c80607a5955ab57f562628e969dbb6ddb6073f188a843a0f40260",
+      "target": "\"Xoẹt!\"",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0045",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0045"
+      ],
+      "source": "金色长枪正好刺中魔蛟岛的“头部”，整片黑色海洋都发出了微弱的震荡，仿佛从大海深处传来一声细碎的惨叫，遍布在魔蛟岛四周的漩涡也出现了一刹那的凝固。",
+      "source_hash": "99f9fc0d3df1bfaa8f7f1a5a577ba4b9f105d83aeac4eb0a6f620442879b8521",
+      "target": "Trường thương màu vàng kim đâm trúng ngay phần \"đầu\" của Đảo Ma Giao, cả vùng biển đen ngòm phát ra những rung chấn khe khẽ, phảng phất từ tận sâu dưới đáy biển truyền đến một tiếng thét thảm thiết nhỏ vụn, những vòng xoáy rải rác quanh Đảo Ma Giao cũng xuất hiện một khoảnh khắc ngưng đọng.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0046",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0046"
+      ],
+      "source": "不知是否错觉，李耀觉得空气一下子都变得清新起来。",
+      "source_hash": "17268c75f0540cb9331a7cb0657e8506122827d546f9d68eee5b27367158ee4e",
+      "target": "Không biết có phải ảo giác hay không, Lý Diệu cảm thấy không khí đột nhiên trở nên trong lành hơn hẳn.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0047",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0047"
+      ],
+      "source": "“生而为龙，死则成碑，永守国门，永镇河山！”李耀脑中，浮现出了这样十六个字。",
+      "source_hash": "d67e4e4b6691546163a412a804530be2a2c5bc27478d40d7307e71dc2b9bcfe3",
+      "target": "\"Sinh thời vi long, tử hậu thành bia, vĩnh thủ quốc môn, vĩnh trấn hà sơn!\" Trong đầu Lý Diệu hiện lên mười sáu chữ như vậy.",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0048",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0048"
+      ],
+      "source": "“看来传说是真的，这艘联邦永远的旗舰‘辽远号’，真的被炼制成了一件巨型法宝，永远矗立在东海之滨，镇压东极妖国的气运！”",
+      "source_hash": "ee71d19c574a8e3331ca339167f6243939031c1c28927df0953326c4cb739e7e",
+      "target": "\"Xem ra lời đồn là thật, chiếc Liêu Viễn Hào - kỳ hạm vĩnh viễn của Liên bang này thực sự đã được luyện chế thành một pháp bảo khổng lồ, vĩnh viễn đứng sừng sững bên bờ Đông Hải, trấn áp khí vận của Đông Cực Yêu Quốc!\"",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0049",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0049"
+      ],
+      "source": "看着眼前越来越大的辽远号，李耀心底，忽然生出一种莫名的感动。",
+      "source_hash": "1012bdbb123c0a5083156ce32ba62baad6be4bda74320cbe98f2c7d87521256b",
+      "target": "Nhìn chiếc Liêu Viễn Hào ngày càng phóng to trước mắt, trong thâm tâm Lý Diệu đột nhiên dâng lên một nỗi xúc động khôn tả.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0050",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0050"
+      ],
+      "source": "“原先我一直不知道，‘炼器大师’应该是什么样子，现在我知道了，只有炼制出‘辽远号’这种级数的国之重器，才称得上是真正的炼器大师！”",
+      "source_hash": "4867c67c410c3bceff10b4ede37624f79f923f494bc4895dcefc01c105abd61f",
+      "target": "\"Trước đây tôi luôn không biết một 'luyện khí đại sư' rốt cuộc nên có dáng vẻ thế nào, bây giờ tôi hiểu rồi, chỉ có luyện chế ra trọng khí quốc gia cấp bậc cỡ như 'Liêu Viễn Hào', mới xứng đáng được gọi là luyện khí đại sư chân chính!\"",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0051",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0051"
+      ],
+      "source": "“如果能亲手炼制这样一件法宝……哪怕只是参与其中，做一些简单的维修工作，都是一个炼器师的无上荣耀！”",
+      "source_hash": "95f7afa6ad0b8cc7f4676212f1c965c592856b6639d73dcce3fa89f917db7b2a",
+      "target": "\"Nếu có thể tự tay luyện chế ra một món pháp bảo như vậy... cho dù chỉ là tham gia vào trong đó, làm một số công việc bảo trì đơn giản, cũng là vinh quang tối cao của một luyện khí sư!\"",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0042:align_0052",
+      "chapter_id": "chapter_0042",
+      "segment_ids": [
+        "chapter_0042:seg_0052"
+      ],
+      "source": "“我，想成为这样的炼器师，炼制出这样的法宝！”李耀心潮澎湃，死死攥住栏杆的双手渗出了汗水，仿佛连掌心都燃烧起来！",
+      "source_hash": "cc63515b73afe952d8956a4003020eac559da02aedd52faca5162a1b212ed37c",
+      "target": "\"Tôi muốn trở thành một luyện khí sư như thế, luyện chế ra những món pháp bảo như thế!\" Lòng Lý Diệu tràn đầy nhiệt huyết cuộn trào, hai bàn tay nắm chặt lan can rịn ra mồ hôi, phảng phất như ngay cả lòng bàn tay cũng đang bùng cháy!",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    }
+  ],
+  "term_occurrences": [
+    {
+      "chapter_id": "chapter_0042",
+      "source_term": "筑基期",
+      "target_term": "Trúc Cơ Kỳ",
+      "segment_id": "chapter_0042:seg_0030",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "level",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0042",
+      "source_term": "国之重器",
+      "target_term": "Trọng khí quốc gia",
+      "segment_id": "chapter_0042:seg_0050",
+      "present_in_target": false,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0042",
+      "source_term": "结丹",
+      "target_term": "Kết Đan",
+      "segment_id": "chapter_0042:seg_0030",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "level",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0042",
+      "source_term": "放弃",
+      "target_term": "Từ Bỏ",
+      "segment_id": "chapter_0042:seg_0017",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0042",
+      "source_term": "炼器师",
+      "target_term": "luyện khí sư",
+      "segment_id": "chapter_0042:seg_0051",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "job",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0042",
+      "source_term": "辽远号",
+      "target_term": "Liêu Viễn Hào",
+      "segment_id": "chapter_0042:seg_0005",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0042",
+      "source_term": "血海大战",
+      "target_term": "Huyết Hải Đại Chiến",
+      "segment_id": "chapter_0042:seg_0004",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "event",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0042",
+      "source_term": "东极妖国",
+      "target_term": "Đông Cực Yêu Quốc",
+      "segment_id": "chapter_0042:seg_0006",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0042",
+      "source_term": "天野号",
+      "target_term": "Thiên Dã Hào",
+      "segment_id": "chapter_0042:seg_0005",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0042",
+      "source_term": "东极妖皇",
+      "target_term": "Đông Cực Yêu Hoàng",
+      "segment_id": "chapter_0042:seg_0023",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "character",
+      "confidence": 1.0
+    }
+  ],
+  "entity_mentions": [
+    {
+      "chapter_id": "chapter_0042",
+      "source_surface": "李耀",
+      "target_surface": "Lý Diệu",
+      "entity_type": "person",
+      "segment_id": "chapter_0042:seg_0002",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0042",
+      "source_surface": "东极妖国",
+      "target_surface": "Đông Cực Yêu Quốc",
+      "entity_type": "factions",
+      "segment_id": "chapter_0042:seg_0006",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0042",
+      "source_surface": "魔蛟岛",
+      "target_surface": "Đảo Ma Giao",
+      "entity_type": "locations",
+      "segment_id": "chapter_0042:seg_0043",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0042",
+      "source_surface": "放弃",
+      "target_surface": "Từ Bỏ",
+      "entity_type": "items",
+      "segment_id": "chapter_0042:seg_0017",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0042",
+      "source_surface": "辽远号",
+      "target_surface": "Liêu Viễn Hào",
+      "entity_type": "items",
+      "segment_id": "chapter_0042:seg_0005",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0042",
+      "source_surface": "天野号",
+      "target_surface": "Thiên Dã Hào",
+      "entity_type": "items",
+      "segment_id": "chapter_0042:seg_0005",
+      "confidence": 1.0
+    }
+  ],
+  "name_analysis": {
+    "status": "ok",
+    "evidence_count": 1,
+    "name_mentions": [
+      {
+        "chapter_id": "chapter_0042",
+        "name_source": "李耀",
+        "name_target": "Lý Diệu",
+        "segment_id": "chapter_0042:seg_0002",
+        "present_in_target": true,
+        "confidence": 1.0
+      }
+    ],
+    "name_entries": [
+      {
+        "name_source": "李耀",
+        "name_target": "Lý Diệu"
+      }
+    ],
+    "transliteration_units": [],
+    "inferred_name_rules": [],
+    "ambiguity_cases": [],
+    "reusable_name_profile": {
+      "mapping_count": 1,
+      "has_ambiguity": false
+    }
+  },
+  "phrase_patterns": [],
+  "grammar_rule_candidates": [],
+  "analyzer_reports": {
+    "term_occurrences": {
+      "status": "ok",
+      "evidence_count": 10
+    },
+    "entity_mentions": {
+      "status": "ok",
+      "evidence_count": 6
+    },
+    "name_mentions": {
+      "status": "ok",
+      "evidence_count": 1
+    },
+    "phrase_patterns": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    },
+    "grammar_rule_candidates": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    }
+  },
+  "review_queue": [
+    {
+      "chapter_id": "chapter_0042",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "万岁",
+        "entity_type": "person",
+        "count": 6,
+        "confidence": 0.7,
+        "evidence": [
+          "高声叫道：\n\n“联邦万岁！”\n\n“修真者万岁",
+          "万岁！”\n\n“修真者万岁！”\n\n“煌煌人族，",
+          "，星海争霸！人类文明万岁！”\n\n“我们人类，"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0042",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "明万岁",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.82,
+        "evidence": [
+          "族，星海争霸！人类文明万岁！”\n\n“我们人类，",
+          "！修真者万岁！人类文明万岁！”\n\n不一会儿，八"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0042",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "代表最初缔造联邦的九个修炼宗派",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "星升龙旗！\n\n九星，代表最初缔造联邦的九个修炼宗派；巨龙，代表人类文明"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0042",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "头部",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "枪正好刺中魔蛟岛的“头部”，整片黑色海洋都发"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0042",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "永守国门",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "生而为龙，死则成碑，永守国门，永镇河山！”李耀脑"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0042",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "爆出一团团烟花似的璀璨光团",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "阵仍旧在超负荷运转，爆出一团团烟花似的璀璨光团，最终完全没入敌舰之"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0042",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "代表人类文明叱咤星河",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "九个修炼宗派；巨龙，代表人类文明叱咤星河，征服宇宙的壮志雄心"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0042",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "永镇河山",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "死则成碑，永守国门，永镇河山！”李耀脑中，浮现出"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0042",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "简直是一座悬浮在半空中的丑陋山峰",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "量达到一亿九千万吨，简直是一座悬浮在半空中的丑陋山峰，给人坚不可摧的可怕"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0042",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "落入大海",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "攻击之后就完全腐蚀，落入大海，全舰官兵尽数陨落。"
+        ]
+      }
+    }
+  ],
+  "quality_audit": {
+    "segment_coverage": 1.0,
+    "source_hash_match": true,
+    "target_reconstruction_match": true,
+    "invalid_ref_count": 0,
+    "locked_term_hit_rate": 1.0,
+    "missing_locked_terms": [],
+    "cjk_residue_count": 0,
+    "paragraph_drift_ratio": 0.0,
+    "pronoun_consistency_score": 1.0,
+    "warnings": []
+  }
+}

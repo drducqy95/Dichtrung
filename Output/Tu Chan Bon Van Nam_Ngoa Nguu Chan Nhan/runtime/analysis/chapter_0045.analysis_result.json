@@ -1,0 +1,902 @@
+{
+  "schema_version": "2.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 45,
+  "chapter_id": "chapter_0045",
+  "source_manifest_hash": "fd4cb64a01842a4f1cb1c4acd346d745e48cfd8d3d6e12733da681be04262383",
+  "aligned_segments": [
+    {
+      "alignment_id": "chapter_0045:align_0001",
+      "chapter_id": "chapter_0045",
+      "segment_ids": [
+        "chapter_0045:seg_0001"
+      ],
+      "source": "# 45.第45章 大道之争",
+      "source_hash": "c7f78ad1008ed77b272492bc6c9b190b99dc285329d4bfa1396eea5caa732652",
+      "target": "# Chương 0045 - Đại Đạo Chi Tranh",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0045:align_0002",
+      "chapter_id": "chapter_0045",
+      "segment_ids": [
+        "chapter_0045:seg_0002"
+      ],
+      "source": "说罢，赵天戈冲钟伯牙点了点头，转身就走。",
+      "source_hash": "a5db06250b509d2749ba7679b137b885f522251446b6fb83e0c7f773e8809885",
+      "target": "Nói xong, Triệu Thiên Qua gật đầu chào Chung Bá Nha một cái rồi quay người rời đi.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0045:align_0003",
+      "chapter_id": "chapter_0045",
+      "segment_ids": [
+        "chapter_0045:seg_0003"
+      ],
+      "source": "绝大部分少年都随他而去，只有一小部分同学被灵子对撞机吸引，留下来和钟伯牙深入探讨。",
+      "source_hash": "b4063d8d3595ea1a0e543402f31aaf665469f836288bf5fc5d99c64766961dc9",
+      "target": "Tuyệt đại đa số thiếu niên đều đi theo ông, chỉ còn lại một nhóm nhỏ học sinh bị thu hút bởi máy đối chàng linh tử là ở lại thảo luận chuyên sâu với Chung Bá Nha.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0045:align_0004",
+      "chapter_id": "chapter_0045",
+      "segment_ids": [
+        "chapter_0045:seg_0004"
+      ],
+      "source": "“好惊险，还以为他们两个会打起来！”这场冲突大大出乎李耀的预料，他有些错愕地说。",
+      "source_hash": "70651c596e1921959d768d228f27ed7a83402b80ba585f26281b79b180840b49",
+      "target": "“Thật kinh hiểm, tớ cứ tưởng hai người họ sẽ đánh nhau luôn chứ!” Cuộc xung đột này hoàn toàn vượt ngoài dự liệu của Lý Diệu, cậu có chút kinh ngạc nói.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0045:align_0005",
+      "chapter_id": "chapter_0045",
+      "segment_ids": [
+        "chapter_0045:seg_0005"
+      ],
+      "source": "这两名大学老师都拥有至少筑基期的修为，全力发作，气势惊人，不是李耀能承受的。",
+      "source_hash": "5a4e6aa9d72a8c4da9867cf9ad1b43417dd81582a884238eb8ce700ecc0d57eb",
+      "target": "Cả hai giảng viên đại học này đều sở hữu tu vi từ Trúc Cơ Kỳ trở lên, một khi bộc phát toàn lực, khí thế cực kỳ kinh người, không phải thứ Lý Diệu có thể chịu đựng nổi.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0045:align_0006",
+      "chapter_id": "chapter_0045",
+      "segment_ids": [
+        "chapter_0045:seg_0006"
+      ],
+      "source": "“谁说不是啊！修真者，修真者，这个‘真’就是‘真理’，每一名修真者都有自己坚持的真理，如果真理不同，甚至截然相反，一旦对撞，就是火花四溅，非要驳倒对方不可！还好今天人多，双方都控制住了，换成另一个四下无人的隐秘场合，双方真的做过一场，也是稀松平常！”郑东明十分感慨地说。",
+      "source_hash": "df8db57931873ff6a4a39a32049afa9c19dda7beb5c0e410584497a784667fec",
+      "target": "“Ai bảo không phải chứ! Tu chân giả, tu chân giả, chữ 'chân' này chính là 'chân lý'. Mỗi một tu chân giả đều có chân lý mà bản thân kiên trì. Nếu chân lý bất đồng, thậm chí hoàn toàn trái ngược, một khi va chạm sẽ tóe lửa khắp nơi, không bác bỏ được đối phương thì không chịu thôi! Cũng may hôm nay đông người nên cả hai bên đều kiềm chế được, nếu đổi lại là ở một nơi hẻo lánh không một bóng người khác, hai bên thực sự đánh một trận tơi bời hoa lá cũng là chuyện hết sức bình thường!” Trịnh Đông Minh vô cùng cảm khái nói.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0045:align_0007",
+      "chapter_id": "chapter_0045",
+      "segment_ids": [
+        "chapter_0045:seg_0007"
+      ],
+      "source": "“这么厉害，就为了一个理念，至于吗？”李耀咂舌。",
+      "source_hash": "4003e387c4f4ed2ed6a8cbfb270bb3921248b34282746b48d40f932f044f0476",
+      "target": "“Ghê gớm vậy sao, chỉ vì một lý niệm mà có đáng thế không?” Lý Diệu tặc lưỡi.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0045:align_0008",
+      "chapter_id": "chapter_0045",
+      "segment_ids": [
+        "chapter_0045:seg_0008"
+      ],
+      "source": "“当然至于，修真者三个字用大白话说，就是‘追求真理的人’，修的就是这个‘真理’！用古代修真界的话说，这个真理就是他们的‘道心’，一旦真理被别人驳倒，产生怀疑，等于是‘道心失守’，轻则走火入魔，修为停滞不前；重则境界崩塌，修为狂降，变成废人！传说中，甚至有一名元婴强者和人论道，被对方拿出无可辩驳的事实，将他坚持的‘真理’彻底驳倒，结果元婴爆裂，道心失守，被域外天魔乘虚而入，当场转化成了‘修魔者’，险些酿成大祸！所以修真者面对真理之争，就像面对大道之争，唯有勇猛精进，一往无前，是不容半点退缩的！”郑东明十分严肃地说。",
+      "source_hash": "804812d0fbf0fc040d1bda4fde89cd3ba046599f7e421d8812eab50d884fac2e",
+      "target": "“Đương nhiên là đáng rồi. Ba chữ tu chân giả nói một cách bình dân chính là 'người theo đuổi chân lý', thứ họ tu luyện chính là cái 'chân lý' này! Theo cách nói của giới tu chân cổ đại thì chân lý này chính là 'đạo tâm' của họ. Một khi chân lý bị người khác bác bỏ, nảy sinh nghi ngờ thì tương đương với việc 'đạo tâm thất thủ', nhẹ thì tẩu hỏa nhập ma, tu vi ngưng trệ không tiến; nặng thì cảnh giới sụp đổ, tu vi sụt giảm nghiêm trọng, biến thành phế nhân! Trong truyền thuyết thậm chí có một vị cường giả Nguyên Anh luận đạo với người khác, bị đối phương đưa ra những sự thật không thể chối cãi để bác bỏ hoàn toàn 'chân lý' mà hắn kiên trì, kết quả là Nguyên Anh nổ tung, đạo tâm thất thủ, bị ngoại vực thiên ma thừa cơ xâm nhập, ngay tại chỗ chuyển hóa thành 'tu ma giả', suýt chút nữa gây ra đại họa! Cho nên tu chân giả đối mặt với tranh chấp chân lý cũng giống như đối mặt với cuộc chiến đại đạo, chỉ có thể dũng mãnh tinh tiến, dũng mãnh tiến về phía trước, không cho phép lùi bước dù chỉ nửa bước!” Trịnh Đông Minh vô cùng nghiêm túc nói.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0045:align_0009",
+      "chapter_id": "chapter_0045",
+      "segment_ids": [
+        "chapter_0045:seg_0009"
+      ],
+      "source": "李耀若有所思地点了点头。",
+      "source_hash": "eafefd5ee216d98ae257652b2c2679571d30575c6b54f7195dae4c0b2fb75c11",
+      "target": "Lý Diệu đăm chiêu gật đầu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0045:align_0010",
+      "chapter_id": "chapter_0045",
+      "segment_ids": [
+        "chapter_0045:seg_0010"
+      ],
+      "source": "今天真是大开眼界，了解到这么多修真界的知识，不过还有一点他不明白：",
+      "source_hash": "0168586f51e00e5ed07ee4e20482404122c386791848dc3e9e24c32c43e707a8",
+      "target": "Hôm nay đúng là mở rộng tầm mắt, hiểu thêm được nhiều kiến thức về giới tu chân, thế nhưng vẫn còn một điểm cậu chưa hiểu rõ:",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0045:align_0011",
+      "chapter_id": "chapter_0045",
+      "segment_ids": [
+        "chapter_0045:seg_0011"
+      ],
+      "source": "“对了，最后钟伯牙称呼赵天戈为‘赵道友’，这是什么意思？我看赵天戈听了之后，态度一下子柔和起来，走之前还和钟伯牙点头致意，似乎没那么敌对了。”",
+      "source_hash": "8e4568400ed04cae071974b676928cce64d95d7a6ed14e2bbeb22df7f0f5816c",
+      "target": "“Đúng rồi, cuối cùng Chung Bá Nha xưng hô với Triệu Thiên Qua là 'Triệu đạo hữu', thế là có ý gì vậy? Tớ thấy Triệu Thiên Qua nghe xong thái độ lập tức dịu đi hẳn, trước khi đi còn gật đầu chào Chung Bá Nha, vẻ mặt không còn đối địch như trước nữa.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0045:align_0012",
+      "chapter_id": "chapter_0045",
+      "segment_ids": [
+        "chapter_0045:seg_0012"
+      ],
+      "source": "郑东明解释道：“道友是修真界的尊称，意思是说，‘我未必赞同你的理念，但我承认，你和我一样，都在追寻真理的大道上前进，虽然我们的真理不同，但我们追求真理的心是一样的，所以，我们是朋友，是孤独行走在各自大道上的朋友’，这就是‘道友’，是很正式的称呼！钟伯牙称呼对方为道友，是主动释放善意，赵天戈也不想把事情闹大，自然顺水推舟，下了台阶。”",
+      "source_hash": "7c615be681fcb1325d530cd6c65d7035405a7554207bebfd106fb9ff7152bf03",
+      "target": "Trịnh Đông Minh giải thích: “Đạo hữu là một tôn xưng trong giới tu chân, có nghĩa là: 'Ta chưa chắc đã tán đồng lý niệm của ngươi, nhưng ta thừa nhận ngươi cũng giống như ta, đều đang tiến bước trên con đường lớn truy tìm chân lý. Mặc dù chân lý của chúng ta khác nhau, nhưng cái tâm truy cầu chân lý của chúng ta là như nhau. Do đó, chúng ta là bạn bè, là những người bạn cô độc đang bước đi trên đại đạo riêng của mỗi người'. Đó chính là ý nghĩa của hai chữ 'đạo hữu', là một cách xưng hô rất chính thức! Chung Bá Nha gọi đối phương là đạo hữu chính là chủ động bày tỏ thiện ý, Triệu Thiên Qua cũng không muốn làm lớn chuyện nên tự nhiên nương theo đó mà xuống thang thôi.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0045:align_0013",
+      "chapter_id": "chapter_0045",
+      "segment_ids": [
+        "chapter_0045:seg_0013"
+      ],
+      "source": "见李耀沉吟不语，郑东明笑道：“怎么，你对星云大学有兴趣？”",
+      "source_hash": "89ad3de762af8db8155a5ba11935a6c9080ab77464ae9af2424430c7a22d37f3",
+      "target": "Thấy Lý Diệu trầm ngâm không nói, Trịnh Đông Minh cười hỏi: “Sao thế, cậu có hứng thú với Đại học Tinh Vân à?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0045:align_0014",
+      "chapter_id": "chapter_0045",
+      "segment_ids": [
+        "chapter_0045:seg_0014"
+      ],
+      "source": "李耀很认真地想了想，摇头道：“看上去，星云大学比较擅长基础理论方面的学科，我从小没有接受过正规教育，基础比较薄弱，而且兴趣也不在理论上，有没有比较偏重实务的大学？”",
+      "source_hash": "6be1a36290d86763ba54decf09f972860535c41aa4eceb9b512151ef9f89e88d",
+      "target": "Lý Diệu suy nghĩ rất nghiêm túc rồi lắc đầu nói: “Xem ra Đại học Tinh Vân thiên về các môn học lý thuyết cơ sở hơn, tớ từ nhỏ đã không được tiếp nhận giáo dục chính quy nên nền tảng khá yếu, hơn nữa hứng thú của tớ cũng không nằm ở mặt lý thuyết. Ở đây có trường đại học nào thiên về thực hành hơn không?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0045:align_0015",
+      "chapter_id": "chapter_0045",
+      "segment_ids": [
+        "chapter_0045:seg_0015"
+      ],
+      "source": "“偏重实务？当然有，我们去看看天都医学院！”",
+      "source_hash": "e3000d29e6a4ba55de5f6497b581200c00ab7b5c12ed7859cb1208f4ae358cb9",
+      "target": "“Thiên về thực hành ư? Đương nhiên là có rồi, chúng ta đi xem Học viện Y khoa Thiên Đô xem sao!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0045:align_0016",
+      "chapter_id": "chapter_0045",
+      "segment_ids": [
+        "chapter_0045:seg_0016"
+      ],
+      "source": "两人走到下一个展台，天都医学院！",
+      "source_hash": "496731e3866cf9389b697d31c1b1fbfcc39f55f7885cb3de91173db77d784411",
+      "target": "Hai người đi tới quầy triển lãm tiếp theo: Học viện Y khoa Thiên Đô!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0045:align_0017",
+      "chapter_id": "chapter_0045",
+      "segment_ids": [
+        "chapter_0045:seg_0017"
+      ],
+      "source": "出现在这里的都是身穿白大褂，戴着口罩的医生，空气中也弥漫着一股酸溜溜的消毒水味道。",
+      "source_hash": "74662f14518d9d697fd2ce8177ca3041a899f4b3924832f1834b325aef574573",
+      "target": "Những người xuất hiện ở đây đều mặc áo khoác blouse trắng, đeo khẩu trang y tế, trong không khí cũng thoang thoảng mùi nước khử trùng chua nồng.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0045:align_0018",
+      "chapter_id": "chapter_0045",
+      "segment_ids": [
+        "chapter_0045:seg_0018"
+      ],
+      "source": "只见偌大的展台中央摆放着一尊巨大的玻璃器皿，禁锢着一头虎型妖兽，也不知被什么秘法束缚，一直保持僵直状态，连尾巴都无法晃动半分。",
+      "source_hash": "5d87956b431c461ed84b0886d267bd4863a5f65fc641b3eef89838ff7eb49f17",
+      "target": "Chỉ thấy ở chính giữa quầy triển lãm khổng lồ đặt một tủ kính thủy tinh lớn, bên trong đang nhốt một con yêu thú dạng hổ. Không biết nó bị cấm chế bằng bí pháp gì mà luôn giữ trạng thái đờ đẫn cứng ngắc, ngay cả cái đuôi cũng không thể lay động nửa phân.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0045:align_0019",
+      "chapter_id": "chapter_0045",
+      "segment_ids": [
+        "chapter_0045:seg_0019"
+      ],
+      "source": "只有滴溜溜乱转的眼珠中，不时闪动着惊慌失措和凶残暴虐交加的光芒，显示它是活物。",
+      "source_hash": "4753d81f7b796efcecd79bbb8084f05d86b77d0649c3d08e471196936198b88f",
+      "target": "Chỉ có tròng mắt đảo liên hồi là thỉnh thoảng lóe lên những tia sáng vừa kinh hoàng hoảng hốt vừa hung tàn bạo ngược đan xen, biểu thị nó vẫn là sinh vật sống.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0045:align_0020",
+      "chapter_id": "chapter_0045",
+      "segment_ids": [
+        "chapter_0045:seg_0020"
+      ],
+      "source": "几名白大褂在控制台前紧张地忙碌着，片刻之后，一名白大褂抬起头，朗声道：“诸位同学请看！”",
+      "source_hash": "2475b89be388258829728d48e6a3b50e12583e258f531ba57de253b92cbd22a4",
+      "target": "Vài người mặc blouse trắng đang bận rộn thao tác trước bảng điều khiển. Một lát sau, một người trong số họ ngẩng đầu lên, lớn giọng nói: “Mời các bạn học sinh nhìn xem!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0045:align_0021",
+      "chapter_id": "chapter_0045",
+      "segment_ids": [
+        "chapter_0045:seg_0021"
+      ],
+      "source": "玻璃器皿中，瞬间闪过成千上万道炫目的刀光剑影，所有人都被激出泪水，不少人还不由自主地倒退了一小步。",
+      "source_hash": "8c1a80d59bd65c72b9d04eb885305cc959716004aae7d8d8b756931b1d91dea5",
+      "target": "Trong tủ kính thủy tinh lập tức lóe lên hàng chục ngàn đạo đao quang kiếm ảnh chói mắt, kích thích đến mức mắt ai nấy đều chảy nước mắt, không ít người còn không tự chủ được mà lùi lại một bước ngắn.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0045:align_0022",
+      "chapter_id": "chapter_0045",
+      "segment_ids": [
+        "chapter_0045:seg_0022"
+      ],
+      "source": "等大家重新将视线凝结到玻璃器皿中，却发现虎形妖兽眼中的凶芒已经冻结了。",
+      "source_hash": "87df4d720081ecf781b84f2785ead96ef5265c11b754787e81caea15f700453f",
+      "target": "Đến khi mọi người định thần nhìn lại vào bên trong tủ kính thủy tinh thì phát hiện luồng hung quang trong mắt con yêu thú dạng hổ đã hoàn toàn ngưng đọng.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0045:align_0023",
+      "chapter_id": "chapter_0045",
+      "segment_ids": [
+        "chapter_0045:seg_0023"
+      ],
+      "source": "“唰唰唰唰刷！”",
+      "source_hash": "e800f26946dd3874b2d383f86ff3c6adb9a5c7088cb8747a1bccc9a4a8def36d",
+      "target": "“Xoẹt xoẹt xoẹt xoẹt xoẹt!”",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0045:align_0024",
+      "chapter_id": "chapter_0045",
+      "segment_ids": [
+        "chapter_0045:seg_0024"
+      ],
+      "source": "虎形妖兽身上，从头到尾，出现了几十道，上百道，上千道细长的红线，竟然被无形剑气分割成了几千片！",
+      "source_hash": "1644bdb7dd9fbae93ee00c6431eb873d93316c012ce3235cd2e5589c18439945",
+      "target": "Trên mình con yêu thú dạng hổ, từ đầu tới đuôi xuất hiện mấy chục, mấy trăm, thậm chí hàng ngàn đường chỉ đỏ mảnh dài, vậy mà đã bị kiếm khí vô hình cắt thành mấy ngàn lát mỏng!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0045:align_0025",
+      "chapter_id": "chapter_0045",
+      "segment_ids": [
+        "chapter_0045:seg_0025"
+      ],
+      "source": "一名白大褂淡淡道：",
+      "source_hash": "96887e44287077b803d670c7d80f95431facb3d3283471e7cf6dc8e7f1320b2e",
+      "target": "Một người mặc áo blouse trắng bình thản nói:",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0045:align_0026",
+      "chapter_id": "chapter_0045",
+      "segment_ids": [
+        "chapter_0045:seg_0026"
+      ],
+      "source": "“这就是我们天都医学院正在进行的‘妖兽切片研究计划’，我们将一头妖兽切割成大约0.01毫米厚的薄片，然后用神念扫描每一片断层，就可以清楚了解到妖兽的身体构造，随后将信息输入晶脑，就可以创造出一头头完全仿真的虚拟妖兽。”",
+      "source_hash": "ee3e5fa0e4cc14635ab1051da865d98caea6128cf826af9908ffb0d67b6d29b1",
+      "target": "“Đây chính là 'Kế hoạch nghiên cứu cắt lát yêu thú' mà Học viện Y khoa Thiên Đô chúng tôi đang tiến hành. Chúng tôi cắt một con yêu thú thành những lát mỏng có độ dày khoảng 0.01 milimét, sau đó dùng thần niệm quét qua từng lớp cắt lát để hiểu rõ được cấu trúc cơ thể của yêu thú. Kế tiếp, truyền thông tin vào Tinh não là có thể mô phỏng hoàn toàn ra những con yêu thú ảo chân thực.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0045:align_0027",
+      "chapter_id": "chapter_0045",
+      "segment_ids": [
+        "chapter_0045:seg_0027"
+      ],
+      "source": "“通过这种方法，我们对妖兽的习性和战斗力都了若指掌，还可以在太虚幻境中随心所欲地进行各种实验，而不必担心被妖兽杀伤。”",
+      "source_hash": "9acf8726bb0540cced915cf50975a9f985fcc9c9ffd766995ba23af206930b63",
+      "target": "“Thông qua phương pháp này, chúng tôi nắm rõ tập tính và lực chiến đấu của yêu thú như lòng bàn tay, còn có thể tùy tâm sở dục tiến hành đủ loại thí nghiệm trong Thái Hư Huyễn Cảnh mà không cần lo lắng bị yêu thú làm bị thương.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0045:align_0028",
+      "chapter_id": "chapter_0045",
+      "segment_ids": [
+        "chapter_0045:seg_0028"
+      ],
+      "source": "“目前，我们已经将九十八个大类，一千三百五十二种妖兽切片研究，诸位同学有兴趣的话，可以报考我们天都医学院——我们的天职不单是救死扶伤，更是斩妖除魔！”",
+      "source_hash": "d923135869dd5e34a701d8c36563d9ba34102b89e65ce2eb1257404a41f21023",
+      "target": "“Hiện tại, chúng tôi đã tiến hành cắt lát nghiên cứu chín mươi tám chủng loại lớn với một ngàn ba trăm năm mươi hai loài yêu thú. Nếu các bạn học sinh có hứng thú thì có thể đăng ký thi vào Học viện Y khoa Thiên Đô của chúng tôi —— thiên chức của chúng tôi không chỉ là cứu người giúp đời, mà còn là trảm yêu trừ ma!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0045:align_0029",
+      "chapter_id": "chapter_0045",
+      "segment_ids": [
+        "chapter_0045:seg_0029"
+      ],
+      "source": "郑东明冲李耀挤眉弄眼：“这个怎么样？不过我要先提醒你，天都医学院的分数线很高，差不多是九大精英联校第一，连我都未必有把握考上。”",
+      "source_hash": "0a387a13aa48393324de1f1cf4ad9eee6f89127402d1309ce78f64e712496bc9",
+      "target": "Trịnh Đông Minh nháy mắt ra hiệu với Lý Diệu: “Cái này thế nào? Nhưng tớ phải nhắc nhở cậu trước, điểm chuẩn của Học viện Y khoa Thiên Đô cực kỳ cao, gần như đứng vị trí số một trong Chín đại học tinh anh liên kết, ngay cả tớ cũng chưa chắc đã nắm chắc thi đỗ đâu.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0045:align_0030",
+      "chapter_id": "chapter_0045",
+      "segment_ids": [
+        "chapter_0045:seg_0030"
+      ],
+      "source": "李耀挠了挠头发，有些犹豫。",
+      "source_hash": "39002bfbc1a7951de5653c3ad31372f36669b1472d85e01f047f1b9d6f662303",
+      "target": "Lý Diệu gãi gãi đầu, có chút do dự.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0045:align_0031",
+      "chapter_id": "chapter_0045",
+      "segment_ids": [
+        "chapter_0045:seg_0031"
+      ],
+      "source": "这么多所大学，都有各自惊世骇俗的奇功绝艺，可是和他想象中的大学，似乎还是差了那么一小口气。",
+      "source_hash": "2d5144753e31cd9094c7363cb5e4d43ee6b6fe35faaa9e8ab7200ad16b5cb857",
+      "target": "Nhiều trường đại học như vậy đều có kỳ công tuyệt nghệ kinh thế hãi tục của riêng mình, thế nhưng so với ngôi trường đại học trong tưởng tượng của cậu thì dường như vẫn còn thiếu một chút hương vị gì đó.",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0045:align_0032",
+      "chapter_id": "chapter_0045",
+      "segment_ids": [
+        "chapter_0045:seg_0032"
+      ],
+      "source": "“咱们联邦，有没有偏重法宝制造的大学？我说的不是‘灵子对撞机’这样的法宝，而是军用飞梭、飞剑、晶磁炮，晶铠之类的战斗法宝。”",
+      "source_hash": "47ac07440b6eaf33700b1ac0640e31a3cd7813f7198b6f50863684be2a01d8c0",
+      "target": "“Liên bang chúng ta có trường đại học nào thiên về chế tạo pháp bảo không? Ý tớ không phải loại pháp bảo như 'máy đối chàng linh tử', mà là pháp bảo chiến đấu như phi toa quân dụng, phi kiếm, tinh từ pháo, tinh khải các loại ấy.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0045:align_0033",
+      "chapter_id": "chapter_0045",
+      "segment_ids": [
+        "chapter_0045:seg_0033"
+      ],
+      "source": "“当然有，前面的深海大学拥有联邦最强的炼器专业，号称‘炼器师的圣地’！”郑东明指了指不远处。",
+      "source_hash": "5dea2b1408b9b56871342082647b86edc1f3740106155db1edc70e9e7305dfb1",
+      "target": "“Đương nhiên là có rồi, Đại học Thâm Hải ở phía trước sở hữu chuyên ngành luyện khí mạnh nhất Liên bang, được mệnh danh là 'Thánh địa của luyện khí sư'!” Trịnh Đông Minh chỉ chỉ hướng cách đó không xa.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0045:align_0034",
+      "chapter_id": "chapter_0045",
+      "segment_ids": [
+        "chapter_0045:seg_0034"
+      ],
+      "source": "“炼器师的圣地！”",
+      "source_hash": "0ba2df5e7233d875c23dac703dc3170eb18e9eb7310d235bd54ea6ce4520fc60",
+      "target": "“Thánh địa của luyện khí sư!”",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0045:align_0035",
+      "chapter_id": "chapter_0045",
+      "segment_ids": [
+        "chapter_0045:seg_0035"
+      ],
+      "source": "李耀眼底的火苗“腾”一下燃烧起来，化作万千狂舞的火蛇。",
+      "source_hash": "abef1c51e4c4da37f9092a2b9cea47e85989a30637fbc3084e6b8df36a345be7",
+      "target": "Ngọn lửa dưới đáy mắt Lý Diệu bùng một tiếng bốc cháy dữ dội, hóa thành hàng vạn con hỏa xà đang cuồng vũ.",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0045:align_0036",
+      "chapter_id": "chapter_0045",
+      "segment_ids": [
+        "chapter_0045:seg_0036"
+      ],
+      "source": "深海大学的展台前同样是人头攒动，看来大部分学生对这一类偏重实务的学校都非常热衷，李耀好不容易才挤了进去。",
+      "source_hash": "790d798f71cafbd644eb638b5886234aefac02c45388fdd2be8012b2f015f81c",
+      "target": "Trước quầy triển lãm của Đại học Thâm Hải cũng đông nghịt người, xem ra đa số học sinh đều vô cùng say mê loại trường thiên về thực hành này. Lý Diệu vất vả lắm mới chen chân vào được.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0045:align_0037",
+      "chapter_id": "chapter_0045",
+      "segment_ids": [
+        "chapter_0045:seg_0037"
+      ],
+      "source": "展台中央，却是一座巨大的城市模型，有山有水，有高楼大厦，天空中甚至还有飞梭车不时掠过，麻雀虽小，五脏俱全，制作得惟妙惟肖。",
+      "source_hash": "d0fad165ae9799ed66fcc7f47489a78420a4619880d40b533a54d6cab2c0772d",
+      "target": "Chính giữa quầy triển lãm là một mô hình thành phố khổng lồ, có núi có sông, có các tòa nhà cao tầng, trên bầu trời thậm chí thỉnh thoảng còn có phi toa lướt qua, tuy nhỏ nhưng ngũ tạng câu toàn, chế tác sống động như thật.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0045:align_0038",
+      "chapter_id": "chapter_0045",
+      "segment_ids": [
+        "chapter_0045:seg_0038"
+      ],
+      "source": "就在这时，从展台另一端，忽然急速飞来了十几头金属打造的微型妖兽，夹杂着刺耳的尖啸声，冲向这座微型城市。",
+      "source_hash": "e35b5ec7c8563c01c354783efb53875ec838cd2f7c0ebe3317a5d61c7d793712",
+      "target": "Đúng lúc này, từ một đầu khác của quầy triển lãm đột nhiên có mười mấy con yêu thú thu nhỏ làm bằng kim loại bay nhanh tới, kèm theo tiếng rít chói tai lao thẳng về phía thành phố thu nhỏ này.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0045:align_0039",
+      "chapter_id": "chapter_0045",
+      "segment_ids": [
+        "chapter_0045:seg_0039"
+      ],
+      "source": "几乎同一时间，从城市的四面八方，骤然升起了上百颗六角菱形的金属球，飞速旋转，在半空中组成一张弥天大网，死死纠缠住了来袭的飞行妖兽。",
+      "source_hash": "aea2e5f0096aca6bc977eee384b173740a03eb10d0eea8e4fe6fbd878c941f21",
+      "target": "Hầu như cùng một lúc, từ bốn phương tám hướng của thành phố đột nhiên bay lên hàng trăm quả cầu kim loại hình lăng trụ sáu cạnh, xoay tròn với tốc độ cực nhanh, dệt thành một tấm lưới lớn rợp trời giữa không trung, quấn chặt lấy những con yêu thú bay đang lao tới.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0045:align_0040",
+      "chapter_id": "chapter_0045",
+      "segment_ids": [
+        "chapter_0045:seg_0040"
+      ],
+      "source": "经过一阵“叮叮当当”的搏杀，所有飞行妖兽都被六角菱形金属球拦截，被一股莫名的力量牢牢吸附在金属球上。",
+      "source_hash": "59ab0a8bd786e3b4f821907f2f6a89c27c97832152103e26a79fc5e440cb3e1a",
+      "target": "Sau một hồi chiến đấu chém giết vang lên tiếng \"đinh đinh đang đang\", toàn bộ yêu thú bay đều bị quả cầu kim loại hình lăng trụ sáu cạnh chặn lại, bị một luồng lực lượng huyền bí hút chặt vào quả cầu kim loại.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0045:align_0041",
+      "chapter_id": "chapter_0045",
+      "segment_ids": [
+        "chapter_0045:seg_0041"
+      ],
+      "source": "“各位同学。”",
+      "source_hash": "6b3913ca02a49c4dc01fc9aa7ec9c8930bd38f3732777eec74013c71e87ce458",
+      "target": "“Các bạn học sinh.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0045:align_0042",
+      "chapter_id": "chapter_0045",
+      "segment_ids": [
+        "chapter_0045:seg_0042"
+      ],
+      "source": "一名鹤发童颜，精神矍铄的紫衫老者笑眯眯道，“你们刚才看到的模型，就是深海大学炼制的‘反妖兽防御系统’，已经被军方采购，用于联邦各个战略城市，可以抵御多达一千五百头妖兽的同时攻击，连魔道强者的飞剑都可以拦截！有了这种法宝，无论是强大的妖兽还是魔道中人，一旦进入联邦的领空，都只有束手就擒的份！”",
+      "source_hash": "3f697170377bb5d6a553409917a52065a9ffb3d8cafedfe3737ea8aa59640a28",
+      "target": "Một lão giả mặc sam bào màu tím râu tóc bạc phơ nhưng hồng hào khỏe mạnh, thần thái sáng láng, cười híp mắt nói: “Mô hình mà các em vừa nhìn thấy chính là 'Hệ thống phòng ngự chống yêu thú' do Đại học Thâm Hải chế tạo, đã được quân đội thu mua để trang bị cho các thành phố chiến lược của Liên bang, có thể chống đỡ đòn tấn công đồng thời của hơn một ngàn năm trăm con yêu thú, ngay cả phi kiếm của cường giả Ma đạo cũng có thể ngăn chặn! Có món pháp bảo này, bất kể là yêu thú cường đại hay người của Ma đạo, một khi tiến vào không phận của Liên bang đều chỉ có nước thúc thủ chịu trói!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    }
+  ],
+  "term_occurrences": [
+    {
+      "chapter_id": "chapter_0045",
+      "source_term": "晶脑",
+      "target_term": "Tinh não",
+      "segment_id": "chapter_0045:seg_0026",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0045",
+      "source_term": "九大精英联校",
+      "target_term": "Chín đại học tinh anh liên kết",
+      "segment_id": "chapter_0045:seg_0029",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0045",
+      "source_term": "筑基期",
+      "target_term": "Trúc Cơ Kỳ",
+      "segment_id": "chapter_0045:seg_0005",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "level",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0045",
+      "source_term": "太虚幻境",
+      "target_term": "Thái Hư Huyễn Cảnh",
+      "segment_id": "chapter_0045:seg_0027",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0045",
+      "source_term": "郑东明",
+      "target_term": "Trịnh Đông Minh",
+      "segment_id": "chapter_0045:seg_0006",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0045",
+      "source_term": "炼器师",
+      "target_term": "luyện khí sư",
+      "segment_id": "chapter_0045:seg_0033",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "job",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0045",
+      "source_term": "星云大学",
+      "target_term": "Đại học Tinh Vân",
+      "segment_id": "chapter_0045:seg_0013",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0045",
+      "source_term": "钟伯牙",
+      "target_term": "Chung Bá Nha",
+      "segment_id": "chapter_0045:seg_0002",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0045",
+      "source_term": "赵天戈",
+      "target_term": "Triệu Thiên Qua",
+      "segment_id": "chapter_0045:seg_0002",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0045",
+      "source_term": "灵子对撞机",
+      "target_term": "máy đối chàng linh tử",
+      "segment_id": "chapter_0045:seg_0003",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0045",
+      "source_term": "灵子",
+      "target_term": "linh tử",
+      "segment_id": "chapter_0045:seg_0003",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    }
+  ],
+  "entity_mentions": [
+    {
+      "chapter_id": "chapter_0045",
+      "source_surface": "李耀",
+      "target_surface": "Lý Diệu",
+      "entity_type": "person",
+      "segment_id": "chapter_0045:seg_0004",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0045",
+      "source_surface": "老者",
+      "target_surface": "Lão giả",
+      "entity_type": "person",
+      "segment_id": "chapter_0045:seg_0042",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0045",
+      "source_surface": "郑东明",
+      "target_surface": "Trịnh Đông Minh",
+      "entity_type": "person",
+      "segment_id": "chapter_0045:seg_0006",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0045",
+      "source_surface": "钟伯牙",
+      "target_surface": "Chung Bá Nha",
+      "entity_type": "person",
+      "segment_id": "chapter_0045:seg_0002",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0045",
+      "source_surface": "赵天戈",
+      "target_surface": "Triệu Thiên Qua",
+      "entity_type": "person",
+      "segment_id": "chapter_0045:seg_0002",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0045",
+      "source_surface": "魔道",
+      "target_surface": "Ma đạo",
+      "entity_type": "factions",
+      "segment_id": "chapter_0045:seg_0042",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0045",
+      "source_surface": "星云大学",
+      "target_surface": "Đại học Tinh Vân",
+      "entity_type": "factions",
+      "segment_id": "chapter_0045:seg_0013",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0045",
+      "source_surface": "灵子对撞机",
+      "target_surface": "máy đối chàng linh tử",
+      "entity_type": "items",
+      "segment_id": "chapter_0045:seg_0003",
+      "confidence": 1.0
+    }
+  ],
+  "name_analysis": {
+    "status": "ok",
+    "evidence_count": 5,
+    "name_mentions": [
+      {
+        "chapter_id": "chapter_0045",
+        "name_source": "李耀",
+        "name_target": "Lý Diệu",
+        "segment_id": "chapter_0045:seg_0004",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0045",
+        "name_source": "老者",
+        "name_target": "Lão giả",
+        "segment_id": "chapter_0045:seg_0042",
+        "present_in_target": false,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0045",
+        "name_source": "郑东明",
+        "name_target": "Trịnh Đông Minh",
+        "segment_id": "chapter_0045:seg_0006",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0045",
+        "name_source": "钟伯牙",
+        "name_target": "Chung Bá Nha",
+        "segment_id": "chapter_0045:seg_0002",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0045",
+        "name_source": "赵天戈",
+        "name_target": "Triệu Thiên Qua",
+        "segment_id": "chapter_0045:seg_0002",
+        "present_in_target": true,
+        "confidence": 1.0
+      }
+    ],
+    "name_entries": [
+      {
+        "name_source": "李耀",
+        "name_target": "Lý Diệu"
+      },
+      {
+        "name_source": "老者",
+        "name_target": "Lão giả"
+      },
+      {
+        "name_source": "郑东明",
+        "name_target": "Trịnh Đông Minh"
+      },
+      {
+        "name_source": "钟伯牙",
+        "name_target": "Chung Bá Nha"
+      },
+      {
+        "name_source": "赵天戈",
+        "name_target": "Triệu Thiên Qua"
+      }
+    ],
+    "transliteration_units": [],
+    "inferred_name_rules": [],
+    "ambiguity_cases": [],
+    "reusable_name_profile": {
+      "mapping_count": 5,
+      "has_ambiguity": false
+    }
+  },
+  "phrase_patterns": [],
+  "grammar_rule_candidates": [],
+  "analyzer_reports": {
+    "term_occurrences": {
+      "status": "ok",
+      "evidence_count": 11
+    },
+    "entity_mentions": {
+      "status": "ok",
+      "evidence_count": 8
+    },
+    "name_mentions": {
+      "status": "ok",
+      "evidence_count": 5
+    },
+    "phrase_patterns": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    },
+    "grammar_rule_candidates": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    }
+  },
+  "review_queue": [
+    {
+      "chapter_id": "chapter_0045",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "可是和他想象中的大学",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "惊世骇俗的奇功绝艺，可是和他想象中的大学，似乎还是差了那么一"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0045",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "天都医学院",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "？当然有，我们去看看天都医学院！”\n\n两人走到下一"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0045",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "我们去看看天都医学院",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "“偏重实务？当然有，我们去看看天都医学院！”\n\n两人走到下一"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0045",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "星云大学比较擅长基础理论方面的学科",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "，摇头道：“看上去，星云大学比较擅长基础理论方面的学科，我从小没有接受过正"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0045",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "有没有偏重法宝制造的大学",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "气。\n\n“咱们联邦，有没有偏重法宝制造的大学？我说的不是‘灵子对"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0045",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "有没有比较偏重实务的大学",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "且兴趣也不在理论上，有没有比较偏重实务的大学？”\n\n“偏重实务？"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0045",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "这么多所大学",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "头发，有些犹豫。\n\n这么多所大学，都有各自惊世骇俗的"
+        ]
+      }
+    }
+  ],
+  "quality_audit": {
+    "segment_coverage": 1.0,
+    "source_hash_match": true,
+    "target_reconstruction_match": true,
+    "invalid_ref_count": 0,
+    "locked_term_hit_rate": 1.0,
+    "missing_locked_terms": [],
+    "cjk_residue_count": 0,
+    "paragraph_drift_ratio": 0.0,
+    "pronoun_consistency_score": 1.0,
+    "warnings": []
+  }
+}

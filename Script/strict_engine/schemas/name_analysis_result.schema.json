@@ -1,0 +1,24 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Name Analysis Result",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "name_mentions",
+    "name_entries",
+    "transliteration_units",
+    "inferred_name_rules",
+    "ambiguity_cases",
+    "reusable_name_profile"
+  ],
+  "properties": {
+    "schema_version": { "type": "string" },
+    "name_mentions": { "type": "array" },
+    "name_entries": { "type": "array" },
+    "transliteration_units": { "type": "array" },
+    "inferred_name_rules": { "type": "array" },
+    "ambiguity_cases": { "type": "array" },
+    "reusable_name_profile": { "type": "object" }
+  },
+  "additionalProperties": false
+}

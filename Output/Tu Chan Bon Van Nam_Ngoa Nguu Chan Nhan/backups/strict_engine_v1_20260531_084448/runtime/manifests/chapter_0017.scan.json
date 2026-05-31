@@ -1,0 +1,117 @@
+{
+  "schema_version": "1.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 17,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan\\0017 - 17.第17章 鬼市大姐.md",
+  "source_char_count": 2413,
+  "characters": [
+    {
+      "source": "连烈",
+      "entity_type": "person",
+      "count": 3,
+      "confidence": 0.7,
+      "evidence": [
+        "\n\n一天前，他面对赫连烈，还像是兔子面对饿狼",
+        "狠踩在脚下！\n\n“赫连烈，昨天你辱骂我是‘垃",
+        "中一鸣惊人！\n\n“赫连烈，你不是说我们这些普"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "source": "正道和魔门",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "000年代并不太平，正道和魔门、人类和妖族、各种势"
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "source": "上东区",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "活”了过来。\n\n和“上东区”相比，他更喜欢在地"
+      ]
+    },
+    {
+      "source": "是第五十九号区域",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "域。\n\n李耀进入的，是第五十九号区域。\n\n这是非常有名的"
+      ]
+    },
+    {
+      "source": "用数字标注区域",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "最初的军事要塞法则，用数字标注区域。\n\n李耀进入的，是"
+      ]
+    },
+    {
+      "source": "联邦的每一座修炼重镇",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "期处于战争状态。\n\n联邦的每一座修炼重镇，在最初建立时都会挖"
+      ]
+    }
+  ],
+  "realms": [],
+  "techniques": [
+    "中的法宝和飞剑",
+    "可是只要经",
+    "地底世界已经",
+    "少年剑",
+    "摊在掌",
+    "来路可疑的食材经",
+    "果不是为了方便在法",
+    "用最初的军事要塞法",
+    "这是经",
+    "这里是游走在法"
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "法宝坟墓",
+      "target": "Nghĩa địa Pháp Bảo"
+    },
+    {
+      "source": "上东区",
+      "target": "khu Thượng Đông"
+    },
+    {
+      "source": "赤霄二中",
+      "target": "Xích Tiêu Nhị Trung"
+    },
+    {
+      "source": "普通班",
+      "target": "lớp thường"
+    },
+    {
+      "source": "妖族",
+      "target": "Yêu tộc"
+    },
+    {
+      "source": "地下鬼市",
+      "target": "chợ quỷ ngầm"
+    },
+    {
+      "source": "山寨强化药剂",
+      "target": "thuốc tăng cường hàng nhái"
+    },
+    {
+      "source": "郑东明",
+      "target": "Trịnh Đông Minh"
+    }
+  ],
+  "generated_at": "2026-05-30T05:35:20.417860+07:00"
+}

@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 5,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan\\0005 - 5.第5章 模拟高考.md",
+  "source_char_count": 2304,
+  "characters": [
+    {
+      "source": "高三生",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.82,
+      "evidence": [
+        " \n\n作为冲刺高考的高三生，该学的课程早就学完",
+        "在太虚幻境里，一名名高三生，都在疯狂地奋斗、拼"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "source": "灵山宗",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "题！\n\n“一位正道‘灵山宗’修真者脚踩飞剑，从"
+      ]
+    },
+    {
+      "source": "身体缩成一团",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "窜出，李耀双腿弹射，身体缩成一团，肩膀一沉，恍若一头"
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "source": "彭海",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "寂。\n\n“就算没有‘彭海’亲自指点，我也要考"
+      ]
+    }
+  ],
+  "realms": [
+    "炼气"
+  ],
+  "techniques": [
+    "之后的症状及治疗步",
+    "他已经",
+    "修真者脚踩飞剑",
+    "可是对李耀这头在法",
+    "更无法",
+    "李耀狠狠攥紧了拳",
+    "用各自宗门基础功法",
+    "的炼制方法",
+    "耀凭借丰富的考试经",
+    "虚幻境中的时间已经",
+    "虚空中传来一阵"
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "法宝坟墓",
+      "target": "Nghĩa địa Pháp Bảo"
+    },
+    {
+      "source": "九大精英联校",
+      "target": "Chín đại học tinh anh liên kết"
+    }
+  ],
+  "generated_at": "2026-05-30T04:55:21.617571+07:00"
+}

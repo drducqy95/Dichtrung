@@ -1,0 +1,115 @@
+{
+  "schema_version": "1.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 7,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan\\0007 - 7.第7章 二中女神.md",
+  "source_char_count": 2483,
+  "characters": [
+    {
+      "source": "司佳雪",
+      "entity_type": "person",
+      "count": 4,
+      "confidence": 0.82,
+      "evidence": [
+        "嫉妒得眼里喷火。\n\n司佳雪，灵根开发度71%；",
+        "，从来见不得别人亲近司佳雪，上次有个转校生初来",
+        "深浅，放出话来要追求司佳雪，结果在‘武技课’上"
+      ]
+    },
+    {
+      "source": "越高",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "\n更何况，灵根开发度越高，人的思维就越敏捷，",
+        "越敏锐，对身体掌控度越高，成绩怎么也不会比他"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "source": "火神派",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "摊，老板的三大爷是‘火神派’的烧火杂役，老板也"
+      ]
+    },
+    {
+      "source": "穿过两处食堂",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "绕着校园兜了大半圈，穿过两处食堂，在校园后面一片小树"
+      ]
+    },
+    {
+      "source": "轻轻关上门",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "层的一间杂物室。\n\n轻轻关上门，就嗅到了一股若有若"
+      ]
+    }
+  ],
+  "locations": [],
+  "realms": [],
+  "techniques": [
+    "可是经",
+    "学校专程请妖刀",
+    "对身体掌",
+    "李耀迈步",
+    "火云掌",
+    "而李耀在法",
+    "自我感觉已经",
+    "贼脑地左右打量一阵",
+    "赤焰大手印"
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "法宝坟墓",
+      "target": "Nghĩa địa Pháp Bảo"
+    },
+    {
+      "source": "浮戈城",
+      "target": "Phù Qua Thành"
+    },
+    {
+      "source": "晶脑",
+      "target": "Tinh não"
+    },
+    {
+      "source": "赤霄二中",
+      "target": "Xích Tiêu Nhị Trung"
+    },
+    {
+      "source": "九大精英联校",
+      "target": "Chín đại học tinh anh liên kết"
+    },
+    {
+      "source": "重点班",
+      "target": "lớp trọng điểm"
+    },
+    {
+      "source": "平行班",
+      "target": "lớp song hành"
+    },
+    {
+      "source": "普通班",
+      "target": "lớp thường"
+    },
+    {
+      "source": "考试舱",
+      "target": "khoang thi cử"
+    },
+    {
+      "source": "太虚幻境",
+      "target": "Thái Hư Huyễn Cảnh"
+    }
+  ],
+  "generated_at": "2026-05-30T04:56:00.790973+07:00"
+}

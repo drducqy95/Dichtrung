@@ -1,0 +1,1301 @@
+{
+  "schema_version": "2.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 57,
+  "chapter_id": "chapter_0057",
+  "source_manifest_hash": "3291d89febda88c881c59f221b27902192fc5ee8a68f0d89d8d1f4eb2c0e71c0",
+  "aligned_segments": [
+    {
+      "alignment_id": "chapter_0057:align_0001",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0001"
+      ],
+      "source": "# 57.第57章 三个选择",
+      "source_hash": "8cdcc564fd0ccbd0c7188525712ed31a1232f928af825808702bf1a3d31f150b",
+      "target": "# Chương 0057 - Ba sự lựa chọn",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0002",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0002"
+      ],
+      "source": "李耀瞪大了眼睛：“委托培养？”",
+      "source_hash": "ebb58f478fe070c2f0a7d4010147086057b34c4c2a0a2597c7658a0ed1ea9a46",
+      "target": "Lý Diệu trợn tròn mắt: “Ủy thác bồi dưỡng?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0003",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0003"
+      ],
+      "source": "赵校长解释了一番，李耀才大致了解——“委托培养”是修炼宗派和大学之间的一种特殊合作形式。",
+      "source_hash": "a18aea378a2990c30bab8c2233b4d7f8ea415def5e6f228657ba0d3ccac8c428",
+      "target": "Hiệu trưởng Triệu giải thích một hồi, Lý Diệu mới đại khái hiểu rõ —— “ủy thác bồi dưỡng” là một hình thức hợp tác đặc biệt giữa tông môn tu luyện và các trường đại học.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0004",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0004"
+      ],
+      "source": "简单来说，如果李耀愿意签署这样一份合同，那么从他高中毕业开始，就属于赤霄派的正式弟子，然后由赤霄派送到大学里代为培养。",
+      "source_hash": "2f6d83cfdb945064146809a4e5d1d62d8de7c71c3b808e9be770cce5152dae18",
+      "target": "Nói một cách đơn giản, nếu Lý Diệu bằng lòng ký kết một bản hợp đồng như vậy, từ thời điểm tốt nghiệp trung học phổ thông trở đi, cậu sẽ thuộc về hàng ngũ đệ tử chính thức của Xích Tiêu Phái, sau đó được Xích Tiêu Phái gửi vào trường đại học để đại bồi dưỡng.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0005",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0005"
+      ],
+      "source": "其间发生的一切学费和日常费用，统统由赤霄派来承担，而等到大学毕业之后，就直接进入赤霄派旗下的企业工作！",
+      "source_hash": "8de5ab130910a818d03adeedd724f998c30b7cc6bb4852549dedeb673dcb2aec",
+      "target": "Trong thời gian đó, toàn bộ học phí và các chi phí sinh hoạt thường ngày đều do Xích Tiêu Phái chi trả. Sau khi tốt nghiệp đại học, cậu sẽ trực tiếp vào làm việc tại các doanh nghiệp trực thuộc Xích Tiêu Phái!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0006",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0006"
+      ],
+      "source": "这种人才培养模式堪称“一条龙”，只要李耀签下合同，就走上了衣食无忧，前程远大的道路！",
+      "source_hash": "d18b4a71700301c9f19caffd5a94d1db6badfe46d3bd4f88f9452f9bfc1c01e8",
+      "target": "Mô hình bồi dưỡng nhân tài này có thể nói là trọn gói “từ A đến Z”, chỉ cần Lý Diệu ký vào bản hợp đồng, cậu sẽ bước lên con đường cơm áo không lo, tiền đồ rộng mở!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0007",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0007"
+      ],
+      "source": "赵树德含笑道：",
+      "source_hash": "66a2615f6fdbcc77cb3fd4f444169c8a9128350ba854c6d1a9e762f55f8bff87",
+      "target": "Triệu Thụ Đức mỉm cười nói:",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0008",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0008"
+      ],
+      "source": "“我们赤霄派，前年刚刚成立了一家叫‘赤霄地产’的新企业，专门在联邦边境开发新城镇，只要建成一座新城镇，利润是几倍甚至几十倍的！”",
+      "source_hash": "53c0ead35a15f942e4f7f3f248d4f03ae1e0bb999b9b13f0aff391521664e42c",
+      "target": "“Xích Tiêu Phái chúng tôi vào năm kia vừa mới thành lập một doanh nghiệp mới mang tên 'Địa ốc Xích Tiêu', chuyên khai thác các thị trấn mới ở vùng biên giới Liên bang. Chỉ cần xây dựng xong một thị trấn mới, lợi nhuận sẽ tăng gấp mấy lần, thậm chí là vài chục lần!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0009",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0009"
+      ],
+      "source": "“可是边境地区妖兽横行，并不安全，而且地处荒凉，后勤补给不畅！”",
+      "source_hash": "34e686870ae80eeaeddc232365ad30d873989b10a1160fec2a82729babc55779",
+      "target": "“Thế nhưng vùng biên cương yêu thú hoành hành, không hề an toàn, hơn nữa địa thế hoang vu hẻo lánh, tiếp tế hậu cần khó khăn!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0010",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0010"
+      ],
+      "source": "“所以就需要拥有强大战力，又懂得法宝制造和维修的复合型人才，应对建设期间的安全问题。”",
+      "source_hash": "d059341f164383842c2002c3a36e77a32afdad748636dea4982ccead237c83cb",
+      "target": "“Vì vậy mới cần những nhân tài phức hợp vừa có chiến lực mạnh mẽ, lại vừa am hiểu chế tạo và sửa chữa pháp bảo để ứng phó với vấn đề an ninh trong thời gian xây dựng.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0011",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0011"
+      ],
+      "source": "“如果你签下合同，等大学毕业，就是赤霄地产的高级员工，用不了几年，你就是第二个‘彭海’！”",
+      "source_hash": "8ab6a60b4fa7a87c0c760763785c493b79fe3f35eb5d6b2cd72223a423fc61bf",
+      "target": "“Nếu cậu ký hợp đồng, sau khi tốt nghiệp đại học sẽ trở thành nhân viên cao cấp của Địa ốc Xích Tiêu, không tới vài năm, cậu sẽ trở thành 'Bành Hải' thứ hai!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0012",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0012"
+      ],
+      "source": "第二个妖刀彭海！",
+      "source_hash": "71f29ec4a24ce3a41dd0f19fe5eae22511e9504c05e53ba50f28cc2e48671898",
+      "target": "Yêu Đao Bành Hải thứ hai!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0013",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0013"
+      ],
+      "source": "李耀心潮澎湃，神采飞扬，思绪仿佛飘到了九霄云外。",
+      "source_hash": "cbdad16f4e18268de5ab7e9ac285dc9381c5ce552989fe1712d81303ed0ad73c",
+      "target": "Lý Diệu tâm triều dâng trào cuồn cuộn, thần thái rạng rỡ, suy nghĩ như bay tận chín tầng mây.",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0014",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0014"
+      ],
+      "source": "赵树德微微一笑，继续道：",
+      "source_hash": "af137b1847b0dcdc0893b33738075c784de0d92cda98adedd622805fc81aa3cc",
+      "target": "Triệu Thụ Đức mỉm cười nhẹ, nói tiếp:",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0015",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0015"
+      ],
+      "source": "“你很幸运啊，李耀同学，你知不知道，连赤霄派的周长老都十分看重你，正是在他的安排下，才能给你这份‘委托培养’合同。”",
+      "source_hash": "9d47bafe1af7385fda376018f5dcc02fb4ab1c95499b2c00b3dcc54646d0d7c7",
+      "target": "“Cậu rất may mắn đấy, thí sinh Lý Diệu. Cậu có biết không, ngay cả Chu trưởng lão của Xích Tiêu Phái cũng vô cùng coi trọng cậu, chính nhờ sự sắp xếp của ông ấy nên mới có bản hợp đồng 'ủy thác bồi dưỡng' này dành cho cậu.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0016",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0016"
+      ],
+      "source": "“他是真正的大人物，如果你进入赤霄派，就是周长老一系的人马，将来绝对前途无量！”",
+      "source_hash": "8c05734992176745a612bf88171518cb010a003a588b9f0039efbe4f9de457a9",
+      "target": "“Ông ấy là một đại nhân vật thực sự. Nếu cậu gia nhập Xích Tiêu Phái thì sẽ là người thuộc phe cánh của Chu trưởng lão, tương lai tuyệt đối tiền đồ vô lượng!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0017",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0017"
+      ],
+      "source": "“不过，你也不用急着答应，你的表现已经引起了好几所大学的注意，待会儿应该还有人会找你，你不妨多比较一下，免得到时候怪我没给你选择的机会，哈哈哈哈！”",
+      "source_hash": "0712fc0ec356a568b0b54f080c2f8eb0aa164ad091bfa614357835d6e66f64c6",
+      "target": "“Tuy nhiên, cậu cũng không cần vội vàng đồng ý ngay đâu. Biểu hiện của cậu đã thu hút sự chú ý của vài trường đại học rồi, lát nữa chắc là sẽ có người khác tìm cậu, cậu cứ so sánh kỹ lưỡng một chút, tránh để sau này lại trách tôi không cho cậu cơ hội lựa chọn, ha ha ha ha!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0018",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0018"
+      ],
+      "source": "不等李耀回答，赵树德挥了挥手，道，“总之，你在决赛中好好表现，我和周长老都看着你呢，若是有什么条件，也不妨提出来，赤霄派是不会亏待任何一个人才的！”",
+      "source_hash": "fbd365f64d760538cca72fb7bc58c2ae148a5779f7cfc9197322c7916f839d70",
+      "target": "Không đợi Lý Diệu trả lời, Triệu Thụ Đức phẩy phẩy tay, bảo: “Tóm lại, cậu hãy thể hiện thật tốt ở vòng chung kết đi, tôi và Chu trưởng lão đều đang dõi theo cậu đấy. Nếu có điều kiện gì thì cứ việc đề xuất, Xích Tiêu Phái sẽ không bạc đãi bất kỳ một nhân tài nào đâu!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0019",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0019"
+      ],
+      "source": "说着，画面一晃，赵树德的半透明人影化作一道白光，一闪而逝。",
+      "source_hash": "41eedbae229d1259df7ca55605263832b68d0cbe7428ede84e5bf7e9a05958db",
+      "target": "Nói xong, màn hình chao nghiêng một cái, hình ảnh nổi bán trong suốt của Triệu Thụ Đức hóa thành một luồng bạch quang, vụt tắt biến mất.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0020",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0020"
+      ],
+      "source": "李耀这才长长喘了一口粗气。",
+      "source_hash": "e979836173307249b1dc9575365cdc986f6161f1c690b1ecdd4b9c03464ea403",
+      "target": "Đến lúc này Lý Diệu mới thở phào ra một hơi dài.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0021",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0021"
+      ],
+      "source": "好家伙，没想到自己竟然吸引了赤霄派大人物的注意，有机会一步登天！",
+      "source_hash": "238073a0c18b104cf52c5efe7d81df83c2ddedbff6aa5ed6d166bbc779d9091e",
+      "target": "Tốt thật nha, không ngờ bản thân thế mà lại thu hút sự chú ý của đại nhân vật bên Xích Tiêu Phái, có cơ hội một bước lên trời!",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0022",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0022"
+      ],
+      "source": "究竟要不要答应呢？",
+      "source_hash": "7c6c63f3ccb462ccc1c6a34395ea04df5d511cb1c91719a77a5b06068a574360",
+      "target": "Rốt cuộc có nên đồng ý hay không đây?",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0023",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0023"
+      ],
+      "source": "他还在犹豫，小吉的触手再一次轻轻晃动起来，浮现出第二道虚影，而这一抹虚影更是令李耀心跳加速。",
+      "source_hash": "1df6e2045559f80fedc0b691affef03e5a5da32189ec853d31bc848b48044b47",
+      "target": "Cậu còn đang do dự thì sợi xúc tu của Tiểu Cát lại nhẹ nhàng dao động một lần nữa, hiện ra hình ảnh nổi thứ hai, mà ảnh ảo này càng khiến cho nhịp tim của Lý Diệu đập nhanh hơn.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0024",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0024"
+      ],
+      "source": "“谢教授！”",
+      "source_hash": "1baa5c62249223f927dfc813711ef689e27b09ccdd855950a5800be7ae99c640",
+      "target": "“Giáo sư Tạ!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0025",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0025"
+      ],
+      "source": "李耀对虚影中的紫衫老者毕恭毕敬地鞠了个躬——对方正是深海大学的炼器专家谢听弦！",
+      "source_hash": "46a0b4e6fb6144a07d56ae4fabe444bd1b060b2605888d3b5fbfd5172352c06a",
+      "target": "Lý Diệu cung kính cúi người chào vị lão giả mặc áo tím trong ảnh ảo —— đối phương chính là chuyên gia luyện khí của Đại học Thâm Hải, Tạ Thính Huyền!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0026",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0026"
+      ],
+      "source": "谢听弦微笑道：",
+      "source_hash": "90f9fe2033274aa8049ce0e2d84b94cb024e2454fd095e4a524c3f10726c7a04",
+      "target": "Tạ Thính Huyền mỉm cười nói:",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0027",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0027"
+      ],
+      "source": "“李耀同学，恭喜你啊，在今年的比赛中，你的积分排名或许不算最高，但却是最吸引眼球的一个，我也不说废话了，我已经把你的比赛视频发送到了深海大学招生处，我对招生处的要求是，只要你在决赛中杀进前五十名，我就要一个特招名额！进入前一百名，我要‘降二十分录取’的优惠！进入前二百名，我也要‘降十分录取’！怎么样，还算有诚意吧？”",
+      "source_hash": "81c309b90d7b306f479b693bce29c4a16f6d5a409d4fa842c5b886fd7f07503e",
+      "target": "“Thí sinh Lý Diệu, chúc mừng cậu nhé. Trong giải đấu năm nay, thứ hạng điểm tích lũy của cậu có thể không phải cao nhất nhưng lại là người thu hút sự chú ý nhất. Tôi cũng không nói lời vô ích nữa, tôi đã gửi video thi đấu của cậu tới phòng tuyển sinh Đại học Thâm Hải rồi. Yêu cầu của tôi đối với phòng tuyển sinh là, chỉ cần cậu lọt vào top 50 ở vòng chung kết, tôi sẽ xin cho cậu một suất tuyển thẳng! Nếu lọt vào top 100, tôi sẽ xin ưu đãi hạ 20 điểm chuẩn xét tuyển! Lọt vào top 200, tôi cũng xin hạ 10 điểm chuẩn xét tuyển! Thế nào, như vậy đã đủ thành ý chưa?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0028",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0028"
+      ],
+      "source": "“实在太谢谢您了，谢教授，我一定努力，杀进前五十名！”李耀大声道。",
+      "source_hash": "31aa76ad984e35adf13bf7ef2f909230b8fe016479c9dfb6c76a24225a7e6c17",
+      "target": "“Thực sự vô cùng cảm ơn giáo sư, Giáo sư Tạ, em nhất định sẽ cố gắng hết sức để lọt vào top năm mươi!” Lý Diệu lớn giọng nói.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0029",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0029"
+      ],
+      "source": "“好，现在是关键时刻，我不打扰你休息了，你也尽量保持平静的心态，争取发挥出最佳状态！”谢听弦对他点了点头，微笑着消失在光幕中。",
+      "source_hash": "1d30c19350422c4ccc9e6255214d888d35c5da154333b982541cd237861f06a4",
+      "target": "“Được rồi, bây giờ đang là thời khắc then chốt, tôi không làm phiền cậu nghỉ ngơi nữa. Cậu hãy cố gắng giữ vững tâm thái bình tĩnh, tranh thủ phát huy ra trạng thái tốt nhất nhé!” Tạ Thính Huyền gật đầu với cậu, mỉm cười rồi biến mất trong màn sáng.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0030",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0030"
+      ],
+      "source": "就在谢听弦消失的一刹那，另外一道虚影，仿佛是迫不及待一般，蛮不讲理地冲撞过来，硬生生挤入了李耀的视线。",
+      "source_hash": "2c56e3b94eb56c6091152846fead5ab08ffd9c5ae403b703524b0fb7fc1f03e5",
+      "target": "Ngay tích tắc Tạ Thính Huyền vừa biến mất, một ảnh ảo khác dường như đã không thể chờ đợi thêm được nữa, hùng hổ xông tới, chen ngang vào tầm mắt của Lý Diệu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0031",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0031"
+      ],
+      "source": "“丁……丁铃铛？”李耀一愣，是那头女暴龙。",
+      "source_hash": "0adf6ee88eda0fc2353778cec9456be8f5a4fa210f7f1191759695deb1fa3dc9",
+      "target": "“Đinh... Đinh Linh Đang?” Lý Diệu ngẩn ra, chính là con khủng long bạo chúa cái kia.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0032",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0032"
+      ],
+      "source": "丁铃铛用十分灼热的眼神上上下下打量了他一番，正色道：",
+      "source_hash": "4c754e7b57d4b318b22d5df2387753c9cfc0d6394a6da1fa0b19f328b609cdc7",
+      "target": "Đinh Linh Đang dùng ánh mắt vô cùng nóng bỏng nhìn cậu chằm chằm từ trên xuống dưới một lượt, nghiêm mặt nói:",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0033",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0033"
+      ],
+      "source": "“李耀同学，你似乎对大荒战院有所误解——不错，我们学校的‘武斗系’是全联邦最强的！”",
+      "source_hash": "36611042749d494c54cf1688682559335f797f7ec39f45436501176615e94431",
+      "target": "“Thí sinh Lý Diệu, cậu dường như có chút hiểu lầm đối với Đại Hoang Chiến Viện —— đúng vậy, hệ Võ Đấu của trường chúng tôi là mạnh nhất toàn Liên bang!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0034",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0034"
+      ],
+      "source": "“可是在武斗系中，也不是只有赤手空拳的‘炼体者’，同样有擅长兵刃和近战法宝的‘剑修’，你来自赤霄二中，想必也知道贵校有一位‘彭海’前辈，他高中毕业之后就进入了我们大荒战院，专修各种近战法宝的运用，后来还博得了‘妖刀’的称号！你不愿意成为炼体者，没关系，可以来我们大荒战院的武斗系，当一名‘剑修’也是很好的！”",
+      "source_hash": "771b30720b6e80b754bb11133f24f5e531f6dede647ed15a2819fe5393832f4e",
+      "target": "“Thế nhưng trong hệ Võ Đấu cũng không phải chỉ có những luyện thể giả tay không tấc sắt, mà tương tự cũng có những 'kiếm tu' giỏi dùng binh khí cận chiến và pháp bảo cận chiến. Cậu đến từ Xích Tiêu Nhị Trung, chắc hẳn cũng biết trường cậu có tiền bối 'Bành Hải', sau khi tốt nghiệp trung học phổ thông anh ấy đã đỗ vào Đại Hoang Chiến Viện của chúng tôi, chuyên tu luyện cách vận dụng các loại pháp bảo cận chiến, về sau còn đoạt được danh hiệu 'Yêu Đao'! Cậu không muốn làm luyện thể giả cũng không sao, có thể tới hệ Võ Đấu của Đại Hoang Chiến Viện chúng tôi, làm một kiếm tu cũng rất tốt!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0035",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0035"
+      ],
+      "source": "“彭海”二字，令李耀愣了一下，眼中涌动着火焰。",
+      "source_hash": "13d3d6bff83a0100264dcb47d472f61ec6dedbc5fcb4511d103f9dcbc37ff491",
+      "target": "Hai chữ “Bành Hải” khiến Lý Diệu ngẩn ra một chút, trong mắt bùng lên ngọn lửa cháy bỏng.",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0036",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0036"
+      ],
+      "source": "丁铃铛见他没有当场拒绝，双眼更加有神，道：",
+      "source_hash": "5caffbd5205d3c5a7cec612a29a56d5b0e1a67fb3d32a7de681e08b4f9696beb",
+      "target": "Đinh Linh Đang thấy cậu không từ chối ngay tại chỗ, đôi mắt càng thêm sáng ngời, nói tiếp:",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0037",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0037"
+      ],
+      "source": "“长话短说，我觉得你是一个天生的战斗型修真者，非常适合我们大荒战院武斗系，只要你能够在决赛中杀入前三百名，我就可以给你一个特招名额，而且学费全免，还有大笔奖学金！怎么样，考虑一下吧，李耀同学！”",
+      "source_hash": "66203ee826e7e1652121e42bbae71c1b4519737db28293bbca869ea84537cb3c",
+      "target": "“Nói ngắn gọn thế này, tôi cảm thấy cậu là một tu chân giả thiên sinh chiến đấu, vô cùng thích hợp với hệ Võ Đấu của Đại Hoang Chiến Viện chúng tôi. Chỉ cần cậu có thể lọt vào top ba trăm ở vòng chung kết, tôi có thể dành cho cậu một suất tuyển thẳng, lại còn miễn toàn bộ học phí và có thêm một khoản học bổng kếch xù! Thế nào, suy nghĩ một chút đi, thí sinh Lý Diệu!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0038",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0038"
+      ],
+      "source": "……",
+      "source_hash": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+      "target": "……",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0039",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0039"
+      ],
+      "source": "直到丁铃铛的虚影消失在空气中，李耀依旧头晕目眩，心潮起伏，久久无法平静。",
+      "source_hash": "47712c8f3419f4fc7c1eee8ba4e13af7b9118691bc95779f6ef3a2a202af37a1",
+      "target": "Cho đến khi ảnh ảo của Đinh Linh Đang hoàn toàn biến mất vào không khí, Lý Diệu vẫn cảm thấy đầu óc choáng váng, tâm thần lay động, hồi lâu không cách nào bình tĩnh lại.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0040",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0040"
+      ],
+      "source": "他的眼前，仿佛出现三条金光大道，笔直延伸，一路通向修真界的无上巅峰！",
+      "source_hash": "c885efd7bc3f457d730275643d8fb0e24d3d809f8da80f13ba30b99e2932d7de",
+      "target": "Trước mắt cậu giống như xuất hiện ba con đường lớn dát vàng sáng lấp lánh, kéo dài thẳng tắp, dẫn thẳng tới đỉnh cao vô thượng của giới tu chân!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0041",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0041"
+      ],
+      "source": "究竟该选择哪一所学校呢？",
+      "source_hash": "502ad28ad42322f1efea179ff1c2b2a873f18d9c6bba660e55dc3d510631166b",
+      "target": "Rốt cuộc nên lựa chọn ngôi trường nào đây?",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0042",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0042"
+      ],
+      "source": "李耀盘膝坐下，冷静思索着三个选择的利弊。",
+      "source_hash": "85915f0d15c30dc9d69730c06e035e69d75b5ae045a0b065afacf3f994de2026",
+      "target": "Lý Diệu ngồi xếp bằng xuống, bình tĩnh suy tính lợi hại của cả ba sự lựa chọn.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0043",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0043"
+      ],
+      "source": "三个选择当中，来自丁铃铛的邀请显然最有诚意。",
+      "source_hash": "5b2f8cbecdcfb3f051cc07697362d60b06a640d08dbff8b16890e2fa82a82052",
+      "target": "Trong ba lựa chọn, lời mời từ Đinh Linh Đang rõ ràng là có thành ý nhất.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0044",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0044"
+      ],
+      "source": "以李耀的实力，只要正常发挥，在决赛中杀进前三百名应该不算太难，而且妖刀彭海就毕业于大荒战院的武斗系，显然，这个专业并不是只培养炼体者，也擅长培养‘剑修’，和自己的特长相符。",
+      "source_hash": "40075cc36bffc94a802e6521bcaeaeaba5ff256ea7457751a5f3d145d74ba803",
+      "target": "Với thực lực của Lý Diệu, chỉ cần phát huy bình thường thì việc lọt vào top ba trăm ở vòng chung kết không phải quá khó khăn. Hơn nữa Yêu Đao Bành Hải cũng tốt nghiệp hệ Võ Đấu của Đại Hoang Chiến Viện, rõ ràng chuyên ngành này không phải chỉ bồi dưỡng mỗi luyện thể giả, mà cũng rất giỏi đào tạo kiếm tu, hoàn toàn phù hợp với sở trường của cậu.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0045",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0045"
+      ],
+      "source": "不过仔细思索之后，李耀还是首先排除了大荒战院。",
+      "source_hash": "d6bb0ea43cc2146ccc4f1542b5dae22af5ef0cdff1f53566d6a00270ae015615",
+      "target": "Nhưng sau khi suy nghĩ kỹ lưỡng, Lý Diệu vẫn loại bỏ Đại Hoang Chiến Viện đầu tiên.",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0046",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0046"
+      ],
+      "source": "他答应过死去的老爹，一定会成为一名炼器师，单纯的战斗型修真者，和他的理想有所偏差。",
+      "source_hash": "9fce1a1997622464333c5a2c6fc416e6a8ce9de224c419243fb7188ddba56899",
+      "target": "Cậu đã từng hứa với Lão cha quá cố rằng nhất định sẽ trở thành một luyện khí sư. Một tu chân giả thuần túy thiên về chiến đấu có chút sai lệch so với lý tưởng của cậu.",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0047",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0047"
+      ],
+      "source": "而赵校长给出的条件，就比较符合他的志向。",
+      "source_hash": "cff8ed0fa82f33dfe856127c391d6b9dfde56900c4cd4833b34cf599a0a19df3",
+      "target": "Còn điều kiện mà Hiệu trưởng Triệu đưa ra thì khá phù hợp với chí hướng của cậu.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0048",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0048"
+      ],
+      "source": "星云大学的炼器系，虽然排名不如深海大学，但能炼制出“灵子对撞机”这样的至宝，显然也有自己的独到之处。",
+      "source_hash": "662fe68b342b063feb268051da62984645a0b7be2b5b3762baff60e095527407",
+      "target": "Khoa Luyện khí của Đại học Tinh Vân tuy rằng xếp hạng không bằng Đại học Thâm Hải, nhưng có thể luyện chế ra chí bảo kiểu như máy đối chàng linh tử thì hiển nhiên cũng có những điểm độc đáo riêng.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0049",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0049"
+      ],
+      "source": "这方面很符合李耀的胃口，而且一切费用都由赤霄派承担，毕业之后直接进入赤霄派旗下的大企业工作，若干年之后，他也能过上香车美女，豪华别墅的生活，简直是一步登天。",
+      "source_hash": "3f4404546102923f2eeadfdcfc3345dede42a10dfe5c34badb2847b02fbcd88f",
+      "target": "Khía cạnh này rất hợp khẩu vị của Lý Diệu, lại thêm toàn bộ chi phí đều do Xích Tiêu Phái chịu trách nhiệm, sau khi tốt nghiệp trực tiếp vào làm việc tại doanh nghiệp lớn trực thuộc Xích Tiêu Phái. Vài năm sau cậu cũng có thể sống cuộc sống xe sang mỹ nữ, biệt thự xa hoa, quả thực là một bước lên trời.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0050",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0050"
+      ],
+      "source": "不过凡事有得必有失，拿人手短，吃人嘴软，一旦和赤霄派签署了合同，就是赤霄派的正式弟子，要修炼什么课程，都由赤霄派说了算，以后的发展道路，也被局限住了，无法由着自己性子来。",
+      "source_hash": "89fb7a4f97ed6c70b38873613415acce8b2bd6f27340f01fb132052bf68568ad",
+      "target": "Nhưng chuyện gì cũng có hai mặt của nó, há miệng mắc quai, nhận tiền của người ta thì phải nghe người ta. Một khi đã ký hợp đồng với Xích Tiêu Phái thì cậu chính là đệ tử chính thức của họ, muốn tu luyện môn học nào đều do Xích Tiêu Phái quyết định, con đường phát triển sau này cũng bị giới hạn lại, không thể tự do hành động theo sở thích được nữa.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0051",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0051"
+      ],
+      "source": "赤霄派既然出了钱，肯定会把他培养成只适合某个工作岗位的专一型修真者，等于是一台大型法宝上的一个构件，一颗螺丝钉，永远被绑在赤霄派的战车之上。",
+      "source_hash": "d8b05450033b87ecf944ff0480f28b65e74194877d50cd591573fa796759d251",
+      "target": "Xích Tiêu Phái một khi đã bỏ tiền ra, chắc chắn sẽ bồi dưỡng cậu thành một tu chân giả chuyên biệt chỉ thích hợp cho một vị trí công tác cụ thể nào đó, tương đương với một linh kiện, một con ốc vít trên một bộ pháp bảo khổng lồ, vĩnh viễn bị trói chặt trên cỗ xe chiến đấu của Xích Tiêu Phái.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0052",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0052"
+      ],
+      "source": "这一点，又是李耀无法忍受的。",
+      "source_hash": "eb6bb29efbd3cfebf7ea143fc8c29bd338694fe3b7a9e395055e95a4366917fe",
+      "target": "Điểm này lại là điều Lý Diệu không cách nào chấp nhận nổi.",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0053",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0053"
+      ],
+      "source": "思来想去，李耀还是坚定初衷，他要在决赛中全力以赴，杀进前五十名，取得深海大学的特招资格！",
+      "source_hash": "f6950023d52678039e156f63dfd6183ede749dfd7c4b254210bbb80c10841dda",
+      "target": "Cân nhắc kỹ lưỡng, Lý Diệu vẫn kiên định với ước nguyện ban đầu. Cậu muốn dốc toàn lực ở vòng chung kết để lọt vào top 50, giành lấy tư cách tuyển thẳng của Đại học Thâm Hải!",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0054",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0054"
+      ],
+      "source": "即便无法杀进前五十名，至少也要得到十几二十分的优惠，为高考争取有利条件。",
+      "source_hash": "ff4a10af8909668a16b155442885f90163836feeda01ac8145ae3c0cc766d82b",
+      "target": "Dù cho không thể lọt vào top 50 thì ít nhất cũng phải có được ưu đãi hạ mười mấy hai mươi điểm chuẩn, tranh thủ điều kiện có lợi cho kỳ thi đại học.",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0055",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0055"
+      ],
+      "source": "深海大学，是他唯一的选择！",
+      "source_hash": "504065f5cdfae65bc0761003709ae5f0f16901ae03ddc8b306770991fbef9331",
+      "target": "Đại học Thâm Hải chính là sự lựa chọn duy nhất của cậu!",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0056",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0056"
+      ],
+      "source": "“决赛快开始吧，我都有些迫不及待了！”",
+      "source_hash": "6957e12b8bfa8d06a09c219ebad98bc82ba65668b248e2ad0dad269cc8112c39",
+      "target": "“Vòng chung kết mau bắt đầu đi thôi, tôi có chút nôn nóng không chờ nổi nữa rồi!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0057",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0057"
+      ],
+      "source": "看着昏黄的云层中，影影绰绰如同巨鸟的辽远号，李耀舔了舔嘴唇，冲着天空用力挥了一下拳头。",
+      "source_hash": "ea7b5409f3b493ee74ca531e39b448f211c582e27a45280baffc485f36f2d2c6",
+      "target": "Nhìn con tàu Liêu Viễn Hào ẩn hiện như một con chim khổng lồ trong tầng mây vàng úa, Lý Diệu liếm liếm môi, hướng về phía bầu trời vung mạnh nắm đấm.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0057:align_0058",
+      "chapter_id": "chapter_0057",
+      "segment_ids": [
+        "chapter_0057:seg_0058"
+      ],
+      "source": "“等会儿，就让你们见识一下，一名炼器师无耻起来，究竟有多么可怕！”",
+      "source_hash": "c8feacd3d89d4130e78519500966ca2fa02875e152a9caa41a4c11ae7f9b83c5",
+      "target": "“Lát nữa đây, tôi sẽ cho các người chứng kiến xem một luyện khí sư khi vô sỉ lên thì sẽ đáng sợ đến mức nào!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    }
+  ],
+  "term_occurrences": [
+    {
+      "chapter_id": "chapter_0057",
+      "source_term": "老爹",
+      "target_term": "Lão cha",
+      "segment_id": "chapter_0057:seg_0046",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0057",
+      "source_term": "赤霄二中",
+      "target_term": "Xích Tiêu Nhị Trung",
+      "segment_id": "chapter_0057:seg_0034",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0057",
+      "source_term": "大荒战院",
+      "target_term": "Đại Hoang Chiến Viện",
+      "segment_id": "chapter_0057:seg_0033",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0057",
+      "source_term": "彭海",
+      "target_term": "Bành Hải",
+      "segment_id": "chapter_0057:seg_0011",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0057",
+      "source_term": "妖刀",
+      "target_term": "Yêu Đao",
+      "segment_id": "chapter_0057:seg_0012",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0057",
+      "source_term": "炼体者",
+      "target_term": "luyện thể giả",
+      "segment_id": "chapter_0057:seg_0034",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0057",
+      "source_term": "炼器师",
+      "target_term": "luyện khí sư",
+      "segment_id": "chapter_0057:seg_0046",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "job",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0057",
+      "source_term": "辽远号",
+      "target_term": "Liêu Viễn Hào",
+      "segment_id": "chapter_0057:seg_0057",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0057",
+      "source_term": "星云大学",
+      "target_term": "Đại học Tinh Vân",
+      "segment_id": "chapter_0057:seg_0048",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0057",
+      "source_term": "灵子对撞机",
+      "target_term": "máy đối chàng linh tử",
+      "segment_id": "chapter_0057:seg_0048",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0057",
+      "source_term": "灵子",
+      "target_term": "linh tử",
+      "segment_id": "chapter_0057:seg_0048",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0057",
+      "source_term": "深海大学",
+      "target_term": "Đại học Thâm Hải",
+      "segment_id": "chapter_0057:seg_0025",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0057",
+      "source_term": "谢听弦",
+      "target_term": "Tạ Thính Huyền",
+      "segment_id": "chapter_0057:seg_0025",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0057",
+      "source_term": "武斗系",
+      "target_term": "hệ Võ Đấu",
+      "segment_id": "chapter_0057:seg_0033",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0057",
+      "source_term": "丁铃铛",
+      "target_term": "Đinh Linh Đang",
+      "segment_id": "chapter_0057:seg_0031",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "character",
+      "confidence": 1.0
+    }
+  ],
+  "entity_mentions": [
+    {
+      "chapter_id": "chapter_0057",
+      "source_surface": "李耀",
+      "target_surface": "Lý Diệu",
+      "entity_type": "person",
+      "segment_id": "chapter_0057:seg_0002",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0057",
+      "source_surface": "老爹",
+      "target_surface": "Lão cha",
+      "entity_type": "person",
+      "segment_id": "chapter_0057:seg_0046",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0057",
+      "source_surface": "彭海",
+      "target_surface": "Bành Hải",
+      "entity_type": "person",
+      "segment_id": "chapter_0057:seg_0011",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0057",
+      "source_surface": "赵树德",
+      "target_surface": "Triệu Thụ Đức",
+      "entity_type": "person",
+      "segment_id": "chapter_0057:seg_0007",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0057",
+      "source_surface": "老者",
+      "target_surface": "Lão giả",
+      "entity_type": "person",
+      "segment_id": "chapter_0057:seg_0025",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0057",
+      "source_surface": "谢听弦",
+      "target_surface": "Tạ Thính Huyền",
+      "entity_type": "person",
+      "segment_id": "chapter_0057:seg_0025",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0057",
+      "source_surface": "丁铃铛",
+      "target_surface": "Đinh Linh Đang",
+      "entity_type": "person",
+      "segment_id": "chapter_0057:seg_0031",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0057",
+      "source_surface": "赤霄派",
+      "target_surface": "Xích Tiêu Phái",
+      "entity_type": "factions",
+      "segment_id": "chapter_0057:seg_0004",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0057",
+      "source_surface": "星云大学",
+      "target_surface": "Đại học Tinh Vân",
+      "entity_type": "factions",
+      "segment_id": "chapter_0057:seg_0048",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0057",
+      "source_surface": "深海大学",
+      "target_surface": "Đại học Thâm Hải",
+      "entity_type": "factions",
+      "segment_id": "chapter_0057:seg_0025",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0057",
+      "source_surface": "大荒战院",
+      "target_surface": "Đại Hoang Chiến Viện",
+      "entity_type": "factions",
+      "segment_id": "chapter_0057:seg_0033",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0057",
+      "source_surface": "辽远号",
+      "target_surface": "Liêu Viễn Hào",
+      "entity_type": "items",
+      "segment_id": "chapter_0057:seg_0057",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0057",
+      "source_surface": "灵子对撞机",
+      "target_surface": "máy đối chàng linh tử",
+      "entity_type": "items",
+      "segment_id": "chapter_0057:seg_0048",
+      "confidence": 1.0
+    }
+  ],
+  "name_analysis": {
+    "status": "ok",
+    "evidence_count": 7,
+    "name_mentions": [
+      {
+        "chapter_id": "chapter_0057",
+        "name_source": "李耀",
+        "name_target": "Lý Diệu",
+        "segment_id": "chapter_0057:seg_0002",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0057",
+        "name_source": "老爹",
+        "name_target": "Lão cha",
+        "segment_id": "chapter_0057:seg_0046",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0057",
+        "name_source": "彭海",
+        "name_target": "Bành Hải",
+        "segment_id": "chapter_0057:seg_0011",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0057",
+        "name_source": "赵树德",
+        "name_target": "Triệu Thụ Đức",
+        "segment_id": "chapter_0057:seg_0007",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0057",
+        "name_source": "老者",
+        "name_target": "Lão giả",
+        "segment_id": "chapter_0057:seg_0025",
+        "present_in_target": false,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0057",
+        "name_source": "谢听弦",
+        "name_target": "Tạ Thính Huyền",
+        "segment_id": "chapter_0057:seg_0025",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0057",
+        "name_source": "丁铃铛",
+        "name_target": "Đinh Linh Đang",
+        "segment_id": "chapter_0057:seg_0031",
+        "present_in_target": true,
+        "confidence": 1.0
+      }
+    ],
+    "name_entries": [
+      {
+        "name_source": "李耀",
+        "name_target": "Lý Diệu"
+      },
+      {
+        "name_source": "老爹",
+        "name_target": "Lão cha"
+      },
+      {
+        "name_source": "彭海",
+        "name_target": "Bành Hải"
+      },
+      {
+        "name_source": "赵树德",
+        "name_target": "Triệu Thụ Đức"
+      },
+      {
+        "name_source": "老者",
+        "name_target": "Lão giả"
+      },
+      {
+        "name_source": "谢听弦",
+        "name_target": "Tạ Thính Huyền"
+      },
+      {
+        "name_source": "丁铃铛",
+        "name_target": "Đinh Linh Đang"
+      }
+    ],
+    "transliteration_units": [],
+    "inferred_name_rules": [],
+    "ambiguity_cases": [],
+    "reusable_name_profile": {
+      "mapping_count": 7,
+      "has_ambiguity": false
+    }
+  },
+  "phrase_patterns": [],
+  "grammar_rule_candidates": [],
+  "analyzer_reports": {
+    "term_occurrences": {
+      "status": "ok",
+      "evidence_count": 15
+    },
+    "entity_mentions": {
+      "status": "ok",
+      "evidence_count": 13
+    },
+    "name_mentions": {
+      "status": "ok",
+      "evidence_count": 7
+    },
+    "phrase_patterns": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    },
+    "grammar_rule_candidates": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    }
+  },
+  "review_queue": [
+    {
+      "chapter_id": "chapter_0057",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "武斗系",
+        "entity_type": "person",
+        "count": 3,
+        "confidence": 0.82,
+        "evidence": [
+          "可以来我们大荒战院的武斗系，当一名‘剑修’也是",
+          "非常适合我们大荒战院武斗系，只要你能够在决赛中",
+          "海就毕业于大荒战院的武斗系，显然，这个专业并不"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0057",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "安全",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "境地区妖兽横行，并不安全，而且地处荒凉，后勤",
+          "人才，应对建设期间的安全问题。”\n\n“如果你"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0057",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "步登天",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.82,
+        "evidence": [
+          "人物的注意，有机会一步登天！\n\n究竟要不要答应",
+          "别墅的生活，简直是一步登天。\n\n不过凡事有得必"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0057",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "谢教授",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.82,
+        "evidence": [
+          "李耀心跳加速。\n\n“谢教授！”\n\n李耀对虚影中",
+          "\n“实在太谢谢您了，谢教授，我一定努力，杀进前"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0057",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "免得到时候怪我没给你选择的机会",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "，你不妨多比较一下，免得到时候怪我没给你选择的机会，哈哈哈哈！”\n\n不"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0057",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "如果你进入赤霄派",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "“他是真正的大人物，如果你进入赤霄派，就是周长老一系的人"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0057",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "我们赤霄派",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "赵树德含笑道：\n\n“我们赤霄派，前年刚刚成立了一家"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0057",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "深海大学",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "鞠了个躬——对方正是深海大学的炼器专家谢听弦！\n"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0057",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "虽然排名不如深海大学",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "\n星云大学的炼器系，虽然排名不如深海大学，但能炼制出“灵子对"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0057",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "彭海",
+        "entity_type": "location",
+        "count": 3,
+        "confidence": 0.78,
+        "evidence": [
+          "几年，你就是第二个‘彭海’！”\n\n第二个妖刀"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0057",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "一路通向修真界的无上巅峰",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "金光大道，笔直延伸，一路通向修真界的无上巅峰！\n\n究竟该选择哪一"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0057",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "专门在联邦边境开发新城镇",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "赤霄地产’的新企业，专门在联邦边境开发新城镇，只要建成一座新城镇"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0057",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "只要建成一座新城镇",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "联邦边境开发新城镇，只要建成一座新城镇，利润是几倍甚至几十"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0057",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "第二个妖刀彭海",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "二个‘彭海’！”\n\n第二个妖刀彭海！\n\n李耀心潮澎湃，"
+        ]
+      }
+    }
+  ],
+  "quality_audit": {
+    "segment_coverage": 1.0,
+    "source_hash_match": true,
+    "target_reconstruction_match": true,
+    "invalid_ref_count": 0,
+    "locked_term_hit_rate": 1.0,
+    "missing_locked_terms": [],
+    "cjk_residue_count": 0,
+    "paragraph_drift_ratio": 0.0,
+    "pronoun_consistency_score": 1.0,
+    "warnings": []
+  }
+}

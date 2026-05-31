@@ -1,107 +1,127 @@
 #!/usr/bin/env python3
-"""
-Synchronizes reviewed items from a project branch back to the Global State.
-This handles cross-project knowledge sharing while enforcing strict boundaries
-between experimental (candidates) and verified (reviewed) knowledge.
-"""
+"""Sync reviewed branch analysis to Global State without schema drift."""
+from __future__ import annotations
 
+import argparse
 import json
-import logging
 from pathlib import Path
+from typing import Any
+
 from utils import io
 
-logger = io.get_logger("sync_analysis_global")
+LOGGER = io.get_logger("sync_analysis_global")
 
-def sync_analysis_to_global(branch_name: str) -> dict:
-    """
-    Sync policy:
-    ✅ Sync: rules status=reviewed, terms auto-locked
-    ❌ Block: candidates, ambiguity_cases, single-chapter patterns
-    """
+
+def _read_jsonl(path: Path) -> list[dict[str, Any]]:
+    if not path.exists():
+        return []
+    return [
+        json.loads(line)
+        for line in path.read_text(encoding="utf-8").splitlines()
+        if line.strip()
+    ]
+
+
+def _write_jsonl(path: Path, rows: list[dict[str, Any]]) -> None:
+    io.write_text_atomic(
+        path,
+        "".join(json.dumps(row, ensure_ascii=False) + "\n" for row in rows),
+    )
+
+
+def sync_analysis_to_global(branch_name: str) -> dict[str, Any]:
     branch_dir = io.resolve_branch_dir(branch_name)
     analysis_dir = branch_dir / "analysis"
-    
     global_dir = io.GLOBAL_STATE_DIR
     io.ensure_dir(global_dir)
-    
-    global_rules_file = global_dir / "global_grammar_rules.jsonl"
-    global_glossary_file = global_dir / "global_glossary.json"
-    
-    report = {"synced_rules": 0, "synced_terms": 0}
-    
-    # 1. Sync Rules
-    reviewed_rules_file = analysis_dir / "reviewed_rules.jsonl"
-    if reviewed_rules_file.exists():
-        with reviewed_rules_file.open("r", encoding="utf-8") as f:
-            branch_rules = [json.loads(line) for line in f if line.strip()]
-            
-        if branch_rules:
-            with io.file_lock(global_rules_file.with_suffix(".lock")):
-                existing_rules = {}
-                if global_rules_file.exists():
-                    with global_rules_file.open("r", encoding="utf-8") as gf:
-                        for line in gf:
-                            if not line.strip(): continue
-                            try:
-                                r = json.loads(line)
-                                if "alias" in r:
-                                    existing_rules[r["alias"]] = r
-                            except Exception:
-                                pass
-                
-                new_or_updated = []
-                for rule in branch_rules:
-                    alias = rule.get("alias")
-                    if not alias: continue
-                    # Update if new or if score is higher
-                    existing_score = existing_rules[alias].get("score", 0) if alias in existing_rules else -1
-                    if rule.get("score", 0) > existing_score:
-                        existing_rules[alias] = rule
-                        new_or_updated.append(rule)
-                
-                if new_or_updated:
-                    with global_rules_file.open("a", encoding="utf-8") as gf:
-                        for rule in new_or_updated:
-                            gf.write(json.dumps(rule, ensure_ascii=False) + "\n")
-                    report["synced_rules"] = len(new_or_updated)
-                    logger.info(f"Synced {len(new_or_updated)} new/updated rules to global state.")
-            
-    # 2. Sync Terms to Global Glossary
-    reviewed_terms_file = analysis_dir / "reviewed_terms.jsonl"
-    if reviewed_terms_file.exists():
-        with reviewed_terms_file.open("r", encoding="utf-8") as f:
-            branch_terms = [json.loads(line) for line in f if line.strip()]
-            
-        if branch_terms:
-            with io.file_lock(global_glossary_file.with_suffix(".lock")):
-                global_glossary = io.load_json(global_glossary_file, default={"entries": []})
-                
-                # Deduplicate by source
-                existing_sources = {e["source"] for e in global_glossary.get("entries", [])}
-                new_entries = []
-                for t in branch_terms:
-                    if t["source"] not in existing_sources:
-                        new_entries.append({
-                            "source": t["source"],
-                            "target": t["target"],
-                            "branch_origin": branch_name,
-                            "type": "auto_locked"
-                        })
-                        existing_sources.add(t["source"])
-                        
-                if new_entries:
-                    global_glossary["entries"].extend(new_entries)
-                    io.save_json_atomic(global_glossary_file, global_glossary)
-                    report["synced_terms"] = len(new_entries)
-                    logger.info(f"Synced {len(new_entries)} new terms to global glossary.")
-                    
+    report = {"synced_terms": 0, "synced_rules": 0, "synced_names": 0, "conflicts": []}
+
+    glossary_path = global_dir / "global_glossary.json"
+    with io.file_lock(glossary_path.with_suffix(".lock")):
+        glossary = io.load_json(glossary_path, default={"entries": []}) or {"entries": []}
+        entries = glossary.setdefault("entries", [])
+        by_source: dict[str, list[dict[str, Any]]] = {}
+        for item in entries:
+            by_source.setdefault(str(item.get("source_term") or ""), []).append(item)
+        for reviewed in _read_jsonl(analysis_dir / "reviewed_terms.jsonl"):
+            source = reviewed["source"]
+            target = reviewed["target"]
+            matches = by_source.get(source, [])
+            if any(item.get("target_term") != target and item.get("locked") is True for item in matches):
+                report["conflicts"].append({"kind": "global_term_conflict", "source": source, "target": target})
+                continue
+            exact = next((item for item in matches if item.get("target_term") == target), None)
+            if exact:
+                if exact.get("locked") is not True:
+                    exact["locked"] = True
+                    exact["status"] = "auto-locked"
+                    report["synced_terms"] += 1
+            else:
+                entry = {
+                    "source_term": source,
+                    "target_term": target,
+                    "category": "reviewed",
+                    "locked": True,
+                    "status": "auto-locked",
+                    "source_project": branch_name,
+                    "reviewed_chapters": reviewed.get("chapters", []),
+                }
+                entries.append(entry)
+                by_source.setdefault(source, []).append(entry)
+                report["synced_terms"] += 1
+        io.save_json_atomic(glossary_path, glossary)
+
+    rules_path = global_dir / "global_grammar_rules.jsonl"
+    rules = {item.get("alias"): item for item in _read_jsonl(rules_path) if item.get("alias")}
+    for item in _read_jsonl(analysis_dir / "reviewed_rules.jsonl"):
+        alias = item["alias"]
+        existing = rules.get(alias)
+        if existing and (
+            existing.get("source_pattern"),
+            existing.get("target_pattern"),
+        ) != (item.get("source_pattern"), item.get("target_pattern")):
+            report["conflicts"].append({"kind": "global_rule_conflict", "alias": alias})
+            continue
+        if existing != item:
+            rules[alias] = item
+            report["synced_rules"] += 1
+    _write_jsonl(rules_path, sorted(rules.values(), key=lambda item: item["alias"]))
+
+    characters_path = global_dir / "global_characters.json"
+    characters_payload = io.load_json(characters_path, default={"characters": []}) or {"characters": []}
+    characters = characters_payload.setdefault("characters", [])
+    by_name = {str(item.get("name_source") or ""): item for item in characters}
+    for item in _read_jsonl(analysis_dir / "reviewed_names.jsonl"):
+        source = item["source"]
+        target = item["target"]
+        existing = by_name.get(source)
+        if existing and existing.get("name_target") not in (None, "", target):
+            report["conflicts"].append({"kind": "global_name_conflict", "source": source, "target": target})
+            continue
+        if not existing:
+            entry = {
+                "name_source": source,
+                "name_target": target,
+                "locked": True,
+                "status": "auto-locked",
+                "source_project": branch_name,
+            }
+            characters.append(entry)
+            by_name[source] = entry
+            report["synced_names"] += 1
+    io.save_json_atomic(characters_path, characters_payload)
+    io.save_json_atomic(analysis_dir / "audit" / "global_sync.json", report)
+    LOGGER.info("Global sync report for %s: %s", branch_name, report)
     return report
 
-if __name__ == "__main__":
-    import argparse
-    parser = argparse.ArgumentParser()
+
+def main() -> int:
+    parser = argparse.ArgumentParser(description="Sync reviewed analysis to Global State")
     parser.add_argument("--branch", required=True)
     args = parser.parse_args()
-    
-    res = sync_analysis_to_global(args.branch)
-    print(json.dumps(res, indent=2))
+    print(json.dumps(sync_analysis_to_global(args.branch), ensure_ascii=False, indent=2))
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

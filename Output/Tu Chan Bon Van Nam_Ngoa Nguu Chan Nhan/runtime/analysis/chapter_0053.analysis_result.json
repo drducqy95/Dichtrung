@@ -1,0 +1,1106 @@
+{
+  "schema_version": "2.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 53,
+  "chapter_id": "chapter_0053",
+  "source_manifest_hash": "a00e71ce4379d2619f2774d790f8d9ce3c63a7e30df47d3ce25c07bf2b100420",
+  "aligned_segments": [
+    {
+      "alignment_id": "chapter_0053:align_0001",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0001"
+      ],
+      "source": "# 53.第53章 秒杀！",
+      "source_hash": "d5a9762727bfc9a2002a326477b63a2e6bdf025a5d4a53c53ae4dae1f45ad78d",
+      "target": "# Chương 0053 - Giết trong nháy mắt!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0002",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0002"
+      ],
+      "source": "一瞬间，李耀的心脏彻底冻结！不过下一秒钟他就反应过来，自己还迷醉在幻藤制造的幻象之中。",
+      "source_hash": "46c1ec61a391e705e8e1b635a5e624ec9d79ee0220e54c0068362d12650885a4",
+      "target": "Trong nháy mắt, trái tim của Lý Diệu hoàn toàn đông cứng! Tuy nhiên ngay giây tiếp theo cậu đã phản ứng lại, bản thân vẫn còn đang chìm đắm trong ảo cảnh do Ảo Đằng tạo ra.",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0003",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0003"
+      ],
+      "source": "狠狠一咬舌尖，在剧痛刺激下瞬间清醒，只觉一道劲风扑面而来！",
+      "source_hash": "3864ddc43c256eb60e564a1a4a8f89fb368e2d529bda050a4939c02a130f1848",
+      "target": "Cậu cắn mạnh vào đầu lưỡi, dưới sự kích thích của cơn đau dữ dội lập tức tỉnh táo lại, chỉ cảm thấy một luồng gió mạnh trực diện lao tới!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0004",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0004"
+      ],
+      "source": "李耀来不及躲闪，反手一拳，不知道轰中了什么东西，对面发出一声尖叫，他也被一股怪力推出五六米，撞在一蓬灌木丛中。",
+      "source_hash": "cb078dfaa1503958ed92b18a7a3f7e1a8517691361f11e2d2b468e2f9d37294f",
+      "target": "Lý Diệu không kịp né tránh, vung tay tung một cú đấm ngược ra sau, không biết đã đánh trúng thứ gì, đối phương phát ra một tiếng hét chói tai, cậu cũng bị một luồng quái lực đẩy lùi năm sáu mét, va sầm vào một bụi cây rậm rạp.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0005",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0005"
+      ],
+      "source": "晃了晃脑袋，定睛一看，欧冶子的幻象消失不见，在他对面的大树上倒挂着一只通体发绿，双臂奇长的巨大猿猴。",
+      "source_hash": "0388ca95080be6b4d6602a96ab355cc22270c22ad11644ac37010a6b6e50895e",
+      "target": "Lắc lắc đầu nhìn kỹ lại, ảo ảnh Âu Dã Tử đã biến mất không thấy tăm hơi, trên thân cây lớn đối diện cậu có một con vượn khổng lồ toàn thân màu xanh lá cây, hai cánh tay dài kỳ lạ đang treo ngược người.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0006",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0006"
+      ],
+      "source": "这头猿猴的额头还长着一只畸形怪眼，眼底昏黄一片，闪烁着妖异的光芒。",
+      "source_hash": "dde09ba60cd88c2875c02b239bafde0adb8fa39b1d848e13a9b10578d16635d1",
+      "target": "On trán con vượn này còn mọc một con mắt quái dị dị hình, nhãn cầu một màu vàng úa, lóe lên những tia sáng yêu dị.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0007",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0007"
+      ],
+      "source": "“三目猿！”",
+      "source_hash": "90386ef9a53d7421122ffa9f85185bcda6043f92d0607546307bf9250f91a49f",
+      "target": "“Vượn Ba Mắt!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0008",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0008"
+      ],
+      "source": "李耀在脑中飞快搜索，很快找到这种妖兽的信息。",
+      "source_hash": "281c24b2ae9b656fb79cfa95f639e9392f9033bd9b0c86801315d7a207728575",
+      "target": "Lý Diệu nhanh chóng tìm kiếm trong trí óc, rất nhanh đã tìm được thông tin về loại yêu thú này.",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0009",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0009"
+      ],
+      "source": "三目猿在低阶妖兽中算是比较难缠的一种，除了身形灵活，擅长在丛林中猎杀之外，额头上的第三只眼，还能释放特殊的精神攻击，令猎物头痛欲裂，幻象丛生。",
+      "source_hash": "0f1fab6016e96d3ef78f72dd4b1d046faa1a201d36d1d3a45f1434498af67dad",
+      "target": "Vượn Ba Mắt được coi là một loại khá khó nhằn trong đám yêu thú cấp thấp. Ngoại trừ thân thủ linh hoạt, am hiểu săn mồi trong rừng rậm, con mắt thứ ba trên trán của nó còn có thể phóng ra đòn tấn công tinh thần đặc thù, khiến con mồi đau đầu như búa bổ, ảo giác liên tục hiện ra.",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0010",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0010"
+      ],
+      "source": "不过今天，它显然选错了对手，李耀的实力或许算不上出类拔萃，但脑域经过欧冶子的淬炼，神魂无比坚固，寻常的精神攻击对他根本不起作用。",
+      "source_hash": "7b96e72deb0be4c04d55d05b890f99d3e22284e09c552dfdacb7adf8e32f285c",
+      "target": "Thế nhưng hôm nay, nó rõ ràng đã chọn sai đối thủ. Thực thực của Lý Diệu có lẽ chưa được coi là kiệt xuất, nhưng não vực sau khi được Âu Dã Tử tôi luyện thì thần hồn vô cùng kiên cố, đòn tấn công tinh thần tầm thường căn bản không thể gây ảnh hưởng đến cậu.",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0011",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0011"
+      ],
+      "source": "是以，他才能这么快就从幻象中清醒过来。",
+      "source_hash": "552767b5db84ef86602924def53bc70e460785b10700b2e6ea0a943dfe19f970",
+      "target": "Nhờ vậy, cậu mới có thể nhanh chóng tỉnh táo lại từ trong ảo cảnh như thế.",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0012",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0012"
+      ],
+      "source": "“嘶！”",
+      "source_hash": "ef407c24bf4be6042186da158532c86f268ad83ac3ac9e87673f8912f74a173d",
+      "target": "“Xì...!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0013",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0013"
+      ],
+      "source": "三目猿发出一声刺耳嘶鸣，额头的第三只眼忽然睁大，色泽也在瞬间变得明亮，就像是烧红的铁块，而李耀的脑域深处也传来一阵刺痛。",
+      "source_hash": "0f12caa91a8f243d2e25dd8190e6882d434bc8d75228e82bb6326cac38956726",
+      "target": "Con Vượn Ba Mắt rít lên một tiếng chói tai, con mắt thứ ba trên trán đột ngột mở to, màu sắc cũng trong nháy mắt trở nên sáng rực giống như một khối sắt nung đỏ, mà nơi sâu thẳm trong não bộ của Lý Diệu cũng truyền đến một cơn nhức nhối.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0014",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0014"
+      ],
+      "source": "李耀知道这就是三目猿的精神攻击，故意发出一声惨叫，浑身“不受控制”地颤栗起来。",
+      "source_hash": "2a7e20ceea9295e7724a71d2363cd51e76e0cb6448d11ec74ae739c553cc0e15",
+      "target": "Lý Diệu biết đây chính là đòn tấn công tinh thần của Vượn Ba Mắt, liền cố ý hét thảm một tiếng, toàn thân run rẩy “như mất đi kiểm soát”.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0015",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0015"
+      ],
+      "source": "三目猿发出“吱吱”叫声，显然以为诡计得逞，在枝桠上晃了一圈，借着震荡之力，直冲李耀扑来，双臂一张，门户洞开。",
+      "source_hash": "698dd1eee3c6b94dbc50063a2113cea13f21c59c62a99b3604bbe2d5f4172941",
+      "target": "Con Vượn Ba Mắt phát ra tiếng kêu “kẹc kẹc”, rõ ràng tưởng rằng quỷ kế đã thành công, nó đu một vòng trên cành cây, mượn lực đu đưa lao thẳng về phía Lý Diệu, hai cánh tay dang rộng, để lộ sơ hở lớn trước ngực.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0016",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0016"
+      ],
+      "source": "它却没注意到，李耀的右脚早就深深插入松软的腐殖质，夹住了一根妖兽遗留的骸骨。",
+      "source_hash": "2d3486ba0e2e954aed5ed5ddf842c6c9249654d1083c980861f70952f1a0bbde",
+      "target": "It lại không chú ý tới, chân phải của Lý Diệu đã sớm cắm sâu vào lớp đất mùn tơi xốp, kẹp chặt một khúc xương cốt do yêu thú để lại.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0017",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0017"
+      ],
+      "source": "当它逼近时，李耀右脚闪电踢出，正好将骸骨插入它的第三只眼！",
+      "source_hash": "573310094cd1d0f63e5d018e376b87e7d5450eb1a9b0deca97c2868814c9fe06",
+      "target": "Khi nó lao đến gần, chân phải of Lý Diệu đá ra như chớp giật, găm thẳng khúc xương vào con mắt thứ ba của nó!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0018",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0018"
+      ],
+      "source": "这根骸骨，大约是某种妖兽的小腿骨，坚固无比，一下子整根没入，不但扎穿了三目猿的第三只眼，还直接刺进了它的大脑之中。",
+      "source_hash": "238a63051a989f4bcf0938e77602e999c70666bc159cff7c9ddedf2b715dac0a",
+      "target": "Khúc xương này đại khái là xương cẳng chân của loại yêu thú nào đó, vô cùng cứng cáp, lập tức ngập sâu vào trong, không chỉ đâm thủng con mắt thứ ba của con Vượn Ba Mắt mà còn cắm thẳng vào đại não của nó.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0019",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0019"
+      ],
+      "source": "骸骨中空，一大坨脑浆顿时激射而出！",
+      "source_hash": "a827a79348c3405fa16006488f9ab2dcaf9f4e50e013f604d160a688d6f4e33a",
+      "target": "Khúc xương rỗng ruột, một dòng não tủy lập tức phun vọt ra ngoài!",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0020",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0020"
+      ],
+      "source": "三目猿再强横，大脑受到重创，也只能命丧当场，壮硕的身形猛地一颤，颓然倒下，诡异抽搐一阵，彻底不动了。",
+      "source_hash": "0e17c331bff4235d06c2a27894df537478056a72d5403d3993934be204135b83",
+      "target": "Con Vượn Ba Mắt dù có hung hãn đến đâu, một khi đại não bị trọng thương thì cũng chỉ có thể bỏ mạng tại chỗ. Thân hình vạm vỡ của nó run bắn lên một cái rồi ngã gục xuống, co giật kỳ quái vài giây rồi hoàn toàn bất động.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0021",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0021"
+      ],
+      "source": "同样的杀戮，也在魔蛟岛的四面八方同时展开，一部分意志坚定的修炼天才，纷纷从幻象中清醒过来，施展奇功绝艺，展开血腥的猎杀。",
+      "source_hash": "ef649a1bdf2351b2cbcecf494610c2a264487de16224f1c2d5d22de16b629c4d",
+      "target": "Những cuộc tàn sát tương tự cũng đồng thời diễn ra khắp bốn phương tám hướng trên Đảo Ma Giao. Một bộ phận thiên tài tu luyện có ý chí kiên định đã lần lượt tỉnh táo lại từ trong ảo cảnh, thi triển các loại tuyệt kỹ kỳ công bắt đầu cuộc đi săn đẫm máu.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0022",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0022"
+      ],
+      "source": "也有很大一批少年运气不好，尚未挣脱幻境，就被妖兽盯上。",
+      "source_hash": "10b3f639c2b166c2e7d0b2e68da689becf9ed4f6029107a8b59556bd74a5f2b0",
+      "target": "Cũng có rất nhiều thiếu niên không may mắn, chưa kịp thoát khỏi ảo cảnh đã bị yêu thú nhắm vào.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0023",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0023"
+      ],
+      "source": "在妖兽发出致命攻击的刹那，他们头顶的噗叽兽及时喷出一大坨粉红色的凝胶，好似果冻一般，将少年们牢牢包裹住，任由妖兽怎么攻击都无法损坏凝胶。",
+      "source_hash": "3982ec20f65809bcc36f384d8be9ac867bf621479c2cae2cfa5b576d7afefe07",
+      "target": "Vào khoảnh khắc yêu thú tung ra đòn tấn công chí mạng, con thú Pút Kít trên đầu họ kịp thời phun ra một lượng lớn chất gel bảo vệ màu hồng phấn trông giống như thạch, bọc chặt lấy các thiếu niên. Mặc cho yêu thú có điên cuồng tấn công ra sao cũng không thể làm tổn hại đến lớp gel này.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0024",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0024"
+      ],
+      "source": "与此同时，天空中巡逻的修真者也在飞速赶来，将这些失败的挑战者带出魔蛟岛。",
+      "source_hash": "f24fc3a315836fb7f236476039c155e4d3715c2e1030c96c1faad2fe311283db",
+      "target": "Đồng thời, những tu chân giả tuần tra trên bầu trời cũng nhanh chóng bay tới, đưa những kẻ thách đấu thất bại rời khỏi Đảo Ma Giao.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0025",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0025"
+      ],
+      "source": "每年的极限挑战赛，最初的十分钟最为难熬，有一大部分人都是在幻境中稀里糊涂就被判失败。",
+      "source_hash": "7b23a6d390225bbefbe5e191a543838b8b797f370d04609af307649979b2a5cf",
+      "target": "Trong mỗi kỳ thi Khiêu chiến cực hạn hàng năm, mười phút đầu tiên là khó khăn nhất, phần lớn thí sinh đều bị phán định thất bại một cách mơ hồ ngay trong ảo cảnh.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0026",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0026"
+      ],
+      "source": "今年也是一样，十分钟内，就有七百二十五名挑战者垂头丧气地离开魔蛟岛，回到辽远号上。",
+      "source_hash": "2201962f4e02018e48feddc48bb162beadbd0e7ce0895325c709b4344522ae32",
+      "target": "Năm nay cũng vậy, chỉ trong vòng mười phút đã có bảy trăm hai mươi lăm thí sinh ủ rũ rời khỏi Đảo Ma Giao, quay trở lại Liêu Viễn Hào.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0027",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0027"
+      ],
+      "source": "而在辽远号的监控中心内，来自‘九大’的观察员以及各个高中的老师和军方高层，都汇聚一堂，饶有兴致地盯着一块块不停闪烁的光幕。",
+      "source_hash": "c7bbd2fe00a4ed44a0134da0dc20361aa609fed5d0d3b2e67ddcde43d654b1e2",
+      "target": "Trong khi đó, tại trung tâm giám sát của tàu Liêu Viễn Hào, các quan sát viên đến từ 'Chín đại học' cùng giáo viên các trường trung học và giới chức quân đội cấp cao đều tụ họp đông đủ, chăm chú theo dõi từng màn hình ánh sáng liên tục nhấp nháy một cách đầy hứng khởi.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0028",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0028"
+      ],
+      "source": "旁边还有一张闪闪发亮的大名单，显示出目前排名最高的一百名参赛者。",
+      "source_hash": "5034da83f5e83f76454a1571c713e3898faaacd2868849f617b9752297c1fd4f",
+      "target": "Bên cạnh là một bảng danh sách lớn sáng lấp lánh, hiển thị một trăm thí sinh có thứ hạng cao nhất hiện tại.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0029",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0029"
+      ],
+      "source": "李耀秒杀一头三目猿，获得了不错的积分，居然杀入前一百名，目前排在第九十八名。",
+      "source_hash": "44e2224265ae84522d6db7f7d83e9dfb5172cfb2c8407e81c16b49a860d06dda",
+      "target": "Lý Diệu giết chết một con Vượn Ba Mắt trong nháy mắt, nhận được số điểm tích lũy khá tốt, thế mà lọt vào top một trăm người đứng đầu, hiện đang xếp thứ chín mươi tám.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0030",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0030"
+      ],
+      "source": "“今年的新人素质不错，十分钟内只有七百二十人离场，我记得去年前十分钟就有一千多人失败呢！”一名军方高层笑呵呵地说。",
+      "source_hash": "c0b31a39c81177842d92c9625b62b171f9f08bb5f3e5409fa6ac55151d860512",
+      "target": "“Tố chất tân binh năm nay rất tốt, trong mười phút đầu chỉ có hơn bảy trăm người rời sân đấu. Tôi nhớ năm ngoái mới mười phút đầu đã có hơn một ngàn người thất bại rồi!” Một vị chức sắc quân đội cấp cao cười híp mắt nói.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0031",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0031"
+      ],
+      "source": "“把前一百名的图像放大，我们要重点关注。”一名观察员说道。",
+      "source_hash": "71f108ca19db75b5e37c83be52bf87d389325c5c61fd93c989da3f9038dcd00e",
+      "target": "“Phóng to hình ảnh của top một trăm đi, chúng ta cần tập trung theo dõi kỹ.” Một vị quan sát viên lên tiếng.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0032",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0032"
+      ],
+      "source": "一百道光幕顿时脱颖而出，变得更大，更清晰，更明亮，四周还加上了火焰形状的边框。",
+      "source_hash": "114bf0b86a8d9edf81f7450257cea48012d1235f961ec94cfe7fbcf00246e138",
+      "target": "Một trăm màn hình ánh sáng lập tức nổi bật hẳn lên, trở nên to hơn, rõ nét hơn, sáng hơn, chung quanh còn được bao bọc bởi những khung viền hình ngọn lửa rực cháy.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0033",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0033"
+      ],
+      "source": "“咦？”",
+      "source_hash": "06fc8af4d27ae3761b02114d1896a0a4603d9002dbb4fff6e2e5f44bb792d4e6",
+      "target": "“Hửm?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0034",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0034"
+      ],
+      "source": "深海大学的炼器专家谢听弦微微一愣，他看到了李耀击杀三目猿的全过程。",
+      "source_hash": "909229359f55a995d75b3df0f4d79f041d8ebfa7877947d5421120b74a9120a8",
+      "target": "Chuyên gia luyện khí Tạ Thính Huyền của Đại học Thâm Hải khẽ run lên, ông đã chứng kiến toàn bộ quá trình Lý Diệu giết chết con Vượn Ba Mắt.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0035",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0035"
+      ],
+      "source": "没想到这名拥有极高炼器天赋的少年，居然这么擅长战斗。",
+      "source_hash": "23a6dddcb902fc69ca845d26709cdace8638a5eaf5e6aed1b11cb2f164dd6759",
+      "target": "Không ngờ một thiếu niên sở hữu thiên phú luyện khí cực cao như vậy lại thiện chiến đến thế.",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0036",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0036"
+      ],
+      "source": "“我就知道，自己没有看错人！”",
+      "source_hash": "fdf006036fd649a8d0c5c8a426e4bf0b0972efa85a84b8088b7afbf187ac38c5",
+      "target": "“Tôi biết ngay mà, mình không nhìn lầm người!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0037",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0037"
+      ],
+      "source": "大荒战院的观察员丁铃铛，也是兴奋地挥了挥拳头！",
+      "source_hash": "e56d2cf4ffdabe1029e440ef058cc4fd46379aefe18f7f59ecceddc90a637d71",
+      "target": "Quan sát viên Đinh Linh Đang của Đại Hoang Chiến Viện cũng phấn khích vung vẩy nắm đấm!",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0038",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0038"
+      ],
+      "source": "“可是，他现在又在干什么？”",
+      "source_hash": "559ab279e90d656339f9fd5e4ff7d7b3785d618b10ffdba27d583443c3215e67",
+      "target": "“But mà, bây giờ cậu ta đang làm cái gì thế?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0039",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0039"
+      ],
+      "source": "光幕中李耀做出了一个奇怪的动作，谢听弦和丁铃铛心中同时浮起迷惑。",
+      "source_hash": "b72954b2342e1db573748bd255afad7a5cdb9ba0d08357a160b030d8d562e5f8",
+      "target": "Trong màn hình ánh sáng, Lý Diệu thực hiện một động tác vô cùng kỳ lạ, khiến Tạ Thính Huyền và Đinh Linh Đang đồng thời cảm thấy hoang mang.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0040",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0040"
+      ],
+      "source": "在光幕中，李耀击杀了三目猿之后并没有离去，而是抽出了插在它前额的妖兽骸骨，以骨为刃，十分熟练地切开了三目猿的颈部血管，将腥臭无比的妖兽血液涂抹在自己身上。",
+      "source_hash": "72c5e50786bff6a0001a81ef796ae1e8727e99eba379a44fd1d86f3353c301a0",
+      "target": "Trên màn hình, Lý Diệu sau khi hạ gục con Vượn Ba Mắt không hề bỏ đi ngay, mà rút khúc xương thú găm ở trán nó ra, dùng nó làm dao, cực kỳ thuần thục rạch đứt huyết quản ở cổ con vượn, rồi đem dòng máu yêu thú tanh hôi nồng nặc bôi trét khắp cơ thể.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0041",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0041"
+      ],
+      "source": "他涂抹得十分均匀，连一根脚趾头都没有漏过，到最后还用妖兽血液把头发完全浸泡一遍，这才心满意足地拍了拍手，把妖兽骸骨叼在口中，纵身窜上了枝桠。",
+      "source_hash": "18576ed35f571e674ec9ae75a680f0a6c2a30577d9f2e1deec44af5138aaabf5",
+      "target": "Cậu bôi trét vô cùng đều đặn, ngay cả một kẽ ngón chân cũng không bỏ sót, cuối cùng còn dùng máu yêu thú thấm ướt sũng toàn bộ mái tóc. Sau đó mới vỗ vỗ tay một cách hài lòng, ngậm khúc xương thú ở miệng rồi nhảy vọt lên những cành cây rậm rạp.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0042",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0042"
+      ],
+      "source": "深吸一口气，李耀仿佛回到法宝坟墓。",
+      "source_hash": "436ea39e338455cbe25068d8487ea94b3a09b1b1c7f36175db07285b4f2e44fb",
+      "target": "Hít sâu một hơi, Lý Diệu dường như cảm thấy bản thân đã quay trở về Nghĩa địa Pháp Bảo.",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0043",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0043"
+      ],
+      "source": "纵横交错的枝桠形成的狭窄空间，和法宝坟墓中摇摇欲坠的垃圾山形成的空间也没什么差别。",
+      "source_hash": "3ce73cfa069cf75a23e13ce5ee7788c4ce8a80ee2e3cf7420668ecadc64df2bb",
+      "target": "Không gian chật hẹp do những cành cây đan xen chằng chịt tạo ra, so với khoảng không gian kẹp giữa những núi rác đổ nát chực sập tại Nghĩa địa Pháp Bảo cũng chẳng có gì khác biệt.",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0044",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0044"
+      ],
+      "source": "飞快扫了一眼，李耀将计算力飙至极限，脑中顿时出现了无数方位、风向、数字，一条清晰无比的透明轨迹在他眼前延伸。",
+      "source_hash": "01db407f3ddca22414880611def43a2f1adaa534c7c6fabe6da8f77724b17d06",
+      "target": "Nhanh chóng quét nhìn qua một lượt, Lý Diệu đẩy mạnh năng lực tính toán lên tới giới hạn cực đại, trong đầu lập tức hiện ra vô số phương vị, hướng gió, số liệu, một đường quỹ đạo trong suốt vô cùng rõ ràng trải dài trước mặt cậu.",
+      "narrative_type": "inner_thought",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0045",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0045"
+      ],
+      "source": "“小吉，帮我找到最近的补给点在哪里！”李耀对头顶的白色噗叽兽说。",
+      "source_hash": "36425015a17d87e683b92d1f426d854c25b579160e52b32283db78cbd2ed6af3",
+      "target": "“Tiểu Cát, giúp tôi tìm xem điểm tiếp tế gần nhất ở đâu!” Lý Diệu nói với con thú Pút Kít màu trắng trên đầu.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0046",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0046"
+      ],
+      "source": "片刻之后，魔蛟岛的半透明地图投射到了他的眼前，清晰标注出了目前所处的方位，以及几十处补给点的位置。",
+      "source_hash": "8925ce045f0565b1fddf6cb9853bb3fb65277f729d0464a189989ead2bbadea8",
+      "target": "Lát sau, bản đồ bán trong suốt của Đảo Ma Giao được trình chiếu trước mắt cậu, hiển thị rõ ràng vị trí hiện tại cũng như tọa độ của mấy chục điểm tiếp tế.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0047",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0047"
+      ],
+      "source": "微微一笑，李耀在枝桠间轻盈跳跃，朝最近的补给点电射而去。",
+      "source_hash": "d1fc940ce084978dc8c79daf10ef3661ba6f2194aa24957eb4d4ad999a871c06",
+      "target": "Mỉm cười một cái, Lý Diệu khẽ nhảy nhót giữa các cành cây, như một tia điện lao thẳng về phía điểm tiếp tế gần nhất.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0048",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0048"
+      ],
+      "source": "唰唰唰唰！",
+      "source_hash": "9923b9c196c84c1f66f7ce243949aa10734c99453f5c1624d8cbb10ce81602d3",
+      "target": "Xoẹt xoẹt xoẹt xoẹt!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0049",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0049"
+      ],
+      "source": "看似无路可走的枝桠之间，李耀通行无阻，仿佛是魔蛟岛为他专门开辟了一处空中走廊，任由他风驰电掣！",
+      "source_hash": "8cde43c8977891e672f5d7862112c1b10fcd95229c59074515cf40811d4d1b2d",
+      "target": "Giữa những cành cây đan xen tưởng như không có lối đi, Lý Diệu lại di chuyển không chút cản trở, giống như Đảo Ma Giao đã đặc biệt mở ra cho cậu một hành lang trên không để cậu thỏa sức phóng nhanh như gió!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0050",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0050"
+      ],
+      "source": "一路上也不是没有遇到过妖兽，可是每一次感知到妖兽的存在，李耀都会及时停下来，蛰伏在枝桠深处。",
+      "source_hash": "14f29e11db4cba9e65653fcd0831d1aacc4556783dd85286bd1a4612c5994f89",
+      "target": "Dọc đường đi không phải là không chạm mặt yêu thú, nhưng mỗi khi cảm nhận được sự hiện diện của chúng, Lý Diệu đều kịp thời dừng lại, ẩn nấp sâu dưới những cành lá rậm rạp.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0051",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0051"
+      ],
+      "source": "他身上的妖兽血液散发出浓烈的妖气，再加上自幼习惯了在法宝坟墓的垃圾堆中蛰伏，别的妖兽并没有发现他鱼目混杂。",
+      "source_hash": "f4605003608bf72d1aebb45ecf919fe872527603408e4e46d2decf2ac43a664f",
+      "target": "Máu yêu thú trên người cậu tỏa ra mùi yêu khí nồng nặc, cộng với thói quen ẩn nấp trong đống rác rưởi tại Nghĩa địa Pháp Bảo từ nhỏ, các con yêu thú khác hoàn toàn không nhận ra có kẻ trà trộn.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0052",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0052"
+      ],
+      "source": "妖兽之间，有时候也会互相攻击，但眼下魔蛟岛上新来了几千块肥嫩多汁的“小鲜肉”，所有妖兽都在寻觅人类的气息，就顾不上去吃又酸又臭的同类了。",
+      "source_hash": "3bcf68b7632ecd6e523afdcfb9e97cfcaf9dbdd2e037dba7e2d9c73d4f970110",
+      "target": "Giữa loài yêu thú đôi khi cũng tàn sát lẫn nhau, nhưng lúc này trên Đảo Ma Giao đột ngột xuất hiện mấy ngàn miếng “thịt tươi” non mềm mọng nước, lũ yêu thú đều mải mê săn tìm hơi thở của con người, chẳng thèm đoái hoài đến việc ăn thịt đồng loại vừa chua vừa thối.",
+      "narrative_type": "description",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0053",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0053"
+      ],
+      "source": "李耀就是用这种方法，有惊无险地来到了第一处补给点。",
+      "source_hash": "85d24c48123d794373320b96c27c80d42988487f69536fc88b1e333bac769288",
+      "target": "Lý Diệu chính là dùng phương pháp này để vượt qua nguy hiểm, thuận lợi tới được điểm tiếp tế đầu tiên.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0054",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0054"
+      ],
+      "source": "他的诡异行径，也激发了辽远号监控中心众多修真者的好奇，所有人都在猜测他的意图。",
+      "source_hash": "6d1826933ad6603649735c055821474082a958e75da40e5a20fdd27ff31aef25",
+      "target": "Hành vi kỳ lạ của cậu cũng khơi dậy sự tò mò của rất nhiều tu chân giả trong trung tâm giám sát tàu Liêu Viễn Hào, tất cả mọi người đều đoán xem ý đồ của cậu là gì.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0055",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0055"
+      ],
+      "source": "“这名选手的身法很是灵动，似乎从小就生活在山林之中，而且收敛气息的手段也颇为高明，你看，两头妖兽从他旁边三五米的地方掠过，都没能发现他。”",
+      "source_hash": "2acc5dbdd688c28ab5ae08c07d4b9bf2ab46e7f6f3ada43e0b04b322bb25e48c",
+      "target": "“Thân pháp của thí sinh này vô cùng linh hoạt, dường như từ nhỏ đã sinh sống nơi rừng núi, hơn nữa thủ đoạn thu liễm hơi thở cũng rất cao minh. Mọi người xem, hai con yêu thú lướt qua sát bên cạnh cậu ta chỉ ba năm mét mà không hề phát hiện ra.”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0056",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0056"
+      ],
+      "source": "“没错，这名选手的实战经验很丰富，不像是初次上阵的新人，而且他的心理素质也很强大，任由妖兽从自己头顶掠过，竟然纹丝不动，连眼皮都不眨半下，这是块材料，培养一下，可以成为一名出色的暗杀者！”",
+      "source_hash": "a1ebcaf2e95c491774803a93e74a69397f78dcff18f7c1f7f998996163e3f37e",
+      "target": "“Đúng vậy, kinh nghiệm thực chiến của cậu ta rất phong phú, không giống như một tân binh mới lên võ đài lần đầu. Hơn nữa tố chất tâm lý cũng vô cùng vững vàng, để mặc yêu thú bay qua ngay trên đỉnh đầu mà vẫn bất động như núi, đến mí mắt cũng không thèm chớp lấy một cái. Đây quả là một mầm non tốt, bồi dưỡng thêm có thể trở thành một sát thủ xuất sắc!”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0057",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0057"
+      ],
+      "source": "“不过他为什么不出手，明明有好几次机会，可以不费吹灰之力地斩杀好几头妖兽，获得大量积分，他却引而不发，想要干什么？”",
+      "source_hash": "de24b2e1d4964db1e13acee8c64278842b7bf31f56a6a3d8581794c257acf958",
+      "target": "“Nhưng tại sao cậu ta lại không ra tay? Rõ ràng có rất nhiều cơ hội tốt để dễ dàng tiêu diệt vài con yêu thú kiếm lượng lớn điểm tích lũy, cậu ta lại án binh bất động, muốn làm cái gì đây?”",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0058",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0058"
+      ],
+      "source": "除了击杀第一头三目猿之外，李耀有大半个小时没出过手，他在积分榜上一路下滑，很快就掉到了两千名之后。",
+      "source_hash": "b92d1b7150f2aea483467ae49ef39da615560139816e222b8f9fa0227ffa26c8",
+      "target": "Ngoại trừ việc giết con Vượn Ba Mắt đầu tiên, Lý Diệu đã hơn nửa tiếng đồng hồ không hề ra tay, thứ hạng của cậu trên bảng điểm tụt dốc không phanh, nhanh chóng rơi xuống ngoài vị trí thứ hai ngàn.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0059",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0059"
+      ],
+      "source": "要知道，这时候还留在魔蛟岛上的考生，平均每人都击杀了三五头妖兽，有些实力强横的高手，甚至一口气宰掉了十几头妖兽。",
+      "source_hash": "86e3bfd4e616ac53730cfe312e42de02be55d682ee0108d4512cf66088ae74d1",
+      "target": "Phải biết rằng lúc này các thí sinh còn trụ lại trên Đảo Ma Giao trung bình mỗi người đều đã giết được ba năm con yêu thú, có những cao thủ thực lực cường hãn thậm chí còn hạ gục liên tiếp mười mấy con.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0060",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0060"
+      ],
+      "source": "此时，排在积分榜第一位的名字是——赫连烈！",
+      "source_hash": "24d6da425696576bba752615234c2afe9140ea5528cd85654819193f7c12f481",
+      "target": "Hiện tại, cái tên xếp vị trí thứ nhất trên bảng điểm tích lũy chính là —— Hách Liên Liệt!",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0061",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0061"
+      ],
+      "source": "“小家伙，你是想抢先进入补给点，好展现自己在炼器方面的天赋吧？好，我就仔细看看，你究竟有些什么手段！”谢听弦微微一笑，双眼熠熠生辉。",
+      "source_hash": "1318ec922dce456fc221f5e7d1615933f4ce0e1da7a8523cd9aba832c613c55e",
+      "target": "“Nhóc con, cậu muốn nhanh chân tiến vào điểm tiếp tế để thể hiện thiên phú luyện khí của mình chứ gì? Được thôi, tôi sẽ quan sát thật kỹ xem rốt cuộc cậu có những bản lĩnh gì!” Tạ Thính Huyền nở nụ cười, đôi mắt lấp lánh ánh hào quang.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0053:align_0062",
+      "chapter_id": "chapter_0053",
+      "segment_ids": [
+        "chapter_0053:seg_0062"
+      ],
+      "source": "李耀轻轻一跃，跳进补给点。",
+      "source_hash": "47e0420f920bee0ea73bac5f2e6f9d55a578327ce351e9f26580d4063c485c12",
+      "target": "Lý Diệu nhẹ nhàng nhảy một cái, tiến vào điểm tiếp tế.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    }
+  ],
+  "term_occurrences": [
+    {
+      "chapter_id": "chapter_0053",
+      "source_term": "法宝坟墓",
+      "target_term": "Nghĩa địa Pháp Bảo",
+      "segment_id": "chapter_0053:seg_0042",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0053",
+      "source_term": "大荒战院",
+      "target_term": "Đại Hoang Chiến Viện",
+      "segment_id": "chapter_0053:seg_0037",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0053",
+      "source_term": "噗叽兽",
+      "target_term": "thú Pút Kít",
+      "segment_id": "chapter_0053:seg_0023",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "beast",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0053",
+      "source_term": "辽远号",
+      "target_term": "Liêu Viễn Hào",
+      "segment_id": "chapter_0053:seg_0026",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0053",
+      "source_term": "深海大学",
+      "target_term": "Đại học Thâm Hải",
+      "segment_id": "chapter_0053:seg_0034",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0053",
+      "source_term": "谢听弦",
+      "target_term": "Tạ Thính Huyền",
+      "segment_id": "chapter_0053:seg_0034",
+      "present_in_target": true,
+      "is_locked": true,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0053",
+      "source_term": "丁铃铛",
+      "target_term": "Đinh Linh Đang",
+      "segment_id": "chapter_0053:seg_0037",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0053",
+      "source_term": "魔蛟岛",
+      "target_term": "Đảo Ma Giao",
+      "segment_id": "chapter_0053:seg_0021",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "location",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0053",
+      "source_term": "幻藤",
+      "target_term": "Ảo Đằng",
+      "segment_id": "chapter_0053:seg_0002",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    }
+  ],
+  "entity_mentions": [
+    {
+      "chapter_id": "chapter_0053",
+      "source_surface": "李耀",
+      "target_surface": "Lý Diệu",
+      "entity_type": "person",
+      "segment_id": "chapter_0053:seg_0002",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0053",
+      "source_surface": "赫连烈",
+      "target_surface": "Hách Liên Liệt",
+      "entity_type": "person",
+      "segment_id": "chapter_0053:seg_0060",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0053",
+      "source_surface": "谢听弦",
+      "target_surface": "Tạ Thính Huyền",
+      "entity_type": "person",
+      "segment_id": "chapter_0053:seg_0034",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0053",
+      "source_surface": "丁铃铛",
+      "target_surface": "Đinh Linh Đang",
+      "entity_type": "person",
+      "segment_id": "chapter_0053:seg_0037",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0053",
+      "source_surface": "深海大学",
+      "target_surface": "Đại học Thâm Hải",
+      "entity_type": "factions",
+      "segment_id": "chapter_0053:seg_0034",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0053",
+      "source_surface": "大荒战院",
+      "target_surface": "Đại Hoang Chiến Viện",
+      "entity_type": "factions",
+      "segment_id": "chapter_0053:seg_0037",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0053",
+      "source_surface": "法宝坟墓",
+      "target_surface": "Nghĩa địa Pháp Bảo",
+      "entity_type": "locations",
+      "segment_id": "chapter_0053:seg_0042",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0053",
+      "source_surface": "魔蛟岛",
+      "target_surface": "Đảo Ma Giao",
+      "entity_type": "locations",
+      "segment_id": "chapter_0053:seg_0021",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0053",
+      "source_surface": "辽远号",
+      "target_surface": "Liêu Viễn Hào",
+      "entity_type": "items",
+      "segment_id": "chapter_0053:seg_0026",
+      "confidence": 1.0
+    }
+  ],
+  "name_analysis": {
+    "status": "ok",
+    "evidence_count": 4,
+    "name_mentions": [
+      {
+        "chapter_id": "chapter_0053",
+        "name_source": "李耀",
+        "name_target": "Lý Diệu",
+        "segment_id": "chapter_0053:seg_0002",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0053",
+        "name_source": "赫连烈",
+        "name_target": "Hách Liên Liệt",
+        "segment_id": "chapter_0053:seg_0060",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0053",
+        "name_source": "谢听弦",
+        "name_target": "Tạ Thính Huyền",
+        "segment_id": "chapter_0053:seg_0034",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0053",
+        "name_source": "丁铃铛",
+        "name_target": "Đinh Linh Đang",
+        "segment_id": "chapter_0053:seg_0037",
+        "present_in_target": true,
+        "confidence": 1.0
+      }
+    ],
+    "name_entries": [
+      {
+        "name_source": "李耀",
+        "name_target": "Lý Diệu"
+      },
+      {
+        "name_source": "赫连烈",
+        "name_target": "Hách Liên Liệt"
+      },
+      {
+        "name_source": "谢听弦",
+        "name_target": "Tạ Thính Huyền"
+      },
+      {
+        "name_source": "丁铃铛",
+        "name_target": "Đinh Linh Đang"
+      }
+    ],
+    "transliteration_units": [],
+    "inferred_name_rules": [],
+    "ambiguity_cases": [],
+    "reusable_name_profile": {
+      "mapping_count": 4,
+      "has_ambiguity": false
+    }
+  },
+  "phrase_patterns": [],
+  "grammar_rule_candidates": [],
+  "analyzer_reports": {
+    "term_occurrences": {
+      "status": "ok",
+      "evidence_count": 9
+    },
+    "entity_mentions": {
+      "status": "ok",
+      "evidence_count": 9
+    },
+    "name_mentions": {
+      "status": "ok",
+      "evidence_count": 4
+    },
+    "phrase_patterns": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    },
+    "grammar_rule_candidates": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    }
+  },
+  "review_queue": [
+    {
+      "chapter_id": "chapter_0053",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "方位",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "，脑中顿时出现了无数方位、风向、数字，一条清",
+          "晰标注出了目前所处的方位，以及几十处补给点的"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0053",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "明亮",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "大，色泽也在瞬间变得明亮，就像是烧红的铁块，",
+          "变得更大，更清晰，更明亮，四周还加上了火焰形"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0053",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "明明有好几次机会",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "不过他为什么不出手，明明有好几次机会，可以不费吹灰之力地"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0053",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "都汇聚一堂",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "中的老师和军方高层，都汇聚一堂，饶有兴致地盯着一块"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0053",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "将这些失败的挑战者带出魔蛟岛",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "修真者也在飞速赶来，将这些失败的挑战者带出魔蛟岛。\n\n每年的极限挑战"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0053",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "就有七百二十五名挑战者垂头丧气地离开魔蛟岛",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "也是一样，十分钟内，就有七百二十五名挑战者垂头丧气地离开魔蛟岛，回到辽远号上。\n\n"
+        ]
+      }
+    }
+  ],
+  "quality_audit": {
+    "segment_coverage": 1.0,
+    "source_hash_match": true,
+    "target_reconstruction_match": true,
+    "invalid_ref_count": 0,
+    "locked_term_hit_rate": 1.0,
+    "missing_locked_terms": [],
+    "cjk_residue_count": 0,
+    "paragraph_drift_ratio": 0.0,
+    "pronoun_consistency_score": 1.0,
+    "warnings": []
+  }
+}

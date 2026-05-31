@@ -1,0 +1,117 @@
+{
+  "schema_version": "1.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 15,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan\\0015 - 15.第15章 不知死活.md",
+  "source_char_count": 2332,
+  "characters": [
+    {
+      "source": "郑少",
+      "entity_type": "person",
+      "count": 4,
+      "confidence": 0.7,
+      "evidence": [
+        "，先回去了，你帮我和郑少说一声。”司佳雪等到",
+        "隐散发着绿光。\n\n“郑少。”赫连烈收回目光，",
+        "东明微笑问道。\n\n“郑少，那边有个乡巴佬，不"
+      ]
+    },
+    {
+      "source": "后面",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "佳人的身影隐没在回廊后面，“咔嚓”一声，脚下",
+        "笑嘻嘻的，也跟在赫连后面。\n\n还未走进下一段"
+      ]
+    },
+    {
+      "source": "明白",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "指手画脚！”\n\n“我明白，我明白，来吧，一起",
+        "！”\n\n“我明白，我明白，来吧，一起进去和郑"
+      ]
+    },
+    {
+      "source": "连大少",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.82,
+      "evidence": [
+        "少忽然道：“对了，赫连大少，那个乡巴佬穿的，好",
+        "对方的腰眼。\n\n“赫连大少，请问这位……壮士，"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "source": "看来下次咱们聚会",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "有人专门来这里吃饭？看来下次咱们聚会，也要换个更清幽的地"
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "source": "仿佛一座万年不化的冰山",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "司佳雪依旧冷若冰霜，仿佛一座万年不化的冰山，冷冰冰地说：“我可"
+      ]
+    }
+  ],
+  "realms": [],
+  "techniques": [
+    "有如刀剑",
+    "眯成两把锋利的弯刀",
+    "连烈猛地跨出一大步"
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "浮戈城",
+      "target": "Phù Qua Thành"
+    },
+    {
+      "source": "晶脑",
+      "target": "Tinh não"
+    },
+    {
+      "source": "赤霄二中",
+      "target": "Xích Tiêu Nhị Trung"
+    },
+    {
+      "source": "重点班",
+      "target": "lớp trọng điểm"
+    },
+    {
+      "source": "普通班",
+      "target": "lớp thường"
+    },
+    {
+      "source": "灵根",
+      "target": "Linh căn"
+    },
+    {
+      "source": "灵根开发度",
+      "target": "độ khai phát linh căn"
+    },
+    {
+      "source": "司佳雪",
+      "target": "Tiêu Giai Tuyết"
+    },
+    {
+      "source": "隐湖小境",
+      "target": "Ẩn Hồ Tiểu Cảnh"
+    }
+  ],
+  "generated_at": "2026-05-30T05:32:11.295052+07:00"
+}

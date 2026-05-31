@@ -1,0 +1,127 @@
+{
+  "schema_version": "1.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 27,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan\\0027 - 27.第27章 原来他最狠.md",
+  "source_char_count": 2795,
+  "characters": [
+    {
+      "source": "李耀",
+      "entity_type": "person",
+      "count": 3,
+      "confidence": 0.7,
+      "evidence": [
+        "世界的存在！\n\n“这李耀，究竟是得罪了什么人",
+        "敢上前。\n\n“你就是李耀，也没什么特别嘛！”",
+        "。\n\n“那又如何？”李耀问道。\n\n杠铃撕裂空"
+      ]
+    },
+    {
+      "source": "全爆裂",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.82,
+      "evidence": [
+        "下场就是整个右膝盖完全爆裂，粉碎性骨折！\n\n经",
+        "，恐怕他的胸骨就会完全爆裂。\n\n“这招‘虎蹴击"
+      ]
+    },
+    {
+      "source": "双眼",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "数铁砂也似的粉末刺进双眼，眼前顿时一片雪白，",
+        "力的镁粉，正中赵亮的双眼！\n\n赵亮瞬间失去了"
+      ]
+    },
+    {
+      "source": "皮发麻",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.82,
+      "evidence": [
+        "呼呼”的风声，令人头皮发麻。\n\n拖着杠铃，李耀",
+        "所有人都目瞪口呆，头皮发麻，只有死党孟江才强忍"
+      ]
+    },
+    {
+      "source": "魏铁",
+      "entity_type": "person",
+      "count": 2,
+      "confidence": 0.7,
+      "evidence": [
+        "刚刚走了一个“铁兽”魏铁，转眼间又来了一个更",
+        "不知用什么办法逼走了魏铁，现在面对赵亮，又会"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "source": "李耀也没有给他说话的机会",
+      "entity_type": "organization",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "好了。\n\n而这一次，李耀也没有给他说话的机会，直接走到赵亮左边，"
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "source": "还有好几位精通医术的大宗师坐镇",
+      "entity_type": "location",
+      "count": 1,
+      "confidence": 0.78,
+      "evidence": [
+        "起死回生的灵丹妙药，还有好几位精通医术的大宗师坐镇，只要不是当场活活打"
+      ]
+    }
+  ],
+  "realms": [],
+  "techniques": [
+    "才他不知用什么办法",
+    "观者的膝盖都是一阵"
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "赤霄二中",
+      "target": "Xích Tiêu Nhị Trung"
+    },
+    {
+      "source": "重点班",
+      "target": "lớp trọng điểm"
+    },
+    {
+      "source": "普通班",
+      "target": "lớp thường"
+    },
+    {
+      "source": "战兽十三势",
+      "target": "Chiến Thú Thập Tam Thế"
+    },
+    {
+      "source": "灵根",
+      "target": "Linh căn"
+    },
+    {
+      "source": "灵根开发度",
+      "target": "độ khai phát linh căn"
+    },
+    {
+      "source": "魏铁",
+      "target": "Ngụy Thiết"
+    },
+    {
+      "source": "赵亮",
+      "target": "Triệu Lượng"
+    }
+  ],
+  "structural_hints": {
+    "has_dialogue": true,
+    "has_western_names": false,
+    "estimated_segments": 72
+  },
+  "generated_at": "2026-05-30T22:38:44.064677+07:00"
+}

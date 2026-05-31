@@ -1,64 +1,579 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "2.0",
   "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
   "chapter": 20,
   "source_file": "D:\\Dichtrung\\Source\\Source split\\Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan\\0020 - 20.第20章 体操男.md",
   "source_char_count": 2295,
-  "characters": [
+  "source_hash": "5f0d5128dfee6ea97f3cf398cb39a06905dae921b07f56430a72ec7f0bbb6fb5",
+  "source_manifest_hash": "57eba8d213e809ad38e39b5e289e777a094e3cc0a68ce123ff26b6302b75728a",
+  "source_segments": [
     {
-      "source": "万块",
-      "entity_type": "person",
-      "count": 4,
-      "confidence": 0.7,
-      "evidence": [
-        "过三分钟，就能拿到一万块，不过若是撑不到三分",
-        "撑过三分钟，就能拿一万块？当陪练竟然这么赚钱",
-        "了司佳雪一刀，赚了十万块，可这种肥羊也不是随"
-      ]
+      "segment_id": "chapter_0020:seg_0001",
+      "source": "# 20.第20章 体操男",
+      "source_hash": "6c192c5dcf26fdc0a4c099718b37e137196cdacb3ec608cb8884f47b08f64953"
     },
     {
-      "source": "都清楚",
-      "entity_type": "person",
-      "count": 2,
-      "confidence": 0.82,
-      "evidence": [
-        "：“来了？价钱什么的都清楚，没问题吧？”\n\n“",
-        "，没问题吧？”\n\n“都清楚，没问题，咱们直接交"
-      ]
-    }
-  ],
-  "organizations": [
-    {
-      "source": "关上了门",
-      "entity_type": "organization",
-      "count": 1,
-      "confidence": 0.78,
-      "evidence": [
-        "了一下，退出格斗室，关上了门。\n\n“真是业余级别"
-      ]
+      "segment_id": "chapter_0020:seg_0002",
+      "source": "“有点意思，在普通武者里算是抗击打能力一流，比你修炼馆里这些弱鸡强上十倍。”彭海也站起来，慢吞吞地活动关节，一束束肌肉如万千毒蛇，在洁白如玉的皮肤下面流窜，灵动无比。",
+      "source_hash": "5a9e018beeed67e20f5fa75cb2d5351bf343a3fff32b44a3d7d1a77f163cffee"
     },
     {
-      "source": "推开门",
-      "entity_type": "organization",
-      "count": 1,
-      "confidence": 0.78,
-      "evidence": [
-        "光头纹面男一边说着，推开门，走进力量训练房。\n"
-      ]
+      "segment_id": "chapter_0020:seg_0003",
+      "source": "“那当然，人家专业嘛！你先去格斗室准备吧，别忘了用‘纹面符’，不要让人发现你的真实身份。”光头纹面男一边说着，推开门，走进力量训练房。",
+      "source_hash": "17f3ce9e5c4b3693f9655b078a4368b365c2813749f88c96860011a5f04da77c"
+    },
+    {
+      "segment_id": "chapter_0020:seg_0004",
+      "source": "打沙袋的壮汉对他道：“赵馆长，这位先生找你。”",
+      "source_hash": "7676663f0f36223836741af93d82bd3c500f4512440734b982cdc540271c6b47"
+    },
+    {
+      "segment_id": "chapter_0020:seg_0005",
+      "source": "光头纹面男点了点头，扫了一眼李耀脸上的蜘蛛花纹，笑道：“来了？价钱什么的都清楚，没问题吧？”",
+      "source_hash": "a1d45eea7dbbb9efc42536d1bc4baea0d2090b74c3de1d264d1e1ee9eb9d9c47"
+    },
+    {
+      "segment_id": "chapter_0020:seg_0006",
+      "source": "“都清楚，没问题，咱们直接交易吧。”李耀冷冷说，装出一副经验丰富的老江湖模样。",
+      "source_hash": "4295861a5d95499c70d42cbfedc78f16b94d83a3dcaf6e8adb029873bec2dc73"
+    },
+    {
+      "segment_id": "chapter_0020:seg_0007",
+      "source": "“那就好，跟我来。”光头纹面男在前面带路，穿过一条走廊，把李耀带到了一间百来个平方的格斗室。",
+      "source_hash": "e1522ff6e29f4c37a2ac8c9fcd3a13fc172da6655bd00ecfd522021032063e1e"
+    },
+    {
+      "segment_id": "chapter_0020:seg_0008",
+      "source": "格斗室的环境比较简陋，四周的墙壁上挂满了厚实的草垫作为缓冲，地面直接就是粗糙的水泥地，大概是用的久了，坑坑洼洼，遍布着横七竖八的裂缝。",
+      "source_hash": "37628c8bd689db7766bea31d29bf834dc1089c9b8124108413d832766e20a548"
+    },
+    {
+      "segment_id": "chapter_0020:seg_0009",
+      "source": "光头纹面男从角落里捧出一件用九层牛皮缝制的防护服和全套护具，示意李耀穿上。",
+      "source_hash": "aedaad738b107d54f4e85cef049df881c799b74a053ddcbcee3cf91e4fc0d413"
+    },
+    {
+      "segment_id": "chapter_0020:seg_0010",
+      "source": "“大家都是圈里人，也不用我多啰嗦，反正只要你撑过三分钟，就能拿到一万块，不过若是撑不到三分钟，那就半毛钱没有——天哥说，你在不少武馆都干过，是金牌陪练，这些都是行规，没问题吧？”",
+      "source_hash": "d1b577c7ec24be74fe71b4526493edb97af6fedf29e0759d821c678a1aac1db0"
+    },
+    {
+      "segment_id": "chapter_0020:seg_0011",
+      "source": "“三分钟？金牌陪练？”李耀眨巴着眼睛，意识到对方认错人了。",
+      "source_hash": "ceff70e1ebe6ad0b38c761870af71f1aaa84204020e24760d2285bb74d9e4658"
+    },
+    {
+      "segment_id": "chapter_0020:seg_0012",
+      "source": "纹面符的花纹并不是随机的，总计一千三百多种样式，偶尔也会出现两个人脸上花纹相同的情况，被称为“撞脸”。",
+      "source_hash": "17427394afcf147c8fb0c641cdbf45161eb78bf2a8e6d7238d43bc4186523b7f"
+    },
+    {
+      "segment_id": "chapter_0020:seg_0013",
+      "source": "这个老板大概在等另外一个脸上绘制着蜘蛛花纹的“金牌陪练”，却把自己误认成了对方。",
+      "source_hash": "db53e46e5b083c333f7e95b5d0d7e38b1878cca5a29c587f472c9ee1b6245917"
+    },
+    {
+      "segment_id": "chapter_0020:seg_0014",
+      "source": "“不好意思——”李耀下意识就要解释，心中忽然一动。",
+      "source_hash": "d561643cd942ff861aac4dd728b4da52bd1a64ed869992e6a6e618ab41154d3c"
+    },
+    {
+      "segment_id": "chapter_0020:seg_0015",
+      "source": "这位光头大叔刚才说什么来着？撑过三分钟，就能拿一万块？当陪练竟然这么赚钱？",
+      "source_hash": "b876dfa7692334e3b1236463ace5c79a8a85ab8cf7d94cd76963b22a5ea31e14"
+    },
+    {
+      "segment_id": "chapter_0020:seg_0016",
+      "source": "李耀有些眼热了。",
+      "source_hash": "8ec2910de8e69df3335a6db122d15b0e169e64ff17f295c8af3884642f8fa7aa"
+    },
+    {
+      "segment_id": "chapter_0020:seg_0017",
+      "source": "他在法宝坟墓里拼死拼活，辛辛苦苦一个月也才能赚万儿八千，虽然这一次痛宰了司佳雪一刀，赚了十万块，可这种肥羊也不是随便就能遇上的，眼下只要三分钟就能再赚一万块，足够多买十几支强化药剂，何乐而不为呢？",
+      "source_hash": "9bf622668c57af6e9d68eeffedd699d39e7854932f906c720c214c36c353fe2a"
+    },
+    {
+      "segment_id": "chapter_0020:seg_0018",
+      "source": "自己的身体可是刚刚经过异变，和过去相比，抗击打能力有了大幅提升，称得上皮糙肉厚！",
+      "source_hash": "b9a84a7e107aafc8c0f136c23d64d48802b679f073832751503f31608e56da6a"
+    },
+    {
+      "segment_id": "chapter_0020:seg_0019",
+      "source": "而会来这种档次的修炼馆里锻炼的会员，大多是业余级别，说不定刚刚下班，等会儿还要去买菜呢，能有多少力气？",
+      "source_hash": "5b864155c9c8aa7870211f6594424872ea9401b015fd95175351b4102d3d4b77"
+    },
+    {
+      "segment_id": "chapter_0020:seg_0020",
+      "source": "这么想着，李耀朝对面望去，差点没笑出声来。",
+      "source_hash": "d75fda7c23a90d111741040f622b13ffa154902ae541d74071dca99d6d2f31c1"
+    },
+    {
+      "segment_id": "chapter_0020:seg_0021",
+      "source": "格斗室的角落里，站着一个身材高瘦的男人，裸露在外的上半身没多少肌肉，皮肤也显得有些惨白，此君脸上也施加了“纹面符”，红色和黑色的花纹交织成了一副笑眯眯的小丑模样。",
+      "source_hash": "abb68bc97824add2f7780ea285dd915cd64c899af80e28584ef3ea33fe868a47"
+    },
+    {
+      "segment_id": "chapter_0020:seg_0022",
+      "source": "给人的感觉，这人普普通通，稀松平常，毫无半点高手的气势。",
+      "source_hash": "a8514ce701a407131f32c4e5f4da97f5c8760ab0f20d3455b64861c58449c8f6"
+    },
+    {
+      "segment_id": "chapter_0020:seg_0023",
+      "source": "令李耀忍俊不禁的是，他进来时，此君正在十分认真地热身，做的却是联邦最基础的“第五套健身体操”！",
+      "source_hash": "5816670e145e64dc6a59c9a570b177cff8ee1fe579be86f0b8f107f057588c47"
+    },
+    {
+      "segment_id": "chapter_0020:seg_0024",
+      "source": "这套健身体操，是联邦的修炼专家研发出来给普通人健身、放松用的，所有联邦公民从幼儿园就开始学习，根本谈不上是什么武技功法，就是最简单的活动手脚，舒展筋骨而已。",
+      "source_hash": "a6779a8ef732660588e3436257bd60ac1c29ca439a35c51dfcdd510a043b101e"
+    },
+    {
+      "segment_id": "chapter_0020:seg_0025",
+      "source": "如今，经过一次次升级，已经发展出了动作复杂、略带武技套路的“第九套健身体操”，而十分简单的“第五套健身体操”，只有小学生还拿来当课间操做。",
+      "source_hash": "1fe5c63b44d690d7ff2ac900bd6aaa51827b2bc1b025052b0130358de0e1c0da"
+    },
+    {
+      "segment_id": "chapter_0020:seg_0026",
+      "source": "明明是小学生的课间操，这个笑脸小丑却做得规规矩矩，一丝不苟，每一个动作都伸展到极限，就像是在修炼什么惊天动地的盖世神功。",
+      "source_hash": "b641bfac9d26130b19616abc0529df507093970a86b32bb35f6aae91212168ef"
+    },
+    {
+      "segment_id": "chapter_0020:seg_0027",
+      "source": "“这一万块简直像是白捡，如果不捡，老天爷都要拿雷劈我！”李耀心中狂叫。",
+      "source_hash": "a70e8eb77f59a4fa97fa842b8d8acfc628b4f7840a4573b6d63578a5bb37b1f4"
+    },
+    {
+      "segment_id": "chapter_0020:seg_0028",
+      "source": "光头纹身男把全套牛皮护具都披挂到他身上，皱眉道：“有什么问题？”",
+      "source_hash": "b56c5cb90b85696176ce9a99386c8bf147c4bda99356de9dedba0287739bad9b"
+    },
+    {
+      "segment_id": "chapter_0020:seg_0029",
+      "source": "“呃——”李耀沉吟片刻，问道，“我只能挨打？能不能还手？”",
+      "source_hash": "dd0864817e672ad43ae7fa0ad82822ea86500454b418d89909eb090612371044"
+    },
+    {
+      "segment_id": "chapter_0020:seg_0030",
+      "source": "光头纹身男一愣，表情似笑非笑，仿佛听到了世界上最幽默的笑话，他又从角落的一个装备箱里取来大把的铁制插板和强化陶瓷插片，插到牛皮护具表面的特殊口袋里。",
+      "source_hash": "4073c8fd8be858672373bf3ba7612afcf3be68666d3b54699e2026dc0ec6b065"
+    },
+    {
+      "segment_id": "chapter_0020:seg_0031",
+      "source": "这样，李耀身上就有了三重保护——强化陶瓷插片、铁制插板和九层牛皮。",
+      "source_hash": "c714f2b4eabd992eaa19d79b7148bb181baa2d106ad223f192ccc89553070825"
+    },
+    {
+      "segment_id": "chapter_0020:seg_0032",
+      "source": "光头纹身男道：“只要你高兴，尽管还手好啦，不过我劝你还是先全力以赴挡住他的攻击再说，好啦，你们慢慢玩，三分钟之后我再进来，希望——”",
+      "source_hash": "b3681d6caed02d8c2b1cb0cf4345f6dede3aeb1d7b57da6dad6642e0cb8b658b"
+    },
+    {
+      "segment_id": "chapter_0020:seg_0033",
+      "source": "他收住了话头，用一种“一切尽在不言中”的眼神看了李耀一眼，在他肩膀上不轻不重地拍了一下，退出格斗室，关上了门。",
+      "source_hash": "6aca379175f62c1c58b6858469fa43e19b072e1833ba1ebeda5106e7a2bff70d"
+    },
+    {
+      "segment_id": "chapter_0020:seg_0034",
+      "source": "“真是业余级别的修炼馆，不过是三分钟的格斗训练而已，有必要穿得这么严严实实吗？”李耀试着跳了两下，又抡了一套王八拳，感知着护具对身体的影响。",
+      "source_hash": "0c481f53f4bcf40a6827461f7d080277e194feaf3a680f228353ee44ae0a70ad"
+    },
+    {
+      "segment_id": "chapter_0020:seg_0035",
+      "source": "他发现这套护具制作得十分精巧，虽然加装了铁板和强化陶瓷插片之后重达数十斤，却没有影响四肢的活动，除了把他的速度稍稍降低一些之外，并不影响进攻和招架的能力。",
+      "source_hash": "6e71dfa347881fc76c01aec4a54fbcc3e3443aa54e0ae70188fac9a476c1c14d"
+    },
+    {
+      "segment_id": "chapter_0020:seg_0036",
+      "source": "而他的对手还在慢条斯理地热身，刚刚从第四节“伸展运动”做到第六节“扩胸运动”，如果李耀没有记错，后面还有五个小节呢！",
+      "source_hash": "01de8fe582c75bf071d0f07dea18a1e9240ca41a3f029c989f782daed3caf5d5"
+    },
+    {
+      "segment_id": "chapter_0020:seg_0037",
+      "source": "“这位大哥，从我进来你就在热身，难道一定要把全套健身操都做完？要不要这么认真？”李耀忍不住道。",
+      "source_hash": "161bc7d11c7277457de3eaf7b5cc1a3210c7f33726e1d72200052b62e448c79f"
+    },
+    {
+      "segment_id": "chapter_0020:seg_0038",
+      "source": "笑脸小丑正保持在跨步开弓，胸膛张开的状态，听了这话，也不继续动作，慢吞吞地说：“你不需要热一下身吗？”",
+      "source_hash": "0af6ba3abc782d58d5cf1afb1b01009931bcd3e507c99389569e92c446ff73fc"
+    },
+    {
+      "segment_id": "chapter_0020:seg_0039",
+      "source": "“不用了，真正的战场上，哪有那么多时间给你热身！”李耀有些不耐烦地说，他在法宝坟墓中挣扎求生，从来都是说打就打，说跑就跑，肥龙、野狼……这些王八蛋，谁会给他时间热身？",
+      "source_hash": "c49eb5de50d7b566ff1653e1d7298c35755bbbf527f5c1c337939d27ac0af3f2"
+    },
+    {
+      "segment_id": "chapter_0020:seg_0040",
+      "source": "笑脸小丑歪着脑袋，轻轻“咦”了一声，似乎没料到李耀能说出这么有道理的话，思索片刻，点头道：“你说的对，准备好了，三分钟——计时开始！”",
+      "source_hash": "0e986d2161f9448d7e5fca0b721bc3a93b5565b0b7dbb7d0e295d915d2a341ca"
+    },
+    {
+      "segment_id": "chapter_0020:seg_0041",
+      "source": "“唰！”",
+      "source_hash": "ed7ce1b7d45c80607a5955ab57f562628e969dbb6ddb6073f188a843a0f40260"
+    },
+    {
+      "segment_id": "chapter_0020:seg_0042",
+      "source": "几乎在“开始”二字还未传到李耀耳朵里时，一道刺耳的破风声就贯穿了他的耳膜，前一刹那笑脸小丑还在十几米外箭步开弓做着扩胸运动，下一刹那却彻底消失！",
+      "source_hash": "9322bd7d8f8e2fa0cc4a4827235abc7888dd183b40ee54c24a9c393da21ff510"
+    },
+    {
+      "segment_id": "chapter_0020:seg_0043",
+      "source": "李耀根本无法看穿笑脸小丑的运动轨迹，只感觉到整个胸口都传来针扎般的刺痛，似乎有一只无形的手在瞬间洞穿了三重防护，直插胸膛，狠狠攥住了他的心脏！",
+      "source_hash": "140f9f9aa672586dd422cb46972f32108605e40b7744f0be0a1f177ba685f005"
+    },
+    {
+      "segment_id": "chapter_0020:seg_0044",
+      "source": "“——什么鬼！”",
+      "source_hash": "ab57af4d0a3ee19de82a42638ec0cf9a2263c29dded0b88c1aadaf5dcc7d2b18"
     }
   ],
-  "locations": [],
+  "known_characters": [
+    {
+      "id": "protagonist_ly_dieu",
+      "name_source": "李耀",
+      "name_target": "Lý Diệu",
+      "name_aliases": [
+        "Thốc Thứu",
+        "Kền Kền",
+        "Âu Dã Minh"
+      ],
+      "gender": "male",
+      "age_group": "teenager",
+      "social_status": "Học sinh lớp thường / Thợ nhặt rác",
+      "base_archetype": "protagonist",
+      "speech_style": "Thẳng thắn, thực tế, hơi ngông cuồng của thiếu niên nhưng có suy nghĩ thấu đáo và kiên định.",
+      "first_appearance": {
+        "chapter": 1,
+        "context": "Xuất hiện nhặt rác tại Nghĩa địa Pháp Bảo"
+      },
+      "cultivation": {
+        "primary_system": "Linh căn khai phát / Cơ khí tu chân",
+        "current_realm": "Người thường (Linh căn khai phát 35%)",
+        "current_sub_stage": "",
+        "notes": "Linh căn khai phát ban đầu chỉ có 35% nhưng có tiềm năng tinh thần lực cực cao nhờ dị mộng."
+      },
+      "abilities": [
+        "Kỹ năng đua xe Trái Đất",
+        "Chế tạo cơ khí thủ công",
+        "Sửa chữa pháp bảo phế thải",
+        "Linh Xà Thân Pháp"
+      ],
+      "faction": {
+        "current": {
+          "name": "Xích Tiêu Nhị Trung",
+          "role": "Học sinh lớp thường"
+        },
+        "history": [
+          {
+            "name": "Trái Đất (kiếp trước)",
+            "role": "Tay đua xe chuyên nghiệp"
+          }
+        ]
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Thiếu niên 17 tuổi gầy gò, khỏe khoắn, da ngăm đen do dầm mưa dãi nắng ở nghĩa địa pháp bảo, đôi mắt sáng ngời sắc bén như chim ưng.",
+        "style": "Đồ lao động cũ kỹ bám đầy dầu mỡ, sau đó mặc đồng phục Xích Tiêu Nhị Trung.",
+        "distinctive": "Lòng bàn tay có nhiều vết chai sạn do sửa chữa cơ khí và vung búa rèn."
+      },
+      "personality": {
+        "traits": [
+          "Kiên trì",
+          "Thực tế",
+          "Thích tiền",
+          "Bền bỉ",
+          "Mưu mẹo"
+        ],
+        "speech": "Dứt khoát, thường xưng 'tôi' hoặc 'ta' tùy ngữ cảnh."
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "肥龙",
+      "name_target": "Phì Long",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Một thiếu niên mập mạp nhặt rác pháp bảo, đối thủ cạnh tranh thường xuyên của Lý Diệu tại nghĩa địa pháp bảo.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "ally_banh_hai",
+      "name_source": "彭海",
+      "name_target": "Bành Hải",
+      "name_aliases": [
+        "Yêu Đao"
+      ],
+      "gender": "male",
+      "age_group": "young_adult",
+      "social_status": "Cực phẩm tu chân giả / Đặc huấn viên",
+      "base_archetype": "mentor",
+      "speech_style": "Lạnh lùng, khí phách, uy nghiêm nhưng quan tâm đến việc bồi dưỡng thế hệ trẻ.",
+      "first_appearance": {
+        "chapter": 2,
+        "context": "Xuất hiện trên bản tin quang mạc, sau đó đến trường đặc huấn ch.4"
+      },
+      "cultivation": {
+        "primary_system": "Kiếm tu / Linh năng",
+        "current_realm": "Trúc Cơ Kỳ (Đỉnh phong)",
+        "current_sub_stage": "",
+        "notes": "Được coi là huyền thoại sống, cựu học sinh xuất sắc của Xích Tiêu Nhị Trung."
+      },
+      "abilities": [
+        "Yêu Đao Kiếm Pháp",
+        "Ngự kiếm phi hành"
+      ],
+      "faction": {
+        "current": {
+          "name": "Xích Tiêu Phái",
+          "role": "Chiến binh nòng cốt"
+        },
+        "history": [
+          {
+            "name": "Xích Tiêu Nhị Trung",
+            "role": "Học sinh lớp trọng điểm"
+          }
+        ]
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Thân hình cao lớn, thẳng tắp như một thanh kiếm báu, tỏa ra ánh mắt sắc bén lẫm liệt.",
+        "style": "Y phục chiến đấu gọn gàng, mang theo bội đao khí thế bức người.",
+        "distinctive": "Khí tràng lạnh lùng sắc bén bao quanh cơ thể."
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "npc_tieu_giai_tuyet",
+      "name_source": "司佳雪",
+      "name_target": "Tiêu Giai Tuyết",
+      "name_aliases": [
+        "Nữ thần Nhị Trung"
+      ],
+      "gender": "female",
+      "age_group": "teenager",
+      "social_status": "Học sinh lớp trọng điểm / Đại tiểu thư",
+      "base_archetype": "quest_giver",
+      "speech_style": "Kiêu kỳ, lịch thiệp nhưng ẩn chứa sự xa cách của giới thượng lưu.",
+      "first_appearance": {
+        "chapter": 7,
+        "context": "Đạt đồng hạng nhất khối thi thử và gặp Lý Diệu ở nhà kho cũ"
+      },
+      "cultivation": {
+        "primary_system": "Linh năng",
+        "current_realm": "Bán Tu Chân Giả (Linh căn khai phát 71%)",
+        "current_sub_stage": "",
+        "notes": "Gia thế hiển hách, có tài nguyên tu luyện phong phú."
+      },
+      "abilities": [
+        "Luyện khí thuật cơ bản",
+        "Tinh não Quảng Lăng số 7"
+      ],
+      "faction": {
+        "current": {
+          "name": "Xích Tiêu Nhị Trung",
+          "role": "Học sinh lớp trọng điểm (Đồng hạng nhất)"
+        },
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Xinh đẹp như hoa, làn da trắng ngần, phong thái thanh tao quý phái.",
+        "style": "Đồng phục nữ sinh tinh xảo của lớp trọng điểm, trang sức đắt tiền.",
+        "distinctive": "Luôn toát ra vẻ tự tin của con nhà tông môn."
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "赵馆长",
+      "name_target": "Triệu quán chủ",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "middle_aged",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": "Quân Đạo Sát Lang",
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Thường gọi là \"Lão giáo quan\", trạc độ 40-50 tuổi, cựu chiến binh của Đoàn Sói. Từng đạt Luyện Khí Kỳ tầng 13 nhưng bị mất cánh tay trái và vỡ tim 70% trong Chiến dịch Hắc Nhẫn để cứu Bành Hải, hiện dùng cánh tay máy linh năng và điều hành võ quán.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    }
+  ],
+  "known_worldbuilding": [
+    {
+      "section": "techniques",
+      "name_source": "第五套健身体操",
+      "name_target": "Bài thể dục nhịp điệu số năm",
+      "type": "Thể dục",
+      "description": "Bài tập thể dục cơ bản nhất do các chuyên gia tu luyện của Tinh Diệu Liên bang thiết kế, được dạy cho học sinh tiểu học để giãn gân cốt."
+    },
+    {
+      "section": "cultivation_resources",
+      "name_source": "强化药剂",
+      "name_target": "Dược chất cường hóa Linh Căn",
+      "type": "Linh dược",
+      "description": "Dược chất hóa học kết hợp linh thảo để kích thích đại não thức tỉnh linh căn. Thuốc lậu chợ đen có giá rẻ hơn nhưng mang lại tác dụng phụ cực kỳ đau đớn và nguy hiểm."
+    },
+    {
+      "section": "locations",
+      "name_source": "法宝坟墓",
+      "name_target": "Nghĩa địa Pháp Bảo",
+      "type": "Khu vực phế thải",
+      "description": "Bãi rác pháp bảo khổng lồ ở ngoại ô Phù Qua Thành, nơi chứa hàng triệu tấn linh kiện cơ khí tu chân hỏng hóc và các thùng rác linh năng."
+    },
+    {
+      "section": "items",
+      "name_source": "纹面符",
+      "name_target": "Văn Diện Phù",
+      "type": "Linh phù",
+      "description": "Một loại bùa chú dạng mặt nạ dính lên mặt, tạo ra các hoa văn kỳ dị giúp người dùng ẩn giấu thân phận trong khoảng 10 tiếng đồng hồ, phổ biến ở chợ đen."
+    }
+  ],
+  "heuristic_candidates": {
+    "characters": [
+      {
+        "source": "万块",
+        "entity_type": "person",
+        "count": 4,
+        "confidence": 0.7,
+        "evidence": [
+          "过三分钟，就能拿到一万块，不过若是撑不到三分",
+          "撑过三分钟，就能拿一万块？当陪练竟然这么赚钱",
+          "了司佳雪一刀，赚了十万块，可这种肥羊也不是随"
+        ]
+      },
+      {
+        "source": "都清楚",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.82,
+        "evidence": [
+          "：“来了？价钱什么的都清楚，没问题吧？”\n\n“",
+          "，没问题吧？”\n\n“都清楚，没问题，咱们直接交"
+        ]
+      }
+    ],
+    "organizations": [
+      {
+        "source": "关上了门",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "了一下，退出格斗室，关上了门。\n\n“真是业余级别"
+        ]
+      },
+      {
+        "source": "推开门",
+        "entity_type": "organization",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "光头纹面男一边说着，推开门，走进力量训练房。\n"
+        ]
+      }
+    ],
+    "locations": [],
+    "techniques": [
+      "不上是什么武技功法",
+      "丑还在十几米外箭步",
+      "他在法",
+      "又抡了一套王八拳",
+      "己的身体可是刚刚经",
+      "李耀根本无法",
+      "次痛宰了司佳雪一刀",
+      "脸小丑正保持在跨步",
+      "装出一副经"
+    ]
+  },
   "realms": [],
-  "techniques": [
-    "不上是什么武技功法",
-    "丑还在十几米外箭步",
-    "他在法",
-    "又抡了一套王八拳",
-    "己的身体可是刚刚经",
-    "李耀根本无法",
-    "次痛宰了司佳雪一刀",
-    "脸小丑正保持在跨步",
-    "装出一副经"
+  "matched_glossary_terms": [
+    {
+      "source": "法宝坟墓",
+      "target": "Nghĩa địa Pháp Bảo"
+    },
+    {
+      "source": "司佳雪",
+      "target": "Tiêu Giai Tuyết"
+    },
+    {
+      "source": "纹面符",
+      "target": "Văn Diện Phù"
+    },
+    {
+      "source": "彭海",
+      "target": "Bành Hải"
+    },
+    {
+      "source": "第五套健身体操",
+      "target": "Bài thể dục nhịp điệu số năm"
+    },
+    {
+      "source": "第九套健身体操",
+      "target": "Bài thể dục nhịp điệu số chín"
+    }
   ],
   "matched_locked_terms": [
     {
@@ -76,7 +591,16 @@
     {
       "source": "彭海",
       "target": "Bành Hải"
+    },
+    {
+      "source": "第五套健身体操",
+      "target": "Bài thể dục nhịp điệu số năm"
     }
   ],
-  "generated_at": "2026-05-30T05:40:13.757265+07:00"
+  "structural_hints": {
+    "has_dialogue": true,
+    "has_western_names": false,
+    "estimated_segments": 58
+  },
+  "generated_at": "2026-05-31T08:51:02.438638+07:00"
 }

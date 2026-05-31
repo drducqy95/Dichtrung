@@ -1,0 +1,1018 @@
+{
+  "schema_version": "2.0",
+  "branch": "Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan",
+  "chapter": 34,
+  "chapter_id": "chapter_0034",
+  "source_manifest_hash": "25e76a4f0c1ecac3a5e1e20970e9cb2cbf0784cd548a970077672c13a6160585",
+  "aligned_segments": [
+    {
+      "alignment_id": "chapter_0034:align_0001",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0001"
+      ],
+      "source": "# 34.第34章 凶兽出笼",
+      "source_hash": "7150561c8972fcdfdb11cf981ca4d7edac92dd0f0e1a6aca6bb4a4186eb2db5f",
+      "target": "# Chương 0034 - Hung Thú Ra Lồng",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0002",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0002"
+      ],
+      "source": "从这天起，赤霄二中就传出一个恐怖的校园传说。",
+      "source_hash": "860658bd3fb064817775b4a04bfd95329e09233b5c435db113528f1a8d88602e",
+      "target": "Kể từ ngày này, tại trường Xích Tiêu Nhị Trung truyền ra một truyền thuyết học đường khủng khiếp.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0003",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0003"
+      ],
+      "source": "“喂，你们听说‘那件事’了吗？”",
+      "source_hash": "dfbc998e5808b23bf26923e3311b66cc023a83991838588bbdf05440e1fec1cb",
+      "target": "\"Này, các cậu đã nghe nói về 'chuyện đó' chưa?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0004",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0004"
+      ],
+      "source": "“当然听说了啊，实在太可怕，太恐怖，太残暴了！”",
+      "source_hash": "1d5d117ea9c01ac748dacfa528713a3057ca0f4b7eab2ecde0ef4e97f17416d3",
+      "target": "\"Tất nhiên là nghe rồi, thực sự quá đáng sợ, quá khủng khiếp, quá tàn bạo!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0005",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0005"
+      ],
+      "source": "中午，在学校食堂里，几名女生窃窃私语，心有余悸。",
+      "source_hash": "49857465dfaec928bec70068df93016a5b2c7352f768cb6eb8be2ff11dcdf296",
+      "target": "Buổi trưa, trong nhà ăn của trường, mấy học sinh nữ bàn tán xôn xao, trong lòng vẫn còn sợ hãi.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0006",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0006"
+      ],
+      "source": "“你们在说什么事啊，怎么都吓得哆嗦起来了？”一名比较迟钝的女生疑惑道。",
+      "source_hash": "6db47e1b4b385833c67ecc9984d52c8e44ec8ee4aafcca57cfb92df59d4d7aed",
+      "target": "\"Các cậu đang nói chuyện gì thế, sao ai cũng sợ đến mức run cầm cập vậy?\" một nữ sinh hơi chậm chạp nghi hoặc hỏi.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0007",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0007"
+      ],
+      "source": "一名脸上长满雀斑的女生左右打量一番，压低声音，十分神秘地说：“你没听说吗？高三普通班里，有一个叫‘李耀’的倒霉鬼，不知怎么得罪了赫连烈，还把赫连烈的一个手下都打倒了，结果惹得赫连烈勃然大怒，变本加厉地折磨他，把他折磨得人不像人，鬼不像鬼！”",
+      "source_hash": "22ec303ac9695580af90c227cb2e70634e06b95b604a16822f21b9889dfeb7a1",
+      "target": "Một nữ sinh trên mặt đầy tàn nhang nhìn ngó xung quanh một lượt, hạ thấp giọng, vô cùng thần bí nói: \"Cậu chưa nghe nói sao? Ở lớp thường khối mười hai có một kẻ xui xẻo tên là 'Lý Diệu', không biết vì sao lại đắc tội với Hách Liên Liệt, còn đánh ngã một tay sai của Hách Liên Liệt, kết quả là chọc cho Hách Liên Liệt nổi trận lôi đình, ra sức hành hạ cậu ta, hành hạ đến mức người không ra người, quỷ không ra quỷ!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0008",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0008"
+      ],
+      "source": "“天哪，赫连烈，我的男神啊！究竟是怎么折磨他？”迟钝女生惊呼一声。",
+      "source_hash": "79e12bf8c5e370a2df5ba05a0141483081e0fa4c794561f83c874d431cc8acca",
+      "target": "\"Trời đất, Hách Liên Liệt, nam thần của tớ mà! Rốt cuộc là hành hạ thế nào?\" nữ sinh chậm chạp kinh hô một tiếng.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0009",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0009"
+      ],
+      "source": "雀斑女生连忙捂住她的嘴：“你小声点，这种事情怎么能大喊大叫呢？具体怎么折磨我们当然没亲眼看到啦，不过只要你看李耀一眼，就会知道得罪赫连烈的下场有多么凄惨了！”",
+      "source_hash": "ae7eaf3ac7a447d491e9b1671088b5eafae2b98de248df5e67198d7e04ec6601",
+      "target": "Nữ sinh tàn nhang vội vàng bịt miệng cô lại: \"Cậu nhỏ giọng một chút, chuyện này sao có thể la hét om sòm được chứ? Cụ thể hành hạ thế nào thì tất nhiên tụi mình chưa tận mắt nhìn thấy, nhưng chỉ cần cậu nhìn Lý Diệu một cái là sẽ biết kết cục của việc đắc tội Hách Liên Liệt thê thảm đến mức nào rồi!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0010",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0010"
+      ],
+      "source": "“没错，据说李耀被赫连烈关在后勤仓库里，不分日夜地折磨，有一次我从后勤仓库后面的小巷路过，听到仓库里传来一阵‘啊啊啊啊’的惨叫声，那叫声简直像是从阴曹地府传出来的，别提多么恐怖，吓得我魂飞魄散，连鞋都掉了一只，不敢回去捡呢！”另一名胖乎乎的女生证实。",
+      "source_hash": "744847cf50412fd5ff55e245ac6b32cf111ec2955831cbeaac7e51b2ef7cbd97",
+      "target": "\"Đúng vậy, nghe nói Lý Diệu bị Hách Liên Liệt nhốt ở nhà kho hậu cần, ngày đêm hành hạ. Có một lần tớ đi ngang qua con hẻm nhỏ phía sau nhà kho hậu cần, nghe thấy bên trong kho truyền ra một chuỗi tiếng thét thảm thiết 'a a a a', tiếng thét đó quả thực giống như từ âm tào địa phủ truyền tới vậy, khỏi phải nói là khủng khiếp thế nào, làm tớ sợ đến mức hồn bay phách lạc, ngay cả một chiếc giày bị rơi cũng không dám quay lại nhặt!\" một nữ sinh mập mạp khác xác nhận.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0011",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0011"
+      ],
+      "source": "“有你们说的这么夸张吗？”迟钝女生狐疑。",
+      "source_hash": "9720a9538e1cc5a1084bb392adcc9a04237ab01bb8ce0440e6b42806915d1347",
+      "target": "\"Có phóng đại như các cậu nói không đấy?\" nữ sinh chậm chạp hồ nghi.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0012",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0012"
+      ],
+      "source": "就在这时，一名鼻青脸肿，满脸憔悴，筋疲力尽的男生，颤颤巍巍、踉踉跄跄、步履蹒跚地从他们身后走过，一屁股坐在不远处，整个人像烂泥似的趴在桌上。",
+      "source_hash": "74204ab66da9ee9f7fab31260010cae739425e19bf78c178d3954d322f00e1f9",
+      "target": "Ngay lúc này, một nam sinh mặt mũi bầm dập, sắc mặt tiều tụy, sức cùng lực kiệt, run rẩy đi lảo đảo, bước chân tập tễnh đi ngang qua phía sau họ, ngồi phịch xuống cách đó không xa, cả người như vũng bùn nhão nằm úp sấp trên bàn.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0013",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0013"
+      ],
+      "source": "“看，那就是李耀！”雀斑女生眼前一亮，赶紧捅了捅迟钝女生。",
+      "source_hash": "d534310a9df12ef324379397dd12ee9bf043d355f780818758d4aa5d361eb7bf",
+      "target": "\"Xem kìa, đó chính là Lý Diệu!\" Nữ sinh tàn nhang mắt sáng lên, vội vàng thúc thúc nữ sinh chậm chạp.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0014",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0014"
+      ],
+      "source": "迟钝女生扭头一看，不由惊叹：“天哪，简直比你们说的更夸张，整张脸都变成猪头了！快看，他浑身上下都在不停发抖，两只手上也全是血泡，还在流血，真恐怖！”",
+      "source_hash": "90664882bd6fec0911a4ad4a57c314da97a14d6545677845dc2b4d3dce487223",
+      "target": "Nữ sinh chậm chạp quay đầu nhìn lại, không khỏi kinh thán: \"Trời đất, quả thực còn phóng đại hơn cả các cậu nói nữa, cả khuôn mặt đều sưng vù như đầu heo rồi! Mau nhìn kìa, toàn thân cậu ta không ngừng run rẩy, hai bàn tay cũng đầy mụn máu, vẫn đang chảy máu, thật đáng sợ!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0015",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0015"
+      ],
+      "source": "正说着，李耀忽然一阵剧烈抽搐，连脑袋都晃起来。",
+      "source_hash": "acb27b912444890fb3b434033598a1342443a6ff7a03498d8830e2b73a882b06",
+      "target": "Đang nói chuyện, Lý Diệu bỗng nhiên lên cơn co giật dữ dội, ngay cả đầu cũng lắc lư theo.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0016",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0016"
+      ],
+      "source": "“看到了吧，这是被打出了癫痫症状。”雀斑女生小声道。",
+      "source_hash": "0b9210ed2b446d06ab105c9f94929513ea630f0f6a32b90c028fe75517c1cdd3",
+      "target": "\"Thấy chưa, đây là bị đánh đến mức xuất hiện triệu chứng động kinh rồi.\" Nữ sinh tàn nhang nói nhỏ.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0017",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0017"
+      ],
+      "source": "而在李耀对面，死党孟江给他端来了午饭：总计十根手臂粗细的香肠，二十颗狮子头，一大木桶饭，还有十块军工厂出品的准军用级压缩饼干。",
+      "source_hash": "6af541d674524037f39248f23984ee02683406bade5922608c1e2b2532a359d4",
+      "target": "Còn ở phía đối diện Lý Diệu, chí cốt Mạnh Giang bưng cơm trưa đến cho cậu: tổng cộng mười cây xúc xích to bằng cánh tay, hai mươi viên thịt viên sư tử đầu, một thùng gỗ cơm lớn, cùng với mười bánh quy nén cấp chuẩn quân dụng do công xưởng quân đội sản xuất.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0018",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0018"
+      ],
+      "source": "“小妖，你别骗我，你真是在接受孙老的特训，不是被赫连烈找人打的吧？”孟江又一次问道，眼中满是狐疑。",
+      "source_hash": "0e461db26342272c4fb716a4540875eb3022f4bbc0311527defa470487d087a8",
+      "target": "\"Tiểu Yêu, cậu đừng lừa tớ, cậu thực sự đang tiếp nhận đặc huấn của Tôn lão, chứ không phải bị Hách Liên Liệt tìm người đánh đó chứ?\" Mạnh Giang lại hỏi một lần nữa, trong mắt đầy vẻ hồ nghi.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0019",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0019"
+      ],
+      "source": "李耀咧嘴一笑，笑得比哭还难看，连说话的力气都没有了。",
+      "source_hash": "0434f82b540a530f064f0152dfc99cb5c0bdaa9ff3081969cd45c296c9abf31a",
+      "target": "Lý Diệu nhe răng cười một cái, nụ cười còn khó coi hơn cả khóc, đến cả sức lực để nói chuyện cũng không có.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0020",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0020"
+      ],
+      "source": "“早知如此，还不如让赫连烈打一顿呢！”死党孟江长长叹了口气。",
+      "source_hash": "89da8b628027676ba4ee5e70135917ae0da8eeeb7cc18602fc446447cc66e4fa",
+      "target": "\"Biết thế này, thà để Hách Liên Liệt đánh cho một trận còn hơn!\" Chí cốt Mạnh Giang thở dài một hơi thật dài.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0021",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0021"
+      ],
+      "source": "不远处，女生们继续交头接耳。",
+      "source_hash": "98534d9d5f55535e0b907348d13baa08e78aa21273d78d69d85e770b0912a832",
+      "target": "Cách đó không xa, các nữ sinh tiếp tục rỉ tai nhau.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0022",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0022"
+      ],
+      "source": "“他怎么吃这么多，简直是个怪物！”迟钝女生道。",
+      "source_hash": "7e8520496a032f25e19bceb5e48db24cbf6729d85f48cde39226e03789d1dc00",
+      "target": "\"Sao cậu ta ăn nhiều thế, đúng là một quái vật!\" nữ sinh chậm chạp nói.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0023",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0023"
+      ],
+      "source": "“这个我知道！”",
+      "source_hash": "addf7b98c6fc7bee2ff6e8f5f96e15fbb4cea701347821b6694b0a38916b6b32",
+      "target": "\"Cái này tớ biết!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0024",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0024"
+      ],
+      "source": "胖乎乎的女生有些不好意思地说，“从心理学的角度来说，人一旦精神压力过大，就会不由自主胃口大开，用过量食物来缓解紧张，我就是因为家里父母经常吵架，弄得我整天抑郁，才会不由自主，越吃越多，不过——”",
+      "source_hash": "0dbddb19ba2c6341ac9c575f001517c6ea1a951f954040a9f69ea7657b5c4989",
+      "target": "Nữ sinh mập mạp có chút ngại ngùng nói, \"Dưới góc độ tâm lý học mà nói, một khi áp lực tinh thần của con người quá lớn, sẽ không tự chủ được mà ăn uống thả ga, dùng lượng thức ăn quá mức để giảm bớt căng thẳng. Tớ chính là vì bố mẹ ở nhà thường xuyên cãi nhau, khiến tớ cả ngày u uất, mới không tự chủ được càng ăn càng nhiều, nhưng mà...\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0025",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0025"
+      ],
+      "source": "胖乎乎的女生看了一眼自己盘子里的两根香肠，三颗狮子头和一大碗饭，再看看李耀面前堆起的大肉山，下了结论，“看他这个吃法，应该已经到了晚期，精神濒临崩溃了！”",
+      "source_hash": "117eb4793eba59f4bdb641a81fb4fa0640b1d678cf3ff86c1e7750af96be6f0f",
+      "target": "Nữ sinh mập mạp nhìn thoáng qua hai cây xúc xích, ba viên thịt sư tử đầu và một bát cơm lớn trong đĩa của mình, lại nhìn núi thịt lớn chất đống trước mặt Lý Diệu, đưa ra kết luận, \"Nhìn cách ăn này của cậu ta, chắc chắn đã đến giai đoạn cuối, tinh thần sắp sụp đổ rồi!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0026",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0026"
+      ],
+      "source": "“真可怜啊！”迟钝女生看着李耀不时抽搐的身影，眼中充满了怜悯。",
+      "source_hash": "6f26bbbf0e81a61cb4fc715e39f51b5d0c76e0a74bcb4acf87cf60029c0d567e",
+      "target": "\"Thật đáng thương quá!\" Nữ sinh chậm chạp nhìn bóng dáng thỉnh thoảng lại co giật của Lý Diệu, trong mắt tràn đầy sự thương hại.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0027",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0027"
+      ],
+      "source": "“所以说，在我们学校，惹谁都可以，就是不能招惹赫连烈，就算一不小心真的得罪了赫连烈，也要马上求饶，千万不要反抗，否则——这个倒霉鬼就是下场！”雀斑女生认真道。",
+      "source_hash": "12faa99caaf0c9b6539ed3447af91324f663547f4d6641663818bb781b56861e",
+      "target": "\"Cho nên mới nói, ở trường của tụi mình, chọc vào ai cũng được, chứ tuyệt đối không được chọc vào Hách Liên Liệt. Cho dù không cẩn thận thật sự đắc tội Hách Liên Liệt thì cũng phải lập tức cầu xin tha thứ, vạn lần không được phản kháng, nếu không... kết cục của kẻ xui xẻo này chính là gương điển hình!\" Nữ sinh tàn nhang nghiêm túc nói.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0028",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0028"
+      ],
+      "source": "这是赤霄二中全体学生，在看到了李耀的“悲惨遭遇”之后，共同的结论。",
+      "source_hash": "c00bfcbe0d3d33d8cd71b63a81c3c2db0e95259e2c8bb5b611c1710ff47db724",
+      "target": "Đây là kết luận chung của toàn thể học sinh trường Xích Tiêu Nhị Trung sau khi nhìn thấy \"cảnh ngộ bi thảm\" của Lý Diệu.",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0029",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0029"
+      ],
+      "source": "不过，在孙彪和彭海的灵鹤传书中，李耀又被描述成了另一副截然不同的形象。",
+      "source_hash": "9c4775e56eafe002ec1d488a9ab4151bf60b259a9c218a64f6f7bde082f42836",
+      "target": "Thế nhưng, trong Linh Hạc Truyền Thư giữa Tôn Bưu và Bành Hải, Lý Diệu lại được mô tả thành một hình tượng hoàn toàn khác biệt.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0030",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0030"
+      ],
+      "source": "特训第七日，孙彪和彭海的聊天记录。",
+      "source_hash": "611a7259b14139bd0443e7d1189f24f157a91d503518d2a121faa426fc19c104",
+      "target": "Đặc huấn ngày thứ bảy, nhật ký trò chuyện giữa Tôn Bưu và Bành Hải.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0031",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0031"
+      ],
+      "source": "孙彪：“不是人！这小子肯定不是人！只不过才开始特训七天，他就把‘放弃’的重力场提升到四百公斤，完成了全部训练！就算我把所有训练内容都加了20%的量，也没能难住他！你呢，阿海，你这里情况怎么样？”",
+      "source_hash": "1cf7ae5afa011598baa1b79dedc3e80c551b2252b8449dd18e3ce4e73daa1c60",
+      "target": "Tôn Bưu: \"Không phải người! Thằng nhóc này chắc chắn không phải người! Chỉ mới bắt đầu đặc huấn bảy ngày, nó đã nâng trường trọng lực của 'Từ Bỏ' lên bốn trăm kg, hoàn thành toàn bộ huấn luyện! Cho dù ta có tăng thêm 20% lượng huấn luyện vào tất cả nội dung, cũng không làm khó được nó! Còn cậu thì sao, A Hải, tình hình chỗ cậu thế nào rồi?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0032",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0032"
+      ],
+      "source": "彭海：“别提了，昨晚他和我足足打满了十分钟，有好几次我差点被他打中了，虽然我只发挥了3%的实力，这种感觉也实在太……不爽！不过总算，在他的威胁下，我对自身力量的控制力，也有了大幅增长！”",
+      "source_hash": "e25bbb44d49a83d0d23c1c4efa3d54341118e220761034cda5bb8ce43f5fecf7",
+      "target": "Bành Hải: \"Đừng nhắc nữa, tối qua nó và em đã đánh ròng rã suốt mười phút, có mấy lần em suýt chút nữa bị nó đánh trúng. Dù em chỉ phát huy 3% thực lực, nhưng cảm giác này thực sự quá... khó chịu! Tuy nhiên chung quy lại, dưới sự uy hiếp của nó, khả năng khống chế sức mạnh bản thân của em cũng tăng trưởng đáng kể!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0033",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0033"
+      ],
+      "source": "……",
+      "source_hash": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+      "target": "......",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0034",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0034"
+      ],
+      "source": "特训第十三日，孙彪和彭海的聊天记录。",
+      "source_hash": "d0c758b3019cdfb51528f39efa337b8916c7b902f58d11658f80f6d17d96641f",
+      "target": "Đặc huấn ngày thứ mười ba, nhật ký trò chuyện giữa Tôn Bưu và Bành Hải.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0035",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0035"
+      ],
+      "source": "孙彪：“这小子今天扛着五百公斤负重，完成了平常两天的训练量，对了，他的灵根开发度在短短十三天内，提升了4%，达到62%，这还是人？喂，阿海，说话，你怎么不说话！”",
+      "source_hash": "75aa6e1272583f6732b1c4f6933fd2ea72ff47f2cab59fb2dd5b3754a5ecd1b2",
+      "target": "Tôn Bưu: \"Thằng nhóc này hôm nay gánh tạ nặng năm trăm kg, hoàn thành lượng huấn luyện của hai ngày bình thường. Đúng rồi, độ khai phát linh căn của nó trong vòng vỏn vẹn mười ba ngày đã tăng thêm 4%, đạt tới 62%, đây mà là người sao? Này, A Hải, nói đi chứ, sao cậu không nói gì thế!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0036",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0036"
+      ],
+      "source": "彭海：“我昨晚被他打中一拳，小腹。”",
+      "source_hash": "7a4ab6b676b256dae89a7c35edee86255fa21c92d6547c9c40e6bfb7545ae1f8",
+      "target": "Bành Hải: \"Tối qua em bị nó đấm trúng một cú vào bụng dưới.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0037",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0037"
+      ],
+      "source": "孙彪：“……”",
+      "source_hash": "378f6da0e12a3ddc465b9aec2eb77a96a3cf157f76b022c444b050af3374f9d3",
+      "target": "Tôn Bưu: \"......\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0038",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0038"
+      ],
+      "source": "彭海：“……”",
+      "source_hash": "61cb24fdb8825b7a9efcc4fd187fa58f3e80a552d3cb8753f46f88817d9ca1c3",
+      "target": "Bành Hải: \"......\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0039",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0039"
+      ],
+      "source": "孙彪：“哈哈哈哈哈哈哈，我是修真界败类，你简直就是修真界之耻啊，竟然被一个普通人打中！”",
+      "source_hash": "4d028ff27b1b7a6be8cd5936f9e96b4d403af0a14c82fb33b634565885969a2c",
+      "target": "Tôn Bưu: \"Ha ha ha ha ha ha ha, ta là bại hoại giới Tu Chân, còn cậu quả thực là nỗi sỉ nhục của giới Tu Chân đó, thế mà lại bị một người thường đấm trúng!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0040",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0040"
+      ],
+      "source": "彭海：“我只发挥了3%的实力！不是3%的力量，而是听觉、视觉、嗅觉、速度，一切的一切，都只发挥了3%！被他误打误撞轰中一拳也很正常！不行，今晚我要用4%的实力来和他打！”",
+      "source_hash": "2c6dfa9ffa200163adfdcbec33a61b9b13711825e495c4205db6a7173aecbc15",
+      "target": "Bành Hải: \"Em chỉ phát huy 3% thực lực thôi! Không phải 3% sức mạnh, mà là thính giác, thị giác, khứu giác, tốc độ, tất cả mọi thứ đều chỉ phát huy 3%! Bị nó vô tình đấm trúng một cú cũng rất bình thường! Không được, tối nay em phải dùng 4% thực lực đấu với nó!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0041",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0041"
+      ],
+      "source": "孙彪：“那你的‘力量控制修炼’怎么办？”",
+      "source_hash": "93201ad873aa7f56736c6e2d652b19724fecb39bcb3916ce43677bd9d58c02f1",
+      "target": "Tôn Bưu: \"Thế còn việc 'tu luyện khống chế sức mạnh' của cậu thì sao?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0042",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0042"
+      ],
+      "source": "彭海：“去\\*\\*\\*\\*\\*\\*力量控制修炼，老子要先爽一爽！”",
+      "source_hash": "2856520b293ed0c92db067c7ab876b5afd11a3f795e57a290632087935dd82ef",
+      "target": "Bành Hải: \"Mặc kệ cái tu luyện khống chế sức mạnh gì đó đi, lão tử phải sướng trước đã!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0043",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0043"
+      ],
+      "source": "……",
+      "source_hash": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+      "target": "......",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0044",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0044"
+      ],
+      "source": "特训第二十五日，孙彪和彭海的聊天记录。",
+      "source_hash": "df1b52b23c7379480382316b3b6e6e8ec063dab587fd48297a4c45edfad225ae",
+      "target": "Đặc huấn ngày thứ hai mươi lăm, nhật ký trò chuyện giữa Tôn Bưu và Bành Hải.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0045",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0045"
+      ],
+      "source": "孙彪：“我已经把‘放弃’的全部神通都激发到了极限，基本上和你当年的训练难度相当，可这小子还是硬生生地扛了下来，实在太可怕！他咬牙切齿的时候，我都有些不敢看他的眼神，你说——我是不是应该抽点他的血去化验一下？”",
+      "source_hash": "7eabcf5aa058a872d9538f36e845e94a5e35cdd4491e2a6ccd97722246f0f842",
+      "target": "Tôn Bưu: \"Ta đã kích hoạt toàn bộ thần thông của 'Từ Bỏ' đến giới hạn cực đại, về cơ bản tương đương với độ khó huấn luyện của cậu năm đó, nhưng thằng nhóc này vẫn cắn răng gánh chịu được, thực sự quá đáng sợ! Lúc nó nghiến răng nghiến lợi, ta đều có chút không dám nhìn thẳng vào ánh mắt của nó. Cậu nói xem... ta có nên rút chút máu của nó mang đi xét nghiệm không?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0046",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0046"
+      ],
+      "source": "彭海：“化验，为什么？”",
+      "source_hash": "70d4d1d6c7d66595e0b293ae24918035a00a64456995b380c89fc91dad6cb61b",
+      "target": "Bành Hải: \"Xét nghiệm, để làm gì?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0047",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0047"
+      ],
+      "source": "孙彪：“这小子绝对有妖兽血统，他就是一头不折不扣的凶兽！”",
+      "source_hash": "19048de1e8348c7d463105412efb3406e9e5ba6fa83c2639d76e328378061025",
+      "target": "Tôn Bưu: \"Thằng nhóc này tuyệt đối có huyết thống Yêu thú, nó chính là một con hung thú không hơn không kém!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0048",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0048"
+      ],
+      "source": "……",
+      "source_hash": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+      "target": "......",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0049",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0049"
+      ],
+      "source": "特训最后一日，孙彪和彭海的聊天记录。",
+      "source_hash": "66b756211a688aea9e39aa8403a4530d0b7e5697b41f1186f40f45e8dc6c40e1",
+      "target": "Đặc huấn ngày cuối cùng, nhật ký trò chuyện giữa Tôn Bưu và Bành Hải.",
+      "narrative_type": "narration",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0050",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0050"
+      ],
+      "source": "彭海：“最后一天了吧？再过几个钟头，就是‘激战时刻’，上千名高三学生争抢十张准考证，怎么样，这小子状态如何？”",
+      "source_hash": "377031ad7936caa4df1982c39e8f67a65bbde23c038ed69bba7226245c83d963",
+      "target": "Bành Hải: \"Ngày cuối cùng rồi phải không? Chỉ còn vài giờ nữa là tới 'thời khắc kịch chiến', hàng ngàn học sinh khối mười hai tranh đoạt mười tấm thẻ dự thi, thế nào, trạng thái của nhóc đó ra sao?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0051",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0051"
+      ],
+      "source": "孙彪：“不好说，我有些不敢放他出去了。”",
+      "source_hash": "128baa8e6e01bbc5d7a37f6a37dbfcbfd16f55223e2e1406ef0c30dadf377702",
+      "target": "Tôn Bưu: \"Khó nói lắm, ta có chút không dám thả nó ra ngoài.\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0052",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0052"
+      ],
+      "source": "彭海：“为什么？”",
+      "source_hash": "76ee82e9e11a67d1c770f07e1b8262c0b58fe6565431f45c3fb90d31f9eeb1d6",
+      "target": "Bành Hải: \"Sao thế?\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    },
+    {
+      "alignment_id": "chapter_0034:align_0053",
+      "chapter_id": "chapter_0034",
+      "segment_ids": [
+        "chapter_0034:seg_0053"
+      ],
+      "source": "孙彪：“我怕这头凶兽出笼，把整个学校都给轰上天啊！”",
+      "source_hash": "2138cc9eaec1fdc5b49ac2c4d122260b5a9b62bcadca4047de336224537bbe1c",
+      "target": "Tôn Bưu: \"Ta sợ con hung thú này sổng chuồng sẽ san phẳng cả ngôi trường này mất!\"",
+      "narrative_type": "dialogue",
+      "alignment_type": "one_to_one"
+    }
+  ],
+  "term_occurrences": [
+    {
+      "chapter_id": "chapter_0034",
+      "source_term": "赤霄二中",
+      "target_term": "Xích Tiêu Nhị Trung",
+      "segment_id": "chapter_0034:seg_0002",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0034",
+      "source_term": "普通班",
+      "target_term": "lớp thường",
+      "segment_id": "chapter_0034:seg_0007",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "faction",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0034",
+      "source_term": "灵根",
+      "target_term": "Linh căn",
+      "segment_id": "chapter_0034:seg_0035",
+      "present_in_target": false,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0034",
+      "source_term": "灵根开发度",
+      "target_term": "độ khai phát linh căn",
+      "segment_id": "chapter_0034:seg_0035",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0034",
+      "source_term": "彭海",
+      "target_term": "Bành Hải",
+      "segment_id": "chapter_0034:seg_0029",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0034",
+      "source_term": "孙彪",
+      "target_term": "Tôn Bưu",
+      "segment_id": "chapter_0034:seg_0029",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0034",
+      "source_term": "孙老",
+      "target_term": "Tôn lão",
+      "segment_id": "chapter_0034:seg_0018",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "character",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0034",
+      "source_term": "准考证",
+      "target_term": "thẻ dự thi",
+      "segment_id": "chapter_0034:seg_0050",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0034",
+      "source_term": "放弃",
+      "target_term": "Từ Bỏ",
+      "segment_id": "chapter_0034:seg_0031",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0034",
+      "source_term": "修真界败类",
+      "target_term": "Bại hoại giới Tu Chân",
+      "segment_id": "chapter_0034:seg_0039",
+      "present_in_target": false,
+      "is_locked": false,
+      "category": "general",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0034",
+      "source_term": "灵鹤传书",
+      "target_term": "Linh Hạc Truyền Thư",
+      "segment_id": "chapter_0034:seg_0029",
+      "present_in_target": true,
+      "is_locked": false,
+      "category": "item",
+      "confidence": 1.0
+    }
+  ],
+  "entity_mentions": [
+    {
+      "chapter_id": "chapter_0034",
+      "source_surface": "李耀",
+      "target_surface": "Lý Diệu",
+      "entity_type": "person",
+      "segment_id": "chapter_0034:seg_0007",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0034",
+      "source_surface": "彭海",
+      "target_surface": "Bành Hải",
+      "entity_type": "person",
+      "segment_id": "chapter_0034:seg_0029",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0034",
+      "source_surface": "孟江",
+      "target_surface": "Mạnh Giang",
+      "entity_type": "person",
+      "segment_id": "chapter_0034:seg_0017",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0034",
+      "source_surface": "赫连烈",
+      "target_surface": "Hách Liên Liệt",
+      "entity_type": "person",
+      "segment_id": "chapter_0034:seg_0007",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0034",
+      "source_surface": "孙彪",
+      "target_surface": "Tôn Bưu",
+      "entity_type": "person",
+      "segment_id": "chapter_0034:seg_0029",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0034",
+      "source_surface": "放弃",
+      "target_surface": "Từ Bỏ",
+      "entity_type": "items",
+      "segment_id": "chapter_0034:seg_0031",
+      "confidence": 1.0
+    },
+    {
+      "chapter_id": "chapter_0034",
+      "source_surface": "灵鹤传书",
+      "target_surface": "Linh Hạc Truyền Thư",
+      "entity_type": "items",
+      "segment_id": "chapter_0034:seg_0029",
+      "confidence": 1.0
+    }
+  ],
+  "name_analysis": {
+    "status": "ok",
+    "evidence_count": 5,
+    "name_mentions": [
+      {
+        "chapter_id": "chapter_0034",
+        "name_source": "李耀",
+        "name_target": "Lý Diệu",
+        "segment_id": "chapter_0034:seg_0007",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0034",
+        "name_source": "彭海",
+        "name_target": "Bành Hải",
+        "segment_id": "chapter_0034:seg_0029",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0034",
+        "name_source": "孟江",
+        "name_target": "Mạnh Giang",
+        "segment_id": "chapter_0034:seg_0017",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0034",
+        "name_source": "赫连烈",
+        "name_target": "Hách Liên Liệt",
+        "segment_id": "chapter_0034:seg_0007",
+        "present_in_target": true,
+        "confidence": 1.0
+      },
+      {
+        "chapter_id": "chapter_0034",
+        "name_source": "孙彪",
+        "name_target": "Tôn Bưu",
+        "segment_id": "chapter_0034:seg_0029",
+        "present_in_target": true,
+        "confidence": 1.0
+      }
+    ],
+    "name_entries": [
+      {
+        "name_source": "李耀",
+        "name_target": "Lý Diệu"
+      },
+      {
+        "name_source": "彭海",
+        "name_target": "Bành Hải"
+      },
+      {
+        "name_source": "孟江",
+        "name_target": "Mạnh Giang"
+      },
+      {
+        "name_source": "赫连烈",
+        "name_target": "Hách Liên Liệt"
+      },
+      {
+        "name_source": "孙彪",
+        "name_target": "Tôn Bưu"
+      }
+    ],
+    "transliteration_units": [],
+    "inferred_name_rules": [],
+    "ambiguity_cases": [],
+    "reusable_name_profile": {
+      "mapping_count": 5,
+      "has_ambiguity": false
+    }
+  },
+  "phrase_patterns": [],
+  "grammar_rule_candidates": [],
+  "analyzer_reports": {
+    "term_occurrences": {
+      "status": "ok",
+      "evidence_count": 11
+    },
+    "entity_mentions": {
+      "status": "ok",
+      "evidence_count": 7
+    },
+    "name_mentions": {
+      "status": "ok",
+      "evidence_count": 5
+    },
+    "phrase_patterns": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    },
+    "grammar_rule_candidates": {
+      "status": "no_evidence",
+      "evidence_count": 0
+    }
+  },
+  "review_queue": [
+    {
+      "chapter_id": "chapter_0034",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "孙彪",
+        "entity_type": "person",
+        "count": 9,
+        "confidence": 0.7,
+        "evidence": [
+          "彭海的聊天记录。\n\n孙彪：“不是人！这小子肯",
+          "彭海的聊天记录。\n\n孙彪：“这小子今天扛着五",
+          "中一拳，小腹。”\n\n孙彪：“……”\n\n彭海："
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0034",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "彭海",
+        "entity_type": "person",
+        "count": 8,
+        "confidence": 0.7,
+        "evidence": [
+          "里情况怎么样？”\n\n彭海：“别提了，昨晚他和",
+          "你怎么不说话！”\n\n彭海：“我昨晚被他打中一",
+          "\n孙彪：“……”\n\n彭海：“……”\n\n孙彪："
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0034",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "连烈",
+        "entity_type": "person",
+        "count": 4,
+        "confidence": 0.7,
+        "evidence": [
+          "鬼，不知怎么得罪了赫连烈，还把赫连烈的一个手",
+          "鬼！”\n\n“天哪，赫连烈，我的男神啊！究竟是",
+          "可以，就是不能招惹赫连烈，就算一不小心真的得"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0034",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "彭海",
+        "entity_type": "location",
+        "count": 8,
+        "confidence": 0.78,
+        "evidence": [
+          "。\n\n不过，在孙彪和彭海的灵鹤传书中，李耀又"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0034",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "阿海",
+        "entity_type": "location",
+        "count": 2,
+        "confidence": 0.78,
+        "evidence": [
+          "也没能难住他！你呢，阿海，你这里情况怎么样？"
+        ]
+      }
+    },
+    {
+      "chapter_id": "chapter_0034",
+      "kind": "heuristic_candidate",
+      "reason": "Source heuristic is review-only and is not hard evidence.",
+      "payload": {
+        "source": "再看看李耀面前堆起的大肉山",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "颗狮子头和一大碗饭，再看看李耀面前堆起的大肉山，下了结论，“看他这"
+        ]
+      }
+    }
+  ],
+  "quality_audit": {
+    "segment_coverage": 1.0,
+    "source_hash_match": true,
+    "target_reconstruction_match": true,
+    "invalid_ref_count": 0,
+    "locked_term_hit_rate": 1.0,
+    "missing_locked_terms": [],
+    "cjk_residue_count": 0,
+    "paragraph_drift_ratio": 0.0,
+    "pronoun_consistency_score": 1.0,
+    "warnings": []
+  }
+}

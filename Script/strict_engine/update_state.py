@@ -324,17 +324,11 @@ def update_state(branch_name: str, chapter: int) -> bool:
             ctx_end = min(len(translated_text), i + 10)
             _cjk_found.append(f"U+{cp:04X} '{ch}' @{i}: ...{translated_text[ctx_start:ctx_end]}...")
     if _cjk_found:
-        LOGGER.warning(
-            "CJK characters detected in ch.%d output (%d chars). Auto-removing. Details:\n  %s",
+        LOGGER.error(
+            "CJK characters detected in ch.%d output (%d chars). State update aborted. Details:\n  %s",
             chapter, len(_cjk_found), "\n  ".join(_cjk_found[:10])
         )
-        # Auto-strip CJK characters from the translated text
-        translated_text = "".join(
-            ch for ch in translated_text
-            if not (0x4E00 <= ord(ch) <= 0x9FFF or 0x3400 <= ord(ch) <= 0x4DBF
-                    or 0x20000 <= ord(ch) <= 0x2A6DF or 0xF900 <= ord(ch) <= 0xFAFF
-                    or 0x2E80 <= ord(ch) <= 0x2EFF or 0x2F00 <= ord(ch) <= 0x2FDF)
-        )
+        return False
     # ── End CJK Safety Net ──
 
     # Format the markdown content
