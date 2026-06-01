@@ -1,15 +1,17 @@
 {
   "metadata": {
     "project_title": "Tu Chân Bốn Vạn Năm",
-    "generated_at": "2026-06-01T09:35:01+07:00"
+    "generated_at": "2026-06-01T09:50:47+07:00"
   },
   "requirements": {
     "toc_required": true,
     "illustrations_required": true
   },
   "cover": {
-    "status": "prompt_ready",
-    "asset_candidates": [],
+    "status": "asset_ready",
+    "asset_candidates": [
+      "illustrations/cover/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan.png"
+    ],
     "slot_paths": [
       "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/cover/cover.jpg",
       "Output/Tu Chan Bon Van Nam_Ngoa Nguu Chan Nhan/illustrations/cover/cover.png",

@@ -1,15 +1,17 @@
 {
   "metadata": {
     "project_title": "Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới",
-    "generated_at": "2026-06-01T09:35:01+07:00"
+    "generated_at": "2026-06-01T09:50:48+07:00"
   },
   "requirements": {
     "toc_required": true,
     "illustrations_required": true
   },
   "cover": {
-    "status": "prompt_ready",
-    "asset_candidates": [],
+    "status": "asset_ready",
+    "asset_candidates": [
+      "illustrations/cover/Vu Su Tu Thai Duong Chi Tu.png"
+    ],
     "slot_paths": [
       "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/cover/cover.jpg",
       "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/cover/cover.png",
