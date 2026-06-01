@@ -50,3 +50,23 @@
 - Chương 0048: Điều chế dược tể
 - Chương 0049: Điều chế thành công
 - Chương 0050: Nhiệm vụ nguy hiểm
+- Chương 0051: Bắt đầu
+- Chương 0052: Bẫy
+- Chương 0053: Phân chia chiến lợi phẩm
+- Chương 0054: Lần đầu gặp học đồ Hắc vu sư
+- Chương 0055: Vu khí, miểu sát
+- Chương 0056: Trở về trường
+- Chương 0057: Thí nghiệm
+- Chương 0058: Dung hợp gen
+- Chương 0059: Khế ước
+- Chương 0060: Dược tể
+- Chương 0061: Rời đi
+- Chương 0062: Hành trình
+- Chương 0063: Thử nghiệm nguyền rủa
+- Chương 0064: Chào đón
+- Chương 0065: Ý tưởng về kỵ sĩ
+- Chương 0066: Thí nghiệm kỵ sĩ
+- Chương 0067: Tấn cấp
+- Chương 0068: Trùng cộng sinh
+- Chương 0069: Vị khách không mời mà đến
+- Chương 0070: Kịch chiến

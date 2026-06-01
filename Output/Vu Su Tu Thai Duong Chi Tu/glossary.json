@@ -3,8 +3,8 @@
     "version": "2.0",
     "schema": "gold",
     "branch": "Vu Su Tu Thai Duong Chi Tu",
-    "last_updated": "2026-06-01T06:18:01.546116+07:00",
-    "total_entries": 1377
+    "last_updated": "2026-06-01T09:31:10.759359+07:00",
+    "total_entries": 1406
   },
   "entries": [
     {
@@ -12827,7 +12827,8 @@
         "chapter_0019",
         "chapter_0020",
         "chapter_0026",
-        "chapter_0029"
+        "chapter_0029",
+        "chapter_0066"
       ]
     },
     {
@@ -12937,7 +12938,8 @@
         "chapter_0007",
         "chapter_0008",
         "chapter_0019",
-        "chapter_0020"
+        "chapter_0020",
+        "chapter_0065"
       ]
     },
     {
@@ -13002,7 +13004,11 @@
         "chapter_0045",
         "chapter_0046",
         "chapter_0048",
-        "chapter_0050"
+        "chapter_0050",
+        "chapter_0051",
+        "chapter_0053",
+        "chapter_0065",
+        "chapter_0066"
       ]
     },
     {
@@ -13018,7 +13024,9 @@
       "reviewed_chapters": [
         "chapter_0009",
         "chapter_0020",
-        "chapter_0031"
+        "chapter_0031",
+        "chapter_0065",
+        "chapter_0066"
       ]
     },
     {
@@ -13326,7 +13334,10 @@
         "chapter_0041",
         "chapter_0043",
         "chapter_0045",
-        "chapter_0050"
+        "chapter_0050",
+        "chapter_0061",
+        "chapter_0064",
+        "chapter_0069"
       ]
     },
     {
@@ -13347,7 +13358,16 @@
         "chapter_0039",
         "chapter_0043",
         "chapter_0047",
-        "chapter_0050"
+        "chapter_0050",
+        "chapter_0052",
+        "chapter_0054",
+        "chapter_0056",
+        "chapter_0057",
+        "chapter_0061",
+        "chapter_0064",
+        "chapter_0066",
+        "chapter_0069",
+        "chapter_0070"
       ]
     },
     {
@@ -13370,7 +13390,12 @@
         "chapter_0045",
         "chapter_0046",
         "chapter_0047",
-        "chapter_0048"
+        "chapter_0048",
+        "chapter_0056",
+        "chapter_0057",
+        "chapter_0060",
+        "chapter_0061",
+        "chapter_0067"
       ]
     },
     {
@@ -13459,7 +13484,21 @@
         "chapter_0046",
         "chapter_0047",
         "chapter_0048",
-        "chapter_0049"
+        "chapter_0049",
+        "chapter_0051",
+        "chapter_0053",
+        "chapter_0055",
+        "chapter_0056",
+        "chapter_0058",
+        "chapter_0060",
+        "chapter_0061",
+        "chapter_0063",
+        "chapter_0064",
+        "chapter_0066",
+        "chapter_0067",
+        "chapter_0068",
+        "chapter_0069",
+        "chapter_0070"
       ]
     },
     {
@@ -13482,7 +13521,14 @@
         "chapter_0042",
         "chapter_0043",
         "chapter_0046",
-        "chapter_0050"
+        "chapter_0050",
+        "chapter_0051",
+        "chapter_0059",
+        "chapter_0061",
+        "chapter_0062",
+        "chapter_0067",
+        "chapter_0068",
+        "chapter_0069"
       ]
     },
     {
@@ -13527,7 +13573,9 @@
         "chapter_0045",
         "chapter_0046",
         "chapter_0047",
-        "chapter_0050"
+        "chapter_0050",
+        "chapter_0051",
+        "chapter_0067"
       ]
     },
     {
@@ -13544,7 +13592,11 @@
         "chapter_0035",
         "chapter_0044",
         "chapter_0045",
-        "chapter_0050"
+        "chapter_0050",
+        "chapter_0051",
+        "chapter_0066",
+        "chapter_0067",
+        "chapter_0069"
       ]
     },
     {
@@ -13568,7 +13620,21 @@
         "chapter_0047",
         "chapter_0048",
         "chapter_0049",
-        "chapter_0050"
+        "chapter_0050",
+        "chapter_0051",
+        "chapter_0052",
+        "chapter_0053",
+        "chapter_0054",
+        "chapter_0055",
+        "chapter_0056",
+        "chapter_0057",
+        "chapter_0058",
+        "chapter_0059",
+        "chapter_0060",
+        "chapter_0062",
+        "chapter_0063",
+        "chapter_0064",
+        "chapter_0070"
       ]
     },
     {
@@ -13654,7 +13720,10 @@
         "chapter_0040",
         "chapter_0041",
         "chapter_0048",
-        "chapter_0049"
+        "chapter_0049",
+        "chapter_0057",
+        "chapter_0060",
+        "chapter_0061"
       ]
     },
     {
@@ -13671,7 +13740,8 @@
         "chapter_0037",
         "chapter_0045",
         "chapter_0046",
-        "chapter_0049"
+        "chapter_0049",
+        "chapter_0059"
       ]
     },
     {
@@ -13682,7 +13752,14 @@
       "context": "",
       "confidence": "medium",
       "notes": "Loài ký sinh trùng trên cơ thể cá voi lớn có khả năng hồi phục sinh mệnh cực mạnh.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0057",
+        "chapter_0058",
+        "chapter_0059",
+        "chapter_0060"
+      ]
     },
     {
       "source": "艾伦达尔港口",
@@ -13711,7 +13788,15 @@
       "context": "",
       "confidence": "medium",
       "notes": "Phe Vu sư hướng thiện",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0050",
+        "chapter_0051",
+        "chapter_0053",
+        "chapter_0056",
+        "chapter_0057"
+      ]
     },
     {
       "source": "黑袍巫师",
@@ -13745,7 +13830,8 @@
       "status": "auto-locked",
       "reviewed_chapters": [
         "chapter_0033",
-        "chapter_0035"
+        "chapter_0035",
+        "chapter_0061"
       ]
     },
     {
@@ -13830,7 +13916,8 @@
       "status": "auto-locked",
       "reviewed_chapters": [
         "chapter_0043",
-        "chapter_0046"
+        "chapter_0046",
+        "chapter_0055"
       ]
     },
     {
@@ -13884,7 +13971,10 @@
       "status": "auto-locked",
       "reviewed_chapters": [
         "chapter_0043",
-        "chapter_0047"
+        "chapter_0047",
+        "chapter_0057",
+        "chapter_0061",
+        "chapter_0069"
       ]
     },
     {
@@ -13900,7 +13990,17 @@
       "reviewed_chapters": [
         "chapter_0039",
         "chapter_0043",
-        "chapter_0047"
+        "chapter_0047",
+        "chapter_0051",
+        "chapter_0054",
+        "chapter_0055",
+        "chapter_0056",
+        "chapter_0057",
+        "chapter_0060",
+        "chapter_0061",
+        "chapter_0066",
+        "chapter_0069",
+        "chapter_0070"
       ]
     },
     {
@@ -13936,7 +14036,10 @@
       "reviewed_chapters": [
         "chapter_0041",
         "chapter_0045",
-        "chapter_0046"
+        "chapter_0046",
+        "chapter_0055",
+        "chapter_0056",
+        "chapter_0060"
       ]
     },
     {
@@ -13965,7 +14068,13 @@
         "chapter_0046",
         "chapter_0047",
         "chapter_0049",
-        "chapter_0050"
+        "chapter_0050",
+        "chapter_0057",
+        "chapter_0059",
+        "chapter_0060",
+        "chapter_0061",
+        "chapter_0066",
+        "chapter_0067"
       ]
     },
     {
@@ -14020,7 +14129,10 @@
       "status": "auto-locked",
       "reviewed_chapters": [
         "chapter_0047",
-        "chapter_0050"
+        "chapter_0050",
+        "chapter_0057",
+        "chapter_0061",
+        "chapter_0069"
       ]
     },
     {
@@ -14076,7 +14188,8 @@
       "reviewed_chapters": [
         "chapter_0046",
         "chapter_0047",
-        "chapter_0048"
+        "chapter_0048",
+        "chapter_0070"
       ]
     },
     {
@@ -14148,6 +14261,317 @@
       "confidence": "medium",
       "notes": "Tổ chức đối địch với Học viện Bạch Ốc",
       "locked": false
+    },
+    {
+      "source": "白乌鸦",
+      "source_language": "zh",
+      "target": "quạ trắng",
+      "category": "beast",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một loại sinh vật ma thuật màu trắng sống ở Rừng Cây Nhợt Nhạt",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0052",
+        "chapter_0053"
+      ]
+    },
+    {
+      "source": "追踪巫术",
+      "source_language": "zh",
+      "target": "vu thuật theo dấu",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Vu thuật định vị mục tiêu hoặc địa điểm của hệ Thổ",
+      "locked": false
+    },
+    {
+      "source": "雾中湖",
+      "source_language": "zh",
+      "target": "Hồ Trong Sương",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Hiện tượng hồ nước bị bao phủ bởi sương mù dày đặc tại Rừng Cây Nhợt Nhạt",
+      "locked": false
+    },
+    {
+      "source": "空气干扰巫术",
+      "source_language": "zh",
+      "target": "vu thuật nhiễu loạn không khí",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Vu thuật hệ phong để phá vỡ thăng bằng của sinh vật bay",
+      "locked": false
+    },
+    {
+      "source": "重力陷阱",
+      "source_language": "zh",
+      "target": "bẫy trọng lực",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Bẫy ma pháp tăng trọng lực đột ngột để giam giữ mục tiêu",
+      "locked": false
+    },
+    {
+      "source": "视力强化药水",
+      "source_language": "zh",
+      "target": "dược thủy tăng cường thị lực",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Loại dược thủy chế tạo từ mắt quạ trắng để gia tăng tầm nhìn",
+      "locked": false
+    },
+    {
+      "source": "气息隐藏术",
+      "source_language": "zh",
+      "target": "thuật ẩn giấu khí tức",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Vu thuật chức năng giúp che giấu mùi và dấu vết ma lực",
+      "locked": false
+    },
+    {
+      "source": "零级巫术",
+      "source_language": "zh",
+      "target": "vu thuật cấp không",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Vu thuật cơ bản nhất của Vu sư học đồ",
+      "locked": false
+    },
+    {
+      "source": "体力药丸",
+      "source_language": "zh",
+      "target": "dược hoàn thể lực",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thuốc hồi phục thể lực và chống đói của Vu sư",
+      "locked": false
+    },
+    {
+      "source": "精神烙印",
+      "source_language": "zh",
+      "target": "tinh thần lạc ấn",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Dấu ấn khống chế tinh thần của Hắc vu sư",
+      "locked": false
+    },
+    {
+      "source": "巫器",
+      "source_language": "zh",
+      "target": "vu khí",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Công cụ ma pháp có chứa vu thuật cao cấp, thường dùng làm bài tẩy của Vu sư",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0056",
+        "chapter_0069"
+      ]
+    },
+    {
+      "source": "静滞立场",
+      "source_language": "zh",
+      "target": "trường tĩnh trệ",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Vu thuật cấp một giúp đóng băng và làm chậm không gian xung quanh",
+      "locked": false
+    },
+    {
+      "source": "秘法印记",
+      "source_language": "zh",
+      "target": "bí pháp ấn ký",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Ấn ký ma pháp dùng để truyền tin âm thanh bí mật giữa các Vu sư chính thức",
+      "locked": false
+    },
+    {
+      "source": "空间卷轴",
+      "source_language": "zh",
+      "target": "trục cuốn không gian",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Cuộn giấy ma pháp dùng một lần để cất trữ vật phẩm vào chiều không gian khác",
+      "locked": false
+    },
+    {
+      "source": "荧光虫",
+      "source_language": "zh",
+      "target": "huỳnh quang trùng",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Loại côn trùng phát quang được Vu sư sử dụng để truyền tin nhắn và dẫn đường",
+      "locked": false
+    },
+    {
+      "source": "噬菌体",
+      "source_language": "zh",
+      "target": "thể thực khuẩn",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Loại virus chuyên ký sinh trên vi khuẩn, tích hợp gen của vật chủ",
+      "locked": false
+    },
+    {
+      "source": "普洛斯吸血虫",
+      "source_language": "zh",
+      "target": "trùng hút máu Plos",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Trùng ký sinh vi mô có khả năng lấy gen của vật chủ để thích nghi",
+      "locked": false
+    },
+    {
+      "source": "群体契约卷轴",
+      "source_language": "zh",
+      "target": "trục cuốn khế ước quần thể",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Trục cuốn ma pháp dùng để các Vu sư lập khế ước linh hồn với một lượng lớn sinh vật cùng lúc",
+      "locked": false
+    },
+    {
+      "source": "共生虫",
+      "source_language": "zh",
+      "target": "Trùng Cộng Sinh",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tên mới do Grimm đặt cho trùng hút máu Plos sau khi đã biến đổi gen để cộng sinh với vật chủ",
+      "locked": false
+    },
+    {
+      "source": "次级生命药剂",
+      "source_language": "zh",
+      "target": "Dược tể Sinh Mệnh thứ cấp",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Phiên bản cấp thấp của Dược tể Sinh Mệnh, dễ phối chế hơn",
+      "locked": false
+    },
+    {
+      "source": "空间转移术",
+      "source_language": "zh",
+      "target": "thuật dịch chuyển không gian",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Phép thuật dịch chuyển không gian tức thời để chạy trốn",
+      "locked": false
+    },
+    {
+      "source": "驻守任务",
+      "source_language": "zh",
+      "target": "nhiệm vụ trấn thủ",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Nhiệm vụ đóng giữ ở các quốc gia phàm nhân để bảo vệ dân thường khỏi ma vật",
+      "locked": false
+    },
+    {
+      "source": "暗夜森林",
+      "source_language": "zh",
+      "target": "Rừng Bóng Đêm",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Khu rừng nằm sâu trong hậu phương do Học viện Bạch Ốc kiểm soát",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0064",
+        "chapter_0066"
+      ]
+    },
+    {
+      "source": "黑石城",
+      "source_language": "zh",
+      "target": "thành Hắc Thạch",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một tòa thành trì của vương quốc phàm nhân, nơi Grimm dừng chân nghỉ ngơi",
+      "locked": false
+    },
+    {
+      "source": "佣兵旅馆",
+      "source_language": "zh",
+      "target": "quán trọ Lính Đánh Thuê",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Quán trọ do tổ chức lính đánh thuê lập ra",
+      "locked": false
+    },
+    {
+      "source": "抓心咒",
+      "source_language": "zh",
+      "target": "Trảo Tâm Chú",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một loại vu thuật nguyền rủa khiến cơ thể nạn nhân ngứa ngáy dữ dội",
+      "locked": false
+    },
+    {
+      "source": "血肉诅咒",
+      "source_language": "zh",
+      "target": "lời nguyền Huyết Nhục",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một loại vu thuật nguyền rủa tạo ra các sinh vật gặm nhấm máu thịt từ bên trong cơ thể",
+      "locked": false
+    },
+    {
+      "source": "自燃诅咒",
+      "source_language": "zh",
+      "target": "lời nguyền Tự Nhiên",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một loại vu thuật nguyền rủa khiến xương cốt nạn nhân tự bốc cháy mà không tổn hại quần áo",
+      "locked": false
+    },
+    {
+      "source": "威瑟城",
+      "source_language": "zh",
+      "target": "thành Wither",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tòa thành trì khổng lồ bên cạnh Rừng Bóng Đêm",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0065",
+        "chapter_0066",
+        "chapter_0069"
+      ]
     }
   ]
 }

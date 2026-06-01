@@ -172,6 +172,74 @@
       "name_target": "Thanh Trừ Nguyền Rủa",
       "type": "technique",
       "description": "Vu thuật cấp không dùng để thanh tẩy nguyền rủa."
+    },
+    {
+      "name_source": "追踪巫术",
+      "name_target": "vu thuật theo dấu",
+      "type": "technique",
+      "description": "Phép vu thuật của hệ Thổ giúp định vị phương hướng hoặc địa điểm gần nhất."
+    },
+    {
+      "name_source": "空气干扰巫术",
+      "name_target": "vu thuật nhiễu loạn không khí",
+      "type": "technique",
+      "description": "Vu thuật hệ phong tạo luồng khí cản trở thăng bằng bay lượn."
+    },
+    {
+      "name_source": "重力陷阱",
+      "name_target": "bẫy trọng lực",
+      "type": "technique",
+      "description": "Bẫy ma pháp tăng cường trọng lực để khống chế mục tiêu trên mặt đất."
+    },
+    {
+      "name_source": "气息隐藏术",
+      "name_target": "thuật ẩn giấu khí tức",
+      "type": "technique",
+      "description": "Phép vu thuật tiện ích giúp phong tỏa và che giấu hoàn toàn khí tức, mùi hương trong một khu vực nhất định."
+    },
+    {
+      "name_source": "零级巫术",
+      "name_target": "vu thuật cấp không",
+      "type": "technique",
+      "description": "Các vu thuật sơ cấp nhất mà Vu sư học đồ có thể thi triển."
+    },
+    {
+      "name_source": "精神烙印",
+      "name_target": "tinh thần lạc ấn",
+      "type": "technique",
+      "description": "Phép ấn ký dùng để nô dịch và khống chế linh hồn hoặc tinh thần của mục tiêu."
+    },
+    {
+      "name_source": "静滞立场",
+      "name_target": "trường tĩnh trệ",
+      "type": "technique",
+      "description": "Vu thuật cao cấp tạo ra một không gian tĩnh trệ, nơi mọi vật thể chuyển động chậm lại trừ người thi triển."
+    },
+    {
+      "name_source": "秘法印记",
+      "name_target": "bí pháp ấn ký",
+      "type": "technique",
+      "description": "Bí pháp ma pháp truyền tin bảo mật độc quyền của cấp độ Vu sư chính thức trở lên."
+    },
+    {
+      "name_source": "空间转移术",
+      "name_target": "thuật dịch chuyển không gian",
+      "description": "Vu thuật dịch chuyển vị trí qua không gian để né tránh đòn tấn công."
+    },
+    {
+      "name_source": "抓心咒",
+      "name_target": "Trảo Tâm Chú",
+      "description": "Vu thuật nguyền rủa sơ cấp gây ngứa ngáy dữ dội trên da thịt."
+    },
+    {
+      "name_source": "血肉诅咒",
+      "name_target": "lời nguyền Huyết Nhục",
+      "description": "Vu thuật nguyền rủa khiến cơ thể sinh ra vô số sâu ăn thịt từ bên trong."
+    },
+    {
+      "name_source": "自燃诅咒",
+      "name_target": "lời nguyền Tự Nhiên",
+      "description": "Vu thuật nguyền rủa đốt cháy xương cốt từ bên trong thành tro tàn."
     }
   ],
   "cultivation_systems": [],
@@ -290,6 +358,36 @@
       "name_target": "dãy núi Kroensa",
       "type": "location",
       "description": "Dãy núi có tin đồn xuất hiện mỏ ma thạch lớn, là nơi tranh chấp giữa Học viện Bạch Ốc và Hắc Ốc."
+    },
+    {
+      "name_source": "雾中湖",
+      "name_target": "Hồ Trong Sương",
+      "type": "location",
+      "description": "Hồ nước bị bao phủ bởi sương mù dày đặc có khả năng gây nhiễu các loại phép dò tìm trong Rừng Cây Nhợt Nhạt."
+    },
+    {
+      "name_source": "暗夜森林",
+      "name_target": "Rừng Bóng Đêm",
+      "type": "location",
+      "description": "Khu rừng rậm rạp nằm ở hậu phương Học viện Bạch Ốc, ít nguy hiểm và xa tiền tuyến."
+    },
+    {
+      "name_source": "黑石城",
+      "name_target": "thành Hắc Thạch",
+      "type": "location",
+      "description": "Tòa thành trì nhỏ của phàm nhân với kiến trúc màu đen đặc trưng."
+    },
+    {
+      "name_source": "佣兵旅馆",
+      "name_target": "quán trọ Lính Đánh Thuê",
+      "type": "location",
+      "description": "Quán trọ nằm ở rìa thành Hắc Thạch, thuộc sở hữu của tổ chức lính đánh thuê."
+    },
+    {
+      "name_source": "威瑟城",
+      "name_target": "thành Wither",
+      "type": "location",
+      "description": "Tòa thành khổng lồ xây dựng cạnh Rừng Bóng Đêm, là trung tâm giao thương sầm uất các sản phẩm biến dị từ rừng."
     }
   ],
   "world_map": {
@@ -389,6 +487,78 @@
       "name_target": "rễ cây Aisa",
       "type": "item",
       "description": "Nguyên liệu rễ cây ổn định dược lực."
+    },
+    {
+      "name_source": "视力强化药水",
+      "name_target": "dược thủy tăng cường thị lực",
+      "type": "item",
+      "description": "Dược thủy ma pháp giúp cải thiện và gia tăng tầm nhìn của Vu sư, chế tạo từ mắt quạ trắng."
+    },
+    {
+      "name_source": "体力药丸",
+      "name_target": "dược hoàn thể lực",
+      "type": "item",
+      "description": "Dược hoàn dinh dưỡng giúp hồi phục sinh lực và chống đói cho học đồ."
+    },
+    {
+      "name_source": "巫器",
+      "name_target": "vu khí",
+      "type": "item",
+      "description": "Đồ vật ma pháp được chế tác đặc thù chứa đựng các ma pháp hoặc kết giới mạnh mẽ."
+    },
+    {
+      "name_source": "空间卷轴",
+      "name_target": "trục cuốn không gian",
+      "type": "item",
+      "description": "Vật phẩm ma pháp chứa đựng kết giới không gian dùng một lần để chứa đồ vật."
+    },
+    {
+      "name_source": "荧光虫",
+      "name_target": "huỳnh quang trùng",
+      "type": "item",
+      "description": "Côn trùng phát sáng ma pháp dùng để gửi tin và chỉ đường."
+    },
+    {
+      "name_source": "噬菌体",
+      "name_target": "thể thực khuẩn",
+      "type": "item",
+      "description": "Vi sinh vật có hình dạng như kiếp trước của Grimm, có khả năng xâm nhập tế bào vi khuẩn."
+    },
+    {
+      "name_source": "普洛斯吸血虫",
+      "name_target": "trùng hút máu Plos",
+      "type": "item",
+      "description": "Loại vi sinh vật hút máu ký sinh dùng làm vật chủ lai tạo gen thành công của Grimm."
+    },
+    {
+      "name_source": "群体契约卷轴",
+      "name_target": "trục cuốn khế ước quần thể",
+      "type": "item",
+      "description": "Trục cuốn ma pháp giá trị cao dùng để lập khế ước hàng loạt sinh vật."
+    },
+    {
+      "name_source": "共生虫",
+      "name_target": "Trùng Cộng Sinh",
+      "type": "item",
+      "description": "Loại trùng ký sinh vi mô đã được cải tạo gen để cộng sinh và sửa chữa vết thương cho vật chủ."
+    },
+    {
+      "name_source": "次级生命药剂",
+      "name_target": "Dược tể Sinh Mệnh thứ cấp",
+      "type": "item",
+      "description": "Thuốc hồi phục sinh mệnh lực cấp thấp chế tạo từ Quả Tinh Linh và rễ cây Aisa."
+    },
+    {
+      "name_source": "熔岩药剂",
+      "name_target": "Dược tể Dung Nham",
+      "type": "item",
+      "description": "Loại dược tể ma pháp mang thuộc tính hỏa nhiệt độ cao."
+    },
+    {
+      "name_source": "冰晶药剂",
+      "name_target": "Dược tể Băng Tinh",
+      "type": "item",
+      "description": "Loại dược tể ma pháp mang thuộc tính băng giá."
     }
   ]
 }
