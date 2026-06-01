@@ -59,7 +59,7 @@ Lão Grimm đứng một bên thấy Grimm không ngừng mân mê hai món vũ 
 Nghe lời lão Grimm, Grimm cũng đè nén niềm vui trong lòng xuống, cầm hai món đồ chạy về phía nhà bếp.
 Thế giới tương tự trung cổ châu Âu này không có nguyên liệu nấu ăn cao cấp nào.
 Grimm lấy hai ổ bánh mì trắng mua từ chợ ra, thêm một ít sốt mật ong và vài miếng thịt là thành bữa tối.
-On bàn ăn chỉ có hai người Grimm và lão Grimm, Grimm ngấu nghiến ăn thức ăn trước mặt, một tay cầm sốt mật ong, một tay cầm thịt nướng, liên tục nhét vào miệng.
+Trên bàn ăn chỉ có hai người Grimm và lão Grimm, Grimm ngấu nghiến ăn thức ăn trước mặt, một tay cầm sốt mật ong, một tay cầm thịt nướng, liên tục nhét vào miệng.
 Grimm từ khi xuyên không đến nay liên tục suy nghĩ, tuy không lao động thể lực nhưng tiêu hao trí lực cũng rất nhiều. So với Grimm, lão Grimm ăn chậm rãi hơn nhiều.
 Ăn xong những thứ này, Grimm không khỏi cảm thán sự may mắn của mình, bản thân coi như là có một khởi đầu cực tốt. Bữa ăn trước mắt tuy nhìn bình thường nhưng ở thế giới sức sản xuất thấp kém này, bánh mì trắng đã là thức ăn cao cấp nhất của người dân bình thường, chỉ vào ngày thành lập Vương quốc Rodin, các cửa hàng mới giảm giá, lúc đó bình dân mới có khả năng mua bánh mì trắng. Còn sốt mật ong và thịt nướng lại càng là thức ăn nằm ngoài sức tưởng tượng của người dân bình thường.
 Ăn xong xuôi, cầm khăn lau bên cạnh lên, Grimm đang lau vụn thức ăn còn sót lại khóe miệng.

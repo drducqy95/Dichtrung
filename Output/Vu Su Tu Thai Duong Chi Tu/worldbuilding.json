@@ -250,6 +250,16 @@
       "name_source": "肉体失控诅咒",
       "name_target": "nguyền rủa mất kiểm soát cơ thể",
       "description": "Môn nguyền rủa do Grimm phát triển dựa trên cơ chế ký sinh và biến đổi gen của Trùng Cộng Sinh."
+    },
+    {
+      "name_source": "警戒巫术",
+      "name_target": "vu thuật cảnh giới",
+      "description": "Loại vu thuật đơn giản dùng để phòng bị xung quanh khi nghỉ ngơi."
+    },
+    {
+      "name_source": "天赋巫术",
+      "name_target": "vu thuật thiên phú",
+      "description": "Vu thuật đặc thù được cấu trúc trực tiếp trong tinh thần lực chi hải khi thăng cấp chính thức."
     }
   ],
   "cultivation_systems": [],
@@ -273,6 +283,11 @@
       "name_source": "符文",
       "name_target": "phù văn",
       "description": "Cấu trúc lập thể ba chiều dùng để cố định tinh thần lực trong não bộ."
+    },
+    {
+      "name_source": "超限之水",
+      "name_target": "Nước Siêu Hạn",
+      "description": "Dược chất kích thích giới hạn tinh thần để giúp học đồ hoàn thành đột phá."
     }
   ],
   "power_ranking": {
@@ -398,6 +413,12 @@
       "name_target": "thành Wither",
       "type": "location",
       "description": "Tòa thành khổng lồ xây dựng cạnh Rừng Bóng Đêm, là trung tâm giao thương sầm uất các sản phẩm biến dị từ rừng."
+    },
+    {
+      "name_source": "巫师集市",
+      "name_target": "Chợ Vu sư",
+      "type": "location",
+      "description": "Khu chợ giao dịch dành cho Vu sư nằm ẩn sau kết giới trong rừng."
     }
   ],
   "world_map": {
@@ -575,6 +596,16 @@
       "name_target": "dược tể tịnh hóa",
       "type": "item",
       "description": "Dược tể dùng để tịnh hóa, trì hoãn và vô hiệu hóa một số lời nguyền cấp học đồ."
+    },
+    {
+      "name_source": "能量药粉",
+      "name_target": "bột thuốc năng lượng",
+      "description": "Loại bột thuốc đặc chế dùng để phát hiện lối đi hoặc chỉ đường ẩn."
+    },
+    {
+      "name_source": "任务符文",
+      "name_target": "phù văn nhiệm vụ",
+      "description": "Phù văn lưu trữ thông tin nhận và giao nộp nhiệm vụ trấn thủ."
     }
   ]
 }

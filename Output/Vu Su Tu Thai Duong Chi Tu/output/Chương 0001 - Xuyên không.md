@@ -4,7 +4,7 @@ Chương 1: Xuyên không
 (PS: Nếu mọi người có chỗ nào cần sửa lỗi, vui lòng @tôi, nếu không tôi sẽ không thấy tin nhắn! Thêm tin nhắn này vào ngày 9 tháng 9 năm 2025.)
 
 Trần Thiên mơ màng mở mắt, đầu óc nặng trĩu như thể bị đổ đầy chì. Hắn khó nhọc cử động thân thể, phát hiện mình đang nằm trong một cỗ xe ngựa đang xóc nảy.
-Dưới người anh là những tấm ván gỗ cứng ngắc, chỉ có một lớp rơm khô mỏng dính, khiến toàn thân anh đau nhức ê ẩm. Bánh xe nghiến qua mặt đường gồ ghề khúc khuỷu, cỗ xe ngựa phát ra những tiếng kêu 'két kẹt', xóc nảy đến mức khiến người ta buồn nôn ruột gan đảo lộn.
+Dưới người hắn là những tấm ván gỗ cứng ngắc, chỉ có một lớp rơm khô mỏng dính, khiến toàn thân hắn đau nhức ê ẩm. Bánh xe nghiến qua mặt đường gồ ghề khúc khuỷu, cỗ xe ngựa phát ra những tiếng kêu 'két kẹt', xóc nảy đến mức khiến người ta buồn nôn ruột gan đảo lộn.
 Trong toa xe tràn ngập một mùi dăm gỗ nồng nặc, hòa trộn với mùi mốc của rơm khô và hơi thở mục nát của những món đồ cũ kỹ, khiến người ta phát tởm.
 Xung quanh chất đầy những bao tải và hòm gỗ phồng lên, trong bao tải chứa đầy ngũ cốc, thỉnh thoảng có vài hạt thóc rơi ra từ các kẽ hở.
 Hòm gỗ thì được đóng chặt bằng đinh sắt, bên trên in gia huy của Lãnh địa Nam tước — một con đại bàng tung cánh, gia huy đã hơi mờ nhạt, rõ ràng cỗ xe ngựa này đã được sử dụng rất lâu rồi.

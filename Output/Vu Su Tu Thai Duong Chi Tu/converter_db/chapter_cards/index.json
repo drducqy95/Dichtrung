@@ -1,6 +1,6 @@
 {
   "branch": "Vu Su Tu Thai Duong Chi Tu",
-  "generated_at": "2026-06-01T10:02:06+07:00",
+  "generated_at": "2026-06-01T10:41:30+07:00",
   "chapters": [
     {
       "chapter_number": 1,
@@ -600,6 +600,46 @@
       "source_output_file": "output/Chương 0075 - Sự sống.md",
       "display_output_filename": "Chương 0075: Sự sống.md",
       "filesystem_output_filename": "Chương 0075 - Sự sống.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 76,
+      "chapter_title": "Thí nghiệm tiến hóa",
+      "source_output_file": "output/Chương 0076 - Thí nghiệm tiến hóa.md",
+      "display_output_filename": "Chương 0076: Thí nghiệm tiến hóa.md",
+      "filesystem_output_filename": "Chương 0076 - Thí nghiệm tiến hóa.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 77,
+      "chapter_title": "Kết thúc",
+      "source_output_file": "output/Chương 0077 - Kết thúc.md",
+      "display_output_filename": "Chương 0077: Kết thúc.md",
+      "filesystem_output_filename": "Chương 0077 - Kết thúc.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 78,
+      "chapter_title": "Chợ Vu sư",
+      "source_output_file": "output/Chương 0078 - Chợ Vu sư.md",
+      "display_output_filename": "Chương 0078: Chợ Vu sư.md",
+      "filesystem_output_filename": "Chương 0078 - Chợ Vu sư.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 79,
+      "chapter_title": "Trở về học viện",
+      "source_output_file": "output/Chương 0079 - Trở về học viện.md",
+      "display_output_filename": "Chương 0079: Trở về học viện.md",
+      "filesystem_output_filename": "Chương 0079 - Trở về học viện.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 80,
+      "chapter_title": "Trò chuyện",
+      "source_output_file": "output/Chương 0080 - Trò chuyện.md",
+      "display_output_filename": "Chương 0080: Trò chuyện.md",
+      "filesystem_output_filename": "Chương 0080 - Trò chuyện.md",
       "has_content": true
     }
   ]

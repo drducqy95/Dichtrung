@@ -75,3 +75,8 @@
 - Chương 0073: Ma vật
 - Chương 0074: Giải quyết ma vật
 - Chương 0075: Sự sống
+- Chương 0076: Thí nghiệm tiến hóa
+- Chương 0077: Kết thúc
+- Chương 0078: Chợ Vu sư
+- Chương 0079: Trở về học viện
+- Chương 0080: Trò chuyện
