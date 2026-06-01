@@ -1,0 +1,34 @@
+# Chương 0073: Ma vật
+
+Chương 73: Ma vật
+Sau khi có được thông tin, Grimm yên tâm quay trở lại biệt thự của mình. Một nhiệm vụ săn lùng chỉ cho phép một học đồ tiếp nhận, tiếp theo Grimm sẽ không gặp phải Hắc vu sư học đồ (Vu sư học đồ Hắc ám) nào khác nữa. Tất nhiên, Grimm cũng tăng cường các vu thuật cảnh báo ở ngoại vi biệt thự của mình, cộng thêm quét phổ của Chip, độ an toàn vẫn được đảm bảo.
+Một tháng sau, tại biệt thự trên đỉnh núi, Grimm đang ngồi trong thư phòng lật xem một cuốn sách dày cộp. Ngồi trên ghế, diện bộ quần áo màu trắng, hắn trông hầu như không có gì khác biệt so với người bình thường. Thế nhưng bên dưới lớp quần áo che phủ kia là những múi cơ bắp khẽ phồng lên, khiến người ta không khỏi liên tưởng đến sức mạnh mãnh liệt mà cơ thể này sở hữu.
+Kể từ sau khi bị Mans tấn công, Grimm liền chỉ ở lỳ trong biệt thự, số lần đi ra ngoài giảm đi nhanh chóng.
+“Haiz!” Grimm khẽ thở dài một tiếng, khép cuốn sách trong tay lại.
+“Vẫn không có giá trị nghiên cứu gì nhiều!” Trên mặt Grimm lộ ra một tia bất đắc dĩ. Đây đã là cuốn sách cuối cùng trong toàn bộ thành Wither mà hắn chưa xem qua. Khi tới thành Wither, Grimm có hai việc cần làm: một là tấn cấp, hai là nghiên cứu về Thánh kỵ sĩ!
+Grimm kể từ sau khi tấn cấp, về cơ bản chỉ có một nhiệm vụ là nghiên cứu. Nhưng dưới sự hỗ trợ của Chip, đây là lần đầu tiên Grimm cảm thấy tốc độ quá nhanh cũng không hẳn là tốt. Minh Tưởng Pháp Cực Hạn tuy vẫn còn không gian để minh tưởng, thế nhưng thời gian có thể minh tưởng mỗi ngày lại có hạn, việc thúc đẩy nghiên cứu về Thánh kỵ sĩ vẫn phải đợi sự trưởng thành của Alicia. Nhất thời, Grimm lại cảm giác bản thân cư nhiên có chút vô công rồi nghề.
+Đối với việc mở rộng các loại nghiên cứu mới khác, Grimm cũng lực bất tòng tâm. Tài liệu có thể cung cấp ở nơi này quá ít, Grimm dù có ý tưởng cũng rất khó thực thi.
+“Tình trạng này của mình cũng tính là dị loại trong giới Vu sư rồi nhỉ! Các Vu sư khác đều hận không có đủ thời gian, vậy mà mình lại nhàn rỗi thế này!” Grimm tự giễu một câu. Chip đã thay thế phần lớn công việc của Grimm, ngoại trừ những công việc thực tế cần hắn tự ra tay nhúng tay vào, còn những công việc mang tính lý thuyết như cải tiến vu thuật thì toàn bộ đều được mô phỏng thông qua Chip.
+“Thưa đại nhân Grimm, tiểu thư Alicia cầu kiến!” Một nữ hầu xinh đẹp bước vào phòng, cung kính nói với Grimm.
+“Hửm?” Grimm hơi nghi hoặc. Alicia kể từ sau khi bị Grimm đâm cho một kim thì bóng ma tâm lý càng trở nên nghiêm trọng hơn, trừ khi Grimm thông báo cô tới kiểm tra, nếu không Alicia rất ít khi chủ động tới tìm hắn. Có chuyện gì sao? Hay là thí nghiệm xảy ra ngoài ý muốn gì? Nhưng Trùng Cộng Sinh không hề truyền về tin tức gì mà!
+“Để cô ấy lên đi!” Chưa biết Alicia muốn làm gì, tự nhiên trực tiếp gặp mặt hỏi rõ là tốt nhất.
+“Cộc cộc cộc cộc...”
+Tiếng đế giày dẫm lên bậc thang truyền đến, Alicia dưới sự dẫn dắt của nữ hầu nhanh chóng xuất hiện trong thư phòng của Grimm.
+Grimm nhìn về phía Alicia, cô mặc một chiếc váy dài màu vàng kim, mái tóc vàng dài ngang lưng tùy ý chải sang một bên, vóc dáng gợi cảm nổi bật, kết hợp với các thớ cơ bắp khẽ lộ ra, tỏa ra một khí chất tiêu sái, nhanh nhẹn.
+“Alicia! Tìm ta có việc gì thế? Vẫn còn một thời gian nữa mới tới đợt kiểm tra tiếp theo! Cơ thể ngươi gặp vấn đề gì sao?” Alicia xua tay, biểu thị không phải vấn đề của bản thân.
+“Thưa đại nhân Grimm, tôi thay mặt đại nhân Công tước mang đến cho ngài một tin tức!” Khi nhắc tới vị Công tước kia, trong ánh mắt Alicia thoáng qua một tia chán ghét. “Binh lính của thành Wither dường như đã phát hiện ra một loại ma vật nào đó trong Rừng Bóng Đêm. Loại ma vật này đã bắt đầu tấn công các thương đội và thợ săn gần đó, gây ra thương vong không nhỏ. Vì nguyên nhân này, các thương đội đã giảm số lần đến thành Wither. Công tước hy vọng ngài có thể đi tiêu diệt đám ma vật này một chuyến!”
+“Ma vật sao.” Lần này Grimm nổi lên hứng thú. Đến đây đã được gần một năm rưỡi, Grimm cứ nghĩ trước khi mình rời đi sẽ không gặp được ma vật nào sinh ra trong Rừng Bóng Đêm.
+“Đây cũng là lần đầu tiên ta gặp ma vật ở bên ngoài học viện, đương nhiên phải đi xem thử!” Grimm gật đầu. “Ngươi về bảo người của Công tước chuẩn bị sẵn sàng, ba ngày sau tới đây tìm ta.”
+Ba ngày sau.
+Tại cổng thành Wither nằm sát Rừng Bóng Đêm, một nhóm đông kỵ sĩ cưỡi ngựa khoác trên mình bộ giáp kim loại đang tập trung tại đây. Người dẫn đầu nhóm kỵ sĩ này là Crado, một người quen cũ của Grimm. Đi song song bên cạnh gã là một thanh niên mặc bộ giáp da bình thường. Khác hẳn với dáng vẻ nghiêm túc sẵn sàng chiến đấu của các kỵ sĩ khác, trên mặt người thanh niên này không hề có bất kỳ biểu cảm căng thẳng nào, người này chính là Grimm.
+Grimm nhìn lướt qua toàn bộ đội ngũ, thuộc tính cơ bản đều ở tầm Kỵ sĩ học đồ, cũng được coi là một lực lượng tinh nhuệ rồi.
+“Thưa đại nhân Grimm, chúng ta có thể xuất phát được rồi!” Crado cung kính nói với Grimm.
+“Đi thôi!” Grimm nhàn nhạt mở miệng.
+Crado lập tức chỉ huy tất cả mọi người trong đội ngũ xuất phát hướng về phía mục tiêu.
+Tiếng móng ngựa lộc cộc vang lên, toàn bộ đội ngũ bắt đầu từ từ tiến bước.
+Crado cưỡi ngựa, vẻ mặt sầu não tiến lại gần Grimm, bắt đầu giới thiệu cho hắn về tình hình chi tiết.
+“Thưa đại nhân Grimm, vào đêm qua, con ma vật đó lại tấn công một công trường khai thác đá của thành Wither. Theo lời các công nhân ở công trường, kẻ tấn công họ là một con rết khổng lồ, dài tới bảy mét, biết phun độc vụ. Một số công nhân dính phải làn sương độc phun ra thì mặt lập tức tím tái, nhanh chóng tử vong. Con rết đó sau khi độc chết người liền ngậm thi thể rời đi! Công nhân tại công trường sợ con rết tiếp tục săn mồi nên hiện giờ đã rời đi toàn bộ.”
+Nghe Crado kể, Grimm lập tức tìm kiếm thông tin về ma vật tương tự trong ký ức dựa trên các đặc điểm của nó. Rất nhanh hắn đã phân tích ra đây là một con Rết Sương Độc, sở hữu một lớp giáp vỏ cực kỳ cứng cáp, cung tên và giáo mác thông thường rất khó đâm xuyên, ngay cả kỵ sĩ chém một đao lên đó cũng khó mà phá giáp. Tuy nhiên, kháng tính nguyên tố của giáp Rết Sương Độc lại không cao, tùy tiện sử dụng một vu thuật là có thể đánh chết nó. Đây là kiểu ma vật chuyên đi diệt gà.
+Trong khi Crado đang giới thiệu chi tiết tình hình cho Grimm thì đội ngũ đã tới công trường khai thác đá. Cây cối xung quanh đều đã bị đốn hạ, chỉ trơ lại những gốc cây trụi lủi. Ở chính giữa công trường lộ ra một mảng vách đá lớn màu trắng. Nhìn kỹ thì trên một góc vách đá vẫn còn lại những dấu vết màu xanh lá cây, đó là do sương độc phun ra ăn mòn tạo thành.
+Nhóm kỵ binh nhao nhao xuống ngựa, tập trung ngựa lại một chỗ. Grimm cũng xoay người xuống ngựa, bước tới vị trí bị ăn mòn trong công trường khai thác đá.
+Các kỵ binh bên cạnh đi theo Grimm, trên thân giáp kim loại của họ phát ra tiếng va chạm loảng xoảng.

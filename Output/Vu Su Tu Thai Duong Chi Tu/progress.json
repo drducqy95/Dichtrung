@@ -1,5 +1,5 @@
 {
-  "completed_chapters": 70,
+  "completed_chapters": 75,
   "total_chapters": 915,
   "chapters": [
     {
@@ -424,33 +424,33 @@
     },
     {
       "chapter_number": 71,
-      "title": "第71章 诅咒",
-      "status": "PENDING",
-      "last_updated": null
+      "title": "Lời nguyền",
+      "status": "DONE",
+      "last_updated": "2026-06-01T09:59:11.240237+07:00"
     },
     {
       "chapter_number": 72,
-      "title": "第72章 学院情况",
-      "status": "PENDING",
-      "last_updated": null
+      "title": "Tình hình học viện",
+      "status": "DONE",
+      "last_updated": "2026-06-01T10:00:03.034411+07:00"
     },
     {
       "chapter_number": 73,
-      "title": "第73章 魔物",
-      "status": "PENDING",
-      "last_updated": null
+      "title": "Ma vật",
+      "status": "DONE",
+      "last_updated": "2026-06-01T10:00:54.445845+07:00"
     },
     {
       "chapter_number": 74,
-      "title": "第74章 解决魔物",
-      "status": "PENDING",
-      "last_updated": null
+      "title": "Giải quyết ma vật",
+      "status": "DONE",
+      "last_updated": "2026-06-01T10:01:23.852360+07:00"
     },
     {
       "chapter_number": 75,
-      "title": "第75章 生命",
-      "status": "PENDING",
-      "last_updated": null
+      "title": "Sự sống",
+      "status": "DONE",
+      "last_updated": "2026-06-01T10:01:48.245123+07:00"
     },
     {
       "chapter_number": 76,
@@ -5493,7 +5493,7 @@
       "last_updated": null
     }
   ],
-  "last_updated": "2026-06-01T09:50:48+07:00",
+  "last_updated": "2026-06-01T10:02:06+07:00",
   "workflow_artifacts": {
     "branch_readme": "README.md",
     "converter_db_ready": true,

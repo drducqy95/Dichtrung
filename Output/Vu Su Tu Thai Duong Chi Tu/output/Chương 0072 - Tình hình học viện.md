@@ -1,0 +1,42 @@
+# Chương 0072: Tình hình học viện
+
+Chương 72: Tình hình học viện
+“Nguyền rủa! Từ bao giờ?” Mans đã hoảng hốt, ánh mắt run rẩy không ngừng, bắt đầu điên cuồng hồi tưởng xem bản thân bị nguyền rủa từ lúc nào.
+“Máu, là máu của mình sao?” Nghĩ đến vết máu chảy ra trong lúc chiến đấu, Mans lập tức phân tích ra đối phương đã sử dụng phương thức nào để nguyền rủa mình.
+Dùng bàn tay phải run rẩy, Mans sờ lên thắt lưng, lấy ra một ống nghiệm chứa đầy chất lỏng trong suốt.
+“Ực ực”, rút nút gỗ ra, Mans trực tiếp ngửa cổ uống cạn.
+Cảm nhận được cảm giác ngứa ngáy ở cổ họng giảm bớt một chút, trong lòng Mans hơi buông lỏng một chút.
+“May mà là học sinh của Học viện Bạch Ốc, sẽ không tiếp xúc với loại nguyền rủa đặc biệt độc ác!” Giọng điệu của Mans tràn đầy may mắn.
+Chỉ là lời của gã còn chưa dứt, cơn đau đớn dữ dội đã lan tràn khắp toàn thân.
+“Lời nguyền Huyết Nhục, sao có thể phát tác nhanh như vậy!” Mans ngã gục trên mặt đất, nỗi sợ hãi trong lòng đã không thể dùng ngôn từ diễn tả. Lời nguyền sâu ăn thịt y có biết, đối với một Vu sư học đồ mà nói thì không nên phát tác nhanh như thế. Bản thân Vu sư học đồ vốn mang theo bức xạ, có thể ngăn chặn và trì hoãn thời gian phát tác của lời nguyền Huyết Nhục một cách hiệu quả. Hơn nữa gã còn uống cả dược tể tịnh hóa, không thể nào xảy ra nhanh đến mức này.
+“Không... Không...” Mans nhìn về phía cơ thể mình, phát ra tiếng gào thét tuyệt vọng. Giống như tình cảnh lúc trước khi Grimm tiến hành thí nghiệm Trùng Cộng Sinh, trước ngực Mans không ngừng ngọ nguậy, giống như có thứ gì đó muốn phá cơ thể chui ra ngoài. Tình huống này nhanh chóng lan rộng ra toàn thân Mans, da dẻ của gã bắt đầu nhấp nhô liên tục, giống như những thứ ẩn giấu bên dưới da thịt muốn phá vỡ sự trói buộc của làn da.
+Da ngực của Mans giống như bị xé rách từ bên trong, một bàn tay nhỏ như trẻ sơ sinh trực tiếp thò ra ngoài từ vết thương. Trên đó còn dính đầy máu và dịch nhầy nhớt nháp, bàn tay nhỏ bé thò ra ngoài này tự động quờ quạng qua lại, giống như bản năng của trẻ sơ sinh mà cào loạn khắp nơi.
+“Không... Không... Không!” Ánh mắt Mans đầy rẫy kinh hoàng, cả con ngươi trực tiếp co rút thành kích thước đầu kim. Gã trực tiếp túm chặt lấy bàn tay nhỏ kia, tàn nhẫn giật phăng ra. Bàn tay nhỏ này giống như rễ cây, khoảnh khắc bị giật ra kéo theo một mảng thịt lớn trước ngực Mans cũng bị bứt ra theo. Máu tươi từ lồng ngực Mans điên cuồng tuôn ra.
+Mans còn chưa kịp xử lý vết thương, trên mặt gã đã mọc ra vô số con mắt. Những con mắt đỏ ngầu này giống như có ý thức của riêng mình, quan sát hoàn cảnh xung quanh. Trong lòng bàn tay gã lại mọc thêm một bàn tay nữa, cơ quan sinh dục bắt đầu to lên và biến dạng điên cuồng, Mans đã không còn hình người, trông giống một quả cầu thịt dị dạng hơn.
+Mans đã không còn sức phản kháng, những thứ mọc ra này điên cuồng cướp đoạt chất dinh dưỡng trong cơ thể gã, đồng thời làm nhiễu loạn sự vận hành năng lượng của gã. Bây giờ gã đã hoàn toàn mất đi quyền kiểm soát cơ thể, thậm chí ngay cả tinh thần lực gã cũng không thể thúc động nổi nữa.
+“Đùng!”
+Tiếng động lớn nhất vang lên trong rừng rậm, toàn bộ cơ thể Mans trực tiếp nổ tung. Vố số những con trùng màu đỏ như máu từ trong cơ thể gã bay ra, rơi vào trong bụi rậm. Những con trùng màu đỏ rơi trên mặt đất này vẫn không ngừng ngọ nguậy.
+“...”
+Trong cánh rừng âm u, cành lá rậm rạp của những cây cổ thụ gần như che khuất mọi ánh nắng, chỉ có vài tia sáng yếu ớt lọt qua khe hở chiếu vào trong rừng. Luồng khí tức lạnh lẽo lẩn khuất giữa rừng cây, những vết máu đen đỏ thỉnh thoảng xuất hiện báo hiệu cho những chuyện từng xảy ra nơi đây.
+“Rắc!”
+Một bước chân hạ xuống, dẫm gãy cành cây khô héo từ lâu. Chủ nhân của bước chân này chính là Grimm, người vẫn luôn truy lùng kẻ mặc hắc bào.
+Bước chân của Grimm rất chậm rãi, không có vẻ gì là vội vã. Tin tức do Trùng Cộng Sinh truyền về giúp hắn biết kẻ tấn công mình đã bị giải quyết.
+Dựa theo tin tức Trùng Cộng Sinh truyền về, Grimm đi tới địa điểm kẻ mặc hắc bào nổ tung.
+Vô số vết máu bắn tung tóe trong rừng rậm, rơi lên những chiếc lá mục nát và cành cây khô. Sức ép từ vụ nổ xé rách quần áo của kẻ mặc hắc bào, một số mảnh quần áo lẫn với máu thịt dính chặt trên thân cây. Tại trung tâm vụ nổ, mặt đất bị lột trần để lộ ra một khoảng trống, một lượng lớn máu thịt vẫn còn đọng lại tại chỗ. Grimm không bận tâm đến cảnh tượng hỗn độn và tanh nồng nơi hiện trường, trực tiếp bước vào trung tâm vụ nổ.
+Một con trùng dài tới 30 centimet bò ra từ đống máu thịt. Nhìn kỹ thì nó không có gì khác biệt so với Ký sinh trùng Hailos, chỉ có điều là có màu đỏ như máu mà thôi.
+Một đạo phù văn từ trong tay Grimm bay ra, rơi lên người con trùng đỏ như máu. Sau khi phù văn tiếp xúc với con trùng, con trùng vốn đang không ngừng ngọ nguậy trên mặt đất lập tiếp đông cứng lại, không còn bất kỳ động tác nào.
+Phù văn lưu lại trên người con trùng ba giây, sau đó quay trở về trong tay Grimm. Con trùng trên mặt đất sau khi phù văn rời đi thì toàn bộ cơ thể lập tức co rúm và khô héo, giống như bị phơi dưới ánh mặt trời mười mấy ngày vậy.
+“Hóa ra là thế này? Tình hình học viện vẫn ổn, không cần phải lo lắng nữa!” Cảm nhận thông tin do phù văn mang về, trên mặt Grimm lộ ra nụ cười hài lòng.
+“Nguyền rủa mất kiểm soát cơ thể vẫn rất hoàn mỹ, tuy nhiên vẫn cần phải cẩn thận với những thứ thuộc loại linh hồn!” Grimm bắt đầu cân nhắc việc cải tiến nguyền rủa mất kiểm soát cơ thể của mình.
+Nguyền rủa mất kiểm soát cơ thể là một loại nguyền rủa được Grimm thiết kế dựa trên Trùng Cộng Sinh. Đây là một loại nguyền rủa thuộc hệ huyết mạch, muốn nguyền rủa đối phương chỉ cần có hai điều kiện. Điều kiện thứ nhất là có được máu thịt của đối phương. Điều kiện thứ hai là đưa Trùng Cộng Sinh vào trong cơ thể đối phương.
+Hai điều kiện này tuy rất hà khắc, nhưng một khi đã đạt được, sau khi thi triển nguyền rủa, máu thịt của đối phương sẽ nhanh chóng phát sinh biến dị dị dạng, bộc phát cực kỳ hung mãnh, chưa đầy hai ba phút là có thể đẩy người vào chỗ chết. Chỉ cần phản ứng chậm trễ một chút, cho dù có phương pháp ứng phó với nguyền rủa thì cũng sẽ không kịp sử dụng.
+Nguyền rủa mất kiểm soát cơ thể còn có một điểm tốt nữa là có thể đoạt lấy ký ức của đối phương, Trùng Cộng Sinh sẽ trực tiếp chui vào đại não đối phương, thôn phệ và thu thập ký ức của đối phương.
+Vừa rồi Grimm thông qua phù văn để chiết xuất ký ức mà Trùng Cộng Sinh thu thập được, từ đó biết được toàn bộ nguyên nhân hậu quả của sự việc này.
+Về cuộc chiến tranh đoạt mỏ ma thạch giữa Hắc vu sư và Bạch vu sư tại dãy núi Kroensa, hiện tại chiến tuyến đã có sự thay đổi rõ rệt.
+Trong giai đoạn đầu, tổn thất của Bạch vu sư rất lớn, nhưng cùng với sự tiến triển của cuộc chiến, Bạch vu sư cuối cùng đã chống đỡ được đợt xung kích đầu tiên.
+Theo thời gian trôi qua, các học đồ của học viện Bạch vu sư bắt đầu thể hiện khả năng tác chiến tập thể của mình, các loại vu thuật quy mô lớn, vu thuật kết hợp giúp chiến tuyến được đẩy mạnh một cách vững chắc. Phía Hắc vu sư bên kia, ngoại trừ ưu thế ở giai đoạn đầu, về cơ bản luôn ở trong trạng thái bị đẩy lui.
+Phía Hắc vu sư cũng biết kết quả cuối cùng sẽ ra sao. Trong những cuộc chiến trước đây, Hắc vu sư đều phải thông qua chiến thuật một đợt càn quét, trực tiếp đánh sập phòng tuyến của Bạch vu sư thì mới có thể giành chiến thắng. Một khi bị kéo vào cuộc chiến kéo dài và chiến tranh trận địa, Hắc vu sư hiếm khi có thể chiến thắng.
+Biết được bản thân đã cận kề thất bại, tổ chức Hắc vu sư dứt khoát từ bỏ tiền tuyến, bắt đầu cho Vu sư học đồ tiến vào lãnh địa của các tổ chức Bạch Vu trên quy mô lớn để triển khai nhiệm vụ săn lùng, cố gắng tiêu hao số lượng Vu sư học đồ của phe Bạch Vu.
+“Một học đồ Hắc vu sư chỉ có thể nhận một nhiệm vụ ám sát Vu sư học đồ phe Bạch Vu, đồng thời căn cứ vào mục tiêu nhiệm vụ, nhân số của đôi bên phải tương đồng!” Grimm nhìn vào ký ức trích xuất từ não bộ của Mans, lập tức phân tích ra tình hình cụ thể là như thế nào.
+Phe Bạch Vu bên này cũng biết Hắc vu sư đã phát động nhiệm vụ săn lùng, nhưng cao tầng của hai bên đều vô cùng ngầm hiểu ý nhau. Đây không phải kiểu săn lùng tập thể bầy đàn, mà giống như một hoạt động rèn luyện dành cho học đồ của bản thân được sinh ra trong sự ngầm hiểu giữa đôi bên hơn.
+Toàn bộ cuộc chiến tranh đoạt mỏ ma thạch tại Kroensa này, đối tượng tham gia cũng chỉ ở cấp bậc Vu sư học đồ. Cao tầng của đôi bên chỉ ngồi ở phía sau chỉ huy, không có lực lượng ở chiều không gian cao hơn can thiệp vào. Toàn bộ cuộc chiến tranh đoạt mỏ ma thạch Kroensa đã được cao tầng đôi bên thuận nước đẩy thuyền, biến thành một trận thử luyện giữa các học đồ.

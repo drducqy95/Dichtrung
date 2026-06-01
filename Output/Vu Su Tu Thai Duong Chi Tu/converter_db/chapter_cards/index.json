@@ -1,6 +1,6 @@
 {
   "branch": "Vu Su Tu Thai Duong Chi Tu",
-  "generated_at": "2026-06-01T09:50:48+07:00",
+  "generated_at": "2026-06-01T10:02:06+07:00",
   "chapters": [
     {
       "chapter_number": 1,
@@ -560,6 +560,46 @@
       "source_output_file": "output/Chương 0070 - Kịch chiến.md",
       "display_output_filename": "Chương 0070: Kịch chiến.md",
       "filesystem_output_filename": "Chương 0070 - Kịch chiến.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 71,
+      "chapter_title": "Lời nguyền",
+      "source_output_file": "output/Chương 0071 - Lời nguyền.md",
+      "display_output_filename": "Chương 0071: Lời nguyền.md",
+      "filesystem_output_filename": "Chương 0071 - Lời nguyền.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 72,
+      "chapter_title": "Tình hình học viện",
+      "source_output_file": "output/Chương 0072 - Tình hình học viện.md",
+      "display_output_filename": "Chương 0072: Tình hình học viện.md",
+      "filesystem_output_filename": "Chương 0072 - Tình hình học viện.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 73,
+      "chapter_title": "Ma vật",
+      "source_output_file": "output/Chương 0073 - Ma vật.md",
+      "display_output_filename": "Chương 0073: Ma vật.md",
+      "filesystem_output_filename": "Chương 0073 - Ma vật.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 74,
+      "chapter_title": "Giải quyết ma vật",
+      "source_output_file": "output/Chương 0074 - Giải quyết ma vật.md",
+      "display_output_filename": "Chương 0074: Giải quyết ma vật.md",
+      "filesystem_output_filename": "Chương 0074 - Giải quyết ma vật.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 75,
+      "chapter_title": "Sự sống",
+      "source_output_file": "output/Chương 0075 - Sự sống.md",
+      "display_output_filename": "Chương 0075: Sự sống.md",
+      "filesystem_output_filename": "Chương 0075 - Sự sống.md",
       "has_content": true
     }
   ]

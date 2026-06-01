@@ -3,8 +3,8 @@
     "version": "2.0",
     "schema": "gold",
     "branch": "Vu Su Tu Thai Duong Chi Tu",
-    "last_updated": "2026-06-01T09:31:37.169692+07:00",
-    "total_characters": 367
+    "last_updated": "2026-06-01T09:59:11.223483+07:00",
+    "total_characters": 368
   },
   "characters": [
     {
@@ -5633,6 +5633,44 @@
       "status": "active",
       "appearance": {
         "physical": "Con gái của Công tước Ryan, không có tư chất Vu sư nhưng khát khao tự quyết định vận mệnh, tình nguyện làm vật thí nghiệm cho Grimm.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "GCHAR_0363",
+      "name_source": "曼斯",
+      "name_target": "Mans",
+      "name_aliases": [],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Học đồ Hắc vu sư từ học viện khác, săn lùng học viên của Học viện Bạch Ốc.",
         "style": "",
         "distinctive": ""
       },

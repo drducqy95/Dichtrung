@@ -70,3 +70,8 @@
 - Chương 0068: Trùng cộng sinh
 - Chương 0069: Vị khách không mời mà đến
 - Chương 0070: Kịch chiến
+- Chương 0071: Lời nguyền
+- Chương 0072: Tình hình học viện
+- Chương 0073: Ma vật
+- Chương 0074: Giải quyết ma vật
+- Chương 0075: Sự sống

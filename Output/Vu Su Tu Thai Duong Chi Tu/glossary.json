@@ -3,8 +3,8 @@
     "version": "2.0",
     "schema": "gold",
     "branch": "Vu Su Tu Thai Duong Chi Tu",
-    "last_updated": "2026-06-01T09:31:10.759359+07:00",
-    "total_entries": 1406
+    "last_updated": "2026-06-01T10:01:48.225828+07:00",
+    "total_entries": 1413
   },
   "entries": [
     {
@@ -14572,6 +14572,76 @@
         "chapter_0066",
         "chapter_0069"
       ]
+    },
+    {
+      "source": "轻身术",
+      "source_language": "zh",
+      "target": "khinh thân thuật",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "肉体失控诅咒",
+      "source_language": "zh",
+      "target": "nguyền rủa mất kiểm soát cơ thể",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "血脉追踪诅咒巫术",
+      "source_language": "zh",
+      "target": "huyết mạch truy tung nguyền rủa vu thuật",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "净化药剂",
+      "source_language": "zh",
+      "target": "dược tể tịnh hóa",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thuốc tịnh hóa giải nguyền rủa",
+      "locked": false
+    },
+    {
+      "source": "肉食虫诅咒",
+      "source_language": "zh",
+      "target": "lời nguyền sâu ăn thịt",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một loại nguyền rủa sinh vật",
+      "locked": false
+    },
+    {
+      "source": "毒雾蜈蚣",
+      "source_language": "zh",
+      "target": "Rết Sương Độc",
+      "category": "creature",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một loại ma vật sâu bọ lớn có độc",
+      "locked": false
+    },
+    {
+      "source": "普洛斯寄生虫",
+      "source_language": "zh",
+      "target": "ký sinh trùng Plos",
+      "category": "creature",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một loại ký sinh trùng đơn giản làm vật nhận gen",
+      "locked": false
     }
   ]
 }

@@ -240,6 +240,16 @@
       "name_source": "自燃诅咒",
       "name_target": "lời nguyền Tự Nhiên",
       "description": "Vu thuật nguyền rủa đốt cháy xương cốt từ bên trong thành tro tàn."
+    },
+    {
+      "name_source": "轻身术",
+      "name_target": "khinh thân thuật",
+      "description": "Vu thuật cấp học đồ giúp giảm trọng lượng cơ thể và tăng tốc độ di chuyển."
+    },
+    {
+      "name_source": "肉体失控诅咒",
+      "name_target": "nguyền rủa mất kiểm soát cơ thể",
+      "description": "Môn nguyền rủa do Grimm phát triển dựa trên cơ chế ký sinh và biến đổi gen của Trùng Cộng Sinh."
     }
   ],
   "cultivation_systems": [],
@@ -559,6 +569,12 @@
       "name_target": "Dược tể Băng Tinh",
       "type": "item",
       "description": "Loại dược tể ma pháp mang thuộc tính băng giá."
+    },
+    {
+      "name_source": "净化药剂",
+      "name_target": "dược tể tịnh hóa",
+      "type": "item",
+      "description": "Dược tể dùng để tịnh hóa, trì hoãn và vô hiệu hóa một số lời nguyền cấp học đồ."
     }
   ]
 }
