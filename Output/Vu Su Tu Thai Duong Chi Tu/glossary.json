@@ -3,8 +3,8 @@
     "version": "2.0",
     "schema": "gold",
     "branch": "Vu Su Tu Thai Duong Chi Tu",
-    "last_updated": "2026-06-02T01:32:40.925890+07:00",
-    "total_entries": 1510
+    "last_updated": "2026-06-02T06:02:43.529450+07:00",
+    "total_entries": 1513
   },
   "entries": [
     {
@@ -15980,6 +15980,36 @@
       "context": "",
       "confidence": "1.0",
       "notes": "Anh quái tà ác hình dáng trẻ sơ sinh",
+      "locked": false
+    },
+    {
+      "source": "气息清除药剂",
+      "source_language": "zh",
+      "target": "dược tể Xóa Sạch Hơi Thở",
+      "category": "cultivation_resources",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Loại dược tể giúp xóa bỏ hoàn toàn dấu vết hơi thở của người dùng.",
+      "locked": false
+    },
+    {
+      "source": "隐身药剂",
+      "source_language": "zh",
+      "target": "dược tể Ẩn Thân",
+      "category": "cultivation_resources",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Loại dược tể giúp ẩn giấu hoàn toàn thân hình.",
+      "locked": false
+    },
+    {
+      "source": "漂浮药剂",
+      "source_language": "zh",
+      "target": "dược tể Trôi Nổi",
+      "category": "cultivation_resources",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Loại dược tể giúp cơ thể lơ lửng di chuyển trên không trung.",
       "locked": false
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "completed_chapters": 115,
+  "completed_chapters": 116,
   "total_chapters": 915,
   "chapters": [
     {
@@ -694,9 +694,9 @@
     },
     {
       "chapter_number": 116,
-      "title": "第116章 灵魂教派",
-      "status": "PENDING",
-      "last_updated": null
+      "title": "Chương 116: Linh Hồn Giáo Phái",
+      "status": "DONE",
+      "last_updated": "2026-06-02T06:02:43.543614+07:00"
     },
     {
       "chapter_number": 117,
@@ -5493,7 +5493,7 @@
       "last_updated": null
     }
   ],
-  "last_updated": "2026-06-02T03:17:40+07:00",
+  "last_updated": "2026-06-02T06:03:17+07:00",
   "workflow_artifacts": {
     "branch_readme": "README.md",
     "converter_db_ready": true,

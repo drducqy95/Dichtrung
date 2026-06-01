@@ -115,3 +115,4 @@
 - Chương 0113: Chương 113: Sức mạnh tuyệt vọng
 - Chương 0114: Chương 114: Đi sâu vào lòng đất
 - Chương 0115: Chương 115: Thư viện và những người khác
+- Chương 0116: Chương 116: Linh Hồn Giáo Phái

@@ -385,6 +385,11 @@
       "name_target": "phép Trôi Nổi",
       "type": "technique",
       "description": "Vu thuật hệ phong cơ bản giúp giảm trọng lực rơi tự do của bản thân."
+    },
+    {
+      "name_source": "灵魂学",
+      "name_target": "Linh Hồn Học (Thượng Cổ)",
+      "description": "Ngành tri thức chuyên sâu nghiên cứu về các hiện tượng linh hồn, phân tách linh hồn và sản sinh linh thể oán niệm của tổ chức vu sư thượng cổ."
     }
   ],
   "cultivation_systems": [],
@@ -652,6 +657,11 @@
       "name_target": "Thư Viện",
       "type": "location",
       "description": "Khu vực lưu trữ các thư tịch, kiến thức và vu trận bảo vệ tri thức."
+    },
+    {
+      "name_source": "图书馆二楼",
+      "name_target": "Thư Viện tầng hai",
+      "description": "Khu vực tầng hai của Thư Viện cổ đại, số lượng giá sách và tri thức ít hơn tầng một đáng kể, chủ yếu lưu trữ các tri thức cao cấp hơn đã mất đi vu trận bảo vệ."
     }
   ],
   "world_map": {

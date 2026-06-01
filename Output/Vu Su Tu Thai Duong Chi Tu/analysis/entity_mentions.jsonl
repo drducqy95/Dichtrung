@@ -1000,3 +1000,13 @@
 {"chapter_id": "chapter_0115", "source_surface": "住宿区", "target_surface": "khu phòng ở", "entity_type": "locations", "segment_id": "chapter_0115:seg_0001", "confidence": 1.0}
 {"chapter_id": "chapter_0115", "source_surface": "图书馆", "target_surface": "Thư Viện", "entity_type": "locations", "segment_id": "chapter_0115:seg_0001", "confidence": 1.0}
 {"chapter_id": "chapter_0115", "source_surface": "卷轴", "target_surface": "cuộn giấy da", "entity_type": "items", "segment_id": "chapter_0115:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0116", "source_surface": "死亡", "target_surface": "Death", "entity_type": "person", "segment_id": "chapter_0116:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0116", "source_surface": "格林", "target_surface": "Grimm", "entity_type": "person", "segment_id": "chapter_0116:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0116", "source_surface": "纽特", "target_surface": "Newt", "entity_type": "person", "segment_id": "chapter_0116:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0116", "source_surface": "亚希", "target_surface": "Yaxi", "entity_type": "person", "segment_id": "chapter_0116:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0116", "source_surface": "巫术", "target_surface": "vu thuật", "entity_type": "techniques", "segment_id": "chapter_0116:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0116", "source_surface": "巫师之手", "target_surface": "Bàn tay Vu sư", "entity_type": "techniques", "segment_id": "chapter_0116:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0116", "source_surface": "傀儡", "target_surface": "con rối", "entity_type": "techniques", "segment_id": "chapter_0116:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0116", "source_surface": "精神力", "target_surface": "tinh thần lực", "entity_type": "cultivation_resources", "segment_id": "chapter_0116:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0116", "source_surface": "符文", "target_surface": "phù văn", "entity_type": "cultivation_resources", "segment_id": "chapter_0116:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0116", "source_surface": "图书馆", "target_surface": "Thư Viện", "entity_type": "locations", "segment_id": "chapter_0116:seg_0001", "confidence": 1.0}
