@@ -1,6 +1,6 @@
 {
   "branch": "Vu Su Tu Thai Duong Chi Tu",
-  "generated_at": "2026-06-01T12:26:58+07:00",
+  "generated_at": "2026-06-01T12:48:30+07:00",
   "chapters": [
     {
       "chapter_number": 1,
@@ -720,6 +720,46 @@
       "source_output_file": "output/Chương 0090 - Vu thuật sóng âm.md",
       "display_output_filename": "Chương 0090: Vu thuật sóng âm.md",
       "filesystem_output_filename": "Chương 0090 - Vu thuật sóng âm.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 91,
+      "chapter_title": "Thu hoạch",
+      "source_output_file": "output/Chương 0091 - Thu hoạch.md",
+      "display_output_filename": "Chương 0091: Thu hoạch.md",
+      "filesystem_output_filename": "Chương 0091 - Thu hoạch.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 92,
+      "chapter_title": "Chuẩn bị đột phá",
+      "source_output_file": "output/Chương 0092 - Chuẩn bị đột phá.md",
+      "display_output_filename": "Chương 0092: Chuẩn bị đột phá.md",
+      "filesystem_output_filename": "Chương 0092 - Chuẩn bị đột phá.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 93,
+      "chapter_title": "Đột phá thiên phú",
+      "source_output_file": "output/Chương 0093 - Đột phá thiên phú.md",
+      "display_output_filename": "Chương 0093: Đột phá thiên phú.md",
+      "filesystem_output_filename": "Chương 0093 - Đột phá thiên phú.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 94,
+      "chapter_title": "Vết thương",
+      "source_output_file": "output/Chương 0094 - Vết thương.md",
+      "display_output_filename": "Chương 0094: Vết thương.md",
+      "filesystem_output_filename": "Chương 0094 - Vết thương.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 95,
+      "chapter_title": "Vu sư chính thức (1)",
+      "source_output_file": "output/Chương 0095 - Vu sư chính thức (1).md",
+      "display_output_filename": "Chương 0095: Vu sư chính thức (1).md",
+      "filesystem_output_filename": "Chương 0095 - Vu sư chính thức (1).md",
       "has_content": true
     }
   ]

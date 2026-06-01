@@ -1,5 +1,5 @@
 {
-  "completed_chapters": 90,
+  "completed_chapters": 95,
   "total_chapters": 915,
   "chapters": [
     {
@@ -544,33 +544,33 @@
     },
     {
       "chapter_number": 91,
-      "title": "第91章 收获",
-      "status": "PENDING",
-      "last_updated": null
+      "title": "Thu hoạch",
+      "status": "DONE",
+      "last_updated": "2026-06-01T12:46:23.278984+07:00"
     },
     {
       "chapter_number": 92,
-      "title": "第92章 准备突破",
-      "status": "PENDING",
-      "last_updated": null
+      "title": "Chuẩn bị đột phá",
+      "status": "DONE",
+      "last_updated": "2026-06-01T12:46:54.469771+07:00"
     },
     {
       "chapter_number": 93,
-      "title": "第93章 天赋突破",
-      "status": "PENDING",
-      "last_updated": null
+      "title": "Đột phá thiên phú",
+      "status": "DONE",
+      "last_updated": "2026-06-01T12:47:28.342833+07:00"
     },
     {
       "chapter_number": 94,
-      "title": "第94章 伤痕",
-      "status": "PENDING",
-      "last_updated": null
+      "title": "Vết thương",
+      "status": "DONE",
+      "last_updated": "2026-06-01T12:47:58.045651+07:00"
     },
     {
       "chapter_number": 95,
-      "title": "第95章 正式巫师（一）",
-      "status": "PENDING",
-      "last_updated": null
+      "title": "Vu sư chính thức (1)",
+      "status": "DONE",
+      "last_updated": "2026-06-01T12:48:29.977119+07:00"
     },
     {
       "chapter_number": 96,
@@ -5493,7 +5493,7 @@
       "last_updated": null
     }
   ],
-  "last_updated": "2026-06-01T12:26:58+07:00",
+  "last_updated": "2026-06-01T12:48:30+07:00",
   "workflow_artifacts": {
     "branch_readme": "README.md",
     "converter_db_ready": true,

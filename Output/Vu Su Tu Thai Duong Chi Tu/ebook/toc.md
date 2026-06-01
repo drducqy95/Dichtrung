@@ -90,3 +90,8 @@
 - Chương 0088: Giao dịch
 - Chương 0089: Truyện ký
 - Chương 0090: Vu thuật sóng âm
+- Chương 0091: Thu hoạch
+- Chương 0092: Chuẩn bị đột phá
+- Chương 0093: Đột phá thiên phú
+- Chương 0094: Vết thương
+- Chương 0095: Vu sư chính thức (1)

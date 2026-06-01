@@ -93,6 +93,12 @@
       "name_target": "gia tộc Walker",
       "type": "faction",
       "description": "Một gia tộc Vu sư có liên kết với Học viện Bạch Ốc, thường tài trợ cho các Vu sư học đồ để nhận sự bảo hộ sau này."
+    },
+    {
+      "name_source": "死亡三人组",
+      "name_target": "Tổ ba người Tử Vong",
+      "type": "faction",
+      "description": "Nhóm ba học đồ Vu sư lang thang nổi tiếng cướp giật ở thế giới bên ngoài, đã bị Grimm tiêu diệt."
     }
   ],
   "weapons": [],
@@ -277,6 +283,18 @@
       "name_target": "vu thuật sóng âm",
       "type": "technique",
       "description": "Vu thuật sử dụng âm thanh chói tai phá hủy môi trường xung quanh và phá giải các phép thuật biến hình, nguyền rủa khác."
+    },
+    {
+      "name_source": "召唤树人",
+      "name_target": "Triệu hoán Người Cây",
+      "type": "technique",
+      "description": "Vu thuật triệu hoán người cây khổng lồ từ cây cối có sẵn trong tự nhiên, sở hữu hào quang tự nhiên để tự chữa trị và lớp da kháng tính."
+    },
+    {
+      "name_source": "吸血藤蔓",
+      "name_target": "Dây Leo Hút Máu",
+      "type": "technique",
+      "description": "Vu thuật triệu hoán dây leo đầy gai nhọn để quấn chặt mục tiêu, hút máu và truyền độc tố tê liệt tinh thần."
     }
   ],
   "cultivation_systems": [],

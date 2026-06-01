@@ -3,8 +3,8 @@
     "version": "2.0",
     "schema": "gold",
     "branch": "Vu Su Tu Thai Duong Chi Tu",
-    "last_updated": "2026-06-01T12:26:57.715548+07:00",
-    "total_entries": 1428
+    "last_updated": "2026-06-01T12:47:58.024738+07:00",
+    "total_entries": 1433
   },
   "entries": [
     {
@@ -14975,6 +14975,56 @@
       "context": "",
       "confidence": "medium",
       "notes": "Loại vu thuật sử dụng tần số sóng âm mạnh mẽ để phá hủy vật lý và quấy nhiễu các vu thuật khác.",
+      "locked": false
+    },
+    {
+      "source": "召唤树人",
+      "source_language": "zh",
+      "target": "Triệu hoán Người Cây",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Vu thuật triệu hoán người cây khổng lồ để tấn công và bao vây đối thủ.",
+      "locked": false
+    },
+    {
+      "source": "吸血藤蔓",
+      "source_language": "zh",
+      "target": "Dây Leo Hút Máu",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Vu thuật triệu hồi dây leo gai hút máu và thể lực, truyền chất độc làm tê liệt tinh thần đối thủ.",
+      "locked": false
+    },
+    {
+      "source": "死亡三人组",
+      "source_language": "zh",
+      "target": "Tổ ba người Tử Vong",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Nhóm ba kẻ cướp giật lang thang khét tiếng bị Grimm tiêu diệt.",
+      "locked": false
+    },
+    {
+      "source": "熔岩药剂",
+      "source_language": "zh",
+      "target": "Dược tể Dung Nham",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Loại dược tể có thể ném ra tạo đòn công kích sát thương hệ hỏa/dung nham cực lớn.",
+      "locked": false
+    },
+    {
+      "source": "冰晶药剂",
+      "source_language": "zh",
+      "target": "Dược tể Băng Tinh",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Loại dược tể có thể ném ra tạo đòn công kích sát thương hệ băng cực lớn.",
       "locked": false
     }
   ]
