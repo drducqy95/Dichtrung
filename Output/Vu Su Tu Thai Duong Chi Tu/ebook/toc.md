@@ -85,3 +85,8 @@
 - Chương 0083: Cô độc, linh hồn dung hợp
 - Chương 0084: Minh Tưởng Pháp Cực Hạn
 - Chương 0085: Bán dược tể, mua nô lệ
+- Chương 0086: Khủng hoảng kinh tế
+- Chương 0087: Gia tộc Vu sư, khu chợ
+- Chương 0088: Giao dịch
+- Chương 0089: Truyện ký
+- Chương 0090: Vu thuật sóng âm

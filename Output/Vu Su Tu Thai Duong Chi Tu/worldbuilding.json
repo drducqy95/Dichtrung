@@ -87,6 +87,12 @@
       "name_target": "Hắc Ốc",
       "type": "faction",
       "description": "Tổ chức Hắc vu sư đối địch trực tiếp với Học viện Bạch Ốc."
+    },
+    {
+      "name_source": "沃克家族",
+      "name_target": "gia tộc Walker",
+      "type": "faction",
+      "description": "Một gia tộc Vu sư có liên kết với Học viện Bạch Ốc, thường tài trợ cho các Vu sư học đồ để nhận sự bảo hộ sau này."
     }
   ],
   "weapons": [],
@@ -265,6 +271,12 @@
       "name_source": "高等冥想法",
       "name_target": "minh tưởng pháp cao đẳng",
       "description": "Các kỹ thuật minh tưởng cấp cao cho phép tự động đột phá Vu sư mà không cần dược tể phụ trợ."
+    },
+    {
+      "name_source": "声波巫术",
+      "name_target": "vu thuật sóng âm",
+      "type": "technique",
+      "description": "Vu thuật sử dụng âm thanh chói tai phá hủy môi trường xung quanh và phá giải các phép thuật biến hình, nguyền rủa khác."
     }
   ],
   "cultivation_systems": [],
@@ -424,6 +436,18 @@
       "name_target": "Chợ Vu sư",
       "type": "location",
       "description": "Khu chợ giao dịch dành cho Vu sư nằm ẩn sau kết giới trong rừng."
+    },
+    {
+      "name_source": "坎萨克斯城",
+      "name_target": "thành Kansas",
+      "type": "location",
+      "description": "Thành phố trật tự ngăn nắp nằm gần Học viện Bạch Ốc, nơi Grimm mua trang viên an trí cho hầu gái."
+    },
+    {
+      "name_source": "死亡沙海",
+      "name_target": "Biển Cát Chết",
+      "type": "location",
+      "description": "Tên gọi thời cổ của Rừng Bóng Đêm khi còn là một sa mạc khô cằn."
     }
   ],
   "world_map": {
@@ -611,6 +635,12 @@
       "name_source": "任务符文",
       "name_target": "phù văn nhiệm vụ",
       "description": "Phù văn lưu trữ thông tin nhận và giao nộp nhiệm vụ trấn thủ."
+    },
+    {
+      "name_source": "冥想药剂",
+      "name_target": "Dược tể Minh Tưởng",
+      "type": "item",
+      "description": "Dược tể hỗ trợ tăng hiệu quả minh tưởng của Vu sư, đặc biệt đắt hàng ở thế giới bên ngoài học viện."
     }
   ]
 }

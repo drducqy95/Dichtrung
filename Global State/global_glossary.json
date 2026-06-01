@@ -13743,7 +13743,8 @@
       "source_project": "Vu Su Tu Thai Duong Chi Tu",
       "confidence": "medium",
       "notes": "Học phái tu luyện Minh Tưởng Pháp Cực Hạn",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked"
     },
     {
       "id": "GTERM_1306",
@@ -14441,7 +14442,8 @@
       "source_project": "Vu Su Tu Thai Duong Chi Tu",
       "confidence": "medium",
       "notes": "Môn vu thuật được kiến tạo trực tiếp trong không gian tinh thần lực khi đột phá lên Vu sư chính thức",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked"
     },
     {
       "id": "GTERM_1366",
@@ -14451,7 +14453,8 @@
       "source_project": "Vu Su Tu Thai Duong Chi Tu",
       "confidence": "medium",
       "notes": "Các môn minh tưởng pháp cao cấp giúp tự động đột phá mà không cần Nước Siêu Hạn và tự động thức tỉnh vu thuật thiên phú tối ưu",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked"
     },
     {
       "id": "GTERM_1367",
@@ -14462,6 +14465,18 @@
       "confidence": "medium",
       "notes": "Một tồn tại vĩ đại thực thi quyền năng thẩm phán và khế ước trong hư không",
       "locked": false
+    },
+    {
+      "source_term": "沃克家族",
+      "target_term": "gia tộc Walker",
+      "category": "reviewed",
+      "locked": true,
+      "status": "auto-locked",
+      "source_project": "Vu Su Tu Thai Duong Chi Tu",
+      "reviewed_chapters": [
+        "chapter_0088",
+        "chapter_0090"
+      ]
     }
   ]
 }

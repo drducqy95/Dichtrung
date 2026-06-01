@@ -1,5 +1,5 @@
 {
-  "completed_chapters": 85,
+  "completed_chapters": 90,
   "total_chapters": 915,
   "chapters": [
     {
@@ -514,33 +514,33 @@
     },
     {
       "chapter_number": 86,
-      "title": "第86章 经济危机",
-      "status": "PENDING",
-      "last_updated": null
+      "title": "Khủng hoảng kinh tế",
+      "status": "DONE",
+      "last_updated": "2026-06-01T12:24:54.225641+07:00"
     },
     {
       "chapter_number": 87,
-      "title": "第87章 巫师家族，集市",
-      "status": "PENDING",
-      "last_updated": null
+      "title": "Gia tộc Vu sư, khu chợ",
+      "status": "DONE",
+      "last_updated": "2026-06-01T12:25:21.358968+07:00"
     },
     {
       "chapter_number": 88,
-      "title": "第88章 交易",
-      "status": "PENDING",
-      "last_updated": null
+      "title": "Giao dịch",
+      "status": "DONE",
+      "last_updated": "2026-06-01T12:25:58.632261+07:00"
     },
     {
       "chapter_number": 89,
-      "title": "第89章 传记",
-      "status": "PENDING",
-      "last_updated": null
+      "title": "Truyện ký",
+      "status": "DONE",
+      "last_updated": "2026-06-01T12:26:23.463242+07:00"
     },
     {
       "chapter_number": 90,
-      "title": "第90章 声波巫术",
-      "status": "PENDING",
-      "last_updated": null
+      "title": "Vu thuật sóng âm",
+      "status": "DONE",
+      "last_updated": "2026-06-01T12:26:57.735957+07:00"
     },
     {
       "chapter_number": 91,
@@ -5493,7 +5493,7 @@
       "last_updated": null
     }
   ],
-  "last_updated": "2026-06-01T11:00:12+07:00",
+  "last_updated": "2026-06-01T12:26:58+07:00",
   "workflow_artifacts": {
     "branch_readme": "README.md",
     "converter_db_ready": true,

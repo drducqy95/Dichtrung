@@ -3,8 +3,8 @@
     "version": "2.0",
     "schema": "gold",
     "branch": "Vu Su Tu Thai Duong Chi Tu",
-    "last_updated": "2026-06-01T09:59:11.223483+07:00",
-    "total_characters": 368
+    "last_updated": "2026-06-01T12:26:23.446936+07:00",
+    "total_characters": 372
   },
   "characters": [
     {
@@ -5671,6 +5671,158 @@
       "status": "active",
       "appearance": {
         "physical": "Học đồ Hắc vu sư từ học viện khác, săn lùng học viên của Học viện Bạch Ốc.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "艾米丽",
+      "name_target": "Emily",
+      "name_aliases": [],
+      "gender": "female",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Một trong ba nữ nô lệ cao cấp được Grimm mua làm vật thí nghiệm.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "爱依娜",
+      "name_target": "Aina",
+      "name_aliases": [],
+      "gender": "female",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Một trong ba nữ nô lệ cao cấp được Grimm mua làm vật thí nghiệm.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "艾里·沃克",
+      "name_target": "Eri Walker",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Người phụ trách khu chợ của gia tộc Walker, người giao dịch dược tể với Grimm.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "比特尔",
+      "name_target": "Beater",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Một Vu sư lang thang từ thời Trung cổ, tác giả cuốn sách Mạo Hiểm Ký Rừng Bóng Đêm kể về cuộc phiêu lưu của mình.",
         "style": "",
         "distinctive": ""
       },

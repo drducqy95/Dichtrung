@@ -2,8 +2,8 @@
   "metadata": {
     "branch": "Vu Su Tu Thai Duong Chi Tu",
     "book_title": "Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới",
-    "generated_at": "2026-06-01T11:00:12+07:00",
-    "total_characters": 368,
+    "generated_at": "2026-06-01T12:26:58+07:00",
+    "total_characters": 372,
     "style_tags": [
       "tây phương",
       "fantasy"
@@ -167,6 +167,26 @@
         "scene_prompt": "Full-body scene illustration of Aiki (figure) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Description: Cựu học đồ Dược tể học của học viện, thất bại trong cuộc tuyển chọn trước Newt, sau đó bị Hắc vu sư khống chế và cải tạo thành xác sống. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
         "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/aiki_portrait.png",
         "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/aiki_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "",
+      "name_original": "爱依娜",
+      "name_translated": "Aina",
+      "gender": "female",
+      "role": "secondary",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Một trong ba nữ nô lệ cao cấp được Grimm mua làm vật thí nghiệm.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Aina, a woman character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Character context: Một trong ba nữ nô lệ cao cấp được Grimm mua làm vật thí nghiệm.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Aina (woman) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Description: Một trong ba nữ nô lệ cao cấp được Grimm mua làm vật thí nghiệm.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/aina_portrait.png",
+        "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/aina_scene.png",
         "asset_candidates": [],
         "status": "prompt_ready"
       }
@@ -627,6 +647,26 @@
         "scene_prompt": "Full-body scene illustration of Basel (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Description: Quản gia của Lâu đài Clow.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
         "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/basel_portrait.png",
         "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/basel_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "",
+      "name_original": "比特尔",
+      "name_translated": "Beater",
+      "gender": "male",
+      "role": "secondary",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Một Vu sư lang thang từ thời Trung cổ, tác giả cuốn sách Mạo Hiểm Ký Rừng Bóng Đêm kể về cuộc phiêu lưu của mình.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Beater, a man character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Character context: Một Vu sư lang thang từ thời Trung cổ, tác giả cuốn sách Mạo Hiểm Ký Rừng Bóng Đêm kể về cuộc phiêu lưu của mình.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Beater (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Description: Một Vu sư lang thang từ thời Trung cổ, tác giả cuốn sách Mạo Hiểm Ký Rừng Bóng Đêm kể về cuộc phiêu lưu của mình.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/beater_portrait.png",
+        "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/beater_scene.png",
         "asset_candidates": [],
         "status": "prompt_ready"
       }
@@ -1692,6 +1732,26 @@
       }
     },
     {
+      "id": "",
+      "name_original": "艾米丽",
+      "name_translated": "Emily",
+      "gender": "female",
+      "role": "secondary",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Một trong ba nữ nô lệ cao cấp được Grimm mua làm vật thí nghiệm.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Emily, a woman character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Character context: Một trong ba nữ nô lệ cao cấp được Grimm mua làm vật thí nghiệm.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Emily (woman) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Description: Một trong ba nữ nô lệ cao cấp được Grimm mua làm vật thí nghiệm.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/emily_portrait.png",
+        "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/emily_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
       "id": "Enfia",
       "name_original": "恩菲亚",
       "name_translated": "Enfia",
@@ -1707,6 +1767,26 @@
         "scene_prompt": "Full-body scene illustration of Enfia (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Description: Nhân viên Thương hội Trec tại cảng Elendar, hướng dẫn Grimm mua trang viên.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
         "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/enfia_portrait.png",
         "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/enfia_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "",
+      "name_original": "艾里·沃克",
+      "name_translated": "Eri Walker",
+      "gender": "male",
+      "role": "secondary",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Người phụ trách khu chợ của gia tộc Walker, người giao dịch dược tể với Grimm.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Eri Walker, a man character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Character context: Người phụ trách khu chợ của gia tộc Walker, người giao dịch dược tể với Grimm.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Eri Walker (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Description: Người phụ trách khu chợ của gia tộc Walker, người giao dịch dược tể với Grimm.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/eri_walker_portrait.png",
+        "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/eri_walker_scene.png",
         "asset_candidates": [],
         "status": "prompt_ready"
       }

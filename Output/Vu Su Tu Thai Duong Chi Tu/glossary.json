@@ -3,8 +3,8 @@
     "version": "2.0",
     "schema": "gold",
     "branch": "Vu Su Tu Thai Duong Chi Tu",
-    "last_updated": "2026-06-01T10:58:09.224878+07:00",
-    "total_entries": 1421
+    "last_updated": "2026-06-01T12:26:57.715548+07:00",
+    "total_entries": 1428
   },
   "entries": [
     {
@@ -12857,7 +12857,8 @@
         "chapter_0007",
         "chapter_0011",
         "chapter_0016",
-        "chapter_0040"
+        "chapter_0040",
+        "chapter_0083"
       ]
     },
     {
@@ -13034,7 +13035,8 @@
         "chapter_0073",
         "chapter_0076",
         "chapter_0077",
-        "chapter_0078"
+        "chapter_0078",
+        "chapter_0084"
       ]
     },
     {
@@ -13313,7 +13315,8 @@
         "chapter_0032",
         "chapter_0033",
         "chapter_0036",
-        "chapter_0039"
+        "chapter_0039",
+        "chapter_0087"
       ]
     },
     {
@@ -13348,7 +13351,11 @@
         "chapter_0069",
         "chapter_0071",
         "chapter_0072",
-        "chapter_0078"
+        "chapter_0078",
+        "chapter_0081",
+        "chapter_0086",
+        "chapter_0088",
+        "chapter_0090"
       ]
     },
     {
@@ -13385,7 +13392,10 @@
         "chapter_0075",
         "chapter_0078",
         "chapter_0079",
-        "chapter_0080"
+        "chapter_0080",
+        "chapter_0085",
+        "chapter_0087",
+        "chapter_0089"
       ]
     },
     {
@@ -13417,7 +13427,11 @@
         "chapter_0075",
         "chapter_0078",
         "chapter_0079",
-        "chapter_0080"
+        "chapter_0080",
+        "chapter_0084",
+        "chapter_0087",
+        "chapter_0088",
+        "chapter_0089"
       ]
     },
     {
@@ -13435,7 +13449,8 @@
         "chapter_0019",
         "chapter_0026",
         "chapter_0034",
-        "chapter_0036"
+        "chapter_0036",
+        "chapter_0084"
       ]
     },
     {
@@ -13527,7 +13542,14 @@
         "chapter_0077",
         "chapter_0078",
         "chapter_0079",
-        "chapter_0080"
+        "chapter_0080",
+        "chapter_0081",
+        "chapter_0083",
+        "chapter_0084",
+        "chapter_0085",
+        "chapter_0086",
+        "chapter_0087",
+        "chapter_0088"
       ]
     },
     {
@@ -13559,7 +13581,8 @@
         "chapter_0068",
         "chapter_0069",
         "chapter_0072",
-        "chapter_0079"
+        "chapter_0079",
+        "chapter_0084"
       ]
     },
     {
@@ -13579,7 +13602,9 @@
         "chapter_0037",
         "chapter_0044",
         "chapter_0046",
-        "chapter_0050"
+        "chapter_0050",
+        "chapter_0085",
+        "chapter_0088"
       ]
     },
     {
@@ -13607,7 +13632,8 @@
         "chapter_0050",
         "chapter_0051",
         "chapter_0067",
-        "chapter_0079"
+        "chapter_0079",
+        "chapter_0090"
       ]
     },
     {
@@ -13630,7 +13656,10 @@
         "chapter_0067",
         "chapter_0069",
         "chapter_0079",
-        "chapter_0080"
+        "chapter_0080",
+        "chapter_0084",
+        "chapter_0088",
+        "chapter_0090"
       ]
     },
     {
@@ -13677,7 +13706,14 @@
         "chapter_0076",
         "chapter_0078",
         "chapter_0079",
-        "chapter_0080"
+        "chapter_0080",
+        "chapter_0081",
+        "chapter_0083",
+        "chapter_0084",
+        "chapter_0087",
+        "chapter_0088",
+        "chapter_0089",
+        "chapter_0090"
       ]
     },
     {
@@ -13767,7 +13803,8 @@
         "chapter_0057",
         "chapter_0060",
         "chapter_0061",
-        "chapter_0076"
+        "chapter_0076",
+        "chapter_0088"
       ]
     },
     {
@@ -13879,7 +13916,9 @@
         "chapter_0033",
         "chapter_0035",
         "chapter_0061",
-        "chapter_0080"
+        "chapter_0080",
+        "chapter_0081",
+        "chapter_0082"
       ]
     },
     {
@@ -13966,7 +14005,8 @@
         "chapter_0043",
         "chapter_0046",
         "chapter_0055",
-        "chapter_0078"
+        "chapter_0078",
+        "chapter_0081"
       ]
     },
     {
@@ -13977,7 +14017,13 @@
       "context": "",
       "confidence": "medium",
       "notes": "Học phái tu luyện Minh Tưởng Pháp Cực Hạn",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0041",
+        "chapter_0081",
+        "chapter_0082"
+      ]
     },
     {
       "source": "极限冥想法",
@@ -13996,7 +14042,13 @@
         "chapter_0039",
         "chapter_0040",
         "chapter_0045",
-        "chapter_0073"
+        "chapter_0073",
+        "chapter_0081",
+        "chapter_0082",
+        "chapter_0083",
+        "chapter_0084",
+        "chapter_0086",
+        "chapter_0088"
       ]
     },
     {
@@ -14059,7 +14111,9 @@
         "chapter_0077",
         "chapter_0078",
         "chapter_0079",
-        "chapter_0080"
+        "chapter_0080",
+        "chapter_0088",
+        "chapter_0090"
       ]
     },
     {
@@ -14138,7 +14192,13 @@
         "chapter_0076",
         "chapter_0078",
         "chapter_0079",
-        "chapter_0080"
+        "chapter_0080",
+        "chapter_0085",
+        "chapter_0086",
+        "chapter_0087",
+        "chapter_0088",
+        "chapter_0089",
+        "chapter_0090"
       ]
     },
     {
@@ -14559,7 +14619,8 @@
       "status": "auto-locked",
       "reviewed_chapters": [
         "chapter_0061",
-        "chapter_0076"
+        "chapter_0076",
+        "chapter_0088"
       ]
     },
     {
@@ -14598,7 +14659,8 @@
         "chapter_0073",
         "chapter_0074",
         "chapter_0075",
-        "chapter_0079"
+        "chapter_0079",
+        "chapter_0089"
       ]
     },
     {
@@ -14666,7 +14728,8 @@
         "chapter_0066",
         "chapter_0069",
         "chapter_0073",
-        "chapter_0078"
+        "chapter_0078",
+        "chapter_0087"
       ]
     },
     {
@@ -14807,7 +14870,12 @@
       "context": "",
       "confidence": "medium",
       "notes": "Môn vu thuật được kiến tạo trực tiếp trong không gian tinh thần lực khi đột phá lên Vu sư chính thức",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0081",
+        "chapter_0084"
+      ]
     },
     {
       "source": "高等冥想法",
@@ -14817,7 +14885,12 @@
       "context": "",
       "confidence": "medium",
       "notes": "Các môn minh tưởng pháp cao cấp giúp tự động đột phá mà không cần Nước Siêu Hạn và tự động thức tỉnh vu thuật thiên phú tối ưu",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0082",
+        "chapter_0084"
+      ]
     },
     {
       "source": "审判眼",
@@ -14827,6 +14900,81 @@
       "context": "",
       "confidence": "medium",
       "notes": "Một tồn tại vĩ đại thực thi quyền năng thẩm phán và khế ước trong hư không",
+      "locked": false
+    },
+    {
+      "source": "苍白森林",
+      "source_language": "zh",
+      "target": "Rừng Cây Nhợt Nhạt",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Rừng Cây Nhợt Nhạt bao quanh Học viện Bạch Ốc.",
+      "locked": false
+    },
+    {
+      "source": "坎萨克斯城",
+      "source_language": "zh",
+      "target": "thành Kansas",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tòa thành nơi Grimm mua trang viên để an trí cho các nữ hầu gái.",
+      "locked": false
+    },
+    {
+      "source": "沃克家族",
+      "source_language": "zh",
+      "target": "gia tộc Walker",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Gia tộc Vu sư tổ chức khu chợ mà Grimm tới giao dịch.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0088",
+        "chapter_0090"
+      ]
+    },
+    {
+      "source": "冥想药剂",
+      "source_language": "zh",
+      "target": "Dược tể Minh Tưởng",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Loại dược tể hỗ trợ minh tưởng cho Vu sư, có giá cao gấp đôi ở chợ ngoài học viện.",
+      "locked": false
+    },
+    {
+      "source": "药剂师",
+      "source_language": "zh",
+      "target": "Dược tể sư",
+      "category": "occupation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Nghề nghiệp luyện chế dược tể trong thế giới Vu sư.",
+      "locked": false
+    },
+    {
+      "source": "死亡沙海",
+      "source_language": "zh",
+      "target": "Biển Cát Chết",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Sa mạc khô cằn trước khi biến thành Rừng Bóng Đêm, nơi từng ghi nhận hiện tượng kỳ dị về mặt trời rơi xuống.",
+      "locked": false
+    },
+    {
+      "source": "声波巫术",
+      "source_language": "zh",
+      "target": "vu thuật sóng âm",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Loại vu thuật sử dụng tần số sóng âm mạnh mẽ để phá hủy vật lý và quấy nhiễu các vu thuật khác.",
       "locked": false
     }
   ]
