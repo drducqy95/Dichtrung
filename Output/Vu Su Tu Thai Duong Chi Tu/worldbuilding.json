@@ -99,6 +99,18 @@
       "name_target": "Tổ ba người Tử Vong",
       "type": "faction",
       "description": "Nhóm ba học đồ Vu sư lang thang nổi tiếng cướp giật ở thế giới bên ngoài, đã bị Grimm tiêu diệt."
+    },
+    {
+      "name_source": "维拉瓦路家族",
+      "name_target": "gia tộc Vila Valu",
+      "type": "faction",
+      "description": "Một học phái/gia tộc Vu sư."
+    },
+    {
+      "name_source": "极限冥想学派",
+      "name_target": "học phái Minh Tưởng Cực Hạn",
+      "type": "faction",
+      "description": "Học phái vu sư của Grimm tại Bờ biển phía Đông, đang thiếu hụt tài nguyên thời gian cho việc tu luyện."
     }
   ],
   "weapons": [],
@@ -295,6 +307,84 @@
       "name_target": "Dây Leo Hút Máu",
       "type": "technique",
       "description": "Vu thuật triệu hoán dây leo đầy gai nhọn để quấn chặt mục tiêu, hút máu và truyền độc tố tê liệt tinh thần."
+    },
+    {
+      "name_source": "元素屏障",
+      "name_target": "Nguyên tố Bình chướng",
+      "type": "technique",
+      "description": "Vu thuật thiên phú phòng ngự nguyên tố cực mạnh của Grimm, là phiên bản nâng cấp của Sinh mệnh Bình chướng."
+    },
+    {
+      "name_source": "抗性体质",
+      "name_target": "Kháng tính Thể chất",
+      "type": "technique",
+      "description": "Vu thuật thiên phú bị động tăng độ chịu đựng vật lý và phi nguyên tố không có thực thể phát triển từ thể chất mạnh mẽ."
+    },
+    {
+      "name_source": "生命屏障",
+      "name_target": "Sinh mệnh Bình chướng",
+      "type": "technique",
+      "description": "Vu thuật phòng ngự cấp học đồ của Grimm trước khi thăng cấp."
+    },
+    {
+      "name_source": "组合巫术",
+      "name_target": "tổ hợp vu thuật",
+      "type": "technique",
+      "description": "Tổ hợp các vu thuật cấp một tạo nên uy lực cộng hưởng."
+    },
+    {
+      "name_source": "空间传送",
+      "name_target": "dịch chuyển không gian",
+      "type": "technique",
+      "description": "Phương thức dịch chuyển tức thời qua khoảng cách xa bằng năng lượng ma thuật."
+    },
+    {
+      "name_source": "拉萨斯——坦格里",
+      "name_target": "Lasas - Tangery",
+      "type": "technique",
+      "description": "Chú ngữ vu thuật triệu hồi các con mắt do thám màu trắng."
+    },
+    {
+      "name_source": "类巫术",
+      "name_target": "tương tự vu thuật",
+      "type": "technique",
+      "description": "Các vu thuật thời thượng cổ được giải phóng thông qua phù văn khắc trên vật chứa."
+    },
+    {
+      "name_source": "幻觉符文",
+      "name_target": "phù văn ảo giác",
+      "type": "technique",
+      "description": "Phù văn thượng cổ phức tạp giúp kéo đối thủ vào ảo giác tinh thần cực kỳ chân thực."
+    },
+    {
+      "name_source": "小树人召唤巫术",
+      "name_target": "vu thuật triệu hoán thụ nhân nhỏ",
+      "type": "technique",
+      "description": "Vu thuật triệu hoán các thụ nhân nhỏ nhắn tròn trịa có trí tuệ cao hơn thụ nhân khổng lồ để phụ giúp các công việc lặt vặt."
+    },
+    {
+      "name_source": "傀儡",
+      "name_target": "con rối",
+      "type": "technique",
+      "description": "Thuật tạo ra cơ thể giả bằng máu thịt có ngoại hình giống chủ thể để thăm dò hiểm cảnh."
+    },
+    {
+      "name_source": "死亡之触",
+      "name_target": "Cú Chạm Tử Vong",
+      "type": "technique",
+      "description": "Vu thuật thượng cổ được tăng phúc sức mạnh bằng cách hy sinh linh hồn người sống."
+    },
+    {
+      "name_source": "冥想",
+      "name_target": "minh tưởng",
+      "type": "technique",
+      "description": "Phương pháp thiền định tu luyện tinh thần lực cơ bản của các vu sư."
+    },
+    {
+      "name_source": "漂浮术",
+      "name_target": "phép Trôi Nổi",
+      "type": "technique",
+      "description": "Vu thuật hệ phong cơ bản giúp giảm trọng lực rơi tự do của bản thân."
     }
   ],
   "cultivation_systems": [],
@@ -323,6 +413,24 @@
       "name_source": "超限之水",
       "name_target": "Nước Siêu Hạn",
       "description": "Dược chất kích thích giới hạn tinh thần để giúp học đồ hoàn thành đột phá."
+    },
+    {
+      "name_source": "灵魂质变",
+      "name_target": "linh hồn chất biến",
+      "type": "cultivation_resource",
+      "description": "Quá trình biến đổi đặc thù về chất của linh hồn khi học đồ thăng cấp thành Vu sư chính thức."
+    },
+    {
+      "name_source": "基因序列",
+      "name_target": "chuỗi gen",
+      "type": "cultivation_resource",
+      "description": "Bản thiết kế sinh học tế bào được nghiên cứu bởi các Vu sư cao cấp thuộc hệ sinh mệnh."
+    },
+    {
+      "name_source": "元素辐射",
+      "name_target": "bức xạ nguyên tố",
+      "type": "cultivation_resource",
+      "description": "Dạng bức xạ năng lượng đặc trưng của thế giới vu sư, dùng để đo lường khả năng tương thích vật liệu."
     }
   ],
   "power_ranking": {
@@ -466,6 +574,84 @@
       "name_target": "Biển Cát Chết",
       "type": "location",
       "description": "Tên gọi thời cổ của Rừng Bóng Đêm khi còn là một sa mạc khô cằn."
+    },
+    {
+      "name_source": "古遗迹",
+      "name_target": "cổ di tích",
+      "type": "location",
+      "description": "Các tàn tích cổ xưa chứa đựng tài liệu tu luyện và minh tưởng pháp cao đẳng."
+    },
+    {
+      "name_source": "凡人大陆",
+      "name_target": "Đại lục Phàm nhân",
+      "type": "location",
+      "description": "Vùng đất sinh sống của người phàm, nơi các học đồ Vu sư tự do lựa chọn gia nhập các học phái."
+    },
+    {
+      "name_source": "中部地区",
+      "name_target": "khu vực Trung bộ",
+      "type": "location",
+      "description": "Lõi của thế giới Vu sư, sở hữu kiến thức thượng cổ phong phú và năng lượng nguyên tố dồi dào, nằm cách xa bốn bờ biển."
+    },
+    {
+      "name_source": "主院",
+      "name_target": "chủ viện",
+      "type": "location",
+      "description": "Khu vực hoa viên xinh đẹp được bao bọc bởi màn chắn phóng xạ năng lượng cao, chỉ có Vu sư chính thức mới có thể cư trú."
+    },
+    {
+      "name_source": "阶梯教室",
+      "name_target": "giảng đường bậc thang",
+      "type": "location",
+      "description": "Phòng giảng dạy lớn do học viện xây dựng theo thỉnh nguyện của học đồ để phục vụ lớp học của Grimm."
+    },
+    {
+      "name_source": "知识交易中心",
+      "name_target": "trung tâm giao dịch tri thức",
+      "type": "location",
+      "description": "Nơi giao dịch tri thức cao đẳng tại quảng trường chủ viện thông qua các cột đá."
+    },
+    {
+      "name_source": "任务区",
+      "name_target": "khu vực nhiệm vụ",
+      "type": "location",
+      "description": "Nơi tiếp nhận và giao nhiệm vụ của tổ chức vu sư thượng cổ, hiện tại đã đổ nát và thiếu năng lượng."
+    },
+    {
+      "name_source": "住宿区",
+      "name_target": "khu phòng ở",
+      "type": "location",
+      "description": "Khu vực sinh hoạt nội trú dưới lòng đất của di tích."
+    },
+    {
+      "name_source": "药园",
+      "name_target": "Vườn Dược Liệu",
+      "type": "location",
+      "description": "Khu vực trồng trọt dược liệu thượng cổ của học viện vu sư dưới lòng đất."
+    },
+    {
+      "name_source": "灵魂养殖场",
+      "name_target": "Trại Nuôi Linh Hồn",
+      "type": "location",
+      "description": "Khu vực tàn nhẫn giam giữ và tra tấn linh hồn người sống của tổ chức vu sư cổ đại."
+    },
+    {
+      "name_source": "教学区",
+      "name_target": "Khu Giảng Dạy",
+      "type": "location",
+      "description": "Khu vực giảng dạy kiến thức cho học đồ thời thượng cổ."
+    },
+    {
+      "name_source": "实验区",
+      "name_target": "Khu Thực Nghiệm",
+      "type": "location",
+      "description": "Khu vực tiến hành thí nghiệm vu thuật và sinh vật cải tạo."
+    },
+    {
+      "name_source": "图书馆",
+      "name_target": "Thư Viện",
+      "type": "location",
+      "description": "Khu vực lưu trữ các thư tịch, kiến thức và vu trận bảo vệ tri thức."
     }
   ],
   "world_map": {
@@ -659,6 +845,114 @@
       "name_target": "Dược tể Minh Tưởng",
       "type": "item",
       "description": "Dược tể hỗ trợ tăng hiệu quả minh tưởng của Vu sư, đặc biệt đắt hàng ở thế giới bên ngoài học viện."
+    },
+    {
+      "name_source": "妖精花瓣",
+      "name_target": "cánh hoa Yêu Tinh",
+      "type": "item",
+      "description": "Bộ phận dược tài nghìn năm có linh trí sinh trưởng ở nồng độ nguyên tố cực cao, giúp tăng trưởng tinh thần lực Vu sư."
+    },
+    {
+      "name_source": "恢复药剂",
+      "name_target": "dược tể phục hồi",
+      "type": "item",
+      "description": "Dược tể cơ bản giúp chữa lành các tổn thương vật lý ngoài da."
+    },
+    {
+      "name_source": "黑恶药剂",
+      "name_target": "dược tể Hắc Ác",
+      "type": "item",
+      "description": "Dược tể tấn công linh thể."
+    },
+    {
+      "name_source": "黑恶之水",
+      "name_target": "nước Hắc Ác",
+      "type": "item",
+      "description": "Nguyên liệu chính điều chế dược tể Hắc Ác."
+    },
+    {
+      "name_source": "空间手环",
+      "name_target": "vòng tay không gian",
+      "type": "item",
+      "description": "Trang bị chứa đồ không gian có chấn động không gian nhẹ."
+    },
+    {
+      "name_source": "御灵",
+      "name_target": "Ngự Linh",
+      "type": "item",
+      "description": "Chiếc nhẫn phòng ngự linh thể dưới 40 độ."
+    },
+    {
+      "name_source": "破灵",
+      "name_target": "Phá Linh",
+      "type": "item",
+      "description": "Chiếc nhẫn gia tăng sức sát thương vu thuật lên linh thể."
+    },
+    {
+      "name_source": "镇定药剂",
+      "name_target": "dược tể Trấn Tĩnh",
+      "type": "item",
+      "description": "Dược tể cấp một giúp ổn định tinh thần, chống lại sóng ảo giác tinh thần."
+    },
+    {
+      "name_source": "施法媒介",
+      "name_target": "vật trung gian thi pháp",
+      "type": "item",
+      "description": "Môi giới dùng để khuếch đại hoặc điều khiển các vu thuật."
+    },
+    {
+      "name_source": "高等能量药剂",
+      "name_target": "dược tể năng lượng cao đẳng",
+      "type": "item",
+      "description": "Dược tể cấp cao đắt giá dùng phục hồi tinh thần lực tức thì cho Vu sư chính thức."
+    },
+    {
+      "name_source": "安宁药剂",
+      "name_target": "dược tể An Ninh",
+      "type": "item",
+      "description": "Dược tể màu cam giúp làm dịu tâm trí và phá trừ các ảo giác cảm quan thông thường."
+    },
+    {
+      "name_source": "人脸花",
+      "name_target": "hoa mặt người",
+      "type": "item",
+      "description": "Loại hoa thượng cổ chứa linh hồn oán niệm gào thét khi mất ánh mặt trời."
+    },
+    {
+      "name_source": "卷轴",
+      "name_target": "cuộn giấy da",
+      "type": "item",
+      "description": "Cuộn giấy da thời cổ xưa dùng để lưu trữ các thông tin và nhiệm vụ thông qua cấu trúc mạch năng lượng."
+    },
+    {
+      "name_source": "高能烈焰药剂",
+      "name_target": "dược tể Ngọn Lửa Năng Lượng Cao",
+      "type": "item",
+      "description": "Dược tể tấn công hỏa hệ giải phóng nhiệt lượng cực cao."
+    },
+    {
+      "name_source": "极致纯净",
+      "name_target": "dược tể Cực Hạn Thuần Khiết",
+      "type": "item",
+      "description": "Dược tể quang hệ mang năng lượng tịnh hóa tà ác và ác linh."
+    },
+    {
+      "name_source": "烟雾之眼",
+      "name_target": "Mắt Khói Trắng",
+      "type": "item",
+      "description": "Con mắt khói sương dùng để trinh sát tầm xa."
+    },
+    {
+      "name_source": "绝望药剂",
+      "name_target": "dược tể Tuyệt Vọng",
+      "type": "item",
+      "description": "Dược tể tàn bạo chế tạo từ linh hồn người sống để tăng mạnh tốc độ minh tưởng."
+    },
+    {
+      "name_source": "绝望之力",
+      "name_target": "sức mạnh tuyệt vọng",
+      "type": "resource",
+      "description": "Năng lượng cảm xúc tiêu cực sinh ra từ việc tra tấn vĩnh hằng các linh hồn nhân loại giam cầm trong hạt châu đen."
     }
   ]
 }

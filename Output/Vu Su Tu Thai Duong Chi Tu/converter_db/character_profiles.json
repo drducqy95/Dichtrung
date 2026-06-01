@@ -2,8 +2,8 @@
   "metadata": {
     "branch": "Vu Su Tu Thai Duong Chi Tu",
     "book_title": "Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới",
-    "generated_at": "2026-06-01T12:48:30+07:00",
-    "total_characters": 372,
+    "generated_at": "2026-06-02T03:17:41+07:00",
+    "total_characters": 377,
     "style_tags": [
       "tây phương",
       "fantasy"
@@ -867,6 +867,26 @@
         "scene_prompt": "Full-body scene illustration of Cada (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Description: Quý tộc Royas, chỉ huy quân vây hãm Colomier.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
         "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/cada_portrait.png",
         "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/cada_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "",
+      "name_original": "卡因",
+      "name_translated": "Cain",
+      "gender": "male",
+      "role": "secondary",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Vu sư tóc vàng thuộc gia tộc Vila Valu.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Cain, a man character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Visual traits: hair vàng. Character context: Vu sư tóc vàng thuộc gia tộc Vila Valu.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Cain (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Visual: hair vàng. Description: Vu sư tóc vàng thuộc gia tộc Vila Valu.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/cain_portrait.png",
+        "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/cain_scene.png",
         "asset_candidates": [],
         "status": "prompt_ready"
       }
@@ -3132,6 +3152,26 @@
       }
     },
     {
+      "id": "",
+      "name_original": "老二",
+      "name_translated": "Lão Nhị",
+      "gender": "unknown",
+      "role": "helper",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Phân thân thứ hai của Grimm được phái làm nhiệm vụ hỗ trợ.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Lão Nhị, a figure character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Character context: Phân thân thứ hai của Grimm được phái làm nhiệm vụ hỗ trợ.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Lão Nhị (figure) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Description: Phân thân thứ hai của Grimm được phái làm nhiệm vụ hỗ trợ.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/l_o_nh_portrait.png",
+        "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/l_o_nh_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
       "id": "GCHAR_0254",
       "name_original": "老王",
       "name_translated": "Lão Vương",
@@ -5012,6 +5052,26 @@
       }
     },
     {
+      "id": "",
+      "name_original": "罗德尔",
+      "name_translated": "Rodel",
+      "gender": "male",
+      "role": "secondary",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Vu sư dáng người vạm vỡ.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Rodel, a man character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Visual traits: muscular imposing build. Character context: Vu sư dáng người vạm vỡ.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Rodel (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Visual: muscular imposing build. Description: Vu sư dáng người vạm vỡ.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/rodel_portrait.png",
+        "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/rodel_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
       "id": "char_roland",
       "name_original": "罗兰",
       "name_translated": "Roland",
@@ -6572,6 +6632,26 @@
       }
     },
     {
+      "id": "",
+      "name_original": "卡琳娜·维特莉",
+      "name_translated": "Vitri Karina",
+      "gender": "female",
+      "role": "supporting",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Đạo sư học viện phụ trách dạy nhận biết dược thảo, thuộc gia tộc Karina hỗ trợ tài chính cho Newt và đang theo đuổi hắn",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Vitri Karina, a woman character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Character context: Đạo sư học viện phụ trách dạy nhận biết dược thảo, thuộc gia tộc Karina hỗ trợ tài chính cho Newt và đang theo đuổi hắn. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Vitri Karina (woman) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Description: Đạo sư học viện phụ trách dạy nhận biết dược thảo, thuộc gia tộc Karina hỗ trợ tài chính cho Newt và đang theo đuổi hắn. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/vitri_karina_portrait.png",
+        "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/vitri_karina_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
       "id": "GCHAR_0312",
       "name_original": "楚院长",
       "name_translated": "Viện trưởng Sở",
@@ -7147,6 +7227,26 @@
         "scene_prompt": "Full-body scene illustration of Yamamoto Genryuusai (figure) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
         "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/yamamoto_genryuusai_portrait.png",
         "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/yamamoto_genryuusai_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "",
+      "name_original": "亚希",
+      "name_translated": "Yaxi",
+      "gender": "male",
+      "role": "secondary",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Vu sư tóc đỏ có bức xạ hỏa nguyên tố.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Yaxi, a man character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Visual traits: hair đỏ. Character context: Vu sư tóc đỏ có bức xạ hỏa nguyên tố.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Yaxi (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Visual: hair đỏ. Description: Vu sư tóc đỏ có bức xạ hỏa nguyên tố.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/yaxi_portrait.png",
+        "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/yaxi_scene.png",
         "asset_candidates": [],
         "status": "prompt_ready"
       }

@@ -95,3 +95,23 @@
 - Chương 0093: Đột phá thiên phú
 - Chương 0094: Vết thương
 - Chương 0095: Vu sư chính thức (1)
+- Chương 0096: Chương 96: Vu sư chính thức (2)
+- Chương 0097: Chương 97: Nâng cấp
+- Chương 0098: Chương 98: Trung bộ
+- Chương 0099: Chương 99: Di tích
+- Chương 0100: Chương 100: Giảng dạy
+- Chương 0101: Chương 101: Chuẩn bị
+- Chương 0102: Chương 102: Kiến thức cao đẳng
+- Chương 0103: Chương 103: Hậu thủ
+- Chương 0104: Chương 104: Lối vào
+- Chương 0105: Chương 105: Thụ nhân
+- Chương 0106: Chương 106: Phù văn ảo giác
+- Chương 0107: Chương 107: Con rối
+- Chương 0108: Chương 108: Thám hiểm
+- Chương 0109: Chương 109: Thu hoạch ở khu vực nhiệm vụ
+- Chương 0110: Chương 110: Oanh tạc
+- Chương 0111: Chương 111: Khu phòng ở
+- Chương 0112: Chương 112: Linh hồn tuyệt vọng
+- Chương 0113: Chương 113: Sức mạnh tuyệt vọng
+- Chương 0114: Chương 114: Đi sâu vào lòng đất
+- Chương 0115: Chương 115: Thư viện và những người khác
