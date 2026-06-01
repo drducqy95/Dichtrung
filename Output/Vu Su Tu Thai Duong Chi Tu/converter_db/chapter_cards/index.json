@@ -1,6 +1,6 @@
 {
   "branch": "Vu Su Tu Thai Duong Chi Tu",
-  "generated_at": "2026-06-01T10:41:30+07:00",
+  "generated_at": "2026-06-01T10:59:26+07:00",
   "chapters": [
     {
       "chapter_number": 1,
@@ -640,6 +640,46 @@
       "source_output_file": "output/Chương 0080 - Trò chuyện.md",
       "display_output_filename": "Chương 0080: Trò chuyện.md",
       "filesystem_output_filename": "Chương 0080 - Trò chuyện.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 81,
+      "chapter_title": "Minh tưởng pháp cao đẳng",
+      "source_output_file": "output/Chương 0081 - Minh tưởng pháp cao đẳng.md",
+      "display_output_filename": "Chương 0081: Minh tưởng pháp cao đẳng.md",
+      "filesystem_output_filename": "Chương 0081 - Minh tưởng pháp cao đẳng.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 82,
+      "chapter_title": "Truyền thừa",
+      "source_output_file": "output/Chương 0082 - Truyền thừa.md",
+      "display_output_filename": "Chương 0082: Truyền thừa.md",
+      "filesystem_output_filename": "Chương 0082 - Truyền thừa.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 83,
+      "chapter_title": "Cô độc, linh hồn dung hợp",
+      "source_output_file": "output/Chương 0083 - Cô độc, linh hồn dung hợp.md",
+      "display_output_filename": "Chương 0083: Cô độc, linh hồn dung hợp.md",
+      "filesystem_output_filename": "Chương 0083 - Cô độc, linh hồn dung hợp.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 84,
+      "chapter_title": "Minh Tưởng Pháp Cực Hạn",
+      "source_output_file": "output/Chương 0084 - Minh Tưởng Pháp Cực Hạn.md",
+      "display_output_filename": "Chương 0084: Minh Tưởng Pháp Cực Hạn.md",
+      "filesystem_output_filename": "Chương 0084 - Minh Tưởng Pháp Cực Hạn.md",
+      "has_content": true
+    },
+    {
+      "chapter_number": 85,
+      "chapter_title": "Bán dược tể, mua nô lệ",
+      "source_output_file": "output/Chương 0085 - Bán dược tể, mua nô lệ.md",
+      "display_output_filename": "Chương 0085: Bán dược tể, mua nô lệ.md",
+      "filesystem_output_filename": "Chương 0085 - Bán dược tể, mua nô lệ.md",
       "has_content": true
     }
   ]

@@ -3,8 +3,8 @@
     "version": "2.0",
     "schema": "gold",
     "branch": "Vu Su Tu Thai Duong Chi Tu",
-    "last_updated": "2026-06-01T10:41:15.968686+07:00",
-    "total_entries": 1419
+    "last_updated": "2026-06-01T10:58:09.224878+07:00",
+    "total_entries": 1421
   },
   "entries": [
     {
@@ -14807,6 +14807,26 @@
       "context": "",
       "confidence": "medium",
       "notes": "Môn vu thuật được kiến tạo trực tiếp trong không gian tinh thần lực khi đột phá lên Vu sư chính thức",
+      "locked": false
+    },
+    {
+      "source": "高等冥想法",
+      "source_language": "zh",
+      "target": "minh tưởng pháp cao đẳng",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Các môn minh tưởng pháp cao cấp giúp tự động đột phá mà không cần Nước Siêu Hạn và tự động thức tỉnh vu thuật thiên phú tối ưu",
+      "locked": false
+    },
+    {
+      "source": "审判眼",
+      "source_language": "zh",
+      "target": "Con Mắt Thẩm Phán",
+      "category": "entity",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một tồn tại vĩ đại thực thi quyền năng thẩm phán và khế ước trong hư không",
       "locked": false
     }
   ]

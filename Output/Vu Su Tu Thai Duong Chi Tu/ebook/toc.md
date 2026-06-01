@@ -80,3 +80,8 @@
 - Chương 0078: Chợ Vu sư
 - Chương 0079: Trở về học viện
 - Chương 0080: Trò chuyện
+- Chương 0081: Minh tưởng pháp cao đẳng
+- Chương 0082: Truyền thừa
+- Chương 0083: Cô độc, linh hồn dung hợp
+- Chương 0084: Minh Tưởng Pháp Cực Hạn
+- Chương 0085: Bán dược tể, mua nô lệ
