@@ -1,0 +1,67 @@
+# Chương 0199: Chương 199 Chuẩn bị hỏi thăm
+
+Chương 199: Chuẩn bị hỏi thăm
+Đã đạt đến Vu sư cấp ba, bước tiếp theo của Grimm tự nhiên là đột phá Vu sư cấp bốn.
+Vu sư cấp một, Vu sư cấp bốn, Vu sư cấp bảy, là giai đoạn biến đổi chất mà mỗi một Vu sư mạnh mẽ đều phải trải qua.
+Mỗi một lần biến đổi chất đều khủng khiếp hơn lần trước đó, sức mạnh sẽ là sự tồn tại mà giai đoạn trước hoàn toàn không thể chạm tới.
+Theo ghi chép của học viện Linh Hồn thượng cổ, khi Vu sư tiến vào cấp ba, linh hồn sẽ đạt đến đỉnh cao hiện tại.
+Linh hồn vào lúc này nếu không xảy ra sự thay đổi bản chất nhất thì cuối cùng cũng sẽ nghênh đón sự mục nát cuối cùng.
+Trong truyền thuyết, độ khó để Vu sư cấp ba đột phá lên cấp bốn còn khó khăn hơn tất cả các đẳng cấp trước đó cộng lại rất nhiều.
+Là lần biến đổi chất thứ hai của Vu sư, theo ghi chép của học viện Linh Hồn, một cú ra đòn tùy ý của Vu sư cấp bốn cũng có thể đạt đến hàng chục vạn độ.
+So với Vu sư cấp ba mà nói, một Vu sư cấp ba đơn thể nếu không có sự gia trì của sức mạnh đặc thù vượt quy cách thì tuyệt đối không thể phát huy ra loại sức mạnh này.
+Việc Vu sư cấp ba của thế giới Vu sư phát huy ra sức mạnh cấp bốn là do mượn sự phóng đại của vu trận, sự gia trì của tháp Vu sư, và vu thuật chiến tranh đặc thù.
+But nhìn chung, nếu không có sự gia trì của lực lượng viện trợ bên ngoài thì một Vu sư cấp ba đơn lẻ tuyệt đối không thể phát huy ra sức mạnh cấp bốn.
+Trong tình huống bình thường, Vu sư cấp một giải phóng một vu thuật, dùng vu khí tốt nhất, thuốc gia trì tốt nhất, mô hình vu thuật tốt nhất, cộng với toàn bộ tinh thần lực, thì năng lực xuất ra cao nhất ở dưới 100 độ. Tình huống bình thường nên ở khoảng từ 30 đến 50 độ.
+Vu sư cấp hai có năng lực xuất ra cao nhất dưới 1000 độ. Tình huống bình thường ở khoảng từ 300 đến 500 độ.
+Vu sư cấp ba có công suất xuất ra cao nhất dưới 1 vạn độ, bình thường từ 3000 đến 5000 độ.
+Mà Vu sư cấp bốn là Vu sư sở hữu danh hiệu, bá chủ một phương vào thời thượng cổ. Năng lực xuất ra trong một cú ra đòn tùy ý của họ ít nhất cũng ở mức 10 vạn độ, trực tiếp vượt qua đơn vị hàng vạn, bước vào hàng chục vạn.
+Mà tiêu chuẩn này chỉ là công suất xuất ra ở mức tối thiểu, một Vu sư cấp bốn thực sự khi giải phóng vu thuật cấp bốn thì sức mạnh còn phình to gấp bốn năm lần.
+Mức công suất xuất ra này khiến Vu sư cấp bốn đã sở hữu sức mạnh hủy diệt một thế giới. Một Vu sư cấp bốn giải phóng năng lượng của mình mà không hề kiềm chế ở thế giới cấp thấp thì phản ứng dây chuyền gây ra có thể dễ dàng hủy diệt cả thế giới.
+Mỗi một Vu sư một khi tiến vào cấp bậc cấp bốn, các Vu sư ở tầng dưới sẽ tự nhiên dựa theo đặc tính sức mạnh, tính cách con người, và trải nghiệm trưởng thành của vị Vu sư này mà đặt cho vị Vu sư này một danh hiệu vang dội.
+Từ thời điểm này trở đi, tất cả các Vu sư tầng dưới sẽ chỉ gọi danh hiệu của vị Vu sư này chứ không tùy tiện gọi thẳng tên của họ.
+Bởi vì tên của Vu sư cấp bốn đã không còn là danh xưng có thể tùy ý kêu gọi nữa, danh húy của Vu sư cấp bốn đã đi sâu vào các ngóc ngách của thế giới, nếu tùy ý kêu gọi thì Vu sư cấp bốn có thể cảm ứng được.
+Thậm chí ở bên ngoài thế giới, nếu tùy ý kêu gọi danh húy của Vu sư cấp bốn thì cho dù cách biệt một thế giới, Vu sư cấp bốn cũng có thể cảm ứng được.
+Đây cũng là một trong những nguyên nhân chủ yếu khiến các Vu sư cấp bốn thời thượng cổ tiến hành câu cá thế giới. Một khi tên của Vu sư cấp bốn truyền bá sang một thế giới khác, nếu sinh mệnh của thế giới đó không đề phòng mà tùy ý kêu gọi thì Vu sư cấp bốn có thể dựa vào năng lực này để nhanh chóng định vị thế giới đó và dùng lối đi thế giới cưỡng ép khóa chặt.
+Vu sư cấp bốn, ngoại trừ tuổi thọ ra thì không khác gì thần linh trong truyền thuyết của phàm nhân.
+But tình huống của Grimm rất đặc thù, huyết mạch bá đạo được hợp thành liên tục thay đổi thể chất của Grimm, đồng thời cũng liên tục thay đổi thiên phú của Grimm.
+Cho đến hiện tại, thiên phú của Grimm đã trở nên trừu tượng. Khả năng khống chế siêu mạnh của Chip có thể bóc tách hoàn hảo phù văn vu thuật thiên phú của Grimm mà không gây ra bất kỳ tổn thương nào vào mỗi lần Grimm tấn công cấp bậc và không gian tinh thần lực khuếch trương. Dưới sự gia trì của năng lực này, mỗi một lần thăng cấp thì thiên phú của Grimm đều sẽ liên tục thay đổi, sau vài lần thì vu thuật thiên phú của Grimm đã biến đổi đến mức hoàn toàn thay đổi.
+Khi ở cấp một, cấp hai thì miễn cưỡng còn có phân loại, đợi đến khi hoàn thành hợp thành huyết mạch và đột phá Vu sư cấp ba, vu thuật thiên phú của Grimm đã trực tiếp biến thành sự thống trị đối với tinh không.
+"Tư liệu của học viện Linh Hồn nằm ở thời kỳ thượng cổ, không có ghi chép gì về minh tưởng pháp cao đẳng vốn mới trỗi dậy vào thời trung cổ. Muốn biết chi tiết mạch của chúng ta có điểm gì khác biệt thì thực sự phải đi hỏi Dennis đại nhân một chút!"
+Vừa đi vừa nghĩ, Grimm đi tới một khoảng đất trống dưới chân núi, một trận pháp truyền tống cỡ lớn đang lẳng lặng đặt ở nơi đó.
+...
+Đầm Lầy Tử Hồn.
+Là tổng bộ cải tổ của học phái Cực Hạn, nơi đây đã phát sinh thay đổi kinh thiên động địa.
+Vùng đầm lầy màu đen ban đầu đã biến mất không thấy tăm hơi, thay thế vào đó là vùng đất bằng phẳng. Toàn bộ đầm lầy dưới sự liên thủ của ba vị Vu sư cấp ba đã nhanh chóng bị lấp bằng, đủ loại ma vật hệ năng lượng tiêu cực bị quét sạch. Hạt năng lượng tiêu cực nồng đậm vốn phân bố ở Đầm Lầy Tử Hồn cũng dần dần tiêu tán, thay thế vào đó là các hạt thuộc các hệ phân bố đều nhau.
+Thông qua trận pháp truyền tống tới ngoại vi Đầm Lầy Tử Hồn, nhìn Đầm Lầy Tử Hồn đã biến thành một bình nguyên, thậm chí có cỏ non mọc lên, Grimm cảm nhận được một cảm giác vô cùng không hài hòa.
+"Vì sự phát triển lành mạnh của học viện, e là nhóm Lilian đại nhân cũng đã tốn không ít công sức!"
+Grimm nhìn bản đồ phân bố hạt năng lượng do Chip thu thập được rồi gật đầu. Tình huống này quả thực có lợi hơn cho sự phát triển của một thế lực bình thường.
+Trước kia do Bàn Tay Tử Hồn hoàn toàn được xây dựng dựa trên Tetrak, cộng thêm việc là tổ chức Hắc vu sư nên cơ bản không xử lý gì mấy đối với môi trường khắc nghiệt. Dù sao đối với Hắc vu sư mà nói, sinh tồn và trưởng thành trong môi trường khắc nghiệt này chỉ là một loại rèn luyện đơn giản.
+But Đầm Lầy Tử Hồn hiện tại đã gần như có thể đổi tên thành bình nguyên Cực Hạn.
+Cẩn thận cảm nhận bốn phía, Grimm có thể mơ hồ cảm nhận được sức hút hạt nguyên tố truyền đến từ mặt đất. "Còn đặc biệt bố trí vu trận cỡ lớn dùng để hội tụ hạt nguyên tố bốn phía!"
+"Đến rồi sao?"
+Grimm ngẩng đầu lên, vài luồng lưu quang màu thanh lục nhanh chóng tiếp cận Grimm.
+"Cạp cạp!!!"
+Ba con chim mang lông vũ màu thanh lục giống như chim ưng mang theo cuồng phong, nhanh chóng bay tới bên cạnh Grimm.
+"Sử dụng chim làm thú bảo vệ sao?" Grimm nhướng mày.
+Nói chung, rất ít học viện lựa chọn chim làm thú bảo vệ, bởi vì ma vật loài chim nói chung không mạnh lắm và không giỏi chiến đấu trận địa.
+"Grimm đại nhân! Chào ngài!"
+Theo những con chim này không ngừng tiếp cận, chúng nhanh chóng phát hiện ra Grimm. Là nhân vật phong vân của học phái, những thú bảo vệ này đã sớm nhìn thấy ảnh của Grimm qua quả cầu pha lê.
+Tất nhiên quan trọng nhất là phù văn trên đỉnh đầu của chúng mơ hồ nhấp nháy ánh sáng trắng! Đây là hiện tượng chỉ xuất hiện khi tiếp cận cao tầng học viện.
+Những con chim này lần lượt đáp xuống mặt đất, cúi người đặt đầu sát đất để biểu thị sự kính trọng đối với Grimm. Thân phận Vu sư cấp ba của Grimm không cho phép chúng chậm trễ.
+Nhìn những con chim đang nằm bò trên đất với động tác vụng về, Grimm có chút dở khóc dở cười.
+Những con chim này không thích hợp với lễ cúi chào của nhân loại, cho nên làm ra vẻ vô cùng kỳ quái.
+"Được rồi, đứng lên đi! Dẫn đường phía trước cho ta!" Grimm ra hiệu cho những con chim này bay lên dẫn đường cho hắn.
+Thời gian xây dựng học viện tuy rất ngắn, nhưng ngoại vi chắc chắn cũng đã bố trí vu thuật liên quan, tuy không gây ảnh hưởng gì cho Grimm nhưng hắn cũng không muốn gây ra động tĩnh quá lớn!
+"Vâng, đại nhân, xin đi theo tôi!" Những con chim trên đất nhanh chóng bay lên, bay chậm rãi ở phía trước Grimm để dẫn đường cho hắn, vài con chim khác thì bay ở bên cạnh Grimm để hộ tống.
+"Các ngươi là sinh vật hợp thành sao?" Quay đầu nhìn con chim đang bay kèm bên cạnh mình, Grimm đột nhiên hỏi.
+"Vâng thưa đại nhân, chúng tôi là sinh vật hợp thành do Tetrak đại nhân chế tạo ra! Sở hữu tiềm năng trưởng thành đến cấp một!"
+Con chim cung kính trả lời câu hỏi của Grimm, nhưng trong lời nói cuối cùng vẫn lộ ra một tia tự hào.
+"Sở hữu tiềm năng trưởng thành đến cấp một sao? Hèn chi lại lựa chọn các ngươi!"
+Grimm gật đầu biểu thị sự hiểu rõ.
+Loại sinh vật hợp thành huyết mạch này có ưu điểm lớn nhất là có thể chế tạo với số lượng lớn, huống chi loại sinh vật này sở hữu tiềm năng đạt tới cấp một, và sở hữu trí tuệ cực kỳ hiếm thấy ở sinh vật hợp thành, có thể tiến hành giao tiếp.
+Under sự dẫn dắt của những con chim này, Grimm nhanh chóng đi tới ngoại vi học viện, tường vây ở đây đã bị dỡ bỏ một phần. Quy mô ban đầu của Bàn Tay Tử Hồn chắc chắn là không đủ, bắt buộc phải tiến hành khuếch trương ở mức độ nhất định.
+But cổng lớn vẫn đứng sững ở đó chứ không bị dỡ bỏ, cánh cổng sắt tỏa ra ánh kim loại nhìn qua không có điểm gì kỳ lạ. Nhưng một hàng chim đứng ở phía trên mơ hồ tỏa ra dao động cấp một đang cảnh cáo bất kỳ kẻ nào muốn tới gây rối.
+Cổng lớn của học viện đang mở rộng, lượng lớn phàm nhân ra ra vào vào không ngừng.
+Những phàm nhân chuẩn bị tiến vào, khuôn mặt của mỗi người đều mang theo sự thỏn mỏn lo âu, thỉnh thoảng còn nhìn về phía những phàm nhân đang ủ rũ bước ra ngoài.
+"Xem ra kế hoạch tuyển sinh của học viện vẫn vô cùng rầm rộ!"
+Grimm nhìn hàng dài kéo dài từ cổng lớn ra xa hàng ngàn mét và vẫn đang liên tục tăng thêm độ dài, gật đầu lộ ra nụ cười hài lòng.

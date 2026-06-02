@@ -166,3 +166,52 @@
 - Chương 0164: Chương 164: Thiết Lập Lối Đi Vĩnh Viễn, Rời Đi
 - Chương 0165: Chương 165: Trở Về, Cục Diện Mới Của Bờ Biển Phía Đông
 - Chương 0166: Chương 166: Học Viện, Bí Mật Bên Trong, Bận Rộn
+- Chương 0167: Chương 167: Thông đạo đóng lại, thế giới chúc phúc
+- Chương 0168: Chương 168: Xây dựng tháp Vu sư
+- Chương 0169: Chương 169: Nghiên cứu thế giới thạch
+- Chương 0170: Chương 170: Thế giới thạch, sửa đổi tháp Vu sư
+- Chương 0171: Chương 171: Tháp Vu sư hoàn thành, học viện tiến hành thực nghiệm thế giới
+- Chương 0172: Chương 172: Mở ra lối đi
+- Chương 0173: Chương 173: Lối đi mở ra, Vương miện Ngọn Lửa
+- Chương 0174: Chương 174: Thái dương thạch, năng lực nuốt chửng thế giới
+- Chương 0175: Chương 175: Vương miện Ngọn Lửa, đón chào người nhà
+- Chương 0176: Chương 176: Tình hình gia tộc, đón người
+- Chương 0177: Chương 177: Truyền thừa huyết mạch, tập hợp học phái
+- Chương 0178: Chương 178: Ngôn ngữ chưa biết
+- Chương 0179: Chương 179: Nguy cơ, cơ hội
+- Chương 0180: Chương 180: Sự suy yếu của học phái
+- Chương 0181: Chương 181: Canh bạc của học phái
+- Chương 0182: Chương 182: Hội giao dịch
+- Chương 0183: Chương 183: Sự thúc đẩy của ý chí thế giới
+- Chương 0184: Chương 184: Cuộc tập hợp kết thúc, tận dụng thế giới
+- Chương 0185: Chương 185 Lĩnh vực khuếch trương
+- Chương 0186: Chương 186 Chế tạo tay sai
+- Chương 0187: Chương 187 Phản phệ
+- Chương 0188: Chương 188 Thức tỉnh
+- Chương 0189: Chương 189 Tinh linh quân đoàn, trở về Bờ biển phía Đông
+- Chương 0190: Chương 190 Là thế giới của ta sao?
+- Chương 0191: Chương 191 Phương pháp mới
+- Chương 0192: Chương 192 Tăng cường linh hồn tạm thời
+- Chương 0193: Chương 193 Tìm kiếm thế giới, tìm được mục tiêu
+- Chương 0194: Chương 194 Học phái cải tổ
+- Chương 0195: Chương 195 Rơi xuống một lần nữa
+- Chương 0196: Chương 196 Khám phá bên ngoài
+- Chương 0197: Chương 197 Trở về, thí nghiệm
+- Chương 0198: Chương 198 Nghiên cứu phát triển vu thuật mới
+- Chương 0199: Chương 199 Chuẩn bị hỏi thăm
+- Chương 0200: Chương 200 Bí mật cấp bốn
+- Chương 0201: Chương 201 Dòng thác ngầm
+- Chương 0202: Chương 202 Trồng cây, giao dịch
+- Chương 0203: Chương 203 Tiềm năng mới
+- Chương 0204: Chương 204 Mở ra lối đi dị giới
+- Chương 0205: Chương 205 Thế giới Hàn Băng
+- Chương 0206: Chương 206 Chiến tranh (I)
+- Chương 0207: Chương 207 Chiến tranh (II)
+- Chương 0208: Chương 208 Chiến tranh (III)
+- Chương 0209: Chương 209: Chiến tranh kết thúc, thu hoạch
+- Chương 0210: Chương 210: Sau chiến tranh
+- Chương 0211: Chương 211: Biểu hiện thế giới nguyên lực
+- Chương 0212: Chương 212: Xâm lược?
+- Chương 0213: Chương 213: Bị oanh tạc rồi
+- Chương 0214: Chương 214: Huyết mạch bại lộ
+- Chương 0215: Chương 215: Thế giới khiếm khuyết

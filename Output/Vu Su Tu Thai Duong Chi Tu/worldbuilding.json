@@ -171,6 +171,48 @@
       "name_target": "Vương quốc Rừng Rậm",
       "type": "faction",
       "description": "Vương quốc của Yêu Tinh Rừng Rậm, đứng đầu là Thần Tự Nhiên Abiman."
+    },
+    {
+      "name_source": "幻术部门",
+      "name_target": "bộ phận Ảo Thuật",
+      "type": "faction",
+      "description": "Một trong các phân khoa chuyên môn tại Học viện."
+    },
+    {
+      "name_source": "死魂之手",
+      "name_target": "Bàn Tay Tử Hồn",
+      "type": "faction",
+      "description": "Tổ chức vu sư có mối liên kết trao đổi tài nguyên và linh hồn với Grimm để nhận dược tể Chúng Hồn Chi Lệ."
+    },
+    {
+      "name_source": "寂静学院",
+      "name_target": "Tịch Tĩnh Học Viện",
+      "description": "Một thế lực lớn ở Bờ biển phía Đông thế giới Vu sư."
+    },
+    {
+      "name_source": "灵魂学派",
+      "name_target": "Linh Hồn Học Phái",
+      "description": "Học phái chuyên sâu nghiên cứu ma thuật linh hồn tại Bờ biển phía Đông."
+    },
+    {
+      "name_source": "星灵军团",
+      "name_target": "Tinh linh quân đoàn",
+      "description": "Đội quân tinh linh hạ vị sinh ra từ các tinh tú của thế giới Yêu Tinh của Rừng, hoàn toàn trung thành với Grimm."
+    },
+    {
+      "name_source": "极限学院",
+      "name_target": "Học viện Cực Hạn",
+      "description": "Tổ chức vu sư mới cải tổ từ Bàn Tay Tử Hồn, hoạt động công khai ngoài sáng để quảng bá danh tiếng và thu nhận Vu sư học đồ có tư chất cao cho học phái Cực Hạn."
+    },
+    {
+      "name_source": "寒冰祭祀",
+      "name_target": "Hàn Băng tế ty",
+      "description": "Lực lượng tế ty của thế giới Hàn Băng, có khả năng hiến tế trực tiếp để thu nhận cảnh báo và thông tin từ ý chí thế giới."
+    },
+    {
+      "name_source": "冰洁学派",
+      "name_target": "học phái Băng Khiết",
+      "description": "Một học phái minh tưởng pháp cao đẳng ở Bờ biển phía Đông chuyên về hệ băng với môn tu hành Hàn Băng Thức Tỉnh."
     }
   ],
   "weapons": [],
@@ -659,6 +701,84 @@
       "name_target": "Thao Túng Mặt Trời",
       "type": "technique",
       "description": "Thiên phú cấp hai của Grimm giúp hòa làm một thể với mặt trời dị giới, sở hữu lực lượng cấp bốn ở gần mặt trời."
+    },
+    {
+      "name_source": "战争模式",
+      "name_target": "chế độ chiến tranh",
+      "type": "technique",
+      "description": "Chế độ cường hóa tháp Vu sư cho phép Vu sư hòa nhập ý thức với tháp, khuếch đại tinh thần lực và giám sát diện rộng."
+    },
+    {
+      "name_source": "世界通道牵引巫阵",
+      "name_target": "vu trận dẫn dắt lối đi thế giới",
+      "type": "technique",
+      "description": "Vu trận chuyên dụng đặt trên bệ đỡ thế giới thạch dùng để mở ra và cố định lối đi không gian xuyên thế giới."
+    },
+    {
+      "name_source": "召唤巫师",
+      "name_target": "Vu sư Triệu hoán",
+      "type": "technique",
+      "description": "Một lưu phái Vu sư cổ đại tinh thông không gian, chuyên ký khế ước với sinh vật dị giới để triệu gọi hỗ trợ chiến đấu."
+    },
+    {
+      "name_source": "瞬间传送阵",
+      "name_target": "trận pháp truyền tống tức thời",
+      "type": "technique",
+      "description": "Trận pháp truyền tống tức thời thiết kế để thu hồi lập tức người sử dụng về vùng an toàn."
+    },
+    {
+      "name_source": "火元素领域",
+      "name_target": "Lĩnh vực nguyên tố hỏa",
+      "type": "technique",
+      "description": "Kỹ năng tăng cường khả năng ngưng tụ và khống chế nguyên tố hỏa, đồng thời kháng lại hệ tiên tri."
+    },
+    {
+      "name_source": "极端排斥力场",
+      "name_target": "Lực trường bài xích cực đoan",
+      "type": "technique",
+      "description": "Lực trường phòng ngự bị động tức thời kích hoạt khi người mang Vương miện Ngọn Lửa chịu công kích."
+    },
+    {
+      "name_source": "世界迁移定位术",
+      "name_target": "Thuật định vị dịch chuyển thế giới",
+      "type": "technique",
+      "description": "Môn vu thuật của các vu sư thượng cổ dùng để dẫn dắt sức mạnh thế giới Vu sư để quay trở về khi bị vây khốn hoặc lạc đường ở thế giới khác."
+    },
+    {
+      "name_source": "元素能量封印",
+      "name_target": "Phong Ấn Năng Lượng Nguyên Tố",
+      "type": "technique",
+      "description": "Môn vu thuật thu thập từ tư liệu của học viện Linh Hồn dùng để niêm phong các vật phẩm hoặc tri thức mang năng lượng huyền bí nguy hiểm."
+    },
+    {
+      "name_source": "星辰预言术",
+      "name_target": "Tinh tú dự ngôn thuật",
+      "description": "Môn vu thuật dự ngôn cao cấp sử dụng chòm sao của thế giới Vu sư để giao tiếp và thu nhận thông tin bên ngoài thế giới."
+    },
+    {
+      "name_source": "世界钓鱼",
+      "name_target": "câu cá thế giới",
+      "description": "Kỹ thuật thượng cổ dùng để định vị, neo giữ và thiết lập lối đi kéo các thế giới cấp thấp tiếp cận thế giới Vu sư."
+    },
+    {
+      "name_source": "石化诅咒",
+      "name_target": "nguyền rủa thạch hóa",
+      "description": "Lời nguyền làm biến đổi các bộ phận cơ thể sinh vật thành đá khi tiếp xúc với môi trường bị nguyền rủa hoặc sinh vật mang lời nguyền."
+    },
+    {
+      "name_source": "上古血脉燃烧培养法",
+      "name_target": "Phương Pháp Nuôi Dưỡng Đốt Cháy Huyết Mạch Thượng Cổ",
+      "description": "Phương pháp nuôi dưỡng và kích hoạt đốt cháy huyết mạch từ cấp bốn trở lên từ thời thượng cổ."
+    },
+    {
+      "name_source": "血脉燃烧融合法",
+      "name_target": "phương pháp dung hợp đốt cháy huyết mạch",
+      "description": "Một biến thể của phương pháp nuôi dưỡng huyết mạch thượng cổ, giúp cải tạo gen trong ti thể để dung hợp thêm huyết mạch mà không gây xung đột với nhân tế bào."
+    },
+    {
+      "name_source": "寒冰觉醒",
+      "name_target": "Hàn Băng Thức Tỉnh",
+      "description": "Môn minh tưởng pháp cao đẳng của học phái Băng Khiết, sử dụng vật phẩm hệ băng để tăng tiến độ tu luyện."
     }
   ],
   "cultivation_systems": [],
@@ -783,6 +903,74 @@
       "name_target": "Huyết mạch Xà yêu cánh lửa Krolatz",
       "type": "cultivation_resource",
       "description": "Huyết mạch tổng hợp cấp 4 cực kỳ ổn định, mang nhiều kỹ năng chiến đấu thượng cổ."
+    },
+    {
+      "name_source": "科罗拉兹飞翼火焰蛇妖",
+      "name_target": "Xà yêu cánh lửa Krolatz",
+      "type": "cultivation_resource",
+      "description": "Huyết mạch đặc thù có tiềm năng cấp bốn do Grimm nghiên cứu bồi dưỡng dành riêng cho người thân phàm nhân."
+    },
+    {
+      "name_source": "云雾巨人之血",
+      "name_target": "Máu Khổng Lồ Mây",
+      "type": "cultivation_resource",
+      "description": "Máu của loài Khổng Lồ Mây cấp bốn đã tuyệt chủng."
+    },
+    {
+      "name_source": "寒翼鸟的血肉",
+      "name_target": "Thịt và máu Chim Cánh Lạnh",
+      "type": "cultivation_resource",
+      "description": "Nguyên liệu chế thuốc thu được từ loài Chim Cánh Lạnh cấp ba cực kỳ hiếm thấy."
+    },
+    {
+      "name_source": "信仰之力",
+      "name_target": "sức mạnh tín ngưỡng",
+      "description": "Năng lượng sinh ra từ sự cầu nguyện và đức tin cuồng nhiệt của chúng sinh trí tuệ đối với các thần linh."
+    },
+    {
+      "name_source": "下位星灵",
+      "name_target": "tinh linh hạ vị",
+      "description": "Các tinh linh được sinh ra từ các tinh thần vô chủ sau khi hấp thụ sức mạnh tín ngưỡng đã được thuần hóa từ mặt trời, hoàn toàn trung thành với Grimm."
+    },
+    {
+      "name_source": "超限者",
+      "name_target": "Siêu Hạn Giả",
+      "description": "Khái niệm chỉ các sinh mệnh thể sở hữu sức mạnh vượt qua cấp độ giới hạn bình thường của quy tắc thế giới đó."
+    },
+    {
+      "name_source": "众星之子血脉",
+      "name_target": "huyết mạch Chúng Tinh Chi Tử",
+      "description": "Dòng huyết mạch thượng cổ mạnh mẽ do Grimm dung hợp huyết mạch Thái Dương Chi Tử cải tiến."
+    },
+    {
+      "name_source": "巨树之心",
+      "name_target": "trái tim cự thụ",
+      "description": "Nguyên liệu chế dược quý hiếm thu thập được từ các cổ thụ khổng lồ."
+    },
+    {
+      "name_source": "世界印记",
+      "name_target": "ấn ký thế giới",
+      "description": "Dấu ấn đặc thù do thế giới sinh ra dùng để phân phối đóng góp và ban thưởng năng lượng bản nguyên sau chiến tranh thế giới."
+    },
+    {
+      "name_source": "极光巨人",
+      "name_target": "Khổng Lồ Cực Quang",
+      "description": "Thực thể huyết mạch hệ lôi/quang mang màu lam làm chủ đạo."
+    },
+    {
+      "name_source": "月亮精灵",
+      "name_target": "Tinh Linh Mặt Trăng",
+      "description": "Huyết mạch sinh mệnh mang sức mạnh mặt trăng màu trắng tinh."
+    },
+    {
+      "name_source": "元素之光",
+      "name_target": "ánh sáng nguyên tố",
+      "description": "Quang mang nguyên tố được ngưng tụ khi Vu sư đột phá lên cấp bốn, mang các thuộc tính đặc trưng của linh hồn và minh tưởng pháp."
+    },
+    {
+      "name_source": "线粒体",
+      "name_target": "ti thể",
+      "description": "Cơ quan sản sinh năng lượng của tế bào, có gen độc lập có thể dùng để cấy ghép thêm huyết mạch bổ trợ."
     }
   ],
   "power_ranking": {
@@ -1063,6 +1251,56 @@
       "name_target": "vùng ven biển phía tây nam",
       "type": "location",
       "description": "Khu vực phong đất được học viện Bạch Ốc phân phối cho Grimm, dùng để xây dựng phân viện và tháp Vu sư."
+    },
+    {
+      "name_source": "亚西平原",
+      "name_target": "bình nguyên Yaxi",
+      "type": "location",
+      "description": "Lãnh địa rộng lớn giáp biển của Grimm tại Bờ biển phía Đông."
+    },
+    {
+      "name_source": "亚西王国",
+      "name_target": "vương quốc Yaxi",
+      "type": "location",
+      "description": "Quốc gia phàm nhân nằm trong bình nguyên Yaxi."
+    },
+    {
+      "name_source": "奥巴塔拉山脉",
+      "name_target": "dãy núi Obatala",
+      "type": "location",
+      "description": "Dãy núi có nồng độ hỏa nguyên tố cao, nơi Grimm lựa chọn để xây dựng tháp Vu sư."
+    },
+    {
+      "name_source": "太阳山脉",
+      "name_target": "dãy núi Thái Dương",
+      "type": "location",
+      "description": "Tên mới do Grimm đặt cho dãy núi Obatala."
+    },
+    {
+      "name_source": "通用实验室",
+      "name_target": "phòng thí nghiệm thông dụng",
+      "type": "location",
+      "description": "Nơi Grimm thực hiện việc nung nấu và chế tạo Vương miện Ngọn Lửa trong tháp Vu sư."
+    },
+    {
+      "name_source": "死魂沼泽",
+      "name_target": "Đầm Lầy Tử Hồn",
+      "description": "Vùng đầm lầy quanh năm sương mù dày đặc và linh thể oán hận gào thét, nơi đặt đại bản doanh của Bàn Tay Tử Hồn."
+    },
+    {
+      "name_source": "特维拉星",
+      "name_target": "Sao Tevila",
+      "description": "Tinh cầu lớn nằm ở phía nam thế giới Yêu Tinh của Rừng, nơi sản sinh ra tinh linh Tevila."
+    },
+    {
+      "name_source": "寒冰世界",
+      "name_target": "Thế giới Hàn Băng",
+      "description": "Thế giới dị giới được thống trị bởi các sinh mệnh nguyên tố băng, có thuộc tính lạnh lẽo cực đoan."
+    },
+    {
+      "name_source": "寒冰塔",
+      "name_target": "tháp Hàn Băng",
+      "description": "Thiết bị giảm nhiệt độ và tăng cường băng nguyên tố trên diện rộng do thế giới Hàn Băng chế tạo."
     }
   ],
   "world_map": {
@@ -1466,6 +1704,68 @@
       "name_target": "tháp Vu sư",
       "type": "item",
       "description": "Cơ sở nghiên cứu, phòng ngự và tập trung năng lượng quan trọng của các Vu sư chính thức."
+    },
+    {
+      "name_source": "维尼纳斯稳定合金",
+      "name_target": "hợp kim ổn định Veninus",
+      "type": "item",
+      "description": "Hợp kim quý hiếm chuyên dùng để ổn định các dao động không gian/thế giới."
+    },
+    {
+      "name_source": "元素能量池",
+      "name_target": "hồ năng lượng nguyên tố",
+      "type": "item",
+      "description": "Bể chứa năng lượng làm bằng hợp kim cao năng và tài liệu vu thuật quý giá, làm lõi vận hành cho tháp Vu sư."
+    },
+    {
+      "name_source": "火焰王冠",
+      "name_target": "Vương miện Ngọn Lửa",
+      "type": "item",
+      "description": "Vu khí truyền kỳ do Chip thiết kế riêng cho Grimm, có khả năng tận dụng sức mạnh thái dương từ dị giới và triệu hoán hình chiếu thái dương."
+    },
+    {
+      "name_source": "地心熔岩石",
+      "name_target": "đá dung nham địa tâm",
+      "type": "item",
+      "description": "Loại đá chịu nhiệt cực tốt ở Bờ biển phía Đông, nguyên liệu nền để chế tạo thái dương thạch."
+    },
+    {
+      "name_source": "太阳精金",
+      "name_target": "Thái Dương Tinh Kim",
+      "type": "item",
+      "description": "Tên gọi khác của thái dương thạch."
+    },
+    {
+      "name_source": "超级太阳石",
+      "name_target": "siêu cấp thái dương thạch",
+      "type": "item",
+      "description": "Khối thái dương thạch siêu năng lượng chứa bức xạ nguyên tố hỏa cao độ."
+    },
+    {
+      "name_source": "弗罗斯特巫师晋升药",
+      "name_target": "Dược tấn thăng Vu sư Frost",
+      "type": "item",
+      "description": "Loại dược tể cực kỳ quý hiếm giúp Vu sư cấp hai đột phá tinh thần lực chất biến tiến thăng cấp ba một cách vô điều kiện, do các Vu sư cấp cao phát triển cho con cháu có tư chất kém."
+    },
+    {
+      "name_source": "纯净灵魂结晶",
+      "name_target": "Tinh thể linh hồn thuần khiết",
+      "description": "Vật phẩm trân quý dùng để chữa trị thương tổn linh hồn, sản xuất tại Ngoạn Ngẫu Tiểu Ốc."
+    },
+    {
+      "name_source": "临时灵魂强化药剂",
+      "name_target": "dược tể tăng cường linh hồn tạm thời",
+      "description": "Loại dược tể tạo giáp bảo vệ linh hồn khỏi áp lực năng lượng khổng lồ khi thăng cấp tạm thời."
+    },
+    {
+      "name_source": "灵魂密钥",
+      "name_target": "chìa khóa linh hồn",
+      "description": "Chuỗi phù văn dùng để mở khóa nội dung ẩn sâu trong các cuộn giấy da tri thức thượng cổ."
+    },
+    {
+      "name_source": "绝望之种",
+      "name_target": "Hạt Giống Tuyệt Vọng",
+      "description": "Một quả cầu pha lê đen chứa đầy năng lượng tiêu cực do các Hắc vu sư chế tạo để reo rắc oán hận thâm nhập cơ thể sinh mệnh đối phương."
     }
   ]
 }

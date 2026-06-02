@@ -33,6 +33,7 @@ from validate_analysis import validate_analysis  # noqa: E402
 from update_analysis_state import update_analysis_state  # noqa: E402
 from update_state import update_state  # noqa: E402
 from state_validator import run_state_verification, write_statecheck_report  # noqa: E402
+from ai_translate import run_ai_translation, test_connection  # noqa: E402
 
 LOGGER = get_logger("runner")
 
@@ -161,6 +162,68 @@ def run_postflight(branch_name: str, chapter: int) -> bool:
         LOGGER.info("POSTFLIGHT SUCCESS: Chapter %d is fully processed and merged.", chapter)
         return True
 
+def run_translate(branch_name: str, chapter: int, dry_run: bool = False) -> bool:
+    """Call AI to generate translation_result.json from context_pack."""
+    LOGGER.info("Starting TRANSLATE for chapter %d...", chapter)
+    result = run_ai_translation(branch_name, chapter, dry_run=dry_run)
+    if result:
+        LOGGER.info("TRANSLATE SUCCESS: Chapter %d translation generated.", chapter)
+        return True
+    else:
+        LOGGER.error("TRANSLATE FAILED: Chapter %d could not be translated.", chapter)
+        return False
+
+
+def run_full(branch_name: str, chapter: int) -> bool:
+    """Full pipeline: preflight -> translate -> postflight."""
+    LOGGER.info("="*60)
+    LOGGER.info("FULL PIPELINE: Chapter %d", chapter)
+    LOGGER.info("="*60)
+
+    # Step 1: Preflight
+    if not run_preflight(branch_name, chapter):
+        return False
+
+    # Step 2: AI Translate
+    if not run_translate(branch_name, chapter):
+        return False
+
+    # Step 3: Postflight
+    if not run_postflight(branch_name, chapter):
+        return False
+
+    LOGGER.info("FULL PIPELINE SUCCESS: Chapter %d completed end-to-end.", chapter)
+    return True
+
+
+def run_batch(
+    branch_name: str,
+    from_chapter: int,
+    to_chapter: int,
+) -> bool:
+    """Batch pipeline: run full pipeline for a range of chapters."""
+    LOGGER.info("BATCH START: Chapters %d-%d", from_chapter, to_chapter)
+    results: dict[int, bool] = {}
+
+    for ch in range(from_chapter, to_chapter + 1):
+        ok = run_full(branch_name, ch)
+        results[ch] = ok
+        if not ok:
+            LOGGER.error("BATCH: Chapter %d FAILED, continuing...", ch)
+
+    # Summary
+    passed = [ch for ch, ok in results.items() if ok]
+    failed = [ch for ch, ok in results.items() if not ok]
+
+    LOGGER.info("BATCH COMPLETE: %d passed, %d failed", len(passed), len(failed))
+    if passed:
+        LOGGER.info("  Passed: %s", passed)
+    if failed:
+        LOGGER.error("  Failed: %s", failed)
+
+    return len(failed) == 0
+
+
 def get_status(branch_name: str, chapter: int) -> None:
     """Print the pipeline status of a chapter."""
     branch_dir = resolve_branch_dir(branch_name)
@@ -200,17 +263,39 @@ def get_status(branch_name: str, chapter: int) -> None:
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="Strict Translation Engine Runner")
-    parser.add_argument("command", choices=["preflight", "postflight", "status"], help="Command to run")
-    parser.add_argument("--branch", required=True, help="Project branch name")
-    parser.add_argument("--chapter", required=True, type=int, help="Chapter number")
+    parser.add_argument(
+        "command",
+        choices=["preflight", "postflight", "auto-translate", "auto-full", "auto-batch", "status", "test-connection"],
+        help="Command to run (auto-* commands use the secondary OpenGateway AI pipeline)",
+    )
+    parser.add_argument("--branch", required=False, help="Project branch name")
+    parser.add_argument("--chapter", required=False, type=int, help="Chapter number")
+    parser.add_argument("--from-chapter", type=int, dest="from_ch", help="Start chapter (batch)")
+    parser.add_argument("--to-chapter", type=int, dest="to_ch", help="End chapter (batch)")
+    parser.add_argument("--dry-run", action="store_true", help="Don't save result (auto-translate)")
     
     args = parser.parse_args()
+
+    if args.command == "test-connection":
+        return 0 if test_connection() else 1
     
+    if args.command == "auto-batch":
+        if not args.branch or args.from_ch is None or args.to_ch is None:
+            parser.error("auto-batch requires --branch, --from-chapter, --to-chapter")
+        return 0 if run_batch(args.branch, args.from_ch, args.to_ch) else 1
+
+    if not args.branch or args.chapter is None:
+        parser.error(f"{args.command} requires --branch and --chapter")
+
     if args.command == "status":
         get_status(args.branch, args.chapter)
         return 0
     elif args.command == "preflight":
         return 0 if run_preflight(args.branch, args.chapter) else 1
+    elif args.command == "auto-translate":
+        return 0 if run_translate(args.branch, args.chapter, args.dry_run) else 1
+    elif args.command == "auto-full":
+        return 0 if run_full(args.branch, args.chapter) else 1
     elif args.command == "postflight":
         return 0 if run_postflight(args.branch, args.chapter) else 1
         

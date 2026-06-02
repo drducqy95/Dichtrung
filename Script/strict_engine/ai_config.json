@@ -1,0 +1,13 @@
+{
+  "provider": "opengateway",
+  "base_url": "https://opengateway.gitlawb.com/v1",
+  "api_key": "ogw_live_48c240c6bd5e516b1127016a67239c3e",
+  "model": "mimo-v2.5-pro",
+  "max_tokens": 32768,
+  "temperature": 0.3,
+  "max_retries": 10,
+  "retry_delay_seconds": 5,
+  "timeout_seconds": 600,
+  "cost_tracking": true,
+  "cost_log_file": "ai_cost_log.jsonl"
+}
