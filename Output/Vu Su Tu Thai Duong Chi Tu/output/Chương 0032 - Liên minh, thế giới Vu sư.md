@@ -8,7 +8,7 @@ Grimm đi theo Eric đến nhóm của một trong những thanh niên đó.
 "Tổng đốc Eric, người ngài giới thiệu đương nhiên là tôi muốn làm quen rồi, chính là người đứng sau ngài phải không?" Thanh niên được gọi là George không hề bực tức vì bị Eric ngắt lời, ngược lại còn cung kính trả lời Eric.
 "Lại đây Grimm, tôi giới thiệu cho cậu một chút, đây là trưởng nam của gia tộc thượng nghị sĩ hàng đầu Elendar chúng ta, gia tộc Emirene, George Emirene."
 Grimm nhìn George, ngũ quan đoan chính, da dẻ trắng trẻo, mặc một bộ áo yến vĩ, khí tức trầm ổn tỏa ra từ trên người hắn, trong ánh mắt thỉnh thoảng lóe lên tinh quang.
-"Chào ngài! Anh Grimm. Danh hiệu vua nước hoa của ngài vang danh khắp Liên minh Maslow, có thể trở thành người đồng hành cùng ngài, tôi càng cầu còn không được." George nở nụ cười tươi rói, đưa tay về phía Grimm.
+"Chào ngài! Ngài Grimm. Danh hiệu vua nước hoa của ngài vang danh khắp Liên minh Maslow, có thể trở thành người đồng hành cùng ngài, tôi càng cầu còn không được." George nở nụ cười tươi rói, đưa tay về phía Grimm.
 "Chào anh!" Grimm cũng mỉm cười, bắt tay với George.
 Thấy lần gặp gỡ đầu tiên của hai người khá suôn sẻ, Eric cười nói với George.
 "George, giới thiệu những người khác cho Grimm đi, các cậu đều chuẩn bị tham gia tuyển chọn, đến lúc đó còn có thể hỗ trợ lẫn nhau. Các cậu đều là người cùng trang lứa, sẽ có nhiều chủ đề để nói hơn, tôi không làm phiền nữa."
