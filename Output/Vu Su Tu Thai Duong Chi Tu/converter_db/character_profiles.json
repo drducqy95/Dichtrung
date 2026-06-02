@@ -2,8 +2,8 @@
   "metadata": {
     "branch": "Vu Su Tu Thai Duong Chi Tu",
     "book_title": "Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới",
-    "generated_at": "2026-06-02T07:14:29+07:00",
-    "total_characters": 378,
+    "generated_at": "2026-06-02T07:54:25+07:00",
+    "total_characters": 383,
     "style_tags": [
       "tây phương",
       "fantasy"
@@ -687,6 +687,26 @@
         "scene_prompt": "Full-body scene illustration of Beater (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Description: Một Vu sư lang thang từ thời Trung cổ, tác giả cuốn sách Mạo Hiểm Ký Rừng Bóng Đêm kể về cuộc phiêu lưu của mình.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
         "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/beater_portrait.png",
         "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/beater_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "",
+      "name_original": "贝革",
+      "name_translated": "Beige",
+      "gender": "unknown",
+      "role": "secondary",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Vu sư đột phá bằng Nước Siêu Hạn, cười to cuồng nhiệt khi biết tin thế giới phục hồi để viễn chinh.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Beige, a figure character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Character context: Vu sư đột phá bằng Nước Siêu Hạn, cười to cuồng nhiệt khi biết tin thế giới phục hồi để viễn chinh.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Beige (figure) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Description: Vu sư đột phá bằng Nước Siêu Hạn, cười to cuồng nhiệt khi biết tin thế giới phục hồi để viễn chinh.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/beige_portrait.png",
+        "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/beige_scene.png",
         "asset_candidates": [],
         "status": "prompt_ready"
       }
@@ -1432,6 +1452,26 @@
       }
     },
     {
+      "id": "",
+      "name_original": "丹尼斯",
+      "name_translated": "Dennis",
+      "gender": "unknown",
+      "role": "secondary",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Vu sư cấp ba của học phái Cực Hạn, là đạo sư của Lilian và sư tổ của Grimm. Ông được mời từ học phái Tự Nhiên về để làm Phó viện trưởng thứ ba của Học viện Bạch Ốc.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Dennis, a figure character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Character context: Vu sư cấp ba của học phái Cực Hạn, là đạo sư của Lilian và sư tổ của Grimm. Ông được mời từ học phái Tự Nhiên về để làm Phó viện trưởng thứ ba của Học viện Bạch Ốc.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Dennis (figure) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Description: Vu sư cấp ba của học phái Cực Hạn, là đạo sư của Lilian và sư tổ của Grimm. Ông được mời từ học phái Tự Nhiên về để làm Phó viện trưởng thứ ba của Học viện Bạch Ốc.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/dennis_portrait.png",
+        "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/dennis_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
       "id": "GCHAR_0069",
       "name_original": "德莎",
       "name_translated": "Desha",
@@ -2047,6 +2087,26 @@
         "scene_prompt": "Full-body scene illustration of Herro (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Description: Vị thần Sức Mạnh (God of Strength) của người Cosi.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
         "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/herro_portrait.png",
         "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/herro_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "",
+      "name_original": "希尔",
+      "name_translated": "Hill",
+      "gender": "unknown",
+      "role": "secondary",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Vu sư phụ trách vu trận của Học viện Bạch Ốc, bị Ngoạn Ngẫu Tiểu Ốc khống chế linh hồn và tự bạo.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Hill, a figure character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Visual traits: spectral soul form, translucent ghost-like. Character context: Vu sư phụ trách vu trận của Học viện Bạch Ốc, bị Ngoạn Ngẫu Tiểu Ốc khống chế linh hồn và tự bạo.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Hill (figure) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Visual: spectral soul form, translucent ghost-like. Description: Vu sư phụ trách vu trận của Học viện Bạch Ốc, bị Ngoạn Ngẫu Tiểu Ốc khống chế linh hồn và tự bạo.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/hill_portrait.png",
+        "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/hill_scene.png",
         "asset_candidates": [],
         "status": "prompt_ready"
       }
@@ -4992,6 +5052,26 @@
       }
     },
     {
+      "id": "",
+      "name_original": "雷多洛特",
+      "name_translated": "Redolott",
+      "gender": "unknown",
+      "role": "secondary",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Trưởng bộ phận dược tể của Học viện Bạch Ốc, Vu sư cấp hai đỉnh phong sắp đột phá cấp ba.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Redolott, a figure character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Character context: Trưởng bộ phận dược tể của Học viện Bạch Ốc, Vu sư cấp hai đỉnh phong sắp đột phá cấp ba.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Redolott (figure) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Description: Trưởng bộ phận dược tể của Học viện Bạch Ốc, Vu sư cấp hai đỉnh phong sắp đột phá cấp ba.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/redolott_portrait.png",
+        "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/redolott_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
       "id": "GCHAR_0217",
       "name_original": "莱因哈特",
       "name_translated": "Reinhardt",
@@ -6647,6 +6727,26 @@
         "scene_prompt": "Full-body scene illustration of Versis (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Description: Con cự long thuần huyết cuối cùng ở thế giới Hỏa Diễm.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
         "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/versis_portrait.png",
         "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/versis_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "",
+      "name_original": "维特莉",
+      "name_translated": "Vitri",
+      "gender": "unknown",
+      "role": "secondary",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Nữ Vu sư thuộc gia tộc Vu sư, người luôn theo đuổi Newt và cứu mạng Newt bằng vu khí phòng hộ gia tộc.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Vitri, a figure character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Character context: Nữ Vu sư thuộc gia tộc Vu sư, người luôn theo đuổi Newt và cứu mạng Newt bằng vu khí phòng hộ gia tộc.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Vitri (figure) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Description: Nữ Vu sư thuộc gia tộc Vu sư, người luôn theo đuổi Newt và cứu mạng Newt bằng vu khí phòng hộ gia tộc.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/vitri_portrait.png",
+        "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/vitri_scene.png",
         "asset_candidates": [],
         "status": "prompt_ready"
       }

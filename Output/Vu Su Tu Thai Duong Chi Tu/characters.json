@@ -3,8 +3,8 @@
     "version": "2.0",
     "schema": "gold",
     "branch": "Vu Su Tu Thai Duong Chi Tu",
-    "last_updated": "2026-06-02T07:07:55.013259+07:00",
-    "total_characters": 378
+    "last_updated": "2026-06-02T07:26:48.430908+07:00",
+    "total_characters": 383
   },
   "characters": [
     {
@@ -6051,6 +6051,196 @@
       "status": "active",
       "appearance": {
         "physical": "Vị cao tầng và là chứng nhân cuối cùng của học viện Linh Hồn thượng cổ, người để lại nhật ký và máu của Thái Dương Chi Tử.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "雷多洛特",
+      "name_target": "Redolott",
+      "name_aliases": [],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Trưởng bộ phận dược tể của Học viện Bạch Ốc, Vu sư cấp hai đỉnh phong sắp đột phá cấp ba.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "希尔",
+      "name_target": "Hill",
+      "name_aliases": [],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Vu sư phụ trách vu trận của Học viện Bạch Ốc, bị Ngoạn Ngẫu Tiểu Ốc khống chế linh hồn và tự bạo.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "维特莉",
+      "name_target": "Vitri",
+      "name_aliases": [],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Nữ Vu sư thuộc gia tộc Vu sư, người luôn theo đuổi Newt và cứu mạng Newt bằng vu khí phòng hộ gia tộc.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "贝革",
+      "name_target": "Beige",
+      "name_aliases": [],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Vu sư đột phá bằng Nước Siêu Hạn, cười to cuồng nhiệt khi biết tin thế giới phục hồi để viễn chinh.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "丹尼斯",
+      "name_target": "Dennis",
+      "name_aliases": [],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Vu sư cấp ba của học phái Cực Hạn, là đạo sư của Lilian và sư tổ của Grimm. Ông được mời từ học phái Tự Nhiên về để làm Phó viện trưởng thứ ba của Học viện Bạch Ốc.",
         "style": "",
         "distinctive": ""
       },

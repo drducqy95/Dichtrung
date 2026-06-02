@@ -13,7 +13,7 @@
     "split": "Source/Source split/Vu Su Tu Thai Duong Chi Tu/",
     "description": "Source nam o thu muc goc, KHONG copy vao branch"
   },
-  "completed_chapters": 136,
+  "completed_chapters": 146,
   "total_chapters": 915,
   "output_filename_pattern_display": "Chương {chapter:04d}: {title}.md",
   "output_filename_pattern_filesystem": "Chương {chapter:04d} - {title}.md",
@@ -22,5 +22,5 @@
     "tây phương",
     "fantasy"
   ],
-  "generated_at": "2026-06-02T07:14:29+07:00"
+  "generated_at": "2026-06-02T07:54:25+07:00"
 }

@@ -136,3 +136,13 @@
 - Chương 0134: Chương 134: Thu hoạch từ di tích (1)
 - Chương 0135: Chương 135: Thu hoạch từ di tích (2)
 - Chương 0136: Chương 136: Quy hoạch con đường
+- Chương 0137: Chương 137: Trở lại học viện · Minh tưởng pháp
+- Chương 0138: Chương 138: Chuẩn bị về nhà, sự báo đáp của Newt
+- Chương 0139: Chương 139: Tiền tấu của dược tể
+- Chương 0140: Chương 140: Chúng Hồn Chi Lệ
+- Chương 0141: Chương 141: Thử Thuốc
+- Chương 0142: Chương 142: Cuồng Nhiệt
+- Chương 0143: Chương 143: Bạo Phát
+- Chương 0144: Chương 144: Thế Giới Phục Hồi
+- Chương 0145: Chương 145: Nhân Vật Chính Của Hội Nghị
+- Chương 0146: Chương 146: Trào Lưu Ngầm Của Học Phái

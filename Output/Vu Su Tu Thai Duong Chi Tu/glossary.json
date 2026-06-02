@@ -3,8 +3,8 @@
     "version": "2.0",
     "schema": "gold",
     "branch": "Vu Su Tu Thai Duong Chi Tu",
-    "last_updated": "2026-06-02T07:14:28.885385+07:00",
-    "total_entries": 1549
+    "last_updated": "2026-06-02T07:26:48.411552+07:00",
+    "total_entries": 1572
   },
   "entries": [
     {
@@ -13364,7 +13364,8 @@
         "chapter_0088",
         "chapter_0090",
         "chapter_0091",
-        "chapter_0092"
+        "chapter_0092",
+        "chapter_0139"
       ]
     },
     {
@@ -13412,7 +13413,8 @@
         "chapter_0099",
         "chapter_0108",
         "chapter_0116",
-        "chapter_0124"
+        "chapter_0124",
+        "chapter_0140"
       ]
     },
     {
@@ -13461,7 +13463,9 @@
         "chapter_0106",
         "chapter_0116",
         "chapter_0118",
-        "chapter_0124"
+        "chapter_0124",
+        "chapter_0139",
+        "chapter_0140"
       ]
     },
     {
@@ -13482,7 +13486,8 @@
         "chapter_0036",
         "chapter_0084",
         "chapter_0097",
-        "chapter_0127"
+        "chapter_0127",
+        "chapter_0136"
       ]
     },
     {
@@ -13616,7 +13621,16 @@
         "chapter_0127",
         "chapter_0128",
         "chapter_0129",
-        "chapter_0130"
+        "chapter_0130",
+        "chapter_0131",
+        "chapter_0132",
+        "chapter_0133",
+        "chapter_0134",
+        "chapter_0135",
+        "chapter_0136",
+        "chapter_0137",
+        "chapter_0139",
+        "chapter_0140"
       ]
     },
     {
@@ -13670,7 +13684,10 @@
         "chapter_0127",
         "chapter_0128",
         "chapter_0129",
-        "chapter_0130"
+        "chapter_0130",
+        "chapter_0131",
+        "chapter_0135",
+        "chapter_0140"
       ]
     },
     {
@@ -13696,7 +13713,8 @@
         "chapter_0100",
         "chapter_0107",
         "chapter_0109",
-        "chapter_0129"
+        "chapter_0129",
+        "chapter_0140"
       ]
     },
     {
@@ -13840,7 +13858,11 @@
         "chapter_0126",
         "chapter_0127",
         "chapter_0128",
-        "chapter_0129"
+        "chapter_0129",
+        "chapter_0134",
+        "chapter_0135",
+        "chapter_0136",
+        "chapter_0138"
       ]
     },
     {
@@ -13935,7 +13957,8 @@
         "chapter_0094",
         "chapter_0096",
         "chapter_0100",
-        "chapter_0122"
+        "chapter_0122",
+        "chapter_0138"
       ]
     },
     {
@@ -14059,7 +14082,8 @@
         "chapter_0113",
         "chapter_0117",
         "chapter_0119",
-        "chapter_0126"
+        "chapter_0126",
+        "chapter_0137"
       ]
     },
     {
@@ -14090,7 +14114,12 @@
       "context": "",
       "confidence": "medium",
       "notes": "Tổ chức Bạch vu.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0119",
+        "chapter_0140"
+      ]
     },
     {
       "source": "自然学派",
@@ -14164,7 +14193,8 @@
         "chapter_0041",
         "chapter_0081",
         "chapter_0082",
-        "chapter_0097"
+        "chapter_0097",
+        "chapter_0139"
       ]
     },
     {
@@ -14194,7 +14224,11 @@
         "chapter_0095",
         "chapter_0097",
         "chapter_0103",
-        "chapter_0127"
+        "chapter_0127",
+        "chapter_0134",
+        "chapter_0135",
+        "chapter_0136",
+        "chapter_0137"
       ]
     },
     {
@@ -14227,7 +14261,8 @@
         "chapter_0072",
         "chapter_0079",
         "chapter_0097",
-        "chapter_0103"
+        "chapter_0103",
+        "chapter_0137"
       ]
     },
     {
@@ -14265,7 +14300,9 @@
         "chapter_0097",
         "chapter_0099",
         "chapter_0112",
-        "chapter_0125"
+        "chapter_0125",
+        "chapter_0137",
+        "chapter_0140"
       ]
     },
     {
@@ -14308,7 +14345,12 @@
         "chapter_0097",
         "chapter_0102",
         "chapter_0103",
-        "chapter_0104"
+        "chapter_0104",
+        "chapter_0135",
+        "chapter_0136",
+        "chapter_0138",
+        "chapter_0139",
+        "chapter_0140"
       ]
     },
     {
@@ -14364,7 +14406,8 @@
         "chapter_0106",
         "chapter_0109",
         "chapter_0128",
-        "chapter_0130"
+        "chapter_0130",
+        "chapter_0140"
       ]
     },
     {
@@ -14427,7 +14470,8 @@
         "chapter_0072",
         "chapter_0079",
         "chapter_0097",
-        "chapter_0103"
+        "chapter_0103",
+        "chapter_0137"
       ]
     },
     {
@@ -14691,7 +14735,9 @@
         "chapter_0102",
         "chapter_0103",
         "chapter_0104",
-        "chapter_0109"
+        "chapter_0109",
+        "chapter_0135",
+        "chapter_0138"
       ]
     },
     {
@@ -14712,7 +14758,12 @@
       "context": "",
       "confidence": "medium",
       "notes": "Ấn ký ma pháp dùng để truyền tin âm thanh bí mật giữa các Vu sư chính thức",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0098",
+        "chapter_0137"
+      ]
     },
     {
       "source": "空间卷轴",
@@ -14785,7 +14836,9 @@
         "chapter_0091",
         "chapter_0092",
         "chapter_0093",
-        "chapter_0095"
+        "chapter_0095",
+        "chapter_0132",
+        "chapter_0134"
       ]
     },
     {
@@ -14849,7 +14902,8 @@
         "chapter_0100",
         "chapter_0101",
         "chapter_0103",
-        "chapter_0104"
+        "chapter_0104",
+        "chapter_0134"
       ]
     },
     {
@@ -14968,7 +15022,9 @@
       "status": "auto-locked",
       "reviewed_chapters": [
         "chapter_0101",
-        "chapter_0119"
+        "chapter_0119",
+        "chapter_0138",
+        "chapter_0140"
       ]
     },
     {
@@ -15059,7 +15115,8 @@
       "reviewed_chapters": [
         "chapter_0081",
         "chapter_0096",
-        "chapter_0099"
+        "chapter_0099",
+        "chapter_0136"
       ]
     },
     {
@@ -15077,7 +15134,8 @@
         "chapter_0084",
         "chapter_0096",
         "chapter_0099",
-        "chapter_0106"
+        "chapter_0106",
+        "chapter_0134"
       ]
     },
     {
@@ -15097,7 +15155,8 @@
         "chapter_0097",
         "chapter_0099",
         "chapter_0119",
-        "chapter_0124"
+        "chapter_0124",
+        "chapter_0136"
       ]
     },
     {
@@ -15122,7 +15181,8 @@
       "status": "auto-locked",
       "reviewed_chapters": [
         "chapter_0095",
-        "chapter_0099"
+        "chapter_0099",
+        "chapter_0138"
       ]
     },
     {
@@ -15177,7 +15237,10 @@
         "chapter_0097",
         "chapter_0098",
         "chapter_0099",
-        "chapter_0119"
+        "chapter_0119",
+        "chapter_0136",
+        "chapter_0139",
+        "chapter_0140"
       ]
     },
     {
@@ -15273,7 +15336,8 @@
       "reviewed_chapters": [
         "chapter_0098",
         "chapter_0101",
-        "chapter_0118"
+        "chapter_0118",
+        "chapter_0134"
       ]
     },
     {
@@ -15325,7 +15389,17 @@
         "chapter_0127",
         "chapter_0128",
         "chapter_0129",
-        "chapter_0130"
+        "chapter_0130",
+        "chapter_0131",
+        "chapter_0132",
+        "chapter_0133",
+        "chapter_0134",
+        "chapter_0135",
+        "chapter_0136",
+        "chapter_0137",
+        "chapter_0138",
+        "chapter_0139",
+        "chapter_0140"
       ]
     },
     {
@@ -15350,7 +15424,8 @@
       "status": "auto-locked",
       "reviewed_chapters": [
         "chapter_0100",
-        "chapter_0109"
+        "chapter_0109",
+        "chapter_0140"
       ]
     },
     {
@@ -15361,7 +15436,12 @@
       "context": "",
       "confidence": "1.0",
       "notes": "Bản hợp đồng ràng buộc pháp lý",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0132",
+        "chapter_0138"
+      ]
     },
     {
       "source": "凡人大陆",
@@ -15391,7 +15471,12 @@
       "context": "",
       "confidence": "1.0",
       "notes": "Khu vực chuyên biệt bảo vệ bằng màn chắn năng lượng cao dành riêng cho Vu sư chính thức trở lên",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0102",
+        "chapter_0138"
+      ]
     },
     {
       "source": "飞艇",
@@ -15511,7 +15596,13 @@
       "context": "",
       "confidence": "1.0",
       "notes": "Dược tể Hắc Ác dùng để tấn công linh thể",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0102",
+        "chapter_0138",
+        "chapter_0139"
+      ]
     },
     {
       "source": "黑恶之水",
@@ -15635,7 +15726,8 @@
       "status": "auto-locked",
       "reviewed_chapters": [
         "chapter_0105",
-        "chapter_0119"
+        "chapter_0119",
+        "chapter_0138"
       ]
     },
     {
@@ -15679,7 +15771,12 @@
       "context": "",
       "confidence": "1.0",
       "notes": "Vu sư Rodel vạm vỡ",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0119",
+        "chapter_0138"
+      ]
     },
     {
       "source": "活体灌木",
@@ -15747,7 +15844,8 @@
         "chapter_0115",
         "chapter_0116",
         "chapter_0127",
-        "chapter_0128"
+        "chapter_0128",
+        "chapter_0138"
       ]
     },
     {
@@ -15802,7 +15900,8 @@
       "status": "auto-locked",
       "reviewed_chapters": [
         "chapter_0107",
-        "chapter_0120"
+        "chapter_0120",
+        "chapter_0135"
       ]
     },
     {
@@ -15820,7 +15919,8 @@
         "chapter_0116",
         "chapter_0119",
         "chapter_0127",
-        "chapter_0129"
+        "chapter_0129",
+        "chapter_0138"
       ]
     },
     {
@@ -15875,7 +15975,8 @@
       "status": "auto-locked",
       "reviewed_chapters": [
         "chapter_0110",
-        "chapter_0112"
+        "chapter_0112",
+        "chapter_0135"
       ]
     },
     {
@@ -15892,7 +15993,8 @@
         "chapter_0112",
         "chapter_0113",
         "chapter_0115",
-        "chapter_0127"
+        "chapter_0127",
+        "chapter_0139"
       ]
     },
     {
@@ -15909,7 +16011,9 @@
         "chapter_0110",
         "chapter_0120",
         "chapter_0121",
-        "chapter_0122"
+        "chapter_0122",
+        "chapter_0138",
+        "chapter_0140"
       ]
     },
     {
@@ -15962,7 +16066,11 @@
         "chapter_0121",
         "chapter_0122",
         "chapter_0123",
-        "chapter_0126"
+        "chapter_0126",
+        "chapter_0133",
+        "chapter_0135",
+        "chapter_0138",
+        "chapter_0140"
       ]
     },
     {
@@ -15996,7 +16104,8 @@
         "chapter_0118",
         "chapter_0126",
         "chapter_0127",
-        "chapter_0128"
+        "chapter_0128",
+        "chapter_0135"
       ]
     },
     {
@@ -16025,7 +16134,8 @@
         "chapter_0115",
         "chapter_0116",
         "chapter_0127",
-        "chapter_0128"
+        "chapter_0128",
+        "chapter_0138"
       ]
     },
     {
@@ -16062,7 +16172,13 @@
         "chapter_0117",
         "chapter_0119",
         "chapter_0124",
-        "chapter_0127"
+        "chapter_0127",
+        "chapter_0134",
+        "chapter_0135",
+        "chapter_0136",
+        "chapter_0137",
+        "chapter_0138",
+        "chapter_0139"
       ]
     },
     {
@@ -16158,7 +16274,10 @@
         "chapter_0121",
         "chapter_0123",
         "chapter_0126",
-        "chapter_0127"
+        "chapter_0127",
+        "chapter_0134",
+        "chapter_0136",
+        "chapter_0139"
       ]
     },
     {
@@ -16251,7 +16370,11 @@
         "chapter_0124",
         "chapter_0126",
         "chapter_0127",
-        "chapter_0128"
+        "chapter_0128",
+        "chapter_0133",
+        "chapter_0135",
+        "chapter_0136",
+        "chapter_0139"
       ]
     },
     {
@@ -16336,7 +16459,16 @@
         "chapter_0125",
         "chapter_0126",
         "chapter_0129",
-        "chapter_0130"
+        "chapter_0130",
+        "chapter_0131",
+        "chapter_0132",
+        "chapter_0133",
+        "chapter_0134",
+        "chapter_0135",
+        "chapter_0136",
+        "chapter_0137",
+        "chapter_0138",
+        "chapter_0140"
       ]
     },
     {
@@ -16347,7 +16479,15 @@
       "context": "",
       "confidence": "medium",
       "notes": "Nhánh vu sư sử dụng huyết mạch của các sinh vật mạnh mẽ để tu luyện.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0124",
+        "chapter_0131",
+        "chapter_0132",
+        "chapter_0135",
+        "chapter_0136"
+      ]
     },
     {
       "source": "灵魂精粹",
@@ -16357,7 +16497,13 @@
       "context": "",
       "confidence": "medium",
       "notes": "Tinh chất cô đọng từ việc nghiền nát linh hồn của phàm nhân hoặc vu sư.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0125",
+        "chapter_0139",
+        "chapter_0140"
+      ]
     },
     {
       "source": "灵体",
@@ -16371,7 +16517,9 @@
       "status": "auto-locked",
       "reviewed_chapters": [
         "chapter_0125",
-        "chapter_0126"
+        "chapter_0126",
+        "chapter_0138",
+        "chapter_0140"
       ]
     },
     {
@@ -16387,7 +16535,11 @@
       "reviewed_chapters": [
         "chapter_0126",
         "chapter_0129",
-        "chapter_0130"
+        "chapter_0130",
+        "chapter_0131",
+        "chapter_0133",
+        "chapter_0134",
+        "chapter_0140"
       ]
     },
     {
@@ -16408,7 +16560,14 @@
       "context": "",
       "confidence": "medium",
       "notes": "Môn minh tưởng pháp cổ đại cải biên từ chủng tộc yêu tinh dùng để tu luyện linh hồn.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0127",
+        "chapter_0135",
+        "chapter_0136",
+        "chapter_0137"
+      ]
     },
     {
       "source": "荧光石",
@@ -16443,7 +16602,12 @@
       "context": "",
       "confidence": "medium",
       "notes": "Trận pháp dùng để dung hợp huyết mạch của Thái Dương Chi Tử vào cơ thể người thừa kế.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0129",
+        "chapter_0131"
+      ]
     },
     {
       "source": "能量转化阵",
@@ -16483,7 +16647,12 @@
       "context": "",
       "confidence": "medium",
       "notes": "Sinh vật huyền thoại ban đầu là nguồn cung cấp sức mạnh huyết mạch cho các Thuật sĩ.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0131",
+        "chapter_0135"
+      ]
     },
     {
       "source": "本源血脉",
@@ -16493,7 +16662,13 @@
       "context": "",
       "confidence": "medium",
       "notes": "Dòng máu gốc rễ hoàn chỉnh nhất từ nguồn gốc huyết mạch, không chịu xiềng xích giới hạn.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0131",
+        "chapter_0132",
+        "chapter_0135"
+      ]
     },
     {
       "source": "血脉传承仪式",
@@ -16563,7 +16738,12 @@
       "context": "",
       "confidence": "medium",
       "notes": "Thiên phú huyết mạch cho phép chuyển hóa cơ thể thành nguyên tố lửa.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0134",
+        "chapter_0135"
+      ]
     },
     {
       "source": "光元素化",
@@ -16573,7 +16753,12 @@
       "context": "",
       "confidence": "medium",
       "notes": "Thiên phú huyết mạch cho phép chuyển hóa cơ thể thành nguyên tố ánh sáng.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0134",
+        "chapter_0135"
+      ]
     },
     {
       "source": "降维打击",
@@ -16633,6 +16818,242 @@
       "context": "",
       "confidence": "medium",
       "notes": "Môn minh tưởng pháp chính yếu được lựa chọn làm nền tảng tu luyện chính của Vu sư.",
+      "locked": false
+    },
+    {
+      "source": "气息遮断巫阵",
+      "source_language": "zh",
+      "target": "vu trận che giấu khí tức",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Trận pháp ma thuật dùng để phong tỏa và che giấu khí tức năng lượng nguyên tố phát tán ra xung quanh.",
+      "locked": false
+    },
+    {
+      "source": "被迫害妄想症",
+      "source_language": "zh",
+      "target": "chứng hoang tưởng bị hại",
+      "category": "other",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Hội chứng tâm lý luôn lo sợ người khác sẽ phát hiện bí mật và ám hại mình.",
+      "locked": false
+    },
+    {
+      "source": "招生巫师",
+      "source_language": "zh",
+      "target": "Vu sư tuyển sinh",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Nhiệm vụ đi chiêu mộ học đồ của học viện vu sư.",
+      "locked": false
+    },
+    {
+      "source": "众魂之泪",
+      "source_language": "zh",
+      "target": "Chúng Hồn Chi Lệ",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Dược tể thượng cổ được tinh luyện từ linh hồn sụp đổ của búp bê vải.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0138",
+        "chapter_0139",
+        "chapter_0140"
+      ]
+    },
+    {
+      "source": "恶念净化药剂",
+      "source_language": "zh",
+      "target": "dược tể tịnh hóa ác niệm",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Dược tể dùng để tịnh hóa ác niệm và năng lượng tiêu cực tích tụ trong cơ thể.",
+      "locked": false
+    },
+    {
+      "source": "灵魂粉碎仪",
+      "source_language": "zh",
+      "target": "thiết bị nghiền nát linh hồn",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thiết bị dùng để nghiền nát linh hồn của đối tượng chế dược.",
+      "locked": false
+    },
+    {
+      "source": "阿鲁特乌斯",
+      "source_language": "zh",
+      "target": "Aluteus",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tên vu thuật tịnh hóa hoặc quét kiểm tra linh hồn do Redolott thi triển.",
+      "locked": false
+    },
+    {
+      "source": "长生药剂",
+      "source_language": "zh",
+      "target": "dược tể trường sinh",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Loại thuốc có thể giúp kéo dài thọ mệnh của người thường thêm 100 năm.",
+      "locked": false
+    },
+    {
+      "source": "紧急召集令",
+      "source_language": "zh",
+      "target": "Lệnh triệu tập khẩn cấp",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thông báo triệu tập tập hợp toàn bộ thành viên của học viện khi có khủng hoảng.",
+      "locked": false
+    },
+    {
+      "source": "大地守护",
+      "source_language": "zh",
+      "target": "Đại Địa Thủ Hộ",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Vu thuật hệ thổ giúp phòng ngự.",
+      "locked": false
+    },
+    {
+      "source": "荆棘遍布",
+      "source_language": "zh",
+      "target": "Gai Góc Chằng Chịt",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Vu thuật phòng ngự gia cố.",
+      "locked": false
+    },
+    {
+      "source": "元素抵抗",
+      "source_language": "zh",
+      "target": "Kháng Tính Nguyên Tố",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Vu thuật phòng hộ nâng cao kháng tính nguyên tố.",
+      "locked": false
+    },
+    {
+      "source": "元素堡垒",
+      "source_language": "zh",
+      "target": "Pháo Đài Nguyên Tố",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Vu thuật phức hợp phòng ngự kết hợp nhiều loại.",
+      "locked": false
+    },
+    {
+      "source": "世界接轨",
+      "source_language": "zh",
+      "target": "thế giới giao thoa tiếp giáp",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Hiện tượng hai thế giới tự nhiên tiếp giáp và giao thoa năng lượng với nhau.",
+      "locked": false
+    },
+    {
+      "source": "世界石",
+      "source_language": "zh",
+      "target": "thế giới thạch",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Khoáng thạch đặc thù dùng để đo lường năng lượng thế giới hoặc tạo lối đi.",
+      "locked": false
+    },
+    {
+      "source": "世界通道生成器",
+      "source_language": "zh",
+      "target": "máy tạo lối đi thế giới",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thiết bị cơ khí vu thuật dùng để nhân tạo mở ra lối đi nối sang thế giới khác.",
+      "locked": false
+    },
+    {
+      "source": "世界牵引力",
+      "source_language": "zh",
+      "target": "lực dẫn dắt thế giới",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Lực hấp dẫn tự nhiên của thế giới kéo các thế giới khác tiếp giáp.",
+      "locked": false
+    },
+    {
+      "source": "改造学院",
+      "source_language": "zh",
+      "target": "Học viện Cải Tạo",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một trong các phân viện của Học viện Bạch Ốc.",
+      "locked": false
+    },
+    {
+      "source": "世界印记",
+      "source_language": "zh",
+      "target": "ấn ký thế giới",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Dấu ấn của thế giới gốc lưu trên cơ thể sinh mệnh, giúp cướp đoạt bản nguyên thế giới đối phương.",
+      "locked": false
+    },
+    {
+      "source": "世界本源",
+      "source_language": "zh",
+      "target": "bản nguyên thế giới",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Nguồn lực gốc rễ hình thành nên thế giới.",
+      "locked": false
+    },
+    {
+      "source": "抑制力",
+      "source_language": "zh",
+      "target": "lực ức chế",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Sức ép ngăn cản hoặc suy giảm sức mạnh của các sinh vật ngoại lai khi tiến vào thế giới khác.",
+      "locked": false
+    },
+    {
+      "source": "流浪巫师",
+      "source_language": "zh",
+      "target": "Vu sư lang thang",
+      "category": "occupation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Vu sư tự do, không thuộc về bất kỳ học phái hay tổ chức lớn nào.",
+      "locked": false
+    },
+    {
+      "source": "巫阵学院",
+      "source_language": "zh",
+      "target": "Học viện Vu trận",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Phân viện chịu trách nhiệm nghiên cứu và bố trí trận pháp bảo vệ học viện.",
       "locked": false
     }
   ]

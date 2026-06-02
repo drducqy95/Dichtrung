@@ -123,6 +123,36 @@
       "name_target": "Lục Hoàn Cao Tháp",
       "type": "faction",
       "description": "Thương hội hoặc tổ chức Vu sư lớn chuyên sản xuất dược tể tịnh hóa."
+    },
+    {
+      "name_source": "招生巫师",
+      "name_target": "Vu sư tuyển sinh",
+      "type": "faction",
+      "description": "Nhiệm vụ chiêu sinh học đồ mới của học viện vu sư kéo dài 6 tháng trên thuyền."
+    },
+    {
+      "name_source": "玩偶小屋",
+      "name_target": "Ngoạn Ngẫu Tiểu Ốc",
+      "type": "faction",
+      "description": "Một trong ba tổ chức Hắc vu sư lớn ở Bờ biển phía Đông."
+    },
+    {
+      "name_source": "改造学院",
+      "name_target": "Học viện Cải Tạo",
+      "type": "faction",
+      "description": "Một phân viện trực thuộc Học viện Bạch Ốc."
+    },
+    {
+      "name_source": "自然学派",
+      "name_target": "học phái Tự Nhiên",
+      "type": "faction",
+      "description": "Một tổ chức học phái minh tưởng lớn của các Vu sư."
+    },
+    {
+      "name_source": "巫阵学院",
+      "name_target": "Học viện Vu trận",
+      "type": "faction",
+      "description": "Phân viện phụ trách thiết kế và vận hành các vu trận bảo hộ trong học viện."
     }
   ],
   "weapons": [],
@@ -485,6 +515,60 @@
       "name_target": "Thức Tỉnh Huyết Mạch Cao Đẳng Thông Dụng",
       "type": "technique",
       "description": "Môn minh tưởng pháp thông dụng thời thượng cổ dùng để đánh thức sức mạnh huyết mạch cấp cao."
+    },
+    {
+      "name_source": "气息遮断巫阵",
+      "name_target": "vu trận che giấu khí tức",
+      "type": "technique",
+      "description": "Vu trận che giấu khí tức ma pháp để tránh ảnh hưởng đến môi trường xung quanh biệt thự."
+    },
+    {
+      "name_source": "阿鲁特乌斯",
+      "name_target": "Aluteus",
+      "type": "technique",
+      "description": "Vu thuật tịnh hóa kiểm tra linh hồn do Vu sư cấp hai Redolott thi triển."
+    },
+    {
+      "name_source": "大地守护",
+      "name_target": "Đại Địa Thủ Hộ",
+      "type": "technique",
+      "description": "Vu thuật phòng ngự hệ thổ."
+    },
+    {
+      "name_source": "荆棘遍布",
+      "name_target": "Gai Góc Chằng Chịt",
+      "type": "technique",
+      "description": "Vu thuật phòng ngự hệ mộc."
+    },
+    {
+      "name_source": "元素抵抗",
+      "name_target": "Kháng Tính Nguyên Tố",
+      "type": "technique",
+      "description": "Vu thuật nâng cao kháng tính nguyên tố cho cơ thể."
+    },
+    {
+      "name_source": "元素堡垒",
+      "name_target": "Pháo Đài Nguyên Tố",
+      "type": "technique",
+      "description": "Vu thuật phức hợp phòng ngự cấp độ cao kết hợp Đại Địa Thủ Hộ, Gai Góc Chằng Chịt và Kháng Tính Nguyên Tố."
+    },
+    {
+      "name_source": "世界接轨",
+      "name_target": "thế giới giao thoa tiếp giáp",
+      "type": "technique",
+      "description": "Quá trình giao thoa năng lượng tự nhiên không thể đảo ngược giữa hai thế giới."
+    },
+    {
+      "name_source": "世界印记",
+      "name_target": "ấn ký thế giới",
+      "type": "technique",
+      "description": "Dấu ấn đặc thù do thế giới sinh ra đóng lên sinh mệnh, dùng để cướp đoạt bản nguyên hoặc chống lại lực ức chế khi sang dị thế giới."
+    },
+    {
+      "name_source": "抑制力",
+      "name_target": "lực ức chế",
+      "type": "technique",
+      "description": "Lực lượng áp chế tự nhiên của ý chí thế giới đối với các sinh vật ngoại lai."
     }
   ],
   "cultivation_systems": [],
@@ -579,6 +663,18 @@
       "name_target": "huyết mạch bản nguyên",
       "type": "cultivation_resource",
       "description": "Nguồn huyết mạch tinh khiết nhất giúp Thuật sĩ huyết mạch không bị hạn chế tiềm lực tu luyện."
+    },
+    {
+      "name_source": "世界牵引力",
+      "name_target": "lực dẫn dắt thế giới",
+      "type": "cultivation_resource",
+      "description": "Năng lực kéo các thế giới cấp thấp tiếp giáp của thế giới Vu sư."
+    },
+    {
+      "name_source": "世界本源",
+      "name_target": "bản nguyên thế giới",
+      "type": "cultivation_resource",
+      "description": "Nguồn năng lượng cốt lõi và tinh hoa nhất cấu thành nên một thế giới."
     }
   ],
   "power_ranking": {
@@ -1136,6 +1232,54 @@
       "name_target": "dược tể bồi dưỡng huyết mạch",
       "type": "item",
       "description": "Dược tể kích thích giúp củng cố và tăng nồng độ huyết mạch."
+    },
+    {
+      "name_source": "众魂之泪",
+      "name_target": "Chúng Hồn Chi Lệ",
+      "type": "item",
+      "description": "Loại dược tể thượng cổ cực kỳ quý hiếm."
+    },
+    {
+      "name_source": "恶念净化药剂",
+      "name_target": "dược tể tịnh hóa ác niệm",
+      "type": "item",
+      "description": "Dược tể tịnh hóa năng lượng tiêu cực."
+    },
+    {
+      "name_source": "灵魂精粹",
+      "name_target": "tinh túy linh hồn",
+      "type": "item",
+      "description": "Dược tể tăng tốc độ minh tưởng thượng cổ."
+    },
+    {
+      "name_source": "灵魂粉碎仪",
+      "name_target": "thiết bị nghiền nát linh hồn",
+      "type": "item",
+      "description": "Thiết bị đặc thù phục vụ quá trình nghiền nát linh hồn chế dược."
+    },
+    {
+      "name_source": "长生药剂",
+      "name_target": "dược tể trường sinh",
+      "type": "item",
+      "description": "Dược liệu thượng hạng gia tăng 100 năm thọ nguyên cho người bình thường."
+    },
+    {
+      "name_source": "紧急召集令",
+      "name_target": "Lệnh triệu tập khẩn cấp",
+      "type": "item",
+      "description": "Lệnh động viên tối cao phát ra từ tháp trung tâm của học viện khi gặp nguy hiểm."
+    },
+    {
+      "name_source": "世界石",
+      "name_target": "thế giới thạch",
+      "type": "item",
+      "description": "Vật liệu đặc biệt dùng để thăm dò và đo đạc liên kết thế giới."
+    },
+    {
+      "name_source": "世界通道生成器",
+      "name_target": "máy tạo lối đi thế giới",
+      "type": "item",
+      "description": "Thiết bị cơ khí vu thuật nhân tạo để cưỡng chế kết nối các thế giới."
     }
   ]
 }
