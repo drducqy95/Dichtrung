@@ -215,3 +215,13 @@
 - Chương 0213: Chương 213: Bị oanh tạc rồi
 - Chương 0214: Chương 214: Huyết mạch bại lộ
 - Chương 0215: Chương 215: Thế giới khiếm khuyết
+- Chương 0216: Chương 216: Hồng Nguyệt sơ động
+- Chương 0217: Chương 217: Đàm phán
+- Chương 0218: Chương 218: Đàm phán bắt đầu
+- Chương 0219: Chương 219: Liên minh x Trao đổi
+- Chương 0220: Chương 220: Trao đổi x Huyết mạch
+- Chương 0221: Chương 221: Linh quang của thiên tài
+- Chương 0222: Chương 222: Nguy cơ đột ngột
+- Chương 0223: Chương 223: Mỏ neo chế tạo hoàn thành
+- Chương 0224: Chương 224: Thành công
+- Chương 0225: Chương 225: Tuyệt vọng bộc phát

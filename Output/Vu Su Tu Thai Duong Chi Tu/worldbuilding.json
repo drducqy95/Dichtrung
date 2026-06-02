@@ -213,6 +213,12 @@
       "name_source": "冰洁学派",
       "name_target": "học phái Băng Khiết",
       "description": "Một học phái minh tưởng pháp cao đẳng ở Bờ biển phía Đông chuyên về hệ băng với môn tu hành Hàn Băng Thức Tỉnh."
+    },
+    {
+      "name_source": "白鸟崖",
+      "name_target": "Bạch Điểu Nhai",
+      "type": "faction",
+      "description": "Gia tộc huyết mạch truyền thừa từ thời Cận Cổ sở hữu dòng huyết mạch Celestiaris (Thánh Điểu của Bầu Trời), do suy kiệt nên hiện tại chỉ còn giữ được huyết mạch Bạch Vũ Điểu cấp hai."
     }
   ],
   "weapons": [],
@@ -779,6 +785,18 @@
       "name_source": "寒冰觉醒",
       "name_target": "Hàn Băng Thức Tỉnh",
       "description": "Môn minh tưởng pháp cao đẳng của học phái Băng Khiết, sử dụng vật phẩm hệ băng để tăng tiến độ tu luyện."
+    },
+    {
+      "name_source": "世界锚点制造",
+      "name_target": "Chế tạo mỏ neo thế giới",
+      "type": "technique",
+      "description": "Kỹ thuật thượng cổ tạo ra mỏ neo thời không cố định vị trí của Vu sư để tránh bị lạc trong vô tận thời không, yêu cầu cấp độ tối thiểu cấp bốn."
+    },
+    {
+      "name_source": "异界力量召唤",
+      "name_target": "Triệu hồi sức mạnh dị giới",
+      "type": "technique",
+      "description": "Vu thuật phái sinh từ con đường thần chỉ, cho phép mượn dùng sức mạnh qua khế ước liên kết bỏ qua giới hạn thời không."
     }
   ],
   "cultivation_systems": [],
@@ -971,6 +989,12 @@
       "name_source": "线粒体",
       "name_target": "ti thể",
       "description": "Cơ quan sản sinh năng lượng của tế bào, có gen độc lập có thể dùng để cấy ghép thêm huyết mạch bổ trợ."
+    },
+    {
+      "name_source": "独角天空龙骸骨",
+      "name_target": "Hài cốt Độc Giác Thiên Không Long",
+      "type": "cultivation_resource",
+      "description": "Bộ xương cốt của sinh vật cấp sáu Độc Giác Thiên Không Long còn lưu lại dao động yếu ớt, chứa đựng nguồn sức mạnh cõi u minh giúp kích hoạt huyết mạch Chúng Tinh Chi Tử."
     }
   ],
   "power_ranking": {
@@ -1301,6 +1325,12 @@
       "name_source": "寒冰塔",
       "name_target": "tháp Hàn Băng",
       "description": "Thiết bị giảm nhiệt độ và tăng cường băng nguyên tố trên diện rộng do thế giới Hàn Băng chế tạo."
+    },
+    {
+      "name_source": "拉迪亚王国",
+      "name_target": "Vương quốc Radia",
+      "type": "location",
+      "description": "Vương quốc phàm nhân nằm gần Học viện Cực Hạn nhất, có vương cung bị Học viện Cực Hạn trưng dụng làm nơi đàm phán."
     }
   ],
   "world_map": {
@@ -1766,6 +1796,24 @@
       "name_source": "绝望之种",
       "name_target": "Hạt Giống Tuyệt Vọng",
       "description": "Một quả cầu pha lê đen chứa đầy năng lượng tiêu cực do các Hắc vu sư chế tạo để reo rắc oán hận thâm nhập cơ thể sinh mệnh đối phương."
+    },
+    {
+      "name_source": "血脉激活宝石",
+      "name_target": "Bảo thạch kích hoạt huyết mạch",
+      "type": "item",
+      "description": "Loại đá quý đặc thù dành cho các gia tộc huyết mạch giúp trì hoãn suy kiệt và tạm thời kích hoạt tiềm năng huyết mạch."
+    },
+    {
+      "name_source": "《世界锚点制造》",
+      "name_target": "《Chế Tạo Mỏ Neo Thế Giới》",
+      "type": "item",
+      "description": "Sách cổ chép kỹ thuật chế tạo mỏ neo thế giới thu được từ Lục Hoàn Cao Tháp."
+    },
+    {
+      "name_source": "《异界力量召唤》",
+      "name_target": "《Triệu Hồi Sức Mạnh Dị Giới》",
+      "type": "item",
+      "description": "Sách cổ chép kỹ thuật triệu hồi sức mạnh dị giới thu được từ Linh Hồn Học Phái."
     }
   ]
 }

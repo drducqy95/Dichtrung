@@ -3,8 +3,8 @@
     "version": "2.0",
     "schema": "gold",
     "branch": "Vu Su Tu Thai Duong Chi Tu",
-    "last_updated": "2026-06-02T20:20:45.910555+07:00",
-    "total_characters": 407
+    "last_updated": "2026-06-03T00:46:21.717643+07:00",
+    "total_characters": 408
   },
   "characters": [
     {
@@ -7133,6 +7133,44 @@
       "age_group": "",
       "social_status": "",
       "base_archetype": "wizard",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "塔利娅",
+      "name_target": "Talia",
+      "name_aliases": [],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
       "speech_style": "",
       "first_appearance": {
         "chapter": 0,

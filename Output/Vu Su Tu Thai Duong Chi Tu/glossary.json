@@ -13399,7 +13399,9 @@
         "chapter_0201",
         "chapter_0202",
         "chapter_0203",
-        "chapter_0204"
+        "chapter_0204",
+        "chapter_0214",
+        "chapter_0217"
       ]
     },
     {
@@ -13460,7 +13462,10 @@
         "chapter_0171",
         "chapter_0194",
         "chapter_0200",
-        "chapter_0208"
+        "chapter_0208",
+        "chapter_0213",
+        "chapter_0217",
+        "chapter_0218"
       ]
     },
     {
@@ -13531,7 +13536,8 @@
         "chapter_0175",
         "chapter_0176",
         "chapter_0177",
-        "chapter_0182"
+        "chapter_0182",
+        "chapter_0212"
       ]
     },
     {
@@ -13751,7 +13757,14 @@
         "chapter_0204",
         "chapter_0207",
         "chapter_0208",
-        "chapter_0209"
+        "chapter_0209",
+        "chapter_0211",
+        "chapter_0212",
+        "chapter_0213",
+        "chapter_0215",
+        "chapter_0216",
+        "chapter_0219",
+        "chapter_0220"
       ]
     },
     {
@@ -13838,7 +13851,11 @@
         "chapter_0200",
         "chapter_0201",
         "chapter_0203",
-        "chapter_0204"
+        "chapter_0204",
+        "chapter_0215",
+        "chapter_0216",
+        "chapter_0219",
+        "chapter_0220"
       ]
     },
     {
@@ -14077,7 +14094,12 @@
         "chapter_0205",
         "chapter_0207",
         "chapter_0208",
-        "chapter_0209"
+        "chapter_0209",
+        "chapter_0211",
+        "chapter_0213",
+        "chapter_0217",
+        "chapter_0219",
+        "chapter_0220"
       ]
     },
     {
@@ -14174,7 +14196,8 @@
         "chapter_0100",
         "chapter_0122",
         "chapter_0138",
-        "chapter_0155"
+        "chapter_0155",
+        "chapter_0214"
       ]
     },
     {
@@ -14261,7 +14284,8 @@
         "chapter_0176",
         "chapter_0183",
         "chapter_0187",
-        "chapter_0207"
+        "chapter_0207",
+        "chapter_0216"
       ]
     },
     {
@@ -14272,7 +14296,12 @@
       "context": "",
       "confidence": "medium",
       "notes": "Phe Vu sư hướng ác",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0207",
+        "chapter_0219"
+      ]
     },
     {
       "source": "香水之家",
@@ -14355,7 +14384,17 @@
         "chapter_0203",
         "chapter_0204",
         "chapter_0208",
-        "chapter_0210"
+        "chapter_0210",
+        "chapter_0211",
+        "chapter_0212",
+        "chapter_0213",
+        "chapter_0214",
+        "chapter_0215",
+        "chapter_0216",
+        "chapter_0217",
+        "chapter_0218",
+        "chapter_0219",
+        "chapter_0220"
       ]
     },
     {
@@ -14397,7 +14436,11 @@
         "chapter_0170",
         "chapter_0172",
         "chapter_0181",
-        "chapter_0187"
+        "chapter_0187",
+        "chapter_0212",
+        "chapter_0216",
+        "chapter_0217",
+        "chapter_0219"
       ]
     },
     {
@@ -14422,7 +14465,11 @@
       "status": "auto-locked",
       "reviewed_chapters": [
         "chapter_0144",
-        "chapter_0187"
+        "chapter_0187",
+        "chapter_0216",
+        "chapter_0217",
+        "chapter_0218",
+        "chapter_0219"
       ]
     },
     {
@@ -14502,7 +14549,12 @@
         "chapter_0199",
         "chapter_0200",
         "chapter_0201",
-        "chapter_0208"
+        "chapter_0208",
+        "chapter_0211",
+        "chapter_0212",
+        "chapter_0217",
+        "chapter_0218",
+        "chapter_0219"
       ]
     },
     {
@@ -14545,7 +14597,8 @@
         "chapter_0200",
         "chapter_0201",
         "chapter_0202",
-        "chapter_0207"
+        "chapter_0207",
+        "chapter_0214"
       ]
     },
     {
@@ -14596,7 +14649,10 @@
         "chapter_0207",
         "chapter_0208",
         "chapter_0209",
-        "chapter_0210"
+        "chapter_0210",
+        "chapter_0212",
+        "chapter_0217",
+        "chapter_0219"
       ]
     },
     {
@@ -14664,7 +14720,11 @@
         "chapter_0207",
         "chapter_0208",
         "chapter_0209",
-        "chapter_0210"
+        "chapter_0210",
+        "chapter_0212",
+        "chapter_0216",
+        "chapter_0217",
+        "chapter_0220"
       ]
     },
     {
@@ -14788,7 +14848,9 @@
         "chapter_0153",
         "chapter_0170",
         "chapter_0182",
-        "chapter_0183"
+        "chapter_0183",
+        "chapter_0212",
+        "chapter_0220"
       ]
     },
     {
@@ -14839,7 +14901,7 @@
       "context": "",
       "confidence": "medium",
       "notes": "Tổ chức Bạch Vu sư",
-      "locked": true,
+      "locked": false,
       "status": "auto-locked",
       "reviewed_chapters": [
         "chapter_0047",
@@ -14870,7 +14932,10 @@
         "chapter_0207",
         "chapter_0208",
         "chapter_0209",
-        "chapter_0210"
+        "chapter_0210",
+        "chapter_0212",
+        "chapter_0217",
+        "chapter_0219"
       ]
     },
     {
@@ -15154,7 +15219,8 @@
         "chapter_0183",
         "chapter_0187",
         "chapter_0190",
-        "chapter_0199"
+        "chapter_0199",
+        "chapter_0220"
       ]
     },
     {
@@ -15626,7 +15692,8 @@
         "chapter_0201",
         "chapter_0202",
         "chapter_0205",
-        "chapter_0208"
+        "chapter_0208",
+        "chapter_0217"
       ]
     },
     {
@@ -15949,7 +16016,14 @@
         "chapter_0205",
         "chapter_0208",
         "chapter_0209",
-        "chapter_0210"
+        "chapter_0210",
+        "chapter_0213",
+        "chapter_0214",
+        "chapter_0215",
+        "chapter_0217",
+        "chapter_0218",
+        "chapter_0219",
+        "chapter_0220"
       ]
     },
     {
@@ -16000,7 +16074,8 @@
         "chapter_0181",
         "chapter_0200",
         "chapter_0202",
-        "chapter_0203"
+        "chapter_0203",
+        "chapter_0219"
       ]
     },
     {
@@ -16056,7 +16131,8 @@
       "status": "auto-locked",
       "reviewed_chapters": [
         "chapter_0204",
-        "chapter_0210"
+        "chapter_0210",
+        "chapter_0213"
       ]
     },
     {
@@ -16119,7 +16195,9 @@
         "chapter_0207",
         "chapter_0208",
         "chapter_0209",
-        "chapter_0210"
+        "chapter_0210",
+        "chapter_0211",
+        "chapter_0213"
       ]
     },
     {
@@ -16836,7 +16914,11 @@
         "chapter_0205",
         "chapter_0207",
         "chapter_0208",
-        "chapter_0210"
+        "chapter_0210",
+        "chapter_0211",
+        "chapter_0212",
+        "chapter_0214",
+        "chapter_0217"
       ]
     },
     {
@@ -17084,7 +17166,8 @@
         "chapter_0199",
         "chapter_0200",
         "chapter_0202",
-        "chapter_0203"
+        "chapter_0203",
+        "chapter_0211"
       ]
     },
     {
@@ -17207,7 +17290,9 @@
         "chapter_0193",
         "chapter_0201",
         "chapter_0203",
-        "chapter_0204"
+        "chapter_0204",
+        "chapter_0214",
+        "chapter_0215"
       ]
     },
     {
@@ -17235,7 +17320,8 @@
         "chapter_0183",
         "chapter_0184",
         "chapter_0188",
-        "chapter_0210"
+        "chapter_0210",
+        "chapter_0214"
       ]
     },
     {
@@ -17435,7 +17521,9 @@
         "chapter_0135",
         "chapter_0144",
         "chapter_0153",
-        "chapter_0184"
+        "chapter_0184",
+        "chapter_0219",
+        "chapter_0220"
       ]
     },
     {
@@ -17531,7 +17619,8 @@
         "chapter_0161",
         "chapter_0163",
         "chapter_0173",
-        "chapter_0198"
+        "chapter_0198",
+        "chapter_0215"
       ]
     },
     {
@@ -17823,7 +17912,10 @@
         "chapter_0194",
         "chapter_0201",
         "chapter_0202",
-        "chapter_0204"
+        "chapter_0204",
+        "chapter_0212",
+        "chapter_0216",
+        "chapter_0217"
       ]
     },
     {
@@ -17870,7 +17962,8 @@
         "chapter_0151",
         "chapter_0194",
         "chapter_0204",
-        "chapter_0206"
+        "chapter_0206",
+        "chapter_0213"
       ]
     },
     {
@@ -17888,7 +17981,9 @@
         "chapter_0204",
         "chapter_0207",
         "chapter_0209",
-        "chapter_0210"
+        "chapter_0210",
+        "chapter_0211",
+        "chapter_0215"
       ]
     },
     {
@@ -18113,7 +18208,8 @@
         "chapter_0156",
         "chapter_0171",
         "chapter_0177",
-        "chapter_0184"
+        "chapter_0184",
+        "chapter_0219"
       ]
     },
     {
@@ -18196,7 +18292,13 @@
         "chapter_0204",
         "chapter_0206",
         "chapter_0209",
-        "chapter_0210"
+        "chapter_0210",
+        "chapter_0211",
+        "chapter_0213",
+        "chapter_0214",
+        "chapter_0215",
+        "chapter_0218",
+        "chapter_0220"
       ]
     },
     {
@@ -18500,7 +18602,8 @@
         "chapter_0177",
         "chapter_0181",
         "chapter_0193",
-        "chapter_0204"
+        "chapter_0204",
+        "chapter_0211"
       ]
     },
     {
@@ -18668,7 +18771,8 @@
       "reviewed_chapters": [
         "chapter_0184",
         "chapter_0201",
-        "chapter_0203"
+        "chapter_0203",
+        "chapter_0220"
       ]
     },
     {
@@ -18709,7 +18813,12 @@
       "context": "",
       "confidence": "1.0",
       "notes": "Chủng tộc sinh mệnh sinh ra từ ánh sáng màng chắn tinh bích thời thượng cổ",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0203",
+        "chapter_0215"
+      ]
     },
     {
       "source": "月光精灵",
@@ -18749,7 +18858,12 @@
       "context": "",
       "confidence": "1.0",
       "notes": "Giới hạn tiềm năng tiến hóa huyết mạch do sinh vật bản nguyên áp đặt cho hậu thế",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0219",
+        "chapter_0220"
+      ]
     },
     {
       "source": "晶壁系",
@@ -18759,7 +18873,12 @@
       "context": "",
       "confidence": "1.0",
       "notes": "Hệ thống màng chắn bao bọc bảo vệ thế giới",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0189",
+        "chapter_0215"
+      ]
     },
     {
       "source": "信仰之力",
@@ -18839,7 +18958,12 @@
       "context": "",
       "confidence": "medium",
       "notes": "Huyết mạch đặc biệt do Grimm dung hợp tổng hợp từ bốn dòng huyết mạch cấp sáu thượng cổ.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0195",
+        "chapter_0215"
+      ]
     },
     {
       "source": "烈日真身",
@@ -18889,7 +19013,10 @@
         "chapter_0202",
         "chapter_0203",
         "chapter_0204",
-        "chapter_0210"
+        "chapter_0210",
+        "chapter_0217",
+        "chapter_0218",
+        "chapter_0219"
       ]
     },
     {
@@ -18980,7 +19107,12 @@
       "context": "",
       "confidence": "medium",
       "notes": "",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0170",
+        "chapter_0211"
+      ]
     },
     {
       "source": "超级污染兽",
@@ -19020,7 +19152,16 @@
       "reviewed_chapters": [
         "chapter_0208",
         "chapter_0209",
-        "chapter_0210"
+        "chapter_0210",
+        "chapter_0211",
+        "chapter_0212",
+        "chapter_0213",
+        "chapter_0214",
+        "chapter_0215",
+        "chapter_0216",
+        "chapter_0217",
+        "chapter_0218",
+        "chapter_0219"
       ]
     },
     {
@@ -19048,7 +19189,9 @@
         "chapter_0207",
         "chapter_0208",
         "chapter_0209",
-        "chapter_0210"
+        "chapter_0210",
+        "chapter_0211",
+        "chapter_0215"
       ]
     },
     {
@@ -19085,7 +19228,9 @@
         "chapter_0206",
         "chapter_0207",
         "chapter_0208",
-        "chapter_0209"
+        "chapter_0209",
+        "chapter_0211",
+        "chapter_0213"
       ]
     },
     {
@@ -19156,7 +19301,13 @@
       "context": "",
       "confidence": "medium",
       "notes": "",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0211",
+        "chapter_0212",
+        "chapter_0217"
+      ]
     },
     {
       "source": "寒冰觉醒",
