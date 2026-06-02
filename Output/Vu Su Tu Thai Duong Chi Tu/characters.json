@@ -3,8 +3,8 @@
     "version": "2.0",
     "schema": "gold",
     "branch": "Vu Su Tu Thai Duong Chi Tu",
-    "last_updated": "2026-06-02T07:26:48.430908+07:00",
-    "total_characters": 383
+    "last_updated": "2026-06-02T08:22:31.304629+07:00",
+    "total_characters": 385
   },
   "characters": [
     {
@@ -6241,6 +6241,82 @@
       "status": "active",
       "appearance": {
         "physical": "Vu sư cấp ba của học phái Cực Hạn, là đạo sư của Lilian và sư tổ của Grimm. Ông được mời từ học phái Tự Nhiên về để làm Phó viện trưởng thứ ba của Học viện Bạch Ốc.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "洛瓦",
+      "name_target": "Lova",
+      "name_aliases": [],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Đại kỵ sĩ đã thực hiện nhiều nhiệm vụ tại căn cứ tiền tuyến của Học viện Bạch Ốc, am hiểu địa hình và bố cục khu vực.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "艾伊娜",
+      "name_target": "Aina",
+      "name_aliases": [],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Một trong ba nữ kỵ sĩ vật thí nghiệm cũ của Grimm, trung thành tuyệt đối và đã theo Emily đến tiền tuyến tìm kiếm Grimm.",
         "style": "",
         "distinctive": ""
       },

@@ -146,3 +146,13 @@
 - Chương 0144: Chương 144: Thế Giới Phục Hồi
 - Chương 0145: Chương 145: Nhân Vật Chính Của Hội Nghị
 - Chương 0146: Chương 146: Trào Lưu Ngầm Của Học Phái
+- Chương 0147: Chương 147: Biến Đổi, Thông Đạo
+- Chương 0148: Chương 148: Trận Pháp Truyền Tống
+- Chương 0149: Chương 149: Tiền Tuyến
+- Chương 0150: Chương 150: Gặp Lại
+- Chương 0151: Chương 151: Căn Cứ Học Viện
+- Chương 0152: Chương 152: Phục Hồi Thân Thể
+- Chương 0153: Chương 153: Mua Sắm Sinh Vật
+- Chương 0154: Chương 154: Thí Nghiệm Huyết Mạch
+- Chương 0155: Chương 155: Truyền Thừa Huyết Mạch
+- Chương 0156: Chương 156: Cổng Không Gian Thế Giới

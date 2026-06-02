@@ -569,6 +569,42 @@
       "name_target": "lực ức chế",
       "type": "technique",
       "description": "Lực lượng áp chế tự nhiên của ý chí thế giới đối với các sinh vật ngoại lai."
+    },
+    {
+      "name_source": "传送阵",
+      "name_target": "trận pháp truyền tống",
+      "type": "technique",
+      "description": "Trận pháp tầm xa hình tròn khổng lồ, có tám cột đá khảm thủy tinh xanh tạo họa tiết hổ, mặt đất khảm thủy tinh đỏ tạo vu trận phức tạp."
+    },
+    {
+      "name_source": "多西克兰",
+      "name_target": "Doxiclan",
+      "type": "technique",
+      "description": "Thần chú huyết kỹ thời thượng cổ dùng để ngưng tụ và phân tách huyết dịch sinh vật."
+    },
+    {
+      "name_source": "石化之眼",
+      "name_target": "Thạch Hóa Chi Nhãn",
+      "type": "technique",
+      "description": "Tia sáng hóa đá phát ra từ con mắt thứ ba trên trán của Xà yêu cánh lửa Krolatz."
+    },
+    {
+      "name_source": "火焰羽翼",
+      "name_target": "Hỏa Diễm Vũ Dực",
+      "type": "technique",
+      "description": "Cánh vàng kim rực lửa giúp bay lượn và kiểm soát hỏa diễm."
+    },
+    {
+      "name_source": "死亡利爪",
+      "name_target": "Tử Vong Lợi Trảo",
+      "type": "technique",
+      "description": "Móng vuốt chim ưng tỏa ra năng lượng tử vong lạnh lẽo."
+    },
+    {
+      "name_source": "幻觉嚎叫",
+      "name_target": "Huyễn Giác Hào Khiếu",
+      "type": "technique",
+      "description": "Tiếng hú gây ảo ảnh hoang mang tinh thần."
     }
   ],
   "cultivation_systems": [],
@@ -675,6 +711,24 @@
       "name_target": "bản nguyên thế giới",
       "type": "cultivation_resource",
       "description": "Nguồn năng lượng cốt lõi và tinh hoa nhất cấu thành nên một thế giới."
+    },
+    {
+      "name_source": "风暴鸟",
+      "name_target": "Phong Bạo Điểu",
+      "type": "cultivation_resource",
+      "description": "Sinh vật bay cực nhanh có mang huyết mạch của Người Khổng Lồ Bão Tố thời thượng cổ."
+    },
+    {
+      "name_source": "克罗拉斯蛇妖",
+      "name_target": "Xà yêu Krolas",
+      "type": "cultivation_resource",
+      "description": "Huyết mạch sinh vật dạng rắn ma tính thời thượng cổ dùng làm nguyên liệu tổng hợp gen bản nguyên."
+    },
+    {
+      "name_source": "科罗拉兹飞翼火焰蛇妖血脉",
+      "name_target": "Huyết mạch Xà yêu cánh lửa Krolatz",
+      "type": "cultivation_resource",
+      "description": "Huyết mạch tổng hợp cấp 4 cực kỳ ổn định, mang nhiều kỹ năng chiến đấu thượng cổ."
     }
   ],
   "power_ranking": {
@@ -913,6 +967,36 @@
       "name_target": "phòng thí nghiệm trung ương",
       "type": "location",
       "description": "Phòng thí nghiệm trung tâm cất giữ dòng máu hoàn chỉnh của Thái Dương Chi Tử."
+    },
+    {
+      "name_source": "妖精森林",
+      "name_target": "Rừng Yêu Tinh",
+      "type": "location",
+      "description": "Rừng nơi phát hiện thông đạo thế giới, 8 hướng xung quanh được 8 tổ chức lớn trấn thủ. Vốn tên là Rừng Kỳ Na."
+    },
+    {
+      "name_source": "前线",
+      "name_target": "Tiền tuyến",
+      "type": "location",
+      "description": "Tuyến phòng thủ bao quanh Rừng Yêu Tinh, gồm tường thành khổng lồ chia tám đoạn, tháp cung với nỏ khắc phù văn, và tinh thể giám sát."
+    },
+    {
+      "name_source": "后方基地",
+      "name_target": "Căn cứ hậu phương",
+      "type": "location",
+      "description": "Khu căn cứ hình trụ khổng lồ ở phía sau tiền tuyến Học viện Bạch Ốc, chủ yếu xây bằng gỗ, sử dụng cột thủy tinh xanh trung hòa bức xạ, tập trung người phàm và kỵ sĩ chuẩn bị cho viễn chinh."
+    },
+    {
+      "name_source": "3楼7号实验室",
+      "name_target": "Phòng thí nghiệm số 7 tầng 3",
+      "type": "location",
+      "description": "Phòng thí nghiệm riêng của Grimm tại căn cứ hình trụ hậu phương Học viện Bạch Ốc, cửa làm từ hợp kim huyết lân phối trộn kim loại kháng tính, trang bị nhiều thiết bị Dược tể học."
+    },
+    {
+      "name_source": "重新分配的别墅",
+      "name_target": "Biệt thự được phân phối lại",
+      "type": "location",
+      "description": "Căn biệt thự mới do học viện phân phối cho Grimm sau khi hắn trở thành tiêu điểm chiến lược của học viện."
     }
   ],
   "world_map": {
@@ -1280,6 +1364,30 @@
       "name_target": "máy tạo lối đi thế giới",
       "type": "item",
       "description": "Thiết bị cơ khí vu thuật nhân tạo để cưỡng chế kết nối các thế giới."
+    },
+    {
+      "name_source": "药剂大全",
+      "name_target": "Dược Tể Đại Toàn",
+      "type": "item",
+      "description": "Cuốn sách dược tể quý hiếm do Dennis biên soạn, chỉ có chưa đến năm sáu mươi trang nhưng mỗi trang ghi một loại dược tể."
+    },
+    {
+      "name_source": "监测水晶",
+      "name_target": "tinh thể giám sát",
+      "type": "item",
+      "description": "Cột thủy tinh đen dùng để dò xét sóng năng lượng, bố trí dọc các con đường trong khu vực tiền tuyến."
+    },
+    {
+      "name_source": "血磷合金",
+      "name_target": "hợp kim huyết lân",
+      "type": "item",
+      "description": "Hợp kim đúc bằng máu ma vật, phát ra bức xạ đặc thù ngăn chặn linh thể sinh vật."
+    },
+    {
+      "name_source": "抗性金属",
+      "name_target": "kim loại kháng tính",
+      "type": "item",
+      "description": "Kim loại có đặc tính kháng lại mọi loại bức xạ nguyên tố."
     }
   ]
 }
