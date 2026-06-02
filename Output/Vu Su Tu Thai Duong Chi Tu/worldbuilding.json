@@ -111,6 +111,18 @@
       "name_target": "học phái Minh Tưởng Cực Hạn",
       "type": "faction",
       "description": "Học phái vu sư của Grimm tại Bờ biển phía Đông, đang thiếu hụt tài nguyên thời gian cho việc tu luyện."
+    },
+    {
+      "name_source": "灵魂学院",
+      "name_target": "học viện Linh Hồn",
+      "type": "faction",
+      "description": "Tổ chức vu sư thượng cổ tàn nhẫn chuyên nghiên cứu và tra tấn linh hồn."
+    },
+    {
+      "name_source": "六环高塔",
+      "name_target": "Lục Hoàn Cao Tháp",
+      "type": "faction",
+      "description": "Thương hội hoặc tổ chức Vu sư lớn chuyên sản xuất dược tể tịnh hóa."
     }
   ],
   "weapons": [],
@@ -390,6 +402,89 @@
       "name_source": "灵魂学",
       "name_target": "Linh Hồn Học (Thượng Cổ)",
       "description": "Ngành tri thức chuyên sâu nghiên cứu về các hiện tượng linh hồn, phân tách linh hồn và sản sinh linh thể oán niệm của tổ chức vu sư thượng cổ."
+    },
+    {
+      "name_source": "吞食虫药剂",
+      "name_target": "dược tể Thôn Thực Trùng",
+      "description": "Loại dược tể giải phóng sinh vật có sức tàn phá cực mạnh chuyên tiêu hủy mọi vật chất hữu cơ."
+    },
+    {
+      "name_source": "克拉斯",
+      "name_target": "Klass",
+      "type": "technique",
+      "description": "Vu thuật cổ đại dùng để tìm kiếm và ngưng tụ các mảnh vỡ tàn hồn còn sót lại trong không khí."
+    },
+    {
+      "name_source": "永恒灵魂冥想法",
+      "name_target": "Minh Tưởng Pháp Vĩnh Hằng Linh Hồn",
+      "type": "technique",
+      "description": "Môn minh tưởng pháp cổ đại kế thừa từ tộc yêu tinh chuyên tu luyện linh hồn."
+    },
+    {
+      "name_source": "单向传送阵",
+      "name_target": "trận pháp dịch chuyển đơn hướng",
+      "type": "technique",
+      "description": "Trận pháp dịch chuyển một chiều cổ đại sử dụng bốn nguyên tố cộng hưởng để can thiệp không gian."
+    },
+    {
+      "name_source": "血脉传承阵法",
+      "name_target": "trận pháp truyền thừa huyết mạch",
+      "type": "technique",
+      "description": "Trận pháp đặc thù cất giữ bên trong phòng thí nghiệm trung ương để người thừa kế dung hợp dòng máu của Thái Dương Chi Tử."
+    },
+    {
+      "name_source": "能量转化阵",
+      "name_target": "trận pháp chuyển hóa năng lượng",
+      "type": "technique",
+      "description": "Vu trận dùng để thu gom và chuyển hóa năng lượng ma thạch hoặc mặt trời rực rỡ."
+    },
+    {
+      "name_source": "漂浮咒",
+      "name_target": "bùa Bay",
+      "type": "technique",
+      "description": "Phép thuật nâng vật thể lên cao không trung."
+    },
+    {
+      "name_source": "灵魂切割法",
+      "name_target": "pháp cắt tách linh hồn",
+      "type": "technique",
+      "description": "Bí pháp thượng cổ dùng linh hồn học cắt đôi linh hồn để điều khiển cơ thể hoặc huyết mạch từ xa."
+    },
+    {
+      "name_source": "血脉传承仪式",
+      "name_target": "nghi thức truyền thừa huyết mạch",
+      "type": "technique",
+      "description": "Nghi lễ dung hợp máu của Vu sư với dòng máu sinh vật huyền thoại thông qua trận pháp đặc biệt."
+    },
+    {
+      "name_source": "一次性传送巫阵",
+      "name_target": "trận pháp truyền tống dùng một lần",
+      "type": "technique",
+      "description": "Trận pháp truyền tống một chiều dùng một lần thoát hiểm."
+    },
+    {
+      "name_source": "火元素化",
+      "name_target": "Hỏa nguyên tố hóa",
+      "type": "technique",
+      "description": "Năng lực nguyên tố hóa cơ thể thành lửa của Thuật sĩ huyết mạch Thái Dương Chi Tử."
+    },
+    {
+      "name_source": "光元素化",
+      "name_target": "Quang nguyên tố hóa",
+      "type": "technique",
+      "description": "Năng lực nguyên tố hóa cơ thể thành ánh sáng của Thuật sĩ huyết mạch Thái Dương Chi Tử."
+    },
+    {
+      "name_source": "专属巫器",
+      "name_target": "vu khí chuyên dụng",
+      "type": "item",
+      "description": "Thiết bị phép thuật được Vu sư thiết kế riêng phù hợp với cấu trúc tinh thần lực cá nhân."
+    },
+    {
+      "name_source": "通用高等血脉唤醒",
+      "name_target": "Thức Tỉnh Huyết Mạch Cao Đẳng Thông Dụng",
+      "type": "technique",
+      "description": "Môn minh tưởng pháp thông dụng thời thượng cổ dùng để đánh thức sức mạnh huyết mạch cấp cao."
     }
   ],
   "cultivation_systems": [],
@@ -436,6 +531,54 @@
       "name_target": "bức xạ nguyên tố",
       "type": "cultivation_resource",
       "description": "Dạng bức xạ năng lượng đặc trưng của thế giới vu sư, dùng để đo lường khả năng tương thích vật liệu."
+    },
+    {
+      "name_source": "灵魂本源",
+      "name_target": "bản nguyên linh hồn",
+      "type": "cultivation_resource",
+      "description": "Tinh hoa chiết xuất từ linh hồn bị tra tấn để nâng cao sức mạnh linh hồn mà không có tác dụng phụ."
+    },
+    {
+      "name_source": "负能量吸收药剂",
+      "name_target": "dược tể hấp thụ năng lượng tiêu cực",
+      "type": "cultivation_resource",
+      "description": "Dược phẩm dùng để khắc chế và làm suy yếu các thực thể linh hồn tà ác."
+    },
+    {
+      "name_source": "智慧草",
+      "name_target": "Cỏ Trí Tuệ",
+      "type": "cultivation_resource",
+      "description": "Sản vật thượng cổ quý hiếm giúp thăng tiến trực tiếp một cấp bậc cho Vu sư trước cấp ba."
+    },
+    {
+      "name_source": "太阳之子",
+      "name_target": "Thái Dương Chi Tử",
+      "type": "cultivation_resource",
+      "description": "Thực thể sinh mệnh cấp sáu sinh ra từ tự nhiên trong mặt trời."
+    },
+    {
+      "name_source": "血脉术士",
+      "name_target": "Thuật sĩ huyết mạch",
+      "type": "cultivation_resource",
+      "description": "Các Vu sư đi theo con đường kế thừa và dung hợp huyết mạch sinh vật huyền thoại."
+    },
+    {
+      "name_source": "灵魂精粹",
+      "name_target": "tinh túy linh hồn",
+      "type": "cultivation_resource",
+      "description": "Tinh chất linh hồn chiết xuất từ việc hiến tế sinh mạng số lượng lớn."
+    },
+    {
+      "name_source": "灵体",
+      "name_target": "linh thể",
+      "type": "cultivation_resource",
+      "description": "Sinh vật năng lượng phi vật chất tồn tại bằng ý chí linh hồn."
+    },
+    {
+      "name_source": "本源血脉",
+      "name_target": "huyết mạch bản nguyên",
+      "type": "cultivation_resource",
+      "description": "Nguồn huyết mạch tinh khiết nhất giúp Thuật sĩ huyết mạch không bị hạn chế tiềm lực tu luyện."
     }
   ],
   "power_ranking": {
@@ -662,6 +805,18 @@
       "name_source": "图书馆二楼",
       "name_target": "Thư Viện tầng hai",
       "description": "Khu vực tầng hai của Thư Viện cổ đại, số lượng giá sách và tri thức ít hơn tầng một đáng kể, chủ yếu lưu trữ các tri thức cao cấp hơn đã mất đi vu trận bảo vệ."
+    },
+    {
+      "name_source": "厄运花园",
+      "name_target": "Vườn Ách Vận",
+      "type": "location",
+      "description": "Khu vực vườn hoa ngầm nguy hiểm trung bình của học viện."
+    },
+    {
+      "name_source": "中央实验室",
+      "name_target": "phòng thí nghiệm trung ương",
+      "type": "location",
+      "description": "Phòng thí nghiệm trung tâm cất giữ dòng máu hoàn chỉnh của Thái Dương Chi Tử."
     }
   ],
   "world_map": {
@@ -963,6 +1118,24 @@
       "name_target": "sức mạnh tuyệt vọng",
       "type": "resource",
       "description": "Năng lượng cảm xúc tiêu cực sinh ra từ việc tra tấn vĩnh hằng các linh hồn nhân loại giam cầm trong hạt châu đen."
+    },
+    {
+      "name_source": "怨灵玩偶",
+      "name_target": "búp bê oán linh",
+      "type": "item",
+      "description": "Vật phẩm chứa linh thể oán hận hỗn hợp có sức mạnh tương đương Vu sư chính thức."
+    },
+    {
+      "name_source": "荧光石",
+      "name_target": "huỳnh quang thạch",
+      "type": "item",
+      "description": "Khối đá phát sáng ngụy trang cho lõi năng lượng của trận pháp dịch chuyển không gian."
+    },
+    {
+      "name_source": "血脉培养药剂",
+      "name_target": "dược tể bồi dưỡng huyết mạch",
+      "type": "item",
+      "description": "Dược tể kích thích giúp củng cố và tăng nồng độ huyết mạch."
     }
   ]
 }

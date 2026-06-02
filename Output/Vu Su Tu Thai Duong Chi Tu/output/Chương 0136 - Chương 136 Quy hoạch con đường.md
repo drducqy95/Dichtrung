@@ -1,0 +1,79 @@
+# Chương 0136: Chương 136: Quy hoạch con đường
+
+Chương 136: Quy hoạch con đường
+
+"Thu hoạch từ di tích thế là đã đủ rồi! Trên đường trở về học viện, vừa vặn có thể tiếp thu tri thức, xác định hướng phát triển của bản thân!"
+
+Ngồi trên giường, Grimm mở hai mắt, dòng luồng sáng xanh lục lam nơi đáy mắt dần dần tiêu tán.
+
+Hiện tại hắn đã hiểu đại khái những thu hoạch trong di tích, cũng nắm rõ mức độ nhất định về trạng thái cơ thể mình, lúc này đã bắt đầu tiến hành sắp xếp cho chặng đường tiếp theo.
+
+Thu hoạch lần này thực sự quá đỗi phong phú, trong thời gian ngắn khó lòng hấp thụ hết sạch, không thể mù quáng đưa ra những sắp xếp tiếp theo, mà phải suy nghĩ thật kỹ lưỡng rồi mới đưa ra quyết định.
+
+Lựa chọn con đường chính xác có thể giúp Grimm làm ít công to. Một khi đi lầm đường lạc lối, không biết sẽ phải lãng phí biết bao nhiêu thời gian. Thế nên Grimm cực kỳ cẩn trọng, trước khi chưa hoàn toàn chắc chắn, hắn sẽ không lập tức xác nhận phương hướng tiến bước của mình.
+
+Trong di tích đã bận rộn cực nhọc rất lâu, cộng thêm việc liên tục uống dược tể không ngừng nghỉ, tinh thần của Grimm thực chất đã có phần thấu chi quá mức.
+
+Cộng thêm việc lên đường đi liên tục suốt mấy ngày liền, Grimm đã cảm thấy vô cùng mệt mỏi. Sau khi thiết lập vu thuật cảnh giới xung quanh, hắn liền nằm thẳng xuống giường ngủ thiếp đi. Hắn không hề tiến hành minh tưởng, bởi so với việc dựa vào minh tưởng để khôi phục tinh thần lực, thì ngủ - một phương pháp vô cùng nguyên thủy này - lại đem lại hiệu quả cực kỳ tốt đối với tình trạng thấu chi do dược tể gây ra.
+
+...
+
+Ào ào!!!
+
+Tiếng nước suối chảy róc rách không ngừng truyền tới, khơi dậy từng đóa bọt nước trắng xóa màu bạc. Bên cạnh con suối là cánh rừng rậm rạp trải dài vô tận. Lúc này đã là tháng Mười, cả cánh rừng hơi nhuốm màu vàng úa, thi thoảng lại có những chiếc lá rụng rơi. Khi gió nhẹ lướt qua, lá cây và cành cây khẽ đung đưa thân mình, phát ra những tiếng xào xạc rì rào.
+
+Trên con đường chạy song song với dòng suối vang lên tiếng móng ngựa lọc cọc nhịp nhàng, tốc độ di chuyển không nhanh không chậm. Những chiếc lá rụng thỉnh thoảng bay ngang qua trước cỗ xe ngựa, mang lại cho người ta cảm giác thư thái và thảnh thơi nhè nhẹ.
+
+Trên xe ngựa, một thanh niên mặc trang phục thường ngày đang tựa lưng vào thành xe, hai mắt khẽ nhắm, dường như đang ngủ say. Tuy nhiên, đôi mắt thi thoảng lại hé mở chứng tỏ hắn không hề buông lỏng cảnh giác.
+
+Thanh niên này chính là Grimm. Sau khi nghỉ ngơi dưỡng sức ở thành trấn nhỏ, Grimm lại mua một cỗ xe ngựa, thong thả lên đường trở về học viện. Đến nay hắn đã di chuyển trên lộ trình được gần hai tháng!
+
+Grimm cũng không vội vã quay lại học viện, bởi vì cho dù có về tới nơi thì hắn vẫn chỉ có thể tiếp tục chờ đợi.
+
+Dưới chỉ thị của Grimm, Chip đang tiến hành dịch thuật hiện đại hóa đối với kho tri thức của học viện Linh Hồn. Việc dịch thuật này không được phép xảy ra bất kỳ sai sót nào, một khi dịch sai lệch, ý nghĩa sẽ khác xa một trời một vực. Vì vậy quá trình này diễn ra vô cùng chậm chạp, mục đích chính là để đảm bảo tuyệt đối không có sai sót.
+
+Mặt khác, đối với phần tri thức đã được Chip dịch xong, Grimm thông qua sự truyền đổ của Chip đã bắt đầu bắt tay vào học tập.
+
+Trong kho tri thức thuộc Thư Viện của học viện Linh Hồn có tới hàng chục loại minh tưởng pháp khác nhau, cũng mang theo một số hiệu quả đặc thù. Thế nhưng phần lớn các môn minh tưởng pháp này đều là loại phối hợp với Nước Siêu Hạn, khác biệt hoàn toàn với minh tưởng pháp cao đẳng được khai sinh vào thời trung cổ, không giúp ích được nhiều cho Grimm.
+
+Các Vu sư thời thượng cổ đều dựa vào tài nguyên để tấn thăng, trái lại nhu cầu đối với minh tưởng pháp lại khá ít. Về cơ bản minh tưởng pháp chỉ là quà tặng kèm theo, tài nguyên mới là thứ quan trọng nhất.
+
+Tuy nhiên cũng có số ít các loại minh tưởng pháp thuộc thể loại khác, có nguồn gốc từ các chủng tộc hoặc học phái khác. Những môn minh tưởng pháp này lại mang tới sự giúp đỡ vô cùng to lớn cho Grimm.
+
+Dù sao thì sự ra đời của minh tưởng pháp cao đẳng cũng không thể nào không có tài liệu tham chiếu, những môn minh tưởng pháp này chính là tiền thân của minh tưởng pháp cao đẳng, có giá trị hỗ trợ cực lớn đối với Grimm.
+
+Dưới sự sàng lọc của Chip, cuối cùng đã tìm ra một môn minh tưởng pháp cực kỳ hữu ích cho Grimm, mang tên Thức Tỉnh Huyết Mạch Cao Đẳng Thông Dụng.
+
+Môn minh tưởng pháp này được các Vu sư thượng cổ phát triển dành riêng cho tất cả các dòng huyết mạch từ cấp bốn trở lên, chuyên dùng để kích hoạt sức mạnh ẩn giấu bên trong huyết mạch.
+
+Theo dự đoán của Grimm, môn minh tưởng pháp này có lẽ là do học viện đổi chác từ tổ chức Vu sư khác sau khi săn giết thành công Thái Dương Chi Tử! Dù sao sau khi săn giết Thái Dương Chi Tử, học viện sẽ khai sinh ra một lượng lớn Thuật sĩ huyết mạch.
+
+Môn minh tưởng pháp này, theo giới thiệu của Chip, chủ yếu dùng để kích hoạt sức mạnh bên trong huyết mạch chứ không hề có bất kỳ thuộc tính cộng thêm nào khác, chính vì thế mới có tính thông dụng. Môn minh tưởng pháp này chỉ có thể kích hoạt sức mạnh huyết mạch, chứ không giống như các môn minh tưởng pháp huyết mạch khác có khả năng tinh lọc dòng máu của bản thân.
+
+Tuy rằng không có các tác dụng phụ trợ khác, nhưng đối với Grimm mà nói tuyệt đối là một tin tốt. Phối hợp with Chip, hắn hoàn toàn có thể nhanh chóng kích hoạt huyết mạch Thái Dương Chi Tử, thúc đẩy bản thân trưởng thành.
+
+Thế là Grimm bảo Chip loại bỏ hoàn toàn nội dung của Minh Tưởng Pháp Cơ Bản.
+
+Hắn yêu cầu Chip lấy Minh Tưởng Pháp Cực Hạn làm chủ thể, kết hợp với hai môn Minh Tưởng Pháp Vĩnh Hằng Linh Hồn và Thức Tỉnh Huyết Mạch Cao Đẳng Thông Dụng để dung hợp thành phiên bản cuối cùng của Minh Tưởng Pháp Cực Hạn.
+
+Môn minh tưởng pháp này sẽ được chọn làm công pháp minh tưởng tu luyện chính của Grimm sau này.
+
+Ngoại trừ minh tưởng pháp, Grimm cũng quyết định sau này sẽ chủ công chuyên sâu về mặt linh hồn. Kho tri thức của học viện Linh Hồn dư sức hỗ trợ Grimm thăng lên cấp sáu. Trong khi đó, cấp bậc tri thức cao nhất trong học phái hiện tại cùng lắm cũng chỉ tới cấp bốn, thậm chí tri thức về Vu sư cấp bốn còn bị tàn khuyết nặng nề, hoàn toàn không cùng đẳng cấp với kho tàng tri thức thu hoạch từ học viện Linh Hồn.
+
+Tiếp đó là về chức nghiệp, Dược tể sư với tư cách là chức nghiệp tạo ra năng suất sản xuất, cộng thêm sự hỗ trợ đắc lực từ Chip, Grimm tuyệt đối sẽ không từ bỏ. Kho tri thức kế thừa từ học viện Linh Hồn có một phần khá lớn là tri thức Dược tể học, đa phần các loại dược tể này đều có thể thúc đẩy sự tăng trưởng tinh thần lực. Tuy rằng rất nhiều nguyên liệu đã bị tuyệt chủng từ thời thượng cổ, nhưng vẫn có một số ít dược liệu thay thế được Grimm và Chip nghiên cứu tìm ra.
+
+Hơn nữa dựa vào những tri thức này, Grimm còn chuẩn bị tự mình nghiên cứu ra một số loại dược tể mới. Dù sao những tri thức dược tể này đều mang tính hệ thống và có khung sườn sẵn có, Grimm có thể thêm thắt nguyên liệu vào các khung sườn này để chế tạo ra dược tể mới.
+
+Cuối cùng chính là huyết mạch, đối với huyết mạch Thái Dương Chi Tử thì Grimm không cần bận tâm quá nhiều. Phiên bản cuối cùng của Minh Tưởng Pháp Cực Hạn đã bao hàm nội dung của Thức Tỉnh Huyết Mạch Cao Đẳng Thông Dụng, kết hợp thêm một số dược tể bồi dưỡng huyết mạch chắc chắn sẽ gia tốc tiến trình tấn thăng của Grimm một cách rõ rệt.
+
+Trong hai tháng này, Grimm đã tiếp nhận một phần tri thức, kết hợp với các mô hình do Chip thiết lập.
+
+Grimm đã xác định rõ ràng con đường tiến bước của mình.
+
+Lấy Minh Tưởng Pháp Cực Hạn làm gốc rễ, tri thức Linh Hồn Học làm thân cây, Dược tể học cung cấp chất dinh dưỡng nuôi trồng, và huyết mạch làm cầu nối dẫn dắt mình tiến bước trên con đường tương lai.
+
+Xác định rõ ràng việc mình cần làm sau này khiến Grimm rất đỗi vui mừng, điểm đáng tiếc duy nhất chính là khối lượng nhiệm vụ khổng lồ khiến ngay cả Chip cũng cảm thấy đau đầu.
+
+Quá trình dịch thuật cũng như cải tiến hiện đại hóa đối với tri thức Linh Hồn Học cao đẳng vẫn cần thêm một khoảng thời gian nữa mới có thể hoàn thành.
+
+But may mắn là hành trình trở về học viện vẫn còn cần thêm một thời gian, Grimm vừa vặn có thể tự cho mình nghỉ xả hơi một chút, thế là mới xuất hiện cảnh tượng Grimm nhàn nhã thong thả đi đường này.

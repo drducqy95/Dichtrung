@@ -3,8 +3,8 @@
     "version": "2.0",
     "schema": "gold",
     "branch": "Vu Su Tu Thai Duong Chi Tu",
-    "last_updated": "2026-06-02T06:02:43.529450+07:00",
-    "total_entries": 1513
+    "last_updated": "2026-06-02T07:14:28.885385+07:00",
+    "total_entries": 1549
   },
   "entries": [
     {
@@ -13410,7 +13410,9 @@
         "chapter_0095",
         "chapter_0097",
         "chapter_0099",
-        "chapter_0108"
+        "chapter_0108",
+        "chapter_0116",
+        "chapter_0124"
       ]
     },
     {
@@ -13456,7 +13458,10 @@
         "chapter_0100",
         "chapter_0101",
         "chapter_0102",
-        "chapter_0106"
+        "chapter_0106",
+        "chapter_0116",
+        "chapter_0118",
+        "chapter_0124"
       ]
     },
     {
@@ -13476,7 +13481,8 @@
         "chapter_0034",
         "chapter_0036",
         "chapter_0084",
-        "chapter_0097"
+        "chapter_0097",
+        "chapter_0127"
       ]
     },
     {
@@ -13593,7 +13599,24 @@
         "chapter_0106",
         "chapter_0107",
         "chapter_0108",
-        "chapter_0109"
+        "chapter_0109",
+        "chapter_0111",
+        "chapter_0112",
+        "chapter_0113",
+        "chapter_0114",
+        "chapter_0115",
+        "chapter_0116",
+        "chapter_0117",
+        "chapter_0118",
+        "chapter_0119",
+        "chapter_0120",
+        "chapter_0121",
+        "chapter_0122",
+        "chapter_0123",
+        "chapter_0127",
+        "chapter_0128",
+        "chapter_0129",
+        "chapter_0130"
       ]
     },
     {
@@ -13636,7 +13659,18 @@
         "chapter_0104",
         "chapter_0106",
         "chapter_0107",
-        "chapter_0108"
+        "chapter_0108",
+        "chapter_0111",
+        "chapter_0113",
+        "chapter_0115",
+        "chapter_0116",
+        "chapter_0120",
+        "chapter_0123",
+        "chapter_0124",
+        "chapter_0127",
+        "chapter_0128",
+        "chapter_0129",
+        "chapter_0130"
       ]
     },
     {
@@ -13661,7 +13695,8 @@
         "chapter_0088",
         "chapter_0100",
         "chapter_0107",
-        "chapter_0109"
+        "chapter_0109",
+        "chapter_0129"
       ]
     },
     {
@@ -13790,7 +13825,22 @@
         "chapter_0106",
         "chapter_0107",
         "chapter_0108",
-        "chapter_0109"
+        "chapter_0109",
+        "chapter_0111",
+        "chapter_0112",
+        "chapter_0114",
+        "chapter_0116",
+        "chapter_0117",
+        "chapter_0118",
+        "chapter_0119",
+        "chapter_0120",
+        "chapter_0121",
+        "chapter_0122",
+        "chapter_0123",
+        "chapter_0126",
+        "chapter_0127",
+        "chapter_0128",
+        "chapter_0129"
       ]
     },
     {
@@ -13884,7 +13934,8 @@
         "chapter_0088",
         "chapter_0094",
         "chapter_0096",
-        "chapter_0100"
+        "chapter_0100",
+        "chapter_0122"
       ]
     },
     {
@@ -13904,7 +13955,8 @@
         "chapter_0049",
         "chapter_0059",
         "chapter_0074",
-        "chapter_0101"
+        "chapter_0101",
+        "chapter_0116"
       ]
     },
     {
@@ -14002,7 +14054,12 @@
         "chapter_0082",
         "chapter_0096",
         "chapter_0097",
-        "chapter_0098"
+        "chapter_0098",
+        "chapter_0112",
+        "chapter_0113",
+        "chapter_0117",
+        "chapter_0119",
+        "chapter_0126"
       ]
     },
     {
@@ -14136,7 +14193,8 @@
         "chapter_0088",
         "chapter_0095",
         "chapter_0097",
-        "chapter_0103"
+        "chapter_0103",
+        "chapter_0127"
       ]
     },
     {
@@ -14205,7 +14263,9 @@
         "chapter_0088",
         "chapter_0090",
         "chapter_0097",
-        "chapter_0099"
+        "chapter_0099",
+        "chapter_0112",
+        "chapter_0125"
       ]
     },
     {
@@ -14302,7 +14362,9 @@
         "chapter_0102",
         "chapter_0103",
         "chapter_0106",
-        "chapter_0109"
+        "chapter_0109",
+        "chapter_0128",
+        "chapter_0130"
       ]
     },
     {
@@ -14902,7 +14964,12 @@
       "context": "",
       "confidence": "medium",
       "notes": "Thuốc tịnh hóa giải nguyền rủa",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0101",
+        "chapter_0119"
+      ]
     },
     {
       "source": "肉食虫诅咒",
@@ -15028,7 +15095,9 @@
         "chapter_0084",
         "chapter_0096",
         "chapter_0097",
-        "chapter_0099"
+        "chapter_0099",
+        "chapter_0119",
+        "chapter_0124"
       ]
     },
     {
@@ -15107,7 +15176,8 @@
         "chapter_0096",
         "chapter_0097",
         "chapter_0098",
-        "chapter_0099"
+        "chapter_0099",
+        "chapter_0119"
       ]
     },
     {
@@ -15202,7 +15272,8 @@
       "status": "auto-locked",
       "reviewed_chapters": [
         "chapter_0098",
-        "chapter_0101"
+        "chapter_0101",
+        "chapter_0118"
       ]
     },
     {
@@ -15236,7 +15307,25 @@
         "chapter_0106",
         "chapter_0107",
         "chapter_0108",
-        "chapter_0110"
+        "chapter_0110",
+        "chapter_0111",
+        "chapter_0112",
+        "chapter_0113",
+        "chapter_0115",
+        "chapter_0116",
+        "chapter_0117",
+        "chapter_0118",
+        "chapter_0119",
+        "chapter_0120",
+        "chapter_0121",
+        "chapter_0122",
+        "chapter_0123",
+        "chapter_0124",
+        "chapter_0125",
+        "chapter_0127",
+        "chapter_0128",
+        "chapter_0129",
+        "chapter_0130"
       ]
     },
     {
@@ -15542,7 +15631,12 @@
       "context": "",
       "confidence": "1.0",
       "notes": "Vu sư Cain từ gia tộc Vila Valu",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0105",
+        "chapter_0119"
+      ]
     },
     {
       "source": "维拉瓦路家族",
@@ -15562,7 +15656,20 @@
       "context": "",
       "confidence": "1.0",
       "notes": "Vu sư Yaxi tóc đỏ",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0115",
+        "chapter_0116",
+        "chapter_0120",
+        "chapter_0121",
+        "chapter_0122",
+        "chapter_0123",
+        "chapter_0124",
+        "chapter_0125",
+        "chapter_0126",
+        "chapter_0127"
+      ]
     },
     {
       "source": "罗德尔",
@@ -15612,7 +15719,12 @@
       "context": "",
       "confidence": "1.0",
       "notes": "Phép dịch chuyển không gian",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0125",
+        "chapter_0128"
+      ]
     },
     {
       "source": "树人",
@@ -15628,7 +15740,14 @@
         "chapter_0106",
         "chapter_0107",
         "chapter_0108",
-        "chapter_0109"
+        "chapter_0109",
+        "chapter_0111",
+        "chapter_0113",
+        "chapter_0114",
+        "chapter_0115",
+        "chapter_0116",
+        "chapter_0127",
+        "chapter_0128"
       ]
     },
     {
@@ -15679,7 +15798,12 @@
       "context": "",
       "confidence": "1.0",
       "notes": "Phù văn thượng cổ phức tạp gây ra ảo giác chân thực",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0107",
+        "chapter_0120"
+      ]
     },
     {
       "source": "傀儡",
@@ -15689,7 +15813,15 @@
       "context": "",
       "confidence": "1.0",
       "notes": "Thuật tạo ra cơ thể giả bằng máu thịt làm thế thân",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0108",
+        "chapter_0116",
+        "chapter_0119",
+        "chapter_0127",
+        "chapter_0129"
+      ]
     },
     {
       "source": "古大陆通用语",
@@ -15739,7 +15871,12 @@
       "context": "",
       "confidence": "1.0",
       "notes": "Khu vực phân phát nhiệm vụ của tổ chức vu sư thượng cổ",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0110",
+        "chapter_0112"
+      ]
     },
     {
       "source": "卷轴",
@@ -15749,7 +15886,14 @@
       "context": "",
       "confidence": "1.0",
       "notes": "Cuộn giấy da thời cổ xưa dùng để lưu trữ thông tin",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0112",
+        "chapter_0113",
+        "chapter_0115",
+        "chapter_0127"
+      ]
     },
     {
       "source": "元素辐射",
@@ -15759,7 +15903,14 @@
       "context": "",
       "confidence": "1.0",
       "notes": "Năng lượng bức xạ tự nhiên của thế giới vu sư",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0110",
+        "chapter_0120",
+        "chapter_0121",
+        "chapter_0122"
+      ]
     },
     {
       "source": "高能烈焰药剂",
@@ -15799,7 +15950,20 @@
       "context": "",
       "confidence": "1.0",
       "notes": "Linh hồn tà ác không có thực thể",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0113",
+        "chapter_0114",
+        "chapter_0116",
+        "chapter_0117",
+        "chapter_0119",
+        "chapter_0120",
+        "chapter_0121",
+        "chapter_0122",
+        "chapter_0123",
+        "chapter_0126"
+      ]
     },
     {
       "source": "正式骑士",
@@ -15809,7 +15973,8 @@
       "status": "auto-locked",
       "reviewed_chapters": [
         "chapter_0029",
-        "chapter_0107"
+        "chapter_0107",
+        "chapter_0111"
       ]
     },
     {
@@ -15820,7 +15985,19 @@
       "context": "",
       "confidence": "1.0",
       "notes": "Khu vực sinh hoạt nội trú dưới lòng đất của di tích",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0112",
+        "chapter_0113",
+        "chapter_0114",
+        "chapter_0115",
+        "chapter_0117",
+        "chapter_0118",
+        "chapter_0126",
+        "chapter_0127",
+        "chapter_0128"
+      ]
     },
     {
       "source": "烟雾之眼",
@@ -15840,7 +16017,16 @@
       "context": "",
       "confidence": "1.0",
       "notes": "Thụ nhân nhỏ hỗ trợ chuẩn bị dược tể",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0113",
+        "chapter_0114",
+        "chapter_0115",
+        "chapter_0116",
+        "chapter_0127",
+        "chapter_0128"
+      ]
     },
     {
       "source": "绝望药剂",
@@ -15870,7 +16056,14 @@
       "context": "",
       "confidence": "1.0",
       "notes": "Phương pháp tu luyện tinh thần lực của vu sư",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0117",
+        "chapter_0119",
+        "chapter_0124",
+        "chapter_0127"
+      ]
     },
     {
       "source": "绝望之力",
@@ -15900,7 +16093,13 @@
       "context": "",
       "confidence": "1.0",
       "notes": "Khu vườn trồng dược liệu của học viện vu sư thượng cổ",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0117",
+        "chapter_0123",
+        "chapter_0126"
+      ]
     },
     {
       "source": "灵魂养殖场",
@@ -15930,7 +16129,16 @@
       "context": "",
       "confidence": "1.0",
       "notes": "Khu vực thí nghiệm của học viện vu sư",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0117",
+        "chapter_0119",
+        "chapter_0122",
+        "chapter_0123",
+        "chapter_0124",
+        "chapter_0126"
+      ]
     },
     {
       "source": "图书馆",
@@ -15940,7 +16148,18 @@
       "context": "",
       "confidence": "1.0",
       "notes": "Nơi tàng trữ sách vở và tri thức của học viện vu sư",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0115",
+        "chapter_0116",
+        "chapter_0117",
+        "chapter_0119",
+        "chapter_0121",
+        "chapter_0123",
+        "chapter_0126",
+        "chapter_0127"
+      ]
     },
     {
       "source": "漂浮术",
@@ -15980,7 +16199,12 @@
       "context": "",
       "confidence": "1.0",
       "notes": "Anh quái tà ác hình dáng trẻ sơ sinh",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0117",
+        "chapter_0120"
+      ]
     },
     {
       "source": "气息清除药剂",
@@ -16010,6 +16234,405 @@
       "context": "",
       "confidence": "1.0",
       "notes": "Loại dược tể giúp cơ thể lơ lửng di chuyển trên không trung.",
+      "locked": false
+    },
+    {
+      "source": "灵魂学院",
+      "source_language": "zh",
+      "target": "học viện Linh Hồn",
+      "category": "factions",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Học viện vu sư thượng cổ nghiên cứu linh hồn.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0117",
+        "chapter_0124",
+        "chapter_0126",
+        "chapter_0127",
+        "chapter_0128"
+      ]
+    },
+    {
+      "source": "灵魂本源",
+      "source_language": "zh",
+      "target": "bản nguyên linh hồn",
+      "category": "cultivation_resources",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Tinh hoa trích xuất từ linh hồn bị tra tấn sụp đổ.",
+      "locked": false
+    },
+    {
+      "source": "厄运花园",
+      "source_language": "zh",
+      "target": "Vườn Ách Vận",
+      "category": "locations",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Khu vực nguy hiểm trung bình ở di tích ngầm.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0117",
+        "chapter_0118",
+        "chapter_0120",
+        "chapter_0123"
+      ]
+    },
+    {
+      "source": "怨灵玩偶",
+      "source_language": "zh",
+      "target": "búp bê oán linh",
+      "category": "items",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Con búp bê chứa nhiều linh thể oán hận thượng cổ.",
+      "locked": false
+    },
+    {
+      "source": "负能量吸收药剂",
+      "source_language": "zh",
+      "target": "dược tể hấp thụ năng lượng tiêu cực",
+      "category": "cultivation_resources",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Loại dược tể chuyên hấp thụ năng lượng tiêu cực và oán khí từ linh thể.",
+      "locked": false
+    },
+    {
+      "source": "吞食虫药剂",
+      "source_language": "zh",
+      "target": "dược tể Thôn Thực Trùng",
+      "category": "cultivation_resources",
+      "context": "",
+      "confidence": "1.0",
+      "notes": "Dược tể chứa loài sâu ăn tạp có sức tàn phá cực mạnh.",
+      "locked": false
+    },
+    {
+      "source": "智慧草",
+      "source_language": "zh",
+      "target": "Cỏ Trí Tuệ",
+      "category": "cultivation_resource",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một loại cỏ thượng cổ quý hiếm giúp thăng tiến cấp bậc trực tiếp trước cấp ba.",
+      "locked": false
+    },
+    {
+      "source": "太阳之子",
+      "source_language": "zh",
+      "target": "Thái Dương Chi Tử",
+      "category": "cultivation_resource",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Sinh mệnh cấp sáu sinh ra từ tự nhiên trong mặt trời, bị học viện Linh Hồn săn giết.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0124",
+        "chapter_0125",
+        "chapter_0126",
+        "chapter_0129",
+        "chapter_0130"
+      ]
+    },
+    {
+      "source": "血脉术士",
+      "source_language": "zh",
+      "target": "Thuật sĩ huyết mạch",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Nhánh vu sư sử dụng huyết mạch của các sinh vật mạnh mẽ để tu luyện.",
+      "locked": false
+    },
+    {
+      "source": "灵魂精粹",
+      "source_language": "zh",
+      "target": "tinh túy linh hồn",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tinh chất cô đọng từ việc nghiền nát linh hồn của phàm nhân hoặc vu sư.",
+      "locked": false
+    },
+    {
+      "source": "灵体",
+      "source_language": "zh",
+      "target": "linh thể",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thực thể tồn tại dưới dạng linh hồn không có thực thể xác thịt.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0125",
+        "chapter_0126"
+      ]
+    },
+    {
+      "source": "中央实验室",
+      "source_language": "zh",
+      "target": "phòng thí nghiệm trung ương",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Nơi cất giữ món quà của Aitalo dành cho người thừa kế — dòng máu của Thái Dương Chi Tử.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0126",
+        "chapter_0129",
+        "chapter_0130"
+      ]
+    },
+    {
+      "source": "远古妖精语",
+      "source_language": "zh",
+      "target": "Viễn cổ Yêu Tinh ngữ",
+      "category": "language",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Ngôn ngữ cổ đại của chủng tộc yêu tinh, sinh ra từ linh hồn.",
+      "locked": false
+    },
+    {
+      "source": "永恒灵魂冥想法",
+      "source_language": "zh",
+      "target": "Minh Tưởng Pháp Vĩnh Hằng Linh Hồn",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Môn minh tưởng pháp cổ đại cải biên từ chủng tộc yêu tinh dùng để tu luyện linh hồn.",
+      "locked": false
+    },
+    {
+      "source": "荧光石",
+      "source_language": "zh",
+      "target": "huỳnh quang thạch",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Khối đá phát sáng khổng lồ ở trung tâm đại sảnh, thực chất là ngụy trang của trận pháp dịch chuyển không gian.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0128",
+        "chapter_0129"
+      ]
+    },
+    {
+      "source": "单向传送阵",
+      "source_language": "zh",
+      "target": "trận pháp dịch chuyển đơn hướng",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Trận pháp dịch chuyển không gian cổ đại chỉ cho phép di chuyển một chiều tới vị trí cố định.",
+      "locked": false
+    },
+    {
+      "source": "血脉传承阵法",
+      "source_language": "zh",
+      "target": "trận pháp truyền thừa huyết mạch",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Trận pháp dùng để dung hợp huyết mạch của Thái Dương Chi Tử vào cơ thể người thừa kế.",
+      "locked": false
+    },
+    {
+      "source": "能量转化阵",
+      "source_language": "zh",
+      "target": "trận pháp chuyển hóa năng lượng",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Trận pháp dùng để chuyển hóa năng lượng từ ma thạch hoặc nguồn khác để rót vào huyết mạch.",
+      "locked": false
+    },
+    {
+      "source": "漂浮咒",
+      "source_language": "zh",
+      "target": "bùa Bay",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Vu thuật nâng vật thể bay lên không trung.",
+      "locked": false
+    },
+    {
+      "source": "灵魂切割法",
+      "source_language": "zh",
+      "target": "pháp cắt tách linh hồn",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Kỹ thuật của Linh Hồn Học cổ đại dùng để phân tách linh hồn làm hai.",
+      "locked": false
+    },
+    {
+      "source": "血脉源头",
+      "source_language": "zh",
+      "target": "nguồn gốc huyết mạch",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Sinh vật huyền thoại ban đầu là nguồn cung cấp sức mạnh huyết mạch cho các Thuật sĩ.",
+      "locked": false
+    },
+    {
+      "source": "本源血脉",
+      "source_language": "zh",
+      "target": "huyết mạch bản nguyên",
+      "category": "cultivation_resource",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Dòng máu gốc rễ hoàn chỉnh nhất từ nguồn gốc huyết mạch, không chịu xiềng xích giới hạn.",
+      "locked": false
+    },
+    {
+      "source": "血脉传承仪式",
+      "source_language": "zh",
+      "target": "nghi thức truyền thừa huyết mạch",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Nghi thức dung hợp huyết mạch của sinh vật huyền thoại vào cơ thể bằng cách giao thoa máu.",
+      "locked": false
+    },
+    {
+      "source": "排异反应",
+      "source_language": "zh",
+      "target": "phản ứng bài xích",
+      "category": "other",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Phản ứng tự vệ đào thải tế bào hoặc huyết dịch lạ của cơ thể sinh vật.",
+      "locked": false
+    },
+    {
+      "source": "染色体",
+      "source_language": "zh",
+      "target": "nhiễm sắc thể",
+      "category": "other",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Cấu trúc mang thông tin di truyền nằm trong nhân tế bào.",
+      "locked": false
+    },
+    {
+      "source": "齿轮结构",
+      "source_language": "zh",
+      "target": "cấu trúc bánh răng",
+      "category": "other",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Cấu trúc dạng răng cưa lồng vào nhau của gene sau khi được tái tổ hợp.",
+      "locked": false
+    },
+    {
+      "source": "一次性传送巫阵",
+      "source_language": "zh",
+      "target": "trận pháp truyền tống dùng một lần",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Trận pháp dùng để truyền tống khẩn cấp rời khỏi di tích về điểm định vị bên ngoài.",
+      "locked": false
+    },
+    {
+      "source": "三维属性",
+      "source_language": "zh",
+      "target": "tố chất ba chiều",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Các thuộc tính cơ bản của cơ thể bao gồm sức mạnh, tốc độ và thể chất.",
+      "locked": false
+    },
+    {
+      "source": "火元素化",
+      "source_language": "zh",
+      "target": "Hỏa nguyên tố hóa",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thiên phú huyết mạch cho phép chuyển hóa cơ thể thành nguyên tố lửa.",
+      "locked": false
+    },
+    {
+      "source": "光元素化",
+      "source_language": "zh",
+      "target": "Quang nguyên tố hóa",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thiên phú huyết mạch cho phép chuyển hóa cơ thể thành nguyên tố ánh sáng.",
+      "locked": false
+    },
+    {
+      "source": "降维打击",
+      "source_language": "zh",
+      "target": "đòn giáng hạ chiều",
+      "category": "other",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một cuộc tấn công làm giảm chiều không gian của đối thủ, ám chỉ sức mạnh vượt bậc áp chế đối thủ hoàn toàn.",
+      "locked": false
+    },
+    {
+      "source": "食人树",
+      "source_language": "zh",
+      "target": "cây ăn thịt người",
+      "category": "creature",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Loài cây ma vật ăn thịt sinh vật trên đảo ngoại vi di tích.",
+      "locked": false
+    },
+    {
+      "source": "专属巫器",
+      "source_language": "zh",
+      "target": "vu khí chuyên dụng",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Vũ khí ma pháp được Vu sư thiết kế và chế tạo riêng để tương thích tốt nhất với bản thân.",
+      "locked": false
+    },
+    {
+      "source": "通用高等血脉唤醒",
+      "source_language": "zh",
+      "target": "Thức Tỉnh Huyết Mạch Cao Đẳng Thông Dụng",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Môn minh tưởng pháp thông dụng thời thượng cổ dành cho huyết mạch từ cấp bốn trở lên để kích hoạt sức mạnh ẩn giấu.",
+      "locked": false
+    },
+    {
+      "source": "血脉培养药剂",
+      "source_language": "zh",
+      "target": "dược tể bồi dưỡng huyết mạch",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Loại thuốc giúp xúc tiến, bồi dưỡng sự phát triển và tăng nồng độ của huyết mạch trong cơ thể.",
+      "locked": false
+    },
+    {
+      "source": "主修冥想法",
+      "source_language": "zh",
+      "target": "công pháp minh tưởng tu luyện chính",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Môn minh tưởng pháp chính yếu được lựa chọn làm nền tảng tu luyện chính của Vu sư.",
       "locked": false
     }
   ]

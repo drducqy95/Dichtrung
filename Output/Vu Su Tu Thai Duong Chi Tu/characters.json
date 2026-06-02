@@ -3,8 +3,8 @@
     "version": "2.0",
     "schema": "gold",
     "branch": "Vu Su Tu Thai Duong Chi Tu",
-    "last_updated": "2026-06-02T01:29:49.686422+07:00",
-    "total_characters": 377
+    "last_updated": "2026-06-02T07:07:55.013259+07:00",
+    "total_characters": 378
   },
   "characters": [
     {
@@ -6013,6 +6013,44 @@
       "status": "active",
       "appearance": {
         "physical": "Phân thân thứ hai của Grimm được phái làm nhiệm vụ hỗ trợ.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "艾塔洛",
+      "name_target": "Aitalo",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "elderly",
+      "social_status": "",
+      "base_archetype": "supporting",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Vị cao tầng và là chứng nhân cuối cùng của học viện Linh Hồn thượng cổ, người để lại nhật ký và máu của Thái Dương Chi Tử.",
         "style": "",
         "distinctive": ""
       },

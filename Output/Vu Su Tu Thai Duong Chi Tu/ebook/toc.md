@@ -116,3 +116,23 @@
 - Chương 0114: Chương 114: Đi sâu vào lòng đất
 - Chương 0115: Chương 115: Thư viện và những người khác
 - Chương 0116: Chương 116: Linh Hồn Giáo Phái
+- Chương 0117: Chương 117: Phía sau di tích
+- Chương 0118: Chương 118: Bị tập kích
+- Chương 0119: Chương 119: Ban đêm
+- Chương 0120: Chương 120: Cấp hai
+- Chương 0121: Chương 121: Hừng đông
+- Chương 0122: Chương 122: Mặt trời sống
+- Chương 0123: Chương 123: Dò xét linh hồn
+- Chương 0124: Chương 124: Nhật ký
+- Chương 0125: Chương 125: Thất bại
+- Chương 0126: Chương 126: Truyền thừa! Chuẩn bị tiến vào
+- Chương 0127: Chương 127: Khu vực lõi
+- Chương 0128: Chương 128: Dịch chuyển
+- Chương 0129: Chương 129: Huyết mạch thất thoát
+- Chương 0130: Chương 130: Kích hoạt huyết mạch
+- Chương 0131: Chương 131: Thức tỉnh
+- Chương 0132: Chương 132: Nghi thức huyết mạch hoàn thành
+- Chương 0133: Chương 133: Ký ức, rời đi
+- Chương 0134: Chương 134: Thu hoạch từ di tích (1)
+- Chương 0135: Chương 135: Thu hoạch từ di tích (2)
+- Chương 0136: Chương 136: Quy hoạch con đường
