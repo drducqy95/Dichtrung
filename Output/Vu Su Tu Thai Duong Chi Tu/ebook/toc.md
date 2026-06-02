@@ -156,3 +156,13 @@
 - Chương 0154: Chương 154: Thí Nghiệm Huyết Mạch
 - Chương 0155: Chương 155: Truyền Thừa Huyết Mạch
 - Chương 0156: Chương 156: Cổng Không Gian Thế Giới
+- Chương 0157: Chương 157: Tình Hình Thế Giới
+- Chương 0158: Chương 158: Chiến Tranh Xâm Lược Bắt Đầu
+- Chương 0159: Chương 159: Mặt Trời, Khao Khát
+- Chương 0160: Chương 160: Ý Chí Thế Giới Ngủ Say
+- Chương 0161: Chương 161: Chủ Quyền Mặt Trời
+- Chương 0162: Chương 162: Tháp Vu Sư
+- Chương 0163: Chương 163: Kết Thúc Trưởng Thành
+- Chương 0164: Chương 164: Thiết Lập Lối Đi Vĩnh Viễn, Rời Đi
+- Chương 0165: Chương 165: Trở Về, Cục Diện Mới Của Bờ Biển Phía Đông
+- Chương 0166: Chương 166: Học Viện, Bí Mật Bên Trong, Bận Rộn

@@ -2,8 +2,8 @@
   "metadata": {
     "branch": "Vu Su Tu Thai Duong Chi Tu",
     "book_title": "Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới",
-    "generated_at": "2026-06-02T08:25:39+07:00",
-    "total_characters": 385,
+    "generated_at": "2026-06-02T08:35:58+07:00",
+    "total_characters": 392,
     "style_tags": [
       "tây phương",
       "fantasy"
@@ -68,6 +68,18 @@
       "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/a_th_t_scene.png",
       "portrait_prompt": "Portrait of A Thất, a woman character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Character context: Người thân/người quan trọng của Thường Hạ.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
       "scene_prompt": "Full-body scene illustration of A Thất (woman) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Description: Người thân/người quan trọng của Thường Hạ.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    },
+    {
+      "name_translated": "Abiman",
+      "name_original": "亚比曼",
+      "role": "secondary",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/abiman_portrait.png",
+      "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/abiman_scene.png",
+      "portrait_prompt": "Portrait of Abiman, a man character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Character context: Thần Tự Nhiên, người thống trị vương quốc Rừng Rậm.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of Abiman (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Description: Thần Tự Nhiên, người thống trị vương quốc Rừng Rậm.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
       "asset_status": "prompt_ready"
     },
     {
@@ -1223,6 +1235,18 @@
       "asset_status": "prompt_ready"
     },
     {
+      "name_translated": "Gisalo",
+      "name_original": "吉萨罗",
+      "role": "secondary",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/gisalo_portrait.png",
+      "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/gisalo_scene.png",
+      "portrait_prompt": "Portrait of Gisalo, a man character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Character context: Cận thần khổng lồ đá đỏ của Thần Dung Nham Karantel, thực lực cấp hai.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of Gisalo (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Description: Cận thần khổng lồ đá đỏ của Thần Dung Nham Karantel, thực lực cấp hai.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    },
+    {
       "name_translated": "Groske",
       "name_original": "革洛斯克",
       "role": "khác",
@@ -1583,6 +1607,18 @@
       "asset_status": "prompt_ready"
     },
     {
+      "name_translated": "Kanano",
+      "name_original": "卡纳诺",
+      "role": "secondary",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/kanano_portrait.png",
+      "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/kanano_scene.png",
+      "portrait_prompt": "Portrait of Kanano, a man character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Character context: Cận thần khổng lồ đá đen của Thần Dung Nham Karantel.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of Kanano (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Description: Cận thần khổng lồ đá đen của Thần Dung Nham Karantel.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    },
+    {
       "name_translated": "Karant",
       "name_original": "卡兰特",
       "role": "secondary",
@@ -1592,6 +1628,18 @@
       "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/karant_scene.png",
       "portrait_prompt": "Portrait of Karant, a man character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Character context: Tiểu đội trưởng vệ binh tuần tra đêm tại Lâu đài Clow.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
       "scene_prompt": "Full-body scene illustration of Karant (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Description: Tiểu đội trưởng vệ binh tuần tra đêm tại Lâu đài Clow.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    },
+    {
+      "name_translated": "Karantel",
+      "name_original": "卡兰特尔",
+      "role": "secondary",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/karantel_portrait.png",
+      "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/karantel_scene.png",
+      "portrait_prompt": "Portrait of Karantel, a man character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Character context: Thần Dung Nham, vị vua thống trị vương quốc Dung Nham, thực lực tiệm cận cấp ba.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of Karantel (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Description: Thần Dung Nham, vị vua thống trị vương quốc Dung Nham, thực lực tiệm cận cấp ba.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
       "asset_status": "prompt_ready"
     },
     {
@@ -3275,6 +3323,18 @@
       "asset_status": "prompt_ready"
     },
     {
+      "name_translated": "Tarom",
+      "name_original": "塔罗姆",
+      "role": "secondary",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/tarom_portrait.png",
+      "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/tarom_scene.png",
+      "portrait_prompt": "Portrait of Tarom, a man character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Character context: Một thụ nhân ở dị giới, tính tình bình tĩnh hơn Vikros.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of Tarom (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Description: Một thụ nhân ở dị giới, tính tình bình tĩnh hơn Vikros.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    },
+    {
       "name_translated": "Terris",
       "name_original": "特瑞斯",
       "role": "secondary",
@@ -4067,6 +4127,18 @@
       "asset_status": "prompt_ready"
     },
     {
+      "name_translated": "Vikros",
+      "name_original": "维克罗斯",
+      "role": "secondary",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/vikros_portrait.png",
+      "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/vikros_scene.png",
+      "portrait_prompt": "Portrait of Vikros, a man character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Character context: Một người khổng lồ đá đỏ ở dị giới, tính cách hung hăng, hay tranh đấu với thụ nhân Tarom.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of Vikros (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Description: Một người khổng lồ đá đỏ ở dị giới, tính cách hung hăng, hay tranh đấu với thụ nhân Tarom.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    },
+    {
       "name_translated": "Vitri",
       "name_original": "维特莉",
       "role": "secondary",
@@ -4388,6 +4460,18 @@
       "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/xa_can_scene.png",
       "portrait_prompt": "Portrait of Xa Can, a man character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Character context: Trí giả thời cổ đại, người nhìn thấu âm mưu ngàn đời nhắm vào nhân loại.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
       "scene_prompt": "Full-body scene illustration of Xa Can (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Description: Trí giả thời cổ đại, người nhìn thấu âm mưu ngàn đời nhắm vào nhân loại.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    },
+    {
+      "name_translated": "Xilan",
+      "name_original": "西兰",
+      "role": "secondary",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/xilan_portrait.png",
+      "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/xilan_scene.png",
+      "portrait_prompt": "Portrait of Xilan, a man character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Character context: Thần Kim Loại, người thống trị vương quốc Kim Loại.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of Xilan (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Description: Thần Kim Loại, người thống trị vương quốc Kim Loại.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
       "asset_status": "prompt_ready"
     },
     {

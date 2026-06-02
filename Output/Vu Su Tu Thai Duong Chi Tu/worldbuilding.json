@@ -153,6 +153,24 @@
       "name_target": "Học viện Vu trận",
       "type": "faction",
       "description": "Phân viện phụ trách thiết kế và vận hành các vu trận bảo hộ trong học viện."
+    },
+    {
+      "name_source": "熔岩王国",
+      "name_target": "Vương quốc Dung Nham",
+      "type": "faction",
+      "description": "Vương quốc của Dung Nham Yêu Tinh, đứng đầu là Thần Dung Nham Karantel."
+    },
+    {
+      "name_source": "金属王国",
+      "name_target": "Vương quốc Kim Loại",
+      "type": "faction",
+      "description": "Vương quốc của Kim Loại Yêu Tinh, đứng đầu là Thần Kim Loại Xilan."
+    },
+    {
+      "name_source": "森林王国",
+      "name_target": "Vương quốc Rừng Rậm",
+      "type": "faction",
+      "description": "Vương quốc của Yêu Tinh Rừng Rậm, đứng đầu là Thần Tự Nhiên Abiman."
     }
   ],
   "weapons": [],
@@ -605,6 +623,42 @@
       "name_target": "Huyễn Giác Hào Khiếu",
       "type": "technique",
       "description": "Tiếng hú gây ảo ảnh hoang mang tinh thần."
+    },
+    {
+      "name_source": "战术/战争巫术",
+      "name_target": "chiến tranh vu thuật",
+      "type": "technique",
+      "description": "Vu thuật quy mô lớn được liên hợp thi triển bởi nhiều Vu sư cao cấp kết hợp với Vu sư tháp."
+    },
+    {
+      "name_source": "艾佐罗亚",
+      "name_target": "Ezoroya",
+      "type": "technique",
+      "description": "Chú ngữ vu thuật hỗ trợ bay lượn."
+    },
+    {
+      "name_source": "光之审判",
+      "name_target": "Phán Xét Của Ánh Sáng",
+      "type": "technique",
+      "description": "Chiến tranh vu thuật cấp bốn của Bạch vu sư, tập hợp năng lượng tạo thành bánh xe phù văn khổng lồ phát động đòn tấn công thanh lọc diện rộng."
+    },
+    {
+      "name_source": "烈日真身",
+      "name_target": "Liệt Nhật Chân Thân",
+      "type": "technique",
+      "description": "Thiên phú cấp hai của Grimm, tự mang Hỏa nguyên tố hóa và Quang nguyên tố hóa, tăng kháng tính toàn phần nguyên tố và hệ tiên tri, nguyền rủa."
+    },
+    {
+      "name_source": "高热领域",
+      "name_target": "Cao Nhiệt Lĩnh Vực",
+      "type": "technique",
+      "description": "Thiên phú cấp hai dạng phạm vi của Grimm, nâng nhiệt độ xung quanh và áp chế các nguyên tố khác, có thể vĩnh viễn thay đổi địa hình."
+    },
+    {
+      "name_source": "操纵太阳",
+      "name_target": "Thao Túng Mặt Trời",
+      "type": "technique",
+      "description": "Thiên phú cấp hai của Grimm giúp hòa làm một thể với mặt trời dị giới, sở hữu lực lượng cấp bốn ở gần mặt trời."
     }
   ],
   "cultivation_systems": [],
@@ -997,6 +1051,18 @@
       "name_target": "Biệt thự được phân phối lại",
       "type": "location",
       "description": "Căn biệt thự mới do học viện phân phối cho Grimm sau khi hắn trở thành tiêu điểm chiến lược của học viện."
+    },
+    {
+      "name_source": "森之妖精世界",
+      "name_target": "thế giới Yêu Tinh của Rừng",
+      "type": "location",
+      "description": "Dị thế giới rừng rậm nguyên thủy với các chủng tộc yêu tinh sinh ra từ tự nhiên."
+    },
+    {
+      "name_source": "西南沿海/vùng ven biển phía tây nam",
+      "name_target": "vùng ven biển phía tây nam",
+      "type": "location",
+      "description": "Khu vực phong đất được học viện Bạch Ốc phân phối cho Grimm, dùng để xây dựng phân viện và tháp Vu sư."
     }
   ],
   "world_map": {
@@ -1388,6 +1454,18 @@
       "name_target": "kim loại kháng tính",
       "type": "item",
       "description": "Kim loại có đặc tính kháng lại mọi loại bức xạ nguyên tố."
+    },
+    {
+      "name_source": "自然能量衰落菌",
+      "name_target": "Vi khuẩn suy thoái năng lượng tự nhiên",
+      "type": "item",
+      "description": "Vũ khí sinh học thượng cổ của giới Vu sư để đầu độc tự nhiên dị giới."
+    },
+    {
+      "name_source": "巫师塔/tháp Vu sư",
+      "name_target": "tháp Vu sư",
+      "type": "item",
+      "description": "Cơ sở nghiên cứu, phòng ngự và tập trung năng lượng quan trọng của các Vu sư chính thức."
     }
   ]
 }

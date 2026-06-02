@@ -1525,3 +1525,163 @@
 {"chapter_id": "chapter_0156", "source_surface": "前线", "target_surface": "Tiền tuyến", "entity_type": "locations", "segment_id": "chapter_0156:seg_0001", "confidence": 1.0}
 {"chapter_id": "chapter_0156", "source_surface": "卷轴", "target_surface": "cuộn giấy da", "entity_type": "items", "segment_id": "chapter_0156:seg_0001", "confidence": 1.0}
 {"chapter_id": "chapter_0156", "source_surface": "世界石", "target_surface": "thế giới thạch", "entity_type": "items", "segment_id": "chapter_0156:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0157", "source_surface": "森", "target_surface": "Sen", "entity_type": "person", "segment_id": "chapter_0157:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0157", "source_surface": "战争", "target_surface": "War", "entity_type": "person", "segment_id": "chapter_0157:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0157", "source_surface": "死亡", "target_surface": "Death", "entity_type": "person", "segment_id": "chapter_0157:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0157", "source_surface": "瘟疫", "target_surface": "Plague", "entity_type": "person", "segment_id": "chapter_0157:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0157", "source_surface": "格林", "target_surface": "Grimm", "entity_type": "person", "segment_id": "chapter_0157:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0157", "source_surface": "卡兰特", "target_surface": "Karant", "entity_type": "person", "segment_id": "chapter_0157:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0157", "source_surface": "灵魂学院", "target_surface": "học viện Linh Hồn", "entity_type": "factions", "segment_id": "chapter_0157:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0157", "source_surface": "巫术", "target_surface": "vu thuật", "entity_type": "techniques", "segment_id": "chapter_0157:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0157", "source_surface": "灵魂学", "target_surface": "Linh Hồn Học (Thượng Cổ)", "entity_type": "techniques", "segment_id": "chapter_0157:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0157", "source_surface": "精神力", "target_surface": "tinh thần lực", "entity_type": "cultivation_resources", "segment_id": "chapter_0157:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0157", "source_surface": "元素辐射", "target_surface": "bức xạ nguyên tố", "entity_type": "cultivation_resources", "segment_id": "chapter_0157:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0157", "source_surface": "后方基地", "target_surface": "Căn cứ hậu phương", "entity_type": "locations", "segment_id": "chapter_0157:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0157", "source_surface": "世界石", "target_surface": "thế giới thạch", "entity_type": "items", "segment_id": "chapter_0157:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0158", "source_surface": "骨", "target_surface": "Cốt", "entity_type": "person", "segment_id": "chapter_0158:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0158", "source_surface": "森", "target_surface": "Sen", "entity_type": "person", "segment_id": "chapter_0158:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0158", "source_surface": "艾米", "target_surface": "Amy", "entity_type": "person", "segment_id": "chapter_0158:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0158", "source_surface": "战争", "target_surface": "War", "entity_type": "person", "segment_id": "chapter_0158:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0158", "source_surface": "死亡", "target_surface": "Death", "entity_type": "person", "segment_id": "chapter_0158:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0158", "source_surface": "瘟疫", "target_surface": "Plague", "entity_type": "person", "segment_id": "chapter_0158:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0158", "source_surface": "格林", "target_surface": "Grimm", "entity_type": "person", "segment_id": "chapter_0158:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0158", "source_surface": "莉莉安", "target_surface": "Lilian", "entity_type": "person", "segment_id": "chapter_0158:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0158", "source_surface": "艾米丽", "target_surface": "Emily", "entity_type": "person", "segment_id": "chapter_0158:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0158", "source_surface": "白巫", "target_surface": "Bạch Vu", "entity_type": "factions", "segment_id": "chapter_0158:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0158", "source_surface": "黑巫师", "target_surface": "Hắc vu sư", "entity_type": "factions", "segment_id": "chapter_0158:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0158", "source_surface": "熔岩王国", "target_surface": "Vương quốc Dung Nham", "entity_type": "factions", "segment_id": "chapter_0158:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0158", "source_surface": "金属王国", "target_surface": "Vương quốc Kim Loại", "entity_type": "factions", "segment_id": "chapter_0158:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0158", "source_surface": "森林王国", "target_surface": "Vương quốc Rừng Rậm", "entity_type": "factions", "segment_id": "chapter_0158:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0158", "source_surface": "巫术", "target_surface": "vu thuật", "entity_type": "techniques", "segment_id": "chapter_0158:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0158", "source_surface": "抑制力", "target_surface": "lực ức chế", "entity_type": "techniques", "segment_id": "chapter_0158:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0158", "source_surface": "森之妖精世界", "target_surface": "thế giới Yêu Tinh của Rừng", "entity_type": "locations", "segment_id": "chapter_0158:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0158", "source_surface": "世界石", "target_surface": "thế giới thạch", "entity_type": "items", "segment_id": "chapter_0158:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0158", "source_surface": "自然能量衰落菌", "target_surface": "Vi khuẩn suy thoái năng lượng tự nhiên", "entity_type": "items", "segment_id": "chapter_0158:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0159", "source_surface": "森", "target_surface": "Sen", "entity_type": "person", "segment_id": "chapter_0159:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0159", "source_surface": "艾米", "target_surface": "Amy", "entity_type": "person", "segment_id": "chapter_0159:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0159", "source_surface": "战争", "target_surface": "War", "entity_type": "person", "segment_id": "chapter_0159:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0159", "source_surface": "死亡", "target_surface": "Death", "entity_type": "person", "segment_id": "chapter_0159:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0159", "source_surface": "瘟疫", "target_surface": "Plague", "entity_type": "person", "segment_id": "chapter_0159:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0159", "source_surface": "格林", "target_surface": "Grimm", "entity_type": "person", "segment_id": "chapter_0159:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0159", "source_surface": "莉莉安", "target_surface": "Lilian", "entity_type": "person", "segment_id": "chapter_0159:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0159", "source_surface": "艾米丽", "target_surface": "Emily", "entity_type": "person", "segment_id": "chapter_0159:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0159", "source_surface": "亚比曼", "target_surface": "Abiman", "entity_type": "person", "segment_id": "chapter_0159:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0159", "source_surface": "白巫", "target_surface": "Bạch Vu", "entity_type": "factions", "segment_id": "chapter_0159:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0159", "source_surface": "黑巫师", "target_surface": "Hắc vu sư", "entity_type": "factions", "segment_id": "chapter_0159:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0159", "source_surface": "森林王国", "target_surface": "Vương quốc Rừng Rậm", "entity_type": "factions", "segment_id": "chapter_0159:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0159", "source_surface": "巫术", "target_surface": "vu thuật", "entity_type": "techniques", "segment_id": "chapter_0159:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0159", "source_surface": "火元素化", "target_surface": "Hỏa nguyên tố hóa", "entity_type": "techniques", "segment_id": "chapter_0159:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0159", "source_surface": "抑制力", "target_surface": "lực ức chế", "entity_type": "techniques", "segment_id": "chapter_0159:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0159", "source_surface": "元素辐射", "target_surface": "bức xạ nguyên tố", "entity_type": "cultivation_resources", "segment_id": "chapter_0159:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0159", "source_surface": "太阳之子", "target_surface": "Thái Dương Chi Tử", "entity_type": "cultivation_resources", "segment_id": "chapter_0159:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0159", "source_surface": "前线", "target_surface": "Tiền tuyến", "entity_type": "locations", "segment_id": "chapter_0159:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0159", "source_surface": "森之妖精世界", "target_surface": "thế giới Yêu Tinh của Rừng", "entity_type": "locations", "segment_id": "chapter_0159:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0160", "source_surface": "森", "target_surface": "Sen", "entity_type": "person", "segment_id": "chapter_0160:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0160", "source_surface": "战争", "target_surface": "War", "entity_type": "person", "segment_id": "chapter_0160:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0160", "source_surface": "死亡", "target_surface": "Death", "entity_type": "person", "segment_id": "chapter_0160:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0160", "source_surface": "格林", "target_surface": "Grimm", "entity_type": "person", "segment_id": "chapter_0160:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0160", "source_surface": "丹尼斯", "target_surface": "Dennis", "entity_type": "person", "segment_id": "chapter_0160:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0160", "source_surface": "亚比曼", "target_surface": "Abiman", "entity_type": "person", "segment_id": "chapter_0160:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0160", "source_surface": "白屋学院", "target_surface": "Học viện Bạch Ốc", "entity_type": "factions", "segment_id": "chapter_0160:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0160", "source_surface": "白巫", "target_surface": "Bạch Vu", "entity_type": "factions", "segment_id": "chapter_0160:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0160", "source_surface": "黑巫师", "target_surface": "Hắc vu sư", "entity_type": "factions", "segment_id": "chapter_0160:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0160", "source_surface": "金属王国", "target_surface": "Vương quốc Kim Loại", "entity_type": "factions", "segment_id": "chapter_0160:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0160", "source_surface": "森林王国", "target_surface": "Vương quốc Rừng Rậm", "entity_type": "factions", "segment_id": "chapter_0160:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0160", "source_surface": "巫术", "target_surface": "vu thuật", "entity_type": "techniques", "segment_id": "chapter_0160:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0160", "source_surface": "符文", "target_surface": "phù văn", "entity_type": "cultivation_resources", "segment_id": "chapter_0160:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0160", "source_surface": "前线", "target_surface": "Tiền tuyến", "entity_type": "locations", "segment_id": "chapter_0160:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0160", "source_surface": "众魂之泪", "target_surface": "Chúng Hồn Chi Lệ", "entity_type": "items", "segment_id": "chapter_0160:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0160", "source_surface": "世界石", "target_surface": "thế giới thạch", "entity_type": "items", "segment_id": "chapter_0160:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0161", "source_surface": "森", "target_surface": "Sen", "entity_type": "person", "segment_id": "chapter_0161:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0161", "source_surface": "死亡", "target_surface": "Death", "entity_type": "person", "segment_id": "chapter_0161:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0161", "source_surface": "格林", "target_surface": "Grimm", "entity_type": "person", "segment_id": "chapter_0161:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0161", "source_surface": "灵魂学院", "target_surface": "học viện Linh Hồn", "entity_type": "factions", "segment_id": "chapter_0161:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0161", "source_surface": "巫术", "target_surface": "vu thuật", "entity_type": "techniques", "segment_id": "chapter_0161:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0161", "source_surface": "冥想", "target_surface": "minh tưởng", "entity_type": "techniques", "segment_id": "chapter_0161:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0161", "source_surface": "灵魂学", "target_surface": "Linh Hồn Học (Thượng Cổ)", "entity_type": "techniques", "segment_id": "chapter_0161:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0161", "source_surface": "光元素化", "target_surface": "Quang nguyên tố hóa", "entity_type": "techniques", "segment_id": "chapter_0161:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0161", "source_surface": "精神力", "target_surface": "tinh thần lực", "entity_type": "cultivation_resources", "segment_id": "chapter_0161:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0161", "source_surface": "太阳之子", "target_surface": "Thái Dương Chi Tử", "entity_type": "cultivation_resources", "segment_id": "chapter_0161:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0161", "source_surface": "森之妖精世界", "target_surface": "thế giới Yêu Tinh của Rừng", "entity_type": "locations", "segment_id": "chapter_0161:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0162", "source_surface": "伊莎贝拉", "target_surface": "Isabella", "entity_type": "person", "segment_id": "chapter_0162:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0162", "source_surface": "森", "target_surface": "Sen", "entity_type": "person", "segment_id": "chapter_0162:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0162", "source_surface": "艾米", "target_surface": "Amy", "entity_type": "person", "segment_id": "chapter_0162:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0162", "source_surface": "死亡", "target_surface": "Death", "entity_type": "person", "segment_id": "chapter_0162:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0162", "source_surface": "格林", "target_surface": "Grimm", "entity_type": "person", "segment_id": "chapter_0162:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0162", "source_surface": "艾米丽", "target_surface": "Emily", "entity_type": "person", "segment_id": "chapter_0162:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0162", "source_surface": "巫术", "target_surface": "vu thuật", "entity_type": "techniques", "segment_id": "chapter_0162:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0162", "source_surface": "冥想", "target_surface": "minh tưởng", "entity_type": "techniques", "segment_id": "chapter_0162:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0162", "source_surface": "传送阵", "target_surface": "trận pháp truyền tống", "entity_type": "techniques", "segment_id": "chapter_0162:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0162", "source_surface": "精神力", "target_surface": "tinh thần lực", "entity_type": "cultivation_resources", "segment_id": "chapter_0162:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0162", "source_surface": "超限之水", "target_surface": "Nước Siêu Hạn", "entity_type": "cultivation_resources", "segment_id": "chapter_0162:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0162", "source_surface": "血脉术士", "target_surface": "Thuật sĩ huyết mạch", "entity_type": "cultivation_resources", "segment_id": "chapter_0162:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0162", "source_surface": "森之妖精世界", "target_surface": "thế giới Yêu Tinh của Rừng", "entity_type": "locations", "segment_id": "chapter_0162:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0162", "source_surface": "众魂之泪", "target_surface": "Chúng Hồn Chi Lệ", "entity_type": "items", "segment_id": "chapter_0162:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0162", "source_surface": "世界石", "target_surface": "thế giới thạch", "entity_type": "items", "segment_id": "chapter_0162:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0163", "source_surface": "森", "target_surface": "Sen", "entity_type": "person", "segment_id": "chapter_0163:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0163", "source_surface": "死亡", "target_surface": "Death", "entity_type": "person", "segment_id": "chapter_0163:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0163", "source_surface": "格林", "target_surface": "Grimm", "entity_type": "person", "segment_id": "chapter_0163:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0163", "source_surface": "灵魂学院", "target_surface": "học viện Linh Hồn", "entity_type": "factions", "segment_id": "chapter_0163:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0163", "source_surface": "巫术", "target_surface": "vu thuật", "entity_type": "techniques", "segment_id": "chapter_0163:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0163", "source_surface": "极限冥想法", "target_surface": "Minh Tưởng Pháp Cực Hạn", "entity_type": "techniques", "segment_id": "chapter_0163:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0163", "source_surface": "天赋巫术", "target_surface": "vu thuật thiên phú", "entity_type": "techniques", "segment_id": "chapter_0163:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0163", "source_surface": "元素屏障", "target_surface": "Nguyên tố Bình chướng", "entity_type": "techniques", "segment_id": "chapter_0163:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0163", "source_surface": "抗性体质", "target_surface": "Kháng tính Thể chất", "entity_type": "techniques", "segment_id": "chapter_0163:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0163", "source_surface": "冥想", "target_surface": "minh tưởng", "entity_type": "techniques", "segment_id": "chapter_0163:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0163", "source_surface": "灵魂学", "target_surface": "Linh Hồn Học (Thượng Cổ)", "entity_type": "techniques", "segment_id": "chapter_0163:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0163", "source_surface": "火元素化", "target_surface": "Hỏa nguyên tố hóa", "entity_type": "techniques", "segment_id": "chapter_0163:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0163", "source_surface": "光元素化", "target_surface": "Quang nguyên tố hóa", "entity_type": "techniques", "segment_id": "chapter_0163:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0163", "source_surface": "世界接轨", "target_surface": "thế giới giao thoa tiếp giáp", "entity_type": "techniques", "segment_id": "chapter_0163:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0163", "source_surface": "精神力", "target_surface": "tinh thần lực", "entity_type": "cultivation_resources", "segment_id": "chapter_0163:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0163", "source_surface": "符文", "target_surface": "phù văn", "entity_type": "cultivation_resources", "segment_id": "chapter_0163:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0163", "source_surface": "太阳之子", "target_surface": "Thái Dương Chi Tử", "entity_type": "cultivation_resources", "segment_id": "chapter_0163:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0163", "source_surface": "血脉术士", "target_surface": "Thuật sĩ huyết mạch", "entity_type": "cultivation_resources", "segment_id": "chapter_0163:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0163", "source_surface": "森之妖精世界", "target_surface": "thế giới Yêu Tinh của Rừng", "entity_type": "locations", "segment_id": "chapter_0163:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0163", "source_surface": "空间手环", "target_surface": "vòng tay không gian", "entity_type": "items", "segment_id": "chapter_0163:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0163", "source_surface": "世界石", "target_surface": "thế giới thạch", "entity_type": "items", "segment_id": "chapter_0163:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0164", "source_surface": "森", "target_surface": "Sen", "entity_type": "person", "segment_id": "chapter_0164:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0164", "source_surface": "艾米", "target_surface": "Amy", "entity_type": "person", "segment_id": "chapter_0164:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0164", "source_surface": "死亡", "target_surface": "Death", "entity_type": "person", "segment_id": "chapter_0164:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0164", "source_surface": "格林", "target_surface": "Grimm", "entity_type": "person", "segment_id": "chapter_0164:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0164", "source_surface": "艾米丽", "target_surface": "Emily", "entity_type": "person", "segment_id": "chapter_0164:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0164", "source_surface": "白巫", "target_surface": "Bạch Vu", "entity_type": "factions", "segment_id": "chapter_0164:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0164", "source_surface": "黑巫师", "target_surface": "Hắc vu sư", "entity_type": "factions", "segment_id": "chapter_0164:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0164", "source_surface": "灵魂学院", "target_surface": "học viện Linh Hồn", "entity_type": "factions", "segment_id": "chapter_0164:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0164", "source_surface": "巫术", "target_surface": "vu thuật", "entity_type": "techniques", "segment_id": "chapter_0164:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0164", "source_surface": "灵魂学", "target_surface": "Linh Hồn Học (Thượng Cổ)", "entity_type": "techniques", "segment_id": "chapter_0164:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0164", "source_surface": "精神力", "target_surface": "tinh thần lực", "entity_type": "cultivation_resources", "segment_id": "chapter_0164:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0164", "source_surface": "符文", "target_surface": "phù văn", "entity_type": "cultivation_resources", "segment_id": "chapter_0164:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0164", "source_surface": "森之妖精世界", "target_surface": "thế giới Yêu Tinh của Rừng", "entity_type": "locations", "segment_id": "chapter_0164:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0164", "source_surface": "世界石", "target_surface": "thế giới thạch", "entity_type": "items", "segment_id": "chapter_0164:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0165", "source_surface": "伊莎贝拉", "target_surface": "Isabella", "entity_type": "person", "segment_id": "chapter_0165:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0165", "source_surface": "森", "target_surface": "Sen", "entity_type": "person", "segment_id": "chapter_0165:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0165", "source_surface": "艾米", "target_surface": "Amy", "entity_type": "person", "segment_id": "chapter_0165:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0165", "source_surface": "战争", "target_surface": "War", "entity_type": "person", "segment_id": "chapter_0165:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0165", "source_surface": "死亡", "target_surface": "Death", "entity_type": "person", "segment_id": "chapter_0165:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0165", "source_surface": "格林", "target_surface": "Grimm", "entity_type": "person", "segment_id": "chapter_0165:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0165", "source_surface": "艾米丽", "target_surface": "Emily", "entity_type": "person", "segment_id": "chapter_0165:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0165", "source_surface": "传送阵", "target_surface": "trận pháp truyền tống", "entity_type": "techniques", "segment_id": "chapter_0165:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0165", "source_surface": "精神力", "target_surface": "tinh thần lực", "entity_type": "cultivation_resources", "segment_id": "chapter_0165:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0165", "source_surface": "前线", "target_surface": "Tiền tuyến", "entity_type": "locations", "segment_id": "chapter_0165:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0165", "source_surface": "森之妖精世界", "target_surface": "thế giới Yêu Tinh của Rừng", "entity_type": "locations", "segment_id": "chapter_0165:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0165", "source_surface": "众魂之泪", "target_surface": "Chúng Hồn Chi Lệ", "entity_type": "items", "segment_id": "chapter_0165:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0166", "source_surface": "森", "target_surface": "Sen", "entity_type": "person", "segment_id": "chapter_0166:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0166", "source_surface": "艾米", "target_surface": "Amy", "entity_type": "person", "segment_id": "chapter_0166:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0166", "source_surface": "战争", "target_surface": "War", "entity_type": "person", "segment_id": "chapter_0166:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0166", "source_surface": "死亡", "target_surface": "Death", "entity_type": "person", "segment_id": "chapter_0166:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0166", "source_surface": "格林", "target_surface": "Grimm", "entity_type": "person", "segment_id": "chapter_0166:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0166", "source_surface": "莉莉安", "target_surface": "Lilian", "entity_type": "person", "segment_id": "chapter_0166:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0166", "source_surface": "艾米丽", "target_surface": "Emily", "entity_type": "person", "segment_id": "chapter_0166:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0166", "source_surface": "丹尼斯", "target_surface": "Dennis", "entity_type": "person", "segment_id": "chapter_0166:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0166", "source_surface": "白屋学院", "target_surface": "Học viện Bạch Ốc", "entity_type": "factions", "segment_id": "chapter_0166:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0166", "source_surface": "巫术", "target_surface": "vu thuật", "entity_type": "techniques", "segment_id": "chapter_0166:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0166", "source_surface": "天赋巫术", "target_surface": "vu thuật thiên phú", "entity_type": "techniques", "segment_id": "chapter_0166:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0166", "source_surface": "高等冥想法", "target_surface": "minh tưởng pháp cao đẳng", "entity_type": "techniques", "segment_id": "chapter_0166:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0166", "source_surface": "冥想", "target_surface": "minh tưởng", "entity_type": "techniques", "segment_id": "chapter_0166:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0166", "source_surface": "传送阵", "target_surface": "trận pháp truyền tống", "entity_type": "techniques", "segment_id": "chapter_0166:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0166", "source_surface": "精神力", "target_surface": "tinh thần lực", "entity_type": "cultivation_resources", "segment_id": "chapter_0166:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0166", "source_surface": "超限之水", "target_surface": "Nước Siêu Hạn", "entity_type": "cultivation_resources", "segment_id": "chapter_0166:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0166", "source_surface": "主院", "target_surface": "chủ viện", "entity_type": "locations", "segment_id": "chapter_0166:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0166", "source_surface": "图书馆", "target_surface": "Thư Viện", "entity_type": "locations", "segment_id": "chapter_0166:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0166", "source_surface": "森之妖精世界", "target_surface": "thế giới Yêu Tinh của Rừng", "entity_type": "locations", "segment_id": "chapter_0166:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0166", "source_surface": "众魂之泪", "target_surface": "Chúng Hồn Chi Lệ", "entity_type": "items", "segment_id": "chapter_0166:seg_0001", "confidence": 1.0}

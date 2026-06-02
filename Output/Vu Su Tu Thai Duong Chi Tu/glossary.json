@@ -3,8 +3,8 @@
     "version": "2.0",
     "schema": "gold",
     "branch": "Vu Su Tu Thai Duong Chi Tu",
-    "last_updated": "2026-06-02T08:24:54.770043+07:00",
-    "total_entries": 1591
+    "last_updated": "2026-06-02T08:33:37.956103+07:00",
+    "total_entries": 1613
   },
   "entries": [
     {
@@ -12830,7 +12830,9 @@
         "chapter_0029",
         "chapter_0066",
         "chapter_0076",
-        "chapter_0150"
+        "chapter_0150",
+        "chapter_0151",
+        "chapter_0152"
       ]
     },
     {
@@ -13019,7 +13021,10 @@
         "chapter_0093",
         "chapter_0095",
         "chapter_0148",
-        "chapter_0149"
+        "chapter_0149",
+        "chapter_0151",
+        "chapter_0155",
+        "chapter_0156"
       ]
     },
     {
@@ -13045,7 +13050,8 @@
         "chapter_0084",
         "chapter_0093",
         "chapter_0095",
-        "chapter_0096"
+        "chapter_0096",
+        "chapter_0156"
       ]
     },
     {
@@ -13376,7 +13382,8 @@
         "chapter_0146",
         "chapter_0147",
         "chapter_0149",
-        "chapter_0150"
+        "chapter_0150",
+        "chapter_0160"
       ]
     },
     {
@@ -13428,7 +13435,9 @@
         "chapter_0140",
         "chapter_0143",
         "chapter_0148",
-        "chapter_0149"
+        "chapter_0149",
+        "chapter_0151",
+        "chapter_0159"
       ]
     },
     {
@@ -13487,7 +13496,10 @@
         "chapter_0147",
         "chapter_0148",
         "chapter_0149",
-        "chapter_0150"
+        "chapter_0150",
+        "chapter_0151",
+        "chapter_0156",
+        "chapter_0159"
       ]
     },
     {
@@ -13661,7 +13673,13 @@
         "chapter_0147",
         "chapter_0148",
         "chapter_0149",
-        "chapter_0150"
+        "chapter_0150",
+        "chapter_0152",
+        "chapter_0153",
+        "chapter_0154",
+        "chapter_0155",
+        "chapter_0156",
+        "chapter_0157"
       ]
     },
     {
@@ -13721,7 +13739,11 @@
         "chapter_0140",
         "chapter_0141",
         "chapter_0149",
-        "chapter_0150"
+        "chapter_0150",
+        "chapter_0153",
+        "chapter_0154",
+        "chapter_0155",
+        "chapter_0160"
       ]
     },
     {
@@ -13786,7 +13808,8 @@
         "chapter_0142",
         "chapter_0145",
         "chapter_0146",
-        "chapter_0147"
+        "chapter_0147",
+        "chapter_0153"
       ]
     },
     {
@@ -13819,7 +13842,8 @@
         "chapter_0141",
         "chapter_0145",
         "chapter_0147",
-        "chapter_0148"
+        "chapter_0148",
+        "chapter_0151"
       ]
     },
     {
@@ -13911,7 +13935,16 @@
         "chapter_0143",
         "chapter_0144",
         "chapter_0148",
-        "chapter_0149"
+        "chapter_0149",
+        "chapter_0151",
+        "chapter_0153",
+        "chapter_0154",
+        "chapter_0155",
+        "chapter_0156",
+        "chapter_0157",
+        "chapter_0158",
+        "chapter_0159",
+        "chapter_0160"
       ]
     },
     {
@@ -14007,7 +14040,8 @@
         "chapter_0096",
         "chapter_0100",
         "chapter_0122",
-        "chapter_0138"
+        "chapter_0138",
+        "chapter_0155"
       ]
     },
     {
@@ -14084,7 +14118,9 @@
         "chapter_0051",
         "chapter_0053",
         "chapter_0056",
-        "chapter_0057"
+        "chapter_0057",
+        "chapter_0156",
+        "chapter_0158"
       ]
     },
     {
@@ -14141,7 +14177,8 @@
         "chapter_0147",
         "chapter_0148",
         "chapter_0149",
-        "chapter_0150"
+        "chapter_0150",
+        "chapter_0158"
       ]
     },
     {
@@ -14331,7 +14368,11 @@
         "chapter_0137",
         "chapter_0142",
         "chapter_0143",
-        "chapter_0147"
+        "chapter_0147",
+        "chapter_0153",
+        "chapter_0158",
+        "chapter_0159",
+        "chapter_0160"
       ]
     },
     {
@@ -14376,7 +14417,12 @@
         "chapter_0142",
         "chapter_0143",
         "chapter_0144",
-        "chapter_0147"
+        "chapter_0147",
+        "chapter_0151",
+        "chapter_0153",
+        "chapter_0158",
+        "chapter_0159",
+        "chapter_0160"
       ]
     },
     {
@@ -14429,7 +14475,9 @@
         "chapter_0142",
         "chapter_0145",
         "chapter_0146",
-        "chapter_0147"
+        "chapter_0147",
+        "chapter_0152",
+        "chapter_0153"
       ]
     },
     {
@@ -14489,7 +14537,10 @@
         "chapter_0140",
         "chapter_0142",
         "chapter_0149",
-        "chapter_0150"
+        "chapter_0150",
+        "chapter_0151",
+        "chapter_0152",
+        "chapter_0153"
       ]
     },
     {
@@ -14556,7 +14607,12 @@
         "chapter_0137",
         "chapter_0142",
         "chapter_0143",
-        "chapter_0147"
+        "chapter_0147",
+        "chapter_0152",
+        "chapter_0153",
+        "chapter_0158",
+        "chapter_0159",
+        "chapter_0160"
       ]
     },
     {
@@ -14577,7 +14633,13 @@
       "context": "",
       "confidence": "medium",
       "notes": "Thủ hộ thú của Học viện Bạch Ốc, có kháng tính nguyên tố cực cao.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0062",
+        "chapter_0152",
+        "chapter_0153"
+      ]
     },
     {
       "source": "新生互助会",
@@ -14824,7 +14886,8 @@
         "chapter_0135",
         "chapter_0138",
         "chapter_0142",
-        "chapter_0144"
+        "chapter_0144",
+        "chapter_0153"
       ]
     },
     {
@@ -14925,7 +14988,8 @@
         "chapter_0093",
         "chapter_0095",
         "chapter_0132",
-        "chapter_0134"
+        "chapter_0134",
+        "chapter_0152"
       ]
     },
     {
@@ -14944,7 +15008,8 @@
         "chapter_0088",
         "chapter_0094",
         "chapter_0096",
-        "chapter_0100"
+        "chapter_0100",
+        "chapter_0155"
       ]
     },
     {
@@ -15158,7 +15223,12 @@
       "context": "",
       "confidence": "medium",
       "notes": "Khu chợ tập trung giao dịch của các Vu sư học đồ hoặc chính thức",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0079",
+        "chapter_0151"
+      ]
     },
     {
       "source": "能量药粉",
@@ -15229,7 +15299,8 @@
         "chapter_0106",
         "chapter_0134",
         "chapter_0143",
-        "chapter_0144"
+        "chapter_0144",
+        "chapter_0155"
       ]
     },
     {
@@ -15508,7 +15579,17 @@
         "chapter_0144",
         "chapter_0147",
         "chapter_0149",
-        "chapter_0150"
+        "chapter_0150",
+        "chapter_0151",
+        "chapter_0152",
+        "chapter_0153",
+        "chapter_0154",
+        "chapter_0155",
+        "chapter_0156",
+        "chapter_0157",
+        "chapter_0158",
+        "chapter_0159",
+        "chapter_0160"
       ]
     },
     {
@@ -15549,7 +15630,8 @@
       "status": "auto-locked",
       "reviewed_chapters": [
         "chapter_0132",
-        "chapter_0138"
+        "chapter_0138",
+        "chapter_0151"
       ]
     },
     {
@@ -15648,7 +15730,12 @@
       "context": "",
       "confidence": "1.0",
       "notes": "Sinh vật ma pháp được kết hợp từ nhiều loài khác nhau bởi kỹ thuật Vu sư",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0151",
+        "chapter_0160"
+      ]
     },
     {
       "source": "公开课",
@@ -15957,7 +16044,10 @@
         "chapter_0116",
         "chapter_0127",
         "chapter_0128",
-        "chapter_0138"
+        "chapter_0138",
+        "chapter_0158",
+        "chapter_0159",
+        "chapter_0160"
       ]
     },
     {
@@ -16107,7 +16197,8 @@
         "chapter_0113",
         "chapter_0115",
         "chapter_0127",
-        "chapter_0139"
+        "chapter_0139",
+        "chapter_0156"
       ]
     },
     {
@@ -16128,7 +16219,11 @@
         "chapter_0138",
         "chapter_0140",
         "chapter_0143",
-        "chapter_0144"
+        "chapter_0144",
+        "chapter_0151",
+        "chapter_0152",
+        "chapter_0157",
+        "chapter_0159"
       ]
     },
     {
@@ -16379,7 +16474,8 @@
         "chapter_0124",
         "chapter_0126",
         "chapter_0143",
-        "chapter_0148"
+        "chapter_0148",
+        "chapter_0152"
       ]
     },
     {
@@ -16502,7 +16598,9 @@
         "chapter_0136",
         "chapter_0139",
         "chapter_0144",
-        "chapter_0147"
+        "chapter_0147",
+        "chapter_0153",
+        "chapter_0157"
       ]
     },
     {
@@ -16601,7 +16699,12 @@
         "chapter_0142",
         "chapter_0143",
         "chapter_0144",
-        "chapter_0148"
+        "chapter_0148",
+        "chapter_0152",
+        "chapter_0154",
+        "chapter_0155",
+        "chapter_0156",
+        "chapter_0159"
       ]
     },
     {
@@ -16619,7 +16722,10 @@
         "chapter_0131",
         "chapter_0132",
         "chapter_0135",
-        "chapter_0136"
+        "chapter_0136",
+        "chapter_0152",
+        "chapter_0155",
+        "chapter_0156"
       ]
     },
     {
@@ -16653,7 +16759,8 @@
         "chapter_0126",
         "chapter_0138",
         "chapter_0140",
-        "chapter_0148"
+        "chapter_0148",
+        "chapter_0152"
       ]
     },
     {
@@ -16715,7 +16822,8 @@
       "status": "auto-locked",
       "reviewed_chapters": [
         "chapter_0128",
-        "chapter_0129"
+        "chapter_0129",
+        "chapter_0154"
       ]
     },
     {
@@ -16802,7 +16910,8 @@
         "chapter_0131",
         "chapter_0132",
         "chapter_0135",
-        "chapter_0144"
+        "chapter_0144",
+        "chapter_0153"
       ]
     },
     {
@@ -16877,7 +16986,8 @@
       "status": "auto-locked",
       "reviewed_chapters": [
         "chapter_0134",
-        "chapter_0135"
+        "chapter_0135",
+        "chapter_0159"
       ]
     },
     {
@@ -17008,7 +17118,9 @@
         "chapter_0142",
         "chapter_0145",
         "chapter_0146",
-        "chapter_0148"
+        "chapter_0148",
+        "chapter_0153",
+        "chapter_0160"
       ]
     },
     {
@@ -17119,7 +17231,8 @@
       "reviewed_chapters": [
         "chapter_0144",
         "chapter_0145",
-        "chapter_0147"
+        "chapter_0147",
+        "chapter_0156"
       ]
     },
     {
@@ -17136,7 +17249,11 @@
         "chapter_0144",
         "chapter_0145",
         "chapter_0147",
-        "chapter_0148"
+        "chapter_0148",
+        "chapter_0156",
+        "chapter_0157",
+        "chapter_0158",
+        "chapter_0160"
       ]
     },
     {
@@ -17197,7 +17314,13 @@
       "context": "",
       "confidence": "medium",
       "notes": "Sức ép ngăn cản hoặc suy giảm sức mạnh của các sinh vật ngoại lai khi tiến vào thế giới khác.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0151",
+        "chapter_0158",
+        "chapter_0159"
+      ]
     },
     {
       "source": "流浪巫师",
@@ -17267,7 +17390,12 @@
       "context": "",
       "confidence": "medium",
       "notes": "Trận pháp tầm xa do Tổng viện trưởng xây dựng để vận chuyển nhân lực và vật tư ra tiền tuyến Rừng Yêu Tinh.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0149",
+        "chapter_0154"
+      ]
     },
     {
       "source": "药剂大师",
@@ -17407,6 +17535,252 @@
       "context": "",
       "confidence": "medium",
       "notes": "Tiếng hú gây ảo ảnh hoang mang cho tinh thần đối phương.",
+      "locked": false
+    },
+    {
+      "source": "森之妖精世界",
+      "source_language": "zh",
+      "target": "thế giới Yêu Tinh của Rừng",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tên thế giới mới được các tổ chức Vu sư đặt tên, nơi 80% diện tích bao phủ bởi rừng rậm và các yêu tinh tự nhiên.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0158",
+        "chapter_0159"
+      ]
+    },
+    {
+      "source": "熔岩之神",
+      "source_language": "zh",
+      "target": "Thần Dung Nham",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Vị thần tự phong thống trị vương quốc Dung Nham, thực chất là Rock Giant có thực lực tiệm cận Vu sư cấp ba.",
+      "locked": false
+    },
+    {
+      "source": "熔岩妖精",
+      "source_language": "zh",
+      "target": "Dung Nham Yêu Tinh",
+      "category": "monster",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Loài yêu tinh thuộc hệ hỏa và thổ sinh sống tại vương quốc Dung Nham.",
+      "locked": false
+    },
+    {
+      "source": "熔岩王国",
+      "source_language": "zh",
+      "target": "Vương quốc Dung Nham",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một trong ba quốc gia lớn thống trị thế giới Yêu Tinh của Rừng.",
+      "locked": false
+    },
+    {
+      "source": "金属之神",
+      "source_language": "zh",
+      "target": "Thần Kim Loại",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thần tự phong thống trị vương quốc Kim Loại.",
+      "locked": false
+    },
+    {
+      "source": "金属妖精",
+      "source_language": "zh",
+      "target": "Kim Loại Yêu Tinh",
+      "category": "monster",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Chủng tộc yêu tinh kim loại ở vương quốc Kim Loại.",
+      "locked": false
+    },
+    {
+      "source": "金属王国",
+      "source_language": "zh",
+      "target": "Vương quốc Kim Loại",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một trong ba quốc gia lớn thống trị thế giới Yêu Tinh của Rừng.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0158",
+        "chapter_0160"
+      ]
+    },
+    {
+      "source": "自然之神",
+      "source_language": "zh",
+      "target": "Thần Tự Nhiên",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thần tự phong thống trị vương quốc Rừng Rậm.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0159",
+        "chapter_0160"
+      ]
+    },
+    {
+      "source": "森林妖精",
+      "source_language": "zh",
+      "target": "Yêu Tinh Rừng Rậm",
+      "category": "monster",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Chủng tộc yêu tinh rừng rậm ở vương quốc Rừng Rậm.",
+      "locked": false
+    },
+    {
+      "source": "森林王国",
+      "source_language": "zh",
+      "target": "Vương quốc Rừng Rậm",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một trong ba quốc gia lớn thống trị thế giới Yêu Tinh của Rừng.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0158",
+        "chapter_0159",
+        "chapter_0160"
+      ]
+    },
+    {
+      "source": "自然能量衰落菌",
+      "source_language": "zh",
+      "target": "Vi khuẩn suy thoái năng lượng tự nhiên",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Vũ khí sinh học phá hoại môi trường do Vu sư cấp bốn thời thượng cổ phát triển.",
+      "locked": false
+    },
+    {
+      "source": "白斑瘟疫",
+      "source_language": "zh",
+      "target": "Ôn dịch Đốm Trắng",
+      "category": "disease",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Bệnh dịch hạch sinh học do vi khuẩn suy thoái năng lượng tự nhiên gây ra đối với thế giới sinh mệnh tự nhiên.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0158",
+        "chapter_0159"
+      ]
+    },
+    {
+      "source": "维克罗斯",
+      "source_language": "zh",
+      "target": "Vikros",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một người khổng lồ đá đỏ sinh sống tại thế giới Yêu Tinh của Rừng.",
+      "locked": false
+    },
+    {
+      "source": "塔罗姆",
+      "source_language": "zh",
+      "target": "Tarom",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một thụ nhân sinh sống tại thế giới Yêu Tinh của Rừng.",
+      "locked": false
+    },
+    {
+      "source": "战线",
+      "source_language": "zh",
+      "target": "chiến tuyến",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Ranh giới bố phòng hoặc tấn công của quân đội.",
+      "locked": false
+    },
+    {
+      "source": "号角",
+      "source_language": "zh",
+      "target": "còi hiệu chiến tranh",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Nhạc cụ dùng để phát tín hiệu trong chiến đấu.",
+      "locked": false
+    },
+    {
+      "source": "自然之母/Tự Nhiên Chi Mẫu",
+      "source_language": "zh",
+      "target": "Tự Nhiên Chi Mẫu",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Ý chí bản nguyên của thế giới Yêu Tinh của Rừng được các thổ dân sùng bái.",
+      "locked": false
+    },
+    {
+      "source": "艾佐罗亚",
+      "source_language": "zh",
+      "target": "Ezoroya",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Chú ngữ vu thuật hỗ trợ bay lượn của Vu sư.",
+      "locked": false
+    },
+    {
+      "source": "光之审判/Phán Xét Của Ánh Sáng",
+      "source_language": "zh",
+      "target": "Phán Xét Của Ánh Sáng",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một chiến tranh vu thuật cấp bốn cực mạnh của Bạch vu sư, có uy lực tàn phá trên diện rộng.",
+      "locked": false
+    },
+    {
+      "source": "烈日真身/Liệt Nhật Chân Thân",
+      "source_language": "zh",
+      "target": "Liệt Nhật Chân Thân",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thiên phú cấp hai của Grimm khi huyết mạch Thái Dương Chi Tử chiếm chủ đạo, cho phép nguyên tố hóa hoàn toàn, tăng kháng tính.",
+      "locked": false
+    },
+    {
+      "source": "高热领域/Cao Nhiệt Lĩnh Vực",
+      "source_language": "zh",
+      "target": "Cao Nhiệt Lĩnh Vực",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thiên phú cấp hai dạng phạm vi của Grimm, liên tục nâng cao nhiệt độ xung quanh và vĩnh viễn thay đổi địa hình.",
+      "locked": false
+    },
+    {
+      "source": "操纵太阳/Thao Túng Mặt Trời",
+      "source_language": "zh",
+      "target": "Thao Túng Mặt Trời",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thiên phú cấp hai cực hạn của Grimm, cho phép chi phối chủ quyền mặt trời dị giới để đạt thực lực cấp bốn.",
       "locked": false
     }
   ]
