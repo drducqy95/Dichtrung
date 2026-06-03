@@ -1,5 +1,5 @@
 {
-  "completed_chapters": 337,
+  "completed_chapters": 338,
   "total_chapters": 915,
   "chapters": [
     {
@@ -2026,9 +2026,9 @@
     },
     {
       "chapter_number": 338,
-      "title": "第338章 知识汲取，准备强化自己",
-      "status": "PENDING",
-      "last_updated": null
+      "title": "Chương 338: Hấp thu tri thức, chuẩn bị cường hóa bản thân",
+      "status": "DONE",
+      "last_updated": "2026-06-04T06:00:54.578825+07:00"
     },
     {
       "chapter_number": 339,
@@ -5493,7 +5493,7 @@
       "last_updated": null
     }
   ],
-  "last_updated": "2026-06-04T05:59:48+07:00",
+  "last_updated": "2026-06-04T06:00:55+07:00",
   "workflow_artifacts": {
     "branch_readme": "README.md",
     "converter_db_ready": true,
