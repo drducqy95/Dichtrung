@@ -283,6 +283,21 @@
       "name_target": "Ác Mộng Chi Ảnh",
       "type": "faction",
       "description": "Tên gọi sau khi thoái hóa của tộc Mê Mộng Chi Ảnh do phương thức sinh tồn chuyển sang can nhiễu gây ác mộng để đồng hóa."
+    },
+    {
+      "name_source": "真理追寻联盟",
+      "name_target": "Liên Minh Truy Tìm Chân Lý",
+      "description": "Thế thế thống trị miền Trung của các vu sư nguyên tố truyền thống."
+    },
+    {
+      "name_source": "异类道路追寻者",
+      "name_target": "Kẻ Mưu Cầu Con Đường Dị Loại",
+      "description": "Thế thế thống trị miền Trung gồm các thuật sĩ, vu sư luyện thể, cơ giới cải tạo..."
+    },
+    {
+      "name_source": "世界开发议会",
+      "name_target": "Hội Đồng Phát Triển Thế Giới",
+      "description": "Nền tảng liên minh rộng lớn gồm các thế lực miền Trung để phục vụ chiến tranh đối ngoại và khai phá dị thế giới."
     }
   ],
   "weapons": [],
@@ -1575,6 +1590,11 @@
       "name_target": "thị trấn đổ nát",
       "type": "location",
       "description": "Một tàn tích thế giới nhỏ trong Khu Vực Sương Mù Xám, nơi Grimm đụng độ bóng trắng quỷ dị."
+    },
+    {
+      "name_source": "卡波洛斯城",
+      "name_target": "thành Cabolos",
+      "description": "Thành phố biên giới đóng vai trò đón tiếp các vu sư ngoại lai tiến vào miền Trung."
     }
   ],
   "world_map": {

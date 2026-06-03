@@ -3,8 +3,8 @@
     "version": "2.0",
     "schema": "gold",
     "branch": "Vu Su Tu Thai Duong Chi Tu",
-    "last_updated": "2026-06-04T04:59:32.933053+07:00",
-    "total_entries": 1709
+    "last_updated": "2026-06-04T05:17:39.589610+07:00",
+    "total_entries": 1713
   },
   "entries": [
     {
@@ -20527,6 +20527,46 @@
       "context": "",
       "confidence": "medium",
       "notes": "tên lãnh địa cổ xưa",
+      "locked": false
+    },
+    {
+      "source": "真理追寻联盟",
+      "source_language": "zh",
+      "target": "Liên Minh Truy Tìm Chân Lý",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một trong ba thế lực cấp thống trị ở miền Trung, theo đuổi con đường vu sư cổ đại truyền thống.",
+      "locked": false
+    },
+    {
+      "source": "异类道路追寻者",
+      "source_language": "zh",
+      "target": "Kẻ Mưu Cầu Con Đường Dị Loại",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một trong ba thế lực cấp thống trị ở miền Trung, chuyên hấp thụ sức mạnh từ dị giới.",
+      "locked": false
+    },
+    {
+      "source": "世界开发议会",
+      "source_language": "zh",
+      "target": "Hội Đồng Phát Triển Thế Giới",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một thế lực lớn ở miền Trung, tập hợp nhiều thế lực để khai phá dị giới bên ngoài.",
+      "locked": false
+    },
+    {
+      "source": "卡波洛斯城",
+      "source_language": "zh",
+      "target": "thành Cabolos",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thành phố biên cảnh đón tiếp các vu sư từ nơi khác tới miền Trung.",
       "locked": false
     }
   ]

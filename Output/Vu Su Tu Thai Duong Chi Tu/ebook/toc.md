@@ -328,3 +328,4 @@
 - Chương 0326: Chương 326: Phi thuyền tiến vào Khu Vực Sương Mù Xám
 - Chương 0327: Chương 327: Tự cường hóa bản thân
 - Chương 0328: Chương 328: Tới rìa miền Trung
+- Chương 0329: Chương 329: Khái quát về miền Trung

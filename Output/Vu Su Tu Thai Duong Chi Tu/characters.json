@@ -3,8 +3,8 @@
     "version": "2.0",
     "schema": "gold",
     "branch": "Vu Su Tu Thai Duong Chi Tu",
-    "last_updated": "2026-06-04T05:07:10.294637+07:00",
-    "total_characters": 422
+    "last_updated": "2026-06-04T05:17:39.607818+07:00",
+    "total_characters": 423
   },
   "characters": [
     {
@@ -7723,6 +7723,44 @@
       "status": "active",
       "appearance": {
         "physical": "Thiên tài của tộc Ác Mộng, người được giao nhiệm vụ sử dụng Thánh Linh Khắc Ấn để ám toán Grimm nhưng thất bại và bị Grimm lục soát linh hồn.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "弗罗斯特·克拉格",
+      "name_target": "Frost Crag",
+      "name_aliases": [],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "dragon",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Hậu duệ thuần huyết cự long bị thoái hóa huyết mạch sống ở hoang nguyên rìa miền Trung, cung cấp thông tin miền Trung cho Grimm.",
         "style": "",
         "distinctive": ""
       },
