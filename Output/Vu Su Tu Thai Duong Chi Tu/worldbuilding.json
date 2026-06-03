@@ -239,6 +239,32 @@
       "name_source": "超越之路结社",
       "name_target": "kết xã Siêu Việt Chi Lộ",
       "description": "Tổ chức ngầm khổng lồ kiểm soát đế quốc Ai Yi, chủ trương giải quyết xung đột linh hồn bằng cách cường hóa các mặt bên linh hồn."
+    },
+    {
+      "name_source": "猎人公会",
+      "name_target": "Hội thợ săn",
+      "description": "Hiệp hội bán độc lập của các thợ săn linh hồn tại thành Mars."
+    },
+    {
+      "name_source": "城卫军",
+      "name_target": "Thành vệ quân",
+      "description": "Lực lượng quân đội chính quy đồn trú bảo vệ thành Mars."
+    },
+    {
+      "name_source": "火爆猎人小队",
+      "name_target": "tiểu đội thợ săn Hỏa Bạo",
+      "description": "Nhóm thợ săn linh hồn mạnh mẽ gồm các thợ săn cấp ba có sự bổ trợ năng lực cao."
+    },
+    {
+      "name_source": "风狼骑士团",
+      "name_target": "kỵ binh đoàn Phong Lang",
+      "description": "Đoàn kỵ binh tinh nhuệ cưỡi tọa lang khổng lồ của Thân vương Justin tại thành Mars."
+    },
+    {
+      "name_source": "暗炎学派",
+      "name_target": "học phái Ám Viêm",
+      "type": "faction",
+      "description": "Một học phái Hắc bào Vu sư ở Bờ biển phía Đông có ý đồ quấy phá sự đột phá của Ginia nhưng phải từ bỏ do sự có mặt của Grimm."
     }
   ],
   "weapons": [],
@@ -823,6 +849,53 @@
       "name_target": "Dung Hợp Pháp",
       "type": "technique",
       "description": "Bí pháp độc quyền của kết xã Hào Quang Chi Lộ nhằm tìm kiếm sự cộng hưởng linh hồn cốt lõi và tích hợp các thuộc tính linh hồn không bị xung đột."
+    },
+    {
+      "name_source": "空间转移巫阵",
+      "name_target": "trận pháp truyền tống dịch chuyển không gian",
+      "description": "Trận pháp vu thuật do Grimm chuẩn bị tại biệt thự để dịch chuyển tức thời ra xa vạn dặm khi gặp nguy hiểm."
+    },
+    {
+      "name_source": "压制力场",
+      "name_target": "lực trường áp chế",
+      "description": "Lực trường khổng lồ hình thành ở phía trước tường thành phòng thủ khi truyền linh hồn lực vào, giúp áp chế mọi sinh mệnh ngoại lai xâm nhập."
+    },
+    {
+      "name_source": "狼人化",
+      "name_target": "Hóa Sói",
+      "description": "Thiên phú biến hình đặc thù giúp cường hóa thể chất sau khi dung hợp linh hồn Ma Sói."
+    },
+    {
+      "name_source": "感染之牙",
+      "name_target": "Răng Nhiễm Độc",
+      "description": "Năng lực gây nhiễm trùng độc tố qua vết cắn thu được từ linh hồn Ma Sói."
+    },
+    {
+      "name_source": "傀儡操纵",
+      "name_target": "thao túng con rối",
+      "description": "Khả năng thao túng và điều khiển con rối bằng linh hồn lực."
+    },
+    {
+      "name_source": "血肉灵魂瓦解巫术",
+      "name_target": "vu thuật phá hủy linh hồn huyết nhục",
+      "description": "Vu thuật nguyền rủa kết hợp phân tích gen tế bào và linh hồn của quái vật nghìn tai nhằm tiến hành diệt chủng loài này tận gốc rễ."
+    },
+    {
+      "name_source": "灵魂之手",
+      "name_target": "Linh Hồn Chi Thủ",
+      "type": "technique",
+      "description": "Kỹ năng hiện hóa hồn lực tinh diệu của Grimm tạo thành hai bàn tay khổng lồ bán trong suốt để nghiền nát hoặc giam giữ mục tiêu."
+    },
+    {
+      "name_source": "极冰真身",
+      "name_target": "Cực Băng chân thân",
+      "description": "Chân thân khổng lồ hệ băng cao đến bảy vạn mét của học phái Băng Khiết sau khi tiến cấp bốn."
+    },
+    {
+      "name_source": "永恒寒意",
+      "name_target": "Vĩnh Hằng Hàn Ý",
+      "type": "technique",
+      "description": "Vu thuật tổ hợp thiên phú bốn tầng tối chung của Ginia, có khả năng đóng băng động lực của mọi vật chất xung quanh, uy lực tương đương đòn tấn công của vu sư cấp năm."
     }
   ],
   "cultivation_systems": [],
@@ -1021,6 +1094,11 @@
       "name_target": "Hài cốt Độc Giác Thiên Không Long",
       "type": "cultivation_resource",
       "description": "Bộ xương cốt của sinh vật cấp sáu Độc Giác Thiên Không Long còn lưu lại dao động yếu ớt, chứa đựng nguồn sức mạnh cõi u minh giúp kích hoạt huyết mạch Chúng Tinh Chi Tử."
+    },
+    {
+      "name_source": "灵魂之力",
+      "name_target": "hồn lực",
+      "description": "Nguồn năng lượng linh hồn tích lũy sau khi hấp thụ các linh hồn sinh vật khác."
     }
   ],
   "power_ranking": {
@@ -1379,6 +1457,22 @@
       "name_source": "银月",
       "name_target": "Ngân Nguyệt",
       "description": "Một trong hai vầng trăng của thế giới Song Nguyệt."
+    },
+    {
+      "name_source": "塔克草原",
+      "name_target": "thảo nguyên Tarke",
+      "description": "Vùng thảo nguyên tiếp giáp giữa Rừng Sương Mù and thế giới Thợ Săn Linh Hồn."
+    },
+    {
+      "name_source": "伊坦斯尔行省",
+      "name_target": "tỉnh Itansil",
+      "description": "Một hành tỉnh lớn của đế quốc Thợ Săn Linh Hồn nằm bên cạnh thảo nguyên Tarke."
+    },
+    {
+      "name_source": "边缘大陆",
+      "name_target": "đại lục biên duyên",
+      "type": "location",
+      "description": "Mảnh đại lục hoang vu rộng tương đương Trái Đất nằm ở rìa thế giới Song Nguyệt, được các vu sư chọn làm nơi diễn ra trận chiến giữa các vu sư cấp bốn."
     }
   ],
   "world_map": {
@@ -1862,6 +1956,26 @@
       "name_target": "《Triệu Hồi Sức Mạnh Dị Giới》",
       "type": "item",
       "description": "Sách cổ chép kỹ thuật triệu hồi sức mạnh dị giới thu được từ Linh Hồn Học Phái."
+    },
+    {
+      "name_source": "灵魂灭绝装置",
+      "name_target": "thiết bị diệt chủng linh hồn",
+      "description": "Vũ khí năng lượng cỡ lớn có sức mạnh hủy diệt hàng loạt do thế giới Thợ Săn Linh Hồn chế tạo, tích lũy năng lượng bằng linh hồn thu thập được từ quái vật."
+    },
+    {
+      "name_source": "灵魂能量炮",
+      "name_target": "pháo năng lượng linh hồn",
+      "description": "Vũ khí công thành cỡ lớn vận dụng năng lượng linh hồn để pháo kích tầm xa cực mạnh."
+    },
+    {
+      "name_source": "战争傀儡",
+      "name_target": "con rối chiến tranh",
+      "description": "Binh khí cơ giới hoặc sinh học dạng con rối phục vụ tác chiến quân sự quy mô lớn."
+    },
+    {
+      "name_source": "音波炮",
+      "name_target": "pháo sóng âm",
+      "description": "Vũ khí âm thanh được phóng ra từ tai của quái vật nghìn tai khổng lồ, có khả năng hấp thụ và nén âm thanh xung quanh thành luồng sóng âm cực mạnh oanh kích đối phương."
     }
   ]
 }

@@ -290,3 +290,27 @@
 - Chương 0288: Chương 288: Vạn hồn bước thứ nhất
 - Chương 0289: Chương 289: Thuộc tính tăng lên
 - Chương 0290: Chương 290: Tập kích?
+- Chương 0291: Chương 291: Trước trận chiến
+- Chương 0292: Chương 292: Thức tỉnh? Tăng tốc
+- Chương 0293: Chương 293: Đối đầu
+- Chương 0294: Chương 294: Cứu thế chủ?
+- Chương 0295: Chương 295: Lời nguyền diệt chủng chủng tộc
+- Chương 0296: Chương 296: Can nhiễu, va chạm
+- Chương 0297: Chương 297: Chiến trường
+- Chương 0298: Chương 298: Chân tướng
+- Chương 0299: Chương 299: Chiến trường biến hóa
+- Chương 0300: Chương 300: Mức độ kịch liệt gia tăng
+- Chương 0301: Chương 301: Pháo sóng âm
+- Chương 0302: Chương 302: Chính thức tiến vào chiến trường
+- Chương 0303: Chương 303: Chấn kinh chiến trường
+- Chương 0304: Chương 304: Phân thân chuẩn bị đột phá cấp bốn
+- Chương 0305: Chương 305: Chế tạo phi thuyền khổng lồ
+- Chương 0306: Chương 306: Song cấp bốn
+- Chương 0307: Chương 307: Rời đi, một tia hy vọng
+- Chương 0308: Chương 308: Trở về
+- Chương 0309: Chương 309: Dung hợp, hiện trạng
+- Chương 0310: Chương 310: Đến sông băng
+- Chương 0311: Chương 311: Quan sát
+- Chương 0312: Chương 312: Gợi ý - Kết thúc tấn thăng
+- Chương 0313: Chương 313: Sự tình sau đó
+- Chương 0314: Chương 314: Đối chiến - Sự áp đảo cuối cùng

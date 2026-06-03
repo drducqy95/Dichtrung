@@ -3,8 +3,8 @@
     "version": "2.0",
     "schema": "gold",
     "branch": "Vu Su Tu Thai Duong Chi Tu",
-    "last_updated": "2026-06-03T15:50:42.780215+07:00",
-    "total_entries": 1684
+    "last_updated": "2026-06-03T18:01:47.532328+07:00",
+    "total_entries": 1698
   },
   "entries": [
     {
@@ -12864,7 +12864,8 @@
         "chapter_0083",
         "chapter_0095",
         "chapter_0172",
-        "chapter_0289"
+        "chapter_0289",
+        "chapter_0305"
       ]
     },
     {
@@ -13825,7 +13826,19 @@
         "chapter_0284",
         "chapter_0287",
         "chapter_0288",
-        "chapter_0289"
+        "chapter_0289",
+        "chapter_0291",
+        "chapter_0292",
+        "chapter_0294",
+        "chapter_0295",
+        "chapter_0298",
+        "chapter_0299",
+        "chapter_0300",
+        "chapter_0301",
+        "chapter_0306",
+        "chapter_0308",
+        "chapter_0309",
+        "chapter_0310"
       ]
     },
     {
@@ -13934,7 +13947,10 @@
         "chapter_0269",
         "chapter_0284",
         "chapter_0288",
-        "chapter_0290"
+        "chapter_0290",
+        "chapter_0306",
+        "chapter_0307",
+        "chapter_0309"
       ]
     },
     {
@@ -14219,7 +14235,15 @@
         "chapter_0284",
         "chapter_0288",
         "chapter_0289",
-        "chapter_0290"
+        "chapter_0290",
+        "chapter_0292",
+        "chapter_0295",
+        "chapter_0298",
+        "chapter_0304",
+        "chapter_0306",
+        "chapter_0308",
+        "chapter_0309",
+        "chapter_0310"
       ]
     },
     {
@@ -14318,7 +14342,11 @@
         "chapter_0138",
         "chapter_0155",
         "chapter_0214",
-        "chapter_0290"
+        "chapter_0290",
+        "chapter_0291",
+        "chapter_0292",
+        "chapter_0299",
+        "chapter_0304"
       ]
     },
     {
@@ -14540,7 +14568,9 @@
         "chapter_0266",
         "chapter_0269",
         "chapter_0275",
-        "chapter_0280"
+        "chapter_0280",
+        "chapter_0305",
+        "chapter_0310"
       ]
     },
     {
@@ -14670,7 +14700,8 @@
         "chapter_0235",
         "chapter_0240",
         "chapter_0241",
-        "chapter_0265"
+        "chapter_0265",
+        "chapter_0305"
       ]
     },
     {
@@ -14780,7 +14811,8 @@
         "chapter_0260",
         "chapter_0261",
         "chapter_0263",
-        "chapter_0269"
+        "chapter_0269",
+        "chapter_0305"
       ]
     },
     {
@@ -14851,7 +14883,8 @@
         "chapter_0260",
         "chapter_0268",
         "chapter_0280",
-        "chapter_0289"
+        "chapter_0289",
+        "chapter_0310"
       ]
     },
     {
@@ -15004,7 +15037,10 @@
         "chapter_0281",
         "chapter_0282",
         "chapter_0288",
-        "chapter_0290"
+        "chapter_0290",
+        "chapter_0303",
+        "chapter_0305",
+        "chapter_0307"
       ]
     },
     {
@@ -15174,7 +15210,8 @@
         "chapter_0260",
         "chapter_0268",
         "chapter_0280",
-        "chapter_0289"
+        "chapter_0289",
+        "chapter_0310"
       ]
     },
     {
@@ -15501,7 +15538,8 @@
         "chapter_0223",
         "chapter_0226",
         "chapter_0239",
-        "chapter_0287"
+        "chapter_0287",
+        "chapter_0305"
       ]
     },
     {
@@ -15687,7 +15725,12 @@
       "context": "",
       "confidence": "medium",
       "notes": "Một loại vu thuật nguyền rủa tạo ra các sinh vật gặm nhấm máu thịt từ bên trong cơ thể",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0072",
+        "chapter_0295"
+      ]
     },
     {
       "source": "自燃诅咒",
@@ -15916,7 +15959,8 @@
         "chapter_0235",
         "chapter_0240",
         "chapter_0262",
-        "chapter_0263"
+        "chapter_0263",
+        "chapter_0309"
       ]
     },
     {
@@ -15956,7 +16000,8 @@
         "chapter_0263",
         "chapter_0270",
         "chapter_0271",
-        "chapter_0280"
+        "chapter_0280",
+        "chapter_0305"
       ]
     },
     {
@@ -16056,7 +16101,9 @@
         "chapter_0192",
         "chapter_0265",
         "chapter_0277",
-        "chapter_0290"
+        "chapter_0290",
+        "chapter_0292",
+        "chapter_0303"
       ]
     },
     {
@@ -16356,7 +16403,26 @@
         "chapter_0287",
         "chapter_0288",
         "chapter_0289",
-        "chapter_0290"
+        "chapter_0290",
+        "chapter_0291",
+        "chapter_0292",
+        "chapter_0293",
+        "chapter_0294",
+        "chapter_0295",
+        "chapter_0296",
+        "chapter_0297",
+        "chapter_0298",
+        "chapter_0299",
+        "chapter_0300",
+        "chapter_0301",
+        "chapter_0302",
+        "chapter_0304",
+        "chapter_0305",
+        "chapter_0306",
+        "chapter_0307",
+        "chapter_0308",
+        "chapter_0309",
+        "chapter_0310"
       ]
     },
     {
@@ -16371,7 +16437,8 @@
       "status": "auto-locked",
       "reviewed_chapters": [
         "chapter_0265",
-        "chapter_0281"
+        "chapter_0281",
+        "chapter_0306"
       ]
     },
     {
@@ -16483,7 +16550,9 @@
         "chapter_0242",
         "chapter_0244",
         "chapter_0263",
-        "chapter_0266"
+        "chapter_0266",
+        "chapter_0305",
+        "chapter_0308"
       ]
     },
     {
@@ -16597,7 +16666,12 @@
       "context": "",
       "confidence": "1.0",
       "notes": "Dược tể ma pháp dùng phục hồi vết thương sinh học cơ bản",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0290",
+        "chapter_0304"
+      ]
     },
     {
       "source": "基因序列",
@@ -16930,7 +17004,8 @@
       "status": "auto-locked",
       "reviewed_chapters": [
         "chapter_0226",
-        "chapter_0290"
+        "chapter_0290",
+        "chapter_0308"
       ]
     },
     {
@@ -16980,7 +17055,9 @@
         "chapter_0204",
         "chapter_0226",
         "chapter_0233",
-        "chapter_0280"
+        "chapter_0280",
+        "chapter_0294",
+        "chapter_0299"
       ]
     },
     {
@@ -17063,7 +17140,9 @@
         "chapter_0275",
         "chapter_0276",
         "chapter_0277",
-        "chapter_0278"
+        "chapter_0278",
+        "chapter_0292",
+        "chapter_0310"
       ]
     },
     {
@@ -17331,7 +17410,8 @@
         "chapter_0270",
         "chapter_0271",
         "chapter_0273",
-        "chapter_0280"
+        "chapter_0280",
+        "chapter_0305"
       ]
     },
     {
@@ -17486,7 +17566,10 @@
         "chapter_0284",
         "chapter_0287",
         "chapter_0288",
-        "chapter_0290"
+        "chapter_0290",
+        "chapter_0292",
+        "chapter_0294",
+        "chapter_0305"
       ]
     },
     {
@@ -17623,7 +17706,10 @@
         "chapter_0268",
         "chapter_0269",
         "chapter_0284",
-        "chapter_0285"
+        "chapter_0285",
+        "chapter_0305",
+        "chapter_0308",
+        "chapter_0309"
       ]
     },
     {
@@ -17766,7 +17852,9 @@
         "chapter_0262",
         "chapter_0263",
         "chapter_0264",
-        "chapter_0265"
+        "chapter_0265",
+        "chapter_0305",
+        "chapter_0309"
       ]
     },
     {
@@ -18370,7 +18458,8 @@
         "chapter_0163",
         "chapter_0181",
         "chapter_0191",
-        "chapter_0231"
+        "chapter_0231",
+        "chapter_0297"
       ]
     },
     {
@@ -18427,7 +18516,9 @@
         "chapter_0260",
         "chapter_0264",
         "chapter_0267",
-        "chapter_0268"
+        "chapter_0268",
+        "chapter_0308",
+        "chapter_0309"
       ]
     },
     {
@@ -18505,7 +18596,8 @@
         "chapter_0238",
         "chapter_0262",
         "chapter_0263",
-        "chapter_0282"
+        "chapter_0282",
+        "chapter_0308"
       ]
     },
     {
@@ -18623,7 +18715,11 @@
         "chapter_0227",
         "chapter_0260",
         "chapter_0264",
-        "chapter_0268"
+        "chapter_0268",
+        "chapter_0292",
+        "chapter_0294",
+        "chapter_0300",
+        "chapter_0305"
       ]
     },
     {
@@ -18743,7 +18839,8 @@
         "chapter_0177",
         "chapter_0184",
         "chapter_0219",
-        "chapter_0221"
+        "chapter_0221",
+        "chapter_0310"
       ]
     },
     {
@@ -18849,7 +18946,9 @@
         "chapter_0264",
         "chapter_0265",
         "chapter_0267",
-        "chapter_0286"
+        "chapter_0286",
+        "chapter_0308",
+        "chapter_0309"
       ]
     },
     {
@@ -19016,7 +19115,17 @@
       "context": "",
       "confidence": "medium",
       "notes": "Ranh giới bố phòng hoặc tấn công của quân đội.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0231",
+        "chapter_0294",
+        "chapter_0297",
+        "chapter_0299",
+        "chapter_0300",
+        "chapter_0302",
+        "chapter_0304"
+      ]
     },
     {
       "source": "号角",
@@ -19333,7 +19442,8 @@
         "chapter_0203",
         "chapter_0220",
         "chapter_0249",
-        "chapter_0263"
+        "chapter_0263",
+        "chapter_0309"
       ]
     },
     {
@@ -19670,7 +19780,8 @@
         "chapter_0246",
         "chapter_0261",
         "chapter_0262",
-        "chapter_0265"
+        "chapter_0265",
+        "chapter_0305"
       ]
     },
     {
@@ -19778,7 +19889,10 @@
         "chapter_0242",
         "chapter_0251",
         "chapter_0265",
-        "chapter_0280"
+        "chapter_0280",
+        "chapter_0308",
+        "chapter_0309",
+        "chapter_0310"
       ]
     },
     {
@@ -19930,7 +20044,9 @@
         "chapter_0212",
         "chapter_0217",
         "chapter_0221",
-        "chapter_0280"
+        "chapter_0280",
+        "chapter_0305",
+        "chapter_0310"
       ]
     },
     {
@@ -19990,7 +20106,8 @@
       "status": "auto-locked",
       "reviewed_chapters": [
         "chapter_0287",
-        "chapter_0290"
+        "chapter_0290",
+        "chapter_0295"
       ]
     },
     {
@@ -20007,7 +20124,23 @@
         "chapter_0287",
         "chapter_0288",
         "chapter_0289",
-        "chapter_0290"
+        "chapter_0290",
+        "chapter_0291",
+        "chapter_0292",
+        "chapter_0293",
+        "chapter_0294",
+        "chapter_0295",
+        "chapter_0296",
+        "chapter_0297",
+        "chapter_0298",
+        "chapter_0299",
+        "chapter_0300",
+        "chapter_0301",
+        "chapter_0302",
+        "chapter_0303",
+        "chapter_0304",
+        "chapter_0305",
+        "chapter_0306"
       ]
     },
     {
@@ -20028,7 +20161,12 @@
       "context": "",
       "confidence": "medium",
       "notes": "Quái vật ở thế giới Thợ Săn Linh Hồn, thực chất chính là loài quái vật nghìn tai (千耳怪) bị tác giả ghi nhầm tên.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0289",
+        "chapter_0296"
+      ]
     },
     {
       "source": "融合法",
@@ -20038,8 +20176,151 @@
       "status": "auto-locked",
       "reviewed_chapters": [
         "chapter_0281",
-        "chapter_0283"
+        "chapter_0283",
+        "chapter_0291",
+        "chapter_0301"
       ]
+    },
+    {
+      "source": "猎人公会",
+      "source_language": "zh",
+      "target": "Hội thợ săn",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Hiệp hội hoặc hội nhóm của các thợ săn linh hồn tại các thành phố.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0293",
+        "chapter_0294"
+      ]
+    },
+    {
+      "source": "城卫军",
+      "source_language": "zh",
+      "target": "Thành vệ quân",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Lực lượng quân đội phòng thủ và bảo an của thành phố.",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0293",
+        "chapter_0296",
+        "chapter_0299"
+      ]
+    },
+    {
+      "source": "火爆猎人小队",
+      "source_language": "zh",
+      "target": "tiểu đội thợ săn Hỏa Bạo",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tiểu đội thợ săn cấp ba có danh tiếng cao tại thành Mars.",
+      "locked": false
+    },
+    {
+      "source": "灵魂支配者",
+      "source_language": "zh",
+      "target": "Chúa Tể Linh Hồn",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Cấp bậc thợ săn cấp năm mạnh nhất trong thế giới Thợ Săn Linh Hồn.",
+      "locked": false
+    },
+    {
+      "source": "音波炮",
+      "source_language": "zh",
+      "target": "pháo sóng âm",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Vũ khí âm thanh được phóng ra từ tai của quái vật nghìn tai khổng lồ, có khả năng hấp thụ và nén âm thanh xung quanh thành luồng sóng âm cực mạnh oanh kích đối phương.",
+      "locked": false
+    },
+    {
+      "source": "暗炎学派",
+      "source_language": "zh",
+      "target": "học phái Ám Viêm",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "学派长",
+      "source_language": "zh",
+      "target": "trưởng học phái",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "极冰真身",
+      "source_language": "zh",
+      "target": "Cực Băng chân thân",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "边缘大陆",
+      "source_language": "zh",
+      "target": "đại lục biên duyên",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "极冰造物",
+      "source_language": "zh",
+      "target": "Cực Băng Tạo Vật",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "极冰末日",
+      "source_language": "zh",
+      "target": "Cực Băng Mạt Nhật",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "死寂温度",
+      "source_language": "zh",
+      "target": "Tử Tịch Nhiệt Độ",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "永恒寒意",
+      "source_language": "zh",
+      "target": "Vĩnh Hằng Hàn Ý",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
     }
   ]
 }
