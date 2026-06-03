@@ -3,8 +3,8 @@
     "version": "2.0",
     "schema": "gold",
     "branch": "Vu Su Tu Thai Duong Chi Tu",
-    "last_updated": "2026-06-04T05:54:52.585202+07:00",
-    "total_entries": 1728
+    "last_updated": "2026-06-04T05:55:58.142223+07:00",
+    "total_entries": 1736
   },
   "entries": [
     {
@@ -20807,6 +20807,86 @@
       "context": "",
       "confidence": "medium",
       "notes": "Một danh hiệu/chức vị vu sư cấp cao trong Liên Minh Truy Tìm Chân Lý.",
+      "locked": false
+    },
+    {
+      "source": "机械之心",
+      "source_language": "zh",
+      "target": "Cơ Giới Chi Tâm",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một tổ chức/học phái lớn ở miền Trung chuyên về cơ khí cải tạo, do Motros sáng lập.",
+      "locked": false
+    },
+    {
+      "source": "七大学院",
+      "source_language": "zh",
+      "target": "Thất Đại Học Viện",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Bảy học viện lớn nhất, lâu đời nhất của Liên Minh Truy Tìm Chân Lý.",
+      "locked": false
+    },
+    {
+      "source": "诺克斯维尔学院",
+      "source_language": "zh",
+      "target": "Học viện Knoxville",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một trong Thất Đại Học Viện, chủ công thần bí học và hắc ám học.",
+      "locked": false
+    },
+    {
+      "source": "塞勒斯特尼尔学院",
+      "source_language": "zh",
+      "target": "Học viện Celestneil",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một trong Thất Đại Học Viện, chủ công thiên thể học và tự nhiên học, do Thorn làm Viện trưởng.",
+      "locked": false
+    },
+    {
+      "source": "巫术源头学院",
+      "source_language": "zh",
+      "target": "Học viện Nguồn Gốc Vu Thuật",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một trong Thất Đại Học Viện, chủ công nghiên cứu phát triển vu thuật cao đẳng.",
+      "locked": false
+    },
+    {
+      "source": "永恒药剂学院",
+      "source_language": "zh",
+      "target": "Học viện Dược Tể Vĩnh Hằng",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một trong Thất Đại Học Viện, chủ công Dược tể học.",
+      "locked": false
+    },
+    {
+      "source": "平衡至理",
+      "source_language": "zh",
+      "target": "Chân Lý Cân Bằng",
+      "category": "title",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Biệt hiệu của Thorn, vu sư cấp sáu.",
+      "locked": false
+    },
+    {
+      "source": "原始机械",
+      "source_language": "zh",
+      "target": "Cơ Giới Nguyên Thủy",
+      "category": "title",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Biệt hiệu của Motros, vu sư cấp sáu.",
       "locked": false
     }
   ]

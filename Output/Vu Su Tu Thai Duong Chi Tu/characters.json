@@ -3,8 +3,8 @@
     "version": "2.0",
     "schema": "gold",
     "branch": "Vu Su Tu Thai Duong Chi Tu",
-    "last_updated": "2026-06-04T05:54:52.604803+07:00",
-    "total_characters": 427
+    "last_updated": "2026-06-04T05:55:58.161397+07:00",
+    "total_characters": 428
   },
   "characters": [
     {
@@ -7913,6 +7913,44 @@
       "status": "active",
       "appearance": {
         "physical": "Vu sư Thiên Xứng thuộc Liên Minh Truy Tìm Chân Lý, được cử đi chiêu mộ Grimm.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "摩特洛斯",
+      "name_target": "Motros",
+      "name_aliases": [],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "wizard",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Người sáng lập tổ chức Cơ Giới Chi Tâm, vu sư cấp sáu được gọi là 'Cơ Giới Nguyên Thủy', nổi tiếng với cơ thể cải tạo kim loại hoàn toàn.",
         "style": "",
         "distinctive": ""
       },
