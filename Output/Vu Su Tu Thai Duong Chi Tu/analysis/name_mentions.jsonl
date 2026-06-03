@@ -1584,3 +1584,6 @@
 {"chapter_id": "chapter_0325", "name_source": "死亡", "name_target": "Death", "segment_id": "chapter_0325:seg_0001", "present_in_target": false, "confidence": 1.0}
 {"chapter_id": "chapter_0325", "name_source": "瘟疫", "name_target": "Plague", "segment_id": "chapter_0325:seg_0001", "present_in_target": false, "confidence": 1.0}
 {"chapter_id": "chapter_0325", "name_source": "格林", "name_target": "Grimm", "segment_id": "chapter_0325:seg_0001", "present_in_target": true, "confidence": 1.0}
+{"chapter_id": "chapter_0326", "name_source": "森", "name_target": "Sen", "segment_id": "chapter_0326:seg_0001", "present_in_target": false, "confidence": 1.0}
+{"chapter_id": "chapter_0326", "name_source": "战争", "name_target": "War", "segment_id": "chapter_0326:seg_0001", "present_in_target": false, "confidence": 1.0}
+{"chapter_id": "chapter_0326", "name_source": "格林", "name_target": "Grimm", "segment_id": "chapter_0326:seg_0001", "present_in_target": true, "confidence": 1.0}

@@ -956,6 +956,12 @@
       "name_target": "Quy tắc nguyền rủa",
       "type": "technique",
       "description": "Một mô hình quy tắc được Grimm thu hoạch từ thế giới tàn tích giúp tăng cường lực lượng cho các vu thuật nguyền rủa."
+    },
+    {
+      "name_source": "灵魂裂解规则",
+      "name_target": "Linh Hồn Liệt Giải",
+      "type": "technique",
+      "description": "Một loại quy tắc đặc biệt sinh ra từ quy tắc Linh hồn và Cân bằng, có khả năng phân tách và phá hủy trực tiếp cấu trúc linh hồn mục tiêu."
     }
   ],
   "cultivation_systems": [],
@@ -2090,6 +2096,12 @@
       "name_target": "Thánh Linh Khắc Ấn",
       "type": "item",
       "description": "Mật bảo của tộc Ác Mộng lấy từ Khu Vực Sương Mù Xám dùng để trọng thương linh hồn vu sư cấp bốn."
+    },
+    {
+      "name_source": "无尽手镯",
+      "name_target": "Vòng Tay Vô Tận",
+      "type": "item",
+      "description": "Mật bảo không gian dạng chiếc vòng tay bạc của tộc Ác Mộng, bên trong chứa một không gian siêu to khổng lồ sánh ngang với một tiểu thế giới."
     }
   ]
 }
