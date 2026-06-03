@@ -3,8 +3,8 @@
     "version": "2.0",
     "schema": "gold",
     "branch": "Vu Su Tu Thai Duong Chi Tu",
-    "last_updated": "2026-06-04T05:59:48.244719+07:00",
-    "total_entries": 1740
+    "last_updated": "2026-06-04T06:01:57.723988+07:00",
+    "total_entries": 1741
   },
   "entries": [
     {
@@ -20927,6 +20927,16 @@
       "context": "",
       "confidence": "medium",
       "notes": "Tồn tại vĩ đại trong hư không đại diện cho quy tắc và chứng giám các khế ước.",
+      "locked": false
+    },
+    {
+      "source": "恶意章鱼",
+      "source_language": "zh",
+      "target": "Bạch Tuộc Ác Ý",
+      "category": "entity",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Quái vật đặc hóa tâm linh có khả năng cảm nhận ác ý cực mạnh, thường dùng canh giữ cổng thành.",
       "locked": false
     }
   ]
