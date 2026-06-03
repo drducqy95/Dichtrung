@@ -1597,3 +1597,7 @@
 {"chapter_id": "chapter_0329", "name_source": "弗罗斯特", "name_target": "Frost", "segment_id": "chapter_0329:seg_0001", "present_in_target": true, "confidence": 1.0}
 {"chapter_id": "chapter_0330", "name_source": "格林", "name_target": "Grimm", "segment_id": "chapter_0330:seg_0001", "present_in_target": true, "confidence": 1.0}
 {"chapter_id": "chapter_0330", "name_source": "克拉格", "name_target": "Crag", "segment_id": "chapter_0330:seg_0001", "present_in_target": true, "confidence": 1.0}
+{"chapter_id": "chapter_0331", "name_source": "森", "name_target": "Sen", "segment_id": "chapter_0331:seg_0001", "present_in_target": false, "confidence": 1.0}
+{"chapter_id": "chapter_0331", "name_source": "格林", "name_target": "Grimm", "segment_id": "chapter_0331:seg_0001", "present_in_target": true, "confidence": 1.0}
+{"chapter_id": "chapter_0331", "name_source": "查理·兰度", "name_target": "Charlie Lando", "segment_id": "chapter_0331:seg_0001", "present_in_target": true, "confidence": 1.0}
+{"chapter_id": "chapter_0331", "name_source": "查理", "name_target": "Charlie", "segment_id": "chapter_0331:seg_0001", "present_in_target": true, "confidence": 1.0}

@@ -3,8 +3,8 @@
     "version": "2.0",
     "schema": "gold",
     "branch": "Vu Su Tu Thai Duong Chi Tu",
-    "last_updated": "2026-06-04T05:17:39.589610+07:00",
-    "total_entries": 1713
+    "last_updated": "2026-06-04T05:20:21.827962+07:00",
+    "total_entries": 1715
   },
   "entries": [
     {
@@ -20657,6 +20657,26 @@
       "context": "",
       "confidence": "medium",
       "notes": "Thành phố biên cảnh đón tiếp các vu sư từ nơi khác tới miền Trung.",
+      "locked": false
+    },
+    {
+      "source": "气球飞艇",
+      "source_language": "zh",
+      "target": "phi thuyền khí cầu",
+      "category": "transport",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Loại phi thuyền bay bằng khí cầu phổ biến ở miền Trung.",
+      "locked": false
+    },
+    {
+      "source": "火灵石",
+      "source_language": "zh",
+      "target": "Hỏa Linh Thạch",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tinh thạch lấy từ dị thế giới, giúp vu sư tăng độ thân hòa với lửa.",
       "locked": false
     }
   ]

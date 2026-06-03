@@ -3,8 +3,8 @@
     "version": "2.0",
     "schema": "gold",
     "branch": "Vu Su Tu Thai Duong Chi Tu",
-    "last_updated": "2026-06-04T05:17:39.607818+07:00",
-    "total_characters": 423
+    "last_updated": "2026-06-04T05:20:21.860155+07:00",
+    "total_characters": 424
   },
   "characters": [
     {
@@ -7761,6 +7761,44 @@
       "status": "active",
       "appearance": {
         "physical": "Hậu duệ thuần huyết cự long bị thoái hóa huyết mạch sống ở hoang nguyên rìa miền Trung, cung cấp thông tin miền Trung cho Grimm.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "查理·兰度",
+      "name_target": "Charlie Lando",
+      "name_aliases": [],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "wizard",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Một vu sư trung niên ở thành Cabolos, bị áp chế bởi lão vu sư hắc bào.",
         "style": "",
         "distinctive": ""
       },

@@ -330,3 +330,4 @@
 - Chương 0328: Chương 328: Tới rìa miền Trung
 - Chương 0329: Chương 329: Khái quát về miền Trung
 - Chương 0330: Chương 330: Thành Cabolos
+- Chương 0331: Chương 331: Sóng gió tiên tri (1)
