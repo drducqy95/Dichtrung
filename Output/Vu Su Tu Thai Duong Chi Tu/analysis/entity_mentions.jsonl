@@ -3846,3 +3846,14 @@
 {"chapter_id": "chapter_0341", "source_surface": "前线", "target_surface": "Tiền tuyến", "entity_type": "locations", "segment_id": "chapter_0341:seg_0001", "confidence": 1.0}
 {"chapter_id": "chapter_0341", "source_surface": "灰雾区", "target_surface": "Khu Vực Sương Mù Xám", "entity_type": "locations", "segment_id": "chapter_0341:seg_0001", "confidence": 1.0}
 {"chapter_id": "chapter_0341", "source_surface": "绝望之力", "target_surface": "sức mạnh tuyệt vọng", "entity_type": "items", "segment_id": "chapter_0341:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0342", "source_surface": "战争", "target_surface": "War", "entity_type": "person", "segment_id": "chapter_0342:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0342", "source_surface": "格林", "target_surface": "Grimm", "entity_type": "person", "segment_id": "chapter_0342:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0342", "source_surface": "索恩", "target_surface": "Thorn", "entity_type": "person", "segment_id": "chapter_0342:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0342", "source_surface": "噩梦一族", "target_surface": "tộc Ác Mộng", "entity_type": "factions", "segment_id": "chapter_0342:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0342", "source_surface": "世界开发议会", "target_surface": "Hội Đồng Phát Triển Thế Giới", "entity_type": "factions", "segment_id": "chapter_0342:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0342", "source_surface": "传送阵", "target_surface": "trận pháp truyền tống", "entity_type": "techniques", "segment_id": "chapter_0342:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0342", "source_surface": "精神力", "target_surface": "tinh thần lực", "entity_type": "cultivation_resources", "segment_id": "chapter_0342:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0342", "source_surface": "符文", "target_surface": "phù văn", "entity_type": "cultivation_resources", "segment_id": "chapter_0342:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0342", "source_surface": "灵魂之力", "target_surface": "hồn lực", "entity_type": "cultivation_resources", "segment_id": "chapter_0342:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0342", "source_surface": "灰雾区", "target_surface": "Khu Vực Sương Mù Xám", "entity_type": "locations", "segment_id": "chapter_0342:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0342", "source_surface": "世界石", "target_surface": "thế giới thạch", "entity_type": "items", "segment_id": "chapter_0342:seg_0001", "confidence": 1.0}

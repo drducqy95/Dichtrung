@@ -341,3 +341,4 @@
 - Chương 0339: Chương 339: Hoàn thành thủ tục
 - Chương 0340: Chương 340: Đăng ký suất tham gia
 - Chương 0341: Chương 341: Tới chiến trường
+- Chương 0342: Chương 342: Sức mạnh chân thân một lần nữa bành trướng
