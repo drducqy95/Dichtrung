@@ -2,8 +2,8 @@
   "metadata": {
     "branch": "Vu Su Tu Thai Duong Chi Tu",
     "book_title": "Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới",
-    "generated_at": "2026-06-03T02:44:11+07:00",
-    "total_characters": 408,
+    "generated_at": "2026-06-03T15:50:43+07:00",
+    "total_characters": 411,
     "style_tags": [
       "tây phương",
       "fantasy"
@@ -464,6 +464,18 @@
       "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/beige_scene.png",
       "portrait_prompt": "Portrait of Beige, a figure character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Character context: Vu sư đột phá bằng Nước Siêu Hạn, cười to cuồng nhiệt khi biết tin thế giới phục hồi để viễn chinh.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
       "scene_prompt": "Full-body scene illustration of Beige (figure) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Description: Vu sư đột phá bằng Nước Siêu Hạn, cười to cuồng nhiệt khi biết tin thế giới phục hồi để viễn chinh.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    },
+    {
+      "name_translated": "Bohr",
+      "name_original": "波尔",
+      "role": "secondary",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/bohr_portrait.png",
+      "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/bohr_scene.png",
+      "portrait_prompt": "Portrait of Bohr, a figure character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Visual traits: divine radiant aura. Character context: Thần linh/Thực thể mà Grimm hóa thân hoặc dùng để thu nhận đức tin từ Krosso cùng các tín đồ.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of Bohr (figure) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Visual: divine radiant aura. Description: Thần linh/Thực thể mà Grimm hóa thân hoặc dùng để thu nhận đức tin từ Krosso cùng các tín đồ.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
       "asset_status": "prompt_ready"
     },
     {
@@ -1811,6 +1823,18 @@
       "asset_status": "prompt_ready"
     },
     {
+      "name_translated": "Krosso",
+      "name_original": "克罗索",
+      "role": "secondary",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/krosso_portrait.png",
+      "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/krosso_scene.png",
+      "portrait_prompt": "Portrait of Krosso, a figure character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Character context: Thợ săn được Grimm chiêu mộ làm trợ thủ, phụ trách quản lý tiệm thuốc và thu mua xác quái vật.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of Krosso (figure) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Description: Thợ săn được Grimm chiêu mộ làm trợ thủ, phụ trách quản lý tiệm thuốc và thu mua xác quái vật.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    },
+    {
       "name_translated": "",
       "name_original": "Kuchiki Rukia",
       "role": "khác",
@@ -2924,6 +2948,18 @@
       "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/nhuy_n_c_ng_scene.png",
       "portrait_prompt": "Portrait of Nhuyễn Cương, a man character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Visual traits: demonic corrupted appearance, dark aura. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
       "scene_prompt": "Full-body scene illustration of Nhuyễn Cương (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Visual: demonic corrupted appearance, dark aura. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    },
+    {
+      "name_translated": "Nidoc",
+      "name_original": "尼多克",
+      "role": "secondary",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/nidoc_portrait.png",
+      "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/nidoc_scene.png",
+      "portrait_prompt": "Portrait of Nidoc, a figure character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Character context: Vị chủ sông xám khổng lồ quái dị mang hình dáng voi mục nát mọc xúc tu bạch tuộc ở thế giới chưa biết.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of Nidoc (figure) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: supporting character, distinct silhouette. Description: Vị chủ sông xám khổng lồ quái dị mang hình dáng voi mục nát mọc xúc tu bạch tuộc ở thế giới chưa biết.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
       "asset_status": "prompt_ready"
     },
     {

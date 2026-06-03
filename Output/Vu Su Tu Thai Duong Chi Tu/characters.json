@@ -3,8 +3,8 @@
     "version": "2.0",
     "schema": "gold",
     "branch": "Vu Su Tu Thai Duong Chi Tu",
-    "last_updated": "2026-06-03T00:46:21.717643+07:00",
-    "total_characters": 408
+    "last_updated": "2026-06-03T15:49:45.767978+07:00",
+    "total_characters": 411
   },
   "characters": [
     {
@@ -7191,6 +7191,120 @@
       "status": "active",
       "appearance": {
         "physical": "",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "GCHAR_0364",
+      "name_source": "尼多克",
+      "name_target": "Nidoc",
+      "name_aliases": [],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Vị chủ sông xám khổng lồ quái dị mang hình dáng voi mục nát mọc xúc tu bạch tuộc ở thế giới chưa biết.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "GCHAR_0365",
+      "name_source": "克罗索",
+      "name_target": "Krosso",
+      "name_aliases": [],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Thợ săn được Grimm chiêu mộ làm trợ thủ, phụ trách quản lý tiệm thuốc và thu mua xác quái vật.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "GCHAR_0366",
+      "name_source": "波尔",
+      "name_target": "Bohr",
+      "name_aliases": [],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Thần linh/Thực thể mà Grimm hóa thân hoặc dùng để thu nhận đức tin từ Krosso cùng các tín đồ.",
         "style": "",
         "distinctive": ""
       },

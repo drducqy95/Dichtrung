@@ -219,6 +219,26 @@
       "name_target": "Bạch Điểu Nhai",
       "type": "faction",
       "description": "Gia tộc huyết mạch truyền thừa từ thời Cận Cổ sở hữu dòng huyết mạch Celestiaris (Thánh Điểu của Bầu Trời), do suy kiệt nên hiện tại chỉ còn giữ được huyết mạch Bạch Vũ Điểu cấp hai."
+    },
+    {
+      "name_source": "双月帝国",
+      "name_target": "đế quốc Song Nguyệt",
+      "description": "Đế quốc tại thế giới Song Nguyệt, nơi chịu thiệt hại nặng nề nhất sau đợt oanh kích đầu tiên."
+    },
+    {
+      "name_source": "异世界开发联盟",
+      "name_target": "Liên minh Phát triển Dị giới",
+      "description": "Liên minh các thế lực vu sư Bờ biển phía Đông hợp tác khai phá các dị thế giới."
+    },
+    {
+      "name_source": "辉光之路结社",
+      "name_target": "kết xã Hào Quang Chi Lộ",
+      "description": "Tổ chức ngầm khổng lồ kiểm soát đế quốc Aeta, sở hữu 7 bộ phận chuyên môn, chủ trương giải quyết xung đột linh hồn bằng Dung Hợp Pháp."
+    },
+    {
+      "name_source": "超越之路结社",
+      "name_target": "kết xã Siêu Việt Chi Lộ",
+      "description": "Tổ chức ngầm khổng lồ kiểm soát đế quốc Ai Yi, chủ trương giải quyết xung đột linh hồn bằng cách cường hóa các mặt bên linh hồn."
     }
   ],
   "weapons": [],
@@ -797,6 +817,12 @@
       "name_target": "Triệu hồi sức mạnh dị giới",
       "type": "technique",
       "description": "Vu thuật phái sinh từ con đường thần chỉ, cho phép mượn dùng sức mạnh qua khế ước liên kết bỏ qua giới hạn thời không."
+    },
+    {
+      "name_source": "融合法",
+      "name_target": "Dung Hợp Pháp",
+      "type": "technique",
+      "description": "Bí pháp độc quyền của kết xã Hào Quang Chi Lộ nhằm tìm kiếm sự cộng hưởng linh hồn cốt lõi và tích hợp các thuộc tính linh hồn không bị xung đột."
     }
   ],
   "cultivation_systems": [],
@@ -1331,6 +1357,28 @@
       "name_target": "Vương quốc Radia",
       "type": "location",
       "description": "Vương quốc phàm nhân nằm gần Học viện Cực Hạn nhất, có vương cung bị Học viện Cực Hạn trưng dụng làm nơi đàm phán."
+    },
+    {
+      "name_source": "夏洛克斯城",
+      "name_target": "thành Sharoks",
+      "type": "location",
+      "description": "Thành phố sầm uất với hàng triệu dân cư thuộc Vương quốc Witt dưới sự quản lý của Học viện Bạch Ốc."
+    },
+    {
+      "name_source": "威特王国",
+      "name_target": "Vương quốc Witt",
+      "type": "location",
+      "description": "Vương quốc giáp ranh ngoại vi Rừng Cây Nhợt Nhạt dưới quyền cai quản của Học viện Bạch Ốc."
+    },
+    {
+      "name_source": "红月",
+      "name_target": "Hồng Nguyệt",
+      "description": "Một trong hai vầng trăng của thế giới Song Nguyệt, nơi Thần Hồng Nguyệt bay về dưỡng thương."
+    },
+    {
+      "name_source": "银月",
+      "name_target": "Ngân Nguyệt",
+      "description": "Một trong hai vầng trăng của thế giới Song Nguyệt."
     }
   ],
   "world_map": {

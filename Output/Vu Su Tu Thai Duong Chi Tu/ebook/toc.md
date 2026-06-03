@@ -225,3 +225,66 @@
 - Chương 0223: Chương 223: Mỏ neo chế tạo hoàn thành
 - Chương 0224: Chương 224: Thành công
 - Chương 0225: Chương 225: Tuyệt vọng bộc phát
+- Chương 0226: Chương 226: Thảm họa người phàm
+- Chương 0227: Chương 227: Đập chó dưới nước
+- Chương 0228: Chương 228: Con đường mới xuất hiện
+- Chương 0229: Chương 229: Thức tỉnh sau lần ngủ say thứ hai
+- Chương 0230: Chương 230: Cải tiến
+- Chương 0231: Chương 231: Thế giới Song Nguyệt
+- Chương 0232: Chương 232: Thông đạo mở ra
+- Chương 0233: Chương 233: Oanh kích cách không
+- Chương 0234: Chương 234: Trọng thương
+- Chương 0235: Chương 235: Ra tay
+- Chương 0236: Chương 236: Kết thúc đợt giao phong đầu tiên
+- Chương 0237: Chương 237: Thông đạo sụp đổ, bàn thảo phương án tác chiến
+- Chương 0238: Chương 238: Tiếp tục tiến hành
+- Chương 0239: Chương 239: Kế hoạch, lần thứ hai
+- Chương 0240: Chương 240: Thông đạo mở ra
+- Chương 0241: Chương 241: Chiến tranh bắt đầu
+- Chương 0242: Chương 242: Chiến tranh
+- Chương 0243: Chương 243: Ép ra bài tẩy, Bạch vu sư vào trận
+- Chương 0244: Chương 244: Phản kích
+- Chương 0245: Chương 245: Phá thành, Hắc vu sư xuất hiện
+- Chương 0246: Chương 246: Tiến vào thế giới Song Nguyệt
+- Chương 0247: Chương 247: Hồng Nguyệt bại vong
+- Chương 0248: Chương 248: Kết thúc, thăm dò
+- Chương 0249: Chương 249: Phát hiện
+- Chương 0250: Chương 250: Nguyên nhân
+- Chương 0251: Chương 251: Phong ấn, thám hiểm
+- Chương 0252: Chương 252: Giải phẫu
+- Chương 0253: Chương 253: Thế giới mới
+- Chương 0254: Chương 254: Linh hồn đồng vị thể
+- Chương 0255: Chương 255: Con đường linh hồn
+- Chương 0256: Chương 256: Chuẩn bị trở về
+- Chương 0257: Chương 257: Sâu bọ
+- Chương 0258: Chương 258: Đột phát
+- Chương 0259: Chương 259: Cơ thể và linh hồn
+- Chương 0260: Chương 260: Dung hợp linh và thịt
+- Chương 0261: Chương 261: Cấp bậc thăng tiến (một)
+- Chương 0262: Chương 262: Thăng cấp, thế giới
+- Chương 0263: Chương 263: Thuộc tính
+- Chương 0264: Chương 264: Tin tức truyền ra
+- Chương 0265: Chương 265: Điển lễ
+- Chương 0266: Chương 266: Nghiên cứu thần cách, thế giới Thợ săn Linh Hồn
+- Chương 0267: Chương 267: Làm sạch thần cách
+- Chương 0268: Chương 268: Đưa phân thân qua đó
+- Chương 0269: Chương 269: Lại vào thế giới Sương Mù
+- Chương 0270: Chương 270: Cứu người
+- Chương 0271: Chương 271: Tình hình
+- Chương 0272: Chương 272: Thành trì
+- Chương 0273: Chương 273: Linh hồn kết tinh
+- Chương 0274: Chương 274: Thư Viện suy lý
+- Chương 0275: Chương 275: Sự dụ hoặc
+- Chương 0276: Chương 276: Bắt đầu chế tác
+- Chương 0277: Chương 277: Lời mời
+- Chương 0278: Chương 278: Thế giới mồi nhử
+- Chương 0279: Chương 279: Đón tiếp kiểm tra
+- Chương 0280: Chương 280: Thuê mướn
+- Chương 0281: Chương 281: Chuẩn bị kiểm trắc
+- Chương 0282: Chương 282: Lừa gạt thế giới
+- Chương 0283: Chương 283: Sách tới
+- Chương 0284: Chương 284: Lại trúng chiêu
+- Chương 0285: Chương 285: Ngọn lửa bùng cháy
+- Chương 0286: Chương 286: Huyết duệ
+- Chương 0287: Chương 287: Sắp xếp, bắt đầu
+- Chương 0288: Chương 288: Vạn hồn bước thứ nhất
