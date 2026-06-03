@@ -265,6 +265,24 @@
       "name_target": "học phái Ám Viêm",
       "type": "faction",
       "description": "Một học phái Hắc bào Vu sư ở Bờ biển phía Đông có ý đồ quấy phá sự đột phá của Ginia nhưng phải từ bỏ do sự có mặt của Grimm."
+    },
+    {
+      "name_source": "噩梦一族",
+      "name_target": "tộc Ác Mộng",
+      "type": "faction",
+      "description": "Tộc quần sinh vật dị thường sống ký sinh đồng hóa linh hồn, có nguồn gốc từ tộc Mê Mộng Chi Ảnh thượng cổ."
+    },
+    {
+      "name_source": "迷梦之影",
+      "name_target": "Mê Mộng Chi Ảnh",
+      "type": "faction",
+      "description": "Chủng tộc thượng cổ sống trong Khu Vực Sương Mù Xám, sau này thoái hóa và rời đi."
+    },
+    {
+      "name_source": "噩梦之影",
+      "name_target": "Ác Mộng Chi Ảnh",
+      "type": "faction",
+      "description": "Tên gọi sau khi thoái hóa của tộc Mê Mộng Chi Ảnh do phương thức sinh tồn chuyển sang can nhiễu gây ác mộng để đồng hóa."
     }
   ],
   "weapons": [],
@@ -920,6 +938,12 @@
       "name_target": "Linh Hồn Thám Tra Thuật",
       "type": "technique",
       "description": "Một loại vu thuật dò xét thượng cổ của học viện Linh Hồn dùng để truy quét gián điệp dị thế giới bằng cách phát hiện các dị thường trong linh hồn mà không chạm tới ký ức."
+    },
+    {
+      "name_source": "灵魂本源追踪",
+      "name_target": "Linh Hồn Bản Nguyên Truy Tung",
+      "type": "technique",
+      "description": "Một loại hắc vu thuật của vu sư dùng để triệu hồi muỗi năng lượng xanh lam hút linh hồn mục tiêu để truy vết định vị nguồn gốc linh hồn bản nguyên."
     }
   ],
   "cultivation_systems": [],
@@ -2048,6 +2072,12 @@
       "name_target": "dược tể tịnh hóa Thánh Quang",
       "type": "item",
       "description": "Dược tể thượng cổ được Grimm phục dựng, có tác dụng phục hồi linh hồn bị ăn mòn bởi năng lượng tiêu cực."
+    },
+    {
+      "name_source": "圣灵刻印",
+      "name_target": "Thánh Linh Khắc Ấn",
+      "type": "item",
+      "description": "Mật bảo của tộc Ác Mộng lấy từ Khu Vực Sương Mù Xám dùng để trọng thương linh hồn vu sư cấp bốn."
     }
   ]
 }

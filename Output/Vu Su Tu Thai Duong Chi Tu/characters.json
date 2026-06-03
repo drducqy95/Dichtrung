@@ -3,8 +3,8 @@
     "version": "2.0",
     "schema": "gold",
     "branch": "Vu Su Tu Thai Duong Chi Tu",
-    "last_updated": "2026-06-04T05:03:45.281064+07:00",
-    "total_characters": 421
+    "last_updated": "2026-06-04T05:07:10.294637+07:00",
+    "total_characters": 422
   },
   "characters": [
     {
@@ -7685,6 +7685,44 @@
       "status": "active",
       "appearance": {
         "physical": "Một vị Hắc vu sư đi cùng phi thuyền, hành sự nhanh nhẹn phản ứng mau lẹ trói buộc Karl khi bị rơi.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "修斯特拉",
+      "name_target": "Schustra",
+      "name_aliases": [],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "wizard",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Thiên tài của tộc Ác Mộng, người được giao nhiệm vụ sử dụng Thánh Linh Khắc Ấn để ám toán Grimm nhưng thất bại và bị Grimm lục soát linh hồn.",
         "style": "",
         "distinctive": ""
       },

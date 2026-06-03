@@ -2,8 +2,8 @@
   "metadata": {
     "branch": "Vu Su Tu Thai Duong Chi Tu",
     "book_title": "Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới",
-    "generated_at": "2026-06-04T05:05:28+07:00",
-    "total_characters": 421,
+    "generated_at": "2026-06-04T05:07:42+07:00",
+    "total_characters": 422,
     "style_tags": [
       "tây phương",
       "fantasy"
@@ -3452,6 +3452,18 @@
       "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/ryan_scene.png",
       "portrait_prompt": "Portrait of Ryan, a man character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Character context: Công tước cai quản thành Wither bên cạnh Rừng Bóng Đêm.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
       "scene_prompt": "Full-body scene illustration of Ryan (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Description: Công tước cai quản thành Wither bên cạnh Rừng Bóng Đêm.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+      "asset_status": "prompt_ready"
+    },
+    {
+      "name_translated": "Schustra",
+      "name_original": "修斯特拉",
+      "role": "wizard",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/schustra_portrait.png",
+      "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/schustra_scene.png",
+      "portrait_prompt": "Portrait of Schustra, a figure character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Visual traits: spectral soul form, translucent ghost-like. Character context: Thiên tài của tộc Ác Mộng, người được giao nhiệm vụ sử dụng Thánh Linh Khắc Ấn để ám toán Grimm nhưng thất bại và bị Grimm lục soát linh hồn.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+      "scene_prompt": "Full-body scene illustration of Schustra (figure) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Visual: spectral soul form, translucent ghost-like. Description: Thiên tài của tộc Ác Mộng, người được giao nhiệm vụ sử dụng Thánh Linh Khắc Ấn để ám toán Grimm nhưng thất bại và bị Grimm lục soát linh hồn.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
       "asset_status": "prompt_ready"
     },
     {
