@@ -997,6 +997,36 @@
       "name_target": "Linh Hồn Liệt Giải",
       "type": "technique",
       "description": "Một loại quy tắc đặc biệt sinh ra từ quy tắc Linh hồn và Cân bằng, có khả năng phân tách và phá hủy trực tiếp cấu trúc linh hồn mục tiêu."
+    },
+    {
+      "name_source": "常规巫术",
+      "name_target": "vu thuật thông thường",
+      "description": "Cấp bậc vu thuật phổ thông cho vu sư dưới cấp bốn."
+    },
+    {
+      "name_source": "大威力组合巫术",
+      "name_target": "tổ hợp vu thuật uy lực lớn",
+      "description": "Sự kết hợp các vu thuật tạo ra sát thương lớn."
+    },
+    {
+      "name_source": "共鸣巫术",
+      "name_target": "vu thuật cộng hưởng",
+      "description": "Vu thuật hoàn toàn phù hợp với bản thân thông qua tu tập minh tưởng pháp cao đẳng."
+    },
+    {
+      "name_source": "规则附加巫术",
+      "name_target": "vu thuật phụ gia quy tắc",
+      "description": "Vu thuật có phụ gia một phần sức mạnh quy tắc chưa hoàn chỉnh."
+    },
+    {
+      "name_source": "全规则巫术",
+      "name_target": "vu thuật toàn quy tắc",
+      "description": "Vu thuật được gia trì bởi mô hình quy tắc hoàn chỉnh."
+    },
+    {
+      "name_source": "仪式巫术",
+      "name_target": "vu thuật nghi thức",
+      "description": "Kỹ thuật phối hợp giúp tăng nhanh tiến độ minh tưởng nhờ tài nguyên bên ngoài."
     }
   ],
   "cultivation_systems": [],

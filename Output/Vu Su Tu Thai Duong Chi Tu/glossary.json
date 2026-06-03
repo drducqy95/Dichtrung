@@ -3,8 +3,8 @@
     "version": "2.0",
     "schema": "gold",
     "branch": "Vu Su Tu Thai Duong Chi Tu",
-    "last_updated": "2026-06-04T05:23:12.058161+07:00",
-    "total_entries": 1721
+    "last_updated": "2026-06-04T05:53:36.507962+07:00",
+    "total_entries": 1727
   },
   "entries": [
     {
@@ -20737,6 +20737,66 @@
       "context": "",
       "confidence": "medium",
       "notes": "Loại năng lượng cao cấp được nghiên cứu bởi Trường Phái Mưu Cầu Năng Lượng Nguyên Thủy.",
+      "locked": false
+    },
+    {
+      "source": "仪式巫术",
+      "source_language": "zh",
+      "target": "vu thuật nghi thức",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một loại kỹ thuật vu thuật phối hợp khi minh tưởng để đẩy nhanh tiến độ tu luyện bằng tài nguyên.",
+      "locked": false
+    },
+    {
+      "source": "常规巫术",
+      "source_language": "zh",
+      "target": "vu thuật thông thường",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Vu thuật cấp thấp hoặc phổ thông mà vu sư dưới cấp bốn có thể nắm giữ.",
+      "locked": false
+    },
+    {
+      "source": "大威力组合巫术",
+      "source_language": "zh",
+      "target": "tổ hợp vu thuật uy lực lớn",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tổ hợp các vu thuật tạo nên uy lực cộng hưởng lớn.",
+      "locked": false
+    },
+    {
+      "source": "共鸣巫术",
+      "source_language": "zh",
+      "target": "vu thuật cộng hưởng",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Vu thuật hoàn toàn phù hợp với bản thân dựa trên minh tưởng pháp cao đẳng tương ứng.",
+      "locked": false
+    },
+    {
+      "source": "规则附加巫术",
+      "source_language": "zh",
+      "target": "vu thuật phụ gia quy tắc",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Vu thuật có kèm theo một phần sức mạnh quy tắc khi thi triển.",
+      "locked": false
+    },
+    {
+      "source": "全规则巫术",
+      "source_language": "zh",
+      "target": "vu thuật toàn quy tắc",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Vu thuật có sự gia trì của mô hình quy tắc hoàn chỉnh.",
       "locked": false
     }
   ]

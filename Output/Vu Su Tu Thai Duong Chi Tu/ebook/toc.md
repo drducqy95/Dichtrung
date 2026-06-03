@@ -332,3 +332,4 @@
 - Chương 0330: Chương 330: Thành Cabolos
 - Chương 0331: Chương 331: Sóng gió tiên tri (1)
 - Chương 0332: Chương 332: Sóng gió tiên tri (2)
+- Chương 0333: Chương 333: Vu thuật và minh tưởng pháp, vu thuật nghi thức

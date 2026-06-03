@@ -1,5 +1,5 @@
 {
-  "completed_chapters": 332,
+  "completed_chapters": 333,
   "total_chapters": 915,
   "chapters": [
     {
@@ -1996,9 +1996,9 @@
     },
     {
       "chapter_number": 333,
-      "title": "第333章 巫术和冥想法，仪式巫术",
-      "status": "PENDING",
-      "last_updated": null
+      "title": "Chương 333: Vu thuật và minh tưởng pháp, vu thuật nghi thức",
+      "status": "DONE",
+      "last_updated": "2026-06-04T05:53:36.527770+07:00"
     },
     {
       "chapter_number": 334,
@@ -5493,7 +5493,7 @@
       "last_updated": null
     }
   ],
-  "last_updated": "2026-06-04T05:23:38+07:00",
+  "last_updated": "2026-06-04T05:54:03+07:00",
   "workflow_artifacts": {
     "branch_readme": "README.md",
     "converter_db_ready": true,
