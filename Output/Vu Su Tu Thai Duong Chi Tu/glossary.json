@@ -12863,7 +12863,8 @@
         "chapter_0040",
         "chapter_0083",
         "chapter_0095",
-        "chapter_0172"
+        "chapter_0172",
+        "chapter_0289"
       ]
     },
     {
@@ -12929,7 +12930,12 @@
       "context": "",
       "confidence": "1.0",
       "notes": "Cấp bậc phân định sức mạnh dã thú siêu phàm.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0006",
+        "chapter_0286"
+      ]
     },
     {
       "source": "风暴呼吸法",
@@ -13813,7 +13819,13 @@
         "chapter_0275",
         "chapter_0276",
         "chapter_0277",
-        "chapter_0279"
+        "chapter_0279",
+        "chapter_0281",
+        "chapter_0282",
+        "chapter_0284",
+        "chapter_0287",
+        "chapter_0288",
+        "chapter_0289"
       ]
     },
     {
@@ -13919,7 +13931,10 @@
         "chapter_0253",
         "chapter_0261",
         "chapter_0262",
-        "chapter_0269"
+        "chapter_0269",
+        "chapter_0284",
+        "chapter_0288",
+        "chapter_0290"
       ]
     },
     {
@@ -14200,7 +14215,11 @@
         "chapter_0266",
         "chapter_0270",
         "chapter_0272",
-        "chapter_0273"
+        "chapter_0273",
+        "chapter_0284",
+        "chapter_0288",
+        "chapter_0289",
+        "chapter_0290"
       ]
     },
     {
@@ -14298,7 +14317,8 @@
         "chapter_0122",
         "chapter_0138",
         "chapter_0155",
-        "chapter_0214"
+        "chapter_0214",
+        "chapter_0290"
       ]
     },
     {
@@ -14830,7 +14850,8 @@
         "chapter_0248",
         "chapter_0260",
         "chapter_0268",
-        "chapter_0280"
+        "chapter_0280",
+        "chapter_0289"
       ]
     },
     {
@@ -14917,7 +14938,8 @@
         "chapter_0265",
         "chapter_0268",
         "chapter_0271",
-        "chapter_0280"
+        "chapter_0280",
+        "chapter_0289"
       ]
     },
     {
@@ -14978,7 +15000,11 @@
         "chapter_0202",
         "chapter_0228",
         "chapter_0277",
-        "chapter_0279"
+        "chapter_0279",
+        "chapter_0281",
+        "chapter_0282",
+        "chapter_0288",
+        "chapter_0290"
       ]
     },
     {
@@ -15147,7 +15173,8 @@
         "chapter_0248",
         "chapter_0260",
         "chapter_0268",
-        "chapter_0280"
+        "chapter_0280",
+        "chapter_0289"
       ]
     },
     {
@@ -15473,7 +15500,8 @@
         "chapter_0222",
         "chapter_0223",
         "chapter_0226",
-        "chapter_0239"
+        "chapter_0239",
+        "chapter_0287"
       ]
     },
     {
@@ -16027,7 +16055,8 @@
         "chapter_0181",
         "chapter_0192",
         "chapter_0265",
-        "chapter_0277"
+        "chapter_0277",
+        "chapter_0290"
       ]
     },
     {
@@ -16317,7 +16346,17 @@
         "chapter_0277",
         "chapter_0278",
         "chapter_0279",
-        "chapter_0280"
+        "chapter_0280",
+        "chapter_0281",
+        "chapter_0282",
+        "chapter_0283",
+        "chapter_0284",
+        "chapter_0285",
+        "chapter_0286",
+        "chapter_0287",
+        "chapter_0288",
+        "chapter_0289",
+        "chapter_0290"
       ]
     },
     {
@@ -16328,7 +16367,12 @@
       "context": "",
       "confidence": "1.0",
       "notes": "Sự thay đổi về chất của linh hồn khi thăng cấp Vu sư chính thức",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0265",
+        "chapter_0281"
+      ]
     },
     {
       "source": "古遗迹",
@@ -16882,7 +16926,12 @@
       "context": "",
       "confidence": "1.0",
       "notes": "Các vu thuật thời thượng cổ được giải phóng thông qua phù văn khắc trên vật chứa",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0226",
+        "chapter_0290"
+      ]
     },
     {
       "source": "高等能量药剂",
@@ -17431,7 +17480,13 @@
         "chapter_0276",
         "chapter_0277",
         "chapter_0278",
-        "chapter_0279"
+        "chapter_0279",
+        "chapter_0281",
+        "chapter_0282",
+        "chapter_0284",
+        "chapter_0287",
+        "chapter_0288",
+        "chapter_0290"
       ]
     },
     {
@@ -17566,7 +17621,9 @@
         "chapter_0264",
         "chapter_0266",
         "chapter_0268",
-        "chapter_0269"
+        "chapter_0269",
+        "chapter_0284",
+        "chapter_0285"
       ]
     },
     {
@@ -17743,7 +17800,8 @@
         "chapter_0260",
         "chapter_0267",
         "chapter_0268",
-        "chapter_0269"
+        "chapter_0269",
+        "chapter_0285"
       ]
     },
     {
@@ -18446,7 +18504,8 @@
         "chapter_0232",
         "chapter_0238",
         "chapter_0262",
-        "chapter_0263"
+        "chapter_0263",
+        "chapter_0282"
       ]
     },
     {
@@ -18789,7 +18848,8 @@
         "chapter_0263",
         "chapter_0264",
         "chapter_0265",
-        "chapter_0267"
+        "chapter_0267",
+        "chapter_0286"
       ]
     },
     {
@@ -19408,7 +19468,12 @@
         "chapter_0262",
         "chapter_0266",
         "chapter_0267",
-        "chapter_0279"
+        "chapter_0279",
+        "chapter_0282",
+        "chapter_0285",
+        "chapter_0286",
+        "chapter_0287",
+        "chapter_0288"
       ]
     },
     {
@@ -19896,7 +19961,12 @@
       "context": "",
       "confidence": "medium",
       "notes": "Hậu duệ dòng máu của Grimm hoặc bán sinh mệnh sinh ra từ sức mạnh của hắn.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0286",
+        "chapter_0287"
+      ]
     },
     {
       "source": "尼多克",
@@ -19916,7 +19986,12 @@
       "context": "",
       "confidence": "medium",
       "notes": "Đá đặc thù dùng để thu thập và bảo tồn linh hồn quái vật phục vụ giao dịch hoặc mang theo.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0287",
+        "chapter_0290"
+      ]
     },
     {
       "source": "千耳怪",
@@ -19926,7 +20001,14 @@
       "context": "",
       "confidence": "medium",
       "notes": "Loài quái vật phổ biến ở thế giới Thợ Săn Linh Hồn, linh hồn của chúng được thợ săn sử dụng để dung hợp.",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0287",
+        "chapter_0288",
+        "chapter_0289",
+        "chapter_0290"
+      ]
     },
     {
       "source": "灵魂浸润药剂",
@@ -19947,6 +20029,17 @@
       "confidence": "medium",
       "notes": "Quái vật ở thế giới Thợ Săn Linh Hồn, thực chất chính là loài quái vật nghìn tai (千耳怪) bị tác giả ghi nhầm tên.",
       "locked": false
+    },
+    {
+      "source": "融合法",
+      "target": "Dung Hợp Pháp",
+      "category": "reviewed",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0281",
+        "chapter_0283"
+      ]
     }
   ]
 }

@@ -3313,3 +3313,16 @@
 {"chapter_id": "chapter_0289", "source_surface": "巫术", "target_surface": "vu thuật", "entity_type": "techniques", "segment_id": "chapter_0289:seg_0001", "confidence": 1.0}
 {"chapter_id": "chapter_0289", "source_surface": "融合法", "target_surface": "Dung Hợp Pháp", "entity_type": "techniques", "segment_id": "chapter_0289:seg_0001", "confidence": 1.0}
 {"chapter_id": "chapter_0289", "source_surface": "精神力", "target_surface": "tinh thần lực", "entity_type": "cultivation_resources", "segment_id": "chapter_0289:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0290", "source_surface": "骨", "target_surface": "Cốt", "entity_type": "person", "segment_id": "chapter_0290:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0290", "source_surface": "森", "target_surface": "Sen", "entity_type": "person", "segment_id": "chapter_0290:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0290", "source_surface": "战争", "target_surface": "War", "entity_type": "person", "segment_id": "chapter_0290:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0290", "source_surface": "马尔", "target_surface": "Mã Nhĩ", "entity_type": "person", "segment_id": "chapter_0290:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0290", "source_surface": "格林", "target_surface": "Grimm", "entity_type": "person", "segment_id": "chapter_0290:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0290", "source_surface": "辉光之路结社", "target_surface": "kết xã Hào Quang Chi Lộ", "entity_type": "factions", "segment_id": "chapter_0290:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0290", "source_surface": "巫术", "target_surface": "vu thuật", "entity_type": "techniques", "segment_id": "chapter_0290:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0290", "source_surface": "药剂学", "target_surface": "Dược tể học", "entity_type": "techniques", "segment_id": "chapter_0290:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0290", "source_surface": "类巫术", "target_surface": "tương tự vu thuật", "entity_type": "techniques", "segment_id": "chapter_0290:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0290", "source_surface": "符文", "target_surface": "phù văn", "entity_type": "cultivation_resources", "segment_id": "chapter_0290:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0290", "source_surface": "图书馆", "target_surface": "Thư Viện", "entity_type": "locations", "segment_id": "chapter_0290:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0290", "source_surface": "生命药剂", "target_surface": "Dược tể Sinh Mệnh", "entity_type": "items", "segment_id": "chapter_0290:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0290", "source_surface": "恢复药剂", "target_surface": "dược tể phục hồi", "entity_type": "items", "segment_id": "chapter_0290:seg_0001", "confidence": 1.0}

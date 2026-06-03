@@ -289,3 +289,4 @@
 - Chương 0287: Chương 287: Sắp xếp, bắt đầu
 - Chương 0288: Chương 288: Vạn hồn bước thứ nhất
 - Chương 0289: Chương 289: Thuộc tính tăng lên
+- Chương 0290: Chương 290: Tập kích?
