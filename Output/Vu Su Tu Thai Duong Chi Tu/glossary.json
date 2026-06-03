@@ -3,8 +3,8 @@
     "version": "2.0",
     "schema": "gold",
     "branch": "Vu Su Tu Thai Duong Chi Tu",
-    "last_updated": "2026-06-04T05:53:36.507962+07:00",
-    "total_entries": 1727
+    "last_updated": "2026-06-04T05:54:52.585202+07:00",
+    "total_entries": 1728
   },
   "entries": [
     {
@@ -20797,6 +20797,16 @@
       "context": "",
       "confidence": "medium",
       "notes": "Vu thuật có sự gia trì của mô hình quy tắc hoàn chỉnh.",
+      "locked": false
+    },
+    {
+      "source": "天秤巫师",
+      "source_language": "zh",
+      "target": "Vu sư Thiên Xứng",
+      "category": "title",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một danh hiệu/chức vị vu sư cấp cao trong Liên Minh Truy Tìm Chân Lý.",
       "locked": false
     }
   ]

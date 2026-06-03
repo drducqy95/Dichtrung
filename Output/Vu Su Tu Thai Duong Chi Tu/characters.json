@@ -3,8 +3,8 @@
     "version": "2.0",
     "schema": "gold",
     "branch": "Vu Su Tu Thai Duong Chi Tu",
-    "last_updated": "2026-06-04T05:23:12.076779+07:00",
-    "total_characters": 426
+    "last_updated": "2026-06-04T05:54:52.604803+07:00",
+    "total_characters": 427
   },
   "characters": [
     {
@@ -7875,6 +7875,44 @@
       "status": "active",
       "appearance": {
         "physical": "Lão Hắc vu sư cao cấp ở thành Cabolos đóng vai trò điều giải và tìm hiểu nguyên nhân tiên tri phản phệ từ Kekelia.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "索恩",
+      "name_target": "Thorn",
+      "name_aliases": [],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "wizard",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Vu sư Thiên Xứng thuộc Liên Minh Truy Tìm Chân Lý, được cử đi chiêu mộ Grimm.",
         "style": "",
         "distinctive": ""
       },
