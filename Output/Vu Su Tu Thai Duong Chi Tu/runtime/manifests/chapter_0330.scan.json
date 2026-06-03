@@ -1,0 +1,210 @@
+{
+  "schema_version": "2.0",
+  "branch": "Vu Su Tu Thai Duong Chi Tu",
+  "chapter": 330,
+  "source_file": "D:\\Dichtrung\\Source\\Source split\\Vu Su Tu Thai Duong Chi Tu\\0330 - 第330章 卡波洛斯城.md",
+  "source_char_count": 994,
+  "source_hash": "76cdbf25d81228258bc367a3ac9e4fba588c9a1d637d94f0ab0645c0a8b862ca",
+  "source_manifest_hash": "439a9aa4f5528b3f41f3223cf149660910cae96a046cbed75c412d8d757cbf72",
+  "source_segments": [
+    {
+      "segment_id": "chapter_0330:seg_0001",
+      "source": "第330章 卡波洛斯城\n接下来的情况果然如同克拉格所说，操控着飞艇飞速前进的格林，在穿过荒原之后，很快就到达了世界诅咒区域。\n站在飞艇的落地窗前，格林看向了世界诅咒区域。\n果然如同克拉格所说。\n世界诅咒区域已经完全没有上古时期所说那么危险，在区域之中，格林甚至看见了一些生存在其中的生物。\n虽然那些生物都长得极其怪异，身体畸形，但确实拥有着正常智慧和基础的社会构建。\n看到了这种情况，格林毫不犹豫的驾驶着飞船向着诅咒区域行进，萦绕在世界诅咒区域的诅咒，绝大多数甚至都无法突破飞艇屏障。\n极少数突破了屏障的诅咒，被飞船内部的巫师轻松解决。\n东海岸的巫师或许在力量层次上不够，但是对于能量的运用，已经到达了一种极致的地步。\n飞艇出发第96年。\n连续飞行了96年的飞艇，终于到达了中部边缘。\n站在飞行的控制室中，格林透过窗户看着前方，笼罩在整个中部的无形屏障，眼神中越发的明亮起来。\n“如此巨大的屏障，中部区域还真是富庶！”\n蓝色的光点一阵闪动，在接近屏障之前，格林发动了精神力和芯片，开始了扫描，试图解析这个屏障。\n“不是单纯的能量屏障，流动的能量有一丝丝的世界意志，这个屏障主要的功能并不是用来防护，更多的作用是用来探查内部是否存在异界生命！”\n作为曾经直接接触过世界意志的格林，精神力在接触屏障的一瞬间，马上就感受到了那一丝若有若无的意志。\n并且那一丝若有若无的意志，在感受到格林的探查后，竟然还有一丝丝的回应。\n一种无形的频率，马上从屏障之中传出，落入了格林的精神之中。\n“原来是这样！”格林的脸上露出了哭笑不得的意味。\n自己眼前这个围绕着中部的巨大屏障，之所以能够检测巫师。\n完全是利用的巫师，看见东西就想研究一下的性格。\n中部巫师的设计理念就是，正常的巫师只要看见这个宏伟的屏障，肯定会升起研究的意图，进而释放自己的精神力探查，然后触动那一丝丝的世界意志，世界意志自然能够检测出，这种主动探查的精神力是否是来自巫师本土。\n“上古巫师们的钓鱼套路，中部巫师们还真是继承了不少！”格林有点无奈的吐槽道。\n想到自己从上古灵魂学院当中学到的知识，特别是世界入侵方面，也基本是类似这个原理，格林确信中部确实保留了更多上古时期的巫师传承，风格简直一点没变。\n飞艇一点一点的靠近着屏障。\n飞艇内部的巫师们，各自的神情也完全不同。\n有的人是激动，有的人则是忐忑不安，每一个人都有着自己的担忧和喜悦。",
+      "source_hash": "76cdbf25d81228258bc367a3ac9e4fba588c9a1d637d94f0ab0645c0a8b862ca"
+    }
+  ],
+  "known_characters": [
+    {
+      "id": "GCHAR_0361",
+      "name_source": "格林",
+      "name_target": "Grimm",
+      "name_aliases": [],
+      "gender": "male",
+      "age_group": "teen",
+      "social_status": "",
+      "base_archetype": "protagonist",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Thiếu niên dung hợp linh hồn với Chen Tian.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    }
+  ],
+  "known_worldbuilding": [
+    {
+      "section": "factions",
+      "name_source": "灵魂学院",
+      "name_target": "học viện Linh Hồn",
+      "type": "faction",
+      "description": "Tổ chức vu sư thượng cổ tàn nhẫn chuyên nghiên cứu và tra tấn linh hồn."
+    },
+    {
+      "section": "techniques",
+      "name_source": "灵魂学",
+      "name_target": "Linh Hồn Học (Thượng Cổ)",
+      "description": "Ngành tri thức chuyên sâu nghiên cứu về các hiện tượng linh hồn, phân tách linh hồn và sản sinh linh thể oán niệm của tổ chức vu sư thượng cổ."
+    },
+    {
+      "section": "cultivation_resources",
+      "name_source": "精神力",
+      "name_target": "tinh thần lực",
+      "description": "Lực lượng tinh thần được đo lường bằng số lượng phù văn cố định trong não bộ của Vu sư học đồ."
+    },
+    {
+      "section": "locations",
+      "name_source": "世界诅咒区域",
+      "name_target": "Khu Vực Lời Nguyền Thế Giới",
+      "type": "location",
+      "description": "Vành đai nguy hiểm bao bọc xung quanh khu vực Trung bộ, chứa nhiều lời nguyền và hiện tượng quỷ dị phi thường."
+    },
+    {
+      "section": "locations",
+      "name_source": "卡波洛斯城",
+      "name_target": "thành Cabolos",
+      "description": "Thành phố biên giới đóng vai trò đón tiếp các vu sư ngoại lai tiến vào miền Trung."
+    }
+  ],
+  "heuristic_candidates": {
+    "characters": [
+      {
+        "source": "巫师",
+        "entity_type": "person",
+        "count": 2,
+        "confidence": 0.7,
+        "evidence": [
+          "屏障，之所以能够检测巫师。\n完全是利用的巫师",
+          "巫师。\n完全是利用的巫师，看见东西就想研究一"
+        ]
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      {
+        "source": "作为曾经直接接触过世界意志的格林",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "否存在异界生命！”\n作为曾经直接接触过世界意志的格林，精神力在接触屏障的"
+        ]
+      },
+      {
+        "source": "卡波洛斯城",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "第330章 卡波洛斯城\n接下来的情况果然如"
+        ]
+      },
+      {
+        "source": "很快就到达了世界诅咒区域",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "林，在穿过荒原之后，很快就到达了世界诅咒区域。\n站在飞艇的落地窗"
+        ]
+      },
+      {
+        "source": "操控着飞艇飞速前进的格林",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "果然如同克拉格所说，操控着飞艇飞速前进的格林，在穿过荒原之后，很"
+        ]
+      },
+      {
+        "source": "格林看向了世界诅咒区域",
+        "entity_type": "location",
+        "count": 1,
+        "confidence": 0.78,
+        "evidence": [
+          "站在飞艇的落地窗前，格林看向了世界诅咒区域。\n果然如同克拉格所"
+        ]
+      }
+    ],
+    "techniques": [
+      "世界诅咒区域已经",
+      "作为曾经",
+      "绝大多数甚至都无法",
+      "蓝色的光点一阵",
+      "达了一种极致的地步"
+    ]
+  },
+  "realms": [],
+  "matched_glossary_terms": [
+    {
+      "source": "精神力",
+      "target": "tinh thần lực"
+    },
+    {
+      "source": "东海岸",
+      "target": "Bờ biển phía Đông"
+    },
+    {
+      "source": "飞艇",
+      "target": "phi thuyền"
+    },
+    {
+      "source": "灵魂学院",
+      "target": "học viện Linh Hồn"
+    },
+    {
+      "source": "世界诅咒区域",
+      "target": "Khu Vực Lời Nguyền Thế Giới"
+    },
+    {
+      "source": "卡波洛斯城",
+      "target": "thành Cabolos"
+    }
+  ],
+  "matched_locked_terms": [
+    {
+      "source": "精神力",
+      "target": "tinh thần lực"
+    },
+    {
+      "source": "东海岸",
+      "target": "Bờ biển phía Đông"
+    },
+    {
+      "source": "飞艇",
+      "target": "phi thuyền"
+    },
+    {
+      "source": "灵魂学院",
+      "target": "học viện Linh Hồn"
+    }
+  ],
+  "structural_hints": {
+    "has_dialogue": true,
+    "has_western_names": false,
+    "estimated_segments": 28
+  },
+  "generated_at": "2026-06-04T05:18:30.896590+07:00"
+}

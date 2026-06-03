@@ -329,3 +329,4 @@
 - Chương 0327: Chương 327: Tự cường hóa bản thân
 - Chương 0328: Chương 328: Tới rìa miền Trung
 - Chương 0329: Chương 329: Khái quát về miền Trung
+- Chương 0330: Chương 330: Thành Cabolos

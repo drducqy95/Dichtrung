@@ -1,5 +1,5 @@
 {
-  "completed_chapters": 329,
+  "completed_chapters": 330,
   "total_chapters": 915,
   "chapters": [
     {
@@ -1978,9 +1978,9 @@
     },
     {
       "chapter_number": 330,
-      "title": "第330章 卡波洛斯城",
-      "status": "PENDING",
-      "last_updated": null
+      "title": "Chương 330: Thành Cabolos",
+      "status": "DONE",
+      "last_updated": "2026-06-04T05:18:51.726982+07:00"
     },
     {
       "chapter_number": 331,
@@ -5493,7 +5493,7 @@
       "last_updated": null
     }
   ],
-  "last_updated": "2026-06-04T05:18:05+07:00",
+  "last_updated": "2026-06-04T05:19:19+07:00",
   "workflow_artifacts": {
     "branch_readme": "README.md",
     "converter_db_ready": true,

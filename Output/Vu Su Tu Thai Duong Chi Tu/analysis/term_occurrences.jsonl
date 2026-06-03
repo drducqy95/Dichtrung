@@ -3194,3 +3194,9 @@
 {"chapter_id": "chapter_0329", "source_term": "度", "target_term": "độ", "segment_id": "chapter_0329:seg_0001", "present_in_target": true, "is_locked": true, "category": "unit", "confidence": 1.0}
 {"chapter_id": "chapter_0329", "source_term": "飞艇", "target_term": "phi thuyền", "segment_id": "chapter_0329:seg_0001", "present_in_target": true, "is_locked": true, "category": "transport", "confidence": 1.0}
 {"chapter_id": "chapter_0329", "source_term": "世界诅咒区域", "target_term": "Khu Vực Lời Nguyền Thế Giới", "segment_id": "chapter_0329:seg_0001", "present_in_target": true, "is_locked": false, "category": "location", "confidence": 1.0}
+{"chapter_id": "chapter_0330", "source_term": "精神力", "target_term": "tinh thần lực", "segment_id": "chapter_0330:seg_0001", "present_in_target": true, "is_locked": true, "category": "cultivation", "confidence": 1.0}
+{"chapter_id": "chapter_0330", "source_term": "东海岸", "target_term": "Bờ biển phía Đông", "segment_id": "chapter_0330:seg_0001", "present_in_target": true, "is_locked": true, "category": "location", "confidence": 1.0}
+{"chapter_id": "chapter_0330", "source_term": "飞艇", "target_term": "phi thuyền", "segment_id": "chapter_0330:seg_0001", "present_in_target": true, "is_locked": true, "category": "transport", "confidence": 1.0}
+{"chapter_id": "chapter_0330", "source_term": "灵魂学院", "target_term": "học viện Linh Hồn", "segment_id": "chapter_0330:seg_0001", "present_in_target": true, "is_locked": true, "category": "factions", "confidence": 1.0}
+{"chapter_id": "chapter_0330", "source_term": "世界诅咒区域", "target_term": "Khu Vực Lời Nguyền Thế Giới", "segment_id": "chapter_0330:seg_0001", "present_in_target": true, "is_locked": false, "category": "location", "confidence": 1.0}
+{"chapter_id": "chapter_0330", "source_term": "卡波洛斯城", "target_term": "thành Cabolos", "segment_id": "chapter_0330:seg_0001", "present_in_target": false, "is_locked": false, "category": "location", "confidence": 1.0}
