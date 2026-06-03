@@ -339,3 +339,4 @@
 - Chương 0337: Chương 337: Ký kết khế ước
 - Chương 0338: Chương 338: Hấp thu tri thức, chuẩn bị cường hóa bản thân
 - Chương 0339: Chương 339: Hoàn thành thủ tục
+- Chương 0340: Chương 340: Đăng ký suất tham gia
