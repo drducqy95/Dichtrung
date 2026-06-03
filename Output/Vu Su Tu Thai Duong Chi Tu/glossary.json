@@ -3,8 +3,8 @@
     "version": "2.0",
     "schema": "gold",
     "branch": "Vu Su Tu Thai Duong Chi Tu",
-    "last_updated": "2026-06-03T18:01:47.532328+07:00",
-    "total_entries": 1698
+    "last_updated": "2026-06-04T04:59:32.933053+07:00",
+    "total_entries": 1709
   },
   "entries": [
     {
@@ -13345,7 +13345,8 @@
         "chapter_0036",
         "chapter_0039",
         "chapter_0087",
-        "chapter_0095"
+        "chapter_0095",
+        "chapter_0315"
       ]
     },
     {
@@ -13553,7 +13554,9 @@
         "chapter_0177",
         "chapter_0182",
         "chapter_0212",
-        "chapter_0265"
+        "chapter_0265",
+        "chapter_0315",
+        "chapter_0316"
       ]
     },
     {
@@ -13838,7 +13841,16 @@
         "chapter_0306",
         "chapter_0308",
         "chapter_0309",
-        "chapter_0310"
+        "chapter_0310",
+        "chapter_0311",
+        "chapter_0312",
+        "chapter_0314",
+        "chapter_0315",
+        "chapter_0316",
+        "chapter_0317",
+        "chapter_0318",
+        "chapter_0319",
+        "chapter_0320"
       ]
     },
     {
@@ -13950,7 +13962,9 @@
         "chapter_0290",
         "chapter_0306",
         "chapter_0307",
-        "chapter_0309"
+        "chapter_0309",
+        "chapter_0314",
+        "chapter_0318"
       ]
     },
     {
@@ -14243,7 +14257,15 @@
         "chapter_0306",
         "chapter_0308",
         "chapter_0309",
-        "chapter_0310"
+        "chapter_0310",
+        "chapter_0311",
+        "chapter_0312",
+        "chapter_0313",
+        "chapter_0314",
+        "chapter_0317",
+        "chapter_0318",
+        "chapter_0319",
+        "chapter_0320"
       ]
     },
     {
@@ -14435,7 +14457,8 @@
         "chapter_0187",
         "chapter_0207",
         "chapter_0216",
-        "chapter_0226"
+        "chapter_0226",
+        "chapter_0317"
       ]
     },
     {
@@ -14450,7 +14473,10 @@
       "status": "auto-locked",
       "reviewed_chapters": [
         "chapter_0207",
-        "chapter_0219"
+        "chapter_0219",
+        "chapter_0312",
+        "chapter_0313",
+        "chapter_0317"
       ]
     },
     {
@@ -14570,7 +14596,13 @@
         "chapter_0275",
         "chapter_0280",
         "chapter_0305",
-        "chapter_0310"
+        "chapter_0310",
+        "chapter_0311",
+        "chapter_0312",
+        "chapter_0313",
+        "chapter_0315",
+        "chapter_0316",
+        "chapter_0317"
       ]
     },
     {
@@ -14625,7 +14657,8 @@
         "chapter_0233",
         "chapter_0235",
         "chapter_0237",
-        "chapter_0241"
+        "chapter_0241",
+        "chapter_0311"
       ]
     },
     {
@@ -14763,7 +14796,8 @@
         "chapter_0219",
         "chapter_0264",
         "chapter_0265",
-        "chapter_0275"
+        "chapter_0275",
+        "chapter_0312"
       ]
     },
     {
@@ -14884,7 +14918,10 @@
         "chapter_0268",
         "chapter_0280",
         "chapter_0289",
-        "chapter_0310"
+        "chapter_0310",
+        "chapter_0311",
+        "chapter_0313",
+        "chapter_0317"
       ]
     },
     {
@@ -14972,7 +15009,10 @@
         "chapter_0268",
         "chapter_0271",
         "chapter_0280",
-        "chapter_0289"
+        "chapter_0289",
+        "chapter_0311",
+        "chapter_0313",
+        "chapter_0317"
       ]
     },
     {
@@ -15211,7 +15251,10 @@
         "chapter_0268",
         "chapter_0280",
         "chapter_0289",
-        "chapter_0310"
+        "chapter_0310",
+        "chapter_0311",
+        "chapter_0313",
+        "chapter_0317"
       ]
     },
     {
@@ -15923,7 +15966,8 @@
         "chapter_0200",
         "chapter_0201",
         "chapter_0210",
-        "chapter_0269"
+        "chapter_0269",
+        "chapter_0314"
       ]
     },
     {
@@ -15960,7 +16004,9 @@
         "chapter_0240",
         "chapter_0262",
         "chapter_0263",
-        "chapter_0309"
+        "chapter_0309",
+        "chapter_0313",
+        "chapter_0314"
       ]
     },
     {
@@ -16001,7 +16047,9 @@
         "chapter_0270",
         "chapter_0271",
         "chapter_0280",
-        "chapter_0305"
+        "chapter_0305",
+        "chapter_0313",
+        "chapter_0314"
       ]
     },
     {
@@ -16103,7 +16151,8 @@
         "chapter_0277",
         "chapter_0290",
         "chapter_0292",
-        "chapter_0303"
+        "chapter_0303",
+        "chapter_0314"
       ]
     },
     {
@@ -16422,7 +16471,16 @@
         "chapter_0307",
         "chapter_0308",
         "chapter_0309",
-        "chapter_0310"
+        "chapter_0310",
+        "chapter_0311",
+        "chapter_0312",
+        "chapter_0313",
+        "chapter_0314",
+        "chapter_0316",
+        "chapter_0317",
+        "chapter_0318",
+        "chapter_0319",
+        "chapter_0320"
       ]
     },
     {
@@ -16509,7 +16567,9 @@
       "status": "auto-locked",
       "reviewed_chapters": [
         "chapter_0181",
-        "chapter_0261"
+        "chapter_0261",
+        "chapter_0315",
+        "chapter_0316"
       ]
     },
     {
@@ -16552,7 +16612,11 @@
         "chapter_0263",
         "chapter_0266",
         "chapter_0305",
-        "chapter_0308"
+        "chapter_0308",
+        "chapter_0315",
+        "chapter_0316",
+        "chapter_0317",
+        "chapter_0318"
       ]
     },
     {
@@ -16815,7 +16879,12 @@
       "context": "",
       "confidence": "1.0",
       "notes": "Vu thuật kết hợp từ nhiều vu thuật đơn lẻ",
-      "locked": false
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0245",
+        "chapter_0314"
+      ]
     },
     {
       "source": "卡因",
@@ -17005,7 +17074,8 @@
       "reviewed_chapters": [
         "chapter_0226",
         "chapter_0290",
-        "chapter_0308"
+        "chapter_0308",
+        "chapter_0318"
       ]
     },
     {
@@ -17242,7 +17312,8 @@
         "chapter_0205",
         "chapter_0210",
         "chapter_0245",
-        "chapter_0273"
+        "chapter_0273",
+        "chapter_0316"
       ]
     },
     {
@@ -17411,7 +17482,10 @@
         "chapter_0271",
         "chapter_0273",
         "chapter_0280",
-        "chapter_0305"
+        "chapter_0305",
+        "chapter_0312",
+        "chapter_0313",
+        "chapter_0314"
       ]
     },
     {
@@ -17444,7 +17518,8 @@
         "chapter_0245",
         "chapter_0246",
         "chapter_0247",
-        "chapter_0268"
+        "chapter_0268",
+        "chapter_0314"
       ]
     },
     {
@@ -17569,7 +17644,8 @@
         "chapter_0290",
         "chapter_0292",
         "chapter_0294",
-        "chapter_0305"
+        "chapter_0305",
+        "chapter_0319"
       ]
     },
     {
@@ -17854,7 +17930,8 @@
         "chapter_0264",
         "chapter_0265",
         "chapter_0305",
-        "chapter_0309"
+        "chapter_0309",
+        "chapter_0314"
       ]
     },
     {
@@ -18001,7 +18078,8 @@
         "chapter_0200",
         "chapter_0225",
         "chapter_0227",
-        "chapter_0260"
+        "chapter_0260",
+        "chapter_0316"
       ]
     },
     {
@@ -18459,7 +18537,8 @@
         "chapter_0181",
         "chapter_0191",
         "chapter_0231",
-        "chapter_0297"
+        "chapter_0297",
+        "chapter_0315"
       ]
     },
     {
@@ -18518,7 +18597,9 @@
         "chapter_0267",
         "chapter_0268",
         "chapter_0308",
-        "chapter_0309"
+        "chapter_0309",
+        "chapter_0315",
+        "chapter_0316"
       ]
     },
     {
@@ -18840,7 +18921,8 @@
         "chapter_0184",
         "chapter_0219",
         "chapter_0221",
-        "chapter_0310"
+        "chapter_0310",
+        "chapter_0315"
       ]
     },
     {
@@ -18948,7 +19030,8 @@
         "chapter_0267",
         "chapter_0286",
         "chapter_0308",
-        "chapter_0309"
+        "chapter_0309",
+        "chapter_0316"
       ]
     },
     {
@@ -19723,7 +19806,8 @@
         "chapter_0264",
         "chapter_0265",
         "chapter_0266",
-        "chapter_0280"
+        "chapter_0280",
+        "chapter_0315"
       ]
     },
     {
@@ -19826,7 +19910,8 @@
       "status": "auto-locked",
       "reviewed_chapters": [
         "chapter_0170",
-        "chapter_0211"
+        "chapter_0211",
+        "chapter_0316"
       ]
     },
     {
@@ -19892,7 +19977,9 @@
         "chapter_0280",
         "chapter_0308",
         "chapter_0309",
-        "chapter_0310"
+        "chapter_0310",
+        "chapter_0312",
+        "chapter_0316"
       ]
     },
     {
@@ -20046,7 +20133,10 @@
         "chapter_0221",
         "chapter_0280",
         "chapter_0305",
-        "chapter_0310"
+        "chapter_0310",
+        "chapter_0311",
+        "chapter_0312",
+        "chapter_0313"
       ]
     },
     {
@@ -20140,7 +20230,8 @@
         "chapter_0303",
         "chapter_0304",
         "chapter_0305",
-        "chapter_0306"
+        "chapter_0306",
+        "chapter_0320"
       ]
     },
     {
@@ -20320,6 +20411,122 @@
       "context": "",
       "confidence": "medium",
       "notes": "",
+      "locked": false
+    },
+    {
+      "source": "禁忌级四级生命体",
+      "source_language": "zh",
+      "target": "sinh mệnh thể cấp bốn cấp độ Cấm Kỵ",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "禁忌之王",
+      "source_language": "zh",
+      "target": "Vua Cấm Kỵ",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "tôn hiệu mới của Grimm",
+      "locked": false
+    },
+    {
+      "source": "极限贤者",
+      "source_language": "zh",
+      "target": "Hiền giả Cực Hạn",
+      "category": "character",
+      "context": "",
+      "confidence": "medium",
+      "notes": "tôn hiệu của Dennis",
+      "locked": false
+    },
+    {
+      "source": "迷梦之影",
+      "source_language": "zh",
+      "target": "Mê Mộng Chi Ảnh",
+      "category": "creature",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "死亡区域",
+      "source_language": "zh",
+      "target": "Khu Vực Tử Vong",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "世界诅咒区域",
+      "source_language": "zh",
+      "target": "Khu Vực Lời Nguyền Thế Giới",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "",
+      "locked": false
+    },
+    {
+      "source": "开拓者",
+      "source_language": "zh",
+      "target": "Khai Phá Giả",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "tên phi thuyền",
+      "locked": false
+    },
+    {
+      "source": "灰雾区",
+      "source_language": "zh",
+      "target": "Khu Vực Sương Mù Xám",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Khu vực nguy hiểm thứ nhất",
+      "locked": true,
+      "status": "auto-locked",
+      "reviewed_chapters": [
+        "chapter_0318",
+        "chapter_0319",
+        "chapter_0320"
+      ]
+    },
+    {
+      "source": "精神力封闭防御",
+      "source_language": "zh",
+      "target": "phòng ngự phong tỏa tinh thần lực",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "môn vu thuật mới",
+      "locked": false
+    },
+    {
+      "source": "空间牵引",
+      "source_language": "zh",
+      "target": "kéo dắt không gian",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "tên vu thuật thượng cổ",
+      "locked": false
+    },
+    {
+      "source": "瑟兰达",
+      "source_language": "zh",
+      "target": "Seranda",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "tên lãnh địa cổ xưa",
       "locked": false
     }
   ]

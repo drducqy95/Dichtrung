@@ -314,3 +314,12 @@
 - Chương 0312: Chương 312: Gợi ý - Kết thúc tấn thăng
 - Chương 0313: Chương 313: Sự tình sau đó
 - Chương 0314: Chương 314: Đối chiến - Sự áp đảo cuối cùng
+- Chương 0315: Chương 315: Dặn dò cuối cùng
+- Chương 0316: Chương 316: Khu vực nguy hiểm
+- Chương 0317: Chương 317: Đến Khu Vực Sương Mù Xám
+- Chương 0318: Chương 318: Tiến vào thăm dò
+- Chương 0319: Chương 319: Thăm dò (1)
+- Chương 0320: Chương 320: Thăm dò (2)
+- Chương 0321: Chương 321: Tàn tích thế giới
+- Chương 0322: Chương 322: Một năm thu hoạch
+- Chương 0323: Chương 323: Tập kích

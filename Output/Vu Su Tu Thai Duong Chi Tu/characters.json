@@ -3,8 +3,8 @@
     "version": "2.0",
     "schema": "gold",
     "branch": "Vu Su Tu Thai Duong Chi Tu",
-    "last_updated": "2026-06-03T17:44:23.946145+07:00",
-    "total_characters": 418
+    "last_updated": "2026-06-04T05:03:45.281064+07:00",
+    "total_characters": 421
   },
   "characters": [
     {
@@ -7571,6 +7571,120 @@
       "status": "active",
       "appearance": {
         "physical": "Thống lĩnh của quân đội đế quốc Thợ Săn Linh Hồn, mặc giáp sắt bảo vệ, cùng Mabur hợp lực tiêu diệt quái vật nghìn tai khổng lồ cấp ba thứ nhất.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "梅耶",
+      "name_target": "Mayer",
+      "name_aliases": [],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "secondary",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Vị vu sư mặc trang phục kỵ sĩ chỉ huy đội ngũ vu sư trên phi thuyền Khai Phá Giả.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "卡尔·巴菲斯",
+      "name_target": "Karl Barfiss",
+      "name_aliases": [],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "wizard",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Một vị Hắc vu sư cấp hai có huyết mạch biến đổi cơ thể, bị quy tắc dị thường chiếm đoạt linh hồn cộng sinh trong Khu Vực Sương Mù Xám.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "迪尔克",
+      "name_target": "Dirk",
+      "name_aliases": [],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "wizard",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Một vị Hắc vu sư đi cùng phi thuyền, hành sự nhanh nhẹn phản ứng mau lẹ trói buộc Karl khi bị rơi.",
         "style": "",
         "distinctive": ""
       },

@@ -1,0 +1,72 @@
+# Chương 0322: Chương 322: Một năm thu hoạch
+
+Chương 322: Một năm thu hoạch
+Rách nát, cũ kỹ!
+Tòa lâu đài hiện tại mang lại cho Grimm cảm nhận đúng là như vậy. Bức tường thành vốn trông có vẻ tương đối nguyên vẹn thì lúc này phảng phất như đã trải qua vô số năm tháng mưa gió rửa trôi, bề mặt đã trở nên lồi lõm rách nát, khắp nơi đều là khe nứt.
+Đủ loại đá vụn rơi rụng trên mặt đất, bốn phía lâu đài đầy dẫy những phiến đá bong tróc từ trên tường thành xuống.
+Cổng lớn của tường thành cũng xuất hiện đủ kiểu đổ vỡ, như thể chỉ trong một cái chớp mắt, toàn bộ lâu đài đã trải qua hàng nghìn năm đằng đẵng, nằm ngay trên bờ vực hủy diệt.
+“Quả nhiên, bộ giáp trắng vốn là thứ do tàn tích thế giới dùng quy tắc cấu thành, một khi bị ta bắt giữ thì sẽ ngay lập tức gây ra tổn hại nghiêm trọng cho toàn bộ lâu đài!”
+Tình cảnh trước mắt không vượt ngoài dự liệu của Grimm, hoặc có thể nói là nằm trong dự tính của hắn.
+Đi vòng quanh lâu đài một vòng, Grimm phát hiện lỗ hổng do cuộc va chạm trước đó giữa hắn và bộ giáp trắng gây ra lại xuất hiện.
+Đi tới bên rìa lỗ hổng, Grimm ngồi xổm người xuống, nhặt một viên đá vụn lên tỉ mỉ quan sát.
+Khi con ngươi của Grimm chuyển sang màu bạc trắng, thế giới trong mắt hắn cũng trở nên hoàn toàn khác biệt. Viên đá đen trong tay biến thành những sợi quy tắc vặn vẹo tàn khuyết. Giữa các quy tắc đan chéo vào nhau ấy đã thiếu hụt đi rất nhiều thứ, chỉ có thể miễn cưỡng duy trì sự tồn tại.
+Nhìn lại toàn bộ lâu đài, tình hình cơ bản cũng chẳng có gì khác biệt so với viên đá trong tay hắn, đều chỉ có thể miễn cưỡng duy trì vận hành.
+“Sự cân bằng của tàn tích thế giới vốn dĩ đã vô cùng mong manh, sau khi bị ta dùng quy tắc phong ấn đoạt đi một phần trong đó thì đã cận kề bờ vực sụp đổ rồi!” Grimm nhìn tàn tích chỉ có thể miễn cưỡng duy trì vận hành trước mắt, tự nói.
+“Thế nhưng tàn tích thế giới nằm trên ranh giới sinh tử này lại bắt đầu dốc hết sức lực duy trì sự tồn tại của bản thân, tất cả quy tắc đều đã hiển lộ ra ngoài rồi!”
+Tiến vào bên trong lâu đài, Grimm bắt đầu quan sát kỹ lưỡng cấu tạo của từng ngóc ngách, không bỏ sót bất kỳ một chi tiết nhỏ nào.
+Bảy ngày sau, Grimm lại xuất hiện ở bên ngoài lâu đài.
+“Quy tắc trong tàn tích này đã được thu thập hoàn chỉnh, đến lúc rời đi rồi!”
+Grimm nhìn tòa lâu đài rách nát đổ nát, dứt khoát quay người rời đi, không có một chút do dự nào.
+Đi trên con đường xuống núi, Grimm mở giao diện của chip ra, kiểm tra thành quả thu hoạch của mình.
+“Kiểm tra tiến độ của tất cả các mô hình quy tắc!” Grimm thầm nói với chip!
+［Tự mình lĩnh hội quy tắc: Thời gian: 3.25%, Không gian: 6.54%］
+［Quy tắc huyết mạch: Mặt trời: 14.25% (98%), Mặt trăng: 14.24% (88%), Tinh không: 14.52% (83%), Cực quang (quy tắc vách ngăn): 14.42% (87%), Bầu trời (quy tắc bầu trời còn lại): 15.55% (81%)］
+Khoảng thời gian ngắn ngủi vỏn vẹn bảy ngày, hầu như tất cả quy tắc đều tăng thêm 1 ~ 2%, tuyệt đối là một tiến độ khó lòng tưởng tượng nổi.
+Nhìn kết quả phản hồi từ chip, gương mặt Grimm vẽ nên một nụ cười mỉm. Tuy trông có vẻ chỉ tăng một hai phần trăm tiến độ, nhưng bình thường mà nói, một vu sư thông thường muốn đạt được tiến độ như vậy, nếu không bỏ ra một hai trăm năm thí nghiệm thì căn bản không thể có được thành quả này.
+Thế thậm chí nếu vận khí không tốt, thành quả thu được còn tệ hại hơn.
+“Tiếp theo chính là tìm kiếm tàn tích thế giới mới, tiếp tục thúc đẩy tiến độ mô hình quy tắc!”
+Bóng dáng Grimm chìm vào trong sương mù xám, tiếp tục thám hiểm.
+……
+Một năm sau.
+Grimm mặc giáp da lại một lần nữa dung hợp cùng một chỗ với Grimm bạch bào.
+“Ách a!”
+Grimm hoàn tất dung hợp đứng dậy từ mặt đất, hai tay giơ cao vươn vai một cái. Suốt thời gian một năm này, Grimm hầu như luôn tiến hành tìm kiếm trong Khu Vực Sương Mù Xám, căn bản không hề nghỉ ngơi một chút nào.
+Dù sao cơ hội như vậy rất hiếm có, Grimm chắc chắn phải nắm chắc thời cơ, không lãng phí bất kỳ một chút thời gian nào.
+“Chip, kiểm tra tiến độ của mô hình quy tắc!”
+［Tự mình xây dựng mô hình quy tắc: Thời gian: 7.23%, Không gian: 12.45%］
+［Mô hình quy tắc huyết mạch: Mặt trời: 26.25% (98%), Mặt trăng: 25.69% (88%), Tinh không: 25.54% (83%), Cực quang (quy tắc vách ngăn): 26.72% (87%), Bầu trời (quy tắc bầu trời còn lại): 25.45% (81%)］
+“Chỉ trong vòng một năm ngắn ngủi mà có thể có được thu hoạch khổng lồ đến thế, nếu để các vu sư của học viện Linh Hồn thượng cổ biết được, tuyệt đối tất cả các vu sư đều sẽ điên cuồng lao vào Khu Vực Sương Mù Xám!”
+Grimm dùng giọng điệu trêu đùa nói, thế nhưng ánh mắt nhìn về phía Khu Vực Sương Mù Xám lại tràn đầy sự kiêng dè.
+“Chip, kiểm tra quy tắc đặc thù: Áp chế sức mạnh siêu phàm!” Liếc mắt nhìn làn sương đen, Grimm thầm nói trong lòng.
+Giao diện của chip chuyển đổi, một dòng chữ đặc biệt được bôi đỏ xuất hiện trên màn hình.
+［Mô hình quy tắc đặc thù: Mô hình quy tắc cân bằng sức mạnh: 100%］
+Cuộc thám hiểm trong suốt một năm này không hoàn toàn là xuôi chèo mát mái, Grimm cũng gặp phải khá nhiều vấn đề, thậm chí có những rắc rối khiến phân thân của Grimm rơi vào tuyệt cảnh, nhiều lần cận kề cái chết.
+Tuy vậy đường lui Grimm chuẩn bị rất nhiều, đại đa số trường hợp đều có thể chạy thoát, chỉ có cực kỳ ít nguy cơ, hoặc có thể nói là một lần nguy cơ nào đó đã đẩy Grimm vào cảnh bước đường cùng.
+Nghĩ tới thứ mà bản thân bắt gặp trong tàn tích thế giới ở một thị trấn đổ nát khi đó, Grimm đến tận bây giờ vẫn còn cảm thấy sợ hãi.
+Thuở đầu khi Grimm đang thám hiểm, hắn đã bước vào một thị trấn nhỏ.
+Những ngôi nhà của thị trấn nhỏ đó đều nằm ở hai bên con đường đá vụn chạy ngang qua thị trấn.
+Grimm bước vào thám hiểm một căn phòng trong số đó thì đụng phải một bóng người màu trắng quỷ dị. Bóng người màu trắng ấy xuất hiện ngay phía sau Grimm lúc hắn vừa thám hiểm xong căn phòng và chuẩn bị rời đi.
+Bóng người màu trắng đó, toàn thân phảng phất như được cắt dán bằng nhiều lớp giấy trắng xếp chồng lên nhau, không có mắt, không có miệng, trên dưới cả người chỉ có hai hốc mắt màu đen trống rỗng.
+Lúc Grimm quay đầu bốn mắt nhìn nhau với thứ kia, chỉ cảm thấy lồng ngực buồn bực bứt rứt, phảng phất như sắp nổ tung ra.
+Sức mạnh trong tinh thần và linh hồn bị áp chế hoàn toàn, thậm chí ngay cả sức mạnh quy tắc cũng không thể huy động, tố chất cơ thể siêu phàm cũng ngay lập tức biến thành một người bình thường.
+Cảm giác buồn nôn khó chịu truyền ra từ tận đáy lòng, trực tiếp vọt thẳng lên từ dạ dày của hắn, cơ bắp toàn thân run rẩy, co rút đau đớn, khiến Grimm cảm thấy bản thân giống như lại trở thành một người bình thường.
+Grimm vẫn còn nhớ rõ, khi đó hắn thậm chí có thể cảm giác được đôi mắt của mình muốn lồi ra khỏi hốc mắt, mạch máu phải chịu áp lực khổng lồ, như thể có thể đột phá sự trói buộc rồi nổ tung bất cứ lúc nào.
+Một nỗi sợ hãi vô hình bao trùm lấy hắn, khiến hắn hoàn toàn đánh mất sự kiểm soát đối với cơ thể của mình.
+“May mà chip có thể trực tiếp thông qua linh hồn của ta để điều khiển cơ thể, nếu không thì phân thân này đã tiêu đời rồi!”
+Bóng người màu trắng ở thị trấn nhỏ đó cực kỳ quái dị, sức mạnh về bản chất vô cùng yếu ớt, chẳng khác gì thể chất của một người bình thường. Thế nhưng loại năng lực có thể áp chế mọi sức mạnh khác, cũng như khi đối phương nhìn thấy cơ thể mình liền khiến tâm trí của họ rơi vào trạng thái cực độ sợ hãi, tuyệt đối là một chiêu sát thủ hiểm độc ngay từ lần đầu chạm trán.
+Grimm chính là bị loại sức mạnh đó khống chế, hoàn toàn không cách nào điều khiển được thân thể mình.
+Nhưng cũng may chip trong tình trạng khẩn cấp đã trực tiếp tiếp quản cơ thể Grimm, lách qua năng lực khống chế của bóng trắng kia, thông qua kỹ năng cận chiến siêu đẳng, chỉ ba đấm hai đá đã lập tức đánh ngã bóng người màu trắng đó, giải trừ loại lực ức chế kia.
+Quy tắc đặc thù mà chip ghi lại này chính là thu được sau khi Grimm đánh bại bóng người màu trắng đó. Nó không phải đến từ ghi chép của chip, mà là trực tiếp tràn vào trong óc của Grimm.
+Đây là mô hình quy tắc duy nhất mà Grimm hoàn thành xây dựng, đơn giản đến mức ngay cả bản thân hắn cũng khó mà tin nổi.
+Bản chất của quy tắc này cũng dần dần được Grimm làm sáng tỏ. Quy tắc mà bóng người màu trắng mang theo không phải là ức chế sức mạnh của cả hai bên, mà là khiến sức mạnh của đôi bên nằm ở cùng một mức độ, mức độ này do người giải phóng quyết định.
+Mức độ của người giải phóng khi quy tắc này có hiệu lực thì sức mạnh của đối phương cũng sẽ giảm xuống hoặc tăng lên tới cùng một cấp bậc.
+Bóng người màu trắng đó chỉ sở hữu tố chất cơ thể của người bình thường, cùng với phép răn đe sợ hãi cấp thấp nhất.
+Sức mạnh cơ thể của Grimm hoàn toàn bị giới hạn ở cùng một mức độ với đối phương. Vốn dĩ theo quy tắc bình thường, Grimm nên có năng lực phản kháng, đáng lẽ có thể phóng ra một hai quả cầu lửa.
+Nhưng rắc rối ở chỗ Grimm đang nằm trong Khu Vực Sương Mù Xám. Khu Vực Sương Mù Xám không hề áp chế bóng người màu trắng, nhưng lại có sự áp chế nhất định đối với Grimm. Hơn nữa Grimm còn trúng chiêu trước, trực tiếp trúng phải phép răn đe sợ hãi, căn bản không thể kiểm soát nổi cơ thể của mình, bởi vậy mới rơi vào tình cảnh gần như hoàn toàn không cách nào chống cự.
+Sau khi giải quyết đối phương dưới sự trợ giúp của chip, Grimm đánh một dấu ký hiệu rồi dứt khoát rời khỏi thị trấn nhỏ đó.
+Thị trấn nhỏ đó rủi ro thực sự quá cao, con quái vật đầu tiên chạm mặt suýt chút nữa đã lấy đi mạng sống của hắn.
+Dù kết quả cuối cùng thu hoạch được một mô hình quy tắc hoàn chỉnh, nhưng Grimm vẫn cảm thấy không nên mạo hiểm. Thứ đó quá quỷ dị, nếu như có thể lan truyền rồi ảnh hưởng tới bản thể ở thế giới ngoài thì mới thật sự là lợi bất cập hại.
+“Thế nhưng, đây cũng có thể coi là một quân bài tẩy!” Gương mặt Grimm nở một nụ cười âm trầm.
+Khi gặp phải kẻ địch thực sự đánh không lại, Grimm có thể sử dụng mô hình quy tắc này để cân bằng sức mạnh của đôi bên.
+Chỉ cần Grimm đè nén sức mạnh của bản thân xuống mức người bình thường, đối phương tuyệt đối không thể nào chiến thắng được hắn.
+Dưới tố chất cơ thể bình thường, chip điều khiển thân thể Grimm chiến đấu có thể xưng là nam nhân đứng ở đỉnh tầng khí quyển.

@@ -896,6 +896,30 @@
       "name_target": "Vĩnh Hằng Hàn Ý",
       "type": "technique",
       "description": "Vu thuật tổ hợp thiên phú bốn tầng tối chung của Ginia, có khả năng đóng băng động lực của mọi vật chất xung quanh, uy lực tương đương đòn tấn công của vu sư cấp năm."
+    },
+    {
+      "name_source": "精神力封闭防御",
+      "name_target": "phòng ngự phong tỏa tinh thần lực",
+      "type": "technique",
+      "description": "Môn vu thuật phòng ngự tinh thần do Grimm sáng chế để chống lại sự ký sinh của tộc Mê Mộng Chi Ảnh."
+    },
+    {
+      "name_source": "空间牵引",
+      "name_target": "kéo dắt không gian",
+      "type": "technique",
+      "description": "Vu thuật kéo dắt không gian bản cải tiến của Grimm giúp di chuyển hoặc kéo ngược linh hồn từ vùng không gian hỗn loạn về bản thể bạch bào."
+    },
+    {
+      "name_source": "力量平衡规则模型",
+      "name_target": "Mô hình quy tắc cân bằng sức mạnh",
+      "type": "technique",
+      "description": "Mô hình quy tắc hoàn chỉnh giúp ép sức mạnh của đối thủ và bản thân về cùng một cấp độ do người sử dụng quyết định."
+    },
+    {
+      "name_source": "灵魂探查术",
+      "name_target": "Linh Hồn Thám Tra Thuật",
+      "type": "technique",
+      "description": "Một loại vu thuật dò xét thượng cổ của học viện Linh Hồn dùng để truy quét gián điệp dị thế giới bằng cách phát hiện các dị thường trong linh hồn mà không chạm tới ký ức."
     }
   ],
   "cultivation_systems": [],
@@ -1473,6 +1497,42 @@
       "name_target": "đại lục biên duyên",
       "type": "location",
       "description": "Mảnh đại lục hoang vu rộng tương đương Trái Đất nằm ở rìa thế giới Song Nguyệt, được các vu sư chọn làm nơi diễn ra trận chiến giữa các vu sư cấp bốn."
+    },
+    {
+      "name_source": "死亡区域",
+      "name_target": "Khu Vực Tử Vong",
+      "type": "location",
+      "description": "Vùng đất chết chóc ngập tràn vong linh, ác linh và năng lượng tiêu cực trên tuyến hàng hải đi Trung bộ."
+    },
+    {
+      "name_source": "世界诅咒区域",
+      "name_target": "Khu Vực Lời Nguyền Thế Giới",
+      "type": "location",
+      "description": "Vành đai nguy hiểm bao bọc xung quanh khu vực Trung bộ, chứa nhiều lời nguyền và hiện tượng quỷ dị phi thường."
+    },
+    {
+      "name_source": "灰雾区",
+      "name_target": "Khu Vực Sương Mù Xám",
+      "type": "location",
+      "description": "Khu vực bị sương mù xám dày đặc bao phủ trên tuyến đường thám hiểm Trung bộ, là nơi sinh sống của tộc quần Mê Mộng Chi Ảnh."
+    },
+    {
+      "name_source": "城堡",
+      "name_target": "Lâu đài trên đỉnh đồi",
+      "type": "location",
+      "description": "Tòa lâu đài khổng lồ bằng đá xám đen phủ băng xanh lam nhạt nằm trên đỉnh đồi trọc thuộc Khu Vực Sương Mù Xám, chứa thư viện cổ xưa."
+    },
+    {
+      "name_source": "瑟兰达",
+      "name_target": "Seranda",
+      "type": "location",
+      "description": "Lãnh địa cổ xưa với tên đầy đủ Seranda, nổi tiếng với sức mạnh ánh sáng bảo vệ lãnh địa vĩnh hằng."
+    },
+    {
+      "name_source": "废墟小镇",
+      "name_target": "thị trấn đổ nát",
+      "type": "location",
+      "description": "Một tàn tích thế giới nhỏ trong Khu Vực Sương Mù Xám, nơi Grimm đụng độ bóng trắng quỷ dị."
     }
   ],
   "world_map": {
@@ -1976,6 +2036,18 @@
       "name_source": "音波炮",
       "name_target": "pháo sóng âm",
       "description": "Vũ khí âm thanh được phóng ra từ tai của quái vật nghìn tai khổng lồ, có khả năng hấp thụ và nén âm thanh xung quanh thành luồng sóng âm cực mạnh oanh kích đối phương."
+    },
+    {
+      "name_source": "开拓者",
+      "name_target": "Khai Phá Giả",
+      "type": "item",
+      "description": "Chiếc phi thuyền khổng lồ dài hơn 1000m do Grimm chế tạo dựa trên bản vẽ thượng cổ được tối ưu hóa bằng chip."
+    },
+    {
+      "name_source": "圣光净化药剂",
+      "name_target": "dược tể tịnh hóa Thánh Quang",
+      "type": "item",
+      "description": "Dược tể thượng cổ được Grimm phục dựng, có tác dụng phục hồi linh hồn bị ăn mòn bởi năng lượng tiêu cực."
     }
   ]
 }
