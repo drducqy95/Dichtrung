@@ -336,3 +336,4 @@
 - Chương 0334: Chương 334: Giành người
 - Chương 0335: Chương 335: Lời mời của các thế lực miền Trung
 - Chương 0336: Chương 336: Gia nhập
+- Chương 0337: Chương 337: Ký kết khế ước

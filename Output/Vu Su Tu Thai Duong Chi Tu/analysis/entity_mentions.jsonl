@@ -3789,3 +3789,12 @@
 {"chapter_id": "chapter_0336", "source_surface": "精神力", "target_surface": "tinh thần lực", "entity_type": "cultivation_resources", "segment_id": "chapter_0336:seg_0001", "confidence": 1.0}
 {"chapter_id": "chapter_0336", "source_surface": "符文", "target_surface": "phù văn", "entity_type": "cultivation_resources", "segment_id": "chapter_0336:seg_0001", "confidence": 1.0}
 {"chapter_id": "chapter_0336", "source_surface": "净化药剂", "target_surface": "dược tể tịnh hóa", "entity_type": "items", "segment_id": "chapter_0336:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0337", "source_surface": "战争", "target_surface": "War", "entity_type": "person", "segment_id": "chapter_0337:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0337", "source_surface": "格林", "target_surface": "Grimm", "entity_type": "person", "segment_id": "chapter_0337:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0337", "source_surface": "索恩", "target_surface": "Thorn", "entity_type": "person", "segment_id": "chapter_0337:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0337", "source_surface": "塞勒斯特尼尔学院", "target_surface": "Học viện Celestneil", "entity_type": "factions", "segment_id": "chapter_0337:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0337", "source_surface": "巫术", "target_surface": "vu thuật", "entity_type": "techniques", "segment_id": "chapter_0337:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0337", "source_surface": "药剂学", "target_surface": "Dược tể học", "entity_type": "techniques", "segment_id": "chapter_0337:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0337", "source_surface": "传送阵", "target_surface": "trận pháp truyền tống", "entity_type": "techniques", "segment_id": "chapter_0337:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0337", "source_surface": "灰雾区", "target_surface": "Khu Vực Sương Mù Xám", "entity_type": "locations", "segment_id": "chapter_0337:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0337", "source_surface": "城堡", "target_surface": "Lâu đài trên đỉnh đồi", "entity_type": "locations", "segment_id": "chapter_0337:seg_0001", "confidence": 1.0}

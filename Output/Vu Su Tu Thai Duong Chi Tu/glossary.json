@@ -3,8 +3,8 @@
     "version": "2.0",
     "schema": "gold",
     "branch": "Vu Su Tu Thai Duong Chi Tu",
-    "last_updated": "2026-06-04T05:57:57.071725+07:00",
-    "total_entries": 1738
+    "last_updated": "2026-06-04T05:59:48.244719+07:00",
+    "total_entries": 1740
   },
   "entries": [
     {
@@ -20907,6 +20907,26 @@
       "context": "",
       "confidence": "medium",
       "notes": "Một loại dược tể cấp bốn có công hiệu loại bỏ tạp chất trong linh hồn.",
+      "locked": false
+    },
+    {
+      "source": "天空之城",
+      "source_language": "zh",
+      "target": "Thiên Không Chi Thành",
+      "category": "location",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Thành phố bay/pháo đài bay và phòng thí nghiệm di động của các vu sư cấp sáu.",
+      "locked": false
+    },
+    {
+      "source": "审判之眼",
+      "source_language": "zh",
+      "target": "Con Mắt Thẩm Phán",
+      "category": "entity",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Tồn tại vĩ đại trong hư không đại diện cho quy tắc và chứng giám các khế ước.",
       "locked": false
     }
   ]

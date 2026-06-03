@@ -1680,6 +1680,11 @@
       "name_source": "卡波洛斯城",
       "name_target": "thành Cabolos",
       "description": "Thành phố biên giới đóng vai trò đón tiếp các vu sư ngoại lai tiến vào miền Trung."
+    },
+    {
+      "name_source": "天空之城",
+      "name_target": "Thiên Không Chi Thành",
+      "description": "Pháo đài bay lơ lửng trên bầu trời của các vu sư cấp sáu, đóng vai trò là cốt lõi phòng thí nghiệm và là yếu tắc trong chiến tranh thế giới."
     }
   ],
   "world_map": {
@@ -2217,6 +2222,11 @@
       "name_source": "灵魂净化药剂",
       "name_target": "dược tể tịnh hóa linh hồn",
       "description": "Loại dược tể cấp bốn có tác dụng tịnh hóa, loại bỏ tạp chất khỏi linh hồn của vu sư cấp bốn."
+    },
+    {
+      "name_source": "审判之眼",
+      "name_target": "Con Mắt Thẩm Phán",
+      "description": "Tồn tại vĩ đại trong hư không thực thi quyền năng thẩm phán và chứng giám khế ước."
     }
   ]
 }

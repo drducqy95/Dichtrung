@@ -1,5 +1,5 @@
 {
-  "completed_chapters": 336,
+  "completed_chapters": 337,
   "total_chapters": 915,
   "chapters": [
     {
@@ -2020,9 +2020,9 @@
     },
     {
       "chapter_number": 337,
-      "title": "第337章 契约签订",
-      "status": "PENDING",
-      "last_updated": null
+      "title": "Chương 337: Ký kết khế ước",
+      "status": "DONE",
+      "last_updated": "2026-06-04T05:59:48.260515+07:00"
     },
     {
       "chapter_number": 338,
@@ -5493,7 +5493,7 @@
       "last_updated": null
     }
   ],
-  "last_updated": "2026-06-04T05:57:57+07:00",
+  "last_updated": "2026-06-04T05:59:48+07:00",
   "workflow_artifacts": {
     "branch_readme": "README.md",
     "converter_db_ready": true,
