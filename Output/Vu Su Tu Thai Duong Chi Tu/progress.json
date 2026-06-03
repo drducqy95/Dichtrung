@@ -1,5 +1,5 @@
 {
-  "completed_chapters": 288,
+  "completed_chapters": 289,
   "total_chapters": 915,
   "chapters": [
     {
@@ -1732,9 +1732,9 @@
     },
     {
       "chapter_number": 289,
-      "title": "第289章 属性提升",
-      "status": "PENDING",
-      "last_updated": null
+      "title": "Chương 289: Thuộc tính tăng lên",
+      "status": "DONE",
+      "last_updated": "2026-06-03T16:20:20.329949+07:00"
     },
     {
       "chapter_number": 290,
@@ -5493,7 +5493,7 @@
       "last_updated": null
     }
   ],
-  "last_updated": "2026-06-03T15:50:43+07:00",
+  "last_updated": "2026-06-03T16:20:20+07:00",
   "workflow_artifacts": {
     "branch_readme": "README.md",
     "converter_db_ready": true,

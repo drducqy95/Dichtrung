@@ -2864,3 +2864,13 @@
 {"chapter_id": "chapter_0288", "source_term": "图书馆", "target_term": "Thư Viện", "segment_id": "chapter_0288:seg_0001", "present_in_target": true, "is_locked": true, "category": "location", "confidence": 1.0}
 {"chapter_id": "chapter_0288", "source_term": "信仰之力", "target_term": "sức mạnh tín ngưỡng", "segment_id": "chapter_0288:seg_0001", "present_in_target": true, "is_locked": true, "category": "cultivation", "confidence": 1.0}
 {"chapter_id": "chapter_0288", "source_term": "千耳怪", "target_term": "quái vật nghìn tai", "segment_id": "chapter_0288:seg_0001", "present_in_target": true, "is_locked": false, "category": "beast", "confidence": 1.0}
+{"chapter_id": "chapter_0289", "source_term": "真理", "target_term": "Chân Lý", "segment_id": "chapter_0289:seg_0001", "present_in_target": true, "is_locked": true, "category": "technology", "confidence": 1.0}
+{"chapter_id": "chapter_0289", "source_term": "精神力", "target_term": "tinh thần lực", "segment_id": "chapter_0289:seg_0001", "present_in_target": true, "is_locked": true, "category": "cultivation", "confidence": 1.0}
+{"chapter_id": "chapter_0289", "source_term": "巫术", "target_term": "vu thuật", "segment_id": "chapter_0289:seg_0001", "present_in_target": true, "is_locked": true, "category": "cultivation", "confidence": 1.0}
+{"chapter_id": "chapter_0289", "source_term": "白巫师", "target_term": "Bạch vu sư", "segment_id": "chapter_0289:seg_0001", "present_in_target": true, "is_locked": true, "category": "faction", "confidence": 1.0}
+{"chapter_id": "chapter_0289", "source_term": "黑巫师", "target_term": "Hắc vu sư", "segment_id": "chapter_0289:seg_0001", "present_in_target": true, "is_locked": true, "category": "faction", "confidence": 1.0}
+{"chapter_id": "chapter_0289", "source_term": "白巫", "target_term": "Bạch Vu", "segment_id": "chapter_0289:seg_0001", "present_in_target": true, "is_locked": true, "category": "faction", "confidence": 1.0}
+{"chapter_id": "chapter_0289", "source_term": "度", "target_term": "độ", "segment_id": "chapter_0289:seg_0001", "present_in_target": true, "is_locked": true, "category": "unit", "confidence": 1.0}
+{"chapter_id": "chapter_0289", "source_term": "千耳怪", "target_term": "quái vật nghìn tai", "segment_id": "chapter_0289:seg_0001", "present_in_target": true, "is_locked": false, "category": "beast", "confidence": 1.0}
+{"chapter_id": "chapter_0289", "source_term": "灵魂浸润药剂", "target_term": "dược tể tẩm nhuận linh hồn", "segment_id": "chapter_0289:seg_0001", "present_in_target": true, "is_locked": false, "category": "item", "confidence": 1.0}
+{"chapter_id": "chapter_0289", "source_term": "千眼怪", "target_term": "quái vật nghìn mắt", "segment_id": "chapter_0289:seg_0001", "present_in_target": true, "is_locked": false, "category": "beast", "confidence": 1.0}
