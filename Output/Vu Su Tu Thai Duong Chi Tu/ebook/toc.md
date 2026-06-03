@@ -324,3 +324,4 @@
 - Chương 0322: Chương 322: Một năm thu hoạch
 - Chương 0323: Chương 323: Tập kích
 - Chương 0324: Chương 324: Ra tay với tộc Ác Mộng
+- Chương 0325: Chương 325: Dịch bệnh linh hồn

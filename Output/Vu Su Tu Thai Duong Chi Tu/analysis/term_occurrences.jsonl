@@ -3153,3 +3153,8 @@
 {"chapter_id": "chapter_0324", "source_term": "迷梦之影", "target_term": "Mê Mộng Chi Ảnh", "segment_id": "chapter_0324:seg_0001", "present_in_target": true, "is_locked": false, "category": "creature", "confidence": 1.0}
 {"chapter_id": "chapter_0324", "source_term": "灰雾区", "target_term": "Khu Vực Sương Mù Xám", "segment_id": "chapter_0324:seg_0001", "present_in_target": true, "is_locked": true, "category": "location", "confidence": 1.0}
 {"chapter_id": "chapter_0324", "source_term": "噩梦一族", "target_term": "tộc Ác Mộng", "segment_id": "chapter_0324:seg_0001", "present_in_target": true, "is_locked": false, "category": "other", "confidence": 1.0}
+{"chapter_id": "chapter_0325", "source_term": "精神力", "target_term": "tinh thần lực", "segment_id": "chapter_0325:seg_0001", "present_in_target": true, "is_locked": true, "category": "cultivation", "confidence": 1.0}
+{"chapter_id": "chapter_0325", "source_term": "巫术", "target_term": "vu thuật", "segment_id": "chapter_0325:seg_0001", "present_in_target": true, "is_locked": true, "category": "cultivation", "confidence": 1.0}
+{"chapter_id": "chapter_0325", "source_term": "度", "target_term": "độ", "segment_id": "chapter_0325:seg_0001", "present_in_target": true, "is_locked": true, "category": "unit", "confidence": 1.0}
+{"chapter_id": "chapter_0325", "source_term": "飞艇", "target_term": "phi thuyền", "segment_id": "chapter_0325:seg_0001", "present_in_target": true, "is_locked": true, "category": "transport", "confidence": 1.0}
+{"chapter_id": "chapter_0325", "source_term": "灵魂本源", "target_term": "bản nguyên linh hồn", "segment_id": "chapter_0325:seg_0001", "present_in_target": true, "is_locked": true, "category": "cultivation_resources", "confidence": 1.0}

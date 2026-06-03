@@ -1,0 +1,61 @@
+# Chương 0325: Chương 325: Dịch bệnh linh hồn
+
+Chương 325: Dịch bệnh linh hồn
+Cùng với sự rời đi của Grimm, các vu sư tại hiện trường nhanh chóng tiến vào bên trong phi thuyền!
+Trong thời gian tiếp theo, Grimm đi theo hướng chỉ dẫn của chip, nhanh chóng bay về phía lãnh thổ của tộc Ác Mộng.
+Phong cảnh bên dưới nhanh chóng lùi lại phía sau, Grimm đang bay lượn trên bầu trời đã ẩn giấu đi thân hình của mình, không hề dẫn phát bất kỳ chấn động nào.
+Khoảng cách mười nghìn km đối với vu sư cấp bốn mà nói là cực kỳ gần, chưa kể tốc độ của Grimm vốn dĩ đã là một trong số những người đứng đầu giới vu sư.
+Nhanh chóng bay đến không trung phía trên mục tiêu, Grimm nhìn cánh rừng nguyên sinh bên dưới, tinh thần lực quét qua trực tiếp đi sâu vào lòng đất.
+Tộc Ác Mộng là loài sinh vật ghét ánh sáng, do đó lãnh thổ của tộc quần nằm ở dưới lòng đất.
+Theo sự quét qua của tinh thần lực, Grimm cảm nhận được tuyệt đại bộ phận tộc Ác Mộng vẫn đang sinh hoạt như thường lệ, có vẻ như những cư dân bình thường này chưa nhận được tin tức gì.
+Cùng với sự cảm nhận của Grimm liên tục khuếch tán, trong số những tộc nhân Ác Mộng này, có một phần cực kỳ nhỏ các cá thể đang rời xa tộc quần của mình, thậm chí xung quanh cơ thể của bọn họ còn có thuật thức chuyên môn che chắn sự dò xét của vu sư.
+“Dao động thật cổ xưa, tộc Ác Mộng cho rằng vu sư cũng giống như bọn họ, sau khi suy thoái sẽ không có bất kỳ tiến bộ nào sao?” Grimm cảm thán một câu, sau đó nhắm mắt lại.
+Grimm không chuẩn bị tiến hành hủy diệt bằng bạo lực, tộc Ác Mộng đã sớm chạy trốn trước, bây giờ ra tay cũng chưa chắc có thể tiêu diệt hoàn toàn đối phương.
+Dù sao đây cũng là một chủng tộc cổ xưa, hơn nữa còn sinh tồn rất lâu trong khu vực tàn tích thế giới, mật bảo thu hoạch được chắc chắn không chỉ có một kiện.
+Thủ đoạn của vu sư muôn hình vạn trạng, đối mặt với loại tộc quần không có cường giả thế này, ngược lại có một phương pháp là đơn giản nhất, không chỉ có thể bảo đảm an toàn cho bản thân, không cần tiến hành chiến đấu trực tiếp, mà còn có thể bảo đảm tiêu diệt sạch sẽ hoàn toàn.
+“Dịch Bệnh Linh Hồn!” Grimm khẽ lẩm nhẩm trong miệng.
+Xì xì...
+Từ từ, Grimm đang trôi lơ lửng trên bầu trời bắt đầu liên tục rỉ ra từng sợi khói đen từ khắp toàn thân.
+Những sợi khói đen này không ngừng hội tụ, ngưng tụ trước mặt Grimm, rất nhanh sau đó một quái vật bộ xương cấu thành từ khói đen đang nhe răng múa vuốt xuất hiện ở phía sau Grimm.
+Quái vật bộ xương màu đen này cao tới hơn hai mét, chiếc cổ khổng lồ phân tách ra ba cái đầu lâu có hình dáng đầu gấu, đầu cừu, đầu hổ, mỗi một cái đầu lâu đều sáng lên đôi mắt đỏ lòm, ba cặp cánh tay xương người siêu dài đang liên tục múa may trong không khí, cái đuôi có mọc gai xương khổng lồ ở đầu nhọn quất qua không khí tạo ra những tiếng vút vút vang dội, khói đen liên tục bốc ra từ trên xương cốt của bộ xương, sự ác ý trên người đầu lâu đang không ngừng lan tràn ra xung quanh.
+“Nhân danh sự báo thù, ban cho ngươi năng lực truy lùng tộc Ác Mộng!”
+Grimm đọc khẽ câu nói này, sau đó nâng tay trái lên, con muỗi khổng lồ màu xám xanh kia một lần nữa bò ra từ trong tay của Grimm, trực tiếp bay tới bên cạnh quái vật bộ xương ba đầu màu đen.
+Nhìn thấy con muỗi khổng lồ màu xám xanh bay tới bên cạnh mình, đầu cừu đột nhiên há to miệng, đầu lâu trong nháy mắt vươn dài ra, một ngụm nuốt chửng con muỗi khổng lồ màu xám xanh vào trong bụng.
+“Hãy săn lùng toàn bộ những sinh vật mang bản nguyên linh hồn loại này!”
+Grimm khẽ híp đôi mắt, câu nói đơn giản mang theo sự lạnh lùng vô hạn. Vận mệnh của một chủng tộc vào khoảnh khắc này đã bị tuyên án.
+Theo mệnh lệnh của Grimm, cả ba cái đầu của quái vật bộ xương đều phát ra một tiếng gầm rú, sau đó khói đen cuồn cuộn, đầu lâu màu đen trực tiếp nổ tung tại chỗ, hóa thành từng sợi khói đen nhanh chóng bay về phía mặt đất bên dưới.
+Chờ đến khi mọi thứ lắng xuống, khói đen hoàn toàn thấm sâu vào lòng đất.
+“Dịch bệnh linh hồn chỉ là một vu thuật nguyền rủa cấp bốn thông thường, nhưng đã đi dạo trong khu vực tàn tích thế giới lâu như vậy, mô hình quy tắc nguyền rủa cũng có 12% tiến độ, gia trì lên trên vu thuật cấp bốn, không biết sẽ có hiệu quả như thế nào.”
+Trong lòng Grimm có chút mong đợi, còn về việc chủng tộc Ác Mộng sẽ thương vong bao nhiêu thì hoàn toàn không nằm trong phạm vi cân nhắc của Grimm.
+Ba ngày sau!
+Trong lãnh thổ của tộc Ác Mộng đã hoàn toàn bị bao trùm bởi sự tuyệt vọng.
+Kể từ sau khi Grimm phát động vu thuật nguyền rủa, dịch bệnh linh hồn liền lan tràn trong tộc Ác Mộng.
+Loại dịch bệnh linh hồn này sẽ xâm nhập vào linh hồn của tộc Ác Mộng, mà cổng kết nối để xâm nhập chính là thiên phú đồng hóa mà tộc Ác Mộng luôn tự hào.
+Năng lực vốn dĩ là chỗ dựa để sinh tồn của tộc Ác Mộng giờ đây lại biến thành cổng kết nối giúp dịch bệnh lây lan nhanh chóng.
+Loại dịch bệnh linh hồn này một khi tiến vào bên trong linh hồn của tộc Ác Mộng, trong lúc tiêu hao hồn lực của tộc Ác Mộng thì đồng thời còn liên tục gieo rắc dịch bệnh ra bên ngoài.
+Chỉ trong vòng chưa đầy ba ngày ngắn ngủi, dịch bệnh này đã lan rộng ra toàn bộ tộc Ác Mộng.
+Thành phố vốn dĩ được xây dựng dưới lòng đất nay đã thay đổi lớn, sự phồn hoa trước kia không còn tồn tại, thay vào đó là mùi hôi thối ghê tởm của sự thối rữa cùng với năng lượng tiêu cực nồng nặc bao quanh trên bầu trời thành phố.
+Hết thi thể này đến thi thể khác ngã gục bên lề đường, những con dòi màu đen biến dị dưới sự gặm nhấm của năng lượng tiêu cực đang liên tục luồn lách bên trong những thi thể này, một số con dòi đang không ngừng chui ra từ hốc mắt, lỗ mũi của thi thể.
+Da thịt của thi thể phập phồng lên xuống làm người ta không khỏi nổi da gà. Đủ loại côn trùng và sinh vật dưới lòng đất đang bò ra khỏi mặt đất, thưởng thức bữa tiệc thịnh soạn do những thi thể này mang lại.
+Những tộc nhân Ác Mộng còn sống sót cũng có thân hình gầy gò hốc hác, lang thang không mục đích trên đường phố. Do cơ chế trưởng thành đặc thù của tộc Ác Mộng, những người còn sống sót này phần lớn có hình dáng khác nhau, dã thú và các chủng tộc dạng người xuất hiện không ngớt.
+Thế nhưng những tộc nhân Ác Mộng đang lang thang trên đường này đều có một đặc điểm chung, đó là ở vùng trán của họ đều có ấn ký bộ xương đầu cừu, đầu gấu hoặc đầu hổ.
+Bọn họ đã bị nguyền rủa bởi dịch bệnh linh hồn của Grimm, tinh thần lực và linh hồn lúc nào cũng bị tiêu hao, rất nhanh sẽ đi đến điểm kết thúc.
+Toàn bộ thành phố đã hoàn toàn đi đến hồi kết, khoảng cách đến sự sụp đổ chỉ còn lại bước cuối cùng.
+Ngay chính giữa thành phố, bên trong một kiến trúc hình vành khuyên khổng lồ, các trưởng lão của tộc Ác Mộng đang tiến hành hội nghị trong một phòng họp bí mật.
+Mấy quả cầu màu đen khổng lồ tỏa ra dao động của vu sư cấp ba, sức mạnh liên kết với nhau hình thành nên một lớp màng bảo hộ màu đen nhạt, chống chọi với khói đen đang liên tục muốn thẩm thái vào từ bên ngoài.
+“Ngay từ đầu... ngay từ đầu ta đã nói rồi, đừng đi... đắc tội vu sư, bài học thời... thượng cổ còn chưa đủ sao? Giờ đây toàn bộ tộc Ác Mộng... đều xong đời rồi! Những hạt giống được gửi đi trước đó cũng...”
+Một trưởng lão tộc Ác Mộng vừa thở dốc vừa nói! Trong ánh mắt mang theo một tia đỏ ngầu và phẫn nộ, nhưng nhiều hơn cả là sự tuyệt vọng sâu sắc.
+“Haizz! Chỉ là một vu thuật nguyền rủa thông thường...”
+Một trưởng lão khác của tộc Ác Mộng cũng thở dài một tiếng thườn thượt, ý vị biểu đạt trong giọng điệu lại càng thêm tuyệt vọng hơn.
+“Bây giờ phải làm sao? Không thể cứ trơ mắt nhìn tộc Ác Mộng tiêu vong như thế này được! Sức mạnh của chúng ta cho dù có liên kết lại với nhau thì cũng không chống đỡ được bao lâu nữa!”
+“Liệu có thể liên lạc với vị vu sư kia không, tộc Ác Mộng chúng ta sẵn sàng trả cái giá lớn nhất cùng sự thành kính tối đa để cầu xin sự tha thứ của ngài ấy!”
+“Không có cách nào liên lạc được, vị vu sư kia thậm chí còn chưa từng lộ diện, chỉ là phóng ra một vu thuật mà thôi!”
+Trong lúc trao đổi, các trưởng lão của tộc Ác Mộng ngày càng trở nên im lặng. Bọn họ hoàn toàn không thể ngờ được sự việc lại phát triển đến mức độ này.
+Theo góc nhìn của bọn họ, kết quả đáng sợ nhất cũng chỉ là những kẻ cổ hủ như mình phải trả giá đắt, còn những hạt giống đã rời đi trước đó mang theo mật bảo trân quý của tộc quần sẽ một lần nữa dựng xây lại chủng tộc mà thôi.
+Nhưng thủ đoạn của Grimm hoàn toàn vượt ngoài sức tưởng tượng của bọn họ, chỉ là một vu thuật nguyền rủa tùy ý đã khiến toàn bộ tộc quần rơi vào cảnh ngộ diệt vong.
+Điều quan trọng nhất là không có bất kỳ phương pháp phản kháng nào, loại nguyền rủa vô hình đó không chỉ tiêu hao tinh thần và linh hồn của bọn họ, mà còn ngăn cản sự điều động sức mạnh của bọn họ, can nhiễu vào phương thức đối kháng của bọn họ.
+Trên bầu trời, tầm nhìn siêu phàm của Grimm xuyên thấu qua sự cản trở của bề mặt đất, lặng lẽ quan sát toàn bộ tình hình diễn ra của lời nguyền.
+“Lời nguyền thật mãnh liệt, có sự gia trì của mô hình quy tắc nguyền rủa, toàn bộ lời nguyền lại giống như một sinh vật sống vậy, sau khi lây nhiễm linh hồn của sinh vật sẽ ưu tiên phá hủy cơ chế phòng ngự, đồng thời ngăn cản các thủ đoạn điều động sức mạnh!”
+Grimm hít vào một hơi khí lạnh, trong lòng vô cùng kinh ngạc.
+Loại dịch bệnh linh hồn này một khi bị lây nhiễm thì giống như một loại virus có trí tuệ, xảo quyệt quỷ dị, không gì không xâm nhập được.
+Nếu như giai đoạn đầu không chuẩn bị đối phó tốt, để cho loại dịch bệnh này khuếch tán trong linh hồn thì tiếp theo chính là cái chết từ từ.
