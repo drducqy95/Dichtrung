@@ -335,3 +335,4 @@
 - Chương 0333: Chương 333: Vu thuật và minh tưởng pháp, vu thuật nghi thức
 - Chương 0334: Chương 334: Giành người
 - Chương 0335: Chương 335: Lời mời của các thế lực miền Trung
+- Chương 0336: Chương 336: Gia nhập

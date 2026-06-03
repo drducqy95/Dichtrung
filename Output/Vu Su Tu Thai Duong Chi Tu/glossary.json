@@ -3,8 +3,8 @@
     "version": "2.0",
     "schema": "gold",
     "branch": "Vu Su Tu Thai Duong Chi Tu",
-    "last_updated": "2026-06-04T05:55:58.142223+07:00",
-    "total_entries": 1736
+    "last_updated": "2026-06-04T05:57:57.071725+07:00",
+    "total_entries": 1738
   },
   "entries": [
     {
@@ -20887,6 +20887,26 @@
       "context": "",
       "confidence": "medium",
       "notes": "Biệt hiệu của Motros, vu sư cấp sáu.",
+      "locked": false
+    },
+    {
+      "source": "双向实时传送阵",
+      "source_language": "zh",
+      "target": "trận pháp truyền tống hai chiều thời gian thực",
+      "category": "technique",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Loại trận pháp truyền tống hai chiều thời gian thực do Liên Minh Truy Tìm Chân Lý phát triển.",
+      "locked": false
+    },
+    {
+      "source": "灵魂净化药剂",
+      "source_language": "zh",
+      "target": "dược tể tịnh hóa linh hồn",
+      "category": "item",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một loại dược tể cấp bốn có công hiệu loại bỏ tạp chất trong linh hồn.",
       "locked": false
     }
   ]
