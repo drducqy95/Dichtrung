@@ -326,3 +326,4 @@
 - Chương 0324: Chương 324: Ra tay với tộc Ác Mộng
 - Chương 0325: Chương 325: Dịch bệnh linh hồn
 - Chương 0326: Chương 326: Phi thuyền tiến vào Khu Vực Sương Mù Xám
+- Chương 0327: Chương 327: Tự cường hóa bản thân
