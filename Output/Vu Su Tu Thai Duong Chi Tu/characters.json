@@ -3,8 +3,8 @@
     "version": "2.0",
     "schema": "gold",
     "branch": "Vu Su Tu Thai Duong Chi Tu",
-    "last_updated": "2026-06-04T05:20:21.860155+07:00",
-    "total_characters": 424
+    "last_updated": "2026-06-04T05:23:12.076779+07:00",
+    "total_characters": 426
   },
   "characters": [
     {
@@ -7799,6 +7799,82 @@
       "status": "active",
       "appearance": {
         "physical": "Một vu sư trung niên ở thành Cabolos, bị áp chế bởi lão vu sư hắc bào.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "克克莉娅",
+      "name_target": "Kekelia",
+      "name_aliases": [],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "wizard",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Nữ vu sư tiên tri ở thành Cabolos, bị phản phệ dữ dội khi tiên tri về Grimm.",
+        "style": "",
+        "distinctive": ""
+      },
+      "personality": {
+        "traits": [],
+        "speech": ""
+      },
+      "notes": ""
+    },
+    {
+      "id": "",
+      "name_source": "佩可斯",
+      "name_target": "Pecos",
+      "name_aliases": [],
+      "gender": "unknown",
+      "age_group": "",
+      "social_status": "",
+      "base_archetype": "wizard",
+      "speech_style": "",
+      "first_appearance": {
+        "chapter": 0,
+        "context": ""
+      },
+      "cultivation": {
+        "primary_system": "",
+        "current_realm": "",
+        "current_sub_stage": "",
+        "notes": ""
+      },
+      "abilities": [],
+      "faction": {
+        "current": {},
+        "history": []
+      },
+      "achievements": [],
+      "status": "active",
+      "appearance": {
+        "physical": "Lão Hắc vu sư cao cấp ở thành Cabolos đóng vai trò điều giải và tìm hiểu nguyên nhân tiên tri phản phệ từ Kekelia.",
         "style": "",
         "distinctive": ""
       },

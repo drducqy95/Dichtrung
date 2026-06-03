@@ -3,8 +3,8 @@
     "version": "2.0",
     "schema": "gold",
     "branch": "Vu Su Tu Thai Duong Chi Tu",
-    "last_updated": "2026-06-04T05:20:21.827962+07:00",
-    "total_entries": 1715
+    "last_updated": "2026-06-04T05:23:12.058161+07:00",
+    "total_entries": 1721
   },
   "entries": [
     {
@@ -20677,6 +20677,66 @@
       "context": "",
       "confidence": "medium",
       "notes": "Tinh thạch lấy từ dị thế giới, giúp vu sư tăng độ thân hòa với lửa.",
+      "locked": false
+    },
+    {
+      "source": "元素学院",
+      "source_language": "zh",
+      "target": "Học Viện Nguyên Tố",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một học phái/thế lực vu sư ở miền Trung.",
+      "locked": false
+    },
+    {
+      "source": "冥想之地",
+      "source_language": "zh",
+      "target": "vùng đất minh tưởng",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một thế lực vu sư ở miền Trung.",
+      "locked": false
+    },
+    {
+      "source": "虚空融合者",
+      "source_language": "zh",
+      "target": "Kẻ Dung Hợp Hư Không",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Trường phái vu sư chuyên dung hợp các sinh mệnh hư không.",
+      "locked": false
+    },
+    {
+      "source": "虚空控制研究会",
+      "source_language": "zh",
+      "target": "Hội Nghiên Cứu Kiểm Soát Hư Không",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Một tổ chức/học phái vu sư chuyên nghiên cứu hư không ở miền Trung.",
+      "locked": false
+    },
+    {
+      "source": "原始能量追求者流派",
+      "source_language": "zh",
+      "target": "Trường Phái Mưu Cầu Năng Lượng Nguyên Thủy",
+      "category": "faction",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Học phái vu sư chuyên nghiên cứu và sử dụng năng lượng nguyên thủy.",
+      "locked": false
+    },
+    {
+      "source": "原始能量",
+      "source_language": "zh",
+      "target": "năng lượng nguyên thủy",
+      "category": "cultivation",
+      "context": "",
+      "confidence": "medium",
+      "notes": "Loại năng lượng cao cấp được nghiên cứu bởi Trường Phái Mưu Cầu Năng Lượng Nguyên Thủy.",
       "locked": false
     }
   ]

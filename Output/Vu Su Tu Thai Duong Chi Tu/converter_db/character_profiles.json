@@ -2,8 +2,8 @@
   "metadata": {
     "branch": "Vu Su Tu Thai Duong Chi Tu",
     "book_title": "Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới",
-    "generated_at": "2026-06-04T05:20:55+07:00",
-    "total_characters": 424,
+    "generated_at": "2026-06-04T05:23:39+07:00",
+    "total_characters": 426,
     "style_tags": [
       "tây phương",
       "fantasy"
@@ -3032,6 +3032,26 @@
       }
     },
     {
+      "id": "",
+      "name_original": "克克莉娅",
+      "name_translated": "Kekelia",
+      "gender": "unknown",
+      "role": "wizard",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Nữ vu sư tiên tri ở thành Cabolos, bị phản phệ dữ dội khi tiên tri về Grimm.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Kekelia, a figure character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Character context: Nữ vu sư tiên tri ở thành Cabolos, bị phản phệ dữ dội khi tiên tri về Grimm.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Kekelia (figure) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Description: Nữ vu sư tiên tri ở thành Cabolos, bị phản phệ dữ dội khi tiên tri về Grimm.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/kekelia_portrait.png",
+        "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/kekelia_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
       "id": "Kerry",
       "name_original": "克里",
       "name_translated": "Kerry",
@@ -5387,6 +5407,26 @@
         "scene_prompt": "Full-body scene illustration of Osgoodin (man) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Description: Giám mục Thần Ân giáo, người ủy thác và bạn của Chris Modo.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
         "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/osgoodin_portrait.png",
         "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/osgoodin_scene.png",
+        "asset_candidates": [],
+        "status": "prompt_ready"
+      }
+    },
+    {
+      "id": "",
+      "name_original": "佩可斯",
+      "name_translated": "Pecos",
+      "gender": "unknown",
+      "role": "wizard",
+      "status": "active",
+      "first_appearance": "{'chapter': 0, 'context': ''}",
+      "description_vi": "Lão Hắc vu sư cao cấp ở thành Cabolos đóng vai trò điều giải và tìm hiểu nguyên nhân tiên tri phản phệ từ Kekelia.",
+      "personality": "",
+      "abilities": "",
+      "illustration": {
+        "portrait_prompt": "Portrait of Pecos, a figure character from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Character context: Lão Hắc vu sư cao cấp ở thành Cabolos đóng vai trò điều giải và tìm hiểu nguyên nhân tiên tri phản phệ từ Kekelia.. Composition: bust portrait, 3/4 angle, expressive face. Art style: epic fantasy illustration, detailed linework, rich color palette. High detail, professional illustration, no text or watermarks.",
+        "scene_prompt": "Full-body scene illustration of Pecos (figure) from 'Vu Sư Theo Thái Dương Chi Tử Bắt Đầu Thiêu Đốt Thế Giới'. Role: distinctive character. Description: Lão Hắc vu sư cao cấp ở thành Cabolos đóng vai trò điều giải và tìm hiểu nguyên nhân tiên tri phản phệ từ Kekelia.. Setting: Truyện bối cảnh Thế giới Vu sư phương Tây, nhân vật chính xuyên không mang theo chíp phân tích AI. Các yếu tố quan trọng: khoa học viễn tưởng kết hợp ma thuật huyền bí, kỵ sĩ xưng . First appears in {'chapter': 0, 'context': ''}. Art style: epic fantasy illustration, detailed linework, rich color palette. Dynamic composition, full body visible, dramatic lighting, no text or watermarks.",
+        "portrait_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/pecos_portrait.png",
+        "scene_slot": "Output/Vu Su Tu Thai Duong Chi Tu/illustrations/characters/pecos_scene.png",
         "asset_candidates": [],
         "status": "prompt_ready"
       }

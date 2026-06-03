@@ -3735,3 +3735,10 @@
 {"chapter_id": "chapter_0331", "source_surface": "寒冰世界", "target_surface": "Thế giới Hàn Băng", "entity_type": "locations", "segment_id": "chapter_0331:seg_0001", "confidence": 1.0}
 {"chapter_id": "chapter_0331", "source_surface": "卡波洛斯城", "target_surface": "thành Cabolos", "entity_type": "locations", "segment_id": "chapter_0331:seg_0001", "confidence": 1.0}
 {"chapter_id": "chapter_0331", "source_surface": "魔石", "target_surface": "ma thạch", "entity_type": "items", "segment_id": "chapter_0331:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0332", "source_surface": "格林", "target_surface": "Grimm", "entity_type": "person", "segment_id": "chapter_0332:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0332", "source_surface": "黑巫师", "target_surface": "Hắc vu sư", "entity_type": "factions", "segment_id": "chapter_0332:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0332", "source_surface": "冰洁学派", "target_surface": "học phái Băng Khiết", "entity_type": "factions", "segment_id": "chapter_0332:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0332", "source_surface": "巫术", "target_surface": "vu thuật", "entity_type": "techniques", "segment_id": "chapter_0332:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0332", "source_surface": "冥想", "target_surface": "minh tưởng", "entity_type": "techniques", "segment_id": "chapter_0332:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0332", "source_surface": "精神力", "target_surface": "tinh thần lực", "entity_type": "cultivation_resources", "segment_id": "chapter_0332:seg_0001", "confidence": 1.0}
+{"chapter_id": "chapter_0332", "source_surface": "城堡", "target_surface": "Lâu đài trên đỉnh đồi", "entity_type": "locations", "segment_id": "chapter_0332:seg_0001", "confidence": 1.0}

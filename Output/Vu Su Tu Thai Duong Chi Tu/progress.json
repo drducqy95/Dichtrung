@@ -1,5 +1,5 @@
 {
-  "completed_chapters": 331,
+  "completed_chapters": 332,
   "total_chapters": 915,
   "chapters": [
     {
@@ -1990,9 +1990,9 @@
     },
     {
       "chapter_number": 332,
-      "title": "第332章 预言风波（二）",
-      "status": "PENDING",
-      "last_updated": null
+      "title": "Chương 332: Sóng gió tiên tri (2)",
+      "status": "DONE",
+      "last_updated": "2026-06-04T05:23:12.090345+07:00"
     },
     {
       "chapter_number": 333,
@@ -5493,7 +5493,7 @@
       "last_updated": null
     }
   ],
-  "last_updated": "2026-06-04T05:20:54+07:00",
+  "last_updated": "2026-06-04T05:23:38+07:00",
   "workflow_artifacts": {
     "branch_readme": "README.md",
     "converter_db_ready": true,

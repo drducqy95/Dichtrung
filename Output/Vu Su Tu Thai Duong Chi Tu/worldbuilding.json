@@ -298,6 +298,26 @@
       "name_source": "世界开发议会",
       "name_target": "Hội Đồng Phát Triển Thế Giới",
       "description": "Nền tảng liên minh rộng lớn gồm các thế lực miền Trung để phục vụ chiến tranh đối ngoại và khai phá dị thế giới."
+    },
+    {
+      "name_source": "元素学院",
+      "name_target": "Học Viện Nguyên Tố",
+      "description": "Thế lực chuyên về ma pháp nguyên tố miền Trung."
+    },
+    {
+      "name_source": "冥想之地",
+      "name_target": "vùng đất minh tưởng",
+      "description": "Thế lực vu sư lớn chuyên sâu về kỹ thuật minh tưởng ở miền Trung."
+    },
+    {
+      "name_source": "虚空控制研究会",
+      "name_target": "Hội Nghiên Cứu Kiểm Soát Hư Không",
+      "description": "Tổ chức học phái của các Kẻ Dung Hợp Hư Không tại miền Trung."
+    },
+    {
+      "name_source": "原始能量追求者流派",
+      "name_target": "Trường Phái Mưu Cầu Năng Lượng Nguyên Thủy",
+      "description": "Trường phái vu sư nghiên cứu kỹ thuật vận dụng năng lượng nguyên thủy cực đoan."
     }
   ],
   "weapons": [],
@@ -1180,6 +1200,11 @@
       "name_source": "灵魂之力",
       "name_target": "hồn lực",
       "description": "Nguồn năng lượng linh hồn tích lũy sau khi hấp thụ các linh hồn sinh vật khác."
+    },
+    {
+      "name_source": "原始能量",
+      "name_target": "năng lượng nguyên thủy",
+      "description": "Hệ thống năng lượng cao cấp được các vu sư trường phái năng lượng nguyên thủy theo đuổi."
     }
   ],
   "power_ranking": {
