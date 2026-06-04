@@ -346,3 +346,4 @@
 - Chương 0344: Chương 344: Thay thế thế giới ý chí
 - Chương 0345: Chương 345: Hấp thụ
 - Chương 0346: Chương 346: Nhận nhiệm vụ
+- Chương 0347: Chương 347: Lời nguyền (1)

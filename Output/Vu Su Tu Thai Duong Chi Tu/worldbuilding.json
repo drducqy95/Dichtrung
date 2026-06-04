@@ -343,6 +343,11 @@
       "name_source": "永恒药剂学院",
       "name_target": "Học viện Dược Tể Vĩnh Hằng",
       "description": "Một trong Thất Đại Học Viện của Liên Minh Truy Tìm Chân Lý, chuyên về dược tể học."
+    },
+    {
+      "name_source": "水晶制造者",
+      "name_target": "Kẻ Chế Tạo Pha Lê",
+      "description": "Tổ chức cấp dưới của Kẻ Mưu Cầu Con Đường Dị Loại, có vu sư mạnh nhất đạt cấp bốn, tổng bộ đặt tại Vách Đá Pha Lê."
     }
   ],
   "weapons": [],
@@ -1057,6 +1062,11 @@
       "name_source": "双向实时传送阵",
       "name_target": "trận pháp truyền tống hai chiều thời gian thực",
       "description": "Trận pháp truyền tống tiên tiến do Liên Minh Truy Tìm Chân Lý nghiên cứu, cho phép duy trì thông đạo mở liên tục để dịch chuyển hai chiều thời gian thực, có nhược điểm tiêu hao năng lượng cực cao và giới hạn dung lượng thông đạo."
+    },
+    {
+      "name_source": "红月之咒印",
+      "name_target": "Hồng Nguyệt Chi Chú Ấn",
+      "description": "Vu thuật nguyền rủa huyết mạch đặc biệt của Grimm lấy phù văn mặt trăng làm trung tâm, dẫn dụ sức mạnh ánh trăng và đính kèm mô hình quy tắc Linh Hồn Liệt Giải."
     }
   ],
   "cultivation_systems": [],
@@ -1685,6 +1695,11 @@
       "name_source": "天空之城",
       "name_target": "Thiên Không Chi Thành",
       "description": "Pháo đài bay lơ lửng trên bầu trời của các vu sư cấp sáu, đóng vai trò là cốt lõi phòng thí nghiệm và là yếu tắc trong chiến tranh thế giới."
+    },
+    {
+      "name_source": "水晶之崖",
+      "name_target": "Vách Đá Pha Lê",
+      "description": "Tổng bộ của tổ chức Kẻ Chế Tạo Pha Lê."
     }
   ],
   "world_map": {
