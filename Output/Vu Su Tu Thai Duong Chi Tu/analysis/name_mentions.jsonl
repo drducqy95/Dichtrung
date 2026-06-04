@@ -1636,3 +1636,7 @@
 {"chapter_id": "chapter_0342", "name_source": "格林", "name_target": "Grimm", "segment_id": "chapter_0342:seg_0001", "present_in_target": true, "confidence": 1.0}
 {"chapter_id": "chapter_0342", "name_source": "索恩", "name_target": "Thorn", "segment_id": "chapter_0342:seg_0001", "present_in_target": true, "confidence": 1.0}
 {"chapter_id": "chapter_0342", "name_source": "卡斯皮", "name_target": "Casper", "segment_id": "chapter_0342:seg_0001", "present_in_target": true, "confidence": 1.0}
+{"chapter_id": "chapter_0343", "name_source": "死亡", "name_target": "Death", "segment_id": "chapter_0343:seg_0001", "present_in_target": false, "confidence": 1.0}
+{"chapter_id": "chapter_0343", "name_source": "格林", "name_target": "Grimm", "segment_id": "chapter_0343:seg_0001", "present_in_target": true, "confidence": 1.0}
+{"chapter_id": "chapter_0343", "name_source": "索恩", "name_target": "Thorn", "segment_id": "chapter_0343:seg_0001", "present_in_target": true, "confidence": 1.0}
+{"chapter_id": "chapter_0343", "name_source": "摩特洛斯", "name_target": "Motros", "segment_id": "chapter_0343:seg_0001", "present_in_target": true, "confidence": 1.0}
