@@ -1,5 +1,5 @@
 {
-  "completed_chapters": 345,
+  "completed_chapters": 346,
   "total_chapters": 915,
   "chapters": [
     {
@@ -2074,9 +2074,9 @@
     },
     {
       "chapter_number": 346,
-      "title": "第346章 接任务",
-      "status": "PENDING",
-      "last_updated": null
+      "title": "Chương 346: Nhận nhiệm vụ",
+      "status": "DONE",
+      "last_updated": "2026-06-04T17:41:20.692291+07:00"
     },
     {
       "chapter_number": 347,
@@ -5493,7 +5493,7 @@
       "last_updated": null
     }
   ],
-  "last_updated": "2026-06-04T17:39:36+07:00",
+  "last_updated": "2026-06-04T17:41:21+07:00",
   "workflow_artifacts": {
     "branch_readme": "README.md",
     "converter_db_ready": true,
