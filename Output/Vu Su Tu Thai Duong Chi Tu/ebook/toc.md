@@ -344,3 +344,4 @@
 - Chương 0342: Chương 342: Sức mạnh chân thân một lần nữa bành trướng
 - Chương 0343: Chương 343: Hoàn toàn tiến vào thế giới
 - Chương 0344: Chương 344: Thay thế thế giới ý chí
+- Chương 0345: Chương 345: Hấp thụ
