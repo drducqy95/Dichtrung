@@ -343,3 +343,4 @@
 - Chương 0341: Chương 341: Tới chiến trường
 - Chương 0342: Chương 342: Sức mạnh chân thân một lần nữa bành trướng
 - Chương 0343: Chương 343: Hoàn toàn tiến vào thế giới
+- Chương 0344: Chương 344: Thay thế thế giới ý chí
