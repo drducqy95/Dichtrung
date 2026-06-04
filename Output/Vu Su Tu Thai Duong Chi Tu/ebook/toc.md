@@ -348,3 +348,4 @@
 - Chương 0346: Chương 346: Nhận nhiệm vụ
 - Chương 0347: Chương 347: Lời nguyền (1)
 - Chương 0348: Chương 348: Lời nguyền (2)
+- Chương 0349: Chương 349: Bộc phát lần hai
